@@ -1,0 +1,27 @@
+{
+  "name": "aps-platform",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "APS Publishing Platform — A structured research instrument for the Agency-Process-Scale framework",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "lint": "eslint . --ext .ts,.astro",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.2",
+    "eslint-plugin-astro": "^1.6.0",
+    "prettier": "^3.8.1",
+    "typescript-eslint": "^8.56.1"
+  }
+}

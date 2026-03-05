@@ -1,0 +1,10 @@
+# APS Publishing Platform — Redirect Mappings
+# Source of truth for URL redirects.
+# Format: from -> to (301 permanent redirect)
+# Build script generates Netlify _redirects or Vercel vercel.json from this file.
+#
+# Example:
+# - from: "/old-path/"
+#   to: "/new-path/"
+#   status: 301
+redirects: []
