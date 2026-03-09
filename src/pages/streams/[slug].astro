@@ -1,0 +1,91 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import PageMeta from '@/components/PageMeta.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('streams');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, slug, overview, status, revised, cluster, associatedGlossaryTerms } = entry.data;
+
+// Auto-list articles that belong to this stream
+const allArticles = await getCollection('articles');
+const streamArticles = allArticles.filter((a) => a.data.researchStream === slug);
+const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+streamArticles.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+
+// Get associated glossary terms
+const glossary = await getCollection('glossary');
+const relatedTerms = associatedGlossaryTerms
+  .map((s: string) => glossary.find((g) => g.data.slug === s))
+  .filter(Boolean);
+---
+
+<BaseLayout title={title} description={overview}>
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Research Hubs', href: '/streams/' }, { label: title }]} />
+
+    <header class="page-header">
+      <h1>{title}</h1>
+      <PageMeta status={status} type="stream" cluster={cluster} revised={revised} />
+    </header>
+
+    <div class="abstract">
+      <div class="abstract-label">Overview</div>
+      <p>{overview}</p>
+    </div>
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    {
+      streamArticles.length > 0 && (
+        <section>
+          <h2>Articles in This Stream</h2>
+          <ul class="stream-article-list">
+            {streamArticles.map((article) => (
+              <li class="stream-article-item">
+                <span class="stream-article-title">
+                  <a href={`/articles/${article.data.slug}/`}>{article.data.title}</a>
+                </span>
+                <StatusBadge status={article.data.status} />
+                <TypeBadge type="article" />
+                <p class="stream-article-abstract">{article.data.abstract}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      relatedTerms.length > 0 && (
+        <div class="related-terms">
+          <h3>Related Glossary Terms</h3>
+          <ul class="tag-list">
+            {relatedTerms.map((g: any) => (
+              <li>
+                <a href={`/glossary/${g.data.slug}/`}>{g.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

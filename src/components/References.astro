@@ -1,0 +1,57 @@
+---
+interface Reference {
+  id: string;
+  authors: string;
+  year: number;
+  title: string;
+  journal?: string;
+  publisher?: string;
+  volume?: string;
+  pages?: string;
+  doi?: string;
+}
+
+interface Props {
+  references: Reference[];
+}
+
+const { references } = Astro.props;
+---
+
+{
+  references.length > 0 && (
+    <section class="references">
+      <h2>References</h2>
+      <ol class="ref-list">
+        {references.map((ref) => (
+          <li class="ref-entry" id={`ref-${ref.id}`}>
+            <span class="ref-authors">{ref.authors}</span> ({ref.year}).{' '}
+            <span class="ref-title">{ref.title}</span>.
+            {ref.journal && (
+              <>
+                {' '}
+                <em>{ref.journal}</em>
+              </>
+            )}
+            {ref.volume && <>, {ref.volume}</>}
+            {ref.pages && <>, {ref.pages}</>}
+            {ref.publisher && <> {ref.publisher}</>}.
+            {ref.doi && (
+              <>
+                {' '}
+                <a
+                  class="ref-doi"
+                  href={`https://doi.org/${ref.doi}`}
+                  target="_blank"
+                  rel="noopener"
+                >
+                  doi:{ref.doi}
+                </a>
+              </>
+            )}
+          </li>
+        ))}
+      </ol>
+    </section>
+  )
+}

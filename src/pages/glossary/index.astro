@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+const glossary = await getCollection('glossary');
+glossary.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="Glossary"
+  description="The conceptual spine of the APS framework — precise definitions of key terms."
+>
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Glossary' }]} />
+
+    <header class="page-header">
+      <h1>Glossary</h1>
+      <p>
+        The conceptual spine of the APS framework. Each entry provides a precise definition, brief
+        summary, and links to related concepts.
+      </p>
+    </header>
+
+    <ul class="card-list">
+      {
+        glossary.map((entry) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href={`/glossary/${entry.data.slug}/`}>{entry.data.title}</a>
+              </h3>
+              <StatusBadge status={entry.data.status} />
+              <TypeBadge type="glossary" />
+            </div>
+            <p class="card-excerpt">{entry.data.inBrief}</p>
+            <div class="card-meta">Revised: {entry.data.revised}</div>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>

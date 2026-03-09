@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+const diagrams = await getCollection('diagrams');
+diagrams.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout title="Diagrams" description="Visual diagrams illustrating APS framework concepts.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Diagrams' }]} />
+
+    <header class="page-header">
+      <h1>Diagrams</h1>
+      <p>
+        Visual representations of APS framework concepts. All diagrams use SVG format for maximum
+        clarity and accessibility.
+      </p>
+    </header>
+
+    <ul class="card-list">
+      {
+        diagrams.map((entry) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href={`/diagrams/${entry.data.slug}/`}>{entry.data.title}</a>
+              </h3>
+              <StatusBadge status={entry.data.status} />
+              <TypeBadge type="diagram" />
+            </div>
+            <p class="card-excerpt">{entry.data.caption}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="'Georgia', serif">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568"/>
+    </marker>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" fill="#fafaf8" rx="4"/>
+
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a202c">Figure 1 — The Agency–Process–Scale Triad</text>
+
+  <!-- Agency Node -->
+  <circle cx="400" cy="130" r="55" fill="#ebf4ff" stroke="#3182ce" stroke-width="2" filter="url(#shadow)"/>
+  <text x="400" y="126" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c5282">Agency</text>
+  <text x="400" y="144" text-anchor="middle" font-size="11" fill="#4a7ab5">Causal initiation</text>
+
+  <!-- Process Node -->
+  <circle cx="250" cy="300" r="55" fill="#f0fff4" stroke="#38a169" stroke-width="2" filter="url(#shadow)"/>
+  <text x="250" y="296" text-anchor="middle" font-size="15" font-weight="bold" fill="#276749">Process</text>
+  <text x="250" y="314" text-anchor="middle" font-size="11" fill="#48a870">Temporal unfolding</text>
+
+  <!-- Scale Node -->
+  <circle cx="550" cy="300" r="55" fill="#fff5f5" stroke="#e53e3e" stroke-width="2" filter="url(#shadow)"/>
+  <text x="550" y="296" text-anchor="middle" font-size="15" font-weight="bold" fill="#9b2c2c">Scale</text>
+  <text x="550" y="314" text-anchor="middle" font-size="11" fill="#c53030">Structural scope</text>
+
+  <!-- Connecting Lines -->
+  <line x1="355" y1="168" x2="290" y2="258" stroke="#4a5568" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <line x1="445" y1="168" x2="510" y2="258" stroke="#4a5568" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+  <line x1="305" y1="300" x2="495" y2="300" stroke="#4a5568" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+
+  <!-- Edge Labels -->
+  <text x="305" y="208" text-anchor="middle" font-size="10" fill="#718096" transform="rotate(-40, 305, 208)">enacts</text>
+  <text x="495" y="208" text-anchor="middle" font-size="10" fill="#718096" transform="rotate(40, 495, 208)">operates at</text>
+  <text x="400" y="290" text-anchor="middle" font-size="10" fill="#718096">unfolds across</text>
+
+  <!-- Caption area -->
+  <text x="400" y="385" text-anchor="middle" font-size="11" fill="#718096" font-style="italic">The three vertices are co-defining: no vertex is intelligible without the other two.</text>
+</svg>

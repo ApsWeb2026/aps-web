@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+const articles = await getCollection('articles');
+const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+articles.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+---
+
+<BaseLayout title="Articles" description="Research articles exploring Agency, Process, and Scale.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Articles' }]} />
+
+    <header class="page-header">
+      <h1>Articles</h1>
+      <p>
+        Research essays exploring the APS framework. Canonical articles represent the stable core;
+        evolving and draft articles are works in progress.
+      </p>
+    </header>
+
+    <ul class="card-list">
+      {
+        articles.map((entry) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href={`/articles/${entry.data.slug}/`}>{entry.data.title}</a>
+              </h3>
+              <StatusBadge status={entry.data.status} />
+              <TypeBadge type="article" />
+            </div>
+            <p class="card-excerpt">{entry.data.abstract}</p>
+            <div class="card-meta">Revised: {entry.data.revised}</div>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>

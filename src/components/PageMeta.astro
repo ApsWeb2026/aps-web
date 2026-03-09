@@ -1,0 +1,45 @@
+---
+import StatusBadge from './StatusBadge.astro';
+import TypeBadge from './TypeBadge.astro';
+
+interface Props {
+  status: 'draft' | 'evolving' | 'canonical';
+  type: 'article' | 'glossary' | 'stream' | 'orientation' | 'diagram' | 'box';
+  cluster?: string;
+  revised?: string;
+}
+
+const { status, type, cluster, revised } = Astro.props;
+
+const clusterLabels: Record<string, string> = {
+  foundations: 'Foundations of the APS Framework',
+  'definition-borderlines': 'Definition & Borderlines',
+  'cognition-mind': 'Cognition & Mind',
+  'empirical-interface': 'Empirical Interface',
+  'scaling-complexity': 'Scaling & Complexity',
+  'historical-context': 'Historical & Philosophical Context',
+};
+---
+
+<div class="page-meta">
+  <StatusBadge status={status} />
+  <TypeBadge type={type} />
+  {
+    cluster && (
+      <>
+        <span class="page-meta-divider">|</span>
+        <span class="page-meta-item">
+          <a href={`/clusters/${cluster}/`}>{clusterLabels[cluster] || cluster}</a>
+        </span>
+      </>
+    )
+  }
+  {
+    revised && (
+      <>
+        <span class="page-meta-divider">|</span>
+        <span class="page-meta-item">Revised: {revised}</span>
+      </>
+    )
+  }
+</div>
