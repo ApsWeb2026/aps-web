@@ -1,0 +1,299 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+
+media_folder: "public/assets"
+public_folder: "/assets"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  # ──────────────────────────────────────────────
+  # Glossary Entries
+  # ──────────────────────────────────────────────
+  - name: "glossary"
+    label: "Glossary Entries"
+    label_singular: "Glossary Entry"
+    folder: "src/content/glossary"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    editor:
+      preview: false
+    sortable_fields: ["title", "status", "cluster", "revised"]
+    summary: "{{title}} — {{status}} ({{cluster}})"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - { label: "Definition", name: "definition", widget: "text", required: true, hint: "One-paragraph formal definition" }
+      - { label: "In Brief", name: "inBrief", widget: "text", required: true, hint: "One-sentence plain-language summary" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Evolving", value: "evolving" }
+          - { label: "Canonical", value: "canonical" }
+      - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
+      - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false, hint: "Date this entry was locked as canonical" }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - label: "Cluster"
+        name: "cluster"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Foundations of the APS Framework", value: "foundations" }
+          - { label: "Definition & Borderlines", value: "definition-borderlines" }
+          - { label: "Cognition & Mind", value: "cognition-mind" }
+          - { label: "Empirical Interface", value: "empirical-interface" }
+          - { label: "Scaling & Complexity", value: "scaling-complexity" }
+          - { label: "Historical & Philosophical Context", value: "historical-context" }
+      - label: "See Also"
+        name: "seeAlso"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related glossary entries"
+      - label: "References"
+        name: "references"
+        widget: "list"
+        required: false
+        default: []
+        fields:
+          - { label: "ID", name: "id", widget: "string", required: true, hint: "e.g. thompson-2007" }
+          - { label: "Authors", name: "authors", widget: "string", required: true }
+          - { label: "Year", name: "year", widget: "number", value_type: "int", required: true }
+          - { label: "Title", name: "title", widget: "string", required: true }
+          - { label: "Journal", name: "journal", widget: "string", required: false }
+          - { label: "Publisher", name: "publisher", widget: "string", required: false }
+          - { label: "Volume", name: "volume", widget: "string", required: false }
+          - { label: "Pages", name: "pages", widget: "string", required: false }
+          - { label: "DOI", name: "doi", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # ──────────────────────────────────────────────
+  # Articles
+  # ──────────────────────────────────────────────
+  - name: "articles"
+    label: "Articles"
+    label_singular: "Article"
+    folder: "src/content/articles"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    editor:
+      preview: false
+    sortable_fields: ["title", "status", "cluster", "revised"]
+    summary: "{{title}} — {{status}} ({{cluster}})"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - { label: "Abstract", name: "abstract", widget: "text", required: true, hint: "A brief abstract summarising the article" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Evolving", value: "evolving" }
+          - { label: "Canonical", value: "canonical" }
+      - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
+      - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - label: "Cluster"
+        name: "cluster"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Foundations of the APS Framework", value: "foundations" }
+          - { label: "Definition & Borderlines", value: "definition-borderlines" }
+          - { label: "Cognition & Mind", value: "cognition-mind" }
+          - { label: "Empirical Interface", value: "empirical-interface" }
+          - { label: "Scaling & Complexity", value: "scaling-complexity" }
+          - { label: "Historical & Philosophical Context", value: "historical-context" }
+      - label: "Key Points"
+        name: "keyPoints"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Point", name: "point", widget: "string" }
+      - label: "Related Glossary Terms"
+        name: "relatedGlossaryTerms"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related glossary entries"
+      - { label: "Research Stream", name: "researchStream", widget: "string", required: false, hint: "Slug of the associated research stream" }
+      - label: "References"
+        name: "references"
+        widget: "list"
+        required: false
+        default: []
+        fields:
+          - { label: "ID", name: "id", widget: "string", required: true, hint: "e.g. thompson-2007" }
+          - { label: "Authors", name: "authors", widget: "string", required: true }
+          - { label: "Year", name: "year", widget: "number", value_type: "int", required: true }
+          - { label: "Title", name: "title", widget: "string", required: true }
+          - { label: "Journal", name: "journal", widget: "string", required: false }
+          - { label: "Publisher", name: "publisher", widget: "string", required: false }
+          - { label: "Volume", name: "volume", widget: "string", required: false }
+          - { label: "Pages", name: "pages", widget: "string", required: false }
+          - { label: "DOI", name: "doi", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # ──────────────────────────────────────────────
+  # Research Streams
+  # ──────────────────────────────────────────────
+  - name: "streams"
+    label: "Research Streams"
+    label_singular: "Research Stream"
+    folder: "src/content/streams"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    editor:
+      preview: false
+    sortable_fields: ["title", "status", "cluster", "revised"]
+    summary: "{{title}} — {{status}} ({{cluster}})"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - { label: "Overview", name: "overview", widget: "text", required: true, hint: "Brief overview of this research stream" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Evolving", value: "evolving" }
+          - { label: "Canonical", value: "canonical" }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - label: "Cluster"
+        name: "cluster"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Foundations of the APS Framework", value: "foundations" }
+          - { label: "Definition & Borderlines", value: "definition-borderlines" }
+          - { label: "Cognition & Mind", value: "cognition-mind" }
+          - { label: "Empirical Interface", value: "empirical-interface" }
+          - { label: "Scaling & Complexity", value: "scaling-complexity" }
+          - { label: "Historical & Philosophical Context", value: "historical-context" }
+      - label: "Associated Glossary Terms"
+        name: "associatedGlossaryTerms"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # ──────────────────────────────────────────────
+  # Orientation Pages
+  # ──────────────────────────────────────────────
+  - name: "orientation"
+    label: "Orientation Pages"
+    label_singular: "Orientation Page"
+    folder: "src/content/orientation"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    editor:
+      preview: false
+    sortable_fields: ["title", "status", "revised"]
+    summary: "{{title}} — {{status}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Evolving", value: "evolving" }
+          - { label: "Canonical", value: "canonical" }
+      - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
+      - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # ──────────────────────────────────────────────
+  # APS Boxes
+  # ──────────────────────────────────────────────
+  - name: "boxes"
+    label: "APS Boxes"
+    label_singular: "APS Box"
+    folder: "src/content/boxes"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    editor:
+      preview: false
+    sortable_fields: ["title", "status"]
+    summary: "{{title}} — {{status}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Evolving", value: "evolving" }
+          - { label: "Canonical", value: "canonical" }
+      - label: "Associated Pages"
+        name: "associatedPages"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Page Path", name: "path", widget: "string" }
+        hint: "Paths of pages that use this box, e.g. /glossary/function/"
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # ──────────────────────────────────────────────
+  # Diagrams
+  # ──────────────────────────────────────────────
+  - name: "diagrams"
+    label: "Diagrams"
+    label_singular: "Diagram"
+    folder: "src/content/diagrams"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    editor:
+      preview: false
+    sortable_fields: ["title", "status", "revised"]
+    summary: "{{title}} — {{status}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - { label: "SVG File", name: "svgFile", widget: "file", required: true, hint: "Path to the SVG diagram file" }
+      - { label: "Caption", name: "caption", widget: "string", required: true }
+      - { label: "Description", name: "description", widget: "text", required: true, hint: "Accessible description of the diagram" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        required: true
+        options:
+          - { label: "Draft", value: "draft" }
+          - { label: "Evolving", value: "evolving" }
+          - { label: "Canonical", value: "canonical" }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Figure Number", name: "figureNumber", widget: "string", required: false }
+      - label: "Cross References"
+        name: "crossReferences"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Page Path", name: "path", widget: "string" }
+        hint: "Paths of related pages, e.g. /glossary/biological-agency/"
+      - { label: "Body", name: "body", widget: "markdown" }

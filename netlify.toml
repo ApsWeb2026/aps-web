@@ -6,6 +6,13 @@
   NODE_VERSION = "20"
   NPM_VERSION = "10"
 
+# Serve admin SPA correctly
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+# Fallback 404
 [[redirects]]
   from = "/*"
   to = "/404/"
