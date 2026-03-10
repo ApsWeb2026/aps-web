@@ -22,6 +22,7 @@ const {
     <meta name="description" content={description} />
     <title>{title} — APS Publishing Platform</title>
     <link rel="sitemap" href="/sitemap-index.xml" />
+    <script is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <Header />
@@ -29,5 +30,16 @@ const {
       <slot />
     </main>
     <Footer />
+    <script is:inline>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function(user) {
+          if (!user) {
+            window.netlifyIdentity.on("login", function() {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
