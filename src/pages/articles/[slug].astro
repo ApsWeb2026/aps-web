@@ -1,0 +1,71 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import PageMeta from '@/components/PageMeta.astro';
+import LockBanner from '@/components/LockBanner.astro';
+import References from '@/components/References.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('articles');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const {
+  title,
+  abstract,
+  status,
+  canonical,
+  canonicalLockDate,
+  revised,
+  cluster,
+  keyPoints,
+  references,
+} = entry.data;
+---
+
+<BaseLayout title={title} description={abstract}>
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Articles', href: '/articles/' }, { label: title }]} />
+
+    <header class="page-header">
+      <h1>{title}</h1>
+      <PageMeta status={status} type="article" cluster={cluster} revised={revised} />
+    </header>
+
+    {
+      canonical && canonicalLockDate && (
+        <LockBanner lockDate={canonicalLockDate} revised={revised} />
+      )
+    }
+
+    <div class="abstract">
+      <div class="abstract-label">Abstract</div>
+      <p>{abstract}</p>
+    </div>
+
+    {
+      keyPoints.length > 0 && (
+        <div class="key-points">
+          <h3>Key Points</h3>
+          <ul>
+            {keyPoints.map((point: string) => (
+              <li>{point}</li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    <References references={references} />
+  </div>
+</BaseLayout>

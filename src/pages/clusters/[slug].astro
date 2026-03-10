@@ -1,0 +1,161 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+const clusters = [
+  {
+    slug: 'foundations',
+    title: 'Foundations of the APS Framework',
+    description: 'Core axioms, definitions, and the formal spine of Agency, Process, and Scale.',
+  },
+  {
+    slug: 'definition-borderlines',
+    title: 'Definition & Borderlines',
+    description:
+      'Where APS concepts end and adjacent frameworks begin. Boundary conditions and disambiguation.',
+  },
+  {
+    slug: 'cognition-mind',
+    title: 'Cognition & Mind',
+    description:
+      'How APS maps onto cognitive science, 4E cognition, enactivism, and philosophy of mind.',
+  },
+  {
+    slug: 'empirical-interface',
+    title: 'Empirical Interface',
+    description:
+      'Operationalisation strategies, measurement proposals, and empirical test cases for APS claims.',
+  },
+  {
+    slug: 'scaling-complexity',
+    title: 'Scaling & Complexity',
+    description:
+      'Multi-scale phenomena, emergence, and how APS handles hierarchical and nested systems.',
+  },
+  {
+    slug: 'historical-context',
+    title: 'Historical & Philosophical Context',
+    description:
+      'Intellectual genealogy: Aristotle, Whitehead, dynamical systems theory, and process philosophy.',
+  },
+];
+
+export function getStaticPaths() {
+  return [
+    { params: { slug: 'foundations' } },
+    { params: { slug: 'definition-borderlines' } },
+    { params: { slug: 'cognition-mind' } },
+    { params: { slug: 'empirical-interface' } },
+    { params: { slug: 'scaling-complexity' } },
+    { params: { slug: 'historical-context' } },
+  ];
+}
+
+const { slug } = Astro.params;
+const cluster = clusters.find((c) => c.slug === slug)!;
+
+// Get all content for this cluster
+const articles = (await getCollection('articles')).filter((a) => a.data.cluster === slug);
+const glossaryEntries = (await getCollection('glossary')).filter((g) => g.data.cluster === slug);
+const streams = (await getCollection('streams')).filter((s) => s.data.cluster === slug);
+
+const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+articles.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+glossaryEntries.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+---
+
+<BaseLayout title={cluster.title} description={cluster.description}>
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Clusters' }, { label: cluster.title }]} />
+
+    <header class="cluster-header">
+      <h1>{cluster.title}</h1>
+      <p class="cluster-description">{cluster.description}</p>
+    </header>
+
+    {
+      articles.length > 0 && (
+        <section class="home-section">
+          <h2>Articles</h2>
+          <ul class="card-list">
+            {articles.map((entry) => (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={`/articles/${entry.data.slug}/`}>{entry.data.title}</a>
+                  </h3>
+                  <StatusBadge status={entry.data.status} />
+                  <TypeBadge type="article" />
+                </div>
+                <p class="card-excerpt">{entry.data.abstract}</p>
+                <div class="card-meta">Revised: {entry.data.revised}</div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      glossaryEntries.length > 0 && (
+        <section class="home-section">
+          <h2>Glossary Entries</h2>
+          <ul class="card-list">
+            {glossaryEntries.map((entry) => (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={`/glossary/${entry.data.slug}/`}>{entry.data.title}</a>
+                  </h3>
+                  <StatusBadge status={entry.data.status} />
+                  <TypeBadge type="glossary" />
+                </div>
+                <p class="card-excerpt">{entry.data.inBrief}</p>
+                <div class="card-meta">Revised: {entry.data.revised}</div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      streams.length > 0 && (
+        <section class="home-section">
+          <h2>Research Streams</h2>
+          <ul class="card-list">
+            {streams.map((entry) => (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={`/streams/${entry.data.slug}/`}>{entry.data.title}</a>
+                  </h3>
+                  <StatusBadge status={entry.data.status} />
+                  <TypeBadge type="stream" />
+                </div>
+                <p class="card-excerpt">{entry.data.overview}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      articles.length === 0 && glossaryEntries.length === 0 && streams.length === 0 && (
+        <p>No content has been published in this cluster yet. Check back soon.</p>
+      )
+    }
+  </div>
+</BaseLayout>

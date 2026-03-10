@@ -34,12 +34,10 @@
   /* Status colors */
   --status-canonical: #2d6a30;
   --status-canonical-bg: #e8f5e9;
-  --status-development: #c77700;
-  --status-development-bg: #fff8e1;
-  --status-outreach: #5c6bc0;
-  --status-outreach-bg: #e8eaf6;
-  --status-speculative: #78909c;
-  --status-speculative-bg: #eceff1;
+  --status-evolving: #c77700;
+  --status-evolving-bg: #fff8e1;
+  --status-draft: #78909c;
+  --status-draft-bg: #eceff1;
 
   /* Layout */
   --max-width: 820px;
@@ -333,21 +331,15 @@ li {
   border: 1px solid #c8e6c9;
 }
 
-.badge-development {
-  background: var(--status-development-bg);
-  color: var(--status-development);
+.badge-evolving {
+  background: var(--status-evolving-bg);
+  color: var(--status-evolving);
   border: 1px solid #ffecb3;
 }
 
-.badge-outreach {
-  background: var(--status-outreach-bg);
-  color: var(--status-outreach);
-  border: 1px solid #c5cae9;
-}
-
-.badge-speculative {
-  background: var(--status-speculative-bg);
-  color: var(--status-speculative);
+.badge-draft {
+  background: var(--status-draft-bg);
+  color: var(--status-draft);
   border: 1px solid #cfd8dc;
 }
 

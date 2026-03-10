@@ -1,0 +1,135 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import PageMeta from '@/components/PageMeta.astro';
+import LockBanner from '@/components/LockBanner.astro';
+import References from '@/components/References.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('glossary');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const {
+  title,
+  slug,
+  definition,
+  inBrief,
+  status,
+  canonical,
+  canonicalLockDate,
+  revised,
+  cluster,
+  seeAlso,
+  references,
+} = entry.data;
+
+// Build backlinks: find all articles/orientation/streams that link to this glossary entry
+const articles = await getCollection('articles');
+const allStreams = await getCollection('streams');
+const orientationPages = await getCollection('orientation');
+
+const backlinks: { title: string; href: string; status: string; type: string }[] = [];
+
+for (const article of articles) {
+  if (
+    article.data.relatedGlossaryTerms?.includes(slug) ||
+    (article.body && article.body.includes(`/glossary/${slug}/`))
+  ) {
+    backlinks.push({
+      title: article.data.title,
+      href: `/articles/${article.data.slug}/`,
+      status: article.data.status,
+      type: 'article',
+    });
+  }
+}
+
+// Sort backlinks: canonical first, then by title
+const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+backlinks.sort(
+  (a, b) =>
+    (statusOrder[a.status] ?? 9) - (statusOrder[b.status] ?? 9) || a.title.localeCompare(b.title),
+);
+
+// Get see-also entries
+const glossaryEntries = await getCollection('glossary');
+const seeAlsoEntries = seeAlso
+  .map((s: string) => glossaryEntries.find((g) => g.data.slug === s))
+  .filter(Boolean);
+---
+
+<BaseLayout title={title} description={inBrief}>
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Glossary', href: '/glossary/' }, { label: title }]} />
+
+    <header class="page-header">
+      <h1>{title}</h1>
+      <PageMeta status={status} type="glossary" cluster={cluster} revised={revised} />
+    </header>
+
+    {
+      canonical && canonicalLockDate && (
+        <LockBanner lockDate={canonicalLockDate} revised={revised} />
+      )
+    }
+
+    <div class="definition-block">
+      <div class="definition-label">Definition</div>
+      <div class="definition-text">{definition}</div>
+    </div>
+
+    <div class="in-brief">
+      <div class="in-brief-label">In Brief</div>
+      <p>{inBrief}</p>
+    </div>
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    {
+      seeAlsoEntries.length > 0 && (
+        <div class="see-also">
+          <h3>See Also</h3>
+          <ul class="tag-list">
+            {seeAlsoEntries.map((g: any) => (
+              <li>
+                <a href={`/glossary/${g.data.slug}/`}>{g.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+
+    {
+      backlinks.length > 0 && (
+        <section class="referenced-by">
+          <h2>Referenced By</h2>
+          <ul class="backlink-list">
+            {backlinks.map((bl) => (
+              <li class="backlink-item">
+                <a href={bl.href}>{bl.title}</a>
+                <span class={`badge badge-${bl.status}`}>
+                  {bl.status.charAt(0).toUpperCase() + bl.status.slice(1)}
+                </span>
+                <span class={`badge badge-type badge-${bl.type}`}>
+                  {bl.type.charAt(0).toUpperCase() + bl.type.slice(1)}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <References references={references} />
+  </div>
+</BaseLayout>

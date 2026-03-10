@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+const streams = await getCollection('streams');
+streams.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="Research Hubs"
+  description="Research streams exploring key domains of the APS framework."
+>
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Research Hubs' }]} />
+
+    <header class="page-header">
+      <h1>Research Hubs</h1>
+      <p>
+        Each research hub collects articles, glossary terms, and resources around a major research
+        domain within the APS framework.
+      </p>
+    </header>
+
+    <ul class="card-list">
+      {
+        streams.map((entry) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href={`/streams/${entry.data.slug}/`}>{entry.data.title}</a>
+              </h3>
+              <StatusBadge status={entry.data.status} />
+              <TypeBadge type="stream" />
+            </div>
+            <p class="card-excerpt">{entry.data.overview}</p>
+            <div class="card-meta">Revised: {entry.data.revised}</div>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>

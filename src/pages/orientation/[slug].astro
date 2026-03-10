@@ -1,0 +1,42 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import PageMeta from '@/components/PageMeta.astro';
+import LockBanner from '@/components/LockBanner.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('orientation');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, status, canonical, canonicalLockDate, revised } = entry.data;
+---
+
+<BaseLayout title={title} description={`${title} — APS Orientation`}>
+  <div class="content-wrapper">
+    <Breadcrumb
+      items={[{ label: 'Orientation', href: '/orientation/what-is-aps/' }, { label: title }]}
+    />
+
+    <header class="page-header">
+      <h1>{title}</h1>
+      <PageMeta status={status} type="orientation" revised={revised} />
+    </header>
+
+    {
+      canonical && canonicalLockDate && (
+        <LockBanner lockDate={canonicalLockDate} revised={revised} />
+      )
+    }
+
+    <div class="article-body">
+      <Content />
+    </div>
+  </div>
+</BaseLayout>

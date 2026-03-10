@@ -1,0 +1,15 @@
+---
+interface Props {
+  lockDate: string;
+  revised: string;
+}
+
+const { lockDate, revised } = Astro.props;
+---
+
+<div class="lock-banner">
+  <span class="lock-icon">&#128274;</span>
+  <span>
+    <strong>Canonically locked</strong> since {lockDate}. Last revised: {revised}.
+  </span>
+</div>
