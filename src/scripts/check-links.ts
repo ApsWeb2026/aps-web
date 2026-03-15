@@ -8,7 +8,6 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
-import { globSync } from 'node:fs';
 
 const CONTENT_DIR = path.resolve('src/content');
 const VALID_SECTIONS = ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'clusters'];
