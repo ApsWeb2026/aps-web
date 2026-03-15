@@ -5,9 +5,14 @@
   "description": "APS Publishing Platform — A structured research instrument for the Agency-Process-Scale framework",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "npx tsx src/scripts/content-lint.ts && npx tsx src/scripts/check-links.ts && npx tsx src/scripts/check-canonical-lock.ts",
     "build": "astro build",
+    "postbuild": "npx tsx src/scripts/generate-redirects.ts",
     "preview": "astro preview",
     "lint": "eslint . --ext .ts,.astro",
+    "lint:content": "npx tsx src/scripts/content-lint.ts",
+    "check:links": "npx tsx src/scripts/check-links.ts",
+    "check:canonical": "npx tsx src/scripts/check-canonical-lock.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
@@ -16,7 +21,10 @@
   "license": "ISC",
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",
-    "astro": "^5.18.0"
+    "astro": "^5.18.0",
+    "rehype-autolink-headings": "^7.1.0",
+    "rehype-slug": "^6.0.0",
+    "tsx": "^4.21.0"
   },
   "devDependencies": {
     "eslint": "^10.0.2",
