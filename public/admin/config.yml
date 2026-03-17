@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: ApsWeb2026/aps-web
+  name: git-gateway
   branch: main
 
 publish_mode: editorial_workflow
