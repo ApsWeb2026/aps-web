@@ -1,30 +1,33 @@
 ---
-title: "Biological Agency"
-slug: "biological-agency"
-definition: "The capacity of a living system to act on its own behalf, maintaining and reproducing the conditions necessary for its continued existence, without requiring intentions, goals, or conscious states."
-inBrief: "A living system's capacity to act on its own behalf — maintaining itself without requiring intentions or consciousness."
-status: "canonical"
+title: Biological Agency
+slug: biological-agency
+definition: The capacity of a living system to act on its own behalf,
+  maintaining and reproducing the conditions necessary for its continued
+  existence, without requiring intentions, goals, or conscious states. Testing
+inBrief: A living system's capacity to act on its own behalf — maintaining
+  itself without requiring intentions or consciousness.
+status: canonical
 canonical: true
-canonicalLockDate: "2026-02-01"
-revised: "2026-02-01"
-cluster: "foundations"
+canonicalLockDate: 2026-02-01
+revised: 2026-02-01
+cluster: foundations
 seeAlso:
-  - "function"
-  - "process"
+  - function
+  - process
 references:
-  - id: "thompson-2007"
-    authors: "Thompson, E."
+  - id: thompson-2007
+    authors: Thompson, E.
     year: 2007
     title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
-    publisher: "Harvard University Press"
-  - id: "di-paolo-2005"
-    authors: "Di Paolo, E. A."
+    publisher: Harvard University Press
+  - id: di-paolo-2005
+    authors: Di Paolo, E. A.
     year: 2005
-    title: "Autopoiesis, Adaptivity, Teleology, Agency"
-    journal: "Phenomenology and the Cognitive Sciences"
-    volume: "4(4)"
-    pages: "429–452"
-    doi: "10.1007/s11097-005-9002-y"
+    title: Autopoiesis, Adaptivity, Teleology, Agency
+    journal: Phenomenology and the Cognitive Sciences
+    volume: 4(4)
+    pages: 429–452
+    doi: 10.1007/s11097-005-9002-y
 ---
 
 Within the APS framework, biological agency is understood as a foundational concept that grounds the notion of agency in living systems rather than in cognitive or intentional capacities. This move is deliberate: it allows the framework to address agency at scales and in systems where talk of "beliefs," "desires," or "goals" would be explanatorily premature.
