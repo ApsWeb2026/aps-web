@@ -19,7 +19,7 @@ const { title, status, canonical, canonicalLockDate, revised } = entry.data;
 ---
 
 <BaseLayout title={title} description={`${title} — APS Orientation`}>
-  <div class="content-wrapper">
+  <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Orientation, status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-filter={`type:Orientation, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}>
     <Breadcrumb
       items={[{ label: 'Orientation', href: '/orientation/what-is-aps/' }, { label: title }]}
     />
