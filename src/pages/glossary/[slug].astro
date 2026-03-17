@@ -66,7 +66,9 @@ const seeAlsoEntries = seeAlso
 ---
 
 <BaseLayout title={title} description={inBrief}>
-  <div class="content-wrapper" data-pagefind-body data-pagefind-weight="10" data-pagefind-meta={`type:Glossary, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`} data-pagefind-filter={`type:Glossary, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}>
+  <div class="content-wrapper" data-pagefind-body data-pagefind-weight="10" data-pagefind-meta={`type:Glossary, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}>
+    <span data-pagefind-filter="type:Glossary" data-pagefind-ignore></span>
+    <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
     <Breadcrumb items={[{ label: 'Glossary', href: '/glossary/' }, { label: title }]} />
 
     <header class="page-header">
