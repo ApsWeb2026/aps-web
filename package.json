@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "prebuild": "npx tsx src/scripts/content-lint.ts && npx tsx src/scripts/check-links.ts && npx tsx src/scripts/check-canonical-lock.ts",
     "build": "astro build",
-    "postbuild": "npx tsx src/scripts/generate-redirects.ts",
+    "postbuild": "npx tsx src/scripts/generate-redirects.ts && npx pagefind --site dist",
     "preview": "astro preview",
     "lint": "eslint . --ext .ts,.astro",
     "lint:content": "npx tsx src/scripts/content-lint.ts",
@@ -22,6 +22,7 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",
     "astro": "^5.18.0",
+    "pagefind": "^1.4.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-slug": "^6.0.0",
     "tsx": "^4.21.0"

@@ -1,0 +1,128 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Search" description="Search across all APS content — articles, glossary, research streams, and more.">
+  <div class="content-wrapper">
+    <h1>Search</h1>
+
+    <div class="search-container">
+      <div class="search-input-wrapper">
+        <span class="search-icon">&#128269;</span>
+        <input
+          type="search"
+          class="search-input"
+          id="search-input"
+          placeholder="Search articles, glossary, research streams..."
+          autofocus
+        />
+      </div>
+      <p class="search-hint">
+        Full-text search across titles, abstracts, definitions, and body text.
+        Glossary entries are prioritised in results. Powered by <strong>Pagefind</strong> at build time.
+      </p>
+    </div>
+
+    <div id="search-results-count" class="search-results-count" style="display:none;"></div>
+    <div id="search-results" class="search-results"></div>
+    <div id="search-empty" class="search-empty" style="display:none;">
+      <p>No results found. Try a different search term.</p>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  async function initSearch() {
+    var pagefind = await import('/pagefind/pagefind.js');
+    await pagefind.init();
+
+    var input = document.getElementById('search-input');
+    var resultsContainer = document.getElementById('search-results');
+    var resultsCount = document.getElementById('search-results-count');
+    var emptyState = document.getElementById('search-empty');
+    var debounceTimer;
+
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function() { performSearch(pagefind); }, 200);
+    });
+
+    // Support ?q= query parameter
+    var params = new URLSearchParams(window.location.search);
+    var initialQuery = params.get('q');
+    if (initialQuery) {
+      input.value = initialQuery;
+      performSearch(pagefind);
+    }
+
+    async function performSearch(pf) {
+      var query = input.value.trim();
+
+      if (!query) {
+        resultsContainer.innerHTML = '';
+        resultsCount.style.display = 'none';
+        emptyState.style.display = 'none';
+        return;
+      }
+
+      var search = await pf.search(query);
+
+      if (search.results.length === 0) {
+        resultsContainer.innerHTML = '';
+        resultsCount.style.display = 'none';
+        emptyState.style.display = 'block';
+        return;
+      }
+
+      emptyState.style.display = 'none';
+
+      // Load all result data
+      var results = await Promise.all(
+        search.results.map(function(r) { return r.data(); })
+      );
+
+      // Sort: glossary first, then preserve Pagefind score order
+      results.sort(function(a, b) {
+        var aIsGlossary = (a.filters && a.filters.type && a.filters.type[0] === 'Glossary') ? 0 : 1;
+        var bIsGlossary = (b.filters && b.filters.type && b.filters.type[0] === 'Glossary') ? 0 : 1;
+        return aIsGlossary - bIsGlossary;
+      });
+
+      var glossaryCount = results.filter(function(r) {
+        return r.filters && r.filters.type && r.filters.type[0] === 'Glossary';
+      }).length;
+
+      resultsCount.innerHTML = 'Showing <strong>' + results.length + '</strong> result' + (results.length !== 1 ? 's' : '') + ' for "<strong>' + escapeHtml(query) + '</strong>"' + (glossaryCount > 0 ? ' &mdash; glossary results shown first' : '');
+      resultsCount.style.display = 'block';
+
+      resultsContainer.innerHTML = results.map(function(result) {
+        var type = (result.meta && result.meta.type) || 'Page';
+        var status = (result.meta && result.meta.status) || '';
+        var typeBadgeClass = 'badge-' + type.toLowerCase();
+        var statusBadgeClass = 'badge-' + status.toLowerCase();
+
+        return '<div class="search-result-item">' +
+          '<div class="search-result-title">' +
+            '<span class="badge badge-type ' + typeBadgeClass + '">' + escapeHtml(type) + '</span>' +
+            (status ? '<span class="badge ' + statusBadgeClass + '">' + escapeHtml(status) + '</span>' : '') +
+            '<a href="' + result.url + '">' + ((result.meta && result.meta.title) || result.url) + '</a>' +
+          '</div>' +
+          '<p class="search-result-snippet">' + result.excerpt + '</p>' +
+          '<div class="search-result-meta">' + result.url + '</div>' +
+        '</div>';
+      }).join('');
+    }
+
+    function escapeHtml(str) {
+      var div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initSearch);
+  } else {
+    initSearch();
+  }
+</script>
