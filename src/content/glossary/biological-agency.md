@@ -3,13 +3,13 @@ title: Biological Agency
 slug: biological-agency
 definition: The capacity of a living system to act on its own behalf,
   maintaining and reproducing the conditions necessary for its continued
-  existence, without requiring intentions, goals, or conscious states. Testing
+  existence, without requiring intentions, goals, or conscious states.
 inBrief: A living system's capacity to act on its own behalf — maintaining
   itself without requiring intentions or consciousness.
 status: canonical
 canonical: true
-canonicalLockDate: 2026-02-01
-revised: 2026-02-01
+canonicalLockDate: "2026-02-01"
+revised: "2026-02-01"
 cluster: foundations
 seeAlso:
   - function

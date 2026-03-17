@@ -3,6 +3,18 @@ import { glob } from 'astro/loaders';
 
 const statusEnum = z.enum(['draft', 'evolving', 'canonical']);
 
+// Decap CMS datetime widget writes dates without YAML quotes (e.g. 2026-02-01).
+// YAML parses these as Date objects, but our schema expects strings.
+// This helper normalises both forms to a YYYY-MM-DD string.
+const dateString = z.preprocess(
+  (val) => (val instanceof Date ? val.toISOString().split('T')[0] : val),
+  z.string(),
+);
+const optionalDateString = z.preprocess(
+  (val) => (val instanceof Date ? val.toISOString().split('T')[0] : val),
+  z.string().optional(),
+);
+
 const clusterEnum = z.enum([
   'foundations',
   'definition-borderlines',
@@ -33,8 +45,8 @@ const glossary = defineCollection({
     inBrief: z.string(),
     status: statusEnum,
     canonical: z.boolean().default(false),
-    canonicalLockDate: z.string().optional(),
-    revised: z.string(),
+    canonicalLockDate: optionalDateString,
+    revised: dateString,
     cluster: clusterEnum,
     seeAlso: z.array(z.string()).default([]),
     references: z.array(referenceSchema).default([]),
@@ -49,8 +61,8 @@ const articles = defineCollection({
     abstract: z.string(),
     status: statusEnum,
     canonical: z.boolean().default(false),
-    canonicalLockDate: z.string().optional(),
-    revised: z.string(),
+    canonicalLockDate: optionalDateString,
+    revised: dateString,
     cluster: clusterEnum,
     keyPoints: z.array(z.string()).default([]),
     relatedGlossaryTerms: z.array(z.string()).default([]),
@@ -66,7 +78,7 @@ const streams = defineCollection({
     slug: z.string(),
     overview: z.string(),
     status: statusEnum,
-    revised: z.string(),
+    revised: dateString,
     cluster: clusterEnum,
     associatedGlossaryTerms: z.array(z.string()).default([]),
   }),
@@ -79,8 +91,8 @@ const orientation = defineCollection({
     slug: z.string(),
     status: statusEnum,
     canonical: z.boolean().default(false),
-    canonicalLockDate: z.string().optional(),
-    revised: z.string(),
+    canonicalLockDate: optionalDateString,
+    revised: dateString,
   }),
 });
 
@@ -103,7 +115,7 @@ const diagrams = defineCollection({
     caption: z.string(),
     description: z.string(),
     status: statusEnum,
-    revised: z.string(),
+    revised: dateString,
     figureNumber: z.string().optional(),
     crossReferences: z.array(z.string()).default([]),
   }),
