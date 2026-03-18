@@ -19,8 +19,8 @@ definition: "Scale in APS refers to the spatial and temporal extent and
   explanation."
 inBrief: Scale is the spatial and temporal extent across which living systems
   coordinate activity to sustain and reorganise their continued existence.
-status: evolving
-canonical: false
+status: canonical
+canonical: true
 canonicalLockDate: 2026-03-18
 revised: 2026-03-18
 cluster: foundations
