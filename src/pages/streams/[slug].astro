@@ -36,7 +36,9 @@ const relatedTerms = associatedGlossaryTerms
 ---
 
 <BaseLayout title={title} description={overview}>
-  <div class="content-wrapper">
+  <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Stream, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}>
+    <span data-pagefind-filter="type:Stream" data-pagefind-ignore></span>
+    <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
     <Breadcrumb items={[{ label: 'Research Hubs', href: '/streams/' }, { label: title }]} />
 
     <header class="page-header">

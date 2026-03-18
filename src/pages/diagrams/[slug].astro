@@ -18,7 +18,9 @@ const { title, svgFile, caption, description, status, revised, figureNumber } = 
 ---
 
 <BaseLayout title={title} description={description}>
-  <div class="content-wrapper">
+  <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Diagram, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}>
+    <span data-pagefind-filter="type:Diagram" data-pagefind-ignore></span>
+    <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
     <Breadcrumb items={[{ label: 'Diagrams', href: '/diagrams/' }, { label: title }]} />
 
     <header class="page-header">
