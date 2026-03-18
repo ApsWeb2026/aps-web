@@ -15,9 +15,10 @@ definition: Process in APS is the dynamic, ongoing organisation of constraints
   independent of the others.
 inBrief: Process is the ongoing organisation of activity through which living
   systems sustain and transform the conditions that keep them viable.
-status: evolving
-canonical: false
-revised: 2026-02-15
+status: canonical
+canonical: true
+canonicalLockDate: 2026-03-18
+revised: 2026-03-18
 cluster: foundations
 seeAlso:
   - agency
