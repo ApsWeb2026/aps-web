@@ -1,19 +1,33 @@
 ---
 title: Biological Agency
 slug: biological-agency
-definition: "The capacity of a living system to act on its own behalf,
-  maintaining and reproducing the conditions necessary for its continued
-  existence, without requiring intentions, goals, or conscious states. "
-inBrief: A living system's capacity to act on its own behalf — maintaining
-  itself without requiring intentions or consciousness.
+definition: "Biological agency is the viability-oriented, self-regulating,
+  viability-evaluative activity through which a living system sustains,
+  modulates, and re-creates the conditions of its own persistence. In APS, life
+  and biological agency name the same phenomenon from complementary
+  perspectives: life denotes the organised condition of persistence, while
+  agency denotes the activity that enacts and maintains that organisation.
+  Agency is not a structure, property, or capacity, but an ongoing activity
+  expressed through constraint-closed organisation and enacted across process
+  and scale. It does not imply representation, foresight, or conscious
+  intention. Rather, agency consists in the organised activity through which
+  systems differentiate changes relative to viability and reorganise their own
+  constraints to remain within conditions of continued existence. Biological
+  agency therefore identifies the active, self-maintaining character of living
+  systems as viability-oriented organisation in motion."
+inBrief: Biological agency is the activity through which living systems actively
+  sustain and regulate their own continued existence.
 status: canonical
 canonical: true
-canonicalLockDate: 2026-02-01
-revised: 2026-02-01
+canonicalLockDate: 2026-03-18
+revised: 2026-03-18
 cluster: foundations
 seeAlso:
-  - function
+  - life
+  - viability
+  - normativity
   - process
+  - scale
 references:
   - id: thompson-2007
     authors: Thompson, E.
@@ -29,15 +43,11 @@ references:
     pages: 429–452
     doi: 10.1007/s11097-005-9002-y
 ---
+Conventional framing.
+Biological systems are often described as goal-directed or adaptive, but such descriptions are frequently interpreted either mechanistically, as outcomes of underlying processes, or cognitively, as requiring internal representation or intention. In these accounts, agency is either reduced to mechanism or restricted to organisms with nervous systems.
 
-Within the APS framework, biological agency is understood as a foundational concept that grounds the notion of agency in living systems rather than in cognitive or intentional capacities. This move is deliberate: it allows the framework to address agency at scales and in systems where talk of "beliefs," "desires," or "goals" would be explanatorily premature.
+APS reframing.
+APS reconceives agency as intrinsic to life itself. Agency is the organised activity of constraint-closed systems that continuously regenerate the conditions required for their own persistence. What appears as goal-directed behaviour is the viability-oriented organisation of activity, not the pursuit of explicit goals. Semiosis is the lived expression of this activity—the real-time differentiation of what supports or undermines continued existence. Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of a single viability-oriented organisation; none is prior or reducible to the others. Agency is emphasised because it makes explicit the normativity inherent in living organisation—the fact that continued existence matters to the system itself.
 
-The concept draws on the autopoietic tradition (Maturana & Varela, 1980) and its extensions in enactivism ([Thompson, 2007](#ref-thompson-2007)), where a living system is defined by its capacity to produce and maintain the components that constitute it. Agency, on this view, is not something added to life — it is constitutive of it.
-
-## Relationship to Process
-
-Biological agency is inseparable from [process](/glossary/process/). An agent is not a static entity that occasionally acts; rather, agency is realised through ongoing processual activity — metabolism, self-repair, adaptive behaviour. The APS framework treats agency and process as co-constitutive.
-
-## Scaling Considerations
-
-A key contribution of the APS framework is the recognition that biological agency operates across multiple scales. A cell exhibits agency (self-maintenance, adaptive response), as does an organism, a colony, or an ecosystem. The framework resists reducing agency to any single scale, instead asking how agency at one scale relates to — and potentially constitutes — agency at another.
+Key Point.
+Biological agency is the ongoing activity through which life sustains itself—organisation in motion, oriented toward continued viability.
