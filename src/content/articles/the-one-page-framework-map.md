@@ -96,12 +96,10 @@ In this framework, agency is enacted through process across scale; organised per
 
 APS connects multiple domains of biological research:
 
-| Domain | APS interpretation |
-| --- | --- |
-| Molecular biology | Processes sustaining cellular viability |
-| Physiology | Regulation of organismal persistence |
-| Ecology | Organism–environment interactions affecting viability |
-| Evolution | Historical transformation of persistence strategies |
+- **Molecular biology** — Processes sustaining cellular viability  
+- **Physiology** — Regulation of organismal persistence  
+- **Ecology** — Organism–environment interactions affecting viability  
+- **Evolution** — Historical transformation of persistence strategies  
 
 Rather than separate explanatory frameworks, these become different perspectives on the same organisational phenomenon.
 
