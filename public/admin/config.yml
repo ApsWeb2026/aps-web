@@ -56,11 +56,14 @@ collections:
           - { label: "Historical & Philosophical Context", value: "historical-context" }
       - label: "See Also"
         name: "seeAlso"
-        widget: "list"
+        widget: "relation"
+        collection: "glossary"
+        search_fields: ["title", "slug"]
+        value_field: "slug"
+        display_fields: ["title"]
+        multiple: true
         required: false
-        default: []
-        field: { label: "Glossary Slug", name: "slug", widget: "string" }
-        hint: "Slugs of related glossary entries"
+        hint: "Search and select related glossary entries"
       - label: "References"
         name: "references"
         widget: "list"
@@ -126,12 +129,23 @@ collections:
         field: { label: "Point", name: "point", widget: "string" }
       - label: "Related Glossary Terms"
         name: "relatedGlossaryTerms"
-        widget: "list"
+        widget: "relation"
+        collection: "glossary"
+        search_fields: ["title", "slug"]
+        value_field: "slug"
+        display_fields: ["title"]
+        multiple: true
         required: false
-        default: []
-        field: { label: "Glossary Slug", name: "slug", widget: "string" }
-        hint: "Slugs of related glossary entries"
-      - { label: "Research Stream", name: "researchStream", widget: "string", required: false, hint: "Slug of the associated research stream" }
+        hint: "Search and select related glossary entries"
+      - label: "Research Stream"
+        name: "researchStream"
+        widget: "relation"
+        collection: "streams"
+        search_fields: ["title", "slug"]
+        value_field: "slug"
+        display_fields: ["title"]
+        required: false
+        hint: "Select the associated research stream"
       - label: "References"
         name: "references"
         widget: "list"
@@ -189,10 +203,13 @@ collections:
           - { label: "Historical & Philosophical Context", value: "historical-context" }
       - label: "Associated Glossary Terms"
         name: "associatedGlossaryTerms"
-        widget: "list"
+        widget: "relation"
+        collection: "glossary"
+        search_fields: ["title", "slug"]
+        value_field: "slug"
+        display_fields: ["title"]
+        multiple: true
         required: false
-        default: []
-        field: { label: "Glossary Slug", name: "slug", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   # ──────────────────────────────────────────────
