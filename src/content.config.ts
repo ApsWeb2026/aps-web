@@ -11,7 +11,11 @@ const dateString = z.preprocess(
   z.string(),
 );
 const optionalDateString = z.preprocess(
-  (val) => (val instanceof Date ? val.toISOString().split('T')[0] : val),
+  (val) => {
+    if (val instanceof Date) return val.toISOString().split('T')[0];
+    if (val === null || val === '') return undefined;
+    return val;
+  },
   z.string().optional(),
 );
 

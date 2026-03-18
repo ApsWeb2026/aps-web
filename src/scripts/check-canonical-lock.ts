@@ -32,6 +32,20 @@ function getBodyContent(fileContent: string): string {
   return match ? match[1].trim() : '';
 }
 
+/** Extract frontmatter fields that are protected by the canonical lock. */
+function getProtectedFrontmatter(fm: Record<string, unknown>): string {
+  // These fields carry the substantive content of each entry.
+  // Changes to any of them in a canonical page must be acknowledged via `revised`.
+  const protectedKeys = ['title', 'definition', 'inBrief', 'abstract', 'overview'];
+  const parts: string[] = [];
+  for (const key of protectedKeys) {
+    if (fm[key] !== undefined) {
+      parts.push(`${key}:${String(fm[key])}`);
+    }
+  }
+  return parts.join('\n');
+}
+
 function hashContent(body: string): string {
   return crypto.createHash('sha256').update(body, 'utf-8').digest('hex').slice(0, 16);
 }
@@ -95,7 +109,8 @@ function checkCanonicalLocks(): Violation[] {
 
       const key = `${section}/${fm.slug}`;
       const body = getBodyContent(content);
-      const hash = hashContent(body);
+      const protectedFm = getProtectedFrontmatter(fm);
+      const hash = hashContent(protectedFm + '\n---\n' + body);
       const revised = fm.revised as string;
       const lockedSince = fm.canonicalLockDate as string;
 

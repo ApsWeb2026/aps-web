@@ -18,7 +18,7 @@ keyPoints:
     normativity, function, adaptation, and evolution.
   - Evolution transforms persistence-sustaining organisation across generations.
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
 references: []

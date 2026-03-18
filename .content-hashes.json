@@ -1,0 +1,32 @@
+{
+  "articles/scale-time-persistence": {
+    "hash": "a7aba88424fa0d03",
+    "revised": "2026-02-01",
+    "lockedSince": "2026-02-01"
+  },
+  "glossary/biological-agency": {
+    "hash": "0be0c2a285c55ea3",
+    "revised": "2026-03-18",
+    "lockedSince": "2026-03-18"
+  },
+  "glossary/function": {
+    "hash": "732cdfa2161ff185",
+    "revised": "2026-02-01",
+    "lockedSince": "2026-02-01"
+  },
+  "glossary/process": {
+    "hash": "569f491479292ca5",
+    "revised": "2026-03-18",
+    "lockedSince": "2026-03-18"
+  },
+  "glossary/scale": {
+    "hash": "6cfab8952a4b6e37",
+    "revised": "2026-03-18",
+    "lockedSince": "2026-03-18"
+  },
+  "orientation/what-is-aps": {
+    "hash": "bcc1189c255db948",
+    "revised": "2026-02-01",
+    "lockedSince": "2026-02-01"
+  }
+}
