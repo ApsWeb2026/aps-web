@@ -81,8 +81,16 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
         search.results.map(function(r) { return r.data(); })
       );
 
-      // Sort: glossary first, then preserve Pagefind score order
+      // Sort: title matches first, then glossary, then preserve Pagefind score
+      var queryLower = query.toLowerCase();
       results.sort(function(a, b) {
+        var aTitle = ((a.meta && a.meta.title) || '').toLowerCase();
+        var bTitle = ((b.meta && b.meta.title) || '').toLowerCase();
+        // Exact title match (title contains the query)
+        var aTitleMatch = aTitle.indexOf(queryLower) !== -1 ? 0 : 1;
+        var bTitleMatch = bTitle.indexOf(queryLower) !== -1 ? 0 : 1;
+        if (aTitleMatch !== bTitleMatch) return aTitleMatch - bTitleMatch;
+        // Among title matches (or non-matches), glossary first
         var aIsGlossary = (a.filters && a.filters.type && a.filters.type[0] === 'Glossary') ? 0 : 1;
         var bIsGlossary = (b.filters && b.filters.type && b.filters.type[0] === 'Glossary') ? 0 : 1;
         return aIsGlossary - bIsGlossary;

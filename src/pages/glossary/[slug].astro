@@ -72,7 +72,7 @@ const seeAlsoEntries = seeAlso
     <Breadcrumb items={[{ label: 'Glossary', href: '/glossary/' }, { label: title }]} />
 
     <header class="page-header">
-      <h1>{title}</h1>
+      <h1 data-pagefind-weight="50">{title}</h1>
       <PageMeta status={status} type="glossary" cluster={cluster} revised={revised} />
     </header>
 
@@ -82,7 +82,7 @@ const seeAlsoEntries = seeAlso
       )
     }
 
-    <div class="definition-block">
+    <div class="definition-block" data-pagefind-weight="30">
       <div class="definition-label">Definition</div>
       <div class="definition-text">{definition}</div>
     </div>
