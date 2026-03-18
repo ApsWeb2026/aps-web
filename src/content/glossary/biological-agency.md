@@ -43,11 +43,11 @@ references:
     pages: 429–452
     doi: 10.1007/s11097-005-9002-y
 ---
-Conventional framing.
+**Conventional framing**
 Biological systems are often described as goal-directed or adaptive, but such descriptions are frequently interpreted either mechanistically, as outcomes of underlying processes, or cognitively, as requiring internal representation or intention. In these accounts, agency is either reduced to mechanism or restricted to organisms with nervous systems.
 
-APS reframing.
+**APS reframing**
 APS reconceives agency as intrinsic to life itself. Agency is the organised activity of constraint-closed systems that continuously regenerate the conditions required for their own persistence. What appears as goal-directed behaviour is the viability-oriented organisation of activity, not the pursuit of explicit goals. Semiosis is the lived expression of this activity—the real-time differentiation of what supports or undermines continued existence. Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of a single viability-oriented organisation; none is prior or reducible to the others. Agency is emphasised because it makes explicit the normativity inherent in living organisation—the fact that continued existence matters to the system itself.
 
-Key Point.
+**Key Point**
 Biological agency is the ongoing activity through which life sustains itself—organisation in motion, oriented toward continued viability.
