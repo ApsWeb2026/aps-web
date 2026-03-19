@@ -28,11 +28,11 @@ seeAlso:
   - process
 references: []
 ---
-**Conventional framing**
+**Conventional framing**  
 Scale is often treated as a matter of size, level, or resolution, with biological organisation described in terms of discrete hierarchical levels such as genes, cells, organisms, and populations. In such accounts, causation is frequently understood as flowing between these levels, often privileging one level as more fundamental.
 
-**APS reframing**
+**APS reframing**  
 APS rejects level-based hierarchy in favour of scale as a processual dimension of organisation. Scale describes how viability-oriented activity is distributed and integrated across spatial and temporal domains. Processes at different scales are not separate layers but dynamically coupled aspects of a single constraint-closed organisation. Persistence depends on this coordination: viable systems maintain themselves not as fixed states, but as homeorhetic trajectories sustained through ongoing reorganisation. APS categories—such as agency, semiosis, and cognition—are scale-indexed organisational predicates: their attribution must be warranted at each scale where integrated, normatively organised activity is realised, rather than assumed to transfer across scales.
 
-**Key Point**
+**Key Point**  
 Scale is the spatial-temporal organisation of activity through which living systems coordinate persistence across continuously interacting domains.
