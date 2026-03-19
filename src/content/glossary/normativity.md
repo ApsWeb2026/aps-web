@@ -20,7 +20,7 @@ definition: "Normativity (biological normativity) in APS arises from the
 inBrief: Biological normativity is the enactment of viability-relative
   differences that make a difference to persistence.
 status: canonical
-canonical: false
+canonical: true
 canonicalLockDate: 2026-03-19
 revised: 2026-03-19
 cluster: foundations
@@ -28,4 +28,11 @@ seeAlso:
   - biological-agency
 references: []
 ---
-Normativity
+**Conventional framing**  
+Normativity is typically associated with human values, rules, or standards of correctness, and is therefore often treated as external to natural science. In biology, normative language is widely used but often left theoretically ungrounded.
+
+**APS reframing**  
+APS treats normativity as intrinsic to living organisation. Because living systems must actively sustain their own persistence, differences in conditions are not neutral. Normativity arises as viability-relative asymmetry enacted through constraint-closed, viability-oriented activity. It is therefore not imposed or cognitive, but organisational.
+
+**Key Point**  
+Normativity is the intrinsic asymmetry through which viability is sustained or lost.
