@@ -43,11 +43,11 @@ references:
     pages: 429–452
     doi: 10.1007/s11097-005-9002-y
 ---
-**Conventional framing**
-Biological systems are often described as goal-directed or adaptive, but such descriptions are frequently interpreted either mechanistically, as outcomes of underlying processes, or cognitively, as requiring internal representation or intention. In these accounts, agency is either reduced to mechanism or restricted to organisms with nervous systems.
+**Conventional framing**  
+Biological systems are often described as goal-directed or adaptive, but such descriptions are typically interpreted either mechanistically, as the outcome of underlying processes, or cognitively, as requiring internal representation or intention. In these accounts, agency is either reduced to causal mechanism or restricted to organisms with nervous systems, leaving the apparent purposiveness of living systems without a clear naturalistic grounding.
 
-**APS reframing**
-APS reconceives agency as intrinsic to life itself. Agency is the organised activity of constraint-closed systems that continuously regenerate the conditions required for their own persistence. What appears as goal-directed behaviour is the viability-oriented organisation of activity, not the pursuit of explicit goals. Semiosis is the lived expression of this activity—the real-time differentiation of what supports or undermines continued existence. Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of a single viability-oriented organisation; none is prior or reducible to the others. Agency is emphasised because it makes explicit the normativity inherent in living organisation—the fact that continued existence matters to the system itself.
+**APS reframing**  
+APS reconceives biological agency as intrinsic to life itself. Agency is the viability-oriented, constraint-closed activity through which living systems continuously regenerate and maintain the conditions required for their own persistence. What appears as goal-directed behaviour is not the pursuit of explicit goals, but the organised regulation of activity relative to viability. Living systems differentiate changes in their internal and external conditions in terms of their consequences for persistence, and reorganise their own constraints accordingly. Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of this organisation: agency expresses viability-oriented regulation, process enacts that organisation through time, and scale reflects its spatial-temporal coordination. Agency makes explicit the intrinsic normativity of living systems—the fact that some outcomes support persistence while others undermine it.
 
-**Key Point**
-Biological agency is the ongoing activity through which life sustains itself—organisation in motion, oriented toward continued viability.
+**Key Point**  
+Biological agency is the ongoing, viability-oriented activity through which living systems sustain and reorganise the conditions of their own existence.
