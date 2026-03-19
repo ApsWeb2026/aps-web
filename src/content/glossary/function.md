@@ -1,39 +1,53 @@
 ---
-title: "Function"
-slug: "function"
-definition: "Within the APS framework, 'function' refers to the contribution a component or process makes to the maintenance of the system of which it is a part, understood in terms of the system's own self-maintaining organisation rather than external design or selection history."
-inBrief: "What a component contributes to maintaining the system it belongs to — defined by organisation, not design."
-status: "canonical"
+title: Function
+slug: function
+definition: "Function in APS is the viability-relative organisational role of a
+  structure or process within an already agentive, constraint-closed system. A
+  process counts as functional only insofar as it contributes, in the present
+  tense, to sustaining or restoring viability. Functional status is grounded in
+  ongoing organisational contribution, not in selection history,
+  observer-relative use, or isolated causal effects. Evolutionary history
+  explains how functional roles are stabilised, conserved, or transformed over
+  time, but it does not constitute function itself. Function presupposes
+  biological normativity, which arises from agency: because living systems must
+  actively sustain their own persistence, some contributions support viability
+  while others undermine it. Purpose names this viability-oriented organisation
+  at the level of the whole system; function names the concrete operations
+  through which that organisation is enacted."
+inBrief: Function is how parts and processes contribute to a system’s continued
+  viability.
+status: canonical
 canonical: true
-canonicalLockDate: "2026-02-01"
-revised: "2026-02-01"
-cluster: "definition-borderlines"
+canonicalLockDate: 2026-03-19
+revised: 2026-03-19
+cluster: foundations
 seeAlso:
-  - "biological-agency"
-  - "process"
+  - biological-agency
+  - process
 references:
-  - id: "cummins-1975"
-    authors: "Cummins, R."
+  - id: cummins-1975
+    authors: Cummins, R.
     year: 1975
-    title: "Functional Analysis"
-    journal: "The Journal of Philosophy"
-    volume: "72(20)"
-    pages: "741–765"
-    doi: "10.2307/2024640"
-  - id: "mossio-2009"
-    authors: "Mossio, M., Saborido, C. & Moreno, A."
+    title: Functional Analysis
+    journal: The Journal of Philosophy
+    volume: 72(20)
+    pages: 741–765
+    doi: 10.2307/2024640
+  - id: mossio-2009
+    authors: Mossio, M., Saborido, C. & Moreno, A.
     year: 2009
-    title: "An Organizational Account of Biological Functions"
-    journal: "The British Journal for the Philosophy of Science"
-    volume: "60(4)"
-    pages: "813–841"
-    doi: "10.1093/bjps/axp036"
+    title: An Organizational Account of Biological Functions
+    journal: The British Journal for the Philosophy of Science
+    volume: 60(4)
+    pages: 813–841
+    doi: 10.1093/bjps/axp036
 ---
 
-The APS framework adopts an organisational account of function, distinguishing it from both etiological (selected-effects) and causal-role accounts. A component has a function not because it was selected for that role, nor merely because it contributes causally to some outcome, but because it contributes to the self-maintaining organisation of the system.
+**Conventional framing**  
+Function is often explained in terms of selected effects (what a trait was selected for) or causal roles (what a component does within a system). These accounts either ground function in evolutionary history or treat it as a value-neutral contribution, leaving unclear how function can support distinctions such as success, failure, or malfunction in present biological systems.
 
-This approach follows [Mossio et al. (2009)](#ref-mossio-2009) in grounding function in the closure of constraints: a functional component is one whose existence is both enabled by and enabling of the organisation.
+**APS reframing**  
+APS grounds function in biological normativity, which arises from agency. Because living systems must actively sustain their own persistence, their organisation establishes intrinsic conditions of success and failure. Function is the operational expression of this viability-oriented organisation: it specifies how particular structures and processes contribute to maintaining or restoring viability within a constraint-closed system. Evolutionary history explains how such roles emerge and stabilise, but functional status is determined in the present by ongoing contribution to persistence. Function therefore cannot be reduced to selection history or neutral causal description; it is inherently normative and organisation-dependent.
 
-## Why This Matters for APS
-
-The choice of functional account has downstream consequences for how the framework handles [biological agency](/glossary/biological-agency/). If function is organisational, then agency — understood as the system's capacity to act on its own behalf — is similarly grounded in organisation rather than in selection history or intentional states.
+**Key Point**  
+Function is purpose made operational within viability-oriented organisation.
