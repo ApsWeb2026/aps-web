@@ -7,7 +7,7 @@ definition: Persistence is the ongoing continuity of viability-oriented,
 inBrief: Persistence is the active continuity of viability-oriented organisation.
 status: canonical
 canonical: true
-canonicalLockDate: 2026-03-20
+canonicalLockDate: 2026-03-21
 revised: 2026-03-20
 cluster: foundations
 seeAlso:
