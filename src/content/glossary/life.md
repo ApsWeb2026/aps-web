@@ -36,10 +36,3 @@ APS defines life as the organisation of biological agency: the viability-oriente
 **Key Point**  
 Life is not defined by traits—it is the organised persistence of biological agency.
 
-**APS Box:** [Why Trait Lists Fail](/boxes/why-trait-lists-fail/)
-
-**APS Box:** [Diagnostics vs Definition](/boxes/diagnostics-vs-definition/)
-
-**APS Box:** [What Counts as Evidence of Life?](/boxes/what-counts-as-evidence-of-life/)
-
-**APS Box:** [Borderline Cases: Viruses, Sterile Organisms, Artificial Systems](/boxes/borderline-cases/)
