@@ -8,7 +8,7 @@ abstract: Biology explains how living systems persist and change, yet still
   integrates physiology, development, and evolution.
 status: evolving
 canonical: false
-revised: 2026-03-20
+revised: 2026-03-21
 cluster: foundations
 keyPoints: []
 relatedGlossaryTerms:
@@ -174,3 +174,6 @@ Most importantly, it makes explicit what biological explanation already presuppo
 Biology increasingly moves away from static, component-based views toward dynamic, organisational ones. Systems biology, developmental biology, theoretical biology, and philosophy all reflect this shift.
 
 The APS framework articulates this convergence in a unified explanatory grammar. It does not replace biology—it clarifies the conceptual structure on which biological explanation already rests.
+
+
+
