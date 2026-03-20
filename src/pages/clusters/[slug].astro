@@ -41,6 +41,12 @@ const clusters = [
     description:
       'Intellectual genealogy: Aristotle, Whitehead, dynamical systems theory, and process philosophy.',
   },
+  {
+    slug: 'conceptual-foundations',
+    title: 'Conceptual Foundations & Explanatory Grammar',
+    description:
+      'The explanatory grammar of the APS framework — how concepts are structured, how explanations are formed, and what counts as a well-formed APS claim.',
+  },
 ];
 
 export function getStaticPaths() {
@@ -51,6 +57,7 @@ export function getStaticPaths() {
     { params: { slug: 'empirical-interface' } },
     { params: { slug: 'scaling-complexity' } },
     { params: { slug: 'historical-context' } },
+    { params: { slug: 'conceptual-foundations' } },
   ];
 }
 

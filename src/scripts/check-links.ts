@@ -10,7 +10,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const CONTENT_DIR = path.resolve('src/content');
-const VALID_SECTIONS = ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'clusters'];
+const VALID_SECTIONS = ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'clusters', 'boxes'];
 
 interface BrokenLink {
   file: string;
@@ -21,7 +21,7 @@ interface BrokenLink {
 function getContentSlugs(): Map<string, Set<string>> {
   const slugsBySection = new Map<string, Set<string>>();
 
-  for (const section of ['articles', 'glossary', 'streams', 'orientation', 'diagrams']) {
+  for (const section of ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'boxes']) {
     const dir = path.join(CONTENT_DIR, section);
     const slugs = new Set<string>();
 
@@ -48,6 +48,7 @@ function getContentSlugs(): Map<string, Set<string>> {
       'empirical-interface',
       'scaling-complexity',
       'historical-context',
+      'conceptual-foundations',
     ]),
   );
 
@@ -69,7 +70,7 @@ function checkLinks(): BrokenLink[] {
   const slugsBySection = getContentSlugs();
   const broken: BrokenLink[] = [];
 
-  for (const section of ['articles', 'glossary', 'streams', 'orientation', 'diagrams']) {
+  for (const section of ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'boxes']) {
     const dir = path.join(CONTENT_DIR, section);
     if (!fs.existsSync(dir)) continue;
 

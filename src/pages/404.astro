@@ -1,0 +1,65 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found" description="The page you're looking for doesn't exist or has been moved.">
+  <div class="content-wrapper">
+    <div class="error-page">
+      <div class="error-code">404</div>
+      <h1>Page Not Found</h1>
+      <p>
+        The page you're looking for doesn't exist, may have been moved, or its URL may have changed.
+        If you followed a link from within APS, please report it so we can update our records.
+      </p>
+
+      <div class="error-search">
+        <div class="search-input-wrapper">
+          <span class="search-icon">&#128269;</span>
+          <input
+            type="search"
+            class="search-input"
+            id="error-search-input"
+            placeholder="Search for what you're looking for..."
+          />
+        </div>
+      </div>
+
+      <p style="font-size: 0.9rem;">Or try one of these starting points:</p>
+
+      <div class="cluster-grid" style="max-width: 600px; margin: var(--spacing-lg) auto 0;">
+        <a href="/" class="cluster-card">
+          <h3>Home</h3>
+          <p>Return to the APS Publishing Platform entry point.</p>
+        </a>
+        <a href="/glossary/" class="cluster-card">
+          <h3>Glossary</h3>
+          <p>Browse the conceptual spine of the APS framework.</p>
+        </a>
+        <a href="/search/" class="cluster-card">
+          <h3>Full Search</h3>
+          <p>Search across all articles, glossary entries, and research streams.</p>
+        </a>
+        <a href="/clusters/foundations/" class="cluster-card">
+          <h3>Clusters</h3>
+          <p>Browse content organised by knowledge cluster.</p>
+        </a>
+      </div>
+
+      <hr />
+
+      <p style="font-family: var(--font-sans); font-size: 0.82rem; color: var(--color-text-muted);">
+        If a page was moved, a redirect should be in place. If you believe this is an error, please
+        contact the site maintainers. Internal broken links are detected at build time and should not
+        occur in production.
+      </p>
+    </div>
+  </div>
+
+  <script is:inline>
+    document.getElementById('error-search-input')?.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' && this.value.trim()) {
+        window.location.href = '/search/?q=' + encodeURIComponent(this.value.trim());
+      }
+    });
+  </script>
+</BaseLayout>

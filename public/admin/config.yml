@@ -42,7 +42,7 @@ collections:
           - { label: "Canonical", value: "canonical" }
       - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
       - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false, hint: "Date this entry was locked as canonical" }
-      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "IMPORTANT: Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
       - label: "Cluster"
         name: "cluster"
         widget: "select"
@@ -54,16 +54,14 @@ collections:
           - { label: "Empirical Interface", value: "empirical-interface" }
           - { label: "Scaling & Complexity", value: "scaling-complexity" }
           - { label: "Historical & Philosophical Context", value: "historical-context" }
+          - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
       - label: "See Also"
         name: "seeAlso"
-        widget: "relation"
-        collection: "glossary"
-        search_fields: ["title", "slug"]
-        value_field: "slug"
-        display_fields: ["title"]
-        multiple: true
+        widget: "list"
         required: false
-        hint: "Search and select related glossary entries"
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related glossary entries (e.g. biological-agency, function)"
       - label: "References"
         name: "references"
         widget: "list"
@@ -109,7 +107,7 @@ collections:
           - { label: "Canonical", value: "canonical" }
       - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
       - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
-      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
       - label: "Cluster"
         name: "cluster"
         widget: "select"
@@ -121,6 +119,7 @@ collections:
           - { label: "Empirical Interface", value: "empirical-interface" }
           - { label: "Scaling & Complexity", value: "scaling-complexity" }
           - { label: "Historical & Philosophical Context", value: "historical-context" }
+          - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
       - label: "Key Points"
         name: "keyPoints"
         widget: "list"
@@ -129,23 +128,12 @@ collections:
         field: { label: "Point", name: "point", widget: "string" }
       - label: "Related Glossary Terms"
         name: "relatedGlossaryTerms"
-        widget: "relation"
-        collection: "glossary"
-        search_fields: ["title", "slug"]
-        value_field: "slug"
-        display_fields: ["title"]
-        multiple: true
+        widget: "list"
         required: false
-        hint: "Search and select related glossary entries"
-      - label: "Research Stream"
-        name: "researchStream"
-        widget: "relation"
-        collection: "streams"
-        search_fields: ["title", "slug"]
-        value_field: "slug"
-        display_fields: ["title"]
-        required: false
-        hint: "Select the associated research stream"
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related glossary entries (e.g. biological-agency, function)"
+      - { label: "Research Stream", name: "researchStream", widget: "string", required: false, hint: "Slug of the associated research stream (e.g. cognition)" }
       - label: "References"
         name: "references"
         widget: "list"
@@ -189,7 +177,7 @@ collections:
           - { label: "Draft", value: "draft" }
           - { label: "Evolving", value: "evolving" }
           - { label: "Canonical", value: "canonical" }
-      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
       - label: "Cluster"
         name: "cluster"
         widget: "select"
@@ -201,15 +189,14 @@ collections:
           - { label: "Empirical Interface", value: "empirical-interface" }
           - { label: "Scaling & Complexity", value: "scaling-complexity" }
           - { label: "Historical & Philosophical Context", value: "historical-context" }
+          - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
       - label: "Associated Glossary Terms"
         name: "associatedGlossaryTerms"
-        widget: "relation"
-        collection: "glossary"
-        search_fields: ["title", "slug"]
-        value_field: "slug"
-        display_fields: ["title"]
-        multiple: true
+        widget: "list"
         required: false
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related glossary entries (e.g. biological-agency, function)"
       - { label: "Body", name: "body", widget: "markdown" }
 
   # ──────────────────────────────────────────────
@@ -239,7 +226,7 @@ collections:
           - { label: "Canonical", value: "canonical" }
       - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
       - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
-      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
       - { label: "Body", name: "body", widget: "markdown" }
 
   # ──────────────────────────────────────────────
@@ -304,7 +291,7 @@ collections:
           - { label: "Draft", value: "draft" }
           - { label: "Evolving", value: "evolving" }
           - { label: "Canonical", value: "canonical" }
-      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true }
+      - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
       - { label: "Figure Number", name: "figureNumber", widget: "string", required: false }
       - label: "Cross References"
         name: "crossReferences"
