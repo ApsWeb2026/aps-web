@@ -17,7 +17,7 @@ inBrief: Viability is the ongoing preservation of the conditions that allow a
 status: canonical
 canonical: false
 canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+revised: 2026-03-21
 cluster: foundations
 seeAlso:
   - biological-agency
@@ -40,6 +40,8 @@ This makes viability intrinsically normative: the system’s organisation establ
 Viability is also multiscale and historically extended. It is not confined to a single temporal or spatial domain but is sustained through coordinated activity across interacting scales, from molecular processes to organismal regulation and ecological interactions. Persistence over time depends on the continuous re-establishment of viability under changing conditions.
 
 Because viability is enacted rather than given, it can be modulated, degraded, or lost. Systems exhibit gradients of viability rather than binary states, and transitions between viable and non-viable organisation are often dynamic and context-dependent.
+
+Persistence is the ongoing enactment of viability-oriented organisation through time; viability defines the conditions to be maintained, while persistence names the activity through which those conditions are sustained.
 
 
 **Key Point**
