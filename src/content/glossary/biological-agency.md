@@ -20,7 +20,7 @@ inBrief: Biological agency is the activity through which living systems actively
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-18
-revised: 2026-03-18
+revised: 2026-03-20
 cluster: foundations
 seeAlso:
   - life
