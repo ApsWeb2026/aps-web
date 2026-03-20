@@ -22,7 +22,7 @@ inBrief: Scale is the spatial and temporal extent across which living systems
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-18
-revised: 2026-03-18
+revised: 2026-03-20
 cluster: foundations
 seeAlso:
   - process
