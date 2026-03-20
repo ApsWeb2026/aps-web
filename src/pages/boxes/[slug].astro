@@ -1,0 +1,46 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import PageMeta from '@/components/PageMeta.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('boxes');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, status, associatedPages } = entry.data;
+---
+
+<BaseLayout title={title} description={`${title} — APS Box`}>
+  <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Box, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}>
+    <span data-pagefind-filter="type:Box" data-pagefind-ignore></span>
+    <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
+    <Breadcrumb items={[{ label: 'APS Boxes', href: '/boxes/' }, { label: title }]} />
+
+    <header class="page-header">
+      <h1 data-pagefind-weight="20">{title}</h1>
+      <PageMeta status={status} type="box" />
+    </header>
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    {associatedPages && associatedPages.length > 0 && (
+      <div class="see-also">
+        <h3>Associated Pages</h3>
+        <ul class="tag-list">
+          {associatedPages.map((page: string) => (
+            <li><a href={page}>{page}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </div>
+</BaseLayout>

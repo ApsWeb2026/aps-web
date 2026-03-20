@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+const boxes = await getCollection('boxes');
+
+const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+const sorted = [...boxes].sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+---
+
+<BaseLayout title="APS Boxes" description="Reusable conceptual callouts used across the APS framework.">
+  <div class="content-wrapper">
+    <header class="page-header">
+      <h1>APS Boxes</h1>
+      <p class="page-description">
+        Reusable conceptual callouts — short, focused analyses used across articles and glossary entries.
+      </p>
+    </header>
+
+    <ul class="card-list">
+      {sorted.map((box) => (
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title">
+              <a href={`/boxes/${box.data.slug}/`}>{box.data.title}</a>
+            </h3>
+            <span class={`badge badge-${box.data.status}`}>
+              {box.data.status.charAt(0).toUpperCase() + box.data.status.slice(1)}
+            </span>
+            <span class="badge badge-type badge-box">Box</span>
+          </div>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

@@ -26,6 +26,7 @@ const clusterEnum = z.enum([
   'empirical-interface',
   'scaling-complexity',
   'historical-context',
+  'conceptual-foundations',
 ]);
 
 const referenceSchema = z.object({
