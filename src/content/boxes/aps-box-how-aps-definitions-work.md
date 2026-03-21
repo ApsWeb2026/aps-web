@@ -13,4 +13,4 @@ Because of this:
 - changes to one concept affect others  
 - terms cannot be reinterpreted in isolation  
 
-APS therefore operates as a constraint-closed conceptual system in which coherence depends on maintaining these relationships across the system.
+APS therefore operates as a constraint-closed conceptual system in which coherence depends on maintaining these relationships within a constraint-closed system.
