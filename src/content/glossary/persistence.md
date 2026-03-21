@@ -8,7 +8,7 @@ inBrief: Persistence is the active continuity of viability-oriented organisation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-20
+revised: 2026-03-21
 cluster: foundations
 seeAlso:
   - biological-agency
