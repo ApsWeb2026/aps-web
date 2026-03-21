@@ -133,3 +133,11 @@ APS provides:
 **Core Definition.**
 
 In APS, life is viability-oriented agency: the organised activity through which living systems sustain their own persistence. Evolution is the historical transformation of that organisation across generations. Biology is therefore the study of how viability-oriented organisation is sustained in the present and transformed through evolutionary time.
+
+## Reading APS as a System
+
+APS concepts should not be interpreted in isolation. Terms such as agency, process, and normativity are defined in relation to one another within a constraint-closed conceptual structure.
+
+For an explanation of how APS definitions form an organised system, see:
+→ APS as an Organised Conceptual System — Why Definitions Form a System
+
