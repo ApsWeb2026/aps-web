@@ -4,6 +4,21 @@
    Ported from HTML mockup (2026-02-28)
    ============================================================ */
 
+/* Accessibility: skip link */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  padding: 0.5rem 1rem;
+  background: var(--color-accent);
+  color: #fff;
+  z-index: 1000;
+  font-family: var(--font-sans);
+}
+.skip-link:focus {
+  top: 0;
+}
+
 /* --- Reset & Base --- */
 *,
 *::before,
@@ -721,6 +736,50 @@ li {
   color: var(--color-text-secondary);
   margin: 0;
   line-height: 1.5;
+}
+
+/* --- Where to Begin --- */
+.begin-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-md);
+}
+
+.begin-group {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-light);
+  border-radius: 6px;
+  padding: var(--spacing-lg);
+}
+
+.begin-group h3 {
+  font-size: 0.95rem;
+  margin: 0 0 var(--spacing-sm) 0;
+  color: var(--color-text);
+  font-family: var(--font-sans);
+}
+
+.begin-group ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.begin-group li {
+  margin-bottom: var(--spacing-xs);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.begin-group a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.begin-group a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
 }
 
 .cluster-card .card-count {
