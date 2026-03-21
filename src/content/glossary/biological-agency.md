@@ -18,7 +18,7 @@ inBrief: Biological agency is the activity through which living systems sustain
   and regulate their own persistence.
 status: canonical
 canonical: true
-canonicalLockDate: 2026-03-18
+canonicalLockDate: 2026-03-21
 revised: 2026-03-21
 cluster: foundations
 seeAlso:
