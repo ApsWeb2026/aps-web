@@ -4,7 +4,7 @@ slug: how-to-read
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+revised: 2026-03-21
 ---
 The APS Framework is structured as a connected system of concepts rather than a sequence of standalone articles. The site is designed to be explored in multiple ways, depending on whether you are seeking an overview, a definition, or a deeper explanation.
 
