@@ -6,7 +6,7 @@ associatedPages: []
 ---
 **APS Box — Is APS Alive?**
 
-APS may appear life-like in certain respects. It is an organised conceptual system in which definitions constrain one another, coherence is maintained across the framework, and some interpretations maintain coherence within the system while others degrade it.
+APS may appear life-like in certain respects. It is an organised conceptual system in which definitions constrain one another, coherence is maintained across a constraint-closed system, and some interpretations maintain coherence within that system while others degrade it.
 
 However, APS is not a living system.
 
