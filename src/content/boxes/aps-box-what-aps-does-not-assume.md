@@ -29,4 +29,4 @@ APS introduces a specific explanatory grammar for biology. It does not rely on a
 - **No assumption that normativity is mental or subjective**  
   Biological normativity is enacted through organisation and does not depend on consciousness or experience.
 
-APS does not reject these concepts outright, but reinterprets them within a framework grounded in viability-oriented, constraint-closed organisation.
+APS does not reject these concepts outright, but reinterprets them within a framework grounded in viability-oriented, constraint-closed organisation. 
