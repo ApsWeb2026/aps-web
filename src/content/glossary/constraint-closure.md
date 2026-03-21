@@ -18,7 +18,7 @@ inBrief: Constraint closure is the self-maintaining organisation of mutually
   system.
 status: canonical
 canonical: true
-canonicalLockDate: 2026-03-20
+canonicalLockDate: 2026-03-21
 revised: 2026-03-21
 cluster: foundations
 seeAlso:
