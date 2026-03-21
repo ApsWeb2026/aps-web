@@ -39,3 +39,16 @@ The aim is not to restrict expression, but to preserve coherence. Definitions ca
 
 **Key Point**  
 APS constrains meaning in explanation, not language in general.
+
+## From Definitions to System
+
+The APS glossary does not function as a list of independent entries. Its definitions form an organised conceptual system in which each term is constrained by its relations to others.
+
+This means that:
+- definitions cannot be modified in isolation 
+- conceptual changes propagate across the framework 
+- coherence depends on maintaining these relationships 
+
+For a full account, see:
+→ APS as an Organised Conceptual System — Why Definitions Form a System
+
