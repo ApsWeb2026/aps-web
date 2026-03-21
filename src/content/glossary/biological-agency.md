@@ -1,26 +1,25 @@
 ---
 title: Biological Agency
 slug: biological-agency
-definition: "Biological agency is the viability-oriented, self-regulating,
-  viability-evaluative activity through which a living system sustains,
-  modulates, and re-creates the conditions of its own persistence. In APS, life
-  and biological agency name the same phenomenon from complementary
-  perspectives: life denotes the organised condition of persistence, while
-  agency denotes the activity that enacts and maintains that organisation.
-  Agency is not a structure, property, or capacity, but an ongoing activity
-  expressed through constraint-closed organisation and enacted across process
-  and scale. It does not imply representation, foresight, or conscious
-  intention. Rather, agency consists in the organised activity through which
-  systems differentiate changes relative to viability and reorganise their own
-  constraints to remain within conditions of continued existence. Biological
-  agency therefore identifies the active, self-maintaining character of living
-  systems as viability-oriented organisation in motion."
-inBrief: Biological agency is the activity through which living systems actively
-  sustain and regulate their own continued existence.
+definition: "Biological agency is the viability-oriented, self-regulating
+  activity through which a living system sustains, modulates, and re-creates the
+  conditions of its own persistence. In APS, life and biological agency name the
+  same phenomenon from complementary perspectives: life denotes the organised
+  condition of persistence, while agency denotes the activity that enacts and
+  maintains that organisation. Agency is an ongoing activity expressed through
+  constraint-closed organisation and enacted across process and scale. It does
+  not imply representation, foresight, or conscious intention. Rather, agency
+  consists in the organised activity through which systems differentiate changes
+  relative to viability and reorganise their own constraints to remain within
+  conditions of continued existence. Biological agency therefore identifies the
+  active, self-maintaining character of living systems as viability-oriented
+  organisation in motion."
+inBrief: Biological agency is the activity through which living systems sustain
+  and regulate their own persistence.
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-18
-revised: 2026-03-20
+revised: 2026-03-21
 cluster: foundations
 seeAlso:
   - life
