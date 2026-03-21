@@ -6,7 +6,7 @@ associatedPages: []
 ---
 **APS Box — Common Misreadings of APS**
 
-APS concepts are often misinterpreted when they are read outside the framework’s explanatory grammar. The following are common errors to avoid:
+APS concepts are often misinterpreted when they are read outside the explanatory grammar of a constraint-closed system. The following are common errors to avoid:
 
 - **Agency is not behaviour alone**  
   Biological agency refers to viability-oriented, self-regulating activity, not simply observable output.
@@ -21,9 +21,9 @@ APS concepts are often misinterpreted when they are read outside the framework�
   Scale describes continuous, interacting domains of organisation, not fixed layers of increasing complexity.
 
 - **Function is not externally assigned purpose**  
-  Function is defined by contribution to viability within the system, not by observer-defined roles.
+  Function is defined by contribution to viability within a constraint-closed system, not by observer-defined roles.
 
 - **APS is not reducible to existing frameworks**  
   While compatible with many approaches, APS operates with its own explanatory grammar and cannot be interpreted by importing external assumptions unchanged.
 
-These misreadings typically arise when concepts are treated in isolation. In APS, meaning is defined by the relations between concepts within a constraint-closed system.
+These misreadings typically arise when concepts are treated in isolation. In APS, meaning is determined by the relations between concepts within a constraint-closed system.
