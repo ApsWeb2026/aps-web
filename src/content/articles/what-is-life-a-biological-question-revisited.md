@@ -8,7 +8,7 @@ abstract: Biology explains how living systems persist and change, yet still
   integrates physiology, development, and evolution.
 status: evolving
 canonical: false
-revised: 2026-03-20
+revised: 2026-03-21
 cluster: foundations
 keyPoints: []
 relatedGlossaryTerms:
@@ -51,7 +51,7 @@ A fire grows, spreads, and consumes energy, but it is not alive. Crystals grow a
 
 Trait lists describe outcomes of living organisation, not its organising principle. They do not explain what unifies these features or why they matter biologically.
 
-<APSBox slug="why-trait-lists-fail" />
+/boxes/why-trait-lists-fail/
 
 ---
 
@@ -67,7 +67,7 @@ The question therefore shifts from *What is life made of?* to:
 
 *What kind of activity must be organised for a system to count as living?*
 
-<APSBox slug="diagnostics-vs-definition" />
+/boxes/diagnostics-vs-definition/
 
 ---
 
@@ -81,7 +81,7 @@ In biology, agency does not imply intention or consciousness. It means that a sy
 
 Agency explains why malfunction is meaningful, regulation is intrinsic, and success and failure are biologically real. Without agency, biological processes would be indistinguishable from ordinary physical flows.
 
-<APSBox slug="normativity-box" />
+/boxes/normativity/
 
 ---
 
@@ -115,7 +115,7 @@ Purpose does not imply foresight. It expresses the fact that some outcomes suppo
 
 Function is the operational expression of this orientation at the level of parts and processes. A function can succeed or fail because it operates within a viability-oriented organisation.
 
-<APSBox slug="viability-to-meaning" />
+/boxes/viability-to-meaning/
 
 ---
 
@@ -153,7 +153,7 @@ It is also sufficient in principle: any system that genuinely instantiates such 
 
 Borderline cases test the precision of constraint closure, not the coherence of the criterion.
 
-<APSBox slug="what-counts-as-evidence-of-life" />
+/boxes/what-counts-as-evidence-of-life/
 
 ---
 
@@ -165,7 +165,7 @@ Understanding life as viability-oriented organisation explains why regulation an
 
 Most importantly, it makes explicit what biological explanation already presupposes when it succeeds.
 
-<APSBox slug="borderline-cases" />
+/boxes/borderline-cases/
 
 ---
 
@@ -174,3 +174,6 @@ Most importantly, it makes explicit what biological explanation already presuppo
 Biology increasingly moves away from static, component-based views toward dynamic, organisational ones. Systems biology, developmental biology, theoretical biology, and philosophy all reflect this shift.
 
 The APS framework articulates this convergence in a unified explanatory grammar. It does not replace biology—it clarifies the conceptual structure on which biological explanation already rests.
+
+
+

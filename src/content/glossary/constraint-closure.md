@@ -1,24 +1,25 @@
 ---
 title: Constraint Closure
 slug: constraint-closure
-definition: "Constraint closure denotes the organisation of mutually dependent
-  constraints whose coordinated activity sustains a system’s persistence as a
-  coherent, self-maintaining whole. In APS, constraint closure is not mere
-  structural interdependence but viability-indexed organisation: the network of
+definition: "Constraint closure is organisation in which constraints are
+  mutually sustaining. It denotes a network of interdependent constraints whose
+  coordinated activity sustains a system’s persistence as a coherent,
+  self-maintaining whole. In APS, constraint closure is not mere structural
+  interdependence but viability-oriented organisation: the network of
   constraints must be actively maintained for the system to continue existing as
-  a biological agent. Constraint closure provides the organisational grounding
-  of life, while biological agency consists in the ongoing modulation of this
-  closure relative to conditions that support or undermine viability. Closure is
-  therefore necessary but not sufficient for life; only when constraint-closed
-  organisation is dynamically regulated in a viability-oriented manner does
-  biological agency arise."
+  an organised system. Constraint closure provides the organisational basis of
+  persistence, while biological agency consists in the ongoing modulation of
+  this closure relative to conditions that support or undermine viability.
+  Closure is therefore necessary but not sufficient for life; only when
+  constraint-closed organisation is dynamically regulated in a
+  viability-oriented manner does biological agency arise."
 inBrief: Constraint closure is the self-maintaining organisation of mutually
-  dependent constraints that enables a system to persist as a coherent
-  biological agent.
+  dependent constraints that enables a system to persist as a coherent organised
+  system.
 status: canonical
 canonical: true
-canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+canonicalLockDate: 2026-03-21
+revised: 2026-03-21
 cluster: foundations
 seeAlso:
   - biological-agency
@@ -40,7 +41,7 @@ Constraint closure arises when multiple constraints are mutually dependent and c
 
 This organisation marks the transition from externally imposed order to internally sustained organisation. Constraint closure explains how systems can exist without external design or instruction, forming the basis of contemporary autonomy theory.
 
-However, not all closure is biological. Dynamical systems may exhibit circular causation or feedback without maintaining themselves in the face of perturbation. Biological constraint closure is therefore viability-indexed: the maintenance of constraint networks is necessary for the system’s continued existence.
+However, not all closure is biological. Dynamical systems may exhibit circular causation or feedback without maintaining themselves in the face of perturbation. Biological constraint closure is therefore viability-oriented: the maintenance of constraint networks is necessary for the system’s continued existence.
 
 APS extends this insight by distinguishing closure from agency. Constraint closure explains organised persistence, but it does not by itself account for adaptive modulation. Living systems actively regulate, reinforce, relax, or reorganise constraints relative to conditions that matter for their continued viability. This dynamic modulation constitutes biological agency.
 
