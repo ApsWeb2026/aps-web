@@ -4,7 +4,7 @@ slug: how-to-read
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+revised: 2026-03-23
 ---
 The APS Framework is structured as a connected system of concepts rather than a sequence of standalone articles. The site is designed to be explored in multiple ways, depending on whether you are seeking an overview, a definition, or a deeper explanation.
 
@@ -14,6 +14,6 @@ The APS Glossary provides the foundation for everything else on the site. Each t
 
 Articles develop the framework by explaining how these concepts apply across different areas of biology. They extend the glossary definitions into broader explanations, examples, and applications. Boxes highlight key distinctions and recurring principles, and can be read independently or within the flow of an article.
 
-APS_WEB is not intended to be read strictly from beginning to end. Readers can move between pages by following conceptual links, using the glossary as a reference point and returning to orientation pages when needed.
+The APS Framework is not intended to be read strictly from beginning to end. Readers can move between pages by following conceptual links, using the glossary as a reference point and returning to orientation pages when needed.
 
-The most effective way to read APS_WEB is to move between definitions and explanations. The glossary provides conceptual precision, while articles and boxes show how those concepts function within biological explanation. Together, they form a unified framework for understanding life as organised, viability-oriented activity.
+The most effective way to read the APS Framework is to move between definitions and explanations. The glossary provides conceptual precision, while articles and boxes show how those concepts function within biological explanation. Together, they form a unified framework for understanding life as organised, viability-oriented activity.

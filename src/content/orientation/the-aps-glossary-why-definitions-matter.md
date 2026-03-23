@@ -4,7 +4,7 @@ slug: aps-glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+revised: 2026-03-23
 ---
 The APS Glossary is the conceptual foundation of APS. It defines the core terms used throughout the framework and clarifies how those terms relate to one another within a unified explanatory structure.
 
@@ -16,4 +16,4 @@ In APS, life is defined as viability-oriented organisation: the constraint-close
 
 The glossary therefore functions not as a list of terms, but as an interconnected system of concepts. Each entry contributes to a broader explanatory structure in which definitions are linked, mutually supporting, and grounded in a shared account of biological organisation.
 
-Using the glossary ensures that APS_WEB content remains consistent, transparent, and conceptually coherent. It provides a clear reference point for understanding how the framework defines its central ideas and how those ideas are applied across different domains of biology.
+Using the glossary ensures that APS content remains consistent, transparent, and conceptually coherent. It provides a clear reference point for understanding how the framework defines its central ideas and how those ideas are applied across different domains of biology.
