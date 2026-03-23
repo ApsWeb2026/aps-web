@@ -5,38 +5,38 @@
     "lockedSince": "2026-02-01"
   },
   "glossary/biological-agency": {
-    "hash": "53705164a96da62d",
-    "revised": "2026-03-20",
-    "lockedSince": "2026-03-18"
+    "hash": "f3d30759198c1450",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
   },
   "glossary/function": {
-    "hash": "39acc06af4d01f5f",
-    "revised": "2026-03-19",
+    "hash": "9548d8ede47a4887",
+    "revised": "2026-03-21",
     "lockedSince": "2026-03-19"
   },
   "glossary/process": {
-    "hash": "569f491479292ca5",
-    "revised": "2026-03-18",
+    "hash": "dffa8b68731ecd6e",
+    "revised": "2026-03-21",
     "lockedSince": "2026-03-18"
   },
   "glossary/scale": {
-    "hash": "6698143d3c782b00",
-    "revised": "2026-03-20",
+    "hash": "9a35f6e2b2b0349c",
+    "revised": "2026-03-21",
     "lockedSince": "2026-03-18"
   },
   "orientation/what-is-aps": {
-    "hash": "bcc1189c255db948",
-    "revised": "2026-02-01",
-    "lockedSince": "2026-02-01"
+    "hash": "1f82cedf2d595c08",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
   },
   "glossary/constraint-closure": {
-    "hash": "a477a83d59f170de",
-    "revised": "2026-03-20",
-    "lockedSince": "2026-03-20"
+    "hash": "a5aafb87e1cb3bd9",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
   },
   "glossary/life": {
-    "hash": "b16bfbbf201327dc",
-    "revised": "2026-03-20",
+    "hash": "f3e111a1645eea50",
+    "revised": "2026-03-21",
     "lockedSince": "2026-03-19"
   },
   "glossary/mattering": {
@@ -45,14 +45,14 @@
     "lockedSince": "2026-03-20"
   },
   "glossary/normativity": {
-    "hash": "c9d71c8948ea36f4",
-    "revised": "2026-03-20",
-    "lockedSince": "2026-03-19"
+    "hash": "ba540a4fa22b6267",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
   },
   "glossary/persistence": {
-    "hash": "4a56d21f045a3546",
-    "revised": "2026-03-20",
-    "lockedSince": "2026-03-20"
+    "hash": "5e9c477c9d360198",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
   },
   "glossary/purpose": {
     "hash": "e6bbbab8447c0292",
@@ -60,12 +60,12 @@
     "lockedSince": "2026-03-20"
   },
   "orientation/how-to-read": {
-    "hash": "c6984095d40b55fc",
+    "hash": "e8ed28d94b31ab8b",
     "revised": "2026-03-23",
     "lockedSince": "2026-03-20"
   },
   "orientation/aps-glossary": {
-    "hash": "bf67020bf79a4f8e",
+    "hash": "73a528a74c84f755",
     "revised": "2026-03-23",
     "lockedSince": "2026-03-20"
   },
@@ -73,5 +73,100 @@
     "hash": "e28812efead81fcf",
     "revised": "2026-03-23",
     "lockedSince": "2026-03-20"
+  },
+  "articles/adaptation": {
+    "hash": "4cabfce11096d916",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/aps-organised-conceptual-system": {
+    "hash": "8fda0c0424c61e06",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/biological-organisation": {
+    "hash": "b41f5e46e4b4c7f1",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/evolution": {
+    "hash": "f1c64862a67a6c30",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/explanatory-grammar": {
+    "hash": "f659d7362c2d072c",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/function": {
+    "hash": "594fadd51ef179d2",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/homeorhesis": {
+    "hash": "61f6824833529cf9",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/is-all-life-sentient": {
+    "hash": "4e390cc3c0401cf6",
+    "revised": "2026-03-23",
+    "lockedSince": "2026-03-23"
+  },
+  "articles/mentalistic-language-biology": {
+    "hash": "6911db0e6fafe93a",
+    "revised": "2026-03-23",
+    "lockedSince": "2026-03-23"
+  },
+  "articles/mentalistic-terms-biology": {
+    "hash": "36192a80cad16455",
+    "revised": "2026-03-23",
+    "lockedSince": "2026-03-23"
+  },
+  "articles/process": {
+    "hash": "e312ec631f435f82",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "articles/purpose": {
+    "hash": "ca53227c8d94b523",
+    "revised": "2026-03-22",
+    "lockedSince": "2026-03-22"
+  },
+  "articles/scale": {
+    "hash": "36f0789e10ac36c7",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "glossary/adaptation": {
+    "hash": "9eff7bc3d2243404",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "glossary/biological-organisation": {
+    "hash": "6f809fd3e0a08182",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "glossary/evolution": {
+    "hash": "eb8cedf4d4103001",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "glossary/explanatory-grammar": {
+    "hash": "885e2c8f314223f9",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "glossary/homeorhesis": {
+    "hash": "0c40e067e6ac6eed",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
+  },
+  "orientation/aps-core-structure": {
+    "hash": "b48d6915b8843a93",
+    "revised": "2026-03-21",
+    "lockedSince": "2026-03-21"
   }
 }
