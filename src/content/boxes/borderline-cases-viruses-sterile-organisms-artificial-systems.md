@@ -2,6 +2,7 @@
 title: "Borderline Cases: Viruses, Sterile Organisms, Artificial Systems "
 slug: borderline-cases
 status: canonical
+revised: 2026-03-23
 associatedPages:
   - /glossary/life
 ---

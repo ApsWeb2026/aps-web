@@ -254,6 +254,16 @@ collections:
           - { label: "Draft", value: "draft" }
           - { label: "Evolving", value: "evolving" }
           - { label: "Canonical", value: "canonical" }
+      - { label: "Canonical", name: "canonical", widget: "boolean", default: false, required: false }
+      - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: false, hint: "Date when canonical status was granted. Changing content after this date requires updating the revised date." }
+      - { label: "Last Revised", name: "revised", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true, hint: "Update this date when making substantive changes to canonical content." }
+      - label: "See Also"
+        name: "seeAlso"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Glossary term slugs for cross-references, e.g. normativity"
       - label: "Associated Pages"
         name: "associatedPages"
         widget: "list"

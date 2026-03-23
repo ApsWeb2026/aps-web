@@ -2,6 +2,7 @@
 title: "What Function Is (APS View)"
 slug: "what-function-is"
 status: "canonical"
+revised: "2026-03-23"
 associatedPages:
   - "/glossary/function/"
   - "/articles/scale-time-persistence/"

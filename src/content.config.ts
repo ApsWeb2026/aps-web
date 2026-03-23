@@ -107,6 +107,10 @@ const boxes = defineCollection({
     title: z.string(),
     slug: z.string(),
     status: statusEnum,
+    canonical: z.boolean().default(false),
+    canonicalLockDate: optionalDateString,
+    revised: dateString,
+    seeAlso: z.array(z.string()).default([]),
     associatedPages: z.array(z.string()).default([]),
   }),
 });

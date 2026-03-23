@@ -2,6 +2,7 @@
 title: "What Counts as Evidence of Life? "
 slug: what-counts-as-evidence-of-life
 status: canonical
+revised: 2026-03-23
 associatedPages:
   - /glossary/life
   - /articles/what-is-life

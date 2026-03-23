@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Breadcrumb from '@/components/Breadcrumb.astro';
 import PageMeta from '@/components/PageMeta.astro';
+import LockBanner from '@/components/LockBanner.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('boxes');
@@ -14,7 +15,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, status, associatedPages } = entry.data;
+const { title, status, canonical, canonicalLockDate, revised, seeAlso, associatedPages } = entry.data;
 ---
 
 <BaseLayout title={title} description={`${title} — APS Box`}>
@@ -25,12 +26,27 @@ const { title, status, associatedPages } = entry.data;
 
     <header class="page-header">
       <h1 data-pagefind-weight="20">{title}</h1>
-      <PageMeta status={status} type="box" />
+      <PageMeta status={status} type="box" revised={revised} />
     </header>
+
+    {canonical && canonicalLockDate && (
+      <LockBanner lockDate={canonicalLockDate} revised={revised} />
+    )}
 
     <div class="article-body">
       <Content />
     </div>
+
+    {seeAlso && seeAlso.length > 0 && (
+      <div class="see-also">
+        <h3>See Also</h3>
+        <ul class="tag-list">
+          {seeAlso.map((term: string) => (
+            <li><a href={`/glossary/${term}/`}>{term.replace(/-/g, ' ')}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
 
     {associatedPages && associatedPages.length > 0 && (
       <div class="see-also">

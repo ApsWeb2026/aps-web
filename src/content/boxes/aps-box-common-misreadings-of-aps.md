@@ -2,6 +2,7 @@
 title: APS Box — Common Misreadings of APS
 slug: aps-box-common-misreadings
 status: canonical
+revised: 2026-03-23
 associatedPages: []
 ---
 **APS Box — Common Misreadings of APS**

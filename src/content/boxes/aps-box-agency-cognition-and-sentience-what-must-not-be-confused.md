@@ -2,6 +2,7 @@
 title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
 slug: aps-box-agency-cognition-sentience
 status: canonical
+revised: 2026-03-23
 associatedPages: []
 ---
 ## Why This Distinction Matters

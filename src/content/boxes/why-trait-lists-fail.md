@@ -2,6 +2,7 @@
 title: Why Trait Lists Fail
 slug: why-trait-lists-fail
 status: canonical
+revised: 2026-03-23
 associatedPages:
   - /articles/what-is-life
   - /glossary/life

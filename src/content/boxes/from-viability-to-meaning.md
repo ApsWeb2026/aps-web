@@ -2,6 +2,7 @@
 title: From Viability to Meaning
 slug: viability-to-meaning
 status: canonical
+revised: 2026-03-23
 associatedPages: []
 ---
 In APS, meaning is not introduced as a separate domain layered on top of biology, but arises from the same viability-oriented organisation that defines life.

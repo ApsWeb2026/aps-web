@@ -2,6 +2,7 @@
 title: Viability and Persistence
 slug: viability-and-persistence
 status: canonical
+revised: 2026-03-23
 associatedPages: []
 ---
 Viability and persistence are closely related in APS, but they are not identical.

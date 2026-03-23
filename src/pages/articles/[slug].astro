@@ -25,6 +25,7 @@ const {
   revised,
   cluster,
   keyPoints,
+  relatedGlossaryTerms,
   references,
 } = entry.data;
 ---
@@ -67,6 +68,17 @@ const {
     <div class="article-body">
       <Content />
     </div>
+
+    {relatedGlossaryTerms && relatedGlossaryTerms.length > 0 && (
+      <div class="see-also">
+        <h3>See Also</h3>
+        <ul class="tag-list">
+          {relatedGlossaryTerms.map((term: string) => (
+            <li><a href={`/glossary/${term}/`}>{term.replace(/-/g, ' ')}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
 
     <References references={references} />
   </div>
