@@ -4,7 +4,7 @@ slug: aps-glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-21
+revised: 2026-03-23
 ---
 The APS Glossary is the conceptual foundation of APS. It defines the core terms used throughout the framework and clarifies how those terms relate to one another within a unified explanatory framework.
 
@@ -16,7 +16,7 @@ In APS, life is defined as viability-oriented, constraint-closed organisation: t
 
 The glossary therefore functions not as a list of terms, but as an interconnected system of concepts. Each entry contributes to a broader explanatory framework in which definitions are linked, mutually supporting, and grounded in a shared account of biological organisation.
 
-Using the glossary ensures that APS_WEB content remains consistent, transparent, and conceptually coherent. It provides a clear reference point for understanding how the framework defines its central ideas and how those ideas are applied across different domains of biology.
+Using the glossary ensures that APS content remains consistent, transparent, and conceptually coherent. It provides a clear reference point for understanding how the framework defines its central ideas and how those ideas are applied across different domains of biology.
 
 ## Canonical Definitions and Conceptual Discipline
 
@@ -26,7 +26,7 @@ To preserve coherence across the APS corpus, key terms are defined using a const
 
 This discipline ensures that concepts do not drift as they are applied in different contexts. Definitions can be extended or elaborated, but such extensions must preserve their canonical structure and dependencies. In this way, the glossary does not merely describe terms; it stabilises the explanatory grammar of the framework.
 
-**Key Point**  
+**Key Point**
 APS definitions are not flexible descriptions — they are canonical constraints that preserve the coherence of the framework.
 
 ## Why Precision Matters in APS
@@ -37,7 +37,7 @@ For this reason, APS treats core definitions as canonical anchors within a contr
 
 The aim is not to restrict expression, but to preserve coherence. Definitions can be elaborated and applied in different contexts, but their core structure must remain stable. In this way, precision supports, rather than limits, the practical use of biological concepts.
 
-**Key Point**  
+**Key Point**
 APS constrains meaning in explanation, not language in general.
 
 ## From Definitions to System
@@ -45,10 +45,9 @@ APS constrains meaning in explanation, not language in general.
 The APS glossary does not function as a list of independent entries. Its definitions form an organised conceptual system in which each term is constrained by its relations to others.
 
 This means that:
-- definitions cannot be modified in isolation 
-- conceptual changes propagate across the framework 
-- coherence depends on maintaining these relationships 
+- definitions cannot be modified in isolation
+- conceptual changes propagate across the framework
+- coherence depends on maintaining these relationships
 
 For a full account, see:
 → APS as an Organised Conceptual System — Why Definitions Form a System
-

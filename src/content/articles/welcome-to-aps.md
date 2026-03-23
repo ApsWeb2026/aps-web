@@ -1,7 +1,7 @@
 ---
 title: Welcome to APS
 slug: welcome
-abstract: APS_WEB presents the Agency–Process–Scale (APS) framework as a unified
+abstract: The APS Framework presents the Agency–Process–Scale (APS) framework as a unified
   approach to biological organisation, persistence, and evolution. The site
   brings together glossary definitions, explanatory articles, and research
   materials as an interconnected conceptual system.
@@ -23,11 +23,11 @@ relatedGlossaryTerms:
   - scale
 references: []
 ---
-## Welcome to APS_WEB
+## Welcome to APS
 
-APS_WEB presents the Agency–Process–Scale (APS) framework, a theoretical approach that explores how biological organisation, persistence, and evolution can be understood within a unified conceptual structure.
+The APS Framework presents the Agency–Process–Scale (APS) framework, a theoretical approach that explores how biological organisation, persistence, and evolution can be understood within a unified conceptual structure.
 
-The site functions as a research reference for the APS framework, bringing together explanatory articles, glossary definitions, and research papers that develop the framework’s central ideas. Rather than presenting isolated essays, APS_WEB organises these materials as an interconnected conceptual system in which definitions, arguments, and examples can be explored together.
+The site functions as a research reference for the APS framework, bringing together explanatory articles, glossary definitions, and research papers that develop the framework’s central ideas. Rather than presenting isolated essays, APS organises these materials as an interconnected conceptual system in which definitions, arguments, and examples can be explored together.
 
 A distinctive feature of the site is the APS Glossary, which defines the key concepts used throughout the framework and explains how they relate to one another. These definitions provide a transparent map of the conceptual assumptions underlying the APS approach.
 
