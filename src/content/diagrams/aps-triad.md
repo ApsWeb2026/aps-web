@@ -1,7 +1,7 @@
 ---
 title: "The APS Triad"
 slug: "aps-triad"
-svgFile: "/assets/sample-diagram.svg"
+svgFile: "/assets/diagrams/sample-diagram.svg"
 caption: "The three interlocking dimensions of the APS framework: Agency, Process, and Scale."
 description: "A diagram showing the three core concepts of the APS framework — Agency, Process, and Scale — as interlocking elements of a unified analytical structure. Each element is co-constitutive: none can be understood in isolation from the others."
 status: "canonical"
