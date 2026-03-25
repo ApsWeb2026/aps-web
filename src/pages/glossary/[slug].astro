@@ -51,6 +51,34 @@ for (const article of articles) {
   }
 }
 
+for (const page of orientationPages) {
+  if (
+    page.data.relatedGlossaryTerms?.includes(slug) ||
+    (page.body && page.body.includes(`/glossary/${slug}/`))
+  ) {
+    backlinks.push({
+      title: page.data.title,
+      href: `/orientation/${page.data.slug}/`,
+      status: page.data.status,
+      type: 'orientation',
+    });
+  }
+}
+
+for (const stream of allStreams) {
+  if (
+    stream.data.associatedGlossaryTerms?.includes(slug) ||
+    (stream.body && stream.body.includes(`/glossary/${slug}/`))
+  ) {
+    backlinks.push({
+      title: stream.data.title,
+      href: `/streams/${stream.data.slug}/`,
+      status: stream.data.status,
+      type: 'stream',
+    });
+  }
+}
+
 // Sort backlinks: canonical first, then by title
 const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
 backlinks.sort(
