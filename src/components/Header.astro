@@ -4,11 +4,17 @@ const { pathname } = Astro.url;
 const navItems = [
   { label: 'Home', href: '/' },
   { label: 'What Is APS?', href: '/orientation/what-is-aps/' },
-  { label: 'Foundations', href: '/clusters/foundations/' },
+  { label: 'Glossary', href: '/glossary/' },
+];
+
+const clusterItems = [
+  { label: 'Foundations of Life', href: '/clusters/foundations/' },
+  { label: 'Definition & Borderlines', href: '/clusters/definition-borderlines/' },
   { label: 'Cognition & Mind', href: '/clusters/cognition-mind/' },
   { label: 'Empirical Interface', href: '/clusters/empirical-interface/' },
-  { label: 'Clusters', href: '/streams/' },
-  { label: 'Glossary', href: '/glossary/' },
+  { label: 'Scale, Time, and Organisation', href: '/clusters/scaling-complexity/' },
+  { label: 'Historical & Philosophical Context', href: '/clusters/historical-context/' },
+  { label: 'Conceptual Foundations & Explanatory Grammar', href: '/clusters/conceptual-foundations/' },
 ];
 ---
 
@@ -31,6 +37,25 @@ const navItems = [
           </li>
         ))
       }
+      <li class="nav-dropdown">
+        <button class="nav-dropdown-toggle" aria-expanded="false" aria-haspopup="true">
+          Clusters <span class="dropdown-arrow">&#9662;</span>
+        </button>
+        <ul class="nav-dropdown-menu">
+          {
+            clusterItems.map((item) => (
+              <li>
+                <a
+                  href={item.href}
+                  aria-current={pathname === item.href ? 'page' : undefined}
+                >
+                  {item.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </li>
       <li>
         <a href="/search/" class="nav-search-btn">&#128269; Search</a>
       </li>
@@ -41,5 +66,21 @@ const navItems = [
 <script>
   document.getElementById('nav-toggle')?.addEventListener('click', () => {
     document.getElementById('nav-links')?.classList.toggle('open');
+  });
+
+  document.querySelectorAll('.nav-dropdown-toggle').forEach((btn) => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const parent = (e.currentTarget as HTMLElement).parentElement;
+      parent?.classList.toggle('open');
+      btn.setAttribute('aria-expanded', parent?.classList.contains('open') ? 'true' : 'false');
+    });
+  });
+
+  document.addEventListener('click', () => {
+    document.querySelectorAll('.nav-dropdown.open').forEach((el) => {
+      el.classList.remove('open');
+      el.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
+    });
   });
 </script>

@@ -65,12 +65,13 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
     <section class="home-section">
       <h2>Knowledge Clusters</h2>
       <p>
-        The APS Framework is organised into flat, non-hierarchical clusters. Each cluster groups
-        related articles, glossary entries, and research streams within a unified explanatory grammar.
+        The APS framework is organised into conceptual domains (&ldquo;clusters&rdquo;) that group
+        related ideas and lines of explanation. These are connected through cross-links and research
+        streams, allowing multiple pathways through the framework without imposing a rigid hierarchy.
       </p>
       <div class="cluster-grid">
         <a href="/clusters/foundations/" class="cluster-card">
-          <h3>Foundations of the APS Framework</h3>
+          <h3>Foundations of Life</h3>
           <p>Core definitions, principles, and the formal structure of Agency, Process, and Scale.</p>
         </a>
         <a href="/clusters/definition-borderlines/" class="cluster-card">
@@ -92,7 +93,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
           </p>
         </a>
         <a href="/clusters/scaling-complexity/" class="cluster-card">
-          <h3>Scaling &amp; Complexity</h3>
+          <h3>Scale, Time, and Organisation</h3>
           <p>
             Multi-scale organisation, emergence, and cross-scale integration.
           </p>
@@ -108,6 +109,33 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
           <p>
             The structure of explanation in APS&mdash;what counts as a valid concept and a well-formed claim.
           </p>
+        </a>
+      </div>
+    </section>
+
+    <!-- Entry Points -->
+    <section class="home-section">
+      <h2>Explore</h2>
+      <div class="cluster-grid" style="grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));">
+        <a href="/glossary/" class="cluster-card">
+          <h3>Glossary</h3>
+          <p>Canonical definitions for all APS terms.</p>
+        </a>
+        <a href="/articles/" class="cluster-card">
+          <h3>Articles</h3>
+          <p>Research essays developing the framework.</p>
+        </a>
+        <a href="/streams/" class="cluster-card">
+          <h3>Research Streams</h3>
+          <p>Domain-specific research indices.</p>
+        </a>
+        <a href="/boxes/" class="cluster-card">
+          <h3>APS Boxes</h3>
+          <p>Reusable conceptual highlights and distinctions.</p>
+        </a>
+        <a href="/search/" class="cluster-card">
+          <h3>Search</h3>
+          <p>Full-text search across all content.</p>
         </a>
       </div>
     </section>

@@ -46,8 +46,8 @@ function parseFrontmatter(content: string): Record<string, unknown> {
   return fm;
 }
 
-function getGlossarySlugs(): Set<string> {
-  const dir = path.join(CONTENT_DIR, 'glossary');
+function getSlugsForSection(section: string): Set<string> {
+  const dir = path.join(CONTENT_DIR, section);
   const slugs = new Set<string>();
   if (!fs.existsSync(dir)) return slugs;
 
@@ -57,6 +57,14 @@ function getGlossarySlugs(): Set<string> {
     if (fm.slug) slugs.add(fm.slug as string);
   }
   return slugs;
+}
+
+function getGlossarySlugs(): Set<string> {
+  return getSlugsForSection('glossary');
+}
+
+function getArticleSlugs(): Set<string> {
+  return getSlugsForSection('articles');
 }
 
 function parseYamlArray(content: string, fieldName: string): string[] {
@@ -88,6 +96,7 @@ function lintCollection(section: string): LintIssue[] {
   const files = fs.readdirSync(dir).filter((f) => f.endsWith('.md'));
   const slugsSeen = new Map<string, string>();
   const glossarySlugs = getGlossarySlugs();
+  const articleSlugs = getArticleSlugs();
   const requiresRevised = ['articles', 'glossary', 'streams', 'orientation', 'diagrams'];
   const supportsCanonical = ['articles', 'glossary', 'orientation'];
 
@@ -134,6 +143,19 @@ function lintCollection(section: string): LintIssue[] {
           issues.push({
             file: relPath,
             issue: `relatedGlossaryTerms: "${term}" not found in glossary`,
+          });
+        }
+      }
+    }
+
+    // Check relatedArticles references
+    if (section === 'articles') {
+      const related = parseYamlArray(content, 'relatedArticles');
+      for (const ref of related) {
+        if (!articleSlugs.has(ref)) {
+          issues.push({
+            file: relPath,
+            issue: `relatedArticles: "${ref}" not found in articles`,
           });
         }
       }

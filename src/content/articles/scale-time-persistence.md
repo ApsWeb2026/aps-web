@@ -14,7 +14,8 @@ keyPoints:
 relatedGlossaryTerms:
   - "biological-agency"
   - "process"
-researchStream: "cognition"
+researchStreams:
+  - "cognition"
 references:
   - id: "rescher-1996"
     authors: "Rescher, N."

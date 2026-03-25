@@ -48,11 +48,11 @@ collections:
         widget: "select"
         required: true
         options:
-          - { label: "Foundations of the APS Framework", value: "foundations" }
+          - { label: "Foundations of Life", value: "foundations" }
           - { label: "Definition & Borderlines", value: "definition-borderlines" }
           - { label: "Cognition & Mind", value: "cognition-mind" }
           - { label: "Empirical Interface", value: "empirical-interface" }
-          - { label: "Scaling & Complexity", value: "scaling-complexity" }
+          - { label: "Scale, Time, and Organisation", value: "scaling-complexity" }
           - { label: "Historical & Philosophical Context", value: "historical-context" }
           - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
       - label: "See Also"
@@ -113,11 +113,11 @@ collections:
         widget: "select"
         required: true
         options:
-          - { label: "Foundations of the APS Framework", value: "foundations" }
+          - { label: "Foundations of Life", value: "foundations" }
           - { label: "Definition & Borderlines", value: "definition-borderlines" }
           - { label: "Cognition & Mind", value: "cognition-mind" }
           - { label: "Empirical Interface", value: "empirical-interface" }
-          - { label: "Scaling & Complexity", value: "scaling-complexity" }
+          - { label: "Scale, Time, and Organisation", value: "scaling-complexity" }
           - { label: "Historical & Philosophical Context", value: "historical-context" }
           - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
       - label: "Key Points"
@@ -133,7 +133,20 @@ collections:
         default: []
         field: { label: "Glossary Slug", name: "slug", widget: "string" }
         hint: "Slugs of related glossary entries (e.g. biological-agency, function)"
-      - { label: "Research Stream", name: "researchStream", widget: "string", required: false, hint: "Slug of the associated research stream (e.g. cognition)" }
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Article Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related articles (e.g. agency-without-intentions, scale-time-persistence)"
+      - label: "Research Streams"
+        name: "researchStreams"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Stream Slug", name: "slug", widget: "string" }
+        hint: "Slugs of associated research streams (e.g. cognition)"
       - label: "References"
         name: "references"
         widget: "list"
@@ -183,11 +196,11 @@ collections:
         widget: "select"
         required: true
         options:
-          - { label: "Foundations of the APS Framework", value: "foundations" }
+          - { label: "Foundations of Life", value: "foundations" }
           - { label: "Definition & Borderlines", value: "definition-borderlines" }
           - { label: "Cognition & Mind", value: "cognition-mind" }
           - { label: "Empirical Interface", value: "empirical-interface" }
-          - { label: "Scaling & Complexity", value: "scaling-complexity" }
+          - { label: "Scale, Time, and Organisation", value: "scaling-complexity" }
           - { label: "Historical & Philosophical Context", value: "historical-context" }
           - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
       - label: "Associated Glossary Terms"

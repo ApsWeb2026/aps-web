@@ -28,7 +28,7 @@ relatedGlossaryTerms:
   - Scale
   - Normativity
   - Biological agency
-researchStream: ""
+researchStreams: []
 references: []
 ---
 ## Introduction
