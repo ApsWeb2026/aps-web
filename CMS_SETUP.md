@@ -10,9 +10,9 @@ Browser (CMS UI)  →  Git Gateway (Netlify)  →  GitHub Repository
                   Netlify Identity (auth)
 ```
 
-- **Decap CMS v3**: Single-page app at `/admin/`
-- **Git Gateway**: Netlify service that proxies Git operations (no GitHub OAuth needed)
-- **Netlify Identity**: Handles user authentication (email/password or invite-only)
+- Decap CMS v3: Single-page app at `/admin/`
+- Git Gateway: Netlify service that proxies Git operations (no GitHub OAuth needed)
+- Netlify Identity: Handles user authentication (email/password or invite-only)
 
 ## CMS Access
 
@@ -45,12 +45,12 @@ This enables a Draft → In Review → Ready workflow within the CMS. Content sa
 ### Collections
 
 Six content collections are configured:
-1. **Glossary Entries** — `src/content/glossary/`
-2. **Articles** — `src/content/articles/`
-3. **Research Streams** — `src/content/streams/`
-4. **Orientation Pages** — `src/content/orientation/`
-5. **APS Boxes** — `src/content/boxes/`
-6. **Diagrams** — `src/content/diagrams/`
+1. Glossary Entries — `src/content/glossary/`
+2. Articles — `src/content/articles/`
+3. Research Streams — `src/content/streams/`
+4. Orientation Pages — `src/content/orientation/`
+5. APS Boxes — `src/content/boxes/`
+6. Diagrams — `src/content/diagrams/`
 
 Each collection defines its fields, validation rules, and widgets.
 

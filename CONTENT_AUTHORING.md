@@ -197,7 +197,7 @@ All internal links are validated at build time. Broken links will cause the buil
 
 ## Revised Date
 
-**Always update the `revised` field when editing content.** Format: `YYYY-MM-DD`.
+Always update the `revised` field when editing content. Format: `YYYY-MM-DD`.
 
 For canonical pages, failing to update the revised date when content changes will cause a build failure (canonical lock violation).
 

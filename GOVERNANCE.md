@@ -12,9 +12,9 @@ Draft  →  Evolving  →  Canonical
 
 | Status | Meaning | Editable? |
 |--------|---------|-----------|
-| **Draft** | Work in progress, not yet reviewed | Freely editable |
-| **Evolving** | Published and visible, subject to revision | Freely editable |
-| **Canonical** | Formally locked as authoritative | Protected (see below) |
+| Draft | Work in progress, not yet reviewed | Freely editable |
+| Evolving | Published and visible, subject to revision | Freely editable |
+| Canonical | Formally locked as authoritative | Protected (see below) |
 
 ## Canonical Lock
 
@@ -31,8 +31,8 @@ When a page reaches canonical status, it is protected by the canonical lock syst
 ### What Is Protected
 
 The lock covers:
-- **Frontmatter fields**: `title`, `definition`, `inBrief`, `abstract`, `overview`
-- **Body content**: Everything after the frontmatter block
+- Frontmatter fields: `title`, `definition`, `inBrief`, `abstract`, `overview`
+- Body content: Everything after the frontmatter block
 
 The lock does NOT cover metadata-only fields like `seeAlso`, `relatedGlossaryTerms`, `references`, or `cluster`.
 
@@ -56,7 +56,7 @@ Canonical lock violation: articles/some-article
   Stored revised: 2026-02-01 | Current revised: 2026-02-01
 ```
 
-**Fix**: Update the `revised` date in the frontmatter to the current date, then rebuild.
+Fix: Update the `revised` date in the frontmatter to the current date, then rebuild.
 
 ### Hash Registry
 

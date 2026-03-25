@@ -36,11 +36,11 @@ If you forget to update `revised`, the build will fail with a canonical lock vio
 
 ### Adding a Cross-Reference
 
-- **Glossary See Also**: Add the target glossary slug to the `seeAlso` array
-- **Article Related Terms**: Add glossary slugs to `relatedGlossaryTerms`
-- **Article Related Articles**: Add article slugs to `relatedArticles`
-- **Research Stream Link**: Add stream slugs to `researchStreams` on the article
-- **Internal Link in Body**: Use `[Link Text](/section/slug/)`
+- Glossary See Also: Add the target glossary slug to the `seeAlso` array
+- Article Related Terms: Add glossary slugs to `relatedGlossaryTerms`
+- Article Related Articles: Add article slugs to `relatedArticles`
+- Research Stream Link: Add stream slugs to `researchStreams` on the article
+- Internal Link in Body: Use `[Link Text](/section/slug/)`
 
 All cross-references are validated at build time.
 
@@ -54,7 +54,7 @@ Content lint issues:
     → Missing "revised" date
 ```
 
-**Fix**: Add or correct the field mentioned in the error message.
+Fix: Add or correct the field mentioned in the error message.
 
 ### Build Failed: Broken Link
 
@@ -64,7 +64,7 @@ Broken links found:
     → /glossary/nonexistent-term/
 ```
 
-**Fix**: Either create the missing content page or correct the link path.
+Fix: Either create the missing content page or correct the link path.
 
 ### Build Failed: Canonical Lock Violation
 
@@ -73,13 +73,13 @@ Canonical lock violation: articles/some-article
   Content changed but revised date was not updated.
 ```
 
-**Fix**: Update the `revised` date in the page frontmatter to the current date.
+Fix: Update the `revised` date in the page frontmatter to the current date.
 
 ### Build Failed: Hash Mismatch After Merge
 
 If canonical content was edited via CMS while a feature branch was open, `.content-hashes.json` may be stale after merging.
 
-**Fix**:
+Fix:
 1. Pull latest main
 2. Run `npm run check:canonical` (this auto-updates hashes for legitimate changes)
 3. Commit the updated `.content-hashes.json`

@@ -4,10 +4,10 @@ Structured academic research publishing platform for the Agency-Process-Scale (A
 
 ## Stack
 
-- **Astro 5** + TypeScript (static site generator)
-- **Decap CMS v3** (Git-backed content management via Git Gateway + Netlify Identity)
-- **Pagefind** (client-side static search)
-- **Netlify** (hosting, deploys, identity service)
+- Astro 5 + TypeScript (static site generator)
+- Decap CMS v3 (Git-backed content management via Git Gateway + Netlify Identity)
+- Pagefind (client-side static search)
+- Netlify (hosting, deploys, identity service)
 
 ## Quick Start
 
@@ -54,29 +54,29 @@ public/
 
 Content is organised into 7 non-hierarchical conceptual clusters:
 
-1. **Foundations of Life** (`foundations`)
-2. **Definition & Borderlines** (`definition-borderlines`)
-3. **Cognition & Mind** (`cognition-mind`)
-4. **Empirical Interface** (`empirical-interface`)
-5. **Scale, Time, and Organisation** (`scaling-complexity`)
-6. **Historical & Philosophical Context** (`historical-context`)
-7. **Conceptual Foundations & Explanatory Grammar** (`conceptual-foundations`)
+1. Foundations of Life (`foundations`)
+2. Definition & Borderlines (`definition-borderlines`)
+3. Cognition & Mind (`cognition-mind`)
+4. Empirical Interface (`empirical-interface`)
+5. Scale, Time, and Organisation (`scaling-complexity`)
+6. Historical & Philosophical Context (`historical-context`)
+7. Conceptual Foundations & Explanatory Grammar (`conceptual-foundations`)
 
 ## Status System
 
 Every content page has a status badge:
 
-- **Draft** — Work in progress, not yet reviewed
-- **Evolving** — Published but subject to revision
-- **Canonical** — Formally locked; changes require governance process
+- Draft — Work in progress, not yet reviewed
+- Evolving — Published but subject to revision
+- Canonical — Formally locked; changes require governance process
 
 ## Build Pipeline
 
 The build runs these checks automatically (via `prebuild`):
 
-1. **Content lint** (`content-lint.ts`) — validates frontmatter conventions, duplicate slugs, broken glossary/article references
-2. **Link check** (`check-links.ts`) — verifies all internal markdown links resolve to existing content
-3. **Canonical lock** (`check-canonical-lock.ts`) — ensures canonical pages haven't been silently modified
+1. Content lint (`content-lint.ts`) — validates frontmatter conventions, duplicate slugs, broken glossary/article references
+2. Link check (`check-links.ts`) — verifies all internal markdown links resolve to existing content
+3. Canonical lock (`check-canonical-lock.ts`) — ensures canonical pages haven't been silently modified
 
 If any check fails, the build exits with code 1.
 

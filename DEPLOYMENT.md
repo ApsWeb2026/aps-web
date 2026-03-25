@@ -58,14 +58,14 @@ Pull requests automatically generate deploy previews on Netlify. The preview URL
 
 ## Domain
 
-- **Netlify URL**: `https://aps-platform.netlify.app`
-- **Custom domain**: `apsframework.org` (configured in Netlify, DNS pointing required)
+- Netlify URL: `https://aps-platform.netlify.app`
+- Custom domain: `apsframework.org` (configured in Netlify, DNS pointing required)
 
 ## Environment
 
-- **Node.js**: v20
-- **npm**: v10
-- **Astro**: v5
+- Node.js: v20
+- npm: v10
+- Astro: v5
 - No environment variables or secrets are required for the build
 
 ## Monitoring Builds
