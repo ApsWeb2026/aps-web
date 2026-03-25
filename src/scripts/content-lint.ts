@@ -136,7 +136,7 @@ function lintCollection(section: string): LintIssue[] {
     }
 
     // Check glossary term references
-    if (section === 'articles') {
+    if (section === 'articles' || section === 'orientation') {
       const terms = parseYamlArray(content, 'relatedGlossaryTerms');
       for (const term of terms) {
         if (!glossarySlugs.has(term)) {
@@ -149,7 +149,7 @@ function lintCollection(section: string): LintIssue[] {
     }
 
     // Check relatedArticles references
-    if (section === 'articles') {
+    if (section === 'articles' || section === 'orientation') {
       const related = parseYamlArray(content, 'relatedArticles');
       for (const ref of related) {
         if (!articleSlugs.has(ref)) {
