@@ -26,8 +26,17 @@ const {
   cluster,
   keyPoints,
   relatedGlossaryTerms,
+  relatedArticles,
   references,
 } = entry.data;
+
+const allArticles = await getCollection('articles');
+const resolvedRelatedArticles = (relatedArticles ?? [])
+  .map((slug: string) => {
+    const found = allArticles.find((a) => a.data.slug === slug);
+    return found ? { slug: found.data.slug, title: found.data.title } : null;
+  })
+  .filter(Boolean) as { slug: string; title: string }[];
 ---
 
 <BaseLayout title={title} description={abstract}>
@@ -75,6 +84,17 @@ const {
         <ul class="tag-list">
           {relatedGlossaryTerms.map((term: string) => (
             <li><a href={`/glossary/${term}/`}>{term.replace(/-/g, ' ')}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {resolvedRelatedArticles.length > 0 && (
+      <div class="see-also">
+        <h3>Related Articles</h3>
+        <ul class="tag-list">
+          {resolvedRelatedArticles.map((article) => (
+            <li><a href={`/articles/${article.slug}/`}>{article.title}</a></li>
           ))}
         </ul>
       </div>

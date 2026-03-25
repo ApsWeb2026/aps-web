@@ -71,7 +71,8 @@ const articles = defineCollection({
     cluster: clusterEnum,
     keyPoints: z.array(z.string()).default([]),
     relatedGlossaryTerms: z.array(z.string()).default([]),
-    researchStream: z.string().optional(),
+    relatedArticles: z.array(z.string()).default([]),
+    researchStreams: z.array(z.string()).default([]),
     references: z.array(referenceSchema).default([]),
   }),
 });
