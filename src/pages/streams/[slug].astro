@@ -20,7 +20,7 @@ const { title, slug, overview, status, revised, cluster, associatedGlossaryTerms
 
 // Auto-list articles that belong to this stream
 const allArticles = await getCollection('articles');
-const streamArticles = allArticles.filter((a) => a.data.researchStream === slug);
+const streamArticles = allArticles.filter((a) => (a.data.researchStreams ?? []).includes(slug));
 const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
 streamArticles.sort(
   (a, b) =>
@@ -39,7 +39,7 @@ const relatedTerms = associatedGlossaryTerms
   <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Stream, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}>
     <span data-pagefind-filter="type:Stream" data-pagefind-ignore></span>
     <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
-    <Breadcrumb items={[{ label: 'Research Hubs', href: '/streams/' }, { label: title }]} />
+    <Breadcrumb items={[{ label: 'Research Streams', href: '/streams/' }, { label: title }]} />
 
     <header class="page-header">
       <h1 data-pagefind-weight="20">{title}</h1>
