@@ -2,6 +2,7 @@
 title: "Diagnostics vs Definition "
 slug: diagnostics-vs-definition
 status: canonical
+canonical: true
 revised: 2026-03-23
 associatedPages:
   - /articles/life
