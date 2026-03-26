@@ -1,5 +1,5 @@
 ---
-title: "Borderline Cases: Viruses, Sterile Organisms, Artificial Systems "
+title: APS Box — Borderline Cases
 slug: borderline-cases
 status: canonical
 revised: 2026-03-23
