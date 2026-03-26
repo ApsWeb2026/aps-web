@@ -1,8 +1,10 @@
 ---
-title: "Diagnostics vs Definition "
+title: "APS Box — Diagnostics vs Definition "
 slug: diagnostics-vs-definition
 status: canonical
-revised: 2026-03-23
+canonical: true
+canonicalLockDate: 2026-03-26
+revised: 2026-03-26
 associatedPages:
   - /articles/life
 ---
