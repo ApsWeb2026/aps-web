@@ -1,11 +1,12 @@
 ---
-title: "What Function Is (APS View)"
-slug: "what-function-is"
-status: "canonical"
-revised: "2026-03-23"
+title: APS Box — What Function Is (APS View)
+slug: what-function-is
+status: canonical
+canonical: true
+revised: 2026-03-26
 associatedPages:
-  - "/glossary/function/"
-  - "/articles/scale-time-persistence/"
+  - /glossary/function/
+  - /articles/scale-time-persistence/
 ---
 
 **In the APS framework, function is organisational.** A component has a function because it contributes to the self-maintaining organisation of the system — not because it was selected for that role, and not merely because it has causal effects.
