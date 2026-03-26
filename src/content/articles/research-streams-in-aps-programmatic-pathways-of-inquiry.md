@@ -21,6 +21,8 @@ The Agency–Process–Scale (APS) framework is organised primarily through **gl
 
 Alongside this structure, APS also supports the development of **research streams**—coherent, ongoing trajectories of inquiry that extend across multiple clusters and articles. These streams do not constitute an additional layer of classification, but a way of organising sustained investigation within the framework.
 
+[Research stream](/boxes/aps-knowledge-organisation)
+
 ## What Research Streams Are
 
 A research stream in APS is a **programmatic pathway of inquiry** defined by a shared conceptual focus and sustained through a sequence of related analyses, articles, and theoretical developments.
