@@ -1,8 +1,9 @@
 ---
-title: "What Counts as Evidence of Life? "
+title: "APS Box — What Counts as Evidence of Life? "
 slug: what-counts-as-evidence-of-life
 status: canonical
-revised: 2026-03-23
+canonical: true
+revised: 2026-03-26
 associatedPages:
   - /glossary/life
   - /articles/what-is-life
