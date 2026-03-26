@@ -1,8 +1,9 @@
 ---
-title: Viability and Persistence
+title: APS Box — Viability and Persistence
 slug: viability-and-persistence
 status: canonical
-revised: 2026-03-23
+canonical: true
+revised: 2026-03-26
 associatedPages: []
 ---
 Viability and persistence are closely related in APS, but they are not identical.
