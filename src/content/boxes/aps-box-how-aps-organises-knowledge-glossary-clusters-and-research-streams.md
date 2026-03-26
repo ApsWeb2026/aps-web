@@ -1,6 +1,5 @@
 ---
-title: "APS Box — How APS Organises Knowledge: Glossary, Clusters, and Research
-  Streams"
+title: APS Box — How APS Organises Knowledge
 slug: aps-knowledge-organisation
 status: evolving
 canonical: false
