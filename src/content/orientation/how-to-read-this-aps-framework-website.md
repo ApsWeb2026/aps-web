@@ -5,9 +5,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
 revised: 2026-03-27
-relatedArticles:
-  - understanding-aps-web-structure-framework
-  - aps-viability-oriented-framework-understanding-life
+relatedArticles: []
 ---
 ## How to Read APS
 
