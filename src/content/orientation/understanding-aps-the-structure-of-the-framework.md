@@ -4,7 +4,7 @@ slug: understanding-aps
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-23
+revised: 2026-03-27
 relatedArticles:
   - "[[how-to-read]]"
 ---
@@ -20,4 +20,4 @@ Readers do not need to move through the APS Framework in a fixed order. The site
 
 The overall structure of this site reflects the structure of APS itself: concepts are interconnected, explanatory order matters, and clarity depends on the relation between parts rather than on isolated statements. The site is therefore designed not only to present the framework, but to embody its organisation.
 
-[[box:aps-knowledge-oeganisation]]
+[[box:aps-knowledge-organisation]]
