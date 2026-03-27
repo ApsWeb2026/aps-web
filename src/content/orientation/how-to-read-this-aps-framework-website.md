@@ -23,7 +23,7 @@ APS is not intended to be read strictly from beginning to end. Readers can move 
 
 The most effective way to read the APS Framework is to move between definitions and explanations. The glossary provides conceptual precision, while articles and boxes show how those concepts function within biological explanation. Together, they form a unified framework for understanding life as organised, viability-oriented activity.
 
-[[box:how-aps-organises-knowledge]]
+[[box:aps-knowledge-organisation]]
 
 ## Key Point
 
