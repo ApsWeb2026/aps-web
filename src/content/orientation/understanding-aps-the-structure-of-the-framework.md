@@ -6,7 +6,7 @@ canonical: true
 canonicalLockDate: 2026-03-20
 revised: 2026-03-27
 relatedArticles:
-  - "[[how-to-read]]"
+  - how-to-read
 ---
 The APS Framework Website is organised as a connected conceptual system rather than as a collection of isolated pages. Its structure is designed to help readers move between definitions, explanations, and thematic developments while remaining anchored in a consistent explanatory framework.
 
