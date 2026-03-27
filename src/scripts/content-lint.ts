@@ -67,6 +67,20 @@ function getArticleSlugs(): Set<string> {
   return getSlugsForSection('articles');
 }
 
+function getBoxSlugs(): Set<string> {
+  return getSlugsForSection('boxes');
+}
+
+function findBoxEmbeds(content: string): string[] {
+  const regex = /\[\[box:([\w-]+)\]\]/g;
+  const slugs: string[] = [];
+  let match: RegExpExecArray | null;
+  while ((match = regex.exec(content)) !== null) {
+    slugs.push(match[1]);
+  }
+  return slugs;
+}
+
 function parseYamlArray(content: string, fieldName: string): string[] {
   const regex = new RegExp(`^${fieldName}:\\s*$`, 'm');
   const match = content.match(regex);
@@ -97,6 +111,7 @@ function lintCollection(section: string): LintIssue[] {
   const slugsSeen = new Map<string, string>();
   const glossarySlugs = getGlossarySlugs();
   const articleSlugs = getArticleSlugs();
+  const boxSlugs = getBoxSlugs();
   const requiresRevised = ['articles', 'glossary', 'streams', 'orientation', 'diagrams'];
   const supportsCanonical = ['articles', 'glossary', 'orientation'];
 
@@ -136,7 +151,7 @@ function lintCollection(section: string): LintIssue[] {
     }
 
     // Check glossary term references
-    if (section === 'articles') {
+    if (section === 'articles' || section === 'orientation') {
       const terms = parseYamlArray(content, 'relatedGlossaryTerms');
       for (const term of terms) {
         if (!glossarySlugs.has(term)) {
@@ -149,7 +164,7 @@ function lintCollection(section: string): LintIssue[] {
     }
 
     // Check relatedArticles references
-    if (section === 'articles') {
+    if (section === 'articles' || section === 'orientation') {
       const related = parseYamlArray(content, 'relatedArticles');
       for (const ref of related) {
         if (!articleSlugs.has(ref)) {
@@ -170,6 +185,17 @@ function lintCollection(section: string): LintIssue[] {
             issue: `associatedGlossaryTerms: "${term}" not found in glossary`,
           });
         }
+      }
+    }
+
+    // Check [[box:slug]] embeds in body content
+    const boxEmbeds = findBoxEmbeds(content);
+    for (const boxSlug of boxEmbeds) {
+      if (!boxSlugs.has(boxSlug)) {
+        issues.push({
+          file: relPath,
+          issue: `Box embed: [[box:${boxSlug}]] not found in boxes`,
+        });
       }
     }
   }

@@ -1,8 +1,9 @@
 ---
-title: Normativity
+title: APS Box — Normativity
 slug: normativity-box
 status: canonical
-revised: 2026-03-23
+canonical: true
+revised: 2026-03-26
 associatedPages: []
 ---
 Normativity in biology concerns the distinction between what supports the continued persistence of a system and what undermines it. In APS, this distinction is not imposed externally but arises from the organisation of the system itself.

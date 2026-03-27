@@ -15,7 +15,15 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, status, canonical, canonicalLockDate, revised } = entry.data;
+const { title, status, canonical, canonicalLockDate, revised, relatedGlossaryTerms, relatedArticles } = entry.data;
+
+const allArticles = await getCollection('articles');
+const resolvedRelatedArticles = (relatedArticles ?? [])
+  .map((slug: string) => {
+    const found = allArticles.find((a) => a.data.slug === slug);
+    return found ? { slug: found.data.slug, title: found.data.title } : null;
+  })
+  .filter(Boolean) as { slug: string; title: string }[];
 ---
 
 <BaseLayout title={title} description={`${title} — APS Orientation`}>
@@ -40,5 +48,27 @@ const { title, status, canonical, canonicalLockDate, revised } = entry.data;
     <div class="article-body">
       <Content />
     </div>
+
+    {relatedGlossaryTerms && relatedGlossaryTerms.length > 0 && (
+      <div class="see-also">
+        <h3>See Also</h3>
+        <ul class="tag-list">
+          {relatedGlossaryTerms.map((term: string) => (
+            <li><a href={`/glossary/${term}/`}>{term.replace(/-/g, ' ')}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {resolvedRelatedArticles.length > 0 && (
+      <div class="see-also">
+        <h3>Related Articles</h3>
+        <ul class="tag-list">
+          {resolvedRelatedArticles.map((article) => (
+            <li><a href={`/articles/${article.slug}/`}>{article.title}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
   </div>
 </BaseLayout>

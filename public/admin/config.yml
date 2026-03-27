@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-publish_mode: editorial_workflow
+publish_mode: simple
 
 media_folder: "public/assets"
 public_folder: "/assets"
@@ -240,6 +240,20 @@ collections:
       - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
       - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
       - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
+      - label: "Related Glossary Terms"
+        name: "relatedGlossaryTerms"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Glossary Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related glossary entries (e.g. biological-agency, function)"
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        required: false
+        default: []
+        field: { label: "Article Slug", name: "slug", widget: "string" }
+        hint: "Slugs of related articles (e.g. agency-without-intentions, scale-time-persistence)"
       - { label: "Body", name: "body", widget: "markdown" }
 
   # ──────────────────────────────────────────────

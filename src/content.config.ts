@@ -99,6 +99,8 @@ const orientation = defineCollection({
     canonical: z.boolean().default(false),
     canonicalLockDate: optionalDateString,
     revised: dateString,
+    relatedGlossaryTerms: z.array(z.string()).default([]),
+    relatedArticles: z.array(z.string()).default([]),
   }),
 });
 
