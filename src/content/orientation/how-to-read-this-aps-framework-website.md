@@ -4,7 +4,10 @@ slug: how-to-read
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-25
+revised: 2026-03-27
+relatedArticles:
+  - understanding-aps-web-structure-framework
+  - aps-viability-oriented-framework-understanding-life
 ---
 ## How to Read APS
 
@@ -21,6 +24,8 @@ Articles develop the framework by explaining how these concepts apply across dif
 APS is not intended to be read strictly from beginning to end. Readers can move between pages by following conceptual links, using the glossary as a reference point and returning to orientation pages when needed.
 
 The most effective way to read the APS Framework is to move between definitions and explanations. The glossary provides conceptual precision, while articles and boxes show how those concepts function within biological explanation. Together, they form a unified framework for understanding life as organised, viability-oriented activity.
+
+[[box:how-aps-organises-knowledge]]
 
 ## Key Point
 
