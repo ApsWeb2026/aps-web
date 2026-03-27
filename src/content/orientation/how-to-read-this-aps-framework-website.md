@@ -4,8 +4,9 @@ slug: how-to-read
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-27
-relatedArticles: []
+revised: 2026-03-28
+relatedArticles:
+  - understanding-aps
 ---
 ## How to Read APS
 
