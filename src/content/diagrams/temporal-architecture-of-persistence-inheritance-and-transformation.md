@@ -33,13 +33,11 @@ This figure illustrates the temporal organisation of viability-oriented biologic
 
 This diagram unifies the five APS temporal concepts:
 
-| Concept       | Temporal scale                    |
-|---------------|----------------------------------|
-| Agency        | Present activity                 |
-| Persistence   | Continuity through time          |
-| Adaptation    | Reorganisation under change      |
-| Inheritance   | Generational continuity          |
-| Evolution     | Historical transformation        |
+- **Agency** — Present activity  
+- **Persistence** — Continuity through time  
+- **Adaptation** — Reorganisation under change  
+- **Inheritance** — Generational continuity  
+- **Evolution** — Historical transformation  
 
 ## Temporal architecture
 
