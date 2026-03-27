@@ -30,10 +30,29 @@ const {
   references,
 } = entry.data;
 
+// Normalize display names like "Biological Agency" to slugs like "biological-agency"
+function toSlug(term: string): string {
+  return term.toLowerCase().replace(/\s+/g, '-');
+}
+
 const allArticles = await getCollection('articles');
+const allGlossary = await getCollection('glossary');
+const allOrientation = await getCollection('orientation');
+
 const resolvedRelatedArticles = (relatedArticles ?? [])
   .map((slug: string) => {
-    const found = allArticles.find((a) => a.data.slug === slug);
+    const article = allArticles.find((a) => a.data.slug === slug);
+    if (article) return { slug: article.data.slug, title: article.data.title, href: `/articles/${article.data.slug}/` };
+    const orient = allOrientation.find((o) => o.data.slug === slug);
+    if (orient) return { slug: orient.data.slug, title: orient.data.title, href: `/orientation/${orient.data.slug}/` };
+    return null;
+  })
+  .filter(Boolean) as { slug: string; title: string; href: string }[];
+
+const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
+  .map((term: string) => {
+    const normalized = toSlug(term);
+    const found = allGlossary.find((g) => g.data.slug === normalized);
     return found ? { slug: found.data.slug, title: found.data.title } : null;
   })
   .filter(Boolean) as { slug: string; title: string }[];
@@ -78,12 +97,12 @@ const resolvedRelatedArticles = (relatedArticles ?? [])
       <Content />
     </div>
 
-    {relatedGlossaryTerms && relatedGlossaryTerms.length > 0 && (
+    {resolvedGlossaryTerms.length > 0 && (
       <div class="see-also">
         <h3>See Also</h3>
         <ul class="tag-list">
-          {relatedGlossaryTerms.map((term: string) => (
-            <li><a href={`/glossary/${term}/`}>{term.replace(/-/g, ' ')}</a></li>
+          {resolvedGlossaryTerms.map((term) => (
+            <li><a href={`/glossary/${term.slug}/`}>{term.title}</a></li>
           ))}
         </ul>
       </div>
@@ -93,8 +112,8 @@ const resolvedRelatedArticles = (relatedArticles ?? [])
       <div class="see-also">
         <h3>Related Articles</h3>
         <ul class="tag-list">
-          {resolvedRelatedArticles.map((article) => (
-            <li><a href={`/articles/${article.slug}/`}>{article.title}</a></li>
+          {resolvedRelatedArticles.map((item) => (
+            <li><a href={item.href}>{item.title}</a></li>
           ))}
         </ul>
       </div>

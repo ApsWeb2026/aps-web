@@ -19,6 +19,7 @@ const CONTENT_DIR = path.resolve('src/content');
 interface LintIssue {
   file: string;
   issue: string;
+  severity: 'error' | 'warning';
 }
 
 function parseFrontmatter(content: string): Record<string, unknown> {
@@ -90,11 +91,16 @@ function parseYamlArray(content: string, fieldName: string): string[] {
   const rest = content.slice(startIndex);
   const items: string[] = [];
 
+  let foundItem = false;
   for (const line of rest.split('\n')) {
     const itemMatch = line.match(/^\s+-\s*["']?([^"'\n]+)["']?/);
     if (itemMatch) {
+      foundItem = true;
       items.push(itemMatch[1].trim());
-    } else if (line.match(/^\S/) || line.trim() === '') {
+    } else if (line.trim() === '') {
+      // Skip empty lines before first item; stop after items have started
+      if (foundItem) break;
+    } else if (line.match(/^\S/)) {
       break;
     }
   }
@@ -111,6 +117,7 @@ function lintCollection(section: string): LintIssue[] {
   const slugsSeen = new Map<string, string>();
   const glossarySlugs = getGlossarySlugs();
   const articleSlugs = getArticleSlugs();
+  const orientationSlugs = getSlugsForSection('orientation');
   const boxSlugs = getBoxSlugs();
   const requiresRevised = ['articles', 'glossary', 'streams', 'orientation', 'diagrams'];
   const supportsCanonical = ['articles', 'glossary', 'orientation'];
@@ -121,56 +128,61 @@ function lintCollection(section: string): LintIssue[] {
     const content = fs.readFileSync(filePath, 'utf-8');
     const fm = parseFrontmatter(content);
 
-    // Check slug
+    // Check slug (error — structural)
     const slug = fm.slug as string;
     if (!slug) {
-      issues.push({ file: relPath, issue: 'Missing slug' });
+      issues.push({ file: relPath, issue: 'Missing slug', severity: 'error' });
     } else {
       if (slugsSeen.has(slug)) {
         issues.push({
           file: relPath,
           issue: `Duplicate slug "${slug}" (also in ${slugsSeen.get(slug)})`,
+          severity: 'error',
         });
       }
       slugsSeen.set(slug, relPath);
     }
 
-    // Check revised
+    // Check revised (error — structural)
     if (requiresRevised.includes(section) && !fm.revised) {
-      issues.push({ file: relPath, issue: 'Missing "revised" date' });
+      issues.push({ file: relPath, issue: 'Missing "revised" date', severity: 'error' });
     }
 
-    // Check canonical without lockDate
+    // Check canonical without lockDate (error — structural)
     if (supportsCanonical.includes(section)) {
       if (fm.canonical === true && !fm.canonicalLockDate) {
         issues.push({
           file: relPath,
           issue: 'Canonical page missing "canonicalLockDate"',
+          severity: 'error',
         });
       }
     }
 
-    // Check glossary term references
+    // Check glossary term references (warning — content may be added later)
     if (section === 'articles' || section === 'orientation') {
       const terms = parseYamlArray(content, 'relatedGlossaryTerms');
       for (const term of terms) {
-        if (!glossarySlugs.has(term)) {
+        const normalized = term.toLowerCase().replace(/\s+/g, '-');
+        if (!glossarySlugs.has(normalized)) {
           issues.push({
             file: relPath,
             issue: `relatedGlossaryTerms: "${term}" not found in glossary`,
+            severity: 'warning',
           });
         }
       }
     }
 
-    // Check relatedArticles references
+    // Check relatedArticles references (warning — content may be added later)
     if (section === 'articles' || section === 'orientation') {
       const related = parseYamlArray(content, 'relatedArticles');
       for (const ref of related) {
-        if (!articleSlugs.has(ref)) {
+        if (!articleSlugs.has(ref) && !orientationSlugs.has(ref)) {
           issues.push({
             file: relPath,
-            issue: `relatedArticles: "${ref}" not found in articles`,
+            issue: `relatedArticles: "${ref}" not found in articles or orientation`,
+            severity: 'warning',
           });
         }
       }
@@ -183,18 +195,20 @@ function lintCollection(section: string): LintIssue[] {
           issues.push({
             file: relPath,
             issue: `associatedGlossaryTerms: "${term}" not found in glossary`,
+            severity: 'warning',
           });
         }
       }
     }
 
-    // Check [[box:slug]] embeds in body content
+    // Check [[box:slug]] embeds in body content (error — build will fail)
     const boxEmbeds = findBoxEmbeds(content);
     for (const boxSlug of boxEmbeds) {
       if (!boxSlugs.has(boxSlug)) {
         issues.push({
           file: relPath,
           issue: `Box embed: [[box:${boxSlug}]] not found in boxes`,
+          severity: 'error',
         });
       }
     }
@@ -209,14 +223,30 @@ for (const section of ['articles', 'glossary', 'streams', 'orientation', 'boxes'
   allIssues.push(...lintCollection(section));
 }
 
-if (allIssues.length > 0) {
-  console.error('\n❌ Content lint issues:\n');
-  for (const issue of allIssues) {
+const errors = allIssues.filter((i) => i.severity === 'error');
+const warnings = allIssues.filter((i) => i.severity === 'warning');
+
+if (warnings.length > 0) {
+  console.warn('\n⚠ Content lint warnings:\n');
+  for (const issue of warnings) {
+    console.warn(`  ${issue.file}`);
+    console.warn(`    → ${issue.issue}`);
+  }
+  console.warn(`\n${warnings.length} warning(s).\n`);
+}
+
+if (errors.length > 0) {
+  console.error('\n❌ Content lint errors:\n');
+  for (const issue of errors) {
     console.error(`  ${issue.file}`);
     console.error(`    → ${issue.issue}`);
   }
-  console.error(`\n${allIssues.length} issue(s) found.\n`);
+  console.error(`\n${errors.length} error(s) found — build will fail.\n`);
   process.exit(1);
-} else {
+}
+
+if (allIssues.length === 0) {
   console.log('✓ Content lint passed — no issues found.');
+} else {
+  console.log(`✓ Content lint passed — ${warnings.length} warning(s), 0 errors.`);
 }
