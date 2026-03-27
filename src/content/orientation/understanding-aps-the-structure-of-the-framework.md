@@ -5,6 +5,8 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
 revised: 2026-03-23
+relatedArticles:
+  - "[[how-to-read]]"
 ---
 The APS Framework Website is organised as a connected conceptual system rather than as a collection of isolated pages. Its structure is designed to help readers move between definitions, explanations, and thematic developments while remaining anchored in a consistent explanatory framework.
 
@@ -17,3 +19,5 @@ Articles extend these core definitions into broader explanation. They show how A
 Readers do not need to move through the APS Framework in a fixed order. The site is intended to support multiple reading paths: introductory, definitional, thematic, and exploratory. A reader may begin with orientation pages, move to the glossary for conceptual clarity, and then follow articles and boxes into more detailed areas of the framework.
 
 The overall structure of this site reflects the structure of APS itself: concepts are interconnected, explanatory order matters, and clarity depends on the relation between parts rather than on isolated statements. The site is therefore designed not only to present the framework, but to embody its organisation.
+
+[[aps-knowledge-oeganisation]]
