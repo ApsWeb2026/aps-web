@@ -600,6 +600,77 @@ li {
   margin-bottom: var(--spacing-xs);
 }
 
+/* --- Diagram Page --- */
+.diagram-figure {
+  margin: var(--spacing-xl) 0;
+  text-align: center;
+}
+
+.diagram-svg {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--color-border-light);
+  border-radius: 6px;
+  padding: var(--spacing-md);
+  background: var(--color-surface);
+}
+
+.diagram-figure figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-sm);
+  font-style: italic;
+}
+
+.diagram-key-point {
+  background: #f5f0e8;
+  border: 1px solid #e0d5c0;
+  border-left: 4px solid var(--status-canonical);
+  border-radius: 0 6px 6px 0;
+  padding: var(--spacing-md) var(--spacing-lg);
+  margin: var(--spacing-lg) 0;
+}
+
+.diagram-key-point-label {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--status-canonical);
+  margin-bottom: var(--spacing-xs);
+}
+
+.diagram-key-point p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.diagram-cross-references {
+  margin: var(--spacing-xl) 0 var(--spacing-lg);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border-light);
+}
+
+.diagram-cross-references h3 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-sm);
+}
+
+.diagram-cross-references ul {
+  list-style: none;
+  padding: 0;
+}
+
+.diagram-cross-references li {
+  margin-bottom: var(--spacing-xs);
+}
+
 /* --- See Also / Related --- */
 .see-also,
 .related-terms {
@@ -1026,10 +1097,19 @@ li {
   line-height: 1.6;
 }
 
-.hero-cta {
-  display: inline-flex;
-  gap: var(--spacing-md);
+.hero-links {
   margin-top: var(--spacing-md);
+}
+
+.hero-explore {
+  font-size: 1rem;
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-md);
+  line-height: 1.6;
+}
+
+.hero-explore a {
+  font-weight: 600;
 }
 
 .btn {

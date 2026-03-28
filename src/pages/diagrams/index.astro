@@ -6,7 +6,12 @@ import StatusBadge from '@/components/StatusBadge.astro';
 import TypeBadge from '@/components/TypeBadge.astro';
 
 const diagrams = await getCollection('diagrams');
-diagrams.sort((a, b) => a.data.title.localeCompare(b.data.title));
+diagrams.sort((a, b) => {
+  const seqA = a.data.sequence ?? 999;
+  const seqB = b.data.sequence ?? 999;
+  if (seqA !== seqB) return seqA - seqB;
+  return a.data.title.localeCompare(b.data.title);
+});
 ---
 
 <BaseLayout title="Diagrams" description="Visual diagrams illustrating APS framework concepts.">
@@ -16,8 +21,8 @@ diagrams.sort((a, b) => a.data.title.localeCompare(b.data.title));
     <header class="page-header">
       <h1>Diagrams</h1>
       <p>
-        Visual representations of APS framework concepts. All diagrams use SVG format for maximum
-        clarity and accessibility.
+        Visual representations of APS framework concepts. Diagrams are standalone, cross-linkable
+        conceptual components. Each diagram presents an SVG visualisation followed by interpretation.
       </p>
     </header>
 
@@ -27,12 +32,21 @@ diagrams.sort((a, b) => a.data.title.localeCompare(b.data.title));
           <li class="card">
             <div class="card-header">
               <h3 class="card-title">
-                <a href={`/diagrams/${entry.data.slug}/`}>{entry.data.title}</a>
+                <a href={`/diagrams/${entry.data.slug}/`}>
+                  {entry.data.code ? `${entry.data.code}: ` : ''}
+                  {entry.data.title}
+                </a>
               </h3>
               <StatusBadge status={entry.data.status} />
               <TypeBadge type="diagram" />
             </div>
             <p class="card-excerpt">{entry.data.caption}</p>
+            <div class="card-meta">
+              {entry.data.orientation && <span>Orientation: {entry.data.orientation}</span>}
+              {entry.data.orientation && ' · '}
+              Status: {entry.data.status.charAt(0).toUpperCase() + entry.data.status.slice(1)}
+              {entry.data.revised && ` · Revised: ${entry.data.revised}`}
+            </div>
           </li>
         ))
       }

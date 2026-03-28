@@ -240,6 +240,18 @@ collections:
       - { label: "Canonical", name: "canonical", widget: "boolean", default: false, hint: "WARNING: Canonical pages are locked. Changes to a locked page will fail at build time unless the page is formally unlocked first." }
       - { label: "Canonical Lock Date", name: "canonicalLockDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: false }
       - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
+      - label: "Cluster"
+        name: "cluster"
+        widget: "select"
+        required: false
+        options:
+          - { label: "Foundations of Life", value: "foundations" }
+          - { label: "Definition & Borderlines", value: "definition-borderlines" }
+          - { label: "Scale, Time, and Organisation", value: "scaling-complexity" }
+          - { label: "Cognition & Mind", value: "cognition-mind" }
+          - { label: "Empirical Interface", value: "empirical-interface" }
+          - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
+          - { label: "Historical & Philosophical Context", value: "historical-context" }
       - label: "Related Glossary Terms"
         name: "relatedGlossaryTerms"
         widget: "list"
@@ -312,11 +324,12 @@ collections:
     extension: "md"
     editor:
       preview: false
-    sortable_fields: ["title", "status", "revised"]
-    summary: "{{title}} — {{status}}"
+    sortable_fields: ["title", "status", "revised", "sequence"]
+    summary: "{{code}} — {{title}} — {{status}}"
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
       - { label: "Slug", name: "slug", widget: "string", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Lowercase letters, numbers, and hyphens only"] }
+      - { label: "Code", name: "code", widget: "string", required: false, hint: "Diagram code, e.g. APS-F1" }
       - { label: "SVG File", name: "svgFile", widget: "file", required: true, hint: "Path to the SVG diagram file" }
       - { label: "Caption", name: "caption", widget: "string", required: true }
       - { label: "Description", name: "description", widget: "text", required: true, hint: "Accessible description of the diagram" }
@@ -330,6 +343,21 @@ collections:
           - { label: "Canonical", value: "canonical" }
       - { label: "Revised", name: "revised", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", required: true, hint: "Update this date whenever you edit this entry. Canonical entries will fail to build if content changes without a revised date update." }
       - { label: "Figure Number", name: "figureNumber", widget: "string", required: false }
+      - { label: "Sequence", name: "sequence", widget: "number", value_type: "int", required: false, hint: "Display order on the diagrams index (lower = first)" }
+      - { label: "Orientation", name: "orientation", widget: "string", required: false, hint: "Orientation context, e.g. Foundations of Life" }
+      - label: "Cluster"
+        name: "cluster"
+        widget: "select"
+        required: false
+        options:
+          - { label: "Foundations of Life", value: "foundations" }
+          - { label: "Definition & Borderlines", value: "definition-borderlines" }
+          - { label: "Scale, Time, and Organisation", value: "scaling-complexity" }
+          - { label: "Cognition & Mind", value: "cognition-mind" }
+          - { label: "Empirical Interface", value: "empirical-interface" }
+          - { label: "Conceptual Foundations & Explanatory Grammar", value: "conceptual-foundations" }
+          - { label: "Historical & Philosophical Context", value: "historical-context" }
+      - { label: "Key Point", name: "keyPoint", widget: "text", required: false, hint: "A visually distinct key point summarising the diagram's significance" }
       - label: "Cross References"
         name: "crossReferences"
         widget: "list"

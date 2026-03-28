@@ -10,7 +10,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const CONTENT_DIR = path.resolve('src/content');
-const VALID_SECTIONS = ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'clusters', 'boxes'];
+const VALID_SECTIONS = ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'clusters', 'boxes', 'policies'];
 
 interface BrokenLink {
   file: string;
@@ -50,6 +50,11 @@ function getContentSlugs(): Map<string, Set<string>> {
       'historical-context',
       'conceptual-foundations',
     ]),
+  );
+
+  slugsBySection.set(
+    'policies',
+    new Set(['about', 'purpose', 'contact', 'citation-policy', 'versioning']),
   );
 
   return slugsBySection;

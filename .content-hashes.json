@@ -61,7 +61,7 @@
   },
   "orientation/how-to-read": {
     "hash": "db7d1a543b865cc3",
-    "revised": "2026-03-27",
+    "revised": "2026-03-28",
     "lockedSince": "2026-03-20"
   },
   "orientation/aps-glossary": {
@@ -71,7 +71,7 @@
   },
   "orientation/understanding-aps": {
     "hash": "88541bed74376af2",
-    "revised": "2026-03-27",
+    "revised": "2026-03-28",
     "lockedSince": "2026-03-20"
   },
   "articles/adaptation": {
@@ -183,5 +183,10 @@
     "hash": "8f20d472d6db81f2",
     "revised": "2026-03-27",
     "lockedSince": "2026-03-27"
+  },
+  "articles/biological-goals-without-mentalism": {
+    "hash": "23b5ed5096660fbc",
+    "revised": "2026-03-28",
+    "lockedSince": "2026-03-28"
   }
 }

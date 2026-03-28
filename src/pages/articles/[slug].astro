@@ -56,6 +56,19 @@ const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
     return found ? { slug: found.data.slug, title: found.data.title } : null;
   })
   .filter(Boolean) as { slug: string; title: string }[];
+
+// Fetch APS Boxes associated with this article
+const allBoxes = await getCollection('boxes');
+const articlePath = `/articles/${entry.data.slug}/`;
+const associatedBoxes = allBoxes.filter((box) =>
+  box.data.associatedPages.includes(articlePath),
+);
+const renderedBoxes = await Promise.all(
+  associatedBoxes.map(async (box) => {
+    const { Content: BoxContent } = await render(box);
+    return { data: box.data, Content: BoxContent };
+  }),
+);
 ---
 
 <BaseLayout title={title} description={abstract}>
@@ -96,6 +109,21 @@ const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
     <div class="article-body">
       <Content />
     </div>
+
+    {
+      renderedBoxes.length > 0 && (
+        <section class="aps-boxes-section">
+          {renderedBoxes.map(({ data, Content: BoxContent }) => (
+            <aside class="aps-box">
+              <div class="aps-box-header">{data.title}</div>
+              <div class="aps-box-body">
+                <BoxContent />
+              </div>
+            </aside>
+          ))}
+        </section>
+      )
+    }
 
     {resolvedGlossaryTerms.length > 0 && (
       <div class="see-also">
