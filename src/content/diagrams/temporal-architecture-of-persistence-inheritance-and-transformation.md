@@ -1,8 +1,9 @@
 ---
 title: Temporal Architecture of Persistence, Inheritance, and Transformation
 slug: aps-f1-temporal-architecture
+code: "APS-F1"
 svgFile: /assets/aps-f1-temporal-architecture.svg
-caption: /assets/diagrams/aps-f1-temporal-architecture.svg
+caption: "A schematic summary of the temporal architecture linking persistence, inheritance, and transformation within the APS framework."
 description: >-
   This diagram represents the temporal organisation of living systems in APS.
   Persistence, inheritance, and transformation are not sequential stages but
@@ -21,9 +22,17 @@ description: >-
 
   These dimensions are mutually constraining and jointly constitute evolutionary process.
 status: canonical
-revised: 2026-03-27
-figureNumber: APS-F1
-crossReferences: []
+revised: 2026-03-28
+figureNumber: "2"
+sequence: 1
+orientation: "Foundations of Life"
+cluster: "foundations"
+keyPoint: "Persistence, inheritance, and transformation are not sequential stages but co-constitutive temporal dimensions of living organisation. Each presupposes the others."
+crossReferences:
+  - "/glossary/biological-agency/"
+  - "/glossary/process/"
+  - "/articles/scale-time-persistence/"
+  - "/diagrams/aps-triad/"
 ---
 ## What this figure shows
 

@@ -1,6 +1,6 @@
 ---
 title: APS Box — From Viability to Meaning
-slug: viability-to-meaning
+slug: from-viability-to-meaning
 status: canonical
 canonical: true
 revised: 2026-03-26

@@ -1,0 +1,56 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+
+const revised = '2026-03-28';
+---
+
+<BaseLayout title="Versioning & Canonical Status" description="How the APS Publishing Platform tracks content versions and canonical status.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Platform and Policies' }, { label: 'Versioning & Canonical Status' }]} />
+
+    <header class="page-header">
+      <h1>Versioning &amp; Canonical Status</h1>
+      <div class="page-revised">Revised: {revised}</div>
+    </header>
+
+    <div class="article-body">
+      <p>
+        The APS Publishing Platform distinguishes between different stages of content development.
+      </p>
+
+      <h2>Canonical</h2>
+      <p>
+        Canonical pages represent the stable, authoritative core of the APS framework. These pages
+        have been reviewed and are considered conceptually settled. Changes to canonical content are
+        controlled and tracked through revision dates.
+      </p>
+
+      <h2>Evolving</h2>
+      <p>
+        Evolving pages are under active development. They may be refined, expanded, or reorganised
+        as the framework progresses.
+      </p>
+
+      <h2>Draft</h2>
+      <p>Draft pages are provisional and may undergo substantial revision.</p>
+
+      <h2>Revision Tracking</h2>
+      <p>
+        All pages include a "Revised" date indicating the most recent update. This ensures that
+        citations and references can be tied to a specific version of the content.
+      </p>
+
+      <h2>Purpose</h2>
+      <p>Versioning supports:</p>
+      <ul>
+        <li>transparency in development</li>
+        <li>stability of core concepts</li>
+        <li>ongoing refinement without loss of continuity</li>
+      </ul>
+      <p>
+        This system allows APS to function as a living but disciplined body of work.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

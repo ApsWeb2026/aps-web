@@ -1,0 +1,31 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+
+const revised = '2026-03-28';
+---
+
+<BaseLayout title="Contact" description="Contact details for the APS framework and publishing platform.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Platform and Policies' }, { label: 'Contact' }]} />
+
+    <header class="page-header">
+      <h1>Contact</h1>
+      <div class="page-revised">Revised: {revised}</div>
+    </header>
+
+    <div class="article-body">
+      <p>
+        For enquiries, feedback, or academic correspondence related to the APS framework and this
+        platform, please use the contact details below.
+      </p>
+      <p>
+        Email: <a href="mailto:rogerspencer6@bigpond.com">rogerspencer6@bigpond.com</a>
+      </p>
+      <p>
+        This platform is under active development. Constructive feedback and scholarly engagement are
+        welcome.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

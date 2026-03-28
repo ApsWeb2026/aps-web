@@ -1,0 +1,43 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+
+const revised = '2026-03-28';
+---
+
+<BaseLayout title="Citation Policy" description="How to cite APS Publishing Platform content in academic work.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Platform and Policies' }, { label: 'Citation Policy' }]} />
+
+    <header class="page-header">
+      <h1>Citation Policy</h1>
+      <div class="page-revised">Revised: {revised}</div>
+    </header>
+
+    <div class="article-body">
+      <p>Content on the APS Publishing Platform is intended for academic use and citation.</p>
+
+      <p>When citing APS materials:</p>
+      <ul>
+        <li>cite individual articles where appropriate</li>
+        <li>include author, title, and year of revision</li>
+        <li>indicate the canonical status if relevant</li>
+      </ul>
+
+      <p>Where possible, reference the most recent revised version of a page.</p>
+
+      <p>
+        Canonical pages represent the stable core of the framework and are preferred for citation.
+        Evolving pages may change and should be cited with their revision date.
+      </p>
+
+      <h2>Example</h2>
+      <blockquote>
+        <p>
+          Spencer, R. (2026). <em>What Is APS? — A One-Page Framework Overview.</em> APS Publishing
+          Platform. Revised: 2026-03-21.
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</BaseLayout>

@@ -14,30 +14,99 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, svgFile, caption, description, status, revised, figureNumber } = entry.data;
+const {
+  title,
+  code,
+  svgFile,
+  caption,
+  description,
+  status,
+  revised,
+  figureNumber,
+  keyPoint,
+  crossReferences,
+} = entry.data;
+
+const displayTitle = code ? `${code}: ${title}` : title;
+
+// Resolve cross-reference titles
+const allArticles = await getCollection('articles');
+const allGlossary = await getCollection('glossary');
+const allDiagrams = await getCollection('diagrams');
+const allOrientation = await getCollection('orientation');
+const allStreams = await getCollection('streams');
+
+function resolveTitle(path: string): string {
+  const parts = path.replace(/^\//, '').replace(/\/$/, '').split('/');
+  const section = parts[0];
+  const slug = parts[1];
+  if (!slug) return path;
+
+  if (section === 'articles') {
+    const found = allArticles.find((a) => a.data.slug === slug);
+    if (found) return found.data.title;
+  } else if (section === 'glossary') {
+    const found = allGlossary.find((g) => g.data.slug === slug);
+    if (found) return found.data.title;
+  } else if (section === 'diagrams') {
+    const found = allDiagrams.find((d) => d.data.slug === slug);
+    if (found) return found.data.code ? `${found.data.code}: ${found.data.title}` : found.data.title;
+  } else if (section === 'orientation') {
+    const found = allOrientation.find((o) => o.data.slug === slug);
+    if (found) return found.data.title;
+  } else if (section === 'streams') {
+    const found = allStreams.find((s) => s.data.slug === slug);
+    if (found) return found.data.title;
+  }
+  return path;
+}
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={displayTitle} description={description}>
   <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Diagram, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}>
     <span data-pagefind-filter="type:Diagram" data-pagefind-ignore></span>
     <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
-    <Breadcrumb items={[{ label: 'Diagrams', href: '/diagrams/' }, { label: title }]} />
+    <Breadcrumb items={[{ label: 'Diagrams', href: '/diagrams/' }, { label: displayTitle }]} />
 
     <header class="page-header">
-      <h1 data-pagefind-weight="20">{title}</h1>
+      <h1 data-pagefind-weight="20">{displayTitle}</h1>
       <PageMeta status={status} type="diagram" revised={revised} />
     </header>
 
-    <figure class="figure">
-      <img src={svgFile} alt={description} />
+    <figure class="diagram-figure">
+      <img src={svgFile} alt={description} class="diagram-svg" />
       <figcaption>
         {figureNumber && <strong>Figure {figureNumber}.</strong>}
         {caption}
       </figcaption>
     </figure>
 
+    {
+      keyPoint && (
+        <aside class="diagram-key-point">
+          <div class="diagram-key-point-label">Key Point</div>
+          <p>{keyPoint}</p>
+        </aside>
+      )
+    }
+
     <div class="article-body">
       <Content />
     </div>
+
+    {
+      crossReferences.length > 0 && (
+        <section class="diagram-cross-references">
+          <h3>Cross-References</h3>
+          <ul>
+            {crossReferences.map((ref: string) => (
+              <li>
+                <a href={ref}>{resolveTitle(ref)}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
   </div>
 </BaseLayout>

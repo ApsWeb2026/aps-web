@@ -1,0 +1,30 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+
+const revised = '2026-03-28';
+---
+
+<BaseLayout title="Purpose of This Platform" description="The purpose and design goals of the APS Publishing Platform.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Platform and Policies' }, { label: 'Purpose of This Platform' }]} />
+
+    <header class="page-header">
+      <h1>Purpose of This Platform</h1>
+      <div class="page-revised">Revised: {revised}</div>
+    </header>
+
+    <div class="article-body">
+      <p>This platform is designed to:</p>
+      <ul>
+        <li>provide stable, canonical definitions of core concepts</li>
+        <li>develop and organise theoretical work within a coherent framework</li>
+        <li>support ongoing research through structured publication and revision</li>
+      </ul>
+      <p>
+        APS is intended as a durable, cumulative system of biological theory rather than a
+        collection of independent articles.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

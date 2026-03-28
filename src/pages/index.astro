@@ -1,5 +1,14 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
+
+// Fetch canonical publications for optional section
+const allArticles = await getCollection('articles');
+const allGlossary = await getCollection('glossary');
+const canonicalItems = [
+  ...allArticles.filter((a) => a.data.status === 'canonical'),
+  ...allGlossary.filter((g) => g.data.status === 'canonical'),
+].sort((a, b) => b.data.revised.localeCompare(a.data.revised)).slice(0, 3);
 ---
 
 <BaseLayout
@@ -15,179 +24,129 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
         conceptual articles, and research streams into a unified account of life as
         viability-oriented, constraint-closed organisation.
       </p>
-      <div class="hero-cta">
-        <a href="/orientation/what-is-aps/" class="btn btn-primary">Read: What Is APS?</a>
-        <a href="/glossary/" class="btn btn-secondary">Explore the Glossary</a>
+      <div class="hero-links">
+        <a href="/orientation/what-is-aps/" class="btn btn-primary"
+          >What Is APS? &mdash; A One-Page Overview</a
+        >
       </div>
+      <p class="hero-explore">
+        Explore the framework through:
+        <a href="/glossary/">Glossary</a> (core definitions),
+        <a href="/articles/">Articles</a> (organised by conceptual clusters)
+      </p>
     </section>
 
     <!-- Start Here -->
-    <section class="home-section where-to-begin">
+    <section class="home-section">
       <h2>Start Here</h2>
-      <p>
-        The APS Framework is a connected conceptual system. These entry points provide
-        different ways to engage with it.
-      </p>
-      <div class="begin-grid">
-        <div class="begin-group">
-          <h3>New to APS</h3>
-          <ul>
-            <li><a href="/orientation/what-is-aps/">What Is APS? &mdash; A One-Page Framework Overview</a></li>
-            <li><a href="/articles/what-is-life/">What Is Life? &mdash; A Biological Question Revisited</a></li>
-          </ul>
-        </div>
-        <div class="begin-group">
-          <h3>Understand the Concepts</h3>
-          <ul>
-            <li><a href="/orientation/aps-glossary/">The APS Glossary &mdash; Why Definitions Matter</a></li>
-          </ul>
-        </div>
-        <div class="begin-group">
-          <h3>Explore the Framework</h3>
-          <ul>
-            <li><a href="/articles/biology/">Biology &mdash; What the Science of Life Explains</a></li>
-            <li><a href="/orientation/understanding-aps/">Understanding APS &mdash; The Structure of the Framework</a></li>
-          </ul>
-        </div>
-        <div class="begin-group">
-          <h3>How to Navigate</h3>
-          <ul>
-            <li><a href="/orientation/how-to-read/">How to Read APS</a></li>
-          </ul>
-        </div>
-      </div>
-      <p class="begin-note">
-        APS concepts are interdependent and should be read as part of a constraint-closed conceptual system.
-      </p>
-    </section>
-
-    <!-- Clusters -->
-    <section class="home-section">
-      <h2>Knowledge Clusters</h2>
-      <p>
-        The APS framework is organised into conceptual domains (&ldquo;clusters&rdquo;) that group
-        related ideas and lines of explanation. These are connected through cross-links and research
-        streams, allowing multiple pathways through the framework without imposing a rigid hierarchy.
-      </p>
-      <div class="cluster-grid">
-        <a href="/clusters/foundations/" class="cluster-card">
-          <h3>Foundations of Life</h3>
-          <p>Core definitions, principles, and the formal structure of Agency, Process, and Scale.</p>
-        </a>
-        <a href="/clusters/definition-borderlines/" class="cluster-card">
-          <h3>Definition &amp; Borderlines</h3>
-          <p>
-            Conceptual boundaries, distinctions, and relations to adjacent frameworks.
-          </p>
-        </a>
-        <a href="/clusters/cognition-mind/" class="cluster-card">
-          <h3>Cognition &amp; Mind</h3>
-          <p>
-            APS accounts of cognition, including 4E approaches, enactivism, and non-neural systems.
-          </p>
-        </a>
-        <a href="/clusters/empirical-interface/" class="cluster-card">
-          <h3>Empirical Interface</h3>
-          <p>
-            Operationalisation, measurement strategies, and empirical test cases.
-          </p>
-        </a>
-        <a href="/clusters/scaling-complexity/" class="cluster-card">
-          <h3>Scale, Time, and Organisation</h3>
-          <p>
-            Multi-scale organisation, emergence, and cross-scale integration.
-          </p>
-        </a>
-        <a href="/clusters/historical-context/" class="cluster-card">
-          <h3>Historical &amp; Philosophical Context</h3>
-          <p>
-            Intellectual foundations, including Aristotle, process philosophy, and systems theory.
-          </p>
-        </a>
-        <a href="/clusters/conceptual-foundations/" class="cluster-card">
-          <h3>Conceptual Foundations &amp; Explanatory Grammar</h3>
-          <p>
-            The structure of explanation in APS&mdash;what counts as a valid concept and a well-formed claim.
-          </p>
-        </a>
-      </div>
-    </section>
-
-    <!-- Entry Points -->
-    <section class="home-section">
-      <h2>Explore</h2>
-      <div class="cluster-grid" style="grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));">
-        <a href="/glossary/" class="cluster-card">
-          <h3>Glossary</h3>
-          <p>Canonical definitions for all APS terms.</p>
-        </a>
-        <a href="/articles/" class="cluster-card">
-          <h3>Articles</h3>
-          <p>Research essays developing the framework.</p>
-        </a>
-        <a href="/streams/" class="cluster-card">
-          <h3>Research Streams</h3>
-          <p>Domain-specific research indices.</p>
-        </a>
-        <a href="/boxes/" class="cluster-card">
-          <h3>APS Boxes</h3>
-          <p>Reusable conceptual highlights and distinctions.</p>
-        </a>
-        <a href="/search/" class="cluster-card">
-          <h3>Search</h3>
-          <p>Full-text search across all content.</p>
-        </a>
-      </div>
-    </section>
-
-    <!-- Recent Publications -->
-    <section class="home-section">
-      <h2>Recent Canonical Publications</h2>
       <ul class="card-list">
         <li class="card">
           <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/scale-time-persistence/">Scale, Time, and Persistence</a>
-            </h3>
-            <span class="badge badge-canonical">Canonical</span>
-            <span class="badge badge-type badge-article">Article</span>
+            <h3 class="card-title"
+              ><a href="/orientation/what-is-aps/">What Is APS?</a></h3
+            >
+            <span class="badge badge-type badge-orientation">Orientation</span>
           </div>
           <p class="card-excerpt">
-            An analysis of how scale operates as a structural condition for processual persistence,
-            distinguishing APS from flat-ontology approaches.
+            A one-page overview of the Agency&ndash;Process&ndash;Scale framework: what it is, what
+            it does, and how to use this platform.
           </p>
-          <div class="card-meta">Cluster: Foundations &middot; Revised: 2026-02-01</div>
         </li>
         <li class="card">
           <div class="card-header">
-            <h3 class="card-title"><a href="/glossary/function/">Function (Glossary)</a></h3>
-            <span class="badge badge-canonical">Canonical</span>
-            <span class="badge badge-type badge-glossary">Glossary</span>
-          </div>
-          <p class="card-excerpt">
-            A canonical definition of "function" within the APS framework, clarifying its relation
-            to biological and philosophical usage.
-          </p>
-          <div class="card-meta">
-            Cluster: Definition &amp; Borderlines &middot; Revised: 2026-02-01
-          </div>
-        </li>
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/agency-without-intentions/">Agency Without Intentions</a>
-            </h3>
-            <span class="badge badge-evolving">Evolving</span>
+            <h3 class="card-title"
+              ><a href="/articles/what-is-life/">What Is Life?</a></h3
+            >
             <span class="badge badge-type badge-article">Article</span>
           </div>
           <p class="card-excerpt">
-            Exploring how APS conceptualises agency in systems that lack intentional states &mdash;
-            from bacterial chemotaxis to institutional behaviour.
+            The foundational question that drives the APS framework: what distinguishes living
+            systems from non-living matter?
           </p>
-          <div class="card-meta">Cluster: Cognition &amp; Mind &middot; Revised: 2026-02-15</div>
         </li>
       </ul>
     </section>
 
+    <!-- Understand the Framework -->
+    <section class="home-section">
+      <h2>Understand the Framework</h2>
+      <ul class="card-list">
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title"
+              ><a href="/orientation/understanding-aps/"
+                >Understanding APS &mdash; The Structure of the Framework</a
+              ></h3
+            >
+            <span class="badge badge-type badge-orientation">Orientation</span>
+          </div>
+          <p class="card-excerpt">
+            How the APS framework is organised, how its components relate, and how to navigate the
+            conceptual structure.
+          </p>
+        </li>
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title"
+              ><a href="/articles/biology/"
+                >Biology &mdash; What the Science of Life Explains</a
+              ></h3
+            >
+            <span class="badge badge-type badge-article">Article</span>
+          </div>
+          <p class="card-excerpt">
+            How APS engages with biological science, from molecular processes to ecological
+            organisation.
+          </p>
+        </li>
+      </ul>
+    </section>
+
+    <!-- Glossary -->
+    <section class="home-section">
+      <h2>APS Glossary &mdash; Why Definitions Matter</h2>
+      <p>
+        The glossary is the conceptual spine of the APS framework. Each entry provides a precise,
+        governed definition grounded in the framework&rsquo;s commitments to agency, process, and
+        scale.
+      </p>
+      <a href="/glossary/" class="btn btn-secondary">Browse the Glossary</a>
+    </section>
+
+    <!-- Recent Canonical Publications (optional) -->
+    {
+      canonicalItems.length > 0 && (
+        <section class="home-section">
+          <h2>Recent Canonical Publications</h2>
+          <ul class="card-list">
+            {canonicalItems.map((item) => {
+              const isArticle = 'abstract' in item.data;
+              const type = isArticle ? 'article' : 'glossary';
+              const href = isArticle
+                ? `/articles/${item.data.slug}/`
+                : `/glossary/${item.data.slug}/`;
+              const excerpt = isArticle
+                ? (item.data as any).abstract
+                : (item.data as any).inBrief;
+              return (
+                <li class="card">
+                  <div class="card-header">
+                    <h3 class="card-title">
+                      <a href={href}>{item.data.title}</a>
+                    </h3>
+                    <span class="badge badge-canonical">Canonical</span>
+                    <span class={`badge badge-type badge-${type}`}>
+                      {type.charAt(0).toUpperCase() + type.slice(1)}
+                    </span>
+                  </div>
+                  <p class="card-excerpt">{excerpt}</p>
+                  <div class="card-meta">Revised: {item.data.revised}</div>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )
+    }
   </div>
 </BaseLayout>

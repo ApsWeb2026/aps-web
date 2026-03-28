@@ -1,0 +1,31 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+
+const revised = '2026-03-28';
+---
+
+<BaseLayout title="About" description="About the Agency–Process–Scale (APS) framework and publishing platform.">
+  <div class="content-wrapper">
+    <Breadcrumb items={[{ label: 'Platform and Policies' }, { label: 'About' }]} />
+
+    <header class="page-header">
+      <h1>About</h1>
+      <div class="page-revised">Revised: {revised}</div>
+    </header>
+
+    <div class="article-body">
+      <p>
+        The Agency–Process–Scale (APS) framework is a structured approach to understanding life,
+        cognition, and biological organisation. It defines living systems as viability-oriented,
+        constraint-closed organisation and develops a unified explanatory grammar based on agency,
+        process, and scale.
+      </p>
+      <p>
+        APS integrates conceptual analysis, empirical relevance, and theoretical development into a
+        single framework. The APS Publishing Platform presents this work through canonical
+        definitions, peer-reviewed articles, and ongoing research streams.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
