@@ -20,15 +20,14 @@ canonicalLockDate: 2026-03-28
 revised: 2026-03-28
 cluster: cognition-mind
 keyPoints:
-  - "•\tGoal-directedness in biology does not require representation, intention,
-    or cognition. "
-  - "•\tIn APS, “goals” correspond to viability conditions, not internal
-    targets. "
-  - "•\tBiological purpose is the system-level orientation toward viability;
+  - "Goal-directedness in biology does not require representation, intention, or
+    cognition. "
+  - "In APS, “goals” correspond to viability conditions, not internal targets. "
+  - "Biological purpose is the system-level orientation toward viability;
     function is its mechanistic realisation. "
-  - "•\tBiological systems regulate activity through constraint-closed
+  - "Biological systems regulate activity through constraint-closed
     organisation, not goal pursuit. "
-  - •	APS provides a diagnostic framework for identifying genuine goal-directed
+  - APS provides a diagnostic framework for identifying genuine goal-directed
     organisation
 relatedGlossaryTerms:
   - Constraint Closure
