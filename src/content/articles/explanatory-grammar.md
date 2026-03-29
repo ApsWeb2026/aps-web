@@ -25,233 +25,94 @@ keyPoints:
 relatedGlossaryTerms: []
 references: []
 ---
-## Introduction
+## Introduction  
 
-Scientific theories do more than accumulate observations. They organise those observations through conceptual frameworks that determine what counts as an entity, what counts as a cause, and what counts as an explanation.
+Scientific theories do not simply accumulate observations; they organise them through conceptual frameworks that determine what counts as an entity, what counts as a cause, and what counts as an explanation. These frameworks function as explanatory grammars: structured sets of commitments that define what is taken to be real and how phenomena become intelligible within a domain.
 
-These frameworks can be understood as explanatory grammars. An explanatory grammar specifies the conceptual categories through which a theory identifies what is real and what is causally significant in explaining a domain of phenomena.
+Just as linguistic grammar structures meaningful sentences, explanatory grammar structures meaningful scientific explanations. It determines which entities appear in explanation, which relations count as causal, and what constitutes an adequate account of a phenomenon. Explanatory grammars do not invent reality, but they determine which aspects of reality are available to explanation.
 
-Just as linguistic grammar structures meaningful sentences, explanatory grammar structures meaningful scientific explanations. It determines which entities appear in explanations, which relationships count as causal, and what constitutes an adequate account of a phenomenon.
+Scientific progress therefore often involves changes in explanatory grammar: new ways of organising phenomena that render previously obscured patterns intelligible. Biology provides a particularly demanding case, because living systems are historically evolving, dynamically organised, and coordinated across interacting spatial and temporal domains.
 
-Explanatory grammars do not invent reality. Rather, they determine which aspects of reality become visible to explanation.
+## Explanatory Grammars in Science  
 
-Different grammars highlight different aspects of the same world. Scientific progress often involves changes in explanatory grammar: new ways of organising phenomena that reveal patterns previously obscured by earlier conceptual frameworks.
+Across the sciences, explanatory frameworks organise phenomena through characteristic sets of categories. These categories are not arbitrary descriptors but structure what counts as causally relevant within a domain.
 
-Biology provides a particularly rich example of this process. :contentReference[oaicite:0]{index=0}
+Newtonian physics: mass – force – motion → mechanical causation  
+Thermodynamics: energy – entropy – state → transformations of energy  
+Electromagnetism: field – charge – interaction → distributed physical influence  
+Darwinian evolution: variation – inheritance – selection → adaptive change  
+Information theory: signal – code – transmission → informational organisation  
 
----
+Such grammars shape what is measured, what is treated as causal, and what counts as explanation. When explanatory grammars change, scientific understanding changes with them.
 
-## Explanatory Grammars in Science
+## Why Biology Is Especially Sensitive to Grammar  
 
-Across the sciences, explanatory frameworks organise phenomena through characteristic sets of categories.
+Living systems are organisationally complex, dynamically self-maintaining, historically evolving, and coordinated across multiple interacting scales. Because of this, biological explanation has developed through multiple partially overlapping grammars, each emphasising different aspects of life.
 
-**Newtonian physics**  
-*mass – force – motion*  
-→ mechanical causation  
+These grammars capture genuine features of living systems. However, they also tend to privilege particular components or processes as foundational, generating recurring debates about the “fundamental unit” of biology.
 
-**Thermodynamics**  
-*energy – entropy – state*  
-→ transformations of energy  
+## Major Explanatory Grammars in Biology  
 
-**Electromagnetism**  
-*field – charge – interaction*  
-→ distributed physical influence  
+Gene-centric grammar explains biological change in terms of gene frequencies across generations, enabling precise modelling of evolutionary dynamics while offering a limited account of organismal organisation.
 
-**Darwinian evolution**  
-*variation – inheritance – selection*  
-→ adaptive change  
+Cell-centric grammar establishes the cell as the fundamental unit of life, grounding development and physiology while remaining less explanatory for evolutionary dynamics.
 
-**Information theory**  
-*signal – code – transmission*  
-→ informational organisation  
+Organism-centric grammar emphasises integrated regulation and environmental interaction, providing a strong account of functional organisation but weaker formal modelling of evolutionary change.
 
-These grammars shape the development of entire scientific fields. They influence what scientists measure, what they treat as causal, and what counts as a satisfactory explanation.
+Systems biology grammar focuses on networks, interactions, and distributed dynamics, enabling multiscale modelling while often under-specifying biological normativity.
 
-When explanatory grammars change, scientific understanding often changes with them.
+Each grammar captures a real aspect of biological organisation. However, each also risks treating a particular component or level as explanatorily primary.
 
----
+## The Problem of Privileged Levels  
 
-## Why Biology Is Especially Sensitive to Grammar
+Despite their differences, these approaches share a common assumption: that biological explanation must identify a privileged level of causation. At different times, genes, cells, or organisms have been treated as foundational explanatory units.
 
-Living systems differ from most physical systems in several important respects. They are historically evolving, organisationally complex, dynamically self-maintaining, and structured across multiple interacting spatial and temporal scales.
+This assumption reflects patterns familiar from engineered systems, where causal control is hierarchically organised. Living systems, however, do not conform to such structures. Their organisation is distributed, reciprocal, and dynamically maintained.
 
-Because of this complexity, different biological traditions have emphasised different aspects of life. Each has developed its own explanatory grammar — a characteristic set of categories through which biological phenomena are interpreted.
+## Distributed and Reciprocal Causation  
 
-These grammars typically highlight genuine features of living systems. Yet they also tend to prioritise particular components or processes as foundational, producing recurring debates about the “fundamental unit” of biology.
+In living systems, causation is not confined to a single level but propagates across interacting processes. Molecular dynamics influence cellular organisation; cellular activity reshapes molecular processes; physiological regulation modifies gene expression; organismal activity alters environmental conditions.
 
----
+Causation is therefore distributed and reciprocal rather than hierarchical. Biological explanation must account for this organisation without reducing it to a single privileged domain.
 
-## Major Explanatory Grammars in Biology
+## The APS Explanatory Grammar  
 
-### Gene-Centric Grammar
+The Agency–Process–Scale (APS) framework makes explanatory grammar explicit and grounds it in viability-oriented, constraint-closed organisation. Within this grammar, biological systems are understood as actively sustaining the conditions of their own persistence through ongoing processes coordinated across interacting scales.
 
-**Core categories**  
-gene – allele – mutation – selection  
+Biological explanation therefore necessarily resolves into three irreducible dimensions:
 
-**Explanatory focus**  
-changes in gene frequencies across generations  
+Agency — the regulation of conditions required for persistence  
+Process — the continuous dynamics through which organisation is maintained  
+Scale — the coordination of these dynamics across spatial and temporal domains  
 
-**Strength**  
-precise modelling of evolutionary dynamics  
+These are not independent categories but co-constitutive aspects of a single organisational reality. No dimension can be removed without collapsing explanatory adequacy.
 
-**Limitation**  
-limited account of organismal organisation  
+The triad of agency, process, and scale is not introduced as a classificatory scheme but identified as the minimal explanatory structure required to account for viability-oriented organisation. Without agency, biological normativity disappears; without process, organisation becomes static; without scale, coordination across time and space cannot be explained. Any framework that preserves explanatory adequacy must therefore reproduce these dimensions, even if under different terminology.
 
-Within this framework, evolution is described primarily as change in gene frequencies within populations. Genes are treated as central units of inheritance and, in some interpretations, as primary causal agents.
+APS thus replaces the search for a privileged unit with an explanatory grammar grounded in distributed, viability-oriented organisation.
 
----
+## Conceptual Symmetry with Evolution  
 
-### Cell-Centric Grammar
+The APS explanatory grammar reveals a structural alignment with evolutionary theory.
 
-**Core categories**  
-cell – division – differentiation  
+Agency corresponds to persistence: systems sustain their own viability  
+Process corresponds to inheritance: organisation is reproduced through ongoing dynamics  
+Scale corresponds to transformation: evolutionary change unfolds across domains  
 
-**Explanatory focus**  
-reproduction, development, and organisation  
+Evolution describes the transformation of organised persistence, while APS specifies the organisational conditions that make such transformation possible.
 
-**Strength**  
-foundation of biological structure  
+## Why This Grammar Matters  
 
-**Limitation**  
-limited account of evolutionary dynamics  
+By making explanatory grammar explicit, APS clarifies core biological questions. It specifies what counts as a biological individual, how organisms regulate their internal conditions, how evolution transforms organised systems, and how cognition emerges from biological activity.
 
-Cell theory established the cell as a central explanatory unit of life, grounding physiology and development.
+Biological explanation is thereby grounded not in isolated components or levels, but in viability-oriented organisation sustained through interacting processes across scales.
 
----
+## Explanatory Grammar and Scientific Practice  
 
-### Organism-Centric Grammar
+Scientific explanation necessarily selects conceptual categories to render complex systems intelligible. These categories can become reified, appearing as intrinsic features of nature rather than elements of an explanatory grammar.
 
-**Core categories**  
-organism – regulation – physiology – environment  
+In biology, this has led to persistent debates about whether genes, cells, or organisms are fundamental. APS shows that these debates arise from competing grammars rather than from the structure of living systems themselves.
 
-**Explanatory focus**  
-functional integration and environmental interaction  
+Living systems are not defined by a privileged component but by viability-oriented organisation maintained through distributed, interacting processes. Explanation must therefore track this organisation rather than reduce it to a single level.
 
-**Strength**  
-strong account of regulation  
-
-**Limitation**  
-weaker formal evolutionary modelling  
-
-Here the organism is treated as an integrated system maintaining internal organisation while interacting with its environment.
-
----
-
-### Systems Biology Grammar
-
-**Core categories**  
-network – interaction – dynamics  
-
-**Explanatory focus**  
-distributed causal interaction  
-
-**Strength**  
-multiscale modelling  
-
-**Limitation**  
-often limited treatment of normativity  
-
-This grammar emphasises distributed interactions rather than discrete components.
-
----
-
-## The Problem of Privileged Levels
-
-Despite their differences, these grammars share a common assumption: that explanation must identify a privileged level of causation.
-
-At different times, biology has treated:
-
-- the gene  
-- the cell  
-- the organism  
-
-as foundational.
-
-This assumption reflects patterns familiar from engineered systems, where causal control often follows hierarchical organisation. However, biological systems do not conform to such simple hierarchies.
-
----
-
-## Distributed and Reciprocal Causation in Living Systems
-
-In living systems, causation is distributed across interacting processes:
-
-- molecular processes influence cellular organisation  
-- cellular activity reshapes molecular dynamics  
-- physiological regulation modifies gene expression  
-- organismal behaviour alters environmental conditions  
-
-Causation therefore propagates across scales rather than along a single hierarchical chain.
-
-Understanding living systems requires an explanatory grammar capable of representing this distributed organisation.
-
----
-
-## The APS Explanatory Grammar
-
-The Agency–Process–Scale (APS) framework proposes such a grammar.
-
-APS integrates three categories:
-
-**Agency**  
-viability-oriented regulation  
-
-**Process**  
-continuous organisational dynamics  
-
-**Scale**  
-coordination across spatial and temporal domains  
-
-These correspond to fundamental properties of living systems:
-
-- organisms regulate the conditions of their own persistence (agency)  
-- this regulation is enacted through ongoing processes (process)  
-- these processes operate across interacting domains (scale)  
-
-No single level of organisation is sufficient. Biological explanation must therefore integrate processes across scales within systems capable of sustaining their own viability.
-
-APS replaces the search for a privileged unit with an explanatory grammar grounded in viability-oriented, constraint-closed organisation across agency, process, and scale.
-
-The triad of agency, process, and scale is not introduced as a classificatory scheme but identified as the minimal explanatory structure required to account for viability-oriented organisation. These are not optional perspectives but necessary dimensions: without agency, biological normativity disappears; without process, organisation becomes static; without scale, coordination across time and space cannot be explained. Any alternative framework that preserves explanatory adequacy must therefore reproduce these dimensions, even if under different names.
----
-
-## A Conceptual Symmetry in Biological Explanation
-
-The APS explanatory grammar reveals a symmetry with evolutionary theory.
-
-**Agency → Persistence**  
-systems sustain their own viability  
-
-**Process → Inheritance**  
-biological organisation is reproduced through ongoing processes  
-
-**Scale → Transformation**  
-evolutionary change unfolds across spatial and temporal domains  
-
-Evolution describes the transformation of organised persistence, while APS describes the organisational conditions that make such transformation possible.
-
----
-
-## Why This Grammar Matters
-
-The APS explanatory grammar clarifies key biological questions:
-
-- What constitutes a biological individual?  
-- How do organisms regulate their internal conditions?  
-- How does evolution transform organised systems?  
-- How can cognition emerge from biological activity?  
-
-By grounding explanation in agency, process, and scale, APS integrates molecular biology, physiology, ecology, and evolution within a unified conceptual framework.
-
----
-
-## Explanatory Grammar and Scientific Practice
-
-Scientific explanation inevitably prioritises certain categories in order to make complex systems intelligible. These categories can become reified—treated as intrinsic features of nature rather than analytical tools.
-
-In biology, this has led to recurring debates about whether genes, cells, or organisms are foundational.
-
-APS suggests that such debates arise largely from differences in explanatory grammar. Living systems are not defined by a single privileged component. They are viability-oriented organisations sustained through interacting processes across multiple scales.
-
-Understanding life therefore requires an explanatory grammar capable of representing that organisation.
-
-APS provides that grammar.
+APS provides an explicit grammar capable of doing so.
