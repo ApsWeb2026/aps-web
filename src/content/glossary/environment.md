@@ -1,0 +1,41 @@
+---
+title: Environment
+slug: environment
+definition: In APS, the environment is the dynamically structured field of
+  conditions, resources, and constraints that are functionally coupled to a
+  living system’s viability-oriented organisation. It is not an external
+  backdrop but a relational domain co-constituted through ongoing
+  organism–environment interactions, whose features become biologically relevant
+  insofar as they enter into the system’s constraint-closed processes.
+inBrief: The environment is the relational field of viability-relevant
+  conditions co-produced through organism–environment coupling.
+status: canonical
+canonical: true
+canonicalLockDate: 2026-03-30
+revised: 2026-03-30
+cluster: conceptual-foundations
+seeAlso:
+  - Constraint
+  - Coupling
+  - Affordance
+references: []
+---
+## Conventional framing  
+  The environment is typically understood as the external surroundings in which an organism exists, comprising physical, chemical, and biological factors that influence its survival and reproduction. It is often treated as a pre-given, independent domain that exerts causal pressures on organisms, with adaptation framed as the organism’s response to these external conditions.
+
+ 
+## APS reframing  
+  APS rejects the notion of the environment as a fixed external container. Instead, the environment is a relational and dynamically constituted domain that emerges through the coupling of a system’s organisation with its surroundings. What counts as “environment” is not everything outside the organism, but only those aspects that are functionally integrated into viability-oriented organisation.
+
+  This reframing emphasises:
+
+  - Organism and environment are mutually specified through ongoing interaction.
+  - Not all external conditions matter; only those that modulate viability-oriented organisation enter the system’s effective environment.
+  - Organisms can actively modify the conditions that subsequently constrain and enable their own persistence.
+  - Environmental factors matter through their incorporation into networks of constraints that sustain viability.
+
+  Thus, the environment is not an independent explanatory primitive, but a relational extension of viability-oriented organisation across system boundaries.
+
+  
+## Key Point  
+  In APS, the environment is not what surrounds an organism, but what is functionally integrated into its viability-oriented organisation through ongoing coupling.
