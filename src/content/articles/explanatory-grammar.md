@@ -211,7 +211,7 @@ No single level of organisation is sufficient. Biological explanation must there
 
 APS replaces the search for a privileged unit with an explanatory grammar grounded in viability-oriented, constraint-closed organisation across agency, process, and scale.
 
-The triad of agency, process, and scale is not introduced as a classificatory scheme but identified as the minimal explanatory structure required to account for viability-oriented, constraint-closed organisation. These are not optional perspectives but necessary dimensions of explanation: without agency, biological normativity disappears; without process, organisation becomes static; without scale, coordination across time and space cannot be explained. Any alternative framework that preserves explanatory adequacy must therefore reproduce these dimensions, even if under different terminology. The APS triad is thus not one framework among many, but an explicit articulation of the conditions under which biological explanation remains coherent.
+The triad of agency, process, and scale is not introduced as a classificatory scheme but identified as the minimal explanatory structure required to account for viability-oriented organisation. These are not optional perspectives but necessary dimensions: without agency, biological normativity disappears; without process, organisation becomes static; without scale, coordination across time and space cannot be explained. Any alternative framework that preserves explanatory adequacy must therefore reproduce these dimensions, even if under different names.
 ---
 
 ## A Conceptual Symmetry in Biological Explanation
