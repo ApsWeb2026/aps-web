@@ -87,6 +87,8 @@ Scale — the coordination of these dynamics across spatial and temporal domains
 
 These are not independent categories but co-constitutive aspects of a single organisational reality. No dimension can be removed without collapsing explanatory adequacy.
 
+[[box:why-aps-is-not-arbitrary]]
+
 The triad of agency, process, and scale is not introduced as a classificatory scheme but identified as the minimal explanatory structure required to account for viability-oriented organisation. Without agency, biological normativity disappears; without process, organisation becomes static; without scale, coordination across time and space cannot be explained. Any framework that preserves explanatory adequacy must therefore reproduce these dimensions, even if under different terminology.
 
 APS thus replaces the search for a privileged unit with an explanatory grammar grounded in distributed, viability-oriented organisation.
