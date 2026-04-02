@@ -20,7 +20,7 @@ inBrief: Function is how structures and processes contribute to sustaining a
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-19
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
