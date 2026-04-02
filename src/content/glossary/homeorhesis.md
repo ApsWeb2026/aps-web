@@ -17,10 +17,8 @@ inBrief: Homeorhesis is the regulation of change rather than state—the
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
-seeAlso: []
-references: []
 ---
 ## Conventional framing
 
