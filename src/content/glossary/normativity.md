@@ -12,13 +12,12 @@ inBrief: Normativity is the enactment of viability-relative differences that
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
   - viability
   - constraint-closure
-references: []
 ---
 
 ## Conventional framing
