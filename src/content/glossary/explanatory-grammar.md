@@ -17,10 +17,8 @@ inBrief: Explanatory grammar is the rule-set of explanation—the framework that
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: conceptual-foundations
-seeAlso: []
-references: []
+revised: 2026-04-03
+cluster: foundations
 ---
 ## Conventional framing
 
