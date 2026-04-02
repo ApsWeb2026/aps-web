@@ -4,7 +4,7 @@ slug: from-viability-to-meaning
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-03
-revised: 2026-04-02
+revised: 2026-04-03
 associatedPages: []
 ---
 In biology, meaning is often treated as something added to life through cognition, language, or representation. In APS, meaning is not introduced as a separate domain but arises from viability-oriented organisation itself.
