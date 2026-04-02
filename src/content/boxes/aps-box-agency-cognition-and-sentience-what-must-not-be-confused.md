@@ -2,7 +2,7 @@
 title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
 slug: aps-box-agency-cognition-sentience
 status: canonical
-revised: 2026-03-23
+revised: 2026-04-02
 associatedPages: []
 ---
 Biological explanation is destabilised when agency, cognition, and sentience are treated as interchangeable. In APS, these refer to distinct organisational features. Agency is the viability-oriented, constraint-closed activity through which a system sustains its own persistence. Cognition is the evaluation of environmental differences relative to viability within that organisation. Neither requires representation, intention, or consciousness.
