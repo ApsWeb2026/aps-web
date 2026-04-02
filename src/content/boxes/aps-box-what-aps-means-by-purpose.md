@@ -3,9 +3,8 @@ title: APS Box — What APS Means by Purpose
 slug: what-aps-means-by-purpose
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-02
+canonicalLockDate: 2026-04-03
 revised: 2026-03-28
-seeAlso: []
 associatedPages: []
 ---
 In biology, purpose is often interpreted as intention, design, or the pursuit of a future goal. In APS, purpose is none of these. It is the system-level organisation of activity through which a living system sustains the conditions required for its continued viability.
