@@ -13,12 +13,12 @@ canonical: false
 revised: 2026-03-19
 cluster: foundations
 keyPoints:
-  - Biological normativity arises from viability-oriented organisation, not from
-    human values or intentions
   - Living systems exhibit an intrinsic asymmetry between persistence and
     collapse
   - Normativity grounds the distinction between function and dysfunction
   - Cognition elaborates normativity but does not generate it
+  - Biological normativity arises from viability-oriented organisation and does
+    not require representation, intention, or consciousness.
 relatedGlossaryTerms:
   - biological-agency
 references: []
