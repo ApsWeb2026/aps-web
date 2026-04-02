@@ -19,14 +19,13 @@ inBrief: Constraint closure is the self-maintaining organisation of mutually
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
   - normativity
   - process
   - scale
-references: []
 ---
 **Conventional framing**
 
