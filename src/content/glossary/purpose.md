@@ -20,13 +20,12 @@ inBrief: Purpose is the inherent orientation of viability-oriented
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
   - function
   - normativity
-references: []
 ---
 **Conventional framing**
 
