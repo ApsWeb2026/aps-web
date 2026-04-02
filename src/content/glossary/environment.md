@@ -12,13 +12,12 @@ inBrief: The environment is the relational field of viability-relevant
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-30
-revised: 2026-03-30
-cluster: conceptual-foundations
+revised: 2026-04-03
+cluster: foundations
 seeAlso:
-  - Constraint
-  - Coupling
-  - Affordance
-references: []
+  - constraint
+  - coupling
+  - affordance
 ---
 ## Conventional framing  
   The environment is typically understood as the external surroundings in which an organism exists, comprising physical, chemical, and biological factors that influence its survival and reproduction. It is often treated as a pre-given, independent domain that exerts causal pressures on organisms, with adaptation framed as the organism’s response to these external conditions.
