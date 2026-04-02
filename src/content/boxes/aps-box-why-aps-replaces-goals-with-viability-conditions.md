@@ -4,12 +4,7 @@ slug: why-aps-replaces-goals-with-viability-conditions
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-28
-revised: 2026-04-02
-seeAlso:
-  - Purpose
-  - Function
-  - Normativity
-  - Constraint Closure
+revised: 2026-04-03
 associatedPages: []
 ---
 In biology, systems are often described as goal-directed, as if they pursue internal targets or future states. In APS, this interpretation is rejected. Living systems do not pursue goals; they regulate their activity relative to the conditions required for continued viability.
