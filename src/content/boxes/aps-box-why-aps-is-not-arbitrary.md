@@ -3,6 +3,7 @@ title: APS Box — Why APS Is Not Arbitrary
 slug: why-aps-is-not-arbitrary
 status: canonical
 canonical: true
+canonicalLockDate: 2026=04-03
 revised: 2026-04-03
 associatedPages: []
 ---

@@ -20,10 +20,10 @@ inBrief: Adaptation is the reorganisation of living systems that preserves
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
-  - Evolution
+  - evolution
 references: []
 ---
 ## Conventional framing
