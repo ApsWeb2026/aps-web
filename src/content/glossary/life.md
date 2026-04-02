@@ -16,14 +16,13 @@ inBrief: Life is the organisation of biological agency through which a system
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-19
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
   - normativity
   - process
   - scale
-references: []
 ---
 **Conventional framing**  
 Life is commonly defined by lists of traits such as metabolism, growth, reproduction, and homeostasis, or by evolutionary lineage. While these approaches identify important features, they do not specify the organisational principle that unifies living systems or explains why these features matter biologically.
