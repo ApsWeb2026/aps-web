@@ -1,5 +1,5 @@
 ---
-title: "APS Box — Diagnostics vs Definition "
+title: "APS Box — Diagnostics vs Definition"
 slug: diagnostics-vs-definition
 status: canonical
 canonical: true
