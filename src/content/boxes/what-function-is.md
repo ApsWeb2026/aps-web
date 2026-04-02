@@ -3,7 +3,7 @@ title: APS Box — What Function Is (APS View)
 slug: what-function-is
 status: canonical
 canonical: true
-revised: 2026-03-26
+revised: 2026-04-02
 associatedPages:
   - /glossary/function/
   - /articles/scale-time-persistence/
