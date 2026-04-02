@@ -13,14 +13,13 @@ inBrief: Coupling is the ongoing interaction through which organisms and
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-30
-revised: 2026-03-30
-cluster: conceptual-foundations
+revised: 2026-04-03
+cluster: foundations
 seeAlso:
-  - Environment
-  - Affordance
-  - Constraint
-  - Agency
-references: []
+  - environment
+  - affordance
+  - constraint
+  - biological-agency
 ---
 ## Conventional framing  
   Coupling is often understood as a general interaction or linkage between two systems or variables, such as organism–environment interaction, signal coupling, or feedback loops. In many contexts, it is treated as an external relation between otherwise independently defined entities.
