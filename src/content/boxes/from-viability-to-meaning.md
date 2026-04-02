@@ -3,6 +3,7 @@ title: APS Box — From Viability to Meaning
 slug: from-viability-to-meaning
 status: canonical
 canonical: true
+canonicalLockDate: 2026-04-03
 revised: 2026-04-02
 associatedPages: []
 ---
