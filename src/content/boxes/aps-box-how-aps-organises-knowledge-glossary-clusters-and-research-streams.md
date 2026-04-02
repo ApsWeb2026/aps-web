@@ -3,9 +3,7 @@ title: APS Box — How APS Organises Knowledge
 slug: aps-knowledge-organisation
 status: evolving
 canonical: false
-canonicalLockDate: 2026-03-26
-revised: 2026-03-26
-seeAlso: []
+revised: 2026-04-02
 associatedPages: []
 ---
 ## Overview
