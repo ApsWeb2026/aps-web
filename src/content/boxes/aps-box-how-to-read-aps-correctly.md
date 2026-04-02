@@ -2,7 +2,8 @@
 title: APS Box — How to Read APS Correctly
 slug: aps-box-how-to-read-aps
 status: canonical
-revised: 2026-03-23
+canonical: true
+revised: 2026-04-02
 associatedPages: []
 ---
 **APS Box — How to Read APS Correctly**
