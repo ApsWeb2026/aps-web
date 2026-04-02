@@ -15,16 +15,15 @@ definition: "Viability denotes the ongoing maintenance of the organisational
 inBrief: Viability is the ongoing preservation of the conditions that allow a
   system to remain a biological agent.
 status: canonical
-canonical: false
+canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
   - normativity
   - process
   - scale
-references: []
 ---
 **Conventional framing**
 
