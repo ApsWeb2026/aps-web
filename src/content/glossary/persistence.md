@@ -8,12 +8,11 @@ inBrief: Persistence is the active continuity of viability-oriented organisation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - biological-agency
   - viability
-references: []
 ---
 **Conventional framing**  
 Persistence typically refers to continued existence over time, often equated with survival, resilience, or long-term evolutionary success. In biological and ecological contexts, it is frequently measured statistically, such as lineage survival or population continuity. These accounts describe outcomes of persistence but do not explain how it is actively maintained.  
