@@ -4,6 +4,7 @@ slug: cognition
 status: canonical
 canonical: true
 revised: 2026-04-02
+canonicalLockDate: 2026-04-02
 ---
 ## Conventional framing
 
