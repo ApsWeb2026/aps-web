@@ -13,14 +13,13 @@ inBrief: Umwelt is the organism-specific field of meaningful, viability-relevant
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-30
-revised: 2026-03-30
-cluster: conceptual-foundations
+revised: 2026-04-03
+cluster: foundations
 seeAlso:
-  - Environment
-  - Coupling
-  - Affordance
-  - Normativity
-references: []
+  - environment
+  - coupling
+  - affordance
+  - normativity
 ---
 ## Conventional framing  
   The concept of Umwelt, introduced by Jakob von Uexküll, refers to the subjective perceptual world of an organism—the environment as experienced from its own point of view. Different organisms inhabit different Umwelten depending on their sensory capacities and behavioural repertoires. This framing emphasises that organisms do not access an objective world directly but engage with a species-specific perceptual domain.
