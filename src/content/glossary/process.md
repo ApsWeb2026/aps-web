@@ -13,10 +13,10 @@ inBrief: Process is the ongoing organisation of activity through which living
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-18
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
-  - agency
+  - biological-agency
   - scale
 references:
   - id: rescher-1996
