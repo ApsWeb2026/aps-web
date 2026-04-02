@@ -13,14 +13,12 @@ inBrief: Scale is the spatial and temporal extent across which living systems
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-18
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
   - process
-  - Process
-  - Biological agency
-  - Constraint-closure
-references: []
+  - biological agency
+  - constraint-closure
 ---
 ## Conventional framing
 
