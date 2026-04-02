@@ -3,6 +3,7 @@ title: APS Box — Why Trait Lists Fail
 slug: why-trait-lists-fail
 status: canonical
 canonical: true
+canonicalLockDate: 2026-04-02
 revised: 2026-04-02
 associatedPages:
   - /articles/what-is-life
