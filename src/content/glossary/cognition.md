@@ -9,7 +9,7 @@ definition: >
   In APS, cognition is viability-oriented regulation with counterfactual depth. A system is cognitive when its evaluative activity extends beyond immediate conditions, such that present regulation is shaped by states that are not currently occurring but could occur, have occurred, or are otherwise relevant to future viability.
 inBrief: >
   Cognition is viability-oriented regulation with counterfactual depth—an elaboration of agency, not a universal feature of life.
-cluster: cognition-and-mind
+cluster: cognition-mind
 ---
 
 ## Conventional framing
