@@ -3,20 +3,17 @@ title: APS Box — Why Trait Lists Fail
 slug: why-trait-lists-fail
 status: canonical
 canonical: true
-revised: 2026-03-26
+revised: 2026-04-02
 associatedPages:
   - /articles/what-is-life
   - /glossary/life
 ---
-Trait-based definitions of life attempt to identify living systems by listing observable properties such as metabolism, reproduction, growth, homeostasis, or evolution. While these features are commonly associated with living systems, they do not provide a definition of life.
+Trait-based definitions of life attempt to identify living systems by listing observable properties such as metabolism, reproduction, growth, or homeostasis. In APS, this approach fails because it confuses expressions of life with the organisation that makes them possible.
 
-The central limitation is that no fixed list of traits reliably distinguishes living from non-living systems. Some living systems lack one or more canonical traits under particular conditions, while some non-living systems exhibit several of them. Viruses, sterile organisms, and artificial systems expose these ambiguities.
+No fixed list of traits reliably distinguishes living from non-living systems. Some living systems lack canonical traits under particular conditions, while some non-living systems exhibit several of them. What matters is not the presence of specific features, but whether a system sustains itself through viability-oriented organisation.
 
-More fundamentally, trait lists describe what living systems do, not what they are. They catalogue outcomes of biological organisation without specifying the organisational condition that makes those outcomes possible. As a result, they cannot explain why these traits matter biologically or how they are unified within a single system.
+Trait lists describe what living systems do, not what they are. They catalogue outcomes of biological organisation without specifying the constraint-closed organisation that unifies them. As a result, they cannot explain why these traits matter or how they are coordinated within a single system.
 
-In APS, life is defined not by a set of traits but by viability-oriented organisation: the constraint-closed organisation through which a system sustains its own persistence. Traits such as metabolism or reproduction are therefore understood as expressions of this organisation, not as defining criteria.
+APS therefore treats traits as expressions of viability-oriented organisation, not as defining criteria. Lists of traits may function as heuristics for identifying candidate systems, but they do not establish what life is.
 
-Trait-based approaches function as diagnostic heuristics, not as definitions. They may assist in identifying candidate systems, but they do not establish the boundary between life and non-life.
-
-**In brief**  
-Trait lists describe expressions of life, not the organisation that defines it.
+**Key Point.** Trait lists describe the expressions of life, not the organisation that defines it; life is viability-oriented organisation, not a collection of properties.
