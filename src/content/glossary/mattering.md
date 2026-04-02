@@ -9,12 +9,11 @@ inBrief: Mattering is what normativity looks like in action—the real-time
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-20
-revised: 2026-03-20
+revised: 2026-04-03
 cluster: cognition-mind
 seeAlso:
   - normativity
   - constraint-closure
-references: []
 ---
 **Conventional framing**  
 Mattering is often understood in subjective or psychological terms, referring to what is significant, meaningful, or valued by a conscious agent. In this sense, it is typically associated with feeling, judgement, or representation, and is not usually treated as a fundamental feature of biological organisation.
