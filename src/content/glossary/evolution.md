@@ -13,11 +13,10 @@ inBrief: Evolution is the long-term transformation of persistence-sustaining
 status: canonical
 canonical: true
 canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 cluster: foundations
 seeAlso:
-  - Adaptation
-references: []
+  - adaptation
 ---
 ## Conventional framing
 
