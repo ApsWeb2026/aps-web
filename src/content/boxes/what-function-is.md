@@ -3,6 +3,7 @@ title: APS Box — What Function Is (APS View)
 slug: what-function-is
 status: canonical
 canonical: true
+canonicalLockDate: 2026-04-02
 revised: 2026-04-02
 associatedPages:
   - /glossary/function/
