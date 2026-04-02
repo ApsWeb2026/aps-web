@@ -10,16 +10,15 @@ definition: A relational opportunity for action arising from the coupling of an
 inBrief: Affordances are viability-relevant possibilities for action arising
   from organism–environment coupling.
 status: canonical
-canonical: false
+canonical: true
 canonicalLockDate: 2026-03-30
-revised: 2026-03-30
-cluster: conceptual-foundations
+revised: 2026-04-03
+cluster: foundations
 seeAlso:
-  - Environment
-  - Coupling
-  - Constraint
-  - Umwelt
-references: []
+  - environment
+  - coupling
+  - constraint
+  - umwelt
 ---
 ## Conventional framing  
   The concept of affordance originates in ecological psychology, where it refers to the actionable possibilities that the environment offers to an organism. These possibilities are not reducible to objective physical properties alone, nor to subjective perception, but are defined in relation to the organism’s capabilities. For example, a surface may afford walking for one organism but not for another, depending on its morphology and behaviour.
