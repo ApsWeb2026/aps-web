@@ -3,9 +3,8 @@ title: APS Box — Why APS Is Not Arbitrary
 slug: why-aps-is-not-arbitrary
 status: canonical
 canonical: true
-canonicalLockDate: 2026=04-03
+canonicalLockDate: 2026-04-03
 revised: 2026-04-03
-associatedPages: []
 ---
 The Agency–Process–Scale (APS) framework does not introduce a preferred set of categories among many alternatives. It identifies the minimal explanatory structure required to account for viability-oriented, constraint-closed organisation.
 

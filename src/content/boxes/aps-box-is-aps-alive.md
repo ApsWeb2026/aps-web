@@ -3,9 +3,8 @@ title: APS Box — Is APS Alive?
 slug: aps-box-is-aps-alive
 status: canonical
 canonical: true
-canonicalLockDate: 2026=04-03
+canonicalLockDate: 2026-04-03
 revised: 2026-04-03
-associatedPages: []
 ---
 **APS Box — Is APS Alive?**
 

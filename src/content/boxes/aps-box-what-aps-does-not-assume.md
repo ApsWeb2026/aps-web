@@ -3,9 +3,8 @@ title: APS Box — What APS Does Not Assume
 slug: aps-box-what-aps-does-not-assume
 status: canonical
 canonical: true
-canonicalLockDate: 2026=04-03
+canonicalLockDate: 2026-04-03
 revised: 2026-04-03
-associatedPages: []
 ---
 **APS Box — What APS Does Not Assume**
 

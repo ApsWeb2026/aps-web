@@ -5,7 +5,6 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-03
 revised: 2026-04-03
-associatedPages: []
 ---
 **APS Box — How APS Definitions Work**
 
