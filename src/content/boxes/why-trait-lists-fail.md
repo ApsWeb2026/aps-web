@@ -5,9 +5,6 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-02
 revised: 2026-04-02
-associatedPages:
-  - /articles/what-is-life
-  - /glossary/life
 ---
 Trait-based definitions of life attempt to identify living systems by listing observable properties such as metabolism, reproduction, growth, or homeostasis. In APS, this approach fails because it confuses expressions of life with the organisation that makes them possible.
 
