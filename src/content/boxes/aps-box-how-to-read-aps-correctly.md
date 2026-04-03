@@ -1,17 +1,19 @@
 ---
+title: APS Box - How to Read APS Correctly
 slug: aps-box-how-to-read-aps-correctly
+status: canonical
 revised: 2026-04-03
 ---
 
 ---
-title: APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â How to Read APS Correctly
+title: APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How to Read APS Correctly
 slug: aps-box-how-to-read-aps
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-03
 revised: 2026-04-03
 ---
-**APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â How to Read APS Correctly**
+**APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How to Read APS Correctly**
 
 APS introduces a distinct explanatory grammar. Its concepts must be interpreted in relation to one another rather than as independent definitions.
 

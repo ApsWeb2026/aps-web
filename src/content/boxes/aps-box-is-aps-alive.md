@@ -1,17 +1,19 @@
 ---
+title: APS Box - Is APS Alive?
 slug: aps-box-is-aps-alive
+status: canonical
 revised: 2026-04-03
 ---
 
 ---
-title: APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Is APS Alive?
+title: APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Is APS Alive?
 slug: aps-box-is-aps-alive
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-03
 revised: 2026-04-03
 ---
-**APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Is APS Alive?**
+**APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Is APS Alive?**
 
 APS may appear life-like in certain respects. It is an organised conceptual system in which definitions constrain one another, coherence is maintained across a constraint-closed system, and some interpretations maintain coherence within that system while others degrade it.
 
