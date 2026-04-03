@@ -1,10 +1,12 @@
 ---
+title: APS Box - How APS Organises Knowledge
 slug: aps-box-how-aps-organises-knowledge
+status: canonical
 revised: 2026-04-03
 ---
 
 ---
-title: APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â How APS Organises Knowledge
+title: APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How APS Organises Knowledge
 slug: aps-box-how-aps-organises-knowledge
 status: canonical
 canonical: true
