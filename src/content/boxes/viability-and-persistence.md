@@ -1,5 +1,13 @@
 ---
-title: APS Box — Viability and Persistence
+title: APS Box - Viability and Persistence
+slug: viability-and-persistence
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-03
+revised: 2026-04-03
+---
+---
+title: APS Box â€” Viability and Persistence
 slug: viability-and-persistence
 status: canonical
 canonical: true
@@ -7,7 +15,7 @@ canonicalLockDate: 2026-04-03
 revised: 2026-04-03
 associatedPages: []
 ---
-Viability and persistence are closely related in APS but not identical. Viability refers to the condition under which a living system can continue to exist—the organisation that distinguishes what supports persistence from what undermines it. It defines what matters to the system.
+Viability and persistence are closely related in APS but not identical. Viability refers to the condition under which a living system can continue to existâ€”the organisation that distinguishes what supports persistence from what undermines it. It defines what matters to the system.
 
 Persistence is the ongoing achievement of that condition through time. A living system persists only insofar as it actively maintains and modulates the organisation that sustains viability under changing circumstances.
 

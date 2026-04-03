@@ -1,5 +1,5 @@
 ---
-title: APS Box — Why Trait Lists Fail
+title: APS Box - Why Trait Lists Fail
 slug: why-trait-lists-fail
 status: canonical
 canonical: true
