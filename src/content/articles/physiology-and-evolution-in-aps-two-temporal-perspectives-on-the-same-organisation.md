@@ -1,29 +1,8 @@
 ---
-title: "Physiology and Evolution in APS — Two Temporal Perspectives on the Same
-  Organisation "
-slug: physiology-and-evolution
-abstract: Biology is often divided between physiology, which explains how
-  organisms function in the present, and evolution, which explains how they
-  change over time. The APS framework shows that these are not separate domains
-  but two temporal perspectives on the same viability-oriented organisation.
-  This unification clarifies how persistence and transformation are related
-  within biological explanation.
-status: canonical
-canonical: false
-canonicalLockDate: 2026-03-20
-revised: 2026-03-20
-cluster: foundations
-keyPoints:
-  - Physiology and evolution explain the same organisation at different
-    timescales
-  - Persistence is the condition that makes evolution possible
-  - Evolution transforms viability-oriented organisation across generations
-  - APS unifies biological explanation across temporal scales
-relatedGlossaryTerms:
-  - biological-agency
-  - viability
-references: []
+slug: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation
+revised: 2026-04-03
 ---
+
 ## Two Ways of Explaining Life
 
 Biology is often divided into two domains.
@@ -100,7 +79,7 @@ Explanation must therefore integrate these scales rather than treat them as inde
 
 Biological agency is central to both physiology and evolution.
 
-In physiology, agency is expressed in the system’s capacity to regulate itself, respond to perturbation, and maintain viability.
+In physiology, agency is expressed in the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s capacity to regulate itself, respond to perturbation, and maintain viability.
 
 In evolution, agency is expressed in the persistence of systems that successfully sustain themselves across generations. Lineages endure because their organisation continues to support viability under changing conditions.
 

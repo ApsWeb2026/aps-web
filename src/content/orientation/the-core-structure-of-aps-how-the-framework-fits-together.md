@@ -1,11 +1,10 @@
 ---
-title: The Core Structure of APS — How the Framework Fits Together
-slug: aps-core-structure
+title: The Core Structure of APS - How the Framework Fits Together
+slug: the-core-structure-of-aps-how-the-framework-fits-together
 status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
+revised: 2026-04-03
 ---
+
 ## Introduction
 
 The APS framework presents a unified account of life by clarifying both what living systems are and how they must be explained.
@@ -84,9 +83,9 @@ These concepts are unified through a common explanatory grammar.
 
 APS explains biological systems in terms of three analytically distinguishable but ontologically co-constitutive dimensions:
 
-- **Agency** — viability-oriented regulation  
-- **Process** — the dynamic organisation of activity through time  
-- **Scale** — the coordination of activity across spatial and temporal domains  
+- **Agency** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â viability-oriented regulation  
+- **Process** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â the dynamic organisation of activity through time  
+- **Scale** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â the coordination of activity across spatial and temporal domains  
 
 These are not separate components of life, but analytically distinct ways of describing the same viability-oriented, constraint-closed organisation.
 

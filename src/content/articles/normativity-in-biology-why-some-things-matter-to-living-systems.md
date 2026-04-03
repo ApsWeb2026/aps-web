@@ -1,33 +1,13 @@
 ---
-title: "Normativity in Biology — Why Some Things Matter to Living Systems "
-slug: normativity-in-biology
-abstract: Normativity in biology concerns how living systems distinguish between
-  conditions that support their continued existence and those that undermine it.
-  In the APS framework, normativity is not derived from human values or moral
-  judgment but arises from viability-oriented organisation. This article
-  explains how normativity can be naturalised as an intrinsic feature of
-  biological agency, grounding concepts such as function, regulation, and
-  failure without invoking intention or representation.
-status: evolving
-canonical: false
-revised: 2026-03-19
-cluster: foundations
-keyPoints:
-  - Living systems exhibit an intrinsic asymmetry between persistence and
-    collapse
-  - Normativity grounds the distinction between function and dysfunction
-  - Cognition elaborates normativity but does not generate it
-  - Biological normativity arises from viability-oriented organisation and does
-    not require representation, intention, or consciousness.
-relatedGlossaryTerms:
-  - biological-agency
-references: []
+slug: normativity-in-biology-why-some-things-matter-to-living-systems
+revised: 2026-04-03
 ---
-Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agency—the viability-oriented organisation of activity through which living systems sustain their own persistence.
 
-## Why Normativity Seems “Unscientific”
+Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agencyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe viability-oriented organisation of activity through which living systems sustain their own persistence.
 
-Normativity concerns standards—better or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
+## Why Normativity Seems ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“UnscientificÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â
+
+Normativity concerns standardsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âbetter or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
 
 Physics describes what happens, not what should happen. Chemistry explains reactions, not mistakes. Biology, it is often assumed, should do the same.
 
@@ -59,7 +39,7 @@ Normativity here is not mental. It is organisational.
 
 ## Teleology Rejected and Reframed
 
-Classical biology explained normativity through teleology—parts existing for the sake of the whole. Modern biology rejected such explanations to avoid appeals to design or intention.
+Classical biology explained normativity through teleologyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âparts existing for the sake of the whole. Modern biology rejected such explanations to avoid appeals to design or intention.
 
 But removing teleology entirely left a gap. Mechanistic accounts explain how processes unfold, but not why failure counts as failure.
 
@@ -83,7 +63,7 @@ In APS terms, something matters if it makes a difference to viability.
 - water matters because it sustains regulation  
 - damage matters because it threatens organisational integrity  
 
-This “mattering” is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
+This ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“matteringÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
 
 ## Normativity, Agency, and Function
 
@@ -121,7 +101,7 @@ Human normativity is an evolutionary elaboration of biological normativity.
 
 Evaluation becomes more flexible, control becomes anticipatory, learning expands, and language enables explicit rule-following.
 
-Moral and epistemic norms extend life’s basic evaluative structure; they do not replace it.
+Moral and epistemic norms extend lifeÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s basic evaluative structure; they do not replace it.
 
 ## Not a Projection
 
@@ -139,4 +119,4 @@ It arises wherever activity is organised around sustaining persistence.
 
 Normativity is not optional. It is the evaluative backbone of biological agency.
 
-See: [Normativity](/boxes/normativity-box/)
+See: [Normativity]()

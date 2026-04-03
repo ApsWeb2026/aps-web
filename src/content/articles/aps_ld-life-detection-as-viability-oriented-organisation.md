@@ -1,24 +1,11 @@
 ---
-title: APS_LD — Life Detection as Viability-Oriented Organisation
-slug: aps-ld-life-detection
-abstract: APS_LD develops a programmatic approach to life detection grounded in
-  viability-oriented, constraint-closed organisation, reframing biosignatures
-  and diagnostic criteria in terms of persistence-sustaining processes rather
-  than trait-based or component-based indicators.
-status: evolving
-canonical: false
-canonicalLockDate: 2026-03-26
-revised: 2026-03-26
-cluster: empirical-interface
-keyPoints: []
-relatedGlossaryTerms: []
-relatedArticles: []
-researchStreams: []
-references: []
+slug: aps_ld-life-detection-as-viability-oriented-organisation
+revised: 2026-04-03
 ---
+
 ## Overview
 
-APS_LD (Life Detection) is a research stream within the Agency–Process–Scale (APS) framework focused on the problem of identifying and detecting life. It develops a systematic approach grounded in **viability-oriented, constraint-closed organisation**, rather than trait lists or component-based definitions.
+APS_LD (Life Detection) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the problem of identifying and detecting life. It develops a systematic approach grounded in **viability-oriented, constraint-closed organisation**, rather than trait lists or component-based definitions.
 
 This stream extends the core APS claim that life is not defined by specific materials or structures, but by the **organisation of processes that sustain persistence**. Life detection, on this view, becomes the task of identifying systems that exhibit such organisation under empirical conditions.
 

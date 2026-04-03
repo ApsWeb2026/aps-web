@@ -1,24 +1,11 @@
 ---
-title: APS_PE — The Biological Imperative and the Ethics of Persistence
-slug: aps-pe-biological-imperative-ethics
-abstract: APS_PE develops a programmatic account of normativity and ethics
-  grounded in viability-oriented, constraint-closed organisation, showing how
-  value and evaluation arise within living systems and how ethical reflection
-  can be understood as an extension of biological normativity.
-status: evolving
-canonical: false
-canonicalLockDate: 2026-03-26
-revised: 2026-03-26
-cluster: conceptual-foundations
-keyPoints: []
-relatedGlossaryTerms: []
-relatedArticles: []
-researchStreams: []
-references: []
+slug: aps_pe-the-biological-imperative-and-the-ethics-of-persistence
+revised: 2026-04-03
 ---
+
 ## Overview
 
-APS_PE (The Biological Imperative and the Ethics of Persistence) is a research stream within the Agency–Process–Scale (APS) framework focused on the nature of value, normativity, and ethical reflection. It develops an account in which **evaluation is intrinsic to living systems**, grounded in viability-oriented, constraint-closed organisation.
+APS_PE (The Biological Imperative and the Ethics of Persistence) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the nature of value, normativity, and ethical reflection. It develops an account in which **evaluation is intrinsic to living systems**, grounded in viability-oriented, constraint-closed organisation.
 
 This stream extends the APS claim that life is not only organised but **normatively organised**: some states support persistence, while others undermine it. From this asymmetry arises a naturalised basis for value, which can be further elaborated into ethical reflection without introducing external or purely subjective standards.
 
@@ -106,8 +93,8 @@ Ethical systems can thus be understood as **higher-order organisations of evalua
 
 This approach avoids two common errors:
 
-- **Reductionism** — collapsing ethics into biological processes alone  
-- **Projectionism** — treating biological systems as if they possess human-like intentions or moral frameworks  
+- **Reductionism** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â collapsing ethics into biological processes alone  
+- **Projectionism** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â treating biological systems as if they possess human-like intentions or moral frameworks  
 
 APS_PE maintains that:
 
@@ -118,8 +105,8 @@ APS_PE maintains that:
 
 APS_PE is closely connected to:
 
-- **APS_MC (Meaning Without Neurons)** — which establishes evaluation as a feature of cognition  
-- **APS_LD (Life Detection)** — which identifies viability-oriented organisation empirically  
+- **APS_MC (Meaning Without Neurons)** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which establishes evaluation as a feature of cognition  
+- **APS_LD (Life Detection)** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which identifies viability-oriented organisation empirically  
 
 Together, these streams articulate a progression from:
 

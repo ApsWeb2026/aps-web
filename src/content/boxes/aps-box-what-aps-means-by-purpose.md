@@ -1,5 +1,10 @@
 ---
-title: APS Box — What APS Means by Purpose
+slug: aps-box-what-aps-means-by-purpose
+revised: 2026-04-03
+---
+
+---
+title: APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â What APS Means by Purpose
 slug: what-aps-means-by-purpose
 status: canonical
 canonical: true
@@ -13,4 +18,4 @@ Living systems do not act toward externally defined endpoints or internal repres
 
 Purpose is therefore not a property added to biological systems but an expression of how they are organised. Function realises this organisation at the level of components, but purpose belongs to the system as a whole. What is often described as goal-directedness is the manifestation of purpose in action, not the pursuit of an independent target.
 
-**Key Point.** In APS, purpose is not intention or goal-seeking—it is the viability-oriented organisation of activity through which living systems sustain their own persistence.
+**Key Point.** In APS, purpose is not intention or goal-seekingÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âit is the viability-oriented organisation of activity through which living systems sustain their own persistence.

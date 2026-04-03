@@ -1,39 +1,13 @@
 ---
-title: Scale — How Life Is Coordinated Across Space and Time
-slug: scale
-abstract: Scale is often understood in terms of size or hierarchical levels, but
-  such accounts cannot adequately explain how biological organisation persists
-  across interacting domains. This article reconceives scale as the
-  spatial-temporal organisation through which viability-oriented,
-  constraint-closed activity is coordinated. It shows how persistence depends on
-  cross-scale integration, how homeorhetic organisation is maintained through
-  ongoing reorganisation, and how scale forms one dimension of the
-  co-constitutive triad of agency, process, and scale within the APS framework.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: foundations
-keyPoints:
-  - Scale is not a hierarchy of levels but the coordination of activity across
-    spatial and temporal domains.
-  - Biological persistence depends on cross-scale integration rather than simple
-    aggregation.
-  - Living systems maintain themselves through homeorhetic trajectories
-    sustained across scales.
-  - In APS, scale is one dimension of the co-constitutive triad of agency,
-    process, and scale.
-relatedGlossaryTerms:
-  - Process
-  - Biological agency
-  - Biological organisation
-references: []
+slug: scale-how-life-is-coordinated-across-space-and-time
+revised: 2026-04-03
 ---
+
 ## Introduction
 
 Biological systems extend across space and time. Molecules interact within cells, cells form tissues, organisms interact with environments, and ecological systems evolve across generations.
 
-These patterns are often described in terms of levels or hierarchies. Biology is frequently organised into layers—genes, cells, organisms, populations—each treated as a distinct level of explanation.
+These patterns are often described in terms of levels or hierarchies. Biology is frequently organised into layersÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âgenes, cells, organisms, populationsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âeach treated as a distinct level of explanation.
 
 The APS framework takes a different approach. Rather than treating biological organisation as hierarchical, it understands it as distributed across interacting scales.
 
@@ -55,7 +29,7 @@ Scale in APS therefore replaces level-based hierarchy with a processual descript
 
 ---
 
-## Scale as Spatial–Temporal Organisation
+## Scale as SpatialÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Temporal Organisation
 
 The APS framework defines scale as the spatial and temporal organisation of activity within which viability-oriented organisation is coordinated.
 
@@ -121,7 +95,7 @@ This prevents the uncritical projection of concepts from one domain to another a
 
 Clarifying scale helps resolve several central issues in biology:
 
-- Why hierarchical “levels of organisation” are insufficient  
+- Why hierarchical ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œlevels of organisationÃƒÂ¢Ã¢â€šÂ¬Ã‚Â are insufficient  
 - How causation operates across interacting domains  
 - How persistence is maintained through coordination  
 - Why biological properties must be scale-specific  
@@ -138,4 +112,4 @@ Living systems endure not through aggregation, but through the coordinated integ
 
 In APS, scale is the dimension through which this coordination becomes intelligible. It reveals how persistence is enacted across space and time as part of a unified, viability-oriented, constraint-closed organisation.
 
-Understanding life therefore requires an account of scale—not as hierarchy, but as the distributed coordination of living activity.
+Understanding life therefore requires an account of scaleÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Ânot as hierarchy, but as the distributed coordination of living activity.

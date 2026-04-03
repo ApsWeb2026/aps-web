@@ -1,37 +1,8 @@
 ---
-title: Is All Life Sentient? — An APS Response
-slug: is-all-life-sentient
-abstract: Claims that all living systems are sentient have become increasingly
-  common in biology and philosophy, often motivated by recognition of the
-  continuity between simple and complex organisms. While such claims correctly
-  reject rigid boundaries between life and mind, they frequently conflate
-  distinct organisational phenomena. The Agency–Process–Scale (APS) framework
-  clarifies this issue by distinguishing viability-oriented, constraint-closed
-  organisation, normative evaluation, and experience. APS shows that while all
-  living systems are agential and normatively organised, sentience and
-  consciousness are not required for life and remain contingent, empirically
-  constrained features of particular organisational forms.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-23
-revised: 2026-03-23
-cluster: cognition-mind
-keyPoints:
-  - "•\tThe claim that all life is sentient arises from recognising continuity
-    across living systems but often conflates distinct organisational phenomena.
-    "
-  - "•\tAPS distinguishes constraint-closed regulation, normative evaluation,
-    and experience, preventing the collapse of regulation into sentience. "
-  - "•\tAll living systems are viability-oriented and agential, but sentience
-    and consciousness are not required for life. "
-  - "•\tSentience should be treated as an empirical question associated with
-    specific organisational thresholds, not as a defining property of life. "
-relatedGlossaryTerms:
-  - Cognition
-  - Normativity
-  - Biological Agency
-references: []
+slug: is-all-life-sentient-an-aps-response
+revised: 2026-04-03
 ---
+
 ## The Appeal of Universal Sentience
 
 It is increasingly common to encounter claims that all living systems are sentient. Bacteria are said to feel, plants to experience, and cells to possess a primitive form of awareness.
@@ -40,7 +11,7 @@ These claims are rarely arbitrary. They are typically motivated by an important 
 
 Life is continuous. The difference between simple and complex organisms is one of degree, not kind.
 
-This insight is correct—and necessary. However, it does not follow that all features observed in complex organisms must be present, in even minimal form, in simpler ones.
+This insight is correctÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âand necessary. However, it does not follow that all features observed in complex organisms must be present, in even minimal form, in simpler ones.
 
 The challenge is to preserve continuity without collapsing distinct organisational phenomena into one another.
 
@@ -63,11 +34,11 @@ Living systems do not merely react; they evaluate conditions relative to their c
 
 ---
 
-## APS’s Core Distinction: Organisation vs Experience
+## APSÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Core Distinction: Organisation vs Experience
 
 APS does not begin with mind. It begins with life.
 
-More precisely, it begins with **viability-oriented, constraint-closed organisation** — the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+More precisely, it begins with **viability-oriented, constraint-closed organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
 
 From this organisational condition follows normativity:
 
@@ -81,9 +52,9 @@ But it does not establish experience.
 
 APS therefore separates three levels that are often conflated:
 
-- **Agency** — viability-oriented activity through which a system sustains its own persistence  
-- **Cognition** — the evaluation of environmental differences relative to viability  
-- **Experience (sentience/consciousness)** — a further, empirically contingent feature of some systems  
+- **Agency** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â viability-oriented activity through which a system sustains its own persistence  
+- **Cognition** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the evaluation of environmental differences relative to viability  
+- **Experience (sentience/consciousness)** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â a further, empirically contingent feature of some systems  
 
 This separation preserves continuity while preventing conceptual collapse.
 
@@ -133,11 +104,11 @@ APS preserves continuity by grounding all life in:
 - constraint closure  
 - intrinsic normativity  
 
-while allowing additional features—such as sentience—to emerge only where supported by specific organisational structures.
+while allowing additional featuresÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âsuch as sentienceÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âto emerge only where supported by specific organisational structures.
 
 ---
 
-## Why the “All Life Is Sentient” Claim Persists
+## Why the ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œAll Life Is SentientÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Claim Persists
 
 The persistence of this claim reflects a genuine pressure within biology.
 

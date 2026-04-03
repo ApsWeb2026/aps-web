@@ -1,5 +1,12 @@
 ---
-title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
+title: APS Box - Agency, Cognition, and Sentience: What Must Not Be Confused
+slug: aps-box-agency-cognition-and-sentience-what-must-not-be-confused
+status: canonical
+revised: 2026-04-03
+---
+
+---
+title: "APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Agency, Cognition, and Sentience: What Must Not Be Confused"
 slug: aps-box-agency-cognition-sentience
 status: canonical
 canonical: true

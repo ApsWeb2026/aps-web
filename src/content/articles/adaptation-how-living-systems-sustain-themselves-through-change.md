@@ -1,38 +1,13 @@
 ---
-title: Adaptation — How Living Systems Sustain Themselves Through Change
-slug: adaptation
-abstract: Adaptation is often understood as a product of natural selection, but
-  this view does not explain how living systems maintain themselves under
-  changing conditions in the present. This article defines adaptation in APS as
-  the ongoing reorganisation of viability-oriented, constraint-closed
-  organisation. It shows how adaptation extends biological agency through time,
-  operates through functional reorganisation, and sustains homeorhetic
-  persistence. Adaptation is thus understood as the activity through which
-  living systems preserve viability across change and provide the basis for
-  evolutionary transformation.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: foundations
-keyPoints:
-  - Adaptation is the ongoing reorganisation of living systems that preserves
-    viability under changing conditions.
-  - Adaptation extends biological agency through time, linking immediate
-    regulation with sustained patterns of persistence.
-  - Adaptive processes are homeorhetic, maintaining viable trajectories rather
-    than fixed states.
-  - Adaptation connects present organisation with long-term evolutionary
-    transformation.
-relatedGlossaryTerms:
-  - Evolution
-references: []
+slug: adaptation-how-living-systems-sustain-themselves-through-change
+revised: 2026-04-03
 ---
+
 ## Introduction
 
 Living systems exist in changing conditions.
 
-Temperatures fluctuate, resources vary, environments shift, and internal states are continually perturbed. Despite this, living systems persist. They do not simply endure change—they reorganise in ways that allow them to continue.
+Temperatures fluctuate, resources vary, environments shift, and internal states are continually perturbed. Despite this, living systems persist. They do not simply endure changeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey reorganise in ways that allow them to continue.
 
 This capacity is described as adaptation.
 
@@ -48,7 +23,7 @@ Adaptation is often understood as a trait shaped by natural selection. In this v
 
 This perspective captures an important aspect of biology, but it does not explain how living systems adapt in the present.
 
-A system must already be able to reorganise itself in response to change in order to persist long enough to be subject to selection. Adaptation, in this sense, is not simply the result of evolution—it is a condition for it.
+A system must already be able to reorganise itself in response to change in order to persist long enough to be subject to selection. Adaptation, in this sense, is not simply the result of evolutionÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is a condition for it.
 
 APS therefore defines adaptation in present-tense terms.
 
@@ -58,7 +33,7 @@ APS therefore defines adaptation in present-tense terms.
 
 In APS, adaptation is the present-tense reorganisation of viability-oriented, constraint-closed organisation.
 
-Living systems do not passively maintain their structure. They continuously reshape their own constraints—regulatory, metabolic, developmental, and ecological—in response to changing conditions.
+Living systems do not passively maintain their structure. They continuously reshape their own constraintsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âregulatory, metabolic, developmental, and ecologicalÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âin response to changing conditions.
 
 This reorganisation preserves viable trajectories, allowing systems to sustain organisation rather than lose it under changing conditions.
 
@@ -72,7 +47,7 @@ Adaptation is the temporal extension of biological agency.
 
 Agency describes the immediate regulation of conditions that sustain viability. Adaptation extends this regulation across time, allowing systems to maintain persistence under shifting conditions.
 
-Through adaptive activity, living systems do not merely respond to change—they reorganise the conditions under which they can continue to respond effectively.
+Through adaptive activity, living systems do not merely respond to changeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey reorganise the conditions under which they can continue to respond effectively.
 
 Adaptation therefore connects moment-to-moment regulation with longer-term patterns of persistence.
 
@@ -130,9 +105,9 @@ Through inheritance, adaptive reorganisations can persist across generations, be
 
 APS situates adaptation within a temporal framework:
 
-- **Persistence** — immediate viability  
-- **Adaptation** — reorganisation across changing conditions  
-- **Evolution** — long-term transformation across generations  
+- **Persistence** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â immediate viability  
+- **Adaptation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â reorganisation across changing conditions  
+- **Evolution** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â long-term transformation across generations  
 
 Adaptation occupies the middle position. It links present regulation with long-term change, without reducing one to the other.
 
@@ -159,4 +134,4 @@ Adaptation is not defined by traits or outcomes, but by the ongoing reorganisati
 
 Living systems persist because they continuously reorganise themselves in response to change. This activity preserves viable trajectories and enables continuity through transformation.
 
-In APS, adaptation is agency extended through time—the ongoing reorganisation of constraint-closed organisation that allows life to sustain itself as the world changes.
+In APS, adaptation is agency extended through timeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe ongoing reorganisation of constraint-closed organisation that allows life to sustain itself as the world changes.

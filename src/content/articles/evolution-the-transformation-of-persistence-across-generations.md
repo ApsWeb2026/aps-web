@@ -1,36 +1,11 @@
 ---
-title: "Evolution — The Transformation of Persistence Across Generations  "
-slug: evolution
-abstract: Evolution is often defined as change in gene frequencies within
-  populations, but this view does not fully explain what is changing or why such
-  change is biologically meaningful. This article defines evolution in APS as
-  the historical transformation of viability-oriented, constraint-closed
-  organisation across generations. It clarifies how evolution presupposes
-  persistence, extends adaptation across generations, and operates on
-  organisational capacities rather than isolated traits. Evolution is thus
-  understood as the long-term transformation of persistence-sustaining
-  organisation.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: foundations
-keyPoints:
-  - Evolution is the long-term transformation of persistence-sustaining
-    organisation across generations.
-  - Evolution presupposes systems capable of maintaining organised persistence
-    and does not generate organisation from passive components.
-  - Evolution extends adaptation across generations through the transmission and
-    stabilisation of adaptive reorganisation.
-  - Natural selection operates on organised systems and explains patterns of
-    transformation, not the existence of organisation itself.
-relatedGlossaryTerms:
-  - Adaptation
-references: []
+slug: evolution-the-transformation-of-persistence-across-generations
+revised: 2026-04-03
 ---
+
 ## Introduction
 
-Living systems do not merely persist — they change across generations.
+Living systems do not merely persist ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â they change across generations.
 
 Forms diversify, structures transform, and new organisational patterns emerge over time. This long-term transformation is described as evolution.
 
@@ -122,9 +97,9 @@ This perspective allows evolution to be understood as the transformation of orga
 
 APS situates evolution within a broader temporal framework:
 
-- **Persistence** — immediate viability  
-- **Adaptation** — reorganisation across changing conditions  
-- **Evolution** — transformation across generations  
+- **Persistence** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â immediate viability  
+- **Adaptation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â reorganisation across changing conditions  
+- **Evolution** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â transformation across generations  
 
 Evolution occupies the long-term pole. It describes how patterns of organisation are transformed over historical time while remaining grounded in ongoing processes of persistence and adaptation.
 
@@ -151,4 +126,4 @@ Evolution is not merely change over time, but the transformation of persistence-
 
 Living systems endure across generations by transmitting and modifying the organisation through which they sustain themselves. This process produces the diversity of life while maintaining continuity of organisation.
 
-In APS, evolution is the historical transformation of viability-oriented, constraint-closed organisation—the long-term expression of persistence across generations.
+In APS, evolution is the historical transformation of viability-oriented, constraint-closed organisationÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe long-term expression of persistence across generations.

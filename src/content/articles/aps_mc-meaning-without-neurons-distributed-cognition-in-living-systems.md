@@ -1,24 +1,11 @@
 ---
-title: "APS_MC — Meaning Without Neurons: Distributed Cognition in Living Systems"
-slug: aps-mc-meaning-without-neurons
-abstract: APS_MC develops a programmatic account of cognition and meaning
-  grounded in viability-oriented, constraint-closed organisation, showing how
-  evaluation, sense-making, and functional responsiveness arise in living
-  systems without requiring neurons or representational mechanisms.
-status: evolving
-canonical: false
-canonicalLockDate: 2026-03-26
-revised: 2026-03-26
-cluster: cognition-mind
-keyPoints: []
-relatedGlossaryTerms: []
-relatedArticles: []
-researchStreams: []
-references: []
+slug: aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems
+revised: 2026-04-03
 ---
+
 ## Overview
 
-APS_MC (Meaning Without Neurons) is a research stream within the Agency–Process–Scale (APS) framework focused on the nature of cognition and meaning in living systems. It develops a unified account in which **cognition is grounded in viability-oriented organisation**, rather than in neural structures, representation, or subjective experience.
+APS_MC (Meaning Without Neurons) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the nature of cognition and meaning in living systems. It develops a unified account in which **cognition is grounded in viability-oriented organisation**, rather than in neural structures, representation, or subjective experience.
 
 This stream extends the APS claim that living systems are inherently **normatively organised**: differences in the environment matter insofar as they contribute to or undermine persistence. On this basis, cognition is understood as the **evaluation and modulation of such differences**, a capacity that is distributed across life rather than confined to organisms with nervous systems.
 
@@ -58,11 +45,11 @@ In APS, meaning is not an abstract or representational relation. It is grounded 
 
 A stimulus, condition, or event is meaningful for a system when it:
 
-- alters the system’s capacity to sustain persistence  
+- alters the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s capacity to sustain persistence  
 - is incorporated into its regulatory processes  
 - participates in its ongoing organisation  
 
-Meaning is thus **enacted**, not encoded. It arises through the system’s activity, not through internal representations of an external world.
+Meaning is thus **enacted**, not encoded. It arises through the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity, not through internal representations of an external world.
 
 ## Distributed Cognition Across Life
 

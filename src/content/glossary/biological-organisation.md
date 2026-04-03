@@ -1,21 +1,13 @@
 ---
 title: Biological Organisation
 slug: biological-organisation
-definition: "Biological organisation is viability-oriented, constraint-closed
-  organisation: the pattern of constraint relations through which a living
-  system sustains its own persistence. In APS, organisation is not static
-  structure but the coordinated arrangement of processes and constraints that
-  actively maintain the conditions under which the system can continue to exist.
-  Organisation therefore consists in the dynamic configuration of constraints
-  that channel activity into coherent, self-maintaining form."
-inBrief: Biological organisation is the constraint-structured pattern through
-  which living systems sustain their persistence.
+definition: "Biological organisation in APS is the coordinated arrangement of processes and constraints through which living systems sustain their own viability."
+inBrief: "Biological organisation is the coordinated activity through which living systems sustain viability."
 status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-04-03
 cluster: foundations
+revised: 2026-04-03
 ---
+
 ## Conventional framing
 
 Organisation is often treated as the arrangement or structure of parts within a system, such as anatomical structure, cellular composition, or network architecture. In this view, organisation is typically described in static or compositional terms, with emphasis on how components are assembled or arranged.
@@ -34,4 +26,4 @@ This organisation is intrinsically normative: because persistence depends on the
 
 ## Key Point
 
-Biological organisation is viability-oriented, constraint-closed organisation—the pattern of relations through which living systems sustain their persistence.
+Biological organisation is viability-oriented, constraint-closed organisationÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe pattern of relations through which living systems sustain their persistence.

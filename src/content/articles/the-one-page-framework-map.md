@@ -1,33 +1,13 @@
 ---
-title: The One-Page Framework Map
-slug: aps-one-page-framework-map
-abstract: A concise overview of the Agency–Process–Scale (APS) framework,
-  presenting its core concepts and their integration as a unified account of
-  biological organisation, persistence, and evolution.
-status: evolving
-canonical: false
-canonicalLockDate: ""
-revised: 2026-03-18
-cluster: foundations
-keyPoints:
-  - "Life is viability-oriented agency: the organised activity through which
-    systems sustain their own persistence."
-  - Agency, process, and scale are co-constitutive dimensions of biological
-    organisation.
-  - Biological explanation follows a minimal grammar linking agency,
-    normativity, function, adaptation, and evolution.
-  - Evolution transforms persistence-sustaining organisation across generations.
-relatedGlossaryTerms:
-  - biological-agency
-  - process
-  - scale
-references: []
+slug: the-one-page-framework-map
+revised: 2026-04-03
 ---
-## The Agency–Process–Scale Architecture of Life
+
+## The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale Architecture of Life
 
 ### 1. Definition of Life (APS)
 
-Life is the organisation of biological agency—the viability-oriented, self-evaluating activity through which a system sustains its own persistence.
+Life is the organisation of biological agencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe viability-oriented, self-evaluating activity through which a system sustains its own persistence.
 
 Living systems differ from most physical systems in a crucial way: their activity is organised around maintaining the conditions required for their continued existence.
 
@@ -47,7 +27,7 @@ These are not independent components but three perspectives on the same organisa
 
 The APS framework clarifies how key biological concepts relate to one another:
 
-**Agency → Normativity → Function → Adaptation → Evolution**
+**Agency ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Normativity ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Function ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Adaptation ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Evolution**
 
 | Concept | Meaning |
 | --- | --- |
@@ -63,7 +43,7 @@ This chain represents the minimal grammar of biological explanation.
 
 APS clarifies the organisational conditions required for evolutionary processes:
 
-**Viability-oriented agency → Organised persistence → Reproduction → Natural selection → Evolution**
+**Viability-oriented agency ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Organised persistence ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Reproduction ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Natural selection ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Evolution**
 
 - Agency sustains viability
 - Persistence maintains organisation through time
@@ -96,10 +76,10 @@ In this framework, agency is enacted through process across scale; organised per
 
 APS connects multiple domains of biological research:
 
-- **Molecular biology** — Processes sustaining cellular viability  
-- **Physiology** — Regulation of organismal persistence  
-- **Ecology** — Organism–environment interactions affecting viability  
-- **Evolution** — Historical transformation of persistence strategies  
+- **Molecular biology** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Processes sustaining cellular viability  
+- **Physiology** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Regulation of organismal persistence  
+- **Ecology** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â OrganismÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“environment interactions affecting viability  
+- **Evolution** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Historical transformation of persistence strategies  
 
 Rather than separate explanatory frameworks, these become different perspectives on the same organisational phenomenon.
 
@@ -107,11 +87,11 @@ Rather than separate explanatory frameworks, these become different perspectives
 
 Biological theory has progressively incorporated phenomena once treated as metaphysical:
 
-- **Aristotle** — purpose in living systems
-- **Scientific revolution** — mechanistic biology
-- **Darwin** — historical explanation of adaptation
-- **Systems biology** — organised regulation
-- **APS** — naturalised biological agency
+- **Aristotle** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â purpose in living systems
+- **Scientific revolution** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â mechanistic biology
+- **Darwin** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â historical explanation of adaptation
+- **Systems biology** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â organised regulation
+- **APS** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â naturalised biological agency
 
 APS continues this trajectory by providing a naturalised account of agency and normativity in biology.
 
@@ -139,5 +119,5 @@ In APS, life is viability-oriented agency: the organised activity through which 
 APS concepts should not be interpreted in isolation. Terms such as agency, process, and normativity are defined in relation to one another within a constraint-closed conceptual structure.
 
 For an explanation of how APS definitions form an organised system, see:
-→ APS as an Organised Conceptual System — Why Definitions Form a System
+ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ APS as an Organised Conceptual System ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Why Definitions Form a System
 

@@ -1,32 +1,8 @@
 ---
-title: APS as an Organised Conceptual System — Why Definitions Form a System
-slug: aps-organised-conceptual-system
-abstract: APS treats definitions not as independent descriptions but as
-  interdependent components of an organised explanatory system. This article
-  explains how definitions function as conceptual constraints, how their
-  interdependence produces a form of conceptual closure, and why changes
-  propagate across the framework. It clarifies the distinction between
-  explanatory precision and descriptive flexibility, and shows how APS maintains
-  coherence as a system rather than a collection of loosely connected ideas. The
-  result is a framework that exemplifies the organised structure it uses to
-  explain living systems.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: conceptual-foundations
-keyPoints:
-  - APS definitions function as interdependent constraints within a coherent
-    explanatory system.
-  - Conceptual closure arises when definitions mutually constrain and support
-    one another, stabilising explanation.
-  - Changes to definitions propagate across the framework because concepts are
-    structurally interconnected.
-  - APS distinguishes between explanatory precision and descriptive flexibility
-    to preserve coherence without restricting language.
-relatedGlossaryTerms: []
-references: []
+slug: aps-as-an-organised-conceptual-system-why-definitions-form-a-system
+revised: 2026-04-03
 ---
+
 ## Introduction
 
 Scientific frameworks are often presented as collections of concepts, models, and explanations. Terms are introduced, definitions are offered, and relationships are implied. Yet in many cases, these elements remain only loosely connected, allowing meanings to shift across contexts.
@@ -39,7 +15,7 @@ In APS, definitions are not independent descriptions but components of an organi
 
 ## Beyond Isolated Definitions
 
-In much of biology, key terms—such as life, function, adaptation, or information—are used with varying meanings across different contexts. This flexibility can be useful in informal discussion, but it introduces ambiguity in explanation.
+In much of biology, key termsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âsuch as life, function, adaptation, or informationÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âare used with varying meanings across different contexts. This flexibility can be useful in informal discussion, but it introduces ambiguity in explanation.
 
 When definitions are not tightly connected, explanations can shift without notice. Different assumptions may be introduced implicitly, leading to inconsistencies that are difficult to detect.
 
@@ -75,7 +51,7 @@ This can be understood as conceptual closure: a system in which definitions cons
 
 Because APS definitions are interdependent, changes do not remain local.
 
-If a definition is modified—especially at the level of foundational concepts—this can affect related terms throughout the framework. Maintaining coherence therefore requires that changes be evaluated in relation to the system as a whole.
+If a definition is modifiedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âespecially at the level of foundational conceptsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthis can affect related terms throughout the framework. Maintaining coherence therefore requires that changes be evaluated in relation to the system as a whole.
 
 This is not a weakness, but a consequence of integration. A tightly organised system requires that its components remain aligned.
 

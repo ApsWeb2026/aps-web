@@ -1,28 +1,8 @@
 ---
-title: Biological Explanation — What Needs to Be Explained
-slug: biological-explanation
-abstract: Biology explains how living systems function, persist, and evolve. Yet
-  explanations often focus on mechanisms, components, or statistical patterns
-  without clarifying what makes biological systems distinct. The APS framework
-  reframes biological explanation around viability-oriented organisation,
-  identifying what must be explained for an account to be biologically adequate.
-status: canonical
-canonical: false
-canonicalLockDate: 2026-03-20
-revised: 2026-03-20
-cluster: foundations
-keyPoints:
-  - Biological explanation must account for viability-oriented organisation
-  - Mechanistic and statistical models presuppose organised persistence
-  - Normativity, function, and regulation arise from biological agency
-  - APS clarifies the explanatory target of biology
-relatedGlossaryTerms:
-  - biological-agency
-  - normativity
-  - function
-  - viability
-references: []
+slug: biological-explanation-what-needs-to-be-explained
+revised: 2026-04-03
 ---
+
 ## What Does Biology Explain?
 
 Biology is often described as the science of life. But this leaves open a deeper question: what does biological explanation actually explain?
@@ -71,7 +51,7 @@ Living systems are organised around maintaining their own viability. Their proce
 
 This organisation is constraint-closed: the processes of the system contribute to maintaining the constraints that enable those very processes to occur.
 
-Biological explanation must therefore account for this form of organisation. It must explain how a system’s activity contributes to its own persistence, and how this contribution is maintained under changing conditions.
+Biological explanation must therefore account for this form of organisation. It must explain how a systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity contributes to its own persistence, and how this contribution is maintained under changing conditions.
 
 Without this, explanations remain partial. They describe what happens, but not what makes those processes biologically meaningful.
 
@@ -87,7 +67,7 @@ Some states support persistence; others undermine it. This distinction is not im
 
 As a result, biological explanations routinely invoke notions such as function, regulation, success, failure, and malfunction. These are not metaphorical. They reflect real features of systems whose activity is oriented toward continued viability.
 
-To explain a biological process is therefore to explain how it contributes—successfully or unsuccessfully—to the persistence of the system.
+To explain a biological process is therefore to explain how it contributesÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âsuccessfully or unsuccessfullyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âto the persistence of the system.
 
 ---
 

@@ -1,25 +1,13 @@
 ---
 title: Scale
 slug: scale
-definition: Scale in APS is the spatial-temporal organisation of
-  viability-oriented, constraint-closed activity through which processes are
-  coordinated across interacting domains. It describes how activity is
-  distributed and integrated such that persistence is sustained through
-  coordination across space and time. Scale is not a hierarchy of levels or a
-  ranking of causal importance, but the organisation within which living systems
-  sustain and reorganise their own viability.
-inBrief: Scale is the spatial and temporal extent across which living systems
-  coordinate activity to sustain and reorganise their persistence.
+definition: "Scale is the spatial and temporal extent and resolution at which biological processes unfold and interact."
+inBrief: "Scale is the extent and resolution of living processes."
 status: canonical
-canonical: true
-canonicalLockDate: 2026-03-18
-revised: 2026-04-03
 cluster: foundations
-seeAlso:
-  - process
-  - biological agency
-  - constraint-closure
+revised: 2026-04-03
 ---
+
 ## Conventional framing
 
 Scale is often treated as a matter of size, level, or resolution, with biological organisation described in terms of discrete hierarchical levels such as genes, cells, organisms, and populations. In such accounts, causation is frequently understood as flowing between these levels, often privileging one level as more fundamental.

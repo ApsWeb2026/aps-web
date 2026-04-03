@@ -1,12 +1,10 @@
 ---
-title: Understanding APS — The Structure of the Framework
-slug: understanding-aps
+title: Understanding APS - The Structure of the Framework
+slug: understanding-aps-the-structure-of-the-framework
 status: canonical
-canonical: true
-canonicalLockDate: 2026-03-20
-revised: 2026-03-28
-relatedArticles: []
+revised: 2026-04-03
 ---
+
 The APS Framework Website is organised as a connected conceptual system rather than as a collection of isolated pages. Its structure is designed to help readers move between definitions, explanations, and thematic developments while remaining anchored in a consistent explanatory framework.
 
 The site begins with the Orientation layer. These pages introduce APS, explain its central concerns, and help readers understand how the website is organised. They provide the entry point for readers who are new to the framework and establish the main lines of navigation.
@@ -19,4 +17,4 @@ Readers do not need to move through the APS Framework in a fixed order. The site
 
 The overall structure of this site reflects the structure of APS itself: concepts are interconnected, explanatory order matters, and clarity depends on the relation between parts rather than on isolated statements. The site is therefore designed not only to present the framework, but to embody its organisation.
 
-[[box:aps-knowledge-organisation]]
+[[box:aps-box-how-aps-organises-knowledge]]

@@ -1,5 +1,10 @@
 ---
-title: APS Box — Borderline Cases
+slug: borderline-cases-viruses-sterile-organisms-artificial-systems
+revised: 2026-04-03
+---
+
+---
+title: APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Borderline Cases
 slug: borderline-cases
 status: canonical
 canonical: true
@@ -16,4 +21,4 @@ Artificial systems present a different case. Some exhibit complex or adaptive be
 
 Borderline cases therefore clarify the boundary of life by revealing where viability-oriented organisation is present, absent, or dependent, rather than by exposing a failure of definition.
 
-**Key Point.** Borderline cases do not invalidate the definition of life—they test whether viability-oriented organisation is fully realised, absent, or dependent.
+**Key Point.** Borderline cases do not invalidate the definition of lifeÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthey test whether viability-oriented organisation is fully realised, absent, or dependent.

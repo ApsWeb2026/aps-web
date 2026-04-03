@@ -1,37 +1,11 @@
 ---
-title: Biological Agency — The Activity of Self-Maintenance
-slug: biological-agency
-abstract: Biological systems do not merely persist—they actively sustain
-  themselves. This article introduces biological agency as the
-  viability-oriented, self-regulating activity through which living systems
-  maintain and reorganise the conditions of their own persistence. It shows how
-  agency arises from constraint-closed organisation, gives rise to biological
-  normativity, and forms one dimension of the co-constitutive triad of agency,
-  process, and scale within the APS framework.
-status: canonical
-canonical: false
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: foundations
-keyPoints:
-  - Biological agency is the activity through which living systems sustain and
-    regulate their own persistence.
-  - Agency is grounded in constraint-closed organisation and expresses
-    viability-oriented normativity.
-  - "Life and agency describe the same organisation from complementary
-    perspectives: condition and activity."
-  - In APS, agency is one dimension of the co-constitutive triad of agency,
-    process, and scale.
-relatedGlossaryTerms:
-  - Process
-  - Scale
-  - Normativity
-  - Constraint-closure
-references: []
+slug: biological-agency-the-activity-of-self-maintenance
+revised: 2026-04-03
 ---
+
 ## Introduction
 
-Living systems do not merely exist—they actively sustain themselves.
+Living systems do not merely existÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey actively sustain themselves.
 
 Cells regulate their internal conditions, organisms respond to changing environments, and living systems at all scales maintain the organisation required for their continued existence. This activity is not incidental. It is constitutive of life itself.
 
@@ -59,7 +33,7 @@ In APS, biological agency is the viability-oriented, self-regulating, viability-
 
 This means that living systems do not simply undergo change. They actively regulate the conditions under which they can continue to exist.
 
-Agency is therefore not a structure, property, or capacity. It is an ongoing activity—what living systems do to keep going.
+Agency is therefore not a structure, property, or capacity. It is an ongoing activityÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âwhat living systems do to keep going.
 
 ---
 
@@ -84,7 +58,7 @@ Through this activity, systems differentiate changes relative to viability and a
 
 ---
 
-## Agency, Normativity, and “What Matters”
+## Agency, Normativity, and ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œWhat MattersÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
 
 Because living systems must sustain their own organisation, not all states are equivalent. Some support persistence, while others undermine it.
 
@@ -98,9 +72,9 @@ Normativity is therefore not an added feature. It is intrinsic to agency: activi
 
 In APS, agency is one dimension of a triad:
 
-- **Agency** — viability-oriented regulation  
-- **Process** — the dynamic organisation of activity through time  
-- **Scale** — the coordination of activity across spatial and temporal domains  
+- **Agency** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â viability-oriented regulation  
+- **Process** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the dynamic organisation of activity through time  
+- **Scale** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the coordination of activity across spatial and temporal domains  
 
 These are analytically distinguishable but ontologically co-constitutive. Each describes the same viability-oriented, constraint-closed organisation from a different perspective.
 
@@ -155,6 +129,6 @@ By identifying agency as viability-oriented activity, APS provides a naturalised
 
 Biological agency is the activity through which life exists.
 
-Living systems persist because they actively sustain and regulate the conditions required for their own existence. This activity is not an additional feature of life—it is what life is.
+Living systems persist because they actively sustain and regulate the conditions required for their own existence. This activity is not an additional feature of lifeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is what life is.
 
 In APS, agency makes explicit the viability-oriented organisation that defines living systems. It reveals how persistence becomes an active, self-maintaining achievement enacted through process and coordinated across scale.

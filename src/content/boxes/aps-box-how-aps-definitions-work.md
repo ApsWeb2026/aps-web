@@ -1,14 +1,21 @@
 ---
-title: APS Box — How APS Definitions Work
+title: APS Box - How APS Definitions Work
+slug: aps-box-how-aps-definitions-work
+status: canonical
+revised: 2026-04-03
+---
+
+---
+title: APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How APS Definitions Work
 slug: aps-box-definitions-system
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-03
 revised: 2026-04-03
 ---
-**APS Box — How APS Definitions Work**
+**APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How APS Definitions Work**
 
-APS definitions do not function independently. Each concept—such as agency, process, scale, organisation, and normativity—derives its meaning from its role within a unified explanatory system.
+APS definitions do not function independently. Each conceptÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âsuch as agency, process, scale, organisation, and normativityÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âderives its meaning from its role within a unified explanatory system.
 
 Because of this:
 - definitions constrain one another  

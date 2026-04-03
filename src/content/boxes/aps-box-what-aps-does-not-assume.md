@@ -1,12 +1,17 @@
 ---
-title: APS Box — What APS Does Not Assume
+slug: aps-box-what-aps-does-not-assume
+revised: 2026-04-03
+---
+
+---
+title: APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â What APS Does Not Assume
 slug: aps-box-what-aps-does-not-assume
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-03
 revised: 2026-04-03
 ---
-**APS Box — What APS Does Not Assume**
+**APS Box ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â What APS Does Not Assume**
 
 APS introduces a specific explanatory grammar for biology. It does not rely on a number of common assumptions that are often taken for granted in other frameworks:
 
@@ -17,7 +22,7 @@ APS introduces a specific explanatory grammar for biology. It does not rely on a
   Genes and information are treated as components within organised systems, not as the defining basis of life.
 
 - **No hierarchy of fixed levels of organisation**  
-  APS does not assume discrete levels (e.g. gene → cell → organism) as ontological layers; it works with continuous, interacting scales.
+  APS does not assume discrete levels (e.g. gene ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ cell ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ organism) as ontological layers; it works with continuous, interacting scales.
 
 - **No requirement for representation or internal models**  
   Basic biological regulation does not depend on representational content; viability-oriented modulation precedes representation.

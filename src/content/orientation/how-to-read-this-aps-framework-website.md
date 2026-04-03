@@ -1,13 +1,10 @@
 ---
 title: How to Read this APS Framework Website
-slug: how-to-read
+slug: how-to-read-this-aps-framework-website
 status: canonical
-canonical: true
-canonicalLockDate: 2026-03-20
-revised: 2026-03-28
-relatedArticles:
-  - understanding-aps
+revised: 2026-04-03
 ---
+
 ## How to Read APS
 
 The APS Framework is structured as a connected system of concepts rather than a sequence of standalone articles. The site is designed to be explored in multiple ways, depending on whether you are seeking an overview, a definition, or a deeper explanation.
@@ -24,9 +21,9 @@ APS is not intended to be read strictly from beginning to end. Readers can move 
 
 The most effective way to read the APS Framework is to move between definitions and explanations. The glossary provides conceptual precision, while articles and boxes show how those concepts function within biological explanation. Together, they form a unified framework for understanding life as organised, viability-oriented activity.
 
-[[box:aps-knowledge-organisation]]
+[[box:aps-box-how-aps-organises-knowledge]]
 
 ## Key Point
 
-APS is best understood by moving between definitions and explanations—using the glossary for precision and articles for application within a connected, non-hierarchical framework.
+APS is best understood by moving between definitions and explanationsÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Âusing the glossary for precision and articles for application within a connected, non-hierarchical framework.
 

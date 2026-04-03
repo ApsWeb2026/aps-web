@@ -1,36 +1,13 @@
 ---
-title: Homeorhesis — The Maintenance of Living Trajectories
-slug: homeorhesis
-abstract: Homeorhesis describes how living systems maintain their organisation
-  through change rather than by holding fixed states. This article defines
-  homeorhesis in APS as the regulation of viability-oriented, constraint-closed
-  organisation as a trajectory. It contrasts homeorhesis with homeostasis,
-  clarifies its grounding in biological agency, and distinguishes it from
-  adaptation. Homeorhesis is thus understood as the temporal mode of persistence
-  through which living systems sustain coherent organisation under changing
-  conditions.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-21
-revised: 2026-03-21
-cluster: foundations
-keyPoints:
-  - Homeorhesis is the regulation of living systems as trajectories rather than
-    fixed states.
-  - It describes how viability-oriented organisation is maintained through
-    ongoing reorganisation.
-  - Homeorhesis is grounded in constraint-closed organisation and enacted
-    through biological agency.
-  - It provides the temporal mode through which persistence is sustained across
-    change.
-relatedGlossaryTerms: []
-references: []
+slug: homeorhesis-the-maintenance-of-living-trajectories
+revised: 2026-04-03
 ---
+
 ## Introduction
 
 Living systems persist in a changing world.
 
-Conditions fluctuate, internal states vary, and environments shift continuously. Despite this, living systems maintain their organisation over time. They do not remain fixed—they remain coherent.
+Conditions fluctuate, internal states vary, and environments shift continuously. Despite this, living systems maintain their organisation over time. They do not remain fixedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey remain coherent.
 
 This form of persistence cannot be understood as the maintenance of a constant state. It requires a different concept: homeorhesis.
 
@@ -93,7 +70,7 @@ This makes homeorhesis an intrinsic feature of living systems, not an external d
 
 Homeorhesis is enacted through biological agency.
 
-Living systems do not passively follow trajectories—they actively maintain them. Through agency, systems regulate their own organisation in relation to viability.
+Living systems do not passively follow trajectoriesÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey actively maintain them. Through agency, systems regulate their own organisation in relation to viability.
 
 Homeorhesis therefore describes the temporal mode through which agency sustains coherent organisation across change.
 
@@ -142,4 +119,4 @@ Living systems persist not by remaining the same, but by remaining organised thr
 
 Homeorhesis defines this form of persistence: the maintenance of viable trajectories through ongoing reorganisation.
 
-In APS, homeorhesis is the temporal mode of persistence—the way life sustains itself as conditions change.
+In APS, homeorhesis is the temporal mode of persistenceÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe way life sustains itself as conditions change.

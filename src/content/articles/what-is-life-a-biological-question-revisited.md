@@ -1,25 +1,9 @@
 ---
-title: What is Life?— A Biological Question Revisited
-slug: what-is-life
-abstract: Biology explains how living systems persist and change, yet still
-  lacks a widely agreed definition of life itself. The APS framework clarifies
-  life as viability-oriented organisation—an ongoing activity through which
-  systems sustain their own persistence—providing a unified account that
-  integrates physiology, development, and evolution.
-status: evolving
-canonical: false
-revised: 2026-03-21
-cluster: foundations
-keyPoints: []
-relatedGlossaryTerms:
-  - biological-agency
-  - normativity
-  - process
-  - scale
-  - life
-references: []
+slug: what-is-life-a-biological-question-revisited
+revised: 2026-04-03
 ---
-## Why “What Is Life?” Is Still an Open Question
+
+## Why ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œWhat Is Life?ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Is Still an Open Question
 
 At first glance, the question *What is life?* seems straightforward. We recognise living things easily: plants grow, animals move, microbes reproduce. Biology has mapped genomes, traced metabolic pathways, and explained evolution in extraordinary detail.
 
@@ -45,7 +29,7 @@ Traditional definitions of life often rely on characteristic features:
 - response to stimuli  
 - evolution by natural selection  
 
-These features are undeniably important. But none of them—alone or combined—explains why a system is alive rather than merely complex.
+These features are undeniably important. But none of themÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âalone or combinedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âexplains why a system is alive rather than merely complex.
 
 A fire grows, spreads, and consumes energy, but it is not alive. Crystals grow and maintain structure, but lack regulation. Machines process information and maintain stability, but only under external control.
 
@@ -77,7 +61,7 @@ Living systems are not passive. They regulate, repair, and respond in ways organ
 
 This is captured by the concept of biological agency.
 
-In biology, agency does not imply intention or consciousness. It means that a system’s activity is organised around maintaining its own viability. Some states matter more than others because the system’s continued existence is at stake.
+In biology, agency does not imply intention or consciousness. It means that a systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity is organised around maintaining its own viability. Some states matter more than others because the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s continued existence is at stake.
 
 Agency explains why malfunction is meaningful, regulation is intrinsic, and success and failure are biologically real. Without agency, biological processes would be indistinguishable from ordinary physical flows.
 
@@ -91,7 +75,7 @@ Agency exists only insofar as activity continues.
 
 Living systems are maintained through ongoing processes of metabolism, regulation, development, interaction, and repair. These processes are not fixed structures but continuous activities that must be sustained.
 
-Life therefore cannot be reduced to a configuration of matter. It is an ongoing process of organised activity. When that activity stops, life ends—even if the structure remains.
+Life therefore cannot be reduced to a configuration of matter. It is an ongoing process of organised activity. When that activity stops, life endsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âeven if the structure remains.
 
 ---
 
@@ -109,7 +93,7 @@ Scale explains how life remains stable without being static, and why short-term 
 
 Living activity is not random. It is oriented.
 
-Processes in living systems are organised around maintaining viability—the conditions required for continued existence. This orientation arises from biological normativity: the intrinsic distinction between what supports or undermines persistence.
+Processes in living systems are organised around maintaining viabilityÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe conditions required for continued existence. This orientation arises from biological normativity: the intrinsic distinction between what supports or undermines persistence.
 
 Purpose does not imply foresight. It expresses the fact that some outcomes support persistence while others undermine it.
 
@@ -139,7 +123,7 @@ Life is the organisation of viability-oriented agency, enacted through ongoing p
 
 This definition avoids trait lists, avoids appeals to intention or design, integrates physiology, development, and evolution, and explains normativity, function, and purpose.
 
-Life is not a substance or a single mechanism. It is a mode of organisation—a way in which matter and energy are coordinated to sustain their own persistence.
+Life is not a substance or a single mechanism. It is a mode of organisationÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âa way in which matter and energy are coordinated to sustain their own persistence.
 
 ---
 
@@ -173,7 +157,7 @@ Most importantly, it makes explicit what biological explanation already presuppo
 
 Biology increasingly moves away from static, component-based views toward dynamic, organisational ones. Systems biology, developmental biology, theoretical biology, and philosophy all reflect this shift.
 
-The APS framework articulates this convergence in a unified explanatory grammar. It does not replace biology—it clarifies the conceptual structure on which biological explanation already rests.
+The APS framework articulates this convergence in a unified explanatory grammar. It does not replace biologyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit clarifies the conceptual structure on which biological explanation already rests.
 
 
 

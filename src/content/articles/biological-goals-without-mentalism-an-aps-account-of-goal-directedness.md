@@ -1,46 +1,11 @@
 ---
-title: Biological Goals Without Mentalism — An APS Account of Goal-Directedness
-slug: biological-goals-without-mentalism
-abstract: Biological systems are often described as goal-directed, from cellular
-  repair processes to organismal behaviour. Contemporary frameworks attempt to
-  formalise this notion as an empirically testable property of organised
-  systems. However, such approaches risk importing mentalistic assumptions or
-  extending goal language beyond its explanatory scope. The Agency–Process–Scale
-  (APS) framework resolves this by reinterpreting goal-directedness in strictly
-  biological terms. In APS, goal-directedness is not the pursuit of internally
-  represented ends but the viability-oriented organisation of activity within
-  constraint-closed systems. More precisely, it describes the regulation of
-  activity through which biological purpose—orientation toward continued
-  viability—is enacted and realised in function. This article clarifies how
-  biological “goals” can be understood without mentalism, grounding teleological
-  language in the dynamics of persistence.
-status: canonical
-canonical: true
-canonicalLockDate: 2026-03-28
-revised: 2026-03-28
-cluster: cognition-mind
-keyPoints:
-  - "Goal-directedness in biology does not require representation, intention, or
-    cognition. "
-  - "In APS, “goals” correspond to viability conditions, not internal targets. "
-  - "Biological purpose is the system-level orientation toward viability;
-    function is its mechanistic realisation. "
-  - "Biological systems regulate activity through constraint-closed
-    organisation, not goal pursuit. "
-  - APS provides a diagnostic framework for identifying genuine goal-directed
-    organisation
-relatedGlossaryTerms:
-  - Constraint Closure
-  - Normativity
-  - Function
-  - Purpose
-relatedArticles: []
-researchStreams: []
-references: []
+slug: biological-goals-without-mentalism-an-aps-account-of-goal-directedness
+revised: 2026-04-03
 ---
+
 ## The Problem of Biological Goals
 
-Biological systems are described as goal-directed: cells repair damage, organisms acquire resources, and development produces organised form. These descriptions capture real regularities but introduce a conceptual problem: the language of “goals” implies intention, representation, or foresight.
+Biological systems are described as goal-directed: cells repair damage, organisms acquire resources, and development produces organised form. These descriptions capture real regularities but introduce a conceptual problem: the language of ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“goalsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â implies intention, representation, or foresight.
 
 Attempts to formalise goal-directedness treat it as an empirically testable property of organised systems. However, these approaches often retain assumptions about internal targets, optimisation, or information processing that blur the distinction between biological organisation and cognitive representation.
 
@@ -57,8 +22,8 @@ Goal-directedness is conventionally understood as:
 
 This framing generates two persistent problems:
 
-1. **Mentalistic drift** — goals are treated as internal representations  
-2. **Conceptual expansion** — goal-directedness is attributed without clear criteria  
+1. **Mentalistic drift** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â goals are treated as internal representations  
+2. **Conceptual expansion** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â goal-directedness is attributed without clear criteria  
 
 The result is either metaphorical usage or loss of explanatory constraint.
 
@@ -67,11 +32,11 @@ The result is either metaphorical usage or loss of explanatory constraint.
 
 APS reinterprets goal-directedness without invoking representation or intention.
 
-Living systems are viability-oriented, constraint-closed organisations whose activity is continuously modulated relative to conditions of persistence. Deviations from viability-relevant states are normatively significant within the system’s own organisation.
+Living systems are viability-oriented, constraint-closed organisations whose activity is continuously modulated relative to conditions of persistence. Deviations from viability-relevant states are normatively significant within the systemÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s own organisation.
 
 From this perspective:
 
-> **Goal-directedness describes the organised regulation of activity through which a system’s biological purpose—its orientation toward continued viability—is enacted.\*\*
+> **Goal-directedness describes the organised regulation of activity through which a systemÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s biological purposeÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âits orientation toward continued viabilityÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âis enacted.\*\*
 
 This purpose is realised through function: the mechanistic operations by which viability-oriented organisation is maintained.
 
@@ -91,12 +56,12 @@ APS replaces goal language with an organisational account:
 
 This reframing preserves explanatory precision while removing ambiguity. Biological systems do not target abstract endpoints; they remain within viability-supporting regimes through continuous regulation.
 
-In APS terms, what is described as a “goal” corresponds to the conditions that biological purpose maintains and that function operationalises.
+In APS terms, what is described as a ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“goalÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â corresponds to the conditions that biological purpose maintains and that function operationalises.
 
 
 ## Normativity Without Mentalism
 
-In biological systems, some states sustain persistence while others undermine it. This asymmetry arises from the system’s organisation and does not depend on subjective evaluation.
+In biological systems, some states sustain persistence while others undermine it. This asymmetry arises from the systemÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s organisation and does not depend on subjective evaluation.
 
 To say that something matters to a system is to say that it makes a difference to viability.
 
@@ -110,9 +75,9 @@ APS provides operational criteria for identifying goal-directed organisation.
 
 A system exhibits goal-directedness when it demonstrates:
 
-* **Viability Gradient (VG)** — sensitivity to conditions affecting persistence  
-* **Normativity Gradient (NG)** — differential evaluation relative to viability  
-* **Cognitive Integration (CI)** — coordinated regulation across processes  
+* **Viability Gradient (VG)** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â sensitivity to conditions affecting persistence  
+* **Normativity Gradient (NG)** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â differential evaluation relative to viability  
+* **Cognitive Integration (CI)** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â coordinated regulation across processes  
 
 These criteria distinguish systems with endogenous organisation from those whose behaviour is externally imposed. Goal-directedness is therefore conditional on constraint-closed, viability-oriented organisation.
 
@@ -135,7 +100,7 @@ APS naturalises teleological language.
 
 Goal-directedness is not orientation toward future endpoints but the present-tense organisation of activity through which biological purpose is enacted and realised in function. Teleology is thus grounded in biological process rather than intention.
 
-[[box:what-aps-means-by-purpose]] 
+[[box:aps-box-what-aps-means-by-purpose]] 
 [[box:from-viability-to-meaning]] 
 
 

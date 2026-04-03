@@ -1,8 +1,8 @@
 ---
-title: Temporal Architecture of Persistence, Inheritance, and Transformation
 slug: temporal-architecture-of-persistence-inheritance-and-transformation
 revised: 2026-04-03
 ---
+
 ---
 title: Temporal Architecture of Persistence, Inheritance, and Transformation
 slug: aps-f1-temporal-architecture
@@ -47,11 +47,11 @@ This figure illustrates the temporal organisation of viability-oriented biologic
 
 This diagram unifies the five APS temporal concepts:
 
-- **Agency** â€” Present activity  
-- **Persistence** â€” Continuity through time  
-- **Adaptation** â€” Reorganisation under change  
-- **Inheritance** â€” Generational continuity  
-- **Evolution** â€” Historical transformation  
+- **Agency** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Present activity  
+- **Persistence** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Continuity through time  
+- **Adaptation** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Reorganisation under change  
+- **Inheritance** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Generational continuity  
+- **Evolution** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Historical transformation  
 
 ## Temporal architecture
 
@@ -59,13 +59,13 @@ The architecture can be expressed as:
 
 
 agency
-â†“
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ
 persistence
-â†“
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ
 adaptation
-â†“
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ
 inheritance
-â†“
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ
 transformation
-â†“
+ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ
 evolution

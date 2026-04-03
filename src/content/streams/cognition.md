@@ -1,14 +1,10 @@
 ---
-title: "Cognition & Enactivism"
-slug: "cognition"
-overview: "This research stream explores the intersection of APS with cognitive science, enactivism, 4E cognition, and philosophy of mind. It examines how processual and organisational approaches to agency can inform our understanding of minds, consciousness, and cognitive systems."
-status: "evolving"
-revised: "2026-02-15"
-cluster: "cognition-mind"
-associatedGlossaryTerms:
-  - "biological-agency"
-  - "function"
-  - "process"
+title: Cognition
+slug: cognition
+overview: "This research stream explores cognition as a biologically grounded, viability-oriented process distributed across living systems."
+status: canonical
+cluster: cognition-mind
+revised: 2026-04-03
 ---
 
 The cognition research stream brings the APS framework into dialogue with contemporary cognitive science, particularly the enactivist and embodied cognition traditions. If agency is grounded in the self-maintaining organisation of living systems, what does this imply for our understanding of cognition?

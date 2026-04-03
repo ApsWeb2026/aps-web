@@ -1,29 +1,8 @@
 ---
-title: Biology — What the Science of Life Explains
-slug: biology
-abstract: Biology is the science of living systems, concerned with how they
-  persist, how they change through time, and how these processes can be
-  explained. The APS framework clarifies biology as the study of
-  viability-oriented organisation and its historical transformation.
-status: evolving
-canonical: false
-revised: 2026-03-19
-cluster: foundations
-keyPoints:
-  - Biology explains how living systems sustain their own persistence and how
-    this organisation changes through time.
-  - Life consists in organised, viability-oriented activity rather than static
-    structure.
-  - Evolution is the historical transformation of persistence-sustaining
-    organisation.
-  - APS clarifies biology as the study of viability-oriented organisation across
-    process and scale.
-relatedGlossaryTerms:
-  - biological-agency
-  - process
-  - scale
-references: []
+slug: biology-what-the-science-of-life-explains
+revised: 2026-04-03
 ---
+
 ## What the Science of Life Explains
 
 Biology is the science of living systems. Its central task is to understand how living systems persist, how they change through time, and how these processes can be explained.
@@ -48,7 +27,7 @@ This statement captures the basic structure of biological understanding. Living 
 
 A living system is a system that continually maintains the conditions required for its own persistence. Cells regulate metabolism, organisms regulate physiology and behaviour, and ecosystems regulate networks of interaction.
 
-This persistence is not passive. It requires continuous activity—metabolic processes, regulatory mechanisms, development, and environmental interaction.
+This persistence is not passive. It requires continuous activityÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âmetabolic processes, regulatory mechanisms, development, and environmental interaction.
 
 Living systems therefore exist as organised processes rather than static structures. Understanding this organisation is the first task of biology.
 
@@ -76,9 +55,9 @@ Together, these domains reveal life as a dynamic interplay of organisation, acti
 
 ## The APS Perspective
 
-The Agency–Process–Scale (APS) framework clarifies how these aspects of biology fit together.
+The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework clarifies how these aspects of biology fit together.
 
-APS emphasises that living systems are viability-oriented organisations: systems whose processes collectively maintain the conditions required for continued existence. This activity constitutes biological agency—the capacity of living systems to regulate their own persistence.
+APS emphasises that living systems are viability-oriented organisations: systems whose processes collectively maintain the conditions required for continued existence. This activity constitutes biological agencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe capacity of living systems to regulate their own persistence.
 
 From this perspective:
 
