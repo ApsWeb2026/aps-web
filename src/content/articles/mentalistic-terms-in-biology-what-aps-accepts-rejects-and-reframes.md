@@ -1,6 +1,21 @@
 ---
-slug: mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
-revised: 2026-04-03
+title: "Mentalistic Terms in Biology — What APS Accepts, Rejects, and Reframes"
+slug: "mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes"
+abstract: "This article clarifies how APS handles mentalistic language in biology by distinguishing legitimate biological concepts from anthropomorphic projection, and by reframing key terms in viability-oriented, non-mentalistic form."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "APS does not reject mentalistic terms wholesale, but evaluates how they are used."
+  - "Biological agency, normativity, and cognition do not require anthropomorphic assumptions."
+  - "Many traditional mentalistic expressions can be retained if they are carefully reframed in organisational terms."
+relatedGlossaryTerms:
+  - agency
+  - cognition
+  - normativity
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## The Problem of Mentalistic Language in Biology

@@ -1,6 +1,24 @@
 ---
-slug: from-aristotle-to-modern-biology-the-transformation-of-a-science
-revised: 2026-04-03
+title: "From Aristotle to Modern Biology: The Transformation of a Science"
+slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
+abstract: "This article traces the long transformation of biology from Aristotle’s organism-centred natural history to modern evolutionary, cellular, molecular, and systems-based science. It emphasises both rupture and continuity: biology changed its tools, scales, and theories, but retained the need to explain organised living systems."
+status: canonical
+revised: 2026-03-27
+cluster: historical-context
+keyPoints:
+  - "Modern biology emerged through successive conceptual and technological transformations rather than simple rejection of Aristotle."
+  - "Darwin, cell theory, heredity, and molecular biology reconfigured biological explanation by adding historical, structural, and mechanistic depth."
+  - "Biology still retains an enduring concern with organised living systems, even in transformed explanatory form."
+relatedGlossaryTerms:
+  - evolution
+  - development
+  - function
+relatedArticles:
+  - the-two-founding-questions-of-biology
+  - aristotle-and-the-foundations-of-biology
+  - agency-evolution-and-the-architecture-of-biological-explanation
+researchStreams: []
+references: []
 ---
 
 In the classical Greek world, no clear boundary separated what we now call science from philosophy. Inquiry into nature, causation, ethics, politics, and knowledge formed a unified intellectual enterprise. Within this shared intellectual landscape, Plato and Aristotle developed contrasting metaphysical frameworks whose differences would profoundly influence subsequent science and Western intellectual life. Their divergence concerned not merely abstract doctrine, but the fundamental question of where intelligibility lies: in transcendent rational structure or in the organised character of concrete things.

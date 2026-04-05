@@ -1,6 +1,18 @@
 ---
-slug: evolution-the-transformation-of-persistence-across-generations
-revised: 2026-04-03
+title: Evolution — The Transformation of Persistence Across Generations
+slug: evolution
+abstract: Evolution is often defined as change in gene frequencies within populations, but this view does not fully explain what is changing or why such change is biologically meaningful. This article defines evolution in APS as the historical transformation of viability-oriented, constraint-closed organisation across generations. It clarifies how evolution presupposes persistence, extends adaptation across generations, and operates on organisational capacities rather than isolated traits. Evolution is thus understood as the long-term transformation of persistence-sustaining organisation.
+status: canonical
+revised: 2026-03-21
+cluster: foundations
+keyPoints:
+  - Evolution is the long-term transformation of persistence-sustaining organisation across generations.
+  - Evolution presupposes systems capable of maintaining organised persistence and does not generate organisation from passive components.
+  - Evolution extends adaptation across generations through the transmission and stabilisation of adaptive reorganisation.
+  - Natural selection operates on organised systems and explains patterns of transformation, not the existence of organisation itself.
+relatedGlossaryTerms:
+  - adaptation
+references: []
 ---
 
 ## Introduction

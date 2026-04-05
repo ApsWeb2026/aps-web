@@ -1,6 +1,21 @@
 ---
-slug: what-is-life-a-biological-question-revisited
-revised: 2026-04-03
+title: "What Is Life? — A Biological Question Revisited"
+slug: "what-is-life-a-biological-question-revisited"
+abstract: "This article revisits the question of what life is, arguing within APS that life is best understood as viability-oriented, constraint-closed organisation rather than a list of defining properties."
+status: canonical
+revised: 2026-04-05
+cluster: foundations
+keyPoints:
+  - "Life is not defined by a fixed list of properties but by organised persistence."
+  - "APS understands life as viability-oriented, constraint-closed organisation."
+  - "The question of life requires an explanatory framework, not a classificatory checklist."
+relatedGlossaryTerms:
+  - life
+  - agency
+  - viability
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Why ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œWhat Is Life?ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Is Still an Open Question

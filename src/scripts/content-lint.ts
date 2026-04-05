@@ -23,7 +23,7 @@ interface LintIssue {
 }
 
 function parseFrontmatter(content: string): Record<string, unknown> {
-  const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!fmMatch) return {};
 
   const fm: Record<string, unknown> = {};

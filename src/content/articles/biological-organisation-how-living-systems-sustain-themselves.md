@@ -1,6 +1,21 @@
 ---
-slug: biological-organisation-how-living-systems-sustain-themselves
-revised: 2026-04-03
+title: Biological Organisation— How Living Systems Sustain Themselves
+slug: biological-organisation
+abstract: Biological organisation is often described in terms of structure, but such descriptions do not explain how living systems sustain themselves over time. This article reconceives biological organisation as the pattern of constraint relations through which systems maintain their persistence. It shows how organisation depends on constraint closure, gives rise to biological normativity, and enables the emergence of agency through the active modulation of organisation. Within the APS framework, biological organisation is understood as viability-oriented, constraint-closed organisation enacted through continuous processes across interacting scales, providing a unified basis for integrating molecular biology, physiology, ecology, and evolution.
+status: canonical
+revised: 2026-03-21
+cluster: foundations
+keyPoints:
+  - Biological organisation is not static structure but the active maintenance of relations that sustain persistence.
+  - Constraint closure explains how organisation becomes self-maintaining, while biological agency modulates this organisation in relation to viability.
+  - Normativity arises from organisation because some states support persistence while others undermine it.
+  - APS defines biological organisation as viability-oriented, constraint-closed organisation enacted across processes and scales.
+relatedGlossaryTerms:
+  - biological-agency
+  - process
+  - scale
+  - normativity
+references: []
 ---
 
 ## Introduction

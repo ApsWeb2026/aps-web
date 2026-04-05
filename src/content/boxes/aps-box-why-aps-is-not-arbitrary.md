@@ -1,6 +1,6 @@
 ---
-title: APS Box — Why APS Is Not Arbitrary
-slug: why-aps-is-not-arbitrary
+title: APS Box - Why APS Is Not Arbitrary
+slug: aps-box-why-aps-is-not-arbitrary
 status: canonical
 revised: 2026-04-03
 ---

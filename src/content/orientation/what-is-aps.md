@@ -1,5 +1,7 @@
 ---
+title: What Is APS?
 slug: what-is-aps
+status: canonical
 revised: 2026-04-03
 ---
 

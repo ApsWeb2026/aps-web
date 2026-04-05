@@ -1,6 +1,21 @@
 ---
-slug: mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
-revised: 2026-04-03
+title: "Mentalistic Language in Biology — Why It Persists and How APS Clarifies It"
+slug: "mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it"
+abstract: "This article explains why mentalistic language persists in biology, what explanatory work it is trying to do, and how APS clarifies that role without relying on anthropomorphic assumptions."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Mentalistic language persists because biology must describe purposive, evaluative organisation."
+  - "APS clarifies the explanatory role of such language without reducing it to anthropomorphism."
+  - "Terms like agency, meaning, and evaluation can be retained when they are grounded in viability-oriented organisation."
+relatedGlossaryTerms:
+  - agency
+  - normativity
+  - cognition
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Why Mentalistic Language Persists in Biology

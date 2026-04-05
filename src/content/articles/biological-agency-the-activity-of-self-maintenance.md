@@ -1,6 +1,10 @@
 ---
-slug: biological-agency-the-activity-of-self-maintenance
-revised: 2026-04-03
+title: "Biological Agency — The Activity of Self-Maintenance"
+slug: "biological-agency-the-activity-of-self-maintenance"
+abstract: "This article defines biological agency as the viability-oriented activity through which living systems sustain, regulate, and restore the conditions required for their continued persistence."
+status: "canonical"
+cluster: "foundations"
+revised: "2026-04-03"
 ---
 
 ## Introduction

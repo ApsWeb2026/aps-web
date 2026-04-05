@@ -1,6 +1,21 @@
 ---
-slug: normativity-in-biology-why-some-things-matter-to-living-systems
-revised: 2026-04-03
+title: "Normativity in Biology — Why Some Things Matter to Living Systems"
+slug: "normativity-in-biology-why-some-things-matter-to-living-systems"
+abstract: "This article explains biological normativity in APS as the intrinsic evaluation of conditions relative to viability, grounding function, meaning, and agency without invoking subjective or external value."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Normativity in biology arises from viability-oriented organisation."
+  - "Living systems evaluate conditions in terms of persistence, not external standards."
+  - "APS treats normativity as intrinsic to biological agency rather than imposed or subjective."
+relatedGlossaryTerms:
+  - normativity
+  - viability
+  - agency
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agencyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe viability-oriented organisation of activity through which living systems sustain their own persistence.

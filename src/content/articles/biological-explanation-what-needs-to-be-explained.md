@@ -1,6 +1,10 @@
 ---
-slug: biological-explanation-what-needs-to-be-explained
-revised: 2026-04-03
+title: "Biological Explanation — What Needs to Be Explained"
+slug: "biological-explanation-what-needs-to-be-explained"
+abstract: "This article clarifies what makes explanation distinctively biological by arguing that biological inquiry must account not only for how systems behave, but for the viability-oriented organisation that makes living systems the kind of systems they are."
+status: "canonical"
+cluster: "conceptual-foundations"
+revised: "2026-04-03"
 ---
 
 ## What Does Biology Explain?

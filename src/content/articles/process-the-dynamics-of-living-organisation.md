@@ -1,6 +1,21 @@
 ---
-slug: process-the-dynamics-of-living-organisation
-revised: 2026-04-03
+title: "Process — The Dynamics of Living Organisation"
+slug: "process-the-dynamics-of-living-organisation"
+abstract: "This article explains process in APS as the dynamic organisation through which living systems sustain and transform the constraints that enable their continued viability."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Process in APS refers to the ongoing dynamics of living organisation."
+  - "Living systems persist through continuous activity, not static structure."
+  - "Process links agency and scale through time-dependent organisation."
+relatedGlossaryTerms:
+  - process
+  - organisation
+  - viability
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Introduction

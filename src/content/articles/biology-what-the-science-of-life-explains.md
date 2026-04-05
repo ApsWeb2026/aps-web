@@ -1,6 +1,20 @@
 ---
-slug: biology-what-the-science-of-life-explains
-revised: 2026-04-03
+title: Biology — What the Science of Life Explains
+slug: biology
+abstract: Biology is the science of living systems, concerned with how they persist, how they change through time, and how these processes can be explained. The APS framework clarifies biology as the study of viability-oriented organisation and its historical transformation.
+status: evolving
+revised: 2026-03-19
+cluster: foundations
+keyPoints:
+  - Biology explains how living systems sustain their own persistence and how this organisation changes through time.
+  - Life consists in organised, viability-oriented activity rather than static structure.
+  - Evolution is the historical transformation of persistence-sustaining organisation.
+  - APS clarifies biology as the study of viability-oriented organisation across process and scale.
+relatedGlossaryTerms:
+  - biological-agency
+  - process
+  - scale
+references: []
 ---
 
 ## What the Science of Life Explains

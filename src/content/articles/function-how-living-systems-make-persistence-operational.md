@@ -1,6 +1,21 @@
 ---
-slug: function-how-living-systems-make-persistence-operational
-revised: 2026-04-03
+title: "Function — How Living Systems Make Persistence Operational"
+slug: "function-how-living-systems-make-persistence-operational"
+abstract: "This article explains function in APS as the operational expression of purpose within viability-oriented, constraint-closed organisation."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "In APS, function is the operational expression of purpose."
+  - "Biological functions are defined by their contribution to viability-oriented persistence."
+  - "Function links present organisation with historically shaped biological activity."
+relatedGlossaryTerms:
+  - function
+  - purpose
+  - viability
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Introduction

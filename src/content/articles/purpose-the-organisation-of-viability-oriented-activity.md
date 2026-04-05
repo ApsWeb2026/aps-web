@@ -1,6 +1,21 @@
 ---
-slug: purpose-the-organisation-of-viability-oriented-activity
-revised: 2026-04-03
+title: "Purpose — The Organisation of Viability-Oriented Activity"
+slug: "purpose-the-organisation-of-viability-oriented-activity"
+abstract: "This article explains purpose in APS as the organisation of viability-oriented activity, clarifying how biological purposiveness can be understood without invoking external design or mental intention."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "In APS, purpose is intrinsic to viability-oriented biological organisation."
+  - "Biological purposiveness does not require foresight, representation, or external design."
+  - "Purpose names the organised orientation of activity toward the maintenance of persistence."
+relatedGlossaryTerms:
+  - purpose
+  - function
+  - viability
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Purpose Is Not Goal-Directed Behaviour

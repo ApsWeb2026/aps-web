@@ -1,6 +1,21 @@
 ---
-slug: scale-how-life-is-coordinated-across-space-and-time
-revised: 2026-04-03
+title: "Scale — How Life Is Coordinated Across Space and Time"
+slug: "scale-how-life-is-coordinated-across-space-and-time"
+abstract: "This article explains scale in APS as the spatial and temporal coordination of biological organisation, showing how living systems integrate processes across multiple interacting domains."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Scale refers to the spatial and temporal coordination of biological organisation."
+  - "Living systems operate across multiple interacting scales simultaneously."
+  - "APS treats scale as inseparable from agency and process in explaining life."
+relatedGlossaryTerms:
+  - scale
+  - process
+  - organisation
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Introduction

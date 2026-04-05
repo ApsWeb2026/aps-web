@@ -1,5 +1,9 @@
 ---
+title: APS as an Organised Conceptual System - Why Definitions Form a System
 slug: aps-as-an-organised-conceptual-system-why-definitions-form-a-system
+abstract: "This article explains why APS definitions form an organised conceptual system rather than a loose collection of terms."
+status: canonical
+cluster: conceptual-foundations
 revised: 2026-04-03
 ---
 
@@ -15,7 +19,7 @@ In APS, definitions are not independent descriptions but components of an organi
 
 ## Beyond Isolated Definitions
 
-In much of biology, key termsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âsuch as life, function, adaptation, or informationÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âare used with varying meanings across different contexts. This flexibility can be useful in informal discussion, but it introduces ambiguity in explanation.
+In much of biology, key termsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âsuch as life, function, adaptation, or informationÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âare used with varying meanings across different contexts. This flexibility can be useful in informal discussion, but it introduces ambiguity in explanation.
 
 When definitions are not tightly connected, explanations can shift without notice. Different assumptions may be introduced implicitly, leading to inconsistencies that are difficult to detect.
 
@@ -51,7 +55,7 @@ This can be understood as conceptual closure: a system in which definitions cons
 
 Because APS definitions are interdependent, changes do not remain local.
 
-If a definition is modifiedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âespecially at the level of foundational conceptsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthis can affect related terms throughout the framework. Maintaining coherence therefore requires that changes be evaluated in relation to the system as a whole.
+If a definition is modifiedÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âespecially at the level of foundational conceptsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthis can affect related terms throughout the framework. Maintaining coherence therefore requires that changes be evaluated in relation to the system as a whole.
 
 This is not a weakness, but a consequence of integration. A tightly organised system requires that its components remain aligned.
 

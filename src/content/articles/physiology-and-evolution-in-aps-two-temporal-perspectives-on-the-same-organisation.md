@@ -1,6 +1,21 @@
 ---
-slug: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation
-revised: 2026-04-03
+title: "Physiology and Evolution in APS — Two Temporal Perspectives on the Same Organisation"
+slug: "physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation"
+abstract: "This article explains how APS integrates physiology and evolution as two temporal perspectives on the same viability-oriented organisation, linking present-tense activity with historical transformation."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Physiology and evolution are not separate domains but different temporal perspectives on the same organisation."
+  - "APS links present-tense viability with long-term transformation through a unified framework."
+  - "Biological explanation requires integrating both immediate regulation and historical change."
+relatedGlossaryTerms:
+  - physiology
+  - evolution
+  - viability
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Two Ways of Explaining Life

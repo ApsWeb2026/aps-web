@@ -4,37 +4,10 @@ slug: aps-box-how-to-read-aps-correctly
 status: canonical
 revised: 2026-04-03
 ---
+APS should be read as an explanatory framework for understanding life, not as a trait list, a metaphor, or a replacement for established biological science. It clarifies the organisational conditions under which living systems persist, act, and evolve.
 
----
-title: APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How to Read APS Correctly
-slug: aps-box-how-to-read-aps
-status: canonical
-canonical: true
-canonicalLockDate: 2026-04-03
-revised: 2026-04-03
----
-**APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â How to Read APS Correctly**
+The framework is built around three co-constitutive dimensions: agency, process, and scale. These are not separate modules but analytic aspects of the same viability-oriented, constraint-closed organisation. Agency names the active regulation of conditions of persistence. Process names the ongoing dynamics through which this regulation is enacted. Scale names the spatial and temporal extent across which such organisation is coordinated.
 
-APS introduces a distinct explanatory grammar. Its concepts must be interpreted in relation to one another rather than as independent definitions.
+APS is therefore not best read as making a single controversial claim, but as providing a disciplined explanatory grammar. It helps distinguish living organisation from mere complexity, present-tense persistence from historical transformation, and biological normativity from externally imposed purpose.
 
-To read APS correctly:
-
-- **Read concepts relationally, not in isolation**  
-  Terms such as agency, process, scale, organisation, and normativity derive their meaning from their relations within a constraint-closed system.
-
-- **Follow the organisation, not just the terminology**  
-  APS explanations are grounded in viability-oriented, constraint-closed organisation, not in isolated mechanisms or labels.
-
-- **Do not import external assumptions uncritically**  
-  Concepts from other frameworks (e.g. information, representation, levels, optimisation) must be translated into APS terms rather than assumed.
-
-- **Interpret function and purpose internally**  
-  Function and purpose refer to contributions to viability within a constraint-closed system, not to externally assigned roles or goals.
-
-- **Treat normativity as biological, not psychological**  
-  Evaluation in APS is enacted by organisation and does not require consciousness, intention, or subjective experience.
-
-- **Expect concepts to constrain one another**  
-  Definitions are interdependent; understanding one concept requires understanding how it fits within a constraint-closed system.
-
-Reading APS is therefore not a matter of adopting new terminology, but of adopting a different explanatory grammar for biology.
+**Key Point.** APS should be read as a framework for clarifying biological organisation, not as a speculative add-on to existing biology.

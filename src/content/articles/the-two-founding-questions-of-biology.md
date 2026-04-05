@@ -1,6 +1,21 @@
 ---
-slug: the-two-founding-questions-of-biology
-revised: 2026-04-03
+title: "The Two Founding Questions of Biology"
+slug: "the-two-founding-questions-of-biology"
+abstract: "This article identifies the two founding questions of biology as the questions of what life is and how living forms change, and shows how APS integrates them within a unified explanatory framework."
+status: canonical
+revised: 2026-04-05
+cluster: foundations
+keyPoints:
+  - "Biology begins from the questions of what life is and how living forms change."
+  - "These two questions underlie the development of biological theory across its history."
+  - "APS integrates both questions within a single account of organised persistence and transformation."
+relatedGlossaryTerms:
+  - life
+  - evolution
+  - agency
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 The conceptual development of biology has long been shaped by two foundational insights concerning living systems. AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological writings articulated the first systematic account of organisms as intrinsically organised systems whose structures and activities exist for the sake of maintaining the living individual. DarwinÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of natural selection provided a second foundational insight by explaining how such organised systems can change historically through evolutionary processes.

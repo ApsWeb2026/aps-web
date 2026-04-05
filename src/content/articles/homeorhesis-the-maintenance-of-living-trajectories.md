@@ -1,6 +1,21 @@
 ---
-slug: homeorhesis-the-maintenance-of-living-trajectories
-revised: 2026-04-03
+title: "Homeorhesis — The Maintenance of Living Trajectories"
+slug: "homeorhesis-the-maintenance-of-living-trajectories"
+abstract: "This article explains homeorhesis in APS as the active maintenance of viable developmental and organisational trajectories rather than the preservation of a fixed state."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Homeorhesis concerns the maintenance of organised trajectories rather than static equilibrium."
+  - "Living systems persist by regulating change, not by preventing it."
+  - "APS treats homeorhesis as central to viability-oriented biological organisation across time."
+relatedGlossaryTerms:
+  - homeorhesis
+  - viability
+  - process
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Introduction

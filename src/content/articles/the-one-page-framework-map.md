@@ -1,6 +1,21 @@
 ---
-slug: the-one-page-framework-map
-revised: 2026-04-03
+title: "The One-Page Framework Map"
+slug: "the-one-page-framework-map"
+abstract: "This article presents a one-page map of the APS framework, showing how its core concepts, explanatory relations, and research pathways fit together in a single orienting structure."
+status: canonical
+revised: 2026-04-05
+cluster: foundations
+keyPoints:
+  - "The framework map provides a compact overview of APS as an integrated system."
+  - "It clarifies how the core concepts and research streams relate to one another."
+  - "APS is best understood as a structured explanatory framework rather than a list of claims."
+relatedGlossaryTerms:
+  - agency
+  - process
+  - scale
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale Architecture of Life

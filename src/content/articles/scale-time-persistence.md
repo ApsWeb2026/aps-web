@@ -1,6 +1,21 @@
 ---
-slug: scale-time-persistence
-revised: 2026-04-03
+title: "Scale, Time, and Persistence — Why Life Exists Only in Organised Duration"
+slug: "scale-time-persistence"
+abstract: "This article explains how scale and time are integrated in APS to produce persistence, showing that life exists only as organised activity sustained across temporal and spatial coordination."
+status: canonical
+revised: 2026-04-05
+cluster: conceptual-foundations
+keyPoints:
+  - "Persistence in biology depends on coordinated activity across time and scale."
+  - "Living systems exist only as organised duration, not static entities."
+  - "APS integrates scale and time as co-constitutive dimensions of biological organisation."
+relatedGlossaryTerms:
+  - scale
+  - time
+  - persistence
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## 1. Introduction

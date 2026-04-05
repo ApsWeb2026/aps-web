@@ -1,6 +1,10 @@
 ---
-slug: aristotle-and-the-foundations-of-biology
-revised: 2026-04-03
+title: "Aristotle and the Foundations of Biology"
+slug: "aristotle-and-the-foundations-of-biology"
+abstract: "This article examines Aristotle’s foundational role in biological thought and shows how key themes in his work continue to shape questions about organisation, function, and the nature of living systems."
+status: "canonical"
+cluster: "historical-context"
+revised: "2026-04-03"
 ---
 
 AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s teleology later became entangled in metaphysical and theological interpretations far removed from its biological context. In early modern science, reaction against scholasticism contributed to suspicion of teleological language in natural philosophy. As mechanistic explanations gained prominence, final causation was frequently rejected as unscientific. In this process, AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological project was often caricatured as speculative or pre-critical.

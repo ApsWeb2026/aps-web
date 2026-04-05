@@ -1,6 +1,25 @@
 ---
-slug: environment-coupling-and-agency-why-organisms-and-surroundings-co-produce-each-other
-revised: 2026-04-03
+title: Environment, Coupling, and Agency - why Organisms and Surroundings Co-Produce Each Other
+slug: environment-coupling-and-agency
+abstract: This article explains how the APS framework reconceives the relationship between organisms and their environments. Rather than treating the environment as an external backdrop, APS understands it as a relational domain co-constituted through ongoing coupling with viability-oriented organisation. By integrating the concepts of environment, coupling, and agency, the article clarifies how living systems both depend on and actively shape the conditions of their own persistence.
+status: draft
+revised: 2026-03-30
+cluster: conceptual-foundations
+keyPoints:
+  - The environment is not an external container but a relational domain defined through organism–environment coupling.
+  - Coupling describes the ongoing interaction through which organisms and environments co-produce each other.
+  - Agency is the viability-oriented activity that regulates and restructures these coupled relations.
+  - Environmental relevance is selective and determined by integration into constraint-closed organisation.
+  - Organisms actively modify the conditions that sustain their own persistence.
+relatedGlossaryTerms:
+  - environment
+  - coupling
+  - biological-agency
+  - constraint
+  - affordance
+relatedArticles: []
+researchStreams: []
+references: []
 ---
 
 ## Opening orientation  

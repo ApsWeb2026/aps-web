@@ -1,6 +1,8 @@
 ---
+title: APS Box — Why Trait Lists Fail
 slug: why-trait-lists-fail
-revised: 2026-04-03
+status: canonical
+revised: 2026-04-02
 ---
 
 Trait-based definitions of life attempt to identify living systems by listing observable properties such as metabolism, reproduction, growth, or homeostasis. In APS, this approach fails because it confuses expressions of life with the organisation that makes them possible.

@@ -4,7 +4,6 @@ slug: from-viability-to-meaning
 status: canonical
 revised: 2026-04-02
 ---
-
 In biology, meaning is often treated as something added to life through cognition, language, or representation. In APS, meaning is not introduced as a separate domain but arises from viability-oriented organisation itself.
 
 Living systems regulate their activity in relation to conditions that affect their persistence. Because these conditions make a difference to viability, they are not merely physical states but become biologically significant. Differences that matter for persistence are registered and acted upon within the system’s organisation.

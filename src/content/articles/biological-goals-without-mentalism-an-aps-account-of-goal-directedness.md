@@ -117,7 +117,7 @@ APS naturalises teleological language.
 
 Goal-directedness is not orientation toward future endpoints but the present-tense organisation of activity through which biological purpose is enacted and realised in function. Teleology is thus grounded in biological process rather than intention.
 
-[[box:what-aps-means-by-purpose]]  
+[[box:what-aps-means-by-purpose]] 
 [[box:from-viability-to-meaning]]  
 
 
