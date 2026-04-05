@@ -1,19 +1,13 @@
 ---
-title: "APS Box - Agency, Cognition, and Sentience: What Must Not Be Confused"
+title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
 slug: aps-box-agency-cognition-and-sentience-what-must-not-be-confused
 status: canonical
 revised: 2026-04-03
 ---
 
----
-title: "APS Box ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â Agency, Cognition, and Sentience: What Must Not Be Confused"
-slug: aps-box-agency-cognition-sentience
-status: canonical
-canonical: true
-canonicalLockDate: 2026-04-03
-revised: 2026-04-03
----
-Biological explanation is destabilised when agency, cognition, and sentience are treated as interchangeable. In APS, these refer to distinct organisational features. Agency is the viability-oriented, constraint-closed activity through which a system sustains its own persistence. Cognition is the evaluation of environmental differences relative to viability within that organisation. Neither requires representation, intention, or consciousness.
+Biological explanation is destabilised when agency, cognition, and sentience are treated as interchangeable. In APS, these refer to distinct organisational features.
+
+Agency is the viability-oriented, constraint-closed activity through which a system sustains its own persistence. Cognition is the evaluation of environmental differences relative to viability within that organisation. Neither requires representation, intention, or consciousness.
 
 Sentience, by contrast, refers to subjective experience and is not entailed by agency or cognition. The presence of viability-oriented regulation and evaluation does not imply awareness or feeling. Living systems can act, regulate, and evaluate without experiencing.
 

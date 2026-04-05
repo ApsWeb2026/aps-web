@@ -1,15 +1,15 @@
 ---
-title: APS Box — Diagnostics vs Definition
+title: "APS Box — Diagnostics vs Definition"
 slug: diagnostics-vs-definition
 status: canonical
 revised: 2026-04-02
 ---
 
-Biological accounts of life often conflate what life is with how it is identified. In APS, these are distinct. A definition specifies the organisational condition that constitutes life, whereas diagnostics provide operational criteria for detecting it.
+Biological accounts of life often conflate what life is with how it is identified. In APS, these are distinct: a definition specifies the organisational condition that constitutes life, whereas diagnostics provide operational criteria for detecting it.
 
-In APS, life is defined as viability-oriented organisation—the constraint-closed organisation through which a system sustains its own persistence. This definition establishes what must be true of any living system, independent of observation or measurement.
+In APS, life is defined as viability-oriented, constraint-closed organisation—the organisation through which a system sustains its own persistence. This definition establishes what must be true of any living system, independent of observation or measurement.
 
-Diagnostics, by contrast, identify observable signatures of this organisation, such as self-maintenance, adaptive regulation, and responsiveness to perturbation. These are not themselves the definition of life but evidence that the underlying organisation is present.
+Diagnostics, by contrast, identify observable signatures of this organisation, such as self-maintenance, adaptive regulation, and responsiveness to perturbation. These are not themselves the definition of life, but evidence that the underlying organisation is present.
 
 Confusing these levels leads to treating lists of traits or behaviours as definitions. APS resolves this by separating definition from detection: the definition specifies the organisational principle of life, while diagnostics indicate where that principle is realised.
 

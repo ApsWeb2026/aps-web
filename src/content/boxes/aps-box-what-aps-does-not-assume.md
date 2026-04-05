@@ -1,21 +1,11 @@
 ---
-title: APS Box - What APS Does Not Assume
+title: "APS Box — What APS Does Not Assume"
 slug: aps-box-what-aps-does-not-assume
 status: canonical
 revised: 2026-04-03
 ---
 
----
-title: APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â What APS Does Not Assume
-slug: aps-box-what-aps-does-not-assume
-status: canonical
-canonical: true
-canonicalLockDate: 2026-04-03
-revised: 2026-04-03
----
-**APS Box ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â What APS Does Not Assume**
-
-APS introduces a specific explanatory grammar for biology. It does not rely on a number of common assumptions that are often taken for granted in other frameworks:
+APS introduces a specific explanatory grammar for biology. It does not rely on a number of common assumptions that are often taken for granted in other frameworks.
 
 - **No reduction to parts as primary explanans**  
   APS does not assume that biological explanation is fundamentally about decomposing systems into constituent parts.
@@ -24,7 +14,7 @@ APS introduces a specific explanatory grammar for biology. It does not rely on a
   Genes and information are treated as components within organised systems, not as the defining basis of life.
 
 - **No hierarchy of fixed levels of organisation**  
-  APS does not assume discrete levels (e.g. gene ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ cell ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ organism) as ontological layers; it works with continuous, interacting scales.
+  APS does not assume discrete levels (e.g. gene → cell → organism) as ontological layers; it works with continuous, interacting scales.
 
 - **No requirement for representation or internal models**  
   Basic biological regulation does not depend on representational content; viability-oriented modulation precedes representation.
@@ -38,4 +28,6 @@ APS introduces a specific explanatory grammar for biology. It does not rely on a
 - **No assumption that normativity is mental or subjective**  
   Biological normativity is enacted through organisation and does not depend on consciousness or experience.
 
-APS does not reject these concepts outright, but reinterprets them within a framework grounded in viability-oriented, constraint-closed organisation. 
+APS does not reject these concepts outright, but reinterprets them within a framework grounded in viability-oriented, constraint-closed organisation.
+
+**Key Point.** APS reframes common biological assumptions within a viability-oriented, constraint-closed framework rather than accepting them as explanatory primitives.
