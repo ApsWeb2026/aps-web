@@ -1,7 +1,7 @@
 ---
 title: "APS_LD — Life Detection as Viability-Oriented Organisation"
-slug: "aps_ld-life-detection-as-viability-oriented-organisation"
-abstract: "APS_LD reframes life detection in terms of viability-oriented, constraint-closed organisation, arguing that the detection of life should focus on identifying systems that actively sustain their own persistence rather than relying solely on trait lists or specific molecular markers."
+slug: "aps_ld-life-detection-as-viability-oriented-biological-organisation"
+abstract: "APS_LD reframes life detection in terms of viability-oriented, constraint-closed biological-organisation, arguing that the detection of life should focus on identifying systems that actively sustain their own persistence rather than relying solely on trait lists or specific molecular markers."
 status: "canonical"
 cluster: "empirical-interface"
 revised: "2026-04-03"
@@ -9,9 +9,9 @@ revised: "2026-04-03"
 
 ## Overview
 
-APS_LD (Life Detection) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the problem of identifying and detecting life. It develops a systematic approach grounded in **viability-oriented, constraint-closed organisation**, rather than trait lists or component-based definitions.
+APS_LD (Life Detection) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the problem of identifying and detecting life. It develops a systematic approach grounded in **viability-oriented, constraint-closed biological-organisation**, rather than trait lists or component-based definitions.
 
-This stream extends the core APS claim that life is not defined by specific materials or structures, but by the **organisation of processes that sustain persistence**. Life detection, on this view, becomes the task of identifying systems that exhibit such organisation under empirical conditions.
+This stream extends the core APS claim that life is not defined by specific materials or structures, but by the **biological-organisation of processes that sustain persistence**. Life detection, on this view, becomes the task of identifying systems that exhibit such biological-organisation under empirical conditions.
 
 ## Central Problem
 
@@ -29,7 +29,7 @@ APS_LD addresses this by shifting the focus from **what life is made of** to **h
 
 ## APS Reframing of Life Detection
 
-Within APS, life is defined as **viability-oriented, constraint-closed organisation**. Accordingly, life detection becomes the identification of systems that:
+Within APS, life is defined as **viability-oriented, constraint-closed biological-organisation**. Accordingly, life detection becomes the identification of systems that:
 
 - sustain their own persistence through organised activity  
 - regulate conditions relevant to that persistence  
@@ -52,7 +52,7 @@ In conventional astrobiology, biosignatures are:
 
 In APS_LD, biosignatures are treated as:
 
-> **indirect indicators of underlying viability-oriented organisation**
+> **indirect indicators of underlying viability-oriented biological-organisation**
 
 Their significance depends on whether they can be interpreted as evidence of:
 
@@ -75,7 +75,7 @@ Key diagnostic considerations include:
 - whether regulation is internally generated rather than externally imposed  
 - whether the system exhibits robustness through reorganisation rather than static stability  
 
-These criteria aim to identify **viability-oriented organisation in practice**, not merely its correlates.
+These criteria aim to identify **viability-oriented biological-organisation in practice**, not merely its correlates.
 
 ## Relation to Empirical Work
 
@@ -100,10 +100,10 @@ This research stream includes:
 
 As the stream develops, it may generate:
 
-- formal criteria for identifying viability-oriented organisation  
+- formal criteria for identifying viability-oriented biological-organisation  
 - comparative analyses across living and non-living systems  
 - testable predictions for astrobiology and synthetic biology  
 
 ## Key Point
 
-APS_LD reframes life detection as the identification of viability-oriented, constraint-closed organisation, interpreting biosignatures and empirical observations as indicators of persistence-sustaining processes rather than as defining features in themselves.
+APS_LD reframes life detection as the identification of viability-oriented, constraint-closed biological-organisation, interpreting biosignatures and empirical observations as indicators of persistence-sustaining processes rather than as defining features in themselves.

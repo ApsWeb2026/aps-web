@@ -1,7 +1,7 @@
 ---
 title: "APS_MC — Meaning Without Neurons: Distributed Cognition in Living Systems"
 slug: "aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems"
-abstract: "APS_MC develops an APS account of cognition as the evaluation of environmental differences relative to viability within constraint-closed organisation, showing how meaning and cognition arise as distributed features of living systems rather than as capacities confined to nervous systems."
+abstract: "APS_MC develops an APS account of cognition as the evaluation of environmental differences relative to viability within constraint-closed biological-organisation, showing how meaning and cognition arise as distributed features of living systems rather than as capacities confined to nervous systems."
 status: "canonical"
 cluster: "cognition-mind"
 revised: "2026-04-03"
@@ -9,7 +9,7 @@ revised: "2026-04-03"
 
 ## Overview
 
-APS_MC (Meaning Without Neurons) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the nature of cognition and meaning in living systems. It develops a unified account in which **cognition is grounded in viability-oriented organisation**, rather than in neural structures, representation, or subjective experience.
+APS_MC (Meaning Without Neurons) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the nature of cognition and meaning in living systems. It develops a unified account in which **cognition is grounded in viability-oriented biological-organisation**, rather than in neural structures, representation, or subjective experience.
 
 This stream extends the APS claim that living systems are inherently **normatively organised**: differences in the environment matter insofar as they contribute to or undermine persistence. On this basis, cognition is understood as the **evaluation and modulation of such differences**, a capacity that is distributed across life rather than confined to organisms with nervous systems.
 
@@ -21,17 +21,17 @@ Standard accounts of cognition often assume that:
 - meaning depends on representation or internal models  
 - evaluation is tied to subjective experience  
 
-These assumptions create a discontinuity between simple and complex organisms, making it difficult to explain how cognition emerges or how it relates to basic biological organisation.
+These assumptions create a discontinuity between simple and complex organisms, making it difficult to explain how cognition emerges or how it relates to basic biological biological-organisation.
 
 APS_MC addresses this by asking:
 
-> What must be true of living systems such that cognition can arise as a natural extension of their organisation?
+> What must be true of living systems such that cognition can arise as a natural extension of their biological-organisation?
 
 ## APS Reframing of Cognition
 
 Within APS, cognition is defined as:
 
-> **evaluation of environmental differences relative to viability within constraint-closed organisation**
+> **evaluation of environmental differences relative to viability within constraint-closed biological-organisation**
 
 This reframing has several consequences:
 
@@ -51,7 +51,7 @@ A stimulus, condition, or event is meaningful for a system when it:
 
 - alters the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s capacity to sustain persistence  
 - is incorporated into its regulatory processes  
-- participates in its ongoing organisation  
+- participates in its ongoing biological-organisation  
 
 Meaning is thus **enacted**, not encoded. It arises through the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity, not through internal representations of an external world.
 
@@ -69,7 +69,7 @@ In each case, systems:
 - evaluate their relevance  
 - modulate activity accordingly  
 
-These are not metaphorical descriptions, but instances of **minimal cognition** grounded in viability-oriented organisation.
+These are not metaphorical descriptions, but instances of **minimal cognition** grounded in viability-oriented biological-organisation.
 
 ## Relation to Representation
 
@@ -83,7 +83,7 @@ Representation emerges only where systems exhibit:
 
 Even in such cases, representation remains:
 
-> **functionally grounded in viability-oriented organisation**, not a primary explanatory principle.
+> **functionally grounded in viability-oriented biological-organisation**, not a primary explanatory principle.
 
 Thus, APS_MC situates representation as a **derived and contingent feature**, not a prerequisite for cognition.
 
@@ -109,7 +109,7 @@ while preserving continuity across them.
 
 APS_MC contributes to the broader APS account of cognition (APS_COG) by:
 
-- grounding cognition in viability-oriented organisation  
+- grounding cognition in viability-oriented biological-organisation  
 - extending cognition beyond neural systems  
 - providing a framework for understanding meaning as biological, not representational  
 
@@ -132,4 +132,4 @@ As it develops, APS_MC may generate:
 
 ## Key Point
 
-APS_MC shows that cognition and meaning arise from viability-oriented, constraint-closed organisation, making evaluation and sense-making continuous features of life rather than properties restricted to neural or representational systems.
+APS_MC shows that cognition and meaning arise from viability-oriented, constraint-closed biological-organisation, making evaluation and sense-making continuous features of life rather than properties restricted to neural or representational systems.

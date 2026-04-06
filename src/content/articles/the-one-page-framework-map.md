@@ -10,7 +10,7 @@ keyPoints:
   - "It clarifies how the core concepts and research streams relate to one another."
   - "APS is best understood as a structured explanatory framework rather than a list of claims."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
 relatedArticles: []
@@ -28,7 +28,7 @@ Living systems differ from most physical systems in a crucial way: their activit
 
 ### 2. The APS Triad
 
-APS interprets biological organisation through three mutually dependent dimensions:
+APS interprets biological biological organisation through three mutually dependent dimensions:
 
 | Dimension | Meaning |
 | --- | --- |
@@ -46,7 +46,7 @@ The APS framework clarifies how key biological concepts relate to one another:
 
 | Concept | Meaning |
 | --- | --- |
-| **Agency** | Viability-oriented organisation |
+| **Agency** | Viability-oriented biological organisation |
 | **Normativity** | Distinction between viable and non-viable states |
 | **Function** | Contribution to sustaining viability |
 | **Adaptation** | Historically stabilised viability-supporting traits |
@@ -58,13 +58,13 @@ This chain represents the minimal grammar of biological explanation.
 
 APS clarifies the organisational conditions required for evolutionary processes:
 
-**Viability-oriented agency ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Organised persistence ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Reproduction ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Natural selection ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Evolution**
+**Viability-oriented biological agency ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Organised persistence ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Reproduction ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Natural selection ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Evolution**
 
 - Agency sustains viability
-- Persistence maintains organisation through time
+- Persistence maintains biological organisation through time
 - Reproduction extends persistence across generations
 - Selection filters variants
-- Evolution transforms organisation historically
+- Evolution transforms biological organisation historically
 
 Evolution therefore operates on systems already organised around their own persistence.
 
@@ -85,7 +85,7 @@ The APS synthesis can be understood as three integrated layers:
    - Selection
    - Evolution
 
-In this framework, agency is enacted through process across scale; organised persistence makes reproduction possible; and reproduction allows selection and evolution to transform viability-oriented organisation historically.
+In this framework, biological agency is enacted through process across scale; organised persistence makes reproduction possible; and reproduction allows selection and evolution to transform viability-oriented biological organisation historically.
 
 ### 6. Domains Integrated by APS
 
@@ -106,32 +106,32 @@ Biological theory has progressively incorporated phenomena once treated as metap
 - **Scientific revolution** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â mechanistic biology
 - **Darwin** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â historical explanation of adaptation
 - **Systems biology** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â organised regulation
-- **APS** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â naturalised biological agency
+- **APS** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â naturalised biological biological agency
 
-APS continues this trajectory by providing a naturalised account of agency and normativity in biology.
+APS continues this trajectory by providing a naturalised account of biological agency and normativity in biology.
 
 ### 8. The Central Insight
 
-Life is organised agency enacted through process across scale.
+Life is organised biological agency enacted through process across scale.
 
-Evolution is the historical transformation of viability-oriented organisation.
+Evolution is the historical transformation of viability-oriented biological organisation.
 
 ### 9. Why APS Matters
 
 APS provides:
 
-- a definition of life grounded in organisation
+- a definition of life grounded in biological organisation
 - a unified explanatory grammar for biology
 - a clear relationship between physiology and evolution
 - a naturalised account of biological normativity and function
 
 **Core Definition.**
 
-In APS, life is viability-oriented agency: the organised activity through which living systems sustain their own persistence. Evolution is the historical transformation of that organisation across generations. Biology is therefore the study of how viability-oriented organisation is sustained in the present and transformed through evolutionary time.
+In APS, life is viability-oriented biological agency: the organised activity through which living systems sustain their own persistence. Evolution is the historical transformation of that biological organisation across generations. Biology is therefore the study of how viability-oriented biological organisation is sustained in the present and transformed through evolutionary time.
 
 ## Reading APS as a System
 
-APS concepts should not be interpreted in isolation. Terms such as agency, process, and normativity are defined in relation to one another within a constraint-closed conceptual structure.
+APS concepts should not be interpreted in isolation. aTerms such as biological agency, process, and normativity are defined in relation to one another within a constraint-closed conceptual structure.
 
 For an explanation of how APS definitions form an organised system, see:
 ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ APS as an Organised Conceptual System ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Why Definitions Form a System

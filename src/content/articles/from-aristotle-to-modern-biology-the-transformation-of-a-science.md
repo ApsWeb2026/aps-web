@@ -16,7 +16,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - the-two-founding-questions-of-biology
   - aristotle-and-the-foundations-of-biology
-  - agency-evolution-and-the-architecture-of-biological-explanation
+  - biological-agency-evolution-and-the-architecture-of-biological-explanation
 researchStreams: []
 references: []
 ---
@@ -39,9 +39,9 @@ This shift carries profound implications for the study of nature. Whereas Plato 
 
 ## Causation and Explanation
 
-AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of causation further distinguishes his framework. He articulates four explanatory modes: material, formal, efficient, and final causes. Final causation in his biological writings does not refer to external planning but to internal organisation. Organs exist ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œfor the sake ofÃƒÂ¢Ã¢â€šÂ¬Ã‚Â characteristic functions because those functions define the organismÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s mode of life. Teleology, in this sense, expresses structured coordination within living systems.
+AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of causation further distinguishes his framework. He articulates four explanatory modes: material, formal, efficient, and final causes. Final causation in his biological writings does not refer to external planning but to internal biological-organisation. Organs exist ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œfor the sake ofÃƒÂ¢Ã¢â€šÂ¬Ã‚Â characteristic functions because those functions define the organismÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s mode of life. Teleology, in this sense, expresses structured coordination within living systems.
 
-Material processes constrain what is possible, but they do not by themselves explain why a structure has its particular organisation. Aristotle therefore provides an explanatory framework especially suited to organised life.
+Material processes constrain what is possible, but they do not by themselves explain why a structure has its particular biological-organisation. Aristotle therefore provides an explanatory framework especially suited to organised life.
 
 ## Two Long Inheritances
 
@@ -51,6 +51,6 @@ The Scientific Revolution did not simply replace one with the other. Instead, el
 
 ## Conclusion
 
-The tension between transcendent rational structure and immanent organisation has never fully disappeared. In contemporary science, mathematical formalism remains essential in physics and cosmology, while biology retains a strong commitment to studying organised systems in their concrete particularity.
+The tension between transcendent rational structure and immanent biological-organisation has never fully disappeared. In contemporary science, mathematical formalism remains essential in physics and cosmology, while biology retains a strong commitment to studying organised systems in their concrete particularity.
 
-Understanding the contrast between Plato and Aristotle clarifies how foundational metaphysical commitments shape approaches to knowledge. Plato locates intelligibility in abstract rational order beyond the material world; Aristotle locates it within the structured organisation of particular beings. Modern inquiry carries both inheritances. The aspiration toward rational structure and the commitment to studying organised reality as it presents itself remain intertwined legacies of these two foundational thinkers.
+Understanding the contrast between Plato and Aristotle clarifies how foundational metaphysical commitments shape approaches to knowledge. Plato locates intelligibility in abstract rational order beyond the material world; Aristotle locates it within the structured biological-organisation of particular beings. Modern inquiry carries both inheritances. The aspiration toward rational structure and the commitment to studying organised reality as it presents itself remain intertwined legacies of these two foundational thinkers.

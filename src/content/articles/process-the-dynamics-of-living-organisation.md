@@ -1,17 +1,17 @@
 ---
 title: "Process — The Dynamics of Living Organisation"
-slug: "process-the-dynamics-of-living-organisation"
-abstract: "This article explains process in APS as the dynamic organisation through which living systems sustain and transform the constraints that enable their continued viability."
+slug: "process-the-dynamics-of-living-biological-organisation"
+abstract: "This article explains process in APS as the dynamic biological organisation through which living systems sustain and transform the constraints that enable their continued viability."
 status: canonical
 revised: 2026-04-05
 cluster: conceptual-foundations
 keyPoints:
-  - "Process in APS refers to the ongoing dynamics of living organisation."
+  - "Process in APS refers to the ongoing dynamics of living biological organisation."
   - "Living systems persist through continuous activity, not static structure."
-  - "Process links agency and scale through time-dependent organisation."
+  - "Process links biological agency and scale through time-dependent biological organisation."
 relatedGlossaryTerms:
   - process
-  - organisation
+  - biological-organisation
   - viability
 relatedArticles: []
 researchStreams: []
@@ -44,11 +44,11 @@ Process in biology is therefore not secondary to structure. It is the ongoing ac
 
 ## Process as Organisational Activity
 
-The APS framework reconceives process as the dynamic organisation of constraints and their interactions.
+The APS framework reconceives process as the dynamic biological organisation of constraints and their interactions.
 
 Constraints channel activity into organised form. In living systems, these constraints are not externally imposedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey are maintained through the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s own activity.
 
-Process is therefore the ongoing organisation through which constraints are sustained and transformed. It is the activity that generates, maintains, and reorganises the conditions required for continued viability.
+Process is therefore the ongoing biological organisation through which constraints are sustained and transformed. It is the activity that generates, maintains, and reorganises the conditions required for continued viability.
 
 In this sense, process is not an effect of life. It is the continuous activity through which life is enacted.
 
@@ -58,33 +58,33 @@ In this sense, process is not an effect of life. It is the continuous activity t
 
 When constraints become mutually sustaining, they form a network that maintains the system as a coherent whole. This condition is described as constraint closure.
 
-Process is the activity through which this closure is enacted and maintained. Without ongoing process, constraint relations would decay and organisation would collapse.
+Process is the activity through which this closure is enacted and maintained. Without ongoing process, constraint relations would decay and biological organisation would collapse.
 
-Process therefore explains how constraint-closed organisation persists through time.
+Process therefore explains how constraint-closed biological organisation persists through time.
 
 ---
 
 ## Process, Agency, and Scale
 
-In APS, process is one of three analytically distinguishable but ontologically co-constitutive dimensions of living organisation.
+In APS, process is one of three analytically distinguishable but ontologically co-constitutive dimensions of living biological organisation.
 
 - **Agency** expresses viability-oriented regulation  
-- **Process** enacts organisation through time  
+- **Process** enacts biological organisation through time  
 - **Scale** reflects coordination across spatial and temporal domains  
 
-None of these dimensions is prior to the others. Each is an analytic projection of a single viability-oriented, constraint-closed organisation.
+None of these dimensions is prior to the others. Each is an analytic projection of a single viability-oriented, constraint-closed biological organisation.
 
-Process provides the temporal unfolding of this organisation, making visible the continuous activity through which living systems sustain themselves.
+Process provides the temporal unfolding of this biological organisation, making visible the continuous activity through which living systems sustain themselves.
 
 ---
 
 ## Process and Viability
 
-Living systems exist under conditions of continuous change. To persist, they must actively maintain the constraints that enable their organisation.
+Living systems exist under conditions of continuous change. To persist, they must actively maintain the constraints that enable their  organisation.
 
 Process is the means by which this maintenance occurs. Through metabolic activity, physiological regulation, development, and repair, living systems sustain the conditions of their own viability.
 
-Process therefore links organisation to persistence. It is the activity through which viability-oriented organisation is continuously enacted.
+Process therefore links biological organisation to persistence. It is the activity through which viability-oriented biological organisation is continuously enacted.
 
 ---
 
@@ -106,7 +106,7 @@ Clarifying the role of process helps resolve several key issues in biology:
 
 - Why structure alone cannot explain persistence  
 - How living systems maintain themselves over time  
-- How organisation is continuously regenerated  
+- How biological organisation is continuously regenerated  
 - How activity across scales is coordinated  
 
 By treating process as constitutive rather than derivative, APS provides a framework for understanding life as ongoing organisational activity.
@@ -119,6 +119,6 @@ Process is not what happens to lifeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is h
 
 Living systems are not static structures that undergo change, but ongoing organisations of activity that continuously generate and maintain their own conditions of existence.
 
-In APS, process is the dynamic organisation through which living systems sustain and transform the constraints that enable continued viability. It is the temporal enactment of viability-oriented, constraint-closed organisation across interacting scales.
+In APS, process is the dynamic  organisation through which living systems sustain and transform the constraints that enable continued viability. It is the temporal enactment of viability-oriented, constraint-closed biological organisation across interacting scales.
 
-Understanding life therefore requires an explanatory grammar grounded in processÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Ânot as change in structure, but as the continuous activity through which organisation persists.
+Understanding life therefore requires an explanatory grammar grounded in processÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Ânot as change in structure, but as the continuous activity through which biological organisation persists.

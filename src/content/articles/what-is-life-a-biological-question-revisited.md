@@ -1,17 +1,17 @@
 ---
 title: "What Is Life? — A Biological Question Revisited"
 slug: "what-is-life-a-biological-question-revisited"
-abstract: "This article revisits the question of what life is, arguing within APS that life is best understood as viability-oriented, constraint-closed organisation rather than a list of defining properties."
+abstract: "This article revisits the question of what life is, arguing within APS that life is best understood as viability-oriented, constraint-closed biological organisation rather than a list of defining properties."
 status: canonical
 revised: 2026-04-05
 cluster: foundations
 keyPoints:
   - "Life is not defined by a fixed list of properties but by organised persistence."
-  - "APS understands life as viability-oriented, constraint-closed organisation."
+  - "APS understands life as viability-oriented, constraint-closed biological organisation."
   - "The question of life requires an explanatory framework, not a classificatory checklist."
 relatedGlossaryTerms:
   - life
-  - agency
+  - biological-agency
   - viability
 relatedArticles: []
 researchStreams: []
@@ -30,7 +30,7 @@ The deeper difficulty is that most definitions describe what life depends on, no
 
 The central question therefore remains:
 
-*What kind of organisation makes something a living system rather than a non-living process?*
+*What kind of biological organisation makes something a living system rather than a non-living process?*
 
 ---
 
@@ -48,7 +48,7 @@ These features are undeniably important. But none of themÃƒÂ¢Ã¢â€šÂ¬
 
 A fire grows, spreads, and consumes energy, but it is not alive. Crystals grow and maintain structure, but lack regulation. Machines process information and maintain stability, but only under external control.
 
-Trait lists describe outcomes of living organisation, not its organising principle. They do not explain what unifies these features or why they matter biologically.
+Trait lists describe outcomes of living  organisation, not its organising principle. They do not explain what unifies these features or why they matter biologically.
 
 /boxes/why-trait-lists-fail/
 
@@ -74,11 +74,11 @@ The question therefore shifts from *What is life made of?* to:
 
 Living systems are not passive. They regulate, repair, and respond in ways organised around sustaining their own persistence.
 
-This is captured by the concept of biological agency.
+This is captured by the concept of biological biological agency.
 
-In biology, agency does not imply intention or consciousness. It means that a systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity is organised around maintaining its own viability. Some states matter more than others because the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s continued existence is at stake.
+In biology, biological agency does not imply intention or consciousness. It means that a systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity is organised around maintaining its own viability. Some states matter more than others because the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s continued existence is at stake.
 
-Agency explains why malfunction is meaningful, regulation is intrinsic, and success and failure are biologically real. Without agency, biological processes would be indistinguishable from ordinary physical flows.
+Agency explains why malfunction is meaningful, regulation is intrinsic, and success and failure are biologically real. Without biological agency, biological processes would be indistinguishable from ordinary physical flows.
 
 /boxes/normativity/
 
@@ -112,7 +112,7 @@ Processes in living systems are organised around maintaining viabilityÃƒÂ¢Ã
 
 Purpose does not imply foresight. It expresses the fact that some outcomes support persistence while others undermine it.
 
-Function is the operational expression of this orientation at the level of parts and processes. A function can succeed or fail because it operates within a viability-oriented organisation.
+Function is the operational expression of this orientation at the level of parts and processes. A function can succeed or fail because it operates within a viability-oriented biological organisation.
 
 /boxes/viability-to-meaning/
 
@@ -120,11 +120,11 @@ Function is the operational expression of this orientation at the level of parts
 
 ## Units of Life: Individuals, Organisms, and Beyond
 
-Once life is understood as viability-oriented organisation, questions about biological units can be reframed.
+Once life is understood as viability-oriented biological organisation, questions about biological units can be reframed.
 
 Cells, organisms, collectives, and even ecological systems can count as living individuals when they regulate themselves, maintain functional coherence, and sustain viability through their own activity.
 
-Genes and other components are indispensable explanatory constructs, but they are not living units in themselves. They participate in living organisation rather than constituting it.
+Genes and other components are indispensable explanatory constructs, but they are not living units in themselves. They participate in living biological organisation rather than constituting it.
 
 Life, on this view, is graded and scale-relative rather than confined to a single privileged unit.
 
@@ -134,7 +134,7 @@ Life, on this view, is graded and scale-relative rather than confined to a singl
 
 The APS framework integrates these insights into a single account:
 
-Life is the organisation of viability-oriented agency, enacted through ongoing process and sustained across interacting scales.
+Life is the biological organisation of viability-oriented biological agency, enacted through ongoing process and sustained across interacting scales.
 
 This definition avoids trait lists, avoids appeals to intention or design, integrates physiology, development, and evolution, and explains normativity, function, and purpose.
 
@@ -146,9 +146,9 @@ Life is not a substance or a single mechanism. It is a mode of organisationÃƒ�
 
 APS does not offer a checklist definition. It specifies a structural condition.
 
-Viability-oriented, constraint-closed organisation is necessary for life in the biologically relevant sense. Without it, no system-relative standards of persistence, malfunction, or regulation obtain.
+Viability-oriented, constraint-closed biological organisation is necessary for life in the biologically relevant sense. Without it, no system-relative standards of persistence, malfunction, or regulation obtain.
 
-It is also sufficient in principle: any system that genuinely instantiates such organisation qualifies as minimally living within the framework.
+It is also sufficient in principle: any system that genuinely instantiates such biological organisation qualifies as minimally living within the framework.
 
 Borderline cases test the precision of constraint closure, not the coherence of the criterion.
 
@@ -160,7 +160,7 @@ Borderline cases test the precision of constraint closure, not the coherence of 
 
 A definition of life should do more than classify cases. It should guide explanation and clarify what biology is about.
 
-Understanding life as viability-oriented organisation explains why regulation and malfunction matter, clarifies the continuity between life and mind, grounds evolutionary theory in organismal activity, and provides criteria for synthetic and artificial systems.
+Understanding life as viability-oriented biological organisation explains why regulation and malfunction matter, clarifies the continuity between life and mind, grounds evolutionary theory in organismal activity, and provides criteria for synthetic and artificial systems.
 
 Most importantly, it makes explicit what biological explanation already presupposes when it succeeds.
 

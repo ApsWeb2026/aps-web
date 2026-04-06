@@ -7,10 +7,10 @@ revised: 2026-04-05
 cluster: conceptual-foundations
 keyPoints:
   - "APS does not reject mentalistic terms wholesale, but evaluates how they are used."
-  - "Biological agency, normativity, and cognition do not require anthropomorphic assumptions."
+  - "Biological biological agency, normativity, and cognition do not require anthropomorphic assumptions."
   - "Many traditional mentalistic expressions can be retained if they are carefully reframed in organisational terms."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - cognition
   - normativity
 relatedArticles: []
@@ -20,7 +20,7 @@ references: []
 
 ## The Problem of Mentalistic Language in Biology
 
-Biology makes persistent use of terms such as **agency**, **cognition**, **decision-making**, **purpose**, and **intelligence**. These terms are often treated with suspicion. They appear to import human psychology into domains where no such psychology is present.
+Biology makes persistent use of terms such as **biological agency**, **cognition**, **decision-making**, **purpose**, and **intelligence**. These terms are often treated with suspicion. They appear to import human psychology into domains where no such psychology is present.
 
 As a result, they are variously:
 
@@ -30,7 +30,7 @@ As a result, they are variously:
 
 These responses reflect a shared problem: the absence of a clear account of what these terms refer to in biological systems.
 
-APS resolves this problem by grounding mentalistic language in organisation rather than psychology.
+APS resolves this problem by grounding mentalistic language in biological organisation rather than psychology.
 
 ---
 
@@ -38,7 +38,7 @@ APS resolves this problem by grounding mentalistic language in organisation rath
 
 APS begins with life, not mind.
 
-More precisely, it begins with **viability-oriented, constraint-closed organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+More precisely, it begins with **viability-oriented, constraint-closed biological organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
 
 From this condition follows normativity:
 
@@ -48,7 +48,7 @@ From this condition follows normativity:
 
 This establishes evaluation as an objective feature of living systems.
 
-Mentalistic terms, in APS, refer to aspects of this organisation.
+Mentalistic terms, in APS, refer to aspects of this biological organisation.
 
 ---
 
@@ -59,7 +59,7 @@ APS distinguishes between organisational features required for life and those th
 **Agency** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Viability-oriented, constraint-closed activity through which a system sustains its own persistence.  
 **Status:** Universal (defining feature of life)
 
-**Cognition** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Evaluation of environmental differences relative to viability within constraint-closed organisation.  
+**Cognition** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Evaluation of environmental differences relative to viability within constraint-closed biological organisation.  
 **Status:** Universal in living systems (in minimal form)
 
 **Intelligence** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Effectiveness of problem-solving under viability constraints.  
@@ -89,7 +89,7 @@ It affirms that:
 - living systems are normatively structured  
 - biological processes are organised toward continued persistence  
 
-These are not metaphors. They are features of viability-oriented, constraint-closed organisation.
+These are not metaphors. They are features of viability-oriented, constraint-closed biological organisation.
 
 ---
 
@@ -98,10 +98,10 @@ These are not metaphors. They are features of viability-oriented, constraint-clo
 APS rejects three common misinterpretations:
 
 - **Psychological projection** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Attributing human-like inner states (beliefs, intentions, feelings) to systems without evidence  
-- **Conceptual collapse** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Treating agency, cognition, and experience as interchangeable  
+- **Conceptual collapse** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Treating biological agency, cognition, and experience as interchangeable  
 - **Pan-mental inflation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Extending sentience or consciousness to all living systems without empirical support  
 
-In each case, the error arises from failing to distinguish organisation from experience.
+In each case, the error arises from failing to distinguish biological organisation from experience.
 
 ---
 
@@ -112,7 +112,7 @@ APS does not eliminate mentalistic language. It reframes it.
 - Agency is not a property but the organised activity of living systems  
 - Cognition is not representation but evaluation relative to viability  
 - Intelligence is not general reasoning but effective regulation under constraints  
-- Purpose is not intention but the organisation of activity toward persistence  
+- Purpose is not intention but the  organisation of activity toward persistence  
 - Value is not subjective preference but intrinsic normativity  
 
 This reframing preserves the usefulness of these terms while removing their dependence on human psychology.
@@ -123,11 +123,11 @@ This reframing preserves the usefulness of these terms while removing their depe
 
 A central contribution of APS is the separation of three distinct domains:
 
-- constraint-closed organisation  
+- constraint-closed biological organisation  
 - normative evaluation relative to viability  
 - subjective experience  
 
-Organisation is sufficient for agency.  
+Organisation is sufficient for biological agency.  
 Evaluation is sufficient for cognition.  
 Experience, where it occurs, is an additional feature requiring independent explanation.
 
@@ -165,7 +165,7 @@ APS affirms that:
 
 - all life is agential  
 - all life is normatively organised  
-- all life exhibits cognition as evaluation relative to viability within constraint-closed organisation  
+- all life exhibits cognition as evaluation relative to viability within constraint-closed biological organisation  
 
 APS does **not** affirm that:
 
@@ -183,4 +183,4 @@ Sentience and consciousness remain:
 
 ## Key Point
 
-Mentalistic terms in biology do not describe hidden psychological states; they describe the organisational features of viability-oriented, constraint-closed systems. Distinguishing agency, cognition, and experience prevents conceptual collapse and stabilises biological explanation.
+Mentalistic terms in biology do not describe hidden psychological states; they describe the organisational features of viability-oriented, constraint-closed systems. Distinguishing biological agency, cognition, and experience prevents conceptual collapse and stabilises biological explanation.

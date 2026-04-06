@@ -10,7 +10,7 @@ keyPoints:
   - "Biological agency and normativity precede subjective experience."
   - "Sentience, where present, is a specialised development within life rather than its universal baseline."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - normativity
   - cognition
 relatedArticles: []
@@ -53,7 +53,7 @@ Living systems do not merely react; they evaluate conditions relative to their c
 
 APS does not begin with mind. It begins with life.
 
-More precisely, it begins with **viability-oriented, constraint-closed organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+More precisely, it begins with **viability-oriented, constraint-closed biological organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
 
 From this organisational condition follows normativity:
 
@@ -93,9 +93,9 @@ To attribute sentience in all such cases is to extend the concept beyond its evi
 
 APS therefore adopts a conservative position:
 
-Sentience is not required for agency, cognition, or purpose.
+Sentience is not required for biological agency, cognition, or purpose.
 
-It may emerge in systems with particular forms of organisation, but it is not a defining feature of life as such.
+It may emerge in systems with particular forms of biological organisation, but it is not a defining feature of life as such.
 
 ---
 
@@ -115,7 +115,7 @@ Different organisational features emerge at different levels of complexity. Trea
 
 APS preserves continuity by grounding all life in:
 
-- viability-oriented organisation  
+- viability-oriented - biological organisation  
 - constraint closure  
 - intrinsic normativity  
 
@@ -137,7 +137,7 @@ In response, some accounts expand the notion of sentience to cover all such phen
 
 APS offers a different solution.
 
-Rather than expanding sentience, it clarifies the underlying organisation:
+Rather than expanding sentience, it clarifies the underlying biological organisation:
 
 - evaluation becomes normativity  
 - regulation becomes cognition  
@@ -175,7 +175,7 @@ APS does not treat sentience as a ubiquitous or minimally present property of al
 
 ## The Payoff: Precision Without Reduction
 
-By distinguishing organisation from experience, APS achieves three things:
+By distinguishing biological organisation from experience, APS achieves three things:
 
 - it preserves the continuity between life and mind without collapsing them  
 - it avoids anthropomorphism without retreating into purely mechanistic description  
@@ -187,4 +187,4 @@ This allows biology to remain both rigorous and honest about the nature of livin
 
 ## Key Point
 
-Not all life is sentient. All life is agential: sentience, where it occurs, is a further organisational development grounded in, but not constitutive of, viability-oriented organisation.
+Not all life is sentient. All life is agential: sentience, where it occurs, is a further organisational development grounded in, but not constitutive of, viability-oriented biological organisation.

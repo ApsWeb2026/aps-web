@@ -17,7 +17,7 @@ This capacity is described as adaptation.
 
 In the APS framework, adaptation is not a property that organisms possess, nor merely the outcome of evolutionary history. It is an ongoing activity through which living systems maintain their viability as conditions change.
 
-Adaptation in APS is the present-tense reorganisation of viability-oriented, constraint-closed organisation through which living systems maintain their viability as conditions change.
+Adaptation in APS is the present-tense reorganisation of viability-oriented, constraint-closed biological-organisation through which living systems maintain their viability as conditions change.
 
 ---
 
@@ -35,11 +35,11 @@ APS therefore defines adaptation in present-tense terms.
 
 ## Adaptation as Ongoing Reorganisation
 
-In APS, adaptation is the present-tense reorganisation of viability-oriented, constraint-closed organisation.
+In APS, adaptation is the present-tense reorganisation of viability-oriented, constraint-closed biological-organisation.
 
 Living systems do not passively maintain their structure. They continuously reshape their own constraintsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âregulatory, metabolic, developmental, and ecologicalÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âin response to changing conditions.
 
-This reorganisation preserves viable trajectories, allowing systems to sustain organisation rather than lose it under changing conditions.
+This reorganisation preserves viable trajectories, allowing systems to sustain biological-organisation rather than lose it under changing conditions.
 
 Adaptation is therefore not an occasional adjustment. It is a continuous activity through which persistence is sustained across change.
 
@@ -47,7 +47,7 @@ Adaptation is therefore not an occasional adjustment. It is a continuous activit
 
 ## Adaptation and Agency
 
-Adaptation is the temporal extension of biological agency.
+Adaptation is the temporal extension of biological biological-agency.
 
 Agency describes the immediate regulation of conditions that sustain viability. Adaptation extends this regulation across time, allowing systems to maintain persistence under shifting conditions.
 
@@ -83,11 +83,11 @@ Understanding adaptation therefore requires understanding how systems remain sta
 
 ## Adaptation and Constraint Closure
 
-Adaptation is grounded in constraint-closed organisation.
+Adaptation is grounded in constraint-closed biological-organisation.
 
 Living systems maintain networks of mutually sustaining constraints. Under changing conditions, these networks must be reorganised to remain viable.
 
-Adaptation consists in reshaping these constraint relations while preserving the organisation they sustain.
+Adaptation consists in reshaping these constraint relations while preserving the biological-organisation they sustain.
 
 It is therefore not a change imposed on the system, but a reorganisation enacted by the system itself.
 
@@ -97,9 +97,9 @@ It is therefore not a change imposed on the system, but a reorganisation enacted
 
 Adaptation and evolution are closely related but distinct.
 
-Adaptation is a present-tense process: the ongoing reorganisation of living systems as they maintain their viability. Evolution is a long-term process: the transformation of such organisation across generations.
+Adaptation is a present-tense process: the ongoing reorganisation of living systems as they maintain their viability. Evolution is a long-term process: the transformation of such biological-organisation across generations.
 
-Evolution explains how adaptive organisations are stabilised, diversified, or eliminated across generations, but adaptation is realised only in the present as ongoing reorganisation of viability-oriented organisation.
+Evolution explains how adaptive organisations are stabilised, diversified, or eliminated across generations, but adaptation is realised only in the present as ongoing reorganisation of viability-oriented biological-organisation.
 
 Through inheritance, adaptive reorganisations can persist across generations, becoming the material of evolutionary change.
 
@@ -128,7 +128,7 @@ Clarifying adaptation helps resolve several key issues in biology:
 - How stability and change are integrated in living systems  
 - How evolution depends on ongoing adaptive activity  
 
-By grounding adaptation in viability-oriented organisation, APS provides a unified account of how living systems persist through change.
+By grounding adaptation in viability-oriented biological-organisation, APS provides a unified account of how living systems persist through change.
 
 ---
 
@@ -138,4 +138,4 @@ Adaptation is not defined by traits or outcomes, but by the ongoing reorganisati
 
 Living systems persist because they continuously reorganise themselves in response to change. This activity preserves viable trajectories and enables continuity through transformation.
 
-In APS, adaptation is agency extended through timeÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe ongoing reorganisation of constraint-closed organisation that allows life to sustain itself as the world changes.
+In APS, adaptation is biological-agency extended through timeÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe ongoing reorganisation of constraint-closed biological-organisation that allows life to sustain itself as the world changes.

@@ -1,12 +1,12 @@
 ---
 title: "Physiology and Evolution in APS — Two Temporal Perspectives on the Same Organisation"
-slug: "physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation"
-abstract: "This article explains how APS integrates physiology and evolution as two temporal perspectives on the same viability-oriented organisation, linking present-tense activity with historical transformation."
+slug: "physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation"
+abstract: "This article explains how APS integrates physiology and evolution as two temporal perspectives on the same viability-oriented biological-organisation, linking present-tense activity with historical transformation."
 status: canonical
 revised: 2026-04-05
 cluster: conceptual-foundations
 keyPoints:
-  - "Physiology and evolution are not separate domains but different temporal perspectives on the same organisation."
+  - "Physiology and evolution are not separate domains but different temporal perspectives on the same biological-organisation."
   - "APS links present-tense viability with long-term transformation through a unified framework."
   - "Biological explanation requires integrating both immediate regulation and historical change."
 relatedGlossaryTerms:
@@ -22,7 +22,7 @@ references: []
 
 Biology is often divided into two domains.
 
-Physiology explains how organisms function in the present: how they regulate internal conditions, acquire resources, repair damage, and maintain their organisation. Evolution explains how organisms change over time: how variation arises, how traits are transmitted, and how populations transform across generations.
+Physiology explains how organisms function in the present: how they regulate internal conditions, acquire resources, repair damage, and maintain their biological-organisation. Evolution explains how organisms change over time: how variation arises, how traits are transmitted, and how populations transform across generations.
 
 These domains are typically treated as distinct. One concerns present function, the other historical change.
 
@@ -50,11 +50,11 @@ Both forms of explanation presuppose systems that are capable of maintaining org
 
 Living systems persist through ongoing activity.
 
-They maintain their organisation despite constant material turnover and environmental fluctuation. This persistence is not passive. It is actively sustained through coordinated processes of regulation, repair, and interaction.
+They maintain their biological-organisation despite constant material turnover and environmental fluctuation. This persistence is not passive. It is actively sustained through coordinated processes of regulation, repair, and interaction.
 
 Physiology explains how this persistence is achieved moment by moment.
 
-Evolution, however, also depends on persistence. For evolutionary processes to occur, there must be systems capable of surviving, reproducing, and transmitting organisation across generations.
+Evolution, however, also depends on persistence. For evolutionary processes to occur, there must be systems capable of surviving, reproducing, and transmitting biological-organisation across generations.
 
 Without organised persistence, there is nothing for evolution to act upon.
 
@@ -66,13 +66,13 @@ Persistence is therefore not only a physiological concern. It is the condition t
 
 If physiology explains how persistence is maintained, evolution explains how persistence is transformed.
 
-Across generations, the organisation that sustains viability is modified. New forms of regulation, new structures, and new modes of interaction emerge.
+Across generations, the biological-organisation that sustains viability is modified. New forms of regulation, new structures, and new modes of interaction emerge.
 
-Evolution is not simply change. It is the historical transformation of viability-oriented organisation.
+Evolution is not simply change. It is the historical transformation of viability-oriented biological-organisation.
 
 This transformation preserves continuity while allowing novelty. Organisms remain viable even as the ways in which they sustain viability are reorganised.
 
-In this sense, evolution extends physiology across time. It tracks how the organisation that supports persistence is reconfigured under changing conditions.
+In this sense, evolution extends physiology across time. It tracks how the biological-organisation that supports persistence is reconfigured under changing conditions.
 
 ---
 
@@ -82,9 +82,9 @@ The apparent divide between physiology and evolution arises from differences in 
 
 At short timescales, we observe regulation, metabolism, and behaviour. At longer timescales, we observe adaptation, diversification, and evolutionary innovation.
 
-These are not separate processes. They are different temporal expressions of the same viability-oriented organisation.
+These are not separate processes. They are different temporal expressions of the same viability-oriented biological-organisation.
 
-APS captures this continuity by treating process and scale as inseparable. Biological organisation unfolds across interacting temporal and spatial scales, from molecular dynamics to evolutionary history.
+APS captures this continuity by treating process and scale as inseparable. Biological biological-organisation unfolds across interacting temporal and spatial scales, from molecular dynamics to evolutionary history.
 
 Explanation must therefore integrate these scales rather than treat them as independent domains.
 
@@ -92,11 +92,11 @@ Explanation must therefore integrate these scales rather than treat them as inde
 
 ## Agency Across Time
 
-Biological agency is central to both physiology and evolution.
+Biological biological-agency is central to both physiology and evolution.
 
-In physiology, agency is expressed in the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s capacity to regulate itself, respond to perturbation, and maintain viability.
+In physiology, biological-agency is expressed in the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s capacity to regulate itself, respond to perturbation, and maintain viability.
 
-In evolution, agency is expressed in the persistence of systems that successfully sustain themselves across generations. Lineages endure because their organisation continues to support viability under changing conditions.
+In evolution, biological-agency is expressed in the persistence of systems that successfully sustain themselves across generations. Lineages endure because their biological-organisation continues to support viability under changing conditions.
 
 Evolutionary outcomes are therefore not imposed on passive systems. They arise from the differential persistence of actively maintained organisations.
 
@@ -110,7 +110,7 @@ The traditional distinction between proximate and ultimate causes reflects the s
 
 Proximate causes explain how a trait functions within an organism. Ultimate causes explain why that trait exists in a population.
 
-From an APS perspective, both forms of explanation refer to the same organisation viewed at different temporal resolutions.
+From an APS perspective, both forms of explanation refer to the same biological-organisation viewed at different temporal resolutions.
 
 Proximate explanations describe how viability is maintained in the present. Ultimate explanations describe how patterns of viability have been stabilised or transformed over evolutionary time.
 
@@ -124,15 +124,15 @@ Recognising the continuity between physiology and evolution has several conseque
 
 It clarifies that evolutionary theory presupposes the existence of systems capable of sustaining organised persistence. It shows that physiological processes are not isolated from evolutionary history but are themselves products of it.
 
-It also highlights that adaptation involves the reorganisation of processes that already sustain viability. Evolution does not create organisation from nothing; it transforms existing viability-oriented systems.
+It also highlights that adaptation involves the reorganisation of processes that already sustain viability. Evolution does not create biological-organisation from nothing; it transforms existing viability-oriented systems.
 
-Biological explanation must therefore account for both the maintenance and the transformation of organisation within a unified framework.
+Biological explanation must therefore account for both the maintenance and the transformation of biological-organisation within a unified framework.
 
 ---
 
 ## Conclusion
 
-Physiology and evolution are not separate domains of biology. They are two temporal perspectives on the same phenomenon: the persistence and transformation of viability-oriented organisation.
+Physiology and evolution are not separate domains of biology. They are two temporal perspectives on the same phenomenon: the persistence and transformation of viability-oriented biological-organisation.
 
 The APS framework unifies these perspectives by identifying the organisational conditions that underlie both present function and historical change.
 

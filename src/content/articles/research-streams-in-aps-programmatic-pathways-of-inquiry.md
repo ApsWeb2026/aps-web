@@ -10,7 +10,7 @@ keyPoints:
   - "These streams connect conceptual clarification with empirical and theoretical development."
   - "The APS program advances through structured, interrelated research pathways rather than isolated claims."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
 relatedArticles: []
@@ -65,7 +65,7 @@ Research streams cut across these domains. A single stream may include:
 
 This allows APS to support both:
 
-- **structured knowledge organisation** (through clusters), and  
+- **structured knowledge biological organisation** (through clusters), and  
 - **programmatic research development** (through streams)
 
 without conflating the two.
