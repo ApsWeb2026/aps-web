@@ -33,7 +33,7 @@ Each term is defined in relation to others within a shared conceptual framework.
 
 APS treats definitions as constraints within an explanatory system.
 
-A constraint, in this context, is not a limitation imposed from outside, but a condition that stabilises biological-organisation. Just as constraints in biological systems channel activity into coherent patterns, definitions in APS channel explanation into coherent form.
+A constraint, in this context, is not a limitation imposed from outside, but a condition that stabilises biological organisation. Just as constraints in biological systems channel activity into coherent patterns, definitions in APS channel explanation into coherent form.
 
 Definitions therefore do not merely label phenomena. They regulate how explanations can be constructed.
 
@@ -41,11 +41,11 @@ Definitions therefore do not merely label phenomena. They regulate how explanati
 
 ## Conceptual Closure
 
-In living systems, constraint closure describes the biological-organisation of mutually dependent constraints that sustain persistence.
+In living systems, constraint closure describes the biological organisation of mutually dependent constraints that sustain persistence.
 
 APS exhibits an analogous structure at the conceptual level.
 
-Key definitions are mutually dependent. Concepts such as biological-agency, process, scale, function, and adaptation are defined in ways that refer to and reinforce one another. Together, they form a network that stabilises the explanatory framework.
+Key definitions are mutually dependent. Concepts such as biological agency, process, scale, function, and adaptation are defined in ways that refer to and reinforce one another. Together, they form a network that stabilises the explanatory framework.
 
 This can be understood as conceptual closure: a system in which definitions constrain and support one another, maintaining coherence across the framework.
 

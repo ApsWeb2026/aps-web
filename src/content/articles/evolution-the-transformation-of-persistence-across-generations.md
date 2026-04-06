@@ -1,15 +1,15 @@
 ---
 title: Evolution — The Transformation of Persistence Across Generations
 slug: evolution
-abstract: Evolution is often defined as change in gene frequencies within populations, but this view does not fully explain what is changing or why such change is biologically meaningful. This article defines evolution in APS as the historical transformation of viability-oriented, constraint-closed biological-organisation across generations. It clarifies how evolution presupposes persistence, extends adaptation across generations, and operates on organisational capacities rather than isolated traits. Evolution is thus understood as the long-term transformation of persistence-sustaining biological-organisation.
+abstract: Evolution is often defined as change in gene frequencies within populations, but this view does not fully explain what is changing or why such change is biologically meaningful. This article defines evolution in APS as the historical transformation of viability-oriented, constraint-closed biological organisation across generations. It clarifies how evolution presupposes persistence, extends adaptation across generations, and operates on organisational capacities rather than isolated traits. Evolution is thus understood as the long-term transformation of persistence-sustaining biological organisation.
 status: canonical
 revised: 2026-03-21
 cluster: foundations
 keyPoints:
-  - Evolution is the long-term transformation of persistence-sustaining biological-organisation across generations.
-  - Evolution presupposes systems capable of maintaining organised persistence and does not generate biological-organisation from passive components.
+  - Evolution is the long-term transformation of persistence-sustaining biological organisation across generations.
+  - Evolution presupposes systems capable of maintaining organised persistence and does not generate biological organisation from passive components.
   - Evolution extends adaptation across generations through the transmission and stabilisation of adaptive reorganisation.
-  - Natural selection operates on organised systems and explains patterns of transformation, not the existence of biological-organisation itself.
+  - Natural selection operates on organised systems and explains patterns of transformation, not the existence of biological organisation itself.
 relatedGlossaryTerms:
   - adaptation
 references: []
@@ -25,29 +25,29 @@ In many accounts, evolution is treated as a statistical process: change in gene 
 
 APS approaches evolution differently. It begins not with genes or populations, but with living systems as organised, self-maintaining processes.
 
-Evolution in APS is the historical transformation of viability-oriented, constraint-closed biological-organisation across generations.
+Evolution in APS is the historical transformation of viability-oriented, constraint-closed biological organisation across generations.
 
-Evolution in APS is the historical transformation of persistence-sustaining biological-organisation across generations.
+Evolution in APS is the historical transformation of persistence-sustaining biological organisation across generations.
 
 ---
 
 ## Beyond Gene Frequencies
 
-Evolution is commonly defined as change in gene frequencies within populations over time. This formulation captures important patterns of inheritance and variation, but it treats evolution as a statistical description rather than an account of biological biological-organisation.
+Evolution is commonly defined as change in gene frequencies within populations over time. This formulation captures important patterns of inheritance and variation, but it treats evolution as a statistical description rather than an account of biological organisation.
 
-Genes do not evolve in isolation. They function within systems that sustain their own biological-organisation and persistence.
+Genes do not evolve in isolation. They function within systems that sustain their own biological organisation and persistence.
 
 APS therefore shifts the explanatory focus from statistical change to organisational transformation.
 
-Evolution is not fundamentally a change in frequencies, but a transformation in how living systems sustain their biological-organisation across generations.
+Evolution is not fundamentally a change in frequencies, but a transformation in how living systems sustain their biological organisation across generations.
 
 ---
 
 ## Evolution as Transformation of Organisation
 
-In APS, evolution is the historical transformation of persistence-sustaining biological-organisation.
+In APS, evolution is the historical transformation of persistence-sustaining biological organisation.
 
-Living systems transmit biological-organisation across generations through processes of inheritance. This biological-organisation is not static: it is continuously modified, reconfigured, and sometimes lost.
+Living systems transmit biological organisation across generations through processes of inheritance. This biological organisation is not static: it is continuously modified, reconfigured, and sometimes lost.
 
 Evolution describes how these transformations accumulate over time while maintaining continuity of persistence.
 
@@ -59,9 +59,9 @@ What changes is not only structure, but the organisational capacities through wh
 
 Evolution depends on systems that can persist.
 
-Natural selection, mutation, and drift operate only because living systems are already capable of maintaining organised persistence and transmitting that biological-organisation across generations.
+Natural selection, mutation, and drift operate only because living systems are already capable of maintaining organised persistence and transmitting that biological organisation across generations.
 
-Evolution does not generate biological-organisation from non-organised components; it transforms biological-organisation that is already actively sustained.
+Evolution does not generate biological organisation from non-organised components; it transforms biological organisation that is already actively sustained.
 
 This reverses a common explanatory assumption: persistence is not the outcome of evolution; evolution depends on persistence.
 
@@ -73,7 +73,7 @@ Evolution and adaptation are closely related but distinct.
 
 Adaptation is a present-tense process: the ongoing reorganisation of living systems as they maintain their viability under changing conditions.
 
-Evolution is a long-term process: the transformation of such biological-organisation across generations.
+Evolution is a long-term process: the transformation of such biological organisation across generations.
 
 Evolution extends adaptation across generations: adaptive reorganisations that are stabilised and transmitted become the material of evolutionary transformation.
 
@@ -87,7 +87,7 @@ Natural selection is a central mechanism in evolutionary theory. It explains how
 
 APS retains the formal insights of selection theory but repositions its explanatory role.
 
-Selection does not create biological-organisation. It operates on systems that already sustain themselves.
+Selection does not create biological organisation. It operates on systems that already sustain themselves.
 
 Selection therefore explains patterns of transformation, but not the organisational conditions that make such transformation possible.
 
@@ -95,11 +95,11 @@ Selection therefore explains patterns of transformation, but not the organisatio
 
 ## Evolution and Constraint Closure
 
-Evolution transforms constraint-closed biological-organisation.
+Evolution transforms constraint-closed biological organisation.
 
 Living systems maintain networks of constraints that sustain their persistence. Across generations, these networks can be reorganised, expanded, or simplified.
 
-Evolution therefore acts on the biological-organisation of constraints, not merely on isolated traits.
+Evolution therefore acts on the biological organisation of constraints, not merely on isolated traits.
 
 This perspective allows evolution to be understood as the transformation of organisational capacities, not just the modification of structures.
 
@@ -113,7 +113,7 @@ APS situates evolution within a broader temporal framework:
 - **Adaptation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â reorganisation across changing conditions  
 - **Evolution** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â transformation across generations  
 
-Evolution occupies the long-term pole. It describes how patterns of biological-organisation are transformed over historical time while remaining grounded in ongoing processes of persistence and adaptation.
+Evolution occupies the long-term pole. It describes how patterns of biological organisation are transformed over historical time while remaining grounded in ongoing processes of persistence and adaptation.
 
 This framework clarifies how continuity and change are integrated in living systems.
 
@@ -125,17 +125,17 @@ Clarifying evolution in organisational terms helps resolve several key issues:
 
 - Why evolution presupposes living systems rather than explaining them from scratch  
 - How adaptation and selection relate without being conflated  
-- Why biological change must be understood in terms of biological-organisation, not just variation  
+- Why biological change must be understood in terms of biological organisation, not just variation  
 - How long-term transformation is grounded in present-time activity  
 
-By grounding evolution in viability-oriented biological-organisation, APS provides a unified account of how life changes while remaining coherent.
+By grounding evolution in viability-oriented biological organisation, APS provides a unified account of how life changes while remaining coherent.
 
 ---
 
 ## Conclusion
 
-Evolution is not merely change over time, but the transformation of persistence-sustaining biological-organisation across generations.
+Evolution is not merely change over time, but the transformation of persistence-sustaining biological organisation across generations.
 
-Living systems endure across generations by transmitting and modifying the biological-organisation through which they sustain themselves. This process produces the diversity of life while maintaining continuity of biological-organisation.
+Living systems endure across generations by transmitting and modifying the biological organisation through which they sustain themselves. This process produces the diversity of life while maintaining continuity of biological organisation.
 
 In APS, evolution is the historical transformation of viability-oriented, constraint-closed organisationÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe long-term expression of persistence across generations.

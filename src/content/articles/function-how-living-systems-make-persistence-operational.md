@@ -1,14 +1,14 @@
 ---
 title: "Function — How Living Systems Make Persistence Operational"
 slug: "function-how-living-systems-make-persistence-operational"
-abstract: "This article explains function in APS as the operational expression of purpose within viability-oriented, constraint-closed biological-organisation."
+abstract: "This article explains function in APS as the operational expression of purpose within viability-oriented, constraint-closed biological organisation."
 status: canonical
 revised: 2026-04-05
 cluster: conceptual-foundations
 keyPoints:
   - "In APS, function is the operational expression of purpose."
   - "Biological functions are defined by their contribution to viability-oriented persistence."
-  - "Function links present biological-organisation with historically shaped biological activity."
+  - "Function links present biological organisation with historically shaped biological activity."
 relatedGlossaryTerms:
   - function
   - purpose
@@ -24,7 +24,7 @@ Biological systems are often described in terms of what their parts do. Hearts p
 
 These descriptions appear straightforward, but they conceal a deeper question: what makes a process or structure count as having a function at all?
 
-Traditional accounts often appeal to evolutionary history or causal contribution. APS takes a different approach. It grounds function in the present biological-organisation of living systems.
+Traditional accounts often appeal to evolutionary history or causal contribution. APS takes a different approach. It grounds function in the present biological organisation of living systems.
 
 Function is not something assigned from the outside or inherited from the past. It is something enacted within an already organised, self-maintaining system.
 
@@ -42,7 +42,7 @@ Both approaches capture important aspects of biology, but neither fully explains
 
 Causal accounts do not distinguish between effects that matter for persistence and those that do not. Historical accounts explain how functions arise, but not how they operate in the present.
 
-APS therefore defines function in relation to ongoing biological-organisation.
+APS therefore defines function in relation to ongoing biological organisation.
 
 ---
 
@@ -52,7 +52,7 @@ In APS, function is the viability-relative organisational role of a structure or
 
 A process counts as functional only insofar as it contributes, in the present tense, to sustaining or restoring viability.
 
-Function is therefore not an intrinsic property of a component, nor an externally assigned purpose. It is a role defined within a system whose biological-organisation is oriented toward persistence.
+Function is therefore not an intrinsic property of a component, nor an externally assigned purpose. It is a role defined within a system whose biological organisation is oriented toward persistence.
 
 Function depends on organisational context: the same process may be functional in one system and non-functionalÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âor even detrimentalÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âin another.
 
@@ -62,7 +62,7 @@ Function depends on organisational context: the same process may be functional i
 
 Function presupposes a purposive context in the APS sense.
 
-Purpose names the viability-oriented biological-organisation of the system as a whole. Function names the concrete operations through which that biological-organisation is enacted.
+Purpose names the viability-oriented biological organisation of the system as a whole. Function names the concrete operations through which that biological organisation is enacted.
 
 Function is the operational expression of purpose.
 
@@ -74,7 +74,7 @@ This relationship clarifies why function cannot be understood in isolation. A pr
 
 Function is inherently normative.
 
-Because living systems must sustain their own biological-organisation, processes can succeed or fail relative to viability. A function is realised when activity contributes to persistence and fails when it undermines it.
+Because living systems must sustain their own biological organisation, processes can succeed or fail relative to viability. A function is realised when activity contributes to persistence and fails when it undermines it.
 
 Normativity is therefore not added to functionÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is what makes function intelligible.
 
@@ -84,9 +84,9 @@ Function identifies what counts as effective within a viability-oriented system.
 
 ## Function and Constraint Closure
 
-Function is grounded in constraint-closed biological-organisation.
+Function is grounded in constraint-closed biological organisation.
 
-Within such systems, processes contribute to maintaining the network of constraints that sustains persistence. A function is realised when a process supports this biological-organisation, either by maintaining existing constraints or by restoring them under perturbation.
+Within such systems, processes contribute to maintaining the network of constraints that sustains persistence. A function is realised when a process supports this biological organisation, either by maintaining existing constraints or by restoring them under perturbation.
 
 Function therefore reflects the role of activity within a self-maintaining system, not the properties of isolated components.
 
@@ -94,7 +94,7 @@ Function therefore reflects the role of activity within a self-maintaining syste
 
 ## Functional Equivalence
 
-Biological systems exhibit a remarkable capacity to sustain their biological-organisation through different means.
+Biological systems exhibit a remarkable capacity to sustain their biological organisation through different means.
 
 Distinct structures, processes, or behaviours can perform equivalent roles in maintaining viability. This is described in APS as functional equivalence.
 
@@ -132,10 +132,10 @@ Clarifying function helps resolve several persistent issues in biology:
 
 - Why function cannot be reduced to causal effects  
 - Why evolutionary history does not define present function  
-- How normativity is grounded in biological biological-organisation  
+- How normativity is grounded in biological organisation  
 - How systems maintain coherence despite change  
 
-By grounding function in viability-oriented biological-organisation, APS provides a unified account of what biological systems do and why it matters.
+By grounding function in viability-oriented biological organisation, APS provides a unified account of what biological systems do and why it matters.
 
 ---
 
@@ -143,6 +143,6 @@ By grounding function in viability-oriented biological-organisation, APS provide
 
 Function is not defined by what parts are for in an abstract or historical sense, but by what processes do within a living system to sustain its continued existence.
 
-In APS, function is the viability-relative role through which biological-organisation is enacted. It makes persistence operational.
+In APS, function is the viability-relative role through which biological organisation is enacted. It makes persistence operational.
 
-Understanding function therefore requires understanding the biological-organisation within which it is realisedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âa system that is already agentive, constraint-closed, and oriented toward its own persistence.
+Understanding function therefore requires understanding the biological organisation within which it is realisedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âa system that is already agentive, constraint-closed, and oriented toward its own persistence.
