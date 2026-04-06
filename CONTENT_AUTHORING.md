@@ -176,6 +176,21 @@ The `relatedGlossaryTerms` field on articles accepts glossary slugs. These rende
 
 The `relatedArticles` field on articles accepts other article slugs. These auto-resolve to titled links in a "Related Articles" section. This behaves like the glossary See Also feature.
 
+### Glossary Usage Rule (Mandatory)
+
+This rule governs how glossary terms are used across all content.
+
+- Use canonical slugs (e.g., `biological-agency`) ONLY in structured fields such as `relatedGlossaryTerms`.
+- Do NOT use hyphenated glossary slugs in prose, abstracts, keyPoints, or headings.
+- All reader-facing text must use natural language (e.g., biological agency).
+
+**Correct:**
+- `relatedGlossaryTerms`: biological-agency  
+- Prose: "biological agency"
+
+**Incorrect:**
+- Prose: "biological-agency"
+
 ### Research Streams
 
 The `researchStreams` field on articles is a list of stream slugs. Articles appear automatically on the corresponding stream hub pages.
