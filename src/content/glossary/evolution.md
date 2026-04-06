@@ -1,11 +1,16 @@
 ---
 title: Evolution
 slug: evolution
-definition: "Evolution is the historical transformation of viability-oriented organisation across generations."
-inBrief: "Evolution is the long-term transformation of living organisation."
+definition: "Evolution is the historical transformation of viability-oriented, constraint-closed organisation through which living systems sustain and extend their persistence across generations."
+inBrief: "Evolution is the long-term transformation of viability-oriented organisation across generations."
 status: canonical
 cluster: foundations
-revised: 2026-04-03
+revised: 2026-04-06
+seeAlso:
+  - persistence
+  - adaptation
+  - biological-organisation
+  - function
 ---
 
 ## Conventional framing
@@ -18,8 +23,8 @@ APS defines evolution as the temporal extension of persistence. Living systems d
 
 Natural selection and other evolutionary processes presuppose the existence of systems capable of sustaining organised persistence and transmitting that organisation across time. These processes explain how particular organisational patterns are stabilised, diversified, or eliminated, but they do not constitute the organisational conditions under which evolution becomes possible.
 
-Evolution thus transforms not only biological structures but the organisational capacities through which living systems regulate their own viability. It links present-time organisation with long-term transformation, completing the temporal triad of PersistenceÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œAdaptationÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œEvolution.
+Evolution transforms not only biological structures but the organisational capacities through which living systems regulate their own viability. It links present-time organisation with long-term transformation, completing the temporal triad of Persistence–Adaptation–Evolution.
 
 ## Key Point
 
-Evolution is the historical transformation of persistence-sustaining organisation across generations.
+Evolution is the historical transformation of persistence-sustaining, viability-oriented organisation across generations.

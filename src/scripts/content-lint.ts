@@ -108,6 +108,24 @@ function parseYamlArray(content: string, fieldName: string): string[] {
   return items;
 }
 
+function stripFrontmatter(content: string): string {
+  return content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '');
+}
+
+function findForbiddenGlossarySlugsInProse(content: string): string[] {
+  const body = stripFrontmatter(content);
+
+  const forbidden = [
+    'biological-agency',
+    'biological-organisation',
+  ];
+
+  return forbidden.filter((term) => {
+    const regex = new RegExp(`\\b${term}\\b`, 'g');
+    return regex.test(body);
+  });
+}
+
 function lintCollection(section: string): LintIssue[] {
   const dir = path.join(CONTENT_DIR, section);
   const issues: LintIssue[] = [];
@@ -174,6 +192,18 @@ function lintCollection(section: string): LintIssue[] {
       }
     }
 
+     // Check for glossary slugs leaking into article prose (warning — reader-facing text should use natural language)
+    if (section === 'articles') {
+      const forbiddenInProse = findForbiddenGlossarySlugsInProse(content);
+      for (const term of forbiddenInProse) {
+        issues.push({
+          file: relPath,
+          issue: `Slug used in prose: "${term}" found in article body/reader-facing text; use natural language instead`,
+          severity: 'warning',
+        });
+      }
+    }
+    
     // Check relatedArticles references (warning — content may be added later)
     if (section === 'articles' || section === 'orientation') {
       const related = parseYamlArray(content, 'relatedArticles');

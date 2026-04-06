@@ -1,11 +1,16 @@
 ---
 title: Function
 slug: function
-definition: "In APS, function is the contribution a process or structure makes to sustaining viability within a living organisation."
-inBrief: "Function is a contribution to sustaining viability."
+definition: "Function is the contribution a structure or process makes to the persistence, coherence, or reproduction of a constraint-closed biological system."
+inBrief: "Function is the contribution a structure or process makes to sustaining viability."
 status: canonical
 cluster: foundations
-revised: 2026-04-03
+revised: 2026-04-06
+seeAlso:
+  - purpose
+  - normativity
+  - biological-organisation
+  - adaptation
 ---
 
 ## Conventional framing
@@ -14,7 +19,11 @@ Function is often explained in terms of selected effects (what a trait was selec
 
 ## APS reframing
 
-APS grounds function in biological normativity, which arises from agency. Because living systems must actively sustain their own persistence, their organisation establishes intrinsic conditions of success and failure. Function is the operational expression of this viability-oriented organisation: it specifies how particular structures and processes contribute to maintaining or restoring viability within a constraint-closed system. Evolutionary history explains how such roles emerge and stabilise, but functional status is determined in the present by ongoing contribution to persistence. Function therefore cannot be reduced to selection history or neutral causal description; it is inherently normative and organisation-dependent.
+APS grounds function in biological normativity, which arises from viability-oriented organisation. Because living systems must actively sustain their own persistence, their organisation establishes intrinsic conditions of success and failure. Function is the operational expression of this organisation: it specifies how particular structures and processes contribute to maintaining or restoring viability within a constraint-closed system.
+
+Evolutionary history explains how such roles emerge and stabilise, but functional status is determined in the present by ongoing contribution to persistence. Function therefore cannot be reduced to selection history or neutral causal description; it is inherently normative and organisation-dependent.
+
+Function thus integrates both etiological and causal-role accounts: it reflects how a trait has been shaped historically and how it presently contributes to sustaining the system’s continued existence.
 
 ## Key Point
 
