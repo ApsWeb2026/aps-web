@@ -147,7 +147,7 @@ function lintCollection(section: string): LintIssue[] {
     const fm = parseFrontmatter(content);
 
     // Check slug (error — structural)
-    const slug = fm.slug as string;
+    const slug = (section === 'articles' ? fm.entrySlug : fm.slug) as string;
     if (!slug) {
       issues.push({ file: relPath, issue: 'Missing slug', severity: 'error' });
     } else {
