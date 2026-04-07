@@ -109,9 +109,9 @@ Through inheritance, adaptive reorganisations can persist across generations, be
 
 APS situates adaptation within a temporal framework:
 
-- **Persistence** ¬ immediate viability  
-- **Adaptation** ¬ reorganisation across changing conditions  
-- **Evolution** ¬ long-term transformation across generations  
+- **Persistence** — immediate viability  
+- **Adaptation** — reorganisation across changing conditions  
+- **Evolution** — long-term transformation across generations  
 
 Adaptation occupies the middle position. It links present regulation with long-term change, without reducing one to the other.
 

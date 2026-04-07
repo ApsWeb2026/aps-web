@@ -9,7 +9,7 @@ revised: "2026-04-03"
 
 ## Introduction
 
-Living systems do not merely exist ¬ they actively sustain themselves.
+Living systems do not merely exist — they actively sustain themselves.
 
 Cells regulate their internal conditions, organisms respond to changing environments, and living systems at all scales maintain the biological organisation required for their continued existence. This activity is not incidental. It is constitutive of life itself.
 
@@ -37,7 +37,7 @@ In APS, biological biological agency is the viability-oriented, self-regulating,
 
 This means that living systems do not simply undergo change. They actively regulate the conditions under which they can continue to exist.
 
-Agency is therefore not a structure, property, or capacity. It is an ongoing activity ¬ what living systems do to keep going.
+Agency is therefore not a structure, property, or capacity. It is an ongoing activity — what living systems do to keep going.
 
 ---
 
@@ -62,7 +62,7 @@ Through this activity, systems differentiate changes relative to viability and a
 
 ---
 
-## Agency, Normativity, and ¬ What Matters¬
+## Agency, Normativity, and — What Matters¬
 
 Because living systems must sustain their own biological organisation, not all states are equivalent. Some support persistence, while others undermine it.
 
@@ -76,9 +76,9 @@ Normativity is therefore not an added feature. It is intrinsic to biological age
 
 In APS, biological agency is one dimension of a triad:
 
-- **Agency** ¬ viability-oriented regulation  
-- **Process** ¬ the dynamic biological organisation of activity through time  
-- **Scale** ¬ the coordination of activity across spatial and temporal domains  
+- **Agency** — viability-oriented regulation  
+- **Process** — the dynamic biological organisation of activity through time  
+- **Scale** — the coordination of activity across spatial and temporal domains  
 
 These are analytically distinguishable but ontologically co-constitutive. Each describes the same viability-oriented, constraint-closed biological organisation from a different perspective.
 
@@ -133,6 +133,6 @@ By identifying biological agency as viability-oriented activity, APS provides a 
 
 Biological biological agency is the activity through which life exists.
 
-Living systems persist because they actively sustain and regulate the conditions required for their own existence. This activity is not an additional feature of life ¬ it is what life is.
+Living systems persist because they actively sustain and regulate the conditions required for their own existence. This activity is not an additional feature of life — it is what life is.
 
 In APS, biological agency makes explicit the viability-oriented biological organisation that defines living systems. It reveals how persistence becomes an active, self-maintaining achievement enacted through process and coordinated across scale.

@@ -18,11 +18,11 @@ researchStreams: []
 references: []
 ---
 
-Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agency ¬ the viability-oriented  organisation of activity through which living systems sustain their own persistence.
+Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agency — the viability-oriented  organisation of activity through which living systems sustain their own persistence.
 
 ## Why Normativity Seems “Unscientific"
 
-Normativity concerns standards ¬ better or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
+Normativity concerns standards — better or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
 
 Physics describes what happens, not what should happen. Chemistry explains reactions, not mistakes. Biology, it is often assumed, should do the same.
 
@@ -54,7 +54,7 @@ Normativity here is not mental. It is organisational.
 
 ## Teleology Rejected and Reframed
 
-Classical biology explained normativity through teleology ¬ parts existing for the sake of the whole. Modern biology rejected such explanations to avoid appeals to design or intention.
+Classical biology explained normativity through teleology — parts existing for the sake of the whole. Modern biology rejected such explanations to avoid appeals to design or intention.
 
 But removing teleology entirely left a gap. Mechanistic accounts explain how processes unfold, but not why failure counts as failure.
 
@@ -78,7 +78,7 @@ In APS terms, something matters if it makes a difference to viability.
 - water matters because it sustains regulation  
 - damage matters because it threatens organisational integrity  
 
-This ¬ “mattering" is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
+This — “mattering" is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
 
 ## Normativity, Agency, and Function
 

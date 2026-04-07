@@ -22,7 +22,7 @@ references: []
 
 Living systems persist in a changing world.
 
-Conditions fluctuate, internal states vary, and environments shift continuously. Despite this, living systems maintain their biological organisation over time. They do not remain fixed ¬ they remain coherent.
+Conditions fluctuate, internal states vary, and environments shift continuously. Despite this, living systems maintain their biological organisation over time. They do not remain fixed — they remain coherent.
 
 This form of persistence cannot be understood as the maintenance of a constant state. It requires a different concept: homeorhesis.
 
@@ -85,7 +85,7 @@ This makes homeorhesis an intrinsic feature of living systems, not an external d
 
 Homeorhesis is enacted through biological biological agency.
 
-Living systems do not passively follow trajectories ¬ they actively maintain them. Through biological agency, systems regulate their own biological organisation in relation to viability.
+Living systems do not passively follow trajectories — they actively maintain them. Through biological agency, systems regulate their own biological organisation in relation to viability.
 
 Homeorhesis therefore describes the temporal mode through which biological agency sustains coherent biological organisation across change.
 
@@ -134,4 +134,4 @@ Living systems persist not by remaining the same, but by remaining organised thr
 
 Homeorhesis defines this form of persistence: the maintenance of viable trajectories through ongoing reorganisation.
 
-In APS, homeorhesis is the temporal mode of persistence ¬ the way life sustains itself as conditions change.
+In APS, homeorhesis is the temporal mode of persistence — the way life sustains itself as conditions change.

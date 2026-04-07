@@ -109,8 +109,8 @@ APS_PE maintains that:
 
 APS_PE is closely connected to:
 
-- **APS_MC (Meaning Without Neurons)** ¬ which establishes evaluation as a feature of cognition  
-- **APS_LD (Life Detection)** ¬ which identifies viability-oriented biological organisation empirically  
+- **APS_MC (Meaning Without Neurons)** — which establishes evaluation as a feature of cognition  
+- **APS_LD (Life Detection)** — which identifies viability-oriented biological organisation empirically  
 
 Together, these streams articulate a progression from:
 

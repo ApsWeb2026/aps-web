@@ -22,7 +22,7 @@ references: []
 
 Biological systems are often described in terms of their structure: the arrangement of parts, the biological organisation of tissues, or the architecture of networks. While such descriptions capture important features of living systems, they do not by themselves explain how those systems persist over time.
 
-Living systems are not simply arranged ¬ they are actively maintained. Their biological organisation must be continuously sustained through ongoing activity.
+Living systems are not simply arranged — they are actively maintained. Their biological organisation must be continuously sustained through ongoing activity.
 
 Understanding life therefore requires a concept of biological organisation that goes beyond static structure. It requires an account of how biological organisation is enacted, maintained, and transformed through the activity of the system itself.
 
@@ -60,7 +60,7 @@ This condition is described in APS as constraint closure.
 
 Constraint closure explains how a system can persist as a coherent whole without external control. It provides the organisational basis of persistence.
 
-However, closure alone is not sufficient for life. Living systems do not merely maintain their organisation ¬ they actively regulate and reorganise it in response to changing conditions.
+However, closure alone is not sufficient for life. Living systems do not merely maintain their organisation — they actively regulate and reorganise it in response to changing conditions.
 
 ---
 
@@ -80,7 +80,7 @@ Organisation therefore provides the basis for both normativity and biological ag
 
 Biological biological organisation is not static. It is continuously enacted through processes that sustain and transform constraint relations over time.
 
-Metabolism, development, regulation, and repair are not separate from organisation ¬ they are its ongoing realisation.
+Metabolism, development, regulation, and repair are not separate from organisation — they are its ongoing realisation.
 
 Stability and change are not opposed. Living systems maintain themselves precisely by transforming their own biological organisation in response to internal and external conditions.
 
@@ -125,6 +125,6 @@ By focusing on biological organisation, APS provides a framework capable of inte
 
 Biological biological organisation is not the arrangement of parts but the ongoing maintenance of relations that sustain persistence. It is the dynamic pattern through which living systems exist as coherent, self-maintaining entities.
 
-Understanding life therefore requires an explanatory grammar grounded in organisation ¬ not as static structure, but as viability-oriented, constraint-closed activity enacted across processes and scales.
+Understanding life therefore requires an explanatory grammar grounded in organisation — not as static structure, but as viability-oriented, constraint-closed activity enacted across processes and scales.
 
 APS provides that account.

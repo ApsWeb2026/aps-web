@@ -17,7 +17,7 @@ references: []
 
 ## Introduction
 
-Living systems do not merely persist ¬ they change across generations.
+Living systems do not merely persist — they change across generations.
 
 Forms diversify, structures transform, and new organisational patterns emerge over time. This long-term transformation is described as evolution.
 
@@ -109,9 +109,9 @@ This perspective allows evolution to be understood as the transformation of orga
 
 APS situates evolution within a broader temporal framework:
 
-- **Persistence** ¬ immediate viability  
-- **Adaptation** ¬ reorganisation across changing conditions  
-- **Evolution** ¬ transformation across generations  
+- **Persistence** — immediate viability  
+- **Adaptation** — reorganisation across changing conditions  
+- **Evolution** — transformation across generations  
 
 Evolution occupies the long-term pole. It describes how patterns of biological organisation are transformed over historical time while remaining grounded in ongoing processes of persistence and adaptation.
 
@@ -138,4 +138,4 @@ Evolution is not merely change over time, but the transformation of persistence-
 
 Living systems endure across generations by transmitting and modifying the biological organisation through which they sustain themselves. This process produces the diversity of life while maintaining continuity of biological organisation.
 
-In APS, evolution is the historical transformation of viability-oriented, constraint-closed organisation ¬ the long-term expression of persistence across generations.
+In APS, evolution is the historical transformation of viability-oriented, constraint-closed organisation — the long-term expression of persistence across generations.

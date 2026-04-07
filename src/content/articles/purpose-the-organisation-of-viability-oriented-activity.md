@@ -37,7 +37,7 @@ To say that a system is purposive is to say that:
 - it modulates its activity in response to those conditions  
 - it maintains biological organisation in ways that sustain its persistence  
 
-Purpose is therefore not something added to biological systems ¬ it is the way viability is organised in activity.
+Purpose is therefore not something added to biological systems — it is the way viability is organised in activity.
 
 ---
 
@@ -48,9 +48,9 @@ Purpose is inseparable from normativity. A living system's biological organisati
 Agency names the viability-oriented activity through which a system sustains itself. Purpose names the organisational orientation of that activity.
 
 These are not separate entities or mechanisms. They are analytically distinct aspects of a single, constraint-closed biological organisation:
-- **Agency** ¬ activity in enactment  
+- **Agency** — activity in enactment  
 - **Purpose** ¬orientation of that activity  
-- **Normativity** ¬ the evaluation inherent in that biological organisation  
+- **Normativity** — the evaluation inherent in that biological organisation  
 
 ---
 
@@ -58,7 +58,7 @@ These are not separate entities or mechanisms. They are analytically distinct as
 
 A central implication of APS is that purpose precedes function.
 
-Purpose concerns the biological organisation of the system as a whole ¬ how activity is oriented toward continued viability. Function, by contrast, refers to the specific contributions of parts and processes within that biological organisation.
+Purpose concerns the biological organisation of the system as a whole — how activity is oriented toward continued viability. Function, by contrast, refers to the specific contributions of parts and processes within that biological organisation.
 
 This reverses the standard explanatory order in biology. Functional roles are defined within an already purposive biological organisation.
 

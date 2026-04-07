@@ -26,7 +26,7 @@ These claims are rarely arbitrary. They are typically motivated by an important 
 
 Life is continuous. The difference between simple and complex organisms is one of degree, not kind.
 
-This insight is correct ¬ and necessary. However, it does not follow that all features observed in complex organisms must be present, in even minimal form, in simpler ones.
+This insight is correct — and necessary. However, it does not follow that all features observed in complex organisms must be present, in even minimal form, in simpler ones.
 
 The challenge is to preserve continuity without collapsing distinct organisational phenomena into one another.
 
@@ -53,7 +53,7 @@ Living systems do not merely react; they evaluate conditions relative to their c
 
 APS does not begin with mind. It begins with life.
 
-More precisely, it begins with **viability-oriented, constraint-closed biological organisation** ¬ the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+More precisely, it begins with **viability-oriented, constraint-closed biological organisation** — the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
 
 From this organisational condition follows normativity:
 
@@ -67,9 +67,9 @@ But it does not establish experience.
 
 APS therefore separates three levels that are often conflated:
 
-- **Agency** ¬ viability-oriented activity through which a system sustains its own persistence  
-- **Cognition** ¬ the evaluation of environmental differences relative to viability  
-- **Experience (sentience/consciousness)** ¬ a further, empirically contingent feature of some systems  
+- **Agency** — viability-oriented activity through which a system sustains its own persistence  
+- **Cognition** — the evaluation of environmental differences relative to viability  
+- **Experience (sentience/consciousness)** — a further, empirically contingent feature of some systems  
 
 This separation preserves continuity while preventing conceptual collapse.
 
@@ -119,7 +119,7 @@ APS preserves continuity by grounding all life in:
 - constraint closure  
 - intrinsic normativity  
 
-while allowing additional features ¬ such as sentience‚¬to emerge only where supported by specific organisational structures.
+while allowing additional features — such as sentience‚¬to emerge only where supported by specific organisational structures.
 
 ---
 

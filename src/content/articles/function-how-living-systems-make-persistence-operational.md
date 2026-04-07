@@ -54,7 +54,7 @@ A process counts as functional only insofar as it contributes, in the present te
 
 Function is therefore not an intrinsic property of a component, nor an externally assigned purpose. It is a role defined within a system whose biological organisation is oriented toward persistence.
 
-Function depends on organisational context: the same process may be functional in one system and non-functional ¬ or even detrimental ¬ in another.
+Function depends on organisational context: the same process may be functional in one system and non-functional — or even detrimental — in another.
 
 ---
 
@@ -76,7 +76,7 @@ Function is inherently normative.
 
 Because living systems must sustain their own biological organisation, processes can succeed or fail relative to viability. A function is realised when activity contributes to persistence and fails when it undermines it.
 
-Normativity is therefore not added to function ¬ it is what makes function intelligible.
+Normativity is therefore not added to function — it is what makes function intelligible.
 
 Function identifies what counts as effective within a viability-oriented system.
 
@@ -145,4 +145,4 @@ Function is not defined by what parts are for in an abstract or historical sense
 
 In APS, function is the viability-relative role through which biological organisation is enacted. It makes persistence operational.
 
-Understanding function therefore requires understanding the biological organisation within which it is realised ¬ a system that is already agentive, constraint-closed, and oriented toward its own persistence.
+Understanding function therefore requires understanding the biological organisation within which it is realised — a system that is already agentive, constraint-closed, and oriented toward its own persistence.
