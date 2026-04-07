@@ -9,7 +9,7 @@ revised: "2026-04-03"
 
 ## Overview
 
-APS_LD (Life Detection) is a research stream within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework focused on the problem of identifying and detecting life. It develops a systematic approach grounded in **viability-oriented, constraint-closed biological organisation**, rather than trait lists or component-based definitions.
+APS_LD (Life Detection) is a research stream within the Agency¬Process¬Scale (APS) framework focused on the problem of identifying and detecting life. It develops a systematic approach grounded in **viability-oriented, constraint-closed biological organisation**, rather than trait lists or component-based definitions.
 
 This stream extends the core APS claim that life is not defined by specific materials or structures, but by the **biological organisation of processes that sustain persistence**. Life detection, on this view, becomes the task of identifying systems that exhibit such biological organisation under empirical conditions.
 

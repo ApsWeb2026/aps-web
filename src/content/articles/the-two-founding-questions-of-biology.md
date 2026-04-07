@@ -18,9 +18,9 @@ researchStreams: []
 references: []
 ---
 
-The conceptual development of biology has long been shaped by two foundational insights concerning living systems. AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological writings articulated the first systematic account of organisms as intrinsically organised systems whose structures and activities exist for the sake of maintaining the living individual. DarwinÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of natural selection provided a second foundational insight by explaining how such organised systems can change historically through evolutionary processes.
+The conceptual development of biology has long been shaped by two foundational insights concerning living systems. Aristotle's biological writings articulated the first systematic account of organisms as intrinsically organised systems whose structures and activities exist for the sake of maintaining the living individual. Darwin's theory of natural selection provided a second foundational insight by explaining how such organised systems can change historically through evolutionary processes.
 
-These insights address complementary aspects of biological explanation. AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biology focused on the biological organisation of living systems and the purposive coordination of their parts and processes. DarwinÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory explained the historical transformation of such biological organisation through variation, inheritance, and differential persistence across generations.
+These insights address complementary aspects of biological explanation. AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biology focused on the biological organisation of living systems and the purposive coordination of their parts and processes. Darwin's theory explained the historical transformation of such biological organisation through variation, inheritance, and differential persistence across generations.
 
 In compressed form, this relationship can be expressed simply:
 
@@ -28,7 +28,7 @@ In compressed form, this relationship can be expressed simply:
 
 ## The Darwinian Reinterpretation of Purpose
 
-One of DarwinÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s most influential conceptual moves was to reinterpret biological purposiveness. Classical biological thought explained functional biological organisation by appealing to intrinsic purpose: organs and behaviours existed because they served the needs of the organism. Darwin showed that adaptive biological organisation could arise historically through natural selection acting on heritable variation.
+One of Darwin's most influential conceptual moves was to reinterpret biological purposiveness. Classical biological thought explained functional biological organisation by appealing to intrinsic purpose: organs and behaviours existed because they served the needs of the organism. Darwin showed that adaptive biological organisation could arise historically through natural selection acting on heritable variation.
 
 As a result, evolutionary theory often adopted the formulation that natural selection explains the appearance of purpose in living systems. Structures appear designed for particular functions not because they were intentionally created for those ends, but because selection has historically preserved variants that enhance survival and reproduction.
 
@@ -40,7 +40,7 @@ From this perspective, natural selection does not simply explain the appearance 
 
 ## Why Teleology Disappeared from Biology
 
-The relative disappearance of teleological language from biology during the late nineteenth and early twentieth centuries did not result primarily from DarwinÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory itself. Rather, it reflected the broader influence of the mechanistic explanatory ideals that dominated the natural sciences following the Scientific Revolution.
+The relative disappearance of teleological language from biology during the late nineteenth and early twentieth centuries did not result primarily from Darwin's theory itself. Rather, it reflected the broader influence of the mechanistic explanatory ideals that dominated the natural sciences following the Scientific Revolution.
 
 During this period, successful physical theories emphasised efficient causes, mathematical laws, and reductionist explanations. Teleological language was therefore often regarded as metaphysical or unscientific. Many biologists consequently adopted strategies for avoiding purposive terminology, replacing it with concepts such as function, adaptation, regulation, or control.
 
@@ -48,7 +48,7 @@ Despite this linguistic shift, the underlying phenomena of organised biological 
 
 ## Agency as Persistence-Sustaining Organisation
 
-Within the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework, this organisational capacity is described as biological biological agency. Agency refers not to intention or consciousness but to the viability-oriented biological organisation through which living systems sustain, regulate, and recreate the conditions required for their continued existence.
+Within the Agency-Process-Scale (APS) framework, this organisational capacity is described as biological biological agency. Agency refers not to intention or consciousness but to the viability-oriented biological organisation through which living systems sustain, regulate, and recreate the conditions required for their continued existence.
 
 In this sense, purposive biological organisation is not merely an appearance generated by evolutionary history. It is an operational feature of living systems themselves: organisms continually modulate their internal and external conditions in ways that maintain their persistence as organised entities.
 
@@ -58,7 +58,7 @@ Evolutionary processes then act upon these persistence-sustaining systems, gradu
 
 Seen in this light, the historical development of biological theory reveals a striking conceptual symmetry.
 
-AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biology investigated how living systems maintain their organised existence in the present. DarwinÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory explained how such organised systems change historically through evolutionary processes. Contemporary theoretical biology increasingly seeks to integrate these perspectives by clarifying how the persistence-sustaining biological organisation of living systems interacts with evolutionary dynamics across time.
+Aristotle's biology investigated how living systems maintain their organised existence in the present. Darwin's theory explained how such organised systems change historically through evolutionary processes. Contemporary theoretical biology increasingly seeks to integrate these perspectives by clarifying how the persistence-sustaining biological organisation of living systems interacts with evolutionary dynamics across time.
 
 This integration is reflected in the conceptual grammar of the APS framework. The three analytic dimensions of biological explanation correspond closely to the historical concerns of these traditions:
 
@@ -74,7 +74,7 @@ In this interpretation, the development of biological theory can be seen as prog
 
 From this perspective, biological biological organisation and evolutionary dynamics are not competing explanatory domains but complementary aspects of a unified theoretical architecture. Evolution explains how persistence-sustaining biological biological organisation is historically transformed, while the organised activity of living systems provides the conditions under which evolutionary processes can occur.
 
-The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale framework makes this relationship explicit by interpreting biological biological agency as the viability-oriented biological organisation through which living systems sustain their persistence, evolutionary processes as the historical transformation of this biological organisation, and scale as the spatial and temporal domain across which these interactions unfold.
+The Agency-Process-Scale framework makes this relationship explicit by interpreting biological biological agency as the viability-oriented biological organisation through which living systems sustain their persistence, evolutionary processes as the historical transformation of this biological organisation, and scale as the spatial and temporal domain across which these interactions unfold.
 
 The long historical arc of biological theory can therefore be understood as an effort to integrate two foundational insights: the purposive biological organisation of living systems and the evolutionary processes through which such biological organisation changes across time.
 

@@ -71,7 +71,7 @@ Together, these domains reveal life as a dynamic interplay of biological organis
 
 The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework clarifies how these aspects of biology fit together.
 
-APS emphasises that living systems are viability-oriented organisations: systems whose processes collectively maintain the conditions required for continued existence. This activity constitutes biological agencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthe capacity of living systems to regulate their own persistence.
+APS emphasises that living systems are viability-oriented organisations: systems whose processes collectively maintain the conditions required for continued existence. This activity constitutes biological agency ¬ the capacity of living systems to regulate their own persistence.
 
 From this perspective:
 

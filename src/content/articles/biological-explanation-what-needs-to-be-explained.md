@@ -55,7 +55,7 @@ Living systems are organised around maintaining their own viability. Their proce
 
 This biological organisation is constraint-closed: the processes of the system contribute to maintaining the constraints that enable those very processes to occur.
 
-Biological explanation must therefore account for this form of biological organisation. It must explain how a systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity contributes to its own persistence, and how this contribution is maintained under changing conditions.
+Biological explanation must therefore account for this form of biological organisation. It must explain how a system's activity contributes to its own persistence, and how this contribution is maintained under changing conditions.
 
 Without this, explanations remain partial. They describe what happens, but not what makes those processes biologically meaningful.
 

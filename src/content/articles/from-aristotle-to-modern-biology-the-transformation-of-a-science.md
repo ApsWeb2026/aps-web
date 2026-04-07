@@ -25,11 +25,11 @@ In the classical Greek world, no clear boundary separated what we now call scien
 
 ## Plato and Transcendent Intelligibility
 
-PlatoÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s philosophy is structured around a distinction between the world of appearances and the world of Forms. In dialogues such as the *Republic* and the *Timaeus*, Plato argues that the sensory world is mutable and imperfect, whereas genuine knowledge concerns eternal, unchanging intelligible realities. The Forms exist independently of their material instances. Sensible objects participate in or approximate these Forms but never fully embody them. Knowledge therefore requires intellectual ascent beyond perception toward rational insight.
+Plato's philosophy is structured around a distinction between the world of appearances and the world of Forms. In dialogues such as the *Republic* and the *Timaeus*, Plato argues that the sensory world is mutable and imperfect, whereas genuine knowledge concerns eternal, unchanging intelligible realities. The Forms exist independently of their material instances. Sensible objects participate in or approximate these Forms but never fully embody them. Knowledge therefore requires intellectual ascent beyond perception toward rational insight.
 
 In the *Timaeus*, Plato presents a cosmology in which a rational Demiurge orders pre-existing chaotic matter according to mathematical proportion. The cosmos is intelligible because it reflects rational structure. Mathematics occupies a privileged role in this vision. The more closely a domain approximates mathematical order, the more fully it participates in truth. Geometry, proportion, and harmony become paradigms of explanation.
 
-This orientation encourages a conception of knowledge that privileges abstraction and deductive reasoning. The sensible world is secondary to intelligible structure. PlatoÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s influence, especially through later Neoplatonism and Christian theology, reinforced the idea that ultimate reality transcends material phenomena.
+This orientation encourages a conception of knowledge that privileges abstraction and deductive reasoning. The sensible world is secondary to intelligible structure. Plato's influence, especially through later Neoplatonism and Christian theology, reinforced the idea that ultimate reality transcends material phenomena.
 
 ## Aristotle and Immanent Organisation
 
@@ -39,7 +39,7 @@ This shift carries profound implications for the study of nature. Whereas Plato 
 
 ## Causation and Explanation
 
-AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of causation further distinguishes his framework. He articulates four explanatory modes: material, formal, efficient, and final causes. Final causation in his biological writings does not refer to external planning but to internal  organisation. Organs exist ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œfor the sake ofÃƒÂ¢Ã¢â€šÂ¬Ã‚Â characteristic functions because those functions define the organismÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s mode of life. Teleology, in this sense, expresses structured coordination within living systems.
+AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of causation further distinguishes his framework. He articulates four explanatory modes: material, formal, efficient, and final causes. Final causation in his biological writings does not refer to external planning but to internal  organisation. Organs exist "for the sake of" characteristic functions because those functions define the organism's mode of life. Teleology, in this sense, expresses structured coordination within living systems.
 
 Material processes constrain what is possible, but they do not by themselves explain why a structure has its particular biological organisation. Aristotle therefore provides an explanatory framework especially suited to organised life.
 

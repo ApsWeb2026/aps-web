@@ -22,7 +22,7 @@ references: []
 
 Biological systems extend across space and time. Molecules interact within cells, cells form tissues, organisms interact with environments, and ecological systems evolve across generations.
 
-These patterns are often described in terms of levels or hierarchies. Biology is frequently organised into layersÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âgenes, cells, organisms, populationsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âeach treated as a distinct level of explanation.
+These patterns are often described in terms of levels or hierarchies. Biology is frequently organised into layers - cells, organisms, populations - each treated as a distinct level of explanation.
 
 The APS framework takes a different approach. Rather than treating biological biological organisation as hierarchical, it understands it as distributed across interacting scales.
 
@@ -127,4 +127,4 @@ Living systems endure not through aggregation, but through the coordinated integ
 
 In APS, scale is the dimension through which this coordination becomes intelligible. It reveals how persistence is enacted across space and time as part of a unified, viability-oriented, constraint-closed biological organisation.
 
-Understanding life therefore requires an account of scaleÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Ânot as hierarchy, but as the distributed coordination of living activity.
+Understanding life therefore requires an account of scale - not as hierarchy, but as the distributed coordination of living activity.

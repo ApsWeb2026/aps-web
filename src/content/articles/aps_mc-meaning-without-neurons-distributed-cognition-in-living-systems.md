@@ -49,11 +49,11 @@ In APS, meaning is not an abstract or representational relation. It is grounded 
 
 A stimulus, condition, or event is meaningful for a system when it:
 
-- alters the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s capacity to sustain persistence  
+- alters the system's capacity to sustain persistence  
 - is incorporated into its regulatory processes  
 - participates in its ongoing biological organisation  
 
-Meaning is thus **enacted**, not encoded. It arises through the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity, not through internal representations of an external world.
+Meaning is thus **enacted**, not encoded. It arises through the system's activity, not through internal representations of an external world.
 
 ## Distributed Cognition Across Life
 

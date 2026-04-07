@@ -20,9 +20,9 @@ references: []
 
 ## Overview
 
-The AgencyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œProcessÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œScale (APS) framework is organised primarily through **glossary definitions** and **articles grouped into conceptual clusters**. These provide the core structure through which the framework is articulated and explored.
+The Agency-Process-Scale (APS) framework is organised primarily through **glossary definitions** and **articles grouped into conceptual clusters**. These provide the core structure through which the framework is articulated and explored.
 
-Alongside this structure, APS also supports the development of **research streams**ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âcoherent, ongoing trajectories of inquiry that extend across multiple clusters and articles. These streams do not constitute an additional layer of classification, but a way of organising sustained investigation within the framework.
+Alongside this structure, APS also supports the development of **research streams** - coherent, ongoing trajectories of inquiry that extend across multiple clusters and articles. These streams do not constitute an additional layer of classification, but a way of organising sustained investigation within the framework.
 
 [How APS Organises Knowledge](/boxes/aps-box-how-aps-organises-knowledge/)
 
@@ -32,9 +32,9 @@ A research stream in APS is a **programmatic pathway of inquiry** defined by a s
 
 Research streams are characterised by:
 
-- **Continuity** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â they develop over time through multiple contributions  
-- **Cross-cluster integration** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â they draw on and connect concepts from different domains of the framework  
-- **Theoretical direction** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â they pursue a defined line of explanatory or conceptual work  
+- **Continuity** - they develop over time through multiple contributions  
+- **Cross-cluster integration** - they draw on and connect concepts from different domains of the framework  
+- **Theoretical direction** - they pursue a defined line of explanatory or conceptual work  
 
 Examples include investigations into:
 - the detection and definition of life  
@@ -47,9 +47,9 @@ These are not isolated topics but **structured programmes of work** that unfold 
 
 Research streams should not be confused with other organisational elements of APS:
 
-- They are **not clusters** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â clusters group existing content by conceptual domain  
-- They are **not articles** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â articles are individual contributions within or across streams  
-- They are **not glossary entries** ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â glossary terms define the conceptual vocabulary of the framework  
+- They are **not clusters** - clusters group existing content by conceptual domain  
+- They are **not articles** -articles are individual contributions within or across streams  
+- They are **not glossary entries** - glossary terms define the conceptual vocabulary of the framework  
 
 Research streams instead operate at a different level: they organise **ongoing inquiry**, not static content.
 

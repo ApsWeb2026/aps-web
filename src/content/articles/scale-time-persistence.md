@@ -20,7 +20,7 @@ references: []
 
 ## 1. Introduction
 
-The relationship between scale and temporal persistence is one of the foundational problems in process ontology. If all entities are processes ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â temporally extended activities rather than enduring substances ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â then what accounts for the apparent stability of the natural world? Why do cells, organisms, and ecosystems persist as recognisable entities despite continuous processual change?
+The relationship between scale and temporal persistence is one of the foundational problems in process ontology. If all entities are processes - temporally extended activities rather than enduring substances ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â then what accounts for the apparent stability of the natural world? Why do cells, organisms, and ecosystems persist as recognisable entities despite continuous processual change?
 
 This article argues that persistence is always scale-relative. What counts as "stable" or "persisting" depends on the temporal and spatial scale at which observation occurs. The APS framework formalises this insight through its treatment of scale as an irreducible dimension of agency and process.
 
@@ -39,8 +39,8 @@ This is not merely an epistemic point about our observational limitations. The A
 
 ## 4. Implications for Flat Ontologies
 
-Flat ontology approaches ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which deny any privileged level of description ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â face a difficulty here. If all scales are equally real, then how do we account for the fact that stability and  agency are manifested differently at different scales? The APS framework avoids this problem by treating scale as a structural condition for biological agency, not merely a perspective on it.
+Flat ontology approaches - which deny any privileged level of description - face a difficulty here. If all scales are equally real, then how do we account for the fact that stability and  agency are manifested differently at different scales? The APS framework avoids this problem by treating scale as a structural condition for biological agency, not merely a perspective on it.
 
 ## 5. Conclusion
 
-Scale is not an optional parameter in the analysis of persistence and biological agency. It is a constitutive dimension of both. The APS triad ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Agency, Process, Scale ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â is irreducible: removing any one element undermines the explanatory power of the framework ([Thompson, 2007](#ref-thompson-2007)).
+Scale is not an optional parameter in the analysis of persistence and biological agency. It is a constitutive dimension of both. The APS triad - Agency, Process, Scale - is irreducible: removing any one element undermines the explanatory power of the framework ([Thompson, 2007](#ref-thompson-2007)).

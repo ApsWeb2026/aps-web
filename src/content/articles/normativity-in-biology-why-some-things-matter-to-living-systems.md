@@ -18,11 +18,11 @@ researchStreams: []
 references: []
 ---
 
-Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agencyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âthe viability-oriented  organisation of activity through which living systems sustain their own persistence.
+Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is not foundational but arises from biological agency ¬ the viability-oriented  organisation of activity through which living systems sustain their own persistence.
 
-## Why Normativity Seems ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“UnscientificÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â
+## Why Normativity Seems “Unscientific"
 
-Normativity concerns standardsÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âbetter or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
+Normativity concerns standards ¬ better or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
 
 Physics describes what happens, not what should happen. Chemistry explains reactions, not mistakes. Biology, it is often assumed, should do the same.
 
@@ -54,7 +54,7 @@ Normativity here is not mental. It is organisational.
 
 ## Teleology Rejected and Reframed
 
-Classical biology explained normativity through teleologyÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âparts existing for the sake of the whole. Modern biology rejected such explanations to avoid appeals to design or intention.
+Classical biology explained normativity through teleology ¬ parts existing for the sake of the whole. Modern biology rejected such explanations to avoid appeals to design or intention.
 
 But removing teleology entirely left a gap. Mechanistic accounts explain how processes unfold, but not why failure counts as failure.
 
@@ -78,7 +78,7 @@ In APS terms, something matters if it makes a difference to viability.
 - water matters because it sustains regulation  
 - damage matters because it threatens organisational integrity  
 
-This ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“matteringÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
+This ¬ “mattering" is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
 
 ## Normativity, Agency, and Function
 
@@ -116,7 +116,7 @@ Human normativity is an evolutionary elaboration of biological normativity.
 
 Evaluation becomes more flexible, control becomes anticipatory, learning expands, and language enables explicit rule-following.
 
-Moral and epistemic norms extend lifeÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s basic evaluative structure; they do not replace it.
+Moral and epistemic norms extend life's basic evaluative structure; they do not replace it.
 
 ## Not a Projection
 

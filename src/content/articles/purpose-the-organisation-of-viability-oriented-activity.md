@@ -28,7 +28,7 @@ APS rejects both approaches. Purpose is neither intention nor illusion. It is a 
 
 ## The APS Reframing: Purpose as Inherent Orientation
 
-In APS, purpose names the inherent orientation of viability-oriented, constraint-closed biological organisation. It refers to the way a living systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s activity is organised such that some states and trajectories sustain persistence while others undermine it.
+In APS, purpose names the inherent orientation of viability-oriented, constraint-closed biological organisation. It refers to the way a living system's activity is organised such that some states and trajectories sustain persistence while others undermine it.
 
 This orientation is not directed toward a represented future state. It is enacted in the present through the biological organisation of activity within a constraint-closed, agential system.
 
@@ -37,20 +37,20 @@ To say that a system is purposive is to say that:
 - it modulates its activity in response to those conditions  
 - it maintains biological organisation in ways that sustain its persistence  
 
-Purpose is therefore not something added to biological systemsÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is the way viability is organised in activity.
+Purpose is therefore not something added to biological systems ¬ it is the way viability is organised in activity.
 
 ---
 
 ## Purpose, Normativity, and Agency
 
-Purpose is inseparable from normativity. A living systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological organisation establishes conditions under which some states matter positively for its persistence while others matter negatively. This asymmetry is enacted, not represented.
+Purpose is inseparable from normativity. A living system's biological organisation establishes conditions under which some states matter positively for its persistence while others matter negatively. This asymmetry is enacted, not represented.
 
 Agency names the viability-oriented activity through which a system sustains itself. Purpose names the organisational orientation of that activity.
 
 These are not separate entities or mechanisms. They are analytically distinct aspects of a single, constraint-closed biological organisation:
-- **Agency** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â activity in enactment  
-- **Purpose** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â orientation of that activity  
-- **Normativity** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the evaluation inherent in that biological organisation  
+- **Agency** ¬ activity in enactment  
+- **Purpose** ¬orientation of that activity  
+- **Normativity** ¬ the evaluation inherent in that biological organisation  
 
 ---
 
@@ -58,7 +58,7 @@ These are not separate entities or mechanisms. They are analytically distinct as
 
 A central implication of APS is that purpose precedes function.
 
-Purpose concerns the biological organisation of the system as a wholeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âhow activity is oriented toward continued viability. Function, by contrast, refers to the specific contributions of parts and processes within that biological organisation.
+Purpose concerns the biological organisation of the system as a whole ¬ how activity is oriented toward continued viability. Function, by contrast, refers to the specific contributions of parts and processes within that biological organisation.
 
 This reverses the standard explanatory order in biology. Functional roles are defined within an already purposive biological organisation.
 

@@ -20,11 +20,11 @@ references: []
 
 ## Why Mentalistic Language Persists in Biology
 
-One of the strongest sources of resistance to the AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework does not come from data, experiments, or formal theory. It comes from language.
+One of the strongest sources of resistance to the Agency¬Process¬Scale (APS) framework does not come from data, experiments, or formal theory. It comes from language.
 
 Many readers instinctively recoil when terms such as **biological agency**, **purpose**, **decision-making**, **preference**, or **cognition** are used to describe bacteria, plants, or cells. These words feel irredeemably human. They seem to belong to conscious deliberation, inner experience, or psychological life. When applied to non-human organisms, the language can sound anthropomorphic, metaphorical, or simply confused.
 
-This reaction is understandable. But APS argues that the problem does not lie in biology overreachingÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit lies in a historical mismatch between language and theory. Terms that originated in human psychology have been pressed into service to describe biological organisation long before we had a coherent account of what those terms actually track.
+This reaction is understandable. But APS argues that the problem does not lie in biology overreaching¬it lies in a historical mismatch between language and theory. Terms that originated in human psychology have been pressed into service to describe biological organisation long before we had a coherent account of what those terms actually track.
 
 APS does not deny this tension. It explains it.
 
@@ -52,7 +52,7 @@ In practice, biological science already relies on this language:
 - immune systems recognise threats  
 - organisms value some states over others  
 
-These usages persist because they point to real organisational regularitiesÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Ânot because scientists believe cells are thinking like humans.
+These usages persist because they point to real organisational regularities ¬ not because scientists believe cells are thinking like humans.
 
 APS therefore asks:
 
@@ -64,27 +64,27 @@ What must a system be like, organisationally, for these descriptions to be objec
 
 APS does not begin with psychology. It begins with viability.
 
-More precisely, APS begins with **viability-oriented, constraint-closed biological organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+More precisely, APS begins with **viability-oriented, constraint-closed biological organisation** ¬ the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
 
 From this follow three consequences:
 
 - some states are better than others for the system  
 - the system must actively regulate its own conditions  
-- failure is not merely malfunctionÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is loss of existence  
+- failure is not merely malfunction ¬ it is loss of existence  
 
 These are not metaphors. They are organisational facts.
 
 APS therefore treats **biological agency**, **cognition**, **purpose**, and **value** not as mental properties, but as ways of describing how viability-oriented systems are organised in time.
 
-This shiftÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âfrom inner experience to organisational necessityÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âallows mentalistic terms to be naturalised without being reduced to behaviour or dismissed as metaphor.
+This shift ¬ from inner experience to organisational necessity ¬ allows mentalistic terms to be naturalised without being reduced to behaviour or dismissed as metaphor.
 
 ---
 
 ## Agency Is Not a Property
 
-Agency is often spoken of as if it were a property that organisms ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œhave,ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â like size or strength. This is misleading.
+Agency is often spoken of as if it were a property that organisms "have",like size or strength. This is misleading.
 
-A property is something a system can possess or lack while remaining the same kind of thing. Agency does not fit this pattern. Remove viability-oriented biological organisation and you do not get an organism without agencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âyou get a dead system.
+A property is something a system can possess or lack while remaining the same kind of thing. Agency does not fit this pattern. Remove viability-oriented biological organisation and you do not get an organism without agency ¬ you get a dead system.
 
 Agency is therefore not an attribute added to an otherwise complete entity. It is the organised activity through which a system sustains its own persistence.
 
@@ -114,7 +114,7 @@ Functional equivalence does not imply:
 
 It means:
 
-If systems must solve the same organisational problem to persist, their solutions can be described using a shared vocabularyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âprovided their implementations are not conflated.
+If systems must solve the same organisational problem to persist, their solutions can be described using a shared vocabulary ¬ provided their implementations are not conflated.
 
 APS therefore distinguishes:
 
@@ -127,12 +127,12 @@ APS therefore distinguishes:
 
 APS clarifies commonly used terms by grounding them in biological organisation rather than psychology:
 
-- **Agency** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Viability-oriented activity through which a system sustains its own persistence  
-- **Cognition** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Evaluation of environmental differences relative to viability  
-- **Intelligence** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Effectiveness of problem-solving under viability constraints  
-- **Purpose** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Organisation of activity toward continued viability  
-- **Decision-making / Preference** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Differentiation between alternatives with distinct viability outcomes  
-- **Sentience / Consciousness** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Not required for biological agency or cognition; open empirical questions  
+- **Agency** ¬ Viability-oriented activity through which a system sustains its own persistence  
+- **Cognition** ¬ Evaluation of environmental differences relative to viability  
+- **Intelligence** ¬ Effectiveness of problem-solving under viability constraints  
+- **Purpose** ¬ Organisation of activity toward continued viability  
+- **Decision-making / Preference** ¬ Differentiation between alternatives with distinct viability outcomes  
+- **Sentience / Consciousness** ¬ Not required for biological agency or cognition; open empirical questions  
 
 In APS, biological agency is foundational, while cognition and intelligence are derived organisational capacities, and consciousness and sentience remain contingent and empirically constrained.
 
@@ -166,11 +166,11 @@ Their activity is:
 
 APS does not replace mechanistic explanation. It situates mechanism within viability-oriented biological organisation.
 
-When we say a system ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œdecides,ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â APS interprets:
+When we say a system "decides",APS interprets:
 
 the system differentiates between alternatives relative to its persistence.
 
-When we say a system ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œknows,ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â APS interprets:
+When we say a system "knows", APS interprets:
 
 the system retains information that modulates future viability.
 
@@ -203,4 +203,4 @@ APS provides that theory.
 
 ## Key Point
 
-Mentalistic terms in biology do not introduce psychology into lifeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey describe the organisational features of systems whose continued existence depends on their own activity.
+Mentalistic terms in biology do not introduce psychology into life ¬ they describe the organisational features of systems whose continued existence depends on their own activity.

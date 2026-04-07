@@ -25,7 +25,7 @@ references: []
 ## Opening orientation  
   Biological explanation often begins by distinguishing organisms from their environments. In this familiar framing, organisms are treated as discrete entities that respond to external conditions, with adaptation understood as the process by which they become better suited to those conditions. While this perspective has been highly productive, it risks obscuring a more fundamental feature of living systems: the inseparability of organism and environment in the ongoing production of biological organisation.
 
-  The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework reframes this relationship by rejecting the idea that the environment is a fixed external domain. Instead, APS treats the environment as a relational field that emerges through the ongoing interaction between a systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological organisation and its surroundings. This interaction is not incidental but constitutive of life itself.
+  The Agency¬Process¬Scale (APS) framework reframes this relationship by rejecting the idea that the environment is a fixed external domain. Instead, APS treats the environment as a relational field that emerges through the ongoing interaction between a system's biological organisation and its surroundings. This interaction is not incidental but constitutive of life itself.
 
 ## Environment as a relational domain  
   In APS, the environment is not defined as everything outside an organism, but as the subset of conditions that are functionally integrated into its viability-oriented biological organisation. This shift from externality to relational relevance is critical. Many physical and chemical features may surround a system, but only those that enter into its constraint-closed processes become part of its effective environment.
@@ -33,7 +33,7 @@ references: []
   This perspective dissolves the sharp boundary between organism and environment. Instead of two independently defined domains, APS identifies a dynamically structured relation in which environmental features acquire biological significance only through their participation in ongoing organisational processes.
 
 ## Coupling as co-constitution  
-  The concept of coupling provides the mechanism through which this relational structure is established. Coupling refers to the ongoing interaction between a system and its surroundings, through which each constrains and enables the other. It is through coupling that environmental features become incorporated into the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological organisation, and through which the system, in turn, modifies those features.
+  The concept of coupling provides the mechanism through which this relational structure is established. Coupling refers to the ongoing interaction between a system and its surroundings, through which each constrains and enables the other. It is through coupling that environmental features become incorporated into the system's biological organisation, and through which the system, in turn, modifies those features.
 
   This is not a one-way causal relation. The organism does not simply respond to an already-defined environment; rather, both organism and environment are co-specified through their interaction. The environment is thus continuously reconfigured as coupling unfolds.
 

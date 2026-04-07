@@ -38,7 +38,7 @@ APS resolves this problem by grounding mentalistic language in biological organi
 
 APS begins with life, not mind.
 
-More precisely, it begins with **viability-oriented, constraint-closed biological organisation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+More precisely, it begins with **viability-oriented, constraint-closed biological organisation** ¬ the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
 
 From this condition follows normativity:
 
@@ -56,22 +56,22 @@ Mentalistic terms, in APS, refer to aspects of this biological organisation.
 
 APS distinguishes between organisational features required for life and those that emerge only in specific systems.
 
-**Agency** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Viability-oriented, constraint-closed activity through which a system sustains its own persistence.  
+**Agency** ¬ Viability-oriented, constraint-closed activity through which a system sustains its own persistence.  
 **Status:** Universal (defining feature of life)
 
-**Cognition** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Evaluation of environmental differences relative to viability within constraint-closed biological organisation.  
+**Cognition** ¬ Evaluation of environmental differences relative to viability within constraint-closed biological organisation.  
 **Status:** Universal in living systems (in minimal form)
 
-**Intelligence** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Effectiveness of problem-solving under viability constraints.  
+**Intelligence** ¬ Effectiveness of problem-solving under viability constraints.  
 **Status:** Derived, scale- and system-dependent
 
-**Purpose** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Organisation of activity toward continued viability.  
+**Purpose** ¬ Organisation of activity toward continued viability.  
 **Status:** Intrinsic to all living systems
 
-**Decision-making / Preference** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Differentiation between alternatives with distinct consequences for viability.  
+**Decision-making / Preference** ¬ Differentiation between alternatives with distinct consequences for viability.  
 **Status:** Present wherever systems modulate activity relative to persistence
 
-**Sentience / Consciousness** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Subjective experience associated with specific organisational configurations.  
+**Sentience / Consciousness** ¬ Subjective experience associated with specific organisational configurations.  
 **Status:** Contingent, empirically constrained, not required for life
 
 This hierarchy makes explicit that not all mentalistic terms refer to the same kind of phenomenon.
@@ -97,9 +97,9 @@ These are not metaphors. They are features of viability-oriented, constraint-clo
 
 APS rejects three common misinterpretations:
 
-- **Psychological projection** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Attributing human-like inner states (beliefs, intentions, feelings) to systems without evidence  
-- **Conceptual collapse** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Treating biological agency, cognition, and experience as interchangeable  
-- **Pan-mental inflation** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Extending sentience or consciousness to all living systems without empirical support  
+- **Psychological projection** ¬ Attributing human-like inner states (beliefs, intentions, feelings) to systems without evidence  
+- **Conceptual collapse** ¬ Treating biological agency, cognition, and experience as interchangeable  
+- **Pan-mental inflation** ¬ Extending sentience or consciousness to all living systems without empirical support  
 
 In each case, the error arises from failing to distinguish biological organisation from experience.
 

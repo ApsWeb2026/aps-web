@@ -24,7 +24,7 @@ Biological systems are often described in terms of structure: cells, tissues, or
 
 This perspective is intuitive, but incomplete. It assumes that structures are primary and that processes merely describe what happens to them over time.
 
-In living systems, however, this relationship is reversed. Structures do not precede processÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey are constituted and maintained through it.
+In living systems, however, this relationship is reversed. Structures do not precede process ¬ they are constituted and maintained through it.
 
 Understanding life therefore requires a shift in perspective: from seeing process as change in structure to seeing structure as the temporary stabilisation of ongoing activity.
 
@@ -46,7 +46,7 @@ Process in biology is therefore not secondary to structure. It is the ongoing ac
 
 The APS framework reconceives process as the dynamic biological organisation of constraints and their interactions.
 
-Constraints channel activity into organised form. In living systems, these constraints are not externally imposedÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âthey are maintained through the systemÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s own activity.
+Constraints channel activity into organised form. In living systems, these constraints are not externally imposed ¬ they are maintained through the system's own activity.
 
 Process is therefore the ongoing biological organisation through which constraints are sustained and transformed. It is the activity that generates, maintains, and reorganises the conditions required for continued viability.
 
@@ -115,10 +115,10 @@ By treating process as constitutive rather than derivative, APS provides a frame
 
 ## Conclusion
 
-Process is not what happens to lifeÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âit is how life exists.
+Process is not what happens to life ¬ it is how life exists.
 
 Living systems are not static structures that undergo change, but ongoing organisations of activity that continuously generate and maintain their own conditions of existence.
 
 In APS, process is the dynamic  organisation through which living systems sustain and transform the constraints that enable continued viability. It is the temporal enactment of viability-oriented, constraint-closed biological organisation across interacting scales.
 
-Understanding life therefore requires an explanatory grammar grounded in processÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Ânot as change in structure, but as the continuous activity through which biological organisation persists.
+Understanding life therefore requires an explanatory grammar grounded in process ¬ not as change in structure, but as the continuous activity through which biological organisation persists.
