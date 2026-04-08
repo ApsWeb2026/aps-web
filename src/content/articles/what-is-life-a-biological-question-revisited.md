@@ -65,8 +65,6 @@ The question therefore shifts from *What is life made of?* to:
 
 *What kind of activity must be organised for a system to count as living?*
 
-[[box:diagnostics-vs-definition]]
-
 ## Agency: Why Living Systems Act
 
 Living systems are not passive. They regulate, repair, and respond in ways organised around sustaining their own persistence.
@@ -76,8 +74,6 @@ This is captured by the concept of biological agency.
 In biology, biological agency does not imply intention or consciousness. It means that a system's activity is organised around maintaining its own viability. Some states matter more than others because the system's continued existence is at stake.
 
 Agency explains why malfunction is meaningful, regulation is intrinsic, and success and failure are biologically real. Without biological agency, biological processes would be indistinguishable from ordinary physical flows.
-
-[[box:from-viability-to-meaning]]
 
 ## Process: Why Life Must Continue
 
@@ -136,8 +132,6 @@ Viability-oriented, constraint-closed biological organisation is necessary for l
 It is also sufficient in principle: any system that genuinely instantiates such organisation qualifies as minimally living within the framework.
 
 Borderline cases test the precision of constraint closure, not the coherence of the criterion.
-
-[[box:diagnostics-vs-definition]]
 
 ## Why This Definition Matters
 

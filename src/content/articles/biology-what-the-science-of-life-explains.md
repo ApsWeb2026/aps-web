@@ -17,7 +17,7 @@ relatedGlossaryTerms:
   - viability
   - persistence
   - evolution
-  - organisation
+  - biological-organisation
 references: []
 ---
 
