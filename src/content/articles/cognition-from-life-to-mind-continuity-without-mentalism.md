@@ -68,11 +68,13 @@ This allows comparison across species without assuming a single cognitive archit
 
 ## 6. From Biological Cognition to Human Cognition
 
-Human cognition is often treated as a separate domain requiring its own explanatory framework. APS reverses the direction of interpretation.
+Human cognition is often treated as a separate domain requiring its own explanatory framework. This treatment typically relies on a familiar hierarchical image: cognition is arranged along a vertical axis, with simpler biological processes at the “bottom” and increasingly complex or “higher” forms culminating in human thought at the “top.” In this view, cognition is understood either as something built upward from basic mechanisms or projected downward from human capacities onto simpler systems.
 
-Instead of projecting human cognition downward, it recognises biological continuity upward.
+APS rejects this top–bottom framing. It does not interpret cognition as a ladder of increasing sophistication, nor as a set of discrete levels. Instead, cognition is understood as a continuous, scale-distributed feature of viability-oriented organisation.
 
-Human cognition is a highly specialised, symbolically elaborated form of biological cognition. Its distinctive features are built upon the same viability-oriented organisational principles that structure cognition across life.
+From this perspective, human cognition is not a higher form set above other instances, but a distinctive configuration within the same organisational continuum. Its symbolic and linguistic capacities are particular ways in which viability-oriented activity is organised, not markers of a separate domain or endpoint.
+
+What varies across living systems is not position within a hierarchy, but the mode and scope of constraint-modifying activity through which systems differentiate conditions and sustain their persistence.
 
 ## 7. Pre-Cognitive Traits Revisited
 
