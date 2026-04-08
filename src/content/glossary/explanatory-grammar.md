@@ -1,11 +1,18 @@
 ---
 title: Explanatory Grammar
 slug: explanatory-grammar
-definition: "Explanatory grammar is the structured way a framework determines what kinds of causes, relations, and processes count as explanatory."
+definition: "Explanatory grammar is the structured set of ontological and conceptual commitments that determine what counts as real, what counts as a cause, and how biological phenomena are explained."
 inBrief: "Explanatory grammar is the organising logic of explanation."
 status: canonical
 cluster: foundations
-revised: 2026-04-03
+revised: 2026-04-08
+seeAlso:
+  - biological-agency
+  - process
+  - scale
+  - constraint-closure
+  - function
+  - biological-causation
 ---
 
 ## Conventional framing
@@ -18,10 +25,10 @@ APS makes explanatory grammar explicit and treats it as foundational to biologic
 
 In APS, explanatory grammar is grounded in viability-oriented, constraint-closed organisation rather than in static structure, informational code, or normatively neutral dynamics. Biological explanation is therefore framed in terms of agency, process, and scale: living systems are understood as actively sustaining and modulating the conditions of their own persistence through constraint-closed organisation enacted across continuous processes and interacting scales.
 
-This explanatory grammar integrates the domains of life, evolution, and cognition. It aligns the explanatory triadÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âagency, process, and scaleÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âwith the evolutionary triadÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âpersistence, inheritance, and transformationÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âproviding a unified account of biological organisation and change.
+This explanatory grammar integrates the domains of life, evolution, and cognition. It aligns the explanatory triad—agency, process, and scale—with the evolutionary triad—persistence, inheritance, and transformation—providing a unified account of biological organisation and change.
 
 Explanatory grammar therefore determines not only what biology studies, but how biological causation itself becomes intelligible.
 
 ## Key Point
 
-Explanatory grammar defines the structure of biological explanationÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âwhat counts as real, what counts as a cause, and how persistence is explained.
+Explanatory grammar defines the structure of biological explanation—what counts as real, what counts as a cause, and how persistence is explained.

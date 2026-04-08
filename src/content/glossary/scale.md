@@ -2,14 +2,17 @@
 title: Scale
 slug: scale
 definition: "Scale in APS is the spatial and temporal extent and resolution over which biological processes are organised, coordinated, and sustained."
-inBrief: "Scale is the spatial and temporal organisation through which living processes are coordinated."
+inBrief: "Scale is the spatiotemporal organisation through which living processes are coordinated."
 status: canonical
 cluster: foundations
-revised: 2026-04-06
+revised: 2026-04-08
 seeAlso:
   - process
   - persistence
   - biological-organisation
+  - biological-agency
+  - constraint-closure
+  - development
 ---
 
 ## Conventional framing

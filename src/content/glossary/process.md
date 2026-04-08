@@ -2,15 +2,18 @@
 title: Process
 slug: process
 definition: "Process in APS is the dynamic organisation through which living systems sustain and transform the constraints that enable continued viability."
-inBrief: "Process is the dynamic organisation through which living systems sustain viability across time."
+inBrief: "Process is the dynamic organisation through which living systems sustain viability across time and scale."
 status: canonical
 cluster: foundations
-revised: 2026-04-06
+revised: 2026-04-08
 seeAlso:
   - biological-organisation
   - biological-agency
   - scale
   - persistence
+  - constraint-closure
+  - development
+  - physiology
 ---
 
 ## Conventional framing
@@ -29,4 +32,4 @@ Process is therefore not an effect of life but the continuous activity through w
 
 ## Key Point
 
-Process is not what happens to life—it is the ongoing activity through which life exists and persists.
+Process is not what happens to life — it is the ongoing activity through which life exists and persists.

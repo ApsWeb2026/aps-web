@@ -5,11 +5,13 @@ definition: "Function is the contribution a structure or process makes to the pe
 inBrief: "Function is the contribution a structure or process makes to sustaining viability."
 status: canonical
 cluster: foundations
-revised: 2026-04-06
+revised: 2026-04-08
 seeAlso:
   - purpose
   - normativity
   - biological-organisation
+  - constraint-closure
+  - persistence
   - adaptation
 ---
 
