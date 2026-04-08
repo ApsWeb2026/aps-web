@@ -1,4 +1,4 @@
-----
+---
 title: Coupling
 slug: coupling
 definition: "Coupling is the ongoing, processual relation through which organism and environment co-determine the conditions of viability."
