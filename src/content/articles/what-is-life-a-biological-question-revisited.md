@@ -77,7 +77,7 @@ In biology, biological agency does not imply intention or consciousness. It mean
 
 Agency explains why malfunction is meaningful, regulation is intrinsic, and success and failure are biologically real. Without biological agency, biological processes would be indistinguishable from ordinary physical flows.
 
-[[box:normativity]]
+[[box:from-viability-to-meaning]]
 
 ## Process: Why Life Must Continue
 
@@ -105,7 +105,7 @@ Purpose does not imply foresight. It expresses the fact that some outcomes suppo
 
 Function is the operational expression of this orientation at the level of parts and processes. A function can succeed or fail because it operates within a viability-oriented biological organisation.
 
-[[box:viability-to-meaning]]
+[[box:from-viability-to-meaning]]
 
 ## Units of Life: Individuals, Organisms, and Beyond
 
@@ -137,7 +137,7 @@ It is also sufficient in principle: any system that genuinely instantiates such 
 
 Borderline cases test the precision of constraint closure, not the coherence of the criterion.
 
-[[box:what-counts-as-evidence-of-life]]
+[[box:diagnostics-vs-definition]]
 
 ## Why This Definition Matters
 
@@ -147,7 +147,7 @@ Understanding life as viability-oriented biological organisation explains why re
 
 Most importantly, it makes explicit what biological explanation already presupposes when it succeeds.
 
-[[box:borderline-cases]]
+[[box:borderline-cases-viruses-sterile-organisms-artificial-systems]]
 
 ## Current Outlook
 
