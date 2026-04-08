@@ -15,9 +15,13 @@ A distinctive feature of the site is the APS Glossary, which defines the key con
 
 Readers new to the site may wish to begin with the orientation articles below, which introduce the framework and explain how the material is organised.
 
-## Begin Here
+## Begin here
 
-- **APS - A Viability-Oriented Framework for Understanding Life**
-- **Understanding APS - The Structure of the Framework**
-- **What Is APS? - A One-Page Framework Overview**
-- **Biology - What the Science of Life Explains**
+Choose the path that best fits how you want to explore the APS framework:
+
+- **What Is APS?** — a concise introduction to the framework  
+- **Understanding APS — The Structure of the Framework** — a guided overview of how the key ideas fit together  
+- **The Core Structure of APS** — a more formal account of the framework’s conceptual architecture  
+- **APS Glossary — Why Definitions Matter** — a guide to how key concepts are defined and used  
+
+If you are unsure where to start, begin with **What Is APS?**, then continue to **Understanding APS**.

@@ -5,16 +5,72 @@ status: canonical
 revised: 2026-04-03
 ---
 
-The APS Framework Website is organised as a connected conceptual system rather than as a collection of isolated pages. Its structure is designed to help readers move between definitions, explanations, and thematic developments while remaining anchored in a consistent explanatory framework.
+## What APS Is Doing
 
-The site begins with the Orientation layer. These pages introduce APS, explain its central concerns, and help readers understand how the website is organised. They provide the entry point for readers who are new to the framework and establish the main lines of navigation.
+The Agency–Process–Scale (APS) framework is a structured way of understanding life as **viability-oriented, constraint-closed organisation**. Rather than treating living systems as passive objects governed by external forces, APS describes them as systems that actively sustain the conditions of their own persistence.
 
-The APS Glossary forms the conceptual core of the site. It defines the key terms used throughout the APS Framework and clarifies how those terms relate to one another. Because APS depends on disciplined use of its central concepts, the glossary is not supplementary material but part of the framework itself.
+APS is not a replacement for existing biological theory. It is a way of clarifying how different areas of biology—physiology, development, evolution, and cognition—fit together within a single explanatory structure.
 
-Articles extend these core definitions into broader explanation. They show how APS concepts apply across different areas of biology and how the framework reinterprets familiar biological questions through its own explanatory grammar. Boxes support this structure by isolating key distinctions, clarifications, and recurring principles in a concise form.
+---
 
-Readers do not need to move through the APS Framework in a fixed order. The site is intended to support multiple reading paths: introductory, definitional, thematic, and exploratory. A reader may begin with orientation pages, move to the glossary for conceptual clarity, and then follow articles and boxes into more detailed areas of the framework.
+## The Three Dimensions of APS
 
-The overall structure of this site reflects the structure of APS itself: concepts are interconnected, explanatory order matters, and clarity depends on the relation between parts rather than on isolated statements. The site is therefore designed not only to present the framework, but to embody its organisation.
+APS is organised around three inseparable dimensions:
+
+- **[Agency](/glossary/biological-agency/)** — the activity through which living systems maintain and regulate their own viability  
+- **[Process](/glossary/process/)** — the dynamic organisation through which this activity unfolds  
+- **[Scale](/glossary/scale/)** — the spatial and temporal extent across which these processes operate  
+
+These are not separate “levels” or components. They are **co-constitutive aspects of the same organisation**. Living systems exist only through their continuous interaction across these dimensions.
+
+---
+
+## Why APS Is Different
+
+Traditional approaches in biology often prioritise one explanatory dimension:
+
+- mechanism (structure and parts)  
+- information (genes and codes)  
+- selection (evolutionary filtering)  
+
+APS does not reject these approaches, but it shows that they all presuppose something more fundamental: **organised persistence**.
+
+From an APS perspective:
+
+- mechanisms function only within systems that maintain themselves  
+- information matters only within systems for which differences make a difference  
+- selection operates only on systems capable of sustaining viable organisation  
+
+APS therefore reframes biology around the conditions that make these explanations possible.
+
+---
+
+## How to Use This Framework
+
+APS is designed to be used as a **guide to understanding**, not just a theory to be learned.
+
+You can use it in several ways:
+
+- to interpret biological phenomena across different domains  
+- to clarify how different explanations relate to one another  
+- to distinguish what is fundamental from what is derived  
+
+The framework becomes clearer as you move between definitions, articles, and examples. Each part of the site is designed to reinforce the others.
+
+---
+
+## Where to go next
+
+To deepen your understanding of APS:
+
+- Read **What Is APS?** for a concise overview of the framework  
+- Explore the **APS Glossary** to understand how key concepts are defined  
+- See **The Core Structure of APS** for a more formal account of how the framework fits together  
+
+Or move directly into key concepts:
+
+- **Agency** — how living systems sustain themselves  
+- **Process** — the dynamics of biological organisation  
+- **Scale** — how life operates across space and time  
 
 

@@ -49,7 +49,7 @@ Normativity does not require intention, representation, or evaluation. It arises
 
 ## Agency: The Regulation of Persistence
 
-Within this organised and normatively structured system, biological agency emerges as the active regulation of conditions that sustain viability.
+Within this organised and normatively structured system, biological [agency](/glossary/biological-agency/) emerges as the active regulation of conditions that sustain viability.
 
 Living systems do not merely persist; they actively modulate the organisation that makes persistence possible. They regulate internal processes, respond to environmental changes, and reorganise their own constraints in ways that support continued existence.
 
@@ -59,7 +59,7 @@ Agency is therefore not an additional property layered onto life. It is the acti
 
 ## Organisation and Process
 
-Biological organisation is not static. It is continuously enacted through process: the dynamic organisation of activity through which constraints are sustained and transformed over time.
+Biological organisation is not static. It is continuously enacted through [process](/glossary/process/): the dynamic organisation of activity through which constraints are sustained and transformed over time.
 
 Structure does not precede process. Rather, structure is the temporary stabilisation of ongoing activity.
 
@@ -71,7 +71,7 @@ Process explains how organisation persists, while organisation provides the patt
 
 Living systems are distributed across space and time. Molecular, cellular, organismal, and ecological processes are not separate levels but interacting domains of activity.
 
-Scale describes how activity is coordinated across these domains. It is the spatial-temporal organisation through which processes are integrated and persistence is sustained.
+[Scale](/glossary/scale/) describes how activity is coordinated across these domains. It is the spatial-temporal organisation through which processes are integrated and persistence is sustained.
 
 Rather than invoking hierarchical levels, APS understands biological systems as coordinated across scales.
 
@@ -124,3 +124,17 @@ Instead, it explains life as organised, self-maintaining activity distributed ac
 The APS framework does not add new components to biology. It clarifies the organisation that makes biological explanation possible.
 
 By grounding explanation in viability-oriented, constraint-closed organisation, and by integrating agency, process, and scale into a single explanatory grammar, APS provides a coherent and unified account of living systems.
+
+## Where to go next
+
+To explore the framework from different entry points:
+
+- Read **Understanding APS — The Structure of the Framework** for a guided overview  
+- See **What Is APS?** for a concise introduction  
+- Explore the **APS Glossary** to understand how key concepts are defined  
+
+Or move into core concepts:
+
+- **Agency** — how living systems sustain themselves  
+- **Process** — the dynamics of biological organisation  
+- **Scale** — how life operates across space and time  
