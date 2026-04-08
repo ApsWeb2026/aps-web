@@ -3,7 +3,7 @@ title: Biology — What the Science of Life Explains
 slug: biology
 abstract: Biology is the science of living systems, concerned with how they persist, how they change through time, and how these processes can be explained. The APS framework clarifies biology as the study of viability-oriented biological organisation and its historical transformation.
 status: evolving
-revised: 2026-03-19
+revised: 2026-04-08
 cluster: foundations
 keyPoints:
   - Biology explains how living systems sustain their own persistence and how this biological organisation changes through time.
@@ -14,6 +14,10 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
+  - viability
+  - persistence
+  - evolution
+  - organisation
 references: []
 ---
 
@@ -25,37 +29,29 @@ Living systems are not static objects. They are organised processes that continu
 
 Evolution explains how the organisations sustaining this activity change through time. Across generations, the structures and processes that enable persistence are modified, diversified, and transformed.
 
-Biology therefore investigates two intimately connected phenomena: the biological organisation that makes life possible and the historical processes through which that biological organisation changes.
-
----
+Biology therefore investigates two intimately connected phenomena: the biological organisation that makes life possible and the historical processes through which that organisation changes.
 
 ## The Core Idea
 
-Life persists through organised activity; evolution is the historical transformation of that activity; biology explains the biological organisation that makes both possible.
+Life persists through organised activity; evolution is the historical transformation of that activity; biology explains the organisation that makes both possible.
 
-This statement captures the basic structure of biological understanding. Living systems maintain themselves through organised activity, evolution transforms that biological organisation through time, and biology explains the mechanisms, processes, and principles that make these phenomena possible.
-
----
+This statement captures the basic structure of biological understanding. Living systems maintain themselves through organised activity, evolution transforms that organisation through time, and biology explains the mechanisms, processes, and principles that make these phenomena possible.
 
 ## Life: Organised Persistence
 
 A living system is a system that continually maintains the conditions required for its own persistence. Cells regulate metabolism, organisms regulate physiology and behaviour, and ecosystems regulate networks of interaction.
 
-This persistence is not passive. It requires continuous activityÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âmetabolic processes, regulatory mechanisms, development, and environmental interaction.
+This persistence is not passive. It requires continuous activity—metabolic processes, regulatory mechanisms, development, and environmental interaction.
 
-Living systems therefore exist as organised processes rather than static structures. Understanding this biological organisation is the first task of biology.
-
----
+Living systems therefore exist as organised processes rather than static structures. Understanding this organisation is the first task of biology.
 
 ## Evolution: Transformation Through Time
 
 While living systems maintain themselves in the present, evolution describes how the organisations sustaining this persistence change across generations.
 
-Variation, inheritance, and differential persistence transform biological biological organisation over time. Across long timescales, these processes generate the diversity of life.
+Variation, inheritance, and differential persistence transform biological organisation over time. Across long timescales, these processes generate the diversity of life.
 
-Evolution therefore provides the historical dimension of biology: it explains how present-day biological biological organisation came to exist.
-
----
+Evolution therefore provides the historical dimension of biology: it explains how present-day biological organisation came to exist.
 
 ## Biological Explanation
 
@@ -63,30 +59,26 @@ Biology does more than describe living systems or their evolutionary history. It
 
 Physiology explains how organisms maintain internal conditions. Ecology explains how organisms interact within larger systems. Evolution explains how these organisations change historically.
 
-Together, these domains reveal life as a dynamic interplay of biological organisation, activity, and transformation.
-
----
+Together, these domains reveal life as a dynamic interplay of organisation, activity, and transformation.
 
 ## The APS Perspective
 
-The AgencyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ProcessÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“Scale (APS) framework clarifies how these aspects of biology fit together.
+The Agency–Process–Scale (APS) framework clarifies how these aspects of biology fit together.
 
-APS emphasises that living systems are viability-oriented organisations: systems whose processes collectively maintain the conditions required for continued existence. This activity constitutes biological agency — the capacity of living systems to regulate their own persistence.
+APS emphasises that living systems are viability-oriented organisations: systems whose processes collectively maintain the conditions required for continued existence. This activity constitutes biological agency—the capacity of living systems to regulate their own persistence.
 
 From this perspective:
 
 - Life concerns organised persistence  
-- Evolution concerns the transformation of persistence-sustaining biological organisation through time  
+- Evolution concerns the transformation of persistence-sustaining organisation through time  
 - Biology explains the organisational principles that link these phenomena  
 
 APS does not replace existing biological knowledge. It clarifies the conceptual structure that connects the study of life, evolution, and biological explanation.
 
----
-
 ## Biology as the Science of Organised Living Systems
 
-Viewed in this way, biology investigates a distinctive phenomenon in nature: systems that actively sustain their own persistence and whose biological organisation changes historically through evolution.
+Viewed in this way, biology investigates a distinctive phenomenon in nature: systems that actively sustain their own persistence and whose organisation changes historically through evolution.
 
-Understanding these systems requires studying both the processes through which they maintain themselves and the evolutionary transformations through which their biological organisation changes.
+Understanding these systems requires studying both the processes through which they maintain themselves and the evolutionary transformations through which their organisation changes.
 
-Biology is therefore the science of organised living systems and the historical transformation of that biological organisation.
+Biology is therefore the science of organised living systems and the historical transformation of that organisation.
