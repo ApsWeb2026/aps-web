@@ -23,8 +23,8 @@ relatedGlossaryTerms:
   - scale
 relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
-  - organism-vs-individual-vs-agent
-  - levels-vs-scale
+  - organism-individual-agent-distinction
+  - levels-vs-scale-why-biological-organisation-is-not-hierarchical
 ---
 
 ## What Is a Biological System?
