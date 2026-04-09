@@ -3,7 +3,7 @@ title: "Function — How Living Systems Make Persistence Operational"
 slug: "function-how-living-systems-make-persistence-operational"
 abstract: "This article explains function in APS as the operational expression of purpose within viability-oriented, constraint-closed biological organisation."
 status: canonical
-revised: 2026-04-08
+revised: 2026-04-09
 cluster: conceptual-foundations
 keyPoints:
   - "In APS, function is the operational expression of purpose."
@@ -23,7 +23,7 @@ references: []
 
 ## Introduction
 
-Biological systems are often described in terms of what their parts do. Hearts pump blood, leaves capture light, enzymes catalyse reactions.
+Biological systems are often described in terms of what their parts do. Hearts pump blood, leaves capture light, and enzymes catalyse reactions.
 
 These descriptions appear straightforward, but they conceal a deeper question: what makes a process or structure count as having a function at all?
 
@@ -64,6 +64,14 @@ Purpose names the viability-oriented organisation of the system as a whole. Func
 Function is the operational expression of purpose.
 
 This relationship clarifies why function cannot be understood in isolation. A process is functional only within an organised system whose activity is oriented toward persistence.
+
+## Function and Causation
+
+Function is inseparable from biological causation.
+
+A process contributes to persistence only insofar as it participates in the viability-oriented modulation of constraints within constraint-closed organisation. What counts as a function is therefore determined by how causal processes are organised relative to the system’s continued viability.
+
+This clarifies why function cannot be reduced to causal effect alone. Causal processes become functional only when they are integrated into a system that sustains its own organisation. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
 
 ## Function and Normativity
 
@@ -115,10 +123,10 @@ This distinction clarifies why function cannot be reduced to causal effect alone
 
 Clarifying function helps resolve several persistent issues in biology:
 
-- Why function cannot be reduced to causal effects  
-- Why evolutionary history does not define present function  
-- How normativity is grounded in organisation  
-- How systems maintain coherence despite change  
+- why function cannot be reduced to causal effects  
+- why evolutionary history does not define present function  
+- how normativity is grounded in organisation  
+- how systems maintain coherence despite change  
 
 By grounding function in viability-oriented organisation, APS provides a unified account of what biological systems do and why it matters.
 
