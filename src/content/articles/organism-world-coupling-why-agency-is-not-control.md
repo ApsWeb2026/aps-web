@@ -15,18 +15,16 @@ keyPoints:
   - Perturbation reveals agency when systems reorganise their own activity to restore viable coupling.
   - APS avoids both internalism and externalism by grounding normativity within the organism’s own organisation.
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - viability
   - constraint-closure
   - environment
   - coupling
   - normativity
 relatedArticles:
-  - why-aps-is-not-hierarchical
-  - why-trait-lists-fail
-  - cognition-is-not-what-you-think-it-is
-  - environment-coupling-and-agency-why-organisms-and-surroundings-co-produce-each-other
----
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - environment-coupling-and-biological-agency
+  ---
 
 Organisms are often described in two opposing ways: either as self-contained systems acting from within, or as products of environmental forces acting upon them. Both views miss something fundamental.
 
