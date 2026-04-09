@@ -76,6 +76,8 @@ From this perspective, human cognition is not a higher form set above other inst
 
 What varies across living systems is not position within a hierarchy, but the mode and scope of constraint-modifying activity through which systems differentiate conditions and sustain their persistence.
 
+[[box:aps-box-hierarchy-vs-scale]]
+
 ## 7. Pre-Cognitive Traits Revisited
 
 Traditional accounts often posit “pre-cognitive traits” as precursors to cognition. APS reframes these as lower-resolution organisations of the same viability-oriented responsiveness.
