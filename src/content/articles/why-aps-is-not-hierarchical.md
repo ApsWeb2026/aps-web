@@ -43,6 +43,8 @@ Once they do, explanation begins to fragment. Genes are said to cause traits “
 
 APS treats this as a category mistake: an epistemic abstraction has been mistaken for a feature of biological organisation itself.
 
+[[box:aps-box-hierarchy-vs-scale]]
+
 ## Levels Are Abstractions, Not Features of Life
 Nothing in a living system is literally arranged into stacked tiers of causal authority. There is no boundary at which one domain ends and another begins. Biological processes overlap, interact, and propagate across spatial and temporal extent without regard for neat partitions.
 
