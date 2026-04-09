@@ -21,8 +21,8 @@ relatedArticles:
   - aps-and-institutions
   - aps-and-norms
   - aps-and-culture
-  - environment-coupling-and-agency-why-organisms-and-surroundings-co-produce-each-other
-  - explanatory-geometry-of-biology-how-aps-organises-biological-explanation
+  - environment-coupling-and-biological-agency
+  - explanatory-grammar
   - why-aps-is-not-hierarchical
 ---
 
