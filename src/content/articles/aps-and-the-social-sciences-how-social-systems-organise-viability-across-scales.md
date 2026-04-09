@@ -60,7 +60,7 @@ Each exists only through the ongoing activity that sustains it.
 **Key shift:**  
 Social systems are not collections of entities but organised processes that maintain the conditions of their own persistence.
 
-[[box:why-aps-is-not-hierarchical]]
+[[box:aps-box-hierarchy-vs-scale]]
 
 
 ## Agency Across Scales
