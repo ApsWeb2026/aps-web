@@ -81,6 +81,8 @@ The triad of biological agency, process, and scale is not introduced as a classi
 
 APS thus replaces the search for a privileged unit with an explanatory grammar grounded in distributed, viability-oriented biological organisation.
 
+APS also reframes causation. Rather than treating causation solely as the production of events, it understands biological causation as the viability-oriented modulation of constraints within organised systems. Mechanistic interactions remain essential, but they are situated within constraint-closed organisation that maintains the conditions under which such interactions remain viable. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+
 ## Conceptual Symmetry with Evolution
 
 The APS explanatory grammar reveals a structural alignment with evolutionary theory.
