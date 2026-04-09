@@ -1,6 +1,6 @@
 ---
 title: APS Box — Event, Constraint, and Organisational Causation
-slug: aps-box-event-constraint-organisational-causation
+slug: aps-box-event-constraint-and-organisational-causation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
