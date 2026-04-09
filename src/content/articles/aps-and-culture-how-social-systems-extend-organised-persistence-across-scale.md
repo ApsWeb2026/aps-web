@@ -21,8 +21,8 @@ relatedArticles:
   - aps-and-institutions
   - aps-and-norms
   - aps-and-economics
-  - explanatory-geometry-of-biology-how-aps-organises-biological-explanation
-  - continuity-of-life-and-mind-why-aps-does-not-draw-a-sharp-line-between-biology-and-cognition
+  - explanatory-grammar
+  - cognition-from-life-to-mind-continuity-without-mentalism
   - why-aps-is-not-hierarchical
 ---
 
