@@ -82,6 +82,8 @@ In APS terms, something matters if it makes a difference to viability.
 
 This “mattering” is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
 
+This normative dimension is inseparable from causation. In living systems, causal processes are not neutral sequences of events; they are organised relative to viability. Outcomes matter because they contribute to or undermine constraint-closed organisation. APS therefore understands biological causation as inherently norm-bearing: the modulation of constraints is always evaluated relative to the system’s continued persistence. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+
 ## Normativity, Agency, and Function
 
 Normativity is grounded in biological agency, which establishes intrinsic stakes and the possibility of success and failure for the system itself.
