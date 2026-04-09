@@ -3,7 +3,7 @@ title: "Scale — How Life Is Coordinated Across Space and Time"
 slug: "scale-how-life-is-coordinated-across-space-and-time"
 abstract: "This article explains scale in APS as the spatial and temporal coordination of biological organisation, showing how living systems integrate processes across multiple interacting domains."
 status: canonical
-revised: 2026-04-08
+revised: 2026-04-09
 cluster: conceptual-foundations
 keyPoints:
   - "Scale refers to the spatial and temporal coordination of biological organisation."
@@ -22,7 +22,7 @@ references: []
 
 ## Introduction
 
-Biological systems extend across space and time. Molecules interact within cells, cells form tissues, organisms interact with environments, and ecological systems evolve across generations.
+Biological systems extend across space and time. Molecules interact within cells, cells form tissues, organisms interact with environments, and ecological systems transform across generations.
 
 These patterns are often described in terms of levels or hierarchies. Biology is frequently organised into layers—cells, organisms, populations—each treated as a distinct level of explanation.
 
@@ -36,11 +36,11 @@ Scale in APS is the spatial–temporal organisation through which viability-orie
 
 In conventional biology, scale is often treated as a matter of size, resolution, or level. Systems are described as being composed of nested layers, with causation flowing between them.
 
-This approach is useful, but it introduces a simplifying assumption: that one level can be treated as more fundamental than others.
+This approach is useful, but it introduces a simplifying assumption: that one domain can be treated as more fundamental than others.
 
 Living systems do not conform to this model. Processes at different scales are not independent layers but interacting domains of activity that continuously influence one another.
 
-Scale in APS therefore replaces level-based hierarchy with a processual description of coordination.
+Scale in APS therefore replaces level-based hierarchy with a processual account of coordination.
 
 ## Scale as Spatial–Temporal Organisation
 
@@ -61,6 +61,8 @@ These interactions are reciprocal. Activity at one scale both enables and constr
 Persistence depends on this coordination. When cross-scale relations are maintained, organisation endures. When they break down, organisation dissipates.
 
 Scale therefore identifies the domain of coordination within which viable organisation is sustained.
+
+This coordination is also causal. In APS, biological causation operates through the viability-oriented modulation of constraints across interacting scales. Processes at different scales do not simply influence one another; they participate in the ongoing organisation of conditions that sustain persistence. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
 
 ## Homeorhesis and Organised Persistence
 
@@ -98,10 +100,10 @@ This prevents the uncritical projection of concepts from one domain to another a
 
 Clarifying scale helps resolve several central issues in biology:
 
-- Why hierarchical “levels of organisation” are insufficient  
-- How causation operates across interacting domains  
-- How persistence is maintained through coordination  
-- Why biological properties must be scale-specific  
+- why hierarchical “levels of organisation” are insufficient  
+- how causation operates across interacting domains  
+- how persistence is maintained through coordination  
+- why biological properties must be scale-specific  
 
 By replacing levels with scale, APS provides a framework capable of representing the distributed organisation of living systems.
 
