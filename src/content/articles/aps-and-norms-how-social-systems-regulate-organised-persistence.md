@@ -21,7 +21,7 @@ relatedArticles:
   - aps-and-institutions
   - aps-and-culture
   - aps-and-economics
-  - explanatory-geometry-of-biology-how-aps-organises-biological-explanation
+  - explanatory-grammar
   - why-aps-is-not-hierarchical
 ---
 
