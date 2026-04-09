@@ -1,17 +1,17 @@
 ---
 title: "APS and the Social Sciences: How Social Systems Organise Viability Across Scales"
-slug: aps-and-the-social-sciences-how-social systems-organise-viability-across-scales
+slug: aps-and-the-social-sciences
 status: evolving
 revised: 2026-04-09
 cluster: conceptual-foundations
 abstract: "APS (Agency–Process–Scale) provides a unifying explanatory grammar for the social sciences by reframing individuals, institutions, and cultures as processes of organised persistence. It resolves long-standing tensions between agency and structure, micro and macro explanation, and meaning and mechanism by grounding social phenomena in viability-oriented, constraint-closed organisation."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
   - normativity
   - function
-  - organisation
+  - biological-organisation
   - constraint
   - coupling
   - environment
@@ -81,8 +81,8 @@ Agency becomes a property of organisation across scales.
 Within the APS account of social systems, three interdependent processes organise persistence:
 
 - **Norms regulate activity in real time**  
-- **Institutions stabilise constraint structures across intermediate timescales**  
-- **Culture extends and transmits these patterns across generations**
+- **Institutions stabilise constraint structures**  
+- **Culture extends persistence across time**
 
 These are not separate levels, but coordinated dimensions of multiscale organisation.
 
