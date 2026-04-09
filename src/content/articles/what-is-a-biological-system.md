@@ -6,7 +6,7 @@ canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-04-10
 cluster: conceptual-foundations
-abstract: APS distinguishes biological systems from physical and engineered systems by their viability-oriented, constraint-closed organisation. This article clarifies what qualifies as a biological system and why not all organised systems are alive, grounding biological explanation in the maintenance of conditions for persistence.
+abstract: "APS distinguishes biological systems from physical and engineered systems by their viability-oriented, constraint-closed organisation. This article clarifies what qualifies as a biological system and why not all organised systems are alive, grounding biological explanation in the maintenance of conditions for persistence."
 keyPoints:
   - Not all systems are biological; biological systems are defined by viability-oriented organisation.
   - A biological system maintains the conditions of its own continued existence.
@@ -42,9 +42,9 @@ APS reframes the question. Rather than asking what features biological systems p
 Mechanistic accounts describe systems in terms of interacting parts and causal relations. These descriptions are indispensable, but they do not by themselves distinguish biological systems from non-biological ones.
 
 Many non-living systems:
-- exhibit complex organisation  
-- maintain stable states  
-- respond to external inputs  
+- exhibit complex organisation
+- maintain stable states
+- respond to external inputs
 
 Yet they are not biological.
 
@@ -55,15 +55,15 @@ The issue is not complexity, but organisation. Biological systems are not simply
 In APS, a biological system is defined by **viability-oriented organisation**.
 
 A system is biological if:
-- its processes are organised such that they sustain the conditions of their own continuation  
-- its activity contributes to maintaining those conditions  
-- perturbations are addressed through reorganisation that preserves viability  
+- its processes are organised such that they sustain the conditions of their own continuation
+- its activity contributes to maintaining those conditions
+- perturbations are addressed through reorganisation that preserves viability
 
 This shifts the explanatory focus:
 
-- from what a system is made of → to how it sustains itself  
-- from static structure → to ongoing organisation  
-- from external description → to internally grounded regulation  
+- from what a system is made of → to how it sustains itself
+- from static structure → to ongoing organisation
+- from external description → to internally grounded regulation
 
 A biological system is therefore not simply organised—it is organised in a way that sustains its own persistence.
 
@@ -72,20 +72,20 @@ A biological system is therefore not simply organised—it is organised in a way
 One influential way of formalising biological organisation is through **constraint closure**—systems in which processes mutually sustain one another.
 
 Constraint closure is necessary for biological systems because it enables:
-- internal coordination  
-- mutual dependence of processes  
-- organisational stability  
+- internal coordination
+- mutual dependence of processes
+- organisational stability
 
 However, closure alone is not sufficient.
 
 A system may exhibit constraint closure yet fail to:
-- maintain its own viability  
-- reorganise in response to perturbation  
-- sustain itself as a unified process over time  
+- maintain its own viability
+- reorganise in response to perturbation
+- sustain itself as a unified process over time
 
 APS therefore distinguishes between:
-- **organisational closure** — how processes are mutually sustained  
-- **viability-oriented organisation** — how that organisation is maintained in a way that preserves continued existence  
+- **organisational closure** — how processes are mutually sustained
+- **viability-oriented organisation** — how that organisation is maintained in a way that preserves continued existence
 
 Biological systems require both.
 
@@ -96,13 +96,13 @@ Biological systems require both.
 Biological systems are defined not only by their organisation, but by how they respond to disruption.
 
 Non-biological systems may:
-- return to equilibrium  
-- be stabilised externally  
+- return to equilibrium
+- be stabilised externally
 
 Biological systems, by contrast:
-- reorganise their own activity  
-- re-establish conditions of continued existence  
-- incorporate environmental relations into their regulation  
+- reorganise their own activity
+- re-establish conditions of continued existence
+- incorporate environmental relations into their regulation
 
 This capacity reveals that biological systems are not passively maintained. Their organisation is sustained through ongoing, internally structured activity.
 
@@ -111,9 +111,9 @@ This capacity reveals that biological systems are not passively maintained. Thei
 The organism provides the clearest example of a biological system.
 
 It exemplifies:
-- constraint-closed organisation  
-- viability-oriented activity  
-- persistence through time  
+- constraint-closed organisation
+- viability-oriented activity
+- persistence through time
 
 Other biological systems—cells, collectives, ecological assemblages—can be understood in relation to this organisational pattern.
 
@@ -127,13 +127,13 @@ If all organised systems are treated as biological, the concept of life loses ex
 
 APS avoids this by distinguishing:
 
-- **organised systems** — structured sets of interacting processes  
-- **biological systems** — systems that maintain their own viability through internally organised activity  
+- **organised systems** — structured sets of interacting processes
+- **biological systems** — systems that maintain their own viability through internally organised activity
 
 This distinction is essential for:
-- defining life  
-- identifying biosignatures  
-- grounding biological explanation  
+- defining life
+- identifying biosignatures
+- grounding biological explanation
 
 Without it, biology collapses into general systems theory.
 
@@ -142,9 +142,9 @@ Without it, biology collapses into general systems theory.
 A biological system is never defined independently of the processes and scales through which it is maintained.
 
 Biological organisation is always:
-- temporally extended  
-- materially distributed  
-- dynamically coupled across processes  
+- temporally extended
+- materially distributed
+- dynamically coupled across processes
 
 This means that biological systems cannot be understood as occupying fixed “levels” in a hierarchy. Their identity depends on how organisation is sustained across interacting scales.
 
@@ -156,13 +156,13 @@ A biological system is not defined by its components, its complexity, or its beh
 
 It is defined by a specific organisational condition:
 
-- the ongoing maintenance of the conditions required for its own persistence  
+- the ongoing maintenance of the conditions required for its own persistence
 
 This condition integrates:
-- organisation  
-- activity  
-- regulation  
-- environment  
+- organisation
+- activity
+- regulation
+- environment
 
 into a single, viability-oriented process.
 
