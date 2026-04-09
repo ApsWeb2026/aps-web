@@ -6,10 +6,10 @@ revised: 2026-04-09
 cluster: conceptual-foundations
 abstract: "APS (Agency–Process–Scale) reframes culture as the historically extended organisation of coordinated activity. Rather than treating culture as a symbolic domain separate from biology, APS understands it as a multiscale process through which social systems stabilise, transmit, and transform patterns of interaction across time."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
-  - organisation
+  - biological-organisation
   - normativity
   - function
   - constraint
@@ -17,9 +17,10 @@ relatedGlossaryTerms:
   - environment
   - persistence
 relatedArticles:
-  - aps-significance-for-social-sciences
+  - aps-and-the-social-sciences
   - aps-and-institutions
   - aps-and-norms
+  - aps-and-economics
   - explanatory-geometry-of-biology-how-aps-organises-biological-explanation
   - continuity-of-life-and-mind-why-aps-does-not-draw-a-sharp-line-between-biology-and-cognition
   - why-aps-is-not-hierarchical
@@ -61,7 +62,7 @@ Culture is not merely symbolic representation. It is the organisation of coordin
 **Key shift:**  
 Culture is not a domain separate from activity—it is the temporal extension of organised activity.
 
-[[box:why-aps-is-not-hierarchical]]
+[[box:aps-box-hierarchy-vs-scale]]
 
 ---
 
@@ -69,11 +70,11 @@ Culture is not a domain separate from activity—it is the temporal extension of
 
 APS understands culture as the extension of coordination across time and scale.
 
-Within the emerging APS account of social systems:
+Within the APS account of social systems:
 
-- Norms regulate interaction in the present  
-- Institutions stabilise constraint structures across intermediate timescales  
-- Culture extends and transmits these patterns across generations  
+- Norms regulate activity in real time  
+- Institutions stabilise constraint structures  
+- Culture extends persistence across time  
 
 Culture therefore functions as:
 
@@ -95,7 +96,7 @@ These form a coordinated system of social organisation:
 - Institutions stabilise these regulatory patterns into enduring constraints  
 - Culture extends, transmits, and reconfigures these patterns across time  
 
-Culture provides the historical continuity of social organisation. It allows patterns of interaction to be inherited, modified, and re-established across generations.
+Together, these processes organise the persistence of social systems across scales.
 
 ---
 
@@ -179,13 +180,13 @@ Culture is not separate from biological or social organisation. It is the extens
 - It stabilises continuity  
 - It enables transformation  
 
-Within the APS social framework, culture completes the triad of organisation:
+Within the APS framework:
 
 - Norms regulate activity  
 - Institutions stabilise constraints  
 - Culture extends persistence across time  
 
-By treating culture as a component of multiscale organisation, APS integrates meaning, history, and social structure into a single explanatory framework.
+Together, they organise the continuity of social systems across scales.
 
 ---
 
@@ -193,7 +194,7 @@ By treating culture as a component of multiscale organisation, APS integrates me
 
 - Culture is the temporal extension of organised activity  
 - It transmits and stabilises patterns across generations  
-- Norms regulate interaction, institutions stabilise constraints, culture extends continuity  
+- Norms regulate activity, institutions stabilise constraints, culture extends persistence  
 - Cultural patterns persist, are inherited, and can transform  
 - Agency and culture are mutually constitutive  
 - APS integrates culture within multiscale organisation
