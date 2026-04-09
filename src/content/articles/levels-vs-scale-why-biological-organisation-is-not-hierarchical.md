@@ -6,13 +6,13 @@ canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-04-09
 cluster: conceptual-foundations
-abstract: Traditional biology explains living systems using hierarchical levels, from molecules to ecosystems. APS replaces this framework with scale: a relational account of organisation across space and time. This article clarifies why levels fail and how scale provides a more accurate explanatory grammar for biological systems.
+abstract: "Traditional biology explains living systems using hierarchical levels, from molecules to ecosystems. APS replaces this framework with scale: a relational account of organisation across space and time. This article clarifies why levels fail and how scale provides a more accurate explanatory grammar for biological systems."
 keyPoints:
   - Hierarchical levels misrepresent biological organisation as stacked layers of independent entities.
   - Biological systems are organised across scales, not levels.
   - Scale is relational and dynamic, not a fixed position in a hierarchy.
   - Causation in biology is cross-scale and reciprocal, not unidirectional.
-  - Time is integral to scale: development, physiology, and evolution are coordinated dimensions of the same organisation.
+  - Time is integral to scale - development, physiology, and evolution are coordinated dimensions of the same organisation.
 relatedGlossaryTerms:
   - scale
   - biological-organisation

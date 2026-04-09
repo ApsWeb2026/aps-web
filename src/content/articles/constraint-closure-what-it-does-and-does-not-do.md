@@ -1,12 +1,12 @@
 ---
-title: Constraint Closure — What It Does and What It Does Not Do
+title: "Constraint Closure — What It Does and What It Does Not Do"
 slug: constraint-closure-what-it-does-and-does-not-do
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-04-09
 cluster: conceptual-foundations
-abstract: Constraint closure is central to contemporary theories of biological organisation, but it is often misunderstood. APS adopts constraint closure as a necessary condition for biological systems while clarifying its limits: closure alone does not establish life, agency, or viability-oriented organisation.
+abstract: "Constraint closure is central to contemporary theories of biological organisation, but it is often misunderstood. APS adopts constraint closure as a necessary condition for biological systems while clarifying its limits: closure alone does not establish life, agency, or viability-oriented organisation."
 keyPoints:
   - Constraint closure describes systems in which processes mutually sustain one another.
   - It is necessary for biological organisation but not sufficient for life.
