@@ -76,7 +76,7 @@ Evidence for life therefore includes indications that:
 
 This is more demanding than detecting complexity or activity. It is the detection of self-maintaining organisation.
 
-[[box:aps-box-behaviour-is-not-enough]]
+[[box:aps-box-behaviour-is-not-enough-for-life]]
 
 ## Perturbation Reveals Organisation
 
