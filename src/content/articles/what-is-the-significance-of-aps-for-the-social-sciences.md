@@ -24,23 +24,23 @@ relatedArticles:
   - why-aps-is-not-hierarchical
 ---
 
-## Introduction: Why Social Theory Fragments
+## Introduction: Why Social Theory Remains Divided
 
 Why has no single framework unified the social sciences?
 
-Economics explains behaviour through individual choice. Sociology emphasises institutions and structure. Anthropology focuses on culture and meaning. Each captures something real—but they often appear incompatible.
+Economics explains behaviour through individual choice. Sociology emphasises institutions and structure. Anthropology focuses on culture and meaning. Each captures something real—but they often appear theoretically incompatible.
 
-The difficulty lies not in the phenomena themselves, but in the explanatory grammar used to understand them.
+The problem lies not in the phenomena, but in the explanatory grammar used to interpret them.
 
 APS begins from a different question:
 
 **What must be true for social systems to persist at all?**
 
-This shift—from identifying causes to analysing conditions of persistence—reorganises the explanatory landscape.
+By shifting attention from competing causes to conditions of persistence, APS reorganises the explanatory landscape of the social sciences.
 
 ---
 
-## Beyond Individuals vs Structures
+## Beyond Individuals and Structures
 
 Much of social theory is organised around a familiar opposition:
 
@@ -49,16 +49,16 @@ Much of social theory is organised around a familiar opposition:
 
 APS dissolves this contrast.
 
-Individuals and structures are not competing causes. They are interdependent processes within multiscale organisation.
+Individuals and structures are not competing explanatory primitives. They are interdependent processes within multiscale organisation.
 
 - Individuals are biologically grounded agents  
 - Institutions stabilise patterns of interaction  
 - Cultures extend coordination across time  
 
-Each exists only through the ongoing processes that sustain it.
+Each exists only through the ongoing activity that sustains it.
 
 **Key shift:**  
-Social systems are not collections of entities but organised processes that maintain their own conditions of persistence.
+Social systems are not collections of entities but organised processes that maintain the conditions of their own persistence.
 
 [[box:why-aps-is-not-hierarchical]]
 
@@ -70,13 +70,13 @@ A central tension in the social sciences concerns agency: is behaviour driven by
 
 APS reframes agency as distributed across scales.
 
-- Organisms sustain themselves through viability-oriented activity  
+Agency is not confined to intention or choice. It is the capacity of organised systems to sustain and modulate their own activity relative to viability.
+
+- Organisms maintain themselves through viability-oriented activity  
 - Social systems stabilise coordination across groups  
-- Institutions regulate and reshape conditions of action  
+- Institutions regulate and reshape the conditions of action  
 
-Agency is not confined to intention or choice. It is the capacity of organised systems to sustain and modulate their own activity.
-
-This allows explanation to remain non-reductive without becoming vague or purely interpretive.
+This removes the need to privilege either individuals or structures. Agency becomes a property of organisation across scales.
 
 ---
 
@@ -86,11 +86,9 @@ Institutions are often treated as external constraints—rules that limit behavi
 
 APS reframes them more precisely.
 
-Institutions are processes that stabilise constraints in ways that make coordinated activity possible over time.
+Institutions are processes that stabilise constraints in ways that enable coordinated activity to persist over time. They do not merely restrict behaviour—they make sustained patterns of interaction possible.
 
-They do not merely restrict behaviour—they enable the persistence of organised interaction.
-
-This reflects a general APS principle: constraints are not just limits but conditions of possibility for organised persistence.
+In APS terms, institutions participate in the maintenance of constraint-closed organisation at the social scale. They help reproduce the conditions under which coordinated activity can continue.
 
 ---
 
@@ -98,49 +96,44 @@ This reflects a general APS principle: constraints are not just limits but condi
 
 Norms are typically described as shared beliefs or expectations.
 
-APS reframes norms in functional terms.
+APS reframes norms functionally.
 
-Norms are patterns of regulation that stabilise interaction relative to system-level viability.
+Norms are patterns of regulation that stabilise interaction relative to system-level viability. They differentiate between patterns that sustain collective organisation and those that undermine it.
 
 This connects social normativity with biological normativity:
 
 - In organisms, viability distinguishes what sustains or degrades persistence  
 - In societies, norms distinguish what stabilises or destabilises collective organisation  
 
-Meaning, in this context, is not purely symbolic. It is grounded in what matters for the persistence of organised activity.
+Meaning, in this context, is grounded in what matters for the persistence of organised activity, not in symbolic representation alone.
 
 ---
 
 ## Culture as Extended Coordination
 
-Human culture is often treated as a separate domain requiring its own explanatory framework.
+Human culture is often treated as a separate explanatory domain.
 
 APS reframes this without reducing it.
 
-Culture is a historically extended form of coordination grounded in viability-oriented organisation.
+Culture is a historically extended form of coordination grounded in viability-oriented organisation. Symbolic systems—language, norms, institutions—are elaborations of the same organisational logic that sustains living systems.
 
-Symbolic systems—language, norms, institutions—are elaborations of the same organisational logic that sustains life.
-
-This preserves the distinctiveness of culture while situating it within a unified explanatory framework.
+This preserves the distinctiveness of human cultural forms while situating them within a unified explanatory framework.
 
 ---
 
 ## Scale and the Resolution of Micro–Macro Conflicts
 
-Many theoretical disputes arise from an implicit assumption that explanation must choose between levels.
+Many theoretical disputes arise from the assumption that explanation must choose between levels.
 
 APS replaces this with an explicit treatment of scale.
 
-- Individual interactions occur in real time  
+- Individual interactions unfold in real time  
 - Institutions stabilise across intermediate timescales  
 - Cultures persist across generations  
 
 These are not separate domains but interdependent temporal processes.
 
-Higher-scale organisation constrains local activity.  
-Local activity continuously reproduces higher-scale organisation.
-
-This mutual dependence dissolves the micro–macro divide.
+Higher-scale organisation constrains local activity, while local activity continuously reproduces higher-scale organisation. This reciprocal dependence dissolves the micro–macro divide.
 
 ---
 
@@ -153,24 +146,22 @@ APS does not replace existing disciplines. It reorganises how they connect.
 - Anthropology can situate meaning within organisational processes  
 - Political science can analyse institutions as dynamic stabilising systems  
 
-The result is not a new discipline, but a shared explanatory grammar.
+Across these domains, APS provides a shared explanatory grammar grounded in Agency, Process, and Scale.
 
 ---
 
-## Conclusion: From Fragmentation to Integration
+## Conclusion: A Framework for Integration
 
-The significance of APS for the social sciences lies in its integrative power.
+The significance of APS for the social sciences lies in its ability to unify without reducing.
 
-It does not reduce social phenomena to biology, nor isolate them from it.
-
-Instead, it shows that:
+It does not collapse social phenomena into biology, nor isolate them from it. Instead, it shows that social systems are continuous with the broader dynamics of organised, viability-oriented processes.
 
 - Social systems are forms of organised persistence  
-- Agency is distributed and multiscale  
+- Agency is distributed across scales  
 - Structure and process are inseparable  
 - Normativity and meaning are grounded in organisation  
 
-By shifting the focus from entities to conditions of persistence, APS provides a coherent framework for understanding social life as part of the broader dynamics of living systems.
+APS therefore offers more than a reinterpretation of existing theories. It provides a framework for integrating the social sciences into a coherent account of living systems.
 
 ---
 
