@@ -11,7 +11,7 @@ abstract: |
 keyPoints:
   - Agency is viability-oriented activity enacted through organism–world coupling, not internal behaviour or external control.
   - The environment is not external to agency but part of the functional context through which viability is sustained.
-  - Coupling differs from control: living systems organise their environmental dependence from within their own viability constraints.
+  - Coupling differs from control - living systems organise their environmental dependence from within their own viability constraints.
   - Perturbation reveals agency when systems reorganise their own activity to restore viable coupling.
   - APS avoids both internalism and externalism by grounding normativity within the organism’s own organisation.
 relatedGlossaryTerms:
