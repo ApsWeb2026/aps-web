@@ -1,24 +1,26 @@
 ---
 title: "APS and Norms: How Social Systems Regulate Organised Persistence"
-slug: aps-and-norms-how-social-systems=regulate-organised-persistence
+slug: aps-and-norms
 status: evolving
 revised: 2026-04-09
 cluster: conceptual-foundations
 abstract: "APS (Agency–Process–Scale) reframes norms as regulatory patterns that stabilise social interaction relative to system-level viability. Rather than treating norms as subjective beliefs or external rules, APS understands them as functional components of multiscale organisation that differentiate between stabilising and destabilising forms of activity."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
   - normativity
   - function
-  - organisation
+  - biological-organisation
   - constraint
   - coupling
   - environment
   - persistence
 relatedArticles:
-  - aps-significance-for-social-sciences
+  - aps-and-the-social-sciences
   - aps-and-institutions
+  - aps-and-culture
+  - aps-and-economics
   - explanatory-geometry-of-biology-how-aps-organises-biological-explanation
   - why-aps-is-not-hierarchical
 ---
@@ -59,7 +61,7 @@ Norms are neither merely mental representations nor external prescriptions. They
 **Key shift:**  
 Norms are not things people follow—they are patterns that shape and are reproduced through organised activity.
 
-[[box:why-aps-is-not-hierarchical]]
+[[box:aps-box-hierarchy-vs-scale]]
 
 ---
 
@@ -112,13 +114,19 @@ This relation is not hierarchical but emerges from multiscale organisation.
 
 ---
 
-## Norms, Institutions, and Coordination
+## Norms, Institutions, and Culture
 
-Norms and institutions are closely related but perform distinct roles within social organisation. Norms provide the fine-grained regulation of interaction, guiding behaviour in real time. Institutions stabilise these regulatory patterns into enduring constraint structures across longer timescales.
+Norms and institutions are closely related but perform distinct roles within social organisation.
 
-Norms provide the local, moment-to-moment regulation that enables coordinated interaction. Institutions stabilise and extend these patterns across broader temporal and organisational scales.
+Norms provide the fine-grained regulation of interaction, guiding behaviour in real time. Institutions stabilise these regulatory patterns into enduring constraint structures across longer timescales. Culture extends these patterns across time.
 
-Together, they contribute to the persistence of coordinated social activity.
+Within the APS framework:
+
+- Norms regulate activity in real time  
+- Institutions stabilise constraints  
+- Culture extends persistence across time  
+
+Together, these processes organise the persistence of social systems across scales.
 
 ---
 
@@ -181,7 +189,13 @@ Norms are not merely beliefs or rules. They are regulatory patterns that stabili
 - They coordinate behaviour  
 - They sustain organised persistence  
 
-By treating norms as components of viability-oriented organisation, APS integrates normativity, agency, and social structure into a single explanatory framework.
+Within the APS framework:
+
+- Norms regulate activity  
+- Institutions stabilise constraints  
+- Culture extends persistence across time  
+
+Together, they organise the continuity of social systems across scales.
 
 ---
 
@@ -191,5 +205,5 @@ By treating norms as components of viability-oriented organisation, APS integrat
 - They stabilise interaction relative to system-level viability  
 - Normativity operates continuously across biological and social systems  
 - Agency and norms are mutually constitutive  
-- Norms provide fine-grained regulation, while institutions stabilise constraint structures  
+- Norms regulate activity, institutions stabilise constraints, culture extends persistence  
 - APS integrates the study of norms within multiscale organisation
