@@ -21,6 +21,8 @@ APS is organised around three inseparable dimensions:
 
 These are not separate “levels” or components. They are **co-constitutive aspects of the same organisation**. Living systems exist only through their continuous coordination across these dimensions.
 
+[[box:aps-box-hierarchy-vs-scale]]
+
 ## Why APS Is Different
 
 Traditional approaches in biology often prioritise one explanatory dimension:
