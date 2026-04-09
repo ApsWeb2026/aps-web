@@ -1,11 +1,8 @@
 ---
-title: APS Box — Hierarchy vs Scale
+title: "APS Box — Hierarchy vs Scale"
 slug: aps-box-hierarchy-vs-scale
-status: canonical
-canonical: true
-canonicalLockDate: 2026-04-09
+status: evolving
 revised: 2026-04-09
-associatedPages: []
 ---
 
 Biological systems are often described using hierarchical language: lower and higher levels, more basic and more advanced forms, or processes that build upward from simple to complex.
