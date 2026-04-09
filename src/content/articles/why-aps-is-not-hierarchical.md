@@ -48,7 +48,7 @@ APS treats this as a category mistake: an epistemic abstraction has been mistake
 ## Levels Are Abstractions, Not Features of Life
 Nothing in a living system is literally arranged into stacked tiers of causal authority. There is no boundary at which one domain ends and another begins. Biological processes overlap, interact, and propagate across spatial and temporal extent without regard for neat partitions.
 
-Living [organisation](/glossary/biological-organisation/) is continuous, not discretely stratified.
+Living [biological organisation](/glossary/biological-organisation/) is continuous, not discretely stratified.
 
 What appear as levels arise when analysts impose partitions onto this continuity for purposes of description, modelling, or pedagogy. Such partitions can be useful, but they are epistemic tools, not ontological facts.
 
@@ -61,7 +61,7 @@ What “levels” loosely gesture toward are differences in:
 
 - extent — the spatial and temporal span over which activity is organised  
 - resolution — the granularity at which processes are described or modelled  
-- organisational coupling — the degree to which processes are integrated through [constraint relations](/glossary/constraint/) into a coherent, [viability-oriented organisation](/glossary/biological-agency/)  
+- organisational coupling — the degree to which processes are integrated through [constraint relations](/glossary/constraint/) into a coherent, [biological organisation](/glossary/biological-organisation/)
 
 Differences traditionally described as differences of “level” are therefore reinterpreted as differences in how organisation is distributed, coordinated, and stabilised across space and time.
 
@@ -80,7 +80,7 @@ Causation in living systems is reciprocal, constraint-mediated, and [scale-coupl
 There is no privileged direction of causation—only mutual constraint and co-determination across scale.
 
 ## Why Hierarchy Misleads Accounts of Agency
-Hierarchical models are especially problematic for understanding [Agency](/glossary/biological-agency/).
+Hierarchical models are especially problematic for understanding [biological agency](/glossary/biological-agency/).
 
 Agency is often located at a “higher level,” while smaller-scale processes are treated as passive mechanisms. This framing suggests that agency emerges only once sufficient complexity accumulates.
 
