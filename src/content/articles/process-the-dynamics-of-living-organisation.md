@@ -58,6 +58,8 @@ Process is the activity through which this closure is enacted and maintained. Wi
 
 Process therefore explains how constraint-closed organisation persists through time.
 
+This perspective has direct implications for causation. In APS, constraints are not merely structural features; they are actively maintained conditions that shape what processes can occur. Biological causation therefore includes not only event-based interactions but the viability-oriented maintenance and modulation of constraints within constraint-closed organisation. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+
 ## Process, Agency, and Scale
 
 In APS, process is one of three analytically distinguishable but ontologically co-constitutive dimensions of living organisation.
