@@ -1,15 +1,15 @@
 ---
 title: "APS and Economics: How Economic Systems Organise Viability Across Scales"
-slug: aps-and-economics-how-economic-systems-organise-viability-across-scales
+slug: aps-and-economics
 status: evolving
 revised: 2026-04-09
 cluster: conceptual-foundations
 abstract: "APS (Agency–Process–Scale) reframes economic systems as processes that organise the production, distribution, and regulation of viability-relevant resources across scales. Rather than treating economics as a domain of rational choice or abstract markets, APS understands it as the coordinated management of constraints that sustain organised persistence in social systems."
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - process
   - scale
-  - organisation
+  - biological-organisation
   - constraint
   - coupling
   - environment
@@ -17,7 +17,7 @@ relatedGlossaryTerms:
   - function
   - persistence
 relatedArticles:
-  - aps-significance-for-social-sciences
+  - aps-and-the-social-sciences
   - aps-and-institutions
   - aps-and-norms
   - aps-and-culture
@@ -64,7 +64,7 @@ Economic systems are not reducible to individual choices, nor are they adequatel
 **Key shift:**  
 Economics is not primarily about choice—it is about the organisation of viability-relevant activity.
 
-[[box:why-aps-is-not-hierarchical]]
+[[box:aps-box-hierarchy-vs-scale]]
 
 ---
 
@@ -130,7 +130,13 @@ Economic systems do not operate independently of the core processes identified i
 - Institutions stabilise systems of exchange and production  
 - Culture transmits economic practices and patterns across time  
 
-Economic organisation is therefore not a separate domain, but a coordinated expression of these processes across scales.
+Within the APS framework:
+
+- Norms regulate activity  
+- Institutions stabilise constraints  
+- Culture extends persistence across time  
+
+Economic organisation is therefore a coordinated expression of these processes across scales.
 
 ---
 
@@ -196,7 +202,13 @@ Economic systems are not merely mechanisms of exchange. They are processes that 
 - They regulate activity  
 - They sustain organised systems across scales  
 
-Within the APS framework, economics becomes the study of how social systems organise viability.
+Within the APS framework:
+
+- Norms regulate activity  
+- Institutions stabilise constraints  
+- Culture extends persistence across time  
+
+Together, these processes organise viability across social systems.
 
 ---
 
@@ -207,4 +219,4 @@ Within the APS framework, economics becomes the study of how social systems orga
 - Agency in economics is distributed across individuals, organisations, and systems  
 - Economic norms and institutions regulate and stabilise activity  
 - Economic systems persist through continuous reproduction and transformation  
-- APS integrates economic analysis within multiscale organisation
+- Norms regulate activity, institutions stabilise constraints, culture extends persistence  
