@@ -93,9 +93,9 @@ This perspective explains why APS diagnostics rely on perturbation.
 
 When a system is challenged, three outcomes are possible:
 
-1. The system degrades and does not recover  
-2. The system returns to function only because external structures stabilise or repair it  
-3. The system reorganises its own activity—often by re-engaging environmental relations—in ways that restore the conditions of its continued existence  
+- The system degrades and does not recover  
+- The system returns to function only because external structures stabilise or repair it  
+- The system reorganises its own activity—often by re-engaging environmental relations—in ways that restore the conditions of its continued existence  
 
 Only the third outcome indicates internally grounded agency.
 
