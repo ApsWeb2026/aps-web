@@ -16,10 +16,9 @@ keyPoints:
 relatedGlossaryTerms:
   - biological-agency
   - biological-organisation
-  - biological-individual
-  - processual-individual
-  - constraint-closure
+  - viability
   - persistence
+  - environment
 relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
   - biological-agency-the-activity-of-self-maintenance
