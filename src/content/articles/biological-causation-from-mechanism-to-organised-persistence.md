@@ -84,7 +84,7 @@ Biological causation therefore includes:
 
 Living systems do not merely undergo events. They sustain the conditions under which events remain viable.
 
-[[box:aps-box-event-constraint-organisational-causation]]
+[[box:aps-box-event-constraint-and-organisational-causation]]
 
 ## Reciprocal and Cross-Scale Causation
 
