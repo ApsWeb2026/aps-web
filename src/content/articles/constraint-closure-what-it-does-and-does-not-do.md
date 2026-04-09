@@ -20,10 +20,9 @@ relatedGlossaryTerms:
   - viability
   - persistence
 relatedArticles:
-  - what-is-a-biological-system
-  - organism-the-unity-of-viability-oriented-organisation
-  - biological-agency-the-activity-of-self-maintenance
-  - biological-evidence-what-counts-as-evidence-for-life
+  - constraint-closure-what-it-does-and-does-not-do
+  - organism-individual-agent-distinction
+  - levels-vs-scale-why-biological-organisation-is-not-hierarchical
 ---
 
 ## The Central Role of Constraint Closure
