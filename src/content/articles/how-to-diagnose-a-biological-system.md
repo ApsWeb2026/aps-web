@@ -11,7 +11,7 @@ abstract: |
 keyPoints:
   - APS diagnosis proceeds by perturbation and evaluation of organisational response, not by trait identification.
   - The central diagnostic question is whether a system sustains its own viability through endogenous activity.
-  - Three dimensions structure diagnosis: Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI).
+  - Three dimensions structure diagnosis - Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI).
   - External restoration does not demonstrate agency; endogenous reorganisation does.
   - Diagnosis must be multiscale, assessing persistence across time and organisational extent.
 relatedGlossaryTerms:
