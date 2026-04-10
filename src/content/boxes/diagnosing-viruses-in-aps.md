@@ -46,6 +46,8 @@ Yet they lack:
 
 This combination makes them an ideal test case for APS diagnosis.
 
+For a conceptual account of how APS defines the boundary of life, see [APS and the Edges of Life](/articles/aps-and-the-edges-of-life/).
+
 ---
 
 ## Diagnosis Is Not Classification
