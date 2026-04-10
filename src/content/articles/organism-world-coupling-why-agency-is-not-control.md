@@ -24,7 +24,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - cognition-from-life-to-mind-continuity-without-mentalism
   - environment-coupling-and-biological-agency
-  ---
+---
 
 Organisms are often described in two opposing ways: either as self-contained systems acting from within, or as products of environmental forces acting upon them. Both views miss something fundamental.
 
