@@ -1,34 +1,28 @@
 ---
-title: APS Box — Diagnostics vs Definition
+title: APS Box — Definition vs Diagnosis vs Classification
 slug: diagnostics-vs-definition
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
 revised: 2026-04-10
-associatedPages: []
+associatedPages:
+  - /articles/aps-and-the-edges-of-life/
+  - /articles/diagnosing-a-biological-system-aps-method/
 ---
 
-Diagnosis and definition serve different roles in APS and must not be conflated.
+Biology often treats the question “Is this alive?” as a single problem. In APS, this question separates into three distinct tasks.
 
-**Definition** specifies what counts as life:  
-a system must exhibit **viability-oriented, constraint-closed organisation** to qualify as a biological system.
+**Definition** specifies what life *is*.  
+In APS, life is defined as **viability-oriented, constraint-closed organisation sustained across scale**. This definition does not change in response to difficult cases.
 
-**Diagnosis** evaluates how such organisation is functioning in practice. It assesses:
-- how effectively viability is sustained  
-- how activity is oriented toward persistence  
-- how processes are integrated across the system  
+**Diagnosis** determines whether a particular system exhibits this organisation.  
+Diagnosis is empirical and graded, assessing the extent to which a system sustains its own viability. Tools such as the Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI) make this explicit.
 
-These dimensions are formalised in APS as:
-- the **Viability Gradient (VG)**  
-- the **Normativity Gradient (NG)**  
-- **Cognitive Integration (CI)**  
+**Classification** groups systems for practical or scientific purposes.  
+These groupings may vary depending on context and do not determine the definition of life itself.
 
-Crucially, these diagnostic dimensions do not determine whether a system is alive. They evaluate the **degree and quality of organisation** within systems under analysis.
+Confusion arises when these tasks are collapsed into one. Borderline cases then appear problematic because they resist simple classification.
 
-A system may:
-- exhibit low VG, NG, or CI and still qualify as biological  
-- exhibit partial organisation without meeting the conditions for life  
+APS resolves this by keeping the three levels distinct.
 
-Diagnosis therefore operates within, but does not replace, definition.
-
-**Key Point.** *Definition establishes the conditions for life; diagnosis evaluates how those conditions are realised in ongoing organisation.*
+**Key Point.** Definition states what life is, diagnosis assesses how it is realised, and classification organises cases without determining either.
