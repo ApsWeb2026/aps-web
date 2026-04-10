@@ -21,12 +21,15 @@ relatedGlossaryTerms:
   - environment
   - coupling
   - normativity
+  - organism
 relatedArticles:
   - cognition-from-life-to-mind-continuity-without-mentalism
   - environment-coupling-and-biological-agency
+  - what-is-an-organism
+  - organism-individual-agent-distinction
 ---
 
-Organisms are often described in two opposing ways: either as self-contained systems acting from within, or as products of environmental forces acting upon them. Both views miss something fundamental.
+Organisms are often described in two opposing ways: either as self-contained systems acting from within, or as products of environmental forces acting upon them. Both views miss something fundamental. For a definition of the organism itself, see [What Is an Organism?](/articles/what-is-an-organism/)
 
 In APS, agency is neither isolated nor externally controlled. It is enacted through ongoing coupling with a world.
 
