@@ -16,7 +16,7 @@ keyPoints:
   - Diagnosis distinguishes active biological organisation from passive or externally supported persistence.
 relatedGlossaryTerms:
   - biological-agency
-  - biological-cognition
+  - cognition
   - normativity
   - viability
   - persistence
