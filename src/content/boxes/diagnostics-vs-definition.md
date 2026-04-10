@@ -1,16 +1,34 @@
 ---
-title: "APS Box — Diagnostics vs Definition"
+title: APS Box — Diagnostics vs Definition
 slug: diagnostics-vs-definition
 status: canonical
-revised: 2026-04-02
+canonical: true
+canonicalLockDate: 2026-04-10
+revised: 2026-04-10
+associatedPages: []
 ---
 
-Biological accounts of life often conflate what life is with how it is identified. In APS, these are distinct: a definition specifies the organisational condition that constitutes life, whereas diagnostics provide operational criteria for detecting it.
+Diagnosis and definition serve different roles in APS and must not be conflated.
 
-In APS, life is defined as viability-oriented, constraint-closed organisation—the organisation through which a system sustains its own persistence. This definition establishes what must be true of any living system, independent of observation or measurement.
+**Definition** specifies what counts as life:  
+a system must exhibit **viability-oriented, constraint-closed organisation** to qualify as a biological system.
 
-Diagnostics, by contrast, identify observable signatures of this organisation, such as self-maintenance, adaptive regulation, and responsiveness to perturbation. These are not themselves the definition of life, but evidence that the underlying organisation is present.
+**Diagnosis** evaluates how such organisation is functioning in practice. It assesses:
+- how effectively viability is sustained  
+- how activity is oriented toward persistence  
+- how processes are integrated across the system  
 
-Confusing these levels leads to treating lists of traits or behaviours as definitions. APS resolves this by separating definition from detection: the definition specifies the organisational principle of life, while diagnostics indicate where that principle is realised.
+These dimensions are formalised in APS as:
+- the **Viability Gradient (VG)**  
+- the **Normativity Gradient (NG)**  
+- **Cognitive Integration (CI)**  
 
-**Key Point.** In APS, life is defined by viability-oriented organisation; diagnostic features are evidence of this organisation, not the definition itself.
+Crucially, these diagnostic dimensions do not determine whether a system is alive. They evaluate the **degree and quality of organisation** within systems under analysis.
+
+A system may:
+- exhibit low VG, NG, or CI and still qualify as biological  
+- exhibit partial organisation without meeting the conditions for life  
+
+Diagnosis therefore operates within, but does not replace, definition.
+
+**Key Point.** *Definition establishes the conditions for life; diagnosis evaluates how those conditions are realised in ongoing organisation.*
