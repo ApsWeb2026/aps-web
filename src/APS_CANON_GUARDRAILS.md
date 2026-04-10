@@ -1,3 +1,7 @@
+
+# APS_CANON_GUARDRAILS.md
+**Conceptual Constraints Governing the APS Framework**
+
 ---
 
 ## 1. Purpose
