@@ -109,6 +109,8 @@ Each case reveals something about what is required for life.
 
 Confusion about borderline cases often arises from conflating three distinct tasks:
 
+[[box:diagnostics-vs-definition]]
+
 - **Definition** — what life *is*  
 - **Diagnosis** — how we determine whether a system exhibits it  
 - **Classification** — how we group systems for practical purposes  
