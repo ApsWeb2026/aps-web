@@ -38,8 +38,6 @@ In APS, life is not a membership class but a form of **organisation**. Once life
 
 Borderline cases are therefore not problems to be solved—they are **expected outcomes of the kind of system life is**.
 
-[[box:diagnosing-viruses-in-aps]]
-
 **Key Point.** Edge cases do not undermine the definition of life—they reveal its organisational structure.
 
 ## Why No Sharp Boundary Exists
