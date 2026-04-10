@@ -72,8 +72,6 @@ APS draws a sharp distinction between:
 
 In control, the system’s continued functioning depends on something else maintaining the relevant conditions. In coupling, the system’s activity participates in maintaining the conditions of its own persistence, including those that involve the environment.
 
-[[box:coupling-without-control]]
-
 This distinction is critical for diagnostics. Many systems—machines, algorithms, infrastructures—are environmentally embedded and responsive. But their persistence does not matter for them. Their coupling is externally grounded: when support is withdrawn, nothing is lost for the system itself.
 
 Living systems differ not because they interact with environments, but because their viability is at stake within that interaction.
