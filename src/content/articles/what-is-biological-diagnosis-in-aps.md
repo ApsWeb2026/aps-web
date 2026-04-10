@@ -70,9 +70,9 @@ APS diagnosis is most clearly revealed under perturbation.
 
 When a system is disturbed, three broad outcomes are possible:
 
-1. The system degrades and does not recover  
-2. The system is restored only through external stabilisation  
-3. The system reorganises its own activity in ways that restore viable conditions  
+- The system degrades and does not recover  
+- The system is restored only through external stabilisation  
+- The system reorganises its own activity in ways that restore viable conditions  
 
 Only the third case demonstrates **biological agency**—the system’s capacity to sustain itself through its own activity.
 
