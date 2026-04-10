@@ -15,7 +15,7 @@ keyPoints:
   - CI does not require representation or consciousness; it reflects organisational integration.
   - CI completes the APS diagnostic triad alongside the Viability Gradient (VG) and Normativity Gradient (NG).
 relatedGlossaryTerms:
-  - biological-cognition
+  - cognition
   - biological-agency
   - normativity
   - viability
