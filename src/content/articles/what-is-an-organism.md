@@ -23,6 +23,9 @@ relatedGlossaryTerms:
   - normativity
   - adaptation
   - evolution
+relatedArticles:
+- organism-world-coupling-agency-not-control
+- organism-individual-agent-distinction
 ---
 
 ## Introduction
@@ -63,7 +66,7 @@ An organism does not exist in isolation. Its viability depends on continuous int
 
 In APS, these interactions are not external influences acting on a passive system. They are part of the organism’s own organisation. The organism actively regulates how it is coupled to its environment, shaping the conditions under which it persists.
 
-This perspective avoids both internalism and externalism. The organism is neither self-contained nor externally controlled. Instead, it is an internally organised system that sustains itself through structured engagement with its surroundings.
+This perspective avoids both internalism and externalism. The organism is neither self-contained nor externally controlled. Instead, it is an internally organised system that sustains itself through structured engagement with its surroundings see [Organism–World Coupling — Why Agency Is Not Control](/articles/organism-world-coupling-agency-not-control/).
 
 ## The Organism in Evolution
 
