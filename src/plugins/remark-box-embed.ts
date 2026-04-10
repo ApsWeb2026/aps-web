@@ -27,7 +27,9 @@ function loadBoxes(): Map<string, BoxData> {
 
   for (const file of fs.readdirSync(BOX_DIR).filter((f) => f.endsWith('.md'))) {
     const raw = fs.readFileSync(path.join(BOX_DIR, file), 'utf-8');
-    const fmMatch = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+
+    // Support both Unix (\n) and Windows (\r\n) line endings.
+    const fmMatch = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
     if (!fmMatch) continue;
 
     const frontmatter = fmMatch[1];
@@ -35,12 +37,16 @@ function loadBoxes(): Map<string, BoxData> {
 
     let slug = '';
     let title = '';
-    for (const line of frontmatter.split('\n')) {
-      const kv = line.match(/^(\w[\w-]*):\s*(.+)/);
+
+    for (const line of frontmatter.split(/\r?\n/)) {
+      const kv = line.match(/^(\w[\w-]*):\s*(.+)$/);
       if (!kv) continue;
+
+      const key = kv[1];
       const val = kv[2].trim().replace(/^["']|["']$/g, '');
-      if (kv[1] === 'slug') slug = val;
-      if (kv[1] === 'title') title = val;
+
+      if (key === 'slug') slug = val;
+      if (key === 'title') title = val;
     }
 
     if (slug) {
@@ -72,6 +78,7 @@ export function remarkBoxEmbed() {
       let match: RegExpExecArray | null;
 
       const regex = new RegExp(BOX_PATTERN.source, 'g');
+
       while ((match = regex.exec(text)) !== null) {
         const slug = match[1];
         const box = boxes.get(slug);
@@ -85,7 +92,10 @@ export function remarkBoxEmbed() {
 
         // Text before the match
         if (match.index > lastIndex) {
-          parts.push({ type: 'text', value: text.slice(lastIndex, match.index) });
+          parts.push({
+            type: 'text',
+            value: text.slice(lastIndex, match.index),
+          });
         }
 
         // Render box body markdown to HTML
@@ -106,7 +116,10 @@ export function remarkBoxEmbed() {
 
       // Remaining text after last match
       if (lastIndex < text.length) {
-        parts.push({ type: 'text', value: text.slice(lastIndex) });
+        parts.push({
+          type: 'text',
+          value: text.slice(lastIndex),
+        });
       }
 
       if (parts.length > 0) {
