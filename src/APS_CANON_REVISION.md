@@ -46,24 +46,22 @@ Revision must:
 A canonical entry may be revised only if at least one of the following applies:
 
 ### 4.1 Internal Inconsistency
+
 - Conflicts with other canonical definitions  
 - Violates APS explanatory grammar  
 
----
-
 ### 4.2 Explanatory Limitation
+
 - Cannot adequately account for a biological case  
 - Produces ambiguity or conceptual confusion  
 
----
-
 ### 4.3 Conceptual Compression Opportunity
+
 - A clearer or more precise formulation is available  
 - Improves integration across the framework  
 
----
-
 ### 4.4 Empirical Interface Pressure
+
 - Limits operationalisation (e.g. diagnosis, biosignatures)  
 - Cannot support testing or intervention  
 
@@ -73,16 +71,12 @@ A canonical entry may be revised only if at least one of the following applies:
 
 All revisions must follow this sequence:
 
----
-
 ### Step 1 — Flag for Review
 
 Mark the entry (optional):
 
-```yaml
-underReview: true
+    underReview: true
 
-```
 No content changes at this stage.
 
 ---
@@ -138,55 +132,57 @@ Significant revisions should be recorded.
 
 Example:
 
-```markdown
-### Revision Note — YYYY-MM-DD
-- Entry: [Term or Article]
-- Type: Clarification / Compression / Correction
-- Summary: [What changed]
-- Rationale: [Why it changed]
+    ### Revision Note — YYYY-MM-DD
+    - Entry: [Term or Article]
+    - Type: Clarification / Compression / Correction
+    - Summary: [What changed]
+    - Rationale: [Why it changed]
 
-```
+---
+
 ## 7. Constraints and Prohibitions
 
 The following are not permitted:
 
-❌ Silent Revision
+❌ Silent Revision  
+Changes without documentation or justification  
 
-Changes without documentation or justification
+❌ Local Optimisation  
+Improving one entry while degrading overall coherence  
 
-❌ Local Optimisation
+❌ Premature Canonicalisation  
+Locking content before cross-context testing  
 
-Improving one entry while degrading overall coherence
+❌ Over-Revision  
+Frequent minor edits that destabilise definitions  
 
-❌ Premature Canonicalisation
-
-Locking content before cross-context testing
-
-❌ Over-Revision
-
-Frequent minor edits that destabilise definitions
+---
 
 ## 8. Relationship to APS Guardrails
 
-All revisions must comply with APS_CANON_GUARDRAILS.md.
+All revisions must comply with `APS_CANON_GUARDRAILS.md`.
+
+---
 
 ## 9. Operational Rule
 
 Does this revision increase the explanatory power and coherence of APS as a whole?
 
-If yes → proceed
-If no → do not revise
+- If yes → proceed  
+- If no → do not revise  
+
+---
 
 ## 10. Summary
 
 Canonical content in APS is:
 
-Stable but not static
-Authoritative but revisable
-Locked for use, open to disciplined change
+- Stable but not static  
+- Authoritative but revisable  
+- Locked for use, open to disciplined change  
 
-APS evolves through structured revision, not accumulation or drift
+APS evolves through structured revision, not accumulation or drift.
 
-**Status:** Canonical Governance Document
-**Applies to:** APS_MONO, APS_GLOSSARY, APS_WEB, APS_DIAG
+**Status:** Canonical Governance Document  
+**Applies to:** APS_MONO, APS_GLOSSARY, APS_WEB, APS_DIAG  
 **Effective from:** 2026-04-10
