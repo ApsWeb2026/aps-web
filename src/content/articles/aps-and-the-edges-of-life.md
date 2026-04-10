@@ -16,16 +16,15 @@ keyPoints:
   - APS distinguishes clearly between definition, diagnosis, and classification.
 relatedGlossaryTerms:
   - biological-agency
-  - viability-oriented-organisation
+  - viability
   - constraint-closure
   - normativity
   - persistence
 relatedArticles:
-  - what-is-life
+  - what-is-life-a-biological-question-revisited
   - what-is-a-biological-system
-  - diagnosing-a-biological-system-aps-method
-  - diagnosing-viruses-in-aps
----
+  - how-to-diagnose-a-biological-system
+  ---
 
 ## The Problem of Borderline Cases
 
@@ -38,6 +37,8 @@ APS rejects this assumption.
 In APS, life is not a membership class but a form of **organisation**. Once life is understood as viability-oriented, constraint-closed activity sustained across scale, the expectation of a sharp boundary dissolves.
 
 Borderline cases are therefore not problems to be solved—they are **expected outcomes of the kind of system life is**.
+
+[[box:diagnosing-viruses-in-aps]]
 
 **Key Point.** Edge cases do not undermine the definition of life—they reveal its organisational structure.
 
