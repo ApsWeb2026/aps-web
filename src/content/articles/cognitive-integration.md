@@ -36,8 +36,6 @@ Some systems react locally and independently. Others integrate responses across 
 
 APS captures this distinction through **Cognitive Integration (CI)**.
 
----
-
 ## What Cognitive Integration Measures
 
 Cognitive Integration expresses the degree to which a system’s activity is **coordinated as a whole** in sustaining its own viability.
@@ -48,8 +46,6 @@ This includes:
 - continuity of regulation over time  
 
 CI therefore reflects the organisation of activity, not the presence of cognition in a mental or representational sense.
-
----
 
 ## High and Low Cognitive Integration
 
@@ -67,8 +63,6 @@ Systems can be situated along the gradient:
 
 These positions form a continuum rather than discrete categories.
 
----
-
 ## CI and Perturbation
 
 Cognitive Integration becomes visible when a system is perturbed.
@@ -78,8 +72,6 @@ Under disturbance:
 - Low CI systems respond in fragmented or localised ways  
 
 For the role of organism–environment relations in shaping these responses, see [Organism–World Coupling — Why Agency Is Not Control](/articles/organism-world-coupling-agency-not-control/).
-
----
 
 ## CI Is Not Consciousness
 
@@ -94,8 +86,6 @@ Instead, CI reflects:
 > the degree to which a system’s activity is organised as a coherent whole in sustaining its viability
 
 This aligns with the APS view that cognition is continuous with life and grounded in viability-oriented organisation.
-
----
 
 ## CI and the Other Diagnostic Dimensions
 
@@ -113,8 +103,6 @@ These dimensions are complementary:
 
 For the full diagnostic method, see [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/).
 
----
-
 ## CI and Constraint Closure
 
 Constraint closure provides the organisational basis for integration, but it does not determine CI.
@@ -127,8 +115,6 @@ A system may exhibit closure while:
 CI captures the extent to which closure supports **integrated regulation**.
 
 For clarification, see [Constraint Closure — What It Does and What It Does Not Do](/articles/constraint-closure-what-it-does-and-does-not-do/).
-
----
 
 ## CI Across Scale
 
@@ -143,8 +129,6 @@ CI must therefore be assessed in terms of:
 - continuity over time  
 - integration of processes contributing to persistence  
 
----
-
 ## From Reaction to Organisation
 
 The introduction of Cognitive Integration shifts analysis from isolated reactions to organised activity.
@@ -156,8 +140,6 @@ APS asks:
 > *How are these responses coordinated as a whole?*
 
 This shift reveals that cognition, in its biological sense, is not an added feature but an expression of organised viability.
-
----
 
 ## A Practical Summary
 
