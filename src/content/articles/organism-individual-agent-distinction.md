@@ -19,18 +19,22 @@ relatedGlossaryTerms:
   - viability
   - persistence
   - environment
+  - constraint-closure
+  - organism
 relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
   - biological-agency-the-activity-of-self-maintenance
   - biological-organisation
   - scale-time-persistence
+  - organism-world-coupling-agency-not-control
+  - what-is-an-organism
 ---
 
 ## Why the Distinction Matters
 
 Biology frequently uses the terms *organism*, *individual*, and *agent* interchangeably. This creates conceptual ambiguity. Each term captures a different aspect of living systems, but when they are conflated, explanation becomes unstable.
 
-APS resolves this by distinguishing these terms while showing how they remain internally related within a single organisational reality.
+APS resolves this by distinguishing these terms while showing how they remain internally related within a single organisational reality. For a definition of the organism itself, see [What Is an Organism?](/articles/what-is-an-organism/).
 
 ## Three Concepts, One Organisation
 
