@@ -1,13 +1,8 @@
 ---
-title: APS Box — Definition vs Diagnosis vs Classification
+title: "APS Box — Definition vs Diagnosis vs Classification"
 slug: diagnostics-vs-definition
 status: canonical
-canonical: true
-canonicalLockDate: 2026-04-10
 revised: 2026-04-10
-associatedPages:
-  - /articles/aps-and-the-edges-of-life/
-  - /articles/diagnosing-a-biological-system-aps-method/
 ---
 
 Biology often treats the question “Is this alive?” as a single problem. In APS, this question separates into three distinct tasks.
