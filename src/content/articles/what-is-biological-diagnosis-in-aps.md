@@ -10,7 +10,7 @@ abstract: |
   APS reframes biological diagnosis as the evaluation of viability-oriented organisation rather than the identification of traits, mechanisms, or components. This article defines diagnosis within the APS framework and clarifies how it differs from traditional biological and medical approaches.
 keyPoints:
   - Biological diagnosis in APS evaluates the organisation of viability-oriented activity, not the presence of traits or components.
-  - Diagnosis is normative in a biological sense: it assesses what sustains or degrades a system’s persistence.
+  - Diagnosis is normative in a biological sense - it assesses what sustains or degrades a system’s persistence.
   - Constraint closure is necessary but not sufficient for diagnosis; viability-oriented regulation must also be assessed.
   - APS diagnosis is revealed through perturbation, not static description.
   - Diagnosis operates across scale, assessing how organisation is maintained over time.
