@@ -27,7 +27,7 @@ relatedArticles:
   - normativity-gradient
   - cognitive-integration
   - diagnosing-breakdown-when-organisation-collapses
-  - aps-and-the-edges-of-life
+  - aps-and-the-edges-of-life-ci
 ---
 
 ## Why Viruses Are a Critical Test Case
@@ -46,7 +46,7 @@ Yet they lack:
 
 This combination makes them an ideal test case for APS diagnosis.
 
-For a conceptual account of how APS defines the boundary of life, see [APS and the Edges of Life](/articles/aps-and-the-edges-of-life/).
+For a conceptual account of how APS defines the boundary of life, see [APS and the Edges of Life](/articles/aps-and-the-edges-of-life-ci/).
 
 ---
 

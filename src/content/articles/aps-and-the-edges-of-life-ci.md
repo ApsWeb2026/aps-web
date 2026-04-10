@@ -1,6 +1,6 @@
 ---
 title: APS and the Edges of Life — Why Borderline Cases Are Expected, Not Problematic
-slug: aps-and-the-edges-of-life
+slug: aps-and-the-edges-of-life-ci
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
@@ -107,8 +107,6 @@ Each case reveals something about what is required for life.
 ## Definition, Diagnosis, and Classification
 
 Confusion about borderline cases often arises from conflating three distinct tasks:
-
-[[box:aps-box-diagnostics-vs-definition]]
 
 - **Definition** — what life *is*  
 - **Diagnosis** — how we determine whether a system exhibits it  
