@@ -22,6 +22,8 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## Shared Foundations
 
 Autonomy theory established that living systems are constraint-closed organisations.
