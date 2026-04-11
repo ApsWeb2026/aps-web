@@ -61,6 +61,10 @@ Physiology explains how organisms maintain internal conditions. Ecology explains
 
 Together, these domains reveal life as a dynamic interplay of organisation, activity, and transformation.
 
+This also clarifies why component-based explanations—such as gene-centric accounts—are incomplete. Identifying key mechanisms does not explain how living systems sustain themselves as organised, viability-oriented processes.
+
+[[box:gene-centric-vs-aps-grammar]]
+
 ## The APS Perspective
 
 The Agency–Process–Scale (APS) framework clarifies how these aspects of biology fit together.
