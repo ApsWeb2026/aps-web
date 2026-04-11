@@ -20,6 +20,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-contemporary-theories
   - why-life-is-not-information-processing
+  - why-life-is-not-control-theory
 ---
 
 (Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
