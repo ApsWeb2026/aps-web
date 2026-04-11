@@ -22,6 +22,8 @@ relatedArticles:
   - biological-causation-from-mechanism-to-organised-persistence
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## Control and Regulation
 
 Control theory explains how systems maintain stability through feedback.
