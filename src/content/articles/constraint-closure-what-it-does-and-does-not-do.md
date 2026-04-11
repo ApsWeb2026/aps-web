@@ -72,6 +72,8 @@ Closure therefore does not, by itself, explain:
 
 Treating closure as sufficient risks collapsing biology into general systems theory.
 
+[[box:gene-centric-vs-aps-grammar]]
+
 ## Closure and Viability
 
 APS resolves this limitation by introducing **viability-oriented organisation**.
