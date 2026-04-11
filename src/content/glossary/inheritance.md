@@ -1,3 +1,13 @@
+---
+title: Inheritance
+slug: inheritance
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-04-12
+cluster: evolution
+---
+
 ## Inheritance
 
 **Definition**  
