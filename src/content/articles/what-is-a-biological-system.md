@@ -89,7 +89,7 @@ APS therefore distinguishes between:
 
 Biological systems require both.
 
-(For a full account, see [[constraint-closure-what-it-does-and-does-not-do]].)
+(For a full account, see [constraint-closure-what-it-does-and-does-not-do](/articles/constraint-closure-what-it-does-and-does-not-do/).)
 
 ## Regulation and Perturbation
 
@@ -119,7 +119,7 @@ Other biological systems—cells, collectives, ecological assemblages—can be u
 
 However, APS does not treat “organism,” “individual,” and “agent” as interchangeable terms. These distinctions clarify different aspects of biological organisation and activity.
 
-(See [[organism-vs-individual-vs-agent]].)
+(See [organism-vs-individual-vs-agent](/articles/organism-individual-agent-distinction/).)
 
 ## Against Overgeneralisation
 
@@ -148,7 +148,7 @@ Biological organisation is always:
 
 This means that biological systems cannot be understood as occupying fixed “levels” in a hierarchy. Their identity depends on how organisation is sustained across interacting scales.
 
-(See [[levels-vs-scale]].)
+(See [Levels vs Scale](/articles/levels-vs-scale-why-biological-organisation-is-not-hierarchical/).)
 
 ## The Biological System Reframed
 
