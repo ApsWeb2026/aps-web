@@ -37,6 +37,8 @@ APS therefore shifts the explanatory focus from statistical change to organisati
 
 Evolution is not fundamentally a change in frequencies, but a transformation in how living systems sustain their organisation across generations.
 
+[[box:gene-centric-vs-aps-grammar]]
+
 ## Evolution as Transformation of Organisation
 
 In APS, evolution is the historical transformation of persistence-sustaining biological organisation.
