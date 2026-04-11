@@ -25,6 +25,8 @@ relatedArticles:
   - biological-causation-from-mechanism-to-organised-persistence
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## The Machine Analogy
 
 From the earliest days of modern science, living systems have been compared to machines.
