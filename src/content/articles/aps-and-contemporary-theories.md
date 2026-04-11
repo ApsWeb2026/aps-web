@@ -132,6 +132,30 @@ APS integrates these perspectives by grounding them in a common condition:
 
 **the ongoing, viability-oriented organisation of living systems**
 
+## Frameworks in This Cluster
+
+The following articles examine major contemporary frameworks in relation to APS. Each captures important aspects of living systems while leaving key organisational conditions implicit.
+
+- **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**  
+  Explains why self-production alone does not account for viability-oriented normativity.
+
+- **[APS and Autonomy Theory](/articles/aps-and-autonomy-theory/)**  
+  Clarifies how APS extends autonomy theory through distinctions between constitution, diagnosis, and evolutionary explanation.
+
+- **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**  
+  Shows why prediction and inference presuppose living systems rather than defining them.
+
+- **[Why Life Is Not Control Theory](/articles/why-life-is-not-control-theory/)**  
+  Demonstrates why regulation and feedback cannot explain the existence of living systems.
+
+- **[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)**  
+  Explains why information has meaning only within viability-oriented organisation.
+
+- **[Why Life Is Not a Machine](/articles/why-life-is-not-a-machine/)**  
+  Clarifies the limits of mechanistic analogies and why life cannot be reduced to machinery.
+
+- **[Why is Life Not DNA'S Way of Making More DNA?](/articles/why-is-life-not-dnas-way-of-making-more-dna/)**
+
 ## Key Point
 
 Contemporary theories of life capture important aspects of biological organisation, but each presupposes a system capable of sustaining itself; APS clarifies this underlying condition and situates these theories within it.
