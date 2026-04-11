@@ -154,7 +154,7 @@ The following articles examine major contemporary frameworks in relation to APS.
 - **[Why Life Is Not a Machine](/articles/why-life-is-not-a-machine/)**  
   Clarifies the limits of mechanistic analogies and why life cannot be reduced to machinery.
 
-- **[Why is Life Not DNA'S Way of Making More DNA?](/articles/why-is-life-not-dnas-way-of-making-more-dna/)**
+- **[Why is Life Not DNA'S Way of Making More DNA?](/articles/why-life-is-not-dnas-way-of-making-more-dna/)**
 
 ## Key Point
 

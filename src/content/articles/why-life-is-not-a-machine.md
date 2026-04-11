@@ -17,7 +17,7 @@ relatedGlossaryTerms:
   - viability
   - function
   - constraint-closure
-  - organisation
+  - biological-organisation
 relatedArticles:
   - aps-and-contemporary-theories
   - why-life-is-not-dnas-way-of-making-more-dna
