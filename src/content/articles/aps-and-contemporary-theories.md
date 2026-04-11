@@ -1,161 +1,110 @@
 ---
-title: APS and Contemporary Theories — Understanding Life in Context
+title: APS and Contemporary Theories — A Conceptual Map of the Field
 slug: aps-and-contemporary-theories
-status: evolving
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
 revised: 2026-04-11
 cluster: conceptual-foundations
-abstract: |
-  APS does not emerge in isolation. It enters an active landscape of contemporary frameworks that seek to explain life, agency, and biological organisation. This cluster situates APS in relation to major approaches such as autopoiesis, autonomy theory, active inference, and control theory, clarifying both continuity and difference.
+abstract: >
+  Contemporary biology includes a diverse set of frameworks that seek to explain life, organisation, cognition, and evolution beyond reductionist models. This article maps these approaches from within the APS framework, showing that they differ not only in their subject matter but in their explanatory grammar. APS does not function as one theory among others but as a framework that clarifies the conditions, scope, and limits of these approaches by grounding biological explanation in viability-oriented, constraint-closed organisation.
+keyPoints:
+  - Contemporary approaches to biology differ in explanatory grammar, not only in subject matter.
+  - Organisation-based theories, systems approaches, enactivism, evolutionary extensions, and formal frameworks each capture important aspects of life.
+  - These approaches often lack a unified grounding in viability-oriented organisation and endogenous normativity.
+  - APS provides a framework for interpreting these theories by clarifying the conditions under which biological explanation is possible.
+  - APS is not one theory among others but a framework that reorganises how these theories are understood.
+relatedGlossaryTerms:
+  - biological-agency
+  - constraint-closure
+  - viability
+  - process
+  - scale
+  - normativity
+  - function
+relatedArticles:
+  - why-aps-is-not-hierarchical
+  - explanatory-priority-is-not-ontological-priority
+  - organism-world-coupling-agency-not-control
+  - aps-and-systems-theory
+  - aps-and-the-free-energy-principle
 ---
 
-## Why This Cluster Matters
+## Contemporary Biology as a Field of Divergent Explanatory Grammars
 
-Any new framework for understanding life must be situated in relation to existing theories.
+Modern biology has moved beyond strictly reductionist accounts of life. In their place, a diverse range of frameworks has emerged, each attempting to account for organisation, regulation, cognition, and evolution in living systems.
 
-Over the past several decades, biology and cognitive science have produced a number of influential approaches that attempt to explain how living systems maintain themselves, regulate their behaviour, and adapt over time. These include autopoiesis, autonomy theory, active inference, and control theory.
+These approaches are often grouped together as “systems” or “post-reductionist” biology. However, this grouping can obscure a more important distinction. These frameworks differ not only in what they study, but in **how they explain**.
 
-Each of these frameworks captures something important about living systems.
+APS approaches this landscape by focusing on explanatory grammar—the underlying structure that determines what counts as a cause, a unit, and an adequate explanation in biology.
 
-Each also leaves something unexplained.
+From this perspective, contemporary theories can be organised into a set of broad but distinct approaches.
 
-This cluster examines those frameworks not to dismiss them, but to clarify what they explain—and what they presuppose.
+## Organisation-Based Theories of Life
 
-## A Shared Shift in Biology
+A first group of approaches defines life in terms of organisational closure and self-maintaining structure. These include autopoiesis, autonomy theory, and related constraint-based frameworks.
 
-Despite their differences, these approaches share a common move.
+These theories emphasise that living systems are not simply collections of parts but organised systems in which processes mutually sustain one another. They represent a major advance over component-centred accounts by identifying organisation as central to biological explanation.
 
-They reject the idea that life can be understood purely in terms of:
-- isolated components  
-- linear causation  
-- externally imposed function  
+APS aligns closely with these approaches but introduces a critical refinement. Organisational closure is necessary for life, but it is not sufficient. Living systems must not only maintain closure but actively regulate the conditions of their own persistence. APS therefore grounds organisation in viability-oriented activity, identifying biological agency as the defining feature of life.
 
-Instead, they emphasise:
-- organisation  
-- regulation  
-- self-maintenance  
-- system-level coherence  
+## Systems and Dynamical Approaches
 
-In this respect, they represent a major shift away from reductionist and gene-centric accounts of biology.
+A second group includes systems theory, dynamical systems theory, and complexity-based approaches. These frameworks model biological systems in terms of interaction, feedback, and dynamic behaviour across scales.
 
-APS stands firmly within this shift.
+They provide powerful tools for describing how biological systems change over time and respond to perturbation. However, they often remain normatively neutral. The system boundaries and variables are frequently defined from the perspective of the observer rather than grounded in the organisation of the system itself.
 
-## Where APS Agrees
+APS incorporates the insights of systems approaches while specifying their biological grounding. In living systems, organisation is not arbitrary but oriented toward maintaining viability. This introduces an endogenous normativity absent from purely dynamical descriptions: biological processes matter because they contribute to or undermine persistence.
 
-APS is not opposed to these frameworks.
+## Cognition–Life Continuity Approaches
 
-It agrees that:
-- living systems are organised rather than merely assembled  
-- biological processes are coordinated and interdependent  
-- normativity arises from within living organisation  
-- explanation must extend beyond isolated mechanisms  
+Enactivist approaches extend cognition into the domain of life itself, emphasising organism–environment coupling, embodiment, and sense-making.
 
-These shared commitments form the foundation of contemporary theoretical biology.
+These frameworks converge with APS in rejecting the separation of cognition from biological organisation. They recognise that meaning and responsiveness arise through the ongoing interaction between organism and environment.
 
-## Where APS Differs
+APS shares this continuity but reverses the explanatory direction. Rather than beginning with cognition and extending downward, APS begins with viability-oriented organisation and shows how cognition emerges as a further elaboration of that organisation. In this way, cognition is not a separate domain but a development within biological agency.
 
-The differences emerge at a deeper level.
+## Evolutionary Extensions
 
-Each framework tends to focus on a particular aspect of living systems:
+The Extended Evolutionary Synthesis and related approaches expand evolutionary theory beyond gene-centric models by incorporating niche construction, developmental processes, and plasticity.
 
-- **Autopoiesis** emphasises self-production  
-- **Autonomy theory** emphasises constraint closure and self-maintenance  
-- **Active inference** emphasises prediction, learning, and adaptive behaviour  
-- **Control theory** emphasises regulation and feedback  
+These frameworks provide important corrections to standard evolutionary accounts by emphasising organism–environment interaction and the role of development in shaping evolutionary trajectories.
 
-These accounts are powerful, but they are **partial**.
+APS is compatible with these extensions but addresses a different level of explanation. Rather than expanding the mechanisms of evolution, APS clarifies the conditions under which evolution is possible. Evolution requires systems capable of sustaining organised persistence. Without viability-oriented organisation, variation, inheritance, and selection cannot operate.
 
-They describe how certain processes operate within living systems, but they do not fully explain the organisational condition that makes those processes possible in the first place.
+## Formal and Information-Theoretic Frameworks
 
-APS begins at that prior condition.
+Formal approaches such as the Free Energy Principle model biological systems using tools from information theory, probability, and statistical inference. These frameworks offer powerful mathematical descriptions of how organisms maintain themselves in uncertain environments.
 
-## The APS Perspective
+APS recognises the value of these formalisms but identifies a key limitation. When biological organisation is expressed primarily in informational terms, there is a risk of abstracting away from the material and organisational conditions that make life possible.
 
-APS characterises living systems as:
+APS grounds biological explanation in constraint-closed, viability-oriented organisation, within which informational descriptions may be applied but do not constitute the underlying reality of biological agency.
 
-**viability-oriented, constraint-closed organisations sustained through ongoing activity across scale**
+## Ontological Reframings: Process Approaches
 
-From this perspective:
+Process-oriented approaches in biology and philosophy reject the idea that organisms are static entities, instead treating them as temporally extended processes.
 
-- self-production is part of maintaining organisation  
-- regulation is part of sustaining viable conditions  
-- inference is one mode of coordinating behaviour  
-- control is one mechanism within broader organisation  
+This shift aligns strongly with APS, which also treats life as ongoing activity rather than fixed structure. However, process approaches often remain ontologically general. They emphasise change and continuity without fully specifying the organisational conditions that distinguish living from non-living processes.
 
-None of these defines life on its own.
+APS provides this specification by identifying life as the organisation of processes that sustain their own persistence through viability-oriented regulation.
 
-Each presupposes a system that already:
-- maintains itself  
-- regulates its own conditions  
-- can succeed or fail in continuing to exist  
+## APS as Explanatory Framework
 
-APS therefore does not replace these frameworks.
+Across these diverse approaches, a common theme emerges: an attempt to move beyond static, component-based explanations toward organisation, interaction, and process.
 
-It situates them.
+APS does not replace these approaches or compete with them as one theory among others. Instead, it clarifies the conditions under which their explanations hold.
 
-## How to Read These Articles
+In APS terms:
 
-Each article in this cluster follows a similar structure:
+- Organisation must be constraint-closed  
+- Activity must be viability-oriented  
+- Normativity must be endogenously grounded in persistence  
+- Agency, process, and scale are co-constitutive dimensions of living systems  
 
-- It explains what the framework captures successfully  
-- It identifies the point at which the framework reaches its limits  
-- It clarifies what must already be true for that framework to apply  
+From this perspective, contemporary theories can be understood as capturing different aspects of biological organisation, but often without a unified grounding.
 
-The goal is not to rank theories, but to locate them within a coherent explanatory structure.
+APS provides that grounding by specifying the explanatory grammar of life itself.
 
-## A Different Kind of Question
+## In Brief
 
-Many debates in biology ask:
-
-- Which mechanism is fundamental?  
-- Which level is primary?  
-- Which theory explains life best?  
-
-APS reframes the question.
-
-Instead of asking which framework is correct, it asks:
-
-**What must be true of a system for any of these explanations to apply at all?**
-
-This shift moves the focus from competing accounts to their shared conditions of possibility.
-
-## What This Reveals
-
-Seen in this way, the frameworks examined here are not rivals but partial perspectives.
-
-They illuminate different aspects of living systems:
-- organisation  
-- regulation  
-- behaviour  
-- adaptation  
-
-APS integrates these perspectives by grounding them in a common condition:
-
-**the ongoing, viability-oriented organisation of living systems**
-
-## Frameworks in This Cluster
-
-The following articles examine major contemporary frameworks in relation to APS. Each captures important aspects of living systems while leaving key organisational conditions implicit.
-
-- **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**  
-  Explains why self-production alone does not account for viability-oriented normativity.
-
-- **[APS and Autonomy Theory](/articles/aps-and-autonomy-theory/)**  
-  Clarifies how APS extends autonomy theory through distinctions between constitution, diagnosis, and evolutionary explanation.
-
-- **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**  
-  Shows why prediction and inference presuppose living systems rather than defining them.
-
-- **[Why Life Is Not Control Theory](/articles/why-life-is-not-control-theory/)**  
-  Demonstrates why regulation and feedback cannot explain the existence of living systems.
-
-- **[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)**  
-  Explains why information has meaning only within viability-oriented organisation.
-
-- **[Why Life Is Not a Machine](/articles/why-life-is-not-a-machine/)**  
-  Clarifies the limits of mechanistic analogies and why life cannot be reduced to machinery.
-
-- **[Why is Life Not DNA'S Way of Making More DNA?](/articles/why-life-is-not-dnas-way-of-making-more-dna/)**
-
-## Key Point
-
-Contemporary theories of life capture important aspects of biological organisation, but each presupposes a system capable of sustaining itself; APS clarifies this underlying condition and situates these theories within it.
+Contemporary biology contains multiple approaches to understanding life, but these differ in how they organise explanation. APS maps this landscape by identifying distinct explanatory grammars and clarifying their scope and limits. Rather than acting as one theory among others, APS provides a framework that grounds and integrates these approaches in viability-oriented, constraint-closed organisation.
