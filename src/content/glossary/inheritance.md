@@ -5,37 +5,27 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-12
-cluster: evolution
+cluster: conceptual-foundations
+relatedGlossaryTerms:
+  - evolution
+  - variation
+  - transformation
+  - persistence
+  - constraint-closure
+  - agency
 ---
 
-## Inheritance
-
 **Definition**  
-The continuity of viability-oriented organisation across generations or developmental cycles. In APS, inheritance is the **processual transmission of constraint-closed organisation** through which the conditions for agency are re-established in successive iterations of life.
+Inheritance is the continuity of organisation, constraint, and information across generations or developmental cycles. In APS, inheritance is the processual transmission of viability-oriented organisation through which the conditions for agency are re-established in successive iterations of life. What is inherited is not merely genetic material or discrete traits, but a viable mode of organisation: metabolic architectures, developmental pathways, regulatory couplings, and ecological relations that enable persistence.
 
 **In Brief**  
-*Inheritance is the continuity of constraint-closed organisation across generations.*
+Inheritance is the continuity of constraint-closed, viability-oriented organisation across generations.
 
-### Conventional framing
-Inheritance is typically understood as the transmission of genetic material or discrete traits from parents to offspring. It is often treated as a mechanism for preserving information across generations, with genes functioning as the primary units of heredity.
+**Conventional framing**  
+Inheritance is often treated as the transmission of genetic information or heritable traits, typically formalised through DNA replication and gene-based mechanisms.
 
-### APS reframing
-APS expands inheritance beyond genetic transmission to encompass the **reproduction of viable organisation as a whole**. What is inherited is not merely DNA or traits, but a **mode of organisation**: metabolic architectures, developmental pathways, regulatory couplings, and organism–environment relations that enable persistence.
+**APS reframing**  
+APS expands inheritance beyond genetic transmission to include the full organisational context required for viability. Genes are one component of inheritance, but they function within broader systems of developmental, physiological, and ecological organisation that must be re-established for life to persist.
 
-Inheritance therefore:
-- re-establishes the conditions for **viability-oriented agency**  
-- transmits **constraint-closed organisational patterns**  
-- extends organised persistence across generational time  
-
-By maintaining the continuity of viable organisation, inheritance provides the **temporal bridge** through which adaptation and transformation become possible.
-
-### Key Point  
-**In APS, inheritance is the process by which viability-oriented organisation is reconstituted across generations, enabling the continuity of life.**
-
-### See also  
-- persistence  
-- transformation  
-- evolution  
-- adaptation  
-- constraint closure  
-- biological agency  
+**Key Point**  
+Inheritance in APS is the transmission of viable organisation, not merely genetic material.
