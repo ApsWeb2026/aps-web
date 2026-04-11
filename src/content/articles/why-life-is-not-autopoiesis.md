@@ -23,6 +23,8 @@ relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## The Autopoiesis Insight
 
 Autopoiesis marked a turning point in theoretical biology by shifting attention from components to organisation. Living systems were no longer defined by what they are made of, but by what they do: continuously produce and maintain themselves as a unity.
