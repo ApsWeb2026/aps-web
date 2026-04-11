@@ -10,7 +10,7 @@ abstract: |
   Gene-centric biology has been one of the most influential frameworks in modern evolutionary theory, but it is often misinterpreted as an account of what drives life itself. This article clarifies the role of genes within the APS framework, showing that genes are indispensable mechanisms of inheritance operating within viability-oriented organisation, not the origin of biological agency or the ultimate basis of evolutionary explanation.
 keyPoints:
   - Gene-centric models successfully describe patterns of inheritance but do not specify the organisational conditions that make inheritance biologically meaningful.
-  - APS reframes the debate by asking what must exist for evolution to occur at all: viability-oriented, constraint-closed organisation.
+  - APS reframes the debate by asking what must exist for evolution to occur at all - viability-oriented, constraint-closed organisation.
   - Genes function within living systems as mechanisms of stabilisation and transmission, not as drivers of life.
   - Biological causation is multiscale and reciprocal; no single component or “level” is in charge.
   - Evolution is the historical transformation of viability-oriented organisation, not simply change in gene frequency.
