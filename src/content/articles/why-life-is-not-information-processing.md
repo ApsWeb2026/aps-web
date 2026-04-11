@@ -25,6 +25,8 @@ relatedArticles:
   - function-how-living-systems-make-persistence-operational
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## The Appeal of Information Processing
 
 Across biology, cognitive science, and artificial intelligence, it is increasingly common to describe living systems as information processors.
