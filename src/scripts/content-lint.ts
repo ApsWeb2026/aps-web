@@ -27,19 +27,22 @@ function parseFrontmatter(content: string): Record<string, unknown> {
   if (!fmMatch) return {};
 
   const fm: Record<string, unknown> = {};
-  const lines = fmMatch[1].split('\n');
+  const lines = fmMatch[1].split(/\r?\n/);
 
   for (const line of lines) {
     const kvMatch = line.match(/^(\w[\w-]*):\s*(.+)/);
     if (kvMatch) {
       let value: unknown = kvMatch[2].trim();
+
       // Remove quotes
       if (typeof value === 'string' && /^["'](.*)["']$/.test(value)) {
         value = (value as string).slice(1, -1);
       }
+
       // Boolean
       if (value === 'true') value = true;
       if (value === 'false') value = false;
+
       fm[kvMatch[1]] = value;
     }
   }
@@ -57,6 +60,7 @@ function getSlugsForSection(section: string): Set<string> {
     const fm = parseFrontmatter(content);
     if (fm.slug) slugs.add(fm.slug as string);
   }
+
   return slugs;
 }
 
@@ -76,9 +80,11 @@ function findBoxEmbeds(content: string): string[] {
   const regex = /\[\[box:([\w-]+)\]\]/g;
   const slugs: string[] = [];
   let match: RegExpExecArray | null;
+
   while ((match = regex.exec(content)) !== null) {
     slugs.push(match[1]);
   }
+
   return slugs;
 }
 
@@ -92,7 +98,7 @@ function parseYamlArray(content: string, fieldName: string): string[] {
   const items: string[] = [];
 
   let foundItem = false;
-  for (const line of rest.split('\n')) {
+  for (const line of rest.split(/\r?\n/)) {
     const itemMatch = line.match(/^\s+-\s*["']?([^"'\n]+)["']?/);
     if (itemMatch) {
       foundItem = true;
@@ -112,8 +118,27 @@ function stripFrontmatter(content: string): string {
   return content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '');
 }
 
+function stripMarkdownLinksAndCode(text: string): string {
+  return text
+    // Remove fenced code blocks
+    .replace(/```[\s\S]*?```/g, '')
+    // Remove inline code
+    .replace(/`[^`]*`/g, '')
+    // Replace inline markdown links [label](target) with just the visible label
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1')
+    // Replace reference-style links [label][ref] with just the visible label
+    .replace(/\[([^\]]+)\]\[[^\]]*\]/g, '$1')
+    // Remove autolinks like <https://...>
+    .replace(/<[^>\s]+>/g, '');
+}
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 function findForbiddenGlossarySlugsInProse(content: string): string[] {
   const body = stripFrontmatter(content);
+  const visibleText = stripMarkdownLinksAndCode(body);
 
   const forbidden = [
     'biological-agency',
@@ -121,8 +146,8 @@ function findForbiddenGlossarySlugsInProse(content: string): string[] {
   ];
 
   return forbidden.filter((term) => {
-    const regex = new RegExp(`\\b${term}\\b`, 'g');
-    return regex.test(body);
+    const regex = new RegExp(`\\b${escapeRegExp(term)}\\b`, 'g');
+    return regex.test(visibleText);
   });
 }
 
@@ -192,7 +217,7 @@ function lintCollection(section: string): LintIssue[] {
       }
     }
 
-     // Check for glossary slugs leaking into article prose (warning — reader-facing text should use natural language)
+    // Check for glossary slugs leaking into visible article prose
     if (section === 'articles') {
       const forbiddenInProse = findForbiddenGlossarySlugsInProse(content);
       for (const term of forbiddenInProse) {
@@ -203,7 +228,7 @@ function lintCollection(section: string): LintIssue[] {
         });
       }
     }
-    
+
     // Check relatedArticles references (warning — content may be added later)
     if (section === 'articles' || section === 'orientation') {
       const related = parseYamlArray(content, 'relatedArticles');
