@@ -24,11 +24,11 @@ relatedGlossaryTerms:
   - process
   - evolution
 relatedArticles:
-  - what-is-life
-  - constraint-closure-what-it-does-and-does-not-do
-  - organism
-  - levels-vs-scale
-  - physiology-and-evolution-in-aps
+   - what-is-life-a-biological-question-revisited
+   - organism-the-unity-of-viability-oriented-organisation
+   - levels-vs-scale-why-biological-organisation-is-not-hierarchical
+   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+   - constraint-closure-what-it-does-and-does-not-do
 ---
 
 ## The Gene-Centric Question
