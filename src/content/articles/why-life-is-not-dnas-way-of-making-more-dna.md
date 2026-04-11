@@ -20,8 +20,8 @@ relatedGlossaryTerms:
   - evolution
 relatedArticles:
   - gene-centric-biology-and-aps
-  - what-is-life
-  - organism
+  - what-is-life-a-biological-question-revisited
+  - organism-the-unity-of-viability-oriented-organisation
   - constraint-closure-what-it-does-and-does-not-do
 ---
 
