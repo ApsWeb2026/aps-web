@@ -97,6 +97,10 @@ In nonliving systems, causation is often described as unidirectional. In living 
 
 Causation propagates across spatial and temporal scales. APS replaces hierarchical descriptions with scale-coupled constraint relations. Biological causation is coordinated and distributed rather than linear.
 
+This shift also clarifies why gene-centric explanations are limited. Identifying genes as causal drivers captures important mechanisms, but it does not account for the distributed, reciprocal organisation through which biological causation is sustained.
+
+[[box:gene-centric-vs-aps-grammar]]
+
 ## Normativity and Causal Asymmetry
 
 Biological causation exhibits a distinctive asymmetry: outcomes matter for the system itself.
@@ -135,8 +139,8 @@ This formulation integrates mechanistic analysis with autonomy theory, reciproca
 
 Clarifying biological causation prevents two errors:
 
-1. reducing life to bottom-up mechanism  
-2. inflating system-level description into vague holism  
+- reducing life to bottom-up mechanism  
+- inflating system-level description into vague holism  
 
 APS maintains that physical processes remain indispensable, but organised persistence introduces additional explanatory structure grounded in viability.
 
