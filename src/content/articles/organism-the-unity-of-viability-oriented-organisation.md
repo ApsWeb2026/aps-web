@@ -78,6 +78,8 @@ The organism is not a level. It is a mode of organisation.
 
 This reframing avoids both reductionism and hierarchical reification. The organism is neither reducible to molecular processes nor simply a component within larger systems. It is a locus of integrated, viability-oriented organisation.
 
+[[box:gene-centric-vs-aps-grammar]]
+
 ## Organisms as Conditions for Evolution
 
 Evolution presupposes organisms. Processes such as variation, inheritance, and selection require systems that persist, reproduce, and can succeed or fail in maintaining their organisation.
