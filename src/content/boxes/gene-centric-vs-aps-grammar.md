@@ -19,7 +19,7 @@ Gene-centric biology and APS do not simply disagree about which biological compo
 The contrast is not between “genes” and “organisms,” but between **component-centred explanation** and **organisation-centred explanation**.
 
 | Gene-Centric Grammar | APS Grammar |
-|---------------------|------------|
+|----------------------|-------------|
 | Evolution = change in gene frequency | Evolution = transformation of viability-oriented organisation |
 | Genes are units of selection | Viability-oriented organisation is what selection operates on |
 | Organisms are vehicles for replicators | Organisms enact constraint-closed agency |
@@ -30,6 +30,7 @@ The contrast is not between “genes” and “organisms,” but between **compo
 Gene-centric models successfully describe patterns of inheritance and evolutionary change. APS does not reject these models. It clarifies their **domain of validity**.
 
 Gene-centric explanations operate within systems that already:
+
 - maintain themselves
 - regulate their own conditions of existence
 - sustain viability across time
@@ -37,6 +38,7 @@ Gene-centric explanations operate within systems that already:
 APS begins at this prior condition.
 
 Within viability-oriented, constraint-closed organisation:
+
 - genes stabilise and transmit structure
 - genetic variation contributes to transformation
 - selection reflects differential persistence of viable organisation
