@@ -14,9 +14,11 @@ seeAlso:
   - organism
 ---
 
-Gene-centric biology and APS do not simply disagree about which biological component matters most. They represent **different explanatory grammars**—different ways of organising what counts as a cause, a unit, and an explanation in biology.
+GAPS Box — Gene-Centric vs APS Explanatory Grammar
 
-The contrast is not between “genes” and “organisms,” but between **component-centred explanation** and **organisation-centred explanation**.
+Gene-centric biology and APS do not simply disagree about which biological component matters most. They represent different explanatory grammars—different ways of organising what counts as a cause, a unit, and an explanation in biology.
+
+The contrast is not between “genes” and “organisms,” but between component-centred explanation and organisation-centred explanation.
 
 | Gene-Centric Grammar | APS Grammar |
 |----------------------|-------------|
@@ -27,7 +29,7 @@ The contrast is not between “genes” and “organisms,” but between **compo
 | Causation is located at a privileged component | Agency, process, and scale are co-constitutive |
 | Genes explain biological order | Organisation makes genetic processes biologically meaningful |
 
-Gene-centric models successfully describe patterns of inheritance and evolutionary change. APS does not reject these models. It clarifies their **domain of validity**.
+Gene-centric models successfully describe patterns of inheritance and evolutionary change. APS does not reject these models. It clarifies their domain of validity.
 
 Gene-centric explanations operate within systems that already:
 
@@ -43,5 +45,4 @@ Within viability-oriented, constraint-closed organisation:
 - genetic variation contributes to transformation
 - selection reflects differential persistence of viable organisation
 
-**Key Point**  
-Gene-centric biology explains how inheritance operates, but APS explains the organisational condition that makes inheritance, variation, and selection biologically meaningful.
+**Key Point.** Gene-centric biology explains how inheritance operates, but APS explains the organisational condition that makes inheritance, variation, and selection biologically meaningful.
