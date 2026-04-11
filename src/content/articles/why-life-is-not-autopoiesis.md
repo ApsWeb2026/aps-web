@@ -21,6 +21,8 @@ relatedArticles:
   - aps-and-contemporary-theories
   - constraint-closure-what-it-does-and-does-not-do
   - organism-the-unity-of-viability-oriented-organisation
+  - aps-and-autonomy-theory
+  - why-life-is-not-control-theory
 ---
 
 (Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
