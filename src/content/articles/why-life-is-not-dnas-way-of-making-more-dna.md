@@ -25,6 +25,8 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## A Familiar Idea — and Its Problem
 
 You may have heard the phrase:
