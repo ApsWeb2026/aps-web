@@ -22,6 +22,8 @@ relatedArticles:
   - why-life-is-not-information-processing
 ---
 
+(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+
 ## The Appeal of Active Inference
 
 Active inference models organisms as systems that minimise prediction error through perception and action.
