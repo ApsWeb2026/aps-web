@@ -3,7 +3,7 @@ title: Why Life Is Not DNA’s Way of Making More DNA
 slug: why-life-is-not-dnas-way-of-making-more-dna
 status: evolving
 revised: 2026-04-11
-cluster: orientation
+cluster: conceptual-foundations
 abstract: |
   The familiar slogan that life is “DNA’s way of making more DNA” captures an important truth about inheritance—but it does not explain what life is. This article clarifies why genes matter without mistaking them for the organising principle of living systems, introducing the APS view that life is viability-oriented organisation sustained through ongoing biological activity.
 keyPoints:
