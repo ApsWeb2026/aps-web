@@ -14,7 +14,7 @@ definition: >
 inBrief: >
   Inheritance is the continuity of constraint-closed, viability-oriented
   organisation across generations.
-relatedGlossaryTerms:
+seeAlso:
   - evolution
   - variation
   - transformation
@@ -23,17 +23,11 @@ relatedGlossaryTerms:
   - agency
 ---
 
-**Definition**  
-Inheritance is the continuity of organisation, constraint, and information across generations or developmental cycles. In APS, inheritance is the processual transmission of viability-oriented organisation through which the conditions for agency are re-established in successive iterations of life. What is inherited is not merely genetic material or discrete traits, but a viable mode of organisation: metabolic architectures, developmental pathways, regulatory couplings, and ecological relations that enable persistence.
-
-**In Brief**  
-Inheritance is the continuity of constraint-closed, viability-oriented organisation across generations.
-
-**Conventional framing**  
+## Conventional framing  
 Inheritance is often treated as the transmission of genetic information or heritable traits, typically formalised through DNA replication and gene-based mechanisms.
 
-**APS reframing**  
+## APS reframing  
 APS expands inheritance beyond genetic transmission to include the full organisational context required for viability. Genes are one component of inheritance, but they function within broader systems of developmental, physiological, and ecological organisation that must be re-established for life to persist.
 
-**Key Point**  
+## Key Point  
 Inheritance in APS is the transmission of viable organisation, not merely genetic material.
