@@ -14,7 +14,7 @@ definition: >
   growth, adaptation, or long-term evolutionary restructuring.
 inBrief: >
   Transformation is the change of viability-oriented organisation over time.
-relatedGlossaryTerms:
+seeAlso:
   - evolution
   - inheritance
   - variation
@@ -22,11 +22,12 @@ relatedGlossaryTerms:
   - adaptation
   - process
 ---
-**Conventional framing**  
+
+##C onventional framing  
 Transformation is often treated either as developmental change within an organism or as evolutionary change across populations, typically considered separately.
 
-**APS reframing**  
+## APS reframing  
 APS integrates developmental and evolutionary transformation as continuous expressions of organisational change. Both involve the modification of constraint-closed systems in ways that affect viability across different temporal scales.
 
-**Key Point**  
+## Key Point 
 Transformation in APS unifies development and evolution as changes in viability-oriented organisation across time.
