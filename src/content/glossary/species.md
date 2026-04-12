@@ -6,6 +6,10 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-12
 cluster: conceptual-foundations
+definition: >
+  A species is a historically continuous pattern of viability-oriented organisation that persists across generations through processes of inheritance, variation, and transformation. In APS, species are not fixed classes or fundamental units but dynamic, evolving lineages of constraint-closed organisation maintaining coherence over time.
+inBrief: >
+  A species is a lineage of persistent, viability-oriented organisation.
 relatedGlossaryTerms:
   - evolution
   - inheritance
@@ -15,12 +19,6 @@ relatedGlossaryTerms:
   - adaptation
   - lineage
 ---
-
-**Definition**  
-A species is a historically continuous pattern of viability-oriented organisation that persists across generations through processes of inheritance, variation, and transformation. In APS, species are not fixed classes or fundamental units but dynamic, evolving lineages of constraint-closed organisation maintaining coherence over time.
-
-**In Brief**  
-A species is a lineage of persistent, viability-oriented organisation.
 
 **Conventional framing**  
 Species are often defined using criteria such as reproductive isolation, morphological similarity, or genetic clustering, leading to multiple competing species concepts.
