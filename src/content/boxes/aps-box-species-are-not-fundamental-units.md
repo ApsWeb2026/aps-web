@@ -1,4 +1,11 @@
-## APS Box — Species Are Not Fundamental Units
+---
+title: APS Box — Species Are Not Fundamental Units
+slug: aps-box-species-are-not-fundamental-units
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-04-12
+---
 
 In standard biology, species are often treated as basic units of classification, evolution, or selection. This can give the impression that species are primary entities in the organisation of life.
 
