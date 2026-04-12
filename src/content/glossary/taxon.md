@@ -14,7 +14,7 @@ definition: >
   organisation persisting and transforming across time and scale.
 inBrief: >
   A taxon is a classification of a persistent pattern of viable organisation.
-relatedGlossaryTerms:
+seeAlso:
   - species
   - biological-individual
   - processual-individual
