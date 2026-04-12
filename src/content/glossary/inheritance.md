@@ -6,6 +6,14 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-12
 cluster: conceptual-foundations
+definition: >
+  Inheritance is the continuity of organisation, constraint, and information
+  across generations or developmental cycles. In APS, inheritance is the
+  processual transmission of viability-oriented organisation through which the
+  conditions for agency are re-established in successive iterations of life.
+inBrief: >
+  Inheritance is the continuity of constraint-closed, viability-oriented
+  organisation across generations.
 relatedGlossaryTerms:
   - evolution
   - variation
