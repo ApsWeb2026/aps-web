@@ -6,6 +6,10 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-12
 cluster: conceptual-foundations
+definition: >
+  Variation is the production of differences in viability-oriented organisation across instances, generations, or developmental trajectories. In APS, variation arises from the ongoing dynamics of biological systems, including developmental processes, environmental interactions, and internal regulatory modulation. It is not limited to random genetic mutation but includes all sources of organised difference that can affect persistence.
+inBrief: >
+  Variation is the generation of differences in viability-oriented organisation.
 relatedGlossaryTerms:
   - evolution
   - inheritance
