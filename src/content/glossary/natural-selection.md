@@ -6,6 +6,10 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-12
 cluster: conceptual-foundations
+definition: >
+  Natural selection is the differential persistence and reproduction of viability-oriented organisation across generations. In APS, selection does not act on isolated traits, genes, or entities in abstraction, but on whole systems capable of sustaining organised persistence. It therefore presupposes the existence of constraint-closed, agential organisation within which variation, inheritance, and differential outcomes can occur.
+inBrief: >
+  Natural selection is the differential persistence of viable organisation.
 relatedGlossaryTerms:
   - evolution
   - inheritance
@@ -15,12 +19,6 @@ relatedGlossaryTerms:
   - agency
   - constraint-closure
 ---
-
-**Definition**  
-Natural selection is the differential persistence and reproduction of viability-oriented organisation across generations. In APS, selection does not act on isolated traits, genes, or entities in abstraction, but on whole systems capable of sustaining organised persistence. It therefore presupposes the existence of constraint-closed, agential organisation within which variation, inheritance, and differential outcomes can occur.
-
-**In Brief**  
-Natural selection is the differential persistence of viable organisation.
 
 **Conventional framing**  
 Natural selection is typically understood as a primary evolutionary mechanism acting on heritable variation, often formalised as changes in gene frequencies within populations.
