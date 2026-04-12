@@ -26,10 +26,10 @@ seeAlso:
   - biological-agency
 ---
 
-## **Conventional framing**
+## Conventional framing
 In standard biology, a taxon is a category (e.g. species, genus, family) used to group organisms based on shared characteristics or common ancestry. Taxa are often treated as discrete units defined by diagnostic traits or by their position within a phylogenetic tree.
 
-## **APS reframing**
+## APS reframing
 APS reinterprets taxa as **processual and organisational realities** rather than static or purely classificatory entities. A taxon corresponds to a **historically extended continuity of constraint-closed organisation**—a lineage not merely of descent, but of **viability-oriented functioning**.
 
 Traits, genes, and phylogenetic relationships remain evidentially important, but they do not define the taxon. Instead, they are **expressions or traces of an underlying organisational continuity** that is maintained through inheritance and modified through transformation.
@@ -41,5 +41,5 @@ From this perspective:
 
 Taxa therefore track the **persistence–inheritance–transformation** structure of evolution, rather than merely grouping organisms by resemblance or ancestry.
 
-## **Key Point**
+## Key Point
 A taxon in APS is not a static category but a **recognised pattern of persistent, viability-oriented organisation across time and scale**.
