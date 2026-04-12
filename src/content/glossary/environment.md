@@ -15,6 +15,8 @@ seeAlso:
   - umwelt
 ---
 
+## Conventional framing
+
 The environment is typically understood as the external surroundings in which an organism exists, comprising physical, chemical, and biological factors that influence its survival and reproduction. It is often treated as a pre-given, independent domain that exerts causal pressures on organisms, with adaptation framed as the organism’s response to these external conditions.
 
 ## APS reframing
