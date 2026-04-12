@@ -6,6 +6,14 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-12
 cluster: conceptual-foundations
+definition: >
+  Transformation is the alteration of viability-oriented organisation across time,
+  encompassing both developmental change within organisms and evolutionary change
+  across generations. In APS, transformation is the process through which living
+  systems modify the organisation that sustains their persistence, whether through
+  growth, adaptation, or long-term evolutionary restructuring.
+inBrief: >
+  Transformation is the change of viability-oriented organisation over time.
 relatedGlossaryTerms:
   - evolution
   - inheritance
@@ -14,13 +22,6 @@ relatedGlossaryTerms:
   - adaptation
   - process
 ---
-
-**Definition**  
-Transformation is the alteration of viability-oriented organisation across time, encompassing both developmental change within organisms and evolutionary change across generations. In APS, transformation is the process through which living systems modify the organisation that sustains their persistence, whether through growth, adaptation, or long-term evolutionary restructuring.
-
-**In Brief**  
-Transformation is the change of viability-oriented organisation over time.
-
 **Conventional framing**  
 Transformation is often treated either as developmental change within an organism or as evolutionary change across populations, typically considered separately.
 
