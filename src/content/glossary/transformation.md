@@ -23,7 +23,7 @@ seeAlso:
   - process
 ---
 
-##C onventional framing  
+## Conventional framing  
 Transformation is often treated either as developmental change within an organism or as evolutionary change across populations, typically considered separately.
 
 ## APS reframing  
