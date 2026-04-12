@@ -15,7 +15,7 @@ definition: >
 inBrief: >
   A biological individual is a constraint-closed system that sustains its own
   viability.
-relatedGlossaryTerms:
+seeAlso:
   - processual-individual
   - organism
   - species
@@ -26,10 +26,10 @@ relatedGlossaryTerms:
   - viability
 ---
 
-## **Conventional framing**
+## Conventional framing
 In standard biology, a biological individual is typically understood as a discrete organism—an entity bounded in space, genetically unified, and functionally integrated. Individuality is often associated with physical separation, reproductive independence, or genetic identity.
 
-## **APS reframing**
+## APS reframing
 APS defines the biological individual in terms of **organisational closure and viability-oriented activity**, rather than structure or boundary. A biological individual is a system that **actively maintains the conditions of its own persistence** through the coordinated interaction of its internal processes.
 
 The defining feature of individuality is **constraint closure**: a network of processes that mutually sustain one another and collectively regulate the system’s viability. This organisation enables the system to act as a coherent unit in relation to its environment.
@@ -43,5 +43,5 @@ This allows individuality to extend beyond single organisms. Cells, multicellula
 
 The concept therefore reframes individuality as a **processual property of organised systems**, grounded in ongoing activity rather than fixed identity.
 
-## **Key Point**
+## Key Point
 A biological individual is a **constraint-closed, viability-oriented system that maintains its own functional coherence across time and scale**.
