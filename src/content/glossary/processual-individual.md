@@ -15,7 +15,7 @@ definition: >
 inBrief: >
   A processual individual is an individual defined by ongoing organisational
   continuity rather than static structure.
-relatedGlossaryTerms:
+seeAlso:
   - biological-individual
   - organism
   - species
@@ -25,10 +25,10 @@ relatedGlossaryTerms:
   - scale
 ---
 
-## **Conventional framing**
+## Conventional framing
 In standard biology and philosophy, individuals are often understood as discrete, bounded entities—organisms or units that can be clearly distinguished from their surroundings and from one another. Individuality is typically associated with physical integrity, genetic identity, or functional independence.
 
-## **APS reframing**
+## APS reframing
 APS reframes individuality as fundamentally **processual rather than structural**. A biological individual is not defined by its boundaries, components, or static properties, but by the **ongoing organisation of processes that sustain its viability**.
 
 The term *processual individual* makes this explicit. It highlights that individuality is:
@@ -42,5 +42,5 @@ This perspective clarifies how individuality can extend across scales. Organisms
 
 The concept therefore complements, rather than replaces, the definition of the biological individual. It specifies **how individuality must be understood** within a process-based ontology.
 
-## **Key Point**
+## Key Point
 A processual individual is an individual whose identity lies in the continuous, viability-oriented organisation of its processes, not in fixed structure or boundaries.
