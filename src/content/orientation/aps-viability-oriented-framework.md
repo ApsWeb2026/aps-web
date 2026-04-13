@@ -26,9 +26,9 @@ APS (Agency–Process–Scale) is a conceptual framework for understanding life 
 
 At its core, APS proposes that biological explanation requires an integrated account of **agency**, **process**, and **scale**. These are not separate levels or causes, but **co-constitutive dimensions** of living systems.
 
-- **[Biological agency](/glossary/biological-agency/)** refers to the viability-oriented activity through which systems regulate and sustain themselves  
-- **[Process](/glossary/process/)** describes the dynamic organisation through which this activity unfolds  
-- **[Scale](/glossary/scale/)** captures the spatial and temporal extent across which organisation is coordinated  
+- **[biological agency](/glossary/biological-agency/)** refers to the viability-oriented activity through which systems regulate and sustain themselves  
+- **[process](/glossary/process/)** describes the dynamic organisation through which this activity unfolds  
+- **[scale](/glossary/scale/)** captures the spatial and temporal extent across which organisation is coordinated  
 
 Together, these dimensions form an **explanatory grammar**: a structured way of identifying what counts as a cause, a unit, and an explanation in biology.
 
@@ -58,7 +58,7 @@ This shift changes what counts as explanation. Rather than asking how components
 
 APS replaces the idea of fixed “levels of organisation” with **multi-scale, processual organisation**. Biological systems are not structured as hierarchies of discrete levels, but as dynamically coupled processes operating across overlapping scales.
 
-Causation in biology is therefore not located at a privileged level. Instead, **agency, process, and scale are co-constitutive**, continuously shaping and constraining one another.
+Causation in biology is therefore not located at a privileged level. Instead, **agency, process, and scale are co-constitutive**, continuously shaping, enabling, and constraining one another.
 
 This allows APS to integrate:
 - molecular processes  
@@ -74,8 +74,8 @@ within a single explanatory framework.
 
 APS distinguishes between the **ongoing maintenance of life** and its **long-term transformation**.
 
-- **[Persistence](/glossary/persistence/)** refers to the present-tense maintenance of viability  
-- Evolution describes the transformation of this organisation across generations  
+- **[persistence](/glossary/persistence/)** refers to the present-tense maintenance of viability  
+- evolution describes the transformation of this organisation across generations  
 
 Natural selection operates only within systems capable of sustaining organised persistence. Evolution is therefore not prior to life, but depends on the existence of viability-oriented organisation.
 
@@ -85,9 +85,9 @@ APS does not replace existing biological theories but provides a framework for i
 
 It also provides a basis for distinguishing living systems from non-living ones, for analysing borderline cases, and for extending biological concepts such as agency, cognition, and function beyond traditional boundaries.
 
-For a concise overview, see **[What Is APS? — A One-Page Framework Overview](/articles/what-is-aps/)**.  
-For a structural account of how the framework is organised, see **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)**.  
-For the definition of life within APS, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+For a concise overview, see **[What Is APS? — A One-Page Framework Overview](/orientation/what-is-aps/)**.  
+For a structural account of the framework, see **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)**.  
+For the definition of life, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## Key Points
 
