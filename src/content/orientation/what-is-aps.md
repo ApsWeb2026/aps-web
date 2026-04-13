@@ -12,6 +12,8 @@ APS is a framework for understanding life as viability-oriented, constraint-clos
 
 This page provides a concise overview of the framework and its core ideas. For a structured explanation of how these ideas fit together, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*. For a more formal account of the framework’s conceptual architecture, see *The Core Structure of APS*.
 
+For a deeper account of how scientific frameworks structure explanation, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
+
 ## Agency
 
 Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to act on its own behalf—to maintain the conditions necessary for its continued existence. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
