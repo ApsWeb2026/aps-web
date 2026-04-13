@@ -31,7 +31,7 @@ relatedGlossaryTerms:
   - constraint-closure
   - biological-agency
 relatedArticles:
-  - species-as-processual-individuality
+  - processual-individual
   - classification-without-essentialism
 ---
 
