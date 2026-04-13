@@ -21,15 +21,13 @@ relatedArticles:
 
 ## What This Article Explains
 
-This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar.
+This page develops the internal organisation of the APS framework. While *[What Is APS?](/orientation/what-is-aps/)* introduces its core ideas, this article shows how those ideas fit together—how agency, process, and scale operate as a unified explanatory grammar.
 
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
-For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
+APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
 
-The Agency–Process–Scale (APS) framework is a structured way of understanding life as viability-oriented, constraint-closed organisation. Rather than treating living systems as passive objects governed by external forces, APS describes them as systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
-
-APS does not replace existing biological theory. It clarifies how different areas of biology—physiology, development, evolution, and cognition—fit together within a single explanatory structure.
+This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
 
 ## The Three Dimensions of APS
 
@@ -51,7 +49,7 @@ Traditional approaches in biology often prioritise one explanatory dimension:
 - information (genes and codes)  
 - selection (evolutionary filtering)  
 
-APS does not reject these approaches, but shows that they presuppose something more fundamental: organised persistence.
+APS does not reject these approaches, but shows that they presuppose something more fundamental: **organised persistence**.
 
 From an APS perspective:
 
@@ -65,27 +63,24 @@ APS therefore reframes biology around the conditions that make these explanation
 
 APS is designed as a guide to understanding, not just a theory to be learned.
 
-You can use it in several ways:
+You can use it to:
 
-- to interpret biological phenomena across domains  
-- to clarify how different explanations relate to one another  
-- to distinguish what is fundamental from what is derived  
+- interpret biological phenomena across domains  
+- clarify how different explanations relate to one another  
+- distinguish what is fundamental from what is derived  
 
-The framework becomes clearer as you move between definitions, articles, and examples. Each part of the site reinforces the others.
-
-The core terms of APS are defined precisely in the **[Glossary](/glossary/)**. These definitions provide the conceptual foundation for all articles on the site.
+The framework becomes clearer as you move between definitions, articles, and examples. The core terms are defined precisely in the **[Glossary](/glossary/)**, which provides the conceptual foundation for the site.
 
 ## Where to Go Next
 
 To deepen your understanding of APS:
 
 - Read **[What Is APS?](/orientation/what-is-aps/)** for a concise overview  
-- Explore the **[Glossary](/glossary/)** for precise definitions of core terms  
-- See **[The Core Structure of APS](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)** for a more formal account  
+- Explore the **[Glossary](/glossary/)** for precise definitions  
+- See **[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)** for a more formal account  
 
 Or continue into key areas of the framework:
 
 - Foundations of biological organisation  
 - Evolution and transformation  
 - Cognition and meaning  
-
