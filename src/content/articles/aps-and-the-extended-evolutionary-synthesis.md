@@ -26,7 +26,7 @@ relatedGlossaryTerms:
   - development
 relatedArticles:
   - aps-and-contemporary-theories
-  - natural-selection-and-organised-persistence
+  - selection-revisited-what-does-selection-actually-act-on
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
 ---
