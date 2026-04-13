@@ -21,11 +21,13 @@ relatedArticles:
 
 ## What This Article Explains
 
-This page develops the internal organisation of the APS framework. While *[What Is APS?](/orientation/what-is-aps/)* introduces its core ideas, this article shows how those ideas fit together—how agency, process, and scale operate as a unified explanatory grammar.
+This article develops the internal structure of the APS framework. While *[What Is APS?](/orientation/what-is-aps/)* introduces its core ideas, this page shows how those ideas fit together—how agency, process, and scale operate as a unified explanatory grammar.
 
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
+
+Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to viability.
 
 This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
 
@@ -37,7 +39,7 @@ APS is organised around three inseparable dimensions:
 - **[Process](/glossary/process/)** — the dynamic organisation through which this activity unfolds  
 - **[Scale](/glossary/scale/)** — the spatial and temporal extent across which these processes operate  
 
-These are not separate “levels” or components. They are co-constitutive aspects of the same organisation. Living systems exist only through their continuous coordination across these dimensions.
+These are not separate “levels,” components, or distinct sources of causation. They are co-constitutive aspects of the same organisation. Living systems exist only through their continuous coordination across these dimensions over time.
 
 [[box:aps-box-hierarchy-vs-scale]]
 
@@ -49,7 +51,7 @@ Traditional approaches in biology often prioritise one explanatory dimension:
 - information (genes and codes)  
 - selection (evolutionary filtering)  
 
-APS does not reject these approaches, but shows that they presuppose something more fundamental: **organised persistence**.
+APS does not reject these approaches, but shows that they presuppose something more fundamental: organised persistence.
 
 From an APS perspective:
 
@@ -59,9 +61,11 @@ From an APS perspective:
 
 APS therefore reframes biology around the conditions that make these explanations possible.
 
+[[box:aps-box-what-aps-does-not-assume]]
+
 ## How to Use This Framework
 
-APS is designed as a guide to understanding, not just a theory to be learned.
+APS is a framework for organising understanding, not just a theory to be learned.
 
 You can use it to:
 
@@ -79,7 +83,7 @@ To deepen your understanding of APS:
 - Explore the **[Glossary](/glossary/)** for precise definitions  
 - See **[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)** for a more formal account  
 
-Or continue into key areas of the framework:
+You can also continue into key areas of the framework:
 
 - Foundations of biological organisation  
 - Evolution and transformation  
