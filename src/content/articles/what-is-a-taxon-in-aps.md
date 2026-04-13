@@ -31,8 +31,7 @@ relatedGlossaryTerms:
   - constraint-closure
   - biological-agency
 relatedArticles:
-  - processual-individual
-  - classification-without-essentialism
+    - classification-without-essentialism
 ---
 
 ## What a taxon is usually taken to be
