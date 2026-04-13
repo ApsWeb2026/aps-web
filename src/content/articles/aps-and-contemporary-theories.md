@@ -44,7 +44,7 @@ APS therefore does not reject these frameworks. It explains:
 - what they capture  
 - and why they remain incomplete  
 
-For the positive account of what life is in APS, see **[What Is Life?](/orientation/what-is-life-a-biological-question-revisited/)**.
+For the positive account of what life is in APS, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Comparative Series
 
@@ -64,7 +64,7 @@ You can read these articles in any order, depending on your interests.
 
 However, for a structured understanding:
 
-- Begin with **[What Is Life?](/orientation/what-is-life-a-biological-question-revisited/)** for the APS account  
+- Begin with **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)** for the APS account  
 - Then explore the articles above to see how this account contrasts with existing frameworks  
 
 Together, they show how APS provides a unified account of life where existing approaches remain partial.
