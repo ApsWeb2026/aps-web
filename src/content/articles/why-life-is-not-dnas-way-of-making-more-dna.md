@@ -45,8 +45,6 @@ APS takes a different view.
 
 Life is not organised for DNA. DNA operates within life.
 
----
-
 ## What the Slogan Gets Right
 
 The slogan persists because it captures several genuine features of biology:
@@ -60,8 +58,6 @@ These are not in dispute.
 Genes matter enormously. Without them, the continuity of life as we know it would not be possible.
 
 But describing what is important is not the same as explaining what something *is*.
-
----
 
 ## What It Leaves Out
 
@@ -78,8 +74,6 @@ DNA does not sustain itself. It does not gather resources, regulate its conditio
 These are not properties of DNA in isolation.
 
 They are properties of living systems.
-
----
 
 ## Life as Viability-Oriented Organisation
 
@@ -102,8 +96,6 @@ Replication is one outcome of this organisation.
 
 It is not the condition that makes the organisation possible.
 
----
-
 ## Why Genes Depend on Life
 
 Once this shift is made, the role of DNA becomes clearer.
@@ -119,8 +111,6 @@ In other words, genes function only within systems that are already alive.
 They do not create those systems.
 
 They operate within them.
-
----
 
 ## Rethinking Evolution
 
@@ -139,8 +129,6 @@ Genes play a central role in all of this.
 
 But they do so as part of a larger system whose organisation makes these processes possible in the first place.
 
----
-
 ## A Simple Analogy
 
 Consider a building.
@@ -150,8 +138,6 @@ Blueprints are essential for constructing and reproducing it. But the stability 
 The blueprint does not keep the building standing.
 
 Similarly, genes contribute to biological organisation, but they do not sustain it. The persistence of a living system depends on the ongoing activity of the system as a whole.
-
----
 
 ## The Shift in Perspective
 
@@ -168,8 +154,6 @@ Living systems sustain themselves through viability-oriented activity. Within th
 DNA replication is one of the things life does.
 
 It is not the reason life exists.
-
----
 
 ## Where This Leads
 
