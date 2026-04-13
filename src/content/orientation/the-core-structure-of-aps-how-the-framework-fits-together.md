@@ -5,7 +5,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
 revised: 2026-04-13
-cluster: foundations-of-the-aps-framework
+cluster: conceptual-foundations
 ---
 
 ## What This Article Provides
