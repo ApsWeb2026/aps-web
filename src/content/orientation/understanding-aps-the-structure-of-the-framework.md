@@ -22,7 +22,7 @@ relatedArticles:
 
 ## What This Article Explains
 
-This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar. 
+This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar. If you are new to the site, you may also find **[How to Read This APS Website](/orientation/how-to-read-this-aps-website/)** helpful.
 
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
