@@ -24,7 +24,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-evolution-in-aps
   - inheritance-and-continuity-in-aps
-  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 ---
 
 ## Selection as a Dependent Process
