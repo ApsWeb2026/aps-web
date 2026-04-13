@@ -25,7 +25,9 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
 ---
 
-(Part of the series: [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/))
+Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+
+This article examines a major framework in biology or cognition and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/orientation/what-is-life-a-biological-question-revisited/)**.
 
 ## A Familiar Idea — and Its Problem
 
