@@ -5,7 +5,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
 revised: 2026-04-13
-cluster: foundations-of-the-aps-framework
+cluster: conceptual-foundations
 abstract: >
   This article explains how the APS framework is structured and how its core concepts fit together. It shows how agency, process, and scale form a unified explanatory grammar for understanding life as viability-oriented, constraint-closed organisation.
 relatedGlossaryTerms:
@@ -16,13 +16,14 @@ relatedGlossaryTerms:
   - constraint-closure
 relatedArticles:
   - what-is-aps
-  - aps-one-page-framework-map
-  - the-core-structure-of-aps
+  - the-core-structure-of-aps-how-the-framework-fits-together
 ---
 
 ## What This Article Explains
 
-This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar. If you are new to the site, you may also find **[How to Read This APS Website](/orientation/how-to-read-this-aps-website/)** helpful.
+This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar.
+
+For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
@@ -80,7 +81,7 @@ To deepen your understanding of APS:
 
 - Read **[What Is APS?](/orientation/what-is-aps/)** for a concise overview  
 - Explore the **[Glossary](/glossary/)** for precise definitions of core terms  
-- See **[The Core Structure of APS](/orientation/the-core-structure-of-aps/)** for a more formal account  
+- See **[The Core Structure of APS](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)** for a more formal account  
 
 Or continue into key areas of the framework:
 
