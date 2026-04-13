@@ -1,11 +1,11 @@
 ---
 title: Process
 slug: process
-definition: "Process in APS is the dynamic organisation through which living systems sustain and transform the constraints that enable continued viability."
+definition: "Process in APS is the dynamic organisation through which living systems sustain and modulate the constraints that enable continued viability."
 inBrief: "Process is the dynamic organisation through which living systems sustain viability across time and scale."
 status: canonical
-cluster: foundations
-revised: 2026-04-08
+cluster: conceptual-foundations
+revised: 2026-04-14
 seeAlso:
   - biological-organisation
   - biological-agency
@@ -26,9 +26,9 @@ APS treats process as constitutive rather than derivative. Living systems are no
 
 Process is the dynamic organisation of constraint-closed activity through which viability is sustained across time and scale. It is inseparable from organisation: constraints shape activity, and activity sustains those constraints.
 
-Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of this organisation. Agency expresses viability-oriented regulation, process enacts that organisation through time, and scale reflects its spatiotemporal coordination.
+Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of this organisation. Agency expresses viability-oriented activity, process enacts that organisation through time, and scale reflects its spatiotemporal coordination.
 
-Process is therefore not an effect of life but the continuous activity through which viability-oriented organisation is enacted.
+Process is therefore not an effect of life, but the continuous activity through which viability-oriented organisation is enacted.
 
 ## Key Point
 
