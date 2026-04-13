@@ -1,3 +1,4 @@
+---
 title: Diagnosis
 slug: diagnosis
 status: canonical
