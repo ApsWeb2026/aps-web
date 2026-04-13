@@ -32,7 +32,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-a-taxon-in-aps
   - what-is-a-species-in-aps
-  - why-biological-boundaries-are-fuzzy
 ---
 
 ## The problem with essentialist classification
