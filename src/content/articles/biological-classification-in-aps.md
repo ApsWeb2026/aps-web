@@ -25,9 +25,9 @@ relatedGlossaryTerms:
   - transformation
 relatedArticles:
   - what-is-a-taxon-in-aps
-  - species
-  - levels-vs-scale
-  - organism-vs-individual-vs-agent
+  - what-is-a-species-in-aps
+  - levels-vs-scale-why-biological-organisation-is-not-hierarchical
+  - organism-individual-agent-distinction
 ---
 
 Biological classification is one of the oldest and most enduring practices in biology. From early natural history to modern systematics, living systems have been organised into categories such as species, genus, and higher taxa. These categories are often treated as if they correspond to discrete units of nature.
