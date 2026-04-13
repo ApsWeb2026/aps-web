@@ -112,3 +112,11 @@ In biology, this has led to persistent debates about whether genes, cells, or or
 Living systems are not defined by a privileged component but by viability-oriented organisation maintained through distributed, interacting processes. Explanation must therefore track this organisation rather than reduce it to a single scale.
 
 APS provides an explicit grammar capable of doing so.
+
+## Where to Go Next
+
+To see how this explanatory grammar is developed within the APS framework:
+
+- Read **[What Is APS?](/orientation/what-is-aps/)** for a concise introduction  
+- See **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)** for how the framework is organised  
+- Explore the **[Glossary](/glossary/)** for precise definitions of core concepts  
