@@ -5,36 +5,49 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 // Fetch canonical publications for optional section
 const allArticles = await getCollection('articles');
 const allGlossary = await getCollection('glossary');
+
 const canonicalItems = [
   ...allArticles.filter((a) => a.data.status === 'canonical'),
   ...allGlossary.filter((g) => g.data.status === 'canonical'),
-].sort((a, b) => b.data.revised.localeCompare(a.data.revised)).slice(0, 3);
+]
+  .sort((a, b) => b.data.revised.localeCompare(a.data.revised))
+  .slice(0, 3);
 ---
 
 <BaseLayout
   title="Home"
-  description="Agency, Process, Scale — a structured knowledge system for the APS Framework."
+  description="Agency, Process, Scale — a structured framework for understanding life as viability-oriented, constraint-closed organisation."
 >
   <div class="content-wrapper">
     <!-- Hero -->
     <section class="hero">
       <h1>Agency &middot; Process &middot; Scale</h1>
+
       <p class="subtitle">
-        A structured knowledge system for the APS Framework &mdash; integrating canonical definitions,
-        conceptual articles, and research streams into a unified account of life as
-        viability-oriented, constraint-closed organisation.
+        A structured framework for understanding life as viability-oriented, constraint-closed
+        organisation.
       </p>
+
+      <p class="hero-guidance">
+        APS brings together concepts from across biology into a unified explanatory system, showing
+        how living systems sustain, regulate, and transform themselves across space and time. Rather
+        than focusing on isolated components or levels, it clarifies the organisation through which
+        life persists and evolves.
+      </p>
+
       <div class="hero-links">
         <a href="/orientation/what-is-aps/" class="btn btn-primary">
           What Is APS? &mdash; A One-Page Overview
         </a>
       </div>
+
       <p class="hero-guidance">
         If you are new to APS, begin here, then continue to
         <a href="/orientation/understanding-aps-the-structure-of-the-framework/">
           Understanding APS &mdash; The Structure of the Framework
         </a>.
       </p>
+
       <p class="hero-explore">
         Explore the framework through:
         <a href="/glossary/">Glossary</a> (core definitions),
@@ -57,6 +70,7 @@ const canonicalItems = [
             A concise overview of the Agency&ndash;Process&ndash;Scale framework.
           </p>
         </li>
+
         <li class="card">
           <div class="card-header">
             <h3 class="card-title">
@@ -70,6 +84,7 @@ const canonicalItems = [
             A guided introduction to how the framework fits together.
           </p>
         </li>
+
         <li class="card">
           <div class="card-header">
             <h3 class="card-title">
@@ -84,22 +99,24 @@ const canonicalItems = [
           </p>
         </li>
       </ul>
+
       <p>
         If you are unsure where to begin, start with <strong>What Is APS?</strong>, then continue to
-        <strong> Understanding APS</strong>.
+        <strong>Understanding APS</strong>.
       </p>
     </section>
 
     <!-- Beyond Common Explanations -->
     <section class="home-section">
       <h2>Understanding Life &mdash; Beyond Common Explanations</h2>
+
       <p>
         Many modern theories explain important aspects of life&mdash;genes, information, control,
         inference, and self-organisation.
       </p>
-      <p>
-        But none of these alone explains what makes a system alive.
-      </p>
+
+      <p>But none of these alone explains what makes a system alive.</p>
+
       <p>
         The APS framework clarifies this by showing that life is not defined by any single mechanism
         or process, but by the organisation that sustains itself through ongoing activity.
@@ -130,7 +147,8 @@ const canonicalItems = [
             <span class="badge badge-type badge-article">Article</span>
           </div>
           <p class="card-excerpt">
-            Why mechanistic description captures important processes without exhausting living organisation.
+            Why mechanistic description captures important processes without exhausting living
+            organisation.
           </p>
         </li>
 
@@ -158,7 +176,8 @@ const canonicalItems = [
             <span class="badge badge-type badge-article">Article</span>
           </div>
           <p class="card-excerpt">
-            Why prediction and inference describe modes of activity within life rather than life itself.
+            Why prediction and inference describe modes of activity within life rather than life
+            itself.
           </p>
         </li>
       </ul>
@@ -167,6 +186,7 @@ const canonicalItems = [
         These articles form part of a broader comparative series situating APS in relation to major
         contemporary frameworks in biology and cognition.
       </p>
+
       <a href="/articles/aps-and-contemporary-theories/" class="btn btn-secondary">
         Explore All Comparisons
       </a>
@@ -186,9 +206,11 @@ const canonicalItems = [
             <span class="badge badge-type badge-orientation">Orientation</span>
           </div>
           <p class="card-excerpt">
-            How the APS framework is organised, how its components relate, and how to navigate the conceptual structure.
+            How the APS framework is organised, how its components relate, and how to navigate the
+            conceptual structure.
           </p>
         </li>
+
         <li class="card">
           <div class="card-header">
             <h3 class="card-title">
@@ -216,40 +238,46 @@ const canonicalItems = [
       <a href="/glossary/" class="btn btn-secondary">Browse the Glossary</a>
     </section>
 
-    <!-- Recent Canonical Publications (optional) -->
-    {
-      canonicalItems.length > 0 && (
-        <section class="home-section">
-          <h2>Recent Canonical Publications</h2>
-          <ul class="card-list">
-            {canonicalItems.map((item) => {
-              const isArticle = 'abstract' in item.data;
-              const type = isArticle ? 'article' : 'glossary';
-              const href = isArticle
-                ? `/articles/${item.data.slug}/`
-                : `/glossary/${item.data.slug}/`;
-              const excerpt = isArticle
-                ? (item.data as any).abstract
-                : (item.data as any).inBrief;
-              return (
-                <li class="card">
-                  <div class="card-header">
-                    <h3 class="card-title">
-                      <a href={href}>{item.data.title}</a>
-                    </h3>
-                    <span class="badge badge-canonical">Canonical</span>
-                    <span class={`badge badge-type badge-${type}`}>
-                      {type.charAt(0).toUpperCase() + type.slice(1)}
-                    </span>
-                  </div>
-                  <p class="card-excerpt">{excerpt}</p>
-                  <div class="card-meta">Revised: {item.data.revised}</div>
-                </li>
-              );
-            })}
-          </ul>
-        </section>
-      )
-    }
+    <!-- Recent Canonical Publications -->
+    {canonicalItems.length > 0 && (
+      <section class="home-section">
+        <h2>Recent Canonical Publications</h2>
+        <ul class="card-list">
+          {canonicalItems.map((entry) => {
+            const isArticle = entry.collection === 'articles';
+            const href = isArticle
+              ? `/articles/${entry.data.slug}/`
+              : `/glossary/${entry.data.slug}/`;
+
+            const excerpt =
+              isArticle && 'abstract' in entry.data && entry.data.abstract
+                ? entry.data.abstract
+                : 'inBrief' in entry.data && entry.data.inBrief
+                  ? entry.data.inBrief
+                  : 'definition' in entry.data && entry.data.definition
+                    ? entry.data.definition
+                    : null;
+
+            return (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={href}>{entry.data.title}</a>
+                  </h3>
+                  <span class="badge badge-status badge-canonical">Canonical</span>
+                  <span class={`badge badge-type ${isArticle ? 'badge-article' : 'badge-glossary'}`}>
+                    {isArticle ? 'Article' : 'Glossary'}
+                  </span>
+                </div>
+
+                {excerpt && <p class="card-excerpt">{excerpt}</p>}
+
+                <div class="card-meta">Revised: {entry.data.revised}</div>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    )}
   </div>
 </BaseLayout>
