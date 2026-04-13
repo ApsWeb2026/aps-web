@@ -8,30 +8,25 @@ revised: 2026-04-13
 cluster: conceptual-foundations
 ---
 
-APS is a framework for understanding life as **viability-oriented, constraint-closed organisation**.
+APS is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**.
 
-This page introduces the core ideas of the framework. For a structured account of how these ideas fit together, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*. For a more formal account of its conceptual architecture, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
+This page provides a concise overview of the core ideas. For a fuller account of how these concepts form a unified explanatory system, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*. For a formal account of the framework’s conceptual architecture, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
 
 For a deeper account of how scientific frameworks organise explanation, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
 ## Agency
 
-Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to act on its own behalf—to maintain the conditions necessary for its continued existence. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
+Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to sustain and regulate the conditions necessary for its continued existence. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
 
 ## Process
 
-APS treats processes as ontologically fundamental. Systems are not entities that undergo processes; they are **[process](/glossary/process/)**—dynamic organisations that give rise to relatively stable structures. This perspective reshapes how we understand persistence, identity, and change.
+APS treats processes as ontologically fundamental. Systems are not entities that merely undergo processes; they are **[process](/glossary/process/)**—dynamic organisations that give rise to relatively stable structures. This perspective reshapes how we understand persistence, identity, and change.
 
 ## Scale
 
-**[Scale](/glossary/scale/)** is a constitutive dimension of both agency and process. What counts as an agent, what counts as stable, and what counts as a process depends on the scale of observation. This is an ontological claim, not merely an epistemic one.
+**[Scale](/glossary/scale/)** is a constitutive dimension of both agency and process. What counts as an agent, what counts as stable, and what counts as a process depends on the scale of organisation. APS treats scale not as a hierarchy of levels, but as a continuous dimension across which processes are coordinated.
 
-## How the Framework Fits Together
-
-This page introduces the core ideas of APS. For a fuller account of how these concepts form a unified explanatory system, see:
-
-- **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)** — how the core concepts are organised  
-- **[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)** — the formal architecture of the framework  
+Together, agency, process, and scale form the core explanatory grammar of APS. They are not independent components, but co-constitutive dimensions through which living systems are organised and understood.
 
 ## How to Use This Site
 
@@ -39,4 +34,4 @@ This platform is organised around thematic clusters that bring together articles
 
 Start with the **[Glossary](/glossary/)** for precise definitions, then explore the articles for extended analysis.
 
-Pages marked **Canonical** represent the stable, core content of the APS framework. Pages marked **Evolving** or **Draft** are works in progress.
+Pages marked **Canonical** represent stable core content. Pages marked **Evolving** or **Draft** indicate ongoing development.
