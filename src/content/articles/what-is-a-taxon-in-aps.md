@@ -33,7 +33,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - species-as-processual-individuality
   - classification-without-essentialism
-  - why-biological-boundaries-are-fuzzy
 ---
 
 ## What a taxon is usually taken to be
