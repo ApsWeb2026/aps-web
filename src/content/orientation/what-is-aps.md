@@ -31,7 +31,7 @@ APS treats processes as ontologically fundamental. Systems are not things that u
 This page introduces the core ideas of APS. For a detailed account of how these concepts form a unified explanatory system, see:
 
 - **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)** — how the core concepts are organised  
-- **The Core Structure of APS** — the formal architecture of the framework  
+- **[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)**  
 
 ## How to Use This Site
 
