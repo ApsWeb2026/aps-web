@@ -23,7 +23,7 @@ relatedGlossaryTerms:
   - constraint-closure
   - biological-agency
 relatedArticles:
-  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - organism-world-coupling-agency-not-control
   - constraint-closure-what-it-does-and-does-not-do
 ---
