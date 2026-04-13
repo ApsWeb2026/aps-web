@@ -5,7 +5,9 @@ status: canonical
 revised: 2026-04-08
 ---
 
-TThe Agency–Process–Scale (APS) framework is a structured approach to understanding living systems, cognition, and complex organisation. It is built on three interlocking concepts:
+APS is a framework for understanding life as viability-oriented, constraint-closed organisation.
+
+This page provides a concise overview of the framework and its core ideas; for a structured explanation of how those ideas fit together, see Understanding APS — The Structure of the Framework.
 
 ## Agency
 
