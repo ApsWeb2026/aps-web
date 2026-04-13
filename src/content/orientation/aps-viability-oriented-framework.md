@@ -22,9 +22,9 @@ relatedArticles:
   - biology
 ---
 
-APS (Agency–Process–Scale) is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**. It does not begin from components such as genes, molecules, or traits, but from the organisation through which living systems sustain their own existence.
+APS (Agency–Process–Scale) is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**. It does not begin from components such as genes, molecules, or traits, but from the organisation through which living systems sustain their own existence over time.
 
-At its core, APS proposes that biological explanation requires an integrated account of **agency**, **process**, and **scale**. These are not separate levels or causes, but **co-constitutive dimensions** of living systems.
+At its core, APS proposes that biological explanation requires an integrated account of **agency**, **process**, and **scale**. These are not separate levels or distinct sources of causation, but co-constitutive dimensions of living systems.
 
 - **[biological agency](/glossary/biological-agency/)** refers to the viability-oriented activity through which systems regulate and sustain themselves  
 - **[process](/glossary/process/)** describes the dynamic organisation through which this activity unfolds  
@@ -38,9 +38,9 @@ Together, these dimensions form an **explanatory grammar**: a structured way of 
 
 In APS, life is not defined by a list of properties or components, but by a specific form of organisation. A system is living if it exhibits **[viability](/glossary/viability/)**—the capacity to sustain the conditions of its own persistence—through internally generated activity.
 
-This requires **[constraint closure](/glossary/constraint-closure/)**: a network of processes in which the constraints that enable activity are themselves maintained by that activity. Such systems do not merely undergo change; they actively regulate and reorganise themselves in response to perturbation.
+This requires **[constraint closure](/glossary/constraint-closure/)**: a network of processes in which the constraints that enable activity are themselves maintained by that activity. Such systems do not merely undergo change; they actively regulate and reorganise themselves in response to perturbation. Because their organisation must be continuously maintained, changes are not neutral but evaluated in relation to viability.
 
-This organisation gives rise to **[normativity](/glossary/normativity/)**. For a living system, some states and changes matter because they affect its continued existence. Normativity is therefore not imposed from outside, but arises from the system’s own viability conditions.
+This organisation gives rise to **[normativity](/glossary/normativity/)**. For a living system, some states and changes matter because they affect its continued existence. Normativity is therefore not imposed from outside or inferred by an observer, but arises from the system’s own viability conditions.
 
 [[box:aps-box-what-aps-does-not-assume]]
 
@@ -60,7 +60,7 @@ APS replaces the idea of fixed “levels of organisation” with **multi-scale, 
 
 Causation in biology is therefore not located at a privileged level. Instead, **agency, process, and scale are co-constitutive**, continuously shaping, enabling, and constraining one another.
 
-This allows APS to integrate:
+This allows APS to integrate within a single explanatory framework:
 - molecular processes  
 - physiological regulation  
 - organism–environment interactions  
@@ -75,7 +75,7 @@ within a single explanatory framework.
 APS distinguishes between the **ongoing maintenance of life** and its **long-term transformation**.
 
 - **[persistence](/glossary/persistence/)** refers to the present-tense maintenance of viability  
-- evolution describes the transformation of this organisation across generations  
+- evolution describes the long-term transformation of this organisation across generations  
 
 Natural selection operates only within systems capable of sustaining organised persistence. Evolution is therefore not prior to life, but depends on the existence of viability-oriented organisation.
 
