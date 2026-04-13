@@ -22,7 +22,9 @@ relatedArticles:
 
 ## What This Article Explains
 
-This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar.
+This article explains how the APS framework is structured and how its core concepts fit together. While *[What Is APS?](/orientation/what-is-aps/)* provides a concise overview, this page develops the internal organisation of the framework—showing how agency, process, and scale operate as a unified explanatory grammar. 
+
+For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
 The Agency–Process–Scale (APS) framework is a structured way of understanding life as viability-oriented, constraint-closed organisation. Rather than treating living systems as passive objects governed by external forces, APS describes them as systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
 
