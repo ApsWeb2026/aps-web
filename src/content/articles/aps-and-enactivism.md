@@ -20,7 +20,6 @@ relatedGlossaryTerms:
   - viability
   - constraint-closure
   - cognition
-  - biological-cognition
   - semiosis
   - coupling
 relatedArticles:
