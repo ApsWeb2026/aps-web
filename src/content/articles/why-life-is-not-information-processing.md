@@ -27,7 +27,7 @@ relatedArticles:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines a major framework in biology or cognition and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/orientation/what-is-life-a-biological-question-revisited/)**.
+This article examines a major framework in biology or cognition and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Information Processing
 
