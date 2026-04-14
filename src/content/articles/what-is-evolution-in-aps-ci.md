@@ -14,7 +14,7 @@ keyPoints:
   - Adaptation is the present-tense reorganisation of constraint-closed systems to maintain viability.
   - Inheritance is the continuity of organisation across generations, not the transmission of privileged components.
   - Natural selection operates only within systems capable of sustaining organised persistence.
-  - Evolution integrates physiology and history - it is the temporal extension of agency across generations.
+  - Evolution integrates physiology and history—it is the temporal extension of agency across generations.
 relatedGlossaryTerms:
   - evolution
   - adaptation
@@ -42,11 +42,13 @@ Evolution presupposes persistence. Without systems capable of maintaining their 
 
 Persistence in APS is not mere survival or continued existence, but the **active maintenance of constraint-closed organisation**. It is the ongoing work through which systems sustain the conditions of their own viability.
 
-This has a critical implication:
+This establishes a fundamental dependency:
 
-Evolution does not generate persistence; rather, **persistence is the condition that makes evolution possible**.
+Evolution does not generate persistence; persistence is the condition that makes evolution possible.
 
 Population-level descriptions, including gene frequencies, implicitly assume the continued existence of organisms capable of reproducing. APS makes this dependency explicit by grounding evolutionary explanation in the organisation of living systems.
+
+It is only within such persistent systems that variation, inheritance, and selection can occur.
 
 ## Adaptation as Present-Tense Reorganisation
 
@@ -56,7 +58,7 @@ Living systems continuously modulate their internal organisation and their coupl
 
 Over time, these present-tense reorganisations accumulate and stabilise, contributing to evolutionary transformation. In this sense:
 
-Adaptation is the **processual bridge** between immediate viability and long-term evolution.
+Adaptation is the processual bridge between immediate viability and long-term evolution.
 
 ## Inheritance as Continuity of Organisation
 
@@ -66,7 +68,7 @@ What persists is not a privileged component, but a **reproducible pattern of org
 
 Genes play an important role within this process, but they do not by themselves constitute inheritance. Instead, inheritance involves the **reconstitution of an organised system** capable of sustaining viability in a particular context.
 
-This reframing aligns inheritance with persistence and adaptation, integrating it into a unified account of evolutionary continuity.
+Inheritance therefore stabilises the variations that arise within persistent systems, enabling them to contribute to long-term transformation.
 
 ## Natural Selection as Dependent Process
 
@@ -74,7 +76,7 @@ Natural selection remains an important concept in APS, but its role is reinterpr
 
 Selection does not create organisation or generate viability. It operates only within populations of systems that are already capable of sustaining themselves. Its function is to **filter variations in organisation based on their consequences for persistence**.
 
-This leads to a central claim:
+This yields a central claim:
 
 Natural selection functions as an evolutionary cause only within systems capable of sustaining organised biological persistence.
 
@@ -96,11 +98,19 @@ This integration dissolves the traditional divide between function and history. 
 Traditional evolutionary explanations often privilege specific components, such as genes, as primary causes. APS instead adopts an organisation-centred explanatory grammar.
 
 In this framework:
+
 - Components derive their biological significance from their role in sustaining organisation.
 - Causation is distributed across interacting processes.
 - Agency, process, and scale are co-constitutive dimensions of living systems.
 
 Evolution is therefore not the outcome of a single causal factor, but the **emergent result of coordinated, multiscale organisation over time**.
+
+## Continue Exploring
+
+- Variation in APS — Where Does Novelty Come From?
+- Inheritance and Continuity in APS
+- Selection Revisited — What Does Selection Actually Act On?
+- Adaptation — How Living Systems Sustain Themselves Through Change
 
 ## Key Point
 
