@@ -16,22 +16,26 @@ relatedGlossaryTerms:
   - persistence
   - normativity
   - constraint-closure
-relatedArticles: []
+relatedArticles:
+  - purpose-the-organisation-of-viability-oriented-activity
+  - normativity-in-biology-why-some-things-matter-to-living-systems
+  - biological-agency-the-activity-of-self-maintenance
+  - biological-goals-without-mentalism
+  - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
+  - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
+  - biological-causation-from-mechanism-to-organised-persistence
+  - constraint-closure-what-it-does-and-does-not-do
 researchStreams: []
 references: []
 ---
 
-## Introduction
+Biological systems are often described in terms of what their parts do—hearts pump blood, leaves capture light, and enzymes catalyse reactions. These descriptions appear straightforward, but they conceal a deeper question: what makes a process or structure count as having a function at all?
 
-Biological systems are often described in terms of what their parts do. Hearts pump blood, leaves capture light, and enzymes catalyse reactions.
-
-These descriptions appear straightforward, but they conceal a deeper question: what makes a process or structure count as having a function at all?
-
-Traditional accounts often appeal to evolutionary history or causal contribution. APS takes a different approach. It grounds function in the present organisation of living systems.
+Traditional accounts often appeal either to causal contribution or to evolutionary history. APS takes a different approach. It grounds function in the present organisation of living systems.
 
 Function is not something assigned from the outside or inherited from the past. It is something enacted within an already organised, self-maintaining system.
 
-Function in APS is the viability-relative organisational role through which persistence is made operational within a constraint-closed system.
+In APS, function is the viability-relative organisational role through which persistence is made operational within a constraint-closed system.
 
 ## Beyond Mechanism and History
 
@@ -71,7 +75,7 @@ Function is inseparable from biological causation.
 
 A process contributes to persistence only insofar as it participates in the viability-oriented modulation of constraints within constraint-closed organisation. What counts as a function is therefore determined by how causal processes are organised relative to the system’s continued viability.
 
-This clarifies why function cannot be reduced to causal effect alone. Causal processes become functional only when they are integrated into a system that sustains its own organisation. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+This clarifies why function cannot be reduced to causal effect alone. Causal processes become functional only when they are integrated into a system that sustains its own organisation.
 
 ## Function and Normativity
 
@@ -107,7 +111,7 @@ Functional equivalence therefore explains how biological systems can change whil
 
 Evolutionary history explains how functional roles are stabilised, conserved, or transformed over time. It accounts for how particular structures come to perform particular roles.
 
-However, evolutionary history does not constitute function itself; it explains how functional roles are established and transformed, but function is realised only through ongoing contribution to persistence.
+However, evolutionary history does not constitute function itself. It explains how functional roles are established and transformed, but function is realised only through ongoing contribution to persistence.
 
 This distinction allows APS to integrate evolutionary explanation without reducing function to historical selection.
 
@@ -137,3 +141,7 @@ Function is not defined by what parts are for in an abstract or historical sense
 In APS, function is the viability-relative role through which organisation is enacted. It makes persistence operational.
 
 Understanding function therefore requires understanding the organisation within which it is realised—a system that is already agentive, constraint-closed, and oriented toward its own persistence.
+
+## Key Point
+
+Function in APS is the operational expression of purpose: the viability-relative role through which living systems sustain their own persistence.
