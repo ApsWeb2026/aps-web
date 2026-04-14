@@ -15,16 +15,26 @@ relatedGlossaryTerms:
   - biological-agency
   - persistence
   - function
-relatedArticles: []
+  - constraint-closure
+  - mattering
+relatedArticles:
+  - purpose-the-organisation-of-viability-oriented-activity
+  - function-how-living-systems-make-persistence-operational
+  - biological-agency-the-activity-of-self-maintenance
+  - biological-goals-without-mentalism
+  - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
+  - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
+  - biological-causation-from-mechanism-to-organised-persistence
+  - constraint-closure-what-it-does-and-does-not-do
 researchStreams: []
 references: []
 ---
 
-Normativity in biology concerns how living systems distinguish between conditions that support their continued existence and those that undermine it. In the APS framework, normativity is intrinsic to viability-oriented organisation and expressed through biological agency—the activity through which living systems sustain their own persistence.
+Normativity in biology concerns how living systems distinguish between conditions that sustain their continued existence and those that undermine it. In the APS framework, normativity is intrinsic to viability-oriented organisation and expressed through biological agency—the activity through which living systems sustain their own persistence.
 
 ## Why Normativity Seems “Unscientific”
 
-Normativity concerns standards—better or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
+Normativity concerns standards: better or worse, success or failure. In human contexts it is associated with rules, values, and moral judgment, and is therefore often treated as incompatible with natural science.
 
 Physics describes what happens, not what should happen. Chemistry explains reactions, not mistakes. Biology, it is often assumed, should do the same.
 
@@ -82,7 +92,7 @@ In APS terms, something matters if it makes a difference to viability.
 
 This “mattering” is objective, causally grounded, and organisation-dependent. It reflects the asymmetry between persistence and collapse.
 
-This normative dimension is inseparable from causation. In living systems, causal processes are not neutral sequences of events; they are organised relative to viability. Outcomes matter because they contribute to or undermine constraint-closed organisation. APS therefore understands biological causation as inherently norm-bearing: the modulation of constraints is always evaluated relative to the system’s continued persistence. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+This normative dimension is inseparable from causation. In living systems, causal processes are not neutral sequences of events; they are organised relative to viability. Outcomes matter because they contribute to or undermine constraint-closed organisation. APS therefore understands biological causation as inherently norm-bearing: the modulation of constraints is always evaluated relative to the system’s continued persistence.
 
 ## Normativity, Agency, and Function
 
@@ -138,4 +148,6 @@ It arises wherever activity is organised around sustaining persistence.
 
 Normativity is not optional. It is the evaluative backbone of biological agency.
 
-See: [Normativity](/glossary/normativity/)
+## Key Point
+
+Normativity in APS is the intrinsic, viability-relative asymmetry through which living systems distinguish what sustains from what undermines their continued existence.
