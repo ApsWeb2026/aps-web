@@ -4,7 +4,7 @@ slug: variation-in-aps-where-does-novelty-come-from
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: |
   In the Agency–Process–Scale (APS) framework, variation is not treated as random deviation from a fixed template, but as the outcome of ongoing reorganisation within viability-oriented, constraint-closed systems. This article explains the sources of biological novelty by integrating development, organism–environment coupling, and multiscale dynamics into a unified account of how new forms of organisation arise.
@@ -22,6 +22,8 @@ relatedGlossaryTerms:
   - constraint-closure
   - adaptation
   - evolution
+  - persistence
+  - inheritance
 relatedArticles:
   - what-is-evolution-in-aps
   - inheritance-and-continuity-in-aps
@@ -39,6 +41,8 @@ Living systems are dynamic processes that continuously maintain and adjust their
 - modify their coupling with the environment  
 
 Novelty, therefore, is not externally introduced but **generated within the ongoing activity of living systems**.
+
+Variation in this sense arises only within systems capable of sustaining organised persistence. These differences become evolutionarily consequential when they are stabilised through inheritance and filtered through their effects on continued viability.
 
 ## Beyond Random Deviation
 
@@ -130,6 +134,13 @@ This shift:
 - explains how variation can be both structured and creative  
 
 Variation is thus not an external input to evolution, but an **intrinsic feature of living organisation in motion**.
+
+## Continue Exploring
+
+- Inheritance and Continuity in APS  
+- Selection Revisited — What Does Selection Actually Act On?  
+- Adaptation — How Living Systems Sustain Themselves Through Change  
+- What Is Evolution in APS?  
 
 ## Key Point
 
