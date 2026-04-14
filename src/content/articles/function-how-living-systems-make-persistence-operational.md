@@ -69,6 +69,8 @@ Function is the operational expression of purpose.
 
 This relationship clarifies why function cannot be understood in isolation. A process is functional only within an organised system whose activity is oriented toward persistence.
 
+[[box:aps-box-purpose-normativity-function]]
+
 ## Function and Causation
 
 Function is inseparable from biological causation.
