@@ -4,7 +4,7 @@ slug: inheritance-and-continuity-in-aps
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: |
   In the Agency–Process–Scale (APS) framework, inheritance is not the transmission of privileged components such as genes, but the continuity of viability-oriented organisation across generations. This article clarifies what persists in evolution by reframing inheritance as the reconstitution of constraint-closed systems, integrating development, environment, and organisation into a unified account of biological continuity.
@@ -21,8 +21,12 @@ relatedGlossaryTerms:
   - development
   - constraint-closure
   - biological-agency
+  - variation
+  - evolution
 relatedArticles:
   - what-is-evolution-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - selection-revisited-what-does-selection-actually-act-on
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - organism-world-coupling-agency-not-control
 ---
@@ -34,6 +38,8 @@ In APS, inheritance is defined as the **continuity of viability-oriented organis
 What persists through evolution is not a gene, a structure, or a code in isolation, but a **pattern of organisation** capable of sustaining viability. This pattern includes processes, constraints, and relations that together enable a system to maintain itself in a changing environment.
 
 Inheritance, therefore, is not a thing that is passed on, but a **process through which organisation is re-established**.
+
+Inheritance stabilises the variations that arise within persistent systems, enabling them to contribute to evolutionary transformation rather than remaining transient fluctuations.
 
 ## Beyond Component Transmission
 
@@ -97,10 +103,12 @@ Inheritance provides the continuity that makes evolution possible. Without the r
 In APS:
 - Persistence establishes the existence of systems  
 - Inheritance maintains their continuity  
+- Variation introduces differences  
 - Adaptation reorganises their activity  
-- Evolution describes their long-term transformation  
+- Selection filters outcomes  
+- Evolution describes long-term transformation  
 
-Inheritance is thus the **link between persistence and evolution**. It ensures that what is transformed over time is not arbitrary, but grounded in a continuous lineage of viable organisation.
+Inheritance is thus the **link between variation and evolution**. It ensures that what is transformed over time is not arbitrary, but grounded in a continuous lineage of viable organisation.
 
 ## From Information to Organisation
 
@@ -112,6 +120,13 @@ Information, in this context, is not an independent causal entity. It is a way o
 - made reliable across generations  
 
 By focusing on organisation, APS avoids treating information as a substance or code that exists apart from the systems that enact it.
+
+## Continue Exploring
+
+- Selection Revisited — What Does Selection Actually Act On?  
+- Adaptation — How Living Systems Sustain Themselves Through Change  
+- Variation in APS — Where Does Novelty Come From?  
+- What Is Evolution in APS?  
 
 ## Key Point
 
