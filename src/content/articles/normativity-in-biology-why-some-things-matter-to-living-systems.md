@@ -82,6 +82,8 @@ This creates an intrinsic evaluative structure:
 
 No mental states or moral values are required. Normativity arises because continued existence is non-trivial for the system.
 
+[[box:aps-box-purpose-normativity-function]]
+
 ## Mattering as Viability-Asymmetry
 
 In APS terms, something matters if it makes a difference to viability.
