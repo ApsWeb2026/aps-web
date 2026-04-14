@@ -4,7 +4,7 @@ slug: selection-revisited-what-does-selection-actually-act-on
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: |
   In the Agency–Process–Scale (APS) framework, natural selection is not a primary generative force but a dependent process that operates within systems capable of sustaining organised biological persistence. This article clarifies what selection acts on by reframing it as the differential filtering of viability-oriented organisation, rather than the selection of privileged components such as genes.
@@ -21,8 +21,12 @@ relatedGlossaryTerms:
   - persistence
   - biological-agency
   - constraint-closure
+  - variation
+  - inheritance
+  - natural-selection
 relatedArticles:
   - what-is-evolution-in-aps
+  - variation-in-aps-where-does-novelty-come-from
   - inheritance-and-continuity-in-aps
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 ---
@@ -37,13 +41,15 @@ This leads to a fundamental reframing:
 
 Natural selection functions as an evolutionary cause only within systems capable of sustaining organised biological persistence.
 
-Selection is therefore **dependent on the prior existence of viable, constraint-closed organisation**.
+Selection therefore presupposes the prior existence of viable, constraint-closed organisation. Without persistence, there is nothing for selection to act upon.
 
 ## What Selection Actually Acts On
 
 If selection depends on organised persistence, then what does it act upon?
 
-In APS, selection acts on **differences in the capacity of systems to sustain viability-oriented organisation**. These differences are expressed in how systems:
+In APS, selection acts on **differences in the capacity of systems to sustain viability-oriented organisation**. These differences arise through variation and are stabilised through inheritance before being filtered by their consequences for continued viability.
+
+These differences are expressed in how systems:
 - maintain internal coherence  
 - regulate their interactions with the environment  
 - reproduce viable organisation across generations  
@@ -58,12 +64,15 @@ Selection is best understood as a **filtering process**. It does not generate va
 
 This distinction is crucial:
 - Variation introduces differences  
+- Inheritance stabilises those differences  
 - Organisation determines whether those differences are viable  
 - Selection filters the outcomes  
 
 Without viable organisation, there is nothing for selection to filter. Selection cannot act on systems that do not persist long enough to be compared across generations.
 
 ## The Limits of Gene-Centric Interpretation
+
+[[box:gene-centric-vs-aps-grammar]]
 
 Gene-centric models often treat genes as the primary units of selection. APS does not deny the importance of genes, but it rejects their elevation to privileged causal status.
 
@@ -95,7 +104,8 @@ Selection is therefore inherently **multiscale**, operating on the outcomes of i
 
 Within the APS account of evolution:
 - Persistence establishes the existence of systems  
-- Inheritance maintains continuity  
+- Variation introduces differences  
+- Inheritance stabilises continuity  
 - Adaptation reorganises activity in the present  
 - Selection filters the consequences of variation  
 - Evolution describes the long-term transformation of organisation  
@@ -114,6 +124,13 @@ Selection explains **which forms of organisation persist and proliferate**, but 
 These require an account of biological agency, constraint closure, and processual organisation.
 
 Selection remains indispensable, but only when situated within a broader explanatory grammar that recognises the primacy of viability-oriented organisation.
+
+## Continue Exploring
+
+- Adaptation — How Living Systems Sustain Themselves Through Change  
+- Inheritance and Continuity in APS  
+- Variation in APS — Where Does Novelty Come From?  
+- What Is Evolution in APS?  
 
 ## Key Point
 
