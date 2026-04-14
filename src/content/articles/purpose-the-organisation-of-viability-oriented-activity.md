@@ -38,6 +38,8 @@ APS rejects both approaches. Purpose is neither intention nor illusion. It is a 
 
 In APS, purpose names the inherent orientation of viability-oriented, constraint-closed biological organisation. It refers to the way a living system's activity is organised such that some states and trajectories sustain persistence while others undermine it.
 
+[[box:aps-box-purpose-normativity-function]]
+
 This orientation is not directed toward a represented future state. It is enacted in the present through the biological organisation of activity within a constraint-closed, agential system.
 
 To say that a system is purposive is to say that:
