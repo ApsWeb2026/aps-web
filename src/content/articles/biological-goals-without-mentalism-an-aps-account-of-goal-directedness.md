@@ -16,7 +16,12 @@ relatedGlossaryTerms:
   - Normativity
   - Function
   - Purpose
-relatedArticles: []
+relatedArticles:
+  - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
+  - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
+  - biological-agency-without-intentions
+  - purpose-the-organisation-of-viability-oriented-activity
+  - cognition-from-life-to-mind-continuity-without-mentalism
 researchStreams: []
 references: []
 ---
