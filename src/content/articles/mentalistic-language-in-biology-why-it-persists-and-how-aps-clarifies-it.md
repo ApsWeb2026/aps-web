@@ -13,7 +13,14 @@ relatedGlossaryTerms:
   - biological-agency
   - normativity
   - cognition
-relatedArticles: []
+  - purpose
+  - function
+relatedArticles:
+  - biological-goals-without-mentalism
+  - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
+  - biological-agency-without-intentions
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - purpose-the-organisation-of-viability-oriented-activity
 researchStreams: []
 references: []
 ---
