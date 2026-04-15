@@ -4,14 +4,16 @@ slug: biological-individual
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-12
+revised: 2026-04-15
 cluster: conceptual-foundations
 definition: >
-  A biological individual is a system that maintains functional coherence
-  through sustained, self-generated regulation of its own viability conditions.
-  In APS, individuality is defined not by physical boundaries or genetic
-  identity but by constraint closure—the integrated organisation of processes
-  that enables persistence as a cohesive agent across time and scale.
+  A biological individual is a system that maintains its own functional coherence
+  through sustained, self-generated regulation of its viability conditions. In
+  APS, individuality is defined not by physical boundaries or genetic identity
+  but by constraint closure—the integrated organisation of processes that
+  enables persistence as a cohesive agent across time and scale. A biological
+  individual is not a classificatory unit but an organisational reality that
+  exists independently of how it is described or classified.
 inBrief: >
   A biological individual is a constraint-closed system that sustains its own
   viability.
@@ -41,7 +43,7 @@ From this perspective:
 
 This allows individuality to extend beyond single organisms. Cells, multicellular organisms, symbiotic systems, and even ecological collectives can qualify as biological individuals when they exhibit sustained, constraint-closed organisation that regulates their own viability.
 
-The concept therefore reframes individuality as a **processual property of organised systems**, grounded in ongoing activity rather than fixed identity.
+The concept therefore reframes individuality as a **dynamically maintained organisational property grounded in ongoing viability-oriented activity**, rather than a fixed structural identity.
 
 ## Key Point
-A biological individual is a **constraint-closed, viability-oriented system that maintains its own functional coherence across time and scale**.
+A biological individual is a **constraint-closed, viability-oriented system that maintains its own functional coherence through ongoing self-regulating organisation across time and scale**.
