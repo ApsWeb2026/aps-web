@@ -23,7 +23,7 @@ relatedGlossaryTerms:
   - processual-individual
   - biological-individual
   - persistence
-  - organisation
+  - biological-organisation
   - biological-agency
   - constraint-closure
   - scale
