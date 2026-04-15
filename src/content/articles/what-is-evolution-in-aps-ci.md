@@ -105,6 +105,8 @@ In this framework:
 
 Evolution is therefore not the outcome of a single causal factor, but the **emergent result of coordinated, multiscale organisation over time**.
 
+[[box:structure-of-evolutionary-explanation]]
+
 ## Continue Exploring
 
 - Variation in APS — Where Does Novelty Come From?
