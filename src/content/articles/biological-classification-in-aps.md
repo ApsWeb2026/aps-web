@@ -4,7 +4,7 @@ slug: biological-classification-in-aps
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-12
+revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: |
   Biological classification traditionally organises life into discrete categories such as species, genus, and higher taxa. In APS, classification is reinterpreted as a way of describing patterns of viability-oriented organisation across scale and time. This article clarifies how taxa function as analytical stabilisations of continuous, processual biological organisation rather than fixed natural kinds.
@@ -34,6 +34,8 @@ Biological classification is one of the oldest and most enduring practices in bi
 
 In APS, classification is not rejected but reinterpreted. It is understood as a way of describing patterns of viability-oriented organisation across time and scale, rather than as a system of fixed natural divisions.
 
+[[box:what-biological-classification-tracks-in-aps]]
+
 ### Classification as Stabilised Description
 
 Traditional classification suggests that biological reality is divided into distinct groups. However, biological organisation is continuous, dynamic, and historically evolving.
@@ -53,6 +55,14 @@ Organisms, species, and higher taxa are not separate “levels” of reality but
 - Across longer evolutionary durations, it appears as broader organisational patterns (higher taxa).
 
 These are not different kinds of things but different expressions of the same underlying process.
+
+### Individuation and Classification
+
+What is classified in biology are not abstract categories but **organised, viable systems**.
+
+In APS, biological individuals are units of viability-oriented organisation, and processual individuals are those units understood as continuous through time via ongoing self-maintenance.
+
+Classification therefore depends on individuation. Species and taxa do not define what counts as an individual; they organise patterns among already individuated systems.
 
 ### Taxa as Analytical Constructs
 
