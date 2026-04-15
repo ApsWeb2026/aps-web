@@ -8,19 +8,20 @@ revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: >
   APS reinterprets the taxon not as a static classificatory unit but as a
-  historically extended pattern of viability-oriented, constraint-closed
-  organisation. This article explains how classification tracks organised
-  persistence, why taxa are processual rather than essentialist entities, and
-  how this reframing integrates evolution, individuality, and multi-scale
-  organisation.
+  classificatory designation applied to historically extended patterns of
+  viability-oriented, constraint-closed organisation. This article explains how
+  classification tracks organised persistence, why taxa are not essentialist
+  groupings, and how this reframing integrates evolution, individuality, and
+  multi-scale organisation.
 keyPoints:
-  - A taxon in APS is a historically continuous pattern of viability-oriented organisation.
+  - A taxon in APS is a classificatory designation applied to historically continuous patterns of viability-oriented organisation.
   - Classification tracks organised persistence rather than trait similarity alone.
-  - Taxa are processual, not static, and are defined by organisational continuity.
+  - Taxa are not static entities but classifications of evolving organisational patterns.
   - Boundaries between taxa are often graded due to multi-scale biological processes.
   - Taxa track patterns across processual individuals rather than constituting individuals themselves.
 relatedGlossaryTerms:
   - taxon
+  - classification
   - species
   - biological-individual
   - processual-individual
@@ -42,11 +43,11 @@ This approach is operationally powerful, but it encourages a view of taxa as **s
 
 [[box:what-biological-classification-tracks-in-aps]]
 
-## The APS shift: from groups to processes
+## The APS shift: from groups to process tracking
 
-APS reframes the taxon at a more fundamental level. A taxon is not primarily a group of organisms, but a **recognised pattern within the organisation of life itself**.
+APS reframes the taxon at a more fundamental level. A taxon is not primarily a group of organisms, but a **classification that designates a pattern within the organisation of life itself**.
 
-More precisely, a taxon corresponds to a **historically extended continuity of viability-oriented, constraint-closed organisation**. What persists through time is not a set of traits, nor merely a lineage of descent, but a **mode of functioning**—a way in which living systems sustain and reproduce their own viability.
+More precisely, a taxon designates a **historically extended continuity of viability-oriented, constraint-closed organisation**. What persists through time is not a set of traits, nor merely a lineage of descent, but a **mode of functioning**—a way in which living systems sustain and reproduce their own viability.
 
 From this perspective, classification does not carve nature at fixed joints. It **tracks the persistence and transformation of organised biological processes**.
 
@@ -59,13 +60,13 @@ Traits, genetic similarities, and phylogenetic relationships remain indispensabl
 - Genes are **components within organised systems**
 - Phylogenies trace **historical continuity**, but do not by themselves capture functional coherence
 
-A taxon is therefore not reducible to any one of these. It is the **organisational continuity** that these lines of evidence collectively indicate.
+A taxon is therefore not reducible to any one of these. It is the **organisational continuity** that these lines of evidence collectively indicate, and that classification seeks to designate.
 
-## Taxa as patterns of organised persistence
+## Taxa as classifications of organised persistence
 
 In APS, classification is best understood as the identification of **relatively stable regions within the continuous transformation of life**.
 
-A taxon marks a domain in which:
+A taxon designates a domain in which:
 - Organisational patterns are **reliably reproduced**
 - Functional integration is **maintained across generations**
 - Viability-oriented activity is **sustained within a shared organisational regime**
@@ -75,7 +76,7 @@ This aligns taxonomy directly with the evolutionary triad:
 - **Inheritance** — the transmission of that organisation  
 - **Transformation** — its modification over time  
 
-Taxa are where these processes stabilise sufficiently to be recognisable.
+Taxa are where these processes stabilise sufficiently to be recognisable and named.
 
 ## Taxa and processual individuality
 
@@ -107,4 +108,4 @@ Different classificatory schemes may emphasise different aspects of this continu
 
 ## Key Point
 
-APS reframes the taxon as a **recognised pattern of viability-oriented, constraint-closed organisation that persists and transforms across time and scale**, rather than as a static group defined by traits or ancestry alone.
+APS reframes the taxon as a **classificatory designation of a pattern of viability-oriented, constraint-closed organisation that persists and transforms across time and scale**, rather than as a static group defined by traits or ancestry alone.
