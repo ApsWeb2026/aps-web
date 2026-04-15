@@ -8,17 +8,19 @@ revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: >
   In APS, species are not fixed categories or fundamental biological units but
-  historically extended patterns of viability-oriented organisation. This article
-  reframes species as evolving lineages of organised persistence, integrating
-  inheritance, variation, and transformation within a processual account of life.
+  historically extended lineage-patterns of viability-oriented organisation.
+  This article reframes species as evolving continuities of organised persistence,
+  integrating inheritance, variation, and transformation within a processual
+  account of life.
 keyPoints:
   - Species are not fixed categories but historically continuous patterns of organised persistence.
   - Species identity is grounded in viability-oriented organisation, not static traits or definitions.
   - Boundaries between species are context-dependent and reflect ongoing transformation.
   - Species are outcomes of inheritance, variation, and transformation across time.
-  - APS treats species as dynamic lineages rather than fundamental biological units.
+  - APS treats species as dynamic lineage-patterns rather than fundamental biological units.
 relatedGlossaryTerms:
   - species
+  - classification
   - evolution
   - inheritance
   - variation
@@ -42,13 +44,15 @@ APS approaches this problem by asking a more basic question: what must exist for
 
 ## Species as patterns of organised persistence
 
+[[box:what-biological-classification-tracks-in-aps]]
+
 In APS, the primary reality of biology is viability-oriented, constraint-closed organisation. Living systems persist through the continuous maintenance of their own conditions of existence, and evolution describes the transformation of that organised persistence across time.
 
 Within this framework, species are understood as historically stabilised patterns in the continuity of such organisation. They do not generate persistence; rather, they are how persistence appears when tracked across populations and generations.
 
-A species is therefore not an entity but a recognisable continuity in the organisation of living systems over time.
+A species is therefore not an entity but a **historically extended lineage-pattern of viability-oriented organisation**.
 
-[[box:what-biological-classification-tracks-in-aps]]
+Species are thus biologically real lineage-patterns that classification seeks to identify and stabilise.
 
 ## Species are not fundamental units
 
@@ -92,4 +96,4 @@ Species remain indispensable for description and communication, but their explan
 
 ## Key Point
 
-In APS, species are scale-relative patterns of organised persistence across time—not fundamental units of life, agency, or evolution.
+In APS, species are **real, scale-relative lineage-patterns of organised persistence across time**, not fundamental units of life, agency, or evolution.
