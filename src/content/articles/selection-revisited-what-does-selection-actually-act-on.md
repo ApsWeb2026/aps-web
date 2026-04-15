@@ -70,6 +70,8 @@ This distinction is crucial:
 
 Without viable organisation, there is nothing for selection to filter. Selection cannot act on systems that do not persist long enough to be compared across generations.
 
+[[box:structure-of-evolutionary-explanation]]
+
 ## The Limits of Gene-Centric Interpretation
 
 [[box:gene-centric-vs-aps-grammar]]
