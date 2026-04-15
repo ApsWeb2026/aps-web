@@ -4,7 +4,7 @@ slug: what-is-a-species-in-aps
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-12
+revised: 2026-04-15
 cluster: conceptual-foundations
 abstract: >
   In APS, species are not fixed categories or fundamental biological units but
@@ -24,6 +24,8 @@ relatedGlossaryTerms:
   - variation
   - transformation
   - persistence
+  - biological-individual
+  - processual-individual
 relatedArticles:
   - what-is-evolution-in-aps
   - variation-in-aps-where-does-novelty-come-from
@@ -46,9 +48,13 @@ Within this framework, species are understood as historically stabilised pattern
 
 A species is therefore not an entity but a recognisable continuity in the organisation of living systems over time.
 
+[[box:what-biological-classification-tracks-in-aps]]
+
 ## Species are not fundamental units
 
 Because species arise from underlying processes, APS does not treat them as units of agency, bearers of biological individuality, or primary targets of natural selection.
+
+In APS, biological individuals are units of viability-oriented organisation, and processual individuals are those units understood as continuous through time via ongoing self-maintenance. Species are not individuals in this sense, but patterns across such individuals extended through evolutionary time.
 
 Agency belongs to organised systems capable of sustaining their own viability. Selection operates within and across such systems by differentially filtering variation in relation to persistence. Species, by contrast, are retrospective groupings of these systems across time.
 
