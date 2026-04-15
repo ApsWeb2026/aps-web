@@ -20,7 +20,6 @@ keyPoints:
   - Processual individuality grounds persistence across change without requiring fixed boundaries.
   - Processual individuals are distinct from species and taxa, which track patterns across such individuals.
 relatedGlossaryTerms:
-  - processual-individual
   - biological-individual
   - persistence
   - biological-organisation
