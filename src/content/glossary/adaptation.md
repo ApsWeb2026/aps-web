@@ -1,11 +1,11 @@
 ---
 title: Adaptation
 slug: adaptation
-definition: "Adaptation is the reorganisation of viability-oriented, constraint-closed organisation through which living systems sustain their persistence under changing conditions."
-inBrief: "Adaptation is the reorganisation of living organisation that sustains viability under changing conditions."
+definition: "Adaptation is the ongoing reorganisation of viability-oriented, constraint-closed organisation through which living systems sustain their persistence under changing conditions."
+inBrief: "Adaptation is the ongoing reorganisation of living organisation that sustains viability under changing conditions."
 status: canonical
-cluster: foundations
-revised: 2026-04-08
+cluster: conceptual-foundations
+revised: 2026-04-15
 seeAlso:
   - persistence
   - evolution
@@ -27,4 +27,4 @@ Adaptive processes are inherently homeorhetic: viability is maintained not as a 
 
 ## Key Point
 
-Adaptation is the temporal extension of agency—the reorganisation of constraint-closed organisation that sustains persistence as conditions change.
+Adaptation is the temporal extension of agency—the ongoing reorganisation of constraint-closed organisation that sustains persistence as conditions change.
