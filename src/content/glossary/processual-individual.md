@@ -4,13 +4,13 @@ slug: processual-individual
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-12
+revised: 2026-04-15
 cluster: conceptual-foundations
 definition: >
   A processual individual is a biological individual understood as a dynamically
   sustained, temporally extended organisation whose identity lies in the
   continuity of its viability-oriented processes rather than in static structure
-  or fixed boundaries. In APS, individuality is constituted by ongoing
+  or fixed boundaries. In APS, individuality is realised through ongoing
   constraint-closed organisation and its persistence across time and scale.
 inBrief: >
   A processual individual is an individual defined by ongoing organisational
@@ -38,9 +38,9 @@ The term *processual individual* makes this explicit. It highlights that individ
 
 What persists is not a fixed entity, but a **pattern of constraint-closed, viability-oriented activity** that continuously reconstitutes itself.
 
-This perspective clarifies how individuality can extend across scales. Organisms, species, and in some cases higher taxa can each be understood as processual individuals when they exhibit sustained organisational continuity. Their identity lies in the **persistence of organisation**, even as their components, traits, and boundaries change.
+This perspective applies to biological individuals across scales (e.g. cells, organisms, and integrated collectives), but does not extend to classificatory entities such as taxa.
 
-The concept therefore complements, rather than replaces, the definition of the biological individual. It specifies **how individuality must be understood** within a process-based ontology.
+The concept therefore complements, rather than replaces, the definition of the biological individual. It specifies **how individuality must be understood** within a process-based ontology, rather than introducing a distinct class of entity.
 
 ## Key Point
-A processual individual is an individual whose identity lies in the continuous, viability-oriented organisation of its processes, not in fixed structure or boundaries.
+A processual individual is a **biological individual understood as a continuously maintained, viability-oriented organisation**, whose identity lies in ongoing process rather than fixed structure or boundaries.
