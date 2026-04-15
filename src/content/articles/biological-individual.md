@@ -24,7 +24,7 @@ relatedGlossaryTerms:
   - constraint-closure
   - processual-individual
   - persistence
-  - organisation
+  - biological-organisation
   - scale
 relatedArticles:
   - biological-classification-in-aps
