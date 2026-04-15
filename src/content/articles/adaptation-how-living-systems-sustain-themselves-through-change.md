@@ -111,11 +111,15 @@ It is therefore not a change imposed on the system, but a reorganisation enacted
 
 Adaptation and evolution are closely related but distinct.
 
+## Adaptation and Evolution
+
+Adaptation and evolution are closely related but distinct.
+
 Adaptation is a present-tense process: the ongoing reorganisation of living systems as they maintain their viability. Evolution is a long-term process: the transformation of such biological organisation across generations.
 
 Through inheritance, adaptive reorganisations can persist across generations, becoming the material of evolutionary change.
 
-Adaptation therefore provides the ongoing activity through which variation becomes viable and inheritance becomes meaningful.
+Adaptation therefore provides the ongoing activity through which variation is rendered viable and inheritance is stabilised as continuity.
 
 ## The Temporal Structure of Adaptation
 
