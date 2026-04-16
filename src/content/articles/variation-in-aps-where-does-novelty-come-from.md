@@ -35,6 +35,8 @@ relatedArticles:
 
 In APS, variation is understood as the **reorganisation of viability-oriented, constraint-closed systems**. It is not a departure from a fixed blueprint, but an intrinsic feature of living organisation.
 
+Because evolution in APS is the transformation of such organisation over time, variation arises as the ongoing production of differences within systems that sustain organised persistence.
+
 Living systems are dynamic processes that continuously maintain and adjust their internal organisation. Variation arises within this activity as systems:
 - respond to changing conditions  
 - reorganise internal processes  
