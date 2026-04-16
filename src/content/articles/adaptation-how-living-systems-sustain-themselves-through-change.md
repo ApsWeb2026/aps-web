@@ -37,7 +37,7 @@ Living systems exist in changing conditions.
 
 Temperatures fluctuate, resources vary, environments shift, and internal states are continually perturbed. Despite this, living systems persist. They do not simply endure change—they reorganise in ways that allow them to continue.
 
-This capacity is described as adaptation.
+This capacity is described as adaptation. Because evolution in APS is the transformation of viability-oriented organisation across generations, adaptation provides the ongoing reorganisation through which such organisation is maintained in the present.
 
 In the APS framework, adaptation is not a property that organisms possess, nor merely the outcome of evolutionary history. It is an ongoing activity through which living systems maintain their viability as conditions change.
 
@@ -106,10 +106,6 @@ Living systems maintain networks of mutually sustaining constraints. Under chang
 Adaptation consists in reshaping these constraint relations while preserving the biological organisation they sustain.
 
 It is therefore not a change imposed on the system, but a reorganisation enacted by the system itself.
-
-## Adaptation and Evolution
-
-Adaptation and evolution are closely related but distinct.
 
 ## Adaptation and Evolution
 
