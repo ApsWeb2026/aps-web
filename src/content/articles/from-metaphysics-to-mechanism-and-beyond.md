@@ -1,5 +1,5 @@
 ---
-title: From Metaphysics to Mechanism—and Beyond: The Progressive Naturalisation of Science and the Place of APS
+title: From Metaphysics to Mechanism—and Beyond - The Progressive Naturalisation of Science and the Place of APS
 slug: from-metaphysics-to-mechanism-and-beyond
 status: canonical
 canonical: true
