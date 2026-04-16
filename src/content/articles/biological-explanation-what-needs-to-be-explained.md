@@ -4,7 +4,7 @@ slug: "biological-explanation-what-needs-to-be-explained"
 abstract: "This article clarifies what makes explanation distinctively biological by arguing that biological inquiry must account not only for how systems behave, but for the viability-oriented biological organisation that makes living systems the kind of systems they are."
 status: "canonical"
 cluster: "conceptual-foundations"
-revised: "2026-04-03"
+revised: "2026-04-16"
 ---
 
 ## What Does Biology Explain?
@@ -16,8 +16,6 @@ Standard answers point to mechanisms, components, or processes. Biology explains
 Yet they often proceed without specifying what makes their subject matter distinctively biological. They describe how systems behave, but not what makes those systems living.
 
 The central question is therefore not only how biological systems work, but what kind of biological organisation must be in place for such explanations to be meaningful.
-
----
 
 ## Mechanism and Its Limits
 
@@ -33,8 +31,6 @@ Living systems differ in a crucial respect. Their biological organisation is suc
 
 Mechanistic description captures how processes unfold. It does not, by itself, explain why those processes are organised in a way that sustains the system as a living whole.
 
----
-
 ## From Description to Explanation
 
 This distinction reveals a deeper issue.
@@ -45,8 +41,6 @@ In biology, description often precedes explanation. We identify structures, trac
 
 A fully biological explanation must therefore do more than specify mechanisms. It must account for the biological organisation that makes those mechanisms part of a living system.
 
----
-
 ## Viability-Oriented Organisation as the Explanatory Target
 
 The APS framework clarifies this target.
@@ -55,29 +49,25 @@ Living systems are organised around maintaining their own viability. Their proce
 
 This biological organisation is constraint-closed: the processes of the system contribute to maintaining the constraints that enable those very processes to occur.
 
-Biological explanation must therefore account for this form of biological organisation. It must explain how a system's activity contributes to its own persistence, and how this contribution is maintained under changing conditions.
+Biological explanation must therefore account for this form of biological organisation. It must explain how a system’s activity contributes to its own persistence, and how this contribution is maintained under changing conditions.
 
 Without this, explanations remain partial. They describe what happens, but not what makes those processes biologically meaningful.
-
----
 
 ## Agency and Normativity in Explanation
 
 Once viability-oriented biological organisation is recognised, further features of biological systems become intelligible.
 
-Living systems exhibit biological biological agency: their activity is organised around sustaining themselves. This introduces a form of normativity.
+Living systems exhibit biological agency: their activity is organised around sustaining themselves. This introduces a form of normativity.
 
 Some states support persistence; others undermine it. This distinction is not imposed from outside but arises within the biological organisation of the system itself.
 
 As a result, biological explanations routinely invoke notions such as function, regulation, success, failure, and malfunction. These are not metaphorical. They reflect real features of systems whose activity is oriented toward continued viability.
 
-To explain a biological process is therefore to explain how it contributesÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âsuccessfully or unsuccessfullyÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âto the persistence of the system.
-
----
+To explain a biological process is therefore to explain how it contributes—successfully or unsuccessfully—to the persistence of the system.
 
 ## Process and Scale in Biological Explanation
 
-Biological biological organisation is inherently processual and multi-scale.
+Biological organisation is inherently processual and multi-scale.
 
 Processes occur across a wide range of temporal and spatial scales: molecular reactions, cellular regulation, organismal development, and evolutionary change. These processes are not independent. They are coupled in ways that allow the system to persist despite continual change.
 
@@ -86,8 +76,6 @@ Explanation must therefore track not only individual mechanisms, but the coordin
 Short-term regulation and long-term evolution are not separate domains. They are different temporal expressions of the same viability-oriented biological organisation.
 
 APS provides a framework in which these relations can be understood as aspects of a single explanatory structure.
-
----
 
 ## Beyond Gene-Centric and Trait-Based Accounts
 
@@ -100,8 +88,6 @@ In contrast, APS emphasises that genes, traits, and populations are components o
 Natural selection, for example, explains changes in populations over time. But it presupposes systems capable of maintaining organised persistence across generations.
 
 Biological explanation must therefore include the conditions that make such processes possible, not only the processes themselves.
-
----
 
 ## Explanatory Adequacy in Biology
 
@@ -117,8 +103,6 @@ Explanations that omit these features may still be useful, but they remain incom
 
 APS does not replace existing explanatory approaches. It clarifies the conditions under which those approaches become fully biological.
 
----
-
 ## Why This Matters
 
 Clarifying the target of biological explanation has practical and conceptual consequences.
@@ -127,7 +111,7 @@ It explains why concepts such as function and regulation are indispensable. It g
 
 Most importantly, it makes explicit the organisational conditions that biological explanations already rely on when they succeed.
 
----
+To specify what biological explanation must explain, however, is only the first step. Once viability-oriented, constraint-closed organisation is identified as the explanatory target, a further question arises: how must explanation be structured to account for it? This question is addressed in *The Structure of Biological Explanation in APS*, which develops the explanatory grammar required to integrate agency, process, scale, and temporal dynamics within a unified framework.
 
 ## Conclusion
 
@@ -135,4 +119,4 @@ Biology does not simply describe complex systems. It explains systems that susta
 
 The APS framework identifies viability-oriented, constraint-closed biological organisation as the defining feature of such systems. Biological explanation is therefore the explanation of how this biological organisation is established, maintained, and transformed.
 
-By clarifying what needs to be explained, APS provides a unified explanatory grammar for understanding life.
+By clarifying what needs to be explained, APS establishes the target of biological explanation and prepares the ground for specifying the structure required to explain it.
