@@ -7,18 +7,18 @@ canonicalLockDate: 2026-04-16
 revised: 2026-04-16
 cluster: conceptual-foundations
 abstract: >
-  The Agency–Process–Scale (APS) framework does not replace the core concepts of biology but reorganises them within a unified explanatory grammar grounded in viability-oriented organisation. This article presents a systematic comparison between conventional biological formulations and their APS reformulations, showing how APS reframes life, causation, agency, function, evolution, and related concepts as expressions of constraint-closed, self-maintaining organisation.
+  The Agency–Process–Scale (APS) framework does not replace the core concepts of biology but reorganises them within a unified explanatory grammar grounded in viability-oriented organisation. This article presents a systematic comparison between conventional biological formulations and their APS reformulations, showing how APS reframes life, causation, organisation, agency, function, evolution, and related concepts as expressions of constraint-closed, self-maintaining organisation.
 relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
+  - constraint-closure
   - function
   - purpose
   - normativity
   - persistence
   - evolution
-  - adaptation
-  - constraint-closure
+  - levels-of-organisation
 relatedArticles:
   - aps-viability-oriented-framework
   - from-metaphysics-to-mechanism-and-beyond
@@ -42,6 +42,7 @@ The following table summarises how APS reframes key biological concepts:
 |------------------|--------------------|------------------|--------------------------|
 | **Life** | Trait lists or chemical criteria | Constraint-closed organisation sustaining viability | Life becomes operationally diagnosable |
 | **Causation** | Linear, component-level | Reciprocal and recursive across scales | Restores multi-scale biological causation |
+| **Organisation (Hierarchy)** | Discrete levels of organisation | Scale-coupled, processual organisation | Replaces hierarchy with continuous, interacting scales |
 | **Agency** | Anthropomorphic or cognitive | Intrinsic capacity to sustain persistence | Agency becomes defining, not optional |
 | **Teleology / Purpose** | External or metaphorical | Bioteleology: immanent viability-orientation | Naturalises purposiveness |
 | **Cognition** | Neural or representational | Viability evaluation (sense–value–action) | Extends cognition beyond neurons |
@@ -69,6 +70,10 @@ From an APS perspective:
 - components matter **because of their role in sustaining viability**  
 - causation is distributed across interacting processes  
 - explanation concerns how systems maintain themselves, not merely how parts interact  
+
+APS also replaces the traditional idea of hierarchical “levels of organisation” with a processual account of scale. Biological systems are not structured as discrete, stacked levels, but as dynamically coupled processes operating across overlapping spatial and temporal scales.
+
+What appear as levels—molecular, cellular, organismal, ecological—are better understood as regions of relative coherence within a continuous, multi-scale organisation. Causation therefore does not flow from lower to higher levels or vice versa, but emerges through reciprocal interactions across scales.
 
 This shift allows biological explanation to capture the integrated, dynamic character of living systems.
 
@@ -118,6 +123,8 @@ To explain a living system, on this view, is to model how its organisation:
 - actively sustains the conditions of its own continued existence  
 - adapts to changing circumstances  
 - coordinates processes across scale and time  
+
+This includes a shift from hierarchical to scale-coupled explanation: biological organisation is understood not as a stack of levels, but as an integrated, multi-scale process in which causation and coordination propagate across domains.
 
 This grammar unifies domains that are often treated separately:
 - physiology and evolution  
