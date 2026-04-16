@@ -23,7 +23,7 @@ Forms diversify, structures transform, and new organisational patterns arise ove
 
 In many accounts, evolution is treated as a statistical process: change in gene frequencies within populations. While this framework provides powerful tools, it does not fully explain what is changing or why such change is biologically meaningful.
 
-APS approaches evolution differently. It begins not with genes or populations, but with living systems as organised, self-maintaining processes.
+APS approaches evolution differently. It begins not with genes or populations, but with living systems as organised, self-maintaining processes. Evolution does not give rise to these systems; it operates only where such organisation already exists.
 
 Evolution in APS is the historical transformation of viability-oriented, constraint-closed biological organisation across generations.
 
