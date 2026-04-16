@@ -35,6 +35,8 @@ relatedArticles:
 
 In APS, inheritance is defined as the **continuity of viability-oriented organisation across generations**. It is not the transfer of a privileged substance or informational unit, but the **reproducible reconstitution of a living system**.
 
+Because evolution in APS is the transformation of such organisation over time, inheritance provides the continuity through which this transformation can accumulate across generations.
+
 What persists through evolution is not a gene, a structure, or a code in isolation, but a **pattern of organisation** capable of sustaining viability. This pattern includes processes, constraints, and relations that together enable a system to maintain itself in a changing environment.
 
 Inheritance, therefore, is not a thing that is passed on, but a **process through which organisation is re-established**.
