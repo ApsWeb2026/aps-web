@@ -1,5 +1,5 @@
 ---
-title: History as Organised Persistence: What APS Clarifies About Historical Explanation
+title: History as Organised Persistence - What APS Clarifies About Historical Explanation
 slug: history-as-organised-persistence
 status: canonical
 canonical: true
