@@ -35,6 +35,8 @@ relatedArticles:
 
 Natural selection is often presented as the central explanatory principle of evolution. In APS, its importance is retained, but its role is clarified.
 
+Because evolution in APS is understood as the transformation of viability-oriented organisation, selection can only operate within systems that already sustain such organisation.
+
 Selection does not create organisation, generate viability, or explain the existence of living systems. It operates only **within populations of systems that are already capable of sustaining themselves**.
 
 This leads to a fundamental reframing:
