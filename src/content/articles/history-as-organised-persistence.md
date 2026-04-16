@@ -15,7 +15,7 @@ relatedGlossaryTerms:
   - process
   - scale
   - multi-scale-causation
-  - organisation
+  - biological-organisation
 relatedArticles:
   - from-metaphysics-to-mechanism-and-beyond
   - reframing-biology-how-aps-reorganises-core-concepts
