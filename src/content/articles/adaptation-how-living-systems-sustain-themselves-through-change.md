@@ -4,7 +4,7 @@ slug: adaptation-how-living-systems-sustain-themselves-through-change
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-15
+revised: 2026-04-16
 cluster: conceptual-foundations
 abstract: |
   In the Agency–Process–Scale (APS) framework, adaptation is the present-tense reorganisation of viability-oriented, constraint-closed organisation through which living systems sustain themselves under changing conditions. This article clarifies adaptation as an expression of biological agency and as the process linking immediate regulation with long-term evolutionary transformation.
@@ -24,11 +24,14 @@ relatedGlossaryTerms:
   - normativity
   - persistence
   - evolution
+  - process
+  - scale
 relatedArticles:
   - what-is-evolution-in-aps
   - variation-in-aps-where-does-novelty-come-from
   - inheritance-and-continuity-in-aps
   - selection-revisited-what-does-selection-actually-act-on
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 ---
 
 ## Introduction
@@ -37,11 +40,15 @@ Living systems exist in changing conditions.
 
 Temperatures fluctuate, resources vary, environments shift, and internal states are continually perturbed. Despite this, living systems persist. They do not simply endure change—they reorganise in ways that allow them to continue.
 
-This capacity is described as adaptation. Because evolution in APS is the transformation of viability-oriented organisation across generations, adaptation provides the ongoing reorganisation through which such organisation is maintained in the present.
+This capacity is described as adaptation.
+
+Because evolution in APS is the transformation of viability-oriented organisation across generations, adaptation provides the ongoing reorganisation through which such organisation is maintained in the present.
+
+In this sense, adaptation links physiology and evolution: it is the process through which present-tense regulation is extended across time into evolutionary transformation.
 
 In the APS framework, adaptation is not a property that organisms possess, nor merely the outcome of evolutionary history. It is an ongoing activity through which living systems maintain their viability as conditions change.
 
-Adaptation in APS is the present-tense reorganisation of viability-oriented, constraint-closed biological organisation through which living systems maintain their viability as conditions change.
+Adaptation in APS is the present-tense reorganisation of viability-oriented, constraint-closed organisation through which living systems maintain viability as conditions change.
 
 ## Beyond Traits and Selection
 
@@ -57,7 +64,7 @@ APS therefore defines adaptation in present-tense terms.
 
 ## Adaptation as Ongoing Reorganisation
 
-In APS, adaptation is the present-tense reorganisation of viability-oriented, constraint-closed biological organisation.
+In APS, adaptation is the present-tense reorganisation of viability-oriented, constraint-closed organisation.
 
 Living systems do not passively maintain their structure. They continuously reshape their own constraints—regulatory, metabolic, developmental, and ecological—in response to changing conditions.
 
@@ -74,6 +81,8 @@ Agency describes the immediate regulation of conditions that sustain viability. 
 Through adaptive activity, living systems do not merely respond to change—they reorganise the conditions under which they can continue to respond effectively.
 
 Adaptation therefore connects moment-to-moment regulation with longer-term patterns of persistence.
+
+In this sense, adaptation is the process through which agency becomes evolutionarily consequential.
 
 ## Adaptation and Function
 
@@ -117,9 +126,11 @@ Through inheritance, adaptive reorganisations can persist across generations, be
 
 Adaptation therefore provides the ongoing activity through which variation is rendered viable and inheritance is stabilised as continuity.
 
+Evolution is thus not independent of adaptation: it is the historical accumulation of adaptive reorganisation.
+
 ## The Temporal Structure of Adaptation
 
-APS situates adaptation within a temporal framework:
+APS situates adaptation within a unified temporal structure linking physiology and evolution:
 
 - **Persistence** — immediate viability  
 - **Adaptation** — reorganisation across changing conditions  
@@ -140,13 +151,14 @@ Clarifying adaptation helps resolve several key issues in biology:
 
 By grounding adaptation in viability-oriented biological organisation, APS provides a unified account of how living systems persist through change.
 
-## Continue Exploring
+## Conclusion
 
-- Selection Revisited — What Does Selection Actually Act On?  
-- Inheritance and Continuity in APS  
-- Variation in APS — Where Does Novelty Come From?  
-- What Is Evolution in APS?  
+Adaptation is not an optional feature of living systems. It is the ongoing reorganisation through which viability is sustained under changing conditions.
+
+Within the APS framework, adaptation links physiology and evolution. It connects present-tense regulation with long-term transformation, allowing persistence and change to be understood within a single explanatory system.
+
+Biological explanation, in this view, concerns the integrated processes through which living systems maintain and transform their organisation across time.
 
 ## Key Point
 
-Adaptation in APS is the present-tense reorganisation of viability-oriented, constraint-closed organisation—the temporal extension of biological agency through which living systems sustain themselves under changing conditions.
+Adaptation in APS is the present-tense reorganisation of viability-oriented, constraint-closed organisation—the temporal extension of biological agency through which living systems sustain themselves and generate the conditions for evolutionary transformation.
