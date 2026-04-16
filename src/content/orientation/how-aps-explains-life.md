@@ -5,7 +5,6 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
 revised: 2026-04-16
-cluster: orientation
 abstract: >
   This page provides a simple entry into the APS framework by identifying two key articles that together explain how APS understands life and biological explanation.
 ---
