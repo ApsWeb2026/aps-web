@@ -3,7 +3,7 @@ title: "Environment, Coupling, and Agency — Why Organisms and Surroundings Co-
 slug: environment-coupling-and-biological-agency
 abstract: "This article explains how the APS framework reconceives the relationship between organisms and their environments. Rather than treating the environment as an external backdrop, APS understands it as a relational domain co-constituted through ongoing coupling with viability-oriented biological organisation."
 status: canonical
-revised: 2026-04-08
+revised: 2026-04-16
 cluster: conceptual-foundations
 keyPoints:
   - The environment is not an external container but a relational domain defined through organism–environment coupling.
@@ -32,6 +32,8 @@ The Agency–Process–Scale (APS) framework reframes this relationship by rejec
 
 This interaction is not incidental. It is constitutive of life itself.
 
+In APS, this coupling is not an additional feature of biological systems but the condition under which physiological regulation and adaptive reorganisation occur. The persistence and transformation of biological organisation therefore depend on the continuous interaction between systems and their environments.
+
 ## Environment as a Relational Domain
 
 In APS, the environment is not defined as everything outside an organism, but as the subset of conditions that are functionally integrated into its viability-oriented organisation.
@@ -39,6 +41,8 @@ In APS, the environment is not defined as everything outside an organism, but as
 This shift from externality to relational relevance is critical. Many physical and chemical features may surround a system, but only those that enter into its constraint-closed processes become part of its effective environment.
 
 This dissolves the sharp boundary between organism and environment. Instead of two independently defined domains, APS identifies a dynamically structured relation in which environmental features acquire biological significance only through their participation in ongoing organisational activity.
+
+The environment, in this sense, is not given in advance but enacted through the ongoing activity of the system.
 
 ## Coupling as Co-Constitution
 
@@ -50,6 +54,8 @@ This is not a one-way causal relation. The organism does not simply respond to a
 
 The environment is therefore continuously reconfigured as coupling unfolds.
 
+Coupling therefore provides the processual basis through which viability-oriented organisation is sustained across changing conditions.
+
 ## Agency as Viability-Oriented Regulation
 
 Within this coupled system, biological agency is the activity through which the organism regulates the conditions required for its own persistence.
@@ -60,6 +66,8 @@ Through this activity, organisms do not merely endure environmental conditions; 
 
 In each case, the system modifies its own conditions of existence by reorganising its relations with its surroundings.
 
+In this way, agency operates through coupling: the regulation of viability is always the regulation of system–environment relations.
+
 ## Implications for Biological Explanation
 
 Reframing environment, coupling, and biological agency as co-constitutive has important consequences for biological explanation.
@@ -68,7 +76,9 @@ It shifts emphasis away from external selection pressures acting on passive enti
 
 This does not eliminate the role of selection or environmental constraint, but situates them within a broader organisational context. Environmental conditions matter because they are taken up into viability-oriented organisation, and selection operates on systems that already maintain this organisation through their own activity.
 
-More broadly, this perspective clarifies why biological systems cannot be understood solely in terms of their components or their surroundings taken independently. Explanation must instead attend to the relational processes through which organisation is maintained across time.
+Adaptation, in this context, is the reorganisation of these coupled relations. Living systems maintain viability not by adjusting internal states alone, but by reshaping the structure of their interaction with their environments.
+
+More broadly, this perspective clarifies why biological systems cannot be understood solely in terms of their components or their surroundings taken independently. Explanation must instead attend to the relational processes through which organisation is maintained and transformed across time through system–environment coupling.
 
 ## Key Point
 
