@@ -17,6 +17,10 @@ Yet they often proceed without specifying what makes their subject matter distin
 
 The central question is therefore not only how biological systems work, but what kind of biological organisation must be in place for such explanations to be meaningful.
 
+For a guided entry into how APS develops biological explanation, see:
+
+→ [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
+
 ## Mechanism and Its Limits
 
 Much of modern biology is organised around mechanistic explanation.
