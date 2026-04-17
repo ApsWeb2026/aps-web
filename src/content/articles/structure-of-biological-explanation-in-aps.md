@@ -43,6 +43,10 @@ This article develops the second stage. It specifies the structure of explanatio
 
 If biological systems are organised around sustaining their own viability, then explanation must be organised accordingly.
 
+This article forms part of a two-step account of biological explanation in APS. For the full entry sequence, see:
+
+→ [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
+
 ## From Target to Structure
 
 Identifying viability-oriented organisation as the target of explanation establishes the conditions that explanation must satisfy.
