@@ -40,6 +40,10 @@ Yet both address the same underlying question:
 
 From an APS perspective, physiology and evolution are not separate domains but **different temporal perspectives on the same viability-oriented biological organisation**.
 
+This article develops the application of the APS explanatory framework. For a structured introduction to that framework, see:
+
+→ [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
+
 ## The Apparent Divide
 
 Physiological explanations focus on mechanisms operating within individual organisms. They describe how processes are coordinated to maintain stability and function.
