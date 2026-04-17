@@ -14,6 +14,10 @@ This page provides a concise overview of the core ideas. For a fuller account of
 
 For a deeper account of how scientific frameworks organise explanation, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
+To see how APS develops this framework into a structured account of biological explanation, follow:
+
+→ [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
+
 ## Agency
 
 Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to sustain and regulate the conditions necessary for its continued existence. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
