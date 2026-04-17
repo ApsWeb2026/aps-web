@@ -144,7 +144,7 @@ APS is not a collection of independent concepts. It is a **constraint-closed con
 
 This interdependence mirrors the organisation of the systems APS describes.
 
-In this sense, APS does not merely describe biological organisation—it **exemplifies it at the level of explanation**.
+In this sense, APS does not merely describe biological organisation — it **exemplifies it in the way it explains.**.
 
 ## Conclusion
 
