@@ -88,3 +88,7 @@ You can also continue into key areas of the framework:
 - Foundations of biological organisation  
 - Evolution and transformation  
 - Cognition and meaning  
+
+For the clearest entry into how APS explains biological systems, follow:
+
+→ [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
