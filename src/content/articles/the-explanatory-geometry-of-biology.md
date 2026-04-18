@@ -1,5 +1,5 @@
 ---
-title: The Explanatory Geometry of Biology — How APS Organises Biological Explanation
+title: "The Explanatory Geometry of Biology — How APS Organises Biological Explanation"
 slug: explanatory-geometry-of-biology
 status: canonical
 canonical: true
@@ -7,24 +7,28 @@ canonicalLockDate: 2026-04-18
 revised: 2026-04-18
 cluster: conceptual-foundations
 abstract: >
-This article makes explicit the explanatory structure of the APS framework. It shows how biological explanation is organised through the mutually constraining relations of agency, process, and scale, and how this structure provides a coherent, empirically tractable grammar for understanding living systems.
+  This article makes explicit the explanatory structure of the APS framework.
+  It shows how biological explanation is organised through the mutually
+  constraining relations of agency, process, and scale, and how this structure
+  provides a coherent, empirically tractable grammar for understanding living
+  systems.
 relatedGlossaryTerms:
-- biological-agency
-- process
-- scale
-- persistence
-- constraint-closure
-- normativity
-- function
-- adaptation
-- evolution
+  - biological-agency
+  - process
+  - scale
+  - persistence
+  - constraint-closure
+  - normativity
+  - function
+  - adaptation
+  - evolution
 relatedArticles:
-- what-is-life
-- understanding-aps
-- how-to-read-aps-web
-- why-aps-is-not-hierarchical
-- scale-time-and-persistence
-- physiology-and-evolution-in-aps
+  - what-is-life
+  - understanding-aps
+  - how-to-read-aps-web
+  - why-aps-is-not-hierarchical
+  - scale-time-and-persistence
+  - physiology-and-evolution-in-aps
 ---
 
 Biology does not lack data, mechanisms, or models. What it lacks is a clear account of how explanation itself is organised. Different domains—molecular biology, physiology, ecology, and evolution—often proceed with distinct assumptions about causation, organisation, and what counts as an adequate explanation. As a result, biological theory can appear fragmented: rich in detail, but structurally diffuse.
