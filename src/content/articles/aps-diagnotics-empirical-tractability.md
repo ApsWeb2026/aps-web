@@ -102,6 +102,10 @@ Causation is therefore understood not only in terms of interactions, but in term
 
 Because viability is enacted and maintained, it is not binary. Systems exhibit **gradients of viability**, reflected in their capacity to sustain and recover organisation under perturbation.
 
+This point can be clarified more precisely:
+
+[[box:viability-as-gradient]]
+
 Similarly, **normativity** is graded: some changes have minor effects on viability, while others are catastrophic.
 
 Diagnostics therefore operates not by simple classification, but by evaluating:
@@ -130,6 +134,10 @@ This does not replace existing experimental methods. Instead, it clarifies how t
 By grounding evaluation in perturbation and viability, APS makes biological explanation **empirically tractable**.
 
 Claims about agency, function, or organisation are no longer interpretive overlays. They are hypotheses about how systems will respond when their organisation is challenged.
+
+This point can be stated more directly:
+
+[[box:why-aps-is-empirically-tractable]]
 
 > **To test biological explanation in APS is to test how systems sustain or fail to sustain their own viability under perturbation.**
 
