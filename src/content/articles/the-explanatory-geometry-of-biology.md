@@ -23,11 +23,11 @@ relatedGlossaryTerms:
   - adaptation
   - evolution
 relatedArticles:
-  - what-is-life
+  - what-is-life-a-biological-question-revisited
   - understanding-aps-the-structure-of-the-framework
   - how-to-read-this-aps-framework-website
   - why-aps-is-not-hierarchical
-  - scale-time-and-persistence
+  - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 ---
 
