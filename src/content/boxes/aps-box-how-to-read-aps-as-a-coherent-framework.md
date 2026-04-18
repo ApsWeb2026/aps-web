@@ -7,8 +7,6 @@ canonicalLockDate: 2026-04-18
 revised: 2026-04-18
 ---
 
-## APS Box — How to Read APS as a Coherent Framework
-
 APS is not a collection of related concepts, but an integrated explanatory framework. Each concept—agency, process, scale, persistence, and others—derives its meaning from its role within this system.
 
 As a result, individual articles are not independent viewpoints. They are expressions of a shared explanatory grammar. Reading them in isolation can obscure their meaning.
