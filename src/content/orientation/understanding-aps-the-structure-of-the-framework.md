@@ -29,7 +29,7 @@ For a broader account of how scientific explanation is structured, see **[Explan
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
 
-Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to viability.
+Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to the maintenance of viability.
 
 This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
 
@@ -43,7 +43,11 @@ APS is organised around three inseparable dimensions:
 - **[Process](/glossary/process/)** — the dynamic organisation through which this activity unfolds  
 - **[Scale](/glossary/scale/)** — the spatial and temporal extent across which these processes operate  
 
-These are not separate “levels,” components, or distinct sources of causation. They are co-constitutive aspects of the same organisation. Living systems exist only through their continuous coordination across these dimensions over time.
+These are not separate “levels,” components, or distinct sources of causation. They are co-constitutive aspects of the same organisation. 
+
+Living systems exist only through their continuous coordination across these dimensions over time.
+
+This activity is not binary but graded. It becomes empirically visible in how systems sustain and reorganise viability under changing conditions.
 
 [[box:aps-box-hierarchy-vs-scale]]
 
