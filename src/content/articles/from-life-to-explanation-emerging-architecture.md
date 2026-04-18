@@ -137,6 +137,14 @@ To explain a biological system is to situate it within this architecture:
 
 This applies whether the focus is molecular, organismal, ecological, or evolutionary.
 
+This progression can be summarised as a minimal architecture of the APS framework:
+
+- What is life? → viability-oriented, constraint-closed organisation  
+- How is it explained? → through the structured relations of agency, process, and scale  
+- How is it evaluated? → through perturbation and viability-relative diagnostics  
+
+These are not independent questions, but successive expressions of a single framework: the nature of life determines the structure of explanation, and the structure of explanation determines how its claims can be tested.
+
 ## Key Points
 
 - APS extends from a definition of life to a unified architecture of biological explanation.  
