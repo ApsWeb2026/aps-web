@@ -24,11 +24,11 @@ relatedGlossaryTerms:
   - evolution
 relatedArticles:
   - what-is-life
-  - understanding-aps
-  - how-to-read-aps-web
+  - understanding-aps-the-structure-of-the-framework
+  - how-to-read-this-aps-framework-website
   - why-aps-is-not-hierarchical
   - scale-time-and-persistence
-  - physiology-and-evolution-in-aps
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 ---
 
 Biology does not lack data, mechanisms, or models. What it lacks is a clear account of how explanation itself is organised. Different domains—molecular biology, physiology, ecology, and evolution—often proceed with distinct assumptions about causation, organisation, and what counts as an adequate explanation. As a result, biological theory can appear fragmented: rich in detail, but structurally diffuse.
