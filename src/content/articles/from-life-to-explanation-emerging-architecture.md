@@ -21,8 +21,8 @@ relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
-  - scale-time-and-persistence
-  - physiology-and-evolution-in-aps
+  - scale-time-persistence
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 ---
 
 ## What This Article Does
