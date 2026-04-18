@@ -27,7 +27,9 @@ This makes viability intrinsically normative: the system’s organisation establ
 
 Viability is also multiscale and temporally extended. It is not confined to a single domain but is sustained through coordinated activity across interacting scales, from molecular processes to organismal regulation and ecological interactions. Persistence over time depends on the continuous re-establishment of viability under changing conditions.
 
-Because viability is enacted rather than given, it can be modulated, degraded, or lost. Systems exhibit gradients of viability rather than binary states, and transitions between viable and non-viable organisation are often dynamic and context-dependent.
+Because viability is enacted rather than given, it can be modulated, degraded, or lost. Systems exhibit gradients of viability rather than binary states, with degrees of organisation reflected in their capacity to sustain and recover viability under changing conditions.
+
+Because viability is enacted rather than given, it can be empirically assessed through how systems respond to perturbation. Disruption of components or processes reveals the extent to which they contribute to maintaining viability-oriented organisation. In this way, viability is not only a conceptual principle but an operational criterion: it can be evaluated by examining whether and how systems sustain, recover, or reorganise the conditions of their own persistence under changing conditions.
 
 Persistence is the ongoing enactment of viability-oriented organisation through time; viability defines the conditions to be maintained, while persistence names the activity through which those conditions are sustained.
 
