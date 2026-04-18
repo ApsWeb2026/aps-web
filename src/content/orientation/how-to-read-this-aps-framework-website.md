@@ -15,7 +15,7 @@ If you are new to APS, begin with the Orientation pages. These introduce the fra
 
 The APS Glossary provides the foundation for everything else on the site. Each term is defined precisely and used consistently across the framework. If you encounter an unfamiliar concept, consult the glossary first, as it establishes the meaning of key terms such as life, agency, normativity, process, and scale.
 
-Articles develop the framework by explaining how these concepts apply across different areas of biology. They extend the glossary definitions into broader explanations, examples, and applications. Boxes highlight key distinctions and recurring principles. They can be read independently or encountered within the flow of an article.
+Articles develop the framework by explaining how these concepts apply across different areas of biology. They extend the glossary definitions into broader explanations, examples, and applications. Boxes highlight key distinctions and recurring principles. They can be read independently or encountered within the flow of an article. For a focused account of how APS structures biological explanation, see **[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)**
 
 [[box:how-to-read-aps-as-a-coherent-framework]]
 
