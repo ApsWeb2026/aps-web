@@ -31,6 +31,8 @@ Because this organisation must be continuously maintained, biological processes 
 
 This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
 
+[[box:how-to-read-aps-as-a-coherent-framework]]
+
 ## The Three Dimensions of APS
 
 APS is organised around three inseparable dimensions:
