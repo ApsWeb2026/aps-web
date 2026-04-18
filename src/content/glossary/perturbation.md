@@ -18,7 +18,6 @@ seeAlso:
   - normativity
   - diagnosis
   - viability-gradient
-  - normativity-gradient
   - cognitive-integration
 ---
 
