@@ -23,6 +23,8 @@ relatedArticles:
 
 This article develops the internal structure of the APS framework. While *[What Is APS?](/orientation/what-is-aps/)* introduces its core ideas, this page shows how those ideas fit together—how agency, process, and scale operate as a unified explanatory grammar.
 
+For a formal account of how this explanatory structure is organised, see **[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)**.
+
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
