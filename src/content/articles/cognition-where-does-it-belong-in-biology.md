@@ -53,6 +53,8 @@ APS rejects this separation.
 
 APS begins from a different starting point: living systems are **[viability](/glossary/viability/)-oriented, constraint-closed organisations** that must continuously sustain the conditions of their own persistence.
 
+This shift requires a clarification of what is meant by cognition in APS:
+
 [[box:what-aps-means-by-cognition]]
 
 This requires more than passive maintenance. Systems must:
