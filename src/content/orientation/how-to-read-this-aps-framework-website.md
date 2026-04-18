@@ -17,6 +17,8 @@ The APS Glossary provides the foundation for everything else on the site. Each t
 
 Articles develop the framework by explaining how these concepts apply across different areas of biology. They extend the glossary definitions into broader explanations, examples, and applications. Boxes highlight key distinctions and recurring principles. They can be read independently or encountered within the flow of an article.
 
+[[box:how-to-read-aps-as-a-coherent-framework]]
+
 APS is not intended to be read strictly from beginning to end, but as a system that can be explored through multiple connected pathways. Readers can move between pages by following conceptual links, using the glossary as a reference point and returning to orientation pages when needed.
 
 The most effective way to read the APS Framework is to move between definitions and explanations. The glossary provides conceptual precision, while articles and boxes show how those concepts function within biological explanation. Together, they form a unified framework for understanding life as **viability-oriented, constraint-closed organisation**.
