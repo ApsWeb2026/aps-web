@@ -52,6 +52,8 @@ Importantly, scale is not merely descriptive. It is constitutive of persistence.
 
 Living systems do not persist because their components are simply aggregated. They persist because activity is coordinated across spatial and temporal domains in ways that sustain organisation.
 
+In APS, this dimension is not explanatory in isolation but functions within a structured system of relations [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Coordination Across Scales
 
 Processes at different scales are analytically distinguishable but co-constitutive. Molecular dynamics influence cellular activity, cellular processes shape organismal behaviour, and organismal activity modifies ecological conditions.
