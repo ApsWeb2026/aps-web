@@ -27,7 +27,7 @@ This organisation is enacted in the present. Living systems continuously differe
 
 Purpose is inseparable from biological agency. Agency names the activity through which a system sustains and modulates its own organisation; purpose names the organisation of that activity. To describe a system as purposive is to recognise that its activity is organised around maintaining its own conditions of persistence.
 
-APS also clarifies the relationship between purpose and function. Purpose pertains to the organisation of the system as a whole, while function describes the contributions of parts and processes within that organisation. Function is therefore the operational expression of purpose.
+APS also clarifies the relationship between purpose and function. Purpose pertains to the organisation of the system as a whole, while function describes the contributions of parts and processes within that organisation. The functional role of a component is therefore not intrinsic to the component itself, but defined by its place within the viability-oriented organisation of the whole. In this sense, the whole is explanatorily prior to the parts: the organisation that sustains persistence must be specified before the contributions of its components can be understood as functional. Function is thus the operational expression of purpose.
 
 By grounding purpose in constraint-closed, viability-oriented organisation, APS avoids both metaphysical teleology and reduction to mechanism. Purpose does not require foresight, design, or representation; it is the organisational condition under which activity matters to the system itself.
 
