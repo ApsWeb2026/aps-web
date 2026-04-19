@@ -17,7 +17,7 @@ These are not independent concepts. Each presupposes the others:
 - There can be no purpose without normative evaluation  
 - There can be no normativity without processes that succeed or fail in sustaining the system  
 
-Together, they form a **closed explanatory loop**.
+Together, they form a **closed explanatory loop**. This loop does not begin with isolated components, but with the organisation of the system as a whole. The roles of parts become intelligible only within a viability-oriented context that defines what counts as success or failure. Function, in particular, does not name an intrinsic property of a component, but its contribution to sustaining the organisation that makes it biologically meaningful. In this sense, the whole is explanatorily prior to the parts: viability-oriented organisation must be specified before the operations that realise it can be understood.
 
 This triad is distinctive within APS because it identifies the minimal conditions under which biological organisation becomes **evaluative and purposive** without invoking mental representation or external design. It explains why living systems are not neutral mechanisms, but systems in which outcomes matter for their continued existence.
 
