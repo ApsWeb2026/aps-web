@@ -101,6 +101,8 @@ This shift also clarifies why gene-centric explanations are limited. Identifying
 
 [[box:gene-centric-vs-aps-grammar]]
 
+These causal relations are not isolated mechanisms but elements of a structured explanatory system, see [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Normativity and Causal Asymmetry
 
 Biological causation exhibits a distinctive asymmetry: outcomes matter for the system itself.
