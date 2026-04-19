@@ -21,7 +21,7 @@ Function is often explained in terms of selected effects (what a trait was selec
 
 ## APS reframing
 
-APS grounds function in biological normativity, which arises from viability-oriented organisation. Because living systems must actively sustain their own persistence, their organisation establishes intrinsic conditions of success and failure. Function is the operational expression of this organisation: it specifies how particular structures and processes contribute to maintaining or restoring viability within a constraint-closed system.
+APS grounds function in biological normativity, which arises from viability-oriented organisation. Because living systems must actively sustain their own persistence, their organisation establishes intrinsic conditions of success and failure. Function is the operational expression of this organisation: it specifies how particular structures and processes contribute to maintaining or restoring viability within a constraint-closed system. The functional role of a component is therefore not intrinsic to the component itself, but defined by its place within the organisation of the whole. What counts as a function depends on the viability conditions of the system it serves. In this sense, the whole is explanatorily prior to the parts: the organisation that sustains persistence must be specified before the contributions of its components can be understood as functional.
 
 Evolutionary history explains how such roles emerge and stabilise, but functional status is determined in the present by ongoing contribution to persistence. Function therefore cannot be reduced to selection history or neutral causal description; it is inherently normative and organisation-dependent.
 
