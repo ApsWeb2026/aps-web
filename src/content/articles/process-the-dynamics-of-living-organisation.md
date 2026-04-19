@@ -40,6 +40,8 @@ But living systems are not simply structures that change. They are systems that 
 
 Process in biology is therefore not secondary to structure. It is the ongoing activity through which structure is sustained.
 
+In APS, this dimension is not explanatory in isolation but functions within a structured system of relations [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Process as Organisational Activity
 
 The APS framework reconceives process as the dynamic organisation of constraints and their interactions.
