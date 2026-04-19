@@ -57,7 +57,7 @@ An adequate explanation must therefore account for all of these features togethe
 
 APS organises this requirement into a coherent explanatory structure.
 
-→ For a formal account of how these elements are organised as a coherent explanatory system, see [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)
+→ This article characterises the elements of biological explanation; their systematic organisation is devloped in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
 
 ## The Core Explanatory Dimensions
 
