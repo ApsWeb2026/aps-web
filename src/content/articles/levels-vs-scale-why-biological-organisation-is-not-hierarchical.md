@@ -64,6 +64,8 @@ To describe a system in terms of scale is to specify:
 
 Scale is therefore relational. It does not divide the world into layers. It describes how different processes are integrated within a single system.
 
+This reconceptualisation of scale forms part of a broader explanatory geometry, see [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Cross-Scale Causation
 
 In a scale-based framework, causation is inherently cross-scale.
