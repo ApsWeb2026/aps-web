@@ -51,6 +51,8 @@ This activity is not binary but graded. It becomes empirically visible in how sy
 
 [[box:aps-box-hierarchy-vs-scale]]
 
+A formal account of how these dimensions function together as an explanatory system is provided in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Why APS Is Different
 
 Traditional approaches in biology often prioritise one explanatory dimension:
