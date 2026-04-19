@@ -25,7 +25,7 @@ APS grounds function in biological normativity, which arises from viability-orie
 
 Evolutionary history explains how such roles emerge and stabilise, but functional status is determined in the present by ongoing contribution to persistence. Function therefore cannot be reduced to selection history or neutral causal description; it is inherently normative and organisation-dependent.
 
-Function thus integrates both etiological and causal-role accounts: it reflects how a trait has been shaped historically and how it presently contributes to sustaining the system’s continued existence.
+Function thus integrates both etiological and causal-role accounts by situating both within viability-oriented organisation: it reflects how a trait has been shaped historically and how it presently contributes to sustaining the system’s continued existence.
 
 ## Key Point
 
