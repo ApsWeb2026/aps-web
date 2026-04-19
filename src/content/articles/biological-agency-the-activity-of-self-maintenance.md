@@ -35,6 +35,8 @@ Living systems do not simply undergo change. They regulate the conditions under 
 
 Agency is therefore not a structure, property, or capacity. It is an ongoing activity—what living systems do to keep going.
 
+In APS, this dimension is not explanatory in isolation but functions within a structured system of relations [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Life and Agency
 
 Life and biological agency are not separate phenomena. They are the same organisation viewed from different perspectives.
