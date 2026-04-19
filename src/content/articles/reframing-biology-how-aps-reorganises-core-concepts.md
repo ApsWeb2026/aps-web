@@ -146,6 +146,8 @@ This interdependence mirrors the organisation of the systems APS describes.
 
 In this sense, APS does not merely describe biological organisation — it **exemplifies it in the way it explains.**.
 
+The systematic organisation of these reformulated concepts into a coherent explanatory framework is developed in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+
 ## Conclusion
 
 APS invites a shift in how biology is understood.
