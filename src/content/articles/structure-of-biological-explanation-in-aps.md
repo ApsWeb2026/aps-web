@@ -57,6 +57,8 @@ An adequate explanation must therefore account for all of these features togethe
 
 APS organises this requirement into a coherent explanatory structure.
 
+→ For a formal account of how these elements are organised as a coherent explanatory system, see [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)
+
 ## The Core Explanatory Dimensions
 
 Biological explanation in APS is structured around three co-constitutive dimensions: agency, process, and scale.
