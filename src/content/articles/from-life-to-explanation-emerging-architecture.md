@@ -125,6 +125,8 @@ The same principles that explain the maintenance of a single cell extend to:
 
 This continuity does not eliminate differences between domains. It shows how those differences arise within a shared structure.
 
+The structure of this explanation system is made explicit in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)
+
 ## Explanation as Organised Continuity
 
 APS therefore reframes biological explanation as a continuous, integrated activity rather than a set of domain-specific approaches.
