@@ -25,6 +25,8 @@ In APS, biological normativity arises from the precarious organisation of living
 
 Normativity is therefore endogenously enacted as the organised regulation of activity relative to viability. A process is normative insofar as it makes a difference to the system’s continued coherence—by supporting, restoring, or degrading the conditions under which its organisation can persist. This grounding does not require intention, representation, or experience; it follows directly from viability-oriented, constraint-closed organisation.
 
+Normativity therefore mediates between the organisation of the whole and the activity of its parts. The viability-oriented organisation of the system defines what counts as success or failure, and this evaluative structure determines whether the contributions of particular processes are functional. In this way, normativity links purpose and function: it specifies the conditions under which the operations of components sustain or undermine the persistence of the system as a whole.
+
 ## Key Point
 
 Normativity is the viability-relative asymmetry through which processes sustain or undermine the persistence of living systems.
