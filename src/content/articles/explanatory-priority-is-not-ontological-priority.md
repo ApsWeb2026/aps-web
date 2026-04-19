@@ -40,6 +40,8 @@ Explanatory priority concerns the order of intelligibility. It identifies what m
 
 APS therefore begins with viability-oriented, constraint-closed organisation not because this is an ontologically separate layer, but because it is the condition that makes biological description intelligible as biological description. Without it, one may still describe chemistry, mechanism, or dynamics, but one has not yet explained life as life.
 
+This priority reflects a general feature of biological explanation: the organisation of the whole must be understood before the roles of its parts can be made sense of. Components such as genes, enzymes, or structures do not carry intrinsic biological meaning in isolation; their significance arises only within the viability-oriented organisation they contribute to sustaining. In this sense, what appears “final” in causal analysis—the maintenance of the system as a whole—is explanatorily prior: it defines the conditions under which mechanistic descriptions become biologically intelligible.
+
 ## What ontological priority would mean
 
 Ontological priority is a stronger claim. It concerns what is most fundamental in being, what grounds the existence of other things, or what is metaphysically basic. APS does not infer such priority merely from explanatory necessity. It does not claim that agency, process, or scale float above matter, override mechanism, or replace components with abstractions.
