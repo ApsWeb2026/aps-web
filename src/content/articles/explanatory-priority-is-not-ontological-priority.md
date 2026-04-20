@@ -54,6 +54,10 @@ Reductionist habits often encourage the assumption that the smallest components 
 
 A gene may be ontically present in every organismal process, yet still fail to explain that process unless it is situated within the organised system whose viability gives it biological significance. Likewise, to say that the organism or the organisation must come first in explanation is not to deny the existence of components. It is to deny that components explain biological order in isolation.
 
+This distinction also clarifies recurring debates about “top-down” and “bottom-up” causation in biology. APS does not posit competing causal directions or privileged levels of explanation. What are described as bottom-up processes (molecular interactions, biochemical mechanisms) and top-down processes (organismal regulation, system-level constraint) are analytically distinct aspects of a single organised system. The activity of components is enabled and constrained by the organisation they collectively sustain, while that organisation exists only through their ongoing activity.
+
+Similarly, APS does not deny that biological systems are materially constituted by physical and chemical processes. Rather, it denies that such processes automatically possess explanatory priority. Components explain biological phenomena only insofar as they participate in viability-oriented, constraint-closed organisation. The question of what something is made of is therefore distinct from the question of how it becomes biologically intelligible.
+
 ## APS and organised persistence
 
 APS gives explanatory priority to organised persistence because biology is concerned with systems that maintain themselves across time. This is not a claim that persistence is a thing over and above the organism. It is a claim that the organism is intelligible only as an organised continuity of viability-oriented activity. Persistence is therefore explanatorily prior to any account that treats life as the accidental outcome of parts, because the parts become biologically meaningful only within a persisting organisation.
@@ -74,4 +78,4 @@ This allows APS to preserve the reality of genes, molecules, mechanisms, and env
 
 ## Key Point
 
-Explanatory priority in APS identifies what must come first for biology to make sense; it does not elevate that starting point into a separate ontological substance or ultimate layer of reality.
+Explanatory priority in APS specifies what must come first for biological intelligibility without implying ontological primacy. Top-down and bottom-up descriptions are not competing causes but analytic perspectives on a single, scale-coupled organisation whose material constitution alone does not fix explanatory priority.
