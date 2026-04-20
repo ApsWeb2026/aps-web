@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-20
 revised: 2026-04-20
-cluster: conceptual-foundations-explanatory-grammar
+cluster: conceptual-foundations
 keyPoints:
   - APS distinguishes ontological dependence from explanatory priority, preserving material realism without explanatory reduction.
   - Biological components acquire meaning only within viability-oriented, constraint-closed organisation.
@@ -20,6 +20,7 @@ relatedGlossaryTerms:
   - scale
   - viability
   - explanatory-grammar
+  - reductionism
 relatedArticles:
   - what-is-life
   - biology-what-the-science-of-life-explains
