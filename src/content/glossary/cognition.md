@@ -29,7 +29,7 @@ Cognition is not identical with agency and is not required for life. All cogniti
 
 This distinction is empirically testable: a system is cognitive only when its current regulation is demonstrably shaped by temporally displaced evaluations rather than immediate conditions alone. Minimal organisms such as *Escherichia coli* exhibit agency but remain tightly coupled to present conditions, whereas many plants exhibit cognition through temporally integrated regulation of growth, defence, and development.
 
-Cognition builds on semiosis—real-time evaluative sense-making—but extends it across temporal horizons, enabling regulation organised with respect to anticipated or delayed viability-relevant conditions.
+Cognition builds on semiosis—real-time evaluative sense-making—but extends it across temporal horizons, enabling regulation organised with respect to anticipated or delayed viability-relevant conditions. This evaluative extension is grounded in biological normativity. The viability-oriented organisation of the system establishes the conditions under which activity succeeds or fails, and cognition is the process by which these conditions are integrated across time. In this sense, cognition is the temporally extended enactment of normativity in activity: it enables systems to regulate present behaviour with respect to non-immediate conditions while remaining oriented toward sustaining the organisation of the whole.
 
 ## Key Point
 
