@@ -15,16 +15,16 @@ relatedGlossaryTerms:
   - biological-agency
   - constraint-closure
   - function
-  - organisation
+  - biological-organisation
   - process
   - scale
   - viability
   - explanatory-grammar
   - reductionism
 relatedArticles:
-  - what-is-life
-  - biology-what-the-science-of-life-explains
-  - the-explanatory-geometry-of-biology
+  - what-is-life-a-biological-question-revisited
+  - biology
+  - explanatory-geometry-of-biology
 ---
 
 Reductionism is often treated as a defining commitment of scientific explanation, particularly in biology, where it is commonly assumed that living systems are best understood by analysing their smallest components and the physical laws governing them. APS does not reject this impulse but clarifies its scope and limits by distinguishing between **what biological systems are made of** and **how biological phenomena become intelligible as biological phenomena**.
