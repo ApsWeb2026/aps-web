@@ -4,31 +4,31 @@ title: "APS as Philosophy: A Viability-Oriented Account of Biological Reality"
 slug: aps-as-philosophy-viability-oriented-account
 abstract: "This article presents the Agency–Process–Scale (APS) framework as a candidate philosophical account of biological reality. It examines APS as an empirically grounded explanatory grammar, a biologically specified form of process ontology, and a constraint-closed conceptual system. It explores its treatment of normativity, causation, and organisation, and situates APS in relation to contemporary theoretical frameworks including enactivism, autonomy theory, systems theory, and mechanistic explanation. The article invites critical engagement with APS as a philosophically structured, empirically tractable account of life."
 status: "canonical"
-revised: "2026-04-21"
+revised: 2026-04-21
 cluster: "conceptual-foundations"
 keyPoints:
-- "APS functions as a scientifically grounded metaphysical account of organised persistence."
-- "Explanatory grammar reframes ontology in terms of the conditions of biological intelligibility."
-- "Constraint closure provides a unifying account of biological organisation and individuality."
-- "APS refines process philosophy through biological specification."
-- "Normativity in APS is intrinsic to viability-oriented organisation."
-- "APS is both philosophically structured and empirically tractable."
-- "The framework remains open to critique regarding circularity, normativity, and scope."
+ - "APS functions as a scientifically grounded metaphysical account of organised persistence."
+ - "Explanatory grammar reframes ontology in terms of the conditions of biological intelligibility."
+ - "Constraint closure provides a unifying account of biological organisation and individuality."
+ - "APS refines process philosophy through biological specification."
+ - "Normativity in APS is intrinsic to viability-oriented organisation."
+ - "APS is both philosophically structured and empirically tractable."
+ - "The framework remains open to critique regarding circularity, normativity, and scope."
 relatedGlossaryTerms:
-- biological-agency
-- process
-- scale
-- constraint-closure
-- viability
-- normativity
-- function
-- adaptation
-- evolution
+ - biological-agency
+ - process
+ - scale
+ - constraint-closure
+ - viability
+ - normativity
+ - function
+ - adaptation
+ - evolution
 relatedArticles:
-- what-is-aps
-- explanatory-geometry-of-biology
-- from-life-to-explanation-emerging-architecture
-- environment-coupling-and-agency
+ - what-is-aps
+ - explanatory-geometry-of-biology
+ - from-life-to-explanation-emerging-architecture
+ - environment-coupling-and-agency
 ---
 
 ## 1. Biology and the Return of Philosophy
