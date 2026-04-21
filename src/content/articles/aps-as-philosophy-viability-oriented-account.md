@@ -27,7 +27,7 @@ relatedArticles:
  - what-is-aps
  - explanatory-geometry-of-biology
  - from-life-to-explanation-emerging-architecture
- - environment-coupling-and-agency
+ - environment-coupling-and-biological-agency
 ---
 
 ## 1. Biology and the Return of Philosophy
