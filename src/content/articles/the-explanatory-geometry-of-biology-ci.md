@@ -29,6 +29,7 @@ relatedArticles:
   - why-aps-is-not-hierarchical
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - aps-as-philosophy-viability-oriented-account
 ---
 
 Biology does not lack data, mechanisms, or models. What it lacks is a clear account of how explanation itself is organised. Different domains—molecular biology, physiology, ecology, and evolution—often proceed with distinct assumptions about causation, organisation, and what counts as an adequate explanation. As a result, biological theory can appear fragmented: rich in detail, but structurally diffuse.
@@ -91,6 +92,8 @@ These are not separate kinds of explanation, but different expressions of the sa
 APS does not merely describe biological organisation—it enacts it in the way it explains. The framework’s explanatory practice mirrors the organisation it seeks to understand: integrated, constrained, and oriented toward the conditions of persistence.
 
 To use APS is therefore not simply to adopt new terminology, but to participate in a different mode of explanation—one in which concepts derive their meaning from their role in sustaining a coherent account of living systems.
+
+The philosophical implications of this explanatory grammar are developed further in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
 
 ## Key Points
 
