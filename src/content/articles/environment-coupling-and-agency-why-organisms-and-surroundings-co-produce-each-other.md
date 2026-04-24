@@ -17,7 +17,8 @@ relatedGlossaryTerms:
   - biological-agency
   - constraint
   - affordance
-relatedArticles: []
+relatedArticles: 
+  - aps-as-philosophy-viability-oriented-account
 researchStreams: []
 references: []
 ---
@@ -55,6 +56,8 @@ This is not a one-way causal relation. The organism does not simply respond to a
 The environment is therefore continuously reconfigured as coupling unfolds.
 
 Coupling therefore provides the processual basis through which viability-oriented organisation is sustained across changing conditions.
+
+The philosophical status of viability-oriented organisation is considered more fully in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
 
 ## Agency as Viability-Oriented Regulation
 
