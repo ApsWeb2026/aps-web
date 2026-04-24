@@ -6,6 +6,9 @@ canonical: true
 canonicalLockDate: 2026-04-13
 revised: 2026-04-13
 cluster: conceptual-foundations
+relatedArticles:
+ - aps-as-philosophy-viability-oriented-account
+
 ---
 
 APS is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**.
@@ -39,3 +42,5 @@ This platform is organised around thematic clusters that bring together articles
 Start with the **[Glossary](/glossary/)** for precise definitions, then explore the articles for extended analysis.
 
 Pages marked **Canonical** represent stable core content. Pages marked **Evolving** or **Draft** indicate ongoing development.
+
+For a deeper account of APS as a philosophical framework, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
