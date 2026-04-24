@@ -23,6 +23,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - aps-as-philosophy-viability-oriented-account
 ---
 
 ## What This Article Does
@@ -50,6 +51,8 @@ If living systems are organised in this way, then explaining them requires an ac
 These correspond to the three dimensions of APS: **agency, process, and scale**.
 
 The explanatory structure of APS therefore follows directly from its account of life. Explanation is not imposed from outside, but emerges from the organisation of the system being explained.
+
+This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
 
 ## A Unified Explanatory Architecture
 
