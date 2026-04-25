@@ -27,6 +27,10 @@ APS approaches evolution differently. It begins not with genes or populations, b
 
 Evolution in APS is the historical transformation of viability-oriented, constraint-closed biological organisation across generations.
 
+![Diagram showing evolution in APS as the transformation of viability-oriented, constraint-closed organisation across generations](/assets/diagrams/evolution-transformation-of-organised-persistence.svg)
+
+*Figure: Evolution in APS is understood as the transformation of organised persistence across generations, in which viability-oriented organisation is maintained, modified, and differentially sustained.*
+
 ## Beyond Gene Frequencies
 
 Evolution is commonly defined as change in gene frequencies within populations over time. This formulation captures important patterns of inheritance and variation, but it remains a statistical description rather than an account of biological organisation.
