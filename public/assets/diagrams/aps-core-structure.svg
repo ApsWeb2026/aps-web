@@ -11,40 +11,36 @@
   </style>
 
   <!-- Title -->
-  <text class="title" x="450" y="50" text-anchor="middle">
-    The Core Structure of APS
-  </text>
-  <text class="subtitle" x="450" y="75" text-anchor="middle">
-    Agency, Process, and Scale as dimensions of organised biological persistence
-  </text>
+  <text class="title" x="450" y="50" text-anchor="middle">The Core Structure of APS</text>
+  <text class="subtitle" x="450" y="75" text-anchor="middle">Agency, Process, and Scale as dimensions of organised biological persistence</text>
 
   <!-- Triangle connections -->
-  <line class="line" x1="450" y1="160" x2="650" y2="380"/>
-  <line class="line" x1="650" y1="380" x2="250" y2="380"/>
-  <line class="line" x1="250" y1="380" x2="450" y2="160"/>
+  <line class="line" x1="450" y1="165" x2="665" y2="405"/>
+  <line class="line" x1="665" y1="405" x2="235" y2="405"/>
+  <line class="line" x1="235" y1="405" x2="450" y2="165"/>
 
   <!-- Centre -->
-  <rect class="centre" x="300" y="250" width="300" height="100" rx="18"/>
-  <text class="label" x="450" y="285">Organised Biological Persistence</text>
-  <text class="sub" x="450" y="310">Sustained viability across time</text>
+  <rect class="centre" x="300" y="255" width="300" height="105" rx="18"/>
+  <text class="label" x="450" y="292">Organised Biological Persistence</text>
+  <text class="sub" x="450" y="318">Sustained viability across time</text>
+  <text class="sub" x="450" y="338">through coordinated activity</text>
 
   <!-- Agency -->
-  <rect class="node" x="350" y="110" width="200" height="70" rx="14"/>
-  <text class="label" x="450" y="140">Agency</text>
+  <rect class="node" x="335" y="105" width="230" height="75" rx="14"/>
+  <text class="label" x="450" y="138">Agency</text>
   <text class="sub" x="450" y="160">Viability-oriented activity</text>
 
   <!-- Process -->
-  <rect class="node" x="150" y="380" width="200" height="70" rx="14"/>
-  <text class="label" x="250" y="410">Process</text>
-  <text class="sub" x="250" y="430">Continuity through time</text>
+  <rect class="node" x="120" y="385" width="230" height="75" rx="14"/>
+  <text class="label" x="235" y="418">Process</text>
+  <text class="sub" x="235" y="440">Continuity through time</text>
 
   <!-- Scale -->
-  <rect class="node" x="550" y="380" width="200" height="70" rx="14"/>
-  <text class="label" x="650" y="410">Scale</text>
-  <text class="sub" x="650" y="430">Coordination across levels</text>
+  <rect class="node" x="550" y="385" width="230" height="75" rx="14"/>
+  <text class="label" x="665" y="418">Scale</text>
+  <text class="sub" x="665" y="440">Coordination across extent</text>
 
   <!-- Footer -->
-  <text class="footer" x="450" y="520">
-    These are not separate components but interdependent dimensions of a single organised system
-  </text>
+  <text class="footer" x="450" y="525">Agency, Process, and Scale are not separate components</text>
+  <text class="footer" x="450" y="548">but interdependent dimensions of one organised system</text>
 </svg>
