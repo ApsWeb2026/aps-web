@@ -1,16 +1,20 @@
 ---
 title: Viability
 slug: viability
-definition: "Viability is the ongoing maintenance of the conditions required for a living system to persist as a constraint-closed, viability-oriented organisation."
-inBrief: "Viability is the ongoing maintenance of the conditions required for continued biological organisation."
+definition: "Viability refers to the normatively evaluable conditions under which a living system can sustain its persistence as a constraint-closed, viability-oriented organisation."
+inBrief: "Viability specifies the conditions under which biological organisation can be maintained."
 status: canonical
-revised: 2026-04-08
+canonical: true
+canonicalLockDate: 2026-04-26
+revised: 2026-04-26
 cluster: foundations
 relatedGlossaryTerms:
   - persistence
   - biological-agency
+  - biological-organisation
   - constraint-closure
   - normativity
+  - function
   - process
   - scale
   - adaptation
@@ -21,17 +25,22 @@ relatedGlossaryTerms:
 In standard biological usage, viability refers to a system’s capacity to survive, maintain function, or successfully develop and reproduce under given conditions. It is often treated as an outcome or property that can be measured in terms of fitness, survival rate, or reproductive success, and is frequently defined relative to external criteria or environmental constraints.
 
 ## APS reframing
-APS reconceives viability as an ongoing organisational activity rather than a static condition or outcome. A system is viable insofar as it actively maintains the conditions required for its own persistence as a constraint-closed organisation. Viability is therefore enacted continuously through processes of regulation, repair, adaptation, and reorganisation.
+APS reconceives viability as referring to the conditions under which a system’s organisation can be sustained, rather than the activity by which it is sustained. A system is viable to the extent that the conditions required for maintaining its organisation remain in place.
 
-This makes viability intrinsically normative: the system’s organisation establishes a distinction between conditions that support continued existence and those that threaten it. This distinction is not imposed externally but arises from the system’s own activity. Viability thus provides the internal reference frame for biological agency—what counts as success, failure, function, or error is defined relative to the maintenance of viability.
+Viability does not name the activity through which these conditions are maintained—that is persistence—but the conditions relative to which such activity is organised and evaluated. In this sense, viability provides the normative frame within which biological processes unfold.
 
-Viability is multiscale and temporally extended. It is sustained through coordinated activity across interacting scales, from molecular processes to organismal regulation and ecological interactions. It is not confined to a single domain but is sustained through coordinated activity across interacting scales, from molecular processes to organismal regulation and ecological interactions. Persistence over time depends on the continuous re-establishment of viability under changing conditions.
+This makes viability intrinsically normative. The organisation of a system establishes a distinction between conditions that support continued existence and those that undermine it. This distinction is not imposed externally but arises from the system’s own organisation. What counts as success, failure, function, or error is defined relative to the maintenance of viability.
 
-Because viability is enacted rather than given, it can be modulated, degraded, or lost. Systems exhibit gradients of viability rather than binary states, with degrees of organisation reflected in their capacity to sustain and recover viability under changing conditions.
+Viability is realised and modulated through ongoing processes of regulation, repair, adaptation, and reorganisation. These processes do not constitute viability itself but are the means by which viable conditions are maintained or restored under changing circumstances.
 
-This also makes viability empirically assessable through how systems respond to perturbation. Disruption of components or processes reveals the extent to which they contribute to maintaining viability-oriented organisation. In this way, viability is not only a conceptual principle but an operational criterion: it can be evaluated by examining whether and how systems sustain, recover, or reorganise the conditions of their own persistence.
+Viability is multiscale and temporally extended. The conditions required for persistence are sustained through coordinated activity across interacting scales, from molecular processes to organismal regulation and ecological interactions. Persistence over time depends on the continuous re-establishment of viability under changing conditions.
 
-Persistence is the ongoing enactment of viability-oriented organisation through time; viability defines the conditions to be maintained, while persistence names the activity through which those conditions are sustained.
+Because viability is not given but maintained, it can be strengthened, degraded, or lost. Systems exhibit gradients of viability rather than binary states, reflected in their capacity to sustain and recover the conditions required for continued organisation.
+
+This also makes viability empirically tractable. Perturbations to components or processes reveal the extent to which they contribute to maintaining viable conditions. A system’s response—whether it compensates, reorganises, or collapses—provides a way of assessing the organisation that sustains its persistence. In this way, viability is not only a conceptual principle but an operational criterion.
+
+Persistence is the ongoing activity through which a system maintains its organisation across time. Viability specifies the conditions under which this persistence can be sustained.
 
 ## Key Point
-**Viability is not a property a system has—it is the ongoing activity through which a system maintains the conditions of its own persistence.**
+Viability does not name what a system does, but the conditions under which what it does can succeed in sustaining its persistence.
+
