@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <style>
+    .title { font: 600 24px system-ui, sans-serif; fill: #2f3e46; }
+    .subtitle { font: 400 14px system-ui, sans-serif; fill: #6b7c85; }
+    .node { fill: #f9fbfc; stroke: #94a3ad; stroke-width: 1.5; }
+    .centre { fill: #f1f5f7; stroke: #5f7380; stroke-width: 1.8; }
+    .label { font: 600 16px system-ui, sans-serif; fill: #2f3e46; text-anchor: middle; }
+    .sub { font: 400 13px system-ui, sans-serif; fill: #6b7c85; text-anchor: middle; }
+    .line { stroke: #b0bcc5; stroke-width: 1.5; fill: none; }
+    .arrow { fill: #b0bcc5; }
+    .footer { font: 400 13px system-ui, sans-serif; fill: #6b7c85; text-anchor: middle; }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path class="arrow" d="M0,0 L6,3 L0,6 Z"/>
+    </marker>
+  </defs>
+
+  <text class="title" x="450" y="50" text-anchor="middle">Constraint Closure in Living Systems</text>
+  <text class="subtitle" x="450" y="75" text-anchor="middle">Processes maintain the constraints that enable processes to continue</text>
+
+  <!-- Recursive loop -->
+  <path class="line" marker-end="url(#arrowhead)" d="M450 150 C610 150 725 260 720 310"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M720 310 C720 470 575 510 500 450"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M400 450 C260 510 180 410 180 310"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M180 310 C175 190 305 150 450 150"/>
+
+  <!-- Centre -->
+  <rect class="centre" x="300" y="255" width="300" height="105" rx="18"/>
+  <text class="label" x="450" y="292">Organised Persistence</text>
+  <text class="sub" x="450" y="318">constraints and processes</text>
+  <text class="sub" x="450" y="338">sustain one another</text>
+
+  <!-- Top node -->
+  <rect class="node" x="310" y="115" width="280" height="70" rx="14"/>
+  <text class="label" x="450" y="145">Structural Constraints</text>
+  <text class="sub" x="450" y="165">Channel and stabilise processes</text>
+
+  <!-- Right node -->
+  <rect class="node" x="590" y="275" width="250" height="70" rx="14"/>
+  <text class="label" x="715" y="305">Metabolic Processes</text>
+  <text class="sub" x="715" y="325">Generate material conditions</text>
+
+  <!-- Bottom node -->
+  <rect class="node" x="310" y="435" width="280" height="70" rx="14"/>
+  <text class="label" x="450" y="465">Regulatory Processes</text>
+  <text class="sub" x="450" y="485">Modulate activity relative to viability</text>
+
+  <!-- Left node -->
+  <rect class="node" x="60" y="275" width="250" height="70" rx="14"/>
+  <text class="label" x="185" y="305">Boundary Conditions</text>
+  <text class="sub" x="185" y="325">Maintain system/environment distinction</text>
+
+  <text class="footer" x="450" y="555">Living systems persist by regenerating the constraints that make their own activity possible</text>
+</svg>
