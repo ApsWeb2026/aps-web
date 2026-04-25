@@ -1,60 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
-  <title id="title">Social Systems as Organised Persistence in APS</title>
-  <desc id="desc">A diagram showing norms, institutions, culture, and economic organisation as interdependent dimensions of organised persistence across social systems.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <style>
+    .title { font: 600 24px system-ui, sans-serif; fill: #2f3e46; }
+    .subtitle { font: 400 14px system-ui, sans-serif; fill: #6b7c85; }
+    .node { fill: #f9fbfc; stroke: #94a3ad; stroke-width: 1.5; }
+    .centre { fill: #f1f5f7; stroke: #5f7380; stroke-width: 1.8; }
+    .label { font: 600 16px system-ui, sans-serif; fill: #2f3e46; text-anchor: middle; }
+    .sub { font: 400 13px system-ui, sans-serif; fill: #6b7c85; text-anchor: middle; }
+    .line { stroke: #b0bcc5; stroke-width: 1.5; fill: none; }
+    .footer { font: 400 13px system-ui, sans-serif; fill: #6b7c85; text-anchor: middle; }
+  </style>
 
-  <defs>
-    <style>
-      .bg { fill: #ffffff; }
-      .title { font: 700 28px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2933; }
-      .subtitle { font: 400 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #52606d; }
-      .node { fill: #f7f9fb; stroke: #52606d; stroke-width: 2; }
-      .centre { fill: #eef3f7; stroke: #2f4858; stroke-width: 2.5; }
-      .label { font: 700 18px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #1f2933; text-anchor: middle; }
-      .sub { font: 400 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #52606d; text-anchor: middle; }
-      .line { stroke: #9aa5b1; stroke-width: 2; fill: none; }
-      .footer { font: 400 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #52606d; text-anchor: middle; }
-    </style>
-  </defs>
+  <!-- Title -->
+  <text class="title" x="450" y="50" text-anchor="middle">
+    Social Systems as Organised Persistence in APS
+  </text>
+  <text class="subtitle" x="450" y="75" text-anchor="middle">
+    Interdependent dimensions of social organisation
+  </text>
 
-  <rect class="bg" width="900" height="620"/>
-
-  <text class="title" x="450" y="56" text-anchor="middle">Social Systems as Organised Persistence in APS</text>
-  <text class="subtitle" x="450" y="86" text-anchor="middle">Distinct but interdependent dimensions of social organisation</text>
-
-  <!-- Connecting loop -->
-  <path class="line" d="M450 150 L680 285 L450 430 L220 285 Z"/>
+  <!-- Connections -->
+  <path class="line" d="M450 150 L670 290 L450 430 L230 290 Z"/>
   <line class="line" x1="450" y1="290" x2="450" y2="150"/>
-  <line class="line" x1="450" y1="290" x2="680" y2="285"/>
+  <line class="line" x1="450" y1="290" x2="670" y2="290"/>
   <line class="line" x1="450" y1="290" x2="450" y2="430"/>
-  <line class="line" x1="450" y1="290" x2="220" y2="285"/>
+  <line class="line" x1="450" y1="290" x2="230" y2="290"/>
 
   <!-- Centre -->
-  <rect class="centre" x="310" y="235" width="280" height="110" rx="22"/>
-  <text class="label" x="450" y="278">Organised Persistence</text>
-  <text class="sub" x="450" y="305">Social systems sustained</text>
-  <text class="sub" x="450" y="326">across time and scale</text>
+  <rect class="centre" x="320" y="240" width="260" height="100" rx="18"/>
+  <text class="label" x="450" y="275">Organised Persistence</text>
+  <text class="sub" x="450" y="300">Sustained across time and scale</text>
 
-  <!-- Top node -->
-  <rect class="node" x="315" y="115" width="270" height="80" rx="18"/>
+  <!-- Culture -->
+  <rect class="node" x="320" y="120" width="260" height="70" rx="14"/>
   <text class="label" x="450" y="150">Culture</text>
-  <text class="sub" x="450" y="174">Extension across time</text>
+  <text class="sub" x="450" y="170">Extension across time</text>
 
-  <!-- Left node -->
-  <rect class="node" x="85" y="245" width="270" height="80" rx="18"/>
-  <text class="label" x="220" y="280">Norms</text>
-  <text class="sub" x="220" y="304">Regulation of activity</text>
+  <!-- Norms -->
+  <rect class="node" x="110" y="260" width="240" height="70" rx="14"/>
+  <text class="label" x="230" y="290">Norms</text>
+  <text class="sub" x="230" y="310">Regulation of activity</text>
 
-  <!-- Right node -->
-  <rect class="node" x="545" y="245" width="270" height="80" rx="18"/>
-  <text class="label" x="680" y="280">Economic Organisation</text>
-  <text class="sub" x="680" y="304">Management of viability conditions</text>
+  <!-- Economics -->
+  <rect class="node" x="550" y="260" width="240" height="70" rx="14"/>
+  <text class="label" x="670" y="290">Economic Organisation</text>
+  <text class="sub" x="670" y="310">Viability conditions</text>
 
-  <!-- Bottom node -->
-  <rect class="node" x="315" y="395" width="270" height="80" rx="18"/>
+  <!-- Institutions -->
+  <rect class="node" x="320" y="400" width="260" height="70" rx="14"/>
   <text class="label" x="450" y="430">Institutions</text>
-  <text class="sub" x="450" y="454">Stabilisation of constraints</text>
+  <text class="sub" x="450" y="450">Stabilisation of constraints</text>
 
-  <!-- Scale note -->
-  <text class="footer" x="450" y="535">Processes operating across interacting temporal and organisational scales</text>
-  <text class="footer" x="450" y="560">Grounded in viability-oriented, constraint-based organisation</text>
+  <!-- Footer -->
+  <text class="footer" x="450" y="530">
+    Processes operating across interacting temporal and organisational scales
+  </text>
 </svg>
