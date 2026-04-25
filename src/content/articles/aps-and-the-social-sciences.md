@@ -88,7 +88,7 @@ Within the APS account of social systems, three interdependent processes organis
 
 These are not separate levels, but coordinated dimensions of multiscale organisation.
 
-Together, they organise the persistence of social systems across time and scale.
+Together, they organise the persistence of social systems across time and scale. These components—norms, institutions, culture, and economic organisation—can be understood as distinct but interdependent dimensions of organised persistence across social systems.
 
 
 ## Meaning, Normativity, and Social Organisation
