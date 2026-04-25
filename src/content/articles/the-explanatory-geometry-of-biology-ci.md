@@ -57,6 +57,8 @@ APS does not resolve this by redefining terms arbitrarily. Instead, it specifies
 
 This transforms explanation from a loose assemblage of concepts into a constrained grammar. Concepts are not free-floating descriptors, but elements whose meaning is determined by their role within an organised explanatory structure.
 
+[[box:aps-box-what-is-explanatory-grammar]]
+
 ## Constraint and coherence in biological explanation
 
 In many conceptual systems, adding more content expands the range of possible interpretations. Biological explanation can then become increasingly complex without becoming clearer.
