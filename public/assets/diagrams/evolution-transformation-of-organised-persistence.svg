@@ -1,59 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
   <style>
-    .title { font: 600 24px system-ui, sans-serif; fill: #2f3e46; }
-    .subtitle { font: 400 14px system-ui, sans-serif; fill: #6b7c85; }
-    .node { fill: #f9fbfc; stroke: #94a3ad; stroke-width: 1.5; }
-    .centre { fill: #f1f5f7; stroke: #5f7380; stroke-width: 1.8; }
-    .label { font: 600 16px system-ui, sans-serif; fill: #2f3e46; text-anchor: middle; }
-    .sub { font: 400 13px system-ui, sans-serif; fill: #6b7c85; text-anchor: middle; }
-    .line { stroke: #b0bcc5; stroke-width: 1.5; fill: none; }
-    .arrow { fill: #b0bcc5; }
-    .footer { font: 400 13px system-ui, sans-serif; fill: #6b7c85; text-anchor: middle; }
+    .title { font: 600 24px system-ui, sans-serif; fill: #243642; }
+    .subtitle { font: 400 14px system-ui, sans-serif; fill: #48616f; }
+    .box { fill: #f8fafb; stroke: #5f7380; stroke-width: 1.8; }
+    .label { font: 600 18px system-ui, sans-serif; fill: #1f2f38; text-anchor: middle; }
+    .sub { font: 400 14px system-ui, sans-serif; fill: #1f2f38; text-anchor: middle; }
+    .flow { font: italic 400 14px system-ui, sans-serif; fill: #48616f; text-anchor: middle; }
+    .line { stroke: #7f96a3; stroke-width: 2; fill: none; }
+    .arrow { fill: #7f96a3; }
+    .footer { font: 400 14px system-ui, sans-serif; fill: #48616f; text-anchor: middle; }
   </style>
 
   <defs>
-    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path class="arrow" d="M0,0 L6,3 L0,6 Z"/>
+    <marker id="arrowhead" markerWidth="12" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path class="arrow" d="M0,0 L10,5 L0,10 Z"/>
     </marker>
   </defs>
 
   <!-- Title -->
-  <text class="title" x="450" y="50" text-anchor="middle">
+  <text class="title" x="450" y="115" text-anchor="middle">
     Evolution as the Transformation of Organised Persistence
   </text>
-  <text class="subtitle" x="450" y="75" text-anchor="middle">
+  <text class="subtitle" x="450" y="145" text-anchor="middle">
     Viability-oriented organisation is maintained and modified across generations
   </text>
 
-  <!-- Arrows between systems -->
-  <line class="line" x1="250" y1="300" x2="400" y2="300" marker-end="url(#arrowhead)"/>
-  <line class="line" x1="500" y1="300" x2="650" y2="300" marker-end="url(#arrowhead)"/>
+  <!-- System boxes -->
+  <rect class="box" x="80" y="250" width="240" height="120" rx="18"/>
+  <text class="label" x="200" y="290">System (t₁)</text>
+  <text class="sub" x="200" y="320">Constraint-closed</text>
+  <text class="sub" x="200" y="345">viable organisation</text>
 
-  <!-- System t1 -->
-  <rect class="centre" x="150" y="250" width="200" height="100" rx="18"/>
-  <text class="label" x="250" y="285">System (t₁)</text>
-  <text class="sub" x="250" y="310">Constraint-closed</text>
-  <text class="sub" x="250" y="330">viable organisation</text>
+  <rect class="box" x="330" y="250" width="240" height="120" rx="18"/>
+  <text class="label" x="450" y="290">System (t₂)</text>
+  <text class="sub" x="450" y="320">Modified organisation</text>
+  <text class="sub" x="450" y="345">maintained viability</text>
 
-  <!-- System t2 -->
-  <rect class="centre" x="350" y="250" width="200" height="100" rx="18"/>
-  <text class="label" x="450" y="285">System (t₂)</text>
-  <text class="sub" x="450" y="310">Modified organisation</text>
-  <text class="sub" x="450" y="330">maintained viability</text>
+  <rect class="box" x="580" y="250" width="240" height="120" rx="18"/>
+  <text class="label" x="700" y="290">System (t₃)</text>
+  <text class="sub" x="700" y="320">Transformed organisation</text>
+  <text class="sub" x="700" y="345">differential persistence</text>
 
-  <!-- System t3 -->
-  <rect class="centre" x="550" y="250" width="200" height="100" rx="18"/>
-  <text class="label" x="650" y="285">System (t₃)</text>
-  <text class="sub" x="650" y="310">Transformed organisation</text>
-  <text class="sub" x="650" y="330">differential persistence</text>
+  <!-- Arrows (clear gap from boxes, centred vertically) -->
+  <line class="line" x1="325" y1="310" x2="345" y2="310" marker-end="url(#arrowhead)"/>
+  <line class="line" x1="575" y1="310" x2="595" y2="310" marker-end="url(#arrowhead)"/>
 
-  <!-- Bottom processes -->
-  <text class="sub" x="250" y="400">Variation</text>
-  <text class="sub" x="450" y="400">Differential persistence</text>
-  <text class="sub" x="650" y="400">Transformation</text>
+  <!-- Flow labels (positioned ABOVE arrows, not overlapping) -->
+  <text class="flow" x="335" y="280">Variation</text>
 
-  <!-- Footer -->
+  <text class="flow" x="585" y="270">Differential</text>
+  <text class="flow" x="585" y="290">persistence</text>
+
+  <!-- Bottom labels -->
+  <text class="flow" x="200" y="415">Variation</text>
+  <text class="flow" x="450" y="415">Differential persistence</text>
+  <text class="flow" x="700" y="415">Transformation</text>
+
+  <!-- Footer (raised slightly) -->
+  <text class="footer" x="450" y="495">
+    Evolution is not change in traits alone,
+  </text>
   <text class="footer" x="450" y="520">
-    Evolution is not change in traits alone, but transformation of viability-oriented organisation
+    but transformation of viability-oriented organisation
   </text>
 </svg>
