@@ -51,6 +51,8 @@ In APS terms, cognition is the structured organisation of semiosis within viabil
 
 This formulation avoids mentalism while preserving the genuine organisational features that make cognition possible.
 
+[[box:aps-box-normativity-without-mind]]
+
 ## 4. Rethinking Basal Cognition
 
 Basal cognition has often been framed as a primitive or minimal form of mind. APS reframes it differently.
