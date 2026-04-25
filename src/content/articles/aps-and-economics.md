@@ -19,11 +19,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-the-social-sciences
   - aps-and-institutions
-  - aps-and-norms
-  - aps-and-culture
-  - environment-coupling-and-biological-agency
-  - explanatory-grammar
-  - why-aps-is-not-hierarchical
 ---
 
 ## Introduction: What Is Economics?
@@ -42,7 +37,9 @@ APS approaches economics through the explanatory grammar of Agency, Process, and
 
 In APS terms, economic systems organise the constraints through which viability is produced, distributed, and maintained across social scales.
 
----
+This analysis is situated within the broader discussion in [APS and the Social Sciences](/articles/aps-and-the-social-sciences/).
+
+This analysis does not assume that social systems are biological in a literal sense, but examines whether economic organisation exhibits forms of organised persistence analogous to those identified in biological systems.
 
 ## Beyond Rational Choice and Markets
 
@@ -66,13 +63,11 @@ Economics is not primarily about choice—it is about the organisation of viabil
 
 [[box:aps-box-hierarchy-vs-scale]]
 
----
-
 ## Economic Systems as Organised Constraint Management
 
 APS treats economic systems as processes that manage constraints across scales.
 
-Resources are not merely objects of exchange. They are conditions for the continuation of organised activity.
+Resources are not merely objects of exchange. They are conditions for the continuation of organised activity. The conditions under which such constraint-based organisation contributes to persistence are developed in [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/).
 
 Economic organisation:
 
@@ -83,8 +78,6 @@ Economic organisation:
 In this sense, economic systems contribute directly to constraint closure at the social scale. They help maintain the conditions under which coordinated activity remains viable.
 
 In APS terms, economics functions as the organisation of viability conditions: it manages the constraints through which coordinated activity can be sustained across time and scale.
-
----
 
 ## Agency and Economic Activity
 
@@ -103,8 +96,6 @@ Economic activity is part of viability-oriented agency distributed across scales
 
 Agency is neither fully autonomous nor fully determined. It is enacted within organised processes that shape and are shaped by activity.
 
----
-
 ## Normativity and Economic Regulation
 
 Economic systems are not normatively neutral.
@@ -120,13 +111,11 @@ This does not require explicit moral evaluation. It reflects the organised diffe
 
 Economic norms—prices, expectations, practices—function as regulatory patterns within this system.
 
----
-
 ## Institutions, Norms, and Economic Coordination
 
 Economic systems do not operate independently of the core processes identified in APS social organisation. They emerge through the integration of norms, institutions, and culture.
 
-- Norms guide transactions and expectations in real time  
+- Norms guide transactions and expectations in real time. The regulatory role of norms is examined further in [APS and Norms](/articles/aps-and-norms/). 
 - Institutions stabilise systems of exchange and production  
 - Culture transmits economic practices and patterns across time  
 
@@ -137,8 +126,6 @@ Within the APS framework:
 - Culture extends persistence across time  
 
 Economic organisation is therefore a coordinated expression of these processes across scales.
-
----
 
 ## Persistence, Transformation, and Economic Dynamics
 
@@ -158,8 +145,6 @@ APS understands this as reorganisation within constraint-managed persistence:
 
 Economic change is therefore transformation within organised processes.
 
----
-
 ## Scale and Economic Organisation
 
 Economic systems operate across multiple scales:
@@ -175,8 +160,6 @@ These are interdependent processes.
 
 APS treats this as a problem of scale integration, not level separation.
 
----
-
 ## What APS Changes in Economic Analysis
 
 APS does not discard existing economic theories. It reframes them within a unified explanatory grammar.
@@ -189,8 +172,6 @@ It suggests that economic analysis should focus on:
 - How agency operates within economic systems  
 
 This shifts the emphasis from abstract optimisation to organised, viability-oriented processes.
-
----
 
 ## Conclusion: Economics as the Organisation of Viability
 
@@ -210,7 +191,7 @@ Within the APS framework:
 
 Together, these processes organise viability across social systems.
 
----
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
 
 ## Key Points
 
