@@ -15,18 +15,17 @@ seeAlso:
   - mattering
 ---
 
-## Conventional framing
-
+### Conventional framing
 Normativity is often understood as a system of values, judgements, or externally imposed standards, or as dependent on cognitive capacities such as intention, representation, or evaluation. In biological contexts, it is sometimes treated metaphorically, as if organisms “prefer” certain states or “aim” at particular outcomes.
 
 ## APS reframing
+In APS, biological normativity arises from the viability-oriented organisation of living systems. Because a system must continuously maintain the conditions of its own persistence, differences in internal states and environmental conditions are not neutral but are asymmetrically related to its continued existence.
 
-In APS, biological normativity arises from the precarious organisation of living systems as they sustain themselves over time. Because a system must continuously maintain the conditions of its own persistence, differences in internal states and environmental conditions are not neutral but are asymmetrically related to the system’s continued persistence.
+Normativity therefore refers to this intrinsic evaluative asymmetry: some states and processes support persistence, while others undermine it. This distinction is not imposed externally but follows directly from the organisation of the system itself.
 
-Normativity is therefore endogenously enacted as the organised regulation of activity relative to viability. A process is normative insofar as it makes a difference to the system’s continued coherence—by supporting, restoring, or degrading the conditions under which its organisation can persist. This grounding does not require intention, representation, or experience; it follows directly from viability-oriented, constraint-closed organisation.
+Normativity does not name a particular activity, but the evaluative frame within which activity is organised. Persistence is the activity through which organisation is maintained; viability specifies the conditions under which it can be sustained; normativity defines the difference between conditions that support or undermine this process.
 
-Normativity therefore mediates between the organisation of the whole and the activity of its parts. The viability-oriented organisation of the system defines what counts as success or failure, and this evaluative structure determines whether the contributions of particular processes are functional. In this way, normativity links purpose and function: it specifies the conditions under which the operations of components sustain or undermine the persistence of the system as a whole.
+Normativity therefore grounds both function and purpose. It determines whether the contributions of particular processes count as functional, and whether the organisation of activity as a whole successfully sustains the system’s continued existence.
 
 ## Key Point
-
-Normativity is the viability-relative asymmetry through which processes sustain or undermine the persistence of living systems.
+Normativity is the intrinsic evaluative asymmetry through which conditions and processes are differentiated relative to the persistence of a system.
