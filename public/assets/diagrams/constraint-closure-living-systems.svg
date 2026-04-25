@@ -17,14 +17,15 @@
     </marker>
   </defs>
 
+  <!-- Title -->
   <text class="title" x="450" y="50" text-anchor="middle">Constraint Closure in Living Systems</text>
-  <text class="subtitle" x="450" y="75" text-anchor="middle">Processes maintain the constraints that enable processes to continue</text>
+  <text class="subtitle" x="450" y="75" text-anchor="middle">Processes regenerate the constraints that make continued activity possible</text>
 
   <!-- Recursive loop -->
-  <path class="line" marker-end="url(#arrowhead)" d="M450 150 C610 150 725 260 720 310"/>
-  <path class="line" marker-end="url(#arrowhead)" d="M720 310 C720 470 575 510 500 450"/>
-  <path class="line" marker-end="url(#arrowhead)" d="M400 450 C260 510 180 410 180 310"/>
-  <path class="line" marker-end="url(#arrowhead)" d="M180 310 C175 190 305 150 450 150"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M450 150 C620 145 735 250 735 310"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M735 310 C735 470 585 515 505 455"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M395 455 C250 515 165 420 165 310"/>
+  <path class="line" marker-end="url(#arrowhead)" d="M165 310 C165 190 300 145 450 150"/>
 
   <!-- Centre -->
   <rect class="centre" x="300" y="255" width="300" height="105" rx="18"/>
@@ -33,24 +34,26 @@
   <text class="sub" x="450" y="338">sustain one another</text>
 
   <!-- Top node -->
-  <rect class="node" x="310" y="115" width="280" height="70" rx="14"/>
-  <text class="label" x="450" y="145">Structural Constraints</text>
-  <text class="sub" x="450" y="165">Channel and stabilise processes</text>
+  <rect class="node" x="310" y="110" width="280" height="75" rx="14"/>
+  <text class="label" x="450" y="143">Structural Constraints</text>
+  <text class="sub" x="450" y="165">Channel and stabilise activity</text>
 
   <!-- Right node -->
-  <rect class="node" x="590" y="275" width="250" height="70" rx="14"/>
-  <text class="label" x="715" y="305">Metabolic Processes</text>
-  <text class="sub" x="715" y="325">Generate material conditions</text>
+  <rect class="node" x="590" y="275" width="250" height="75" rx="14"/>
+  <text class="label" x="715" y="308">Metabolic Processes</text>
+  <text class="sub" x="715" y="330">Generate material conditions</text>
 
   <!-- Bottom node -->
-  <rect class="node" x="310" y="435" width="280" height="70" rx="14"/>
-  <text class="label" x="450" y="465">Regulatory Processes</text>
-  <text class="sub" x="450" y="485">Modulate activity relative to viability</text>
+  <rect class="node" x="310" y="435" width="280" height="75" rx="14"/>
+  <text class="label" x="450" y="468">Regulatory Processes</text>
+  <text class="sub" x="450" y="490">Modulate activity relative to viability</text>
 
   <!-- Left node -->
-  <rect class="node" x="60" y="275" width="250" height="70" rx="14"/>
-  <text class="label" x="185" y="305">Boundary Conditions</text>
-  <text class="sub" x="185" y="325">Maintain system/environment distinction</text>
+  <rect class="node" x="60" y="275" width="250" height="75" rx="14"/>
+  <text class="label" x="185" y="308">Boundary Conditions</text>
+  <text class="sub" x="185" y="330">Maintain system/environment distinction</text>
 
-  <text class="footer" x="450" y="555">Living systems persist by regenerating the constraints that make their own activity possible</text>
+  <!-- Footer -->
+  <text class="footer" x="450" y="540">Living systems persist by regenerating the constraints</text>
+  <text class="footer" x="450" y="563">that make their own activity possible</text>
 </svg>
