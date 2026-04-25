@@ -19,11 +19,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-the-social-sciences
   - aps-and-institutions
-  - aps-and-norms
-  - aps-and-economics
-  - explanatory-grammar
-  - cognition-from-life-to-mind-continuity-without-mentalism
-  - why-aps-is-not-hierarchical
 ---
 
 ## Introduction: What Is Culture?
@@ -40,7 +35,9 @@ APS approaches culture not as a separate domain, but as a process of organised p
 
 APS approaches culture through the explanatory grammar of Agency, Process, and Scale, treating it as a component of multiscale organisation that extends coordinated activity beyond immediate interaction.
 
----
+This analysis is situated within the broader discussion in [APS and the Social Sciences](/articles/aps-and-the-social-sciences/).
+
+This analysis does not assume that social systems are biological in a literal sense, but examines whether cultural processes exhibit forms of organised persistence analogous to those identified in biological systems.
 
 ## Beyond Symbols and Meaning
 
@@ -64,8 +61,6 @@ Culture is not a domain separate from activity—it is the temporal extension of
 
 [[box:aps-box-hierarchy-vs-scale]]
 
----
-
 ## Culture as Extended Coordination
 
 APS understands culture as the extension of coordination across time and scale.
@@ -76,6 +71,8 @@ Within the APS account of social systems:
 - Institutions stabilise constraint structures  
 - Culture extends persistence across time  
 
+The conditions under which such extended coordination contributes to organised persistence are developed in [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/).
+
 Culture therefore functions as:
 
 - A medium of transmission  
@@ -84,21 +81,17 @@ Culture therefore functions as:
 
 It enables social systems to persist beyond the lifespan of individual agents.
 
----
-
 ## Culture, Norms, and Institutions
 
 Culture does not operate independently of norms and institutions.
 
 These form a coordinated system of social organisation:
 
-- Norms provide fine-grained regulation of interaction  
+- Norms provide fine-grained regulation of interaction. The regulatory role of norms is examined further in [APS and Norms](/articles/aps-and-norms/). 
 - Institutions stabilise these regulatory patterns into enduring constraints  
 - Culture extends, transmits, and reconfigures these patterns across time  
 
 Together, these processes organise the persistence of social systems across scales.
-
----
 
 ## Persistence, Inheritance, and Transformation
 
@@ -118,8 +111,6 @@ This includes not only symbolic content but also:
 
 Culture is therefore a central mechanism through which social systems maintain continuity while remaining open to change.
 
----
-
 ## Agency and Cultural Reproduction
 
 Culture is not an autonomous structure acting on passive individuals.
@@ -136,8 +127,6 @@ This relation is reciprocal:
 
 APS treats this as a feature of multiscale organisation, not as a hierarchy.
 
----
-
 ## Scale and Cultural Organisation
 
 Culture operates across extended timescales:
@@ -153,8 +142,6 @@ These are interdependent processes.
 
 APS treats culture as the integration of these temporal dynamics within organised systems.
 
----
-
 ## What APS Changes in the Study of Culture
 
 APS does not replace existing cultural theories. It reframes them within a unified explanatory grammar.
@@ -167,8 +154,6 @@ It suggests that cultural analysis should focus on:
 - How agency and organisation interact across scales  
 
 This shifts the emphasis from symbolic interpretation alone to organised, viability-oriented processes.
-
----
 
 ## Conclusion: Culture as Temporal Organisation
 
@@ -188,7 +173,7 @@ Within the APS framework:
 
 Together, they organise the continuity of social systems across scales.
 
----
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
 
 ## Key Points
 
