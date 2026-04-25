@@ -19,10 +19,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-the-social-sciences
   - aps-and-institutions
-  - aps-and-culture
-  - aps-and-economics
-  - explanatory-grammar
-  - why-aps-is-not-hierarchical
 ---
 
 ## Introduction: What Is a Norm?
@@ -38,6 +34,10 @@ Yet this leaves a deeper question unresolved:
 APS approaches norms not as beliefs or prescriptions, but as regulatory patterns within organised activity. It asks how norms function in stabilising interaction across time.
 
 APS approaches norms through the explanatory grammar of Agency, Process, and Scale, treating them as components of multiscale organisation that regulate activity relative to viability.
+
+This analysis is situated within the broader discussion in [APS and the Social Sciences](/articles/aps-and-the-social-sciences/).
+
+This analysis does not assume that social systems are biological in a literal sense, but examines whether normative structures exhibit forms of organised persistence analogous to those identified in biological systems.
 
 ---
 
@@ -69,7 +69,7 @@ Norms are not things people follow—they are patterns that shape and are reprod
 
 APS understands norms in functional terms.
 
-Norms regulate interaction by differentiating between patterns that sustain organised activity and those that disrupt it.
+Norms regulate interaction by differentiating between patterns that sustain organised activity and those that disrupt it. The conditions under which such regulation contributes to organised persistence are developed in [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/).
 
 They function as:
 
@@ -118,7 +118,7 @@ This relation is not hierarchical but emerges from multiscale organisation.
 
 Norms and institutions are closely related but perform distinct roles within social organisation.
 
-Norms provide the fine-grained regulation of interaction, guiding behaviour in real time. Institutions stabilise these regulatory patterns into enduring constraint structures across longer timescales. Culture extends these patterns across time.
+Norms provide the fine-grained regulation of interaction, guiding behaviour in real time. Institutions stabilise these regulatory patterns into enduring constraint structures across longer timescales. Culture extends these patterns across time. The role of institutions in stabilising such patterns is examined further in [APS and Institutions](/articles/aps-and-institutions/).
 
 Within the APS framework:
 
@@ -196,6 +196,8 @@ Within the APS framework:
 - Culture extends persistence across time  
 
 Together, they organise the continuity of social systems across scales.
+
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
 
 ---
 
