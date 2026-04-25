@@ -79,6 +79,10 @@ If explanation depends on the organisation of agency, process, and scale, then i
 
 This provides a basis for empirical investigation that is not limited to component-level intervention, but extends to the organisation of constraints and their contribution to system persistence.
 
+![Diagram showing constraint closure in living systems as reciprocal maintenance between processes and constraints](/assets/diagrams/constraint-closure-living-systems.svg)
+
+*Figure: Constraint closure describes the recursive organisation through which living processes maintain the constraints that enable their own continuation.*
+
 ## Unifying biological domains
 
 Because the same explanatory structure applies across contexts, APS provides a unifying framework for biology.
