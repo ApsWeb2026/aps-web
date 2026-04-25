@@ -19,10 +19,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-the-social-sciences
   - aps-and-norms
-  - aps-and-culture
-  - aps-and-economics
-  - explanatory-grammar
-  - why-aps-is-not-hierarchical
 ---
 
 ## Introduction: What Is an Institution?
@@ -39,7 +35,9 @@ APS approaches institutions not as static entities, but as **processes within or
 
 Building on *APS and the Social Sciences*, institutions are understood through the explanatory grammar of **Agency, Process, and Scale**, as components of multiscale organisation that stabilise the conditions required for social continuity.
 
----
+This analysis is situated within the broader discussion in [APS and the Social Sciences](/articles/aps-and-the-social-sciences/).
+
+This analysis does not assume that social systems are biological in a literal sense, but examines whether institutional structures exhibit forms of organised persistence analogous to those identified in biological systems.
 
 ## Beyond Rules and Structures
 
@@ -61,13 +59,11 @@ Institutions are not things that exist independently of activity—they are **pa
 
 [[box:aps-box-hierarchy-vs-scale]]
 
----
-
 ## Institutions as Constraint-Stabilising Processes
 
 APS treats constraints as central to organisation.
 
-Constraints do not simply limit behaviour. They enable specific forms of activity by shaping what is possible within a system.
+Constraints do not simply limit behaviour. They enable specific forms of activity by shaping what is possible within a system. The conditions under which such constraint-based organisation contributes to persistence are developed in [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/).
 
 Institutions operate at this level.
 
@@ -79,7 +75,6 @@ They are processes that:
 
 In this sense, institutions contribute directly to **constraint closure at the social scale**. They help maintain the conditions under which coordinated activity remains viable.
 
----
 
 ## Agency and Institutional Dynamics
 
@@ -99,8 +94,6 @@ Agency and institutions are therefore mutually constitutive:
 
 This relationship is not hierarchical, but emerges from multiscale organisation.
 
----
-
 ## Institutions, Norms, and Culture
 
 Institutions do not operate in isolation. They are part of a coordinated system of social organisation.
@@ -111,11 +104,9 @@ Within the APS framework:
 - Institutions stabilise constraint structures  
 - Culture extends persistence across time  
 
-Norms provide the fine-grained regulation of interaction. Institutions stabilise these patterns into durable forms. Culture transmits and transforms them across generations.
+Norms provide the fine-grained regulation of interaction. The regulatory role of norms is examined further in [APS and Norms](/articles/aps-and-norms/). Institutions stabilise these patterns into durable forms. Culture transmits and transforms them across generations.
 
 Together, these processes organise the persistence of social systems across scales.
-
----
 
 ## Normativity and Institutional Stability
 
@@ -129,8 +120,6 @@ APS understands this as **normativity expressed at the social scale**:
 - Patterns that undermine coordination are suppressed or transformed  
 
 Institutional norms—formal and informal—function as regulators of what counts as viable behaviour within a system.
-
----
 
 ## Persistence and Institutional Change
 
@@ -152,8 +141,6 @@ APS understands this as **transformation within organised persistence**:
 
 Institutional change is therefore not external disruption, but **reorganisation within ongoing processes**.
 
----
-
 ## Scale and Institutional Organisation
 
 Institutions operate across multiple timescales:
@@ -169,8 +156,6 @@ These are interdependent processes.
 
 APS treats this as a problem of **scale integration**, not level separation.
 
----
-
 ## What APS Changes in Institutional Analysis
 
 APS does not discard existing theories of institutions. It reframes them within a unified explanatory grammar.
@@ -183,8 +168,6 @@ It suggests that institutional analysis should focus on:
 - How persistence and transformation interact  
 
 This shifts the emphasis from static structures to **dynamic organisation**.
-
----
 
 ## Conclusion: Institutions as Organised Stability
 
@@ -204,7 +187,7 @@ Within the APS framework, institutions are the stabilising dimension of social o
 
 Together, they organise the continuity of social systems across scales.
 
----
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
 
 ## Key Points
 
