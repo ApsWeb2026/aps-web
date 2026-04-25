@@ -39,6 +39,8 @@ APS begins from a different question:
 
 By shifting attention from competing causes to conditions of persistence, APS reorganises the explanatory landscape of the social sciences.
 
+This extension should be understood as an analytical test rather than a generalisation. APS does not assume that social systems are biological in a literal sense, but examines whether they exhibit forms of organised persistence that satisfy the conditions identified in biological systems.
+
 
 ## Beyond Individuals and Structures
 
@@ -58,7 +60,7 @@ Individuals and structures are not competing explanatory primitives. They are in
 Each exists only through the ongoing activity that sustains it.
 
 **Key shift:**  
-Social systems are not collections of entities but organised processes that maintain the conditions of their own persistence.
+Social systems are not collections of entities but organised processes that maintain the conditions of their own persistence. The conditions under which such organisation can be identified are developed in [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/).
 
 [[box:aps-box-hierarchy-vs-scale]]
 
@@ -131,6 +133,8 @@ APS provides a unified explanatory grammar for social systems.
 - Culture extends persistence across time  
 
 This framework also supports domain-specific extensions, such as the analysis of economic systems as processes that organise viability conditions across scales.
+
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
 
 
 ## Key Points
