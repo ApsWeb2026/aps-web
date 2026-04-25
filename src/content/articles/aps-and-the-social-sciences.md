@@ -90,6 +90,10 @@ These are not separate levels, but coordinated dimensions of multiscale organisa
 
 Together, they organise the persistence of social systems across time and scale. These components—norms, institutions, culture, and economic organisation—can be understood as distinct but interdependent dimensions of organised persistence across social systems.
 
+![Diagram showing norms, institutions, culture, and economic organisation as interdependent dimensions of organised persistence in APS](/assets/diagrams/social-systems-organised-persistence.svg)
+
+*Figure: In APS, norms, institutions, culture, and economic organisation are distinct but interdependent dimensions of organised persistence across social systems.*
+
 
 ## Meaning, Normativity, and Social Organisation
 
