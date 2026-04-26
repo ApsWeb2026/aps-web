@@ -1353,21 +1353,10 @@ li {
   hyphens: auto;
 }
 
-/* --- Fix: Article heading scale override --- */
-.article-body h1 {
-  font-size: 1.8rem;
-  font-weight: 600;
-}
-
-.article-body h2 {
-  font-size: 1.4rem;
-  font-weight: 600;
-}
-
-.article-body h3 {
-  font-size: 1.15rem;
-  font-weight: 600;
-}
+/* fallback override */
+.content-wrapper h1 { font-size: 1.8rem; }
+.content-wrapper h2 { font-size: 1.4rem; }
+.content-wrapper h3 { font-size: 1.15rem; }
 
 /* --- Responsive --- */
 @media (max-width: 768px) {
