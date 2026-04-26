@@ -21,6 +21,16 @@ To see how APS develops this framework into a structured account of biological e
 
 → [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
 
+APS begins from a specific understanding of what a living system is.
+
+The diagram below shows the core architecture of living systems as understood in APS.
+
+![The Core Architecture of Living Systems: Organised persistence through viability](/assets/diagrams/aps-core-architecture.svg)
+
+*Living systems are organised processes that recursively maintain the conditions of their own persistence.*
+
+This diagram shows the structure of living systems. The APS framework then specifies how such systems must be explained—through process, agency, and scale.
+
 ## Agency
 
 Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to sustain and regulate the conditions necessary for its continued existence. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
