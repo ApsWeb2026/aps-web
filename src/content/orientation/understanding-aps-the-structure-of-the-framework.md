@@ -29,6 +29,12 @@ For a broader account of how scientific explanation is structured, see **[Explan
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
 
+The diagram below shows how APS organises biological explanation in terms of agency, process, and scale.
+
+![APS explanatory structure: agency, process, and scale](/assets/diagrams/aps-agency-process-scale.svg)
+
+*APS explains biological systems through three inseparable dimensions: agency, process, and scale. These are not separate components or levels, but co-constitutive aspects of a single, viability-maintaining organisation.*
+
 Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to the maintenance of viability.
 
 This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
