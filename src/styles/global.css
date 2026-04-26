@@ -1425,25 +1425,6 @@ li {
   }
 }
 
-/* --- Print --- */
-@media print {
-  .site-nav,
-  .site-footer,
-  .nav-search-btn {
-    display: none;
-  }
-  body {
-    font-size: 11pt;
-  }
-  a {
-    color: var(--color-text);
-    text-decoration: none;
-  }
-  .badge {
-    border: 1px solid #999;
-  }
-}
-
 /* --- Article and glossary heading reset --- */
 .article-body h1,
 .article-body h1 a {
@@ -1470,4 +1451,23 @@ li {
   font-weight: 600;
   color: var(--color-text);
   text-decoration: none;
+}
+
+/* --- Print --- */
+@media print {
+  .site-nav,
+  .site-footer,
+  .nav-search-btn {
+    display: none;
+  }
+  body {
+    font-size: 11pt;
+  }
+  a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  .badge {
+    border: 1px solid #999;
+  }
 }
