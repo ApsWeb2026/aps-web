@@ -53,6 +53,14 @@ Trait lists describe outcomes of living organisation, not its organising princip
 
 [[box:why-trait-lists-fail]]
 
+Life is not best understood as a list of properties or components, but as a form of organisation that maintains the conditions of its own continued existence.
+
+The diagram below shows the core architecture of living systems as understood in APS.
+
+![The Core Architecture of Living Systems: Organised persistence through viability](/images/diagrams/aps-core-architecture.svg)
+
+*Living systems are organised processes that recursively maintain the conditions of their own persistence. Processes generate and sustain organisation; organisation establishes viability; viability defines the norm for agency; agency regulates activity to maintain persistence; and persistence enables the continuation of processes.*
+
 ## Life as Organised Activity
 
 Life is not best understood as a thing, but as an activity.
