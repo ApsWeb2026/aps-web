@@ -66,7 +66,7 @@
 }
 
 html {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1426,30 +1426,22 @@ li {
 }
 
 /* --- Article and glossary heading reset --- */
+
+/* Headings themselves */
 .article-body h1,
-.article-body h1 a {
-  font-size: 1.8rem;
-  line-height: 1.3;
-  font-weight: 600;
-  color: var(--color-text);
-  text-decoration: none;
-}
-
 .article-body h2,
-.article-body h2 a {
-  font-size: 1.4rem;
+.article-body h3 {
+  font-size: inherit;
   line-height: 1.3;
   font-weight: 600;
   color: var(--color-text);
-  text-decoration: none;
 }
 
-.article-body h3,
+/* Links inside headings */
+.article-body h1 a,
+.article-body h2 a,
 .article-body h3 a {
-  font-size: 1.15rem;
-  line-height: 1.3;
-  font-weight: 600;
-  color: var(--color-text);
+  color: var(--color-link);
   text-decoration: none;
 }
 
@@ -1470,4 +1462,27 @@ li {
   .badge {
     border: 1px solid #999;
   }
+}
+
+/* --- FINAL OVERRIDE: heading sizes --- */
+main .article-body h1 {
+  font-size: 1.8rem !important;
+}
+
+main .article-body h2 {
+  font-size: 1.4rem !important;
+}
+
+main .article-body h3 {
+  font-size: 1.15rem !important;
+}
+
+/* --- FINAL OVERRIDE: article heading links --- */
+main .article-body h1 a,
+main .article-body h2 a,
+main .article-body h3 a {
+  color: var(--color-link) !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  text-decoration: none !important;
 }
