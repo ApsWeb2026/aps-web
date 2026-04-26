@@ -25,6 +25,12 @@ In many accounts, evolution is treated as a statistical process: change in gene 
 
 APS approaches evolution differently. It begins not with genes or populations, but with living systems as organised, self-maintaining processes. Evolution does not give rise to these systems; it operates only where such organisation already exists.
 
+The diagram below shows the core architecture of living systems as understood in APS.
+
+![The Core Architecture of Living Systems: Organised persistence through viability](/assets/diagrams/aps-core-architecture.svg)
+
+*Living systems are organised processes that recursively maintain the conditions of their own persistence.*
+
 Evolution in APS is the historical transformation of viability-oriented, constraint-closed biological organisation across generations.
 
 ![Diagram showing evolution in APS as the transformation of viability-oriented, constraint-closed organisation across generations](/assets/diagrams/evolution-transformation-of-organised-persistence.svg)
