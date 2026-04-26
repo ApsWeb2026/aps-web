@@ -1448,30 +1448,12 @@ li {
   }
 }
 
-/* --- Final article heading reset --- */
-.content-wrapper h1,
-.article-body h1 {
-  font-size: 1.8rem;
-  line-height: 1.3;
-  font-weight: 600;
-}
-
-.content-wrapper h2,
-.article-body h2 {
-  font-size: 1.4rem;
-  line-height: 1.3;
-  font-weight: 600;
-  margin-top: var(--spacing-xl);
-  margin-bottom: var(--spacing-md);
-  padding-bottom: var(--spacing-xs);
-  border-bottom: 1px solid var(--color-border-light);
-}
-
-.content-wrapper h3,
-.article-body h3 {
-  font-size: 1.15rem;
-  line-height: 1.3;
-  font-weight: 600;
-  margin-top: var(--spacing-lg);
-  margin-bottom: var(--spacing-sm);
+/* --- FIX: Heading link typography (actual cause) --- */
+.article-body h1 a,
+.article-body h2 a,
+.article-body h3 a {
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: none;
 }
