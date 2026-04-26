@@ -57,7 +57,7 @@ Life is not best understood as a list of properties or components, but as a form
 
 The diagram below shows the core architecture of living systems as understood in APS.
 
-![The Core Architecture of Living Systems: Organised persistence through viability](/images/diagrams/aps-core-architecture.svg)
+![The Core Architecture of Living Systems: Organised persistence through viability](/images/diagrams/core-architecture.svg)
 
 *Living systems are organised processes that recursively maintain the conditions of their own persistence. Processes generate and sustain organisation; organisation establishes viability; viability defines the norm for agency; agency regulates activity to maintain persistence; and persistence enables the continuation of processes.*
 
