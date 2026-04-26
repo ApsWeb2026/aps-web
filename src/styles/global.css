@@ -1353,7 +1353,6 @@ li {
   hyphens: auto;
 }
 
-
 /* --- Responsive --- */
 @media (max-width: 768px) {
   html {
@@ -1425,24 +1424,37 @@ li {
   }
 }
 
-/* --- Article and glossary heading reset --- */
-
-/* Headings themselves */
-.article-body h1,
-.article-body h2,
-.article-body h3 {
-  font-size: inherit;
-  line-height: 1.3;
-  font-weight: 600;
-  color: var(--color-text);
+/* --- FINAL OVERRIDE: article heading style --- */
+main .article-body h1,
+main .article-body h1 a {
+  font-size: 1.55rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
 }
 
-/* Links inside headings */
-.article-body h1 a,
-.article-body h2 a,
-.article-body h3 a {
-  color: var(--color-link);
-  text-decoration: none;
+main .article-body h2,
+main .article-body h2 a {
+  font-size: 1.12rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
+}
+
+main .article-body h3,
+main .article-body h3 a {
+  font-size: 1.02rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
+}
+
+main .article-body h1 a,
+main .article-body h2 a,
+main .article-body h3 a {
+  color: var(--color-link) !important;
+  text-decoration: underline !important;
+  text-decoration-line: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 2px !important;
+  border-bottom: none !important;
 }
 
 /* --- Print --- */
@@ -1464,25 +1476,35 @@ li {
   }
 }
 
-/* --- FINAL OVERRIDE: heading sizes --- */
-main .article-body h1 {
-  font-size: 1.8rem !important;
+/* --- ABSOLUTE FINAL: article heading style --- */
+main .content-wrapper .article-body h1,
+main .content-wrapper .article-body h1 a {
+  font-size: 1.5rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
 }
 
-main .article-body h2 {
-  font-size: 1.4rem !important;
+main .content-wrapper .article-body h2,
+main .content-wrapper .article-body h2 a {
+  font-size: 1.05rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
 }
 
-main .article-body h3 {
-  font-size: 1.15rem !important;
+main .content-wrapper .article-body h3,
+main .content-wrapper .article-body h3 a {
+  font-size: 1rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
 }
 
-/* --- FINAL OVERRIDE: article heading links --- */
-main .article-body h1 a,
-main .article-body h2 a,
-main .article-body h3 a {
+main .content-wrapper .article-body h1 a,
+main .content-wrapper .article-body h2 a,
+main .content-wrapper .article-body h3 a {
   color: var(--color-link) !important;
-  font-size: inherit !important;
-  font-weight: inherit !important;
-  text-decoration: none !important;
+  text-decoration: underline !important;
+  text-decoration-line: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 2px !important;
+  border-bottom: 1px solid var(--color-link) !important;
 }

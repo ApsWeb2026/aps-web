@@ -16,7 +16,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, slug, overview, status, revised, cluster, associatedGlossaryTerms } = entry.data;
+const { title, slug, overview, status, date, revised, cluster, associatedGlossaryTerms } = entry.data;
 
 // Auto-list articles that belong to this stream
 const allArticles = await getCollection('articles');
@@ -43,7 +43,7 @@ const relatedTerms = associatedGlossaryTerms
 
     <header class="page-header">
       <h1 data-pagefind-weight="20">{title}</h1>
-      <PageMeta status={status} type="stream" cluster={cluster} revised={revised} />
+      <PageMeta status={status} type="stream" cluster={cluster} date={date} revised={revised} />
     </header>
 
     <div class="abstract">

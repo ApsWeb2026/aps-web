@@ -6,10 +6,11 @@ interface Props {
   status: 'draft' | 'evolving' | 'canonical';
   type: 'article' | 'glossary' | 'stream' | 'orientation' | 'diagram' | 'box';
   cluster?: string;
+  date?: string;
   revised?: string;
 }
 
-const { status, type, cluster, revised } = Astro.props;
+const { status, type, cluster, date, revised } = Astro.props;
 
 const clusterLabels: Record<string, string> = {
   foundations: 'Foundations of Life',
@@ -32,6 +33,14 @@ const clusterLabels: Record<string, string> = {
         <span class="page-meta-item">
           <a href={`/clusters/${cluster}/`}>{clusterLabels[cluster] || cluster}</a>
         </span>
+      </>
+    )
+  }
+  {
+    date && (
+      <>
+        <span class="page-meta-divider">|</span>
+        <span class="page-meta-item">Created: {date}</span>
       </>
     )
   }
