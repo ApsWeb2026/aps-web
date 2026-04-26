@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">The Core Architecture of Living Systems</title>
+  <desc id="desc">A closed-loop APS diagram showing process, organisation, viability, agency, and persistence as reciprocally linked in the maintenance of living systems.</desc>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="currentColor"/>
+    </marker>
+
+    <style>
+      .aps-svg {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        color: #243042;
+      }
+
+      .title {
+        font-size: 28px;
+        font-weight: 700;
+        fill: currentColor;
+        text-anchor: middle;
+      }
+
+      .subtitle {
+        font-size: 15px;
+        font-weight: 500;
+        fill: #536071;
+        text-anchor: middle;
+      }
+
+      .boundary {
+        fill: none;
+        stroke: #9aa6b2;
+        stroke-width: 2.2;
+        stroke-dasharray: 9 7;
+      }
+
+      .boundary-label {
+        font-size: 15px;
+        font-weight: 650;
+        fill: #536071;
+        text-anchor: middle;
+      }
+
+      .node {
+        fill: #ffffff;
+        stroke: #243042;
+        stroke-width: 2.4;
+      }
+
+      .node-title {
+        font-size: 19px;
+        font-weight: 700;
+        fill: #243042;
+        text-anchor: middle;
+      }
+
+      .node-detail {
+        font-size: 13px;
+        font-weight: 450;
+        fill: #536071;
+        text-anchor: middle;
+      }
+
+      .arrow {
+        fill: none;
+        stroke: #243042;
+        stroke-width: 2.6;
+        marker-end: url(#arrowhead);
+      }
+
+      .edge-label-bg {
+        fill: #ffffff;
+        opacity: 0.95;
+      }
+
+      .edge-label {
+        font-size: 13px;
+        font-weight: 600;
+        fill: #39465a;
+        text-anchor: middle;
+      }
+
+      .centre {
+        fill: #f7f8fa;
+        stroke: #c9d1d9;
+        stroke-width: 1.8;
+      }
+
+      .centre-text {
+        font-size: 15px;
+        font-weight: 650;
+        fill: #243042;
+        text-anchor: middle;
+      }
+
+      .centre-subtext {
+        font-size: 13px;
+        font-weight: 450;
+        fill: #536071;
+        text-anchor: middle;
+      }
+
+      .caption {
+        font-size: 14px;
+        font-weight: 450;
+        fill: #536071;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <g class="aps-svg">
+    <!-- Title -->
+    <text class="title" x="450" y="52">The Core Architecture of Living Systems</text>
+    <text class="subtitle" x="450" y="80">Organised persistence through viability</text>
+
+    <!-- Boundary -->
+    <ellipse class="boundary" cx="450" cy="380" rx="330" ry="265"/>
+    <rect x="268" y="104" width="364" height="28" rx="14" fill="#ffffff" opacity="0.95"/>
+    <text class="boundary-label" x="450" y="124">Constraint-closed, viability-maintaining organisation</text>
+
+    <!-- Arrows: closed loop -->
+    <path class="arrow" d="M 395 176 C 300 196, 220 275, 216 363"/>
+    <path class="arrow" d="M 244 442 C 283 528, 361 586, 450 586"/>
+    <path class="arrow" d="M 540 586 C 628 586, 707 528, 746 442"/>
+    <path class="arrow" d="M 684 363 C 680 275, 600 196, 505 176"/>
+    <path class="arrow" d="M 450 210 C 432 268, 432 317, 450 365"/>
+
+    <!-- Edge labels -->
+    <rect class="edge-label-bg" x="177" y="250" width="150" height="26" rx="13"/>
+    <text class="edge-label" x="252" y="268">generates and maintains</text>
+
+    <rect class="edge-label-bg" x="276" y="548" width="154" height="26" rx="13"/>
+    <text class="edge-label" x="353" y="566">establishes conditions for</text>
+
+    <rect class="edge-label-bg" x="496" y="548" width="120" height="26" rx="13"/>
+    <text class="edge-label" x="556" y="566">defines the norm for</text>
+
+    <rect class="edge-label-bg" x="588" y="250" width="154" height="26" rx="13"/>
+    <text class="edge-label" x="665" y="268">regulates activity to sustain</text>
+
+    <rect class="edge-label-bg" x="372" y="285" width="156" height="26" rx="13"/>
+    <text class="edge-label" x="450" y="303">enables continuation of</text>
+
+    <!-- Centre annotation -->
+    <rect class="centre" x="280" y="336" width="340" height="88" rx="22"/>
+    <text class="centre-text" x="450" y="370">Reciprocal maintenance</text>
+    <text class="centre-subtext" x="450" y="394">of the conditions for continued existence</text>
+
+    <!-- Nodes -->
+    <!-- Process -->
+    <rect class="node" x="340" y="142" width="220" height="78" rx="20"/>
+    <text class="node-title" x="450" y="174">Process</text>
+    <text class="node-detail" x="450" y="198">ongoing material and energetic activity</text>
+
+    <!-- Organisation -->
+    <rect class="node" x="82" y="348" width="250" height="86" rx="20"/>
+    <text class="node-title" x="207" y="382">Organisation</text>
+    <text class="node-detail" x="207" y="406">constraint structure regulating</text>
+    <text class="node-detail" x="207" y="424">and channeling processes</text>
+
+    <!-- Viability -->
+    <rect class="node" x="325" y="578" width="250" height="86" rx="20"/>
+    <text class="node-title" x="450" y="612">Viability</text>
+    <text class="node-detail" x="450" y="636">conditions under which the system</text>
+    <text class="node-detail" x="450" y="654">can continue to exist</text>
+
+    <!-- Agency -->
+    <rect class="node" x="568" y="348" width="250" height="86" rx="20"/>
+    <text class="node-title" x="693" y="382">Agency</text>
+    <text class="node-detail" x="693" y="406">regulated activity relative</text>
+    <text class="node-detail" x="693" y="424">to viability</text>
+
+    <!-- Persistence -->
+    <rect class="node" x="335" y="214" width="230" height="76" rx="20"/>
+    <text class="node-title" x="450" y="246">Persistence</text>
+    <text class="node-detail" x="450" y="270">continued existence through time</text>
+
+    <!-- Caption -->
+    <text class="caption" x="450" y="716">Living systems are organised processes that recursively maintain the conditions of their own persistence.</text>
+  </g>
+</svg>
