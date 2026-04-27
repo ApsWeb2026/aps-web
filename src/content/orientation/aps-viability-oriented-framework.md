@@ -86,7 +86,6 @@ APS does not replace existing biological theories but provides a framework for i
 
 It also provides a basis for distinguishing living systems from non-living ones, for analysing borderline cases, and for extending biological concepts such as agency, cognition, and function beyond traditional boundaries.
 
-For a concise overview, see **[What Is APS? — A One-Page Framework Overview](/orientation/what-is-aps/)**.  
 For a structural account of the framework, see **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)**.  
 For the definition of life, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
