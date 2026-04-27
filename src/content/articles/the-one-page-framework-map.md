@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "The One-Page Framework Map"
 slug: "the-one-page-framework-map"
 abstract: "This article presents a one-page map of the APS framework, showing how its core concepts, explanatory relations, and research pathways fit together in a single orienting structure."
@@ -135,4 +136,5 @@ APS concepts should not be interpreted in isolation. aTerms such as biological a
 
 For an explanation of how APS definitions form an organised system, see:
 - APS as an Organised Conceptual System - Why Definitions Form a System
+
 

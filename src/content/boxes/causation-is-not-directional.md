@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS Box — Causation Is Not Directional
 slug: causation-is-not-directional
 status: canonical

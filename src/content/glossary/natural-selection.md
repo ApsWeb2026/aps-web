@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Natural Selection
 slug: natural-selection
 status: canonical

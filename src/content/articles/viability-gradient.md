@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: The Viability Gradient (VG)
 slug: viability-gradient
 status: canonical

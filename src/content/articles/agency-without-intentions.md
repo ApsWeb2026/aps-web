@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Agency Without Intentions
 slug: biological-agency-without-intentions
 abstract: "This article explains how APS understands biological agency as viability-oriented activity without requiring intention, representation, or mental states."
@@ -20,3 +21,4 @@ A bacterium navigating a chemical gradient satisfies all three conditions. It is
 ## 3. The Intentionality Gradient
 
 Rather than drawing a sharp line between "genuine" agents (those with intentions) and mere mechanisms, APS proposes a gradient. Biological agency at its most minimal involves self-maintenance without representation. More complex forms of biological agency involve increasingly sophisticated forms of environmental coupling, anticipation, and eventually, intentional states.
+

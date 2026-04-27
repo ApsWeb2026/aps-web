@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Representation
 slug: representation
 definition: "In APS, representation is a derived form of cognition in which viability-based evaluation is stabilised and extended across absent or non-immediate conditions."

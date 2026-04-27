@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS and the Free Energy Principle — Organisation and Inference
 slug: aps-and-the-free-energy-principle
 status: canonical

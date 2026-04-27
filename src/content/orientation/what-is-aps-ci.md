@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: What Is APS?
 slug: what-is-aps
 status: canonical

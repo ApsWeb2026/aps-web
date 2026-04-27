@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS Box — Is APS Alive?"
 slug: aps-box-is-aps-alive
 status: canonical
@@ -23,3 +24,4 @@ APS defines life as viability-oriented, constraint-closed organisation. While AP
 APS is therefore best understood as an **externally sustained, constraint-structured system**, not as a biological agent.
 
 **Key Point.** Constraint closure alone is not sufficient for life. Life requires endogenous, viability-oriented activity through which a system sustains its own existence.
+

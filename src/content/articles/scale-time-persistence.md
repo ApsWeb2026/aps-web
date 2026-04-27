@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Scale, Time, and Persistence — Why Life Exists Only in Organised Duration"
 slug: "scale-time-persistence"
 abstract: "This article explains how scale and time are integrated in APS to produce persistence, showing that living systems exist only as organised duration sustained through coordinated activity across spatial and temporal domains."
@@ -115,3 +116,4 @@ This persistence is inherently temporal and spatial. It depends on activity sust
 In APS, life exists only as organised duration: the continuous enactment of viability-oriented, constraint-closed organisation across interacting domains.
 
 Understanding life therefore requires integrating scale and time into a single explanatory framework in which persistence is recognised as an active, ongoing achievement.
+

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS Box — Viability and Persistence"
 slug: viability-and-persistence
 status: canonical

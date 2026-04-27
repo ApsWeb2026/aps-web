@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Biological Individual in APS — The Unit of Viability-Oriented Organisation
 slug: biological-individual-in-aps
 status: canonical

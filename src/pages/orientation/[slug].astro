@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, status, canonical, canonicalLockDate, revised, relatedGlossaryTerms, relatedArticles } = entry.data;
+const { title, status, canonical, canonicalLockDate, date, revised, relatedGlossaryTerms, relatedArticles } = entry.data;
 
 // Normalize display names like "Biological Agency" to slugs like "biological-agency"
 function toSlug(term: string): string {

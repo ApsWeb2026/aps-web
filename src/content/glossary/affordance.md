@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Affordance
 slug: affordance
 definition: "In APS, an affordance is a viability-relevant possibility for action arising through the coupling of an organism and its environment."
@@ -36,3 +37,4 @@ Affordances therefore mediate the transition from physical constraint to biologi
 ## Key Point
 
 Affordances define what is biologically usable—the relational possibilities through which viability-oriented systems sustain their organisation.
+

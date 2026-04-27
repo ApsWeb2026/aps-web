@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "The Explanatory Geometry of Biology — How APS Organises Biological Explanation"
 slug: explanatory-geometry-of-biology
 status: canonical
@@ -108,3 +109,4 @@ The philosophical implications of this explanatory grammar are developed further
 - Additional content increases coherence by reinforcing constraint, rather than expanding interpretive freedom. 
 - APS makes the assumptions of biological explanation explicit, rendering its claims empirically testable. 
 - A single explanatory grammar applies across physiological, evolutionary, and ecological contexts.
+

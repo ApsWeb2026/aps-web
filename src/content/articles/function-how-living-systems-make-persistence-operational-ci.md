@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Function — How Living Systems Make Persistence Operational"
 slug: "function-how-living-systems-make-persistence-operational"
 abstract: "This article explains function in APS as the operational expression of purpose within viability-oriented, constraint-closed biological organisation."

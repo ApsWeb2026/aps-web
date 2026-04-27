@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Teleonomy — Historical Solution and APS Reinterpretation
 slug: teleonomy
 status: canonical

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Cognition
 slug: cognition
 overview: "This research stream explores cognition as a biologically grounded, viability-oriented process distributed across living systems."
@@ -18,3 +19,4 @@ The cognition research stream brings the APS framework into dialogue with contem
 ## Related Work
 
 This stream draws on foundational work in enactivism (Thompson, 2007; Di Paolo, 2005) and applies APS concepts to longstanding problems in philosophy of mind.
+

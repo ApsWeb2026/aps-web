@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Processual Individual in APS
 slug: processual-individual-in-aps
 status: canonical

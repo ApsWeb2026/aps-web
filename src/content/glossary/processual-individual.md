@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Processual Individual
 slug: processual-individual
 status: canonical

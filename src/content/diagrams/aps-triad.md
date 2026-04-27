@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS Triad
 slug: aps-triad
 svgFile: /assets/diagrams/aps-triad.svg
@@ -26,3 +27,4 @@ crossReferences:
 The APS Triad represents the foundational structure of the AgencyÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ProcessÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“Scale framework. The three elements are not independent axes but co-constitutive dimensions: agency is always processual, processes always operate at a scale, and scale is always relative to an agent's organisational closure.
 
 This diagram is referenced throughout the APS corpus as Figure 1 and serves as the visual anchor for the framework's core claim: that these three concepts form an irreducible triad.
+

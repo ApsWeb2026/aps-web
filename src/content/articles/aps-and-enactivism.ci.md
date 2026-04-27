@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS and Enactivism — From Sense-Making to Viability-Oriented Organisation
 slug: aps-and-enactivism
 status: canonical

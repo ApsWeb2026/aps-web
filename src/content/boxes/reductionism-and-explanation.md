@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS Box — Reductionism and Explanation
 slug: reductionism-and-explanation
 status: canonical

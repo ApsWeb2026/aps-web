@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Organism — The Unity of Viability-Oriented Organisation
 slug: organism-the-unity-of-viability-oriented-organisation
 status: canonical

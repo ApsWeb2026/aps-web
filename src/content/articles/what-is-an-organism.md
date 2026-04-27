@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: What Is an Organism?
 slug: what-is-an-organism
 status: canonical

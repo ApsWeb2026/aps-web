@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Causation
 slug: causation
 definition: "Causation refers to the organisation-dependent relations through which processes contribute to the maintenance or transformation of a system’s persistence."
@@ -38,3 +39,4 @@ Understanding causation in this way allows biological explanation to move beyond
 
 ## Key Point
 Causation is not a linear relation between parts, but an organisation-dependent relation among processes that contribute to the persistence of a system.
+

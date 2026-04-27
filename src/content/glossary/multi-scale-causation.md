@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Multi-Scale Causation
 slug: multi-scale-causation
 status: canonical

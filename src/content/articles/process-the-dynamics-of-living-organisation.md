@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Process — The Dynamics of Living Organisation"
 slug: "process-the-dynamics-of-living-biological-organisation"
 abstract: "This article explains process in APS as the dynamic biological organisation through which living systems sustain and transform the constraints that enable their continued viability."
@@ -112,3 +113,4 @@ Living systems are not static structures that undergo change, but ongoing organi
 In APS, process is the dynamic organisation through which living systems sustain and transform the constraints that enable continued viability. It is the temporal enactment of viability-oriented, constraint-closed organisation across interacting scales.
 
 Understanding life therefore requires an explanatory grammar grounded in process—not as change in structure, but as the continuous activity through which organisation persists.
+

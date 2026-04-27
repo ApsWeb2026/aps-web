@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Function
 slug: function
 definition: "Function is the contribution a structure or process makes to the persistence, coherence, or reproduction of a constraint-closed biological system."

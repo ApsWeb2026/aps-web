@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Understanding APS — The Structure of the Framework
 slug: understanding-aps-the-structure-of-the-framework
 status: canonical

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: How to Read APS_WEB
 slug: how-to-read-this-aps-framework-website
 status: canonical
@@ -26,3 +27,4 @@ The most effective way to read the APS Framework is to move between definitions 
 ## Key Point
 
 APS is best understood by moving between definitions and explanations—using the glossary for precision and articles for application within a connected, non-hierarchical framework.
+

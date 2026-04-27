@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Inheritance
 slug: inheritance
 status: canonical

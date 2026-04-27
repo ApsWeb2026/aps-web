@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Temporal Architecture of Persistence, Inheritance, and Transformation"
 slug: "temporal-architecture-of-persistence-inheritance-and-transformation"
 svgFile: "/assets/diagrams/temporal-architecture-of-persistence-inheritance-and-transformation.svg"

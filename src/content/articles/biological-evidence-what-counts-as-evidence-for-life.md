@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Biological Evidence — What Counts as Evidence for Life"
 slug: "biological-evidence-what-counts-as-evidence-for-life"
 abstract: "This article clarifies what counts as evidence for life in the APS framework. It distinguishes definition, diagnosis, and evidence, and shows that biological evidence is not behavioural but organisational—indicating viability-oriented, constraint-closed organisation across scale."

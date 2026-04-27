@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Coupling
 slug: coupling
 definition: "Coupling is the ongoing, processual relation through which organism and environment co-determine the conditions of viability."
@@ -37,3 +38,4 @@ Coupling thus provides the operational basis for understanding how viability-ori
 ## Key Point
 
 Coupling is the constitutive process through which organism and environment are continuously co-constituted within viability-oriented organisation.
+

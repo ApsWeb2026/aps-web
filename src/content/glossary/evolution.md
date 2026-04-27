@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Evolution
 slug: evolution
 definition: "In APS, evolution is the historical transformation of viability-oriented, constraint-closed organisation through which living systems sustain and extend their persistence across generations."
@@ -30,3 +31,4 @@ Evolution transforms not only biological structures but the organisational capac
 ## Key Point
 
 Evolution is the historical transformation of persistence-sustaining, viability-oriented organisation across generations.
+

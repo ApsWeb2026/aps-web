@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS and Economics: How Economic Systems Organise Viability Across Scales"
 slug: aps-and-economics
 status: evolving

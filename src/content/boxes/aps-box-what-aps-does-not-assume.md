@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS Box — What APS Does Not Assume"
 slug: aps-box-what-aps-does-not-assume
 status: canonical
@@ -31,3 +32,4 @@ APS introduces a specific explanatory grammar for biology. It does not rely on a
 APS does not reject these concepts outright, but reinterprets them within a framework grounded in viability-oriented, constraint-closed organisation.
 
 **Key Point.** APS reframes common biological assumptions within a viability-oriented, constraint-closed framework rather than accepting them as explanatory primitives.
+

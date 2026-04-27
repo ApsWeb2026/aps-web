@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Cognition — From Life to Mind: Continuity Without Mentalism"
 slug: "cognition-from-life-to-mind-continuity-without-mentalism"
 abstract: "This article explains cognition in APS as the organised responsiveness of living systems to viability-relevant differences, showing how cognition is continuous with life and elaborated, rather than created, in mind."

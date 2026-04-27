@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Purpose — The Organisation of Viability-Oriented Activity"
 slug: "purpose-the-organisation-of-viability-oriented-activity"
 abstract: "This article explains purpose in APS as the biological organisation of viability-oriented activity, clarifying how biological purposiveness can be understood without invoking external design or mental intention."
@@ -98,3 +99,4 @@ Such interpretations arise when purpose is detached from the constraint-closed b
 ## Key Point
 
 Purpose in APS is not the pursuit of goals, but the inherent orientation of viability within a constraint-closed biological organisation.
+

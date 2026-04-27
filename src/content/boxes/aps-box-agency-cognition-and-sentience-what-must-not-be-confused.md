@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
 slug: aps-box-agency-cognition-and-sentience-what-must-not-be-confused
 status: canonical

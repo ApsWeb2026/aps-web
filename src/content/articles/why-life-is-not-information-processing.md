@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Why Life Is Not Information Processing
 slug: why-life-is-not-information-processing
 status: evolving

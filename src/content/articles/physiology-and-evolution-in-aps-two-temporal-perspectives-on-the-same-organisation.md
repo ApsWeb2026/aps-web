@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Physiology and Evolution in APS — Two Temporal Perspectives on the Same Organisation"
 slug: "physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation"
 abstract: "This article explains how APS integrates physiology and evolution as two temporal perspectives on the same viability-oriented biological organisation, linking present-tense activity with historical transformation."
@@ -141,3 +142,4 @@ Physiology and evolution are therefore not distinct explanatory domains, but tem
 ## Key Point
 
 APS unifies physiology and evolution as temporal perspectives on a single viability-oriented organisation—linking present-time persistence with long-term transformation within a continuous explanatory framework.
+

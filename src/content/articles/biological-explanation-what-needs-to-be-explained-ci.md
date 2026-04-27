@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Biological Explanation — What Needs to Be Explained"
 slug: "biological-explanation-what-needs-to-be-explained"
 abstract: "This article clarifies what makes explanation distinctively biological by arguing that biological inquiry must account not only for how systems behave, but for the viability-oriented biological organisation that makes living systems the kind of systems they are."
@@ -124,3 +125,4 @@ Biology does not simply describe complex systems. It explains systems that susta
 The APS framework identifies viability-oriented, constraint-closed biological organisation as the defining feature of such systems. Biological explanation is therefore the explanation of how this biological organisation is established, maintained, and transformed.
 
 By clarifying what needs to be explained, APS establishes the target of biological explanation and prepares the ground for specifying the structure required to explain it.
+

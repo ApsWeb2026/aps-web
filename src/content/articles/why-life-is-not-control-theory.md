@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Why Life Is Not Control Theory
 slug: why-life-is-not-control-theory
 status: evolving

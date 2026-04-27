@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Normativity
 slug: normativity
 definition: "Normativity is the viability-relative asymmetry through which processes differentially contribute to the persistence of living systems."
@@ -29,3 +30,4 @@ Normativity therefore grounds both function and purpose. It determines whether t
 
 ## Key Point
 Normativity is the intrinsic evaluative asymmetry through which conditions and processes are differentiated relative to the persistence of a system.
+

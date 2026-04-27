@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "What Is Life? — A Biological Question Revisited"
 slug: "what-is-life-a-biological-question-revisited"
 abstract: "This article revisits the question of what life is, arguing within APS that life is best understood as viability-oriented, constraint-closed biological organisation rather than a list of defining properties."
@@ -156,6 +157,7 @@ Most importantly, it makes explicit what biological explanation already presuppo
 Biology increasingly moves away from static, component-based views toward dynamic, organisational ones. Systems biology, developmental biology, theoretical biology, and philosophy all reflect this shift.
 
 The APS framework articulates this convergence in a unified explanatory grammar. It does not replace biology—it clarifies the conceptual structure on which biological explanation already rests.
+
 
 
 

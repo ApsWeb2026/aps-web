@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Cognitive Integration (CI)
 slug: cognitive-integration
 status: canonical

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Time
 slug: time
 definition: "Time in APS is the dimension of organised duration through which viability-oriented organisation is sustained and transformed. It is not a neutral background parameter but the intrinsic medium of persistence, development, and evolution in living systems."

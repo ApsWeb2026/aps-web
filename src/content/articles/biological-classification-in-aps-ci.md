@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Biological Classification in APS — From Categories to Processual Organisation
 slug: biological-classification-in-aps
 status: canonical

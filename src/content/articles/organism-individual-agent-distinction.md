@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Organism, Individual, and Agent — Distinguishing Three Forms of Biological Unity
 slug: organism-individual-agent-distinction
 status: canonical

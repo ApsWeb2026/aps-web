@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Why Life Is Not a Machine
 slug: why-life-is-not-a-machine
 status: evolving

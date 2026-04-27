@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS Box — Coupling Without Control
 slug: coupling-without-control
 status: canonical

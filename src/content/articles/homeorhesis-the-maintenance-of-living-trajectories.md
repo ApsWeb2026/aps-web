@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Homeorhesis — The Maintenance of Living Trajectories"
 slug: "homeorhesis-the-maintenance-of-living-trajectories"
 abstract: "This article explains homeorhesis in APS as the active maintenance of viable developmental and organisational trajectories rather than the preservation of a fixed state."
@@ -135,3 +136,4 @@ Living systems persist not by remaining the same, but by remaining organised thr
 Homeorhesis defines this form of persistence: the maintenance of viable trajectories through ongoing reorganisation.
 
 In APS, homeorhesis is the temporal mode of persistence — the way life sustains itself as conditions change.
+

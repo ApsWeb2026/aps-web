@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Constraint Closure
 slug: constraint-closure
 definition: "Constraint closure is the organisation of mutually sustaining constraints through which a living system maintains its own viability."
@@ -38,4 +39,5 @@ Constraint closure also provides a naturalised account of purposiveness. Because
 ## Key Point
 
 Constraint closure explains how organised persistence is internally sustained; biological agency explains how this organisation is actively modulated in relation to viability.
+
 

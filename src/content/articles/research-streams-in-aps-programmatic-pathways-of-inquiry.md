@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Research Streams in APS — Programmatic Pathways of Inquiry"
 slug: "research-streams-in-aps-programmatic-pathways-of-inquiry"
 abstract: "This article explains the research streams of the APS program as organised pathways of inquiry through which the framework is developed, tested, and extended across biological domains."
@@ -79,3 +80,4 @@ As the framework develops and multiple streams become sufficiently elaborated, t
 ## Key Point
 
 Research streams in APS are cross-cutting, programmatic trajectories of inquiry that organise sustained theoretical development without replacing or duplicating the cluster-based structure of the framework.
+

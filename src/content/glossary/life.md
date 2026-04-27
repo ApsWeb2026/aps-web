@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Life
 slug: life
 definition: "Life in APS is viability-oriented, constraint-closed organisation sustained through ongoing activity."
@@ -29,4 +30,5 @@ Life is not defined by traits—it is the organisation of persistence through bi
 ## Key Point
 
 Life is not defined by traits—it is the organised persistence of biological agency.
+
 

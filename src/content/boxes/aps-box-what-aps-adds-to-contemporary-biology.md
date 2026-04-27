@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS Box — What APS Adds to Contemporary Biology
 slug: aps-box-what-aps-adds-to-contemporary-biology
 status: canonical

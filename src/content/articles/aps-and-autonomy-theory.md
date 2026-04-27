@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS and Autonomy Theory
 slug: aps-and-autonomy-theory
 status: evolving

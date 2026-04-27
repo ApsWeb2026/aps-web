@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Development
 slug: development
 definition: "In APS, development is the progressive differentiation and reorganisation of constraint-closed organisation through which a living system maintains and transforms its own viability over time."

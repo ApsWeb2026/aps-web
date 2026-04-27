@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Welcome
 slug: welcome
 status: evolving
@@ -26,3 +27,4 @@ Choose the path that best fits how you want to explore the APS framework:
 - **APS Glossary — Why Definitions Matter** — a guide to how key concepts are defined and used  
 
 If you are unsure where to start, begin with **APS — A Viability-Oriented Framework for Understanding Life**, then continue to **What Is APS?** and **Understanding APS**.
+

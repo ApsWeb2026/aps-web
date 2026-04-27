@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Cognition
 slug: cognition
 definition: "In APS, cognition is the capacity of living systems to register, evaluate, and respond to conditions in ways that sustain viability."

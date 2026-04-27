@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Biological Goals Without Mentalism — An APS Account of Goal-Directedness
 slug: biological-goals-without-mentalism
 abstract: Biological systems are often described as goal-directed, from cellular repair processes to organismal behaviour. Contemporary frameworks attempt to formalise this notion as an empirically testable property of organised systems. However, such approaches risk importing mentalistic assumptions or extending goal language beyond its explanatory scope. The Agency–Process–Scale (APS) framework resolves this by reinterpreting goal-directedness in strictly biological terms. In APS, goal-directedness is not the pursuit of internally represented ends but the viability-oriented biological organisation of activity within constraint-closed systems. More precisely, it describes the regulation of activity through which biological purpose—orientation toward continued viability—is enacted and realised in function. This article clarifies how biological “goals” can be understood without mentalism, grounding teleological language in the dynamics of persistence.
@@ -129,5 +130,6 @@ Goal-directedness is not orientation toward future endpoints but the present-ten
 ## Key Point
 
 **Goal-directedness in biology is the regulation of viability conditions through which biological purpose is enacted and realised in function, not the pursuit of represented ends.**
+
 
 

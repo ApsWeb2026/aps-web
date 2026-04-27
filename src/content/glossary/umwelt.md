@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Umwelt
 slug: umwelt
 definition: "Umwelt is the organism-specific domain of significance enacted through viability-oriented coupling, in which environmental conditions are differentially structured relative to the persistence of a constraint-closed system."
@@ -39,3 +40,4 @@ Umwelt therefore marks the transition from functional interaction to meaningful 
 
 ## Key Point
 **In APS, Umwelt is the viability-structured domain of significance in which environmental relations are differentially evaluated through constraint-closed organisation.**
+

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Adaptation
 slug: adaptation
 definition: "Adaptation is the ongoing reorganisation of viability-oriented, constraint-closed organisation through which living systems sustain their persistence under changing conditions."

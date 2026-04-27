@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS Box — Hierarchy vs Scale"
 slug: aps-box-hierarchy-vs-scale
 status: evolving

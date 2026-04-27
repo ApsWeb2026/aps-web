@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS Box — How APS Definitions Work"
 slug: aps-box-how-aps-definitions-work
 status: canonical

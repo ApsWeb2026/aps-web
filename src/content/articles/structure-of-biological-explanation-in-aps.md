@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "The Structure of Biological Explanation in APS"
 slug: structure-of-biological-explanation-in-aps
 status: canonical

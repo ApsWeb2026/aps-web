@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS_MC — Meaning Without Neurons: Distributed Cognition in Living Systems"
 slug: "aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems"
 abstract: "APS_MC develops an APS account of cognition as the evaluation of environmental differences relative to viability within constraint-closed biological organisation, showing how meaning and cognition arise as distributed features of living systems rather than as capacities confined to nervous systems."
@@ -133,3 +134,4 @@ As it develops, APS_MC may generate:
 ## Key Point
 
 APS_MC shows that cognition and meaning arise from viability-oriented, constraint-closed biological organisation, making evaluation and sense-making continuous features of life rather than properties restricted to neural or representational systems.
+

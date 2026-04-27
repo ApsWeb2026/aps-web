@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS_LD — Life Detection as Viability-Oriented Organisation"
 slug: "aps_ld-life-detection-as-viability-oriented-organisation"
 abstract: "APS_LD reframes life detection in terms of viability-oriented, constraint-closed biological organisation, arguing that the detection of life should focus on identifying systems that actively sustain their own persistence rather than relying solely on trait lists or specific molecular markers."
@@ -107,3 +108,4 @@ As the stream develops, it may generate:
 ## Key Point
 
 APS_LD reframes life detection as the identification of viability-oriented, constraint-closed biological organisation, interpreting biosignatures and empirical observations as indicators of persistence-sustaining processes rather than as defining features in themselves.
+

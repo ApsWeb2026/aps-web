@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Environment
 slug: environment
 definition: "In APS, the environment is the active field of conditions with which living systems are coupled in sustaining viability."
@@ -35,3 +36,4 @@ Thus, the environment is not an independent explanatory primitive, but a relatio
 ## Key Point
 
 The environment is not what surrounds an organism, but what is functionally integrated into its viability-oriented organisation through ongoing coupling.
+

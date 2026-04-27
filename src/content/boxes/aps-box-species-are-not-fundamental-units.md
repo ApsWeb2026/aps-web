@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS Box — Species Are Not Fundamental Units
 slug: aps-box-species-are-not-fundamental-units
 status: canonical

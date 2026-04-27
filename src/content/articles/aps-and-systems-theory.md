@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS and Systems Theory — Similarities, Differences, and Limits
 slug: aps-and-systems-theory
 status: canonical

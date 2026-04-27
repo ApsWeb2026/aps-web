@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Viability
 slug: viability
 definition: "Viability refers to the normatively evaluable conditions under which a living system can sustain its persistence as a constraint-closed, viability-oriented organisation."
@@ -43,4 +44,5 @@ Persistence is the ongoing activity through which a system maintains its organis
 
 ## Key Point
 Viability does not name what a system does, but the conditions under which what it does can succeed in sustaining its persistence.
+
 

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Explanatory Grammar
 slug: explanatory-grammar
 definition: "Explanatory grammar is the structured set of commitments that organise what counts as real, what counts as a cause, and how biological phenomena are explained."
@@ -34,3 +35,4 @@ Explanatory grammar therefore determines not only what biology studies, but how 
 ## Key Point
 
 Explanatory grammar defines the structure of biological explanation—what counts as real, what counts as a cause, and how persistence is explained.
+

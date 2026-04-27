@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: The APS Glossary - Why Definitions Matter
 slug: the-aps-glossary-why-definitions-matter
 status: canonical
@@ -50,3 +51,4 @@ This means that:
 
 For a full account, see:
 APS as an Organised Conceptual System and Why Definitions Form a System
+

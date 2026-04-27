@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS as Philosophy - A Viability-Oriented Account of Biological Reality"
 slug: "aps-as-philosophy-viability-oriented-account"
 abstract: "This article presents the Agency–Process–Scale (APS) framework as a candidate philosophical account of biological reality. It examines APS as an empirically grounded explanatory grammar, a biologically specified form of process ontology, and a constraint-closed conceptual system. It explores its treatment of normativity, causation, and organisation, and situates APS in relation to contemporary theoretical frameworks including enactivism, autonomy theory, systems theory, and mechanistic explanation. The article invites critical engagement with APS as a philosophically structured, empirically tractable account of life."
@@ -229,4 +230,5 @@ At the same time, APS remains an open project. Its central claims—regarding co
 For this reason, APS does not offer a final answer to the question of what life is. Instead, it clarifies the conditions under which that question can be meaningfully asked and investigated. It reframes the problem from one of definition to one of organisation, from the identification of traits to the articulation of processes that sustain and transform living systems over time.
 
 In doing so, APS contributes not only to biology but to philosophy. It provides a disciplined way of thinking about life that remains grounded in empirical practice while engaging directly with foundational questions about causation, organisation, and value. Whether it ultimately succeeds as a comprehensive account of biological reality remains to be determined. What it offers, at this stage, is a structured and testable way of approaching that question—one that invites both application and critique, and that situates the study of life within a broader inquiry into the nature of reality itself.
+
 

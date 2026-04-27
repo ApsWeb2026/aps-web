@@ -21,34 +21,53 @@ const clusterLabels: Record<string, string> = {
   'historical-context': 'Historical & Philosophical Context',
   'conceptual-foundations': 'Conceptual Foundations & Explanatory Grammar',
 };
+
+function formatDate(value?: string) {
+  if (!value) return null;
+
+  return new Date(value).toLocaleDateString('en-AU', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+}
 ---
 
 <div class="page-meta">
   <StatusBadge status={status} />
   <TypeBadge type={type} />
+
   {
     cluster && (
       <>
         <span class="page-meta-divider">|</span>
         <span class="page-meta-item">
-          <a href={`/clusters/${cluster}/`}>{clusterLabels[cluster] || cluster}</a>
+          <a href={`/clusters/${cluster}/`}>
+            {clusterLabels[cluster] || cluster}
+          </a>
         </span>
       </>
     )
   }
+
   {
     date && (
       <>
         <span class="page-meta-divider">|</span>
-        <span class="page-meta-item">Created: {date}</span>
+        <span class="page-meta-item">
+          Created: {formatDate(date)}
+        </span>
       </>
     )
   }
+
   {
     revised && (
       <>
         <span class="page-meta-divider">|</span>
-        <span class="page-meta-item">Revised: {revised}</span>
+        <span class="page-meta-item">
+          Revised: {formatDate(revised)}
+        </span>
       </>
     )
   }

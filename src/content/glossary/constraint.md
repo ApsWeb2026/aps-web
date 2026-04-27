@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Constraint
 slug: constraint
 definition: "In APS, a constraint is an active boundary condition and organisational relation that shapes viability-oriented activity by channeling flows of energy, matter, and information without predetermining outcomes."

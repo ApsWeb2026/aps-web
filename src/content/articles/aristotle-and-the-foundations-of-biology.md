@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Aristotle and the Foundations of Biology"
 slug: "aristotle-and-the-foundations-of-biology"
 abstract: "This article examines Aristotle’s foundational role in biological thought and shows how key themes in his work continue to shape questions about biological organisation, function, and the nature of living systems."
@@ -22,3 +23,4 @@ Central to this foundation was the recognition that living beings are structured
 To recognise Aristotle as foundational is not to claim that he anticipated modern science in detail. It is to acknowledge that he first articulated, in systematic form, the conceptual grammar of biological explanation. He distinguished biology from physics without denying physical processes; he grounded explanation in observation without reducing it to description; and he insisted that living beings are intelligible only through their organised unity.
 
 In this sense, Aristotle's biological writings mark the origin of biology as a scientific discipline.
+

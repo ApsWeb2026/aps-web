@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: What Is a Species in APS?
 slug: what-is-a-species-in-aps
 status: canonical

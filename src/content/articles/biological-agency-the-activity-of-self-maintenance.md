@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Biological Agency — The Activity of Self-Maintenance"
 slug: "biological-agency-the-activity-of-self-maintenance"
 abstract: "This article defines biological agency as the viability-oriented activity through which living systems sustain, regulate, and restore the conditions required for their continued persistence."
@@ -116,3 +117,4 @@ Biological agency is the activity through which life exists.
 Living systems persist because they actively sustain and regulate the conditions required for their own existence. This activity is not an additional feature of life—it is what life is.
 
 In APS, biological agency makes explicit the viability-oriented organisation that defines living systems. It shows how persistence becomes an active, self-maintaining achievement enacted through process and coordinated across scale.
+

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Diagnosing a Plant System in APS
 slug: diagnosing-a-plant-system-in-aps
 status: canonical

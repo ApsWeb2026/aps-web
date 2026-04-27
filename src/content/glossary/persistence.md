@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Persistence
 slug: persistence
 definition: "Persistence is the ongoing activity through which a biological system maintains its organisation across time."

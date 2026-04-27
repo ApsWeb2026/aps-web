@@ -164,7 +164,7 @@ function lintCollection(section: string): LintIssue[] {
   const boxSlugs = getBoxSlugs();
   const requiresRevised = ['articles', 'glossary', 'streams', 'orientation', 'diagrams'];
   const supportsCanonical = ['articles', 'glossary', 'orientation'];
-
+  const requiresDate = ['articles', 'glossary', 'streams', 'orientation', 'boxes', 'diagrams'];
   for (const file of files) {
     const filePath = path.join(dir, file);
     const relPath = path.relative(process.cwd(), filePath);
@@ -186,6 +186,11 @@ function lintCollection(section: string): LintIssue[] {
       slugsSeen.set(slug, relPath);
     }
 
+    // Check date (error — structural)
+    if (requiresDate.includes(section) && !fm.date) {
+      issues.push({ file: relPath, issue: 'Missing "date" field', severity: 'error' });
+    }
+    
     // Check revised (error — structural)
     if (requiresRevised.includes(section) && !fm.revised) {
       issues.push({ file: relPath, issue: 'Missing "revised" date', severity: 'error' });

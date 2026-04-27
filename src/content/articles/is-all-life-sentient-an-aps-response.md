@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Is All Life Sentient? An APS Response"
 slug: "is-all-life-sentient-an-aps-response"
 abstract: "This article clarifies why APS does not equate life with sentience, and explains how biological agency, normativity, and cognition can be present without subjective experience."
@@ -188,3 +189,4 @@ This allows biology to remain both rigorous and honest about the nature of livin
 ## Key Point
 
 Not all life is sentient. All life is agential: sentience, where it occurs, is a further organisational development grounded in, but not constitutive of, viability-oriented biological organisation.
+

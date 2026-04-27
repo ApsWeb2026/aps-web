@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: APS and the Extended Evolutionary Synthesis — Conditions and Extensions of Evolution
 slug: aps-and-the-extended-evolutionary-synthesis
 status: canonical

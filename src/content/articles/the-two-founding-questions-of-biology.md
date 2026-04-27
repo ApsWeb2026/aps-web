@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "The Two Founding Questions of Biology"
 slug: "the-two-founding-questions-of-biology"
 abstract: "This article identifies the two founding questions of biology as the questions of what life is and how living forms change, and shows how APS integrates them within a unified explanatory framework."
@@ -81,4 +82,5 @@ The long historical arc of biological theory can therefore be understood as an e
 ## Key Point
 
 **Biological theory rests on two complementary foundations: the persistence-sustaining biological organisation of living systems and the evolutionary processes that transform this biological organisation across time.**
+
 

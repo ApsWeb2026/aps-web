@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Biological Individual
 slug: biological-individual
 status: canonical

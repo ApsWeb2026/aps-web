@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "From Aristotle to Modern Biology: The Transformation of a Science"
 slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
 abstract: "This article traces the long transformation of biology from Aristotle’s organism-centred natural history to modern evolutionary, cellular, molecular, and systems-based science. It emphasises both rupture and continuity: biology changed its tools, scales, and theories, but retained the need to explain organised living systems."
@@ -54,3 +55,4 @@ The Scientific Revolution did not simply replace one with the other. Instead, el
 The tension between transcendent rational structure and immanent biological organisation has never fully disappeared. In contemporary science, mathematical formalism remains essential in physics and cosmology, while biology retains a strong commitment to studying organised systems in their concrete particularity.
 
 Understanding the contrast between Plato and Aristotle clarifies how foundational metaphysical commitments shape approaches to knowledge. Plato locates intelligibility in abstract rational order beyond the material world; Aristotle locates it within the structured biological organisation of particular beings. Modern inquiry carries both inheritances. The aspiration toward rational structure and the commitment to studying organised reality as it presents itself remain intertwined legacies of these two foundational thinkers.
+

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Reframing Biology - How APS Reorganises Core Concepts
 slug: reframing-biology-how-aps-reorganises-core-concepts
 status: canonical

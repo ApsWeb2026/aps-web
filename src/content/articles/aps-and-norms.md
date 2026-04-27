@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "APS and Norms: How Social Systems Regulate Organised Persistence"
 slug: aps-and-norms
 status: evolving

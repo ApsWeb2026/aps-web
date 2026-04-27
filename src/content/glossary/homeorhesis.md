@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Homeorhesis
 slug: homeorhesis
 definition: "Homeorhesis is the maintenance of a viable organisational trajectory through ongoing reorganisation in a constraint-closed system."
@@ -29,3 +30,4 @@ Homeorhesis is essential for adaptation and evolutionary organisation. It enable
 ## Key Point
 
 Homeorhesis is the temporal mode of persistence in which viable trajectories are maintained through ongoing reorganisation in constraint-closed systems.
+

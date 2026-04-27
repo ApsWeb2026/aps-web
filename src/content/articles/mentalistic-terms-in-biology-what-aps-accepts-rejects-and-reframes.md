@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "Mentalistic Terms in Biology — What APS Accepts, Rejects, and Reframes"
 slug: "mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes"
 abstract: "This article clarifies how APS handles mentalistic language in biology by distinguishing legitimate biological concepts from anthropomorphic projection, and by reframing key terms in viability-oriented, non-mentalistic form."
@@ -184,3 +185,4 @@ Sentience and consciousness remain:
 ## Key Point
 
 Mentalistic terms in biology do not describe hidden psychological states; they describe the organisational features of viability-oriented, constraint-closed systems. Distinguishing biological agency, cognition, and experience prevents conceptual collapse and stabilises biological explanation.
+

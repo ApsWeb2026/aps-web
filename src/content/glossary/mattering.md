@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Mattering
 slug: mattering
 definition: "Mattering is the way conditions, differences, or events acquire significance relative to a living system’s viability."
@@ -27,3 +28,4 @@ Mattering is relational and enacted, not intrinsic or representational: a condit
 ## Key Point
 
 Mattering is the real-time enactment of normativity—the differentiation of conditions according to their effects on viability.
+

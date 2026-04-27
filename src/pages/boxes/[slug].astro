@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, status, canonical, canonicalLockDate, revised, seeAlso, associatedPages } = entry.data;
+const { title, status, canonical, canonicalLockDate, date, revised, seeAlso, associatedPages } = entry.data;
 ---
 
 <BaseLayout title={title} description={`${title} — APS Box`}>

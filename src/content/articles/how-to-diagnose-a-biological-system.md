@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: How to Diagnose a Biological System (APS Method)
 slug: how-to-diagnose-a-biological-system
 status: canonical

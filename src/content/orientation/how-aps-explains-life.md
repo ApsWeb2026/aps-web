@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: "How APS Explains Life — A Two-Step Guide"
 slug: how-aps-explains-life
 status: canonical

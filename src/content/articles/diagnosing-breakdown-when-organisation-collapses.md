@@ -1,4 +1,5 @@
 ---
+date: 2026-04-27
 title: Diagnosing Breakdown — When Organisation Collapses
 slug: diagnosing-breakdown-when-organisation-collapses
 status: canonical
