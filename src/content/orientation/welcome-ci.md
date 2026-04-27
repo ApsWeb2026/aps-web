@@ -23,7 +23,6 @@ Choose the path that best fits how you want to explore the APS framework:
 - **APS — A Viability-Oriented Framework for Understanding Life** — the central statement of the framework  
 - **What Is APS?** — a concise introduction to the framework  
 - **Understanding APS — The Structure of the Framework** — a guided overview of how the key ideas fit together  
-- **APS — The One-Page Framework Map** — a visual summary of the framework’s conceptual architecture  
 - **APS Glossary — Why Definitions Matter** — a guide to how key concepts are defined and used  
 
 If you are unsure where to start, begin with **APS — A Viability-Oriented Framework for Understanding Life**, then continue to **What Is APS?** and **Understanding APS**.
