@@ -2,16 +2,17 @@
 date: 2026-04-27
 title: Cognition
 slug: cognition
-definition: "In APS, cognition is the capacity of living systems to register, evaluate, and respond to conditions in ways that sustain viability."
-inBrief: "Cognition is viability-oriented regulation with counterfactual depth."
+definition: "In APS, cognition is viability-oriented evaluation with counterfactual depth: the organisation of activity such that present regulation is structured in relation to conditions that are not currently realised but remain relevant to persistence."
+inBrief: "Cognition is viability-oriented evaluation with counterfactual depth."
 status: canonical
 cluster: foundations
-revised: 2026-04-08
+revised: 2026-04-28
 seeAlso:
   - biological-agency
-  - normativity
+  - evaluation
   - semiosis
   - counterfactual-depth
+  - normativity
   - umwelt
   - process
 ---
@@ -22,16 +23,18 @@ Cognition is typically understood as information processing, representation, or 
 
 ## APS reframing
 
-In APS, cognition is viability-oriented regulation with counterfactual depth. A system is cognitive when its evaluative activity extends beyond immediate conditions, such that present regulation is shaped by states that are not currently occurring but could occur, have occurred, or are otherwise relevant to future viability.
+In APS, cognition is viability-oriented evaluation with counterfactual depth. A system is cognitive when its evaluative activity extends beyond immediate conditions, such that present regulation is structured by states that are not currently realised but could occur, have occurred, or are otherwise relevant to continued viability.
 
-Counterfactual depth specifies this temporal reach: the capacity of evaluative modulation to operate with respect to absent, delayed, or possible conditions. Cognition therefore requires the stabilisation and integration of evaluative states across time, enabling regulation that is partially decoupled from immediate stimuli while remaining grounded in viability-oriented organisation.
+Counterfactual depth specifies this temporal organisation. It is not the storage of past information or the prediction of future states as such, but the integration of temporally displaced conditions into ongoing evaluative modulation. Cognition therefore requires the stabilisation and coordination of evaluative processes across time, enabling activity to be organised with respect to non-present conditions while remaining grounded in viability-oriented organisation.
 
-Cognition is not identical with agency and is not required for life. All cognitive systems are agential, but many agential systems are non-cognitive. Cognition is a contingent elaboration of agency in which evaluative modulation acquires sufficient temporal scope to organise activity with respect to non-present conditions.
+Cognition is not identical with agency and is not required for life. All cognitive systems are agential, but many agential systems are non-cognitive. Cognition is a contingent elaboration of agency in which evaluative activity becomes sufficiently integrated, context-sensitive, temporally extended, and coordinated across the system as a whole.
 
-This distinction is empirically testable: a system is cognitive only when its current regulation is demonstrably shaped by temporally displaced evaluations rather than immediate conditions alone. Minimal organisms such as *Escherichia coli* exhibit agency but remain tightly coupled to present conditions, whereas many plants exhibit cognition through temporally integrated regulation of growth, defence, and development.
+This distinction is empirically diagnosable. A system is cognitive only when its organisation satisfies four interdependent conditions: integrated evaluation, context sensitivity, temporal depth, and cross-scale coordination. Systems that remain tightly coupled to immediate conditions may exhibit agency and evaluation without exhibiting cognition.
 
-Cognition builds on semiosis—real-time evaluative sense-making—but extends it across temporal horizons, enabling regulation organised with respect to anticipated or delayed viability-relevant conditions. This evaluative extension is grounded in biological normativity. The viability-oriented organisation of the system establishes the conditions under which activity succeeds or fails, and cognition is the process by which these conditions are integrated across time. In this sense, cognition is the temporally extended enactment of normativity in activity: it enables systems to regulate present behaviour with respect to non-immediate conditions while remaining oriented toward sustaining the organisation of the whole.
+Cognition builds on semiosis—viability-oriented differentiation of what matters—but extends it across temporal horizons. This extension is grounded in biological normativity: the organisation of the system establishes the conditions under which activity contributes to or detracts from persistence. Cognition is the integration of these conditions across time, enabling present activity to be modulated in relation to what is not currently the case but remains relevant to viability.
+
+In this sense, cognition is not a behavioural capacity or representational property, but a mode of biological organisation: the temporally extended structuring of evaluation within a viability-oriented system.
 
 ## Key Point
 
-Cognition is not required for life: it arises when viability-oriented regulation becomes temporally extended beyond the present.
+Cognition is not required for life: it arises when viability-oriented evaluation becomes temporally extended beyond the present and organised across the system as a whole.
