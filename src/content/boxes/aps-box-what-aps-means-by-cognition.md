@@ -5,23 +5,26 @@ slug: what-aps-means-by-cognition
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-19
-revised: 2026-04-19
+revised: 2026-04-28
 ---
 
-In APS, cognition does not refer to thought, consciousness, or representation. It refers to the **capacity of a living system to evaluate and regulate its interactions with the environment in ways that sustain its own viability**.
+In APS, cognition does not refer to thought, consciousness, or representation. It refers to a specific organisational form of biological activity: **viability-oriented evaluation with counterfactual depth**.
 
-This differs from many conventional uses of the term. Cognition is often associated with brains, information processing, or internal models of the world. In APS, these are specialised forms of a more general biological capacity.
+This differs from many conventional uses of the term. Cognition is often associated with brains, information processing, or internal models of the world. In APS, these are specialised and more elaborated forms of a more general organisational condition.
 
-At its most basic, cognition involves:
+Not all living systems are cognitive. All living systems exhibit agency, and many exhibit evaluation, but cognition arises only when evaluative activity is organised in a way that extends beyond the immediate present.
 
-- detecting differences in the environment  
-- evaluating those differences relative to viability  
-- modulating activity in response  
+At its most basic, cognition requires:
 
-These processes do not require symbolic representation or conscious awareness. They are grounded in the organisation of living systems and their need to maintain themselves over time.
+- **integrated evaluation** across multiple viability-relevant conditions  
+- **context sensitivity**, such that responses depend on the state of the system  
+- **temporal depth**, where present activity is shaped by past or possible conditions  
+- **cross-scale coordination**, linking local processes with system-wide organisation  
 
-Cognition is therefore continuous with life itself. It is present wherever systems actively regulate their own persistence, though it varies in degree depending on the complexity and integration of the system.
+These conditions do not require symbolic representation or conscious awareness. They describe how activity is organised, not how it is experienced.
 
-> **In APS, cognition is not a mental add-on to life—it is what viability-oriented organisation looks like when it becomes evaluative in real time.**
+Cognition is therefore not coextensive with life. It is a contingent organisational achievement that emerges when viability-oriented evaluation becomes sufficiently integrated and temporally extended.
 
-Understanding cognition in this way prevents it from being restricted to particular organisms or mechanisms. It allows cognition to be integrated with the same principles that govern biological organisation more generally.
+> **In APS, cognition is not evaluative regulation as such, but what evaluation becomes when it is organised across time in relation to conditions that are not currently realised.**
+
+Understanding cognition in this way prevents both inflation and reduction. It avoids treating all adaptive systems as cognitive, while also avoiding the restriction of cognition to particular mechanisms or organisms.
