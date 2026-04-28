@@ -8,12 +8,12 @@ canonicalLockDate: 2026-04-11
 revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
-  The Extended Evolutionary Synthesis (EES) expands evolutionary theory beyond gene-centric models by incorporating development, plasticity, niche construction, and organism–environment interaction. This article clarifies its relationship to the APS framework. While APS is compatible with these extensions, it operates at a different level of explanation by identifying the conditions under which evolution is possible. APS grounds evolutionary processes in viability-oriented, constraint-closed organisation, showing that variation, inheritance, and selection presuppose systems capable of sustaining organised persistence.
+  The Extended Evolutionary Synthesis (EES) expands evolutionary theory beyond gene-centric models by incorporating development, plasticity, niche construction, and organism–environment interaction. This article clarifies its relationship to the APS framework. While APS is compatible with these extensions, it operates in a different explanatory domain by identifying the conditions under which evolution is possible. APS grounds evolutionary processes in viability-oriented, constraint-closed organisation, showing that variation, inheritance, and selection presuppose systems capable of sustaining organised persistence.
 keyPoints:
   - The Extended Evolutionary Synthesis expands evolutionary theory beyond gene-centric models.
   - It incorporates development, plasticity, niche construction, and organism–environment interaction.
   - These approaches enrich evolutionary explanation but do not redefine its foundational conditions.
-  - APS addresses a different level by identifying the organisational preconditions of evolution.
+  - APS addresses a different explanatory domain by identifying the organisational preconditions of evolution.
   - Evolution requires systems capable of sustaining viability-oriented, constraint-closed organisation.
   - APS reframes evolution as the long-term transformation of organised persistence.
 relatedGlossaryTerms:
@@ -54,9 +54,9 @@ In particular, the emphasis on niche construction and plasticity aligns with the
 
 These convergences make the EES an important contemporary development in evolutionary theory and a natural point of comparison for APS.
 
-## The Level of Explanation
+## Explanatory Domain and Conditions
 
-Despite these overlaps, APS and the EES operate at different levels of explanation.
+Despite these overlaps, APS and the EES operate in different explanatory domains.
 
 The EES extends evolutionary theory by expanding the range of processes that contribute to variation, inheritance, and selection. It enriches the mechanisms through which evolution occurs.
 
@@ -64,7 +64,7 @@ APS, by contrast, addresses a more fundamental question: **under what conditions
 
 Evolution requires systems that persist over time, reproduce, and maintain organisational continuity across generations. These capacities are not explained by evolutionary theory itself; they are presupposed by it.
 
-APS therefore addresses the organisational conditions that make evolutionary processes possible, rather than the mechanisms through which they operate.
+APS therefore identifies the organisational conditions that make evolutionary processes possible, rather than the mechanisms through which they operate.
 
 ## APS: The Preconditions of Evolution
 
@@ -125,7 +125,7 @@ In this way, the EES is not replaced but **integrated as a theory of evolutionar
 
 The Extended Evolutionary Synthesis expands evolutionary theory by incorporating development, plasticity, and organism–environment interaction.
 
-APS is compatible with these extensions but addresses a deeper level by identifying the organisational preconditions of evolution.
+APS is compatible with these extensions but identifies the organisational conditions that make evolution possible.
 
 Evolution is grounded in viability-oriented, constraint-closed systems and is best understood as the long-term transformation of organised persistence.
 
