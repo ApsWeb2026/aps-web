@@ -182,4 +182,4 @@ APS clarifies this distinction by grounding biological explanation in viability-
 
 ## Key Point
 
-Living systems can be described mechanistically, but they are not machines; life is defined by self-sustaining, viability-oriented organisation, not by externally specified structure or function.
+Machine models describe structure and function, but life is defined by viability-oriented organisation.
