@@ -2,7 +2,6 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const CONTENT_DIR = path.join(process.cwd(), 'src', 'content');
-const DEFAULT_DATE = '2026-04-27';
 
 function walk(dir: string): string[] {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -26,13 +25,13 @@ for (const file of walk(CONTENT_DIR)) {
   const date = dateMatch[1];
   const revised = revisedMatch[1];
 
-  if (date === DEFAULT_DATE && date > revised) {
+  if (date > revised) {
     const fixed = text.replace(
-      /^date:\s*\d{4}-\d{2}-\d{2}\s*$/m,
-      `date: ${revised}`
+      /^revised:\s*\d{4}-\d{2}-\d{2}\s*$/m,
+      `revised: ${date}`
     );
 
     fs.writeFileSync(file, fixed);
-    console.log(`Fixed ${path.relative(process.cwd(), file)}: ${date} → ${revised}`);
+    console.log(`Fixed ${path.relative(process.cwd(), file)}: revised ${revised} → ${date}`);
   }
 }
