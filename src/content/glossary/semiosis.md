@@ -33,6 +33,10 @@ Semiosis is a basal layer of biological organisation. All systems that exhibit e
 
 Cognition arises when semiosis is organised across time. Where meaningful differences are integrated into temporally extended patterns of evaluation—such that present activity is structured in relation to conditions that are not currently realised—semiosis acquires counterfactual depth and becomes cognitive.
 
+Meaning, in this sense, is not representational content but the enactment of viability-relevant difference within evaluative activity.
+
+[[box:what-aps-means-by-meaning]]
+
 ## Key Point
 
 Semiosis is the organisation of meaningful difference in living systems: it makes differences matter for viability, and provides the basis from which cognition emerges.
