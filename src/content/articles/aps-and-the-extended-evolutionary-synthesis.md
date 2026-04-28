@@ -5,7 +5,7 @@ slug: aps-and-the-extended-evolutionary-synthesis
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
   The Extended Evolutionary Synthesis (EES) expands evolutionary theory beyond gene-centric models by incorporating development, plasticity, niche construction, and organism–environment interaction. This article clarifies its relationship to the APS framework. While APS is compatible with these extensions, it operates at a different level of explanation by identifying the conditions under which evolution is possible. APS grounds evolutionary processes in viability-oriented, constraint-closed organisation, showing that variation, inheritance, and selection presuppose systems capable of sustaining organised persistence.
@@ -32,11 +32,15 @@ relatedArticles:
   - explanatory-priority-is-not-ontological-priority
 ---
 
+Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+
+This article clarifies the relationship between the Extended Evolutionary Synthesis (EES) and APS. While the EES provides a richer account of evolutionary processes, APS identifies the organisational conditions that make such processes possible.
+
 ## The Extended Evolutionary Synthesis
 
-The Extended Evolutionary Synthesis (EES) encompasses a set of approaches that expand evolutionary theory beyond the gene-centric framework of the Modern Synthesis. It incorporates a range of processes that shape evolutionary change, including developmental bias, phenotypic plasticity, niche construction, and ecological inheritance.
+The Extended Evolutionary Synthesis encompasses a set of approaches that expand evolutionary theory beyond the gene-centric framework of the Modern Synthesis. It incorporates processes such as developmental bias, phenotypic plasticity, niche construction, and ecological inheritance.
 
-These approaches emphasise that organisms are not passive products of selection but active participants in shaping their evolutionary trajectories. Developmental processes influence variation, and organism–environment interactions modify the conditions under which selection operates.
+These approaches emphasise that organisms are not passive products of selection but active participants in shaping their evolutionary trajectories. Development influences variation, and organism–environment interaction modifies the conditions under which selection operates.
 
 In this way, the EES provides a richer and more integrated account of evolution, situating genetic change within a broader network of biological processes.
 
@@ -60,7 +64,7 @@ APS, by contrast, addresses a more fundamental question: **under what conditions
 
 Evolution requires systems that persist over time, reproduce, and maintain organisational continuity across generations. These capacities are not explained by evolutionary theory itself; they are presupposed by it.
 
-From an APS perspective, the EES extends evolutionary explanation but does not specify these underlying conditions.
+APS therefore addresses the organisational conditions that make evolutionary processes possible, rather than the mechanisms through which they operate.
 
 ## APS: The Preconditions of Evolution
 
@@ -84,7 +88,7 @@ The EES emphasises that organisms play an active role in evolution through proce
 
 APS agrees with this emphasis but grounds it more explicitly in biological organisation. Organisms are not merely participants in evolutionary processes; they are the **agents that sustain the conditions under which those processes occur**.
 
-From this perspective, niche construction is not an additional evolutionary mechanism but an expression of viability-oriented activity. Organisms modify their environments as part of the same processes through which they maintain their own persistence.
+From this perspective, niche construction is not an additional evolutionary mechanism but an expression of viability-oriented activity.
 
 ## Evolution, Adaptation, and Persistence
 
@@ -95,15 +99,15 @@ In extended evolutionary frameworks, adaptation is often treated as a product of
 - **Adaptation** is the reorganisation of viability-oriented processes  
 - **Evolution** is the long-term transformation of those processes across generations  
 
-This framing emphasises continuity between short-term regulation and long-term change. Evolution is not separate from the processes that sustain life; it is their historical extension.
+This framing emphasises continuity between short-term regulation and long-term change.
 
-## The Scope and Limits of the EES
+## The Scope of the EES
 
 The EES represents a significant advance in evolutionary theory by broadening the range of relevant processes and emphasising organismal activity.
 
 However, its scope remains within the domain of evolutionary explanation. It does not, by itself, define what constitutes a biological system or what distinguishes living from non-living processes.
 
-APS complements the EES by providing this grounding. It specifies the organisational conditions that must be in place for any evolutionary process to occur.
+APS complements the EES by providing this grounding.
 
 ## The EES Within APS
 
@@ -117,6 +121,14 @@ APS incorporates these insights while situating them within a broader explanator
 
 In this way, the EES is not replaced but **integrated as a theory of evolutionary processes within an account of biological organisation**.
 
-## In Brief
+## Summary
 
-The Extended Evolutionary Synthesis expands evolutionary theory by incorporating development, plasticity, and organism–environment interaction. APS is compatible with these extensions but addresses a deeper level by identifying the organisational preconditions of evolution. Evolution is grounded in viability-oriented, constraint-closed systems, and is best understood as the long-term transformation of organised persistence.
+The Extended Evolutionary Synthesis expands evolutionary theory by incorporating development, plasticity, and organism–environment interaction.
+
+APS is compatible with these extensions but addresses a deeper level by identifying the organisational preconditions of evolution.
+
+Evolution is grounded in viability-oriented, constraint-closed systems and is best understood as the long-term transformation of organised persistence.
+
+## Key Point
+
+Extended evolutionary theory explains how developmental and ecological processes shape evolution, but APS situates these processes within a more fundamental account of viability-oriented organisation.
