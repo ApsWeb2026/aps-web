@@ -5,7 +5,7 @@ slug: aps-and-contemporary-theories
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-04-13
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
   This article situates the APS framework in relation to major contemporary approaches in biology and cognition. It shows how each framework captures important aspects of living systems while clarifying why none fully accounts for life as viability-oriented, constraint-closed organisation.
@@ -33,17 +33,19 @@ Each offers insight into how living systems function. But taken in isolation, ea
 
 What is missing is the organisation that makes these processes biologically meaningful in the first place.
 
+These frameworks describe important patterns of behaviour, regulation, or organisation, but they do not by themselves explain the viability-oriented organisation that makes a system a living system.
+
 ## The APS Perspective
 
 The APS framework addresses this by starting from a different point: **viability-oriented, constraint-closed organisation**.
 
 From this perspective, the question is not which component is primary, but how living systems sustain themselves through coordinated activity across **agency, process, and scale**.
 
-APS therefore does not reject these frameworks. It explains:
+APS therefore does not reject these frameworks. It situates them within a broader account of biological organisation, explaining:
 
 - why they succeed  
-- what they capture  
-- and why they remain incomplete  
+- what aspects of living systems they capture  
+- and why they remain incomplete as accounts of life itself  
 
 For the positive account of what life is in APS, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
@@ -56,8 +58,9 @@ The following articles examine major contemporary frameworks in turn, clarifying
 - **[Why Life Is Not Control Theory](/articles/why-life-is-not-control-theory/)**  
 - **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**  
 - **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**  
+- **[APS and Systems Theory — Similarities, Differences, and Limits](/articles/aps-and-systems-theory/)**  
 
-Each article shows how a specific framework captures an aspect of living systems while failing to account for life as a whole.
+Each article shows how a specific framework captures important aspects of living systems while failing to account for life as a whole.
 
 ## How to Read This Series
 
