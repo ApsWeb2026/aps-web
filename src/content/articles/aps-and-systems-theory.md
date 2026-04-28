@@ -97,6 +97,18 @@ This distinguishes biological systems from:
 
 In APS terms, agency is not an additional feature layered onto a system. It is the activity through which a system maintains itself as a system.
 
+### Systems, Organisation, and the Appearance of Cognition
+
+Because systems theory can describe complex, adaptive, and dynamically stable behaviour, it is often used to model systems that appear intelligent or cognitively organised, including artificial, computational, and social systems.
+
+From an APS perspective, this descriptive power does not imply that such systems instantiate cognition.
+
+Cognition, in APS, is not defined by behavioural complexity, feedback, or dynamical organisation alone. It is a mode of viability-oriented, constraint-sensitive organisation found in systems that regulate their own conditions of persistence.
+
+Many non-biological systems can exhibit sophisticated forms of coordination, adaptation, or optimisation. However, they do not sustain themselves as systems, do not generate their own conditions of existence, and do not operate through constraint-closed organisation.
+
+For this reason, systems theory can describe the behaviour of both living and non-living systems using similar formal tools, but only living systems exhibit cognition in the APS sense.
+
 ## Systems Theory Within APS
 
 From an APS perspective, systems theory is best understood as a **descriptive and analytical layer** rather than a complete account of life.
