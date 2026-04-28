@@ -12,7 +12,8 @@ function walk(dir: string): string[] {
 
 for (const file of walk(CONTENT_DIR)) {
   const text = fs.readFileSync(file, 'utf8');
-  const match = text.match(/^---\n([\s\S]*?)\n---/);
+
+  const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) continue;
 
   const fm = match[1];
