@@ -100,4 +100,4 @@ However, self-production alone is not sufficient to explain life. Living systems
 
 ## Key Point
 
-Autopoiesis explains how systems produce themselves, but life is defined by the activity through which systems must sustain the conditions of their own continued existence.
+Autopoiesis explains self-producing organisation, but life is defined by viability-oriented, constraint-closed organisation.
