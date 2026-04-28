@@ -2,17 +2,17 @@
 date: 2026-04-27
 title: Cognition
 slug: cognition
-definition: "In APS, cognition is viability-oriented evaluation with counterfactual depth: the organisation of activity such that present regulation is structured in relation to conditions that are not currently realised but remain relevant to persistence."
-inBrief: "Cognition is viability-oriented evaluation with counterfactual depth."
+definition: "In APS, cognition is the structured, constraint-sensitive organisation through which living systems differentiate and regulate viability-relevant differences."
+inBrief: "Cognition is the structured, constraint-sensitive organisation of viability-relevant differentiation and regulation."
 status: canonical
 cluster: foundations
 revised: 2026-04-28
 seeAlso:
   - biological-agency
-  - evaluation
   - semiosis
-  - counterfactual-depth
   - normativity
+  - viability
+  - function
   - umwelt
   - process
 ---
@@ -23,18 +23,25 @@ Cognition is typically understood as information processing, representation, or 
 
 ## APS reframing
 
-In APS, cognition is viability-oriented evaluation with counterfactual depth. A system is cognitive when its evaluative activity extends beyond immediate conditions, such that present regulation is structured by states that are not currently realised but could occur, have occurred, or are otherwise relevant to continued viability.
+In APS, cognition is a mode of biological organisation. It is the structured, constraint-sensitive organisation through which living systems differentiate and regulate viability-relevant differences.
 
-Counterfactual depth specifies this temporal organisation. It is not the storage of past information or the prediction of future states as such, but the integration of temporally displaced conditions into ongoing evaluative modulation. Cognition therefore requires the stabilisation and coordination of evaluative processes across time, enabling activity to be organised with respect to non-present conditions while remaining grounded in viability-oriented organisation.
+Living systems do not passively receive or encode information. Their organisation determines what counts as a relevant difference and how that difference is acted upon. Cognition is the way this selective differentiation is structured and coordinated within systems whose activity is oriented toward their own persistence.
 
-Cognition is not identical with agency and is not required for life. All cognitive systems are agential, but many agential systems are non-cognitive. Cognition is a contingent elaboration of agency in which evaluative activity becomes sufficiently integrated, context-sensitive, temporally extended, and coordinated across the system as a whole.
+Cognition is continuous with life. Wherever systems selectively differentiate and regulate conditions in relation to their viability, cognition is present. What varies across living systems is not whether cognition exists, but the form, scope, and integration of this organisation.
 
-This distinction is empirically diagnosable. A system is cognitive only when its organisation satisfies four interdependent conditions: integrated evaluation, context sensitivity, temporal depth, and cross-scale coordination. Systems that remain tightly coupled to immediate conditions may exhibit agency and evaluation without exhibiting cognition.
+Cognition builds on semiosis—viability-oriented differentiation of what matters—but does not require representation, internal models, or conscious awareness. It is not a behavioural capacity or mental property, but an organisational feature of living systems.
 
-Cognition builds on semiosis—viability-oriented differentiation of what matters—but extends it across temporal horizons. This extension is grounded in biological normativity: the organisation of the system establishes the conditions under which activity contributes to or detracts from persistence. Cognition is the integration of these conditions across time, enabling present activity to be modulated in relation to what is not currently the case but remains relevant to viability.
+Across different systems, cognition may become more elaborated. This elaboration can involve:
 
-In this sense, cognition is not a behavioural capacity or representational property, but a mode of biological organisation: the temporally extended structuring of evaluation within a viability-oriented system.
+- integration across multiple viability-relevant conditions  
+- context-sensitive modulation of activity  
+- temporal extension, where present activity reflects past or possible conditions  
+- cross-scale coordination linking local processes with system-wide organisation  
+
+These are not defining requirements, but ways in which cognitive organisation can vary in complexity and scope.
+
+In this sense, cognition is not a contingent addition to life, but a fundamental mode of viability-oriented organisation that is elaborated—rather than created—in the emergence of mind.
 
 ## Key Point
 
-Cognition is not required for life: it arises when viability-oriented evaluation becomes temporally extended beyond the present and organised across the system as a whole.
+Cognition is not a separate capacity that appears only in certain organisms, but a continuous organisational feature of living systems that varies in form, scope, and integration.
