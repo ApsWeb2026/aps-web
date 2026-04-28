@@ -59,6 +59,8 @@ But they do not explain what makes a system a living system in the first place.
 
 These models capture important features of structure and function, but they do not explain the viability-oriented organisation that makes a system a living system.
 
+APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. Mechanistic models can describe how activity is structured, but they do not capture the evaluative organisation through which living systems differentiate conditions that support or undermine their own persistence.
+
 ## Machines Presuppose External Design
 
 A defining feature of machines is that their organisation is specified from outside.
