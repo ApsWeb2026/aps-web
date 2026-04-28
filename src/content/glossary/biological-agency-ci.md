@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Biological Agency
 slug: biological-agency
 definition: "Biological agency is the viability-oriented, self-regulating activity through which living systems sustain, modulate, and re-create the conditions of their own persistence."
