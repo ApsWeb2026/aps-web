@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: Evolution — The Transformation of Persistence Across Generations
 slug: evolution
 abstract: Evolution is often defined as change in gene frequencies within populations, but this view does not fully explain what is changing or why such change is biologically meaningful. This article defines evolution in APS as the historical transformation of viability-oriented, constraint-closed biological organisation across generations. It clarifies how evolution presupposes persistence, extends adaptation across generations, and operates on organisational capacities rather than isolated traits. Evolution is thus understood as the long-term transformation of persistence-sustaining biological organisation.

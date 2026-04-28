@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: "Normativity in Biology — Why Some Things Matter to Living Systems"
 slug: "normativity-in-biology-why-some-things-matter-to-living-systems"
 abstract: "This article explains biological normativity in APS as the intrinsic evaluation of conditions relative to viability, grounding function, meaning, and biological agency without invoking subjective or external value."

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-16
 title: "Environment, Coupling, and Agency — Why Organisms and Surroundings Co-Produce Each Other"
 slug: environment-coupling-and-biological-agency
 abstract: "This article explains how the APS framework reconceives the relationship between organisms and their environments. Rather than treating the environment as an external backdrop, APS understands it as a relational domain co-constituted through ongoing coupling with viability-oriented biological organisation."

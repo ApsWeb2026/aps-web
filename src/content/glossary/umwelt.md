@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Umwelt
 slug: umwelt
 definition: "Umwelt is the organism-specific domain of significance enacted through viability-oriented coupling, in which environmental conditions are differentially structured relative to the persistence of a constraint-closed system."

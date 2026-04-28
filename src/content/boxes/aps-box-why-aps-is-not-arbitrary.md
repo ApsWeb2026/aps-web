@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: "APS Box — Why APS Is Not Arbitrary"
 slug: aps-box-why-aps-is-not-arbitrary
 status: canonical

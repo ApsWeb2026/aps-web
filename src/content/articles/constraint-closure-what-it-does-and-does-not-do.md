@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: Constraint Closure — What It Does and What It Does Not Do
 slug: constraint-closure-what-it-does-and-does-not-do
 status: canonical

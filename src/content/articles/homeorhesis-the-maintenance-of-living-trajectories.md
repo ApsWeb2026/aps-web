@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-05
 title: "Homeorhesis — The Maintenance of Living Trajectories"
 slug: "homeorhesis-the-maintenance-of-living-trajectories"
 abstract: "This article explains homeorhesis in APS as the active maintenance of viable developmental and organisational trajectories rather than the preservation of a fixed state."

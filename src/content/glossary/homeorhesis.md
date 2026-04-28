@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Homeorhesis
 slug: homeorhesis
 definition: "Homeorhesis is the maintenance of a viable organisational trajectory through ongoing reorganisation in a constraint-closed system."

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-05
 title: "Mentalistic Language in Biology — Why It Persists and How APS Clarifies It"
 slug: "mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it"
 abstract: "This article explains why mentalistic language persists in biology, what explanatory work it is trying to do, and how APS clarifies that role without relying on anthropomorphic assumptions."

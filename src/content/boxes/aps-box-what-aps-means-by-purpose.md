@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-03-28
 title: "APS Box — What APS Means by Purpose"
 slug: what-aps-means-by-purpose
 status: canonical

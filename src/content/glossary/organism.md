@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-10
 title: Organism
 slug: organism
 definition: "In APS, an organism is a viability-oriented, constraint-closed biological individual that actively sustains, modulates, and reconstitutes the conditions of its own persistence."

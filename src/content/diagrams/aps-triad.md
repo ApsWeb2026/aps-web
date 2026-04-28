@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: APS Triad
 slug: aps-triad
 svgFile: /assets/diagrams/aps-triad.svg

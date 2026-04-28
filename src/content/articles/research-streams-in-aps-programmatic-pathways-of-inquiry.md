@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-05
 title: "Research Streams in APS — Programmatic Pathways of Inquiry"
 slug: "research-streams-in-aps-programmatic-pathways-of-inquiry"
 abstract: "This article explains the research streams of the APS program as organised pathways of inquiry through which the framework is developed, tested, and extended across biological domains."

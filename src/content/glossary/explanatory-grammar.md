@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-14
 title: Explanatory Grammar
 slug: explanatory-grammar
 definition: "Explanatory grammar is the structured set of commitments that organise what counts as real, what counts as a cause, and how biological phenomena are explained."

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-10
 title: What Is Biological Diagnosis in APS?
 slug: what-is-biological-diagnosis-in-aps
 status: canonical

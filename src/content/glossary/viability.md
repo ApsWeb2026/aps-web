@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-26
 title: Viability
 slug: viability
 definition: "Viability refers to the normatively evaluable conditions under which a living system can sustain its persistence as a constraint-closed, viability-oriented organisation."

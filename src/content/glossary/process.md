@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-14
 title: Process
 slug: process
 definition: "Process in APS is the dynamic organisation through which living systems sustain and modulate the constraints that enable continued viability."

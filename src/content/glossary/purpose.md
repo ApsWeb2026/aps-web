@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Purpose
 slug: purpose
 definition: "Purpose is the viability-oriented organisation of activity through which living systems sustain their own persistence."

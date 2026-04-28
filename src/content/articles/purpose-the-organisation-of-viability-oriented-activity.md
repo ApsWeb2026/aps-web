@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-05
 title: "Purpose — The Organisation of Viability-Oriented Activity"
 slug: "purpose-the-organisation-of-viability-oriented-activity"
 abstract: "This article explains purpose in APS as the biological organisation of viability-oriented activity, clarifying how biological purposiveness can be understood without invoking external design or mental intention."

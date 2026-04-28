@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-20
 title: Reductionism in Biology — An APS Clarification
 slug: reductionism-in-biology-an-aps-clarification
 abstract: APS distinguishes material constitution from explanatory priority, clarifying how biology can remain fully grounded in physics and chemistry without being reducible to them.

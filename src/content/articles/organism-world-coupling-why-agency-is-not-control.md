@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: Organism–World Coupling — Why Agency Is Not Control
 slug: organism-world-coupling-agency-not-control
 status: canonical

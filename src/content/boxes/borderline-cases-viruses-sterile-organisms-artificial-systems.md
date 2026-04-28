@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: "APS Box — Borderline Cases: Viruses, Sterile Organisms, Artificial Systems"
 slug: borderline-cases-viruses-sterile-organisms-artificial-systems
 status: canonical

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Physiology
 slug: physiology
 definition: "In APS, physiology is the present-tense coordination of constraint-closed processes through which a living system sustains its viability."

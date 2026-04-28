@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: "Scale, Time, and Persistence — Why Life Exists Only in Organised Duration"
 slug: "scale-time-persistence"
 abstract: "This article explains how scale and time are integrated in APS to produce persistence, showing that living systems exist only as organised duration sustained through coordinated activity across spatial and temporal domains."

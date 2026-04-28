@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-16
 title: Adaptation — How Living Systems Sustain Themselves Through Change
 slug: adaptation-how-living-systems-sustain-themselves-through-change
 status: canonical

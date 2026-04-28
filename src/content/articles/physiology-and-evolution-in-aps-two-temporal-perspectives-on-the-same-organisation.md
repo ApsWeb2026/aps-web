@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-16
 title: "Physiology and Evolution in APS — Two Temporal Perspectives on the Same Organisation"
 slug: "physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation"
 abstract: "This article explains how APS integrates physiology and evolution as two temporal perspectives on the same viability-oriented biological organisation, linking present-tense activity with historical transformation."

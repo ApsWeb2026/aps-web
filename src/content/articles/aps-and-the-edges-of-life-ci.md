@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-10
 title: APS and the Edges of Life — Why Borderline Cases Are Expected, Not Problematic
 slug: aps-and-the-edges-of-life-ci
 status: canonical

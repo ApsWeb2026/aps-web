@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: "APS Box — Is APS Alive?"
 slug: aps-box-is-aps-alive
 status: canonical

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: APS Box — Event, Constraint, and Organisational Causation
 slug: aps-box-event-constraint-and-organisational-causation
 status: canonical

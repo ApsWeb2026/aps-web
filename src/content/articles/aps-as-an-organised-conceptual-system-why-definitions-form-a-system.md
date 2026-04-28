@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-07
 title: "APS as an Organised Conceptual System - Why Definitions Form a System"
 slug: aps-as-an-organised-conceptual-system-why-definitions-form-a-system
 abstract: "This article explains why APS definitions form an organised conceptual system rather than a loose collection of terms."

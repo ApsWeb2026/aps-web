@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Affordance
 slug: affordance
 definition: "In APS, an affordance is a viability-relevant possibility for action arising through the coupling of an organism and its environment."

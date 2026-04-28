@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: "APS Box — How to Read APS Correctly"
 slug: aps-box-how-to-read-aps-correctly
 status: canonical

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-05
 title: "Mentalistic Terms in Biology — What APS Accepts, Rejects, and Reframes"
 slug: "mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes"
 abstract: "This article clarifies how APS handles mentalistic language in biology by distinguishing legitimate biological concepts from anthropomorphic projection, and by reframing key terms in viability-oriented, non-mentalistic form."

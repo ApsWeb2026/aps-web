@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: Cognition
 slug: cognition
 overview: "This research stream explores cognition as a biologically grounded, viability-oriented process distributed across living systems."

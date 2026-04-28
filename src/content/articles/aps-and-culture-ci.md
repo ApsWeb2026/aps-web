@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: "APS and Culture: How Social Systems Extend Organised Persistence Across Time"
 slug: aps-and-culture
 status: evolving

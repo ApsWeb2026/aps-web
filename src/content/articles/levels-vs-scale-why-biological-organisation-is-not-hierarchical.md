@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: Levels vs Scale — Why Biological Organisation Is Not Hierarchical
 slug: levels-vs-scale-why-biological-organisation-is-not-hierarchical
 status: canonical

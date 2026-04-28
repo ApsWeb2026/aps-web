@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: "APS Box — What APS Does Not Assume"
 slug: aps-box-what-aps-does-not-assume
 status: canonical

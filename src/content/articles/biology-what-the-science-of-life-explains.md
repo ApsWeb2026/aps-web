@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-14
 title: Biology — What the Science of Life Explains
 slug: biology
 abstract: Biology is the science of living systems, concerned with how they persist, how they change through time, and how these processes can be explained. The APS framework clarifies biology as the study of viability-oriented biological organisation and its historical transformation.

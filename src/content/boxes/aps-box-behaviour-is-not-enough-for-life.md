@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: APS Box — Behaviour Is Not Enough for Life
 slug: aps-box-behaviour-is-not-enough-for-life
 status: canonical

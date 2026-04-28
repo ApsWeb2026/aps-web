@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-10
 title: The Normativity Gradient (NG)
 slug: normativity-gradient
 status: canonical

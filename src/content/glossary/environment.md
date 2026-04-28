@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Environment
 slug: environment
 definition: "In APS, the environment is the active field of conditions with which living systems are coupled in sustaining viability."

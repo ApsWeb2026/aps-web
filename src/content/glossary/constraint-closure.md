@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Constraint Closure
 slug: constraint-closure
 definition: "Constraint closure is the organisation of mutually sustaining constraints through which a living system maintains its own viability."

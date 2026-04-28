@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Life
 slug: life
 definition: "Life in APS is viability-oriented, constraint-closed organisation sustained through ongoing activity."

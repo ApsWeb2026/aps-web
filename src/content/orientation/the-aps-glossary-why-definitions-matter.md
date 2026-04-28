@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: The APS Glossary - Why Definitions Matter
 slug: the-aps-glossary-why-definitions-matter
 status: canonical

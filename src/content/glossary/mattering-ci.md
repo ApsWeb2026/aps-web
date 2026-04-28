@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-08
 title: Mattering
 slug: mattering
 definition: "Mattering is the way conditions, differences, or events acquire significance relative to a living system’s viability."

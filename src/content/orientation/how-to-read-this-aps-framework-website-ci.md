@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-14
 title: How to Read APS_WEB
 slug: how-to-read-this-aps-framework-website
 status: canonical

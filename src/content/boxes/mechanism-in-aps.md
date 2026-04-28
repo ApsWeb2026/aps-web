@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-20
 title: APS Box — Mechanism in APS
 slug: mechanism-in-aps
 status: canonical

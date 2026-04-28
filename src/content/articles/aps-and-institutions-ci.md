@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: "APS and Institutions: How Social Systems Stabilise Organised Persistence"
 slug: aps-and-institutions
 status: evolving

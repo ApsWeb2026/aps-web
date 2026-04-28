@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-03-27
 title: "From Aristotle to Modern Biology: The Transformation of a Science"
 slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
 abstract: "This article traces the long transformation of biology from Aristotle’s organism-centred natural history to modern evolutionary, cellular, molecular, and systems-based science. It emphasises both rupture and continuity: biology changed its tools, scales, and theories, but retained the need to explain organised living systems."

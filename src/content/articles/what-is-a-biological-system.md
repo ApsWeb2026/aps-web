@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-10
 title: What Is a Biological System? — From Mechanism to Viability-Oriented Organisation
 slug: what-is-a-biological-system
 status: canonical

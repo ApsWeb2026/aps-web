@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-13
 title: Explanatory Priority Is Not Ontological Priority
 slug: explanatory-priority-is-not-ontological-priority
 status: canonical

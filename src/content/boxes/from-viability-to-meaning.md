@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-02
 title: "APS Box — From Viability to Meaning"
 slug: from-viability-to-meaning
 status: canonical

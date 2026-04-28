@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-03
 title: Agency Without Intentions
 slug: biological-agency-without-intentions
 abstract: "This article explains how APS understands biological agency as viability-oriented activity without requiring intention, representation, or mental states."

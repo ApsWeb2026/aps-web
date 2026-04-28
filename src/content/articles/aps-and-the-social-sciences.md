@@ -1,5 +1,5 @@
 ---
-date: 2026-04-27
+date: 2026-04-09
 title: "APS and the Social Sciences: How Social Systems Organise Viability Across Scales"
 slug: aps-and-the-social-sciences
 status: evolving
