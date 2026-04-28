@@ -5,7 +5,7 @@ slug: understanding-aps-the-structure-of-the-framework
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-04-13
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
   This article explains how the APS framework is structured and how its core concepts fit together. It shows how agency, process, and scale form a unified explanatory grammar for understanding life as viability-oriented, constraint-closed organisation.
@@ -15,6 +15,9 @@ relatedGlossaryTerms:
   - scale
   - persistence
   - constraint-closure
+  - evaluation
+  - semiosis
+  - cognition
 relatedArticles:
   - what-is-aps
   - the-core-structure-of-aps-how-the-framework-fits-together
@@ -37,6 +40,8 @@ The diagram below shows how APS organises biological explanation in terms of age
 *APS explains biological systems through three inseparable dimensions: agency, process, and scale. These are not separate components or levels, but co-constitutive aspects of a single, viability-maintaining organisation.*
 
 Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to the maintenance of viability.
+
+Within this organisation, activity is not only sustained but differentially structured in relation to viability. Systems modulate their activity according to what supports or undermines their persistence (evaluation), and environmental differences come to matter through this modulation (semiosis). Cognition arises when this evaluative organisation becomes temporally extended and integrated such that present activity is structured in relation to conditions beyond the immediate present. It is therefore not a separate domain, but a specific organisational development within the same explanatory framework.
 
 This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
 
