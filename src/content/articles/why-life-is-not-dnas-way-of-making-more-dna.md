@@ -60,6 +60,8 @@ Genes matter enormously. Without them, the continuity of life as we know it woul
 
 But describing what is important is not the same as explaining what something *is*.
 
+Gene-centred accounts capture important aspects of inheritance and evolutionary change, but they do not explain the viability-oriented organisation that makes biological systems possible in the first place.
+
 ## What It Leaves Out
 
 The slogan treats replication as if it were the organising principle of life.
