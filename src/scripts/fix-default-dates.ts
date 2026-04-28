@@ -27,11 +27,11 @@ for (const file of walk(CONTENT_DIR)) {
 
   if (date > revised) {
     const fixed = text.replace(
-      /^revised:\s*\d{4}-\d{2}-\d{2}\s*$/m,
-      `revised: ${date}`
+      /^date:\s*\d{4}-\d{2}-\d{2}\s*$/m,
+      `date: ${revised}`
     );
 
     fs.writeFileSync(file, fixed);
-    console.log(`Fixed ${path.relative(process.cwd(), file)}: revised ${revised} → ${date}`);
+    console.log(`Fixed ${path.relative(process.cwd(), file)}: date ${date} → ${revised}`);
   }
 }
