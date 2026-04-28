@@ -57,10 +57,20 @@ The following articles examine major contemporary frameworks in turn, clarifying
 - **[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)**  
 - **[Why Life Is Not Control Theory](/articles/why-life-is-not-control-theory/)**  
 - **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**  
+- **[Why Life Is Not Enactivism](/articles/why-life-is-not-enactivism/)**  
 - **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**  
-- **[APS and Systems Theory — Similarities, Differences, and Limits](/articles/aps-and-systems-theory/)**  
 
 Each article shows how a specific framework captures important aspects of living systems while failing to account for life as a whole.
+
+## Integration and Extension
+
+The following articles clarify how APS relates to closely aligned or complementary theoretical frameworks. Rather than rejecting these approaches, APS situates and extends them within a broader account of viability-oriented organisation:
+
+- **[APS and Systems Theory — Similarities, Differences, and Limits](/articles/aps-and-systems-theory/)**  
+- **[APS and Autonomy Theory — From Constraint Closure to Viability-Oriented Organisation](/articles/aps-and-autonomy-theory/)**  
+- **[APS and the Extended Evolutionary Synthesis — Conditions and Extensions of Evolution](/articles/aps-and-the-extended-evolutionary-synthesis/)**  
+
+These articles show how APS incorporates existing insights while providing a more comprehensive explanatory framework.
 
 ## How to Read This Series
 
@@ -69,6 +79,7 @@ You can read these articles in any order, depending on your interests.
 However, for a structured understanding:
 
 - Begin with **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)** for the APS account  
-- Then explore the articles above to see how this account contrasts with existing frameworks  
+- Then explore the comparative articles to see how this account contrasts with existing frameworks  
+- Finally, read the integration articles to understand how APS relates to and extends contemporary approaches  
 
 Together, they show how APS provides a unified account of life where existing approaches remain partial.
