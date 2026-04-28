@@ -14,6 +14,8 @@ seeAlso:
   - normativity
   - function
   - persistence
+  - cognition
+  - semiosis
 ---
 
 ## Conventional framing
@@ -27,6 +29,8 @@ APS reconceives biological agency as intrinsic to life itself. Agency is the via
 Living systems differentiate changes in their internal and external conditions in terms of their consequences for persistence and reorganise their own constraints accordingly. Agency, process, and scale are analytically distinguishable but ontologically co-constitutive dimensions of this organisation: agency expresses viability-oriented regulation, process enacts that organisation through time, and scale reflects its spatiotemporal coordination.
 
 Agency makes explicit the intrinsic normativity of living systems—the fact that some outcomes support persistence while others undermine it.
+
+Cognition is continuous with biological agency. It does not mark a separate category, but a more integrated and structured organisation of agential activity, in which the differentiation and regulation of viability-relevant conditions become increasingly coordinated and temporally extended. What varies across systems is not whether agency or cognition is present, but the form and organisation of this viability-oriented activity.
 
 ## Key Point
 
