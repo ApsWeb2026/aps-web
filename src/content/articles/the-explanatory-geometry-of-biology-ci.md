@@ -14,7 +14,6 @@ abstract: >
   provides a coherent, empirically tractable grammar for understanding living
   systems.
 relatedGlossaryTerms:
-  relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
