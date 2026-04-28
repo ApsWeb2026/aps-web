@@ -5,10 +5,10 @@ slug: cognition-where-does-it-belong-in-biology
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-19
-revised: 2026-04-19
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
-  This article repositions cognition within biology as a fundamental aspect of viability-oriented organisation rather than a specialised feature of nervous systems. It shows how cognition arises from the capacity of living systems to evaluate and regulate their interactions with the environment in ways that sustain their own persistence.
+  This article repositions cognition within biology as a specific organisational development of viability-oriented systems rather than a general feature of life or a specialised property of nervous systems. It shows how cognition arises when evaluative activity becomes temporally extended and integrated, enabling present regulation to be structured in relation to conditions beyond the immediate present.
 relatedGlossaryTerms:
   - biological-agency
   - viability
@@ -17,6 +17,9 @@ relatedGlossaryTerms:
   - adaptation
   - process
   - scale
+  - evaluation
+  - semiosis
+  - cognition
 relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
@@ -58,6 +61,8 @@ This shift requires a clarification of what is meant by cognition in APS:
 
 [[box:what-aps-means-by-cognition]]
 
+With this clarification in place, cognition can be located precisely within biological organisation. It is not a general feature of all living systems, but a specific way in which viability-oriented activity becomes organised.
+
 This requires more than passive maintenance. Systems must:
 
 - differentiate between conditions that support or threaten viability  
@@ -66,11 +71,11 @@ This requires more than passive maintenance. Systems must:
 
 These activities are intrinsically evaluative. They involve determining what matters for continued existence and acting accordingly.
 
-From this perspective, cognition is not an additional feature layered onto life. It is:
+From this perspective, cognition is not an additional feature layered onto life, but a specific organisational development within it.
 
-> **the capacity of a system to evaluate and regulate its own viability-relative interactions with the environment.**
+Cognition arises only when viability-oriented evaluation becomes sufficiently integrated and temporally extended such that present activity is structured in relation to conditions beyond the immediate present.
 
-Cognition therefore emerges wherever living systems actively sustain themselves.
+It therefore does not emerge wherever living systems sustain themselves, but only where evaluative activity exhibits counterfactual depth and system-wide coordination.
 
 ## From Viability to Evaluation
 
@@ -78,11 +83,16 @@ The transition from organisation to cognition can be made explicit.
 
 - **Viability** defines the conditions required for persistence  
 - **Normativity** establishes what matters relative to those conditions  
-- **Cognition** is the real-time evaluation and regulation of those conditions  
+- **Evaluation** is the differential modulation of activity in relation to those conditions  
+- **Cognition** arises when evaluation becomes temporally extended and integrated across the system  
 
 This sequence does not introduce new entities. It makes explicit a structure already present in living organisation.
 
-Cognition is thus the **enactment of normativity** within ongoing biological processes.
+Evaluation is the enactment of normativity in real time: it is how systems modulate their activity in relation to what sustains or undermines their persistence.
+
+Cognition is a further development of this process. It arises when evaluative activity is organised such that present regulation is structured in relation to conditions that are not currently realised but remain relevant to viability.
+
+In this sense, cognition is not identical with evaluation, but what evaluation becomes when it is extended across time and coordinated at the level of the system as a whole.
 
 ## Cognition Without Representation
 
@@ -96,68 +106,69 @@ A system can evaluate its environment without representing it in a symbolic or m
 
 Cognition in this sense is grounded in **function and organisation**, not in internal representations.
 
-This allows cognition to be understood as a biological phenomenon continuous with basic life processes.
+This allows cognition to be understood as a biological phenomenon grounded in life processes, but not identical with them.
 
 ## Degrees of Cognition
 
-Just as viability is graded, cognition is not all-or-nothing.
+Cognition is not all-or-nothing, but neither is it ubiquitous. It arises only when evaluative activity is organised with counterfactual depth.
 
 Systems differ in:
 
-- the range of conditions they can evaluate  
-- the speed and flexibility of their responses  
-- the extent of their integration across scales  
+- the range of conditions—present, past, or possible—that are integrated into their evaluative organisation  
+- the flexibility and context sensitivity of their responses  
+- the extent to which activity is coordinated across time and scale  
 
-More complex organisms exhibit more elaborate forms of cognition, but these build on the same underlying structure present in simpler systems.
+More complex organisms exhibit more elaborate forms of cognition, but these build on the same underlying organisational pattern rather than introducing a fundamentally different kind of process.
 
-Cognition therefore spans a continuum:
+Cognition therefore admits of degrees, but only within systems that satisfy the conditions for its presence. It spans a continuum:
 
-- from minimal forms of viability-oriented regulation  
-- to highly integrated, flexible, and multi-scale evaluation  
+- from minimally integrated, shallow forms of temporally extended evaluation  
+- to highly integrated, flexible, and multi-scale coordination of activity across time  
 
-This continuity removes the need to posit a sharp boundary between non-cognitive and cognitive life.
+This graded structure allows cognition to be compared across systems without treating all viability-oriented regulation as cognitive. A distinction is therefore maintained between non-cognitive systems, in which evaluation remains tightly coupled to immediate conditions, and cognitive systems, in which evaluation is organised with respect to non-present conditions.
 
 ## Cognition and Biological Agency
 
-Cognition and **[biological agency](/glossary/biological-agency/)** are closely related but not identical.
+Cognition and **[biological-agency](/glossary/biological-agency/)** are closely related but not identical.
 
-- Agency refers to the capacity of a system to sustain its own organisation  
-- Cognition refers to how that system evaluates and regulates its interactions in doing so  
+- Agency refers to the ongoing activity through which a system sustains its own organisation  
+- Evaluation refers to how that activity is differentially modulated in relation to viability  
+- Cognition refers to a further organisational development in which evaluative activity is temporally extended and integrated  
 
-Cognition can therefore be understood as:
+Cognition can therefore be understood as a specific mode of agency in which evaluation is organised across time.
 
-> **the operational dimension of agency in which viability is continuously evaluated and acted upon.**
+> **Cognition is not the presence of evaluation as such, but what evaluation becomes when it is structured in relation to conditions beyond the immediate present.**
 
-This relationship ensures that cognition remains grounded in the organisation of living systems rather than being treated as an independent domain.
+This relationship ensures that cognition remains grounded in biological organisation while preserving a clear distinction between life, evaluation, and cognition.
 
 ## Implications for Biology
 
 Repositioning cognition in this way has several consequences.
 
-First, it integrates cognition into biology as a whole, rather than isolating it within neuroscience or psychology.
+First, it situates cognition within biology as a whole, rather than isolating it within neuroscience or psychology.
 
-Second, it provides a consistent framework for comparing systems across scales, from cellular processes to complex organisms.
+Second, it provides a principled framework for comparing systems across scales without relying on behavioural or representational criteria.
 
 Third, it aligns cognition with the same explanatory and diagnostic principles that apply elsewhere in APS:
 
 - it is explained through the relations of agency, process, and scale  
 - it is evaluated through perturbation and viability-relative outcomes  
 
-Cognition is therefore not an exception within biology, but a natural expression of how living systems sustain themselves.
+Cognition is therefore not an exception within biology, but a specific organisational development within how living systems sustain themselves.
 
 ## Where Cognition Belongs
 
 Cognition belongs neither outside biology nor at its upper limits. It belongs:
 
-> **within the organisation of life itself, as the evaluative and regulatory activity through which viability is maintained in real time.**
+> **within the organisation of life itself, as a specific form of evaluative activity in which present regulation is structured in relation to conditions beyond the immediate present.**
 
 Understanding cognition in this way allows it to be integrated with the rest of the APS framework without introducing new explanatory categories.
 
 ## Key Points
 
-- Cognition is not a specialised feature of nervous systems but a property of viability-oriented organisation.  
-- It consists in the evaluation and regulation of viability-relative interactions with the environment.  
-- Cognition emerges from the relation between viability, normativity, and ongoing biological processes.  
+- Cognition is not a specialised feature of nervous systems but a specific organisational development within viability-oriented systems.  
+- It arises when evaluative activity becomes temporally extended and integrated across the system.  
+- Cognition emerges from the relation between viability, normativity, and evaluation.  
 - It does not require representation or internal models.  
-- Cognition is graded and continuous across forms of life.  
-- It is the operational dimension of biological agency through which viability is sustained.
+- Cognition is graded, but only within systems that satisfy the conditions for its presence.  
+- It is a specific mode of biological agency in which evaluation is organised with counterfactual depth.
