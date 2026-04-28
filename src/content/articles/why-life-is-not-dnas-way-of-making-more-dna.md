@@ -3,7 +3,7 @@ date: 2026-04-11
 title: Why Life Is Not DNA’s Way of Making More DNA
 slug: why-life-is-not-dnas-way-of-making-more-dna
 status: evolving
-revised: 2026-04-11
+revised: 2026-04-29
 cluster: conceptual-foundations
 abstract: |
   The familiar slogan that life is “DNA’s way of making more DNA” captures an important truth about inheritance—but it does not explain what life is. This article clarifies why genes matter without mistaking them for the organising principle of living systems, introducing the APS view that life is viability-oriented organisation sustained through ongoing biological activity.
@@ -61,6 +61,8 @@ Genes matter enormously. Without them, the continuity of life as we know it woul
 But describing what is important is not the same as explaining what something *is*.
 
 Gene-centred accounts capture important aspects of inheritance and evolutionary change, but they do not explain the viability-oriented organisation that makes biological systems possible in the first place.
+
+APS distinguishes between evaluation and higher-level cognitive organisation. All living systems modulate their activity relative to viability, but this evaluative organisation is prior to processes such as replication or inheritance. Gene-centred accounts risk treating replication as primary, thereby obscuring the evaluative activity through which living systems sustain the conditions that make replication possible.
 
 ## What It Leaves Out
 
