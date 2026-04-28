@@ -60,6 +60,8 @@ Where living systems already exist as organised entities, information processing
 
 But, as with other frameworks, it presupposes something it does not itself explain.
 
+Information-processing accounts describe important patterns of signalling and coordination, but they do not explain the viability-oriented organisation that gives these processes biological meaning.
+
 ## Information Presupposes a System
 
 To process information, a system must already exist.
