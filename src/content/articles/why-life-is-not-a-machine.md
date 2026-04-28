@@ -133,6 +133,18 @@ But no matter how intricate a machine becomes, it does not:
 
 This shows that mechanism alone is not sufficient for life.
 
+### Machines, AI, and the Appearance of Cognition
+
+Contemporary artificial and synthetic systems can exhibit highly adaptive, flexible, and seemingly intelligent behaviour. They may learn, optimise, and respond to changing conditions in ways that resemble biological systems.
+
+However, these systems remain fundamentally different in their organisation.
+
+They do not exist for themselves, do not sustain their own conditions of persistence, and do not operate through viability-oriented, constraint-closed organisation. Their activity is defined relative to externally specified objectives, architectures, and maintenance conditions.
+
+For this reason, such systems may display complex or intelligent behaviour, but they do not instantiate cognition in the APS sense. Cognition, in APS, is not defined by behavioural complexity or problem-solving ability, but by the organisation of activity within systems that regulate their own continued existence.
+
+This distinction clarifies why increasing mechanical or computational sophistication does not, by itself, produce life or cognition.
+
 ## The APS Perspective: Mechanism Within Organisation
 
 APS does not reject mechanistic explanation.
