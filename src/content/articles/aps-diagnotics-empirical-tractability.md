@@ -5,7 +5,7 @@ slug: aps-diagnostics-empirical-tractability
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-04-18
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
   This article establishes the diagnostic dimension of the APS framework. It shows how claims about viability-oriented, constraint-closed organisation can be empirically evaluated through perturbation, organisational response, and viability-relative outcomes, thereby making APS an operational and testable framework for biological explanation.
@@ -18,6 +18,9 @@ relatedGlossaryTerms:
   - function
   - adaptation
   - persistence
+  - evaluation
+  - semiosis
+  - cognition
 relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
@@ -116,6 +119,27 @@ Diagnostics therefore operates not by simple classification, but by evaluating:
 - capacity for recovery and adaptation  
 
 This allows APS to account for variation across systems, conditions, and scales without reducing evaluation to fixed thresholds.
+
+## Diagnosing cognition
+
+The diagnostic framework of APS also clarifies how cognition can be empirically identified. Cognition is not inferred from behavioural complexity or adaptive success, but from the organisation of evaluative activity.
+
+A system exhibits cognition only when its evaluative organisation is structured with counterfactual depth. This can be assessed by examining how the system responds under perturbation, not only in terms of immediate regulation, but in relation to temporally extended and integrated activity.
+
+[[box:what-aps-means-by-cognition]]
+
+Four interdependent conditions must be satisfied:
+
+- **integrated evaluation**, where multiple viability-relevant constraints are coordinated  
+- **context sensitivity**, where responses depend on the state of the system  
+- **temporal depth**, where present activity is shaped by past or possible conditions  
+- **cross-scale coordination**, where local processes and system-wide organisation are reciprocally linked  
+
+These conditions are not independently sufficient. Only when they are jointly satisfied does evaluative activity extend beyond the immediate present in a way that supports cognition.
+
+Under perturbation, cognitive systems exhibit responses that reflect this organisation. Their activity cannot be explained solely by immediate stimulus–response coupling, but shows evidence of integration across time and scale. Non-cognitive systems, by contrast, may regulate effectively but remain tightly coupled to present conditions.
+
+Diagnostics therefore provides a principled basis for distinguishing cognitive from non-cognitive systems. Cognition is identified not by what a system appears to do, but by how its organisation is structured and how that structure is revealed under perturbation.
 
 ## From Framework to Method
 
