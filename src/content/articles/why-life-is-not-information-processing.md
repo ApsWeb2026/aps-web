@@ -189,4 +189,4 @@ In APS, life is viability-oriented, constraint-closed organisation sustained thr
 
 ## Key Point
 
-Living systems process information, but information is meaningful only within viability-oriented organisation; life is not defined by information processing but by the activity that sustains the system in which information can matter.
+Information-processing accounts describe signalling and coordination, but life is defined by viability-oriented organisation.
