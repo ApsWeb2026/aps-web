@@ -126,6 +126,6 @@ APS situates these tools within a broader explanatory framework that specifies:
 
 In this way, systems theory is neither rejected nor replaced. It is **integrated and grounded** within an account of biological organisation.
 
-## In Brief
+## Key Point
 
-Systems theory provides powerful tools for describing interaction and dynamics, but it does not by itself define what makes a system biological. APS incorporates systems insights while grounding them in viability-oriented, constraint-closed organisation. Biological systems are distinguished not by complexity or feedback alone, but by endogenous normativity and agency.
+Systems theory describes patterns of interaction and dynamic organisation, but life is defined by viability-oriented organisation.
