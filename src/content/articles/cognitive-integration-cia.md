@@ -5,15 +5,16 @@ slug: cognitive-integration
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-04-10
+revised: 2026-04-29
 cluster: empirical-interface
 abstract: |
-  Cognitive Integration (CI) is a core diagnostic dimension in APS, expressing the degree to which a system coordinates its activity across processes, time, and scale in sustaining its own viability. CI distinguishes simple reactive adjustment from integrated, system-wide regulation, without presupposing representation or consciousness.
+  Cognitive Integration (CI) is a core diagnostic dimension in APS, expressing the degree to which a system coordinates its activity across processes, time, and scale in sustaining its own viability. CI distinguishes simple reactive adjustment from integrated, system-wide regulation, but does not by itself constitute cognition, which additionally requires viability-oriented evaluation with temporal depth.
 keyPoints:
   - Cognitive Integration (CI) measures how coherently a system coordinates its activity in sustaining viability.
   - CI distinguishes local or reactive responses from integrated, system-wide regulation.
   - High CI systems coordinate multiple processes across time and scale in restoring viable conditions.
   - CI does not require representation or consciousness; it reflects organisational integration.
+  - CI is a condition for cognition in more complex systems, but not sufficient for it.
   - CI completes the APS diagnostic triad alongside the Viability Gradient (VG) and Normativity Gradient (NG).
 relatedGlossaryTerms:
   - cognition
@@ -46,11 +47,11 @@ This includes:
 - coordination across spatial extent  
 - continuity of regulation over time  
 
-CI therefore reflects the organisation of activity, not the presence of cognition in a mental or representational sense.
+CI therefore reflects the organisation of activity, not the presence of cognition. Cognition, in APS, requires not only integration but **viability-oriented evaluation with temporal depth**.
 
 ## High and Low Cognitive Integration
 
-Systems can be situated along the gradient:
+Systems can be situated along a gradient:
 
 ### High CI
 - Responses involve coordinated changes across multiple processes  
@@ -83,10 +84,9 @@ In APS:
 - it does not require internal models  
 - it does not presuppose symbolic processing  
 
-Instead, CI reflects:
-> the degree to which a system’s activity is organised as a coherent whole in sustaining its viability
+Instead, CI reflects the degree to which activity is organised as a coherent whole in sustaining viability.
 
-This aligns with the APS view that cognition is continuous with life and grounded in viability-oriented organisation.
+CI is therefore a **condition for cognition in more complex systems, but not sufficient for it**.
 
 ## CI and the Other Diagnostic Dimensions
 
@@ -140,7 +140,7 @@ Instead of asking:
 APS asks:
 > *How are these responses coordinated as a whole?*
 
-This shift reveals that cognition, in its biological sense, is not an added feature but an expression of organised viability.
+This shift reveals that coordinated organisation is a **necessary condition for cognition**, but not sufficient for it. Cognition, in its biological sense, requires the further capacity for viability-oriented evaluation with temporal depth.
 
 ## A Practical Summary
 
