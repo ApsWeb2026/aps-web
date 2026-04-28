@@ -5,7 +5,7 @@ slug: explanatory-geometry-of-biology
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-04-18
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
   This article makes explicit the explanatory structure of the APS framework.
@@ -14,6 +14,7 @@ abstract: >
   provides a coherent, empirically tractable grammar for understanding living
   systems.
 relatedGlossaryTerms:
+  relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
@@ -23,6 +24,9 @@ relatedGlossaryTerms:
   - function
   - adaptation
   - evolution
+  - evaluation
+  - semiosis
+  - cognition
 relatedArticles:
   - what-is-life-a-biological-question-revisited
   - understanding-aps-the-structure-of-the-framework
@@ -59,6 +63,18 @@ APS does not resolve this by redefining terms arbitrarily. Instead, it specifies
 This transforms explanation from a loose assemblage of concepts into a constrained grammar. Concepts are not free-floating descriptors, but elements whose meaning is determined by their role within an organised explanatory structure.
 
 [[box:aps-box-what-is-explanatory-grammar]]
+
+## Cognition within the explanatory grammar
+
+The explanatory structure of APS also clarifies the place of cognition within biology. Cognition is not a separate domain layered onto biological organisation, but a specific way in which that organisation becomes structured.
+
+Within the explanatory grammar, cognition arises from the organisation of evaluative activity. Agency establishes viability-oriented activity, process captures its dynamic realisation, and scale determines its extent across time and space. Within this structure, evaluation differentiates what matters for persistence, and semiosis organises how environmental differences enter into that differentiation.
+
+Cognition arises when this evaluative organisation becomes temporally extended and integrated such that present activity is structured in relation to conditions beyond the immediate present. It is therefore not a general feature of all living systems, but a specific organisational development within viability-oriented organisation.
+
+[[box:what-aps-means-by-cognition]]
+
+In this way, cognition does not introduce a new explanatory layer, but refines the existing grammar. It specifies how viability-oriented organisation can become structured across time, enabling systems to regulate their activity in relation to non-present conditions while remaining grounded in the same relations of agency, process, and scale.
 
 ## Constraint and coherence in biological explanation
 
