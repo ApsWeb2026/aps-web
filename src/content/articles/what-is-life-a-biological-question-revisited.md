@@ -4,7 +4,7 @@ title: "What Is Life? — A Biological Question Revisited"
 slug: "what-is-life-a-biological-question-revisited"
 abstract: "This article revisits the question of what life is, arguing within APS that life is best understood as viability-oriented, constraint-closed biological organisation rather than a list of defining properties."
 status: canonical
-revised: 2026-04-08
+revised: 2026-04-28
 cluster: foundations
 keyPoints:
   - "Life is not defined by a fixed list of properties but by organised persistence."
@@ -17,7 +17,13 @@ relatedGlossaryTerms:
   - persistence
   - normativity
   - constraint-closure
-relatedArticles: []
+  - evaluation
+  - semiosis
+  - cognition
+relatedArticles:
+  - explanatory-geometry-of-biology
+  - understanding-aps-the-structure-of-the-framework
+  - from-life-to-explanation-emerging-architecture
 researchStreams: []
 references: []
 ---
@@ -121,6 +127,8 @@ Cells, organisms, collectives, and even ecological systems can count as living i
 Genes and other components are indispensable explanatory constructs, but they are not living units in themselves. They participate in living biological organisation rather than constituting it.
 
 Life, on this view, is graded and scale-relative rather than confined to a single privileged unit.
+
+Not all living systems are cognitive. While all living systems exhibit viability-oriented organisation and evaluation, cognition arises only when this activity becomes temporally extended and integrated such that present regulation is structured in relation to conditions beyond the immediate present.
 
 ## The APS Perspective: Life as Viability-Oriented Organisation
 
