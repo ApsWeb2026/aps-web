@@ -57,6 +57,8 @@ Where systems already exist, mechanistic models can describe how those systems o
 
 But they do not explain what makes a system a living system in the first place.
 
+These models capture important features of structure and function, but they do not explain the viability-oriented organisation that makes a system a living system.
+
 ## Machines Presuppose External Design
 
 A defining feature of machines is that their organisation is specified from outside.
