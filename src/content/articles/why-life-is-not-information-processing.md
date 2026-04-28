@@ -62,6 +62,8 @@ But, as with other frameworks, it presupposes something it does not itself expla
 
 Information-processing accounts describe important patterns of signalling and coordination, but they do not explain the viability-oriented organisation that gives these processes biological meaning.
 
+APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. Information-processing accounts risk treating all such modulation as cognitive, thereby obscuring the conditions under which cognition properly arises.
+
 ## Information Presupposes a System
 
 To process information, a system must already exist.
