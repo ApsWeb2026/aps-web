@@ -3,7 +3,7 @@ date: 2026-04-11
 title: Why Life Is Not a Machine
 slug: why-life-is-not-a-machine
 status: evolving
-revised: 2026-04-11
+revised: 2026-04-29
 cluster: conceptual-foundations
 abstract: |
   Living systems are often described as machines, especially in biology, engineering, and artificial intelligence. While the machine analogy captures aspects of structure and function, it fails to explain what makes living systems fundamentally different. This article clarifies why life cannot be reduced to machinery and how APS reframes the distinction in terms of viability-oriented organisation.
