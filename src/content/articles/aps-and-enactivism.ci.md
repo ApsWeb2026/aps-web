@@ -1,14 +1,12 @@
 ---
 date: 2026-04-27
-title: APS and Enactivism — From Sense-Making to Viability-Oriented Organisation
-slug: aps-and-enactivism
+title: Why Life Is Not Enactivism
+slug: why-life-is-not-enactivism
 status: canonical
-canonical: true
-canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
-  Enactivism proposes that cognition arises through the dynamic interaction between organism and environment, emphasising embodiment, sense-making, and lived experience. This article clarifies its relationship to the APS framework. While APS and enactivism converge on the continuity between life and cognition, APS grounds this continuity in viability-oriented, constraint-closed organisation rather than in cognition or sense-making as primary explanatory terms. APS shows that cognition is a development within biological agency, not its foundation.
+  Enactivism proposes that cognition arises through the dynamic interaction between organism and environment, emphasising embodiment, sense-making, and lived experience. While this approach captures important aspects of biological organisation, it does not fully explain the viability-oriented, constraint-closed organisation that defines living systems. APS grounds cognition in biological agency and shows that sense-making is an expression of viability-oriented organisation, not its foundation.
 keyPoints:
   - Enactivism explains cognition as arising through organism–environment interaction and embodied sense-making.
   - It rejects representational and purely internalist accounts of mind.
@@ -28,26 +26,37 @@ relatedArticles:
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
   - aps-and-systems-theory
-  - aps-and-the-free-energy-principle
+  - why-life-is-not-active-inference
 ---
 
-## Enactivism and the Continuity of Life and Mind
+Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-Enactivism is a contemporary approach to cognition that emphasises the role of embodiment, action, and organism–environment interaction. Rather than treating cognition as internal computation or representation, it proposes that cognition arises through the ongoing engagement of an organism with its world.
+This article examines enactivism and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+
+## The Appeal of Enactivism
+
+Enactivism is a contemporary approach to cognition that emphasises embodiment, action, and organism–environment interaction. Rather than treating cognition as internal computation or representation, it proposes that cognition arises through the ongoing engagement of an organism with its world.
 
 Central to this view is the idea of **sense-making**: the process by which an organism brings forth a meaningful environment through its activity. Meaning is not imposed from outside or constructed internally as a representation, but emerges through the dynamic relation between organism and environment.
 
 Enactivism therefore rejects both strictly internalist and purely externalist accounts of cognition, locating mind within the activity of living systems.
 
-## Points of Convergence with APS
+APS accepts that this captures something real.
 
-APS and enactivism share several important commitments.
+But it rejects the claim that life is enactivism.
 
-Both reject the separation of organism and environment, emphasising that biological systems exist through ongoing coupling with their surroundings. Both treat cognition as continuous with life, rather than as a distinct or higher-level phenomenon.
+## What It Explains Well
 
-In this respect, enactivism captures an important aspect of biological organisation: that meaning and responsiveness arise through activity rather than through passive reception or internal representation.
+Enactivist accounts successfully explain:
 
-These shared insights make enactivism one of the closest contemporary approaches to the APS framework.
+- the role of embodiment in cognition  
+- the importance of organism–environment coupling  
+- the emergence of meaning through activity  
+- the continuity between life and mind  
+
+These are genuine features of biological systems.
+
+Enactivist accounts capture important aspects of sense-making and organism–environment coupling, but they do not fully explain the viability-oriented organisation that grounds these processes in living systems.
 
 ## The Explanatory Starting Point
 
@@ -55,7 +64,7 @@ Despite this convergence, APS and enactivism differ in their explanatory startin
 
 Enactivist accounts often begin with cognition or sense-making as the primary phenomenon to be explained. From there, they extend the concept downward, identifying simpler forms of cognition in biological systems.
 
-This approach successfully dissolves sharp boundaries between mind and life, but it risks giving explanatory priority to cognition. Biological organisation can then appear as something defined in terms of its cognitive or sense-making capacities.
+This approach dissolves sharp boundaries between mind and life, but it risks giving explanatory priority to cognition. Biological organisation can then appear as something defined in terms of its cognitive or sense-making capacities.
 
 From an APS perspective, this reverses the order of explanation.
 
@@ -65,7 +74,7 @@ APS begins not with cognition but with **viability-oriented, constraint-closed o
 
 Living systems are defined by their ability to sustain and regulate the conditions of their own persistence. This activity is biological agency: the ongoing, self-regulating maintenance of viability.
 
-Cognition, on this view, is not the basis of life but a development within it. It arises as a further elaboration of the same organisational principles that underlie all living systems.
+Cognition, in this view, is not the basis of life but a development within it. It arises as a further elaboration of the same organisational principles that underlie all living systems.
 
 APS therefore reverses the explanatory direction:
 
@@ -80,32 +89,34 @@ Enactivism introduces the concept of sense-making to describe how organisms gene
 
 APS captures a closely related phenomenon but grounds it in **biological normativity**. What matters to a living system is determined by its own organisation: processes contribute to or undermine its continued viability.
 
-In this sense, meaning is not an additional layer imposed on biological activity. It is intrinsic to the organisation of life itself. The asymmetry between what sustains and what degrades a system constitutes the basis of all biological evaluation.
+In this sense, meaning is not an additional layer imposed on biological activity. It is intrinsic to the organisation of life itself. The asymmetry between what sustains and what degrades a system constitutes the basis of all biological differentiation and evaluation.
 
 APS therefore treats sense-making as an expression of viability-oriented organisation rather than as a primary explanatory concept.
 
-## Agency and the Scope of Cognition
+## Agency and the Organisation of Cognition
 
-A further difference concerns the scope of cognition.
+APS maintains a structured relation between key concepts.
 
-Enactivist approaches often extend cognitive language broadly across living systems. While this captures important continuities, it can blur distinctions between different forms of organisation.
+Semiosis describes the structuring of differences as mattering for viability. Cognition is the organised, constraint-sensitive elaboration of this structuring. Agency is the defining activity through which systems sustain their own persistence.
 
-APS maintains a more structured relation between key concepts:
+These are not separate categories but different aspects of the organisation of living systems, varying in form, scope, and integration.
 
-- **Semiosis** as the most basic form of biological responsiveness  
-- **Cognition** as a more integrated and flexible form of regulation  
-- **Agency** as the defining activity of life  
+## The APS Perspective
 
-In this framework, cognition is not synonymous with life, but a particular mode of biological organisation. This preserves continuity while maintaining conceptual clarity.
-
-## Enactivism Within APS
-
-From an APS perspective, enactivism provides a powerful account of how meaning and cognition arise through organism–environment interaction.
+Enactivism provides a powerful account of how meaning and cognition arise through organism–environment interaction.
 
 APS incorporates these insights while situating them within a broader explanatory framework. By grounding sense-making in viability-oriented organisation, APS ensures that cognition is understood as part of the activity through which living systems sustain themselves.
 
-In this way, enactivism is neither rejected nor subsumed. It is **integrated as a theory of cognition within a more general account of life**.
+In this way, enactivism is not rejected but **repositioned**: it becomes a theory of cognition within a more general account of life.
 
-## In Brief
+## Summary
 
-Enactivism explains cognition in terms of embodied interaction and sense-making, emphasising the continuity between life and mind. APS shares this continuity but grounds it in viability-oriented, constraint-closed organisation. Cognition is not the basis of life but a development within biological agency, and sense-making is an expression of the normative structure of living systems.
+Enactivism offers a compelling account of cognition as embodied, enacted, and continuous with life.
+
+APS agrees with this continuity and incorporates its central insights.
+
+However, enactivism does not fully explain what makes a system a living system. Cognition and sense-making must themselves be grounded in viability-oriented, constraint-closed organisation.
+
+## Key Point
+
+Enactivist accounts describe how organisms enact meaning, but life is defined by viability-oriented organisation.
