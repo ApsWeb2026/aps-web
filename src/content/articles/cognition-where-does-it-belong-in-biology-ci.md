@@ -108,6 +108,8 @@ Cognition in this sense is grounded in **function and organisation**, not in int
 
 This allows cognition to be understood as a biological phenomenon grounded in life processes, but not identical with them.
 
+Meaning in APS is not representational content, but the organisation of differences that matter for viability within evaluative activity.
+
 ## Degrees of Cognition
 
 Cognition is not all-or-nothing, but neither is it ubiquitous. It arises only when evaluative activity is organised with counterfactual depth.
