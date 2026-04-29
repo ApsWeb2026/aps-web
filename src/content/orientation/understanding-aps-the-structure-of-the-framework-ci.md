@@ -5,7 +5,7 @@ slug: understanding-aps-the-structure-of-the-framework
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-04-28
+revised: 2026-04-29
 cluster: conceptual-foundations
 abstract: >
   This article explains how the APS framework is structured and how its core concepts fit together. It shows how agency, process, and scale form a unified explanatory grammar for understanding life as viability-oriented, constraint-closed organisation.
@@ -30,6 +30,8 @@ This article develops the internal structure of the APS framework. While *[What 
 For a formal account of how this explanatory structure is organised, see **[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)**.
 
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
+
+For a concise overview of how these elements fit together, see **[APS in One Page — The Structure of Explanation](/articles/aps-in-one-page-the-structure-of-explanation/)**.
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
 
