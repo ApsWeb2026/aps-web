@@ -4,9 +4,11 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import Breadcrumb from '@/components/Breadcrumb.astro';
 import PageMeta from '@/components/PageMeta.astro';
 import LockBanner from '@/components/LockBanner.astro';
+import References from '@/components/References.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('orientation');
+
   return entries.map((entry) => ({
     params: { slug: entry.data.slug },
     props: { entry },
@@ -15,9 +17,19 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, status, canonical, canonicalLockDate, date, revised, relatedGlossaryTerms, relatedArticles } = entry.data;
 
-// Normalize display names like "Biological Agency" to slugs like "biological-agency"
+const {
+  title,
+  status,
+  canonical,
+  canonicalLockDate,
+  date,
+  revised,
+  relatedGlossaryTerms,
+  relatedArticles,
+  references,
+} = entry.data;
+
 function toSlug(term: string): string {
   return term.toLowerCase().replace(/\s+/g, '-');
 }
@@ -29,9 +41,25 @@ const allOrientation = await getCollection('orientation');
 const resolvedRelatedArticles = (relatedArticles ?? [])
   .map((slug: string) => {
     const article = allArticles.find((a) => a.data.slug === slug);
-    if (article) return { slug: article.data.slug, title: article.data.title, href: `/articles/${article.data.slug}/` };
+
+    if (article) {
+      return {
+        slug: article.data.slug,
+        title: article.data.title,
+        href: `/articles/${article.data.slug}/`,
+      };
+    }
+
     const orient = allOrientation.find((o) => o.data.slug === slug);
-    if (orient) return { slug: orient.data.slug, title: orient.data.title, href: `/orientation/${orient.data.slug}/` };
+
+    if (orient) {
+      return {
+        slug: orient.data.slug,
+        title: orient.data.title,
+        href: `/orientation/${orient.data.slug}/`,
+      };
+    }
+
     return null;
   })
   .filter(Boolean) as { slug: string; title: string; href: string }[];
@@ -40,15 +68,24 @@ const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
   .map((term: string) => {
     const normalized = toSlug(term);
     const found = allGlossary.find((g) => g.data.slug === normalized);
+
     return found ? { slug: found.data.slug, title: found.data.title } : null;
   })
   .filter(Boolean) as { slug: string; title: string }[];
 ---
 
 <BaseLayout title={title} description={`${title} — APS Orientation`}>
-  <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Orientation, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}>
+  <div
+    class="content-wrapper"
+    data-pagefind-body
+    data-pagefind-meta={`type:Orientation, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}
+  >
     <span data-pagefind-filter="type:Orientation" data-pagefind-ignore></span>
-    <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
+    <span
+      data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`}
+      data-pagefind-ignore
+    ></span>
+
     <Breadcrumb
       items={[{ label: 'Orientation', href: '/orientation/what-is-aps/' }, { label: title }]}
     />
@@ -68,26 +105,36 @@ const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
       <Content />
     </div>
 
-    {resolvedGlossaryTerms.length > 0 && (
-      <div class="see-also">
-        <h3>See Also</h3>
-        <ul class="tag-list">
-          {resolvedGlossaryTerms.map((term) => (
-            <li><a href={`/glossary/${term.slug}/`}>{term.title}</a></li>
-          ))}
-        </ul>
-      </div>
-    )}
+    {
+      resolvedGlossaryTerms.length > 0 && (
+        <div class="see-also">
+          <h3>See Also</h3>
+          <ul class="tag-list">
+            {resolvedGlossaryTerms.map((term) => (
+              <li>
+                <a href={`/glossary/${term.slug}/`}>{term.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
 
-    {resolvedRelatedArticles.length > 0 && (
-      <div class="see-also">
-        <h3>Related Articles</h3>
-        <ul class="tag-list">
-          {resolvedRelatedArticles.map((item) => (
-            <li><a href={item.href}>{item.title}</a></li>
-          ))}
-        </ul>
-      </div>
-    )}
+    {
+      resolvedRelatedArticles.length > 0 && (
+        <div class="see-also">
+          <h3>Related Articles</h3>
+          <ul class="tag-list">
+            {resolvedRelatedArticles.map((item) => (
+              <li>
+                <a href={item.href}>{item.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+
+    <References references={references ?? []} />
   </div>
 </BaseLayout>
