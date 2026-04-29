@@ -55,7 +55,7 @@ The explanatory structure of APS therefore follows directly from its account of 
 
 <figure class="diagram">
   <img
-    src="/assets/diagrams/constraint-closure.svg"
+    src="/assets/diagrams/constraint-closure-living-systems.svg"
     alt="Diagram showing constraint closure in living systems"
   />
   <figcaption>
