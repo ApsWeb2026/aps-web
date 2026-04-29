@@ -154,10 +154,12 @@ To explain a biological system is to situate it within this architecture:
 This applies whether the focus is molecular, organismal, ecological, or evolutionary.
 
 <figure class="diagram">
-  <img
-    src="/assets/diagrams/temporal-architecture.svg"
-    alt="Diagram showing the temporal architecture of APS"
-  />
+  <a href="/assets/diagrams/temporal-architecture.svg" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/temporal-architecture.svg"
+      alt="Diagram showing the temporal architecture of APS"
+    />
+  </a>
   <figcaption>
     The temporal architecture of APS: present activity, ongoing persistence, generational continuity, and historical transformation form a continuous structure of explanation.
   </figcaption>
