@@ -8,6 +8,7 @@ import References from '@/components/References.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('articles');
+
   return entries.map((entry) => ({
     params: { slug: entry.data.slug },
     props: { entry },
@@ -16,6 +17,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
 const {
   title,
   abstract,
@@ -31,7 +33,6 @@ const {
   references,
 } = entry.data;
 
-// Normalize display names like "Biological Agency" to slugs like "biological-agency"
 function toSlug(term: string): string {
   return term.toLowerCase().replace(/\s+/g, '-');
 }
@@ -39,13 +40,32 @@ function toSlug(term: string): string {
 const allArticles = await getCollection('articles');
 const allGlossary = await getCollection('glossary');
 const allOrientation = await getCollection('orientation');
+const allBoxes = await getCollection('boxes');
+
+const safeKeyPoints = keyPoints ?? [];
 
 const resolvedRelatedArticles = (relatedArticles ?? [])
   .map((slug: string) => {
     const article = allArticles.find((a) => a.data.slug === slug);
-    if (article) return { slug: article.data.slug, title: article.data.title, href: `/articles/${article.data.slug}/` };
+
+    if (article) {
+      return {
+        slug: article.data.slug,
+        title: article.data.title,
+        href: `/articles/${article.data.slug}/`,
+      };
+    }
+
     const orient = allOrientation.find((o) => o.data.slug === slug);
-    if (orient) return { slug: orient.data.slug, title: orient.data.title, href: `/orientation/${orient.data.slug}/` };
+
+    if (orient) {
+      return {
+        slug: orient.data.slug,
+        title: orient.data.title,
+        href: `/orientation/${orient.data.slug}/`,
+      };
+    }
+
     return null;
   })
   .filter(Boolean) as { slug: string; title: string; href: string }[];
@@ -54,28 +74,41 @@ const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
   .map((term: string) => {
     const normalized = toSlug(term);
     const found = allGlossary.find((g) => g.data.slug === normalized);
+
     return found ? { slug: found.data.slug, title: found.data.title } : null;
   })
   .filter(Boolean) as { slug: string; title: string }[];
 
-// Fetch APS Boxes associated with this article
-const allBoxes = await getCollection('boxes');
 const articlePath = `/articles/${entry.data.slug}/`;
+
 const associatedBoxes = allBoxes.filter((box) =>
   box.data.associatedPages.includes(articlePath),
 );
+
 const renderedBoxes = await Promise.all(
   associatedBoxes.map(async (box) => {
     const { Content: BoxContent } = await render(box);
-    return { data: box.data, Content: BoxContent };
+
+    return {
+      data: box.data,
+      Content: BoxContent,
+    };
   }),
 );
 ---
 
 <BaseLayout title={title} description={abstract}>
-  <div class="content-wrapper" data-pagefind-body data-pagefind-meta={`type:Article, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}>
+  <div
+    class="content-wrapper"
+    data-pagefind-body
+    data-pagefind-meta={`type:Article, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}
+  >
     <span data-pagefind-filter="type:Article" data-pagefind-ignore></span>
-    <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
+    <span
+      data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`}
+      data-pagefind-ignore
+    ></span>
+
     <Breadcrumb items={[{ label: 'Articles', href: '/articles/' }, { label: title }]} />
 
     <header class="page-header">
@@ -95,11 +128,11 @@ const renderedBoxes = await Promise.all(
     </div>
 
     {
-      keyPoints.length > 0 && (
+      safeKeyPoints.length > 0 && (
         <div class="key-points">
           <h3>Key Points</h3>
           <ul>
-            {keyPoints.map((point: string) => (
+            {safeKeyPoints.map((point: string) => (
               <li>{point}</li>
             ))}
           </ul>
@@ -126,28 +159,36 @@ const renderedBoxes = await Promise.all(
       )
     }
 
-    {resolvedGlossaryTerms.length > 0 && (
-      <div class="see-also">
-        <h3>See Also</h3>
-        <ul class="tag-list">
-          {resolvedGlossaryTerms.map((term) => (
-            <li><a href={`/glossary/${term.slug}/`}>{term.title}</a></li>
-          ))}
-        </ul>
-      </div>
-    )}
+    {
+      resolvedGlossaryTerms.length > 0 && (
+        <div class="see-also">
+          <h3>See Also</h3>
+          <ul class="tag-list">
+            {resolvedGlossaryTerms.map((term) => (
+              <li>
+                <a href={`/glossary/${term.slug}/`}>{term.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
 
-    {resolvedRelatedArticles.length > 0 && (
-      <div class="see-also">
-        <h3>Related Articles</h3>
-        <ul class="tag-list">
-          {resolvedRelatedArticles.map((item) => (
-            <li><a href={item.href}>{item.title}</a></li>
-          ))}
-        </ul>
-      </div>
-    )}
+    {
+      resolvedRelatedArticles.length > 0 && (
+        <div class="see-also">
+          <h3>Related Articles</h3>
+          <ul class="tag-list">
+            {resolvedRelatedArticles.map((item) => (
+              <li>
+                <a href={item.href}>{item.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
 
-    <References references={references} />
+    <References references={references ?? []} />
   </div>
 </BaseLayout>
