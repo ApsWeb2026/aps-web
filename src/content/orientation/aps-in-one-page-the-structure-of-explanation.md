@@ -4,7 +4,7 @@ title: APS in One Page — The Structure of Explanation
 slug: aps-in-one-page-the-structure-of-explanation
 status: canonical
 revised: 2026-04-29
-cluster: orientation
+cluster: conceptual-foundations
 abstract: >
   This article provides a concise overview of the explanatory structure of the APS framework. It presents the core sequence through which biological organisation is analysed, showing how viability-oriented activity gives rise to evaluation, semiosis, integration, temporal depth, and cognition.
 keyPoints:
