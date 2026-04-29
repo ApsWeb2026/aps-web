@@ -29,11 +29,29 @@ relatedArticles:
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
   - biological-causation-from-mechanism-to-organised-persistence
+references:
+  - id: "friston-2010"
+    authors: "Friston, K."
+    year: 2010
+    title: "The free-energy principle: a unified brain theory?"
+    journal: "Nature Reviews Neuroscience"
+    volume: "11"
+    pages: "127–138"
+    doi: "10.1038/nrn2787"
+
+  - id: "friston-2013"
+    authors: "Friston, K."
+    year: 2013
+    title: "Life as we know it"
+    journal: "Journal of The Royal Society Interface"
+    volume: "10"
+    pages: "20130475"
+    doi: "10.1098/rsif.2013.0475"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines Active Inference and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines Active Inference (Friston 2010,2013) and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Active Inference
 
