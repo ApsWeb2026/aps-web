@@ -20,7 +20,6 @@ relatedGlossaryTerms:
   - semiosis
   - cognition
   - biological-agency
-  - cognitive-integration
 relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
