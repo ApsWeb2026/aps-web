@@ -25,6 +25,33 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
+references:
+  - id: "nicholson-dupre-2018"
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: "moreno-mossio-2015"
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: "montevil-mossio-2015"
+    authors: "Montévil, M., & Mossio, M."
+    year: 2015
+    title: "Biological organisation as closure of constraints"
+    journal: "Journal of Theoretical Biology"
+    volume: "372"
+    pages: "179–191"
+    doi: "10.1016/j.jtbi.2015.02.029"
+
+  - id: "varela-thompson-rosch-1991"
+    authors: "Varela, F. J., Thompson, E., & Rosch, E."
+    year: 1991
+    title: "The Embodied Mind: Cognitive Science and Human Experience"
+    publisher: "MIT Press"
 ---
 
 ## Why a One-Page Structure?
@@ -107,6 +134,8 @@ It shows:
 - how cognition depends on, but is not identical to, more basic biological processes  
 
 It also explains why many existing frameworks misidentify their explanatory starting point: they begin with more organized phenomena such as cognition, information, or control, rather than with viability-oriented organisation.
+
+These ideas are broadly aligned with process and autonomy approaches in theoretical biology and philosophy of biology (Varela et al. 1991; Moreno & Mossio 2015; Montévil & Mossio 2015; Nicholson & Dupré 2018).
 
 ## How to Use This Page
 
