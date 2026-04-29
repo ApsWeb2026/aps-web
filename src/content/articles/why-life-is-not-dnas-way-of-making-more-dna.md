@@ -24,6 +24,18 @@ relatedArticles:
   - what-is-life-a-biological-question-revisited
   - organism-the-unity-of-viability-oriented-organisation
   - constraint-closure-what-it-does-and-does-not-do
+references:
+  - id: "dawkins-1976"
+    authors: "Dawkins, R."
+    year: 1976
+    title: "The Selfish Gene"
+    publisher: "Oxford University Press"
+
+  - id: "noble-2006"
+    authors: "Noble, D."
+    year: 2006
+    title: "The Music of Life: Biology Beyond Genes"
+    publisher: "Oxford University Press"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
@@ -56,7 +68,7 @@ The slogan persists because it captures several genuine features of biology:
 
 These are not in dispute.
 
-Genes matter enormously. Without them, the continuity of life as we know it would not be possible.
+Genes matter enormously. Without them, the continuity of life as we know it would not be possible (Dawkins 1976, Noble 2006).
 
 But describing what is important is not the same as explaining what something *is*.
 
