@@ -28,11 +28,23 @@ relatedArticles:
   - explanatory-priority-is-not-ontological-priority
   - aps-and-systems-theory
   - why-life-is-not-active-inference
+references:
+  - id: varela1991
+    authors: "Varela, F. J., Thompson, E., & Rosch, E."
+    year: 1991
+    title: "The Embodied Mind: Cognitive Science and Human Experience"
+    publisher: "MIT Press"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
+    publisher: "Harvard University Press"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines enactivism and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines enactivism (Varela et al. 1991) and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Enactivism
 
