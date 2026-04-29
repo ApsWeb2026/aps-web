@@ -16,26 +16,33 @@ interface Props {
 }
 
 const { references } = Astro.props;
+
+const sortedReferences = [...(references ?? [])].sort((a, b) =>
+  a.authors.localeCompare(b.authors) || a.year - b.year
+);
 ---
 
 {
-  references.length > 0 && (
+  sortedReferences.length > 0 && (
     <section class="references">
       <h2>References</h2>
       <ol class="ref-list">
-        {references.map((ref) => (
+        {sortedReferences.map((ref) => (
           <li class="ref-entry" id={`ref-${ref.id}`}>
             <span class="ref-authors">{ref.authors}</span> ({ref.year}).{' '}
             <span class="ref-title">{ref.title}</span>.
+            
             {ref.journal && (
               <>
                 {' '}
                 <em>{ref.journal}</em>
               </>
             )}
+
             {ref.volume && <>, {ref.volume}</>}
             {ref.pages && <>, {ref.pages}</>}
             {ref.publisher && <> {ref.publisher}</>}.
+            
             {ref.doi && (
               <>
                 {' '}
@@ -45,7 +52,7 @@ const { references } = Astro.props;
                   target="_blank"
                   rel="noopener"
                 >
-                  doi:{ref.doi}
+                  https://doi.org/{ref.doi}
                 </a>
               </>
             )}
