@@ -4,7 +4,7 @@ title: Understanding APS — The Structure of the Framework
 slug: understanding-aps-the-structure-of-the-framework
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-13
+canonicalLockDate: 2026-04-29
 revised: 2026-04-29
 cluster: conceptual-foundations
 abstract: >
@@ -31,7 +31,7 @@ For a formal account of how this explanatory structure is organised, see **[The 
 
 For a broader account of how scientific explanation is structured, see **[Explanatory Grammar](/articles/explanatory-grammar/)**.
 
-For a concise overview of how these elements fit together, see **[APS in One Page — The Structure of Explanation](/articles/aps-in-one-page-the-structure-of-explanation/)**.
+For a concise overview of how these elements fit together, see **[APS in One Page — The Structure of Explanation](/orientation/aps-in-one-page-the-structure-of-explanation/)**.
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive objects governed by external forces, but systems that actively sustain the conditions of their own **[persistence](/glossary/persistence/)**.
 
