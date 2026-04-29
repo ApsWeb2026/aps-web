@@ -78,7 +78,7 @@ Living systems are not collections of independent processes.
 
 Their activity is coordinated across multiple components, spatial scales, and timescales. Integration refers to the organisation of this coordination.
 
-Through integration, evaluation is organised at the level of the system as a whole.
+Through integration, evaluation is organised at the scale of the system as a whole.
 
 ## Temporal Depth
 
@@ -106,7 +106,7 @@ It shows:
 - how normativity arises from organisation rather than representation  
 - how cognition depends on, but is not identical to, more basic biological processes  
 
-It also explains why many existing frameworks misidentify their explanatory starting point: they begin with higher-level phenomena such as cognition, information, or control, rather than with viability-oriented organisation.
+It also explains why many existing frameworks misidentify their explanatory starting point: they begin with more organized phenomena such as cognition, information, or control, rather than with viability-oriented organisation.
 
 ## How to Use This Page
 
