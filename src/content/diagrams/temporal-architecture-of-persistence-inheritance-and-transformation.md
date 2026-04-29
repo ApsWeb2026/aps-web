@@ -6,7 +6,7 @@ svgFile: "/assets/diagrams/temporal-architecture-of-persistence-inheritance-and-
 caption: "This diagram illustrates the temporal organisation of persistence, inheritance, and transformation within the APS framework."
 description: "This diagram represents the temporal organisation of living systems in APS. Persistence, inheritance, and transformation are not sequential stages but co-present dimensions of biological organisation across time."
 status: "canonical"
-revised: "2026-04-03"
+revised: "2026-04-29"
 figureNumber: "2"
 sequence: 1
 orientation: "Foundations of Life"
