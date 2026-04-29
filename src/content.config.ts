@@ -102,6 +102,7 @@ const orientation = defineCollection({
     cluster: clusterEnum.optional(),
     relatedGlossaryTerms: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),
+    references: z.array(referenceSchema).default([]),
   }),
 });
 
