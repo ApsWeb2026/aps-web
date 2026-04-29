@@ -813,6 +813,20 @@ li {
   font-style: italic;
 }
 
+/* --- NEW: Larger APS diagrams --- */
+.diagram img {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Make temporal architecture larger */
+.diagram img[src*="temporal-architecture"] {
+  max-width: 1400px;
+}
+
 /* --- Content Cards --- */
 .card-list {
   list-style: none;
