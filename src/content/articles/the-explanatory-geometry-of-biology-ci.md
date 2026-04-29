@@ -34,6 +34,27 @@ relatedArticles:
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - aps-as-philosophy-viability-oriented-account
+references:
+  - id: "nicholson-dupre-2018"
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: "moreno-mossio-2015"
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: "montevil-mossio-2015"
+    authors: "Montévil, M., & Mossio, M."
+    year: 2015
+    title: "Biological organisation as closure of constraints"
+    journal: "Journal of Theoretical Biology"
+    volume: "372"
+    pages: "179–191"
+    doi: "10.1016/j.jtbi.2015.02.029"
 ---
 
 Biology does not lack data, mechanisms, or models. What it lacks is a clear account of how explanation itself is organised. Different domains—molecular biology, physiology, ecology, and evolution—often proceed with distinct assumptions about causation, organisation, and what counts as an adequate explanation. As a result, biological theory can appear fragmented: rich in detail, but structurally diffuse.
