@@ -53,6 +53,16 @@ These correspond to the three dimensions of APS: **agency, process, and scale**.
 
 The explanatory structure of APS therefore follows directly from its account of life. Explanation is not imposed from outside, but emerges from the organisation of the system being explained.
 
+<figure class="diagram">
+  <img
+    src="/assets/diagrams/constraint-closure.svg"
+    alt="Diagram showing constraint closure in living systems"
+  />
+  <figcaption>
+    Living systems persist through constraint closure: processes regenerate the constraints that make their own activity possible.
+  </figcaption>
+</figure>
+
 This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
 
 ## A Unified Explanatory Architecture
@@ -143,7 +153,17 @@ To explain a biological system is to situate it within this architecture:
 
 This applies whether the focus is molecular, organismal, ecological, or evolutionary.
 
-This progression can be summarised as a minimal architecture of the APS framework:
+<figure class="diagram">
+  <img
+    src="/assets/diagrams/temporal-architecture.svg"
+    alt="Diagram showing the temporal architecture of APS"
+  />
+  <figcaption>
+    The temporal architecture of APS: present activity, ongoing persistence, generational continuity, and historical transformation form a continuous structure of explanation.
+  </figcaption>
+</figure>
+
+This architecture can be summarised schematically (as shown above):
 
 - What is life? → viability-oriented, constraint-closed organisation  
 - How is it explained? → through the structured relations of agency, process, and scale  
