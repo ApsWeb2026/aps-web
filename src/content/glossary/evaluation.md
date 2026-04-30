@@ -34,7 +34,7 @@ Evaluation may occur with minimal integration, but in more complex systems it is
 
 Evaluation is also distinct from cognition. While all cognitive systems exhibit evaluation, not all evaluative systems are cognitive. Cognition arises only when evaluative activity becomes sufficiently integrated and temporally extended that present regulation is structured in relation to conditions beyond the immediate present. Evaluation is therefore necessary but not sufficient for cognition.
 
-Evaluation underlies semiosis: differences in the environment become meaningful for a system insofar as they differentially modulate its activity in relation to viability. In this way, evaluation establishes what matters for the system and enacts biological normativity in activity. In this way, evaluation also grounds biological function as the normatively structured contribution of processes to persistence.
+Evaluation underlies semiosis: differences in the environment become meaningful for a system insofar as they differentially modulate its activity in relation to viability. In this way, evaluation establishes what matters for the system and enacts biological normativity in activity. It also grounds biological function as the normatively structured contribution of processes to persistence. Semiosis structures these differences as mattering for the system, and when such evaluative activity becomes sufficiently integrated and temporally extended, it gives rise to cognition.
 
 ## Key Point
 

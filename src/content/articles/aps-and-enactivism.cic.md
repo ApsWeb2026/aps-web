@@ -106,7 +106,7 @@ APS captures a closely related phenomenon but grounds it in **biological normati
 
 In this sense, meaning is not an additional layer imposed on biological activity. It is intrinsic to the organisation of life itself.
 
-What enactivism describes as sense-making corresponds to viability-oriented evaluation. However, not all such evaluation is cognitive: cognition arises only when this evaluative activity is organised with sufficient integration and temporal depth.
+What enactivism describes as sense-making corresponds to viability-oriented evaluation and semiosis: the modulation of activity and structuring of differences in relation to viability.However, not all such evaluation is cognitive: cognition arises only when this evaluative activity is organised with sufficient integration and temporal depth.
 
 In this sense, purpose in living systems is not the representation or pursuit of externally defined goals, but the organisation of activity relative to viability.
 
@@ -114,7 +114,7 @@ In this sense, purpose in living systems is not the representation or pursuit of
 
 APS maintains a structured relation between key concepts.
 
-Evaluation describes the differential modulation of activity relative to viability. Semiosis describes the structuring of differences as mattering for the system. Cognitive Integration coordinates activity across processes, time, and scale.
+Evaluation describes the differential modulation of activity relative to viability. Semiosis describes the structuring of differences as mattering for the system. This structuring builds directly on evaluation, specifying how differences are organised within the modulation of activity relative to viability. Cognitive Integration coordinates activity across processes, time, and scale.
 
 Cognition is the structured and temporally extended organisation of evaluative activity, supported by but not reducible to these underlying processes.
 

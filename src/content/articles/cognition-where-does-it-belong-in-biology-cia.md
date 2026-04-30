@@ -69,13 +69,15 @@ This requires more than passive maintenance. Systems must:
 - regulate their interactions with the environment  
 - reorganise in response to changing conditions  
 
-These activities are intrinsically evaluative. They involve determining what matters for continued existence and acting accordingly.
+This differentiation is structured through semiosis: the way in which differences come to matter for the system in relation to viability.
+
+These activities are intrinsically evaluative: they involve the differential modulation of activity in relation to conditions that support or undermine viability. They involve determining what matters for continued existence and acting accordingly.
 
 From this perspective, cognition is not an additional feature layered onto life, but a specific organisational development within it.
 
 Cognition arises only when viability-oriented evaluation becomes sufficiently integrated and temporally extended such that present activity is structured in relation to conditions beyond the immediate present.
 
-It therefore does not emerge wherever living systems sustain themselves, but only where evaluative activity exhibits counterfactual depth and system-wide coordination.
+It therefore does not emerge wherever living systems sustain themselves, but only where evaluative activity exhibits counterfactual depth and system-wide coordination. Counterfactual depth refers to the temporal extent over which evaluative activity is structured.
 
 ## From Viability to Evaluation
 
@@ -83,8 +85,9 @@ The transition from organisation to cognition can be made explicit.
 
 - **Viability** defines the conditions required for persistence  
 - **Normativity** establishes what matters relative to those conditions  
-- **Evaluation** is the differential modulation of activity in relation to those conditions  
-- **Cognition** arises when evaluation becomes temporally extended and integrated across the system  
+- **Evaluation** is the differential modulation of activity in relation to those conditions
+- **Semiosis** structures differences as mattering within that modulation
+- **Cognition** arises when this evaluative activity becomes temporally extended and integrated across the system
 
 This sequence does not introduce new entities. It makes explicit a structure already present in living organisation.
 

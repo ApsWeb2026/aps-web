@@ -62,7 +62,7 @@ But, as with other frameworks, it presupposes something it does not itself expla
 
 Information-processing accounts describe important patterns of signalling and coordination, but they do not explain the viability-oriented organisation that gives these processes biological meaning.
 
-APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. Information-processing accounts risk treating all such modulation as cognitive, thereby obscuring the conditions under which cognition properly arises. In APS, what is often described as information processing is better understood as evaluation: the ongoing differentiation of conditions in terms of their contribution to viability.
+APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended (counterfactual depth). Information-processing accounts risk treating all such modulation as cognitive, thereby obscuring the conditions under which cognition properly arises. In APS, what is often described as information processing is better understood as evaluation and semiosis: the ongoing modulation of activity and structuring of differences in terms of their contribution to viability.
 
 ## Information Presupposes a System
 
@@ -115,7 +115,7 @@ It arises from viability.
 
 States are better or worse for a system not because they encode accurate information, but because they support or undermine the system’s continued existence. This viability-based normativity grounds biological function as the normatively structured contribution of processes to the persistence of the system.
 
-Information may track these differences.
+Information may track these differences, but their significance is grounded in evaluation and semiosis rather than in representation or encoding.
 
 It does not create them.
 
