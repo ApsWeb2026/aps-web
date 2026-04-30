@@ -39,8 +39,6 @@ The diagram below shows how APS organises biological explanation in terms of age
 
 <img src="/assets/diagrams/core-for-understanding.png" alt="Structure of the APS framework" style="max-width: 600px; width: 100%; display: block; margin: 1.5rem auto;" />
 
-*The APS framework describes living systems as organised processes that regulate their interaction with the environment to sustain viability over time.*
-
 Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to the maintenance of viability.
 
 Within this organisation, activity is not only sustained but differentially structured in relation to viability. Systems modulate their activity according to what supports or undermines their persistence (evaluation), and environmental differences come to matter through this modulation (semiosis). Cognition arises when this evaluative organisation becomes temporally extended and integrated such that present activity is structured in relation to conditions beyond the immediate present. It is therefore not a separate domain, but a specific organisational development within the same explanatory framework.
