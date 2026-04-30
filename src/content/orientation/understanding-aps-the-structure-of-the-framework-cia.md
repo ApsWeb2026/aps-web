@@ -37,9 +37,9 @@ APS understands life as **viability-oriented, constraint-closed organisation**. 
 
 The diagram below shows how APS organises biological explanation in terms of agency, process, and scale.
 
-![APS explanatory structure: agency, process, and scale](/assets/diagrams/aps-agency-process-scale.svg)
+![Structure of the APS framework](/assets/diagrams/aps-framework-structure.png)
 
-*APS explains biological systems through three inseparable dimensions: agency, process, and scale. These are not separate components or levels, but co-constitutive aspects of a single, viability-maintaining organisation.*
+*The APS framework describes living systems as organised processes that regulate their interaction with the environment to sustain viability over time.*
 
 Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to the maintenance of viability.
 

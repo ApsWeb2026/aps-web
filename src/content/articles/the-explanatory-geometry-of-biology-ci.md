@@ -74,7 +74,7 @@ In APS, explanation is not a linear account of causes acting on passive entities
 
 These are not separate components of explanation, but analytic perspectives on a single, integrated organisation. Biological explanation consists in showing how these perspectives constrain and support one another in sustaining viable systems.
 
-![Core architecture of APS](/assets/diagrams/aps-core-architecture.svg)
+![Core architecture of APS](/assets/diagrams/aps-core-architecture.png)
 
 *Biological organisation is a constraint-structured process in which agency and regulation actively sustain viability over time. Persistence is an ongoing achievement rather than a passive state.*
 
