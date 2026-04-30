@@ -1522,3 +1522,16 @@ main .content-wrapper .article-body h3 a {
   text-underline-offset: 2px !important;
   border-bottom: none !important;
 }
+
+/* === Diagrams === */
+
+.diagram {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.diagram img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

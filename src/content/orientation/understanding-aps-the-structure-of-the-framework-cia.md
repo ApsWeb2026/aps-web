@@ -37,7 +37,11 @@ APS understands life as **viability-oriented, constraint-closed organisation**. 
 
 The diagram below shows how APS organises biological explanation in terms of agency, process, and scale.
 
+<div class="diagram">
+
 ![Structure of the APS framework](/assets/diagrams/core-for-understanding.png)
+
+</div>
 
 Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to the maintenance of viability.
 
