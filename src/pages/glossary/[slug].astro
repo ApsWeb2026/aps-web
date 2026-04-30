@@ -16,6 +16,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
 const {
   title,
   slug,
@@ -31,7 +32,7 @@ const {
   references,
 } = entry.data;
 
-// Build backlinks: find all articles/orientation/streams that link to this glossary entry
+// Build backlinks
 const articles = await getCollection('articles');
 const allStreams = await getCollection('streams');
 const orientationPages = await getCollection('orientation');
@@ -80,14 +81,22 @@ for (const stream of allStreams) {
   }
 }
 
-// Sort backlinks: canonical first, then by title
+// 🔹 Sort backlinks by relevance
 const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+const typeOrder: Record<string, number> = { orientation: 0, article: 1, stream: 2 };
+
 backlinks.sort(
   (a, b) =>
-    (statusOrder[a.status] ?? 9) - (statusOrder[b.status] ?? 9) || a.title.localeCompare(b.title),
+    (statusOrder[a.status] ?? 9) - (statusOrder[b.status] ?? 9) ||
+    (typeOrder[a.type] ?? 9) - (typeOrder[b.type] ?? 9) ||
+    a.title.localeCompare(b.title),
 );
 
-// Get see-also entries
+// 🔹 Limit + toggle
+const visibleBacklinks = backlinks.slice(0, 5);
+const hiddenBacklinks = backlinks.slice(5);
+
+// See also
 const glossaryEntries = await getCollection('glossary');
 const seeAlsoEntries = seeAlso
   .map((s: string) => glossaryEntries.find((g) => g.data.slug === s))
@@ -98,6 +107,7 @@ const seeAlsoEntries = seeAlso
   <div class="content-wrapper" data-pagefind-body data-pagefind-weight="10" data-pagefind-meta={`type:Glossary, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}>
     <span data-pagefind-filter="type:Glossary" data-pagefind-ignore></span>
     <span data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`} data-pagefind-ignore></span>
+
     <Breadcrumb items={[{ label: 'Glossary', href: '/glossary/' }, { label: title }]} />
 
     <header class="page-header">
@@ -144,8 +154,9 @@ const seeAlsoEntries = seeAlso
       backlinks.length > 0 && (
         <section class="referenced-by">
           <h2>Referenced By</h2>
+
           <ul class="backlink-list">
-            {backlinks.map((bl) => (
+            {visibleBacklinks.map((bl) => (
               <li class="backlink-item">
                 <a href={bl.href}>{bl.title}</a>
                 <span class={`badge badge-${bl.status}`}>
@@ -157,6 +168,28 @@ const seeAlsoEntries = seeAlso
               </li>
             ))}
           </ul>
+
+          {
+            hiddenBacklinks.length > 0 && (
+              <details class="backlink-more">
+                <summary>Show all references ({backlinks.length})</summary>
+
+                <ul class="backlink-list">
+                  {hiddenBacklinks.map((bl) => (
+                    <li class="backlink-item">
+                      <a href={bl.href}>{bl.title}</a>
+                      <span class={`badge badge-${bl.status}`}>
+                        {bl.status.charAt(0).toUpperCase() + bl.status.slice(1)}
+                      </span>
+                      <span class={`badge badge-type badge-${bl.type}`}>
+                        {bl.type.charAt(0).toUpperCase() + bl.type.slice(1)}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            )
+          }
         </section>
       )
     }
