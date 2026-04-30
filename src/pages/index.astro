@@ -45,35 +45,83 @@ const canonicalItems = [
       </p>
 
       <div class="hero-links">
-        <a href="/orientation/aps-viability-oriented-framework/" class="btn btn-primary">
-          APS &mdash; A Viability-Oriented Framework for Understanding Life
+        <a href="/orientation/what-is-aps/" class="btn btn-primary">
+          Start with What Is APS
+        </a>
+        <a href="/orientation/understanding-aps-the-structure-of-the-framework/" class="btn btn-secondary">
+          Understand the Framework
         </a>
       </div>
 
       <p class="hero-guidance">
-        If you are new to APS, begin with
+        For a fuller conceptual introduction, see
         <a href="/orientation/aps-viability-oriented-framework/">
           APS &mdash; A Viability-Oriented Framework for Understanding Life
         </a>.
       </p>
 
       <p class="hero-guidance">
-        For the clearest entry into the conceptual core of the framework, follow
+        For the clearest guided route into the explanatory core of the framework, follow
         <a href="/orientation/how-aps-explains-life/">
           How APS Explains Life &mdash; A Two-Step Guide
         </a>.
       </p>
 
       <p class="hero-explore">
-        Explore the framework through:
-        <a href="/glossary/">Glossary</a> (core definitions),
-        <a href="/articles/">Articles</a> (organised by conceptual clusters)
+        Then explore:
+        <a href="/articles/">Articles</a>,
+        <a href="/glossary/">Glossary</a>,
+        <a href="/clusters/foundations/">Clusters</a>,
+        and <a href="/search/">Search</a>.
       </p>
     </section>
 
     <section class="home-section">
       <h2>Start Here</h2>
       <ul class="card-list">
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title">
+              <a href="/orientation/what-is-aps/">What Is APS</a>
+            </h3>
+            <span class="badge badge-type badge-orientation">Orientation</span>
+          </div>
+          <p class="card-excerpt">
+            A concise entry point into APS as a framework for understanding life as
+            viability-oriented, constraint-closed organisation.
+          </p>
+        </li>
+
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title">
+              <a href="/orientation/understanding-aps-the-structure-of-the-framework/">
+                Understanding APS &mdash; The Structure of the Framework
+              </a>
+            </h3>
+            <span class="badge badge-type badge-orientation">Orientation</span>
+          </div>
+          <p class="card-excerpt">
+            Shows how agency, process, scale, viability, and explanation fit together as a unified
+            explanatory grammar.
+          </p>
+        </li>
+
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title">
+              <a href="/orientation/how-aps-explains-life/">
+                How APS Explains Life &mdash; A Two-Step Guide
+              </a>
+            </h3>
+            <span class="badge badge-type badge-orientation">Orientation</span>
+          </div>
+          <p class="card-excerpt">
+            A guided route into the framework’s central explanatory claim: that life must be
+            understood through organised viability-maintenance.
+          </p>
+        </li>
+
         <li class="card">
           <div class="card-header">
             <h3 class="card-title">
@@ -84,53 +132,8 @@ const canonicalItems = [
             <span class="badge badge-type badge-orientation">Orientation</span>
           </div>
           <p class="card-excerpt">
-            A canonical introduction to APS as a framework for understanding life as
+            A fuller conceptual introduction to APS and its account of life as
             viability-oriented, constraint-closed organisation.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/biological-explanation-what-needs-to-be-explained/">
-                Biological Explanation &mdash; What Needs to Be Explained
-              </a>
-            </h3>
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-          <p class="card-excerpt">
-            A first step into APS: what biological explanation must explain if living systems are to
-            be understood as living.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/structure-of-biological-explanation-in-aps/">
-                The Structure of Biological Explanation in APS
-              </a>
-            </h3>
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-          <p class="card-excerpt">
-            A systematic account of how APS organises explanation through agency, process, scale,
-            temporal dynamics, and coupling.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/">
-                Physiology and Evolution in APS
-              </a>
-            </h3>
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-          <p class="card-excerpt">
-            A clear application of APS showing how present-time regulation and historical
-            transformation belong to one explanatory system.
           </p>
         </li>
       </ul>
@@ -350,7 +353,9 @@ const canonicalItems = [
 
                 {excerpt && <p class="card-excerpt">{excerpt}</p>}
 
-                <div class="card-meta">Revised: {formatDate(entry.data.revised)}</div>
+                {entry.data.revised && (
+                  <div class="card-meta">Revised: {formatDate(entry.data.revised)}</div>
+                )}
               </li>
             );
           })}
