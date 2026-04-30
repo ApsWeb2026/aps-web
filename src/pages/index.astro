@@ -10,9 +10,19 @@ const canonicalItems = [
   ...allArticles.filter((a) => a.data.status === 'canonical'),
   ...allGlossary.filter((g) => g.data.status === 'canonical'),
 ]
-  .sort((a, b) => b.data.revised.localeCompare(a.data.revised))
+  .sort((a, b) => new Date(b.data.revised).getTime() - new Date(a.data.revised).getTime())
   .slice(0, 3);
 ---
+
+function formatDate(value?: string) {
+  if (!value) return '';
+
+  return new Date(value).toLocaleDateString('en-AU', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+}
 
 <BaseLayout
   title="Home"
@@ -340,7 +350,7 @@ const canonicalItems = [
 
                 {excerpt && <p class="card-excerpt">{excerpt}</p>}
 
-                <div class="card-meta">Revised: {entry.data.revised}</div>
+                <div class="card-meta">Revised: {formatDate(entry.data.revised)}</div>
               </li>
             );
           })}
