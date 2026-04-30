@@ -4,6 +4,7 @@ title: Design in Nature — An APS Clarification
 slug: design-in-nature-an-aps-clarification
 status: canonical
 canonical: true
+canonicalLockDate: 2026-04-30
 revised: 2026-04-30
 cluster: conceptual-foundations
 abstract: >
