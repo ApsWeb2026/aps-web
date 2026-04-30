@@ -1536,7 +1536,7 @@ main .content-wrapper .article-body h3 a {
   display: block;
 }
 
-/* === Referenced By (backlinks) === */
+//* === Referenced By (backlinks) === */
 
 .backlink-more {
   margin-top: 0.75rem;
@@ -1550,4 +1550,24 @@ main .content-wrapper .article-body h3 a {
 
 .backlink-more summary:hover {
   text-decoration: underline;
+}
+
+/* === Backlink badges refinement === */
+
+.backlink-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  opacity: 0.8;
+}
+
+.badge-type {
+  opacity: 0.6;
 }
