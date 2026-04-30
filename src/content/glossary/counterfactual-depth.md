@@ -25,15 +25,17 @@ Counterfactual reasoning is typically associated with the ability to represent o
 
 In APS, counterfactual depth is not a representational or psychological capacity, but an organisational property of living systems.
 
-It describes the temporal extent to which the differentiation and regulation of viability-relevant conditions are shaped by states that are not currently realised but could occur, have occurred, or remain relevant to persistence.
+It describes the temporal extent to which evaluation and the regulation of viability-relevant conditions are shaped by states that are not currently realised but could occur, have occurred, or remain relevant to persistence. These conditions matter because of the system’s intrinsic normativity: some possible states support persistence, while others undermine it.
 
 Counterfactual depth does not imply prediction, foresight, or internal modelling. It refers to the stabilisation and integration of constraint-sensitive organisation across time, such that present activity is modulated in relation to conditions that are absent, delayed, or merely possible.
 
-This modulation remains grounded in viability-oriented organisation. Systems do not need to represent alternative states; rather, their organisation allows past and potential conditions to participate in shaping current activity.
+This modulation remains grounded in viability-oriented organisation. Systems do not need to represent alternative states; rather, their organisation allows past and potential conditions to participate in shaping current activity. Nor do they need to infer or predict them; counterfactual depth reflects the organisation of activity across time, not the computation of possible futures.
 
 Counterfactual depth is therefore a dimension of cognitive elaboration. All living systems exhibit temporally structured organisation, but systems vary in the extent to which this organisation integrates non-present, viability-relevant conditions.
 
 Systems with limited counterfactual depth remain more tightly coupled to immediate conditions, while systems with greater depth exhibit increasing temporal integration, coordination, and flexibility in their regulation.
+
+In this way, counterfactual depth contributes to the organisation of activity relative to viability, supporting increasingly flexible forms of biological function and purpose.
 
 ## Key Point
 

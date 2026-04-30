@@ -22,19 +22,19 @@ Evaluation is typically understood as a cognitive or psychological process in wh
 
 ## APS reframing
 
-In APS, evaluation is not a psychological or representational process, but an organisational feature of living systems. It consists in the differential modulation of activity relative to conditions of viability: some processes are stabilised, amplified, or maintained because they contribute to persistence, while others are suppressed or eliminated because they undermine it.
+In APS, evaluation is not a psychological or representational process, but an organisational feature of living systems. It consists in the differential modulation of activity relative to conditions of viability: some processes are stabilised, amplified, or maintained because they contribute to persistence, while others are suppressed or eliminated because they undermine it. Evaluation is not a form of inference or prediction, but the direct modulation of activity in relation to viability.
 
-Evaluation arises from the viability-oriented organisation of the system. Because a living system must actively sustain itself, its activity is intrinsically asymmetric: some states and trajectories support continued existence, while others do not. This asymmetry is not imposed externally or defined by assigned goals, but emerges from the organisation of the system itself. Evaluation is the process by which this asymmetry is enacted in activity.
+Evaluation arises from the viability-oriented organisation of the system. Because a living system must actively sustain itself, its activity is intrinsically asymmetric: some states and trajectories support continued existence, while others do not. This asymmetry is not imposed externally or defined by assigned goals, but emerges from the organisation of the system itself. It is this asymmetry that constitutes biological normativity, and evaluation is its expression in the modulation of activity. Evaluation is the process by which this asymmetry is enacted in activity.
 
 All living systems exhibit evaluation in this sense. Cellular regulation, metabolic adjustment, repair processes, and physiological responses all involve the modulation of activity relative to conditions that support or threaten persistence. Evaluation therefore does not require cognition, representation, or decision-making. It is a fundamental feature of biological organisation.
 
-Evaluation is distinct from agency but inseparable from it. Agency refers to the ongoing activity of self-maintenance, while evaluation specifies how that activity is differentially modulated in relation to viability.
+Evaluation is distinct from agency but constitutive of it: agency is the activity of self-maintenance, and evaluation is the differential modulation through which that activity is organised. Agency refers to the ongoing activity of self-maintenance, while evaluation specifies how that activity is differentially modulated in relation to viability.
 
 Evaluation may occur with minimal integration, but in more complex systems it is coordinated across processes through Cognitive Integration. Integration enables evaluation to be stabilised and extended across the system.
 
 Evaluation is also distinct from cognition. While all cognitive systems exhibit evaluation, not all evaluative systems are cognitive. Cognition arises only when evaluative activity becomes sufficiently integrated and temporally extended that present regulation is structured in relation to conditions beyond the immediate present. Evaluation is therefore necessary but not sufficient for cognition.
 
-Evaluation underlies semiosis: differences in the environment become meaningful for a system insofar as they differentially modulate its activity in relation to viability. In this way, evaluation establishes what matters for the system and enacts biological normativity in activity.
+Evaluation underlies semiosis: differences in the environment become meaningful for a system insofar as they differentially modulate its activity in relation to viability. In this way, evaluation establishes what matters for the system and enacts biological normativity in activity. In this way, evaluation also grounds biological function as the normatively structured contribution of processes to persistence.
 
 ## Key Point
 
