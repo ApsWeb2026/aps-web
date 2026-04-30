@@ -26,7 +26,9 @@ APS begins from a specific understanding of what a living system is.
 
 ## Agency
 
-Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to sustain and regulate the conditions necessary for its continued existence. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
+Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to sustain and regulate the conditions necessary for its continued existence. In doing so, such systems are inherently normative: their activity is organised relative to what maintains or undermines their viability. This is **[biological agency](/glossary/biological-agency/)** at its most fundamental.
+
+This viability-based normativity provides the basis for how APS understands function and purpose, not as imposed goals or designs, but as features of organisation that contribute to the persistence of the system.
 
 ## Process
 
@@ -36,7 +38,7 @@ APS treats processes as ontologically fundamental. Systems are not entities that
 
 **[Scale](/glossary/scale/)** is a constitutive dimension of both agency and process. What counts as an agent, what counts as stable, and what counts as a process depends on the scale of organisation. APS treats scale not as a hierarchy of levels, but as a continuous dimension across which processes are coordinated.
 
-Together, agency, process, and scale form the core explanatory grammar of APS. They are not independent components, but co-constitutive dimensions through which living systems are organised and understood.
+Together, agency, process, and scale form the core explanatory grammar of APS, within which viability establishes the normative basis of biological organisation. They are not independent components, but co-constitutive dimensions through which living systems are organised and understood.
 
 ![Diagram showing agency, process, and scale as interdependent dimensions of organised biological persistence in APS](/assets/diagrams/aps-core-structure.svg)
 
