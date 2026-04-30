@@ -1535,3 +1535,19 @@ main .content-wrapper .article-body h3 a {
   height: auto;
   display: block;
 }
+
+/* === Referenced By (backlinks) === */
+
+.backlink-more {
+  margin-top: 0.75rem;
+}
+
+.backlink-more summary {
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.backlink-more summary:hover {
+  text-decoration: underline;
+}
