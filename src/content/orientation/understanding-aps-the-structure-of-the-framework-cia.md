@@ -37,7 +37,7 @@ APS understands life as **viability-oriented, constraint-closed organisation**. 
 
 The diagram below shows how APS organises biological explanation in terms of agency, process, and scale.
 
-![Structure of the APS framework](/assets/diagrams/core-for-understanding.png)
+<img src="/assets/diagrams/aps-framework-structure.png" alt="Structure of the APS framework" style="max-width: 600px; width: 100%; display: block; margin: 1.5rem auto;" />
 
 *The APS framework describes living systems as organised processes that regulate their interaction with the environment to sustain viability over time.*
 
