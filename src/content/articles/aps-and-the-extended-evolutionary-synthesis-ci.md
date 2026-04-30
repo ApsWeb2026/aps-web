@@ -74,7 +74,7 @@ For variation, inheritance, and selection to operate, there must exist systems t
 
 - sustain their own organisation over time  
 - reproduce with sufficient continuity  
-- regulate their interaction with the environment  
+- regulate their interaction with the environment. This regulation is guided by evaluation: the ongoing modulation of activity in relation to conditions that support or undermine persistence.  
 
 These capacities depend on biological agency: the active maintenance of viability.
 
@@ -96,10 +96,12 @@ A further difference concerns how evolution and adaptation are conceptualised.
 
 In extended evolutionary frameworks, adaptation is often treated as a product of multiple interacting mechanisms. APS incorporates this view but integrates it into a broader framework in which:
 
-- **Adaptation** is the reorganisation of viability-oriented processes  
+- **Adaptation** is the reorganisation of viability-oriented processes. This reorganisation reflects biological function as the normatively structured contribution of processes to persistence.  
 - **Evolution** is the long-term transformation of those processes across generations  
 
 This framing emphasises continuity between short-term regulation and long-term change.
+
+In this sense, purpose in biological systems is not externally imposed design, but the organisation of activity relative to viability.
 
 ## The Scope of the EES
 

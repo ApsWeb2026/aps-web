@@ -72,7 +72,7 @@ Even in more abstract formulations, the system is defined in terms of variables 
 
 APS argues that this is not sufficient to explain life.
 
-Living systems do not regulate themselves relative to externally specified goals. They regulate themselves because their continued existence depends on it.
+Living systems do not regulate themselves relative to externally specified goals, but relative to the conditions that sustain their own viability. In this sense, what appears as goal-directed behaviour is grounded in the organisation of activity relative to viability, rather than in externally defined targets. They regulate themselves because their continued existence depends on it.
 
 ## Why Regulation Is Not Enough
 
@@ -101,9 +101,11 @@ In APS:
 
 This introduces **endogenous normativity**.
 
-States matter because they contribute to or undermine the system’s continued existence—not because they are specified as targets.
+States matter because they contribute to or undermine the system’s continued existence—not because they are specified as targets. This differentiation is a form of evaluation: the ongoing modulation of activity in relation to what supports or undermines persistence.
 
 Regulation is therefore not imposed from outside but arises from the organisation of the system itself.
+
+This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence, and purpose as the organisation of activity relative to those conditions.
 
 ## Machines, AI, and Control
 

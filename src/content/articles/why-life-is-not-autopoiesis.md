@@ -60,7 +60,7 @@ It does not fully explain why:
 - breakdown is existential  
 - persistence must be actively secured  
 
-Self-production alone does not yet establish viability-oriented normativity.
+Self-production alone does not yet establish viability-oriented normativity. Normativity arises from the organisation of activity relative to viability: some states support persistence, while others undermine it, and this difference is intrinsic to the system itself.
 
 ## Self-Production and Biological Organisation
 
@@ -80,6 +80,8 @@ Constraint closure requires that:
 
 This grounds viability and normativity more explicitly than autopoiesis alone.
 
+This viability-based normativity grounds biological function as the normatively structured contribution of processes to the persistence of the system.
+
 ## The APS Perspective
 
 Autopoiesis identifies a crucial feature of life.
@@ -89,6 +91,8 @@ APS extends it.
 Life is not simply self-producing organisation. It is:
 
 **viability-oriented, constraint-closed organisation sustained through ongoing activity**
+
+In this sense, purpose in living systems is not externally imposed design, but the organisation of activity relative to viability.
 
 ## Summary
 

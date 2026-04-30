@@ -59,7 +59,7 @@ But they do not explain what makes a system a living system in the first place.
 
 These models capture important features of structure and function, but they do not explain the viability-oriented organisation that makes a system a living system.
 
-APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. Mechanistic models can describe how activity is structured, but they do not capture the evaluative organisation through which living systems differentiate conditions that support or undermine their own persistence.
+APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. Mechanistic models can describe how activity is structured, but they do not capture the evaluative organisation through which living systems differentiate conditions that support or undermine their own persistence. This evaluative organisation reflects the intrinsic normativity of living systems, grounding distinctions such as function and purpose in viability rather than design.
 
 ## Machines Presuppose External Design
 
@@ -70,7 +70,7 @@ A defining feature of machines is that their organisation is specified from outs
 - their goals are determined externally  
 - their operation depends on conditions they do not create  
 
-A machine does not determine what it is for. Its purpose is imposed.
+A machine does not determine what it is for. Its purpose is imposed. In living systems, purpose is not imposed design or externally defined goals, but is grounded in the organisation of activity relative to viability.
 
 Living systems are fundamentally different.
 
@@ -100,7 +100,7 @@ In machines, functions are defined externally. A part has a function because it 
 
 In living systems, function is not assigned.
 
-It emerges from the role a process plays in sustaining the system’s continued existence.
+IIt emerges from the normatively structured role a process plays in sustaining the system’s continued existence.
 
 This is why biological function cannot be reduced to mechanical function. It is grounded in viability, not design.
 

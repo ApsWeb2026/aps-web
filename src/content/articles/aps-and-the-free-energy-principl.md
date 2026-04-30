@@ -61,7 +61,7 @@ From an APS perspective, this represents a reversal of explanatory priority. It 
 
 APS repositions this relationship by grounding biological explanation in **viability-oriented, constraint-closed organisation**.
 
-Living systems do not maintain themselves because they infer or predict in a formal sense. They maintain themselves because their organisation actively sustains the conditions of their own persistence. This activity is biological agency: the ongoing regulation of viability.
+Living systems do not maintain themselves because they infer or predict in a formal sense. They maintain themselves because their organisation actively sustains the conditions of their own persistence. This activity is biological agency: the ongoing regulation of viability. In this sense, purpose in living systems is not the pursuit of internally represented goals or optimisation targets, but the organisation of activity relative to viability.
 
 From this perspective, inference is not a foundational property of life. It is a possible **formal description** of certain aspects of how living systems behave.
 
@@ -78,7 +78,7 @@ A central issue concerns the source of normativity—what makes certain states o
 
 In FEP, normativity is often expressed in terms of minimising free energy or reducing prediction error. While formally precise, this framing can give the impression that biological significance is derived from an optimisation principle.
 
-APS grounds normativity differently. What matters to a living system is determined by its own organisation: processes contribute to or undermine its continued viability. This asymmetry is intrinsic to the system and does not depend on formal optimisation or inference.
+APS grounds normativity differently. What matters to a living system is determined by its own organisation: processes contribute to or undermine its continued viability. This asymmetry is intrinsic to the system and does not depend on formal optimisation or inference. This differentiation is a form of evaluation: the ongoing modulation of activity in relation to what supports or undermines persistence. This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence.
 
 In this way, APS treats normativity as **endogenous to biological organisation**, rather than as a consequence of an abstract principle.
 

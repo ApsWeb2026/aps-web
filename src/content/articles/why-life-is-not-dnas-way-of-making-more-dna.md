@@ -74,7 +74,7 @@ But describing what is important is not the same as explaining what something *i
 
 Gene-centred accounts capture important aspects of inheritance and evolutionary change, but they do not explain the viability-oriented organisation that makes biological systems possible in the first place.
 
-APS distinguishes between evaluation and higher-level cognitive organisation. All living systems modulate their activity relative to viability, but this evaluative organisation is prior to processes such as replication or inheritance. Gene-centred accounts risk treating replication as primary, thereby obscuring the evaluative activity through which living systems sustain the conditions that make replication possible.
+APS distinguishes between evaluation and higher-level cognitive organisation. All living systems modulate their activity relative to viability, but this evaluative organisation is prior to processes such as replication or inheritance. Gene-centred accounts risk treating replication as primary, thereby obscuring the evaluative activity through which living systems sustain the conditions that make replication possible. This evaluative organisation reflects the intrinsic normativity of living systems, grounding biological function as the normatively structured contribution of processes to persistence.
 
 ## What It Leaves Out
 
@@ -146,6 +146,8 @@ Genes play a central role in all of this.
 
 But they do so as part of a larger system whose organisation makes these processes possible in the first place.
 
+From this perspective, biological function is defined not by replication success alone, but by contribution to the viability of organised systems across time.
+
 ## A Simple Analogy
 
 Consider a building.
@@ -188,4 +190,4 @@ But they are no longer treated as the foundation of life itself.
 They are part of a larger organisation—one that sustains itself, transforms over time, and makes inheritance possible.
 
 **Key Point**  
-Life is not organised for DNA; DNA functions within viability-oriented organisation that sustains itself across time.
+Life is not organised for DNA; DNA functions within viability-oriented organisation that sustains itself across time. In APS, purpose is not an externally imposed goal or a feature of genetic replication, but is grounded in the organisation of activity relative to viability.

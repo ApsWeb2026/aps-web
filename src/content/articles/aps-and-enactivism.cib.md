@@ -102,11 +102,13 @@ This shift ensures that cognition remains grounded in the organisational conditi
 
 Enactivism introduces the concept of sense-making to describe how organisms generate meaning through their interaction with the environment.
 
-APS captures a closely related phenomenon but grounds it in **biological normativity**. What matters to a living system is determined by its own organisation: processes contribute to or undermine its continued viability.
+APS captures a closely related phenomenon but grounds it in **biological normativity**. What matters to a living system is determined by its own organisation: processes contribute to or undermine its continued viability. This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence.
 
 In this sense, meaning is not an additional layer imposed on biological activity. It is intrinsic to the organisation of life itself.
 
 What enactivism describes as sense-making corresponds to viability-oriented evaluation. However, not all such evaluation is cognitive: cognition arises only when this evaluative activity is organised with sufficient integration and temporal depth.
+
+In this sense, purpose in living systems is not the representation or pursuit of externally defined goals, but the organisation of activity relative to viability.
 
 ## Agency and the Organisation of Cognition
 

@@ -68,12 +68,14 @@ APS incorporates the insights of systems theory while specifying the conditions 
 
 In APS, biological systems are not defined by complexity, feedback, or dynamic behaviour alone. They are defined by **viability-oriented, constraint-closed organisation**.
 
+In this sense, purpose in living systems is not externally imposed design, but the organisation of activity relative to viability.
+
 This introduces a fundamental distinction:
 
 - In general systems theory, interactions can be described without reference to what is at stake for the system  
 - In APS, interactions are organised around the maintenance of the system’s own persistence  
 
-This gives rise to **endogenous normativity**. Processes matter because they contribute to or undermine the continued viability of the system. This is not imposed by the observer but arises from the organisation of the system itself.
+This gives rise to **endogenous normativity**. Processes matter because they contribute to or undermine the continued viability of the system. This is not imposed by the observer but arises from the organisation of the system itself. This differentiation is a form of evaluation: the ongoing modulation of activity in relation to what supports or undermines persistence. This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence.
 
 ## System Boundaries and Organisational Closure
 

@@ -98,13 +98,15 @@ Active Inference explains behaviour in terms of optimisation. Systems minimise f
 
 APS argues that this does not explain life.
 
-Living systems are not defined by optimisation. They are defined by the fact that they must continue to exist. Their activity is organised around viability: the ongoing maintenance of the conditions required for their own persistence.
+Living systems are not defined by optimisation. They are defined by the fact that they must continue to exist. Their activity is organised around viability: the ongoing maintenance of the conditions required for their own persistence. What may appear as goal-directed or preference-based behaviour is grounded in this organisation, not in optimisation relative to internally represented targets.
 
-Evaluation is intrinsic to this organisation: activity is differentially modulated in relation to conditions that support or undermine persistence.
+Evaluation is intrinsic to this organisation: activity is differentially modulated in relation to conditions that support or undermine persistence. This evaluation is not a form of inference or prediction, but the direct modulation of activity in relation to viability.
 
 Optimisation describes how a system behaves under certain assumptions.
 
 Viability explains why those assumptions matter at all.
+
+This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence, and purpose as the organisation of activity relative to those conditions.
 
 ## Models and Organisation
 
