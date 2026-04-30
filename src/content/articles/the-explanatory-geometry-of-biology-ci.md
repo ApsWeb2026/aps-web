@@ -82,7 +82,7 @@ These are not separate components of explanation, but analytic perspectives on a
 
 Most biological accounts implicitly rely on this structure, but do not make it explicit. As a result, key terms—such as function, adaptation, information, or regulation—are often used in multiple, partially incompatible ways.
 
-APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale.
+APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale. In this sense, concepts such as function and purpose do not introduce external goals or design. They describe how components and processes are organised relative to viability: function as a normatively grounded contribution to persistence, and purpose as the directionality of activity within such organisation.
 
 This transforms explanation from a loose assemblage of concepts into a constrained grammar. Concepts are not free-floating descriptors, but elements whose meaning is determined by their role within an organised explanatory structure.
 
@@ -114,7 +114,7 @@ As a result, explanatory strength does not depend on the number of concepts empl
 
 By making its structure explicit, APS also transforms the empirical status of biological explanation.
 
-If explanation depends on the organisation of agency, process, and scale, then its claims can be evaluated by examining whether these relations are actually present and functionally integrated in the system under study. This shifts emphasis from describing components to testing organisational roles.
+If explanation depends on the organisation of agency, process, and scale, then its claims can be evaluated by examining whether these relations are actually present and normatively integrated in the system under study. This shifts emphasis from describing components to testing the normatively structured roles those components play within organised persistence.
 
 > **APS does not add another perspective to theoretical biology—it changes how biological explanation itself is structured, making its assumptions explicit and its claims empirically testable.**
 
