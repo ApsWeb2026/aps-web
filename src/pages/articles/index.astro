@@ -5,8 +5,19 @@ import Breadcrumb from '@/components/Breadcrumb.astro';
 import StatusBadge from '@/components/StatusBadge.astro';
 import TypeBadge from '@/components/TypeBadge.astro';
 
+function formatDate(value?: string) {
+  if (!value) return '';
+
+  return new Date(value).toLocaleDateString('en-AU', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+}
+
 const articles = await getCollection('articles');
 const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+
 articles.sort(
   (a, b) =>
     (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
@@ -37,8 +48,12 @@ articles.sort(
               <StatusBadge status={entry.data.status} />
               <TypeBadge type="article" />
             </div>
+
             <p class="card-excerpt">{entry.data.abstract}</p>
-            <div class="card-meta">Revised: {entry.data.revised}</div>
+
+            {entry.data.revised && (
+              <div class="card-meta">Revised: {formatDate(entry.data.revised)}</div>
+            )}
           </li>
         ))
       }

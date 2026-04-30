@@ -5,6 +5,16 @@ import Breadcrumb from '@/components/Breadcrumb.astro';
 import StatusBadge from '@/components/StatusBadge.astro';
 import TypeBadge from '@/components/TypeBadge.astro';
 
+function formatDate(value?: string) {
+  if (!value) return '';
+
+  return new Date(value).toLocaleDateString('en-AU', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+}
+
 const glossary = await getCollection('glossary');
 glossary.sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
@@ -35,8 +45,12 @@ glossary.sort((a, b) => a.data.title.localeCompare(b.data.title));
               <StatusBadge status={entry.data.status} />
               <TypeBadge type="glossary" />
             </div>
+
             <p class="card-excerpt">{entry.data.inBrief}</p>
-            <div class="card-meta">Revised: {entry.data.revised}</div>
+
+            {entry.data.revised && (
+              <div class="card-meta">Revised: {formatDate(entry.data.revised)}</div>
+            )}
           </li>
         ))
       }
