@@ -20,6 +20,7 @@ relatedGlossaryTerms:
   - evaluation
   - semiosis
   - cognition
+  - spatiotemporal-organisation
 relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
@@ -173,6 +174,8 @@ Cognition belongs neither outside biology nor at its upper limits. It belongs:
 > **within the organisation of life itself, as a specific form of evaluative activity in which present regulation is structured in relation to conditions beyond the immediate present.**
 
 Understanding cognition in this way allows it to be integrated with the rest of the APS framework without introducing new explanatory categories.
+
+Spatiotemporal organisation also underlies evaluation and cognition. The differential modulation of activity depends on how processes are distributed and coordinated across space and time, determining what can be detected, integrated, and acted upon. In this way, spatiotemporal organisation conditions what matters for the system and how it can respond, grounding the emergence of more complex forms of coordination such as cognition without introducing additional representational structures.
 
 ## Key Points
 
