@@ -98,6 +98,10 @@ Cognition is a further development of this process. It arises when evaluative ac
 
 In this sense, cognition is not identical with evaluation, but what evaluation becomes when it is extended across time and coordinated at the level of the system as a whole.
 
+This clarification of cognition is part of a broader pattern in biological explanation, in which widely used concepts capture real phenomena but require grounding in explicit organisational terms.
+
+[[box:why-aps-replaces-placeholder-concepts]]
+
 ## Cognition Without Representation
 
 In many accounts, cognition is defined in terms of representation: systems are said to model or encode the world internally. APS does not require this assumption.
