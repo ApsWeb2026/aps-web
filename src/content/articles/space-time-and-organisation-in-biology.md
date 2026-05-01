@@ -39,6 +39,10 @@ This creates a tension. In physics, space and time are formalised as part of the
 
 The result is a familiar pattern. Increasingly detailed descriptions of where processes occur and when they unfold are taken to deepen explanation. However, without an account of how spatial and temporal relations contribute to the organisation of living systems, such descriptions risk remaining incomplete. The question is not simply where and when biological processes occur, but how spatial and temporal relations are organised as part of the maintenance of life.
 
+This requires a shift in how space and time are understood in biological explanation.
+
+[[aps-box: spatiotemporal-organisation-and-scale]]
+
 ## 2. The Limits of Spatial and Temporal Description
 
 Descriptions of biological systems are often richly spatiotemporal. Molecular processes are localised within cells, tissues are organised within organisms, and organisms are situated within environments. Similarly, biological activity is described in terms of sequences, cycles, and developmental trajectories.
