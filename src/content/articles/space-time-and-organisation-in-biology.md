@@ -1,17 +1,21 @@
 ---
-date: 2026-05-01
 title: Space, Time, and Organisation in Biology — An APS Clarification
 slug: space-time-and-organisation-in-biology
+date: 2026-05-01
+revised: 2026-05-01
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-01
-revised: 2026-05-01
 cluster: conceptual-foundations
-relatedArticles:
-  - explanatory-geometry-of-biology
-  - emergence
-  - design-in-nature-an-aps-clarification
-  - cognition
+abstract: >
+  This article clarifies the roles of space and time in biological explanation
+  within the APS framework. It argues that space and time are not primary
+  explanatory domains in biology but are organisational dimensions through which
+  viability-oriented processes are structured and understood. By situating
+  spatial configuration and temporal extension within the dynamics of
+  organisation, the analysis shows how biological systems are best understood as
+  processual, scale-dependent, and structured by constraints that sustain
+  viability rather than by static spatial form or linear temporal sequence.
 relatedGlossaryTerms:
   - biological-organisation
   - process
@@ -20,6 +24,11 @@ relatedGlossaryTerms:
   - viability
   - normativity
   - counterfactual-depth
+relatedArticles:
+  - explanatory-geometry-of-biology
+  - from-life-to-explanation-emerging-architecture
+  - cognition-where-does-it-belong-in-biology
+  - design-in-nature-an-aps-clarification
 ---
 
 ## 1. The Problem: Space and Time as Background Assumptions
