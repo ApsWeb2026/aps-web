@@ -22,9 +22,7 @@ relatedArticles:
   - space-time-and-organisation-in-biology
 ---
 
-## Spatiotemporal Organisation and Scale
-
-In physics, space and time are typically treated as the fundamental framework within which systems exist and evolve. Even where spacetime is understood as dynamical—as in :contentReference[oaicite:0]{index=0}—it remains the primary structure within which physical processes are described.
+In physics, space and time are typically treated as the fundamental framework within which systems exist and evolve. Even where spacetime is understood as dynamical—it remains the primary structure within which physical processes are described.
 
 On this view, organisation occurs *in* space and time.
 
