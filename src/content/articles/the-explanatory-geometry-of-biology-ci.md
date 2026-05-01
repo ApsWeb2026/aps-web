@@ -70,7 +70,7 @@ In APS, explanation is not a linear account of causes acting on passive entities
 
 - **Agency** identifies the viability-oriented activity through which systems sustain themselves.
 - **Process** captures the dynamic organisation through which this activity is enacted and maintained.
-- **Scale** specifies the spatial and temporal extent over which these dynamics unfold and persist.
+- **Scale** specifies the spatial and temporal extent over which these dynamics unfold and persist. Scale in this sense is not hierarchical but reflects the distributed organisation of processes across spatial and temporal domains (see *Space, Time, and Organisation in Biology*).
 
 These are not separate components of explanation, but analytic perspectives on a single, integrated organisation. Biological explanation consists in showing how these perspectives constrain and support one another in sustaining viable systems.
 
@@ -82,7 +82,7 @@ These are not separate components of explanation, but analytic perspectives on a
 
 Most biological accounts implicitly rely on this structure, but do not make it explicit. As a result, key terms—such as function, adaptation, information, or regulation—are often used in multiple, partially incompatible ways.
 
-APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale. In this sense, concepts such as function and purpose do not introduce external goals or design. They describe how components and processes are organised relative to viability: function as a normatively grounded contribution to persistence, and purpose as the directionality of activity within such organisation.
+APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale. This includes the organisation of spatial and temporal relations through which processes are distributed and sustained (see *Space, Time, and Organisation in Biology*). In this sense, concepts such as function and purpose do not introduce external goals or design. They describe how components and processes are organised relative to viability: function as a normatively grounded contribution to persistence, and purpose as the directionality of activity within such organisation.
 
 This transforms explanation from a loose assemblage of concepts into a constrained grammar. Concepts are not free-floating descriptors, but elements whose meaning is determined by their role within an organised explanatory structure.
 
@@ -135,6 +135,8 @@ Because the same explanatory structure applies across contexts, APS provides a u
 - In physiology, explanation concerns how processes maintain viability in real time.
 - In evolution, it concerns how viability-oriented organisation is transformed across generations.
 - In ecology, it concerns how systems sustain themselves through interactions across broader spatial and temporal extents.
+
+These extents are not external coordinates but organised domains through which biological systems sustain viability (see *Space, Time, and Organisation in Biology*).
 
 These are not separate kinds of explanation, but different expressions of the same underlying organisation.
 
