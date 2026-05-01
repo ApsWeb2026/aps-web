@@ -22,21 +22,17 @@ relatedArticles:
   - space-time-and-organisation-in-biology
 ---
 
-In physics, space and time are typically treated as the fundamental framework within which systems exist and evolve. Even where spacetime is understood as dynamical—it remains the primary structure within which physical processes are described.
+In physics, spacetime typically functions as the general framework within which processes are described, even when its geometry is understood as dynamical. From this standpoint, organisation is analysed as something that unfolds within spatial and temporal coordinates.
 
-On this view, organisation occurs *in* space and time.
-
-The APS framework adopts a different explanatory orientation. It begins not with spacetime as a pre-given structure, but with **organised, viability-oriented processes**. From this perspective, spatial configuration and temporal extension are not primary explanatory domains but **dimensions through which organisation is expressed, stabilised, and coordinated**.
-
-On this view, spatiotemporal descriptions arise *from* organisation.
+APS adopts a different explanatory stance. It begins not with spacetime as the primary structure, but with viability-oriented organisation. On this view, spatial and temporal relations are not independent explanatory primitives. They are dimensions through which organisation is expressed, stabilised, and coordinated. Spatiotemporal descriptions arise from the organisational logic of the system, rather than the other way around.
 
 This entails a reversal of explanatory priority:
 
-- **Physics:** organisation happens in spacetime  
-- **APS:** spatiotemporal structure is an aspect of organisation  
+- **Physics:** organisation is described within spacetime  
+- **APS:** spatiotemporal relations are specified relative to organisation  
 
-This reversal is inseparable from the role of **scale**. Biological organisation is inherently scale-dependent: the relevant spatial and temporal relations are those that contribute to the persistence of the system at a given level of organisation. What counts as a meaningful spatial configuration or temporal process is therefore not fixed in advance, but defined relative to the organisation of the system under consideration.
+This reversal is inseparable from scale. Biological organisation is inherently scale-dependent: the spatial and temporal relations that matter are those that contribute to the persistence of the system at a given level of organisation. What counts as a relevant spatial configuration or temporal process is therefore defined relative to the system’s organisational dynamics, not fixed in advance.
 
-Accordingly, space and time do not provide a neutral, uniform backdrop for biological explanation. They are **organisationally specified dimensions**, whose structure and relevance vary with the scale, constraints, and viability conditions of the system.
+Accordingly, space and time do not function as a neutral backdrop for biological explanation. Their explanatory significance is specified by the constraints, coordination, and viability conditions of the system.
 
-This does not contradict physical descriptions of spacetime. Rather, it shows that in biological explanation, spatial and temporal relations are **not independent explanatory primitives**, but derive their significance from the organisation of activity that sustains viability, rather than from an independently specified spatiotemporal framework.
+This does not contradict physical accounts of spacetime. It clarifies that in biology, spatiotemporal structure derives its explanatory role from the organisation of living activity, rather than from an independently given framework.
