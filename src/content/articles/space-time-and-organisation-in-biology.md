@@ -41,7 +41,7 @@ The result is a familiar pattern. Increasingly detailed descriptions of where pr
 
 This requires a shift in how space and time are understood in biological explanation.
 
-[[aps-box: spatiotemporal-organisation-and-scale]]
+[[box:spatiotemporal-organisation-and-scale]]
 
 ## 2. The Limits of Spatial and Temporal Description
 
