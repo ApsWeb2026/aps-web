@@ -24,6 +24,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
   - aps-diagnostics-empirical-tractability
+  - beyond-placeholder-concepts-in-biology-an-aps-clarification
 ---
 
 ## What This Article Does

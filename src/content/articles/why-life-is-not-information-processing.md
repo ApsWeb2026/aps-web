@@ -24,6 +24,7 @@ relatedArticles:
   - why-life-is-not-dnas-way-of-making-more-dna
   - biological-causation-from-mechanism-to-organised-persistence
   - function-how-living-systems-make-persistence-operational
+  - beyond-placeholder-concepts-in-biology-an-aps-clarification
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

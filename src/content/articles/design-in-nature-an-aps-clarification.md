@@ -22,6 +22,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
   - why-life-is-not-autopoiesis
+  - beyond-placeholder-concepts-in-biology-an-aps-clarification
 ---
 
 ## The Problem of Design in Biology
