@@ -88,6 +88,10 @@ This transforms explanation from a loose assemblage of concepts into a constrain
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
+This also clarifies why widely used concepts such as emergence, information, design, and cognition often appear explanatory while remaining under-specified.
+
+[[box:why-aps-replaces-placeholder-concepts]]
+
 ## Cognition within the explanatory grammar
 
 The explanatory structure of APS also clarifies the place of cognition within biology. Cognition is not a separate domain layered onto biological organisation, but a specific way in which that organisation becomes structured.

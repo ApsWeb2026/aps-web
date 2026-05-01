@@ -67,6 +67,8 @@ Within this framework, semiosis structures differences as mattering for the syst
 
 These concepts are thus not rejected, but re-specified. Their descriptive role is preserved, but their explanatory content is located within a unified account of biological organisation.
 
+[[box:why-aps-replaces-placeholder-concepts]]
+
 ## Case Studies in Re-Specification
 
 The value of this approach can be seen by examining how several commonly used concepts are clarified within APS.

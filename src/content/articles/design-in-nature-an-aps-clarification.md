@@ -71,7 +71,9 @@ This organisation is grounded in viability. Living systems must actively maintai
 
 This introduces biological normativity: some processes stabilise and maintain the system, while others lead to its breakdown. This asymmetry is enacted through evaluation—the differential modulation of activity in relation to viability.
 
-Design is the pattern that emerges from this organisation. It is neither imposed nor merely apparent, but the structured outcome of viability-oriented activity.
+Design is the pattern that emerges from this organisation. It is neither imposed nor merely apparent, but the structured outcome of viability-oriented activity. This clarification of design is part of a broader pattern in biology,
+
+[[box:why-aps-replaces-placeholder-concepts]]
 
 ## How Design Arises in Living Systems
 

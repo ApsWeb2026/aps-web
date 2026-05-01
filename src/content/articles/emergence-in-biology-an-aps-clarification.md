@@ -60,7 +60,9 @@ This shift has several implications:
 - Apparent “new properties” reflect reconfigured constraint relations, not unexplained additions  
 - Biological organisation is historically continuous, even when it becomes more differentiated  
 
-APS does not deny that higher-order patterns and system-level properties arise in complex biological systems. Rather, it rejects the use of emergence as an explanatory stopping point. The task of explanation is to account for how such organisation is produced, maintained, and transformed through viability-oriented processes.
+APS does not deny that higher-order patterns and system-level properties arise in complex biological systems. Rather, it rejects the use of emergence as an explanatory stopping point. The task of explanation is to account for how such organisation is produced, maintained, and transformed through viability-oriented processes. This clarification of emergence is part of a broader pattern in biological explanation, in which widely used concepts capture real phenomena but require grounding in explicit organisational terms.
+
+[[box:why-aps-replaces-placeholder-concepts]]
 
 ## Emergence and Evolution
 
