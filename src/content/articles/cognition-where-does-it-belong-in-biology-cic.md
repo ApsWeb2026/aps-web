@@ -175,7 +175,7 @@ Cognition belongs neither outside biology nor at its upper limits. It belongs:
 
 Understanding cognition in this way allows it to be integrated with the rest of the APS framework without introducing new explanatory categories.
 
-Spatiotemporal organisation also underlies evaluation and cognition. The differential modulation of activity depends on how processes are distributed and coordinated across space and time, determining what can be detected, integrated, and acted upon. In this way, spatiotemporal organisation conditions what matters for the system and how it can respond, grounding the emergence of more complex forms of coordination such as cognition without introducing additional representational structures.
+Spatiotemporal organisation also underlies evaluation and cognition (see *Spatiotemporal Organisation and Scale*). The differential modulation of activity depends on how processes are distributed and coordinated across space and time, determining what can be detected, integrated, and acted upon. In systems that exhibit cognition, this organisation extends across time such that present activity is structured in relation to conditions beyond the immediate present. This temporal extension corresponds to counterfactual depth: the extent to which non-present conditions are integrated into ongoing regulation. In this way, spatiotemporal organisation conditions what matters for the system and how it can respond, grounding the emergence of more complex forms of coordination such as cognition without introducing additional representational structures.
 
 ## Key Points
 

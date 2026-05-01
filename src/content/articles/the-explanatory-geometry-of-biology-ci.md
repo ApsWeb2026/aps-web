@@ -70,7 +70,7 @@ In APS, explanation is not a linear account of causes acting on passive entities
 
 - **Agency** identifies the viability-oriented activity through which systems sustain themselves.
 - **Process** captures the dynamic organisation through which this activity is enacted and maintained.
-- **Scale** specifies the spatial and temporal extent over which these dynamics unfold and persist. Scale in this sense is not hierarchical but reflects the distributed organisation of processes across spatial and temporal domains (see *Space, Time, and Organisation in Biology*).
+- **Scale** specifies the spatial and temporal extent over which these dynamics unfold and persist. Scale in this sense is not hierarchical but reflects the distributed organisation of processes across spatial and temporal domains (see *Space, Time, and Organisation in Biology*; see also *Spatiotemporal Organisation and Scale*).
 
 These are not separate components of explanation, but analytic perspectives on a single, integrated organisation. Biological explanation consists in showing how these perspectives constrain and support one another in sustaining viable systems.
 

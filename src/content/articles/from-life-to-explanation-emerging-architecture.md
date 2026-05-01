@@ -47,7 +47,7 @@ If living systems are organised in this way, then explaining them requires an ac
 
 - the activity through which viability is maintained  
 - the processes through which this activity is organised  
-- the spatial and temporal extent across which this organisation persists  
+- the spatial and temporal extent across which this organisation persists (see *Spatiotemporal Organisation and Scale*)  
 
 These correspond to the three dimensions of APS: **agency, process, and scale**.
 
