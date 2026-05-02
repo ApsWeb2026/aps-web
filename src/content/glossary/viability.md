@@ -2,15 +2,16 @@
 date: 2026-04-26
 title: Viability
 slug: viability
-definition: "Viability refers to the normatively evaluable conditions under which a living system can sustain its persistence as a constraint-closed, viability-oriented organisation."
+definition: "Viability refers to the normatively evaluable conditions under which an organised system can sustain its persistence across time."
 inBrief: "Viability specifies the conditions under which biological organisation can be maintained."
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-26
-revised: 2026-04-26
-cluster: foundations
+revised: 2026-05-03
+cluster: conceptual-foundations
 relatedGlossaryTerms:
   - persistence
+  - viability-orientation
   - biological-agency
   - biological-organisation
   - constraint-closure
@@ -29,6 +30,8 @@ In standard biological usage, viability refers to a system’s capacity to survi
 APS reconceives viability as referring to the conditions under which a system’s organisation can be sustained, rather than the activity by which it is sustained. A system is viable to the extent that the conditions required for maintaining its organisation remain in place.
 
 Viability does not name the activity through which these conditions are maintained—that is persistence—but the conditions relative to which such activity is organised and evaluated. In this sense, viability provides the normative frame within which biological processes unfold.
+
+Importantly, viability is not defined by reference to life itself. It is specified in terms of the persistence of an organised system within a bounded region of possible states. A system counts as living not because it maintains “viability” in a circular sense, but because its organisation is structured in relation to these conditions.
 
 This makes viability intrinsically normative. The organisation of a system establishes a distinction between conditions that support continued existence and those that undermine it. This distinction is not imposed externally but arises from the system’s own organisation. What counts as success, failure, function, or error is defined relative to the maintenance of viability.
 
