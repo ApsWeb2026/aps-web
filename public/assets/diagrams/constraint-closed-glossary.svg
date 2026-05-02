@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1500" viewBox="0 0 1100 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Constraint-closed conceptual structure of the APS framework</title>
+  <desc id="desc">A colour-coded conceptual dependency diagram showing the Tier 1 APS glossary terms as a constraint-closed conceptual system.</desc>
+
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#222"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#222"/>
+    </marker>
+    <style>
+      .title { font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 700; fill: #111; }
+      .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 17px; fill: #444; }
+      .node-text { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; fill: #111; letter-spacing: 0.3px; }
+      .small-text { font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: 600; text-anchor: middle; dominant-baseline: middle; fill: #333; }
+      .side-label { font-family: Arial, Helvetica, sans-serif; font-size: 19px; font-weight: 700; text-anchor: end; fill: #333; }
+      .side-sub { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; text-anchor: end; fill: #444; }
+      .arrow { stroke: #222; stroke-width: 2.4; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke: #222; stroke-width: 2.1; fill: none; stroke-dasharray: 8 7; marker-end: url(#arrow); }
+      .feedback { stroke: #222; stroke-width: 2.8; fill: none; marker-end: url(#arrow); }
+      .brace { stroke-width: 2.2; fill: none; }
+      .frame { fill: #f3f3f3; stroke: #777; stroke-width: 2; }
+      .struct { fill: #eaf4ff; stroke: #2f64a3; stroke-width: 3; }
+      .struct-strong { fill: #eaf4ff; stroke: #111; stroke-width: 4; }
+      .norm { fill: #fff5c9; stroke: #c48a00; stroke-width: 3; }
+      .act { fill: #e8f6df; stroke: #4f8b3f; stroke-width: 3; }
+      .time { fill: #f2e9fb; stroke: #7650a5; stroke-width: 3; }
+    </style>
+  </defs>
+
+  <rect width="1100" height="1500" fill="white"/>
+
+  <text x="550" y="70" class="title" text-anchor="middle">Constraint-Closed Conceptual Structure of APS</text>
+  <text x="550" y="102" class="subtitle" text-anchor="middle">Tier 1 glossary terms as a network of conceptual articulation</text>
+
+  <!-- Top framing nodes -->
+  <rect x="315" y="145" rx="16" ry="16" width="230" height="78" class="frame"/>
+  <text x="430" y="184" class="node-text">PROCESS</text>
+
+  <rect x="655" y="145" rx="16" ry="16" width="230" height="78" class="frame"/>
+  <text x="770" y="184" class="node-text">SCALE</text>
+
+  <!-- Main nodes -->
+  <rect x="395" y="300" rx="16" ry="16" width="310" height="72" class="struct"/>
+  <text x="550" y="336" class="node-text">CONSTRAINT</text>
+
+  <rect x="395" y="430" rx="16" ry="16" width="310" height="72" class="struct-strong"/>
+  <text x="550" y="466" class="node-text">CONSTRAINT CLOSURE</text>
+
+  <rect x="395" y="560" rx="16" ry="16" width="310" height="72" class="struct-strong"/>
+  <text x="550" y="596" class="node-text">ORGANISATION</text>
+
+  <rect x="395" y="690" rx="16" ry="16" width="310" height="72" class="norm"/>
+  <text x="550" y="726" class="node-text">VIABILITY</text>
+
+  <rect x="395" y="820" rx="16" ry="16" width="310" height="72" class="norm"/>
+  <text x="550" y="856" class="node-text">NORMATIVITY</text>
+
+  <rect x="395" y="950" rx="16" ry="16" width="310" height="72" class="act"/>
+  <text x="550" y="986" class="node-text">EVALUATION</text>
+
+  <rect x="395" y="1080" rx="16" ry="16" width="310" height="72" class="act"/>
+  <text x="550" y="1116" class="node-text">BIOLOGICAL AGENCY</text>
+
+  <rect x="395" y="1210" rx="16" ry="16" width="310" height="72" class="time"/>
+  <text x="550" y="1246" class="node-text">FUNCTION</text>
+
+  <rect x="395" y="1340" rx="16" ry="16" width="310" height="72" class="time"/>
+  <text x="550" y="1376" class="node-text">PERSISTENCE</text>
+
+  <!-- Framing dashed arrows -->
+  <path d="M430,223 C430,255 492,270 535,294" class="dashed"/>
+  <path d="M770,223 C770,255 608,270 565,294" class="dashed"/>
+
+  <!-- Main arrows -->
+  <line x1="550" y1="372" x2="550" y2="425" class="arrow"/>
+  <line x1="550" y1="502" x2="550" y2="555" class="arrow"/>
+  <line x1="550" y1="632" x2="550" y2="685" class="arrow"/>
+  <line x1="550" y1="762" x2="550" y2="815" class="arrow"/>
+  <line x1="550" y1="892" x2="550" y2="945" class="arrow"/>
+  <line x1="550" y1="1022" x2="550" y2="1075" class="arrow"/>
+  <line x1="550" y1="1152" x2="550" y2="1205" class="arrow"/>
+  <line x1="550" y1="1282" x2="550" y2="1335" class="arrow"/>
+
+  <!-- Feedback loop from persistence to organisation -->
+  <path d="M705,1376 C880,1325 900,990 880,790 C865,650 795,600 715,596" class="feedback"/>
+
+  <!-- Side labels and braces -->
+  <path d="M245,145 C220,145 220,223 245,223" class="brace" stroke="#777"/>
+  <text x="210" y="168" class="side-label">Ontological</text>
+  <text x="210" y="192" class="side-label">framing</text>
+  <text x="210" y="216" class="side-sub">conditions of description</text>
+
+  <path d="M245,300 C220,300 220,632 245,632" class="brace" stroke="#2f64a3"/>
+  <text x="210" y="415" class="side-label" fill="#2f64a3">Structural</text>
+  <text x="210" y="439" class="side-label" fill="#2f64a3">constitution</text>
+  <text x="210" y="463" class="side-sub" fill="#2f64a3">constraints and organisation</text>
+
+  <path d="M245,690 C220,690 220,892 245,892" class="brace" stroke="#c48a00"/>
+  <text x="210" y="765" class="side-label" fill="#c48a00">Normative</text>
+  <text x="210" y="789" class="side-label" fill="#c48a00">significance</text>
+  <text x="210" y="813" class="side-sub" fill="#c48a00">viability and value</text>
+
+  <path d="M245,950 C220,950 220,1152 245,1152" class="brace" stroke="#4f8b3f"/>
+  <text x="210" y="1025" class="side-label" fill="#4f8b3f">Activity</text>
+  <text x="210" y="1049" class="side-label" fill="#4f8b3f">domain</text>
+  <text x="210" y="1073" class="side-sub" fill="#4f8b3f">evaluation and action</text>
+
+  <path d="M245,1210 C220,1210 220,1412 245,1412" class="brace" stroke="#7650a5"/>
+  <text x="210" y="1285" class="side-label" fill="#7650a5">Temporal</text>
+  <text x="210" y="1309" class="side-label" fill="#7650a5">continuity</text>
+  <text x="210" y="1333" class="side-sub" fill="#7650a5">function and persistence</text>
+
+  <!-- Legend -->
+  <rect x="790" y="1060" rx="14" ry="14" width="210" height="185" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="895" y="1090" class="small-text">LEGEND</text>
+  <line x1="815" y1="1122" x2="875" y2="1122" class="arrow"/>
+  <text x="935" y="1122" class="small-text">Conceptual</text>
+  <text x="935" y="1144" class="small-text">articulation</text>
+  <line x1="815" y1="1176" x2="875" y2="1176" class="dashed"/>
+  <text x="935" y="1176" class="small-text">Framing</text>
+  <text x="935" y="1198" class="small-text">condition</text>
+  <path d="M818,1228 C840,1208 864,1208 880,1228" class="feedback"/>
+  <text x="935" y="1228" class="small-text">Feedback</text>
+</svg>
