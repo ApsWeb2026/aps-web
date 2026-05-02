@@ -10,8 +10,6 @@ revised: 2026-05-02
 cluster: conceptual-foundations
 ---
 
-## How APS Relates to Other Theoretical Frameworks
-
 Contemporary frameworks such as control theory and nonlinear dynamical systems theory provide powerful and indispensable accounts of living systems. They explain how systems regulate their behaviour, maintain stability, and exhibit complex dynamics across time.
 
 APS does not replace these approaches, nor does it reduce them to a single underlying model. Instead, it addresses a different question: what kind of organisation makes a system a *living system* in the first place.
