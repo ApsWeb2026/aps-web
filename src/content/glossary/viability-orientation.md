@@ -1,6 +1,8 @@
 ---
 title: Viability-Orientation
 slug: viability-orientation
+definition: "Viability-orientation is the organisation of biological activity in relation to the conditions that support or undermine a system’s continued existence."
+inBrief: "Viability-orientation is biological activity organised in relation to viability."
 type: glossary
 status: canonical
 canonical: true
