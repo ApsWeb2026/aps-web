@@ -51,7 +51,7 @@ references:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines Active Inference (Friston 2010,2013) and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines Active Inference (Friston 2010, 2013) and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Active Inference
 
@@ -62,6 +62,8 @@ This provides a powerful and unified account of adaptive behaviour. Systems are 
 APS accepts that this captures something real.
 
 But it rejects the claim that life is inference.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 ## What It Explains Well
 
@@ -96,7 +98,7 @@ APS argues that these conditions are established by **viability-oriented, constr
 
 Active Inference explains behaviour in terms of optimisation. Systems minimise free energy or prediction error relative to a generative model.
 
-APS argues that this does not explain life.
+APS argues that this does not, by itself, explain what makes a system a living system.
 
 Living systems are not defined by optimisation. They are defined by the fact that they must continue to exist. Their activity is organised around viability: the ongoing maintenance of the conditions required for their own persistence. What may appear as goal-directed or preference-based behaviour is grounded in this organisation, not in optimisation relative to internally represented targets.
 
@@ -104,7 +106,7 @@ Evaluation is intrinsic to this organisation: activity is differentially modulat
 
 Optimisation describes how a system behaves under certain assumptions.
 
-Viability explains why those assumptions matter at all.
+Viability clarifies why those assumptions matter for a living system.
 
 This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence, and purpose as the organisation of activity relative to those conditions.
 
@@ -136,7 +138,7 @@ However, their organisation remains fundamentally different.
 
 They do not sustain their own conditions of existence, do not operate through viability-oriented, constraint-closed organisation, and do not exist for themselves. Their objectives, architectures, and maintenance conditions are externally specified.
 
-For this reason, such systems may display complex or intelligent behaviour, but they do not instantiate cognition in the APS sense. Cognition, in APS, depends on the organisation of evaluative activity within systems that regulate their own persistence.
+For this reason, such systems may display complex or intelligent behaviour, but they do not, by themselves, instantiate cognition in the APS sense. Cognition, in APS, depends on the organisation of evaluative activity within systems that regulate their own persistence.
 
 ## The APS Perspective
 
@@ -162,7 +164,7 @@ Active Inference offers a powerful account of adaptive behaviour in terms of pre
 
 APS agrees that living systems are active, structured, and dynamically coupled to their environments.
 
-However, optimisation is not sufficient to explain life. Living systems are defined by viability-oriented, self-sustaining organisation, and cognition arises only when evaluative activity becomes sufficiently integrated and temporally extended.
+However, optimisation, by itself, is not sufficient to explain what distinguishes living systems. Living systems are defined by viability-oriented, self-sustaining organisation, and cognition arises only when evaluative activity becomes sufficiently integrated and temporally extended.
 
 ## Key Point
 

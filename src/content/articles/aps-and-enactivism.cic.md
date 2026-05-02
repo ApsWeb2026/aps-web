@@ -44,7 +44,7 @@ references:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines enactivism (Varela et al. 1991, Thompson 2007) and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines enactivism (Varela et al. 1991, Thompson 2007) and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Enactivism
 
@@ -58,6 +58,8 @@ APS accepts that this captures something real.
 
 But it rejects the claim that life is enactivism.
 
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
+
 ## What It Explains Well
 
 Enactivist accounts successfully explain:
@@ -69,7 +71,7 @@ Enactivist accounts successfully explain:
 
 These are genuine features of biological systems.
 
-Enactivist accounts capture important aspects of sense-making and organism–environment coupling, but they do not fully explain the viability-oriented organisation that grounds these processes in living systems.
+Enactivist accounts capture important aspects of sense-making and organism–environment coupling, but they do not, by themselves, explain the viability-oriented organisation that grounds these processes in living systems.
 
 ## The Explanatory Starting Point
 
@@ -79,7 +81,7 @@ Enactivist accounts often begin with cognition or sense-making as the primary ph
 
 This approach dissolves sharp boundaries between mind and life, but it risks giving explanatory priority to cognition. Evaluation and basic organism–environment coupling may then be treated as already cognitive, obscuring the conditions under which cognition properly arises.
 
-From an APS perspective, this reverses the order of explanation.
+From an APS perspective, this introduces a different order of explanation.
 
 ## APS: From Viability to Cognition
 
@@ -91,7 +93,7 @@ Evaluation is intrinsic to this organisation: activity is differentially modulat
 
 Cognition, in this view, is not the basis of life but a development within it. It arises only when evaluative activity becomes sufficiently integrated and temporally extended that present regulation is structured in relation to conditions beyond the immediate present.
 
-APS therefore reverses the explanatory direction:
+APS therefore adopts a different explanatory direction:
 
 - Enactivism often moves from cognition to life  
 - APS moves from life to cognition  
@@ -106,7 +108,7 @@ APS captures a closely related phenomenon but grounds it in **biological normati
 
 In this sense, meaning is not an additional layer imposed on biological activity. It is intrinsic to the organisation of life itself.
 
-What enactivism describes as sense-making corresponds to viability-oriented evaluation and semiosis: the modulation of activity and structuring of differences in relation to viability.However, not all such evaluation is cognitive: cognition arises only when this evaluative activity is organised with sufficient integration and temporal depth.
+What enactivism describes as sense-making corresponds to viability-oriented evaluation and semiosis: the modulation of activity and structuring of differences in relation to viability. However, not all such evaluation is cognitive: cognition arises only when this evaluative activity is organised with sufficient integration and temporal depth.
 
 In this sense, purpose in living systems is not the representation or pursuit of externally defined goals, but the organisation of activity relative to viability.
 
@@ -134,7 +136,7 @@ Enactivism offers a compelling account of cognition as embodied, enacted, and co
 
 APS agrees with this continuity and incorporates its central insights.
 
-However, enactivism does not fully explain what makes a system a living system. The evaluative activity that underlies sense-making must first be grounded in viability-oriented organisation, and cognition arises only when this activity becomes sufficiently integrated and temporally extended.
+However, enactivism does not, by itself, explain what distinguishes a system as a living system. The evaluative activity that underlies sense-making must first be grounded in viability-oriented organisation, and cognition arises only when this activity becomes sufficiently integrated and temporally extended.
 
 ## Key Point
 

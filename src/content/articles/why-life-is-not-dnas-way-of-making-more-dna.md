@@ -40,7 +40,7 @@ references:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines a major framework in biology or cognition and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines a major framework in biology or cognition and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## A Familiar Idea — and Its Problem
 
@@ -58,6 +58,8 @@ APS takes a different view.
 
 Life is not organised for DNA. DNA operates within life.
 
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
+
 ## What the Slogan Gets Right
 
 The slogan persists because it captures several genuine features of biology:
@@ -70,7 +72,7 @@ These are not in dispute.
 
 Genes matter enormously. Without them, the continuity of life as we know it would not be possible (Dawkins 1976, Noble 2006).
 
-But describing what is important is not the same as explaining what something *is*.
+Identifying what is important is not the same as explaining what something *is*.
 
 Gene-centred accounts capture important aspects of inheritance and evolutionary change, but they do not explain the viability-oriented organisation that makes biological systems possible in the first place.
 
@@ -111,7 +113,7 @@ Within such systems, processes are linked in ways that maintain one another. Thi
 
 Replication is one outcome of this organisation.
 
-It is not the condition that makes the organisation possible.
+It is not, by itself, the condition that makes the organisation possible.
 
 ## Why Genes Depend on Life
 
@@ -125,9 +127,7 @@ Genetic processes require:
 
 In other words, genes function only within systems that are already alive.
 
-They do not create those systems.
-
-They operate within them.
+They do not, by themselves, create those systems. They operate within them.
 
 ## Rethinking Evolution
 
@@ -135,7 +135,7 @@ It is tempting to imagine evolution as genes competing for replication.
 
 APS reframes this.
 
-Evolution is not the success of genes in isolation. It is the long-term transformation of **organised, viability-oriented systems** across generations.
+Evolution is not adequately explained as the success of genes in isolation. It is the long-term transformation of **organised, viability-oriented systems** across generations.
 
 From this perspective:
 - inheritance stabilises organisation  

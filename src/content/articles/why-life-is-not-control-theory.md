@@ -29,7 +29,7 @@ relatedArticles:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines control theory and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines control theory and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Control Theory
 
@@ -48,6 +48,8 @@ It is therefore natural to interpret living systems as control systems.
 APS accepts that this captures something real.
 
 But it rejects the claim that life is control.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 ## What It Explains Well
 
@@ -70,9 +72,9 @@ In engineering contexts, these targets are specified externally.
 
 Even in more abstract formulations, the system is defined in terms of variables that are to be maintained within certain bounds.
 
-APS argues that this is not sufficient to explain life.
+APS argues that this is not sufficient, by itself, to explain what makes a system a living system.
 
-Living systems do not regulate themselves relative to externally specified goals, but relative to the conditions that sustain their own viability. In this sense, what appears as goal-directed behaviour is grounded in the organisation of activity relative to viability, rather than in externally defined targets. They regulate themselves because their continued existence depends on it.
+Living systems do not regulate themselves relative to externally specified goals, but relative to the conditions that sustain their own viability. What appears as goal-directed behaviour is grounded in the organisation of activity relative to viability, rather than in externally defined targets. They regulate themselves because their continued existence depends on it.
 
 ## Why Regulation Is Not Enough
 

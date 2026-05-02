@@ -58,7 +58,7 @@ APS builds directly on this foundation.
 
 ## The Scope of the Autonomy Framework
 
-Despite this convergence, autonomy theory does not by itself provide a complete explanatory framework for biology.
+Despite this convergence, autonomy theory does not by itself address all the explanatory distinctions required for a full account of living systems.
 
 Autonomy theory captures essential features of biological organisation, but it does not by itself provide a complete account of how these systems are defined, diagnosed, and extended across scales and evolutionary processes.
 
@@ -68,7 +68,7 @@ In particular, three areas remain underdeveloped:
 - the treatment of **scale** and organisation across levels  
 - the integration of organisational analysis with **evolutionary explanation**  
 
-APS addresses these limitations by extending the autonomy framework in a systematic way.
+APS addresses these limitations by extending the autonomy framework in a systematic way, clarifying distinctions that are not explicitly resolved within autonomy theory itself.
 
 ## Definition and Diagnosis
 
@@ -141,6 +141,8 @@ By introducing distinctions between definition and diagnosis, formalising scale,
 Autonomy theory re-established biology on an organisational basis by identifying constraint-closed systems as the defining feature of life.
 
 APS builds directly on this foundation.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 By extending autonomy theory across scale, evolution, and empirical diagnosis, APS provides a unified account of biological organisation grounded in viability-oriented, constraint-closed activity.
 

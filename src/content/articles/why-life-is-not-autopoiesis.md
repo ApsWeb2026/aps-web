@@ -28,7 +28,7 @@ relatedArticles:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines autopoiesis and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines autopoiesis and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Autopoiesis Insight
 
@@ -37,6 +37,8 @@ Autopoiesis marked a turning point in theoretical biology by shifting attention 
 APS fully endorses this shift.
 
 However, identifying life with autopoiesis alone leaves something essential unexplained.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 ## What Autopoiesis Explains Well
 
@@ -54,7 +56,7 @@ Autopoietic theory captures important aspects of self-production and organisatio
 
 Autopoiesis explains self-production.
 
-It does not fully explain why:
+It does not, by itself, explain why:
 
 - failure matters to the system  
 - breakdown is existential  
@@ -64,7 +66,7 @@ Self-production alone does not yet establish viability-oriented normativity. Nor
 
 ## Self-Production and Biological Organisation
 
-APS therefore distinguishes between self-production and the broader organisation of biological activity.
+APS therefore distinguishes between self-production and the broader organisation of biological activity in which it is embedded.
 
 Self-production is a crucial feature of living systems, but it does not by itself capture the full organisation through which systems regulate their conditions, respond to perturbation, and sustain their persistence.
 
@@ -100,7 +102,7 @@ Autopoiesis provides a powerful account of self-producing organisation and marks
 
 APS agrees that living systems are organisationally defined and self-producing.
 
-However, self-production alone is not sufficient to explain life. Living systems are defined by viability-oriented, self-sustaining organisation in which persistence and failure have intrinsic significance.
+HHowever, self-production alone is not sufficient, by itself, to explain what distinguishes living systems. Living systems are defined by viability-oriented, self-sustaining organisation in which persistence and failure have intrinsic significance.
 
 ## Key Point
 

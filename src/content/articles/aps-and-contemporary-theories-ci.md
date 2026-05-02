@@ -8,7 +8,7 @@ canonicalLockDate: 2026-04-13
 revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
-  This article situates the APS framework in relation to major contemporary approaches in biology and cognition. It shows how each framework captures important aspects of living systems while clarifying why none fully accounts for life as viability-oriented, constraint-closed organisation.
+  This article situates the APS framework in relation to major contemporary approaches in biology and cognition. It shows how each framework captures important aspects of living systems wwhile clarifying why none, by itself, explains what distinguishes life as viability-oriented, constraint-closed organisation.
 ---
 
 ## Understanding Life Across Frameworks
@@ -17,7 +17,9 @@ Many contemporary theories explain important aspects of life—genes, informatio
 
 Each captures something real. Each provides powerful tools for explanation.
 
-But none, on its own, explains what makes a system alive.
+But none, on its own, explains what distinguishes a system as a living system.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 ## The Problem of Partial Explanation
 
@@ -29,7 +31,7 @@ These approaches typically focus on one dimension of biological organisation:
 - prediction and inference  
 - autonomy and self-production  
 
-Each offers insight into how living systems function. But taken in isolation, each treats a part of the system as if it were the whole.
+Each offers insight into how living systems function. But taken in isolation, each risks treating a part of the system as if it were the whole.
 
 What is missing is the organisation that makes these processes biologically meaningful in the first place.
 
@@ -60,7 +62,7 @@ The following articles examine major contemporary frameworks in turn, clarifying
 - **[Why Life Is Not Enactivism](/articles/why-life-is-not-enactivism/)**  
 - **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**  
 
-Each article shows how a specific framework captures important aspects of living systems while failing to account for life as a whole.
+Each article shows how a specific framework captures important aspects of living systems while not, by themselves, accounting for what distinguishes life as a whole.
 
 ## Integration and Extension
 

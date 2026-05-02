@@ -29,7 +29,7 @@ relatedArticles:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines a major framework in biology or cognition and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines a major framework in biology or cognition and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Appeal of Information Processing
 
@@ -45,6 +45,8 @@ APS agrees that living systems process information.
 
 But it rejects the stronger claim that life is information processing.
 
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
+
 ## What Information Processing Explains Well
 
 Information-based approaches successfully describe:
@@ -59,11 +61,15 @@ These accounts have transformed modern biology, particularly in molecular biolog
 
 Where living systems already exist as organised entities, information processing provides a powerful description of how they interact with their environments and regulate their behaviour.
 
-But, as with other frameworks, it presupposes something it does not itself explain.
+But, as with other frameworks, it presupposes organisational conditions that it does not itself explain.
 
 Information-processing accounts describe important patterns of signalling and coordination, but they do not explain the viability-oriented organisation that gives these processes biological meaning.
 
-APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended (counterfactual depth). Information-processing accounts risk treating all such modulation as cognitive, thereby obscuring the conditions under which cognition properly arises. In APS, what is often described as information processing is better understood as evaluation and semiosis: the ongoing modulation of activity and structuring of differences in terms of their contribution to viability.
+APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended (counterfactual depth).
+
+Information-processing accounts often treat all such modulation as cognitive, thereby obscuring the conditions under which cognition properly arises.
+
+In APS, what is often described as information processing is better understood as evaluation and semiosis: the ongoing modulation of activity and structuring of differences in relation to their contribution to viability.
 
 This limitation is not unique to information-based approaches, but reflects a broader pattern in biological explanation.
 
@@ -161,7 +167,7 @@ They do not:
 - regulate their own conditions of existence  
 - cease to exist as themselves when processing fails  
 
-This demonstrates that information processing is not sufficient for life.
+This demonstrates that information processing, by itself, is not sufficient for life.
 
 ## The APS Perspective: Information as Activity Within Life
 

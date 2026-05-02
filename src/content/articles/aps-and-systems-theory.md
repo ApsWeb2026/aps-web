@@ -48,9 +48,11 @@ Systems concepts such as feedback, coupling, and dynamic stability align natural
 
 For these reasons, systems theory provides an important descriptive and analytical toolkit within an APS framework.
 
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
+
 ## The Limits of Systems Theory
 
-Despite these strengths, systems theory typically remains **normatively neutral**. It can describe how systems behave, but it does not, by itself, specify why certain states or processes matter for the system.
+Despite these strengths, systems theory typically remains **normatively neutral**. It can describe how systems behave, but it does not, by itself, establish what makes a system *biological*.
 
 In many systems approaches, the definition of the system itself—its boundaries, variables, and relevant processes—is introduced by the observer. This is sufficient for modelling and analysis, but it does not establish what makes a system *biological*.
 
@@ -94,8 +96,9 @@ Because systems theory is normatively neutral, it does not by itself distinguish
 APS introduces this distinction through the concept of **biological agency**. Living systems actively regulate the conditions of their own persistence. They do not merely exhibit dynamic behaviour; they sustain themselves through ongoing, viability-oriented activity.
 
 This distinguishes biological systems from:
-- machines, which operate according to externally imposed functions  
-- physical systems, which evolve according to general laws without self-maintained organisation  
+
+- machines, which typically operate according to externally imposed functions
+- physical systems, which evolve according to general laws without self-maintained organisation
 
 In APS terms, agency is not an additional feature layered onto a system. It is the activity through which a system maintains itself as a system.
 

@@ -28,7 +28,7 @@ relatedArticles:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-This article examines a major framework in biology or cognition and shows why it does not fully account for life as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+This article examines a major framework in biology or cognition and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Machine Analogy
 
@@ -41,6 +41,8 @@ It is therefore natural to ask whether life itself is simply a very sophisticate
 APS accepts that living systems can be described in mechanistic terms.
 
 But it rejects the idea that life *is* a machine.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 ## What the Machine Model Explains Well
 
@@ -72,7 +74,7 @@ A defining feature of machines is that their organisation is specified from outs
 
 A machine does not determine what it is for. Its purpose is imposed. In living systems, purpose is not imposed design or externally defined goals, but is grounded in the organisation of activity relative to viability.
 
-Living systems are fundamentally different.
+Living systems differ in a fundamental respect.
 
 They do not receive their organisation from an external designer. They must sustain the conditions of their own existence through their own activity.
 
@@ -100,7 +102,7 @@ In machines, functions are defined externally. A part has a function because it 
 
 In living systems, function is not assigned.
 
-IIt emerges from the normatively structured role a process plays in sustaining the system’s continued existence.
+It emerges from the normatively structured role a process plays in sustaining the system’s continued existence.
 
 This is why biological function cannot be reduced to mechanical function. It is grounded in viability, not design.
 
@@ -122,7 +124,7 @@ They:
 - reorganise under stress  
 - maintain the conditions that allow them to continue existing  
 
-This self-sustaining organisation is not a feature of machines.
+This form of self-sustaining organisation is not characteristic of machines as they are typically defined.
 
 ## Mechanism Without Life
 
@@ -135,7 +137,7 @@ But no matter how intricate a machine becomes, it does not:
 - lose its identity when activity ceases  
 - persist through its own ongoing organisation  
 
-This shows that mechanism alone is not sufficient for life.
+This shows that mechanism, by itself, is not sufficient for life.
 
 ### Machines, AI, and the Appearance of Cognition
 
@@ -145,7 +147,7 @@ However, these systems remain fundamentally different in their organisation.
 
 They do not exist for themselves, do not sustain their own conditions of persistence, and do not operate through viability-oriented, constraint-closed organisation. Their activity is defined relative to externally specified objectives, architectures, and maintenance conditions.
 
-For this reason, such systems may display complex or intelligent behaviour, but they do not instantiate cognition in the APS sense. Cognition, in APS, is not defined by behavioural complexity or problem-solving ability, but by the organisation of activity within systems that regulate their own continued existence.
+For this reason, such systems may display complex or intelligent behaviour, but they do not, by themselves, instantiate cognition in the APS sense. Cognition, in APS, is not defined by behavioural complexity or problem-solving ability, but by the organisation of activity within systems that regulate their own continued existence.
 
 This distinction clarifies why increasing mechanical or computational sophistication does not, by itself, produce life or cognition.
 
