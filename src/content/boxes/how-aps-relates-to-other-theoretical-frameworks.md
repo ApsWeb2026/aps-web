@@ -14,7 +14,7 @@ Contemporary frameworks such as control theory and nonlinear dynamical systems t
 
 APS does not replace these approaches, nor does it reduce them to a single underlying model. Instead, it addresses a different question: what kind of organisation makes a system a *living system* in the first place.
 
-Multiple theoretical frameworks can therefore apply to the same system, but they do so in different ways and at different explanatory levels. A dynamical systems description may characterise the system’s trajectories, and a control-theoretic model may describe its regulatory structure. These accounts are often non-reducible to one another, and each can be independently valid.
+Multiple theoretical frameworks can therefore apply to the same system, but they do so in different ways and address different explanatory questions. A dynamical systems description may characterise the system’s trajectories, and a control-theoretic model may describe its regulatory structure. These accounts are often non-reducible to one another, and each can be independently valid.
 
 However, such accounts do not by themselves distinguish living systems from non-living systems. Many non-living systems also exhibit regulation, feedback, and complex dynamics.
 
