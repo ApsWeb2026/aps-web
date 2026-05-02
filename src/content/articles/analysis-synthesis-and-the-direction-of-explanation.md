@@ -92,6 +92,8 @@ APS does not reject analysis. The identification and investigation of components
 
 Instead, APS treats explanation as inherently relational and organisation-dependent.
 
+This reorientation reflects a deeper shift in explanatory structure, developed in *The Explanatory Geometry of Biology — How APS Organises Biological Explanation*, where these relations are made explicit as a coherent explanatory grammar.
+
 - Components are understood in terms of the roles they play within a system.  
 - Systems are understood in terms of the constraints and processes that maintain their organisation.  
 - Explanation is oriented toward the conditions under which a system persists as a coherent entity.

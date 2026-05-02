@@ -44,6 +44,8 @@ This article examines a major framework in biology or cognition and shows why it
 
 ## A Familiar Idea — and Its Problem
 
+[[box:analysis-vs-synthesis-two-directions-of-explanation]]
+
 You may have heard the phrase:
 
 **“Life is DNA’s way of making more DNA.”**

@@ -80,6 +80,10 @@ These are not separate components of explanation, but analytic perspectives on a
 
 ## From description to explanatory grammar
 
+Biological explanation is often implicitly organised by a particular mode of reasoning.
+
+[[box:analysis-vs-synthesis-two-directions-of-explanation]]
+
 Most biological accounts implicitly rely on this structure, but do not make it explicit. As a result, key terms—such as function, adaptation, information, or regulation—are often used in multiple, partially incompatible ways.
 
 APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale. This includes the organisation of spatial and temporal relations through which processes are distributed and sustained (see *Space, Time, and Organisation in Biology*). In this sense, concepts such as function and purpose do not introduce external goals or design. They describe how components and processes are organised relative to viability: function as a normatively grounded contribution to persistence, and purpose as the directionality of activity within such organisation.

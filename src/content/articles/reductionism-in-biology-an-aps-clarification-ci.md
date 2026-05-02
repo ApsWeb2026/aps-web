@@ -32,6 +32,10 @@ Reductionism is often treated as a defining commitment of scientific explanation
 
 ## Conventional framing
 
+Reductionism is not only a position about biology, but reflects a broader orientation of scientific explanation.
+
+[[box:analysis-vs-synthesis-two-directions-of-explanation]]
+
 Reductionism is typically understood as the view that biological systems can be fully explained by decomposing them into their constituent parts—genes, molecules, and biochemical processes—and by appealing to the laws of physics and chemistry that govern those parts. On this view, explanation proceeds from the bottom up: once the behaviour of components is known, the behaviour of the system as a whole is taken to follow.
 
 This framing often carries two assumptions. First, that ontological fundamentality—what is most basic in reality—determines explanatory priority. Second, that higher-order biological features such as organisation, function, or adaptation can be reduced without remainder to lower-level descriptions.
