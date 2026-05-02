@@ -44,17 +44,19 @@ This article examines a major framework in biology or cognition and shows why it
 
 ## A Familiar Idea — and Its Problem
 
-[[box:analysis-vs-synthesis-two-directions-of-explanation]]
-
 You may have heard the phrase:
 
 **“Life is DNA’s way of making more DNA.”**
 
-It is memorable. It captures something real about biology: genetic material is copied across generations, and this continuity underlies evolution.
+It is memorable and captures something real: genetic material is copied across generations, and this continuity underlies evolution.
 
-But taken as an explanation of life, the slogan quietly reverses the relationship it is trying to describe.
+But as an explanation of life, the slogan quietly reverses the relationship it describes.
 
-It suggests that organisms exist *for* DNA. That living systems are instruments for gene replication.
+It suggests that organisms exist *for* DNA—that living systems are instruments of gene replication.
+
+This inversion reflects a deeper orientation in scientific explanation.
+
+[[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 APS takes a different view.
 
@@ -70,23 +72,17 @@ The slogan persists because it captures several genuine features of biology:
 - reproduction extends biological organisation through time  
 - evolutionary change depends on heritable variation  
 
-These are not in dispute.
+These are not in dispute. Genes matter enormously: without them, the continuity of life as we know it would not be possible (Dawkins 1976, Noble 2006).
 
-Genes matter enormously. Without them, the continuity of life as we know it would not be possible (Dawkins 1976, Noble 2006).
+But identifying what is important is not the same as explaining what something *is*.
 
-Identifying what is important is not the same as explaining what something *is*.
-
-Gene-centred accounts capture important aspects of inheritance and evolutionary change, but they do not explain the viability-oriented organisation that makes biological systems possible in the first place.
-
-APS distinguishes between evaluation and higher-level cognitive organisation. All living systems modulate their activity relative to viability, but this evaluative organisation is prior to processes such as replication or inheritance. Gene-centred accounts risk treating replication as primary, thereby obscuring the evaluative activity through which living systems sustain the conditions that make replication possible. This evaluative organisation reflects the intrinsic normativity of living systems, grounding biological function as the normatively structured contribution of processes to persistence.
+Gene-centred accounts capture inheritance and evolutionary change, but not the viability-oriented organisation that makes biological systems possible.
 
 ## What It Leaves Out
 
 The slogan treats replication as if it were the organising principle of life.
 
-But replication does not occur on its own.
-
-DNA does not sustain itself. It does not gather resources, regulate its conditions, or repair its own context. For replication to occur, a whole system must already be in place—one that:
+But replication does not occur on its own. DNA does not sustain itself. It does not gather resources, regulate its conditions, or repair its own context. For replication to occur, a whole system must already be in place—one that:
 
 - maintains internal organisation  
 - regulates interactions with its surroundings  
@@ -148,6 +144,8 @@ Genes play a central role in all of this.
 
 But they do so as part of a larger system whose organisation makes these processes possible in the first place.
 
+This reorientation reflects a broader shift in explanatory perspective: from treating components as primary to understanding them within the organised systems that give them meaning (see *Analysis, Synthesis, and the Direction of Explanation*).
+
 From this perspective, biological function is defined not by replication success alone, but by contribution to the viability of organised systems across time.
 
 ## A Simple Analogy
@@ -165,8 +163,8 @@ Similarly, genes contribute to biological organisation, but they do not sustain 
 The slogan “life is DNA’s way of making more DNA” compresses a complex process into a striking image.
 
 But it also introduces a subtle inversion:
-- it treats genes as if they were agents  
-- and living systems as if they were instruments  
+- genes are treated as agents  
+- living systems as instruments  
 
 APS restores the direction of explanation.
 

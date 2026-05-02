@@ -28,13 +28,15 @@ relatedArticles:
   - explanatory-geometry-of-biology
 ---
 
-Reductionism is often treated as a defining commitment of scientific explanation, particularly in biology, where it is commonly assumed that living systems are best understood by analysing their smallest components and the physical laws governing them. APS does not reject this impulse but clarifies its scope and limits by distinguishing between **what biological systems are made of** and **how biological phenomena become intelligible as biological phenomena**.
+Reductionism is often treated as a defining commitment of scientific explanation, particularly in biology, where it is commonly assumed that explanation proceeds by analysing systems into their smallest components. APS does not reject this impulse but clarifies its scope and limits by distinguishing between **what biological systems are made of** and **how biological phenomena become intelligible as biological phenomena**.
 
 ## Conventional framing
 
 Reductionism is not only a position about biology, but reflects a broader orientation of scientific explanation.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
+
+This orientation reflects a broader tendency in scientific explanation to privilege analysis—treating explanation in terms of components as more fundamental than explanation in terms of organised systems (see *Analysis, Synthesis, and the Direction of Explanation*).
 
 Reductionism is typically understood as the view that biological systems can be fully explained by decomposing them into their constituent parts—genes, molecules, and biochemical processes—and by appealing to the laws of physics and chemistry that govern those parts. On this view, explanation proceeds from the bottom up: once the behaviour of components is known, the behaviour of the system as a whole is taken to follow.
 
@@ -44,7 +46,7 @@ This framing often carries two assumptions. First, that ontological fundamentali
 
 APS accepts that biological systems are materially constituted by physical and chemical processes. There is no departure from material realism: organisms are composed of molecules, and those molecules obey physical laws. However, APS rejects the inference that material constitution alone determines explanatory priority.
 
-Explanatory priority concerns the order of intelligibility. It identifies what must be specified first for biological concepts to make sense as biological concepts. In APS, viability-oriented, constraint-closed organisation has explanatory priority because the central categories of biology—function, adaptation, inheritance, and evolution—already presuppose it. Without organised persistence, there are no systems for which functions can be assigned, no stable entities that can reproduce, and no continuity across which evolutionary change can be tracked.
+Explanatory priority concerns the order of intelligibility. It identifies what must be specified first for biological concepts to make sense as biological concepts. In APS, viability-oriented, constraint-closed organisation has explanatory priority because the central categories of biology—function, adaptation, inheritance, and evolution—already presuppose it as their condition of intelligibility. Without organised persistence, there are no systems for which functions can be assigned, no stable entities that can reproduce, and no continuity across which evolutionary change can be tracked.
 
 Components such as genes, enzymes, and structures are therefore not denied but re-situated. Their biological significance is not intrinsic but arises from the contribution they make to sustaining the organisation of the system in which they participate. A gene, for example, is materially present in every cell, but its role as a gene—as something that contributes to development, regulation, or inheritance—depends on the organised context of the living system. Outside that context, it is a molecular sequence, not a biological function.
 
