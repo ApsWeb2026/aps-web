@@ -9,11 +9,14 @@ cluster: conceptual-foundations
 revised: 2026-04-14
 seeAlso:
   - biological-agency
+  - biolgical organisation
+  - explanatory-direction
   - process
   - scale
   - constraint-closure
   - function
   - biological-causation
+  - reductionism
 ---
 
 ## Conventional framing
