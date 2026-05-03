@@ -36,9 +36,9 @@ references:
     year: 2015
     title: "The extended evolutionary synthesis: its structure, assumptions and predictions"
     journal: "Proceedings of the Royal Society B: Biological Sciences"
-    volume: "282"
-    issue: "1813"
+    volume: "282(1813)"
     pages: "20151019"
+    doi: "10.1098/rspb.2015.1019"
 
   - id: Laland2016
     authors: "Laland, K. N."
@@ -47,6 +47,7 @@ references:
     journal: "Annual Review of Ecology, Evolution, and Systematics"
     volume: "47"
     pages: "1–28"
+    doi: "10.1146/annurev-ecolsys-121415-032359"
 
   - id: OdlingSmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
@@ -65,18 +66,18 @@ references:
     year: 2007
     title: "Do we need an extended evolutionary synthesis?"
     journal: "Evolution"
-    volume: "61"
-    issue: "12"
+    volume: "61(12)"
     pages: "2743–2749"
+    doi: "10.1111/j.1558-5646.2007.00246.x"
 
   - id: Noble2012
     authors: "Noble, D."
     year: 2012
     title: "A theory of biological relativity: no privileged level of causation"
     journal: "Interface Focus"
-    volume: "2"
-    issue: "1"
+    volume: "2(1)"
     pages: "55–64"
+    doi: "10.1098/rsfs.2011.0067"
 
   - id: NicholsonDupre2018
     authors: "Nicholson, D. J., & Dupré, J. (Eds.)"
