@@ -35,43 +35,43 @@ references:
     authors: "Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee, J."
     year: 2015
     title: "The extended evolutionary synthesis: its structure, assumptions and predictions"
-    source: "Proceedings of the Royal Society B: Biological Sciences, 282(1813), 20151019. https://doi.org/10.1098/rspb.2015.1019"
+    source: "Proceedings of the Royal Society B: Biological Sciences, 282(1813), 20151019"
 
   - id: Laland2016
     authors: "Laland, K. N."
     year: 2016
     title: "The extended evolutionary synthesis"
-    source: "Annual Review of Ecology, Evolution, and Systematics, 47, 1–28. https://doi.org/10.1146/annurev-ecolsys-121415-032359"
+    source: "Annual Review of Ecology, Evolution, and Systematics, 47, 1–28"
 
   - id: OdlingSmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
-    source: "Princeton, NJ: Princeton University Press. ISBN 978-0691044378"
+    source: "Princeton University Press"
 
   - id: WestEberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
-    source: "New York: Oxford University Press. ISBN 978-0195122350"
+    source: "Oxford University Press"
 
   - id: Pigliucci2007
     authors: "Pigliucci, M."
     year: 2007
     title: "Do we need an extended evolutionary synthesis?"
-    source: "Evolution, 61(12), 2743–2749. https://doi.org/10.1111/j.1558-5646.2007.00246.x"
+    source: "Evolution, 61(12), 2743–2749"
 
   - id: Noble2012
     authors: "Noble, D."
     year: 2012
     title: "A theory of biological relativity: no privileged level of causation"
-    source: "Interface Focus, 2(1), 55–64. https://doi.org/10.1098/rsfs.2011.0067"
+    source: "Interface Focus, 2(1), 55–64"
 
   - id: NicholsonDupre2018
     authors: "Nicholson, D. J., & Dupré, J. (Eds.)"
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford: Oxford University Press. ISBN 978-0198779636"
+    source: "Oxford University Press"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
