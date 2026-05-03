@@ -30,6 +30,21 @@ relatedArticles:
   - selection-revisited-what-does-selection-actually-act-on
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
+  references:
+  - id: Laland2015
+    citation: "Laland, K. N., Uller, T., Feldman, M. W., et al. (2015). The extended evolutionary synthesis: its structure, assumptions and predictions. Proceedings of the Royal Society B, 282(1813), 20151019."
+  - id: Laland2016
+    citation: "Laland, K. N. (2016). The extended evolutionary synthesis. Annual Review of Ecology, Evolution, and Systematics, 47, 123–146."
+  - id: OdlingSmee2003
+    citation: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W. (2003). Niche Construction: The Neglected Process in Evolution. Princeton University Press."
+  - id: WestEberhard2003
+    citation: "West-Eberhard, M. J. (2003). Developmental Plasticity and Evolution. Oxford University Press."
+  - id: Pigliucci2007
+    citation: "Pigliucci, M. (2007). Do we need an extended evolutionary synthesis? Evolution, 61(12), 2743–2749."
+  - id: Noble2012
+    citation: "Noble, D. (2012). A theory of biological relativity: no privileged level of causation. Interface Focus, 2(1), 55–64."
+  - id: Nicholson2012
+    citation: "Nicholson, D. J., & Dupré, J. (Eds.). (2018). Everything Flows: Towards a Processual Philosophy of Biology. Oxford University Press."
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
