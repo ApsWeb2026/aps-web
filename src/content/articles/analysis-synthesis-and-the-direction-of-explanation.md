@@ -18,7 +18,7 @@ relatedGlossaryTerms:
   - reductionism
 relatedArticles:
   - explanatory-geometry-of-biology
-  - reductionism-in-biology-aps-clarification
+  - reductionism-in-biology-an-aps-clarification
   - what-is-aps
   - from-life-to-explanation-emerging-architecture
 ---
