@@ -30,7 +30,7 @@ relatedArticles:
   - selection-revisited-what-does-selection-actually-act-on
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
-  references:
+references:
   - id: Laland2015
     citation: "Laland, K. N., Uller, T., Feldman, M. W., et al. (2015). The extended evolutionary synthesis: its structure, assumptions and predictions. Proceedings of the Royal Society B, 282(1813), 20151019."
   - id: Laland2016
