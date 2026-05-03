@@ -2,23 +2,104 @@
 date: 2026-04-03
 title: Agency Without Intentions
 slug: biological-agency-without-intentions
-abstract: "This article explains how APS understands biological agency as viability-oriented activity without requiring intention, representation, or mental states."
+abstract: >
+  This article clarifies how APS understands biological agency as viability-oriented, normatively structured activity that does not require intention, representation, or mental states. It shows how agency arises from the organisation of living systems and how more complex forms of agency develop without introducing a categorical break.
 status: canonical
+canonical: true
+canonicalLockDate: 2026-05-03
+revised: 2026-05-03
 cluster: conceptual-foundations
-revised: 2026-04-03
+relatedGlossaryTerms:
+  - biological-agency
+  - viability
+  - normativity
+  - evaluation
+  - biological-organisation
+  - process
+  - scale
+relatedArticles:
+  - what-is-aps
+  - cognition-where-does-it-belong-in-biology
+  - aps-glossary-as-constraint-closed-conceptual-system
+references:
+  - id: barandiaran-2009
+    citation: >
+      Barandiaran, X. E., Di Paolo, E. A., & Rohde, M. (2009).
+      Defining agency: Individuality, normativity, asymmetry, and spatio-temporality in action.
+      Adaptive Behavior, 17(5), 367–386.
 ---
 
-## 1. Introduction
+## Introduction
 
-A persistent assumption in both philosophy and cognitive science is that genuine biological agency requires intentional states — beliefs, desires, goals. The APS framework challenges this assumption by grounding biological agency in organisational properties of living systems rather than in cognitive capacities.
+Biological agency is often assumed to require intentional states such as beliefs, desires, or goals. On this view, agency is fundamentally cognitive: only systems capable of representation or decision-making count as genuine agents.
 
-## 2. Minimal Agency
+APS rejects this assumption.
 
-Following [Barandiaran et al. (2009)](#ref-barandiaran-2009), the APS framework identifies three necessary conditions for minimal biological agency: individuality, asymmetric interaction with the environment, and normativity. Crucially, none of these conditions require intentional states.
+Within APS, biological agency is not defined by the presence of mental states but by the organisation of a living system. Agency is understood as the viability-oriented activity through which a system maintains and regulates the conditions of its own persistence. This activity is inherently normative, in that some states and outcomes contribute to the system’s continued existence while others undermine it.
 
-A bacterium navigating a chemical gradient satisfies all three conditions. It is an individual system, it interacts asymmetrically with its environment (moving towards nutrients, away from toxins), and its behaviour is normative — some outcomes are better for the system's continued existence than others.
+Agency, in this sense, does not depend on intention. It arises from the organisation of living systems themselves.
 
-## 3. The Intentionality Gradient
+## Agency as viability-oriented activity
 
-Rather than drawing a sharp line between "genuine" agents (those with intentions) and mere mechanisms, APS proposes a gradient. Biological agency at its most minimal involves self-maintenance without representation. More complex forms of biological agency involve increasingly sophisticated forms of environmental coupling, anticipation, and eventually, intentional states.
+A living system is characterised by a specific form of organisation in which processes are coordinated so as to maintain the system over time. This organisation defines a viability region: a range of states within which the system can continue to exist.
 
+Within this region, the system’s activity is not neutral. Some interactions contribute to maintaining viability, while others threaten it. This establishes a system-internal distinction between better and worse states.
+
+Biological agency consists in the regulation of activity in relation to this distinction.
+
+This regulation is expressed through evaluation: the ongoing modulation of behaviour in ways that are sensitive to the conditions of viability. A system exhibits agency insofar as it actively maintains and reorganises its own conditions of persistence through such evaluative activity.
+
+No appeal to intention, representation, or internal models is required.
+
+## Minimal conditions of agency
+
+Following :contentReference[oaicite:0]{index=0}, three conditions are often identified as necessary for minimal agency: individuality, asymmetry of interaction, and normativity.
+
+Within APS, these conditions are retained but reinterpreted in organisational terms.
+
+- **Individuality** refers to the existence of a system whose organisation is maintained across time.  
+- **Asymmetry of interaction** reflects the fact that the system’s activity is not passively determined by its environment but modulates its interactions in ways that affect its own persistence.  
+- **Normativity** arises from the system’s viability conditions: interactions are not equivalent but differentially contribute to or undermine continued existence.  
+
+These conditions are not independent features but aspects of a single organisational structure. Together, they describe a system whose activity is regulated in relation to its own continued viability.
+
+A bacterium navigating a chemical gradient satisfies these conditions. It is an individual system, it interacts asymmetrically with its environment, and its behaviour is structured by the difference between conditions that support or undermine its persistence.
+
+This is sufficient for biological agency in the minimal sense.
+
+## Agency without representation
+
+On many accounts, agency is inseparable from representation: an agent must in some sense represent its environment in order to act within it.
+
+APS rejects this requirement.
+
+The behaviour of even simple organisms can be understood as the outcome of organised processes that are sensitive to environmental conditions and modulate activity accordingly. These processes do not require internal representations. They operate through the coupling of the system’s organisation to its environment in ways that preserve viability.
+
+To describe such activity as representational is to import additional assumptions that are not required for explanation. Agency can be fully accounted for in terms of organisation, constraint, and evaluation.
+
+Representation, where it occurs, is a further development of biological organisation, not a prerequisite for agency.
+
+## Gradations of agency
+
+Biological agency does not divide into two categories—systems with intentions and systems without. Instead, it exhibits a continuum of organisational complexity.
+
+At its most basic, agency consists in the regulation of activity in relation to immediate conditions of viability. As systems become more complex, this regulation becomes more integrated, temporally extended, and context-sensitive.
+
+More sophisticated forms of agency involve the coordination of multiple processes across time, allowing present activity to be structured in relation to conditions that are not immediately given. At higher levels of organisation, this may include forms of anticipation, learning, and eventually the emergence of representation and intention.
+
+These developments do not introduce a categorical break. They elaborate an underlying structure that is already present in minimal agency: the viability-oriented regulation of activity.
+
+## Implications
+
+Understanding agency in this way has several consequences.
+
+- It locates agency within biology rather than reserving it for cognitive systems.  
+- It avoids a sharp divide between living systems and cognitive agents.  
+- It provides a continuous account of how more complex forms of agency can emerge from simpler ones.  
+- It removes the need to posit internal representations as a precondition for action.  
+
+More broadly, it shifts the focus of explanation from internal states to organisational processes.
+
+## Key point
+
+Biological agency does not require intentions or mental states. It arises from the organisation of living systems as viability-oriented, normatively structured processes in which activity is regulated in relation to the conditions of persistence.
