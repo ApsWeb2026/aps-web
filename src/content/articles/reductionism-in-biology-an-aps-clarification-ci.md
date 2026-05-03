@@ -30,6 +30,10 @@ relatedArticles:
 
 Reductionism is often treated as a defining commitment of scientific explanation, particularly in biology, where it is commonly assumed that explanation proceeds by analysing systems into their smallest components. APS does not reject this impulse but clarifies its scope and limits by distinguishing between **what biological systems are made of** and **how biological phenomena become intelligible as biological phenomena**.
 
+Where *Analysis, Synthesis, and the Direction of Explanation* examines how explanation is oriented, this article addresses a distinct but related question: whether biological explanation can be reduced to its constituent parts.
+
+The issue is not whether analysis is valid, but whether it is sufficient. Reductionism arises when one direction of explanation is treated as exhaustive.
+
 ## Conventional framing
 
 Reductionism is not only a position about biology, but reflects a broader orientation of scientific explanation.
@@ -73,6 +77,8 @@ APS also avoids introducing any additional substances, forces, or ontological la
 The methodological implication is that biological explanation must begin where biological intelligibility begins: with systems that sustain themselves over time. From this starting point, the roles of components, mechanisms, and interactions can be understood in terms of their contribution to the persistence of the system.
 
 This does not invert a hierarchy or privilege wholes over parts in an ontological sense. It establishes an explanatory order in which the organisation of the system provides the context within which parts become meaningful. Decomposition remains a powerful tool, but its results must be reintegrated into an account of the organised system if they are to count as biological explanations.
+
+For the structure of explanation that gives rise to this issue, see *Analysis, Synthesis, and the Direction of Explanation*.
 
 ## Key Point
 

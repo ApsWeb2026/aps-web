@@ -33,7 +33,7 @@ This assumption has far-reaching consequences. It encourages the view that expla
 
 However, this reflects a particular orientation of explanation rather than a necessary feature of reality.
 
----
+This article does not argue against reductionism as such, but examines a prior question: how explanation is oriented. The status of reductionism within APS is addressed separately.
 
 ## Two directions of explanation
 
@@ -51,8 +51,6 @@ Both are legitimate. Neither is intrinsically more fundamental than the other.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
----
-
 ## The asymmetry in practice
 
 Although analysis and synthesis are conceptually symmetrical, they are not treated symmetrically in scientific practice.
@@ -63,28 +61,25 @@ This has produced an implicit hierarchy of explanation:
 - smaller components are treated as more fundamental  
 - larger organisations are treated as derivative  
 
-As a result, explanation is commonly understood as moving “downward” toward underlying parts, while “upward” explanations in terms of organisation or context are often treated as secondary, heuristic, or incomplete.
+This hierarchy is reinforced by the language commonly used to describe explanation. Explanations are said to move “downward” to underlying parts or “upward” to higher-level organisation. Although such terms are often used metaphorically, they are not neutral. They encourage a hierarchical interpretation in which lower levels are implicitly treated as more basic and higher levels as dependent or secondary.
+
+The notion of a “direction” of explanation can therefore be misleading. It suggests that explanation proceeds along a single axis, typically from wholes to parts, rather than between interdependent aspects of a system. In doing so, it obscures the reciprocal relation between analysis and synthesis.
+
+[[box:hierarchy-vs-scale]]
 
 This asymmetry is methodological rather than ontological. It reflects how explanation is typically conducted, not how reality is structured.
-
----
 
 ## Consequences for biological explanation
 
 In biology, the privileging of analysis has had a profound influence.
 
-Living systems are frequently explained in terms of:
-- genes  
-- molecular pathways  
-- biochemical mechanisms  
-
-These are indispensable components of biological explanation. However, when treated as primary, they can obscure the organisational conditions that make biological systems what they are.
+Living systems are frequently explained in terms of genes, molecular pathways, and biochemical mechanisms. These are indispensable components of biological explanation. However, when explanation is oriented primarily in this way, these components can obscure the organisational conditions that make biological systems what they are.
 
 A living organism is not merely a collection of molecules. It is a dynamically maintained organisation in which components are continuously produced, regulated, and coordinated. The same molecular constituents can be present in both living and non-living systems, but only in the former are they organised in a way that sustains ongoing activity.
 
-If explanation proceeds only analytically, this organisational dimension becomes difficult to capture. The system is decomposed into parts, but the conditions under which those parts collectively sustain a living process are no longer visible as explanatory objects in their own right.
+When explanation proceeds primarily by decomposition, this organisational dimension is not eliminated but displaced. The system is analysed into parts, but the conditions under which those parts collectively sustain a living process are no longer treated as primary objects of explanation.
 
----
+The result is not an incorrect account, but an incomplete one.
 
 ## Reorienting explanation in APS
 
@@ -96,13 +91,11 @@ This reorientation reflects a deeper shift in explanatory structure, developed i
 
 - Components are understood in terms of the roles they play within a system.  
 - Systems are understood in terms of the constraints and processes that maintain their organisation.  
-- Explanation is oriented toward the conditions under which a system persists as a coherent entity.
+- Explanation is oriented toward the conditions under which a system persists as a coherent entity.  
 
 This reorientation shifts explanatory emphasis from composition to organisation.
 
 In this framework, biological explanation is not exhausted by identifying parts and their interactions. It also requires understanding how those interactions are structured so as to maintain the system’s viability over time.
-
----
 
 ## No privileged direction of explanation
 
@@ -117,8 +110,6 @@ Explanatory adequacy depends on the coordination of these perspectives, not the 
 The dominance of analysis in modern science is therefore best understood as a historically entrenched habit of explanation rather than a discovery about the fundamental structure of the world.
 
 Recognising this opens the possibility of a more balanced explanatory framework—one in which organisation, constraint, and viability are treated as central, rather than derivative, features of biological systems.
-
----
 
 ## Key point
 
