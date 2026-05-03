@@ -32,6 +32,23 @@ By grounding purpose in constraint-closed, viability-oriented organisation, APS 
 
 This account differs from teleonomic interpretations, which treat purposiveness as an effect of evolutionary history. In APS, purpose is grounded in the ongoing organisation of activity relative to viability.
 
+## Purpose and Function
+
+Purpose and function are closely related but operate at different explanatory roles.
+
+Purpose concerns the organisation of activity at the level of the system as a whole. It specifies how the system’s activity is structured in relation to conditions of viability and persistence.
+
+Function, by contrast, concerns the contributions of particular components within that organised system. It specifies how structures or processes contribute to maintaining the organisation under given conditions.
+
+The distinction can be stated succinctly:
+
+Purpose: how the system’s activity is organised relative to viability
+Function: how parts contribute to maintaining that organisation
+
+Purpose characterises the overall orientation of activity; functions are defined within that organisation as the roles through which it is maintained.
+
+Because both are grounded in biological normativity, they are easily conflated. However, they operate at different levels of explanation: purpose describes the organisation of activity at the system level, while function describes the contribution of components within that organisation.
+
 ## Key Point
 Purpose is the organisation of a system’s activity relative to the conditions required for its persistence.
 

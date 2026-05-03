@@ -32,5 +32,22 @@ Evolutionary history explains how such roles emerge and stabilise, but functiona
 
 Function concerns the contribution of components within an organised system, while purpose refers to the organisation of activity relative to viability at the scale of the system as a whole.
 
+## Function and Purpose
+
+Function and purpose are closely related but conceptually distinct.
+
+Function concerns the role of a component within an organised system. It specifies how a particular structure or process contributes to maintaining the system’s organisation under given conditions. Functional attributions are therefore local and component-relative.
+
+Purpose, by contrast, concerns the organisation of activity at the level of the system as a whole. It refers to the way in which the system’s activity is structured in relation to conditions of viability.
+
+The distinction can be stated succinctly:
+
+Function: how parts contribute to maintaining organisation
+Purpose: how the system’s activity is organised relative to viability
+
+Functions are defined within an already established organisation; purposes characterise the organisation itself.
+
+Because both are grounded in biological normativity, they are easily conflated. However, they operate at different explanatory roles: function explains the contribution of components, while purpose explains the orientation of the system’s activity as a whole.
+
 ## Key Point
 Function specifies how particular structures or processes contribute to maintaining biological organisation.
