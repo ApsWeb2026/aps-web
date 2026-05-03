@@ -22,11 +22,11 @@ relatedArticles:
   - cognition-where-does-it-belong-in-biology
   - aps-glossary-as-constraint-closed-conceptual-system
 references:
-  - id: barandiaran-2009
-    citation: >
-      Barandiaran, X. E., Di Paolo, E. A., & Rohde, M. (2009).
-      Defining agency: Individuality, normativity, asymmetry, and spatio-temporality in action.
-      Adaptive Behavior, 17(5), 367–386.
+  - authors: "Barandiaran, X. E., Di Paolo, E. A., & Rohde, M."
+    year: 2009
+    title: "Defining agency: Individuality, normativity, asymmetry, and spatio-temporality in action"
+    source: "Adaptive Behavior, 17(5), 367–386"
+    doi: "10.1177/1059712309343819"
 ---
 
 ## Introduction
