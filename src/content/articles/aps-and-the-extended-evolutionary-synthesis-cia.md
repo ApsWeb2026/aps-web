@@ -32,40 +32,46 @@ relatedArticles:
   - explanatory-priority-is-not-ontological-priority
 references:
   - id: Laland2015
-    authors: "Laland, K. N., Uller, T., Feldman, M. W., et al."
+    authors: "Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee, J."
     year: 2015
     title: "The extended evolutionary synthesis: its structure, assumptions and predictions"
-    source: "Proceedings of the Royal Society B, 282(1813), 20151019"
+    source: "Proceedings of the Royal Society B: Biological Sciences, 282(1813), 20151019. https://doi.org/10.1098/rspb.2015.1019"
+
   - id: Laland2016
     authors: "Laland, K. N."
     year: 2016
     title: "The extended evolutionary synthesis"
-    source: "Annual Review of Ecology, Evolution, and Systematics, 47, 123–146"
+    source: "Annual Review of Ecology, Evolution, and Systematics, 47, 1–28. https://doi.org/10.1146/annurev-ecolsys-121415-032359"
+
   - id: OdlingSmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
-    source: "Princeton University Press"
+    source: "Princeton, NJ: Princeton University Press. ISBN 978-0691044378"
+
   - id: WestEberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
-    source: "Oxford University Press"
+    source: "New York: Oxford University Press. ISBN 978-0195122350"
+
   - id: Pigliucci2007
     authors: "Pigliucci, M."
     year: 2007
     title: "Do we need an extended evolutionary synthesis?"
-    source: "Evolution, 61(12), 2743–2749"
+    source: "Evolution, 61(12), 2743–2749. https://doi.org/10.1111/j.1558-5646.2007.00246.x"
+
   - id: Noble2012
     authors: "Noble, D."
     year: 2012
     title: "A theory of biological relativity: no privileged level of causation"
-    source: "Interface Focus, 2(1), 55–64"
+    source: "Interface Focus, 2(1), 55–64. https://doi.org/10.1098/rsfs.2011.0067"
+
   - id: NicholsonDupre2018
     authors: "Nicholson, D. J., & Dupré, J. (Eds.)"
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford University Press"
+    source: "Oxford: Oxford University Press. ISBN 978-0198779636"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
