@@ -22,7 +22,8 @@ relatedArticles:
   - cognition-where-does-it-belong-in-biology
   - aps-glossary-as-constraint-closed-conceptual-system
 references:
-  - authors: "Barandiaran, X. E., Di Paolo, E. A., & Rohde, M."
+  - id: barandiaran-2009
+    authors: "Barandiaran, X. E., Di Paolo, E. A., & Rohde, M."
     year: 2009
     title: "Defining agency: Individuality, normativity, asymmetry, and spatio-temporality in action"
     source: "Adaptive Behavior, 17(5), 367–386"
