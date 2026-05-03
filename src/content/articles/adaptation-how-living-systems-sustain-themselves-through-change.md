@@ -33,6 +33,42 @@ relatedArticles:
   - inheritance-and-continuity-in-aps
   - selection-revisited-what-does-selection-actually-act-on
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+references:
+  - id: Williams1966
+    authors: "Williams, G. C."
+    year: 1966
+    title: "Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought"
+    publisher: "Princeton University Press"
+
+  - id: Dawkins1982
+    authors: "Dawkins, R."
+    year: 1982
+    title: "The Extended Phenotype"
+    publisher: "Oxford University Press"
+
+  - id: WestEberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: Waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    publisher: "Allen & Unwin"
+
+  - id: OdlingSmee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
+
+  - id: NicholsonDupre2018
+    authors: "Nicholson, D. J., & Dupré, J. (Eds.)"
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
 ---
 
 ## Introduction
@@ -72,6 +108,8 @@ Living systems do not passively maintain their structure. They continuously resh
 This reorganisation preserves viable trajectories, allowing systems to sustain biological organisation rather than lose it under changing conditions.
 
 Adaptation is therefore not an occasional adjustment. It is a continuous activity through which persistence is sustained across change.
+
+Adaptation does not refer to any change in activity, but specifically to reorganisation that preserves or restores viability under changing conditions.
 
 ## Adaptation and Agency
 
