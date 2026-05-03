@@ -34,7 +34,7 @@ relatedArticles:
 
 ## 1. Biology and the Return of Philosophy
 
-Biology is often presented as an empirical science concerned with the observation and explanation of living systems. Yet this presentation conceals a deeper truth: biological explanation is already structured by philosophical commitments. To identify a living system, to attribute a function, to describe a process as adaptive, or to distinguish cause from effect is never a purely observational act. Each involves assumptions about what exists, what persists, and what counts as an adequate explanation. These assumptions are rarely made explicit, but they shape the practice of biology at every level.
+Biology is often presented as an empirical science concerned with the observation and explanation of living systems. Yet this presentation conceals a deeper truth: biological explanation is already structured by philosophical commitments. To identify a living system, to attribute a function, to describe a process as adaptive, or to distinguish cause from effect is never a purely observational act. Each involves assumptions about what exists, what persists, and what counts as an adequate explanation. These assumptions are rarely made explicit, but they shape the practice of biology at every scale.
 
 Theoretical biology emerges precisely at the point where these assumptions become visible. It asks not only what happens in biological systems, but how such happenings should be understood. It interrogates the conceptual structure of biological explanation itself. In doing so, it reveals that biology is not merely a collection of empirical findings but a discipline grounded in an implicit philosophy of life.
 
