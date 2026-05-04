@@ -19,7 +19,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - teleonomy
   - design-in-nature-an-aps-clarification
-  - emergence-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
   - explanatory-geometry-of-biology
 references:
   - id: aristotle
