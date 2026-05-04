@@ -28,6 +28,13 @@ relatedArticles:
   - aps-and-contemporary-theories
   - explanatory-priority-is-not-ontological-priority
   - organism-world-coupling-agency-not-control
+references:
+   - id: rama2026
+     author: "Rama, T."
+     year: 2026
+     title: "Autonomy and Development: Distinguishing teleological development from teleological physiology"
+     source: "PhilSci Archive"
+     url: "https://philsci-archive.pitt.edu/27869/"
 ---
 
 ## The Problem Teleonomy Was Introduced to Solve
@@ -53,6 +60,8 @@ Teleonomy therefore relocates purpose from present activity to evolutionary hist
 ## The Limits of Teleonomy
 
 While teleonomy successfully avoids classical teleology, it does not fully resolve the conceptual problem it was designed to address.
+
+A related line of critique emphasises that accounts grounded solely in self-maintenance or autonomy may be insufficient to explain the structured, directed character of biological development, which appears to involve forms of goal-directedness not reducible to immediate viability regulation (Rama, 2026). This reinforces the need for an account of purposiveness that captures not only persistence but the organised transformation of living systems across time. APS addresses this by treating development not as a separate goal beyond viability, but as the temporally extended reorganisation of viability-oriented, constraint-closed organisation across scale.
 
 ### Historical Displacement of Purpose
 
