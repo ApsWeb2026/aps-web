@@ -33,8 +33,7 @@ references:
     authors: "Rama, T."
     year: 2026
     title: "Autonomy and Development: Distinguishing teleological development from teleological physiology"
-    source: "PhilSci Archive"
-    url: "https://philsci-archive.pitt.edu/27869/"
+    journal: "PhilSci Archive"
 ---
 
 ## The Problem Teleonomy Was Introduced to Solve
