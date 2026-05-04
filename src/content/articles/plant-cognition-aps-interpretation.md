@@ -24,12 +24,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - cognition-where-does-it-belong-in-biology
-  - meaning-information-and-representation-in-aps
-  - information-is-not-fundamental
-  - why-life-is-not-information-processing
-  - biological-causation-from-mechanism-to-organisational-constraint
-  - constraint-closure-how-life-sustains-its-own-limits
-
+  
 references:
   - id: spencer2025
     authors: "Spencer, R. D."
