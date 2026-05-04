@@ -8,7 +8,15 @@ canonicalLockDate: 2026-04-13
 revised: 2026-04-28
 cluster: conceptual-foundations
 abstract: >
-  This article situates the APS framework in relation to major contemporary approaches in biology and cognition. It shows how each framework captures important aspects of living systems wwhile clarifying why none, by itself, explains what distinguishes life as viability-oriented, constraint-closed organisation.
+  This article situates the APS framework in relation to major contemporary approaches in biology and cognition. It shows how each framework captures important aspects of living systems while clarifying why none, by itself, explains what distinguishes life as viability-oriented, constraint-closed organisation.
+references:
+  - id: pezzulo-levin-2026
+    authors: Pezzulo, G.; Levin, M.
+    year: 2026
+    title: Bootstrapping Life-Inspired Machine Intelligence
+    source: arXiv
+    url: https://arxiv.org/abs/2602.08079
+    note: Preprint
 ---
 
 ## Understanding Life Across Frameworks
@@ -71,6 +79,8 @@ The following articles clarify how APS relates to closely aligned or complementa
 - **[APS and Systems Theory — Similarities, Differences, and Limits](/articles/aps-and-systems-theory/)**  
 - **[APS and Autonomy Theory — From Constraint Closure to Viability-Oriented Organisation](/articles/aps-and-autonomy-theory/)**  
 - **[APS and the Extended Evolutionary Synthesis — Conditions and Extensions of Evolution](/articles/aps-and-the-extended-evolutionary-synthesis/)**  
+
+Recent work in life-inspired machine intelligence (Pezzulo & Levin, 2026) introduces a multiscale conception of agency emphasising temporally extended action (“cognitive light cones”), constraint exploitation, and cross-scale coordination. While developed in a different context, such approaches independently converge on key APS themes, reinforcing the view that biological organisation is structured by viability-oriented activity across time and scale.
 
 These articles show how APS incorporates existing insights while providing a more comprehensive explanatory framework.
 
