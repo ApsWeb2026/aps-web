@@ -8,6 +8,8 @@ canonicalLockDate: 2026-05-04
 date: 2026-05-04
 revised: 2026-05-04
 cluster: conceptual-foundations
+abstract: >
+  This article reviews the plant cognition debate and clarifies the APS position. It argues that plants should not be described as cognitive because they possess minds, consciousness, or representational architectures, but because they exhibit structured, viability-grounded evaluative modulation within living organisation. APS reframes plant cognition as a minimal, non-neural form of biological cognition grounded in agency, normativity, constraint closure, and cross-scale integration.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -21,43 +23,94 @@ relatedGlossaryTerms:
   - constraint-closure
 
 relatedArticles:
-  - biological-agency
-  - what-is-aps
-  - meaning-in-biology
-  - function-in-biology
-  - purpose-in-biology
-  - teleonomy-and-the-living-condition
-  - biological-causation
+  - cognition-where-does-it-belong-in-biology
+  - meaning-information-and-representation-in-aps
+  - information-is-not-fundamental
+  - why-life-is-not-information-processing
+  - biological-causation-from-mechanism-to-organisational-constraint
+  - constraint-closure-how-life-sustains-its-own-limits
 
 references:
   - id: spencer2025
-    citation: "Spencer, R. D. (2025). Biological agency as the context for plant cognition."
+    authors: "Spencer, R. D."
+    year: 2025
+    title: "Biological agency as the context for plant cognition"
+    source: "Zenodo"
+    url: "https://doi.org/10.5281/zenodo.16938193"
+
   - id: moreno2015
-    citation: "Moreno, A., & Mossio, M. (2015). Biological autonomy: A philosophical and theoretical enquiry. Springer."
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological autonomy: A philosophical and theoretical enquiry"
+    source: "Springer"
+
   - id: trewavas2003
-    citation: "Trewavas, A. (2003). Aspects of plant intelligence. Annals of Botany."
+    authors: "Trewavas, A."
+    year: 2003
+    title: "Aspects of plant intelligence"
+    source: "Annals of Botany"
+
   - id: baluska2009
-    citation: "Baluška, F., & Mancuso, S. (2009). Deep evolutionary origins of neurobiology. Communicative & Integrative Biology."
+    authors: "Baluška, F., & Mancuso, S."
+    year: 2009
+    title: "Deep evolutionary origins of neurobiology: Turning the essence of neural upside-down"
+    source: "Communicative & Integrative Biology"
+
   - id: gagliano2016
-    citation: "Gagliano, M. et al. (2016). Learning by association in plants. Scientific Reports."
+    authors: "Gagliano, M., Vyazovskiy, V. V., Borbély, A. A., Grimonprez, M., & Depczynski, M."
+    year: 2016
+    title: "Learning by association in plants"
+    source: "Scientific Reports"
+    url: "https://doi.org/10.1038/srep38427"
+
   - id: alpi2007
-    citation: "Alpi, A. et al. (2007). Plant neurobiology: No brain, no gain? Trends in Plant Science."
+    authors: "Alpi, A., Amrhein, N., Bertl, A., Blatt, M. R., Blumwald, E., Cervone, F., et al."
+    year: 2007
+    title: "Plant neurobiology: No brain, no gain?"
+    source: "Trends in Plant Science"
+    url: "https://doi.org/10.1016/j.tplants.2007.03.002"
+
   - id: taiz2019
-    citation: "Taiz, L. et al. (2019). Plants neither possess nor require consciousness. Trends in Plant Science."
+    authors: "Taiz, L., Alpi, A., Amrhein, N., Blatt, M., Blumwald, E., Cervone, F., et al."
+    year: 2019
+    title: "Plants neither possess nor require consciousness"
+    source: "Trends in Plant Science"
+    url: "https://doi.org/10.1016/j.tplants.2019.05.008"
+
   - id: segundo2025
-    citation: "Segundo-Ortín, M., & Calvo, P. (2025). Plant cognition — A methodological primer. Philosophical Compass."
+    authors: "Segundo-Ortín, M., & Calvo, P."
+    year: 2025
+    title: "Plant cognition — A methodological primer: Theories, methods, and challenges"
+    source: "Philosophical Compass"
+    url: "https://doi.org/10.1111/phc3.70068"
+
   - id: novoplansky2024
-    citation: "Novoplansky, A. (2024). Exploring the complex information processes underlying plant behaviour. Plant Signalling & Behaviour."
+    authors: "Novoplansky, A."
+    year: 2024
+    title: "Exploring the complex information processes underlying plant behaviour"
+    source: "Plant Signalling & Behaviour"
+
   - id: hansen2024
-    citation: "Hansen, M. (2024). A critical review of plant sentience. Biology & Philosophy."
+    authors: "Hansen, M. J."
+    year: 2024
+    title: "A critical review of plant sentience: Moving beyond traditional frameworks"
+    source: "Biology & Philosophy"
+
   - id: parise2024
-    citation: "Parise, A. (2024). Extended plant cognition: A critical consideration. Plant Ecology & Diversity."
+    authors: "Parise, A. G."
+    year: 2024
+    title: "Extended plant cognition: A critical consideration"
+    source: "Plant Ecology & Diversity"
+
   - id: rama2026
-    citation: "Rama, T. (2026). Autonomy and Development: Distinguishing teleological development from teleological physiology. PhilSci Archive."
+    authors: "Rama, T."
+    year: 2026
+    title: "Autonomy and Development: Distinguishing teleological development from teleological physiology"
+    source: "PhilSci Archive"
     url: "https://philsci-archive.pitt.edu/27869/"
 ---
 
-# Plant Cognition — A Critical Review and APS Interpretation
+## Plant Cognition — A Critical Review and APS Interpretation
 
 ## Framing Note (APS_WEB)
 
