@@ -26,82 +26,82 @@ relatedArticles:
   - cognition-where-does-it-belong-in-biology
   
 references:
-  - id: spencer2025
+  - id: "spencer2025"
     authors: "Spencer, R. D."
     year: 2025
     title: "Biological agency as the context for plant cognition"
     source: "Zenodo"
     url: "https://doi.org/10.5281/zenodo.16938193"
 
-  - id: moreno2015
+  - id: "moreno2015"
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological autonomy: A philosophical and theoretical enquiry"
-    source: "Springer"
+    publisher: "Springer"
 
-  - id: trewavas2003
+  - id: "trewavas2003"
     authors: "Trewavas, A."
     year: 2003
     title: "Aspects of plant intelligence"
-    source: "Annals of Botany"
+    journal: "Annals of Botany"
 
-  - id: baluska2009
+  - id: "baluska2009"
     authors: "Baluška, F., & Mancuso, S."
     year: 2009
     title: "Deep evolutionary origins of neurobiology: Turning the essence of neural upside-down"
-    source: "Communicative & Integrative Biology"
+    journal: "Communicative & Integrative Biology"
 
-  - id: gagliano2016
+  - id: "gagliano2016"
     authors: "Gagliano, M., Vyazovskiy, V. V., Borbély, A. A., Grimonprez, M., & Depczynski, M."
     year: 2016
     title: "Learning by association in plants"
-    source: "Scientific Reports"
-    url: "https://doi.org/10.1038/srep38427"
+    journal: "Scientific Reports"
+    doi: "10.1038/srep38427"
 
-  - id: alpi2007
+  - id: "alpi2007"
     authors: "Alpi, A., Amrhein, N., Bertl, A., Blatt, M. R., Blumwald, E., Cervone, F., et al."
     year: 2007
     title: "Plant neurobiology: No brain, no gain?"
-    source: "Trends in Plant Science"
-    url: "https://doi.org/10.1016/j.tplants.2007.03.002"
+    journal: "Trends in Plant Science"
+    doi: "10.1016/j.tplants.2007.03.002"
 
-  - id: taiz2019
+  - id: "taiz2019"
     authors: "Taiz, L., Alpi, A., Amrhein, N., Blatt, M., Blumwald, E., Cervone, F., et al."
     year: 2019
     title: "Plants neither possess nor require consciousness"
-    source: "Trends in Plant Science"
-    url: "https://doi.org/10.1016/j.tplants.2019.05.008"
+    journal: "Trends in Plant Science"
+    doi: "10.1016/j.tplants.2019.05.008"
 
-  - id: segundo2025
+  - id: "segundo2025"
     authors: "Segundo-Ortín, M., & Calvo, P."
     year: 2025
     title: "Plant cognition — A methodological primer: Theories, methods, and challenges"
-    source: "Philosophical Compass"
-    url: "https://doi.org/10.1111/phc3.70068"
+    journal: "Philosophical Compass"
+    doi: "10.1111/phc3.70068"
 
-  - id: novoplansky2024
+  - id: "novoplansky2024"
     authors: "Novoplansky, A."
     year: 2024
     title: "Exploring the complex information processes underlying plant behaviour"
-    source: "Plant Signalling & Behaviour"
+    journal: "Plant Signalling & Behaviour"
 
-  - id: hansen2024
+  - id: "hansen2024"
     authors: "Hansen, M. J."
     year: 2024
     title: "A critical review of plant sentience: Moving beyond traditional frameworks"
-    source: "Biology & Philosophy"
+    journal: "Biology & Philosophy"
 
-  - id: parise2024
+  - id: "parise2024"
     authors: "Parise, A. G."
     year: 2024
     title: "Extended plant cognition: A critical consideration"
-    source: "Plant Ecology & Diversity"
+    journal: "Plant Ecology & Diversity"
 
-  - id: rama2026
+  - id: "rama2026"
     authors: "Rama, T."
     year: 2026
     title: "Autonomy and Development: Distinguishing teleological development from teleological physiology"
-    source: "PhilSci Archive"
+    source: "PhilSci Archive (preprint)"
     url: "https://philsci-archive.pitt.edu/27869/"
 ---
 
