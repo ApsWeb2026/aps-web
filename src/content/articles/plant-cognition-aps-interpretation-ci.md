@@ -30,8 +30,7 @@ references:
     authors: "Spencer, R. D."
     year: 2025
     title: "Biological agency as the context for plant cognition"
-    source: "Zenodo"
-    url: "https://doi.org/10.5281/zenodo.16938193"
+    doi: "https://doi.org/10.5281/zenodo.16938193"
 
   - id: "moreno2015"
     authors: "Moreno, A., & Mossio, M."
