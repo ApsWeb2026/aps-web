@@ -26,7 +26,6 @@ references:
     authors: "Aristotle"
     year: -350
     title: "Physics; Parts of Animals"
-    source: "Classical works"
 
   - id: mayr1974
     authors: "Mayr, E."
@@ -40,7 +39,7 @@ references:
     authors: "Monod, J."
     year: 1971
     title: "Chance and Necessity"
-    source: "Alfred A. Knopf"
+    publisher: "Alfred A. Knopf"
 
   - id: wright1973
     authors: "Wright, L."
@@ -55,13 +54,13 @@ references:
     authors: "Millikan, R. G."
     year: 1984
     title: "Language, Thought, and Other Biological Categories"
-    source: "MIT Press"
+    publisher: "MIT Press"
 
   - id: moreno2015
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+    publisher: "Springer"
 ---
 
 ## The problem: purpose in a non-teleological science
