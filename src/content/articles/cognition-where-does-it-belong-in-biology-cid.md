@@ -55,6 +55,10 @@ This creates a separation between:
 
 APS rejects this separation.
 
+This difficulty reflects a more general issue in how cognitive concepts are extended across biological systems.
+
+[[box:biological-and-psychological-interpretation]]
+
 ## Cognition as a Property of Living Organisation
 
 APS begins from a different starting point: living systems are **[viability](/glossary/viability/)-oriented, constraint-closed organisations** that must continuously sustain the conditions of their own persistence.
