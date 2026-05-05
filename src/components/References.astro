@@ -2,23 +2,27 @@
 interface Reference {
   id: string;
   authors: string;
-  year: number;
+  year: number | string;
   title: string;
   journal?: string;
+  source?: string;
   publisher?: string;
   volume?: string;
+  issue?: string;
   pages?: string;
   doi?: string;
+  url?: string;
+  note?: string;
 }
 
 interface Props {
-  references: Reference[];
+  references?: Reference[];
 }
 
-const { references } = Astro.props;
+const { references = [] } = Astro.props;
 
-const sortedReferences = [...(references ?? [])].sort((a, b) =>
-  a.authors.localeCompare(b.authors) || a.year - b.year
+const sortedReferences = [...references].sort((a, b) =>
+  a.authors.localeCompare(b.authors) || String(a.year).localeCompare(String(b.year))
 );
 ---
 
@@ -27,37 +31,62 @@ const sortedReferences = [...(references ?? [])].sort((a, b) =>
     <section class="references">
       <h2>References</h2>
       <ol class="ref-list">
-        {sortedReferences.map((ref) => (
-          <li class="ref-entry" id={`ref-${ref.id}`}>
-            <span class="ref-authors">{ref.authors}</span> ({ref.year}).{' '}
-            <span class="ref-title">{ref.title}</span>.
-            
-            {ref.journal && (
-              <>
-                {' '}
-                <em>{ref.journal}</em>
-              </>
-            )}
+        {sortedReferences.map((ref) => {
+          const isJournal = Boolean(ref.journal);
+          const source = ref.source ?? ref.publisher;
 
-            {ref.volume && <>, {ref.volume}</>}
-            {ref.pages && <>, {ref.pages}</>}
-            {ref.publisher && <> {ref.publisher}</>}.
-            
-            {ref.doi && (
-              <>
-                {' '}
-                <a
-                  class="ref-doi"
-                  href={`https://doi.org/${ref.doi}`}
-                  target="_blank"
-                  rel="noopener"
-                >
-                  https://doi.org/{ref.doi}
-                </a>
-              </>
-            )}
-          </li>
-        ))}
+          return (
+            <li class="ref-entry" id={`ref-${ref.id}`}>
+              <span class="ref-authors">{ref.authors}</span> ({ref.year}).{' '}
+
+              {isJournal ? (
+                <>
+                  <span class="ref-title">{ref.title}</span>.{' '}
+                  <em>{ref.journal}</em>
+                  {ref.volume && <>, {ref.volume}</>}
+                  {ref.issue && <>({ref.issue})</>}
+                  {ref.pages && <>, {ref.pages}</>}
+                  .
+                </>
+              ) : (
+                <>
+                  <em class="ref-title">{ref.title}</em>.
+                  {source && <> {source}.</>}
+                </>
+              )}
+
+              {ref.note && <> {ref.note}.</>}
+
+              {ref.doi && (
+                <>
+                  {' '}
+                  <a
+                    class="ref-doi"
+                    href={`https://doi.org/${ref.doi}`}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    https://doi.org/{ref.doi}
+                  </a>
+                </>
+              )}
+
+              {!ref.doi && ref.url && (
+                <>
+                  {' '}
+                  <a
+                    class="ref-url"
+                    href={ref.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    {ref.url}
+                  </a>
+                </>
+              )}
+            </li>
+          );
+        })}
       </ol>
     </section>
   )
