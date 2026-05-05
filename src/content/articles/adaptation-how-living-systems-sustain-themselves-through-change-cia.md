@@ -26,7 +26,7 @@ relatedGlossaryTerms:
   - normativity
   - evaluation
 relatedArticles:
-  - evolution-the-transformation-of-persistence-across-generations
+  - evolution
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
 references:
