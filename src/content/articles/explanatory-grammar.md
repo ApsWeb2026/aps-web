@@ -3,24 +3,37 @@ date: 2026-04-13
 title: Explanatory Grammar
 slug: explanatory-grammar
 abstract: >
-  Biological explanation depends on the conceptual frameworks through which phenomena are interpreted. This article introduces explanatory grammar as the structure that determines what counts as real, what counts as a cause, and how biological explanations are constructed. It compares major explanatory grammars in biology and presents the APS framework as a unifying grammar grounded in viability-oriented, constraint-closed organisation across agency, process, and scale.
+  Biological explanation depends on the conceptual frameworks through which phenomena are interpreted. This article introduces explanatory grammar as the structure that determines what counts as real, what counts as a cause, and how biological phenomena are made intelligible. It compares major explanatory grammars in biology and presents the APS framework as a unifying grammar grounded in viability-oriented, constraint-closed organisation across agency, process, and scale.
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-04-13
+revised: 2026-05-05
 cluster: conceptual-foundations
 keyPoints:
-  - Explanatory grammar determines what counts as real, causal, and explanatorily relevant in science.
-  - Different biological traditions employ different explanatory grammars, highlighting genes, cells, organisms, or networks.
-  - Biological systems require a grammar capable of representing distributed, multiscale organisation.
-  - APS provides such a grammar, grounded in viability-oriented, constraint-closed organisation across agency, process, and scale.
-relatedGlossaryTerms: []
-references: []
+  - Explanatory grammar defines what counts as real, causal, and explanatorily relevant in biology.
+  - It integrates ontology, causation, explanatory structure, and explanatory direction.
+  - Different biological traditions employ distinct explanatory grammars, often privileging particular components or scales.
+  - Many apparent disagreements in biology arise from differences in explanatory grammar rather than empirical conflict.
+  - APS provides a unified explanatory grammar grounded in viability-oriented, constraint-closed organisation across agency, process, and scale.
+relatedGlossaryTerms:
+  - explanatory-grammar
+  - explanatory-direction
+  - reductionism
+  - biological-organisation
+  - biological-agency
+  - constraint-closure
+  - scale
+  - process
+relatedArticles:
+  - analysis-synthesis-and-the-direction-of-explanation
+  - biological-causation-from-mechanism-to-organised-persistence
 ---
 
 ## Introduction
 
-Scientific theories do not simply accumulate observations; they organise them through conceptual frameworks that determine what counts as an entity, a cause, and an explanation. These frameworks function as **explanatory grammars**: structured sets of commitments that define how phenomena become intelligible within a domain.
+Scientific theories do not simply accumulate observations; they organise them through conceptual frameworks that determine what counts as an entity, what counts as a cause, what is taken to have explanatory priority, and how phenomena become intelligible within a domain. These frameworks function as **explanatory grammars**: structured sets of conditions that define how phenomena become intelligible within a domain.
+
+Taken together, explanatory grammars integrate four dimensions of scientific understanding: ontology (what exists), causation (what counts as a cause), explanatory structure (how phenomena are made intelligible), and explanatory direction (how explanation is oriented between components and organised systems).
 
 Just as linguistic grammar structures meaningful sentences, explanatory grammar structures meaningful scientific accounts. It determines which entities appear in explanation, which relations count as causal, and what constitutes an adequate explanation.
 
@@ -42,7 +55,7 @@ Such grammars shape what is measured, what is treated as causal, and what counts
 
 Living systems are organisationally complex, self-maintaining, historically evolving, and coordinated across multiple interacting scales. Because of this, biological explanation has developed through multiple partially overlapping grammars, each emphasising different aspects of life.
 
-These grammars capture genuine features of living systems. However, they also tend to privilege particular components or processes as foundational, generating recurring debates about the “fundamental unit” of biology.
+These grammars capture genuine features of living systems. However, they also tend to privilege particular components or processes as explanatorily primary, generating recurring debates about the “fundamental unit” of biology.
 
 ## Major Explanatory Grammars in Biology
 
@@ -61,6 +74,10 @@ Each grammar captures a real aspect of biological organisation. Each also risks 
 Despite their differences, these approaches share a common assumption: that biological explanation must identify a privileged scale of causation. At different times, genes, cells, or organisms have been treated as foundational explanatory units.
 
 This assumption reflects patterns familiar from engineered systems, where causal control is hierarchically organised. Living systems, however, do not conform to such structures. Their organisation is distributed, reciprocal, and dynamically maintained.
+
+This tendency reflects not only a focus on scale but a deeper orientation in explanatory practice. Many biological explanations are implicitly analytic, privileging explanation in terms of components over explanation in terms of organised systems. What appears as a problem of identifying the correct level of causation is therefore more precisely understood as a bias in explanatory direction (see *Analysis, Synthesis, and the Direction of Explanation*).
+
+Reductionism can be understood as a partial explanatory grammar that privileges analytic direction and component-based explanatory priority.
 
 ## Distributed and Reciprocal Causation
 
@@ -86,7 +103,7 @@ This triad is not introduced as a classificatory scheme but identified as the mi
 
 APS therefore replaces the search for a privileged unit with an explanatory grammar grounded in distributed organisation.
 
-It also reframes causation. Rather than treating causation solely as the production of events, APS understands biological causation as the viability-oriented modulation of constraints within organised systems. Mechanistic interactions remain essential, but they are situated within organisation that sustains the conditions under which those interactions remain viable. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+It also reframes causation. Rather than treating causation solely as the production of events, APS understands biological causation as the viability-oriented modulation of constraints within organised systems. Mechanistic interactions remain essential, but they are situated within organisation that sustains the conditions under which those interactions remain viable (see *Biological Causation — From Mechanism to Organised Persistence*).
 
 ## Conceptual Symmetry with Evolution
 
@@ -108,7 +125,7 @@ Explanation is thereby grounded not in isolated components or scales, but in via
 
 Scientific explanation necessarily selects conceptual categories to render complex systems intelligible. These categories can become reified, appearing as intrinsic features of nature rather than elements of an explanatory grammar.
 
-In biology, this has led to persistent debates about whether genes, cells, or organisms are fundamental. APS shows that these debates arise from competing grammars rather than from the structure of living systems themselves.
+In biology, this has led to persistent debates about whether genes, cells, or organisms are fundamental. APS shows that these debates arise from differences in explanatory grammar rather than from the structure of living systems themselves.
 
 Living systems are not defined by a privileged component but by viability-oriented organisation maintained through distributed, interacting processes. Explanation must therefore track this organisation rather than reduce it to a single scale.
 
@@ -121,4 +138,3 @@ To see how this explanatory grammar is developed within the APS framework:
 - Read **[What Is APS?](/orientation/what-is-aps/)** for a concise introduction  
 - See **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)** for how the framework is organised  
 - Explore the **[Glossary](/glossary/)** for precise definitions of core concepts  
-
