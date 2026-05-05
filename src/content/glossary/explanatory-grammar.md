@@ -37,6 +37,8 @@ This includes:
 - what counts as a cause (e.g., mechanism, selection, constraint)  
 - what is taken to have explanatory priority  
 
+Taken together, these dimensions define explanatory grammar as a unified framework that integrates ontology (what exists), causation (what counts as a cause), explanatory structure (how intelligibility is organised), and explanatory direction (how explanation is oriented).
+
 Explanatory grammar also structures **explanatory direction**: the orientation of explanation either toward components (analysis) or toward the organised systems within which those components function (synthesis) (see *Analysis, Synthesis, and the Direction of Explanation*).
 
 In many biological traditions, analytic direction is implicitly privileged, and explanatory priority is assigned to lower-level components. This orientation underlies reductionist interpretations, in which biological phenomena are treated as fully explainable in terms of their constituent parts.
