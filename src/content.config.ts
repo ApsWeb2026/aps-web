@@ -32,13 +32,21 @@ const clusterEnum = z.enum([
 const referenceSchema = z.object({
   id: z.string(),
   authors: z.string(),
-  year: z.number(),
+  year: z.union([z.number(), z.string()]),
   title: z.string(),
+
+  // journal article fields
   journal: z.string().optional(),
-  publisher: z.string().optional(),
   volume: z.string().optional(),
+  issue: z.string().optional(),
   pages: z.string().optional(),
   doi: z.string().optional(),
+
+  // book / preprint / general source fields
+  source: z.string().optional(),
+  publisher: z.string().optional(),
+  url: z.string().optional(),
+  note: z.string().optional(),
 });
 
 const glossary = defineCollection({
