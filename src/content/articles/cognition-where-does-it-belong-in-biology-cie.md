@@ -83,6 +83,10 @@ From this perspective, cognition is not an additional feature layered onto life,
 
 Cognition arises only when viability-oriented evaluation becomes sufficiently integrated and temporally extended such that present activity is structured in relation to conditions beyond the immediate present.
 
+Cognition can therefore be understood as the integration of evaluative activity across the system, coordinating multiple agential processes into a unified, temporally extended organisation.
+
+This integration does not require any particular anatomical structure or representational architecture. Different organisms may realise similar cognitive capacities through very different material organisations while participating in related functional lineages. What persists across such lineages is not structural identity but the continuity of viability-oriented organisational roles.
+
 It therefore does not emerge wherever living systems sustain themselves, but only where evaluative activity exhibits counterfactual depth and system-wide coordination. Counterfactual depth refers to the temporal extent over which evaluative activity is structured.
 
 ## From Viability to Evaluation
@@ -135,6 +139,8 @@ Systems differ in:
 
 More complex organisms exhibit more elaborate forms of cognition, but these build on the same underlying organisational pattern rather than introducing a fundamentally different kind of process.
 
+This also allows cognition to be compared across structurally diverse organisms. Different systems may belong to related functional lineages despite major differences in anatomy or mechanism, provided they sustain comparable forms of temporally extended evaluative organisation.
+
 Cognition therefore admits of degrees, but only within systems that satisfy the conditions for its presence. It spans a continuum:
 
 - from minimally integrated, shallow forms of temporally extended evaluation  
@@ -162,7 +168,7 @@ Repositioning cognition in this way has several consequences.
 
 First, it situates cognition within biology as a whole, rather than isolating it within neuroscience or psychology.
 
-Second, it provides a principled framework for comparing systems across scales without relying on behavioural or representational criteria.
+Second, it provides a principled framework for comparing systems across scales without relying on behavioural or representational criteria. This comparison is grounded in functional lineage rather than structural similarity alone, allowing cognitive continuity to be understood organisationally across diverse forms of life.
 
 Third, it aligns cognition with the same explanatory and diagnostic principles that apply elsewhere in APS:
 
