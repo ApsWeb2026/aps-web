@@ -1,5 +1,5 @@
 ---
-title: Temporal Organisation in APS: Persistence, Adaptation, and Evolution
+title: Temporal Organisation in APS - Persistence, Adaptation, and Evolution
 slug: temporal-organisation-persistence-adaptation-evolution
 type: box
 status: canonical
