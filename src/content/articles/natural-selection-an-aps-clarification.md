@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-05
 revised: 2026-05-05
-cluster: evolutionary-processes
+cluster: conceptual-foundations
 abstract: >
   This article clarifies natural selection within the Agency–Process–Scale (APS) framework. It shows that natural selection is not a fundamental causal force but the statistical outcome of differences in the persistence of viability-oriented organisation. Selection does not generate organisation but filters among already viable variants. Understanding this distinction repositions natural selection within a broader account of evolution as the transformation of persistence-sustaining systems across generations.
 relatedGlossaryTerms:
@@ -21,11 +21,7 @@ relatedGlossaryTerms:
   - biological-agency
   - constraint-closure
 relatedArticles:
-  - evolution-the-transformation-of-persistence-across-generations
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - variation
-  - inheritance
-  - why-life-is-not-defined-by-dna
   - why-life-is-not-information-processing
 references:
   - id: darwin1859
