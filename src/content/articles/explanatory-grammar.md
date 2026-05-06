@@ -7,7 +7,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-05-05
+revised: 2026-05-06
 cluster: conceptual-foundations
 keyPoints:
   - Explanatory grammar defines what counts as real, causal, and explanatorily relevant in biology.
@@ -27,6 +27,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - analysis-synthesis-and-the-direction-of-explanation
   - biological-causation-from-mechanism-to-organised-persistence
+  - explanatory-geometry-of-biology
 ---
 
 ## Introduction
@@ -77,7 +78,11 @@ This assumption reflects patterns familiar from engineered systems, where causal
 
 This tendency reflects not only a focus on scale but a deeper orientation in explanatory practice. Many biological explanations are implicitly analytic, privileging explanation in terms of components over explanation in terms of organised systems. What appears as a problem of identifying the correct level of causation is therefore more precisely understood as a bias in explanatory direction (see *Analysis, Synthesis, and the Direction of Explanation*).
 
-Reductionism can be understood as a partial explanatory grammar that privileges analytic direction and component-based explanatory priority.
+A related tendency appears in theories of cognition and behaviour. Biological organisation is often interpreted through concepts derived from human cognition — such as representation, computation, inference, or decision-making — rather than understanding human cognition itself as a specialised form of biological organisation. This reflects a common explanatory inversion in which concepts abstracted from highly derived forms of biological organisation are projected back onto life in general.
+
+APS reverses this explanatory orientation. Rather than beginning with human cognition as the explanatory model, it understands cognition as emerging from viability-oriented, constraint-closed organisation. Human cognition is therefore treated not as explanatorily primary, but as a specialised expression of more fundamental biological organisation.
+
+Reductionism can therefore be understood not simply as a commitment to smaller scales of explanation, but as a partial explanatory grammar that privileges analytic direction and component-based explanatory priority.
 
 ## Distributed and Reciprocal Causation
 
@@ -126,6 +131,8 @@ Explanation is thereby grounded not in isolated components or scales, but in via
 Scientific explanation necessarily selects conceptual categories to render complex systems intelligible. These categories can become reified, appearing as intrinsic features of nature rather than elements of an explanatory grammar.
 
 In biology, this has led to persistent debates about whether genes, cells, or organisms are fundamental. APS shows that these debates arise from differences in explanatory grammar rather than from the structure of living systems themselves.
+
+More broadly, explanatory practice often imports categories derived from highly specialised forms of organisation and treats them as foundational explanatory models. APS instead proceeds in the opposite direction: from the organisational conditions of life toward the emergence of increasingly specialised forms of cognition, regulation, and behaviour.
 
 Living systems are not defined by a privileged component but by viability-oriented organisation maintained through distributed, interacting processes. Explanation must therefore track this organisation rather than reduce it to a single scale.
 
