@@ -3,13 +3,11 @@ import { glob } from 'astro/loaders';
 
 const statusEnum = z.enum(['draft', 'evolving', 'canonical']);
 
-// Decap CMS datetime widget writes dates without YAML quotes (e.g. 2026-02-01).
-// YAML parses these as Date objects, but our schema expects strings.
-// This helper normalises both forms to a YYYY-MM-DD string.
 const dateString = z.preprocess(
   (val) => (val instanceof Date ? val.toISOString().split('T')[0] : val),
   z.string(),
 );
+
 const optionalDateString = z.preprocess(
   (val) => {
     if (val instanceof Date) return val.toISOString().split('T')[0];
@@ -35,14 +33,14 @@ const referenceSchema = z.object({
   year: z.union([z.number(), z.string()]),
   title: z.string(),
 
-  // journal article fields
+  // Journal article fields
   journal: z.string().optional(),
   volume: z.string().optional(),
   issue: z.string().optional(),
   pages: z.string().optional(),
   doi: z.string().optional(),
 
-  // book / preprint / general source fields
+  // Book / preprint / general source fields
   source: z.string().optional(),
   publisher: z.string().optional(),
   url: z.string().optional(),
@@ -59,6 +57,7 @@ const glossary = defineCollection({
     status: statusEnum,
     canonical: z.boolean().default(false),
     canonicalLockDate: optionalDateString,
+    date: dateString.optional(),
     revised: dateString,
     cluster: clusterEnum,
     seeAlso: z.array(z.string()).default([]),
@@ -75,6 +74,7 @@ const articles = defineCollection({
     status: statusEnum,
     canonical: z.boolean().default(false),
     canonicalLockDate: optionalDateString,
+    date: dateString.optional(),
     revised: dateString,
     cluster: clusterEnum,
     keyPoints: z.array(z.string()).default([]),
@@ -92,6 +92,7 @@ const streams = defineCollection({
     slug: z.string(),
     overview: z.string(),
     status: statusEnum,
+    date: dateString.optional(),
     revised: dateString,
     cluster: clusterEnum,
     associatedGlossaryTerms: z.array(z.string()).default([]),
@@ -106,6 +107,7 @@ const orientation = defineCollection({
     status: statusEnum,
     canonical: z.boolean().default(false),
     canonicalLockDate: optionalDateString,
+    date: dateString.optional(),
     revised: dateString,
     cluster: clusterEnum.optional(),
     relatedGlossaryTerms: z.array(z.string()).default([]),
@@ -122,6 +124,7 @@ const boxes = defineCollection({
     status: statusEnum,
     canonical: z.boolean().default(false),
     canonicalLockDate: optionalDateString,
+    date: dateString.optional(),
     revised: dateString,
     seeAlso: z.array(z.string()).default([]),
     associatedPages: z.array(z.string()).default([]),
@@ -138,6 +141,7 @@ const diagrams = defineCollection({
     caption: z.string(),
     description: z.string(),
     status: statusEnum,
+    date: dateString.optional(),
     revised: dateString,
     figureNumber: z.string().optional(),
     sequence: z.number().optional(),
