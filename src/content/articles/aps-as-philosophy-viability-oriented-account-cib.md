@@ -47,7 +47,6 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
   - analysis-synthesis-and-the-direction-of-explanation
-  - meaning-in-biology
   - adaptation-how-living-systems-sustain-themselves-through-change
 
 references:
@@ -677,8 +676,6 @@ In doing so, APS offers not merely a theory of normativity, but a broader reconf
 APS is unusual among philosophical frameworks in its explicit commitment to empirical tractability. It does not present itself merely as an interpretive or speculative account of life, but as a framework intended to guide, organise, and remain constrained by scientific investigation itself.
 
 This commitment is reflected in the development of diagnostic approaches, biosignature criteria, and organisational analyses designed to operationalise concepts such as viability, persistence, constraint closure, agency, and scale-coupling within real biological systems.
-
-[[box:aps-box-empirical-tractability]]
 
 In this respect APS occupies a distinctive position within contemporary philosophy of biology.
 
