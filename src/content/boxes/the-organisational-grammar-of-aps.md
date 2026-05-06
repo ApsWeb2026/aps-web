@@ -26,15 +26,19 @@ associatedPages:
 
 APS does not explain living systems through a single privileged principle or explanatory level. Instead, it organises biological explanation through a coordinated set of explanatory concepts that describe different aspects of viability-oriented organisation.
 
-| Explanatory principle | Role within APS |
-|---|---|
-| **Viability** | Specifies the conditions under which organised persistence can succeed or fail |
-| **Persistence** | Describes the ongoing regeneration of organised activity across time |
-| **Constraint closure** | Explains the reciprocal organisation through which living systems sustain themselves |
-| **Coupling** | Describes the reciprocal relations through which systems and processes dynamically influence one another |
-| **Scale-coupling** | Explains how organisation is integrated across spatial and temporal scales |
-| **Biological agency** | Describes the active regulation and modulation of viability-oriented organisation |
-| **Resolution** | Clarifies the explanatory granularity at which organisation is described or analysed |
+- **Viability** specifies the conditions under which organised persistence can succeed or fail.
+
+- **Persistence** describes the ongoing regeneration of organised activity across time.
+
+- **Constraint closure** explains the reciprocal organisation through which living systems sustain themselves.
+
+- **Coupling** describes the reciprocal relations through which systems and processes dynamically influence one another.
+
+- **Scale-coupling** explains how organisation is integrated across spatial and temporal scales.
+
+- **Biological agency** describes the active regulation and modulation of viability-oriented organisation.
+
+- **Resolution** clarifies the explanatory granularity at which organisation is described or analysed.
 
 These concepts do not function independently. Together they form an organisational grammar for biological explanation.
 
