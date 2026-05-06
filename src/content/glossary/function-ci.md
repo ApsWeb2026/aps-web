@@ -2,52 +2,222 @@
 date: 2026-04-08
 title: Function
 slug: function
-definition: "Function is the normatively structured contribution a structure or process makes to the persistence of a viability-oriented, constraint-closed system."
-inBrief: "Function is the normatively structured contribution of a structure or process to sustaining viability."
+definition: "In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system."
+inBrief: "Function is the viability-relative contribution of structures or processes to organised persistence."
 status: canonical
-cluster: foundations
-revised: 2026-04-08
+canonical: true
+canonicalLockDate: 2026-04-08
+revised: 2026-05-06
+cluster: conceptual-foundations
 seeAlso:
-  - purpose
+  - viability
+  - viability-orientation
   - normativity
+  - purpose
   - biological-organisation
+  - biological-agency
   - constraint-closure
   - persistence
   - adaptation
+  - semiosis
+relatedArticles:
+  - explanatory-geometry-of-biology
+  - design-in-nature-an-aps-clarification
+references:
+  - id: wright1973
+    authors: "Wright, L."
+    year: 1973
+    title: "Functions"
+    journal: "The Philosophical Review"
+    volume: "82"
+    pages: "139–168"
+    doi: "10.2307/2183766"
+
+  - id: millikan1984
+    authors: "Millikan, R. G."
+    year: 1984
+    title: "Language, Thought, and Other Biological Categories"
+    source: "MIT Press"
+
+  - id: kummel1970
+    authors: "Cummins, R."
+    year: 1975
+    title: "Functional Analysis"
+    journal: "Journal of Philosophy"
+    volume: "72"
+    pages: "741–765"
+
+  - id: jonas1966
+    authors: "Jonas, H."
+    year: 1966
+    title: "The Phenomenon of Life"
+    source: "Harper & Row"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
 ---
 
-## Conventional framing
-Function is often explained in terms of selected effects (what a trait was selected for) or causal roles (what a component does within a system). These accounts either ground function in evolutionary history or treat it as a value-neutral contribution, leaving unclear how function can support distinctions such as success, failure, or malfunction in present biological systems.
+## Conventional Framing
 
-## APS reframing
-In APS, function refers to the contribution a structure or process makes to maintaining the organisation of a system. A component is functional insofar as it contributes to sustaining or restoring the conditions under which the system can persist.
+Biological function is commonly explained in two principal ways.
 
-Function is grounded in biological normativity. Because systems are organised relative to conditions that support or undermine their continued existence, the contributions of their components are not neutral but evaluated in relation to these conditions. This evaluation reflects the differential modulation of activity relative to viability, through which functional contributions are continuously enacted.
+Selected-effects theories define function historically in terms of what a trait was selected for during evolution.
 
-The functional role of a component is therefore not an intrinsic property of the component, but defined by its role within a normatively structured organisation. What counts as a function depends on the viability conditions of the system it serves.
+Causal-role theories define function in terms of the contribution a component makes within a system.
 
-Function is a local concept: it specifies how particular structures or processes contribute within an already organised system. It does not describe the organisation of the system as a whole, but the roles of its parts within that organisation.
+Both approaches capture important aspects of biological organisation, but each leaves important questions unresolved.
 
-Evolutionary history explains how such roles emerge and stabilise, but functional status is determined in the present by ongoing contribution to maintaining organisation.
+Selected-effects theories explain why functions emerged historically, but often struggle to explain present-tense malfunction and ongoing organisational regulation.
 
-Function concerns the contribution of components within an organised system, while purpose refers to the organisation of activity relative to viability at the scale of the system as a whole.
+Causal-role theories explain present contributions, but may lack a clear basis for distinguishing:
+- functional from non-functional activity
+- successful from unsuccessful contribution
+- or organisation from accidental effect
+
+APS reframes function through viability-oriented organisation.
+
+## The APS Reframing
+
+In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system.
+
+Functions are therefore not intrinsic properties of isolated components.
+
+They are organisational relations defined relative to the maintenance of viable persistence.
+
+A process counts as functional insofar as it contributes to sustaining, restoring, or regulating the organisation through which the system persists.
+
+## Function and Viability
+
+Function is grounded in viability.
+
+Living systems exist under conditions where organised persistence can succeed or fail. Functional contributions therefore matter relative to viability constraints.
+
+Some processes support organised persistence, while others undermine or destabilise it.
+
+Function is therefore intrinsically normative rather than value-neutral.
+
+A functional contribution is one that helps sustain viable organisation under relevant conditions.
+
+## Function and Normativity
+
+Normativity grounds functional evaluation.
+
+Because biological organisation is viability-oriented, the activity of components can be evaluated relative to their contribution to persistence.
+
+Function therefore explains why biological systems exhibit:
+- success and failure
+- regulation and dysfunction
+- repair and compensation
+- adaptation and breakdown
+
+without requiring externally imposed standards or conscious intention.
+
+Malfunction becomes intelligible because living systems persist under normative viability constraints.
+
+## Function and Biological Organisation
+
+Functions exist only within organised systems.
+
+A structure or process does not possess a function independently of the organisation within which it operates.
+
+The same process may therefore:
+- contribute functionally in one organisational context
+- but not in another
+
+Function is thus relational rather than intrinsic.
+
+What counts as functional depends upon the viability-oriented organisation the process contributes to sustaining.
+
+## Function and Constraint Closure
+
+Function is inseparable from constraint-closed organisation.
+
+Living systems persist through networks of mutually sustaining constraints distributed across multiple interacting processes.
+
+Functional contributions help maintain:
+- organisational coherence
+- metabolic regulation
+- physiological integration
+- behavioural coordination
+- and environmental coupling
+
+Function therefore describes how local processes contribute to sustaining the broader organisation of viable persistence.
+
+## Function and Agency
+
+Biological agency continuously modulates functional organisation.
+
+Living systems regulate, compensate, repair, reorganise, and adapt their activity relative to viability constraints.
+
+Functional contributions are therefore not merely static component roles.
+
+They are dynamically enacted within ongoing viability-oriented regulation.
+
+Function is consequently processual rather than purely structural.
+
+## Function and Adaptation
+
+Adaptation reorganises functional relations under changing conditions.
+
+Living systems continuously modify functional organisation in response to perturbation and environmental variation.
+
+Functions may therefore:
+- shift
+- reorganise
+- compensate
+- or become redistributed
+
+while preserving viable persistence.
+
+Function is thus historically and developmentally dynamic rather than fixed once and for all.
+
+## Function and Evolution
+
+Evolution explains the historical emergence and stabilisation of functional organisation.
+
+Selected effects help explain why certain functional relations became evolutionarily established across generations.
+
+However, APS distinguishes:
+- the historical emergence of functions
+from
+- their present-tense organisational role
+
+Functional status is determined in the present by ongoing contribution to viable persistence.
+
+Evolutionary history explains how such relations arose and stabilised, but not what makes them functional now.
 
 ## Function and Purpose
 
 Function and purpose are closely related but conceptually distinct.
 
-Function concerns the role of a component within an organised system. It specifies how a particular structure or process contributes to maintaining the system’s organisation under given conditions. Functional attributions are therefore local and component-relative.
+Function concerns the contribution of particular structures or processes within an organised system.
 
-Purpose, by contrast, concerns the organisation of activity at the level of the system as a whole. It refers to the way in which the system’s activity is structured in relation to conditions of viability.
+Purpose concerns the organisation of activity at the level of the system as a whole relative to viability conditions.
 
-The distinction can be stated succinctly:
+The distinction may be expressed simply:
 
-Function: how parts contribute to maintaining organisation
-Purpose: how the system’s activity is organised relative to viability
+- **Function:** how parts contribute to organised persistence
+- **Purpose:** how the system’s activity is organised relative to viability
 
-Functions are defined within an already established organisation; purposes characterise the organisation itself.
+Functions therefore operate locally within an already organised system, while purpose characterises the viability-oriented organisation of the system itself.
 
-Because both are grounded in biological normativity, they are easily conflated. However, they operate at different explanatory roles: function explains the contribution of components, while purpose explains the orientation of the system’s activity as a whole.
+## Summary
 
-## Key Point
-Function specifies how particular structures or processes contribute to maintaining biological organisation.
+In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system.
+
+Function is:
+- organisational rather than intrinsic
+- normative rather than value-neutral
+- processual rather than static
+- and viability-relative rather than externally assigned
+
+Function therefore becomes intelligible through the organisation of living systems themselves rather than through externally imposed purpose or purely historical explanation alone.
