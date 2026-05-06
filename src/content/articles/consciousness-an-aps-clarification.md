@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-05-07
-cluster: cognition-and-mind
+cluster: cognition-mind
 abstract: >
   This article clarifies the place of consciousness within the Agency–Process–Scale (APS) framework. APS argues that consciousness is not required to explain agency, meaning, normativity, or biological function, all of which arise from viability-oriented organisation. Consciousness is instead understood as a later evolutionary development emerging within certain forms of cognition and biological integration.
 keyPoints:
@@ -16,7 +16,6 @@ keyPoints:
   - Cognition can exist without consciousness, and agency can exist without cognition.
   - APS does not solve the hard problem of consciousness but clarifies its proper explanatory place.
 relatedGlossaryTerms:
-  - consciousness
   - biological-agency
   - cognition
   - normativity
@@ -26,10 +25,6 @@ relatedGlossaryTerms:
   - viability
   - process
 relatedArticles:
-  - cognition
-  - semiosis
-  - meaning-in-biology
-  - biological-agency
   - biological-agency-without-intentions
   - what-is-life-a-biological-question-revisited
   - why-life-is-not-dnas-way-of-making-more-dna
