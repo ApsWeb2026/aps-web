@@ -24,6 +24,54 @@ relatedArticles:
   - why-life-is-not-dnas-way-of-making-more-dna
   - why-life-is-not-information-processing
   - biological-causation-from-mechanism-to-organised-persistence
+references:
+  - id: descartes1664
+    authors: "Descartes, R."
+    year: 1664
+    title: "Treatise on Man"
+    source: "Prometheus Books"
+
+  - id: bertalanffy1968
+    authors: "von Bertalanffy, L."
+    year: 1968
+    title: "General System Theory"
+    source: "George Braziller"
+
+  - id: rosen1991
+    authors: "Rosen, R."
+    year: 1991
+    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
+    source: "Columbia University Press"
+
+  - id: jonas1966
+    authors: "Jonas, H."
+    year: 1966
+    title: "The Phenomenon of Life"
+    source: "Harper & Row"
+
+  - id: simondon1958
+    authors: "Simondon, G."
+    year: 1958
+    title: "On the Mode of Existence of Technical Objects"
+    source: "University of Western Ontario"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    source: "W. W. Norton & Company"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    source: "Cambridge University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

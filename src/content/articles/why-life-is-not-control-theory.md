@@ -25,6 +25,57 @@ relatedArticles:
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
   - biological-causation-from-mechanism-to-organised-persistence
+references:
+  - id: wiener1948
+    authors: "Wiener, N."
+    year: 1948
+    title: "Cybernetics: Or Control and Communication in the Animal and the Machine"
+    source: "MIT Press"
+
+  - id: ashby1956
+    authors: "Ashby, W. R."
+    year: 1956
+    title: "An Introduction to Cybernetics"
+    source: "Chapman & Hall"
+
+  - id: rosen1985
+    authors: "Rosen, R."
+    year: 1985
+    title: "Anticipatory Systems"
+    source: "Pergamon Press"
+
+  - id: beer1972
+    authors: "Beer, S."
+    year: 1972
+    title: "Brain of the Firm"
+    source: "Allen Lane"
+
+  - id: bertalanffy1968
+    authors: "von Bertalanffy, L."
+    year: 1968
+    title: "General System Theory"
+    source: "George Braziller"
+
+  - id: powers1973
+    authors: "Powers, W. T."
+    year: 1973
+    title: "Behavior: The Control of Perception"
+    source: "Aldine"
+
+  - id: friston2013
+    authors: "Friston, K."
+    year: 2013
+    title: "Life as We Know It"
+    journal: "Journal of The Royal Society Interface"
+    volume: "10"
+    pages: "20130475"
+    doi: "10.1098/rsif.2013.0475"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

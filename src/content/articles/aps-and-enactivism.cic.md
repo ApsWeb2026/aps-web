@@ -33,13 +33,34 @@ references:
     authors: "Varela, F. J., Thompson, E., & Rosch, E."
     year: 1991
     title: "The Embodied Mind: Cognitive Science and Human Experience"
-    publisher: "MIT Press"
+    source: "MIT Press"
 
   - id: thompson2007
     authors: "Thompson, E."
     year: 2007
     title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
-    publisher: "Harvard University Press"
+    source: "Harvard University Press"
+
+  - id: di-paolo2018
+    authors: "Di Paolo, E. A., Cuffari, E. C., & De Jaegher, H."
+    year: 2018
+    title: "Linguistic Bodies: The Continuity Between Life and Language"
+    source: "MIT Press"
+
+  - id: de-jaegher2010
+    authors: "De Jaegher, H., Di Paolo, E., & Gallagher, S."
+    year: 2010
+    title: "Can Social Interaction Constitute Social Cognition?"
+    journal: "Trends in Cognitive Sciences"
+    volume: "14"
+    pages: "441–447"
+    doi: "10.1016/j.tics.2010.06.009"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

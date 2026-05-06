@@ -25,17 +25,47 @@ relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
   - constraint-closure-what-it-does-and-does-not-do
 references:
-  - id: "dawkins-1976"
+  - id: watson1965
+    authors: "Watson, J. D."
+    year: 1965
+    title: "Molecular Biology of the Gene"
+    source: "W. A. Benjamin"
+
+  - id: dawkins1976
     authors: "Dawkins, R."
     year: 1976
     title: "The Selfish Gene"
-    publisher: "Oxford University Press"
+    source: "Oxford University Press"
 
-  - id: "noble-2006"
+  - id: oyama1985
+    authors: "Oyama, S."
+    year: 1985
+    title: "The Ontogeny of Information"
+    source: "Cambridge University Press"
+
+  - id: noble2006
     authors: "Noble, D."
     year: 2006
     title: "The Music of Life: Biology Beyond Genes"
-    publisher: "Oxford University Press"
+    source: "Oxford University Press"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    source: "Cambridge University Press"
+
+  - id: griffiths-stotz2013
+    authors: "Griffiths, P. E., & Stotz, K."
+    year: 2013
+    title: "Genetics and Philosophy: An Introduction"
+    source: "Cambridge University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

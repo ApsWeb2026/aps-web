@@ -5,134 +5,228 @@ slug: why-aps-is-not-hierarchical
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-04-09
+revised: 2026-05-06
 cluster: conceptual-foundations
-abstract: "APS rejects the use of hierarchy as an explanatory principle in biology. While hierarchical language can serve as a descriptive shorthand, treating it as ontological obscures the continuous, scale-coupled, and constraint-mediated organisation of living systems. This article clarifies why levels of organisation are epistemic constructs and how APS replaces them with scale, resolution, and organisational coupling."
+abstract: >
+  APS rejects the treatment of hierarchy as an ontological or explanatory principle in biology. While hierarchical language can function as a descriptive shorthand, living systems are not organised into discrete tiers of causal authority. APS instead understands biological organisation as continuous, scale-coupled, and constraint-mediated. Apparent levels of organisation are explanatory abstractions imposed upon dynamically integrated processes distributed across space and time.
+keyPoints:
+  - APS rejects ontological hierarchy as an explanatory principle in biology.
+  - Hierarchical language may be descriptively useful without implying discrete causal tiers.
+  - Biological organisation is continuous, scale-coupled, and constraint-mediated.
+  - Apparent levels of organisation are epistemic abstractions rather than features of life itself.
+  - Causation in living systems is reciprocal and distributed across organisational scales.
+  - Agency is not located at a privileged level but arises through viability-oriented organisation.
 relatedGlossaryTerms:
   - scale
-  - constraint
-  - biological-agency
   - biological-organisation
+  - biological-agency
+  - constraint-closure
   - normativity
+  - process
+  - viability
 relatedArticles:
-  - explanatory-grammar
+  - explanatory-geometry-of-biology
   - process-the-dynamics-of-living-biological-organisation
   - environment-coupling-and-biological-agency
-  - cognition-from-life-to-mind-continuity-without-mentalism
+  - cognition-where-does-it-belong-in-biology
+  - emergence-an-aps-clarification
+  - constraint-closure-what-it-does-and-does-not-do
+references:
+  - id: bertalanffy1968
+    authors: "von Bertalanffy, L."
+    year: 1968
+    title: "General System Theory"
+    source: "George Braziller"
+
+  - id: simon1962
+    authors: "Simon, H. A."
+    year: 1962
+    title: "The Architecture of Complexity"
+    journal: "Proceedings of the American Philosophical Society"
+    volume: "106"
+    pages: "467–482"
+
+  - id: wimsatt2007
+    authors: "Wimsatt, W. C."
+    year: 2007
+    title: "Re-Engineering Philosophy for Limited Beings"
+    source: "Harvard University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    source: "Cambridge University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: rosen1991
+    authors: "Rosen, R."
+    year: 1991
+    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
+    source: "Columbia University Press"
 ---
 
 ## The Appeal of Hierarchy in Biology
-Biology is often described in hierarchical terms. Textbooks speak of genes, cells, tissues, organs, organisms, populations, and ecosystems as “[levels of organisation](/glossary/scale/).” This language is familiar, intuitive, and pedagogically useful. It helps organise complex material and gives an initial sense of structure.
 
-Used cautiously, such hierarchy functions as a descriptive shorthand. It allows biologists to refer to different regions of organisation without committing to strong metaphysical claims.
+Biology is often described in hierarchical terms. Textbooks speak of genes, cells, tissues, organs, organisms, populations, and ecosystems as “levels of organisation.” This language is familiar, intuitive, and often pedagogically useful. It provides a convenient shorthand for discussing systems that differ in spatial extent, temporal persistence, and descriptive granularity.
 
-The problem arises when this shorthand quietly becomes an explanatory framework.
+APS does not deny that such language can be useful descriptively.
 
-APS does not deny nesting, modularity, or differences in inclusion. It denies that living organisation is ontologically stratified into discrete tiers of explanatory priority. Treating hierarchy as explanatory obscures how biological organisation, causation, and agency actually operate.
+The problem arises when descriptive hierarchy becomes explanatory ontology.
 
-## When Description Becomes Ontology
-The phrase *levels of organisation* appears harmless, but it carries a cluster of implicit assumptions:
-
-- that biological systems are arranged in discrete tiers  
-- that greater inclusiveness or complexity implies higher status  
-- that causation flows upward or downward between levels  
-- that explanation proceeds by assigning phenomena to the “correct” level  
-
-These assumptions are rarely stated explicitly. They enter biological reasoning by habit.
-
-Once they do, explanation begins to fragment. Genes are said to cause traits “at a lower level,” organisms are said to regulate genes “from above,” and evolution is treated as something that occurs at a “higher level” than development or physiology.
-
-APS treats this as a category mistake: an epistemic abstraction has been mistaken for a feature of biological organisation itself.
+APS rejects the idea that living systems are literally organised into discrete tiers of causal authority or explanatory priority. Biological organisation is not fundamentally stratified into stacked levels through which causation flows upward or downward. Instead, living systems are organised through continuous, scale-coupled, constraint-mediated processes distributed across space and time.
 
 [[box:aps-box-hierarchy-vs-scale]]
 
-## Levels Are Abstractions, Not Features of Life
-Nothing in a living system is literally arranged into stacked tiers of causal authority. There is no boundary at which one domain ends and another begins. Biological processes overlap, interact, and propagate across spatial and temporal extent without regard for neat partitions.
+## Hierarchy as an Epistemic Convenience
 
-Living [biological organisation](/glossary/biological-organisation/) is continuous, not discretely stratified.
+What biologists call “levels” are usually explanatory abstractions rather than ontological divisions within nature itself.
 
-What appear as levels arise when analysts impose partitions onto this continuity for purposes of description, modelling, or pedagogy. Such partitions can be useful, but they are epistemic tools, not ontological facts.
+Researchers partition complex systems into components and domains in order to:
+- simplify description
+- isolate mechanisms
+- construct models
+- organise explanation
 
-APS therefore distinguishes between how biologists describe systems and how systems are organised in practice. Confusing the two leads to explanatory error.
+These abstractions are often useful and sometimes indispensable.
 
-## From Levels to Scale, Resolution, and Organisational Coupling
-APS does not simply reject level-talk; it decomposes what the concept ambiguously combines.
+However, the partitions imposed for explanatory purposes do not themselves constitute the organisation of living systems. Biological processes do not unfold within neatly separated strata. Molecular, physiological, developmental, behavioural, and ecological processes continuously interact and mutually constrain one another across scale.
 
-What “levels” loosely gesture toward are differences in:
+APS therefore distinguishes between:
+- explanatory perspective
+- and biological organisation itself
 
-- extent — the spatial and temporal span over which activity is organised  
-- resolution — the granularity at which processes are described or modelled  
-- organisational coupling — the degree to which processes are integrated through [constraint relations](/glossary/constraint/) into a coherent, [biological organisation](/glossary/biological-organisation/)
+Confusing the two produces the illusion that life is composed of discrete levels rather than dynamically integrated processes.
 
-Differences traditionally described as differences of “level” are therefore reinterpreted as differences in how organisation is distributed, coordinated, and stabilised across space and time.
+## What Hierarchical Thinking Smuggles In
 
-Greater extent, tighter coupling, or richer organisation does not confer higher ontological or explanatory status. These are contingent features of organisation, not markers of rank.
+Hierarchical language often carries implicit assumptions:
 
-## APS Language Rule — Hierarchy and Levels
-APS avoids “levels of organisation” language and instead specifies differences in spatial–temporal extent, descriptive resolution, and organisational coupling, treating apparent hierarchy as an epistemic convenience rather than an ontological feature of living systems.
+- that biological systems are arranged into discrete tiers  
+- that some levels possess greater causal authority than others  
+- that explanation proceeds by identifying the “correct” level  
+- that causation flows upward or downward between levels  
+- that agency appears only at sufficiently “high” levels of complexity  
+
+These assumptions are rarely defended explicitly, yet they strongly shape biological reasoning.
+
+APS treats these assumptions as conceptual artefacts rather than discoveries about living organisation.
+
+Living systems exhibit nested organisation, differences in scale, and asymmetries of influence. However, none of these require ontologically distinct strata or privileged levels of causation.
+
+## From Levels to Scale-Coupled Organisation
+
+APS replaces level-based thinking with the concepts of:
+- scale
+- resolution
+- organisational coupling
+- constraint relations
+
+What are traditionally called “levels” are more precisely understood as differences in:
+- spatial–temporal extent
+- descriptive granularity
+- organisational integration
+- persistence across time
+
+Living organisation is therefore not hierarchical in the sense of layered control architectures. Instead, it is scale-coupled: processes occurring across different extents mutually constrain and stabilise one another within viability-oriented organisation.
+
+Constraint relations propagate across scale without requiring privileged levels of control.
 
 ## Why Hierarchy Misleads Accounts of Causation
-Hierarchical thinking invites talk of “top-down” and “bottom-up” causation.
+
+Hierarchical thinking encourages the language of “bottom-up” and “top-down” causation.
 
 APS rejects this framing.
 
-Causation in living systems is reciprocal, constraint-mediated, and [scale-coupled](/glossary/scale/). Molecular processes influence organismal activity; organismal activity reshapes molecular conditions; both unfold within developmental and ecological contexts that neither sit above nor below them.
+Biological causation is reciprocal, distributed, and constraint-mediated. Molecular activity shapes organismal behaviour, while organismal activity reorganises molecular conditions. Developmental, physiological, behavioural, and ecological processes continuously interact without occupying ontologically separate domains.
 
-There is no privileged direction of causation—only mutual constraint and co-determination across scale.
+No single scale possesses explanatory priority in principle.
+
+What matters is how processes are coupled within organised systems capable of sustaining viability.
+
+APS therefore replaces hierarchical causation with mutual constraint across scale.
 
 ## Why Hierarchy Misleads Accounts of Agency
-Hierarchical models are especially problematic for understanding [biological agency](/glossary/biological-agency/).
 
-Agency is often located at a “higher level,” while smaller-scale processes are treated as passive mechanisms. This framing suggests that agency emerges only once sufficient complexity accumulates.
+Hierarchical models are especially misleading when discussing biological agency.
+
+Agency is often treated as something that emerges only at “higher levels” once sufficient complexity accumulates. Smaller-scale processes are then interpreted as passive mechanisms controlled from above.
 
 APS rejects this picture.
 
-Agency is not a property of a level. It is a mode of organisation: viability-oriented, constraint-closed activity that may be realised across different spatial and temporal extents.
+Agency is not a property of a level. It is a mode of organisation.
 
-What matters is not hierarchical position, but whether a system sustains its own organisation and can succeed or fail for itself.
+Where viability-oriented, constraint-closed organisation exists, systems can succeed or fail relative to the maintenance of their own persistence. Agency therefore depends upon organisational relations, not hierarchical position.
+
+Different forms of agency may exist across different scales and forms of organisation without requiring ontological stratification.
 
 ## Organisational Domains and Explanatory Perspective
-APS distinguishes scale from domain of explanation.
 
-Scale concerns how processes are organised and coupled across space and time. A domain specifies how that same organisation is being explained—for example, mechanistically, functionally, evolutionarily, or agentially.
+APS distinguishes scale from explanatory domain.
 
-Multiple explanatory domains may apply simultaneously to the same system. Invoking a new domain does not introduce a new level of organisation.
+Scale concerns how activity is organised across space and time.
 
-## From Levels to Scale-Coupled Organisation
-Where standard biology refers to levels of organisation, APS instead speaks of:
+An explanatory domain concerns how that organisation is being described or analysed:
+- mechanistically
+- physiologically
+- evolutionarily
+- cognitively
+- ecologically
+- agentially
 
-- differences in spatial–temporal extent  
-- differences in descriptive resolution  
-- differences in organisational coupling and constraint relations  
+Multiple explanatory domains may apply simultaneously to the same organised process without introducing new ontological layers.
 
-Biological organisation is not arranged into ontologically distinct strata, nor governed by layered control architectures.
-
-APS does not deny novelty. It denies that novelty requires ontologically new strata.
+This distinction allows APS to preserve explanatory pluralism without reifying hierarchy.
 
 ## Constraint Relations Replace Hierarchical Control
-Hierarchical thinking often smuggles in metaphors of control.
 
-APS replaces control metaphors with [constraints](/glossary/constraint/).
+Hierarchical models often smuggle in metaphors of command and control.
 
-Constraints shape what processes can occur, and processes in turn maintain, modify, or dissolve constraints. This reciprocal dynamic explains regulation, robustness, and adaptation without invoking layered control architectures.
+APS instead emphasises constraints.
 
-## Translating Standard Biology Without Policing Language
-APS does not deny that biologists routinely use hierarchical language.
+Constraints shape which processes can occur, while processes in turn maintain, transform, or dissolve those constraints. Regulation therefore emerges through reciprocal organisational relations rather than through layered command architectures.
 
-Instead, it treats levels of organisation as a translation problem.
+Constraint closure explains how living systems maintain themselves without invoking hierarchical controllers.
 
-Where standard biology speaks of levels, APS translates this into:
+This also explains why biological organisation is historically and dynamically stable despite continuous material turnover.
 
-- differences of scale  
-- differences of organisational coupling  
-- differences of explanatory domain  
+## Translating Standard Biological Language
 
-This preserves empirical content while avoiding hierarchical commitments. APS disciplines language not by prohibition, but by clarification.
+APS does not prohibit the use of hierarchical terminology.
+
+Instead, it treats “levels of organisation” as a translation problem.
+
+Where conventional biology refers to levels, APS translates this into:
+- differences of scale
+- differences of descriptive resolution
+- differences of organisational coupling
+- differences of explanatory perspective
+
+This preserves the empirical usefulness of hierarchical language while avoiding misleading ontological commitments.
 
 ## Summary
-Hierarchy is a useful descriptive shortcut in biology, but it becomes misleading when treated as an explanatory principle.
 
-Living organisation is not ontologically stratified into discrete tiers of causal authority. It is organised through [constraint-mediated processes](/glossary/constraint/) that sustain viability across space and time.
+Hierarchy is a useful descriptive shorthand in biology, but it becomes misleading when treated as an explanatory principle or ontological structure.
 
-Life is not a stack of levels.  
+Living systems are not organised into discrete tiers of causal authority. They are organised through continuous, scale-coupled, constraint-mediated processes that sustain viability across space and time.
+
+APS therefore replaces hierarchy with an account of biological organisation grounded in:
+- scale
+- organisational coupling
+- constraint relations
+- and viability-oriented persistence
+
+Life is not a stack of levels.
+
 It is organised activity across scale.

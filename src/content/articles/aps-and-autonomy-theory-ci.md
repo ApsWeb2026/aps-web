@@ -25,6 +25,51 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
   - organism-the-unity-of-viability-oriented-organisation
   - biological-causation-from-mechanism-to-organised-persistence
+references:
+  - id: varela1979
+    authors: "Varela, F. J."
+    year: 1979
+    title: "Principles of Biological Autonomy"
+    source: "North Holland"
+
+  - id: maturana-varela1980
+    authors: "Maturana, H. R., & Varela, F. J."
+    year: 1980
+    title: "Autopoiesis and Cognition: The Realization of the Living"
+    source: "D. Reidel Publishing Company"
+
+  - id: christensen2002
+    authors: "Christensen, W. D., & Hooker, C. A."
+    year: 2002
+    title: "Organism, Machine, and Autonomy"
+    source: "Imprint Academic"
+
+  - id: mossio2013
+    authors: "Mossio, M., Saborido, C., & Moreno, A."
+    year: 2013
+    title: "An Organizational Account of Biological Functions"
+    journal: "British Journal for the Philosophy of Science"
+    volume: "64"
+    pages: "813–841"
+    doi: "10.1093/bjps/axs009"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
+    source: "Harvard University Press"
+
+  - id: di-paolo2022
+    authors: "Di Paolo, E. A."
+    year: 2022
+    title: "Enactive Becoming"
+    source: "Oxford University Press"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

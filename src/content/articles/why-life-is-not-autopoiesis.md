@@ -24,6 +24,51 @@ relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
   - aps-and-autonomy-theory
   - why-life-is-not-control-theory
+references:
+  - id: maturana-varela1980
+    authors: "Maturana, H. R., & Varela, F. J."
+    year: 1980
+    title: "Autopoiesis and Cognition: The Realization of the Living"
+    source: "D. Reidel Publishing Company"
+
+  - id: maturana-varela1987
+    authors: "Maturana, H. R., & Varela, F. J."
+    year: 1987
+    title: "The Tree of Knowledge: The Biological Roots of Human Understanding"
+    source: "Shambhala"
+
+  - id: varela1979
+    authors: "Varela, F. J."
+    year: 1979
+    title: "Principles of Biological Autonomy"
+    source: "North Holland"
+
+  - id: luisi2003
+    authors: "Luisi, P. L."
+    year: 2003
+    title: "Autopoiesis: A Review and a Reappraisal"
+    journal: "Naturwissenschaften"
+    volume: "90"
+    pages: "49–59"
+    doi: "10.1007/s00114-002-0389-9"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
+    source: "Harvard University Press"
+
+  - id: di-paolo2022
+    authors: "Di Paolo, E. A."
+    year: 2022
+    title: "Enactive Becoming"
+    source: "Oxford University Press"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**

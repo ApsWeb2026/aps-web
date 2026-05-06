@@ -25,6 +25,63 @@ relatedArticles:
   - biological-causation-from-mechanism-to-organised-persistence
   - function-how-living-systems-make-persistence-operational
   - beyond-placeholder-concepts-in-biology-an-aps-clarification
+references:
+  - id: shannon1948
+    authors: "Shannon, C. E."
+    year: 1948
+    title: "A Mathematical Theory of Communication"
+    journal: "Bell System Technical Journal"
+    volume: "27"
+    pages: "379–423, 623–656"
+    doi: "10.1002/j.1538-7305.1948.tb01338.x"
+
+  - id: schrödinger1944
+    authors: "Schrödinger, E."
+    year: 1944
+    title: "What Is Life?"
+    source: "Cambridge University Press"
+
+  - id: monod1971
+    authors: "Monod, J."
+    year: 1971
+    title: "Chance and Necessity"
+    source: "Alfred A. Knopf"
+
+  - id: maynard-smith2000
+    authors: "Maynard Smith, J."
+    year: 2000
+    title: "The Concept of Information in Biology"
+    journal: "Philosophy of Science"
+    volume: "67"
+    pages: "177–194"
+    doi: "10.1086/392768"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    source: "W. W. Norton & Company"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    source: "Cambridge University Press"
+
+  - id: walker-davies2013
+    authors: "Walker, S. I., & Davies, P. C. W."
+    year: 2013
+    title: "The Algorithmic Origins of Life"
+    journal: "Journal of The Royal Society Interface"
+    volume: "10"
+    pages: "20120869"
+    doi: "10.1098/rsif.2012.0869"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
