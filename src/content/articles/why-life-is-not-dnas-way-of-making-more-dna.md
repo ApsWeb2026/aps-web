@@ -163,18 +163,21 @@ It is tempting to imagine evolution as genes competing for replication.
 
 APS reframes this.
 
-Evolution is not adequately explained as the success of genes in isolation. It is the long-term transformation of **organised, viability-oriented systems** across generations.
+Evolution is not adequately explained as the success of genes in isolation. It is the long-term transformation of organised, viability-oriented systems across generations.
 
 From this perspective:
-- inheritance stabilises organisation  
-- variation modifies organisation  
-- selection reflects the persistence of viable organisation  
+
+inheritance stabilises organisation,
+variation modifies organisation, and
+selection reflects the persistence of viable organisation
 
 Genes play a central role in all of this.
 
-But they do so as part of a larger system whose organisation makes these processes possible in the first place.
+APS does not deny the importance of hereditary mechanisms such as the Weismann barrier. In many organisms, genetic continuity is stabilised through relatively insulated germ-line transmission. However, heredity operates within larger systems of developmental, metabolic, ecological, and behavioural organisation that sustain viability across generations.
 
-This reorientation reflects a broader shift in explanatory perspective: from treating components as primary to understanding them within the organised systems that give them meaning (see *Analysis, Synthesis, and the Direction of Explanation*).
+Genes therefore contribute to evolutionary continuity not in isolation, but as part of the organised systems that make hereditary processes possible in the first place.
+
+This reorientation reflects a broader shift in explanatory perspective: from treating components as primary to understanding them within the organised systems that give them meaning (see Analysis, Synthesis, and the Direction of Explanation).
 
 From this perspective, biological function is defined not by replication success alone, but by contribution to the viability of organised systems across time.
 
