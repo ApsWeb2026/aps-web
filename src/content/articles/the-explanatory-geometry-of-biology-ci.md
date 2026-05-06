@@ -63,6 +63,8 @@ Biology does not lack data, mechanisms, or models. What it lacks is a clear acco
 
 The APS framework addresses this problem not by introducing additional concepts, but by making explicit the structure that biological explanation already presupposes. It does so through a simple but powerful insight: explanation in biology is organised through the mutually constraining relations of agency, process, and scale.
 
+[[box:the-organisational-grammar-of-aps]]
+
 [[box:how-to-read-aps-as-a-coherent-framework]]
 
 ## Explanation as organised structure

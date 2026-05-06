@@ -57,6 +57,8 @@ APS therefore does not reject these frameworks. It situates them within a broade
 - what aspects of living systems they capture  
 - and why they remain incomplete as accounts of life itself  
 
+[[box:the-organisational-grammar-of-aps]]
+
 For the positive account of what life is in APS, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
 
 ## The Comparative Series

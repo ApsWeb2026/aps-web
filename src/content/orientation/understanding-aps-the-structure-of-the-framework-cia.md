@@ -49,6 +49,8 @@ Within this organisation, activity is not only sustained but differentially stru
 
 This perspective allows different areas of biology—physiology, development, evolution, and cognition—to be understood within a single explanatory structure.
 
+[[box:the-organisational-grammar-of-aps]]
+
 [[box:how-to-read-aps-as-a-coherent-framework]]
 
 ## The Three Dimensions of APS

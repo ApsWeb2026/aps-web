@@ -40,6 +40,9 @@ APS treats processes as ontologically fundamental. Systems are not entities that
 
 Together, agency, process, and scale form the core explanatory grammar of APS, within which viability establishes the normative basis of biological organisation. They are not independent components, but co-constitutive dimensions through which living systems are organised and understood.
 
+[[box:the-organisational-grammar-of-aps]]
+
+
 ![Diagram showing agency, process, and scale as interdependent dimensions of organised biological persistence in APS](/assets/diagrams/aps-core-structure.svg)
 
 *Figure: Agency, process, and scale are not separate components but interdependent dimensions of organised biological persistence.*

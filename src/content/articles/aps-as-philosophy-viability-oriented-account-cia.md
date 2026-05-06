@@ -42,7 +42,9 @@ The Agency–Process–Scale (APS) framework enters at this point of tension. It
 
 What emerges from this clarification is not a replacement for biological explanation, but a reorientation of it. Explanation is no longer understood as the identification of isolated mechanisms alone, but as the articulation of organised relations that sustain and transform living systems over time. In this sense, APS does not merely contribute to theoretical biology; it reframes the conceptual conditions under which biological explanation itself becomes intelligible.
 
-In this sense, APS does not merely contribute to theoretical biology; it reframes the conceptual conditions under which biological explanation itself becomes intelligible. For an overview of the framework and its core concepts, see [What Is APS?](/orientation/what-is-aps/).
+[[box:the-organisational-grammar-of-aps]]
+
+For an overview of the framework and its core concepts, see [What Is APS?](/orientation/what-is-aps/).
 
 ## 2. From Biological Framework to Ontological Proposal
 
