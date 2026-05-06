@@ -16,6 +16,7 @@ seeAlso:
   - organisational-coupling
   - scale-coupling
   - biological-agency
+  - semiosis
   - resolution
 associatedPages:
   - what-is-aps
@@ -38,8 +39,10 @@ APS does not explain living systems through a single privileged principle or exp
 
 - **Biological agency** describes the active regulation and modulation of viability-oriented organisation.
 
+- **Semiosis** structures viability-relevant differences as biologically meaningful within organised activity.
+
 - **Resolution** clarifies the explanatory granularity at which organisation is described or analysed.
 
 These concepts do not function independently. Together they form an organisational grammar for biological explanation.
 
-APS therefore approaches living systems not as static objects assembled from isolated components, but as dynamically organised, viability-oriented processes distributed across scale and continuously sustained through reciprocal relations.
+APS therefore approaches living systems not as static objects assembled from isolated components, but as dynamically organised, viability-oriented processes distributed across scale, organised through meaningful differentiation, and continuously sustained through reciprocal relations.
