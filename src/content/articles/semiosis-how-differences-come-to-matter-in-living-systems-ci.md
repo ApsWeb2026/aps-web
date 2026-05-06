@@ -22,7 +22,7 @@ relatedGlossaryTerms:
   - functional-lineage
 relatedArticles:
   - cognition-where-does-it-belong-in-biology
-  - meaning-in-biology
+  - aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems
   - biological-agency-without-intentions
   - why-life-is-not-information-processing
 references:
