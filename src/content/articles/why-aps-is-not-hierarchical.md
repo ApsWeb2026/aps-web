@@ -29,7 +29,7 @@ relatedArticles:
   - process-the-dynamics-of-living-biological-organisation
   - environment-coupling-and-biological-agency
   - cognition-where-does-it-belong-in-biology
-  - emergence-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
   - constraint-closure-what-it-does-and-does-not-do
 references:
   - id: bertalanffy1968
