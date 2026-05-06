@@ -27,6 +27,57 @@ relatedArticles:
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - organism-world-coupling-agency-not-control
   - constraint-closure-what-it-does-and-does-not-do
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    source: "Harvard University Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+    doi: "10.1146/annurev.es.01.110170.000245"
+
+  - id: maynard-smith1986
+    authors: "Maynard Smith, J., & Szathmáry, E."
+    year: 1995
+    title: "The Major Transitions in Evolution"
+    source: "Oxford University Press"
+
+  - id: godfrey-smith2009
+    authors: "Godfrey-Smith, P."
+    year: 2009
+    title: "Darwinian Populations and Natural Selection"
+    source: "Oxford University Press"
+
+  - id: okasha2006
+    authors: "Okasha, S."
+    year: 2006
+    title: "Evolution and the Levels of Selection"
+    source: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    source: "Princeton University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
 ---
 
 ## Evolution as the Transformation of Viability-Oriented Organisation
