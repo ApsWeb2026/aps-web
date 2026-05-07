@@ -22,7 +22,7 @@ relatedGlossaryTerms:
   - constraint-closure
   - normativity
   - process
-  - organisation
+  - biological-organisation
   - semiosis
   - evaluation
 relatedArticles:

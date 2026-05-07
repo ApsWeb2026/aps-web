@@ -188,8 +188,6 @@ Perturbation therefore provides a principled method for evaluating:
 - organisational dependence,
 - and endogenous regulation.
 
-[[box:perturbation-reveals-organisation]]
-
 ## The APS Diagnostic Sequence
 
 APS diagnosis proceeds through a series of organisational evaluations.
@@ -367,7 +365,7 @@ Borderline systems such as:
 
 therefore become diagnostically informative rather than conceptually problematic.
 
-[[box:aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic]]
+For a fuller account of why borderline cases are expected rather than problematic, see [APS and the Edges of Life](/articles/aps-and-the-edges-of-life-ci/).
 
 ## Diagnosis as Organisational Explanation
 
