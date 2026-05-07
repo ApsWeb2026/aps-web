@@ -25,6 +25,7 @@ relatedArticles:
   - biological-causation-from-mechanism-to-organised-persistence
   - function-how-living-systems-make-persistence-operational
   - beyond-placeholder-concepts-in-biology-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 references:
   - id: shannon1948
     authors: "Shannon, C. E."

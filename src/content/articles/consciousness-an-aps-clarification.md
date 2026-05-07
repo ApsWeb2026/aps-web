@@ -29,6 +29,7 @@ relatedArticles:
   - what-is-life-a-biological-question-revisited
   - why-life-is-not-dnas-way-of-making-more-dna
   - aps-and-contemporary-theories
+  - why-life-is-not-intelligence-an-aps-clarification
 references:
   - id: nagel1974
     authors: "Nagel, T."

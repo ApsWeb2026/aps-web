@@ -26,6 +26,89 @@ relatedArticles:
   - from-life-to-explanation-emerging-architecture
   - aps-diagnostics-empirical-tractability
   - beyond-placeholder-concepts-in-biology-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
+references:
+  - id: varela1991
+    authors: "Varela, F. J., Thompson, E., & Rosch, E."
+    year: 1991
+    title: "The Embodied Mind"
+    source: "MIT Press"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    source: "Harvard University Press"
+
+  - id: lyon2015
+    authors: "Lyon, P."
+    year: 2015
+    title: "The Cognitive Cell: Bacterial Behavior Reconsidered"
+    journal: "Frontiers in Microbiology"
+    volume: "6"
+    pages: "264"
+
+  - id: lyon2018
+    authors: "Lyon, P., et al."
+    year: 2018
+    title: "The Biogenic Approach to Cognition"
+    journal: "Adaptive Behavior"
+    volume: "26"
+    pages: "225–240"
+
+  - id: trewavas2003
+    authors: "Trewavas, A."
+    year: 2003
+    title: "Aspects of Plant Intelligence"
+    journal: "Annals of Botany"
+    volume: "92"
+    pages: "1–20"
+
+  - id: calvo2020
+    authors: "Calvo, P."
+    year: 2020
+    title: "Planta Sapiens"
+    source: "W. W. Norton & Company"
+
+  - id: ginsburg2019
+    authors: "Ginsburg, S., & Jablonka, E."
+    year: 2019
+    title: "The Evolution of the Sensitive Soul"
+    source: "MIT Press"
+
+  - id: pezzulo2024
+    authors: "Pezzulo, G., & Levin, M."
+    year: 2024
+    title: "Top-Down Models in Biology: Explanation Beyond Mechanism"
+    journal: "Physics of Life Reviews"
+    volume: "48"
+    pages: "1–25"
+
+  - id: friston2013
+    authors: "Friston, K."
+    year: 2013
+    title: "Life as We Know It"
+    journal: "Journal of The Royal Society Interface"
+    volume: "10"
+    pages: "20130475"
+
+  - id: dennett2017
+    authors: "Dennett, D. C."
+    year: 2017
+    title: "From Bacteria to Bach and Back"
+    source: "W. W. Norton & Company"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: godfreysmith2016
+    authors: "Godfrey-Smith, P."
+    year: 2016
+    title: "Other Minds"
+    source: "Farrar, Straus and Giroux"
 ---
 
 ## What This Article Does

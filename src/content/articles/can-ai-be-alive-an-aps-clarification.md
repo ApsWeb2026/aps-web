@@ -35,6 +35,7 @@ relatedArticles:
   - what-is-life-a-biological-question-revisited
   - aps-and-contemporary-theories
   - biosignatures-detecting-life-as-self-maintaining-organisation
+  - why-life-is-not-intelligence-an-aps-clarification
 references:
   - id: vonneumann1966
     authors: "von Neumann, J."

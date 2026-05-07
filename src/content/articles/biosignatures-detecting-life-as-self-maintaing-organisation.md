@@ -30,6 +30,7 @@ relatedArticles:
   - aps-diagnostics-empirical-tractability
   - aps-and-the-edges-of-life-ci
   - can-ai-be-alive-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 references:
   - id: lovelock1979
     authors: "Lovelock, J. E."

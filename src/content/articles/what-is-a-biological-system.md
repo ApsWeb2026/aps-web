@@ -27,6 +27,7 @@ relatedArticles:
   - organism-individual-agent-distinction
   - levels-vs-scale-why-biological-organisation-is-not-hierarchical
   - biosignatures-detecting-life-as-self-maintaining-organisation
+  - why-life-is-not-intelligence-an-aps-clarification
 ---
 
 ## What Is a Biological System?

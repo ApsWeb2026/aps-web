@@ -26,6 +26,7 @@ relatedArticles:
   - what-is-a-biological-system
   - how-to-diagnose-a-biological-system
   - biosignatures-detecting-life-as-self-maintaining-organisation
+  - why-life-is-not-intelligence-an-aps-clarification
 ---
 
 ## The Problem of Borderline Cases

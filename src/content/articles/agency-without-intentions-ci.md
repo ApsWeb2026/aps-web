@@ -21,6 +21,7 @@ relatedArticles:
   - what-is-aps
   - cognition-where-does-it-belong-in-biology
   - aps-glossary-as-constraint-closed-conceptual-system
+  - why-life-is-not-intelligence-an-aps-clarification
 references:
   - id: barandiaran-2009
     authors: "Barandiaran, X. E., Di Paolo, E. A., & Rohde, M."
