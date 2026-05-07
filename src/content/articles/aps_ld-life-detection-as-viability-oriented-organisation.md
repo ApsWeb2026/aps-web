@@ -28,6 +28,8 @@ While useful, these approaches face a fundamental limitation:
 
 APS_LD addresses this by shifting the focus from **what life is made of** to **how life is organised**.
 
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
 ## APS Reframing of Life Detection
 
 Within APS, life is defined as **viability-oriented, constraint-closed biological organisation**. Accordingly, life detection becomes the identification of systems that:
