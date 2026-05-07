@@ -28,7 +28,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - explanatory-priority-is-not-ontological-priority
-  - emergence-in- biology-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
 references:
   - id: Wittgenstein1953
     authors: "Wittgenstein, L."
