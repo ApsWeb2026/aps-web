@@ -18,21 +18,19 @@ keyPoints:
   - Biological failure reveals the normative structure of living systems.
 relatedGlossaryTerms:
   - viability
+  - viability-orientation
   - persistence
   - normativity
   - function
+  - purpose
   - biological-agency
   - constraint-closure
   - biological-organisation
   - process
   - adaptation
 relatedArticles:
-  - viability-orientation
-  - persistence
   - biological-agency-without-intentions
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - function
-  - purpose
 references:
   - id: Jonas1966
     authors: "Jonas, H."
