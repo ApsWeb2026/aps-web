@@ -26,7 +26,7 @@ relatedGlossaryTerms:
   - normativity
   - constraint-closure
 relatedArticles:
-  - cognition
+  - cognition-where-does-it-belong-in-biology
   - consciousness-an-aps-clarification
   - can-ai-be-alive-an-aps-clarification
   - what-is-a-biological-system
