@@ -5,6 +5,7 @@ import Breadcrumb from '@/components/Breadcrumb.astro';
 import PageMeta from '@/components/PageMeta.astro';
 import LockBanner from '@/components/LockBanner.astro';
 import References from '@/components/References.astro';
+import TableOfContents from "../../components/TableOfContents.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection('articles');
@@ -16,7 +17,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 
 const {
   title,
@@ -128,21 +129,23 @@ const renderedBoxes = await Promise.all(
     </div>
 
     {
-      safeKeyPoints.length > 0 && (
-        <div class="key-points">
-          <h3>Key Points</h3>
-          <ul>
-            {safeKeyPoints.map((point: string) => (
-              <li>{point}</li>
-            ))}
-          </ul>
-        </div>
-      )
-    }
+     safeKeyPoints.length > 0 && (
+       <div class="key-points">
+         <h3>Key Points</h3>
+         <ul>
+           {safeKeyPoints.map((point: string) => (
+             <li>{point}</li>
+           ))}
+         </ul>
+       </div>
+     )
+   }
 
-    <div class="article-body">
-      <Content />
-    </div>
+   <TableOfContents headings={headings} />
+
+   <div class="article-body">
+     <Content />
+   </div>
 
     {
       renderedBoxes.length > 0 && (

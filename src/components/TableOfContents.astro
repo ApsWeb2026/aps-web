@@ -1,0 +1,19 @@
+// src/components/TableOfContents.astro
+---
+const { headings = [] } = Astro.props;
+
+const items = headings.filter((h) => h.depth === 2);
+---
+
+{items.length > 1 && (
+  <nav class="article-toc" aria-label="Article contents">
+    <h2>Contents</h2>
+    <ol>
+      {items.map((h) => (
+        <li>
+          <a href={`#${h.slug}`}>{h.text}</a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

@@ -1571,3 +1571,33 @@ main .content-wrapper .article-body h3 a {
 .badge-type {
   opacity: 0.6;
 }
+
+.article-toc {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--accent, #6b7280);
+  background: #f8f8f8;
+  border-radius: 0.75rem;
+}
+
+.article-toc h2 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.article-toc ol {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.article-toc li {
+  margin: 0.35rem 0;
+}
+
+.article-toc a {
+  text-decoration: none;
+}
+
+.article-toc a:hover {
+  text-decoration: underline;
+}
