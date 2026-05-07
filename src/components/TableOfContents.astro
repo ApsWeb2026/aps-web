@@ -9,7 +9,7 @@ const items = Array.isArray(headings)
 {items.length >= 1 ? (
   <nav class="article-toc" aria-label="Article contents">
     <h2>Contents</h2>
-    <ol>
+    <ol class="article-toc-list">
       {items.map((heading) => (
         <li>
           <a href={`#${heading.slug || heading.id}`}>{heading.text}</a>

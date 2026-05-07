@@ -1601,3 +1601,8 @@ main .content-wrapper .article-body h3 a {
 .article-toc a:hover {
   text-decoration: underline;
 }
+
+.article-toc-list {
+  list-style: none;
+  padding-left: 0;
+}
