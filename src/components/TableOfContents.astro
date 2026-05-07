@@ -2,17 +2,17 @@
 const { headings = [] } = Astro.props;
 
 const items = Array.isArray(headings)
-  ? headings.filter((heading) => heading.depth === 2)
+  ? headings.filter((heading) => heading.depth === 2 || heading.depth === "h2")
   : [];
 ---
 
-{items.length >= 3 ? (
+{items.length >= 1 ? (
   <nav class="article-toc" aria-label="Article contents">
     <h2>Contents</h2>
     <ol>
       {items.map((heading) => (
         <li>
-          <a href={`#${heading.slug}`}>{heading.text}</a>
+          <a href={`#${heading.slug || heading.id}`}>{heading.text}</a>
         </li>
       ))}
     </ol>
