@@ -138,6 +138,8 @@ A system may simulate agency behaviourally without possessing the organisational
 
 This distinction is essential because behaviour alone does not determine whether something is alive.
 
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
 ## What APS Means by Life
 
 APS defines life as viability-oriented, constraint-closed organisation.

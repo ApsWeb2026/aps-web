@@ -37,6 +37,8 @@ APS rejects this assumption.
 
 In APS, life is not a membership class but a form of **organisation**. Once life is understood as viability-oriented, constraint-closed activity sustained across scale, the expectation of a sharp boundary dissolves.
 
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
 Borderline cases are therefore not problems to be solved—they are **expected outcomes of the kind of system life is**.
 
 **Key Point.** Edge cases do not undermine the definition of life—they reveal its organisational structure.

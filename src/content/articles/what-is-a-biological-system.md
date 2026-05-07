@@ -38,6 +38,8 @@ Traditional approaches often answer this question by listing features—metaboli
 
 APS reframes the question. Rather than asking what features biological systems possess, it asks what kind of organisation makes those features possible.
 
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
 ## Beyond Mechanism
 
 Mechanistic accounts describe systems in terms of interacting parts and causal relations. These descriptions are indispensable, but they do not by themselves distinguish biological systems from non-biological ones.

@@ -45,6 +45,8 @@ For APS to function as a scientific framework, its claims must be **open to eval
 
 Diagnostics provides this method.
 
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
 ## What Is Being Diagnosed
 
 In APS, what is evaluated is not simply:

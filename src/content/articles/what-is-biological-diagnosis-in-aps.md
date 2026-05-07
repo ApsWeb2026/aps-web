@@ -36,7 +36,7 @@ These approaches are powerful, but they share a limitation: they focus on **what
 
 From an APS perspective, this is insufficient. Life is not defined by traits or components alone, but by the **ongoing activity through which systems maintain their own viability**. Diagnosis must therefore move beyond description to evaluation.
 
----
+[[box:aps-box-definition-diagnosis-and-evidence]]
 
 ## Diagnosis as Evaluation of Viability-Oriented Organisation
 
@@ -53,8 +53,6 @@ Diagnosis is inherently **normative in a biological sense**. It evaluates whethe
 ### 3. From States to Processes  
 Diagnosis is not a snapshot of a system at a moment in time. It is an assessment of **ongoing organisation across time and scale**.
 
----
-
 ## Why Constraint Closure Is Not Enough
 
 Systems exhibiting constraint closure maintain networks of mutually sustaining processes. This is a necessary condition for biological organisation, but it is not sufficient for diagnosis.
@@ -62,8 +60,6 @@ Systems exhibiting constraint closure maintain networks of mutually sustaining p
 A system may be constraint-closed yet fail to regulate the conditions of its own persistence. Closure alone does not tell us whether the system is **actively sustaining viability**.
 
 Diagnosis therefore requires assessing whether closure is coupled to **viability-oriented activity**—that is, whether the system modulates its own organisation in ways that maintain its continued existence.
-
----
 
 ## Perturbation as the Test of Diagnosis
 
@@ -79,8 +75,6 @@ Only the third case demonstrates **biological agency**—the system’s capacity
 
 For a detailed account of how organism–environment relations contribute to this process, see [Organism–World Coupling — Why Agency Is Not Control](/articles/organism-world-coupling-agency-not-control/).
 
----
-
 ## Diagnosis Across Scale
 
 Diagnosis in APS is inherently multiscale.
@@ -91,8 +85,6 @@ Diagnosis must therefore assess:
 - how organisation is sustained over time  
 - how processes interact across spatial and temporal extent  
 - whether viability is maintained as a coherent whole  
-
----
 
 ## From Identification to Understanding
 
@@ -105,8 +97,6 @@ APS diagnosis answers a different question:
 This shift transforms diagnosis from a classificatory task into an explanatory one. It aligns diagnosis with the core insight of APS:
 
 > Living systems are not defined by what they are made of, but by what they do to remain viable.
-
----
 
 ## Toward an Operational Diagnostic Framework
 
