@@ -83,6 +83,8 @@ Perturbation therefore provides a way to determine whether a given element is:
 - functionally integrated within constraint-closed organisation  
 - or incidental to the system’s persistence  
 
+[[box:aps-box-diagnosis-and-biosignatures]]
+
 ## Viability as Criterion
 
 All diagnostic evaluation in APS is **viability-relative**.

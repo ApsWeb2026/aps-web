@@ -218,6 +218,8 @@ Biosignatures infer it observationally.
 
 This distinction is crucial because it prevents biosignatures from being mistaken for definitive proof while still allowing principled empirical inference.
 
+[[box:aps-box-diagnosis-and-biosignatures]]
+
 ## Biosignatures as Patterns of Viability
 
 From an APS perspective, the strongest biosignatures are not isolated signals but coherent patterns.

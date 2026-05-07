@@ -47,6 +47,8 @@ This reframing introduces a distinction between:
 
 APS_LD is concerned with establishing the latter.
 
+[[box:aps-box-diagnosis-and-biosignatures]]
+
 ## From Biosignatures to Organisational Indicators
 
 APS does not reject biosignatures but reinterprets them.

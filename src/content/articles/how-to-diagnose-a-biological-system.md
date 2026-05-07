@@ -189,6 +189,8 @@ Perturbation therefore provides a principled method for evaluating:
 - organisational dependence,
 - and endogenous regulation.
 
+[[box:aps-box-diagnosis-and-biosignatures]]
+
 ## The APS Diagnostic Sequence
 
 APS diagnosis proceeds through a series of organisational evaluations.
