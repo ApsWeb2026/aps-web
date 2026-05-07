@@ -5,7 +5,7 @@ import Breadcrumb from '@/components/Breadcrumb.astro';
 import PageMeta from '@/components/PageMeta.astro';
 import LockBanner from '@/components/LockBanner.astro';
 import References from '@/components/References.astro';
-import TableOfContents from "../../components/TableOfContents.astro";
+import TableOfContents from '@/components/TableOfContents.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('articles');
