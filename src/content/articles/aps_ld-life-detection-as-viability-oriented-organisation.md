@@ -6,6 +6,8 @@ abstract: "APS_LD reframes life detection in terms of viability-oriented, constr
 status: "canonical"
 cluster: "empirical-interface"
 revised: "2026-04-03"
+relatedArticles:
+- biosignatures-detecting-life-as-self-maintaining-organisation
 ---
 
 ## Overview

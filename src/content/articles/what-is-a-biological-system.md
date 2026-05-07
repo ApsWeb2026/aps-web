@@ -26,6 +26,7 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
   - organism-individual-agent-distinction
   - levels-vs-scale-why-biological-organisation-is-not-hierarchical
+  - biosignatures-detecting-life-as-self-maintaining-organisation
 ---
 
 ## What Is a Biological System?

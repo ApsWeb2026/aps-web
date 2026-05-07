@@ -25,6 +25,7 @@ relatedArticles:
   - what-is-life-a-biological-question-revisited
   - what-is-a-biological-system
   - how-to-diagnose-a-biological-system
+  - biosignatures-detecting-life-as-self-maintaining-organisation
 ---
 
 ## The Problem of Borderline Cases

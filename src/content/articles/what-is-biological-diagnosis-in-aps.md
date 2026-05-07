@@ -26,6 +26,7 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
   - environment-coupling-and-biological-agency
   - organism-world-coupling-agency-not-control
+  - biosignatures-detecting-life-as-self-maintaining-organisation
 ---
 
 ## The Limits of Traditional Diagnosis

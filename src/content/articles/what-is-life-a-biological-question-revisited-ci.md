@@ -24,8 +24,70 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - understanding-aps-the-structure-of-the-framework
   - from-life-to-explanation-emerging-architecture
+  - biosignatures-detecting-life-as-self-maintaining-organisation
 researchStreams: []
-references: []
+references:
+  - id: schrodinger1944
+    authors: "Schrödinger, E."
+    year: 1944
+    title: "What Is Life?"
+    source: "Cambridge University Press"
+
+  - id: bernal1967
+    authors: "Bernal, J. D."
+    year: 1967
+    title: "The Origin of Life"
+    source: "World Publishing"
+
+  - id: rosen1991
+    authors: "Rosen, R."
+    year: 1991
+    title: "Life Itself"
+    source: "Columbia University Press"
+
+  - id: maturana1980
+    authors: "Maturana, H. R., & Varela, F. J."
+    year: 1980
+    title: "Autopoiesis and Cognition: The Realization of the Living"
+    source: "D. Reidel"
+
+  - id: jonas1966
+    authors: "Jonas, H."
+    year: 1966
+    title: "The Phenomenon of Life"
+    source: "Harper & Row"
+
+  - id: kauffman1993
+    authors: "Kauffman, S. A."
+    year: 1993
+    title: "The Origins of Order"
+    source: "Oxford University Press"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    source: "W. W. Norton & Company"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    source: "Cambridge University Press"
+
+  - id: walker2017
+    authors: "Walker, S. I."
+    year: 2017
+    title: "Origins of Life: A Problem for Physics, A Key Issues Review"
+    journal: "Reports on Progress in Physics"
+    volume: "80"
+    pages: "092601"
 ---
 
 ## Why "What Is Life?" Is Still an Open Question

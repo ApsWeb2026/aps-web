@@ -32,6 +32,7 @@ relatedArticles:
   - aps-and-the-edges-of-life-ci
   - aps_ld-life-detection-as-viability-oriented-organisation
   - can-ai-be-alive-an-aps-clarification
+  - biosignatures-detecting-life-as-self-maintaining-organisation
 references:
   - id: bernard1865
     authors: "Bernard, C."
