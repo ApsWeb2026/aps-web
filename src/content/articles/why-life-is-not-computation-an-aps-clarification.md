@@ -163,8 +163,6 @@ Likewise, starvation, injury, or regulatory collapse are not merely computationa
 
 APS therefore locates biological normativity in viability-oriented organisation rather than in algorithmic correctness.
 
-[[box:function-and-normativity-in-biology]]
-
 ## Computation Without Life Is Possible
 
 Computation can occur in systems that are clearly not alive:
@@ -202,8 +200,6 @@ This may involve:
 - restructuring interactions with the environment
 
 Living organisation is therefore not reducible to computation over predefined states. It is an ongoing process of persistence-maintaining transformation.
-
-[[box:constraint-closure-and-self-maintenance]]
 
 ## Constraint Closure and Multi-Scale Organisation
 
