@@ -29,6 +29,7 @@ relatedArticles:
   - evolution
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
+  - description-explanation-and-definition-in-biology
 references:
   - id: mayr1961
     authors: "Mayr, E."

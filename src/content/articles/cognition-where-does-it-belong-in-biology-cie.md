@@ -27,6 +27,7 @@ relatedArticles:
   - aps-diagnostics-empirical-tractability
   - beyond-placeholder-concepts-in-biology-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
+  - description-explanation-and-definition-in-biology
 references:
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."

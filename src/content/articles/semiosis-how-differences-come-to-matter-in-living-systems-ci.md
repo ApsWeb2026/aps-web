@@ -25,6 +25,7 @@ relatedArticles:
   - aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems
   - biological-agency-without-intentions
   - why-life-is-not-information-processing
+  - description-explanation-and-definition-in-biology
 references:
   - id: peirce1931
     authors: "Peirce, C. S."
