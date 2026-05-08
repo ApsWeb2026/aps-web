@@ -85,12 +85,6 @@ references:
     year: 2019
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     source: "Oxford University Press"
-
-  - id: montevil2024
-    authors: "Montévil, M."
-    year: 2024
-    title: "Biological Organisation and Individuation"
-    source: "Contemporary philosophy of biology literature"
 ---
 
 ## What is a biological individual?
