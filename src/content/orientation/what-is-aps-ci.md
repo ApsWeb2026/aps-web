@@ -9,7 +9,7 @@ revised: 2026-04-13
 cluster: conceptual-foundations
 relatedArticles:
  - aps-as-philosophy-viability-oriented-account
-
+ - description-explanation.and-definition-in-biology
 ---
 
 APS is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**.
