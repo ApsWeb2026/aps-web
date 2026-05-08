@@ -34,6 +34,7 @@ relatedArticles:
   - biological-classification-in-aps
   - what-is-a-species-in-aps
   - what-is-a-taxon-in-aps
+  - processual-individual
   - explanatory-priority-is-not-ontological-priority
 references:
   - id: godfrey-smith2009
@@ -84,6 +85,12 @@ references:
     year: 2019
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     source: "Oxford University Press"
+
+  - id: montevil2024
+    authors: "Montévil, M."
+    year: 2024
+    title: "Biological Organisation and Individuation"
+    source: "Contemporary philosophy of biology literature"
 ---
 
 ## What is a biological individual?
@@ -166,6 +173,8 @@ Species and taxa do not themselves regulate, maintain, or sustain viability-orie
 
 This distinction prevents explanatory confusion in which causation or agency is attributed to categories rather than to organised systems.
 
+Species therefore track patterns across evolving lineages of biological and processual individuals rather than constituting higher-order individuals in themselves.
+
 ## Biological vs processual individuals
 
 APS further distinguishes between biological individuals and processual individuals.
@@ -179,6 +188,10 @@ This distinction allows APS to:
 
 Identity therefore becomes a matter of organised persistence rather than static material sameness.
 
+The distinction between biological and processual individuals is analytical rather than ontological. APS does not treat them as separate entities. Rather, the same viability-oriented organisation may be understood synchronically as an organised biological individual and diachronically as a processual continuity sustained through ongoing self-maintenance, adaptation, repair, and transformation across time.
+
+For continuity across time, see also: [[processual-individual]]
+
 ## Individuals across scale
 
 Biological individuality is scale-sensitive but not hierarchically fixed.
@@ -187,7 +200,7 @@ At smaller scales, individuality may correspond to cellular systems. At larger s
 
 APS therefore rejects the idea that individuality belongs exclusively to a single privileged level of biological organisation.
 
-Individuality instead emerges wherever organised persistence becomes sufficiently integrated to sustain viability across time.
+APS instead treats individuality as an organisational condition rather than as a property tied to a fixed biological level.
 
 ## Why individuality matters
 
