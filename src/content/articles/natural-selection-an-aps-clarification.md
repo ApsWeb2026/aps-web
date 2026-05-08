@@ -178,6 +178,10 @@ It does not generate novelty.
 
 It is a **description of differential outcomes** among already viable systems.
 
+Selection may become explanatorily central in evolutionary accounts without thereby becoming an ontologically primary force. APS therefore distinguishes explanatory usefulness from metaphysical status. Selection is an indispensable description of differential persistence across populations, but the organisational conditions that make selection possible remain prior: viability-oriented systems capable of sustaining and reproducing their organisation across time.
+
+## Implications for Biological Explanation
+
 ## Implications for Biological Explanation
 
 Repositioning natural selection has several important consequences:

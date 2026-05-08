@@ -56,6 +56,10 @@ Components such as genes, enzymes, and structures are therefore not denied but r
 
 APS thus separates two questions that are often conflated: what something is made of, and what makes it biologically meaningful. The first is answered by physics and chemistry; the second requires an account of organised, viability-oriented activity.
 
+[[box:explanatory-priority-is-not-ontological-priority]]
+
+This distinction helps explain why reductionist successes so often appear stronger than they are. A model may make genes, mechanisms, molecules, or information explanatorily central without showing that these are ontologically primary. APS accepts the legitimacy of local explanatory focus while denying that such focus identifies what life fundamentally is.
+
 ## Clarifying causation: beyond top-down and bottom-up
 
 Debates about reductionism are frequently expressed in terms of “bottom-up” and “top-down” causation. Bottom-up causation is associated with the influence of components on the system, while top-down causation is associated with the influence of the system on its components.

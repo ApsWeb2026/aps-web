@@ -105,6 +105,14 @@ The problem is not merely conceptual ambiguity, but explanatory orientation. Bio
 
 This creates a recurring explanatory inversion in which concepts abstracted from highly derived forms of viability-oriented organisation are projected back onto life in general. APS reverses this orientation. Rather than beginning with human cognition as the explanatory model, it begins with organised persistence and explains cognition as an emergent refinement of viability-oriented activity across agency, process, and scale.
 
+## Explanatory Priority and Ontological Priority
+
+Explanatory geometry also clarifies why biological theories often appear to compete over what is “really” fundamental. Gene-centred, organism-centred, ecological, informational, and selectionist explanations each foreground different explanatory coordinates. But explanatory foregrounding is not metaphysical primacy.
+
+What becomes central in an explanation depends on the question being asked, the available methods, and the modelling grammar being used. APS treats these as shifts in explanatory geometry rather than evidence that genes, organisms, ecosystems, or information constitute rival ontological foundations of life.
+
+[[box:explanatory-priority-is-not-ontological-priority]]
+
 ## Cognition within the explanatory grammar
 
 The explanatory structure of APS also clarifies the place of cognition within biology. Cognition is not a separate domain layered onto biological organisation, but a specific way in which that organisation becomes structured.

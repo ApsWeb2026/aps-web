@@ -106,6 +106,8 @@ Explanation does not proceed from parts to wholes via unexplained leaps. Instead
 
 What appears as emergence is the outcome of these dynamics viewed at a particular resolution.
 
+This also prevents emergence from being treated as a hierarchy of metaphysically privileged levels. To say that organisation emerges across processes and scales is not to say that higher-order structures become more real than lower-order components, nor that lower-level processes alone possess explanatory primacy. APS instead treats emergence as the ongoing reorganisation of viability-oriented activity across analytically distinct but organisationally inseparable domains.
+
 This has methodological consequences:
 
 - Biological explanation should identify how organisation is produced and maintained  
