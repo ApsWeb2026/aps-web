@@ -87,6 +87,8 @@ Biological explanation is often implicitly organised by a particular mode and di
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
+[[box:description-is-not-explanation]]
+
 Most biological accounts implicitly rely on this structure, but do not make it explicit. As a result, key terms—such as function, adaptation, information, regulation, or cognition—are often used in multiple, partially incompatible ways.
 
 APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale. This includes the organisation of spatial and temporal relations through which processes are distributed and sustained (see *Space, Time, and Organisation in Biology*).

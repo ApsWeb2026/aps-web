@@ -103,6 +103,8 @@ It emerges from the organisation of living systems themselves.
 
 Living systems continuously regulate and reorganise activity relative to conditions affecting their viability. Purpose refers to this organised directionality of activity relative to the maintenance of viable persistence.
 
+[[box:function-is-not-purpose]]
+
 ## Purpose and Viability
 
 Purpose is grounded in viability.
@@ -129,6 +131,9 @@ This viability-relative asymmetry gives biological activity organised directiona
 Purpose therefore arises because living systems regulate activity relative to conditions that matter for persistence.
 
 Normativity grounds purposive organisation.
+
+[[box:norms-are-not-rules]]
+
 
 ## Purpose and Biological Agency
 

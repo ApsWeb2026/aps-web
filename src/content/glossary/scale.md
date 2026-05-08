@@ -68,6 +68,7 @@ references:
 Scale is often treated as a matter of size, level, or descriptive resolution.
 
 Biological organisation is therefore commonly described through hierarchical “levels” such as:
+
 - genes
 - cells
 - tissues
@@ -94,6 +95,8 @@ Living systems persist through organisational relations distributed across multi
 - evolutionary
 
 These are not independent layers of reality. They are mutually constraining aspects of continuous biological organisation.
+
+[[box:scale-is-not-hierarchy]]
 
 ## Scale Is Not Hierarchy
 

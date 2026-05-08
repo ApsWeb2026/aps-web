@@ -105,6 +105,8 @@ But it rejects the stronger claim that life is information processing.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
+[[box:description-is-not-explanation]]
+
 ## What Information Processing Explains Well
 
 Information-based approaches successfully describe:

@@ -102,6 +102,8 @@ But it rejects the claim that life is control.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
+[[box:description-is-not-explanation]]
+
 ## What It Explains Well
 
 Control-theoretic models successfully explain:

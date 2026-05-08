@@ -95,6 +95,8 @@ They are organisational relations defined relative to the maintenance of viable 
 
 A process counts as functional insofar as it contributes to sustaining, restoring, or regulating the organisation through which the system persists.
 
+[[box:function-is-not-purpose]]
+
 ## Function and Viability
 
 Function is grounded in viability.
@@ -122,6 +124,10 @@ Function therefore explains why biological systems exhibit:
 without requiring externally imposed standards or conscious intention.
 
 Malfunction becomes intelligible because living systems persist under normative viability constraints.
+
+[[box:norms-are-not-rules]]
+
+## Function and Biological Organisation
 
 ## Function and Biological Organisation
 

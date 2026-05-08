@@ -62,7 +62,11 @@ This shift has several implications:
 - Apparent “new properties” reflect reconfigured constraint relations, not unexplained additions  
 - Biological organisation is historically continuous, even when it becomes more differentiated  
 
-APS does not deny that higher-order patterns and system-level properties arise in complex biological systems. Rather, it rejects the use of emergence as an explanatory stopping point. The task of explanation is to account for how such organisation is produced, maintained, and transformed through viability-oriented processes. This clarification of emergence is part of a broader pattern in biological explanation, in which widely used concepts capture real phenomena but require grounding in explicit organisational terms.
+APS does not deny that higher-order patterns and system-level properties arise in complex biological systems. Rather, it rejects the use of emergence as an explanatory stopping point. The task of explanation is to account for how such organisation is produced, maintained, and transformed through viability-oriented processes. 
+
+[[box:description-is-not-explanation]]
+
+This clarification of emergence is part of a broader pattern in biological explanation, in which widely used concepts capture real phenomena but require grounding in explicit organisational terms.
 
 [[box:why-aps-replaces-placeholder-concepts]]
 
@@ -109,6 +113,8 @@ Explanation does not proceed from parts to wholes via unexplained leaps. Instead
 What appears as emergence is the outcome of these dynamics viewed at a particular resolution.
 
 This also prevents emergence from being treated as a hierarchy of metaphysically privileged levels. To say that organisation emerges across processes and scales is not to say that higher-order structures become more real than lower-order components, nor that lower-level processes alone possess explanatory primacy. APS instead treats emergence as the ongoing reorganisation of viability-oriented activity across analytically distinct but organisationally inseparable domains.
+
+[[box:scale-is-not-hierarchy]]
 
 This has methodological consequences:
 

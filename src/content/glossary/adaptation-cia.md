@@ -127,6 +127,8 @@ relative to viability constraints.
 
 Adaptive reorganisation therefore reflects viability-oriented agency operating across changing conditions rather than passive adjustment imposed externally upon organisms.
 
+[[box:function-is-not-purpose]]
+
 ## Adaptation and Constraint Closure
 
 Adaptation involves the reorganisation of constraint-closed systems.

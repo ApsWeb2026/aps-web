@@ -53,6 +53,8 @@ From this perspective, the question is not which component is primary, but how l
 
 APS therefore does not choose one privileged level or theoretical vocabulary. It does not claim that genes, organisms, ecosystems, control systems, information flows, or predictive processes are “really” primary. Each may become explanatorily central for particular purposes. But explanatory priority is not ontological priority. APS instead asks what organisational condition must already exist for any of these descriptions to apply to a living system at all.
 
+[[box:scale-is-not-hierarchy]]
+
 APS therefore does not reject these frameworks. It situates them within a broader account of biological organisation, explaining:
 
 - why they succeed  

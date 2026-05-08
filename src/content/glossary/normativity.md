@@ -87,6 +87,8 @@ Some transformations contribute to organised persistence, while others undermine
 
 Normativity refers to this viability-relative asymmetry.
 
+[[box:norms-are-not-rules]]
+
 ## Normativity and Viability
 
 Normativity is grounded in viability.

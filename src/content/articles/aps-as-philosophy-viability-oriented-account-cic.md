@@ -219,6 +219,8 @@ This reflects a broader distinction between analysing systems into parts and und
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
+[[box:description-is-not-explanation]]
+
 In this respect, APS enters into dialogue with philosophical traditions concerned with the conditions of intelligibility. In one sense it echoes the Kantian question concerning what must be true for understanding to become possible at all. APS relocates these conditions, however, from cognition to biological organisation itself. The explanatory constraints are not imposed by the structure of the mind, but emerge from the organisational character of living systems. What is at issue is therefore not the possibility of experience in general, but the conditions under which biological explanation becomes coherent.
 
 This shift has important consequences.
