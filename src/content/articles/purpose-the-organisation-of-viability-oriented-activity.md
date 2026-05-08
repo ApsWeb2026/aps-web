@@ -25,7 +25,7 @@ relatedArticles:
   - normativity-in-biology-why-some-things-matter-to-living-systems
   - biological-agency-the-activity-of-self-maintenance
   - constraint-closure-what-it-does-and-does-not-do
-  - description-explanation.and-definition-in-biology
+  - description-explanation-and-definition-in-biology
 researchStreams: []
 references: []
 ---

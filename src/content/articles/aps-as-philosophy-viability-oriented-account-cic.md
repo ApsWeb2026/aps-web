@@ -48,7 +48,7 @@ relatedArticles:
   - from-life-to-explanation-emerging-architecture
   - analysis-synthesis-and-the-direction-of-explanation
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - description-explanation.and-definition-in-biology
+  - description-explanation-and-definition-in-biology
 
 references:
   - id: aristotle

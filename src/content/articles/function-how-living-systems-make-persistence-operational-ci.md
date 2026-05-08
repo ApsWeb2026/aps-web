@@ -26,7 +26,7 @@ relatedArticles:
   - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
   - biological-causation-from-mechanism-to-organised-persistence
   - constraint-closure-what-it-does-and-does-not-do
-  - description-explanation.and-definition-in-biology
+  - description-explanation-and-definition-in-biology
 researchStreams: []
 references: []
 ---

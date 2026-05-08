@@ -27,7 +27,7 @@ relatedArticles:
   - biological-explanation-what-needs-to-be-explained
   - biological-causation-from-mechanism-to-organised-persistence
   - why-aps-is-not-hierarchical
-  - description-explanation.and-definition-in-biology
+  - description-explanation-and-definition-in-biology
 ---
 
 ## Why this distinction matters

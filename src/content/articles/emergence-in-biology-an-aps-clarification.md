@@ -26,7 +26,7 @@ relatedArticles:
   - from-life-to-explanation-emerging-architecture
   - design-in-nature-an-aps-clarification
   - beyond-placeholder-concepts-in-biology-an-aps-clarification
-  - description-explanation.and-definition-in-biology
+  - description-explanation-and-definition-in-biology
 
 ---
 
