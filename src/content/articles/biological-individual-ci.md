@@ -34,7 +34,7 @@ relatedArticles:
   - biological-classification-in-aps
   - what-is-a-species-in-aps
   - what-is-a-taxon-in-aps
-  - processual-individual
+  - processual-individual-in-aps
   - explanatory-priority-is-not-ontological-priority
 references:
   - id: godfrey-smith2009

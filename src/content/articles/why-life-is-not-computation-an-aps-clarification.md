@@ -34,10 +34,9 @@ relatedGlossaryTerms:
 relatedArticles:
   - why-life-is-not-information-processing
   - why-life-is-not-intelligence-an-aps-clarification
-  - why-life-is-not-a-machine-an-aps-clarification
+  - why-life-is-not-a-machine
   - can-ai-be-alive-an-aps-clarification
-  - active-inference-an-aps-clarification
-  - function-in-biology
+  - why-life-is-not-active-inference
   - malfunction-breakdown-and-death
   - biological-agency-without-intentions
   - semiosis-how-differences-come-to-matter-in-living-systems
