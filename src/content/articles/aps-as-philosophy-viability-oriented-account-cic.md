@@ -181,6 +181,10 @@ APS does not reject mechanistic explanation where mechanistic explanation is app
 
 This shift is crucial. APS does not merely introduce additional concepts into biology. It reconstructs the explanatory relations between concepts already central to biological practice. Function, normativity, purpose, semiosis, cognition, adaptation, and evolution are no longer treated as partially disconnected explanatory domains requiring separate philosophical treatment. They become integrated consequences of viability-oriented organisation itself.
 
+APS therefore proposes not a rejection of scientific biology, but a reorganisation of what biological explanation treats as explanatorily fundamental.
+
+[[box:what-aps-changes-and-what-it-does-not]]
+
 In this respect, APS belongs within a long historical effort to understand the distinctive character of living systems while avoiding both reductive mechanism and mysterious vitalism. Like earlier traditions in theoretical biology and philosophy of biology, it recognises that living systems cannot be adequately understood as passive aggregates of components alone. APS differs, however, in seeking a unified organisational grammar capable of integrating persistence, agency, normativity, semiosis, cognition, and evolutionary transformation within a single explanatory architecture.
 
 The return of philosophy therefore reflects a maturation of biology rather than a retreat from science.

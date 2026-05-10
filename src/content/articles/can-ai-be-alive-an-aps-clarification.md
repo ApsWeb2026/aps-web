@@ -337,6 +337,10 @@ Many contemporary debates assume that sufficiently advanced intelligence will ev
 
 APS rejects this assumption.
 
+The issue is therefore not whether artificial systems can become increasingly sophisticated, but whether sophistication alone explains what makes a system alive.
+
+[[box:what-aps-changes-and-what-it-does-not]]
+
 Life is not fundamentally:
 - computation,
 - optimisation,

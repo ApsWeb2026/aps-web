@@ -216,6 +216,10 @@ Life is not defined by isolated computations, but by the integrated organisation
 
 APS does not reject computation. It repositions it.
 
+The issue is therefore not whether computational descriptions are scientifically useful, but whether computation alone explains what makes living systems biological.
+
+[[box:what-aps-changes-and-what-it-does-not]]
+
 Within APS:
 
 - computation is a descriptive framework for certain biological processes

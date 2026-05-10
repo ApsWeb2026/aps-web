@@ -205,6 +205,10 @@ APS does not reject mechanistic explanation.
 
 It places it within a broader framework.
 
+The issue is therefore not whether mechanisms are real, but whether mechanism alone explains what makes living systems biological.
+
+[[box:what-aps-changes-and-what-it-does-not]]
+
 In APS:
 
 - mechanisms describe how processes are organised  

@@ -108,6 +108,10 @@ APS intervenes at this level by asking:
 
 What organisation makes these claims meaningful?
 
+APS therefore changes not the empirical content of biology, but the organisational basis upon which biological explanation is grounded.
+
+[[box:what-aps-changes-and-what-it-does-not]]
+
 The framework consistently re-anchors explanation in viability-oriented, constraint-closed organisation rather than in outcomes, abstractions, or metaphorical shorthand.
 
 ## Definitional Language
