@@ -22,7 +22,7 @@ To see how APS develops this framework into a structured account of biological e
 
 → [How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)
 
-APS begins from a specific understanding of what a living system is.
+APS proposes that life is best understood as organised self-maintenance rather than as a collection of parts, traits, or historical achievements.
 
 ## Agency
 

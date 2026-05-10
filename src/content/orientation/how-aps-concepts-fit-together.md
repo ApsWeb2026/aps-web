@@ -234,4 +234,4 @@ The framework therefore maintains distinctions that are often collapsed elsewher
 
 This can initially make APS feel conceptually dense. But the complexity reflects the organisation of living systems themselves rather than instability in the framework.
 
-Seen in this way, APS is not a collection of disconnected concepts, but a unified explanatory perspective on living organisation.
+Seen in this way, APS is not a collection of disconnected concepts, but a unified explanatory perspective on living organisation. APS proposes that life is best understood as organised self-maintenance rather than as a collection of parts, traits, or historical achievements.
