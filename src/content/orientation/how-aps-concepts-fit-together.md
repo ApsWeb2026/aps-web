@@ -179,12 +179,38 @@ It does not.
 
 Instead, it establishes a methodological order:
 
-1. First determine whether a system is presently organised in a viability-oriented way.
-2. Then examine how that organisation arose, persists, or changes historically.
+- First determine whether a system is presently organised in a viability-oriented way.
+- Then examine how that organisation arose, persists, or changes historically.
 
 This prevents evolutionary success alone from being mistaken for present biological agency.
 
 Evolution remains indispensable within APS, but it presupposes systems already organised such that their persistence matters to them.
+
+## What APS Changes — and What It Does Not
+
+APS changes what biology treats as explanatorily fundamental.
+
+Traditional biological explanation often begins with:
+- components,
+- mechanisms,
+- traits,
+- or historical outcomes.
+
+APS instead begins with organised viability-maintenance: the ongoing activity through which living systems sustain the conditions of their own persistence.
+
+This shifts the explanatory centre of biology from:
+
+- components → mechanisms → outcomes
+
+toward:
+
+- organisation → activity → stabilised features.
+
+Importantly, APS does not propose a special life substance, separate physical laws, or non-natural causal forces. Living systems remain fully continuous with chemistry and physics. Agency, normativity, and purpose are understood as organisational features of living systems rather than as external metaphysical additions.
+
+The shift is therefore not a rejection of scientific explanation, but a reorganisation of biological explanation itself. APS changes what biology treats as explanatorily primary: not isolated components or historical success alone, but the organised activity through which living systems maintain themselves across time.
+
+In this sense, APS represents an explanatory and ontological re-centring within biology rather than the introduction of a separate realm of existence.
 
 ## A Simple Way to Hold APS Together
 

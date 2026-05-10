@@ -10,11 +10,10 @@ cluster: historical-context
 abstract: >
   APS approaches intellectual history not simply as a sequence of doctrines or discoveries, but as the historical transformation of explanatory grammars. Different periods organise understanding through different assumptions about causation, organisation, persistence, and explanation itself. This article argues that the history of ideas can therefore be understood partly as the history of changing explanatory structures through which reality becomes intelligible.
 relatedArticles:
-  - aps-as-philosophy
-  - explanation-in-biology
   - description-explanation-and-definition-in-biology
   - aps-and-contemporary-theories
   - how-aps-concepts-fit-together
+  - understanding-aps-the-structure-of-the-framework
 relatedGlossaryTerms:
   - process
   - scale
