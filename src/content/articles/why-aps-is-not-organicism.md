@@ -22,18 +22,16 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - explanatory-geometry-of-biology
-  - reductionism
+  - reductionism-in-biology-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
-  - systems-theory-and-aps
-  - autopoiesis-and-aps
+  - aps-and-systems-theory
+  - why-life-is-not-autopoiesis
   - why-life-is-not-a-machine
   - understanding-aps-the-structure-of-the-framework
 
 references:
   - id: nicholson-gawne-2015
-    authors:
-      - Nicholson, D. J.
-      - Gawne, R.
+    authors: "Nicholson, D. J. and Gawne, R."
     year: 2015
     title: "Neither Logical Empiricism nor Vitalism, but Organicism: What the Philosophy of Biology Was"
     journal: "History and Philosophy of the Life Sciences"
@@ -42,8 +40,7 @@ references:
     doi: "10.1007/s40656-015-0085-7"
 
   - id: nicholson-2014
-    authors:
-      - Nicholson, D. J.
+    authors: "Nicholson, D. J."
     year: 2014
     title: "The Return of the Organism as a Fundamental Explanatory Concept in Biology"
     journal: "Philosophy Compass"
@@ -52,8 +49,7 @@ references:
     doi: "10.1111/phc3.12128"
 
   - id: nicholson-2013
-    authors:
-      - Nicholson, D. J.
+    authors: "Nicholson, D. J."
     year: 2013
     title: "Organisms ≠ Machines"
     journal: "Studies in History and Philosophy of Biological and Biomedical Sciences"
@@ -62,48 +58,38 @@ references:
     doi: "10.1016/j.shpsc.2013.05.014"
 
   - id: nicholson-dupre-2018
-    authors:
-      - Nicholson, D. J.
-      - Dupré, J.
+    authors: "Nicholson, D. J. and Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: dupre-nicholson-2018
-    authors:
-      - Dupré, J.
-      - Nicholson, D. J.
+    authors: "Dupré, J. and Nicholson, D. J."
     year: 2018
     title: "A Manifesto for a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
     note: "Chapter in Everything Flows: Towards a Processual Philosophy of Biology"
 
   - id: walsh-2015
-    authors:
-      - Walsh, D. M.
+    authors: "Walsh, D. M."
     year: 2015
     title: "Organisms, Agency, and Evolution"
     publisher: "Cambridge University Press"
 
   - id: mossio-2023
-    authors:
-      - Mossio, M.
+    authors: "Mossio, M."
     year: 2023
     title: "Organization in Biology"
     publisher: "Springer"
 
   - id: montevil-mossio-2015
-    authors:
-      - Montévil, M.
-      - Mossio, M.
+    authors: "Montévil, M. and Mossio, M."
     year: 2015
     title: "Biological Organisation as Closure of Constraints"
     publisher: "Springer"
 
   - id: gilbert-sarkar-2000
-    authors:
-      - Gilbert, S. F.
-      - Sarkar, S.
+    authors: "Gilbert, S. F. and Sarkar, S."
     year: 2000
     title: "Embracing Complexity: Organicism for the 21st Century"
     journal: "Developmental Dynamics"
@@ -211,8 +197,6 @@ APS therefore does not reject mechanistic explanation. Instead, it situates mech
 Similarly, APS does not invoke mysterious holistic forces or organismic essences. Organisational properties are explanatorily relevant only insofar as they correspond to identifiable patterns of constraint, regulation, and viability maintenance with observable consequences for system persistence.
 
 In this respect APS attempts to preserve the strongest explanatory insights of organicism while avoiding its historical ambiguities.
-
-[[box:mechanism-vitalism-organicism-and-aps]]
 
 ## APS and Contemporary Organisational Biology
 
