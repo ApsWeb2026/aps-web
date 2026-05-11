@@ -25,9 +25,9 @@ relatedGlossaryTerms:
   - process
   - adaptation
 relatedArticles:
-  - what-is-life-in-aps
+  - what-is-life-a-biological-question-revisited
   - how-to-diagnose-a-biological-system
-  - aps-ld-life-detection-and-organised-persistence
+  - aps_ld-life-detection-as-viability-oriented-organisation
   - malfunction-breakdown-and-death
   - biological-agency-without-intentions
 references:
