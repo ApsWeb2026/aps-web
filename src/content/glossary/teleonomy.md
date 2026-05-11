@@ -1,5 +1,6 @@
 ---
-term: teleonomy
+date: 2026-05-11
+title: Teleonomy
 slug: teleonomy
 status: canonical
 canonical: true
@@ -11,6 +12,12 @@ definition: >
   design. In APS, teleonomy is interpreted as an historically important attempt
   to naturalise purposive biological organisation through evolutionary and
   organisational processes.
+
+inBrief: >
+  Teleonomy describes apparently goal-directed biological organisation without
+  invoking conscious intention or external design. APS incorporates this insight
+  while grounding purposive organisation more directly in viability-oriented
+  persistence.
 
 cluster: conceptual-foundations
 
@@ -56,7 +63,6 @@ references:
     year: 2016
     title: "A Critical Overview of Biological Functions"
     publisher: "Springer"
-
 ---
 
 Teleonomy refers to the apparent purposiveness of living systems understood without invoking conscious intention, foresight, or external design.
