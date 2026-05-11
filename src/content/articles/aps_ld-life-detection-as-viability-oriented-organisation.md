@@ -8,6 +8,7 @@ cluster: "empirical-interface"
 revised: "2026-04-03"
 relatedArticles:
 - biosignatures-detecting-life-as-self-maintaining-organisation
+- definition-and-diagnosis-in-aps
 ---
 
 ## Overview
@@ -48,6 +49,8 @@ This reframing introduces a distinction between:
 APS_LD is concerned with establishing the latter.
 
 [[box:aps-box-diagnosis-and-biosignatures]]
+
+APS therefore treats life detection as a diagnostic problem concerning organised persistence rather than as a search for isolated defining traits.
 
 ## From Biosignatures to Organisational Indicators
 

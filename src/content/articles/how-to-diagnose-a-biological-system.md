@@ -33,6 +33,7 @@ relatedArticles:
   - aps_ld-life-detection-as-viability-oriented-organisation
   - can-ai-be-alive-an-aps-clarification
   - biosignatures-detecting-life-as-self-maintaining-organisation
+  - definition-and-diagnosis-in-aps
 references:
   - id: bernard1865
     authors: "Bernard, C."
