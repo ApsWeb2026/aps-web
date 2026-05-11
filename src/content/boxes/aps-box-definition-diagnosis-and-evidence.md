@@ -12,24 +12,24 @@ cluster: empirical-interface
 
 In APS, definition, diagnosis, and evidence must not be confused.
 
-**Definition** concerns what life *is*: viability-oriented, constraint-closed organisation sustained across time.
+**Definition** concerns what life *is*: viability-oriented, constraint-closed organisation sustained through ongoing self-maintaining activity.
 
-**Diagnosis** concerns how such organisation is identified. In APS this often involves perturbation-based assessment of whether a system reorganises itself in ways that preserve viability and organisational coherence.
+**Diagnosis** concerns how such organisation is recognised. In APS this involves evaluating how a system maintains, restores, or reorganises its persistence under conditions of perturbation and vulnerability.
 
-**Evidence** consists of observable features supporting such a diagnosis, including:
+**Evidence** consists of observable indications of organised persistence, including:
 - endogenous repair,
 - coordinated regulation,
 - metabolic integration,
-- viability-oriented modulation,
-- and persistence-maintaining reorganisation.
+- adaptive reorganisation,
+- and viability-oriented modulation of activity.
 
-APS therefore treats biological evidence not as a checklist of traits, but as evidence for organised persistence.
+APS therefore treats biological evidence not as a checklist of traits, but as evidence for self-maintaining organisation.
 
 A system may:
 - move without being alive,
 - adapt without possessing biological agency,
-- or exhibit complex behaviour without sustaining its own viability.
+- or exhibit complex behaviour without internally grounded viability.
 
-For this reason, APS asks not merely what a system *does*, but how its organisation contributes to its continued existence.
+For this reason, APS asks not merely what a system *does*, but whether its organisation actively contributes to sustaining its continued existence.
 
-**Key Point:** Biological evidence reveals organisation, not merely activity.
+**Key Point:** Biological evidence reveals organised persistence under conditions of vulnerability, not merely activity or complexity.
