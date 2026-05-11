@@ -48,6 +48,17 @@ references:
     source: "arXiv"
     url: "https://arxiv.org/abs/2602.08079"
     note: "Preprint"
+  - id: moreno-mossio-2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: mossio-2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
 ---
 
 # APS and Contemporary Theories
@@ -144,6 +155,20 @@ The framework attempts to clarify:
 - and how their insights may be integrated within a broader account of biological organisation
 
 For the broader philosophical reconstruction of APS as an account of biological intelligibility, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+
+## APS and Organisational Biology
+
+Among contemporary approaches to theoretical biology, organisational and autonomy-based frameworks are among the closest conceptual neighbours to APS.
+
+Work associated with organisational biology — especially theories of autonomy, constraint closure, and self-maintaining organisation — has played a major role in challenging reductionist and mechanistic conceptions of life. These approaches argue that living systems cannot be adequately understood as merely collections of independently functioning parts. Organisms instead exist through dynamically organised networks of mutually enabling constraints continuously regenerating the conditions of their own persistence (Moreno and Mossio 2015; Mossio 2023).
+
+APS strongly converges with these insights.
+
+The framework likewise treats living systems as organisationally constituted, dynamically maintained, and intrinsically normative. Biological functions are understood in relation to the persistence of organised systems rather than as isolated mechanical effects, while failure, malfunction, repair, and adaptation become intelligible only relative to the continued viability of the organisation itself.
+
+At the same time, APS attempts to extend organisational approaches in several important ways.
+
+First, APS places greater emphasis on temporally extended persistence processes rather than organisational structure alone. Living systems are not merely organised states but continuously unfolding persistence dynamics.
 
 ## Comparative Clarification Articles
 
