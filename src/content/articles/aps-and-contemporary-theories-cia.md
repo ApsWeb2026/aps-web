@@ -33,7 +33,7 @@ relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology
-  - reductionism
+  - reductionism-in-biology-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
   - what-is-life-a-biological-question-revisited
   - aps-and-systems-theory
@@ -143,7 +143,7 @@ The framework attempts to clarify:
 - where their explanatory limits begin
 - and how their insights may be integrated within a broader account of biological organisation
 
-For the broader philosophical reconstruction of APS as an account of biological intelligibility, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/orientation/aps-as-philosophy-viability-oriented-account/)*.
+For the broader philosophical reconstruction of APS as an account of biological intelligibility, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
 
 ## Comparative Clarification Articles
 
@@ -199,7 +199,7 @@ These articles may be read independently depending upon the reader’s interests
 For a more structured pathway through the framework:
 
 - Begin with **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)** for the central APS account of living organisation.
-- Read **[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/orientation/aps-as-philosophy-viability-oriented-account/)** for the broader philosophical reconstruction of biological intelligibility.
+- Read **[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)** for the broader philosophical reconstruction of biological intelligibility.
 - Explore the comparative clarification articles to understand how APS differs from influential contemporary approaches.
 - Read the integration articles to see how APS relates to systems theory, autonomy theory, and contemporary evolutionary frameworks.
 

@@ -40,7 +40,7 @@ relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - explanatory-geometry-of-biology
   - analysis-synthesis-and-the-direction-of-explanation
-  - reductionism
+  - reductionism-in-biology-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
   - explanatory-priority-is-not-ontological-priority
 
