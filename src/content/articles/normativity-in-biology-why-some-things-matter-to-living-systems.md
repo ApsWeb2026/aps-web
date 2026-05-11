@@ -39,7 +39,6 @@ relatedArticles:
   - malfunction-breakdown-and-death
   - biological-agency-the-activity-of-self-maintenance
   - biological-goals-without-mentalism
-  - what-aps-means-by-cognition
   - description-explanation-and-definition-in-biology
   - biological-causation-from-mechanism-to-organised-persistence
 

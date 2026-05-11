@@ -40,7 +40,7 @@ relatedArticles:
   - aps-and-the-edges-of-life-ci
   - adaptation-how-living-systems-sustain-themselves-through-change
   - biological-agency-without-intentions
-  - why-life-is-not-a-machine-an-aps-clarification
+  - why-life-is-not-a-machine
   - description-explanation-and-definition-in-biology
 
 references:
