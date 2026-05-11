@@ -219,6 +219,8 @@ Biosignatures infer it observationally.
 
 This distinction is crucial because it prevents biosignatures from being mistaken for definitive proof while still allowing principled empirical inference.
 
+[[box:perturbation-reveals-organisation]]
+
 [[box:aps-box-diagnosis-and-biosignatures]]
 
 ## Biosignatures as Patterns of Viability
@@ -229,7 +231,6 @@ Living systems characteristically exhibit:
 - sustained activity far from equilibrium,
 - persistence despite material turnover,
 - adaptive regulation,
-- recovery from disturbance,
 - selective responsiveness,
 - and long-term organisational coherence.
 

@@ -140,6 +140,8 @@ A system may simulate agency behaviourally without possessing the organisational
 
 This distinction is essential because behaviour alone does not determine whether something is alive.
 
+[[box:perturbation-reveals-organisation]]
+
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
 ## What APS Means by Life

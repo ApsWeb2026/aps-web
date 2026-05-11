@@ -28,7 +28,50 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
   - description-explanation-and-definition-in-biology
 researchStreams: []
-references: []
+references:
+  - id: wright1973
+    authors: "Wright, L."
+    year: 1973
+    title: "Functions"
+    journal: "The Philosophical Review"
+    volume: "82"
+    pages: "139–168"
+    doi: "10.2307/2183766"
+
+  - id: millikan1984
+    authors: "Millikan, R. G."
+    year: 1984
+    title: "Language, Thought, and Other Biological Categories"
+    publisher: "MIT Press"
+
+  - id: neander1991
+    authors: "Neander, K."
+    year: 1991
+    title: "Functions as Selected Effects: The Conceptual Analyst's Defense"
+    journal: "Philosophy of Science"
+    volume: "58"
+    pages: "168–184"
+
+  - id: cummins1975
+    authors: "Cummins, R."
+    year: 1975
+    title: "Functional Analysis"
+    journal: "The Journal of Philosophy"
+    volume: "72"
+    pages: "741–765"
+    doi: "10.2307/2024640"
+
+  - id: garson2016
+    authors: "Garson, J."
+    year: 2016
+    title: "A Critical Overview of Biological Functions"
+    publisher: "Springer"
+
+  - id: morenomossio2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
 ---
 
 Biological systems are often described in terms of what their parts do—hearts pump blood, leaves capture light, and enzymes catalyse reactions. These descriptions appear straightforward, but they conceal a deeper question: what makes a process or structure count as having a function at all?
@@ -90,6 +133,8 @@ Because living systems must sustain their organisation, processes can succeed or
 Normativity is therefore not added to function—it is what makes function intelligible.
 
 Function identifies what counts as effective within a viability-oriented system.
+
+[[box:failure-reveals-organisation]]
 
 ## Function and Constraint Closure
 

@@ -5,35 +5,45 @@ slug: how-to-diagnose-a-biological-system
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-05-07
+revised: 2026-05-11
 cluster: empirical-interface
+
 abstract: >
-  This article presents the diagnostic method of the Agency–Process–Scale (APS) framework. APS diagnosis evaluates viability-oriented organisation through perturbation, endogenous regulation, and persistence-maintaining activity rather than through trait lists or static classification. The article outlines a practical diagnostic sequence while clarifying the conceptual foundations that make biological diagnosis explanatory rather than merely descriptive.
+  This article presents the diagnostic method of the Agency–Process–Scale (APS)
+  framework. APS diagnosis evaluates viability-oriented organisation through
+  perturbation, endogenous regulation, and persistence-maintaining activity
+  rather than through trait lists or static classification. Diagnosis in APS is
+  explanatory, organisational, and graded rather than merely classificatory.
+
 keyPoints:
-  - APS diagnosis evaluates viability-oriented organisation rather than isolated traits or components.
-  - Perturbation is the primary diagnostic method because disruption reveals organisational structure.
+  - APS diagnosis evaluates viability-oriented organisation rather than isolated traits.
+  - Perturbation is diagnostically central because disruption reveals organisational structure.
   - Biological systems actively regulate conditions relevant to their own persistence.
-  - Diagnosis in APS is graded and explanatory rather than purely classificatory.
-  - Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI) provide diagnostic dimensions rather than rigid categories.
+  - APS diagnosis is graded and explanatory rather than purely classificatory.
+  - Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI) function as diagnostic dimensions rather than rigid categories.
+  - Biosignatures are evidential indicators of organisation rather than definitions of life.
+
 relatedGlossaryTerms:
   - viability
-  - perturbation
+  - persistence
   - biological-agency
   - normativity
-  - persistence
   - constraint-closure
   - evaluation
   - cognition
   - semiosis
+  - scale-coupling
+
 relatedArticles:
+  - aps-as-philosophy-viability-oriented-account
+  - description-explanation-and-definition-in-biology
   - aps-diagnostics-empirical-tractability
-  - what-is-biological-diagnosis-in-aps
-  - what-is-a-biological-system
-  - aps-and-the-edges-of-life-ci
   - aps_ld-life-detection-as-viability-oriented-organisation
   - can-ai-be-alive-an-aps-clarification
   - biosignatures-detecting-life-as-self-maintaining-organisation
-  - definition-and-diagnosis-in-aps
+  - aps-and-the-edges-of-life-ci
+  - what-is-a-biological-system
+
 references:
   - id: bernard1865
     authors: "Bernard, C."
@@ -54,13 +64,13 @@ references:
     source: "Columbia University Press"
 
   - id: maturana1980
-    authors: "Maturana, H. R., & Varela, F. J."
+    authors: "Maturana, H. R.; Varela, F. J."
     year: 1980
     title: "Autopoiesis and Cognition: The Realization of the Living"
     source: "D. Reidel"
 
   - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
+    authors: "Moreno, A.; Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     source: "Springer"
@@ -86,47 +96,50 @@ references:
 
 # How to Diagnose a Biological System — An APS Method
 
-APS diagnosis begins from a fundamental biological question:
+APS diagnosis begins from a foundational biological question:
 
 > How does a system sustain itself as a viable organisation across time?
 
-Traditional biological diagnosis often identifies:
+Traditional diagnostic approaches often identify:
 - traits,
-- mechanisms,
 - molecular markers,
-- or behavioural indicators.
+- behavioural capacities,
+- or structural properties.
 
 APS reframes diagnosis organisationally.
 
 A biological system is not identified merely by what it contains or what it appears to do, but by how its organisation contributes to the maintenance of its own persistence.
 
-Diagnosis therefore becomes the evaluation of viability-oriented organisation.
+Diagnosis therefore becomes the evaluation of viability-oriented organised persistence.
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
-## From Classification to Explanation
+## From Classification to Organisational Explanation
 
-Conventional diagnosis often operates classificatorily.
+Conventional biological diagnosis frequently operates classificatorily.
 
-A system is identified as living because it:
-- metabolises,
-- reproduces,
-- grows,
-- responds,
-- or possesses specific molecular structures.
+Systems are identified as living because they:
+- metabolise,
+- reproduce,
+- grow,
+- respond,
+- evolve,
+- or possess particular molecular structures.
 
-These criteria can be useful, but they do not explain why such features matter biologically.
+Such criteria can be useful operationally.
+However, they do not by themselves explain why these features matter biologically.
 
 APS therefore shifts the diagnostic question:
 
-- from “What traits are present?”  
-- to “How does this organisation sustain itself?”
+- from “What traits are present?”
+- to “How is organised persistence maintained?”
 
-This transforms diagnosis from:
+This shift transforms diagnosis from:
 - static classification,
-- into explanatory evaluation.
+into:
+- explanatory evaluation.
 
-The goal is not merely to assign systems to categories, but to understand how persistence is organised and maintained.
+The goal is not merely to assign systems to categories, but to understand how viability-oriented organisation is sustained across time and scale.
 
 ## What APS Diagnoses
 
@@ -134,24 +147,25 @@ APS evaluates whether a system:
 - maintains the conditions of its own persistence,
 - regulates itself relative to viability,
 - reorganises under perturbation,
-- and sustains coherence across time and scale.
+- and sustains organisational coherence across time.
 
 The diagnostic target is therefore not:
 - metabolism alone,
 - adaptive behaviour alone,
 - or information processing alone,
 
-but the organised activity through which a system continues to exist as a unified process.
+but the organised activity through which a system continues to exist as a unified biological process.
 
-This means that biological diagnosis concerns:
+This means biological diagnosis concerns:
 - organisation,
 - regulation,
 - persistence,
-- and endogenous activity.
+- endogenous activity,
+- and scale-coupled coordination.
 
 ## Why Trait Lists Are Insufficient
 
-Trait-list approaches fail because many non-living systems exhibit life-like properties.
+Trait-list approaches remain limited because many non-living systems display life-like properties.
 
 For example:
 - crystals grow,
@@ -159,13 +173,16 @@ For example:
 - machines regulate,
 - and artificial systems may optimise or adapt.
 
-Yet these systems do not necessarily sustain themselves as viability-oriented organisations.
+Yet such systems do not necessarily sustain themselves as viability-oriented organisations.
 
-APS therefore asks a deeper question:
+APS therefore asks a deeper diagnostic question:
 
-> Do these processes contribute to the system’s own persistence?
+> Do these processes contribute to the system’s own organised persistence?
 
-A trait becomes biologically meaningful only when embedded within an organisation that actively maintains itself across time.
+A trait becomes biologically meaningful only when embedded within an organisation actively contributing to the maintenance of viability across time.
+
+Traits alone therefore do not diagnose life.
+Organisation does.
 
 ## Perturbation as the Primary Diagnostic Method
 
@@ -173,7 +190,7 @@ APS diagnosis is fundamentally perturbational.
 
 This is because organisation becomes most visible when it is challenged.
 
-Under perturbation, a system may:
+Under perturbation, systems may:
 - degrade,
 - remain externally stabilised,
 - compensate,
@@ -182,30 +199,63 @@ Under perturbation, a system may:
 
 These responses reveal whether the system actively contributes to maintaining its own persistence.
 
-A living system does not merely undergo change. It modulates its own organisation relative to viability.
+A living system does not merely undergo change.
+It modulates its organisation relative to viability conditions.
 
-Perturbation therefore provides a principled method for evaluating:
+Perturbation therefore provides a principled diagnostic method for evaluating:
 - biological agency,
-- functional integration,
 - organisational dependence,
-- and endogenous regulation.
+- functional integration,
+- endogenous regulation,
+- and viability-oriented persistence.
 
-[[box:aps-box-diagnosis-and-biosignatures]]
+[[box:perturbation-reveals-organisation]]
+
+## Definition, Diagnosis, and Evidence
+
+APS distinguishes carefully between:
+- definition,
+- diagnosis,
+- and evidence.
+
+Definition concerns what life is.
+Diagnosis concerns how living organisation is identified.
+Evidence concerns observable indicators supporting that diagnosis.
+
+This distinction is essential because biosignatures, traits, molecular markers, or behavioural indicators do not define life by themselves.
+
+They function as evidence that may support inference to underlying organisation.
+
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
+APS diagnosis therefore does not search for isolated “signs of life.”
+It evaluates evidence relative to an explanatory account of organised persistence.
 
 ## The APS Diagnostic Sequence
 
 APS diagnosis proceeds through a series of organisational evaluations.
 
-These are not rigid algorithmic steps, but a structured interpretive framework for evaluating biological organisation.
+These are not rigid algorithmic steps.
+They form a structured interpretive framework for analysing biological organisation.
 
-### Step 1 — Identify the System as an Organised Whole
+| Diagnostic Dimension | APS Diagnostic Question |
+|---|---|
+| Organisational coherence | Does the system function as an integrated persistence-maintaining organisation? |
+| Constraint closure | Do processes regenerate conditions enabling other processes? |
+| Viability orientation | Is activity organised relative to conditions of persistence? |
+| Perturbation response | Can the system reorganise under disruption? |
+| Scale coupling | Is organisation coordinated across interacting temporal and spatial scales? |
+| Evidence | What observable patterns support these inferences? |
+
+### Step 1 — Identify the Organised System
 
 Diagnosis begins by identifying the system under investigation.
 
-In APS, biological systems are not defined merely by physical boundaries, but by functional coherence and persistence-maintaining organisation.
+In APS, biological systems are not defined solely by physical boundaries, but by persistence-maintaining organisational coherence.
 
-The critical question is:
-> What processes collectively contribute to the system’s continued existence?
+The central question becomes:
+
+> What processes collectively contribute to the continued existence of this organisation?
 
 Diagnosis therefore requires identifying:
 - organisational integration,
@@ -214,34 +264,28 @@ Diagnosis therefore requires identifying:
 
 ### Step 2 — Assess Constraint Closure
 
-The next step is determining whether processes are mutually sustaining.
+The next step evaluates whether processes are mutually sustaining.
 
 Biological systems exhibit forms of constraint closure in which:
 - processes maintain conditions enabling other processes,
-- organisational relations are interdependent,
+- organisational relations are reciprocally dependent,
 - and activity contributes to maintaining system coherence.
 
-APS therefore asks:
-- whether processes are functionally integrated,
-- whether organisational relations are internally dependent,
-- and whether activity contributes to sustaining the system as a whole.
-
-Constraint closure is necessary for biological systems, but not sufficient.
-
-A system may exhibit closure while failing to sustain viability.
+Constraint closure is therefore diagnostically important because it identifies whether persistence is internally organised rather than externally imposed.
 
 ### Step 3 — Apply Perturbation
 
 Diagnosis becomes most informative under perturbation.
 
 Perturbations may include:
-- environmental change,
-- internal disruption,
+- environmental disruption,
 - resource limitation,
 - structural damage,
+- internal dysregulation,
 - or altered organisational conditions.
 
-The purpose of perturbation is not destruction, but revelation.
+The purpose of perturbation is not destruction.
+It is revelation.
 
 Perturbation exposes:
 - organisational dependencies,
@@ -250,24 +294,27 @@ Perturbation exposes:
 
 ### Step 4 — Evaluate Organisational Response
 
-Following perturbation, APS distinguishes several broad diagnostic outcomes.
+Following perturbation, APS distinguishes several broad organisational outcomes.
 
 #### Degradation
+
 The system fails to restore viable conditions and moves toward breakdown.
 
 #### External Stabilisation
+
 The system persists only through externally imposed maintenance.
 
 #### Endogenous Reorganisation
+
 The system reorganises its own activity in ways that restore viability.
 
 Only the third case demonstrates biological agency in the APS sense.
 
-The crucial question is whether restoration arises from the organisation of the system itself.
+The key issue is whether restoration arises from the organisation of the system itself.
 
 ### Step 5 — Assess Viability Gradient (VG)
 
-Biological organisation is not binary.
+Biological organisation is not strictly binary.
 
 Systems differ in:
 - resilience,
@@ -280,36 +327,37 @@ The Viability Gradient (VG) captures this variation.
 Systems with high VG:
 - sustain coherence robustly,
 - recover effectively,
-- and maintain viability across perturbations.
+- and maintain viability across perturbation.
 
 Systems with low VG:
 - degrade easily,
 - exhibit fragile organisation,
-- or depend heavily upon external support.
+- or depend heavily upon external scaffolding.
 
-VG is therefore a diagnostic dimension rather than a rigid metric.
+VG therefore functions as a diagnostic dimension rather than a rigid metric.
 
 ### Step 6 — Assess Normativity Gradient (NG)
 
-Biological systems do not merely persist mechanically.
-
-They differentiate between:
+Biological systems differentiate between:
 - viable and non-viable conditions,
-- beneficial and damaging states,
-- and persistence-supporting versus persistence-undermining activity.
+- persistence-supporting and persistence-undermining states,
+- and beneficial versus damaging organisational activity.
 
 The Normativity Gradient (NG) evaluates the extent to which:
-- activity is directed toward viability,
+- activity is organised relative to viability,
 - deviations are detected,
 - and regulation restores persistence-supporting conditions.
 
-This reveals how strongly organisational activity is oriented toward continued existence.
+NG therefore measures the strength of viability-oriented organisation.
 
 ### Step 7 — Assess Cognitive Integration (CI)
 
 Some systems regulate viability without exhibiting cognition.
 
-APS therefore distinguishes biological diagnosis from cognitive diagnosis.
+APS therefore distinguishes:
+- biological diagnosis,
+from:
+- cognitive diagnosis.
 
 Cognitive Integration (CI) concerns:
 - integrated evaluation,
@@ -320,9 +368,9 @@ Cognitive Integration (CI) concerns:
 A cognitively integrated system:
 - coordinates multiple viability-relevant conditions,
 - modulates activity contextually,
-- and exhibits evaluative organisation extending beyond immediate stimulus-response coupling.
+- and regulates behaviour beyond simple reactive coupling.
 
-CI therefore identifies forms of evaluative organisation that exceed simple reactive regulation.
+CI therefore identifies increasingly integrated forms of evaluative organisation.
 
 [[box:what-aps-means-by-cognition]]
 
@@ -330,28 +378,28 @@ CI therefore identifies forms of evaluative organisation that exceed simple reac
 
 All APS diagnosis is multiscale.
 
-A system may:
+Systems may:
 - exhibit short-term stability while degrading long-term,
 - maintain local organisation while failing systemically,
 - or preserve one process at the expense of broader viability.
 
-Diagnosis must therefore assess:
+Diagnosis must therefore evaluate:
 - temporal persistence,
-- cross-scale coordination,
 - distributed organisation,
+- cross-scale coordination,
 - and system-wide coherence.
 
 Biological systems cannot be understood through isolated mechanisms alone.
 
 ## Diagnosis Is Graded Rather Than Binary
 
-APS diagnosis does not impose a rigid boundary between life and non-life.
+APS diagnosis does not impose an absolute boundary between life and non-life.
 
 Systems may:
 - partially sustain viability,
 - exhibit incomplete closure,
 - possess limited autonomy,
-- or depend variably upon external scaffolding.
+- or depend variably upon external support.
 
 This is why APS employs:
 - gradients,
@@ -369,24 +417,24 @@ Borderline systems such as:
 
 therefore become diagnostically informative rather than conceptually problematic.
 
-For a fuller account of why borderline cases are expected rather than problematic, see [APS and the Edges of Life](/articles/aps-and-the-edges-of-life-ci/).
-
 ## Diagnosis as Organisational Explanation
 
 APS diagnosis ultimately asks:
+
 > How does this system sustain itself?
 
-This reframes biology itself.
+This reframes biological investigation itself.
 
 Diagnosis no longer concerns merely:
-- identifying components,
-- cataloguing traits,
+- identifying traits,
+- cataloguing components,
 - or assigning categories.
 
 Instead, it concerns:
 - how persistence is maintained,
 - how organisation is regenerated,
-- and how viability is enacted across time and scale.
+- how viability is enacted,
+- and how biological coherence persists across scale and time.
 
 Diagnosis therefore becomes explanatory rather than merely descriptive.
 
@@ -394,7 +442,7 @@ Diagnosis therefore becomes explanatory rather than merely descriptive.
 
 APS does not replace experimental biology.
 
-Instead, it provides:
+The framework instead provides:
 - an organisational interpretive framework,
 - a viability-relative evaluative structure,
 - and a principled method for understanding living systems.
@@ -417,7 +465,7 @@ The defining question is not:
 but:
 > How does the system sustain itself as a viability-oriented process?
 
-Biological systems are therefore diagnosed not by isolated properties, but by the ways their organisation actively maintains the conditions of their own continued existence.
+Biological systems are therefore diagnosed not by isolated properties, but by the ways their organisation actively maintains the conditions of its own continued existence.
 
 ## Key Point
 

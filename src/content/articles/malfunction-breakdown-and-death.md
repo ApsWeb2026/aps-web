@@ -5,146 +5,170 @@ slug: malfunction-breakdown-and-death
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-05-07
+revised: 2026-05-11
 cluster: conceptual-foundations
+
 abstract: >
-  APS treats malfunction, breakdown, and death not as secondary biological phenomena but as revealing features of living organisation itself. Living systems are viability-oriented forms of organisation whose continued existence depends upon ongoing self-maintenance. Because persistence must continuously be sustained, failure becomes biologically meaningful. This article distinguishes malfunction, breakdown, and death as different forms of failure within viability-oriented, constraint-closed systems.
+  APS treats malfunction, breakdown, and death not as secondary biological
+  phenomena but as revealing features of living organisation itself. Living
+  systems persist only through ongoing self-maintaining activity, and are
+  therefore inherently vulnerable to degradation, collapse, and loss of
+  organisational coherence.
+
 keyPoints:
   - Viability-orientation does not imply indefinite persistence.
-  - Living systems can fail because their continued existence matters to the system itself.
-  - Malfunction is local functional failure within a persisting system.
-  - Breakdown is the erosion of constraint-closed self-maintenance.
-  - Death is the collapse of internally grounded biological organisation.
+  - Living systems can fail because persistence matters internally to the organisation itself.
+  - Malfunction is local failure within a persisting system.
+  - Breakdown is progressive erosion of self-maintaining organisation.
+  - Death is collapse of internally grounded biological organisation.
   - Biological failure reveals the normative structure of living systems.
+
 relatedGlossaryTerms:
   - viability
   - viability-orientation
   - persistence
   - normativity
   - function
-  - purpose
   - biological-agency
   - constraint-closure
   - biological-organisation
-  - process
+  - perturbation
   - adaptation
+
 relatedArticles:
-  - biological-agency-without-intentions
+  - how-to-diagnose-a-biological-system
+  - aps-and-the-edges-of-life-ci
   - adaptation-how-living-systems-sustain-themselves-through-change
+  - biological-agency-without-intentions
+  - why-life-is-not-a-machine-an-aps-clarification
+  - description-explanation-and-definition-in-biology
+
 references:
-  - id: Jonas1966
+  - id: jonas1966
     authors: "Jonas, H."
     year: 1966
     title: "The Phenomenon of Life"
     publisher: "Harper & Row"
 
-  - id: MorenoMossio2015
-    authors: "Moreno, A., & Mossio, M."
+  - id: morenomossio2015
+    authors: "Moreno, A.; Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
 
-  - id: Thompson2007
+  - id: thompson2007
     authors: "Thompson, E."
     year: 2007
-    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
+    title: "Mind in Life"
     publisher: "Harvard University Press"
 
-  - id: NicholsonDupre2018
-    authors: "Nicholson, D. J., & Dupré, J. (Eds.)"
+  - id: nicholsondupre2018
+    authors: "Nicholson, D. J.; Dupré, J. (Eds.)"
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
+
 ---
+
+# Malfunction, Breakdown, and Death — Failure in Viability-Oriented Systems
 
 ## Introduction
 
-Living systems are viability-oriented forms of organisation. They continuously regulate and reorganise themselves in relation to conditions required for their continued persistence.
+Living systems are viability-oriented forms of organisation.
+They continuously regulate and reorganise themselves relative to conditions required for continued persistence.
 
 However, viability-orientation does not imply indefinite persistence.
 
-All living systems are vulnerable. They can malfunction, deteriorate, and ultimately die. This vulnerability is not a contradiction within APS but one of the clearest expressions of the kind of organisation life is.
+All living systems are vulnerable.
+They can malfunction, deteriorate, and ultimately die.
 
-A living system exists only insofar as the conditions of its own persistence are actively maintained. Because those conditions can fail, biological organisation is inherently precarious.
+This vulnerability is not accidental to life.
+It is one of the clearest expressions of the kind of organisation living systems are.
 
-APS therefore treats malfunction, breakdown, and death not as secondary anomalies but as diagnostic windows into the nature of living systems themselves.
+A living system exists only insofar as the conditions of its persistence are actively maintained.
+Because those conditions can fail, living organisation is inherently precarious.
+
+APS therefore treats malfunction, breakdown, and death not as secondary anomalies, but as revealing features of biological organisation itself.
 
 ## Why Failure Matters in Biology
 
-Failure is everywhere in biology.
+Failure is pervasive in biology.
 
-- hearts fail  
-- cells malfunction  
-- organisms deteriorate  
-- regulatory systems collapse  
+- hearts fail,
+- cells malfunction,
+- organisms deteriorate,
+- and regulatory systems collapse.
 
-These phenomena are so familiar that their philosophical significance is often overlooked.
+These phenomena are so familiar that their explanatory significance is often overlooked.
 
-Many physical systems can stop functioning, but only living systems fail in a way that matters to themselves.
+Many physical systems can stop functioning, but only living systems fail in ways that matter internally to the organisation itself.
 
-A rock may fracture. A machine may break. But neither loses an internally grounded form of persistence-sensitive organisation.
+A rock may fracture.
+A machine may break.
+But neither loses an internally grounded form of persistence-sensitive organisation.
 
-In living systems, by contrast, failure threatens the continued existence of the system itself.
+In living systems, by contrast, failure threatens the continued existence of the system as that system.
 
 This reveals something fundamental:
+living organisation is normatively structured.
 
-Biological organisation is normatively structured.
+Some states support persistence.
+Others undermine it.
 
-Some states support viability. Others undermine it. Living systems therefore exist under conditions where success and failure are internally meaningful.
+Failure therefore becomes biologically meaningful because organised persistence itself is biologically at stake.
 
-Failure is biologically significant because persistence is biologically at stake.
+[[box:failure-reveals-organisation]]
 
 ## Viability and Vulnerability
 
 APS defines life in terms of viability-oriented, constraint-closed organisation.
 
-This means that living systems continuously act to sustain the conditions under which they can continue to exist.
+Living systems continuously act to sustain conditions under which they can continue to exist.
 
-However, no living system perfectly secures those conditions indefinitely.
+However, no biological system secures those conditions permanently.
 
-Living organisation is:
+Living organisation remains:
+- thermodynamically vulnerable,
+- environmentally exposed,
+- materially finite,
+- and dependent upon ongoing regulation and repair.
 
-- thermodynamically vulnerable  
-- environmentally exposed  
-- materially finite  
-- dependent upon ongoing regulation and repair  
+Viability-orientation therefore does not mean permanent success.
+It means continuous resistance to disintegration.
 
-Viability-orientation therefore does not mean permanent success. It means continuous resistance to disintegration.
-
-The reality of death does not refute viability-oriented organisation. On the contrary, mortality reveals that persistence is something living systems must continuously achieve rather than automatically possess.
+Mortality does not contradict viability-oriented organisation.
+On the contrary, it reveals that persistence is something living systems must continuously achieve rather than automatically possess.
 
 ## Malfunction: Local Failure Within Persistence
 
 Malfunction occurs when a part or process fails relative to the organisation of the system while the system itself continues to persist.
 
 Examples include:
-
-- cardiac arrhythmia  
-- enzyme misfolding  
-- impaired sensory signalling  
-- disrupted regulation  
+- cardiac arrhythmia,
+- enzyme misfolding,
+- impaired sensory signalling,
+- and disrupted regulation.
 
 In each case, the system remains biologically active despite local dysfunction.
 
-Malfunction is possible only because biological systems possess internally grounded norms of success and failure. A heart is malfunctioning because circulating blood contributes to maintaining viability better than failing to circulate it.
+Malfunction is possible only because living systems possess internally grounded norms of success and failure.
+
+A heart is malfunctioning because circulating blood contributes to maintaining viability better than failing to circulate it.
 
 The failure is therefore meaningful relative to the organisation of the living system itself.
 
 APS treats malfunction as:
+- local,
+- partial,
+- graded,
+- and often reversible.
 
-- local  
-- partial  
-- potentially reversible  
+Repair, compensation, or adaptive reorganisation may restore viability because the broader organised system continues to persist.
 
-Repair, compensation, or adaptive reorganisation may restore function because the organised system continues to exist.
-
-Malfunction thus presupposes:
-
-- biological function  
-- normatively structured organisation  
-- persistence of system identity  
-
-Without these conditions, malfunction collapses into mere deviation from external design specifications.
+Malfunction therefore presupposes:
+- biological function,
+- persistence-maintaining organisation,
+- and continued system identity.
 
 ## Breakdown: Erosion of Organisational Integrity
 
@@ -153,56 +177,56 @@ Breakdown is more severe than malfunction.
 Where malfunction affects local functions within a persisting system, breakdown affects the system’s capacity to maintain itself as an organised whole.
 
 In breakdown:
+- repair mechanisms weaken,
+- regulatory loops destabilise,
+- compensatory capacity declines,
+- and damage accumulates faster than it can be repaired.
 
-- repair mechanisms weaken  
-- regulatory loops destabilise  
-- compensatory capacity declines  
-- damage accumulates faster than it can be repaired  
-
-The system may still function temporarily, but its ability to sustain viability progressively erodes.
+The system may continue functioning temporarily, but its ability to sustain organised persistence progressively erodes.
 
 Breakdown therefore marks a transition:
+- from local dysfunction,
+- toward systemic organisational vulnerability.
 
-- from local dysfunction  
-- to systemic vulnerability  
+Many biological conditions exhibit such deterioration:
+- chronic disease,
+- progressive degeneration,
+- ageing,
+- and ecological collapse.
 
-Many biological conditions exhibit this form of deterioration:
+APS interprets breakdown as erosion of constraint closure itself.
+The mutually sustaining organisation through which the system maintains persistence becomes increasingly unstable.
 
-- chronic disease  
-- progressive degeneration  
-- ageing  
-- ecological collapse  
-
-APS interprets breakdown as erosion of constraint closure itself. The mutually sustaining organisation through which the system maintains persistence becomes increasingly unstable.
-
-## Death: Loss of Internally Grounded Identity
+## Death: Collapse of Organised Persistence
 
 Death is not merely extreme malfunction.
 
-Nor is it simply a large accumulation of damage.
+Nor is it simply accumulated damage.
 
 Death occurs when viability-oriented organisation collapses altogether.
 
 At death:
+- regulation ceases,
+- repair becomes impossible,
+- internally grounded normativity no longer applies,
+- and the organised system no longer persists as that system.
 
-- regulation ceases  
-- repair becomes impossible  
-- internally grounded normativity no longer applies  
-- the organised system no longer persists as that system  
-
-What remains may still possess matter, structure, or residual activity, but the organism itself no longer exists as a viability-oriented system.
+What remains may still possess matter, structure, or residual activity.
+But the organism itself no longer exists as a persistence-maintaining biological system.
 
 The distinction is crucial.
 
-The processes leading toward death are biological processes of breakdown. Death itself marks the loss of the organisation that made those processes biologically meaningful.
+The processes leading toward death remain biological processes of deterioration and breakdown.
+Death itself marks the collapse of the organisation that made those processes biologically meaningful.
 
 APS therefore treats death as:
+- collapse of constraint-closed organisation,
+- loss of internally grounded identity,
+- and cessation of biological agency.
 
-- collapse of constraint-closed organisation  
-- loss of internally grounded identity  
-- cessation of biological agency  
-
-After death, physical and chemical processes continue. Decomposition occurs. Molecules interact. Matter transforms.
+After death, physical and chemical processes continue.
+Matter transforms.
+Decomposition occurs.
 
 But these are no longer biological processes of that organism.
 
@@ -212,36 +236,36 @@ The organism is gone.
 
 Machines can fail, but they do not die.
 
-An engine may seize. A computer may crash. A factory may shut down.
+An engine may seize.
+A computer may crash.
+A factory may shut down.
 
-These failures may superficially resemble biological breakdown, but they differ fundamentally.
+Such failures may superficially resemble biological breakdown, but they differ fundamentally.
 
-A machine’s continued existence does not matter to the machine itself.
+A machine’s persistence does not matter internally to the machine itself.
 
-Its identity and purpose are externally assigned rather than internally maintained. Repair, replacement, or abandonment are defined from outside the system.
-
-A machine therefore lacks internally grounded biological normativity.
-
-This distinction clarifies why APS differentiates:
-
-- technical failure  
-- biological malfunction  
-- organisational collapse  
+Its purpose and identity are externally assigned rather than organisationally maintained.
 
 Machines may malfunction relative to human purposes, but they do not lose internally grounded viability-oriented identity because they do not possess it in the first place.
 
+APS therefore distinguishes clearly between:
+- technical failure,
+- biological malfunction,
+- and organisational collapse.
+
 ## Failure as a Diagnostic Window Into Life
 
-APS treats failure as a powerful diagnostic tool for understanding living systems.
+APS treats failure as a powerful diagnostic window into biological organisation.
 
 To ask whether a system is genuinely biological is partly to ask:
-
 - Does the system regulate conditions relevant to its own persistence?
 - Does damage threaten its continued existence as that system?
-- Can it reorganise itself in response to perturbation?
+- Can it reorganise activity under perturbation?
 - Does failure matter internally to the organisation itself?
 
 Living systems respond to disruption through self-maintaining activity.
+
+[[box:perturbation-reveals-organisation]]
 
 Non-living systems may display stability or dynamic behaviour, but they do not enact persistence-sensitive organisation in the biological sense.
 
@@ -252,58 +276,59 @@ Malfunction, breakdown, and death therefore reveal rather than undermine the dis
 APS does not deny continuity between living and non-living systems.
 
 Self-organising physical systems may:
-- stabilise patterns  
-- regulate variables  
-- recover from perturbation  
-- exhibit complex dynamics  
+- stabilise patterns,
+- regulate variables,
+- recover from perturbation,
+- and exhibit complex dynamics.
 
 However, continuity does not imply equivalence.
 
-Living systems differ in that:
-- their organisation must be continuously sustained to persist  
-- viability matters internally to the system  
-- organisational collapse constitutes loss of the system itself  
+Living systems differ because:
+- persistence must be continuously sustained,
+- viability matters internally to the organisation,
+- and collapse constitutes loss of the system itself.
 
-Malfunction, breakdown, and death are therefore not arbitrary metaphysical boundaries, but graded thresholds within viability-oriented organisation.
+Malfunction, breakdown, and death are therefore not arbitrary metaphysical boundaries.
+They are organisationally graded forms of failure within persistence-maintaining systems.
 
 ## Why Mortality Does Not Contradict APS
 
 The apparent tension between viability-orientation and mortality dissolves once persistence is understood correctly.
 
-APS does not claim that living systems persist forever.
+APS does not claim that living systems persist indefinitely.
 
-It claims that living systems are organised in relation to the conditions of their own persistence.
+It claims that living systems are organised relative to conditions of their own persistence.
 
-Mortality is therefore not evidence against viability-oriented organisation. It is evidence that persistence is something living systems must continuously achieve under conditions of vulnerability.
+Mortality therefore does not refute viability-oriented organisation.
+It reveals that persistence must continuously be achieved under conditions of vulnerability.
 
-Indeed, many central features of biology depend upon this precariousness:
-
-- repair  
-- adaptation  
-- regulation  
-- reproduction  
-- evolution  
+Many central biological processes depend upon this precariousness:
+- repair,
+- adaptation,
+- regulation,
+- reproduction,
+- and evolution.
 
 If living systems were invulnerable, many defining characteristics of biological organisation would disappear.
 
-Mortality is therefore not external to life. It is bound to the very structure of viability-oriented existence.
+Mortality is therefore not external to life.
+It is constitutive of persistence-maintaining organisation itself.
 
 ## Conclusion
 
-APS understands living systems as viability-oriented forms of organisation whose continued existence depends upon ongoing self-maintenance.
+APS understands living systems as forms of organisation whose continued existence depends upon ongoing self-maintaining activity.
 
 Because persistence must continuously be sustained, biological failure becomes internally meaningful.
 
 Malfunction, breakdown, and death therefore reveal essential features of living organisation:
-
-- malfunction is local functional failure within a persisting system  
-- breakdown is erosion of self-maintaining organisation  
-- death is collapse of internally grounded viability-oriented identity  
+- malfunction is local failure within a persisting system,
+- breakdown is erosion of self-maintaining organisation,
+- and death is collapse of internally grounded biological persistence.
 
 These are not accidental limitations imposed upon life from outside.
 
-They arise from the very nature of living systems as organised processes that must continuously sustain themselves in order to exist at all.
+They arise from the very structure of living systems as vulnerable processes that must continuously sustain themselves in order to exist at all.
 
 ## Key Point
 
-Malfunction, breakdown, and death do not contradict viability-oriented organisation. They reveal that living systems exist only through the continuous and ultimately vulnerable maintenance of their own persistence.
+Malfunction, breakdown, and death do not contradict viability-oriented organisation. They reveal that living systems exist only through the continuous and inherently vulnerable maintenance of organised persistence.
