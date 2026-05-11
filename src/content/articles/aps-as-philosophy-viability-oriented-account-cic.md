@@ -49,6 +49,8 @@ relatedArticles:
   - analysis-synthesis-and-the-direction-of-explanation
   - adaptation-how-living-systems-sustain-themselves-through-change
   - description-explanation-and-definition-in-biology
+  - why-aps-is-not-organicism
+  - why-aps-is-not-holism
 
 references:
   - id: aristotle
@@ -780,6 +782,9 @@ Differences become meaningful because they modulate activity relative to persist
 Semiosis therefore emerges from organisational normativity rather than from representation or symbolic interpretation alone.
 
 This allows APS to naturalise meaning more directly within biological organisation itself.
+
+### APS Organicism and Holism
+APS is anti-reductionist, but it is not anti-analytic. It does not replace mechanism with vague appeals to wholeness, nor does it revive classical organismic metaphysics. Its philosophical contribution lies in treating biological intelligibility as organisational: life is explained through viability-oriented, constraint-closed processes of persistence.
 
 ### Integration Without Eclecticism
 

@@ -43,6 +43,8 @@ relatedArticles:
   - reductionism-in-biology-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
   - explanatory-priority-is-not-ontological-priority
+  - why-aps-is-not-organicism
+  - why-aps-is-not-holism
 
 references:
   - id: Wittgenstein1953
@@ -233,6 +235,8 @@ Scientists and ordinary speakers will continue to use terms such as:
 The framework does not object to such usage descriptively.
 
 APS intervenes only when descriptive language is promoted into explanatory or definitional claims without clarification of the organisational assumptions involved.
+
+Calling a system “whole,” “integrated,” or “organismic” may describe an important feature of life, but such terms do not yet explain biological organisation. APS therefore distinguishes descriptive appeals to wholeness from explanatory accounts of how viability-oriented organisation is continuously maintained across process and scale.
 
 The issue is therefore not vocabulary itself.
 

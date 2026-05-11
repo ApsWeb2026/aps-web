@@ -36,6 +36,8 @@ relatedArticles:
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - aps-as-philosophy-viability-oriented-account
+  - why-aps-is-not-holism
+  - why-aps-is-not-organicism
 references:
   - id: "nicholson-dupre-2018"
     authors: "Nicholson, D. J., & Dupré, J."
@@ -90,6 +92,8 @@ Biological explanation therefore consists not merely in identifying parts or mec
 *Biological organisation is a constraint-structured process in which agency actively sustains viability across time. Persistence is an ongoing organisational achievement rather than a passive state.*
 
 This is why APS refers to an explanatory *geometry*. Different biological explanations foreground different aspects of organised persistence depending upon the questions being asked, the methods employed, and the organisational relations under investigation. Yet these explanations remain connected because they refer back to the same underlying structure of viability-oriented organisation.
+
+This organisational geometry also explains why APS should not be read as either reductionism or simple holism. APS does not explain life by reducing it to isolated components, but neither does it explain life by appealing to wholes as such. It explains biological systems through the structured relations by which agency, process, and scale sustain viability-oriented organisation. For this reason, APS is neither generic holism nor classical organicism.
 
 ## From description to explanatory grammar
 

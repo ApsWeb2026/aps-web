@@ -40,6 +40,8 @@ relatedArticles:
   - emergence-in-biology-an-aps-clarification
   - explanatory-priority-is-not-ontological-priority
   - what-is-life-a-biological-question-revisited
+  - why-aps-is-not-organicism
+  - why-aps-is-not-holism
 
 ---
 
@@ -62,6 +64,8 @@ The issue is therefore not whether analysis is legitimate.
 It is whether analysis alone is explanatorily sufficient.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
+
+APS rejects reductionism, but it does not therefore collapse into generic holism. Nor does it revive classical organicism. Its alternative is organisational: biological parts are explained through their roles in viability-oriented, constraint-closed processes of persistence. See *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
 
 ## The Reductionist Picture
 

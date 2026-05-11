@@ -39,6 +39,8 @@ relatedArticles:
   - aps-and-systems-theory
   - aps-and-autonomy-theory
   - aps-and-the-extended-evolutionary-synthesis
+  - why-aps-is-not-organicism
+  - why-aps-is-not-holism
 
 references:
   - id: pezzulo-levin-2026
@@ -186,6 +188,12 @@ The following articles examine influential contemporary frameworks individually.
 These articles should not be read as dismissals.
 
 Each framework captures important organisational realities. The APS claim is not that such theories are mistaken, but that none, by itself, fully explains the viability-oriented organisation distinguishing living systems as living systems.
+
+## APS, Holism, and Organicism
+
+APS rejects reductionist accounts that treat biological organisation as nothing more than the behaviour of isolated parts. But this does not make APS a simple form of holism or a revival of classical organicism.
+
+APS is organisational rather than merely holistic or organismic. It accepts that living systems must be understood as integrated, self-maintaining processes, but it does not treat “the whole” as explanatorily sufficient, nor does it return to classical organismic metaphysics. For further clarification, see *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
 
 ## Integration Rather Than Rejection
 

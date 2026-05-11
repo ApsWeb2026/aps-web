@@ -24,6 +24,8 @@ relatedArticles:
   - why-life-is-not-dnas-way-of-making-more-dna
   - why-life-is-not-information-processing
   - biological-causation-from-mechanism-to-organised-persistence
+  - why-aps-is-not-organicism
+  - why-aps-is-not-holism
 references:
   - id: descartes1664
     authors: "Descartes, R."
@@ -233,6 +235,8 @@ The machine analogy has been enormously productive in biology, helping to explai
 But life is not a machine.
 
 Machines are externally designed systems whose functions are imposed from outside. Living systems are self-sustaining organisations whose continued existence depends on their own activity.
+
+APS therefore rejects machine-reductionism without replacing it with vague holism. Living systems are not machines, but neither are they inexplicable wholes. They are organised processes whose components acquire biological significance through their contribution to viability-oriented persistence.
 
 APS clarifies this distinction by grounding biological explanation in viability-oriented organisation rather than mechanical construction.
 
