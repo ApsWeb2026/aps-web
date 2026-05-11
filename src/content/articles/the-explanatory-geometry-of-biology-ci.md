@@ -5,7 +5,7 @@ slug: explanatory-geometry-of-biology
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-05-06
+revised: 2026-05-11
 cluster: conceptual-foundations
 abstract: >
   This article makes explicit the explanatory structure of the APS framework.
@@ -41,13 +41,13 @@ references:
     authors: "Nicholson, D. J., & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
+    source: "Oxford University Press"
 
   - id: "moreno-mossio-2015"
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: "Springer"
+    source: "Springer"
 
   - id: "montevil-mossio-2015"
     authors: "Montévil, M., & Mossio, M."
@@ -59,125 +59,165 @@ references:
     doi: "10.1016/j.jtbi.2015.02.029"
 ---
 
-Biology does not lack data, mechanisms, or models. What it lacks is a clear account of how explanation itself is organised. Different domains—molecular biology, physiology, ecology, and evolution—often proceed with distinct assumptions about causation, organisation, and what counts as an adequate explanation. As a result, biological theory can appear fragmented: rich in detail, but structurally diffuse.
+Biology does not lack data, mechanisms, or models. What it often lacks is a clear account of how explanation itself is organised. Molecular biology, physiology, ecology, development, and evolution frequently proceed with different assumptions about causation, organisation, and what counts as an adequate explanation. Biology can therefore appear theoretically fragmented: rich in empirical detail, yet structurally diffuse.
 
-The APS framework addresses this problem not by introducing additional concepts, but by making explicit the structure that biological explanation already presupposes. It does so through a simple but powerful insight: explanation in biology is organised through the mutually constraining relations of agency, process, and scale.
+APS addresses this problem by making explicit the organisational structure that biological explanation already presupposes.
+
+At the centre of the framework is a simple but far-reaching claim: biological explanation is organised through the mutually constraining relations of **agency**, **process**, and **scale**.
 
 [[box:the-organisational-grammar-of-aps]]
 
 [[box:how-to-read-aps-as-a-coherent-framework]]
 
+APS does not treat these as separate “levels” or independent explanatory domains. They are analytically distinguishable perspectives on a single organised reality: living systems continuously sustaining themselves across time through viability-oriented activity distributed across spatial and temporal scales.
+
+The framework therefore shifts attention away from isolated components toward the organisation through which biological systems persist, regulate themselves, adapt, and evolve.
+
 ## Explanation as organised structure
 
-In APS, explanation is not a linear account of causes acting on passive entities. Nor is it a collection of independent descriptions at different “levels.” Instead, explanation is understood as the articulation of a structured organisation in which activity, dynamics, and extent are inseparably linked.
+In APS, explanation is not understood as a linear sequence of causes acting on passive entities. Nor is it a collection of disconnected descriptions operating at different scales. Biological explanation instead concerns the organisation of living systems as integrated, dynamically sustained forms of persistence.
 
-- **Agency** identifies the viability-oriented activity through which systems sustain themselves.
-- **Process** captures the dynamic organisation through which this activity is enacted and maintained.
-- **Scale** specifies the spatial and temporal extent over which these dynamics unfold and persist. Scale in this sense is not hierarchical but reflects the distributed organisation of processes across spatial and temporal domains (see *Space, Time, and Organisation in Biology*; see also *Spatiotemporal Organisation and Scale*).
+- **Agency** identifies the viability-oriented activity through which systems regulate and sustain themselves.
+- **Process** describes the ongoing dynamics through which this activity is enacted and maintained across time.
+- **Scale** specifies the spatial and temporal extent across which biological organisation is distributed and coordinated.
 
-These are not separate components of explanation, but analytic perspectives on a single, integrated organisation. Biological explanation consists in showing how these perspectives constrain and support one another in sustaining viable systems.
+These dimensions are inseparable. Agency is always enacted through processes, processes always unfold across scale, and scale is biologically meaningful only insofar as organised activity persists across it.
+
+Biological explanation therefore consists not merely in identifying parts or mechanisms, but in showing how activity, organisation, and persistence constrain and sustain one another within living systems.
 
 ![Core architecture of APS](/assets/diagrams/aps-core-architecture.png)
 
-*Biological organisation is a constraint-structured process in which agency and regulation actively sustain viability over time. Persistence is an ongoing achievement rather than a passive state.*
+*Biological organisation is a constraint-structured process in which agency actively sustains viability across time. Persistence is an ongoing organisational achievement rather than a passive state.*
+
+This is why APS refers to an explanatory *geometry*. Different biological explanations foreground different aspects of organised persistence depending upon the questions being asked, the methods employed, and the organisational relations under investigation. Yet these explanations remain connected because they refer back to the same underlying structure of viability-oriented organisation.
 
 ## From description to explanatory grammar
 
-Biological explanation is often implicitly organised by a particular mode and direction of reasoning.
+Biology often relies upon explanatory concepts whose organisational relations remain implicit.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 [[box:description-is-not-explanation]]
 
-Most biological accounts implicitly rely on this structure, but do not make it explicit. As a result, key terms—such as function, adaptation, information, regulation, or cognition—are often used in multiple, partially incompatible ways.
+Concepts such as function, regulation, adaptation, information, cognition, and purpose are widely used across biological disciplines, yet they are frequently applied in partially incompatible ways. APS addresses this not by arbitrarily redefining such concepts, but by specifying the organisational conditions under which they become explanatorily coherent.
 
-APS does not resolve this by redefining terms arbitrarily. Instead, it specifies the conditions under which such terms can be used coherently in explanation. A concept is explanatorily valid insofar as it contributes to a consistent account of viability-oriented organisation across agency, process, and scale. This includes the organisation of spatial and temporal relations through which processes are distributed and sustained (see *Space, Time, and Organisation in Biology*).
+A concept is explanatorily meaningful within APS insofar as it contributes to a consistent account of organised persistence across agency, process, and scale.
 
-In this sense, concepts such as function and purpose do not introduce external goals or design. They describe how components and processes are organised relative to viability: function as a normatively grounded contribution to persistence, and purpose as the directionality of activity within such organisation.
+Function, for example, is understood as a normatively structured contribution to persistence. Purpose refers not to externally imposed design, but to the directionality of activity within viability-oriented organisation. Cognition becomes intelligible as a specialised form of evaluative organisation distributed across time.
 
-This transforms explanation from a loose assemblage of concepts into a constrained grammar. Concepts are not free-floating descriptors, but elements whose meaning is determined by their role within an organised explanatory structure.
+The framework therefore transforms explanation from a loose collection of partially connected concepts into a constrained explanatory grammar.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
-This also clarifies why widely used concepts such as emergence, information, design, and cognition often appear explanatory while remaining under-specified.
+Concepts do not function as free-floating descriptors. Their explanatory meaning depends upon their relation to the broader organisation of living systems.
+
+This also clarifies why concepts such as emergence, information, computation, design, and intelligence often appear explanatorily powerful while remaining under-specified biologically.
 
 [[box:why-aps-replaces-placeholder-concepts]]
 
-The problem is not merely conceptual ambiguity, but explanatory orientation. Biological organisation is frequently interpreted through concepts derived from highly specialised forms of cognition — such as representation, computation, inference, or decision-making — rather than understanding cognition itself as a specialised development within biological organisation.
+The problem is not merely conceptual ambiguity, but explanatory direction.
 
-This creates a recurring explanatory inversion in which concepts abstracted from highly derived forms of viability-oriented organisation are projected back onto life in general. APS reverses this orientation. Rather than beginning with human cognition as the explanatory model, it begins with organised persistence and explains cognition as an emergent refinement of viability-oriented activity across agency, process, and scale.
+Biology is often interpreted through concepts derived from highly specialised forms of cognition — such as representation, computation, inference, or decision-making — rather than understanding cognition itself as a specialised development within biological organisation.
 
-## Explanatory Priority and Ontological Priority
+APS reverses this explanatory orientation.
 
-Explanatory geometry also clarifies why biological theories often appear to compete over what is “really” fundamental. Gene-centred, organism-centred, ecological, informational, and selectionist explanations each foreground different explanatory coordinates. But explanatory foregrounding is not metaphysical primacy.
+Instead of beginning with human cognition as the model for life, APS begins with organised persistence and explains cognition as a developed form of viability-oriented activity. Human cognition therefore becomes intelligible as a highly elaborated biological achievement rather than the conceptual foundation through which life itself must be interpreted.
 
-What becomes central in an explanation depends on the question being asked, the available methods, and the modelling grammar being used. APS treats these as shifts in explanatory geometry rather than evidence that genes, organisms, ecosystems, or information constitute rival ontological foundations of life.
+## Explanatory priority and ontological priority
+
+The explanatory geometry of APS also clarifies why biological theories often appear to compete over what is “really” fundamental.
+
+Gene-centred, organism-centred, ecological, informational, developmental, and selectionist explanations each foreground different organisational relations. Yet explanatory centrality does not imply metaphysical primacy.
 
 [[box:explanatory-priority-is-not-ontological-priority]]
 
+What becomes explanatorily prominent depends upon the question being asked, the methods employed, and the organisational relations under investigation. Genes, organisms, ecosystems, developmental systems, and evolutionary populations are not rival ontological foundations of life. They are different explanatory orientations within the broader organisation of living systems.
+
+APS therefore treats disagreements over explanatory priority not primarily as metaphysical conflicts, but as shifts in explanatory geometry.
+
+This allows biological explanation to remain plural without becoming fragmented. Different explanatory approaches can remain compatible insofar as they refer back to a coherent account of organised persistence.
+
 ## Cognition within the explanatory grammar
 
-The explanatory structure of APS also clarifies the place of cognition within biology. Cognition is not a separate domain layered onto biological organisation, but a specific way in which that organisation becomes structured.
+APS also clarifies the place of cognition within biology itself.
 
-Within the explanatory grammar, cognition arises from the organisation of evaluative activity. Agency establishes viability-oriented activity, process captures its dynamic realisation, and scale determines its extent across time and space. Within this structure, evaluation differentiates what matters for persistence, and semiosis organises how environmental differences enter into that differentiation.
+Cognition is not treated as a separate explanatory domain layered onto otherwise non-cognitive life. It is understood as a specialised organisational development within viability-oriented persistence.
 
-Cognition arises when this evaluative organisation becomes temporally extended and integrated such that present activity is structured in relation to conditions beyond the immediate present. It is therefore not a general feature of all living systems, but a specific organisational development within viability-oriented organisation.
+Agency establishes viability-oriented activity. Process captures the temporal continuity through which this activity is sustained. Scale distributes and coordinates these dynamics across space and time. Within this organisation, evaluation differentiates conditions relevant to persistence, while semiosis structures how environmental differences become biologically meaningful.
+
+Cognition emerges when evaluative organisation becomes sufficiently integrated and temporally extended that present activity is regulated in relation to non-immediate conditions.
 
 [[box:what-aps-means-by-cognition]]
 
-In this way, cognition does not introduce a new explanatory layer, but refines the existing grammar. It specifies how viability-oriented organisation can become structured across time, enabling systems to regulate their activity in relation to non-present conditions while remaining grounded in the same relations of agency, process, and scale.
+Cognition therefore does not introduce a fundamentally different explanatory structure. It refines and extends the existing organisational grammar.
 
-This also clarifies explanatory direction. Human cognition is not the foundation from which biological organisation is interpreted. Rather, human cognition is itself an especially elaborate form of biological organisation whose explanatory conditions remain grounded in viability-oriented persistence. APS therefore proceeds from life toward cognition, rather than from cognition toward life.
+This is why APS proceeds from life toward cognition rather than from cognition toward life.
+
+Human cognition is not the explanatory foundation of biology. It is itself an especially elaborate form of biological organisation whose conditions remain grounded in viability-oriented persistence.
 
 ## Constraint and coherence in biological explanation
 
-In many conceptual systems, adding more content expands the range of possible interpretations. Biological explanation can then become increasingly complex without becoming clearer.
+Many conceptual systems become increasingly flexible as more concepts are added. Interpretation expands, but explanatory coherence weakens.
 
-APS operates differently. Because its core concepts are mutually constraining, additional content must align with the existing structure. This reduces interpretive freedom while increasing coherence.
+APS operates differently.
+
+Because its central concepts are mutually constraining, additional explanatory content must align with the existing organisational structure.
 
 > *In most frameworks, adding content expands what can be said. In APS, it sharpens what must be said.*
 
-As a result, explanatory strength does not depend on the number of concepts employed, but on the degree to which they are integrated into a consistent account of viability-oriented organisation.
+Explanatory strength therefore depends less upon the number of concepts employed than upon the degree to which those concepts contribute to a coherent account of organised persistence.
+
+This constraint-based structure is philosophically important because it reduces the tendency for biological explanation to drift into loosely connected conceptual vocabularies. Concepts such as function, agency, cognition, adaptation, or semiosis cannot be applied arbitrarily. Their use must remain consistent with the broader explanatory organisation of living systems.
+
+APS therefore increases coherence not by reducing biological complexity, but by clarifying the organisational relations through which that complexity becomes intelligible.
 
 ## Making explanation empirically tractable
 
-By making its structure explicit, APS also transforms the empirical status of biological explanation.
+By making its explanatory structure explicit, APS also strengthens the empirical tractability of biological explanation.
 
-If explanation depends on the organisation of agency, process, and scale, then its claims can be evaluated by examining whether these relations are actually present and normatively integrated in the system under study. This shifts emphasis from describing components to testing the normatively structured roles those components play within organised persistence.
+If biological organisation depends upon the coordinated relations of agency, process, and scale, then explanatory claims can be evaluated by investigating whether these relations are actually present and integrated within the systems under study.
 
-> **APS does not add another perspective to theoretical biology—it changes how biological explanation itself is structured, making its assumptions explicit and its claims empirically testable.**
+This shifts emphasis away from isolated component analysis toward the organisation of constraints and their contribution to persistence.
 
-This provides a basis for empirical investigation that is not limited to component-level intervention, but extends to the organisation of constraints and their contribution to system persistence.
+> **APS does not simply add another perspective to theoretical biology. It reorganises how biological explanation itself is structured by making its assumptions explicit and empirically assessable.**
+
+Constraint closure becomes especially important in this context because it identifies systems capable of regenerating the conditions enabling their own persistence.
 
 ![Diagram showing constraint closure in living systems as reciprocal maintenance between processes and constraints](/assets/diagrams/constraint-closure-living-systems.svg)
 
-*Figure: Constraint closure describes the recursive organisation through which living processes maintain the constraints that enable their own continuation.*
+*Constraint closure describes the reciprocal organisation through which living processes maintain the constraints enabling their continued activity.*
+
+APS therefore provides a basis for empirical investigation that extends beyond static trait identification or isolated mechanism description. It directs attention toward the organisation of persistence itself.
+
+This orientation is particularly important in the investigation of borderline cases, synthetic systems, protocells, artificial life, and non-standard biological organisation, where the central question becomes not simply whether a trait is present, but how organised persistence is achieved and maintained.
 
 ## Unifying biological domains
 
-Because the same explanatory structure applies across contexts, APS provides a unifying framework for biology.
+Because the same explanatory grammar applies across contexts, APS provides a unifying structure for biology without reducing biological diversity to a single mechanism or level of explanation.
 
-- In physiology, explanation concerns how processes maintain viability in real time.
-- In evolution, it concerns how viability-oriented organisation is transformed across generations.
-- In ecology, it concerns how systems sustain themselves through interactions across broader spatial and temporal extents.
+- In physiology, explanation concerns how organised activity maintains viability in real time.
+- In evolution, explanation concerns how organised persistence changes across generations.
+- In ecology, explanation concerns how systems sustain themselves through interactions distributed across broader spatial and temporal domains.
 
-These extents are not external coordinates but organised domains through which biological systems sustain viability (see *Space, Time, and Organisation in Biology*).
+These are not fundamentally different kinds of explanation. They are different expressions of the same underlying organisational structure.
 
-These are not separate kinds of explanation, but different expressions of the same underlying organisation.
+APS therefore does not unify biology by eliminating explanatory diversity. It unifies biology by clarifying the organisational conditions underlying diverse forms of biological explanation.
 
-## Explanation as enactment
+## Explanation and biological intelligibility
 
-APS does not merely describe biological organisation—it enacts it in the way it explains. The framework’s explanatory practice mirrors the organisation it seeks to understand: integrated, constrained, and oriented toward the conditions of persistence.
+APS ultimately proposes that biological explanation possesses an underlying organisational structure that can itself become an object of analysis.
 
-To use APS is therefore not simply to adopt new terminology, but to participate in a different mode of explanation—one in which concepts derive their meaning from their role in sustaining a coherent account of living systems.
+The framework does not replace empirical biology, nor does it impose an external philosophical system onto biological inquiry. Instead, it attempts to make explicit the explanatory relations already implicit within biological practice.
 
-The philosophical implications of this explanatory grammar are developed further in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
+To use APS is therefore not simply to adopt new terminology. It is to approach biology through a more explicit account of how living systems become intelligible as living systems.
+
+The philosophical implications of this explanatory structure are developed further in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
 
 ## Key Points
 
 - Biological explanation in APS is organised through the mutually constraining relations of agency, process, and scale.
-- Concepts gain meaning through their role within this explanatory structure, not through isolated definition.
-- APS reverses the explanatory tendency to interpret life through concepts derived from highly specialised cognition.
-- Additional content increases coherence by reinforcing constraint, rather than expanding interpretive freedom.
-- APS makes the assumptions of biological explanation explicit, rendering its claims empirically testable.
-- A single explanatory grammar applies across physiological, evolutionary, and ecological contexts.
+- Biological concepts gain explanatory meaning through their role within organised persistence rather than through isolated definition.
+- APS reverses the tendency to interpret life through concepts derived from highly specialised cognition.
+- Additional explanatory content increases coherence by reinforcing organisational constraint rather than expanding interpretive freedom.
+- APS makes the assumptions of biological explanation explicit, rendering them more empirically tractable.
+- A single explanatory grammar can organise physiological, evolutionary, ecological, and cognitive explanation within a unified account of living systems.
