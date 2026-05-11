@@ -159,15 +159,15 @@ references:
     source: "Springer"
 ---
 
-## Biology and the Return of Philosophy
+## 1. Biology and the Return of Philosophy
 
-Modern biology achieved extraordinary explanatory success by rejecting the explicit teleology that had long shaped the understanding of life. Evolutionary theory, molecular biology, genetics, physiology, and systems biology transformed living systems into objects of rigorous scientific investigation without invoking external design, intrinsic purpose, or mysterious vital forces beyond physical reality.
+Modern biology achieved extraordinary explanatory success by rejecting the explicit teleology that had long shaped the understanding of life. Evolutionary theory, genetics, molecular biology, physiology, and systems biology transformed living systems into objects of rigorous scientific investigation without invoking external design, intrinsic purpose, or mysterious vital forces.
 
 Yet this success also generated a persistent conceptual tension.
 
-Biological explanation continued to rely upon concepts such as function, regulation, adaptation, organisation, signalling, information, cognition, and purpose without a fully coherent account of how such concepts fit within a rigorously naturalistic understanding of life. Organisms regulate themselves, maintain organisation, adapt to changing conditions, distinguish functional from dysfunctional states, and exhibit coordinated activity directed toward continued existence. The language of biology therefore retained normative and purposive implications even as its explanatory foundations remained predominantly mechanistic.
+Biological explanation continued to rely upon concepts such as function, regulation, adaptation, organisation, signalling, information, cognition, and purpose without a fully coherent account of how such concepts fit within a rigorously naturalistic understanding of life. Organisms regulate themselves, maintain organisation, adapt to changing conditions, distinguish functional from dysfunctional states, and coordinate activity relative to continued existence. The language of biology therefore retained normative and purposive implications even as its explanatory foundations remained predominantly mechanistic.
 
-As biology became increasingly successful experimentally, its conceptual foundations also became more fragmented. Mechanistic explanation, information-theoretic language, computational models, systems approaches, evolutionary theory, autonomy theory, enactivism, and biosemiotics each captured important aspects of living systems while often resting upon incompatible explanatory assumptions. Biology increasingly possessed powerful explanatory tools without a unified account of what made biological explanation distinctively biological in the first place.
+As biology became increasingly successful experimentally, its conceptual foundations also became increasingly fragmented. Mechanistic explanation, systems theory, computational models, enactivism, autonomy theory, biosemiotics, and information-theoretic approaches each captured important aspects of living systems while often relying upon partially incompatible explanatory assumptions. Biology increasingly possessed powerful explanatory tools without a unified account of what made biological explanation distinctively biological in the first place.
 
 This situation marked not the failure of biology, but the re-emergence of a philosophical problem internal to biology itself.
 
@@ -179,7 +179,7 @@ It is within this increasingly fragmented explanatory landscape that APS emerges
 
 APS does not reject mechanistic explanation where mechanistic explanation is appropriate, nor does it replace empirical biology with speculative metaphysics. Instead, it asks a prior question: what kind of organisation makes biological explanation possible at all?
 
-This shift is crucial. APS does not merely introduce additional concepts into biology. It reconstructs the explanatory relations between concepts already central to biological practice. Function, normativity, purpose, semiosis, cognition, adaptation, and evolution are no longer treated as partially disconnected explanatory domains requiring separate philosophical treatment. They become integrated consequences of viability-oriented organisation itself.
+This shift is decisive. APS does not merely introduce additional concepts into biology. It reconstructs the explanatory relations between concepts already central to biological practice. Function, normativity, purpose, semiosis, cognition, adaptation, and evolution are no longer treated as partially disconnected explanatory domains requiring separate philosophical treatment. They become integrated consequences of viability-oriented organisation itself.
 
 APS therefore proposes not a rejection of scientific biology, but a reorganisation of what biological explanation treats as explanatorily fundamental.
 
@@ -187,21 +187,19 @@ APS therefore proposes not a rejection of scientific biology, but a reorganisati
 
 In this respect, APS belongs within a long historical effort to understand the distinctive character of living systems while avoiding both reductive mechanism and mysterious vitalism. Like earlier traditions in theoretical biology and philosophy of biology, it recognises that living systems cannot be adequately understood as passive aggregates of components alone. APS differs, however, in seeking a unified organisational grammar capable of integrating persistence, agency, normativity, semiosis, cognition, and evolutionary transformation within a single explanatory architecture.
 
-The return of philosophy therefore reflects a maturation of biology rather than a retreat from science.
-
-As biological explanation increasingly confronts questions of organisation, meaning, normativity, agency, and cognition, philosophical clarification becomes unavoidable. APS represents one attempt to provide such clarification by grounding biological intelligibility in viability-oriented organised persistence itself.
+The return of philosophy therefore reflects not a retreat from science, but a maturation of biology itself.
 
 ## 2. From Biological Framework to Ontological Proposal
 
-APS is initially presented as a framework for understanding living systems. It emphasises that organisms are not static entities but ongoing processes, that persistence depends upon continuous activity, and that this activity is organised across interacting spatial and temporal scales. These claims resonate strongly with developments in systems biology, developmental biology, ecology, and theoretical biology, where organisation and interaction increasingly replace static structural description as the primary focus of explanation.
+APS is initially presented as a framework for understanding living systems. Organisms are treated not as static entities but as ongoing processes whose persistence depends upon continuous activity organised across interacting spatial and temporal scales.
 
-Once integrated within a single explanatory architecture, however, these claims begin to function as more than descriptive generalisations. They specify the organisational conditions under which something can count as living in the first place.
+Once integrated within a unified explanatory architecture, however, these claims begin to function as more than descriptive generalisations. They specify the organisational conditions under which something can count as living in the first place.
 
-To say that life is processual is to reject a substance-based ontology of biological entities. To say that it is viability-oriented is to introduce intrinsic normativity into biological organisation. To say that it is constraint-closed is to claim that living systems continuously regenerate the conditions of their own persistence. And to say that biological organisation is scale-integrated is to reject the idea that explanation can be confined to any single privileged domain or explanatory perspective.
+To say that life is processual is to reject a substance-based ontology of biological entities. To say that it is viability-oriented is to introduce intrinsic normativity into biological organisation. To say that it is constraint-closed is to claim that living systems continuously regenerate the conditions of their own persistence. And to say that biological organisation is scale-integrated is to reject the idea that explanation can be confined to any single privileged level or domain.
 
 At this point APS no longer functions merely as an integrative biological framework. It begins to articulate the organisational conditions that biological explanation itself presupposes.
 
-The transition is subtle but important. What begins as a way of organising biological knowledge gradually becomes a proposal about the character of biological reality required for that knowledge to cohere.
+The transition is subtle but important. What begins as a way of organising biological knowledge gradually becomes a proposal concerning the character of biological reality required for that knowledge to cohere.
 
 APS therefore occupies an intermediate ontological position. It is neither speculative metaphysics nor simple empirical generalisation. Its ontological commitments emerge from the explanatory structure of biological practice itself.
 
@@ -209,53 +207,41 @@ In this sense, APS does not merely redescribe biological findings. It attempts t
 
 Taken together, these commitments amount to more than a conceptual vocabulary for biology. They constitute an account of living systems as viability-oriented, constraint-closed, scale-integrated processes whose continued existence depends upon the ongoing regeneration and modulation of organised persistence.
 
-## 3. Explanatory Grammar and the Conditions of Biological Understanding
+## 3. Explanatory Grammar and Biological Intelligibility
 
-A defining feature of APS is its emphasis on explanatory grammar. Rather than beginning with a catalogue of entities, APS begins with the organisational conditions under which biological explanation becomes possible. This represents a significant shift in explanatory orientation. Instead of asking what exists independently of biological understanding, APS asks what must be true of living organisation for biological systems to become intelligible as living systems in the first place.
+A defining feature of APS is its emphasis on explanatory grammar. Rather than beginning with a catalogue of entities, APS begins with the organisational conditions under which biological explanation becomes possible. The central question is therefore not simply what exists, but what must be true of living organisation for biological systems to become intelligible as living systems at all.
 
-The focus therefore shifts from the inventory of the world to the organisational conditions that make that inventory biologically meaningful.
+The focus shifts accordingly from the inventory of biological objects to the organisational relations that make those objects biologically meaningful.
 
-This does not deny the reality of biological entities. Cells, organisms, tissues, ecosystems, and evolutionary lineages remain indispensable objects of scientific inquiry. What changes is how they are understood. They are no longer treated as fundamentally independent explanatory units whose properties can be analysed in isolation, but as organised systems whose intelligibility depends upon reciprocal relations not reducible to their components alone.
+This does not deny the reality of cells, organisms, tissues, ecosystems, or evolutionary lineages. What changes is how they are understood. They are no longer treated as fundamentally independent explanatory units whose properties can be analysed in isolation, but as organised systems whose intelligibility depends upon reciprocal relations not reducible to their components alone.
 
 Biological explanation therefore ceases to be merely a process of decomposition. It also becomes a process of situating components within the organised systems that give them biological significance.
-
-This reflects a broader distinction between analysing systems into parts and understanding how those parts become integrated within viability-oriented organisation.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 [[box:description-is-not-explanation]]
 
-In this respect, APS enters into dialogue with philosophical traditions concerned with the conditions of intelligibility. In one sense it echoes the Kantian question concerning what must be true for understanding to become possible at all. APS relocates these conditions, however, from cognition to biological organisation itself. The explanatory constraints are not imposed by the structure of the mind, but emerge from the organisational character of living systems. What is at issue is therefore not the possibility of experience in general, but the conditions under which biological explanation becomes coherent.
+In this respect APS enters into dialogue with philosophical traditions concerned with the conditions of intelligibility. In one sense it echoes the Kantian question concerning what must be true for understanding to become possible at all. APS relocates these conditions, however, from cognition to biological organisation itself. The explanatory constraints are not imposed by the structure of the mind, but emerge from the organisational character of living systems.
 
-This shift has important consequences.
-
-Biological explanation is no longer understood as the neutral description of independently structured objects. It becomes an organised explanatory practice constrained by the character of living systems themselves. To explain a biological phenomenon is not merely to identify efficient causes, but to situate that phenomenon within the organised relations that make persistence, regulation, adaptation, and transformation intelligible.
+Biological explanation is therefore no longer understood as the neutral description of independently structured objects. It becomes an organised explanatory practice constrained by the character of living systems themselves. To explain a biological phenomenon is not merely to identify efficient causes, but to situate that phenomenon within the organised relations that make persistence, regulation, adaptation, and transformation intelligible.
 
 Explanation therefore becomes inseparable from organisation.
 
 Within APS, agency, process, and scale are not independent ontological categories but analytically distinguishable and ontologically co-constitutive dimensions of organised persistence. Agency refers to the viability-oriented modulation of activity, process to the temporal continuity through which organised persistence is enacted, and scale to the distributed spatial and temporal organisation of activity across interacting domains.
 
-These dimensions do not divide reality into separate explanatory regions. They articulate different but inseparable aspects of the same organised phenomenon: the continuous maintenance and reorganisation of viability-oriented persistence.
+These dimensions articulate inseparable aspects of the same organised phenomenon: the continuous maintenance and reorganisation of viability-oriented persistence.
 
-As APS has developed, its explanatory grammar has expanded into a more integrated organisational structure composed of mutually constraining concepts. Viability specifies the conditions under which organised persistence can succeed or fail, while persistence describes the ongoing regeneration of organised activity across time. Constraint closure explains how living systems continuously sustain the conditions of their own existence, and coupling together with scale-coupling explains how organisation is distributed and integrated across interacting spatial and temporal domains. Agency describes the active modulation of organisation relative to viability, while semiosis and evaluation explain how differences become biologically meaningful through their role in viability-oriented regulation. Resolution, in turn, clarifies the explanatory granularity through which organisation is analysed or described.
+As APS has developed, its explanatory grammar has expanded into a more integrated organisational structure composed of mutually constraining concepts. Viability specifies the conditions under which persistence can succeed or fail. Constraint closure explains how living systems continuously sustain the conditions of their own existence. Coupling and scale-coupling explain how organisation is distributed across interacting spatial and temporal domains. Agency describes the active modulation of organisation relative to viability, while semiosis and evaluation explain how differences become biologically meaningful through their role in viability-oriented regulation. Resolution clarifies the explanatory granularity through which organisation is analysed or described.
 
 Together these concepts increasingly function not as isolated theoretical terms but as an organisational grammar for biology itself.
 
 [[box:the-organisational-grammar-of-aps]]
 
-This grammar also constrains what counts as an adequate biological explanation.
+This grammar also constrains what counts as an adequate biological explanation. Any satisfactory account must explain how activity is regulated relative to viability, how organisation is sustained across time, how persistence is distributed across scale, and how meaningful differences modulate biological activity.
 
-Any satisfactory explanation must account for how activity is regulated relative to viability, how organisation is sustained across time, how persistence is distributed across scale, and how meaningful differences modulate biological activity.
+In this sense explanatory grammar is not merely descriptive. It is methodologically normative. It specifies the organisational conditions under which biological explanation becomes coherent.
 
-Explanations omitting one or more of these dimensions may remain locally useful while nevertheless failing to capture the organisation of living systems as such.
-
-In this sense, explanatory grammar is not merely descriptive. It is methodologically normative. It specifies the organisational conditions under which biological explanation becomes coherent.
-
-This perspective aligns APS with contemporary philosophy of science approaches that treat explanation not simply as representation, but as an organised practice through which phenomena become intelligible. APS extends this insight by grounding explanatory constraints directly in the structure of living organisation itself. Explanation is not reduced to language, convention, or modelling strategy alone. It is constrained by the organisational reality of living systems.
-
-APS therefore increasingly functions as a grammar of biological intelligibility.
-
-It does not replace empirical investigation, nor impose an external philosophical structure upon biology. Rather, it makes explicit the organisational constraints already implicit within biological explanation and, in doing so, provides a more coherent account of what life must be like in order to become scientifically intelligible as life.
+APS therefore functions increasingly as a grammar of biological intelligibility rather than merely as a conceptual framework layered onto empirical biology from outside.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
@@ -283,7 +269,7 @@ Agency therefore emerges not as an optional property added onto otherwise mechan
 
 Constraint closure must therefore be understood within the broader explanatory grammar of APS.
 
-- **Closure** explains how systems sustain the conditions enabling organised activity.
+- **Constraint closure** explains how systems sustain the conditions enabling organised activity.
 - **Viability** specifies the conditions under which persistence can succeed or fail.
 - **Agency** explains how systems regulate and reorganise activity relative to those conditions.
 - **Scale-coupling** explains how organisation is distributed across interacting spatial and temporal domains.
@@ -293,7 +279,7 @@ These concepts do not function independently. Together they describe the organis
 
 The explanatory implications of this shift are substantial.
 
-Mechanistic accounts remain indispensable in biology. They explain how organised processes operate through interacting structures, pathways, and causal relations. APS does not reject mechanistic explanation. Rather, it situates mechanism within a broader account of organised persistence.
+Mechanistic accounts remain indispensable in biology. APS does not reject mechanistic explanation. Rather, it situates mechanism within a broader account of organised persistence.
 
 A mechanism may be fully specified in terms of its components and interactions while still presupposing organisational conditions not explained by the mechanism alone. Mechanisms must themselves be maintained, repaired, integrated, coordinated, and reorganised across time. Constraint closure explains how these enabling conditions remain continuously regenerated within living systems.
 
@@ -303,7 +289,7 @@ Explanatory grammar specifies the conceptual conditions under which biological s
 
 Constraint closure specifies the organisational conditions under which such systems can persist materially through time.
 
-The two converge upon the same fundamental insight: biological intelligibility depends upon organised persistence.
+The two converge upon the same central insight: biological intelligibility depends upon organised persistence.
 
 A system unable to regenerate the constraints enabling its own activity cannot coherently be understood as a biological individual within APS.
 
@@ -313,23 +299,15 @@ A biological individual is not fundamentally defined by material composition, sp
 
 Identity therefore becomes organised renewal rather than material sameness.
 
-A concrete illustration can be found in bacterial metabolic self-maintenance. Enzymatic networks generate metabolites that stabilise the enzymatic structures responsible for their production. Membrane transport systems maintain ionic gradients enabling the metabolic reactions that sustain membrane integrity. Regulatory processes coordinate exchanges with the environment while compensating for perturbation and fluctuation.
-
-These processes are not independent components assembled into a system from outside. They form a reciprocally organised network in which each process contributes to maintaining conditions required by the others.
-
-What matters biologically is therefore not the presence of particular material components alone, but the viability-oriented organisation linking them.
-
 Constraint closure also grounds biological normativity.
 
-Because living systems must continuously regenerate the conditions enabling persistence, some processes support viability while others undermine it. Functional organisation therefore cannot be understood as value-neutral contribution alone. Functions become intelligible through their role in maintaining viable organisation.
+Because living systems must continuously regenerate the conditions enabling persistence, some processes support viability while others undermine it. Functional organisation therefore becomes intelligible through its role in maintaining viable organisation.
 
 Adaptation likewise becomes the reorganisation of constraint-closed activity under changing conditions such that viability remains sustainable across time.
 
 Semiosis and evaluation emerge from the same organisational structure. Differences become biologically meaningful insofar as they modulate activity relative to viability. Constraint closure therefore contributes not only to the explanation of persistence, but also to the naturalisation of function, normativity, meaning, and biological agency.
 
-Constraint closure thus transforms the structure of biological explanation itself.
-
-The focus shifts:
+The focus of biological explanation therefore shifts:
 - from isolated mechanisms to integrated organisation,
 - from static structures to ongoing processes,
 - from externally imposed order to internally sustained persistence,
@@ -347,7 +325,7 @@ At issue is not simply whether circularity exists, but what kind of circularity 
 
 A distinction must therefore be made between vicious and virtuous circularity. Vicious circularity occurs when concepts are defined in terms of one another without generating explanatory advance. Explanation moves in a closed loop while the phenomenon itself remains no clearer than before.
 
-Virtuous circularity is different. It arises when interdependence reflects the genuine organisation of the phenomena being described. In such cases, concepts cannot be fully understood independently because the systems themselves are organisationally interdependent. Circularity then becomes not a logical defect, but an indication that explanation must capture reciprocal relations rather than linear causal sequences alone.
+Virtuous circularity is different. It arises when interdependence reflects the organisation of the phenomena being described. In such cases, concepts cannot be fully understood independently because the systems themselves are organisationally interdependent. Circularity then becomes not a logical defect, but an indication that explanation must capture reciprocal relations rather than linear causal sequences alone.
 
 APS increasingly operates in this second sense.
 
@@ -355,7 +333,7 @@ Its conceptual structure mirrors the organisational structure of living systems 
 
 APS exhibits a comparable form of conceptual organisation. Agency becomes intelligible through viability-oriented regulation, while viability itself becomes meaningful only within the context of organised persistence. Persistence depends upon processual continuity, and process becomes biologically significant through its contribution to persistence across time. Normativity emerges because viability can succeed or fail. Function becomes intelligible through normatively structured contribution to persistence, while semiosis arises through the organisation of meaningful differences relative to viability. Cognition, in turn, emerges through the temporally extended integration of evaluative semiosis.
 
-These concepts do not form a simple definitional loop. They articulate different dimensions of the same organised phenomenon: viability-oriented persistence.
+These concepts do not form a simple definitional loop. They articulate distinct but interdependent dimensions of the same organised phenomenon: viability-oriented persistence.
 
 The critical question is therefore whether this interdependence is genuinely explanatory or merely terminological.
 
@@ -369,11 +347,11 @@ In this respect, the analogy between conceptual closure and biological constrain
 
 Living systems are not organised through isolated mechanisms operating independently of one another. Their persistence depends upon reciprocally sustaining relations distributed across continuously interacting processes. Similarly, APS does not function through isolated explanatory principles assembled externally into a framework. Its central concepts constrain, stabilise, and specify one another within an integrated explanatory architecture.
 
-Conceptual closure therefore does not isolate APS from criticism. On the contrary, it organises the conditions under which criticism becomes meaningful. Each concept constrains the explanatory scope of the others. Viability constrains agency, agency constrains adaptation, constraint closure constrains individuality, semiosis constrains cognition, and resolution constrains explanatory claims concerning scale. The framework remains internally structured precisely because its concepts are mutually constraining rather than freely expandable.
+Conceptual closure therefore does not isolate APS from criticism. On the contrary, it organises the conditions under which criticism becomes meaningful. Each concept constrains the explanatory scope of the others. Viability constrains agency, agency constrains adaptation, constraint closure constrains individuality, semiosis constrains cognition, and resolution constrains explanatory claims concerning scale.
 
 This distinction is crucial.
 
-APS is closed organisationally, not dogmatically.
+APS is organisationally closed, not dogmatically closed.
 
 Its coherence does not depend upon excluding alternatives or insulating itself from revision. On the contrary, the framework must remain open to empirical and conceptual challenge if its explanatory claims are to remain legitimate.
 
@@ -395,9 +373,9 @@ Yet this openness is itself philosophically significant. APS does not claim immu
 
 ## 6. APS and the Refinement of Process Philosophy
 
-APS aligns strongly with the tradition of process philosophy in treating reality, particularly biological reality, as fundamentally dynamic and relational rather than static and substance-based. What persists through time is not a fixed entity remaining unchanged beneath superficial variation, but an organised continuity continuously maintained through ongoing transformation. Stability therefore becomes a structured form of change, and identity becomes a pattern of organised renewal rather than the preservation of immutable substance.
+APS aligns strongly with the tradition of process philosophy in treating biological reality as fundamentally dynamic and relational rather than static and substance-based. What persists through time is not a fixed entity remaining unchanged beneath superficial variation, but an organised continuity continuously maintained through ongoing transformation. Stability therefore becomes a structured form of change, and identity becomes a pattern of organised renewal rather than the preservation of immutable substance.
 
-In this respect, APS belongs within a long philosophical tradition extending from Heraclitus to contemporary process philosophy in which becoming is treated as more fundamental than static being.
+In this respect APS belongs within a long philosophical tradition extending from Heraclitus to contemporary process philosophy in which becoming is treated as more fundamental than static being.
 
 Yet APS does not merely adopt this orientation. It also refines and constrains it.
 
@@ -431,7 +409,7 @@ If viability-orientation, constraint closure, agency, scale-coupling, and evalua
 
 The framework does not deny that non-living systems may exhibit complex dynamics, self-organisation, or emergent behaviour. Rather, it argues that biological systems exhibit a more specific form of organisation grounded in viability-oriented persistence.
 
-In this sense, APS is simultaneously continuous with and divergent from process philosophy.
+In this sense APS is simultaneously continuous with and divergent from process philosophy.
 
 It remains continuous insofar as it rejects substance-based ontology and affirms the fundamentally dynamic and relational character of living systems.
 
@@ -523,7 +501,7 @@ This reframing also transforms the relation between normativity and biological e
 
 Normativity is no longer treated as an optional interpretive overlay added onto mechanistic biology. It becomes part of the organisational structure that biological explanation must account for if living systems are to become intelligible as living systems at all.
 
-In this respect, normativity is inseparable from the broader explanatory grammar of APS.
+In this respect normativity is inseparable from the broader explanatory grammar of APS.
 
 Agency expresses the viability-oriented modulation of activity. Process provides the temporal continuity through which such modulation persists. Scale and scale-coupling distribute these dynamics across interacting organisational domains. Constraint closure sustains the conditions enabling viable persistence. Semiosis and evaluation organise meaningful difference relative to viability.
 
@@ -543,7 +521,7 @@ APS is unusual among philosophical frameworks in its explicit commitment to empi
 
 This commitment is reflected in the development of diagnostic approaches, biosignature criteria, and organisational analyses designed to operationalise concepts such as viability, persistence, constraint closure, agency, and scale-coupling within real biological systems.
 
-In this respect, APS occupies a distinctive position within contemporary philosophy of biology.
+In this respect APS occupies a distinctive position within contemporary philosophy of biology.
 
 Many philosophical accounts of life primarily interpret existing scientific practices retrospectively. APS instead attempts to participate directly in the organisation of biological inquiry itself. It seeks not only to clarify biological explanation conceptually, but also to shape how living systems are identified, analysed, compared, and investigated.
 
@@ -599,7 +577,7 @@ Any sufficiently flexible framework can be applied retrospectively to biological
 
 APS remains scientifically meaningful only insofar as empirical systems retain the capacity to challenge its organisational assumptions.
 
-At the same time, APS also recognises that empirical investigation in biology is never conceptually neutral.
+At the same time APS also recognises that empirical investigation in biology is never conceptually neutral.
 
 Biological phenomena do not arrive pre-interpreted. Concepts such as organism, function, regulation, adaptation, cognition, and individuality already shape how systems are identified and studied. APS therefore does not attempt to eliminate the relation between conceptual structure and empirical inquiry. Instead, it attempts to make that relation more explicit, coherent, and biologically grounded.
 
@@ -643,7 +621,7 @@ One of the clearest domains in which this issue emerges is cognition.
 
 APS proposes continuity between life and mind by treating cognition not as a fundamentally separate mental substance, but as a developed form of viability-oriented organisation. Evaluation, semiosis, and adaptive regulation already appear in basal forms within biological organisation itself. Cognitive systems differ not because they escape biological organisation, but because evaluative semiosis becomes increasingly integrated, coordinated, and temporally extended.
 
-In this sense, cognition emerges from organisational capacities already present within life rather than being externally added to it.
+In this sense cognition emerges from organisational capacities already present within life rather than being externally added to it.
 
 Similar possibilities arise at ecological and systems scales.
 
@@ -679,7 +657,7 @@ APS therefore functions not only as a framework for extension, but also as a fra
 
 This is philosophically important because it prevents the framework from dissolving into an unrestricted process metaphysics in which distinctions between living and non-living organisation disappear entirely.
 
-At the same time, APS does not deny that important continuities may exist across domains. One of the strengths of the framework may lie precisely in its ability to clarify where genuine continuities occur and where they break down.
+At the same time APS does not deny that important continuities may exist across domains. One of the strengths of the framework may lie precisely in its ability to clarify where genuine continuities occur and where they break down.
 
 The framework therefore remains open to carefully justified extension while resisting premature generalisation.
 
@@ -721,7 +699,7 @@ This integrative role is especially important because contemporary biology often
 
 APS attempts to introduce greater conceptual discipline into this landscape by grounding explanation in viability-oriented organised persistence itself.
 
-In this sense, the framework increasingly functions less as an isolated theory than as an organisational grammar for biological explanation.
+In this sense the framework increasingly functions less as an isolated theory than as an organisational grammar for biological explanation.
 
 ### APS and Enactivism
 
@@ -763,7 +741,7 @@ Constraint closure differentiates systems capable of regenerating enabling const
 
 APS therefore does not reject systems theory. Rather, it attempts to specify what kind of system biological systems must be in order to count as living systems at all.
 
-In this sense, APS may be understood as a biologically constrained refinement of systems thinking rather than a replacement for it.
+In this sense APS may be understood as a biologically constrained refinement of systems thinking rather than a replacement for it.
 
 ### APS and Mechanistic Biology
 
@@ -823,7 +801,7 @@ This architecture also imposes limits.
 
 APS resists the tendency to universalise concepts such as process, system, interaction, or organisation without organisational specification. The framework insists that explanatory concepts acquire force only when tied to the conditions under which living systems sustain and regenerate themselves as living systems.
 
-In this respect, APS functions simultaneously as an integrative framework, an explanatory grammar, and a conceptual constraint upon biological explanation itself.
+In this respect APS functions simultaneously as an integrative framework, an explanatory grammar, and a conceptual constraint upon biological explanation itself.
 
 Its contribution therefore lies not merely in providing another perspective on life, but in clarifying how multiple biological perspectives relate to one another, where their explanatory strengths lie, and where their limitations begin.
 
@@ -853,7 +831,7 @@ In each of these roles APS seeks not to replace existing biological approaches, 
 
 This integrative ambition also explains the framework’s relation to contemporary theoretical biology more broadly. APS does not reject mechanistic biology, systems theory, autonomy theory, enactivism, process philosophy, or biosemiotics. Rather, it attempts to reorganise many of their central insights within a common explanatory architecture while preserving the distinctions necessary for biological specificity.
 
-At the same time, APS remains an open project rather than a completed doctrine.
+At the same time APS remains an open project rather than a completed doctrine.
 
 Its central claims concerning viability, constraint closure, agency, normativity, semiosis, cognition, and organised persistence remain subject to both empirical and philosophical scrutiny. The framework must demonstrate not only that it can organise biological knowledge coherently, but that it can also remain responsive to conceptual criticism, empirical resistance, and theoretical revision.
 
@@ -865,7 +843,7 @@ Instead, it reframes the problem of life itself.
 
 The central issue shifts from identifying fixed traits to understanding organised persistence; from cataloguing properties to analysing organisational relations; from static structures to ongoing processes; and from isolated mechanisms to viability-oriented organisation distributed across scale and time.
 
-In doing so, APS contributes not only to biology, but also to philosophy more broadly. It offers a biologically grounded way of approaching longstanding questions concerning organisation, causation, normativity, meaning, cognition, individuality, persistence, and the relation between life and mind.
+In doing so APS contributes not only to biology, but also to philosophy more broadly. It offers a biologically grounded way of approaching longstanding questions concerning organisation, causation, normativity, meaning, cognition, individuality, persistence, and the relation between life and mind.
 
 Whether APS ultimately succeeds as a comprehensive account of biological reality remains an open question.
 
