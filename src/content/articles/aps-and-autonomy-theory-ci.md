@@ -101,6 +101,8 @@ In this respect, autonomy theory captures something essential: that living syste
 
 APS builds directly on this foundation.
 
+[[box:organisational-biology-and-persistence]]
+
 ## The Scope of the Autonomy Framework
 
 Despite this convergence, autonomy theory does not by itself address all the explanatory distinctions required for a full account of living systems.

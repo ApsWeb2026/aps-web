@@ -39,6 +39,8 @@ This idea provides a powerful alternative to purely mechanistic descriptions bas
 
 APS adopts constraint closure as a foundational concept. However, it also clarifies its limits.
 
+[[box:organisational-biology-and-persistence]]
+
 ## What Constraint Closure Does
 
 Constraint closure explains how systems achieve organisational coherence.

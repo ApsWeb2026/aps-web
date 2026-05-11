@@ -72,13 +72,19 @@ references:
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
 ---
 
 Biological systems are often described in terms of what their parts do—hearts pump blood, leaves capture light, and enzymes catalyse reactions. These descriptions appear straightforward, but they conceal a deeper question: what makes a process or structure count as having a function at all?
 
 Traditional accounts often appeal either to causal contribution or to evolutionary history. APS takes a different approach. It grounds function in the present organisation of living systems.
 
-Function is not something assigned from the outside or inherited from the past. It is something enacted within an already organised, self-maintaining system.
+Function is not merely assigned from the outside or inherited from the past. It is something enacted within an already organised, self-maintaining system.
 
 In APS, function is the viability-relative organisational role through which persistence is made operational within a constraint-closed system.
 
@@ -93,6 +99,10 @@ Both approaches capture important aspects of biology, but neither fully explains
 Causal accounts do not distinguish between effects that matter for persistence and those that do not. Historical accounts explain how functions arise, but not how they operate in the present.
 
 APS therefore defines function in relation to ongoing organisation.
+
+Contemporary organisational approaches similarly argue that biological functions must be understood in relation to the maintenance of organised systems rather than solely through isolated causal effects or historical selection accounts (Moreno and Mossio 2015; Mossio 2023). APS strongly converges with these perspectives while placing greater emphasis on temporally extended viability-oriented persistence, adaptive regulation, and biological agency across changing conditions.
+
+[[box:organisational-biology-and-persistence]]
 
 ## Function as Viability-Relative Role
 

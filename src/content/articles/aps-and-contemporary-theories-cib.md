@@ -170,6 +170,8 @@ At the same time, APS attempts to extend organisational approaches in several im
 
 First, APS places greater emphasis on temporally extended persistence processes rather than organisational structure alone. Living systems are not merely organised states but continuously unfolding persistence dynamics.
 
+[[box:organisational-biology-and-persistence]]
+
 ## Comparative Clarification Articles
 
 The following articles examine influential contemporary frameworks individually. Each article clarifies both the explanatory strengths of the framework and the organisational limits that prevent it from functioning as a complete account of life itself.
