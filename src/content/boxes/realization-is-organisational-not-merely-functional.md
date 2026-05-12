@@ -1,4 +1,5 @@
 ---
+date: 2026-05-12
 title: "APS Box — Realization Is Organisational, Not Merely Functional"
 slug: realization-is-organisational-not-merely-functional
 type: box

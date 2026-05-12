@@ -30,14 +30,9 @@ relatedGlossaryTerms:
   - reductionism
 relatedArticles:
   - emergence-in-biology-an-aps-clarification
-  - reductionism
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology
   - why-life-is-not-computation-an-aps-clarification
-  - can-ai-be-alive
-  - cognition-where-does-it-belong
-  - systems-theory
-  - autonomy-theory
 references:
   - id: putnam1967
     authors: "Putnam, H."
