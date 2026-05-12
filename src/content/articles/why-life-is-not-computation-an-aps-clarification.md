@@ -40,6 +40,7 @@ relatedArticles:
   - malfunction-breakdown-and-death
   - biological-agency-without-intentions
   - semiosis-how-differences-come-to-matter-in-living-systems
+  - multiple-realization-and-biological-organisation
 references:
   - id: piccinini2015
     authors: "Piccinini, G."
@@ -79,6 +80,8 @@ APS rejects this conclusion.
 Computational models can successfully describe many aspects of biological activity, but computation does not explain what makes a system alive. Living systems are not defined by the execution of algorithms, but by viability-oriented, constraint-closed organisation through which they actively maintain the conditions required for their own persistence.
 
 The distinction is fundamental. Computation may occur within living systems, but life is not computation.
+
+[[box:realization-is-organisational-not-merely-functional]]
 
 ## The Computational Temptation
 

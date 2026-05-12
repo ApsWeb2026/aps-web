@@ -38,6 +38,7 @@ relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - why-aps-is-not-holism
   - why-aps-is-not-organicism
+  - multiple-realization-and-biological-organisation
 references:
   - id: "nicholson-dupre-2018"
     authors: "Nicholson, D. J., & Dupré, J."

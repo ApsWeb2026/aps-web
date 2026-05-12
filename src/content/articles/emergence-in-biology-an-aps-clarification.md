@@ -41,6 +41,7 @@ relatedArticles:
   - description-explanation-and-definition-in-biology
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
+  - multiple-realization-and-biological-organisation
 
 ---
 
@@ -110,6 +111,8 @@ Weak emergence often remains descriptively useful but explanatorily incomplete.
 Strong emergence introduces discontinuity APS considers unnecessary.
 
 APS therefore treats emergence organisationally rather than holistically. Emergent biological properties are not mysterious whole-properties added to matter from above; they arise from organised relations of constraint, process, and scale. This is why APS rejects reductionism without becoming a generic holism.
+
+[[box:realization-is-organisational-not-merely-functional]]
 
 The central APS question therefore becomes:
 > What kind of organisation makes apparently emergent phenomena possible in the first place?

@@ -45,6 +45,7 @@ relatedArticles:
   - explanatory-priority-is-not-ontological-priority
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
+  - multiple-realization-and-biological-organisation
 
 references:
   - id: Wittgenstein1953

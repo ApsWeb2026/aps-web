@@ -42,6 +42,7 @@ relatedArticles:
   - what-is-life-a-biological-question-revisited
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
+  - multiple-realization-and-biological-organisation
 
 ---
 
@@ -88,6 +89,8 @@ What the framework questions is a stronger claim:
 Living systems are materially constituted by physical and chemical processes. APS does not depart from material realism.
 
 What it rejects is the inference that material composition alone explains biological intelligibility.
+
+[[box:realization-is-organisational-not-merely-functional]]
 
 ## Explanatory Priority
 

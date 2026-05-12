@@ -36,6 +36,7 @@ relatedArticles:
   - aps-and-contemporary-theories
   - biosignatures-detecting-life-as-self-maintaining-organisation
   - why-life-is-not-intelligence-an-aps-clarification
+  - multiple-realization-and-biological-organisation
 references:
   - id: vonneumann1966
     authors: "von Neumann, J."
@@ -143,6 +144,8 @@ This distinction is essential because behaviour alone does not determine whether
 [[box:perturbation-reveals-organisation]]
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
+
+[[box:realization-is-organisational-not-merely-functional]]
 
 ## What APS Means by Life
 
