@@ -2,28 +2,122 @@
 date: 2026-04-14
 title: How to Read APS
 slug: how-to-read-this-aps-framework-website
-status: evolving
-revised: 2026-04-30
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-13
+revised: 2026-05-13
+cluster: conceptual-foundations
+
+abstract: >
+  This page explains how APS_WEB is organised and suggests reading pathways through the framework for different kinds of readers.
+
+relatedArticles:
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - how-aps-explains-life
+  - explanatory-geometry-of-biology
+
+relatedGlossaryTerms:
+  - biological-agency
+  - process
+  - scale
+  - viability
+  - constraint-closure
+  - persistence
 ---
 
-## How to Read APS
+## How APS_WEB Is Organised
 
-The APS framework is structured as a connected system of concepts rather than a sequence of standalone articles. It is designed to be read as an integrated explanatory framework, not as a collection of independent essays.
+APS_WEB is structured as a connected explanatory framework rather than a sequence of standalone essays.
 
-APS is organised through three complementary structures. **Clusters** group concepts into domains of explanation; **Research Streams** trace ongoing lines of investigation; and **cross-links** connect related ideas across the framework. These provide multiple pathways through the material without imposing a rigid hierarchy.
+The site is organised through:
+- orientation pages  
+- glossary entries  
+- canonical articles  
+- clarification articles  
+- empirical and conceptual research streams  
+- and cross-links between related concepts  
 
-If you are new to APS, begin with the Orientation pages. These introduce the framework and its central claim that life is **viability-oriented, constraint-closed organisation**, and show how the different parts of the site fit together.
+These structures are designed to help readers move between definitions, explanations, and applications without requiring a single rigid reading order.
 
-The APS Glossary provides the foundation for everything else on the site. Each term is defined precisely and used consistently across the framework. The concepts defined there are not independent labels but **mutually constraining elements of a single explanatory system**. Terms such as agency, normativity, function, and scale should therefore be understood in relation to one another, rather than in isolation.
+## Where New Readers Should Begin
 
-Articles develop the framework by showing how these concepts operate within biological explanation. They extend glossary definitions into structured accounts of organisation, persistence, and transformation. Boxes highlight key distinctions and recurring principles, and can be read either independently or within the flow of an article. For a focused account of how APS structures explanation, see **[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)**.
+If you are new to APS, begin with the orientation pages:
+
+1. *[What Is APS?](/orientation/what-is-aps/)*
+2. *[APS — A Viability-Oriented Framework for Understanding Life](/orientation/aps-viability-oriented-framework/)*
+3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+4. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+
+These pages introduce the core concepts of the framework and show how they fit together.
+
+## Different Reading Pathways
+
+Different readers may wish to approach APS from different directions.
+
+### For Philosophers of Biology
+
+Begin with:
+- *[Description, Explanation, and Definition in Biology](/articles/description-explanation-and-definition-in-biology/)*
+- *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+
+### For Biologists
+
+Begin with:
+- *[What Is Life? — A Biological Question Revisited](/articles/what-is-life-a-biological-question-revisited/)*
+- *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+- articles on evolution, organisation, and persistence
+
+### For Readers Interested in Cognition
+
+Begin with:
+- *[Cognition — Where Does It Belong?](/articles/cognition-where-does-it-belong/)*
+- *[Semiosis](/articles/semiosis/)*
+- glossary entries on cognition, semiosis, evaluation, and agency
+
+### For Readers Interested in Evolution
+
+Begin with:
+- articles on adaptation, persistence, and natural selection
+- explanatory articles on evolution and organised persistence
+
+### For Readers Interested in Borderline Cases or Life Detection
+
+Begin with:
+- *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
+- APS_LD materials
+- articles on biosignatures and organised persistence
+
+## The Role of the Glossary
+
+The *[Glossary](/glossary/)* provides the conceptual foundation for APS_WEB.
+
+Glossary entries define the core concepts used throughout the framework. Articles then show how those concepts function within biological explanation.
+
+The most effective way to read APS is therefore to move between:
+- glossary entries for conceptual precision, and  
+- articles for explanatory development and application  
 
 [[box:how-to-read-aps-as-a-coherent-framework]]
 
-APS is not intended to be read from beginning to end. It is best approached as a system that can be explored through connected pathways, moving between definitions and explanations as needed.
+## Reading APS as a Connected Framework
 
-The most effective way to read APS is to move between the glossary and the articles. The glossary provides conceptual precision; the articles show how those concepts function within explanation. Together, they form a unified framework for understanding life as **viability-oriented, constraint-closed organisation**.
+APS is not intended to be read from beginning to end in a fixed sequence.
+
+Instead, readers are encouraged to move through connected pathways:
+- from orientation to glossary,
+- from glossary to articles,
+- and from articles to related clarifications and applications.
+
+Cross-links, clusters, and related articles are intended to support this movement while preserving the coherence of the framework as a whole.
+
+## Continue Reading
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
 
 ## Key Point
 
-APS is best understood by moving between definitions and explanations—using the glossary for precision and articles for application within a connected, constraint-structured framework.
+APS is best approached through connected pathways between orientation pages, glossary definitions, explanatory articles, and applications across biology and philosophy.
