@@ -183,11 +183,20 @@ APS does not reject mechanistic explanation where mechanistic explanation is app
 
 This shift is decisive. APS does not merely introduce additional concepts into biology. It reconstructs the explanatory relations between concepts already central to biological practice. Function, normativity, purpose, semiosis, cognition, adaptation, and evolution are no longer treated as partially disconnected explanatory domains requiring separate philosophical treatment. They become integrated consequences of viability-oriented organisation itself.
 
-APS therefore proposes not a rejection of scientific biology, but a reorganisation of what biological explanation treats as explanatorily fundamental.
+APS therefore proposes not a rejection of scientific biology, but a reorganisation of biological explanation around the organisational conditions required for viability-oriented persistence.
 
 [[box:what-biological-explanation-explains]]
 
 [[box:what-aps-changes-and-what-it-does-not]]
+
+## Orientation Pathway
+
+APS develops progressively across the following explanatory sequence:
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
 
 In this respect, APS belongs within a long historical effort to understand the distinctive character of living systems while avoiding both reductive mechanism and mysterious vitalism. Like earlier traditions in theoretical biology and philosophy of biology, it recognises that living systems cannot be adequately understood as passive aggregates of components alone. APS differs, however, in seeking a unified organisational grammar capable of integrating persistence, agency, normativity, semiosis, cognition, and evolutionary transformation within a single explanatory architecture.
 
@@ -245,7 +254,7 @@ This grammar also constrains what counts as an adequate biological explanation. 
 
 In this sense explanatory grammar is not merely descriptive. It is methodologically normative. It specifies the organisational conditions under which biological explanation becomes coherent.
 
-AAPS therefore functions increasingly as a grammar of biological intelligibility organised around viability-oriented persistence rather than merely as a conceptual framework layered onto empirical biology from outside.
+APS therefore functions increasingly as a grammar of biological intelligibility organised around viability-oriented persistence rather than merely as a conceptual framework layered onto empirical biology from outside.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
@@ -856,6 +865,6 @@ Whether APS ultimately succeeds as a comprehensive account of biological reality
 
 Yet the significance of the framework lies precisely in making its organisational commitments explicit, coherent, and empirically contestable.
 
-APS therefore represents not the closure of inquiry, but the opening of a more integrated form of inquiry in which biology and philosophy become mutually clarifying rather than methodologically isolated.
+APS therefore represents not the closure of inquiry, but the opening of a more integrated form of inquiry in which biology and philosophy become mutually clarifying rather than methodologically isolated. Its central philosophical claim is not merely that life is organised, but that biological explanation itself must be organised around the conditions through which living systems sustain their own persistence across time.
 
 What the framework ultimately offers is not a final answer to the nature of life, but a disciplined and biologically grounded way of approaching the problem of how living systems become intelligible as living systems at all.

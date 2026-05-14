@@ -32,7 +32,7 @@ relatedArticles:
 
 ## What This Article Explains
 
-*[What Is APS?](/orientation/what-is-aps/)* introduces the central concepts of APS. This article explains how those concepts fit together as a unified organisational framework.
+*[What Is APS?](/orientation/what-is-aps/)* introduces the central concepts of APS. This article explains how those concepts fit together as a unified explanatory framework.
 
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive collections of components shaped entirely by external forces, but organised systems that actively sustain the conditions of their own *[persistence](/glossary/persistence/)* across time.
 
@@ -42,13 +42,22 @@ Within APS, biological explanation is organised through the interdependence of t
 - *[Process](/glossary/process/)*
 - *[Scale](/glossary/scale/)*
 
-These dimensions form the core organisational structure of the framework.
+These dimensions form the core explanatory structure through which APS understands living systems as organised persistence.
 
 [[box:what-biological-explanation-explains]]
 
 For a formal account of how this explanatory structure is organised, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
 
 For a broader discussion of how scientific frameworks organise explanation, see *[Explanatory Grammar](/articles/explanatory-grammar/)*.
+
+## Orientation Pathway
+
+APS develops progressively across the following explanatory sequence:
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
 
 ## Organised Persistence
 
@@ -66,7 +75,7 @@ Living systems persist only through continuous activity. Their organisation must
 
 Agency is always enacted through processes; processes are always coordinated across scales; and scale is constituted through the organisation of activity across space and time.
 
-APS therefore treats these dimensions not as separate explanatory domains, but as inseparable aspects of organised persistence.
+APS therefore treats these dimensions not as separate explanatory domains, but as mutually constraining aspects of viability-oriented organised persistence.
 
 Within this organisation, activity becomes differentially structured in relation to viability. Systems modulate their activity according to what supports or undermines persistence. This differential organisation constitutes *[evaluation](/glossary/evaluation/)*.
 
@@ -74,7 +83,7 @@ Through evaluation, environmental differences acquire significance for the syste
 
 *[Cognition](/glossary/cognition/)* emerges when this evaluative organisation becomes temporally extended and integrated such that present activity is structured in relation to conditions beyond the immediate present. Cognition is therefore not a separate explanatory domain, but a further organisational development within the same framework of viability-oriented activity.
 
-This allows physiology, development, ecology, evolution, and cognition to be understood as interconnected dimensions of a unified explanatory framework organised around viability-oriented persistence.
+This allows physiology, development, ecology, evolution, cognition, and semiosis to be understood as interconnected dimensions of a unified explanatory framework organised around viability-oriented persistence.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -112,9 +121,11 @@ APS does not reject mechanistic, informational, developmental, or evolutionary e
 
 Mechanisms function only within systems capable of maintaining themselves. Information matters only within systems for which differences affect viability. Evolutionary selection operates only on systems capable of sustaining organised persistence across time.
 
-APS therefore reconstructs biology around the organisational conditions that make living systems intelligible as living systems.
+APS therefore reconstructs biological explanation around the organisational conditions that make living systems intelligible as living systems.
 
 [[box:aps-box-what-aps-does-not-assume]]
+
+For a broader guide to how the orientation pages, glossary, canonical articles, clarification pathways, and empirical materials fit together across APS_WEB, see *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
 
 ## Continue Reading
 

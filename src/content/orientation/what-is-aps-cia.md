@@ -32,7 +32,7 @@ APS proposes that biological explanation is directed not merely at living matter
 
 [[box:what-biological-explanation-explains]]
 
-This page provides a concise introduction to the core ideas of APS.
+This page provides a concise introduction to the core explanatory ideas of APS.
 
 For the structural map of the framework, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*.
 
@@ -41,6 +41,15 @@ For the formal conceptual architecture of APS, see *[The Core Structure of APS �
 For the explanatory pathway developed from these ideas, see *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*.
 
 For a deeper discussion of how scientific frameworks organise explanation, see *[Explanatory Grammar](/articles/explanatory-grammar/)*.
+
+## Orientation Pathway
+
+APS can be approached progressively through the following sequence:
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
 
 ## Agency
 
@@ -71,6 +80,8 @@ Together, agency, process, and scale form the core explanatory grammar of APS, t
 APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes of persistence.
 
 For clarification, see *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
+
+For a broader guide to how the framework is organised and how the major explanatory pathways connect, see *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
 
 ## Continue Reading
 
