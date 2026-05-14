@@ -29,13 +29,12 @@ relatedGlossaryTerms:
   - persistence
 relatedArticles:
   - why-life-is-not-computation-an-aps-clarification
-  - why-life-is-not-intelligence
-  - why-life-is-not-a-machine
-  - cognition-where-does-it-belong
-  - semiosis
-  - active-inference-and-aps
-  - autopoiesis-and-aps
-  - systems-theory-and-aps
+  - why-life-is-not-intelligence-an-aps-clarification
+  - cognition-where-does-it-belong-in-biology
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - why-life-is-not-active-inference
+  - why-life-is-not-autopoiesis
+  - aps-and-systems-theory
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
 
