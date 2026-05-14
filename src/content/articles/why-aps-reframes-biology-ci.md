@@ -35,7 +35,7 @@ relatedArticles:
   - explanatory-priority-is-not-ontological-priority
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
-  - why-life-is-not-computation
+  - why-life-is-not-computation-an-aps-clarification
 ---
 
 # Why APS Reframes Biology

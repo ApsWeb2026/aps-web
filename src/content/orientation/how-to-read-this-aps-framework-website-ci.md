@@ -72,9 +72,9 @@ Begin with:
 ### For Readers Interested in Cognition
 
 Begin with:
-- *[Cognition — Where Does It Belong?](/articles/cognition-where-does-it-belong/)*
-- *[Semiosis](/articles/semiosis/)*
 - glossary entries on cognition, semiosis, evaluation, and agency
+- articles on cognition, meaning, intelligence, and consciousness
+- the cognition-related articles listed through the site’s article index and related links
 
 ### For Readers Interested in Evolution
 
