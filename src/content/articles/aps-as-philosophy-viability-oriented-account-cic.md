@@ -185,6 +185,8 @@ This shift is decisive. APS does not merely introduce additional concepts into b
 
 APS therefore proposes not a rejection of scientific biology, but a reorganisation of what biological explanation treats as explanatorily fundamental.
 
+[[box:what-biological-explanation-explains]]
+
 [[box:what-aps-changes-and-what-it-does-not]]
 
 In this respect, APS belongs within a long historical effort to understand the distinctive character of living systems while avoiding both reductive mechanism and mysterious vitalism. Like earlier traditions in theoretical biology and philosophy of biology, it recognises that living systems cannot be adequately understood as passive aggregates of components alone. APS differs, however, in seeking a unified organisational grammar capable of integrating persistence, agency, normativity, semiosis, cognition, and evolutionary transformation within a single explanatory architecture.
@@ -203,7 +205,7 @@ At this point APS no longer functions merely as an integrative biological framew
 
 The transition is subtle but important. What begins as a way of organising biological knowledge gradually becomes a proposal concerning the character of biological reality required for that knowledge to cohere.
 
-APS therefore occupies an intermediate ontological position. It is neither speculative metaphysics nor simple empirical generalisation. Its ontological commitments emerge from the explanatory structure of biological practice itself.
+APS therefore occupies an intermediate ontological position. It is neither speculative metaphysics nor simple empirical generalisation. Its ontological commitments emerge from the explanatory structure of biological practice itself. Within APS, ontology and explanation remain closely related because the organisational conditions that make living systems biologically real are also the conditions that make them biologically intelligible.
 
 In this sense, APS does not merely redescribe biological findings. It attempts to make explicit the organisational form of reality implied by them.
 
@@ -235,7 +237,7 @@ These dimensions articulate inseparable aspects of the same organised phenomenon
 
 As APS has developed, its explanatory grammar has expanded into a more integrated organisational structure composed of mutually constraining concepts. Viability specifies the conditions under which persistence can succeed or fail. Constraint closure explains how living systems continuously sustain the conditions of their own existence. Coupling and scale-coupling explain how organisation is distributed across interacting spatial and temporal domains. Agency describes the active modulation of organisation relative to viability, while semiosis and evaluation explain how differences become biologically meaningful through their role in viability-oriented regulation. Resolution clarifies the explanatory granularity through which organisation is analysed or described.
 
-Together these concepts increasingly function not as isolated theoretical terms but as an organisational grammar for biology itself.
+Together these concepts increasingly function not as isolated theoretical terms but as an organisational grammar for biology itself. Within this grammar, agency, cognition, semiosis, function, normativity, development, and evolution become interconnected dimensions of viability-oriented organised persistence rather than independent explanatory domains.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -243,7 +245,7 @@ This grammar also constrains what counts as an adequate biological explanation. 
 
 In this sense explanatory grammar is not merely descriptive. It is methodologically normative. It specifies the organisational conditions under which biological explanation becomes coherent.
 
-APS therefore functions increasingly as a grammar of biological intelligibility rather than merely as a conceptual framework layered onto empirical biology from outside.
+AAPS therefore functions increasingly as a grammar of biological intelligibility organised around viability-oriented persistence rather than merely as a conceptual framework layered onto empirical biology from outside.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 

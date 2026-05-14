@@ -44,6 +44,8 @@ Within APS, biological explanation is organised through the interdependence of t
 
 These dimensions form the core organisational structure of the framework.
 
+[[box:what-biological-explanation-explains]]
+
 For a formal account of how this explanatory structure is organised, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
 
 For a broader discussion of how scientific frameworks organise explanation, see *[Explanatory Grammar](/articles/explanatory-grammar/)*.
@@ -72,7 +74,7 @@ Through evaluation, environmental differences acquire significance for the syste
 
 *[Cognition](/glossary/cognition/)* emerges when this evaluative organisation becomes temporally extended and integrated such that present activity is structured in relation to conditions beyond the immediate present. Cognition is therefore not a separate explanatory domain, but a further organisational development within the same framework of viability-oriented activity.
 
-This allows physiology, development, ecology, evolution, and cognition to be understood within a unified explanatory structure.
+This allows physiology, development, ecology, evolution, and cognition to be understood as interconnected dimensions of a unified explanatory framework organised around viability-oriented persistence.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -100,7 +102,7 @@ APS treats scale not as a fixed hierarchy of independent levels, but as a contin
 
 [[box:aps-box-hierarchy-vs-scale]]
 
-Together, agency, process, and scale form the core organisational structure of APS. They are not independent explanatory modules, but co-constitutive dimensions through which biological organisation is maintained and understood.
+Together, agency, process, and scale form the core explanatory structure through which APS understands living systems as organised persistence.
 
 APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes coordinated across scales of organisation.
 

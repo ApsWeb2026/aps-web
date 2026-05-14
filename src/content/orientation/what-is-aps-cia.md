@@ -30,6 +30,8 @@ APS is a conceptual framework for understanding life as **viability-oriented, co
 
 APS proposes that biological explanation is directed not merely at living matter, but at the organised processes through which living systems sustain their own viability across time.
 
+[[box:what-biological-explanation-explains]]
+
 This page provides a concise introduction to the core ideas of APS.
 
 For the structural map of the framework, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*.
@@ -54,7 +56,7 @@ APS treats processes as primary for understanding biological organisation. Syste
 
 *[Scale](/glossary/scale/)* is a constitutive dimension of both agency and process. What counts as an agent, what counts as stable, and what counts as a process depends on the scale of organisation. APS treats scale not as a fixed hierarchy of levels, but as a continuous dimension across which processes are coordinated.
 
-Together, agency, process, and scale form the core explanatory grammar of APS, within which viability establishes the normative basis of biological organisation. They are not independent components, but co-constitutive dimensions through which living systems are organised and understood.
+Together, agency, process, and scale form the core explanatory grammar of APS, through which living systems are understood as viability-oriented organisations that sustain the conditions of their own persistence.
 
 ![Diagram showing agency, process, and scale as interdependent dimensions of organised biological persistence in APS](/assets/diagrams/aps-core-structure.svg)
 

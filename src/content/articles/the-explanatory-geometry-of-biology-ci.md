@@ -68,6 +68,8 @@ APS addresses this problem by making explicit the organisational structure that 
 
 At the centre of the framework is a simple but far-reaching claim: biological explanation is organised through the mutually constraining relations of **agency**, **process**, and **scale**.
 
+[[box:what-biological-explanation-explains]]
+
 [[box:the-organisational-grammar-of-aps]]
 
 [[box:how-to-read-aps-as-a-coherent-framework]]
@@ -111,6 +113,8 @@ A concept is explanatorily meaningful within APS insofar as it contributes to a 
 Function, for example, is understood as a normatively structured contribution to persistence. Purpose refers not to externally imposed design, but to the directionality of activity within viability-oriented organisation. Cognition becomes intelligible as a specialised form of evaluative organisation distributed across time.
 
 The framework therefore transforms explanation from a loose collection of partially connected concepts into a constrained explanatory grammar.
+
+Within this grammar, agency, cognition, semiosis, function, development, and evolution are not independent explanatory domains but interconnected dimensions of organised persistence.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
@@ -192,7 +196,7 @@ Constraint closure becomes especially important in this context because it ident
 
 *Constraint closure describes the reciprocal organisation through which living processes maintain the constraints enabling their continued activity.*
 
-APS therefore provides a basis for empirical investigation that extends beyond static trait identification or isolated mechanism description. It directs attention toward the organisation of persistence itself.
+APS therefore provides a basis for empirical investigation organised around the analysis of viability-oriented persistence rather than static trait identification or isolated mechanism description.
 
 This orientation is particularly important in the investigation of borderline cases, synthetic systems, protocells, artificial life, and non-standard biological organisation, where the central question becomes not simply whether a trait is present, but how organised persistence is achieved and maintained.
 
@@ -204,7 +208,7 @@ Because the same explanatory grammar applies across contexts, APS provides a uni
 - In evolution, explanation concerns how organised persistence changes across generations.
 - In ecology, explanation concerns how systems sustain themselves through interactions distributed across broader spatial and temporal domains.
 
-These are not fundamentally different kinds of explanation. They are different expressions of the same underlying organisational structure.
+These are not fundamentally different kinds of explanation. They are different expressions of a common explanatory grammar organised around viability-oriented persistence.
 
 APS therefore does not unify biology by eliminating explanatory diversity. It unifies biology by clarifying the organisational conditions underlying diverse forms of biological explanation.
 
