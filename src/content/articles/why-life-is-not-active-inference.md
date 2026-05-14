@@ -29,6 +29,7 @@ relatedArticles:
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
   - biological-causation-from-mechanism-to-organised-persistence
+  - why-ai-is-not-biological-agency
 references:
   - id: "friston-2010"
     authors: "Friston, K."
@@ -136,7 +137,7 @@ Artificial systems built on Active Inference principles can exhibit highly adapt
 
 However, their organisation remains fundamentally different.
 
-They do not sustain their own conditions of existence, do not operate through viability-oriented, constraint-closed organisation, and do not exist for themselves. Their objectives, architectures, and maintenance conditions are externally specified.
+They do not sustain their own conditions of existence, do not operate through viability-oriented, constraint-closed organisation, and do not exist for themselves. TAPS therefore distinguishes predictive optimisation from biological agency itself. Artificial systems may minimise prediction error or optimise adaptive behaviour while remaining externally maintained optimisation systems rather than endogenously self-maintaining organisms. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.Their objectives, architectures, and maintenance conditions are externally specified.
 
 For this reason, such systems may display complex or intelligent behaviour, but they do not, by themselves, instantiate cognition in the APS sense. Cognition, in APS, depends on the organisation of evaluative activity within systems that regulate their own persistence.
 

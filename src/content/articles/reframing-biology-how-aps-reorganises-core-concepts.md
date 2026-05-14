@@ -46,7 +46,7 @@ The following table summarises how APS reframes key biological concepts:
 | **Organisation (Hierarchy)** | Discrete levels of organisation | Scale-coupled, processual organisation | Replaces hierarchy with continuous, interacting scales |
 | **Agency** | Anthropomorphic or cognitive | Intrinsic capacity to sustain persistence | Agency becomes defining, not optional |
 | **Teleology / Purpose** | External or metaphorical | Bioteleology: immanent viability-orientation | Naturalises purposiveness |
-| **Cognition** | Neural or representational | Viability evaluation (sense–value–action) | Extends cognition beyond neurons |
+| **Cognition** | Neural or representational | Viability-oriented evaluative organisation | Extends cognition beyond neurons while distinguishing biological cognition from externally maintained optimisation |
 | **Adaptation** | Trait change via selection | Reorganisation of constraint-closed processes | Unifies development and evolution |
 | **Evolution** | Genetic change over time | Historical dimension of agency | Evolution as extended activity |
 | **Individuality** | Genetic or morphological unity | Constraint-closed coherence | Recognises graded individuality |

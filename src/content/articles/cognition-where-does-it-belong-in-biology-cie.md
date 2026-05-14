@@ -29,6 +29,7 @@ relatedArticles:
   - why-life-is-not-intelligence-an-aps-clarification
   - description-explanation-and-definition-in-biology
   - multiple-realization-and-biological-organisation
+  - why-ai-is-not-biological-agency
 references:
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."
@@ -207,6 +208,8 @@ A system can evaluate its environment without representing it in a symbolic or m
 - are integrated into ongoing regulation  
 
 Cognition in this sense is grounded in **function and organisation**, not in internal representations.
+
+APS therefore distinguishes biological cognition from adaptive information processing alone. Artificial systems may simulate responsiveness, optimisation, or context-sensitive behaviour while remaining externally maintained systems lacking viability-oriented organisational persistence. For a fuller discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.
 
 This allows cognition to be understood as a biological phenomenon grounded in life processes, but not identical with them.
 

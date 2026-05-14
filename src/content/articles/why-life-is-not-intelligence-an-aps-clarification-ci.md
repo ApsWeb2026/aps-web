@@ -32,6 +32,7 @@ relatedArticles:
   - what-is-a-biological-system
   - why-life-is-not-information-processing
   - biological-agency-without-intentions
+  - why-ai-is-not-biological-agency
 references:
   - id: trewavas2003
     authors: "Trewavas, A."
@@ -197,6 +198,8 @@ Yet current artificial systems generally:
 - and do not persist through endogenous self-maintenance.
 
 Their continued operation depends upon externally maintained infrastructure.
+
+APS develops this distinction further in *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*. Contemporary AI systems may optimise, learn, and generate highly adaptive behaviour while remaining externally maintained optimisation systems rather than endogenously viability-oriented organisations.
 
 Failure is therefore technical rather than existential.
 

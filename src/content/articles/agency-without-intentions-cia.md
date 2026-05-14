@@ -23,6 +23,7 @@ relatedArticles:
   - aps-glossary-as-constraint-closed-conceptual-system
   - why-life-is-not-intelligence-an-aps-clarification
   - description-explanation-and-definition-in-biology
+  - why-ai-is-not-biological-agency
 references:
   - id: barandiaran-2009
     authors: "Barandiaran, X. E., Di Paolo, E. A., & Rohde, M."
@@ -79,6 +80,8 @@ APS rejects this requirement.
 The behaviour of even simple organisms can be understood as the outcome of organised processes that are sensitive to environmental conditions and modulate activity accordingly. These processes do not require internal representations. They operate through the coupling of the system’s organisation to its environment in ways that preserve viability.
 
 To describe such activity as representational is to import additional assumptions that are not required for explanation. Agency can be fully accounted for in terms of organisation, constraint, and evaluation.
+
+APS therefore distinguishes biological agency both from representational cognition and from externally scaffolded optimisation. Artificial systems may behave adaptively, strategically, or responsively while remaining dependent upon externally maintained organisational conditions rather than participating in endogenous viability-oriented persistence. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.
 
 Representation, where it occurs, is a further development of biological organisation, not a prerequisite for agency.
 

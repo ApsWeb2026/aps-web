@@ -28,6 +28,7 @@ relatedArticles:
   - why-aps-is-not-hierarchical
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
+  - why-ai-is-not-biological-agency
 ---
 
 ## Systems Theory and the Study of Organisation
@@ -108,7 +109,7 @@ Because systems theory can describe complex, adaptive, and dynamically stable be
 
 From an APS perspective, this descriptive power does not imply that such systems instantiate cognition.
 
-Cognition, in APS, is not defined by behavioural complexity, feedback, or dynamical organisation alone. It is a mode of viability-oriented, constraint-sensitive organisation found in systems that regulate their own conditions of persistence.
+Cognition, in APS, is not defined by behavioural complexity, feedback, or dynamical organisation alone. APS therefore distinguishes biological organisation from adaptive systems in general. Artificial, computational, or cybernetic systems may exhibit feedback, regulation, optimisation, and distributed coordination without participating in viability-oriented self-maintaining persistence. Behavioural sophistication alone is therefore insufficient for biological agency or cognition. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.It is a mode of viability-oriented, constraint-sensitive organisation found in systems that regulate their own conditions of persistence.
 
 Many non-biological systems can exhibit sophisticated forms of coordination, adaptation, or optimisation. However, they do not sustain themselves as systems, do not generate their own conditions of existence, and do not operate through constraint-closed organisation.
 

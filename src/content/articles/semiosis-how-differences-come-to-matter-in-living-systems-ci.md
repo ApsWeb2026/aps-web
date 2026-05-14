@@ -26,6 +26,7 @@ relatedArticles:
   - biological-agency-without-intentions
   - why-life-is-not-information-processing
   - description-explanation-and-definition-in-biology
+  - why-ai-is-not-biological-agency
 references:
   - id: peirce1931
     authors: "Peirce, C. S."
@@ -112,6 +113,8 @@ A bacterium moving along a chemical gradient does not need a symbolic model of i
 - acted upon relative to viability
 
 Meaning in this sense is organisational rather than representational.
+
+APS therefore distinguishes biological semiosis from signal processing in general. Artificial systems may register, classify, and respond to differences without those differences participating in viability-oriented organisational persistence. In living systems, semiosis matters because differences become consequential for the continued existence of the organism itself. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.
 
 Semiosis therefore does not depend on:
 - language

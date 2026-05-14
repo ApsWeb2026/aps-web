@@ -41,6 +41,7 @@ relatedArticles:
   - biological-agency-without-intentions
   - semiosis-how-differences-come-to-matter-in-living-systems
   - multiple-realization-and-biological-organisation
+  - why-ai-is-not-biological-agency
 references:
   - id: piccinini2015
     authors: "Piccinini, G."
@@ -177,7 +178,7 @@ Computation can occur in systems that are clearly not alive:
 
 Such systems may be adaptive, self-modifying, and highly complex. They may even exhibit forms of self-regulation.
 
-But their continued existence does not matter to themselves in the biological sense. Their goals, evaluation criteria, and success conditions remain externally specified.
+But their continued existence does not matter to themselves in the biological sense. Their goals, evaluation criteria, and success conditions remain externally specified. This is the distinction APS develops in more detail in *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*. Contemporary AI systems may optimise, learn, and respond adaptively, but they remain externally maintained optimisation systems rather than endogenously viability-oriented organisations.
 
 Failure in such systems is typically technical or functional relative to external purposes. Failure in living systems is existential because the system’s own persistence is at stake.
 
