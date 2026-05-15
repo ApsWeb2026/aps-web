@@ -28,6 +28,10 @@ relatedGlossaryTerms:
   - cognition
   - adaptation
   - evolution
+  - mechanism
+  - holism
+  - organicism
+  - teleonomy
 
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account
@@ -41,6 +45,8 @@ relatedArticles:
   - aps-and-the-extended-evolutionary-synthesis
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 
 references:
   - id: pezzulo-levin-2026
@@ -141,7 +147,7 @@ Genes, organisms, developmental systems, ecological relations, regulatory dynami
 
 [[box:scale-is-not-hierarchy]]
 
-APS therefore resists attempts to reduce life to any single organisational dimension.
+APS therefore resists attempts to reduce life to any single organisational dimension. Nor does APS identify life with computation, intelligence, prediction, or information processing considered independently of viability-oriented organisation.
 
 It does not claim that life is fundamentally information processing, computation, control, prediction, self-production, adaptation, or cognition. Rather, these become intelligible as interconnected dimensions of viability-oriented organised persistence.
 
@@ -166,7 +172,7 @@ Work associated with organisational biology — especially theories of autonomy,
 
 APS strongly converges with these insights.
 
-The framework likewise treats living systems as organisationally constituted, dynamically maintained, and intrinsically normative. Biological functions are understood in relation to the persistence of organised systems rather than as isolated mechanical effects, while failure, malfunction, repair, and adaptation become intelligible only relative to the continued viability of the organisation itself.
+The framework likewise treats living systems as organisationally constituted, dynamically maintained, viability-oriented, and intrinsically normative. Biological functions are understood in relation to the persistence of organised systems rather than as isolated mechanical effects, while failure, malfunction, repair, and adaptation become intelligible only relative to the continued viability of the organisation itself.
 
 At the same time, APS attempts to extend organisational approaches in several important ways.
 
@@ -184,6 +190,8 @@ The following articles examine influential contemporary frameworks individually.
 - **[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)**
 - **[Why Life Is Not Enactivism](/articles/why-life-is-not-enactivism/)**
 - **[Why Life Is Not Autopoiesis](/articles/why-life-is-not-autopoiesis/)**
+- **[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)**
+- **[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)**
 
 These articles should not be read as dismissals.
 
@@ -213,7 +221,7 @@ These articles examine where APS converges with existing frameworks, where it di
 
 APS therefore operates integratively without collapsing into unrestricted theoretical pluralism.
 
-The framework does not simply combine concepts from multiple traditions. It attempts to specify the organisational conditions under which those concepts become biologically meaningful.
+Rather than simply combining concepts from multiple traditions, APS attempts to specify the organisational conditions under which those concepts become biologically meaningful.
 
 ## Contemporary Convergences
 

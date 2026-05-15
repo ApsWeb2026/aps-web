@@ -15,6 +15,8 @@ relatedArticles:
   - reductionism-in-biology-an-aps-clarification
   - why-aps-is-not-holism
   - why-aps-is-not-organicism
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 
 relatedGlossaryTerms:
   - biological-agency
@@ -59,7 +61,7 @@ This viability-based normativity provides the basis for how APS understands func
 
 ## Process
 
-APS treats processes as primary for understanding biological organisation. Systems are not entities that merely undergo processes; they are *[process](/glossary/process/)*—dynamic organisations that give rise to relatively stable structures. This perspective reshapes how persistence, identity, and change are understood in living systems.
+APS treats processes as primary for understanding biological organisation. Systems are not entities that merely undergo processes; they are dynamically organised through ongoing *[process](/glossary/process/)*. Relatively stable structures arise from these continuously organised activities. This perspective reshapes how persistence, identity, and change are understood in living systems.
 
 ## Scale
 
@@ -77,7 +79,7 @@ Together, agency, process, and scale form the core explanatory grammar of APS, t
 
 [[box:description-is-not-explanation]]
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes of persistence.
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Nor does APS identify life with computation, intelligence, or behavioural complexity alone. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes of persistence distributed across agency, process, and scale.
 
 For clarification, see *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
 
@@ -93,6 +95,8 @@ For a broader guide to how the framework is organised and how the major explanat
 - *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
+- *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
 ## Key Terms
 

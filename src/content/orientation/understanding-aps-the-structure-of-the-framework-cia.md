@@ -28,6 +28,8 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - the-core-structure-of-aps-how-the-framework-fits-together
   - how-aps-explains-life
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 ---
 
 ## What This Article Explains
@@ -52,7 +54,7 @@ For a broader discussion of how scientific frameworks organise explanation, see 
 
 ## Orientation Pathway
 
-APS develops progressively across the following explanatory sequence:
+APS can be approached through the following orientation sequence:
 
 - *[What Is APS?](/orientation/what-is-aps/)*
 - *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
@@ -105,7 +107,7 @@ Persistence is therefore not the absence of change, but the continuous regenerat
 
 ### Scale
 
-Biological organisation always occurs across scale. Processes unfold across nested spatial and temporal ranges, from molecular interactions to ecological systems and evolutionary transformations.
+Biological organisation always occurs across scale. Processes unfold across interacting spatial and temporal ranges, from molecular interactions to ecological systems and evolutionary transformations.
 
 APS treats scale not as a fixed hierarchy of independent levels, but as a continuous dimension across which organised activity is coordinated.
 
@@ -113,7 +115,7 @@ APS treats scale not as a fixed hierarchy of independent levels, but as a contin
 
 Together, agency, process, and scale form the core explanatory structure through which APS understands living systems as organised persistence.
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes coordinated across scales of organisation.
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Nor does APS identify life with computation, intelligence, or behavioural complexity considered in abstraction from viability-oriented organisation. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
 
 ## How APS Reorganises Biological Explanation
 
@@ -137,6 +139,8 @@ For a broader guide to how the orientation pages, glossary, canonical articles, 
 - *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
+- *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
 ## Key Terms
 

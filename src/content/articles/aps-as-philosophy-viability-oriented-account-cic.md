@@ -51,6 +51,8 @@ relatedArticles:
   - description-explanation-and-definition-in-biology
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 
 references:
   - id: aristotle
@@ -191,7 +193,7 @@ APS therefore proposes not a rejection of scientific biology, but a reorganisati
 
 ## Orientation Pathway
 
-APS develops progressively across the following explanatory sequence:
+APS can be approached through the following orientation sequence:
 
 - *[What Is APS?](/orientation/what-is-aps/)*
 - *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
@@ -330,31 +332,29 @@ Living systems become intelligible not as collections of parts, but as dynamical
 
 ## 5. Conceptual Closure and the Problem of Circularity
 
-One of the defining strengths of APS is the degree of coherence linking its central concepts. Viability, persistence, agency, normativity, function, semiosis, adaptation, and evolution are not introduced as isolated explanatory terms. Each acquires meaning through its relation to the others within a coordinated account of living organisation.
+One of the defining features of APS is the coherence linking its central concepts. Viability, persistence, agency, normativity, function, semiosis, adaptation, and evolution are not introduced as isolated explanatory terms. Each acquires meaning through its relation to the others within a coordinated account of living organisation.
 
 This interdependence gives the framework much of its explanatory power. Yet it also raises an important philosophical question: does APS genuinely explain these concepts, or does it merely stabilise them within a self-reinforcing conceptual network?
 
-At issue is not simply whether circularity exists, but what kind of circularity is involved.
+The issue is therefore not whether circularity exists, but what kind of circularity is involved.
 
-A distinction must therefore be made between vicious and virtuous circularity. Vicious circularity occurs when concepts are defined in terms of one another without generating explanatory advance. Explanation moves in a closed loop while the phenomenon itself remains no clearer than before.
+Vicious circularity occurs when concepts merely redefine one another without explanatory advance. Virtuous circularity occurs when conceptual interdependence reflects the organisation of the phenomena themselves. In such cases, concepts cannot be fully understood independently because the systems being described are themselves organisationally interdependent. Circularity then becomes not a logical defect, but an indication that biological explanation must capture reciprocal organisational relations rather than simple linear causal sequences.
 
-Virtuous circularity is different. It arises when interdependence reflects the organisation of the phenomena being described. In such cases, concepts cannot be fully understood independently because the systems themselves are organisationally interdependent. Circularity then becomes not a logical defect, but an indication that explanation must capture reciprocal relations rather than linear causal sequences alone.
-
-APS increasingly operates in this second sense.
+APS increasingly operates in this latter sense.
 
 Its conceptual structure mirrors the organisational structure of living systems themselves. Living systems persist through networks of reciprocally dependent processes. Constraint closure exists because processes continuously regenerate the constraints enabling those same processes. Organised persistence therefore depends upon reciprocal organisational relations rather than unidirectional chains of causation.
 
-APS exhibits a comparable form of conceptual organisation. Agency becomes intelligible through viability-oriented regulation, while viability itself becomes meaningful only within the context of organised persistence. Persistence depends upon processual continuity, and process becomes biologically significant through its contribution to persistence across time. Normativity emerges because viability can succeed or fail. Function becomes intelligible through normatively structured contribution to persistence, while semiosis arises through the organisation of meaningful differences relative to viability. Cognition, in turn, emerges through the temporally extended integration of evaluative semiosis.
+APS exhibits a comparable form of conceptual organisation. Agency becomes intelligible through viability-oriented regulation, while viability itself becomes meaningful only within organised persistence. Process explains the temporal continuity through which persistence is maintained, normativity emerges because viability can succeed or fail, and function becomes intelligible through contribution to organised persistence. Semiosis and evaluation explain how differences become biologically meaningful, while cognition emerges through increasingly integrated and temporally extended forms of evaluative semiosis.
 
 These concepts do not form a simple definitional loop. They articulate distinct but interdependent dimensions of the same organised phenomenon: viability-oriented persistence.
 
 The critical question is therefore whether this interdependence is genuinely explanatory or merely terminological.
 
-If APS concepts merely redescribe one another without introducing additional organisational constraints, then the framework risks collapsing into a self-referential vocabulary whose coherence is purchased at the expense of explanatory depth.
+If APS concepts merely redescribe one another without introducing additional organisational constraints, the framework risks collapsing into a self-referential vocabulary whose coherence is purchased at the expense of explanatory depth.
 
-APS increasingly avoids this problem because its concepts are not interchangeable. Each introduces a distinct explanatory dimension. Viability introduces normative conditions governing persistence. Constraint closure explains reciprocal organisational dependence. Agency explains active modulation relative to viability. Scale-coupling explains distributed organisation across interacting domains. Evaluation and semiosis explain how differences become biologically meaningful. Evolution explains the historical transformation of organised persistence across generations.
+APS avoids this problem because its concepts are not interchangeable. Each introduces a distinct explanatory dimension. Viability specifies normative conditions governing persistence, constraint closure explains reciprocal organisational dependence, agency explains viability-oriented modulation, scale-coupling explains distributed organisation across interacting domains, and semiosis and evaluation explain how differences become biologically meaningful. Evolution explains the historical transformation of organised persistence across generations.
 
-Their interdependence therefore reflects the multidimensional structure of living systems themselves rather than arbitrary definitional overlap.
+Their interdependence therefore reflects the multidimensional organisation of living systems rather than arbitrary definitional overlap.
 
 In this respect, the analogy between conceptual closure and biological constraint closure becomes more than illustrative.
 
@@ -362,9 +362,7 @@ Living systems are not organised through isolated mechanisms operating independe
 
 Conceptual closure therefore does not isolate APS from criticism. On the contrary, it organises the conditions under which criticism becomes meaningful. Each concept constrains the explanatory scope of the others. Viability constrains agency, agency constrains adaptation, constraint closure constrains individuality, semiosis constrains cognition, and resolution constrains explanatory claims concerning scale.
 
-This distinction is crucial.
-
-APS is organisationally closed, not dogmatically closed.
+APS is therefore organisationally closed, not dogmatically closed.
 
 Its coherence does not depend upon excluding alternatives or insulating itself from revision. On the contrary, the framework must remain open to empirical and conceptual challenge if its explanatory claims are to remain legitimate.
 
@@ -382,7 +380,7 @@ The challenge is therefore not to eliminate circularity altogether, but to deter
 
 Whether APS ultimately succeeds in this task remains an open question.
 
-Yet this openness is itself philosophically significant. APS does not claim immunity from revision. Rather, it attempts to make explicit the organisational commitments already implicit within biological explanation and to determine whether those commitments can sustain a coherent account of life as viability-oriented organised persistence.
+Yet this openness is philosophically important. APS does not claim immunity from revision. Rather, it attempts to make explicit the organisational commitments already implicit within biological explanation and to determine whether those commitments can sustain a coherent account of life as viability-oriented organised persistence.
 
 ## 6. APS and the Refinement of Process Philosophy
 
@@ -766,7 +764,7 @@ APS fully recognises the indispensability of mechanistic explanation.
 
 The framework argues, however, that mechanisms alone do not fully explain biological organisation. Mechanisms themselves must persist, remain integrated, undergo repair, coordinate across scale, and continue operating under changing conditions.
 
-Mechanistic analysis therefore presupposes forms of organised persistence not fully captured by decomposition into component interactions alone.
+Mechanistic analysis therefore presupposes forms of organised persistence not fully captured by decomposition into component interactions alone. Mechanisms acquire biological intelligibility only within systems capable of sustaining and reorganising themselves across time.
 
 APS extends mechanistic explanation by situating mechanisms within viability-oriented organisational continuity.
 
@@ -795,7 +793,7 @@ Semiosis therefore emerges from organisational normativity rather than from repr
 This allows APS to naturalise meaning more directly within biological organisation itself.
 
 ### APS Organicism and Holism
-APS is anti-reductionist, but it is not anti-analytic. It does not replace mechanism with vague appeals to wholeness, nor does it revive classical organismic metaphysics. Its philosophical contribution lies in treating biological intelligibility as organisational: life is explained through viability-oriented, constraint-closed processes of persistence.
+APS is anti-reductionist, but it is not anti-analytic. Nor does APS identify life with computation, intelligence, information processing, or behavioural complexity considered independently of viability-oriented organisation. It does not replace mechanism with vague appeals to wholeness, nor does it revive classical organismic metaphysics. Its philosophical contribution lies in treating biological intelligibility as organisational: life is explained through viability-oriented, constraint-closed processes of persistence.
 
 ### Integration Without Eclecticism
 
