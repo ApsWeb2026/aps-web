@@ -41,8 +41,8 @@ relatedArticles:
   - description-explanation-and-definition-in-biology
   - multiple-realization-and-biological-organisation
   - why-ai-is-not-biological-agency
-  - semiosis
-  - consciousness
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - consciousness-an-aps-clarification
 
 references:
   - id: varela1991
@@ -258,7 +258,7 @@ This graded structure allows cognition to be compared across systems without tre
 
 ## Cognition and Biological Agency
 
-Cognition and **[biological-agency](/glossary/biological-agency/)** are closely related but not identical.
+Cognition and **[biological agency](/glossary/biological-agency/)** are closely related but not identical.
 
 - Agency refers to the ongoing activity through which a system sustains its own organisation  
 - Evaluation refers to how that activity is differentially modulated in relation to viability  

@@ -1,30 +1,44 @@
 ---
-date: 2026-04-27
+date: 2026-05-15
 title: Why Life Is Not Control Theory
 slug: why-life-is-not-control-theory
 status: canonical
-revised: 2026-04-28
+canonical: true
+canonicalLockDate: 2026-05-15
+revised: 2026-05-15
 cluster: conceptual-foundations
-abstract: |
-  Control theory provides a powerful framework for understanding regulation, feedback, and stability in complex systems. While it captures important aspects of biological organisation, it does not explain what makes living systems distinct. APS shows that biological regulation is grounded not in externally specified control, but in viability-oriented, constraint-closed organisation.
-keyPoints:
-  - Control theory models systems in terms of feedback, regulation, and stability.
-  - It captures important aspects of how biological systems maintain organisation.
-  - However, control systems are defined relative to externally specified goals or setpoints.
-  - Living systems generate and maintain their own conditions of existence.
-  - APS explains regulation as viability-oriented organisation, not externally defined control.
+
+abstract: >
+  Control theory provides powerful models of regulation, feedback, and
+  stability in complex systems. APS accepts that these models capture
+  important aspects of biological organisation, but rejects the stronger
+  claim that life itself is fundamentally a form of control. Biological
+  regulation is grounded not in externally specified targets, but in
+  viability-oriented organisation through which systems sustain the
+  conditions of their own persistence.
+
 relatedGlossaryTerms:
   - biological-agency
-  - normativity
   - viability
+  - normativity
+  - evaluation
+  - semiosis
+  - cognition
   - function
+  - persistence
   - constraint-closure
   - coupling
+
 relatedArticles:
   - aps-and-contemporary-theories
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
+  - why-life-is-not-active-inference
   - biological-causation-from-mechanism-to-organised-persistence
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - why-ai-is-not-biological-agency
+
 references:
   - id: wiener1948
     authors: "Wiener, N."
@@ -78,108 +92,266 @@ references:
     source: "Springer"
 ---
 
-Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+# Why Life Is Not Control Theory
 
-This article examines control theory and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+Control theory has profoundly shaped modern understandings of regulation, stability, and organisation.
 
-## The Appeal of Control Theory
+Across cybernetics, systems biology, neuroscience, physiology, robotics, and artificial intelligence, living systems are frequently described as control systems:
+- maintaining variables within bounds
+- correcting deviations from target states
+- and stabilising activity through feedback
 
-Control theory provides a general framework for understanding how systems maintain stability in changing conditions.
+These frameworks have generated powerful explanatory tools.
 
-It models systems in terms of:
+APS accepts that control-theoretic approaches capture important aspects of biological organisation.
 
-- feedback loops  
-- error correction  
-- regulation toward target states  
+But it rejects the stronger claim that life itself is fundamentally a form of control.
 
-These ideas have been widely applied in biology, from homeostasis to neural regulation.
+Biological systems are not merely systems regulating variables relative to externally specified goals.
 
-It is therefore natural to interpret living systems as control systems.
-
-APS accepts that this captures something real.
-
-But it rejects the claim that life is control.
+They are viability-oriented organisations whose activity contributes to sustaining the conditions of their own persistence.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 [[box:description-is-not-explanation]]
 
-## What It Explains Well
+## What Control Theory Explains Well
 
-Control-theoretic models successfully explain:
+Control theory successfully explains many important biological phenomena, including:
+- feedback regulation
+- homeostasis
+- behavioural stability
+- coordinated adjustment
+- dynamic equilibrium
+- and distributed regulation across interacting components
 
-- how systems maintain stability  
-- how feedback regulates behaviour  
-- how deviations from target states are corrected  
-- how coordinated regulation can emerge across interacting components  
+These are genuine features of living systems.
 
-These are genuine features of biological systems.
+Control-theoretic models also provide powerful mathematical and engineering tools for analysing:
+- regulatory dynamics
+- coupled systems
+- adaptive coordination
+- and multilevel interactions
 
-Control-theoretic models capture important aspects of regulation and stability, but they do not explain the viability-oriented organisation that determines why such regulation matters for the system.
+APS fully recognises the scientific importance of these frameworks.
 
-## Control Presupposes Goals
+Where organised living systems already exist, control theory provides important descriptions of how regulation occurs within them.
 
-A defining feature of control systems is that they regulate behaviour relative to a goal, setpoint, or desired state.
+However, these descriptions presuppose organisational conditions they do not themselves explain.
 
-In engineering contexts, these targets are specified externally.
+Control theory describes how systems maintain stability.
 
-Even in more abstract formulations, the system is defined in terms of variables that are to be maintained within certain bounds.
+It does not explain:
+- why stability matters biologically
+- how viability conditions arise
+- why some states count as failure
+- or how systems exist as organised persistence-maintaining processes in the first place
 
-APS argues that this is not sufficient, by itself, to explain what makes a system a living system.
+## Regulation Presupposes Viability
 
-Living systems do not regulate themselves relative to externally specified goals, but relative to the conditions that sustain their own viability. What appears as goal-directed behaviour is grounded in the organisation of activity relative to viability, rather than in externally defined targets. They regulate themselves because their continued existence depends on it.
+Control systems regulate activity relative to goals, setpoints, or target states.
 
-## Why Regulation Is Not Enough
+In engineering systems, these targets are externally specified.
+
+Even in abstract formulations, systems are defined relative to variables that are to be maintained within acceptable bounds.
+
+APS argues that this is insufficient to explain biological organisation fundamentally.
+
+Living systems do not regulate themselves relative to externally imposed objectives.
+
+They regulate activity relative to viability.
+
+A living system must:
+- sustain itself
+- maintain organisational integrity
+- regulate conditions of existence
+- and persist across time through ongoing activity
+
+This viability-oriented persistence is more fundamental than control itself.
+
+What appears as goal-directed regulation is grounded in organisational conditions required for continued existence.
+
+APS therefore distinguishes:
+- externally specified control
+from:
+- viability-oriented biological regulation
+
+## Evaluation Before Control
+
+APS grounds regulation in evaluation rather than control.
+
+Evaluation is the ongoing modulation of activity relative to viability conditions.
+
+Living systems continuously differentiate between:
+- persistence-supporting conditions
+- persistence-undermining conditions
+- and organisationally significant environmental differences
+
+This evaluative organisation precedes explicit control architectures.
+
+A bacterium moving toward nutrients does not necessarily implement an abstract control system.
+
+A plant reorganising growth under drought conditions need not centrally regulate itself through predefined targets.
+
+An immune system distinguishing tolerated from damaging states need not operate through explicit representational control.
+
+These systems already exhibit:
+- biological agency
+- normativity
+- evaluation
+- and viability-oriented regulation
+
+without requiring externally specified control structures.
+
+Control may emerge within increasingly sophisticated forms of biological organisation.
+
+But evaluation is biologically prior.
+
+[[box:what-aps-means-by-cognition]]
+
+## Semiosis and Biological Regulation
+
+APS also distinguishes semiosis from control.
+
+Control-theoretic approaches often treat biological regulation as the management of signals relative to targets.
+
+APS instead argues that signals matter biologically because they participate in evaluative organisation.
+
+Differences become meaningful through viability-oriented activity itself.
+
+Chemical gradients, stress signals, hormonal changes, or electrophysiological states matter biologically because they contribute to:
+- persistence
+- coordination
+- adaptation
+- and organisational regulation
+
+Semiosis therefore emerges because differences become biologically meaningful within evaluative activity rather than because systems merely control variables abstractly.
+
+Meaning is grounded in viability-oriented organisation rather than in control architecture alone.
+
+## Why Stability Is Not Enough
 
 Control theory explains how systems maintain stability.
 
-It does not explain:
+It does not explain why that stability is existentially significant for the system itself.
 
-- why certain states matter for the system  
-- why failure is existential rather than functional  
-- how the conditions of regulation are established  
-- how the system itself is sustained over time  
+A thermostat regulates temperature.  
+An autopilot stabilises trajectory.  
+An optimisation system maintains operational parameters.
 
-In control theory, regulation is defined relative to a predefined objective.
+Yet such systems do not sustain themselves as living organisations.
 
-In living systems, regulation is grounded in **viability**: the system must sustain the conditions required for its own persistence.
+Living systems differ because:
+- failure threatens persistence directly
+- regulation contributes to continued existence
+- organisational integrity must be regenerated continuously
+- and breakdown carries existential rather than merely functional consequences
 
-## The APS Perspective: Regulation as Viability-Oriented Organisation
+Biological regulation is therefore not merely the maintenance of variables within bounds.
 
-APS reframes regulation in biological terms.
+It is the ongoing organisation of viability-oriented persistence.
 
-In APS:
+## Distributed Regulation and Organisational Closure
 
-- regulation is not the maintenance of externally defined setpoints  
-- it is the ongoing modulation of activity relative to viability  
-- the system determines what matters through its own organisation  
+Control-theoretic approaches often imply:
+- centralized regulation
+- supervisory control
+- or hierarchical command structures
 
-This introduces **endogenous normativity**.
+APS rejects this assumption.
 
-States matter because they contribute to or undermine the system’s continued existence—not because they are specified as targets. This differentiation is a form of evaluation: the ongoing modulation of activity in relation to what supports or undermines persistence.
+Biological systems are not centrally controlled machines.
 
-Regulation is therefore not imposed from outside but arises from the organisation of the system itself.
+Regulation in living systems is typically:
+- distributed
+- multiscale
+- processual
+- and organisationally coupled
 
-This viability-based normativity grounds biological function as the normatively structured contribution of processes to persistence, and purpose as the organisation of activity relative to those conditions.
+No single component “controls” the organism absolutely.
 
-## Machines, AI, and Control
+Instead:
+- processes constrain one another
+- activity is coordinated across scales
+- and regulation emerges through ongoing organisational interaction
 
-Artificial systems can implement highly sophisticated control architectures. They can regulate variables, adapt to disturbances, and maintain stability across changing conditions.
+This is why APS emphasises:
+- constraint closure
+- coupling
+- persistence
+- and process organisation
 
-However, their organisation remains fundamentally different from that of living systems.
+rather than centralized control architecture.
 
-They do not sustain their own conditions of existence, do not generate their own goals, and do not operate through viability-oriented, constraint-closed organisation.
+## Control Without Life
 
-For this reason, such systems may exhibit complex regulation, but they do not instantiate biological agency or cognition in the APS sense.
+Artificial systems can implement extremely sophisticated control architectures.
 
-## Summary
+They may:
+- regulate variables adaptively
+- maintain dynamic stability
+- optimise behaviour
+- coordinate distributed activity
+- and respond flexibly to perturbation
 
-Control theory provides powerful tools for understanding regulation and stability in complex systems.
+APS fully recognises these achievements.
 
-APS agrees that living systems are highly regulated and dynamically stable.
+However, such systems remain fundamentally different from biological systems unless they possess viability-oriented, self-maintaining organisation.
 
-However, control theory does not explain what makes a system a living system. Regulation alone is not sufficient. Living systems are defined by viability-oriented, self-sustaining organisation.
+Artificial systems may:
+- regulate behaviour
+- optimise performance
+- process signals
+- and maintain operational stability
 
-## Key Point
+while remaining externally scaffolded systems whose continued existence does not depend upon endogenous persistence-maintaining organisation.
 
-Control theory explains how systems regulate behaviour, but life is defined by the viability-oriented organisation that makes such regulation necessary.
+Control therefore does not explain biological agency by itself.
+
+Nor does optimisation, regulation, or adaptive coordination alone explain how systems sustain themselves as living processes.
+
+[[box:aps-box-definition-diagnosis-and-evidence]]
+
+## The APS Perspective
+
+APS does not reject control theory.
+
+It situates control within a broader organisational framework.
+
+From an APS perspective:
+- control theory describes important aspects of biological regulation
+- regulation presupposes viability-oriented organisation
+- evaluation modulates activity relative to persistence
+- semiosis structures differences as biologically meaningful
+- cognition emerges through increasingly integrated evaluative organisation
+- and control becomes one possible mode of regulatory coordination within already existing living systems
+
+The central explanatory task is therefore not merely to explain how variables are stabilised.
+
+It is to explain how systems sustain themselves as organised persistence-maintaining processes in the first place.
+
+Control must therefore be understood through the same organisational grammar governing biological explanation more generally:
+- agency
+- process
+- scale
+- viability
+- evaluation
+- semiosis
+- cognition
+- and persistence
+
+## Closing Perspective
+
+Control theory provides powerful tools for understanding regulation, feedback, and stability.
+
+APS accepts that living systems are highly regulated and dynamically organised.
+
+But biological organisation cannot be reduced to control architecture alone.
+
+Living systems do not regulate themselves because external targets have been specified.
+
+They regulate themselves because their continued existence depends upon sustaining viability-oriented organisation across time.
+
+Life is not fundamentally control.
+
+Control is one way living systems coordinate persistence.

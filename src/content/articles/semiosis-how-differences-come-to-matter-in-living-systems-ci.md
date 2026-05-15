@@ -39,7 +39,7 @@ relatedArticles:
   - why-life-is-not-information-processing
   - description-explanation-and-definition-in-biology
   - why-ai-is-not-biological-agency
-  - consciousness
+  - consciousness-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
 
 references:
