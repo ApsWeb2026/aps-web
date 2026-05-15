@@ -29,13 +29,18 @@ relatedArticles:
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
   - why-ai-is-not-biological-agency
+  - reductionism-in-biology-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
+  - multiple-realization-and-biological-organisation
 ---
 
 ## Systems Theory and the Study of Organisation
 
 Systems theory encompasses a broad set of approaches that model phenomena in terms of interacting components, feedback loops, and dynamic behaviour. In biology, these approaches have been central to moving beyond strictly reductionist explanations.
 
-Rather than analysing isolated parts, systems approaches examine how interactions among components produce organised behaviour over time. Concepts such as feedback, regulation, stability, and emergence are central to this perspective.
+Rather than analysing isolated parts, systems approaches examine how interactions among components produce organised behaviour over time. Concepts such as feedback, regulation, stability, and emergence are central to this perspective. APS treats such phenomena organisationally rather than as unexplained higher-order properties. See *[Emergence in Biology — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*.
 
 These tools have proven extremely powerful for describing biological systems, from metabolic networks to ecological dynamics. In this respect, systems theory captures an important aspect of living organisation: that biological phenomena are distributed across interacting processes rather than located in isolated components.
 
@@ -47,7 +52,7 @@ Both reject the idea that biological explanation can be reduced to isolated part
 
 Systems concepts such as feedback, coupling, and dynamic stability align naturally with APS descriptions of how living systems sustain themselves. In particular, the emphasis on distributed causation resonates with APS’s view that agency, process, and scale are co-constitutive.
 
-For these reasons, systems theory provides an important descriptive and analytical toolkit within an APS framework.
+For these reasons, systems theory provides an important descriptive and analytical toolkit within an APS framework. APS therefore preserves the explanatory strengths of systems approaches while rejecting the idea that formal system description alone exhausts biological explanation. See *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
@@ -63,7 +68,7 @@ As a result, systems theory can be applied equally to:
 - economic systems  
 - climate dynamics  
 
-The same formal tools describe all of these cases, but they do not distinguish between them in terms of their mode of organisation.
+The same formal tools describe all of these cases, but they do not distinguish between them in terms of their mode of organisation. This also helps explain why similar functional patterns may be realised across very different material systems without thereby erasing the distinction between biological and non-biological organisation. See *[Multiple Realization and Biological Organisation](/articles/multiple-realization-and-biological-organisation/)*.
 
 ## APS: From Systems to Biological Organisation
 
@@ -109,7 +114,15 @@ Because systems theory can describe complex, adaptive, and dynamically stable be
 
 From an APS perspective, this descriptive power does not imply that such systems instantiate cognition.
 
-Cognition, in APS, is not defined by behavioural complexity, feedback, or dynamical organisation alone. APS therefore distinguishes biological organisation from adaptive systems in general. Artificial, computational, or cybernetic systems may exhibit feedback, regulation, optimisation, and distributed coordination without participating in viability-oriented self-maintaining persistence. Behavioural sophistication alone is therefore insufficient for biological agency or cognition. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.It is a mode of viability-oriented, constraint-sensitive organisation found in systems that regulate their own conditions of persistence.
+Cognition, in APS, is not defined by behavioural complexity, feedback, or dynamical organisation alone. APS therefore distinguishes biological organisation from adaptive systems in general. Artificial, computational, or cybernetic systems may exhibit feedback, regulation, optimisation, and distributed coordination without participating in viability-oriented self-maintaining persistence. Behavioural sophistication alone is therefore insufficient for biological agency or cognition.
+
+ From an APS perspective, this descriptive power does not imply that such systems instantiate cognition.
+
+Cognition, in APS, is not defined by behavioural complexity, feedback, or dynamical organisation alone. It is a mode of viability-oriented, constraint-sensitive organisation found in systems that regulate their own conditions of persistence.
+
+APS therefore distinguishes biological organisation from adaptive systems in general. Artificial, computational, or cybernetic systems may exhibit feedback, regulation, optimisation, and distributed coordination without participating in viability-oriented self-maintaining persistence.
+
+Behavioural sophistication alone is therefore insufficient for biological agency or cognition. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)* and *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*.
 
 Many non-biological systems can exhibit sophisticated forms of coordination, adaptation, or optimisation. However, they do not sustain themselves as systems, do not generate their own conditions of existence, and do not operate through constraint-closed organisation.
 

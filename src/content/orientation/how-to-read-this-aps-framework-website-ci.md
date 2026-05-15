@@ -24,7 +24,7 @@ relatedArticles:
   - why-aps-is-not-holism
   - why-aps-is-not-organicism
   - why-life-is-not-computation-an-aps-clarification
-  - why-life-is-not-intelligence
+  - why-life-is-not-intelligence-an-aps-clarification
   - why-ai-is-not-biological-agency
 
 relatedGlossaryTerms:
@@ -187,7 +187,7 @@ These include:
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
 - *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
-- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 - *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
 
 These articles are important because APS develops through conceptual clarification as well as positive explanatory construction.

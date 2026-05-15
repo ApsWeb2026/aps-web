@@ -42,6 +42,8 @@ relatedArticles:
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
   - multiple-realization-and-biological-organisation
+  - explanatory-priority-is-not-ontological-priority
+   - why-life-is-not-computation-an-aps-clarification
 
 ---
 
@@ -110,7 +112,7 @@ APS accepts neither emergence category as explanatorily sufficient.
 Weak emergence often remains descriptively useful but explanatorily incomplete.
 Strong emergence introduces discontinuity APS considers unnecessary.
 
-APS therefore treats emergence organisationally rather than holistically. Emergent biological properties are not mysterious whole-properties added to matter from above; they arise from organised relations of constraint, process, and scale. This is why APS rejects reductionism without becoming a generic holism.
+APS therefore treats emergence organisationally rather than holistically. Emergent biological properties are not mysterious whole-properties added to matter from above; they arise from organised relations of constraint, process, and scale. This is why APS rejects reductionism without becoming a generic holism. This also distinguishes explanatory priority from ontological priority: higher-order organisation is not a separate substance or force, but the organisational context within which component activity becomes biologically intelligible.
 
 [[box:realization-is-organisational-not-merely-functional]]
 

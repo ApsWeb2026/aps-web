@@ -31,6 +31,7 @@ relatedGlossaryTerms:
   - constraint-closure
   - explanatory-grammar
   - function
+  - emergence
 
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account
@@ -43,6 +44,8 @@ relatedArticles:
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
   - multiple-realization-and-biological-organisation
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 
 ---
 
@@ -125,6 +128,8 @@ APS therefore separates two questions often conflated in reductionist reasoning:
 The first is addressed through physics and chemistry.
 The second requires an account of organised persistence.
 
+This distinction also helps clarify why biological organisation is frequently multiply realizable across differing material implementations. See *[Multiple Realization and Biological Organisation](/articles/multiple-realization-and-biological-organisation/)*.
+
 ## Reductionism and Explanatory Sufficiency
 
 APS does not deny that lower-level investigation can be explanatorily powerful.
@@ -199,6 +204,8 @@ Mechanisms themselves must:
 
 These organisational conditions are not eliminated by mechanistic explanation.
 They are presupposed by it.
+
+The same clarification applies to computational and informational models: such models may capture important organisational features of living systems without thereby exhausting the biological reality they describe.
 
 APS therefore situates mechanisms within a broader explanatory grammar grounded in viability-oriented organised persistence.
 

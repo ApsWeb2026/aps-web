@@ -25,6 +25,12 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
   - organism-the-unity-of-viability-oriented-organisation
   - biological-causation-from-mechanism-to-organised-persistence
+   - reductionism-in-biology-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
+  - explanatory-priority-is-not-ontological-priority
+  - why-aps-is-not-holism
+  - why-aps-is-not-organicism
+  - multiple-realization-and-biological-organisation
 references:
   - id: varela1979
     authors: "Varela, F. J."
@@ -84,7 +90,7 @@ At its core is the concept of **constraint closure**: the idea that living syste
 
 This insight re-established biology on an organisational foundation. Living systems are not merely collections of interacting parts but **self-maintaining unities** whose continued existence depends on the ongoing coordination of their internal processes.
 
-APS fully endorses this insight.
+APS fully endorses this insight. APS therefore shares autonomy theory’s organisational orientation while avoiding both reductionist mechanism and vague appeals to holistic totality. Organisation is treated as biologically intelligible through viability-oriented, constraint-closed persistence rather than as an irreducible whole-property.
 
 ## Points of Convergence with APS
 
@@ -134,15 +140,15 @@ Autonomy theory emphasises organisation but does not fully formalise how this or
 
 APS introduces a more explicit treatment of **scale**.
 
-Living systems are not organised in strictly hierarchical layers but through **coordinated processes across multiple spatial and temporal scales**. Local interactions, system-wide organisation, and long-term dynamics are all integrated within the same viability-oriented framework.
+Living systems are not organised in strictly hierarchical layers but through **coordinated processes across multiple spatial and temporal scales**. This also helps explain how viability-oriented organisation may remain continuous across differing material implementations without reducing biological identity to any single structural configuration. See *[Multiple Realization and Biological Organisation](/articles/multiple-realization-and-biological-organisation/)*. Local interactions, system-wide organisation, and long-term dynamics are all integrated within the same viability-oriented framework.
 
-This allows APS to describe biological organisation without reducing it either to micro-level mechanisms or to abstract system-level properties.
+This allows APS to describe biological organisation without reducing it either to micro-level mechanisms or to abstract system-level properties. APS therefore distinguishes explanatory priority from ontological priority: organisational analysis does not deny material constitution but specifies the organisational conditions under which biological processes become intelligible as biological processes.
 
 ## Evolutionary Continuity
 
 A further extension concerns the relationship between organisation and evolution.
 
-Autonomy theory focuses primarily on the organisation of individual systems. APS extends this analysis into **evolutionary processes**, showing how viability-oriented organisation is maintained, transformed, and transmitted across generations.
+Autonomy theory focuses primarily on the organisation of individual systems. APS extends this analysis into **evolutionary processes**, showing how viability-oriented organisation is maintained, transformed, and transmitted across generations. From this perspective, biological novelty reflects organisational transformation across historically continuous systems rather than unexplained emergent discontinuities.
 
 This connects:
 
@@ -166,6 +172,8 @@ In living systems:
 This asymmetry is not externally imposed but arises from the system’s own organisation. It constitutes **biological normativity**: the intrinsic distinction between what sustains and what degrades the system.
 
 APS therefore makes explicit what is implicit in autonomy theory: that constraint closure is not merely structural but **normatively organised around viability**.
+
+This also distinguishes biological normativity from externally assigned function or observer-relative evaluation.
 
 ## The APS Perspective
 
