@@ -4,15 +4,15 @@ title: How to Read APS
 slug: how-to-read-this-aps-framework-website
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-14
-revised: 2026-05-14
+canonicalLockDate: 2026-05-15
+revised: 2026-05-15
 cluster: conceptual-foundations
 
 abstract: >
-  This page explains how APS_WEB is organised and provides
-  recommended pathways through the APS framework. APS is presented
-  not as a collection of standalone essays, but as a connected
-  explanatory architecture organised around viability-oriented, constraint-closed organised persistence.
+  This page explains how APS_WEB is organised and provides recommended
+  pathways through the APS framework. APS is presented not as a collection
+  of standalone essays, but as a connected explanatory architecture
+  organised around viability-oriented, constraint-closed organised persistence.
 
 relatedArticles:
   - what-is-aps
@@ -31,6 +31,7 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
+  - scale-coupling
   - viability
   - constraint-closure
   - persistence
@@ -38,13 +39,16 @@ relatedGlossaryTerms:
   - normativity
   - cognition
   - semiosis
+  - mechanism
+  - holism
+  - organicism
 ---
 
 # The Organisational Structure of APS
 
 This website is organised as a connected explanatory framework rather than a sequence of standalone essays.
 
-The framework develops progressively through interconnected explanatory pathways:
+The framework is organised through interconnected explanatory pathways:
 - orientation pages introducing the core explanatory structure of APS
 - glossary entries defining the framework’s conceptual vocabulary
 - canonical articles developing the explanatory architecture in greater depth
@@ -54,6 +58,8 @@ The framework develops progressively through interconnected explanatory pathways
 These components are designed to function together as an integrated explanatory system organised around viability-oriented organised persistence.
 
 APS therefore approaches biological intelligibility not as the accumulation of isolated explanations, but as the organisation of explanatory relations within viability-oriented systems capable of sustaining themselves across time.
+
+APS is therefore neither reductionist, holistic, computationalist, nor intelligence-centric. Its position is organisational: living systems are understood through viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
 
 [[box:what-biological-explanation-explains]]
 
@@ -75,10 +81,10 @@ If you are new to APS, the framework is best approached through the following ex
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*  
    — develops APS as a unified explanatory grammar for biology
 
-5. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*  
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*  
    — explores the philosophical implications of the framework’s explanatory architecture
 
-Together these pages progressively develop APS from an introductory biological framework into a broader account of biological intelligibility organised around viability-oriented persistence.
+Together these pages introduce APS as a connected account of biological intelligibility organised around viability-oriented persistence.
 
 ## Orientation, Glossary, and Articles
 
@@ -86,7 +92,7 @@ APS_WEB is structured so that different kinds of content perform different expla
 
 ### Orientation Pages
 
-The orientation pages introduce the framework progressively and establish the core explanatory architecture of APS.
+The orientation pages establish the core explanatory architecture of APS and provide entry points into the wider framework.
 
 These pages are designed to:
 - introduce the central concepts of the framework
@@ -204,7 +210,7 @@ They help stabilise the explanatory boundaries of the framework while clarifying
 
 ## Reading APS as a Connected Framework
 
-APS is not intended to be read from beginning to end in a rigid sequence.
+APS is not intended to be read through a single rigid sequence.
 
 Instead, readers are encouraged to move through connected explanatory pathways:
 - from orientation pages to glossary entries
@@ -222,7 +228,3 @@ APS is therefore best approached not as a static body of doctrine, but as a prog
 - *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
 - *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
-
-## Key Point
-
-APS is best approached as a connected explanatory architecture linking orientation, conceptual clarification, explanatory integration, and empirical application within a unified account of viability-oriented organised persistence.

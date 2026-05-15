@@ -4,12 +4,15 @@ title: "How APS Explains Life — A Two-Step Guide"
 slug: how-aps-explains-life
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-13
-revised: 2026-05-13
+canonicalLockDate: 2026-05-15
+revised: 2026-05-15
 cluster: conceptual-foundations
 
 abstract: >
-  This page provides the clearest entry into how APS approaches biological explanation. It identifies two linked explanatory steps: defining the target of biological explanation and specifying the organisational structure required to explain it.
+  This page provides the clearest entry into how APS approaches biological
+  explanation. It identifies two linked explanatory steps: defining the target
+  of biological explanation and specifying the organisational structure
+  required to explain it.
 
 relatedGlossaryTerms:
   - viability
@@ -17,7 +20,10 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
+  - scale-coupling
   - persistence
+  - normativity
+  - mechanism
 
 relatedArticles:
   - biological-explanation-what-needs-to-be-explained
@@ -25,6 +31,8 @@ relatedArticles:
   - description-explanation-and-definition-in-biology
   - explanatory-geometry-of-biology
   - reductionism-in-biology-an-aps-clarification
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 ---
 
 ## Introduction
@@ -64,7 +72,7 @@ The article *The Structure of Biological Explanation in APS* develops this accou
 
 within a unified organisational framework.
 
-This provides the explanatory structure through which living systems become intelligible as living systems.
+This provides the explanatory structure through which living systems become intelligible as organised forms of persistence.
 
 → *[Read The Structure of Biological Explanation in APS](/articles/structure-of-biological-explanation-in-aps/)*
 
@@ -81,7 +89,9 @@ From this point, readers can explore how APS develops these ideas across:
 - system–environment relations  
 - and the philosophy of biology  
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its position is organisational: biological explanation is directed at viability-oriented, constraint-closed processes sustained across scale.
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Nor does APS identify life with computation, intelligence, or behavioural complexity considered independently of viability-oriented organisation.
+
+Its position is organisational: biological explanation is directed at viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
 
 ## Continue Reading
 
@@ -93,11 +103,9 @@ APS rejects reductionism, but it is not therefore a simple holism or a revival o
 - *[Description, Explanation, and Definition in Biology](/articles/description-explanation-and-definition-in-biology/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
 - *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
+- *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
 ## Key Point
 
 APS explains life by first identifying viability-oriented organisation as the target of biological explanation, and then specifying the organisational structure required to account for it.
-
-## Key Terms
-
-viability · constraint closure · agency · process · scale · persistence
