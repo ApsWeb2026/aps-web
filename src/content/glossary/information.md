@@ -12,8 +12,8 @@ definition: >
   In APS, information is not a fundamental property of life but an
   organisationally derived relation in which differences become biologically
   significant within viability-oriented systems. Information depends upon
-  evaluation, semiosis, and persistence-maintaining organisation rather than
-  constituting the foundational basis of biological activity.
+  evaluation, semiosis, meaning, and persistence-maintaining organisation
+  rather than constituting the foundational basis of biological activity.
 
 inBrief: >
   APS treats information as biologically meaningful only within systems already
@@ -24,6 +24,7 @@ inBrief: >
 relatedGlossaryTerms:
   - evaluation
   - semiosis
+  - meaning
   - representation
   - cognition
   - normativity
@@ -37,6 +38,7 @@ relatedArticles:
   - why-life-is-not-information-processing
   - semiosis-how-differences-come-to-matter-in-living-systems
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - meaning-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems
   - why-life-is-not-active-inference
 
@@ -92,8 +94,8 @@ In APS, information becomes biologically significant only within systems already
 
 A difference counts as informational for a system only if it participates in:
 - evaluation,
-- regulation,
 - semiosis,
+- regulation,
 - or persistence-maintaining activity.
 
 For example:
@@ -109,7 +111,9 @@ Semiosis precedes representation because differences become biologically meaning
 
 APS therefore treats information as organisationally derivative rather than ontologically primary.
 
-Living systems do not exist because information flows through them.
+Meaning concerns viability-relevant significance, whereas information concerns the organised participation of differences within biological activity.
+
+Living systems do not exist because information flows through them, encodes them, or computationally specifies them.
 
 Rather, information becomes possible because living systems already exist as viability-oriented, persistence-maintaining organisations.
 
@@ -120,5 +124,6 @@ Information must therefore be understood through the broader organisational gram
 - viability,
 - evaluation,
 - semiosis,
+- meaning,
 - cognition,
 - and persistence.

@@ -5,24 +5,36 @@ slug: semiosis
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-05-06
+revised: 2026-05-15
 cluster: cognition-mind
-definition: "In APS, semiosis is the viability-relative structuring of activity through which differences come to matter for the regulation of organised persistence."
-inBrief: "Semiosis is the viability-relative structuring of meaningful difference within organised activity."
-seeAlso:
+
+definition: >
+  In APS, semiosis is the viability-relative structuring of activity through
+  which differences become biologically meaningful within organised
+  persistence. Semiosis emerges through evaluation and grounds meaning,
+  information, and cognition within viability-oriented systems.
+
+inBrief: >
+  Semiosis is the viability-relative structuring of meaningful difference
+  within organised activity through which biological meaning emerges.
+
+relatedGlossaryTerms:
   - viability
-  - viability-orientation
+  - persistence
   - normativity
+  - evaluation
+  - meaning
+  - information
+  - representation
   - biological-agency
   - cognition
-  - evaluation
-  - persistence
-  - function
-  - purpose
-  - counterfactual-depth
+
 relatedArticles:
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
   - cognition-where-does-it-belong-in-biology
-  - meaning-in-biology
+
 references:
   - id: peirce1931
     authors: "Peirce, C. S."
@@ -66,16 +78,16 @@ references:
 Semiosis is commonly understood as the production, transmission, and interpretation of signs.
 
 In classical semiotics, especially in the work of Charles Sanders Peirce, semiosis involves a triadic relation between:
-- a sign
-- its object
-- and an interpretant
+- a sign,
+- its object,
+- and an interpretant.
 
 In biology and cognitive science, semiosis is often extended to:
-- signalling
-- communication
-- coding
-- information processing
-- or representation
+- signalling,
+- communication,
+- coding,
+- information processing,
+- or representation.
 
 APS reframes semiosis organisationally rather than symbolically.
 
@@ -84,10 +96,10 @@ APS reframes semiosis organisationally rather than symbolically.
 In APS, semiosis is the viability-relative structuring of activity through which differences come to matter for the regulation of organised persistence.
 
 Semiosis is therefore not primarily:
-- symbolic
-- representational
-- computational
-- or linguistic
+- symbolic,
+- representational,
+- computational,
+- or linguistic.
 
 It is an organisational feature of living systems.
 
@@ -121,7 +133,7 @@ It is the organisation of meaningful differentiation within viability-oriented a
 
 ## Semiosis and Evaluation
 
-Semiosis builds upon evaluation.
+Semiosis emerges through evaluation.
 
 Living systems continuously modulate activity relative to viability-relevant conditions.
 
@@ -131,15 +143,17 @@ Semiosis refers to the structuring through which such differences become biologi
 
 Meaning therefore emerges through viability-relative organisation rather than through symbolic decoding or detached interpretation.
 
+Information emerges where these meaningful differences participate in organised biological regulation and coordination.
+
 ## Semiosis and Biological Agency
 
 Semiosis is inseparable from biological agency.
 
 Living systems actively regulate:
-- physiology
-- behaviour
-- development
-- environmental interaction
+- physiology,
+- behaviour,
+- development,
+- environmental interaction,
 - and adaptive organisation
 
 relative to viability constraints.
@@ -153,19 +167,19 @@ Agency therefore expresses viability-oriented regulation, while semiosis structu
 Semiosis also grounds biological function.
 
 Functional contributions matter because living systems differentiate:
-- beneficial from harmful transformations
-- stabilising from destabilising activity
-- viable from non-viable organisational states
+- beneficial from harmful transformations,
+- stabilising from destabilising activity,
+- viable from non-viable organisational states.
 
 Function therefore depends upon semiosis insofar as components acquire significance through their contribution to organised persistence.
 
 ## Meaning Without Representation
 
 APS rejects the idea that biological meaning necessarily requires:
-- internal representation
-- symbolic content
-- explicit modelling
-- or detached interpretation
+- internal representation,
+- symbolic content,
+- explicit modelling,
+- or detached interpretation.
 
 Meaning is not assigned to signs from outside the system.
 
@@ -175,7 +189,7 @@ Instead, meaning is enacted through the viability-relative organisation of activ
 
 A condition becomes meaningful when it differentially modulates activity relative to organised persistence.
 
-Meaning is therefore organisational before it is representational.
+Meaning is therefore organisational before it becomes representational, symbolic, or informationally formalised.
 
 ## Semiosis Across Scale
 
@@ -192,34 +206,20 @@ Semiosis therefore extends across continuously interacting organisational domain
 Cognition develops from increasingly integrated and temporally extended semiosis.
 
 In more elaborated systems, meaningful differentiation becomes:
-- more coordinated
-- more flexible
-- more temporally extended
-- and more integrated across the organisation of activity as a whole
+- more coordinated,
+- more flexible,
+- more temporally extended,
+- and more integrated across the organisation of activity as a whole.
 
 This enables present regulation to occur relative to:
-- anticipated conditions
-- absent conditions
-- remembered conditions
+- anticipated conditions,
+- absent conditions,
+- remembered conditions,
 - and counterfactual possibilities
 
 without requiring explicit symbolic representation.
 
-Cognition therefore represents a more integrated organisation of semiosis rather than a fundamentally separate category of process.
-
-## Semiosis and Counterfactual Depth
-
-Semiosis contributes to counterfactual depth when meaningful differentiation extends beyond immediately present conditions.
-
-Living systems may regulate activity relative to:
-- possible future states
-- delayed consequences
-- remembered conditions
-- or indirect environmental relations
-
-The significance of these conditions remains grounded in viability-oriented organisation rather than detached symbolic modelling.
-
-Counterfactual depth therefore extends semiosis temporally without requiring representational cognition.
+Cognition therefore represents a more integrated, temporally extended, and behaviourally coordinated organisation of semiosis rather than a fundamentally separate category of process.
 
 [[box:what-aps-means-by-meaning]]
 
@@ -228,11 +228,9 @@ Counterfactual depth therefore extends semiosis temporally without requiring rep
 In APS, semiosis is the viability-relative structuring of activity through which differences come to matter for the regulation of organised persistence.
 
 Semiosis is:
-- organisational rather than symbolic
-- viability-oriented rather than informational alone
-- normative rather than value-neutral
-- and processual rather than representational
+- organisational rather than symbolic,
+- viability-oriented rather than informational alone,
+- normative rather than value-neutral,
+- and processual rather than representational.
 
-Semiosis therefore grounds biological meaning in the organisation of living systems themselves.
-
-Cognition emerges when semiosis becomes increasingly integrated, flexible, and temporally extended within viability-oriented biological organisation.
+Semiosis therefore grounds biological meaning, informational significance, and cognition within the organisation of living systems themselves.

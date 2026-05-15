@@ -2,26 +2,40 @@
 date: 2026-04-28
 title: Evaluation
 slug: evaluation
-definition: "In APS, evaluation is the viability-oriented differential modulation of activity relative to conditions, differences, and transformations that matter for organised persistence."
-inBrief: "Evaluation is the viability-oriented modulation of activity relative to what matters for persistence."
+definition: >
+  In APS, evaluation is the viability-oriented differential modulation of
+  activity relative to conditions, differences, and transformations that
+  matter for organised persistence. Evaluation grounds biological meaning,
+  semiosis, and cognition by modulating activity relative to viability.
+
+inBrief: >
+  Evaluation is the viability-oriented modulation of activity relative to what
+  matters for organised persistence.
+
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-28
-revised: 2026-05-06
+revised: 2026-05-15
 cluster: cognition-mind
-seeAlso:
+
+relatedGlossaryTerms:
   - viability
-  - viability-orientation
+  - persistence
   - normativity
-  - mattering
   - semiosis
+  - meaning
+  - information
   - biological-agency
   - cognition
-  - counterfactual-depth
-  - cognitive-integration
+  - representation
+
 relatedArticles:
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
   - cognition-where-does-it-belong-in-biology
+
 references:
   - id: jonas1966
     authors: "Jonas, H."
@@ -57,17 +71,17 @@ references:
 ## Conventional Framing
 
 Evaluation is commonly understood as:
-- judgement
-- assessment
-- comparison
-- decision-making
-- or cognitive appraisal
+- judgement,
+- assessment,
+- comparison,
+- decision-making,
+- or cognitive appraisal.
 
 It is frequently associated with:
-- representation
-- awareness
-- symbolic reasoning
-- or conscious choice
+- representation,
+- awareness,
+- symbolic reasoning,
+- or conscious choice.
 
 Under these framings, evaluation is typically treated as a specialised cognitive process.
 
@@ -78,10 +92,10 @@ APS reframes evaluation biologically and organisationally.
 In APS, evaluation is the viability-oriented differential modulation of activity relative to conditions, differences, and transformations that matter for organised persistence.
 
 Evaluation is therefore not primarily:
-- psychological
-- representational
-- inferential
-- or reflective
+- psychological,
+- representational,
+- inferential,
+- or reflective.
 
 It is a fundamental organisational feature of living systems.
 
@@ -110,31 +124,41 @@ Normativity establishes the viability-relative asymmetry through which condition
 Evaluation is the active modulation of activity relative to that asymmetry.
 
 Some conditions:
-- support persistence
-- stabilise organisation
-- enable recovery
-- or extend viability
+- support persistence,
+- stabilise organisation,
+- enable recovery,
+- or extend viability.
 
 Others:
-- destabilise organisation
-- undermine persistence
-- or contribute to breakdown
+- destabilise organisation,
+- undermine persistence,
+- or contribute to breakdown.
 
 Evaluation differentially regulates activity relative to these conditions.
 
 Normativity provides the organisational asymmetry; evaluation enacts it dynamically.
 
-## Evaluation and Mattering
+## Evaluation and Meaning
 
-Evaluation depends upon mattering.
+Evaluation grounds biological meaning.
 
-Conditions matter when they acquire viability-relative significance for organised persistence.
+Differences become meaningful because evaluation modulates activity relative to their viability significance.
 
-Evaluation modulates activity relative to what matters biologically.
+Meaning therefore emerges not from symbolic representation alone, but from the ways living systems differentially regulate activity relative to conditions affecting organised persistence.
 
-Mattering therefore establishes the significance of conditions, while evaluation regulates activity in response to that significance.
+## Evaluation and Semiosis
 
-Evaluation is the process through which viability-relative mattering becomes enacted in living activity.
+Evaluation grounds semiosis.
+
+Semiosis refers to the structuring of meaningful difference within organised activity.
+
+Evaluation modulates activity relative to those meaningful differences.
+
+Evaluation therefore establishes how differences acquire viability-relative significance within organised activity, while semiosis structures those differences as biologically meaningful.
+
+The two are inseparable but analytically distinct:
+- evaluation modulates activity,
+- semiosis structures meaningful differentiation.
 
 ## Evaluation and Biological Agency
 
@@ -145,64 +169,50 @@ Agency refers to the active regulation and modulation of viability-oriented orga
 Evaluation specifies how this regulation occurs.
 
 Living systems continuously:
-- stabilise
-- compensate
-- redirect
-- reorganise
+- stabilise,
+- compensate,
+- redirect,
+- reorganise,
 - and coordinate activity
 
 relative to conditions affecting viable persistence.
 
 Agency expresses ongoing viability-oriented activity; evaluation organises its differential modulation.
 
-## Evaluation and Semiosis
-
-Evaluation grounds semiosis.
-
-Semiosis refers to the structuring of meaningful difference within organised activity.
-
-Evaluation modulates activity relative to those meaningful differences.
-
-Evaluation therefore establishes how differences affect viability-oriented regulation, while semiosis structures those differences as biologically meaningful.
-
-The two are inseparable but analytically distinct:
-- evaluation modulates activity
-- semiosis structures meaningful differentiation
-
 ## Evaluation and Cognition
 
 All living systems exhibit evaluation, but not all evaluative systems are cognitive.
 
 Cognition emerges only when evaluative organisation becomes sufficiently:
-- integrated
-- flexible
-- coordinated
+- integrated,
+- flexible,
+- coordinated,
 - and temporally extended
 
 that present activity is regulated relative to:
-- absent conditions
-- delayed consequences
-- anticipated possibilities
-- remembered states
-- or counterfactual relations
+- absent conditions,
+- delayed consequences,
+- anticipated possibilities,
+- remembered states,
+- or counterfactual relations.
 
 Evaluation is therefore necessary for cognition but not sufficient for it.
 
-Cognition represents a more integrated and temporally extended organisation of evaluative semiosis.
+Cognition represents a more integrated, temporally extended, and behaviourally coordinated organisation of evaluative semiosis.
 
 ## Evaluation Without Representation
 
 APS rejects the idea that evaluation fundamentally requires:
-- symbolic representation
-- internal models
-- explicit prediction
-- or reflective awareness
+- symbolic representation,
+- internal models,
+- explicit prediction,
+- or reflective awareness.
 
 Living systems may evaluate:
-- nutrient gradients
-- physiological instability
-- environmental perturbation
-- behavioural opportunity
+- nutrient gradients,
+- physiological instability,
+- environmental perturbation,
+- behavioural opportunity,
 - or organisational disruption
 
 through direct modulation of activity relative to viability conditions.
@@ -222,16 +232,17 @@ These are not separate levels of evaluation but scale-coupled forms of viability
 In APS, evaluation is the viability-oriented differential modulation of activity relative to conditions, differences, and transformations that matter for organised persistence.
 
 Evaluation is:
-- organisational rather than merely psychological
-- viability-oriented rather than externally assigned
-- processual rather than static
-- and biologically enacted rather than representationally imposed
+- organisational rather than merely psychological,
+- viability-oriented rather than externally assigned,
+- processual rather than static,
+- and biologically enacted rather than representationally imposed.
 
 Evaluation therefore forms a central bridge linking:
-- normativity
-- mattering
-- semiosis
-- agency
+- normativity,
+- semiosis,
+- meaning,
+- information,
+- agency,
 - and cognition
 
 within the organisation of viability-oriented living systems.

@@ -10,16 +10,16 @@ cluster: cognition-mind
 
 definition: >
   In APS, meaning is the biological significance that differences acquire
-  within viability-oriented organisation. Meaning emerges through evaluation
-  and semiosis as systems differentiate conditions relative to persistence,
+  within viability-oriented organisation through evaluation and semiosis.
+  Meaning emerges as systems differentiate conditions relative to persistence,
   regulation, and organisational coherence. Meaning therefore originates in
   viability-oriented activity before language, symbolic representation, or
   explicit cognition arise.
 
 inBrief: >
   APS treats meaning as emerging from viability-oriented organisation itself.
-  Differences become meaningful when they matter to persistence, regulation,
-  or evaluative biological activity.
+  Differences become meaningful when they matter to viability-oriented
+  persistence, regulation, or evaluative biological activity.
 
 relatedGlossaryTerms:
   - evaluation
@@ -118,6 +118,8 @@ This allows APS to distinguish biological meaning from:
 
 Information may participate in meaningful biological organisation, but informational structure alone does not generate biological significance.
 
+Meaning therefore does not depend fundamentally upon symbolic representation or internal modelling.
+
 Meaning arises because living systems exist as viability-oriented organisations for which some conditions matter differentially relative to persistence.
 
 APS therefore treats meaning as:
@@ -125,7 +127,7 @@ APS therefore treats meaning as:
 - biologically objective in principle,
 - and prior to explicit representation.
 
-Representation, language, and symbolic cognition may extend meaning into more sophisticated forms, but they do not create meaning from nothing.
+Representation, language, and symbolic cognition may stabilise, extend, and transform meaning into more sophisticated forms, but they do not create meaning from nothing.
 
 Meaning must therefore be understood through the broader organisational grammar governing biological explanation:
 - agency,
@@ -134,5 +136,7 @@ Meaning must therefore be understood through the broader organisational grammar 
 - viability,
 - evaluation,
 - semiosis,
+- meaning,
+- information,
 - cognition,
 - and persistence.
