@@ -1,14 +1,21 @@
 ---
 date: 2026-04-27
-title: Cognition - Where Does It Belong in Biology?
+title: Cognition — Where Does It Belong in Biology?
 slug: cognition-where-does-it-belong-in-biology
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-19
-revised: 2026-04-28
+canonicalLockDate: 2026-05-15
+revised: 2026-05-15
 cluster: conceptual-foundations
+
 abstract: >
-  This article repositions cognition within biology as a specific organisational development of viability-oriented systems rather than a general feature of life or a specialised property of nervous systems. It shows how cognition arises when evaluative activity becomes temporally extended and integrated, enabling present regulation to be structured in relation to conditions beyond the immediate present.
+  This article repositions cognition within biology as a specific organisational
+  development of viability-oriented systems rather than a general feature of life
+  or a specialised property of nervous systems. It shows how cognition arises
+  when evaluative activity becomes temporally extended and integrated, enabling
+  present regulation to be structured in relation to conditions beyond the
+  immediate present.
+
 relatedGlossaryTerms:
   - biological-agency
   - viability
@@ -20,7 +27,11 @@ relatedGlossaryTerms:
   - evaluation
   - semiosis
   - cognition
+  - meaning
+  - representation
+  - information
   - spatiotemporal-organisation
+
 relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
@@ -30,6 +41,9 @@ relatedArticles:
   - description-explanation-and-definition-in-biology
   - multiple-realization-and-biological-organisation
   - why-ai-is-not-biological-agency
+  - semiosis
+  - consciousness
+
 references:
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."
@@ -116,13 +130,13 @@ references:
 
 ## What This Article Does
 
-This article clarifies where cognition belongs within biology. Rather than treating cognition as a specialised domain associated with brains or behaviour, APS situates it within the general organisation of living systems.
+This article clarifies where cognition belongs within biology. Rather than treating cognition as a specialised mental domain associated with brains, behaviour, or information processing alone, APS situates cognition within the organisation of viability-oriented living systems.
 
 For an account of how biological explanation is structured, see **[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)**. For how such explanations are evaluated, see **[APS Diagnostics](/articles/aps-diagnostics-empirical-tractability/)**.
 
 The question addressed here is:
 
-**If living systems are viability-oriented organisations, what role does cognition play in sustaining that organisation?**
+> **If living systems are viability-oriented organisations, what role does cognition play in sustaining that organisation?**
 
 ## The Conventional Placement of Cognition
 
@@ -133,13 +147,15 @@ Cognition is often treated as a late and specialised development in evolution. I
 - representation and internal models  
 - behaviour in complex organisms  
 
-Within this framing, cognition appears as an **add-on** to biological organisation—something that only certain organisms possess.
+Within this framing, cognition appears as an add-on to biological organisation—something that only certain organisms possess.
 
 This creates a separation between:
 - life (basic biological organisation)  
 - and cognition (advanced mental capacity)
 
 APS rejects this separation.
+
+Nor does APS identify cognition with computation, information processing, or behavioural complexity considered independently of viability-oriented organisation.
 
 This difficulty reflects a more general issue in how cognitive concepts are extended across biological systems.
 
@@ -169,11 +185,13 @@ From this perspective, cognition is not an additional feature layered onto life,
 
 Cognition arises only when viability-oriented evaluation becomes sufficiently integrated and temporally extended such that present activity is structured in relation to conditions beyond the immediate present.
 
-Cognition can therefore be understood as the integration of evaluative activity across the system, coordinating multiple agential processes into a unified, temporally extended organisation.
+Cognition can therefore be understood as the temporally extended integration of evaluative activity across the system, coordinating multiple agential processes in relation to viability across non-immediate conditions.
 
 This integration does not require any particular anatomical structure or representational architecture. Different organisms may realise similar cognitive capacities through very different material organisations while participating in related functional lineages. What persists across such lineages is not structural identity but the continuity of viability-oriented organisational roles.
 
-It therefore does not emerge wherever living systems sustain themselves, but only where evaluative activity exhibits counterfactual depth and system-wide coordination. Counterfactual depth refers to the temporal extent over which evaluative activity is structured.
+It therefore does not emerge wherever living systems sustain themselves, but only where evaluative activity exhibits counterfactual depth and system-wide coordination.
+
+Counterfactual depth refers to the extent to which evaluative activity is organised in relation to conditions not immediately present but still relevant to viability.
 
 ## From Viability to Evaluation
 
@@ -181,11 +199,13 @@ The transition from organisation to cognition can be made explicit.
 
 - **Viability** defines the conditions required for persistence  
 - **Normativity** establishes what matters relative to those conditions  
-- **Evaluation** is the differential modulation of activity in relation to those conditions
-- **Semiosis** structures differences as mattering within that modulation
-- **Cognition** arises when this evaluative activity becomes temporally extended and integrated across the system
+- **Evaluation** is the differential modulation of activity in relation to those conditions  
+- **Semiosis** structures differences as mattering within that modulation  
+- **Cognition** arises when this evaluative activity becomes temporally extended and integrated across the system  
 
 This sequence does not introduce new entities. It makes explicit a structure already present in living organisation.
+
+Cognition therefore does not introduce a separate explanatory domain beyond life, but a further organisational development within viability-oriented evaluation itself.
 
 Evaluation is the enactment of normativity in real time: it is how systems modulate their activity in relation to what sustains or undermines their persistence.
 
@@ -207,7 +227,7 @@ A system can evaluate its environment without representing it in a symbolic or m
 - are detected and acted upon  
 - are integrated into ongoing regulation  
 
-Cognition in this sense is grounded in **function and organisation**, not in internal representations.
+Cognition in this sense is grounded in viability-oriented function and organisation rather than in internal symbolic representations or computational models alone.
 
 APS therefore distinguishes biological cognition from adaptive information processing alone. Artificial systems may simulate responsiveness, optimisation, or context-sensitive behaviour while remaining externally maintained systems lacking viability-oriented organisational persistence. For a fuller discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.
 
@@ -238,7 +258,7 @@ This graded structure allows cognition to be compared across systems without tre
 
 ## Cognition and Biological Agency
 
-Cognition and **[biological agency](/glossary/biological-agency/)** are closely related but not identical.
+Cognition and **[biological-agency](/glossary/biological-agency/)** are closely related but not identical.
 
 - Agency refers to the ongoing activity through which a system sustains its own organisation  
 - Evaluation refers to how that activity is differentially modulated in relation to viability  
@@ -258,7 +278,9 @@ First, it situates cognition within biology as a whole, rather than isolating it
 
 Second, it provides a principled framework for comparing systems across scales without relying on behavioural or representational criteria. This comparison is grounded in functional lineage rather than structural similarity alone, allowing cognitive continuity to be understood organisationally across diverse forms of life.
 
-Third, it aligns cognition with the same explanatory and diagnostic principles that apply elsewhere in APS:
+Third, it aligns cognition with the same explanatory and diagnostic principles that apply elsewhere in APS.
+
+Cognition is therefore explained through the same organisational grammar governing biological explanation more generally.
 
 - it is explained through the relations of agency, process, and scale  
 - it is evaluated through perturbation and viability-relative outcomes  
@@ -274,12 +296,3 @@ Cognition belongs neither outside biology nor at its upper limits. It belongs:
 Understanding cognition in this way allows it to be integrated with the rest of the APS framework without introducing new explanatory categories.
 
 Spatiotemporal organisation also underlies evaluation and cognition (see *Spatiotemporal Organisation and Scale*). The differential modulation of activity depends on how processes are distributed and coordinated across space and time, determining what can be detected, integrated, and acted upon. In systems that exhibit cognition, this organisation extends across time such that present activity is structured in relation to conditions beyond the immediate present. This temporal extension corresponds to counterfactual depth: the extent to which non-present conditions are integrated into ongoing regulation. In this way, spatiotemporal organisation conditions what matters for the system and how it can respond, grounding the emergence of more complex forms of coordination such as cognition without introducing additional representational structures.
-
-## Key Points
-
-- Cognition is not a specialised feature of nervous systems but a specific organisational development within viability-oriented systems.  
-- It arises when evaluative activity becomes temporally extended and integrated across the system.  
-- Cognition emerges from the relation between viability, normativity, and evaluation.  
-- It does not require representation or internal models.  
-- Cognition is graded, but only within systems that satisfy the conditions for its presence.  
-- It is a specific mode of biological agency in which evaluation is organised with counterfactual depth.

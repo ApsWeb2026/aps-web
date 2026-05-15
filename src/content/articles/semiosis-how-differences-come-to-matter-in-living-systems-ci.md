@@ -4,11 +4,19 @@ title: Semiosis — How Differences Come to Matter in Living Systems
 slug: semiosis-how-differences-come-to-matter-in-living-systems
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-06
-revised: 2026-05-06
+canonicalLockDate: 2026-05-15
+revised: 2026-05-15
 cluster: cognition-mind
+
 abstract: >
-  This article clarifies semiosis within the Agency–Process–Scale (APS) framework. Semiosis is understood not as symbolic representation or linguistic meaning, but as the organisation of differences as mattering for viability-oriented activity. Living systems do not merely encounter differences in the world; they regulate their activity in relation to differences that affect their persistence. Semiosis therefore grounds biological meaning in evaluative organisation rather than representation.
+  This article clarifies semiosis within the Agency–Process–Scale (APS)
+  framework. Semiosis is understood not as symbolic representation or linguistic
+  meaning, but as the organisation of differences as mattering within
+  viability-oriented evaluative regulation. Living systems do not merely
+  encounter differences in the world; they regulate their activity in relation
+  to differences that affect their persistence. Semiosis therefore grounds
+  biological meaning in evaluative organisation rather than representation.
+
 relatedGlossaryTerms:
   - semiosis
   - evaluation
@@ -20,6 +28,10 @@ relatedGlossaryTerms:
   - adaptation
   - biological-organisation
   - functional-lineage
+  - meaning
+  - representation
+  - information
+
 relatedArticles:
   - cognition-where-does-it-belong-in-biology
   - aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems
@@ -27,6 +39,9 @@ relatedArticles:
   - why-life-is-not-information-processing
   - description-explanation-and-definition-in-biology
   - why-ai-is-not-biological-agency
+  - consciousness
+  - why-life-is-not-intelligence-an-aps-clarification
+
 references:
   - id: peirce1931
     authors: "Peirce, C. S."
@@ -82,7 +97,7 @@ APS reframes semiosis by grounding it in biological organisation.
 
 In APS, semiosis is not fundamentally about symbols or representation.
 
-Semiosis is the organisation of differences as mattering for viability-oriented regulation.
+Semiosis is the organisation of differences as mattering within viability-oriented evaluative regulation.
 
 Living systems do not merely undergo physical interactions. They modulate their activity in relation to differences that affect the conditions of their persistence.
 
@@ -107,12 +122,14 @@ Differences become meaningful because they alter how activity is regulated in re
 
 APS does not require organisms to internally represent the world in order for semiosis to occur.
 
+Nor does APS identify semiosis with information processing, signal manipulation, or computational responsiveness considered independently of viability-oriented organisation.
+
 A bacterium moving along a chemical gradient does not need a symbolic model of its environment. What matters is that environmental differences are:
 - detected
 - integrated into regulation
 - acted upon relative to viability
 
-Meaning in this sense is organisational rather than representational.
+Meaning in this sense is organisational and evaluative rather than representational or symbolic.
 
 APS therefore distinguishes biological semiosis from signal processing in general. Artificial systems may register, classify, and respond to differences without those differences participating in viability-oriented organisational persistence. In living systems, semiosis matters because differences become consequential for the continued existence of the organism itself. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.
 
@@ -142,7 +159,7 @@ Semiosis and cognition are closely related but not identical.
 
 Semiosis concerns the organisation of differences as mattering for viability.
 
-Cognition arises when this evaluative organisation becomes sufficiently integrated and temporally extended such that present regulation is structured in relation to conditions beyond the immediate present.
+Cognition arises when semiosis becomes sufficiently integrated and temporally extended such that present regulation is organised in relation to conditions beyond the immediate present.
 
 All cognition therefore involves semiosis, but not all semiosis constitutes cognition.
 
@@ -165,10 +182,12 @@ Third, it avoids reducing meaning either to:
 
 Meaning becomes a property of viability-oriented organisation.
 
-## Summary
+Semiosis is therefore explained through the same organisational grammar governing biological explanation more generally: agency, process, scale, viability, and evaluation.
 
-In APS, semiosis is the organisation of differences as mattering for viability-oriented regulation.
+## Where Semiosis Belongs
 
-Living systems regulate themselves in relation to conditions that affect their persistence, and semiosis is the structuring of those conditions within evaluative activity.
+In APS, semiosis is the organisation of differences as mattering within viability-oriented evaluative activity.
 
-Semiosis therefore grounds biological meaning in organisation rather than representation, allowing continuity across diverse forms of life without reducing meaning to language, symbols, or internal models.
+Living systems regulate themselves in relation to conditions that affect their persistence, and semiosis is the structuring of those conditions within evaluative organisation.
+
+Semiosis therefore grounds biological meaning in viability-oriented organisation rather than representation, allowing continuity across diverse forms of life without reducing meaning to language, symbols, or internal models.

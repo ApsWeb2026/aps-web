@@ -4,17 +4,18 @@ title: Consciousness — An APS Clarification
 slug: consciousness-an-aps-clarification
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-07
-revised: 2026-05-07
+canonicalLockDate: 2026-05-15
+revised: 2026-05-15
 cluster: cognition-mind
+
 abstract: >
-  This article clarifies the place of consciousness within the Agency–Process–Scale (APS) framework. APS argues that consciousness is not required to explain agency, meaning, normativity, or biological function, all of which arise from viability-oriented organisation. Consciousness is instead understood as a later evolutionary development emerging within certain forms of cognition and biological integration.
-keyPoints:
-  - Consciousness is not the foundation of agency, meaning, or biological organisation.
-  - Living systems exhibit agency and normativity prior to consciousness.
-  - APS distinguishes agency, cognition, and consciousness as related but non-identical dimensions of biological organisation.
-  - Cognition can exist without consciousness, and agency can exist without cognition.
-  - APS does not solve the hard problem of consciousness but clarifies its proper explanatory place.
+  This article clarifies the place of consciousness within the
+  Agency–Process–Scale (APS) framework. APS argues that consciousness is not
+  required to explain agency, meaning, normativity, evaluation, or biological
+  function, all of which arise from viability-oriented organisation.
+  Consciousness is instead understood as a later evolutionary development
+  emerging within certain forms of cognition and biological integration.
+
 relatedGlossaryTerms:
   - biological-agency
   - cognition
@@ -24,12 +25,20 @@ relatedGlossaryTerms:
   - counterfactual-depth
   - viability
   - process
+  - meaning
+  - information
+  - representation
+
 relatedArticles:
   - biological-agency-without-intentions
   - what-is-life-a-biological-question-revisited
   - why-life-is-not-dnas-way-of-making-more-dna
   - aps-and-contemporary-theories
   - why-life-is-not-intelligence-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - cognition-where-does-it-belong-in-biology
+
 references:
   - id: nagel1974
     authors: "Nagel, T."
@@ -93,15 +102,17 @@ Because consciousness feels immediate and central, it is often treated as the fo
 
 APS challenges this assumption.
 
-Within the APS framework, consciousness is not the starting point for understanding living systems. Agency, normativity, function, and meaning arise earlier and more fundamentally from the viability-oriented organisation of life itself.
+Within the APS framework, consciousness is not the starting point for understanding living systems. Agency, normativity, evaluation, semiosis, function, and meaning arise earlier and more fundamentally from the viability-oriented organisation of life itself.
 
 Consciousness is therefore understood not as the source of biological meaning, but as a later evolutionary development emerging within certain forms of cognition and integrative organisation.
+
+Nor does APS identify consciousness with computation, information processing, or behavioural complexity considered independently of viability-oriented organisation.
 
 [[box:what-aps-means-by-cognition]]
 
 ## The Problem with Beginning from Consciousness
 
-Many philosophical discussions begin with consciousness because subjective experience appears uniquely mysterious.
+Many philosophical discussions begin with consciousness because subjective experience appears uniquely difficult to explain.
 
 This orientation has produced what David Chalmers called the “hard problem” of consciousness:
 
@@ -138,18 +149,18 @@ APS therefore separates:
 APS defines biological agency as viability-oriented activity through which living systems actively sustain themselves across time.
 
 Agency does not require:
-- self-reflection,
-- deliberation,
-- symbolic thought,
-- or conscious awareness.
+- self-reflection
+- deliberation
+- symbolic thought
+- conscious awareness
 
 A living system acts because its organisation is structured around the maintenance of viability.
 
 This produces:
-- normativity — some states support persistence while others threaten it;
-- function — processes contribute to maintaining organisation;
-- evaluation — conditions are differentially modulated relative to viability;
-- semiosis — differences become meaningful for the system.
+- normativity — some states support persistence while others threaten it
+- function — processes contribute to maintaining organisation
+- evaluation — conditions are differentially modulated relative to viability
+- semiosis — differences become meaningful for the system
 
 These are organisational features of life itself.
 
@@ -162,14 +173,14 @@ Consciousness is not required to generate them.
 APS distinguishes agency, cognition, and consciousness as related but non-identical dimensions of biological organisation.
 
 A system may exhibit:
-- agency without cognition,
-- cognition without consciousness,
-- and consciousness only where particular forms of integrative organisation emerge.
+- agency without cognition
+- cognition without consciousness
+- and consciousness only where particular forms of integrative organisation emerge
 
 In APS:
-- agency refers to viability-oriented self-maintaining activity;
-- cognition refers to the organised regulation of viability-relevant differences across time;
-- consciousness refers to subjective experience or awareness.
+- agency refers to viability-oriented self-maintaining activity
+- cognition refers to the temporally extended integration of evaluative activity relative to viability
+- consciousness refers to subjective experience or awareness
 
 This distinction is essential because many contemporary discussions collapse these categories together.
 
@@ -184,11 +195,11 @@ Cognition therefore extends more broadly across life than consciousness does.
 From an APS perspective, consciousness is best understood as a later evolutionary elaboration emerging within increasingly complex forms of biological organisation.
 
 Across evolutionary history:
-- viability-oriented organisation appears first;
-- agency emerges with self-maintaining systems;
-- normativity follows from persistence requirements;
-- cognition develops through increasingly complex regulation;
-- consciousness appears only in some lineages.
+- viability-oriented organisation appears first
+- agency emerges with self-maintaining systems
+- normativity follows from persistence requirements
+- cognition develops through increasingly integrated and temporally extended evaluation
+- consciousness appears only in some lineages
 
 This preserves evolutionary continuity without collapsing all life into consciousness.
 
@@ -205,22 +216,22 @@ Consciousness therefore grows out of life rather than defining life from the out
 ## What APS Explains — and What It Does Not
 
 APS provides a naturalised account of:
-- agency,
-- normativity,
-- function,
-- evaluation,
-- semiosis,
-- meaning,
-- and cognition.
+- agency
+- normativity
+- function
+- evaluation
+- semiosis
+- meaning
+- and cognition
 
 It explains how living systems can act meaningfully in the world without requiring consciousness as an explanatory foundation.
 
 However, APS does not solve the hard problem of consciousness itself.
 
 APS does not explain:
-- why experience feels like something,
-- why subjective awareness exists,
-- or whether consciousness can ultimately be reduced, emergent, or fundamental.
+- why experience feels like something
+- why subjective awareness exists
+- or whether consciousness can ultimately be reduced, emergent, or fundamental
 
 This is not a weakness of the framework.
 
@@ -252,10 +263,10 @@ These systems need not consciously experience such conditions for those conditio
 APS therefore grounds meaning in evaluative biological organisation rather than in human consciousness alone.
 
 Consciousness may:
-- experience meaning,
-- symbolise meaning,
-- reinterpret meaning,
-- and reflect upon meaning,
+- experience meaning
+- symbolise meaning
+- reinterpret meaning
+- and reflect upon meaning
 
 but it does not create meaning from nothing.
 
@@ -266,20 +277,22 @@ but it does not create meaning from nothing.
 APS also clarifies several contemporary confusions surrounding artificial intelligence.
 
 Artificial systems may exhibit:
-- sophisticated information processing,
-- adaptive behaviour,
-- predictive modelling,
-- and forms of functional cognition.
+- sophisticated information processing
+- adaptive behaviour
+- predictive modelling
+- and forms of functional cognition
+
+APS does not deny these capacities.
 
 However, APS distinguishes such capacities from biological agency.
 
 Current AI systems are not intrinsically organised around their own viability as self-maintaining living systems. Their goals, evaluation criteria, and operational conditions are externally specified rather than internally grounded in biological persistence.
 
 For this reason, APS distinguishes:
-- computation,
-- from intrinsic biological normativity;
-- simulation of agency,
-- from viability-oriented agency itself.
+- computation
+- from intrinsic biological normativity
+- simulation of agency
+- from viability-oriented agency itself
 
 Whether artificial systems could ever become genuinely conscious therefore remains an open question rather than a purely computational one.
 
@@ -290,20 +303,22 @@ Instead, it clarifies the organisational conditions that would need to be addres
 ## Reframing the Debate
 
 APS does not directly compete with contemporary theories of consciousness such as:
-- predictive processing,
-- integrated information theory,
-- global workspace theories,
-- or enactive approaches.
+- predictive processing
+- integrated information theory
+- global workspace theories
+- or enactive approaches
 
 Instead, APS reorders the explanatory sequence within which such theories operate.
 
 Consciousness is no longer treated as the foundation of:
-- agency,
-- normativity,
-- meaning,
-- or cognition.
+- agency
+- normativity
+- meaning
+- or cognition
 
 These arise earlier within the organisation of living systems themselves.
+
+Consciousness is therefore approached through the same organisational grammar governing biological explanation more generally: agency, process, scale, viability, evaluation, and cognition.
 
 Consciousness therefore becomes something to explain after biological organisation is already understood — not something invoked to explain life from the beginning.
 
@@ -319,14 +334,14 @@ Agency grounds action.
 
 Normativity grounds meaning.
 
+Evaluation modulates activity relative to viability.
+
+Semiosis structures differences as mattering.
+
 Cognition elaborates regulation across time.
 
 Consciousness allows some living systems to experience and reflect upon an already meaningful world.
 
-This does not dissolve the mystery of subjective experience.
+This does not resolve the philosophical difficulty of subjective experience.
 
-But it places that mystery within a clearer biological and philosophical framework.
-
-## Key Point
-
-Consciousness does not create agency, meaning, or purpose. These arise from the viability-oriented organisation of life itself. Consciousness is a later evolutionary development through which some living systems experience and reflect upon an already meaningful world.
+But it places that problem within a clearer biological and philosophical framework.
