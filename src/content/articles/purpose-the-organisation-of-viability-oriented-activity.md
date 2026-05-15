@@ -17,6 +17,8 @@ relatedGlossaryTerms:
   - biological-agency
   - normativity
   - constraint-closure
+  - teleonomy
+  - mechanism
 relatedArticles:
   - biological-goals-without-mentalism
   - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it

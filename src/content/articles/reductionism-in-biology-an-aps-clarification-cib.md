@@ -32,6 +32,9 @@ relatedGlossaryTerms:
   - explanatory-grammar
   - function
   - emergence
+  - mechanism
+  - holism
+  - organicism
 
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account

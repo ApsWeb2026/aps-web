@@ -32,6 +32,8 @@ relatedGlossaryTerms:
   - constraint-closure
   - mattering
   - perturbation
+  - teleonomy
+  - mechanism
 
 relatedArticles:
   - purpose-the-organisation-of-viability-oriented-activity

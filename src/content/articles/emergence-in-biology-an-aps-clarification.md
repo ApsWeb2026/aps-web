@@ -30,6 +30,8 @@ relatedGlossaryTerms:
   - function
   - biological-design
   - emergence
+  - holism
+  - mechanism
 
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account

@@ -20,6 +20,10 @@ relatedGlossaryTerms:
   - scale
   - evolution
   - normativity
+  - mechanism
+  - holism
+  - organicism
+  - teleonomy
 relatedArticles:
   - aps-and-contemporary-theories
   - constraint-closure-what-it-does-and-does-not-do

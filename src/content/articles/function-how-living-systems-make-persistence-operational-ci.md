@@ -17,6 +17,8 @@ relatedGlossaryTerms:
   - persistence
   - normativity
   - constraint-closure
+  - teleonomy
+  - mechanism
 relatedArticles:
   - purpose-the-organisation-of-viability-oriented-activity
   - normativity-in-biology-why-some-things-matter-to-living-systems

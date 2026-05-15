@@ -9,6 +9,8 @@ revised: 2026-04-11
 cluster: conceptual-foundations
 abstract: >
   Teleonomy was introduced in twentieth-century biology as a way to describe the apparent goal-directedness of living systems without invoking metaphysical teleology. While it provided a historically important solution, it remains conceptually unstable, often relying on evolutionary history to explain present-tense purposive organisation. This article clarifies teleonomy within the APS framework, showing that the phenomena it seeks to capture are more coherently grounded in viability-oriented, constraint-closed organisation. APS retains the naturalistic insight of teleonomy while resolving its limitations by identifying purpose as an intrinsic feature of living systems.
+inBrief: >
+  Teleonomy describes the apparent goal-directedness of living systems without invoking classical teleology. APS reinterprets teleonomy organisationally by grounding purpose and normativity in viability-oriented, constraint-closed organisation rather than in externally imposed design or historical programs alone.
 keyPoints:
   - Teleonomy was introduced to naturalise goal-directedness without invoking classical teleology.
   - It often explains purposive behaviour in terms of evolutionary history and program-like organisation.
@@ -24,10 +26,18 @@ relatedGlossaryTerms:
   - constraint-closure
   - normativity
   - evolution
+  - teleology
+  - evaluation
+  - persistence
 relatedArticles:
   - aps-and-contemporary-theories
   - explanatory-priority-is-not-ontological-priority
   - organism-world-coupling-agency-not-control
+  - why-life-is-not-computation-an-aps-clarification
+  - aps-and-autonomy-theory
+  - aps-and-systems-theory
+  - reductionism-in-biology-an-aps-clarification
+  - why-aps-is-not-holism
 references:
   - id: rama2026
     authors: "Rama, T."
@@ -54,7 +64,7 @@ From this perspective, purposive behaviour is explained by reference to:
 - genetic or developmental programs  
 - inherited functional organisation  
 
-Teleonomy therefore relocates purpose from present activity to evolutionary history. What appears goal-directed is understood as the outcome of processes that have selected for effective organisation over generations.
+Teleonomy therefore relocates purpose from present activity to evolutionary history. APS does not reject evolutionary explanation, but argues that evolutionary history alone cannot fully explain the present-tense normative organisation of living systems. What appears goal-directed is understood as the outcome of processes that have selected for effective organisation over generations.
 
 ## The Limits of Teleonomy
 
@@ -76,7 +86,7 @@ As a result, teleonomy occupies an unstable position. It rejects teleology but r
 
 ## APS: From Historical Explanation to Organisational Grounding
 
-APS resolves these tensions by shifting the explanatory basis of purpose.
+APS resolves these tensions by shifting the explanatory priority of purpose from historical selection alone to present-tense viability-oriented organisation.
 
 [[box:aps-box-what-aps-adds-to-contemporary-biology]]
 
