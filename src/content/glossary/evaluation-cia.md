@@ -14,12 +14,13 @@ inBrief: >
 
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-28
-revised: 2026-05-15
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
 cluster: cognition-mind
 
 relatedGlossaryTerms:
   - viability
+  - viability-orientation
   - persistence
   - normativity
   - semiosis
@@ -28,13 +29,22 @@ relatedGlossaryTerms:
   - biological-agency
   - cognition
   - representation
+  - adaptation
+  - function
 
 relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-viability-oriented-account
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
   - meaning-in-biology-an-aps-clarification
   - information-in-biology-an-aps-clarification
   - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-intelligence-an-aps-clarification
 
 references:
   - id: jonas1966
@@ -71,16 +81,16 @@ references:
 ## Conventional Framing
 
 Evaluation is commonly understood as:
-- judgement,
-- assessment,
-- comparison,
-- decision-making,
+- judgement;
+- assessment;
+- comparison;
+- decision-making;
 - or cognitive appraisal.
 
 It is frequently associated with:
-- representation,
-- awareness,
-- symbolic reasoning,
+- representation;
+- awareness;
+- symbolic reasoning;
 - or conscious choice.
 
 Under these framings, evaluation is typically treated as a specialised cognitive process.
@@ -92,9 +102,9 @@ APS reframes evaluation biologically and organisationally.
 In APS, evaluation is the viability-oriented differential modulation of activity relative to conditions, differences, and transformations that matter for organised persistence.
 
 Evaluation is therefore not primarily:
-- psychological,
-- representational,
-- inferential,
+- psychological;
+- representational;
+- inferential;
 - or reflective.
 
 It is a fundamental organisational feature of living systems.
@@ -102,6 +112,10 @@ It is a fundamental organisational feature of living systems.
 Living systems continuously regulate activity relative to viability constraints. Some processes are stabilised, amplified, coordinated, or maintained because they support persistence. Others are suppressed, redirected, compensated for, or eliminated because they undermine viable organisation.
 
 Evaluation is the modulation of activity through which these viability-relative asymmetries are enacted.
+
+> **Where this concept fits:** Evaluation is one of the central organisational processes within APS. It explains how living systems differentially regulate activity relative to viability conditions and thereby grounds semiosis, meaning, agency, adaptation, and cognition within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
+APS consequently treats evaluation not as a specialised cognitive overlay upon life, but as an intrinsic organisational feature of viability-oriented persistence itself.
 
 ## Evaluation and Viability
 
@@ -115,6 +129,12 @@ A system therefore evaluates not by representing conditions abstractly, but by d
 
 Evaluation is thus intrinsic to living organisation itself.
 
+APS consequently distinguishes:
+- **viability**, which specifies the conditions under which organised persistence can succeed or fail;
+- from **evaluation**, which refers to the differential modulation of activity relative to those viability conditions.
+
+This distinction is foundational for the explanatory structure of APS.
+
 ## Evaluation and Normativity
 
 Evaluation enacts biological normativity.
@@ -124,19 +144,23 @@ Normativity establishes the viability-relative asymmetry through which condition
 Evaluation is the active modulation of activity relative to that asymmetry.
 
 Some conditions:
-- support persistence,
-- stabilise organisation,
-- enable recovery,
+- support persistence;
+- stabilise organisation;
+- enable recovery;
 - or extend viability.
 
 Others:
-- destabilise organisation,
-- undermine persistence,
+- destabilise organisation;
+- undermine persistence;
 - or contribute to breakdown.
 
 Evaluation differentially regulates activity relative to these conditions.
 
 Normativity provides the organisational asymmetry; evaluation enacts it dynamically.
+
+Evaluation in APS is therefore inseparable from agency, process, and scale. Living systems modulate activity relative to viability only through ongoing organisation coordinated across interacting temporal and spatial domains.
+
+For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
 
 ## Evaluation and Meaning
 
@@ -145,6 +169,8 @@ Evaluation grounds biological meaning.
 Differences become meaningful because evaluation modulates activity relative to their viability significance.
 
 Meaning therefore emerges not from symbolic representation alone, but from the ways living systems differentially regulate activity relative to conditions affecting organised persistence.
+
+APS consequently approaches meaning as an organisational consequence of evaluative viability-oriented activity rather than as a fundamentally disembodied symbolic phenomenon.
 
 ## Evaluation and Semiosis
 
@@ -157,8 +183,10 @@ Evaluation modulates activity relative to those meaningful differences.
 Evaluation therefore establishes how differences acquire viability-relative significance within organised activity, while semiosis structures those differences as biologically meaningful.
 
 The two are inseparable but analytically distinct:
-- evaluation modulates activity,
+- evaluation modulates activity;
 - semiosis structures meaningful differentiation.
+
+APS consequently treats semiosis as organisationally grounded in evaluative modulation rather than in detached symbolic representation alone.
 
 ## Evaluation and Biological Agency
 
@@ -169,55 +197,75 @@ Agency refers to the active regulation and modulation of viability-oriented orga
 Evaluation specifies how this regulation occurs.
 
 Living systems continuously:
-- stabilise,
-- compensate,
-- redirect,
-- reorganise,
+- stabilise;
+- compensate;
+- redirect;
+- reorganise;
 - and coordinate activity
 
 relative to conditions affecting viable persistence.
 
 Agency expresses ongoing viability-oriented activity; evaluation organises its differential modulation.
 
+APS consequently treats evaluation as one of the core organisational processes through which biological agency becomes possible.
+
+## Evaluation and Adaptation
+
+Evaluation is foundational for adaptation.
+
+Living systems reorganise activity under changing conditions through ongoing differential modulation relative to viability constraints.
+
+Adaptive reorganisation therefore depends upon evaluative organisation capable of:
+- stabilising persistence;
+- compensating for perturbation;
+- reorganising activity;
+- and modulating behaviour relative to changing viability conditions.
+
+Adaptation is thus one of the principal large-scale expressions of evaluative organisation within living systems.
+
 ## Evaluation and Cognition
 
 All living systems exhibit evaluation, but not all evaluative systems are cognitive.
 
 Cognition emerges only when evaluative organisation becomes sufficiently:
-- integrated,
-- flexible,
-- coordinated,
+- integrated;
+- flexible;
+- coordinated;
 - and temporally extended
 
 that present activity is regulated relative to:
-- absent conditions,
-- delayed consequences,
-- anticipated possibilities,
-- remembered states,
+- absent conditions;
+- delayed consequences;
+- anticipated possibilities;
+- remembered states;
 - or counterfactual relations.
 
 Evaluation is therefore necessary for cognition but not sufficient for it.
 
 Cognition represents a more integrated, temporally extended, and behaviourally coordinated organisation of evaluative semiosis.
 
+APS consequently approaches cognition as a specialised development within viability-oriented evaluative organisation rather than as the defining basis of life itself.
+
 ## Evaluation Without Representation
 
 APS rejects the idea that evaluation fundamentally requires:
-- symbolic representation,
-- internal models,
-- explicit prediction,
+- symbolic representation;
+- internal models;
+- explicit prediction;
 - or reflective awareness.
 
 Living systems may evaluate:
-- nutrient gradients,
-- physiological instability,
-- environmental perturbation,
-- behavioural opportunity,
+- nutrient gradients;
+- physiological instability;
+- environmental perturbation;
+- behavioural opportunity;
 - or organisational disruption
 
 through direct modulation of activity relative to viability conditions.
 
 Representation may emerge in highly elaborated systems, but evaluation is biologically prior to representation.
+
+APS consequently treats representation as a specialised development within evaluative organisation rather than as its precondition.
 
 ## Evaluation Across Scale
 
@@ -227,22 +275,51 @@ Molecular signalling, cellular regulation, physiological adjustment, behavioural
 
 These are not separate levels of evaluation but scale-coupled forms of viability-oriented regulation distributed across organised living activity.
 
+APS consequently treats evaluative organisation as distributed across interacting organisational domains rather than confined to cognition or nervous systems alone.
+
 ## Summary
 
 In APS, evaluation is the viability-oriented differential modulation of activity relative to conditions, differences, and transformations that matter for organised persistence.
 
 Evaluation is:
-- organisational rather than merely psychological,
-- viability-oriented rather than externally assigned,
-- processual rather than static,
+- organisational rather than merely psychological;
+- viability-oriented rather than externally assigned;
+- processual rather than static;
 - and biologically enacted rather than representationally imposed.
 
 Evaluation therefore forms a central bridge linking:
-- normativity,
-- semiosis,
-- meaning,
-- information,
-- agency,
+- normativity;
+- semiosis;
+- meaning;
+- information;
+- agency;
+- adaptation;
 - and cognition
 
 within the organisation of viability-oriented living systems.
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+
+### Meaning, Semiosis, and Cognition
+
+- *[Evaluation — How Living Systems Modulate Activity Relative to Viability](/articles/evaluation-how-living-systems-modulate-activity-relative-to-viability/)*
+- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
+- *[Meaning in Biology — An APS Clarification](/articles/meaning-in-biology-an-aps-clarification/)*
+- *[Information in Biology — An APS Clarification](/articles/information-in-biology-an-aps-clarification/)*
+- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+
+### Clarification Articles
+
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*

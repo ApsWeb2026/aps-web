@@ -6,9 +6,10 @@ definition: "In APS, process is the continuous organisation of activity through 
 inBrief: "Process is the ongoing activity through which living systems sustain viability across time and scale."
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-14
-revised: 2026-05-06
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
 cluster: conceptual-foundations
+
 seeAlso:
   - biological-organisation
   - biological-agency
@@ -19,10 +20,19 @@ seeAlso:
   - viability
   - adaptation
   - physiology
+
 relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
+  - aps-as-philosophy-viability-oriented-account
   - emergence-an-aps-clarification
   - why-aps-is-not-hierarchical
+  - scale-time-persistence
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+
 references:
   - id: whitehead1929
     authors: "Whitehead, A. N."
@@ -81,12 +91,15 @@ APS treats process as constitutive rather than derivative.
 
 Living systems are not static structures that happen to change. They are continuously organised activities through which the conditions of their own persistence are sustained and regenerated.
 
+> **Where this concept fits:** Process is one of the central organising dimensions of APS. Together with agency and scale, it forms the explanatory grammar through which APS understands viability-oriented organised persistence. For the broader structure of the framework, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
 Process therefore refers to the ongoing organisation of viability-oriented activity through which living systems maintain themselves across time.
 
 Organisation is inseparable from process:
-- constraints shape activity
-- activity maintains constraints
-- and both together sustain organised persistence
+
+- constraints shape activity;
+- activity maintains constraints;
+- and both together sustain organised persistence.
 
 Living systems exist only insofar as these organisational processes continue.
 
@@ -102,6 +115,8 @@ Biological organisation therefore persists through continuous transformation rat
 
 Process is the enactment of organised persistence.
 
+APS consequently approaches biological identity not as static material sameness, but as dynamically sustained organisational continuity.
+
 ## Process Across Scale
 
 Process is distributed across spatial and temporal scales.
@@ -112,6 +127,10 @@ These processes are not separate layers of activity. They form scale-coupled net
 
 APS therefore treats process as continuous across scale rather than partitioned into hierarchical levels.
 
+Process in APS is therefore inseparable from agency and scale. Biological organisation persists only through ongoing activity coordinated across interacting temporal and spatial domains.
+
+For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
+
 ## Process and Persistence
 
 Persistence is not static endurance.
@@ -119,12 +138,15 @@ Persistence is not static endurance.
 Living systems persist through ongoing reorganisation capable of maintaining viability under changing conditions.
 
 Process therefore explains how systems:
-- endure through transformation
-- recover from perturbation
-- reorganise under stress
-- and maintain continuity despite material instability
+
+- endure through transformation;
+- recover from perturbation;
+- reorganise under stress;
+- and maintain continuity despite material instability.
 
 Stability and change are not opposites within living systems. Stability itself is actively produced through continuous process.
+
+Persistence is therefore an ongoing organisational achievement rather than the passive survival of static structure.
 
 ## Process and Agency
 
@@ -146,6 +168,8 @@ This does not eliminate structural explanation. Instead, APS situates structure 
 
 Process therefore functions as a fundamental explanatory category for understanding living systems.
 
+APS consequently aligns with process-oriented approaches in philosophy and biology while imposing stronger organisational constraints through viability, persistence, agency, and scale-coupled organisation.
+
 ## Summary
 
 In APS, process is the continuous organisation of activity through which living systems sustain, regulate, and regenerate viability-oriented organisation across time.
@@ -153,11 +177,36 @@ In APS, process is the continuous organisation of activity through which living 
 Living systems persist not as static structures, but as dynamically maintained organisations distributed across scale.
 
 Process therefore explains how biological organisation:
-- persists through transformation
-- maintains viability
-- regulates activity
-- and continuously regenerates the conditions of its own existence
 
-Life is not something that undergoes process.
+- persists through transformation;
+- maintains viability;
+- regulates activity;
+- and continuously regenerates the conditions of its own existence.
+
+Life is not something that merely undergoes process.
 
 Life exists as process.
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+
+### Process and Persistence
+
+- *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
+- *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
+
+### Clarification Articles
+
+- *[Emergence — An APS Clarification](/articles/emergence-an-aps-clarification/)*
+- *[Why APS Is Not Hierarchical](/articles/why-aps-is-not-hierarchical/)*

@@ -6,10 +6,11 @@ inBrief: "Viability-orientation is activity organised relative to the conditions
 type: glossary
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-03
+canonicalLockDate: 2026-05-16
 date: 2026-05-03
-revised: 2026-05-06
+revised: 2026-05-16
 cluster: conceptual-foundations
+
 seeAlso:
   - viability
   - persistence
@@ -21,9 +22,19 @@ seeAlso:
   - adaptation
   - semiosis
   - cognition
+
 relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
+  - aps-as-philosophy-viability-oriented-account
   - cognition-where-does-it-belong-in-biology
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - why-life-is-not-intelligence-an-aps-clarification
+  - why-ai-is-not-biological-agency
+
 references:
   - id: jonas1966
     authors: "Jonas, H."
@@ -67,8 +78,8 @@ references:
 Biological systems are often described as goal-directed, adaptive, or survival-oriented.
 
 Such descriptions are frequently interpreted either:
-- mechanistically, as the outcome of causal processes alone
-- or cognitively, as requiring internal goals, intentions, or representations
+- mechanistically, as the outcome of causal processes alone;
+- or cognitively, as requiring internal goals, intentions, or representations.
 
 Under these framings, the apparent directedness of living systems may seem metaphorical, externally imposed, or dependent upon sophisticated cognition.
 
@@ -80,13 +91,22 @@ In APS, viability-orientation is the organisation of activity relative to the co
 
 Living systems continuously regulate and reorganise activity in relation to conditions affecting their continued viability.
 
+> **Where this concept fits:** Viability-orientation is one of the central organising principles of APS. It explains how biological activity becomes directionally organised relative to viable persistence and thereby grounds agency, normativity, semiosis, cognition, adaptation, and evolution within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
 This organisation does not require:
-- intention
-- foresight
-- representation
-- or conscious awareness
+- intention;
+- foresight;
+- representation;
+- or conscious awareness.
 
 Viability-orientation instead refers to the structured relation between organised activity and the conditions under which persistence remains possible.
+
+APS therefore distinguishes viability-orientation from viability itself.
+
+- **Viability** specifies the conditions under which organised persistence can succeed or fail.
+- **Viability-orientation** refers to the organisation of activity relative to those conditions.
+
+This distinction is foundational for the explanatory structure of APS.
 
 ## Viability-Orientation and Persistence
 
@@ -97,6 +117,8 @@ Living systems persist only insofar as their activity remains organised relative
 Metabolic regulation, physiological compensation, behavioural modification, repair, adaptation, and environmental modulation all contribute to maintaining viable persistence under changing conditions.
 
 Viability-orientation therefore explains why biological activity exhibits organised directionality without requiring externally imposed goals.
+
+Persistence in APS is therefore not passive endurance, but actively regulated continuity organised relative to viability conditions.
 
 ## Viability-Orientation and Normativity
 
@@ -110,15 +132,17 @@ Normativity therefore emerges from the organisation of activity relative to the 
 
 What matters biologically is determined by viability-oriented organisation itself rather than by external judgement.
 
+APS consequently treats normativity as an organisational consequence of living activity rather than as an externally imposed evaluative framework.
+
 ## Viability-Orientation and Agency
 
 Biological agency is viability-oriented regulation.
 
 Living systems actively modulate:
-- physiological activity
-- behaviour
-- environmental relations
-- developmental processes
+- physiological activity;
+- behaviour;
+- environmental relations;
+- developmental processes;
 - and adaptive reorganisation
 
 relative to conditions affecting continued persistence.
@@ -126,6 +150,10 @@ relative to conditions affecting continued persistence.
 Agency therefore expresses the active organisation of activity relative to viability conditions.
 
 Viability-orientation is the organisational basis of biological agency.
+
+Agency in APS is therefore inseparable from process and scale. Biological systems regulate viability only through ongoing activity coordinated across interacting temporal and spatial domains.
+
+For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
 
 ## Viability-Orientation and Semiosis
 
@@ -137,18 +165,22 @@ Environmental changes, physiological states, and behavioural conditions acquire 
 
 Semiosis therefore emerges from viability-oriented differentiation rather than from detached symbolic representation alone.
 
+APS consequently approaches meaning as an organisational feature of viability-oriented activity rather than as a fundamentally disembodied or purely representational phenomenon.
+
 ## Viability-Orientation and Cognition
 
 Cognition represents increasingly integrated and temporally extended forms of viability-orientation.
 
 Cognitive systems coordinate evaluative activity across multiple coupled processes and timescales:
-- perception
-- memory
-- anticipation
-- behavioural flexibility
-- and environmental modulation
+- perception;
+- memory;
+- anticipation;
+- behavioural flexibility;
+- and environmental modulation.
 
 Cognition therefore develops from increasingly structured forms of viability-oriented organisation rather than from the addition of disembodied representational mechanisms.
+
+APS consequently approaches cognition as a specialised development within biological organisation rather than as the defining basis of life itself.
 
 ## Viability-Orientation Across Scale
 
@@ -160,6 +192,8 @@ These relations form scale-coupled networks of viability-oriented activity distr
 
 Viability-orientation therefore extends beyond isolated processes to the organisation of persistence across interacting domains.
 
+APS consequently treats viability-oriented organisation as fundamentally scale-coupled rather than hierarchically partitioned.
+
 ## Summary
 
 In APS, viability-orientation is the organisation of activity relative to the conditions under which organised persistence can be sustained, degraded, or lost.
@@ -167,11 +201,45 @@ In APS, viability-orientation is the organisation of activity relative to the co
 Living systems continuously regulate and reorganise activity relative to viability conditions across scale and time.
 
 Viability-orientation therefore grounds:
-- biological agency
-- normativity
-- semiosis
-- cognition
-- adaptation
-- and evolution
+- biological agency;
+- normativity;
+- semiosis;
+- cognition;
+- adaptation;
+- and evolution,
 
 because living systems exist through activity systematically organised in relation to the conditions of their own continued persistence.
+
+Viability-orientation explains why biological activity exhibits organised directionality without requiring externally imposed goals, conscious intention, or disembodied representation.
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+
+### Cognition and Meaning
+
+- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *[Semiosis](/glossary/semiosis/)*
+- *[Meaning](/glossary/meaning/)*
+- *[Evaluation](/glossary/evaluation/)*
+
+### Adaptation and Persistence
+
+- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+- *[Viability](/glossary/viability/)*
+- *[Persistence](/glossary/persistence/)*
+
+### Clarification Articles
+
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
+- *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*

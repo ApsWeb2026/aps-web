@@ -6,9 +6,10 @@ definition: "In APS, biological agency is the viability-oriented regulation and 
 inBrief: "Biological agency is the viability-oriented regulation of organised persistence."
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-08
-revised: 2026-05-06
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
 cluster: foundations
+
 seeAlso:
   - biological-organisation
   - constraint
@@ -21,9 +22,18 @@ seeAlso:
   - function
   - cognition
   - semiosis
+
 relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
+  - aps-as-philosophy-viability-oriented-account
   - cognition-where-does-it-belong-in-biology
+  - why-ai-is-not-biological-agency
+  - why-life-is-not-intelligence-an-aps-clarification
+
 references:
   - id: jonas1966
     authors: "Jonas, H."
@@ -67,8 +77,9 @@ references:
 Biological systems are often described as adaptive, goal-directed, or purposive.
 
 Such descriptions are frequently interpreted in one of two ways:
-- mechanistically, where apparent agency is reduced to causal processes alone
-- or cognitively, where agency is treated as requiring representation, intention, or consciousness
+
+- mechanistically, where apparent agency is reduced to causal processes alone;
+- or cognitively, where agency is treated as requiring representation, intention, or consciousness.
 
 Under these framings, agency is either eliminated as explanatory shorthand or restricted to organisms possessing nervous systems and sophisticated cognition.
 
@@ -79,6 +90,8 @@ This leaves the organised purposiveness of living systems without a clear natura
 APS treats biological agency as intrinsic to life itself.
 
 Biological agency is the viability-oriented regulation and modulation of organised activity through which living systems sustain and reorganise the conditions of their own persistence.
+
+> **Where this concept fits:** Biological agency is one of the central organising concepts of APS. It connects viability, normativity, adaptation, semiosis, cognition, and evolution within a unified account of organised persistence. For the broader structure of the framework, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 Living systems do not merely undergo processes passively. They actively regulate and reorganise their relations with both internal and external conditions relative to viability.
 
@@ -118,7 +131,7 @@ However, not all agency is cognitive.
 
 Biological systems may regulate and reorganise activity relative to viability without exhibiting the integrated, temporally extended, and semiosis-rich forms of organisation associated with cognition.
 
-Cognition therefore represents a more structured and integrated organisation of agential activity rather than a fundamentally separate category.
+Cognition therefore represents a more structured and integrated organisation of agential activity rather than a fundamentally separate category. APS consequently approaches cognition as a specialised development within biological organisation rather than as the defining basis of life itself.
 
 ## Agency Across Scale
 
@@ -129,6 +142,10 @@ Cellular organisation regulates metabolic conditions. Organisms regulate behavio
 These processes are not arranged into hierarchical levels of agency. They form scale-coupled networks of organised activity distributed across space and time.
 
 Agency therefore depends upon organisational integration rather than upon position within a hierarchy.
+
+Agency in APS is therefore inseparable from process and scale. Biological systems regulate viability only through ongoing processes coordinated across interacting spatial and temporal domains.
+
+For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
 
 ## Agency and Adaptation
 
@@ -155,12 +172,39 @@ Agency is not imposed from outside living systems, nor does it require represent
 It emerges from the organisation of viability-oriented activity itself.
 
 Biological agency therefore grounds:
-- adaptation
-- normativity
-- purposiveness
-- semiosis
-- and the possibility of cognition
 
-Life does not merely persist.
+- adaptation,
+- normativity,
+- purposiveness,
+- semiosis,
+- and the possibility of cognition.
 
-It actively regulates the conditions of its own persistence.
+Life does not merely persist passively.
+
+It actively regulates and reorganises the conditions of its own persistence.
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+
+### Cognition and Meaning
+
+- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *[Semiosis](/glossary/semiosis/)*
+- *[Evaluation](/glossary/evaluation/)*
+- *[Meaning](/glossary/meaning/)*
+
+### Clarification Articles
+
+- *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
