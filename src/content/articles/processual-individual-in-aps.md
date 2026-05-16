@@ -23,7 +23,7 @@ relatedGlossaryTerms:
   - viability
   - constraint-closure
 relatedArticles:
-  - biological-individual-in-aps
+  - biological-individual
   - organism-the-unity-of-viability-oriented-organisation
   - process-the-dynamics-of-living-biological-organisation
   - what-is-an-organism
