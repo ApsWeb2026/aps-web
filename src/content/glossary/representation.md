@@ -4,16 +4,16 @@ title: Representation
 slug: representation
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-20
-revised: 2026-05-15
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
 cluster: cognition-mind
 
 definition: >
   In APS, representation is a derived and optional form of cognition in which
-  evaluative semiosis becomes stabilised across absent, delayed, or
-  non-immediate conditions. Representation depends upon prior viability-oriented
-  organisation, meaning, and cognition rather than constituting their
-  foundation.
+  evaluative semiosis becomes stabilised across absent, delayed, anticipated,
+  or non-immediate conditions. Representation depends upon prior
+  viability-oriented organisation, meaning, evaluation, and cognition rather
+  than constituting their foundation.
 
 inBrief: >
   Representation is a derived form of cognition in which evaluative semiosis
@@ -28,15 +28,26 @@ relatedGlossaryTerms:
   - biological-agency
   - normativity
   - viability
+  - viability-orientation
   - persistence
+  - adaptation
 
 relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-viability-oriented-account
   - representation-when-and-whether-it-arises-in-biological-systems
   - cognition-where-does-it-belong-in-biology
   - meaning-in-biology-an-aps-clarification
   - information-in-biology-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - why-life-is-not-information-processing
   - why-life-is-not-active-inference
+  - why-life-is-not-intelligence-an-aps-clarification
 
 references:
   - id: peirce1931
@@ -80,15 +91,21 @@ references:
 
 Representation is often treated as the foundation of cognition.
 
-In cognitive science and philosophy of mind, representations are commonly understood as internal structures that stand in for features of the environment, enabling organisms to model, predict, or reason about external conditions.
+In cognitive science and philosophy of mind, representations are commonly understood as internal structures that stand in for features of the environment, enabling organisms to:
+- model;
+- predict;
+- simulate;
+- classify;
+- or reason about external conditions.
 
 Under these approaches, cognition is frequently explained primarily through:
-- internal models,
-- symbolic encoding,
-- information processing,
-- or computational representation.
+- internal models;
+- symbolic encoding;
+- information processing;
+- computational representation;
+- or predictive architectures.
 
-APS rejects the idea that representation is foundational to cognition.
+APS rejects the idea that representation is foundational to cognition or life.
 
 ## The APS Reframing
 
@@ -96,32 +113,66 @@ In APS, representation is a derived and optional form of cognition rather than i
 
 Living systems do not initially regulate activity by constructing detached internal descriptions of the world.
 
-Basic organism–environment interactions instead depend upon the direct modulation of activity relative to viability conditions.
+Basic organism–environment interaction instead depends upon the direct modulation of activity relative to viability conditions.
 
 Living systems respond to conditions because those conditions affect organised persistence, not because the system first constructs symbolic or computational models of them.
 
 Representation emerges only under more complex organisational conditions in which activity becomes regulated relative to:
-- absent conditions,
-- delayed consequences,
-- anticipated states,
-- remembered conditions,
+- absent conditions;
+- delayed consequences;
+- anticipated states;
+- remembered conditions;
+- hypothetical possibilities;
 - or temporally displaced relations.
 
 Under such conditions, internal organisation may stabilise patterns of evaluative semiosis across non-immediate contexts.
 
 These stabilised structures function representationally insofar as they support viability-oriented regulation beyond immediately present conditions.
 
+> **Where this concept fits:** Representation is a derived organisational development within APS rather than a foundational explanatory principle. It explains how evaluative semiosis may become stabilised across non-immediate conditions and thereby links meaning, information, cognition, agency, and adaptive behavioural organisation within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
+APS consequently treats representation not as the original basis of cognition, but as one possible organisational development within viability-oriented living systems.
+
+## Representation and Viability
+
+Representation remains grounded in viability-oriented organisation.
+
+Representational structures persist only insofar as they contribute to:
+- regulation;
+- coordination;
+- behavioural flexibility;
+- anticipation;
+- adaptation;
+- or organised persistence.
+
+Representation therefore has biological significance only within systems already organised around viability-oriented activity.
+
+APS consequently distinguishes:
+- **viability**, which specifies the conditions under which organised persistence can succeed or fail;
+- from **representation**, which refers to the stabilisation of evaluative semiosis across non-immediate conditions relative to those viability constraints.
+
+This distinction is foundational for the explanatory structure of APS.
+
 ## Representation and Evaluation
 
 Representation depends upon evaluation.
 
-Living systems must first differentiate viability-supporting from viability-undermining conditions before representational organisation can emerge.
+Living systems must first differentiate:
+- viability-supporting from viability-undermining conditions;
+- stabilising from destabilising transformations;
+- and persistence-supporting from persistence-undermining activity
+
+before representational organisation can emerge.
 
 Evaluation modulates activity relative to those conditions.
 
 Representation stabilises and extends this evaluative organisation across broader temporal and behavioural domains.
 
 Evaluation is therefore biologically prior to representation.
+
+Representation in APS is therefore inseparable from agency, process, and scale. Representational organisation emerges only through ongoing viability-oriented activity coordinated across interacting temporal and spatial domains.
+
+For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
 
 ## Representation and Semiosis
 
@@ -130,12 +181,14 @@ Representation develops from increasingly integrated forms of evaluative semiosi
 Semiosis structures meaningful differentiation within organised activity.
 
 Representation emerges only when these meaningful differentiations become stabilised across:
-- absent,
-- delayed,
-- anticipated,
+- absent;
+- delayed;
+- anticipated;
 - or non-immediate conditions.
 
 Representation is therefore a specialised extension of semiosis rather than its foundation.
+
+APS consequently approaches representation as organisationally grounded in evaluative semiosis rather than in detached symbolic manipulation alone.
 
 ## Representation and Meaning
 
@@ -147,40 +200,87 @@ Meaning emerges through evaluation and semiosis before representation arises.
 
 Representation extends and stabilises meaningful organisation but does not create biological meaning from nothing.
 
+APS consequently rejects the idea that meaning fundamentally depends upon symbolic representation or internal modelling.
+
 ## Representation and Information
 
 Information may participate in representational organisation, but information itself is not necessarily representational.
 
-Biological systems continuously regulate informational relations through signalling, coordination, and evaluative activity without necessarily constructing internal models.
+Living systems continuously regulate informational relations through:
+- signalling;
+- coordination;
+- evaluative modulation;
+- and adaptive organisation
 
-Representation emerges only in systems where informational organisation becomes sufficiently stabilised and integrated to support regulation across non-immediate conditions.
+without necessarily constructing internal models.
+
+Representation emerges only in systems where informational organisation becomes sufficiently:
+- integrated;
+- temporally extended;
+- behaviourally coordinated;
+- and organisationally stabilised
+
+to support regulation across non-immediate conditions.
+
+APS consequently rejects the reduction of cognition to information processing alone.
 
 ## Representation and Cognition
 
 Cognition does not begin with representation.
 
-All living systems exhibit viability-oriented regulation, and many exhibit semiosis, evaluation, and forms of cognition without requiring representational organisation.
+All living systems exhibit viability-oriented regulation, and many exhibit:
+- semiosis;
+- evaluation;
+- adaptation;
+- and forms of cognition
+
+without requiring representational organisation.
 
 Representation emerges only in more organisationally complex forms of cognition where activity becomes:
-- temporally extended,
-- behaviourally coordinated,
+- temporally extended;
+- behaviourally coordinated;
+- anticipatory;
 - and increasingly integrated across absent or delayed conditions.
 
 Representation is therefore one possible organisational development of cognition rather than its defining basis.
+
+APS consequently approaches cognition as broader than representational processing alone.
+
+[[box:what-aps-means-by-meaning]]
 
 ## Representation and Biological Agency
 
 Representation remains subordinate to biological agency.
 
-Representational structures persist only insofar as they contribute to viability-oriented regulation within organised living systems.
+Representational organisation exists only insofar as it contributes to viability-oriented regulation within living systems.
 
-Representational organisation is therefore constrained by:
-- persistence,
-- regulation,
-- adaptation,
+Representational structures are therefore constrained by:
+- persistence;
+- regulation;
+- adaptation;
+- environmental interaction;
 - and organisational coherence.
 
-Representation is biologically significant only because it participates in the ongoing viability-oriented activity of the system itself.
+Agency is biologically primary; representation is organisationally derivative.
+
+APS consequently treats representation as embedded within active viability-oriented organisation rather than as an autonomous symbolic layer.
+
+## Representation and Adaptation
+
+Representation may contribute to adaptive flexibility.
+
+Representational stabilisation can support:
+- anticipation;
+- behavioural planning;
+- delayed coordination;
+- environmental modelling;
+- and flexible reorganisation under changing conditions.
+
+However, adaptive organisation itself does not fundamentally require representation.
+
+Many forms of adaptive regulation occur directly through evaluative semiosis without symbolic modelling or explicit internal representation.
+
+APS consequently treats representation as one possible extension of adaptive organisation rather than its universal basis.
 
 ## Representation Across Scale
 
@@ -192,14 +292,68 @@ These forms of representation are not detached symbolic layers added onto living
 
 They remain embedded within viability-oriented organisation distributed across interacting processes and scales.
 
+APS consequently treats representation as multiscale and organisationally embedded rather than as purely internal symbolic architecture.
+
+## Representation Is Optional
+
+Representation is not a necessary condition for life.
+
+Many living systems exhibit:
+- evaluation;
+- semiosis;
+- meaning;
+- regulation;
+- adaptation;
+- and biological agency
+
+without requiring representational organisation.
+
+Representation therefore should not be projected retrospectively onto all forms of life.
+
+APS consequently rejects both:
+- unrestricted representationalism;
+- and eliminativist denial that representation can emerge at all.
+
+Representation is real where organisational conditions support it, but derivative rather than foundational.
+
 ## Summary
 
-In APS, representation is a derived and optional form of cognition in which evaluative semiosis becomes stabilised across absent, delayed, or non-immediate conditions.
+In APS, representation is a derived and optional form of cognition in which evaluative semiosis becomes stabilised across absent, delayed, anticipated, or non-immediate conditions.
 
 Representation is:
-- downstream of evaluation and semiosis,
-- grounded in viability-oriented organisation,
-- organisational rather than merely symbolic,
-- and biologically derivative rather than foundational.
+- downstream of evaluation and semiosis;
+- grounded in viability-oriented organisation;
+- organisational rather than merely symbolic;
+- biologically derivative rather than foundational;
+- and one possible development of cognition rather than its universal basis.
 
-Representation therefore extends and stabilises cognition, meaning, and informational organisation within living systems rather than constituting their original basis.
+Representation therefore extends and stabilises cognition, meaning, and informational organisation within living systems rather than constituting their original foundation.
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+
+### Representation, Meaning, and Cognition
+
+- *[Representation — When and Whether It Arises in Biological Systems](/articles/representation-when-and-whether-it-arises-in-biological-systems/)*
+- *[Meaning in Biology — An APS Clarification](/articles/meaning-in-biology-an-aps-clarification/)*
+- *[Information in Biology — An APS Clarification](/articles/information-in-biology-an-aps-clarification/)*
+- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
+- *[Evaluation — How Living Systems Modulate Activity Relative to Viability](/articles/evaluation-how-living-systems-modulate-activity-relative-to-viability/)*
+- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+
+### Clarification Articles
+
+- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
+- *[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
