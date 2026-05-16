@@ -4,12 +4,15 @@ title: Understanding APS — The Structure of the Framework
 slug: understanding-aps-the-structure-of-the-framework
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-13
-revised: 2026-05-13
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
 cluster: conceptual-foundations
 
 abstract: >
-  This article explains how the APS framework is structured and how its core concepts fit together. It shows how agency, process, and scale form a unified organisational framework for understanding life as viability-oriented, constraint-closed organisation.
+  This article explains how the APS framework is structured and how its core
+  concepts fit together. It shows how agency, process, and scale form a
+  unified organisational framework for understanding life as
+  viability-oriented, constraint-closed organisation.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -23,6 +26,7 @@ relatedGlossaryTerms:
   - viability
 
 relatedArticles:
+  - aps-architecture-map
   - what-is-aps
   - aps-viability-oriented-framework
   - explanatory-geometry-of-biology
@@ -36,6 +40,8 @@ relatedArticles:
 
 *[What Is APS?](/orientation/what-is-aps/)* introduces the central concepts of APS. This article explains how those concepts fit together as a unified explanatory framework.
 
+> **Where this article fits:** This article develops the internal structure of the APS framework. For an overview of how this structure connects to the wider framework — including evolution, cognition, diagnosis, and philosophy of biology — see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
 APS understands life as **viability-oriented, constraint-closed organisation**. Living systems are not passive collections of components shaped entirely by external forces, but organised systems that actively sustain the conditions of their own *[persistence](/glossary/persistence/)* across time.
 
 Within APS, biological explanation is organised through the interdependence of three dimensions:
@@ -48,18 +54,23 @@ These dimensions form the core explanatory structure through which APS understan
 
 [[box:what-biological-explanation-explains]]
 
+For the formal conceptual architecture of APS, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
+
 For a formal account of how this explanatory structure is organised, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
 
 For a broader discussion of how scientific frameworks organise explanation, see *[Explanatory Grammar](/articles/explanatory-grammar/)*.
 
 ## Orientation Pathway
 
-APS can be approached through the following orientation sequence:
+Readers new to APS should usually proceed through the following sequence:
 
-- *[What Is APS?](/orientation/what-is-aps/)*
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+1. *[What Is APS?](/orientation/what-is-aps/)*
+2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+
+For a broader overview of how the major conceptual areas of APS connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 ## Organised Persistence
 
@@ -115,7 +126,7 @@ APS treats scale not as a fixed hierarchy of independent levels, but as a contin
 
 Together, agency, process, and scale form the core explanatory structure through which APS understands living systems as organised persistence.
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Nor does APS identify life with computation, intelligence, or behavioural complexity considered in abstraction from viability-oriented organisation. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its explanatory position is organisational rather than merely anti-reductionist. Nor does APS identify life with computation, intelligence, or behavioural complexity considered in abstraction from viability-oriented organisation. Living systems are instead explained through viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
 
 ## How APS Reorganises Biological Explanation
 
@@ -127,12 +138,13 @@ APS therefore reconstructs biological explanation around the organisational cond
 
 [[box:aps-box-what-aps-does-not-assume]]
 
-For a broader guide to how the orientation pages, glossary, canonical articles, clarification pathways, and empirical materials fit together across APS_WEB, see *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
+For a broader guide to how the orientation pages, glossary, canonical articles, clarification pathways, and empirical materials fit together across APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)* and *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
 
-## Continue Reading
+## Related Pathways
 
-- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-- *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+- For the formal conceptual structure of APS, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
+- For the explanatory organisation of biology within APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
+- For a broader map of the framework and its conceptual pathways, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 ## Related Clarifications
 

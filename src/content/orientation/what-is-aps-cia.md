@@ -4,11 +4,12 @@ title: What Is APS?
 slug: what-is-aps
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-13
-revised: 2026-05-13
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
 cluster: conceptual-foundations
 
 relatedArticles:
+  - aps-architecture-map
   - aps-as-philosophy-viability-oriented-account
   - description-explanation-and-definition-in-biology
   - explanatory-geometry-of-biology
@@ -36,7 +37,9 @@ APS proposes that biological explanation is directed not merely at living matter
 
 This page provides a concise introduction to the core explanatory ideas of APS.
 
-For the structural map of the framework, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*.
+> **Navigating the framework:** APS now develops across multiple interconnected areas including biological explanation, evolution, cognition, meaning, diagnosis, and philosophy of biology. For an overview of how these areas fit together, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
+For the structural organisation of the framework, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*.
 
 For the formal conceptual architecture of APS, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
 
@@ -46,12 +49,15 @@ For a deeper discussion of how scientific frameworks organise explanation, see *
 
 ## Orientation Pathway
 
-APS can be approached progressively through the following sequence:
+Readers new to APS should usually begin with the following sequence:
 
-- *[What Is APS?](/orientation/what-is-aps/)*
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+1. *[What Is APS?](/orientation/what-is-aps/)*
+2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+
+For a broader overview of how the major conceptual areas of APS connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 ## Agency
 
@@ -79,16 +85,21 @@ Together, agency, process, and scale form the core explanatory grammar of APS, t
 
 [[box:description-is-not-explanation]]
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Nor does APS identify life with computation, intelligence, or behavioural complexity alone. Its position is organisational: living systems are explained through viability-oriented, constraint-closed processes of persistence distributed across agency, process, and scale.
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its explanatory position is organisational rather than merely anti-reductionist. Nor does APS identify life with computation, intelligence, or behavioural complexity alone. Living systems are instead explained through viability-oriented, constraint-closed processes of persistence distributed across agency, process, and scale.
 
 For clarification, see *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
 
-For a broader guide to how the framework is organised and how the major explanatory pathways connect, see *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
+For a broader guide to how the framework is organised and how its major conceptual pathways connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)* and *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
 
-## Continue Reading
+## Where to Go Next
 
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+Readers new to APS should usually continue with:
+
+1. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
+2. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+3. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+
+For a broader overview of the framework and its major conceptual pathways, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 ## Related Clarifications
 
