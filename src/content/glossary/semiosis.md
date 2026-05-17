@@ -4,8 +4,8 @@ title: Semiosis
 slug: semiosis
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: cognition-mind
 
 definition: >
@@ -118,7 +118,21 @@ Living systems continuously differentiate conditions relative to viability const
 
 Semiosis refers to the structuring of activity through which such differences acquire biological significance.
 
-> **Where this concept fits:** Semiosis is one of the central organisational processes within APS. It explains how differences become biologically meaningful within viability-oriented persistence and thereby grounds meaning, information, agency, adaptation, and cognition within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+Within APS, semiosis emerges from evaluation and forms the organisational bridge through which biologically meaningful differentiation becomes possible.
+
+evaluation  
+↓  
+semiosis  
+↓  
+meaning
+
+Evaluation modulates activity relative to viability conditions.
+
+Semiosis structures meaningful differentiation within that modulation.
+
+Meaning concerns the biological significance those differentiated conditions acquire within organised persistence.
+
+> **Where this concept fits:** Semiosis is one of the central organisational processes within APS. It explains how differences become biologically meaningful within viability-oriented persistence and thereby grounds meaning, information, adaptation, and cognition within a unified explanatory framework. For the broader structure of APS, see *APS Architecture Map — Navigating the Framework*.
 
 APS consequently treats semiosis not as an abstract symbolic overlay upon biology, but as an intrinsic organisational feature of viability-oriented living systems.
 
@@ -152,25 +166,19 @@ Semiosis therefore does not add meaning to otherwise neutral processes.
 
 It is the organisation of meaningful differentiation within viability-oriented activity itself.
 
-Semiosis in APS is therefore inseparable from agency, process, and scale. Meaningful differentiation emerges only through ongoing organisation coordinated across interacting temporal and spatial domains.
-
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
-
 ## Semiosis and Evaluation
 
 Semiosis emerges through evaluation.
 
 Living systems continuously modulate activity relative to viability-relevant conditions.
 
-Evaluation refers to the differential modulation of activity relative to those conditions.
+Evaluation concerns the differential modulation of activity relative to those conditions.
 
-Semiosis refers to the structuring through which such differences become biologically meaningful within organised regulation.
+Semiosis concerns the structuring through which such differences become biologically meaningful within organised regulation.
 
-Meaning therefore emerges through viability-relative organisation rather than through symbolic decoding or detached interpretation.
+The two are therefore inseparable but analytically distinct.
 
-Information emerges where these meaningful differences participate in organised biological regulation and coordination.
-
-APS consequently treats semiosis as organisationally grounded in evaluative modulation rather than in detached symbolic interpretation alone.
+APS consequently treats semiosis as organisationally grounded in evaluative modulation rather than in detached symbolic interpretation.
 
 ## Semiosis and Biological Agency
 
@@ -263,11 +271,9 @@ This enables present regulation to occur relative to:
 - anticipated conditions;
 - absent conditions;
 - remembered conditions;
-- and counterfactual possibilities
+- and counterfactual possibilities.
 
-without requiring explicit symbolic representation.
-
-Cognition therefore represents a more integrated, temporally extended, and behaviourally coordinated organisation of semiosis rather than a fundamentally separate category of process.
+Cognition therefore represents a more integrated and temporally extended organisation of semiosis rather than a fundamentally separate category of process.
 
 [[box:what-aps-means-by-meaning]]
 
@@ -284,37 +290,36 @@ Semiosis is:
 - processual rather than representational;
 - and multiscale rather than confined to cognition or language.
 
-Semiosis therefore grounds:
-- biological meaning;
-- informational significance;
-- agency;
+Semiosis therefore forms the organisational bridge linking:
+- evaluation;
+- meaning;
+- information;
 - adaptation;
 - and cognition
 
-within the organisation of viability-oriented living systems.
+within viability-oriented living systems.
 
 ## Related APS Articles
 
 ### Orientation
 
-- *[What Is APS?](/orientation/what-is-aps/)*
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+- *What Is APS?*
+- *Understanding APS — The Structure of the Framework*
+- *APS Architecture Map — Navigating the Framework*
 
 ### Core Framework
 
-- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *The Core Structure of APS — How the Framework Fits Together*
+- *The Explanatory Geometry of Biology — How APS Organises Biological Explanation*
+- *APS as Philosophy — A Viability-Oriented Account of Biological Reality*
 
 ### Meaning, Evaluation, and Cognition
 
-- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
-- *[Meaning in Biology — An APS Clarification](/articles/meaning-in-biology-an-aps-clarification/)*
-- *[Information in Biology — An APS Clarification](/articles/information-in-biology-an-aps-clarification/)*
-- *[Evaluation — How Living Systems Modulate Activity Relative to Viability](/articles/evaluation-how-living-systems-modulate-activity-relative-to-viability/)*
-- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *Evaluation — How Living Systems Modulate Activity Relative to Viability*
+- *Meaning in Biology — An APS Clarification*
+- *Information in Biology — An APS Clarification*
+- *Cognition — Where Does It Belong in Biology?*
 
 ### Clarification Articles
 
-- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
+- *Why Life Is Not Intelligence*

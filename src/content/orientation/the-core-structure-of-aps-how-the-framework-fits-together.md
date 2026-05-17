@@ -4,15 +4,15 @@ title: The Core Structure of APS — How the Framework Fits Together
 slug: the-core-structure-of-aps-how-the-framework-fits-together
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: conceptual-foundations
 
 abstract: >
-  This article presents the formal conceptual architecture of the APS
-  framework. It shows how viability, constraint closure, normativity,
-  agency, process, and scale form an integrated explanatory structure for
-  understanding living systems.
+  This article presents the formal conceptual structure of the APS framework.
+  It explains how viability, constraint closure, normativity, agency,
+  process, and scale form an integrated explanatory grammar for understanding
+  living systems as organised persistence.
 
 relatedGlossaryTerms:
   - viability
@@ -25,8 +25,10 @@ relatedGlossaryTerms:
   - scale-coupling
   - persistence
   - mechanism
-  - holism
-  - organicism
+  - adaptation
+  - evaluation
+  - semiosis
+  - cognition
 
 relatedArticles:
   - aps-architecture-map
@@ -35,25 +37,36 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology
+  - reductionism-in-biology-an-aps-clarification
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
 ---
 
 ## What This Article Provides
 
-This page presents the formal conceptual architecture of the APS framework in a compressed form.
+This article presents the formal conceptual structure of the APS framework in compressed form.
 
-*[What Is APS?](/orientation/what-is-aps/)* introduces the central ideas of APS, while *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)* explains how those ideas fit together. This article sets out the underlying conceptual structure that organises those explanations.
+*[What Is APS?](/orientation/what-is-aps/)* introduces the central ideas of APS, while *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)* explains how those ideas fit together structurally. This article presents the underlying explanatory grammar organising those relations.
 
-> **Where this article fits:** This article presents the formal conceptual structure of APS. For a broader overview of how this structure connects to the wider framework — including evolution, cognition, diagnosis, and philosophy of biology — see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this article fits:** This article presents the formal conceptual structure of APS. For a broader overview of how this structure connects across evolution, cognition, diagnosis, and philosophy of biology, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
-APS begins not with traits, components, or hierarchical levels, but with organisation: the way living systems sustain themselves across time.
+APS begins not with traits, components, mechanisms, or hierarchical levels, but with organised persistence: the ongoing organisation through which living systems sustain themselves across time.
 
-From this starting point, a tightly integrated set of concepts defines both what life is and how biological explanation is organised.
+From this starting point, APS develops a tightly integrated explanatory structure linking:
+- viability;
+- constraint closure;
+- normativity;
+- agency;
+- process;
+- and scale.
+
+Together, these concepts form the explanatory grammar through which APS understands biological organisation.
+
+[[box:the-organisational-grammar-of-aps]]
 
 ## Orientation Pathway
 
-Readers new to APS should usually proceed through the following sequence:
+Readers new to APS will usually benefit from proceeding through the following sequence:
 
 1. *[What Is APS?](/orientation/what-is-aps/)*
 2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
@@ -61,106 +74,155 @@ Readers new to APS should usually proceed through the following sequence:
 4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 
-For a broader overview of how the major conceptual pathways of APS connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
-
 ## Life as Organised Persistence
 
-APS defines life as **viability-oriented, constraint-closed organisation**.
+APS defines life as *[viability-oriented](/glossary/viability-orientation/)*, *[constraint-closed](/glossary/constraint-closure/)* organisation.
 
-Living systems are identified not by lists of properties, but by the organisation through which they sustain their own persistence. This organisation establishes the conditions required for continued existence and must be continuously maintained through the system’s own activity.
+Living systems are not identified primarily through lists of properties or isolated mechanisms, but through the organisation by which they sustain their own persistence across changing conditions.
 
-Life is therefore not a static condition but an ongoing organisational achievement sustained across time.
+This organisation establishes and continuously regenerates the conditions required for continued existence.
+
+Life is therefore not a static condition.
+
+It is an ongoing organisational achievement.
 
 ## Constraint Closure and Persistence
 
-Biological organisation becomes self-maintaining through *[constraint closure](/glossary/constraint-closure/)*: networks of mutually sustaining constraints that preserve the conditions required for continued existence.
+Biological organisation becomes self-maintaining through *[constraint closure](/glossary/constraint-closure/)*: networks of mutually sustaining constraints that preserve the conditions required for continued persistence.
 
-Constraint closure provides the organisational basis of persistence.
+Constraints shape biological activity.
 
-Persistence is therefore not merely duration. It is the ongoing maintenance and regeneration of organised relations across changing conditions.
+Biological activity regenerates those constraints.
+
+This reciprocal organisation allows living systems to maintain themselves through continuous transformation.
+
+*[Persistence](/glossary/persistence/)* therefore refers not merely to duration, but to the ongoing regeneration of organised relations across time.
 
 ## Normativity
 
-Because living systems must sustain their own organisation, not all states are equivalent. Some support persistence, while others undermine it.
+Because living systems must sustain themselves, not all conditions are biologically equivalent.
 
-This asymmetry constitutes *[normativity](/glossary/normativity/)*: differences matter relative to viability.
+Some conditions:
+- support persistence;
+- stabilise organisation;
+- or contribute to recovery.
 
-Normativity does not arise from external judgement or conscious evaluation. It emerges directly from the organisational conditions required for persistence.
+Others:
+- undermine organisation;
+- destabilise persistence;
+- or contribute to breakdown.
+
+This viability-relative asymmetry constitutes *[normativity](/glossary/normativity/)*.
+
+Normativity therefore does not originate in external judgement, conscious intention, or symbolic interpretation.
+
+It emerges directly from the organisational conditions required for viable persistence.
+
+[[box:norms-are-not-rules]]
 
 ## Agency
 
-Within this organised and normatively structured system, *[biological agency](/glossary/biological-agency/)* is the active regulation of conditions that sustain viability.
+Within this normatively structured organisation, *[biological agency](/glossary/biological-agency/)* refers to the active regulation of conditions affecting viability.
 
-Living systems do not merely persist; they regulate internal processes and reorganise constraints in response to changing conditions in ways that support continued existence.
+Living systems do not merely persist passively.
 
-Agency is not an additional property layered onto life. It is the activity through which organised persistence is enacted.
+They regulate:
+- metabolism;
+- repair;
+- environmental interaction;
+- development;
+- behaviour;
+- and adaptive organisation
+
+in ways that contribute to continued persistence.
+
+Agency is therefore not an additional property layered onto otherwise non-agential matter.
+
+It is the activity through which organised persistence is enacted.
 
 ## Process
 
-Biological organisation is continuously enacted through *[process](/glossary/process/)*: the dynamic organisation of activity through which constraints are sustained and transformed across time.
+Biological organisation is continuously enacted through *[process](/glossary/process/)*.
 
-Structure is therefore the temporary stabilisation of ongoing activity.
+Living systems persist only through ongoing activity:
+- regulating constraints;
+- reorganising structure;
+- compensating for perturbation;
+- and maintaining organisational continuity across time.
 
-APS consequently treats organisms not as static things that merely undergo processes, but as dynamically organised patterns of activity maintained through time.
+APS therefore treats organisms not as static entities possessing processes, but as dynamically organised persistence processes themselves.
+
+Structure is the temporary stabilisation of ongoing activity.
 
 ## Scale
 
-Living systems are distributed across space and time. Molecular, cellular, organismal, ecological, and evolutionary domains are not independent levels but interacting regions of organised activity.
+Biological organisation is always distributed across space and time.
 
-*[Scale](/glossary/scale/)* describes how activity is coordinated across these domains.
+Molecular interactions, physiological regulation, behavioural coordination, ecological interaction, development, and evolution are not isolated explanatory layers but interacting domains of organised activity.
 
-APS therefore treats biological organisation as coordinated across scale rather than arranged in fixed hierarchical levels.
+*[Scale](/glossary/scale/)* refers to the coordination of activity across these spatiotemporal domains.
+
+APS consequently treats biological organisation as scale-coupled rather than hierarchically partitioned.
+
+[[box:scale-is-not-hierarchy]]
 
 ## The APS Organisational Structure
 
-These concepts are unified through a common organisational structure.
+These concepts are integrated through a common explanatory structure.
 
-APS explains biological systems through three analytically distinguishable but ontologically co-constitutive dimensions:
+APS organises biological explanation through three analytically distinguishable but ontologically co-constitutive dimensions:
 
 - **Agency** — viability-oriented regulation  
-- **Process** — the dynamic organisation of activity across time  
+- **Process** — the ongoing organisation of activity across time  
 - **Scale** — the coordination of activity across spatial and temporal domains  
 
-These are not separate components of life, but distinct ways of describing the same viability-oriented, constraint-closed organisation.
+These are not separate components of life.
 
-[[box:the-organisational-grammar-of-aps]]
+They are distinct explanatory perspectives on the same organised persistence.
 
-[[box:aps-box-hierarchy-vs-scale]]
+Agency is always enacted through process.
 
-Together, agency, process, and scale form the core explanatory grammar through which APS organises biological explanation.
+Process is always distributed across scale.
 
-## A Unified Explanatory System
+Scale emerges through the organisation of activity across space and time.
 
-Together, these concepts form a tightly integrated explanatory system:
+Together, agency, process, and scale form the core explanatory grammar through which APS understands biological organisation.
 
-- **Life** is viability-oriented, constraint-closed organisation  
-- **Constraint closure** explains how organisation becomes self-maintaining  
-- **Normativity** explains why differences matter for persistence  
-- **Agency** describes viability-oriented regulation  
-- **Process** describes the ongoing enactment of organisation  
-- **Scale** describes coordination across domains  
+## The Extension of the Framework
 
-Each concept depends upon the others; none is sufficient in isolation.
+The organisational structure developed here provides the basis for the broader APS framework.
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its explanatory position is organisational rather than merely anti-reductionist.
+From these foundations emerge further accounts of:
+- *[evaluation](/glossary/evaluation/)*;
+- *[semiosis](/glossary/semiosis/)*;
+- *[meaning](/glossary/meaning/)*;
+- *[information](/glossary/information/)*;
+- *[representation](/glossary/representation/)*;
+- *[cognition](/glossary/cognition/)*;
+- *[adaptation](/glossary/adaptation/)*;
+- and *[evolution](/glossary/evolution/)*.
 
-Nor does APS identify life with computation, intelligence, information processing, or behavioural complexity considered independently of viability-oriented organisation.
+These are not separate theories added externally onto APS.
 
-Living systems are instead understood through viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
+They emerge progressively from the same organisational structure of viability-oriented persistence.
 
-## How the Framework Extends Beyond Core Organisation
+## Biological Explanation in APS
 
-The conceptual structure developed here provides the basis for the wider APS framework.
+APS does not reject:
+- mechanistic explanation;
+- developmental explanation;
+- informational explanation;
+- or evolutionary explanation.
 
-From these organisational foundations, APS develops further accounts of:
+Instead, it situates these forms of explanation within a broader account of organised persistence.
 
-- evaluation and semiosis,
-- cognition and meaning,
-- adaptation and evolution,
-- diagnosis and malfunction,
-- and the organisation of biological explanation itself.
+Mechanisms operate only within systems capable of maintaining themselves.
 
-These are not separate theoretical additions layered onto the framework. They emerge progressively from the same organisational structure of viability-oriented persistence.
+Information matters only within systems for which differences affect viability.
+
+Evolution concerns the transformation of organised persistence across generations.
+
+APS therefore reconstructs biological explanation around the organisational conditions that make living systems intelligible as living systems.
 
 ## Further Orientation
 
