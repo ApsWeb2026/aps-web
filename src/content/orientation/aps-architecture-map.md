@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
 revised: 2026-05-16
-cluster: orientation
+cluster: conceptual-foundations
 abstract: >
   This article provides a conceptual map of the APS framework and explains
   how its major components fit together. It outlines the central explanatory
