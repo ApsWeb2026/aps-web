@@ -24,7 +24,12 @@ relatedGlossaryTerms:
   - constraint-closure
   - evaluation
   - semiosis
+  - meaning
+  - information
+  - representation
   - cognition
+  - intelligence
+  - consciousness
   - mechanism
   - adaptation
 
@@ -35,6 +40,9 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - the-core-structure-of-aps-how-the-framework-fits-together
   - how-aps-explains-life
+  - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-information-processing
+  - why-life-is-not-active-inference
   - reductionism-in-biology-an-aps-clarification
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
@@ -43,6 +51,8 @@ relatedArticles:
 ## What This Article Explains
 
 *[What Is APS?](/orientation/what-is-aps/)* introduces the central ideas of APS in broad conceptual terms. This article explains how those ideas fit together structurally as a unified explanatory framework for biology.
+
+APS is organised not merely as a collection of concepts, but as an integrated explanatory architecture in which increasingly complex organisational developments emerge from prior viability-oriented conditions.
 
 > **Where this article fits:** This article explains the internal explanatory structure of APS. For a broader guide to how the major conceptual areas of the framework connect across orientation, evolution, cognition, diagnosis, and philosophy of biology, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
@@ -61,6 +71,18 @@ These dimensions form the core explanatory structure through which APS understan
 For the formal conceptual architecture of APS, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
 
 For a more formal account of how biological explanation is organised within APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
+
+APS also develops a major cognition pathway linking:
+- evaluation;
+- semiosis;
+- meaning;
+- information;
+- representation;
+- cognition;
+- intelligence;
+- and consciousness
+
+within a unified account of viability-oriented biological organisation.
 
 ## Orientation Pathway
 
@@ -100,7 +122,41 @@ Within this organisation, activity becomes differentially structured relative to
 
 Through evaluation, environmental differences acquire biological significance for the system. In APS, this organisation of meaningful difference constitutes *[semiosis](/glossary/semiosis/)*.
 
+Meaning emerges where differentiated conditions acquire biological significance within organised persistence.
+
+Information emerges where such meaningful differences participate in organised coordination and regulation.
+
+Representation emerges where informational organisation becomes stabilised across absent, delayed, or non-immediate conditions.
+
 *[Cognition](/glossary/cognition/)* emerges when evaluative organisation becomes sufficiently integrated and temporally extended that present activity is regulated relative to conditions beyond the immediate present.
+
+Intelligence and consciousness emerge only within more highly integrated forms of cognition.
+
+Within APS, these organisational developments form a directional explanatory pathway:
+
+viability  
+↓  
+agency  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition  
+↓  
+intelligence  
+↓  
+consciousness
+
+This sequence does not describe separate substances or independent explanatory modules. It describes increasingly integrated organisational developments emerging within viability-oriented living systems.
+
+[[box:cognition-pathway]]
 
 Cognition is therefore not a separate explanatory domain added onto biology, but a more integrated organisational development within the same framework of viability-oriented activity.
 
@@ -167,6 +223,10 @@ Information matters only within systems for which differences affect viability.
 
 Evolutionary processes operate only on systems capable of sustaining organised persistence across time.
 
+Cognition emerges only where evaluative organisation becomes sufficiently integrated and temporally extended.
+
+Intelligence and consciousness emerge only within more specialised forms of cognition already grounded in viability-oriented organisation.
+
 APS therefore reconstructs biological explanation around the organisational conditions that make living systems intelligible as living systems.
 
 [[box:aps-box-what-aps-does-not-assume]]
@@ -177,6 +237,7 @@ For a broader guide to how the orientation pages, glossary, clarification articl
 
 - For the formal conceptual structure of APS, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
 - For the explanatory organisation of biology within APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
+- For cognition and its organisational placement within biology, see *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*.
 - For a broader conceptual overview of the framework, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 ## Related Clarifications
@@ -185,8 +246,10 @@ For a broader guide to how the orientation pages, glossary, clarification articl
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
 - *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
+- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
+- *[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)*
 - *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
 ## Key Terms
 
-agency · process · scale · persistence · evaluation · semiosis · cognition
+agency · process · scale · evaluation · semiosis · meaning · cognition · persistence

@@ -17,7 +17,7 @@ cluster: "conceptual-foundations"
 
 keyPoints:
   - "APS reconstructs biological explanation around viability-oriented organised persistence."
-  - "The framework naturalises normativity, function, purpose, semiosis, and cognition within biological organisation itself."
+  - "The framework naturalises normativity, function, purpose, semiosis, meaning, cognition, and consciousness within biological organisation itself."
   - "Constraint closure explains how living systems continuously regenerate the conditions of their own persistence."
   - "APS reframes evolutionary explanation by treating persistence as explanatorily prior to selection."
   - "Agency, process, and scale function as co-constitutive dimensions of biological organisation."
@@ -41,7 +41,12 @@ relatedGlossaryTerms:
   - mattering
   - evaluation
   - semiosis
+  - meaning
+  - information
+  - representation
   - cognition
+  - intelligence
+  - consciousness
   - function
   - purpose
   - adaptation
@@ -56,6 +61,9 @@ relatedArticles:
   - analysis-synthesis-and-the-direction-of-explanation
   - adaptation-how-living-systems-sustain-themselves-through-change
   - description-explanation-and-definition-in-biology
+  - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-information-processing
+  - why-life-is-not-active-inference
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
   - why-life-is-not-computation-an-aps-clarification
@@ -170,7 +178,7 @@ references:
     source: "Springer"
 ---
 
-## Philosophy Returns Through Biology
+# Philosophy Returns Through Biology
 
 Modern biology achieved extraordinary explanatory success by rejecting explicit teleology while retaining rigorous empirical investigation. Evolutionary theory, genetics, molecular biology, physiology, and systems biology transformed living systems into objects of scientific analysis without appealing to mysterious vital forces or externally imposed design.
 
@@ -254,6 +262,8 @@ Biological explanation therefore ceases to be merely a process of decomposition.
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 [[box:description-is-not-explanation]]
+
+[[box:cognition-pathway]]
 
 Within APS, agency, process, and scale are not independent ontological categories but analytically distinguishable and ontologically co-constitutive dimensions of organised persistence.
 
@@ -352,7 +362,41 @@ This asymmetry becomes operationally expressed through evaluation.
 
 Evaluation refers to the differential modulation of activity relative to conditions affecting viability. Living systems continuously stabilise, amplify, suppress, redirect, and reorganise activity according to whether conditions support or threaten persistence.
 
+Normativity emerges organisationally through viability-oriented persistence before symbolic representation, conscious judgement, or explicit cognition arise.
+
 Function, purpose, semiosis, and cognition consequently become increasingly integrated dimensions of the same organisational architecture rather than isolated theoretical additions.
+
+Within APS, these organisational developments form a directional explanatory pathway:
+
+viability  
+↓  
+agency  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition  
+↓  
+intelligence  
+↓  
+consciousness
+
+This sequence does not describe separate substances or independent explanatory modules. It describes increasingly integrated organisational developments emerging within viability-oriented living systems.
+
+APS therefore rejects:
+- informational reductionism;
+- representational primacy;
+- computational definitions of life;
+- and the conflation of life, cognition, intelligence, and consciousness.
+
+Each level emerges organisationally from conditions already established within organised persistence itself.
 
 APS therefore attempts to naturalise value without reducing it either to external teleology or to purely historical selection.
 
@@ -374,9 +418,7 @@ APS shares with enactivism an emphasis on embodied activity, organism–environm
 
 APS differs, however, in explanatory direction.
 
-Enactivism frequently approaches biological organisation through cognition.
-
-APS proceeds from organised persistence toward cognition.
+APS proceeds from organised persistence toward cognition, treating cognition as a progressively integrated organisational development emerging from viability-oriented activity rather than as the foundational basis of biological organisation itself.
 
 ### APS and Autonomy Theory
 
@@ -388,7 +430,10 @@ APS extends autonomy theory by integrating closure with:
 - scale-coupling,
 - evaluation,
 - semiosis,
+- meaning,
 - cognition,
+- intelligence,
+- consciousness,
 - and evolutionary transformation.
 
 ### APS and Systems Theory
@@ -399,7 +444,7 @@ APS differs by imposing stronger organisational constraints.
 
 Not every dynamic system qualifies equally as a biological system.
 
-Constraint closure, viability-orientation, agency, scale-coupling, and evaluative semiosis together specify what kind of system a living system must be.
+Constraint closure, viability-orientation, agency, scale-coupling, evaluative organisation, and semiosis together specify what kind of system a living system must be.
 
 ### APS and Mechanistic Biology
 
@@ -418,6 +463,8 @@ APS shares with biosemiotics the claim that meaning is not restricted exclusivel
 APS differs by grounding semiosis directly in viability-oriented evaluation.
 
 Differences become biologically meaningful because they modulate activity relative to persistence.
+
+Meaning therefore emerges organisationally before symbolic representation or explicit cognition arise.
 
 ### APS, Holism, and Organicism
 
@@ -474,7 +521,11 @@ Identity becomes organised continuity rather than static material sameness.
 
 Normativity becomes an intrinsic feature of viability-oriented organisation rather than an externally imposed judgement.
 
+Meaning emerges through evaluative semiosis grounded in persistence.
+
 Cognition becomes a specialised development within organised persistence rather than the explanatory foundation of life.
+
+Intelligence and consciousness emerge only within increasingly integrated forms of cognition already grounded in viability-oriented organisation.
 
 Evolution becomes the historical transformation of persistence across generations rather than change imposed upon fundamentally static entities.
 
@@ -492,7 +543,9 @@ At the centre of the framework lies a simple but far-reaching claim:
 
 From this starting point APS progressively reconstructs the explanatory architecture of biology.
 
-Normativity, function, purpose, semiosis, cognition, and evolution no longer appear as partially disconnected explanatory domains requiring separate philosophical treatment. They instead become intelligible as interconnected dimensions of organised persistence.
+Normativity, function, purpose, semiosis, meaning, information, cognition, intelligence, consciousness, and evolution no longer appear as partially disconnected explanatory domains requiring separate philosophical treatment.
+
+They instead become intelligible as interconnected dimensions of organised persistence.
 
 APS therefore operates simultaneously:
 - as an explanatory grammar,

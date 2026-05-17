@@ -4,8 +4,8 @@ title: What Is APS?
 slug: what-is-aps
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: conceptual-foundations
 
 relatedArticles:
@@ -27,6 +27,9 @@ relatedGlossaryTerms:
   - biological-organisation
   - constraint-closure
   - persistence
+  - evaluation
+  - semiosis
+  - cognition
 ---
 
 APS is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**.
@@ -37,6 +40,8 @@ APS proposes that biological explanation is directed not merely at living matter
 
 This page provides a concise introduction to the core explanatory ideas of APS.
 
+APS is organised not merely as a collection of concepts, but as an integrated explanatory architecture in which increasingly complex organisational developments emerge from prior viability-oriented conditions.
+
 > **Navigating the framework:** APS now develops across multiple interconnected areas including biological explanation, evolution, cognition, meaning, diagnosis, and philosophy of biology. For an overview of how these areas fit together, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 For the structural organisation of the framework, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*.
@@ -46,6 +51,18 @@ For the formal conceptual architecture of APS, see *[The Core Structure of APS �
 For the explanatory pathway developed from these ideas, see *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*.
 
 For a deeper discussion of how scientific frameworks organise explanation, see *[Explanatory Grammar](/articles/explanatory-grammar/)*.
+
+APS also develops a major cognition pathway linking:
+- evaluation;
+- semiosis;
+- meaning;
+- information;
+- representation;
+- cognition;
+- intelligence;
+- and consciousness
+
+within a unified account of viability-oriented biological organisation.
 
 ## Orientation Pathway
 
@@ -73,6 +90,8 @@ APS treats processes as primary for understanding biological organisation. Syste
 
 *[Scale](/glossary/scale/)* is a constitutive dimension of both agency and process. What counts as an agent, what counts as stable, and what counts as a process depends on the scale of organisation. APS treats scale not as a fixed hierarchy of levels, but as a continuous dimension across which processes are coordinated.
 
+[[box:cognition-pathway]]
+
 Together, agency, process, and scale form the core explanatory grammar of APS, through which living systems are understood as viability-oriented organisations that sustain the conditions of their own persistence.
 
 ![Diagram showing agency, process, and scale as interdependent dimensions of organised biological persistence in APS](/assets/diagrams/aps-core-structure.svg)
@@ -85,7 +104,7 @@ Together, agency, process, and scale form the core explanatory grammar of APS, t
 
 [[box:description-is-not-explanation]]
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its explanatory position is organisational rather than merely anti-reductionist. Nor does APS identify life with computation, intelligence, or behavioural complexity alone. Living systems are instead explained through viability-oriented, constraint-closed processes of persistence distributed across agency, process, and scale.
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its explanatory position is organisational rather than merely anti-reductionist. Nor does APS identify life with computation, information processing, intelligence, consciousness, or behavioural complexity alone. Living systems are instead explained through viability-oriented, constraint-closed processes of persistence distributed across agency, process, and scale.
 
 For clarification, see *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
 
@@ -111,4 +130,4 @@ For a broader overview of the framework and its major conceptual pathways, see *
 
 ## Key Terms
 
-agency · process · scale · viability · constraint closure · persistence
+agency · process · scale · viability · evaluation · semiosis · cognition · persistence
