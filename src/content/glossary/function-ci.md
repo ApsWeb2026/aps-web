@@ -311,7 +311,7 @@ Function therefore becomes intelligible through the organisation of living syste
 
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
 - *[Malfunction, Breakdown, and Death](/articles/malfunction-breakdown-and-death/)*
-- *[Perturbation Reveals Organisation](/articles/perturbation-reveals-organisation/)*
+- *[Perturbation Reveals Organisation](/boxes/perturbation-reveals-organisation/)*
 
 ### Clarification Articles
 

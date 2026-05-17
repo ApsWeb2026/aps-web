@@ -49,8 +49,6 @@ As the framework has developed, the APS project has expanded into multiple inter
 
 The purpose of this page is not to replace the individual articles, but to help readers understand how the framework is organised and how different pathways through the site relate to one another.
 
----
-
 # The Core Structure of APS
 
 At the centre of APS is the claim that biological systems are distinguished by a particular form of organisation:
@@ -71,21 +69,17 @@ These dimensions are not independent explanatory modules. They are different asp
 
 Readers new to APS should begin with the core orientation sequence.
 
----
-
 # Core Orientation Pathway
 
 ## Recommended starting sequence
 
 1. *[What Is APS?](/orientation/what-is-aps/)*
-2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life-a-two-step-guide/)*
+2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
 3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
 4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/orientation/explanatory-geometry-of-biology/)*
+5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 
 Together these articles introduce the central explanatory architecture of the framework.
-
----
 
 # Major Areas of the Framework
 
@@ -105,8 +99,6 @@ These articles explain how APS understands explanation, function, mechanism, org
 
 This part of the framework develops the idea that biological explanation is directed toward organised persistence rather than merely toward isolated mechanisms or statistical regularities.
 
----
-
 ## 2. Evolution and Organised Persistence
 
 APS treats evolution as the transformation of persistence-sustaining organisation across generations.
@@ -123,8 +115,6 @@ This pathway examines adaptation, inheritance, evaluation, and evolutionary expl
 
 This area of the framework explores how evolutionary processes depend upon the persistence and reproduction of organised systems across time.
 
----
-
 ## 3. Cognition, Information, and Meaning
 
 APS also develops an organisational account of cognition and semiosis.
@@ -137,12 +127,10 @@ Rather than treating meaning, information, or representation as abstract computa
 - *[Meaning](/glossary/meaning/)*
 - *[Representation](/glossary/representation/)*
 - *[Semiosis](/glossary/semiosis/)*
-- *[Cognition — Where Does It Belong?](/articles/cognition-where-does-it-belong/)*
+- *[Cognition — Where Does It Belong?](/articles/cognition-where-does-it-belong-in-biology/)*
 - *[Consciousness](/glossary/consciousness/)*
 
 This pathway develops the idea that cognition emerges from organisationally situated evaluation and system–environment coupling rather than from abstract information processing alone.
-
----
 
 ## 4. Diagnosis and the Empirical Interface
 
@@ -153,12 +141,9 @@ This pathway examines diagnosis, malfunction, perturbation, and life detection.
 ### Key articles
 
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
-- *[Life Detection and Organised Persistence](/articles/life-detection-and-organised-persistence/)*
 - *[Malfunction, Breakdown, and Death](/articles/malfunction-breakdown-and-death/)*
 
 These articles explore how biological organisation becomes visible through failure, perturbation, recovery, and persistence dynamics.
-
----
 
 ## 5. Philosophy of Biology and Comparative Frameworks
 
@@ -168,25 +153,21 @@ This area clarifies both the similarities and differences between APS and neighb
 
 ### Key articles
 
-- *[APS as Philosophy — A Viability-Oriented Account](/orientation/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-account/)*
 - *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 - *[Why APS Reframes Biology](/articles/why-aps-reframes-biology/)*
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
-- *[Why Life Is Not Computation](/articles/why-life-is-not-computation/)*
-- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence/)*
+- *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
 These articles help clarify how APS relates to reductionism, systems theory, autonomy theory, active inference, information-processing approaches, and other contemporary frameworks.
-
----
 
 # Different Reading Pathways
 
 Different readers often enter APS from different backgrounds and interests.
 
 The following pathways may help orient new readers.
-
----
 
 ## For readers new to APS
 
@@ -196,8 +177,6 @@ Start with:
 2. *How APS Explains Life — A Two-Step Guide*
 3. *Understanding APS*
 4. *The Core Structure of APS*
-
----
 
 ## For philosophers of biology
 
@@ -210,8 +189,6 @@ Recommended pathway:
 5. *Why APS Is Not Holism*
 6. *Why APS Is Not Organicism*
 
----
-
 ## For evolutionary theorists
 
 Recommended pathway:
@@ -221,8 +198,6 @@ Recommended pathway:
 3. *Adaptation*
 4. *Evaluation*
 5. *Biological Individual*
-
----
 
 ## For cognition and information researchers
 
@@ -234,8 +209,6 @@ Recommended pathway:
 4. *Semiosis*
 5. *Cognition — Where Does It Belong?*
 
----
-
 ## For readers interested in empirical applications
 
 Recommended pathway:
@@ -243,8 +216,6 @@ Recommended pathway:
 1. *How to Diagnose a Biological System*
 2. *Life Detection and Organised Persistence*
 3. *Malfunction, Breakdown, and Death*
-
----
 
 # APS as an Organising Framework
 

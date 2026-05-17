@@ -275,8 +275,7 @@ through the ongoing regeneration of organised biological persistence across gene
 
 ### Evolution, Adaptation, and Development
 
-- *[What Is Evolution in APS?](/articles/what-is-evolution-in-aps/)*
-- *[Natural Selection and Organised Persistence](/articles/natural-selection-and-organised-persistence/)*
+- *[Natural Selection and Organised Persistence](/articles/natural-selection-an-aps-clarification/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*

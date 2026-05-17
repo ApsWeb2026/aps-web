@@ -308,11 +308,11 @@ within a unified framework of viability-oriented biological organisation.
 ### Adaptation, Persistence, and Evolution
 
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[What Is Evolution in APS?](/articles/what-is-evolution-in-aps/)*
+- *[What Is Evolution in APS?](/articles/evolution/)*
 - *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
 
 ### Diagnosis and Perturbation
 
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
-- *[Perturbation Reveals Organisation](/articles/perturbation-reveals-organisation/)*
+- *[Perturbation Reveals Organisation](/boxes/perturbation-reveals-organisation/)*

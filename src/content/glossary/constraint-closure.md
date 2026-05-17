@@ -253,9 +253,9 @@ Life persists through reciprocally sustained organisation rather than through ex
 ### Diagnosis and Perturbation
 
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
-- *[Perturbation Reveals Organisation](/articles/perturbation-reveals-organisation/)*
+- *[Perturbation Reveals Organisation](/boxes/perturbation-reveals-organisation/)*
 
 ### Clarification Articles
 
-- *[Emergence — An APS Clarification](/articles/emergence-an-aps-clarification/)*
+- *[Emergence — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*
 - *[Why APS Is Not Hierarchical](/articles/why-aps-is-not-hierarchical/)*

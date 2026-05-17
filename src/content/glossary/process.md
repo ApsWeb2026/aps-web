@@ -351,7 +351,7 @@ Living systems therefore persist not as static structures possessing processes, 
 
 - *[Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/)*
 - *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
-- *[Emergence — An APS Clarification](/articles/emergence-an-aps-clarification/)*
+- *[Emergence — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*
 
 ### Clarification Articles
 

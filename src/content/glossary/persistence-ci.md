@@ -258,4 +258,4 @@ Persistence is not the endurance of structure but the ongoing, viability-oriente
 ### Diagnosis and Perturbation
 
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
-- *[Perturbation Reveals Organisation](/articles/perturbation-reveals-organisation/)*
+- *[Perturbation Reveals Organisation](/boxes/perturbation-reveals-organisation/)*
