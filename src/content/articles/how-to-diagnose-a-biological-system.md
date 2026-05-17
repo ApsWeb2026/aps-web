@@ -185,7 +185,7 @@ Nor does optimisation, information processing, or adaptive performance alone dia
 
 ## Perturbation as the Primary Diagnostic Method
 
-APS diagnosis is fundamentally perturbational.
+APS diagnosis is fundamentally perturbational. For the broader APS account of perturbation, resilience, malfunction, recovery, and continuity impairment within living systems, see *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*, together with the glossary entries on *[Resilience](/glossary/resilience/)* and *[Malfunction](/glossary/malfunction/)*.
 
 This is because organisation becomes most visible when it is challenged.
 

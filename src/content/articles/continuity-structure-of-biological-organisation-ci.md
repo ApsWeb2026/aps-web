@@ -289,6 +289,55 @@ Intelligence and consciousness emerge as progressively integrated developments w
 
 APS therefore approaches cognition as an elaboration of organised persistence rather than as an independent explanatory domain detached from biology.
 
+# Diagnostic Continuity
+
+Diagnosis also emerges through continuity structures.
+
+Living systems become empirically visible through:
+- perturbation;
+- adaptive response;
+- compensation;
+- resilience;
+- malfunction;
+- recovery;
+- and breakdown.
+
+APS therefore approaches diagnosis not as static abnormality detection, but as continuity analysis within organised persistence.
+
+This produces a fourth major continuity structure:
+
+viability  
+↓  
+persistence  
+↓  
+perturbation  
+↓  
+adaptive response  
+↓  
+resilience / malfunction  
+↓  
+recovery / breakdown  
+↓  
+diagnosis
+
+Diagnosis reveals how living systems:
+- preserve continuity;
+- reorganise under disruption;
+- compensate for impairment;
+- and ultimately fail when viable persistence can no longer be sustained.
+
+Perturbation therefore becomes one of the principal ways organised persistence becomes empirically observable.
+
+APS consequently treats diagnosis as a major explanatory interface linking:
+- organisation;
+- continuity;
+- adaptation;
+- resilience;
+- cognition;
+- and biological explanation itself.
+
+For the broader APS account of diagnosis as continuity analysis, see *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*.
+
 # Interlocking Continuity Structures
 
 The continuity structures of APS are not independent explanatory ladders.

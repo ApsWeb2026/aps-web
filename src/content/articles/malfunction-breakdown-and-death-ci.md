@@ -255,7 +255,7 @@ APS therefore distinguishes clearly between:
 
 ## Failure as a Diagnostic Window Into Life
 
-APS treats failure as a powerful diagnostic window into biological organisation.
+APS treats failure as a powerful diagnostic window into biological organisation. For the broader APS account of diagnosis, perturbation, resilience, malfunction, recovery, and continuity impairment within living systems, see *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*, together with the glossary entries on *[Resilience](/glossary/resilience/)* and *[Malfunction](/glossary/malfunction/)*.
 
 To ask whether a system is genuinely biological is partly to ask:
 - Does the system regulate conditions relevant to its own persistence?
