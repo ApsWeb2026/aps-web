@@ -4,8 +4,8 @@ title: Why Life Is Not Information Processing
 slug: why-life-is-not-information-processing
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-15
-revised: 2026-05-15
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: conceptual-foundations
 
 abstract: >
@@ -20,24 +20,33 @@ abstract: >
 relatedGlossaryTerms:
   - biological-agency
   - viability
+  - viability-orientation
   - normativity
   - function
   - process
   - evaluation
   - semiosis
+  - meaning
   - cognition
   - information
   - representation
+  - persistence
 
 relatedArticles:
+  - aps-architecture-map
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-viability-oriented-account
   - aps-and-contemporary-theories
   - why-life-is-not-dnas-way-of-making-more-dna
   - biological-causation-from-mechanism-to-organised-persistence
   - function-how-living-systems-make-persistence-operational
   - beyond-placeholder-concepts-in-biology-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
+  - why-life-is-not-active-inference
+  - information-in-biology-an-aps-clarification
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
   - why-ai-is-not-biological-agency
 
 references:
@@ -103,129 +112,184 @@ references:
 
 Across biology, cognitive science, neuroscience, and artificial intelligence, it is increasingly common to describe living systems as information processors.
 
-Cells detect signals, organisms respond to environmental differences, nervous systems transform sensory inputs, and genomes are often described as informational codes. From this perspective, life appears fundamentally organised around the acquisition, processing, storage, and transmission of information.
+Cells detect signals, organisms respond to environmental differences, nervous systems transform sensory inputs, and genomes are often described as informational codes.
+
+From this perspective, life appears fundamentally organised around:
+- acquiring information;
+- processing signals;
+- coordinating responses;
+- storing instructions;
+- and transmitting differences across systems.
 
 This framework is powerful.
 
-It unifies diverse phenomena within a common conceptual language and connects biology to:
-- computation
-- engineering
-- systems theory
-- communication theory
-- and artificial intelligence
+It connects biology to:
+- computation;
+- communication theory;
+- systems theory;
+- engineering;
+- and artificial intelligence.
 
-It is therefore tempting to conclude that life itself is fundamentally a form of information processing.
+APS accepts the immense scientific usefulness of informational approaches.
 
-APS agrees that living systems process information.
+However, APS rejects the stronger claim that information processing either defines or fundamentally explains life itself.
 
-But it rejects the stronger claim that information processing either defines or explains the viability-oriented organisation constitutive of life itself.
+Living systems process information.
+
+But life is not fundamentally information processing.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 [[box:description-is-not-explanation]]
 
+## The Central APS Claim
+
+APS argues that informational relations become biologically meaningful only within systems already organised around viability-oriented persistence.
+
+This reverses a common explanatory assumption.
+
+Informational approaches often implicitly treat:
+- information;
+- coding;
+- signalling;
+- or computation
+
+as foundational explanatory primitives.
+
+APS instead argues that:
+- viability-oriented organisation;
+- evaluation;
+- semiosis;
+- and persistence-maintaining activity
+
+are organisationally prior.
+
+Within APS, informational organisation occupies a downstream position within biological organisation:
+
+viability  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information processing
+
+Living systems do not exist because they process information.
+
+Rather, informational relations become biologically significant because living systems already exist as organised systems whose persistence depends upon differentiating conditions relative to viability.
+
+> **Where this concept fits:** This article clarifies one of the major explanatory reversals within APS. Information processing is treated as organisationally derivative rather than foundational. Informational coordination emerges within viability-oriented systems already engaged in evaluation, semiosis, and persistence-maintaining regulation. For the broader explanatory structure of APS, see *APS Architecture Map — Navigating the Framework*.
+
 ## What Information Processing Explains Well
 
-Information-based approaches successfully describe many important biological phenomena, including:
-- signal detection and transduction
-- neural communication
-- sensory coordination
-- behavioural responsiveness
-- adaptive regulation
-- learning
-- and distributed coordination
+Information-processing approaches successfully describe many important biological phenomena, including:
+- signal transduction;
+- neural communication;
+- sensory coordination;
+- behavioural responsiveness;
+- adaptive regulation;
+- learning;
+- and distributed coordination.
 
-These frameworks have transformed modern biology, particularly in:
-- molecular biology
-- neuroscience
-- systems biology
-- and computational modelling
+These frameworks have transformed:
+- molecular biology;
+- neuroscience;
+- systems biology;
+- and computational modelling.
 
-Where organised living systems already exist, information processing provides powerful descriptions of how:
-- signals propagate
-- regulatory systems coordinate activity
-- and organisms interact with changing environments
+Where organised living systems already exist, informational approaches can explain how:
+- signals propagate;
+- coordination occurs;
+- regulatory systems interact;
+- and organisms respond dynamically to changing conditions.
 
-APS fully recognises the explanatory importance of these approaches.
+APS fully recognises the importance of these explanatory tools.
 
-However, information-processing accounts presuppose organisational conditions they do not themselves explain.
+However, informational descriptions presuppose organisational conditions they do not themselves explain.
 
-They describe signalling, coordination, and transformation of differences.
+They describe:
+- transformations of differences;
+- signalling relations;
+- coordination;
+- and communication.
 
-They do not explain:
-- why there is a viable system for such differences to matter to
-- how organisational persistence is sustained
-- or why some differences acquire biological significance while others do not
+But they do not explain:
+- why there is a viability-oriented system for those differences to matter to;
+- how organised persistence is maintained;
+- why some differences acquire biological significance while others do not;
+- or how biological normativity arises.
 
-Information-processing accounts therefore describe important dimensions of biological activity without explaining the viability-oriented organisation that makes those activities biologically meaningful in the first place.
+These questions concern viability-oriented organisation itself.
 
-## Evaluation, Semiosis, and Cognition
-
-APS distinguishes:
-- evaluation
-- semiosis
-- cognition
-- and information processing
-
-because these are not identical phenomena.
-
-All living systems modulate activity relative to viability conditions.
-
-This evaluative organisation precedes cognition.
-
-Semiosis arises where differences become biologically meaningful within that evaluative activity.
-
-Cognition emerges later when evaluative organisation becomes sufficiently integrated, temporally extended, and context-sensitive.
-
-Information-processing accounts often collapse these distinctions together by treating all modulation, signalling, or responsiveness as cognitive or informational.
-
-APS instead argues that what is often described as information processing is frequently more accurately understood as:
-- evaluation
-- semiosis
-- and viability-oriented modulation of activity
-
-In APS, information becomes biologically meaningful only within already existing organisational relations grounded in persistence.
-
-[[box:what-aps-means-by-cognition]]
-
-## Information Presupposes a System
+## Information Presupposes Organisation
 
 To process information, a system must already exist.
 
 It must:
-- maintain boundaries distinguishing itself from its environment
-- possess structures capable of differential responsiveness
-- sustain the conditions under which signalling can occur
-- and regulate activity relative to persistence conditions
+- maintain organisational boundaries;
+- regulate internal conditions;
+- sustain structures capable of differential responsiveness;
+- and persist as an organised system across time.
 
-These organisational conditions are not generated by information processing itself.
+These conditions are not generated by information processing itself.
 
-They are conditions for information processing to occur at all.
+They are preconditions for information processing to occur at all.
 
-APS therefore asks a prior question:
+APS therefore asks a prior explanatory question:
 
-> What makes there be a viability-oriented organisation for which differences could become informationally meaningful at all?
+> **What makes there be a viability-oriented organisation within which differences can become informationally meaningful?**
 
-Information-processing theories typically begin after organised systems already exist.
+Informational theories typically begin after organised systems already exist.
 
 APS instead investigates the organisational conditions making such systems possible.
 
+## Evaluation, Semiosis, and Information
+
+APS distinguishes:
+- evaluation;
+- semiosis;
+- meaning;
+- and information processing
+
+because these are not identical organisational phenomena.
+
+Evaluation modulates activity relative to viability conditions.
+
+Semiosis structures meaningful differentiation within that evaluative activity.
+
+Meaning concerns the biological significance those differentiated conditions acquire within organised persistence.
+
+Information processing concerns the organised participation of such meaningful differences within coordination and regulation.
+
+APS therefore rejects the tendency to collapse:
+- signalling;
+- responsiveness;
+- cognition;
+- representation;
+- and information
+
+into a single undifferentiated informational framework.
+
+Information becomes biologically meaningful only within already existing organisational relations grounded in persistence.
+
+[[box:what-aps-means-by-cognition]]
+
 ## Why Information Is Not Fundamental
 
-Information is often treated as though it were a basic property of the world independent of the systems using it.
+Information is often treated as though it were a fundamental property of life independent of the systems using it.
 
 APS reverses this explanatory direction.
 
-In biological systems, information is not primary.
-
-It is derivative of organisation.
+In biological systems, information is organisationally derivative rather than foundational.
 
 A signal becomes biologically informative only if:
-- it contributes to viability-oriented regulation
-- it can be integrated into ongoing organisational activity
-- and it matters to the persistence of the system
+- it contributes to viability-oriented regulation;
+- it can be integrated into ongoing organisational activity;
+- and it matters to the persistence of the system.
 
-Without a viability-oriented organisation whose persistence depends upon such differences, there is no biologically meaningful sense in which information exists for that system.
+Without viability-oriented organisation there is no biologically meaningful sense in which information exists *for* a system.
 
 Information does not generate viability-oriented organisation.
 
@@ -233,17 +297,15 @@ Viability-oriented organisation makes information biologically meaningful and op
 
 ## Normativity Is Not Information
 
-Information-processing frameworks often attempt to explain biological meaning through:
-- representation
-- coding
-- signalling
-- or internal models
+Information-processing frameworks often attempt to explain biological significance through:
+- representation;
+- coding;
+- signalling;
+- or internal models.
 
 APS rejects this explanatory reversal.
 
-In living systems, normativity does not arise from representation.
-
-It arises from viability.
+In living systems, normativity arises from viability.
 
 States are biologically better or worse because they support or undermine persistence.
 
@@ -251,11 +313,11 @@ Processes are functional because they contribute to maintaining viability-orient
 
 Evaluation modulates activity relative to these conditions.
 
-Semiosis structures differences as biologically meaningful within this evaluative organisation.
+Semiosis structures meaningful differentiation within that evaluative organisation.
 
-Information may track or participate in these relations, but it does not generate their biological significance.
+Information may participate in these relations, but it does not generate their biological significance.
 
-Information may track these differences, but their biological significance is grounded in evaluation, semiosis, and viability-oriented organisation rather than in representation or encoding alone.
+Biological significance is grounded in evaluation, semiosis, and viability-oriented persistence rather than in representation or encoding alone.
 
 [[box:norms-are-not-rules]]
 
@@ -264,16 +326,17 @@ Information may track these differences, but their biological significance is gr
 Information processing describes transformations of signals.
 
 It does not explain how systems:
-- maintain organisational integrity
-- repair damage
-- regulate internal conditions
-- sustain persistence across time
-- or reorganise under perturbation
+- maintain organisational integrity;
+- repair damage;
+- regulate internal conditions;
+- sustain persistence across time;
+- reorganise under perturbation;
+- or preserve viability through their own activity.
 
 A system could process information perfectly and still not be biologically alive if:
-- its organisation were externally maintained
-- its persistence did not depend upon its own activity
-- or failure carried no intrinsic organisational consequences
+- its organisation were externally maintained;
+- its persistence did not depend upon its own activity;
+- or failure carried no intrinsic organisational consequences.
 
 Living systems differ because their own continued existence is at stake in their activity.
 
@@ -282,30 +345,30 @@ Viability-oriented organisation is therefore more fundamental than information p
 ## Information Without Life
 
 Modern technology provides many examples of sophisticated information-processing systems:
-- computers executing programs
-- communication networks
-- adaptive robotics
-- optimisation systems
-- predictive algorithms
-- and large language models
+- computers executing programs;
+- communication networks;
+- optimisation systems;
+- adaptive robotics;
+- predictive algorithms;
+- and large language models.
 
 These systems may:
-- process enormous quantities of information
-- respond adaptively
-- optimise behaviour
-- and generate highly complex outputs
+- process enormous quantities of information;
+- optimise behaviour;
+- generate complex outputs;
+- and respond adaptively to changing conditions.
 
 Yet they are not biologically alive.
 
 They do not:
-- sustain themselves as viability-oriented systems
-- regulate persistence for their own sake
-- maintain endogenous organisational closure
-- or cease to exist biologically when informational processing fails
+- sustain themselves as viability-oriented systems;
+- maintain endogenous organisational closure;
+- regulate persistence for their own sake;
+- or undergo biological breakdown when informational processing fails.
 
 This demonstrates that information processing alone is not sufficient for life.
 
-Nor does optimisation, prediction, representation, or computational sophistication alone explain how systems sustain themselves as organised biological processes.
+Nor do optimisation, prediction, representation, or computational sophistication explain how systems sustain themselves as organised biological processes.
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
@@ -316,45 +379,47 @@ APS does not reject information processing.
 It situates it within a broader organisational framework.
 
 In APS:
-- information processing describes aspects of how systems coordinate activity
-- coordination presupposes viability-oriented organisation
-- viability-oriented organisation gives rise to evaluation and semiosis
-- cognition emerges through increasingly integrated evaluative organisation
-- and information becomes biologically meaningful only within these organisational relations
+- viability-oriented organisation is primary;
+- evaluation modulates activity relative to persistence;
+- semiosis structures meaningful differentiation;
+- meaning emerges through evaluative organisation;
+- information processing coordinates meaningful differences within organised activity;
+- and cognition develops through increasingly integrated and temporally extended forms of such organisation.
 
-Information is therefore one aspect of biological activity rather than the defining basis of life itself.
+Information is therefore one organisational aspect of living systems rather than the defining basis of life itself.
 
-Information must therefore be understood through the same organisational grammar governing biological explanation more generally:
-- agency
-- process
-- scale
-- viability
-- evaluation
-- semiosis
-- cognition
-- and persistence
+Information must consequently be understood through the broader organisational grammar governing biological explanation:
+- agency;
+- process;
+- scale;
+- viability;
+- evaluation;
+- semiosis;
+- meaning;
+- cognition;
+- and persistence.
 
 ## Reframing the Informational View of Life
 
-APS does not deny the immense scientific value of informational approaches.
+APS does not deny the scientific value of informational approaches.
 
 Instead, it clarifies their explanatory scope.
 
-Information-processing frameworks describe:
-- signalling
-- coordination
-- communication
-- prediction
-- and adaptive regulation
+Informational frameworks successfully describe:
+- signalling;
+- coordination;
+- communication;
+- prediction;
+- and adaptive regulation.
 
 But they do not explain:
-- why living systems exist as organised persistence systems
-- how biological normativity arises
-- why some differences matter biologically
-- or how systems sustain themselves across time
+- why living systems exist as organised persistence systems;
+- how biological normativity arises;
+- why some differences matter biologically;
+- or how systems sustain themselves across time.
 
-These problems require an account of viability-oriented organisation itself.
+These questions require an account of viability-oriented organisation itself.
 
 Life is not the processing of information.
 
-Information is one of the ways life maintains itself.
+Information processing is one of the ways organised life coordinates and sustains itself.

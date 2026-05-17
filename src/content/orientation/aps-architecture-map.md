@@ -4,15 +4,17 @@ title: "APS Architecture Map — Navigating the Framework"
 slug: aps-architecture-map
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: conceptual-foundations
+
 abstract: >
   This article provides a conceptual map of the APS framework and explains
   how its major components fit together. It outlines the central explanatory
   structure of APS, the major conceptual pathways across the site, and the
   different routes readers can take depending on their interests and
   background.
+
 relatedGlossaryTerms:
   - biological-agency
   - viability
@@ -26,13 +28,17 @@ relatedGlossaryTerms:
   - evolution
   - inheritance
   - evaluation
-  - information
-  - meaning
-  - representation
   - semiosis
+  - meaning
+  - information
+  - representation
   - cognition
+  - intelligence
+  - consciousness
+
 relatedArticles:
   - what-is-aps
+  - how-aps-explains-life
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
@@ -46,6 +52,8 @@ relatedArticles:
 APS is a framework for understanding life as **viability-oriented, constraint-closed organisation** sustained across time.
 
 As the framework has developed, the APS project has expanded into multiple interconnected areas including biological explanation, evolution, cognition, meaning, diagnosis, and philosophy of biology. This article provides a conceptual map of those areas and explains how they fit together.
+
+The APS framework is organised not merely as a collection of concepts, but as a connected explanatory architecture in which later organisational developments emerge from earlier viability-oriented conditions.
 
 The purpose of this page is not to replace the individual articles, but to help readers understand how the framework is organised and how different pathways through the site relate to one another.
 
@@ -87,7 +95,12 @@ Together these articles introduce the central explanatory architecture of the fr
 
 One major focus of APS is the structure of biological explanation itself.
 
-These articles explain how APS understands explanation, function, mechanism, organisation, and explanatory adequacy.
+These articles explain how APS understands:
+- explanation;
+- function;
+- mechanism;
+- organisation;
+- and explanatory adequacy.
 
 ### Key articles
 
@@ -103,7 +116,13 @@ This part of the framework develops the idea that biological explanation is dire
 
 APS treats evolution as the transformation of persistence-sustaining organisation across generations.
 
-This pathway examines adaptation, inheritance, evaluation, and evolutionary explanation from an organisational perspective.
+This pathway examines:
+- adaptation;
+- inheritance;
+- evaluation;
+- and evolutionary explanation
+
+from an organisational perspective.
 
 ### Key articles and glossary entries
 
@@ -119,31 +138,74 @@ This area of the framework explores how evolutionary processes depend upon the p
 
 APS also develops an organisational account of cognition and semiosis.
 
-Rather than treating meaning, information, or representation as abstract computational entities, APS interprets them in relation to the viability-oriented organisation of living systems.
+Rather than treating meaning, information, representation, or cognition as abstract computational entities, APS interprets them in relation to the viability-oriented organisation of living systems.
 
 ### Key articles and glossary entries
 
-- *[Information](/glossary/information/)*
-- *[Meaning](/glossary/meaning/)*
-- *[Representation](/glossary/representation/)*
+- *[Evaluation](/glossary/evaluation/)*
 - *[Semiosis](/glossary/semiosis/)*
-- *[Cognition — Where Does It Belong?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *[Meaning](/glossary/meaning/)*
+- *[Information](/glossary/information/)*
+- *[Representation](/glossary/representation/)*
+- *[Cognition](/glossary/cognition/)*
 - *[Consciousness](/glossary/consciousness/)*
+- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
 
-This pathway develops the idea that cognition emerges from organisationally situated evaluation and system–environment coupling rather than from abstract information processing alone.
+Within APS, cognition is organised through a directional explanatory pathway:
+
+viability  
+↓  
+agency  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition  
+↓  
+intelligence  
+↓  
+consciousness
+
+This sequence does not describe separate substances or independent modules. It describes increasingly integrated organisational developments emerging within viability-oriented living systems.
+
+APS therefore rejects:
+- informational reductionism;
+- representational primacy;
+- computational definitions of life;
+- and the conflation of life, cognition, intelligence, and consciousness.
+
+Instead, each level emerges organisationally from prior conditions already established within living systems.
+
+This pathway develops the idea that cognition emerges through increasingly integrated forms of evaluation, semiosis, and temporally extended regulation grounded in viability-oriented organisation rather than through abstract information processing alone.
 
 ## 4. Diagnosis and the Empirical Interface
 
 APS is not intended only as a philosophical framework. It also proposes criteria for identifying and analysing living systems.
 
-This pathway examines diagnosis, malfunction, perturbation, and life detection.
+This pathway examines:
+- diagnosis;
+- malfunction;
+- perturbation;
+- breakdown;
+- and life detection.
 
 ### Key articles
 
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
 - *[Malfunction, Breakdown, and Death](/articles/malfunction-breakdown-and-death/)*
 
-These articles explore how biological organisation becomes visible through failure, perturbation, recovery, and persistence dynamics.
+These articles explore how biological organisation becomes visible through:
+- failure;
+- perturbation;
+- recovery;
+- and persistence dynamics.
 
 ## 5. Philosophy of Biology and Comparative Frameworks
 
@@ -159,9 +221,18 @@ This area clarifies both the similarities and differences between APS and neighb
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
 - *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
+- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
+- *[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)*
 - *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
-These articles help clarify how APS relates to reductionism, systems theory, autonomy theory, active inference, information-processing approaches, and other contemporary frameworks.
+These articles help clarify how APS relates to:
+- reductionism;
+- systems theory;
+- autonomy theory;
+- active inference;
+- information-processing approaches;
+- computational biology;
+- and other contemporary frameworks.
 
 # Different Reading Pathways
 
@@ -203,11 +274,17 @@ Recommended pathway:
 
 Recommended pathway:
 
-1. *Information*
-2. *Meaning*
-3. *Representation*
-4. *Semiosis*
-5. *Cognition — Where Does It Belong?*
+1. *Evaluation*
+2. *Semiosis*
+3. *Meaning*
+4. *Information*
+5. *Representation*
+6. *Cognition*
+7. *Cognition — Where Does It Belong in Biology?*
+8. *Why Life Is Not Information Processing*
+9. *Why Life Is Not Active Inference*
+10. *Why Life Is Not Intelligence*
+11. *Consciousness*
 
 ## For readers interested in empirical applications
 
@@ -222,12 +299,22 @@ Recommended pathway:
 APS is not intended as a replacement for existing biological research programs. Rather, it is an attempt to clarify the organisational conditions that biological explanations presuppose.
 
 The framework therefore aims to provide:
-
 - a clearer account of what biological systems are;
 - a more coherent structure for biological explanation;
 - a way of relating mechanism, function, evolution, and cognition within a unified organisational framework;
 - and a conceptual structure capable of integrating insights across multiple areas of biology.
 
-The purpose of this site is to develop that framework progressively across interconnected conceptual pathways.
+The purpose of this site is to develop that framework progressively across interconnected conceptual pathways while maintaining a coherent organisational architecture linking:
+- agency;
+- process;
+- scale;
+- evaluation;
+- semiosis;
+- meaning;
+- cognition;
+- evolution;
+- and persistence
+
+within a unified account of biological organisation.
 
 This article is intended to serve as a guide to those pathways and to the overall explanatory structure of APS.

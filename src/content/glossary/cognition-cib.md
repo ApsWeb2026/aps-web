@@ -15,8 +15,8 @@ inBrief: >
 
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: cognition-mind
 
 seeAlso:
@@ -140,6 +140,8 @@ Living systems do not become cognitive by adding detached symbolic machinery ont
 
 Cognition emerges through the increasing integration, coordination, temporal extension, and flexibility of viability-oriented regulation itself.
 
+Within APS, cognition emerges downstream of evaluation, semiosis, meaning, information, and representation as viability-oriented regulation becomes increasingly integrated, temporally extended, and behaviourally flexible.
+
 > **Where this concept fits:** Cognition is one of the major integrative organisational developments within APS. It explains how evaluative semiosis becomes increasingly integrated and temporally extended within viability-oriented systems and thereby links agency, meaning, information, representation, adaptation, and behavioural organisation within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 APS consequently treats cognition not as the defining basis of life, but as a specialised development within life.
@@ -182,10 +184,6 @@ Cognition emerges only when evaluative organisation becomes sufficiently integra
 - or counterfactual relations.
 
 Evaluation grounds cognition, but cognition requires organised temporal extension.
-
-Cognition in APS is therefore inseparable from agency, process, and scale. Cognitive organisation emerges only through ongoing viability-oriented activity coordinated across interacting temporal and spatial domains.
-
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
 
 ## Cognition and Semiosis
 
@@ -268,9 +266,7 @@ Representation emerges only in more organisationally complex forms of cognition 
 
 Representation is therefore a derived organisational development within cognition rather than its defining basis.
 
-APS consequently rejects both:
-- unrestricted representationalism;
-- and eliminativist denial that representation can emerge at all.
+APS consequently approaches cognition as broader than representational processing alone.
 
 ## Cognition and Information
 
@@ -285,7 +281,7 @@ Informational relations become cognitively significant only within systems alrea
 - meaning;
 - and adaptive regulation.
 
-APS consequently rejects the reduction of cognition to abstract computational processing or formal informational architecture.
+APS consequently approaches cognition as an organisational phenomenon grounded in viability-oriented semiosis rather than as abstract computational processing alone.
 
 ## Cognition and Adaptation
 

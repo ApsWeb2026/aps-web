@@ -4,8 +4,8 @@ title: Representation
 slug: representation
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: cognition-mind
 
 definition: >
@@ -129,7 +129,33 @@ Under such conditions, internal organisation may stabilise patterns of evaluativ
 
 These stabilised structures function representationally insofar as they support viability-oriented regulation beyond immediately present conditions.
 
-> **Where this concept fits:** Representation is a derived organisational development within APS rather than a foundational explanatory principle. It explains how evaluative semiosis may become stabilised across non-immediate conditions and thereby links meaning, information, cognition, agency, and adaptive behavioural organisation within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+Within APS, representation occupies a specific position within the cognition pathway:
+
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition
+
+Evaluation modulates activity relative to viability conditions.
+
+Semiosis structures meaningful differentiation within that modulation.
+
+Meaning concerns the biological significance those differences acquire within organised persistence.
+
+Information concerns the organised participation of meaningful differences within biological coordination.
+
+Representation emerges where informational organisation becomes sufficiently stabilised and temporally extended that activity can be regulated relative to non-immediate conditions.
+
+Cognition develops where such representational organisation becomes increasingly integrated, flexible, and behaviourally coordinated.
+
+> **Where this concept fits:** Representation is a derived organisational development within APS rather than a foundational explanatory principle. It explains how evaluative semiosis may become stabilised across non-immediate conditions and thereby links meaning, information, cognition, agency, and adaptive behavioural organisation within a unified explanatory framework. For the broader structure of APS, see *APS Architecture Map — Navigating the Framework*.
 
 APS consequently treats representation not as the original basis of cognition, but as one possible organisational development within viability-oriented living systems.
 
@@ -170,9 +196,7 @@ Representation stabilises and extends this evaluative organisation across broade
 
 Evaluation is therefore biologically prior to representation.
 
-Representation in APS is therefore inseparable from agency, process, and scale. Representational organisation emerges only through ongoing viability-oriented activity coordinated across interacting temporal and spatial domains.
-
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
+APS consequently treats representation as organisationally grounded in evaluative activity rather than as an independent symbolic layer.
 
 ## Representation and Semiosis
 
@@ -224,30 +248,6 @@ to support regulation across non-immediate conditions.
 
 APS consequently rejects the reduction of cognition to information processing alone.
 
-## Representation and Cognition
-
-Cognition does not begin with representation.
-
-All living systems exhibit viability-oriented regulation, and many exhibit:
-- semiosis;
-- evaluation;
-- adaptation;
-- and forms of cognition
-
-without requiring representational organisation.
-
-Representation emerges only in more organisationally complex forms of cognition where activity becomes:
-- temporally extended;
-- behaviourally coordinated;
-- anticipatory;
-- and increasingly integrated across absent or delayed conditions.
-
-Representation is therefore one possible organisational development of cognition rather than its defining basis.
-
-APS consequently approaches cognition as broader than representational processing alone.
-
-[[box:what-aps-means-by-meaning]]
-
 ## Representation and Biological Agency
 
 Representation remains subordinate to biological agency.
@@ -281,6 +281,30 @@ However, adaptive organisation itself does not fundamentally require representat
 Many forms of adaptive regulation occur directly through evaluative semiosis without symbolic modelling or explicit internal representation.
 
 APS consequently treats representation as one possible extension of adaptive organisation rather than its universal basis.
+
+## Representation and Cognition
+
+Cognition does not begin with representation.
+
+All living systems exhibit viability-oriented regulation, and many exhibit:
+- semiosis;
+- evaluation;
+- adaptation;
+- and forms of cognition
+
+without requiring representational organisation.
+
+Representation emerges only in more organisationally complex forms of cognition where activity becomes:
+- temporally extended;
+- behaviourally coordinated;
+- anticipatory;
+- and increasingly integrated across absent or delayed conditions.
+
+Representation is therefore one possible organisational development of cognition rather than its defining basis.
+
+APS consequently approaches cognition as broader than representational processing alone.
+
+[[box:what-aps-means-by-meaning]]
 
 ## Representation Across Scale
 
@@ -333,27 +357,27 @@ Representation therefore extends and stabilises cognition, meaning, and informat
 
 ### Orientation
 
-- *[What Is APS?](/orientation/what-is-aps/)*
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+- *What Is APS?*
+- *Understanding APS — The Structure of the Framework*
+- *APS Architecture Map — Navigating the Framework*
 
 ### Core Framework
 
-- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *The Core Structure of APS — How the Framework Fits Together*
+- *The Explanatory Geometry of Biology — How APS Organises Biological Explanation*
+- *APS as Philosophy — A Viability-Oriented Account of Biological Reality*
 
 ### Representation, Meaning, and Cognition
 
-- *[Representation — When and Whether It Arises in Biological Systems](/articles/representation-when-and-whether-it-arises-in-biological-systems/)*
-- *[Meaning in Biology — An APS Clarification](/articles/meaning-in-biology-an-aps-clarification/)*
-- *[Information in Biology — An APS Clarification](/articles/information-in-biology-an-aps-clarification/)*
-- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
-- *[Evaluation — How Living Systems Modulate Activity Relative to Viability](/articles/evaluation-how-living-systems-modulate-activity-relative-to-viability/)*
-- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *Representation — When and Whether It Arises in Biological Systems*
+- *Meaning in Biology — An APS Clarification*
+- *Information in Biology — An APS Clarification*
+- *Semiosis — How Differences Come to Matter in Living Systems*
+- *Evaluation — How Living Systems Modulate Activity Relative to Viability*
+- *Cognition — Where Does It Belong in Biology?*
 
 ### Clarification Articles
 
-- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
-- *[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)*
-- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
+- *Why Life Is Not Information Processing*
+- *Why Life Is Not Active Inference*
+- *Why Life Is Not Intelligence*

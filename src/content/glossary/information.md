@@ -4,8 +4,8 @@ title: Information
 slug: information
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-17
+revised: 2026-05-17
 cluster: conceptual-foundations
 
 definition: >
@@ -124,7 +124,29 @@ It becomes biologically significant only within systems already organised around
 
 A difference counts as informational for a system only insofar as it participates in the organisation of viable persistence.
 
-> **Where this concept fits:** Information is one of the derivative organisational concepts within APS. It explains how differences participate in viability-oriented regulation and thereby links semiosis, evaluation, meaning, representation, cognition, and biological organisation within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+Within APS, information occupies a specific position within the cognition pathway:
+
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation
+
+Evaluation modulates activity relative to viability conditions.
+
+Semiosis structures meaningful differentiation within that modulation.
+
+Meaning concerns the biological significance those differentiated conditions acquire within organised persistence.
+
+Information concerns the organised participation of those meaningful differences within biological coordination and regulation.
+
+Representation emerges where informational organisation becomes sufficiently stabilised, integrated, and temporally extended.
+
+> **Where this concept fits:** Information is one of the derivative organisational concepts within APS. It explains how differences participate in viability-oriented regulation and thereby links semiosis, evaluation, meaning, representation, cognition, and biological organisation within a unified explanatory framework. For the broader structure of APS, see *APS Architecture Map — Navigating the Framework*.
 
 APS consequently treats information not as the foundational substrate of life, but as a biologically meaningful organisational relation emerging within viability-oriented systems.
 
@@ -164,19 +186,15 @@ Information emerges where differentiated conditions participate in such evaluati
 
 APS consequently treats information as organisationally dependent upon evaluation rather than as an independent explanatory primitive.
 
-Information in APS is therefore inseparable from agency, process, and scale. Informational significance emerges only through ongoing viability-oriented organisation coordinated across interacting temporal and spatial domains.
-
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
-
 ## Information and Semiosis
 
-Semiosis precedes representation and grounds informational significance.
+Semiosis grounds informational significance.
 
 Semiosis refers to the viability-relative structuring of meaningful differentiation within organised activity.
 
-Information concerns the participation of those differentiated conditions within biological regulation and coordination.
+Information concerns the organised participation of those differentiated conditions within biological regulation and coordination.
 
-Semiosis therefore grounds the biological significance of information.
+Semiosis therefore establishes the biological significance informational organisation can subsequently participate in.
 
 Without viability-oriented semiosis, informational structure remains biologically uninterpreted.
 
@@ -186,9 +204,9 @@ APS consequently rejects the reduction of semiosis to formal information-process
 
 APS distinguishes information from meaning.
 
-Information concerns the organised participation of differences within biological activity.
+Meaning concerns the biological significance differences acquire within viability-oriented persistence.
 
-Meaning concerns the biological significance those differences acquire relative to viability-oriented persistence.
+Information concerns the organised participation of those meaningful differences within biological activity.
 
 Informational structure alone therefore does not generate meaning.
 
@@ -300,26 +318,26 @@ within the organisation of viability-oriented living systems.
 
 ### Orientation
 
-- *[What Is APS?](/orientation/what-is-aps/)*
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+- *What Is APS?*
+- *Understanding APS — The Structure of the Framework*
+- *APS Architecture Map — Navigating the Framework*
 
 ### Core Framework
 
-- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *The Core Structure of APS — How the Framework Fits Together*
+- *The Explanatory Geometry of Biology — How APS Organises Biological Explanation*
+- *APS as Philosophy — A Viability-Oriented Account of Biological Reality*
 
 ### Information, Meaning, and Cognition
 
-- *[Information in Biology — An APS Clarification](/articles/information-in-biology-an-aps-clarification/)*
-- *[Meaning in Biology — An APS Clarification](/articles/meaning-in-biology-an-aps-clarification/)*
-- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
-- *[Evaluation — How Living Systems Modulate Activity Relative to Viability](/articles/evaluation-how-living-systems-modulate-activity-relative-to-viability/)*
-- *[Representation — When and Whether It Arises in Biological Systems](/articles/representation-when-and-whether-it-arises-in-biological-systems/)*
-- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *Information in Biology — An APS Clarification*
+- *Meaning in Biology — An APS Clarification*
+- *Semiosis — How Differences Come to Matter in Living Systems*
+- *Evaluation — How Living Systems Modulate Activity Relative to Viability*
+- *Representation — When and Whether It Arises in Biological Systems*
+- *Cognition — Where Does It Belong in Biology?*
 
 ### Clarification Articles
 
-- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
-- *[Why Life Is Not Active Inference](/articles/why-life-is-not-active-inference/)*
+- *Why Life Is Not Information Processing*
+- *Why Life Is Not Active Inference*
