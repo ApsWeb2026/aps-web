@@ -33,7 +33,7 @@ relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - how-to-diagnose-a-biological-system
   - scale-time-persistence
-  - evolution-the-transformation-of-persistence-across-generations
+  - evolution-as-the-historical-transformation-of-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
   - perturbation-reveals-organisation
 
@@ -259,7 +259,7 @@ It specifies the conditions under which what they do can sustain life.
 
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[What Is Evolution in APS?](/articles/evolution/)*
+- *[What Is Evolution in APS?](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
 
 ### Diagnosis and Perturbation
 

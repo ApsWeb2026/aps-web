@@ -5,7 +5,7 @@ slug: natural-selection
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-05-15
+revised: 2026-05-17
 cluster: conceptual-foundations
 
 definition: >
@@ -14,7 +14,7 @@ definition: >
   generations. Selection filters differences in the capacity of living systems
   to sustain organised persistence under changing conditions. It therefore
   presupposes systems already capable of persistence, inheritance, variation,
-  adaptation, and biological agency.
+  adaptation, development, and biological agency.
 
 inBrief: >
   Natural selection is the differential stabilisation of viable organisation
@@ -88,9 +88,9 @@ references:
 Natural selection is commonly understood as the primary evolutionary mechanism acting upon heritable variation through differential reproductive success.
 
 In many evolutionary frameworks, natural selection is formalised statistically through:
-- changes in gene frequencies,
-- differential fitness,
-- reproductive success,
+- changes in gene frequencies;
+- differential fitness;
+- reproductive success;
 - and population-level dynamics.
 
 These approaches provide powerful explanatory tools for understanding evolutionary change.
@@ -106,18 +106,20 @@ In APS, natural selection is the historically distributed differential stabilisa
 Selection does not generate biological organisation from nothing.
 
 It operates only within systems already capable of:
-- persistence,
-- inheritance,
-- variation,
-- adaptation,
-- development,
+- persistence;
+- inheritance;
+- variation;
+- adaptation;
+- development;
 - and biological agency.
 
 Natural selection therefore presupposes the existence of organised persistence.
 
 Selection filters differences in the capacity of living systems to sustain viability under changing conditions.
 
-What is selected is not isolated traits or genes in abstraction, but whole systems of organised persistence distributed across interacting biological processes and scales.
+APS emphasises differential stabilisation because what persists evolutionarily is not isolated traits alone, but organised systems capable of sustaining viable continuity across changing conditions.
+
+What becomes historically stabilised is therefore not isolated genes or traits in abstraction, but whole systems of organised persistence distributed across interacting biological processes and scales.
 
 ## Natural Selection and Persistence
 
@@ -142,6 +144,8 @@ Selection therefore does not create adaptation independently of living organisat
 It operates upon systems already engaged in viability-oriented adaptive activity.
 
 Adaptive organisation remains primary; selection acts historically upon its consequences.
+
+Selection stabilises some adaptive trajectories historically, but it does not generate adaptive organisation independently of living systems already engaged in viability-oriented activity.
 
 ## Natural Selection and Inheritance
 
@@ -168,10 +172,10 @@ Variation therefore diversifies organised persistence, while selection contribut
 Natural selection presupposes biological agency.
 
 Living systems actively regulate:
-- physiology,
-- behaviour,
-- development,
-- reproduction,
+- physiology;
+- behaviour;
+- development;
+- reproduction;
 - and environmental interaction
 
 relative to viability constraints.
@@ -195,11 +199,11 @@ Selection therefore presupposes organisational closure rather than generating it
 Natural selection operates across interacting biological scales.
 
 Selection may involve:
-- molecular organisation,
-- physiological regulation,
-- developmental systems,
-- behavioural coordination,
-- ecological interaction,
+- molecular organisation;
+- physiological regulation;
+- developmental systems;
+- behavioural coordination;
+- ecological interaction;
 - and environmental modification.
 
 These are not isolated levels of selection but interacting dimensions of viability-oriented organisation distributed across living systems and their environments.
@@ -213,13 +217,16 @@ APS rejects the idea that natural selection produces perfect optimisation.
 Selection stabilises forms of organised persistence that remain viable under historically specific conditions.
 
 Living systems persist under:
-- developmental constraints,
-- ecological contingencies,
-- trade-offs,
-- path dependencies,
+- developmental constraints;
+- ecological contingencies;
+- trade-offs;
+- path dependencies;
+- historical limitations;
 - and changing environments.
 
 Selection therefore produces historically situated viable organisation rather than idealised optimal design.
+
+Adaptive organisation remains constrained, contingent, and dynamically situated rather than perfectly engineered.
 
 ## Natural Selection and Evolution
 
@@ -230,12 +237,12 @@ Evolution involves the historical transformation of viability-oriented organisat
 Selection contributes to this transformation by differentially stabilising some forms of organised persistence relative to others.
 
 However, evolution also depends upon:
-- persistence,
-- inheritance,
-- variation,
-- adaptation,
-- development,
-- ecological interaction,
+- persistence;
+- inheritance;
+- variation;
+- adaptation;
+- development;
+- ecological interaction;
 - and biological agency.
 
 Natural selection therefore operates within the broader organisational conditions through which evolutionary transformation becomes possible.
@@ -244,18 +251,16 @@ Natural selection therefore operates within the broader organisational condition
 
 In APS, natural selection is the historically distributed differential stabilisation of viability-oriented, constraint-closed organisation across generations.
 
-Natural selection is:
-- organisational rather than merely statistical,
-- historically distributed rather than instantaneous,
-- multiscale rather than confined to a single level,
-- and dependent upon organised persistence rather than explanatory of its original emergence.
+Natural selection does not explain the original emergence of organised biological persistence. Rather, it operates historically upon systems already capable of persistence, inheritance, adaptation, development, and viability-oriented activity.
 
-Natural selection therefore links:
-- persistence,
-- inheritance,
-- variation,
-- adaptation,
-- biological agency,
+APS therefore approaches natural selection as the historical stabilisation of organised persistence distributed across interacting biological processes and scales.
+
+Natural selection consequently links:
+- persistence;
+- inheritance;
+- variation;
+- adaptation;
+- biological agency;
 - and evolution
 
-through the historical stabilisation of viability-oriented living organisation.
+through the long-term stabilisation of viability-oriented living organisation.

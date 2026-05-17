@@ -5,14 +5,15 @@ slug: inheritance
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+revised: 2026-05-17
 cluster: conceptual-foundations
 
 definition: >
   In APS, inheritance is the reliable reconstitution of viability-oriented,
   constraint-closed organisation across generations or developmental cycles.
   Inheritance reproduces the organisational conditions through which living
-  systems sustain persistence, development, and biological agency across time.
+  systems sustain persistence, development, adaptation, and biological agency
+  across time.
 
 inBrief: >
   Inheritance is the reliable reconstitution of viability-oriented organisation
@@ -94,7 +95,7 @@ In many evolutionary frameworks, inheritance is primarily understood through:
 
 These approaches capture important aspects of heredity, but they can obscure the broader organisational conditions required for living systems to reproduce viable persistence across time.
 
-APS therefore reframes inheritance organisationally rather than informationally alone.
+APS therefore treats informational inheritance as organisationally dependent rather than explanatorily sufficient.
 
 ## The APS Reframing
 
@@ -104,7 +105,9 @@ Living systems do not inherit genes or traits in isolation.
 
 They inherit the organisational conditions through which viable persistence can be regenerated.
 
-Inheritance therefore involves the re-establishment of:
+Inheritance therefore involves not the copying of complete biological organisation, but the reliable reconstitution of developmental and organisational continuity under appropriate conditions.
+
+Inheritance may involve the re-establishment of:
 - developmental organisation;
 - physiological coordination;
 - constraint relations;
@@ -114,17 +117,17 @@ Inheritance therefore involves the re-establishment of:
 
 Genes participate in inheritance, but they do not exhaust it.
 
-Inheritance concerns the reproduction of organised persistence itself.
+Inheritance concerns the reproduction of organised persistence itself across historically continuous lineages.
 
 > **Where this concept fits:** Inheritance is one of the central continuity principles within APS. It explains how viability-oriented organisation is reliably reconstituted across generations and thereby links persistence, development, adaptation, agency, and evolution within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
-APS consequently treats inheritance not as the transmission of static informational units alone, but as the organised regeneration of viable persistence across time.
+APS therefore approaches inheritance not as the transmission of static informational units alone, but as the organised regeneration of viable persistence across time.
 
 ## Inheritance and Persistence
 
 Inheritance extends persistence across generations.
 
-Persistence refers to the ongoing maintenance of organised activity within living systems. Inheritance refers to the reliable reconstitution of the organisational conditions through which such persistence becomes possible again in successive generations.
+Persistence refers to the ongoing viability-oriented activity through which living systems maintain themselves. Inheritance refers to the reliable reconstitution of the organisational conditions through which such persistence becomes possible again in successive generations.
 
 Living systems therefore inherit not static structures alone, but capacities for regenerating viable organisation.
 
@@ -134,7 +137,7 @@ APS consequently distinguishes:
 - **persistence**, which refers to the ongoing viability-oriented activity through which living systems maintain themselves;
 - from **inheritance**, which refers to the reliable reconstitution of the organisational conditions through which such persistence can recur across generations.
 
-This distinction is foundational for the explanatory structure of APS.
+This distinction is foundational for the explanatory structure of APS because inherited continuity preserves the conditions under which organised biological persistence can remain historically continuous.
 
 ## Inheritance and Adaptation
 
@@ -142,23 +145,25 @@ Inheritance links adaptation and evolution.
 
 Adaptation reorganises viability-oriented organisation under changing conditions. Inheritance reproduces the organisational conditions through which such adaptive organisation can persist and re-emerge across generations.
 
-Inheritance therefore stabilises the continuity required for long-term evolutionary transformation.
-
 Without inheritance, adaptive reorganisation could not accumulate historically.
 
-Inheritance in APS is therefore inseparable from agency, process, and scale. Organisational continuity is reproduced only through ongoing viability-oriented activity coordinated across interacting temporal and spatial domains.
+Inheritance therefore stabilises the continuity required for long-term evolutionary transformation.
 
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
+Inheritance is consequently inseparable from agency, process, and scale. Organisational continuity is reproduced only through ongoing viability-oriented activity coordinated across interacting temporal and spatial domains.
+
+APS therefore treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
 
 ## Inheritance and Development
 
 Development forms a central component of inheritance.
 
-Living systems inherit developmental organisations capable of generating, stabilising, and transforming viable persistence.
+Living systems inherit developmental organisations capable of generating, stabilising, repairing, and transforming viable persistence.
 
 Inheritance therefore does not involve the passive transfer of finished structures.
 
 It involves the reliable regeneration of developmental processes through which living organisation is continually reconstituted.
+
+Developmental organisation also constrains the pathways through which inherited continuity can be realised and transformed across generations.
 
 Development is thus one of the principal bridges linking inheritance, adaptation, persistence, and evolution.
 
@@ -166,7 +171,7 @@ APS consequently approaches development not as secondary to inheritance, but as 
 
 ## Inheritance and Biological Agency
 
-Inheritance presupposes biological agency.
+Inherited continuity presupposes systems capable of viability-oriented agency.
 
 Living systems actively regulate:
 - development;
@@ -179,7 +184,7 @@ through viability-oriented organisation.
 
 Inheritance reproduces the organisational conditions under which such agency becomes possible again in successive generations.
 
-Agency is therefore not added onto inheritance externally but reproduced through inherited organisational continuity itself.
+Agency is therefore not externally added onto inheritance but reproduced through inherited organisational continuity itself.
 
 APS consequently treats inheritance as actively enacted rather than mechanically transmitted alone.
 
@@ -208,6 +213,8 @@ Inherited continuity may involve:
 - ecological interaction;
 - and environmental modification.
 
+Inheritance may therefore include developmental, behavioural, ecological, and niche-constructing continuity distributed across organisms and environments.
+
 These are not separate forms of inheritance but interacting dimensions of organisational continuity distributed across living systems and their environments.
 
 Inheritance therefore cannot be reduced to a single privileged hereditary mechanism.
@@ -224,32 +231,32 @@ Evolution therefore depends upon inherited continuity of organised persistence.
 
 Inheritance stabilises the developmental and organisational conditions through which evolutionary transformation remains possible across time.
 
-APS consequently treats inheritance as one of the principal organisational conditions enabling evolutionary persistence and transformation.
+Inheritance consequently functions as one of the principal continuity structures linking persistence, development, adaptation, and long-term evolutionary transformation.
+
+APS therefore treats inheritance as one of the central organisational conditions enabling evolutionary persistence and diversification.
 
 ## Inheritance and Normativity
 
 Inheritance is intrinsically normative because inherited organisation must remain sufficiently viable for organised persistence to continue across generations.
 
-Some inherited organisational relations support viable continuity, while others destabilise or undermine persistence.
+Some inherited organisational relations support viable continuity, while others destabilise or undermine the conditions required for persistence.
 
-Inheritance therefore depends upon viability-relative distinctions between:
+Inheritance therefore depends upon distinctions between:
 - stable and unstable developmental organisation;
 - persistence-supporting and persistence-undermining continuity;
 - and viable versus non-viable trajectories of organisational reproduction.
 
-Normativity is therefore intrinsic to inherited biological organisation itself.
+Normativity is therefore intrinsic to inherited biological organisation itself rather than externally imposed upon it.
 
 ## Summary
 
 In APS, inheritance is the reliable reconstitution of viability-oriented, constraint-closed organisation across generations or developmental cycles.
 
-Inheritance is:
-- organisational rather than informational alone;
-- developmental rather than merely transmissive;
-- processual rather than static;
-- and multiscale rather than reducible to a single mechanism.
+Inheritance is not adequately explained as informational transfer alone. Genes, molecular replication, and hereditary mechanisms remain important, but they operate within broader systems of developmental and organisational continuity.
 
-Inheritance therefore links:
+APS therefore approaches inheritance as the organised regeneration of viable persistence across historically continuous lineages.
+
+Inheritance consequently links:
 - persistence;
 - adaptation;
 - development;
@@ -257,7 +264,7 @@ Inheritance therefore links:
 - normativity;
 - and evolution
 
-through the ongoing regeneration of organised biological persistence across generations.
+through the ongoing reconstitution of organised biological continuity across generations.
 
 ## Related APS Articles
 

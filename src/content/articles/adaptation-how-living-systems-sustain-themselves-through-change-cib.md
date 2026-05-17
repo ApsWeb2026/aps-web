@@ -26,7 +26,7 @@ relatedGlossaryTerms:
   - normativity
   - evaluation
 relatedArticles:
-  - evolution
+  - evolution-as-the-historical-transformation-of-organised-persistence
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
   - description-explanation-and-definition-in-biology
