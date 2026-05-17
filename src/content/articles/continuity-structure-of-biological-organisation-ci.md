@@ -338,6 +338,57 @@ APS consequently treats diagnosis as a major explanatory interface linking:
 
 For the broader APS account of diagnosis as continuity analysis, see *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*.
 
+# Ecological Continuity
+
+Ecology also emerges through continuity structures.
+
+Living systems persist only through ongoing relations of:
+- environmental coupling;
+- ecological interaction;
+- energetic exchange;
+- perturbation;
+- resilience;
+- adaptation;
+- and multiscale environmental organisation.
+
+APS therefore rejects the idea that organisms can be understood independently of the ecological continuity systems through which viable persistence becomes possible.
+
+This produces a fifth major continuity structure:
+
+viability  
+↓  
+environmental coupling  
+↓  
+ecological interaction  
+↓  
+perturbation / adaptation  
+↓  
+resilience  
+↓  
+ecological continuity
+
+Ecological continuity concerns the distributed organisation of persistence across interacting organisms, environments, ecosystems, and scales.
+
+Persistence therefore depends not merely upon internal regulation within organisms, but upon recursively organised ecological continuity systems extending across:
+- behaviour;
+- ecosystems;
+- energetic flows;
+- climatic systems;
+- trophic organisation;
+- and evolutionary history.
+
+Ecological perturbation reveals:
+- dependency structures;
+- resilience capacities;
+- adaptive flexibility;
+- continuity vulnerabilities;
+- and multiscale coupling relations.
+
+APS consequently approaches ecology not as external background surrounding organisms, but as:
+> distributed continuity organisation within viability-oriented persistence systems.
+
+For the broader APS account of ecological continuity, see *[Ecology as Organised Persistence Across Scale](/articles/ecology-as-organised-persistence-across-scale/)* and *[Why Organisms Cannot Be Understood Apart from Their Environments](/articles/why-organisms-cannot-be-understood-apart-from-their-environments/)*.
+
 # Interlocking Continuity Structures
 
 The continuity structures of APS are not independent explanatory ladders.

@@ -108,6 +108,18 @@ Coupling therefore co-determines:
 - which differences matter
 - and how viability is sustained
 
+APS consequently approaches ecology through coupling relations distributed across organisms, environments, behaviours, populations, and ecosystems.
+
+Ecological organisation emerges through continuously reorganised patterns of reciprocal environmental coupling linking:
+- viability;
+- perturbation;
+- adaptation;
+- resilience;
+- semiosis;
+- and persistence across scale and time.
+
+Coupling therefore becomes one of the principal continuity structures through which ecological organisation is sustained.
+
 ## Coupling Is Processual
 
 Coupling is continuous and processual rather than episodic.
