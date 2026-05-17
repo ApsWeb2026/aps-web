@@ -316,7 +316,7 @@ These are not independent levels of cognition but interacting domains of integra
 
 Cognition therefore reflects the distributed organisation of evaluative activity across coupled biological scales.
 
-APS consequently treats cognition as multiscale and organisationally distributed rather than confined to brains or nervous systems alone.
+APS consequently treats cognition as multiscale and organisationally distributed rather than confined to brains or nervous systems alone. For the broader APS integration of cognition, evolution, and organised persistence, see *[Why Cognition Cannot Be Separated from Organised Persistence](/articles/why-cognition-cannot-be-separated-from-organised-persistence/)*.
 
 ## Cognition Is Not Intelligence
 

@@ -123,7 +123,7 @@ Evolution does not explain the existence of organised persistence in the first i
 
 > **Where this concept fits:** Evolution is one of the central temporal dimensions of APS. It explains how viability-oriented organisation is historically transformed across generations and thereby links persistence, adaptation, development, agency, inheritance, and natural selection within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
-APS therefore approaches evolution not as change imposed upon passive entities, but as the long-term transformation of organised biological persistence.
+APS therefore approaches evolution not as change imposed upon passive entities, but as the long-term transformation of organised biological persistence. For the broader APS integration of evolution, cognition, semiosis, and organised persistence, see *[Why Cognition Cannot Be Separated from Organised Persistence](/articles/why-cognition-cannot-be-separated-from-organised-persistence/)*.
 
 ## Evolution and Persistence
 

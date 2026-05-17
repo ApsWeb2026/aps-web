@@ -100,7 +100,7 @@ Under this framing, adaptations are traits that increase fitness within a given 
 
 This interpretation captures important historical dimensions of biological change, but it can obscure the ongoing activity through which living systems continuously sustain viability under changing conditions.
 
-APS therefore treats evolutionary adaptations as historical stabilisations of ongoing adaptive organisation rather than as static optimised traits alone.
+APS therefore treats evolutionary adaptations as historical stabilisations of ongoing adaptive organisation rather than as static optimised traits alone. For the broader APS integration of adaptation, cognition, semiosis, evolution, and organised persistence, see *[Why Cognition Cannot Be Separated from Organised Persistence](/articles/why-cognition-cannot-be-separated-from-organised-persistence/)*.
 
 ## The APS Reframing
 

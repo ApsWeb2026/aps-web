@@ -145,7 +145,7 @@ Information emerges where meaningful differences participate in organised biolog
 
 > **Where this concept fits:** Meaning is one of the central organisational consequences of viability-oriented semiosis within APS. It explains how differences acquire biological significance and thereby links evaluation, information, representation, agency, adaptation, and cognition within a unified explanatory framework. For the broader structure of APS, see *APS Architecture Map — Navigating the Framework*.
 
-APS consequently treats meaning not as an abstract semantic layer added onto biology, but as an intrinsic organisational feature of viability-oriented living systems.
+APS consequently treats meaning not as an abstract semantic layer added onto biology, but as an intrinsic organisational feature of viability-oriented living systems. For the broader APS integration of meaning, cognition, evolution, and organised persistence, see *[Why Cognition Cannot Be Separated from Organised Persistence](/articles/why-cognition-cannot-be-separated-from-organised-persistence/)*.
 
 ## Meaning and Viability
 

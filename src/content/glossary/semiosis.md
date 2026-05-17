@@ -134,7 +134,7 @@ Meaning concerns the biological significance those differentiated conditions acq
 
 > **Where this concept fits:** Semiosis is one of the central organisational processes within APS. It explains how differences become biologically meaningful within viability-oriented persistence and thereby grounds meaning, information, adaptation, and cognition within a unified explanatory framework. For the broader structure of APS, see *APS Architecture Map — Navigating the Framework*.
 
-APS consequently treats semiosis not as an abstract symbolic overlay upon biology, but as an intrinsic organisational feature of viability-oriented living systems.
+APS consequently treats semiosis not as an abstract symbolic overlay upon biology, but as an intrinsic organisational feature of viability-oriented living systems. For the broader APS integration of semiosis, cognition, evolution, and organised persistence, see *[Why Cognition Cannot Be Separated from Organised Persistence](/articles/why-cognition-cannot-be-separated-from-organised-persistence/)*.
 
 ## Semiosis and Viability
 

@@ -117,7 +117,7 @@ Within APS, evaluation forms the upstream organisational basis from which semios
 
 > **Where this concept fits:** Evaluation is one of the central organisational processes within APS. It explains how living systems differentially regulate activity relative to viability conditions and thereby grounds semiosis, meaning, agency, adaptation, and cognition within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
-APS consequently treats evaluation not as a specialised cognitive overlay upon life, but as an intrinsic organisational feature of viability-oriented persistence itself.
+APS consequently treats evaluation not as a specialised cognitive overlay upon life, but as an intrinsic organisational feature of viability-oriented persistence itself. For the broader APS integration of evaluation, cognition, evolution, and organised persistence, see *[Why Cognition Cannot Be Separated from Organised Persistence](/articles/why-cognition-cannot-be-separated-from-organised-persistence/)*.
 
 ## Evaluation and Viability
 

@@ -25,8 +25,11 @@ relatedGlossaryTerms:
   - scale
   - function
   - adaptation
+  - variation
+  - fitness
   - evolution
   - inheritance
+  - natural-selection
   - evaluation
   - semiosis
   - meaning
@@ -44,6 +47,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
   - aps-and-contemporary-theories
+  - evolution-as-the-historical-transformation-of-organised-persistence
   - how-to-read-this-aps-framework-website
 ---
 
@@ -112,27 +116,60 @@ These articles explain how APS understands:
 
 This part of the framework develops the idea that biological explanation is directed toward organised persistence rather than merely toward isolated mechanisms or statistical regularities.
 
-## 2. Evolution and Organised Persistence
+## 2. Evolution and the Historical Transformation of Organised Persistence
 
-APS treats evolution as the transformation of persistence-sustaining organisation across generations.
+APS treats evolution as the historical transformation of viability-oriented, persistence-sustaining organisation across generations.
 
-This pathway examines:
+Evolution is not understood primarily as change in gene frequencies alone, nor as the optimisation of isolated traits. Instead, APS approaches evolutionary transformation organisationally: as the diversification, reorganisation, inheritance, and differential stabilisation of living systems capable of sustaining viable persistence across time.
+
+This pathway develops the evolutionary architecture of APS through interconnected concepts including:
+- variation;
 - adaptation;
 - inheritance;
-- evaluation;
-- and evolutionary explanation
-
-from an organisational perspective.
+- fitness;
+- natural selection;
+- development;
+- and organisational continuity.
 
 ### Key articles and glossary entries
 
+- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
 - *[Evolution](/glossary/evolution/)*
-- *[Inheritance](/glossary/inheritance/)*
+- *[Variation](/glossary/variation/)*
 - *[Adaptation](/glossary/adaptation/)*
+- *[Inheritance](/glossary/inheritance/)*
+- *[Fitness](/glossary/fitness/)*
+- *[Natural Selection](/glossary/natural-selection/)*
 - *[Evaluation](/glossary/evaluation/)*
 - *[Biological Individual](/articles/biological-individual/)*
 
-This area of the framework explores how evolutionary processes depend upon the persistence and reproduction of organised systems across time.
+Within APS, evolutionary explanation is organised through a connected continuity structure:
+
+viability  
+↓  
+persistence  
+↓  
+variation  
+↓  
+adaptation  
+↓  
+inheritance  
+↓  
+fitness  
+↓  
+natural selection  
+↓  
+evolution
+
+These are not isolated mechanisms or competing explanatory principles. They are interacting dimensions of the historical transformation of organised persistence across developmental, ecological, and evolutionary timescales.
+
+APS therefore rejects:
+- purely gene-centric evolutionary reductionism;
+- optimisationist accounts of fitness;
+- trait-isolated adaptationism;
+- and views of natural selection as the original source of biological organisation.
+
+Instead, evolution is understood as the long-term transformation of living organisation already capable of sustaining viability-oriented persistence.
 
 ## 3. Cognition, Information, and Meaning
 
@@ -264,11 +301,15 @@ Recommended pathway:
 
 Recommended pathway:
 
-1. *Evolution*
-2. *Inheritance*
-3. *Adaptation*
-4. *Evaluation*
-5. *Biological Individual*
+1. *Evolution as the Historical Transformation of Organised Persistence*
+2. *Evolution*
+3. *Variation*
+4. *Adaptation*
+5. *Inheritance*
+6. *Fitness*
+7. *Natural Selection*
+8. *Evaluation*
+9. *Biological Individual*
 
 ## For cognition and information researchers
 
