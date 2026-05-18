@@ -1611,25 +1611,32 @@ main .content-wrapper .article-body h3 a {
    APS Diagram Architecture System
    ============================================================ */
 
-.hero-diagram {
-  margin: 2.5rem auto 2rem;
-  text-align: center;
+.architecture-diagram-section {
+  margin-top: 3rem;
 }
 
-.continuity-diagram {
+.architecture-diagram-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0 1rem;
+}
+
+.architecture-diagram {
   width: 100%;
-  max-width: 900px;
+  max-width: 760px;
   height: auto;
   display: block;
-  margin: 0 auto;
+  opacity: 0.96;
 }
 
 .diagram-caption {
-  margin-top: 0.75rem;
-  font-size: 0.95rem;
-  opacity: 0.85;
-  line-height: 1.5;
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
   color: var(--color-text-secondary);
+  max-width: 720px;
+  margin: 0.75rem auto 0;
+  line-height: 1.6;
   font-style: italic;
 }
 
