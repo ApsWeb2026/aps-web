@@ -1606,3 +1606,53 @@ main .content-wrapper .article-body h3 a {
   list-style: none;
   padding-left: 0;
 }
+
+/* ============================================================
+   APS Diagram Architecture System
+   ============================================================ */
+
+.hero-diagram {
+  margin: 2.5rem auto 2rem;
+  text-align: center;
+}
+
+.continuity-diagram {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.diagram-caption {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  opacity: 0.85;
+  line-height: 1.5;
+  color: var(--color-text-secondary);
+  font-style: italic;
+}
+
+/* Generic APS diagram container */
+
+.aps-diagram {
+  margin: 2.5rem auto;
+  text-align: center;
+}
+
+.aps-diagram img,
+.aps-diagram svg {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.aps-diagram-caption {
+  margin-top: 0.75rem;
+  font-size: 0.92rem;
+  color: var(--color-text-secondary);
+  line-height: 1.5;
+  font-style: italic;
+}
