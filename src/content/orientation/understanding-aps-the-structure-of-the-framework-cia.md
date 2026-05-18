@@ -100,13 +100,13 @@ For a broader overview of how the framework’s major conceptual domains connect
 
 The diagram below illustrates how APS organises biological explanation through the interdependence of agency, process, and scale.
 
-<div class="diagram">
+<div class="aps-diagram">
 
-![Structure of the APS framework](/assets/diagrams/core-for-understanding.png)
+![APS explanatory structure showing agency, process, and scale as integrated dimensions of organised persistence](/assets/diagrams/canonical_explanatory_structure.svg)
 
 </div>
 
-*Figure: Agency, process, and scale function as mutually constraining dimensions of organised biological persistence.*
+*Figure: APS explains living systems through the integrated dimensions of agency, process, and scale. These dimensions are mutually explanatory and together ground organised persistence.*
 
 Living systems persist only through continuous activity. Their organisation must be actively maintained, regenerated, and coordinated across changing conditions.
 

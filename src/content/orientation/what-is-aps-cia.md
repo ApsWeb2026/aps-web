@@ -94,9 +94,9 @@ APS treats processes as primary for understanding biological organisation. Syste
 
 Together, agency, process, and scale form the core explanatory grammar of APS, through which living systems are understood as viability-oriented organisations that sustain the conditions of their own persistence.
 
-![Diagram showing agency, process, and scale as interdependent dimensions of organised biological persistence in APS](/assets/diagrams/aps-core-structure.svg)
+![APS explanatory structure showing agency, process, and scale as integrated dimensions of organised persistence](/assets/diagrams/canonical_explanatory_structure.svg)
 
-*Figure: Agency, process, and scale are not separate components but interdependent dimensions of organised biological persistence.*
+*Figure: APS explains living systems through the integrated dimensions of agency, process, and scale. These dimensions are mutually explanatory and together ground organised persistence.*
 
 [[box:what-aps-changes-and-what-it-does-not]]
 

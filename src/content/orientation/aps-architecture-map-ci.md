@@ -63,6 +63,14 @@ The purpose of this page is not to replace the individual articles, but to help 
 
 # The Core Structure of APS
 
+<div class="aps-diagram">
+
+![APS explanatory structure showing agency, process, and scale as integrated dimensions of organised persistence](/assets/diagrams/canonical_explanatory_structure.svg)
+
+</div>
+
+*Figure: The core explanatory structure of APS. Agency, process, and scale form mutually explanatory dimensions of organised persistence.*
+
 At the centre of APS is the claim that biological systems are distinguished by a particular form of organisation:
 
 - systems persist by actively maintaining the conditions of their own continued existence;
@@ -94,6 +102,16 @@ Readers new to APS should begin with the core orientation sequence.
 Together these articles introduce the central explanatory architecture of the framework.
 
 # Major Areas of the Framework
+
+The diagram below provides a structural overview of the major conceptual pathways developed within APS. Each pathway extends the core explanatory structure of agency, process, scale, and organised persistence into different areas of biological explanation.
+
+<div class="aps-diagram">
+
+![APS architecture map showing the major conceptual pathways of the framework](/assets/diagrams/architecture-map.svg)
+
+</div>
+
+*Figure: The major explanatory pathways of APS. Each pathway develops different aspects of viability-oriented organised persistence while remaining grounded in the shared core structure of agency, process, and scale.*
 
 ## 1. Biological Explanation
 
