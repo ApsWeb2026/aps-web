@@ -1617,20 +1617,15 @@ main .content-wrapper .article-body h3 a {
 
 .architecture-diagram-wrapper {
   width: 100%;
-  max-width: 1240px;
   margin: 0 auto;
 }
 
-That should pro
-
 .architecture-diagram {
-  width: 100%;
-  max-width: 900px;
+  width: min(100%, 700px);
   height: auto;
   display: block;
   margin: 2rem auto;
 }
-
 
 .diagram-caption {
   text-align: center;
