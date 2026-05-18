@@ -1623,7 +1623,7 @@ main .content-wrapper .article-body h3 a {
 
 .architecture-diagram {
   width: 100%;
-  max-width: 760px;
+  max-width: 460px;
   height: auto;
   display: block;
   opacity: 0.96;
