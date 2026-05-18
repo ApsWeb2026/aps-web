@@ -105,13 +105,18 @@ Together these articles introduce the central explanatory architecture of the fr
 
 The diagram below provides a structural overview of the major conceptual pathways developed within APS. Each pathway extends the core explanatory structure of agency, process, scale, and organised persistence into different areas of biological explanation.
 
-<div class="aps-diagram">
+<div class="aps-diagram aps-diagram-large">
 
-![APS architecture map showing the major conceptual pathways of the framework](/assets/diagrams/architecture-map.svg)
+<a href="/assets/diagrams/architecture-map.svg" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/architecture-map.svg"
+    alt="APS architecture map showing the major conceptual pathways of the framework"
+  />
+</a>
 
 </div>
 
-*Figure: The major explanatory pathways of APS. Each pathway develops different aspects of viability-oriented organised persistence while remaining grounded in the shared core structure of agency, process, and scale.*
+*Figure: The major explanatory pathways of APS. Click the diagram to open it at full size.*
 
 ## 1. Biological Explanation
 

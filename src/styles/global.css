@@ -1661,3 +1661,13 @@ main .content-wrapper .article-body h3 a {
   line-height: 1.5;
   font-style: italic;
 }
+
+/* ============================================================
+   APS Large Architecture Diagrams
+   ============================================================ */
+
+.aps-diagram-large img {
+  width: 100%;
+  max-width: 1400px;
+  height: auto;
+}
