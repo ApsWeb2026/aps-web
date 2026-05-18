@@ -1,12 +1,13 @@
 ---
 title: "APS Visual Explanatory Grammar"
 slug: aps-visual-explanatory-grammar
+date: 2026-05-18
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-18
 revised: 2026-05-18
-cluster: orientation
-summary: >
+cluster: conceptual-foundations
+abstract: >
   This document establishes the visual explanatory grammar used across APS_WEB.
   It defines the purpose, structure, semantics, and pedagogical integration
   of APS diagrams, including standards for explanatory hierarchy, visual
@@ -23,8 +24,6 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
-  - explanation
-  - organisation
   - constraint-closure
 ---
 
