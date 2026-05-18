@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="1000" viewBox="0 0 1600 1000"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">APS: The Explanatory Structure of Living Systems</title>
+  <desc id="desc">
+    A canonical APS diagram showing Agency, Process and Scale as mutually explanatory
+    dimensions that ground organised persistence in living systems.
+  </desc>
+
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; }
+
+      .title {
+        font-size: 56px;
+        font-weight: 700;
+        fill: #071b46;
+      }
+
+      .subtitle {
+        font-size: 28px;
+        font-weight: 600;
+        font-style: italic;
+        fill: #071b46;
+      }
+
+      .panel-title {
+        font-size: 44px;
+        font-weight: 700;
+      }
+
+      .anchor {
+        font-size: 29px;
+        font-weight: 700;
+        font-style: italic;
+      }
+
+      .body {
+        font-size: 20px;
+        font-weight: 600;
+        fill: #111827;
+      }
+
+      .question-label {
+        font-size: 20px;
+        font-weight: 700;
+        font-style: italic;
+      }
+
+      .question {
+        font-size: 20px;
+        font-weight: 700;
+        font-style: italic;
+        fill: #111827;
+      }
+
+      .example {
+        font-size: 19px;
+        font-weight: 600;
+        fill: #111827;
+      }
+
+      .center-title {
+        font-size: 24px;
+        font-weight: 700;
+        fill: #a66f00;
+      }
+
+      .center-anchor {
+        font-size: 20px;
+        font-weight: 700;
+        font-style: italic;
+        fill: #a66f00;
+      }
+
+      .center-body {
+        font-size: 15px;
+        font-weight: 700;
+        fill: #111827;
+      }
+
+      .footer-main {
+        font-size: 20px;
+        font-weight: 700;
+        fill: #071b46;
+      }
+
+      .footer-sub {
+        font-size: 15px;
+        font-weight: 600;
+        fill: #071b46;
+      }
+
+      .panel { stroke-width: 3; }
+      .thin-line { stroke-width: 2; }
+
+      .dotted {
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-dasharray: 1 12;
+      }
+
+      .arrow {
+        fill: none;
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5"
+                    flood-color="#64748b" flood-opacity="0.18"/>
+    </filter>
+
+    <marker id="arrowGreen" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L12,5 L0,10 Z" fill="#166534"/>
+    </marker>
+
+    <marker id="arrowBlue" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L12,5 L0,10 Z" fill="#0f4c99"/>
+    </marker>
+
+    <marker id="arrowPurple" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L12,5 L0,10 Z" fill="#512a75"/>
+    </marker>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="800" y="64" text-anchor="middle" class="title">
+    APS: The Explanatory Structure of Living Systems
+  </text>
+  <text x="800" y="104" text-anchor="middle" class="subtitle">
+    The explanatory grammar of living systems
+  </text>
+
+  <!-- Main panels -->
+  <rect x="105" y="128" width="420" height="505" rx="24" ry="24"
+        fill="#f6fff7" stroke="#166534" class="panel" filter="url(#softShadow)"/>
+  <rect x="590" y="128" width="420" height="505" rx="24" ry="24"
+        fill="#f7fbff" stroke="#0f4c99" class="panel" filter="url(#softShadow)"/>
+  <rect x="1075" y="128" width="420" height="505" rx="24" ry="24"
+        fill="#fbf7ff" stroke="#512a75" class="panel" filter="url(#softShadow)"/>
+
+  <!-- Agency -->
+  <text x="315" y="186" text-anchor="middle" class="panel-title" fill="#166534">AGENCY</text>
+  <line x1="148" y1="221" x2="250" y2="221" stroke="#166534" class="thin-line"/>
+  <text x="315" y="234" text-anchor="middle" class="anchor" fill="#166534">Action</text>
+  <line x1="380" y1="221" x2="482" y2="221" stroke="#166534" class="thin-line"/>
+
+  <text x="315" y="278" text-anchor="middle" class="body">The capacity of living systems</text>
+  <text x="315" y="310" text-anchor="middle" class="body">to act in ways that contribute</text>
+  <text x="315" y="342" text-anchor="middle" class="body">to their continued viability.</text>
+
+  <line x1="140" y1="388" x2="490" y2="388" stroke="#166534" class="dotted"/>
+
+  <text x="315" y="428" text-anchor="middle" class="question-label" fill="#166534">Core question:</text>
+  <text x="315" y="460" text-anchor="middle" class="question">What is the system doing?</text>
+
+  <circle cx="165" cy="548" r="31" fill="none" stroke="#166534" stroke-width="4"/>
+  <line x1="165" y1="500" x2="165" y2="596" stroke="#166534" stroke-width="4"/>
+  <line x1="117" y1="548" x2="213" y2="548" stroke="#166534" stroke-width="4"/>
+  <circle cx="165" cy="548" r="8" fill="none" stroke="#166534" stroke-width="4"/>
+  <text x="230" y="521" text-anchor="start" class="example">Directed activity,</text>
+  <text x="230" y="552" text-anchor="start" class="example">regulation, evaluative</text>
+  <text x="230" y="583" text-anchor="start" class="example">responsiveness,</text>
+  <text x="230" y="614" text-anchor="start" class="example">viability-oriented action.</text>
+
+  <!-- Process -->
+  <text x="800" y="186" text-anchor="middle" class="panel-title" fill="#0f4c99">PROCESS</text>
+  <line x1="635" y1="221" x2="735" y2="221" stroke="#0f4c99" class="thin-line"/>
+  <text x="800" y="234" text-anchor="middle" class="anchor" fill="#0f4c99">Continuity</text>
+  <line x1="865" y1="221" x2="965" y2="221" stroke="#0f4c99" class="thin-line"/>
+
+  <text x="800" y="278" text-anchor="middle" class="body">Living systems persist through</text>
+  <text x="800" y="310" text-anchor="middle" class="body">ongoing processes of change,</text>
+  <text x="800" y="342" text-anchor="middle" class="body">transformation, and interaction.</text>
+
+  <line x1="625" y1="388" x2="975" y2="388" stroke="#0f4c99" class="dotted"/>
+
+  <text x="800" y="428" text-anchor="middle" class="question-label" fill="#0f4c99">Core question:</text>
+  <text x="800" y="460" text-anchor="middle" class="question">How is the system changing</text>
+  <text x="800" y="491" text-anchor="middle" class="question">and persisting?</text>
+
+  <path d="M645 532 A34 34 0 0 1 704 508" fill="none" stroke="#0f4c99" stroke-width="4"/>
+  <path d="M704 508 L699 535 L722 520" fill="none" stroke="#0f4c99" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M724 558 A34 34 0 0 1 665 582" fill="none" stroke="#0f4c99" stroke-width="4"/>
+  <path d="M665 582 L670 555 L647 570" fill="none" stroke="#0f4c99" stroke-width="4" stroke-linejoin="round"/>
+  <text x="755" y="520" text-anchor="start" class="example">Metabolism, development,</text>
+  <text x="755" y="552" text-anchor="start" class="example">reproduction, interaction,</text>
+  <text x="755" y="584" text-anchor="start" class="example">continuity through change.</text>
+
+  <!-- Scale -->
+  <text x="1285" y="186" text-anchor="middle" class="panel-title" fill="#512a75">SCALE</text>
+  <line x1="1120" y1="221" x2="1220" y2="221" stroke="#512a75" class="thin-line"/>
+  <text x="1285" y="234" text-anchor="middle" class="anchor" fill="#512a75">Context</text>
+  <line x1="1350" y1="221" x2="1450" y2="221" stroke="#512a75" class="thin-line"/>
+
+  <text x="1285" y="278" text-anchor="middle" class="body">Biological organisation exists</text>
+  <text x="1285" y="310" text-anchor="middle" class="body">across interconnected temporal,</text>
+  <text x="1285" y="342" text-anchor="middle" class="body">spatial, and organisational</text>
+  <text x="1285" y="374" text-anchor="middle" class="body">contexts.</text>
+
+  <line x1="1110" y1="388" x2="1460" y2="388" stroke="#512a75" class="dotted"/>
+
+  <text x="1285" y="428" text-anchor="middle" class="question-label" fill="#512a75">Core question:</text>
+  <text x="1285" y="462" text-anchor="middle" class="question">Where and across what</text>
+  <text x="1285" y="496" text-anchor="middle" class="question">contexts does organisation occur?</text>
+
+  <circle cx="1145" cy="552" r="30" fill="none" stroke="#512a75" stroke-width="4"/>
+  <ellipse cx="1145" cy="552" rx="14" ry="30" fill="none" stroke="#512a75" stroke-width="3"/>
+  <line x1="1115" y1="552" x2="1175" y2="552" stroke="#512a75" stroke-width="3"/>
+  <line x1="1123" y1="534" x2="1167" y2="534" stroke="#512a75" stroke-width="3"/>
+  <line x1="1123" y1="570" x2="1167" y2="570" stroke="#512a75" stroke-width="3"/>
+  <text x="1205" y="522" text-anchor="start" class="example">Situatedness, relation,</text>
+  <text x="1205" y="553" text-anchor="start" class="example">environment, levels, networks,</text>
+  <text x="1205" y="584" text-anchor="start" class="example">and organisational contexts.</text>
+
+  <!-- Central node: enlarged and text reduced to guarantee fit -->
+  <circle cx="800" cy="770" r="124" fill="#fff9e8" stroke="#d9a51e" stroke-width="4" filter="url(#softShadow)"/>
+  <text x="800" y="725" text-anchor="middle" class="center-title">ORGANISED</text>
+  <text x="800" y="758" text-anchor="middle" class="center-title">PERSISTENCE</text>
+  <text x="800" y="789" text-anchor="middle" class="center-anchor">Organisation</text>
+  <line x1="715" y1="805" x2="885" y2="805" stroke="#d9a51e" stroke-width="2"/>
+  <text x="800" y="832" text-anchor="middle" class="center-body">Viability through</text>
+  <text x="800" y="856" text-anchor="middle" class="center-body">constraint closure</text>
+  <text x="800" y="880" text-anchor="middle" class="center-body">over time.</text>
+
+  <!-- Convergent arrows -->
+  <path d="M315 633 C315 735, 450 750, 660 760"
+        class="arrow" stroke="#166534" marker-end="url(#arrowGreen)"/>
+  <line x1="800" y1="633" x2="800" y2="636"
+        class="arrow" stroke="#0f4c99" marker-end="url(#arrowBlue)"/>
+  <path d="M1285 633 C1285 735, 1150 750, 940 760"
+        class="arrow" stroke="#512a75" marker-end="url(#arrowPurple)"/>
+
+  <!-- Footer -->
+  <rect x="350" y="922" width="900" height="58" rx="14" ry="14"
+        fill="#f8fafc" stroke="#0f2a56" stroke-width="2"/>
+  <text x="800" y="946" text-anchor="middle" class="footer-main">
+    Biological explanation requires agency, process, and scale.
+  </text>
+  <text x="800" y="971" text-anchor="middle" class="footer-sub">
+    Together, these dimensions ground organised persistence in living systems.
+  </text>
+</svg>
