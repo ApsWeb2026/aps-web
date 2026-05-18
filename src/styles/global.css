@@ -1621,7 +1621,7 @@ main .content-wrapper .article-body h3 a {
 }
 
 .architecture-diagram {
-  width: min(100%, 700px);
+  width: min(100%, 720px);
   height: auto;
   display: block;
   margin: 2rem auto;
