@@ -188,6 +188,31 @@ APS therefore treats:
 
 as objectively real dimensions of living systems.
 
+## Organisation Is Not Mere Arrangement
+
+APS does not treat organisation as mere spatial arrangement or descriptive pattern.
+
+A pile of stones, a crystal lattice, or a weather system may exhibit structure, but biological organisation differs because the organisation itself contributes to maintaining the conditions required for its continued persistence.
+
+Organisation in APS is therefore not simply:
+- order;
+- complexity;
+- pattern;
+- or interaction density.
+
+It is persistence-maintaining causal organisation.
+
+The explanatory significance of biological organisation derives from the fact that organisational relations actively regulate:
+- viability;
+- constraint dynamics;
+- adaptive response;
+- developmental continuity;
+- and system persistence across time.
+
+Organisation is therefore biologically real not merely because observers identify useful patterns, but because living systems genuinely depend upon these organisational relations for their continued existence.
+
+APS consequently treats organisation as a causal and explanatory feature of living systems themselves rather than as a convenient summary imposed upon lower-level physical activity.
+
 In this respect APS shares important affinities with process-oriented and organisational approaches in contemporary philosophy of biology (Nicholson and Dupré 2018), while placing stronger emphasis on viability-oriented persistence as the central explanatory criterion of biological systems.
 
 # Viability and Constraint Closure
@@ -377,7 +402,7 @@ Biological explanation succeeds because living systems genuinely exhibit:
 - adaptive coordination;
 - and scale-integrated forms of activity.
 
-Organisation is therefore not merely descriptive shorthand layered onto an underlying physical reality. It is itself part of biological reality.
+Organisation is therefore not merely descriptive shorthand layered onto an underlying physical reality. It is the persistence-maintaining causal structure through which living systems become biologically intelligible at all.
 
 APS consequently rejects:
 - eliminative reductionism;
@@ -387,8 +412,8 @@ APS consequently rejects:
 Instead, APS argues that biological science progressively discovers real organisational structures through which living systems sustain themselves across time.
 
 Organisational realism therefore becomes:
-- an ontological claim about life,
-- an explanatory claim about biology,
+- an ontological claim about life;
+- an explanatory claim about biology;
 - and a methodological claim about what biological inquiry must ultimately explain.
 
 ## Related Pathways

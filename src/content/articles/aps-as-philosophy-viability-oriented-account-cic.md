@@ -248,6 +248,20 @@ Ontology and explanation consequently remain closely related within APS because 
 
 APS therefore attempts not merely to redescribe biological findings, but to make explicit the organisational form of intelligibility implied by them.
 
+APS therefore attempts not merely to redescribe biological findings, but to make explicit the organisational form of intelligibility implied by them.
+
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/philosophy-visual.png"
+    alt="APS philosophy integration architecture"
+    loading="lazy"
+  />
+</div>
+
+*Figure: The philosophical architecture of APS showing how normativity, meaning, cognition, explanation, and biological intelligibility emerge from viability-oriented organised persistence.*
+
+## Explanatory Grammar and Biological Intelligibility
+
 ## Explanatory Grammar and Biological Intelligibility
 
 A defining feature of APS is its emphasis on explanatory grammar.

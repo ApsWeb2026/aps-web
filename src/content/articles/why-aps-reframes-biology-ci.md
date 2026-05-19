@@ -228,6 +228,30 @@ This reframes adaptation, selection, and evolutionary change within a broader or
 
 ---
 
+# From Fragmented Explanations to Organised Biology
+
+APS therefore progressively reorganises biological explanation around a single underlying explanatory orientation: organised persistence.
+
+Mechanism, function, evolution, cognition, regulation, adaptation, information, and ecological interaction no longer appear as partially disconnected explanatory domains requiring separate conceptual foundations.
+
+They instead become different analytical perspectives on the same persistence-maintaining organisational reality.
+
+This produces a major explanatory unification.
+
+Mechanistic biology explains how organised persistence is enacted.
+
+Evolutionary biology explains how organised persistence transforms historically across generations.
+
+Cognitive biology explains how organised persistence becomes increasingly evaluative, flexible, and anticipatory.
+
+Ecology explains how organised persistence is distributed across organism–environment relations.
+
+APS therefore does not dissolve existing biological disciplines. It reorganises their explanatory relations within a shared account of living organisation.
+
+The result is not a reduction of biology to a single principle, but a reconstruction of biology around a coherent explanatory architecture.
+
+---
+
 # Why This Matters
 
 APS matters because contemporary biology often fragments explanation across partially disconnected domains.

@@ -5,7 +5,7 @@ slug: why-philosophy-of-biology-matters
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-05-17
+revised: 2026-05-19
 cluster: conceptual-foundations
 
 abstract: >
@@ -192,7 +192,19 @@ Biology therefore repeatedly forces reflection upon:
 - emergence;
 - and normativity.
 
-Philosophy of biology emerges because biology itself continually presses against the limits of purely reductionistic explanation.
+Philosophy returns in biology not because science has failed, but because successful biological explanation already presupposes an organisational account of living systems.
+
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/philosophy-visual.png"
+    alt="APS philosophy integration architecture"
+    loading="lazy"
+  />
+</div>
+
+*Figure: The APS philosophical integration architecture showing how normativity, meaning, cognition, explanation, and biological intelligibility emerge from viability-oriented organised persistence.*
+
+Philosophy of biology therefore emerges not as an external commentary imposed upon biology from outside science, but as the clarification of the organisational conditions that biological explanation already presupposes.
 
 # A Brief Historical Overview
 
@@ -438,5 +450,11 @@ Rather than fragmenting biology into isolated explanatory domains, APS approache
 - and multiscale organisation
 
 within a unified explanatory framework.
+
+Readers wishing to pursue these themes further should continue through:
+- *[Why APS Reframes Biology](/articles/why-aps-reframes-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[Organisational Realism in Biology](/articles/organisational-realism-in-biology/)*
 
 Philosophy of biology therefore matters not because biology lacks empirical success, but because biological success continually generates deeper questions about what living systems are and how they become intelligible scientifically.
