@@ -336,6 +336,93 @@ The reality of biological organisation is therefore not secondary to biological 
 
 APS consequently treats organisational structure not as explanatory decoration layered onto biology, but as the central reality that biological science progressively reveals.
 
+# Organisational Realism and the Naturalisation of Biology
+
+APS does not merely defend the reality of biological organisation. It also proposes a distinctive account of how biology itself becomes scientifically intelligible.
+
+Many central biological concepts have historically appeared philosophically unstable within strongly mechanistic scientific frameworks. Concepts such as:
+- function;
+- purpose;
+- normativity;
+- agency;
+- meaning;
+- semiosis;
+- and cognition
+
+have often been treated as:
+- anthropomorphic projections;
+- heuristic conveniences;
+- observer-relative descriptions;
+- or incomplete placeholders awaiting reduction to lower-level physical explanation.
+
+Much of modern philosophy of biology has therefore attempted to naturalise these concepts by:
+- eliminating them;
+- reducing them;
+- translating them into statistical language;
+- or reconstructing them entirely in terms of selection history or information processing.
+
+APS develops a different strategy.
+
+Rather than eliminating purposive and normative biological concepts, APS explains why such concepts emerge naturally within living systems themselves.
+
+The central claim is that viability-oriented organisation generates real asymmetries within biological systems:
+- some states support persistence;
+- others undermine it;
+- some processes maintain organisation;
+- others destabilise it.
+
+Living systems are therefore not organisationally neutral. Their activity is structured relative to the conditions required for continued persistence.
+
+This changes the explanatory status of many biological concepts.
+
+Function becomes naturalised because biological activity genuinely contributes to maintaining viable organisation.
+
+Purpose becomes naturalised because living systems are organised toward sustaining the conditions of their own persistence.
+
+Normativity becomes naturalised because viability establishes real distinctions between organisational success and failure.
+
+Agency becomes naturalised because systems actively regulate activity relative to persistence conditions.
+
+Semiosis and meaning become naturalised because environmental differences acquire biological significance within viability-oriented regulation.
+
+Cognition becomes naturalised because evaluative organisation becomes increasingly integrated, flexible, and temporally extended.
+
+APS therefore proposes that biology does not merely use purposive language metaphorically. Biological organisation itself generates the conditions under which purposive and normative explanation become scientifically legitimate.
+
+This is one of the central implications of organisational realism.
+
+APS does not naturalise biology by stripping biology of function, purpose, agency, or meaning. It naturalises them by grounding them within the real organisational dynamics of living persistence.
+
+In this respect APS extends the broader historical process through which science has progressively naturalised domains once regarded as philosophically problematic or scientifically inaccessible.
+
+Earlier scientific developments naturalised:
+- motion;
+- chemistry;
+- heredity;
+- and evolution.
+
+APS contributes to the naturalisation of:
+- biological purposiveness;
+- organisational normativity;
+- agency;
+- meaning;
+- and cognition.
+
+This does not place biology outside the natural world. It clarifies how these organisational phenomena emerge within it.
+
+APS therefore reframes biology not as a science forced to tolerate purposive language despite its mechanistic foundations, but as a science whose explanatory structure reflects the real organisational properties of living systems themselves.
+
+The result is a form of organisational realism in which:
+- explanation;
+- function;
+- agency;
+- semiosis;
+- cognition;
+- and persistence
+
+become intelligible as interconnected dimensions of viability-oriented biological organisation rather than as isolated conceptual anomalies requiring independent philosophical justification.
+
+
 ## Related Pathways
 
 - *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-account/)*
