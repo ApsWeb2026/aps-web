@@ -138,13 +138,18 @@ Evolution does not explain the original emergence of organised persistence. Rath
 
 Evolution therefore concerns the historical transformation of organised persistence itself.
 
-![The Core Architecture of Living Systems: Organised persistence through viability](/assets/diagrams/aps-core-architecture.svg)
+<div class="aps-diagram aps-diagram-large">
 
-*Living systems are organised processes that recursively sustain the conditions of their own persistence.*
+<a href="/assets/diagrams/evolution-visual.svg" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/evolution-visual.svg"
+    alt="APS evolutionary pathway diagram showing evolution as the historical transformation of organised persistence"
+  />
+</a>
 
-![Evolution as the Historical Transformation of Organised Persistence](/assets/diagrams/evolution-transformation-of-organised-persistence.svg)
+</div>
 
-*Evolution in APS is the historical transformation of viability-oriented organisation across generations through processes of persistence, variation, adaptation, inheritance, and differential stabilisation.*
+*Figure: The APS evolutionary pathway. Evolution emerges through the historical transformation of viable organised persistence across variation, adaptation, inheritance, fitness, and natural selection.*
 
 ## Evolution Presupposes Organised Persistence
 

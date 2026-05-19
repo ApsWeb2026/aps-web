@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800" height="1050" viewBox="0 0 1800 1050"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">APS_F3_Evolution: The Evolutionary Pathway</title>
+  <desc id="desc">
+    A canonical APS evolution pathway diagram showing evolution as the historical
+    transformation of viable organised persistence through variation, adaptation,
+    inheritance, fitness, natural selection, evolutionary change, and diversification.
+  </desc>
+
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; }
+      .title { font-size: 46px; font-weight: 700; fill: #111827; }
+      .subtitle { font-size: 28px; font-weight: 600; font-style: italic; fill: #4b5563; }
+      .top-title { font-size: 24px; font-weight: 700; fill: #365314; }
+      .top-body { font-size: 18px; fill: #111827; }
+      .persist-title { font-size: 28px; font-weight: 700; fill: #365314; }
+      .persist-body { font-size: 18px; fill: #111827; }
+      .card-title { font-size: 20px; font-weight: 700; fill: #a16207; }
+      .card-body { font-size: 16px; fill: #111827; }
+      .side-title { font-size: 18px; font-weight: 700; fill: #b45309; }
+      .side-body { font-size: 16px; font-style: italic; fill: #b45309; }
+      .small-note { font-size: 18px; font-style: italic; fill: #365314; }
+      .feedback-title { font-size: 20px; font-weight: 700; fill: #b45309; }
+      .feedback-body { font-size: 16px; font-style: italic; fill: #b45309; }
+      .axis { font-size: 17px; font-weight: 700; fill: #4b5563; }
+      .caption-title { font-size: 20px; font-weight: 700; fill: #111827; }
+      .caption-body { font-size: 17px; fill: #111827; }
+      .insight-title { font-size: 18px; font-weight: 700; fill: #a16207; }
+      .insight-body { font-size: 16px; fill: #111827; }
+      .key-title { font-size: 18px; font-weight: 700; fill: #111827; }
+      .key-text { font-size: 14px; fill: #111827; }
+      .arrow-gold { fill: none; stroke: #d59b0b; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .arrow-green { fill: none; stroke: #4d7c0f; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .arrow-feedback { fill: none; stroke: #d59b0b; stroke-width: 3; stroke-dasharray: 7 8; stroke-linecap: round; stroke-linejoin: round; }
+      .box { stroke-width: 2; }
+    </style>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#64748b" flood-opacity="0.14"/>
+    </filter>
+    <marker id="arrowGold" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L12,5 L0,10 Z" fill="#d59b0b"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L12,5 L0,10 Z" fill="#4d7c0f"/>
+    </marker>
+    <marker id="arrowGrey" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto">
+      <path d="M0,0 L12,5 L0,10 Z" fill="#4b5563"/>
+    </marker>
+  </defs>
+
+  <rect width="1800" height="1050" fill="#ffffff"/>
+  <text x="900" y="58" text-anchor="middle" class="title">APS_F3_Evolution: The Evolutionary Pathway</text>
+  <text x="900" y="98" text-anchor="middle" class="subtitle">Evolution as the Historical Transformation of Organised Persistence</text>
+
+  <rect x="505" y="125" width="790" height="100" rx="14" fill="#fff9e8" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+  <path d="M585 150 L625 166 L625 202 L585 215 L545 202 L545 166 Z" fill="none" stroke="#6b7c2a" stroke-width="4"/>
+  <path d="M585 165 L585 204" stroke="#6b7c2a" stroke-width="4"/>
+  <path d="M585 177 C565 170, 560 158, 560 158 C580 162, 585 177, 585 177 Z" fill="none" stroke="#6b7c2a" stroke-width="4"/>
+  <path d="M585 190 C605 183, 610 171, 610 171 C590 175, 585 190, 585 190 Z" fill="none" stroke="#6b7c2a" stroke-width="4"/>
+  <text x="660" y="160" class="top-title">VIABILITY</text>
+  <text x="660" y="188" class="top-body">The capacity to maintain organisation and continue living.</text>
+  <text x="660" y="214" class="top-body">All evolutionary processes are grounded in <tspan font-weight="700">viability</tspan>.</text>
+
+  <rect x="640" y="250" width="520" height="108" rx="14" fill="#f8f7e8" stroke="#6b7c2a" class="box" filter="url(#softShadow)"/>
+  <path d="M705 295 A34 34 0 0 1 760 270" fill="none" stroke="#6b7c2a" stroke-width="7"/>
+  <path d="M760 270 L752 296 L779 287" fill="#6b7c2a"/>
+  <path d="M775 314 A34 34 0 0 1 720 339" fill="none" stroke="#6b7c2a" stroke-width="7"/>
+  <path d="M720 339 L728 313 L701 322" fill="#6b7c2a"/>
+  <text x="820" y="292" class="persist-title">PERSISTENCE</text>
+  <text x="820" y="323" class="persist-body">Organised continuity through time</text>
+  <text x="820" y="349" class="persist-body">despite perturbation.</text>
+  <line x1="900" y1="225" x2="900" y2="250" class="arrow-green" marker-end="url(#arrowGreen)"/>
+
+  <path d="M160 360 L1530 360" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <text x="1245" y="285" class="small-note">Persistent organisation enables,</text>
+  <text x="1245" y="315" class="small-note">constrains, and guides</text>
+  <text x="1245" y="345" class="small-note">evolutionary change.</text>
+
+  <!-- Evolution cards simplified as seven governed panels -->
+  <g id="cards">
+    <g transform="translate(70 420)">
+      <rect width="190" height="350" rx="12" fill="#fffaf0" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="35" text-anchor="middle" class="card-title">1. VARIATION</text>
+      <circle cx="95" cy="100" r="50" fill="#fff4cf" stroke="#d59b0b" stroke-width="2"/>
+      <circle cx="62" cy="90" r="9" fill="#c9870b"/><circle cx="92" cy="72" r="8" fill="#c9870b"/><circle cx="118" cy="94" r="7" fill="#c9870b"/>
+      <rect x="76" y="110" width="16" height="16" fill="#c9870b"/><polygon points="108,115 120,135 96,135" fill="#c9870b"/>
+      <text x="95" y="185" text-anchor="middle" class="card-body">Differences arise</text>
+      <text x="95" y="210" text-anchor="middle" class="card-body">within and among</text>
+      <text x="95" y="235" text-anchor="middle" class="card-body">organised systems.</text>
+      <text x="95" y="260" text-anchor="middle" class="card-body">Sources include</text>
+      <text x="95" y="285" text-anchor="middle" class="card-body">mutation, development,</text>
+      <text x="95" y="310" text-anchor="middle" class="card-body">recombination, and</text>
+      <text x="95" y="335" text-anchor="middle" class="card-body">environmental influence.</text>
+    </g>
+    <g transform="translate(290 420)">
+      <rect width="190" height="350" rx="12" fill="#fffaf0" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="35" text-anchor="middle" class="card-title">2. ADAPTATION</text>
+      <path d="M50 80 h45 v45 h-45 z M95 80 h45 v45 h-45 z M50 125 h45 v45 h-45 z M95 125 h45 v45 h-45 z" fill="#d4a017" opacity="0.92"/>
+      <circle cx="95" cy="125" r="12" fill="#ffffff"/>
+      <text x="95" y="185" text-anchor="middle" class="card-body">Differential interactions</text>
+      <text x="95" y="210" text-anchor="middle" class="card-body">with environments</text>
+      <text x="95" y="235" text-anchor="middle" class="card-body">lead to adjustments</text>
+      <text x="95" y="260" text-anchor="middle" class="card-body">that support continued</text>
+      <text x="95" y="285" text-anchor="middle" class="card-body">viable functioning.</text>
+    </g>
+    <g transform="translate(510 420)">
+      <rect width="190" height="350" rx="12" fill="#fffaf0" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="35" text-anchor="middle" class="card-title">3. INHERITANCE</text>
+      <path d="M75 75 C130 105, 60 140, 115 170" stroke="#c9870b" stroke-width="6" fill="none"/>
+      <path d="M115 75 C60 105, 130 140, 75 170" stroke="#c9870b" stroke-width="6" fill="none"/>
+      <line x1="80" y1="100" x2="110" y2="100" stroke="#c9870b" stroke-width="4"/>
+      <line x1="80" y1="125" x2="110" y2="125" stroke="#c9870b" stroke-width="4"/>
+      <line x1="80" y1="150" x2="110" y2="150" stroke="#c9870b" stroke-width="4"/>
+      <text x="95" y="185" text-anchor="middle" class="card-body">Heritable organisation</text>
+      <text x="95" y="210" text-anchor="middle" class="card-body">and information are</text>
+      <text x="95" y="235" text-anchor="middle" class="card-body">passed to descendants,</text>
+      <text x="95" y="260" text-anchor="middle" class="card-body">carrying forward</text>
+      <text x="95" y="285" text-anchor="middle" class="card-body">propensities for</text>
+      <text x="95" y="310" text-anchor="middle" class="card-body">future functioning.</text>
+    </g>
+    <g transform="translate(730 420)">
+      <rect width="190" height="350" rx="12" fill="#fffaf0" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="35" text-anchor="middle" class="card-title">4. FITNESS</text>
+      <path d="M45 135 A55 55 0 0 1 145 135" fill="none" stroke="#d4a017" stroke-width="8"/>
+      <line x1="95" y1="135" x2="130" y2="90" stroke="#d4a017" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="95" cy="135" r="8" fill="#d4a017"/>
+      <text x="95" y="185" text-anchor="middle" class="card-body">The relative capacity</text>
+      <text x="95" y="210" text-anchor="middle" class="card-body">of organisms to</text>
+      <text x="95" y="235" text-anchor="middle" class="card-body">persist and reproduce</text>
+      <text x="95" y="260" text-anchor="middle" class="card-body">in given conditions.</text>
+      <text x="95" y="285" text-anchor="middle" class="card-body">Context-dependent and</text>
+      <text x="95" y="310" text-anchor="middle" class="card-body">historically situated.</text>
+    </g>
+    <g transform="translate(950 420)">
+      <rect width="190" height="350" rx="12" fill="#fffaf0" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="28" text-anchor="middle" class="card-title">5. NATURAL</text>
+      <text x="95" y="52" text-anchor="middle" class="card-title">SELECTION</text>
+      <path d="M50 80 L140 80 L105 135 L85 135 Z" fill="#ffe7a3" stroke="#d59b0b" stroke-width="4"/>
+      <circle cx="78" cy="165" r="6" fill="#d59b0b"/><circle cx="98" cy="180" r="6" fill="#d59b0b"/><circle cx="118" cy="165" r="6" fill="#d59b0b"/>
+      <text x="95" y="205" text-anchor="middle" class="card-body">Environmental</text>
+      <text x="95" y="230" text-anchor="middle" class="card-body">conditions differentially</text>
+      <text x="95" y="255" text-anchor="middle" class="card-body">affect success.</text>
+      <text x="95" y="280" text-anchor="middle" class="card-body">Selection filters</text>
+      <text x="95" y="305" text-anchor="middle" class="card-body">already existing</text>
+      <text x="95" y="330" text-anchor="middle" class="card-body">variation.</text>
+    </g>
+    <g transform="translate(1170 420)">
+      <rect width="190" height="350" rx="12" fill="#fffaf0" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="28" text-anchor="middle" class="card-title">6. EVOLUTIONARY</text>
+      <text x="95" y="52" text-anchor="middle" class="card-title">CHANGE</text>
+      <line x1="45" y1="135" x2="150" y2="80" stroke="#d59b0b" stroke-width="4"/>
+      <circle cx="45" cy="135" r="8" fill="#d59b0b"/><circle cx="70" cy="115" r="8" fill="#d59b0b"/><circle cx="100" cy="105" r="8" fill="#d59b0b"/><circle cx="125" cy="80" r="8" fill="#d59b0b"/><circle cx="150" cy="80" r="8" fill="#d59b0b"/>
+      <text x="95" y="185" text-anchor="middle" class="card-body">Over generations,</text>
+      <text x="95" y="210" text-anchor="middle" class="card-body">populations change</text>
+      <text x="95" y="235" text-anchor="middle" class="card-body">as distributions of</text>
+      <text x="95" y="260" text-anchor="middle" class="card-body">heritable traits shift.</text>
+      <text x="95" y="285" text-anchor="middle" class="card-body">Lineages diverge and</text>
+      <text x="95" y="310" text-anchor="middle" class="card-body">diversify.</text>
+    </g>
+    <g transform="translate(1390 420)">
+      <rect width="190" height="350" rx="12" fill="#fff4d6" stroke="#d59b0b" class="box" filter="url(#softShadow)"/>
+      <text x="95" y="35" text-anchor="middle" class="card-title">7. EVOLUTION</text>
+      <circle cx="95" cy="105" r="48" fill="#fff8e5" stroke="#d59b0b" stroke-width="3"/>
+      <path d="M95 135 L95 85 M95 105 C75 100, 68 85, 68 85 M95 105 C115 100, 125 85, 125 85 M95 125 C74 126, 64 142, 64 142 M95 125 C118 128, 128 142, 128 142" stroke="#d59b0b" stroke-width="4" fill="none"/>
+      <text x="95" y="185" text-anchor="middle" class="card-body">The historical</text>
+      <text x="95" y="210" text-anchor="middle" class="card-body">transformation of</text>
+      <text x="95" y="235" text-anchor="middle" class="card-body">organised persistence,</text>
+      <text x="95" y="260" text-anchor="middle" class="card-body">producing diversity</text>
+      <text x="95" y="285" text-anchor="middle" class="card-body">of life through</text>
+      <text x="95" y="310" text-anchor="middle" class="card-body">descent with modification.</text>
+    </g>
+  </g>
+
+  <line x1="260" y1="545" x2="290" y2="545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <line x1="480" y1="545" x2="510" y2="545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <line x1="700" y1="545" x2="730" y2="545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <line x1="920" y1="545" x2="950" y2="545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <line x1="1140" y1="545" x2="1170" y2="545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <line x1="1360" y1="545" x2="1390" y2="545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+
+  <line x1="165" y1="360" x2="165" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <line x1="385" y1="360" x2="385" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <line x1="605" y1="360" x2="605" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <line x1="825" y1="358" x2="825" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <line x1="1045" y1="360" x2="1045" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <line x1="1265" y1="360" x2="1265" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+  <line x1="1485" y1="360" x2="1485" y2="420" class="arrow-green" marker-end="url(#arrowGreen)"/>
+
+  <path d="M1580 545 C1665 520, 1665 430, 1715 380" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <path d="M1580 545 C1665 520, 1675 500, 1720 485" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <path d="M1580 545 C1665 545, 1675 545, 1725 545" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <path d="M1580 545 C1665 570, 1675 600, 1720 620" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <path d="M1580 545 C1665 595, 1665 690, 1715 735" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <text x="1680" y="630" class="side-title">DIVERSIFICATION</text>
+  <text x="1680" y="660" class="side-body">New lineages,</text>
+  <text x="1680" y="685" class="side-body">forms, and</text>
+  <text x="1680" y="710" class="side-body">functions arise</text>
+  <text x="1680" y="735" class="side-body">over evolutionary</text>
+  <text x="1680" y="760" class="side-body">time.</text>
+
+  <path d="M1485 770 L1485 815 L165 815 L165 770" class="arrow-feedback" marker-end="url(#arrowGold)"/>
+  <line x1="385" y1="815" x2="385" y2="770" class="arrow-feedback" marker-end="url(#arrowGold)"/>
+  <line x1="605" y1="815" x2="605" y2="770" class="arrow-feedback" marker-end="url(#arrowGold)"/>
+  <line x1="825" y1="815" x2="825" y2="770" class="arrow-feedback" marker-end="url(#arrowGold)"/>
+  <line x1="1045" y1="815" x2="1045" y2="770" class="arrow-feedback" marker-end="url(#arrowGold)"/>
+  <line x1="1265" y1="815" x2="1265" y2="770" class="arrow-feedback" marker-end="url(#arrowGold)"/>
+  <text x="900" y="845" text-anchor="middle" class="feedback-title">FEEDBACK LOOPS</text>
+  <text x="900" y="872" text-anchor="middle" class="feedback-body">Selection and adaptation shape the conditions under which variation and inheritance operate.</text>
+
+  <line x1="125" y1="920" x2="1575" y2="920" stroke="#4b5563" stroke-width="4" marker-end="url(#arrowGrey)"/>
+  <text x="65" y="927" class="axis">PAST</text>
+  <text x="900" y="927" text-anchor="middle" class="axis">DEEP TIME</text>
+  <text x="1595" y="927" class="axis">FUTURE</text>
+  <text x="900" y="960" text-anchor="middle" font-size="18" font-style="italic" fill="#4b5563">Evolution is a continuous process unfolding across generations and deep time.</text>
+
+  <rect x="45" y="980" width="395" height="60" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="75" y="1018" class="key-title">KEY</text>
+  <line x1="150" y1="1015" x2="210" y2="1015" class="arrow-gold" marker-end="url(#arrowGold)"/>
+  <text x="230" y="1020" class="key-text">explanatory flow</text>
+  <rect x="470" y="980" width="850" height="60" rx="12" fill="#fffaf0" stroke="#d59b0b" stroke-width="2"/>
+  <text x="495" y="1018" class="caption-title">Caption:</text>
+  <text x="585" y="1018" class="caption-body">Evolution is the historical transformation of viable, organised persistence.</text>
+  <rect x="1350" y="980" width="405" height="60" rx="12" fill="#fffaf0" stroke="#d59b0b" stroke-width="2"/>
+  <text x="1380" y="1018" class="insight-title">APS insight:</text>
+  <text x="1490" y="1018" class="insight-body">Viability is prior to selection.</text>
+</svg>

@@ -220,6 +220,24 @@ This sequence does not introduce separate substances or explanatory domains.
 
 It makes explicit an organisational structure already implicit within living systems.
 
+<figure class="article-visual article-visual--wide">
+  <a
+    href="/assets/diagrams/cognition-visual.png"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="/assets/diagrams/cognition-visual.png"
+      alt="Cognition in APS as a development from viability, evaluation, semiosis, meaning, information, and representation toward temporally extended cognition."
+      loading="lazy"
+    />
+  </a>
+
+  <figcaption>
+    Cognition in APS: cognition is not the basis of life, but a downstream organisational development of viability-oriented evaluation, semiosis, meaning, information, and representation. Click image to enlarge.
+  </figcaption>
+</figure>
+
 > **Where this concept fits:** This article clarifies the organisational position of cognition within APS. Cognition is treated neither as the defining basis of life nor as an isolated mental faculty, but as a specialised development of evaluative semiosis within viability-oriented systems. For the broader architectural structure of APS, see *APS Architecture Map — Navigating the Framework*.
 
 [[box:what-aps-means-by-cognition]]
