@@ -12,7 +12,7 @@ abstract: >
 status: "canonical"
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-05-17
+revised: 2026-05-19
 cluster: "conceptual-foundations"
 
 keyPoints:
@@ -57,6 +57,7 @@ relatedArticles:
   - aps-architecture-map
   - what-is-aps
   - explanatory-geometry-of-biology
+  - organisational-realism-in-biology
   - from-life-to-explanation-emerging-architecture
   - analysis-synthesis-and-the-direction-of-explanation
   - adaptation-how-living-systems-sustain-themselves-through-change
@@ -198,7 +199,7 @@ The question was no longer whether living systems obey physical law. Few serious
 
 In this sense philosophy returns not as an external critique of biology, but as the clarification of biology’s own explanatory conditions.
 
-> **Where this article fits:** This article interprets APS philosophically after the framework’s core explanatory structure has already been established. For the conceptual structure of APS itself, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)* and *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*. For a broader overview of the framework and its major conceptual pathways, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this article fits:** This article presents APS as a broad philosophical reconstruction of biological intelligibility. Its aim is not primarily to defend the ontological reality of biological organisation — a task developed separately in *[Organisational Realism in Biology](/articles/organisational-realism-in-biology/)* — but to clarify how biological explanation itself becomes organised around viability-oriented persistence, explanatory grammar, normativity, cognition, evolution, and organised continuity.
 
 APS therefore does not reject mechanistic biology where mechanistic explanation is appropriate, nor does it replace empirical biology with speculative metaphysics.
 
@@ -243,9 +244,9 @@ To say that biological organisation is scale-integrated is to reject the idea th
 
 APS therefore no longer functions merely as an integrative biological framework. It becomes a philosophical reconstruction of the explanatory conditions presupposed by biological practice itself.
 
-Ontology and explanation consequently remain closely related within APS because the organisational conditions that make living systems biologically real are also the conditions that make them biologically intelligible.
+Ontology and explanation consequently remain closely related within APS because the organisational conditions that make living systems biologically intelligible are also the conditions that make biological explanation possible.
 
-APS therefore attempts not merely to redescribe biological findings, but to make explicit the organisational form of reality implied by them.
+APS therefore attempts not merely to redescribe biological findings, but to make explicit the organisational form of intelligibility implied by them.
 
 ## Explanatory Grammar and Biological Intelligibility
 
@@ -509,13 +510,13 @@ APS consequently attempts to reconnect conceptual clarity with empirical investi
 
 ## Biological Reality as Organised Persistence
 
-APS ultimately proposes that biological reality is organisational before it is classificatory.
+APS ultimately proposes that biological intelligibility is organisational before it is classificatory.
 
 Living systems are not fundamentally collections of traits, mechanisms, substances, or informational codes to which persistence is subsequently added.
 
 They are dynamically organised forms of persistence whose continued existence depends upon the ongoing regeneration of the conditions enabling their own activity.
 
-This shift has broad philosophical implications.
+This shift has broad explanatory implications.
 
 Identity becomes organised continuity rather than static material sameness.
 
@@ -531,7 +532,7 @@ Evolution becomes the historical transformation of persistence across generation
 
 Biological intelligibility therefore depends upon understanding how living systems sustain themselves as organised processes across time and scale.
 
-APS consequently proposes not merely that life is organised, but that biological reality itself is fundamentally processual, relational, and persistence-structured.
+APS consequently proposes not merely that life is organised, but that biological explanation itself must be reconstructed around organised persistence.
 
 ## Conclusion
 
@@ -549,7 +550,7 @@ They instead become intelligible as interconnected dimensions of organised persi
 
 APS therefore operates simultaneously:
 - as an explanatory grammar,
-- as an organisational ontology,
+- as a philosophical reconstruction of biological intelligibility,
 - and as a methodological orientation for biological inquiry.
 
 Its aim is not to replace existing biological approaches, but to clarify their organisational relations and situate them within a more coherent account of living systems.

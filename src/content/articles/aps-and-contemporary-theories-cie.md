@@ -5,7 +5,7 @@ slug: aps-and-contemporary-theories
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+revised: 2026-05-19
 cluster: conceptual-foundations
 
 abstract: >
@@ -87,7 +87,7 @@ Different frameworks often explain different aspects of living systems while rel
 
 Each captures something important.
 
-None, however, fully explains what makes a system a living system in the first place. :contentReference[oaicite:0]{index=0}
+None, however, fully explains what makes a system a living system in the first place.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
@@ -99,13 +99,13 @@ The central question therefore becomes:
 
 > *What kind of organisation must exist for any biological process, mechanism, information flow, adaptive behaviour, or cognitive activity to count as part of a living system at all?*
 
-From this perspective, contemporary theories are not simply right or wrong. They are partial.
+From this perspective, contemporary theories are not simply right or wrong. They are partial explanatory orientations.
 
 Each identifies important dimensions of biological organisation while often treating one explanatory aspect as if it were explanatorily fundamental.
 
 APS instead attempts to situate these insights within a broader explanatory grammar grounded in viability-oriented, constraint-closed, scale-integrated persistence.
 
-> **Where this article fits:** This article situates APS in relation to neighbouring approaches in biology, cognition, systems theory, and philosophy of biology. It does not introduce the core structure of APS itself, but clarifies how APS reorganises and integrates insights from existing frameworks. For the conceptual architecture of APS, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)* and *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*. For a broader overview of the framework and its conceptual pathways, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this article fits:** This article situates APS comparatively in relation to neighbouring frameworks in biology, cognition, systems theory, and philosophy of biology. Its purpose is not to present the full APS framework, defend organisational realism, or reconstruct biological intelligibility in general, but to clarify how APS integrates, constrains, extends, and reorganises insights from existing theoretical approaches. For the broader philosophical reconstruction of APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*. For the formal explanatory structure of APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -116,7 +116,7 @@ Readers new to APS should usually proceed through the following sequence:
 1. *[What Is APS?](/orientation/what-is-aps/)*
 2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
 3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-the-framework-fits-together/)*
 5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
 7. *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
@@ -153,9 +153,9 @@ In each case, the explanatory domain already presupposes organised persistence.
 
 APS therefore argues that many contemporary theories remain explanatorily incomplete not because they are false, but because they begin from organisational consequences rather than from the conditions making those consequences possible.
 
-This distinction is central.
+This distinction is central to the comparative architecture of APS.
 
-APS does not deny the explanatory importance of genes, information, regulation, prediction, or cognition. Instead, it asks what organisational conditions must already exist for these processes to operate within living systems at all.
+The framework does not deny the explanatory importance of genes, information, regulation, prediction, or cognition. Instead, it asks what organisational conditions must already exist for these processes to operate within living systems at all.
 
 ## The APS Perspective
 
@@ -252,6 +252,8 @@ APS therefore operates integratively without collapsing into unrestricted theore
 
 Rather than simply combining concepts from multiple traditions, APS attempts to specify the organisational conditions under which those concepts become biologically meaningful.
 
+The framework therefore aims for explanatory integration without reduction, and pluralism without fragmentation.
+
 ## Contemporary Convergences
 
 Recent developments in life-inspired machine intelligence, multiscale agency, and systems cognition increasingly converge on themes central to APS.
@@ -317,6 +319,6 @@ For a more structured pathway through the framework:
 
 Taken together, these articles show how APS attempts to transform a fragmented theoretical landscape into a more integrated account of biological organisation.
 
-The goal is not theoretical unification through reduction.
+The goal is not theoretical unification through reduction, nor unrestricted pluralism without explanatory constraint.
 
 It is explanatory integration through viability-oriented organised persistence.

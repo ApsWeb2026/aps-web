@@ -275,6 +275,8 @@ This includes:
 
 APS consequently treats malfunction not merely as defect identification, but as the analysis of continuity impairment within organised persistence.
 
+APS therefore treats malfunction not as an isolated defect state, but as part of a broader continuity structure linking perturbation, compensation, resilience, recovery, and failure within viability-oriented organised persistence. Malfunction becomes diagnostically significant because it reveals how biological systems sustain, reorganise, or lose continuity under changing conditions.
+
 # Summary
 
 In APS, malfunction is the impairment, disruption, or breakdown of organisational dynamics required for viability-oriented persistence.

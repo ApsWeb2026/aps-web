@@ -253,6 +253,16 @@ APS therefore distinguishes clearly between:
 - biological malfunction,
 - and organisational collapse.
 
+<figure class="aps-diagram aps-diagram--zoomable">
+  <img
+    src="/assets/diagrams/diagnosis-visual.png"
+    alt="Diagnosis in APS: continuity, disruption, malfunction, breakdown, and death as different states of organised persistence"
+  />
+  <figcaption>
+    <strong>Diagnosis.</strong> In APS, diagnosis asks whether organised persistence is being maintained, disrupted, degraded, or lost. Malfunction, breakdown, and death are therefore not merely external labels, but different ways in which the continuity of biological organisation can fail.
+  </figcaption>
+</figure>
+
 ## Failure as a Diagnostic Window Into Life
 
 APS treats failure as a powerful diagnostic window into biological organisation. For the broader APS account of diagnosis, perturbation, resilience, malfunction, recovery, and continuity impairment within living systems, see *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*, together with the glossary entries on *[Resilience](/glossary/resilience/)* and *[Malfunction](/glossary/malfunction/)*.

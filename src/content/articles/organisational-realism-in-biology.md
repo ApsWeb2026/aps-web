@@ -112,6 +112,8 @@ references:
 
 # Organisational Realism in Biology
 
+> **Where this article fits:** This article does not attempt to present the APS framework in its entirety. Its narrower aim is to defend the ontological and explanatory reality of biological organisation itself. For the broader philosophical reconstruction of biology developed within APS, including explanatory grammar, normativity, cognition, and organised persistence, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+
 Biology is often treated as descriptively successful but ontologically unstable. Organisms, functions, goals, agency, information, and organisation are frequently interpreted as explanatory conveniences rather than as objectively real features of the world. Within strongly reductionist frameworks, the ultimate reality of biological systems is often identified exclusively with lower-level physical entities and processes, while higher-order biological organisation is regarded as derivative, heuristic, or merely observer-relative.
 
 APS rejects this conclusion.
@@ -255,8 +257,6 @@ Functions matter because they contribute to persistence.
 
 Information matters because differences affect viability.
 
-Cognition matters because evaluative organisation becomes increasingly integrated and temporally extended.
-
 APS therefore neither dissolves organisation into microphysics nor treats wholes as mysterious entities beyond analysis. Instead, it explains biological reality through the structured organisation of viable persistence across agency, process, and scale.
 
 [[box:the-organisational-grammar-of-aps]]
@@ -336,92 +336,60 @@ The reality of biological organisation is therefore not secondary to biological 
 
 APS consequently treats organisational structure not as explanatory decoration layered onto biology, but as the central reality that biological science progressively reveals.
 
-# Organisational Realism and the Naturalisation of Biology
+# Organisational Realism and Biological Naturalisation
 
-APS does not merely defend the reality of biological organisation. It also proposes a distinctive account of how biology itself becomes scientifically intelligible.
+APS does not naturalise biology by eliminating purposive or normative concepts. It naturalises them organisationally.
 
-Many central biological concepts have historically appeared philosophically unstable within strongly mechanistic scientific frameworks. Concepts such as:
-- function;
-- purpose;
-- normativity;
-- agency;
-- meaning;
-- semiosis;
-- and cognition
-
-have often been treated as:
-- anthropomorphic projections;
-- heuristic conveniences;
-- observer-relative descriptions;
-- or incomplete placeholders awaiting reduction to lower-level physical explanation.
-
-Much of modern philosophy of biology has therefore attempted to naturalise these concepts by:
-- eliminating them;
-- reducing them;
-- translating them into statistical language;
-- or reconstructing them entirely in terms of selection history or information processing.
-
-APS develops a different strategy.
-
-Rather than eliminating purposive and normative biological concepts, APS explains why such concepts emerge naturally within living systems themselves.
-
-The central claim is that viability-oriented organisation generates real asymmetries within biological systems:
+Within viability-oriented systems:
 - some states support persistence;
 - others undermine it;
-- some processes maintain organisation;
-- others destabilise it.
+- some processes stabilise organisation;
+- others contribute to breakdown.
 
-Living systems are therefore not organisationally neutral. Their activity is structured relative to the conditions required for continued persistence.
+Living systems are therefore not organisationally neutral. Their activity is structured relative to conditions required for continued persistence.
 
 This changes the explanatory status of many biological concepts.
 
-Function becomes naturalised because biological activity genuinely contributes to maintaining viable organisation.
+Function becomes biologically intelligible because activity genuinely contributes to persistence.
 
-Purpose becomes naturalised because living systems are organised toward sustaining the conditions of their own persistence.
+Purpose becomes biologically intelligible because living systems are organised toward sustaining the conditions of their own continued existence.
 
-Normativity becomes naturalised because viability establishes real distinctions between organisational success and failure.
+Normativity becomes biologically intelligible because viability establishes real distinctions between organisational success and failure.
 
-Agency becomes naturalised because systems actively regulate activity relative to persistence conditions.
+Agency becomes biologically intelligible because systems actively regulate activity relative to persistence conditions.
 
-Semiosis and meaning become naturalised because environmental differences acquire biological significance within viability-oriented regulation.
+Semiosis and meaning become biologically intelligible because environmental differences acquire significance within viability-oriented regulation.
 
-Cognition becomes naturalised because evaluative organisation becomes increasingly integrated, flexible, and temporally extended.
-
-APS therefore proposes that biology does not merely use purposive language metaphorically. Biological organisation itself generates the conditions under which purposive and normative explanation become scientifically legitimate.
+APS therefore argues that purposive and normative biological language is not merely metaphorical or observer-imposed. Such concepts track real organisational asymmetries within living systems themselves.
 
 This is one of the central implications of organisational realism.
 
-APS does not naturalise biology by stripping biology of function, purpose, agency, or meaning. It naturalises them by grounding them within the real organisational dynamics of living persistence.
+APS consequently reframes biology not as a science forced to tolerate purposive language despite mechanistic foundations, but as a science whose explanatory structure reflects the real organisational properties of living systems.
 
-In this respect APS extends the broader historical process through which science has progressively naturalised domains once regarded as philosophically problematic or scientifically inaccessible.
+# Conclusion
 
-Earlier scientific developments naturalised:
-- motion;
-- chemistry;
-- heredity;
-- and evolution.
+APS develops a form of organisational realism grounded in viability-oriented organised persistence.
 
-APS contributes to the naturalisation of:
-- biological purposiveness;
-- organisational normativity;
-- agency;
-- meaning;
-- and cognition.
+Biological explanation succeeds because living systems genuinely exhibit:
+- organisational continuity;
+- viability constraints;
+- persistence-maintaining regulation;
+- adaptive coordination;
+- and scale-integrated forms of activity.
 
-This does not place biology outside the natural world. It clarifies how these organisational phenomena emerge within it.
+Organisation is therefore not merely descriptive shorthand layered onto an underlying physical reality. It is itself part of biological reality.
 
-APS therefore reframes biology not as a science forced to tolerate purposive language despite its mechanistic foundations, but as a science whose explanatory structure reflects the real organisational properties of living systems themselves.
+APS consequently rejects:
+- eliminative reductionism;
+- observer-relative accounts of biological organisation;
+- and the treatment of function, agency, normativity, or persistence as merely heuristic abstractions.
 
-The result is a form of organisational realism in which:
-- explanation;
-- function;
-- agency;
-- semiosis;
-- cognition;
-- and persistence
+Instead, APS argues that biological science progressively discovers real organisational structures through which living systems sustain themselves across time.
 
-become intelligible as interconnected dimensions of viability-oriented biological organisation rather than as isolated conceptual anomalies requiring independent philosophical justification.
-
+Organisational realism therefore becomes:
+- an ontological claim about life,
+- an explanatory claim about biology,
+- and a methodological claim about what biological inquiry must ultimately explain.
 
 ## Related Pathways
 

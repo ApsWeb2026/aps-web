@@ -122,6 +122,16 @@ The central claim of this article is therefore:
 
 > diagnosis is the analysis of how organised persistence is sustained, disrupted, reorganised, or lost across time.
 
+<figure class="aps-diagram aps-diagram--wide">
+  <img
+    src="/assets/diagrams/diagnosis-visual.png"
+    alt="Diagnosis in APS: continuity, disruption, malfunction, breakdown, and death as different states of organised persistence"
+  />
+  <figcaption>
+    <strong>Diagnosis.</strong> In APS, diagnosis asks whether organised persistence is being maintained, disrupted, degraded, or lost. Malfunction, breakdown, and death are therefore not merely external labels, but different ways in which the continuity of biological organisation can fail.
+  </figcaption>
+</figure>
+
 [[box:aps-box-what-is-explanatory-grammar]]
 
 # Why Diagnosis Matters in Biology

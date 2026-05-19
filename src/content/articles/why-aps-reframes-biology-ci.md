@@ -5,7 +5,7 @@ slug: why-aps-reframes-biology
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-05-12
+revised: 2026-05-19
 cluster: conceptual-foundations
 abstract: >
   APS does not merely introduce another theory within biology. It argues that
@@ -13,6 +13,7 @@ abstract: >
   constraint-closed organisation sustained across time. This article explains
   how APS grounds, reframes, and organisationally deepens prevailing biological
   concepts by reconstructing biology around organised persistence.
+
 relatedGlossaryTerms:
   - biological-organisation
   - viability
@@ -26,19 +27,24 @@ relatedGlossaryTerms:
   - evolution
   - normativity
   - explanatory-direction
+
 relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
-  - description-explanation-and-definition-in-biology
   - aps-as-philosophy-viability-oriented-account
+  - organisational-realism-in-biology
+  - description-explanation-and-definition-in-biology
   - explanatory-priority-is-not-ontological-priority
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
   - why-life-is-not-computation-an-aps-clarification
+
 ---
 
 # Why APS Reframes Biology
+
+> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture — developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)* — nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Its aim is to clarify why APS changes the explanatory centre of gravity within biology itself.
 
 Biology possesses extraordinarily powerful explanatory frameworks.
 
@@ -253,6 +259,8 @@ It is a framework for reconstructing biological intelligibility around organised
 
 Its central claim is that life becomes explanatorily coherent when understood as viability-oriented organisation sustained through the coordinated interaction of agency, process, and scale across time.
 
-APS therefore seeks to explain not merely *how* biological systems operate, but *why* biological explanation takes the form that it does.
+APS therefore seeks to explain not merely *how* biological systems operate, but why biological explanation itself takes the organisational form that it does.
+
+APS does not simply add another theory to biology. It reconstructs the explanatory relations connecting mechanism, function, evolution, cognition, normativity, and persistence within a unified account of living organisation.
 
 That is why APS reframes biology.

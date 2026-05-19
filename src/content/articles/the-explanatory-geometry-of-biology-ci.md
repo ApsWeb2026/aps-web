@@ -5,7 +5,7 @@ slug: explanatory-geometry-of-biology
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-05-17
+revised: 2026-05-19
 cluster: conceptual-foundations
 
 abstract: >
@@ -47,6 +47,8 @@ relatedArticles:
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - aps-as-philosophy-viability-oriented-account
+  - why-aps-reframes-biology
+  - organisational-realism-in-biology
   - reductionism-in-biology-an-aps-clarification
   - multiple-realization-and-biological-organisation
   - cognition-where-does-it-belong-in-biology
@@ -89,7 +91,7 @@ Molecular biology, physiology, development, ecology, cognition, and evolution fr
 
 APS addresses this problem by making explicit the organisational structure through which biological explanation is coordinated.
 
-> **Where this article fits:** This article explains how APS organises biological explanation through the mutually constraining relations of agency, process, and scale. It forms the bridge between the formal conceptual structure of APS and its broader explanatory implications across evolution, cognition, diagnosis, and philosophy of biology. For a broader overview of those pathways, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this article fits:** This article develops the formal explanatory structure of APS. Its focus is not primarily ontological, strategic, or philosophical reconstruction, but the organisation of biological explanation itself through the mutually constraining relations of agency, process, and scale. For the broader philosophical implications of APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*. For a concise overview of why APS reorganises biological explanation, see *[Why APS Reframes Biology](/articles/why-aps-reframes-biology/)*.
 
 APS reorganises biological explanation around the organisational conditions required for viability-oriented persistence.
 
@@ -133,7 +135,7 @@ Process always unfolds across scale.
 
 Scale becomes biologically meaningful only insofar as activity persists across it.
 
-Biological explanation therefore concerns not merely the identification of mechanisms or causal sequences, but the coordination of organisation, activity, and persistence within living systems.
+Biological explanation therefore concerns not merely the identification of mechanisms or causal sequences, but the coordination of organisation, activity, persistence, and explanatory relation within living systems.
 
 Within APS, increasingly specialised explanatory domains emerge progressively from prior organisational conditions rather than functioning as independent foundations of biological explanation.
 
@@ -147,7 +149,9 @@ APS refers to an explanatory *geometry* because different biological explanation
 - the temporal scale under investigation;
 - and the organisational relations being analysed.
 
-Yet these explanations remain connected because they refer back to the same underlying structure of living organisation.
+Different explanatory orientations therefore reveal different regions of the same organisational structure.
+
+Yet these explanations remain connected because they refer back to the same underlying relations of viability-oriented persistence.
 
 Biology is therefore explained neither through isolated mechanisms nor through undifferentiated wholes, but through the structured relations by which agency, process, and scale sustain persistence.
 
@@ -326,17 +330,13 @@ They are different expressions of a common explanatory grammar organised around 
 
 ## Explanation and Biological Intelligibility
 
-APS proposes that biological explanation possesses an underlying organisational structure that can itself become an object of analysis.
+APS therefore treats biological explanation itself as possessing analysable organisational structure.
 
-The framework does not replace empirical biology, nor does it impose an external philosophical system onto biological inquiry.
+Different explanatory domains do not remain isolated because they are coordinated through shared relations of agency, process, scale, viability, and persistence.
 
-Instead, it attempts to make explicit the explanatory relations already implicit within biological practice.
+The explanatory geometry of biology is therefore not imposed externally onto living systems. It emerges from the organisational structure through which living systems persist across time.
 
-To use APS is therefore not simply to adopt new terminology.
-
-It is to approach biology through a more explicit account of how living systems become intelligible as living systems.
-
-The philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+The broader philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
 
 ## Related Orientation Articles
 

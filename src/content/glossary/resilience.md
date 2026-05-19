@@ -267,6 +267,8 @@ This includes:
 
 APS therefore treats resilience not as passive resistance, but as an active organisational expression of living persistence itself.
 
+Within APS, resilience is not merely resistance to disturbance. It is the capacity of viability-oriented organisation to reorganise continuity under perturbation while preserving persistence across interacting biological scales. Resilience therefore occupies a central place within diagnosis as continuity analysis because it reveals how living systems sustain organised persistence under changing conditions.
+
 # Summary
 
 In APS, resilience is the capacity of viability-oriented living systems to sustain, restore, or reorganise continuity under perturbation.
