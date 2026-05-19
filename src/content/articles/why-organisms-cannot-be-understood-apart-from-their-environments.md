@@ -35,7 +35,7 @@ relatedGlossaryTerms:
   - constraint-closure
 
 relatedArticles:
-  - ecology-as-organised-persistence-across-scale
+  - ecology-as-organised-persistence-across-scales
   - continuity-structure-of-biological-organisation
   - diagnosis-as-continuity-analysis
   - evolution-as-the-historical-transformation-of-organised-persistence

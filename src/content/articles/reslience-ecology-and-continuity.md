@@ -35,7 +35,7 @@ relatedGlossaryTerms:
   - semiosis
 
 relatedArticles:
-  - ecology-as-organised-persistence-across-scale
+  - ecology-as-organised-persistence-across-scales
   - diagnosis-as-continuity-analysis
   - continuity-structure-of-biological-organisation
   - why-organisms-cannot-be-understood-apart-from-their-environments

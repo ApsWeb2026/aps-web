@@ -113,9 +113,11 @@ Diagnosis concerns:
 - and how continuity ultimately fails.
 
 This reframes diagnosis from:
+
 > static abnormality detection
 
 toward:
+
 > continuity analysis across interacting biological scales and processes.
 
 The central claim of this article is therefore:
@@ -125,10 +127,11 @@ The central claim of this article is therefore:
 <figure class="aps-diagram aps-diagram--wide">
   <img
     src="/assets/diagrams/diagnosis-visual.png"
-    alt="Diagnosis in APS: continuity, disruption, malfunction, breakdown, and death as different states of organised persistence"
+    alt="Diagnosis in APS: continuity, perturbation, compensation, malfunction, recovery, and collapse across organised persistence"
   />
   <figcaption>
-    <strong>Diagnosis.</strong> In APS, diagnosis asks whether organised persistence is being maintained, disrupted, degraded, or lost. Malfunction, breakdown, and death are therefore not merely external labels, but different ways in which the continuity of biological organisation can fail.
+    <strong>Figure F3. Diagnosis as Continuity Analysis.</strong>
+    Within APS, diagnosis concerns how organised persistence is maintained, disrupted, compensated, reorganised, or lost under perturbation. Malfunction, resilience, recovery, breakdown, and death therefore represent different continuity states within viability-oriented biological organisation distributed across interacting scales.
   </figcaption>
 </figure>
 
@@ -408,6 +411,7 @@ This reframing allows:
 to be analysed within a unified diagnostic framework.
 
 Diagnosis therefore becomes:
+
 > the analysis of organised persistence under perturbation.
 
 # Diagnosis and Biological Explanation
@@ -446,9 +450,11 @@ Living systems become empirically visible through:
 Diagnosis therefore concerns not merely isolated abnormalities, but the dynamic organisation of persistence across interacting biological scales and processes.
 
 APS consequently reframes diagnosis from:
+
 > static defect identification
 
 toward:
+
 > the analysis of how organised continuity is sustained, reorganised, or lost under changing conditions.
 
 This makes diagnosis central to biological explanation itself because diagnosis reveals:

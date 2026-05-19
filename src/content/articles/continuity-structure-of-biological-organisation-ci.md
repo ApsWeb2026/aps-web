@@ -387,7 +387,7 @@ Ecological perturbation reveals:
 APS consequently approaches ecology not as external background surrounding organisms, but as:
 > distributed continuity organisation within viability-oriented persistence systems.
 
-For the broader APS account of ecological continuity, see *[Ecology as Organised Persistence Across Scale](/articles/ecology-as-organised-persistence-across-scale/)* and *[Why Organisms Cannot Be Understood Apart from Their Environments](/articles/why-organisms-cannot-be-understood-apart-from-their-environments/)*.
+For the broader APS account of ecological continuity, see *[Ecology as Organised Persistence Across Scale](/articles/ecology-as-organised-persistence-across-scales/)* and *[Why Organisms Cannot Be Understood Apart from Their Environments](/articles/why-organisms-cannot-be-understood-apart-from-their-environments/)*.
 
 # Interlocking Continuity Structures
 

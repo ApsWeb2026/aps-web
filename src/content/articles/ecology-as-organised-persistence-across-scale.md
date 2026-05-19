@@ -5,8 +5,8 @@ slug: ecology-as-organised-persistence-across-scales
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-19
-revised: 2026-05-19
-cluster: ecological-and-evolutionary-dynamics
+revised: 2026-05-20
+cluster: conceptual-foundations
 
 abstract: >
   This article develops an organisational interpretation of ecology within
@@ -300,9 +300,22 @@ APS consequently approaches ecology through multiscale continuity structures dis
 - ecological scale;
 - and evolutionary scale.
 
-Ecology therefore becomes one of the clearest expressions of APS scale integration.
-
 Ecological explanation requires understanding how persistence-maintaining relations propagate across interacting spatial and temporal domains.
+
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/ecology-visual.png"
+    alt="Ecology as organised persistence across scales"
+    loading="lazy"
+  />
+</div>
+
+<p class="diagram-caption">
+  <strong>Figure F2. Ecology as Organised Persistence Across Scales.</strong>
+  APS interprets ecology as the distributed organisation of viable persistence across organism–environment systems. Ecological continuity emerges through interacting processes spanning metabolism, behaviour, development, semiosis, resilience, and evolutionary transformation across multiple biological scales.
+</p>
+
+APS therefore treats ecological organisation as a distributed continuity structure rather than a collection of isolated interactions. Organisms, environments, developmental processes, behavioural systems, and evolutionary dynamics together form multiscale relations through which viable persistence becomes possible across time. Ecology consequently becomes one of the clearest demonstrations of how organised persistence propagates across interacting domains of biological activity.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -437,8 +450,6 @@ Living systems persist through recursively organised networks of mutually sustai
 - energetic flows;
 - and environmental structures.
 
-Ecological continuity therefore cannot be reduced to isolated local interactions alone.
-
 Persistence depends upon distributed organisational coupling across scale.
 
 APS consequently approaches ecology as:
@@ -537,7 +548,7 @@ APS consequently treats ecology as:
 
 Ecology therefore becomes one of the clearest demonstrations of the central APS claim:
 
-> living systems are intelligible only as viability-oriented forms of organised persistence distributed across agency, process, and scale.
+> living systems are intelligible only through the multiscale organisation of viable persistence distributed across organism–environment systems, adaptive processes, and evolving continuity structures.
 
 ## Related Pathways
 
