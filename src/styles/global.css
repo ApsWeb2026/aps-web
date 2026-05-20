@@ -1523,132 +1523,65 @@ main .content-wrapper .article-body h3 a {
   border-bottom: none !important;
 }
 
-/* === Diagrams === */
-
-.diagram {
-  max-width: 600px;
-  margin: 2rem auto;
-}
-
-.diagram img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-/* === Referenced By (backlinks) === */
-
-.backlink-more {
-  margin-top: 0.75rem;
-}
-
-.backlink-more summary {
-  cursor: pointer;
-  font-weight: 600;
-  margin-top: 0.5rem;
-}
-
-.backlink-more summary:hover {
-  text-decoration: underline;
-}
-
-/* === Backlink badges refinement === */
-
-.backlink-item {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-
-.badge {
-  font-size: 0.75rem;
-  padding: 0.15rem 0.4rem;
-  border-radius: 4px;
-  opacity: 0.8;
-}
-
-.badge-type {
-  opacity: 0.6;
-}
-
-.article-toc {
-  margin: 2rem 0;
-  padding: 1rem 1.25rem;
-  border-left: 4px solid var(--accent, #6b7280);
-  background: #f8f8f8;
-  border-radius: 0.75rem;
-}
-
-.article-toc h2 {
-  margin-top: 0;
-  font-size: 1.1rem;
-}
-
-.article-toc ol {
-  margin-bottom: 0;
-  padding-left: 1.25rem;
-}
-
-.article-toc li {
-  margin: 0.35rem 0;
-}
-
-.article-toc a {
-  text-decoration: none;
-}
-
-.article-toc a:hover {
-  text-decoration: underline;
-}
-
-.article-toc-list {
-  list-style: none;
-  padding-left: 0;
-}
-
 /* ============================================================
    APS Diagram Architecture System
    ============================================================ */
 
-.architecture-diagram-section {
-  max-width: 1600px;
-  margin: 4rem auto 0;
+/* General diagram containers */
+
+.diagram,
+.figure,
+.aps-diagram {
+  width: min(96vw, 1400px);
+  max-width: none;
+  margin: 2.75rem auto;
+  text-align: center;
 }
 
-.architecture-diagram-wrapper {
+.diagram img,
+.diagram svg,
+.figure img,
+.figure svg,
+.aps-diagram img,
+.aps-diagram svg {
   width: 100%;
-  max-width: 1500px;
-  margin: 2.5rem auto 1.25rem;
-}
-
-.diagram-link {
-  display: block;
-  cursor: zoom-in;
-}
-
-.architecture-diagram {
-  width: 100%;
-  max-width: 1500px;
+  max-width: none;
   height: auto;
   display: block;
   margin: 0 auto;
-  border-radius: 18px;
-  transition: transform 160ms ease;
+  transition: transform 160ms ease, box-shadow 160ms ease;
 }
 
-.diagram-link:hover .architecture-diagram {
+.diagram a,
+.figure a,
+.aps-diagram a {
+  display: block;
+  cursor: zoom-in;
+  text-decoration: none;
+}
+
+.diagram a:hover img,
+.diagram a:hover svg,
+.figure a:hover img,
+.figure a:hover svg,
+.aps-diagram a:hover img,
+.aps-diagram a:hover svg {
   transform: scale(1.01);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
-.diagram-caption {
+/* Captions */
+
+.diagram-caption,
+.aps-diagram-caption,
+.figure figcaption {
+  max-width: 820px;
+  margin: 0.9rem auto 0;
   text-align: center;
   font-family: var(--font-sans);
-  font-size: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
   color: var(--color-text-secondary);
-  max-width: 820px;
-  margin: 1rem auto 0;
-  line-height: 1.65;
   font-style: normal;
 }
 
@@ -1660,63 +1593,27 @@ main .content-wrapper .article-body h3 a {
   opacity: 0.78;
 }
 
-/* Generic APS diagram container */
+/* Homepage canonical diagrams */
 
-.aps-diagram {
-  margin: 2.5rem auto;
-  text-align: center;
-}
-
-.aps-diagram img,
-.aps-diagram svg {
-  width: 100%;
-  max-width: 1000px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.aps-diagram-caption {
-  margin-top: 0.75rem;
-  font-size: 0.92rem;
-  color: var(--color-text-secondary);
-  line-height: 1.5;
-  font-style: italic;
-}
-
-/* ============================================================
-   APS Large Architecture Diagrams
-   ============================================================ */
-
-.aps-diagram-large img {
-  width: 100%;
-  max-width: 1400px;
-  height: auto;
-}
-
-/* ============================================================
-   FINAL OVERRIDE: Homepage canonical diagrams
-   ============================================================ */
-
-.content-wrapper .architecture-diagram-section {
+.architecture-diagram-section {
   width: min(96vw, 1600px);
   max-width: none;
   margin: 4rem calc(50% - min(48vw, 800px)) 0;
 }
 
-.content-wrapper .architecture-diagram-wrapper {
+.architecture-diagram-wrapper {
   width: 100%;
   max-width: none;
   margin: 2.5rem auto 1.25rem;
 }
 
-.content-wrapper .diagram-link {
+.diagram-link {
   display: block;
   cursor: zoom-in;
   text-decoration: none;
 }
 
-.content-wrapper .architecture-diagram {
+.architecture-diagram {
   width: 100%;
   max-width: none;
   height: auto;
@@ -1726,97 +1623,19 @@ main .content-wrapper .article-body h3 a {
   transition: transform 160ms ease, box-shadow 160ms ease;
 }
 
-.content-wrapper .diagram-link:hover .architecture-diagram {
+.diagram-link:hover .architecture-diagram {
   transform: scale(1.01);
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
-.content-wrapper .diagram-caption {
-  max-width: 820px;
-  margin: 1rem auto 0;
-}
+/* Article and orientation diagram breakout */
 
-.content-wrapper .diagram-hint {
-  margin-top: 0.35rem;
-  text-align: center;
-  font-size: 0.84rem;
-  color: var(--color-text-secondary);
-  opacity: 0.78;
-}
-
-/* ============================================================
-   FINAL OVERRIDE: Site-wide APS diagram enlargement
-   ============================================================ */
-
-.aps-diagram,
-.figure,
-.diagram {
-  width: min(96vw, 1400px);
-  max-width: none;
-  margin: 2.5rem calc(50% - min(48vw, 700px));
-  text-align: center;
-}
-
-.aps-diagram a,
-.figure a,
-.diagram a {
-  display: block;
-  cursor: zoom-in;
-  text-decoration: none;
-}
-
-.aps-diagram img,
-.aps-diagram svg,
-.figure img,
-.figure svg,
-.diagram img,
-.diagram svg {
-  width: 100%;
-  max-width: none;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  transition: transform 160ms ease, box-shadow 160ms ease;
-}
-
-.aps-diagram a:hover img,
-.aps-diagram a:hover svg,
-.figure a:hover img,
-.figure a:hover svg,
-.diagram a:hover img,
-.diagram a:hover svg {
-  transform: scale(1.01);
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
-}
-
-/* ============================================================
-   FINAL OVERRIDE: Break article diagrams out of text column
-   ============================================================ */
-
-.article-body .aps-diagram,
-.article-body .figure,
-.article-body .diagram {
-  width: min(96vw, 1400px);
-  max-width: none;
-  margin-left: calc(50% - min(48vw, 700px));
-  margin-right: calc(50% - min(48vw, 700px));
-}
-
-.article-body .aps-diagram img,
-.article-body .aps-diagram svg,
-.article-body .figure img,
-.article-body .figure svg,
-.article-body .diagram img,
-.article-body .diagram svg {
-  width: 100%;
-  max-width: none;
-}
-
-/* ============================================================
-   FINAL OVERRIDE: Centre article diagrams across viewport
-   ============================================================ */
-
-.article-body .aps-diagram {
+.article-content-wrapper .article-body .aps-diagram,
+.article-content-wrapper .article-body .diagram,
+.article-content-wrapper .article-body .figure,
+.orientation-content-wrapper .article-body .aps-diagram,
+.orientation-content-wrapper .article-body .diagram,
+.orientation-content-wrapper .article-body .figure {
   width: min(96vw, 1400px);
   max-width: none;
   position: relative;
@@ -1826,54 +1645,28 @@ main .content-wrapper .article-body h3 a {
   text-align: center;
 }
 
-.article-body .aps-diagram img,
-.article-body .aps-diagram svg {
+.article-content-wrapper .article-body .aps-diagram img,
+.article-content-wrapper .article-body .aps-diagram svg,
+.article-content-wrapper .article-body .diagram img,
+.article-content-wrapper .article-body .diagram svg,
+.article-content-wrapper .article-body .figure img,
+.article-content-wrapper .article-body .figure svg,
+.orientation-content-wrapper .article-body .aps-diagram img,
+.orientation-content-wrapper .article-body .aps-diagram svg,
+.orientation-content-wrapper .article-body .diagram img,
+.orientation-content-wrapper .article-body .diagram svg,
+.orientation-content-wrapper .article-body .figure img,
+.orientation-content-wrapper .article-body .figure svg {
   width: 100%;
   max-width: none;
   height: auto;
   display: block;
+  margin: 0 auto;
 }
 
-.article-body .aps-diagram-caption {
-  max-width: 820px;
-  margin: 0.9rem auto 0;
-}
-
-/* ============================================================
-   ABSOLUTE FINAL OVERRIDE: Article diagram viewport breakout
-   ============================================================ */
-
-.article-body .aps-diagram {
-  width: min(96vw, 1400px) !important;
-  max-width: none !important;
-
-  margin-top: 2.75rem !important;
-  margin-bottom: 2.75rem !important;
-
-  margin-left: 50% !important;
-  margin-right: 0 !important;
-
-  transform: translateX(-50%) !important;
-  text-align: center !important;
-}
-
-.article-body .aps-diagram a {
-  display: block !important;
-  cursor: zoom-in !important;
-  text-decoration: none !important;
-}
-
-.article-body .aps-diagram img,
-.article-body .aps-diagram svg {
-  width: 100% !important;
-  max-width: none !important;
-  height: auto !important;
-  display: block !important;
-  margin: 0 auto !important;
-}
-
-.article-body .aps-diagram-caption {
-  max-width: 820px !important;
-  margin: 0.9rem auto 0 !important;
-  text-align: center !important;
+.aps-diagram-large img,
+.aps-diagram-large svg {
+  width: 100%;
+  max-width: 1600px;
+  height: auto;
 }
