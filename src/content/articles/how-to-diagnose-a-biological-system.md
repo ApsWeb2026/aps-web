@@ -5,7 +5,7 @@ slug: how-to-diagnose-a-biological-system
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-05-15
+revised: 2026-05-20
 cluster: empirical-interface
 
 abstract: >
@@ -13,8 +13,8 @@ abstract: >
   framework. APS diagnosis evaluates viability-oriented organisation through
   perturbation, regulation, evaluation, semiosis, and persistence-maintaining
   activity rather than through trait lists or static classification. Diagnosis
-  in APS is explanatory, organisational, and graded rather than merely
-  classificatory.
+  in APS is explanatory, organisational, perturbational, and graded rather
+  than merely classificatory.
 
 relatedGlossaryTerms:
   - viability
@@ -26,6 +26,8 @@ relatedGlossaryTerms:
   - cognition
   - semiosis
   - scale-coupling
+  - resilience
+  - malfunction
 
 relatedArticles:
   - aps-as-philosophy-viability-oriented-account
@@ -38,6 +40,8 @@ relatedArticles:
   - what-is-a-biological-system
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - why-ai-is-not-biological-agency
+  - diagnosis-as-continuity-analysis
+  - malfunction-breakdown-and-death
 
 references:
   - id: bernard1865
@@ -121,7 +125,7 @@ Systems are identified as living because they:
 - evolve
 - or possess particular molecular structures
 
-Such criteria can be useful operationally.
+Such criteria can be operationally useful.
 
 However, they do not by themselves explain why these features matter biologically.
 
@@ -129,7 +133,7 @@ APS therefore shifts the diagnostic question:
 - from “What traits are present?”
 - to “How is organised persistence maintained?”
 
-This shift transforms diagnosis:
+This transforms diagnosis:
 - from static classification
 - into explanatory evaluation
 
@@ -150,7 +154,7 @@ The diagnostic target is therefore not:
 
 but the organised activity through which a system continues to exist as a unified biological process.
 
-This means biological diagnosis concerns:
+Biological diagnosis consequently concerns:
 - organisation
 - evaluation
 - regulation
@@ -442,6 +446,20 @@ Instead, it concerns:
 Diagnosis therefore becomes explanatory rather than merely descriptive.
 
 APS diagnosis therefore operates through the same organisational grammar governing biological explanation more generally: agency, process, scale, viability, evaluation, semiosis, cognition, and persistence.
+
+<figure class="aps-diagram aps-diagram--wide">
+  <img
+    src="/assets/diagrams/diagnosis-visual.png"
+    alt="APS diagnosis as organisational continuity analysis across perturbation, compensation, resilience, malfunction, and recovery"
+    loading="lazy"
+  />
+  <figcaption>
+    <strong>Figure F4. APS Diagnostic Method.</strong>
+    APS diagnosis evaluates how living systems sustain, reorganise, or lose viable continuity under perturbation. Diagnosis therefore concerns organisational persistence across interacting scales rather than the detection of isolated traits or abnormalities alone.
+  </figcaption>
+</figure>
+
+APS diagnosis therefore proceeds by analysing how systems maintain viability through perturbation, regulation, adaptive reorganisation, and continuity preservation across time and scale. The goal is not merely to identify abnormalities, but to understand how organised persistence succeeds, compensates, destabilises, or fails under changing conditions.
 
 ## From Conceptual Framework to Empirical Method
 

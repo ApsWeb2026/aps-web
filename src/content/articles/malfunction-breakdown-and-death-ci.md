@@ -5,15 +5,17 @@ slug: malfunction-breakdown-and-death
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-05-11
+revised: 2026-05-20
 cluster: conceptual-foundations
 
 abstract: >
   APS treats malfunction, breakdown, and death not as secondary biological
   phenomena but as revealing features of living organisation itself. Living
-  systems persist only through ongoing self-maintaining activity, and are
+  systems persist only through ongoing self-maintaining activity and are
   therefore inherently vulnerable to degradation, collapse, and loss of
-  organisational coherence.
+  organisational coherence. Failure dynamics reveal how viability-oriented
+  systems sustain, reorganise, destabilise, or ultimately lose organised
+  persistence across time.
 
 keyPoints:
   - Viability-orientation does not imply indefinite persistence.
@@ -34,8 +36,11 @@ relatedGlossaryTerms:
   - biological-organisation
   - perturbation
   - adaptation
+  - malfunction
+  - resilience
 
 relatedArticles:
+  - diagnosis-as-continuity-analysis
   - how-to-diagnose-a-biological-system
   - aps-and-the-edges-of-life-ci
   - adaptation-how-living-systems-sustain-themselves-through-change
@@ -75,17 +80,21 @@ references:
 ## Introduction
 
 Living systems are viability-oriented forms of organisation.
+
 They continuously regulate and reorganise themselves relative to conditions required for continued persistence.
 
 However, viability-orientation does not imply indefinite persistence.
 
 All living systems are vulnerable.
+
 They can malfunction, deteriorate, and ultimately die.
 
 This vulnerability is not accidental to life.
+
 It is one of the clearest expressions of the kind of organisation living systems are.
 
 A living system exists only insofar as the conditions of its persistence are actively maintained.
+
 Because those conditions can fail, living organisation is inherently precarious.
 
 APS therefore treats malfunction, breakdown, and death not as secondary anomalies, but as revealing features of biological organisation itself.
@@ -104,15 +113,19 @@ These phenomena are so familiar that their explanatory significance is often ove
 Many physical systems can stop functioning, but only living systems fail in ways that matter internally to the organisation itself.
 
 A rock may fracture.
+
 A machine may break.
+
 But neither loses an internally grounded form of persistence-sensitive organisation.
 
 In living systems, by contrast, failure threatens the continued existence of the system as that system.
 
 This reveals something fundamental:
+
 living organisation is normatively structured.
 
 Some states support persistence.
+
 Others undermine it.
 
 Failure therefore becomes biologically meaningful because organised persistence itself is biologically at stake.
@@ -134,9 +147,11 @@ Living organisation remains:
 - and dependent upon ongoing regulation and repair.
 
 Viability-orientation therefore does not mean permanent success.
+
 It means continuous resistance to disintegration.
 
 Mortality does not contradict viability-oriented organisation.
+
 On the contrary, it reveals that persistence is something living systems must continuously achieve rather than automatically possess.
 
 ## Malfunction: Local Failure Within Persistence
@@ -195,6 +210,7 @@ Many biological conditions exhibit such deterioration:
 - and ecological collapse.
 
 APS interprets breakdown as erosion of constraint closure itself.
+
 The mutually sustaining organisation through which the system maintains persistence becomes increasingly unstable.
 
 ## Death: Collapse of Organised Persistence
@@ -212,11 +228,13 @@ At death:
 - and the organised system no longer persists as that system.
 
 What remains may still possess matter, structure, or residual activity.
+
 But the organism itself no longer exists as a persistence-maintaining biological system.
 
 The distinction is crucial.
 
 The processes leading toward death remain biological processes of deterioration and breakdown.
+
 Death itself marks the collapse of the organisation that made those processes biologically meaningful.
 
 APS therefore treats death as:
@@ -225,7 +243,9 @@ APS therefore treats death as:
 - and cessation of biological agency.
 
 After death, physical and chemical processes continue.
+
 Matter transforms.
+
 Decomposition occurs.
 
 But these are no longer biological processes of that organism.
@@ -237,7 +257,9 @@ The organism is gone.
 Machines can fail, but they do not die.
 
 An engine may seize.
+
 A computer may crash.
+
 A factory may shut down.
 
 Such failures may superficially resemble biological breakdown, but they differ fundamentally.
@@ -252,16 +274,6 @@ APS therefore distinguishes clearly between:
 - technical failure,
 - biological malfunction,
 - and organisational collapse.
-
-<figure class="aps-diagram aps-diagram--zoomable">
-  <img
-    src="/assets/diagrams/diagnosis-visual.png"
-    alt="Diagnosis in APS: continuity, disruption, malfunction, breakdown, and death as different states of organised persistence"
-  />
-  <figcaption>
-    <strong>Diagnosis.</strong> In APS, diagnosis asks whether organised persistence is being maintained, disrupted, degraded, or lost. Malfunction, breakdown, and death are therefore not merely external labels, but different ways in which the continuity of biological organisation can fail.
-  </figcaption>
-</figure>
 
 ## Failure as a Diagnostic Window Into Life
 
@@ -299,7 +311,22 @@ Living systems differ because:
 - and collapse constitutes loss of the system itself.
 
 Malfunction, breakdown, and death are therefore not arbitrary metaphysical boundaries.
+
 They are organisationally graded forms of failure within persistence-maintaining systems.
+
+<figure class="aps-diagram aps-diagram--wide">
+  <img
+    src="/assets/diagrams/diagnosis-visual.png"
+    alt="APS failure dynamics across malfunction, breakdown, recovery, resilience, and death"
+    loading="lazy"
+  />
+  <figcaption>
+    <strong>Figure F5. Failure Dynamics in Viability-Oriented Systems.</strong>
+    Within APS, malfunction, breakdown, resilience, recovery, and death represent different organisational states within the continuity dynamics of living systems. Biological failure therefore reveals how viability-oriented organisation is sustained, destabilised, compensated, or lost across interacting scales.
+  </figcaption>
+</figure>
+
+APS therefore approaches malfunction, deterioration, and death not as external interruptions imposed upon otherwise complete systems, but as intrinsic organisational possibilities within viability-oriented persistence. Failure dynamics reveal the conditions under which living systems sustain continuity, reorganise under perturbation, or ultimately lose the capacity to maintain themselves as integrated biological organisations.
 
 ## Why Mortality Does Not Contradict APS
 
@@ -310,6 +337,7 @@ APS does not claim that living systems persist indefinitely.
 It claims that living systems are organised relative to conditions of their own persistence.
 
 Mortality therefore does not refute viability-oriented organisation.
+
 It reveals that persistence must continuously be achieved under conditions of vulnerability.
 
 Many central biological processes depend upon this precariousness:
@@ -322,6 +350,7 @@ Many central biological processes depend upon this precariousness:
 If living systems were invulnerable, many defining characteristics of biological organisation would disappear.
 
 Mortality is therefore not external to life.
+
 It is constitutive of persistence-maintaining organisation itself.
 
 ## Conclusion
@@ -341,4 +370,6 @@ They arise from the very structure of living systems as vulnerable processes tha
 
 ## Key Point
 
-Malfunction, breakdown, and death do not contradict viability-oriented organisation. They reveal that living systems exist only through the continuous and inherently vulnerable maintenance of organised persistence.
+Malfunction, breakdown, and death do not contradict viability-oriented organisation.
+
+They reveal that living systems exist only through the continuous and inherently vulnerable maintenance of organised persistence.
