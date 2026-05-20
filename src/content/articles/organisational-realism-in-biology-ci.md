@@ -242,7 +242,7 @@ APS here overlaps substantially with autonomy-based approaches developed by More
 
 # Agency as Organisational Activity
 
-APS similarly treats *[biological-agency](/glossary/biological-agency/)* as organisationally real.
+APS similarly treats *[biological agency](/glossary/biological-agency/)* as organisationally real.
 
 Agency does not require:
 - consciousness;
@@ -326,7 +326,7 @@ APS consequently treats explanatory organisation as epistemically constrained by
 
 # Multiple Realization and Organisational Continuity
 
-APS also supports a distinctive interpretation of *[multiple-realization-and-biological-organisation](/articles/multiple-realization-and-biological-organisation/)*.
+APS also supports a distinctive interpretation of *[multiple realization and biological organisation](/articles/multiple-realization-and-biological-organisation/)*.
 
 If biological organisation is real, then living systems may preserve organisational continuity despite substantial variation in material composition.
 
