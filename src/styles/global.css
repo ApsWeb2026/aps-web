@@ -1612,30 +1612,44 @@ main .content-wrapper .article-body h3 a {
    ============================================================ */
 
 .architecture-diagram-section {
-  margin-top: 3rem;
+  max-width: 1200px;
+  margin: 4rem auto 0;
 }
 
 .architecture-diagram-wrapper {
   width: 100%;
-  margin: 0 auto;
+  max-width: 1150px;
+  margin: 2rem auto 1rem;
 }
 
 .architecture-diagram {
-  width: min(100%, 720px);
+  width: 100%;
+  max-width: 1150px;
   height: auto;
   display: block;
-  margin: 2rem auto;
+  margin: 0 auto;
+  border-radius: 18px;
 }
 
 .diagram-caption {
   text-align: center;
   font-family: var(--font-sans);
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   color: var(--color-text-secondary);
-  max-width: 720px;
-  margin: 0.75rem auto 0;
+  max-width: 760px;
+  margin: 0.9rem auto 0;
   line-height: 1.6;
-  font-style: italic;
+  font-style: normal;
+}
+
+/* Optional enlargement guidance */
+
+.diagram-hint {
+  margin-top: 0.35rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--color-text-secondary);
+  opacity: 0.78;
 }
 
 /* Generic APS diagram container */
