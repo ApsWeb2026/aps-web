@@ -1743,3 +1743,137 @@ main .content-wrapper .article-body h3 a {
   color: var(--color-text-secondary);
   opacity: 0.78;
 }
+
+/* ============================================================
+   FINAL OVERRIDE: Site-wide APS diagram enlargement
+   ============================================================ */
+
+.aps-diagram,
+.figure,
+.diagram {
+  width: min(96vw, 1400px);
+  max-width: none;
+  margin: 2.5rem calc(50% - min(48vw, 700px));
+  text-align: center;
+}
+
+.aps-diagram a,
+.figure a,
+.diagram a {
+  display: block;
+  cursor: zoom-in;
+  text-decoration: none;
+}
+
+.aps-diagram img,
+.aps-diagram svg,
+.figure img,
+.figure svg,
+.diagram img,
+.diagram svg {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.aps-diagram a:hover img,
+.aps-diagram a:hover svg,
+.figure a:hover img,
+.figure a:hover svg,
+.diagram a:hover img,
+.diagram a:hover svg {
+  transform: scale(1.01);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+}
+
+/* ============================================================
+   FINAL OVERRIDE: Break article diagrams out of text column
+   ============================================================ */
+
+.article-body .aps-diagram,
+.article-body .figure,
+.article-body .diagram {
+  width: min(96vw, 1400px);
+  max-width: none;
+  margin-left: calc(50% - min(48vw, 700px));
+  margin-right: calc(50% - min(48vw, 700px));
+}
+
+.article-body .aps-diagram img,
+.article-body .aps-diagram svg,
+.article-body .figure img,
+.article-body .figure svg,
+.article-body .diagram img,
+.article-body .diagram svg {
+  width: 100%;
+  max-width: none;
+}
+
+/* ============================================================
+   FINAL OVERRIDE: Centre article diagrams across viewport
+   ============================================================ */
+
+.article-body .aps-diagram {
+  width: min(96vw, 1400px);
+  max-width: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 2.75rem 0;
+  text-align: center;
+}
+
+.article-body .aps-diagram img,
+.article-body .aps-diagram svg {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  display: block;
+}
+
+.article-body .aps-diagram-caption {
+  max-width: 820px;
+  margin: 0.9rem auto 0;
+}
+
+/* ============================================================
+   ABSOLUTE FINAL OVERRIDE: Article diagram viewport breakout
+   ============================================================ */
+
+.article-body .aps-diagram {
+  width: min(96vw, 1400px) !important;
+  max-width: none !important;
+
+  margin-top: 2.75rem !important;
+  margin-bottom: 2.75rem !important;
+
+  margin-left: 50% !important;
+  margin-right: 0 !important;
+
+  transform: translateX(-50%) !important;
+  text-align: center !important;
+}
+
+.article-body .aps-diagram a {
+  display: block !important;
+  cursor: zoom-in !important;
+  text-decoration: none !important;
+}
+
+.article-body .aps-diagram img,
+.article-body .aps-diagram svg {
+  width: 100% !important;
+  max-width: none !important;
+  height: auto !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+.article-body .aps-diagram-caption {
+  max-width: 820px !important;
+  margin: 0.9rem auto 0 !important;
+  text-align: center !important;
+}
