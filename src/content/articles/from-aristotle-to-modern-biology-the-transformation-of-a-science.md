@@ -5,7 +5,7 @@ slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
 abstract: "This article traces the long transformation of biology from Aristotle’s organism-centred natural history to modern evolutionary, cellular, molecular, and systems-based science. It emphasises both rupture and continuity: biology changed its tools, scales, and theories, but retained the need to explain organised living systems."
 status: canonical
 revised: 2026-03-27
-cluster: historical-context
+cluster: philosophy-of-biology
 keyPoints:
   - "Modern biology emerged through successive conceptual and technological transformations rather than simple rejection of Aristotle."
   - "Darwin, cell theory, heredity, and molecular biology reconfigured biological explanation by adding historical, structural, and mechanistic depth."

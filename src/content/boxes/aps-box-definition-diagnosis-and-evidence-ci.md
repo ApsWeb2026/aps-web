@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-05-11
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 ---
 
 In APS, definition, diagnosis, and evidence must not be conflated.

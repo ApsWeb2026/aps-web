@@ -18,13 +18,14 @@ const optionalDateString = z.preprocess(
 );
 
 const clusterEnum = z.enum([
-  'foundations',
-  'definition-borderlines',
-  'cognition-mind',
-  'empirical-interface',
-  'scaling-complexity',
-  'historical-context',
   'conceptual-foundations',
+  'evolutionary-dynamics',
+  'cognition-and-mind',
+  'ecological-organisation',
+  'diagnostics-and-empirical-tractability',
+  'philosophy-of-biology',
+  'methodology-and-explanation',
+  'artificial-systems-and-boundaries',
 ]);
 
 const referenceSchema = z.object({

@@ -8,7 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
 revised: 2026-05-16
-cluster: foundations
+cluster: conceptual-foundations
 
 seeAlso:
   - viability

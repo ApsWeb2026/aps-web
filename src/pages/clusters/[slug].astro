@@ -7,51 +7,73 @@ import TypeBadge from '@/components/TypeBadge.astro';
 
 const clusters = [
   {
-    slug: 'foundations',
-    title: 'Foundations of Life',
-    description: 'Core definitions, principles, and the formal structure of Agency, Process, and Scale.',
-  },
-  {
-    slug: 'definition-borderlines',
-    title: 'Definition & Borderlines',
-    description: 'Conceptual boundaries, distinctions, and relations to adjacent frameworks.',
-  },
-  {
-    slug: 'cognition-mind',
-    title: 'Cognition & Mind',
-    description: 'APS accounts of cognition, including 4E approaches, enactivism, and non-neural systems.',
-  },
-  {
-    slug: 'empirical-interface',
-    title: 'Empirical Interface',
-    description: 'Operationalisation, measurement strategies, and empirical test cases.',
-  },
-  {
-    slug: 'scaling-complexity',
-    title: 'Scale, Time, and Organisation',
-    description: 'Multi-scale organisation, emergence, and cross-scale integration.',
-  },
-  {
-    slug: 'historical-context',
-    title: 'Historical & Philosophical Context',
-    description: 'Intellectual foundations, including Aristotle, process philosophy, and systems theory.',
-  },
-  {
     slug: 'conceptual-foundations',
-    title: 'Conceptual Foundations & Explanatory Grammar',
-    description: 'The structure of explanation in APS — what counts as a valid concept and a well-formed claim.',
+    title: 'Conceptual Foundations',
+    description:
+      'Core APS concepts including agency, process, scale, viability, persistence, and organisational explanation.',
+  },
+  {
+    slug: 'evolutionary-dynamics',
+    title: 'Evolutionary Dynamics',
+    description:
+      'Evolution, inheritance, adaptation, variation, continuity, and the historical transformation of organised persistence.',
+  },
+  {
+    slug: 'cognition-and-mind',
+    title: 'Cognition and Mind',
+    description:
+      'Evaluation, semiosis, meaning, information, cognition, consciousness, and temporally extended regulation.',
+  },
+  {
+    slug: 'ecological-organisation',
+    title: 'Ecological Organisation',
+    description:
+      'Ecology, coupling, resilience, ecosystems, distributed organisation, and persistence across scale.',
+  },
+  {
+    slug: 'diagnostics-and-empirical-tractability',
+    title: 'Diagnostics and Empirical Tractability',
+    description:
+      'Perturbation, malfunction, diagnosis, biosignatures, life detection, and operational analysis of living systems.',
+  },
+  {
+    slug: 'philosophy-of-biology',
+    title: 'Philosophy of Biology',
+    description:
+      'Philosophical foundations, realism, reductionism, mechanism, historical context, and conceptual clarification.',
+  },
+  {
+    slug: 'methodology-and-explanation',
+    title: 'Methodology and Explanation',
+    description:
+      'Explanatory structure, conceptual grammar, theory construction, and the organisation of biological explanation.',
+  },
+  {
+    slug: 'artificial-systems-and-boundaries',
+    title: 'Artificial Systems and Boundaries',
+    description:
+      'Artificial systems, AI, borderline cases, minimal life, and the limits of biological organisation.',
   },
 ];
 
 export function getStaticPaths() {
   return [
-    { params: { slug: 'foundations' } },
-    { params: { slug: 'definition-borderlines' } },
-    { params: { slug: 'cognition-mind' } },
-    { params: { slug: 'empirical-interface' } },
-    { params: { slug: 'scaling-complexity' } },
-    { params: { slug: 'historical-context' } },
     { params: { slug: 'conceptual-foundations' } },
+    { params: { slug: 'evolutionary-dynamics' } },
+    { params: { slug: 'cognition-and-mind' } },
+    { params: { slug: 'ecological-organisation' } },
+    {
+      params: {
+        slug: 'diagnostics-and-empirical-tractability',
+      },
+    },
+    { params: { slug: 'philosophy-of-biology' } },
+    { params: { slug: 'methodology-and-explanation' } },
+    {
+      params: {
+        slug: 'artificial-systems-and-boundaries',
+      },
+    },
   ];
 }
 
@@ -59,48 +81,82 @@ const { slug } = Astro.params;
 const cluster = clusters.find((c) => c.slug === slug)!;
 
 // Get all content for this cluster
-const articles = (await getCollection('articles')).filter((a) => a.data.cluster === slug);
-const glossaryEntries = (await getCollection('glossary')).filter((g) => g.data.cluster === slug);
-const streams = (await getCollection('streams')).filter((s) => s.data.cluster === slug);
+const articles = (await getCollection('articles')).filter(
+  (a) => a.data.cluster === slug,
+);
 
-const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
+const glossaryEntries = (await getCollection('glossary')).filter(
+  (g) => g.data.cluster === slug,
+);
+
+const streams = (await getCollection('streams')).filter(
+  (s) => s.data.cluster === slug,
+);
+
+const statusOrder: Record<string, number> = {
+  canonical: 0,
+  evolving: 1,
+  draft: 2,
+};
+
 articles.sort(
   (a, b) =>
-    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    (statusOrder[a.data.status] ?? 9) -
+      (statusOrder[b.data.status] ?? 9) ||
     a.data.title.localeCompare(b.data.title),
 );
+
 glossaryEntries.sort(
   (a, b) =>
-    (statusOrder[a.data.status] ?? 9) - (statusOrder[b.data.status] ?? 9) ||
+    (statusOrder[a.data.status] ?? 9) -
+      (statusOrder[b.data.status] ?? 9) ||
     a.data.title.localeCompare(b.data.title),
 );
 ---
 
 <BaseLayout title={cluster.title} description={cluster.description}>
   <div class="content-wrapper">
-    <Breadcrumb items={[{ label: 'Clusters' }, { label: cluster.title }]} />
+    <Breadcrumb
+      items={[
+        { label: 'Clusters' },
+        { label: cluster.title },
+      ]}
+    />
 
     <header class="cluster-header">
       <h1>{cluster.title}</h1>
-      <p class="cluster-description">{cluster.description}</p>
+
+      <p class="cluster-description">
+        {cluster.description}
+      </p>
     </header>
 
     {
       articles.length > 0 && (
         <section class="home-section">
           <h2>Articles</h2>
+
           <ul class="card-list">
             {articles.map((entry) => (
               <li class="card">
                 <div class="card-header">
                   <h3 class="card-title">
-                    <a href={`/articles/${entry.data.slug}/`}>{entry.data.title}</a>
+                    <a href={`/articles/${entry.data.slug}/`}>
+                      {entry.data.title}
+                    </a>
                   </h3>
+
                   <StatusBadge status={entry.data.status} />
                   <TypeBadge type="article" />
                 </div>
-                <p class="card-excerpt">{entry.data.abstract}</p>
-                <div class="card-meta">Revised: {entry.data.revised}</div>
+
+                <p class="card-excerpt">
+                  {entry.data.abstract}
+                </p>
+
+                <div class="card-meta">
+                  Revised: {entry.data.revised}
+                </div>
               </li>
             ))}
           </ul>
@@ -112,18 +168,28 @@ glossaryEntries.sort(
       glossaryEntries.length > 0 && (
         <section class="home-section">
           <h2>Glossary Entries</h2>
+
           <ul class="card-list">
             {glossaryEntries.map((entry) => (
               <li class="card">
                 <div class="card-header">
                   <h3 class="card-title">
-                    <a href={`/glossary/${entry.data.slug}/`}>{entry.data.title}</a>
+                    <a href={`/glossary/${entry.data.slug}/`}>
+                      {entry.data.title}
+                    </a>
                   </h3>
+
                   <StatusBadge status={entry.data.status} />
                   <TypeBadge type="glossary" />
                 </div>
-                <p class="card-excerpt">{entry.data.inBrief}</p>
-                <div class="card-meta">Revised: {entry.data.revised}</div>
+
+                <p class="card-excerpt">
+                  {entry.data.inBrief}
+                </p>
+
+                <div class="card-meta">
+                  Revised: {entry.data.revised}
+                </div>
               </li>
             ))}
           </ul>
@@ -135,17 +201,24 @@ glossaryEntries.sort(
       streams.length > 0 && (
         <section class="home-section">
           <h2>Research Streams</h2>
+
           <ul class="card-list">
             {streams.map((entry) => (
               <li class="card">
                 <div class="card-header">
                   <h3 class="card-title">
-                    <a href={`/streams/${entry.data.slug}/`}>{entry.data.title}</a>
+                    <a href={`/streams/${entry.data.slug}/`}>
+                      {entry.data.title}
+                    </a>
                   </h3>
+
                   <StatusBadge status={entry.data.status} />
                   <TypeBadge type="stream" />
                 </div>
-                <p class="card-excerpt">{entry.data.overview}</p>
+
+                <p class="card-excerpt">
+                  {entry.data.overview}
+                </p>
               </li>
             ))}
           </ul>
@@ -154,9 +227,14 @@ glossaryEntries.sort(
     }
 
     {
-      articles.length === 0 && glossaryEntries.length === 0 && streams.length === 0 && (
-        <p>No content has been published in this cluster yet. Check back soon.</p>
-      )
+      articles.length === 0 &&
+        glossaryEntries.length === 0 &&
+        streams.length === 0 && (
+          <p>
+            No content has been published in this cluster yet.
+            Check back soon.
+          </p>
+        )
     }
   </div>
 </BaseLayout>

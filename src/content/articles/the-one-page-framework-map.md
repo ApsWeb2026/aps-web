@@ -5,7 +5,7 @@ slug: "the-one-page-framework-map"
 abstract: "This article presents a one-page map of the APS framework, showing how its core concepts, explanatory relations, and research pathways fit together in a single orienting structure."
 status: canonical
 revised: 2026-04-05
-cluster: foundations
+cluster: conceptual-foundations
 keyPoints:
   - "The framework map provides a compact overview of APS as an integrated system."
   - "It clarifies how the core concepts and research streams relate to one another."

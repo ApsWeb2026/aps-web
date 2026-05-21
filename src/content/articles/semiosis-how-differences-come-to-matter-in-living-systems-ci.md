@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20
 revised: 2026-05-20
-cluster: cognition-mind
+cluster: cognition-and-mind
 
 abstract: >
   This article develops an APS account of semiosis as the organisation of

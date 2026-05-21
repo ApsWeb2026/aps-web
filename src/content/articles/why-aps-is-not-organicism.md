@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
 revised: 2026-05-11
-cluster: historical-context
+cluster: philosophy-of-biology
 abstract: >
   APS shares important concerns with historical organicism, particularly the emphasis on organised, self-maintaining living systems. However, APS is not simply a contemporary form of organicism. This article explains how APS inherits and reconstructs organism-centred and organisational traditions in biology while moving beyond classical organicism through explicit explanatory structure, operational criteria, and diagnostic precision.
 relatedGlossaryTerms:

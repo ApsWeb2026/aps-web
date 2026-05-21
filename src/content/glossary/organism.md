@@ -5,7 +5,7 @@ slug: organism
 definition: "In APS, an organism is a viability-oriented, constraint-closed biological individual that actively sustains, modulates, and reconstitutes the conditions of its own persistence."
 inBrief: "An organism is a viability-oriented, constraint-closed biological individual that sustains its own persistence."
 status: canonical
-cluster: foundations
+cluster: conceptual-foundations
 revised: 2026-04-10
 seeAlso:
   - biological-individual

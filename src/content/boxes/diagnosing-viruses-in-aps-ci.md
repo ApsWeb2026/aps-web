@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
 revised: 2026-04-10
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 abstract: |
   Viruses occupy a central position in debates about the nature of life. This article applies the APS diagnostic framework to viral systems, showing how viability-oriented organisation can be evaluated without reducing the question to a binary classification. By analysing Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI), APS clarifies both the biological participation and the limitations of viruses.
 keyPoints:

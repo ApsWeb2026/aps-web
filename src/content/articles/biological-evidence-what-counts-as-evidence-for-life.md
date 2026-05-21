@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-04-09
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 keyPoints:
   - "Biological evidence is evidence of viability-oriented organisation, not behaviour."
   - "APS distinguishes definition, diagnosis, and evidence as separate explanatory roles."

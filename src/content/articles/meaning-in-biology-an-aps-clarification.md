@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-21
 revised: 2026-05-21
-cluster: cognition-mind
+cluster: cognition-and-mind
 
 abstract: >
   Meaning is often treated as dependent upon language, representation, or

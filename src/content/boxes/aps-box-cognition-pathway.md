@@ -6,7 +6,7 @@ canonical: true
 canonicalLockDate: 2026-05-17
 date: 2026-05-17
 revised: 2026-05-17
-cluster: cognition-mind
+cluster: cognition-and-mind
 summary: >
   This box summarises the APS cognition pathway, showing how cognition,
   intelligence, and consciousness emerge from progressively integrated forms

@@ -10,7 +10,7 @@ revised: "2026-04-29"
 figureNumber: "2"
 sequence: 1
 orientation: "Foundations of Life"
-cluster: "foundations"
+cluster: "conceptual-foundations"
 keyPoint: "Persistence, inheritance, and transformation are not sequential stages but co-constitutive temporal dimensions of living organisation. Each presupposes the others."
 crossReferences:
   - "/glossary/biological-agency/"

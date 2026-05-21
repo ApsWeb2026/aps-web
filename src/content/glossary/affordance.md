@@ -5,7 +5,7 @@ slug: affordance
 definition: "In APS, an affordance is a viability-relevant possibility for action arising through the coupling of an organism and its environment."
 inBrief: "An affordance is a viability-relevant possibility for action."
 status: canonical
-cluster: foundations
+cluster: conceptual-foundations
 revised: 2026-04-08
 seeAlso:
   - environment

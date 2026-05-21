@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: cognition-mind
+cluster: cognition-and-mind
 
 abstract: >
   This article clarifies the place of consciousness within the

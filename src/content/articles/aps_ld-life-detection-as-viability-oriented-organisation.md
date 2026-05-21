@@ -13,7 +13,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 
 relatedGlossaryTerms:
   - viability

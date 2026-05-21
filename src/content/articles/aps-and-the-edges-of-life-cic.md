@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: definition-borderlines
+cluster: artificial-systems-and-boundaries
 
 abstract: >
   Biological theory has long struggled with borderline systems such as viruses,

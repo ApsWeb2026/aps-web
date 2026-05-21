@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
 revised: 2026-04-10
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 abstract: |
   The Viability Gradient (VG) is a central diagnostic dimension in APS, capturing the degree to which a system sustains its own persistence under changing conditions. Rather than treating life as a binary property, VG provides a continuous measure of how effectively viability-oriented organisation is maintained across time and scale.
 keyPoints:

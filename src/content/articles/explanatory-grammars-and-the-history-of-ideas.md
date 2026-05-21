@@ -6,7 +6,7 @@ revised: 2026-05-10
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
-cluster: historical-context
+cluster: philosophy-of-biology
 abstract: >
   APS approaches intellectual history not simply as a sequence of doctrines or discoveries, but as the historical transformation of explanatory grammars. Different periods organise understanding through different assumptions about causation, organisation, persistence, and explanation itself. This article argues that the history of ideas can therefore be understood partly as the history of changing explanatory structures through which reality becomes intelligible.
 relatedArticles:

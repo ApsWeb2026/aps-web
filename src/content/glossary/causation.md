@@ -8,7 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-26
 revised: 2026-04-26
-cluster: foundations
+cluster: conceptual-foundations
 seeAlso:
   - biological-organisation
   - constraint-closure

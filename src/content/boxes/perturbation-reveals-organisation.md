@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
 revised: 2026-05-11
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 ---
 
 In APS, perturbation is diagnostically important because organisation becomes most visible when it is challenged.

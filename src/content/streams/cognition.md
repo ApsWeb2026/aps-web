@@ -4,7 +4,7 @@ title: Cognition
 slug: cognition
 overview: "This research stream explores cognition as a biologically grounded, viability-oriented process distributed across living systems."
 status: canonical
-cluster: cognition-mind
+cluster: cognition-and-mind
 revised: 2026-04-03
 ---
 

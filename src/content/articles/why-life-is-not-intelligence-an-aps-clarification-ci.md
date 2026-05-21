@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
 revised: 2026-05-17
-cluster: cognition-mind
+cluster: cognition-and-mind
 
 abstract: >
   This article clarifies why the APS framework does not treat intelligence as

@@ -6,7 +6,7 @@ date: 2026-05-18
 canonical: true
 canonicalLockDate: 2026-05-18
 revised: 2026-05-18
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 
 definition: >
   Malfunction is the impairment, disruption, or breakdown of processes,

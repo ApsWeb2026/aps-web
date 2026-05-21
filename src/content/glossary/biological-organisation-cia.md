@@ -8,7 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
 revised: 2026-05-06
-cluster: foundations
+cluster: conceptual-foundations
 seeAlso:
   - biological-agency
   - constraint

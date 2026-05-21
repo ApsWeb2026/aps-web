@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-06
 date: 2026-05-06
 revised: 2026-05-06
-cluster: cognition-mind
+cluster: cognition-and-mind
 seeAlso:
   - function
   - cognition

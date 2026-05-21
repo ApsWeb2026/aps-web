@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-05-07
-cluster: definition-borderlines
+cluster: artificial-systems-and-boundaries
 abstract: >
   This article clarifies how the Agency–Process–Scale (APS) framework understands artificial intelligence and artificial systems in relation to life, agency, cognition, and organisation. APS argues that life is not defined by intelligence, behaviour, or computational sophistication, but by viability-oriented, constraint-closed organisation. Artificial systems may simulate agency or exhibit forms of functional cognition, yet this does not by itself establish that they are living systems.
 keyPoints:

@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-07
 date: 2026-05-07
 revised: 2026-05-07
-cluster: cognition-mind
+cluster: cognition-and-mind
 seeAlso:
   - biological-agency
   - cognition

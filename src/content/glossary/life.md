@@ -5,7 +5,7 @@ slug: life
 definition: "Life in APS is viability-oriented, constraint-closed organisation sustained through ongoing activity."
 inBrief: "Life is viability-oriented, constraint-closed organisation."
 status: canonical
-cluster: foundations
+cluster: conceptual-foundations
 revised: 2026-04-08
 seeAlso:
   - biological-agency

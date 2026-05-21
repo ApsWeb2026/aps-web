@@ -6,7 +6,7 @@ revised: 2026-05-10
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
-cluster: foundations
+cluster: conceptual-foundations
 abstract: >
   APS can initially appear conceptually dense because it approaches living systems from several interconnected explanatory perspectives at once. This article clarifies how concepts such as agency, process, scale, viability, and constraint closure relate to one another within a single organisational framework. It explains why APS employs multiple concepts without multiplying definitions, and how these concepts together form an integrated account of living organisation.
 relatedGlossaryTerms:

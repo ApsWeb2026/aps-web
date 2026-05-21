@@ -6,7 +6,7 @@ definition: "Time in APS is the dimension of organised duration through which vi
 inBrief: "Time in APS is organised duration—the medium through which living systems sustain and transform their viability."
 status: canonical
 revised: 2026-04-08
-cluster: foundations
+cluster: conceptual-foundations
 relatedGlossaryTerms:
   - persistence
   - development

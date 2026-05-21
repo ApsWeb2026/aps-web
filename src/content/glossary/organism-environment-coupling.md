@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
 revised: 2026-05-16
-cluster: scaling-complexity
+cluster: ecological-organisation
 definition: >
   Organism–environment coupling refers to the reciprocal relation through
   which organisms and environments mutually shape the conditions of biological

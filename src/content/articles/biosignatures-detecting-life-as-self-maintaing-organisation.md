@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-05-07
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 abstract: >
   This article explains how biosignatures function within the Agency–Process–Scale (APS) framework as empirical indicators of viability-oriented organisation. Biosignatures do not define life, but provide observational evidence for organised, self-maintaining activity in contexts where direct perturbational diagnosis is impossible. APS reframes biosignatures organisationally rather than chemically, interpreting them as indirect indicators of persistence-sustaining processes.
 keyPoints:

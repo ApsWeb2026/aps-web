@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-05-07
-cluster: empirical-interface
+cluster: diagnostics-and-empirical-tractability
 abstract: >
   APS distinguishes between defining life and diagnosing its presence. The framework defines life ontologically as viability-oriented, constraint-closed organisation, but argues that recognising such organisation in practice requires diagnostic evaluation rather than trait-based classification. This article explains why APS approaches life as a diagnostic target revealed through perturbation, repair, persistence, and organisational failure.
 keyPoints:

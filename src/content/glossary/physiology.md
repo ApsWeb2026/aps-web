@@ -5,7 +5,7 @@ slug: physiology
 definition: "In APS, physiology is the present-tense coordination of constraint-closed processes through which a living system sustains its viability."
 inBrief: "Physiology is the coordinated, present-tense activity of processes that sustain viability."
 status: canonical
-cluster: foundations
+cluster: conceptual-foundations
 revised: 2026-04-08
 seeAlso:
   - process
