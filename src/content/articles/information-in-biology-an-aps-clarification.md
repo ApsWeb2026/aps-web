@@ -1,11 +1,11 @@
 ---
 date: 2026-05-15
-title: Information in Biology — An APS Clarification
+title: "Information in Biology — An APS Clarification"
 slug: information-in-biology-an-aps-clarification
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-15
-revised: 2026-05-15
+canonicalLockDate: 2026-05-21
+revised: 2026-05-21
 cluster: conceptual-foundations
 
 abstract: >
@@ -14,8 +14,8 @@ abstract: >
   information-processing systems, and organisms as informationally coupled to
   their environments. APS argues that biological information is not
   fundamental but organisationally derivative. Information becomes biologically
-  meaningful only within viability-oriented systems capable of evaluation,
-  semiosis, and persistence-maintaining activity.
+  meaningful only within temporally continuous, viability-oriented systems
+  capable of evaluation, semiosis, and persistence-maintaining activity.
 
 relatedGlossaryTerms:
   - information
@@ -27,6 +27,7 @@ relatedGlossaryTerms:
   - viability
   - biological-agency
   - persistence
+  - temporality
   - process
 
 relatedArticles:
@@ -104,7 +105,7 @@ Yet the meaning of “information” in biology often remains unclear.
 
 APS argues that biological information is not fundamental.
 
-Information becomes biologically meaningful only within viability-oriented systems capable of:
+Information becomes biologically meaningful only within temporally continuous, viability-oriented systems capable of:
 - evaluation
 - semiosis
 - regulation
@@ -112,7 +113,7 @@ Information becomes biologically meaningful only within viability-oriented syste
 
 Biological organisation therefore does not arise from information alone.
 
-Rather, information becomes possible because organised living systems already exist.
+Rather, informational significance emerges because organised living systems already exist as persistence-maintaining processes extended through time.
 
 [[box:description-is-not-explanation]]
 
@@ -137,6 +138,7 @@ These approaches transformed modern biology.
 Genetics, neuroscience, developmental biology, physiology, and systems biology all adopted informational frameworks to describe:
 - communication
 - regulation
+- coordination
 - and adaptive organisation
 
 APS fully recognises the scientific value of these approaches.
@@ -144,7 +146,8 @@ APS fully recognises the scientific value of these approaches.
 However, informational descriptions do not by themselves explain:
 - why some differences matter biologically
 - how informational significance arises
-- or how living systems exist as organised persistence-maintaining processes in the first place
+- how evaluative organisation emerges
+- or how living systems persist as organised processes through time in the first place
 
 ## Shannon Information and Biological Meaning
 
@@ -168,13 +171,13 @@ APS therefore distinguishes:
 from:
 - biological significance
 
-Biological meaning depends not merely on signal structure, but on the role differences play within viability-oriented organisation.
+Biological meaning depends not merely on signal structure, but on the role differences play within temporally organised, viability-oriented activity.
 
 A chemical gradient matters biologically because it contributes to:
 - regulation
 - persistence
 - adaptation
-- and evaluative activity
+- and evaluative coordination across time
 
 not because it possesses informational content abstractly.
 
@@ -191,13 +194,13 @@ Some environmental differences:
 
 These differences matter because systems evaluate them relative to viability.
 
-Evaluation therefore precedes information organisationally.
+Evaluation therefore precedes information organisationally because living systems exist as temporally continuous persistence-maintaining processes.
 
-Without viability-oriented organisation capable of differential regulation, there is no biologically meaningful sense in which information exists for a system.
+Biological significance emerges only within systems capable of sustaining evaluative continuity through time. Informational differences matter because living systems persist as ongoing organisational processes whose future viability depends upon modulating present activity relative to changing conditions.
 
-A nutrient gradient matters to a bacterium because it affects viability.
+A nutrient gradient matters to a bacterium because it affects viability across ongoing metabolic activity.
 
-A stress hormone matters to an organism because it participates in persistence-maintaining regulation.
+A stress hormone matters within an organism because it participates in persistence-maintaining regulation extended through time.
 
 Information therefore depends upon evaluative organisation rather than generating it.
 
@@ -212,13 +215,15 @@ Semiosis concerns the organisation of differences as biologically meaningful wit
 Information becomes biologically meaningful only when differences participate in:
 - viability-oriented regulation
 - persistence-maintaining organisation
-- and organisational coordination
+- temporally continuous coordination
+- and organisationally integrated activity
 
 This means biological meaning is not fundamentally symbolic or representational.
 
 Meaning emerges from:
 - evaluation
 - semiosis
+- temporally organised regulation
 - and viability-oriented activity
 
 before representation or abstract informational coding arise.
@@ -235,13 +240,14 @@ APS reverses this explanatory direction.
 
 Living systems do not exist because information flows through them.
 
-Information matters because living systems already exist as viability-oriented organisations.
+Information matters because living systems already exist as temporally organised, viability-oriented systems.
 
 A system must already:
 - maintain boundaries
 - regulate conditions
 - sustain persistence
-- and organise activity relative to viability
+- integrate activity across time
+- and organise behaviour relative to viability
 
 before informational differences can become biologically meaningful.
 
@@ -250,6 +256,30 @@ Information is therefore organisationally derivative rather than foundational.
 Viability-oriented organisation makes information possible.
 
 Information does not generate viability-oriented organisation.
+
+## Persistence, Evaluation, and Informational Meaning
+
+APS increasingly understands informational significance through a developmental organisational sequence:
+
+- persistence
+- evaluation
+- semiosis
+- information
+- representation
+
+Persistence provides the temporal continuity necessary for systems to remain organised through changing conditions.
+
+Evaluation modulates activity relative to viability.
+
+Semiosis structures differences as biologically meaningful within ongoing regulation.
+
+Information emerges where these meaningful differences participate in organised coordination.
+
+Representation may then arise in some advanced forms of cognition capable of modelling absent, future, or hypothetical conditions.
+
+This sequence clarifies why information is not foundational within biology.
+
+Informational significance depends upon prior forms of organisational continuity already operating within living systems.
 
 ## Cognition and Information
 
@@ -263,6 +293,7 @@ Cognition emerges through:
 - integrated evaluation
 - temporally extended regulation
 - context-sensitive coordination
+- semiosis
 - and viability-oriented activity
 
 Informational processing may participate in these processes.
@@ -270,17 +301,43 @@ Informational processing may participate in these processes.
 But informational transformation alone does not explain:
 - why systems care about outcomes
 - why some states count as failure
+- why organisms regulate activity relative to future viability
 - or why cognition is biologically significant
 
 These questions depend upon:
 - evaluation
 - semiosis
 - normativity
+- temporality
 - and persistence
 
 rather than on information considered independently.
 
 [[box:what-aps-means-by-cognition]]
+
+## Information Across Biological Scales
+
+Informational significance also differs across biological scales and temporal horizons.
+
+At molecular scales, informational relations may involve:
+- signalling pathways
+- transcriptional regulation
+- and metabolic coordination
+
+At organismal scales, informational significance may involve:
+- perception
+- behavioural regulation
+- memory
+- anticipation
+- and adaptive coordination
+
+At ecological scales, informational relations may involve:
+- environmental coupling
+- interspecies signalling
+- niche construction
+- and distributed regulatory dynamics
+
+APS therefore treats information not as a single uniform entity, but as organisationally situated within different persistence-maintaining processes operating across multiple scales of biological organisation.
 
 ## Information Without Life
 
@@ -302,7 +359,7 @@ This demonstrates that information alone is not sufficient for:
 - cognition
 - or organised persistence
 
-Nor does optimisation, representation, prediction, or informational complexity alone explain how systems sustain themselves as living organisations.
+Nor does optimisation, representation, prediction, or informational complexity alone explain how systems sustain themselves as living organisations through time.
 
 ## The APS Perspective
 
@@ -312,7 +369,8 @@ It situates information within a broader organisational framework.
 
 From an APS perspective:
 - viability-oriented organisation grounds biological agency
-- evaluation modulates activity relative to persistence
+- persistence maintains organisational continuity through time
+- evaluation modulates activity relative to viability
 - semiosis structures differences as biologically meaningful
 - information emerges where differences participate in organised regulation
 - cognition integrates evaluative activity across time
@@ -329,6 +387,7 @@ Information must therefore be understood through the same organisational grammar
 - agency
 - process
 - scale
+- temporality
 - viability
 - evaluation
 - semiosis
@@ -349,9 +408,11 @@ APS fully recognises these realities.
 
 But information is not the foundation of life.
 
-Biological systems first exist as viability-oriented organisations.
+Biological systems first exist as temporally continuous, viability-oriented organisations.
 
-Evaluation modulates activity relative to persistence.
+Persistence maintains organisational continuity through changing conditions.
+
+Evaluation modulates activity relative to viability.
 
 Semiosis structures differences as biologically meaningful.
 
@@ -359,4 +420,4 @@ Only then does information emerge as part of organised biological activity.
 
 Information is therefore not what makes life possible.
 
-It is one of the ways organised life sustains itself.
+It is one of the ways organised life sustains itself through time.

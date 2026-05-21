@@ -4,8 +4,8 @@ title: Evaluation — How Living Systems Modulate Activity Relative to Viability
 slug: evaluation-how-living-systems-modulate-activity-relative-to-viability
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-15
-revised: 2026-05-15
+canonicalLockDate: 2026-05-21
+revised: 2026-05-21
 cluster: cognition-mind
 
 abstract: >
@@ -15,7 +15,8 @@ abstract: >
   physical processes; they regulate activity in relation to conditions that
   support or undermine persistence. Evaluation therefore constitutes the
   real-time enactment of biological normativity and provides the organisational
-  bridge linking viability, semiosis, cognition, and biological agency.
+  bridge linking viability, semiosis, cognition, temporality, and biological
+  agency.
 
 relatedGlossaryTerms:
   - evaluation
@@ -26,6 +27,8 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
+  - temporality
+  - persistence
   - constraint-closure
   - biological-organisation
   - meaning
@@ -84,7 +87,7 @@ references:
     pages: "225–240"
 ---
 
-## The Problem of Evaluation in Biology
+# The Problem of Evaluation in Biology
 
 Biological systems continuously regulate their activity in relation to conditions that support or undermine their persistence.
 
@@ -104,7 +107,7 @@ Sometimes it is treated metaphorically, as though organisms merely appear to eva
 
 APS argues that evaluation is neither metaphorical nor reducible to abstract computation.
 
-Evaluation is a fundamental organisational feature of viability-oriented living systems.
+Evaluation is a fundamental organisational feature of temporally continuous, viability-oriented living systems.
 
 ## From Viability to Evaluation
 
@@ -116,9 +119,11 @@ Evaluation becomes intelligible only within the broader organisational structure
 
 This sequence does not introduce new substances or hidden mental properties. It makes explicit an organisational structure already present within living systems.
 
-A system capable of sustaining itself must continuously regulate activity in relation to conditions affecting persistence. Some conditions support viability, others threaten it, and the system’s activity changes accordingly.
+A system capable of sustaining itself must continuously regulate activity in relation to conditions affecting persistence across time. Some conditions support viability, others threaten it, and the system’s activity changes accordingly.
 
 Evaluation is therefore the enactment of normativity in real time.
+
+It is through evaluation that living systems maintain continuity between present activity and future persistence.
 
 ## Evaluation as Organisational Modulation
 
@@ -140,6 +145,10 @@ Evaluation therefore occurs wherever activity is differentially organised in rel
 
 Importantly, this does not imply conscious awareness, deliberation, or symbolic reasoning. Evaluation is biologically basic before it becomes cognitively elaborate.
 
+Evaluation is also inherently temporal.
+
+Living systems do not merely react instantaneously to isolated stimuli. They maintain ongoing organisational continuity through changing conditions, and evaluative modulation helps stabilise that continuity across time.
+
 ## Evaluation Without Representation
 
 Many theories implicitly treat evaluation as dependent upon internal representations, models, or symbolic encoding.
@@ -155,7 +164,8 @@ Artificial systems may classify inputs, optimise outputs, or simulate adaptive b
 Biological evaluation differs because:
 - the system’s own persistence is at stake
 - modulation is organised relative to viability
-- and activity contributes to maintaining the conditions required for continued existence
+- activity contributes to maintaining the conditions required for continued existence
+- and regulation participates in sustaining organisational continuity through time
 
 Evaluation is therefore organisational and embodied rather than purely computational or representational.
 
@@ -172,6 +182,24 @@ Semiosis therefore depends upon evaluation:
 - semiosis structures differences as mattering within that modulation
 
 Meaning in APS is thus not fundamentally symbolic or linguistic. It is the organisation of differences within evaluative biological activity.
+
+APS increasingly understands this relationship developmentally:
+
+- persistence
+- evaluation
+- semiosis
+- information
+- representation
+
+Persistence establishes the temporal continuity of organised living activity.
+
+Evaluation modulates that activity relative to viability.
+
+Semiosis structures differences as biologically meaningful within ongoing regulation.
+
+Information emerges where meaningful differences participate in organised coordination.
+
+Representation may arise within some advanced forms of cognition capable of modelling absent, hypothetical, or future conditions.
 
 ## Evaluation and Cognition
 
@@ -201,7 +229,30 @@ Evaluation explains how that activity becomes differentially organised relative 
 
 Without evaluation, agency would reduce to undifferentiated activity lacking normative organisation. Without agency, evaluation would lack an organised system within which modulation could occur.
 
-Evaluation therefore functions as one of the central organisational bridges linking viability, normativity, semiosis, cognition, and agency.
+Evaluation therefore functions as one of the central organisational bridges linking viability, normativity, semiosis, cognition, temporality, and agency.
+
+## Evaluation Across Biological Scales
+
+Evaluative organisation operates across multiple biological scales and temporal horizons.
+
+At molecular scales, evaluation may involve:
+- metabolic regulation
+- transcriptional modulation
+- and signalling coordination
+
+At organismal scales, evaluation may involve:
+- behavioural adaptation
+- physiological compensation
+- learning
+- and anticipatory regulation
+
+At ecological scales, evaluation may involve:
+- environmental coupling
+- collective responsiveness
+- niche construction
+- and ecosystem-level regulatory dynamics
+
+APS therefore treats evaluation not as a single isolated mechanism, but as an organisational principle operating across interconnected scales of persistence-maintaining activity.
 
 ## Evaluation and Diagnostics
 
@@ -212,7 +263,8 @@ Living systems can often be identified not merely by structural organisation, bu
 Perturbation-based diagnosis therefore depends partly upon detecting evaluative organisation:
 - whether systems differentiate between viability-supporting and viability-threatening conditions
 - whether activity reorganises relative to those conditions
-- and whether regulation contributes to organised persistence
+- whether regulation contributes to organised persistence
+- and whether organisational continuity is restored or stabilised through time
 
 Evaluation thus provides an operational bridge between APS ontology and APS diagnostics.
 
@@ -229,7 +281,8 @@ Artificial systems generally operate within externally maintained organisational
 Biological evaluation differs because:
 - evaluation contributes directly to maintaining the system’s own conditions of existence
 - modulation occurs within constraint-closed organisation
-- and the system’s persistence is organisationally at stake
+- persistence is organisationally at stake
+- and evaluative activity contributes to sustaining continuity through time
 
 This distinction is critical for differentiating biological agency from artificial performance.
 
@@ -245,8 +298,10 @@ Within APS, evaluation functions as the organisational bridge linking:
 - viability
 - normativity
 - semiosis
+- information
 - cognition
 - agency
+- temporality
 - and diagnostics
 
 Understanding evaluation in this way allows biological meaning, cognition, and regulation to be grounded within the organisation of living systems themselves rather than in abstract computation, symbolic representation, or externally imposed interpretation.
