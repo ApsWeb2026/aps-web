@@ -1,21 +1,22 @@
 ---
 date: 2026-05-06
-title: Semiosis — How Differences Come to Matter in Living Systems
+title: "Semiosis — How Differences Come to Matter in Living Systems"
 slug: semiosis-how-differences-come-to-matter-in-living-systems
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-15
-revised: 2026-05-15
+canonicalLockDate: 2026-05-20
+revised: 2026-05-20
 cluster: cognition-mind
 
 abstract: >
-  This article clarifies semiosis within the Agency–Process–Scale (APS)
-  framework. Semiosis is understood not as symbolic representation or linguistic
-  meaning, but as the organisation of differences as mattering within
-  viability-oriented evaluative regulation. Living systems do not merely
-  encounter differences in the world; they regulate their activity in relation
-  to differences that affect their persistence. Semiosis therefore grounds
-  biological meaning in evaluative organisation rather than representation.
+  This article develops an APS account of semiosis as the organisation of
+  differences as mattering within viability-oriented evaluative regulation.
+  Semiosis is not treated as symbolic representation, linguistic meaning, or
+  abstract information processing alone, but as the temporally organised
+  integration of meaningful differences into continuity-preserving biological
+  activity. Living systems regulate themselves relative to differences that
+  affect persistence, and semiosis emerges wherever such differences become
+  organised within evaluative viability-oriented continuity.
 
 relatedGlossaryTerms:
   - semiosis
@@ -31,16 +32,20 @@ relatedGlossaryTerms:
   - meaning
   - representation
   - information
+  - continuity
+  - temporality
 
 relatedArticles:
+  - temporal-organisation-and-organised-persistence
   - cognition-where-does-it-belong-in-biology
-  - aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems
-  - biological-agency-without-intentions
+  - meaning-in-biology
+  - representation-an-aps-clarification
   - why-life-is-not-information-processing
-  - description-explanation-and-definition-in-biology
+  - biological-agency-without-intentions
   - why-ai-is-not-biological-agency
   - consciousness-an-aps-clarification
-  - why-life-is-not-intelligence-an-aps-clarification
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - evolution-as-the-historical-transformation-of-organised-persistence
 
 references:
   - id: peirce1931
@@ -72,122 +77,357 @@ references:
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     source: "Springer"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    source: "Harvard University Press"
 ---
 
-## The Conventional Understanding of Semiosis
+# Semiosis — How Differences Come to Matter in Living Systems
+
+> **Where this article fits:** This article develops the APS account of semiosis as the organisation of meaningful difference within viability-oriented systems. Semiosis is treated not as symbolic representation or abstract information processing, but as temporally organised evaluative continuity through which living systems regulate activity relative to conditions affecting persistence. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
 
 Semiosis is traditionally understood as the production and interpretation of signs.
 
-In linguistics and philosophy, this often involves:
-- symbols
-- representation
-- communication
-- interpretation by a subject
+In linguistics and philosophy, semiosis is frequently associated with:
+- symbols;
+- representation;
+- communication;
+- interpretation;
+- and language-like meaning.
 
-Within biology, semiosis is sometimes extended metaphorically to signalling systems, genetic codes, or animal communication.
+Within biology, semiosis is sometimes extended metaphorically to:
+- signalling systems;
+- genetic codes;
+- neural representation;
+- or animal communication.
 
-These approaches capture important aspects of how organisms interact with their environments, but they can also create confusion.
+These approaches capture important aspects of how organisms interact with their environments, but they can also create conceptual confusion.
 
-If semiosis is understood too narrowly, it becomes restricted to language-like representation.  
-If understood too broadly, all causal interaction risks becoming “meaningful,” making the concept explanatorily weak.
+If semiosis is understood too narrowly, it becomes restricted to symbolic representation or conscious interpretation.
 
-APS reframes semiosis by grounding it in biological organisation.
+If understood too broadly, all causal interaction risks becoming meaningful, weakening explanatory clarity.
 
-## The APS Reframing
+APS therefore reframes semiosis organisationally.
 
-In APS, semiosis is not fundamentally about symbols or representation.
+Semiosis is not fundamentally about symbols or representation.
 
 Semiosis is the organisation of differences as mattering within viability-oriented evaluative regulation.
 
-Living systems do not merely undergo physical interactions. They modulate their activity in relation to differences that affect the conditions of their persistence.
+Living systems do not merely encounter differences in the world.
 
-A nutrient gradient, a toxin, a temperature shift, or a signal molecule matters to a system because it bears upon the maintenance of viability.
+They regulate activity relative to differences affecting persistence.
 
-Semiosis therefore arises wherever differences are integrated into evaluative biological activity.
+Semiosis therefore emerges where living systems organise differences relative to the continuity conditions of viable persistence across time.
 
-## Semiosis and Evaluation
+[[box:what-aps-means-by-meaning]]
+
+# Semiosis and Evaluative Organisation
 
 Semiosis depends upon evaluation.
 
-- **Viability** establishes the conditions required for persistence  
-- **Normativity** establishes what counts as success or failure relative to those conditions  
-- **Evaluation** modulates activity relative to those conditions  
-- **Semiosis** structures differences as mattering within that evaluative activity  
+Living systems continuously regulate activity relative to conditions affecting viability.
 
-Semiosis is therefore not an independent layer added onto biology. It is part of how living systems organise their interactions with the world.
+Within such systems:
+- some conditions support persistence;
+- others undermine it;
+- some stabilise continuity;
+- others generate disruption or perturbation.
 
-Differences become meaningful because they alter how activity is regulated in relation to viability.
+Differences therefore become biologically meaningful because they matter organisationally for viable persistence.
 
-## Semiosis Without Representation
+APS situates semiosis within a broader organisational sequence:
+
+viability  
+↓  
+normativity  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition
+
+Within this sequence:
+- **viability** establishes the conditions required for persistence;
+- **normativity** establishes what counts as success or failure relative to those conditions;
+- **evaluation** modulates activity relative to those conditions;
+- **semiosis** organises meaningful differences within that evaluative activity.
+
+Semiosis is therefore not an independent layer added onto biology.
+
+It emerges through viability-oriented evaluative organisation itself.
+
+# Semiosis and Temporally Organised Continuity
+
+Semiosis is intrinsically temporal.
+
+Living systems continuously integrate meaningful differences into ongoing continuity-preserving activity.
+
+A nutrient gradient,
+temperature shift,
+signal molecule,
+predator cue,
+or developmental condition
+
+matters because it alters how activity becomes organised relative to persistence across time.
+
+Semiosis therefore contributes directly to continuity-sensitive regulation.
+
+Meaningful differences influence:
+- behavioural trajectories;
+- developmental organisation;
+- physiological coordination;
+- ecological interaction;
+- adaptive response;
+- and persistence-maintaining activity.
+
+Semiosis therefore participates directly in:
+> temporally organised viable continuity.
+
+Meaning becomes biologically significant because differences matter for the continued persistence of living systems across changing conditions.
+
+# Semiosis Without Representation
 
 APS does not require organisms to internally represent the world in order for semiosis to occur.
 
-Nor does APS identify semiosis with information processing, signal manipulation, or computational responsiveness considered independently of viability-oriented organisation.
+Nor does APS identify semiosis with:
+- information processing;
+- signal manipulation;
+- symbolic encoding;
+- or computational responsiveness considered independently of viability-oriented organisation.
 
-A bacterium moving along a chemical gradient does not need a symbolic model of its environment. What matters is that environmental differences are:
-- detected
-- integrated into regulation
-- acted upon relative to viability
+A bacterium moving along a chemical gradient does not require:
+- symbolic interpretation;
+- internal world models;
+- or conscious awareness.
+
+What matters is that environmental differences become:
+- detected;
+- integrated into evaluation;
+- and acted upon relative to viability.
 
 Meaning in this sense is organisational and evaluative rather than representational or symbolic.
 
-APS therefore distinguishes biological semiosis from signal processing in general. Artificial systems may register, classify, and respond to differences without those differences participating in viability-oriented organisational persistence. In living systems, semiosis matters because differences become consequential for the continued existence of the organism itself. For further discussion, see *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*.
+APS therefore distinguishes biological semiosis from signal processing in general.
 
-Semiosis therefore does not depend on:
-- language
-- symbolic encoding
-- internal models
-- conscious interpretation
+Artificial systems may:
+- classify differences;
+- manipulate signals;
+- or respond computationally
 
-It depends on the organisation of evaluative activity within living systems.
+without those differences participating in viability-oriented organised persistence.
 
-## Functional Lineages of Semiosis
+In living systems, semiosis matters because differences become consequential for the continuity of living organisation itself.
 
-Different organisms may realise semiosis through very different structures and mechanisms.
+[[box:what-aps-means-by-information]]
 
-Chemical signalling in bacteria, hormonal coordination in plants, nervous systems in animals, and symbolic communication in humans all differ materially and evolutionarily.
+Semiosis therefore does not fundamentally depend upon:
+- language;
+- symbolic encoding;
+- internal representation;
+- conscious interpretation;
+- or abstract computation.
 
-Yet these systems may participate in related functional lineages insofar as they organise differences as mattering for viability-oriented regulation.
+It depends upon evaluative organisation within living systems.
 
-The continuity lies not in identical structures but in the persistence and transformation of organisational roles across evolution.
+# Functional Lineages of Semiosis
 
-This allows semiosis to be compared across diverse forms of life without reducing meaning to any particular material substrate or representational architecture.
+Different organisms realise semiosis through very different material organisations.
 
-## Semiosis and Cognition
+Semiosis may involve:
+- chemical signalling in bacteria;
+- hormonal coordination in plants;
+- nervous systems in animals;
+- behavioural communication;
+- or symbolic language in humans.
+
+These systems differ:
+- materially;
+- developmentally;
+- evolutionarily;
+- and behaviourally.
+
+Yet they may still participate in related functional lineages insofar as they organise meaningful differences relative to viability-oriented persistence.
+
+The continuity lies not merely in recurring functions, but in the ongoing historical transformation of continuity-preserving evaluative organisation across living systems.
+
+This allows semiosis to be compared across diverse forms of life without reducing meaning to:
+- neural structure;
+- symbolic representation;
+- or any single material substrate.
+
+# Semiosis and Cognition
 
 Semiosis and cognition are closely related but not identical.
 
-Semiosis concerns the organisation of differences as mattering for viability.
+Semiosis concerns the organisation of differences as mattering within viability-oriented evaluation.
 
-Cognition arises when semiosis becomes sufficiently integrated and temporally extended such that present regulation is organised in relation to conditions beyond the immediate present.
+Cognition emerges where semiosis becomes sufficiently integrated and temporally extended that present regulation incorporates:
+- absent conditions;
+- delayed consequences;
+- anticipated possibilities;
+- unrealised alternatives;
+- and counterfactual relations
 
-All cognition therefore involves semiosis, but not all semiosis constitutes cognition.
+into continuity-sensitive activity.
+
+All cognition therefore involves semiosis.
+
+But not all semiosis constitutes cognition.
 
 This distinction allows APS to:
-- ground cognition within biology
-- avoid reducing all life to cognition
-- preserve continuity across living systems
+- ground cognition within biology;
+- preserve continuity across living systems;
+- and avoid reducing all life to cognition itself.
 
-## Implications for Biology
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-visual.png"
+      alt="Continuity from semiosis to cognition within viability-oriented organisation"
+      loading="lazy"
+    />
+  </a>
 
-Understanding semiosis organisationally has several consequences.
+  <p class="aps-diagram-caption">
+    <strong>Semiosis and Cognition Continuity.</strong>
+    APS interprets cognition as a temporally extended development of evaluative semiosis within viability-oriented systems. Meaningful differences become progressively integrated into continuity-sensitive regulation across expanding temporal horizons.
+  </p>
+</div>
 
-First, it situates meaning within biology itself rather than treating it as something added by minds or observers.
+# Semiosis and Adaptation
 
-Second, it allows biological systems to be compared without assuming identical neural or representational structures.
+Semiosis contributes directly to adaptation.
 
-Third, it avoids reducing meaning either to:
-- purely physical causation
-- or symbolic representation alone
+Living systems reorganise activity relative to meaningful environmental differences affecting persistence.
 
-Meaning becomes a property of viability-oriented organisation.
+Semiosis therefore supports:
+- adaptive flexibility;
+- behavioural coordination;
+- ecological responsiveness;
+- physiological regulation;
+- and developmental reorganisation.
 
-Semiosis is therefore explained through the same organisational grammar governing biological explanation more generally: agency, process, scale, viability, and evaluation.
+Adaptation depends partly upon how effectively meaningful differences become integrated into viability-oriented activity.
 
-## Where Semiosis Belongs
+Semiosis therefore contributes directly to:
+> continuity-preserving transformation across changing conditions.
+
+# Semiosis and Biological Agency
+
+Semiosis remains continuous with biological agency.
+
+Agency refers broadly to the viability-oriented activity through which living systems sustain organised persistence.
+
+Semiosis modulates that activity by organising differences as biologically meaningful relative to continuity conditions.
+
+Living systems therefore do not merely undergo causal interaction.
+
+They regulate activity relative to what matters for persistence.
+
+Semiosis consequently contributes directly to the organisation of biological agency itself.
+
+# Semiosis Across Scale and Time
+
+Semiosis operates across interacting biological scales and temporalities.
+
+Meaningful differences may participate within:
+- molecular signalling;
+- cellular regulation;
+- physiological coordination;
+- behavioural organisation;
+- ecological interaction;
+- developmental transformation;
+- and evolutionary continuity.
+
+These are not isolated levels of semiosis.
+
+They are interacting dimensions of continuity-sensitive evaluative organisation distributed across living systems and their environments.
+
+APS therefore rejects reducing semiosis to:
+- neural activity alone;
+- symbolic reasoning alone;
+- or representation alone.
+
+Semiosis instead emerges through multiscale viability-oriented continuity across interacting temporal conditions.
+
+# Semiosis Within the APS Explanatory Grammar
+
+APS situates semiosis within the broader explanatory grammar organised through:
+- agency;
+- process;
+- and scale.
+
+Semiosis therefore cannot be understood adequately as:
+- symbolic representation alone;
+- computational processing alone;
+- or abstract communication detached from biology.
+
+Instead, semiosis emerges through:
+- viability-oriented evaluation;
+- continuity-sensitive regulation;
+- organism–environment coupling;
+- adaptive organisation;
+- and temporally structured persistence.
+
+Semiosis therefore belongs intrinsically within biological explanation itself.
+
+# Implications for Biology
+
+Reframing semiosis organisationally has several important consequences.
+
+It:
+- situates meaning within biology itself;
+- weakens strict separation between life and semiosis;
+- distinguishes semiosis from abstract computation;
+- grounds cognition organisationally;
+- strengthens multiscale explanation;
+- and integrates meaning into temporally organised persistence.
+
+APS therefore explains semiosis through the same organisational grammar governing biological explanation more generally:
+- viability;
+- evaluation;
+- adaptation;
+- agency;
+- process;
+- scale;
+- and continuity.
+
+Meaning therefore emerges through organised persistence itself rather than through representation alone.
+
+# Where Semiosis Belongs
 
 In APS, semiosis is the organisation of differences as mattering within viability-oriented evaluative activity.
 
-Living systems regulate themselves in relation to conditions that affect their persistence, and semiosis is the structuring of those conditions within evaluative organisation.
+Living systems regulate themselves relative to conditions affecting persistence, and semiosis structures those conditions within continuity-sensitive organisation.
 
-Semiosis therefore grounds biological meaning in viability-oriented organisation rather than representation, allowing continuity across diverse forms of life without reducing meaning to language, symbols, or internal models.
+Semiosis therefore grounds biological meaning not in symbolic representation alone, but in temporally organised viability-oriented continuity distributed across living systems and their environments.
+
+APS consequently situates semiosis:
+> within the organisation of life itself, as one of the principal ways living systems regulate continuity across changing conditions and interacting temporal scales.
+
+---
+
+## Related Pathways
+
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
+- *[Meaning in Biology](/articles/meaning-in-biology/)*
+- *[Representation — An APS Clarification](/articles/representation-an-aps-clarification/)*
+- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
+- *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
+
+---
+
+## Key Terms
+
+semiosis · meaning · evaluation · continuity · temporality · viability · cognition · representation · adaptation · agency · organisation

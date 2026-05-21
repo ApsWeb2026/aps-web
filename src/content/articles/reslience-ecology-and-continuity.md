@@ -4,18 +4,20 @@ title: "Resilience, Ecology, and Continuity"
 slug: resilience-ecology-and-continuity
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-18
-revised: 2026-05-18
+canonicalLockDate: 2026-05-20
+revised: 2026-05-20
 cluster: conceptual-foundations
 
 abstract: >
   APS approaches resilience as the continuity-preserving reorganisation of
   distributed ecological persistence systems under perturbation. Resilience is
-  not merely recovery after disturbance, but the dynamic capacity of ecological
-  continuity structures to reorganise viability-oriented persistence across
-  interacting organisms, environments, scales, and processes. This article
-  integrates resilience, ecology, diagnosis, perturbation, and adaptation
-  within a unified continuity framework for biological explanation.
+  not merely recovery after disturbance or return to equilibrium, but the
+  temporally organised capacity of ecological continuity systems to preserve
+  viable persistence through adaptive redistribution, compensation, and
+  transformation across changing conditions and interacting scales. This
+  article integrates resilience, ecology, diagnosis, perturbation,
+  adaptation, semiosis, and temporal organisation within a unified continuity
+  framework for biological explanation.
 
 relatedGlossaryTerms:
   - resilience
@@ -33,8 +35,11 @@ relatedGlossaryTerms:
   - constraint
   - constraint-closure
   - semiosis
+  - continuity
+  - temporality
 
 relatedArticles:
+  - temporal-organisation-and-organised-persistence
   - ecology-as-organised-persistence-across-scales
   - diagnosis-as-continuity-analysis
   - continuity-structure-of-biological-organisation
@@ -82,7 +87,9 @@ references:
     source: "Princeton University Press"
 ---
 
-# Introduction
+# Resilience, Ecology, and Continuity
+
+> **Where this article fits:** This article develops the APS account of resilience as continuity-preserving ecological reorganisation within temporally organised persistence systems. Resilience links ecology, diagnosis, perturbation, adaptation, semiosis, and temporal organisation through the preservation of viable continuity under changing conditions. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
 
 Living systems persist under conditions of continual perturbation.
 
@@ -106,7 +113,9 @@ This reframes resilience from:
 - or return-to-equilibrium stability
 
 toward:
-- dynamic continuity organisation across ecological scales and processes.
+- dynamic continuity organisation across ecological scales, temporal conditions, and interacting processes.
+
+Living systems therefore remain resilient not by preserving static organisation, but by preserving continuity through ongoing ecological transformation and adaptive reorganisation across time.
 
 The central claim of this article is therefore:
 
@@ -151,6 +160,21 @@ Organisms remain viable partly because they participate in distributed continuit
 
 APS consequently approaches resilience ecologically rather than individualistically.
 
+<div class="aps-diagram">
+  <a href="/assets/diagrams/ecology-continuity-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/ecology-continuity-visual.png"
+      alt="Ecological continuity and resilience across distributed persistence systems"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Ecological Continuity and Resilience.</strong>
+    APS interprets resilience as continuity-preserving ecological reorganisation distributed across organisms, environments, trophic relations, perturbation dynamics, and adaptive persistence systems operating across interacting scales and temporal conditions.
+  </p>
+</div>
+
 # Resilience and Continuity
 
 Resilience concerns continuity preservation under perturbation.
@@ -175,6 +199,9 @@ continuity preservation
 
 Resilience therefore concerns:
 > the preservation of viable continuity through ecological reorganisation.
+
+Resilience consequently becomes:
+> temporally organised continuity preservation under instability.
 
 # Resilience Is Not Mere Stability
 
@@ -235,9 +262,9 @@ Environmental change reorganises persistence conditions, while living systems si
 APS consequently approaches resilience as:
 > continuity-preserving reorganisation within distributed ecological coupling systems.
 
-# Resilience Across Scale
+# Resilience Across Scale and Time
 
-Resilience operates across interacting scales.
+Resilience operates across interacting scales and temporalities.
 
 Continuity may be preserved through:
 - physiological regulation;
@@ -255,7 +282,10 @@ APS therefore approaches resilience through distributed continuity relations ext
 - behavioural;
 - ecological;
 - climatic;
+- developmental;
 - and evolutionary systems.
+
+Resilience therefore emerges through temporally organised continuity distributed across interacting ecological timescales and persistence structures.
 
 # Resilience and Adaptation
 
@@ -310,6 +340,9 @@ Perturbation reveals:
 
 Diagnosis therefore concerns not merely isolated dysfunction, but the organisation of continuity under ecological perturbation.
 
+Diagnosis therefore becomes:
+> temporal continuity analysis under perturbation.
+
 APS consequently integrates resilience directly with:
 - diagnosis;
 - perturbation analysis;
@@ -339,6 +372,7 @@ This integrates resilience directly into:
 - diagnosis;
 - adaptation;
 - semiosis;
+- temporality;
 - and biological explanation itself.
 
 # Resilience and Biological Explanation
@@ -368,6 +402,8 @@ Living systems remain viable not because they avoid instability entirely, but be
 Resilience therefore concerns:
 > the preservation of viable continuity through ecological reorganisation.
 
+Resilience therefore concerns the capacity of temporally organised ecological continuity systems to preserve viable persistence through perturbation, compensation, redistribution, and transformation across changing conditions.
+
 APS consequently reframes resilience not as static resistance or equilibrium recovery, but as:
 > distributed continuity-preserving organisation within ecological persistence systems.
 
@@ -376,4 +412,22 @@ This makes resilience central to:
 - diagnosis;
 - adaptation;
 - perturbation analysis;
+- temporality;
 - and biological explanation itself.
+
+---
+
+## Related Pathways
+
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+- *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
+- *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
+- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
+
+---
+
+## Key Terms
+
+resilience · ecology · continuity · perturbation · adaptation · temporality · persistence · ecological coupling · semiosis · transformation · organisation

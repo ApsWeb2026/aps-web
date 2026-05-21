@@ -1,22 +1,25 @@
 ---
 date: 2026-04-16
-title: Adaptation — How Living Systems Sustain Themselves Through Change
+title: "Adaptation — How Living Systems Sustain Themselves Through Change"
 slug: adaptation-how-living-systems-sustain-themselves-through-change
-type: article
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-05
-revised: 2026-05-05
+canonicalLockDate: 2026-05-20
+revised: 2026-05-20
 cluster: conceptual-foundations
-abstract: |
-  In the Agency–Process–Scale (APS) framework, adaptation is the reorganisation of viability-oriented organisation through which living systems sustain themselves under changing conditions. This article clarifies adaptation as an expression of biological agency and as the process linking immediate persistence with long-term evolutionary transformation.
-keyPoints:
-  - Adaptation is the reorganisation of viability-oriented organisation under changing conditions.
-  - Adaptation is a condition for evolution, not merely its outcome.
-  - Living systems actively reorganise their internal and external relations to maintain viability.
-  - Adaptation operates through the modification of functional roles within organised systems.
-  - Adaptation links persistence with evolutionary transformation.
+
+abstract: >
+  In the Agency–Process–Scale (APS) framework, adaptation is the
+  reorganisation of viability-oriented organisation through which living
+  systems sustain themselves under changing conditions. Adaptation is not
+  passive adjustment or optimisation, but an ongoing process through which
+  organised persistence is maintained through transformation across changing
+  ecological, developmental, and historical conditions. APS therefore treats
+  adaptation as a central process linking persistence, regulation,
+  development, ecology, resilience, and long-term evolutionary continuity.
+
 relatedGlossaryTerms:
+  - adaptation
   - persistence
   - evolution
   - biological-agency
@@ -25,16 +28,25 @@ relatedGlossaryTerms:
   - scale
   - normativity
   - evaluation
+  - viability
+  - resilience
+  - continuity
+
 relatedArticles:
+  - temporal-organisation-and-organised-persistence
   - evolution-as-the-historical-transformation-of-organised-persistence
+  - ecology-as-organised-persistence-across-scales
+  - diagnosis-as-continuity-analysis
   - explanatory-geometry-of-biology
-  - from-life-to-explanation-emerging-architecture
+  - developmental-organisation-and-organised-persistence
   - description-explanation-and-definition-in-biology
+  - organisational-realism-in-biology
+
 references:
   - id: mayr1961
     authors: "Mayr, E."
     year: 1961
-    title: "Cause and effect in biology"
+    title: "Cause and Effect in Biology"
     journal: "Science"
     volume: "134"
     pages: "1501–1506"
@@ -55,7 +67,7 @@ references:
   - id: noble2012
     authors: "Noble, D."
     year: 2012
-    title: "A theory of biological relativity: no privileged level of causation"
+    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
     journal: "Interface Focus"
     volume: "2"
     pages: "55–64"
@@ -64,7 +76,7 @@ references:
   - id: pigliucci2007
     authors: "Pigliucci, M."
     year: 2007
-    title: "Do we need an extended evolutionary synthesis?"
+    title: "Do We Need an Extended Evolutionary Synthesis?"
     journal: "Evolution"
     volume: "61"
     pages: "2743–2749"
@@ -73,138 +85,330 @@ references:
   - id: grafen1999
     authors: "Grafen, A."
     year: 1999
-    title: "Formal Darwinism, the individual-as-maximizing-agent analogy, and bet-hedging"
+    title: "Formal Darwinism, the Individual-as-Maximizing-Agent Analogy, and Bet-Hedging"
     journal: "Proceedings of the Royal Society B: Biological Sciences"
     volume: "266"
     pages: "799–803"
     doi: "10.1098/rspb.1999.0708"
+
 ---
 
-## What is adaptation?
+# Adaptation — How Living Systems Sustain Themselves Through Change
 
-In the Agency–Process–Scale (APS) framework, adaptation is the reorganisation of viability-oriented organisation through which living systems sustain themselves under changing conditions. It is not a passive response to external pressures, nor simply the outcome of selection across generations. Rather, adaptation is an ongoing activity through which systems maintain their viability in the face of variation.
+> **Where this article fits:** This article develops the APS account of adaptation as continuity-preserving reorganisation within viability-oriented systems. Adaptation links persistence, development, ecology, resilience, and evolution through temporally organised transformation. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
 
-Living systems do not persist by remaining unchanged. They persist by continuously reorganising their internal processes and their relations to the environment. Adaptation is the form this reorganisation takes when conditions vary.
+Adaptation is commonly understood as adjustment to environmental conditions or as the evolutionary optimisation of organisms across generations.
+
+APS rejects both framings when treated in isolation.
+
+Living systems do not merely respond passively to external pressures, nor do they persist by gradually approaching ideal states of optimisation.
+
+They persist through the continuous reorganisation of viability-oriented organisation across changing conditions and interacting timescales.
+
+Adaptation is one of the principal processes through which organised persistence is maintained through transformation.
+
+Living systems therefore do not survive by remaining unchanged.
+
+They survive because they continuously reorganise:
+- physiology;
+- behaviour;
+- development;
+- ecological interaction;
+- and functional organisation
+
+relative to changing conditions affecting viability.
+
+Adaptation is therefore not secondary to biological organisation.
+
+It is intrinsic to how living systems persist across time.
 
 [[box:temporal-organisation-persistence-adaptation-evolution]]
 
-Adaptation therefore cannot be understood in isolation. It is one expression of the temporal organisation through which living systems endure, respond, and change. To understand adaptation is to understand how systems remain viable while their conditions are shifting.
+# Adaptation as a Condition of Persistence
 
-## Adaptation as a condition of persistence
+Adaptation is not separate from persistence.
 
-Adaptation is not separate from persistence but intrinsic to it. A system that cannot adjust its organisation in response to changing conditions cannot sustain itself. Persistence therefore depends on the capacity for adaptive reorganisation.
+Persistence depends upon adaptive reorganisation.
 
-This reorganisation can take many forms. At the molecular and cellular level, it may involve shifts in metabolic pathways or regulatory networks. At the organismal level, it may involve changes in behaviour, physiology, or development. At broader scales, it may involve altered interactions with other organisms or the environment.
+A system unable to reorganise activity under changing conditions cannot sustain viable continuity across time.
 
-In each case, what matters is not the specific mechanism but the organisational effect: processes are modified in ways that preserve the system’s viability. Adaptation is therefore not the introduction of novelty for its own sake, but the maintenance of organised activity under altered conditions.
+Adaptation therefore concerns the capacity of living systems to preserve organisational continuity through transformation.
 
-This point is crucial. Adaptation is often described as improvement or optimisation, but from an APS perspective its primary role is more basic: it enables persistence. A change is adaptive not because it is better in some abstract sense, but because it allows the system to continue as a viable system.
+This reorganisation may occur through:
+- metabolic adjustment;
+- physiological compensation;
+- behavioural flexibility;
+- developmental plasticity;
+- ecological modification;
+- or regulatory redistribution.
 
-## Adaptation is not optimisation
+At every scale, the defining issue is organisational rather than merely mechanistic.
 
-A common misunderstanding is to equate adaptation with optimisation. On this view, systems adapt by becoming better suited to their environment, moving toward some optimal state.
+Processes become adaptive when they contribute to maintaining viability-oriented persistence under changing conditions.
 
-APS rejects this framing. Living systems do not optimise in any global or final sense. They operate under constraints, historical contingencies, and limited information. What matters is not achieving the best possible state, but maintaining a viable one.
+Adaptation therefore does not introduce change for its own sake.
 
-Adaptation is therefore better understood as **viability-preserving reorganisation**. It involves:
-- maintaining function under new conditions  
-- compensating for perturbations  
-- stabilising activity within viable bounds  
+It reorganises activity in ways that preserve continuity across perturbation and transformation.
 
-This may sometimes result in increased efficiency or improved performance, but these are outcomes, not defining features. The defining feature is that the system continues to sustain itself.
+Living systems consequently persist:
+> through adaptive reorganisation rather than static endurance.
 
-## Adaptation and normativity
+# Adaptation Is Not Optimisation
 
-Because adaptation is oriented toward maintaining viability, it is inherently normative. Not all changes are equivalent: some contribute to persistence, while others undermine it.
+Adaptation is often described as optimisation.
+
+APS rejects this interpretation.
+
+Living systems do not move toward globally optimal states.
+
+They persist under:
+- historical constraint;
+- ecological instability;
+- developmental limitation;
+- energetic restriction;
+- and incomplete information.
+
+What matters biologically is not ideal perfection but viable continuity.
+
+Adaptation is therefore better understood as:
+
+> viability-preserving reorganisation.
+
+Adaptive processes may:
+- stabilise function;
+- compensate for perturbation;
+- redistribute organisation;
+- preserve continuity;
+- or restore viable conditions.
+
+Improved efficiency or enhanced performance may occur, but these are secondary outcomes rather than defining principles.
+
+The defining issue is whether organised persistence remains viable across changing conditions.
+
+# Adaptation and Normativity
+
+Because adaptation is viability-oriented, it is inherently normative.
+
+Living systems distinguish:
+- viable from non-viable states;
+- persistence-supporting from persistence-undermining conditions;
+- and stabilising from destabilising organisational trajectories.
 
 Adaptation therefore involves:
-- distinguishing viable from non-viable states  
-- modulating activity accordingly  
-- stabilising configurations that sustain the system  
+- evaluating conditions relative to viability;
+- modulating activity accordingly;
+- and reorganising persistence-maintaining organisation under perturbation.
 
-This normativity does not depend on external standards or conscious evaluation. It arises from the organisation of the system itself. Processes have significance in relation to whether they support or disrupt persistence.
+This normativity does not require conscious awareness or external standards.
 
-For example:
-- a metabolic shift that restores energy balance is adaptive  
-- one that disrupts core processes is not  
+It emerges from the organisation of living systems themselves.
 
-These distinctions are not imposed from outside—they are intrinsic to the system’s organisation.
+Processes matter biologically because they contribute differently to the maintenance or disruption of organised persistence.
 
-## Adaptation and function
+A metabolic shift restoring energetic balance becomes adaptive because it preserves viability-oriented continuity.
 
-Adaptation operates through the modification of functional organisation. Processes are reorganised in ways that preserve or restore their contribution to viability.
+A disruption destabilising persistence becomes maladaptive because it undermines continuity.
 
-This may involve:
-- maintaining existing functional roles under new conditions  
-- redistributing functional contributions across processes  
-- generating new functional relations when required  
+Normativity therefore emerges intrinsically through viability-oriented organisation.
 
-For instance:
-- an organism may shift energy use across metabolic pathways  
-- a plant may alter growth patterns in response to light availability  
-- a system may recruit alternative processes when primary ones are disrupted  
+# Adaptation and Functional Reorganisation
 
-Function, in this sense, is not fixed but dynamically maintained. Adaptation is the process through which functional organisation remains viable despite variation.
+Adaptation operates through functional reorganisation.
 
-## Adaptation and the environment
+Functional relations are not static.
 
-Adaptation is inseparable from system–environment interaction. Changes in environmental conditions alter the constraints under which a system operates, requiring corresponding reorganisation.
+Living systems continuously reorganise:
+- metabolic pathways;
+- physiological coordination;
+- behavioural activity;
+- developmental trajectories;
+- and ecological interaction
 
-However, this relation is not one-sided. Systems do not simply respond to environments—they also modify them. Through their activity, they alter the conditions they encounter.
+in ways preserving viability under changing conditions.
 
-Examples include:
-- organisms modifying local chemical conditions  
-- plants altering soil composition or light environments  
-- animals changing ecological dynamics through behaviour  
+Adaptation may therefore involve:
+- maintaining existing functional roles;
+- redistributing functional contributions;
+- compensating through alternative pathways;
+- or generating novel organisational relations.
 
-Adaptation therefore occurs within a coupled system–environment dynamic in which both system and environment are continuously shaped.
+Function is consequently dynamic rather than fixed.
 
-This reinforces that adaptation is not passive reaction, but active reorganisation within a relational field.
+Adaptive organisation preserves continuity by reorganising how biological activity contributes to persistence.
 
-## Adaptation across scales
+# Adaptation and System–Environment Coupling
 
-Adaptation is not confined to a single scale of organisation. It occurs across spatial and temporal domains, from rapid molecular adjustments to slower developmental and ecological changes.
+Adaptation is inseparable from organism–environment coupling.
 
-At different scales:
-- molecular processes adjust reaction dynamics  
-- cells regulate internal conditions  
-- organisms alter behaviour or physiology  
-- populations exhibit shifting patterns across generations  
+Environmental conditions alter:
+- energetic constraints;
+- ecological pressures;
+- developmental possibilities;
+- behavioural demands;
+- and persistence conditions.
 
-These are not independent processes but interconnected aspects of a single organisation. Adaptation involves the coordination of activity across these scales in ways that maintain viability.
+Living systems reorganise activity relative to these changing conditions.
 
-This multi-scale character is essential. A change at one scale may require compensatory changes at others. Adaptation is therefore not local adjustment but system-wide reorganisation.
+At the same time, organisms actively modify their environments through:
+- metabolism;
+- behaviour;
+- niche construction;
+- ecological engineering;
+- and environmental transformation.
 
-## Adaptation and evolution
+Adaptation is therefore not passive response to external forces.
 
-Adaptation links persistence to evolution. While adaptation operates within the lifetime of a system, its effects can be stabilised and transmitted across generations.
+It emerges through ongoing reciprocal organisation between systems and environments.
 
-Evolution can therefore be understood as the cumulative transformation of organisation resulting from repeated cycles of:
-- persistence  
-- adaptive reorganisation  
-- reproduction  
+Organism and environment continuously co-organise the conditions of persistence.
 
-Adaptation provides the mechanism through which variation remains compatible with viability, allowing evolutionary processes to occur.
+# Adaptation Across Scale and Time
+
+Adaptation unfolds across interacting biological scales and temporalities.
+
+Adaptive reorganisation may occur:
+- rapidly through physiological regulation;
+- developmentally through plasticity;
+- ecologically through behavioural interaction;
+- historically through evolutionary transformation.
+
+These processes remain coupled rather than isolated.
+
+Short-term compensatory regulation may influence:
+- developmental trajectories;
+- ecological organisation;
+- reproductive continuity;
+- and long-term evolutionary transformation.
+
+Adaptation therefore depends upon multiscale temporal coordination distributed across interacting biological processes.
+
+APS consequently rejects reducing adaptation to:
+- isolated mechanisms;
+- single timescales;
+- or local adjustment alone.
+
+Adaptation instead emerges through continuity-preserving reorganisation distributed across interacting scales of organised persistence.
+
+# Adaptation and Resilience
+
+Adaptation also contributes directly to resilience.
+
+Living systems continuously encounter:
+- perturbation;
+- instability;
+- environmental fluctuation;
+- developmental disruption;
+- and ecological transformation.
+
+Resilience concerns whether organised persistence can reorganise successfully under such conditions.
+
+Adaptation therefore functions as one of the principal mechanisms through which resilience becomes possible.
+
+Living systems preserve continuity by:
+- compensating;
+- redistributing organisation;
+- reorganising functional relations;
+- and restoring viability-oriented coordination.
+
+Resilience therefore depends upon adaptive continuity across changing conditions and timescales.
+
+[[box:perturbation-reveals-organisation]]
+
+# Adaptation and Evolution
+
+Adaptation links persistence to evolution.
+
+Living systems continuously reorganise activity relative to changing conditions within lifetimes and across generations.
+
+Evolutionary transformation emerges historically through repeated cycles of:
+- persistence;
+- adaptive reorganisation;
+- inheritance;
+- and differential continuity.
+
+Adaptation therefore enables viable continuity to remain historically stable despite ongoing transformation.
 
 Without adaptation:
-- variation would often disrupt organisation  
-- systems would fail to persist  
-- evolutionary change could not accumulate  
+- variation would destabilise organisation;
+- persistence would collapse;
+- and evolutionary continuity could not accumulate historically.
 
-In this sense, adaptation is a condition for evolution, not merely one of its outcomes.
+Evolution therefore depends upon adaptive continuity.
 
-## Why adaptation matters
+Evolutionary organisation preserves continuity not through static sameness, but through the long-term transformation of viability-oriented organisation across generations.
 
-Understanding adaptation in this way clarifies several issues:
+Adaptation consequently becomes one of the principal processes through which:
+> continuity is preserved through transformation across evolutionary time.
 
-- It distinguishes adaptation from passive response or optimisation  
-- It grounds function in ongoing organisation rather than static roles  
-- It explains how systems maintain themselves under changing conditions  
-- It links short-term regulation with long-term evolutionary change  
-- It situates adaptation within the broader structure of biological organisation  
+# Adaptation Within the APS Explanatory Grammar
 
-Adaptation is therefore not a secondary feature of living systems but a central aspect of how they exist. It expresses the capacity of viability-oriented organisation to sustain itself through change.
+APS situates adaptation within the broader explanatory grammar organised through:
+- agency;
+- process;
+- and scale.
 
-## Summary
+Adaptation therefore cannot be understood adequately as:
+- passive adjustment;
+- optimisation;
+- or isolated trait modification alone.
 
-Adaptation is the reorganisation of viability-oriented organisation under changing conditions. It is intrinsic to persistence, grounded in the normativity of biological systems, and realised through the modification of functional relations. By enabling systems to remain viable under variation, adaptation provides the bridge between present activity and evolutionary transformation.
+Instead, adaptation emerges through:
+- viability-oriented regulation;
+- functional reorganisation;
+- organism–environment coupling;
+- developmental transformation;
+- resilience;
+- and temporally organised continuity.
+
+Adaptation therefore belongs intrinsically within biological explanation itself.
+
+# Why Adaptation Matters in APS
+
+Clarifying adaptation organisationally helps resolve several persistent conceptual problems.
+
+It:
+- distinguishes adaptation from optimisation;
+- grounds function within organised persistence;
+- integrates ecology and development directly into adaptation;
+- clarifies the relation between persistence and evolution;
+- strengthens multiscale biological explanation;
+- and situates resilience within continuity-preserving transformation.
+
+APS therefore treats adaptation not as a secondary property of life, but as one of the central organisational processes through which living systems sustain themselves across time.
+
+# Conclusion
+
+Adaptation is the reorganisation of viability-oriented organisation under changing conditions.
+
+Living systems persist not by remaining unchanged, but through the continuous reorganisation of activity preserving viable continuity across developmental, ecological, and historical transformation.
+
+Adaptation therefore links:
+- persistence;
+- resilience;
+- development;
+- ecology;
+- and evolution
+
+within a unified process of continuity-preserving transformation.
+
+Living systems consequently sustain themselves:
+> through adaptive reorganisation across changing conditions and interacting timescales.
+
+APS therefore treats adaptation as one of the principal organisational processes through which viable persistence exists across time.
+
+---
+
+## Related Pathways
+
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
+- *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
+- *[Developmental Organisation and Organised Persistence](/articles/developmental-organisation-and-organised-persistence/)*
+- *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
+
+---
+
+## Key Terms
+
+adaptation · persistence · continuity · transformation · resilience · viability · evolution · development · ecology · organisation · process

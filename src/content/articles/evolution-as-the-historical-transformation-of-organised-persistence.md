@@ -38,6 +38,7 @@ relatedGlossaryTerms:
   - process
   - scale
   - normativity
+  - continuity
 
 relatedArticles:
   - what-is-aps
@@ -46,6 +47,7 @@ relatedArticles:
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
+  - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
   - natural-selection-an-aps-clarification
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
@@ -117,7 +119,7 @@ references:
 
 # Evolution as the Historical Transformation of Organised Persistence
 
-> **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viable biological organisation across generations. Evolution is approached not merely statistically, but organisationally, developmentally, ecologically, and historically. For the broader explanatory architecture underlying APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)* and *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+> **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viable biological organisation across generations. Evolution is approached not merely statistically, but organisationally, developmentally, ecologically, and historically. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
 
 Living systems do not merely persist.
 
@@ -142,17 +144,20 @@ Evolution does not explain the original emergence of organised persistence. Rath
 
 Evolution therefore concerns the historical transformation of organised persistence itself.
 
-<figure class="aps-diagram aps-diagram--wide">
-  <img
-    src="/assets/diagrams/evolution-visual.png"
-    alt="Evolution as the historical transformation of organised persistence"
-    loading="lazy"
-  />
-  <figcaption>
-    <strong>Figure F7. Evolutionary Transformation of Organised Persistence.</strong>
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-visual.png"
+      alt="Evolution as the historical transformation of organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Primary Evolution Visual.</strong>
     APS interprets evolution as the historical transformation of viability-oriented organisation across variation, adaptation, inheritance, fitness, and natural selection. Selection does not create organised persistence; it differentially stabilises already viable forms of living organisation across generations.
-  </figcaption>
-</figure>
+  </p>
+</div>
 
 [[box:what-biological-explanation-explains]]
 
@@ -166,7 +171,9 @@ Natural selection, inheritance, variation, and evolutionary transformation opera
 
 This reverses a common explanatory assumption within strongly selection-centred interpretations of evolution.
 
-Persistence is not the outcome of evolution in the first instance. Evolution becomes possible only where living systems already sustain organised biological continuity across time.
+Persistence is not the outcome of evolution in the first instance.
+
+Evolution becomes possible only where living systems already sustain organised biological continuity across time.
 
 APS therefore treats organised persistence as explanatorily prior to evolutionary transformation.
 
@@ -193,6 +200,9 @@ Across generations, these organisational relations may:
 Evolution therefore concerns the historical transformation of persistence-sustaining organisation itself.
 
 What evolves is not merely structure in abstraction, but the organisational capacities through which living systems sustain viability across changing developmental and ecological conditions.
+
+Living systems therefore persist evolutionarily:
+> through transformation rather than despite it.
 
 APS consequently approaches evolution organisationally rather than reductionistically or statistically alone.
 
@@ -349,6 +359,10 @@ APS consequently rejects views of evolution that treat organisms as passive subs
 
 APS situates evolution within a broader temporal architecture of biological explanation.
 
+Evolutionary continuity depends upon temporally organised persistence remaining sufficiently viable across generations despite ongoing organisational transformation.
+
+Evolution therefore preserves continuity not through static sameness, but through the regeneration, inheritance, modification, and historical transformation of viable organisation across time.
+
 - **Viability** concerns the conditions required for organised persistence.
 - **Persistence** concerns the ongoing maintenance of viability-oriented organisation.
 - **Variation** diversifies organised persistence.
@@ -362,19 +376,31 @@ These are not isolated explanatory categories.
 
 They form interacting dimensions of a unified organisational grammar for understanding historical biological transformation.
 
-<figure class="aps-diagram aps-diagram--wide">
-  <img
-    src="/assets/diagrams/evolution-continuity-visual.png"
-    alt="Evolution as continuity through transformation across generations"
-    loading="lazy"
-  />
-  <figcaption>
-    <strong>Figure F8. Evolution as Continuity Through Transformation.</strong>
-    Within APS, evolution preserves continuity not through static sameness, but through the ongoing regeneration, modification, inheritance, and transformation of viable organisation across generations. What persists evolutionarily is organised continuity through change.
-  </figcaption>
-</figure>
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-continuity-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-continuity-visual.png"
+      alt="Evolution as continuity through transformation across generations"
+      loading="lazy"
+    />
+  </a>
 
-APS therefore treats evolution as historically structured continuity rather than simple accumulation of isolated changes. Organised persistence is regenerated across generations through variation, inheritance, adaptation, ecological interaction, and differential stabilisation under changing conditions. Evolutionary transformation consequently preserves continuity not by preventing change, but by propagating viable organisation through ongoing modification across time.
+  <p class="aps-diagram-caption">
+    <strong>Evolution Continuity Visual.</strong>
+    Primary visuals clarify the organisational structure of a biological domain. Continuity visuals trace how that organisation develops continuously through viability-oriented transformation across generations, preserving explanatory continuity across biological organisation.
+  </p>
+</div>
+
+APS therefore treats evolution as historically structured continuity rather than simple accumulation of isolated changes.
+
+Organised persistence is regenerated across generations through:
+- variation;
+- inheritance;
+- adaptation;
+- ecological interaction;
+- and differential stabilisation under changing conditions.
+
+Evolutionary transformation consequently preserves continuity not by preventing change, but by propagating viable organisation through ongoing modification across time.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
@@ -400,19 +426,27 @@ It is the historical transformation of viability-oriented, constraint-closed org
 
 Living systems persist historically by regenerating, reorganising, and transforming the organisation through which viability is sustained under changing developmental and ecological conditions.
 
+Living systems therefore persist evolutionarily:
+> through transformation rather than despite it.
+
 Variation diversifies organised persistence. Adaptation reorganises it. Inheritance reproduces it. Fitness contributes to its continuity. Natural selection differentially stabilises it historically.
 
 Evolution therefore concerns the long-term transformation of organised persistence itself.
 
 APS consequently approaches evolution not as the statistical modification of isolated hereditary units, but as the historical transformation of living organisation across interacting biological scales.
 
+---
+
 ## Related Pathways
 
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Natural Selection — An APS Clarification](/articles/natural-selection-an-aps-clarification/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
+
+---
 
 ## Key Terms
 
