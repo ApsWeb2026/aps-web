@@ -107,8 +107,6 @@ Together, agency, process, and scale form the core explanatory grammar of APS, t
   </p>
 </div>
 
-*Figure: APS explains living systems through the integrated dimensions of agency, process, and scale. These dimensions are mutually explanatory and together ground organised persistence.*
-
 [[box:what-aps-changes-and-what-it-does-not]]
 
 [[box:the-organisational-grammar-of-aps]]
