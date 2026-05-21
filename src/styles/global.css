@@ -1628,14 +1628,11 @@ main .content-wrapper .article-body h3 a {
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
-/* Article and orientation diagram breakout */
+/* Canonical APS diagram breakout */
 
-.article-content-wrapper .article-body .aps-diagram,
-.article-content-wrapper .article-body .diagram,
-.article-content-wrapper .article-body .figure,
-.orientation-content-wrapper .article-body .aps-diagram,
-.orientation-content-wrapper .article-body .diagram,
-.orientation-content-wrapper .article-body .figure {
+.aps-diagram,
+.diagram,
+.figure {
   width: min(96vw, 1400px);
   max-width: none;
   position: relative;
@@ -1645,18 +1642,12 @@ main .content-wrapper .article-body h3 a {
   text-align: center;
 }
 
-.article-content-wrapper .article-body .aps-diagram img,
-.article-content-wrapper .article-body .aps-diagram svg,
-.article-content-wrapper .article-body .diagram img,
-.article-content-wrapper .article-body .diagram svg,
-.article-content-wrapper .article-body .figure img,
-.article-content-wrapper .article-body .figure svg,
-.orientation-content-wrapper .article-body .aps-diagram img,
-.orientation-content-wrapper .article-body .aps-diagram svg,
-.orientation-content-wrapper .article-body .diagram img,
-.orientation-content-wrapper .article-body .diagram svg,
-.orientation-content-wrapper .article-body .figure img,
-.orientation-content-wrapper .article-body .figure svg {
+.aps-diagram img,
+.aps-diagram svg,
+.diagram img,
+.diagram svg,
+.figure img,
+.figure svg {
   width: 100%;
   max-width: none;
   height: auto;
