@@ -1641,7 +1641,7 @@ main .content-wrapper .article-body h3 a {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  margin: 2.75rem 0;
+  margin: 2.75rem auto;
   text-align: center;
 }
 
