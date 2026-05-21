@@ -38,8 +38,8 @@ relatedGlossaryTerms:
 relatedArticles:
   - temporal-organisation-and-organised-persistence
   - cognition-where-does-it-belong-in-biology
-  - meaning-in-biology
-  - representation-an-aps-clarification
+  - meaning-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
   - why-life-is-not-information-processing
   - biological-agency-without-intentions
   - why-ai-is-not-biological-agency
@@ -421,8 +421,8 @@ APS consequently situates semiosis:
 
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
-- *[Meaning in Biology](/articles/meaning-in-biology/)*
-- *[Representation — An APS Clarification](/articles/representation-an-aps-clarification/)*
+- *[Meaning in Biology](/articles/meaning-in-biology-an-aps-clarification/)*
+- *[Representation — An APS Clarification](/articles/representation-when-and-whether-it-arises-in-biological-systems/)*
 - *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
 - *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
 
