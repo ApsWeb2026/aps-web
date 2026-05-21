@@ -105,12 +105,11 @@ references:
     year: 2011
     title: "Incomplete Nature"
     source: "W. W. Norton"
-
 ---
 
 # Ecology as Organised Persistence Across Scales
 
-> **Where this article fits:** This article develops the ecological implications of APS. Ecology is treated not as an external domain added onto organismal biology, but as part of the persistence-maintaining organisation through which living systems remain viable across time. For the broader explanatory architecture underlying APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)* and *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
+> **Where this article fits:** This article develops the ecological implications of APS. Ecology is treated not as an external domain added onto organismal biology, but as part of the persistence-maintaining organisation through which living systems remain viable across time. For the broader explanatory architecture underlying APS, see *APS as Philosophy — A Viability-Oriented Account of Biological Reality* and *The Explanatory Geometry of Biology — How APS Organises Biological Explanation*.
 
 Living systems do not exist independently of their environments.
 
@@ -132,11 +131,11 @@ APS consequently approaches ecology as:
 > organised persistence across distributed organism–environment systems.
 
 This reframes ecology away from:
-- static environment description;
+- static environmental description;
 - isolated interaction analysis;
 - or external contextual background
 
-toward:
+and toward:
 - continuity analysis within distributed living organisation.
 
 The central ecological question therefore becomes not simply:
@@ -240,43 +239,6 @@ ecological continuity
 
 Ecology therefore concerns the environmental organisation of viable persistence.
 
-# Organism–Environment Coupling
-
-Within APS, *[organism–environment coupling](/glossary/organism-environment-coupling/)* is not merely behavioural interaction.
-
-It is a persistence-maintaining organisational relation.
-
-Living systems continuously:
-- sample environments;
-- regulate exchanges;
-- modify conditions;
-- exploit resources;
-- avoid threats;
-- and reorganise activity relative to viability constraints.
-
-Environments are therefore not passive backgrounds.
-
-They participate directly in shaping:
-- developmental trajectories;
-- behavioural possibilities;
-- metabolic viability;
-- cognitive organisation;
-- and evolutionary transformation.
-
-APS consequently treats coupling as organisationally real.
-
-The organism and environment are not independent systems subsequently connected by interaction. Their relation itself becomes part of the organised continuity through which persistence is maintained.
-
-This becomes especially clear in:
-- symbiosis;
-- microbiome integration;
-- ecological engineering;
-- niche construction;
-- developmental plasticity;
-- and social organisation.
-
-Persistence is therefore distributed across relational systems rather than confined within isolated organismal boundaries alone.
-
 # Ecology as Multiscale Organisation
 
 Ecology operates across interacting scales.
@@ -303,21 +265,79 @@ APS consequently approaches ecology through multiscale continuity structures dis
 Ecological explanation requires understanding how persistence-maintaining relations propagate across interacting spatial and temporal domains.
 
 <div class="aps-diagram">
-  <img
-    src="/assets/diagrams/ecology-visual.png"
-    alt="Ecology as organised persistence across scales"
-    loading="lazy"
-  />
+  <a href="/assets/diagrams/ecology-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/ecology-visual.png"
+      alt="Ecology as organised persistence across scales"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Primary Ecology Visual.</strong>
+    APS interprets ecology as the distributed organisation of viable persistence across organism–environment systems. Ecological continuity emerges through interacting processes spanning metabolism, behaviour, development, semiosis, resilience, and evolutionary transformation across multiple biological scales.
+  </p>
 </div>
 
-<p class="diagram-caption">
-  <strong>Figure F2. Ecology as Organised Persistence Across Scales.</strong>
-  APS interprets ecology as the distributed organisation of viable persistence across organism–environment systems. Ecological continuity emerges through interacting processes spanning metabolism, behaviour, development, semiosis, resilience, and evolutionary transformation across multiple biological scales.
-</p>
+APS therefore treats ecological organisation as a distributed continuity structure rather than a collection of isolated interactions. Organisms, environments, developmental processes, behavioural systems, and evolutionary dynamics together form multiscale relations through which viable persistence becomes possible across time.
 
-APS therefore treats ecological organisation as a distributed continuity structure rather than a collection of isolated interactions. Organisms, environments, developmental processes, behavioural systems, and evolutionary dynamics together form multiscale relations through which viable persistence becomes possible across time. Ecology consequently becomes one of the clearest demonstrations of how organised persistence propagates across interacting domains of biological activity.
+<div class="aps-diagram">
+  <a href="/assets/diagrams/ecology-continuity-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/ecology-continuity-visual.png"
+      alt="Ecological continuity within viability-oriented organisation across scales and time"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Ecology Continuity Visual.</strong>
+    Primary visuals clarify the organisational structure of a biological domain. Continuity visuals trace how that organisation develops continuously from viability-oriented activity across scales and time, preserving explanatory continuity across biological organisation.
+  </p>
+</div>
+
+Ecology consequently becomes one of the clearest demonstrations of how organised persistence propagates across interacting domains of biological activity.
 
 [[box:the-organisational-grammar-of-aps]]
+
+# Organism–Environment Coupling
+
+Within APS, *organism–environment coupling* is not merely behavioural interaction.
+
+It is a persistence-maintaining organisational relation.
+
+Living systems continuously:
+- sample environments;
+- regulate exchanges;
+- modify conditions;
+- exploit resources;
+- avoid threats;
+- and reorganise activity relative to viability constraints.
+
+Environments are therefore not passive backgrounds.
+
+They participate directly in shaping:
+- developmental trajectories;
+- behavioural possibilities;
+- metabolic viability;
+- cognitive organisation;
+- and evolutionary transformation.
+
+APS consequently treats coupling as organisationally real.
+
+The organism and environment are not independent systems subsequently connected by interaction.
+
+Their relation itself becomes part of the organised continuity through which persistence is maintained.
+
+This becomes especially clear in:
+- symbiosis;
+- microbiome integration;
+- ecological engineering;
+- niche construction;
+- developmental plasticity;
+- and social organisation.
+
+Persistence is therefore distributed across relational systems rather than confined within isolated organismal boundaries alone.
 
 # Ecology and Perturbation
 
@@ -350,7 +370,7 @@ APS consequently approaches ecology through continuity analysis under changing c
 
 Ecological persistence depends upon resilience.
 
-APS treats *[ecological resilience](/glossary/ecological-resilience/)* as an organisational property of systems capable of sustaining continuity through adaptive reorganisation.
+APS treats *ecological resilience* as an organisational property of systems capable of sustaining continuity through adaptive reorganisation.
 
 Resilience concerns the capacity of ecological organisation to:
 - absorb disturbance;
@@ -462,7 +482,9 @@ APS also integrates ecology and evolution more closely than many traditional fra
 
 Evolutionary change occurs within ecological persistence conditions.
 
-Selection pressures do not arise independently of ecological organisation. They emerge through ongoing organism–environment relations distributed across time.
+Selection pressures do not arise independently of ecological organisation.
+
+They emerge through ongoing organism–environment relations distributed across time.
 
 Likewise:
 - ecological systems influence developmental trajectories;
@@ -533,7 +555,9 @@ Ecology becomes:
 
 APS reconstructs ecology around organised persistence across scale.
 
-Organisms do not persist independently of ecological organisation. Their continued existence depends upon ongoing coupling with environmental systems distributed across multiple interacting domains of activity.
+Organisms do not persist independently of ecological organisation.
+
+Their continued existence depends upon ongoing coupling with environmental systems distributed across multiple interacting domains of activity.
 
 Ecological relations are therefore not merely external interactions between already-complete entities.
 
@@ -550,6 +574,8 @@ Ecology therefore becomes one of the clearest demonstrations of the central APS 
 
 > living systems are intelligible only through the multiscale organisation of viable persistence distributed across organism–environment systems, adaptive processes, and evolving continuity structures.
 
+---
+
 ## Related Pathways
 
 - *[Organism–Environment Coupling](/glossary/organism-environment-coupling/)*
@@ -558,7 +584,7 @@ Ecology therefore becomes one of the clearest demonstrations of the central APS 
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
-- *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
+- *[Why APS Is Not Holism?](/articles/why-aps-is-not-holism/)*
 
 ## Key Terms
 
