@@ -2,12 +2,13 @@
 date: 2026-04-26
 title: Viability
 slug: viability
-definition: "In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate its persistence across time."
-inBrief: "Viability specifies the conditions under which organised persistence can be sustained."
+definition: "In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate organised persistence across time."
+inBrief: "Viability specifies the conditions under which organised persistence can be sustained and regenerated across time."
+
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 seeAlso:
@@ -23,6 +24,7 @@ seeAlso:
   - scale
   - adaptation
   - evolution
+  - temporal-organisation
 
 relatedArticles:
   - aps-architecture-map
@@ -31,6 +33,7 @@ relatedArticles:
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
+  - temporal-organisation-and-organised-persistence
   - how-to-diagnose-a-biological-system
   - scale-time-persistence
   - evolution-as-the-historical-transformation-of-organised-persistence
@@ -90,17 +93,19 @@ Such accounts describe important aspects of biological persistence, but they do 
 
 ## The APS Reframing
 
-In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate its persistence across time.
+In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate organised persistence across time.
 
 Viability therefore does not name the activity through which persistence is maintained. That activity is persistence itself.
 
 Rather, viability specifies the conditions relative to which organised activity can succeed or fail.
 
-> **Where this concept fits:** Viability is one of the foundational organising concepts of APS. It grounds normativity, agency, adaptation, semiosis, cognition, evolution, and biological diagnosis within a unified account of organised persistence. For the broader structure of the framework, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this concept fits:** Viability is one of the foundational organising concepts of APS. It grounds normativity, agency, adaptation, semiosis, cognition, evolution, temporal organisation, and biological diagnosis within a unified account of organised persistence. For the broader structure of the framework, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 Living systems continuously regulate and reorganise activity in relation to these conditions.
 
 Viability therefore functions as the normative reference frame of biological organisation.
+
+Viability is therefore inseparable from organised continuity across time.
 
 ## Viability and Biological Organisation
 
@@ -113,6 +118,8 @@ Membranes must regulate exchange. Metabolic organisation must remain sufficientl
 Viability therefore concerns the conditions under which organised persistence remains possible.
 
 APS consequently treats viability not as an externally imposed criterion, but as an organisational condition emerging from the structure of living systems themselves.
+
+Viability is therefore organisationally enacted rather than externally assigned.
 
 ## Viability and Normativity
 
@@ -137,7 +144,8 @@ Living systems exhibit changing degrees and forms of viability depending upon:
 - organisational stability;
 - adaptive flexibility;
 - repair capacity;
-- and resilience under perturbation.
+- resilience under perturbation;
+- and the ongoing coordination of organised activity across time.
 
 Viability may therefore be:
 - strengthened;
@@ -149,6 +157,10 @@ Viability may therefore be:
 Living systems continuously regulate activity in order to maintain viability under changing conditions.
 
 Viability in APS therefore concerns ongoing organisational capacity rather than static survival status alone.
+
+Living systems do not passively possess viability.
+
+They actively maintain the conditions through which viability remains possible.
 
 ## Viability Across Scale
 
@@ -163,6 +175,8 @@ They are scale-coupled aspects of continuous biological organisation distributed
 Viability in APS is therefore inseparable from agency, process, and scale. Organised persistence depends upon coordinated activity distributed across interacting temporal and spatial domains.
 
 For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
+
+Temporal continuity is therefore maintained through viability-oriented coordination across interacting organisational timescales.
 
 ## Viability and Agency
 
@@ -191,6 +205,8 @@ Adaptation therefore reflects the active modulation of organisation relative to 
 
 Persistence does not require static stability. It requires the capacity to sustain viability through continuous reorganisation.
 
+Adaptation is therefore one of the principal mechanisms through which organised continuity is maintained across time.
+
 ## Viability and Evolution
 
 Viability is foundational for evolution.
@@ -202,6 +218,20 @@ Natural selection operates only within populations of systems capable of maintai
 Evolution therefore transforms viable forms of organisation across generations rather than producing viability from non-viability.
 
 APS consequently treats evolution as the historical transformation of viable organised persistence.
+
+## Viability and Temporal Organisation
+
+Viability is inseparable from temporal organisation.
+
+Living systems do not merely remain viable at isolated moments.
+
+They continuously organise activity relative to conditions required for ongoing persistence across time.
+
+Repair, adaptation, compensation, regulation, and reorganisation therefore contribute to the active maintenance of viable continuity.
+
+APS consequently understands viability not as a static condition but as a temporally extended organisational achievement.
+
+Living systems persist only insofar as viability can be continuously regenerated through organised activity.
 
 ## Viability as an Operational Concept
 
@@ -223,7 +253,7 @@ APS consequently treats diagnosis, malfunction, breakdown, and recovery as organ
 
 ## Summary
 
-In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate its persistence across time.
+In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate organised persistence across time.
 
 Viability grounds:
 - normativity;
@@ -233,13 +263,18 @@ Viability grounds:
 - semiosis;
 - cognition;
 - diagnosis;
-- and evolution,
+- evolution;
+- and temporal organisation,
 
 because living systems continuously regulate activity relative to conditions under which organised persistence can succeed or fail.
 
 Viability does not describe what living systems do.
 
 It specifies the conditions under which what they do can sustain life.
+
+## Key Point
+
+Viability specifies the organisational conditions under which living systems can continuously sustain and regenerate organised persistence across time.
 
 ## Related APS Articles
 
@@ -255,9 +290,10 @@ It specifies the conditions under which what they do can sustain life.
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 - *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
 
-### Viability, Persistence, and Adaptation
+### Viability, Persistence, and Temporality
 
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[What Is Evolution in APS?](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
 

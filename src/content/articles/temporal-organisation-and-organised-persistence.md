@@ -4,20 +4,21 @@ title: "Temporal Organisation and Organised Persistence"
 slug: temporal-organisation-and-organised-persistence
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-20
-revised: 2026-05-20
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 abstract: >
   This article develops the temporal architecture of the APS framework.
   APS rejects the treatment of living systems as static entities merely
-  located in time. Living systems persist through temporally organised
-  processes that continuously regenerate, reorganise, and transform viable
-  organisation across changing conditions and interacting timescales.
-  Biological persistence therefore depends upon continuity through
-  transformation rather than static endurance. Temporal organisation is thus
-  constitutive of biological explanation itself rather than an external
-  background against which life unfolds.
+  located within external chronological time. Living systems actively
+  organise continuity across time through processes that continuously
+  regenerate, reorganise, and transform viable organisation across changing
+  conditions and interacting timescales. Biological persistence therefore
+  depends upon continuity through transformation rather than static
+  endurance. Temporal organisation is thus constitutive of biological
+  explanation itself rather than an external background against which life
+  unfolds.
 
 relatedGlossaryTerms:
   - persistence
@@ -93,7 +94,7 @@ references:
 
 # Temporal Organisation and Organised Persistence
 
-> **Where this article fits:** This article develops the temporal architecture of APS. It explains why living systems cannot be understood as static entities merely persisting within external chronological time. Instead, living systems persist through temporally organised continuity distributed across development, adaptation, ecology, cognition, diagnosis, and evolution.
+> **Where this article fits:** This article develops the temporal architecture of APS. It explains why living systems cannot be understood as static entities merely persisting within external chronological time. Instead, living systems actively organise continuity across time through temporally structured processes distributed across development, adaptation, ecology, cognition, diagnosis, resilience, and evolution.
 
 Living systems exist through time.
 
@@ -111,6 +112,10 @@ They persist through temporally organised processes that continuously regenerate
 Time is therefore not external to biological organisation.
 
 Temporal organisation is constitutive of how living systems exist as living systems.
+
+Living systems therefore do not merely persist within time.
+
+They actively organise continuity across time.
 
 APS accordingly treats biological persistence as:
 
@@ -151,7 +156,12 @@ Persistence therefore concerns:
 - reorganisation;
 - continuity maintenance;
 - adaptive transformation;
+- recursively renewed organisation;
 - and viable temporal continuity.
+
+Continuity is therefore not passively preserved across time.
+
+It is actively produced and regenerated through ongoing organisation.
 
 # Temporal Organisation and Biological Process
 
@@ -169,7 +179,7 @@ Processes such as:
 
 cannot be understood adequately as static structures or isolated events.
 
-They unfold through ordered sequences of organisation distributed across interacting timescales.
+They unfold through organised sequences of activity coordinated across interacting timescales.
 
 APS therefore treats temporality as intrinsic to biological process itself.
 
@@ -179,11 +189,16 @@ Biological organisation emerges through:
 - cyclical interaction;
 - developmental progression;
 - adaptive timing;
+- recursive regeneration;
 - and historical continuity.
 
 Temporal organisation is therefore constitutive rather than secondary.
 
 Process itself is temporally structured organisation.
+
+Living systems do not merely undergo processes within time.
+
+They continuously organise continuity through process across time.
 
 # Continuity and Temporal Organisation
 
@@ -195,6 +210,7 @@ Living systems sustain:
 - ecological continuity;
 - cognitive continuity;
 - adaptive continuity;
+- social continuity;
 - and evolutionary continuity.
 
 Diagnosis becomes possible because continuity possesses organisation.
@@ -206,6 +222,8 @@ Evolution becomes intelligible because persistence remains historically continuo
 Temporal organisation therefore unifies multiple explanatory domains within APS.
 
 Living systems remain intelligible only because continuity is sustained across changing temporal conditions.
+
+APS therefore approaches continuity not as static sameness, but as actively maintained organisational continuity distributed across changing forms of organisation.
 
 # Development as Temporal Organisation
 
@@ -243,9 +261,10 @@ Living systems continuously regulate and reorganise activity relative to changin
 - developmental plasticity;
 - ecological responsiveness;
 - resilience;
+- repair;
 - and environmental modification.
 
-Adaptation therefore unfolds through dynamically coordinated regulation distributed across multiple temporal scales.
+Adaptation therefore unfolds through dynamically coordinated regulation operating across multiple temporal scales.
 
 Some adaptive responses occur:
 - rapidly;
@@ -255,9 +274,9 @@ Some adaptive responses occur:
 - ecologically;
 - or evolutionarily.
 
-Adaptive organisation therefore depends upon temporally layered persistence distributed across interacting biological processes.
+Adaptive organisation therefore depends upon temporally layered persistence coordinated across interacting biological processes.
 
-Adaptation becomes intelligible through temporal continuity rather than isolated reaction alone.
+Adaptation becomes intelligible through organised continuity across time rather than isolated reaction alone.
 
 # Biological Agency and Temporality
 
@@ -282,6 +301,8 @@ This does not require explicit consciousness or symbolic prediction.
 
 Rather, it reflects the temporally organised regulation intrinsic to viability-oriented persistence itself.
 
+Agency therefore expresses the active organisation of continuity across time.
+
 # Ecology and Temporal Organisation
 
 Ecological organisation is also temporally layered.
@@ -299,9 +320,11 @@ Ecological persistence therefore depends upon ongoing temporal coordination betw
 
 Ecology cannot be reduced to static environmental conditions.
 
-Ecological organisation unfolds through temporally structured relations distributed across organism–environment systems.
+Ecological organisation unfolds through temporally structured relations across organism–environment systems.
 
 [[box:spatiotemporal-organisation-and-scale]]
+
+Organism and environment therefore co-organise continuity across time through ongoing reciprocal interaction.
 
 # Evolution and Historical Continuity
 
@@ -323,6 +346,8 @@ Historical continuity is therefore constitutive of evolutionary organisation its
 
 Evolution becomes intelligible through continuity across transformation.
 
+APS therefore approaches evolution not as disconnected episodic change, but as the historical transformation of organised persistence itself.
+
 # Multiscale Temporality
 
 Biological temporality operates across interacting timescales.
@@ -333,6 +358,7 @@ Living systems involve processes unfolding across:
 - developmental lifetimes;
 - ecological cycles;
 - historical trajectories;
+- institutional continuity;
 - and evolutionary epochs.
 
 These temporal scales interact continuously.
@@ -341,25 +367,27 @@ Short-term regulation may reorganise:
 - developmental trajectories;
 - ecological relations;
 - behavioural organisation;
+- social coordination;
 - and long-term evolutionary outcomes.
 
 Temporal organisation is therefore multiscalar rather than uniform.
 
 APS rejects reducing biological temporality to any single temporal frame.
 
-Temporal organisation instead emerges through coupled continuity structures distributed across interacting scales of persistence.
+Temporal organisation instead emerges through coupled continuity structures coordinated across interacting scales of persistence.
 
 # Constraint Closure and Temporal Reproduction
 
 Constraint closure is also temporally reproduced.
 
-Living systems persist through networks of mutually sustaining constraints distributed across:
+Living systems persist through networks of mutually sustaining constraints coordinated across:
 - metabolism;
 - physiology;
 - behaviour;
 - development;
 - ecology;
 - semiosis;
+- cognition;
 - and environmental interaction.
 
 These constraints must be continuously regenerated across time.
@@ -369,6 +397,27 @@ Constraint closure is therefore not static structural closure.
 It is an ongoing temporal accomplishment maintained through organised persistence itself.
 
 Living systems survive only insofar as they successfully reproduce the temporal organisation required for viability.
+
+Constraint closure therefore continuously regenerates the enabling conditions required for organised continuity across time.
+
+# Temporal Organisation and Diagnosis
+
+Temporal organisation is operationally tractable because disruption reveals the continuity structures required for persistence.
+
+Breakdown,
+repair,
+degeneration,
+recovery,
+adaptation,
+and resilience
+
+all expose how living systems maintain continuity across changing conditions.
+
+Diagnosis therefore becomes a form of continuity analysis.
+
+Living systems become intelligible because perturbation reveals the temporal organisation through which viability is sustained.
+
+APS consequently approaches diagnosis not merely as structural inspection, but as investigation into the organisation of persistence across time.
 
 # Temporal Organisation Within the APS Explanatory Grammar
 
@@ -382,13 +431,14 @@ Temporal organisation therefore cannot be treated as:
 - passive duration;
 - or neutral background sequence alone.
 
-Instead, biological temporality emerges through dynamically organised persistence distributed across:
+Instead, biological temporality emerges through dynamically organised persistence coordinated across:
 - development;
 - adaptation;
 - ecological interaction;
 - diagnosis;
 - resilience;
 - cognition;
+- social organisation;
 - evolutionary transformation;
 - and multiscale regulation.
 
@@ -406,9 +456,10 @@ It:
 - integrates development and evolution temporally;
 - clarifies resilience as continuity reorganisation;
 - situates diagnosis within temporal continuity;
-- and explains persistence through transformation rather than permanence.
+- naturalises purposiveness through organised persistence;
+- and explains continuity through transformation rather than permanence.
 
-APS therefore does not treat time as a passive container in which life occurs.
+APS therefore does not treat time as a passive container within which life occurs.
 
 Time becomes constitutive of how living systems sustain and transform viable organisation.
 
@@ -429,7 +480,11 @@ ecology,
 agency,
 diagnosis,
 resilience,
-and evolution all emerge through temporally structured organisation distributed across living systems and their environments.
+cognition,
+social organisation,
+and evolution
+
+all emerge through temporally structured organisation distributed across living systems and their environments.
 
 APS situates biological temporality within a unified explanatory framework organised through:
 - agency;
@@ -438,7 +493,7 @@ APS situates biological temporality within a unified explanatory framework organ
 
 Temporal organisation is therefore not external background to life.
 
-It is intrinsic to how organised persistence exists across time.
+It is intrinsic to how organised persistence continuously regenerates viable continuity across time.
 
 ---
 
@@ -455,4 +510,4 @@ It is intrinsic to how organised persistence exists across time.
 
 ## Key Terms
 
-temporality · continuity · persistence · transformation · development · adaptation · evolution · resilience · organisation · process · scale · historical continuity
+temporality · continuity · organised continuity · persistence · transformation · development · adaptation · evolution · resilience · organisation · process · scale · historical continuity

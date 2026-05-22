@@ -2,12 +2,13 @@
 date: 2026-04-08
 title: Constraint Closure
 slug: constraint-closure
-definition: "Constraint closure is the reciprocal organisation of mutually sustaining constraints through which a living system maintains and regenerates the conditions of its own viability."
-inBrief: "Constraint closure is the reciprocal maintenance of viability-sustaining constraints within a living system."
+definition: "Constraint closure is the reciprocal organisation of mutually sustaining constraints through which a living system continuously maintains and regenerates the conditions of its own viability and organised persistence."
+inBrief: "Constraint closure is the reciprocal regeneration of viability-sustaining constraints through ongoing organised activity."
+
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 seeAlso:
@@ -20,6 +21,7 @@ seeAlso:
   - viability-orientation
   - normativity
   - scale
+  - temporal-organisation
 
 relatedArticles:
   - aps-architecture-map
@@ -31,6 +33,7 @@ relatedArticles:
   - aps-and-autonomy-theory
   - emergence-an-aps-clarification
   - why-aps-is-not-hierarchical
+  - temporal-organisation-and-organised-persistence
   - how-to-diagnose-a-biological-system
   - perturbation-reveals-organisation
   - adaptation-how-living-systems-sustain-themselves-through-change
@@ -96,15 +99,19 @@ APS distinguishes between the mere presence of constraints and the organisation 
 
 Constraint closure arises when constraints are mutually dependent and collectively maintain the organisation of the system through ongoing activity.
 
-No single constraint explains persistence in isolation. Living systems persist because networks of constraints continuously sustain one another across time.
+No single constraint explains persistence in isolation. Living systems persist because networks of constraints continuously sustain and regenerate one another across time.
 
-> **Where this concept fits:** Constraint closure is one of the foundational organisational principles of APS. It explains how living systems maintain viability through reciprocally sustained organisation and thereby grounds persistence, normativity, agency, adaptation, and biological diagnosis within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this concept fits:** Constraint closure is one of the foundational organisational principles of APS. It explains how living systems maintain viability through reciprocally sustained organisation and thereby grounds persistence, normativity, agency, adaptation, temporal continuity, and biological diagnosis within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 Membranes regulate exchange while being regenerated through metabolism. Metabolic organisation sustains the production of enzymes that in turn constrain metabolic activity. Physiological organisation supports behavioural activity that may preserve environmental conditions necessary for continued viability.
 
-Constraint closure therefore refers to the reciprocal maintenance of viability-sustaining organisation.
+Constraint closure therefore refers to the reciprocal regeneration of viability-sustaining organisation.
 
 APS consequently treats living systems not as static structures controlled externally, but as dynamically organised systems that continuously regenerate the conditions of their own persistence.
+
+Constraint closure is therefore not merely structural.
+
+It is temporally enacted organised continuity.
 
 ## Constraint Closure and Biological Organisation
 
@@ -117,6 +124,8 @@ This stability does not arise from static structure or external control. It aris
 APS therefore understands biological organisation not primarily through components, but through the reciprocal organisation of constraints that sustain viability-oriented activity.
 
 Constraint closure in APS is therefore inseparable from process. Living organisation exists only through continuously renewed activity capable of regenerating the constraints upon which persistence depends.
+
+Organisational continuity is therefore actively maintained through recursively renewed relations of process and constraint across time.
 
 ## Constraint Closure Is Not Isolation
 
@@ -145,6 +154,8 @@ Biological constraint closure differs because the maintenance of constraint rela
 Closure is therefore organisational rather than merely dynamical.
 
 APS consequently treats closure as a condition of organised persistence rather than as a generic property of complex systems.
+
+Constraint closure therefore concerns the recursive regeneration of viability-oriented continuity rather than simple circular recurrence alone.
 
 ## Constraint Closure and Viability
 
@@ -187,6 +198,22 @@ Constraint closure therefore supports the continuity of biological organisation 
 
 APS consequently approaches closure as distributed organisational continuity rather than localised control architecture.
 
+Temporal continuity is therefore maintained through recursively coordinated constraint relations distributed across interacting organisational timescales.
+
+## Constraint Closure and Temporal Organisation
+
+Constraint closure is inseparable from temporal organisation.
+
+Living systems do not merely possess stable structures persisting passively through time.
+
+They continuously regenerate the organisational relations required for ongoing viability through renewal, repair, regulation, adaptation, and reorganisation.
+
+Constraint closure therefore explains how organised continuity is actively maintained across time despite continuous transformation and material turnover.
+
+APS consequently understands temporal continuity as organisationally enacted through recursively sustained networks of process and constraint.
+
+Living systems persist because closure continuously regenerates the conditions of viable persistence itself.
+
 ## Constraint Closure and Purpose
 
 Constraint closure provides a naturalised account of purposiveness.
@@ -217,9 +244,9 @@ APS therefore treats breakdown, repair, adaptation, and recovery as diagnostical
 
 ## Summary
 
-In APS, constraint closure is the reciprocal organisation of mutually sustaining constraints through which living systems maintain and regenerate the conditions of their own viability.
+In APS, constraint closure is the reciprocal organisation of mutually sustaining constraints through which living systems continuously maintain and regenerate the conditions of their own viability and organised persistence.
 
-Living systems persist because networks of constraints continuously sustain one another through ongoing activity distributed across scale.
+Living systems persist because networks of constraints continuously sustain and regenerate one another through ongoing activity distributed across scale and time.
 
 Constraint closure therefore grounds:
 - biological organisation;
@@ -227,9 +254,14 @@ Constraint closure therefore grounds:
 - normativity;
 - purposiveness;
 - adaptation;
+- temporal continuity;
 - and the possibility of biological agency.
 
-Life persists through reciprocally sustained organisation rather than through externally imposed control.
+Life persists through recursively regenerated organisation rather than through externally imposed control.
+
+## Key Point
+
+Constraint closure is the recursively renewed organisation of mutually sustaining constraints through which living systems continuously regenerate viability-oriented continuity across time.
 
 ## Related APS Articles
 
@@ -245,9 +277,10 @@ Life persists through reciprocally sustained organisation rather than through ex
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 - *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
 
-### Organisation, Adaptation, and Autonomy
+### Organisation, Persistence, and Temporality
 
 - *[APS and Autonomy Theory](/articles/aps-and-autonomy-theory/)*
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 
 ### Diagnosis and Perturbation
