@@ -1,56 +1,208 @@
 ---
 date: 2026-04-13
-title: What Is APS?
+title: "What Is APS?"
 slug: what-is-aps
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-17
-revised: 2026-05-17
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
+abstract: >
+  APS is a conceptual framework for understanding life as viability-oriented
+  organised persistence sustained across time. Living systems are understood
+  not as static collections of parts, but as dynamically organised systems
+  that actively sustain the conditions required for their own continued
+  persistence under changing conditions. APS explains biology through the
+  integrated organisation of agency, process, and scale within temporally
+  organised living systems.
+
 relatedArticles:
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - how-aps-explains-life
   - aps-architecture-map
-  - aps-as-philosophy-viability-oriented-account
-  - description-explanation-and-definition-in-biology
   - explanatory-geometry-of-biology
-  - reductionism-in-biology-an-aps-clarification
-  - why-aps-is-not-holism
-  - why-aps-is-not-organicism
-  - why-life-is-not-computation-an-aps-clarification
-  - why-life-is-not-intelligence-an-aps-clarification
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
+  - temporal-organisation-and-organised-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - ecology-as-organised-persistence-across-scales
+  - evolution-as-the-historical-transformation-of-organised-persistence
+  - diagnosis-as-continuity-analysis
 
 relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
   - viability
-  - biological-organisation
-  - constraint-closure
   - persistence
-  - evaluation
-  - semiosis
+  - biological-organisation
+  - temporal-organisation
+  - adaptation
   - cognition
+  - continuity
 ---
 
-APS is a conceptual framework for understanding life as **viability-oriented, constraint-closed organisation**.
+# What Is APS?
 
-APS proposes that biological explanation is directed not merely at living matter, but at the organised processes through which living systems sustain their own viability across time.
+APS is a conceptual framework for understanding life as:
+
+> viability-oriented organised persistence sustained across time.
+
+Living systems do not merely consist of matter, mechanisms, or isolated processes.
+
+They actively sustain the conditions required for their own continued persistence under changing conditions.
+
+Cells regulate metabolism.
+
+Organisms reorganise development and behaviour.
+
+Ecological systems maintain distributed continuity.
+
+Evolution transforms viable organisation historically across generations.
+
+Living systems therefore persist not by remaining unchanged, but by continuously regenerating organised continuity through time.
+
+APS explains biology through this continuity-producing organisation.
 
 [[box:what-biological-explanation-explains]]
 
-This page provides a concise introduction to the core explanatory ideas of APS.
+# The Central Idea of APS
 
-APS is organised not merely as a collection of concepts, but as an integrated explanatory architecture in which increasingly complex organisational developments emerge from prior viability-oriented conditions.
+APS proposes that biological explanation is directed not merely at:
+- structures;
+- genes;
+- mechanisms;
+- or isolated components,
 
-> **Navigating the framework:** APS now develops across multiple interconnected areas including biological explanation, evolution, cognition, meaning, diagnosis, and philosophy of biology. For an overview of how these areas fit together, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+but at the organised activity through which living systems sustain viable persistence across time.
 
-For the structural organisation of the framework, see *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*.
+Living systems exist through:
+- regulation;
+- adaptation;
+- repair;
+- ecological interaction;
+- developmental transformation;
+- and continuity-preserving organisation
 
-For the formal conceptual architecture of APS, see *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*.
+distributed across interacting scales and timescales.
 
-For the explanatory pathway developed from these ideas, see *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*.
+APS therefore approaches biology organisationally rather than reductionistically.
 
-For a deeper discussion of how scientific frameworks organise explanation, see *[Explanatory Grammar](/articles/explanatory-grammar/)*.
+# Agency, Process, and Scale
+
+APS explains biological organisation through three integrated explanatory dimensions:
+
+- agency;
+- process;
+- and scale.
+
+These are not independent concepts.
+
+They are organisational relations through which living systems sustain viable continuity.
+
+## Agency
+
+Agency, in APS, refers to the capacity of living systems to regulate activity relative to conditions affecting their persistence.
+
+Living systems:
+- modulate behaviour;
+- regulate metabolism;
+- reorganise activity;
+- and respond to perturbation
+
+in ways contributing to continued viability.
+
+Agency therefore concerns:
+- continuity regulation within living systems.
+
+## Process
+
+APS treats process as fundamental to biological existence.
+
+Living systems do not merely undergo processes.
+
+They exist through ongoing organised activity.
+
+Metabolism,
+development,
+adaptation,
+ecological interaction,
+repair,
+and cognition
+
+all depend upon temporally organised process.
+
+Process therefore:
+- enacts continuity through time.
+
+## Scale
+
+Scale concerns how biological continuity is coordinated across interacting domains of organisation.
+
+Living systems integrate:
+- molecular activity;
+- physiological regulation;
+- development;
+- behaviour;
+- ecology;
+- and evolution
+
+across multiple interacting scales and timescales.
+
+Scale therefore:
+- coordinates continuity across distributed domains of organisation.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/explanatory-structure.png"
+      alt="APS explanatory structure showing agency, process, and scale as integrated dimensions of organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>APS Explanatory Structure.</strong>
+    APS explains living systems through the integrated organisation of agency, process, and scale within viability-oriented organised persistence.
+  </p>
+</div>
+
+[[box:cognition-pathway]]
+
+# Continuity Across Biology
+
+APS develops a unified explanatory framework spanning:
+- physiology;
+- development;
+- ecology;
+- evolution;
+- adaptation;
+- cognition;
+- resilience;
+- and diagnosis.
+
+These are not treated as isolated biological domains.
+
+They become interconnected expressions of viability-oriented organised persistence across time.
+
+For example:
+- physiology regulates continuity in the present;
+- adaptation reorganises continuity under changing conditions;
+- ecology distributes continuity across organism–environment systems;
+- evolution transforms continuity historically across generations;
+- and diagnosis analyses continuity destabilisation and recovery.
+
+APS therefore approaches biology through:
+- persistence;
+- continuity;
+- temporality;
+- and organised transformation
+
+rather than through isolated mechanisms alone.
+
+# Cognition in APS
 
 APS also develops a major cognition pathway linking:
 - evaluation;
@@ -64,7 +216,11 @@ APS also develops a major cognition pathway linking:
 
 within a unified account of viability-oriented biological organisation.
 
-## Orientation Pathway
+Cognition is therefore not treated as something detached from life.
+
+It emerges progressively through increasingly integrated forms of evaluative organisation within living systems.
+
+# Orientation Pathway
 
 Readers new to APS should usually begin with the following sequence:
 
@@ -74,39 +230,10 @@ Readers new to APS should usually begin with the following sequence:
 4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 
-For a broader overview of how the major conceptual areas of APS connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+For a broader overview of how the major conceptual areas connect, see:
 
-## Agency
-
-Agency, in the APS sense, does not require intentions, beliefs, or conscious states. It refers to the capacity of a system to sustain and regulate the conditions necessary for its continued existence. In doing so, such systems are inherently normative: their activity is organised relative to what maintains or undermines their viability. This is *[biological agency](/glossary/biological-agency/)* at its most fundamental.
-
-This viability-based normativity provides the basis for how APS understands function and purpose: not as externally imposed goals or designs, but as features of organisation that contribute to the persistence of the system.
-
-## Process
-
-APS treats processes as primary for understanding biological organisation. Systems are not entities that merely undergo processes; they are dynamically organised through ongoing *[process](/glossary/process/)*. Relatively stable structures arise from these continuously organised activities. This perspective reshapes how persistence, identity, and change are understood in living systems.
-
-## Scale
-
-*[Scale](/glossary/scale/)* is a constitutive dimension of both agency and process. What counts as an agent, what counts as stable, and what counts as a process depends on the scale of organisation. APS treats scale not as a fixed hierarchy of levels, but as a continuous dimension across which processes are coordinated.
-
-[[box:cognition-pathway]]
-
-Together, agency, process, and scale form the core explanatory grammar of APS, through which living systems are understood as viability-oriented organisations that sustain the conditions of their own persistence.
-
-<div class="aps-diagram">
-  <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/explanatory-structure.png"
-      alt="APS explanatory structure showing agency, process, and scale as integrated dimensions of organised persistence"
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    APS explains living systems through the integrated dimensions of agency, process, and scale. These dimensions are mutually explanatory and together ground organised persistence.
-  </p>
-</div>
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+- *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*
 
 [[box:what-aps-changes-and-what-it-does-not]]
 
@@ -114,30 +241,72 @@ Together, agency, process, and scale form the core explanatory grammar of APS, t
 
 [[box:description-is-not-explanation]]
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Its explanatory position is organisational rather than merely anti-reductionist. Nor does APS identify life with computation, information processing, intelligence, consciousness, or behavioural complexity alone. Living systems are instead explained through viability-oriented, constraint-closed processes of persistence distributed across agency, process, and scale.
+# What APS Changes
 
-For clarification, see *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)* and *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*.
+APS changes how biological explanation is organised.
 
-For a broader guide to how the framework is organised and how its major conceptual pathways connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)* and *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*.
+It:
+- explains persistence dynamically rather than statically;
+- integrates physiology, ecology, development, evolution, and cognition within one explanatory framework;
+- situates normativity within viability-oriented persistence;
+- and approaches living systems as temporally organised systems rather than passive material objects.
 
-## Where to Go Next
+APS therefore reconstructs biology around:
+- organised persistence;
+- adaptive continuity;
+- temporal organisation;
+- and viability-oriented activity across scale and time.
 
-Readers new to APS should usually continue with:
+# What APS Is Not
 
-1. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
-2. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-3. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism.
 
-For a broader overview of the framework and its major conceptual pathways, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+Its explanatory position is organisational rather than merely anti-reductionist.
 
-## Related Clarifications
+APS also rejects identifying life with:
+- computation;
+- intelligence;
+- consciousness;
+- or information processing alone.
 
-- *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
+Living systems are instead explained through viability-oriented organised persistence distributed across:
+- agency;
+- process;
+- and scale.
+
+For clarification, see:
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
 - *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
 - *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 
-## Key Terms
+# Conclusion
 
-agency · process · scale · viability · evaluation · semiosis · cognition · persistence
+APS is a framework for understanding life as viability-oriented organised persistence sustained across time.
+
+Living systems remain viable not because they resist change, but because they continuously reorganise continuity across changing conditions.
+
+APS therefore explains biology through:
+- agency;
+- process;
+- scale;
+- persistence;
+- temporality;
+- adaptation;
+- ecology;
+- evolution;
+- and continuity-producing organisation
+
+integrated within a unified explanatory architecture.
+
+# Related Pathways
+
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+- *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+
+# Key Terms
+
+agency · process · scale · viability · persistence · continuity · temporality · adaptation · cognition · organised persistence

@@ -4,108 +4,174 @@ title: "How APS Explains Life — A Two-Step Guide"
 slug: how-aps-explains-life
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-15
-revised: 2026-05-15
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 abstract: >
-  This page provides the clearest entry into how APS approaches biological
-  explanation. It identifies two linked explanatory steps: defining the target
-  of biological explanation and specifying the organisational structure
-  required to explain it.
+  This page provides one of the clearest entry points into the APS framework.
+  APS approaches biology through two linked explanatory steps: identifying
+  what biological explanation is directed at, and clarifying the organisational
+  structure required to explain it. Together, these steps provide the basic
+  explanatory orientation underlying the wider APS framework.
 
 relatedGlossaryTerms:
   - viability
-  - constraint-closure
+  - persistence
   - biological-agency
   - process
   - scale
-  - scale-coupling
-  - persistence
-  - normativity
+  - biological-organisation
+  - adaptation
+  - continuity
   - mechanism
 
 relatedArticles:
   - biological-explanation-what-needs-to-be-explained
   - structure-of-biological-explanation-in-aps
-  - description-explanation-and-definition-in-biology
   - explanatory-geometry-of-biology
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
+  - temporal-organisation-and-organised-persistence
   - reductionism-in-biology-an-aps-clarification
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
 ---
 
-## Introduction
+# How APS Explains Life
 
-The APS framework approaches biology through the problem of explanation: what living systems are, and how they must be explained.
+APS approaches biology through the problem of explanation:
+- what living systems are;
+- and how they must be explained.
 
-For many readers, the clearest entry into APS is therefore not through definitions alone, but through the explanatory structure developed across two connected articles.
+For many readers, the clearest entry into APS is therefore not through definitions alone, but through two connected explanatory steps.
 
-Together, these articles identify:
-- what biological explanation is directed at, and  
-- how such explanation must be organised  
+Together, these steps identify:
+- what biological explanation is directed at;
+- and how biological explanation must proceed.
 
-APS explains life in two steps.
+APS explains life in two stages.
 
-## Step One — What Needs to Be Explained
+[[box:what-biological-explanation-explains]]
+
+# Step One — What Needs to Be Explained
 
 The first step is to clarify the target of biological explanation.
 
-Biology does not merely describe complex systems. It explains systems that sustain themselves through viability-oriented, constraint-closed organisation: systems whose activity contributes to maintaining the conditions required for their own persistence.
+Biology does not merely describe complex systems.
 
-The article *Biological Explanation — What Needs to Be Explained* develops this argument and identifies organised persistence as the central explanatory problem of biology.
+It explains systems that actively sustain the conditions required for their own persistence across time.
+
+APS therefore approaches living systems as:
+- viability-oriented;
+- organisationally integrated;
+- and continuously self-maintaining under changing conditions.
+
+The central explanatory problem of biology becomes:
+
+> how organised persistence remains possible through ongoing transformation.
+
+The article *Biological Explanation — What Needs to Be Explained* develops this argument in detail and explains why persistence becomes the central explanatory problem of biology.
 
 → *[Read Biological Explanation — What Needs to Be Explained](/articles/biological-explanation-what-needs-to-be-explained/)*
 
-## Step Two — How Explanation Must Proceed
+# Step Two — How Explanation Must Proceed
 
-Once viability-oriented organisation is identified as the target of biological explanation, the second step is to specify how such systems must be explained.
+Once organised persistence is identified as the target of biological explanation, the second step is to clarify how such systems must be explained.
 
-The article *The Structure of Biological Explanation in APS* develops this account. It shows that biological explanation requires the integration of:
-- agency  
-- process  
-- scale  
-- persistence  
-- adaptation  
-- evolution  
-- system–environment coupling  
+APS argues that biological explanation requires the integration of:
+- agency;
+- process;
+- scale;
+- adaptation;
+- persistence;
+- and organism–environment relations
 
 within a unified organisational framework.
 
-This provides the explanatory structure through which living systems become intelligible as organised forms of persistence.
+Living systems become intelligible not through isolated mechanisms alone, but through the coordinated organisation of continuity across interacting biological processes and scales.
+
+The article *The Structure of Biological Explanation in APS* develops this explanatory structure in detail.
 
 → *[Read The Structure of Biological Explanation in APS](/articles/structure-of-biological-explanation-in-aps/)*
 
-## From Explanation to the Wider Framework
+<div class="aps-diagram">
+  <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/explanatory-structure.png"
+      alt="APS explanatory structure integrating agency, process, and scale within organised persistence"
+      loading="lazy"
+    />
+  </a>
 
-Together, these two articles provide the clearest entry into the explanatory structure of APS.
+  <p class="aps-diagram-caption">
+    <strong>APS Explanatory Structure.</strong>
+    APS explains living systems through the integrated organisation of agency, process, and scale within viability-oriented organised persistence.
+  </p>
+</div>
 
-From this point, readers can explore how APS develops these ideas across:
-- biological organisation  
-- physiology  
-- adaptation  
-- evolution  
-- cognition  
-- system–environment relations  
-- and the philosophy of biology  
+# From Explanation to the Wider Framework
 
-APS rejects reductionism, but it is not therefore a simple holism or a revival of classical organicism. Nor does APS identify life with computation, intelligence, or behavioural complexity considered independently of viability-oriented organisation.
+Together, these two articles provide one of the clearest entry points into the wider APS framework.
 
-Its position is organisational: biological explanation is directed at viability-oriented, constraint-closed processes coordinated across agency, process, and scale.
+From here, readers can explore how APS develops these ideas across:
+- biological organisation;
+- adaptation;
+- ecology;
+- evolution;
+- cognition;
+- physiology;
+- resilience;
+- and diagnosis.
 
-## Continue Reading
+APS therefore develops a unified explanatory framework linking:
+- persistence;
+- continuity;
+- temporality;
+- viability;
+- and organised biological activity
 
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+across multiple interacting scales and timescales.
 
-## Related Clarifications
+# What APS Changes
 
-- *[Description, Explanation, and Definition in Biology](/articles/description-explanation-and-definition-in-biology/)*
-- *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
+APS changes how biology is explained.
+
+It:
+- treats persistence as an active organisational achievement rather than static endurance;
+- integrates physiology, ecology, development, evolution, and cognition within a shared explanatory structure;
+- approaches living systems as temporally organised continuities rather than passive material objects;
+- and explains biological organisation through viability-oriented persistence across changing conditions.
+
+APS therefore reconstructs biology around:
+- organised persistence;
+- adaptive continuity;
+- temporal organisation;
+- and multiscale biological organisation.
+
+# Continue Reading
+
+Readers wishing to continue through the orientation pathway should next read:
+
+1. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+2. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+3. *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
+
+For a broader conceptual overview, see:
+
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+- *[How to Read APS](/orientation/how-to-read-this-aps-framework-website/)*
+
+# Related Clarifications
+
 - *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
 - *[Why Life Is Not Computation](/articles/why-life-is-not-computation-an-aps-clarification/)*
 - *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
+- *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+- *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 
-## Key Point
+# Key Point
 
-APS explains life by first identifying viability-oriented organisation as the target of biological explanation, and then specifying the organisational structure required to account for it.
+APS explains life by:
+1. identifying organised persistence as the central target of biological explanation;
+2. and clarifying the organisational structure required to explain how such persistence remains viable across time.

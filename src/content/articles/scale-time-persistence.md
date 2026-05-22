@@ -1,222 +1,445 @@
 ---
 date: 2026-04-08
-title: "Scale, Time, and Persistence — Why Life Exists Only in Organised Duration"
-slug: "scale-time-persistence"
+title: "Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity"
+slug: scale-time-persistence
 abstract: >
   This article explains how scale and time are integrated in APS to produce
-  persistence, showing that living systems exist only as organised duration
-  sustained through coordinated activity across spatial and temporal domains.
-  Persistence is understood not as static endurance, but as the ongoing
-  regeneration of viability-oriented organisation through temporally continuous
-  activity distributed across scale.
+  organised persistence. Living systems do not exist as static entities, but
+  as temporally organised continuity sustained through coordinated activity
+  across interacting spatial and temporal domains. Persistence is therefore
+  understood not as endurance without change, but as the ongoing regeneration
+  of viability-oriented organisation across multiple scales of biological
+  activity.
+
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-21
-revised: 2026-05-21
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 keyPoints:
-  - "Persistence depends on coordinated activity across time and scale."
-  - "Living systems exist as organised duration rather than static entities."
-  - "Scale and time are co-constitutive dimensions of viability-oriented organisation."
-  - "Persistence is an active organisational achievement maintained through ongoing regulation."
+  - Living systems exist through organised continuity across time and scale.
+  - Persistence is an active organisational achievement rather than static endurance.
+  - Scale and time are co-constitutive dimensions of continuity-producing organisation.
+  - Viability depends upon coordinated activity distributed across interacting temporal and spatial domains.
+  - Biological continuity is maintained through ongoing regulation, adaptation, and organisational regeneration.
+  - APS explains life as multiscale organised persistence enacted through temporally continuous activity.
 
 relatedGlossaryTerms:
   - scale
-  - temporality
   - persistence
+  - viability
+  - temporal-organisation
   - process
   - biological-agency
-  - viability
-  - evaluation
-  - constraint-closure
   - biological-organisation
+  - constraint-closure
+  - evaluation
+  - semiosis
+  - continuity
+  - resilience
 
 relatedArticles:
   - explanatory-geometry-of-biology
-  - biological-agency-the-activity-of-self-maintenance
-  - evaluation-how-living-systems-modulate-activity-relative-to-viability
-  - semiosis-how-differences-come-to-matter-in-living-systems
-  - biological-causation-from-mechanism-to-organised-persistence
-  - aps-diagnostics-empirical-tractability
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
+  - temporal-organisation-and-organised-persistence
+  - biological-organisation
+  - evolution-as-the-historical-transformation-of-organised-persistence
+  - ecology-as-organised-persistence-across-scales
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - diagnosis-as-continuity-analysis
+  - aps-as-philosophy-viability-oriented-account
 
-researchStreams: []
+references:
+  - id: nicholson-dupre-2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
 
-references: []
+  - id: moreno-mossio-2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: mossio-2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
 ---
 
-# 1. Introduction
+# Scale, Time, and Persistence
 
-Living systems persist. Cells remain viable, organisms endure through changing conditions, and ecological systems maintain continuity across generations.
+> **Where this article fits:** This article develops the APS integration of scale, temporality, and organised persistence. It explains why living systems exist only through the coordinated continuity of viability-oriented organisation across interacting temporal and spatial domains. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence* and *Persistence — Organised Continuity Through Time*.
 
-At first glance, this persistence appears unproblematic. But closer examination reveals a tension: living systems are composed of processes that are continuously changing. Molecules are replaced, structures are remodelled, and activity is ongoing.
+Living systems persist.
 
-The question is therefore not simply how systems change, but how they persist through change.
+Cells remain viable through metabolic turnover.
 
-The APS framework resolves this tension by integrating scale and time into a single explanatory structure. Living systems do not persist as static entities. They exist as organised duration—activity coordinated across spatial and temporal domains.
+Organisms maintain continuity despite developmental transformation and environmental instability.
 
-Persistence is therefore not the absence of change. It is the ongoing achievement of organisational continuity through changing conditions.
+Ecological systems sustain continuity across interacting populations and environments.
 
-## 2. Persistence as Organised Activity
+Evolutionary lineages persist historically through ongoing transformation across generations.
 
-Persistence in biology is not the endurance of a substance, but the ongoing maintenance of viability-oriented organisation.
+At first glance, this persistence may appear unproblematic.
 
-A system persists insofar as it continuously regenerates the conditions required for its own existence. This activity is not incidental. It is the defining feature of life.
+But closer examination reveals a central biological tension:
 
-Persistence therefore depends on process. But process alone is not sufficient. Activity must be organised in such a way that it contributes to maintaining the continuity of the system itself.
+living systems are composed entirely of processes that continuously change.
 
-This organisation is achieved through constraint-closed relations that maintain coherence across time.
+Molecules are replaced.
 
-Living systems therefore persist not because their material components remain fixed, but because organisational continuity is actively regenerated through ongoing activity.
+Structures reorganise.
 
-## 3. Time as Organised Duration
+Development transforms organisation.
 
-Time in APS is not a neutral background parameter. It is the dimension through which organisation is enacted.
+Ecological conditions fluctuate.
 
-Living systems exist only through ongoing activity. Their persistence is temporal: it consists in the continuous re-establishment of viability under changing conditions.
+Behaviour adapts.
 
-This means that life is not something that exists *in* time. It exists *as organised duration*.
+Yet continuity remains.
 
-Development, physiology, behaviour, cognition, and evolution are not separate domains, but different temporal expressions of the same viability-oriented organisation.
+The central biological question therefore becomes:
 
-APS therefore treats temporality as intrinsic to biological existence itself rather than as an external container within which biological events occur.
+> How do living systems maintain continuity through ongoing transformation?
 
-## 4. Scale as Spatial–Temporal Coordination
+APS resolves this problem by integrating scale and time into a unified explanatory structure.
 
-Scale describes how activity is coordinated across spatial and temporal domains.
+Living systems do not persist as static objects.
+
+They exist only through the organised continuity of viability-oriented activity coordinated across interacting temporal and spatial domains.
+
+Persistence is therefore not the absence of change.
+
+It is the organised continuity of living systems through change.
+
+[[box:the-organisational-grammar-of-aps]]
+
+# Persistence as Organised Continuity
+
+Persistence in biology is not static endurance.
+
+Living systems do not persist because their material components remain fixed.
+
+They persist because organisational continuity is continuously regenerated.
+
+Persistence therefore depends upon:
+- ongoing activity
+- regulation
+- repair
+- adaptation
+- constraint coordination
+- and continuity-preserving organisation
+
+A system persists insofar as it continuously regenerates the conditions required for its own continued viability.
+
+Persistence is therefore an organisational achievement rather than a passive property.
+
+Living systems maintain themselves not by resisting all change, but by regulating change in ways preserving continuity.
+
+![Temporal Organisation and Organised Persistence](/assets/diagrams/temporal-organisation-visual.png)
+
+*Living systems persist through temporally organised continuity-producing activity distributed across interacting scales and processes.*
+
+APS therefore treats persistence as:
+- continuity-producing
+- viability-oriented
+- temporally organised
+- and actively maintained across scale
+
+rather than as static endurance through time.
+
+# Time as Organised Continuity
+
+Time in APS is not merely a neutral background parameter within which biological events occur.
+
+Temporality is intrinsic to biological existence itself.
+
+Living systems exist only through ongoing activity.
+
+Metabolism,
+development,
+repair,
+adaptation,
+behaviour,
+cognition,
+ecology,
+and evolution
+
+all depend upon temporally extended organisation.
+
+Life therefore exists not simply *in* time, but *as organised continuity through time*.
+
+Temporal organisation coordinates:
+- regulation
+- persistence
+- adaptation
+- responsiveness
+- and continuity-maintaining activity
+
+across changing conditions.
+
+Living systems therefore persist not by remaining identical from moment to moment, but by continuously re-establishing viability through ongoing transformation.
+
+Time in biology is therefore organisational rather than merely sequential.
+
+# Scale as Organisational Coordination
+
+Scale in APS is not reducible to physical size alone.
+
+Scale concerns how activity is coordinated across interacting domains of organisation.
 
 Living systems integrate:
-- fast molecular processes
-- slower physiological regulation
+- molecular processes
+- cellular regulation
+- physiological organisation
 - developmental trajectories
-- behavioural organisation
-- ecological interactions
+- behavioural coordination
+- ecological interaction
 - and evolutionary transformation
 
-These are not isolated levels but interacting domains of persistence-maintaining activity.
+These are not isolated levels stacked hierarchically.
 
-Scale is therefore not a matter of size alone. It concerns the coordination of activity across domains that must remain integrated for persistence to be sustained.
+They are interacting continuity structures distributed across spatial and temporal domains.
 
-Biological organisation exists only because these domains remain sufficiently coordinated through time.
+Scale therefore concerns:
+- organisational coordination
+- continuity propagation
+- and persistence-maintaining integration
 
-## 5. Scale–Time Integration
+across multiple interacting domains of activity.
 
-Scale and time are not independent dimensions. They are co-constitutive.
+Biological systems remain viable only insofar as these relations remain sufficiently coordinated through time.
 
-Temporal persistence depends on coordination across spatial domains, and spatial organisation is maintained only through temporally extended activity.
+# Scale and Time as Co-Constitutive
 
-A living system persists because activity is organised across scale and sustained through time.
+Scale and time are not independent dimensions subsequently connected.
 
-This integration explains how systems can remain stable without being static. Stability is not the absence of change, but the continuity of organised activity.
+They are co-constitutive dimensions of continuity-producing organisation.
 
-Persistence therefore emerges from the ongoing integration of:
+Temporal persistence depends upon coordination across scale.
+
+Scale coordination depends upon temporally extended activity.
+
+A living system persists because activity remains sufficiently integrated across interacting spatial and temporal domains.
+
+This integration explains one of the defining properties of life:
+
+living systems remain stable without being static.
+
+Stability therefore does not mean immobility.
+
+It means continuity of organised activity across transformation.
+
+Persistence consequently emerges through:
 - regulation
 - coordination
 - responsiveness
-- and organisational continuity
+- adaptive modulation
+- and continuity-producing organisation
 
-across interacting scales and temporal horizons.
+distributed across scale and time simultaneously.
 
-## 6. Persistence as a Coordinated Achievement
+# Viability Across Scale and Time
 
-Persistence is always an achievement rather than a given.
+Viability depends upon the coordinated organisation of activity across interacting domains.
+
+Living systems must:
+- regulate metabolism in real time
+- coordinate development across longer temporal trajectories
+- sustain behavioural responsiveness
+- maintain ecological relations
+- and preserve evolutionary continuity across generations
+
+These processes unfold at different rates and scales.
+
+Yet viability depends upon their ongoing integration.
+
+Persistence therefore cannot be localised at a single scale or moment.
+
+It is distributed across multiscale continuity structures organised through time.
+
+APS consequently treats viability as:
+- temporally organised
+- scale-distributed
+- and continuity-producing
+
+rather than as a static state possessed by isolated systems.
+
+# Persistence as an Organisational Achievement
+
+Persistence is always achieved rather than guaranteed.
 
 It depends upon:
-- continuous activity  
-- coordination across scale  
-- regulation of constraints  
-- evaluative responsiveness to changing conditions  
-- and the regeneration of organisational continuity through time  
+- continuous regulation
+- adaptive responsiveness
+- constraint coordination
+- environmental coupling
+- and continuity-preserving activity
 
-When these conditions are maintained, organisation endures. When they fail, persistence is lost.
+When these conditions remain sufficiently integrated, persistence continues.
 
-Persistence is therefore dynamic and graded rather than binary or absolute.
+When coordination fails, persistence destabilises.
 
-Different systems exhibit different capacities for:
+Persistence is therefore:
+- dynamic rather than static
+- graded rather than absolute
+- and organisational rather than merely material
+
+Different biological systems exhibit different capacities for:
 - resilience
 - recovery
 - adaptation
 - compensation
 - and continuity under perturbation
 
-APS therefore understands persistence as an organisational accomplishment continuously enacted rather than statically possessed.
+APS therefore approaches persistence as an ongoing organisational accomplishment continuously enacted across changing conditions.
 
-## 7. Persistence, Evaluation, and Meaning
+# Scale, Time, and Biological Meaning
 
-Persistence also grounds evaluation and semiosis.
+Persistence also grounds:
+- evaluation
+- semiosis
+- cognition
+- and normativity
 
-Because living systems must sustain themselves across time, not all conditions are equivalent. Some support continuity, while others threaten it.
+Because living systems must sustain continuity through time, some conditions become biologically meaningful relative to viability.
+
+Some differences support persistence.
+
+Others threaten it.
 
 Evaluation modulates activity relative to those conditions.
 
-Semiosis structures differences as biologically meaningful within that modulation.
+Semiosis structures differences as biologically significant within viability-oriented organisation.
 
 Persistence therefore establishes the temporal horizon within which:
 - meaning
 - regulation
 - information
 - cognition
-- and normativity
+- and adaptive responsiveness
 
 become possible.
 
-Without temporally extended persistence-maintaining organisation, biological significance could not emerge.
+Without temporally extended organised continuity, biological significance could not emerge.
 
-## 8. Implications for Biological Explanation
+# Evolutionary and Ecological Continuity
 
-Understanding persistence as organised duration has several consequences:
+Persistence extends beyond individual organisms.
 
-- it removes the need to posit enduring biological substances  
-- it explains stability as a property of organisation rather than matter  
-- it integrates short-term regulation and long-term evolution  
-- it clarifies why biological explanation must be multiscale  
-- and it grounds cognition, semiosis, and evaluation within temporally continuous organisation  
+Evolutionary continuity depends upon the regeneration and transformation of viable organisation across generations.
 
-Persistence is not located at a single scale or moment. It is distributed across coordinated activity.
+Ecological continuity depends upon coordinated persistence across interacting organism–environment systems.
 
-Biological explanation must therefore analyse how organisational continuity is maintained through interacting processes operating across different temporal and spatial domains.
+Developmental continuity depends upon regulated transformation across changing organisational states.
 
-## 9. Scale, Time, and the APS Triad
+Cognitive continuity depends upon temporally extended evaluative organisation.
 
-The integration of scale and time is part of the broader APS explanatory grammar:
+These are not separate forms of persistence.
 
-- **Agency** regulates viability  
-- **Process** enacts organisation through time  
-- **Scale** coordinates activity across domains  
+They are interconnected expressions of organised continuity distributed across different scales and temporal domains of life.
 
-Persistence arises through the co-constitutive interaction of these dimensions.
+<div class="aps-diagram">
+  <a href="/assets/diagrams/multiscale-temporality.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/multiscale-temporality.png"
+      alt="Multiscale temporality and organised continuity across biological systems"
+      loading="lazy"
+    />
+  </a>
 
-Agency maintains viability-oriented regulation.
+  <p class="aps-diagram-caption">
+    <strong>Multiscale Temporality Visual.</strong>
+    APS explains persistence through the coordinated continuity of viability-oriented organisation across interacting temporal and spatial domains spanning physiology, development, ecology, cognition, and evolution.
+  </p>
+</div>
 
-Process provides temporally continuous organisational activity.
+APS therefore approaches biological persistence as:
+- multiscale
+- temporally distributed
+- continuity-producing
+- and organisationally integrated across interacting domains of life.
 
-Scale coordinates persistence across interacting domains and horizons.
+# Scale, Time, and the APS Triad
 
-Persistence is therefore not an additional feature of life. It is the ongoing expression of viability-oriented organisation itself.
+The integration of scale and time forms part of the broader APS explanatory grammar.
 
-## 10. Evolutionary and Ecological Continuity
+- **Agency** regulates viability-oriented activity.
+- **Process** enacts continuity through time.
+- **Scale** coordinates persistence across interacting domains.
 
-Persistence also extends beyond individual organisms.
+These are not independent explanatory categories.
 
-Evolutionary continuity depends upon the ongoing transformation and regeneration of viability-oriented organisation across generations.
+They are continuity-producing organisational relations.
 
-Ecological continuity depends upon coordinated interactions among organisms and environments distributed across time and scale.
+Agency maintains viability.
 
-APS therefore understands biological persistence as extending across:
-- metabolic continuity
-- developmental continuity
-- behavioural continuity
-- ecological continuity
-- and evolutionary continuity
+Process sustains temporally continuous organisation.
 
-These are not independent forms of persistence, but interconnected expressions of organised duration operating across different scales of life.
+Scale integrates persistence across interacting domains of activity.
 
-## 11. Conclusion
+Persistence therefore emerges through the coordinated interaction of:
+- agency
+- process
+- and scale
 
-Living systems do not persist by remaining the same. They persist by continuously regenerating the organisation that makes their continued existence possible.
+within temporally organised biological systems.
 
-This persistence is inherently temporal and spatial. It depends on activity sustained through time and coordinated across scale.
+# Implications for Biological Explanation
 
-In APS, life exists only as organised duration: the continuous enactment of viability-oriented, constraint-closed organisation across interacting domains.
+Understanding persistence through scale–time integration has major implications for biological explanation.
 
-Understanding life therefore requires integrating scale and time into a single explanatory framework in which persistence is recognised as an active, ongoing organisational achievement.
+It:
+- removes the need for static biological substances
+- explains stability as organisational continuity rather than material permanence
+- integrates physiology, development, ecology, cognition, and evolution within a common continuity framework
+- clarifies why biological explanation must be multiscale
+- grounds normativity and semiosis within viability-oriented persistence
+- and explains how living systems remain coherent despite continuous transformation
+
+Persistence is therefore not located at a single level, mechanism, or moment.
+
+It is distributed across coordinated organisational activity unfolding through time.
+
+Biological explanation must therefore analyse how continuity is maintained across interacting domains of living organisation.
+
+# Conclusion
+
+Living systems do not persist because they remain unchanged.
+
+They persist because viability-oriented organisation continuously regenerates continuity across changing conditions.
+
+Persistence is therefore inherently temporal and multiscale.
+
+It depends upon:
+- ongoing activity
+- continuity-producing organisation
+- adaptive regulation
+- scale coordination
+- and temporally extended viability-oriented persistence
+
+APS consequently understands life not as static existence, but as organised continuity enacted across time and scale.
+
+Living systems exist only through the multiscale continuity of viability-oriented organised persistence distributed across interacting domains of biological activity.
+
+---
+
+# Related Pathways
+
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+- *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+- *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
+- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
+- *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
+- *[Biological Organisation — How Living Systems Sustain Themselves](/articles/biological-organisation/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+
+# Key Terms
+
+scale · temporality · persistence · continuity · viability · organisation · process · agency · resilience · semiosis · multiscale coordination · organised persistence

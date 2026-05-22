@@ -4,20 +4,27 @@ title: "Diagnosis as Continuity Analysis"
 slug: diagnosis-as-continuity-analysis
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-20
-revised: 2026-05-20
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 abstract: >
   This article develops an APS account of diagnosis as the analysis of
-  continuity, disruption, compensation, and reorganisation within
-  viability-oriented systems. Diagnosis is not treated merely as the
+  continuity, perturbation, compensation, resilience, and reorganisation
+  within viability-oriented systems. Diagnosis is not treated merely as the
   identification of isolated defects or symptoms, but as the investigation of
-  how temporally organised persistence succeeds, fails, compensates, or
-  reorganises across interacting biological processes and scales. APS
-  therefore reconstructs diagnosis around continuity, perturbation,
-  resilience, ecological coupling, developmental trajectory, and multiscale
-  organisational integrity.
+  how temporally organised persistence succeeds, destabilises, compensates,
+  recovers, or fails across interacting biological processes and scales. APS
+  therefore reconstructs diagnosis around continuity analysis within
+  dynamically organised living systems.
+
+keyPoints:
+  - Diagnosis concerns continuity analysis within viability-oriented organised persistence.
+  - Biological dysfunction is disruption within persistence-maintaining organisation.
+  - Diagnosis must analyse perturbation, compensation, resilience, and recovery across interacting scales and timescales.
+  - Pathology cannot always be reduced to isolated local defects.
+  - Ecological, developmental, physiological, behavioural, and evolutionary continuity all contribute to diagnosis.
+  - APS reconstructs diagnosis as the analysis of continuity destabilisation and reorganisation within living systems.
 
 relatedGlossaryTerms:
   - diagnosis
@@ -25,7 +32,9 @@ relatedGlossaryTerms:
   - resilience
   - viability
   - persistence
+  - continuity
   - biological-agency
+  - biological-organisation
   - process
   - scale
   - ecological-organisation
@@ -33,14 +42,16 @@ relatedGlossaryTerms:
   - adaptation
   - development
   - constraint-closure
-  - continuity
+  - temporal-organisation
 
 relatedArticles:
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
-  - ecology-as-organised-persistence-across-scales
-  - ecological-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
+  - ecology-as-organised-persistence-across-scales
   - evolution-as-the-historical-transformation-of-organised-persistence
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - explanatory-geometry-of-biology
   - how-to-diagnose-a-biological-system
   - organisational-realism-in-biology
@@ -85,17 +96,16 @@ references:
     year: 2011
     title: "Incomplete Nature"
     source: "W. W. Norton"
-
 ---
 
 # Diagnosis as Continuity Analysis
 
-> **Where this article fits:** This article develops the diagnostic implications of APS. Diagnosis is treated not as the isolated detection of defects within static systems, but as the analysis of continuity, perturbation, resilience, compensation, and reorganisation within temporally organised viability-oriented living systems. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
+> **Where this article fits:** This article develops the diagnostic implications of APS. Diagnosis is treated not as the isolated detection of defects within static systems, but as the analysis of continuity, perturbation, resilience, compensation, and reorganisation within temporally organised viability-oriented living systems. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*, *Persistence — Organised Continuity Through Time*, and *Adaptation — How Living Systems Sustain Themselves Through Change*.
 
 Diagnosis is often understood as the identification of:
 - malfunction;
 - pathology;
-- breakdown;
+- abnormality;
 - or defective components.
 
 Within many conventional frameworks:
@@ -103,19 +113,19 @@ Within many conventional frameworks:
 - mechanisms are localised;
 - and diagnosis becomes the classification of discrete abnormalities within otherwise stable systems.
 
-APS reframes diagnosis more fundamentally.
+APS reconstructs diagnosis more fundamentally.
 
-Living systems are not static assemblies of components.
+Living systems are not static assemblies of parts.
 
-They are dynamically organised systems sustaining viable persistence across time.
+They are dynamically organised systems sustaining viable continuity across time.
 
 Diagnosis therefore concerns:
 
-> the analysis of continuity, disruption, compensation, and reorganisation within persistence-maintaining systems.
+> the analysis of continuity, perturbation, compensation, resilience, destabilisation, and reorganisation within persistence-maintaining systems.
 
 This changes the meaning of biological dysfunction itself.
 
-A failure matters biologically not merely because a component deviates from normal structure, but because organised continuity becomes disrupted.
+A failure matters biologically not merely because a component deviates from statistical normality, but because organised continuity becomes disrupted.
 
 [[box:failure-reveals-organisation]]
 
@@ -128,19 +138,21 @@ Living systems persist through ongoing coordination across:
 - ecological interaction;
 - behavioural organisation;
 - semiosis;
-- and adaptive continuity.
+- adaptation;
+- and continuity-producing organisation.
 
-Diagnosis therefore concerns the integrity of persistence-maintaining organisation.
+Diagnosis therefore concerns the integrity of persistence-maintaining continuity.
 
-APS consequently treats diagnosis as:
+APS consequently approaches diagnosis as:
 
-> continuity analysis within viability-oriented systems.
+> continuity analysis within viability-oriented organised persistence.
 
-This means that diagnosis investigates:
-- how persistence is maintained;
-- where continuity becomes disrupted;
+This means diagnosis investigates:
+- how continuity is maintained;
+- where continuity destabilises;
 - how systems compensate;
-- and whether viable organisation can reorganise successfully under perturbation.
+- how resilience reorganises continuity;
+- and whether viable persistence can recover successfully under perturbation.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/diagnosis-visual.png" target="_blank" rel="noopener">
@@ -162,7 +174,7 @@ Diagnosis therefore extends beyond:
 - local defects;
 - or static pathological classification.
 
-It concerns the organisational dynamics through which living systems sustain or fail to sustain viable continuity across time.
+It concerns the organisational dynamics through which living systems sustain, destabilise, compensate, recover, or fail to sustain viable continuity across time.
 
 # Perturbation Reveals Organisation
 
@@ -170,16 +182,17 @@ Stable systems often conceal organisational dependency.
 
 Perturbation reveals it.
 
-A disruption may expose:
+Disruption may expose:
 - hidden regulatory dependencies;
 - ecological vulnerabilities;
 - developmental constraints;
 - adaptive limits;
-- and continuity failures.
+- continuity fragilities;
+- and resilience capacities.
 
 Diagnosis therefore becomes possible because organised persistence possesses structure.
 
-Systems can fail in patterned ways precisely because persistence depends upon organised continuity.
+Systems fail in patterned ways precisely because persistence depends upon coordinated continuity across interacting organisational domains.
 
 APS consequently treats perturbation not as accidental noise, but as diagnostically revealing.
 
@@ -195,7 +208,7 @@ Biological disturbances matter because they influence:
 - adaptation;
 - development;
 - ecological coordination;
-- and survival.
+- and continuity across time.
 
 A condition becomes biologically significant when it threatens the continuity of viable organisation.
 
@@ -204,17 +217,18 @@ APS therefore rejects purely statistical definitions of pathology.
 Normality cannot be understood solely as population frequency.
 
 Instead:
-- biological significance;
 - dysfunction;
 - resilience;
+- compensation;
 - and recovery
 
-must all be interpreted relative to viable persistence.
+must all be interpreted relative to viable continuity.
 
 Diagnosis consequently concerns:
-> the continuity conditions required for organised biological existence.
 
-# Malfunction as Organisational Disruption
+> the continuity conditions required for organised biological persistence.
+
+# Malfunction as Continuity Destabilisation
 
 APS interprets malfunction organisationally rather than mechanically alone.
 
@@ -223,26 +237,28 @@ A malfunction is not simply:
 - a defective mechanism;
 - or a local structural abnormality.
 
-It is a disruption within persistence-maintaining organisation.
+It is a disruption within continuity-maintaining organisation.
 
 Malfunction may involve:
 - failed regulation;
-- disrupted coupling;
+- disrupted ecological coupling;
 - impaired developmental coordination;
-- ecological instability;
+- adaptive collapse;
 - semiosic breakdown;
-- or adaptive collapse.
+- resilience failure;
+- or continuity destabilisation across interacting scales.
 
 This means dysfunction may emerge:
 - systemically;
 - developmentally;
 - ecologically;
 - behaviourally;
+- cognitively;
 - or evolutionarily.
 
 Diagnosis therefore cannot always be reduced to local mechanistic failure.
 
-It must analyse how continuity structures become disrupted across interacting organisational domains.
+It must analyse how continuity structures destabilise across interacting organisational domains.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/diagnosis-continuity-visual.png" target="_blank" rel="noopener">
@@ -255,37 +271,34 @@ It must analyse how continuity structures become disrupted across interacting or
 
   <p class="aps-diagram-caption">
     <strong>Diagnosis Continuity Visual.</strong>
-    Primary visuals clarify the organisational structure of a biological domain. Continuity visuals trace how continuity is preserved through transformation across interacting scales and temporal conditions within viability-oriented organisation.
+    APS explains diagnosis through the analysis of how viable continuity is preserved, destabilised, compensated, reorganised, or lost across interacting temporal and organisational scales.
   </p>
 </div>
 
-Diagnosis therefore concerns not merely the detection of abnormalities, but the analysis of how organised persistence succeeds, compensates, destabilises, or fails across time.
+Diagnosis therefore concerns not merely identifying abnormalities, but analysing whether organised continuity can remain viable under perturbation and transformation.
 
-# Diagnosis Across Scale
+# Diagnosis Across Scale and Time
 
-Diagnostic organisation is multiscalar.
+Diagnostic organisation is multiscalar and temporal.
 
 Disruption at one scale may propagate across others.
 
 For example:
-- molecular disruption may alter development;
-- ecological disruption may reorganise physiology;
-- behavioural change may affect metabolic regulation;
-- and developmental instability may influence long-term evolutionary trajectories.
+- molecular disruption may alter developmental continuity;
+- ecological instability may reorganise physiology;
+- behavioural dysregulation may affect metabolic coordination;
+- and developmental disruption may influence long-term evolutionary trajectories.
 
-APS therefore rejects strictly localised models of diagnosis.
+Diagnosis therefore cannot remain confined to isolated mechanisms at single moments.
 
-Diagnosis instead requires analysis across:
-- molecular organisation;
-- physiological regulation;
-- organismal behaviour;
+Persistence is distributed across:
+- physiological organisation;
+- developmental trajectories;
+- behavioural systems;
 - ecological coupling;
-- developmental continuity;
-- and evolutionary history.
+- and historical continuity.
 
-Persistence is distributed across interacting organisational scales.
-
-Diagnostic explanation must therefore also be multiscalar.
+Diagnostic explanation must therefore analyse continuity across interacting temporal and organisational domains simultaneously.
 
 # Diagnosis and Ecology
 
@@ -298,11 +311,12 @@ Environmental disruption may therefore generate:
 - metabolic stress;
 - behavioural dysregulation;
 - ecological collapse;
-- or adaptive failure.
+- resilience failure;
+- or adaptive destabilisation.
 
-APS consequently rejects strongly internalist models of diagnosis detached from ecological organisation.
+APS consequently rejects strongly internalist diagnostic models detached from ecological continuity.
 
-Many forms of dysfunction emerge not from isolated internal defects alone, but from disrupted continuity across organism–environment systems.
+Many dysfunctions emerge not from isolated internal defects alone, but from disrupted continuity across organism–environment systems.
 
 Diagnosis therefore includes:
 - ecological context;
@@ -315,27 +329,29 @@ Diagnosis therefore includes:
 
 Diagnosis also concerns resilience.
 
-Living systems persist through ongoing reorganisation across changing conditions.
+Living systems continuously reorganise continuity under changing conditions.
 
-They continuously:
+They:
 - compensate;
-- reorganise;
 - redistribute constraints;
-- and restore continuity under perturbation.
+- reorganise regulation;
+- and restore persistence-maintaining organisation under perturbation.
 
-Resilience therefore becomes diagnostically important.
+Resilience therefore becomes diagnostically central.
 
-A system may remain viable despite perturbation because organisational continuity reorganises successfully.
+A system may remain viable despite disruption because continuity reorganises successfully.
 
 Diagnosis must therefore distinguish:
 - temporary perturbation;
 - adaptive compensation;
 - chronic instability;
-- and irreversible breakdown.
+- resilience failure;
+- and irreversible continuity collapse.
 
-APS consequently treats resilience as an organisational property of continuity-maintaining systems rather than merely resistance to disturbance.
+APS consequently treats resilience as:
+- continuity-preserving reorganisation within viability-oriented systems.
 
-Diagnosis therefore concerns whether continuity can be preserved through transformation, compensation, and adaptive reorganisation across changing conditions.
+Diagnosis therefore concerns whether continuity can remain viable through perturbation, compensation, and adaptive transformation.
 
 # Diagnosis and Development
 
@@ -344,22 +360,23 @@ Developmental organisation shapes diagnostic possibility.
 Disruptions may emerge through:
 - developmental timing;
 - ecological interaction;
-- regulatory instability;
-- nutritional conditions;
+- nutritional instability;
 - social organisation;
-- or behavioural history.
+- behavioural history;
+- or continuity disruption across developmental trajectories.
 
-Diagnosis therefore cannot always be reduced to fixed structural abnormalities.
+Diagnosis therefore cannot always be reduced to fixed structural abnormality.
 
-Many dysfunctions involve altered developmental trajectories distributed across time.
+Many dysfunctions involve altered developmental continuity distributed across time.
 
 APS consequently approaches diagnosis historically as well as mechanistically.
 
 Present dysfunction may reflect:
 - developmental continuity;
-- historical perturbation;
+- accumulated compensation;
 - ecological destabilisation;
-- or accumulated adaptive compensation.
+- historical perturbation;
+- or disrupted adaptive organisation.
 
 Diagnosis therefore frequently concerns the analysis of altered temporal trajectories rather than isolated present abnormalities alone.
 
@@ -378,9 +395,10 @@ and ecological indicators
 function as meaningful organisational differences within persistence-maintaining systems.
 
 APS consequently interprets diagnosis partly as:
+
 > the interpretation of continuity-relevant biological signs.
 
-Diagnostic meaning emerges because living systems are organised around viability.
+Diagnostic meaning emerges because living systems are organised around viability-oriented continuity.
 
 # Diagnosis and Evolution
 
@@ -390,10 +408,11 @@ Evolution contributes to:
 - vulnerability structures;
 - adaptive capacities;
 - developmental constraints;
-- regulatory architecture;
-- and ecological dependence.
+- regulatory organisation;
+- ecological dependence;
+- and continuity trade-offs.
 
-Many pathologies therefore reflect trade-offs embedded within historical persistence strategies.
+Many dysfunctions therefore reflect compromises embedded within historical persistence strategies.
 
 Diagnosis consequently requires evolutionary context as well as immediate mechanistic analysis.
 
@@ -422,69 +441,75 @@ Instead, diagnosis concerns:
 - adaptive reorganisation;
 - ecological coupling;
 - developmental trajectory;
-- and persistence-maintaining organisation distributed across scale and time.
+- viability;
+- and persistence-maintaining organisation
 
-Diagnosis therefore becomes an investigation into the organisation of viable persistence itself.
+distributed across scale and time.
+
+Diagnosis therefore becomes:
+> the analysis of continuity destabilisation and reorganisation within organised living systems.
 
 # Implications for Biological Explanation
 
 Reframing diagnosis organisationally has several important consequences.
 
 It:
-- integrates diagnosis with ecology and development;
+- integrates diagnosis with ecology, development, adaptation, and evolution;
 - situates pathology within continuity analysis;
-- clarifies resilience as organisational reorganisation;
-- strengthens multiscale explanation;
+- explains resilience as continuity-preserving reorganisation;
+- strengthens multiscale biological explanation;
 - integrates diagnosis into temporally organised persistence;
 - and weakens purely reductionistic models of dysfunction.
 
-APS therefore approaches diagnosis not as the identification of isolated defects within static systems, but as the analysis of organised continuity within dynamically persistent biological systems.
+APS therefore approaches diagnosis not as the identification of isolated defects within static systems, but as the analysis of continuity within dynamically organised viability-oriented persistence.
 
 # Conclusion
 
-APS reconstructs diagnosis around continuity analysis within viability-oriented organisation.
+APS reconstructs diagnosis around continuity analysis within viability-oriented organised persistence.
 
-Living systems persist through dynamically organised relations distributed across:
+Living systems persist through dynamically organised continuity distributed across:
 - metabolism;
 - development;
 - ecological coupling;
 - behavioural organisation;
 - semiosis;
-- and adaptive regulation.
+- adaptation;
+- and resilience.
 
 Diagnosis therefore concerns:
 - how continuity is sustained;
-- where it becomes disrupted;
+- where it destabilises;
 - how systems compensate;
-- and whether organised persistence can reorganise successfully under perturbation.
+- whether resilience can reorganise continuity;
+- and whether viable persistence can recover successfully under perturbation.
 
 Biological dysfunction is therefore not merely local mechanical failure.
 
-It is disruption within persistence-maintaining organisation.
+It is disruption within continuity-maintaining organisation.
 
-Diagnosis therefore becomes the analysis of whether temporally organised persistence can preserve continuity through perturbation, compensation, and transformation across changing conditions.
+Diagnosis consequently becomes:
+> the analysis of continuity destabilisation, compensation, resilience, and reorganisation within dynamically organised living systems.
 
-APS consequently transforms diagnosis from:
+APS therefore transforms diagnosis from:
 - static defect identification
 
 into:
 
-- the analysis of continuity, perturbation, resilience, and reorganisation across dynamically organised living systems.
+- the analysis of continuity, perturbation, resilience, and organised persistence across time.
 
 ---
 
-## Related Pathways
+# Related Pathways
 
+- *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+- *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+- *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
+- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
 - *[Malfunction](/glossary/malfunction/)*
-- *[Ecological Resilience](/glossary/ecological-resilience/)*
-- *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
-- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
 
----
+# Key Terms
 
-## Key Terms
-
-diagnosis · malfunction · continuity · perturbation · resilience · temporality · viability · persistence · adaptation · regulation · organisation · ecological coupling
+diagnosis · continuity · perturbation · resilience · malfunction · viability · persistence · adaptation · temporality · organisation · ecological coupling
