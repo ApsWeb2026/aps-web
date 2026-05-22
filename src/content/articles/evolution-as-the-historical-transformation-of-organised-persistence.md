@@ -4,8 +4,8 @@ title: "Evolution as the Historical Transformation of Organised Persistence"
 slug: evolution-as-the-historical-transformation-of-organised-persistence
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-17
-revised: 2026-05-20
+canonicalLockDate: 2026-05-22
+revised: 2026-05-22
 cluster: conceptual-foundations
 
 abstract: >
@@ -13,13 +13,14 @@ abstract: >
   populations over time. While this formulation captures important statistical
   patterns, it does not fully explain what is changing or why such change is
   biologically meaningful. This article develops the APS account of evolution
-  as the historical transformation of viability-oriented, constraint-closed
-  organisation across generations. Evolution is shown to presuppose organised
-  persistence, inheritance, adaptation, development, and biological agency,
-  while natural selection is reframed as the differential stabilisation of
-  organised persistence rather than the source of biological organisation
-  itself. APS thereby reconstructs evolutionary explanation as the historical
-  transformation of living organisation across interacting biological scales.
+  as the historical transformation of viability-oriented, temporally organised,
+  constraint-closed organisation across generations. Evolution is shown to
+  presuppose organised persistence, inheritance, adaptation, development,
+  continuity, and biological agency, while natural selection is reframed as
+  the differential stabilisation of organised persistence rather than the
+  source of biological organisation itself. APS thereby reconstructs
+  evolutionary explanation as the historical transformation of living
+  organisation across interacting biological scales.
 
 relatedGlossaryTerms:
   - evolution
@@ -39,6 +40,7 @@ relatedGlossaryTerms:
   - scale
   - normativity
   - continuity
+  - temporal-organisation
 
 relatedArticles:
   - what-is-aps
@@ -46,6 +48,8 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
   - aps-as-philosophy-viability-oriented-account
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
@@ -119,7 +123,7 @@ references:
 
 # Evolution as the Historical Transformation of Organised Persistence
 
-> **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viable biological organisation across generations. Evolution is approached not merely statistically, but organisationally, developmentally, ecologically, and historically. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
+> **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viable biological organisation across generations. Evolution is approached not merely statistically, but organisationally, developmentally, ecologically, temporally, and historically. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
 
 Living systems do not merely persist.
 
@@ -129,18 +133,29 @@ Organisms diversify, developmental trajectories change, ecological relations reo
 
 This historical transformation is described as evolution.
 
-Evolution is commonly defined as change in gene frequencies within populations over time. While this formulation provides powerful statistical tools for modelling evolutionary dynamics, it does not fully explain what is changing or why such change is biologically meaningful.
+Evolution is commonly defined as change in gene frequencies within populations over time.
 
-Gene frequencies do not evolve independently of living organisation. Genes function only within systems already capable of sustaining viable persistence across time.
+While this formulation provides powerful statistical tools for modelling evolutionary dynamics, it does not fully explain:
+- what is changing
+- how continuity is preserved
+- or why such change is biologically meaningful
 
-APS therefore approaches evolution not as the statistical transformation of isolated hereditary units, but as the historical transformation of viability-oriented, constraint-closed biological organisation across generations.
+Gene frequencies do not evolve independently of living organisation.
 
-Evolution does not explain the original emergence of organised persistence. Rather, evolution presupposes living systems already capable of:
-- persistence;
-- adaptation;
-- inheritance;
-- development;
-- and biological agency.
+Genes function only within systems already capable of sustaining viable persistence across time.
+
+APS therefore approaches evolution not as the statistical transformation of isolated hereditary units, but as the historical transformation of viability-oriented, temporally organised, constraint-closed biological organisation across generations.
+
+Evolution does not explain the original emergence of organised persistence.
+
+Rather, evolution presupposes living systems already capable of:
+- persistence
+- viability
+- adaptation
+- inheritance
+- development
+- temporal continuity
+- and biological agency
 
 Evolution therefore concerns the historical transformation of organised persistence itself.
 
@@ -165,7 +180,9 @@ Evolution therefore concerns the historical transformation of organised persiste
 
 Evolution depends upon systems already capable of sustaining organised persistence.
 
-Persistence refers to the ongoing maintenance of viability-oriented organisation across time. Living systems actively regulate physiology, development, behaviour, and environmental interaction relative to conditions required for continued viability.
+Persistence refers to the ongoing maintenance of viability-oriented organisation across time.
+
+Living systems actively regulate physiology, development, behaviour, and environmental interaction relative to conditions required for continued viability.
 
 Natural selection, inheritance, variation, and evolutionary transformation operate only because such persistence already exists.
 
@@ -184,27 +201,52 @@ Evolution is not fundamentally the transformation of isolated traits.
 It is the historical transformation of systems capable of sustaining organised persistence.
 
 Living systems maintain viability through networks of mutually sustaining constraints distributed across:
-- physiology;
-- development;
-- behaviour;
-- ecological interaction;
-- and environmental coupling.
+- physiology
+- development
+- behaviour
+- ecological interaction
+- and environmental coupling
 
 Across generations, these organisational relations may:
-- stabilise;
-- diversify;
-- reorganise;
-- compensate;
-- or collapse.
+- stabilise
+- diversify
+- reorganise
+- compensate
+- or collapse
 
 Evolution therefore concerns the historical transformation of persistence-sustaining organisation itself.
 
 What evolves is not merely structure in abstraction, but the organisational capacities through which living systems sustain viability across changing developmental and ecological conditions.
 
 Living systems therefore persist evolutionarily:
+
 > through transformation rather than despite it.
 
 APS consequently approaches evolution organisationally rather than reductionistically or statistically alone.
+
+# Temporal Organisation and Evolutionary Continuity
+
+Evolution is fundamentally temporal.
+
+Evolutionary continuity does not emerge from static replication alone.
+
+It depends upon the ongoing regeneration of viable organisation across generations despite continuous transformation.
+
+Temporal organisation therefore becomes central to evolutionary explanation.
+
+Living systems must:
+- preserve continuity through developmental change
+- reproduce organisational conditions across generations
+- coordinate processes unfolding across different temporal scales
+- and maintain viability despite environmental instability
+
+Evolutionary continuity is therefore not static sameness propagated through time.
+
+It is organised continuity continuously regenerated through historical transformation.
+
+![Temporal Organisation and Organised Persistence](/assets/diagrams/temporal-organisation-visual.png)
+
+*Evolution preserves continuity not by preventing change, but by regenerating viable organisation through ongoing transformation across generations.*
 
 # Variation and the Diversification of Persistence
 
@@ -212,14 +254,16 @@ Evolution depends upon variation.
 
 Variation generates differences within viability-oriented organisation across organisms, developmental trajectories, ecological contexts, and generations.
 
-In many evolutionary frameworks, variation is treated primarily as stochastic genetic difference. APS accepts the importance of stochastic processes while rejecting the idea that biological variation is merely unconstrained randomness imposed upon passive systems.
+In many evolutionary frameworks, variation is treated primarily as stochastic genetic difference.
+
+APS accepts the importance of stochastic processes while rejecting the idea that biological variation is merely unconstrained randomness imposed upon passive systems.
 
 Living systems generate variation through:
-- developmental plasticity;
-- physiological modulation;
-- behavioural activity;
-- ecological interaction;
-- and adaptive reorganisation.
+- developmental plasticity
+- physiological modulation
+- behavioural activity
+- ecological interaction
+- and adaptive reorganisation
 
 Variation therefore emerges within already ongoing systems of organised persistence.
 
@@ -235,7 +279,9 @@ Variation alone does not explain evolution.
 
 Evolution also depends upon adaptation.
 
-Adaptation refers to the ongoing reorganisation of viability-oriented organisation under changing conditions. Living systems continuously modulate physiology, behaviour, development, and environmental interaction in ways that preserve persistence despite perturbation, instability, and ecological change.
+Adaptation refers to the ongoing reorganisation of viability-oriented organisation under changing conditions.
+
+Living systems continuously modulate physiology, behaviour, development, and environmental interaction in ways preserving persistence despite perturbation, instability, and ecological change.
 
 Adaptation is therefore an active process rather than a static property.
 
@@ -255,18 +301,25 @@ Evolution therefore builds upon adaptation without reducing to it.
 
 Evolution also depends upon inheritance.
 
-Inheritance is not adequately understood as the transmission of genes or traits alone. Living systems inherit developmental and organisational continuity through which viable persistence can be regenerated across generations.
+Inheritance is not adequately understood as the transmission of genes or traits alone.
+
+Living systems inherit developmental and organisational continuity through which viable persistence can be regenerated across generations.
 
 Inheritance therefore reproduces:
-- developmental organisation;
-- physiological coordination;
-- behavioural tendencies;
-- ecological relations;
-- and persistence-maintaining activity.
+- developmental organisation
+- physiological coordination
+- behavioural tendencies
+- ecological relations
+- persistence-maintaining activity
+- and continuity-producing organisation
 
 Evolutionary continuity depends upon such inherited organisation remaining sufficiently viable for persistence to continue historically.
 
-Variation diversifies inherited continuity. Adaptation reorganises it. Evolution transforms it historically across generations.
+Variation diversifies inherited continuity.
+
+Adaptation reorganises it.
+
+Evolution transforms it historically across generations.
 
 APS consequently approaches inheritance as the organised reconstitution of viable persistence rather than the passive transfer of informational units alone.
 
@@ -274,16 +327,18 @@ APS consequently approaches inheritance as the organised reconstitution of viabl
 
 Evolution also depends upon fitness.
 
-Fitness is commonly treated as reproductive success or gene-frequency contribution. APS instead approaches fitness as the historically situated continuity of viability-oriented organisation under changing developmental and ecological conditions.
+Fitness is commonly treated as reproductive success or gene-frequency contribution.
+
+APS instead approaches fitness as the historically situated continuity of viability-oriented organisation under changing developmental and ecological conditions.
 
 Fitness therefore does not refer to abstract superiority or ideal optimisation.
 
 It refers to whether organised persistence remains sufficiently viable for continuity to occur across generations.
 
 Fitness is consequently:
-- relational rather than absolute;
-- historically situated rather than universal;
-- and organisational rather than reducible to isolated traits.
+- relational rather than absolute
+- historically situated rather than universal
+- and organisational rather than reducible to isolated traits
 
 Some forms of organisation remain viable under particular developmental and ecological conditions, while others fail to sustain continuity.
 
@@ -296,12 +351,13 @@ Natural selection is one major process within evolution, but it is not identical
 Selection does not create organised biological persistence from passive components.
 
 It operates only within systems already capable of:
-- persistence;
-- variation;
-- inheritance;
-- adaptation;
-- development;
-- and biological agency.
+- persistence
+- variation
+- inheritance
+- adaptation
+- development
+- temporal continuity
+- and biological agency
 
 APS therefore approaches natural selection as the historically distributed differential stabilisation of organised persistence across generations.
 
@@ -316,19 +372,19 @@ Selection consequently explains patterns of evolutionary continuity and transfor
 Evolution operates across interacting biological scales.
 
 Evolutionary transformation may involve:
-- molecular organisation;
-- physiological regulation;
-- developmental systems;
-- behavioural coordination;
-- ecological interaction;
-- and environmental modification.
+- molecular organisation
+- physiological regulation
+- developmental systems
+- behavioural coordination
+- ecological interaction
+- and environmental modification
 
 These are not isolated levels of evolution but interacting dimensions of organised persistence distributed across living systems and their environments.
 
 Evolution therefore cannot be reduced to:
-- genes alone;
-- populations alone;
-- or selection acting at a single privileged scale.
+- genes alone
+- populations alone
+- or selection acting at a single privileged scale
 
 APS consequently approaches evolutionary transformation as multiscale organisational change distributed across continuously interacting biological processes.
 
@@ -336,17 +392,19 @@ APS consequently approaches evolutionary transformation as multiscale organisati
 
 Evolution transforms constraint-closed organisation.
 
-Living systems persist through networks of mutually sustaining constraints distributed across biological processes and scales. Evolution historically reorganises these constraint relations through diversification, adaptation, inheritance, and differential stabilisation.
+Living systems persist through networks of mutually sustaining constraints distributed across biological processes and scales.
+
+Evolution historically reorganises these constraint relations through diversification, adaptation, inheritance, and differential stabilisation.
 
 Evolution therefore transforms systems already capable of sustaining their own organisational continuity.
 
 This continuity depends upon biological agency.
 
 Living systems actively regulate:
-- physiology;
-- behaviour;
-- development;
-- reproduction;
+- physiology
+- behaviour
+- development
+- reproduction
 - and environmental interaction
 
 relative to viability constraints.
@@ -387,18 +445,18 @@ They form interacting dimensions of a unified organisational grammar for underst
 
   <p class="aps-diagram-caption">
     <strong>Evolution Continuity Visual.</strong>
-    Primary visuals clarify the organisational structure of a biological domain. Continuity visuals trace how that organisation develops continuously through viability-oriented transformation across generations, preserving explanatory continuity across biological organisation.
+    APS explains evolutionary continuity as the regeneration of viable organisation across generations through variation, inheritance, adaptation, ecological interaction, and differential stabilisation under changing conditions.
   </p>
 </div>
 
 APS therefore treats evolution as historically structured continuity rather than simple accumulation of isolated changes.
 
 Organised persistence is regenerated across generations through:
-- variation;
-- inheritance;
-- adaptation;
-- ecological interaction;
-- and differential stabilisation under changing conditions.
+- variation
+- inheritance
+- adaptation
+- ecological interaction
+- and differential stabilisation under changing conditions
 
 Evolutionary transformation consequently preserves continuity not by preventing change, but by propagating viable organisation through ongoing modification across time.
 
@@ -409,12 +467,13 @@ Evolutionary transformation consequently preserves continuity not by preventing 
 Clarifying evolution organisationally helps resolve several persistent problems in evolutionary explanation.
 
 It clarifies:
-- why evolution presupposes living systems rather than generating them from passive components;
-- why selection alone cannot explain biological organisation;
-- how adaptation and selection relate without being conflated;
-- why developmental and ecological organisation matter evolutionarily;
-- why evolutionary explanation cannot be reduced to gene frequencies alone;
-- and how continuity and transformation remain integrated across biological scales.
+- why evolution presupposes living systems rather than generating them from passive components
+- why selection alone cannot explain biological organisation
+- how adaptation and selection relate without being conflated
+- why developmental and ecological organisation matter evolutionarily
+- why evolutionary explanation cannot be reduced to gene frequencies alone
+- how continuity is preserved through transformation
+- and why evolution must be understood organisationally and temporally rather than statistically alone
 
 APS therefore reconstructs evolutionary explanation around organised persistence rather than isolated mechanisms or statistical abstractions alone.
 
@@ -422,14 +481,23 @@ APS therefore reconstructs evolutionary explanation around organised persistence
 
 Evolution is not merely change over time.
 
-It is the historical transformation of viability-oriented, constraint-closed organisation across generations.
+It is the historical transformation of viability-oriented, temporally organised, constraint-closed organisation across generations.
 
 Living systems persist historically by regenerating, reorganising, and transforming the organisation through which viability is sustained under changing developmental and ecological conditions.
 
 Living systems therefore persist evolutionarily:
+
 > through transformation rather than despite it.
 
-Variation diversifies organised persistence. Adaptation reorganises it. Inheritance reproduces it. Fitness contributes to its continuity. Natural selection differentially stabilises it historically.
+Variation diversifies organised persistence.
+
+Adaptation reorganises it.
+
+Inheritance reproduces it.
+
+Fitness contributes to its continuity.
+
+Natural selection differentially stabilises it historically.
 
 Evolution therefore concerns the long-term transformation of organised persistence itself.
 
@@ -437,9 +505,11 @@ APS consequently approaches evolution not as the statistical modification of iso
 
 ---
 
-## Related Pathways
+# Related Pathways
 
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+- *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+- *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Natural Selection — An APS Clarification](/articles/natural-selection-an-aps-clarification/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
@@ -448,6 +518,6 @@ APS consequently approaches evolution not as the statistical modification of iso
 
 ---
 
-## Key Terms
+# Key Terms
 
-evolution · persistence · viability · inheritance · variation · adaptation · natural selection · fitness · continuity · transformation
+evolution · persistence · viability · inheritance · variation · adaptation · natural selection · fitness · continuity · transformation · temporal organisation
