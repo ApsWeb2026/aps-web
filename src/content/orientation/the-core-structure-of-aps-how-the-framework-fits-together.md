@@ -4,17 +4,19 @@ title: "The Core Structure of APS — How the Framework Fits Together"
 slug: the-core-structure-of-aps-how-the-framework-fits-together
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-22
-revised: 2026-05-22
+canonicalLockDate: 2026-05-26
+revised: 2026-05-26
 cluster: conceptual-foundations
 
 abstract: >
-  This article presents the formal conceptual structure of the APS framework.
+  This article presents the formal explanatory structure of the APS framework.
   APS explains life as viability-oriented organised persistence sustained
   across time. The framework integrates viability, constraint closure,
   normativity, agency, process, and scale into a unified explanatory grammar
   through which living systems become intelligible as dynamically organised
-  continuities.
+  continuities that regulate persistence, adapt to perturbation, and sustain
+  viability through ongoing transformation across interacting scales and
+  timescales.
 
 relatedGlossaryTerms:
   - viability
@@ -37,6 +39,7 @@ relatedGlossaryTerms:
   - cognition
   - intelligence
   - consciousness
+  - perturbation
 
 relatedArticles:
   - what-is-aps
@@ -69,7 +72,7 @@ APS begins not with:
 but with organised persistence:
 - the ongoing organisation through which living systems sustain viable continuity across time.
 
-Living systems therefore become intelligible not as static objects, but as dynamically organised continuities actively maintaining themselves under changing conditions.
+Living systems therefore become intelligible not as static objects, but as dynamically organised continuities actively regulating themselves under changing and potentially destabilising conditions.
 
 From this starting point, APS develops an integrated explanatory grammar linking:
 - viability;
@@ -79,6 +82,7 @@ From this starting point, APS develops an integrated explanatory grammar linking
 - process;
 - scale;
 - adaptation;
+- perturbation;
 - and temporally organised persistence.
 
 Together, these concepts form the core explanatory structure through which APS understands biological organisation.
@@ -121,9 +125,11 @@ Living systems persist:
 - adaptive reorganisation;
 - ecological interaction;
 - developmental transformation;
+- compensation under perturbation;
 - and continuity-producing activity distributed across time.
 
 APS therefore explains biology through:
+
 > viability-oriented organised continuity sustained through ongoing transformation.
 
 <div class="aps-diagram">
@@ -137,9 +143,14 @@ APS therefore explains biology through:
 
   <p class="aps-diagram-caption">
     <strong>Temporal Organisation and Organised Persistence.</strong>
-    APS explains living systems as dynamically organised continuities sustaining viability across changing conditions, interacting processes, and multiple timescales.
+    APS explains living systems as dynamically organised continuities sustaining viability through regulation, adaptation, and transformation across changing conditions, interacting processes, and multiple timescales.
   </p>
 </div>
+
+Persistence therefore concerns:
+> the active regeneration of viable continuity under changing conditions.
+
+[[box:multiple-realization-and-organised-persistence]]
 
 # Constraint Closure and Continuity
 
@@ -157,12 +168,17 @@ Constraint closure therefore contributes directly to:
 - continuity;
 - repair;
 - adaptation;
-- and resilience.
+- resilience;
+- and perturbation-sensitive regulation.
 
 Living systems remain viable because organisational continuity is continuously regenerated across time.
 
+Perturbation becomes explanatorily important because it reveals how continuity is maintained, compensated for, reorganised, or lost.
+
 Persistence therefore concerns:
-> the ongoing regeneration of organised continuity under changing conditions.
+> the ongoing regeneration of organised continuity under changing conditions and destabilising pressures.
+
+[[box:perturbation-reveals-organisation]]
 
 # Normativity
 
@@ -172,6 +188,7 @@ Some conditions:
 - support continuity;
 - stabilise organisation;
 - preserve viability;
+- facilitate adaptation;
 - or contribute to recovery.
 
 Others:
@@ -195,6 +212,7 @@ It emerges directly from the organisational conditions required for viable persi
 # Agency
 
 Within this normatively structured organisation, biological agency refers to:
+
 > the active regulation of continuity relative to viability conditions.
 
 Living systems do not persist passively.
@@ -206,6 +224,7 @@ They regulate:
 - development;
 - behaviour;
 - adaptation;
+- compensation;
 - and continuity-preserving organisation
 
 in ways contributing to continued persistence.
@@ -228,12 +247,19 @@ Living systems persist through:
 - adaptation;
 - developmental transformation;
 - ecological interaction;
+- compensation under perturbation;
 - and continuity-preserving reorganisation.
 
 APS therefore treats organisms not as static entities possessing processes, but as:
+
 > dynamically organised persistence processes themselves.
 
 Structure is the temporary stabilisation of ongoing activity.
+
+Dynamic stability therefore does not mean immobility.
+
+It means:
+> the active maintenance of viable continuity through ongoing transformation.
 
 Process therefore:
 - enacts continuity through time.
@@ -257,10 +283,13 @@ are not isolated explanatory layers.
 They are interacting domains of organised persistence.
 
 Scale therefore concerns:
+
 > the coordination of continuity across interacting spatial and temporal domains.
 
 APS consequently approaches biological organisation as:
 - scale-coupled rather than hierarchically partitioned.
+
+Continuity is therefore distributed across interacting scales rather than confined within isolated biological levels.
 
 [[box:scale-is-not-hierarchy]]
 
@@ -295,9 +324,11 @@ Together, agency, process, and scale form the core explanatory grammar through w
 
   <p class="aps-diagram-caption">
     <strong>APS Explanatory Structure.</strong>
-    Agency regulates continuity, process enacts continuity, and scale coordinates continuity within viability-oriented organised persistence across time.
+    Agency regulates continuity, process enacts continuity, and scale coordinates continuity within viability-oriented organised persistence sustained across time.
   </p>
 </div>
+
+[[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 # The Emergence of Cognition
 
@@ -364,11 +395,21 @@ From these foundations emerge further accounts of:
 - cognition;
 - semiosis;
 - diagnosis;
+- development;
 - and organism–environment coupling.
 
 These are not separate theories externally added onto APS.
 
 They emerge progressively from the same organisational structure of viability-oriented persistence.
+
+Physiology,
+development,
+ecology,
+evolution,
+cognition,
+and diagnosis
+
+therefore become different continuity regimes operating across different scales and timescales of organised persistence.
 
 This allows APS to integrate:
 - physiology;
@@ -381,6 +422,8 @@ This allows APS to integrate:
 - and diagnosis
 
 within one explanatory architecture.
+
+[[box:failure-reveals-organisation]]
 
 # Biological Explanation in APS
 
@@ -400,6 +443,8 @@ Information matters because some differences affect persistence.
 Ecology matters because continuity depends upon organism–environment coupling.
 
 Evolution matters because organised persistence transforms historically across generations.
+
+Development matters because continuity must be sustained through organisational transformation.
 
 Diagnosis matters because continuity can destabilise, reorganise, recover, or fail.
 
@@ -426,7 +471,7 @@ Readers may also wish to continue with:
 
 APS explains life as viability-oriented organised persistence sustained across time.
 
-Living systems remain viable not because they resist change, but because they continuously regenerate organised continuity across changing conditions and interacting scales.
+Living systems remain viable not because they resist change, but because they continuously regenerate organised continuity under changing conditions, perturbations, and interacting scales of biological organisation.
 
 The framework integrates:
 - viability;
@@ -438,13 +483,17 @@ The framework integrates:
 - cognition;
 - ecology;
 - evolution;
-- and diagnosis
+- development;
+- diagnosis;
+- perturbation;
+- and temporal organisation
 
 within one explanatory grammar centred on organised continuity and persistence.
 
 Living systems therefore become intelligible as:
-> dynamically organised continuities actively sustaining viable persistence across time.
+
+> dynamically organised continuities actively sustaining viable persistence through regulation, adaptation, compensation, and transformation across time.
 
 # Key Terms
 
-viability · persistence · continuity · temporal organisation · constraint closure · normativity · agency · process · scale · cognition
+viability · persistence · continuity · temporal organisation · constraint closure · normativity · agency · process · scale · perturbation · cognition
