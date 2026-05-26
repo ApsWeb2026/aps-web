@@ -6,7 +6,8 @@ definition: >
   The temporally extended continuity conditions within which
   viability-oriented organisation is maintained, renewed,
   and transformed across time.
-category: organisation
+inBrief: The temporal field is the continuity context within which organised systems persist, transform, and remain viable over time.
+cluster: conceptual-foundations
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
