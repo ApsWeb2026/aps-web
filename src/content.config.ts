@@ -19,6 +19,7 @@ const optionalDateString = z.preprocess(
 
 const clusterEnum = z.enum([
   'conceptual-foundations',
+  'developmental-organisation',
   'evolutionary-dynamics',
   'cognition-and-mind',
   'ecological-organisation',
