@@ -41,7 +41,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - biological-explanation-and-organised-persistence
   - organisational-realism-in-biology
-  - processual-individual
+  - processual-individuality
   - emergence-in-biology-an-aps-clarification
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology

@@ -24,7 +24,7 @@ revised: 2026-05-27
 cluster: conceptual-foundations
 
 relatedGlossaryTerms:
-  - biological-explanation
+  - explanatory-grammar
   - viability
   - biological-organisation
   - biological-agency
@@ -38,17 +38,17 @@ relatedGlossaryTerms:
   - ecological-organisation
 
 relatedArticles:
-  - what-counts-as-a-biological-explanation
+  - biological-explanation-what-needs-to-be-explained
   - description-explanation-and-definition-in-biology
   - diagnosis-as-continuity-analysis
   - explanatory-grammar
   - biological-organisation
-  - evolution-and-organised-persistence
+  - multiscale-evolution-and-organised-persistence
   - ecological-organisation
   - organism-environment-coupling
-  - biological-constraint-closure
+  - constraint-closure-what-it-does-and-does-not-do
   - rethinking-development
-  - developmental-temporality-ci
+  - life-cycles
   - organisational-realism-in-biology
   - why-philosophy-of-biology-matters
   - aps-and-contemporary-theories

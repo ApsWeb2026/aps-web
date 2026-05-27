@@ -43,7 +43,7 @@ relatedArticles:
   - developmental-resilience
   - morphogenesis
   - ontogeny
-  - developmental-temporality-ci
+  - life-cycles
   - organism-environment-coupling
   - evolution
   - the-developmental-organisation-of-life

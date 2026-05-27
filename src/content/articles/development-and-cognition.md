@@ -1,6 +1,6 @@
 ---
 date: 2026-05-26
-title: "Development and Cognition"
+title: "Development and cognition"
 slug: development-and-cognition
 
 abstract: >
@@ -32,16 +32,9 @@ relatedGlossaryTerms:
   - process
 
 relatedArticles:
-  - cognition
-  - semiosis
-  - information-in-biology
-  - meaning-in-biology-an-aps-clarification
-  - developmental-plasticity
-  - developmental-regulation
-  - developmental-resilience
-  - ecological-organisation
-  - evolution
-  - development-as-organised-persistence
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - information-in-biology-an-aps-clarification
 
 references:
   - id: piaget1952
@@ -59,7 +52,7 @@ references:
   - id: maturanavarela1980
     authors: "Maturana, H. & Varela, F."
     year: 1980
-    title: "Autopoiesis and Cognition"
+    title: "Autopoiesis and cognition"
     publisher: "D. Reidel"
 
   - id: oyama2000
@@ -100,7 +93,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Cognition develops.
+cognition develops.
 
 Living systems do not emerge fully formed with complete behavioural, evaluative, or adaptive capacities already fixed in advance. Organisms progressively acquire increasingly integrated forms of:
 
@@ -127,7 +120,7 @@ This shifts explanation away from static computational models and toward continu
 
 Living systems preserve cognitive continuity not through fixed informational structures alone, but through continually reorganised evaluative interaction across changing developmental and ecological conditions.
 
-## Cognition as a Developmental Problem
+## cognition as a Developmental Problem
 
 Cognitive capacities transform extensively across development.
 
@@ -143,7 +136,7 @@ Organisms acquire:
 
 through developmental organisation extending across time.
 
-Cognition therefore cannot be adequately understood as a fixed property statically present from the outset of life.
+cognition therefore cannot be adequately understood as a fixed property statically present from the outset of life.
 
 Even highly constrained developmental systems exhibit substantial transformation in:
 
@@ -156,7 +149,7 @@ APS interprets cognition as progressively emerging continuity-maintaining organi
 
 Cognitive development concerns the emergence of viable evaluative interaction with changing environments.
 
-## Historical Approaches to Cognition and Development
+## Historical Approaches to cognition and Development
 
 Relationships between cognition and development have long occupied philosophy and biology.
 
@@ -217,7 +210,7 @@ They remain actively engaged in maintaining continuity under changing ecological
 
 APS therefore interprets cognition not as disembodied computation, but as developmentally organised evaluative interaction supporting viable persistence.
 
-## Cognition as Evaluative Organisation
+## cognition as Evaluative Organisation
 
 The central APS insight is that cognition emerges through increasingly integrated forms of evaluative organisation.
 
@@ -241,7 +234,7 @@ This includes:
 
 APS interprets cognition as organisationally enacted evaluation rather than detached representation alone.
 
-Cognition develops because living systems progressively organise more flexible and integrated forms of viability-oriented interaction across time.
+cognition develops because living systems progressively organise more flexible and integrated forms of viability-oriented interaction across time.
 
 ## Developmental Regulation and Cognitive Emergence
 
@@ -268,7 +261,7 @@ Developmental regulation preserves sufficient continuity for cognitive organisat
 
 ## Organism–Environment Cognitive Coupling
 
-Cognition develops through organism–environment interaction.
+cognition develops through organism–environment interaction.
 
 Living systems acquire behavioural and evaluative capacities through continuous engagement with:
 
@@ -348,7 +341,7 @@ This links cognition directly to:
 - ageing,
 - and organisational breakdown.
 
-## Cognition, Development, and evolution
+## cognition, Development, and evolution
 
 Cognitive capacities evolve through developmental organisation across generations.
 
@@ -379,7 +372,7 @@ This perspective helps integrate:
 
 within a unified organisational architecture.
 
-## Development and Cognition in APS
+## Development and cognition in APS
 
 APS interprets cognition as:
 
@@ -388,5 +381,5 @@ APS interprets cognition as:
 
 This perspective shifts cognition away from purely computational or informational models and toward embodied developmental organisation operating within ecological and social environments.
 
-Cognition emerges not as detached information processing, but as continuity-maintaining developmental organisation enabling viable interaction with the world across time.
+cognition emerges not as detached information processing, but as continuity-maintaining developmental organisation enabling viable interaction with the world across time.
 

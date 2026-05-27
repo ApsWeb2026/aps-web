@@ -60,7 +60,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - evolution
   - diagnosis-as-continuity-analysis
-  - malfunction
+  - malfunction-breakdown-and-death
   - organisational-realism-in-biology
 
 references:

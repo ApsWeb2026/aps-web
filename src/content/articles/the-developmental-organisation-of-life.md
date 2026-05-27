@@ -50,7 +50,7 @@ relatedArticles:
   - development-and-biological-individuality
   - development-and-ecological-organisation
   - development-and-evolution
-  - developmental-temporality-ci
+  - life-cycles
   - organism-environment-coupling
   - ecological-organisation
   - evolution

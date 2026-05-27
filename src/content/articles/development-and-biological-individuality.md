@@ -31,7 +31,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - development-as-organised-persistence
-  - development-as-organised-continuity
+  - development-as-organised-persistence
   - developmental-plasticity
   - developmental-resilience
   - developmental-regulation
