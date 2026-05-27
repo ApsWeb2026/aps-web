@@ -5,23 +5,28 @@ slug: morphogenesis
 
 abstract: >
   In APS, morphogenesis is understood not as the execution of a static
-  structural blueprint, but as the regulated emergence and maintenance
-  of viable organisational form through continuity-preserving
-  developmental processes operating across time and space.
+  structural blueprint, but as the regulated emergence, stabilisation,
+  and maintenance of viable organisational form through
+  continuity-preserving developmental processes operating across time
+  and space.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-27
+revised: 2026-05-28
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - morphogenesis
   - development
+  - developmental-organisation
   - morphology
   - viability
+  - persistence
+  - organised-persistence
+  - processual-individual
   - resilience
   - organism-environment-coupling
   - biological-agency
@@ -31,9 +36,11 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - developmental-regulation
+  - developmental-integration
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
+  - developmental-temporality
   - repair-and-regeneration
   - development-and-ecological-organisation
   - development-and-evolution
@@ -41,6 +48,7 @@ relatedArticles:
   - ecological-organisation
   - evolution
   - development-as-organised-persistence
+  - life-cycles
   - the-developmental-organisation-of-life
 
 references:
@@ -129,9 +137,9 @@ Living structures:
 - age,
 - and continuously exchange material with their environments,
 
-while nonetheless maintaining sufficient continuity to remain viable organisms.
+while nonetheless maintaining sufficient organisational continuity to remain viable organisms.
 
-APS interprets morphogenesis not as the execution of a static structural blueprint, but as the regulated emergence and maintenance of viable organisational form across time.
+APS interprets morphogenesis not as the execution of a static structural blueprint, but as the regulated emergence, stabilisation, and maintenance of viable organisational form across time.
 
 The central morphogenetic question is therefore not simply:
 
@@ -141,7 +149,7 @@ but:
 
 > How does coherent form emerge and persist through continuously changing developmental organisation?
 
-This shifts explanation away from static architecture and toward continuity-maintaining processes that organise viable form across time and space.
+This shifts explanation away from static architecture and toward continuity-preserving processes that stabilise viable form across time and space.
 
 ## Morphogenesis as a Biological Problem
 
@@ -167,7 +175,7 @@ Cells divide and die. Tissues reorganise. Structures remodel. Physiological rela
 
 Yet organisms preserve sufficient organisational continuity to remain viable despite these ongoing transformations.
 
-APS therefore interprets morphogenesis as a problem of organised continuity rather than static construction.
+APS therefore interprets morphogenesis as a problem of organised persistence rather than static construction.
 
 ## Historical Approaches to Biological Form
 
@@ -236,13 +244,13 @@ APS therefore rejects purely informational models of form generation.
 
 Biological form is not statically encoded in complete detail prior to development.
 
-Rather, form emerges through continuity-maintaining organisational processes distributed across dynamically interacting systems.
+Rather, form emerges through continuity-preserving organisational processes distributed across dynamically interacting systems.
 
 Genes participate in morphogenesis, but viable form emerges through broader developmental organisation extending across multiple spatial and temporal scales.
 
-## Form as Organised Continuity
+## Form as Organised Persistence
 
-The central APS morphogenetic principle is that biological form constitutes a continuity-maintaining organisational structure rather than merely a geometric arrangement of parts.
+The central APS morphogenetic principle is that biological form constitutes a viability-preserving organisational structure rather than merely a geometric arrangement of parts.
 
 Living form exists because:
 
@@ -261,7 +269,7 @@ Morphological organisation is therefore inseparable from:
 - developmental regulation,
 - and continuity maintenance.
 
-An organism persists morphologically not by preserving fixed material structure, but by continuously reorganising itself in ways that maintain viable continuity.
+An organism persists morphologically not by preserving fixed material structure, but by continuously reorganising itself in ways that preserve viable persistence.
 
 This principle applies across development.
 
@@ -274,7 +282,7 @@ Embryonic, juvenile, mature, and ageing organisms may differ profoundly in:
 
 while still maintaining continuity of organised persistence across transformation.
 
-APS therefore interprets biological form as dynamically organised continuity rather than static architecture.
+APS therefore interprets biological form as dynamically organised persistence rather than static architecture.
 
 ## Constraint, Spatial Organisation, and Coordination
 
@@ -309,6 +317,8 @@ Morphogenesis therefore involves continuous interaction among:
 - variability,
 - coordination,
 - and adaptive responsiveness.
+
+Morphogenetic organisation persists through dynamically coordinated constraints regulating viable form across developmental transformation.
 
 ## Morphogenesis and Environmental Coupling
 
@@ -369,11 +379,11 @@ Regeneration extends this principle further by restoring lost or damaged structu
 
 Morphogenesis therefore continues throughout life rather than ending after embryonic development.
 
-Living form persists through ongoing continuity-maintaining organisation.
+Living form persists through ongoing continuity-preserving organisation.
 
 ## Ageing and Morphological Deterioration
 
-Ageing involves progressive weakening of morphogenetic continuity-maintaining organisation.
+Ageing involves progressive weakening of morphogenetic continuity-preserving organisation.
 
 Over time:
 
@@ -382,7 +392,7 @@ Over time:
 - adaptive flexibility decreases,
 - and vulnerability to perturbation increases.
 
-APS interprets ageing not simply as passive deterioration, but as gradual weakening in the capacity of morphogenetic organisation to preserve viable structural continuity.
+APS interprets ageing not simply as passive deterioration, but as gradual weakening in the capacity of morphogenetic organisation to preserve viable structural persistence.
 
 Morphological fragility therefore reflects declining organisational integration across developmental systems.
 
@@ -393,11 +403,11 @@ This links morphogenesis directly to:
 - degeneration,
 - and breakdown.
 
-## Morphogenesis and evolution
+## Morphogenesis and Evolution
 
 Morphogenesis and evolution are deeply interconnected continuity processes.
 
-evolution shapes:
+Evolution shapes:
 
 - body plans,
 - developmental constraints,
@@ -411,18 +421,18 @@ At the same time, developmental organisation shapes:
 - evolvability,
 - and ecological responsiveness.
 
-APS therefore interprets morphogenesis as a bridge between developmental continuity and evolutionary continuity.
+APS therefore interprets morphogenesis as a bridge between developmental persistence and evolutionary continuity.
 
 This perspective helps integrate:
 
 - developmental biology,
 - ecology,
 - evolution,
-- and organisational persistence
+- and organised persistence
 
 within a unified explanatory architecture.
 
-## Morphogenesis and APS
+## Why Morphogenesis Matters in APS
 
 APS interprets morphogenesis as:
 
@@ -431,7 +441,6 @@ APS interprets morphogenesis as:
 
 This perspective shifts morphogenetic explanation away from static blueprints, purely informational instructions, or isolated structural mechanisms.
 
-Biological form is instead understood as dynamically organised continuity maintained through ongoing developmental regulation.
+Biological form is instead understood as dynamically organised persistence maintained through ongoing developmental regulation.
 
 Living form persists not as fixed structure, but as viability-oriented organisation continuously maintained across transformation.
-

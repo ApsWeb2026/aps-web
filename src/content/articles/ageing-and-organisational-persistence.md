@@ -4,27 +4,31 @@ title: "Ageing and Organisational Persistence"
 slug: ageing-and-organisational-persistence
 
 abstract: >
-  In the APS framework, ageing is interpreted as the progressive weakening of
-  continuity-maintaining organisation across time. Living systems persist
-  through ongoing repair, regulation, resilience, developmental coordination,
-  and adaptive continuity maintenance under changing conditions. Ageing
-  therefore concerns the gradual destabilisation of organised persistence,
-  expressed through declining repair capacity, weakening resilience,
-  increasing fragility, reduced adaptive flexibility, and growing vulnerability
-  to perturbation. APS consequently interprets ageing not as passive decay or
-  deterministic programming alone, but as the progressive erosion of the
-  organisational capacities required to sustain viable continuity across
-  developmental, physiological, ecological, and evolutionary timescales.
+  In APS, ageing is interpreted as the progressive weakening of
+  viability-preserving organisational continuity across developmental
+  time. Living systems persist through ongoing repair, regulation,
+  resilience, developmental coordination, and adaptive continuity
+  maintenance under changing conditions. Ageing therefore concerns the
+  gradual destabilisation of organised persistence, expressed through
+  declining repair capacity, weakening resilience, increasing
+  fragility, reduced adaptive flexibility, and growing vulnerability
+  to perturbation. APS consequently interprets ageing not as passive
+  decay or deterministic programming alone, but as the progressive
+  erosion of the organisational capacities required to sustain viable
+  persistence across developmental, physiological, ecological, and
+  evolutionary timescales.
 
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-28
+
 cluster: developmental-organisation
 
 keyPoints:
-  - Ageing is the progressive weakening of continuity-maintaining organisation across time.
-  - Living systems remain viable through dynamically regulated continuity rather than static stability.
+  - Ageing is the progressive weakening of viability-preserving organisational continuity across time.
+  - Living systems remain viable through dynamically regulated organised persistence rather than static stability.
   - Ageing reflects declining resilience, repair capacity, adaptive flexibility, and organisational integration.
   - Biological persistence depends upon continuous compensation under perturbation and instability.
   - Repair and regeneration are central continuity-maintaining processes within organised persistence.
@@ -35,7 +39,7 @@ keyPoints:
 relatedGlossaryTerms:
   - ageing
   - persistence
-  - continuity
+  - organised-persistence
   - viability
   - resilience
   - perturbation
@@ -50,13 +54,15 @@ relatedGlossaryTerms:
   - scale
 
 relatedArticles:
+  - development-as-organised-persistence
+  - developmental-temporality
+  - developmental-resilience
+  - life-cycles
+  - morphogenesis
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - developmental-organisation-and-organised-persistence
-  - developmental-plasticity
-  - developmental-resilience
   - ecology-as-organised-persistence-across-scales
   - evolution
   - diagnosis-as-continuity-analysis
@@ -64,15 +70,15 @@ relatedArticles:
   - organisational-realism-in-biology
 
 references:
-  - id: kirkwood-1977
+  - id: kirkwood1977
     authors: "Kirkwood, T. B. L."
     year: 1977
-    title: "evolution of Ageing"
+    title: "Evolution of Ageing"
     journal: "Nature"
     volume: "270(5635)"
     pages: "301–304"
 
-  - id: lopez-otin-2013
+  - id: lopezotin2013
     authors: "López-Otín, C.; Blasco, M. A.; Partridge, L.; Serrano, M.; Kroemer, G."
     year: 2013
     title: "The Hallmarks of Aging"
@@ -80,46 +86,53 @@ references:
     volume: "153(6)"
     pages: "1194–1217"
 
-  - id: west-eberhard-2003
+  - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and evolution"
+    title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
-  - id: gilbert-epel-2015
-    authors: "Gilbert, S. F.; Epel, D."
+  - id: gilbertepel2015
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
     publisher: "Sinauer Associates"
 
-  - id: nicholson-dupre-2018
-    authors: "Nicholson, D. J.; Dupré, J."
+  - id: nicholsondupre2018
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
-  - id: mossio-2023
+  - id: mossio2023
     authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
-  - id: rose-1991
+  - id: rose1991
     authors: "Rose, M. R."
     year: 1991
     title: "Evolutionary Biology of Aging"
     publisher: "Oxford University Press"
 
-  - id: kupiec-2024
+  - id: kupiec2024
     authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Ageing and Organisational Persistence
 
-> **Where this article fits:** This article develops the APS interpretation of ageing as progressive destabilisation of continuity-maintaining organisation across time. It forms part of the developmental continuity pathway linking persistence, resilience, adaptation, ecology, diagnosis, and evolutionary transformation within the broader framework of viability-oriented organised persistence.
+> **Where this article fits:** This article develops the APS interpretation of ageing as progressive destabilisation of viability-preserving organisation across time. It forms part of the developmental continuity pathway linking persistence, resilience, adaptation, ecology, diagnosis, and evolutionary transformation within the broader framework of viability-oriented organised persistence.
 
 All living systems age.
 
@@ -138,7 +151,7 @@ Yet despite these continuity-maintaining processes, living systems gradually exp
 - reduced adaptive flexibility;
 - and growing vulnerability to perturbation.
 
-APS interprets ageing as the progressive weakening of continuity-maintaining organisation across time.
+APS interprets ageing as the progressive weakening of viability-preserving organisational continuity across time.
 
 The central biological question therefore becomes not simply:
 
@@ -146,7 +159,7 @@ The central biological question therefore becomes not simply:
 
 but:
 
-> How do living systems preserve viable continuity across time despite continual perturbation, instability, and organisational decline?
+> How do living systems preserve viable persistence across time despite continual perturbation, instability, and organisational decline?
 
 This shifts explanation away from isolated molecular causes alone and toward the broader organisational conditions required for persistence across developmental, physiological, ecological, and evolutionary timescales.
 
@@ -172,13 +185,13 @@ Yet over time:
 - adaptive flexibility decreases;
 - and continuity becomes increasingly fragile.
 
-APS therefore interprets ageing not as simple passive decay, but as progressive weakening in the organisational capacity required to preserve viable continuity under ongoing perturbation.
+APS therefore interprets ageing not as simple passive decay, but as progressive weakening in the organisational capacity required to preserve viable persistence under ongoing perturbation.
 
 Ageing concerns the limits of organised persistence itself.
 
-Living systems remain viable not because they avoid instability, but because they continuously compensate for instability through continuity-maintaining organisation.
+Living systems remain viable not because they avoid instability, but because they continuously compensate for instability through continuity-preserving organisation.
 
-Ageing progressively weakens those continuity-preserving capacities.
+Ageing progressively weakens those viability-maintaining capacities.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/developmental-organisation-visual.png" target="_blank" rel="noopener">
@@ -262,7 +275,7 @@ and physiological coordination
 
 all participate in ageing processes.
 
-Ageing therefore reflects progressive decline in the capacity of developmental and regulatory systems to preserve viable continuity under ongoing perturbation.
+Ageing therefore reflects progressive decline in the capacity of developmental and regulatory systems to preserve viable persistence under ongoing perturbation.
 
 [[box:developmental-stability-is-not-rigidity]]
 
@@ -286,7 +299,7 @@ Physiological integration deteriorates.
 Adaptive flexibility declines.
 Compensatory organisation weakens.
 
-APS therefore interprets ageing as deterioration in the organisational capacity required to maintain viable continuity across changing conditions.
+APS therefore interprets ageing as deterioration in the organisational capacity required to maintain viable persistence across changing conditions.
 
 Importantly, ageing does not occur uniformly.
 
@@ -305,6 +318,8 @@ age differently depending upon:
 - and continuity-maintaining capacities.
 
 Ageing therefore reflects distributed organisational transformation rather than singular linear decline.
+
+Ageing organisation persists through progressively weakened constraints that become increasingly unable to stabilise viable continuity under perturbation.
 
 # Repair, Regeneration, and Declining Recovery
 
@@ -331,7 +346,7 @@ This directly links ageing to:
 - resilience;
 - developmental regulation;
 - adaptation;
-- and organisational persistence.
+- and organised persistence.
 
 [[box:perturbation-reveals-organisation]]
 
@@ -420,11 +435,11 @@ Ageing emerges from the same developmental and regulatory processes that make or
 
 Living systems persist temporarily through continual continuity maintenance under conditions that ultimately exceed recovery capacity.
 
-# Ageing and evolution
+# Ageing and Evolution
 
 Ageing varies substantially across organisms and evolutionary lineages.
 
-evolution shapes:
+Evolution shapes:
 - lifespan strategies;
 - repair capacities;
 - developmental allocation;
@@ -436,7 +451,7 @@ Different organisms therefore exhibit different organisational strategies for ma
 
 APS interprets ageing and evolution as interconnected continuity processes operating across different temporal scales.
 
-evolution shapes the organisational conditions under which persistence is maintained, repaired, reorganised, and ultimately lost.
+Evolution shapes the organisational conditions under which persistence is maintained, repaired, reorganised, and ultimately lost.
 
 This perspective helps integrate:
 - development;
@@ -448,11 +463,11 @@ This perspective helps integrate:
 
 within one continuity-oriented explanatory architecture.
 
-# Ageing and APS
+# Why Ageing Matters in APS
 
 APS interprets ageing as:
 
-> the progressive weakening of continuity-maintaining organisation across time, resulting in declining resilience, reduced repair capacity, increasing fragility, and eventual failure of viable persistence.
+> the progressive weakening of viability-preserving organisational continuity across time, resulting in declining resilience, reduced repair capacity, increasing fragility, and eventual failure of viable persistence.
 
 This perspective shifts explanation away from isolated molecular causes or purely deterministic programs and toward the organisational conditions required for long-term biological continuity.
 
@@ -464,14 +479,14 @@ Ageing therefore reveals both:
 
 # Related Developmental Pathways
 
-- *[Developmental Organisation and Organised Persistence](/articles/developmental-organisation-and-organised-persistence/)*
-- *[Developmental Plasticity and Organised Persistence](/articles/developmental-plasticity/)*
+- *[Development as Organised Persistence](/articles/development-as-organised-persistence/)*
+- *[Developmental Temporality](/articles/developmental-temporality/)*
 - *[Developmental Resilience](/articles/developmental-resilience/)*
-- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+- *[Life Cycles](/articles/life-cycles/)*
+- *[Morphogenesis](/articles/morphogenesis/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
-- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
+- *[Evolution](/articles/evolution/)*
 
 # Key Terms
 
-ageing · persistence · continuity · resilience · repair · fragility · viability · perturbation · development · organised persistence
-
+ageing · persistence · organised persistence · resilience · repair · fragility · viability · perturbation · development · temporal organisation

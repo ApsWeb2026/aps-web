@@ -6,7 +6,7 @@ slug: developmental-niches
 abstract: >
   In APS, developmental niches are historically persistent ecological,
   behavioural, social, and material systems that stabilise
-  viability-oriented developmental continuity across generations.
+  viability-oriented developmental persistence across generations.
   Organisms inherit not only genes, but structured developmental
   relations that help sustain organised continuity across time.
 
@@ -14,16 +14,19 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-27
+revised: 2026-05-28
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
+  - developmental-organisation
   - ecology
   - niche-construction
   - organism-environment-coupling
   - viability
+  - persistence
+  - organised-persistence
   - inheritance
   - resilience
   - biological-agency
@@ -37,12 +40,14 @@ relatedArticles:
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
+  - developmental-temporality
   - development-and-ecological-organisation
   - organism-environment-coupling
   - ecological-organisation
   - resilience-ecology-and-continuity
   - ontogeny
   - evolution
+  - development-and-social-organisation
   - the-developmental-organisation-of-life
 
 references:
@@ -52,7 +57,7 @@ references:
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
-  - id: griffiths2001
+  - id: griffithsgray2001
     authors: "Griffiths, P. E. & Gray, R. D."
     year: 2001
     title: "Darwinism and Developmental Systems"
@@ -61,11 +66,11 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in evolution"
+    title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
 
-  - id: west2003
-    authors: "West, M. J. & King, A. J."
+  - id: westking2003
+    authors: "West, M. J. & King, A. P."
     year: 2003
     title: "Ecological Context as a Source of Developmental Constraint"
     journal: "Developmental Psychobiology"
@@ -91,19 +96,20 @@ references:
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
+
 Development is often treated as a process occurring primarily within individual organisms under the direction of internally regulated biological mechanisms. Within APS, however, development is understood as a viability-oriented organisational process that depends upon historically persistent ecological, behavioural, social, and material systems extending beyond isolated organisms themselves.
 
 Organisms do not inherit genes alone.
 
-They also inherit developmental conditions that help stabilise viable developmental continuity across generations.
+They also inherit developmental conditions that help stabilise viable developmental persistence across generations.
 
-APS consequently interprets developmental niches as the structured relational systems through which developmental viability is maintained and historically reproduced.
+APS consequently interprets developmental niches as structured relational systems through which developmental viability is maintained and historically reproduced.
 
-Developmental niches are not merely passive environments surrounding development from the outside. They are organised systems that help preserve the conditions required for viable developmental continuity across time.
+Developmental niches are not merely passive environments surrounding development from the outside. They are organised systems that help preserve the conditions required for viable developmental persistence across time.
 
 Development therefore emerges through historically continuous organism–environment organisation rather than isolated internal construction alone.
 
-Living systems preserve developmental continuity through continually reproduced ecological and relational organisation rather than through internally specified developmental structures alone.
+Living systems preserve developmental persistence through continually reproduced ecological and relational organisation rather than through internally specified developmental structures alone.
 
 ## The Classical View of Development and Environment
 
@@ -119,7 +125,7 @@ This distinction between internally directed organisms and externally acting env
 
 APS does not deny the importance of internal developmental regulation or organismal organisation.
 
-However, APS argues that developmental continuity frequently depends upon historically persistent environmental and relational systems that participate directly in viability maintenance itself.
+However, APS argues that developmental persistence frequently depends upon historically persistent environmental and relational systems that participate directly in viability maintenance itself.
 
 Development therefore cannot be adequately understood independently of the developmental niches within which viable organisation is stabilised.
 
@@ -138,11 +144,13 @@ These niches may include:
 - behavioural traditions,
 - and socially organised learning environments.
 
-Such structures help preserve the conditions required for viable developmental continuity.
+Such structures help preserve the conditions required for viable developmental persistence.
 
 APS consequently treats developmental niches as components of the broader organisational systems through which development remains viable across time.
 
 Developmental niches are therefore not accidental surroundings external to development itself. They participate directly in maintaining the organisational continuity through which developmental processes proceed.
+
+Developmental niche organisation persists through dynamically coordinated ecological and relational constraints stabilising viability across generations.
 
 ## Developmental Niches Are Not Passive Environments
 
@@ -163,9 +171,9 @@ Developmental niches may therefore emerge through:
 
 Development becomes relationally organised rather than environmentally imposed from the outside.
 
-This perspective aligns APS with developmental systems theory and niche construction approaches while preserving the APS emphasis on viability-oriented organisational continuity.
+This perspective aligns APS with developmental systems theory and niche construction approaches while preserving the APS emphasis on viability-oriented organisational persistence.
 
-## Developmental Continuity Across Generations
+## Developmental Persistence Across Generations
 
 One of the central features of developmental niches is their historical persistence across generations.
 
@@ -180,7 +188,7 @@ These inherited developmental relations may include:
 - social learning structures,
 - and culturally transmitted developmental practices.
 
-Developmental continuity therefore depends upon historically reproduced systems extending beyond isolated organisms alone.
+Developmental persistence therefore depends upon historically reproduced systems extending beyond isolated organisms alone.
 
 APS consequently interprets inheritance more broadly than simple genetic transmission.
 
@@ -201,7 +209,7 @@ Examples include:
 - territorial organisation,
 - and ecosystem restructuring.
 
-These activities help preserve the ecological conditions required for viable developmental continuity.
+These activities help preserve the ecological conditions required for viable developmental persistence.
 
 APS therefore argues that ecological organisation frequently becomes part of developmental organisation itself.
 
@@ -247,7 +255,7 @@ APS consequently interprets symbiotic developmental organisation as one of the r
 
 This does not eliminate organismal individuality.
 
-Rather, it demonstrates that viable developmental continuity may depend upon distributed biological coordination extending across multiple interacting systems.
+Rather, it demonstrates that viable developmental persistence may depend upon distributed biological coordination extending across multiple interacting systems.
 
 ## Developmental Niches and Evolutionary Organisation
 
@@ -256,11 +264,11 @@ Developmental niches also influence evolutionary continuity.
 By stabilising developmental organisation across generations, developmental niches may:
 
 - shape selection pressures,
-- preserve developmental continuity,
+- preserve developmental persistence,
 - influence evolvability,
 - and maintain historically persistent organisational patterns.
 
-evolution therefore acts not only upon isolated organisms or genes, but upon broader developmental systems sustaining viable organisation across time.
+Evolution therefore acts not only upon isolated organisms or genes, but upon broader developmental systems sustaining viable organisation across time.
 
 APS consequently interprets evolution and development as deeply interconnected organisational processes.
 
@@ -273,11 +281,11 @@ Developmental niches help explain why viable biological organisation persists th
 Within APS:
 
 - organisms inherit developmental relations as well as genes,
-- developmental continuity depends upon historically stabilised support systems,
+- developmental persistence depends upon historically stabilised support systems,
 - viable organisation emerges through coordinated ecological, behavioural, social, and material continuity across generations,
-- and developmental persistence is maintained through historically reproduced relational organisation rather than through isolated internal mechanisms alone.
+- developmental continuity is preserved through relational organisation extending across organism–environment systems,
+- and developmental persistence is maintained through historically reproduced ecological organisation rather than isolated internal mechanisms alone.
 
 Development therefore becomes a historically organised process sustained through relational systems that preserve viability-oriented continuity across time.
 
 Developmental niches consequently become one of the central explanatory concepts linking development, ecology, inheritance, cognition, resilience, social organisation, and evolution within the broader APS framework.
-

@@ -5,9 +5,9 @@ slug: development-and-social-organisation
 
 abstract: >
   In APS, human development is understood as socially scaffolded
-  continuity-maintaining organisation through which biological,
+  viability-oriented persistence through which biological,
   cognitive, symbolic, institutional, and technological systems become
-  integrated across time. Human developmental persistence depends not
+  integrated across time. Human developmental continuity depends not
   upon isolated individual maturation alone, but upon participation
   within socially organised continuity architectures extending across
   generations.
@@ -16,12 +16,13 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-28
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
+  - developmental-organisation
   - social-organisation
   - cognition
   - symbolic-coordination
@@ -30,6 +31,7 @@ relatedGlossaryTerms:
   - organism-environment-coupling
   - viability
   - organisational-continuity
+  - persistence
   - organised-persistence
   - institutions
   - technology
@@ -39,8 +41,10 @@ relatedArticles:
   - development-and-ecological-organisation
   - developmental-scaffolding
   - developmental-inheritance
+  - developmental-integration
   - developmental-plasticity
   - developmental-resilience
+  - developmental-niches
   - organism-environment-coupling
   - ecological-organisation
   - cognition-from-life-to-mind-continuity-without-mentalism
@@ -51,77 +55,65 @@ relatedArticles:
   - multiscale-evolution-and-organised-persistence
   - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: vygotsky1978
-    authors:
-      - "Lev S. Vygotsky"
+    authors: "Vygotsky, L. S."
     year: 1978
     title: "Mind in Society"
     publisher: "Harvard University Press"
 
   - id: geertz1973
-    authors:
-      - "Clifford Geertz"
+    authors: "Geertz, C."
     year: 1973
     title: "The Interpretation of Cultures"
     publisher: "Basic Books"
 
   - id: boydricherson1985
-    authors:
-      - "Robert Boyd"
-      - "Peter J. Richerson"
+    authors: "Boyd, R. & Richerson, P. J."
     year: 1985
     title: "Culture and the Evolutionary Process"
     publisher: "University of Chicago Press"
 
   - id: hutchins1995
-    authors:
-      - "Edwin Hutchins"
+    authors: "Hutchins, E."
     year: 1995
     title: "Cognition in the Wild"
     publisher: "MIT Press"
 
   - id: sterelny2012
-    authors:
-      - "Kim Sterelny"
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
   - id: oyama2000
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 2000
     title: "The Ontogeny of Information"
     publisher: "Duke University Press"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: kupiec2024
-    authors:
-      - "Jean-Jacques Kupiec"
+    authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
@@ -147,7 +139,7 @@ From infancy onward, developmental continuity depends upon participation within 
 - adaptive flexibility,
 - and viability across time.
 
-APS interprets human development as socially scaffolded continuity-maintaining organisation through which biological, cognitive, symbolic, institutional, and technological systems become integrated across time.
+APS interprets human development as socially scaffolded viability-preserving organisation through which biological, cognitive, symbolic, institutional, and technological systems become integrated across time.
 
 The central question is therefore not simply:
 
@@ -256,7 +248,7 @@ Human developmental persistence is therefore distributed across socially organis
 
 ## Social Organisation as Developmental Scaffolding
 
-The central APS insight is that social systems scaffold developmental continuity.
+The central APS insight is that social systems scaffold developmental persistence.
 
 Human organisms acquire:
 
@@ -286,9 +278,11 @@ These systems stabilise developmental continuity across time by preserving:
 - symbolic continuity,
 - and intergenerational transmission.
 
-APS therefore interprets social organisation as a continuity-maintaining developmental architecture extending beyond isolated physiology into distributed collective systems.
+APS therefore interprets social organisation as a continuity-preserving developmental architecture extending beyond isolated physiology into distributed collective systems.
 
 Continuity is maintained through socially organised developmental coordination rather than isolated internal maturation alone.
+
+Social developmental organisation persists through dynamically coordinated symbolic, behavioural, and institutional constraints stabilising viability across generations.
 
 ## Symbolic Systems and Development
 
@@ -419,7 +413,7 @@ This perspective links development directly to:
 - fragility,
 - and organisational breakdown.
 
-## Development, Social Organisation, and evolution
+## Development, Social Organisation, and Evolution
 
 Human evolution increasingly depends upon socially organised continuity systems.
 
@@ -445,14 +439,13 @@ This perspective helps integrate:
 
 within a unified explanatory architecture.
 
-## Development and Social Organisation in APS
+## Why Development and Social Organisation Matter in APS
 
 APS interprets human development as:
 
-- socially scaffolded continuity-maintaining organisation,
+- socially scaffolded continuity-preserving organisation,
 - through which biological, cognitive, symbolic, institutional, and technological systems become integrated across time.
 
 This perspective shifts explanation away from isolated individual development and toward the distributed continuity systems through which human persistence becomes socially organised across generations.
 
 Human development persists not within isolated organisms alone, but through socially organised continuity architectures extending across language, institutions, technologies, symbolic systems, and collective forms of life.
-

@@ -5,26 +5,30 @@ slug: ontogeny
 
 abstract: >
   In APS, ontogeny is understood as the temporally organised
-  continuity of viability-oriented developmental organisation across
+  persistence of viability-oriented developmental organisation across
   transformation. Organisms persist developmentally not because they
   retain fixed material or structural identity, but because
-  developmental organisation preserves coordinated continuity across
+  developmental organisation preserves coordinated viability across
   ongoing change.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-27
+revised: 2026-05-28
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - ontogeny
   - development
+  - developmental-organisation
   - biological-individual
+  - processual-individual
   - temporal-organisation
   - viability
+  - persistence
+  - organised-persistence
   - ecology
   - evolution
   - resilience
@@ -37,6 +41,7 @@ relatedArticles:
   - developmental-canalisation
   - developmental-inheritance
   - developmental-resilience
+  - developmental-integration
   - development-and-biological-individuality
   - development-and-ecological-organisation
   - development-and-evolution
@@ -53,11 +58,11 @@ references:
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
-  - id: gilbert2020
-    authors: "Gilbert, S. F."
+  - id: gilbertbarresi2020
+    authors: "Gilbert, S. F. & Barresi, M. J. F."
     year: 2020
     title: "Developmental Biology"
-    publisher: "Sinauer Associates"
+    publisher: "Oxford University Press"
 
   - id: oyama1985
     authors: "Oyama, S."
@@ -74,7 +79,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and evolution"
+    title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: spencer2026
@@ -91,7 +96,7 @@ Cells divide and die. Physiological organisation reorganises. Behaviour changes.
 
 Yet despite this ongoing transformation, organisms remain developmentally continuous biological individuals.
 
-APS consequently interprets ontogeny not as the unfolding of a static biological blueprint, but as the temporally organised continuity of viability-oriented developmental organisation across change.
+APS consequently interprets ontogeny not as the unfolding of a static biological blueprint, but as the temporally organised persistence of viability-oriented developmental organisation across change.
 
 Ontogeny therefore does not consist merely of sequential developmental phases arranged chronologically.
 
@@ -115,15 +120,17 @@ Within this framework, ontogeny was often interpreted as:
 
 Classical developmental biology frequently explained ontogeny through internally regulated developmental programmes directing the construction of organismal form.
 
+Classical developmental frameworks frequently treated genes as privileged instructional causes directing developmental organisation across time.
+
 APS accepts the importance of developmental regulation while arguing that ontogeny cannot be adequately understood as the linear execution of fixed developmental instructions alone.
 
-The central explanatory problem is not merely how organisms develop, but how developmental continuity persists through continual organisational transformation.
+The central explanatory problem is not merely how organisms develop, but how developmental persistence is maintained through continual organisational transformation.
 
 Ontogeny therefore becomes a problem of organised persistence.
 
 ## Ontogeny in APS
 
-Within APS, ontogeny refers to the temporally organised continuity of developmental organisation through which viability-oriented persistence is maintained across time.
+Within APS, ontogeny refers to the temporally organised persistence of developmental organisation through which viability-oriented continuity is maintained across time.
 
 Developmental systems do not remain materially static.
 
@@ -135,13 +142,15 @@ Living organisms continually undergo:
 - ecological transition,
 - and developmental restructuring.
 
-Yet developmental continuity persists because viability-oriented organisation remains sufficiently coordinated across these transformations.
+Yet developmental persistence remains coordinated because viability-oriented organisation remains sufficiently stabilised across these transformations.
 
 APS consequently interprets ontogeny as the persistence of organised developmental continuity rather than the maintenance of fixed biological structure.
 
 Ontogeny therefore becomes an organisational process through which developmental viability is continually stabilised despite ongoing change.
 
-Living systems preserve developmental continuity through continual material and organisational transformation rather than through static structural preservation.
+Living systems preserve developmental persistence through continual material and organisational transformation rather than through static structural preservation.
+
+Ontogenetic organisation persists through dynamically coordinated constraints that regulate and stabilise viability across developmental time.
 
 ## Material Change and Organisational Persistence
 
@@ -155,14 +164,14 @@ Organisms experience continual:
 - developmental restructuring,
 - and environmental interaction.
 
-Material components may change substantially across development while developmental continuity remains preserved.
+Material components may change substantially across development while developmental persistence remains preserved.
 
 APS consequently distinguishes between:
 
 - material continuity,
 - and organisational continuity.
 
-Biological individuals persist developmentally not because identical material structures remain unchanged, but because developmental organisation preserves coordinated viability-oriented continuity across transformation.
+Biological individuals persist developmentally not because identical material structures remain unchanged, but because developmental organisation preserves coordinated viability-oriented persistence across transformation.
 
 This perspective strongly supports APS accounts of processual individuality and organised persistence.
 
@@ -170,7 +179,7 @@ Living systems remain continuous because developmental organisation persists thr
 
 ## Ontogeny and Multi-Scale Organisation
 
-Ontogenetic continuity occurs across multiple interacting organisational scales simultaneously.
+Ontogenetic persistence occurs across multiple interacting organisational scales simultaneously.
 
 Development coordinates:
 
@@ -183,17 +192,17 @@ Development coordinates:
 
 These processes do not operate independently.
 
-Changes occurring at one organisational level may reorganise continuity across multiple other levels.
+Changes occurring at one organisational level may reorganise persistence across multiple other levels.
 
 Ontogeny therefore becomes a distributed organisational process extending across interacting developmental systems.
 
-APS consequently interprets developmental continuity as multi-scale organisational coordination rather than isolated linear causation.
+APS consequently interprets developmental persistence as multi-scale organisational coordination rather than isolated linear causation.
 
-Ontogenetic persistence emerges through coordinated relations stabilised across time.
+Ontogenetic organisation emerges through coordinated relations stabilised across time.
 
 ## Ontogeny and Developmental Regulation
 
-Ontogenetic continuity depends upon ongoing developmental regulation.
+Ontogenetic persistence depends upon ongoing developmental regulation.
 
 Developmental systems must continually:
 
@@ -210,17 +219,17 @@ Processes such as:
 - developmental scaffolding,
 - and developmental inheritance
 
-all contribute directly to preserving developmental continuity across ontogeny.
+all contribute directly to preserving developmental persistence across ontogeny.
 
 APS consequently interprets ontogeny as an actively regulated organisational process rather than a passive unfolding of predetermined biological structure.
 
-Developmental continuity becomes an achievement of coordinated viability-oriented regulation across time.
+Developmental persistence becomes an achievement of coordinated viability-oriented regulation across time.
 
 ## Ontogeny and Ecological Organisation
 
 Ontogeny frequently extends beyond isolated organismal processes alone.
 
-Developmental continuity may depend upon:
+Developmental persistence may depend upon:
 
 - ecological stability,
 - developmental niches,
@@ -237,7 +246,7 @@ This perspective strongly connects ontogeny with developmental inheritance, ecol
 
 ## Perturbation and Ontogenetic Fragility
 
-Ontogeny also reveals the fragility of developmental continuity.
+Ontogeny also reveals the fragility of developmental persistence.
 
 Developmental perturbations may include:
 
@@ -247,13 +256,15 @@ Developmental perturbations may include:
 - failures of social support systems,
 - or breakdowns in organism–environment coordination.
 
-Such perturbations may destabilise developmental organisation and threaten viability-oriented continuity.
+Such perturbations may destabilise developmental organisation and threaten viability-oriented persistence.
 
 APS consequently treats developmental breakdown as highly informative about the organisational systems preserving ontogenetic persistence.
 
-Perturbation reveals ontogenetic organisation by exposing the hidden developmental coordination through which continuity is normally maintained.
+Perturbation reveals ontogenetic organisation by exposing the hidden developmental coordination through which persistence is normally maintained.
 
-Ontogenetic fragility may therefore reveal hidden dependencies within developmental organisation that remain invisible under stable conditions. Developmental disruption consequently becomes diagnostically informative about the continuity-maintaining structures through which developmental viability is ordinarily preserved.
+Ontogenetic fragility may therefore reveal hidden dependencies within developmental organisation that remain invisible under stable conditions.
+
+Developmental disruption consequently becomes diagnostically informative about the persistence-maintaining structures through which developmental viability is ordinarily preserved.
 
 This perspective closely links ontogeny with APS discussions of resilience, fragility, malfunction, and diagnosis.
 
@@ -261,13 +272,13 @@ This perspective closely links ontogeny with APS discussions of resilience, frag
 
 Ontogeny also shapes evolutionary continuity.
 
-evolution acts upon developmental systems capable of preserving viability-oriented organisation across time.
+Evolution acts upon developmental systems capable of preserving viability-oriented organisation across time.
 
 Ontogenetic organisation may therefore:
 
 - constrain developmental possibilities,
 - shape evolvability,
-- stabilise developmental continuity,
+- stabilise developmental persistence,
 - and influence long-term evolutionary organisation.
 
 APS consequently interprets development and evolution as deeply interconnected organisational processes.
@@ -278,16 +289,15 @@ Ontogeny therefore becomes one of the organisational foundations linking develop
 
 ## Why Ontogeny Matters in APS
 
-Ontogeny helps explain how living systems remain developmentally continuous despite continual transformation across time.
+Ontogeny helps explain how living systems remain developmentally persistent despite continual transformation across time.
 
 Within APS:
 
 - biological persistence does not require fixed structure or material identity,
 - developmental continuity is maintained through organised viability-oriented regulation,
 - developmental organisation persists through continual transformation rather than static preservation,
-- and ontogeny preserves coordinated developmental continuity across ongoing change.
+- and ontogeny preserves coordinated developmental persistence across ongoing change.
 
 Living systems therefore persist not because they resist transformation, but because developmental organisation preserves viability through transformation.
 
 Ontogeny consequently becomes one of the central explanatory concepts linking development, individuality, ecology, resilience, temporal organisation, and evolution within the broader APS framework.
-
