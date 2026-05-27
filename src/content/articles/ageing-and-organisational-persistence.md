@@ -55,7 +55,7 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
   - developmental-organisation-and-organised-persistence
-  - developmental-plasticity-and-organised-persistence
+  - developmental-plasticity
   - developmental-resilience
   - ecology-as-organised-persistence-across-scales
   - evolution-as-the-historical-transformation-of-organised-persistence
@@ -465,7 +465,7 @@ Ageing therefore reveals both:
 # Related Developmental Pathways
 
 - *[Developmental Organisation and Organised Persistence](/articles/developmental-organisation-and-organised-persistence/)*
-- *[Developmental Plasticity and Organised Persistence](/articles/developmental-plasticity-and-organised-persistence/)*
+- *[Developmental Plasticity and Organised Persistence](/articles/developmental-plasticity/)*
 - *[Developmental Resilience](/articles/developmental-resilience/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
