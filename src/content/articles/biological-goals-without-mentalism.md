@@ -104,12 +104,6 @@ references:
     publisher: "Springer"
     doi: "10.1007/978-94-017-9837-2"
 
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "Biological Functions"
-    publisher: "Cambridge University Press"
-
   - id: walsh2015
     authors: "Walsh, D. M."
     year: 2015

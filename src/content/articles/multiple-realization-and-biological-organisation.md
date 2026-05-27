@@ -108,11 +108,12 @@ references:
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00539-6"
 
-  - id: specialissue2026
-    authors: "Various Authors"
+  - id: mundale2026
+    authors: "Mundale, J."
     year: 2026
-    title: "Biological Theory Special Issue on Organisation and Mechanism"
+    title: "Multiple Realizability: Still Something After All These Years"
     journal: "Biological Theory"
+    pages: "1–11"
     doi: "10.1007/s13752-026-00538-7"
 
   - id: nicholsondupre2018
