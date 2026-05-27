@@ -1,50 +1,109 @@
 ---
-date: 2026-04-15
+date: 2026-05-27
 title: Biological Individual
 slug: biological-individual
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-12
-revised: 2026-04-15
+canonicalLockDate: 2026-05-27
+revised: 2026-05-27
+
 cluster: conceptual-foundations
+
 definition: >
-  A biological individual is a system that maintains its own functional coherence
-  through sustained, self-generated regulation of its viability conditions. In
-  APS, individuality is defined not by physical boundaries or genetic identity
-  but by constraint closure—the integrated organisation of processes that
-  enables persistence as a cohesive agent across time and scale. A biological
-  individual is not a classificatory unit but an organisational reality that
-  exists independently of how it is described or classified.
+  A biological individual is a viability-oriented, organisationally
+  integrated system that maintains organised continuity across
+  developmental, ecological, physiological, and temporal change. In
+  APS, individuality is defined not by fixed material boundaries or
+  genetic identity, but by the coordinated organisation through which
+  living systems preserve viable persistence across time.
+
 inBrief: >
-  A biological individual is a constraint-closed system that sustains its own
-  viability.
+  A biological individual is a viability-oriented system that
+  maintains organised continuity across continual change.
+
 seeAlso:
-  - processual-individual
+  - organised-persistence
+  - organisational-continuity
+  - processual-individuality
   - organism
-  - species
-  - taxon
   - biological-agency
+  - biological-organisation
+  - developmental-organisation
+  - ecological-organisation
   - constraint-closure
-  - persistence
   - viability
 ---
 
 ## Conventional framing
-In standard biology, a biological individual is typically understood as a discrete organism—an entity bounded in space, genetically unified, and functionally integrated. Individuality is often associated with physical separation, reproductive independence, or genetic identity.
+
+Biological individuals are often treated as discrete organisms defined by:
+- physical boundaries,
+- genetic unity,
+- reproductive independence,
+- or structural cohesion.
+
+Traditional approaches therefore frequently interpret individuality as a relatively fixed property grounded in material organisation or classificatory identity.
+
+From this perspective, the organism is typically understood as a bounded object that remains fundamentally the same despite limited internal change.
 
 ## APS reframing
-APS defines the biological individual in terms of **organisational closure and viability-oriented activity**, rather than structure or boundary. A biological individual is a system that **actively maintains the conditions of its own persistence** through the coordinated interaction of its internal processes.
 
-The defining feature of individuality is **constraint closure**: a network of processes that mutually sustain one another and collectively regulate the system’s viability. This organisation enables the system to act as a coherent unit in relation to its environment.
+APS defines biological individuality organisationally rather than materially.
 
-From this perspective:
-- Individuality is **functional and organisational**, not merely structural  
-- It is **dynamically maintained**, not statically given  
-- It is **graded and scale-relative**, rather than absolute  
+Living systems undergo continual transformation:
+- cells turn over,
+- developmental states change,
+- ecological relations shift,
+- physiology reorganises,
+- and behavioural patterns adapt across time.
 
-This allows individuality to extend beyond single organisms. Cells, multicellular organisms, symbiotic systems, and even ecological collectives can qualify as biological individuals when they exhibit sustained, constraint-closed organisation that regulates their own viability.
+Yet organisms remain recognisably continuous biological entities.
 
-The concept therefore reframes individuality as a **dynamically maintained organisational property grounded in ongoing viability-oriented activity**, rather than a fixed structural identity.
+APS explains this continuity through viability-oriented organisation.
+
+A biological individual persists because its organisation remains sufficiently integrated and coordinated to preserve viable continuity across changing conditions.
+
+Individuality therefore depends upon:
+- organisational continuity,
+- developmental integration,
+- ecological coupling,
+- regulation,
+- repair,
+- resilience,
+- and continuity-maintaining activity.
+
+The defining feature of individuality is not static structure but organised persistence.
+
+APS consequently treats individuality as:
+- dynamic rather than fixed,
+- processual rather than substance-based,
+- organisational rather than merely structural,
+- and continuity-based rather than materially absolute.
+
+## Constraint Closure and Individuality
+
+APS places particular importance on constraint closure in explaining biological individuality.
+
+A biological individual is not merely a collection of interacting parts. It is an organised system in which processes mutually contribute to maintaining the conditions required for continued viability.
+
+Constraint closure helps explain why living systems function as coherent biological unities despite continual material turnover and environmental interaction.
+
+This also explains why individuality is graded rather than absolute.
+
+Different biological systems may exhibit different degrees and scales of organisational integration while still functioning as viable individuals.
+
+Cells, multicellular organisms, symbiotic systems, colonial systems, and some ecological collectives may therefore exhibit biologically meaningful individuality when they sustain sufficiently integrated forms of viability-oriented organisation.
+
+## Individuality Across Time
+
+APS emphasises that biological individuality is fundamentally temporal.
+
+An organism persists not because it preserves exact material sameness, but because continuity-maintaining organisation remains coordinated across time.
+
+Development, adaptation, repair, ageing, ecological interaction, and behavioural transformation all occur within the ongoing continuity of the biological individual.
+
+Individuality is therefore inseparable from organised persistence.
 
 ## Key Point
-A biological individual is a **constraint-closed, viability-oriented system that maintains its own functional coherence through ongoing self-regulating organisation across time and scale**.
+
+A biological individual is a viability-oriented, organisationally integrated system that maintains organised continuity across developmental, ecological, physiological, and temporal transformation.
