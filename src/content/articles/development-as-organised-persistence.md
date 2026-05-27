@@ -23,7 +23,7 @@ relatedGlossaryTerms:
   - development
   - viability
   - ontogeny
-  - biological-individuality
+  - biological-individual
   - ecology
   - resilience
   - temporal-organisation

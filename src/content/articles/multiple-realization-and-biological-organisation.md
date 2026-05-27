@@ -36,12 +36,12 @@ relatedGlossaryTerms:
   - emergence
   - reductionism
   - mechanism
-  - processual-individuality
+  - processual-individual
 
 relatedArticles:
   - biological-explanation-and-organised-persistence
   - organisational-realism-in-biology
-  - processual-individuality
+  - processual-individual
   - emergence-in-biology-an-aps-clarification
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology

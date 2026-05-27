@@ -48,7 +48,7 @@ relatedArticles:
   - organism-environment-coupling
   - biological-constraint-closure
   - rethinking-development
-  - developmental-temporality
+  - developmental-temporality-ci
   - organisational-realism-in-biology
   - why-philosophy-of-biology-matters
   - aps-and-contemporary-theories

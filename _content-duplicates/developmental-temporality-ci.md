@@ -24,17 +24,17 @@ relatedGlossaryTerms:
   - development
   - temporal-organisation
   - ontogeny
-  - life-cycles
+  - life-cycle
   - viability
   - ageing
   - resilience
-  - biological-individuality
+  - biological-individual
   - biological-organisation
   - process
 
 relatedArticles:
   - ontogeny
-  - life-cycles
+  - life-cycle
   - developmental-regulation
   - developmental-integration
   - developmental-resilience

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-27
 title: "Processual Individuality"
-slug: processual-individuality
+slug: processual-individual
 
 abstract: >
   In APS, biological individuality is understood as a dynamically
@@ -23,8 +23,8 @@ revised: 2026-05-27
 cluster: conceptual-foundations
 
 relatedGlossaryTerms:
-  - processual-individuality
-  - biological-individuality
+  - processual-individual
+  - development-and-biological-individuality
   - biological-organisation
   - biological-agency
   - viability
@@ -37,7 +37,7 @@ relatedGlossaryTerms:
   - organism
 
 relatedArticles:
-  - biological-individuality
+  - development-and-biological-individuality
   - organism-the-unity-of-viability-oriented-organisation
   - biological-organisation
   - organisational-realism-in-biology

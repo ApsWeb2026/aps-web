@@ -22,7 +22,7 @@ cluster: developmental-organisation
 relatedGlossaryTerms:
   - development
   - temporal-organisation
-  - biological-individuality
+  - biological-individual
   - ecology
   - evolution
   - viability

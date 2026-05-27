@@ -25,7 +25,7 @@ relatedGlossaryTerms:
   - viability
   - ontogeny
   - temporal-organisation
-  - biological-individuality
+  - biological-individual
   - ecology
   - evolution
   - resilience
@@ -50,7 +50,7 @@ relatedArticles:
   - development-and-biological-individuality
   - development-and-ecological-organisation
   - development-and-evolution
-  - developmental-temporality
+  - developmental-temporality-ci
   - organism-environment-coupling
   - ecological-organisation
   - evolution

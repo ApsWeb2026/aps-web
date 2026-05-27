@@ -21,7 +21,7 @@ cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - biological-individuality
+  - biological-individual
   - viability
   - resilience
   - organism-environment-coupling
