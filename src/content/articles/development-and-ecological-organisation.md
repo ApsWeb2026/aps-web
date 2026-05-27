@@ -25,82 +25,65 @@ relatedGlossaryTerms:
   - ecology
   - ecological-organisation
   - organism-environment-coupling
-  - developmental-systems
-  - niche-construction
   - viability
-  - biological-individuality
-  - organisational-continuity
-  - organised-persistence
   - resilience
-  - developmental-scaffolding
+  - biological-agency
+  - biological-organisation
+  - process
 
 relatedArticles:
-  - developmental-niches
-  - developmental-scaffolding
-  - developmental-inheritance
-  - developmental-integration
   - development-and-biological-individuality
-  - organism-environment-coupling
-  - ecological-organisation
-  - ecological-resilience
   - developmental-plasticity
   - developmental-regulation
-  - evolution-and-organised-persistence
-  - cognition-and-biological-organisation
-  - the-developmental-organisation-of-life
+  - developmental-resilience
+  - developmental-scaffolding
+  - developmental-inheritance
+  - ecological-organisation
+  - evolution
+  - meaning-in-biology
+  - development-as-organised-persistence
 
-literature:
+references:
   - id: oyama2000
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 2000
     title: "The Ontogeny of Information"
     publisher: "Duke University Press"
 
   - id: gilbertepel2015
-    authors:
-      - "Scott F. Gilbert"
-      - "David Epel"
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: odlingsmee2003
-    authors:
-      - "F. John Odling-Smee"
-      - "Kevin N. Laland"
-      - "Marcus W. Feldman"
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: sterelny2012
-    authors:
-      - "Kim Sterelny"
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

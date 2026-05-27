@@ -22,74 +22,55 @@ cluster: developmental-organisation
 relatedGlossaryTerms:
   - development
   - inheritance
-  - developmental-inheritance
-  - developmental-niche
-  - organism-environment-coupling
+  - ecology
   - ecological-organisation
+  - organism-environment-coupling
   - viability
   - resilience
-  - organisational-continuity
-  - organised-persistence
-  - niche-construction
-  - social-organisation
+  - biological-agency
+  - biological-organisation
+  - process
 
 relatedArticles:
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
-  - development-and-biological-organisation
   - development-and-biological-individuality
+  - development-and-evolution
   - development-as-organised-persistence
-  - the-developmental-organisation-of-life
-  - organism-environment-coupling
+  - development-and-ecological-organisation
   - ecological-organisation
-  - evolution-and-organised-persistence
-  - cognition-and-biological-organisation
-  - semiosis-and-biological-organisation
-  - diagnosis-as-continuity-analysis
+  - organism-environment-coupling
+  - evolution
+  - meaning-in-biology
 
-literature:
+references:
   - id: oyama1985
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: griffiths2001
-    authors:
-      - "Paul E. Griffiths"
-      - "Russell D. Gray"
+    authors: "Griffiths, P. E. & Gray, R. D."
     year: 2001
     title: "Darwinism and Developmental Systems"
     journal: "Cygnus"
 
   - id: odlingsmee2003
-    authors:
-      - "F. John Odling-Smee"
-      - "Kevin N. Laland"
-      - "Marcus W. Feldman"
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
 
   - id: sterelny2012
-    authors:
-      - "Kim Sterelny"
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
   - id: laland2015
-    authors:
-      - "Kevin N. Laland"
-      - "Tobias Uller"
-      - "Marcus W. Feldman"
-      - "Kim Sterelny"
-      - "Gerd B. Müller"
-      - "Armin Moczek"
-      - "Eva Jablonka"
-      - "John Odling-Smee"
+    authors: "Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee, J."
     year: 2015
     title: "The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions"
     journal: "Proceedings of the Royal Society B"
@@ -98,10 +79,9 @@ literature:
     doi: "10.1098/rspb.2015.1019"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

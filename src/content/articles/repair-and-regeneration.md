@@ -15,7 +15,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
@@ -25,35 +25,29 @@ relatedGlossaryTerms:
   - development
   - resilience
   - viability
-  - morphogenesis
-  - developmental-regulation
-  - organisational-continuity
-  - organised-persistence
   - perturbation
   - ageing
-  - process-biology
+  - organism-environment-coupling
+  - biological-agency
+  - biological-organisation
 
 relatedArticles:
-  - development-as-organised-persistence
-  - ontogeny-and-organised-persistence
   - developmental-regulation
-  - developmental-integration
   - developmental-plasticity
   - developmental-resilience
   - developmental-fragility
-  - morphogenesis-and-organisational-form
+  - developmental-canalisation
+  - development-as-organised-persistence
+  - morphogenesis
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
   - organism-environment-coupling
   - ecological-organisation
-  - evolution-and-organised-persistence
-  - the-developmental-organisation-of-life
+  - evolution
 
-literature:
+references:
   - id: toufailyghannoum2021
-    authors:
-      - "Camille Toufaily"
-      - "Nicole Ghannoum"
+    authors: "Toufaily, C. & Ghannoum, N."
     year: 2021
     title: "Regeneration Across the Tree of Life"
     journal: "Development"
@@ -61,39 +55,31 @@ literature:
     pages: "dev199571"
 
   - id: gilbertepel2015
-    authors:
-      - "Scott F. Gilbert"
-      - "David Epel"
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: minellipradeu2014
-    authors:
-      - "Alessandro Minelli"
-      - "Thomas Pradeu"
+    authors: "Minelli, A. & Pradeu, T."
     year: 2014
     title: "Towards a Theory of Development"
     publisher: "Oxford University Press"
 
   - id: levin2022
-    authors:
-      - "Michael Levin"
+    authors: "Levin, M."
     year: 2022
     title: "The Computational Boundary of a Self"
     journal: "Biosystems"
@@ -101,24 +87,21 @@ literature:
     pages: "104762"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: kupiec2024
-    authors:
-      - "Jean-Jacques Kupiec"
+    authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

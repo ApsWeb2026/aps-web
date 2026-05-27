@@ -1,7 +1,7 @@
 ---
 date: 2026-05-26
-title: "Ontogeny and Organised Persistence"
-slug: ontogeny-and-organised-persistence
+title: "Ontogeny"
+slug: ontogeny
 
 abstract: >
   In APS, ontogeny is understood as the temporally organised
@@ -15,84 +15,72 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - ontogeny
   - development
-  - organised-persistence
-  - developmental-organisation
   - biological-individuality
   - temporal-organisation
   - viability
-  - processual-individuality
   - ecology
   - evolution
-  - organisational-continuity
   - resilience
+  - biological-agency
+  - biological-organisation
 
 relatedArticles:
-  - development-as-organised-continuity
   - developmental-regulation
-  - developmental-integration
   - developmental-plasticity
   - developmental-canalisation
-  - developmental-scaffolding
   - developmental-inheritance
-  - developmental-niches
   - developmental-resilience
   - development-and-biological-individuality
   - development-and-ecological-organisation
   - development-and-evolution
   - organism-environment-coupling
-  - evolution-and-organised-persistence
-  - the-developmental-organisation-of-life
   - diagnosis-as-continuity-analysis
+  - evolution
+  - development-as-organised-persistence
+  - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: nicholson2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: gilbert2020
-    authors:
-      - "Scott F. Gilbert"
+    authors: "Gilbert, S. F."
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: oyama1985
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: waddington1957
-    authors:
-      - "C. H. Waddington"
+    authors: "Waddington, C. H."
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

@@ -21,83 +21,63 @@ cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - biological-individuality
-  - ecology
-  - symbiosis
-  - microbiome
-  - organism-environment-coupling
   - viability
-  - organisational-continuity
-  - organised-persistence
-  - developmental-scaffolding
-  - developmental-integration
+  - ecology
   - resilience
+  - organism-environment-coupling
+  - biological-agency
+  - biological-organisation
+  - process
 
 relatedArticles:
-  - development-and-biological-organisation
+  - development-as-organised-persistence
   - development-as-organised-continuity
-  - developmental-integration
-  - developmental-scaffolding
-  - developmental-niches
-  - developmental-inheritance
+  - developmental-plasticity
+  - developmental-resilience
   - developmental-regulation
-  - organism-environment-coupling
   - ecological-organisation
-  - cognition-and-biological-organisation
-  - semiosis-and-biological-organisation
-  - evolution-and-organised-persistence
-  - the-developmental-organisation-of-life
+  - evolution
+  - meaning-in-biology
 
-literature:
+references:
   - id: oyama1985
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: griffiths2001
-    authors:
-      - "Paul E. Griffiths"
-      - "Russell D. Gray"
+    authors: "Griffiths, P. E. & Gray, R. D."
     year: 2001
     title: "Darwinism and Developmental Systems"
     journal: "Cygnus"
 
   - id: odlingsmee2003
-    authors:
-      - "F. John Odling-Smee"
-      - "Kevin N. Laland"
-      - "Marcus W. Feldman"
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
 
   - id: gilbert2020
-    authors:
-      - "Scott F. Gilbert"
+    authors: "Gilbert, S. F."
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: sterelny2012
-    authors:
-      - "Kim Sterelny"
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
     title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
     journal: "Biological Theory"

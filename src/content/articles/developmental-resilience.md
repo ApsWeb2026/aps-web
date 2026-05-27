@@ -16,45 +16,39 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
-  - developmental-resilience
   - resilience
   - development
   - viability
-  - plasticity
-  - repair
-  - developmental-regulation
-  - organisational-continuity
-  - organised-persistence
   - perturbation
   - fragility
-  - robustness
+  - repair
+  - ageing
+  - organism-environment-coupling
+  - biological-agency
+  - biological-organisation
 
 relatedArticles:
-  - development-as-organised-persistence
-  - ontogeny-and-organised-persistence
   - developmental-plasticity
   - developmental-regulation
-  - developmental-integration
+  - developmental-canalisation
   - developmental-fragility
   - repair-and-regeneration
-  - developmental-canalisation
-  - organism-environment-coupling
-  - ecological-resilience
+  - development-as-organised-persistence
+  - development-and-ecological-organisation
   - ecological-organisation
+  - organism-environment-coupling
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
-  - evolution-and-organised-persistence
-  - the-developmental-organisation-of-life
+  - evolution
 
-literature:
+references:
   - id: holling1973
-    authors:
-      - "C. S. Holling"
+    authors: "Holling, C. S."
     year: 1973
     title: "Resilience and Stability of Ecological Systems"
     journal: "Annual Review of Ecology and Systematics"
@@ -62,62 +56,51 @@ literature:
     pages: "1-23"
 
   - id: waddington1957
-    authors:
-      - "C. H. Waddington"
+    authors: "Waddington, C. H."
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: gilbertepel2015
-    authors:
-      - "Scott F. Gilbert"
-      - "David Epel"
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: walkersalt2006
-    authors:
-      - "Brian Walker"
-      - "David Salt"
+    authors: "Walker, B. & Salt, D."
     year: 2006
     title: "Resilience Thinking"
     publisher: "Island Press"
 
   - id: kupiec2024
-    authors:
-      - "Jean-Jacques Kupiec"
+    authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

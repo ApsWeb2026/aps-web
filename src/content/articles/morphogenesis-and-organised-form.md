@@ -1,7 +1,7 @@
 ---
 date: 2026-05-26
-title: "Morphogenesis and Organisational Form"
-slug: morphogenesis-and-organisational-form
+title: "Morphogenesis"
+slug: morphogenesis
 
 abstract: >
   In APS, morphogenesis is understood not as the execution of a static
@@ -13,110 +13,94 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - morphogenesis
   - development
-  - organisational-form
   - morphology
   - viability
-  - organisational-continuity
-  - organised-persistence
-  - developmental-regulation
-  - developmental-plasticity
-  - organism-environment-coupling
   - resilience
-  - process-biology
+  - organism-environment-coupling
+  - biological-agency
+  - biological-organisation
+  - process
+  - constraint
 
 relatedArticles:
-  - development-as-organised-continuity
   - developmental-regulation
-  - developmental-integration
   - developmental-plasticity
   - developmental-canalisation
-  - developmental-scaffolding
+  - developmental-resilience
+  - repair-and-regeneration
   - development-and-ecological-organisation
   - development-and-evolution
   - organism-environment-coupling
-  - biological-constraint-closure
   - ecological-organisation
-  - evolution-and-organised-persistence
+  - evolution
+  - development-as-organised-persistence
   - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: aristotleparts
-    authors:
-      - "Aristotle"
+    authors: "Aristotle"
     year: -350
     title: "Parts of Animals"
 
   - id: darcythompson1917
-    authors:
-      - "D'Arcy Wentworth Thompson"
+    authors: "Thompson, D. W."
     year: 1917
     title: "On Growth and Form"
     publisher: "Cambridge University Press"
 
   - id: waddington1957
-    authors:
-      - "C. H. Waddington"
+    authors: "Waddington, C. H."
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: goodwin1994
-    authors:
-      - "Brian Goodwin"
+    authors: "Goodwin, B."
     year: 1994
     title: "How the Leopard Changed Its Spots"
     publisher: "Princeton University Press"
 
   - id: gilbertepel2015
-    authors:
-      - "Scott F. Gilbert"
-      - "David Epel"
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: minellipradeu2014
-    authors:
-      - "Alessandro Minelli"
-      - "Thomas Pradeu"
+    authors: "Minelli, A. & Pradeu, T."
     year: 2014
     title: "Towards a Theory of Development"
     publisher: "Oxford University Press"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: kupiec2024
-    authors:
-      - "Jean-Jacques Kupiec"
+    authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

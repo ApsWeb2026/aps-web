@@ -24,97 +24,78 @@ relatedGlossaryTerms:
   - development
   - evaluation
   - viability
-  - organisational-continuity
-  - organised-persistence
-  - learning
-  - plasticity
-  - embodied-cognition
-  - organism-environment-coupling
   - resilience
   - semiosis
+  - biological-agency
+  - biological-organisation
+  - organism-environment-coupling
+  - process
 
 relatedArticles:
-  - cognition-and-biological-organisation
-  - semiosis-and-biological-organisation
+  - cognition
+  - semiosis
   - information-in-biology
   - meaning-in-biology
-  - representation-and-biological-organisation
   - developmental-plasticity
   - developmental-regulation
-  - developmental-scaffolding
-  - developmental-integration
   - developmental-resilience
-  - organism-environment-coupling
   - ecological-organisation
-  - evolution-and-organised-persistence
-  - the-developmental-organisation-of-life
+  - evolution
+  - development-as-organised-persistence
 
-literature:
+references:
   - id: piaget1952
-    authors:
-      - "Jean Piaget"
+    authors: "Piaget, J."
     year: 1952
     title: "The Origins of Intelligence in Children"
     publisher: "International Universities Press"
 
   - id: vygotsky1978
-    authors:
-      - "Lev S. Vygotsky"
+    authors: "Vygotsky, L. S."
     year: 1978
     title: "Mind in Society"
     publisher: "Harvard University Press"
 
   - id: maturanavarela1980
-    authors:
-      - "Humberto Maturana"
-      - "Francisco Varela"
+    authors: "Maturana, H. & Varela, F."
     year: 1980
     title: "Autopoiesis and Cognition"
     publisher: "D. Reidel"
 
   - id: oyama2000
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 2000
     title: "The Ontogeny of Information"
     publisher: "Duke University Press"
 
   - id: dipaolobuhrmannbarandiaran2017
-    authors:
-      - "Ezequiel A. Di Paolo"
-      - "Thomas Buhrmann"
-      - "Xabier E. Barandiaran"
+    authors: "Di Paolo, E. A., Buhrmann, T., & Barandiaran, X. E."
     year: 2017
     title: "Sensorimotor Life"
     publisher: "Oxford University Press"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: kupiec2024
-    authors:
-      - "Jean-Jacques Kupiec"
+    authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

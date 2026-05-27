@@ -55,46 +55,45 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: nicholson2018
     authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+      "D.J. Nicholson, & J. Dupré"
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: oyama1985
     authors:
-      - "Susan Oyama"
+      "S. Oyama"
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: waddington1957
     authors:
-      - "C. H. Waddington"
+      "C. H. Waddington"
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: westeberhard2003
     authors:
-      - "Mary Jane West-Eberhard"
+      "M. J. West-Eberhard"
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: gilbert2020
     authors:
-      - "Scott F. Gilbert"
+      "S. F. Gilbert"
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: spencer2026
     authors:
-      - "Roger D. Spencer"
+      "R. D. Spencer"
     year: 2026
     title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
     journal: "Biological Theory"

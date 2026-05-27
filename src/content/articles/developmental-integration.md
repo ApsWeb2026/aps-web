@@ -15,81 +15,79 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - developmental-integration
-  - developmental-organisation
   - biological-individuality
   - viability
-  - organisational-continuity
-  - organised-persistence
-  - organism-environment-coupling
   - resilience
-  - plasticity
-  - canalisation
+  - organism-environment-coupling
+  - ecological-organisation
+  - biological-agency
+  - biological-organisation
+  - process
   - perturbation
 
 relatedArticles:
-  - development-and-biological-organisation
   - development-and-biological-individuality
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
+  - developmental-regulation
   - developmental-inheritance
   - development-as-organised-persistence
-  - the-developmental-organisation-of-life
+  - ontogeny
   - organism-environment-coupling
   - ecological-organisation
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
-  - evolution-and-organised-persistence
+  - evolution
+  - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: gilbert2020
-    authors:
-      - "Scott F. Gilbert"
+    authors: "Gilbert, S. F."
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: nicholson2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: oyama1985
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
-  - id: capra1996
-    authors:
-      - "Fritjof Capra"
-    year: 1996
-    title: "The Web of Life"
-    publisher: "Anchor Books"
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions"
+    publisher: "Cambridge University Press"
+
+  - id: kupiec2024
+    authors: "Kupiec, J.-J."
+    year: 2024
+    title: "The Origin of Individuals"
+    publisher: "World Scientific"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

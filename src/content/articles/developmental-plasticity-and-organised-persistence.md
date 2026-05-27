@@ -1,69 +1,72 @@
 ---
 date: 2026-05-15
-title: Developmental Plasticity and Organised Persistence
-slug: developmental-plasticity-and-organised-persistence
+title: "Developmental Plasticity"
+slug: developmental-plasticity
+
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-05-15
-cluster: conceptual-foundations
+revised: 2026-05-27
+
+cluster: developmental-organisation
 
 abstract: >
-  This article develops an APS account of developmental plasticity as the
-  regulated reorganisation of viability-oriented, persistence-sustaining
-  organisation under changing conditions. APS rejects the treatment of
-  plasticity as merely passive flexibility or trait variability. Instead,
-  developmental plasticity is understood as a dynamically organised process
-  through which living systems reorganise development, physiology, behaviour,
-  and ecological interaction relative to viability constraints. Plasticity
-  therefore links development, adaptation, ecology, and evolution within the
-  broader explanatory grammar of agency, process, and scale.
+  In APS, developmental plasticity is understood as the regulated
+  reorganisation of viability-oriented organisation under changing
+  conditions. Plasticity is not merely passive flexibility or trait
+  variability, but a continuity-maintaining developmental process
+  through which living systems reorganise physiology, behaviour,
+  development, and ecological interaction relative to changing
+  viability constraints across time.
 
 relatedGlossaryTerms:
   - development
   - adaptation
-  - persistence
   - viability
+  - resilience
   - biological-agency
-  - process
-  - scale
-  - evolution
+  - biological-organisation
   - ecological-organisation
   - organism-environment-coupling
-  - constraint-closure
+  - process
+  - constraint
 
 relatedArticles:
-  - developmental-organisation-and-organised-persistence
-  - ecological-organisation-and-organised-persistence
-  - organism-environment-coupling-and-organised-persistence
-  - multiscale-evolution-and-organised-persistence
-  - temporal-organisation-and-organised-persistence
-  - what-counts-as-an-evolutionary-explanation
+  - developmental-regulation
+  - developmental-resilience
+  - developmental-canalisation
+  - developmental-inheritance
+  - development-and-evolution
+  - development-and-ecological-organisation
+  - organism-environment-coupling
+  - ecological-organisation
+  - evolution
+  - development-as-organised-persistence
 
 references:
   - id: west-eberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
-    source: "Oxford University Press"
+    publisher: "Oxford University Press"
 
   - id: gilbert2015
-    authors: "Gilbert, S. F., & Epel, D."
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
-    source: "Sinauer Associates"
+    publisher: "Sinauer Associates"
 
   - id: oyama2000
     authors: "Oyama, S."
     year: 2000
     title: "The Ontogeny of Information"
-    source: "Duke University Press"
+    publisher: "Duke University Press"
 
   - id: pigliucci2001
     authors: "Pigliucci, M."
     year: 2001
     title: "Phenotypic Plasticity: Beyond Nature and Nurture"
-    source: "Johns Hopkins University Press"
+    publisher: "Johns Hopkins University Press"
 
   - id: dewit1998
     authors: "DeWitt, T. J., Sih, A., & Wilson, D. S."
@@ -75,16 +78,23 @@ references:
     doi: "10.1016/S0169-5347(97)01274-3"
 
   - id: nicholson2019
-    authors: "Nicholson, D. J., & Dupré, J."
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2019
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford University Press"
+    publisher: "Oxford University Press"
 
   - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
+    authors: "Moreno, A. & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+    publisher: "Springer"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Introduction

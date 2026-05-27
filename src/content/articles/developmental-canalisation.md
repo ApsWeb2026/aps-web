@@ -14,79 +14,71 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - canalisation
-  - developmental-plasticity
   - viability
   - resilience
-  - developmental-organisation
-  - organisational-continuity
-  - organised-persistence
-  - robustness
   - perturbation
   - fragility
+  - biological-agency
+  - biological-organisation
+  - organism-environment-coupling
+  - process
+  - constraint
 
 relatedArticles:
   - developmental-plasticity
+  - developmental-regulation
   - developmental-resilience
-  - development-as-organised-persistence
-  - the-developmental-organisation-of-life
-  - development-and-biological-individuality
-  - development-and-biological-organisation
-  - developmental-stability
   - developmental-fragility
+  - development-as-organised-persistence
+  - development-and-biological-individuality
+  - development-and-ecological-organisation
   - organism-environment-coupling
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
-  - evolution-and-organised-persistence
+  - ecological-organisation
+  - evolution
 
-literature:
+references:
   - id: waddington1957
-    authors:
-      - "C. H. Waddington"
+    authors: "Waddington, C. H."
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: gilbert2020
-    authors:
-      - "Scott F. Gilbert"
+    authors: "Gilbert, S. F."
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: pigliucci2001
-    authors:
-      - "Massimo Pigliucci"
+    authors: "Pigliucci, M."
     year: 2001
     title: "Phenotypic Plasticity: Beyond Nature and Nurture"
     publisher: "Johns Hopkins University Press"
 
   - id: nicholson2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

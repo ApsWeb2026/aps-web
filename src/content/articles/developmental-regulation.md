@@ -16,104 +16,97 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
-  - developmental-regulation
   - development
   - viability
-  - organisational-continuity
-  - organised-persistence
-  - plasticity
   - resilience
   - perturbation
   - repair
   - ageing
   - organism-environment-coupling
+  - biological-agency
+  - biological-organisation
   - constraint
 
 relatedArticles:
   - developmental-plasticity
   - developmental-canalisation
-  - developmental-integration
   - developmental-resilience
+  - developmental-inheritance
   - development-as-organised-persistence
-  - development-and-biological-organisation
+  - development-and-ecological-organisation
   - organism-environment-coupling
+  - ecological-organisation
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
-  - ecological-organisation
-  - biological-constraint-closure
-  - evolution-and-organised-persistence
+  - evolution
+  - meaning-in-biology
 
-literature:
+references:
   - id: waddington1957
-    authors:
-      - "C. H. Waddington"
+    authors: "Waddington, C. H."
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: oyama2000
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 2000
     title: "The Ontogeny of Information"
     publisher: "Duke University Press"
 
   - id: gilbertepel2015
-    authors:
-      - "Scott F. Gilbert"
-      - "David Epel"
+    authors: "Gilbert, S. F. & Epel, D."
     year: 2015
     title: "Ecological Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: mossio2023
-    authors:
-      - "Matteo Mossio"
+    authors: "Mossio, M."
     year: 2023
     title: "Biological Functions"
     publisher: "Cambridge University Press"
 
   - id: minellipradeu2014
-    authors:
-      - "Alessandro Minelli"
-      - "Thomas Pradeu"
+    authors: "Minelli, A. & Pradeu, T."
     year: 2014
     title: "Towards a Theory of Development"
     publisher: "Oxford University Press"
 
   - id: kupiec2024
-    authors:
-      - "Jean-Jacques Kupiec"
+    authors: "Kupiec, J.-J."
     year: 2024
     title: "The Origin of Individuals"
     publisher: "World Scientific"
 
   - id: wiener1948
-    authors:
-      - "Norbert Wiener"
+    authors: "Wiener, N."
     year: 1948
     title: "Cybernetics"
     publisher: "MIT Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 Development depends upon continuous regulation.
