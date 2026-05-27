@@ -47,7 +47,7 @@ relatedArticles:
   - adaptation-how-living-systems-sustain-themselves-through-change
   - diagnosis-as-continuity-analysis
   - ecology-as-organised-persistence-across-scales
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
 ---
 
 # Understanding APS

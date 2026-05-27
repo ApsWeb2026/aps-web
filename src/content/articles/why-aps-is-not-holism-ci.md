@@ -46,7 +46,7 @@ references:
   - id: smuts1926
     authors: "Smuts, J. C."
     year: 1926
-    title: "Holism and Evolution"
+    title: "Holism and evolution"
     publisher: "Macmillan"
 
   - id: bertalanffy1968
@@ -82,7 +82,7 @@ references:
   - id: kuppers2002
     authors: "Küppers, B.-O."
     year: 2002
-    title: "Molecular Theory of Evolution and Ordered Principles of Life"
+    title: "Molecular Theory of evolution and Ordered Principles of Life"
     publisher: "Springer"
 
   - id: moreno2009
@@ -176,7 +176,7 @@ from isolated parts alone. Early twentieth-century organicist and
 holistic traditions frequently emphasised organisation, integration,
 developmental coordination, and organism-level unity.
 
-Jan Smuts’ *Holism and Evolution* (1926) gave one of the most famous
+Jan Smuts’ *Holism and evolution* (1926) gave one of the most famous
 formulations of this perspective, presenting wholes as fundamental
 features of nature rather than merely collections of parts. Organismic
 biologists and systems theorists later developed related approaches
@@ -300,7 +300,7 @@ or fails.
 Adaptation concerns the modulation of organisation across changing
 conditions.
 
-Evolution concerns the historical transformation of organised
+evolution concerns the historical transformation of organised
 persistence across lineages.
 
 In this sense APS attempts to provide an explanatory grammar for
@@ -366,3 +366,4 @@ APS instead proposes an organisational approach in which:
 Biology becomes intelligible not through isolated parts alone, nor
 through abstract wholes alone, but through the organised processes by
 which living systems sustain themselves across time.
+

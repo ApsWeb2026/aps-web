@@ -136,7 +136,7 @@ Information becomes intelligible as organisation-dependent constraint relations.
 
 Function becomes intelligible as contribution to viability.
 
-Evolution becomes intelligible as transformation in organised persistence across generations.
+evolution becomes intelligible as transformation in organised persistence across generations.
 
 Cognition becomes intelligible as viability-oriented evaluation and regulation.
 
@@ -210,7 +210,7 @@ APS therefore rejects reductionism without appealing to mysterious vital forces 
 
 ---
 
-# Evolution Within Organised Persistence
+# evolution Within Organised Persistence
 
 APS does not reject evolutionary theory.
 
@@ -288,3 +288,4 @@ APS therefore seeks to explain not merely *how* biological systems operate, but 
 APS does not simply add another theory to biology. It reconstructs the explanatory relations connecting mechanism, function, evolution, cognition, normativity, and persistence within a unified account of living organisation.
 
 That is why APS reframes biology.
+

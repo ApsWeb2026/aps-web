@@ -208,3 +208,4 @@ By extending autonomy theory across scale, evolution, and empirical diagnosis, A
 ## Key Point
 
 Autonomy theory explains constraint-closed organisation, but APS extends this into a unified account of viability, scale, and evolutionary continuity.
+

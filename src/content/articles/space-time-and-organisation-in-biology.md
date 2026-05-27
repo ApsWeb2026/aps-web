@@ -101,7 +101,7 @@ These requirements align with the explanatory architecture developed in APS. Mec
 
 The clarification developed here opens a number of directions for further work in theoretical biology.
 
-One direction concerns the formalisation of biological scale as distributed organisation across spatial and temporal domains, rather than as hierarchical structure. Another concerns the relation between temporal organisation and cognition, particularly in systems that exhibit extended integration of activity across time. Development can be reinterpreted as the continuous reorganisation of spatiotemporal relations, rather than as progression through discrete stages. Evolution can be understood as the transformation of such organisation across lineages, linking spatial distribution and temporal continuity.
+One direction concerns the formalisation of biological scale as distributed organisation across spatial and temporal domains, rather than as hierarchical structure. Another concerns the relation between temporal organisation and cognition, particularly in systems that exhibit extended integration of activity across time. Development can be reinterpreted as the continuous reorganisation of spatiotemporal relations, rather than as progression through discrete stages. evolution can be understood as the transformation of such organisation across lineages, linking spatial distribution and temporal continuity.
 
 Further work may also explore how biological systems structure their environments, not as passive surroundings but as domains of coupling that participate in the maintenance of viability. At a more formal level, this perspective suggests the development of models that capture organisation in terms of processes and constraints, rather than static configurations.
 
@@ -110,3 +110,4 @@ These directions indicate that a systematic account of spatiotemporal organisati
 ## Key Point
 
 Space and time in biology are not neutral coordinates in which life unfolds. They are organised dimensions of viability-oriented activity, integrated through process and distributed across scale. Biological explanation must therefore account not only for what happens, but for how spatial and temporal relations are structured in the maintenance and transformation of living systems.
+

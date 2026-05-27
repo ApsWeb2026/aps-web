@@ -15,7 +15,7 @@ keyPoints:
   - Organism–environment coupling is a source of variation, not merely a context for selection.
   - Genetic mutation contributes to variation but does not exhaust its sources.
   - Variation is structured by organisation and constrained by viability.
-  - Evolution depends on the continuous production of viable variation within organised systems.
+  - evolution depends on the continuous production of viable variation within organised systems.
 relatedGlossaryTerms:
   - variation
   - development
@@ -121,7 +121,7 @@ Within the APS account:
 - Variation introduces differences  
 - Adaptation reorganises activity  
 - Selection filters outcomes  
-- Evolution describes long-term transformation  
+- evolution describes long-term transformation  
 
 Variation is the **source of novelty**, but it is inseparable from the processes that generate and constrain it.
 
@@ -143,8 +143,10 @@ Variation is thus not an external input to evolution, but an **intrinsic feature
 - Inheritance and Continuity in APS  
 - Selection Revisited — What Does Selection Actually Act On?  
 - Adaptation — How Living Systems Sustain Themselves Through Change  
-- What Is Evolution in APS?  
+- What Is evolution in APS?  
 
 ## Key Point
 
 Variation in APS is the structured reorganisation of viability-oriented organisation—the continual generation of novel, viable possibilities within living systems.
+
+

@@ -5,7 +5,7 @@ slug: development-and-evolutionary-explanation
 
 abstract: >
   In APS, evolutionary explanation cannot be separated from
-  developmental organisation. Evolution proceeds through the
+  developmental organisation. evolution proceeds through the
   transformation of developmentally organised systems whose viability,
   responsiveness, ecological coupling, and continuity-maintaining
   organisation shape evolutionary possibility across time.
@@ -41,7 +41,7 @@ relatedArticles:
   - ecological-organisation
   - organism-environment-coupling
   - evolution
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
 
 references:
   - id: darwin1859
@@ -59,7 +59,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: gilbertepel2015
@@ -106,11 +106,11 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Evolution is often described as a process of selection acting upon variation across generations. Within APS, however, evolutionary explanation cannot be adequately separated from the developmental organisation through which viable biological form is generated, maintained, and reproduced.
+evolution is often described as a process of selection acting upon variation across generations. Within APS, however, evolutionary explanation cannot be adequately separated from the developmental organisation through which viable biological form is generated, maintained, and reproduced.
 
 Living systems do not arrive in the world as fully formed entities upon which evolution later acts. Biological organisation emerges through temporally coordinated developmental processes that stabilise viability across changing conditions and scales.
 
-Evolution therefore proceeds not merely through changes in genes or traits, but through the historical transformation of developmentally organised systems capable of sustaining organised persistence across time.
+evolution therefore proceeds not merely through changes in genes or traits, but through the historical transformation of developmentally organised systems capable of sustaining organised persistence across time.
 
 APS does not reject natural selection, genetics, or inheritance. Rather, it argues that these alone cannot explain how viable biological organisation is produced in the first place.
 
@@ -120,7 +120,7 @@ Development is therefore not secondary to evolutionary explanation. It is part o
 
 Living systems preserve evolutionary continuity not through static hereditary transmission alone, but through the recurrent developmental reconstruction of viable organisation across generations.
 
-## The Historical Separation of Evolution and Development
+## The Historical Separation of evolution and Development
 
 Much of twentieth-century evolutionary theory treated development as explanatorily secondary. The Modern Synthesis successfully integrated genetics with population-level evolutionary dynamics, but developmental organisation itself often remained conceptually backgrounded.
 
@@ -236,7 +236,7 @@ APS treats inheritance as an organisational process extending across organism–
 
 Developmental continuity consequently becomes central to evolutionary explanation because biological persistence depends upon the reliable re-establishment of viable organisation across generations.
 
-Evolution acts upon historically continuous developmental systems rather than isolated hereditary particles alone.
+evolution acts upon historically continuous developmental systems rather than isolated hereditary particles alone.
 
 ## Evolutionary Novelty and Organisational Transformation
 
@@ -279,7 +279,7 @@ Evolutionary theory cannot adequately explain living systems while treating deve
 
 Selection explains differential persistence among viable forms. Development explains how viable forms become biologically possible in the first place.
 
-## Development and Evolution in APS
+## Development and evolution in APS
 
 Within APS, evolution is understood as the historical transformation of developmentally organised systems of viable persistence.
 
@@ -297,3 +297,4 @@ This perspective shifts evolutionary theory away from purely gene-centred or sel
 Organisms are not passive products of evolution. They are active developmental systems whose viability-oriented organisation shapes the possibilities through which evolution proceeds.
 
 Development consequently becomes one of the central explanatory bridges connecting evolution, ecology, cognition, individuality, and social organisation within the broader APS framework.
+

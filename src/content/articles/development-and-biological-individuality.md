@@ -37,7 +37,7 @@ relatedArticles:
   - developmental-regulation
   - ecological-organisation
   - evolution
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
 
 references:
   - id: oyama1985
@@ -55,7 +55,7 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     publisher: "Princeton University Press"
 
   - id: gilbert2020
@@ -265,3 +265,4 @@ This perspective preserves the reality of biological individuals while rejecting
 Living systems persist through coordinated developmental organisation extending across ecological, symbiotic, behavioural, and social relations.
 
 Biological individuality consequently becomes one of the central explanatory bridges linking development, ecology, evolution, resilience, cognition, and social organisation within the broader APS framework.
+

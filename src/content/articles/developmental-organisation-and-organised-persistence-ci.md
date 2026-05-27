@@ -37,7 +37,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - temporal-organisation-and-organised-persistence
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - adaptation-how-living-systems-sustain-themselves-through-change
   - ecology-as-organised-persistence-across-scales
   - diagnosis-as-continuity-analysis
@@ -68,7 +68,7 @@ references:
   - id: west-eberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     source: "Oxford University Press"
 
   - id: gilbert2015
@@ -278,11 +278,11 @@ Variation remains constrained by viability conditions, but developmental organis
 
 [[box:multiple-realization-and-organised-persistence]]
 
-# Development and Evolution
+# Development and evolution
 
 Development is constitutive of evolutionary transformation itself.
 
-Evolution does not occur independently of developmental organisation.
+evolution does not occur independently of developmental organisation.
 
 Evolutionary processes operate through living systems already capable of:
 - generating viable organisation;
@@ -434,7 +434,7 @@ It is one of the principal ways living systems sustain and transform organised p
 ## Related Pathways
 
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
@@ -445,3 +445,5 @@ It is one of the principal ways living systems sustain and transform organised p
 ## Key Terms
 
 development · persistence · continuity · transformation · adaptation · inheritance · variation · evolution · temporality · organisation · agency
+
+

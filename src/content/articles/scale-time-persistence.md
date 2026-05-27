@@ -45,7 +45,7 @@ relatedArticles:
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - biological-organisation
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - ecology-as-organised-persistence-across-scales
   - adaptation-how-living-systems-sustain-themselves-through-change
   - diagnosis-as-continuity-analysis
@@ -434,7 +434,7 @@ Living systems exist only through the multiscale continuity of viability-oriente
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
 - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[Biological Organisation — How Living Systems Sustain Themselves](/articles/biological-organisation/)*
@@ -443,3 +443,4 @@ Living systems exist only through the multiscale continuity of viability-oriente
 # Key Terms
 
 scale · temporality · persistence · continuity · viability · organisation · process · agency · resilience · semiosis · multiscale coordination · organised persistence
+

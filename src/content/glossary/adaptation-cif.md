@@ -41,7 +41,7 @@ relatedArticles:
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - adaptation-how-living-systems-sustain-themselves-through-change
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - scale-time-persistence
@@ -308,7 +308,7 @@ within a unified framework of viability-oriented biological organisation.
 ### Adaptation, Persistence, and Evolution
 
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[What Is Evolution in APS?](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[What Is Evolution in APS?](/articles/evolution/)*
 - *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
 

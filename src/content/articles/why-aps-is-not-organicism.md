@@ -73,7 +73,7 @@ references:
   - id: walsh-2015
     authors: "Walsh, D. M."
     year: 2015
-    title: "Organisms, Agency, and Evolution"
+    title: "Organisms, Agency, and evolution"
     publisher: "Cambridge University Press"
 
   - id: mossio-2023
@@ -237,3 +237,5 @@ The explanatory importance of organisation therefore arises from the observable 
 APS inherits from organicism the conviction that life cannot be understood through atomistic reduction alone. But it attempts to reconstruct this insight through explicit organisational principles, explanatory structure, and operational diagnostics.
 
 In this sense APS belongs historically within the broader organism-centred traditions of biology while also moving beyond classical organicism toward a more precise theory of biological organisation itself.
+
+

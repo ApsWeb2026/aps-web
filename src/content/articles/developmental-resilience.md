@@ -64,7 +64,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: gilbertepel2015
@@ -381,9 +381,9 @@ This links developmental resilience directly to:
 - fragility,
 - and organisational failure.
 
-## Resilience, Evolution, and Persistence
+## Resilience, evolution, and Persistence
 
-Evolution shapes resilience architectures across organisms and environments.
+evolution shapes resilience architectures across organisms and environments.
 
 Different organisms exhibit different capacities for:
 
@@ -424,3 +424,4 @@ This perspective shifts explanation away from rigid equilibrium models and towar
 Living systems remain resilient not because instability is absent, but because developmental organisation remains capable of reorganising continuity under changing conditions.
 
 Developmental resilience is therefore one of the central expressions of organised persistence across time.
+

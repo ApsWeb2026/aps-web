@@ -126,3 +126,5 @@ The APS framework identifies viability-oriented, constraint-closed biological or
 
 By clarifying what needs to be explained, APS establishes the target of biological explanation and prepares the ground for specifying the structure required to explain it.
 
+
+

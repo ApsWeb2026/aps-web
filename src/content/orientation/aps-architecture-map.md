@@ -48,7 +48,7 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
   - ecology-as-organised-persistence-across-scales
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - diagnosis-as-continuity-analysis
   - aps-as-philosophy-viability-oriented-account
   - aps-and-contemporary-theories
@@ -193,7 +193,7 @@ These pathways therefore remain deeply interconnected.
 
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
 
 Within APS, evolutionary explanation is organised through a connected continuity structure:

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-27
-title: APS and the Extended Evolutionary Synthesis — Conditions and Extensions of Evolution
+title: APS and the Extended Evolutionary Synthesis — Conditions and Extensions of evolution
 slug: aps-and-the-extended-evolutionary-synthesis
 status: canonical
 canonical: true
@@ -14,7 +14,7 @@ keyPoints:
   - It incorporates development, plasticity, niche construction, and organism–environment interaction.
   - These approaches enrich evolutionary explanation but do not redefine its foundational conditions.
   - APS addresses a different explanatory domain by identifying the organisational preconditions of evolution.
-  - Evolution requires systems capable of sustaining viability-oriented, constraint-closed organisation.
+  - evolution requires systems capable of sustaining viability-oriented, constraint-closed organisation.
   - APS reframes evolution as the long-term transformation of organised persistence.
 relatedGlossaryTerms:
   - biological-agency
@@ -44,7 +44,7 @@ references:
     authors: "Laland, K. N."
     year: 2016
     title: "The extended evolutionary synthesis"
-    journal: "Annual Review of Ecology, Evolution, and Systematics"
+    journal: "Annual Review of Ecology, evolution, and Systematics"
     volume: "47"
     pages: "1–28"
     doi: "10.1146/annurev-ecolsys-121415-032359"
@@ -52,20 +52,20 @@ references:
   - id: OdlingSmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     publisher: "Princeton University Press"
 
   - id: WestEberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: Pigliucci2007
     authors: "Pigliucci, M."
     year: 2007
     title: "Do we need an extended evolutionary synthesis?"
-    journal: "Evolution"
+    journal: "evolution"
     volume: "61(12)"
     pages: "2743–2749"
     doi: "10.1111/j.1558-5646.2007.00246.x"
@@ -116,11 +116,11 @@ The EES extends evolutionary theory by expanding the range of processes that con
 
 APS, by contrast, addresses a more fundamental question: **under what conditions can evolution occur at all?**
 
-Evolution requires systems that persist over time, reproduce, and maintain organisational continuity across generations. These capacities are not explained by evolutionary theory itself; they are presupposed by it.
+evolution requires systems that persist over time, reproduce, and maintain organisational continuity across generations. These capacities are not explained by evolutionary theory itself; they are presupposed by it.
 
 APS therefore identifies the organisational conditions that make evolutionary processes possible, rather than the mechanisms through which they operate.
 
-## APS: The Preconditions of Evolution
+## APS: The Preconditions of evolution
 
 APS identifies the preconditions of evolution in terms of **viability-oriented, constraint-closed organisation**.
 
@@ -132,7 +132,7 @@ For variation, inheritance, and selection to operate, there must exist systems t
 
 These capacities depend on biological agency: the active maintenance of viability.
 
-APS therefore reframes evolution not simply as change in populations, but as the **long-term transformation of organised persistence**. Evolution unfolds within systems that already possess the organisational structure required to sustain themselves.
+APS therefore reframes evolution not simply as change in populations, but as the **long-term transformation of organised persistence**. evolution unfolds within systems that already possess the organisational structure required to sustain themselves.
 
 This shift moves evolutionary explanation from a focus on outcomes to a focus on enabling conditions.
 
@@ -144,14 +144,14 @@ APS agrees with this emphasis but grounds it more explicitly in biological organ
 
 From this perspective, niche construction is not an additional evolutionary mechanism but an expression of viability-oriented activity.
 
-## Evolution, Adaptation, and Persistence
+## evolution, Adaptation, and Persistence
 
 A further difference concerns how evolution and adaptation are conceptualised.
 
 In extended evolutionary frameworks, adaptation is often treated as a product of multiple interacting mechanisms. APS incorporates this view but integrates it into a broader framework in which:
 
 - **Adaptation** is the reorganisation of viability-oriented processes. This reorganisation reflects biological function as the normatively structured contribution of processes to persistence.  
-- **Evolution** is the long-term transformation of those processes across generations  
+- **evolution** is the long-term transformation of those processes across generations  
 
 This framing emphasises continuity between short-term regulation and long-term change.
 
@@ -183,8 +183,10 @@ The Extended Evolutionary Synthesis expands evolutionary theory by incorporating
 
 APS is compatible with these extensions but identifies the organisational conditions that make evolution possible.
 
-Evolution is grounded in viability-oriented, constraint-closed systems and is best understood as the long-term transformation of organised persistence.
+evolution is grounded in viability-oriented, constraint-closed systems and is best understood as the long-term transformation of organised persistence.
 
 ## Key Point
 
 Extended evolutionary theory explains how developmental and ecological processes shape evolution, but APS situates these processes within a more fundamental account of viability-oriented organisation.
+
+

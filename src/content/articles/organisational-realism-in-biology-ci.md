@@ -608,3 +608,4 @@ Organisational realism therefore becomes:
 ## Key Terms
 
 organisation · realism · continuity · viability · persistence · perturbation · agency · function · mechanism · explanation
+

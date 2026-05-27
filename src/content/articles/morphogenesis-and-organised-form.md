@@ -393,11 +393,11 @@ This links morphogenesis directly to:
 - degeneration,
 - and breakdown.
 
-## Morphogenesis and Evolution
+## Morphogenesis and evolution
 
 Morphogenesis and evolution are deeply interconnected continuity processes.
 
-Evolution shapes:
+evolution shapes:
 
 - body plans,
 - developmental constraints,
@@ -434,3 +434,4 @@ This perspective shifts morphogenetic explanation away from static blueprints, p
 Biological form is instead understood as dynamically organised continuity maintained through ongoing developmental regulation.
 
 Living form persists not as fixed structure, but as viability-oriented organisation continuously maintained across transformation.
+

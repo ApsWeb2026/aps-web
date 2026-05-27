@@ -180,3 +180,5 @@ the steady expansion of what counts as part of the natural world.
 ## Key Point
 
 APS situates agency, purpose, and biological normativity within the long scientific process of naturalisation—reinterpreting phenomena once treated as metaphysical as features of viability-oriented, constraint-closed organisation.
+
+

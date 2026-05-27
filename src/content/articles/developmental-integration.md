@@ -69,7 +69,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: mossio2023
@@ -258,11 +258,11 @@ Rather, organisms remain coherent systems of organised persistence whose viabili
 
 Developmental integration therefore links organismal coherence with broader ecological and relational organisation.
 
-## Developmental Integration and Evolution
+## Developmental Integration and evolution
 
 Developmental integration also shapes evolutionary continuity.
 
-Evolution acts not upon isolated traits alone, but upon integrated developmental systems capable of sustaining viable organisation across generations.
+evolution acts not upon isolated traits alone, but upon integrated developmental systems capable of sustaining viable organisation across generations.
 
 Integrated developmental organisation may:
 
@@ -293,3 +293,4 @@ Development therefore cannot be adequately understood as the isolated constructi
 Living systems persist because developmental processes become integrated into coordinated organisational wholes capable of sustaining viability across time.
 
 Developmental integration consequently becomes one of the central explanatory concepts linking development, individuality, ecology, resilience, diagnosis, and evolution within the broader APS framework.
+

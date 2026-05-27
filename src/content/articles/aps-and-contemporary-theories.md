@@ -382,7 +382,7 @@ The following articles explore these relations in greater detail:
 
 - **[APS and Systems Theory — Similarities, Differences, and Limits](/articles/aps-and-systems-theory/)**
 - **[APS and Autonomy Theory — From Constraint Closure to Viability-Oriented Organisation](/articles/aps-and-autonomy-theory/)**
-- **[APS and the Extended Evolutionary Synthesis — Conditions and Extensions of Evolution](/articles/aps-and-the-extended-evolutionary-synthesis/)**
+- **[APS and the Extended Evolutionary Synthesis — Conditions and Extensions of evolution](/articles/aps-and-the-extended-evolutionary-synthesis/)**
 
 These articles examine:
 - where APS converges with existing frameworks;
@@ -527,3 +527,4 @@ APS consequently functions not merely as another specialised theory of life, but
 # Key Terms
 
 continuity · persistence · viability · perturbation · organisation · adaptation · cognition · evolution · autonomy · systems theory
+

@@ -231,3 +231,4 @@ It is the dynamic continuity-producing pattern through which living systems exis
 Understanding life therefore requires an explanatory grammar grounded not in static structure alone, but in viability-oriented, temporally organised, constraint-closed organisation enacted across processes and scales.
 
 APS provides that account.
+

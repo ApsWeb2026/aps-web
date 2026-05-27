@@ -43,7 +43,7 @@ These are not independent components but three perspectives on the same organisa
 
 The APS framework clarifies how key biological concepts relate to one another:
 
-**Agency - Normativity - Function - Adaptation - Evolution**
+**Agency - Normativity - Function - Adaptation - evolution**
 
 | Concept | Meaning |
 | --- | --- |
@@ -51,23 +51,23 @@ The APS framework clarifies how key biological concepts relate to one another:
 | **Normativity** | Distinction between viable and non-viable states |
 | **Function** | Contribution to sustaining viability |
 | **Adaptation** | Historically stabilised viability-supporting traits |
-| **Evolution** | Long-term transformation of these traits |
+| **evolution** | Long-term transformation of these traits |
 
 This chain represents the minimal grammar of biological explanation.
 
-### 4. Organisational Architecture of Evolution
+### 4. Organisational Architecture of evolution
 
 APS clarifies the organisational conditions required for evolutionary processes:
 
-**Viability-oriented biological agency - Organised persistence - Reproduction - Natural selection - Evolution**
+**Viability-oriented biological agency - Organised persistence - Reproduction - Natural selection - evolution**
 
 - Agency sustains viability
 - Persistence maintains biological organisation through time
 - Reproduction extends persistence across generations
 - Selection filters variants
-- Evolution transforms biological organisation historically
+- evolution transforms biological organisation historically
 
-Evolution therefore operates on systems already organised around their own persistence.
+evolution therefore operates on systems already organised around their own persistence.
 
 ### 5. The APS Synthesis Diagram
 
@@ -84,7 +84,7 @@ The APS synthesis can be understood as three integrated layers:
 
 3. **Evolutionary transformation**
    - Selection
-   - Evolution
+   - evolution
 
 In this framework, biological agency is enacted through process across scale; organised persistence makes reproduction possible; and reproduction allows selection and evolution to transform viability-oriented biological organisation historically.
 
@@ -95,7 +95,7 @@ APS connects multiple domains of biological research:
 - **Molecular biology** - Processes sustaining cellular viability  
 - **Physiology** - Regulation of organismal persistence  
 - **Ecology** - Organism and environment interactions affecting viability  
-- **Evolution** - Historical transformation of persistence strategies  
+- **evolution** - Historical transformation of persistence strategies  
 
 Rather than separate explanatory frameworks, these become different perspectives on the same organisational phenomenon.
 
@@ -115,7 +115,7 @@ APS continues this trajectory by providing a naturalised account of biological a
 
 Life is organised biological agency enacted through process across scale.
 
-Evolution is the historical transformation of viability-oriented biological organisation.
+evolution is the historical transformation of viability-oriented biological organisation.
 
 ### 9. Why APS Matters
 
@@ -128,7 +128,7 @@ APS provides:
 
 **Core Definition.**
 
-In APS, life is viability-oriented biological agency: the organised activity through which living systems sustain their own persistence. Evolution is the historical transformation of that biological organisation across generations. Biology is therefore the study of how viability-oriented biological organisation is sustained in the present and transformed through evolutionary time.
+In APS, life is viability-oriented biological agency: the organised activity through which living systems sustain their own persistence. evolution is the historical transformation of that biological organisation across generations. Biology is therefore the study of how viability-oriented biological organisation is sustained in the present and transformed through evolutionary time.
 
 ## Reading APS as a System
 
@@ -136,5 +136,7 @@ APS concepts should not be interpreted in isolation. aTerms such as biological a
 
 For an explanation of how APS definitions form an organised system, see:
 - APS as an Organised Conceptual System - Why Definitions Form a System
+
+
 
 

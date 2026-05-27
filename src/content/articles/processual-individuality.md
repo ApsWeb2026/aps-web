@@ -46,8 +46,8 @@ relatedArticles:
   - ontogeny
   - developmental-integration
   - developmental-resilience
-  - ecological-organisation-and-organised-persistence
-  - organism-environment-coupling-and-organised-persistence
+  - ecological-organisation
+  - organism-environment-coupling
   - repair-and-regeneration
   - life-cycles
   - how-aps-explains-life
@@ -109,7 +109,7 @@ references:
   - id: walsh2015
     authors: "Walsh, D. M."
     year: 2015
-    title: "Organisms, Agency, and Evolution"
+    title: "Organisms, Agency, and evolution"
     publisher: "Cambridge University Press"
 
   - id: spencer2026
@@ -362,3 +362,4 @@ They remain viable by organising transformation in ways that preserve continuity
 ## Key Point
 
 In APS, processual individuality refers to the continuity-maintaining organisation through which biological individuals preserve viability across continual transformation. Organisms remain real individuals not because they possess immutable material identity, but because their organisation continuously sustains coherent persistence across time.
+

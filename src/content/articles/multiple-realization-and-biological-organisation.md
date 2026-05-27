@@ -44,12 +44,12 @@ relatedArticles:
   - processual-individuality
   - emergence-in-biology-an-aps-clarification
   - explanatory-geometry-of-biology
-  - description-is-not-explanation
+  - description-explanation-and-definition-in-biology
   - why-life-is-not-computation-an-aps-clarification
   - why-ai-is-not-biological-agency
   - cognition-from-life-to-mind-continuity-without-mentalism
-  - ecological-organisation-and-organised-persistence
-  - organism-environment-coupling-and-organised-persistence
+  - ecological-organisation
+  - organism-environment-coupling
 
 references:
   - id: putnam1967
@@ -353,3 +353,4 @@ It derives from organised participation within persistence-maintaining biologica
 ## Key Point
 
 APS neither rejects nor uncritically accepts multiple realization. Instead, it reconstructs realization in organisational terms by grounding explanatory equivalence in viability-oriented, continuity-maintaining, constraint-closed persistence rather than abstract functional similarity alone.
+

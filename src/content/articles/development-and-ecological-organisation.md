@@ -40,7 +40,7 @@ relatedArticles:
   - developmental-inheritance
   - ecological-organisation
   - evolution
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
   - development-as-organised-persistence
 
 references:
@@ -59,7 +59,7 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     publisher: "Princeton University Press"
 
   - id: nicholsondupre2018
@@ -300,3 +300,4 @@ This perspective dissolves rigid separations between organism and environment, d
 Living systems are not isolated entities developing independently within passive surroundings. They are ecologically embedded organisations whose viability depends upon continuous relational coordination across multiple scales.
 
 Development consequently becomes one of the central explanatory bridges linking ecology, evolution, individuality, cognition, resilience, and social organisation within the broader APS framework.
+

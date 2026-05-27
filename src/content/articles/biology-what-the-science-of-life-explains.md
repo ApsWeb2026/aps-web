@@ -11,7 +11,7 @@ cluster: conceptual-foundations
 keyPoints:
   - Biology explains how living systems sustain their own persistence and how this biological organisation changes through time.
   - Life consists in organised, viability-oriented activity rather than static structure.
-  - Evolution is the historical transformation of persistence-sustaining biological organisation.
+  - evolution is the historical transformation of persistence-sustaining biological organisation.
   - APS clarifies biology as the study of viability-oriented biological organisation across process and scale.
 relatedGlossaryTerms:
   - biological-agency
@@ -32,7 +32,7 @@ Living systems are not static objects. They are organised processes that continu
 
 Because this organisation must be continuously maintained, biological processes are not neutral events but are organised in relation to viability.
 
-Evolution explains how the organisations sustaining this activity change through time. Across generations, the structures and processes that enable persistence are modified, diversified, and transformed.
+evolution explains how the organisations sustaining this activity change through time. Across generations, the structures and processes that enable persistence are modified, diversified, and transformed.
 
 Biology therefore investigates two intimately connected phenomena: the biological organisation that makes life possible and the historical processes through which that organisation changes.
 
@@ -50,19 +50,19 @@ This persistence is not passive. It requires continuous activity—metabolic pro
 
 Living systems therefore exist as organised processes rather than static structures. Understanding this organisation is the first task of biology.
 
-## Evolution: Transformation Through Time
+## evolution: Transformation Through Time
 
 While living systems maintain themselves in the present, evolution describes how the organisations sustaining this persistence change across generations.
 
 Variation, inheritance, and differential persistence transform biological organisation over time, reshaping the conditions under which living systems sustain their viability. Across long timescales, these processes generate the diversity of life.
 
-Evolution therefore provides the historical dimension of biology: it explains how present-day biological organisation came to exist.
+evolution therefore provides the historical dimension of biology: it explains how present-day biological organisation came to exist.
 
 ## Biological Explanation
 
 Biology does more than describe living systems or their evolutionary history. It seeks to explain the organisational principles that allow living systems to exist and persist.
 
-Physiology explains how organisms maintain internal conditions. Ecology explains how organisms interact within larger systems. Evolution explains how these organisations change historically.
+Physiology explains how organisms maintain internal conditions. Ecology explains how organisms interact within larger systems. evolution explains how these organisations change historically.
 
 Together, these domains reveal life as a dynamic interplay of organisation, activity, and transformation.
 
@@ -79,7 +79,7 @@ APS emphasises that living systems are viability-oriented organisations: systems
 From this perspective:
 
 - Life concerns organised persistence  
-- Evolution concerns the transformation of persistence-sustaining organisation through time  
+- evolution concerns the transformation of persistence-sustaining organisation through time  
 - Biology explains the organisational principles that link these phenomena  
 
 APS does not replace existing biological knowledge. It clarifies the conceptual structure that connects the study of life, evolution, and biological explanation.
@@ -91,4 +91,6 @@ Viewed in this way, biology investigates a distinctive phenomenon in nature: sys
 Understanding these systems requires studying both the processes through which they maintain themselves and the evolutionary transformations through which their organisation changes.
 
 Biology is therefore the science of organised living systems and the historical transformation of viability-oriented organisation.
+
+
 

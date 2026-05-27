@@ -44,7 +44,7 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - continuity-structure-of-biological-organisation
   - why-organisms-cannot-be-understood-apart-from-their-environments
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - adaptation-how-living-systems-sustain-themselves-through-change
   - scale-time-persistence
   - explanatory-geometry-of-biology
@@ -423,7 +423,7 @@ This makes resilience central to:
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
 
 ---
@@ -431,3 +431,4 @@ This makes resilience central to:
 ## Key Terms
 
 resilience · ecology · continuity · perturbation · adaptation · temporality · persistence · ecological coupling · semiosis · transformation · organisation
+

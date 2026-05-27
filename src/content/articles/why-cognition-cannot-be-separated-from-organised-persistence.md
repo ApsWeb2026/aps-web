@@ -40,7 +40,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - cognition-where-does-it-belong-in-biology
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - explanatory-geometry-of-biology
   - aps-as-philosophy-viability-oriented-account
   - why-life-is-not-computation-an-aps-clarification
@@ -248,7 +248,7 @@ Cognitive organisation did not appear independently of evolutionary history.
 
 It emerged progressively through the historical transformation of organised persistence across generations.
 
-Evolution diversifies:
+evolution diversifies:
 - evaluative organisation;
 - behavioural coordination;
 - sensory integration;
@@ -384,6 +384,8 @@ Living systems must first remain viable before they can:
 
 Evaluation, semiosis, meaning, information, representation, and cognition therefore emerge progressively within systems already engaged in persistence-maintaining biological activity.
 
-Evolution transforms these organisational capacities historically across generations through variation, adaptation, inheritance, fitness, and differential stabilisation.
+evolution transforms these organisational capacities historically across generations through variation, adaptation, inheritance, fitness, and differential stabilisation.
 
 APS consequently approaches cognition not as detached computation or abstract information processing, but as an increasingly integrated dimension of organised biological persistence distributed across interacting developmental, ecological, behavioural, and evolutionary processes.
+
+

@@ -35,15 +35,15 @@ references:
     authors: "Cleland, C. E., & Chyba, C. F."
     year: 2002
     title: "Defining 'Life'"
-    journal: "Origins of Life and Evolution of the Biosphere"
+    journal: "Origins of Life and evolution of the Biosphere"
     volume: "32(4)"
     pages: "387–393"
 
   - id: RuizMirazo2004
     authors: "Ruiz-Mirazo, K., Peretó, J., & Moreno, A."
     year: 2004
-    title: "A Universal Definition of Life: Autonomy and Open-Ended Evolution"
-    journal: "Origins of Life and Evolution of the Biosphere"
+    title: "A Universal Definition of Life: Autonomy and Open-Ended evolution"
+    journal: "Origins of Life and evolution of the Biosphere"
     volume: "34(3)"
     pages: "323–346"
 
@@ -243,3 +243,4 @@ APS therefore approaches life not merely as a classificatory category, but as a 
 ## Key Point
 
 APS distinguishes the definition of life from the diagnosis of living organisation: life is defined as viability-oriented, constraint-closed organisation, but its presence is recognised through diagnostic evaluation of organised persistence under perturbation and conditions of failure.
+

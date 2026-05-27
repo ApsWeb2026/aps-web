@@ -74,11 +74,11 @@ Explanation proceeds by showing how viability-oriented organisation is enacted t
 
 Biological organisation unfolds across time in a structured way.
 
-Persistence refers to the present-time maintenance of viability. Adaptation refers to the reorganisation of activity under changing conditions. Evolution refers to the long-term transformation of organisation across generations.
+Persistence refers to the present-time maintenance of viability. Adaptation refers to the reorganisation of activity under changing conditions. evolution refers to the long-term transformation of organisation across generations.
 
 These are not distinct domains but temporally differentiated expressions of the same system.
 
-Persistence is the condition for adaptation. Adaptation enables persistence across change. Evolution is the historical accumulation of adaptive reorganisation.
+Persistence is the condition for adaptation. Adaptation enables persistence across change. evolution is the historical accumulation of adaptive reorganisation.
 
 Biological explanation must therefore integrate immediate regulation, ongoing reorganisation, and long-term transformation within a single framework.
 
@@ -102,7 +102,7 @@ APS replaces level-based explanation with multi-scale causation, in which causal
 
 Biological explanation must therefore trace how organisation is maintained through coordinated activity across scales.
 
-## Integrating Mechanism, Function, and Evolution
+## Integrating Mechanism, Function, and evolution
 
 APS does not replace existing explanatory approaches. It clarifies their roles within a broader structure.
 
@@ -141,3 +141,5 @@ By integrating agency, process, scale, temporal dynamics, and system–environme
 ## Key Point
 
 APS defines the target of biological explanation as viability-oriented organisation and provides the explanatory grammar required to account for how that organisation is sustained and transformed across time.
+
+

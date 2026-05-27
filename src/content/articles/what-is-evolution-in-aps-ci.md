@@ -1,6 +1,6 @@
 ---
 date: 2026-04-11
-title: What Is Evolution in APS?
+title: What Is evolution in APS?
 slug: what-is-evolution-in-aps
 status: canonical
 canonical: true
@@ -10,12 +10,12 @@ cluster: conceptual-foundations
 abstract: |
   In the Agency–Process–Scale (APS) framework, evolution is not defined as a change in gene frequency but as the long-term transformation of viability-oriented organisation. This article presents the canonical APS account of evolution by integrating persistence, adaptation, inheritance, and transformation into a unified explanatory framework, and clarifies the dependent role of natural selection within systems capable of sustaining organised biological persistence.
 keyPoints:
-  - Evolution in APS is the long-term transformation of viability-oriented organisation.
+  - evolution in APS is the long-term transformation of viability-oriented organisation.
   - Persistence is the necessary condition for evolution; without organised continuity, evolution cannot occur.
   - Adaptation is the present-tense reorganisation of constraint-closed systems to maintain viability.
   - Inheritance is the continuity of organisation across generations, not the transmission of privileged components.
   - Natural selection operates only within systems capable of sustaining organised persistence.
-  - Evolution integrates physiology and history—it is the temporal extension of agency across generations.
+  - evolution integrates physiology and history—it is the temporal extension of agency across generations.
 relatedGlossaryTerms:
   - evolution
   - adaptation
@@ -37,7 +37,7 @@ references:
   - id: mayr1982
     authors: "Mayr, E."
     year: 1982
-    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    title: "The Growth of Biological Thought: Diversity, evolution, and Inheritance"
     source: "Harvard University Press"
 
   - id: lewontin1970
@@ -52,7 +52,7 @@ references:
   - id: maynard-smith1986
     authors: "Maynard Smith, J., & Szathmáry, E."
     year: 1995
-    title: "The Major Transitions in Evolution"
+    title: "The Major Transitions in evolution"
     source: "Oxford University Press"
 
   - id: godfrey-smith2009
@@ -64,13 +64,13 @@ references:
   - id: okasha2006
     authors: "Okasha, S."
     year: 2006
-    title: "Evolution and the Levels of Selection"
+    title: "evolution and the Levels of Selection"
     source: "Oxford University Press"
 
   - id: odling-smee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     source: "Princeton University Press"
 
   - id: moreno2015
@@ -80,23 +80,23 @@ references:
     source: "Springer"
 ---
 
-## Evolution as the Transformation of Viability-Oriented Organisation
+## evolution as the Transformation of Viability-Oriented Organisation
 
 In APS, evolution is defined as the **long-term transformation of viability-oriented organisation**. It does not begin with genes, populations, or selection, but with the existence of systems capable of sustaining their own persistence.
 
-Living systems are not static entities but ongoing processes of self-maintenance. Evolution describes how these processes are **historically transformed**—how the organisation that sustains viability is modified, stabilised, or reconfigured across generations.
+Living systems are not static entities but ongoing processes of self-maintenance. evolution describes how these processes are **historically transformed**—how the organisation that sustains viability is modified, stabilised, or reconfigured across generations.
 
 From this perspective, evolution is not a separate domain of biology but the **historical dimension of biological agency**. It is the temporal unfolding of the same viability-oriented activity that, in the present, maintains the organism.
 
-## The Condition of Evolution: Organised Persistence
+## The Condition of evolution: Organised Persistence
 
-Evolution presupposes persistence. Without systems capable of maintaining their organisation over time, there is nothing for evolution to act upon or transform.
+evolution presupposes persistence. Without systems capable of maintaining their organisation over time, there is nothing for evolution to act upon or transform.
 
 Persistence in APS is not mere survival or continued existence, but the **active maintenance of constraint-closed organisation**. It is the ongoing work through which systems sustain the conditions of their own viability.
 
 This establishes a fundamental dependency:
 
-Evolution does not generate persistence; persistence is the condition that makes evolution possible.
+evolution does not generate persistence; persistence is the condition that makes evolution possible.
 
 Population-level descriptions, including gene frequencies, implicitly assume the continued existence of organisms capable of reproducing. APS makes this dependency explicit by grounding evolutionary explanation in the organisation of living systems.
 
@@ -134,14 +134,14 @@ Natural selection functions as an evolutionary cause only within systems capable
 
 Selection is therefore **dependent on organisation**, not its source. It presupposes the existence of viable systems and acts upon differences in their capacity to maintain themselves.
 
-## Evolution as the Temporal Extension of Agency
+## evolution as the Temporal Extension of Agency
 
 APS unifies physiology and evolution by treating them as different temporal perspectives on the same organisation.
 
 - Physiology describes how systems maintain viability in the present.
-- Evolution describes how this viability-oriented organisation is transformed over time.
+- evolution describes how this viability-oriented organisation is transformed over time.
 
-Both are expressions of biological agency. Evolution is the **extension of agency across generations**, linking present activity with historical change.
+Both are expressions of biological agency. evolution is the **extension of agency across generations**, linking present activity with historical change.
 
 This integration dissolves the traditional divide between function and history. The processes that sustain life now are continuous with those that shape its long-term transformation.
 
@@ -155,7 +155,7 @@ In this framework:
 - Causation is distributed across interacting processes.
 - Agency, process, and scale are co-constitutive dimensions of living systems.
 
-Evolution is therefore not the outcome of a single causal factor, but the **emergent result of coordinated, multiscale organisation over time**.
+evolution is therefore not the outcome of a single causal factor, but the **emergent result of coordinated, multiscale organisation over time**.
 
 [[box:structure-of-evolutionary-explanation]]
 
@@ -168,4 +168,6 @@ Evolution is therefore not the outcome of a single causal factor, but the **emer
 
 ## Key Point
 
-Evolution in APS is the historical transformation of viability-oriented, constraint-closed organisation—the long-term unfolding of biological agency across time.
+evolution in APS is the historical transformation of viability-oriented, constraint-closed organisation—the long-term unfolding of biological agency across time.
+
+

@@ -85,13 +85,13 @@ Structures persist because they contribute to viability. Evaluation modulates ac
 
 Through this ongoing organisation, coordinated structures emerge and stabilise. Design is the form taken by this self-maintaining organisation.
 
-## Evolution and the Transformation of Design
+## evolution and the Transformation of Design
 
-Evolution operates on systems that are already organised.
+evolution operates on systems that are already organised.
 
 Variation, inheritance, and selection transform viability-oriented organisation across time. This produces increasing complexity, differentiation, and integration.
 
-Design is not generated from non-design, but refined and extended. Evolution deepens the organisation of living systems without imposing it from outside.
+Design is not generated from non-design, but refined and extended. evolution deepens the organisation of living systems without imposing it from outside.
 
 ## Function, Purpose, and Design
 
@@ -122,3 +122,4 @@ Design in nature is neither illusion nor imposition. It is the structured organi
 ## Key Point
 
 Biological design is real, but it is not imposed. It is the structured organisation of living systems shaped by viability, sustained through constraint closure, and transformed through evolutionary processes.
+

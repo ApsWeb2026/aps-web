@@ -164,3 +164,5 @@ It captures:
 By replacing levels with scale, APS offers a framework in which biological systems can be understood as dynamically organised processes across space and time.
 
 **Key Point.** Biological organisation is not hierarchical but scale-dependent: a continuous integration of processes across space and time through which living systems sustain and transform themselves.
+
+

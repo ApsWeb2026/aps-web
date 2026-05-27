@@ -469,3 +469,5 @@ The broader philosophical implications of this explanatory structure are develop
 - Explanatory coherence increases through organisational constraint rather than conceptual proliferation.
 - APS explains living systems as organised forms of persistence across transformation and time.
 - Physiology, development, ecology, evolution, cognition, and diagnosis become different expressions of organised continuity within a unified explanatory grammar.
+
+

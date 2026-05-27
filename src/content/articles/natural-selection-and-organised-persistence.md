@@ -78,19 +78,19 @@ references:
   - id: okasha2006
     authors: "Okasha, S."
     year: 2006
-    title: "Evolution and the Levels of Selection"
+    title: "evolution and the Levels of Selection"
     source: "Oxford University Press"
 
   - id: west-eberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     source: "Oxford University Press"
 
   - id: odling-smee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     source: "Princeton University Press"
 
   - id: oyama2000
@@ -112,7 +112,7 @@ references:
     source: "Springer"
 ---
 
-# Evolution Requires Organised Persistence
+# evolution Requires Organised Persistence
 
 Natural selection is one of the central explanatory concepts in modern biology. Since Darwin, evolutionary theory has shown how differential reproductive success can transform populations across generations, producing adaptation, diversification, and lineage change.
 
@@ -358,7 +358,7 @@ Living systems persist under:
 
 Selection therefore stabilises forms of viable persistence that remain sufficiently organised under historically specific conditions.
 
-Evolution does not produce idealised perfection.
+evolution does not produce idealised perfection.
 
 It produces historically viable organisation capable of sustaining persistence under constrained and changing conditions.
 
@@ -428,3 +428,5 @@ Natural selection differentially stabilises the historical consequences of those
 Selection remains central to evolutionary biology, but it is not ontologically foundational.
 
 The organisation of living persistence remains explanatorily prior.
+
+

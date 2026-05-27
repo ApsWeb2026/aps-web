@@ -37,7 +37,7 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
   - continuity-structure-of-biological-organisation
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - how-to-diagnose-a-biological-system
   - explanatory-geometry-of-biology
 ---

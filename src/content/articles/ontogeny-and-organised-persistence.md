@@ -74,7 +74,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: spencer2026
@@ -261,7 +261,7 @@ This perspective closely links ontogeny with APS discussions of resilience, frag
 
 Ontogeny also shapes evolutionary continuity.
 
-Evolution acts upon developmental systems capable of preserving viability-oriented organisation across time.
+evolution acts upon developmental systems capable of preserving viability-oriented organisation across time.
 
 Ontogenetic organisation may therefore:
 
@@ -290,3 +290,4 @@ Within APS:
 Living systems therefore persist not because they resist transformation, but because developmental organisation preserves viability through transformation.
 
 Ontogeny consequently becomes one of the central explanatory concepts linking development, individuality, ecology, resilience, temporal organisation, and evolution within the broader APS framework.
+

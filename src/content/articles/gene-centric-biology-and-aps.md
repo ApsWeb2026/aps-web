@@ -14,7 +14,7 @@ keyPoints:
   - APS reframes the debate by asking what must exist for evolution to occur at all - viability-oriented, constraint-closed organisation.
   - Genes function within living systems as mechanisms of stabilisation and transmission, not as drivers of life.
   - Biological causation is multiscale and reciprocal; no single component or “level” is in charge.
-  - Evolution is the historical transformation of viability-oriented organisation, not simply change in gene frequency.
+  - evolution is the historical transformation of viability-oriented organisation, not simply change in gene frequency.
 relatedGlossaryTerms:
   - biological-agency
   - constraint-closure
@@ -126,7 +126,7 @@ Within this framework:
 - variation is the modification of that organisation
 - selection is the differential persistence of viable organisation
 
-Evolution is therefore:
+evolution is therefore:
 
 **the historical transformation of viability-oriented organisation across scale**
 
@@ -188,11 +188,11 @@ Genes participate in this organisation. They do not govern it.
 
 ---
 
-## Evolution Without Genetic Reductionism
+## evolution Without Genetic Reductionism
 
 APS does not deny evolution. It clarifies its conditions.
 
-Evolution is not genes competing for replication in isolation. It is the long-term transformation of viability-oriented organisation across generations.
+evolution is not genes competing for replication in isolation. It is the long-term transformation of viability-oriented organisation across generations.
 
 From this perspective:
 - selection operates on organised systems
@@ -233,3 +233,5 @@ They are not “in charge” of it.
 
 **Key Point**  
 Genes are mechanisms within life, not the basis of life itself; biological agency—viability-oriented organisation—is the condition that makes genetic inheritance and evolution possible.
+
+

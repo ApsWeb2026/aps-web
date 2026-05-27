@@ -172,11 +172,11 @@ This distinction allows APS to:
 - avoid anthropocentric definitions of mind
 - and explain how sophisticated cognition emerges from more fundamental forms of viability-oriented organisation
 
-## Agency and Evolution
+## Agency and evolution
 
 Biological agency is not static. It is transformed across evolutionary time.
 
-Evolution can be understood as the historical transformation of persistence-sustaining organisation. As such, it is the long-term transformation of biological agency across generations and environments.
+evolution can be understood as the historical transformation of persistence-sustaining organisation. As such, it is the long-term transformation of biological agency across generations and environments.
 
 Present agency therefore reflects both:
 - ongoing real-time persistence-maintaining activity
@@ -222,3 +222,4 @@ In APS, biological agency makes explicit the viability-oriented organisation tha
 Agency is therefore not merely something organisms possess.
 
 It is the temporally continuous activity through which organised living systems maintain themselves through time.
+

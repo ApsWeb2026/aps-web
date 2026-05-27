@@ -1,6 +1,6 @@
 ---
 date: 2026-05-26
-title: "Development and Evolution"
+title: "Development and evolution"
 slug: development-and-evolution
 
 abstract: >
@@ -41,7 +41,7 @@ relatedArticles:
   - ecological-organisation
   - organism-environment-coupling
   - evolution
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
 
 references:
   - id: darwin1859
@@ -59,7 +59,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: gilbertepel2015
@@ -110,7 +110,7 @@ Development and evolution are deeply interconnected biological processes.
 
 Development concerns how organisms maintain continuity across the lifespan through growth, differentiation, regulation, repair, and transformation.
 
-Evolution concerns how continuity persists across generations through reproduction, variation, inheritance, ecological interaction, and selection.
+evolution concerns how continuity persists across generations through reproduction, variation, inheritance, ecological interaction, and selection.
 
 APS interprets development and evolution not as isolated explanatory domains, but as interconnected continuity processes operating across different temporal scales.
 
@@ -130,7 +130,7 @@ This shifts explanation away from static structures and isolated mechanisms towa
 
 Living systems preserve continuity not through static preservation, but through regulated transformation that maintains viability across developmental and evolutionary timescales.
 
-## Development and Evolution as Continuity Processes
+## Development and evolution as Continuity Processes
 
 Development and evolution both involve continuity through transformation.
 
@@ -156,11 +156,11 @@ APS therefore interprets development and evolution as continuity-maintaining pro
 
 Development concerns persistence within the lifespan.
 
-Evolution concerns persistence across lineages.
+evolution concerns persistence across lineages.
 
 These processes remain inseparable because evolutionary continuity depends upon the reliable developmental reproduction of viable organisms across generations.
 
-## Historical Approaches to Development and Evolution
+## Historical Approaches to Development and evolution
 
 Relationships between development and evolution have long occupied biological thought.
 
@@ -217,7 +217,7 @@ Development depends upon:
 - developmental regulation,
 - and temporally distributed continuity-maintaining processes.
 
-Evolution therefore operates upon organisms that are themselves dynamically organised developmental systems.
+evolution therefore operates upon organisms that are themselves dynamically organised developmental systems.
 
 Variation emerges not merely through isolated genetic change, but through interactions among:
 
@@ -256,7 +256,7 @@ At the same time, developmental organisation generates:
 
 APS interprets developmental systems as organisational filters through which evolutionary possibilities emerge.
 
-Evolution does not operate upon infinitely unconstrained forms.
+evolution does not operate upon infinitely unconstrained forms.
 
 Organisms remain developmentally and organisationally structured systems whose continuity-maintaining architecture shapes:
 
@@ -266,7 +266,7 @@ Organisms remain developmentally and organisationally structured systems whose c
 
 Development therefore contributes directly to evolvability itself.
 
-## Plasticity, Environment, and Evolution
+## Plasticity, Environment, and evolution
 
 Developmental plasticity plays important evolutionary roles.
 
@@ -348,13 +348,13 @@ This principle applies equally to:
 
 Evolutionary persistence depends not upon static preservation, but upon continuity-maintaining transformation operating across generations.
 
-## Development, Evolution, and Viability
+## Development, evolution, and Viability
 
 Both development and evolution remain fundamentally viability-oriented processes.
 
 Development preserves organismal viability across the lifespan.
 
-Evolution preserves lineage viability across generations.
+evolution preserves lineage viability across generations.
 
 APS therefore interprets viability as a continuity principle operating across multiple biological scales simultaneously.
 
@@ -371,7 +371,7 @@ This perspective helps unify:
 
 within a single explanatory architecture.
 
-## Development and Evolution in APS
+## Development and evolution in APS
 
 APS interprets development and evolution as:
 
@@ -385,3 +385,4 @@ Living systems persist not because they remain unchanged, but because developmen
 Development and evolution are therefore not separate explanatory domains.
 
 They are deeply interconnected expressions of organised continuity.
+

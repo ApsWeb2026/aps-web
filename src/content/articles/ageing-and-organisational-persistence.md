@@ -58,7 +58,7 @@ relatedArticles:
   - developmental-plasticity
   - developmental-resilience
   - ecology-as-organised-persistence-across-scales
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - diagnosis-as-continuity-analysis
   - malfunction
   - organisational-realism-in-biology
@@ -67,7 +67,7 @@ references:
   - id: kirkwood-1977
     authors: "Kirkwood, T. B. L."
     year: 1977
-    title: "Evolution of Ageing"
+    title: "evolution of Ageing"
     journal: "Nature"
     volume: "270(5635)"
     pages: "301–304"
@@ -83,7 +83,7 @@ references:
   - id: west-eberhard-2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: gilbert-epel-2015
@@ -420,11 +420,11 @@ Ageing emerges from the same developmental and regulatory processes that make or
 
 Living systems persist temporarily through continual continuity maintenance under conditions that ultimately exceed recovery capacity.
 
-# Ageing and Evolution
+# Ageing and evolution
 
 Ageing varies substantially across organisms and evolutionary lineages.
 
-Evolution shapes:
+evolution shapes:
 - lifespan strategies;
 - repair capacities;
 - developmental allocation;
@@ -436,7 +436,7 @@ Different organisms therefore exhibit different organisational strategies for ma
 
 APS interprets ageing and evolution as interconnected continuity processes operating across different temporal scales.
 
-Evolution shapes the organisational conditions under which persistence is maintained, repaired, reorganised, and ultimately lost.
+evolution shapes the organisational conditions under which persistence is maintained, repaired, reorganised, and ultimately lost.
 
 This perspective helps integrate:
 - development;
@@ -469,8 +469,9 @@ Ageing therefore reveals both:
 - *[Developmental Resilience](/articles/developmental-resilience/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 
 # Key Terms
 
 ageing · persistence · continuity · resilience · repair · fragility · viability · perturbation · development · organised persistence
+

@@ -13,7 +13,7 @@ keyPoints:
   - Organisms are dynamically maintained organisations, not collections of parts or bounded entities.
   - Constraint-closed organisation establishes the conditions under which organisms persist.
   - The organism–environment relation is constitutive of biological organisation.
-  - Evolution presupposes organisms as units of organised persistence.
+  - evolution presupposes organisms as units of organised persistence.
 relatedGlossaryTerms:
   - biological-agency
   - biological-organisation
@@ -81,9 +81,9 @@ This reframing avoids both reductionism and hierarchical reification. The organi
 
 [[box:gene-centric-vs-aps-grammar]]
 
-## Organisms as Conditions for Evolution
+## Organisms as Conditions for evolution
 
-Evolution presupposes organisms. Processes such as variation, inheritance, and selection require systems that persist, reproduce, and can succeed or fail in maintaining their organisation.
+evolution presupposes organisms. Processes such as variation, inheritance, and selection require systems that persist, reproduce, and can succeed or fail in maintaining their organisation.
 
 In APS, organisms are not products of evolution alone. They are the conditions under which evolutionary processes become possible.
 
@@ -92,3 +92,5 @@ Natural selection operates on differences in the persistence of organised system
 ## Key Point
 
 The organism is the minimal unity of agency, normativity, and persistence—a dynamically maintained organisation through which life sustains itself.
+
+

@@ -60,7 +60,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: pigliucci2001
@@ -210,7 +210,7 @@ Canalisation may therefore:
 
 APS consequently treats evolution and development as deeply interconnected organisational processes.
 
-Evolution acts not upon unconstrained variation alone, but upon historically stabilised developmental systems capable of maintaining viable continuity across time.
+evolution acts not upon unconstrained variation alone, but upon historically stabilised developmental systems capable of maintaining viable continuity across time.
 
 Developmental canalisation therefore links developmental organisation directly with evolutionary persistence, adaptive continuity, and organised biological stability across generations.
 
@@ -230,3 +230,4 @@ Development therefore cannot be understood solely as flexible responsiveness or 
 Living systems persist because developmental organisation actively preserves viable continuity across time while still permitting adaptive developmental variation.
 
 Developmental canalisation consequently becomes one of the central explanatory concepts linking development, resilience, individuality, ecology, diagnosis, and evolution within the broader APS framework.
+

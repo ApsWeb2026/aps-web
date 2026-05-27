@@ -99,7 +99,7 @@ references:
   - id: ginsburg2019
     authors: "Ginsburg, S., & Jablonka, E."
     year: 2019
-    title: "The Evolution of the Sensitive Soul"
+    title: "The evolution of the Sensitive Soul"
     source: "MIT Press"
 
   - id: pezzulo2024
@@ -515,3 +515,4 @@ The organisation of processes across time determines:
 ## Key Terms
 
 cognition · semiosis · evaluation · temporality · continuity · representation · meaning · information · viability · agency · counterfactual depth
+

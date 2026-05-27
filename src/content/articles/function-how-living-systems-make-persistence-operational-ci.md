@@ -168,7 +168,7 @@ This allows living systems to reorganise, substitute, and diversify their means 
 
 Functional equivalence therefore explains how biological systems can change while remaining coherent in their activity.
 
-## Function, Adaptation, and Evolution
+## Function, Adaptation, and evolution
 
 Evolutionary history explains how functional roles are stabilised, conserved, or transformed over time. It accounts for how particular structures come to perform particular roles.
 
@@ -206,3 +206,5 @@ Understanding function therefore requires understanding the organisation within 
 ## Key Point
 
 Function in APS is the operational expression of purpose: the viability-relative role through which living systems sustain their own persistence.
+
+

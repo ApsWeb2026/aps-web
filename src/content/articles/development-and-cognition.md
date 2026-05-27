@@ -35,7 +35,7 @@ relatedArticles:
   - cognition
   - semiosis
   - information-in-biology
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
   - developmental-plasticity
   - developmental-regulation
   - developmental-resilience
@@ -348,11 +348,11 @@ This links cognition directly to:
 - ageing,
 - and organisational breakdown.
 
-## Cognition, Development, and Evolution
+## Cognition, Development, and evolution
 
 Cognitive capacities evolve through developmental organisation across generations.
 
-Evolution shapes:
+evolution shapes:
 
 - sensory systems,
 - behavioural architectures,
@@ -389,3 +389,4 @@ APS interprets cognition as:
 This perspective shifts cognition away from purely computational or informational models and toward embodied developmental organisation operating within ecological and social environments.
 
 Cognition emerges not as detached information processing, but as continuity-maintaining developmental organisation enabling viable interaction with the world across time.
+

@@ -116,3 +116,5 @@ It therefore contributes directly to biological explanation, rather than serving
 
 ## Key Point
 APS reframes biological classification as the **mapping of persistent, viability-oriented organisation**, where taxa function as classifications of processual patterns rather than as static categories defined by essential traits.
+
+

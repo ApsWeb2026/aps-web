@@ -373,3 +373,4 @@ They arise from the very structure of living systems as vulnerable processes tha
 Malfunction, breakdown, and death do not contradict viability-oriented organisation.
 
 They reveal that living systems exist only through the continuous and inherently vulnerable maintenance of organised persistence.
+

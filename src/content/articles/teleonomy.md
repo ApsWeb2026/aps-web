@@ -132,3 +132,5 @@ This term is not required for the APS framework, which already specifies purpose
 ## In Brief
 
 Teleonomy was introduced to explain goal-directed behaviour in biological systems without invoking classical teleology. While it provided a historically important solution, it remains conceptually incomplete. APS resolves this by grounding purpose in viability-oriented, constraint-closed organisation, where normativity is intrinsic to living systems. Teleonomy can thus be reinterpreted as a transitional concept, capturing real phenomena but lacking a fully coherent explanatory foundation.
+
+

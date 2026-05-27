@@ -48,7 +48,7 @@ relatedArticles:
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - ecology-as-organised-persistence-across-scales
   - diagnosis-as-continuity-analysis
   - explanatory-geometry-of-biology
@@ -74,7 +74,7 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     source: "Princeton University Press"
 
   - id: noble2012
@@ -90,7 +90,7 @@ references:
     authors: "Pigliucci, M."
     year: 2007
     title: "Do We Need an Extended Evolutionary Synthesis?"
-    journal: "Evolution"
+    journal: "evolution"
     volume: "61"
     pages: "2743–2749"
     doi: "10.1111/j.1558-5646.2007.00246.x"
@@ -121,7 +121,7 @@ Development reorganises trajectories.
 
 Ecological relations shift.
 
-Evolution transforms lineages historically.
+evolution transforms lineages historically.
 
 Yet continuity remains.
 
@@ -412,7 +412,7 @@ Resilience therefore depends upon adaptive continuity across perturbation and tr
 
 [[box:perturbation-reveals-organisation]]
 
-# Adaptation, Physiology, and Evolution
+# Adaptation, Physiology, and evolution
 
 Adaptation links physiology and evolution directly.
 
@@ -505,8 +505,8 @@ APS therefore treats adaptation as one of the principal organisational processes
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
 - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[Physiology and evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
@@ -514,3 +514,4 @@ APS therefore treats adaptation as one of the principal organisational processes
 # Key Terms
 
 adaptation · continuity · persistence · viability · transformation · resilience · physiology · evolution · ecology · organisation · temporal organisation
+

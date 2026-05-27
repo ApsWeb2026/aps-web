@@ -45,7 +45,7 @@ relatedArticles:
   - why-ai-is-not-biological-agency
   - consciousness-an-aps-clarification
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
 
 references:
   - id: peirce1931

@@ -49,7 +49,7 @@ references:
   - id: mayr1982
     authors: "Mayr, E."
     year: 1982
-    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    title: "The Growth of Biological Thought: Diversity, evolution, and Inheritance"
     source: "Harvard University Press"
 
   - id: lewontin1970
@@ -70,7 +70,7 @@ references:
   - id: west-eberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     source: "Oxford University Press"
 
   - id: godfrey-smith2009
@@ -321,7 +321,7 @@ Rather, APS clarifies that evolutionary transformation depends upon systems alre
 
 Evolutionary explanation must therefore include the organisation of biological activity itself.
 
-## The APS Explanatory Grammar of Evolution
+## The APS Explanatory Grammar of evolution
 
 APS situates evolutionary explanation within the broader explanatory grammar of:
 - agency,
@@ -387,3 +387,5 @@ APS situates these processes within a unified explanatory framework organised th
 - and scale.
 
 Evolutionary biology therefore becomes not merely the study of changing populations, but the study of how organised persistence transforms historically across living systems and their environments.
+
+

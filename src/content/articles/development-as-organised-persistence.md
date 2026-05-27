@@ -74,7 +74,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: gilbert2020
@@ -297,7 +297,7 @@ This perspective strongly connects development with APS discussions of resilienc
 
 Development also shapes evolutionary continuity.
 
-Evolution depends upon developmental systems capable of preserving viability-oriented organisation across generations despite continual environmental and historical change.
+evolution depends upon developmental systems capable of preserving viability-oriented organisation across generations despite continual environmental and historical change.
 
 Developmental organisation influences:
 
@@ -348,3 +348,4 @@ Living systems therefore remain continuous not because they resist change, but b
 Development consequently becomes one of the central explanatory concepts within APS because it reveals how biological persistence is continually organised across time.
 
 Development as organised persistence therefore links individuality, ecology, resilience, evolution, temporal organisation, and viability into a unified explanatory framework for understanding living systems.
+

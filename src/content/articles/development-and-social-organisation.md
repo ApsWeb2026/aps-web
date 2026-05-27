@@ -46,7 +46,7 @@ relatedArticles:
   - cognition-and-biological-organisation
   - semiosis-and-biological-organisation
   - information-in-biology
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
   - representation-and-biological-organisation
   - evolution-and-organised-persistence
   - the-developmental-organisation-of-life
@@ -419,7 +419,7 @@ This perspective links development directly to:
 - fragility,
 - and organisational breakdown.
 
-## Development, Social Organisation, and Evolution
+## Development, Social Organisation, and evolution
 
 Human evolution increasingly depends upon socially organised continuity systems.
 
@@ -455,3 +455,4 @@ APS interprets human development as:
 This perspective shifts explanation away from isolated individual development and toward the distributed continuity systems through which human persistence becomes socially organised across generations.
 
 Human development persists not within isolated organisms alone, but through socially organised continuity architectures extending across language, institutions, technologies, symbolic systems, and collective forms of life.
+

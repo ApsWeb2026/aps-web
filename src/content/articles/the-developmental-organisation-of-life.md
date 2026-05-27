@@ -65,7 +65,7 @@ references:
   - id: bergson1911
     authors: "Bergson, H."
     year: 1911
-    title: "Creative Evolution"
+    title: "Creative evolution"
     publisher: "Macmillan"
 
   - id: whitehead1929
@@ -238,7 +238,7 @@ Developmental organisation consequently involves continual negotiation between c
 
 APS interprets this dynamic balance as central to biological persistence itself.
 
-## Development, Individuality, and Evolution
+## Development, Individuality, and evolution
 
 Biological individuality emerges developmentally.
 
@@ -246,7 +246,7 @@ Organisms become coherent individuals through the coordinated integration of dev
 
 Development also connects directly to evolutionary continuity.
 
-Evolution proceeds through historically persistent developmental organisations capable of reproducing viable continuity across generations. Developmental organisation therefore shapes:
+evolution proceeds through historically persistent developmental organisations capable of reproducing viable continuity across generations. Developmental organisation therefore shapes:
 
 - inheritance,
 - adaptability,
@@ -269,3 +269,4 @@ Life is no longer understood as the expression of static structures, encoded blu
 Development is therefore not merely something organisms undergo.
 
 Developmental organisation constitutes the very possibility of life itself.
+

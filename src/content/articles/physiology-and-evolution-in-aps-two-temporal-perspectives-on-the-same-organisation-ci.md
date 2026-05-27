@@ -1,6 +1,6 @@
 ---
 date: 2026-04-16
-title: "Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation"
+title: "Physiology and evolution in APS — Two Temporal Perspectives on the Same Biological Organisation"
 slug: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 
 abstract: >
@@ -21,7 +21,7 @@ cluster: conceptual-foundations
 keyPoints:
   - Physiology and evolution are different temporal perspectives on the same viability-oriented organised persistence.
   - Physiology concerns the present-time regulation of continuity.
-  - Evolution concerns the historical transformation of continuity across generations.
+  - evolution concerns the historical transformation of continuity across generations.
   - Both physiology and evolution presuppose organised persistence.
   - APS integrates present regulation and historical transformation within a unified explanatory framework.
   - Biological explanation requires continuity analysis across interacting temporal scales.
@@ -46,7 +46,7 @@ relatedArticles:
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - scale-time-persistence
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - ecology-as-organised-persistence-across-scales
   - adaptation-how-living-systems-sustain-themselves-through-change
   - diagnosis-as-continuity-analysis
@@ -78,7 +78,7 @@ references:
     source: "Springer"
 ---
 
-# Physiology and Evolution in APS
+# Physiology and evolution in APS
 
 > **Where this article fits:** This article develops the APS integration of physiology and evolution as temporally differentiated expressions of the same viability-oriented organised persistence. Physiology concerns the real-time maintenance of continuity, while evolution concerns the historical transformation of continuity across generations. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence* and *Persistence — Organised Continuity Through Time*.
 
@@ -91,7 +91,7 @@ Physiology explains how organisms function in the present:
 - coordinate behaviour
 - and sustain viability through ongoing activity
 
-Evolution explains how organisms transform historically:
+evolution explains how organisms transform historically:
 - how variation emerges
 - how continuity is transmitted across generations
 - how populations change
@@ -101,7 +101,7 @@ These domains are often treated as fundamentally separate.
 
 Physiology concerns present function.
 
-Evolution concerns historical change.
+evolution concerns historical change.
 
 Yet both ultimately address the same underlying question:
 
@@ -141,7 +141,7 @@ This difference in timescale has often produced a conceptual separation between:
 
 Physiology becomes associated with immediate mechanism.
 
-Evolution becomes associated with historical cause.
+evolution becomes associated with historical cause.
 
 While this distinction remains useful analytically, APS argues that it can obscure a deeper continuity.
 
@@ -169,7 +169,7 @@ It is actively sustained through:
 
 Physiology explains how such persistence is maintained moment by moment.
 
-Evolution also depends upon persistence.
+evolution also depends upon persistence.
 
 For evolutionary transformation to occur, there must already exist systems capable of:
 - surviving
@@ -211,9 +211,9 @@ Physiology is therefore not merely the operation of mechanisms.
 
 It is the ongoing enactment of viability-oriented organised persistence in the present.
 
-# Evolution as the Historical Transformation of Continuity
+# evolution as the Historical Transformation of Continuity
 
-Evolution concerns the long-term transformation of organised persistence across generations.
+evolution concerns the long-term transformation of organised persistence across generations.
 
 Living systems:
 - diversify
@@ -222,7 +222,7 @@ Living systems:
 - modify ecological relations
 - and transform continuity structures historically
 
-Evolution therefore does not merely describe change.
+evolution therefore does not merely describe change.
 
 It explains how viability-oriented organisation transforms while continuity remains possible.
 
@@ -232,7 +232,7 @@ Living systems therefore persist evolutionarily:
 
 > through transformation rather than despite it.
 
-Evolution consequently becomes the historical dimension of organised persistence itself.
+evolution consequently becomes the historical dimension of organised persistence itself.
 
 # One Organisation Across Multiple Timescales
 
@@ -341,7 +341,7 @@ Both concern:
 
 Physiology and evolution therefore become organisationally continuous rather than explanatorily disconnected.
 
-# Physiology, Evolution, and Adaptation
+# Physiology, evolution, and Adaptation
 
 Adaptation links physiology and evolution directly.
 
@@ -400,7 +400,7 @@ within a unified organisational grammar of continuity-producing persistence.
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Evolution Continuity Visual.</strong>
+    <strong>evolution Continuity Visual.</strong>
     APS explains evolutionary continuity as the historical regeneration and transformation of viable organisation across generations through adaptation, inheritance, ecological interaction, and differential continuity.
   </p>
 </div>
@@ -436,7 +436,7 @@ They are two temporal perspectives on the same viability-oriented organised pers
 
 Physiology concerns the present-time regulation of continuity.
 
-Evolution concerns the historical transformation of continuity across generations.
+evolution concerns the historical transformation of continuity across generations.
 
 Both presuppose living systems capable of sustaining organised persistence through time.
 
@@ -459,7 +459,7 @@ Living systems consequently persist:
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
 - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity](/articles/scale-time-persistence/)*
@@ -467,3 +467,4 @@ Living systems consequently persist:
 # Key Terms
 
 physiology · evolution · persistence · continuity · viability · temporal organisation · adaptation · scale · agency · organised persistence
+

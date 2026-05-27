@@ -423,3 +423,4 @@ These questions require an account of viability-oriented organisation itself.
 Life is not the processing of information.
 
 Information processing is one of the ways organised life coordinates and sustains itself.
+

@@ -62,7 +62,7 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     publisher: "Princeton University Press"
 
   - id: west2003
@@ -290,3 +290,4 @@ Organisms therefore do not develop through isolated internal mechanisms alone.
 They persist through organised developmental continuity maintained across ecological, behavioural, social, and symbiotic systems that scaffold viability across multiple scales of organisation.
 
 Developmental scaffolding consequently becomes one of the central explanatory concepts linking development, ecology, resilience, cognition, social organisation, and evolutionary continuity within the broader APS framework.
+

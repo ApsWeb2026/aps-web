@@ -50,7 +50,7 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
   - ecology-as-organised-persistence-across-scales
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - explanatory-geometry-of-biology
   - how-to-diagnose-a-biological-system
@@ -400,11 +400,11 @@ APS consequently interprets diagnosis partly as:
 
 Diagnostic meaning emerges because living systems are organised around viability-oriented continuity.
 
-# Diagnosis and Evolution
+# Diagnosis and evolution
 
 Diagnostic organisation is historically shaped.
 
-Evolution contributes to:
+evolution contributes to:
 - vulnerability structures;
 - adaptive capacities;
 - developmental constraints;
@@ -506,10 +506,11 @@ into:
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
 - *[Malfunction](/glossary/malfunction/)*
 
 # Key Terms
 
 diagnosis · continuity · perturbation · resilience · malfunction · viability · persistence · adaptation · temporality · organisation · ecological coupling
+

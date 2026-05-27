@@ -52,7 +52,7 @@ references:
   - id: bergson1911
     authors: "Bergson, H."
     year: 1911
-    title: "Creative Evolution"
+    title: "Creative evolution"
     publisher: "Macmillan"
 
   - id: whitehead1929
@@ -262,3 +262,4 @@ Living systems persist not because they resist change, but because developmental
 Development is therefore intrinsically temporal.
 
 Living organisation does not merely unfold in time. Rather, temporally organised continuity constitutes the very possibility of biological persistence itself.
+

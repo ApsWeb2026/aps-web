@@ -113,7 +113,7 @@ references:
   - id: walsh2015
     authors: "Walsh, D. M."
     year: 2015
-    title: "Organisms, Agency, and Evolution"
+    title: "Organisms, Agency, and evolution"
     publisher: "Cambridge University Press"
 
   - id: spencer2026
@@ -392,3 +392,4 @@ Their activity is directed because persistence is conditional, fragile, and acti
 Biological goals are therefore not thoughts about the future.
 
 They are the organised conditions through which life continues.
+

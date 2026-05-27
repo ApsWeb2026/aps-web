@@ -306,3 +306,5 @@ It is part of the explanatory architecture required for living systems to become
 ## Key Point
 
 APS distinguishes descriptive, explanatory, and definitional uses of biological language in order to stabilise biological explanation and re-anchor explanatory meaning in viability-oriented organisation rather than outcomes, abstractions, or metaphorical shorthand.
+
+

@@ -52,7 +52,7 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
   - ecology-as-organised-persistence-across-scales
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - diagnosis-as-continuity-analysis
   - organisational-realism-in-biology
 

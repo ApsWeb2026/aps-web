@@ -200,13 +200,13 @@ does not explain:
 
 APS therefore redirects explanation away from emergence itself and toward the organisational processes through which living systems sustain and transform themselves.
 
-## Emergence and Evolution
+## Emergence and evolution
 
 Emergence is often used in evolutionary contexts to describe the appearance of new traits, forms, or organisational capacities.
 
 APS reframes this issue by distinguishing appearance from transformation.
 
-Evolution does not generate organisation out of arbitrary material activity.
+evolution does not generate organisation out of arbitrary material activity.
 It transforms already existing viability-oriented organisation through:
 - variation,
 - differential persistence,
@@ -314,3 +314,5 @@ APS therefore reframes emergence not as an explanatory endpoint, but as a descri
 ## Key Point
 
 In APS, what is often called emergence is the ongoing formation and transformation of viability-oriented, constraint-closed organisation across scale and time rather than the appearance of unexplained higher-order properties.
+
+

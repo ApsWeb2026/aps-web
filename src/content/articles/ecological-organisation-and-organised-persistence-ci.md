@@ -1,7 +1,7 @@
 ---
 date: 2026-05-15
 title: "Ecological Organisation and Organised Persistence"
-slug: ecological-organisation-and-organised-persistence
+slug: ecological-organisation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
@@ -33,7 +33,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - developmental-organisation-and-organised-persistence
   - explanatory-geometry-of-biology
   - what-counts-as-an-evolutionary-explanation
@@ -55,7 +55,7 @@ references:
   - id: odling-smee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     source: "Princeton University Press"
 
   - id: gilbert2015
@@ -263,7 +263,7 @@ It emerges through organism–environment systems organised around viable persis
 
 Ecological organisation contributes directly to how living systems sustain persistence under changing conditions.
 
-# Ecology and Evolution
+# Ecology and evolution
 
 Evolutionary processes are inseparable from ecological organisation.
 
@@ -282,7 +282,7 @@ Living systems modify ecological conditions through:
 
 Ecological organisation therefore contributes directly to evolutionary trajectories.
 
-Evolution is not simply the transformation of organisms within static environments.
+evolution is not simply the transformation of organisms within static environments.
 
 It is the historical transformation of interacting organism–environment systems distributed across ecological and developmental relations.
 
@@ -419,7 +419,7 @@ Ecology therefore becomes intrinsic to biological explanation itself.
 - *[Organism–Environment Coupling](/glossary/organism-environment-coupling/)*
 - *[Ecological Organisation](/glossary/ecological-organisation/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Developmental Organisation and Organised Persistence](/articles/developmental-organisation-and-organised-persistence/)*
 
 ---
@@ -427,3 +427,5 @@ Ecology therefore becomes intrinsic to biological explanation itself.
 ## Key Terms
 
 ecology · persistence · viability · coupling · development · adaptation · evolution · ecological organisation · scale · agency · continuity
+
+

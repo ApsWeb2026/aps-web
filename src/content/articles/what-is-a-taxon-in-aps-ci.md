@@ -110,3 +110,5 @@ Different classificatory schemes may emphasise different aspects of this continu
 ## Key Point
 
 APS reframes the taxon as a **classificatory designation of a pattern of viability-oriented, constraint-closed organisation that persists and transforms across time and scale**, rather than as a static group defined by traits or ancestry alone.
+
+

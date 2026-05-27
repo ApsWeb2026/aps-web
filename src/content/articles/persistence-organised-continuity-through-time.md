@@ -117,7 +117,7 @@ Development reorganises structure.
 
 Ecological relations shift continuously.
 
-Evolution transforms populations across generations.
+evolution transforms populations across generations.
 
 Yet continuity remains.
 
@@ -357,3 +357,4 @@ Persistence is not static endurance, equilibrium, or mere survival.
 It is the temporally organised continuity through which viability-oriented systems maintain themselves across changing conditions.
 
 Within APS, persistence therefore becomes one of the deepest organising principles of biological explanation itself.
+

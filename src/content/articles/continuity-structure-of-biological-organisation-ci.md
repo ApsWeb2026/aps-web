@@ -43,7 +43,7 @@ relatedArticles:
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
   - aps-architecture-map
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - why-cognition-cannot-be-separated-from-organised-persistence
   - scale-time-persistence
   - aps-as-philosophy-viability-oriented-account
@@ -209,7 +209,7 @@ Biological continuity is maintained organisationally through ongoing activity ra
 
 # Evolutionary Continuity
 
-Evolution extends organised persistence historically across generations.
+evolution extends organised persistence historically across generations.
 
 Evolutionary continuity does not consist merely in statistical change within populations. It consists in the historical transformation of viability-oriented organisation across lineages and timescales.
 
@@ -241,7 +241,7 @@ Fitness contributes to differential historical stabilisation.
 
 Natural selection explains differential continuity among persistence trajectories.
 
-Evolution describes the long-term historical transformation of organised persistence itself.
+evolution describes the long-term historical transformation of organised persistence itself.
 
 APS therefore approaches evolution as continuity transformation rather than mere statistical accumulation.
 
@@ -399,7 +399,7 @@ Persistence grounds adaptation.
 
 Adaptation contributes to evolution.
 
-Evolution transforms evaluative and semiosic organisation historically.
+evolution transforms evaluative and semiosic organisation historically.
 
 Semiosis grounds cognition.
 
@@ -432,7 +432,7 @@ It emerges through recursively organised relations in which:
 - constraints regulate processes;
 - and organisation preserves viability across time.
 
-Evolution transforms these relations historically.
+evolution transforms these relations historically.
 
 Adaptation reorganises them dynamically.
 
@@ -530,3 +530,4 @@ APS therefore organises biology through interconnected continuity structures lin
 within a unified explanatory framework.
 
 Biological explanation consequently becomes the analysis of how organised persistence is sustained, transformed, coordinated, and historically extended across interacting scales and timescales of living organisation.
+

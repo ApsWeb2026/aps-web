@@ -182,3 +182,5 @@ These are not independent questions, but successive expressions of a single fram
 - The same explanatory relations apply across physiology, evolution, and cognition.  
 - APS integrates biological domains by focusing on relations of organisation rather than categories of objects.  
 - The framework functions as a research program by providing a consistent structure for formulating and evaluating explanations.  
+
+

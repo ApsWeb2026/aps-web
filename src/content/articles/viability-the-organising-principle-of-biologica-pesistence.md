@@ -318,3 +318,4 @@ Viability is not passive survival, equilibrium, or static maintenance.
 It is the temporally organised, continuity-producing activity through which living systems maintain themselves as coherent biological organisations across time.
 
 Within APS, viability therefore functions as the organising principle of biological persistence.
+

@@ -48,7 +48,7 @@ The following table summarises how APS reframes key biological concepts:
 | **Teleology / Purpose** | External or metaphorical | Bioteleology: immanent viability-orientation | Naturalises purposiveness |
 | **Cognition** | Neural or representational | Viability-oriented evaluative organisation | Extends cognition beyond neurons while distinguishing biological cognition from externally maintained optimisation |
 | **Adaptation** | Trait change via selection | Reorganisation of constraint-closed processes | Unifies development and evolution |
-| **Evolution** | Genetic change over time | Historical dimension of agency | Evolution as extended activity |
+| **evolution** | Genetic change over time | Historical dimension of agency | evolution as extended activity |
 | **Individuality** | Genetic or morphological unity | Constraint-closed coherence | Recognises graded individuality |
 | **Function** | Selected effect | Contribution to maintaining viability | Function becomes real-time and normative |
 | **Environment** | External context | Co-constituted dimension of process | Dissolves inside–outside dichotomy |
@@ -92,7 +92,7 @@ APS instead treats biological systems as **ongoing processes**:
 - Life is not a state but an activity  
 - Function is not a label but a contribution to persistence  
 - Adaptation is not a historical outcome but present-tense reorganisation  
-- Evolution is not merely change, but the long-term transformation of organised activity  
+- evolution is not merely change, but the long-term transformation of organised activity  
 
 This processual framing aligns biological explanation with the reality that living systems exist only through continuous activity.
 
@@ -141,7 +141,7 @@ APS is not a collection of independent concepts. It is a **constraint-closed con
 - Agency depends on viability-oriented organisation  
 - Function depends on contribution to persistence  
 - Normativity arises from viability conditions  
-- Evolution depends on organised continuity  
+- evolution depends on organised continuity  
 
 This interdependence mirrors the organisation of the systems APS describes.
 
@@ -160,3 +160,5 @@ By grounding life, agency, function, and evolution in the dynamics of constraint
 ## Key Point
 
 APS reorganises the core concepts of biology within a unified explanatory grammar grounded in viability-oriented, constraint-closed organisation—transforming familiar categories into coordinated expressions of living systems in action.
+
+

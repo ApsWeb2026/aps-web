@@ -63,13 +63,13 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: maynardsmithszathmary1995
     authors: "Maynard Smith, J. & Szathmáry, E."
     year: 1995
-    title: "The Major Transitions in Evolution"
+    title: "The Major Transitions in evolution"
     publisher: "Oxford University Press"
 
   - id: sterelny2012
@@ -272,7 +272,7 @@ Temporally organised developmental systems influence:
 - selection pressures,
 - and evolutionary trajectories.
 
-Evolution therefore acts not solely upon isolated traits or static organisms, but upon temporally organised developmental systems capable of sustaining viable continuity across changing conditions.
+evolution therefore acts not solely upon isolated traits or static organisms, but upon temporally organised developmental systems capable of sustaining viable continuity across changing conditions.
 
 APS consequently interprets evolution and development as deeply interconnected organisational processes.
 
@@ -291,3 +291,4 @@ Within APS:
 Living systems therefore remain organisationally continuous not because they resist developmental change, but because developmental organisation preserves viability across transformation.
 
 Life cycles consequently become one of the central explanatory concepts linking development, individuality, ecology, resilience, temporal organisation, and evolution within the broader APS framework.
+

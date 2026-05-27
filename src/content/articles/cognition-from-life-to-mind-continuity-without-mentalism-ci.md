@@ -138,3 +138,4 @@ These distinctions do not mark sharp breaks. They track increasing organisationa
 Cognition, in APS terms, is the structured, constraint-sensitive organisation through which living systems differentiate and regulate viability-relevant differences.
 
 It is continuous with life itself and elaborated—rather than created—in the emergence of mind.
+

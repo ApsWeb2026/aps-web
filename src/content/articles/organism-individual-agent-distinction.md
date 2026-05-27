@@ -131,3 +131,5 @@ APS does not multiply entities. It clarifies perspectives.
 Organism, individual, and agent are not three kinds of things. They are three ways of understanding the same viability-oriented, constraint-closed organisation.
 
 **Key Point.** The organism is organisation, the agent is activity, and the individual is persistence—three inseparable aspects of the same living system.
+
+

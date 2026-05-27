@@ -42,7 +42,7 @@ relatedArticles:
   - ecological-organisation
   - organism-environment-coupling
   - evolution
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
 
 references:
   - id: oyama1985
@@ -60,7 +60,7 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     publisher: "Princeton University Press"
 
   - id: sterelny2012
@@ -221,7 +221,7 @@ APS consequently interprets social organisation as one of the historically persi
 
 This perspective also connects developmental inheritance with broader APS discussions of cognition, semiosis, social organisation, and collective continuity.
 
-## Developmental Inheritance and Evolution
+## Developmental Inheritance and evolution
 
 Developmental inheritance also influences evolutionary continuity.
 
@@ -233,7 +233,7 @@ Inherited developmental conditions may:
 - influence evolvability,
 - and preserve historically successful organisational patterns.
 
-Evolution therefore acts not solely upon isolated genes, but upon broader developmental systems capable of sustaining viability-oriented continuity across generations.
+evolution therefore acts not solely upon isolated genes, but upon broader developmental systems capable of sustaining viability-oriented continuity across generations.
 
 APS consequently interprets evolution and development as organisationally interconnected processes.
 
@@ -275,3 +275,4 @@ Inheritance therefore cannot be reduced solely to the transmission of isolated g
 Living systems persist because developmental viability is maintained through historically continuous organisational relations extending across ecological, behavioural, social, and developmental systems.
 
 Developmental inheritance consequently becomes one of the central explanatory concepts linking development, ecology, evolution, resilience, cognition, and historical continuity within the broader APS framework.
+

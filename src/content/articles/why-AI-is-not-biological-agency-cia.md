@@ -111,7 +111,7 @@ references:
   - id: walsh-2015
     authors: "Walsh, D. M."
     year: 2015
-    title: "Organisms, Agency, and Evolution"
+    title: "Organisms, Agency, and evolution"
     publisher: "Cambridge University Press"
 
   - id: spencer-2026
@@ -358,3 +358,4 @@ But biological agency depends not simply upon what systems do, but upon how they
 Living systems exist through endogenous viability-oriented organisation sustained across time. Contemporary AI systems overwhelmingly do not.
 
 That distinction remains foundational for APS.
+

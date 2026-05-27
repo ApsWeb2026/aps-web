@@ -371,7 +371,7 @@ As APS develops, additional concepts increasingly function as mutually constrain
 - Agency explains viability-oriented modulation.
 - Evaluation and semiosis explain how differences become biologically meaningful.
 - Cognition emerges through increasingly integrated and temporally extended evaluative organisation.
-- Evolution explains the historical transformation of organised persistence across generations.
+- evolution explains the historical transformation of organised persistence across generations.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -722,7 +722,7 @@ Cognition becomes a specialised development within organised persistence rather 
 
 Intelligence and consciousness emerge only within increasingly integrated forms of cognition already grounded in viability-oriented organisation.
 
-Evolution becomes the historical transformation of persistence across generations rather than change imposed upon fundamentally static entities.
+evolution becomes the historical transformation of persistence across generations rather than change imposed upon fundamentally static entities.
 
 Biological intelligibility therefore depends upon understanding how living systems sustain themselves as organised continuities across time and scale.
 
@@ -767,3 +767,5 @@ Its aim is not to replace existing biological approaches, but to clarify their o
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
 - *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+

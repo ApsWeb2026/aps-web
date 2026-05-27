@@ -39,8 +39,8 @@ relatedGlossaryTerms:
 relatedArticles:
   - developmental-organisation-and-organised-persistence
   - ecology-as-organised-persistence-across-scales
-  - ecological-organisation-and-organised-persistence
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - ecological-organisation
+  - evolution
   - diagnosis-as-continuity-analysis
   - explanatory-geometry-of-biology
   - understanding-aps-the-structure-of-the-framework
@@ -51,7 +51,7 @@ references:
   - id: bergson1911
     authors: "Bergson, H."
     year: 1911
-    title: "Creative Evolution"
+    title: "Creative evolution"
     source: "Henry Holt and Company"
 
   - id: prigogine1984
@@ -217,7 +217,7 @@ Diagnosis becomes possible because continuity possesses organisation.
 
 Resilience becomes intelligible because continuity can reorganise under perturbation.
 
-Evolution becomes intelligible because persistence remains historically continuous while simultaneously transforming across generations.
+evolution becomes intelligible because persistence remains historically continuous while simultaneously transforming across generations.
 
 Temporal organisation therefore unifies multiple explanatory domains within APS.
 
@@ -326,9 +326,9 @@ Ecological organisation unfolds through temporally structured relations across o
 
 Organism and environment therefore co-organise continuity across time through ongoing reciprocal interaction.
 
-# Evolution and Historical Continuity
+# evolution and Historical Continuity
 
-Evolution is historical temporal organisation.
+evolution is historical temporal organisation.
 
 Living systems transform persistence across generations through:
 - inheritance;
@@ -338,13 +338,13 @@ Living systems transform persistence across generations through:
 - ecological interaction;
 - and natural selection.
 
-Evolution therefore depends upon continuity across deep temporal scales.
+evolution therefore depends upon continuity across deep temporal scales.
 
 Evolutionary explanation must account not merely for change, but for how organised persistence remains historically continuous while simultaneously transforming across time.
 
 Historical continuity is therefore constitutive of evolutionary organisation itself.
 
-Evolution becomes intelligible through continuity across transformation.
+evolution becomes intelligible through continuity across transformation.
 
 APS therefore approaches evolution not as disconnected episodic change, but as the historical transformation of organised persistence itself.
 
@@ -501,7 +501,7 @@ It is intrinsic to how organised persistence continuously regenerates viable con
 
 - *[Developmental Organisation and Organised Persistence](/articles/developmental-organisation-and-organised-persistence/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
@@ -511,3 +511,4 @@ It is intrinsic to how organised persistence continuously regenerates viable con
 ## Key Terms
 
 temporality · continuity · organised continuity · persistence · transformation · development · adaptation · evolution · resilience · organisation · process · scale · historical continuity
+

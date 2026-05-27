@@ -34,14 +34,14 @@ relatedGlossaryTerms:
   - evolution
 
 relatedArticles:
-  - organism-environment-coupling-and-organised-persistence
+  - organism-environment-coupling
   - developmental-organisation-and-organised-persistence
   - multiscale-evolution-and-organised-persistence
   - temporal-organisation-and-organised-persistence
   - biological-classification-in-aps
   - what-is-a-species-in-aps
   - what-is-a-taxon-in-aps
-  - processual-individual-in-aps
+  - processual-individuality
 
 references:
   - id: godfrey-smith2009
@@ -59,7 +59,7 @@ references:
   - id: quellerstrassmann2009
     authors: "Queller, D. C., & Strassmann, J. E."
     year: 2009
-    title: "Beyond Society: The Evolution of Organismality"
+    title: "Beyond Society: The evolution of Organismality"
     journal: "Philosophical Transactions of the Royal Society B"
     volume: "364"
     pages: "3143–3155"
@@ -290,7 +290,7 @@ Examples include:
 - reproductive coordination,
 - and highly organised collective systems.
 
-Evolution therefore transforms not only traits or populations but the organisational structure of individuality itself.
+evolution therefore transforms not only traits or populations but the organisational structure of individuality itself.
 
 Evolutionary individuality is historically generated and reorganised through developmental, ecological, and multiscale processes.
 
@@ -424,3 +424,5 @@ APS situates individuality within a unified explanatory framework organised thro
 Evolutionary individuality is therefore not a static biological category.
 
 It is a dynamically organised form of viable persistence sustained across time.
+
+

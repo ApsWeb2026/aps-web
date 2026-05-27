@@ -61,7 +61,7 @@ references:
   - id: odlingsmee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     publisher: "Princeton University Press"
 
   - id: west2003
@@ -260,7 +260,7 @@ By stabilising developmental organisation across generations, developmental nich
 - influence evolvability,
 - and maintain historically persistent organisational patterns.
 
-Evolution therefore acts not only upon isolated organisms or genes, but upon broader developmental systems sustaining viable organisation across time.
+evolution therefore acts not only upon isolated organisms or genes, but upon broader developmental systems sustaining viable organisation across time.
 
 APS consequently interprets evolution and development as deeply interconnected organisational processes.
 
@@ -280,3 +280,4 @@ Within APS:
 Development therefore becomes a historically organised process sustained through relational systems that preserve viability-oriented continuity across time.
 
 Developmental niches consequently become one of the central explanatory concepts linking development, ecology, inheritance, cognition, resilience, social organisation, and evolution within the broader APS framework.
+

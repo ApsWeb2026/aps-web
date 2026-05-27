@@ -48,7 +48,7 @@ relatedArticles:
   - aps-as-philosophy-viability-oriented-account
   - why-aps-reframes-biology
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - multiple-realization-and-biological-organisation
   - organisational-realism-in-biology
   - cognition-where-does-it-belong-in-biology
@@ -60,7 +60,7 @@ references:
   - id: levins1968
     authors: "Levins, R."
     year: 1968
-    title: "Evolution in Changing Environments"
+    title: "evolution in Changing Environments"
     source: "Princeton University Press"
 
   - id: odum1971
@@ -482,7 +482,7 @@ APS consequently approaches ecology as:
 
 > constraint-structured continuity within distributed organised persistence.
 
-# Ecology, Evolution, and Persistence
+# Ecology, evolution, and Persistence
 
 APS also integrates ecology and evolution more closely than many traditional frameworks.
 
@@ -593,10 +593,11 @@ Ecology therefore becomes one of the clearest demonstrations of the central APS 
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
 - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[Evolution as the Historical Transformation of Organised Persistence](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 - *[Why APS Is Not Holism?](/articles/why-aps-is-not-holism/)*
 
 # Key Terms
 
 ecology · coupling · persistence · resilience · semiosis · continuity · organisation · scale · agency · viability · organism–environment relations · temporal organisation
+

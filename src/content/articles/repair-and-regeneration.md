@@ -89,7 +89,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: kupiec2024
@@ -392,11 +392,11 @@ Regenerative fragility therefore becomes an important explanatory window into th
 
 This perspective strongly links repair and regeneration with APS discussions of diagnosis, malfunction, resilience, and developmental fragility.
 
-## Repair, Regeneration, and Evolution
+## Repair, Regeneration, and evolution
 
 Repair and regenerative capacities vary substantially across organisms and evolutionary lineages.
 
-Evolution shapes:
+evolution shapes:
 
 - regenerative potential,
 - developmental flexibility,
@@ -437,3 +437,4 @@ Repair restores viability-oriented continuity through adaptive developmental reo
 Living systems persist not because disruption never occurs, but because biological organisation remains capable of restoring continuity across injury, instability, and change.
 
 Repair and regeneration are therefore central expressions of organised persistence across time.
+

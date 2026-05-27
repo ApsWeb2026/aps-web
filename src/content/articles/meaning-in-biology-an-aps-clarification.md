@@ -409,3 +409,4 @@ Meaning therefore begins not with symbols, but where differences become integrat
 ## Key Terms
 
 meaning · semiosis · evaluation · continuity · temporality · viability · cognition · representation · information · persistence
+

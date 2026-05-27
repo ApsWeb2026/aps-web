@@ -1,6 +1,6 @@
 ---
 date: 2026-04-09
-title: Agency, Evolution, and the Architecture of Biological Explanation
+title: Agency, evolution, and the Architecture of Biological Explanation
 slug: biological-agency-evolution-and-the-architecture-of-biological-explanation
 abstract: "This article examines how APS relates biological agency, evolution, and explanatory structure within a unified account of biological organisation."
 status: canonical
@@ -26,7 +26,7 @@ As a result, evolutionary theory often adopted the formulation that natural sele
 
 This interpretation successfully removed the need for external design in explaining biological adaptation. However, it also encouraged a tendency to treat purposive language as merely heuristic or metaphorical.
 
-In recent decades, theoretical biology has increasingly recognised that this interpretation leaves an essential feature of living systems underarticulated. Evolution explains how adaptive organisation arises historically, but living systems must also continuously maintain and regulate their organisation in the present. Metabolism, regulation, development, and ecological interaction together sustain organised persistence despite continual material turnover and environmental change.
+In recent decades, theoretical biology has increasingly recognised that this interpretation leaves an essential feature of living systems underarticulated. evolution explains how adaptive organisation arises historically, but living systems must also continuously maintain and regulate their organisation in the present. Metabolism, regulation, development, and ecological interaction together sustain organised persistence despite continual material turnover and environmental change.
 
 From this perspective, natural selection does not simply explain the appearance of purpose. Rather, evolutionary processes shape the organisational architectures through which living systems sustain their own persistence.
 
@@ -66,9 +66,9 @@ This integration is captured in the explanatory grammar of APS:
 
 These are not separate domains but analytically distinct aspects of a single biological reality: living systems sustain themselves, change through time, and do so across interacting spatial and temporal scales.
 
-## Reintegrating Organisation and Evolution
+## Reintegrating Organisation and evolution
 
-From this perspective, organisation and evolution are not competing explanatory frameworks but complementary aspects of a unified theoretical architecture. Evolution explains how persistence-sustaining organisation is transformed, while the organised activity of living systems provides the conditions under which evolutionary processes occur.
+From this perspective, organisation and evolution are not competing explanatory frameworks but complementary aspects of a unified theoretical architecture. evolution explains how persistence-sustaining organisation is transformed, while the organised activity of living systems provides the conditions under which evolutionary processes occur.
 
 The Agency–Process–Scale framework makes this relationship explicit by interpreting agency as viability-oriented organisation, process as the transformation of that organisation across time, and scale as the domain across which these dynamics unfold.
 
@@ -77,3 +77,5 @@ The historical trajectory of biology can therefore be understood as an ongoing e
 ## Key Point
 
 **Biological explanation integrates two inseparable dimensions: the organisation through which living systems sustain themselves and the processes through which this organisation is transformed across time.**
+
+

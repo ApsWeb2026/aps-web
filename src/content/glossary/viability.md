@@ -36,7 +36,7 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - how-to-diagnose-a-biological-system
   - scale-time-persistence
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - adaptation-how-living-systems-sustain-themselves-through-change
   - perturbation-reveals-organisation
 
@@ -295,7 +295,7 @@ Viability specifies the organisational conditions under which living systems can
 - *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
 - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[What Is Evolution in APS?](/articles/evolution-as-the-historical-transformation-of-organised-persistence/)*
+- *[What Is Evolution in APS?](/articles/evolution/)*
 
 ### Diagnosis and Perturbation
 

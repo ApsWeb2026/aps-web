@@ -12,7 +12,7 @@ keyPoints:
   - Genes depend on living systems to function; they do not sustain themselves.
   - Biological organisation maintains the conditions under which genetic processes are possible.
   - Viability-oriented activity, not replication, is the defining feature of life.
-  - Evolution reflects the transformation of organised persistence, not the independent success of genes.
+  - evolution reflects the transformation of organised persistence, not the independent success of genes.
 relatedGlossaryTerms:
   - biological-agency
   - constraint-closure
@@ -157,13 +157,13 @@ In other words, genes function only within systems that are already alive.
 
 They do not, by themselves, create those systems. They operate within them.
 
-## Rethinking Evolution
+## Rethinking evolution
 
 It is tempting to imagine evolution as genes competing for replication.
 
 APS reframes this.
 
-Evolution is not adequately explained as the success of genes in isolation. It is the long-term transformation of organised, viability-oriented systems across generations.
+evolution is not adequately explained as the success of genes in isolation. It is the long-term transformation of organised, viability-oriented systems across generations.
 
 From this perspective:
 
@@ -224,3 +224,4 @@ They are part of a larger organisation—one that sustains itself, transforms ov
 
 **Key Point**  
 Life is not organised for DNA; DNA functions within viability-oriented organisation that sustains itself across time. In APS, purpose is not an externally imposed goal or a feature of genetic replication, but is grounded in the organisation of activity relative to viability.
+

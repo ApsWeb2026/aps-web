@@ -66,7 +66,7 @@ references:
   - id: ginsburg2019
     authors: "Ginsburg, S., & Jablonka, E."
     year: 2019
-    title: "The Evolution of the Sensitive Soul"
+    title: "The evolution of the Sensitive Soul"
     source: "MIT Press"
 
   - id: dennett2017
@@ -398,3 +398,4 @@ Living systems are viability-oriented, constraint-closed organisations whose con
 Intelligence may elaborate this organisation, but it does not define it.
 
 Life is more fundamental than intelligence because intelligence itself depends upon already existing organised persistence.
+

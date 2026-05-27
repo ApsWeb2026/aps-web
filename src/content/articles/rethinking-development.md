@@ -75,7 +75,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: nicholsondupre2018
@@ -291,11 +291,11 @@ This links development directly to:
 - resilience,
 - and death.
 
-## Development and Evolution
+## Development and evolution
 
 Development and evolution are deeply interconnected continuity processes.
 
-Development concerns persistence across the lifespan of organisms. Evolution concerns persistence across generations through historically organised developmental continuity.
+Development concerns persistence across the lifespan of organisms. evolution concerns persistence across generations through historically organised developmental continuity.
 
 Evolutionary processes depend upon the developmental reproduction of viable organisation across time. Developmental organisation simultaneously shapes:
 
@@ -320,3 +320,4 @@ Development instead becomes intelligible as a temporally organised continuity pr
 Living systems do not persist by resisting change.
 
 They persist by organising change in ways that preserve continuity across time.
+

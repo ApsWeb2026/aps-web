@@ -33,7 +33,7 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - ecology-as-organised-persistence-across-scales
 ---
 

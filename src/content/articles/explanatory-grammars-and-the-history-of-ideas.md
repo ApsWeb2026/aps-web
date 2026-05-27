@@ -153,3 +153,4 @@ Conceptual systems survive by stabilising explanatory coordination across genera
 APS does not reduce ideas to biology, nor does it treat conceptual systems as literally living organisms. Rather, it extends organisational analysis to the historical structures through which explanation itself becomes possible.
 
 Seen in this way, the history of ideas is not simply a history of beliefs. It is a history of changing explanatory grammars through which reality becomes intelligible.
+

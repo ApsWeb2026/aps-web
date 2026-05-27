@@ -113,7 +113,7 @@ Within the APS account of evolution:
 - Inheritance stabilises continuity  
 - Adaptation reorganises activity in the present  
 - Selection filters the consequences of variation  
-- Evolution describes the long-term transformation of organisation  
+- evolution describes the long-term transformation of organisation  
 
 Selection is one component of this framework, but it is not foundational. Its role is to **shape the trajectory of transformation**, not to generate the conditions under which transformation is possible.
 
@@ -135,8 +135,10 @@ Selection remains indispensable, but only when situated within a broader explana
 - Adaptation — How Living Systems Sustain Themselves Through Change  
 - Inheritance and Continuity in APS  
 - Variation in APS — Where Does Novelty Come From?  
-- What Is Evolution in APS?  
+- What Is evolution in APS?  
 
 ## Key Point
 
 Natural selection in APS is the differential filtering of viability-oriented organisation—it operates on systems capable of sustaining persistence, not on isolated components.
+
+

@@ -38,7 +38,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - continuity-structure-of-biological-organisation
   - diagnosis-as-continuity-analysis
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - why-cognition-cannot-be-separated-from-organised-persistence
   - explanatory-geometry-of-biology
   - scale-time-persistence

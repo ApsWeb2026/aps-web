@@ -83,7 +83,7 @@ Sharp boundaries would imply fixed organisational kinds, which is precisely what
 
 ## Species and evolution
 
-Evolution in APS is the long-term transformation of viability-oriented organisation through processes of inheritance and variation. Species are not the drivers of this process but recognisable outcomes within it.
+evolution in APS is the long-term transformation of viability-oriented organisation through processes of inheritance and variation. Species are not the drivers of this process but recognisable outcomes within it.
 
 Natural selection contributes by differentially filtering variation, but only within systems that already sustain organised persistence. Species therefore do not explain evolution; they are one way of tracking its historical structure.
 
@@ -98,3 +98,5 @@ Species remain indispensable for description and communication, but their explan
 ## Key Point
 
 In APS, species are **real, scale-relative lineage-patterns of organised persistence across time**, not fundamental units of life, agency, or evolution.
+
+

@@ -40,7 +40,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scale
   - continuity-structure-of-biological-organisation
   - diagnosis-as-continuity-analysis
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - scale-time-persistence
   - explanatory-geometry-of-biology
   - adaptation-how-living-systems-sustain-themselves-through-change

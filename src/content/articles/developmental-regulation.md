@@ -44,7 +44,7 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
   - evolution
-  - meaning-in-biology
+  - meaning-in-biology-an-aps-clarification
 
 references:
   - id: waddington1957
@@ -68,7 +68,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: nicholsondupre2018
@@ -416,3 +416,4 @@ This perspective shifts developmental explanation away from static program execu
 Development remains viable not because change is prevented, but because change is continuously regulated within continuity-preserving organisational structures.
 
 Living systems persist through regulated transformation across time.
+

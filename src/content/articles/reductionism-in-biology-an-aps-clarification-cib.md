@@ -113,7 +113,7 @@ In APS, viability-oriented, constraint-closed organisation possesses explanatory
 Function presupposes systems capable of persistence.
 Adaptation presupposes continuity across changing conditions.
 Inheritance presupposes stable organisational continuity.
-Evolution presupposes lineages capable of organised persistence across generations.
+evolution presupposes lineages capable of organised persistence across generations.
 
 Without organised persistence, none of these concepts possesses stable biological meaning.
 
@@ -227,3 +227,4 @@ The framework therefore preserves mechanistic biology while situating mechanisms
 ## Key Point
 
 APS distinguishes ontological dependence from explanatory priority: living systems are materially grounded, but biological intelligibility begins with viability-oriented organised persistence rather than with component analysis alone.
+

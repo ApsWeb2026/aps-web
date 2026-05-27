@@ -43,7 +43,7 @@ relatedArticles:
   - reductionism-in-biology-an-aps-clarification
   - why-aps-is-not-holism
   - why-aps-is-not-organicism
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - why-cognition-cannot-be-separated-from-organised-persistence
 
 references:
@@ -285,9 +285,9 @@ This tension has generated continuing debates concerning:
 
 APS emerges within this broader explanatory landscape.
 
-# Evolution and Historical Organisation
+# evolution and Historical Organisation
 
-Evolution transformed philosophy of biology profoundly.
+evolution transformed philosophy of biology profoundly.
 
 Darwin demonstrated that biological organisation has a historical dimension.
 
@@ -458,3 +458,5 @@ Readers wishing to pursue these themes further should continue through:
 - *[Organisational Realism in Biology](/articles/organisational-realism-in-biology/)*
 
 Philosophy of biology therefore matters not because biology lacks empirical success, but because biological success continually generates deeper questions about what living systems are and how they become intelligible scientifically.
+
+

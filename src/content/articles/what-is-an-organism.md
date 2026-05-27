@@ -69,7 +69,7 @@ In APS, these interactions are not external influences acting on a passive syste
 
 This perspective avoids both internalism and externalism. The organism is neither self-contained nor externally controlled. Instead, it is an internally organised system that sustains itself through structured engagement with its surroundings see [Organism–World Coupling — Why Agency Is Not Control](/articles/organism-world-coupling-agency-not-control/).
 
-## The Organism in Evolution
+## The Organism in evolution
 
 The organism plays a central role in evolution because it is the system that persists, reproduces, and varies. Evolutionary processes such as natural selection presuppose the existence of systems capable of maintaining organised persistence across generations.
 
@@ -92,3 +92,5 @@ These shifts provide a coherent way to approach biological phenomena that are di
 ## Key Point
 
 An organism is a viability-oriented, constraint-closed system whose integrated activity sustains the conditions of its own persistence.
+
+

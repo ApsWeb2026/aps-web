@@ -71,9 +71,9 @@ This integration is reflected in the conceptual grammar of the APS framework. Th
 
 In this interpretation, the development of biological theory can be seen as progressively clarifying the relationship between three inseparable aspects of life: the organised activity through which living systems sustain themselves, the processes through which that biological organisation changes historically, and the spatial and temporal scales across which these dynamics unfold.
 
-## Reintegrating Organisation and Evolution
+## Reintegrating Organisation and evolution
 
-From this perspective, biological biological organisation and evolutionary dynamics are not competing explanatory domains but complementary aspects of a unified theoretical architecture. Evolution explains how persistence-sustaining biological biological organisation is historically transformed, while the organised activity of living systems provides the conditions under which evolutionary processes can occur.
+From this perspective, biological biological organisation and evolutionary dynamics are not competing explanatory domains but complementary aspects of a unified theoretical architecture. evolution explains how persistence-sustaining biological biological organisation is historically transformed, while the organised activity of living systems provides the conditions under which evolutionary processes can occur.
 
 The Agency-Process-Scale framework makes this relationship explicit by interpreting biological biological agency as the viability-oriented biological organisation through which living systems sustain their persistence, evolutionary processes as the historical transformation of this biological organisation, and scale as the spatial and temporal domain across which these interactions unfold.
 
@@ -82,5 +82,7 @@ The long historical arc of biological theory can therefore be understood as an e
 ## Key Point
 
 **Biological theory rests on two complementary foundations: the persistence-sustaining biological organisation of living systems and the evolutionary processes that transform this biological organisation across time.**
+
+
 
 

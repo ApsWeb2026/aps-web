@@ -63,7 +63,7 @@ references:
   - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: nicholsondupre2018
@@ -264,3 +264,4 @@ Living systems persist only because developmental organisation ordinarily remain
 Developmental fragility therefore clarifies an essential APS insight:
 
 Living systems persist not because development is perfectly stable, but because continuity is dynamically reorganised within historically constrained ecological and developmental conditions.
+

@@ -110,7 +110,7 @@ APS therefore replaces the search for a privileged unit with an explanatory gram
 
 It also reframes causation. Rather than treating causation solely as the production of events, APS understands biological causation as the viability-oriented modulation of constraints within organised systems. Mechanistic interactions remain essential, but they are situated within organisation that sustains the conditions under which those interactions remain viable (see *Biological Causation — From Mechanism to Organised Persistence*).
 
-## Conceptual Symmetry with Evolution
+## Conceptual Symmetry with evolution
 
 The APS explanatory grammar reveals a structural alignment with evolutionary theory.
 
@@ -118,7 +118,7 @@ Agency corresponds to persistence: systems sustain their own viability
 Process corresponds to inheritance: organisation is reproduced through ongoing dynamics  
 Scale corresponds to transformation: change unfolds across domains  
 
-Evolution describes the transformation of organised persistence, while APS specifies the organisational conditions that make such transformation possible.
+evolution describes the transformation of organised persistence, while APS specifies the organisational conditions that make such transformation possible.
 
 ## Why This Grammar Matters
 
@@ -145,3 +145,4 @@ To see how this explanatory grammar is developed within the APS framework:
 - Read **[What Is APS?](/orientation/what-is-aps/)** for a concise introduction  
 - See **[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)** for how the framework is organised  
 - Explore the **[Glossary](/glossary/)** for precise definitions of core concepts  
+

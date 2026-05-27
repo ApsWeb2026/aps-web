@@ -661,3 +661,4 @@ The central aim of APS visual architecture is not graphical sophistication for i
 The governing principle of the APS visual system is therefore:
 
 > APS visuals should reveal the organised continuity of living systems while preserving interpretive clarity.
+

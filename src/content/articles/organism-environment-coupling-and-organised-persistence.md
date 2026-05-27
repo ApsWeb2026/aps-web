@@ -1,7 +1,7 @@
 ---
 date: 2026-05-15
 title: Organism–Environment Coupling and Organised Persistence
-slug: organism-environment-coupling-and-organised-persistence
+slug: organism-environment-coupling
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
@@ -33,7 +33,7 @@ relatedGlossaryTerms:
   - evolution
 
 relatedArticles:
-  - ecological-organisation-and-organised-persistence
+  - ecological-organisation
   - developmental-organisation-and-organised-persistence
   - temporal-organisation-and-organised-persistence
   - multiscale-evolution-and-organised-persistence
@@ -264,9 +264,9 @@ It emerges through reorganisation of coupled organism–environment systems.
 
 Persistence is sustained through dynamically reorganised coupling rather than static environmental accommodation.
 
-## Coupling and Evolution
+## Coupling and evolution
 
-Evolution transforms systems of organism–environment coupling historically.
+evolution transforms systems of organism–environment coupling historically.
 
 Variation,
 inheritance,
@@ -280,7 +280,7 @@ Living systems continuously modify:
 - ecological relations,
 - and persistence constraints.
 
-Evolution therefore cannot be reduced to isolated organisms adapting to static environments.
+evolution therefore cannot be reduced to isolated organisms adapting to static environments.
 
 Evolutionary transformation occurs through historically changing systems of organism–environment organisation distributed across interacting biological and ecological scales.
 
@@ -381,3 +381,5 @@ APS situates organism–environment coupling within a unified explanatory framew
 Organism–environment coupling is therefore not supplementary to biological explanation.
 
 It is constitutive of how organised persistence exists across living systems and their environments.
+
+

@@ -421,3 +421,4 @@ Only then does information emerge as part of organised biological activity.
 Information is therefore not what makes life possible.
 
 It is one of the ways organised life sustains itself through time.
+

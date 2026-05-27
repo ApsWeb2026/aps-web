@@ -39,13 +39,13 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - what-counts-as-a-biological-explanation
-  - description-is-not-explanation
+  - description-explanation-and-definition-in-biology
   - diagnosis-as-continuity-analysis
   - explanatory-grammar
   - biological-organisation
   - evolution-and-organised-persistence
-  - ecological-organisation-and-organised-persistence
-  - organism-environment-coupling-and-organised-persistence
+  - ecological-organisation
+  - organism-environment-coupling
   - biological-constraint-closure
   - rethinking-development
   - developmental-temporality
@@ -375,3 +375,4 @@ Living systems do not persist by resisting transformation.
 They persist by organising transformation in ways that preserve continuity across time.
 
 APS consequently interprets biological explanation as the analysis of organised persistence itself.
+

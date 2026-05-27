@@ -47,7 +47,7 @@ references:
   - id: west-eberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     publisher: "Oxford University Press"
 
   - id: gilbert2015
@@ -72,7 +72,7 @@ references:
     authors: "DeWitt, T. J., Sih, A., & Wilson, D. S."
     year: 1998
     title: "Costs and Limits of Phenotypic Plasticity"
-    journal: "Trends in Ecology & Evolution"
+    journal: "Trends in Ecology & evolution"
     volume: "13"
     pages: "77–81"
     doi: "10.1016/S0169-5347(97)01274-3"
@@ -273,7 +273,7 @@ Living systems actively reorganise persistence dynamically through plastic devel
 
 Plasticity is thus one major mechanism through which adaptive persistence becomes possible.
 
-## Plasticity and Evolution
+## Plasticity and evolution
 
 Developmental plasticity also contributes to evolutionary transformation.
 
@@ -405,3 +405,4 @@ within a unified explanatory framework organised through:
 - and scale.
 
 Developmental plasticity is therefore intrinsic to how organised persistence survives and transforms across changing biological conditions.
+

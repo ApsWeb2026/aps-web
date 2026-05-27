@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-title: Multiscale Evolution and Organised Persistence
+title: Multiscale evolution and Organised Persistence
 slug: multiscale-evolution-and-organised-persistence
 status: canonical
 canonical: true
@@ -52,19 +52,19 @@ references:
   - id: okasha2006
     authors: "Okasha, S."
     year: 2006
-    title: "Evolution and the Levels of Selection"
+    title: "evolution and the Levels of Selection"
     source: "Oxford University Press"
 
   - id: odling-smee2003
     authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
+    title: "Niche Construction: The Neglected Process in evolution"
     source: "Princeton University Press"
 
   - id: west-eberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
-    title: "Developmental Plasticity and Evolution"
+    title: "Developmental Plasticity and evolution"
     source: "Oxford University Press"
 
   - id: gilbert2015
@@ -110,13 +110,13 @@ These debates have generated important insights, but they can also encourage the
 
 APS rejects this assumption.
 
-Evolution does not occur at one isolated scale alone.
+evolution does not occur at one isolated scale alone.
 
 It emerges through interacting processes distributed across biological organisation itself.
 
 APS therefore treats evolution as the historical transformation of viability-oriented, persistence-sustaining organisation distributed across interacting scales of living activity.
 
-## Evolution and Scale
+## evolution and Scale
 
 Scale is not merely a descriptive convenience in biology.
 
@@ -179,7 +179,7 @@ Living systems sustain viability through organisational relations distributed ac
 - environmental interaction,
 - and ecological organisation.
 
-Evolution transforms these interacting persistence relations historically.
+evolution transforms these interacting persistence relations historically.
 
 What evolves is therefore not merely:
 - genes,
@@ -190,7 +190,7 @@ but organised persistence distributed across scale-coupled systems.
 
 Evolutionary transformation involves the historical reorganisation of these interacting persistence dynamics across generations and environments.
 
-## Development and Multiscale Evolution
+## Development and Multiscale evolution
 
 Development is central to multiscale evolutionary organisation.
 
@@ -291,13 +291,13 @@ These constraints involve:
 - ecological interaction,
 - and environmental relations.
 
-Evolution transforms these interacting organisational constraints historically.
+evolution transforms these interacting organisational constraints historically.
 
 Constraint closure is therefore neither localised nor static.
 
 It is dynamically distributed across evolving systems of organised persistence.
 
-## Temporal Scale and Evolution
+## Temporal Scale and evolution
 
 Evolutionary organisation also unfolds across multiple temporal scales.
 
@@ -314,11 +314,11 @@ Short-term adaptive regulation may influence:
 - ecological organisation,
 - and long-term evolutionary transformation.
 
-Evolution therefore cannot be understood solely through isolated generational succession.
+evolution therefore cannot be understood solely through isolated generational succession.
 
 It emerges through temporally layered processes distributed across persistence-sustaining systems.
 
-## Multiscale Evolution and the APS Explanatory Grammar
+## Multiscale evolution and the APS Explanatory Grammar
 
 APS situates multiscale evolution within the broader explanatory grammar organised through:
 - agency,
@@ -353,7 +353,7 @@ Instead, it integrates them within a broader framework of interacting biological
 
 ## Conclusion
 
-Evolution does not occur at one privileged scale alone.
+evolution does not occur at one privileged scale alone.
 
 It emerges through interacting processes distributed across:
 - genes,
@@ -383,3 +383,4 @@ within a unified explanatory framework organised through:
 Multiscale evolution is therefore not a supplementary perspective on evolution.
 
 It is intrinsic to how organised persistence transforms historically across living systems and their environments.
+

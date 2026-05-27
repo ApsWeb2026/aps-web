@@ -15,7 +15,7 @@ keyPoints:
   - Genes participate in inheritance but do not constitute it.
   - Development is the process through which inherited organisation is reconstituted.
   - Organism–environment coupling is part of what is inherited, not external to it.
-  - Evolution depends on the reliable re-establishment of viable organisation, not merely information transfer.
+  - evolution depends on the reliable re-establishment of viable organisation, not merely information transfer.
 relatedGlossaryTerms:
   - inheritance
   - persistence
@@ -99,7 +99,7 @@ This explains how biological systems can:
 
 Inheritance is therefore compatible with variation because it operates at the level of organisation, not exact duplication.
 
-## Inheritance and Evolution
+## Inheritance and evolution
 
 Inheritance provides the continuity that makes evolution possible. Without the repeated reconstitution of viable organisation, there would be no stable basis for transformation over time.
 
@@ -109,7 +109,7 @@ In APS:
 - Variation introduces differences  
 - Adaptation reorganises their activity  
 - Selection filters outcomes  
-- Evolution describes long-term transformation  
+- evolution describes long-term transformation  
 
 Inheritance is thus the **link between variation and evolution**. It ensures that what is transformed over time is not arbitrary, but grounded in a continuous lineage of viable organisation.
 
@@ -129,8 +129,10 @@ By focusing on organisation, APS avoids treating information as a substance or c
 - Selection Revisited — What Does Selection Actually Act On?  
 - Adaptation — How Living Systems Sustain Themselves Through Change  
 - Variation in APS — Where Does Novelty Come From?  
-- What Is Evolution in APS?  
+- What Is evolution in APS?  
 
 ## Key Point
 
 Inheritance in APS is the continuity of viability-oriented, constraint-closed organisation—the reliable reconstitution of living systems across generations.
+
+

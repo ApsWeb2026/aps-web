@@ -80,7 +80,7 @@ Taxa are classificatory designations applied to patterns of organisation, not th
 
 This shift avoids treating classification as a discovery of fixed natural kinds and instead frames it as a method for organising biological knowledge.
 
-## Classification and Evolution
+## Classification and evolution
 
 In APS, evolution is understood as the transformation of viability-oriented organisation over time.
 
@@ -107,3 +107,5 @@ What appear as “levels” are better understood as perspectives on continuous 
 ## Key Point
 
 Classification in APS does not divide life into fixed categories; it describes and stabilises recurring patterns of viability-oriented organisation across scale and evolutionary time.
+
+
