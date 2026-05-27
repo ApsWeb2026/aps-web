@@ -15,14 +15,12 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - organised-persistence
-  - developmental-organisation
   - viability
   - ontogeny
   - biological-individuality
@@ -30,12 +28,11 @@ relatedGlossaryTerms:
   - resilience
   - temporal-organisation
   - evolution
-  - organisational-continuity
-  - processual-individuality
+  - biological-agency
+  - biological-organisation
 
 relatedArticles:
-  - ontogeny-and-organised-persistence
-  - development-as-organised-continuity
+  - ontogeny
   - developmental-regulation
   - developmental-integration
   - developmental-plasticity
@@ -48,54 +45,54 @@ relatedArticles:
   - development-and-ecological-organisation
   - development-and-evolution
   - development-and-evolutionary-explanation
-  - life-cycles-and-organised-persistence
-  - morphogenesis-and-organisational-form
+  - life-cycles
+  - morphogenesis
   - organism-environment-coupling
-  - evolution-and-organised-persistence
+  - evolution
   - diagnosis-as-continuity-analysis
   - the-developmental-organisation-of-life
 
 references:
   - id: nicholson2018
-    authors:
-      "D.J. Nicholson, & J. Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: oyama1985
-    authors:
-      "S. Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: waddington1957
-    authors:
-      "C. H. Waddington"
+    authors: "Waddington, C. H."
     year: 1957
     title: "The Strategy of the Genes"
     publisher: "Allen and Unwin"
 
   - id: westeberhard2003
-    authors:
-      "M. J. West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: gilbert2020
-    authors:
-      "S. F. Gilbert"
+    authors: "Gilbert, S. F."
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions"
+    publisher: "Cambridge University Press"
+
   - id: spencer2026
-    authors:
-      "R. D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

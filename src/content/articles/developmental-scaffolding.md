@@ -15,23 +15,21 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - developmental-scaffolding
-  - developmental-organisation
   - viability
   - organism-environment-coupling
   - ecology
-  - symbiosis
-  - social-organisation
-  - organisational-continuity
-  - organised-persistence
-  - plasticity
   - resilience
+  - biological-agency
+  - biological-organisation
+  - ecological-organisation
+  - process
+  - inheritance
 
 relatedArticles:
   - developmental-niches
@@ -41,42 +39,34 @@ relatedArticles:
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
-  - development-and-biological-organisation
+  - development-and-biological-individuality
   - organism-environment-coupling
   - ecological-organisation
-  - cognition-and-biological-organisation
-  - semiosis-and-biological-organisation
+  - ontogeny
+  - development-as-organised-persistence
   - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: oyama1985
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: griffiths2001
-    authors:
-      - "Paul E. Griffiths"
-      - "Russell D. Gray"
+    authors: "Griffiths, P. E. & Gray, R. D."
     year: 2001
     title: "Darwinism and Developmental Systems"
     journal: "Cygnus"
 
   - id: odlingsmee2003
-    authors:
-      - "F. John Odling-Smee"
-      - "Kevin N. Laland"
-      - "Marcus W. Feldman"
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
 
   - id: west2003
-    authors:
-      - "Meredith J. West"
-      - "Andrew J. King"
+    authors: "West, M. J. & King, A. J."
     year: 2003
     title: "Ecological Context as a Source of Developmental Constraint"
     journal: "Developmental Psychobiology"
@@ -84,17 +74,21 @@ literature:
     pages: "323–335"
 
   - id: sterelny2012
-    authors:
-      - "Kim Sterelny"
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions"
+    publisher: "Cambridge University Press"
+
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---

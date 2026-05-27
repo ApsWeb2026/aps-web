@@ -14,90 +14,83 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - developmental-niche
-  - developmental-systems
   - ecology
   - niche-construction
   - organism-environment-coupling
-  - social-organisation
   - viability
-  - organisational-continuity
   - inheritance
   - resilience
-  - symbiosis
+  - biological-agency
+  - biological-organisation
+  - ecological-organisation
 
 relatedArticles:
+  - developmental-scaffolding
   - developmental-inheritance
   - developmental-integration
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
-  - development-and-biological-organisation
+  - development-and-ecological-organisation
   - organism-environment-coupling
   - ecological-organisation
   - ecological-resilience
-  - cognition-and-biological-organisation
-  - semiosis-and-biological-organisation
-  - evolution-and-organised-persistence
+  - ontogeny
+  - evolution
   - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: oyama1985
-    authors:
-      - "Susan Oyama"
+    authors: "Oyama, S."
     year: 1985
     title: "The Ontogeny of Information"
     publisher: "Cambridge University Press"
 
   - id: griffiths2001
-    authors:
-      - "Paul E. Griffiths"
-      - "Russell D. Gray"
+    authors: "Griffiths, P. E. & Gray, R. D."
     year: 2001
     title: "Darwinism and Developmental Systems"
     journal: "Cygnus"
 
   - id: odlingsmee2003
-    authors:
-      - "F. John Odling-Smee"
-      - "Kevin N. Laland"
-      - "Marcus W. Feldman"
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
 
   - id: west2003
-    authors:
-      - "Meredith J. West"
-      - "Andrew J. King"
+    authors: "West, M. J. & King, A. J."
     year: 2003
     title: "Ecological Context as a Source of Developmental Constraint"
     journal: "Developmental Psychobiology"
     volume: "42(4)"
     pages: "323–335"
 
-  - id: staley2012
-    authors:
-      - "Kim Sterelny"
+  - id: sterelny2012
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions"
+    publisher: "Cambridge University Press"
+
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
-
 Development is often treated as a process occurring primarily within individual organisms under the direction of internally regulated biological mechanisms. Within APS, however, development is understood as a viability-oriented organisational process that depends upon historically persistent ecological, behavioural, social, and material systems extending beyond isolated organisms themselves.
 
 Organisms do not inherit genes alone.

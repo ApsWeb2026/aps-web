@@ -1,7 +1,7 @@
 ---
 date: 2026-05-26
-title: "Life Cycles and Organised Persistence"
-slug: life-cycles-and-organised-persistence
+title: "Life Cycles"
+slug: life-cycles
 
 abstract: >
   In APS, life cycles are interpreted as temporally organised
@@ -15,26 +15,24 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-27
 
 cluster: developmental-organisation
 
 relatedGlossaryTerms:
   - development
-  - life-cycles
-  - organised-persistence
   - temporal-organisation
-  - developmental-organisation
   - biological-individuality
   - ecology
   - evolution
   - viability
-  - metamorphosis
-  - organisational-continuity
   - resilience
+  - biological-agency
+  - biological-organisation
+  - ageing
 
 relatedArticles:
-  - development-as-organised-continuity
+  - ontogeny
   - developmental-regulation
   - developmental-integration
   - developmental-canalisation
@@ -44,53 +42,52 @@ relatedArticles:
   - development-and-ecological-organisation
   - development-and-biological-individuality
   - organism-environment-coupling
-  - evolution-and-organised-persistence
   - ecological-organisation
+  - evolution
+  - development-as-organised-persistence
   - the-developmental-organisation-of-life
 
-literature:
+references:
   - id: gilbert2020
-    authors:
-      - "Scott F. Gilbert"
+    authors: "Gilbert, S. F."
     year: 2020
     title: "Developmental Biology"
     publisher: "Sinauer Associates"
 
   - id: nicholsondupre2018
-    authors:
-      - "Daniel J. Nicholson"
-      - "John Dupré"
+    authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
   - id: westeberhard2003
-    authors:
-      - "Mary Jane West-Eberhard"
+    authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
     publisher: "Oxford University Press"
 
   - id: maynardsmithszathmary1995
-    authors:
-      - "John Maynard Smith"
-      - "Eörs Szathmáry"
+    authors: "Maynard Smith, J. & Szathmáry, E."
     year: 1995
     title: "The Major Transitions in Evolution"
     publisher: "Oxford University Press"
 
   - id: sterelny2012
-    authors:
-      - "Kim Sterelny"
+    authors: "Sterelny, K."
     year: 2012
     title: "The Evolved Apprentice"
     publisher: "MIT Press"
 
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions"
+    publisher: "Cambridge University Press"
+
   - id: spencer2026
-    authors:
-      - "Roger D. Spencer"
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Process-Based Framework for Biological Explanation"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
