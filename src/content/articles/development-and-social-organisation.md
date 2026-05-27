@@ -43,12 +43,12 @@ relatedArticles:
   - developmental-resilience
   - organism-environment-coupling
   - ecological-organisation
-  - cognition-and-biological-organisation
-  - semiosis-and-biological-organisation
-  - information-in-biology
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - information-in-biology-an-aps-clarification
   - meaning-in-biology-an-aps-clarification
-  - representation-and-biological-organisation
-  - evolution-and-organised-persistence
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - multiscale-evolution-and-organised-persistence
   - the-developmental-organisation-of-life
 
 literature:

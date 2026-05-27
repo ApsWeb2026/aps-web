@@ -40,7 +40,7 @@ relatedArticles:
   - development-and-ecological-organisation
   - organism-environment-coupling
   - ecological-organisation
-  - ecological-resilience
+  - resilience-ecology-and-continuity
   - ontogeny
   - evolution
   - the-developmental-organisation-of-life
