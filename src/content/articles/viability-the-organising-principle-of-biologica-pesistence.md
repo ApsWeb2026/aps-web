@@ -54,27 +54,27 @@ relatedArticles:
   why-aps-reframes-biology
   development-as-organised-persistence
 references:
-id: moreno-mossio-2015
-authors: "Moreno, A.; Mossio, M."
-year: 2015
-title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-publisher: "Springer"
-id: mossio-2023
-authors: "Mossio, M."
-year: 2023
-title: "Organization in Biology"
-publisher: "Springer"
-id: nicholson-dupre-2018
-authors: "Nicholson, D. J.; Dupré, J."
-year: 2018
-title: "Everything Flows: Towards a Processual Philosophy of Biology"
-publisher: "Oxford University Press"
-id: spencer-2026-agency
-authors: "Spencer, R. D."
-year: 2026
-title: "Agency as the Defining Activity of Life"
-journal: "Biological Theory"
-doi: "10.1007/s13752-026-00547-6"
+  - id: moreno-mossio-2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+  - id: mossio-2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
+    id: nicholson-dupre-2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+    id: spencer-2026-agency
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 
 ---
 

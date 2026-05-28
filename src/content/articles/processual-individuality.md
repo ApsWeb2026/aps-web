@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: "Processual Individuality"
 slug: processual-individuality
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
@@ -20,13 +21,6 @@ abstract: >
   introduces the APS processual account of individuality and situates it
   within the broader continuity architecture developed further in
   *Biological Individuality — Organised Persistence Through Time*.
-
-type: article
-status: canonical
-canonical: true
-canonicalLockDate: 2026-05-28
-revised: 2026-05-28
-cluster: conceptual-foundations
 
 relatedGlossaryTerms:
   - processual-individual
