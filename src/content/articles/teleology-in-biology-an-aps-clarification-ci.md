@@ -1,36 +1,86 @@
 ---
 date: 2026-05-04
-title: Teleology in Biology — An APS Clarification
+title: "Teleology in Biology — An APS Clarification"
 slug: teleology-in-biology-an-aps-clarification
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04
-revised: 2026-05-04
+revised: 2026-05-28
 cluster: conceptual-foundations
+
 abstract: >
-  Teleology has long been treated as problematic in biology, associated either with outdated metaphysics or with unscientific appeals to design. This article clarifies the status of teleology within the APS framework. It shows why teleology was rejected, how the concept of teleonomy sought to replace it, and why this substitution remains incomplete. In APS, teleology is reinterpreted as the organisation of activity in relation to conditions of viability, grounded in constraint-closed, self-maintaining systems.
+  Teleology has long been treated as problematic in biology, associated either
+  with outdated metaphysics or with unscientific appeals to design. This
+  article clarifies the status of teleology within the APS framework. It shows
+  why teleology was rejected, how teleonomy emerged as a naturalistic
+  replacement, and why this substitution remained incomplete. Drawing on both
+  classical and contemporary discussions — including Aristotle, Mayr, Monod,
+  Wright, Millikan, Moreno and Mossio, Corning, and recent work on biological
+  purposiveness — APS reinterprets teleology as the organisation of activity
+  relative to viability within constraint-closed, self-maintaining systems.
+
+inBrief: >
+  APS does not revive metaphysical teleology. Instead, it naturalises
+  purposiveness by grounding goal-directed biological activity in
+  viability-oriented, constraint-closed organisation operating in the present
+  tense.
+
+keyPoints:
+  - Classical teleology was rejected because it appeared to invoke external design or final causes.
+  - Teleonomy naturalised purposive language through evolutionary explanation.
+  - Historical and selected-effects accounts remain insufficient to explain present-tense biological normativity.
+  - APS grounds purposiveness in viability-oriented organisation rather than in external goals or genetic programs alone.
+  - Biological normativity emerges intrinsically from organised persistence.
+  - Teleology in biology can be reformulated organisationally without invoking metaphysical final causes.
+
 relatedGlossaryTerms:
   - teleology
+  - teleonomy
   - purpose
   - normativity
   - biological-agency
   - function
   - persistence
+  - viability
+  - constraint-closure
+  - organised-persistence
+
 relatedArticles:
   - teleonomy
   - design-in-nature-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
   - explanatory-geometry-of-biology
+  - biological-agency
+  - function-and-viability
+  - aps-and-autonomy-theory
+  - why-life-is-not-computation-an-aps-clarification
+
 references:
   - id: aristotle
     authors: "Aristotle"
     year: -350
     title: "Physics; Parts of Animals"
 
+  - id: pittendrigh1958
+    authors: "Pittendrigh, C. S."
+    year: 1958
+    title: "Adaptation, Natural Selection, and Behavior"
+    publisher: "Yale University Press"
+    pages: "390–416"
+
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134(3489)"
+    pages: "1501–1506"
+    doi: "10.1126/science.134.3489.1501"
+
   - id: mayr1974
     authors: "Mayr, E."
     year: 1974
-    title: "Teleological and teleonomic: A new analysis"
+    title: "Teleological and Teleonomic: A New Analysis"
     journal: "Boston Studies in the Philosophy of Science"
     volume: "14"
     pages: "91–117"
@@ -61,82 +111,213 @@ references:
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions and Functional Analysis"
+    publisher: "Cambridge University Press"
+
+  - id: corning2019
+    authors: "Corning, P. A."
+    year: 2019
+    title: "Teleonomy and the Proximate–Ultimate Distinction Revisited"
+    journal: "Biological Journal of the Linnean Society"
+    volume: "127(4)"
+    pages: "912–916"
+    doi: "10.1093/biolinnean/blz087"
+
+  - id: corning2023
+    authors: "Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A. (Eds.)"
+    year: 2023
+    title: "Evolution “On Purpose”: Teleonomy in Living Systems"
+    publisher: "MIT Press"
+
+  - id: dresow2023
+    authors: "Dresow, M."
+    year: 2023
+    title: "Teleonomy: Revisiting a Proposed Conceptual Replacement for Teleology"
+    journal: "Biological Theory"
+    volume: "18"
+    pages: "1–17"
 ---
 
-## The problem: purpose in a non-teleological science
+## The Problem of Purpose in Biology
 
-Biology is saturated with purpose-like language.
+Biology is saturated with purposive language.
 
-Organisms regulate their internal states, maintain their organisation, repair damage, and adapt to changing conditions. Biological structures are routinely described in terms of what they are *for*: the heart pumps blood, roots absorb nutrients, immune systems defend the organism.
+Organisms regulate internal conditions, maintain their organisation, repair
+damage, acquire resources, coordinate development, and reproduce across
+generations. Biological structures are routinely described in terms of what
+they are *for*: hearts pump blood, immune systems defend organisms, roots
+absorb nutrients, and nervous systems coordinate adaptive activity.
 
-Yet at the same time, biology has historically rejected teleology as unscientific.
+At the same time, modern biology has historically rejected teleology as
+scientifically problematic.
 
-This creates a persistent tension. Either such language is merely heuristic, masking underlying mechanistic processes, or it reflects a real feature of living systems that lacks a clear conceptual grounding.
+This produced a persistent conceptual tension. Either purposive language is
+merely heuristic shorthand masking underlying mechanisms, or purposiveness
+reflects a genuine feature of living systems requiring clearer explanatory
+grounding.
 
-## Why teleology was rejected
+APS addresses this tension directly.
 
-The rejection of teleology in modern science was not arbitrary. It arose from a well-founded concern to avoid explanations that appeal to external design, intention, or predetermined ends.
+## Why Teleology Was Rejected
 
-In classical philosophy, especially in the work of Aristotle, teleology was formalised as *final causation*: processes occur for the sake of an end.
+The rejection of teleology in modern science emerged from an attempt to avoid
+appeals to external design, intrinsic destiny, or metaphysical final causes.
 
-In later traditions, this idea was often associated with theological interpretations of nature as designed or directed toward specific purposes. The development of modern science replaced such explanations with mechanistic accounts based on efficient causes—interactions, processes, and laws.
+In classical philosophy, especially in Aristotle, teleology referred to
+processes occurring *for the sake of* particular ends. Later traditions often
+connected this idea to theological interpretations of nature as designed or
+directed toward predetermined purposes.
 
-As a result, biology inherited a methodological caution: avoid explaining phenomena in terms of purposes, even when systems appear organised in ways that invite such description.
+The rise of mechanistic science replaced such explanations with accounts based
+on efficient causes: interactions, mechanisms, and lawful processes.
 
-## The emergence of teleonomy
+Biology therefore inherited a methodological caution. Explanations invoking
+purpose appeared to risk reintroducing intention, foresight, or supernatural
+design into science.
 
-The introduction of teleonomy was an attempt to resolve this tension.
+## The Emergence of Teleonomy
 
-Teleonomy allows biologists to describe organisms as exhibiting goal-directed behaviour while avoiding commitment to teleology in the classical sense. On this view, the apparent purposiveness of living systems is explained by evolutionary processes. Natural selection produces structures and behaviours that *function as if* they were designed for specific ends (Mayr 1974; Monod 1971).
+Teleonomy emerged as an attempt to preserve purposive language while removing
+its metaphysical implications.
 
-This was a significant advance. It clarified how purposive organisation can arise without invoking external design or intrinsic final causes.
+The term is generally associated with Colin S. Pittendrigh, who introduced it
+to distinguish biological goal-directedness from classical teleology.
+Teleonomy allowed organisms to be described as purposive without implying
+external design or future causes acting backward upon the present.
 
-However, teleonomy addresses primarily the *historical origin* of such organisation. It explains why organisms have the structures they do, but it does not fully account for how those systems operate in the present.
+Ernst Mayr later developed the most influential formulation. In Mayr’s
+account, organisms behave teleonomically because they operate according to
+evolved genetic and developmental programs shaped through natural selection.
 
-## The remaining gap
+Jacques Monod further popularised teleonomy within molecular biology. In
+*Chance and Necessity*, teleonomy became one of the defining characteristics
+of living systems while remaining fully naturalistic.
 
-Even when teleonomy is accepted, a conceptual gap remains.
+Teleonomy was therefore historically important because it allowed biology to
+retain concepts such as adaptation, function, regulation, and purposiveness
+within a Darwinian framework.
 
-Living systems do not merely *appear* purposive. They actively regulate their activity in relation to conditions that determine whether they persist or fail. This involves ongoing processes of adjustment, repair, and coordination that cannot be reduced to historical explanation alone.
+## The Limits of Teleonomy
 
-In practice, biological explanation continues to rely on concepts such as function, regulation, and adaptation—concepts that implicitly involve distinctions between success and failure relative to the maintenance of the system.
+Although teleonomy solved part of the problem, important conceptual
+difficulties remained.
 
-Philosophical accounts of function have attempted to formalise this, often in terms of evolutionary history or selected effects (Wright 1973; Millikan 1984). However, these accounts do not fully capture the present-tense organisation through which systems maintain themselves.
+### Historical Displacement
 
-If these distinctions are treated as merely heuristic, the explanatory force of such concepts becomes unclear. If they are treated as real, then the rejection of teleology appears incomplete.
+Classical teleonomy often explains purposiveness primarily through evolutionary
+history.
 
-## The APS resolution
+Natural selection explains why organisms possess particular structures or
+behaviours, but this does not fully explain why organisms actively regulate
+their own persistence in the present tense.
 
-The APS framework resolves this tension by reframing teleology in organisational terms.
+Living systems are not merely historical products. They continuously maintain,
+repair, and reorganise themselves relative to changing conditions.
 
-In APS, teleology is not understood as externally imposed design or as an intrinsic tendency toward predetermined ends. Instead, it arises from the organisation of living systems as viability-oriented, constraint-closed processes (Moreno & Mossio 2015).
+### The Program Problem
 
-A living system must continuously maintain the conditions of its own persistence. This introduces a real and irreducible distinction between states that sustain the system and those that undermine it. Activity is therefore organised in relation to these conditions.
+Program-based accounts of teleonomy risk portraying organisms as systems that
+simply execute inherited instructions.
 
-Teleology, in this sense, is the organisation of activity relative to viability.
+APS rejects this interpretation. Organisms are not passive outputs of genetic
+programs. They are dynamically organised systems whose activities contribute
+continuously to the maintenance of viability.
 
-This organisation is:
-- **Intrinsic**: it arises from the system’s own structure and dynamics  
-- **Present-tense**: it operates continuously, not only as a result of past selection  
-- **Non-representational**: it does not require intention, foresight, or internal representation  
+Genes, developmental systems, and inherited structures matter profoundly, but
+they do not themselves constitute biological purposiveness.
 
-Teleology is thus neither an external imposition nor a mere appearance. It is a structural feature of systems that must actively maintain themselves.
+### Normativity
 
-## Implications for biological explanation
+Teleonomic accounts also struggle to explain biological normativity.
 
-This clarification has several consequences for how biological systems are understood:
+Evolutionary history may explain why traits were selected, but it does not by
+itself explain why starvation, injury, failed regulation, or system breakdown
+are bad for the organism now.
 
-- **Purpose becomes precise**: it refers to the organisation of activity that sustains viability, not to externally assigned goals.  
-- **Function is grounded**: functions are contributions to teleological organisation, rather than arbitrary or purely historical attributions.  
-- **Normativity is naturalised**: success and failure are defined in relation to persistence, not imposed evaluatively from outside.  
-- **Agency is clarified**: biological agency consists in the ongoing enactment of teleological organisation.  
+Yet biological explanation constantly depends upon distinctions between
+success and failure, functioning and malfunction, persistence and collapse.
 
-These concepts are not independent additions but interdependent aspects of a single organisational framework.
+APS treats these distinctions as intrinsic to living organisation itself.
 
-## Summary
+## APS and Organisational Teleology
 
-Teleology has long been treated as either scientifically illegitimate or conceptually dispensable. The introduction of teleonomy addressed part of this problem by explaining the evolutionary origin of purposive organisation.
+APS resolves these tensions by reframing teleology organisationally.
 
-However, living systems do not merely exhibit the *appearance* of purpose. They are organised in ways that continuously regulate activity relative to the conditions of their own persistence.
+[[box:aps-box-what-aps-adds-to-contemporary-biology]]
 
-In APS, teleology is understood as this organisation: the structuring of activity in relation to viability within constraint-closed, self-maintaining systems. It is therefore neither an outdated metaphysical concept nor a heuristic shortcut, but a precise feature of biological organisation.
+In APS, teleology is not external design, intrinsic destiny, or metaphysical
+final causation. Nor is it reducible to historical selection alone.
+
+Instead, teleology emerges from viability-oriented, constraint-closed
+organisation.
+
+Living systems must continuously maintain the conditions required for their
+own persistence. This creates a real asymmetry between states that sustain
+viability and states that undermine it.
+
+Activity therefore becomes organised relative to persistence.
+
+In APS:
+
+- purpose is organisation directed toward viability
+- function is contribution to organised persistence
+- normativity emerges intrinsically from viability conditions
+- agency is the active regulation of persistence-supporting organisation
+- evolution transforms viability-oriented organisation across time
+
+Teleology is therefore neither illusory nor metaphysical. It is an emergent
+feature of organised living systems.
+
+## Teleology Without Metaphysics
+
+APS does not revive pre-scientific teleology.
+
+No appeal is made to cosmic purpose, future causes, intelligent design, or
+externally imposed ends.
+
+Instead, APS naturalises purposiveness by grounding it in the organisational
+requirements of living systems themselves.
+
+This position aligns partially with contemporary organisational and autonomy
+approaches, especially the work of Moreno and Mossio, while extending these
+accounts through the APS emphasis on viability-oriented organised persistence
+across scale and time.
+
+Recent work by Corning and others similarly argues that purposiveness is not
+merely an explanatory illusion but a real feature of living systems and their
+evolutionary dynamics.
+
+APS agrees, but grounds this purposiveness more precisely in present-tense
+constraint-closed organisation.
+
+## Implications for Biological Explanation
+
+This clarification reshapes several core biological concepts.
+
+- **Purpose** becomes organisational rather than metaphysical.
+- **Function** becomes grounded in viability contribution rather than arbitrary attribution.
+- **Normativity** becomes intrinsic to organised persistence.
+- **Agency** becomes biologically naturalised rather than psychologically projected.
+- **Teleonomy** becomes historically important but conceptually incomplete.
+
+APS therefore preserves the legitimate insights of teleology and teleonomy
+while avoiding both metaphysical finalism and reductive mechanism.
+
+## In Brief
+
+Teleology has long been treated as scientifically suspect because it appeared
+to invoke external design or metaphysical final causes. Teleonomy emerged as a
+naturalistic attempt to preserve purposive language within evolutionary
+biology.
+
+APS retains the central insight that living systems are genuinely
+goal-directed, but grounds this directedness organisationally rather than in
+historical selection or inherited programs alone.
+
+Biological purposiveness is therefore understood as the present-tense activity
+of viability-oriented, constraint-closed systems sustaining organised
+persistence across time.
