@@ -5,7 +5,7 @@ slug: how-aps-explains-life
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-28
 cluster: conceptual-foundations
 
 abstract: >
@@ -27,6 +27,9 @@ relatedGlossaryTerms:
   - continuity
   - perturbation
   - mechanism
+  - development
+  - resilience
+  - temporal-organisation
 
 relatedArticles:
   - biological-explanation-what-needs-to-be-explained
@@ -35,6 +38,7 @@ relatedArticles:
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
+  - the-developmental-organisation-of-life
   - diagnosis-as-continuity-analysis
   - reductionism-in-biology-an-aps-clarification
   - why-life-is-not-computation-an-aps-clarification
@@ -45,7 +49,7 @@ relatedArticles:
 
 APS approaches biology through the problem of explanation:
 - what living systems are;
-- how they remain viable across time;
+- how they remain developmentally viable across time;
 - and how such continuity becomes possible under changing conditions.
 
 For many readers, the clearest entry into APS is therefore not through definitions alone, but through two connected explanatory steps.
@@ -70,6 +74,7 @@ Living systems persist through:
 - regulation;
 - adaptation;
 - repair;
+- resilience;
 - metabolic coordination;
 - developmental transformation;
 - ecological interaction;
@@ -79,6 +84,7 @@ APS therefore approaches living systems as:
 - viability-oriented;
 - organisationally integrated;
 - temporally organised;
+- developmentally coordinated;
 - and continuously self-maintaining under changing conditions.
 
 The central explanatory problem of biology becomes:
@@ -87,7 +93,9 @@ The central explanatory problem of biology becomes:
 
 Living systems remain viable not because they resist change, but because they continuously reorganise continuity under changing conditions.
 
-Perturbation therefore becomes explanatorily important because it reveals how living systems regulate continuity, compensate for destabilisation, and preserve viability through adaptive transformation.
+Development therefore becomes explanatorily central because living systems persist only through continual developmental reorganisation across changing conditions and timescales.
+
+Perturbation therefore becomes explanatorily important because it reveals how living systems regulate continuity, repair destabilisation, preserve resilience, and sustain viability through adaptive developmental transformation.
 
 The article *Biological Explanation — What Needs to Be Explained* develops this argument in detail and explains why persistence becomes the central explanatory problem of biology.
 
@@ -108,20 +116,25 @@ APS argues that biological explanation requires the integration of:
 - adaptation;
 - persistence;
 - perturbation;
+- repair;
+- resilience;
 - and organism–environment relations
 
 within a unified organisational framework.
 
-Living systems become intelligible not through isolated mechanisms alone, but through the coordinated organisation of continuity across interacting biological processes, scales, and timescales.
+Living systems become intelligible not through isolated mechanisms alone, but through the coordinated developmental, ecological, physiological, and behavioural organisation of continuity across interacting biological processes, scales, and timescales.
 
 Biological organisation is therefore not static arrangement.
 
-It is the dynamically regulated coordination through which continuity remains viable under changing conditions.
+It is the dynamically regulated developmental coordination through which continuity remains viable under changing conditions and perturbation.
 
 APS explains living systems through:
 - continuity regulation;
 - adaptive transformation;
+- developmental organisation;
 - perturbation-sensitive organisation;
+- repair;
+- resilience;
 - and viability-oriented persistence
 
 distributed across interacting domains of biological activity.
@@ -158,9 +171,12 @@ From here, readers can explore how APS develops these ideas across:
 - cognition;
 - physiology;
 - resilience;
+- repair;
 - and diagnosis.
 
 These domains are not treated as isolated areas of biology.
+
+They are interconnected continuity architectures through which living systems preserve viability across developmental, ecological, physiological, evolutionary, and cognitive transformation.
 
 They become interconnected expressions of organised persistence operating across different forms of continuity:
 - physiological continuity;
@@ -176,6 +192,8 @@ APS therefore develops a unified explanatory framework linking:
 - viability;
 - perturbation;
 - regulation;
+- repair;
+- resilience;
 - and organised biological activity
 
 across multiple interacting scales and timescales.
@@ -187,14 +205,17 @@ APS changes how biology is explained.
 It:
 - treats persistence as an active organisational achievement rather than static endurance;
 - explains stability as dynamically regulated continuity rather than immobility;
-- integrates physiology, ecology, development, evolution, and cognition within a shared explanatory framework;
-- approaches living systems as temporally organised continuities rather than passive material objects;
+- integrates physiology, ecology, development, evolution, cognition, repair, and resilience within a shared explanatory framework;
+- approaches living systems as developmentally and temporally organised continuities rather than passive material objects;
 - and explains biological organisation through viability-oriented persistence sustained under changing conditions.
 
 APS therefore reconstructs biology around:
 - organised persistence;
 - adaptive continuity;
+- developmental organisation;
 - temporal organisation;
+- repair;
+- resilience;
 - perturbation-sensitive regulation;
 - and multiscale biological continuity.
 
@@ -218,9 +239,10 @@ For a broader conceptual overview, see:
 - *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
 - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
+- *[The Developmental Organisation of Life](/articles/the-developmental-organisation-of-life/)*
 
 # Key Point
 
 APS explains life by:
 1. identifying viability-oriented organised persistence as the central target of biological explanation;
-2. and clarifying the organisational structure through which living systems sustain continuity, regulate perturbation, and remain viable across time.
+2. and clarifying the developmental, ecological, and organisational structure through which living systems sustain continuity, regulate perturbation, preserve resilience, and remain viable across time.

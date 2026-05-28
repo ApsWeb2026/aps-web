@@ -5,7 +5,7 @@ slug: understanding-aps-the-structure-of-the-framework
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-05-28
 cluster: conceptual-foundations
 
 abstract: >
@@ -14,11 +14,11 @@ abstract: >
   organised persistence sustained across time. APS approaches biology through
   the integrated organisation of agency, process, and scale, understood as
   dimensions through which living systems regulate continuity, adapt to
-  perturbation, and sustain viability across changing conditions and
-  interacting timescales. Physiology, ecology, evolution, cognition,
-  adaptation, resilience, and diagnosis are therefore integrated within a
-  shared explanatory framework centred on continuity, transformation, and
-  organised persistence.
+  perturbation, preserve resilience, and sustain viability across changing
+  conditions and interacting timescales. Physiology, development, ecology,
+  evolution, cognition, adaptation, resilience, repair, and diagnosis are
+  therefore integrated within a shared explanatory framework centred on
+  continuity, transformation, and organised persistence.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -34,6 +34,8 @@ relatedGlossaryTerms:
   - cognition
   - resilience
   - perturbation
+  - development
+  - repair
 
 relatedArticles:
   - what-is-aps
@@ -45,9 +47,11 @@ relatedArticles:
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
+  - the-developmental-organisation-of-life
   - diagnosis-as-continuity-analysis
   - ecology-as-organised-persistence-across-scales
   - evolution
+
 ---
 
 # Understanding APS
@@ -62,9 +66,11 @@ The framework approaches biology through the interconnected problems of:
 - continuity;
 - adaptation;
 - perturbation;
+- resilience;
+- repair;
 - and organised transformation across time.
 
-Living systems are therefore understood not as static objects, but as dynamically organised systems that continuously regenerate the conditions required for their own continued persistence.
+Living systems are therefore understood not as static objects, but as developmentally and temporally organised systems that continuously regenerate the conditions required for their own continued persistence.
 
 APS consequently explains biology through:
 - agency;
@@ -86,10 +92,10 @@ The central explanatory structure of APS is organised through three integrated d
 
 These are not separate explanatory domains.
 
-They are organisational dimensions through which living systems regulate continuity, adapt to perturbation, and sustain viability through ongoing transformation.
+They are organisational dimensions through which living systems regulate continuity, preserve resilience, reorganise development, adapt to perturbation, and sustain viability through ongoing transformation.
 
 - **Agency** regulates continuity relative to viability conditions.
-- **Process** enacts continuity through ongoing organised activity.
+- **Process** enacts developmental and temporally organised continuity through ongoing organised activity.
 - **Scale** coordinates continuity across interacting biological domains and timescales.
 
 Together, these dimensions explain how living systems maintain organised persistence despite continuous material, developmental, ecological, and evolutionary transformation.
@@ -111,7 +117,7 @@ Together, these dimensions explain how living systems maintain organised persist
 
 APS therefore approaches biology organisationally rather than reductionistically.
 
-Persistence becomes the central explanatory problem through which physiology, ecology, development, evolution, cognition, adaptation, resilience, and diagnosis become intelligible within one integrated framework.
+Persistence becomes the central explanatory problem through which physiology, ecology, development, evolution, cognition, adaptation, resilience, repair, and diagnosis become intelligible within one integrated framework.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
@@ -130,6 +136,8 @@ Yet continuity remains.
 APS explains this continuity through:
 - viability-oriented organisation;
 - adaptive regulation;
+- developmental coordination;
+- repair and resilience;
 - temporal coordination;
 - perturbation-sensitive organisation;
 - and continuity-producing persistence.
@@ -140,17 +148,21 @@ Living systems persist:
 
 > through organised transformation across time.
 
+Development therefore becomes central to APS because biological continuity exists only through ongoing developmental reorganisation across changing conditions and timescales.
+
 They remain viable not because they resist change, but because they continuously reorganise continuity under changing conditions.
 
-Perturbation is therefore explanatorily important because it reveals how continuity is regulated, compensated for, stabilised, or lost.
+Perturbation is therefore explanatorily important because it reveals how continuity is regulated, compensated for, stabilised, repaired, regenerated, or lost.
 
 This continuity architecture connects the major domains of APS:
 - physiology;
 - adaptation;
+- development;
 - ecology;
 - evolution;
 - cognition;
 - resilience;
+- repair;
 - and diagnosis.
 
 [[box:perturbation-reveals-organisation]]
@@ -173,6 +185,7 @@ This pathway explains:
 - adaptation;
 - resilience;
 - perturbation;
+- repair;
 - and multiscale persistence across time.
 
 Persistence is therefore understood not as passive duration, but as actively regulated continuity maintained through ongoing transformation.
@@ -183,11 +196,39 @@ Key articles include:
 - *Temporal Organisation and Organised Persistence*
 - *Scale, Time, and Persistence*
 
+## Development and Organised Persistence
+
+APS develops a major developmental pathway centred on:
+- ontogeny;
+- developmental integration;
+- morphogenesis;
+- developmental plasticity;
+- developmental resilience;
+- repair;
+- ageing;
+- developmental niches;
+- and developmental continuity across time.
+
+Development is therefore not treated as a secondary biological process occurring within already-formed organisms.
+
+Living systems persist developmentally through continual continuity-preserving transformation across changing ecological, physiological, behavioural, and historical conditions.
+
+Development consequently becomes one of the primary organisational architectures through which biological viability remains possible.
+
+Key articles include:
+- *Development as Organised Persistence*
+- *Developmental Temporality*
+- *The Developmental Organisation of Life*
+- *Morphogenesis*
+- *Life Cycles*
+- *Developmental Integration*
+- *Ageing and Organisational Persistence*
+
 ## Ecology and Evolution
 
 APS also develops an integrated ecology–evolution pathway.
 
-Ecology explains how continuity is distributed across organism–environment systems.
+Ecology explains how developmental and organismal continuity is distributed across organism–environment systems.
 
 Evolution explains how continuity transforms historically across generations.
 
@@ -230,11 +271,13 @@ APS also develops a diagnostic pathway centred on:
 - resilience;
 - compensation;
 - recovery;
+- repair;
+- regeneration;
 - and continuity failure.
 
 Diagnosis is therefore understood not merely as defect identification, but as continuity analysis within viability-oriented systems.
 
-Resilience concerns the capacity of living systems to preserve or restore viable continuity under destabilising conditions.
+Resilience concerns the capacity of living systems to preserve, repair, or restore viable continuity under destabilising developmental, ecological, physiological, and organisational conditions.
 
 Key articles include:
 - *Diagnosis as Continuity Analysis*
@@ -263,9 +306,9 @@ Ecology matters because continuity depends upon organism–environment coupling.
 
 Evolution matters because persistence transforms historically across generations.
 
-Diagnosis matters because continuity can destabilise, reorganise, recover, or fail.
+Diagnosis matters because continuity can destabilise, reorganise, recover, repair, or fail.
 
-Development matters because continuity must be maintained through ongoing organisational transformation.
+Development matters because continuity must be maintained, repaired, reorganised, and regenerated through ongoing organisational transformation across time.
 
 APS therefore reconstructs biology around the organisational conditions that make living systems intelligible as living systems.
 
@@ -292,13 +335,15 @@ APS changes how biology is organised explanatorily.
 It:
 - explains persistence dynamically rather than statically;
 - explains stability as actively regulated continuity rather than immobility;
-- integrates physiology, ecology, development, evolution, cognition, and diagnosis within one explanatory architecture;
-- treats living systems as temporally organised continuities rather than passive material objects;
+- integrates physiology, ecology, development, evolution, cognition, diagnosis, repair, and resilience within one explanatory architecture;
+- treats living systems as developmentally and temporally organised continuities rather than passive material objects;
 - and approaches biological organisation through viability-oriented persistence sustained across changing conditions.
 
 APS therefore reconstructs biology around:
 - organised persistence;
 - adaptive continuity;
+- developmental organisation;
+- repair and resilience;
 - temporal organisation;
 - perturbation-sensitive regulation;
 - and multiscale biological continuity.
@@ -313,17 +358,19 @@ The framework integrates:
 - scale;
 - persistence;
 - adaptation;
+- development;
 - ecology;
 - evolution;
 - cognition;
 - resilience;
+- repair;
 - diagnosis;
 - perturbation;
 - and temporal organisation
 
 within a shared explanatory architecture centred on continuity and viability.
 
-Living systems therefore become intelligible not as static objects or isolated mechanisms, but as dynamically organised continuities actively sustaining themselves through regulation, adaptation, compensation, and transformation across changing conditions and interacting scales of biological organisation.
+Living systems therefore become intelligible not as static objects or isolated mechanisms, but as dynamically organised continuities actively sustaining themselves through regulation, adaptation, compensation, repair, resilience, and transformation across changing conditions and interacting scales of biological organisation.
 
 # Related Pathways
 
@@ -332,9 +379,10 @@ Living systems therefore become intelligible not as static objects or isolated m
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+- *[The Developmental Organisation of Life](/articles/the-developmental-organisation-of-life/)*
 - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
 - *[Diagnosis as Continuity Analysis](/articles/diagnosis-as-continuity-analysis/)*
 
 # Key Terms
 
-agency · process · scale · persistence · viability · continuity · temporality · adaptation · perturbation · cognition · resilience
+agency · process · scale · persistence · viability · continuity · temporality · development · adaptation · perturbation · cognition · resilience · repair
