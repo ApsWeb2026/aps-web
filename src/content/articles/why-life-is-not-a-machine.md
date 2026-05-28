@@ -1,245 +1,386 @@
 ---
-date: 2026-04-11
-title: Why Life Is Not a Machine
+date: 2026-05-28
+title: "Why Life Is Not a Machine — An APS Clarification"
 slug: why-life-is-not-a-machine
-status: evolving
-revised: 2026-04-29
-cluster: conceptual-foundations
-abstract: |
-  Living systems are often described as machines, especially in biology, engineering, and artificial intelligence. While the machine analogy captures aspects of structure and function, it fails to explain what makes living systems fundamentally different. This article clarifies why life cannot be reduced to machinery and how APS reframes the distinction in terms of viability-oriented organisation.
-keyPoints:
-  - Living systems can be described mechanistically, but they are not machines.
-  - Machines operate through externally specified functions; living systems generate their own conditions of existence.
-  - Failure in machines is external; failure in living systems is existential.
-  - Biological organisation is self-sustaining and internally regulated, not externally designed.
-  - Mechanistic explanation describes how systems work, but not why they must continue to exist.
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-05-28
+cluster: philosophy-of-biology
+
+abstract: >
+  Living systems are often described as machines, especially in biology,
+  engineering, artificial intelligence, and cognitive science. While machine
+  analogies can illuminate aspects of structure and mechanism, APS argues that
+  life cannot be adequately understood through machine ontology alone. Living
+  systems are not externally assembled devices but viability-oriented,
+  continuity-maintaining organisations that actively sustain the conditions of
+  their own persistence. This article explains how APS integrates mechanistic
+  explanation within a broader framework centred on organised persistence,
+  endogenous normativity, perturbation-sensitive regulation, and
+  continuity-oriented biological organisation.
+
 relatedGlossaryTerms:
   - biological-agency
   - viability
+  - persistence
   - function
+  - mechanism
+  - normativity
+  - purpose
   - constraint-closure
   - biological-organisation
+  - process
+  - scale
+  - organisational-realism
+
 relatedArticles:
   - aps-and-contemporary-theories
-  - why-life-is-not-dnas-way-of-making-more-dna
-  - why-life-is-not-information-processing
+  - what-is-life-a-biological-question-revisited
   - biological-causation-from-mechanism-to-organised-persistence
+  - reductionism-in-biology-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
   - why-aps-is-not-organicism
   - why-aps-is-not-holism
+  - organisational-realism-in-biology
+  - explanatory-priority-is-not-ontological-priority
+  - why-life-is-not-information-processing
+
 references:
   - id: descartes1664
     authors: "Descartes, R."
     year: 1664
     title: "Treatise on Man"
-    source: "Prometheus Books"
+    publisher: "Prometheus Books"
 
   - id: bertalanffy1968
     authors: "von Bertalanffy, L."
     year: 1968
     title: "General System Theory"
-    source: "George Braziller"
+    publisher: "George Braziller"
 
   - id: rosen1991
     authors: "Rosen, R."
     year: 1991
     title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
-    source: "Columbia University Press"
+    publisher: "Columbia University Press"
 
   - id: jonas1966
     authors: "Jonas, H."
     year: 1966
     title: "The Phenomenon of Life"
-    source: "Harper & Row"
+    publisher: "Harper & Row"
 
   - id: simondon1958
     authors: "Simondon, G."
     year: 1958
     title: "On the Mode of Existence of Technical Objects"
-    source: "University of Western Ontario"
+    publisher: "University of Western Ontario"
 
   - id: deacon2011
     authors: "Deacon, T. W."
     year: 2011
     title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
+    publisher: "W. W. Norton & Company"
 
   - id: noble2016
     authors: "Noble, D."
     year: 2016
     title: "Dance to the Tune of Life: Biological Relativity"
-    source: "Cambridge University Press"
+    publisher: "Cambridge University Press"
 
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
+  - id: moreno-mossio-2015
+    authors: "Moreno, A. and Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+    publisher: "Springer"
+
+  - id: bechtel-2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: nicholson-2013
+    authors: "Nicholson, D. J."
+    year: 2013
+    title: "Organisms ≠ Machines"
+    journal: "Studies in History and Philosophy of Biological and Biomedical Sciences"
+    volume: "44(4)"
+    pages: "669–678"
+    doi: "10.1016/j.shpsc.2013.05.014"
+
+  - id: spencer-2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: Towards a Viability-Oriented Theory of Biological Organisation"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
-Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+# Why Life Is Not a Machine — An APS Clarification
 
-This article examines a major framework in biology or cognition and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+Living systems are frequently described as machines.
 
-## The Machine Analogy
+Hearts are compared to pumps, brains to computers, genes to programs, and organisms to highly sophisticated biological devices composed of interacting mechanisms. These analogies have often been scientifically productive. They can illuminate structure, causal organisation, and mechanistic interaction in useful and experimentally tractable ways.
 
-From the earliest days of modern science, living systems have been compared to machines.
+APS therefore does not reject mechanistic explanation.
 
-Hearts are described as pumps, brains as computers, and organisms as complex mechanisms composed of interacting parts. These comparisons are often useful. They help us understand how components contribute to system-level behaviour.
+However, APS rejects the stronger claim that living systems *are* machines.
 
-It is therefore natural to ask whether life itself is simply a very sophisticated kind of machine.
+The issue is not whether biological systems contain mechanisms, but whether machine ontology adequately explains what distinguishes living systems from other organised physical systems.
 
-APS accepts that living systems can be described in mechanistic terms.
+APS argues that it does not.
 
-But it rejects the idea that life *is* a machine.
+Living systems are not externally assembled devices operating toward externally imposed functions. They are viability-oriented organisations that continuously maintain the conditions of their own persistence through their own activity across time.
 
-[[box:how-aps-relates-to-other-theoretical-frameworks]]
+This difference is fundamental.
 
-## What the Machine Model Explains Well
+## Why Machine Models Became Influential
 
-The machine model is powerful because it captures:
+Machine metaphors became central to modern biology because they successfully explained many important features of organised systems.
 
-- structured organisation of parts  
-- causal interactions between components  
-- repeatable and predictable behaviour  
-- functional relationships between mechanisms  
+Machine models capture:
 
-In biology, mechanistic explanation is indispensable. It allows us to understand physiology, development, and molecular processes in precise detail.
+- causal interactions among components,
+- structured organisation,
+- functional integration,
+- repeatable and experimentally tractable behaviour,
+- mechanistic decomposition,
+- intervention and perturbation sensitivity.
 
-Where systems already exist, mechanistic models can describe how those systems operate.
+Mechanistic explanation therefore became enormously productive within physiology, molecular biology, neuroscience, developmental biology, and systems biology.
 
-But they do not explain what makes a system a living system in the first place.
+APS fully accepts the importance of these explanatory achievements.
 
-These models capture important features of structure and function, but they do not explain the viability-oriented organisation that makes a system a living system.
+Mechanistic investigation remains indispensable for biology because living systems are experimentally intelligible through perturbation, decomposition, intervention, and analysis of organised causal relations.
 
-APS distinguishes between evaluation and cognition. All living systems modulate their activity relative to viability, but cognition arises only when this evaluative activity becomes sufficiently integrated and temporally extended. Mechanistic models can describe how activity is structured, but they do not capture the evaluative organisation through which living systems differentiate conditions that support or undermine their own persistence. This evaluative organisation reflects the intrinsic normativity of living systems, grounding distinctions such as function and purpose in viability rather than design.
+Where living systems already exist, mechanistic explanation can describe how many organisational processes operate.
 
-## Machines Presuppose External Design
+But this does not yet explain what makes those systems living systems in the first place.
 
-A defining feature of machines is that their organisation is specified from outside.
+## What Machine Models Explain Well
 
-- their structure is designed  
-- their function is assigned  
-- their goals are determined externally  
-- their operation depends on conditions they do not create  
+Machine models are powerful because they describe organised causal structure.
 
-A machine does not determine what it is for. Its purpose is imposed. In living systems, purpose is not imposed design or externally defined goals, but is grounded in the organisation of activity relative to viability.
+They help explain:
 
-Living systems differ in a fundamental respect.
+- how components interact,
+- how signals propagate,
+- how processes regulate one another,
+- how local failures produce system-level consequences,
+- how coordinated activity generates organised behaviour.
 
-They do not receive their organisation from an external designer. They must sustain the conditions of their own existence through their own activity.
+APS therefore does not oppose mechanism to organisation.
 
-## Failure Means Something Different
+Mechanisms are real and biologically indispensable.
 
-The difference between machines and living systems becomes most visible in failure.
+However, mechanisms alone do not explain why living systems must continuously maintain themselves in order to continue existing.
+
+A machine can stop functioning while remaining the same machine.
+
+An organism cannot cease its viability-maintaining activity without ceasing to exist as the kind of system it is.
+
+This distinction reveals the limits of machine ontology.
+
+## Machines Presuppose External Organisation
+
+A defining feature of machines is that their organisation is specified externally.
+
+Machines are:
+
+- designed from outside,
+- constructed from externally arranged parts,
+- assigned externally defined purposes,
+- maintained through external intervention.
+
+Their organisation does not arise from their own activity.
+
+A machine does not determine what it is for, nor does it actively sustain the conditions under which its own existence remains possible.
+
+Its goals, functions, maintenance conditions, and operational environment are externally imposed.
+
+Living systems differ fundamentally in this respect.
+
+Organisms must continuously generate and regulate the conditions required for their own persistence. Their organisation is not merely assembled structure but ongoing continuity-maintaining activity.
+
+This distinction is central to APS.
+
+## Organised Persistence and Continuity Regulation
+
+APS interprets living systems as organised processes of persistence.
+
+Organisms do not merely possess organisation. They continuously maintain organisation across time through viability-oriented activity.
+
+Biological systems persist through:
+
+- metabolic regulation,
+- repair and replacement,
+- developmental continuity,
+- environmental coupling,
+- adaptive reorganisation,
+- perturbation-sensitive compensation,
+- coordinated multiscale regulation.
+
+Living systems therefore exist only insofar as they sustain the conditions necessary for their own continued existence.
+
+This is not characteristic of machines in the ordinary mechanistic sense.
+
+Machines may continue operating while externally maintained.
+
+Organisms must actively preserve their own viability through ongoing organisation.
+
+Biological explanation therefore concerns how continuity is maintained under changing conditions.
+
+APS accordingly treats organised persistence rather than mechanical construction as explanatorily central to life.
+
+## Failure Means Something Different in Living Systems
+
+The difference between machines and organisms becomes especially clear during failure.
 
 When a machine fails:
-- it stops functioning  
-- it can be repaired or replaced  
-- its failure has no significance for the machine itself  
 
-When a living system fails:
-- its organisation breaks down  
-- its continued existence is threatened  
-- failure is not just functional but existential  
+- it becomes non-operational,
+- it can often be externally repaired,
+- its breakdown has no significance for the machine itself.
 
-A broken machine is simply non-operational.
+Machine failure is functional.
 
-A dying organism is losing the conditions required to exist at all.
+By contrast, failure in living systems is existential.
 
-## Function Is Not Assigned
+When organisms fail:
 
-In machines, functions are defined externally. A part has a function because it was designed to perform a task.
+- organisational continuity deteriorates,
+- viability conditions collapse,
+- persistence becomes threatened,
+- the system may cease to exist as the organised entity it previously was.
 
-In living systems, function is not assigned.
+Biological breakdown therefore concerns more than interrupted function.
 
-It emerges from the normatively structured role a process plays in sustaining the system’s continued existence.
+It concerns the loss of continuity-maintaining organisation itself.
 
-This is why biological function cannot be reduced to mechanical function. It is grounded in viability, not design.
+This distinction helps explain why perturbation is philosophically and biologically important in APS.
 
-## Machines Do Not Maintain Themselves
+Perturbation reveals the organisational dependencies through which living systems preserve viability across time.
 
-Machines require maintenance.
+Repair, compensation, adaptation, and resilience become visible precisely because organisms must continuously sustain themselves under changing conditions.
 
-They:
-- depend on external energy inputs  
-- rely on external repair  
-- do not reorganise their own structure  
-- do not sustain the conditions of their own operation  
+## Mechanisms Within Organised Persistence
 
-Living systems do all of these things internally.
+APS does not reject mechanistic biology.
 
-They:
-- regulate their own energy flows  
-- repair and replace components  
-- reorganise under stress  
-- maintain the conditions that allow them to continue existing  
+Instead APS situates mechanisms within a broader framework of organised persistence.
 
-This form of self-sustaining organisation is not characteristic of machines as they are typically defined.
-
-## Mechanism Without Life
-
-It is possible to build systems that are extremely complex, highly regulated, and mechanistically sophisticated.
-
-But no matter how intricate a machine becomes, it does not:
-
-- exist for itself  
-- regulate its own conditions of existence  
-- lose its identity when activity ceases  
-- persist through its own ongoing organisation  
-
-This shows that mechanism, by itself, is not sufficient for life.
-
-### Machines, AI, and the Appearance of Cognition
-
-Contemporary artificial and synthetic systems can exhibit highly adaptive, flexible, and seemingly intelligent behaviour. They may learn, optimise, and respond to changing conditions in ways that resemble biological systems.
-
-However, these systems remain fundamentally different in their organisation.
-
-They do not exist for themselves, do not sustain their own conditions of persistence, and do not operate through viability-oriented, constraint-closed organisation. Their activity is defined relative to externally specified objectives, architectures, and maintenance conditions.
-
-For this reason, such systems may display complex or intelligent behaviour, but they do not, by themselves, instantiate cognition in the APS sense. Cognition, in APS, is not defined by behavioural complexity or problem-solving ability, but by the organisation of activity within systems that regulate their own continued existence.
-
-This distinction clarifies why increasing mechanical or computational sophistication does not, by itself, produce life or cognition.
-
-## The APS Perspective: Mechanism Within Organisation
-
-APS does not reject mechanistic explanation.
-
-It places it within a broader framework.
-
-The issue is therefore not whether mechanisms are real, but whether mechanism alone explains what makes living systems biological.
-
-[[box:what-aps-changes-and-what-it-does-not]]
+Mechanisms are biologically meaningful because of the roles they play within systems organised around viability maintenance and continuity regulation.
 
 In APS:
 
-- mechanisms describe how processes are organised  
-- organisation determines which processes matter  
-- viability defines the conditions under which organisation persists  
-- agency describes the activity through which those conditions are maintained  
+- mechanisms describe organised causal processes,
+- organisation determines which processes matter biologically,
+- viability defines the conditions under which organisation persists,
+- agency describes the activity through which those conditions are maintained.
 
-Mechanisms are real and indispensable.
+Mechanisms are therefore not explanatorily self-sufficient.
 
-But they are always embedded within a system that must sustain itself.
+A signalling pathway, membrane, neural circuit, behavioural process, or developmental mechanism acquires biological significance only insofar as it contributes to the persistence of the larger organised system within which it participates.
 
-Life is not a machine.
+APS thus preserves the empirical strengths of mechanistic explanation while rejecting atomistic reductionism.
 
-Machines are tools.
+Mechanisms remain indispensable, but they are embedded within larger systems of continuity-maintaining organisation.
 
-Living systems are organisations that must continue to exist through their own activity.
+## Function and Endogenous Normativity
+
+Machine functions are externally assigned.
+
+A machine component has a function because it was designed to perform a particular task within an externally specified system.
+
+Biological function differs fundamentally.
+
+In APS, biological functions emerge from the roles processes play in sustaining viability-oriented organisation across time.
+
+Functions are therefore grounded in organised persistence rather than imposed design.
+
+This also explains why biological systems exhibit endogenous normativity.
+
+Organisms continuously differentiate conditions that support or undermine their own persistence.
+
+Processes become:
+
+- functional or dysfunctional,
+- adaptive or maladaptive,
+- regulatory or disruptive,
+
+relative to the viability conditions governing organised persistence.
+
+Normativity therefore arises from the organisation of life itself rather than from external evaluation imposed upon biological systems.
+
+## Machines, AI, and Simulated Agency
+
+Contemporary artificial systems can exhibit highly sophisticated and adaptive behaviour.
+
+Machine-learning systems, robotics, artificial agents, and synthetic systems may:
+- optimise performance,
+- learn from experience,
+- adapt to changing conditions,
+- simulate goal-directed behaviour,
+- exhibit flexible problem-solving capacities.
+
+However, behavioural sophistication alone does not establish biological organisation.
+
+These systems remain fundamentally dependent upon externally specified architectures, externally maintained conditions, and externally imposed goals.
+
+They do not sustain themselves through viability-oriented, constraint-closed organisation.
+
+Nor do they regulate their own persistence in the biological sense developed within APS.
+
+For this reason APS distinguishes simulated agency from biological agency.
+
+Complex behaviour, information processing, or adaptive optimisation do not by themselves constitute life.
+
+Life depends upon organised persistence.
+
+## APS Is Not Anti-Mechanistic
+
+APS is not a rejection of mechanism, decomposition, experimentation, or mechanistic biology.
+
+Nor is APS a form of vague holism or anti-scientific organismic mysticism.
+
+APS instead argues that mechanistic explanation must be situated within a broader continuity-oriented framework capable of explaining:
+
+- viability,
+- persistence,
+- normativity,
+- repair,
+- adaptation,
+- organisational continuity,
+- scale-integrated regulation.
+
+Mechanistic decomposition remains scientifically indispensable.
+
+But biological intelligibility ultimately depends upon understanding how mechanisms participate within systems organised around the preservation of their own continued existence.
+
+This is why life exceeds machine ontology.
 
 ## Summary
 
-The machine analogy has been enormously productive in biology, helping to explain how living systems work.
+Machine analogies have been enormously productive in biology because they illuminate organised causal structure and mechanistic interaction.
 
-But life is not a machine.
+APS fully accepts the importance of mechanistic explanation.
 
-Machines are externally designed systems whose functions are imposed from outside. Living systems are self-sustaining organisations whose continued existence depends on their own activity.
+However, living systems are not merely machines.
 
-APS therefore rejects machine-reductionism without replacing it with vague holism. Living systems are not machines, but neither are they inexplicable wholes. They are organised processes whose components acquire biological significance through their contribution to viability-oriented persistence.
+Machines are externally specified devices whose purposes, maintenance, and organisation originate outside themselves.
 
-APS clarifies this distinction by grounding biological explanation in viability-oriented organisation rather than mechanical construction.
+Living systems are continuity-maintaining organisations that actively sustain the conditions of their own persistence through viability-oriented activity across time.
+
+Mechanisms matter biologically because they contribute to organised persistence.
+
+APS therefore rejects machine-reductionism without rejecting mechanistic biology itself.
+
+Life is not defined by mechanical construction alone, but by viability-oriented organisation sustained through continuous processes of organised persistence.
 
 ## Key Point
 
-Machine models describe structure and function, but life is defined by viability-oriented organisation.
+Machines can operate.
+
+Living systems must continuously maintain the conditions of their own existence.

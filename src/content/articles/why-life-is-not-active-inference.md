@@ -1,51 +1,66 @@
 ---
-date: 2026-04-27
-title: Why Life Is Not Active Inference
+date: 2026-05-28
+title: "Why Life Is Not Active Inference"
 slug: why-life-is-not-active-inference
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-17
-revised: 2026-05-17
-cluster: conceptual-foundations
+canonicalLockDate: 2026-05-28
+revised: 2026-05-28
+cluster: philosophy-of-biology
 
 abstract: >
-  Active Inference provides a powerful framework for modelling adaptive
-  behaviour through prediction, optimisation, and free energy minimisation.
-  APS accepts that this captures important aspects of biological regulation,
-  but rejects the stronger claim that inference, prediction, or optimisation
-  either define or explain the viability-oriented organisation constitutive of
-  life itself. APS situates inference within already existing biological
-  organisation grounded in evaluation, semiosis, and persistence-maintaining
-  activity.
+  Active Inference and the Free Energy Principle provide powerful frameworks
+  for modelling adaptive regulation, prediction, behavioural coordination,
+  and uncertainty reduction within biological and cognitive systems. APS
+  accepts the scientific importance of these approaches while rejecting the
+  stronger claim that inference, prediction, optimisation, or free-energy
+  minimisation fundamentally define or explain life itself. Predictive and
+  inferential organisation become biologically meaningful only within systems
+  already organised around viability-oriented organised persistence. APS
+  therefore situates inference within a broader continuity-oriented
+  explanatory framework grounded in evaluation, semiosis, endogenous
+  normativity, biological agency, and continuity-preserving persistence.
+
+keyPoints:
+  - Living systems may engage in predictive regulation, but life is not fundamentally active inference.
+  - Predictive organisation presupposes viability-oriented organised persistence.
+  - Evaluation and normativity are organisationally prior to inference.
+  - Free-energy minimisation does not itself explain biological persistence.
+  - Inference is one organisational strategy within already existing living systems.
+  - Predictive optimisation does not generate endogenous biological normativity independently.
+  - Active inference models adaptive coordination without fully explaining life as life.
 
 relatedGlossaryTerms:
   - biological-agency
   - evaluation
-  - cognition
   - semiosis
-  - normativity
-  - viability
-  - viability-orientation
-  - function
-  - constraint-closure
+  - meaning
   - information
   - representation
+  - cognition
+  - normativity
+  - viability
   - persistence
+  - function
+  - mechanism
+  - process
 
 relatedArticles:
-  - aps-architecture-map
-  - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
-  - aps-and-contemporary-theories
-  - why-life-is-not-a-machine
   - why-life-is-not-information-processing
-  - biological-causation-from-mechanism-to-organised-persistence
-  - why-ai-is-not-biological-agency
-  - evaluation-how-living-systems-modulate-activity-relative-to-viability
-  - semiosis-how-differences-come-to-matter-in-living-systems
-  - meaning-in-biology-an-aps-clarification
   - information-in-biology-an-aps-clarification
-  - representation-when-and-whether-it-arises-in-biological-systems
+  - meaning-in-biology-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - function-and-normativity-why-biological-organisation-matters
+  - purpose-the-organisation-of-viability-oriented-activity
+  - biological-agency-the-activity-of-organised-persistence
+  - biological-causation-from-mechanism-to-organised-persistence
+  - why-life-is-not-a-machine
+  - explanatory-priority-is-not-ontological-priority
+  - why-ai-is-not-biological-agency
+  - aps-and-contemporary-theories
+
+researchStreams: []
 
 references:
   - id: friston2010
@@ -61,13 +76,25 @@ references:
     authors: "Friston, K."
     year: 2013
     title: "Life as We Know It"
-    journal: "Journal of The Royal Society Interface"
+    journal: "Journal of the Royal Society Interface"
     volume: "10"
     pages: "20130475"
     doi: "10.1098/rsif.2013.0475"
 
+  - id: hohwy2013
+    authors: "Hohwy, J."
+    year: 2013
+    title: "The Predictive Mind"
+    publisher: "Oxford University Press"
+
+  - id: clark2016
+    authors: "Clark, A."
+    year: 2016
+    title: "Surfing Uncertainty"
+    publisher: "Oxford University Press"
+
   - id: ramstead2018
-    authors: "Ramstead, M. J. D., Veissière, S. P. L., & Kirmayer, L. J."
+    authors: "Ramstead, M. J. D., Veissière, S. P. L., and Kirmayer, L. J."
     year: 2018
     title: "Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention"
     journal: "Frontiers in Psychology"
@@ -75,163 +102,189 @@ references:
     pages: "1090"
     doi: "10.3389/fpsyg.2018.01090"
 
-  - id: hohwy2013
-    authors: "Hohwy, J."
-    year: 2013
-    title: "The Predictive Mind"
-    source: "Oxford University Press"
-
-  - id: clark2016
-    authors: "Clark, A."
-    year: 2016
-    title: "Surfing Uncertainty"
-    source: "Oxford University Press"
-
   - id: deacon2011
     authors: "Deacon, T. W."
     year: 2011
     title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
+    publisher: "W. W. Norton & Company"
 
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
+  - id: moreno-mossio-2015
+    authors: "Moreno, A. and Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+    publisher: "Springer"
 
   - id: noble2016
     authors: "Noble, D."
     year: 2016
     title: "Dance to the Tune of Life: Biological Relativity"
-    source: "Cambridge University Press"
+    publisher: "Cambridge University Press"
+
+  - id: bechtel-2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: spencer-2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Why Life Is Not Active Inference
 
-Active Inference, developed within the framework of the Free Energy Principle, has become one of the most influential contemporary approaches in cognitive science, neuroscience, systems theory, and theoretical biology.
+Active Inference and the Free Energy Principle have become among the most influential contemporary frameworks in neuroscience, cognitive science, systems theory, artificial intelligence, and theoretical biology.
 
-Within this framework, organisms are modelled as systems that minimise prediction error or free energy through perception and action. Adaptive behaviour emerges through the continual regulation of system–environment relations relative to expected states.
+Within these approaches, organisms are often modelled as systems that minimise prediction error or free energy through perception, action, learning, and adaptive regulation.
 
-This provides a powerful and elegant account of:
-- adaptive regulation;
-- prediction;
-- perception;
-- learning;
-- and behavioural coordination.
+Behaviour emerges through:
+- predictive coordination,
+- inferential updating,
+- uncertainty reduction,
+- and optimisation relative to expected states.
 
-APS accepts that Active Inference captures important aspects of adaptive biological behaviour.
+These approaches have generated powerful explanatory and mathematical tools for understanding:
+- adaptive behaviour,
+- perception,
+- behavioural coordination,
+- learning,
+- predictive regulation,
+- and organism–environment interaction.
 
-However, APS rejects the stronger claim that inference, prediction, or optimisation either define or fundamentally explain the viability-oriented organisation constitutive of life itself.
+APS fully accepts the scientific importance of these achievements.
 
-[[box:how-aps-relates-to-other-theoretical-frameworks]]
+However, APS rejects the stronger claim that prediction, inference, optimisation, or free-energy minimisation fundamentally explain life itself.
 
-## The Central APS Reversal
+Living systems may engage in predictive regulation.
 
-APS argues that predictive and inferential organisation emerge only within systems already organised around viability-oriented persistence.
+But life is not fundamentally active inference.
+
+# The Central APS Reversal
+
+APS argues that predictive and inferential organisation become biologically meaningful only within systems already organised around viability-oriented organised persistence.
 
 This reverses a common explanatory assumption.
 
 Active Inference often treats:
-- prediction;
-- inference;
-- generative modelling;
-- and free energy minimisation
+- prediction,
+- inference,
+- optimisation,
+- generative modelling,
+- and free-energy minimisation
 
 as foundational explanatory principles.
 
 APS instead argues that:
-- viability-oriented organisation;
-- evaluation;
-- semiosis;
-- and persistence-maintaining activity
+- viability-oriented organisation,
+- continuity-preserving persistence,
+- evaluation,
+- semiosis,
+- meaning,
+- normativity,
+- and biological agency
 
-are organisationally prior.
+are explanatorily prior.
 
-Within APS, inferential organisation occupies a downstream position within biological organisation:
+Predictive organisation therefore occupies a downstream position within biological organisation.
 
-viability  
-↓  
-evaluation  
-↓  
-semiosis  
-↓  
-meaning  
-↓  
-information  
-↓  
-representation  
-↓  
-inference / prediction
+Within APS, the organisational sequence is approximately:
+
+```text
+viability
+↓
+continuity-preserving evaluation
+↓
+semiosis
+↓
+meaning
+↓
+information
+↓
+representation
+↓
+prediction / inference
 
 Living systems do not exist because they minimise prediction error.
 
-Rather, predictive organisation becomes biologically significant because living systems already exist as viability-oriented systems whose persistence depends upon regulating conditions across time.
+Rather, predictive organisation becomes biologically significant because living systems already exist as continuity-maintaining systems whose persistence depends upon regulating conditions across time.
 
-> **Where this concept fits:** This article clarifies APS’s relationship to Active Inference and the Free Energy Principle. APS accepts the explanatory usefulness of inferential and predictive modelling while rejecting the claim that prediction or optimisation fundamentally explain life itself. Inferential organisation is instead situated within already existing viability-oriented systems grounded in evaluation, semiosis, and persistence-maintaining activity. For the broader structure of APS, see *APS Architecture Map — Navigating the Framework*.
+Why Active Inference Became Influential
 
-## What Active Inference Explains Well
+Active Inference became influential because it successfully explains many important aspects of adaptive biological organisation.
 
-Active Inference successfully explains many important features of biological systems, including:
-- perception as an active process;
-- behaviour as structured prediction;
-- learning as adaptive updating;
-- action as expectation fulfilment;
-- and system–environment coupling.
+It provides powerful models for:
 
-These are genuine aspects of how organisms regulate activity.
+adaptive coordination,
+behavioural flexibility,
+predictive regulation,
+sensory integration,
+learning,
+uncertainty reduction,
+and organism–environment coupling.
 
-The framework also provides powerful mathematical and computational tools for modelling:
-- adaptive coordination;
-- behavioural flexibility;
-- uncertainty reduction;
-- and predictive organisation.
+The framework also helps explain why living systems often behave in anticipatory and context-sensitive ways.
 
-APS therefore fully recognises the explanatory value of Active Inference within:
-- neuroscience;
-- behavioural modelling;
-- systems biology;
-- and cognitive science.
+APS fully recognises these explanatory strengths.
 
-Where organised living systems already exist, Active Inference provides sophisticated ways of describing how they coordinate behaviour relative to changing conditions.
+Where organised living systems already exist, predictive frameworks can illuminate:
 
-## Inference Presupposes Life
+how organisms coordinate behaviour,
+how regulation adapts to changing conditions,
+how expectations shape activity,
+and how systems dynamically stabilise relations with their environments.
 
-Despite its explanatory strengths, Active Inference does not explain what makes a system a living system in the first place.
+APS therefore does not reject predictive modelling.
 
-Inference requires:
-- a bounded system;
-- organised sensory and active states;
-- persistence conditions;
-- viability-relative constraints;
-- and conditions under which prediction error matters.
+It clarifies its explanatory scope.
 
-These organisational conditions are not produced by inference itself.
+Prediction Presupposes Organised Persistence
 
-They are preconditions for it.
+In order for predictive regulation to occur, a system must already exist as a viability-oriented continuity-maintaining organisation.
+
+It must:
+
+maintain organisational integrity,
+preserve boundaries,
+regulate internal conditions,
+sustain persistence across time,
+and remain viable under changing conditions.
+
+These organisational requirements are not generated by prediction itself.
+
+They are preconditions for predictive organisation to become biologically meaningful at all.
 
 APS therefore asks a prior explanatory question:
 
-> **What makes there be a viability-oriented organisation capable of predictive regulation at all?**
+What makes there be a continuity-preserving viability-oriented organisation capable of predictive regulation in the first place?
 
 APS argues that these conditions arise through:
-- viability-oriented organisation;
-- constraint closure;
-- endogenous persistence;
-- evaluation;
-- semiosis;
-- and self-maintaining biological activity.
 
-A system must already exist as an organised persistence-maintaining process before inferential regulation can emerge within it.
+organised persistence,
+continuity-preserving regulation,
+evaluation,
+semiosis,
+endogenous normativity,
+and viability-oriented biological activity.
 
-Inference therefore presupposes life organisationally.
+Prediction therefore presupposes life organisationally.
 
-It does not explain life fundamentally.
+It does not fundamentally explain life itself.
 
-## Optimisation Is Not Persistence
+Optimisation Is Not Persistence
 
-Active Inference explains behaviour through optimisation.
+Active Inference frequently explains adaptive behaviour through optimisation.
 
-Systems minimise free energy or prediction error relative to expected states or generative models.
+Systems minimise:
+
+prediction error,
+uncertainty,
+surprisal,
+or free energy
+
+relative to expected states or generative models.
 
 APS argues that optimisation alone does not explain biological organisation.
 
@@ -240,38 +293,35 @@ Living systems are not fundamentally organised around optimisation.
 They are organised around persistence.
 
 A living system must:
-- sustain viability;
-- maintain organisational integrity;
-- regulate conditions of existence;
-- and continue existing through ongoing activity.
 
-This persistence requirement is more fundamental than prediction or optimisation.
+sustain viability,
+maintain continuity,
+regulate conditions of existence,
+reorganise under perturbation,
+and preserve organised persistence through its own activity.
 
-What appears as goal-directed behaviour is grounded in viability-oriented organisation rather than in optimisation relative to internally represented targets.
+This persistence requirement is explanatorily more fundamental than prediction or optimisation.
 
-APS therefore distinguishes:
-- optimisation;
-from:
-- viability-oriented persistence.
+Prediction may support viability-oriented regulation.
 
-Optimisation describes certain forms of adaptive regulation.
+But viability-oriented organised persistence explains why predictive regulation matters biologically in the first place.
 
-Viability explains why such regulation matters biologically.
-
-## Evaluation Before Inference
+Evaluation Before Inference
 
 APS grounds biological organisation in evaluation rather than inference.
 
 Evaluation is the differential modulation of activity relative to viability conditions.
 
 Living systems continuously regulate activity in relation to conditions that:
-- support persistence;
-- threaten persistence;
-- or alter organisational coherence.
 
-This evaluation is not fundamentally inference or prediction, but the direct modulation of activity relative to viability-oriented persistence.
+preserve continuity,
+threaten persistence,
+destabilise organisation,
+or support viability.
 
-Inference may emerge within increasingly sophisticated forms of evaluative organisation, but evaluation itself is biologically prior.
+This evaluative organisation is biologically prior to inferential modelling.
+
+Inference may emerge within increasingly sophisticated forms of evaluative organisation, but evaluation itself does not require explicit prediction or representation.
 
 APS therefore reverses a common explanatory assumption.
 
@@ -279,33 +329,34 @@ Inference does not generate biological normativity.
 
 Biological normativity makes inferential organisation possible.
 
-[[box:what-aps-means-by-cognition]]
+Semiosis Before Representation
 
-## Semiosis Before Representation
+Active Inference often treats organisms as operating through:
 
-Active Inference often treats biological systems as operating through:
-- internal models;
-- representational expectations;
-- or probabilistic inference structures.
+internal models,
+representational expectations,
+probabilistic inference structures,
+or predictive coding architectures.
 
-APS does not deny that some organisms may develop model-like organisational capacities.
+APS does not deny that some organisms may develop increasingly sophisticated model-like capacities.
 
-However, it rejects the claim that representation is foundational to life.
+However, APS rejects the claim that representation is foundational to life.
 
-Living systems do not require explicit internal models in order to regulate activity relative to viability.
+Living systems do not require explicit internal models in order to regulate activity relative to viability conditions.
 
 Their organisation itself determines:
-- what counts as relevant;
-- how differences matter;
-- and how activity is modulated.
 
-Semiosis emerges because differences become biologically meaningful within evaluative organisation rather than through representational encoding alone.
+what matters,
+how differences become significant,
+and how activity is modulated relative to persistence.
 
-Meaning therefore arises from viability-oriented organisation rather than from representation in isolation.
+Semiosis emerges because differences acquire biological significance within evaluative organisation.
 
-Representation may emerge within increasingly integrated forms of cognition, but representation remains organisationally downstream rather than foundational.
+Meaning therefore arises through viability-oriented organised persistence rather than through representation alone.
 
-## Cognition Is Not Prediction Alone
+Representation may emerge within more integrated forms of cognition, but it remains organisationally downstream rather than explanatorily foundational.
+
+Cognition Is Not Prediction Alone
 
 Active Inference is often presented as a general theory of cognition.
 
@@ -313,100 +364,164 @@ APS accepts that prediction may participate in some forms of cognition.
 
 However, cognition is not reducible to prediction alone.
 
-Cognition, in APS, is not fundamentally the use of an internal model to predict the world.
+Cognition in APS is not fundamentally the use of internal models to predict external states.
 
-It is the integrated and temporally extended organisation of evaluative semiosis relative to viability.
+It is the temporally organised integration of evaluative semiosis relative to viability-oriented persistence.
 
 Cognition emerges where systems:
-- coordinate viability-relevant conditions across time;
-- regulate activity contextually;
-- integrate multiple evaluative relations;
-- and organise behaviour beyond immediate environmental coupling.
+
+coordinate viability-relevant conditions across time,
+regulate activity contextually,
+integrate multiple evaluative relations,
+and organise behaviour beyond immediate environmental coupling.
 
 Prediction may become one component of this organisation.
 
-But cognition itself is grounded in evaluative biological activity rather than inferential modelling alone.
+But cognition itself remains grounded in evaluative biological activity rather than inferential modelling alone.
 
-## Free Energy and Viability
+Free Energy Is Not Biological Purpose
 
-The Free Energy Principle provides a formal account of how systems remain within bounded states.
+The Free Energy Principle provides a formal account of how systems maintain bounded states.
 
 APS reframes this organisationally.
 
-What matters for a living system is not fundamentally the minimisation of an abstract quantity, but the maintenance of viability-oriented conditions required for organised persistence.
+What matters biologically is not fundamentally the minimisation of an abstract quantity.
+
+What matters is the maintenance of viability-oriented continuity across changing conditions.
 
 Living systems:
-- maintain themselves;
-- repair damage;
-- regulate conditions;
-- and reorganise under perturbation.
 
-These conditions are generated and sustained through the organisation of the system itself.
+repair damage,
+regulate internal organisation,
+adapt under perturbation,
+preserve continuity,
+and sustain themselves through ongoing activity.
 
-Free energy minimisation may formally describe certain stability relations.
+These organisational conditions are generated and maintained through the system’s own continuity-preserving organisation.
+
+Free-energy minimisation may formally describe some stability relations.
 
 But it does not explain:
-- how viability conditions arise;
-- why persistence matters biologically;
-- or how living systems sustain themselves organisationally.
 
-APS therefore situates free energy minimisation within a broader theory of viability-oriented biological organisation.
+how viability conditions arise,
+why persistence matters biologically,
+how endogenous normativity emerges,
+or why organised continuity must be preserved.
 
-## Artificial Systems and Predictive Optimisation
+APS therefore situates free-energy minimisation within a broader theory of viability-oriented organised persistence.
 
-Artificial systems built using Active Inference principles may exhibit:
-- adaptive behaviour;
-- predictive regulation;
-- behavioural flexibility;
-- and complex optimisation.
+Mechanistic Realisation and Predictive Organisation
+
+APS does not reject mechanistic biology.
+
+Predictive coordination is mechanistically realised.
+
+Neural systems,
+developmental regulation,
+metabolic signalling,
+behavioural organisation,
+and adaptive coordination all involve organised mechanistic processes.
+
+However, mechanisms themselves become biologically meaningful only within continuity-maintaining organisation.
+
+Predictive mechanisms therefore do not independently explain life.
+
+They participate within larger systems already organised around viability-oriented persistence.
+
+APS consequently preserves:
+
+mechanistic explanation,
+predictive modelling,
+computational analysis,
+and systems neuroscience
+
+while rejecting predictive-inferential reductionism.
+
+Artificial Systems and Predictive Optimisation
+
+Artificial systems built using predictive or inferential architectures may exhibit:
+
+adaptive coordination,
+behavioural flexibility,
+optimisation,
+predictive regulation,
+and complex information processing.
 
 APS fully recognises these achievements.
 
-However, such systems remain fundamentally different from biological systems unless they possess viability-oriented, self-maintaining organisation.
+However, such systems remain fundamentally different from biological systems unless they possess viability-oriented self-maintaining organisation.
 
 They do not:
-- sustain their own conditions of existence;
-- maintain endogenous organisational closure;
-- regulate persistence for their own sake;
-- or undergo biological breakdown when inferential organisation fails.
 
-This demonstrates that predictive optimisation alone is not sufficient for biological agency or life.
+sustain endogenous continuity,
+preserve viability for their own sake,
+maintain themselves through organised persistence,
+or undergo existential biological breakdown when predictive coordination fails.
 
-For further discussion, see *Why AI Is Not Biological Agency*.
+This demonstrates that predictive optimisation alone is insufficient for biological agency or life.
 
-[[box:aps-box-definition-diagnosis-and-evidence]]
+Informational and Inferential Description Are Not Ontology
 
-## The APS Perspective
+APS distinguishes between:
 
-APS does not reject Active Inference.
+inferential description,
+and:
+inferential ontology.
 
-It situates it within a broader organisational framework.
+Predictive and inferential models may provide highly useful descriptions of:
 
-From an APS perspective:
-- Active Inference describes important patterns of adaptive regulation;
-- it provides powerful formal tools for modelling predictive organisation;
-- predictive organisation presupposes viability-oriented systems already capable of evaluation and persistence;
-- and inference emerges only within already organised biological activity.
+regulation,
+behaviour,
+coordination,
+learning,
+and adaptive responsiveness.
 
-The primary explanatory task is therefore not merely to model optimisation or prediction.
+But usefulness of description does not establish that life fundamentally is inference or prediction.
 
-It is to explain the organisation that makes persistence possible in the first place.
+APS therefore rejects the inference:
 
-Inference is one way living systems coordinate behaviour.
+from predictive modelling,
+to:
+predictive ontology.
+
+Living systems are not fundamentally inferential systems.
+
+Inference is one organisational strategy operating within already existing continuity-maintaining biological organisation.
+
+The APS Perspective
+
+APS situates active inference within a broader continuity-oriented explanatory framework.
+
+In APS:
+
+viability-oriented organisation is explanatorily primary,
+continuity-preserving persistence stabilises organisation across time,
+evaluation modulates activity relative to viability,
+semiosis structures meaningful differentiation,
+meaning emerges through evaluative organisation,
+information coordinates meaningful differences,
+and prediction may emerge within increasingly integrated forms of cognition and adaptive regulation.
+
+Inference therefore becomes one mode of organisational coordination within already existing living systems.
 
 It is not the foundational basis of life itself.
 
-Inference must therefore be understood through the same organisational grammar governing biological explanation more generally:
-- agency;
-- process;
-- scale;
-- viability;
-- evaluation;
-- semiosis;
-- meaning;
-- cognition;
-- and persistence.
+Conclusion
 
-Life is not active inference.
+Active Inference provides powerful tools for modelling predictive regulation, adaptive coordination, and behavioural organisation.
 
-Active inference is one possible mode of organisation within already existing living systems.
+APS fully recognises its scientific value.
+
+However, predictive and inferential organisation become biologically meaningful only within systems already organised around viability-oriented organised persistence.
+
+Prediction may support viability-oriented regulation.
+
+But viability-oriented organised persistence explains why predictive regulation matters biologically in the first place.
+
+Life is not fundamentally active inference.
+
+Active inference is one possible organisational strategy within already existing continuity-maintaining living systems.
+
+Key Point
+
+Prediction and inference become biologically meaningful only within systems already organised around viability-oriented organised persistence across changing conditions.

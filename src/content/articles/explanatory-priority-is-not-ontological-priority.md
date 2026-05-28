@@ -1,20 +1,35 @@
 ---
-date: 2026-04-13
-title: Explanatory Priority Is Not Ontological Priority
+date: 2026-05-28
+title: "Explanatory Priority Is Not Ontological Priority"
 slug: explanatory-priority-is-not-ontological-priority
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-13
-revised: 2026-04-13
-cluster: conceptual-foundations
+canonicalLockDate: 2026-05-28
+revised: 2026-05-28
+cluster: philosophy-of-biology
+
 abstract: >
-  APS distinguishes between what must be explained first and what is most real or fundamental. Explanatory priority concerns the order required for understanding biological organisation, whereas ontological priority concerns what exists or grounds existence. This article clarifies why APS gives explanatory priority to organised persistence, agency, and viability without claiming that these are separate substances or ontologically prior entities.
+  APS distinguishes between explanatory priority and ontological priority.
+  Explanatory priority concerns the organisational conditions required for
+  biological intelligibility, whereas ontological priority concerns what is
+  most fundamental in existence. APS gives explanatory priority to
+  viability-oriented organised persistence because biological processes become
+  intelligible as living processes only within continuity-maintaining
+  organisation. This does not imply that organisation, persistence, or agency
+  exist independently of material, mechanistic, or physical constitution.
+  APS therefore preserves mechanistic biology, material causation, and
+  scientific naturalism while rejecting the assumption that explanatory
+  centrality automatically determines ontological supremacy.
+
 keyPoints:
-  - Explanatory priority concerns the order of understanding, not the order of being.
-  - APS gives explanatory priority to organised persistence because biological explanation presupposes living organisation.
-  - Giving priority to organisation does not mean denying the reality of components such as genes, molecules, or mechanisms.
-  - APS rejects the inference that what explains biology best must also be its sole or deepest ontological foundation.
-  - Agency, process, and scale are co-constitutive dimensions of living organisation, not separate ontological layers.
+  - Explanatory priority concerns intelligibility, not metaphysical supremacy.
+  - APS gives explanatory priority to organised persistence because biological intelligibility presupposes continuity-maintaining organisation.
+  - Organisational explanation does not deny material constitution or mechanistic causation.
+  - Mechanisms remain real, indispensable, and biologically meaningful within organised persistence.
+  - APS rejects both atomistic reductionism and ontological holism.
+  - Agency, process, and scale are co-constitutive aspects of living organisation rather than separate ontological layers.
+  - Top-down and bottom-up descriptions are analytic perspectives on continuity-preserving biological organisation.
+
 relatedGlossaryTerms:
   - explanatory-grammar
   - biological-organisation
@@ -22,62 +37,356 @@ relatedGlossaryTerms:
   - process
   - scale
   - viability
+  - persistence
+  - mechanism
+  - organisational-realism
+  - reductionism
+  - emergence
+
 relatedArticles:
-  - explanatory-grammar
+  - explanatory-geometry-of-biology
   - biological-explanation-what-needs-to-be-explained
   - biological-causation-from-mechanism-to-organised-persistence
-  - why-aps-is-not-hierarchical
+  - reductionism-in-biology-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
+  - why-life-is-not-a-machine
+  - why-aps-is-not-organicism
+  - organisational-realism-in-biology
+  - function-and-normativity-why-biological-organisation-matters
+  - purpose-the-organisation-of-viability-oriented-activity
   - description-explanation-and-definition-in-biology
+
+references:
+  - id: bechtel2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: cummins1975
+    authors: "Cummins, R."
+    year: 1975
+    title: "Functional Analysis"
+    journal: "Journal of Philosophy"
+    volume: "72"
+    pages: "741–765"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+
+  - id: morenomossio2015
+    authors: "Moreno, A. and Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
+
+  - id: nicholsondupre2018
+    authors: "Nicholson, D. J. and Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: walsh2015
+    authors: "Walsh, D. M."
+    year: 2015
+    title: "Organisms, Agency, and Evolution"
+    publisher: "Cambridge University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
-## Why this distinction matters
+# Explanatory Priority Is Not Ontological Priority
 
-Biology often confuses two different questions. One asks what must be placed first in explanation if living systems are to be understood coherently. The other asks what is most fundamental in reality. APS insists that these are not the same question. A framework may assign explanatory priority to a feature of living systems without treating that feature as a separate substance, a hidden essence, or the sole ontological basis of life.
+Biology often conflates two fundamentally different questions.
 
-This distinction matters because many disputes in biology arise when explanatory claims are misread as metaphysical claims. If one says that organised persistence must be understood before natural selection can be properly interpreted, this does not imply that persistence exists independently of organisms, processes, or material components. It means only that explanation fails unless the conditions of biological continuity are made explicit.
+One concerns:
+- what must be specified first if living systems are to become biologically intelligible.
 
-## What explanatory priority means in APS
+The other concerns:
+- what is most fundamental in existence itself.
 
-Explanatory priority concerns the order of intelligibility. It identifies what must be specified first if later claims are to make biological sense. In APS, living organisation has explanatory priority because the central concepts of biology already presuppose it. Selection presupposes organisms that persist long enough to reproduce. Function presupposes organised contribution to viability. Adaptation presupposes systems capable of sustaining themselves through change.
+APS insists that these are not the same question.
 
-APS therefore begins with viability-oriented, constraint-closed organisation not because this is an ontologically separate layer, but because it is the condition that makes biological description intelligible as biological description. Without it, one may still describe chemistry, mechanism, or dynamics, but one has not yet explained life as life.
+Explanatory priority concerns the organisational conditions required for intelligibility.
 
-This priority reflects a general feature of biological explanation: the organisation of the whole must be understood before the roles of its parts can be made sense of. Components such as genes, enzymes, or structures do not carry intrinsic biological meaning in isolation; their significance arises only within the viability-oriented organisation they contribute to sustaining. In this sense, what appears “final” in causal analysis—the maintenance of the system as a whole—is explanatorily prior: it defines the conditions under which mechanistic descriptions become biologically intelligible.
+Ontological priority concerns metaphysical fundamentality or the order of being.
 
-## What ontological priority would mean
+APS therefore gives explanatory priority to viability-oriented organised persistence without claiming that persistence, organisation, agency, or continuity exist independently of material constitution, mechanistic processes, or physical reality.
 
-Ontological priority is a stronger claim. It concerns what is most fundamental in being, what grounds the existence of other things, or what is metaphysically basic. APS does not infer such priority merely from explanatory necessity. It does not claim that agency, process, or scale float above matter, override mechanism, or replace components with abstractions.
+This distinction is essential for understanding the APS framework correctly.
 
-Instead, APS treats agency, process, and scale as analytic projections of one living organisation. They are ways of making explicit the structure of biological reality, not additions to it. To say that agency is explanatorily indispensable is not to say that agency is a separate ontological substance. It is to say that living systems cannot be adequately understood if their self-maintaining, viability-oriented activity is omitted from the account.
+# Why This Distinction Matters
 
-## Why the confusion recurs
+Many conceptual disputes in biology arise because explanatory claims are misread as metaphysical claims.
 
-Reductionist habits often encourage the assumption that the smallest components must be the most real, and therefore that any explanatory framework beginning elsewhere must be making an inflated metaphysical claim. APS resists this inference. The fact that genes, molecules, and mechanisms are materially indispensable does not mean they possess automatic explanatory priority in every biological context.
+If APS says that organised persistence must be understood before natural selection, function, adaptation, or normativity can be properly interpreted, this does not imply that persistence exists independently of organisms, mechanisms, material processes, or physical systems.
 
-A gene may be ontically present in every organismal process, yet still fail to explain that process unless it is situated within the organised system whose viability gives it biological significance. Likewise, to say that the organism or the organisation must come first in explanation is not to deny the existence of components. It is to deny that components explain biological order in isolation.
+It means only that biological explanation fails unless the conditions of continuity-preserving viability are made explicit.
 
-This distinction also clarifies recurring debates about “top-down” and “bottom-up” causation in biology. APS does not posit competing causal directions or privileged levels of explanation. What are described as bottom-up processes (molecular interactions, biochemical mechanisms) and top-down processes (organismal regulation, system-level constraint) are analytically distinct aspects of a single organised system. The activity of components is enabled and constrained by the organisation they collectively sustain, while that organisation exists only through their ongoing activity.
+Similarly, when APS gives explanatory centrality to:
+- organisation,
+- continuity,
+- agency,
+- normativity,
+- or purposiveness,
 
-Similarly, APS does not deny that biological systems are materially constituted by physical and chemical processes. Rather, it denies that such processes automatically possess explanatory priority. Components explain biological phenomena only insofar as they participate in viability-oriented, constraint-closed organisation. The question of what something is made of is therefore distinct from the question of how it becomes biologically intelligible.
+it is not proposing additional substances, hidden vital forces, or ontologically independent biological entities.
 
-## APS and organised persistence
+APS instead identifies the organisational conditions under which biological processes become intelligible as living processes.
 
-APS gives explanatory priority to organised persistence because biology is concerned with systems that maintain themselves across time. This is not a claim that persistence is a thing over and above the organism. It is a claim that the organism is intelligible only as an organised continuity of viability-oriented activity. Persistence is therefore explanatorily prior to any account that treats life as the accidental outcome of parts, because the parts become biologically meaningful only within a persisting organisation.
+# What Explanatory Priority Means in APS
 
-For this reason, APS often says that natural selection, function, adaptation, and inheritance presuppose organised persistence. This is an explanatory ordering claim. It does not mean that persistence exists before matter, before process, or before structure. It means that, in biological explanation, the conditions that make living continuity possible must be clarified before downstream evolutionary or mechanistic concepts can be properly interpreted.
+Explanatory priority concerns the order of intelligibility.
 
-## Co-constitution instead of hierarchy
+It identifies what must be clarified first if later biological claims are to make coherent sense.
 
-APS also avoids converting explanatory priority into hierarchy. Agency, process, and scale are co-constitutive dimensions of living organisation. One may begin with one of them for explanatory purposes, but none exists independently of the others. Explanatory entry point is therefore not ontological rank.
+APS gives explanatory priority to viability-oriented organised persistence because the central concepts of biology already presuppose continuity-maintaining organisation.
 
-This is why APS resists both component-centrism and level-based thinking. To begin explanation with organisation is not to place organisation on top of a hierarchy. It is to recognise that the living system must be understood as an integrated whole whose dimensions can be analytically distinguished without being ontologically separated.
+Selection presupposes systems that persist long enough to reproduce.
 
-## The methodological consequence
+Function presupposes organised contribution to viability.
 
-The practical consequence is straightforward. When APS assigns explanatory priority to viability-oriented organisation, it is making a methodological and conceptual claim about how biology should proceed. It is not proposing an extra entity, an occult force, or a metaphysical replacement for material causation. APS instead clarifies the conditions under which material processes count as biological processes at all.
+Adaptation presupposes systems capable of maintaining continuity under changing conditions.
 
-This allows APS to preserve the reality of genes, molecules, mechanisms, and environmental interactions while denying that any one of these automatically possesses explanatory primacy. Biological explanation must begin where biological intelligibility begins: with organised systems whose activity sustains the conditions of their own persistence.
+Normativity presupposes systems for which some conditions matter relative to persistence.
 
-## Key Point
+Purpose presupposes organisation oriented toward viability-preserving continuity.
 
-Explanatory priority in APS specifies what must come first for biological intelligibility without implying ontological primacy. Top-down and bottom-up descriptions are not competing causes but analytic perspectives on a single, scale-coupled organisation whose material constitution alone does not fix explanatory priority.
+Without organised persistence, one may still describe:
+- chemistry,
+- physics,
+- mechanisms,
+- or causal interactions,
+
+but one has not yet explained life as life.
+
+APS therefore begins with continuity-maintaining organisation because biological intelligibility depends upon it.
+
+# Organised Persistence and Biological Intelligibility
+
+Living systems are not biologically intelligible merely because they contain molecules, genes, mechanisms, or physical processes.
+
+These components become biologically meaningful only within organised systems that preserve continuity across time.
+
+A gene,
+enzyme,
+metabolic pathway,
+neural circuit,
+or behavioural process does not possess intrinsic biological significance in isolation.
+
+Its significance emerges through its contribution to viability-oriented organised persistence.
+
+This is why APS gives explanatory priority to organisation and continuity.
+
+The claim is methodological and explanatory rather than metaphysical.
+
+APS does not argue that organisation exists apart from material constitution.
+
+Rather, APS argues that material processes become biologically intelligible only within continuity-maintaining organisation.
+
+# What Ontological Priority Would Mean
+
+Ontological priority is a much stronger claim.
+
+It concerns:
+- what is most fundamental in existence,
+- what grounds the existence of other things,
+- or what is metaphysically basic.
+
+APS does not infer such priority from explanatory necessity.
+
+APS does not claim:
+- that organisation floats above matter,
+- that agency exists independently of physical systems,
+- that persistence is a separate substance,
+- or that biological wholes supersede material constitution.
+
+Nor does APS deny:
+- mechanisms,
+- molecules,
+- genes,
+- biochemical interactions,
+- or physical causation.
+
+Living systems remain materially constituted and mechanistically realised.
+
+APS instead clarifies how those material and mechanistic processes become biologically intelligible within organised persistence.
+
+# Mechanisms Remain Real
+
+APS is not anti-mechanistic.
+
+Mechanistic explanation remains indispensable for biology.
+
+Living systems are experimentally tractable through:
+- perturbation,
+- decomposition,
+- intervention,
+- mechanistic analysis,
+- and causal investigation.
+
+Metabolic pathways,
+developmental systems,
+immune processes,
+neural organisation,
+and ecological regulation all involve organised mechanistic relations.
+
+APS therefore fully preserves mechanistic biology.
+
+However, APS rejects the assumption that mechanisms automatically possess explanatory primacy merely because they are materially constitutive.
+
+Mechanisms become biologically meaningful because they participate in continuity-maintaining organisation.
+
+Mechanistic processes explain biology only insofar as they contribute to viability-oriented organised persistence.
+
+APS therefore preserves mechanistic realism while rejecting atomistic explanatory reductionism.
+
+# Organisation Is Not Mystical Holism
+
+APS also rejects ontological holism.
+
+Organisation in APS is not:
+- a mystical force,
+- an irreducible cosmic unity,
+- a hidden substance,
+- or a metaphysical entity existing above components.
+
+APS does not posit:
+- organismic essences,
+- anti-material vital principles,
+- or autonomous ontological wholes detached from material constitution.
+
+Instead, organisation refers to the dynamically maintained relations through which living systems preserve continuity across time.
+
+Organisational explanation therefore reflects the structure of biological intelligibility rather than a separate metaphysical realm.
+
+APS consequently avoids both:
+- reductionistic atomism,
+- and inflated ontological holism.
+
+# Parts and Wholes in APS
+
+APS treats parts and wholes relationally rather than hierarchically.
+
+Living systems are organised such that:
+- components sustain the organisation of the whole,
+- while the organisation of the whole gives biological significance to the activity of components.
+
+Neither perspective is ontologically independent of the other.
+
+The organism is not “above” its components.
+
+Nor are components biologically intelligible independently of the organised system they participate in sustaining.
+
+This relational structure explains why APS resists both:
+- component-centrism,
+- and level-based metaphysical hierarchy.
+
+Organisation,
+mechanism,
+process,
+agency,
+and persistence are co-constitutive aspects of one dynamically maintained biological reality.
+
+# Top-Down and Bottom-Up Reconsidered
+
+APS also reframes debates concerning “top-down” and “bottom-up” causation.
+
+APS does not posit competing causal directions operating independently within biological systems.
+
+Instead, what are described as:
+- bottom-up processes,
+- mechanistic interactions,
+- organismal regulation,
+- or system-level constraint
+
+are analytic perspectives on one continuity-preserving organised system.
+
+Component activity contributes to maintaining organisation.
+
+Organisation constrains and stabilises component activity.
+
+Both descriptions refer to dynamically integrated aspects of continuity-maintaining biological organisation.
+
+APS therefore replaces hierarchical causal metaphors with continuity-oriented organisational integration.
+
+# Organisational Realism Without Metaphysical Inflation
+
+APS supports organisational realism.
+
+Organisation is biologically real because continuity-maintaining organisation has observable consequences for:
+- viability,
+- adaptation,
+- repair,
+- resilience,
+- malfunction,
+- development,
+- and persistence.
+
+However, recognising the reality of organisation does not require treating organisation as ontologically independent of material constitution.
+
+Organisation is real as the dynamically maintained relational structure through which biological persistence becomes possible.
+
+APS therefore preserves:
+- scientific naturalism,
+- material constitution,
+- mechanistic causation,
+- and empirical tractability
+
+while rejecting the assumption that explanatory centrality automatically implies metaphysical supremacy.
+
+# Why Explanatory Priority Matters
+
+Clarifying explanatory priority helps resolve several persistent confusions in biology.
+
+It explains:
+- why organisation matters biologically,
+- why mechanisms remain indispensable,
+- why continuity becomes explanatorily central,
+- why reductionism can become explanatorily insufficient,
+- why biological intelligibility differs from mere physical description,
+- and why living systems require continuity-oriented explanation without requiring metaphysical dualism.
+
+APS therefore gives explanatory priority to organised persistence because biological intelligibility depends upon continuity-maintaining organisation across time.
+
+This is an explanatory clarification, not a metaphysical hierarchy.
+
+# Conclusion
+
+Explanatory priority in APS concerns the organisational conditions required for biological intelligibility.
+
+Ontological priority concerns what is metaphysically fundamental.
+
+APS distinguishes these clearly.
+
+Living systems are materially constituted and mechanistically realised.
+
+However, biological processes become intelligible as living processes only within viability-oriented organised persistence.
+
+Organisation therefore has explanatory centrality without requiring ontological independence.
+
+Mechanisms remain real.
+
+Material causation remains indispensable.
+
+Scientific naturalism remains intact.
+
+APS consequently explains life through continuity-oriented organised persistence without collapsing explanation into metaphysical hierarchy.
+
+# Key Point
+
+APS gives explanatory priority to viability-oriented organised persistence because biological intelligibility depends upon continuity-maintaining organisation, not because organisation exists independently of material, mechanistic, or physical constitution.
