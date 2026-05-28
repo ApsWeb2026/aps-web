@@ -1,225 +1,437 @@
 ---
-date: 2026-04-27
-title: "Biological Agency — The Activity of Self-Maintenance"
-slug: "biological-agency-the-activity-of-self-maintenance"
+date: 2026-05-28
+title: "Biological Agency — The Activity of Organised Persistence"
+slug: biological-agency-the-activity-of-organised-persistence
 abstract: >
-  This article defines biological agency as the viability-oriented activity
-  through which living systems sustain, regulate, and restore the conditions
-  required for their continued persistence. Within APS, agency is understood
-  not as an isolated property but as the temporally continuous activity through
-  which organised living systems maintain themselves across changing conditions.
+  Biological agency is the viability-oriented activity through which living
+  systems sustain, regulate, reconstruct, and preserve organised continuity
+  across changing conditions. Within APS, agency is understood not as an
+  isolated property or cognitive capacity, but as the temporally continuous
+  modulation of organised persistence through which living systems maintain
+  viable continuity across physiological, developmental, ecological, and
+  evolutionary transformation. Agency therefore names the active
+  continuity-preserving organisation through which life exists.
+
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-21
+canonicalLockDate: 2026-05-28
 cluster: conceptual-foundations
-revised: 2026-05-21
+revised: 2026-05-28
+
+keyPoints:
+  - Biological agency is the viability-oriented modulation of organised persistence.
+  - Living systems actively regulate and reconstruct the conditions required for continuity.
+  - Agency is not equivalent to conscious intention or cognition.
+  - Biological agency emerges through temporally organised continuity-preserving activity.
+  - Constraint organisation provides the basis for agency, while agency modulates constraints relative to viability.
+  - Agency is developmental, ecological, reconstructive, and multiscale.
+  - APS explains life as active continuity preservation enacted through biological agency.
 
 relatedGlossaryTerms:
   - biological-agency
   - viability
   - persistence
-  - temporality
+  - temporal-organisation
   - process
   - scale
   - semiosis
   - evaluation
   - normativity
+  - constraint
   - constraint-closure
   - biological-organisation
+  - adaptation
+  - development
 
 relatedArticles:
-  - explanatory-geometry-of-biology
-  - biological-causation-from-mechanism-to-organised-persistence
+  - biological-organisation
+  - constraint-how-organisation-becomes-persistence
+  - persistence-organised-continuity-through-time
+  - temporal-organisation-and-organised-persistence
+  - viability-the-organising-principle-of-biological-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
   - cognition-where-does-it-belong-in-biology
-  - why-life-is-not-information-processing
   - why-ai-is-not-biological-agency
+  - explanatory-geometry-of-biology
   - aps-diagnostics-empirical-tractability
+
+references:
+  - id: moreno-mossio-2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: mossio-2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
+
+  - id: nicholson-dupre-2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: deacon-2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton"
+
+  - id: spencer-2026-agency
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Introduction
+# Biological Agency — The Activity of Organised Persistence
 
-Living systems do not merely exist—they actively sustain themselves.
+> **Where this article fits:** This article develops the APS account of biological agency as the viability-oriented modulation of organised persistence across changing conditions. It integrates persistence, temporal organisation, constraint organisation, evaluation, semiosis, development, and ecological coupling within a unified continuity-based account of life.
 
-Cells regulate their internal conditions, organisms respond to changing environments, and living systems across domains maintain the organisation required for their continued existence. This activity is not incidental. It is constitutive of life itself.
+Living systems do not merely exist.
 
-The APS framework captures this through the concept of biological agency.
+They actively sustain themselves across changing conditions.
 
-Biological agency refers to the ongoing viability-oriented activity through which living systems sustain organisational continuity across time.
+Cells regulate internal organisation.
 
-## Beyond Mechanism and Intentionality
+Organisms reorganise activity under perturbation.
 
-Biological systems are often described in two contrasting ways.
+Development reconstructs continuity through transformation.
 
-On the one hand, they are treated mechanistically, as systems whose behaviour is fully explained by underlying physical processes. On the other, they are described in intentional terms, as if they pursue goals or make decisions.
+Ecological interaction reshapes persistence conditions.
 
-Both perspectives capture something important, but neither fully explains the distinctive organisation of living systems.
+Living systems therefore persist not through passive stability, but through ongoing continuity-preserving activity.
 
-Biological agency in APS avoids this dichotomy. It does not imply conscious intention, symbolic representation, or reflective awareness, but neither does it reduce living activity to passive mechanism.
+APS describes this activity as biological agency.
 
-Instead, it identifies the organised activity through which living systems sustain themselves as temporally continuous persistence-maintaining processes.
+Biological agency is the viability-oriented modulation of organised persistence across time.
 
-## Agency as Viability-Oriented Activity
+Agency is therefore not:
+- an additional property layered onto life
+- a specialised cognitive achievement
+- or a form of conscious intention
 
-In APS, biological agency is the viability-oriented, self-regulating activity through which a system sustains, modulates, and re-creates the conditions of its own persistence.
+It is one of the fundamental organisational conditions through which living systems preserve continuity across changing conditions.
 
-Living systems do not simply undergo change. They regulate the conditions under which they can continue to exist.
+Life persists because living systems actively regulate, reconstruct, and sustain the organisation required for continued existence.
 
-Agency is therefore not a structure, property, or isolated capacity. It is an ongoing activity—what living systems do to keep going.
+Agency is the enactment of that continuity.
 
-Persistence is not static survival but active organisational continuity maintained through changing conditions.
+# Beyond Mechanism and Intentionality
 
-In APS, this dimension is not explanatory in isolation but functions within a structured system of relations [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+Biological systems are often interpreted in one of two ways.
 
-## Life and Agency
+They are either:
+- reduced to passive mechanisms governed entirely by physical causation
+or:
+- described in intentional language suggesting goals, beliefs, or conscious purpose
 
-Life and biological agency are not separate phenomena. They are the same organisation viewed from different perspectives.
+Both perspectives capture something important, but neither adequately explains the organisation of living systems.
 
-- **Life** names the organised condition of persistence  
-- **Agency** names the activity that enacts and sustains that organisation  
+APS rejects this dichotomy.
 
-This distinction clarifies a central feature of living systems: persistence depends upon what the system does across time.
+Biological agency does not require:
+- reflective awareness
+- symbolic representation
+- deliberative cognition
+- or human-like intentionality
 
-Living systems continue to exist only because they continuously regulate the conditions required for continued existence.
+At the same time, living systems cannot be adequately explained as passive mechanisms alone.
 
-## Agency and Constraint Closure
+Living systems actively regulate the conditions required for continued persistence.
 
-Biological agency is grounded in constraint-closed organisation.
+Agency therefore identifies the organised activity through which viability-oriented continuity is maintained across changing conditions.
 
-Living systems maintain networks of mutually sustaining constraints that preserve the conditions required for continued existence. Agency consists in the activity through which these constraints are sustained, reinforced, reorganised, and repaired.
+Mechanisms explain organised operations.
 
-Through this activity, systems differentiate changes relative to viability and act to maintain organisational coherence across time and scale.
+Agency explains the viability-oriented modulation of organised persistence.
 
-Agency therefore depends upon recursive self-maintaining organisation rather than passive stability.
+# Agency as Viability-Oriented Activity
 
-## Agency, Normativity, and What Matters
+In APS, biological agency is the ongoing activity through which living systems:
+- sustain viability
+- regulate persistence conditions
+- reorganise under perturbation
+- reconstruct degraded organisation
+- and preserve continuity across transformation
 
-Because living systems must sustain their organisation, not all states are equivalent. Some support persistence, while others undermine it.
+Living systems do not simply undergo change.
 
-Biological agency makes this difference operational. It is the activity through which systems respond to what matters for their continued existence.
+They modulate activity relative to conditions affecting persistence.
 
-Normativity is therefore not an externally imposed feature. It is intrinsic to biological agency itself: activity becomes organised relative to viability.
+Agency is therefore not a static property.
 
-What matters biologically emerges because persistence must be actively maintained through time.
+It is an ongoing organisational process enacted continuously across time.
 
-## Agency, Process, and Scale
+Persistence is not passive survival.
 
-In APS, biological agency is one dimension of a triad:
+It is active continuity maintenance achieved through viability-oriented organisation.
 
-- **Agency** — viability-oriented regulation  
-- **Process** — the dynamic organisation of activity through time  
-- **Scale** — the coordination of activity across spatial and temporal domains  
+Living systems persist because they continuously enact the conditions required for continued persistence.
 
-These are analytically distinguishable but ontologically co-constitutive. Each describes the same viability-oriented, constraint-closed organisation from a different perspective.
+# Life and Agency
 
-Agency is emphasised methodologically because it makes the normativity of living systems explicit.
+Life and agency are not separate phenomena.
 
-Process makes explicit the temporally continuous character of biological organisation.
+They are different perspectives on the same organisational reality.
 
-Scale makes explicit the distributed coordination through which persistence is maintained across levels of organisation.
+- **Life** names the organised condition of persistence.
+- **Agency** names the activity through which that persistence is enacted and sustained.
 
-## Agency and Evaluation
+This distinction clarifies a central principle of APS:
 
-Evaluation is one of the central operational expressions of biological agency.
+> continuity exists only because living systems continuously produce it.
+
+Living systems therefore remain viable not because persistence is automatically guaranteed, but because organisational continuity is actively maintained through ongoing activity.
+
+Agency is thus intrinsic to life itself.
+
+# Agency and Constraint Organisation
+
+Biological agency emerges through organised constraint modulation.
+
+Constraint organisation channels activity into continuity-preserving organisation.
+
+Agency modulates those constraints relative to changing viability conditions.
+
+Living systems therefore:
+- reinforce constraints
+- relax constraints
+- redistribute organisational relations
+- reconstruct degraded organisation
+- and reorganise continuity under perturbation
+
+Agency depends upon constraint organisation, but is not reducible to closure alone.
+
+Constraint closure explains how organisation becomes self-maintaining.
+
+Agency explains how organisation becomes actively viability-oriented across changing conditions.
+
+Without organised constraints, agency cannot emerge.
+
+Without agency, organised persistence could not remain viable through transformation.
+
+# Agency, Normativity, and What Matters
+
+Because living systems must preserve continuity, not all states are equivalent.
+
+Some conditions:
+- support persistence
+- stabilise organisation
+- and maintain viability
+
+Others threaten continuity.
+
+Agency makes this distinction operational.
+
+Living systems continuously regulate activity relative to what matters for persistence.
+
+Normativity therefore emerges intrinsically from biological organisation itself.
+
+Agency is the process through which viability becomes organisationally meaningful.
+
+What matters biologically emerges because continuity must be actively sustained across time.
+
+# Agency, Process, and Scale
+
+APS situates biological explanation within the coordinated relation between:
+- agency
+- process
+- and scale
+
+Agency concerns viability-oriented modulation.
+
+Process concerns the temporally organised continuity through which organisation unfolds.
+
+Scale concerns the coordination of organisation across interacting spatial and temporal domains.
+
+These dimensions are analytically distinguishable but organisationally inseparable.
+
+Living systems persist only because continuity is:
+- actively modulated
+- temporally organised
+- and coordinated across interacting scales simultaneously
+
+Agency therefore cannot be isolated from process or scale.
+
+It emerges through their ongoing coordination within organised persistence.
+
+# Agency and Evaluation
+
+Evaluation is one of the principal operational expressions of agency.
 
 Living systems continuously modulate activity relative to conditions affecting viability.
 
-Evaluation therefore functions as the real-time enactment of agency:
-- persistence establishes the conditions that must be maintained
+Evaluation therefore functions as the real-time enactment of agency.
+
+- persistence establishes continuity conditions
 - evaluation modulates activity relative to those conditions
-- semiosis structures differences as biologically meaningful within that modulation
+- semiosis structures differences as biologically meaningful
+- and agency integrates these processes into organised continuity-preserving activity
 
-Agency integrates these processes into ongoing self-maintaining activity.
+Without evaluation, agency would collapse into undifferentiated activity.
 
-Without evaluation, agency would collapse into undifferentiated activity. Without agency, evaluation would lack an organised system within which modulation could occur.
+Without agency, evaluation would lack organisational orientation.
 
-## Agency and Semiosis
+# Agency and Semiosis
 
-In APS, semiosis is the lived expression of biological agency.
+Semiosis is one of the lived expressions of biological agency.
 
-It consists in the real-time differentiation of what supports or threatens continued existence. Through semiosis, living systems register and respond to differences that matter for persistence.
+Living systems differentiate conditions relative to viability.
 
-Agency provides the organisational condition for this activity. Semiosis is its observable enactment within ongoing regulation.
+Differences become biologically meaningful because they participate in continuity-preserving activity.
 
-Meaning therefore emerges not from abstract symbolism alone, but from differences participating in temporally organised viability-oriented activity.
+Semiosis therefore emerges through:
+- viability-oriented organisation
+- evaluation
+- continuity regulation
+- and agency itself
 
-## Agency as Self-Maintaining Activity
+Meaning does not originate in abstract symbolism alone.
 
-Biological agency can be understood as recursive self-maintenance.
+It emerges through differences participating in the organised modulation of persistence across time.
 
-Living systems continuously regenerate the constraints required to remain within viable conditions. They do not simply remain stable; they actively re-establish the conditions under which stability is possible.
+Agency provides the organisational condition through which semiosis becomes possible.
 
-Agency is therefore fundamentally temporal.
+# Agency as Reconstruction
 
-Living systems must continuously integrate present activity with future persistence. Organisational continuity is not given automatically but actively maintained through ongoing regulation.
+Biological agency is reconstructive.
 
-In this sense, biological agency is the organised activity through which persistence becomes something that matters to the system itself.
+Living systems continuously regenerate the organisation required for continued persistence.
 
-## Agency and Cognition
+They do not merely maintain static stability.
+
+They reorganise continuity across:
+- developmental transformation
+- ecological instability
+- injury
+- perturbation
+- energetic fluctuation
+- and environmental change
+
+Agency therefore operates through reconstructive continuity rather than rigid preservation.
+
+Living systems persist because organisational continuity is continuously regenerated across changing conditions.
+
+# Agency and Development
+
+Agency is developmental.
+
+Living systems transform organisational trajectories across time.
+
+Development therefore does not merely unfold passively.
+
+It actively reorganises persistence conditions.
+
+Cellular differentiation, physiological maturation, behavioural plasticity, ecological learning, and adaptive transformation all involve ongoing modulation of organised continuity.
+
+Agency itself consequently develops, reorganises, and transforms historically.
+
+Persistence therefore depends upon developmental continuity across changing organisational states.
+
+# Agency and Ecology
+
+Biological agency extends beyond isolated organisms.
+
+Living systems exist through organism–environment coupling.
+
+Environmental conditions shape:
+- energetic possibilities
+- developmental trajectories
+- ecological interaction
+- and persistence constraints
+
+At the same time, organisms actively modify environmental organisation through:
+- metabolism
+- behaviour
+- niche construction
+- ecological engineering
+- and environmental restructuring
+
+Agency therefore emerges through reciprocal continuity relations between systems and environments.
+
+Living systems and ecological conditions continuously co-organise persistence across time.
+
+# Agency and Cognition
 
 APS distinguishes biological agency from cognition while preserving continuity between them.
 
-Agency concerns viability-oriented self-maintaining activity in general.
+Agency concerns viability-oriented continuity modulation in general.
 
-Cognition emerges when this organisation becomes sufficiently integrated and temporally extended such that regulation is organised in relation to conditions beyond the immediate present.
+Cognition emerges when this organisation becomes sufficiently integrated and temporally extended such that regulation occurs relative to conditions beyond the immediate present.
 
-All cognition therefore presupposes agency, but not all agency constitutes cognition.
+All cognition therefore presupposes agency.
 
-This distinction allows APS to:
-- ground cognition within biology
-- preserve continuity across living systems
-- avoid anthropocentric definitions of mind
-- and explain how sophisticated cognition emerges from more fundamental forms of viability-oriented organisation
+Not all agency constitutes cognition.
 
-## Agency and evolution
+This distinction:
+- grounds cognition within biology
+- preserves continuity across living systems
+- avoids anthropocentric definitions of mind
+- and explains how sophisticated cognition emerges from more fundamental forms of viability-oriented organisation
 
-Biological agency is not static. It is transformed across evolutionary time.
+# Agency and Evolution
 
-evolution can be understood as the historical transformation of persistence-sustaining organisation. As such, it is the long-term transformation of biological agency across generations and environments.
+Biological agency is historically transformed across evolutionary time.
 
-Present agency therefore reflects both:
-- ongoing real-time persistence-maintaining activity
+Evolution reshapes the organisation through which persistence becomes possible.
+
+Present agency therefore reflects:
+- immediate continuity-preserving activity
 and:
-- historically accumulated organisational transformations
+- historically accumulated organisational transformation
 
-This perspective connects immediate biological activity with the evolutionary processes that have shaped it.
+Agency consequently links:
+- physiology
+- development
+- ecology
+- and evolution
 
-## Agency and Diagnostics
+within a unified continuity architecture.
+
+# Agency and Diagnostics
 
 Biological agency also has diagnostic significance within APS.
 
-Living systems can often be identified not merely by structure, but by the organised way they respond to perturbation.
+Living systems can often be identified through how they reorganise activity under perturbation.
 
-Perturbation-based diagnosis therefore depends partly upon detecting agency:
-- whether systems reorganise activity relative to viability-threatening conditions
-- whether regulation contributes to restoring persistence
-- and whether organisational continuity is actively maintained across changing conditions
+Perturbation-based diagnosis therefore depends partly upon detecting:
+- viability-oriented regulation
+- reconstructive continuity
+- adaptive reorganisation
+- and continuity-preserving modulation
 
 Agency therefore provides an operational bridge between APS ontology and empirical diagnosis.
 
-## Why Biological Agency Matters
+# Why Biological Agency Matters
 
-Clarifying biological agency helps resolve several key issues:
+Clarifying biological agency helps resolve several major conceptual problems.
 
-- Why living systems appear goal-directed without invoking conscious intention  
-- Why biological activity cannot be reduced to passive mechanism  
-- How normativity arises within living systems  
-- How persistence is actively maintained  
-- Why meaning and evaluation emerge within biological organisation  
-- How cognition remains continuous with more basic forms of life  
+It explains:
+- why living systems appear purposive without requiring conscious intention
+- why biological activity cannot be reduced to passive mechanism
+- how normativity emerges within living systems
+- how continuity is actively maintained
+- how evaluation and semiosis become biologically meaningful
+- how cognition emerges from more fundamental organisational processes
+- and how persistence remains possible across changing conditions
 
-By identifying biological agency as temporally continuous viability-oriented activity, APS provides a naturalised account of purposiveness grounded in biological organisation itself.
+APS therefore naturalises purposiveness through viability-oriented organised persistence.
 
-## Conclusion
+# Conclusion
 
-Biological agency is the activity through which life exists.
+Biological agency is the viability-oriented modulation of organised persistence across changing conditions.
 
-Living systems persist because they actively sustain and regulate the conditions required for their own existence. This activity is not an additional feature of life—it is what life is.
+Living systems persist because they continuously regulate, reconstruct, and sustain the organisation required for viable continuity through time.
 
-In APS, biological agency makes explicit the viability-oriented organisation that defines living systems. It shows how persistence becomes an active, self-maintaining achievement enacted through process and coordinated across scale.
+Agency is therefore not an additional feature of life.
 
-Agency is therefore not merely something organisms possess.
+It is the active continuity-preserving organisation through which life exists.
 
-It is the temporally continuous activity through which organised living systems maintain themselves through time.
-
+APS explains life as temporally organised, viability-oriented, reconstructive continuity enacted through biological agency across interacting scales and changing ecological conditions.

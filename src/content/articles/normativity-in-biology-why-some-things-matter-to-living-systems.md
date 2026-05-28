@@ -3,25 +3,31 @@ date: 2026-04-08
 title: "Normativity in Biology — Why Some Things Matter to Living Systems"
 slug: "normativity-in-biology-why-some-things-matter-to-living-systems"
 abstract: >
-  This article explains biological normativity in APS as the intrinsic,
-  viability-relative evaluation through which living systems distinguish between
-  conditions that sustain persistence and those that undermine it. Normativity
-  is grounded in vulnerability, self-maintaining organisation, and the ongoing
-  possibility of failure rather than in subjective judgment or externally
-  imposed value.
+  This article introduces biological normativity in APS as the intrinsic,
+  viability-relative asymmetry through which living systems distinguish
+  persistence-supporting from persistence-undermining conditions. Normativity
+  emerges because living systems exist under conditions where organised
+  continuity can succeed or fail. APS therefore explains normativity not as
+  externally imposed value or subjective judgment, but as an organisational
+  feature of viability-oriented persistence enacted through temporally
+  organised biological activity. This article situates normativity within the
+  broader framework of organised persistence explored further in *Function
+  and Normativity — Why Biological Organisation Matters*.
 
 status: canonical
 canonical: true
-canonicalLockDate: 2026-04-08
-revised: 2026-05-11
+canonicalLockDate: 2026-05-28
+revised: 2026-05-28
 cluster: conceptual-foundations
 
 keyPoints:
-  - Biological normativity arises from viability-oriented organisation.
+  - Biological normativity arises from viability-oriented organised persistence.
   - Living systems distinguish persistence-supporting from persistence-undermining conditions.
+  - Normativity emerges because organised continuity can succeed or fail.
   - Normativity is organisational rather than subjective or externally imposed.
-  - Vulnerability and the possibility of failure are central to biological normativity.
+  - Vulnerability and the possibility of breakdown are central to biological normativity.
   - Cognition presupposes biological normativity rather than generating it.
+  - APS naturalises normativity through organised persistence rather than external teleology.
 
 relatedGlossaryTerms:
   - normativity
@@ -29,20 +35,25 @@ relatedGlossaryTerms:
   - persistence
   - biological-agency
   - function
-  - constraint-closure
-  - mattering
   - perturbation
-  - teleonomy
+  - malfunction
+  - evaluation
+  - semiosis
+  - temporal-organisation
+  - adaptation
   - mechanism
 
 relatedArticles:
-  - purpose-the-organisation-of-viability-oriented-activity
   - function-how-living-systems-make-persistence-operational
+  - function-and-normativity-why-biological-organisation-matters
+  - biological-agency-the-activity-of-organised-persistence
+  - viability-the-organising-principle-of-biological-persistence
+  - persistence-organised-continuity-through-time
   - malfunction-breakdown-and-death
-  - biological-agency-the-activity-of-self-maintenance
-  - biological-goals-without-mentalism
-  - description-explanation-and-definition-in-biology
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - semiosis-how-differences-come-to-matter-in-living-systems
   - biological-causation-from-mechanism-to-organised-persistence
+  - description-explanation-and-definition-in-biology
 
 researchStreams: []
 
@@ -78,7 +89,7 @@ references:
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
 
-  - id: diPaolo2005
+  - id: dipaolo2005
     authors: "Di Paolo, E."
     year: 2005
     title: "Autopoiesis, Adaptivity, Teleology, Agency"
@@ -86,259 +97,335 @@ references:
     volume: "4"
     pages: "429–452"
 
+  - id: spencer-2026-agency
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Normativity in Biology — Why Some Things Matter to Living Systems
 
+> **Where this article fits:** This article introduces biological normativity within APS as the viability-relative asymmetry through which living systems distinguish persistence-supporting from persistence-undermining conditions. It explains why biological significance emerges naturally from organised persistence and situates normativity within the broader continuity framework developed across APS.
+
 Normativity in biology concerns how living systems distinguish between conditions that sustain persistence and those that undermine it.
 
-In APS, normativity is intrinsic to viability-oriented organisation.
-Living systems exist only through ongoing self-maintaining activity, and this creates conditions under which:
-- some states support persistence,
-- while others threaten breakdown or collapse.
+Living systems exist under conditions where:
+- continuity may stabilise
+- organisation may degrade
+- regulation may fail
+- and persistence may collapse
 
-Normativity therefore emerges because viability is continuously at stake.
+Some states support viable continuity.
 
-It is not imposed externally.
-It is organisationally enacted.
+Others threaten breakdown.
 
-## Why Normativity Seems “Unscientific”
+This asymmetry is fundamental to life.
 
-Normativity concerns standards:
-- better or worse,
-- success or failure,
-- viable or non-viable.
+APS explains biological normativity as emerging from viability-oriented organised persistence.
 
-In human contexts, normativity is associated with:
-- morality,
-- rules,
-- values,
-- and judgment.
+Normativity is therefore not:
+- externally imposed value
+- subjective judgment
+- symbolic interpretation
+- or reflective cognition
 
-It therefore often appears incompatible with natural science.
+It is an intrinsic organisational feature of living systems existing under conditions where continuity can succeed or fail.
 
-Physics describes what happens, not what should happen.
-Chemistry explains reactions, not mistakes.
+# Why Normativity Appears Problematic
 
-Biology, however, routinely employs normative language:
-- cells malfunction,
-- organs fail,
-- traits are adaptive or maladaptive,
-- organisms are healthy or diseased.
+Normativity concerns distinctions such as:
+- better or worse
+- success or failure
+- functional or dysfunctional
+- viable or non-viable
 
-These are not merely descriptive distinctions.
-They presuppose standards internal to the organisation of living systems themselves.
+Within human contexts, normativity is often associated with:
+- morality
+- explicit rules
+- judgment
+- deliberation
+- and social evaluation
+
+It therefore frequently appears incompatible with natural science.
+
+Physics explains what happens, not what ought to happen.
+
+Chemistry describes reactions, not mistakes.
+
+Biology, however, routinely employs normative distinctions:
+- cells malfunction
+- organs fail
+- repair succeeds
+- adaptations improve persistence
+- organisms become diseased
+- and regulation breaks down
+
+These distinctions are not merely descriptive.
+
+They presuppose standards internal to living organisation itself.
 
 The question is therefore not whether biology contains normativity.
 
 It is how biological normativity becomes possible.
 
-## Human Normativity Is Not the Model
+# Human Normativity Is Not the Starting Point
 
 Human normativity is:
-- reflective,
-- linguistic,
-- socially mediated,
-- and culturally elaborated.
+- reflective
+- linguistic
+- culturally mediated
+- socially elaborated
+- and historically structured
 
 Because this form is familiar, it is often treated as the model for all normativity.
 
 APS rejects this assumption.
 
 Biological normativity precedes:
-- language,
-- deliberation,
-- explicit rules,
-- and moral judgment.
+- language
+- symbolic reasoning
+- explicit judgment
+- and moral reflection
 
-It arises wherever systems must sustain themselves under conditions where persistence can succeed or fail.
+It emerges wherever systems must preserve viable continuity under conditions where persistence can fail.
 
-## Norms Without Minds
+Human forms of normativity therefore build upon more fundamental biological forms rather than creating normativity from nothing.
+
+# Norms Without Minds
 
 Consider a single cell.
 
-If membrane integrity is maintained and metabolism remains regulated, the cell persists.
-If these conditions fail, the system disintegrates.
+If membrane organisation remains regulated and metabolism continues coherently, the cell persists.
 
-This asymmetry is not imposed by an observer.
-It reflects a real organisational difference between persistence and collapse.
+If these organisational conditions fail, the system disintegrates.
 
-The cell does not judge.
-No intention is required.
+This distinction is not imposed by an observer.
+
+It reflects a real asymmetry between:
+- viable continuity
+and:
+- organisational collapse
+
+No reflective awareness is required.
+
 No representation need be present.
 
-Yet some conditions are biologically better for the system than others.
+No conscious evaluation is necessary.
 
-Normativity here is not mental.
-It is organisational.
+Yet some states remain biologically better for the system than others.
 
-## Viability, Vulnerability, and Failure
+Normativity therefore does not originate in minds alone.
 
-APS grounds normativity in viability-oriented organisation.
+It emerges from viability-oriented organised persistence itself.
 
-Living systems must continuously sustain the conditions of their own persistence.
-Because those conditions are vulnerable, success and failure become biologically meaningful.
+# Viability, Vulnerability, and Failure
+
+APS grounds biological normativity in viability-oriented organisation.
+
+Living systems must continuously preserve the conditions required for continued persistence.
+
+Because those conditions remain vulnerable:
+- breakdown matters
+- perturbation matters
+- degradation matters
+- and repair matters
 
 Normativity therefore depends fundamentally upon vulnerability.
 
 A system incapable of failure would possess no internally meaningful distinction between:
-- viable and non-viable states,
-- successful and unsuccessful regulation,
-- repair and breakdown.
+- viable and non-viable states
+- successful and failed regulation
+- continuity and collapse
 
-Living systems exist precisely under conditions where:
-- perturbation matters,
-- damage matters,
-- and collapse remains possible.
+Living systems exist precisely under conditions where organised continuity remains continuously at risk.
 
 [[box:failure-reveals-organisation]]
 
-Normativity therefore arises not because living systems possess beliefs about survival, but because persistence is organisationally non-trivial for them.
+Normativity therefore emerges because persistence is organisationally non-trivial.
 
-## Teleology Rejected and Reframed
+# Normativity Beyond Teleology
 
-Classical biology often explained normativity teleologically:
+Classical biology often grounded normativity teleologically:
 parts existed for the sake of the whole.
 
-Modern biology largely rejected such explanations in order to avoid appeals to design or intention.
+Modern biology largely rejected such explanations in order to avoid appeals to:
+- design
+- intention
+- or mystical purpose
 
 However, purely mechanistic accounts left an explanatory gap.
 
-Mechanisms explain how processes unfold.
-They do not explain why malfunction counts as malfunction or why some outcomes matter biologically while others do not.
+Mechanisms explain how processes occur.
 
-APS resolves this by grounding normativity in viability-oriented organisation.
+They do not explain:
+- why malfunction counts as malfunction
+- why breakdown matters biologically
+- or why some organisational states are persistence-supporting while others are persistence-undermining
 
-Processes matter because living systems must actively sustain themselves against breakdown.
+APS resolves this problem by grounding normativity in viability-oriented organised persistence.
 
-Normativity therefore emerges from organised persistence rather than from externally imposed purpose.
+Processes matter biologically because living systems must actively preserve continuity against degradation and collapse.
 
-## Mattering as Viability-Asymmetry
+Normativity therefore emerges naturally from organised persistence rather than externally imposed purpose.
 
-In APS, something matters biologically when it makes a difference to viability.
+# Mattering as Viability-Asymmetry
 
-- toxins matter because they disrupt metabolism,
-- water matters because it sustains regulation,
-- damage matters because it threatens organisational integrity.
+In APS, something matters biologically when it affects viability-oriented continuity.
 
-This mattering is:
-- objective,
-- causally grounded,
-- and organisation-dependent.
+- toxins matter because they destabilise persistence
+- nutrients matter because they support metabolic continuity
+- damage matters because it degrades organisation
+- repair matters because it reconstructs continuity
 
-It reflects the asymmetry between persistence and collapse within living systems.
+Biological mattering is therefore:
+- objective
+- causally grounded
+- organisationally structured
+- and continuity-relative
 
-Biological causation is therefore not normatively neutral.
+It reflects the asymmetry between persistence and collapse within living systems themselves.
 
-Processes become biologically meaningful because they contribute to:
-- sustaining,
-- restoring,
-- destabilising,
+Processes become biologically meaningful because they contribute differently to:
+- sustaining
+- restoring
+- destabilising
 - or undermining
 
-viability-oriented organisation.
+organised continuity.
 
-## Normativity, Function, and Agency
+# Normativity and Biological Agency
 
-Normativity grounds the possibility of:
-- function,
-- malfunction,
-- repair,
-- adaptation,
-- and biological agency.
+Biological agency operationalises normativity.
 
-Function concerns how processes contribute to persistence.
-Normativity explains why those contributions count as successful or defective.
+Living systems actively regulate:
+- metabolism
+- behaviour
+- development
+- repair
+- adaptation
+- and ecological interaction
 
-Agency becomes possible because living systems possess internally grounded stakes in their continued persistence.
+relative to conditions affecting persistence.
+
+Agency therefore transforms normativity into organised continuity-preserving activity.
 
 Without normativity:
-- failure would not matter,
-- repair would be unintelligible,
-- and adaptation would possess no evaluative significance.
+- failure would not matter
+- repair would be unintelligible
+- and adaptation would possess no evaluative significance
 
-Normativity is therefore foundational to biological organisation itself.
+Normativity is therefore foundational to biological agency itself.
 
 [[box:aps-box-purpose-normativity-function]]
 
-## Normativity Is Not Cognition
+# Normativity and Evaluation
 
-Normativity does not require:
-- representation,
-- learning,
-- deliberation,
-- or explicit decision-making.
+Evaluation is one of the principal operational expressions of biological normativity.
 
-Minimal organisms regulate themselves evaluatively without representing alternatives or reflecting upon goals.
+Living systems continuously differentiate:
+- favourable from unfavourable conditions
+- stabilising from destabilising activity
+- and continuity-supporting from continuity-threatening relations
 
-Cognition builds upon normativity.
-It does not create it.
+Evaluation therefore modulates activity relative to viability.
+
+This evaluative organisation does not require reflective cognition.
+
+Even simple organisms regulate activity according to conditions affecting persistence.
+
+Cognition builds upon such evaluation rather than generating it.
 
 APS therefore distinguishes:
-- basic biological evaluation,
+- basic biological evaluation
 from:
-- higher-order cognitive integration.
+- higher-order cognitive integration
 
-This distinction is essential because it allows normativity to remain continuous across life without collapsing all living systems into cognition.
+This distinction preserves continuity across life while avoiding the collapse of all living systems into cognition.
 
-## Making Normativity Empirically Tractable
+# Normativity and Semiosis
+
+Semiosis depends upon biological normativity.
+
+Differences become biologically meaningful because they matter relative to persistence conditions.
+
+Environmental cues,
+chemical gradients,
+signals,
+textures,
+and ecological relations acquire significance because they participate in viability-oriented continuity organisation.
+
+Meaning therefore emerges neither from detached symbolism nor external interpretation alone.
+
+It emerges through continuity-preserving organisation itself.
+
+Normativity provides the organisational asymmetry through which semiosis becomes possible.
+
+# Making Normativity Empirically Tractable
 
 Normativity becomes scientifically tractable when understood organisationally.
 
 It appears wherever systems exhibit:
-- regulation,
-- repair,
-- compensation,
-- perturbation sensitivity,
-- adaptive reorganisation,
-- and collapse thresholds.
+- regulation
+- repair
+- perturbation sensitivity
+- adaptive reorganisation
+- continuity-preserving compensation
+- and collapse thresholds
 
-Living systems reveal normativity most clearly under conditions of vulnerability.
+Living systems reveal normativity especially clearly under conditions of vulnerability and perturbation.
 
 A system capable of:
-- restoring viable conditions,
-- reorganising activity,
-- or compensating for disruption
+- restoring viable conditions
+- reconstructing degraded organisation
+- or reorganising continuity under disruption
 
-demonstrates persistence-sensitive organisation in practice.
+demonstrates persistence-sensitive organisation directly.
 
-Normativity therefore becomes empirically investigable through the ways living systems respond to perturbation and possible failure.
+Normativity therefore becomes empirically investigable through the organisational dynamics of living systems themselves.
 
-## From Biological to Human Normativity
+# From Biological to Human Normativity
 
-Human normativity is an evolutionary elaboration of biological normativity.
+Human normativity extends biological normativity historically and evolutionarily.
 
 Evaluation becomes:
-- more flexible,
-- temporally extended,
-- socially coordinated,
-- and linguistically articulated.
+- more flexible
+- socially coordinated
+- symbolically mediated
+- temporally extended
+- and culturally organised
 
-Moral, epistemic, and cultural norms therefore extend life’s basic evaluative structure rather than replacing it.
+Moral, epistemic, and social norms therefore elaborate life’s more fundamental continuity-sensitive organisation.
 
-However, APS distinguishes carefully between:
-- biological normativity,
+APS nevertheless distinguishes carefully between:
+- biological normativity
 and:
-- moral normativity.
+- moral normativity
 
 Biological normativity concerns viability-oriented persistence.
+
 Moral normativity concerns socially and reflectively elaborated forms of evaluation.
 
-The two are historically related without being equivalent.
+The two are historically related without being identical.
 
-## Normativity in APS
+# Normativity in APS
 
 Biological normativity is:
-- real but not moral,
-- objective but not externally imposed,
-- and naturalised without reduction to passive mechanism.
+- real but not mystical
+- objective but not externally imposed
+- naturalised but not reducible to passive mechanism
+- and organisational rather than merely psychological
 
-It arises wherever activity is organised relative to sustaining persistence under conditions of vulnerability.
+Normativity emerges wherever living systems preserve continuity under conditions where persistence can fail.
 
-Normativity is therefore not an optional addition to life.
+APS therefore explains normativity through:
+- viability-oriented organisation
+- temporally organised persistence
+- vulnerability
+- perturbation sensitivity
+- and continuity-preserving biological activity
 
-It is the evaluative structure through which living systems distinguish what sustains from what undermines their continued existence.
+# Key Point
 
-## Key Point
-
-Normativity in APS is the intrinsic, viability-relative asymmetry through which living systems distinguish persistence-supporting from persistence-undermining conditions. It arises because living organisation exists under conditions where failure, breakdown, and continued persistence genuinely matter.
+Normativity in APS is the intrinsic viability-relative asymmetry through which living systems distinguish persistence-supporting from persistence-undermining conditions. It emerges because organised continuity exists under conditions where failure, breakdown, and continued persistence genuinely matter.
