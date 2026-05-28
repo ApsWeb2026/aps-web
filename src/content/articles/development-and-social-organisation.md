@@ -246,6 +246,8 @@ Social organisation participates directly in developmental continuity itself.
 
 Human developmental persistence is therefore distributed across socially organised continuity architectures extending beyond isolated physiology alone.
 
+[[box:development-is-not-genetic-execution]]
+
 ## Social Organisation as Developmental Scaffolding
 
 The central APS insight is that social systems scaffold developmental persistence.
@@ -283,6 +285,24 @@ APS therefore interprets social organisation as a continuity-preserving developm
 Continuity is maintained through socially organised developmental coordination rather than isolated internal maturation alone.
 
 Social developmental organisation persists through dynamically coordinated symbolic, behavioural, and institutional constraints stabilising viability across generations.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/development-social-organisation-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/development-social-organisation-visual.png"
+      alt="Development and social organisation as continuity-preserving developmental scaffolding"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Development and Social Organisation.</strong>
+    Human developmental continuity is scaffolded through socially
+    organised symbolic, institutional, technological, and behavioural
+    systems that stabilise viability-oriented persistence across
+    generations.
+  </p>
+</div>
 
 ## Symbolic Systems and Development
 
@@ -369,6 +389,8 @@ Plasticity therefore extends beyond isolated physiology into:
 
 Human resilience depends substantially upon socially organised developmental flexibility capable of preserving continuity across changing social conditions.
 
+[[box:developmental-stability-is-not-rigidity]]
+
 ## Breakdown, Disruption, and Developmental Fragility
 
 Social instability may threaten developmental continuity directly.
@@ -412,6 +434,8 @@ This perspective links development directly to:
 - social collapse,
 - fragility,
 - and organisational breakdown.
+
+[[box:perturbation-reveals-organisation]]
 
 ## Development, Social Organisation, and Evolution
 

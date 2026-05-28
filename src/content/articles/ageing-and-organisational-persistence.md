@@ -189,6 +189,8 @@ APS therefore interprets ageing not as simple passive decay, but as progressive 
 
 Ageing concerns the limits of organised persistence itself.
 
+Ageing therefore reflects not merely structural deterioration, but progressive destabilisation of temporally organised continuity across developmental time.
+
 Living systems remain viable not because they avoid instability, but because they continuously compensate for instability through continuity-preserving organisation.
 
 Ageing progressively weakens those viability-maintaining capacities.
@@ -251,10 +253,7 @@ APS therefore approaches ageing through the continuity-maintaining organisation 
 
 # Beyond Damage and Program Metaphors
 
-Ageing is frequently interpreted either as:
-- passive accumulation of damage;
-or
-- execution of genetically programmed decline.
+Ageing is frequently interpreted either as passive accumulation of damage or execution of genetically programmed decline.
 
 Both perspectives capture important aspects of biological ageing, yet neither alone adequately explains the organisational dynamics of persistence across time.
 
@@ -264,16 +263,9 @@ Ageing therefore cannot be understood merely as passive deterioration occurring 
 
 Nor does ageing appear reducible to a single deterministic biological clock.
 
-APS instead interprets ageing as distributed weakening of continuity-maintaining organisation across multiple interacting systems simultaneously.
+APS instead interprets ageing as distributed weakening of continuity-maintaining organisation across multiple interacting and cross-scale systems simultaneously.
 
-Damage,
-repair,
-regulation,
-ecological interaction,
-developmental plasticity,
-and physiological coordination
-
-all participate in ageing processes.
+Damage, repair, regulation, ecological interaction, developmental plasticity, and physiological coordination all participate in ageing processes.
 
 Ageing therefore reflects progressive decline in the capacity of developmental and regulatory systems to preserve viable persistence under ongoing perturbation.
 
@@ -303,14 +295,7 @@ APS therefore interprets ageing as deterioration in the organisational capacity 
 
 Importantly, ageing does not occur uniformly.
 
-Different:
-- systems;
-- tissues;
-- physiological processes;
-- ecological contexts;
-- and organisms
-
-age differently depending upon:
+Different systems, tissues, physiological processes, ecological contexts, and organisms age differently depending upon:
 - developmental organisation;
 - ecological conditions;
 - evolutionary history;
@@ -325,12 +310,7 @@ Ageing organisation persists through progressively weakened constraints that bec
 
 Repair and regeneration are central to biological persistence.
 
-Living systems continuously restore continuity following:
-- injury;
-- cellular damage;
-- developmental disruption;
-- ecological stress;
-- and physiological perturbation.
+Living systems continuously restore continuity following injury, cellular damage, developmental disruption, ecological stress, and physiological perturbation.
 
 However, ageing frequently involves progressive weakening of these recovery capacities.
 
@@ -352,23 +332,13 @@ This directly links ageing to:
 
 Perturbation becomes especially explanatorily important because ageing often becomes most visible when continuity-maintaining systems are challenged.
 
-Breakdown,
-stress,
-recovery failure,
-fragility,
-and resilience loss
-
-reveal the organisational relations through which persistence was previously sustained.
+Breakdown, stress, recovery failure, fragility, and resilience loss reveal the organisational relations through which persistence was previously sustained.
 
 # Constraint, Stability, and Fragility
 
 Ageing systems frequently become increasingly fragile.
 
-Younger organisms often exhibit:
-- developmental flexibility;
-- physiological adaptability;
-- regulatory robustness;
-- and resilience under perturbation.
+Younger organisms often exhibit developmental flexibility, physiological adaptability, regulatory robustness, and resilience under perturbation.
 
 Ageing progressively weakens these capacities.
 
@@ -388,15 +358,7 @@ Fragility therefore emerges through declining organisational resilience.
 
 Ageing always occurs within ecological and social environments.
 
-Nutritional conditions,
-ecological stability,
-stress,
-environmental disruption,
-social interaction,
-technological support,
-and healthcare systems
-
-all influence ageing trajectories.
+Nutritional conditions, ecological stability, stress, environmental disruption, social interaction, technological support, and healthcare systems all influence ageing trajectories.
 
 Human ageing especially depends upon:
 - social organisation;
@@ -426,6 +388,8 @@ Living systems continuously maintain continuity despite ongoing instability and 
 However, organisational deterioration eventually reduces the capacity to preserve viability across changing conditions.
 
 APS interprets death as failure of continuity-maintaining organisation.
+
+APS therefore distinguishes normal organisational ageing from specific pathological breakdown, although both involve weakening continuity-maintaining organisation.
 
 Ageing therefore represents progressive movement toward the limits of organised persistence.
 

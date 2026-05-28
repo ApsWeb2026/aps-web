@@ -41,11 +41,11 @@ relatedArticles:
   - developmental-canalisation
   - developmental-resilience
   - developmental-temporality
+  - ontogeny
   - development-and-ecological-organisation
   - organism-environment-coupling
   - ecological-organisation
   - resilience-ecology-and-continuity
-  - ontogeny
   - evolution
   - development-and-social-organisation
   - the-developmental-organisation-of-life
@@ -64,7 +64,7 @@ references:
     journal: "Cygnus"
 
   - id: odlingsmee2003
-    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
     year: 2003
     title: "Niche Construction: The Neglected Process in Evolution"
     publisher: "Princeton University Press"
@@ -97,7 +97,9 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Development is often treated as a process occurring primarily within individual organisms under the direction of internally regulated biological mechanisms. Within APS, however, development is understood as a viability-oriented organisational process that depends upon historically persistent ecological, behavioural, social, and material systems extending beyond isolated organisms themselves.
+Development is often treated as a process occurring primarily within individual organisms under the direction of internally regulated biological mechanisms.
+
+Within APS, however, development is understood as a viability-oriented organisational process that depends upon historically persistent ecological, behavioural, social, and material systems extending beyond isolated organisms themselves.
 
 Organisms do not inherit genes alone.
 
@@ -105,7 +107,9 @@ They also inherit developmental conditions that help stabilise viable developmen
 
 APS consequently interprets developmental niches as structured relational systems through which developmental viability is maintained and historically reproduced.
 
-Developmental niches are not merely passive environments surrounding development from the outside. They are organised systems that help preserve the conditions required for viable developmental persistence across time.
+Developmental niches are not merely passive environments surrounding development from the outside.
+
+They are organised systems that help preserve the conditions required for viable developmental persistence across time.
 
 Development therefore emerges through historically continuous organism–environment organisation rather than isolated internal construction alone.
 
@@ -129,6 +133,8 @@ However, APS argues that developmental persistence frequently depends upon histo
 
 Development therefore cannot be adequately understood independently of the developmental niches within which viable organisation is stabilised.
 
+[[box:development-is-not-genetic-execution]]
+
 ## What Developmental Niches Are
 
 Developmental niches are historically persistent ecological, behavioural, social, and material systems that help sustain developmental viability across generations.
@@ -148,9 +154,28 @@ Such structures help preserve the conditions required for viable developmental p
 
 APS consequently treats developmental niches as components of the broader organisational systems through which development remains viable across time.
 
-Developmental niches are therefore not accidental surroundings external to development itself. They participate directly in maintaining the organisational continuity through which developmental processes proceed.
+Developmental niches are therefore not accidental surroundings external to development itself.
+
+They participate directly in maintaining the organisational continuity through which developmental processes proceed.
 
 Developmental niche organisation persists through dynamically coordinated ecological and relational constraints stabilising viability across generations.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/developmental-niches-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/developmental-niches-visual.png"
+      alt="Developmental niches as relational systems stabilising developmental persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Developmental Niches and Organised Persistence.</strong>
+    Developmental continuity is stabilised through historically
+    persistent ecological, behavioural, social, and material systems
+    that preserve viability-oriented organisation across generations.
+  </p>
+</div>
 
 ## Developmental Niches Are Not Passive Environments
 
@@ -257,6 +282,8 @@ This does not eliminate organismal individuality.
 
 Rather, it demonstrates that viable developmental persistence may depend upon distributed biological coordination extending across multiple interacting systems.
 
+[[box:developmental-stability-is-not-rigidity]]
+
 ## Developmental Niches and Evolutionary Organisation
 
 Developmental niches also influence evolutionary continuity.
@@ -288,4 +315,14 @@ Within APS:
 
 Development therefore becomes a historically organised process sustained through relational systems that preserve viability-oriented continuity across time.
 
-Developmental niches consequently become one of the central explanatory concepts linking development, ecology, inheritance, cognition, resilience, social organisation, and evolution within the broader APS framework.
+Developmental niches consequently become one of the central explanatory concepts linking:
+
+- development,
+- ecology,
+- inheritance,
+- cognition,
+- resilience,
+- social organisation,
+- and evolution
+
+within the broader APS framework.

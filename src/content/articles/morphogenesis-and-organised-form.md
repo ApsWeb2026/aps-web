@@ -41,22 +41,19 @@ relatedArticles:
   - developmental-canalisation
   - developmental-resilience
   - developmental-temporality
+  - ontogeny
   - repair-and-regeneration
   - development-and-ecological-organisation
   - development-and-evolution
   - organism-environment-coupling
   - ecological-organisation
   - evolution
+  - ageing-and-organisational-persistence
   - development-as-organised-persistence
   - life-cycles
   - the-developmental-organisation-of-life
 
 references:
-  - id: aristotleparts
-    authors: "Aristotle"
-    year: -350
-    title: "Parts of Animals"
-
   - id: darcythompson1917
     authors: "Thompson, D. W."
     year: 1917
@@ -124,7 +121,7 @@ Living systems generate:
 - behavioural capacities,
 - and highly coordinated structural organisation
 
-through developmental processes that remain dynamic throughout life.
+through developmental processes that remain dynamically active throughout life.
 
 At the same time, biological form is never completely static.
 
@@ -139,7 +136,7 @@ Living structures:
 
 while nonetheless maintaining sufficient organisational continuity to remain viable organisms.
 
-APS interprets morphogenesis not as the execution of a static structural blueprint, but as the regulated emergence, stabilisation, and maintenance of viable organisational form across time.
+APS consequently interprets morphogenesis not as the execution of a static structural blueprint, but as the regulated emergence, stabilisation, and maintenance of viable organisational form across time.
 
 The central morphogenetic question is therefore not simply:
 
@@ -149,7 +146,7 @@ but:
 
 > How does coherent form emerge and persist through continuously changing developmental organisation?
 
-This shifts explanation away from static architecture and toward continuity-preserving processes that stabilise viable form across time and space.
+This shifts explanation away from static architecture and toward continuity-preserving developmental organisation that stabilises viable form across time and space.
 
 ## Morphogenesis as a Biological Problem
 
@@ -167,7 +164,7 @@ through distributed developmental processes.
 
 This presents a profound explanatory challenge.
 
-Biological structures are not externally assembled in the manner of engineered artefacts. Organisms continuously generate and maintain their own form through internally coordinated developmental activity.
+Biological structures are not externally assembled in the manner of engineered artefacts. Organisms continuously generate and maintain their own form through coordinated developmental activity.
 
 Moreover, living form remains dynamically active rather than structurally fixed.
 
@@ -181,7 +178,7 @@ APS therefore interprets morphogenesis as a problem of organised persistence rat
 
 Questions concerning biological form extend throughout the history of biology and philosophy.
 
-Classical biological thought often interpreted form through organismal unity and purposive organisation. Aristotle treated biological form as inseparable from the coordinated activity of the organism as a whole.
+Classical biological thought often interpreted form through organismal unity and purposive organisation.
 
 Mechanistic biology later increasingly interpreted form through:
 
@@ -215,6 +212,8 @@ Contemporary developmental biology has increasingly recognised that biological f
 Process biology, ecological developmental biology, morphogenetic field theories, and developmental systems approaches all reflect growing recognition that biological form emerges through dynamically organised developmental continuity.
 
 APS develops within this broader organisational reorientation.
+
+[[box:development-is-not-genetic-execution]]
 
 ## Beyond Blueprint and Instruction Metaphors
 
@@ -284,6 +283,8 @@ while still maintaining continuity of organised persistence across transformatio
 
 APS therefore interprets biological form as dynamically organised persistence rather than static architecture.
 
+Morphogenetic organisation persists through dynamically coordinated constraints regulating viable form across developmental transformation.
+
 ## Constraint, Spatial Organisation, and Coordination
 
 Morphogenesis depends upon highly coordinated developmental organisation.
@@ -318,7 +319,24 @@ Morphogenesis therefore involves continuous interaction among:
 - coordination,
 - and adaptive responsiveness.
 
-Morphogenetic organisation persists through dynamically coordinated constraints regulating viable form across developmental transformation.
+[[box:developmental-stability-is-not-rigidity]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/morphogenesis-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/morphogenesis-visual.png"
+      alt="Morphogenesis as dynamically organised viable form"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Morphogenesis and Organised Persistence.</strong>
+    Biological form emerges through dynamically coordinated
+    developmental organisation that stabilises viable continuity across
+    spatial, physiological, ecological, and temporal transformation.
+  </p>
+</div>
 
 ## Morphogenesis and Environmental Coupling
 
@@ -380,6 +398,8 @@ Regeneration extends this principle further by restoring lost or damaged structu
 Morphogenesis therefore continues throughout life rather than ending after embryonic development.
 
 Living form persists through ongoing continuity-preserving organisation.
+
+[[box:perturbation-reveals-organisation]]
 
 ## Ageing and Morphological Deterioration
 
@@ -444,3 +464,15 @@ This perspective shifts morphogenetic explanation away from static blueprints, p
 Biological form is instead understood as dynamically organised persistence maintained through ongoing developmental regulation.
 
 Living form persists not as fixed structure, but as viability-oriented organisation continuously maintained across transformation.
+
+Morphogenesis consequently becomes one of the central explanatory concepts linking:
+
+- development,
+- persistence,
+- ecology,
+- resilience,
+- repair,
+- ageing,
+- and evolution
+
+within the broader APS framework.
