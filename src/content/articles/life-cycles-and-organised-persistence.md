@@ -50,6 +50,7 @@ relatedArticles:
   - organism-environment-coupling
   - ecological-organisation
   - evolution
+  - ageing-and-organisational-persistence
   - development-as-organised-persistence
   - the-developmental-organisation-of-life
 
@@ -137,6 +138,8 @@ Life cycles involve the organised preservation of developmental persistence acro
 
 The central explanatory problem is therefore not merely how organisms change, but how viable persistence remains possible despite extensive developmental reorganisation.
 
+[[box:developmental-time-is-not-clock-time]]
+
 ## Life Cycles in APS
 
 Within APS, life cycles are understood as temporally organised developmental systems through which viability-oriented persistence is maintained across changing organisational states.
@@ -158,6 +161,26 @@ APS consequently interprets life cycles as organisational continuity systems rat
 Developmental persistence emerges through coordinated transformation rather than static biological identity.
 
 Life-cycle organisation persists through dynamically coordinated constraints regulating viability across irreversible developmental change.
+
+[[box:organised-persistence-across-development]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/life-cycles-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/life-cycles-visual.png"
+      alt="Life cycles as temporally organised developmental persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Life Cycles and Organised Persistence.</strong>
+    Living systems preserve viability-oriented continuity across
+    developmental, ecological, behavioural, and reproductive
+    transformation through temporally coordinated developmental
+    organisation.
+  </p>
+</div>
 
 ## Transformation and Organisational Continuity
 
@@ -189,6 +212,10 @@ APS therefore distinguishes between:
 
 Biological individuality remains processually continuous because developmental organisation preserves viability across transformation rather than maintaining static form.
 
+Living systems therefore persist through continuity-preserving transformation rather than through fixed biological identity.
+
+[[box:developmental-continuity-and-material-change]]
+
 ## Temporal Organisation and Development
 
 Life cycles are deeply temporally organised.
@@ -208,7 +235,13 @@ Developmental organisation consequently unfolds through structured temporal coor
 
 APS therefore interprets biological time not merely as chronological duration, but as organised developmental persistence through which viability is preserved across temporally structured transformation.
 
-This perspective strongly connects life cycles with broader APS discussions of process, persistence, and temporal organisation.
+This perspective strongly connects life cycles with broader APS discussions of:
+
+- process,
+- persistence,
+- temporal organisation,
+- ontogeny,
+- and developmental continuity.
 
 ## Ecological Organisation and Life Cycles
 
@@ -228,7 +261,12 @@ Organisms may move through changing ecological relations while still preserving 
 
 APS consequently interprets life cycles as developmental systems embedded within broader ecological organisation rather than isolated organismal sequences detached from environmental continuity.
 
-This perspective closely connects life cycles with organism–environment coupling, developmental niches, and ecological inheritance.
+This perspective closely connects life cycles with:
+
+- organism–environment coupling,
+- developmental niches,
+- ecological organisation,
+- and ecological inheritance.
 
 ## Social and Collective Developmental Systems
 
@@ -246,7 +284,13 @@ Social organisation may therefore participate directly in maintaining viability-
 
 APS consequently interprets many life cycles as relationally organised developmental systems extending across collective organisation rather than confined entirely within isolated organisms.
 
-This perspective also connects life cycles with broader APS discussions of social organisation, cognition, communication, and collective continuity.
+This perspective also connects life cycles with broader APS discussions of:
+
+- social organisation,
+- cognition,
+- communication,
+- developmental scaffolding,
+- and collective continuity.
 
 ## Perturbation and Developmental Fragility
 
@@ -270,7 +314,15 @@ Perturbation reveals the hidden developmental coordination through which viable 
 
 Temporal and developmental fragility may therefore reveal hidden dependencies within developmental organisation that remain largely invisible under stable conditions.
 
-This perspective closely links life cycles with APS discussions of resilience, fragility, malfunction, and diagnosis.
+This perspective closely links life cycles with APS discussions of:
+
+- resilience,
+- fragility,
+- malfunction,
+- diagnosis,
+- and organisational breakdown.
+
+[[box:perturbation-reveals-developmental-organisation]]
 
 ## Life Cycles and Evolutionary Organisation
 
@@ -303,4 +355,14 @@ Within APS:
 
 Living systems therefore remain organisationally continuous not because they resist developmental change, but because developmental organisation preserves viability across transformation.
 
-Life cycles consequently become one of the central explanatory concepts linking development, individuality, ecology, resilience, temporal organisation, and evolution within the broader APS framework.
+Life cycles consequently become one of the central explanatory concepts linking:
+
+- development,
+- individuality,
+- ecology,
+- resilience,
+- temporal organisation,
+- ageing,
+- and evolution
+
+within the broader APS framework.

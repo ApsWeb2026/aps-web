@@ -35,18 +35,18 @@ relatedGlossaryTerms:
 relatedArticles:
   - development-as-organised-persistence
   - developmental-integration
+  - ontogeny
+  - life-cycles
+  - ageing-and-organisational-persistence
   - developmental-regulation
   - developmental-plasticity
   - developmental-canalisation
   - developmental-resilience
   - developmental-inheritance
-  - life-cycles
-  - ageing-and-organisational-persistence
   - development-and-evolution
   - development-and-biological-individuality
   - organism-environment-coupling
   - temporal-organisation
-  - processual-individuality
   - evolution
   - the-developmental-organisation-of-life
 
@@ -133,6 +133,8 @@ The deeper explanatory problem is how viable developmental persistence is organi
 
 Developmental temporality therefore becomes a problem of organised continuity through time.
 
+[[box:developmental-time-is-not-clock-time]]
+
 ## Developmental Temporality in APS
 
 Within APS, developmental temporality refers to the organised coordination of viability-oriented developmental persistence across irreversible time.
@@ -156,6 +158,25 @@ Developmental systems therefore preserve viability not by resisting change, but 
 Temporal organisation becomes one of the mechanisms through which developmental persistence is stabilised.
 
 Developmental temporality persists through dynamically coordinated constraints regulating developmental continuity across irreversible organisational change.
+
+[[box:organised-persistence-across-development]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/developmental-temporality-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/developmental-temporality-visual.png"
+      alt="Developmental temporality as organised persistence across irreversible time"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Developmental Temporality and Organised Persistence.</strong>
+    Developmental continuity is preserved through temporally coordinated
+    viability-oriented organisation across irreversible physiological,
+    ecological, behavioural, and historical transformation.
+  </p>
+</div>
 
 ## Developmental Sequencing and Coordination
 
@@ -200,7 +221,13 @@ APS consequently interprets developmental temporality as historically structured
 
 Ontogeny therefore possesses developmental directionality grounded in organised transformation across time.
 
-This perspective strongly connects developmental temporality with APS discussions of process, persistence, and processual individuality.
+This perspective strongly connects developmental temporality with APS discussions of:
+
+- process,
+- persistence,
+- processual individuality,
+- ageing,
+- and continuity-through-transformation.
 
 ## Temporal Organisation and Biological Individuality
 
@@ -217,6 +244,8 @@ APS consequently interprets biological individuals as temporally organised syste
 Developmental continuity therefore depends upon the coordinated preservation of organisational relations across ongoing transformation.
 
 This perspective strongly supports APS accounts of organised persistence and processual individuality.
+
+[[box:developmental-continuity-and-material-change]]
 
 ## Multi-Scale Temporal Organisation
 
@@ -238,6 +267,8 @@ Developmental temporality therefore becomes a distributed organisational process
 
 APS consequently interprets developmental persistence as temporally coordinated multi-scale organisation rather than isolated linear progression.
 
+Temporal organisation emerges through coordinated developmental relations stabilised across time.
+
 ## Ecological and Relational Temporality
 
 Developmental temporality is also relational.
@@ -257,7 +288,12 @@ Organisms remain developmentally viable because developmental timing becomes coo
 
 APS consequently interprets developmental temporality as relationally organised persistence embedded within ecological and historical organisation.
 
-This perspective strongly connects developmental temporality with ecological organisation, developmental niches, and organism–environment coupling.
+This perspective strongly connects developmental temporality with:
+
+- ecological organisation,
+- developmental niches,
+- organism–environment coupling,
+- and socially scaffolded developmental continuity.
 
 ## Perturbation and Temporal Fragility
 
@@ -279,7 +315,15 @@ Perturbation reveals developmental temporality by exposing the hidden timing rel
 
 Temporal fragility may therefore reveal hidden dependencies within developmental organisation that remain largely invisible under stable conditions.
 
-This perspective strongly connects developmental temporality with APS discussions of fragility, resilience, malfunction, and diagnosis.
+This perspective strongly connects developmental temporality with APS discussions of:
+
+- fragility,
+- resilience,
+- malfunction,
+- diagnosis,
+- and organisational breakdown.
+
+[[box:perturbation-reveals-developmental-organisation]]
 
 ## Developmental Temporality and Evolution
 
@@ -314,4 +358,14 @@ Within APS:
 
 Living systems therefore persist not because they resist temporal change, but because developmental organisation preserves viability through temporally coordinated transformation.
 
-Developmental temporality consequently becomes one of the central explanatory concepts linking development, persistence, individuality, ecology, temporality, and evolution within the broader APS framework.
+Developmental temporality consequently becomes one of the central explanatory concepts linking:
+
+- development,
+- persistence,
+- individuality,
+- ecology,
+- temporality,
+- ageing,
+- and evolution
+
+within the broader APS framework.
