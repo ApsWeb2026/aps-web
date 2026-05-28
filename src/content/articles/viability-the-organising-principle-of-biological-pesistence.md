@@ -20,39 +20,39 @@ abstract: >
   transformation.
 keyPoints:
 
-  Viability is not mere survival but the organised maintenance and reconstruction of conditions required for continued persistence.
-  Living systems actively regulate themselves relative to viability conditions.
-  Viability grounds biological normativity because some states support persistence while others undermine it.
-  Biological agency emerges through viability-oriented modulation of organisation.
-  Viability is inherently temporal and continuity-producing.
-  Living systems persist through continual transformation rather than static stability.
-  APS explains biological organisation as viability-oriented organised persistence enacted across processes and scales.
+  - Viability is not mere survival but the organised maintenance and reconstruction of conditions required for continued persistence.
+  - Living systems actively regulate themselves relative to viability conditions.
+  - Viability grounds biological normativity because some states support persistence while others undermine it.
+  - Biological agency emerges through viability-oriented modulation of organisation.
+  - Viability is inherently temporal and continuity-producing.
+  - Living systems persist through continual transformation rather than static stability.
+  - APS explains biological organisation as viability-oriented organised persistence enacted across processes and scales.
 relatedGlossaryTerms:
-  viability
-  persistence
-  biological-agency
-  biological-organisation
-  constraint-closure
-  normativity
-  process
-  scale
-  temporal-organisation
-  adaptation
-  evaluation
-  resilience
-  development
+  - viability
+  - persistence
+  - biological-agency
+  - biological-organisation
+  - constraint-closure
+  - normativity
+  - process
+  - scale
+  - temporal-organisation
+  - adaptation
+  - evaluation
+  - resilience
+  - development
 relatedArticles:
-  explanatory-geometry-of-biology
-  biological-organisation
-  temporal-organisation-and-organised-persistence
-  persistence-organised-continuity-through-time
-  constraint-closure-what-it-does-and-does-not-do
-  what-is-life-a-biological-question-revisited
-  organisational-realism-in-biology
-  physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
-  cognition-where-does-it-belong-in-biology
-  why-aps-reframes-biology
-  development-as-organised-persistence
+  - explanatory-geometry-of-biology
+  - biological-organisation
+  - temporal-organisation-and-organised-persistence
+  - persistence-organised-continuity-through-time
+  - constraint-closure-what-it-does-and-does-not-do
+  - what-is-life-a-biological-question-revisited
+  - organisational-realism-in-biology
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - cognition-where-does-it-belong-in-biology
+  - why-aps-reframes-biology
+  - development-as-organised-persistence
 references:
   - id: moreno-mossio-2015
     authors: "Moreno, A.; Mossio, M."
@@ -64,12 +64,12 @@ references:
     year: 2023
     title: "Organization in Biology"
     publisher: "Springer"
-    id: nicholson-dupre-2018
+  - id: nicholson-dupre-2018
     authors: "Nicholson, D. J.; Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
-    id: spencer-2026-agency
+  - id: spencer-2026-agency
     authors: "Spencer, R. D."
     year: 2026
     title: "Agency as the Defining Activity of Life"
