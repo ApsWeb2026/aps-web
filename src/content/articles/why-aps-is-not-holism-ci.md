@@ -1,514 +1,325 @@
 ---
-date: 2026-05-11
-title: "Why APS Is Not Organicism — An APS Clarification"
-slug: why-aps-is-not-organicism
-
-abstract: >
-  APS shares certain concerns historically associated with organismic and
-  anti-reductionist traditions, including the importance of organisation,
-  integration, development, and persistence. However, APS is not a form of
-  classical organicism. The framework does not invoke vital forces,
-  organismic essences, metaphysical whole-priority, or anti-mechanistic
-  principles. Instead, APS develops a viability-oriented account of organised
-  persistence grounded in constraint-closed, scale-coupled biological
-  organisation sustained across time through perturbation-sensitive
-  continuity regulation.
-
+date: 2026-05-28
+title: "Why APS Is Not Holism"
+slug: why-aps-is-not-holism
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-26
+canonicalLockDate: 2026-05-28
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
-keyPoints:
-  - APS rejects both reductionism and classical organicism.
-  - Organised persistence, not organismic essence, possesses explanatory priority in APS.
-  - APS preserves mechanistic analysis and empirical tractability.
-  - Living systems are processual continuities rather than static wholes.
-  - Constraint closure does not imply mystical unity or vitalism.
-  - Biological purposiveness emerges organisationally rather than metaphysically.
-  - Organisms remain ecologically and developmentally coupled rather than ontologically isolated wholes.
-  - APS treats continuity regulation as explanatorily central.
+abstract: >
+  APS rejects both reductionism and holism as complete accounts of
+  biological explanation. While holism correctly recognises that living
+  systems exhibit organisation that cannot be understood through isolated
+  components alone, APS argues that appeals to wholes, totalities, or
+  organismic unity are themselves insufficient explanations. Biological
+  organisation is neither reducible to parts nor explained by abstract
+  wholes. Instead, APS explains living systems through viability-oriented
+  organised persistence, constraint-closure, processual individuality,
+  and continuity-preserving organisation across time. Holistic properties
+  emerge from organisation, but organisation itself remains the primary
+  explanatory target.
 
 relatedGlossaryTerms:
-  - organicism
   - holism
   - biological-organisation
-  - organised-persistence
-  - continuity
-  - processual-individuality
-  - biological-agency
-  - viability
-  - constraint
   - constraint-closure
-  - scale
-  - scale-coupling
-  - perturbation
-  - resilience
-  - teleology
-  - teleonomy
-  - mechanism
-  - emergence
+  - persistence
+  - processual-individuality
+  - organism
+  - biological-agency
 
 relatedArticles:
-  - why-aps-is-not-holism
   - reductionism-in-biology-an-aps-clarification
-  - emergence-in-biology-an-aps-clarification
-  - aps-as-philosophy-viability-oriented-account
-  - explanatory-geometry-of-biology
+  - why-aps-is-not-organicism
   - organisational-realism-in-biology
-  - processual-individuality
-  - biological-individuality-organised-persistence-through-time
-  - teleology-in-biology-an-aps-clarification
-  - teleonomy
-  - adaptation-how-living-systems-sustain-themselves-through-change
-  - organism-environment-coupling-agency-not-control
+  - continuity-structure-of-biological-organisation
+  - explanatory-priority-is-not-ontological-priority
 
 references:
+  - id: nicholson2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: capra1996
+    authors: "Capra, F."
+    year: 1996
+    title: "The Web of Life: A New Scientific Understanding of Living Systems"
+    publisher: "Anchor Books"
+
+  - id: bechtel2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience"
+    publisher: "Routledge"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions: A Pragmatic Naturalist Account"
+    publisher: "Cambridge University Press"
+
+  - id: dupre2024
+    authors: "Dupré, J."
+    year: 2024
+    title: "The Metaphysics of Biology"
+    publisher: "Cambridge University Press"
+
   - id: smuts1926
     authors: "Smuts, J. C."
     year: 1926
     title: "Holism and Evolution"
     publisher: "Macmillan"
 
-  - id: bertalanffy1968
-    authors: "von Bertalanffy, L."
-    year: 1968
-    title: "General System Theory"
-    publisher: "George Braziller"
-
-  - id: goldstein1939
-    authors: "Goldstein, K."
-    year: 1939
-    title: "The Organism"
-    publisher: "American Book Company"
-
-  - id: jonas1966
-    authors: "Jonas, H."
-    year: 1966
-    title: "The Phenomenon of Life"
-    publisher: "Harper & Row"
-
-  - id: rosen1991
-    authors: "Rosen, R."
-    year: 1991
-    title: "Life Itself"
-    publisher: "Columbia University Press"
-
-  - id: varela1979
-    authors: "Varela, F. J."
-    year: 1979
-    title: "Principles of Biological Autonomy"
-    publisher: "North Holland"
-
-  - id: maturana1980
-    authors: "Maturana, H. R., & Varela, F. J."
-    year: 1980
-    title: "Autopoiesis and Cognition"
-    publisher: "D. Reidel"
-
-  - id: deacon2011
-    authors: "Deacon, T. W."
-    year: 2011
-    title: "Incomplete Nature"
-    publisher: "W. W. Norton & Company"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy"
-    publisher: "Springer"
-
-  - id: nicholson2019
-    authors: "Nicholson, D. J., & Dupré, J."
-    year: 2019
-    title: "Everything Flows"
-    publisher: "Oxford University Press"
-
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "Biological Functions and Functional Analysis"
-    publisher: "Cambridge University Press"
-
   - id: spencer2026
     authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    title: "Agency as the Defining Activity of Life: An Organisational Synthesis"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Why APS Is Not Organicism — An APS Clarification
+## Holism and the Appeal of Wholes
 
-## The Organicism Question
+Holism has long occupied an important place within biological thought. From the organismic biology of the early twentieth century to contemporary systems approaches, holistic traditions have argued that living systems cannot be adequately understood by analysing isolated components alone. Thinkers such as Jan Smuts, Ludwig von Bertalanffy, and later systems theorists emphasised that organisms exhibit forms of organisation whose properties emerge from the coordinated activity of the whole rather than from the independent behaviour of parts.
 
-APS is strongly anti-reductionist.
+In this respect, holism identifies a genuine feature of living systems. Organisms are organised entities whose activities depend upon relations among components, environmental interactions, developmental histories, and processes operating across multiple temporal and spatial scales.
 
-The framework emphasises:
-- organisation;
-- process;
-- continuity;
-- integration;
-- regulation;
-- viability;
-- adaptation;
-- persistence;
-- and scale-coupled biological activity.
+APS therefore agrees with holism that biological explanation cannot be reduced to the analysis of isolated parts.
 
-APS also rejects the view that living systems can be fully understood through
-isolated component analysis alone.
+However, APS rejects the further claim that appeals to wholes, organismic unity, or holistic properties themselves constitute explanations. Recognising that living systems exhibit organised wholeness does not yet explain how that wholeness is produced, maintained, repaired, or preserved.
 
-Because of this, readers sometimes conclude that APS must therefore be a form
-of organicism.
+The existence of a whole does not explain how that whole persists.
 
-This interpretation is understandable but ultimately misleading.
+The central explanatory question therefore remains:
 
-APS shares important concerns historically associated with organismic and
-anti-reductionist traditions. However, the framework differs fundamentally
-from classical organicism in both explanatory structure and philosophical
-commitments.
+> How does a living system continuously maintain the organisation that allows it to remain a living system?
 
-APS does not invoke:
-- vital forces;
-- organismic essences;
-- metaphysical whole-priority;
-- anti-mechanistic principles;
-- or intrinsic cosmic teleology.
+APS answers this question through viability-oriented organised persistence rather than through appeals to wholeness itself.
 
-Instead, APS develops an organisational account of biological intelligibility
-grounded in:
-- viability-oriented organised persistence;
-- constraint-closed organisation;
-- perturbation-sensitive continuity regulation;
-- and scale-coupled biological activity.
+## Why APS Rejects the Reductionism–Holism Opposition
 
-[[box:description-is-not-explanation]]
+Biological explanation is often presented as a choice between reductionism and holism.
 
-APS is therefore organisational rather than organismic in the classical sense.
+Reductionism seeks explanation in constituent parts and lower-level mechanisms.
 
-# What Organicism Historically Proposed
+Holism seeks explanation in higher-level organisational wholes.
 
-Organicism emerged historically as a reaction against mechanistic
-reductionism.
+APS argues that this opposition is largely misleading.
 
-Organismic thinkers argued that living systems could not be adequately
-understood as mere collections of independent parts governed exclusively by
-linear mechanical causation.
+Living systems are neither collections of independent components nor mysterious unified wholes.
 
-Different forms of organicism varied substantially, but many shared several
-themes:
-- the unity of the organism;
-- integration across parts;
-- developmental coordination;
-- self-maintenance;
-- purposive organisation;
-- and the limitations of atomistic explanation.
+They are organised processes whose persistence depends upon interactions among components, constraints, environments, developmental trajectories, and regulatory activities operating across scales.
 
-Thinkers associated with organicist traditions often emphasised:
-- organism-level organisation;
-- holistic integration;
-- developmental dynamics;
-- and irreducibility.
+The primary explanatory target is therefore not parts alone or wholes alone but the organisation through which persistence is maintained.
 
-Some versions remained scientifically cautious.
+APS therefore relocates explanation away from the reductionism–holism debate and toward organised persistence itself. Living systems are understood neither as collections of independently functioning components nor as explanatory wholes. They are continuity-maintaining organisations whose persistence depends upon the coordinated activity of processes operating across scales and through time.
 
-Others approached:
-- vitalism;
-- metaphysical holism;
-- or strong teleological interpretations of life.
+This continuity architecture provides the primary explanatory framework within APS.
 
-Twentieth-century organismic traditions significantly influenced:
-- systems theory;
-- autonomy theory;
-- process philosophy;
-- developmental biology;
-- ecology;
-- and theoretical biology.
+![Holism versus Organised Persistence](/assets/diagrams/holism-vs-organised-persistence.svg)
 
-APS inherits several important insights from these traditions while rejecting
-their more problematic assumptions.
-
-# What APS Accepts from Organicist Traditions
-
-APS agrees with organismic traditions that living systems cannot be understood
-through isolated components alone.
-
-Biological organisation matters.
-
-The biological significance of structures and processes depends upon their
-roles within organised systems sustaining viability across time.
-
-APS also agrees that:
-- living systems are dynamically organised;
-- developmental continuity matters;
-- organisms actively regulate themselves;
-- and biological organisation spans multiple interacting scales.
-
-The framework further accepts that biological explanation often requires:
-- relational analysis;
-- process-oriented thinking;
-- and attention to organisation rather than static structure alone.
-
-APS therefore shares with many organismic approaches:
-- anti-reductionism;
-- emphasis on organisation;
-- developmental integration;
-- and continuity-based explanation.
-
-However, these similarities should not obscure major differences.
-
-# Why APS Is Not Organicism
-
-APS departs fundamentally from classical organicism in several ways.
-
-## No Vital Forces or Organismic Essences
-
-APS does not posit:
-- life-forces;
-- organismic substances;
-- irreducible biological essences;
-- or non-physical organising principles.
-
-Living systems remain fully materially realised.
-
-Biological organisation emerges through historically continuous,
-constraint-structured, viability-oriented activity distributed across process
-and scale.
-
-APS therefore rejects all forms of biological exceptionalism grounded in
-special substances or metaphysical organismic powers.
-
-## No Metaphysical Whole-Priority
-
-Many forms of organicism treat the organismic whole as explanatorily primary
-in itself.
-
-APS does not.
-
-The framework does not explain biological organisation through abstract
-appeals to “the organism” or “the whole.”
-
-Instead, APS asks:
-
-> What organisational conditions allow living systems to sustain continuity
-> across time?
-
-The explanatory focus therefore shifts from wholes themselves to organised
-persistence.
-
-This distinction is fundamental.
-
-APS does not claim that wholes possess mysterious causal powers over and above
-their organisation.
-
-Instead, components and organised systems remain reciprocally related within
-continuity-producing organisation.
+*Figure: APS rejects both atomistic reductionism and explanatory holism. Explanation is centred on the organisation through which living systems sustain viability across time.*
 
 [[box:continuity-is-not-wholeness]]
 
-# Organisation Rather Than Organismic Essence
+## Continuity Is Not Wholeness
 
-APS increasingly treats organisation rather than “the organism” as
-explanatorily central.
+Holistic approaches often treat the organism as a unified whole whose identity remains constant through time.
 
-Organisms are not static unified substances.
+APS instead emphasises continuity.
 
-They are processual continuities continuously maintaining viability through:
-- regulation;
-- repair;
-- adaptation;
-- developmental transformation;
-- ecological coupling;
-- and ongoing reorganisation.
+Living systems persist despite continuous material turnover, developmental transformation, ecological interaction, and organisational reconfiguration.
 
-This processual view sharply distinguishes APS from more static organismic
-frameworks.
+Cells are replaced.
 
-What persists biologically is not immutable organismic identity beneath
-change.
+Proteins are degraded and synthesised.
 
-It is organised continuity maintained through transformation.
+Tissues remodel.
+
+Developmental states change.
+
+Environmental conditions fluctuate.
+
+Yet the organism remains recognisably the same biological individual.
+
+This persistence cannot be explained by appealing to the existence of a whole.
+
+Rather, it depends upon continuity-preserving organisation.
+
+APS therefore interprets biological identity as organised continuity rather than static wholeness.
+
+What persists is not a fixed structure but an ongoing process of viability maintenance.
 
 [[box:processual-individuality-is-not-organismic-essence]]
 
-APS therefore interprets individuality organisationally rather than
-substantially.
+## Processual Individuality Is Not Organismic Essence
 
-# Constraint Closure Without Mysticism
+Traditional holism sometimes treats organisms as possessing a distinctive organismic essence that unifies the whole.
 
-Constraint closure occupies a foundational role within APS.
+APS rejects essentialist interpretations of biological individuality.
 
-Living systems continuously regenerate and maintain the organisational
-conditions enabling their own persistence.
+Biological individuals are processual entities.
 
-This can superficially resemble strong organismic selfhood or autonomous
-whole-priority.
+Their identity is constituted through ongoing organisational continuity rather than immutable material composition or intrinsic essence.
 
-APS rejects such interpretations.
+Organisms remain themselves because they continuously reproduce the conditions of their own persistence.
 
-Constraint closure does not imply:
-- mystical unity;
-- self-causing organisms;
-- or biologically isolated wholes.
+Individuality is therefore realised through organised activity rather than grounded in static substance.
 
-Constraint closure instead describes empirically tractable organisational
-relations through which:
-- processes constrain one another;
-- viability is maintained;
-- continuity is stabilised;
-- and persistence becomes dynamically sustainable.
+This processual conception of individuality explains both biological stability and biological change.
 
-APS therefore preserves organisational closure without reintroducing
-metaphysical organicism.
+Development, adaptation, repair, and evolution become intelligible as transformations occurring within continuity-preserving organisational systems.
 
 [[box:constraint-closure-is-not-mystical-unity]]
 
-# Mechanism Remains Essential
+## Constraint-Closure Is Not Mystical Unity
 
-APS strongly rejects anti-mechanistic interpretations of life.
+Holistic theories sometimes invoke forms of unity that appear difficult to reconcile with scientific explanation.
 
-Mechanistic investigation remains indispensable for understanding:
-- molecular interactions;
-- developmental pathways;
-- physiology;
-- regulation;
-- ecological dynamics;
-- and evolutionary processes.
+APS avoids this difficulty through the concept of constraint-closure.
 
-APS therefore preserves:
-- analysis;
-- decomposition;
-- mechanistic explanation;
-- and empirical tractability.
+Constraint-closure refers to networks of mutually supporting constraints whose activities contribute to maintaining the conditions required for their own continued operation.
 
-What APS rejects is not mechanism itself, but the assumption that isolated
-mechanisms alone exhaust biological intelligibility.
+Constraint-closure does not invoke hidden forces, vital powers, or irreducible organismic substances.
 
-Mechanisms become biologically meaningful only within viability-oriented
-organised persistence.
+It identifies empirically investigable organisational relations.
 
-APS therefore situates mechanisms organisationally rather than replacing them
-with organismic wholes.
+The explanatory significance of constraint-closure lies not in its status as a whole but in its role in sustaining viability-oriented organisation.
+
+Organisation is therefore scientifically tractable without being reducible to isolated mechanisms.
+
+![Constraint-Closure and Organised Persistence](/assets/diagrams/constraint-closure.png)
+
+*Figure: Constraint-closure is neither reductionist nor mystical. It describes the organisational relationships through which biological systems maintain themselves.*
 
 [[box:mechanism-within-organised-persistence]]
 
-# Teleology Without Organicism
+## Organisation Is Real Without Being Holistic
 
-Organismic traditions often retained strong teleological language.
+One reason holistic thinking remains attractive is that living systems genuinely exhibit organisational properties that cannot be identified with any single component. Biological organisation is real.
 
-APS also recognises that living systems exhibit purposive organisation.
+APS therefore rejects the reductionist claim that organisation is merely a convenient description of lower-level mechanisms.
 
-However, APS naturalises purposiveness organisationally rather than
-metaphysically.
+However, APS equally rejects the holistic conclusion that the reality of organisation implies that wholes themselves are explanatory entities.
 
-Purpose is not:
-- cosmic destiny;
-- organismic striving;
-- intrinsic perfection;
-- or externally imposed design.
+Organisation matters because it contributes to the maintenance of viability-oriented persistence. Its reality derives from its causal and explanatory role within living systems rather than from the existence of an autonomous organismic whole.
 
-Instead, purposiveness emerges from viability-oriented organisation.
+This position is captured by APS organisational realism.
 
-Living systems regulate activity relative to persistence conditions.
+Organisational realism recognises that biological organisation constitutes a genuine explanatory feature of living systems while avoiding the holistic assumption that explanation ultimately terminates in the whole itself.
 
-Normativity therefore emerges from organised persistence itself rather than
-from metaphysical organismic principles.
+Organisation is real because persistence is real. Persistence is not an abstract property but an ongoing organisational achievement.
 
-APS consequently reinterprets:
-- teleology;
-- teleonomy;
-- function;
-- evaluation;
-- and agency
+What requires explanation is not the existence of a whole but the organised processes through which continuity is maintained.
 
-within a continuity-oriented organisational framework.
+## Mechanisms Within Organised Persistence
+
+APS rejects the claim that mechanisms are sufficient explanations of life.
+
+It equally rejects the claim that mechanisms are irrelevant.
+
+Mechanisms matter because biological organisation is realised through concrete causal processes.
+
+Metabolic pathways, developmental processes, signalling systems, physiological regulation, and ecological interactions all contribute to persistence.
+
+However, mechanisms become biologically meaningful only within the broader organisational context that gives them viability-related significance.
+
+The APS position is therefore neither mechanistic reductionism nor anti-mechanistic holism.
+
+Mechanisms are components of organised persistence.
+
+Their explanatory role depends upon the organisational systems within which they operate.
 
 [[box:teleology-without-organicism]]
 
-# Ecological and Developmental Openness
+## Teleology Without Organicism
 
-Classical organismic traditions sometimes treated organisms as relatively
-self-contained wholes.
+Many holistic traditions connect biological organisation with teleology.
 
-APS increasingly emphasises ecological and developmental openness.
+APS agrees that biological systems exhibit goal-directed organisation.
 
-Living systems remain continuously coupled to:
-- environments;
-- developmental conditions;
-- ecological networks;
-- evolutionary histories;
-- symbiotic interactions;
-- and scale-distributed organisational relations.
+However, this goal-directedness does not require organismic essences, cosmic purposes, or holistic forces.
 
-Organisms therefore cannot be understood as isolated autonomous entities.
+Teleology emerges from viability-oriented organisation itself.
 
-Persistence depends upon ongoing coupling across scales and timescales.
+Living systems act in ways that preserve, repair, regulate, and reproduce the conditions necessary for continued persistence.
 
-APS thus shifts explanatory attention away from bounded organismic unity and
-toward distributed continuity relations.
+Purpose therefore reflects organisational requirements rather than external design or metaphysical destiny.
 
-# Beyond Reductionism and Organicism
+APS naturalises teleology by grounding it in continuity-preserving activity.
 
-APS rejects the false opposition between:
-- reductive atomism;
-and:
-- metaphysical organicism.
+## Explanatory Priority Is Not Ontological Priority
 
-Reductionism becomes insufficient when organisation disappears from
-explanation.
+Holistic approaches often move from the observation that organisation is explanatorily important to the conclusion that wholes possess a special ontological status.
 
-Organicism becomes insufficient when organisation is replaced by vague appeals
-to unified wholes or organismic essences.
+APS rejects this inference.
 
-APS instead develops a viability-oriented organisational framework grounded
-in:
-- continuity;
-- perturbation-sensitive regulation;
-- constraint closure;
-- scale-coupling;
-- adaptation;
-- repair;
-- and organised persistence across time.
+The explanatory importance of organisation does not imply that organisation is ontologically fundamental in a holistic sense.
 
-Biological intelligibility therefore emerges neither from isolated parts alone
-nor from abstract wholes alone.
+APS distinguishes explanatory priority from ontological priority.
 
-It emerges from the organised processes through which living systems sustain
-continuity under changing conditions.
+Explanatory priority concerns what must be understood in order to explain biological phenomena. Ontological priority concerns what is most fundamentally real.
 
-# Conclusion
+Biological explanation requires understanding viability-oriented organisation because persistence depends upon organisational relations. Yet this does not imply that wholes exist independently of the processes and interactions through which they are constituted.
 
-APS shares important concerns historically associated with organismic and
-anti-reductionist traditions.
+Organisation is explanatorily indispensable without being ontologically mysterious.
 
-The framework recognises that living systems:
-- are organisationally integrated;
-- regulate themselves;
-- maintain continuity;
-- adapt dynamically;
-- and cannot be fully understood through isolated component analysis alone.
+APS therefore avoids both reductionism and holism. Biological systems are not explained exclusively through their parts, nor through appeals to wholes. They are explained through the continuity-preserving organisation that links components, processes, constraints, and environments into viable systems.
 
-However, APS is not a form of classical organicism.
+## The APS Position
 
-It does not invoke:
-- organismic essences;
-- vital forces;
-- anti-mechanistic principles;
-- metaphysical whole-priority;
-- or intrinsic cosmic teleology.
+APS accepts several insights traditionally associated with holism:
 
-Instead, APS develops a viability-oriented account of organised persistence
-grounded in:
-- constraint-closed organisation;
-- perturbation-sensitive continuity regulation;
-- scale-coupled biological activity;
-- and processual continuity sustained across time.
+* biological systems cannot be understood through isolated parts alone;
+* organisation matters;
+* relations matter;
+* context matters;
+* development matters;
+* persistence depends upon interactions across scales and through time.
 
-# Key Point
+However, APS rejects explanatory holism.
 
-APS is organisational rather than organismic.
+Biology is not explained by invoking wholes.
 
-Living systems are not unified biological essences or metaphysical wholes, but
-viability-oriented continuities continuously regenerating the organisational
-conditions required for their own persistence across changing conditions.
+It is explained by identifying how living systems maintain viability-oriented organisation through time.
+
+The explanatory target is neither the part nor the whole.
+
+It is organised persistence.
+
+APS therefore replaces the reductionism–holism opposition with an organisational framework centred on continuity, viability, constraint-closure, and persistence.
+
+## Conclusion
+
+Holism correctly recognised that life cannot be explained through isolated components alone.
+
+APS accepts this insight while rejecting the idea that appeals to wholes provide explanations in themselves.
+
+Living systems are not mysterious totalities.
+
+Nor are they reducible collections of parts.
+
+They are viability-oriented organisations whose continuity is maintained through organised persistence across time.
+
+Biological explanation therefore requires understanding how persistence is achieved through continuity-preserving organisation.
+
+APS rejects both reductionism and holism as explanatory endpoints.
+
+The explanatory target is neither the part nor the whole.
+
+It is organised persistence.
+
+Within this framework:
+
+* mechanisms matter;
+* components matter;
+* relations matter;
+* constraints matter;
+* scales matter;
+* and persistence matters.
+
+Biology becomes intelligible not through isolated parts alone, nor through abstract wholes alone, but through the organised processes through which living systems continuously maintain their own viability and continuity.
