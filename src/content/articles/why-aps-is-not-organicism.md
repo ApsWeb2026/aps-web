@@ -36,7 +36,7 @@ relatedGlossaryTerms:
   - organisational-realism
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - explanatory-geometry-of-biology
   - reductionism-in-biology-an-aps-clarification
   - emergence-in-biology-an-aps-clarification

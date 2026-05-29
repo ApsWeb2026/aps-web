@@ -20,7 +20,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - how-to-read-this-aps-framework-website
 
 relatedGlossaryTerms:

@@ -192,7 +192,7 @@ Within the APS framework:
 
 Together, these processes organise viability across social systems.
 
-For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/).
 
 ## Key Points
 

@@ -30,7 +30,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - scale-time-persistence
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
@@ -265,7 +265,7 @@ Persistence is not the endurance of static structure but the ongoing, viability-
 
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 
 ### Persistence and Temporality
 

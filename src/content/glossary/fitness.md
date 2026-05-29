@@ -42,7 +42,7 @@ relatedArticles:
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - scale-time-persistence
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
 
 references:
   - id: darwin1859

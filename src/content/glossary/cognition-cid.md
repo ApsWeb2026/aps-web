@@ -45,7 +45,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - cognition-where-does-it-belong-in-biology
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
@@ -358,7 +358,7 @@ Cognition therefore emerges from increasingly integrated forms of viability-orie
 
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 
 ### Cognition, Meaning, and Representation
 

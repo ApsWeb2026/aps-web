@@ -57,7 +57,7 @@ relatedGlossaryTerms:
   - cognition
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - explanatory-geometry-of-biology
   - reductionism-in-biology-an-aps-clarification
   - organisational-realism-in-biology

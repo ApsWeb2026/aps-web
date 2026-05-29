@@ -32,7 +32,7 @@ relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - organisational-realism-in-biology
   - description-explanation-and-definition-in-biology
   - explanatory-priority-is-not-ontological-priority
@@ -44,7 +44,7 @@ relatedArticles:
 
 # Why APS Reframes Biology
 
-> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture — developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)* — nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Its aim is to clarify why APS changes the explanatory centre of gravity within biology itself.
+> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture — developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)* — nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Its aim is to clarify why APS changes the explanatory centre of gravity within biology itself.
 
 Biology possesses extraordinarily powerful explanatory frameworks.
 

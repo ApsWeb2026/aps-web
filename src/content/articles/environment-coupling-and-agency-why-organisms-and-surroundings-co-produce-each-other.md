@@ -19,7 +19,7 @@ relatedGlossaryTerms:
   - constraint
   - affordance
 relatedArticles: 
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
 researchStreams: []
 references: []
 ---
@@ -58,7 +58,7 @@ The environment is therefore continuously reconfigured as coupling unfolds.
 
 Coupling therefore provides the processual basis through which viability-oriented organisation is sustained across changing conditions.
 
-The philosophical status of viability-oriented organisation is considered more fully in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
+The philosophical status of viability-oriented organisation is considered more fully in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)
 
 ## Agency as Viability-Oriented Regulation
 

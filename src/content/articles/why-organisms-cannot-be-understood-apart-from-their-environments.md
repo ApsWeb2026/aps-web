@@ -43,7 +43,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - scale-time-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
 
 references:
   - id: uexkull1926

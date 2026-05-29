@@ -198,7 +198,7 @@ Within the APS framework:
 
 Together, they organise the continuity of social systems across scales.
 
-For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/).
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/).
 
 ---
 

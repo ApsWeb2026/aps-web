@@ -24,7 +24,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
 ---
 
 ## What This Article Does
@@ -63,7 +63,7 @@ The explanatory structure of APS therefore follows directly from its account of 
   </figcaption>
 </figure>
 
-This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
+This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)
 
 ## A Unified Explanatory Architecture
 

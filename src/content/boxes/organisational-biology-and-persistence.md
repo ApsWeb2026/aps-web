@@ -21,7 +21,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-contemporary-theories
   - aps-and-autonomy-theory
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - explanatory-geometry-of-biology
   - biological-organisation
   - function

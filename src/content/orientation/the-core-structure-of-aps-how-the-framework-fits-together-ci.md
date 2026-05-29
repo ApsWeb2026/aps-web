@@ -484,7 +484,7 @@ Readers may also wish to continue with:
 
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 - *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
-- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 - *[Organisational Realism in Biology](/articles/organisational-realism-in-biology/)*
 
 # Related Clarifications

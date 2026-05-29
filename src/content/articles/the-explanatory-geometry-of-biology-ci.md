@@ -57,7 +57,7 @@ relatedArticles:
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - temporal-organisation-and-organised-persistence
   - the-developmental-organisation-of-life
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - why-aps-reframes-biology
   - organisational-realism-in-biology
   - reductionism-in-biology-an-aps-clarification
@@ -122,7 +122,7 @@ frequently proceed with partially different assumptions about:
 
 APS addresses this problem by making explicit the organisational structure through which biological explanation is coordinated.
 
-> **Where this article fits:** This article develops the formal explanatory structure of APS. Its focus is not primarily ontological reconstruction alone, but the organisation of biological explanation itself through the mutually constraining relations of agency, process, scale, continuity, development, temporality, and viability-oriented persistence. For the broader philosophical implications of APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+> **Where this article fits:** This article develops the formal explanatory structure of APS. Its focus is not primarily ontological reconstruction alone, but the organisation of biological explanation itself through the mutually constraining relations of agency, process, scale, continuity, development, temporality, and viability-oriented persistence. For the broader philosophical implications of APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
 
 APS reorganises biological explanation around the developmental and temporal organisation through which living systems sustain viable continuity across transformation.
 
@@ -497,13 +497,13 @@ Different explanatory domains do not remain isolated because they are coordinate
 
 The explanatory geometry of biology is therefore not imposed externally onto living systems, but emerges from the developmental, temporal, ecological, and organisational relations through which viable continuity is preserved across transformation.
 
-The broader philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+The broader philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
 
 ## Related Orientation Articles
 
 - *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 - *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
 
 ## Key Points

@@ -20,7 +20,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - how-aps-explains-life
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - aps-and-contemporary-theories
   - description-explanation-and-definition-in-biology
   - why-aps-reframes-biology
@@ -83,7 +83,7 @@ Readers new to APS should usually begin with the following sequence:
 3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*  
 4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*  
 5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*  
-6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*  
+6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*  
 7. *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*  
 
 Together these pages establish the conceptual, explanatory, and philosophical structure of APS.
@@ -170,7 +170,7 @@ Begin with:
 
 - *[Description, Explanation, and Definition in Biology](/articles/description-explanation-and-definition-in-biology/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 - *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 
 These articles explore APS as a reconstruction of biological explanation organised around viability-oriented persistence.

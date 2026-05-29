@@ -42,7 +42,7 @@ relatedArticles:
   - cognition-where-does-it-belong-in-biology
   - evolution
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-information-processing
   - why-life-is-not-intelligence-an-aps-clarification

@@ -49,7 +49,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - adaptation-how-living-systems-sustain-themselves-through-change
   - diagnosis-as-continuity-analysis
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
 
 references:
   - id: nicholson-dupre-2018

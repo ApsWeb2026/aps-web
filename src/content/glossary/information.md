@@ -42,7 +42,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - information-in-biology-an-aps-clarification
   - why-life-is-not-information-processing
   - semiosis-how-differences-come-to-matter-in-living-systems

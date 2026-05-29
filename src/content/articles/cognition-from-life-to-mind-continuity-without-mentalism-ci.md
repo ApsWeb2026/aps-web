@@ -18,7 +18,7 @@ relatedGlossaryTerms:
   - viability
   - function
 relatedArticles: 
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
 researchStreams: []
 references: []
 ---
@@ -73,7 +73,7 @@ What matters is not whether they represent or interpret the world, but whether t
 
 This allows comparison across species without assuming a single cognitive architecture and avoids representational vocabulary that distorts biological phenomena.
 
-For the broader philosophical treatment of normativity, agency, and biological reality in APS, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)
+For the broader philosophical treatment of normativity, agency, and biological reality in APS, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)
 
 ## 6. From Biological Cognition to Human Cognition
 

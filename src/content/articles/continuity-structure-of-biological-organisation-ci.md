@@ -46,7 +46,7 @@ relatedArticles:
   - evolution
   - why-cognition-cannot-be-separated-from-organised-persistence
   - scale-time-persistence
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - aps-and-contemporary-theories
 
 references:

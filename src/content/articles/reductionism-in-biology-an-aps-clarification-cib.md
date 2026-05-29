@@ -54,7 +54,7 @@ relatedGlossaryTerms:
   - organicism
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - explanatory-geometry-of-biology
   - analysis-synthesis-and-the-direction-of-explanation
   - description-explanation-and-definition-in-biology

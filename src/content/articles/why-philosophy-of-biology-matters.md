@@ -54,7 +54,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - what-is-aps
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - aps-and-contemporary-theories
   - explanatory-geometry-of-biology
   - continuity-structure-of-biological-organisation
@@ -565,6 +565,6 @@ within a unified explanatory framework.
 
 Readers wishing to pursue these themes further should continue through:
 - *[Why APS Reframes Biology](/articles/why-aps-reframes-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
 - *[Organisational Realism in Biology](/articles/organisational-realism-in-biology/)*

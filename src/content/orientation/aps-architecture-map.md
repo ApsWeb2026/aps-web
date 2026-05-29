@@ -50,7 +50,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - evolution
   - diagnosis-as-continuity-analysis
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - aps-and-contemporary-theories
   - how-to-read-this-aps-framework-website
 ---
@@ -312,7 +312,7 @@ This pathway clarifies both the similarities and differences between APS and nei
 
 ### Key articles
 
-- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-account/)*
+- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 - *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 - *[Why Philosophy of Biology Matters](/articles/why-philosophy-of-biology-matters/)*
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*

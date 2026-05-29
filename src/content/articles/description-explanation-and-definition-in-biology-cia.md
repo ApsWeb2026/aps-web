@@ -37,7 +37,7 @@ relatedGlossaryTerms:
   - evaluation
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - explanatory-geometry-of-biology
   - analysis-synthesis-and-the-direction-of-explanation
   - reductionism-in-biology-an-aps-clarification

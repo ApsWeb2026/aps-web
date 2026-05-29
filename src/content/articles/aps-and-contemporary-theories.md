@@ -44,7 +44,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - aps-architecture-map
-  - aps-as-philosophy-viability-oriented-account
+  - aps-as-philosophy-viability-oriented-reconstruction
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology
   - reductionism-in-biology-an-aps-clarification
@@ -142,7 +142,7 @@ APS instead attempts to situate these insights within a broader explanatory gram
 - constraint closure;
 - and scale-integrated organised transformation.
 
-> **Where this article fits:** This article situates APS comparatively in relation to neighbouring frameworks in biology, cognition, systems theory, and philosophy of biology. Its purpose is not to present the full APS framework, defend organisational realism, or reconstruct biological intelligibility in general, but to clarify how APS integrates, constrains, extends, and reorganises insights from existing theoretical approaches within a continuity-oriented explanatory architecture. For the broader philosophical reconstruction of APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*. For the formal explanatory structure of APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
+> **Where this article fits:** This article situates APS comparatively in relation to neighbouring frameworks in biology, cognition, systems theory, and philosophy of biology. Its purpose is not to present the full APS framework, defend organisational realism, or reconstruct biological intelligibility in general, but to clarify how APS integrates, constrains, extends, and reorganises insights from existing theoretical approaches within a continuity-oriented explanatory architecture. For the broader philosophical reconstruction of APS, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*. For the formal explanatory structure of APS, see *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*.
 
 [[box:the-organisational-grammar-of-aps]]
 
@@ -155,7 +155,7 @@ Readers new to APS should usually proceed through the following sequence:
 3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
 4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*
+6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
 7. *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 
 For a broader overview of how the major conceptual pathways of APS connect, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
@@ -293,7 +293,7 @@ The framework attempts to clarify:
   </p>
 </div>
 
-For the broader philosophical reconstruction of APS as an account of biological intelligibility, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)*.
+For the broader philosophical reconstruction of APS as an account of biological intelligibility, see *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
 
 ## APS and Organisational Biology
 
@@ -478,7 +478,7 @@ These articles may be read independently depending upon the reader’s interests
 For a more structured pathway through the framework:
 
 - Begin with *[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)* for the central APS account of living organisation.
-- Read *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-account/)* for the broader philosophical reconstruction of biological intelligibility.
+- Read *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)* for the broader philosophical reconstruction of biological intelligibility.
 - Explore the clarification articles to understand how APS differs from influential contemporary approaches.
 - Read the integration articles to see how APS relates to systems theory, autonomy theory, and contemporary evolutionary frameworks.
 
