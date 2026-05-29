@@ -140,8 +140,6 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Cognition — Where Does It Belong in Biology?
-
 > **Where this article fits:** This article develops the APS account of cognition as a specialised organisational development within viability-oriented organised persistence. Cognition is treated neither as the defining basis of life nor as a detached mental faculty, but as a temporally extended form of evaluative semiosis emerging within continuity-preserving biological organisation. APS therefore situates cognition downstream from viability, evaluation, semiosis, meaning, information, and representation rather than treating cognition as biologically foundational.
 
 Cognition is often treated as:
