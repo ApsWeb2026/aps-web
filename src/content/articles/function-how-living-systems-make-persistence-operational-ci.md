@@ -4,8 +4,8 @@ title: "Function — How Living Systems Make Persistence Operational"
 slug: "function-how-living-systems-make-persistence-operational"
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-28
-revised: 2026-05-28
+canonicalLockDate: 2026-05-29
+revised: 2026-05-29
 cluster: philosophy-of-biology
 
 abstract: >
@@ -16,8 +16,9 @@ abstract: >
   organisational roles enacted through dynamically regulated biological
   processes operating across interacting scales and timescales. APS explains
   how living systems operationalise persistence through functional
-  organisation, mechanistic realisation, adaptive reconstruction, and
-  continuity-preserving regulation within organism–environment systems.
+  organisation, mechanistic realisation, adaptive reconstruction,
+  perturbation-sensitive regulation, evaluation, and continuity-preserving
+  organisation within organism–environment systems.
 
 keyPoints:
   - Function operationalises viability-oriented organised persistence.
@@ -27,6 +28,7 @@ keyPoints:
   - Functional equivalence allows persistence through different organisational pathways.
   - Malfunction reflects degraded contribution to organised continuity.
   - Functions emerge within dynamically maintained organism–environment systems.
+  - Evaluation grounds functional significance relative to viability conditions.
 
 relatedGlossaryTerms:
   - function
@@ -44,6 +46,8 @@ relatedGlossaryTerms:
   - malfunction
   - process
   - scale
+  - evaluation
+  - semiosis
 
 relatedArticles:
   - function-and-normativity-why-biological-organisation-matters
@@ -59,6 +63,7 @@ relatedArticles:
   - why-life-is-not-a-machine
   - explanatory-priority-is-not-ontological-priority
   - description-explanation-and-definition-in-biology
+  - organisational-realism-in-biology
 
 researchStreams: []
 
@@ -110,8 +115,8 @@ references:
   - id: mossio2023
     authors: "Mossio, M."
     year: 2023
-    title: "Organization in Biology"
-    publisher: "Springer"
+    title: "Biological Functions and Functional Analysis"
+    publisher: "Cambridge University Press"
 
   - id: bechtel-2008
     authors: "Bechtel, W."
@@ -135,15 +140,21 @@ Hearts circulate blood, leaves capture light, enzymes catalyse reactions, neural
 
 These descriptions appear straightforward, but they conceal a deeper question:
 
-What makes a process or structure count as having a biological function at all?
+> What makes a process or structure count as having a biological function at all?
 
-Traditional accounts often explain function either through causal contribution or evolutionary history. APS preserves important insights from both approaches while situating function within a broader framework centred on organised persistence.
+Traditional accounts often explain function either through causal contribution or evolutionary history.
+
+APS preserves important insights from both approaches while situating function within a broader framework centred on organised persistence.
 
 Function is not merely assigned from outside or inherited passively from the past.
 
 It is enacted within already organised, viability-oriented systems that continuously maintain themselves across changing conditions.
 
 In APS, function is the continuity-preserving organisational role through which viability-oriented persistence becomes operational within organised biological systems.
+
+[[box:aps-box-function-is-contribution-to-viability]]
+
+[[box:aps-box-mechanisms-require-organisational-context]]
 
 # Beyond Mechanism and History
 
@@ -161,7 +172,9 @@ Historical accounts explain how functional organisation becomes stabilised acros
 
 However, neither approach alone fully explains how function operates within living systems in the present.
 
-Causal effects are not necessarily biologically meaningful. Many processes produce effects without contributing to organised persistence.
+Causal effects are not necessarily biologically meaningful.
+
+Many processes produce effects without contributing to organised persistence.
 
 Historical selection explains how functions emerge evolutionarily, but does not by itself explain how functions remain operational within living systems across changing conditions.
 
@@ -170,10 +183,12 @@ APS therefore grounds function in ongoing viability-oriented organisation.
 Contemporary organisational approaches similarly argue that biological functions must be understood relative to the maintenance of organised systems rather than solely through isolated causal effects or historical selection accounts.
 
 APS strongly converges with these perspectives while placing greater emphasis on:
-- continuity-preserving organisation,
-- temporally extended persistence,
-- adaptive reconstruction,
-- perturbation-sensitive regulation,
+- continuity-preserving organisation;
+- temporally extended persistence;
+- adaptive reconstruction;
+- perturbation-sensitive regulation;
+- evaluation;
+- semiosis;
 - and biological agency enacted across interacting scales and changing conditions.
 
 # Function as Viability-Oriented Organisational Role
@@ -183,8 +198,8 @@ In APS, function is the viability-oriented organisational role of a process or s
 A process counts as functional only insofar as it contributes to preserving or restoring viable persistence.
 
 Function is therefore not:
-- an intrinsic property of isolated components,
-- an externally assigned purpose,
+- an intrinsic property of isolated components;
+- an externally assigned purpose;
 - or merely a historically inherited effect.
 
 It is a relational organisational role emerging within systems organised around continuity-preserving viability.
@@ -192,11 +207,26 @@ It is a relational organisational role emerging within systems organised around 
 Function consequently depends upon organisational context.
 
 The same process may be:
-- functional in one system,
-- non-functional in another,
+- functional in one system;
+- non-functional in another;
 - or actively disruptive under different organisational conditions.
 
 Biological function therefore cannot be reduced to isolated mechanisms considered independently of organised persistence.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-endogenous-normativity.png"
+      alt="APS endogenous normativity architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Function and Endogenous Normativity.</strong>
+    Functional organisation emerges through viability-oriented organised persistence in which evaluation and regulation distinguish continuity-supporting from continuity-disrupting conditions.
+  </p>
+</div>
 
 # Function, Purpose, and Organised Persistence
 
@@ -213,14 +243,18 @@ This relationship clarifies why function cannot be understood in isolation from 
 A process is functional only within a system whose activity is organised around preserving continuity under changing conditions.
 
 Functions operationalise:
-- regulation,
-- repair,
-- adaptation,
-- environmental responsiveness,
-- developmental continuity,
+- regulation;
+- repair;
+- adaptation;
+- environmental responsiveness;
+- developmental continuity;
+- evaluation;
+- semiosis;
 - and persistence-preserving organisation.
 
 Living systems therefore maintain continuity not through static structure alone, but through ongoing functional activity continuously reconstructing viability-oriented organisation.
+
+[[box:aps-box-viability-grounds-evaluation]]
 
 # Function and Mechanistic Realisation
 
@@ -232,7 +266,9 @@ Metabolic pathways,
 neural circuits,
 immune responses,
 developmental processes,
-and behavioural systems all involve organised mechanistic relations.
+and behavioural systems
+
+all involve organised mechanistic relations.
 
 However, APS rejects the idea that mechanisms are explanatorily self-sufficient.
 
@@ -241,13 +277,30 @@ Mechanisms become biologically meaningful because of the organisational roles th
 Mechanistic processes realise functional organisation.
 
 A mechanism becomes biologically functional insofar as it contributes to:
-- viability maintenance,
-- continuity regulation,
-- adaptive reconstruction,
-- perturbation-sensitive compensation,
+- viability maintenance;
+- continuity regulation;
+- adaptive reconstruction;
+- perturbation-sensitive compensation;
+- evaluation;
+- semiosis;
 - and organised persistence across time.
 
 Mechanistic explanation therefore remains scientifically indispensable, but its biological significance depends upon its integration within larger systems organised around viability-oriented continuity.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-mechanism.png"
+      alt="Mechanism within organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Mechanism Within Organised Persistence.</strong>
+    Mechanisms realise functional organisation within systems organised around viability-oriented continuity and organised persistence.
+  </p>
+</div>
 
 # Function and Biological Causation
 
@@ -274,11 +327,11 @@ They contribute to continuity across time.
 A process becomes functional because it participates in maintaining viable persistence through ongoing transformation, reconstruction, and adaptive regulation.
 
 Function therefore depends upon:
-- temporal organisation,
-- continuity maintenance,
-- developmental reconstruction,
-- ecological coordination,
-- adaptive compensation,
+- temporal organisation;
+- continuity maintenance;
+- developmental reconstruction;
+- ecological coordination;
+- adaptive compensation;
 - and persistence-preserving reorganisation
 
 distributed across interacting timescales.
@@ -296,10 +349,11 @@ Function is grounded in continuity-maintaining organisational closure.
 Within living systems, processes contribute to sustaining the organised relations that preserve viability across time.
 
 Functions are realised when processes:
-- maintain organisational constraints,
-- restore degraded organisation,
-- compensate for perturbation,
-- or reorganise continuity-preserving activity under changing conditions.
+- maintain organisational constraints;
+- restore degraded organisation;
+- compensate for perturbation;
+- reorganise continuity-preserving activity under changing conditions;
+- and sustain evaluative organisation relative to viability.
 
 Function therefore reflects the role of activity within dynamically self-maintaining systems rather than the properties of isolated components.
 
@@ -316,11 +370,12 @@ Functional equivalence denotes the capacity of different mechanisms or organisat
 What matters biologically is not necessarily the specific structure involved, but the continuity-preserving organisational contribution it realises.
 
 Functional equivalence therefore helps explain:
-- adaptive compensation,
-- developmental plasticity,
-- physiological substitution,
-- behavioural flexibility,
-- and organisational resilience.
+- adaptive compensation;
+- developmental plasticity;
+- physiological substitution;
+- behavioural flexibility;
+- organisational resilience;
+- and continuity-preserving reorganisation.
 
 Living systems preserve continuity by reorganising functional relations across changing conditions while maintaining viable persistence.
 
@@ -358,15 +413,19 @@ This distinction clarifies why function cannot be reduced to causal effect alone
 
 A process may continue producing causal effects while no longer functioning relative to viability-oriented continuity.
 
+[[box:aps-box-normativity-is-endogenous]]
+
 # Function and Organism–Environment Coupling
 
 Functions emerge within coupled organism–environment systems.
 
 Environmental relations contribute directly to:
-- metabolic regulation,
-- behavioural organisation,
-- developmental continuity,
-- ecological persistence,
+- metabolic regulation;
+- behavioural organisation;
+- developmental continuity;
+- ecological persistence;
+- evaluative organisation;
+- semiosis;
 - and adaptive reconstruction.
 
 Functions therefore cannot always be localised entirely within organisms themselves.
@@ -380,12 +439,14 @@ APS consequently situates function within distributed continuity-producing organ
 Clarifying function helps resolve several persistent conceptual problems in biology.
 
 It explains:
-- why function cannot be reduced to causal effect alone,
-- why historical selection does not exhaust present function,
-- how biological normativity emerges naturally,
-- how mechanisms contribute to organised persistence,
-- how systems maintain coherence despite continual change,
-- how adaptation reorganises continuity-preserving organisation,
+- why function cannot be reduced to causal effect alone;
+- why historical selection does not exhaust present function;
+- how biological normativity emerges naturally;
+- how mechanisms contribute to organised persistence;
+- how systems maintain coherence despite continual change;
+- how evaluation grounds functional significance;
+- how semiosis emerges from viability-oriented organisation;
+- how adaptation reorganises continuity-preserving organisation;
 - and how living systems operationalise persistence across changing conditions.
 
 APS therefore explains biological function through viability-oriented organised persistence enacted across interacting temporal, developmental, ecological, and mechanistic scales.
@@ -401,12 +462,14 @@ In APS, function is the continuity-preserving organisational role through which 
 Functions matter because they contribute to organised continuity across changing conditions.
 
 Understanding function therefore requires understanding the continuity-maintaining organisation within which functional processes are enacted:
-- systems that are already viability-oriented,
-- dynamically organised,
-- mechanistically realised,
-- temporally structured,
+- systems that are already viability-oriented;
+- dynamically organised;
+- mechanistically realised;
+- temporally structured;
+- evaluative;
+- semiotic;
 - and actively engaged in preserving their own persistence.
 
-# Key Point
+## Key Point
 
 Function in APS is the operational expression of purpose: the continuity-preserving organisational role through which living systems maintain viability-oriented persistence across time.
