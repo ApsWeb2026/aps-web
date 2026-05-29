@@ -1,22 +1,25 @@
 ---
 date: 2026-05-15
-title: "Representation — When (and Whether) It Arises in Biological Systems"
+title: "Representation — When and Whether It Arises in Biological Systems"
 slug: representation-when-and-whether-it-arises-in-biological-systems
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-21
-revised: 2026-05-21
-cluster: cognition-and-mind
+canonicalLockDate: 2026-05-29
+revised: 2026-05-29
+cluster: philosophy-of-biology
 
 abstract: >
   Representation is often treated as the foundational basis of cognition,
   meaning, and intelligent behaviour. APS rejects this assumption.
   Biological systems do not require internal representations in order to
   regulate activity relative to viability. Evaluation and semiosis arise
-  earlier and more fundamentally from viability-oriented organisation.
+  earlier and more fundamentally from viability-oriented organisation itself.
   Representation, where it exists, is a later organisational development
   emerging within certain forms of temporally organised continuity-sensitive
-  cognition.
+  cognition capable of modelling absent, hypothetical, or future conditions.
+  APS therefore situates representation downstream from evaluation,
+  semiosis, meaning, and organised persistence rather than treating it as the
+  explanatory foundation of life or cognition.
 
 relatedGlossaryTerms:
   - representation
@@ -32,71 +35,84 @@ relatedGlossaryTerms:
   - continuity
   - temporality
   - counterfactual-depth
+  - process
+  - scale
 
 relatedArticles:
-  - temporal-organisation-and-organised-persistence
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
   - semiosis-how-differences-come-to-matter-in-living-systems
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - cognition-where-does-it-belong-in-biology
   - why-life-is-not-information-processing
   - why-life-is-not-active-inference
-  - consciousness-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
   - why-ai-is-not-biological-agency
+  - consciousness-an-aps-clarification
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
+  - temporal-organisation-and-organised-persistence
 
 references:
   - id: millikan1984
     authors: "Millikan, R. G."
     year: 1984
     title: "Language, Thought, and Other Biological Categories"
-    source: "MIT Press"
+    publisher: "MIT Press"
 
   - id: dennett1991
     authors: "Dennett, D. C."
     year: 1991
     title: "Consciousness Explained"
-    source: "Little, Brown and Company"
+    publisher: "Little, Brown and Company"
 
   - id: clark1997
     authors: "Clark, A."
     year: 1997
     title: "Being There"
-    source: "MIT Press"
+    publisher: "MIT Press"
 
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."
     year: 1991
     title: "The Embodied Mind"
-    source: "MIT Press"
+    publisher: "MIT Press"
 
   - id: thompson2007
     authors: "Thompson, E."
     year: 2007
     title: "Mind in Life"
-    source: "Harvard University Press"
+    publisher: "Harvard University Press"
 
   - id: deacon2011
     authors: "Deacon, T. W."
     year: 2011
     title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
+    publisher: "W. W. Norton & Company"
 
   - id: hohwy2013
     authors: "Hohwy, J."
     year: 2013
     title: "The Predictive Mind"
-    source: "Oxford University Press"
+    publisher: "Oxford University Press"
 
   - id: clark2016
     authors: "Clark, A."
     year: 2016
     title: "Surfing Uncertainty"
-    source: "Oxford University Press"
+    publisher: "Oxford University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Representation — When (and Whether) It Arises in Biological Systems
+# Representation — When and Whether It Arises in Biological Systems
 
-> **Where this article fits:** This article develops the APS account of representation as a possible later organisational development within certain forms of temporally organised cognition rather than as the foundation of biological meaning or agency. APS treats evaluation and semiosis as more fundamental than representation because living systems regulate activity relative to viability before symbolic modelling or explicit representational structures arise. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
+> **Where this article fits:** This article develops the APS account of representation as a possible later organisational development within certain forms of temporally organised cognition rather than as the foundation of biological meaning or agency. APS treats evaluation, semiosis, meaning, and information as more fundamental than representation because living systems regulate activity relative to viability before symbolic modelling or explicit representational structures arise.
 
 Representation is one of the central concepts of contemporary cognitive science, neuroscience, artificial intelligence, and philosophy of mind.
 
@@ -105,7 +121,8 @@ Living systems are often described as:
 - encoding information;
 - representing environments;
 - storing symbolic content;
-- or predicting external states.
+- predicting external states;
+- or generating internal simulations of the world.
 
 From this perspective, cognition appears fundamentally representational.
 
@@ -115,9 +132,20 @@ Within the APS framework, biological systems do not require internal representat
 
 Evaluation and semiosis arise earlier and more fundamentally from viability-oriented organisation itself.
 
+Meaning and informational significance likewise emerge before explicit representation.
+
 Representation, where it arises, emerges within already existing systems capable of sustaining temporally organised continuity-sensitive cognition relative to viability.
 
-[[box:what-aps-means-by-cognition]]
+APS therefore situates representation downstream from:
+- viability;
+- evaluation;
+- semiosis;
+- meaning;
+- and organised persistence.
+
+[[box:aps-box-meaning-is-evaluative-significance]]
+
+[[box:aps-box-semiosis-is-operational]]
 
 # Why Representation Became Central
 
@@ -127,7 +155,8 @@ Animals:
 - navigate environments;
 - anticipate future conditions;
 - coordinate action flexibly;
-- and respond to absent or delayed conditions.
+- remember absent conditions;
+- and respond adaptively to delayed consequences.
 
 These capacities appear difficult to explain through immediate stimulus-response relations alone.
 
@@ -138,6 +167,7 @@ Internal states could stand in for external conditions, allowing systems to:
 - plan;
 - remember;
 - simulate;
+- model hypothetical states;
 - and coordinate behaviour beyond the present moment.
 
 This framework became especially influential within:
@@ -145,7 +175,8 @@ This framework became especially influential within:
 - neuroscience;
 - artificial intelligence;
 - predictive processing;
-- and computational psychology.
+- computational psychology;
+- and Active-Inference approaches.
 
 APS accepts that some biological systems may indeed develop representational capacities.
 
@@ -165,26 +196,45 @@ This differential modulation of activity constitutes evaluation.
 
 Evaluation does not require:
 - symbols;
-- models;
 - internal maps;
-- or representational encoding.
+- semantic encoding;
+- representational modelling;
+- or explicit world simulation.
 
 A bacterium moving toward nutrients need not internally represent nutrients symbolically.
 
-A plant reorganising growth under drought conditions need not possess internal world-models.
+A plant reorganising growth under drought conditions need not construct internal world models.
 
-An immune system distinguishing tolerated from damaging conditions need not construct representations in the cognitive-scientific sense.
+An immune system distinguishing tolerated from damaging conditions need not encode symbolic representations of pathogens.
 
 These systems already exhibit:
 - biological agency;
 - normativity;
 - evaluation;
 - semiosis;
-- and continuity-sensitive regulation
+- continuity-sensitive regulation;
+- and persistence-preserving organisation
 
 without requiring explicit representation.
 
 Evaluation therefore precedes representation organisationally.
+
+[[box:aps-box-viability-grounds-evaluation]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-endogenous-normativity.png"
+      alt="APS endogenous normativity architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Evaluation Before Representation.</strong>
+    Representation emerges only within already existing systems capable of viability-oriented evaluative organisation sustaining continuity-preserving persistence.
+  </p>
+</div>
 
 # Semiosis Without Representation
 
@@ -192,7 +242,12 @@ APS also distinguishes semiosis from representation.
 
 Semiosis concerns the organisation of differences as biologically meaningful within viability-oriented activity.
 
-A chemical gradient, thermal change, or signalling molecule becomes meaningful because it participates in evaluative biological organisation.
+A chemical gradient,
+thermal change,
+mechanical relation,
+or signalling molecule
+
+becomes meaningful because it participates in evaluative biological organisation.
 
 This does not necessarily require:
 - symbolic encoding;
@@ -200,17 +255,67 @@ This does not necessarily require:
 - semantic representation;
 - or explicit informational mapping.
 
-Differences matter biologically because they affect viability.
+Differences matter biologically because they affect viability-oriented persistence.
 
-Meaning therefore emerges from:
+Meaning therefore emerges through:
 - evaluation;
-- regulation;
+- semiosis;
 - continuity-sensitive organisation;
-- and persistence-maintaining activity
+- and persistence-preserving activity
 
-rather than from representation alone.
+rather than through representation alone.
 
 Representation may emerge later within some forms of cognition, but semiosis does not depend upon it fundamentally.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-semiosis.png"
+      alt="Semiosis and evaluative meaning in APS"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Semiosis Before Representation.</strong>
+    Meaningful biological difference emerges through evaluative semiosis prior to explicit representational modelling.
+  </p>
+</div>
+
+# Meaning and Information Before Representation
+
+APS therefore reverses the explanatory order commonly assumed in representational theories.
+
+Representation does not generate meaning.
+
+Meaning does not emerge from representation.
+
+Instead APS proposes the following organisational sequence:
+
+viability  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition
+
+Within this sequence:
+- evaluation modulates activity relative to viability;
+- semiosis organises differences as biologically meaningful;
+- meaning stabilises evaluative significance;
+- information emerges where meaningful differences participate in organised coordination;
+- representation may then emerge within sufficiently integrated forms of cognition.
+
+Representation is therefore organisationally downstream from already meaningful evaluative activity.
+
+This distinction is one of the central APS clarifications regarding cognition and biological organisation.
 
 # Cognition Without Representation
 
@@ -222,33 +327,50 @@ A system may:
 - coordinate behaviour contextually;
 - integrate multiple viability conditions;
 - regulate activity across time;
-- and adapt flexibly to changing environments
+- adapt flexibly to changing environments;
+- and sustain continuity-sensitive organisation
 
 without constructing explicit representational models.
 
 This is especially important in:
 - plant cognition;
 - microbial cognition;
-- distributed biological systems;
 - immune cognition;
-- and embodied cognition research.
+- embodied cognition research;
+- and distributed biological systems.
 
 Many biological systems exhibit sophisticated forms of cognition while remaining:
 - non-symbolic;
 - distributed;
 - processual;
-- and tightly coupled to ongoing activity.
+- dynamically coupled to environments;
+- and organised through ongoing activity itself.
 
-APS therefore treats representation as one possible organisational development within cognition rather than as cognition’s universal foundation.
+APS therefore treats representation as one possible organisational development within cognition rather than cognition’s universal foundation.
 
-Cognition therefore concerns:
+Cognition consequently concerns:
 > temporally organised continuity integration rather than representation alone.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-visual.png"
+      alt="Continuity from semiosis to cognition within viability-oriented organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Representation Within Cognitive Continuity.</strong>
+    Representation may emerge within sufficiently temporally extended forms of evaluative cognition already grounded in viability-oriented organised persistence.
+  </p>
+</div>
 
 # When Representation May Arise
 
 APS does not deny representation altogether.
 
-Instead, it asks:
+Instead APS asks:
 
 > Under what organisational conditions might representation emerge?
 
@@ -256,20 +378,24 @@ Representation becomes increasingly plausible where cognition exhibits:
 - counterfactual depth;
 - temporal projection;
 - behavioural simulation;
-- explicit memory integration;
 - symbolic manipulation;
-- or detached modelling of absent conditions.
+- explicit memory integration;
+- hypothetical modelling;
+- detached coordination relative to absent conditions;
+- and anticipatory organisation across extended temporal horizons.
 
-Under these conditions, systems may develop organisational structures functioning representationally.
+Under such conditions, systems may develop organisational structures functioning representationally.
 
 Importantly, APS treats such capacities as:
 - emergent;
 - biologically grounded;
-- and organisationally derivative.
+- organisationally derivative;
+- and continuity-dependent.
 
 Representation therefore emerges only within already existing systems capable of:
 - evaluation;
 - semiosis;
+- meaning;
 - cognition;
 - continuity-sensitive regulation;
 - and viability-oriented persistence.
@@ -281,19 +407,25 @@ Contemporary predictive-processing and Active-Inference theories frequently desc
 Organisms are modelled as:
 - predicting sensory inputs;
 - minimising prediction error;
-- and updating internal models of the world.
+- updating internal models;
+- and inferring hidden environmental causes.
 
 APS accepts that such frameworks may successfully describe aspects of advanced cognition.
 
 However, APS rejects the stronger claim that all biological organisation is fundamentally representational.
 
-Prediction itself presupposes temporally organised continuity-sensitive persistence systems capable of viability-oriented regulation.
+Prediction itself presupposes:
+- temporally organised persistence;
+- continuity-sensitive regulation;
+- viability-oriented evaluation;
+- semiosis;
+- and biological agency.
 
-Representation therefore cannot explain the existence of biological organisation from the outset.
+Representation therefore cannot explain biological organisation from the outset.
 
 It already presupposes organised living systems.
 
-[[box:how-aps-relates-to-other-theoretical-frameworks]]
+This is why APS treats representation as derivative rather than foundational.
 
 # Representation Is Not Biological Meaning
 
@@ -316,9 +448,11 @@ But meaning itself originates earlier within:
 - continuity-sensitive organisation;
 - and biological normativity.
 
-This is why APS treats representational “accuracy” as functionally grounded rather than referentially foundational.
-
 Representations matter biologically only insofar as they contribute to viability-oriented activity.
+
+Meaning therefore precedes representation organisationally.
+
+[[box:aps-box-meaning-is-evaluative-significance]]
 
 # Representation and Artificial Intelligence
 
@@ -326,9 +460,10 @@ Representation is especially important in artificial intelligence because many A
 - symbolic structures;
 - statistical modelling;
 - predictive optimisation;
+- internal modelling;
 - and representational architectures.
 
-APS does not deny the sophistication of such systems.
+APS fully recognises the sophistication of such systems.
 
 However, representation alone does not generate biological organisation.
 
@@ -344,73 +479,110 @@ Representation therefore cannot by itself explain:
 - biological agency;
 - normativity;
 - semiosis;
+- meaning;
 - continuity;
 - or organised persistence.
 
-These arise from viability-oriented organisation rather than from representational processing alone.
+These arise from viability-oriented organisation rather than representational processing alone.
 
-# The APS Perspective
+# Representation Across Scale and Time
 
-APS situates representation within a broader organisational framework.
+Representational organisation, where it exists, unfolds across interacting scales and temporal horizons.
 
-From an APS perspective:
-- viability-oriented organisation grounds biological agency;
-- evaluation modulates activity relative to persistence;
-- semiosis structures differences as biologically meaningful;
-- cognition integrates evaluative activity across time;
-- and representation may emerge within some advanced forms of cognition.
+Representational capacities may involve:
+- neural integration;
+- memory systems;
+- symbolic coordination;
+- anticipatory regulation;
+- behavioural simulation;
+- linguistic systems;
+- and socially distributed cognition.
 
-Representation is therefore:
-- neither foundational to life;
-- nor required for basic cognition;
-- nor equivalent to meaning itself.
+These capacities remain embedded within:
+- continuity-preserving organisation;
+- temporally extended viability regulation;
+- organism–environment coupling;
+- and multiscale biological activity.
 
-It is a specialised organisational development within some biological systems.
+APS therefore rejects treating representation as detached symbolic processing independent of life itself.
 
-Representation must therefore be understood through the same organisational grammar governing biological explanation more generally:
+Representation remains biologically grounded within organised persistence.
+
+# Representation Within the APS Explanatory Grammar
+
+APS situates representation within the broader explanatory grammar organised through:
 - agency;
 - process;
 - scale;
+- temporality;
 - viability;
 - evaluation;
 - semiosis;
+- meaning;
+- information;
 - cognition;
-- continuity;
-- temporality;
-- and persistence.
+- and organised persistence.
 
-# Closing Perspective
+Representation therefore cannot be understood adequately as:
+- symbolic modelling alone;
+- information processing alone;
+- predictive inference alone;
+- or detached semantic computation.
 
-Representation is often treated as the foundation of cognition and meaning.
+Instead representation emerges only within already meaningful systems organised around:
+- continuity-sensitive regulation;
+- viability-oriented evaluation;
+- semiosis;
+- adaptive organisation;
+- temporally extended persistence;
+- and biological agency.
 
-APS reverses this explanatory order.
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-clarification-map.png"
+      alt="APS clarification map"
+      loading="lazy"
+    />
+  </a>
 
-Living systems first exist as viability-oriented organisations.
+  <p class="aps-diagram-caption">
+    <strong>APS Clarification Map.</strong>
+    APS situates representation within viability-oriented organised persistence rather than treating representation as the foundational basis of life or cognition.
+  </p>
+</div>
+
+# Why Representation Matters
+
+Clarifying representation organisationally helps resolve several persistent conceptual problems in biology and cognitive science.
+
+It:
+- distinguishes representation from semiosis and meaning;
+- grounds representation within living organisation itself;
+- clarifies why cognition need not always be representational;
+- explains how symbolic modelling emerges from more basic biological organisation;
+- and situates predictive processing within a broader continuity-oriented framework.
+
+APS therefore naturalises representation through viability-oriented organised persistence rather than treating representation as explanatorily primary.
+
+# Conclusion
+
+Representation is not the foundation of life, meaning, or cognition.
+
+Living systems first exist as viability-oriented organised continuities.
 
 Evaluation modulates activity relative to persistence.
 
 Semiosis structures differences as biologically meaningful.
 
-Cognition integrates evaluative organisation across time.
+Meaning stabilises evaluative significance.
 
-Only then, under some conditions, may representation emerge.
+Information participates in organised coordination.
 
-Representation is therefore not the foundation of life.
+Only then, under some organisational conditions, may representation emerge.
 
-It is a specialised organisational development emerging within temporally organised viability-oriented continuity rather than the foundation of biological cognition itself.
+Representation is therefore a specialised organisational development emerging within temporally organised viability-oriented continuity rather than the explanatory foundation of biological organisation itself.
 
----
+## Key Point
 
-## Related Pathways
-
-- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
-- *[Meaning in Biology — An APS Clarification](/articles/meaning-in-biology-an-aps-clarification/)*
-- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
-- *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
-
----
-
-## Key Terms
-
-representation · cognition · semiosis · evaluation · continuity · temporality · viability · meaning · persistence · predictive processing
+Representation emerges only within already meaningful systems organised through viability-oriented evaluative semiosis sustaining continuity-preserving persistence.

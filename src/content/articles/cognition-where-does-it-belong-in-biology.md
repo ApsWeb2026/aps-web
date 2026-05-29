@@ -4,67 +4,69 @@ title: "Cognition — Where Does It Belong in Biology?"
 slug: cognition-where-does-it-belong-in-biology
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-20
-revised: 2026-05-20
-cluster: conceptual-foundations
+canonicalLockDate: 2026-05-29
+revised: 2026-05-29
+cluster: philosophy-of-biology
 
 abstract: >
-  This article repositions cognition within biology as a specific organisational
-  development of viability-oriented systems rather than a general feature of
-  life or a specialised property of nervous systems. APS treats cognition as
-  a temporally extended form of evaluative organisation emerging through
-  semiosis, meaning, information, and representation within living systems.
-  Cognition arises when viability-oriented regulation becomes sufficiently
-  integrated across time that present activity is coordinated relative to
-  absent, delayed, anticipated, or counterfactual conditions.
+  This article repositions cognition within biology as a specialised
+  organisational development of viability-oriented organised persistence rather
+  than as the defining basis of life or a property restricted to nervous
+  systems alone. APS interprets cognition as a temporally extended form of
+  evaluative semiosis emerging through continuity-sensitive regulation within
+  living systems. Cognition arises when viability-oriented organisation becomes
+  sufficiently integrated across time that present activity is coordinated
+  relative to absent, delayed, anticipated, hypothetical, or counterfactual
+  conditions. APS therefore situates cognition downstream from viability,
+  evaluation, semiosis, meaning, information, and representation rather than
+  treating cognition as biologically foundational.
 
 relatedGlossaryTerms:
+  - cognition
+  - evaluation
+  - semiosis
+  - meaning
+  - information
+  - representation
   - biological-agency
   - viability
   - normativity
-  - function
+  - persistence
+  - continuity
+  - temporality
+  - counterfactual-depth
   - adaptation
   - process
   - scale
-  - evaluation
-  - semiosis
-  - cognition
-  - meaning
-  - representation
-  - information
-  - spatiotemporal-organisation
-  - persistence
-  - viability-orientation
-  - continuity
 
 relatedArticles:
-  - temporal-organisation-and-organised-persistence
-  - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
-  - from-life-to-explanation-emerging-architecture
-  - aps-diagnostics-empirical-tractability
-  - beyond-placeholder-concepts-in-biology-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - function-and-normativity-why-biological-organisation-matters
   - why-life-is-not-intelligence-an-aps-clarification
   - why-life-is-not-information-processing
   - why-life-is-not-active-inference
-  - description-explanation-and-definition-in-biology
-  - multiple-realization-and-biological-organisation
   - why-ai-is-not-biological-agency
-  - semiosis-how-differences-come-to-matter-in-living-systems
   - consciousness-an-aps-clarification
+  - temporal-organisation-and-organised-persistence
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
 
 references:
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."
     year: 1991
     title: "The Embodied Mind"
-    source: "MIT Press"
+    publisher: "MIT Press"
 
   - id: thompson2007
     authors: "Thompson, E."
     year: 2007
     title: "Mind in Life"
-    source: "Harvard University Press"
+    publisher: "Harvard University Press"
 
   - id: lyon2015
     authors: "Lyon, P."
@@ -94,13 +96,13 @@ references:
     authors: "Calvo, P."
     year: 2020
     title: "Planta Sapiens"
-    source: "W. W. Norton & Company"
+    publisher: "W. W. Norton & Company"
 
   - id: ginsburg2019
     authors: "Ginsburg, S., & Jablonka, E."
     year: 2019
-    title: "The evolution of the Sensitive Soul"
-    source: "MIT Press"
+    title: "The Evolution of the Sensitive Soul"
+    publisher: "MIT Press"
 
   - id: pezzulo2024
     authors: "Pezzulo, G., & Levin, M."
@@ -118,34 +120,36 @@ references:
     volume: "10"
     pages: "20130475"
 
-  - id: dennett2017
-    authors: "Dennett, D. C."
-    year: 2017
-    title: "From Bacteria to Bach and Back"
-    source: "W. W. Norton & Company"
-
   - id: moreno2015
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+    publisher: "Springer"
 
   - id: godfreysmith2016
     authors: "Godfrey-Smith, P."
     year: 2016
     title: "Other Minds"
-    source: "Farrar, Straus and Giroux"
+    publisher: "Farrar, Straus and Giroux"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Cognition — Where Does It Belong in Biology?
 
-> **Where this article fits:** This article repositions cognition within biology as a specialised organisational development of viability-oriented systems. Cognition is treated neither as the defining basis of life nor as an isolated mental faculty, but as a temporally extended form of evaluative semiosis emerging within organised persistence. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
+> **Where this article fits:** This article develops the APS account of cognition as a specialised organisational development within viability-oriented organised persistence. Cognition is treated neither as the defining basis of life nor as a detached mental faculty, but as a temporally extended form of evaluative semiosis emerging within continuity-preserving biological organisation. APS therefore situates cognition downstream from viability, evaluation, semiosis, meaning, information, and representation rather than treating cognition as biologically foundational.
 
 Cognition is often treated as:
 - the defining basis of life;
 - a specialised property of brains;
 - a form of information processing;
-- or a synonym for intelligence, representation, or computation.
+- a representational modelling system;
+- or a synonym for intelligence itself.
 
 APS rejects these framings when treated in isolation.
 
@@ -157,71 +161,27 @@ Within such systems:
 - others undermine it;
 - and activity becomes differentially modulated relative to those conditions.
 
-This modulation is evaluative.
+This modulation is evaluation.
 
-The organisation of those meaningful differences is semiosis.
+The organisation of meaningful difference within that modulation is semiosis.
 
-Meaning emerges where differentiated conditions acquire biological significance within organised persistence.
+Meaning emerges where biologically significant differences become stabilised within organised persistence.
 
 Information emerges where meaningful differences participate in coordinated regulation.
 
-Representation emerges where informational organisation becomes stabilised relative to absent, delayed, or non-immediate conditions.
+Representation may emerge where informational organisation becomes sufficiently integrated relative to absent, delayed, hypothetical, or future conditions.
 
-Cognition develops where these organisational processes become increasingly integrated, temporally extended, and behaviourally flexible.
+Cognition develops where these organisational processes become increasingly temporally integrated, behaviourally flexible, and continuity-sensitive.
 
-APS therefore treats cognition not as the basis of life itself, but as a specialised development within viability-oriented organisation.
+APS therefore treats cognition not as the basis of life itself, but as a specialised organisational development within viability-oriented organised persistence.
 
-Cognition emerges where viability-oriented organisation becomes sufficiently temporally extended that present regulation is coordinated relative to:
-- absent conditions;
-- delayed consequences;
-- anticipated possibilities;
-- unrealised alternatives;
-- and counterfactual relations.
+[[box:aps-box-viability-grounds-evaluation]]
 
-[[box:biological-and-psychological-interpretation]]
+[[box:aps-box-semiosis-is-operational]]
 
-# The Conventional Placement of Cognition
+# Cognition Within the APS Architecture
 
-Cognition is frequently positioned outside biological organisation itself.
-
-Within many conventional frameworks:
-- life is treated as one domain;
-- cognition as another;
-- and intelligence as a further specialised development.
-
-Cognition consequently becomes associated primarily with:
-- nervous systems;
-- symbolic representation;
-- internal world models;
-- information processing;
-- or conscious reasoning.
-
-APS rejects this separation.
-
-Nor does APS identify cognition with:
-- computation;
-- information processing;
-- symbolic representation;
-- or intelligence considered independently of viability-oriented organisation.
-
-This difficulty reflects a broader problem in biology and cognitive science:
-concepts such as cognition, intelligence, representation, and information are often employed without being organisationally grounded.
-
-APS therefore begins from biological organisation itself rather than from abstract cognitive categories.
-
-# Cognition as an Organisational Development Within Life
-
-Living systems are viability-oriented, constraint-closed organisations that continuously sustain the conditions of their own persistence.
-
-Within such systems:
-- some differences matter;
-- some conditions support continuity;
-- others threaten viability;
-- and activity becomes organised relative to those differences.
-
-Cognition emerges through increasingly integrated forms of such evaluative organisation.
-
-APS therefore situates cognition within a specific organisational sequence:
+APS situates cognition within a broader organisational sequence:
 
 viability  
 ↓  
@@ -239,60 +199,173 @@ cognition
 
 This sequence does not introduce separate substances or explanatory domains.
 
-It clarifies organisational relations already implicit within living systems.
+It clarifies organisational developments already implicit within living systems themselves.
+
+Within this sequence:
+- viability establishes continuity conditions;
+- evaluation modulates activity relative to persistence;
+- semiosis organises differences as biologically meaningful;
+- meaning stabilises evaluative significance;
+- information participates in organised coordination;
+- representation may emerge where cognition becomes sufficiently temporally extended;
+- cognition develops where evaluative organisation becomes increasingly integrated across time and behavioural coordination.
+
+APS therefore interprets cognition as:
+> temporally extended evaluative semiosis integrated within viability-oriented organised persistence.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/cognition-visual.png"
-      alt="Cognition in APS as a development from viability, evaluation, semiosis, meaning, information, and representation toward temporally extended cognition"
+      alt="Cognition within viability-oriented organised persistence"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Primary Cognition Visual.</strong>
-    APS interprets cognition as a specialised organisational development of temporally extended evaluation, semiosis, meaning, information, and representation within viability-oriented systems.
+    <strong>Cognition Within Organised Persistence.</strong>
+    APS interprets cognition as a specialised organisational development emerging through temporally extended evaluation, semiosis, meaning, information, and representation within viability-oriented organised persistence.
   </p>
 </div>
 
-APS therefore treats cognition as continuous with broader biological organisation rather than external to it.
+# Why Cognition Became Separated from Biology
 
-[[box:what-aps-means-by-cognition]]
+Cognition has often been treated as conceptually separate from biological organisation itself.
+
+Within many conventional frameworks:
+- life is treated as one domain;
+- cognition as another;
+- and intelligence as a further specialised development.
+
+Cognition therefore becomes associated primarily with:
+- nervous systems;
+- symbolic representation;
+- internal world models;
+- information processing;
+- computation;
+- or conscious reasoning.
+
+APS rejects this separation.
+
+Nor does APS identify cognition with:
+- symbolic representation;
+- information processing;
+- predictive modelling;
+- or intelligence considered independently of viability-oriented organisation.
+
+This separation reflects a broader problem in biology and cognitive science:
+concepts such as cognition, intelligence, representation, and information are often employed without sufficient organisational grounding.
+
+APS instead begins from organised persistence itself.
+
+# Evaluation Before Cognition
+
+Evaluation precedes cognition organisationally.
+
+Living systems continuously regulate activity relative to conditions affecting persistence.
+
+Some conditions:
+- support viability;
+- stabilise continuity;
+- preserve organisation;
+- or enhance adaptive capacity.
+
+Others:
+- undermine continuity;
+- threaten persistence;
+- destabilise organisation;
+- or contribute to breakdown.
+
+Living systems therefore modulate activity differentially relative to viability conditions.
+
+This modulation constitutes evaluation.
+
+Importantly, evaluation does not require:
+- symbolic representation;
+- linguistic reasoning;
+- internal world models;
+- explicit prediction;
+- or conscious awareness.
+
+A bacterium moving toward nutrients already exhibits:
+- viability-oriented evaluation;
+- semiosis;
+- adaptive regulation;
+- and continuity-sensitive organisation
+
+without requiring cognition in the stronger APS sense.
+
+APS therefore distinguishes carefully between:
+- evaluation;
+- semiosis;
+- and cognition.
+
+Evaluation and semiosis occur broadly throughout life.
+
+Cognition emerges only when evaluative semiosis becomes sufficiently:
+- temporally integrated;
+- behaviourally flexible;
+- context-sensitive;
+- and counterfactually extended.
+
+[[box:aps-box-meaning-is-evaluative-significance]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-endogenous-normativity.png"
+      alt="APS endogenous normativity architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Evaluation Before Cognition.</strong>
+    Cognition emerges only within already existing systems capable of viability-oriented evaluation, semiosis, and continuity-preserving persistence.
+  </p>
+</div>
 
 # Cognition and Temporal Extension
 
-Cognition emerges only when evaluative organisation becomes sufficiently integrated and temporally extended that present activity is regulated relative to conditions beyond the immediate present.
-
-This includes:
+Cognition emerges when evaluative organisation becomes sufficiently integrated across time that present activity becomes coordinated relative to:
+- absent conditions;
 - delayed consequences;
-- remembered conditions;
 - anticipated possibilities;
 - unrealised alternatives;
-- counterfactual relations;
-- and temporally distributed behavioural coordination.
+- hypothetical relations;
+- and counterfactual trajectories.
 
-Cognition therefore depends upon what APS calls *counterfactual depth*: the extent to which evaluative organisation integrates non-immediate conditions into ongoing regulation.
+APS describes this organisational capacity as increasing counterfactual depth.
+
+Cognition therefore depends fundamentally upon:
+- temporal organisation;
+- continuity-sensitive regulation;
+- persistence across transformation;
+- behavioural integration across time;
+- and future-oriented modulation of activity.
 
 This does not fundamentally require:
 - symbolic reasoning;
-- explicit world models;
-- linguistic representation;
-- or conscious awareness.
+- explicit world simulation;
+- detached internal models;
+- or linguistic representation.
 
-Cognition instead emerges through increasing temporal integration within viability-oriented semiosis and evaluation.
+Cognition instead emerges through increasing temporal integration within viability-oriented evaluation and semiosis.
 
-Cognition therefore expands the temporal horizon of organised persistence.
-
-Living systems become capable of regulating activity relative not merely to immediate conditions, but to:
-- future possibilities;
-- absent states;
+Living systems capable of cognition therefore regulate activity not merely relative to immediate conditions, but relative to:
+- possible futures;
 - delayed outcomes;
-- and temporally extended continuity conditions.
+- remembered conditions;
+- hypothetical alternatives;
+- and temporally distributed continuity relations.
+
+![Temporal Organisation and Organised Persistence](/assets/diagrams/temporal-organisation-visual.png)
+
+*Cognition emerges through temporally extended continuity-sensitive regulation integrating viability-oriented evaluation across changing conditions and temporal horizons.*
 
 # Cognition Without Representational Primacy
 
-Many theories define cognition primarily in representational or computational terms.
+Many theories define cognition primarily through representation or information processing.
 
 APS does not require this assumption.
 
@@ -300,21 +373,40 @@ Living systems may:
 - evaluate conditions;
 - coordinate behaviour;
 - reorganise activity;
-- and regulate viability
+- regulate viability;
+- adapt flexibly;
+- and sustain continuity-sensitive organisation
 
 without constructing detached symbolic descriptions of the world.
 
-Representation may emerge within more organisationally complex systems, but representation remains biologically downstream rather than foundational.
+Representation may emerge within some more organisationally complex forms of cognition.
+
+However, representation remains:
+- biologically downstream;
+- organisationally derivative;
+- and continuity-dependent.
 
 APS therefore distinguishes:
 - cognition from representation;
-- and representation from life itself.
+- representation from meaning;
+- and meaning from information alone.
 
-This distinction is central to the framework.
+This distinction is one of the central APS clarifications regarding cognition.
 
-[[box:what-aps-means-by-meaning]]
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-semiosis.png"
+      alt="Semiosis and evaluative meaning in APS"
+      loading="lazy"
+    />
+  </a>
 
-APS consequently approaches cognition as an organisational phenomenon grounded in viability-oriented semiosis rather than abstract computational processing alone.
+  <p class="aps-diagram-caption">
+    <strong>Semiosis, Meaning, and Cognition.</strong>
+    Cognition develops through increasingly temporally integrated forms of evaluative semiosis already grounded in viability-oriented organised persistence.
+  </p>
+</div>
 
 # Degrees of Cognition
 
@@ -322,12 +414,13 @@ Cognition is neither:
 - ubiquitous across all life;
 - nor restricted exclusively to organisms with nervous systems.
 
-Instead, cognition admits of degrees depending upon:
-- the temporal depth of evaluation;
-- the flexibility of regulation;
-- the integration of semiosis;
-- the coordination of behaviour;
-- and the scale across which activity becomes organised.
+Instead cognition admits of degrees depending upon:
+- temporal depth of evaluation;
+- behavioural flexibility;
+- semiosis integration;
+- continuity-sensitive regulation;
+- adaptive coordination;
+- and counterfactual extension across time.
 
 Different organisms may therefore exhibit different forms and degrees of cognition while realising those capacities through very different material organisations.
 
@@ -335,17 +428,24 @@ This allows cognition to be compared organisationally rather than anatomically.
 
 What matters is not structural similarity alone, but the organisation of temporally extended evaluative activity relative to viability.
 
+APS therefore preserves:
+- continuity across life;
+while avoiding:
+- collapsing all life into cognition itself.
+
 # Cognition and Biological Agency
 
 Cognition remains continuous with biological agency.
 
-Agency refers broadly to the viability-oriented activity through which systems sustain organised persistence.
+Agency concerns the viability-oriented activity through which living systems sustain organised persistence.
 
-Evaluation modulates that activity relative to viability conditions.
+Evaluation modulates that activity relative to continuity conditions.
 
-Cognition emerges when such evaluative organisation becomes increasingly integrated across time and behavioural coordination.
+Semiosis organises meaningful differences within evaluative activity.
 
-Cognition is therefore not separate from agency, but a more temporally extended and integrated development of it.
+Cognition emerges where such organisation becomes increasingly temporally integrated and behaviourally flexible.
+
+Cognition is therefore not separate from agency, but a specialised organisational development within it.
 
 This preserves continuity between:
 - life;
@@ -355,11 +455,11 @@ This preserves continuity between:
 - meaning;
 - and cognition
 
-without collapsing them into a single undifferentiated category.
+without collapsing them into one undifferentiated category.
 
-# Cognition and Organisational Coupling
+# Cognition and Organism–Environment Coupling
 
-Cognition depends upon organisational coupling across system and environment.
+Cognition depends upon organism–environment coupling.
 
 Living systems regulate activity through ongoing reciprocal interaction with changing environmental conditions.
 
@@ -372,7 +472,7 @@ It emerges through dynamically coupled organism–environment relations distribu
 - semiosis;
 - and multiscale regulation.
 
-APS consequently rejects strongly internalist models of cognition that reduce cognition to detached representational computation occurring solely within the organism.
+APS consequently rejects strongly internalist models reducing cognition to detached representational computation occurring solely within organisms themselves.
 
 # Cognition and Adaptation
 
@@ -382,28 +482,33 @@ Temporally extended evaluative organisation may support:
 - anticipatory regulation;
 - behavioural coordination;
 - memory;
-- environmental modulation;
 - learning;
-- and flexible reorganisation under changing conditions.
+- environmental modulation;
+- and flexible continuity-preserving reorganisation.
 
 However, adaptation itself does not fundamentally require cognition.
 
 Many living systems exhibit adaptive organisation through evaluation and semiosis without exhibiting cognition in the stronger APS sense.
 
-Cognition therefore represents a specialised extension of adaptive viability-oriented organisation rather than its universal basis.
+Cognition therefore represents:
+> a specialised extension of adaptive viability-oriented organisation rather than its universal basis.
 
 # Cognition Is Not Intelligence
 
 APS distinguishes cognition from intelligence.
 
-Cognition concerns the integrated and temporally extended organisation of evaluative semiosis relative to viability.
+Cognition concerns:
+- temporally extended evaluation;
+- continuity-sensitive semiosis;
+- adaptive behavioural coordination;
+- and viability-oriented regulation across time.
 
-Intelligence refers to narrower and more specialised forms of:
+Intelligence refers more narrowly to specialised forms of:
 - problem-solving;
 - abstraction;
 - symbolic manipulation;
-- behavioural flexibility;
-- or strategic reasoning.
+- strategic reasoning;
+- or advanced behavioural flexibility.
 
 Many living systems exhibit cognition without exhibiting what humans ordinarily classify as intelligence.
 
@@ -414,67 +519,123 @@ APS consequently rejects conflating:
 - representation;
 - and computation.
 
-# Cognition and Temporal Continuity
+# Cognition and Predictive Processing
 
-Cognition contributes directly to continuity across time.
+Predictive-processing and Active-Inference theories often interpret cognition through:
+- prediction;
+- inference;
+- representational modelling;
+- and error minimisation.
 
-Living systems capable of temporally extended evaluation can:
-- preserve behavioural continuity;
-- reorganise activity relative to delayed consequences;
-- stabilise adaptive trajectories;
-- integrate historical conditions;
-- and coordinate future-oriented regulation.
+APS accepts that such processes may participate within some advanced forms of cognition.
 
-Cognition therefore contributes directly to persistence through transformation.
+However:
+- prediction is not foundational to life;
+- representation is not foundational to cognition;
+- and information processing is not foundational to biological organisation itself.
 
-Evaluative organisation becomes increasingly capable of sustaining continuity across changing temporal conditions.
+Predictive cognition already presupposes:
+- viability-oriented persistence;
+- evaluation;
+- semiosis;
+- meaning;
+- continuity-sensitive regulation;
+- and biological agency.
 
-APS consequently treats cognition as:
-> a specialised form of temporally extended continuity regulation within viability-oriented organisation.
+APS therefore situates predictive organisation within a broader continuity-oriented explanatory architecture rather than treating predictive inference as the universal explanatory basis of life.
+
+# Cognition Across Scale and Time
+
+Cognition unfolds across interacting scales and temporal horizons.
+
+Cognitive organisation may involve:
+- molecular regulation;
+- physiological coordination;
+- behavioural flexibility;
+- memory systems;
+- symbolic communication;
+- ecological interaction;
+- and socially distributed organisation.
+
+These are not isolated levels of cognition.
+
+They are interacting dimensions of continuity-sensitive viability-oriented organisation distributed across:
+- agency;
+- process;
+- scale;
+- temporality;
+- and organism–environment coupling.
+
+APS therefore situates cognition within the broader explanatory grammar governing biological intelligibility itself.
 
 # Cognition Within the APS Explanatory Grammar
 
-APS situates cognition within the broader explanatory grammar organised through:
+APS situates cognition within the explanatory grammar organised through:
 - agency;
 - process;
-- and scale.
+- scale;
+- temporality;
+- viability;
+- evaluation;
+- semiosis;
+- meaning;
+- information;
+- representation;
+- and organised persistence.
 
 Cognition therefore cannot be understood adequately as:
 - isolated computation;
-- detached representation;
-- symbolic processing;
-- or behavioural complexity alone.
+- detached symbolic processing;
+- information processing alone;
+- behavioural complexity alone;
+- or representation considered independently of biological organisation.
 
-Instead, cognition emerges through:
+Instead cognition emerges through:
 - viability-oriented evaluation;
-- semiosis;
-- meaning;
-- representation;
-- temporal extension;
+- temporally integrated semiosis;
+- continuity-sensitive regulation;
+- adaptive organisation;
 - organism–environment coupling;
-- and continuity-sensitive regulation.
+- and persistence-preserving activity.
 
-Cognition therefore belongs intrinsically within biological explanation itself.
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-clarification-map.png"
+      alt="APS clarification map"
+      loading="lazy"
+    />
+  </a>
 
-# Implications for Biology
+  <p class="aps-diagram-caption">
+    <strong>APS Clarification Map.</strong>
+    APS situates cognition within viability-oriented organised persistence rather than treating cognition as reducible to computation, representation, or information processing alone.
+  </p>
+</div>
+
+# Why Cognition Matters
 
 Repositioning cognition organisationally has several important consequences.
 
 It:
 - situates cognition within biology rather than outside it;
-- weakens strict separation between life and mind;
-- clarifies the relation between semiosis and cognition;
+- grounds cognition in viability-oriented organisation;
 - distinguishes cognition from intelligence and representation;
-- strengthens multiscale biological explanation;
-- and integrates cognition directly into temporally organised persistence.
+- clarifies the relation between semiosis and cognition;
+- preserves continuity across life without collapsing all life into cognition;
+- strengthens continuity-oriented biological explanation;
+- and integrates cognition directly into organised persistence across time.
 
 APS therefore explains cognition through the same organisational principles governing biological explanation more generally:
 - viability;
 - evaluation;
 - semiosis;
-- temporally extended regulation;
-- organisational coupling;
-- and persistence-oriented activity.
+- meaning;
+- temporality;
+- agency;
+- process;
+- scale;
+- and organised persistence.
 
 Cognition is therefore not an exception to biological organisation, but one possible development within it.
 
@@ -484,35 +645,14 @@ Cognition belongs neither outside biology nor at its absolute upper limit.
 
 It belongs:
 
-> within the organisation of life itself, as a specialised form of temporally extended evaluative semiosis through which viability-oriented systems regulate activity relative to conditions beyond the immediate present.
+> within viability-oriented organised persistence itself, as a specialised form of temporally extended evaluative semiosis through which living systems regulate activity relative to absent, delayed, anticipated, hypothetical, or counterfactual conditions.
 
-Understanding cognition in this way allows it to be integrated into biology without:
-- reducing life to cognition;
-- reducing cognition to computation;
-- or treating cognition as detached from viability-oriented organisation itself.
+Understanding cognition in this way allows APS to:
+- integrate cognition into biology;
+- avoid reducing life to cognition;
+- avoid reducing cognition to computation;
+- and preserve continuity between simple and complex forms of living organisation.
 
-Spatiotemporal organisation remains central because cognition depends upon how evaluative activity becomes coordinated across interacting spatial and temporal scales.
+## Key Point
 
-The organisation of processes across time determines:
-- what conditions can be integrated into regulation;
-- how continuity is preserved;
-- how counterfactual depth emerges;
-- and how behavioural flexibility becomes possible within living systems.
-
----
-
-## Related Pathways
-
-- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
-- *[Why Life Is Not Intelligence — An APS Clarification](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
-- *[Why Life Is Not Information Processing](/articles/why-life-is-not-information-processing/)*
-- *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
-- *[Consciousness — An APS Clarification](/articles/consciousness-an-aps-clarification/)*
-
----
-
-## Key Terms
-
-cognition · semiosis · evaluation · temporality · continuity · representation · meaning · information · viability · agency · counterfactual depth
-
+Cognition emerges where viability-oriented evaluative semiosis becomes sufficiently temporally integrated and behaviourally flexible to coordinate activity relative to absent, delayed, anticipated, or counterfactual conditions.

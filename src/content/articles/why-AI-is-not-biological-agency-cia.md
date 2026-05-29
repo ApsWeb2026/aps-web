@@ -1,54 +1,63 @@
 ---
 date: 2026-05-14
-title: Why AI Is Not Biological Agency
+title: "Why AI Is Not Biological Agency"
 slug: why-ai-is-not-biological-agency
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-15
-revised: 2026-05-15
-cluster: cognition-and-mind
+canonicalLockDate: 2026-05-29
+revised: 2026-05-29
+cluster: philosophy-of-biology
 
 abstract: >
   Contemporary artificial intelligence systems increasingly display adaptive,
   responsive, and apparently agent-like behaviour. These developments have
   encouraged claims that biological and artificial systems differ only in
   degree rather than kind. APS rejects this conclusion. Behavioural
-  sophistication, optimisation, and adaptive responsiveness alone are
-  insufficient for biological agency. Biological agency depends upon
-  viability-oriented, self-maintaining organisation sustained across time,
-  whereas contemporary AI systems remain externally maintained optimisation
-  systems lacking endogenous persistence and constraint-maintaining
-  organisation.
+  sophistication, optimisation, intelligence-like behaviour, and adaptive
+  responsiveness alone are insufficient for biological agency. Biological
+  agency depends upon viability-oriented, continuity-preserving,
+  self-maintaining organisation sustained across time, whereas contemporary AI
+  systems remain externally maintained optimisation systems lacking endogenous
+  persistence, operational normativity, and viability-oriented organised
+  self-maintenance.
 
 relatedGlossaryTerms:
   - biological-agency
   - biological-organisation
   - viability
+  - persistence
+  - continuity
   - constraint-closure
-  - process
-  - cognition
+  - normativity
   - evaluation
   - semiosis
-  - normativity
-  - function
-  - persistence
+  - meaning
   - information
   - representation
+  - cognition
+  - intelligence
+  - temporality
+  - process
+  - scale
 
 relatedArticles:
-  - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
   - cognition-where-does-it-belong-in-biology
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - information-in-biology-an-aps-clarification
+  - meaning-in-biology-an-aps-clarification
   - semiosis-how-differences-come-to-matter-in-living-systems
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - why-life-is-not-information-processing
   - why-life-is-not-active-inference
-  - why-life-is-not-autopoiesis
-  - aps-and-systems-theory
+  - why-life-is-not-computation-an-aps-clarification
+  - can-ai-be-alive-an-aps-clarification
+  - biological-agency-without-intentions
+  - organisational-realism-in-biology
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-account
 
 references:
-  - id: friston-2013
+  - id: friston2013
     authors: "Friston, K."
     year: 2013
     title: "Life as We Know It"
@@ -57,7 +66,7 @@ references:
     pages: "20130475"
     doi: "10.1098/rsif.2013.0475"
 
-  - id: fields-levin-2022
+  - id: fieldslevin2022
     authors: "Fields, C., & Levin, M."
     year: 2022
     title: "Competency in Navigating Arbitrary Spaces as an Invariant for Intelligence"
@@ -66,7 +75,7 @@ references:
     pages: "301"
     doi: "10.3390/e24030301"
 
-  - id: levin-2022
+  - id: levin2022
     authors: "Levin, M."
     year: 2022
     title: "Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds"
@@ -75,13 +84,7 @@ references:
     pages: "768201"
     doi: "10.3389/fnsys.2022.768201"
 
-  - id: beer-2014
-    authors: "Beer, R. D."
-    year: 2014
-    title: "Dynamical Systems and Embedded Cognition"
-    publisher: "Elsevier"
-
-  - id: froese-stewart-2010
+  - id: froese2010
     authors: "Froese, T., & Stewart, J."
     year: 2010
     title: "Life after Ashby: Ultrastability and the Autonomy of Living Systems"
@@ -90,272 +93,604 @@ references:
     pages: "330–339"
     doi: "10.1016/j.biosystems.2008.07.005"
 
-  - id: mossio-2023
+  - id: mossio2023
     authors: "Mossio, M."
     year: 2023
     title: "Organization in Biology"
     publisher: "Springer"
 
-  - id: montevil-mossio-2015
+  - id: montevil2015
     authors: "Montévil, M., & Mossio, M."
     year: 2015
     title: "Biological Organisation as Closure of Constraints"
     publisher: "Springer"
 
-  - id: nicholson-dupre-2018
+  - id: nicholson2018
     authors: "Nicholson, D. J., & Dupré, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
-  - id: walsh-2015
+  - id: walsh2015
     authors: "Walsh, D. M."
     year: 2015
-    title: "Organisms, Agency, and evolution"
+    title: "Organisms, Agency, and Evolution"
     publisher: "Cambridge University Press"
 
-  - id: spencer-2026
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    publisher: "Harvard University Press"
+
+  - id: spencer2026
     authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework for Biological Organisation"
+    title: "Agency as the Defining Activity of Life"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Why AI Is Not Biological Agency
 
-Contemporary artificial intelligence systems increasingly display adaptive, responsive, and apparently agent-like behaviour. Machine-learning systems optimise across changing environments, robotics systems coordinate sensorimotor activity in real time, and large language models generate context-sensitive responses that can appear flexible, strategic, and even creative.
+> **Where this article fits:** This article clarifies why APS distinguishes artificial intelligence from biological agency. Contemporary AI systems may display sophisticated optimisation, learning, prediction, representation, and intelligence-like behaviour, but APS argues that such capacities are insufficient for biological agency. Biological agency depends upon viability-oriented organised persistence, endogenous normativity, continuity-preserving regulation, and self-maintaining organisation sustained across time. APS therefore distinguishes externally scaffolded optimisation systems from endogenously self-maintaining biological systems.
 
-These developments have encouraged a growing tendency to treat biological and artificial systems as differing only in degree rather than kind. Terms such as “agency”, “adaptation”, “intelligence”, “learning”, and “autonomy” are now frequently applied to artificial systems with little distinction between biological organisation and computational optimisation.
+Contemporary artificial intelligence systems increasingly display:
+- adaptive behaviour;
+- flexible coordination;
+- context-sensitive responsiveness;
+- predictive optimisation;
+- representation-like processing;
+- and sophisticated problem-solving capacities.
 
-APS rejects this equivalence.
+Machine-learning systems optimise across changing environments.
 
-This does not mean that artificial systems are uninteresting, unintelligent, or incapable of sophisticated behaviour. Nor does APS deny that biological systems may inspire artificial architectures. Instead APS argues that behavioural sophistication, optimisation, or adaptive responsiveness alone are insufficient for biological agency.
+Robotic systems coordinate sensorimotor activity dynamically.
 
-The central issue is not whether a system behaves intelligently, but whether it exists as a viability-oriented, self-maintaining organisation capable of sustaining the conditions of its own persistence across time.
+Large language models generate coherent and apparently strategic responses.
 
-Current AI systems overwhelmingly do not.
+These developments have encouraged a growing tendency to treat biological and artificial systems as differing only in degree rather than kind.
 
-Biological agency depends upon viability-oriented organisation from which normativity, evaluation, semiosis, and cognition emerge. Contemporary AI systems may simulate aspects of these capacities behaviourally while lacking the endogenous organisational persistence from which they arise biologically.
+APS rejects this conclusion.
 
-## The Confusion Between Intelligence and Agency
+This does not mean artificial systems are unimportant, unintelligent, or incapable of remarkable behavioural sophistication.
 
-Many contemporary discussions of AI assume that sufficiently complex behaviour is equivalent to agency.
+Nor does APS deny that future synthetic systems might eventually exhibit forms of endogenous organisation substantially different from those currently observed.
+
+Instead APS argues that:
+- optimisation;
+- behavioural flexibility;
+- information processing;
+- representation;
+- prediction;
+- and intelligence-like performance
+
+are insufficient for biological agency.
+
+The central issue is not whether a system behaves intelligently.
+
+The central issue is whether a system exists as a viability-oriented organised persistence whose activity contributes directly to sustaining the conditions of its own continued existence across time.
+
+Contemporary AI systems overwhelmingly do not.
+
+[[box:aps-box-viability-grounds-evaluation]]
+
+[[box:aps-box-semiosis-is-operational]]
+
+# Biological Agency Within the APS Architecture
+
+APS distinguishes:
+- life;
+- agency;
+- evaluation;
+- semiosis;
+- meaning;
+- information;
+- representation;
+- cognition;
+- and intelligence
+
+rather than collapsing them into a single explanatory category.
+
+Within APS, biological agency occupies a foundational organisational position:
+
+viability  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition  
+↓  
+intelligence
+
+Within this sequence:
+- viability establishes continuity conditions;
+- evaluation modulates activity relative to persistence;
+- semiosis organises meaningful difference;
+- meaning stabilises evaluative significance;
+- information participates in organised coordination;
+- representation may emerge in some systems;
+- cognition integrates evaluative organisation across time;
+- intelligence emerges as one specialised form of cognitive organisation.
+
+Biological agency therefore precedes intelligence organisationally.
+
+Agency concerns the viability-oriented activity through which living systems sustain organised persistence.
+
+Intelligence may elaborate such organisation.
+
+But intelligence alone does not generate biological agency.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-visual.png"
+      alt="Agency, cognition, and intelligence within organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Agency Before Intelligence.</strong>
+    Biological agency grounds evaluation, semiosis, cognition, and intelligence within viability-oriented organised persistence rather than emerging from intelligence alone.
+  </p>
+</div>
+
+# Why Intelligence and Agency Became Confused
+
+Many contemporary discussions of AI implicitly assume that sufficiently sophisticated behaviour constitutes agency.
 
 Systems that:
-- optimise
-- learn
-- adapt
-- coordinate
-- predict
-- or respond dynamically
+- optimise;
+- learn;
+- adapt;
+- coordinate behaviour;
+- predict outcomes;
+- and respond dynamically
 
 are increasingly described as autonomous agents.
 
 APS argues that this inference is incomplete.
 
-A system may exhibit highly sophisticated behaviour while remaining entirely dependent upon externally maintained organisational conditions. In such cases the appearance of agency derives not from endogenous organisational persistence, but from optimisation processes imposed and sustained externally.
+A system may exhibit highly sophisticated behaviour while remaining entirely dependent upon externally maintained organisational conditions.
+
+In such cases:
+- optimisation is externally scaffolded;
+- evaluation criteria are externally imposed;
+- persistence depends upon external infrastructure;
+- and organisational continuity is not maintained endogenously by the system itself.
+
+The appearance of agency therefore does not establish biological agency.
 
 This distinction is fundamental.
 
 Biological agency is not reducible to:
-- evaluation-free optimisation
-- information processing
-- behavioural complexity
-- environmental responsiveness
-- optimisation
-- or computational sophistication
+- information processing;
+- optimisation;
+- behavioural complexity;
+- adaptive responsiveness;
+- representational sophistication;
+- predictive coordination;
+- or intelligence considered independently of viability-oriented organisation.
 
-Instead biological agency emerges from viability-oriented organisation: organisation whose activity contributes to maintaining the conditions necessary for its own continued existence.
+Instead biological agency emerges from:
+- endogenous persistence;
+- continuity-preserving organisation;
+- operational normativity;
+- self-maintaining regulation;
+- and viability-oriented activity.
 
 APS therefore distinguishes sharply between:
-- externally maintained optimisation systems
-and
-- endogenously self-maintaining biological systems
+- externally maintained optimisation systems;
+and:
+- endogenously self-maintaining biological systems.
 
-## Externally Maintained Optimisation
+# Externally Maintained Optimisation
 
-Contemporary AI systems are typically constructed, trained, maintained, repaired, powered, and evaluated by external infrastructures.
+Contemporary AI systems are typically:
+- constructed externally;
+- trained externally;
+- repaired externally;
+- powered externally;
+- evaluated externally;
+- and maintained externally.
 
-Their goals are externally assigned.  
-Their training conditions are externally engineered.  
-Their persistence depends upon external maintenance.  
-Their hardware is externally manufactured and replaced.  
-Their energy supply is externally regulated.  
-Their optimisation criteria are externally imposed.
+Their optimisation criteria are externally assigned.
 
-Even highly adaptive systems therefore remain organisationally dependent upon structures lying outside the systems themselves.
+Their hardware is externally manufactured and replaced.
+
+Their energy supply is externally regulated.
+
+Their persistence depends upon infrastructures lying outside the systems themselves.
 
 This is not a trivial difference.
 
-An AI system may optimise effectively within a designated problem space while possessing no intrinsic relation to its own persistence as an organised system. Its optimisation processes do not primarily function to sustain the system’s own viability-oriented persistence as an organised system.
+An AI system may optimise effectively within a designated problem space while possessing no intrinsic relation to its own continued organisational persistence.
 
-Instead they function to satisfy externally specified objectives.
+Its optimisation processes do not primarily function to sustain the system’s own viability as an organised system.
 
-APS therefore treats current AI systems as externally maintained optimisation systems rather than biologically organised agents.
+Instead they function relative to externally imposed goals.
 
-This distinction remains true even where AI systems:
-- learn adaptively
-- modify behaviour dynamically
-- coordinate across distributed architectures
-- or simulate goal-directed behaviour
+APS therefore treats current AI systems as:
+> externally maintained optimisation systems rather than biologically organised agents.
 
-Behavioural flexibility alone does not constitute biological agency.
+This remains true even where systems:
+- learn adaptively;
+- coordinate dynamically;
+- modify behaviour flexibly;
+- distribute computation;
+- or simulate goal-directed activity.
 
-Nor does APS identify biological agency with computation, information processing, predictive optimisation, or adaptive performance considered independently of viability-oriented organisation.
+Behavioural sophistication alone does not constitute biological agency.
 
-## Endogenous Viability-Oriented Persistence
+# Endogenous Viability-Oriented Persistence
 
-Biological systems differ fundamentally because their activity contributes directly to maintaining the conditions required for their own continued existence.
+Biological systems differ fundamentally because their activity contributes directly to maintaining the conditions necessary for their own continued existence.
 
 Organisms:
-- regulate internal conditions
-- repair damage
-- acquire energy
-- maintain boundaries
-- reorganise under perturbation
-- reproduce organisational continuity
-- and sustain the constraints necessary for persistence
+- regulate internal conditions;
+- maintain boundaries;
+- repair damage;
+- acquire energy;
+- reorganise under perturbation;
+- sustain metabolic continuity;
+- reproduce organisational persistence;
+- and maintain the constraints enabling continued activity.
 
-These processes are not externally appended optimisation routines. They constitute the organisation of the system itself.
+These are not externally appended optimisation routines.
+
+They constitute the organisation of the system itself.
 
 APS therefore understands biological agency as inseparable from:
-- endogenous persistence
-- constraint maintenance
-- organisational closure
-- and viability-oriented activity
+- endogenous persistence;
+- continuity-preserving self-maintenance;
+- viability-oriented organisation;
+- and operational constraint maintenance.
 
-The distinction is especially important because biological normativity emerges from these viability conditions.
+This distinction is central because:
+- normativity;
+- evaluation;
+- semiosis;
+- meaning;
+- and cognition
 
-Evaluation and semiosis likewise emerge from these conditions because environmental differences matter biologically only insofar as they participate in viability-oriented regulation.
+all emerge from these persistence conditions.
 
-Biological processes succeed or fail relative to the persistence of the organised system.
+Environmental differences matter biologically because they participate in viability-oriented regulation.
 
-An organism that fails to regulate temperature, repair membranes, coordinate metabolism, or maintain structural integrity ceases to persist as the kind of system it is.
+Biological processes succeed or fail relative to the persistence of the organised system itself.
 
-By contrast, most AI systems possess no comparable endogenous relation to their own continued organisational existence. Their operational goals remain separable from the persistence of the system itself.
+An organism failing to:
+- regulate temperature;
+- maintain membranes;
+- coordinate metabolism;
+- preserve integrity;
+- or reorganise after perturbation
 
-## Why Behavioural Similarity Is Not Organisational Equivalence
+ceases to persist as the kind of system it is.
 
-Artificial systems increasingly exhibit behaviours that resemble features historically associated with biological systems:
-- adaptation
-- learning
-- responsiveness
-- prediction
-- distributed coordination
-- and environmental sensitivity
+By contrast, most contemporary AI systems possess no comparable endogenous relation to their own continued organisational existence.
+
+[[box:aps-box-meaning-is-evaluative-significance]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-endogenous-normativity.png"
+      alt="APS endogenous normativity architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Endogenous Normativity and Biological Agency.</strong>
+    Biological agency emerges through viability-oriented self-maintaining organisation whose activity contributes directly to sustaining its own continued persistence.
+  </p>
+</div>
+
+# Why Behavioural Similarity Is Not Organisational Equivalence
+
+Artificial systems increasingly exhibit behaviours resembling features historically associated with living systems:
+- adaptation;
+- learning;
+- environmental sensitivity;
+- distributed coordination;
+- prediction;
+- and behavioural flexibility.
 
 APS does not deny these similarities.
 
-However, behavioural similarity does not establish organisational equivalence.
+However:
+- behavioural similarity is not organisational equivalence;
+- simulation of persistence is not organised persistence;
+- representation of agency is not biological agency;
+- and optimisation is not viability-oriented self-maintenance.
 
-A simulation of persistence is not identical to persistence itself.  
-A representation of agency is not identical to biological agency.  
-An optimisation routine is not identical to viability-oriented organisation.
+This distinction is especially important in discussions of:
+- embodied AI;
+- active inference systems;
+- swarm intelligence;
+- adaptive robotics;
+- and biomimetic computation.
 
-This distinction becomes especially important in contemporary discussions of:
-- embodied AI
-- active inference systems
-- adaptive robotics
-- swarm intelligence
-- and biomimetic computation
+Many such systems exhibit architectures inspired by biology.
 
-Many such systems exhibit organisational features inspired by biology. Yet behavioural or architectural similarity does not establish organisational equivalence.
+Yet behavioural resemblance does not establish organisational equivalence.
 
-APS therefore asks a more fundamental question:
+APS therefore asks a deeper question:
 
-> Does the system actively maintain the conditions necessary for its own continued viability as an organised system?
+> Does the system actively maintain the conditions necessary for its own continued viability as an organised persistence?
 
 This question cannot be answered solely through behavioural observation.
 
-## Why Plants Matter Here
+# Why Plants Matter Here
 
-Plant biology is especially important for clarifying this issue.
+Plant biology clarifies this distinction particularly well.
 
 Plants demonstrate that biological agency does not require:
-- brains
-- neurons
-- centralized cognition
-- rapid movement
-- or animal-like behaviour
+- brains;
+- neurons;
+- centralized cognition;
+- rapid movement;
+- or animal-like intelligence.
 
 Plants exhibit:
-- distributed coordination
-- electrophysiological signalling
-- adaptive responsiveness
-- environmental sensitivity
-- scale-integrated regulation
-- and persistent self-maintaining organisation
+- distributed coordination;
+- electrophysiological signalling;
+- adaptive responsiveness;
+- environmental sensitivity;
+- developmental regulation;
+- and continuity-preserving self-maintaining organisation.
 
 APS therefore fully recognises plants as biologically agentive systems.
 
 Plant agency is especially important because it demonstrates that biological agency neither depends upon intelligence nor reduces to neural cognition.
 
-Importantly, however, plant agency derives not from signalling alone, but from the role of signalling within the larger viability-oriented organisation of the organism.
+Importantly, plant agency derives not from signalling alone, but from the role of signalling within the larger viability-oriented organisation of the organism.
 
-Electrical signalling in plants matters biologically because it contributes to:
-- regulation
-- coordination
-- stress response
-- developmental organisation
-- and persistence
+Electrical signalling matters biologically because it contributes directly to:
+- regulation;
+- coordination;
+- stress response;
+- developmental organisation;
+- and persistence.
 
-This differs fundamentally from artificial systems that merely simulate adaptive responsiveness without participating in endogenous self-maintaining organisation.
+This differs fundamentally from artificial systems merely simulating adaptive responsiveness while lacking endogenous self-maintaining organisation.
 
 The comparison therefore clarifies rather than dissolves the distinction between biological and artificial systems.
 
-## APS and Artificial Intelligence
+# AI May Simulate Agency Without Possessing Biological Agency
 
-APS does not claim that artificial systems can never become biologically organised. Nor does it deny that future synthetic systems might eventually possess forms of endogenous self-maintenance and viability-oriented organisation substantially different from those currently observed.
+APS does not deny that artificial systems may:
+- simulate agency;
+- generate strategic behaviour;
+- optimise flexibly;
+- represent environments;
+- coordinate adaptively;
+- or exhibit intelligence-like capacities.
 
-The framework therefore does not define biological agency in terms of:
-- carbon chemistry
-- human cognition
-- neural tissue
-- or natural evolutionary origin alone
+These developments are scientifically important.
 
-Instead APS defines biological agency organisationally.
+However, simulation of agency does not itself constitute biological agency.
 
-The critical issue is whether a system exists as a self-maintaining organisation whose activity contributes directly to sustaining the conditions of its own persistence.
+A representation of persistence is not organised persistence itself.
 
-Current AI systems overwhelmingly fail this criterion.
+A predictive optimisation architecture is not equivalent to viability-oriented self-maintenance.
 
-They remain dependent upon external infrastructures that maintain:
-- energy supply
-- repair
-- reproduction
-- architecture
-- training
-- environmental conditions
-- and goal structure
+Current AI systems overwhelmingly remain dependent upon:
+- externally maintained energy systems;
+- external repair infrastructures;
+- externally assigned goals;
+- externally maintained architectures;
+- and externally scaffolded persistence conditions.
 
-Their optimisation therefore remains externally scaffolded rather than endogenously viability-oriented.
+Their organisation therefore remains:
+- externally sustained;
+rather than:
+- endogenously viability-oriented.
 
-## Why the Distinction Matters
+# Biological Agency Is More Fundamental Than Intelligence
 
-APS insists upon this distinction because biological explanation depends upon understanding living systems as organised persistence systems rather than as merely intelligent systems.
+APS grounds life in biological agency rather than intelligence.
 
-If behavioural sophistication alone is treated as sufficient for agency, then:
-- optimisation becomes conflated with viability
-- prediction becomes conflated with cognition
-- responsiveness becomes conflated with organisation
-- and information processing becomes conflated with life itself
+Agency concerns the viability-oriented activity through which systems sustain organised persistence.
 
-APS rejects these reductions.
+This includes:
+- repair;
+- regulation;
+- compensation;
+- adaptive reorganisation;
+- and continuity-preserving activity.
 
-Biological agency must therefore be understood through the same organisational grammar governing biological explanation more generally: agency, process, scale, viability, evaluation, semiosis, and cognition.
+Intelligence emerges only downstream from:
+- evaluation;
+- semiosis;
+- meaning;
+- cognition;
+- and temporally integrated organisation.
 
-The framework instead argues that biological explanation must remain grounded in:
-- viability-oriented organisation
-- endogenous persistence
-- multiscale constraint maintenance
-- and organised self-production across time
+This distinction is essential because contemporary AI discussions often conflate:
+- intelligence;
+- agency;
+- optimisation;
+- prediction;
+- and biological organisation.
 
-Artificial systems may increasingly resemble organisms behaviourally, computationally, or functionally. APS does not deny these developments.
+APS instead differentiates them organisationally.
 
-But biological agency depends not simply upon what systems do, but upon how they persist as organised systems in the first place.
+Intelligence-like behaviour may occur without biological agency.
 
-Living systems exist through endogenous viability-oriented organisation sustained across time. Contemporary AI systems overwhelmingly do not.
+Biological agency may occur without intelligence.
 
-That distinction remains foundational for APS.
+# Predictive Processing and Artificial Agency
 
+Predictive-processing and Active-Inference approaches often interpret cognition and agency through:
+- prediction;
+- inference;
+- model updating;
+- optimisation;
+- and error minimisation.
+
+APS accepts that such processes may participate within some advanced forms of cognition and intelligence.
+
+However:
+- prediction is not foundational to life;
+- optimisation is not foundational to agency;
+- and information processing is not foundational to biological organisation itself.
+
+Predictive architectures already presuppose:
+- viability-oriented persistence;
+- evaluation;
+- semiosis;
+- meaning;
+- cognition;
+- and continuity-sensitive organisation.
+
+APS therefore situates predictive processing within a broader continuity-oriented explanatory architecture rather than treating optimisation or inference as the universal explanatory basis of agency.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-semiosis.png"
+      alt="Semiosis and biological agency"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Semiosis and Biological Agency.</strong>
+    Biological semiosis emerges through viability-oriented evaluation and continuity-preserving organisation rather than through optimisation or symbolic processing alone.
+  </p>
+</div>
+
+# Future Synthetic Systems
+
+APS does not claim that artificial systems can never become biologically organised.
+
+Nor does APS define biological agency in terms of:
+- carbon chemistry;
+- neural tissue;
+- human cognition;
+- or evolutionary origin alone.
+
+APS defines biological agency organisationally.
+
+If future synthetic systems were to exhibit:
+- endogenous self-maintenance;
+- continuity-preserving organisation;
+- operational normativity;
+- viability-oriented persistence;
+- and self-sustaining organisational continuity,
+
+then APS would evaluate such systems organisationally rather than chauvinistically.
+
+The framework therefore remains open regarding future synthetic possibilities.
+
+Its distinction concerns organisation rather than substrate.
+
+# Biological Agency Within the APS Explanatory Grammar
+
+APS situates biological agency within the broader explanatory grammar organised through:
+- agency;
+- process;
+- scale;
+- temporality;
+- viability;
+- evaluation;
+- semiosis;
+- meaning;
+- information;
+- representation;
+- cognition;
+- intelligence;
+- and organised persistence.
+
+Artificial systems may increasingly resemble organisms:
+- behaviourally;
+- computationally;
+- functionally;
+- or informationally.
+
+APS does not deny these developments.
+
+However, biological agency depends not merely upon what systems do, but upon:
+> how systems persist as organised continuities in the first place.
+
+Living systems exist through endogenous viability-oriented organisation sustained across time.
+
+Contemporary AI systems overwhelmingly do not.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-clarification-map.png"
+      alt="APS clarification map"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>APS Clarification Map.</strong>
+    APS distinguishes biological agency from artificial optimisation by grounding agency in viability-oriented organised persistence rather than behavioural sophistication alone.
+  </p>
+</div>
+
+# Why This Clarification Matters
+
+Clarifying the distinction between AI and biological agency helps resolve several persistent conceptual confusions in contemporary biology, cognitive science, and artificial intelligence research.
+
+It:
+- distinguishes optimisation from viability;
+- distinguishes intelligence from agency;
+- grounds semiosis and normativity within organised persistence;
+- clarifies why behavioural sophistication alone is insufficient for biological organisation;
+- explains why representation and prediction presuppose already existing organised persistence;
+- and preserves the distinction between simulation of life and life itself.
+
+APS therefore naturalises biological agency through:
+- viability-oriented persistence;
+- continuity-preserving organisation;
+- endogenous normativity;
+- evaluation;
+- semiosis;
+- and temporally organised self-maintenance.
+
+# Conclusion
+
+Artificial systems may increasingly:
+- optimise;
+- learn;
+- predict;
+- represent;
+- coordinate behaviour;
+- and simulate agency.
+
+APS fully recognises these developments.
+
+However, behavioural sophistication alone does not constitute biological agency.
+
+Biological agency depends upon:
+- endogenous viability-oriented persistence;
+- continuity-preserving organisation;
+- operational normativity;
+- self-maintaining regulation;
+- evaluation;
+- semiosis;
+- and organised persistence sustained across time.
+
+Current AI systems overwhelmingly remain externally scaffolded optimisation systems rather than endogenously self-maintaining biological organisations.
+
+Life is therefore not reducible to intelligence, prediction, representation, or optimisation alone.
+
+Biological agency emerges only through viability-oriented organised persistence.
+
+## Key Point
+
+Artificial systems may simulate intelligence and agency-like behaviour, but biological agency requires endogenous viability-oriented organised persistence sustained through continuity-preserving self-maintaining organisation across time.

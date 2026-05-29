@@ -4,19 +4,20 @@ title: "Meaning in Biology — An APS Clarification"
 slug: meaning-in-biology-an-aps-clarification
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-21
-revised: 2026-05-21
-cluster: cognition-and-mind
+canonicalLockDate: 2026-05-29
+revised: 2026-05-29
+cluster: philosophy-of-biology
 
 abstract: >
-  Meaning is often treated as dependent upon language, representation, or
-  symbolic interpretation. APS rejects this assumption. Biological meaning
-  originates more fundamentally in viability-oriented organisation through
-  which differences come to matter relative to the continuity conditions of
-  persistence. Meaning therefore emerges from evaluation and semiosis before
-  symbolic representation or linguistic cognition arise, and becomes
-  integrated into temporally organised biological continuity across changing
-  conditions and scales.
+  This article develops the APS account of meaning as stabilised evaluative
+  significance within viability-oriented organised persistence. Meaning is not
+  fundamentally symbolic representation, linguistic semantics, or abstract
+  informational encoding. Living systems regulate activity relative to
+  differences affecting persistence, and meaning emerges wherever evaluative
+  organisation stabilises those differences within continuity-preserving
+  biological activity. APS therefore grounds meaning, information,
+  representation, and cognition within organised persistence rather than
+  abstract symbol manipulation or detached computational formalism.
 
 relatedGlossaryTerms:
   - meaning
@@ -31,98 +32,184 @@ relatedGlossaryTerms:
   - continuity
   - temporality
   - biological-agency
+  - function
+  - biological-organisation
+  - process
+  - scale
 
 relatedArticles:
-  - temporal-organisation-and-organised-persistence
   - semiosis-how-differences-come-to-matter-in-living-systems
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - function-and-normativity-why-biological-organisation-matters
   - information-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems
   - cognition-where-does-it-belong-in-biology
   - why-life-is-not-information-processing
   - why-life-is-not-active-inference
   - why-ai-is-not-biological-agency
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
+  - temporal-organisation-and-organised-persistence
 
 references:
   - id: peirce1931
     authors: "Peirce, C. S."
     year: 1931
     title: "Collected Papers of Charles Sanders Peirce"
-    source: "Harvard University Press"
+    publisher: "Harvard University Press"
 
   - id: uexkull2010
     authors: "von Uexküll, J."
     year: 2010
     title: "A Foray into the Worlds of Animals and Humans"
-    source: "University of Minnesota Press"
+    publisher: "University of Minnesota Press"
 
   - id: deacon2011
     authors: "Deacon, T. W."
     year: 2011
     title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
+    publisher: "W. W. Norton & Company"
 
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."
     year: 1991
     title: "The Embodied Mind"
-    source: "MIT Press"
+    publisher: "MIT Press"
 
   - id: thompson2007
     authors: "Thompson, E."
     year: 2007
     title: "Mind in Life"
-    source: "Harvard University Press"
+    publisher: "Harvard University Press"
 
   - id: barbieri2008
     authors: "Barbieri, M."
     year: 2008
     title: "Biosemiotics: A New Understanding of Life"
-    source: "Springer"
+    publisher: "Springer"
 
   - id: moreno2015
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+    publisher: "Springer"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # Meaning in Biology — An APS Clarification
 
-> **Where this article fits:** This article develops the APS account of meaning as biologically grounded evaluative significance within viability-oriented systems. Meaning is treated not as symbolic interpretation or representation alone, but as temporally organised continuity-sensitive organisation through which differences come to matter relative to persistence. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence*.
+> **Where this article fits:** This article develops the APS account of meaning as stabilised evaluative significance within viability-oriented organised persistence. Meaning is treated not as symbolic interpretation, detached representation, or abstract informational encoding alone, but as the organisation of biologically significant difference within continuity-preserving evaluative activity. It therefore forms one of the principal bridges linking semiosis, information, representation, cognition, and biological agency within APS.
 
 Meaning is often treated as a uniquely human phenomenon associated with:
 - language;
 - symbols;
 - concepts;
-- or representation.
+- representation;
+- or semantic interpretation.
 
-Within many informational and computational frameworks, meaning is understood primarily through:
+Within many computational and informational frameworks, meaning is explained primarily through:
 - symbolic reference;
 - semantic content;
+- informational encoding;
 - internal representation;
-- or interpretation.
+- or interpretive cognition.
 
-APS rejects this assumption.
+APS rejects this explanatory starting point.
 
 Biological meaning begins earlier and more fundamentally.
 
-Living systems exist as viability-oriented organisations whose activity continuously differentiates between:
-- persistence-supporting conditions;
-- persistence-undermining conditions;
-- and organisationally significant environmental differences.
+Living systems continuously regulate activity relative to conditions affecting persistence.
 
-Meaning therefore originates where differences become organised relative to the continuity conditions of viable persistence across time.
-
-This occurs through:
-- evaluation;
+Environmental differences become biologically significant because they participate in:
+- viability-oriented evaluation;
+- continuity-sensitive regulation;
+- adaptive coordination;
 - semiosis;
-- regulation;
-- and persistence-maintaining organisation
+- and persistence-preserving organisation.
 
-before language, symbolic representation, or explicit conceptual thought arise.
+Meaning therefore emerges wherever evaluative organisation stabilises biologically significant differences within continuity-preserving activity.
 
-[[box:norms-are-not-rules]]
+Meaning does not begin with language.
+
+Nor does it originate in symbolic representation alone.
+
+Meaning originates where differences come to matter within viability-oriented organised persistence.
+
+[[box:aps-box-meaning-is-evaluative-significance]]
+
+[[box:aps-box-semiosis-is-operational]]
+
+# From Evaluation to Meaning
+
+Meaning depends upon evaluation.
+
+Living systems continuously modulate activity relative to conditions affecting viability.
+
+Some conditions:
+- support persistence;
+- preserve continuity;
+- stabilise organisation;
+- or enhance adaptive capacity.
+
+Others:
+- threaten persistence;
+- destabilise organisation;
+- undermine continuity;
+- or contribute to breakdown.
+
+Evaluation operationalises these asymmetries through differential modulation of activity.
+
+Semiosis organises differences within that evaluative modulation.
+
+Meaning emerges when those meaningful differences become stabilised within continuity-preserving organisation.
+
+APS therefore situates meaning within the broader continuity-oriented explanatory sequence:
+
+viability  
+↓  
+function  
+↓  
+normativity  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information  
+↓  
+representation  
+↓  
+cognition
+
+Within this sequence:
+- evaluation modulates activity relative to viability;
+- semiosis structures differences as biologically significant;
+- meaning stabilises evaluative significance within organised persistence.
+
+Meaning therefore emerges from viability-oriented biological organisation itself rather than from detached symbolic interpretation.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-endogenous-normativity.png"
+      alt="APS endogenous normativity architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Meaning Within Evaluative Organisation.</strong>
+    Meaning emerges through viability-oriented evaluative organisation in which biologically significant differences become stabilised within continuity-preserving persistence.
+  </p>
+</div>
 
 # Why Meaning Became Associated with Representation
 
@@ -132,281 +219,372 @@ The close association between meaning and representation emerged largely from:
 - computational theories of mind;
 - and artificial intelligence.
 
-Within these frameworks, meaning is often understood as:
-- correspondence between symbols and states of the world;
-- representational content;
-- internal semantic encoding;
-- or interpretation by cognitive agents.
+Within these traditions, meaning is often interpreted as:
+- correspondence between symbols and world states;
+- semantic content;
+- internal representation;
+- or symbolic interpretation.
 
-This approach works reasonably well for:
-- linguistic systems;
-- formal symbols;
+Such approaches work reasonably well for:
+- language;
+- formal symbolic systems;
 - mathematical notation;
 - and explicit conceptual reasoning.
 
-However, APS argues that it does not adequately explain biological meaning more generally.
+APS does not deny these forms of meaning.
+
+However, APS argues that they do not explain biological meaning more fundamentally.
 
 Most living systems:
 - regulate activity;
-- respond adaptively;
+- adapt to changing conditions;
 - coordinate behaviour;
-- and distinguish biologically relevant conditions
+- and differentiate biologically relevant differences
 
-without requiring language or symbolic representation.
+without requiring symbolic representation or linguistic cognition.
 
-Meaning therefore cannot fundamentally depend upon symbolic cognition alone.
+Meaning therefore cannot fundamentally depend upon representation alone.
 
-# Evaluation Before Meaning
+Representation itself emerges within already meaningful biological organisation.
 
-APS grounds meaning in evaluation.
+# Meaning and Organised Persistence
 
-Living systems continuously modulate activity relative to viability conditions.
+Meaning is intrinsically tied to organised persistence across time.
 
-Some differences:
-- support persistence;
-- threaten persistence;
-- or alter organisational coherence.
+Differences matter biologically because they influence continuity-preserving organisation.
 
-These differences matter because systems evaluate them relative to viability.
+A nutrient gradient matters because it affects metabolic persistence.
 
-Evaluation therefore already establishes:
-- biological significance;
-- continuity relevance;
-- and persistence-sensitive differentiation.
+A stress signal matters because it alters viability conditions.
 
-A nutrient gradient matters to a bacterium because it affects persistence.
+A developmental cue matters because it reorganises continuity-sensitive activity.
 
-A stress signal matters to a plant because it alters viability conditions.
+An ecological signal matters because it changes adaptive coordination relative to persistence.
 
-An immune response matters because it differentiates tolerated from damaging states.
+Meaningful differences therefore participate directly in:
+- behavioural organisation;
+- physiological regulation;
+- developmental coordination;
+- ecological interaction;
+- semiosis;
+- adaptive reconstruction;
+- and continuity-preserving activity.
 
-This evaluative organisation already establishes biological significance.
+Meaning consequently belongs intrinsically within the organisation of living systems themselves.
 
-Meaning therefore originates in viability-oriented evaluation rather than in symbolic reference.
+Meaning is not added externally through interpretation.
 
-[[box:norms-are-not-rules]]
-
-# Semiosis and the Emergence of Meaning
-
-APS treats semiosis as the process through which differences become biologically meaningful within evaluative organisation.
-
-A difference becomes meaningful not because it represents something abstractly, but because it participates in:
-- regulation;
-- coordination;
-- adaptation;
-- continuity preservation;
-- and persistence-maintaining activity.
-
-Semiosis therefore precedes representation organisationally.
-
-Biological systems need not:
-- construct symbolic models;
-- encode semantic propositions;
-- or represent environments explicitly
-
-in order for environmental differences to matter to them.
-
-Meaning emerges directly through viability-oriented organisation itself.
-
-This is why APS treats semiosis as more foundational than representation.
-
-[[box:what-aps-means-by-cognition]]
+It emerges through viability-oriented organised persistence.
 
 # Meaning Without Language
 
 APS rejects the assumption that meaning requires language.
 
-Plants, bacteria, immune systems, and many non-neural organisms exhibit:
-- differential responsiveness;
-- context-sensitive regulation;
-- adaptive coordination;
-- and evaluative organisation.
+Plants,
+bacteria,
+immune systems,
+developmental systems,
+and non-neural organisms
 
-These systems clearly distinguish:
-- beneficial from harmful conditions;
-- relevant from irrelevant differences;
-- and persistence-supporting from persistence-undermining states.
+all exhibit:
+- differential responsiveness;
+- continuity-sensitive regulation;
+- adaptive coordination;
+- evaluative organisation;
+- and semiosis.
+
+These systems distinguish:
+- favourable from harmful conditions;
+- continuity-supporting from continuity-undermining differences;
+- and biologically relevant from irrelevant environmental variation.
 
 Such distinctions are already meaningful biologically.
 
-This does not imply that plants or bacteria possess linguistic concepts.
+This does not imply that bacteria or plants possess linguistic concepts.
 
-It means that meaning emerges wherever differences participate in continuity-preserving viability-oriented regulation.
+It means that meaning emerges wherever differences participate in viability-oriented evaluative organisation.
 
 Language therefore extends and transforms meaning.
 
 It does not create meaning from nothing.
 
-# Cognition and Meaning
+[[box:aps-box-viability-grounds-evaluation]]
 
-APS also distinguishes meaning from cognition.
+# Meaning and Semiosis
 
-Meaning can exist without sophisticated cognition.
+APS treats semiosis as the organisation of meaningful difference within evaluative activity.
 
-Even simple organisms exhibit forms of biological meaning because environmental differences matter relative to viability.
+Semiosis explains how differences become biologically significant.
 
-Cognition emerges later where evaluative organisation becomes:
-- temporally extended;
-- context-sensitive;
-- integrated across scales;
-- and capable of coordinating complex behavioural organisation.
+Meaning explains how that significance becomes stabilised within organised persistence.
 
-Meaning therefore precedes cognition organisationally.
+Meaning therefore remains continuous with:
+- evaluation;
+- semiosis;
+- function;
+- adaptation;
+- biological agency;
+- and continuity-preserving organisation.
 
-Cognition deepens, extends, and integrates meaningful relations already present within evaluative biological activity.
+Meaning in APS is therefore:
+- operational;
+- evaluative;
+- embodied;
+- organisational;
+- and continuity-sensitive
 
-Cognition therefore becomes:
-> temporally extended meaning integration within viability-oriented organisation.
+rather than fundamentally symbolic or representational.
 
-# Information and Meaning
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-semiosis.png"
+      alt="Semiosis and evaluative meaning in APS"
+      loading="lazy"
+    />
+  </a>
 
-APS also distinguishes information from meaning.
+  <p class="aps-diagram-caption">
+    <strong>Semiosis and Evaluative Meaning.</strong>
+    Meaning emerges where evaluative organisation stabilises biologically significant differences within viability-oriented organised persistence.
+  </p>
+</div>
 
-A system may contain:
-- signals;
-- codes;
-- or statistical structure
+# Meaning and Information
 
-without those differences possessing biological significance.
+APS therefore reverses the explanatory order common in informational and computational theories.
 
-Shannon information concerns:
-- uncertainty reduction;
-- signal structure;
-- and communication dynamics.
+Meaning does not emerge from information.
 
-Meaning concerns:
-- viability relevance;
-- evaluative significance;
-- continuity-sensitive organisation;
-- and organisational consequence.
+Information becomes biologically meaningful only because meaningful evaluative organisation already exists.
 
-A signal becomes meaningful biologically only when it participates in:
-- persistence-maintaining activity;
-- evaluative organisation;
-- continuity preservation;
-- or viability-oriented regulation.
+APS consequently proposes:
 
-Meaning therefore cannot be reduced to informational content alone.
+viability  
+↓  
+evaluation  
+↓  
+semiosis  
+↓  
+meaning  
+↓  
+information
 
-[[box:description-is-not-explanation]]
+Information therefore depends upon already meaningful difference organised within continuity-preserving activity.
 
-# Representation as a Later Development
+This distinction is philosophically crucial because it prevents biological significance from collapsing into:
+- abstract syntax;
+- statistical structure;
+- symbolic formalism;
+- or detached computational manipulation.
+
+Signals,
+codes,
+and informational structure
+
+may exist without biological meaning.
+
+Meaning arises only when differences participate in viability-oriented organised persistence.
+
+# Meaning and Representation
 
 APS does not deny representation.
 
-Instead, it situates representation within a broader organisational sequence.
+Instead APS situates representation within a broader organisational sequence.
 
 Representation becomes plausible where cognition exhibits:
-- counterfactual depth;
 - temporal projection;
+- counterfactual depth;
 - symbolic manipulation;
-- detached modelling;
-- or explicit behavioural simulation.
+- hypothetical modelling;
+- or detached behavioural simulation.
 
 Under such conditions, systems may develop organisational structures functioning representationally.
 
-However, representation is not the foundation of meaning.
+However:
+- representation is not the origin of meaning;
+- representation depends upon already meaningful organisation;
+- and representation emerges within viability-oriented semiosis already grounded in evaluation and persistence.
 
-Representation itself depends upon:
-- evaluation;
-- semiosis;
-- cognition;
-- continuity-sensitive organisation;
-- and viability-oriented persistence already being present.
+Meaning therefore precedes representation organisationally.
 
-Meaning therefore does not originate in representation.
+This distinction is central to APS critiques of representational primacy within cognitive science and artificial intelligence.
 
-Representation emerges within already meaningful biological activity.
+# Meaning and Cognition
+
+Meaning and cognition are closely related but not identical.
+
+Meaning exists wherever evaluative organisation stabilises biologically significant differences relative to persistence.
+
+Cognition emerges where meaningful organisation becomes sufficiently:
+- temporally extended;
+- context-sensitive;
+- integrated across scales;
+- anticipatory;
+- and behaviourally flexible.
+
+Meaning therefore precedes cognition.
+
+Cognition deepens and extends already meaningful evaluative organisation.
+
+APS consequently interprets cognition as:
+> temporally extended integration of meaningful evaluative organisation within viability-oriented persistence.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-visual.png"
+      alt="Continuity from meaning to cognition within viability-oriented organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Meaning and Cognition Continuity.</strong>
+    Cognition emerges through increasingly temporally extended integration of meaningful evaluative organisation within viability-oriented persistence.
+  </p>
+</div>
 
 # Meaning and Artificial Systems
 
 Artificial systems may:
-- process signals;
-- manipulate symbols;
+- process symbols;
+- manipulate representations;
+- classify inputs;
 - optimise predictions;
-- and generate representational outputs.
+- or simulate meaningful behaviour.
 
 APS fully recognises these capacities.
 
 However, symbolic manipulation alone does not generate biological meaning.
 
-Artificial systems may simulate meaningful behaviour while lacking:
+Artificial systems generally operate within externally maintained organisational conditions.
+
+Their symbols and signals may be computationally processed without participating in:
 - endogenous viability;
-- evaluative persistence;
+- continuity-preserving persistence;
 - biological normativity;
-- or self-maintaining organisation.
+- or evaluative organisation.
 
-Meaning in the biological sense depends upon viability-oriented organisation through which differences genuinely matter to the continued persistence of the system.
+Biological meaning differs because meaningful differences participate directly in:
+- maintaining continuity;
+- regulating viability;
+- modulating adaptive activity;
+- and sustaining organised persistence.
 
-This is why APS distinguishes:
-- symbolic processing
+This distinction is central to APS clarifications regarding:
+- artificial intelligence;
+- information processing;
+- representation;
+- and simulated agency.
 
-from:
+# Meaning Across Scale and Time
 
-- biologically grounded meaning.
+Meaning unfolds across interacting scales and temporal horizons.
 
-# The APS Perspective
+Meaningful differences participate within:
+- molecular signalling;
+- cellular coordination;
+- physiological regulation;
+- developmental organisation;
+- behavioural adaptation;
+- ecological interaction;
+- and cognitive integration.
 
-APS situates meaning within a broader organisational framework.
+These are not isolated layers of meaning.
 
-From an APS perspective:
-- viability-oriented organisation grounds biological agency;
-- evaluation modulates activity relative to persistence;
-- semiosis structures differences as biologically meaningful;
-- meaning emerges through evaluative organisation;
-- information participates in meaningful coordination;
-- cognition integrates meaningful relations across time;
-- and representation may emerge within some advanced forms of cognition.
-
-Meaning therefore does not begin with:
-- symbols;
-- language;
-- or internal representation.
-
-It begins when differences come to matter within viability-oriented persistence.
-
-Meaning must therefore be understood through the same organisational grammar governing biological explanation more generally:
+They are interacting dimensions of continuity-sensitive organised persistence distributed across:
 - agency;
 - process;
 - scale;
+- and temporality.
+
+APS therefore situates meaning within the broader explanatory grammar governing biological intelligibility itself.
+
+# Meaning Within the APS Explanatory Grammar
+
+APS situates meaning within the broader organisational architecture of biological explanation.
+
+Meaning therefore cannot be understood adequately through:
+- symbolic semantics alone;
+- representation alone;
+- information processing alone;
+- or linguistic interpretation alone.
+
+Instead meaning emerges through:
+- viability-oriented evaluation;
+- semiosis;
+- adaptive organisation;
+- temporally organised persistence;
+- continuity-sensitive regulation;
+- organism–environment coupling;
+- and biological agency.
+
+Meaning therefore belongs intrinsically within life itself rather than appearing only within advanced symbolic cognition.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-clarification-map.png"
+      alt="APS clarification map"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>APS Clarification Map.</strong>
+    APS grounds meaning, semiosis, information, and cognition within viability-oriented organised persistence rather than abstract symbolic or computational formalism alone.
+  </p>
+</div>
+
+# Why Meaning Matters
+
+Clarifying meaning organisationally helps resolve several persistent conceptual problems in biology and cognitive science.
+
+It:
+- naturalises biological significance;
+- grounds meaning within living organisation itself;
+- distinguishes meaning from abstract information;
+- explains how cognition emerges from more fundamental biological organisation;
+- clarifies why semiosis depends upon evaluation;
+- and situates representation within a broader continuity-oriented framework.
+
+APS therefore explains meaning through the same organisational grammar governing biological explanation more generally:
 - viability;
+- function;
+- normativity;
 - evaluation;
 - semiosis;
-- cognition;
-- continuity;
+- agency;
+- process;
+- scale;
 - temporality;
-- and persistence.
+- and continuity-preserving persistence.
 
-# Closing Perspective
+Meaning consequently emerges through organised persistence itself rather than through representation or symbolic formalism alone.
 
-Meaning is often treated as a product of symbolic cognition or representation.
+# Conclusion
 
-APS reverses this explanatory order.
+Meaning is not fundamentally symbolic representation, semantic interpretation, or abstract informational content.
 
-Living systems first exist as viability-oriented organisations.
+Meaning emerges where evaluative organisation stabilises biologically significant differences within viability-oriented organised persistence.
 
-Evaluation differentiates conditions relative to persistence.
+Living systems regulate activity relative to conditions affecting continuity, and meaningful differences participate directly in:
+- evaluation;
+- semiosis;
+- adaptation;
+- coordination;
+- agency;
+- and continuity-preserving organisation.
 
-Semiosis structures differences as biologically meaningful.
+APS consequently grounds meaning:
+- in viability rather than detached computation;
+- in evaluative significance rather than symbolic formalism;
+- in organised persistence rather than representation alone;
+- and in biological agency rather than passive signal processing.
 
-Only later may cognition, language, and representation extend these meaningful relations into more complex forms.
+Meaning therefore belongs intrinsically within the organisation of life itself.
 
-Meaning therefore begins not with symbols, but where differences become integrated into temporally organised viability-oriented continuity within living systems.
+## Key Point
 
----
-
-## Related Pathways
-
-- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[Semiosis — How Differences Come to Matter in Living Systems](/articles/semiosis-how-differences-come-to-matter-in-living-systems/)*
-- *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
-- *[Information in Biology — An APS Clarification](/articles/information-in-biology-an-aps-clarification/)*
-- *[Representation — When and Whether It Arises in Biological Systems](/articles/representation-when-and-whether-it-arises-in-biological-systems/)*
-- *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*
-
----
-
-## Key Terms
-
-meaning · semiosis · evaluation · continuity · temporality · viability · cognition · representation · information · persistence
-
+Meaning emerges wherever evaluative organisation stabilises biologically significant differences within viability-oriented continuity-preserving persistence.
