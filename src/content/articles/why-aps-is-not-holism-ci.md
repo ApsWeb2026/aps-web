@@ -234,8 +234,6 @@ Mechanisms are components of organised persistence.
 
 Their explanatory role depends upon the organisational systems within which they operate.
 
-[[box:teleology-without-organicism]]
-
 ## Teleology Without Organicism
 
 Many holistic traditions connect biological organisation with teleology.

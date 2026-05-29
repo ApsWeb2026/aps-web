@@ -167,7 +167,7 @@ But life is not fundamentally active inference.
 
 This distinction is particularly important because Active Inference is often presented using a highly general explanatory vocabulary. APS does not dispute the usefulness of inferential description. Rather, it argues that explanatory success does not automatically identify the ontological basis of the phenomenon being explained. Predictive models may describe living systems effectively without establishing that living systems fundamentally are inferential systems.
 
-[[box:aps-box-explanatory-priority-is-not-ontological-priority]]
+[[box:explanatory-priority-is-not-ontological-priority]]
 
 # The APS Reversal
 
@@ -370,7 +370,7 @@ Prediction therefore presupposes evaluation rather than replacing it.
 
 # Endogenous Normativity Cannot Be Derived from Prediction Alone
 
-[[box:aps-box-normativity-emerges-from-persistence]]
+[[box:what-aps-means-by-information]]
 
 One of the central philosophical challenges facing inferential theories of life concerns normativity.
 
@@ -615,7 +615,7 @@ This distinction mirrors similar APS critiques of informational, computational, 
 
 Useful explanatory frameworks should not be confused with the ontological basis of life itself.
 
-[[box:aps-box-explanatory-priority-is-not-ontological-priority]]
+[[box:explanatory-priority-is-not-ontological-priority]]
 
 # Active Inference Within the APS Explanatory Grammar
 
