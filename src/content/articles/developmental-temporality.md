@@ -46,7 +46,7 @@ relatedArticles:
   - development-and-evolution
   - development-and-biological-individuality
   - organism-environment-coupling
-  - temporal-organisation
+  - temporal-organisation-and-organised-persistence
   - evolution
   - the-developmental-organisation-of-life
 

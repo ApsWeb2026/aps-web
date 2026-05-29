@@ -46,7 +46,7 @@ relatedGlossaryTerms:
   - resilience
 
 relatedArticles:
-  - processual-individual
+  - processual-individuality
   - biological-organisation
   - persistence-organised-continuity-through-time
   - temporal-organisation-and-organised-persistence

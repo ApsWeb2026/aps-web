@@ -32,9 +32,8 @@ relatedArticles:
   - why-aps-reframes-biology
   - temporal-organisation-and-organised-persistence
   - diagnosis-as-continuity-analysis
-  - mechanism
-  - normativity
-  - semiosis
+  - normativity-in-biology-why-some-things-matter-to-living-systems
+  - semiosis-how-differences-come-to-matter-in-living-systems
 
 relatedGlossaryTerms:
   - biological-organisation
@@ -370,7 +369,7 @@ APS here overlaps substantially with autonomy-based approaches developed by More
 
 # Agency as Organisational Regulation
 
-APS similarly treats *[biological-agency](/glossary/biological-agency/)* as organisationally real.
+APS similarly treats *[biological agency](/glossary/biological-agency/)* as organisationally real.
 
 Agency does not require:
 - consciousness;

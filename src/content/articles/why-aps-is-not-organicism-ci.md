@@ -42,9 +42,9 @@ relatedArticles:
   - emergence-in-biology-an-aps-clarification
   - organisational-realism-in-biology
   - aps-and-systems-theory
-  - mechanism-an-aps-clarification
-  - function-an-aps-clarification
-  - normativity-an-aps-clarification
+  - reductionism-in-biology-an-aps-clarification
+  - function-how-living-systems-make-persistence-operational
+  - normativity-in-biology-why-some-things-matter-to-living-systems
   - explanatory-priority-is-not-ontological-priority
   - why-life-is-not-autopoiesis
   - why-life-is-not-a-machine

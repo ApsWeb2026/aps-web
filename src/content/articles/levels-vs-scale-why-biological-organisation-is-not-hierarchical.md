@@ -24,7 +24,7 @@ relatedArticles:
   - why-aps-is-not-hierarchical
   - scale-time-persistence
   - organism-the-unity-of-viability-oriented-organisation
-  - biological-agency-the-activity-of-self-maintenance
+  - biological-agency-the-activity-of-organised-persistence
 ---
 
 ## The Limits of Hierarchical Thinking

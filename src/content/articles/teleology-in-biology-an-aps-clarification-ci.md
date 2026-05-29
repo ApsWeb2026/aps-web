@@ -50,8 +50,8 @@ relatedArticles:
   - design-in-nature-an-aps-clarification
   - emergence-in-biology-an-aps-clarification
   - explanatory-geometry-of-biology
-  - biological-agency
-  - function-and-viability
+  - biological-agency-the-activity-of-organised-persistence
+  - function-and-normativity-why-biological-organisation-matters
   - aps-and-autonomy-theory
   - why-life-is-not-computation-an-aps-clarification
 

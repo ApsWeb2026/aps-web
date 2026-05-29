@@ -40,8 +40,8 @@ relatedArticles:
   - function-and-normativity-why-biological-organisation-matters
   - function-how-living-systems-make-persistence-operational
   - semiosis-how-differences-come-to-matter-in-living-systems
-  - meaning-in-biology
-  - information-in-biology
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
   - cognition-where-does-it-belong-in-biology
   - why-life-is-not-intelligence-an-aps-clarification
   - why-ai-is-not-biological-agency

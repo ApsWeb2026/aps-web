@@ -53,7 +53,7 @@ relatedArticles:
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
   - meaning-in-biology-an-aps-clarification
-  - information-in-biology
+  - information-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems
   - cognition-where-does-it-belong-in-biology
   - function-and-normativity-why-biological-organisation-matters

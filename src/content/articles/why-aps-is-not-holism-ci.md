@@ -26,7 +26,7 @@ relatedGlossaryTerms:
   - biological-organisation
   - constraint-closure
   - persistence
-  - processual-individuality
+  - processual-individual
   - organism
   - biological-agency
 

@@ -44,7 +44,7 @@ relatedArticles:
   - function-and-normativity-why-biological-organisation-matters
   - function-how-living-systems-make-persistence-operational
   - meaning-in-biology-an-aps-clarification
-  - information-in-biology
+  - information-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems
   - cognition-where-does-it-belong-in-biology
   - why-life-is-not-information-processing
