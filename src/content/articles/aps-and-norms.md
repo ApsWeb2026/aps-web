@@ -470,7 +470,7 @@ Culture transmits coordination.
 
 Together these processes create increasingly durable forms of social continuity.
 
-[[box:social-continuity]]
+[[box:aps-box-social-continuity]]
 
 ## Norms, Institutions, and Technology
 
