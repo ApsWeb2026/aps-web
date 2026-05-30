@@ -120,8 +120,6 @@ For APS, coordination therefore occupies a foundational position within social e
 
 Social systems do not arise because organisms belong to groups. They arise because activities become coordinated in ways that support organised persistence.
 
-[[box:aps-box-social-organisation-is-not-group-selection]]
-
 ## Social Organisation as Coordinated Organised Persistence
 
 APS defines social organisation as the coordinated arrangement of activities, relationships, constraints, and interactions through which multiple organisms contribute to forms of organised persistence extending beyond isolated individuals.

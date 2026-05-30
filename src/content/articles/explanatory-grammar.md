@@ -161,8 +161,6 @@ It also reframes causation. Rather than treating causation solely as the product
 
 Mechanisms explain how particular biological activities occur. Organised persistence explains why those activities contribute to the continued viability of the system. Mechanistic and organisational explanations are therefore complementary rather than competing forms of understanding.
 
-[[box:aps-box-grammar-is-not-ontology]]
-
 ## APS, Evolution, and Organised Persistence
 
 The APS explanatory grammar reveals a complementary relationship between biological organisation and evolutionary theory.
