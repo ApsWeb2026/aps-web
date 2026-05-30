@@ -157,7 +157,7 @@ They therefore belong alongside other APS organisational concepts such as constr
 
 Like these concepts, norms are best understood through their contribution to ongoing systems of activity rather than through their symbolic content alone.
 
-[[box:aps-box-norms-are-not-rules]]
+[[box:norms-are-not-rules]]
 
 APS consequently rejects two common misunderstandings.
 
@@ -470,7 +470,7 @@ Culture transmits coordination.
 
 Together these processes create increasingly durable forms of social continuity.
 
-[[box:aps-box-social-continuity]]
+[[box:social-continuity]]
 
 ## Norms, Institutions, and Technology
 
