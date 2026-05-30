@@ -6,18 +6,16 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Social organisation is the coordinated arrangement of interactions,
   activities, constraints, and relationships through which multiple
-  viability-oriented organisms sustain organised persistence across time.
-  In APS, social organisation emerges when coordination among interacting
-  organisms contributes to the maintenance, regulation, reproduction, or
-  transformation of collective continuity. Social organisation therefore
-  represents a socially distributed form of organised persistence extending
-  beyond isolated individuals while remaining grounded in the activities of
-  living systems.
+  viability-oriented organisms contribute to the maintenance,
+  regulation, reproduction, or transformation of organised persistence
+  across time. In APS, social organisation emerges when coordinated
+  interaction supports socially distributed continuity extending beyond
+  isolated individuals while remaining grounded in living processes.
 
 inBrief: >
   Social organisation is coordinated organised persistence among interacting
@@ -34,6 +32,9 @@ seeAlso:
   - organism-environment-coupling
   - ecological-organisation
   - organised-persistence
+  - continuity
+  - biological-agency
+  - evaluation
 ---
 
 # Social Organisation
@@ -44,7 +45,11 @@ In conventional biology and social theory, social organisation is often describe
 
 Social organisation is therefore not merely aggregation.
 
+Social organisation represents a form of continuity architecture in which persistence becomes partially distributed across interacting organisms. The continuity of the system depends not only upon the persistence of individual organisms but also upon the maintenance of patterns of coordination linking them.
+
 Social organisation emerges when interactions among organisms become coordinated in ways that contribute to organised persistence. Communication, norms, symbolic systems, cultural practices, institutions, and technologies represent increasingly sophisticated forms through which such coordination can be stabilised and extended across time.
+
+These forms of coordination depend upon processes of evaluation, communication, and semiosis through which organisms respond to one another and to shared environmental conditions. Social organisation therefore extends rather than replaces the viability-oriented organisation already present within individual living systems.
 
 A collection of organisms becomes socially organised insofar as interactions among its members contribute to the maintenance, regulation, coordination, or transformation of collective continuity.
 
@@ -95,6 +100,6 @@ Social organisation also differs from culture, institutions, and technologies, w
 
 Social organisation therefore illustrates a central APS principle:
 
-> Organised persistence can become socially distributed.
+> Organised persistence can become socially distributed through coordinated continuity across interacting organisms.
 
 Through communication, norms, symbolic coordination, culture, institutions, and technology, continuity extends beyond isolated organisms into historically sustained systems of coordinated activity. Social organisation is the foundational continuity architecture from which these more specialised forms emerge.

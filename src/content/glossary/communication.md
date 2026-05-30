@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Communication is the coordination of activity through the production,
@@ -32,6 +32,8 @@ seeAlso:
   - representation
   - culture
   - organised-persistence
+  - evaluation
+  - continuity
 ---
 
 # Communication
@@ -65,9 +67,11 @@ Although these forms differ greatly in complexity, they perform a similar organi
 
 They contribute to coordination.
 
-APS emphasises that communication is closely related to semiosis.
+APS emphasises that communication is closely related to evaluation and semiosis.
 
-Communicative signals function as signs that organisms interpret in relation to their ongoing activities and conditions of viability. Communication therefore depends upon processes of meaning-making and sign interpretation rather than simple physical transmission alone.
+Communicative signals function as signs that organisms interpret in relation to their ongoing activities and conditions of viability. Communication therefore depends upon processes of evaluation, meaning-making, and sign interpretation rather than simple physical transmission alone.
+
+What is communicated matters only insofar as it influences the organisation of activity. Communication is therefore grounded in the capacity of organisms to evaluate signals in relation to their own persistence and ongoing interactions.
 
 Communication is also closely related to social organisation.
 
@@ -81,6 +85,10 @@ More complex forms of communication support the emergence of:
 - institutions,
 - technology.
 
+Communication therefore serves as a bridge between individual and collective forms of organised persistence.
+
+Through communicative processes, coordination can become increasingly stable, distributed, and historically extended across groups, communities, and generations.
+
 APS rejects the view that communication is fundamentally the transfer of information between otherwise separate entities.
 
 Communication is significant because it contributes to coordinated organised persistence.
@@ -91,4 +99,4 @@ Communication therefore illustrates a central APS principle:
 
 > Communication is a mechanism of coordination, and coordination is a mechanism of organised persistence.
 
-Through communication, continuity extends beyond isolated organisms into systems of coordinated interaction that support social organisation across time and scale.
+Through communication, continuity extends beyond isolated organisms into systems of coordinated interaction that support developmental, social, ecological, and cultural organisation across time and scale.

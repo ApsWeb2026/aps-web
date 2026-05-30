@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Coordination is the organised alignment of activities, processes, or
@@ -33,6 +33,8 @@ seeAlso:
   - biological-agency
   - ecological-organisation
   - constraint
+  - continuity
+  - evaluation
 ---
 
 # Coordination
@@ -43,7 +45,7 @@ In conventional accounts, coordination is often understood as the successful arr
 
 APS interprets coordination as a fundamental mechanism of organised persistence.
 
-Living systems depend upon coordinated relationships among components operating across multiple scales. Cells coordinate metabolic activities. Organisms coordinate physiological processes. Social systems coordinate interactions among individuals. Ecological systems depend upon coordinated relationships among organisms and environments.
+Living systems depend upon coordinated relationships among components operating across multiple scales. Cells coordinate metabolic activities. Organisms coordinate physiological processes. Development depends upon the coordinated regulation of growth and differentiation. Social systems coordinate interactions among individuals. Ecological systems depend upon coordinated relationships among organisms and environments.
 
 Coordination therefore occurs throughout the living world.
 
@@ -76,6 +78,8 @@ The forms vary, but the organisational role remains similar.
 
 Coordination contributes to continuity.
 
+Persistence often depends not merely upon the existence of components but upon the maintenance of coordinated relationships among them. Continuity is therefore sustained through patterns of organised interaction extending across time and scale.
+
 Coordination is closely related to constraint.
 
 Coordinated systems typically depend upon constraints that channel activity into relatively stable patterns of interaction. These constraints may be biological, behavioural, ecological, social, or technological.
@@ -106,4 +110,4 @@ Coordination therefore illustrates a central APS principle:
 
 > Organised persistence depends upon organised relations.
 
-Through coordination, activities become aligned in ways that support continuity across process, scale, and time. Coordination is thus one of the foundational organisational processes through which living systems sustain themselves and through which social organisation becomes possible.
+Through coordination, activities become aligned in ways that support continuity across process, scale, and time. Coordination is thus one of the foundational organisational processes through which living systems sustain themselves and through which developmental, social, ecological, and cultural organisation become possible.

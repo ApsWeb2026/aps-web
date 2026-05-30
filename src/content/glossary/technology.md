@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Technology is a continuity architecture through which organisational
@@ -32,6 +32,8 @@ seeAlso:
   - organised-persistence
   - continuity
   - adaptation
+  - evaluation
+  - constraint
 ---
 
 # Technology
@@ -67,6 +69,8 @@ A communication network externalises capacities for coordination.
 In every case, organisational resources become environmentally distributed.
 
 Technology therefore extends continuity beyond the limits of individual organisms and immediate social interactions.
+
+APS emphasises that technologies preserve not merely information but capacities for action, evaluation, coordination, and organisation. What becomes externalised is the ability to support continuity-preserving activity.
 
 ## Technology and Organised Persistence
 
@@ -115,6 +119,16 @@ Symbols help stabilise complex systems of organisation.
 
 Technology and symbolic coordination therefore evolve together as mutually reinforcing forms of continuity architecture.
 
+## Technology and Institutions
+
+Complex technologies frequently depend upon institutions capable of preserving expertise, maintaining standards, coordinating participation, and reproducing knowledge across generations.
+
+Institutions stabilise technological continuity.
+
+Technology extends institutional capacities.
+
+The two therefore operate as mutually reinforcing continuity architectures within social organisation.
+
 ## Technology and Environmental Organisation
 
 Technology transforms relationships between organisms and environments.
@@ -132,6 +146,8 @@ Digital environments create new domains of coordination.
 Technology therefore plays an important role in environmental organisation and niche construction.
 
 Rather than merely responding to environmental conditions, technological systems often participate in restructuring those conditions.
+
+Technology thus illustrates how organised persistence can become environmentally distributed.
 
 ## Why Technology Matters
 

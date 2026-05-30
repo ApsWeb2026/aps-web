@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   A social norm is a coordination constraint that stabilises expectations,
@@ -31,6 +31,8 @@ seeAlso:
   - organised-persistence
   - constraint
   - biological-agency
+  - evaluation
+  - continuity
 ---
 
 # Social Norm
@@ -39,7 +41,7 @@ A social norm is a coordination constraint that stabilises expectations and supp
 
 In conventional social theory, norms are often understood as rules, conventions, customs, obligations, or shared expectations governing behaviour. APS accepts that norms frequently take these forms but argues that their deeper significance lies in the organisational role they perform.
 
-APS interprets social norms as coordination constraints.
+APS interprets social norms as continuity-preserving coordination constraints.
 
 Norms help organise interactions among organisms by reducing uncertainty and stabilising expectations concerning behaviour. Through norms, coordinated activity becomes more reliable, more reproducible, and more capable of persisting through time.
 
@@ -53,7 +55,7 @@ They establish relatively stable expectations concerning how organisms are likel
 
 APS emphasises that social norms extend biological normativity into the social domain.
 
-Living systems are inherently normative because their activities are organised around conditions that support or undermine viability. Social norms emerge when coordination among organisms generates relatively stable expectations that contribute to collective continuity.
+Living systems are inherently normative because their activities are organised around conditions that support or undermine viability. Organisms continually evaluate circumstances in relation to persistence. Social norms emerge when patterns of collective coordination become sufficiently stable that they guide and regulate interactions among multiple organisms.
 
 Social normativity therefore builds upon biological normativity rather than replacing it.
 
@@ -68,7 +70,7 @@ Regardless of their specific form, their organisational significance derives fro
 
 Social norms are closely related to communication.
 
-Communicative systems allow expectations to be expressed, negotiated, transmitted, and maintained. Communication therefore plays a major role in the emergence and reproduction of normative organisation.
+Communicative systems allow expectations to be expressed, negotiated, transmitted, reproduced, and modified. Communication therefore plays a major role in the emergence and maintenance of normative organisation.
 
 Social norms are also closely related to symbolic coordination.
 
@@ -96,4 +98,4 @@ Social norms therefore illustrate a central APS principle:
 
 > Social continuity depends upon normative organisation.
 
-Through social norms, coordinated activity becomes sufficiently stable to persist across time, enabling the emergence of increasingly complex forms of social organisation and continuity.
+Through social norms, coordinated activity becomes sufficiently stable to persist across time, enabling the emergence of increasingly complex forms of social organisation, cultural continuity, institutional organisation, and historically extended systems of coordinated activity.

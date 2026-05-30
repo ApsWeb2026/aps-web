@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Cultural inheritance is the continuity-preserving process through which
@@ -32,6 +32,8 @@ seeAlso:
   - technology
   - evolution
   - organised-persistence
+  - continuity
+  - evaluation
 ---
 
 # Cultural Inheritance
@@ -109,6 +111,16 @@ Symbols therefore function as powerful vehicles of continuity.
 Through symbolic coordination, inherited practices and knowledge can become increasingly stable, scalable, and historically extended.
 
 Without symbolic systems, large-scale cultural inheritance would be severely limited.
+
+## Cultural Inheritance and Evaluation
+
+Cultural inheritance does not merely preserve information.
+
+It also preserves evaluative practices, norms, expectations, and ways of responding to circumstances.
+
+Through participation in cultural systems, organisms inherit socially stabilised ways of interpreting, valuing, and coordinating activity.
+
+Cultural inheritance therefore contributes not only to continuity of knowledge but also to continuity of social organisation.
 
 ## Cultural Inheritance and Evolution
 

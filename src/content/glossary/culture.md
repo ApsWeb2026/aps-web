@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Culture is a socially distributed form of organised persistence through
@@ -33,6 +33,8 @@ seeAlso:
   - technology
   - organised-persistence
   - continuity
+  - evaluation
+  - normativity
 ---
 
 # Culture
@@ -67,6 +69,10 @@ Culture includes:
 - collective memory.
 
 What unifies these diverse phenomena is their contribution to socially distributed continuity.
+
+Culture is closely related to evaluation and normativity.
+
+Cultural systems do not merely preserve information. They preserve ways of acting, interpreting, valuing, and coordinating. Through cultural participation, organisms inherit normative expectations and evaluative practices that help organise social activity.
 
 Culture is closely related to symbolic coordination.
 
@@ -108,4 +114,4 @@ Culture illustrates a central APS principle:
 
 > Organised persistence can become historically distributed.
 
-Through culture, continuity is preserved across generations, allowing coordinated activity, accumulated knowledge, and shared forms of organisation to persist and evolve through time.
+Through culture, continuity is preserved across generations, allowing coordinated activity, accumulated knowledge, shared meanings, and increasingly complex forms of social organisation to persist, accumulate, and evolve through time.

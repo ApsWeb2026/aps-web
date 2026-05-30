@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 definition: >
   Institutions are distributed constraint systems that stabilise
@@ -32,6 +32,9 @@ seeAlso:
   - technology
   - constraint
   - organised-persistence
+  - continuity
+  - evaluation
+  - normativity
 ---
 
 # Institutions
@@ -67,6 +70,18 @@ Institutional organisation exists through networks of shared expectations, pract
 Institutions persist because participants continually reproduce the constraints that sustain them.
 
 APS therefore treats institutions as dynamic organisational processes rather than static social objects.
+
+## Institutions and Social Norms
+
+Institutions emerge from normative organisation.
+
+Social norms stabilise expectations among interacting organisms.
+
+Institutions stabilise and formalise those expectations across larger populations, longer timescales, and more complex forms of coordination.
+
+Norms therefore provide much of the organisational foundation from which institutions develop.
+
+Institutions, in turn, help preserve and reproduce normative organisation.
 
 ## Institutions and Organised Persistence
 
@@ -119,6 +134,14 @@ Administrative systems preserve organisational memory.
 Institutions therefore transform inherited cultural resources into durable forms of collective organisation.
 
 They stabilise continuity across historical timescales.
+
+## Institutions and Technology
+
+Institutions create the organisational stability necessary for the development, maintenance, and transmission of complex technologies.
+
+Technological systems frequently depend upon institutional structures capable of preserving knowledge, coordinating activity, maintaining standards, and reproducing expertise across generations.
+
+Institutions therefore form an important bridge between cultural continuity and technological continuity.
 
 ## Why Institutions Matter
 
