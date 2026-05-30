@@ -41,83 +41,147 @@ relatedArticles:
   - aps-and-institutions
   - the-social-organisation-of-life
   - development-and-social-organisation
+
+references:
+  - id: dewey1922
+    authors: "Dewey, J."
+    year: 1922
+    title: "Human Nature and Conduct"
+    publisher: "Henry Holt"
+
+  - id: mead1934
+    authors: "Mead, G. H."
+    year: 1934
+    title: "Mind, Self, and Society"
+    publisher: "University of Chicago Press"
+
+  - id: hodgson2006
+    authors: "Hodgson, G. M."
+    year: 2006
+    title: "What Are Institutions?"
+    journal: "Journal of Economic Issues"
+    volume: "40(1)"
+    pages: "1–25"
+
+  - id: tomasello2019
+    authors: "Tomasello, M."
+    year: 2019
+    title: "Becoming Human: A Theory of Ontogeny"
+    publisher: "Harvard University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: An Organisational Approach to Biological Agency"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
 ---
 
 # APS and Norms: How Social Systems Regulate Organised Persistence
 
-## Introduction: What Are Social Norms?
+## Introduction: Why Do Social Norms Exist?
 
-Norms are often described as shared expectations, customs, conventions, obligations, or rules that guide behaviour. In both social theory and everyday life, norms are frequently understood either as beliefs held by individuals or as standards imposed by societies.
+Human societies depend upon remarkably stable forms of coordinated activity.
 
-Yet these familiar descriptions leave a deeper question unanswered.
+People queue in orderly ways.
 
-Why do norms matter?
+Conversations follow recognisable patterns.
+
+Scientific communities maintain standards of evidence.
+
+Educational systems preserve expectations concerning learning and instruction.
+
+Professional groups sustain practices that often persist across generations.
+
+These forms of organisation are neither random nor automatic.
+
+They depend upon norms.
+
+Norms are often described as rules, conventions, customs, obligations, or shared expectations governing behaviour. Such descriptions identify important features of normative organisation, but they leave a deeper explanatory question unanswered.
+
+**Why do norms emerge in the first place?**
 
 Why do some patterns of behaviour become stabilised and reproduced while others disappear?
 
-How do norms contribute to the persistence of social systems across time?
+How do norms contribute to the continuity of social systems?
 
-APS approaches these questions from a different perspective.
+APS approaches these questions through the concept of organised persistence.
 
-Rather than treating norms primarily as beliefs, rules, or prescriptions, APS interprets norms as organisational structures that regulate coordinated activity. Social norms are significant because they help stabilise patterns of interaction that contribute to organised persistence.
+Rather than treating norms primarily as beliefs, prescriptions, or social rules, APS interprets norms as continuity-preserving coordination constraints. Norms help stabilise interactions among organisms engaged in collective activity. They regulate expectations, reduce uncertainty, and support forms of coordination capable of persisting through time.
 
-This interpretation situates norms within the broader APS framework of Agency, Process, and Scale and places them within the continuity architecture developed throughout the social layer.
+This perspective situates norms within the broader APS framework of Agency, Process, and Scale.
 
-Norms are not merely things that individuals follow.
+Norms are not isolated social phenomena.
 
-They are continuity-preserving coordination constraints through which social systems organise and reproduce themselves across time.
+They emerge from evaluative activity.
 
----
+They contribute to organised persistence.
+
+They connect communication, symbolic coordination, culture, institutions, and technology within a broader continuity architecture.
+
+APS therefore interprets norms as one of the principal mechanisms through which continuity becomes socially distributed.
 
 ## Beyond Rules and Expectations
 
-Traditional accounts often frame norms in one of two ways.
+Many traditional accounts interpret norms in one of two ways.
 
-The first emphasises internal expectations.
+- norms as internal expectations concerning appropriate behaviour
+- norms as external rules or obligations imposed by a social group
 
-Norms are understood as beliefs about how one ought to behave or about what behaviour is socially appropriate.
+Both perspectives capture important aspects of normative organisation.
 
-The second emphasises external regulation.
+Neither fully explains why norms persist.
 
-Norms are understood as rules, conventions, or standards imposed upon individuals by a wider social system.
+Rules do not reproduce themselves.
 
-APS accepts that norms frequently appear in these forms but argues that neither perspective captures their deeper organisational significance.
+Expectations do not stabilise automatically.
 
-Norms are not merely mental representations.
+Normative continuity depends upon ongoing patterns of coordinated activity through which expectations, practices, and forms of interaction become reproducible across time.
 
-Nor are they simply external prescriptions.
-
-Instead, norms emerge through ongoing patterns of interaction among organisms engaged in coordinated activity.
-
-They are simultaneously reproduced and modified through participation in social organisation.
-
-APS therefore shifts attention away from what norms *represent* and toward what norms *do*.
+APS therefore shifts attention from what norms represent to what norms do.
 
 Norms:
 
-- stabilise expectations,
-- reduce uncertainty,
-- regulate interactions,
-- support cooperation,
-- preserve patterns of coordination.
+- stabilise expectations
+- reduce uncertainty
+- regulate interactions
+- support cooperation
+- preserve coordinated activity
+- contribute to continuity
 
-Their significance lies in the contribution they make to continuity.
+Their significance lies in the organisational role they perform.
 
-A norm persists because it contributes to the organisation of activity in ways that become reproducible across time.
+Norms persist because they help organise activity in ways that become reproducible across populations and generations.
 
-This perspective places norms alongside other APS organisational concepts such as constraints, coordination, communication, and organised persistence.
+They therefore belong alongside other APS organisational concepts such as constraints, coordination, communication, and organised persistence.
 
-Like these concepts, norms are best understood through the role they play within ongoing systems of activity.
+Like these concepts, norms are best understood through their contribution to ongoing systems of activity rather than through their symbolic content alone.
 
 [[box:aps-box-norms-are-not-rules]]
 
----
+APS consequently rejects two common misunderstandings.
+
+The first treats norms as merely subjective beliefs.
+
+The second treats norms as external prescriptions imposed upon passive individuals.
+
+Norms are neither.
+
+They emerge through coordinated activity while simultaneously shaping the conditions under which future activity occurs.
+
+Normative organisation is therefore both reproduced and reproductive.
+
+Participants reproduce norms through ongoing interaction.
+
+Norms reproduce the organisational conditions that support coordinated interaction.
+
+This reciprocal relationship lies at the heart of social continuity.
 
 ## Norms as Coordination Constraints
 
 APS interprets social norms as coordination constraints.
 
-A coordination constraint is an organisational structure that channels activity into relatively stable patterns of interaction.
+A coordination constraint is an organisational structure that channels activity into relatively stable patterns of interaction while preserving the capacity for adaptive action.
 
 Constraints do not eliminate possibilities.
 
@@ -125,9 +189,9 @@ Instead, they make some forms of activity more likely and others less likely.
 
 Norms perform precisely this function within social systems.
 
-They regulate expectations concerning behaviour and thereby reduce the uncertainty associated with interaction.
+They regulate expectations concerning behaviour and thereby reduce uncertainty within interaction.
 
-Individuals do not need continually to renegotiate every aspect of social activity because norms provide relatively stable expectations concerning how others are likely to act.
+Individuals do not need continually to renegotiate every aspect of social activity because normative organisation provides relatively stable expectations concerning how others are likely to act.
 
 This stabilisation contributes directly to coordinated persistence.
 
@@ -135,24 +199,24 @@ Norms therefore function as continuity-preserving constraints.
 
 Without norms:
 
-- coordination becomes fragile,
-- cooperation becomes difficult,
-- expectations become unstable,
-- collective activity becomes harder to sustain.
+- coordination becomes fragile
+- cooperation becomes difficult
+- expectations become unstable
+- collective activity becomes harder to sustain
 
-Norms help solve these problems by organising interactions into reproducible patterns.
+Normative organisation helps address these problems by organising interactions into reproducible patterns.
 
 The organisational significance of norms can be observed across a wide variety of contexts.
 
 Examples include:
 
-- conversational conventions,
-- professional standards,
-- scientific practices,
-- legal expectations,
-- educational traditions,
-- ethical commitments,
-- cultural customs.
+- conversational conventions
+- professional standards
+- scientific practices
+- legal expectations
+- educational traditions
+- ethical commitments
+- cultural customs
 
 These differ substantially in content and complexity.
 
@@ -160,7 +224,11 @@ What unites them is not what they prescribe but the organisational role they per
 
 Each contributes to the stabilisation of coordinated activity across interacting organisms.
 
-APS therefore treats norms not as secondary additions to social organisation but as one of its fundamental mechanisms.
+![Social Coordination](/assets/images/social/social-coordination.png)
+
+*Social norms stabilise patterns of coordination that contribute to socially distributed organised persistence.*
+
+APS therefore treats norms not as secondary additions to social organisation but as one of its foundational mechanisms.
 
 Communication enables coordination.
 
@@ -168,505 +236,340 @@ Norms stabilise coordination.
 
 Through normative organisation, social continuity becomes possible.
 
----
-
 ## Evaluation, Normativity, and Social Norms
 
-The APS account of norms emerges from a more general account of normativity.
+To understand why norms emerge, APS begins with a more fundamental concept: evaluation.
 
-Living systems are inherently normative because their activities are organised around conditions that support or undermine viability.
+All living systems are evaluative.
 
-Organisms continuously evaluate circumstances in relation to persistence.
+Organisms continuously distinguish between conditions that support persistence and conditions that threaten it. Nutrients are distinguished from toxins. Opportunities are distinguished from dangers. Successful actions are distinguished from unsuccessful ones.
 
-Food may be beneficial or harmful.
+Evaluation is therefore not an optional cognitive achievement.
 
-Environmental conditions may support or threaten survival.
+It is a fundamental organisational requirement of viability-oriented systems.
 
-Actions may contribute to or interfere with ongoing organisation.
+This evaluative dimension gives rise to normativity.
 
-This evaluative dimension is not imposed from outside.
+Normativity concerns the distinction between what supports persistence and what undermines it. In APS, normativity does not originate in abstract moral principles or externally imposed rules. It emerges from the organisational requirements of living systems themselves.
 
-It arises from the organisation of living systems themselves.
+Biological normativity is therefore rooted in organised persistence.
 
-APS therefore treats normativity as an intrinsic feature of viability-oriented organisation.
+Some actions contribute to viability.
 
-Social norms extend this normative organisation into the social domain.
+Others diminish it.
 
-As organisms coordinate activity with one another, stable patterns of interaction emerge.
+Some forms of organisation are stabilising.
 
-Some patterns support continuity more effectively than others.
+Others are destabilising.
 
-Over time, these patterns can become stabilised as normative expectations that regulate future interactions.
+Normative distinctions emerge because living systems face real consequences for success and failure.
 
-Norms therefore emerge from evaluative processes operating across interacting organisms.
+Social norms extend this evaluative organisation into the social domain.
 
-This relationship can be summarised schematically:
+When organisms engage in sustained collective activity, the success or failure of coordination itself becomes subject to evaluation. Certain patterns of interaction contribute to collective continuity. Others generate instability, conflict, inefficiency, or breakdown.
 
-```text
-Evaluation
-      ↓
-Normativity
-      ↓
-Social Norms
-```
+Norms emerge as mechanisms that stabilise successful forms of coordination.
 
-Evaluation generates distinctions between more and less viable forms of activity.
+Through repeated interaction, expectations become organised around behaviours that support collective persistence.
 
-Normativity expresses those distinctions within organised systems.
+In this sense, social norms are not arbitrary conventions.
 
-Social norms stabilise them within collective forms of coordination.
+They are socially distributed expressions of evaluative organisation.
 
-APS therefore rejects the view that social norms are arbitrary conventions detached from biological organisation.
+Different societies may develop different norms.
 
-Social norms are not reducible to biological normativity, but neither are they independent of it.
+Different historical circumstances may produce different normative structures.
 
-Instead, they emerge from and extend the evaluative organisation already present within living systems.
+Yet the underlying organisational logic remains similar.
 
-Through this process, normativity becomes socially distributed.
+Norms persist because they contribute to the maintenance of coordinated activity.
 
-The result is the emergence of continuity-preserving structures capable of regulating coordinated activity across populations, institutions, and generations.
+APS therefore situates social normativity within a broader continuity architecture.
+
+Evaluation generates normativity.
+
+Normativity stabilises coordination.
+
+Coordination supports organised persistence.
 
 ## Norms and Organised Persistence
 
-APS interprets social norms as mechanisms of organised persistence.
+APS interprets norms as continuity-preserving organisational structures.
 
-Social systems face a problem similar to that faced by living systems more generally.
+Their significance lies not merely in what they prescribe but in what they enable.
 
-How can coordinated organisation be maintained despite continual change?
+Norms reduce uncertainty.
 
-Participants come and go.
+They stabilise expectations.
 
-Circumstances change.
+They make coordinated activity more reliable.
 
-Environmental conditions fluctuate.
+These effects become increasingly important as social systems grow in complexity.
 
-Conflicts emerge.
+Without normative organisation, every interaction would require continual negotiation.
 
-New opportunities arise.
+Cooperation would become fragile.
 
-Yet many forms of social organisation remain remarkably stable.
+Collective projects would become difficult to sustain.
 
-Norms play an important role in explaining this stability.
+Knowledge transmission would become unreliable.
 
-By regulating expectations and coordinating behaviour, norms reduce the organisational costs associated with maintaining collective activity.
+Large-scale social organisation would become unstable.
 
-Participants do not need continually to reconstruct social relationships from the beginning.
+Norms help address these challenges.
 
-Normative structures provide a degree of continuity that allows coordination to persist across time.
+By stabilising expectations, norms create organisational continuity across time.
 
-Norms therefore function as continuity-preserving organisational resources.
+Participants can orient their activities toward relatively predictable patterns of interaction.
 
-They help stabilise:
+Coordination becomes more efficient.
 
-- patterns of interaction,
-- systems of cooperation,
-- communicative expectations,
-- behavioural conventions,
-- collective practices,
-- shared forms of organisation.
+Collective activity becomes more durable.
 
-APS does not claim that norms always contribute positively to persistence.
+Social systems become more capable of maintaining persistence despite continual turnover among individual participants.
 
-Some norms may become maladaptive.
+Norms therefore function as continuity mechanisms.
 
-Others may reinforce dysfunctional forms of organisation.
+They preserve organisational patterns beyond the individuals who currently enact them.
 
-Still others may persist despite undermining the long-term viability of the systems in which they operate.
+This continuity is visible across many domains:
 
-The significance of norms therefore lies not in their moral status but in their organisational role.
+- scientific communities maintain standards of evidence
+- professions preserve standards of practice
+- educational systems reproduce expectations concerning learning
+- legal systems stabilise expectations concerning conduct
+- communities maintain traditions across generations
 
-APS asks:
+These examples differ enormously in content.
 
-**How do norms contribute to the persistence, transformation, or breakdown of coordinated activity?**
+What unites them is their contribution to organised persistence.
 
-This shift from moral evaluation to organisational analysis allows norms to be studied as components of continuity architecture rather than merely as systems of obligation.
+Normative organisation helps reproduce patterns of coordinated activity across time.
 
----
+APS therefore rejects the idea that norms are merely restrictions on behaviour.
 
-## Norms and Social Continuity
+Norms do constrain activity.
 
-The social layer of APS introduces the concept of social continuity.
+But constraints are not simply limitations.
 
-Social continuity refers to the persistence of coordinated activity across interacting organisms through time.
+Throughout APS, constraints are understood as organisational structures that make particular forms of activity possible.
 
-Norms occupy a central position within this continuity architecture.
+The same principle applies to social norms.
 
-Without norms, many forms of social organisation would remain fragile and short-lived.
+Norms limit some possibilities.
 
-Coordination could occur temporarily, but stable patterns of collective activity would be difficult to maintain.
+At the same time, they enable more stable and effective forms of coordination.
 
-Norms address this problem by preserving expectations.
+Social continuity depends upon this balance between constraint and possibility.
 
-Participants inherit established ways of interacting.
+![Social Continuity](/assets/images/social/social-continuity.png)
 
-Shared assumptions become reproducible.
+*Normative organisation allows patterns of coordinated activity to persist despite continual turnover among participants.*
 
-Coordination becomes increasingly reliable.
+## From Norms to Social Continuity
 
-Social continuity therefore depends not only upon communication and interaction but also upon normative stabilisation.
+The organisational significance of norms becomes particularly apparent when viewed across longer timescales.
 
-Norms make continuity reproducible.
+Social systems persist despite continual change.
 
-APS therefore treats norms as one of the principal mechanisms through which organised persistence becomes socially distributed.
+Individuals are born and die.
 
-A useful way of understanding this relationship is through the following sequence:
+Membership changes.
 
-```text
-Communication
-        ↓
-Coordination
-        ↓
-Norms
-        ↓
-Social Continuity
-```
-
-Communication enables coordinated activity.
-
-Norms stabilise that activity.
-
-Continuity emerges from the resulting patterns of organised interaction.
-
-Normative organisation therefore represents a crucial transition point between immediate coordination and historically extended forms of social persistence.
-
----
-
-## Norms, Symbolic Coordination, and Culture
-
-Norms become especially important when coordination extends beyond immediate interaction.
-
-Small groups may maintain coordination through direct communication and repeated contact.
-
-Larger and more complex forms of social organisation require additional mechanisms.
-
-This is where symbolic coordination becomes important.
-
-Symbolic systems allow meanings, expectations, and practices to be stabilised and transmitted across time and space.
-
-Language, writing, ritual, law, scientific discourse, educational traditions, and many other symbolic systems depend upon normative organisation.
-
-Symbols are meaningful only because communities develop relatively stable expectations concerning their interpretation and use.
-
-Norms therefore help regulate symbolic coordination.
-
-They provide the shared expectations necessary for symbols to function as mechanisms of communication and collective organisation.
-
-The relationship can be represented schematically:
-
-```text
-Communication
-        ↓
-Norms
-        ↓
-Symbolic Coordination
-```
-
-Through symbolic coordination, norms acquire the capacity to operate across much larger scales than immediate interaction alone would permit.
-
-Practices can be preserved.
-
-Knowledge can accumulate.
-
-Meanings can be transmitted.
-
-Coordination can become historically extended.
-
-This transition leads directly to culture.
-
-APS interprets culture as a continuity architecture through which practices, meanings, skills, expectations, and forms of knowledge are preserved across generations.
-
-Norms are among the primary organisational mechanisms that make this possible.
-
-Culture depends upon norms.
-
-Norms stabilise expectations.
-
-Expectations support symbolic coordination.
-
-Symbolic coordination enables cultural continuity.
-
-The resulting sequence is central to the APS account of social organisation:
-
-```text
-Communication
-        ↓
-Social Norms
-        ↓
-Symbolic Coordination
-        ↓
-Culture
-```
-
-Norms therefore occupy a pivotal position within the social continuity architecture developed by APS.
-
-They connect immediate interaction to historically persistent forms of collective organisation.
-
-Through normative organisation, social systems acquire the capacity to preserve and reproduce coordinated activity across generations.
-
-## Norms, Institutions, and Technology
-
-Norms do not operate in isolation.
-
-As patterns of coordination become increasingly stable and historically extended, they contribute to the emergence of institutions and technologies.
-
-APS interprets institutions as distributed constraint systems that stabilise expectations, regulate interactions, and preserve coordinated activity across populations and generations.
-
-Institutions emerge from normative organisation.
-
-Norms regulate behaviour in real time.
-
-Institutions stabilise those normative patterns across larger populations and longer timescales.
-
-The relationship is therefore developmental rather than oppositional.
-
-Norms provide much of the organisational foundation from which institutions emerge.
-
-Institutions, in turn, help preserve and reproduce normative organisation.
-
-Educational systems reproduce expectations concerning learning.
-
-Scientific institutions preserve norms governing inquiry and evidence.
-
-Legal systems stabilise normative expectations concerning behaviour and responsibility.
-
-Administrative institutions preserve organisational memory and procedural continuity.
-
-The resulting relationship can be represented schematically:
-
-```text
-Social Norms
-        ↓
-Institutions
-        ↓
-Long-Term Social Continuity
-```
-
-Institutions therefore function as continuity architectures built upon normative organisation.
-
-Technology extends this process further.
-
-APS interprets technology not merely as tools or machinery but as the externalisation of organisational capacities into material, symbolic, and environmental structures.
-
-Technologies preserve:
-
-- knowledge,
-- memory,
-- communication,
-- coordination,
-- institutional practices.
-
-Through technology, organisational resources become embedded within structures that persist beyond the individuals who created them.
-
-Writing preserves memory.
-
-Maps preserve spatial knowledge.
-
-Databases preserve information.
-
-Communication networks preserve capacities for coordination.
-
-Technological systems therefore extend the continuity-preserving capacities of normative and institutional organisation.
-
-The broader continuity sequence becomes:
-
-```text
-Communication
-        ↓
-Social Norms
-        ↓
-Symbolic Coordination
-        ↓
-Culture
-        ↓
-Institutions
-        ↓
-Technology
-```
-
-APS therefore treats norms as one of the key organisational foundations from which increasingly durable forms of social continuity emerge.
-
----
-
-## Normative Change and Social Transformation
-
-Norms contribute to stability, but they are not fixed.
-
-Social systems continually encounter changing circumstances.
+Resources fluctuate.
 
 Environmental conditions shift.
 
-Technologies transform interaction.
+Yet many forms of social organisation continue.
 
-New forms of communication emerge.
+APS explains this persistence through continuity architecture.
 
-Populations expand, contract, and reorganise.
+Norms are among the most important components of that architecture.
 
-Normative organisation must therefore remain capable of adaptation.
+By stabilising expectations, norms allow patterns of coordination to remain reproducible across generations.
 
-APS rejects the view that norms are static structures imposed upon otherwise dynamic systems.
+They create organisational memory within social systems.
 
-Norms persist only through ongoing enactment.
+This memory is not necessarily stored in explicit rules.
 
-They must be reproduced through participation in social activity.
+It often exists in practices, habits, traditions, expectations, and shared forms of activity.
 
-As patterns of interaction change, normative expectations may also change.
+Normative organisation therefore contributes directly to historical continuity.
 
-This creates an important tension.
+Social systems do not merely persist through physical structures.
 
-Norms must be sufficiently stable to support continuity.
+They persist through the reproduction of coordinated relationships.
 
-Yet they must also remain sufficiently flexible to accommodate transformation.
+Norms play a central role in that reproduction.
 
-APS interprets this tension as a characteristic feature of organised persistence.
+For this reason, APS treats norms as one of the principal mechanisms through which organised persistence becomes socially distributed.
 
-Living systems maintain continuity through change rather than through rigidity.
+Normative organisation allows continuity to extend beyond individual organisms into larger systems of coordinated activity capable of enduring through time.
 
-The same principle applies to social organisation.
+## Norms, Symbolic Coordination, and Culture
 
-Successful normative systems are neither perfectly fixed nor endlessly fluid.
+Norms do not operate in isolation.
 
-They preserve enough stability to sustain coordination while remaining capable of modification when circumstances change.
+As social systems become more complex, normative organisation becomes increasingly intertwined with communication, symbolic coordination, and culture.
 
-Normative change may occur through:
+Communication allows expectations to be expressed, negotiated, reinforced, and transmitted.
 
-- gradual shifts in practice,
-- technological innovation,
-- cultural transformation,
-- institutional reform,
-- changes in collective evaluation,
-- new forms of symbolic coordination.
+Without communication, norms would remain local and unstable.
 
-When such changes become stabilised, new normative structures can emerge.
+Through communicative interaction, normative expectations become shared across populations and generations.
 
-Social continuity is therefore not simple repetition.
+This process becomes increasingly powerful with the emergence of symbolic systems.
 
-It is the ongoing reproduction and transformation of organised activity across time.
+Symbols allow meanings, expectations, and forms of coordination to become detached from immediate circumstances and preserved across time.
 
-Norms play a central role in mediating this balance between persistence and change.
+Language provides the most familiar example.
 
----
+Through language, social systems can stabilise increasingly sophisticated forms of normative organisation.
 
-## What APS Changes in the Study of Norms
+Rules can be articulated.
 
-APS does not reject existing theories of norms.
+Practices can be described.
 
-Instead, it situates them within a broader explanatory framework.
+Obligations can be transmitted.
 
-Traditional approaches often focus upon:
+Collective memory can be preserved.
 
-- beliefs,
-- values,
-- obligations,
-- conventions,
-- social rules.
+Symbolic coordination therefore dramatically expands the continuity-preserving capacity of normative organisation.
 
-APS accepts the importance of these phenomena but asks a different question.
+Norms help regulate how symbols are interpreted and used.
 
-How do normative structures contribute to organised persistence?
+At the same time, symbolic systems help preserve and reproduce normative expectations.
 
-This shift produces several important changes.
+The two become mutually reinforcing.
 
-First, norms are interpreted functionally rather than representationally.
+This relationship forms a bridge between norms and culture.
 
-The central question becomes what norms do rather than what they mean.
+APS interprets culture as a socially distributed form of organised persistence through which practices, meanings, skills, expectations, and forms of knowledge are maintained across generations.
 
-Second, norms are analysed within systems of coordination.
+Norms play a central role in this process.
 
-Their significance derives from the role they play in organising activity across interacting organisms.
+Cultural continuity depends upon normative organisation.
 
-Third, norms are situated within continuity architecture.
+Without norms, cultural practices would become difficult to reproduce reliably.
 
-They are understood as mechanisms through which coordinated activity becomes reproducible across time.
+Skills would be transmitted inconsistently.
 
-Fourth, norms are linked to evaluation.
+Shared expectations would fragment.
 
-Normative organisation emerges from the capacity of living systems to differentiate between conditions that support or undermine persistence.
+Collective memory would become unstable.
 
-Finally, norms become integrated with broader social processes including communication, symbolic coordination, culture, institutions, and technology.
+Norms therefore help transform temporary coordination into historically persistent organisation.
 
-APS therefore transforms norms from a specialised topic within social theory into a central component of social organisation itself.
+Communication enables coordination.
 
----
+Norms stabilise coordination.
 
-## Conclusion: Norms as Continuity-Preserving Coordination Constraints
+Symbolic systems preserve coordination.
 
-The significance of APS for understanding norms lies in its shift from rules to organisation.
+Culture transmits coordination.
 
-Norms are not merely conventions.
+Together these processes create increasingly durable forms of social continuity.
 
-They are not merely beliefs.
+[[box:aps-box-social-continuity]]
 
-They are not merely obligations.
+## Norms, Institutions, and Technology
 
-They are continuity-preserving coordination constraints that help organise collective activity across time.
+As continuity architectures become more complex, normative organisation becomes increasingly formalised.
 
-Through norms:
+This process gives rise to institutions.
 
-- expectations become stabilised,
-- coordination becomes reliable,
-- communication becomes reproducible,
-- symbolic systems become meaningful,
-- culture becomes transmissible,
-- institutions become durable,
-- technology becomes cumulative.
+Institutions can be understood as stabilised systems of norms organised around particular domains of collective activity.
 
-Norms therefore occupy a pivotal position within the APS account of social organisation.
+Educational institutions stabilise learning.
 
-They connect evaluation to coordination.
+Scientific institutions stabilise inquiry.
 
-They connect communication to culture.
+Legal institutions stabilise expectations concerning conduct and dispute resolution.
 
-They connect individual activity to historically extended systems of collective continuity.
+Economic institutions stabilise patterns of production, exchange, and resource allocation.
 
-APS consequently interprets norms not as secondary features of social life but as fundamental mechanisms of organised persistence operating within socially distributed systems.
+Institutions therefore do not replace norms.
 
-Social norms illustrate a central APS principle:
+They formalise them.
 
-> Social continuity depends upon normative organisation.
+Institutional organisation allows normative expectations to become more durable, more scalable, and more resistant to disruption.
 
-Through norms, coordinated activity becomes sufficiently stable to persist, adapt, and reproduce itself across populations, institutions, and generations.
+This increased stability contributes to organised persistence at larger social scales.
 
----
+Institutions make it possible for coordinated activity to continue despite turnover among individual participants.
 
-## Key Points
+They preserve organisational continuity across decades, centuries, and sometimes even longer periods.
 
-- Social norms are continuity-preserving coordination constraints.
-- Norms stabilise expectations and reduce uncertainty within social systems.
-- Normative organisation emerges from evaluative activity and biological normativity.
-- Norms contribute directly to organised persistence and social continuity.
-- Symbolic coordination depends upon normative expectations concerning meaning and interpretation.
-- Culture preserves continuity through socially stabilised normative organisation.
-- Institutions formalise and reproduce normative constraints across larger populations and longer timescales.
-- Technology extends normative and institutional organisation through the externalisation of organisational capacities.
-- Norms balance continuity and adaptability within changing social systems.
-- APS reframes norms as organisational mechanisms rather than merely beliefs, rules, or conventions.
+Technology further extends this process.
 
----
+APS interprets technology not merely as tools or artefacts but as organised structures that extend the capacity for continuity-preserving activity.
 
-### Recommended Visual Placement
+Technologies preserve information.
 
-```markdown
-## Norms as Coordination Constraints
+They support communication.
 
-![Social Coordination](/assets/images/social/social-coordination.png)
+They coordinate action across space and time.
 
-*Social norms stabilise patterns of coordination that contribute to socially distributed organised persistence.*
-```
+They help stabilise social expectations and organisational practices.
 
----
+Technological systems often embody normative assumptions concerning how activities should be performed, how information should be organised, and how coordination should occur.
 
-### Recommended Box Placement
+In this sense, technology frequently functions as materialised normativity.
 
-Immediately after:
+Norms shape technologies.
 
-```markdown
-## Beyond Rules and Expectations
-```
+Technologies reinforce norms.
 
-Insert:
+Together they contribute to increasingly sophisticated forms of socially distributed organised persistence.
 
-```markdown
-[[box:aps-box-norms-are-not-rules]]
-```
+APS therefore views norms, institutions, and technology as successive developments within a broader continuity architecture.
 
-This is the most natural location because the box reinforces the article's central conceptual shift before the discussion of coordination constraints begins.
+Each extends the capacity of social systems to preserve coordinated activity through time.
+
+## Conclusion: Normativity and Socially Distributed Organised Persistence
+
+Norms are often treated as rules, conventions, obligations, or shared expectations.
+
+APS accepts that norms frequently take these forms but argues that their deeper significance lies elsewhere.
+
+Norms are continuity-preserving coordination constraints.
+
+They emerge from evaluative activity.
+
+They stabilise expectations.
+
+They reduce uncertainty.
+
+They support coordinated activity.
+
+They contribute directly to organised persistence.
+
+Viewed through APS, norms are neither arbitrary conventions nor merely external restrictions on behaviour.
+
+They are organisational structures through which social systems preserve continuity across time.
+
+This perspective reveals the deeper relationship connecting evaluation, normativity, communication, symbolic coordination, culture, institutions, and technology.
+
+Each represents a different level within a broader continuity architecture.
+
+Evaluation generates normativity.
+
+Normativity stabilises coordination.
+
+Coordination supports continuity.
+
+Continuity enables culture.
+
+Culture supports institutions.
+
+Institutions and technology extend continuity across larger scales and longer timescales.
+
+APS therefore reframes norms as one of the foundational mechanisms through which organised persistence becomes socially distributed.
+
+Social systems persist not simply because individuals act.
+
+They persist because coordination becomes organised, stabilised, reproduced, and transmitted across time.
+
+Norms play a central role in that process.
+
+**Social norms stabilise patterns of coordination that contribute to socially distributed organised persistence.**
