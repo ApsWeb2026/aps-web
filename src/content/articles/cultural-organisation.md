@@ -211,8 +211,6 @@ Culture persists because participation in cultural systems continually reproduce
   </p>
 </div>
 
-[[box:aps-box-culture-is-not-a-collection-of-ideas]]
-
 APS therefore interprets culture not primarily as a repository of beliefs or traditions but as an organisational system through which continuity is preserved, reproduced, and transformed across time.
 
 ## Cultural Organisation and Social Learning
