@@ -64,7 +64,7 @@ relatedArticles:
 
 Living systems rarely persist in isolation.
 
-Across the biological world, organisms coordinate activities, modify one another's behaviour, share resources, exchange signals, construct environments, and participate in relationships that extend beyond the boundaries of individual bodies. From microbial communities and insect colonies to mammalian groups and human societies, persistence frequently depends upon forms of organisation that involve multiple interacting organisms.
+Across the biological world, organisms coordinate activities, modify one another's behaviour, share resources, exchange signals, construct environments, and participate in relationships that extend beyond the boundaries of individual bodies. From microbial communities and insect colonies to mammalian groups and human societies, persistence frequently depends upon forms of organisation involving multiple interacting organisms.
 
 These forms of organisation are often described using concepts such as cooperation, communication, culture, institutions, or society. While each captures important aspects of social life, they are frequently treated as distinct domains requiring separate explanatory principles.
 
@@ -72,13 +72,15 @@ APS approaches the problem differently.
 
 Rather than beginning with society, culture, or institutions, APS begins with the organisational requirements of living systems themselves. Organisms must continually maintain viability through coordinated activity. When such coordination extends across multiple organisms, new forms of organised persistence become possible.
 
-Social organisation is therefore not an independent domain added to biology. It is a continuation of viability-oriented organisation across interacting organisms.
+Social organisation is therefore not an independent domain added to biology.
+
+It is a continuation of viability-oriented organisation across interacting organisms.
 
 The central claim of APS is simple:
 
 > Social organisation is coordinated organised persistence.
 
-Communication, norms, culture, institutions, and technology are understood as progressively stabilised forms of coordination that support continuity across increasingly large spatial, temporal, and organisational scales.
+Communication, norms, culture, institutions, and technology are progressively stabilised forms of coordination that support continuity across increasingly large spatial, temporal, and organisational scales.
 
 Understanding social life therefore begins not with abstract social structures but with the organisational processes through which living systems coordinate their activities and sustain persistence together.
 
@@ -90,7 +92,7 @@ Resources may be unevenly distributed. Environmental conditions may fluctuate. P
 
 Coordination allows organisms to address these challenges collectively.
 
-By coordinating activities, organisms can exploit resources more effectively, distribute tasks, share information, reduce risks, construct environments, and generate forms of stability unavailable to isolated individuals.
+By coordinating activities, organisms can exploit resources more effectively, distribute tasks, share information, reduce risks, construct environments, and generate forms of stability unavailable to isolated individuals. Coordination creates opportunities for forms of organised persistence that exceed what any organism could reliably achieve in isolation.
 
 Social organisation therefore emerges because coordination can enhance the persistence of participating organisms.
 
@@ -102,23 +104,23 @@ APS therefore explains social organisation not in terms of idealised cooperation
 
 Coordination is the process through which multiple organisms organise activities in relation to one another.
 
-This organisation may be simple or complex.
+This organisation may be simple or highly complex. At one extreme, coordination may involve temporary behavioural adjustments between interacting organisms. At the other, it may involve structured systems of communication, shared practices, institutional arrangements, and technological infrastructures spanning entire populations.
 
-At one extreme, coordination may involve temporary behavioural adjustments between interacting organisms. At the other, it may involve highly structured systems of communication, shared practices, institutional arrangements, and technological infrastructures.
+The complexity varies enormously.
 
-The complexity of coordination varies enormously, but its organisational role remains consistent.
+The organisational role remains remarkably consistent.
 
-Coordination reduces uncertainty between interacting organisms.
+Coordination reduces uncertainty between interacting organisms. It stabilises expectations. It allows activities to become mutually supportive. It creates opportunities for forms of persistence that would otherwise be difficult or impossible to achieve.
 
-Coordination stabilises expectations.
+For APS, coordination therefore occupies a foundational position within social explanation.
 
-Coordination allows activities to become mutually supportive.
+Just as process is fundamental to biological organisation, coordination is fundamental to social organisation.
 
-Coordination creates opportunities for forms of persistence that would otherwise be difficult or impossible to achieve.
+Social systems do not arise because organisms happen to belong to groups. They arise because activities become coordinated in ways that support organised persistence across time.
 
-For APS, coordination therefore occupies a foundational position within social explanation. Just as process is fundamental to biological organisation, coordination is fundamental to social organisation.
+Coordination is therefore not one component of social organisation among others.
 
-Social systems do not arise because organisms belong to groups. They arise because activities become coordinated in ways that support organised persistence.
+It is the process through which social organisation becomes possible.
 
 ## Social Organisation as Coordinated Organised Persistence
 
@@ -134,9 +136,7 @@ The central question is:
 
 *How is coordinated persistence achieved and maintained?*
 
-From this perspective, social organisation consists of continuity-preserving relationships among interacting organisms.
-
-These relationships generate constraints that shape behaviour, stabilise expectations, regulate interactions, and support collective forms of activity.
+From this perspective, social organisation consists of continuity-preserving relationships among interacting organisms. These relationships generate constraints that shape behaviour, stabilise expectations, regulate interactions, and support collective forms of activity.
 
 Social organisation therefore functions as a continuity architecture operating across multiple organisms.
 
@@ -148,21 +148,48 @@ Social systems emerge because viable organisms become linked through relationshi
 
 APS therefore treats social organisation not as a separate ontological domain but as an extension of viability-oriented organisation into the social sphere.
 
+<div class="aps-diagram">
+  <a href="/assets/diagrams/social-emergence.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/social-emergence.png"
+      alt="Social organisation emerging when coordination among interacting organisms contributes to organised persistence across time and scale"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Social Organisation as Coordinated Organised Persistence.</strong>
+    Social organisation emerges when interactions among organisms become sufficiently coordinated to contribute to continuity across populations and through time. Organised persistence remains the explanatory foundation, while coordination provides the mechanism through which continuity becomes socially distributed.
+  </p>
+</div>
+
+This perspective avoids two common errors.
+
+The first is reducing social organisation to the behaviour of isolated individuals.
+
+The second is treating social systems as independent entities detached from the organisms that sustain them.
+
+APS instead focuses on the continuity-preserving relationships through which coordination becomes organised across multiple interacting agents.
+
+Social organisation is therefore best understood as coordinated organised persistence.
+
 ## Communication and Social Coordination
 
 Coordination requires mechanisms through which organisms become responsive to one another.
 
 Communication is one such mechanism.
 
-In conventional accounts, communication is often understood primarily as the transmission of information between individuals. APS adopts a broader perspective. Communication is significant not merely because information is exchanged, but because communication enables the coordination of activity.
+In conventional accounts, communication is often understood primarily as the transmission of information between individuals. APS adopts a broader perspective. Communication is significant not merely because information is exchanged but because communication enables the coordination of activity.
 
 A signal, gesture, vocalisation, chemical cue, behavioural display, or symbolic expression becomes socially meaningful when it contributes to the regulation of interactions among organisms.
 
 Communication therefore functions as a coordination mechanism.
 
-Its biological significance lies not primarily in the content of messages but in its contribution to organised persistence.
+Its biological significance lies not primarily in the content of messages but in its contribution to organised persistence. Communication helps align activity, stabilise expectations, reduce uncertainty, and facilitate forms of coordination that support continuity through time.
 
-This perspective helps explain why communication appears throughout the living world. Communication is not unique to human language or symbolic reasoning. Organisms routinely modify one another's behaviour through signalling systems that contribute to reproduction, resource acquisition, environmental regulation, defence, development, and collective activity.
+This perspective helps explain why communication appears throughout the living world.
+
+Communication is not unique to human language or symbolic reasoning. Organisms routinely modify one another's behaviour through signalling systems that contribute to reproduction, resource acquisition, environmental regulation, defence, development, and collective activity.
 
 Human communication represents a highly elaborated form of this more general organisational process.
 
@@ -174,53 +201,43 @@ APS therefore treats communication as a specialised mechanism through which soci
 
 As coordination becomes more stable, recurring patterns of interaction begin to emerge.
 
-Some behaviours become expected.
-
-Some actions become encouraged.
-
-Others become discouraged or prohibited.
-
-These stabilising influences function as social norms.
+Some behaviours become expected. Some actions become encouraged. Others become discouraged or prohibited. Over time, these stabilising influences help make interactions more predictable and more reliable. Within APS, these influences are understood as social norms.
 
 APS interprets norms as coordination constraints.
 
-Just as biological constraints channel processes within organisms, social norms channel interactions among organisms. Norms reduce uncertainty, stabilise expectations, and increase the reliability of coordinated activity.
+Just as biological constraints channel processes within organisms, social norms channel interactions among organisms. Norms reduce uncertainty, stabilise expectations, and increase the reliability of coordinated activity. They help ensure that organisms can participate in collective forms of behaviour without continually renegotiating every interaction.
 
-Norms therefore contribute to organised persistence.
+Norms therefore contribute directly to organised persistence.
 
-Importantly, social norms are not entirely separate from biological normativity.
-
-Biological normativity emerges from the organisational requirements of viability. Social normativity emerges from the organisational requirements of coordinated viability.
-
-In both cases, behaviours become significant because they affect the continuation of organised activity.
+Importantly, social norms are not entirely separate from biological normativity. Biological normativity emerges from the organisational requirements of viability. Social normativity emerges from the organisational requirements of coordinated viability. In both cases, behaviours become significant because they influence the continuation of organised activity.
 
 Social norms therefore extend endogenous normativity into the social domain.
 
-This explains why norms often persist even when they impose short-term costs on particular individuals. Their significance frequently derives from contributions to larger patterns of coordination that support social continuity over longer timescales.
+This perspective helps explain why norms often persist even when they impose short-term costs on particular individuals. Their significance frequently derives from contributions to larger patterns of coordination that support social continuity over longer timescales.
 
-Norms should therefore be understood not merely as rules but as organisational mechanisms that stabilise social activity.
+Norms should therefore be understood not merely as rules but as organisational mechanisms that stabilise coordinated activity.
 
 [[box:aps-box-norms-are-coordination-constraints]]
+
+Communication enables coordination.
+
+Norms stabilise coordination.
+
+Together they create the organisational foundations upon which more sophisticated forms of social continuity can emerge.
 
 ## The Emergence of Social Continuity Architecture
 
 Communication and norms allow coordination to become increasingly stable through time.
 
-As stability increases, social organisation begins to exhibit forms of continuity that extend beyond particular interactions or individual organisms.
-
-Repeated patterns of coordination become embedded within collective practices.
-
-Shared expectations become reinforced across generations.
-
-Behavioural regularities become increasingly self-maintaining.
+As this stability increases, social organisation begins to exhibit forms of continuity that extend beyond particular interactions or individual organisms. Repeated patterns of coordination become embedded within collective practices. Shared expectations become reinforced across generations. Behavioural regularities become increasingly self-maintaining.
 
 At this point, social organisation begins to function as a continuity architecture.
 
-The persistence of the social system no longer depends entirely upon the activities of particular individuals. Instead, continuity becomes distributed across networks of relationships, practices, constraints, and shared forms of activity.
+The persistence of the social system no longer depends entirely upon the activities of particular individuals. Instead, continuity becomes distributed across networks of relationships, practices, constraints, and shared forms of activity. Social organisation acquires the capacity to preserve and reproduce itself despite continual turnover among participants.
 
 This transition represents one of the most important developments in social evolution.
 
-Organised persistence becomes increasingly decoupled from individual organisms and increasingly distributed across social structures.
+Organised persistence becomes increasingly decoupled from particular individuals and increasingly distributed across social structures. Continuity can now operate across larger populations and longer timescales than direct interaction alone would permit.
 
 The result is the emergence of higher-order forms of organisation that possess their own patterns of continuity while remaining dependent upon the organisms that sustain them.
 
@@ -232,29 +249,50 @@ Each allows social organisation to persist beyond the immediate circumstances of
 
 Each contributes to the stabilisation of collective forms of activity across increasingly large scales.
 
+<div class="aps-diagram">
+  <a href="/assets/diagrams/social-coordination.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/social-coordination.png"
+      alt="Communication enabling coordination, norms stabilising expectations, and social continuity emerging from increasingly organised patterns of interaction"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>The Emergence of Social Continuity.</strong>
+    Communication enables coordination and norms stabilise expectations. As these processes become increasingly organised through time, continuity becomes distributed across relationships, practices, and shared forms of activity, creating the foundations for culture, institutions, and technology.
+  </p>
+</div>
+
+The emergence of social continuity architecture marks a major transition within the APS account of social life.
+
+Coordination is no longer merely momentary.
+
+It becomes historically persistent.
+
 ## From Coordination to Culture
 
 The transition from coordination to culture occurs when patterns of social organisation become sufficiently stable to be transmitted, maintained, and modified across generations.
 
-Culture is therefore not merely a collection of ideas, beliefs, or traditions.
+Culture is therefore not merely a collection of ideas, beliefs, customs, or traditions.
 
 Within APS, culture is understood as a socially distributed form of organised persistence.
 
-Cultural systems preserve behavioural practices, symbolic structures, social expectations, and accumulated forms of knowledge that contribute to continuity through time.
+Cultural systems preserve behavioural practices, symbolic structures, social expectations, accumulated forms of knowledge, and inherited modes of coordination that contribute to continuity through time. Through culture, organisational resources become available to individuals who did not originally create them.
 
-These systems allow organisms to inherit organisational resources that extend beyond biological inheritance alone.
+This dramatically expands the continuity architecture available to social organisms.
 
-Culture therefore expands the continuity architecture available to social organisms.
+Instead of beginning each generation anew, organisms inherit partially stabilised forms of coordination that support persistence across longer temporal scales. Knowledge accumulates. Practices persist. Meanings become shared. Collective memory develops.
 
-Instead of beginning each generation anew, organisms inherit partially stabilised forms of coordination that support persistence across longer temporal scales.
+Culture therefore represents one of the most important extensions of organised persistence beyond the immediate lifespan of individuals.
 
-Culture represents the first major extension of organised persistence beyond the immediate lifespan of individuals.
+It allows continuity to become historically distributed.
 
-It is therefore one of the most important developments within the social layer of APS.
+[[box:aps-box-social-continuity]]
 
-The emergence of culture also prepares the way for more specialised forms of social continuity architecture, including institutions and technology.
+Culture is not merely something that societies possess.
 
-These developments extend coordination still further, allowing organised persistence to become increasingly distributed across populations, environments, and historical time.
+It is one of the principal mechanisms through which social organisation preserves itself through time.
 
 ## Institutions as Distributed Constraints
 
@@ -262,7 +300,7 @@ As social organisation becomes increasingly stable, some patterns of coordinatio
 
 These enduring structures are institutions.
 
-Institutions are often described as organisations, rules, conventions, or systems of governance. While these descriptions capture important aspects of institutional life, APS interprets institutions more fundamentally as distributed constraint systems that stabilise social coordination across time.
+Institutions are often described as organisations, rules, conventions, or systems of governance. While such descriptions capture important aspects of institutional life, APS interprets institutions more fundamentally as distributed constraint systems that stabilise coordination across time.
 
 Institutions reduce uncertainty.
 
@@ -276,11 +314,11 @@ In this sense, institutions perform a role analogous to that performed by constr
 
 Just as biological constraints channel activity within organisms, institutional constraints channel activity within social systems.
 
-Institutions therefore help maintain organised persistence at larger scales than would otherwise be possible.
+Institutions therefore help maintain organised persistence at scales that would otherwise be difficult to achieve.
 
-Importantly, institutions are not external to social organisation. They emerge from ongoing patterns of coordinated activity and remain dependent upon their continual reproduction through social practices.
+Importantly, institutions are not external to social organisation.
 
-Institutions persist because organisms continue to enact, maintain, modify, and reinforce the constraints through which coordination occurs.
+They emerge from ongoing patterns of coordinated activity and remain dependent upon their continual reproduction through social practices. Institutions persist because organisms continue to enact, maintain, modify, and reinforce the constraints through which coordination occurs.
 
 APS therefore understands institutions not as static entities but as dynamically maintained continuity architectures.
 
@@ -290,11 +328,9 @@ APS therefore understands institutions not as static entities but as dynamically
 
 Technology represents a further extension of social organisation.
 
-Conventional accounts often treat technology as a collection of tools or artefacts. APS instead emphasises its organisational role.
+Conventional accounts often treat technology primarily as a collection of tools, artefacts, or technical devices. APS instead emphasises its organisational role. Technologies alter the conditions under which coordination occurs and expand the continuity architectures available to social systems.
 
-Technologies alter the conditions under which coordination occurs.
-
-They store information.
+They store knowledge.
 
 They stabilise practices.
 
@@ -308,57 +344,58 @@ They create new possibilities for cooperation and collective action.
 
 Technology therefore functions as an extension of social continuity architecture.
 
-Many organisational capacities that would otherwise require continual biological or social maintenance can become partially externalised into technological systems.
-
-Writing preserves communication beyond immediate interaction.
-
-Agricultural systems stabilise resource production.
-
-Transportation networks extend coordination across space.
-
-Digital infrastructures extend coordination across both space and time.
+Many organisational capacities that would otherwise require continual biological or social maintenance can become partially externalised into technological systems. Writing preserves communication beyond immediate interaction. Agricultural systems stabilise resource production. Transportation networks extend coordination across space. Digital infrastructures extend coordination across both space and time.
 
 Technology therefore expands the organisational reach of social systems.
 
 It enables forms of persistence, coordination, and collective activity that exceed the capacities of unaided organisms.
 
-APS does not interpret technology as separate from biology or society. Rather, technology becomes part of the broader organisational processes through which viability-oriented systems maintain and extend continuity.
+APS does not interpret technology as separate from biology or society.
+
+Rather, technology becomes part of the broader organisational processes through which viability-oriented systems maintain and extend continuity. Technologies are not external additions to social organisation. They increasingly become components of the continuity architectures through which social systems preserve and reproduce themselves.
 
 [[box:aps-box-technology-extends-organisational-capacity]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/social-continuity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/social-continuity.png"
+      alt="Culture preserving continuity, institutions stabilising continuity, and technology extending continuity across generations and environments"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Social Continuity Architecture.</strong>
+    Communication and norms make coordination possible. Culture preserves continuity, institutions stabilise continuity, and technology extends continuity into the environment. Together these processes allow organised persistence to become socially distributed across populations and through historical time.
+  </p>
+</div>
+
+Technology therefore represents the most environmentally distributed form of social organisation.
+
+Through technological systems, continuity becomes increasingly durable, scalable, and cumulative.
 
 ## Social Organisation Across Scales
 
 Social organisation exists across multiple interacting scales.
 
-Temporary interactions between individuals may persist only briefly.
-
-Families, groups, and communities may persist across generations.
-
-Institutions may endure for centuries.
-
-Cultural traditions may persist for millennia.
-
-Technological systems may reshape entire civilisations.
+Temporary interactions between individuals may persist only briefly. Families, groups, and communities may persist across generations. Institutions may endure for centuries. Cultural traditions may persist for millennia. Technological systems may reshape entire civilisations.
 
 These scales are not independent.
 
-Activities at one scale influence organisation at others.
-
-Individual actions contribute to social practices.
-
-Social practices reinforce institutions.
-
-Institutions shape cultural development.
-
-Technological systems alter patterns of coordination throughout society.
+Activities at one scale influence organisation at others. Individual actions contribute to social practices. Social practices reinforce institutions. Institutions shape cultural development. Technological systems alter patterns of coordination throughout society.
 
 Social organisation therefore exhibits the same multiscale character found throughout biological systems.
 
-Understanding social phenomena requires attention not only to individuals or collectives but to the interactions through which organisation is maintained across scales.
+Understanding social phenomena requires attention not only to individuals or collectives but to the interactions through which organisation is maintained across scales. Explanations focused exclusively on one scale inevitably miss important continuity relationships operating elsewhere in the system.
 
 APS therefore treats scale as an essential dimension of social explanation.
 
 The persistence of social systems depends upon the continual coordination of processes extending across multiple spatial, temporal, and organisational domains.
+
+Social organisation is neither wholly individual nor wholly collective.
+
+It is multiscale organisation sustained through continuity-preserving interactions operating across many levels simultaneously.
 
 ## Why Social Organisation Matters
 
@@ -386,6 +423,18 @@ The social domain is not separate from biological organisation.
 
 It is one of its most significant extensions.
 
+Communication enables coordination.
+
+Norms stabilise coordination.
+
+Culture preserves coordination.
+
+Institutions stabilise coordination.
+
+Technology extends coordination.
+
+Through these continuity architectures, organised persistence becomes socially distributed across populations, generations, institutions, and environments.
+
 ## Where to Go Next
 
 This article provides the conceptual foundation for the APS social layer.
@@ -394,9 +443,19 @@ To explore these ideas further:
 
 - Read **Development and Social Organisation** for the transition from developmental to social forms of organisation.
 - Explore **Communication and Coordination** for a detailed account of how coordinated activity emerges and is maintained.
+- Read **APS and Norms** for the role of normative constraints in social continuity.
+- Explore **Symbolic Coordination** for the emergence of shared symbolic systems.
 - Read **Cultural Organisation** to examine how coordination becomes stabilised across generations.
-- See **Cultural Inheritance** for the relationship between social continuity and evolutionary processes.
-- Explore **Institutions** for a detailed treatment of distributed social constraints.
-- Read **Technology** for an account of how organisational capacities become externalised and extended.
+- Explore **Cultural Inheritance** for the relationship between social continuity and intergenerational transmission.
+- Read **Institutions** for a detailed treatment of distributed social constraints.
+- Explore **Technology** for an account of how organisational capacities become externalised and extended.
 
-Social organisation does not represent a departure from the principles of life. It represents their expansion. As viability-oriented organisms become increasingly coordinated, organised persistence extends beyond individual bodies into networks of relationships, practices, institutions, and technologies. The social world is therefore not separate from biological organisation but one of its most powerful expressions.
+Social organisation does not represent a departure from the principles of life.
+
+It represents their expansion.
+
+As viability-oriented organisms become increasingly coordinated, organised persistence extends beyond individual bodies into networks of relationships, practices, institutions, and technologies.
+
+The social world is therefore not separate from biological organisation.
+
+It is one of its most powerful and historically extended expressions.
