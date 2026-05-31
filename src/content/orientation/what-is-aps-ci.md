@@ -48,8 +48,6 @@ relatedGlossaryTerms:
   - resilience
 ---
 
-# What Is APS?
-
 APS is a conceptual framework for understanding life as:
 
 > viability-oriented organised persistence sustained across time.

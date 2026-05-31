@@ -103,87 +103,60 @@ references:
 
 Living systems do not merely exist alongside one another. They continually influence, regulate, respond to, and coordinate with one another through a wide variety of interactions. Organisms exchange signals, modify behaviour in response to environmental cues, coordinate collective activities, share resources, construct environments, and participate in networks of interaction that extend beyond the capacities of isolated individuals.
 
-These interactions are often described in terms of communication.
+These interactions are often described in terms of communication. Communication occupies a central place in many accounts of behaviour, cognition, social organisation, and language because it appears to provide the means through which organisms influence one another and organise collective activity. Yet despite its importance, communication is frequently understood in ways that obscure its broader biological significance.
 
-Communication occupies a central place in many accounts of social organisation, cognition, language, and behaviour. Yet despite its importance, communication is frequently understood in ways that obscure its broader biological significance. It is often treated primarily as the transmission of information from one individual to another, with communication functioning as a channel through which messages are conveyed between otherwise separate agents.
+A common assumption is that communication primarily involves the transmission of information from one individual to another. On this view, communication functions as a channel through which messages are conveyed between otherwise separate agents. While this perspective has proven enormously useful in engineering, telecommunications, and information theory, APS argues that it captures only part of what communication does in living systems.
 
-APS adopts a different perspective.
+APS adopts a broader organisational perspective. Communication is important not simply because information is transmitted, but because communication enables the coordination of activity among viability-oriented organisms. Signals, gestures, vocalisations, behavioural displays, chemical cues, symbolic systems, and linguistic expressions become biologically meaningful insofar as they contribute to organised persistence.
 
-Communication is important not simply because information is transmitted, but because communication enables the coordination of activity among viability-oriented organisms.
+Communication matters because it helps organisms coordinate activities in ways that support continuity through time. The significance of communication therefore lies not merely in the content of signals but in the organisational role that communicative processes play within living systems.
 
-Signals, gestures, vocalisations, behavioural displays, chemical cues, symbolic systems, and linguistic expressions become biologically meaningful insofar as they contribute to organised persistence. Communication matters because it helps organisms coordinate activities in ways that support continuity through time.
-
-The central claim of this article is therefore:
+The central claim of this article is therefore straightforward:
 
 > Communication is a mechanism of coordination, and coordination is a mechanism of organised persistence.
 
-Understanding communication requires understanding the organisational processes within which communication acquires its significance.
+Understanding communication requires understanding the organisational processes within which communication acquires its significance. APS therefore interprets communication as part of a broader continuity architecture through which living systems regulate interactions, stabilise expectations, and maintain organised forms of activity across time.
 
 ## Why Communication Exists
 
-Organisms continually face challenges that cannot be addressed through isolated activity alone.
+Organisms continually face challenges that cannot be addressed through isolated activity alone. Resources must be located, environmental conditions monitored, threats detected, reproductive activities coordinated, offspring protected, and opportunities for cooperation identified. In many circumstances, the actions of one organism become directly relevant to the viability of another.
 
-Predators must be detected.
+Communication emerges because coordination becomes advantageous under such conditions. Through communication, organisms can influence one another's behaviour in ways that improve the effectiveness, reliability, and flexibility of collective activity. Communication reduces uncertainty between interacting organisms and allows behaviour to become organised around shared conditions, opportunities, and constraints.
 
-Resources must be located.
+This organisational role is evident throughout the living world. Communication is not restricted to human language or complex social systems. Rather, communicative processes occur across a remarkable range of biological contexts.
 
-Reproduction must be coordinated.
+Examples include:
 
-Offspring must often be protected.
+- cellular signalling pathways that coordinate physiological processes
+- chemical signalling among plants
+- pheromonal communication in social insects
+- vocal communication among birds
+- visual, auditory, tactile, and chemical signalling among mammals
+- symbolic communication within human societies
 
-Collective activities must be organised.
+The forms of communication differ enormously, but their organisational significance remains strikingly similar. In each case, communication contributes to the coordination of activity among interacting organisms.
 
-Environmental conditions must be monitored and responded to.
-
-In many cases, the actions of one organism become relevant to the viability of another.
-
-Communication emerges because coordination becomes beneficial under such circumstances.
-
-Through communication, organisms can influence one another's behaviour in ways that improve the effectiveness, reliability, and flexibility of coordinated activity. Communication therefore reduces uncertainty between interacting organisms and allows behaviour to become organised around shared conditions and opportunities.
-
-This organisational role is evident throughout the living world.
-
-Cells communicate through signalling pathways.
-
-Plants communicate through chemical signalling networks.
-
-Social insects coordinate collective activities through pheromonal systems.
-
-Birds use vocalisations to coordinate movement, mating, and territorial behaviour.
-
-Mammals employ visual, auditory, tactile, and chemical signals to regulate social interactions.
-
-Human societies utilise extraordinarily complex symbolic systems to coordinate activities across vast spatial and temporal scales.
-
-The forms of communication differ enormously, but their organisational significance remains remarkably similar.
+APS therefore focuses less on the particular medium through which communication occurs and more on the organisational consequences that communication makes possible. Whether communication occurs through molecules, sounds, gestures, visual displays, or symbolic systems, its importance lies in its contribution to coordinated activity.
 
 Communication contributes to coordination.
 
-Coordination contributes to persistence.
+Coordination contributes to continuity.
 
-APS therefore treats communication as part of the broader continuity architecture through which organised persistence is maintained.
+Continuity contributes to organised persistence.
+
+Communication therefore occupies an important place within the broader APS explanatory architecture. It represents one of the principal mechanisms through which viability-oriented activity becomes coordinated across multiple organisms and multiple scales.
 
 ## Communication Beyond Information Transmission
 
-The most influential modern account of communication emerged from information theory.
+The most influential modern account of communication emerged from information theory. Within this framework, communication is understood primarily as the transmission of information from a sender to a receiver through a channel. This perspective has provided powerful conceptual tools for analysing signals, coding systems, communication networks, and the reduction of uncertainty.
 
-In this framework, communication is understood primarily as the transmission of information from a sender to a receiver through a channel. This perspective has been enormously successful for engineering and telecommunications and has provided powerful conceptual tools for analysing signals, coding systems, and communication networks.
+APS accepts the usefulness of informational approaches while arguing that biological communication cannot be fully understood in informational terms alone.
 
-However, biological communication involves more than the transmission of signals.
+A signal may be transmitted successfully without contributing to coordination. Conversely, communication may contribute to coordination even when the informational content of a signal is difficult to specify precisely. The organisational significance of communication therefore cannot be reduced to information transfer.
 
-A signal may be transmitted successfully without contributing to coordination.
+The question for APS is not simply whether information has been transmitted. The more fundamental question concerns what communicative processes accomplish within living systems.
 
-Conversely, communication may contribute to coordination even when the precise informational content of a signal is difficult to specify.
-
-The organisational significance of communication therefore cannot be reduced to information transfer alone.
-
-APS does not reject informational approaches. Rather, it situates them within a broader explanatory framework.
-
-Information becomes biologically meaningful when it contributes to the regulation of viability-oriented activity.
-
-Communication becomes biologically significant when it contributes to the coordination of interacting organisms.
-
-The explanatory focus therefore shifts.
+Information becomes biologically meaningful when it contributes to the regulation of viability-oriented activity. Communication becomes biologically significant when it contributes to the coordination of interacting organisms. This shift in emphasis changes the explanatory focus.
 
 Instead of asking only:
 
@@ -193,240 +166,212 @@ APS asks:
 
 *How does communication contribute to coordinated organised persistence?*
 
-This shift allows communication to be understood within the broader organisational dynamics of living systems.
+This broader perspective situates informational processes within the organisational dynamics of living systems. Signals matter because they influence activity. Communication matters because it helps organise activity across multiple organisms. Its biological significance therefore lies in its contribution to continuity-preserving forms of coordination.
 
 [[box:aps-box-communication-is-not-information-transfer]]
 
+<div class="aps-diagram">
+  <a href="/assets/diagrams/communication-coordination.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/communication-coordination.png"
+      alt="Communication coordinating activity among organisms and contributing to organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Communication as Coordination.</strong>
+    Communication enables organisms to influence one another's activity in ways that reduce uncertainty, stabilise expectations, and support coordinated forms of organised persistence across biological and social systems.
+  </p>
+</div>
+
+APS therefore reframes communication as an organisational process rather than merely an informational one. Signals, messages, and communicative acts are important because they participate in systems of coordinated activity that contribute to the persistence of living systems.
+
 ## Coordination as Organisational Regulation
 
-Coordination occurs when the activities of multiple organisms become organised in relation to one another.
+Coordination occurs when the activities of multiple organisms become organised in relation to one another. Communication is one of the principal mechanisms through which such organisation becomes possible.
 
-Communication is one of the principal mechanisms through which such organisation occurs.
-
-Signals influence expectations.
-
-Expectations influence behaviour.
-
-Behaviour influences interactions.
-
-Interactions influence the persistence of organisms and social systems.
+Communicative interactions influence expectations. Expectations influence behaviour. Behaviour influences patterns of interaction. These interactions, in turn, affect the viability and persistence of both organisms and the larger systems within which they participate.
 
 Communication therefore participates directly in the regulation of coordinated activity.
 
-This role extends far beyond the exchange of explicit messages.
+This role extends far beyond the exchange of explicit messages. A warning call may coordinate escape behaviour. A mating display may coordinate reproductive activity. A territorial signal may reduce costly conflict. A gesture may coordinate cooperative action. A symbolic expression may stabilise expectations across entire populations.
 
-A warning call may coordinate escape behaviour.
+Although these examples differ greatly in complexity, they perform a similar organisational function. In each case, communication contributes to the alignment of activity among interacting organisms. Communication helps transform potentially disconnected actions into coordinated patterns that become more stable, more predictable, and more effective.
 
-A mating display may coordinate reproductive activity.
+APS therefore interprets communication as a specialised form of organisational regulation operating between organisms rather than solely within them. Just as regulatory processes coordinate activity within individual organisms, communicative processes coordinate activity across multiple organisms.
 
-A territorial signal may reduce costly conflict.
+Communication extends the capacity for viability-oriented regulation beyond individual bodies and into networks of interaction. Through communication, the organisational processes that support persistence become distributed across larger systems of coordinated activity.
 
-A gesture may coordinate cooperative action.
-
-A symbolic expression may stabilise expectations across large populations.
-
-In every case, communication functions as a mechanism through which activity becomes organised across multiple organisms.
-
-APS therefore interprets communication as a specialised form of organisational regulation operating between organisms rather than solely within them.
-
-Communication extends the capacity for viability-oriented regulation beyond individual bodies and into networks of coordinated interaction.
+This perspective helps explain why communication appears so widely throughout biology. Communication is not an accidental feature of social life. It is one of the primary mechanisms through which living systems organise collective activity and maintain continuity across time.
 
 ## Communication and Social Organisation
 
-The emergence of communication transforms the possibilities available to social systems.
+The emergence of communication transforms the possibilities available to social systems. Without communication, coordination remains limited by immediate environmental interactions and local behavioural responses. Organisms may still influence one another, but opportunities for sustained collective organisation remain constrained.
 
-Without communication, coordination remains limited by immediate environmental interactions and local behavioural responses.
+Communication changes this situation by allowing organisms to coordinate activity in more flexible, adaptive, and scalable ways. Through communicative processes, behaviour can become organised around shared expectations, common conditions, and collective opportunities. Activities that would be difficult or impossible for isolated individuals become achievable through coordinated interaction.
 
-With communication, coordination becomes more flexible, adaptive, and scalable.
+This transformation can be observed throughout the living world. Communication allows organisms to influence one another across distance, synchronise collective activities, regulate social relationships, coordinate reproduction, organise resource use, and respond collectively to environmental challenges. As communicative capacities expand, so too does the potential complexity of social organisation.
 
-Organisms can influence one another across distance.
+Communication therefore provides a foundation upon which increasingly sophisticated forms of collective activity can develop. Stable social systems depend upon mechanisms capable of coordinating behaviour among multiple participants. Communication supplies one of the most important of those mechanisms.
 
-Collective activities can become synchronised.
+Norms, culture, institutions, and symbolic systems all depend upon communicative processes that allow coordination to persist through time. Without communication, social continuity would be difficult to establish and even more difficult to maintain.
 
-Social relationships can become stabilised.
+APS therefore rejects the view that communication is a secondary feature added to already-existing social systems. Communication is one of the principal mechanisms through which social organisation becomes possible in the first place. It forms a crucial bridge between biological organisation and socially distributed continuity architecture.
 
-Shared expectations can emerge.
-
-Communication therefore provides the foundation upon which more complex forms of social organisation can develop.
-
-Norms, culture, institutions, and symbolic systems all depend upon communicative processes that allow coordination to persist through time.
-
-Communication should therefore not be understood as a secondary feature added to social organisation.
-
-It is one of the primary mechanisms through which social organisation becomes possible.
-
-APS consequently treats communication as a foundational component of coordinated organised persistence and as a crucial bridge between biological organisation and social continuity architecture.
-
-This completes the foundational half of the article. Part 2 should move from communication itself into:
+Communication enables coordination. Coordination enables social organisation. Social organisation enables increasingly durable forms of organised persistence.
 
 ## Communication and Meaning
 
-## Communication and Semiosis
-
-## Communication Across Scales
-
-## From Communication to Symbolic Coordination
-
-which will create the bridge into the next major article, Symbolic Coordination.
-
-## Communication and Meaning
-
-Communication is often associated with meaning.
-
-Words, gestures, signals, symbols, and behavioural displays appear meaningful because they influence how organisms interpret situations and coordinate their responses. This has led many theories to treat meaning as a property of communicative signals themselves.
+Communication is often associated with meaning. Words, gestures, signals, symbols, and behavioural displays appear meaningful because they influence how organisms interpret situations and coordinate their responses. This has led many theories to treat meaning as a property inherent within communicative signals themselves.
 
 APS adopts a different perspective.
 
-Meaning does not arise simply because a signal exists. A signal becomes meaningful because it participates in organisational processes that affect the persistence of living systems.
+Meaning does not arise simply because a signal exists. A signal becomes meaningful because it participates in organisational processes that affect the persistence of living systems. Meaning is therefore not primarily a property of signals considered in isolation. Rather, it emerges from the role that signals play within viability-oriented activity.
 
-A warning call becomes meaningful because it influences behaviour in ways relevant to viability.
+A warning call becomes meaningful because it influences behaviour in ways relevant to survival. A territorial display becomes meaningful because it regulates interactions among competing organisms. A symbolic expression becomes meaningful because it contributes to coordinated activity within a social system.
 
-A territorial display becomes meaningful because it regulates interactions among competing organisms.
+In each case, meaning emerges from organisational significance rather than from signal structure alone.
 
-A symbolic expression becomes meaningful because it contributes to coordinated activity within a social system.
+Communication therefore does not become important because it contains meaning. Rather, meaning emerges because communication contributes to the coordination of viability-oriented activity. Signals matter because they make a difference to the continuation, regulation, or modification of organised processes.
 
-Meaning therefore emerges from the role communication plays within organised persistence.
+This perspective links communication directly to several central APS concepts. Meaning, semiosis, information, representation, evaluation, and normativity all depend upon the capacity of living systems to distinguish organisationally significant differences from irrelevant ones. Communication provides one of the principal mechanisms through which such distinctions become shared across multiple organisms.
 
-Communication does not become significant because it contains meaning. Rather, meaning emerges because communication contributes to the coordination of viability-oriented activity.
-
-This organisational perspective links communication directly to the APS accounts of semiosis, information, representation, and biological normativity.
-
-Signals matter because they make a difference to the continuation of organised activity.
+Meaning is therefore neither arbitrary nor purely subjective. It emerges from the ways in which communicative processes participate in organised persistence.
 
 ## Communication and Semiosis
 
-Communication is closely related to semiosis.
+Communication is closely related to semiosis. Indeed, many communicative processes can be understood as specialised forms of semiosis operating between organisms.
 
-Semiosis concerns the production, interpretation, and use of signs within living systems. Communication represents one of the most important contexts within which semiosis occurs.
+Semiosis concerns the production, interpretation, and use of signs within living systems. Communication represents one of the most important contexts within which semiosis occurs because communication depends upon organisms responding to signs that indicate conditions relevant to their activity.
 
-Organisms do not merely react mechanically to environmental stimuli. They frequently respond to signs that indicate conditions relevant to their continued viability.
+Organisms do not merely react mechanically to environmental events. They frequently respond to signs that indicate possibilities, constraints, opportunities, or dangers relevant to viability.
 
-Chemical gradients indicate nutrient availability.
+Examples include:
 
-Warning calls indicate danger.
+- chemical gradients indicating nutrient availability
+- warning calls indicating danger
+- courtship displays indicating reproductive opportunity
+- gestures indicating intended action
+- symbols indicating socially shared expectations
 
-Courtship displays indicate reproductive opportunities.
+In each case, organisms respond not simply to physical events but to organisationally significant signs.
 
-Gestures indicate intentions.
+Communication therefore depends upon semiosis. Without the capacity to interpret signs, communicative processes could not coordinate activity. Signals would remain merely physical events rather than functioning as components of organised interaction.
 
-Symbols indicate socially shared expectations.
+At the same time, communication expands the possibilities available to semiosis. As communication systems become more sophisticated, organisms become capable of coordinating activity through increasingly complex sign relations. Shared meanings emerge, expectations stabilise, and collective forms of organisation become possible.
 
-In each case, organisms respond not merely to physical events but to organisationally significant signs.
-
-Communication therefore depends upon semiosis.
-
-At the same time, semiosis frequently becomes socially elaborated through communication.
-
-As communication systems become more complex, organisms become capable of coordinating activities through increasingly sophisticated sign relations. Shared meanings emerge, expectations stabilise, and collective forms of organisation become possible.
-
-APS therefore treats communication and semiosis as complementary processes within the broader continuity architecture of social organisation.
+Communication and semiosis therefore stand in a reciprocal relationship.
 
 Semiosis provides the interpretive dimension of communication.
 
 Communication provides one of the principal mechanisms through which semiosis contributes to coordinated persistence.
 
+APS consequently treats communication and semiosis as complementary processes operating within a broader continuity architecture. Together they allow organisms to organise activity around meaningful distinctions and to coordinate that activity across multiple individuals and multiple scales.
+
+The result is an expansion of the organisational capacities available to living systems. Through communication and semiosis, organisms become capable of constructing increasingly sophisticated forms of coordination that extend beyond immediate interactions and contribute to the persistence of larger social systems.
+
 ## Communication Across Scales
 
-Communication operates across multiple organisational scales.
+Communication operates across multiple organisational scales. At the smallest scales, signalling processes coordinate activity within and between cells. At larger scales, communication regulates interactions among organisms. At still larger scales, communication contributes to the maintenance of social systems, cultural traditions, institutions, and technological infrastructures.
 
-At the smallest scales, signalling processes coordinate activity within and between cells.
+Although the organisational context changes across these scales, the fundamental role of communication remains remarkably consistent. Communication helps organise activity by reducing uncertainty, stabilising expectations, and coordinating responses among interacting components.
 
-At larger scales, communication regulates interactions among organisms.
+This continuity across scales is one reason communication appears so universally throughout the living world. Communication is not restricted to human language, cognition, or culture. Rather, human communication represents a highly elaborated expression of organisational processes that already exist throughout biology.
 
-At still larger scales, communication contributes to the maintenance of social systems, cultural traditions, institutions, and technological infrastructures.
+APS therefore rejects sharp divisions between biological communication and social communication. The transition from cellular signalling to symbolic communication involves increasing complexity rather than a complete change in organisational principle.
 
-The organisational significance of communication changes across these scales, but its fundamental role remains consistent.
+At every scale, communication contributes to the coordination of activity among interacting systems. The mechanisms differ, the forms differ, and the complexity differs, but the underlying organisational logic remains recognisably similar.
 
-Communication reduces uncertainty.
+Communication:
 
-Communication stabilises expectations.
+- reduces uncertainty
+- stabilises expectations
+- enables coordination
+- supports continuity
 
-Communication enables coordination.
+These functions appear repeatedly across biological and social organisation because they contribute directly to organised persistence.
 
-Communication supports continuity.
-
-This multiscale character helps explain why communication appears so universally throughout living systems.
-
-Communication is not restricted to human language, cognition, or culture. Rather, human communication represents a highly elaborated expression of more general organisational processes already present throughout biology.
-
-APS therefore rejects sharp divisions between biological communication and social communication.
-
-Instead, communication is understood as a continuum extending from cellular signalling to symbolic systems, unified by its contribution to organised persistence.
+APS therefore interprets communication as a multiscale phenomenon extending across the entire continuity architecture of life. From signalling molecules to symbolic systems, communication serves as a mechanism through which activity becomes coordinated across increasingly complex forms of organisation.
 
 ## From Communication to Symbolic Coordination
 
-As communication systems become increasingly sophisticated, they permit new forms of coordination.
+As communication systems become increasingly sophisticated, they permit new forms of coordination. Simple signalling systems primarily regulate immediate interactions. More complex communicative systems allow organisms to coordinate activity across extended periods of time, larger populations, and more diverse circumstances.
 
-Simple signalling systems primarily regulate immediate interactions.
+The most important transition occurs when communication becomes symbolic.
 
-More complex communicative systems allow organisms to coordinate activities across extended periods of time, larger populations, and more diverse circumstances.
-
-Symbolic systems represent a particularly important development.
-
-Symbols allow communicative structures to become partially detached from immediate environmental conditions. Organisms can coordinate activities through shared meanings, conventions, narratives, classifications, and abstract representations.
+Symbols allow communicative structures to become partially detached from immediate environmental conditions. Organisms can coordinate activities through shared meanings, conventions, narratives, classifications, and abstract representations. Communication is no longer limited to regulating immediate behaviour. Instead, it becomes capable of organising activities that extend across time, space, and generations.
 
 This dramatically expands the scope of social organisation.
 
-Coordination can persist across generations.
+Through symbolic communication:
 
-Knowledge can accumulate.
+- knowledge can accumulate
+- practices can be preserved
+- expectations can be stabilised
+- institutions can emerge
+- culture can become increasingly complex
+- coordination can persist across generations
 
-Practices can be stabilised.
+Symbolic systems therefore represent a major extension of continuity architecture. Rather than merely coordinating immediate activity, symbolic communication allows coordination itself to become socially preserved, modified, and transmitted through time.
 
-Institutions can emerge.
+<div class="aps-diagram">
+  <a href="/assets/diagrams/symbolic-coordination.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/symbolic-coordination.png"
+      alt="Symbolic coordination extending communication into culture, institutions, and socially distributed continuity"
+      loading="lazy"
+    />
+  </a>
 
-Culture can develop increasingly complex forms.
+  <p class="aps-diagram-caption">
+    <strong>From Communication to Symbolic Coordination.</strong>
+    Symbolic systems allow coordination to persist beyond immediate interactions. Through language, symbols, and shared meanings, social systems preserve knowledge, stabilise expectations, and extend organised persistence across generations.
+  </p>
+</div>
 
-Symbolic communication therefore represents a major extension of continuity architecture.
+[[box:aps-box-symbols-are-mechanisms-of-coordination]]
 
-Rather than merely coordinating immediate activity, symbolic systems allow coordination itself to become socially preserved, modified, and transmitted through time.
+The emergence of symbolic coordination marks one of the most significant transitions in the history of social organisation. It enables forms of organised persistence that extend far beyond the capacities of immediate interaction alone.
 
-The emergence of symbolic coordination marks one of the most significant transitions in the history of social organisation.
-
-It enables forms of organised persistence that extend far beyond the capacities of immediate interaction alone.
-
-For this reason, symbolic coordination occupies a central position within the APS account of culture, institutions, and technology.
+For this reason, symbolic coordination occupies a central position within the APS account of culture, institutions, and technology. It provides the organisational bridge through which communication becomes transformed into socially distributed continuity architecture.
 
 ## Why Communication Matters
 
-Communication is one of the most important mechanisms through which living systems coordinate activity across multiple scales.
+Communication is one of the most important mechanisms through which living systems coordinate activity across multiple scales. It enables organisms to influence one another's behaviour, supports cooperation and competition, facilitates learning and reproduction, and contributes to the organisation of collective activity.
 
-It enables organisms to influence one another's behaviour.
+Its significance, however, extends beyond any particular communicative act. Communication stabilises expectations, reduces uncertainty, and allows coordination to persist beyond immediate interactions. Through communication, organisms become capable of constructing organised relationships that are more durable, flexible, and adaptive than would otherwise be possible.
 
-It supports cooperation, competition, reproduction, learning, environmental modification, and collective action.
+Most importantly, communication contributes directly to organised persistence.
 
-It stabilises expectations and reduces uncertainty.
+APS therefore interprets communication not primarily as the transmission of information but as a mechanism through which viability-oriented organisms coordinate activity in ways that support continuity through time. Information may be transmitted through communication, but transmission alone does not explain its biological significance. Communication matters because it helps organise activity.
 
-It allows coordination to persist beyond immediate interactions.
+This perspective reveals why communication occupies such an important position within the APS framework. Communication extends biological organisation into the social domain. Through communication, coordination becomes possible. Through coordination, social organisation emerges. Through increasingly sophisticated forms of communication, culture, institutions, and technology become possible.
 
-Most importantly, communication contributes to organised persistence.
-
-APS therefore interprets communication not primarily as the transmission of information but as a mechanism through which viability-oriented organisms coordinate activity in ways that support continuity through time.
-
-Communication extends biological organisation into the social domain.
-
-Through communication, coordination becomes possible.
-
-Through coordination, social organisation emerges.
-
-Through increasingly sophisticated forms of communication, culture, institutions, and technology become possible.
-
-Communication is therefore not merely a feature of social life.
-
-It is one of the principal organisational processes through which social continuity architecture is constructed and maintained.
+Communication is therefore not merely a feature of social life. It is one of the principal organisational processes through which social continuity architecture is constructed and maintained.
 
 ## Where to Go Next
 
-Communication provides the foundation for increasingly sophisticated forms of social coordination.
+Communication provides the foundation for increasingly sophisticated forms of social coordination. The concepts developed in this article lead naturally into several other areas of the APS social framework.
 
-To explore these developments further:
+To continue exploring this continuity architecture:
 
-- Read **Social Organisation** for the APS account of coordinated organised persistence.
-- Explore **Social Norms** to understand how coordination becomes stabilised through constraint systems.
-- Read **Symbolic Coordination** to examine the emergence of shared symbolic systems.
-- Explore **Cultural Organisation** for the APS account of socially distributed continuity.
-- See **Cultural Inheritance** for the transmission of coordination across generations.
-- Read **Institutions** and **Technology** to understand how continuity architectures become increasingly stabilised and extended.
+- read **Social Organisation** for the APS account of coordinated organised persistence
+- explore **APS and Norms** to understand how coordination becomes stabilised through normative constraints
+- read **Symbolic Coordination** to examine the emergence of shared symbolic systems
+- explore **Cultural Organisation** for the APS account of socially distributed continuity
+- see **Cultural Inheritance** for the transmission of coordination across generations
+- read **Institutions** and **Technology** to understand how continuity architectures become increasingly stabilised and extended
 
 Communication is not an isolated phenomenon. It is one of the primary mechanisms through which living systems coordinate activity, sustain continuity, and construct increasingly complex forms of organised persistence across biological and social scales.
+
+Within APS, communication therefore occupies a pivotal position between biological organisation and social continuity. It links semiosis to coordination, coordination to social organisation, and social organisation to the broader continuity architectures through which culture, institutions, and technology emerge.
+
+Communication enables coordination.
+
+Coordination enables continuity.
+
+Continuity enables organised persistence.
+
+Seen in this way, communication is not merely the exchange of messages. It is one of the fundamental organisational processes through which living systems construct and maintain enduring forms of collective life.
 

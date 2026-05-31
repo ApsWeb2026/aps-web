@@ -109,92 +109,59 @@ references:
 
 ## Introduction
 
-Communication allows organisms to coordinate activity.
-
-Norms stabilise that coordination.
-
-But neither communication nor norms alone fully explains the emergence of culture, institutions, or the large-scale forms of organisation characteristic of human societies.
+Communication allows organisms to coordinate activity. Norms stabilise that coordination by reducing uncertainty and creating shared expectations. Yet neither communication nor norms alone fully explains the emergence of culture, institutions, or the large-scale forms of organisation characteristic of human societies.
 
 A further development is required.
 
-Coordination must become capable of persisting beyond immediate interactions. Expectations must become transmissible across populations and generations. Meanings must become sufficiently stable to support shared practices among individuals who may never directly encounter one another.
+Coordination must become capable of persisting beyond immediate interactions. Expectations must become transmissible across populations and generations. Meanings must become sufficiently stable to support shared practices among individuals who may never directly encounter one another. Social organisation must acquire the capacity to preserve and reproduce coordinated activity across increasingly large scales of space and time.
 
 This development is symbolic coordination.
 
-APS defines symbolic coordination as the use of shared symbols, meanings, classifications, narratives, and representational systems to organise coordinated activity across space and time.
+APS defines symbolic coordination as the use of shared symbols, meanings, classifications, narratives, and representational systems to organise coordinated activity beyond immediate interactions. Symbolic systems allow organisms to coordinate not only through direct communication but through shared structures of meaning that remain available across multiple situations, populations, and generations.
 
-Symbols allow coordination to become increasingly stable, scalable, and transmissible.
+This dramatically expands the possibilities available to social organisation. Through symbolic systems, expectations can become more stable, practices more reproducible, knowledge more cumulative, and forms of coordination more durable. Social continuity no longer depends solely upon immediate interaction. Instead, continuity can become embedded within shared symbolic frameworks that outlast particular encounters and individual participants.
 
-They permit organisms to coordinate not only through direct interaction but through shared systems of meaning that persist beyond particular encounters.
-
-The central claim of this article is:
+The central claim of this article is therefore:
 
 > Symbols are not primarily representations. They are mechanisms of coordination.
 
-Although symbols may represent aspects of the world, their organisational significance lies in their capacity to support coordinated activity among organisms. Symbolic systems become important because they contribute to organised persistence.
+Although symbols frequently represent aspects of the world, their organisational significance lies in their capacity to support coordinated activity among organisms. Symbols matter because they help organise behaviour, stabilise expectations, preserve practices, and contribute to organised persistence.
 
-APS therefore interprets symbolic coordination as a major extension of social continuity architecture.
+APS therefore interprets symbolic coordination as one of the most important extensions of social continuity architecture. Through symbolic systems, coordination becomes increasingly stable, scalable, transmissible, and historically persistent.
 
 ## Why Symbols Matter
 
-Communication can coordinate behaviour in the immediate present.
+Communication can coordinate behaviour in the immediate present. A warning signal may trigger escape behaviour. A gesture may direct attention. A vocalisation may regulate interaction. Such communicative processes play an essential role in social organisation, but they often remain closely tied to the circumstances in which they occur.
 
-A warning signal may trigger escape.
+Increasingly complex social systems face a different challenge.
 
-A gesture may direct attention.
+Coordination must extend across larger populations, longer timescales, more diverse environments, and more sophisticated forms of activity. Individuals must be able to coordinate actions with people they have never met, respond to expectations established by previous generations, and participate in practices whose origins may be far removed from their immediate circumstances.
 
-A vocalisation may regulate interaction.
+Immediate signalling alone is insufficient for this task.
 
-However, such forms of coordination are often limited by the circumstances in which they occur.
+Symbols help solve this problem. Shared symbolic systems allow organisms to coordinate behaviour through relatively stable structures of meaning. Individuals can orient their activity toward expectations that extend beyond the present moment. Practices can be preserved, knowledge can accumulate, and social organisation can persist despite continual turnover among participants.
 
-The challenge faced by increasingly complex social systems is different.
+Symbols therefore contribute directly to continuity.
 
-Coordination must extend across:
+Their significance lies not merely in what they represent but in what they allow organisms to do together. Symbolic systems provide frameworks within which coordinated activity can be organised, preserved, transmitted, and modified through time.
 
-- larger populations,
-- longer timescales,
-- more diverse environments,
-- more complex forms of activity.
+This perspective shifts attention away from symbols as static representations and toward symbols as active organisational structures. APS therefore explains symbolic systems in terms of their contribution to coordinated organised persistence rather than in terms of representation alone.
 
-Immediate signals alone are insufficient for this task.
-
-Symbols help solve this problem.
-
-Shared symbols allow organisms to coordinate behaviour through relatively stable systems of meaning.
-
-Individuals can act in relation to expectations that extend beyond the immediate situation.
-
-Practices can be preserved.
-
-Knowledge can accumulate.
-
-Social organisation can persist despite continual turnover among participants.
-
-Symbols therefore contribute to continuity.
-
-Their importance lies not merely in what they represent but in what they allow organisms to do together.
-
-APS consequently explains symbolic systems in organisational rather than purely representational terms.
+Symbols matter because they help make continuity possible.
 
 ## From Communication to Symbolic Coordination
 
-Symbolic coordination emerges from processes already present within communication and normativity.
+Symbolic coordination does not emerge suddenly or independently of earlier forms of organisation. It develops from processes already present within communication and normativity.
 
-Communication establishes mechanisms through which organisms influence one another's behaviour.
-
-Norms stabilise expectations concerning how communication should be interpreted and used.
-
-As communicative and normative systems become increasingly stable, certain signs acquire shared meanings that persist across interactions.
+Communication establishes mechanisms through which organisms influence one another's behaviour. Norms stabilise expectations concerning how communication should be interpreted and used. As communicative and normative systems become increasingly stable, certain signs acquire meanings that persist across multiple interactions and multiple contexts.
 
 At this point, coordination becomes symbolic.
 
-A gesture, word, image, ritual, or artefact no longer depends entirely upon immediate circumstances for its significance.
+A gesture, word, image, ritual, artefact, or narrative no longer depends entirely upon immediate circumstances for its significance. Its meaning becomes embedded within a broader system of shared expectations maintained across a community or population.
 
-Its meaning becomes embedded within a broader system of shared expectations.
+Participants therefore coordinate not merely through direct behavioural responses but through common understandings concerning what symbols signify and how they should be used. Individuals can orient their activity toward expectations that exist beyond the immediate interaction itself.
 
-Participants coordinate not merely through direct behavioural responses but through common understandings concerning what symbols signify and how they should be used.
-
-This development dramatically expands the possibilities available to social systems.
+This development dramatically expands the organisational capacities of social systems.
 
 Coordination can occur among individuals separated by time.
 
@@ -202,83 +169,90 @@ Coordination can occur among individuals separated by space.
 
 Coordination can occur among individuals who have never directly interacted.
 
-Symbolic systems therefore allow social organisation to transcend the limits of immediate communication.
+Knowledge can accumulate.
 
-APS interprets this transition as one of the most important developments in the evolution of social organisation.
+Practices can be preserved.
+
+Collective identities can emerge.
+
+Social organisation can become increasingly durable.
+
+Symbolic systems therefore allow social organisation to transcend the limitations of immediate communication. Through symbols, coordination becomes capable of persisting independently of particular interactions while remaining connected to ongoing patterns of collective activity.
+
+APS interprets this transition as one of the most important developments in the evolution of social organisation. It marks the point at which communication becomes capable of generating increasingly stable forms of socially distributed continuity.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/symbolic-coordination.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/symbolic-coordination.png"
+      alt="Symbolic coordination connecting communication and norms to culture, institutions, and technology"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Symbolic Coordination as a Continuity Bridge.</strong>
+    Communication enables coordination and norms stabilise expectations. Symbolic systems preserve and transmit those expectations across larger populations and longer timescales, creating the foundations for culture, institutions, and technology.
+  </p>
+</div>
+
+APS therefore treats symbolic coordination as a major extension of continuity architecture. Through symbols, social systems acquire the capacity to preserve coordinated activity beyond immediate interaction and to construct increasingly durable forms of organised persistence.
 
 ## Symbols as Coordination Devices
 
-Many theories begin by treating symbols as representations.
+Many theories begin by treating symbols as representations. Symbols are understood as standing for objects, events, categories, ideas, or states of affairs. This perspective captures an important aspect of symbolic systems, and APS does not reject the representational capacities of symbols.
 
-Symbols are understood as standing for objects, events, categories, or ideas.
+However, representation alone does not explain why symbols are organisationally significant.
 
-While this perspective captures an important aspect of symbolic systems, APS argues that it does not fully explain why symbols are organisationally significant.
+A symbol may represent something accurately without contributing to coordination. Conversely, a symbol may coordinate activity effectively even when its representational content is ambiguous, contested, or only partially understood. The organisational importance of symbols therefore cannot be reduced to representation alone.
 
-A symbol may represent something accurately without contributing to coordination.
+APS consequently asks a different question.
 
-Conversely, a symbol may coordinate activity effectively even when its representational content is ambiguous, contested, or only partially understood.
-
-The organisational importance of symbols therefore cannot be reduced to representation alone.
-
-APS instead asks:
+Rather than asking only what symbols represent, APS asks:
 
 *What do symbols do within systems of organised persistence?*
 
-The answer is that symbols function as coordination devices.
+The answer is that symbols function as coordination devices. They help stabilise expectations, organise communication, preserve practices, support cooperation, regulate collective behaviour, and maintain forms of activity that would otherwise be difficult to reproduce across time.
 
-They stabilise expectations.
+Symbols therefore contribute directly to organised persistence. Their significance derives not simply from what they mean but from the organisational role they perform within continuity architecture.
 
-They facilitate communication.
+A legal document, a scientific classification, a national flag, a map, a religious ritual, or a mathematical notation system may represent particular things. Yet their enduring social significance lies in their ability to coordinate activity among participants who share a symbolic framework. Symbols help create the conditions under which coordinated action becomes reliable, reproducible, and scalable.
 
-They support cooperation.
+APS therefore interprets symbols as organisational structures embedded within systems of communication, normativity, and social continuity. This perspective links symbolic systems directly to the APS accounts of communication, semiosis, meaning, representation, and organised persistence.
 
-They preserve practices.
-
-They regulate collective behaviour.
-
-They enable shared forms of activity that would otherwise be difficult to sustain.
-
-Symbols therefore contribute directly to organised persistence.
-
-Their significance derives not simply from what they mean but from the role they play within continuity architecture.
-
-This perspective links symbolic systems directly to the APS accounts of communication, normativity, semiosis, and social organisation.
+[[box:aps-box-symbols-are-not-just-representations]]
 
 ## Symbolic Systems and Shared Meaning
 
-Symbols do not operate in isolation.
+Symbols do not operate in isolation. Their significance depends upon participation in larger symbolic systems.
 
-Their significance depends upon participation in larger symbolic systems.
+Languages, classifications, rituals, narratives, legal frameworks, scientific concepts, educational traditions, and cultural practices all consist of interconnected symbolic structures that stabilise shared expectations among participants. Individual symbols derive much of their significance from the broader systems within which they are embedded.
 
-Languages, classifications, rituals, narratives, legal systems, scientific concepts, and cultural traditions all consist of interconnected symbolic structures that stabilise shared expectations.
-
-These systems make coordination increasingly reliable.
-
-Participants need not negotiate every interaction from first principles.
-
-Shared symbolic frameworks provide common reference points through which behaviour can be organised.
+These systems make coordination increasingly reliable. Participants do not need to negotiate every interaction from first principles because symbolic frameworks provide common reference points through which activity can be organised. Shared meanings reduce uncertainty and allow increasingly complex forms of coordination to emerge.
 
 Meaning therefore becomes socially distributed.
 
-It resides not simply within individual minds but within systems of coordinated activity maintained across populations.
+Rather than existing solely within individual minds, meaning becomes embedded within systems of coordinated activity maintained across populations. Shared symbolic frameworks preserve expectations, practices, and forms of interpretation that can be transmitted and reproduced through time.
 
-APS consequently treats symbolic meaning as an organisational achievement rather than merely a cognitive phenomenon.
+APS consequently treats symbolic meaning as an organisational achievement rather than merely a cognitive phenomenon. Meaning persists because symbolic systems contribute to coordinated persistence. The stability of symbolic systems allows social organisation to become increasingly complex while preserving continuity across generations.
 
-Meaning persists because symbolic systems contribute to coordinated persistence.
+This perspective helps explain why symbolic systems play such a central role in human social life. Shared meanings allow individuals to participate in coordinated activities whose scope greatly exceeds the capacities of direct interaction alone. Through symbolic systems, coordination becomes more stable, more scalable, and more historically durable.
 
-The stability of symbolic systems allows social organisation to become increasingly complex, creating the foundations upon which culture, institutions, and technology can emerge.
+Communication allows meanings to emerge. Symbolic systems allow meanings to persist.
+
+The result is a dramatic expansion of continuity architecture.
 
 ## Symbolic Coordination Across Scales
 
-Symbolic coordination operates across multiple organisational scales.
+One of the most remarkable features of symbolic coordination is its capacity to operate across multiple organisational scales.
 
-At relatively small scales, symbols help coordinate interactions among individuals and groups.
+At relatively small scales, symbols help coordinate interactions among individuals and groups. Shared gestures, words, and conventions make local forms of cooperation more reliable and more predictable. Participants can orient their behaviour toward common expectations and coordinate activities with greater efficiency.
 
-At larger scales, symbolic systems support the maintenance of communities, institutions, and cultural traditions.
+At larger scales, symbolic systems support the maintenance of communities, organisations, institutions, and cultural traditions. Shared symbolic frameworks allow individuals to participate in coordinated activities even when they have never directly encountered one another.
 
-At still larger scales, symbolic systems can coordinate activities across entire societies and historical periods.
+At still larger scales, symbolic systems can coordinate activity across entire societies and historical periods. Laws, educational systems, scientific traditions, economic institutions, religious systems, and technological infrastructures all depend upon symbolic coordination operating across vast populations and extended timescales.
 
-This multiscale character is one of the most remarkable features of symbolic organisation.
+The organisational reach of symbolic systems therefore greatly exceeds that of immediate communication alone.
 
 A shared symbol may influence a single interaction.
 
@@ -288,43 +262,25 @@ A written text may shape behaviour centuries after its creation.
 
 A scientific concept may coordinate activities across global populations.
 
-The organisational reach of symbolic systems therefore greatly exceeds that of immediate communication alone.
+This multiscale character explains why symbolic coordination occupies such a central position within APS social theory. Through symbols, coordination becomes increasingly detached from particular individuals while remaining connected to ongoing systems of organised activity.
 
-Symbols allow coordination to become increasingly detached from particular individuals while remaining connected to systems of organised activity.
+APS therefore interprets symbolic coordination as a major expansion of continuity architecture. Through symbols, coordinated activity becomes capable of operating across scales that would otherwise be inaccessible to direct interaction alone.
 
-APS consequently interprets symbolic coordination as a major expansion of continuity architecture.
-
-Through symbols, coordination becomes capable of operating across scales that would otherwise be inaccessible to direct interaction.
+The result is the emergence of increasingly durable forms of socially distributed organised persistence.
 
 ## Symbolic Coordination and Culture
 
 Culture emerges when symbolic coordination becomes sufficiently stable to persist across generations.
 
-Communication allows organisms to coordinate.
+Communication allows organisms to coordinate activity. Norms stabilise expectations concerning how that activity should be organised. Symbolic systems preserve and transmit those expectations through time. The result is culture.
 
-Norms stabilise expectations.
+APS therefore interprets culture not primarily as a collection of beliefs, values, customs, or traditions, but as a socially distributed form of organised persistence supported by symbolic coordination. Culture consists of continuity-preserving organisational structures that allow coordinated activity to be reproduced across populations and generations.
 
-Symbolic systems preserve and transmit those expectations through time.
+Symbols play a central role in this process. They allow practices to be preserved, knowledge to accumulate, meanings to remain relatively stable, and behavioural patterns to be transmitted beyond the individuals who originally developed them. Through symbolic systems, continuity becomes increasingly independent of particular participants while remaining dependent upon ongoing social activity.
 
-The result is culture.
+This perspective helps explain why cultural systems can persist despite continual turnover among individuals. Participants enter symbolic frameworks that already exist, learn established forms of coordination, and contribute to their ongoing reproduction and modification. Cultural continuity therefore depends upon the preservation of symbolic coordination rather than the persistence of particular individuals.
 
-APS therefore interprets culture not primarily as a collection of beliefs, values, ideas, or traditions, but as a socially distributed form of organised persistence supported by symbolic coordination.
-
-Symbols allow practices to be reproduced.
-
-Knowledge can accumulate.
-
-Shared meanings can be preserved.
-
-Behavioural patterns can be transmitted.
-
-Collective identities can be maintained.
-
-Culture therefore depends upon symbolic continuity.
-
-Without symbolic systems, social organisation would remain largely confined to immediate interactions and local forms of coordination.
-
-Symbolic coordination extends continuity beyond these limitations and allows social organisation to persist across generations.
+Without symbolic systems, social organisation would remain largely confined to immediate interactions and local forms of coordination. Symbolic coordination extends continuity beyond these limitations and allows organised activity to become historically durable.
 
 Culture is one of the most important consequences of this extension.
 
@@ -332,95 +288,86 @@ Culture is one of the most important consequences of this extension.
 
 Institutions represent a further development of symbolic coordination.
 
-Institutions depend upon shared expectations that remain relatively stable across populations and through time.
+Institutions depend upon shared expectations that remain relatively stable across populations and through time. Such expectations are often maintained through symbolic systems that allow participants to coordinate behaviour in relation to common frameworks of meaning.
 
-Such expectations are often sustained through symbolic systems.
-
-Laws, offices, currencies, records, contracts, classifications, and formal procedures all rely upon symbols that coordinate behaviour among individuals who may never interact directly.
+Laws, offices, currencies, records, contracts, classifications, professional standards, and formal procedures all rely upon symbolic structures that coordinate activity among individuals who may never interact directly. Participants can cooperate because they share symbolic understandings concerning rights, responsibilities, obligations, identities, and expectations.
 
 Institutional organisation therefore depends upon symbolic continuity.
 
-Symbols help stabilise the expectations required for complex systems of coordination.
+Symbols help stabilise the expectations required for complex systems of coordination. They provide organisational reference points that allow activities to be reproduced consistently across time and across changing populations. Institutional persistence becomes possible because symbolic systems preserve the frameworks through which coordinated activity is organised.
 
-Participants can coordinate activities because they share symbolic understandings concerning rights, obligations, responsibilities, identities, and procedures.
+APS consequently interprets institutions not as entities existing independently of social activity but as continuity architectures maintained through ongoing symbolic coordination. Institutions persist because participants continue to reproduce and enact the symbolic systems that organise collective behaviour.
 
-Institutions may therefore be understood as highly stabilised systems of symbolic-normative coordination.
-
-APS interprets institutions not as entities existing independently of social activity but as continuity architectures maintained through ongoing symbolic coordination.
-
-This perspective links institutional organisation directly to communication, norms, and culture within a single explanatory framework.
+This perspective unifies communication, norms, symbolic coordination, culture, and institutions within a single explanatory framework. Each represents a different level within a broader continuity architecture through which organised persistence becomes socially distributed.
 
 ## Symbolic Coordination and Technology
 
 Technology extends symbolic coordination even further.
 
-Many technologies function by preserving, transmitting, transforming, or amplifying symbolic systems.
-
-Writing allows coordination to persist beyond immediate communication.
-
-Maps coordinate activities across space.
-
-Numerical systems coordinate economic exchange.
-
-Scientific notation coordinates inquiry and experimentation.
-
-Digital networks coordinate activities across unprecedented scales.
+Many technologies function by preserving, transmitting, transforming, or amplifying symbolic systems. Writing allows coordination to persist beyond immediate communication. Maps coordinate activity across space. Numerical systems coordinate economic exchange. Scientific notation coordinates inquiry and experimentation. Digital networks coordinate activity across unprecedented scales.
 
 Technology therefore contributes directly to continuity architecture.
 
-It externalises symbolic organisation into material systems that preserve and extend coordination.
+Rather than simply serving as tools, many technologies operate as material supports for symbolic coordination. They externalise symbolic organisation into durable structures capable of preserving expectations, meanings, practices, and forms of knowledge beyond the limits of immediate interaction.
 
-This externalisation greatly expands the organisational capacities available to social systems.
+This externalisation greatly expands the organisational capacities available to social systems. Coordination can persist across larger populations, knowledge can accumulate more effectively, institutions can become more stable, and cultural continuity can extend across longer periods of time.
 
-Coordination can persist across larger populations.
+Technology therefore does not stand outside symbolic organisation. It functions as one of its most important extensions.
 
-Knowledge can accumulate more effectively.
+APS consequently interprets technology not merely as a collection of artefacts but as a major component of continuity architecture through which symbolic coordination becomes increasingly durable, scalable, and historically persistent.
 
-Institutions can become more stable.
+<div class="aps-diagram">
+  <a href="/assets/diagrams/social-continuity.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/social-continuity.png"
+      alt="Symbolic coordination supporting culture, institutions, technology, and socially distributed continuity"
+      loading="lazy"
+    />
+  </a>
 
-Cultural continuity can extend across longer periods of time.
-
-APS therefore interprets technology not merely as a collection of tools but as a major extension of symbolic coordination within the environment.
+  <p class="aps-diagram-caption">
+    <strong>Symbolic Coordination and Social Continuity.</strong>
+    Symbolic systems preserve expectations, meanings, and practices across generations. Through culture, institutions, and technology, symbolic coordination allows organised persistence to operate across increasingly large scales of social organisation.
+  </p>
+</div>
 
 ## Why Symbolic Coordination Matters
 
-Symbolic coordination is one of the most significant developments in the history of social organisation.
-
-It allows coordination to extend beyond immediate interactions.
-
-It stabilises shared meanings.
-
-It supports cultural continuity.
-
-It enables institutional organisation.
-
-It expands through technological systems.
+Symbolic coordination is one of the most significant developments in the history of social organisation. It allows coordination to extend beyond immediate interactions, stabilises shared meanings, supports cultural continuity, enables institutional organisation, and expands through technological systems.
 
 Most importantly, symbolic coordination allows organised persistence to operate across scales far larger than those available through direct communication alone.
 
-APS therefore interprets symbolic systems not primarily as mechanisms of representation but as organisational mechanisms that support coordinated persistence.
+APS therefore interprets symbolic systems not primarily as mechanisms of representation but as organisational mechanisms that support coordinated persistence. Symbols matter because they help organisms coordinate activity through time. They allow expectations to become stable, practices to become reproducible, and continuity to become socially distributed.
 
-Symbols matter because they help organisms coordinate activity through time.
+Through symbolic coordination, social organisation acquires the capacity to persist, accumulate, and transform across generations. Human societies become capable of constructing continuity architectures whose temporal and organisational scope greatly exceeds the capacities of immediate communication.
 
-They allow expectations to become stable.
-
-They allow practices to become reproducible.
-
-They allow continuity to become socially distributed.
-
-Through symbolic coordination, social organisation acquires the capacity to persist, accumulate, and transform across generations.
+Symbols are therefore not merely ways of describing the world. They are mechanisms through which coordinated forms of life become possible.
 
 ## Where to Go Next
 
-Symbolic coordination provides the bridge between norms and culture.
+Symbolic coordination provides the bridge between communication, norms, culture, institutions, and technology. It explains how coordinated activity becomes increasingly stable, transmissible, and historically persistent.
 
-To explore these developments further:
+To continue exploring this continuity architecture:
 
-- Read **Social Organisation** for the APS account of coordinated organised persistence.
-- Explore **Communication and Coordination** for the foundations of social coordination.
-- Read **Social Norms** to understand how expectations become stabilised.
-- Explore **Cultural Organisation** for the APS account of socially distributed continuity.
-- See **Cultural Inheritance** for the transmission of coordinated practices across generations.
-- Read **Institutions** and **Technology** to examine how symbolic coordination becomes increasingly stabilised and extended.
+- read **Social Organisation** for the APS account of coordinated organised persistence
+- explore **Communication and Coordination** for the foundations of social coordination
+- read **APS and Norms** to understand how expectations become stabilised
+- explore **Cultural Organisation** for the APS account of socially distributed continuity
+- see **Cultural Inheritance** for the transmission of coordinated practices across generations
+- read **Institutions** and **Technology** to examine how symbolic coordination becomes increasingly stabilised and extended
 
 Symbolic coordination represents a major expansion of continuity architecture. Through symbols, communication becomes scalable, norms become transmissible, culture becomes possible, institutions become stable, and technology becomes an increasingly powerful extension of organised persistence across space and time.
+
+Communication enables coordination.
+
+Norms stabilise coordination.
+
+Symbols preserve coordination.
+
+Culture reproduces coordination.
+
+Institutions formalise coordination.
+
+Technology extends coordination.
+
+Together these processes create the socially distributed continuity architectures through which organised persistence becomes possible at the largest scales of human social life.
