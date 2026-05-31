@@ -140,7 +140,7 @@ What unites them is not what they prescribe but what they enable. Each contribut
 <div class="aps-diagram">
   <a href="/assets/diagrams/social-coordination.png" target="_blank" rel="noopener">
     <img
-      src="/assets/images/social/social-coordination.png"
+      src="/assets/diagrams/social-coordination.png"
       alt="APS social coordination diagram showing norms stabilising interactions among participants within continuity-preserving social systems"
       loading="lazy"
     />
@@ -201,7 +201,7 @@ Norms limit some possibilities while simultaneously enabling others. They reduce
 <div class="aps-diagram">
   <a href="/assets/diagrams/social-continuity.png" target="_blank" rel="noopener">
     <img
-      src="/assets/images/social/social-continuity.png"
+      src="/assets/diagrams/social-continuity.png"
       alt="APS social continuity diagram showing norms, communication, culture, institutions, and technology contributing to the persistence of coordinated social organisation across time"
       loading="lazy"
     />
