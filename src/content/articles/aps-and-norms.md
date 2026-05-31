@@ -31,7 +31,7 @@ relatedGlossaryTerms:
   - social-organisation
   - symbolic-coordination
   - culture
-  - institution
+  - institutions
   - continuity
   - organised-persistence
   - biological-agency
