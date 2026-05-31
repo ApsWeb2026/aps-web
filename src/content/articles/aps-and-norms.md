@@ -77,8 +77,6 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# APS and Norms: How Social Systems Regulate Organised Persistence
-
 ## Introduction: Why Do Social Norms Exist?
 
 Human societies depend upon remarkably stable forms of coordinated activity. People queue in orderly ways, conversations follow recognisable patterns, scientific communities maintain standards of evidence, and educational institutions reproduce expectations concerning learning and instruction. Across very different domains of social life, patterns of behaviour emerge that are sufficiently stable to be recognised, transmitted, and reproduced over time.
@@ -140,7 +138,7 @@ Although these forms of normative organisation differ greatly in content and com
 What unites them is not what they prescribe but what they enable. Each contributes to the stabilisation of coordinated activity among interacting organisms. Each helps transform transient interactions into repeatable social patterns capable of persisting through time.
 
 <div class="aps-diagram">
-  <a href="/assets/images/social/social-coordination.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/social-coordination.png" target="_blank" rel="noopener">
     <img
       src="/assets/images/social/social-coordination.png"
       alt="APS social coordination diagram showing norms stabilising interactions among participants within continuity-preserving social systems"
@@ -201,7 +199,7 @@ APS therefore rejects the idea that norms are merely restrictions on behaviour. 
 Norms limit some possibilities while simultaneously enabling others. They reduce uncertainty in ways that make cooperation more reliable, communication more effective, and collective projects more sustainable. Social continuity depends upon this balance between constraint and possibility.
 
 <div class="aps-diagram">
-  <a href="/assets/images/social/social-continuity.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/social-continuity.png" target="_blank" rel="noopener">
     <img
       src="/assets/images/social/social-continuity.png"
       alt="APS social continuity diagram showing norms, communication, culture, institutions, and technology contributing to the persistence of coordinated social organisation across time"
