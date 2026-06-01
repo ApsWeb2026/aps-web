@@ -32,12 +32,12 @@ keyPoints:
 
 relatedGlossaryTerms:
   - technology
-  - institution
+  - institutions
   - cultural-inheritance
-  - cultural-organisation
+  - culture
   - symbolic-coordination
   - communication
-  - social-organisation
+  - coordination
   - organised-persistence
   - continuity
   - constraint
@@ -49,10 +49,10 @@ relatedArticles:
   - cultural-inheritance
   - cultural-organisation
   - symbolic-coordination
-  - social-norms
+  - aps-and-norms
   - communication-and-coordination
   - social-organisation
-  - organised-persistence
+  - persistence-organised-continuity-through-time
   - ecological-organisation
   - why-ai-is-not-biological-agency
 

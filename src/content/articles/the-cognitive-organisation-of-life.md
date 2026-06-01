@@ -28,32 +28,34 @@ abstract: >
   emerges from the continuity-preserving organisation of life.
 
 relatedGlossaryTerms:
-  - cognition
-  - evaluation
-  - semiosis
-  - meaning
-  - information
-  - representation
-  - intelligence
-  - consciousness
-  - normativity
-  - viability
-  - persistence
-  - continuity
-  - biological-agency
-  - function
+    - cognition
+    - intelligence
+    - consciousness
+    - evaluation
+    - semiosis
+    - meaning
+    - information
+    - representation
+    - consciousness
+    - normativity
+    - viability
+    - persistence
+    - continuity
+    - biological-agency
+    - function
 
 relatedArticles:
-  - evaluation
-  - semiosis
-  - meaning-in-biology
-  - information-in-biology
-  - representation
-  - cognition
-  - intelligence
-  - consciousness
-  - the-core-structure-of-aps
-  - aps-as-philosophy
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
+   - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-intelligence-an-aps-clarification
+  - consciousness-an-aps-clarification
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - aps-as-philosophy-viability-oriented-reconstruction
+  
   - how-aps-explains-life
   - viability-the-organising-principle-of-biological-persistence
   - persistence-organised-continuity-through-time

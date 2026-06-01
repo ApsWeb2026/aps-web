@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 abstract: >
   Social organisation is not an exception to life's organising principles but
@@ -22,22 +22,11 @@ abstract: >
 
 relatedArticles:
   - social-organisation
-  - communication
-  - coordination
-  - social-norm
   - symbolic-coordination
-  - culture
   - cultural-inheritance
   - institutions
   - technology
-
-relatedBoxes:
-  - aps-box-communication-is-not-information-transfer
-  - aps-box-norms-are-coordination-constraints
-  - aps-box-symbols-are-mechanisms-of-coordination
-  - aps-box-culture-is-organised-persistence-beyond-individuals
-  - aps-box-institutions-are-distributed-constraints
-  - aps-box-technology-extends-organisational-capacity
+  - aps-and-norms
 
 relatedGlossaryTerms:
   - social-organisation

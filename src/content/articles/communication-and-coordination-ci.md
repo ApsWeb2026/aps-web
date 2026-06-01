@@ -43,12 +43,12 @@ relatedGlossaryTerms:
 relatedArticles:
   - social-organisation
   - symbolic-coordination
-  - social-norms
+  - aps-and-norms
   - cultural-organisation
-  - semiosis
-  - information-in-biology
-  - meaning-in-biology
-  - representation
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - information-in-biology-an-aps-clarification
+  - meaning-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
   - function-and-normativity-why-biological-organisation-matters
 
 references:

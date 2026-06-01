@@ -32,13 +32,12 @@ keyPoints:
 
 relatedGlossaryTerms:
   - culture
-  - cultural-organisation
   - cultural-inheritance
   - symbolic-coordination
   - social-norm
   - communication
   - coordination
-  - institution
+  - institutions
   - technology
   - organised-persistence
   - continuity
@@ -47,14 +46,14 @@ relatedGlossaryTerms:
 relatedArticles:
   - social-organisation
   - communication-and-coordination
-  - social-norms
+  - aps-and-norms
   - symbolic-coordination
   - cultural-inheritance
   - institutions
   - technology
-  - semiosis
-  - meaning-in-biology
-  - organised-persistence
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - persistence-organised-continuity-through-time
 
 references:
   - id: dewey1922

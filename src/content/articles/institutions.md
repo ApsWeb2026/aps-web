@@ -30,30 +30,28 @@ keyPoints:
   - Institutions function as major continuity architectures within social systems.
 
 relatedGlossaryTerms:
-  - institution
+  - institutions
   - social-organisation
-  - social-norm
   - symbolic-coordination
   - culture
-  - cultural-organisation
   - cultural-inheritance
   - communication
   - coordination
   - technology
-  - organised-persistence
   - constraint
   - continuity
 
 relatedArticles:
+  - aps-and-norms
   - social-organisation
   - communication-and-coordination
-  - social-norms
+  - persistence-organised-continuity-through-time
   - symbolic-coordination
   - cultural-organisation
   - cultural-inheritance
   - technology
   - function-and-normativity-why-biological-organisation-matters
-  - organised-persistence
+  - persistence-organised-continuity-through-time
   - biological-organisation
 
 references:

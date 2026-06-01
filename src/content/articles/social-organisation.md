@@ -17,9 +17,9 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-05-29
+revised: 2026-06-01
 
-cluster: ecological-organisation
+cluster: conceptual-foundations
 
 keyPoints:
   - Social organisation arises from the coordination of viability-oriented organisms.
@@ -31,13 +31,12 @@ keyPoints:
 
 relatedGlossaryTerms:
   - social-organisation
-  - social-coordination
+  - coordination
   - communication
-  - social-norm
   - symbolic-coordination
   - culture
   - cultural-inheritance
-  - institution
+  - institutions
   - technology
   - organised-persistence
   - biological-agency
@@ -53,11 +52,32 @@ relatedArticles:
   - cultural-inheritance
   - institutions
   - technology
-  - organised-persistence
-  - biological-organisation
-  - processual-individuality
-  - function-and-normativity-why-biological-organisation-matters
-  - explanatory-grammar
+
+references:
+  - id: spencer2026agency
+    authors: "Spencer, R."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: Towards a Theory of Organised Persistence"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+
+  - id: sterelny2012
+    authors: "Sterelny, K."
+    year: 2012
+    title: "The Evolved Apprentice"
+    publisher: "MIT Press"
+
+  - id: tomasello2014
+    authors: "Tomasello, M."
+    year: 2014
+    title: "A Natural History of Human Thinking"
+    publisher: "Harvard University Press"
+
+  - id: wilson2019
+    authors: "Wilson, D. S."
+    year: 2019
+    title: "This View of Life"
+    publisher: "Pantheon"
 ---
 
 ## Introduction

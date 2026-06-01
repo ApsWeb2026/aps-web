@@ -33,28 +33,25 @@ keyPoints:
 relatedGlossaryTerms:
   - cultural-inheritance
   - culture
-  - cultural-organisation
-  - social-learning
   - symbolic-coordination
   - communication
   - social-norm
-  - institution
+  - institutions
   - technology
   - organised-persistence
   - continuity
   - inheritance
 
 relatedArticles:
-  - cultural-organisation
   - symbolic-coordination
-  - social-norms
+  - aps-and-norms
   - communication-and-coordination
   - development-and-social-organisation
   - institutions
   - technology
-  - inheritance
+  - inheritance-and-continuity-in-aps
   - evolution
-  - organised-persistence
+  - persistence-organised-continuity-through-time
 
 references:
   - id: cavallisforza1981

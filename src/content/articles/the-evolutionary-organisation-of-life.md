@@ -31,7 +31,6 @@ relatedGlossaryTerms:
   - variation
   - adaptation
   - natural-selection
-  - evolvability
   - fitness
   - continuity
   - persistence
@@ -41,17 +40,16 @@ relatedGlossaryTerms:
   - ecology
 
 relatedArticles:
-  - evolution-as-the-historical-transformation-of-organised-persistence
   - evolution
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - inheritance
-  - variation
-  - natural-selection
+  - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - natural-selection-an-aps-clarification
   - the-developmental-organisation-of-life
   - the-ecological-organisation-of-life
   - the-cognitive-organisation-of-life
   - how-aps-explains-life
-  - the-core-structure-of-aps
+  - the-core-structure-of-aps-how-the-framework-fits-together
 
 references:
 

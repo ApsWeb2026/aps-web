@@ -45,15 +45,16 @@ relatedGlossaryTerms:
 relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - organism-environment-coupling
-  - ecological-resilience
+  - resilience-ecology-and-continuity
   - adaptation-how-living-systems-sustain-themselves-through-change
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - the-developmental-organisation-of-life
-  - evolution-as-the-historical-transformation-of-organised-persistence
   - diagnosis-as-continuity-analysis
   - the-social-organisation-of-life
+  - what-is-evolution-in-aps
+  - the-core-structure-of-aps-how-the-framework-fits-together
 
 references:
 

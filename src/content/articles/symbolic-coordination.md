@@ -36,23 +36,22 @@ relatedGlossaryTerms:
   - semiosis
   - meaning
   - representation
-  - social-norm
   - culture
   - cultural-inheritance
-  - institution
+  - institutions
   - technology
   - organised-persistence
 
 relatedArticles:
   - social-organisation
   - communication-and-coordination
-  - social-norms
+  - aps-and-norms
   - cultural-organisation
   - cultural-inheritance
-  - semiosis
-  - meaning-in-biology
-  - representation
-  - information-in-biology
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - information-in-biology-an-aps-clarification
   - institutions
   - technology
 

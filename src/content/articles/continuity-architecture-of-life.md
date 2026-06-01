@@ -37,14 +37,13 @@ keywords:
   - continuity
 
 relatedArticles:
-  - developmental-organisation-of-life
-  - ecological-organisation-of-life
-  - evolutionary-organisation-of-life
-  - cognitive-organisation-of-life
-  - social-organisation-of-life
-  - how-aps-explains-life
-  - core-structure-of-aps
-  - aps-as-a-viability-oriented-framework
+   - the-developmental-organisation-of-life
+   - the-ecological-organisation-of-life
+   - the-evolutionary-organisation-of-life
+   - the-cognitive-organisation-of-life
+   - the-social-organisation-of-life
+   - the-core-structure-of-aps-how-the-framework-fits-together
+   - aps-viability-oriented-framework
 
 relatedBoxes:
   - continuity-architectures-are-not-separate-systems
@@ -61,11 +60,8 @@ relatedGlossaryTerms:
   - ecological-organisation
   - evolution
   - cognition
-  - social-organisation
+  - coordination
   - organism-environment-coupling
-
-visuals:
-  - continuity-architecture-of-life
 
 references:
   - id: spencer2026agency
