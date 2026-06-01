@@ -69,6 +69,12 @@ references:
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     source: "Springer"
 
+  - id: rama2026
+    authors: "Rama, T."
+    year: 2026
+    title: "Autonomy and Development: Distinguishing Teleological Development from Teleological Physiology"
+    source: "PhilSci Archive" 
+
   - id: thompson2007
     authors: "Thompson, E."
     year: 2007
@@ -124,6 +130,8 @@ In particular, three areas remain underdeveloped:
 - the distinction between what life **is** and how it is **identified**  
 - the treatment of **scale** and organisation across levels  
 - the integration of organisational analysis with **evolutionary explanation**  
+
+Recent discussions within the autonomy tradition have also raised questions about the relationship between organisational self-maintenance and developmental organisation. Some authors argue that the forms of teleology involved in development cannot be fully reduced to the self-maintaining dynamics that characterise physiological autonomy. These debates reinforce the need for a broader account of continuity across developmental, physiological, and evolutionary timescales.
 
 APS addresses these limitations by extending the autonomy framework in a systematic way, clarifying distinctions that are not explicitly resolved within autonomy theory itself.
 

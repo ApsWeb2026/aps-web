@@ -132,6 +132,15 @@ references:
     title: "Other Minds"
     publisher: "Farrar, Straus and Giroux"
 
+  - id: rama2024
+    authors: "Rama, T."
+    year: 2024
+    title: "Is a Cognitive Revolution in Theoretical Biology Underway?"
+    journal: "Foundations of Science"
+    volume: "30(3)"
+    pages: "719–740"
+    doi: "10.1007/s10699-024-09950-3"
+
   - id: spencer2026
     authors: "Spencer, R. D."
     year: 2026
@@ -225,6 +234,8 @@ APS therefore interprets cognition as:
     APS interprets cognition as a specialised organisational development emerging through temporally extended evaluation, semiosis, meaning, information, and representation within viability-oriented organised persistence.
   </p>
 </div>
+
+Recent discussions in theoretical biology have suggested that cognition may be becoming an increasingly central explanatory concept across biological domains, extending well beyond traditional cognitive science. This trend reflects growing interest in agency, behavioural flexibility, organism–environment interaction, plant cognition, basal cognition, and distributed forms of regulation. APS welcomes this renewed biological interest in cognition while arguing that cognition itself must be situated within a more fundamental organisational framework grounded in viability, evaluation, semiosis, and organised persistence.
 
 # Why Cognition Became Separated from Biology
 
@@ -650,6 +661,8 @@ Understanding cognition in this way allows APS to:
 - avoid reducing life to cognition;
 - avoid reducing cognition to computation;
 - and preserve continuity between simple and complex forms of living organisation.
+
+Cognition is becoming an increasingly important explanatory concept within theoretical biology. However, its growing importance does not imply that cognition provides the foundational explanatory basis of life itself. Within APS, cognition remains a specialised organisational development emerging from more fundamental processes of viability-oriented evaluation, semiosis, and organised persistence.
 
 ## Key Point
 
