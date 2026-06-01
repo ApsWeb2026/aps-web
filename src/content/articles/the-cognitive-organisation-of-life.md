@@ -160,19 +160,19 @@ references:
 
 Cognition is often treated as one of biology's most distinctive achievements.
 
-Animals perceive their surroundings, learn from experience, solve problems, communicate, and in some cases develop forms of intelligence that appear extraordinarily sophisticated. Human cognition, in particular, has often been regarded as something so exceptional that it seems to stand apart from the rest of life altogether. As a result, cognition is frequently introduced as a specialised capacity possessed by certain organisms rather than as a phenomenon deeply connected to the organisation of living systems themselves.
+Animals perceive their surroundings, learn from experience, solve problems, communicate, and in some cases develop forms of intelligence that appear extraordinarily sophisticated. Human cognition, in particular, has often been regarded as so exceptional that it seems to stand apart from the rest of life altogether. As a result, cognition is frequently introduced as a specialised capacity possessed by certain organisms rather than as a phenomenon deeply connected to the organisation of living systems themselves.
 
 APS approaches the problem differently.
 
-Rather than beginning with minds, brains, intelligence, or consciousness, APS begins with a much more fundamental question. How do living systems maintain viability in changing circumstances? Every organism exists under conditions in which continuity can succeed or fail. Resources may become available or disappear. Opportunities may emerge unexpectedly. Threats may arise without warning. The world confronting a living system is therefore not neutral. Some conditions support persistence, while others undermine it. Survival depends upon responding differently to these different circumstances.
+Rather than beginning with minds, brains, intelligence, or consciousness, APS begins with a much more fundamental question: how do living systems maintain viability in changing circumstances? Every organism exists under conditions in which continuity can succeed or fail. Resources may become available or disappear. Opportunities may emerge unexpectedly. Threats may arise without warning. The world confronting a living system is therefore not neutral. Some conditions support persistence, while others undermine it. Survival depends upon responding differently to these different circumstances.
 
 Once this simple observation is taken seriously, the foundations of cognition begin to appear.
 
 Living systems cannot remain viable if all conditions are treated as equivalent. They must somehow distinguish between what matters and what does not matter. They must respond differently to opportunities and threats, to resources and hazards, to circumstances that support continuity and circumstances that endanger it. Long before cognition becomes associated with intelligence or conscious thought, it therefore begins as a problem of biological organisation. How does a living system identify and respond to conditions that affect its persistence?
 
-The APS account of cognition grows from this question.
+The APS account of cognition grows directly from this question.
 
-Cognition is not introduced as an additional capacity layered onto life. It emerges from the organisational requirements of viability-oriented persistence itself. Because continuity can succeed or fail, living systems must become sensitive to differences that matter. Because some differences matter more than others, systems must respond selectively rather than indiscriminately. Because conditions change through time, responsiveness must become increasingly flexible, adaptive, and context-sensitive. The cognitive domain therefore emerges gradually from the same organisational foundations that give rise to agency, adaptation, resilience, and regulation.
+Cognition is not introduced as an additional capacity layered onto life. Instead, it emerges from the organisational requirements of viability-oriented persistence itself. Because continuity can succeed or fail, living systems must become sensitive to differences that matter. Because some differences matter more than others, systems must respond selectively rather than indiscriminately. Because conditions change through time, responsiveness must become increasingly flexible, adaptive, and context-sensitive. The cognitive domain therefore unfolds gradually from the same organisational foundations that give rise to agency, adaptation, resilience, and regulation.
 
 This perspective has important consequences.
 
@@ -184,23 +184,21 @@ For a rock, most environmental differences are irrelevant. A change in resource 
 
 This transformation marks one of the deepest transitions in the organisation of life.
 
-The environment is no longer merely a collection of physical circumstances. It becomes a world containing opportunities, dangers, resources, constraints, signals, and possibilities. The emergence of cognition begins with this transformation. Living systems do not simply exist within environments; they inhabit environments that matter.
+The environment is no longer merely a collection of physical circumstances. It becomes a world containing opportunities, dangers, resources, constraints, signals, and possibilities. Living systems do not simply exist within environments; they inhabit environments that matter. The emergence of cognition begins with this transformation because cognition concerns how organisms navigate worlds organised by biological significance rather than merely physical variation.
 
 The question then becomes how such significance is organised.
 
 How does a living system distinguish conditions that support continuity from those that threaten it? How do environmental differences acquire biological importance? How does a world of mere physical variation become a world of meaningful distinctions?
 
-The answer leads directly to the first major continuity architecture of the cognitive domain:
+The answer leads directly to the first major continuity architecture of the cognitive domain: **evaluation**.
 
-**evaluation.**
-
-Evaluation is the process through which living systems distinguish conditions relative to their consequences for viability. It is the organisational bridge between persistence and cognition, and it is from evaluation that the entire cognitive architecture of APS begins to unfold.
+Evaluation is the process through which living systems distinguish conditions relative to their consequences for viability. It forms the organisational bridge between persistence and cognition because it is through evaluation that some differences begin to matter more than others. From this seemingly simple capacity, the entire cognitive architecture of APS begins to unfold.
 
 [[box:life-does-not-encounter-a-neutral-world]]
 
 [[box:evaluation-and-viability]]
 
-In order to understand cognition, therefore, we must begin not with thought, intelligence, or consciousness, but with the emergence of evaluative organisation itself. How living systems become capable of distinguishing what matters from what does not matter is the first step in explaining how meaning, information, representation, and ultimately cognition arise within the living world.
+To understand cognition, therefore, we must begin not with thought, intelligence, or consciousness, but with the emergence of evaluative organisation itself. How living systems become capable of distinguishing what matters from what does not matter is the first step in explaining how meaning, information, representation, and ultimately cognition arise within the living world.
 
 ## From Viability to Evaluation
 
@@ -208,17 +206,15 @@ The emergence of evaluation marks a decisive transition in the organisation of l
 
 Living systems do not merely persist. They persist under conditions in which continuity can succeed or fail. As soon as viability becomes a biological concern, some states of the world acquire greater significance than others. Nutrients differ from toxins. Shelter differs from exposure. Successful regulation differs from physiological breakdown. The distinction between persistence and non-persistence therefore introduces a distinction between conditions that matter and conditions that do not.
 
-Evaluation arises from this asymmetry.
+Evaluation emerges from this asymmetry.
 
-A living system capable of maintaining continuity must respond differently to circumstances according to their consequences for viability. The world becomes organised not merely in physical terms but in biological terms. Environmental differences acquire significance because they affect persistence.
+A living system capable of maintaining continuity must respond differently to circumstances according to their consequences for viability. The world becomes organised not merely in physical terms but in biological terms. Environmental differences acquire significance because they affect persistence. The organism begins, in effect, to inhabit a world structured by what contributes to continuity and what threatens it.
 
 This insight is foundational to APS.
 
-Before there can be meaning, information, representation, intelligence, or consciousness, there must first be a capacity to distinguish among conditions relative to their consequences for continuity. Evaluation is therefore not a specialised cognitive achievement. It is the organisational foundation upon which the entire cognitive domain is built.
+Before there can be meaning, information, representation, intelligence, or consciousness, there must first be a capacity to distinguish among conditions relative to their consequences for persistence. Evaluation is therefore not a specialised cognitive achievement. It is the organisational foundation upon which the entire cognitive domain is built.
 
-The cognitive organisation of life begins here.
-
-Evaluation does more than distinguish among conditions affecting persistence.
+Yet evaluation does more than distinguish among conditions affecting persistence.
 
 Once some differences matter more than others, the world begins to acquire structure from the perspective of the organism itself. Environmental variation is no longer encountered merely as physical change. Differences become organised according to their consequences for continuity. Resources become opportunities. Hazards become threats. Conditions become favourable or unfavourable relative to viability.
 
@@ -228,246 +224,349 @@ In everyday language, meaning is often associated with language, symbols, or con
 
 Meaning therefore emerges naturally from evaluation.
 
-Because living systems must distinguish among conditions relative to persistence, some environmental differences come to stand in systematic relationships with continuity-relevant outcomes. The world begins to contain signals rather than merely stimuli, opportunities rather than merely objects, and threats rather than merely events.
+Because living systems must distinguish among conditions relative to persistence, some environmental differences come to stand in systematic relationships with continuity-relevant outcomes. The world begins to contain signals rather than merely stimuli, opportunities rather than merely objects, and threats rather than merely events. What began as a distinction between conditions affecting viability gradually becomes an organised world of biological significance.
 
 This transition represents one of the most important developments in the cognitive organisation of life.
 
-The environment is no longer experienced as an undifferentiated physical domain. It becomes structured according to biological significance. Living systems inhabit worlds that matter.
+The environment is no longer encountered as an undifferentiated physical domain. It becomes structured according to meaning. Living systems inhabit worlds that matter.
+
+The question then becomes how such meaningful distinctions can be organised, communicated, and utilised in increasingly sophisticated ways. That question leads directly to the next major development within the cognitive architecture: semiosis.
 
 ## Semiosis and the Organisation of Significance
 
-The emergence of meaning creates the conditions for a further organisational development.
+Once meaning emerges, a new possibility becomes available.
 
-Once differences acquire significance, living systems can begin to use some differences as indicators of others. Signals can come to stand for conditions that are themselves relevant to persistence. The world becomes increasingly organised through relationships of indication, interpretation, and response.
+Differences that matter can begin to function as signs.
 
-APS understands this development through the concept of semiosis.
+A sign is not merely a physical event. It is something that stands in a systematic relationship to conditions relevant to viability. The significance of a sign therefore derives not from its physical properties alone but from the role it plays within the continuity-preserving organisation of the organism.
 
-Semiosis refers to the processes through which signs participate in biological organisation. A sign is not merely a symbol. It is any difference that functions as an indicator of something else in a way that contributes to viability-oriented activity.
+This transition marks the emergence of semiosis.
 
-The significance of semiosis becomes clear when we consider how living systems navigate uncertainty.
+Semiosis refers to the production, interpretation, and utilisation of signs. APS regards it as a fundamental feature of living systems because organisms continually rely upon meaningful differences to navigate ecological circumstances. A chemical gradient may indicate the location of nutrients. A molecular signal may indicate physiological conditions within a cell. A sound may indicate the presence of a predator. A visual cue may indicate an opportunity or threat.
 
-An organism rarely encounters persistence-relevant conditions directly. Instead, it often relies upon indicators. A scent may indicate food. A sound may indicate danger. A chemical signal may indicate the presence of nutrients. A social cue may indicate opportunities for cooperation. Through such relationships, organisms become capable of responding to conditions that extend beyond their immediate experience.
+In each case, the organism is not responding simply to a physical event.
 
-Semiosis therefore expands the reach of evaluation.
+It is responding to what that event signifies relative to persistence.
 
-Evaluation distinguishes among conditions relative to viability.
+Semiosis therefore extends the evaluative architecture introduced earlier. Evaluation distinguishes among conditions according to their consequences for viability. Semiosis allows those distinctions to become organised into systems of signs that guide behaviour, regulation, and action.
 
-Semiosis allows living systems to respond to conditions through meaningful indicators.
+This development has profound implications.
 
-The result is a dramatic increase in organisational flexibility. Persistence no longer depends solely upon direct responses to immediate circumstances. Organisms can increasingly orient themselves through signs that reveal opportunities, threats, and possibilities extending beyond the present moment.
+Living systems need not respond only to immediate conditions. Signs allow organisms to respond to circumstances that are distant, anticipated, indirect, or only partially available. A sign can provide access to information about the world before direct engagement occurs. The organism therefore becomes capable of acting in relation to possibilities rather than merely reacting to present circumstances.
 
-The cognitive architecture therefore begins to deepen.
+The significance of semiosis extends throughout biology.
 
-Meaning creates significance.
+Cells interpret molecular signals.
 
-Semiosis organises significance.
+Organisms interpret ecological cues.
 
-The world becomes increasingly interpretable.
+Animals interpret behavioural displays.
+
+Humans participate in extraordinarily complex symbolic systems.
+
+Despite their differences, these phenomena share a common organisational logic. Living systems continually use signs because continuity depends upon navigating worlds structured by biological significance.
+
+Semiosis therefore represents a major expansion of cognitive organisation.
+
+The world becomes not merely meaningful but interpretable.
+
+Living systems increasingly persist through their capacity to utilise signs that reveal continuity-relevant aspects of the environments they inhabit.
 
 [[box:semiosis-and-biological-meaning]]
 
-## Information as Organised Difference
-
 The emergence of semiosis naturally raises another question.
 
-If living systems respond to meaningful differences, what exactly is being communicated, transmitted, or utilised through those differences?
+If signs provide access to continuity-relevant conditions, how should we understand the content conveyed through those signs?
 
-Many contemporary discussions answer this question through the concept of information. Yet information is often treated as if it were an objective substance that exists independently of biological organisation.
+This question leads directly to the concept of information.
 
-APS takes a different approach.
+## Information as Organised Difference
 
-Information becomes biologically meaningful only within systems already organised around viability-oriented persistence.
+Information is one of the most widely used and widely misunderstood concepts in contemporary biology.
 
-A difference becomes informative when it contributes to the ability of a living system to maintain continuity. Information therefore depends upon significance. It depends upon evaluation. It depends upon the organisational context within which differences acquire consequences for persistence.
+The term appears throughout discussions of genetics, communication, cognition, development, neuroscience, and evolution. Yet information is often treated as if it were a self-evident substance that organisms somehow acquire, store, process, or transmit. APS approaches the concept differently.
 
-This perspective helps explain why information cannot be understood purely in statistical or computational terms.
+Information is not a thing.
 
-A signal may contain enormous quantities of measurable information while remaining biologically irrelevant. Conversely, a relatively simple cue may possess immense significance because it affects viability. What matters biologically is not the quantity of information but its role within continuity-preserving organisation.
+It is a relationship.
 
-Information therefore emerges as organised difference that matters.
+More specifically, information concerns differences that make a difference to the organisation of living systems.
 
-The concept occupies an important position within the cognitive architecture because it links meaning and semiosis to increasingly sophisticated forms of responsiveness. Organisms become capable of using informative differences to guide behaviour, regulate activity, coordinate development, and navigate changing ecological circumstances.
+This formulation captures an important insight. Not every difference in the world constitutes information for an organism. Most environmental variations remain irrelevant to continuity. Information emerges only when a difference becomes capable of influencing processes related to viability, persistence, regulation, or action.
 
-The world becomes not only meaningful but informative.
+The significance of information therefore depends upon evaluation and semiosis.
 
-## Representation and the Expansion of Cognitive Organisation
+A sign can function informationally because it indicates something relevant to continuity. The value of the information does not arise from the sign itself but from the relationship between the sign, the organism, and the viability-relevant circumstances to which the sign refers.
 
-As informational organisation becomes increasingly sophisticated, living systems acquire new capacities for coordinating activity across space and time.
+This perspective helps resolve a common confusion.
 
-At this stage, representation begins to emerge.
+Biological information is often described as though it exists independently of living systems. APS instead argues that information acquires biological significance because organisms exist within worlds structured by meaning. Information is therefore inseparable from the continuity-preserving organisation through which differences become relevant in the first place.
 
-Representation has long been one of the most contested concepts in cognitive science and philosophy of mind. APS approaches the issue cautiously. It rejects the idea that representation is the foundation of cognition. Instead, representation is understood as a relatively advanced organisational achievement that emerges from more fundamental processes of evaluation, meaning, semiosis, and information.
+A genetic sequence can be informational.
 
-This ordering is important.
+A chemical signal can be informational.
 
-Too often cognitive theories begin with representation and attempt to explain cognition from there. APS reverses the explanatory sequence.
+A behavioural display can be informational.
 
-Living systems first distinguish among conditions affecting persistence.
+A spoken sentence can be informational.
 
-These distinctions generate meaning.
+What unites these examples is not their physical form but their capacity to indicate differences that matter for persistence.
 
-Meaning supports semiosis.
+Information thus becomes intelligible as organised difference operating within viability-oriented systems.
 
-Semiosis supports informational organisation.
+This interpretation also explains why information occupies such a central place within cognition.
 
-Only within sufficiently complex informational systems do representational capacities emerge.
+Living systems must continually respond to conditions they cannot directly or immediately access. Information provides a means through which continuity-relevant differences become available for evaluation, regulation, and action. Organisms increasingly rely upon informational organisation because it expands their capacity to navigate complex ecological and social environments.
 
-Representation therefore occupies a later position within the cognitive architecture rather than its starting point.
+Information therefore represents a major continuity resource.
 
-When representations arise, however, they greatly expand the possibilities available to living systems. Organisms can coordinate activity relative to absent conditions, anticipated circumstances, remembered events, and increasingly abstract features of the world. Behaviour becomes more flexible. Learning becomes more sophisticated. Planning becomes possible.
+It allows organisms to respond not merely to what is physically present but to what is biologically significant.
 
-The significance of representation therefore lies not in defining cognition but in extending it.
+[[box:information-is-organised-difference]]
 
-By this stage the cognitive domain has travelled a remarkable distance from its origins in viability-oriented persistence. Yet the continuity of the argument remains clear. Every step follows from the organisational requirements of maintaining continuity under changing conditions.
+Yet information alone remains insufficient.
 
-The next question is therefore unavoidable.
+Differences may be meaningful and informative, but increasingly sophisticated forms of cognition require ways of organising those differences into structures capable of guiding action across changing circumstances.
 
-How do these increasingly sophisticated forms of evaluation, meaning, semiosis, information, and representation come together to produce what we ordinarily recognise as cognition itself?
+This requirement leads to representation.
 
-It is this question that leads to the final stage of the cognitive synthesis.
+## Representation and the Coordination of Action
 
-## Cognition as Organised Persistence
+Representation is one of the most debated concepts in cognitive science and philosophy of biology.
 
-The pathway developed throughout this article now reaches its central destination.
+Some accounts treat representations as internal models of the external world. Others reject representation altogether, arguing that cognition can be explained through direct interaction with environmental conditions. APS adopts a different approach.
 
-Evaluation, meaning, semiosis, information, and representation are often discussed as separate topics within biology, philosophy, and cognitive science. APS treats them differently. Each represents a stage in the progressive organisation of systems required to maintain continuity under changing conditions.
+The central question is not whether representations exist.
 
-Viewed in isolation, these concepts can appear abstract and disconnected. Viewed together, however, they reveal a coherent developmental sequence. Living systems first become sensitive to differences affecting viability. These differences acquire significance through evaluation. Meaning emerges because some conditions matter more than others. Semiosis expands responsiveness through the use of signs. Information allows organisms to utilise meaningful differences. Representation extends this capacity still further by enabling activity to be coordinated relative to conditions that may be absent, anticipated, or only indirectly encountered.
+The question is what organisational role representations perform within viability-oriented systems.
 
-Cognition emerges from this architecture.
+From an APS perspective, representations emerge when informational structures are used to coordinate activity relative to conditions that are not immediately available. A representation allows an organism to organise behaviour in relation to objects, opportunities, threats, or possibilities that may be distant in space, separated in time, or only indirectly accessible.
 
-APS therefore defines cognition neither as intelligence nor as consciousness. Nor is cognition restricted to organisms possessing brains or nervous systems. Cognition refers more broadly to the organised capacity of living systems to evaluate, interpret, and respond to conditions relevant to persistence.
+This capacity provides a significant expansion of cognitive organisation.
 
-This definition allows cognition to be understood as a continuity architecture.
+An organism responding only to immediately present conditions remains limited in the scope of its actions. A representationally organised system can act relative to anticipated circumstances, remembered events, hidden conditions, and future possibilities. Continuity becomes increasingly proactive rather than merely reactive.
 
-Just as development explains how continuity survives transformation, and ecology explains how continuity survives through organism–environment coupling, cognition explains how continuity survives through increasingly sophisticated forms of evaluation and responsiveness.
+Representation therefore builds directly upon the foundations established earlier.
 
-The significance of cognition therefore lies not in the possession of particular structures but in the organisation of activity relative to viability.
+Evaluation determines what matters.
 
-This perspective helps explain why cognition appears across such a wide range of living systems. Cognitive organisation exists wherever responsiveness becomes organised around differences that matter for continuity. The complexity of that organisation may vary enormously, but the underlying logic remains the same.
+Meaning organises significance.
 
-The cognitive domain therefore emerges naturally from the broader architecture of organised persistence rather than appearing as a mysterious addition to it.
+Semiosis establishes systems of signs.
 
-## Intelligence and the Expansion of Cognitive Flexibility
+Information makes meaningful differences available.
 
-Understanding cognition in this way also clarifies the place of intelligence.
+Representation uses those differences to coordinate activity across broader spatial and temporal horizons.
 
-Intelligence is often treated as the defining feature of cognition. APS reverses this relationship.
+The result is a form of organisation capable of supporting increasingly sophisticated behaviour.
+
+Importantly, APS does not treat representation as an all-or-nothing phenomenon.
+
+Representational capacities exist along a continuum. Simple organisms may employ relatively limited forms of representational organisation. More complex organisms may support increasingly elaborate representational systems. Human symbolic and linguistic capacities represent one particularly sophisticated expression of a much broader biological pattern.
+
+Representation is therefore not a mysterious addition to cognition.
+
+It is a continuity-preserving development emerging from the organisational requirements of viability itself.
+
+The significance of this development becomes clear once we consider its consequences.
+
+As representational capacities expand, living systems become capable of increasingly flexible, adaptive, and context-sensitive forms of behaviour. The cumulative result is what we ordinarily recognise as cognition.
+
+The question then becomes how these organisational capacities give rise to the diverse forms of cognition observed throughout the living world.
+
+## Cognition as Organised Responsiveness
+
+The progression from evaluation to representation reveals an important pattern.
+
+At every stage, cognition emerges through the organisation of responsiveness to conditions affecting persistence. Evaluation distinguishes what matters. Meaning structures significance. Semiosis establishes systems of signs. Information makes meaningful differences available. Representation extends responsiveness beyond immediately present circumstances.
+
+Together these developments transform the relationship between organism and world.
+
+Living systems are no longer limited to reacting directly to environmental events. They become capable of responding selectively, flexibly, and contextually to conditions that matter for continuity. Behaviour increasingly reflects organised engagement with a world structured by opportunities, constraints, threats, and possibilities.
+
+This is the point at which cognition appears in its broadest biological sense.
+
+APS does not define cognition by reference to intelligence, language, reasoning, or consciousness. Instead, cognition concerns the organised capacities through which living systems navigate viability-relevant worlds. Cognition emerges whenever organisms utilise meaningful distinctions to guide activity in ways that contribute to persistence.
+
+This perspective broadens the scope of cognition considerably.
+
+Cognitive organisation is not restricted to a narrow class of highly intelligent organisms. Rather, it appears across a continuum of biological complexity. Different organisms possess different cognitive capacities, but all confront the same fundamental problem: how to remain viable in changing circumstances.
+
+The cognitive domain therefore becomes intelligible as a continuity architecture.
+
+Its purpose is not to generate abstract knowledge for its own sake. Its primary role is to support organised persistence by allowing organisms to engage effectively with worlds structured by biological significance.
+
+The diversity of cognitive systems observed throughout life reflects different solutions to this common organisational challenge.
+
+## Intelligence as an Expansion of Cognitive Organisation
+
+Understanding cognition in this way helps clarify the place of intelligence within APS.
+
+Intelligence is often treated as the defining feature of cognition. Popular discussions frequently equate cognition with intelligent problem solving, complex reasoning, or advanced behavioural flexibility. APS reverses this relationship.
 
 Cognition comes first.
 
-Intelligence emerges later as a specialised form of cognitive organisation.
+Intelligence emerges later as one possible development within the broader cognitive architecture.
 
-This distinction matters because it prevents the cognitive domain from being reduced to a single advanced capacity. If intelligence is treated as the defining characteristic of cognition, simpler forms of biological responsiveness become difficult to explain. Yet once cognition is understood as viability-oriented evaluative organisation, intelligence appears as one possible extension of a much broader architecture.
+This distinction is important because many living systems exhibit meaningful, evaluative, and representational capacities without displaying what would ordinarily be described as intelligence. The foundations of cognition therefore cannot depend upon intelligence itself.
 
-The defining feature of intelligence is flexibility.
+Instead, intelligence can be understood as an expansion of cognitive organisation.
 
-Intelligent systems can reorganise behaviour across a wider range of circumstances. They can integrate multiple sources of information, learn from experience, adapt to novel situations, and generate increasingly sophisticated responses to changing conditions.
+As cognitive systems become increasingly capable of integrating information, coordinating behaviour across multiple contexts, responding flexibly to novel circumstances, and generating adaptive solutions to continuity-related challenges, intelligence begins to emerge. What distinguishes intelligent systems is not the existence of cognition but the scope, flexibility, and integrative power of their cognitive organisation.
 
-From an APS perspective, these capacities remain connected to the same organisational problem encountered throughout the article.
+This interpretation helps avoid two common mistakes.
 
-How does continuity remain possible under uncertainty?
+The first is treating intelligence as synonymous with cognition.
 
-Intelligence represents one solution.
+The second is treating intelligence as a mysterious capacity fundamentally separate from other biological processes.
 
-By increasing behavioural flexibility, learning capacity, and responsiveness, intelligent systems become capable of maintaining viability under increasingly complex conditions. Intelligence therefore extends the cognitive architecture without altering its foundations.
+APS rejects both views. Intelligence is neither the whole of cognition nor something outside biological organisation. It represents one way in which the cognitive architecture can become increasingly sophisticated.
 
-The relationship between cognition and intelligence mirrors relationships found elsewhere in APS.
+Seen in this light, intelligence occupies an important but clearly defined position within the broader continuity framework.
 
-Adaptation extends persistence.
+Evaluation makes significance possible.
 
-Resilience extends adaptation.
+Meaning structures significance.
 
-Intelligence extends cognition.
+Semiosis organises signs.
 
-Each represents a further elaboration of organisational capacities already present in simpler forms.
+Information makes meaningful differences available.
 
-## Consciousness and the Deepening of Cognitive Organisation
+Representation coordinates action.
 
-Consciousness occupies an even more distinctive position within the cognitive domain.
+Intelligence expands the capacity to utilise these resources in increasingly flexible and adaptive ways.
 
-For many traditions, consciousness is treated as the defining mystery of mind. APS does not deny its significance. Rather, it situates consciousness within a broader continuity architecture that begins long before conscious experience appears.
+The result is a system capable of navigating complex and uncertain worlds with remarkable effectiveness.
 
-This shift in perspective is important.
+Yet even intelligence does not mark the endpoint of the cognitive story.
 
-The APS account does not attempt to explain cognition by beginning with consciousness. Instead, it explains consciousness by placing it within an already existing cognitive framework.
+A further question remains.
 
-By the time conscious systems emerge, a long sequence of organisational developments has already occurred. Living systems evaluate. They generate meaning. They utilise signs. They organise information. They develop representational capacities. They integrate increasingly complex forms of responsiveness. Consciousness therefore appears not as an isolated phenomenon but as a further development within a much larger continuity-preserving architecture.
+How should we understand consciousness?
 
-This perspective does not solve every question about consciousness.
+## Consciousness and the Continuity of Experience
 
-Nor does it attempt to reduce conscious experience to simpler biological processes.
+Few topics in biology and philosophy generate as much discussion as consciousness.
 
-What it does provide is a framework within which consciousness can be understood as a biological phenomenon rather than an exception to biology.
+Conscious experience appears distinctive, immediate, and deeply significant. For this reason, consciousness has often been treated as the defining feature of mind itself. Some approaches regard it as fundamentally different from other biological phenomena, while others attempt to reduce it entirely to underlying mechanisms.
 
-Consciousness becomes one way in which cognitive organisation contributes to viability-oriented persistence.
+APS adopts a more cautious position.
 
-Its significance derives from its role within the organisation of living systems rather than from any supposed separation from life itself.
+The framework neither dismisses consciousness nor treats it as the foundation of cognition. Instead, consciousness is understood as a particular development within a much broader cognitive architecture whose origins lie in viability-oriented organised persistence.
 
-The result is a view of consciousness that remains connected to the broader explanatory goals of APS while acknowledging its distinctive character.
+This perspective changes the explanatory sequence.
+
+Traditional accounts often begin with consciousness and then attempt to explain cognition. APS begins with cognition and asks how consciousness emerges within increasingly sophisticated cognitive systems.
+
+The distinction matters because cognition clearly extends beyond consciousness. Organisms evaluate conditions, utilise information, respond to signs, and coordinate behaviour long before conscious awareness becomes relevant. The cognitive organisation of life therefore cannot be defined by consciousness alone.
+
+At the same time, consciousness remains biologically important.
+
+Conscious experience appears to provide an especially rich form of integration through which organisms can coordinate activity across multiple informational, behavioural, and environmental contexts. It allows continuity-relevant conditions to be brought together within a unified experiential perspective that supports flexible and adaptive engagement with the world.
+
+APS therefore treats consciousness neither as an illusion nor as a biological exception.
+
+It is a distinctive form of cognitive organisation emerging within lineages that have already developed extensive evaluative, semiotic, informational, and representational capacities.
+
+The continuity architecture remains the same.
+
+Consciousness extends and enriches cognitive organisation, but it does not replace the foundations from which that organisation emerged.
+
+Understanding consciousness therefore requires understanding the broader cognitive domain within which it is situated.
+
+## Cognition and the Other Continuity Architectures
+
+The APS account of cognition also reveals why the cognitive domain cannot be understood in isolation.
+
+Cognition emerges through relationships with the other continuity architectures explored throughout the framework.
+
+Development provides the organisational processes through which cognitive capacities arise and change across the lifespan. Learning, behavioural flexibility, and cognitive plasticity all depend upon developmental organisation.
+
+Ecology provides the meaningful worlds that cognition navigates. Without ecological opportunities, threats, resources, and constraints, there would be nothing to evaluate, interpret, or represent.
+
+Evolution explains how cognitive capacities emerge historically. Evaluative systems, sensory organisation, representational capacities, intelligence, and consciousness all possess evolutionary histories extending across generations.
+
+Social organisation expands cognition through communication, symbols, culture, institutions, and technology. Human cognition in particular becomes inseparable from the social systems through which meaning, knowledge, and continuity are distributed.
+
+The cognitive domain therefore occupies a uniquely integrative position within APS.
+
+It links organisms to ecological worlds, developmental trajectories, evolutionary histories, and social systems through the organisation of significance itself.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognitive-organisation-of-life.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognitive-organisation-of-life.png"
+      alt="The cognitive organisation of life emerging from evaluation, meaning, semiosis, information, representation, intelligence, and consciousness"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>The Cognitive Organisation of Life.</strong>
+    Cognition emerges through a continuity architecture beginning with evaluation and extending through meaning, semiosis, information, representation, intelligence, and consciousness. Each stage expands the capacity of living systems to navigate worlds structured by biological significance.
+  </p>
+</div>
 
 ## The Cognitive Organisation of Life
 
-At this point the broader significance of the cognitive domain becomes visible.
+The APS synthesis of cognition begins with a simple observation.
 
-Cognition is often portrayed as a specialised feature possessed by a subset of organisms. The APS synthesis suggests a different picture.
+Living systems do not encounter neutral worlds.
 
-The roots of cognition extend deep into the organisation of life itself.
+Because continuity can succeed or fail, some conditions matter more than others. Resources differ from hazards. Opportunities differ from threats. Environmental variation becomes organised according to its consequences for persistence.
 
-As soon as continuity can succeed or fail, living systems must distinguish among conditions affecting viability. Evaluation emerges from this requirement. Meaning emerges because some differences matter more than others. Semiosis emerges because organisms benefit from responding to indicators of persistence-relevant conditions. Information emerges through the organisation of meaningful differences. Representation emerges as responsiveness becomes increasingly sophisticated. Cognition emerges through the integration of these capacities into organised systems capable of navigating changing circumstances.
+This transformation provides the foundation of the cognitive domain.
 
-The cognitive domain therefore reveals a remarkable continuity.
+Evaluation distinguishes what matters.
 
-Rather than appearing suddenly, cognition unfolds gradually from the organisational requirements of viability-oriented persistence. The sophisticated cognitive capacities observed in animals, humans, and other complex organisms remain connected to foundations already present in simpler forms of life.
+Meaning organises significance.
 
-This continuity is one of the most important contributions of the APS framework.
+Semiosis establishes systems of signs.
 
-It allows cognition to be understood as part of biology rather than as something standing outside it.
+Information makes meaningful differences available.
 
-The cognitive organisation of life is therefore not a separate layer added to persistence.
+Representation coordinates activity relative to those differences.
 
-It is one of the ways persistence becomes possible.
+Intelligence expands the flexibility and scope of cognitive organisation.
 
-[[box:cognition-is-not-intelligence]]
+Consciousness emerges as one particularly sophisticated expression of that organisation.
+
+Together these developments reveal a common pattern.
+
+Cognition is not an isolated capacity added to life.
+
+It is one of the major continuity architectures through which life remains possible.
+
+Living systems persist because they are capable of responding to worlds structured by biological significance. Cognition provides the organisational framework through which that responsiveness becomes increasingly flexible, adaptive, and effective.
+
+The cognitive organisation of life therefore explains how persistence becomes informed by meaning.
 
 ## Conclusion
 
-The APS synthesis of cognition begins with a simple observation.
+The cognitive domain exists because living systems inhabit worlds that matter.
 
-Living systems exist under conditions in which continuity can succeed or fail. Because viability matters, some differences in the world become more significant than others. Organisms must therefore distinguish among conditions according to their consequences for persistence.
+Viability introduces distinctions between conditions that support continuity and conditions that threaten it. Evaluation emerges to distinguish among those conditions. Meaning organises biological significance. Semiosis allows meaningful differences to function as signs. Information makes those differences available for action. Representation extends responsiveness across space and time. Intelligence and consciousness emerge as increasingly sophisticated developments within the same continuity architecture.
 
-From this requirement emerges the entire cognitive architecture.
+APS therefore interprets cognition as the organised responsiveness of living systems to viability-relevant worlds.
 
-Evaluation provides the first distinction between what matters and what does not. Meaning arises because some conditions possess greater significance than others. Semiosis enables organisms to respond through signs. Information organises meaningful differences. Representation expands the coordination of activity across space and time. Cognition emerges through the integration of these capacities into systems capable of navigating changing circumstances. Intelligence and consciousness extend this architecture into increasingly sophisticated forms.
+This perspective situates cognition firmly within biology while preserving its distinctive character. Cognition is neither reducible to simple mechanism nor detached from the continuity-preserving organisation of life. It emerges because persistence requires living systems to navigate environments structured by significance.
 
-The result is a unified account of cognition grounded in viability-oriented organised persistence.
+The cognitive organisation of life reveals that meaning is not an accidental feature of biology.
 
-Cognition is not an isolated faculty.
+It is one of the ways continuity becomes possible.
 
-It is not reducible to intelligence.
-
-It is not confined to conscious experience.
-
-It is one of the major continuity architectures through which living systems maintain viability across changing conditions.
-
-Understanding cognition therefore requires understanding life itself.
-
-The cognitive organisation of life reveals how living systems become capable of inhabiting worlds that matter, responding to differences that matter, and sustaining continuity within environments rich in meaning, information, and possibility.
-
-## Related Pathways
+## Where to Go Next
 
 - *Evaluation*
-- *Semiosis*
 - *Meaning in Biology*
+- *Semiosis*
 - *Information in Biology*
 - *Representation*
-- *Cognition*
 - *Intelligence*
 - *Consciousness*
-- *The Core Structure of APS*
-- *APS as Philosophy*
-- *How APS Explains Life*
+- *The Developmental Organisation of Life*
+- *The Ecological Organisation of Life*
+- *The Evolutionary Organisation of Life*
+- *The Social Organisation of Life*
 
-## Key Terms
-
-cognition · evaluation · semiosis · meaning · information · representation · intelligence · consciousness · normativity · viability · persistence · continuity · biological significance
+Together these pathways explore how living systems become capable of evaluating, interpreting, representing, and responding to the worlds that matter for their persistence.
