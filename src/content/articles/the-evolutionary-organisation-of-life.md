@@ -288,8 +288,6 @@ Evolution explains how.
   </p>
 </div>
 
-[[box:evolution-is-not-change]]
-
 [[box:persistence-across-generations]]
 
 The idea of historical continuity provides the foundation of the entire evolutionary domain. Once continuity is understood as extending across generations, a new question immediately emerges.
@@ -655,8 +653,6 @@ Social organisation explains continuity through coordination.
 Evolution explains continuity through historical transformation.
 
 This perspective unifies the evolutionary domain around a single explanatory problem while preserving the richness of evolutionary theory. The diverse processes studied by evolutionary biology become different aspects of a common continuity architecture extending across generations and historical timescales.
-
-[[box:evolution-is-historical-not-goal-directed]]
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/evolution-in-the-aps-architecture.png" target="_blank" rel="noopener">

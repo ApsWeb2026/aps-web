@@ -290,8 +290,6 @@ The need for greater stability leads naturally to the emergence of norms.
   </p>
 </div>
 
-[[box:communication-and-coordination]]
-
 ## Norms and the Stabilisation of Expectations
 
 Communication makes coordination possible.
@@ -493,8 +491,6 @@ The same continuity logic appears at both levels.
 Persistence is not achieved by preventing change.
 
 Persistence is achieved by organising change.
-
-[[box:institutions-and-social-stability]]
 
 ## Technology and the Extension of Organised Persistence
 
