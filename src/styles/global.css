@@ -1694,3 +1694,20 @@ main .content-wrapper .article-body h3 a {
   line-height: 1.6;
   color: var(--color-text-secondary);
 }
+/* APS Design Grammar v1.0 — List Readability */
+
+.article-body ul,
+.article-body ol {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 2.5rem;
+  padding-left: 1rem;
+}
+
+.article-body li {
+  margin-bottom: 0.4rem;
+}
+
+.article-body li:last-child {
+  margin-bottom: 0;
+}
