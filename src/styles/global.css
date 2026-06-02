@@ -1713,18 +1713,26 @@ main .content-wrapper .article-body h3 a {
   margin-bottom: 0;
 }
 
-/* APS Design Standard — final article heading override */
+/* APS Design Standard — article heading scale */
 
-main .article-body h2 {
+main .article-body h2,
+main .article-body h2 a {
   font-size: 1.45rem !important;
   line-height: 1.3 !important;
+}
+
+main .article-body h3,
+main .article-body h3 a {
+  font-size: 1.15rem !important;
+  line-height: 1.35 !important;
+}
+
+main .article-body h2 {
   margin-top: 2.4rem !important;
   margin-bottom: 1rem !important;
 }
 
 main .article-body h3 {
-  font-size: 1.15rem !important;
-  line-height: 1.35 !important;
   margin-top: 1.8rem !important;
   margin-bottom: 0.75rem !important;
 }
