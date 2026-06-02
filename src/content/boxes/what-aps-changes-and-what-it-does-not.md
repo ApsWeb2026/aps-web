@@ -1,5 +1,5 @@
 ---
-title: "What APS Changes — and What It Does Not"
+title: "APS box — What APS Changes  and What It Does Not"
 date: 2026-05-10
 slug: "what-aps-changes-and-what-it-does-not"
 status: canonical
