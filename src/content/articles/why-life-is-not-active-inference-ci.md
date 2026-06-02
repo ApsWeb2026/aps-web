@@ -380,9 +380,7 @@ Predictive mechanisms do not independently explain life. They participate within
 
 APS therefore preserves mechanistic explanation, predictive modelling, computational analysis, and systems neuroscience while rejecting predictive reductionism.
 
-The issue is not whether predictive mechanisms exist.
-
-The issue is whether predictive mechanisms explain the organisation of life itself.
+The issue is not whether predictive mechanisms exist. The issue is whether predictive mechanisms explain the organisation of life itself.
 
 APS argues that they do not.
 
@@ -447,36 +445,16 @@ Prediction becomes one possible mode of continuity-preserving coordination withi
 
 ## Why This Matters
 
-Clarifying the status of Active Inference helps resolve a recurring source of confusion in contemporary theoretical biology.
+Clarifying the status of Active Inference helps resolve a recurring source of confusion in contemporary theoretical biology. Predictive organisation is real, inferential modelling is useful, and free-energy formalisms are often scientifically productive. APS accepts all of these contributions and recognises their value within contemporary biological and cognitive science.
 
-Predictive organisation is real.
+Yet none of these achievements establish that life is fundamentally prediction. The ability to model a living system using inferential concepts does not demonstrate that inference constitutes the ontological basis of living organisation. APS therefore preserves the explanatory strengths of Active Inference while situating them within a broader account of viability-oriented organised persistence.
 
-Inferential modelling is useful.
-
-Free-energy formalisms are often scientifically productive.
-
-Yet none of these achievements establish that life is fundamentally prediction.
-
-APS therefore preserves the explanatory strengths of Active Inference while situating them within a more comprehensive account of living organisation.
-
-Prediction matters because persistence matters.
-
-Inference matters because viability matters.
-
-Both become biologically meaningful only within systems already organised around continuity-preserving persistence.
-
-APS therefore preserves the scientific strengths of Active Inference while preventing prediction from being elevated into a complete ontology of life.
+Prediction matters because persistence matters. Inference matters because viability matters. Both become biologically meaningful only within systems already organised around continuity-preserving persistence. APS therefore preserves the scientific strengths of Active Inference while preventing prediction from being elevated into a complete ontology of life.
 
 ## Conclusion
 
-Active Inference provides powerful tools for modelling adaptive regulation, behavioural organisation, learning, and organism–environment coordination.
+Active Inference provides powerful tools for modelling adaptive regulation, behavioural organisation, learning, and organism–environment coordination. APS fully recognises its scientific value and accepts that predictive organisation can play an important role within many biological and cognitive systems.
 
-APS fully recognises its scientific value.
-
-However, predictive and inferential organisation become biologically meaningful only within systems already organised around viability-oriented organised persistence.
-
-Prediction may support continuity-preserving regulation.
-
-But organised persistence explains why predictive regulation matters biologically in the first place.
+However, predictive and inferential organisation become biologically meaningful only within systems already organised around viability-oriented organised persistence. Prediction may support continuity-preserving regulation, but organised persistence explains why predictive regulation matters biologically in the first place.
 
 Life is not fundamentally active inference. Inference belongs within life. Life does not belong within inference.
