@@ -1716,7 +1716,7 @@ main .content-wrapper .article-body h3 a {
 /* APS Design Standard — article heading scale */
 
 .article-body h2 {
-  font-size: 1.45rem;
+  font-size: 1.35rem;
   line-height: 1.3;
   margin-top: 2.4rem;
   margin-bottom: 1rem;
@@ -1734,7 +1734,7 @@ main .content-wrapper .article-body h3 a {
 .references h2,
 .article-references h2 {
   font-family: inherit;
-  font-size: 1.35rem;
+  font-size: 1.25rem;
   line-height: 1.3;
   margin-top: 2.4rem;
   margin-bottom: 1rem;

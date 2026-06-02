@@ -117,7 +117,7 @@ references:
   - id: spencer-2026
     authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: Towards a Viability-Oriented Theory of Biological Organisation"
+    title: "Agency as the Defining Activity of Life: : A viability-oriented framework integrating process and scale."
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
