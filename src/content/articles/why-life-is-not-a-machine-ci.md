@@ -154,15 +154,6 @@ However, a further question remains.
 
 Mechanistic explanation alone does not answer this question.
 
-### In Summary
-
-- Machine models successfully describe organised causal structure.
-- Mechanistic explanation remains indispensable in biology.
-- Mechanistic analysis reveals how organisational processes operate.
-- Mechanistic explanation alone does not explain what makes a system living.
-
-This is the point at which APS begins its critique of machine ontology.
-
 ## What Machine Models Explain Well
 
 Machine models are powerful because they describe organised causal structure. They help explain how components interact, how signals propagate, how processes regulate one another, how local failures produce system-level consequences, and how coordinated activity generates organised behaviour.
@@ -202,15 +193,6 @@ This distinction is central to APS.
 
 [[box:aps-box-organisation-is-not-mysticism]]
 
-### In Summary
-
-- Machines are externally organised.
-- Their purposes are externally assigned.
-- Their maintenance conditions are externally imposed.
-- Their organisation does not arise through their own activity.
-
-Living systems differ because they continuously participate in maintaining the conditions of their own persistence.
-
 ## Organised Persistence and Continuity Regulation
 
 APS interprets living systems as organised processes of persistence. Organisms do not merely possess organisation. They continuously maintain organisation across time through viability-oriented activity.
@@ -230,15 +212,6 @@ Living systems therefore exist only insofar as they sustain the conditions neces
 Biological explanation therefore concerns how continuity is maintained under changing conditions. APS accordingly treats organised persistence rather than mechanical construction as explanatorily central to life.
 
 *Living systems do not merely possess organisation. They continually reproduce the organisational conditions required for their own persistence.*
-
-### In Summary
-
-- Living systems persist through ongoing activity.
-- Organisation must be continuously maintained.
-- Viability depends upon continuity-preserving regulation.
-- Biological explanation concerns how continuity is sustained through change.
-
-APS therefore places organised persistence at the centre of biological explanation.
 
 ## Failure Means Something Different in Living Systems
 
@@ -260,15 +233,6 @@ This distinction helps explain why perturbation is philosophically and biologica
 [[box:perturbation-reveals-organisation]]
 
 *Machine failure interrupts operation. Biological failure threatens persistence itself.*
-
-### In Summary
-
-- Machine failure is primarily functional.
-- Biological failure is organisational.
-- Perturbation exposes continuity dependencies.
-- Repair and resilience reveal persistence-preserving organisation.
-
-Failure therefore provides a privileged window into biological organisation.
 
 ## Mechanisms Within Organised Persistence
 
@@ -294,15 +258,6 @@ A signalling pathway, membrane, neural circuit, behavioural process, or developm
 APS thus preserves the empirical strengths of mechanistic explanation while rejecting atomistic reductionism. Mechanisms remain indispensable, but they are embedded within larger systems of continuity-maintaining organisation.
 
 [[box:aps-box-function-is-contribution-to-viability]]
-
-### In Summary
-
-- Mechanisms are real.
-- Mechanisms are indispensable.
-- Mechanisms are not explanatorily sufficient.
-- Biological significance arises through participation in organised persistence.
-
-APS therefore incorporates mechanism within a broader organisational framework.
 
 ## Organised Persistence and Continuity Regulation
 
@@ -339,15 +294,6 @@ Biological explanation therefore concerns how continuity is maintained under cha
   </p>
 </div>
 
-### In Summary
-
-- Living systems persist through ongoing activity.
-- Organisation must be continuously maintained.
-- Viability depends upon continuity-preserving regulation.
-- Biological explanation concerns how continuity is sustained through change.
-
-APS therefore places organised persistence at the centre of biological explanation.
-
 ## Failure Means Something Different in Living Systems
 
 The difference between machines and organisms becomes especially clear during failure.
@@ -368,15 +314,6 @@ This distinction helps explain why perturbation is philosophically and biologica
 [[box:perturbation-reveals-organisation]]
 
 *Machine failure interrupts operation. Biological failure threatens persistence itself.*
-
-### In Summary
-
-- Machine failure is primarily functional.
-- Biological failure is organisational.
-- Perturbation exposes continuity dependencies.
-- Repair and resilience reveal persistence-preserving organisation.
-
-Failure therefore provides a privileged window into biological organisation.
 
 ## Mechanisms Within Organised Persistence
 
@@ -401,15 +338,6 @@ APS thus preserves the empirical strengths of mechanistic explanation while reje
 
 [[box:aps-box-function-is-contribution-to-viability]]
 
-### In Summary
-
-- Mechanisms are real.
-- Mechanisms are indispensable.
-- Mechanisms are not explanatorily sufficient.
-- Biological significance arises through participation in organised persistence.
-
-APS therefore incorporates mechanism within a broader organisational framework.
-
 ## Function and Endogenous Normativity
 
 Machine functions are externally assigned. A machine component has a function because it was designed to perform a particular task within an externally specified system.
@@ -432,15 +360,6 @@ These distinctions are relative to the viability conditions governing organised 
 
 [[box:aps-box-viability-grounds-evaluation]]
 
-### In Summary
-
-- Machine functions are externally assigned.
-- Biological functions emerge through organisation.
-- Normativity is rooted in viability conditions.
-- Evaluation arises from continuity-preserving activity.
-
-APS therefore treats function and normativity as consequences of organised persistence.
-
 ## Machines, AI, and Simulated Agency
 
 Contemporary artificial systems can exhibit highly sophisticated and adaptive behaviour. Machine-learning systems, robotics, artificial agents, and synthetic systems may optimise performance, learn from experience, adapt to changing conditions, simulate goal-directed behaviour, and exhibit flexible problem-solving capacities.
@@ -454,15 +373,6 @@ For this reason APS distinguishes simulated agency from biological agency. Compl
 Life depends upon organised persistence.
 
 *Adaptive behaviour is not sufficient for biological organisation. Biological organisation requires viability-oriented persistence.*
-
-### In Summary
-
-- Artificial systems may exhibit sophisticated behaviour.
-- Behavioural complexity alone does not establish life.
-- Biological systems sustain their own persistence.
-- Simulated agency differs from biological agency.
-
-APS therefore distinguishes behavioural sophistication from biological organisation.
 
 ## Mechanism, Semiosis, and Biological Meaning
 
@@ -492,15 +402,6 @@ Signals matter biologically because they influence persistence, regulation, adap
     APS grounds meaning in viability-oriented evaluative organisation rather than abstract machine-like information processing alone.
   </p>
 </div>
-
-### In Summary
-
-- Meaning is not merely syntactic.
-- Signals become significant through organisation.
-- Semiosis depends upon evaluation.
-- Biological meaning is rooted in viability.
-
-APS therefore interprets meaning as organisationally grounded rather than computationally imposed.
 
 ## APS Is Not Anti-Mechanistic
 
