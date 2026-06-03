@@ -6,13 +6,14 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-14
-revised: 2026-05-14
+revised: 2026-06-03
 cluster: conceptual-foundations
 ---
 
 APS explains living systems as viability-oriented, constraint-closed organisations whose activity contributes to maintaining the conditions of their own persistence across time.
 
-Within this explanatory framework:
+Within this framework, biological phenomena are understood according to the role they play in organised persistence:
+
 - agency concerns the regulation of persistence
 - process concerns the organisation of activity
 - scale concerns the coordination of organisation across levels and timescales
@@ -21,4 +22,4 @@ Within this explanatory framework:
 - function concerns contributions to viability
 - evolution concerns the historical transformation of organised persistence
 
-These are not separate explanatory domains but interconnected aspects of biological organisation understood through a common explanatory grammar grounded in organised persistence.
+These are not separate explanatory domains. They are interconnected aspects of biological organisation understood through a common explanatory grammar centred on viability-oriented organised persistence.

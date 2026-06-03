@@ -1,11 +1,11 @@
 ---
-title: "APS box — What APS Changes  and What It Does Not"
+title: "APS Box — What APS Changes and What It Does Not"
 date: 2026-05-10
 slug: "what-aps-changes-and-what-it-does-not"
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
-revised: 2026-05-10
+revised: 2026-06-03
 associatedPages:
   - /orientation/what-is-aps/
   - /orientation/how-aps-concepts-fit-together/
@@ -18,14 +18,7 @@ associatedPages:
 
 APS changes what biology treats as explanatorily fundamental.
 
-Traditional biological explanation often begins with:
-
-- components,
-- mechanisms,
-- traits,
-- or historical outcomes.
-
-APS instead begins with organised viability-maintenance: the ongoing activity through which living systems sustain the conditions of their own persistence.
+Traditional biological explanation often begins with components, mechanisms, traits, or historical outcomes and then asks how biological organisation emerges from them. APS begins from a different starting point: the organised activity through which living systems maintain the conditions of their own persistence.
 
 This shifts the explanatory centre of biology from:
 
@@ -33,16 +26,12 @@ This shifts the explanatory centre of biology from:
 
 toward:
 
-- organisation → activity → stabilised features.
+- organisation → activity → stabilised features
 
-Importantly, APS does **not** propose:
-- a special life substance,
-- separate physical laws,
-- non-natural causal forces,
-- or a distinct “realm of life.”
+Importantly, APS does **not** propose a special life substance, separate physical laws, non-natural causal forces, or a distinct realm of life. Living systems remain fully continuous with chemistry and physics.
 
-Living systems remain fully continuous with chemistry and physics. Agency, normativity, and purpose are understood as organisational features of living systems rather than as external metaphysical additions.
+What changes is not the scientific status of biology but its explanatory orientation. Agency, normativity, function, and purpose are understood as organisational features emerging within living systems rather than as external metaphysical additions.
 
-The shift is therefore not a rejection of scientific explanation, but a reorganisation of biological explanation itself. APS changes what biology treats as explanatorily primary: not isolated components or historical success alone, but the organised activity through which living systems maintain themselves across time.
+APS therefore represents neither a rejection of science nor a departure from naturalism. It is a reorganisation of biological explanation around the organised activity through which living systems maintain viability and persist through time.
 
-In this sense, APS represents an explanatory and ontological re-centring within biology rather than the introduction of a separate realm of existence.
+The shift is consequently both explanatory and ontological: not the introduction of a separate realm of existence, but a re-centring of biology around organised persistence.

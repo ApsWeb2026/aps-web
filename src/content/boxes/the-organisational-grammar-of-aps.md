@@ -6,8 +6,9 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-06
 date: 2026-05-06
-revised: 2026-05-06
+revised: 2026-06-03
 cluster: conceptual-foundations
+
 seeAlso:
   - viability
   - persistence
@@ -18,6 +19,7 @@ seeAlso:
   - biological-agency
   - semiosis
   - resolution
+
 associatedPages:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
@@ -25,9 +27,9 @@ associatedPages:
   - aps-and-contemporary-theories
 ---
 
-APS does not explain living systems through a single privileged principle or explanatory level. Instead, it organises biological explanation through a coordinated set of explanatory concepts that describe different aspects of viability-oriented organisation.
+APS does not explain living systems through a single privileged principle or explanatory level. Instead, it organises biological explanation through a coordinated set of concepts that illuminate different aspects of viability-oriented organised persistence.
 
-- **Viability** specifies the conditions under which organised persistence can succeed or fail.
+- **Viability** identifies the conditions under which organised persistence can succeed or fail.
 
 - **Persistence** describes the ongoing regeneration of organised activity across time.
 
@@ -37,12 +39,12 @@ APS does not explain living systems through a single privileged principle or exp
 
 - **Scale-coupling** explains how organisation is integrated across spatial and temporal scales.
 
-- **Biological agency** describes the active regulation and modulation of viability-oriented organisation.
+- **Biological agency** describes the active regulation of viability-oriented organisation.
 
-- **Semiosis** structures viability-relevant differences as biologically meaningful within organised activity.
+- **Semiosis** explains how viability-relevant differences become biologically meaningful within organised activity.
 
-- **Resolution** clarifies the explanatory granularity at which organisation is described or analysed.
+- **Resolution** identifies the explanatory granularity at which organisation is described or analysed.
 
-These concepts do not function independently. Together they form an organisational grammar for biological explanation.
+These concepts do not function independently. Together they form an organisational grammar through which living systems can be understood as viability-oriented, dynamically organised, and continuously sustained across time.
 
-APS therefore approaches living systems not as static objects assembled from isolated components, but as dynamically organised, viability-oriented processes distributed across scale, organised through meaningful differentiation, and continuously sustained through reciprocal relations.
+APS therefore approaches life not as a collection of isolated components, but as organised persistence emerging through the coordinated interaction of agency, process, scale, meaning, and organisation.
