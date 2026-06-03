@@ -182,21 +182,17 @@ APS does not, however, treat closure as the ultimate explanatory principle. The 
 
 The architectural sequence is therefore:
 
-```text
-viability
-        ↓
-organised persistence
-        ↓
-constraint closure
-```
+**viability**
+↓
+**organised persistence**
+↓
+**constraint closure**
 
 rather than:
 
-```text
-constraint closure
-        ↓
-life
-```
+**constraint closure**
+↓
+**life**
 
 This ordering is important because it clarifies why closure, development, adaptation, resilience, cognition, ecology, and social organisation all belong within the same framework. Each addresses a different aspect of the broader challenge of maintaining viable continuity through time.
 

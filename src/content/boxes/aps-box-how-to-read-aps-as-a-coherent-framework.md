@@ -5,29 +5,29 @@ slug: how-to-read-aps-as-a-coherent-framework
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-04-18
+revised: 2026-06-03
+cluster: conceptual-foundations
 ---
 
-APS is not a collection of related concepts, but an integrated explanatory framework. Each concept—agency, process, scale, persistence, and others—derives its meaning from its role within this system.
+APS is not a collection of related concepts but an integrated explanatory framework organised around viability-oriented organised persistence. Concepts such as agency, process, scale, persistence, viability, normativity, cognition, and adaptation do not function independently. Each derives its significance from the role it plays within a wider explanatory architecture.
 
-As a result, individual articles are not independent viewpoints. They are expressions of a shared explanatory grammar. Reading them in isolation can obscure their meaning.
+For this reason, individual articles should not be approached as isolated viewpoints. They are expressions of a shared explanatory grammar. Reading concepts in isolation can obscure their meaning because APS develops through relationships among concepts rather than through independently defined theoretical positions.
 
-APS does not redefine biological terms by stipulation. It constrains their use by making explicit the organisational conditions that biological explanation presupposes. In doing so, it does not replace existing meanings, but distinguishes those that support coherent, empirically tractable explanation from those that do not.
+APS does not redefine biological terms by stipulation. Instead, it clarifies the organisational conditions that biological explanation presupposes and constrains conceptual usage accordingly. The framework therefore distinguishes interpretations that support coherent, empirically tractable explanation from those that do not.
 
-To understand APS, it is therefore necessary to ask, at each step:
+When reading APS, it is useful to ask:
 
-- How does this concept depend on others?  
-- What does it make necessary within the framework?  
-- How does it contribute to explaining viability-oriented organisation?  
+- How does this concept depend upon other concepts?
+- What does it make necessary within the framework?
+- How does it contribute to explaining viability-oriented organisation?
+- How does it fit within the broader architecture of organised persistence?
 
-In many conceptual and linguistic systems, adding more content tends to increase complexity while reducing clarity. New terms and distinctions expand the range of possible interpretations, often leading to semantic diffusion.
-
-APS is structured differently. Because its core concepts are mutually constraining, new content does not expand interpretive freedom arbitrarily. Instead, it must align with and reinforce the existing explanatory structure.
+Many conceptual systems become increasingly diffuse as new concepts are added. Additional distinctions expand interpretive possibilities and often generate conceptual fragmentation. APS is organised differently. Because its central concepts are mutually constraining, new material is expected to reinforce and extend the existing explanatory structure rather than create disconnected theoretical branches.
 
 > *In most frameworks, adding content expands what can be said. In APS, it sharpens what must be said.*
 
-Properly integrated additions therefore increase coherence rather than dilute it, making the underlying organisation of the framework more explicit. To read APS effectively is not to accumulate concepts, but to recognise how each addition strengthens the explanatory backbone of the whole.
+Properly integrated additions therefore increase coherence rather than dilute it. Understanding APS is less a matter of accumulating concepts than of recognising how each concept contributes to the explanatory architecture of the whole.
 
-> **APS does not add another perspective to theoretical biology—it changes how biological explanation itself is structured, making its assumptions explicit and its claims empirically testable.**
+> **APS does not simply add another perspective to theoretical biology. It reorganises biological explanation around viability-oriented organised persistence, making its assumptions more explicit, its concepts more integrated, and its claims more empirically tractable.**
 
-In this sense, APS does not merely describe biological organisation—it exemplifies it in the way it explains.
+In this sense, APS does not merely describe organised persistence. Its explanatory structure is itself organised around the same principles of integration, constraint, and coherence that it identifies within living systems.

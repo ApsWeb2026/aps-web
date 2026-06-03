@@ -6,16 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+revised: 2026-06-03
 cluster: conceptual-foundations
 ---
 
-In APS, multiple realization does not mean that the same biological function can be freely produced by any material arrangement.
+In APS, multiple realization does not imply that any material arrangement can perform any biological function. Biological organisation remains constrained by the requirements of viability-oriented persistence.
 
-It means that similar viability-oriented roles may be realised through different material, developmental, ecological, or evolutionary pathways, provided those pathways sustain the relevant organisation.
+What can be multiply realised are not isolated outputs, behaviours, or functions considered in abstraction, but organisational roles within systems that successfully maintain continuity across time. Similar viability-oriented roles may therefore be realised through different material, developmental, ecological, or evolutionary pathways, provided those pathways preserve the organisational relations required for persistence.
 
-What is multiply realised is therefore not an isolated output, behaviour, or function considered in abstraction. It is a role within an organised system of persistence.
+For this reason, APS treats multiple realization as constrained rather than unrestricted. Different structures, mechanisms, or processes may support comparable biological roles only where they maintain the conditions necessary for viability, regulation, development, reproduction, adaptation, or continuity more generally.
 
-For this reason, APS treats multiple realization as constrained rather than unrestricted. Different structures may realise similar biological roles only where they preserve the organisational relations required for viability, regulation, reproduction, development, or adaptive continuity.
+This reframes the concept biologically. The central question is not simply whether different mechanisms can produce the same effect, but whether different forms of organisation can sustain comparable patterns of viable persistence.
 
-This reframes multiple realization biologically. The important question is not simply whether different mechanisms can produce the same effect, but whether different organised processes can sustain comparable conditions of persistence.
+**Key Point:** In APS, multiple realization concerns the possibility that different organisational pathways may sustain similar continuity-preserving roles, provided the requirements of viability-oriented persistence remain satisfied.
