@@ -115,7 +115,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Why Life Is Not Intelligence — An APS Clarification
+## Introduction
 
 > **Where this article fits:** This article clarifies APS’s distinction between life and intelligence. Intelligence is treated as a specialised organisational development within already existing viability-oriented systems rather than as the defining criterion of biological organisation itself. APS therefore situates intelligence downstream from evaluation, semiosis, meaning, representation, cognition, and organised persistence rather than treating intelligence as the explanatory basis of life.
 
