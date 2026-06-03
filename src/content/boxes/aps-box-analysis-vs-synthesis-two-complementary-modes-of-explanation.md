@@ -1,6 +1,6 @@
 ---
 title: Analysis and Synthesis — Complementary Modes of Explanation
-slug: analysis-vs-synthesis-two-complementary-modes-of-explanation
+slug:  analysis-vs-synthesis-two-directions-of-explanation
 type: box
 status: canonical
 canonical: true

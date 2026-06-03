@@ -31,7 +31,7 @@ relatedArticles:
   - how-aps-explains-life
   - aps-viability-oriented-framework
   - explanatory-geometry-of-biology
-  - the-core-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
 ---
 
 ## Introduction
@@ -179,7 +179,7 @@ The triads therefore function as explanatory constraints. They help ensure that 
 
 APS consequently uses conceptual triads not because life contains multiple competing foundations, but because living organisation cannot be adequately understood from only one explanatory viewpoint.
 
-[[box:analysis-and-synthesis-complementary-modes-of-explanation]]
+[[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 ## Why APS Emphasises Diagnosis Rather Than Classification
 
