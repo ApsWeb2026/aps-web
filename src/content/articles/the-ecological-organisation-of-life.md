@@ -530,41 +530,13 @@ Together they reveal that continuity is often sustained through ecological and s
 
 At this point the broader significance of the ecological domain becomes visible.
 
-Ecology is often presented as a collection of topics including habitats, niches, resources, competition, ecosystems, communities, resilience, and organism–environment interactions. All remain important. APS argues, however, that these concepts become most intelligible when viewed through the common problem they address.
+Ecology is often presented as a collection of topics including habitats, niches, resources, competition, ecosystems, communities, resilience, and organism–environment interactions. All remain important. APS argues, however, that these concepts become most intelligible when viewed through the common problem they address: how continuity remains possible when the conditions supporting continuity extend beyond the organism itself.
 
-How does continuity remain possible when the conditions supporting continuity extend beyond the organism itself?
+Organism–environment coupling provides the foundation for this ecological architecture. Niches organise opportunities for continuity, resources support viability, constraints shape the pathways through which persistence can be achieved, and resilience preserves continuity despite disruption. Development, evolution, cognition, and social organisation all remain connected to these ecological conditions, revealing the extent to which continuity depends upon relationships extending beyond the organism itself.
 
-Organism–environment coupling provides the foundation.
+The ecological domain therefore possesses a deep explanatory unity. It is organised around the problem of distributed persistence: the fact that continuity emerges not solely within organisms but through larger ecological organisations linking living systems to the conditions upon which viability depends. Ecology explains how these relationships are organised and how they contribute to persistence across changing circumstances and multiple scales.
 
-Niches organise opportunities for continuity.
-
-Resources support continuity.
-
-Constraints shape continuity.
-
-Resilience preserves continuity despite disruption.
-
-Development, evolution, cognition, and social organisation all remain connected to the ecological conditions through which continuity is sustained.
-
-The ecological domain therefore possesses a deep explanatory unity.
-
-It is organised around the problem of distributed persistence.
-
-Continuity emerges not solely within organisms but through larger ecological organisations linking living systems to the conditions upon which viability depends.
-
-This insight explains why ecology occupies such a central place within APS.
-
-Development explains continuity through transformation.
-
-Evolution explains continuity through historical transformation.
-
-Cognition explains continuity through evaluation.
-
-Social organisation explains continuity through coordination.
-
-Ecology explains continuity through coupling.
-
-Each continuity architecture addresses a different aspect of the same underlying challenge: how viability-oriented organised persistence remains possible across changing conditions and multiple scales of organisation.
+This insight explains why ecology occupies such a central place within APS. Development explains continuity through transformation, evolution explains continuity through historical transformation, cognition explains continuity through evaluation, and social organisation explains continuity through coordination. Ecology contributes a complementary perspective by explaining how continuity is maintained through organism–environment coupling. Each continuity architecture addresses a different aspect of the same underlying challenge: how viability-oriented organised persistence remains possible across changing conditions and across the many scales at which life unfolds.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/ecological-continuity.png" target="_blank" rel="noopener">
@@ -583,27 +555,15 @@ Each continuity architecture addresses a different aspect of the same underlying
 
 ## The Ecological Organisation of Life
 
-The APS synthesis of ecology begins with a simple observation.
+The APS synthesis of ecology begins with a simple observation: no organism persists alone.
 
-No organism persists alone.
+Every living system depends upon conditions extending beyond its own boundaries. Resources must be acquired, ecological relationships must be maintained, and environmental uncertainties must be navigated. Viability therefore depends upon more than internal organisation. It depends upon ecological organisation.
 
-Every living system depends upon conditions extending beyond its own boundaries. Resources must be acquired. Ecological relationships must be maintained. Environmental uncertainties must be navigated. Viability therefore depends upon more than internal organisation.
+This perspective transforms the role of ecology within biological explanation. Ecology is not merely the study of external influences acting upon organisms. It is the study of the continuity-preserving relationships through which organisms remain viable across time. Organism–environment coupling, niches, resources, constraints, and resilience are not separate topics but interconnected aspects of a larger ecological architecture supporting persistence.
 
-It depends upon ecological organisation.
+The result is a view of life that is simultaneously relational and organisational. Organisms remain indispensable, yet continuity emerges through ecological systems extending beyond the organism itself. Persistence becomes distributed across relationships linking living systems to the conditions required for viability, revealing that the maintenance of life depends upon the organisation of those relationships as much as upon the organisation of the organisms themselves.
 
-This perspective transforms the role of ecology within biological explanation.
-
-Ecology is not merely the study of external influences acting upon organisms. It is the study of the continuity-preserving relationships through which organisms remain viable across time. Organism–environment coupling, niches, resources, constraints, and resilience all become aspects of a larger ecological architecture supporting persistence.
-
-The result is a view of life that is simultaneously relational and organisational.
-
-Organisms remain indispensable. Yet continuity emerges through ecological systems extending beyond the organism itself. Persistence becomes distributed across relationships linking living systems to the conditions required for viability.
-
-The ecological organisation of life therefore reveals one of the central insights of APS.
-
-Life persists not only because organisms are organised.
-
-Life persists because organism–environment relations are organised.
+The ecological organisation of life therefore reveals one of the central insights of APS. Life persists not only because organisms are organised. Life persists because organism–environment relations are organised in ways that continually contribute to the preservation of viability across time.
 
 ## Conclusion
 
@@ -611,17 +571,11 @@ The ecological domain exists because continuity depends upon more than the organ
 
 Living systems remain viable only through ongoing engagement with ecological conditions that provide resources, opportunities, constraints, and forms of support extending beyond their own organisation. Ecology therefore addresses one of the most fundamental problems in biology: how continuity remains possible when the conditions required for continuity are never entirely under the organism's control.
 
-APS interprets ecology as a continuity architecture organised around organism–environment coupling.
+APS interprets ecology as a continuity architecture organised around organism–environment coupling. Niches structure opportunities for persistence, resources support viability, constraints organise possibilities, and resilience preserves continuity despite disruption. Together these ecological organisations create the conditions through which living systems remain viable across changing circumstances.
 
-Niches structure opportunities for persistence. Resources support viability. Constraints organise possibilities. Resilience preserves continuity despite disruption. Development, evolution, cognition, and social organisation all remain connected to the ecological conditions through which persistence is maintained.
+Seen from this perspective, ecology is not simply one biological domain among others. It forms a central component of the broader continuity architecture of life. Development, evolution, cognition, and social organisation each address different dimensions of organised persistence, yet all remain connected to the ecological conditions through which continuity is sustained. Ecology therefore helps reveal the relational foundations upon which the rest of biological organisation depends.
 
-Together these processes reveal a common pattern.
-
-Continuity emerges through relationships.
-
-The ecological organisation of life demonstrates that persistence is not simply an internal achievement. It is an ecological accomplishment realised through the continuing organisation of organism–environment systems across time.
-
-Life persists because ecological continuity persists.
+The ecological organisation of life demonstrates that persistence is not simply an internal achievement. It is an ecological accomplishment realised through the continuing organisation of organism–environment systems across time. Life persists because ecological continuity persists, and ecological continuity persists because living systems remain embedded within continuity-preserving relationships that extend beyond themselves.
 
 ## Where to Go Next
 
