@@ -16,17 +16,7 @@ abstract: >
   continued organisation. Viability grounds agency, agency requires
   evaluation, and evaluation generates biological normativity.
 
-keywords:
-  - viability
-  - agency
-  - evaluation
-  - normativity
-  - function
-  - purpose
-  - semiosis
-  - meaning
-
-glossary:
+relatedGlossaryTerms:
   - viability
   - biological-agency
   - organised-persistence
@@ -40,16 +30,8 @@ glossary:
   - adaptation
   - malfunction
 
-related:
-  - biological-agency
-  - evaluation
-  - normativity
-  - function
-  - purpose
+relatedArticles:
   - teleonomy
-  - meaning-in-biology
-  - semiosis
-  - information-in-biology
   - why-philosophy-of-biology-matters
 
 references:
