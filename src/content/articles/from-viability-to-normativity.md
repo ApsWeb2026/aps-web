@@ -10,7 +10,7 @@ cluster: philosophy-of-biology
 
 abstract: >
   This article explains how biological normativity arises within the APS
-  framework. APS explains biological normativity as an emergent consequence of viability-oriented organised persistence. Norms, functions, purposes, and meanings are not externally imposed upon living systems but arise through the evaluative organisation required to maintain viability across time. Viability grounds agency, agency requires evaluation, and evaluation generates biological normativity. Because biological
+  framework. APS explains biological normativity as an emergent consequence of viability-oriented organised persistence. Norms, functions, purposes, and meanings are not externally imposed upon living systems but arise through the evaluative organisation required to maintain viability across time. Because biological
   agents must maintain the conditions of their own persistence, they must
   evaluate states, actions, and outcomes as more or less supportive of
   continued organisation. Viability grounds agency, agency requires
