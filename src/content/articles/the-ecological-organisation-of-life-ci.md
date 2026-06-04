@@ -134,7 +134,7 @@ references:
 
 ---
 
-# The Ecological Organisation of Life
+## Introduction
 
 No organism produces all of the conditions required for its own persistence.
 
@@ -383,9 +383,9 @@ The ecological domain therefore possesses a deep explanatory unity. It is organi
 This insight explains why ecology occupies such a central place within APS. Development explains continuity through transformation, evolution explains continuity through historical transformation, cognition explains continuity through evaluation, and social organisation explains continuity through coordination. Ecology contributes a complementary perspective by explaining how continuity is maintained through organism–environment coupling. Each continuity architecture addresses a different aspect of the same underlying challenge: how viability-oriented organised persistence remains possible across changing conditions and across the many scales at which life unfolds.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/ecological-continuity.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/ecology-continuity-visual.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/ecological-continuity.png"
+      src="/assets/diagrams/ecology-continuity-visual.png"
       alt="Ecology as a continuity architecture linking organisms, environments, resources, constraints, resilience, and broader biological processes"
       loading="lazy"
     />
