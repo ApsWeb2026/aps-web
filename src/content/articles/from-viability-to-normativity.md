@@ -10,8 +10,7 @@ cluster: philosophy-of-biology
 
 abstract: >
   This article explains how biological normativity arises within the APS
-  framework. APS explains biological normativity as an emergent consequence of viability-oriented organised persistence. Norms, functions, purposes, and meanings are not externally imposed upon living systems but arise through the evaluative organisation required to maintain viability across time. Instead, normativity emerges through
-  the organisation of living systems around viability. Because biological
+  framework. APS explains biological normativity as an emergent consequence of viability-oriented organised persistence. Norms, functions, purposes, and meanings are not externally imposed upon living systems but arise through the evaluative organisation required to maintain viability across time. Viability grounds agency, agency requires evaluation, and evaluation generates biological normativity. Because biological
   agents must maintain the conditions of their own persistence, they must
   evaluate states, actions, and outcomes as more or less supportive of
   continued organisation. Viability grounds agency, agency requires
@@ -82,7 +81,7 @@ references:
   - id: weber-varela-2002
     authors: Weber, A., & Varela, F. J.
     year: 2002
-    title: Life after Kant: Natural Purposes and the Autopoietic Foundations of Biological Individuality
+    title: "Life after Kant: Natural Purposes and the Autopoietic Foundations of Biological Individuality"
     journal: Phenomenology and the Cognitive Sciences
     volume: 1(2)
     pages: 97–125
@@ -114,7 +113,7 @@ references:
   - id: nicholson-dupre-2018
     authors: Nicholson, D. J., & Dupré, J.
     year: 2018
-    title: Everything Flows: Towards a Processual Philosophy of Biology
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: Oxford University Press
     doi: 10.1093/oso/9780198779636.001.0001
 
@@ -128,7 +127,7 @@ references:
   - id: rama-2026
     authors: Rama, T.
     year: 2026
-    title: Autonomy and Development: Distinguishing Teleological Development from Teleological Physiology
+    title: "Autonomy and Development: Distinguishing Teleological Development from Teleological Physiology"
     publisher: PhilSci Archive
 
   - id: spencer-2026
@@ -177,6 +176,13 @@ Living systems must remain viable in order to persist. Maintaining viability req
 
 Understanding this connection provides the first step toward explaining the origin of biological normativity. Once living systems are understood as agents organised around maintaining viability, a further question immediately arises: how can such agents distinguish between activities that support persistence and those that undermine it? The answer to that question introduces the next step in the sequence—evaluation.
 
+<div class="aps-diagram">
+  <img src="/assets/diagrams/viability-normativity.png" alt="From viability to normativity: the APS explanatory pathway" />
+  <p class="diagram-caption">
+    Figure. The APS explanatory pathway from organised persistence to biological normativity. Living systems maintain viability through agency. Agency requires evaluation, and evaluation generates the normative distinctions that support function, purpose, teleonomy, semiosis, and meaning.
+  </p>
+</div>
+
 ## Agency Requires Discrimination
 
 If agency is viability-oriented activity, then agency alone is not sufficient to explain how living systems maintain themselves. Activity can contribute to persistence, but it can also undermine it. A system organised around viability must therefore do more than act. It must, in some manner, distinguish between conditions that support continued persistence and those that threaten it.
@@ -211,7 +217,7 @@ Evaluation therefore underlies many phenomena already discussed elsewhere within
 
 Across these diverse examples, evaluation functions as a unifying explanatory principle. It provides the organisational bridge linking viability-oriented agency to the regulatory capacities that characterise living systems.
 
-[[evaluation-as-the-bridge-to-normativity]]
+[[box:evaluation-as-the-bridge-to-normativity]]
 
 ## The Emergence of a New Question
 
@@ -228,6 +234,8 @@ If viability grounds agency, then agency in turn requires evaluation. The capaci
 The emergence of evaluation therefore establishes the foundation upon which biological normativity can arise.
 
 Normativity should not be confused with viability itself. Viability specifies the organisational conditions under which persistence remains possible. Normativity emerges only when a viability-oriented agent evaluates conditions, activities, and outcomes relative to those requirements.
+
+[[box:viability-is-not-yet-normativity]]
 
 ## Normativity Emerges from Evaluation
 
