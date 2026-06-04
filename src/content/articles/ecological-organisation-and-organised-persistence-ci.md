@@ -83,7 +83,7 @@ references:
     source: "Springer"
 ---
 
-# Ecological Organisation and Organised Persistence
+## Introduction
 
 > **Where this article fits:** This article provides a focused conceptual clarification of ecological organisation within APS. Whereas *Ecology as Organised Persistence Across Scales* develops the broader multiscale ecological architecture of the framework, the present article concentrates specifically upon the organisational relation between ecological coupling and viable persistence.
 
