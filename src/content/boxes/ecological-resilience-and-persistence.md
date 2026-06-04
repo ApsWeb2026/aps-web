@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
-revised: 2026-06-01
+revised: 2026-06-04
 cluster: ecological-organisation
 ---
 
@@ -27,6 +27,6 @@ APS treats resilience as a continuity-preserving property rather than
 simply a measure of resistance to change.
 
 Resilient systems persist not because nothing changes but because change
-can be accommodated without collapse.
+can be accommodated through reorganisation without loss of viability.
 
 Ecological continuity depends upon this capacity.

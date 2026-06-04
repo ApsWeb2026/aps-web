@@ -19,12 +19,13 @@ abstract: >
   environments; their continuity depends upon ongoing ecological
   organisation distributed across resources, niches, organism–
   environment coupling, ecological resilience, developmental
-  conditions, and evolutionary processes. Ecology therefore becomes
-  one of the major continuity architectures through which living
-  systems sustain viability across changing conditions, scales, and
-  timescales. This article presents the APS synthesis of ecological
-  organisation and explains why ecology is indispensable to the
-  persistence of life.
+  conditions, evolutionary processes, and forms of ecological
+  significance that shape agency and cognition. Ecology therefore
+  becomes one of the major continuity architectures through which
+  living systems sustain viability across changing conditions,
+  scales, and timescales. This article presents the APS synthesis
+  of ecological organisation and explains why ecology is
+  indispensable to the persistence of life.
 
 relatedGlossaryTerms:
   - ecology
@@ -151,13 +152,9 @@ For APS, ecology provides a large part of the answer.
 
 Ecology is often described as the study of interactions between organisms and environments. While valuable, this description captures only part of its significance. APS approaches ecology from a broader perspective. The central issue is not merely interaction but persistence. Organisms remain viable only because they participate in larger ecological organisations that continually contribute to the conditions required for continuity.
 
-This changes the role of ecology within biological explanation.
+This changes the role of ecology within biological explanation. The environment is no longer a backdrop against which life unfolds. Nor is ecology merely an external influence acting upon otherwise self-contained organisms. Ecological organisation becomes part of the explanation of life itself.
 
-The environment is no longer a backdrop against which life unfolds. Nor is ecology merely an external influence acting upon otherwise self-contained organisms. Ecological organisation becomes part of the explanation of life itself.
-
-To understand persistence therefore requires understanding ecology.
-
-Not because ecology surrounds living systems, but because continuity emerges through ecological organisation from the very beginning.
+To understand persistence therefore requires understanding ecology—not because ecology surrounds living systems, but because continuity emerges through ecological organisation from the very beginning.
 
 > **Where this article fits:** *Ecology as Organised Persistence Across Scales* introduces the APS approach to ecological explanation. This article serves a broader purpose. It provides a synthesis of the ecological domain as a whole and explains why ecology occupies a central place within viability-oriented organised persistence.
 
@@ -167,13 +164,9 @@ Not because ecology surrounds living systems, but because continuity emerges thr
 
 One of the most remarkable features of living systems is their ability to maintain continuity despite continual uncertainty.
 
-Organisms never exist under perfectly stable conditions. Resources become available and disappear. Ecological opportunities emerge unexpectedly. Competitors alter access to resources. Predators introduce risks. Habitats change. Environmental conditions fluctuate across timescales ranging from moments to millennia.
+Organisms never exist under perfectly stable conditions. Resources become available and disappear. Ecological opportunities emerge unexpectedly. Competitors alter access to resources. Predators introduce risks. Habitats change. Environmental conditions fluctuate across timescales ranging from moments to millennia. Yet continuity often survives these disruptions.
 
-Yet continuity often survives these disruptions.
-
-The traditional ecological question asks how organisms interact with changing environments. APS begins with a deeper question.
-
-Why are these interactions so important to persistence in the first place?
+The traditional ecological question asks how organisms interact with changing environments. APS begins with a deeper question: why are these interactions so important to persistence in the first place?
 
 The answer lies in the nature of viability itself.
 
@@ -181,25 +174,11 @@ No living system is entirely self-sufficient. Internal regulation, however sophi
 
 It depends upon ecological organisation.
 
-This insight transforms the explanatory role of ecology.
+This insight transforms the explanatory role of ecology. Ecology is not simply the study of influences acting upon organisms from outside. It becomes the study of the relationships through which continuity is maintained beyond the organism itself. The ecological domain investigates how resources, environments, interactions, and larger ecological systems contribute to the preservation of viability across time.
 
-Ecology is not simply the study of influences acting upon organisms from outside. It becomes the study of the relationships through which continuity is maintained beyond the organism itself. The ecological domain investigates how resources, environments, interactions, and larger ecological systems contribute to the preservation of viability across time.
+Seen from this perspective, ecology appears throughout biology. Development depends upon developmental environments. Adaptation depends upon ecological circumstances. Evolution depends upon ecological conditions. Behaviour depends upon ecological opportunities and constraints. Cognition depends upon environments structured by differences that matter.
 
-Seen from this perspective, ecology appears everywhere in biology.
-
-Development depends upon developmental environments.
-
-Adaptation depends upon ecological circumstances.
-
-Evolution depends upon ecological conditions.
-
-Behaviour depends upon ecological opportunities and constraints.
-
-Cognition depends upon environments structured by differences that matter.
-
-Ecology therefore occupies a distinctive place within APS.
-
-It links the continuity of organisms to the larger organisations that make continuity possible.
+Ecology therefore occupies a distinctive place within APS. It links the continuity of organisms to the larger organisations that make continuity possible.
 
 ## The Ecological Problem
 
@@ -217,27 +196,15 @@ The challenge is maintaining viable relations with a world that remains partly i
 
 This is the ecological problem.
 
-Organisms cannot simply preserve themselves through internal regulation alone. Continuity depends upon ongoing engagement with ecological conditions that are often changing, uncertain, and only partially predictable. Persistence therefore requires more than maintaining internal organisation. It requires maintaining viable organism–environment relationships.
+Organisms cannot preserve themselves through internal regulation alone. Continuity depends upon ongoing engagement with ecological conditions that are often changing, uncertain, and only partially predictable. Persistence therefore requires more than maintaining internal organisation. It requires maintaining viable organism–environment relationships.
 
-Many ecological concepts can be understood as responses to this problem.
-
-Predation concerns threats to continuity.
-
-Resource acquisition concerns opportunities for continuity.
-
-Mutualistic relationships concern shared contributions to continuity.
-
-Niches concern the ecological conditions supporting continuity.
-
-Resilience concerns the recovery of continuity following disruption.
+Many familiar ecological concepts can be understood as responses to this problem. Predation concerns threats to continuity. Resource acquisition concerns opportunities for continuity. Mutualistic relationships concern shared contributions to continuity. Niches concern the ecological conditions supporting continuity. Resilience concerns the recovery of continuity following disruption.
 
 At first glance these topics may appear unrelated. Viewed through the lens of organised persistence, however, they reveal a common concern.
 
 Each addresses how continuity remains possible despite ecological uncertainty.
 
-The ecological domain therefore possesses a deeper unity than is often recognised.
-
-It is organised around a single explanatory challenge: how living systems remain viable through ongoing ecological engagement with worlds they neither fully control nor entirely escape.
+The ecological domain therefore possesses a deeper unity than is often recognised. It is organised around a single explanatory challenge: how living systems remain viable through ongoing ecological engagement with worlds they neither fully control nor entirely escape.
 
 ## Organisms Do Not Persist Alone
 
@@ -245,7 +212,7 @@ The ecological problem reaches its clearest expression in a simple but far-reach
 
 Organisms do not persist alone.
 
-At first glance, this claim may appear almost self-evident. Every organism depends upon food, water, habitats, and ecological conditions. Yet APS argues that the implications are much deeper than is usually appreciated.
+At first glance this claim may appear self-evident. Every organism depends upon food, water, habitats, and ecological conditions. Yet APS argues that its implications are much deeper than is usually appreciated.
 
 Consider a forest tree.
 
@@ -257,17 +224,7 @@ The tree depends upon soil communities, nutrient cycles, microbial partnerships,
 
 The persistence of the tree therefore emerges through a larger ecological organisation.
 
-The same pattern appears throughout the living world.
-
-Animals depend upon food webs.
-
-Microorganisms depend upon chemical environments.
-
-Developing organisms depend upon developmental niches.
-
-Populations depend upon ecosystems.
-
-Species depend upon ecological relationships accumulated across evolutionary time.
+The same pattern appears throughout the living world. Animals depend upon food webs. Microorganisms depend upon chemical environments. Developing organisms depend upon developmental niches. Populations depend upon ecosystems. Species depend upon ecological relationships accumulated across evolutionary time.
 
 In every case, continuity extends beyond the organism.
 
@@ -281,9 +238,7 @@ It participates in life.
 
 Ecological organisation contributes directly to the continuity-preserving processes through which viability is maintained. The persistence of living systems therefore cannot be fully explained by examining organisms in isolation. Continuity emerges through relationships distributed across larger ecological organisations.
 
-Understanding ecology consequently requires moving beyond the image of organisms confronting external environments.
-
-Organism and environment must instead be understood as participants within larger continuity-preserving systems.
+Understanding ecology consequently requires moving beyond the image of organisms confronting external environments. Organism and environment must instead be understood as participants within larger continuity-preserving systems.
 
 The question then becomes:
 
@@ -297,33 +252,19 @@ If organisms do not persist alone, continuity must somehow emerge through relati
 
 The key issue is not merely interaction.
 
-Organisms interact with countless features of their surroundings, many of which have little bearing on persistence. What matters biologically is the subset of relationships that contribute directly to viability across time.
-
 APS describes this organisation through the concept of organism–environment coupling.
 
 Coupling refers to the ongoing reciprocal relationships through which organisms and environments contribute to one another's continuity. Persistence emerges not from the organism alone and not from the environment alone, but through their continuing organisation together.
 
-This perspective represents an important shift in biological explanation.
+This perspective represents an important shift in biological explanation. Traditional descriptions often portray organisms as entities responding to external circumstances. APS instead emphasises the relational systems through which continuity is maintained. The focus moves from isolated organisms to continuity-preserving organism–environment organisations.
 
-Traditional descriptions often portray organisms as entities responding to external circumstances. APS instead emphasises the relational systems through which continuity is maintained. The focus moves from isolated organisms to continuity-preserving organism–environment organisations.
-
-Examples appear throughout biology.
-
-A plant and its soil community are coupled through nutrient exchange.
-
-A pollinator and a flowering plant are coupled through mutually beneficial interaction.
-
-A grazing animal and its food resources are coupled through ongoing ecological dependence.
-
-A developing organism and its developmental environment are coupled through conditions supporting growth and viability.
+Examples appear throughout biology. A plant and its soil community are coupled through nutrient exchange. A pollinator and a flowering plant are coupled through mutually beneficial interaction. A grazing animal and its food resources are coupled through ongoing ecological dependence. A developing organism and its developmental environment are coupled through conditions supporting growth and viability.
 
 In each case, continuity depends upon relationships extending beyond the boundaries of the organism itself.
 
 The significance of coupling therefore lies in what it reveals about persistence.
 
-Continuity is rarely produced entirely from within.
-
-It emerges through ecological organisations distributed across organism–environment systems whose ongoing interactions contribute to viability through time.
+Continuity is rarely produced entirely from within. It emerges through ecological organisations distributed across organism–environment systems whose ongoing interactions contribute to viability through time.
 
 The organism influences the environment.
 
@@ -359,9 +300,11 @@ Opportunities matter because they enhance persistence.
 
 The environment encountered by an organism is consequently not a neutral physical space. It is a world organised around differences that matter to continuity.
 
-This observation creates an important bridge to other areas of APS.
+Because organisms must continually act in ways that preserve viability, ecological significance is inseparable from agency. Opportunities, threats, resources, and constraints matter not simply because they exist, but because they shape the activities through which living systems maintain continuity. Ecological organisation therefore helps define the conditions within which biological agency becomes possible and effective.
 
-The significance of ecological conditions provides the foundation for evaluation, meaning, information, and cognition. Organisms respond selectively to ecological circumstances because some features contribute differently to viability than others. The ecological world therefore becomes a world of biological relevance rather than merely physical existence.
+This observation creates an important bridge to other areas of APS. The significance of ecological conditions provides the foundation for evaluation, meaning, information, and cognition. Organisms respond selectively to ecological circumstances because some features contribute differently to viability than others. The ecological world therefore becomes a world of biological relevance rather than merely physical existence.
+
+Affordances provide one way in which ecological significance becomes operational. They identify possibilities for action that emerge within organism–environment relations. In APS, affordances are not merely environmental features but viability-relevant opportunities whose significance depends upon the organisation of the living system encountering them. What counts as an opportunity for one organism may be irrelevant, inaccessible, or threatening for another.
 
 Ecology thus occupies a pivotal position within the APS framework.
 
@@ -427,19 +370,9 @@ Yet resources alone do not explain ecological continuity.
 
 The ecological world is also structured by constraints.
 
-Not every opportunity is available.
+Not every opportunity is available. Not every pathway remains viable. Organisms confront limitations imposed by resource availability, competition, predation, environmental conditions, developmental capacities, and ecological relationships. These constraints influence how persistence can be achieved and help shape the trajectories through which continuity unfolds.
 
-Not every pathway remains viable.
-
-Organisms confront limitations imposed by resource availability, competition, predation, environmental conditions, developmental capacities, and ecological relationships. These constraints influence how persistence can be achieved and help shape the trajectories through which continuity unfolds.
-
-At first glance, resources and constraints may appear to perform opposing functions.
-
-Resources support persistence.
-
-Constraints restrict persistence.
-
-APS instead interprets both as components of a common ecological organisation.
+At first glance, resources and constraints may appear to perform opposing functions. Resources support persistence while constraints restrict it. APS instead interprets both as components of a common ecological organisation.
 
 Resources make continuity possible.
 
@@ -447,9 +380,7 @@ Constraints organise continuity.
 
 Together they shape the ecological conditions within which viability can be maintained.
 
-This perspective highlights an important feature of ecological explanation.
-
-Persistence depends not upon unlimited possibility but upon structured possibility. Living systems survive because ecological organisations provide opportunities while simultaneously constraining those opportunities into forms compatible with continued viability.
+This perspective highlights an important feature of ecological explanation. Persistence depends not upon unlimited possibility but upon structured possibility. Living systems survive because ecological organisations provide opportunities while simultaneously constraining those opportunities into forms compatible with continued viability.
 
 The ecological world therefore becomes intelligible as an organised field of possibilities.
 
@@ -489,29 +420,17 @@ Resilience reveals how continuity is maintained in a world where disruption is i
 
 Ecological systems persist not because disturbances never occur but because ecological organisation allows continuity to survive disturbances when they do occur.
 
-This principle appears throughout biology.
-
-Organisms recover from injury.
-
-Populations recover from decline.
-
-Communities reorganise following disturbance.
-
-Ecosystems adapt to changing conditions.
-
-In each case, resilience reflects the capacity of ecological organisation to preserve continuity despite transformation.
+This principle appears throughout biology. Organisms recover from injury. Populations recover from decline. Communities reorganise following disturbance. Ecosystems adapt to changing conditions. In each case, resilience reflects the capacity of ecological organisation to preserve continuity despite transformation.
 
 [[box:ecological-resilience-and-persistence]]
 
-The importance of resilience extends beyond ecology itself.
-
-It reveals a general principle that appears repeatedly throughout APS. Development preserves continuity through transformation. Evolution preserves continuity through historical transformation. Social systems preserve continuity through coordinated transformation. Ecological resilience expresses the same underlying logic within the ecological domain.
+The importance of resilience extends beyond ecology itself. It reveals a general principle that appears repeatedly throughout APS. Development preserves continuity through transformation. Evolution preserves continuity through historical transformation. Social systems preserve continuity through coordinated transformation. Ecological resilience expresses the same underlying logic within the ecological domain.
 
 Persistence is not the avoidance of change.
 
 Persistence is the organised capacity to survive change.
 
-Understanding this principle prepares us to examine how ecological continuity connects to the broader continuity architectures of life, including development, evolution, and cognition.
+Understanding this principle prepares us to examine how ecological continuity connects to the broader continuity architectures of life, including development, evolution, cognition, and social organisation.
 
 ## Ecology and Development
 
@@ -519,25 +438,15 @@ The ecological perspective developed throughout this article ultimately leads be
 
 If continuity depends upon organism–environment coupling, then developmental organisation cannot be understood independently of ecological conditions. Development does not occur within a vacuum. Every developmental process unfolds within environments that contribute directly to the preservation of viability.
 
-This relationship begins at the earliest stages of life.
-
-Developing organisms depend upon nutritional resources, physical conditions, ecological relationships, and continuity-supporting environments that make growth and differentiation possible. Yet ecological contributions to development do not end once adult form is achieved. Repair, learning, physiological regulation, behavioural adaptation, and ageing all continue to depend upon ecological circumstances throughout the lifespan.
+This relationship begins at the earliest stages of life. Developing organisms depend upon nutritional resources, physical conditions, ecological relationships, and continuity-supporting environments that make growth and differentiation possible. Yet ecological contributions to development do not end once adult form is achieved. Repair, learning, physiological regulation, behavioural adaptation, and ageing all continue to depend upon ecological circumstances throughout the lifespan.
 
 Development therefore extends beyond the organism.
 
 The continuity-preserving processes explored in *The Developmental Organisation of Life* remain inseparable from the ecological organisations that support them. Developmental trajectories emerge through ongoing engagement with environments that provide opportunities, resources, constraints, and conditions required for viability.
 
-The relationship is reciprocal.
+The relationship is reciprocal. Development shapes how organisms engage with ecological worlds, while ecology shapes the developmental possibilities available to organisms. APS consequently treats both domains as complementary continuity architectures whose explanatory power increases when considered together rather than separately.
 
-Development shapes how organisms engage with ecological worlds.
-
-Ecology shapes the developmental possibilities available to organisms.
-
-APS consequently treats both domains as complementary continuity architectures.
-
-Development explains how continuity is maintained through transformation within organisms.
-
-Ecology explains how continuity is maintained through the organism–environment relationships that support those transformations.
+Development explains how continuity is maintained through transformation within organisms. Ecology explains how continuity is maintained through the organism–environment relationships that support those transformations.
 
 Together they reveal that persistence depends simultaneously upon developmental and ecological organisation.
 
@@ -565,11 +474,7 @@ This reciprocal relationship helps explain why neither domain can be fully under
 
 The ecological conditions supporting continuity today reflect evolutionary histories extending deep into the past. Conversely, evolutionary continuity remains inseparable from the ecological circumstances through which viability is maintained across generations.
 
-APS therefore treats ecology and evolution as interdependent continuity architectures operating at different timescales.
-
-Ecology explains how continuity is maintained through present organism–environment relations.
-
-Evolution explains how continuity is maintained through historical transformation across generations.
+APS therefore treats ecology and evolution as interdependent continuity architectures operating at different timescales. Ecology explains how continuity is maintained through present organism–environment relations. Evolution explains how continuity is maintained through historical transformation across generations.
 
 Together they reveal how persistence extends simultaneously across ecological and historical dimensions.
 
@@ -593,9 +498,7 @@ Without viability-relevant differences, information would lack biological import
 
 Ecology thus provides the continuity conditions from which cognitive organisation emerges.
 
-The relationship also operates in the opposite direction.
-
-Organisms do not merely respond passively to ecological conditions. Cognitive capacities increasingly shape how ecological worlds are encountered, interpreted, and modified. Learning, memory, communication, and planning alter organism–environment relationships in ways that influence future continuity.
+The relationship also operates in the opposite direction. Organisms do not merely respond passively to ecological conditions. Cognitive capacities increasingly shape how ecological worlds are encountered, interpreted, and modified. Learning, memory, communication, and planning alter organism–environment relationships in ways that influence future continuity.
 
 Ecology and cognition therefore become increasingly integrated.
 
@@ -604,6 +507,24 @@ The ecological world provides significance.
 Cognition organises responsiveness to significance.
 
 Together they reveal how continuity depends not only upon environmental conditions but also upon the capacities through which organisms navigate those conditions.
+
+## Ecology and Social Organisation
+
+The ecological domain also connects directly to the social organisation of life.
+
+For many organisms, and especially for humans, continuity increasingly depends upon ecological conditions that are mediated through social processes. Communication, cooperation, institutions, technologies, economic systems, and cultural practices reshape how resources are accessed, how risks are managed, and how opportunities for persistence are organised.
+
+Social organisation therefore does not replace ecology.
+
+It transforms ecology.
+
+The ecological worlds inhabited by socially organised organisms are partly constructed through collective activity. Human environments in particular are increasingly shaped by social continuity architectures that influence the ecological conditions under which persistence occurs.
+
+This relationship is reciprocal. Ecological constraints shape social possibilities, while social organisation modifies ecological realities. Understanding either domain therefore requires recognising its continuing dependence upon the other.
+
+APS consequently treats ecological and social organisation as complementary dimensions of organised persistence. Ecology explains how continuity is supported through organism–environment relations. Social organisation explains how continuity can become coordinated, distributed, and maintained through collective forms of activity.
+
+Together they reveal that continuity is often sustained through ecological and social organisation simultaneously.
 
 ## Ecology as a Continuity Architecture
 
@@ -623,7 +544,7 @@ Constraints shape continuity.
 
 Resilience preserves continuity despite disruption.
 
-Development, evolution, and cognition all remain connected to the ecological conditions through which continuity is sustained.
+Development, evolution, cognition, and social organisation all remain connected to the ecological conditions through which continuity is sustained.
 
 The ecological domain therefore possesses a deep explanatory unity.
 
@@ -676,9 +597,7 @@ Ecology is not merely the study of external influences acting upon organisms. It
 
 The result is a view of life that is simultaneously relational and organisational.
 
-Organisms remain indispensable.
-
-Yet continuity emerges through ecological systems extending beyond the organism itself. Persistence becomes distributed across relationships linking living systems to the conditions required for viability.
+Organisms remain indispensable. Yet continuity emerges through ecological systems extending beyond the organism itself. Persistence becomes distributed across relationships linking living systems to the conditions required for viability.
 
 The ecological organisation of life therefore reveals one of the central insights of APS.
 

@@ -174,8 +174,8 @@ Development occupies a central position within APS because living systems mainta
 Readers interested in developmental theory, developmental organisation, developmental plasticity, stability, repair, and continuity may begin with:
 
 - *[Development as Organised Persistence](/articles/development-as-organised-persistence/)*
-- *[Development and Biological Continuity](/articles/development-and-biological-continuity/)*
-- *[Developmental Stability Is Not Rigidity](/articles/developmental-stability-is-not-rigidity/)*
+- *[Development and Biological Continuity](/articles/the-developmental-organisation-of-life/)*
+- *[Developmental Stability Is Not Rigidity](/articles/the-developmental-organisation-of-life/)*
 - *[The Developmental Organisation of Life](/articles/the-developmental-organisation-of-life/)*
 
 These articles explore development as a continuity architecture through which living systems sustain viability across changing conditions and life stages.
@@ -225,7 +225,7 @@ APS extends continuity analysis beyond individual organisms into larger-scale sy
 Readers interested in social continuity, norms, collective persistence, social coordination, and cultural organisation may begin with:
 
 - *[The Social Organisation of Life](/articles/the-social-organisation-of-life/)*
-- *[Social Continuity and Organised Persistence](/articles/social-continuity-and-organised-persistence/)*
+- *[Social Continuity and Organised Persistence](/articles/the-social-organisation-of-life/)*
 - *[APS and Norms](/articles/aps-and-norms/)*
 - related articles on social organisation, institutions, and distributed persistence.
 

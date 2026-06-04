@@ -10,22 +10,27 @@ revised: 2026-06-01
 cluster: ecological-organisation
 ---
 
-Organisms do not persist independently of their environments.
+APS explains ecological continuity through organism–environment coupling.
 
-Resources, constraints, opportunities, hazards, and ecological conditions
-all contribute to the maintenance of viability.
+Organisms do not persist independently of their environments. Resources,
+constraints, opportunities, hazards, and ecological conditions all
+contribute to the maintenance of viability.
 
-APS therefore treats organism and environment as coupled rather than
-separate explanatory domains.
+For this reason, APS treats organism and environment not as separate
+explanatory domains but as components of a continuity-preserving
+organisation.
 
-Persistence depends upon the organisation of the relationship between them.
+Persistence depends upon the organisation of the relationship between
+them.
 
 An organism unable to maintain appropriate ecological relations will lose
 viability regardless of its internal organisation. Equally, environments
 become biologically significant only in relation to the organisms that
 inhabit them.
 
-Ecological continuity therefore emerges through coupling.
+Opportunities, constraints, resources, and hazards matter because they
+contribute differently to continuity. Ecological significance therefore
+emerges through coupling.
 
 Life persists not merely within organisms but through organised
 organism–environment relations.

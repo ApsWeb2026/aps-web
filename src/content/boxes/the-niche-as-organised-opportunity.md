@@ -22,9 +22,14 @@ combine to create conditions under which particular forms of life can
 persist.
 
 Different organisms therefore inhabit different niches even within the same
-physical environment.
+physical environment because different organisms depend upon different
+conditions for continuity.
 
 A niche exists relative to the continuity requirements of an organism.
+
+For this reason, niches are not simply environmental spaces. They are
+organisations of ecological significance that create different affordances,
+opportunities, and constraints for different forms of life.
 
 Ecological organisation is shaped not only by environments but by the
 opportunities and constraints those environments create for organised

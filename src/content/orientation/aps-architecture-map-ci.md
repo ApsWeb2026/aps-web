@@ -154,8 +154,8 @@ APS treats development as one of the principal continuity architectures of life.
 
 - *[Development as Organised Persistence](/articles/development-as-organised-persistence/)*
 - *[The Developmental Organisation of Life](/articles/the-developmental-organisation-of-life/)*
-- *[Development and Biological Continuity](/articles/development-and-biological-continuity/)*
-- *[Developmental Stability Is Not Rigidity](/articles/developmental-stability-is-not-rigidity/)*
+- *[Development and Biological Continuity](/articles/the-developmental-organisation-of-life/)*
+- *[Developmental Stability Is Not Rigidity](/articles/the-developmental-organisation-of-life/)*
 
 Developmental organisation reveals how living systems remain viable by continually reconstructing continuity across changing conditions.
 
@@ -267,7 +267,6 @@ APS therefore treats social organisation not as a departure from biology but as 
 ### Key Articles
 
 - *[The Social Organisation of Life](/articles/the-social-organisation-of-life/)*
-- *[Social Continuity and Organised Persistence](/articles/social-continuity-and-organised-persistence/)*
 - *[Norms and Social Organisation](/articles/aps-and-norms/)*
 - *[The Social Layer Overview](/articles/the-social-organisation-of-life/)*
 
