@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-04
 revised: 2026-06-04
-cluster: philosophy-of-biology
+cluster: conceptual-foundations
 
 abstract: >
   This article explains how biological normativity arises within the APS
