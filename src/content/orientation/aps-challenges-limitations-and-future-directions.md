@@ -33,6 +33,7 @@ relatedArticles:
   - how-aps-explains-life
   - how-to-read-this-aps-framework-website
   - aps-and-contemporary-theories
+  - aps-as-philosophy-viability-oriented-reconstruction
 ---
 
 ## Introduction: Why Every Framework Has Open Questions
