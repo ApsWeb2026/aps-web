@@ -1,162 +1,163 @@
----
-import { getCollection } from 'astro:content';
-import BaseLayout from '@/layouts/BaseLayout.astro';
+  ---
+  import { getCollection } from 'astro:content';
+  import BaseLayout from '@/layouts/BaseLayout.astro';
 
-function formatDate(value?: string) {
-  if (!value) return '';
+  function formatDate(value?: string) {
+    if (!value) return '';
 
-  return new Date(value).toLocaleDateString('en-AU', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-  });
-}
+    return new Date(value).toLocaleDateString('en-AU', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+    });
+  }
 
-const allArticles = await getCollection('articles');
-const allGlossary = await getCollection('glossary');
+  const allArticles = await getCollection('articles');
+  const allGlossary = await getCollection('glossary');
 
-const canonicalItems = [
-  ...allArticles.filter((a) => a.data.status === 'canonical'),
-  ...allGlossary.filter((g) => g.data.status === 'canonical'),
-]
-  .sort((a, b) => new Date(b.data.revised).getTime() - new Date(a.data.revised).getTime())
-  .slice(0, 3);
----
+  const canonicalItems = [
+    ...allArticles.filter((a) => a.data.status === 'canonical'),
+    ...allGlossary.filter((g) => g.data.status === 'canonical'),
+  ]
+    .sort((a, b) => new Date(b.data.revised).getTime() - new Date(a.data.revised).getTime())
+    .slice(0, 3);
+  ---
 
-<BaseLayout
-  title="Home"
-  description="Agency, Process, Scale — a framework for understanding life as viability-oriented, constraint-closed organisation and reconstructing biological explanation around organised persistence."
->
-  <div class="content-wrapper">
-    <section class="hero">
-      <h1>Agency &middot; Process &middot; Scale</h1>
+  <BaseLayout
+    title="Home"
+    description="Agency, Process, Scale — a framework for understanding life as viability-oriented, constraint-closed organisation and reconstructing biological explanation around organised persistence."
+  >
+    <div class="content-wrapper">
+      <section class="hero">
+        <h1>Agency &middot; Process &middot; Scale</h1>
 
-      <p class="subtitle">
-        APS is a framework for understanding life as viability-oriented organised persistence.
-      </p>
+        <p class="subtitle">
+          APS is a framework for understanding life as viability-oriented organised persistence.
+        </p>
 
-      <p class="hero-guidance">
-        APS explains living systems as viability-oriented forms of organised persistence:
-        systems that actively sustain, regulate, and transform the conditions of their
-        own continued existence across time.
-      </p>
+        <p class="hero-guidance">
+          APS explains living systems as viability-oriented forms of organised persistence:
+          systems that actively sustain, regulate, and transform the conditions of their
+          own continued existence across time.
+        </p>
 
-      <p class="hero-architecture">
-        APS develops across interconnected pathways including biological organisation,
-        evolution, cognition, diagnosis, ecology, and philosophy of biology.
-      </p>
+        <p class="hero-architecture">
+          APS develops across interconnected pathways including biological organisation,
+          evolution, cognition, diagnosis, ecology, and philosophy of biology.
+        </p>
 
-      <div class="hero-links">
-        <a href="/orientation/what-is-aps/" class="btn btn-primary">
-          Start with What Is APS
-        </a>
+        <div class="hero-links">
+          <a href="/orientation/what-is-aps/" class="btn btn-primary">
+            Start with What Is APS
+          </a>
 
-        <a href="/orientation/aps-architecture-map/" class="btn btn-secondary">
-          Explore the Architecture
-        </a>
-      </div>
+          <a href="/orientation/aps-architecture-map/" class="btn btn-secondary">
+            Explore the Architecture
+          </a>
+        </div>
 
-      <p class="hero-explore">
-        Explore:
-        <a href="/articles/">Articles</a>,
-        <a href="/glossary/">Glossary</a>,
-        <a href="/clusters/foundations/">Clusters</a>,
-        and <a href="/search/">Search</a>.
-      </p>
-    </section>
+        <p class="hero-explore">
+          Explore:
+          <a href="/articles/">Articles</a>,
+          <a href="/glossary/">Glossary</a>,
+          <a href="/clusters/foundations/">Clusters</a>,
+          and <a href="/search/">Search</a>.
+        </p>
+      </section>
 
-    <section class="home-section">
-      <h2>Start Here</h2>
+      <section class="home-section">
+        <h2>Start Here</h2>
 
-      <p>
-        These pages provide the main orientation pathway into APS, from a concise introduction
-        through to the framework’s explanatory structure.
-      </p>
+        <p>
+          These pages provide the main orientation pathway into APS, from a concise introduction
+          through to the framework’s explanatory structure.
+        </p>
 
-      <ul class="card-list">
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/what-is-aps/">What Is APS?</a>
-            </h3>
+        <ul class="card-list">
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/what-is-aps/">What Is APS?</a>
+              </h3>
 
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-          <p class="card-excerpt">
-            A concise entry point into APS as a framework for understanding life as
-            viability-oriented, constraint-closed organisation.
-          </p>
-        </li>
+            <p class="card-excerpt">
+              A concise entry point into APS as a framework for understanding life as
+              viability-oriented, constraint-closed organisation.
+            </p>
+          </li>
 
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/how-aps-explains-life/">
-                How APS Explains Life &mdash; A Two-Step Guide
-              </a>
-            </h3>
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/how-aps-explains-life/">
+                  How APS Explains Life &mdash; A Two-Step Guide
+                </a>
+              </h3>
 
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-          <p class="card-excerpt">
-            A guided route into how APS explains living systems as organised persistence.
-          </p>
-        </li>
+            <p class="card-excerpt">
+              A guided route into how APS explains living systems as organised persistence.
+            </p>
+          </li>
 
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/understanding-aps-the-structure-of-the-framework/">
-                Understanding APS &mdash; The Structure of the Framework
-              </a>
-            </h3>
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/understanding-aps-the-structure-of-the-framework/">
+                  Understanding APS &mdash; The Structure of the Framework
+                </a>
+              </h3>
 
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-          <p class="card-excerpt">
-            Shows how agency, process, scale, viability, and persistence fit together.
-          </p>
-        </li>
+            <p class="card-excerpt">
+              Shows how agency, process, scale, viability, and persistence fit together.
+            </p>
+          </li>
 
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/the-core-structure-of-aps-how-the-framework-fits-together/">
-                The Core Structure of APS
-              </a>
-            </h3>
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/the-core-structure-of-aps-how-the-framework-fits-together/">
+                  The Core Structure of APS
+                </a>
+              </h3>
 
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-          <p class="card-excerpt">
-            Presents the formal conceptual structure of APS as an explanatory grammar.
-          </p>
-        </li>
+            <p class="card-excerpt">
+              Presents the formal conceptual structure of APS as an explanatory grammar.
+            </p>
+          </li>
 
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/aps-challenges-limitations-and-future-directions/">
-                APS Challenges, Limitations, and Future Directions
-              </a>
-            </h3>
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/aps-challenges-limitations-and-future-directions/">
+                  APS Challenges, Limitations, and Future Directions
+                </a>
+              </h3>
 
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-          <p class="card-excerpt">
-            Examines the open questions, limitations, and future development of APS as
-            a developing scientific research programme.
-          </p>
-        </li>
-      </ul>
-    </section>
+            <p class="card-excerpt">
+              Examines the open questions, limitations, and future development of APS as
+              a developing scientific research programme.
+            </p>
+          </li>
+        </ul>
+      </section>
 
-    <section class="home-section architecture-diagram-section">
+  <section class="home-section architecture-diagram-section">
+    <div class="article-text-block">
       <h2>What APS Is</h2>
 
       <p>
@@ -164,29 +165,35 @@ const canonicalItems = [
         mechanisms or behaviours. They are viability-oriented organisations whose
         activities sustain the conditions of their own continued persistence.
       </p>
+    </div>
 
-      <div class="aps-diagram aps-diagram-large">
-        <a href="/assets/diagrams/aps-foundational-framework.png" target="_blank" rel="noopener">
-          <img
-            src="/assets/diagrams/aps-foundational-framework.png"
-            alt="Foundational APS framework diagram"
-            loading="lazy"
-          />
-        </a>
-      </div>
+    <div class="aps-diagram aps-diagram-large">
+      <a
+        href="/assets/diagrams/aps-foundational-framework.png"
+        target="_blank"
+        rel="noopener"
+      >
+        <img
+          src="/assets/diagrams/aps-foundational-framework.png"
+          alt="Foundational APS framework diagram"
+          loading="lazy"
+        />
+      </a>
+    </div>
 
-      <p class="diagram-caption">
-        APS begins from the view that living systems are organised forms of persistence.
-        They remain alive by actively maintaining the conditions of their own viability
-        rather than merely exhibiting isolated mechanisms or behaviours.
-      </p>
+    <p class="diagram-caption">
+      APS begins from the view that living systems are organised forms of persistence.
+      They remain alive by actively maintaining the conditions of their own viability
+      rather than merely exhibiting isolated mechanisms or behaviours.
+    </p>
 
-      <p class="diagram-hint">
-        Click the diagram to open a larger version.
-      </p>
-    </section>
+    <p class="diagram-hint">
+      Click the diagram to open a larger version.
+    </p>
+  </section>
 
-    <section class="home-section architecture-diagram-section">
+  <section class="home-section architecture-diagram-section">
+    <div class="article-text-block">
       <h2>Explore the APS Framework</h2>
 
       <p>
@@ -194,389 +201,393 @@ const canonicalItems = [
         biological organisation, evolution, cognition, diagnosis, ecology, and
         philosophy of biology.
       </p>
+    </div>
 
-      <div class="aps-diagram aps-diagram-large">
-        <a href="/assets/diagrams/architecture-map.png" target="_blank" rel="noopener">
-          <img
-            src="/assets/diagrams/architecture-map.png"
-            alt="APS architecture map showing the major conceptual pathways of the framework"
-            loading="lazy"
-          />
-        </a>
-      </div>
-
-      <p class="diagram-caption">
-        The APS framework develops this core idea across several domains, including
-        organisation, evolution, cognition, diagnosis, ecology, and philosophy of biology.
-      </p>
-
-      <p class="diagram-hint">
-        Click the diagram to open a larger version.
-      </p>
-    </section>
-
-    <section class="home-section">
-      <h2>Navigating the Framework</h2>
-
-      <p>
-        APS develops across multiple interconnected conceptual pathways. These pages help
-        orient readers within the broader architecture of the framework.
-      </p>
-
-      <ul class="card-list">
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/aps-architecture-map/">
-                APS Architecture Map
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
-
-          <p class="card-excerpt">
-            A structural overview of the major conceptual pathways within APS.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/orientation/navigating-aps-conceptual-guideposts/">
-                Navigating APS &mdash; Conceptual Guideposts
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-orientation">Orientation</span>
-          </div>
-
-          <p class="card-excerpt">
-            Explains the recurring conceptual structures used to stabilise explanatory
-            direction across the framework.
-          </p>
-        </li>
-      </ul>
-    </section>
-
-    <section class="home-section">
-      <h2>Clarifying APS</h2>
-
-      <p>
-        APS rejects reductionism, but it is not a simple holism, a computational account
-        of life, or an intelligence-centred account of biology. These articles clarify
-        what APS is, and what it is not.
-      </p>
-
-      <ul class="card-list">
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/reductionism-in-biology-an-aps-clarification/">
-                Reductionism in Biology
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-
-          <p class="card-excerpt">
-            Why APS rejects explanatory reduction without abandoning analytical clarity.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/why-aps-is-not-holism/">
-                Why APS Is Not Holism
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-
-          <p class="card-excerpt">
-            Why APS is organisational rather than vaguely holistic.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/why-life-is-not-computation-an-aps-clarification/">
-                Why Life Is Not Computation
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-
-          <p class="card-excerpt">
-            Why computational models do not explain what makes systems living.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/why-ai-is-not-biological-agency/">
-                Why AI Is Not Biological Agency
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Article</span>
-          </div>
-
-          <p class="card-excerpt">
-            Why behavioural sophistication and optimisation are not equivalent to
-            viability-oriented biological agency.
-          </p>
-        </li>
-      </ul>
-
-      <a href="/articles/aps-and-contemporary-theories/" class="btn btn-secondary">
-        Explore Comparisons
+    <div class="aps-diagram aps-diagram-large">
+      <a
+        href="/assets/diagrams/architecture-map.png"
+        target="_blank"
+        rel="noopener"
+      >
+        <img
+          src="/assets/diagrams/architecture-map.png"
+          alt="APS architecture map showing the major conceptual pathways of the framework"
+          loading="lazy"
+        />
       </a>
-    </section>
+    </div>
 
-    <section class="home-section">
-      <h2>Major Conceptual Pathways</h2>
+    <p class="diagram-caption">
+      The APS framework develops this core idea across several domains, including
+      organisation, evolution, cognition, diagnosis, ecology, and philosophy of biology.
+    </p>
 
-      <p>
-        APS develops its account of organised persistence across biological organisation,
-        evolution, cognition, diagnosis, ecology, and empirical questions about life detection.
-      </p>
-
-      <ul class="card-list">
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/clusters/foundations/">Biological Organisation</a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Domain</span>
-          </div>
-
-          <p class="card-excerpt">
-            Agency, function, normativity, viability, persistence, and constraint closure.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/evolution-as-the-historical-transformation-of-organised-persistence/">
-                Evolution and Transformation
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Domain</span>
-          </div>
-
-          <p class="card-excerpt">
-            Evolution as the historical transformation of organised persistence across
-            variation, adaptation, inheritance, fitness, and natural selection.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/cognition-where-does-it-belong-in-biology/">
-                Cognition and Meaning
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Domain</span>
-          </div>
-
-          <p class="card-excerpt">
-            How evaluation, semiosis, meaning, cognition, intelligence, and consciousness
-            emerge within viability-oriented living organisation.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/diagnosis-as-continuity-analysis/">
-                Diagnosis and Continuity
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Domain</span>
-          </div>
-
-          <p class="card-excerpt">
-            APS explains malfunction, resilience, breakdown, recovery, and death
-            as continuity dynamics within viability-oriented organised persistence.
-            Diagnosis becomes the analysis of how living systems sustain,
-            reorganise, or lose continuity under changing conditions.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/how-to-diagnose-a-biological-system/">
-                Diagnosis and Borderlines
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Domain</span>
-          </div>
-
-          <p class="card-excerpt">
-            Life detection, biosignatures, borderline systems, perturbation, and empirical diagnosis.
-          </p>
-        </li>
-      </ul>
-    </section>
-
-    <section class="home-section">
-      <h2>Philosophy and Biological Intelligibility</h2>
-
-      <p>
-        APS is not merely a systems framework or a collection of biological concepts.
-        It reconstructs biological explanation around viability-oriented organised
-        persistence, integrating function, normativity, cognition, evolution,
-        meaning, and explanation within a unified explanatory grammar.
-      </p>
-
-      <ul class="card-list">
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/aps-as-philosophy-viability-oriented-reconstruction/">
-                APS as Philosophy
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Philosophy</span>
-          </div>
-
-          <p class="card-excerpt">
-            A philosophical reconstruction of biological intelligibility organised
-            around viability-oriented persistence.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/organisational-realism-in-biology/">
-                Organisational Realism in Biology
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Philosophy</span>
-          </div>
-
-          <p class="card-excerpt">
-            Defends the ontological and explanatory reality of biological
-            organisation against reductionist and instrumentalist interpretations.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/explanatory-geometry-of-biology/">
-                The Explanatory Geometry of Biology
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Philosophy</span>
-          </div>
-
-          <p class="card-excerpt">
-            Explains how APS organises biological explanation through the
-            mutually constraining relations of agency, process, and scale.
-          </p>
-        </li>
-
-        <li class="card">
-          <div class="card-header">
-            <h3 class="card-title">
-              <a href="/articles/why-aps-reframes-biology/">
-                Why APS Reframes Biology
-              </a>
-            </h3>
-
-            <span class="badge badge-type badge-article">Philosophy</span>
-          </div>
-
-          <p class="card-excerpt">
-            Explains why APS reorganises biological explanation around
-            organised persistence rather than isolated mechanisms or processes.
-          </p>
-        </li>
-      </ul>
-    </section>
-
-    <section class="home-section">
-      <h2>APS Glossary &mdash; The Conceptual Foundation</h2>
-
-      <p>
-        The glossary is the definitional spine of APS_WEB. It provides governed definitions of
-        the framework’s core concepts and anchors the site’s conceptual consistency.
-      </p>
-
-      <a href="/glossary/" class="btn btn-secondary">
-        Browse the Glossary
-      </a>
-    </section>
-
-    {canonicalItems.length > 0 && (
+    <p class="diagram-hint">
+      Click the diagram to open a larger version.
+    </p>
+  </section>
       <section class="home-section">
-        <h2>Recent Canonical Publications</h2>
+        <h2>Navigating the Framework</h2>
+
+        <p>
+          APS develops across multiple interconnected conceptual pathways. These pages help
+          orient readers within the broader architecture of the framework.
+        </p>
 
         <ul class="card-list">
-          {canonicalItems.map((entry) => {
-            const isArticle = entry.collection === 'articles';
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/aps-architecture-map/">
+                  APS Architecture Map
+                </a>
+              </h3>
 
-            const href = isArticle
-              ? `/articles/${entry.data.slug}/`
-              : `/glossary/${entry.data.slug}/`;
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-            const excerpt =
-              isArticle && 'abstract' in entry.data && entry.data.abstract
-                ? entry.data.abstract
-                : 'inBrief' in entry.data && entry.data.inBrief
-                  ? entry.data.inBrief
-                  : 'definition' in entry.data && entry.data.definition
-                    ? entry.data.definition
-                    : null;
+            <p class="card-excerpt">
+              A structural overview of the major conceptual pathways within APS.
+            </p>
+          </li>
 
-            return (
-              <li class="card">
-                <div class="card-header">
-                  <h3 class="card-title">
-                    <a href={href}>{entry.data.title}</a>
-                  </h3>
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/orientation/navigating-aps-conceptual-guideposts/">
+                  Navigating APS &mdash; Conceptual Guideposts
+                </a>
+              </h3>
 
-                  <span class="badge badge-status badge-canonical">
-                    Canonical
-                  </span>
+              <span class="badge badge-type badge-orientation">Orientation</span>
+            </div>
 
-                  <span class={`badge badge-type ${isArticle ? 'badge-article' : 'badge-glossary'}`}>
-                    {isArticle ? 'Article' : 'Glossary'}
-                  </span>
-                </div>
-
-                {excerpt && <p class="card-excerpt">{excerpt}</p>}
-
-                {entry.data.revised && (
-                  <div class="card-meta">
-                    Revised: {formatDate(entry.data.revised)}
-                  </div>
-                )}
-              </li>
-            );
-          })}
+            <p class="card-excerpt">
+              Explains the recurring conceptual structures used to stabilise explanatory
+              direction across the framework.
+            </p>
+          </li>
         </ul>
       </section>
-    )}
-  </div>
-</BaseLayout>
+
+      <section class="home-section">
+        <h2>Clarifying APS</h2>
+
+        <p>
+          APS rejects reductionism, but it is not a simple holism, a computational account
+          of life, or an intelligence-centred account of biology. These articles clarify
+          what APS is, and what it is not.
+        </p>
+
+        <ul class="card-list">
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/reductionism-in-biology-an-aps-clarification/">
+                  Reductionism in Biology
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Article</span>
+            </div>
+
+            <p class="card-excerpt">
+              Why APS rejects explanatory reduction without abandoning analytical clarity.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/why-aps-is-not-holism/">
+                  Why APS Is Not Holism
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Article</span>
+            </div>
+
+            <p class="card-excerpt">
+              Why APS is organisational rather than vaguely holistic.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/why-life-is-not-computation-an-aps-clarification/">
+                  Why Life Is Not Computation
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Article</span>
+            </div>
+
+            <p class="card-excerpt">
+              Why computational models do not explain what makes systems living.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/why-ai-is-not-biological-agency/">
+                  Why AI Is Not Biological Agency
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Article</span>
+            </div>
+
+            <p class="card-excerpt">
+              Why behavioural sophistication and optimisation are not equivalent to
+              viability-oriented biological agency.
+            </p>
+          </li>
+        </ul>
+
+        <a href="/articles/aps-and-contemporary-theories/" class="btn btn-secondary">
+          Explore Comparisons
+        </a>
+      </section>
+
+      <section class="home-section">
+        <h2>Major Conceptual Pathways</h2>
+
+        <p>
+          APS develops its account of organised persistence across biological organisation,
+          evolution, cognition, diagnosis, ecology, and empirical questions about life detection.
+        </p>
+
+        <ul class="card-list">
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/clusters/foundations/">Biological Organisation</a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Domain</span>
+            </div>
+
+            <p class="card-excerpt">
+              Agency, function, normativity, viability, persistence, and constraint closure.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/evolution-as-the-historical-transformation-of-organised-persistence/">
+                  Evolution and Transformation
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Domain</span>
+            </div>
+
+            <p class="card-excerpt">
+              Evolution as the historical transformation of organised persistence across
+              variation, adaptation, inheritance, fitness, and natural selection.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/cognition-where-does-it-belong-in-biology/">
+                  Cognition and Meaning
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Domain</span>
+            </div>
+
+            <p class="card-excerpt">
+              How evaluation, semiosis, meaning, cognition, intelligence, and consciousness
+              emerge within viability-oriented living organisation.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/diagnosis-as-continuity-analysis/">
+                  Diagnosis and Continuity
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Domain</span>
+            </div>
+
+            <p class="card-excerpt">
+              APS explains malfunction, resilience, breakdown, recovery, and death
+              as continuity dynamics within viability-oriented organised persistence.
+              Diagnosis becomes the analysis of how living systems sustain,
+              reorganise, or lose continuity under changing conditions.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/how-to-diagnose-a-biological-system/">
+                  Diagnosis and Borderlines
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Domain</span>
+            </div>
+
+            <p class="card-excerpt">
+              Life detection, biosignatures, borderline systems, perturbation, and empirical diagnosis.
+            </p>
+          </li>
+        </ul>
+      </section>
+
+      <section class="home-section">
+        <h2>Philosophy and Biological Intelligibility</h2>
+
+        <p>
+          APS is not merely a systems framework or a collection of biological concepts.
+          It reconstructs biological explanation around viability-oriented organised
+          persistence, integrating function, normativity, cognition, evolution,
+          meaning, and explanation within a unified explanatory grammar.
+        </p>
+
+        <ul class="card-list">
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/aps-as-philosophy-viability-oriented-reconstruction/">
+                  APS as Philosophy
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Philosophy</span>
+            </div>
+
+            <p class="card-excerpt">
+              A philosophical reconstruction of biological intelligibility organised
+              around viability-oriented persistence.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/organisational-realism-in-biology/">
+                  Organisational Realism in Biology
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Philosophy</span>
+            </div>
+
+            <p class="card-excerpt">
+              Defends the ontological and explanatory reality of biological
+              organisation against reductionist and instrumentalist interpretations.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/explanatory-geometry-of-biology/">
+                  The Explanatory Geometry of Biology
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Philosophy</span>
+            </div>
+
+            <p class="card-excerpt">
+              Explains how APS organises biological explanation through the
+              mutually constraining relations of agency, process, and scale.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href="/articles/why-aps-reframes-biology/">
+                  Why APS Reframes Biology
+                </a>
+              </h3>
+
+              <span class="badge badge-type badge-article">Philosophy</span>
+            </div>
+
+            <p class="card-excerpt">
+              Explains why APS reorganises biological explanation around
+              organised persistence rather than isolated mechanisms or processes.
+            </p>
+          </li>
+        </ul>
+      </section>
+
+      <section class="home-section">
+        <h2>APS Glossary &mdash; The Conceptual Foundation</h2>
+
+        <p>
+          The glossary is the definitional spine of APS_WEB. It provides governed definitions of
+          the framework’s core concepts and anchors the site’s conceptual consistency.
+        </p>
+
+        <a href="/glossary/" class="btn btn-secondary">
+          Browse the Glossary
+        </a>
+      </section>
+
+      {canonicalItems.length > 0 && (
+        <section class="home-section">
+          <h2>Recent Canonical Publications</h2>
+
+          <ul class="card-list">
+            {canonicalItems.map((entry) => {
+              const isArticle = entry.collection === 'articles';
+
+              const href = isArticle
+                ? `/articles/${entry.data.slug}/`
+                : `/glossary/${entry.data.slug}/`;
+
+              const excerpt =
+                isArticle && 'abstract' in entry.data && entry.data.abstract
+                  ? entry.data.abstract
+                  : 'inBrief' in entry.data && entry.data.inBrief
+                    ? entry.data.inBrief
+                    : 'definition' in entry.data && entry.data.definition
+                      ? entry.data.definition
+                      : null;
+
+              return (
+                <li class="card">
+                  <div class="card-header">
+                    <h3 class="card-title">
+                      <a href={href}>{entry.data.title}</a>
+                    </h3>
+
+                    <span class="badge badge-status badge-canonical">
+                      Canonical
+                    </span>
+
+                    <span class={`badge badge-type ${isArticle ? 'badge-article' : 'badge-glossary'}`}>
+                      {isArticle ? 'Article' : 'Glossary'}
+                    </span>
+                  </div>
+
+                  {excerpt && <p class="card-excerpt">{excerpt}</p>}
+
+                  {entry.data.revised && (
+                    <div class="card-meta">
+                      Revised: {formatDate(entry.data.revised)}
+                    </div>
+                  )}
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )}
+    </div>
+  </BaseLayout>
