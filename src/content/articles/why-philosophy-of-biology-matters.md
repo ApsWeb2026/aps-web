@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
 revised: 2026-05-28
-clusters: philosophy-of-biology
+cluster: philosophy-of-biology
 
 abstract: >
   Philosophy of biology examines the conceptual foundations, explanatory
