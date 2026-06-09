@@ -19,7 +19,7 @@ canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-06-01
 
-cluster: conceptual-foundations
+cluster: social-organisation
 
 keyPoints:
   - Social organisation arises from the coordination of viability-oriented organisms.

@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20
 revised: 2026-05-20
-cluster: conceptual-foundations
+cluster: developmental-organisation
 
 abstract: >
   This article develops an APS account of development as the ongoing

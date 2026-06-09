@@ -23,6 +23,7 @@ const clusterEnum = z.enum([
   'evolutionary-dynamics',
   'cognition-and-mind',
   'ecological-organisation',
+  'social-organisation',
   'diagnostics-and-empirical-tractability',
   'philosophy-of-biology',
   'methodology-and-explanation',
