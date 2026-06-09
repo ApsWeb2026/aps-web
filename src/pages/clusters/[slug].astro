@@ -69,9 +69,18 @@ const clusters = [
 ];
 
 export function getStaticPaths() {
-  return clusters.map((cluster) => ({
-    params: { slug: cluster.slug },
-  }));
+  return [
+    { params: { slug: 'conceptual-foundations' } },
+    { params: { slug: 'evolutionary-dynamics' } },
+    { params: { slug: 'developmental-organisation' } },
+    { params: { slug: 'ecological-organisation' } },
+    { params: { slug: 'cognition-and-mind' } },
+    { params: { slug: 'social-organisation' } },
+    { params: { slug: 'diagnostics-and-empirical-tractability' } },
+    { params: { slug: 'philosophy-of-biology' } },
+    { params: { slug: 'methodology-and-explanation' } },
+    { params: { slug: 'artificial-systems-and-boundaries' } },
+  ];
 }
 
 const { slug } = Astro.params;
