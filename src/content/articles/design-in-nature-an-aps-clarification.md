@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-30
 revised: 2026-04-30
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 abstract: >
   Living systems exhibit a degree of organisation that is often described in terms of design. This article clarifies how such design can be understood within the APS framework. Rejecting both external imposition and the reduction of design to mere appearance, APS grounds biological design in viability-oriented, constraint-closed organisation. Design is shown to arise from the structured organisation of activity through which living systems sustain themselves and transform across time.
 relatedGlossaryTerms:

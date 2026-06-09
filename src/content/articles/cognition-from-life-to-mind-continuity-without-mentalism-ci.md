@@ -5,7 +5,7 @@ slug: "cognition-from-life-to-mind-continuity-without-mentalism"
 abstract: "This article explains cognition in APS as the structured, constraint-sensitive organisation through which living systems differentiate and regulate viability-relevant differences, showing how cognition is continuous with life and elaborated, rather than created, in mind."
 status: canonical
 revised: 2026-04-28
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 keyPoints:
   - "Cognition in APS is the structured, constraint-sensitive organisation of responsiveness to viability-relevant differences."
   - "Cognition is continuous with life and does not require representation or mental states."

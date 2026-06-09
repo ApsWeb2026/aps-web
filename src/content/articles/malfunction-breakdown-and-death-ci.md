@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-05-20
-cluster: conceptual-foundations
+cluster: diagnostics-and-empirical-tractability
 
 abstract: >
   APS treats malfunction, breakdown, and death not as secondary biological

@@ -16,7 +16,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-05-22
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 keyPoints:
   - Physiology and evolution are different temporal perspectives on the same viability-oriented organised persistence.

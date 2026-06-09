@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-05
 revised: 2026-05-15
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 abstract: >
   This article situates natural selection within the broader explanatory

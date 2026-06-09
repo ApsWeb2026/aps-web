@@ -4,7 +4,7 @@ title: "APS and Economics: How Economic Systems Organise Viability Across Scales
 slug: aps-and-economics
 status: evolving
 revised: 2026-04-09
-cluster: conceptual-foundations
+cluster: social-organisation
 abstract: "APS (Agency–Process–Scale) reframes economic systems as processes that organise the production, distribution, and regulation of viability-relevant resources across scales. Rather than treating economics as a domain of rational choice or abstract markets, APS understands it as the coordinated management of constraints that sustain organised persistence in social systems."
 relatedGlossaryTerms:
   - biological-agency

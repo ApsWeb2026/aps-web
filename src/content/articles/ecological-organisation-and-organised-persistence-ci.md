@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-20
-cluster: conceptual-foundations
+cluster: ecological-organisation
 
 abstract: >
   This article develops a focused APS account of ecological organisation as a

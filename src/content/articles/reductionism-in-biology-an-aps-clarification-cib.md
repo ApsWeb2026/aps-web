@@ -18,7 +18,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
 keyPoints:
   - APS distinguishes ontological dependence from explanatory priority.

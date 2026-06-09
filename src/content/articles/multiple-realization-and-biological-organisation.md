@@ -21,7 +21,7 @@ canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-27
 
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
 relatedGlossaryTerms:
   - biological-organisation

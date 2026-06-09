@@ -5,7 +5,7 @@ slug: environment-coupling-and-biological-agency
 abstract: "This article explains how the APS framework reconceives the relationship between organisms and their environments. Rather than treating the environment as an external backdrop, APS understands it as a relational domain co-constituted through ongoing coupling with viability-oriented biological organisation."
 status: canonical
 revised: 2026-04-16
-cluster: conceptual-foundations
+cluster: ecological-organisation
 keyPoints:
   - The environment is not an external container but a relational domain defined through organism–environment coupling.
   - Coupling describes the ongoing interaction through which organisms and environments co-produce each other.

@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
 revised: 2026-04-16
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 abstract: >
   The Agency–Process–Scale (APS) framework is a theory of biological organisation, but its explanatory grammar—grounded in persistence, transformation, and scale-coupled process—can clarify how structured change occurs in other domains. This article shows how APS reframes historical explanation, not by treating societies as organisms, but by identifying general patterns of organised persistence and transformation across time.
 relatedGlossaryTerms:

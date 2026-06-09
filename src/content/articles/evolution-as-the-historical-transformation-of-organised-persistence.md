@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 abstract: >
   Evolution is commonly understood as change in gene frequencies within

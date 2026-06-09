@@ -4,7 +4,7 @@ title: APS and Autonomy Theory — From Constraint Closure to Viability-Oriented
 slug: aps-and-autonomy-theory
 status: canonical
 revised: 2026-04-28
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 abstract: |
   Autonomy theory re-established biological explanation on an organisational basis through the concept of constraint closure. APS shares these foundations but introduces further distinctions concerning definition, diagnosis, scale, and evolutionary continuity. This article clarifies their relationship, showing how APS extends and stabilises autonomy theory within a unified explanatory framework.
 keyPoints:

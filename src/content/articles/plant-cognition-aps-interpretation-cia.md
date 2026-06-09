@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-04
 date: 2026-05-04
 revised: 2026-05-04
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 abstract: >
   This article reviews the plant cognition debate and clarifies the APS position. It argues that plants should not be described as cognitive because they possess minds, consciousness, or representational architectures, but because they exhibit structured, viability-grounded evaluative modulation within living organisation. APS reframes plant cognition as a minimal, non-neural form of biological cognition grounded in agency, normativity, constraint closure, and cross-scale integration.
 

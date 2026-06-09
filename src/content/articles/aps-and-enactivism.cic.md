@@ -4,7 +4,7 @@ title: Why Life Is Not Enactivism
 slug: why-life-is-not-enactivism
 status: canonical
 revised: 2026-04-29
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 abstract: >
   Enactivism proposes that cognition arises through the dynamic interaction between organism and environment, emphasising embodiment, sense-making, and lived experience. While this approach captures important aspects of biological organisation, it does not fully explain the viability-oriented, constraint-closed organisation that defines living systems. APS grounds cognition in viability-oriented organisation, showing that sense-making is an expression of evaluative activity, and that cognition arises only when this activity becomes sufficiently integrated and temporally extended.
 keyPoints:

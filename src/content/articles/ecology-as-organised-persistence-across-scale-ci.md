@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-06-04
-cluster: conceptual-foundations
+cluster: ecological-organisation
 
 abstract: >
   This article develops the APS account of ecology as distributed organised

@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
 revised: 2026-04-15
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 abstract: |
   In the Agency–Process–Scale (APS) framework, inheritance is not the transmission of privileged components such as genes, but the continuity of viability-oriented organisation across generations. This article clarifies what persists in evolution by reframing inheritance as the reconstitution of constraint-closed systems, integrating development, environment, and organisation into a unified account of biological continuity.
 keyPoints:

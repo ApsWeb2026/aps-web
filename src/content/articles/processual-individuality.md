@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 abstract: >
   In APS, biological individuality is understood as a dynamically maintained

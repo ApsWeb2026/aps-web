@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 abstract: >
   This article develops an APS account of evolution as a multiscale process

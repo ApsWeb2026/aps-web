@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: conceptual-foundations
+cluster: social-organisation
 
 abstract: >
   APS interprets social norms as continuity-preserving coordination
