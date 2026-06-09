@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: conceptual-foundations
+cluster: social-organisation
 
 abstract: >
   Social organisation is not an exception to life's organising principles but

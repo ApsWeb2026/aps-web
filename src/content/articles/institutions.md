@@ -19,7 +19,7 @@ canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-29
 
-cluster: ecological-organisation
+cluster: social-organisation
 
 keyPoints:
   - Institutions are distributed constraint systems.
