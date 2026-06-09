@@ -187,35 +187,6 @@ const canonicalItems = [
     </section>
 
     <section class="home-section architecture-diagram-section">
-      <h2>How Organised Persistence Continues</h2>
-
-      <p>
-        APS explains persistence as an active achievement. Living systems endure
-        by continuously organising, regulating, and transforming their own conditions
-        of viability across time.
-      </p>
-
-      <div class="aps-diagram aps-diagram-large">
-        <a href="/assets/diagrams/architecture-map.png" target="_blank" rel="noopener">
-          <img
-            src="/assets/diagrams/architecture-map.png"
-            alt="APS architecture continuity diagram"
-            loading="lazy"
-          />
-        </a>
-      </div>
-
-      <p class="diagram-caption">
-        Organised persistence is continuous. Living systems endure by regulating,
-        renewing, and reorganising their own conditions of viability across time.
-      </p>
-
-      <p class="diagram-hint">
-        Click the diagram to open a larger version.
-      </p>
-    </section>
-
-    <section class="home-section architecture-diagram-section">
       <h2>Explore the APS Framework</h2>
 
       <p>
@@ -225,10 +196,10 @@ const canonicalItems = [
       </p>
 
       <div class="aps-diagram aps-diagram-large">
-        <a href="/assets/diagrams/aps-foundational-framework.png" target="_blank" rel="noopener">
+        <a href="/assets/diagrams/architecture-map.png" target="_blank" rel="noopener">
           <img
-            src="/assets/diagrams/aps-foundational-framework.png"
-            alt="APS framework map"
+            src="/assets/diagrams/architecture-map.png"
+            alt="APS architecture map showing the major conceptual pathways of the framework"
             loading="lazy"
           />
         </a>
@@ -594,9 +565,7 @@ const canonicalItems = [
                   </span>
                 </div>
 
-                {excerpt && (
-                  <p class="card-excerpt">{excerpt}</p>
-                )}
+                {excerpt && <p class="card-excerpt">{excerpt}</p>}
 
                 {entry.data.revised && (
                   <div class="card-meta">
