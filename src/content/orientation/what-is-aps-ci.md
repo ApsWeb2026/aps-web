@@ -161,7 +161,7 @@ The developmental organisation of life illustrates this especially clearly. Orga
 
 ### Scale
 
-Persistence does not occur at a single level of organisation.
+Persistence is not confined to a single organisational scale.
 
 Living systems operate across multiple interacting scales and timescales simultaneously. Molecular activities contribute to cellular continuity, cells contribute to physiological organisation, physiological systems support organismal viability, and organisms participate in ecological and evolutionary processes. Social systems may further extend continuity through institutions, cultures, and technologies.
 
