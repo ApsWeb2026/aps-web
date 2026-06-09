@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 
 abstract: >
   This article clarifies what qualifies as an evolutionary explanation within

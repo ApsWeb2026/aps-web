@@ -4,7 +4,7 @@ title: Why Life Is Not Autopoiesis
 slug: why-life-is-not-autopoiesis
 status: canonical
 revised: 2026-04-28
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 abstract: |
   Autopoiesis transformed biology by explaining living systems in terms of self-producing organisation. While this insight remains foundational, it does not fully account for the viability-oriented, normative character of life. APS builds on autopoiesis but shows why life cannot be reduced to self-production alone.
 keyPoints:

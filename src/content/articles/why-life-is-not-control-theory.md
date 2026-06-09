@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
 abstract: >
   Control theory provides powerful models of regulation, feedback, and

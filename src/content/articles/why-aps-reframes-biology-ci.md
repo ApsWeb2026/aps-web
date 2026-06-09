@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
 revised: 2026-05-19
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 abstract: >
   APS does not merely introduce another theory within biology. It argues that
   biological explanation itself depends upon viability-oriented,

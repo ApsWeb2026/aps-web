@@ -18,7 +18,7 @@ canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-29
 
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 
 keyPoints:
   - Explanatory grammar determines what counts as real, causal, and explanatorily relevant in biology.

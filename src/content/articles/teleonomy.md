@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
 abstract: >
   Teleonomy was introduced in twentieth-century biology as a way to describe

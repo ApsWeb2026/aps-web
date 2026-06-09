@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 
 abstract: >
   This article explains how APS organises biological explanation through the

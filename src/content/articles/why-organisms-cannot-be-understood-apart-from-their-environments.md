@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-18
 revised: 2026-05-18
-cluster: conceptual-foundations
+cluster: ecological-organisation
 
 abstract: >
   APS rejects the idea that organisms exist as independently constituted

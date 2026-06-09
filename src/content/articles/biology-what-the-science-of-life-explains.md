@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
 revised: 2026-04-14
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 keyPoints:
   - Biology explains how living systems sustain their own persistence and how this biological organisation changes through time.
   - Life consists in organised, viability-oriented activity rather than static structure.

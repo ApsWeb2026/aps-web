@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
 revised: 2026-05-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 abstract: >
   Scientific explanation is commonly treated as proceeding by analysis—breaking systems into constituent parts. This article argues that this emphasis reflects a historically contingent bias rather than a necessity of explanation. It distinguishes two complementary directions of explanation—analysis and synthesis—and shows how the privileging of analysis has shaped reductionist interpretations of biology. Within APS, explanation is reoriented toward organisation, constraint, and viability, rejecting any intrinsic priority of parts over wholes.
 relatedGlossaryTerms:

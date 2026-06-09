@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20
 revised: 2026-05-20
-cluster: conceptual-foundations
+cluster: ecological-organisation
 
 abstract: >
   APS approaches resilience as the continuity-preserving reorganisation of

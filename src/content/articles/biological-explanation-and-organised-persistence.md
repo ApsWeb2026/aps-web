@@ -21,7 +21,7 @@ canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-27
 
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 
 relatedGlossaryTerms:
   - explanatory-grammar
