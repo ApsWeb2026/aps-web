@@ -19,16 +19,28 @@ const clusters = [
       'Evolution, inheritance, adaptation, variation, continuity, and the historical transformation of organised persistence.',
   },
   {
-    slug: 'cognition-and-mind',
-    title: 'Cognition and Mind',
+    slug: 'developmental-organisation',
+    title: 'Developmental Organisation',
     description:
-      'Evaluation, semiosis, meaning, information, cognition, consciousness, and temporally extended regulation.',
+      'Development, continuity, plasticity, robustness, regulation, and organised persistence across transformation.',
   },
   {
     slug: 'ecological-organisation',
     title: 'Ecological Organisation',
     description:
       'Ecology, coupling, resilience, ecosystems, distributed organisation, and persistence across scale.',
+  },
+  {
+    slug: 'cognition-and-mind',
+    title: 'Cognition and Mind',
+    description:
+      'Evaluation, semiosis, meaning, information, cognition, consciousness, and temporally extended regulation.',
+  },
+  {
+    slug: 'social-organisation',
+    title: 'Social Organisation',
+    description:
+      'Social organisation, collective agency, cultural continuity, institutions, cooperation, and persistence beyond the individual organism.',
   },
   {
     slug: 'diagnostics-and-empirical-tractability',
@@ -57,30 +69,14 @@ const clusters = [
 ];
 
 export function getStaticPaths() {
-  return [
-    { params: { slug: 'conceptual-foundations' } },
-    { params: { slug: 'evolutionary-dynamics' } },
-    { params: { slug: 'cognition-and-mind' } },
-    { params: { slug: 'ecological-organisation' } },
-    {
-      params: {
-        slug: 'diagnostics-and-empirical-tractability',
-      },
-    },
-    { params: { slug: 'philosophy-of-biology' } },
-    { params: { slug: 'methodology-and-explanation' } },
-    {
-      params: {
-        slug: 'artificial-systems-and-boundaries',
-      },
-    },
-  ];
+  return clusters.map((cluster) => ({
+    params: { slug: cluster.slug },
+  }));
 }
 
 const { slug } = Astro.params;
 const cluster = clusters.find((c) => c.slug === slug)!;
 
-// Get all content for this cluster
 const articles = (await getCollection('articles')).filter(
   (a) => a.data.cluster === slug,
 );
