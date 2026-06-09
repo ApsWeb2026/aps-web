@@ -44,9 +44,31 @@ APS is no exception. The framework was developed to address a fundamental questi
 
 Like any developing framework, however, APS faces unresolved questions and areas requiring further development. Some of these arise from misunderstandings of the framework, while others represent genuine challenges that must be addressed if APS is to mature into a broader scientific research programme. Recognising these challenges is not a weakness of the framework. Rather, it is part of the process through which scientific theories become more rigorous, more useful, and more empirically grounded.
 
-[[strong-theories-have-open-questions]]
+[[box:strong-theories-have-open-questions]]
 
-![APS Future Directions](/assets/images/aps-future-directions.png)
+<div class="aps-diagram aps-diagram-large">
+
+<a href="/assets/diagrams/future-directions.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/future-directions.png"
+    alt="APS future directions roadmap showing the transition from conceptual integration to empirical application"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+<p class="diagram-caption">
+  APS has established an integrated conceptual framework centred on
+  viability-oriented organised persistence. The next stage of development
+  concerns operationalisation, diagnostics, empirical application,
+  comparative evaluation, and the construction of a broader biological
+  research programme.
+</p>
+
+<p class="diagram-hint">
+  Click the diagram to open a larger version.
+</p>
 
 ## APS as a Developing Research Programme
 
