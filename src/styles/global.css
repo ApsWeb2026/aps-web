@@ -1779,11 +1779,65 @@ main .article-body h3 {
 
 .search-examples {
   margin-top: 1rem;
-  font-size: 0.95rem;
-  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
 }
 
 .search-guidance {
   max-width: 720px;
   margin: 1rem auto;
+}
+
+.search-section h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.homepage-search-form {
+  display: flex;
+  max-width: 720px;
+  margin: 1.5rem auto;
+  gap: 0.5rem;
+}
+
+.homepage-search-input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  border: 2px solid var(--color-border);
+  border-radius: 8px;
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+
+.homepage-search-input:focus {
+  border-color: var(--color-link);
+  outline: none;
+}
+
+.homepage-search-button {
+  padding: 0.75rem 1.25rem;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: 1px solid var(--color-link);
+  border-radius: 8px;
+  background: var(--color-link);
+  color: #fff;
+  cursor: pointer;
+}
+
+.homepage-search-button:hover {
+  background: var(--color-link-hover);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
 }

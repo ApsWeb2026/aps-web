@@ -75,11 +75,23 @@
           </p>
         </div>
 
-        <div class="homepage-search-link">
-          <a href="/search/" class="btn btn-primary">
-            Search APS
-          </a>
-        </div>
+        <form class="homepage-search-form" action="/search/" method="get">
+  <label class="visually-hidden" for="homepage-search">
+    Search APS
+  </label>
+
+  <input
+    id="homepage-search"
+    class="homepage-search-input"
+    type="search"
+    name="q"
+    placeholder="Search APS concepts, definitions, articles, boxes..."
+  />
+
+  <button class="homepage-search-button" type="submit">
+    Search
+  </button>
+</form>
 
         <p class="search-examples">
           Try:
