@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-15
 revised: 2026-04-15
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 definition: >
   Classification is the analytical practice of identifying, organising, and
   stabilising recurring patterns of viability-oriented biological organisation

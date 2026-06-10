@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 
 definition: >
   Communication is the coordination of activity through the production,

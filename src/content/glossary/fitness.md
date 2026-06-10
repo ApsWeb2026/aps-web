@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
 revised: 2026-05-17
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 definition: >
   In APS, fitness is the historically situated capacity of viability-oriented,

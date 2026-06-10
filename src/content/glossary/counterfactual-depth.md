@@ -5,7 +5,7 @@ slug: counterfactual-depth
 definition: "In APS, counterfactual depth is a dimension of cognitive elaboration describing the temporal extent to which a system’s present activity is shaped by conditions that are not currently realised but remain relevant to viability."
 inBrief: "Counterfactual depth is the extent to which present regulation is shaped by non-present but viability-relevant conditions."
 status: canonical
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 revised: 2026-04-28
 seeAlso:
   - cognition

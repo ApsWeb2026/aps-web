@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-02
 date: 2026-05-02
 revised: 2026-05-03
-cluster: conceptual-foundations
+cluster:  methodology-and-explanation
 relatedGlossaryTerms:
   - viability
   - viability-orientation

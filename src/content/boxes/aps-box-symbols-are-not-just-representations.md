@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-31
 revised: 2026-05-31
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 ---
 
 Symbols are often understood primarily as representations. A word may represent an object, a map may represent a territory, and a scientific concept may represent some aspect of the world.

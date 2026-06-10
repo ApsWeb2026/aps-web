@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-06-03
-cluster: conceptual-foundations
+cluster: developmental-organisation
 ---
 
 Stable development can conceal the organisational processes through which continuity is actively maintained. When development proceeds smoothly, many of the regulatory, compensatory, and reconstructive capacities responsible for preserving viability remain largely invisible.

@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-06
 date: 2026-05-06
 revised: 2026-06-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 
 seeAlso:
   - viability

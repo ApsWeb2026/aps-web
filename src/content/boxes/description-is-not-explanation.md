@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-07
 date: 2026-05-07
 revised: 2026-06-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 ---
 
 Describing a biological phenomenon is not the same as explaining it.

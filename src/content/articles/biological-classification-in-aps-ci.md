@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-15
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 abstract: |
   Biological classification traditionally organises life into discrete categories such as species, genus, and higher taxa. In APS, classification is reinterpreted as a way of describing patterns of viability-oriented organisation across scale and time. This article clarifies how taxa function as analytical stabilisations of continuous, processual biological organisation rather than fixed natural kinds.
 keyPoints:

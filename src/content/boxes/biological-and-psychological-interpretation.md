@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-05
 date: 2026-05-05
 revised: 2026-05-05
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 relatedGlossaryTerms:
   - cognition
   - biological-agency

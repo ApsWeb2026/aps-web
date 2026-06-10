@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
 revised: 2026-05-12
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 ---
 
 In classical functionalist accounts, two systems may count as equivalent if they perform sufficiently similar causal or computational roles. APS argues that this criterion is insufficient for biological explanation because it abstracts away from the organisational conditions that make living activity possible.

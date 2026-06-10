@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
 inBrief: >
   Holism is the view that biological systems must be understood as organised

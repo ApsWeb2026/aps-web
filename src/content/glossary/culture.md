@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
 revised: 2026-05-30
-cluster: conceptual-foundations
+cluster: social-organisation
 
 definition: >
   Culture is a socially distributed form of organised persistence through

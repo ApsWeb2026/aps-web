@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-05-28
-cluster: conceptual-foundations
+cluster: developmental-organisation
 ---
 
 Development does not preserve identity by keeping material structure unchanged.

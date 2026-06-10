@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-14
 revised: 2026-06-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 ---
 
 APS explains living systems as viability-oriented, constraint-closed organisations whose activity contributes to maintaining the conditions of their own persistence across time.

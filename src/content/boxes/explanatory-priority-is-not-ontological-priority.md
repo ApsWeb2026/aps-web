@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-08
 date: 2026-05-08
 revised: 2026-05-08
-cluster: conceptual-foundations
+cluster:  methodology-and-explanation
 seeAlso:
   - reductionism
   - emergence

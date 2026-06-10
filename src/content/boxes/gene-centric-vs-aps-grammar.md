@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
 revised: 2026-04-11
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 associatedPages: []
 seeAlso:
   - biological-agency

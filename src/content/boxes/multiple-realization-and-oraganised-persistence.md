@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
 revised: 2026-06-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 ---
 
 In APS, multiple realization does not imply that any material arrangement can perform any biological function. Biological organisation remains constrained by the requirements of viability-oriented persistence.

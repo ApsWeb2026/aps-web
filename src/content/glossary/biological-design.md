@@ -5,7 +5,7 @@ slug: biological-design
 definition: "In APS, biological design is the structured, viability-oriented organisation of living systems that emerges from constraint-closed activity and is maintained and transformed across time."
 inBrief: "Biological design is the organised structure of living systems shaped by viability."
 status: canonical
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 revised: 2026-04-30
 seeAlso:
   - purpose

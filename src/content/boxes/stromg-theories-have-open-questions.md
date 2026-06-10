@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-08
 revised: 2026-06-08
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 ---
 
 Scientific frameworks do not become stronger by eliminating every unanswered question. They become stronger by identifying which questions remain open and by providing productive ways to investigate them.

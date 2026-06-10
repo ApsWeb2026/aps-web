@@ -6,7 +6,7 @@ date: 2026-05-18
 canonical: true
 canonicalLockDate: 2026-05-18
 revised: 2026-05-18
-cluster: conceptual-foundations
+cluster: ecological-organisation
 
 definition: >
   Ecological resilience is the capacity of distributed ecological continuity

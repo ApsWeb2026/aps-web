@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
 revised: 2026-06-01
-cluster: conceptual-foundations
+cluster: social-organisation
 ---
 
 Social systems depend upon stable expectations.

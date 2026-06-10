@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-27
-cluster: conceptual-foundations
+cluster: developmental-organisation
 definition: >
   Ageing is the historically accumulated transformation of viability-oriented
   organisation across time through which the capacities supporting organised

@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
 revised: 2026-06-03
-cluster: conceptual-foundations
+cluster: diagnostics-and-empirical-tractability
 ---
 
 In APS, failure is not merely the absence of successful functioning. It is a revealing feature of viability-oriented organisation itself.

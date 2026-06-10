@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-03
 date: 2026-05-03
 revised: 2026-05-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 definition: "Explanatory direction refers to the orientation of explanation, either toward the components of a system (analysis) or toward the wider organisation within which those components function (synthesis)."
 inBrief: "The orientation of explanation toward parts or toward organisation."
 seeAlso:

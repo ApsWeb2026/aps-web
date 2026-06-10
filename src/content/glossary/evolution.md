@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
 revised: 2026-05-17
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 definition: >
   In APS, evolution is the historical transformation of viability-oriented,

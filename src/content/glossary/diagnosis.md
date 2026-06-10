@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
 revised: 2026-04-13
-cluster: conceptual-foundations
+cluster: diagnostics-and-empirical-tractability
 definition: >
   Diagnosis is the evaluation of a system’s organisation in terms of its capacity to sustain viability. In APS, diagnosis is not the identification of a static condition or the classification of a system into predefined categories, but the interpretation of how a system responds to perturbation relative to its own persistence. It reveals whether and how a system maintains, modulates, or loses the organisation required for continued existence.
 inBrief: >

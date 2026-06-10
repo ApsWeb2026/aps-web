@@ -7,7 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-03
 date: 2026-05-03
 revised: 2026-05-03
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 ---
 
 APS treats its core concepts as forming a system of mutually constraining definitions rather than a collection of independent terms. This principle—conceptual closure—ensures that explanatory meaning is stabilised across the framework.

@@ -5,7 +5,7 @@ slug: environment
 definition: "In APS, the environment is the active field of conditions with which living systems are coupled in sustaining viability."
 inBrief: "The environment is the active field of viability-relevant conditions constituted through coupling."
 status: canonical
-cluster: conceptual-foundations
+cluster: ecological-organisation
 revised: 2026-04-08
 seeAlso:
   - coupling
