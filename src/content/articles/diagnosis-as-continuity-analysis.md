@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-05-22
-cluster:  diagnostics-and-empirical-tractability
+cluster:  artificial-systems-and-boundaries
 
 abstract: >
   This article develops an APS account of diagnosis as the analysis of

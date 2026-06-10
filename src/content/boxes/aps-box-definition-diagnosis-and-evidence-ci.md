@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-05-11
+revised: 2026-06-10
 cluster: diagnostics-and-empirical-tractability
 ---
 
@@ -16,20 +16,8 @@ In APS, definition, diagnosis, and evidence must not be conflated.
 
 **Diagnosis** concerns how such organisation is identified. In APS, diagnosis evaluates whether a system maintains, restores, or reorganises viability under conditions of perturbation and vulnerability.
 
-**Evidence** consists of observable indicators supporting inference to organised persistence, including:
-- endogenous repair,
-- coordinated regulation,
-- metabolic integration,
-- adaptive reorganisation,
-- and viability-oriented modulation of activity.
+**Evidence** consists of observable indicators supporting inference to organised persistence. These may include endogenous repair, coordinated regulation, metabolic integration, adaptive reorganisation, and viability-oriented modulation of activity. None of these defines life by itself; their significance lies in what they reveal about the underlying organisation of the system.
 
-APS therefore treats biological evidence not as a checklist of traits, but as evidence for underlying organisational conditions.
+APS therefore treats biological evidence not as a checklist of traits but as evidence for underlying organisational conditions. A system may move without being alive, regulate without exhibiting biological agency, or display complex behaviour without sustaining its own organised persistence. For this reason, APS asks not merely what a system *does*, but how its organisation contributes to maintaining its continued existence.
 
-A system may:
-- move without being alive,
-- regulate without exhibiting biological agency,
-- or display complex behaviour without sustaining its own organised persistence.
-
-For this reason, APS asks not merely what a system *does*, but how its organisation contributes to maintaining its continued existence.
-
-**Key Point:** Biological evidence supports inference to viability-oriented organised persistence rather than merely indicating activity, complexity, or behavioural sophistication.
+**Key Point:** Biological evidence supports inference to viability-oriented organised persistence. Activity, complexity, regulation, or behavioural sophistication become biologically significant only insofar as they contribute to the maintenance of a persistence architecture capable of sustaining its own viability.

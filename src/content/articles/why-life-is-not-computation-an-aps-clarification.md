@@ -6,7 +6,7 @@ revised: 2026-05-08
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-08
-cluster: philosophy-of-biology
+cluster: artificial-systems-and-boundaries
 abstract: >
   Computational descriptions are often useful in biology, but APS argues that
   computation cannot define what life is. Living systems are not algorithms

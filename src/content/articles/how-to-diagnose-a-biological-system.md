@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-20
-cluster: diagnostics-and-empirical-tractability
+cluster: artificial-systems-and-boundaries
 
 abstract: >
   This article develops the methodological and empirical dimensions of APS

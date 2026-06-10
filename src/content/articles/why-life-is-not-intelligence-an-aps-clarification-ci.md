@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-29
-cluster: philosophy-of-biology
+cluster: artificial-systems-and-boundaries
 
 abstract: >
   This article clarifies why APS does not treat intelligence as the defining

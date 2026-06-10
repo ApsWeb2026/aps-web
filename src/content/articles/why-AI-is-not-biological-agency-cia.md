@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-29
-cluster: philosophy-of-biology
+cluster: artificial-systems-and-boundaries
 
 abstract: >
   Contemporary artificial intelligence systems increasingly display adaptive,
