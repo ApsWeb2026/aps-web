@@ -65,7 +65,7 @@ This hierarchy is reinforced by the language commonly used to describe explanati
 
 The notion of a “direction” of explanation can therefore be misleading. It suggests that explanation proceeds along a single axis, typically from wholes to parts, rather than between interdependent aspects of a system. In doing so, it obscures the reciprocal relation between analysis and synthesis.
 
-[[box:aps-box-hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 This asymmetry is methodological rather than ontological. It reflects how explanation is typically conducted, not how reality is structured.
 

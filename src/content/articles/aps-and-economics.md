@@ -62,7 +62,7 @@ Economic systems are not reducible to individual choices, nor are they adequatel
 **Key shift:**  
 Economics is not primarily about choice—it is about the organisation of viability-relevant activity.
 
-[[box:aps-box-hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 ## Economic Systems as Organised Constraint Management
 

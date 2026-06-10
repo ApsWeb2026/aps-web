@@ -63,7 +63,7 @@ Each exists only through the ongoing activity that sustains it.
 **Key shift:**  
 Social systems are not collections of entities but organised processes that maintain the conditions of their own persistence. The conditions under which such organisation can be identified are developed in [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/).
 
-[[box:aps-box-hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 
 ## Agency Across Scales

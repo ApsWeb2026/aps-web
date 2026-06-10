@@ -85,7 +85,7 @@ From this perspective, human cognition is not a higher form set above other inst
 
 These configurations are not static. They are historically shaped organisations, stabilised and transformed across development and evolution as part of the ongoing dynamics of persistence.
 
-[[box:aps-box-hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 ## 7. Pre-Cognitive Traits Revisited
 

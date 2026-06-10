@@ -60,7 +60,7 @@ Culture is not merely symbolic representation. It is the organisation of coordin
 **Key shift:**  
 Culture is not a domain separate from activity—it is the temporal extension of organised activity.
 
-[[box:aps-box-hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 ## Culture as Extended Coordination
 

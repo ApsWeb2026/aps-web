@@ -423,7 +423,7 @@ No single scale possesses explanatory priority in every circumstance.
 
 Instead, biological explanation must remain sensitive to the ways continuity is organised across interacting scales and timescales.
 
-[[box:hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 This perspective helps explain why APS repeatedly emphasises integration rather than reduction.
 

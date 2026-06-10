@@ -87,7 +87,7 @@ The problem arises when descriptive hierarchy becomes explanatory ontology.
 
 APS rejects the idea that living systems are literally organised into discrete tiers of causal authority or explanatory priority. Biological organisation is not fundamentally stratified into stacked levels through which causation flows upward or downward. Instead, living systems are organised through continuous, scale-coupled, constraint-mediated processes distributed across space and time.
 
-[[box:aps-box-hierarchy-vs-scale]]
+[[box:scale-is-not-hierarchy]]
 
 ## Hierarchy as an Epistemic Convenience
 

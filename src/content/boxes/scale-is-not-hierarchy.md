@@ -1,21 +1,36 @@
 ---
-title: Scale Is Not Hierarchy
+date: 2026-06-10
+title: APS Box — Scale Is Not Hierarchy
 slug: scale-is-not-hierarchy
 type: box
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-07
-date: 2026-05-07
-revised: 2026-06-03
+canonicalLockDate: 2026-06-10
+revised: 2026-06-10
 cluster: conceptual-foundations
+seeAlso:
+  - scale
+  - scale-coupling
+  - resolution
+  - organisational-coupling
+  - biological-organisation
+  - process
+associatedPages:
+  - why-aps-is-not-hierarchical
+  - explanatory-geometry-of-biology
+  - understanding-aps-the-structure-of-the-framework
 ---
 
-APS treats scale as a way of analysing and describing organisation rather than as a hierarchy of independently existing ontological levels.
+Scale should not be confused with hierarchy.
 
-Biological phenomena can be examined at many scales. Explanations may emphasise molecules, cells, tissues, organisms, ecological systems, evolutionary processes, or social organisation depending on the explanatory question being addressed. These scales do not represent separate worlds stacked above one another. They are different perspectives on interconnected processes of organised persistence.
+A hierarchy implies ranked levels, explanatory priority, or one-way relations of control. APS treats such language as an explanatory convenience rather than as a literal description of biological reality.
 
-Scale therefore concerns explanatory resolution rather than ontological rank. Different scales reveal different organisational relationships, different continuity architectures, and different aspects of viability-oriented persistence. No single scale is automatically more fundamental than the others simply because it is smaller.
+In APS, scale refers to the different spatial, temporal, and organisational contexts within which biological processes occur. Molecules, cells, tissues, organisms, populations, ecosystems, evolutionary lineages, and societies are not separate layers stacked above one another. They are interconnected domains of organised persistence.
 
-APS consequently rejects the assumption that explanation must always proceed toward progressively smaller components. Understanding biological organisation often requires movement across scales, since continuity is coordinated through interactions linking physiological, developmental, ecological, evolutionary, and social processes.
+Different scales reveal different continuity problems, different forms of coupling, and different aspects of viability-oriented organisation. No scale is automatically more fundamental simply because it is smaller, and no scale is more important simply because it is larger.
 
-**Key Point:** Scale is not a hierarchy of separate levels of reality. It is an explanatory perspective that reveals different aspects of organised persistence across interconnected domains of biological organisation.
+APS also distinguishes **scale** from **resolution**. Scale concerns the organisation of biological activity itself. Resolution concerns the granularity at which that activity is described or analysed. What appear to be “levels” often reflect differences in explanatory resolution rather than discrete ontological layers.
+
+Biological explanation therefore requires movement across scales rather than reduction to a single privileged level. Continuity is sustained through reciprocal relations linking physiological, developmental, ecological, evolutionary, and social processes.
+
+**Key Point.** Scale is not a hierarchy of separate levels of reality. It is an explanatory perspective for understanding organised persistence across interconnected domains of biological organisation.
