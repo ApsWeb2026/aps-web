@@ -32,8 +32,6 @@ relatedGlossaryTerms:
   - continuity
   - persistence
   - diagnosis
-  - life-detection
-  - biosignature
   - malfunction
 
 relatedArticles:
@@ -41,28 +39,21 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
   - why-ai-is-not-biological-agency
-  - why-life-is-not-computation
-  - why-life-is-not-intelligence
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-intelligence-an-aps-clarification
 
 references:
   - id: cleland2002
-    authors:
-      - Cleland, C. E.
-      - Chyba, C. F.
+    authors: "Cleland, C. E.; Chyba, C. F."
     year: 2002
-    title: Defining 'Life'
+    title: "Defining 'Life'"
     journal: Origins of Life and Evolution of the Biosphere
     volume: 32(4)
     pages: 387–393
     doi: 10.1023/A:1020503324273
 
   - id: neveu2018
-    authors:
-      - Neveu, M.
-      - Hays, L. E.
-      - Voytek, M. A.
-      - New, M. H.
-      - Schulte, M. D.
+    authors: "Neveu, M.; Hays, L. E.; Voytek, M. A.; New, M. H.; Schulte, M. D."
     year: 2018
     title: The Ladder of Life Detection
     journal: Astrobiology
@@ -71,35 +62,28 @@ references:
     doi: 10.1089/ast.2017.1773
 
   - id: forterre2010
-    authors:
-      - Forterre, P.
+    authors: "Forterre, P."
     year: 2010
-    title: Defining Life: The Virus Viewpoint
+    title: "Defining Life: The Virus Viewpoint"
     journal: Origins of Life and Evolution of Biospheres
     volume: 40(2)
     pages: 151–160
     doi: 10.1007/s11084-010-9194-1
 
   - id: luisi2006
-    authors:
-      - Luisi, P. L.
+    authors: "Luisi, P. L."
     year: 2006
     title: The Emergence of Life
     publisher: Cambridge University Press
 
   - id: moreno2009
-    authors:
-      - Moreno, A.
-      - Mossio, M.
+    authors: "Moreno, A.; Mossio, M."
     year: 2009
     title: Biological Autonomy
     publisher: Springer
 
   - id: mossio2015
-    authors:
-      - Mossio, M.
-      - Saborido, C.
-      - Moreno, A.
+    authors: "Mossio, M.; Saborido, C.; Moreno, A."
     year: 2015
     title: An Organizational Account of Biological Functions
     journal: British Journal for the Philosophy of Science
@@ -108,18 +92,15 @@ references:
     doi: 10.1093/bjps/axt040
 
   - id: nicholson2018
-    authors:
-      - Nicholson, D. J.
-      - Dupré, J.
+    authors: "Nicholson, D. J.; Dupré, J."
     year: 2018
     title: Everything Flows
     publisher: Oxford University Press
 
   - id: spencer2026
-    authors:
-      - Spencer, R. D.
+    authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: A viability-oriented framework integrating process and scale."
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
 ---
@@ -221,7 +202,7 @@ APS gains much of its explanatory strength from treating uncertainty itself as i
 
 This perspective also avoids the expectation that every system must fit neatly into a binary category. Biological reality often contains gradients, dependencies, and transitional forms. APS does not eliminate the need for judgement in difficult cases, but it provides a principled basis for making such judgements. The question is not whether a system satisfies a predefined checklist but how its activities contribute to the maintenance of viability-oriented organisation. Borderline systems therefore become sites of inquiry rather than sources of conceptual embarrassment.
 
-[[box:definition-diagnosis-and-evidence]]
+[[box:aps-box-definition-diagnosis-and-evidence]]
 
 ## Life Detection as Organisational Diagnosis
 
