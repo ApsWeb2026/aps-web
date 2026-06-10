@@ -35,7 +35,20 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
   const resultsCount = document.getElementById('search-results-count');
   const emptyState = document.getElementById('search-empty');
 
-  let debounceTimer;
+let debounceTimer;
+
+const params = new URLSearchParams(window.location.search);
+const initialQuery = params.get('q');
+
+if (initialQuery) {
+  input.value = initialQuery;
+  performSearch();
+}
+
+input.addEventListener('input', () => {
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(performSearch, 200);
+});
 
   input.addEventListener('input', () => {
     clearTimeout(debounceTimer);
