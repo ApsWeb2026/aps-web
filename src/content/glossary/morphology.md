@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-27
-cluster: conceptual-foundations
+cluster: developmental-organisation
 definition: >
   Morphology is the organised form and structural configuration of a biological
   system as realised through viability-oriented developmental, physiological,

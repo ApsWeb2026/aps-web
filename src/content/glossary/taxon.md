@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-15
-cluster: conceptual-foundations
+cluster: methodology-and-explanation
 definition: >
   A taxon is a recognised unit of biological classification that designates a
   historically continuous pattern of viability-oriented organisation. In APS, a

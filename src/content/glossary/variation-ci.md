@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-05-17
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 
 definition: >
   In APS, variation is the structured generation of differences within

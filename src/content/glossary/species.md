@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-04-15
-cluster: conceptual-foundations
+cluster: evolutionary-dynamics
 definition: >
   A species is a historically continuous lineage-pattern of viability-oriented
   organisation that persists across generations through processes of inheritance,

@@ -6,7 +6,7 @@ definition: "Umwelt is the organism-specific domain of significance enacted thro
 inBrief: "Umwelt is the organism-specific domain in which environmental conditions acquire viability-relevant significance."
 status: canonical
 revised: 2026-04-08
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 relatedGlossaryTerms:
   - constraint
   - affordance

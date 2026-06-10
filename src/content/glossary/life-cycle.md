@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-27
-cluster: conceptual-foundations
+cluster: developmental-organisation
 definition: >
   A life-cycle is the temporally organised sequence of developmental,
   physiological, behavioural, ecological, and reproductive transformations

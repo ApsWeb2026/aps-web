@@ -8,7 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-04-20
 revised: 2026-05-03
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 seeAlso:
   - biological-agency
   - constraint-closure

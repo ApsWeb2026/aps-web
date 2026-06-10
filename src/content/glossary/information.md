@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
 revised: 2026-05-17
-cluster: conceptual-foundations
+cluster: cognition-and-mind
 
 definition: >
   In APS, information is not a fundamental property of life but an

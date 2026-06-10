@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-30
-cluster: conceptual-foundations
+cluster: social-organisation
 
 definition: >
   Social organisation is the coordinated arrangement of interactions,

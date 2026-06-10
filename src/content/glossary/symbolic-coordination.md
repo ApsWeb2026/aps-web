@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-30
-cluster: conceptual-foundations
+cluster: social-organisation
 
 definition: >
   Symbolic coordination is the organisation of activity through shared

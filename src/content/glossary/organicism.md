@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-05-15
-cluster: conceptual-foundations
+cluster: philosophy-of-biology
 
 inBrief: >
   Organicism is a tradition in biology and philosophy that treats living

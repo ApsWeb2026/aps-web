@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
 revised: 2026-05-27
-cluster: conceptual-foundations
+cluster: developmental-organisation
 definition: >
   Regeneration is the viability-preserving reconstitution of biological
   organisation through which living systems restore, reconstruct, or reorganise
