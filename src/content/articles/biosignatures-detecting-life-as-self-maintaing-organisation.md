@@ -28,7 +28,7 @@ relatedArticles:
   - how-to-diagnose-a-biological-system
   - what-is-biological-diagnosis-in-aps
   - aps-diagnostics-empirical-tractability
-  - aps-and-the-edges-of-life-ci
+  - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
   - can-ai-be-alive-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
 references:

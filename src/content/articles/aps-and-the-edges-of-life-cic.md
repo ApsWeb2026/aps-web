@@ -150,7 +150,8 @@ Borderline systems therefore function in much the same way as experimental pertu
 
 APS thus reverses a common assumption. Rather than treating edge cases as failures of definition, it treats them as opportunities to investigate the organisational architecture of life. The more difficult a case becomes to classify, the more informative it may become regarding the conditions under which viability-oriented persistence emerges, stabilises, depends upon broader systems, or ceases to exist.
 
-[[box:borderline-systems-as-exploratory-tests]]
+[[box:slug: borderline-cases-viruses-sterile-organisms-artificial-systems
+]]
 
 [[box:perturbation-reveals-organisation]]
 

@@ -37,7 +37,7 @@ relatedArticles:
   - aps_ld-life-detection-as-viability-oriented-organisation
   - can-ai-be-alive-an-aps-clarification
   - biosignatures-detecting-life-as-self-maintaining-organisation
-  - aps-and-the-edges-of-life-ci
+  - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
   - what-is-a-biological-system
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - why-ai-is-not-biological-agency

@@ -31,7 +31,7 @@ relatedArticles:
   - biosignatures-detecting-life-as-self-maintaining-organisation
   - can-ai-be-alive-an-aps-clarification
   - aps-diagnostics-empirical-tractability
-  - aps-and-the-edges-of-life-ci
+  - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
   - what-is-life-a-biological-question-revisited
   - description-explanation-and-definition-in-biology
   - evaluation-how-living-systems-modulate-activity-relative-to-viability

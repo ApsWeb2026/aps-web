@@ -42,7 +42,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - diagnosis-as-continuity-analysis
   - how-to-diagnose-a-biological-system
-  - aps-and-the-edges-of-life-ci
+  - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
   - adaptation-how-living-systems-sustain-themselves-through-change
   - biological-agency-without-intentions
   - why-life-is-not-a-machine

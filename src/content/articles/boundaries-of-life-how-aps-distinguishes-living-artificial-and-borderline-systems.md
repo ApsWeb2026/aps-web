@@ -188,7 +188,8 @@ Synthetic organisms introduce yet another perspective. Their origins may be arti
 
 Taken together, these cases reveal that organisational dependence is not an anomaly within biology but a pervasive feature of living systems. Living organisation exists within networks of developmental, ecological, evolutionary, and social relations. Boundary cases make these dependencies visible because they occupy positions where organisational continuity becomes especially difficult to interpret. Their value lies not in challenging the reality of biological boundaries but in clarifying the organisational conditions upon which those boundaries depend.
 
-[[box:borderline-systems-as-exploratory-tests]]
+[[box:slug: borderline-cases-viruses-sterile-organisms-artificial-systems
+]]
 
 ## Artificial Systems and the Appearance of Life
 
