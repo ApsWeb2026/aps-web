@@ -124,7 +124,10 @@ APS answers this question through three interconnected explanatory dimensions:
 
 These dimensions do not represent separate theories or competing perspectives. Together they provide a framework for understanding how living systems sustain continuity across changing conditions and timescales. APS therefore explains biological organisation through the integrated operation of agency, process, and scale within viability-oriented organised persistence.
 
+APS stands for Agency, Process, and Scale. The framework is occasionally mistaken for an acronym such as "Active Persistence Systems" because it is centrally concerned with active organised persistence. However, APS is named after the three explanatory dimensions through which living systems are analysed rather than the phenomenon being explained.
+
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/explanatory-structure.png"
@@ -137,6 +140,7 @@ These dimensions do not represent separate theories or competing perspectives. T
     <strong>APS Explanatory Structure.</strong>
     APS explains living systems through the integrated organisation of agency, process, and scale within viability-oriented organised persistence sustained across time.
   </p>
+
 </div>
 
 These three dimensions form the conceptual centre of the APS framework. Rather than explaining biological systems solely through isolated mechanisms, APS asks how activities, transformations, and organisational relationships combine to preserve viability through time.

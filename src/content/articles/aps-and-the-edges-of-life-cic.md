@@ -13,7 +13,7 @@ abstract: >
   viruses, dormant organisms, protocells, synthetic constructs, and
   artificial systems. Traditional approaches often treat such cases as
   threats to biological definition because they resist straightforward
-  classification. Within the Active Persistence System (APS) framework,
+  classification. Within the APS framework,
   however, borderline cases are neither anomalies nor failures of
   theory. They are expected consequences of viability-oriented
   organisation. Because living systems exist along gradients of

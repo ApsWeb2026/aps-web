@@ -100,7 +100,7 @@ references:
   - id: spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: "Agency as the Defining Activity of Life: Reframing the Foundations of Theoretical Biology"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
 ---
@@ -121,7 +121,7 @@ APS interprets viruses as systems that participate in biological organisation wi
 
 A central reason viruses generate confusion is that discussions about them frequently conflate definition and diagnosis. The question of what life is becomes entangled with the question of how particular systems should be evaluated. As a result, the debate often oscillates between competing classifications rather than examining the organisation actually present in viral systems.
 
-[[definition-is-not-diagnosis]]
+[[box:definition-is-not-diagnosis]]
 
 APS separates these questions. Definition concerns the nature of life itself. Diagnosis concerns the evaluation of particular systems and the forms of organisation they exhibit. This distinction is especially important for borderline cases because systems can display some characteristics associated with living organisation without satisfying all the conditions required for autonomous biological existence.
 
@@ -135,7 +135,7 @@ Viruses possess highly organised structures. Viral particles are not random coll
 
 The existence of organisation, however, does not by itself establish the presence of life. APS distinguishes between organisation in general and autonomous viability-oriented organisation. The crucial issue is not whether a system possesses structure, but whether it actively participates in maintaining the conditions necessary for its own continued persistence.
 
-[[organisation-without-autonomy]]
+[[box:organisation-without-autonomy]]
 
 This distinction becomes especially important when considering viral dependence upon host systems. A virus outside a host cell does not metabolise, regulate internal conditions, repair itself, or actively maintain its own viability. Although structurally organised, it remains functionally dependent upon organisational capacities that exist elsewhere. Only when embedded within a suitable host environment can viral replication proceed, and even then the activities required for replication are supplied largely through host metabolism, host regulation, and host organisational closure.
 
