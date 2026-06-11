@@ -273,7 +273,7 @@ The answer proposed by APS is that these concepts converge upon a common organis
 
 APS is often first encountered as a biological framework. Its initial claims concern living systems, not philosophy. Organisms are understood as viability-oriented forms of organised persistence sustained across time. Agency, process, and scale function as the primary dimensions through which living continuity becomes intelligible. Development, ecology, evolution, cognition, diagnosis, and social organisation become domains through which that continuity is maintained, transformed, challenged, and renewed. At this stage, APS appears to be offering a theoretical account of biological organisation.
 
-Yet as the framework develops, a deeper implication gradually emerges. The concepts introduced by APS do not merely describe living systems. They identify the organisational conditions under which living systems become intelligible as living systems at all. The framework therefore begins to operate simultaneously at two levels. It describes biological reality while also clarifying the conditions that make biological explanation possible.
+Yet as the framework develops, a deeper implication gradually emerges. The concepts introduced by APS do not merely describe living systems. They identify the organisational conditions under which living systems become intelligible as living systems at all. The framework therefore begins to operate simultaneously in two ways. It describes biological reality while also clarifying the conditions that make biological explanation possible.
 
 This transition is significant because philosophy of biology has often treated ontology and explanation as distinct projects. One asks what living systems are. The other asks how they should be explained. APS argues that these questions are more closely related than is often recognised. The organisational conditions that make life possible are also the organisational conditions that make biological explanation possible. The explanatory vocabulary of biology emerges because living systems possess particular forms of organisation. To understand why biology explains as it does therefore requires understanding the nature of the phenomena being explained.
 
@@ -298,9 +298,9 @@ It also asks:
 This shift marks the transition from biological framework to philosophical reconstruction. Biology remains the starting point, but the framework increasingly concerns the organisational conditions that make biological explanation possible. Ontology and explanation converge because both ultimately depend upon the same continuity-preserving forms of organisation.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/organisational-geometry-of-organised-persistence.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/philosophy-visual.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/organisational-geometry-of-organised-persistence.png"
+      src="/assets/diagrams/philosophy-visual.png"
       alt="APS organisational geometry of organised persistence"
       loading="lazy"
     />
@@ -324,25 +324,19 @@ Biology possesses such a grammar whether it is explicitly recognised or not. Bio
 
 Traditional approaches often begin with biological entities. Organisms are decomposed into organs, tissues, cells, molecules, genes, and mechanisms. This analytical strategy has produced enormous scientific success and remains indispensable. APS does not reject analytical investigation. Indeed, without analysis there could be no rigorous biological science. Yet analysis alone cannot explain why biological components matter in the particular ways that they do.
 
-A gene is biologically significant because of the role it plays within organised continuity.
-
-A physiological mechanism is biologically significant because of its contribution to viability.
-
-A behavioural response is biologically significant because of its consequences for persistence.
-
-A developmental process is biologically significant because it helps sustain continuity through transformation.
+Whether we examine genes, physiological mechanisms, behavioural responses, or developmental processes, their biological significance derives not from their existence in isolation but from the roles they play within continuity-preserving organisation. Genes matter because they contribute to organised continuity, physiological mechanisms because they support viability, behavioural responses because they influence persistence, and developmental processes because they sustain continuity through transformation.
 
 The explanatory significance of biological entities therefore depends upon organisational relations that extend beyond the entities themselves.
 
-This observation changes the direction of explanation. Instead of beginning exclusively with components and asking how larger systems emerge from them, APS begins with the organisational conditions that make biological significance possible. The central question becomes:
+This observation changes the focus of explanation. Instead of beginning exclusively with components and asking how larger systems emerge from them, APS begins with the organisational conditions that make biological significance possible. The central question becomes:
 
 > What must be true of living organisation for biological systems to become intelligible as living systems?
 
-From this perspective, biological explanation is simultaneously analytic and synthetic. Analysis identifies components, mechanisms, pathways, and structures. Synthesis reveals the continuity-preserving relations through which those components acquire biological meaning. Neither direction of explanation is sufficient on its own. Analysis without synthesis fragments biological reality into disconnected parts. Synthesis without analysis loses empirical precision. Biological intelligibility depends upon their integration.
+From this perspective, biological explanation is simultaneously analytic and synthetic. Analysis identifies components, mechanisms, pathways, and structures. Synthesis reveals the continuity-preserving relations through which those components acquire biological meaning. Neither mode of explanation is sufficient on its own. Analysis without synthesis fragments biological reality into disconnected parts. Synthesis without analysis loses empirical precision. Biological intelligibility depends upon their integration.
 
 [[box:aps-box-mechanisms-require-organisational-context]]
 
-APS proposes that agency, process, and scale function as the foundational dimensions through which this integration occurs. Agency concerns the active regulation of continuity. Process concerns the temporal organisation of continuity. Scale concerns the distributed organisation of continuity across interacting relations. Although analytically distinguishable, these dimensions are not independent explanatory modules. Each illuminates a different aspect of the same underlying phenomenon: viability-oriented organised persistence.
+APS proposes that agency, process, and scale function as the foundational dimensions through which this integration occurs. Agency concerns the viability-oriented activities through which living systems maintain continuity. Process concerns the temporally organised transformations through which those activities are sustained and renewed. Scale concerns the distributed organisational relations across which those activities and transformations occur. Although analytically distinguishable, these dimensions are not independent explanatory modules. Each illuminates a different aspect of the same underlying phenomenon: viability-oriented organised persistence.
 
 As the framework develops, additional concepts become incorporated into this architecture. Viability specifies the conditions under which persistence succeeds or fails. Constraint closure explains how continuity is continually regenerated. Evaluation explains why conditions acquire biological significance. Semiosis explains how differences become meaningful. Cognition emerges through increasingly integrated forms of evaluative organisation. Evolution explains the historical transformation of organised persistence across generations. What initially appears to be a diverse collection of biological concepts gradually reveals itself as a coherent explanatory structure.
 
@@ -408,13 +402,11 @@ APS nevertheless differs from some organisational theories in the explanatory st
 
 The relationship can be expressed schematically:
 
-```text
-viability
-        ↓
-organised persistence
-        ↓
-constraint closure
-```
+> viability  
+> ↓  
+> organised persistence  
+> ↓  
+> constraint closure
 
 This ordering is philosophically important. APS does not begin with a particular organisational mechanism and derive life from it. Instead, it begins with the problem of maintaining viable continuity through time. Constraint closure emerges as one of the organisational strategies through which that problem is addressed. Closure contributes to persistence because it helps regenerate the conditions required for continued viability.
 
@@ -468,29 +460,40 @@ APS therefore links normativity, evaluation, semiosis, meaning, and cognition wi
 
 The explanatory sequence can be represented schematically:
 
-```text
-viability
-        ↓
-evaluation
-        ↓
-normativity
-        ↓
-semiosis
-        ↓
-meaning
-        ↓
-cognition
-```
+>viability
+>       ↓
+>evaluation
+>       ↓
+>normativity
+>       ↓
+>semiosis
+>       ↓
+>meaning
+>       ↓
+>cognition
 
 This sequence does not imply a rigid developmental hierarchy. Rather, it identifies a set of organisational dependencies. Evaluation becomes possible because viability creates differences that matter. Normativity emerges because evaluation distinguishes conditions according to their consequences for persistence. Semiosis emerges because evaluated differences can function as signs. Meaning emerges because signs participate in continuity-preserving organisation. Cognition emerges through increasingly integrated forms of meaningful evaluative activity.
 
 One of the most important philosophical consequences of this framework is that it naturalises concepts often regarded as problematic without trivialising them. Normativity is neither reduced away nor treated as mysterious. Meaning is neither dismissed as an illusion nor detached from biological reality. Agency does not require metaphysical special pleading. Each emerges from the organisational requirements imposed by viability-oriented persistence.
+
+### Function and Purpose
+
+APS distinguishes function from purpose. Functions describe how components, activities, or organisational structures contribute to viability-oriented persistence, whereas purposes describe the continuity-preserving conditions that viability-oriented activity seeks to maintain. Functions therefore concern contributions to persistence; purposes concern the persistence-supporting outcomes toward which biological organisation is directed. The two are closely related, but they are not identical. A function contributes to the achievement of a purpose, while a purpose provides the organisational context within which functions become biologically intelligible.
+
+### Teleology, Teleonomy, and Biological Organisation
+
+Many of the phenomena traditionally discussed under the headings of teleology and teleonomy can be understood within APS as consequences of viability-oriented organisation. Living systems appear purpose-directed because their activities are organised around the maintenance of continuity under changing conditions. APS therefore rejects appeals to external design, intrinsic final causes, or future states acting as causes in the present. At the same time, it recognises that biological systems exhibit genuinely purposive organisation. In this respect APS aligns most closely with teleonomic interpretations of life while seeking to explain why teleonomic organisation emerges in the first place: it arises because viability-oriented systems must continually preserve the conditions of their own persistence.
+
+### Goal-Directedness and Organised Persistence
+
+APS similarly interprets biological goal-directedness as an emergent consequence of viability-oriented organised persistence. Living systems behave in ways that appear directed toward particular outcomes because some outcomes support continued viability while others threaten it. Goal-directedness therefore does not require conscious intention, representation, or external purpose. It emerges because viability-oriented systems must continually regulate their activities relative to conditions affecting their own continuity. The apparent goals of living systems are thus neither metaphysical mysteries nor explanatory fictions; they are expressions of the organisational requirements of persistence itself.
 
 Philosophy therefore returns to biology at precisely the point where biology confronts questions of significance, value, meaning, and purpose. APS argues that these questions are not external additions to biological explanation. They arise because living systems exist as organised continuities whose persistence depends upon differential responsiveness to the conditions of their own existence. Understanding normativity, meaning, and cognition therefore becomes part of understanding life itself.
 
 The result is a philosophical account that remains fully naturalistic while preserving the explanatory richness required by biology. Rather than importing value, meaning, or purpose into nature from outside, APS shows how these phenomena emerge within living organisation. Biological intelligibility expands because the concepts biology already employs become understandable as consequences of viability-oriented organised persistence.
 
 Normativity is not imported into nature. It emerges within living organisation.
+
 
 ## APS Among Contemporary Frameworks
 
@@ -524,7 +527,7 @@ This grounding gives APS a distinctive form of philosophical naturalism. The fra
 
 The importance of this position becomes apparent when considering how biological explanation actually proceeds. Biologists routinely investigate function, regulation, adaptation, signalling, cognition, resilience, and development. These concepts are not external philosophical inventions imposed upon biological practice. They are embedded within the explanatory structure of the discipline itself. APS therefore asks not whether such concepts should be used, but why they are necessary and what organisational realities they reveal.
 
-This approach avoids two common extremes. On one side lies reductionism, which attempts to eliminate higher-order biological concepts by translating them entirely into lower-level descriptions. On the other side lies a form of conceptual exceptionalism that treats biological concepts as resistant to empirical investigation. APS rejects both strategies. Biological concepts retain their explanatory significance precisely because they refer to organisational phenomena that are real, observable, and scientifically tractable.
+This approach avoids two common extremes. On one side lies reductionism, which attempts to eliminate biological concepts by explaining them entirely in terms of component interactions considered in isolation from wider organisational relations. On the other side lies a form of conceptual exceptionalism that treats biological concepts as resistant to empirical investigation. APS rejects both strategies. Biological concepts retain their explanatory significance precisely because they refer to organisational phenomena that are real, observable, and scientifically tractable.
 
 The framework therefore promotes a reciprocal relationship between philosophy and science. Empirical investigation reveals continuity-preserving organisation. Philosophical clarification explains why such organisation matters conceptually. Scientific discoveries enrich philosophical understanding, while philosophical analysis clarifies the explanatory significance of scientific discoveries. Neither enterprise is reducible to the other, yet each contributes to a deeper understanding of living systems.
 

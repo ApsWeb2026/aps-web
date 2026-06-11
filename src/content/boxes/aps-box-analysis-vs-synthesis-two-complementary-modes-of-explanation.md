@@ -10,7 +10,7 @@ revised: 2026-06-03
 cluster: conceptual-foundations
 ---
 
-Scientific explanation can proceed through two complementary modes of analysis.
+Scientific explanation can proceed through two complementary explanatory strategies:
 
 **Analysis** explains a system in terms of its components and their interactions.
 
@@ -20,4 +20,4 @@ Modern science has often privileged analysis, treating explanations that move to
 
 APS rejects this asymmetry. Components and systems are mutually defining. Parts acquire biological significance through their role within organised systems, while systems exist only through the coordinated activity of their parts.
 
-Biological explanation therefore requires both analysis and synthesis. The challenge is not to choose between components and organisation, but to understand how organised activity is maintained across multiple levels of biological organisation.
+Biological explanation therefore requires both analysis and synthesis. The challenge is not to choose between components and organisation, but to understand how organised activity is maintained across multiple scales of biological organisation.
