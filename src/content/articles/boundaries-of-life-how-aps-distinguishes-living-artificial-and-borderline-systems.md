@@ -38,7 +38,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
-  - life-detection-and-the-problem-of-borderline-systems
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - why-ai-is-not-biological-agency
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification

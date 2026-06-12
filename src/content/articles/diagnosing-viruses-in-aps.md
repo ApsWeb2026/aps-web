@@ -41,7 +41,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-biological-diagnosis-in-aps
   - how-to-diagnose-a-biological-system
-  - life-detection-and-the-problem-of-borderline-systems
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
   - viability-gradient
   - normativity-gradient

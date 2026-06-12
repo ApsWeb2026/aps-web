@@ -38,7 +38,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems
-  - life-detection-and-the-problem-of-borderline-systems
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - how-to-diagnose-a-biological-system
   - diagnosis-as-continuity-analysis
   - can-ai-be-alive-an-aps-clarification
