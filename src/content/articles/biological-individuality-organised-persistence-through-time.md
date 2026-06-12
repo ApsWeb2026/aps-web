@@ -104,7 +104,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Biological Individuality — Organised Persistence Through Time
+## Biological Individuality — Organised Persistence Through Time
 
 > **Where this article fits:** This article develops the APS account of biological individuality as viability-oriented organised persistence sustained across continual transformation. It integrates persistence, temporal organisation, development, biological agency, constraint organisation, and organism–environment coupling within a unified continuity-based account of biological individuality.
 
