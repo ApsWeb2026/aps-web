@@ -17,6 +17,12 @@ definition: >
   involved in maintaining viability-oriented organised persistence across
   time.
 
+inBrief: >
+  Explanatory realism is the view that successful biological explanations
+  work because they identify real organisational relations involved in
+  maintaining viability-oriented organised persistence rather than merely
+  providing useful descriptions or predictive tools.
+  
 relatedTerms:
   - biological-organisation
   - organised-persistence
