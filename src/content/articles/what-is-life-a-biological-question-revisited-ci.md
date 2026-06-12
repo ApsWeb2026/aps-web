@@ -24,7 +24,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - understanding-aps-the-structure-of-the-framework
   - from-life-to-explanation-emerging-architecture
-  - biosignatures-detecting-life-as-self-maintaining-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
 researchStreams: []
 references:
   - id: schrodinger1944

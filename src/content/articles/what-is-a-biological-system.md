@@ -26,7 +26,7 @@ relatedArticles:
   - constraint-closure-what-it-does-and-does-not-do
   - organism-individual-agent-distinction
   - levels-vs-scale-why-biological-organisation-is-not-hierarchical
-  - biosignatures-detecting-life-as-self-maintaining-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - why-life-is-not-intelligence-an-aps-clarification
 ---
 

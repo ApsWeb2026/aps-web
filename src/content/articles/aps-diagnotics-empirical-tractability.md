@@ -25,7 +25,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
   - understanding-aps-the-structure-of-the-framework
-  - biosignatures-detecting-life-as-self-maintaining-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
 ---
 
 ## What This Article Does
@@ -82,8 +82,6 @@ Perturbation therefore provides a way to determine whether a given element is:
 - necessary for maintaining viability  
 - functionally integrated within constraint-closed organisation  
 - or incidental to the system’s persistence  
-
-[[box:aps-box-diagnosis-and-biosignatures]]
 
 ## Viability as Criterion
 

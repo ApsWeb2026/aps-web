@@ -34,14 +34,14 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - ecology-as-organised-persistence-across-scales
   - aps-diagnostics-empirical-tractability
-  - aps_ld-life-detection-as-viability-oriented-organisation
   - can-ai-be-alive-an-aps-clarification
-  - biosignatures-detecting-life-as-self-maintaining-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
   - what-is-a-biological-system
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - why-ai-is-not-biological-agency
   - malfunction-breakdown-and-death
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
 
 references:
   - id: bernard1865
@@ -536,7 +536,7 @@ Biological systems are therefore diagnosed not by isolated properties, but by th
 - *[Malfunction](/glossary/malfunction/)*
 - *[Ecological Resilience](/glossary/ecological-resilience/)*
 - *[APS Diagnostics and Empirical Tractability](/articles/aps-diagnostics-empirical-tractability/)*
-- *[Biosignatures — Detecting Life as Self-Maintaining Organisation](/articles/biosignatures-detecting-life-as-self-maintaining-organisation/)*
+- *[Life Detection in APS — Biosignatures, Organisation, and Evidence](/articles/life-detection-in-aps-biosignatures-organisation-and-evidence/)*
 - *[What Is a Biological System?](/articles/what-is-a-biological-system/)*
 
 ---

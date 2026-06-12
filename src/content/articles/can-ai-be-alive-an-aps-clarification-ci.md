@@ -34,7 +34,7 @@ relatedArticles:
   - why-life-is-not-active-inference
   - what-is-life-a-biological-question-revisited
   - aps-and-contemporary-theories
-  - biosignatures-detecting-life-as-self-maintaining-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - why-life-is-not-intelligence-an-aps-clarification
   - multiple-realization-and-biological-organisation
 references:

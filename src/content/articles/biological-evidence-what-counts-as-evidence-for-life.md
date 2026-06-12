@@ -22,7 +22,7 @@ relatedGlossaryTerms:
   - biological-agency
 relatedArticles:
   - what-is-life-a-biological-question-revisited
-  - aps_ld-life-detection-as-viability-oriented-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - explanatory-grammar
 ---
 

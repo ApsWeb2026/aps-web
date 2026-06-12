@@ -27,7 +27,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-life-a-biological-question-revisited
   - how-to-diagnose-a-biological-system
-  - aps_ld-life-detection-as-viability-oriented-organisation
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - malfunction-breakdown-and-death
   - biological-agency-without-intentions
 references:
