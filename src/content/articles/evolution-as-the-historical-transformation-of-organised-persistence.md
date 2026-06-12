@@ -69,6 +69,7 @@ relatedArticles:
   - scale-time-persistence
   - diagnosis-as-continuity-analysis
   - explanatory-geometry-of-biology
+  - gene-centric-biology-and-aps
 
 references:
   - id: darwin1859
@@ -139,7 +140,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Evolution as the Historical Transformation of Organised Persistence
+## Introduction
 
 > **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viability-oriented organised persistence across generations. Evolution is understood not merely as statistical change within populations, but as the long-term transformation of living organisation across developmental, ecological, organismal, and lineage scales. It provides the primary evolutionary anchor for understanding how agency, persistence, inheritance, adaptation, and natural selection fit together within the APS framework.
 
@@ -232,9 +233,9 @@ Evolutionary continuity does not emerge from static replication alone. It depend
 Living systems must preserve continuity through developmental change, reproduce organisational conditions across generations, coordinate processes unfolding across multiple temporal scales, and maintain viability despite environmental instability. Evolutionary continuity is therefore not the propagation of static sameness through time. It is the ongoing regeneration of organised continuity under changing historical conditions.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/temporal-organisation-visual.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/temporal-organisation.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/temporal-organisation-visual.png"
+      src="/assets/diagrams/temporal-organisation.png"
       alt="Temporal organisation and organised persistence across generations"
       loading="lazy"
     />
@@ -388,7 +389,13 @@ Living systems are biological agents whose activities sustain the conditions of 
 
 The central task of evolutionary explanation is therefore not simply to explain change. It is to explain how continuity is maintained, regenerated, diversified, and transformed despite continual developmental, ecological, and organisational reorganisation. Living systems persist historically because they are capable of sustaining viability across changing circumstances, and evolution concerns the long-term transformation of the organisations through which that viability is achieved.
 
-Agency provides the activity through which living systems regulate the conditions of their own persistence. Process explains how continuity is maintained despite continual material and organisational change. Scale reveals the distributed relationships through which persistence operates across developmental, ecological, organismal, and historical domains. Together these foundations make organised persistence possible and establish the conditions under which evolutionary transformation can occur.
+Agency asks what living systems do to sustain their own persistence (activity). Process asks how continuity is maintained despite continual material and organisational change (continuity). Scale asks where the relationships that support persistence are organised across developmental, ecological, organismal, and historical domains (organisation). Together these complementary perspectives explain how organised persistence is maintained, regenerated, and transformed through time, establishing the conditions under which evolution becomes possible.
+
+In simplified form:
+
+Agency = What do living systems do?
+Process = How is continuity maintained?
+Scale = Where is persistence organised?
 
 Variation diversifies organised persistence. Adaptation reorganises it. Inheritance regenerates it across generations. Lineages extend it historically. Fitness contributes to differential continuity. Natural selection differentially stabilises viable forms of organisation under changing conditions. These processes do not operate independently. They interact continuously within the broader organisation of living systems and collectively contribute to the historical transformation of continuity-producing biological organisation.
 
