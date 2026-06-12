@@ -230,7 +230,7 @@ APS consequently treats agency as a real organisational feature of living system
 
 ## Beyond Reductionism and Holism
 
-Organisational realism differs from both reductionism and vague forms of holism. Reductionist approaches often attempt to locate explanatory reality exclusively within lower-level physical entities and processes. Holistic approaches frequently emphasise higher-order unity but struggle to specify the organisational relations through which that unity is maintained. APS rejects both extremes by focusing on the reality of continuity-producing organisation itself.
+Organisational realism differs from both reductionism and vague forms of holism. Reductionist approaches often attempt to explain biological phenomena entirely in terms of constituent physical processes, while holistic approaches frequently emphasise the unity of living systems without adequately specifying the organisational relations that sustain that unity. APS rejects both extremes by treating continuity-producing organisation itself as explanatorily and ontologically real.
 
 This position does not deny the importance of mechanisms, components, physical processes, or causal analysis. On the contrary, APS treats them as indispensable. The issue is not whether mechanisms matter, but how they become biologically intelligible. Mechanisms contribute to viability-oriented continuity. Functions contribute to persistence. Information becomes significant because differences affect viability. Development matters because continuity must be stabilised through transformation. Ecology matters because persistence depends upon organism–environment coupling. Each acquires explanatory significance through its contribution to organised persistence.
 
@@ -267,6 +267,8 @@ APS supports a form of explanatory realism grounded in organised persistence. Bi
 This claim extends beyond traditional debates concerning scientific realism. APS is not primarily concerned with whether biological theories correspond to an independent reality in the abstract. Rather, it asks why certain explanatory concepts repeatedly prove indispensable across diverse domains of biological inquiry. The answer, APS argues, is that these concepts capture recurrent organisational relations through which living systems sustain continuity across time.
 
 Agency, process, and scale illustrate this point. APS does not treat them as arbitrary conceptual categories imposed upon biological phenomena. Instead, they represent recurrent organisational dimensions through which viability-oriented systems become intelligible. Agency concerns the regulation of continuity relative to viability conditions. Process concerns the transformations through which continuity is maintained. Scale concerns the distributed relationships through which persistence is organised across interacting contexts. Biological explanation succeeds because these dimensions correspond to real organisational features of living systems themselves.
+
+[[box:aps-box-why-aps-is-not-arbitrary]]
 
 This perspective explains why explanatory structure exhibits both stability and revisability. Scientific concepts remain open to refinement, modification, and replacement. Yet such revisions occur within a broader effort to track organisational reality more accurately. Explanatory success therefore reflects an ongoing process of discovering increasingly adequate descriptions of the continuity-producing relations through which living systems persist.
 
