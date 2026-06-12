@@ -268,7 +268,7 @@ This claim extends beyond traditional debates concerning scientific realism. APS
 
 Agency, process, and scale illustrate this point. APS does not treat them as arbitrary conceptual categories imposed upon biological phenomena. Instead, they represent recurrent organisational dimensions through which viability-oriented systems become intelligible. Agency concerns the regulation of continuity relative to viability conditions. Process concerns the transformations through which continuity is maintained. Scale concerns the distributed relationships through which persistence is organised across interacting contexts. Biological explanation succeeds because these dimensions correspond to real organisational features of living systems themselves.
 
-[[box:aps-box-why-aps-is-not-arbitrary]]
+[[box:aps-box-why-aps-is-not-arbitraryPlease generate the canonical glossary entry Explanatory Realism]]
 
 This perspective explains why explanatory structure exhibits both stability and revisability. Scientific concepts remain open to refinement, modification, and replacement. Yet such revisions occur within a broader effort to track organisational reality more accurately. Explanatory success therefore reflects an ongoing process of discovering increasingly adequate descriptions of the continuity-producing relations through which living systems persist.
 
