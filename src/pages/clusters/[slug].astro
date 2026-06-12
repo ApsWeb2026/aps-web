@@ -97,16 +97,47 @@ const clusters = [
       'Methodological concepts often overlap with foundations and philosophy. Causation, classification, emergence, explanatory direction, explanatory grammar, and counterfactual depth are placed here when their main role concerns explanatory practice rather than the biological organisation being explained.',
   },
   {
-    slug: 'artificial-systems-and-boundaries',
-    title: 'Artificial Systems and Boundaries',
-    description:
-      'Artificial systems, AI, borderline cases, minimal life, synthetic systems, and the limits of biological organisation.',
-    overview:
-      'This cluster examines cases that test the boundaries of APS. It considers artificial systems, AI, minimal life, synthetic biology, borderline organisation, and systems that resemble life without necessarily possessing biological agency.',
-    boundary:
-      'Boundary cases often draw on diagnostics, cognition, and conceptual foundations. They are placed here when the main issue is whether a system should count as living, agentive, cognitive, artificial, or merely life-like under APS criteria.',
+   slug: 'artificial-systems-and-boundaries',
+   title: 'Artificial Systems and Boundaries',
+   description:
+    'Artificial systems, AI, borderline cases, minimal life, synthetic systems, and the limits of biological organisation.',
+   overview:
+    'This cluster examines cases that test the boundaries of APS. It considers artificial systems, AI, minimal life, synthetic biology, borderline organisation, and systems that resemble life without necessarily possessing biological agency.',
+
+   architecture: `
+## How This Cluster Is Organised
+
+This cluster is organised around a central question: how should living systems be distinguished from artificial, simulated, and borderline forms of organisation?
+
+The anchor article, *The Boundaries of Life*, establishes the APS account of biological boundaries and provides the conceptual framework for the cluster as a whole. It explains why APS defines life in terms of viability-oriented organised persistence and why boundary questions are ultimately questions about organisation rather than superficial similarity.
+
+The remaining articles develop this framework through four connected explanatory pathways.
+
+### Definition and Diagnosis
+
+These articles explain what life is and how living organisation can be recognised, diagnosed, and investigated. They establish the conceptual and empirical criteria through which APS approaches questions of life detection, biological identification, and evidential assessment.
+
+### Borderline Cases
+
+These articles examine difficult cases such as viruses, dormancy, minimal life, protocells, and other systems that challenge conventional distinctions between living and non-living organisation. Their purpose is not simply to classify unusual systems, but to clarify which forms of organisation are necessary for viability-oriented persistence.
+
+### Artificial Systems
+
+These articles investigate artificial intelligence, computation, artificial life, and related systems that may resemble living systems in some respects while lacking biological agency. They clarify why simulation, information processing, behavioural complexity, and adaptive performance are not by themselves sufficient for life.
+
+### Integration and Clarification
+
+These articles reconnect boundary questions to the wider APS framework. They show how agency, organisation, persistence, diagnosis, cognition, and biological explanation together help clarify the limits of living organisation and the distinction between life, life-like systems, and artificial systems.
+
+### Suggested Reading Pathway
+
+Readers new to APS should begin with *The Boundaries of Life*. From there, the cluster progresses naturally from definition and diagnosis to borderline cases and finally to artificial systems. Together these articles provide a systematic account of how APS distinguishes living, artificial, and life-like forms of organisation.
+`,
+
+   boundary:
+    'Boundary cases often draw on diagnostics, cognition, and conceptual foundations. They are placed here when the main issue is whether a system should count as living, agentive, cognitive, artificial, or merely life-like under APS criteria.',
   },
-];
+  ];
 
 export function getStaticPaths() {
   return [
@@ -185,6 +216,14 @@ streams.sort(
       <p class="cluster-overview">
         {cluster.overview}
       </p>
+
+    {
+      cluster.architecture && (
+        <section class="cluster-architecture">
+          <div set:html={cluster.architecture} />
+        </section>
+      )
+    }
 
       <aside class="cluster-boundary-note">
         <strong>Cluster note:</strong> {cluster.boundary}
