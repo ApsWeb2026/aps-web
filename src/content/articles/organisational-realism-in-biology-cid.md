@@ -122,7 +122,7 @@ references:
 
 > **Where this article fits:** This article develops the ontological implications of APS by defending the reality of biological organisation itself. For the broader philosophical reconstruction of biological intelligibility developed within APS — including explanatory grammar, normativity, mechanism, semiosis, cognition, and organised persistence — see *[APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
 
-Biology routinely explains living systems through concepts such as function, regulation, adaptation, agency, information, development, cognition, and organisation. Yet the ontological status of these concepts remains deeply contested. Within strongly reductionist traditions, explanatory reality is often identified primarily with lower-level physical entities and processes, while higher-order biological organisation is treated as derivative, heuristic, or observer-relative. Organisms may be regarded as convenient ways of describing molecular activity, while functions, purposes, norms, and organisational structures are interpreted as explanatory shortcuts rather than features of reality itself.
+Biology routinely explains living systems through concepts such as function, regulation, adaptation, agency, information, development, cognition, and organisation. Yet the ontological status of these concepts remains deeply contested. Within strongly reductionist traditions, explanatory reality is often identified primarily with constituent physical processes, while biological organisation is treated as a descriptive abstraction rather than a real feature of living systems. Organisms may be regarded as convenient ways of describing molecular activity, while functions, purposes, norms, and organisational structures are interpreted as explanatory shortcuts rather than features of reality itself.
 
 APS rejects this conclusion. It argues that biological explanation succeeds because it tracks real organisational features of living systems. Viability, agency, function, constraint closure, normativity, evaluation, semiosis, and organised persistence are not merely descriptive conveniences layered onto an underlying mechanistic reality. They are organisational relations through which living systems actively maintain the conditions required for their continued existence. The explanatory power of biology therefore depends upon recognising that these organisational structures are themselves part of the reality biological inquiry seeks to understand.
 
@@ -146,19 +146,22 @@ This problem reflects a broader issue within scientific realism. Scientific real
 
 APS consequently treats organised persistence as both explanatorily and ontologically significant. Living systems become intelligible because they exhibit continuity-producing organisational relations that actively contribute to maintaining viability. The reality of biological organisation is therefore not an optional philosophical addition to biological explanation. It is part of what makes biological explanation possible in the first place.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/organisational-geometry-of-organised-persistence.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/organisational-geometry-of-organised-persistence.png"
-      alt="Organisational geometry of organised persistence"
-      loading="lazy"
-    />
-  </a>
+<div class="aps-diagram aps-diagram-large">
 
-  <p class="aps-diagram-caption">
-    <strong>The Organisational Geometry of Organised Persistence.</strong>
-    APS treats organised persistence as the continuity-producing reality underlying biological intelligibility, normativity, function, mechanism, semiosis, and viability-oriented regulation.
-  </p>
+<a href="/assets/diagrams/organisational-geometry-of-organised-persistence.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/organisational-geometry-of-organised-persistence.png"
+    alt="Organisational geometry of organised persistence"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+<div class="diagram-caption">
+
+**The Organisational Geometry of Organised Persistence.** APS treats organised persistence as the continuity-producing reality underlying biological intelligibility, normativity, function, mechanism, semiosis, and viability-oriented regulation.
+
 </div>
 
 ## Organisation as Continuity-Producing Reality
@@ -237,19 +240,22 @@ This perspective allows APS to integrate insights from mechanistic, processual, 
 
 [[box:aps-box-mechanisms-require-organisational-context]]
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/philosophy-mechanism.png"
-      alt="Mechanism within organised persistence"
-      loading="lazy"
-    />
-  </a>
+<div class="aps-diagram aps-diagram-large">
 
-  <p class="aps-diagram-caption">
-    <strong>Mechanism Within Organised Persistence.</strong>
-    Mechanisms are real and indispensable, but biologically intelligible only within continuity-preserving organised persistence.
-  </p>
+<a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/philosophy-mechanism.png"
+    alt="Mechanism within organised persistence"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+<div class="diagram-caption">
+
+**Mechanism Within Organised Persistence.** Mechanisms are real and indispensable, but biologically intelligible only within continuity-preserving organised persistence.
+
 </div>
 
 APS therefore overlaps significantly with mechanistic approaches while extending beyond them. Mechanisms remain indispensable components of biological explanation, yet their significance depends upon the larger organisational dynamics within which they operate. Biological reality cannot be understood solely through mechanisms, nor can it be understood without them. Organised persistence provides the framework within which mechanistic explanation becomes biologically meaningful.
