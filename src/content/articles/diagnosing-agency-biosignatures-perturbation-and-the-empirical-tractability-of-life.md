@@ -38,11 +38,10 @@ relatedGlossaryTerms:
   - perturbation
   - constraint-closure
   - organism-environment-coupling
-  - life-detection
-
+  
 relatedArticles:
   - how-to-diagnose-a-biological-system
-  - life-detection-in-aps
+  - life-detection-in-aps-biosignatures-organisation-and-evidence
   - diagnosis-as-continuity-analysis
   - malfunction-breakdown-and-death
   - agency-as-the-defining-activity-of-life

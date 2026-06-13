@@ -38,10 +38,11 @@ relatedGlossaryTerms:
   - evolutionary-organisation
 
 relatedArticles:
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - the-evolutionary-organisation-of-life
-  - natural-selection-and-organised-persistence
+  - natural-selection-an-aps-clarification
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  
 
 references:
   - id: spencer2026

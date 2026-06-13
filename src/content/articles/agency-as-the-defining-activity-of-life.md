@@ -49,16 +49,9 @@ relatedGlossaryTerms:
   - life
 
 relatedArticles:
-  - what-is-aps
-  - agency-in-contemporary-biology
   - viability-the-organising-principle-of-biological-persistence
   - persistence-organised-continuity-through-time
-  - process-the-dynamics-of-living-organisation
-  - scale-why-biological-organisation-is-not-hierarchical
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life
-  - why-life-is-not-intelligence
-  - why-life-is-not-computation
   - organism-environment-coupling
 
 references:
@@ -257,14 +250,14 @@ Seen from this perspective, life is neither a static condition nor a collection 
 
 ## Related Pathways
 
-- *[What Is APS?](/articles/what-is-aps/)*
-- *[Agency in Contemporary Biology](/articles/agency-in-contemporary-biology/)*
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Agency in Contemporary Biology](/articles/agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework/)*
 - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
 - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
-- *[Process — The Dynamics of Living Organisation](/articles/process-the-dynamics-of-living-organisation/)*
-- *[Scale — Why Biological Organisation Is Not Hierarchical](/articles/scale-why-biological-organisation-is-not-hierarchical/)*
+- *[Process — The Dynamics of Living Organisation](/articles/process-the-dynamics-of-living-biological-organisation/)*
+- *[Scale — Why Biological Organisation Is Not Hierarchical](/articles/why-aps-is-not-hierarchical/)*
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
-- *[Diagnosing Agency — Biosignatures, Perturbation, and the Empirical Tractability of Life](/articles/diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life/)*
+- *[Diagnosing Agency — Biosignatures, Perturbation, and the Empirical Tractability of Life](/articles/diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life/)*
 
 ## Key Terms
 

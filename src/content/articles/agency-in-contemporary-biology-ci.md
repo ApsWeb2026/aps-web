@@ -37,9 +37,9 @@ relatedGlossaryTerms:
 relatedArticles:
   - agency-as-the-defining-activity-of-life
   - aps-and-contemporary-theories
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - from-viability-to-normativity
-  - organism-individual-and-agent-distinguishing-three-forms-of-biological-unity
+  - organism-individual-agent-distinction
   - reframing-biology-how-aps-reorganises-core-concepts
 
 references:
