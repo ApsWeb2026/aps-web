@@ -7,6 +7,7 @@ canonical: true
 canonicalLockDate: 2026-05-05
 revised: 2026-06-13
 cluster: evolutionary-dynamics
+role: core
 
 abstract: >
   This article situates natural selection within the broader explanatory
@@ -38,7 +39,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - adaptation-how-living-systems-sustain-themselves-through-change
-  - evolution-as-the-historical-transformation-of-organised-persistence
+  - evolution
   - the-evolutionary-organisation-of-life
   - explanatory-geometry-of-biology
   - inheritance-and-continuity-in-aps

@@ -80,6 +80,7 @@ const articles = defineCollection({
     date: dateString.optional(),
     revised: dateString,
     cluster: clusterEnum,
+    role: z.enum(['anchor', 'synthesis', 'core', 'clarification', 'extension']).optional(),
     keyPoints: z.array(z.string()).default([]),
     relatedGlossaryTerms: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),

@@ -10,6 +10,7 @@ canonicalLockDate: 2026-06-01
 revised: 2026-06-13
 
 cluster: evolutionary-dynamics
+role: synthesis
 
 abstract: >
   This article serves as the principal synthesis article of the APS

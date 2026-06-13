@@ -1,6 +1,17 @@
 ---
 interface Props {
-  type: 'article' | 'glossary' | 'stream' | 'orientation' | 'diagram' | 'box';
+  type:
+    | 'article'
+    | 'glossary'
+    | 'stream'
+    | 'orientation'
+    | 'diagram'
+    | 'box'
+    | 'anchor'
+    | 'synthesis'
+    | 'core'
+    | 'clarification'
+    | 'extension';
 }
 
 const { type } = Astro.props;
@@ -12,6 +23,12 @@ const labels: Record<string, string> = {
   orientation: 'Orientation',
   diagram: 'Diagram',
   box: 'APS Box',
+
+  anchor: 'Anchor',
+  synthesis: 'Synthesis',
+  core: 'Core',
+  clarification: 'Clarification',
+  extension: 'Extension',
 };
 ---
 

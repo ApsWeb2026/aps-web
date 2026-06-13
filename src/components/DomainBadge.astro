@@ -1,0 +1,24 @@
+---
+interface Props {
+  cluster: string;
+}
+
+const { cluster } = Astro.props;
+
+const labels: Record<string, string> = {
+  'conceptual-foundations': 'Foundations',
+  'evolutionary-dynamics': 'Evolution',
+  'developmental-organisation': 'Development',
+  'ecological-organisation': 'Ecology',
+  'cognition-and-mind': 'Cognition',
+  'social-organisation': 'Social',
+  'diagnostics-and-empirical-tractability': 'Diagnosis',
+  'philosophy-of-biology': 'Philosophy',
+  'methodology-and-explanation': 'Methodology',
+  'artificial-systems-and-boundaries': 'Boundaries',
+};
+
+const label = labels[cluster] ?? cluster;
+---
+
+<span class="badge badge-domain">{label}</span>

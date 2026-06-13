@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Breadcrumb from '@/components/Breadcrumb.astro';
 import StatusBadge from '@/components/StatusBadge.astro';
+import DomainBadge from '@/components/DomainBadge.astro';
 import TypeBadge from '@/components/TypeBadge.astro';
 
 const clusters = [
@@ -245,8 +246,8 @@ streams.sort(
                     </a>
                   </h3>
 
-                  <StatusBadge status={entry.data.status} />
-                  <TypeBadge type="article" />
+                  <DomainBadge cluster={entry.data.cluster} />
+                  {entry.data.role && <TypeBadge type={entry.data.role} />}
                 </div>
 
                 <p class="card-excerpt">
