@@ -233,7 +233,7 @@ Agency therefore plays an important diagnostic role. Evidence for agency may app
 
 This diagnostic perspective connects conceptual questions about life directly to empirical investigation. If agency is the defining activity of life, then the challenge is not merely to define life conceptually but to identify the biosignatures, perturbation responses, organisational dynamics, and continuity-preserving processes through which agency becomes observable.
 
-[[box:definition-diagnosis-and-evidence]]
+[[box:aps-box-definition-diagnosis-and-evidence]]
 
 ## Agency as the Foundation of APS
 
