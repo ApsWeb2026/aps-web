@@ -6,7 +6,7 @@ status: evolving
 canonical: false
 revised: 2026-06-13
 
-domain: conceptual-foundations
+cluster: conceptual-foundations
 role: anchor
 
 cluster: conceptual-foundations
