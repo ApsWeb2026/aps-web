@@ -2,7 +2,8 @@
 date: 2026-06-13
 title: "Agency as the Defining Activity of Life"
 slug: agency-as-the-defining-activity-of-life
-status: evolving
+type: article
+status: canonical
 canonical: false
 revised: 2026-06-13
 
