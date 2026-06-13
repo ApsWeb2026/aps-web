@@ -9,8 +9,6 @@ revised: 2026-06-13
 cluster: conceptual-foundations
 role: anchor
 
-cluster: conceptual-foundations
-
 abstract: >
   In APS, agency is the defining activity of life. Living systems are not
   distinguished primarily by particular materials, mechanisms, structures,
