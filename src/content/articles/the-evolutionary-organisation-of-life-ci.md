@@ -209,9 +209,9 @@ This perspective helps explain why evolution differs from many other forms of ch
 Historical continuity therefore provides the foundation of evolutionary organisation. Once continuity is understood as extending across generations, a further question immediately emerges. How is continuity preserved while simultaneously allowing transformation? The answer leads directly to the core evolutionary architecture of inheritance, variation, selection, adaptation, and innovation.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/evolutionary-continuity-visual.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/evolution-continuity-visual.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/evolutionary-continuity-visual.png"
+      src="/assets/diagrams/evolution-continuity-visual.png"
       alt="Evolutionary continuity as organised persistence across generations"
       loading="lazy"
     />
@@ -412,21 +412,6 @@ Evolution therefore occupies a distinctive position within the APS framework. De
 The significance of this perspective extends beyond evolutionary theory itself. Agency reveals the viability-oriented activity through which continuity is pursued. Process explains how continuity survives ongoing transformation. Scale reveals how persistence is distributed across developmental, ecological, organismal, social, and historical domains. Evolution integrates these dimensions across generations, explaining how organised persistence becomes historically extended through time.
 
 The evolutionary domain is therefore unified not by a single mechanism but by a common explanatory problem. Evolutionary biology investigates many processes, yet these processes become intelligible as interconnected components of a continuity architecture extending across historical timescales.
-
-<div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-in-the-aps-architecture.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-in-the-aps-architecture.png"
-      alt="Evolution as a continuity architecture linking development, ecology, cognition, and social organisation"
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    <strong>Evolution within the APS Architecture.</strong>
-    Evolution connects developmental, ecological, cognitive, and social processes through historical continuity. It explains how viability-oriented organised persistence is preserved, modified, and transformed across generations.
-  </p>
-</div>
 
 ## The Evolutionary Organisation of Life
 
