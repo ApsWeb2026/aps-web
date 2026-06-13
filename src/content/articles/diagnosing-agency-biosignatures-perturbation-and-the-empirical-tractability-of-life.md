@@ -51,7 +51,7 @@ references:
   - id: spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
 
@@ -91,7 +91,7 @@ references:
     title: The Algorithmic Origins of Life
     journal: Journal of the Royal Society Interface
     volume: 10(79)
-    pages: 20120869
+    pages: "20120869"
     doi: 10.1098/rsif.2012.0869
 ---
 
