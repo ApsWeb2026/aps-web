@@ -21,4 +21,4 @@ const labels: Record<string, string> = {
 const label = labels[cluster] ?? cluster;
 ---
 
-<span class="badge badge-domain">{label}</span>
+<span class={`badge badge-domain badge-domain-${cluster}`}>{label}</span>
