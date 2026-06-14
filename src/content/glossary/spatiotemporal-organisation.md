@@ -2,6 +2,7 @@
 date: 2026-05-01
 title: Spatiotemporal Organisation
 slug: spatiotemporal-organisation
+type: glossary
 definition: "In APS, spatiotemporal organisation is the structured distribution and coordination of activity across space and time through which living systems maintain viability."
 inBrief: "Spatiotemporal organisation is the structured distribution and coordination of activity across space and time in maintaining viability."
 status: canonical

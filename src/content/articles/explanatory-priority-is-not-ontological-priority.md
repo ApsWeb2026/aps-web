@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Explanatory Priority Is Not Ontological Priority"
 slug: explanatory-priority-is-not-ontological-priority
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

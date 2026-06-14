@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: "Scale — How Life Is Coordinated Across Space and Time"
 slug: "scale-how-life-is-coordinated-across-space-and-time"
+type: article
 abstract: "This article explains scale in APS as the spatial and temporal coordination of biological organisation, showing how living systems integrate processes across multiple interacting domains."
 status: canonical
 revised: 2026-04-09

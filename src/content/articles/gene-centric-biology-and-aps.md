@@ -2,6 +2,7 @@
 date: 2026-04-11
 title: Gene-Centric Biology and APS — Why Genes Are Not “In Charge”
 slug: gene-centric-biology-and-aps
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

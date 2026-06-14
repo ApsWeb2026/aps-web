@@ -2,6 +2,7 @@
 date: 2026-04-26
 title: Multi-Scale Causation
 slug: multi-scale-causation
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-26

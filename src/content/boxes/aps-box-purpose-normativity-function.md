@@ -2,6 +2,7 @@
 date: 2026-04-14
 title: "APS Box — Purpose, Normativity, and Function"
 slug: "aps-box-purpose-normativity-function"
+type: box
 status: canonical
 revised: 2026-04-14
 ---

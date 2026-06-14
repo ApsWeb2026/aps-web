@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "What Is Life? — A Biological Question Revisited"
 slug: "what-is-life-a-biological-question-revisited"
+type: article
 abstract: "This article revisits the question of what life is, arguing within APS that life is best understood as viability-oriented, constraint-closed biological organisation rather than a list of defining properties."
 status: canonical
 revised: 2026-04-28

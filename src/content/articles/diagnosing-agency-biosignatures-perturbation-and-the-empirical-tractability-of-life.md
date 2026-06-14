@@ -2,6 +2,7 @@
 date: 2026-06-13
 title: Diagnosing Agency — Biosignatures, Perturbations, and the Empirical Tractability of Life
 slug: diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13

@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: Why Life Is Not Enactivism
 slug: why-life-is-not-enactivism
+type: article
 status: canonical
 revised: 2026-04-29
 cluster: philosophy-of-biology

@@ -2,6 +2,7 @@
 date: 2026-04-10
 title: What Is an Organism?
 slug: what-is-an-organism
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10

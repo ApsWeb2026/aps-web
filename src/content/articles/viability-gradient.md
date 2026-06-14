@@ -2,6 +2,7 @@
 date: 2026-04-10
 title: The Viability Gradient (VG)
 slug: viability-gradient
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10

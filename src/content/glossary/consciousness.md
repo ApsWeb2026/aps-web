@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: Consciousness
 slug: consciousness
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

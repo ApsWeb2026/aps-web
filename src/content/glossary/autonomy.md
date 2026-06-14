@@ -2,6 +2,7 @@
 date: 2026-06-11
 title: Autonomy
 slug: autonomy
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-11

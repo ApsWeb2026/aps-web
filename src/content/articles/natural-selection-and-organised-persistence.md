@@ -2,6 +2,7 @@
 date: 2026-05-05
 title: Natural Selection and Organised Persistence
 slug: natural-selection-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-05

@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Processual Individual
 slug: processual-individual
+type: glossary
 
 status: canonical
 canonical: true

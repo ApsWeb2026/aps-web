@@ -2,6 +2,7 @@
 date: 2026-05-02
 title: The APS Glossary as a Constraint-Closed Conceptual System
 slug: aps-glossary-as-constraint-closed-conceptual-system
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03

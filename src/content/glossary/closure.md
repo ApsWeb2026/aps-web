@@ -2,6 +2,7 @@
 date: 2026-05-06
 title: Closure
 slug: closure
+type: glossary
 definition: "In APS, closure refers to the reciprocal organisation of relations through which processes or constraints become mutually sustaining within an organised system."
 inBrief: "Closure is the reciprocal organisation of mutually sustaining relations within a system."
 status: canonical

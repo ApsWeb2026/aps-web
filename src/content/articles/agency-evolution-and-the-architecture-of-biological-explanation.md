@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: Agency, evolution, and the Architecture of Biological Explanation
 slug: biological-agency-evolution-and-the-architecture-of-biological-explanation
+type: article
 abstract: "This article examines how APS relates biological agency, evolution, and explanatory structure within a unified account of biological organisation."
 status: canonical
 cluster: methodology-and-explanation

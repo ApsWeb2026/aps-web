@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Time
 slug: time
+type: glossary
 definition: "Time in APS is the dimension of organised duration through which viability-oriented organisation is sustained and transformed. It is not a neutral background parameter but the intrinsic medium of persistence, development, and evolution in living systems."
 inBrief: "Time in APS is organised duration—the medium through which living systems sustain and transform their viability."
 status: canonical

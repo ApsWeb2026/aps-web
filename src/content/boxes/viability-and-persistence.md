@@ -2,6 +2,7 @@
 date: 2026-04-02
 title: "APS Box — Viability and Persistence"
 slug: viability-and-persistence
+type: box
 status: canonical
 revised: 2026-04-02
 ---

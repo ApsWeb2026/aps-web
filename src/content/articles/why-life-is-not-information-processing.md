@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Why Life Is Not Information Processing"
 slug: why-life-is-not-information-processing
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: "APS and the Social Sciences: How Social Systems Organise Viability Across Scales"
 slug: aps-and-the-social-sciences
+type: article
 status: evolving
 revised: 2026-04-09
 cluster: social-organisation

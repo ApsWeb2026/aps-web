@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: APS and Contemporary Theories
 slug: aps-and-contemporary-theories
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

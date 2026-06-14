@@ -2,6 +2,7 @@
 date: 2026-05-06
 title: Resolution
 slug: resolution
+type: glossary
 definition: "In APS, resolution refers to the granularity at which biological organisation is observed, described, or analysed."
 inBrief: "Resolution is the granularity of explanatory or observational description."
 status: canonical

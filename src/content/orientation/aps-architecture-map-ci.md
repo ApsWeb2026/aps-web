@@ -2,6 +2,7 @@
 date: 2026-05-16
 title: "APS Architecture Map — Navigating the Framework"
 slug: aps-architecture-map
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22

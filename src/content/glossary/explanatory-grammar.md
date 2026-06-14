@@ -2,6 +2,7 @@
 date: 2026-04-14
 title: Explanatory Grammar
 slug: explanatory-grammar
+type: glossary
 definition: "Explanatory grammar is the structured set of conditions that determine what counts as real, what counts as a cause, and how biological phenomena become intelligible within a given framework."
 inBrief: "Explanatory grammar is the structure that determines how explanation works."
 status: canonical

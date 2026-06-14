@@ -2,6 +2,7 @@
 date: 2026-04-26
 title: Viability
 slug: viability
+type: glossary
 definition: "In APS, viability refers to the conditions under which viability-oriented organisation can sustain and regenerate organised persistence across time."
 inBrief: "Viability specifies the conditions under which organised persistence can be sustained and regenerated across time."
 

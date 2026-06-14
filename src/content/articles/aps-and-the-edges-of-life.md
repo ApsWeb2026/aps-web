@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: "APS and the Edges of Life — Why Borderline Cases Are Expected, Not Problematic"
 slug: aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

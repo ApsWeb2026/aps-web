@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: APS Box — The Structure of Evolutionary Explanation
 slug: structure-of-evolutionary-explanation
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-15

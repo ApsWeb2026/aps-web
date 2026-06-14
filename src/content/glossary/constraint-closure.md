@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Constraint Closure
 slug: constraint-closure
+type: glossary
 definition: "Constraint closure is the reciprocal organisation of mutually sustaining constraints through which a living system continuously maintains and regenerates the conditions of its own viability and organised persistence."
 inBrief: "Constraint closure is the reciprocal regeneration of viability-sustaining constraints through ongoing organised activity."
 

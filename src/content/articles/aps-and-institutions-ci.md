@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: "APS and Institutions: How Social Systems Stabilise Organised Persistence"
 slug: aps-and-institutions
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30

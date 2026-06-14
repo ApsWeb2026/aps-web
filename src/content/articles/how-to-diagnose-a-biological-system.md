@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: "How to Diagnose a Biological System — An APS Method"
 slug: how-to-diagnose-a-biological-system
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

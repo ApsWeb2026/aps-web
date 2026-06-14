@@ -2,6 +2,7 @@
 date: 2026-05-21
 title: "Continuity"
 slug: continuity
+type: glossary
 status: canonical
 canonicalLockDate: 2026-05-21
 canonical: true

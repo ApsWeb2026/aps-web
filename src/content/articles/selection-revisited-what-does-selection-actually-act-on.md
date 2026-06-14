@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: Selection Revisited — What Does Selection Actually Act On?
 slug: selection-revisited-what-does-selection-actually-act-on
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

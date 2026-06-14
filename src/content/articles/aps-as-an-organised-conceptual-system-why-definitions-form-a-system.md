@@ -2,6 +2,7 @@
 date: 2026-04-07
 title: APS as an Organised Conceptual System — Why Definitions Form a System
 slug: aps-as-an-organised-conceptual-system-why-definitions-form-a-system
+type: article
 abstract: >
   This article establishes the principle that APS concepts form an organised system of mutually constraining definitions. It explains why conceptual closure is required for coherent biological explanation and how this principle stabilises the framework.
 status: canonical

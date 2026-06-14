@@ -2,6 +2,7 @@
 date: 2026-04-11
 title: What Is evolution in APS?
 slug: what-is-evolution-in-aps
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

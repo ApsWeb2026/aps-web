@@ -2,6 +2,7 @@
 date: 2026-05-06
 title: "APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility"
 slug: "aps-as-philosophy-viability-oriented-reconstruction"
+type: article
 
 abstract: >
   This article presents the Agency–Process–Scale (APS) framework as a

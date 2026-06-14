@@ -2,6 +2,7 @@
 date: 2026-04-14
 title: Process
 slug: process
+type: glossary
 definition: >
   In APS, process is the continuous organisation of activity through which
   living systems sustain, regulate, reorganise, and regenerate

@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Why APS Is Not Organicism"
 slug: why-aps-is-not-organicism
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

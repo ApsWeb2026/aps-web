@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Developmental Regulation
 slug: developmental-regulation
+type: glossary
 
 status: canonical
 canonical: true

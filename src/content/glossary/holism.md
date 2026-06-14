@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: Holism
 slug: holism
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

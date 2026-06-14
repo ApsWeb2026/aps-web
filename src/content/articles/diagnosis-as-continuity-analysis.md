@@ -2,6 +2,7 @@
 date: 2026-05-20
 title: "Diagnosis as Continuity Analysis"
 slug: diagnosis-as-continuity-analysis
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22

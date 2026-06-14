@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Biological Organisation — How Living Systems Sustain Themselves"
 slug: biological-organisation
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

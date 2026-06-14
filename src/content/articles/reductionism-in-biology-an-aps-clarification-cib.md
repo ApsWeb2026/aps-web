@@ -2,6 +2,7 @@
 date: 2026-04-20
 title: "Reductionism in Biology — An APS Clarification"
 slug: reductionism-in-biology-an-aps-clarification
+type: article
 
 abstract: >
   APS distinguishes material constitution from explanatory priority,

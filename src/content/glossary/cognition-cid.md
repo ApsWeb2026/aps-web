@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: Cognition
 slug: cognition
+type: glossary
 definition: >
   In APS, cognition is the integrated and temporally extended organisation of
   semiosis and evaluative activity through which living systems regulate

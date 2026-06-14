@@ -2,6 +2,7 @@
 date: 2026-04-16
 title: "How APS Explains Life — A Two-Step Guide"
 slug: how-aps-explains-life
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

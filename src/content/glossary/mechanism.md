@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: Mechanism
 slug: mechanism
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16

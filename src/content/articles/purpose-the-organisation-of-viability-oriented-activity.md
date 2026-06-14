@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Purpose — The Organisation of Viability-Oriented Activity"
 slug: "purpose-the-organisation-of-viability-oriented-activity"
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

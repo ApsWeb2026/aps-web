@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Viability — The Organising Principle of Biological Persistence"
 slug: viability-the-organising-principle-of-biological-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

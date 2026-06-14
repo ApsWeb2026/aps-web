@@ -2,6 +2,7 @@
 date: 2026-05-06
 title: Organisational Coupling
 slug: organisational-coupling
+type: glossary
 definition: "In APS, organisational coupling refers to the reciprocal integration of processes, constraints, or systems such that their continued organisation becomes mutually dependent across space and time."
 inBrief: "Organisational coupling is the reciprocal integration through which organised systems become mutually dependent."
 status: canonical

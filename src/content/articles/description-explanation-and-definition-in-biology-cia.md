@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: Description, Explanation, and Definition in Biology — An APS Clarification
 slug: description-explanation-and-definition-in-biology
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07

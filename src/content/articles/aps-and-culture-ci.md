@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: "APS and Culture: How Social Systems Extend Organised Persistence Across Time"
 slug: aps-and-culture
+type: article
 status: evolving
 revised: 2026-04-09
 cluster: social-organisation

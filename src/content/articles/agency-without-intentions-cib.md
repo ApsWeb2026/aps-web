@@ -2,6 +2,7 @@
 date: 2026-04-03
 title: Agency Without Intentions
 slug: biological-agency-without-intentions
+type: article
 abstract: >
   This article clarifies how APS understands biological agency as viability-oriented, normatively structured activity that does not require intention, representation, or mental states. It shows how agency arises from the organisation of living systems and how more complex forms of agency develop without introducing a categorical break.
 status: canonical

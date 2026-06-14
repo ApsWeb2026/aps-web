@@ -1,7 +1,7 @@
 ---
 title: "Constraint Closure and Self-Maintenance"
 slug: "constraint-closure-and-self-maintenance"
-type: "conceptual"
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-08

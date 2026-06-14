@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Biological Individuality — Organised Persistence Through Time"
 slug: biological-individuality-organised-persistence-through-time
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

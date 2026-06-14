@@ -2,6 +2,7 @@
 date: 2026-05-22
 title: Temporal Field
 slug: temporal-field
+type: glossary
 definition: >
   The temporally extended continuity conditions within which
   viability-oriented organisation is maintained, renewed,

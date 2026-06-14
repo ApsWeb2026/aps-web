@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Morphology
 slug: morphology
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27

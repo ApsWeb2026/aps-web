@@ -2,6 +2,7 @@
 date: 2026-04-18
 title: APS Box — Viability as Gradient
 slug: viability-as-gradient
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18

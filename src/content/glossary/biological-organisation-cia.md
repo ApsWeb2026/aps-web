@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Biological Organisation
 slug: biological-organisation
+type: glossary
 definition: "Biological organisation is the viability-oriented, constraint-closed organisation of processes through which living systems sustain, regulate, and regenerate the conditions of their own persistence."
 inBrief: "Biological organisation is the dynamically maintained organisation of processes through which living systems sustain viability."
 status: canonical

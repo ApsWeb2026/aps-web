@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Scale
 slug: scale
+type: glossary
 definition: >
   In APS, scale refers to the spatial and temporal extent over which
   viability-oriented biological organisation is distributed, coordinated, and

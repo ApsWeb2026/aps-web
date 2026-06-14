@@ -2,6 +2,7 @@
 date: 2026-04-29
 title: APS in One Page — The Structure of Explanation
 slug: aps-in-one-page-the-structure-of-explanation
+type: orientation
 status: canonical
 revised: 2026-04-29
 cluster: conceptual-foundations

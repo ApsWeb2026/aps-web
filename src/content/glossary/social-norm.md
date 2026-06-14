@@ -2,6 +2,7 @@
 date: 2026-05-30
 title: Social Norm
 slug: social-norm
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30

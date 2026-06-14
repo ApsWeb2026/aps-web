@@ -2,6 +2,7 @@
 date: 2026-04-14
 title: APS — A Viability-Oriented Framework for Understanding Life
 slug: aps-viability-oriented-framework
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-13

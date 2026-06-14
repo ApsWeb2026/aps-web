@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Development
 slug: development
+type: glossary
 definition: "In APS, development is the progressive differentiation and reorganisation of constraint-closed organisation through which a living system maintains and transforms its own viability over time."
 inBrief: "Development is the ongoing reorganisation of constraint-closed processes that sustain and transform viability through time."
 status: canonical

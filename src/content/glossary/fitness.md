@@ -2,6 +2,7 @@
 date: 2026-05-17
 title: Fitness
 slug: fitness
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

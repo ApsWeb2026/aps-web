@@ -2,6 +2,7 @@
 date: 2026-04-13
 title: Explanatory Grammar
 slug: explanatory-grammar
+type: article
 
 abstract: >
   Biological explanation depends on the conceptual frameworks through which

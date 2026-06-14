@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Cultural Organisation"
 slug: cultural-organisation
+type: article
 
 abstract: >
   Culture is often understood as a collection of beliefs, values, customs,

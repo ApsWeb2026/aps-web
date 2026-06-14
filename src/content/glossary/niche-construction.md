@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Niche Construction
 slug: niche-construction
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27

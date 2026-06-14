@@ -2,6 +2,7 @@
 date: 2026-03-28
 title: "APS Box — What APS Means by Purpose"
 slug: what-aps-means-by-purpose
+type: box
 status: canonical
 revised: 2026-03-28
 ---

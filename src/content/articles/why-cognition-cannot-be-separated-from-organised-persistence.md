@@ -2,6 +2,7 @@
 date: 2026-05-17
 title: "Why Cognition Cannot Be Separated from Organised Persistence"
 slug: why-cognition-cannot-be-separated-from-organised-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

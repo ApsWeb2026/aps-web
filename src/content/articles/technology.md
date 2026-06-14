@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Technology"
 slug: technology
+type: article
 
 abstract: >
   Technology is often understood as a collection of tools, machines, devices,

@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Organism–Environment Coupling — Distributed Persistence Across Living Systems"
 slug: organism-environment-coupling
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

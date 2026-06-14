@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Social Organisation"
 slug: social-organisation
+type: article
 
 abstract: >
   Social organisation is the coordinated arrangement of activities,

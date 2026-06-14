@@ -2,6 +2,7 @@
 date: 2026-05-17
 title: Navigating APS — Conceptual Guideposts
 slug: navigating-aps-conceptual-guideposts
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

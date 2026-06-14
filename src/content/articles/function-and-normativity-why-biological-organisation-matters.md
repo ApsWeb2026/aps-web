@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Function and Normativity — Why Biological Organisation Matters"
 slug: function-and-normativity-why-biological-organisation-matters
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

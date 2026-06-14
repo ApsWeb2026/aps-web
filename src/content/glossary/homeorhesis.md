@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Homeorhesis
 slug: homeorhesis
+type: glossary
 definition: "Homeorhesis is the maintenance of a viable organisational trajectory through ongoing reorganisation in a constraint-closed system."
 inBrief: "Homeorhesis is the maintenance of a viable trajectory through change."
 status: canonical

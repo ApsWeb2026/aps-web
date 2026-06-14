@@ -2,6 +2,7 @@
 date: 2026-05-19
 title: "Organisational Realism in Biology"
 slug: organisational-realism-in-biology
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

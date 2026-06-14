@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: "Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity"
 slug: scale-time-persistence
+type: article
 abstract: >
   This article explains how scale and time are integrated in APS to produce
   organised persistence. Living systems do not exist as static entities, but

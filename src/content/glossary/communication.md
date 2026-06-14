@@ -2,6 +2,7 @@
 date: 2026-05-30
 title: Communication
 slug: communication
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30

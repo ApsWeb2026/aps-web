@@ -2,6 +2,7 @@
 date: 2026-04-11
 title: APS Box — Gene-Centric vs APS Explanatory Grammar
 slug: gene-centric-vs-aps-grammar
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

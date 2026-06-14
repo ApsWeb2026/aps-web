@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: What Counts as an Evolutionary Explanation?
 slug: what-counts-as-an-evolutionary-explanation
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

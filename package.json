@@ -5,7 +5,7 @@
   "description": "APS Publishing Platform — A structured research instrument for the Agency-Process-Scale framework",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "npx tsx src/scripts/content-lint.ts && npx tsx src/scripts/check-links.ts && npx tsx src/scripts/check-canonical-lock.ts",
+    "prebuild": "npx tsx src/scripts/check-frontmatter-type.ts && npx tsx src/scripts/content-lint.ts && npx tsx src/scripts/check-links.ts && npx tsx src/scripts/check-canonical-lock.ts",
     "build": "astro build",
     "postbuild": "npx tsx src/scripts/generate-redirects.ts && npx pagefind --site dist",
     "preview": "astro preview",

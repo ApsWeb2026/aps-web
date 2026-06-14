@@ -2,6 +2,7 @@
 date: 2026-04-30
 title: Design in Nature — An APS Clarification
 slug: design-in-nature-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-30

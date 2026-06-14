@@ -2,6 +2,7 @@
 date: 2026-04-02
 title: "APS Box — From Viability to Meaning"
 slug: from-viability-to-meaning
+type: box
 status: canonical
 revised: 2026-04-02
 ---

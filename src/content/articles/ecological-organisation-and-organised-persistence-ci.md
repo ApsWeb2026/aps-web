@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: "Ecological Organisation and Organised Persistence"
 slug: ecological-organisation
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

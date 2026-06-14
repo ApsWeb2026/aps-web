@@ -2,6 +2,7 @@
 date: 2026-04-13
 title: Niche
 slug: niche
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13

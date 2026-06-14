@@ -2,6 +2,7 @@
 date: 2026-04-18
 title: APS Box — Why APS Is Empirically Tractable
 slug: why-aps-is-empirically-tractable
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18

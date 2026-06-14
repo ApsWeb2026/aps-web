@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Why APS Is Not Holism"
 slug: why-aps-is-not-holism
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

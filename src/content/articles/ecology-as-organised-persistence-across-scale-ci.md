@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Ecology as Organised Persistence Across Scales"
 slug: ecology-as-organised-persistence-across-scales
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

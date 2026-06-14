@@ -2,6 +2,7 @@
 date: 2026-04-03
 title: "APS Box — Why APS Replaces Goals with Viability Conditions"
 slug: aps-box-why-aps-replaces-goals-with-viability-conditions
+type: box
 status: canonical
 revised: 2026-04-03
 ---

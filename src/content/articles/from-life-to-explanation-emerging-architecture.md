@@ -2,6 +2,7 @@
 date: 2026-04-18
 title: From Life to Explanation - The Emerging Architecture of the APS Framework
 slug: from-life-to-explanation-emerging-architecture
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18

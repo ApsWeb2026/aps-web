@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: Inheritance and Continuity in APS
 slug: inheritance-and-continuity-in-aps
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

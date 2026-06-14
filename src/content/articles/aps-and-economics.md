@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: "APS and Economics: How Economic Systems Organise Viability Across Scales"
 slug: aps-and-economics
+type: article
 status: evolving
 revised: 2026-04-09
 cluster: social-organisation

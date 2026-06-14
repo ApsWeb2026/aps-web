@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Constraint
 slug: constraint
+type: glossary
 definition: "In APS, a constraint is an organisational relation that channels and stabilises activity in ways that sustain viability-oriented organisation without fully determining outcomes."
 inBrief: "A constraint is an organisational relation that stabilises activity without fully determining it."
 status: canonical

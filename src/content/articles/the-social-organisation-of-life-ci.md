@@ -2,6 +2,7 @@
 date: 2026-05-30
 title: The Social Organisation of Life
 slug: the-social-organisation-of-life
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30

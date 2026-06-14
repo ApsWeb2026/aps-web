@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: Variation
 slug: variation
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12

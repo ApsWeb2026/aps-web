@@ -2,6 +2,7 @@
 date: 2026-06-13
 title: Plasticity
 slug: plasticity
+type: glossary
 definition: >
   Plasticity is the capacity of a viability-oriented system to reorganise
   its activity, structure, development, or behaviour in response to changing

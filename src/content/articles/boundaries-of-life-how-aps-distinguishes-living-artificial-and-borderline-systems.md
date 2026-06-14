@@ -2,6 +2,7 @@
 date: 2026-06-10
 title: "The Boundaries of Life: How APS Distinguishes Living, Artificial, and Borderline Systems"
 slug: boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-10

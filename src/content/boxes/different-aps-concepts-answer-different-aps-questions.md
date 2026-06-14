@@ -2,6 +2,7 @@
 title: "Different APS Concepts Answer Different Questions"
 date: 2026-05-10
 slug: "different-aps-concepts-answer-different-questions"
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10

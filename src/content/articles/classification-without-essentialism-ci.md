@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: Classification Without Essentialism — How APS Reframes Biological Taxonomy
 slug: classification-without-essentialism
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12

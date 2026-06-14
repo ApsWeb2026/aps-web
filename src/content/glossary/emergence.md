@@ -2,6 +2,7 @@
 date: 2026-04-30
 title: Emergence
 slug: emergence
+type: glossary
 definition: "In APS, emergence is a descriptive term for higher-order organisation that arises within biological systems, but not an explanatory principle. Such organisation is explained as the continuous production and transformation of viability-oriented, constraint-closed processes."
 inBrief: "Emergence describes higher-order organisation, but in APS it is explained through viability-oriented organisation, not treated as a primitive."
 status: canonical

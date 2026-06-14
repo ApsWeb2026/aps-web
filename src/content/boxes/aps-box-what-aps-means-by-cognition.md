@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "APS Box — What APS Means by Cognition"
 slug: "what-aps-means-by-cognition"
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-28

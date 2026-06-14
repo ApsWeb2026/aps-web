@@ -1,6 +1,7 @@
 ---
 title: "APS Visual Explanatory Grammar"
 slug: aps-visual-explanatory-grammar
+type: article
 date: 2026-05-18
 status: canonical
 canonical: true

@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Constraint — How Organisation Becomes Persistence"
 slug: constraint-how-organisation-becomes-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

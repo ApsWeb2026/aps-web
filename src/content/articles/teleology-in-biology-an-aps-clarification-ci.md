@@ -2,6 +2,7 @@
 date: 2026-05-04
 title: "Teleology in Biology — An APS Clarification"
 slug: teleology-in-biology-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04

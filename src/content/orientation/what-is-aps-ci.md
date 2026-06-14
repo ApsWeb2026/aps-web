@@ -2,6 +2,7 @@
 date: 2026-04-13
 title: "What Is APS?"
 slug: what-is-aps
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

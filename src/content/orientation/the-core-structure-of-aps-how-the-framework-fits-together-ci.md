@@ -2,6 +2,7 @@
 date: 2026-04-13
 title: "The Core Structure of APS — How the Framework Fits Together"
 slug: the-core-structure-of-aps-how-the-framework-fits-together
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

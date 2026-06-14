@@ -1,6 +1,7 @@
 ---
 title: Functional Lineage
 slug: functional-lineage
+type: glossary
 definition: "A functional lineage is the continuity of an organisational role, capacity, or viability-sustaining function across evolutionary history, even where the structures that realise it differ."
 inBrief: "Functional lineage refers to the continuity of biological roles or capacities despite differences in their structural realisation."
 status: canonical

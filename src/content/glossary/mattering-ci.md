@@ -2,12 +2,13 @@
 date: 2026-04-08
 title: Mattering
 slug: mattering
+type: glossary
 definition: "In APS, mattering is the viability-relative significance through which conditions, differences, and transformations acquire organisational consequence for living systems."
 inBrief: "Mattering is the viability-relative significance of differences within organised living activity."
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-05-06
+revised: 2026-06-14
 cluster: cognition-and-mind
 seeAlso:
   - viability

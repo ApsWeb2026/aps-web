@@ -2,6 +2,7 @@
 date: 2026-04-16
 title: History as Organised Persistence - What APS Clarifies About Historical Explanation
 slug: history-as-organised-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16

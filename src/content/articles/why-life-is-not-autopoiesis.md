@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: Why Life Is Not Autopoiesis
 slug: why-life-is-not-autopoiesis
+type: article
 status: canonical
 revised: 2026-04-28
 cluster: philosophy-of-biology

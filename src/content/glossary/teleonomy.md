@@ -2,6 +2,7 @@
 date: 2026-05-11
 title: Teleonomy
 slug: teleonomy
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11

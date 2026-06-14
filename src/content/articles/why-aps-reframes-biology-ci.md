@@ -2,6 +2,7 @@
 date: 2026-05-12
 title: "Why APS Reframes Biology"
 slug: why-aps-reframes-biology
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12

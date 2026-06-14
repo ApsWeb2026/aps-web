@@ -2,6 +2,7 @@
 date: 2026-05-17
 title: "Why Philosophy of Biology Matters"
 slug: why-philosophy-of-biology-matters
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

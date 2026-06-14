@@ -2,6 +2,7 @@
 date: 2026-04-12
 title: APS Box — What a Taxon Is (and Is Not)
 slug: aps-box-what-a-taxon-is-and-is-not
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12

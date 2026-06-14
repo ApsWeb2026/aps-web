@@ -2,6 +2,7 @@
 date: 2026-05-17
 title: "The Continuity Structure of Biological Organisation"
 slug: continuity-structure-of-biological-organisation
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: APS and Autonomy Theory — From Constraint Closure to Viability-Oriented Organisation
 slug: aps-and-autonomy-theory
+type: article
 status: canonical
 revised: 2026-04-28
 cluster: philosophy-of-biology

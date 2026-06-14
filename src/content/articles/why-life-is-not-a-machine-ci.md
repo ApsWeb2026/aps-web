@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Why Life Is Not a Machine — An APS Clarification"
 slug: why-life-is-not-a-machine
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

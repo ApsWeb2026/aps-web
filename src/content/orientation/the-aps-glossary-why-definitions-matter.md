@@ -2,6 +2,7 @@
 date: 2026-04-03
 title: The APS Glossary - Why Definitions Matter
 slug: the-aps-glossary-why-definitions-matter
+type: orientation
 status: canonical
 revised: 2026-04-03
 ---

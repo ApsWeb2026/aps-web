@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: APS and the Extended Evolutionary Synthesis — Conditions and Extensions of evolution
 slug: aps-and-the-extended-evolutionary-synthesis
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

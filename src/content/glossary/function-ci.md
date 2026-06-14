@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Function
 slug: function
+type: glossary
 definition: "In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system."
 inBrief: "Function is the viability-relative contribution of structures or processes to organised persistence."
 status: canonical

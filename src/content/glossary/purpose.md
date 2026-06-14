@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Purpose
 slug: purpose
+type: glossary
 definition: "In APS, purpose is the viability-oriented organisation of activity through which living systems sustain and regenerate their own persistence."
 inBrief: "Purpose is the viability-oriented organisation of activity that sustains organised persistence."
 status: canonical

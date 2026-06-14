@@ -2,6 +2,7 @@
 date: 2026-05-18
 title: "Resilience, Ecology, and Continuity"
 slug: resilience-ecology-and-continuity
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20

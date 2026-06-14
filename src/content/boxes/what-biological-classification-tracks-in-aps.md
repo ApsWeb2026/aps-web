@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: APS Box — What Biological Classification Tracks in APS
 slug: what-biological-classification-tracks-in-aps
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-15

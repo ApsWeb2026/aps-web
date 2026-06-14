@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "APS Box — What Is Explanatory Grammar?"
 slug: aps-box-what-is-explanatory-grammar
+type: box
 status: "canonical"
 revised: "2026-04-21"
 ---

@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: Consciousness — An APS Clarification
 slug: consciousness-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

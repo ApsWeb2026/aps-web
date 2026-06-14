@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: Symbolic Coordination
 slug: symbolic-coordination
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

@@ -2,6 +2,7 @@
 date: 2026-04-05
 title: "The Two Founding Questions of Biology"
 slug: "the-two-founding-questions-of-biology"
+type: article
 abstract: "This article identifies the two founding questions of biology as the questions of what life is and how living forms change, and shows how APS integrates them within a unified explanatory framework."
 status: canonical
 revised: 2026-04-05

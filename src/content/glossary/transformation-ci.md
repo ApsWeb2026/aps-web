@@ -2,6 +2,7 @@
 date: 2026-04-12
 title: Transformation
 slug: transformation
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12

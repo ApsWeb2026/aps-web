@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Communication and Coordination"
 slug: communication-and-coordination
+type: article
 
 abstract: >
   Communication is often understood as the transmission of information between

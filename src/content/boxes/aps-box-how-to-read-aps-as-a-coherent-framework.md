@@ -2,6 +2,7 @@
 date: 2026-04-18
 title: APS Box — How to Read APS as a Coherent Framework
 slug: how-to-read-aps-as-a-coherent-framework
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18

@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: "Developmental Organisation and Organised Persistence"
 slug: developmental-organisation-and-organised-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20

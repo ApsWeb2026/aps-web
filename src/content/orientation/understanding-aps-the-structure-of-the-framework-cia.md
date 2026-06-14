@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "Understanding APS — The Structure of the Framework"
 slug: understanding-aps-the-structure-of-the-framework
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

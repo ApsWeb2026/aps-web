@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "Cognition — Where Does It Belong in Biology?"
 slug: cognition-where-does-it-belong-in-biology
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Evolution as the Historical Transformation of Organised Persistence"
 slug:  evolution
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28

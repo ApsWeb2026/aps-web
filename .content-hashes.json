@@ -1,63 +1,63 @@
 {
   "articles/scale-time-persistence": {
-    "hash": "a7aba88424fa0d03",
-    "revised": "2026-02-01",
-    "lockedSince": "2026-02-01"
+    "hash": "90d297fc8539a078",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
   },
   "glossary/biological-agency": {
-    "hash": "1ca9a5f3744f8c99",
+    "hash": "8836591a71c5cb99",
+    "revised": "2026-06-14",
+    "lockedSince": "2026-05-29"
+  },
+  "glossary/function": {
+    "hash": "3a1a3950cafeda93",
     "revised": "2026-05-16",
     "lockedSince": "2026-05-16"
   },
-  "glossary/function": {
-    "hash": "9548d8ede47a4887",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-19"
-  },
   "glossary/process": {
-    "hash": "dffa8b68731ecd6e",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-18"
+    "hash": "47121f8d22abd857",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
   },
   "glossary/scale": {
-    "hash": "9a35f6e2b2b0349c",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-18"
+    "hash": "5edcee7977ea7d26",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
-    "hash": "1f82cedf2d595c08",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "93310adadc72bd8f",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
   },
   "glossary/constraint-closure": {
-    "hash": "a5aafb87e1cb3bd9",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "5b9cb3c0af9a7ccf",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
   },
   "glossary/life": {
-    "hash": "f3e111a1645eea50",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-19"
+    "hash": "8d8d9cfaa22ddf34",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-06-13"
   },
   "glossary/mattering": {
-    "hash": "97e53dccb7a64b8f",
+    "hash": "1d847e1e8ee2cf43",
     "revised": "2026-05-06",
     "lockedSince": "2026-04-08"
   },
   "glossary/normativity": {
-    "hash": "ba540a4fa22b6267",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "d16e3bf48203a849",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
   },
   "glossary/persistence": {
-    "hash": "5e9c477c9d360198",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "5272d13b45f5d4ff",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
   },
   "glossary/purpose": {
-    "hash": "e6bbbab8447c0292",
-    "revised": "2026-03-20",
-    "lockedSince": "2026-03-20"
+    "hash": "893acab4d824e82a",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
   },
   "orientation/how-to-read": {
     "hash": "db7d1a543b865cc3",
@@ -85,19 +85,19 @@
     "lockedSince": "2026-03-21"
   },
   "articles/biological-organisation": {
-    "hash": "b41f5e46e4b4c7f1",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "6c479b1bb9bbbe14",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
   },
   "articles/evolution": {
-    "hash": "f1c64862a67a6c30",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "3f51ccd72e9829d1",
+    "revised": "2026-06-12",
+    "lockedSince": "2026-05-28"
   },
   "articles/explanatory-grammar": {
-    "hash": "f659d7362c2d072c",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "aaad5eccd0f6068b",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
   },
   "articles/function": {
     "hash": "594fadd51ef179d2",
@@ -140,24 +140,24 @@
     "lockedSince": "2026-03-21"
   },
   "glossary/adaptation": {
-    "hash": "9eff7bc3d2243404",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "169c50a37e52cf38",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-16"
   },
   "glossary/biological-organisation": {
-    "hash": "6f809fd3e0a08182",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "bb0e84ab24a963ed",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-04-08"
   },
   "glossary/evolution": {
-    "hash": "eb8cedf4d4103001",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "e17d6e3b415728a1",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-16"
   },
   "glossary/explanatory-grammar": {
-    "hash": "885e2c8f314223f9",
-    "revised": "2026-03-21",
-    "lockedSince": "2026-03-21"
+    "hash": "93992b727dda968d",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-04-14"
   },
   "glossary/homeorhesis": {
     "hash": "0c40e067e6ac6eed",
@@ -185,8 +185,1198 @@
     "lockedSince": "2026-03-27"
   },
   "articles/biological-goals-without-mentalism": {
-    "hash": "23b5ed5096660fbc",
-    "revised": "2026-03-28",
-    "lockedSince": "2026-03-28"
+    "hash": "fb69cc18e9cccd46",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "articles/adaptation-how-living-systems-sustain-themselves-through-change": {
+    "hash": "f33cb4c03daa637e",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/ageing-and-organisational-persistence": {
+    "hash": "d6523cce99f18e13",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/agency-and-organised-persistence": {
+    "hash": "ac8dc52b608d0937",
+    "revised": "2026-06-14",
+    "lockedSince": "2026-06-14"
+  },
+  "articles/agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework": {
+    "hash": "d8f522d87054a9a4",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-06-13"
+  },
+  "articles/biological-agency-without-intentions": {
+    "hash": "fa0f0ff1f0b48879",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-05-03"
+  },
+  "articles/analysis-synthesis-and-the-direction-of-explanation": {
+    "hash": "2a40db96846be31a",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-05-03"
+  },
+  "articles/aps-and-contemporary-theories": {
+    "hash": "dff3f56d210aff62",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/aps-and-institutions": {
+    "hash": "61a62ff88dff2169",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "articles/aps-and-norms": {
+    "hash": "9916b5f35404b7d8",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "articles/aps-and-systems-theory": {
+    "hash": "94819c4f3dea18b5",
+    "revised": "2026-04-11",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic": {
+    "hash": "d0be992f962037fc",
+    "revised": "2026-06-11",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/aps-and-the-extended-evolutionary-synthesis": {
+    "hash": "9a84a1b0322131a6",
+    "revised": "2026-04-28",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/aps-and-the-free-energy-principle": {
+    "hash": "873fc09f7d06c359",
+    "revised": "2026-04-11",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system": {
+    "hash": "49aecab00e035dd9",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-05-03"
+  },
+  "articles/aps-as-philosophy-viability-oriented-reconstruction": {
+    "hash": "547b2ebed4850c53",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/aps-diagnostics-empirical-tractability": {
+    "hash": "db20f2850393277d",
+    "revised": "2026-04-28",
+    "lockedSince": "2026-04-18"
+  },
+  "articles/aps-glossary-as-constraint-closed-conceptual-system": {
+    "hash": "3cf9806ce941d265",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-05-03"
+  },
+  "articles/aps-visual-explanatory-grammar": {
+    "hash": "6c44a2161582287d",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-20"
+  },
+  "articles/beyond-placeholder-concepts-in-biology-an-aps-clarification": {
+    "hash": "6489e954c5fa95bc",
+    "revised": "2026-04-30",
+    "lockedSince": "2026-04-30"
+  },
+  "articles/biological-agency-as-the-activity-of-self-maintenance": {
+    "hash": "74e1e7e61913dcf0",
+    "revised": "2026-06-14",
+    "lockedSince": "2026-06-14"
+  },
+  "articles/biological-causation-from-mechanism-to-organised-persistence": {
+    "hash": "30906f2b36e523d4",
+    "revised": "2026-04-09",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/biological-classification-in-aps": {
+    "hash": "64d6c7d888844c31",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-12"
+  },
+  "articles/biological-evidence-what-counts-as-evidence-for-life": {
+    "hash": "77648ffbe94124ca",
+    "revised": "2026-04-09",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/biological-explanation-and-organised-persistence": {
+    "hash": "60a47a0637cfc14b",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "articles/biological-individuality-organised-persistence-through-time": {
+    "hash": "8b99529721fb8ae4",
+    "revised": "2026-06-12",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/biology": {
+    "hash": "1456de5ebe03cd6d",
+    "revised": "2026-04-14",
+    "lockedSince": "2026-04-14"
+  },
+  "articles/boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems": {
+    "hash": "b69ac98fc6d8d753",
+    "revised": "2026-06-11",
+    "lockedSince": "2026-06-10"
+  },
+  "articles/can-ai-be-alive-an-aps-clarification": {
+    "hash": "351138ac68f4c6d1",
+    "revised": "2026-05-07",
+    "lockedSince": "2026-05-07"
+  },
+  "articles/classification-without-essentialism": {
+    "hash": "110eec87cc1f6b54",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-12"
+  },
+  "articles/cognition-where-does-it-belong-in-biology": {
+    "hash": "03185a0a98f12bd3",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/cognitive-integration": {
+    "hash": "88632ebcdfd4ae3a",
+    "revised": "2026-04-29",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/communication-and-coordination": {
+    "hash": "6bf1a15a902bd4ea",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/consciousness-an-aps-clarification": {
+    "hash": "7e7b43d7c5b43d1f",
+    "revised": "2026-05-15",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/constraint-closure-what-it-does-and-does-not-do": {
+    "hash": "57f270ec3a58fce9",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/constraint-how-organisation-becomes-persistence": {
+    "hash": "6dac723a676e90e4",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/continuity-architecture-of-life": {
+    "hash": "e60b67f81685f395",
+    "revised": "2026-06-01",
+    "lockedSince": "2026-06-01"
+  },
+  "articles/continuity-structure-of-biological-organisation": {
+    "hash": "98e2a355af80a06c",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "articles/cultural-inheritance": {
+    "hash": "e5d495ad7a224312",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/cultural-organisation": {
+    "hash": "a7f249855dfb8fa4",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/definition-and-diagnosis-in-aps": {
+    "hash": "408693203f7dfe0a",
+    "revised": "2026-05-07",
+    "lockedSince": "2026-05-07"
+  },
+  "articles/description-explanation-and-definition-in-biology": {
+    "hash": "b18235dc977ed6e4",
+    "revised": "2026-05-11",
+    "lockedSince": "2026-05-07"
+  },
+  "articles/design-in-nature-an-aps-clarification": {
+    "hash": "46f7af5aa7e97016",
+    "revised": "2026-04-30",
+    "lockedSince": "2026-04-30"
+  },
+  "articles/development-and-biological-individuality": {
+    "hash": "e5650cba7af1c3ae",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/development-and-cognition": {
+    "hash": "5413f16314c590dd",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/development-and-ecological-organisation": {
+    "hash": "9cab8e5d5cd7348d",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/development-and-evolution": {
+    "hash": "32b415ffffb6845f",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/development-and-evolutionary-explanation": {
+    "hash": "a09ac54506fcefcf",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/development-and-social-organisation": {
+    "hash": "6bc7da7eae93c2ac",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/development-as-organised-persistence": {
+    "hash": "48e62ac018d088b1",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-canalisation": {
+    "hash": "e29edb1f53365ba4",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-fragility": {
+    "hash": "e936578da97dd98a",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "articles/developmental-inheritance": {
+    "hash": "bdcae1f6a9b6737f",
+    "revised": "2026-05-26",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-integration": {
+    "hash": "10dfcd30d2764782",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-niches": {
+    "hash": "46bc8435a2148ecf",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-organisation-and-organised-persistence": {
+    "hash": "b457cd52c1b8ae55",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-20"
+  },
+  "articles/developmental-plasticity": {
+    "hash": "519638e171585478",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/developmental-regulation": {
+    "hash": "5dff7614c4ab231f",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-resilience": {
+    "hash": "ab1a1d8dd087f576",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-scaffolding": {
+    "hash": "9750dc585ceb543f",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/developmental-temporality": {
+    "hash": "4e5aa4f1cbdf8652",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/diagnosing-a-plant-system-in-aps": {
+    "hash": "2950e11873fe3254",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life": {
+    "hash": "48c3470c29c61945",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-06-13"
+  },
+  "articles/diagnosing-breakdown-when-organisation-collapses": {
+    "hash": "5cc450589840c4bf",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/diagnosing-viruses-in-aps": {
+    "hash": "9a81ed260c779cd8",
+    "revised": "2026-06-11",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/diagnosis-as-continuity-analysis": {
+    "hash": "5ddef562e6330a52",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
+  },
+  "articles/ecological-organisation": {
+    "hash": "d3da6459103f4b9d",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/ecology-as-organised-persistence-across-scales": {
+    "hash": "40a043d3f9c04b5d",
+    "revised": "2026-06-04",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/emergence-in-biology-an-aps-clarification": {
+    "hash": "3294fc1a32497269",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/evaluation-how-living-systems-modulate-activity-relative-to-viability": {
+    "hash": "9f4cb2eaae3b50d9",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/explanatory-grammars-and-the-history-of-ideas": {
+    "hash": "979de54a70fc9bad",
+    "revised": "2026-05-10",
+    "lockedSince": "2026-05-10"
+  },
+  "articles/explanatory-priority-is-not-ontological-priority": {
+    "hash": "863185a4b2834462",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/from-life-to-explanation-emerging-architecture": {
+    "hash": "701e2fbc5240c14c",
+    "revised": "2026-04-18",
+    "lockedSince": "2026-04-18"
+  },
+  "articles/from-metaphysics-to-mechanism-and-beyond": {
+    "hash": "e37b17bec9beb0bf",
+    "revised": "2026-04-16",
+    "lockedSince": "2026-04-16"
+  },
+  "articles/from-viability-to-normativity": {
+    "hash": "e5b56e30817a6451",
+    "revised": "2026-06-04",
+    "lockedSince": "2026-06-04"
+  },
+  "articles/function-and-normativity-why-biological-organisation-matters": {
+    "hash": "9f3fe21d6818d4a4",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/function-how-living-systems-make-persistence-operational": {
+    "hash": "f0b5e258512def88",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/gene-centric-biology-and-aps": {
+    "hash": "0a6654f8877d1a7e",
+    "revised": "2026-04-11",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/history-as-organised-persistence": {
+    "hash": "2f845b0ebd011c6e",
+    "revised": "2026-04-16",
+    "lockedSince": "2026-04-16"
+  },
+  "articles/how-to-diagnose-a-biological-system": {
+    "hash": "0ddd07db7adc5476",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/information-in-biology-an-aps-clarification": {
+    "hash": "afd3f34d53aa3a2b",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/inheritance-and-continuity-in-aps": {
+    "hash": "e5d60563cd523c5a",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/institutions": {
+    "hash": "c071c4b7c1e93fce",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/levels-vs-scale-why-biological-organisation-is-not-hierarchical": {
+    "hash": "e8bea768b902957f",
+    "revised": "2026-04-09",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/life-cycles": {
+    "hash": "c39b18fa6c9caf53",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/life-detection-in-aps-biosignatures-organisation-and-evidence": {
+    "hash": "d9259375e5458508",
+    "revised": "2026-06-12",
+    "lockedSince": "2026-06-12"
+  },
+  "articles/malfunction-breakdown-and-death": {
+    "hash": "c5622441a9fe50c1",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-07"
+  },
+  "articles/meaning-in-biology-an-aps-clarification": {
+    "hash": "d3bb9c2c3dc5dd8e",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/morphogenesis": {
+    "hash": "75aaeba4fc944ae7",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/multiple-realization-and-biological-organisation": {
+    "hash": "8f6a51d31f08ed37",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "articles/multiscale-evolution-and-organised-persistence": {
+    "hash": "25472867d2aaca74",
+    "revised": "2026-05-15",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/natural-selection-an-aps-clarification": {
+    "hash": "d027cc6adb88254a",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-05-05"
+  },
+  "articles/normativity-gradient": {
+    "hash": "dc01e1691bffa706",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/normativity-in-biology-why-some-things-matter-to-living-systems": {
+    "hash": "a1d9f752ab9530a1",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/ontogeny": {
+    "hash": "7c6e8e06c393c3ff",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/organisational-realism-in-biology": {
+    "hash": "64004aadf1b795c2",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/organism-environment-coupling": {
+    "hash": "c2ed1c0f566f5cfd",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/organism-individual-agent-distinction": {
+    "hash": "6505ee4ae8f7a381",
+    "revised": "2026-04-09",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/organism-the-unity-of-viability-oriented-organisation": {
+    "hash": "b32b7f8e43cbbe2b",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/organism-world-coupling-agency-not-control": {
+    "hash": "4c990c6d0e91ce6d",
+    "revised": "2026-04-09",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/persistence-organised-continuity-through-time": {
+    "hash": "3bda2ba2c244320f",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-22"
+  },
+  "articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation": {
+    "hash": "e902efc52f1609e5",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
+  },
+  "articles/plant-cognition-aps-interpretation": {
+    "hash": "e058b220057acea4",
+    "revised": "2026-05-04",
+    "lockedSince": "2026-05-04"
+  },
+  "articles/processual-individuality": {
+    "hash": "2478fec052c3037d",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/purpose-the-organisation-of-viability-oriented-activity": {
+    "hash": "2fb8bdf23f8d55ff",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/reductionism-in-biology-an-aps-clarification": {
+    "hash": "0b72019561f5f1ab",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/reframing-biology-how-aps-reorganises-core-concepts": {
+    "hash": "c9598716d6dc65b0",
+    "revised": "2026-04-16",
+    "lockedSince": "2026-04-16"
+  },
+  "articles/repair-and-regeneration": {
+    "hash": "9e97a2d7c2050fb2",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/representation-when-and-whether-it-arises-in-biological-systems": {
+    "hash": "f7963dea39af92f2",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/resilience-ecology-and-continuity": {
+    "hash": "a388167ca6aa398a",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-20"
+  },
+  "articles/rethinking-development": {
+    "hash": "bd9d3b55af89c24f",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "articles/selection-revisited-what-does-selection-actually-act-on": {
+    "hash": "93f2372839769102",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/semiosis-how-differences-come-to-matter-in-living-systems": {
+    "hash": "c5af14efb308accf",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/social-organisation": {
+    "hash": "8e483e60a5482de8",
+    "revised": "2026-06-01",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/space-time-and-organisation-in-biology": {
+    "hash": "e3c88a72288f91d0",
+    "revised": "2026-05-01",
+    "lockedSince": "2026-05-01"
+  },
+  "articles/structure-of-biological-explanation-in-aps": {
+    "hash": "b967136f18a3ecd1",
+    "revised": "2026-04-16",
+    "lockedSince": "2026-04-16"
+  },
+  "articles/symbolic-coordination": {
+    "hash": "b65ffa6da410ce02",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/technology": {
+    "hash": "dcedb58de56c4da3",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/teleology-in-biology-an-aps-clarification": {
+    "hash": "62058497b016cb2b",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-04"
+  },
+  "articles/teleonomy": {
+    "hash": "96e2b17eb03e6a98",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/temporal-organisation-and-organised-persistence": {
+    "hash": "900ddf42799412c1",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-22"
+  },
+  "articles/the-cognitive-organisation-of-life": {
+    "hash": "e9b9b2fd29d0895c",
+    "revised": "2026-06-01",
+    "lockedSince": "2026-06-01"
+  },
+  "articles/the-developmental-organisation-of-life": {
+    "hash": "5d803053771a1d90",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-27"
+  },
+  "articles/the-ecological-organisation-of-life": {
+    "hash": "994d1025a73c8680",
+    "revised": "2026-06-04",
+    "lockedSince": "2026-06-01"
+  },
+  "articles/the-evolutionary-organisation-of-life": {
+    "hash": "9473143858bd7a84",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-06-01"
+  },
+  "articles/explanatory-geometry-of-biology": {
+    "hash": "5aff26968d6fc5e0",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-26"
+  },
+  "articles/the-social-organisation-of-life": {
+    "hash": "edd568eebc731ad9",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "articles/variation-in-aps-where-does-novelty-come-from": {
+    "hash": "20efa884a26ee339",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/viability-gradient": {
+    "hash": "091c14aaa300db13",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/viability-the-organising-principle-of-biological-persistence": {
+    "hash": "40f255263f040cec",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/what-counts-as-an-evolutionary-explanation": {
+    "hash": "13edd33914710925",
+    "revised": "2026-05-15",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/what-is-a-biological-system": {
+    "hash": "d4776c38269253d3",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/what-is-a-species-in-aps": {
+    "hash": "44138f1cdf89045c",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-12"
+  },
+  "articles/what-is-a-taxon-in-aps": {
+    "hash": "9fc421fff11916f3",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-12"
+  },
+  "articles/what-is-an-organism": {
+    "hash": "9a8f7cb8196ea7dc",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/what-is-biological-diagnosis-in-aps": {
+    "hash": "103a440757744309",
+    "revised": "2026-04-10",
+    "lockedSince": "2026-04-10"
+  },
+  "articles/what-is-evolution-in-aps": {
+    "hash": "d5a98d7dd79a1de3",
+    "revised": "2026-04-11",
+    "lockedSince": "2026-04-11"
+  },
+  "articles/why-ai-is-not-biological-agency": {
+    "hash": "eda66233857eae44",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/why-aps-is-not-hierarchical": {
+    "hash": "418bc83aaf8d696a",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-04-09"
+  },
+  "articles/why-aps-is-not-holism": {
+    "hash": "6a4b2d37fa523307",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/why-aps-is-not-organicism": {
+    "hash": "b40b4e2de77e5d0a",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-28"
+  },
+  "articles/why-aps-reframes-biology": {
+    "hash": "869992cb95e6ba99",
+    "revised": "2026-05-19",
+    "lockedSince": "2026-05-12"
+  },
+  "articles/why-cognition-cannot-be-separated-from-organised-persistence": {
+    "hash": "cf81b3c5d2547131",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "articles/why-life-is-not-a-machine": {
+    "hash": "5a9fa54e08afc424",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/why-life-is-not-active-inference": {
+    "hash": "d6703c08dd77370a",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/why-life-is-not-computation-an-aps-clarification": {
+    "hash": "8e53d58fcc2e53bc",
+    "revised": "2026-05-08",
+    "lockedSince": "2026-05-08"
+  },
+  "articles/why-life-is-not-control-theory": {
+    "hash": "cfc8f262ed388b96",
+    "revised": "2026-05-15",
+    "lockedSince": "2026-05-15"
+  },
+  "articles/why-life-is-not-information-processing": {
+    "hash": "636bb250ced5c85e",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/why-life-is-not-intelligence-an-aps-clarification": {
+    "hash": "877dd5a9e079a8e8",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "articles/why-organisms-cannot-be-understood-apart-from-their-environments": {
+    "hash": "bcdcc126dc4e97cf",
+    "revised": "2026-05-18",
+    "lockedSince": "2026-05-18"
+  },
+  "articles/why-philosophy-of-biology-matters": {
+    "hash": "926e91e7250ba6c1",
+    "revised": "2026-05-28",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/ageing": {
+    "hash": "eb6d09519da69902",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/autonomy": {
+    "hash": "733f2a82711b4a5a",
+    "revised": "2026-06-11",
+    "lockedSince": "2026-06-11"
+  },
+  "glossary/biological-individual": {
+    "hash": "c3ae5877a426677f",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/causation": {
+    "hash": "2ebdd9f2af667d9d",
+    "revised": "2026-04-26",
+    "lockedSince": "2026-04-26"
+  },
+  "glossary/classification": {
+    "hash": "dcdd9ffe51a1c0f4",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-15"
+  },
+  "glossary/closure": {
+    "hash": "fde2b956d6fc8676",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-05-06"
+  },
+  "glossary/cognition": {
+    "hash": "00f939f8d30ee2b1",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/communication": {
+    "hash": "49a3e31ac7361779",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "glossary/consciousness": {
+    "hash": "4f1e37f80713c135",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/constraint": {
+    "hash": "e98ec830ee742c79",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-04-08"
+  },
+  "glossary/continuity": {
+    "hash": "4e4d5f8ef0da1f16",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-21"
+  },
+  "glossary/coordination": {
+    "hash": "15e7abc5af75d0ab",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "glossary/coupling": {
+    "hash": "9fab57b716fd97cc",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-04-08"
+  },
+  "glossary/cultural-inheritance": {
+    "hash": "ce84637f272edc49",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-29"
+  },
+  "glossary/culture": {
+    "hash": "67a02c754937029c",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "glossary/developmental-organisation": {
+    "hash": "0696ed147f026e83",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/developmental-plasticity": {
+    "hash": "82c921437dadaae5",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/developmental-regulation": {
+    "hash": "c24c5435f0f8209b",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/developmental-scaffolding": {
+    "hash": "a678c2556f2bdaa7",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/diagnosis": {
+    "hash": "cc5eb217e8b134b4",
+    "revised": "2026-04-13",
+    "lockedSince": "2026-04-13"
+  },
+  "glossary/ecological-organisation": {
+    "hash": "fd9a40759496a681",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
+  },
+  "glossary/ecological-resilience": {
+    "hash": "69f74b125dd0f4fb",
+    "revised": "2026-05-18",
+    "lockedSince": "2026-05-18"
+  },
+  "glossary/ecology": {
+    "hash": "52869b14cd459361",
+    "revised": "2026-05-18",
+    "lockedSince": "2026-05-18"
+  },
+  "glossary/ecosystem": {
+    "hash": "f2b47bb7963239e6",
+    "revised": "2026-05-18",
+    "lockedSince": "2026-05-18"
+  },
+  "glossary/evaluation": {
+    "hash": "425781cf11dd7bac",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/evolutionary-organisation": {
+    "hash": "9e55513c4c47a202",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-06-13"
+  },
+  "glossary/explanatory-direction": {
+    "hash": "334ca7cad9082e64",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-05-03"
+  },
+  "glossary/explanatory-realism": {
+    "hash": "e5eb24092c3bf993",
+    "revised": "2026-06-12",
+    "lockedSince": "2026-06-12"
+  },
+  "glossary/fitness": {
+    "hash": "ac48695d44de14d1",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/fragility": {
+    "hash": "9bef4c267417c27c",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/functional-lineage": {
+    "hash": "0ef22ddbd07dccf9",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-05-06"
+  },
+  "glossary/holism": {
+    "hash": "022787b2b24e3bc8",
+    "revised": "2026-05-15",
+    "lockedSince": "2026-05-15"
+  },
+  "glossary/information": {
+    "hash": "b81fce42ec4ee882",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/inheritance": {
+    "hash": "a3abd63da1110be7",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-16"
+  },
+  "glossary/institutions": {
+    "hash": "a8e7b7bdf892914d",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-29"
+  },
+  "glossary/intelligence": {
+    "hash": "b3268d663d067c3c",
+    "revised": "2026-05-07",
+    "lockedSince": "2026-05-07"
+  },
+  "glossary/levels-of-organisation": {
+    "hash": "5aaee12175f66182",
+    "revised": "2026-04-16",
+    "lockedSince": "2026-04-16"
+  },
+  "glossary/life-cycle": {
+    "hash": "a4146955082d1478",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/malfunction": {
+    "hash": "bed3d3e27375a1dd",
+    "revised": "2026-05-18",
+    "lockedSince": "2026-05-18"
+  },
+  "glossary/meaning": {
+    "hash": "011a448c67fe4f26",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/mechanism": {
+    "hash": "0276e52b2d4524df",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
+  },
+  "glossary/morphogenesis": {
+    "hash": "2b6fb60c64e4d8f8",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/morphology": {
+    "hash": "b67aac7d7869bc94",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/multi-scale-causation": {
+    "hash": "8ffe3373a83d4003",
+    "revised": "2026-04-26",
+    "lockedSince": "2026-04-26"
+  },
+  "glossary/natural-selection": {
+    "hash": "83a9e237ecd6183f",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-04-12"
+  },
+  "glossary/niche-construction": {
+    "hash": "6765268921c7d877",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/niche": {
+    "hash": "7084e8890d2219db",
+    "revised": "2026-04-13",
+    "lockedSince": "2026-04-13"
+  },
+  "glossary/ontogeny": {
+    "hash": "d2795f832355388d",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/organicism": {
+    "hash": "509f09834ff802ff",
+    "revised": "2026-05-15",
+    "lockedSince": "2026-05-15"
+  },
+  "glossary/organisational-continuity": {
+    "hash": "ea9159023594b5d4",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/organisational-coupling": {
+    "hash": "b7faf27c34c92a3c",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-05-06"
+  },
+  "glossary/organisational-realism": {
+    "hash": "28bba39a4eef730e",
+    "revised": "2026-05-29",
+    "lockedSince": "2026-05-29"
+  },
+  "glossary/organised-persistence": {
+    "hash": "2a7b3ffc9152cc93",
+    "revised": "2026-06-13",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/organism-environment-coupling": {
+    "hash": "2bb514222402e030",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
+  },
+  "glossary/perturbation": {
+    "hash": "bad77701bb8b0662",
+    "revised": "2026-04-18",
+    "lockedSince": "2026-04-13"
+  },
+  "glossary/processual-individual": {
+    "hash": "a7e6a2e4bd6fd69e",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/reductionism": {
+    "hash": "2c9f029860ef7cc2",
+    "revised": "2026-05-03",
+    "lockedSince": "2026-04-20"
+  },
+  "glossary/regeneration": {
+    "hash": "a253f6113675397a",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/repair": {
+    "hash": "f760f30250d93707",
+    "revised": "2026-05-27",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/representation": {
+    "hash": "7be27f9319a17d01",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/resilience": {
+    "hash": "64798e22b06b8f25",
+    "revised": "2026-05-18",
+    "lockedSince": "2026-05-18"
+  },
+  "glossary/resolution": {
+    "hash": "06904fb75a85cf47",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-05-06"
+  },
+  "glossary/scale-coupling": {
+    "hash": "55bce45f8677d9de",
+    "revised": "2026-05-06",
+    "lockedSince": "2026-05-06"
+  },
+  "glossary/semiosis": {
+    "hash": "67ea7779006c3c65",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "glossary/social-norm": {
+    "hash": "7814196e4d608c34",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-30"
+  },
+  "glossary/social-organisation": {
+    "hash": "a384552b8ed26e33",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-27"
+  },
+  "glossary/species": {
+    "hash": "bd92ced030137d9f",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-12"
+  },
+  "glossary/symbolic-coordination": {
+    "hash": "3494765a8cebb9df",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-29"
+  },
+  "glossary/taxon": {
+    "hash": "76b5083353618c75",
+    "revised": "2026-04-15",
+    "lockedSince": "2026-04-12"
+  },
+  "glossary/technology": {
+    "hash": "e861c19bdc368838",
+    "revised": "2026-05-30",
+    "lockedSince": "2026-05-29"
+  },
+  "glossary/teleology": {
+    "hash": "4e05b0efec5dff9b",
+    "revised": "2026-05-04",
+    "lockedSince": "2026-05-04"
+  },
+  "glossary/teleonomy": {
+    "hash": "78016ba15c28a371",
+    "revised": "2026-05-11",
+    "lockedSince": "2026-05-11"
+  },
+  "glossary/temporal-field": {
+    "hash": "3d7802840a6ff04b",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
+  },
+  "glossary/temporal-organisation": {
+    "hash": "8d1cdce95ebf4a36",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
+  },
+  "glossary/temporality": {
+    "hash": "cfa3bfa2ee8575a1",
+    "revised": "2026-05-20",
+    "lockedSince": "2026-05-21"
+  },
+  "glossary/transformation": {
+    "hash": "1376b437b879fea9",
+    "revised": "2026-04-12",
+    "lockedSince": "2026-04-12"
+  },
+  "glossary/variation": {
+    "hash": "43070c3962fae88e",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-04-12"
+  },
+  "glossary/viability-orientation": {
+    "hash": "d61ba322004405d1",
+    "revised": "2026-05-16",
+    "lockedSince": "2026-05-16"
+  },
+  "glossary/viability": {
+    "hash": "0429eebab5d3e738",
+    "revised": "2026-05-22",
+    "lockedSince": "2026-05-22"
+  },
+  "orientation/aps-architecture-map": {
+    "hash": "9b0cffd807a375a2",
+    "revised": "2026-06-03",
+    "lockedSince": "2026-05-22"
+  },
+  "orientation/aps-challenges-limitations-and-future-directions": {
+    "hash": "800fb97abe4867c4",
+    "revised": "2026-06-08",
+    "lockedSince": "2026-06-08"
+  },
+  "orientation/aps-viability-oriented-framework": {
+    "hash": "3fae252d1c3ee3bd",
+    "revised": "2026-05-13",
+    "lockedSince": "2026-05-13"
+  },
+  "orientation/how-aps-concepts-fit-together": {
+    "hash": "d5d5ec304c31439e",
+    "revised": "2026-06-03",
+    "lockedSince": "2026-05-10"
+  },
+  "orientation/how-aps-explains-life": {
+    "hash": "dd66a78e94c6c74a",
+    "revised": "2026-06-03",
+    "lockedSince": "2026-05-26"
+  },
+  "orientation/how-to-read-this-aps-framework-website": {
+    "hash": "20280ad46e9bf8f7",
+    "revised": "2026-06-03",
+    "lockedSince": "2026-05-16"
+  },
+  "orientation/navigating-aps-conceptual-guideposts": {
+    "hash": "9c9d868c000ccbe1",
+    "revised": "2026-05-17",
+    "lockedSince": "2026-05-17"
+  },
+  "orientation/the-core-structure-of-aps-how-the-framework-fits-together": {
+    "hash": "06ccc6fef6975f0c",
+    "revised": "2026-06-03",
+    "lockedSince": "2026-05-26"
+  },
+  "orientation/understanding-aps-the-structure-of-the-framework": {
+    "hash": "7400d7ead8812f9d",
+    "revised": "2026-06-03",
+    "lockedSince": "2026-05-26"
   }
 }

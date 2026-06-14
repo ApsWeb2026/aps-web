@@ -2,6 +2,7 @@
 date: 2026-04-02
 title: "APS Box — What Function Is (APS View)"
 slug: what-function-is
+type: box
 status: canonical
 revised: 2026-04-02
 ---

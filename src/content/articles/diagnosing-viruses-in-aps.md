@@ -2,6 +2,7 @@
 date: 2026-04-10
 title: Diagnosing Viruses in APS
 slug: diagnosing-viruses-in-aps
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10

@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: Semiosis
 slug: semiosis
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

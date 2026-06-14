@@ -1,6 +1,7 @@
 ---
 title: Teleology
 slug: teleology
+type: glossary
 definition: "Teleology refers to the explanation of phenomena in terms of ends, purposes, or goal-directedness. In the APS framework, teleology is understood as the organisation of activity relative to conditions of viability, grounded in constraint-closed, self-maintaining systems rather than external design or intrinsic final causes."
 inBrief: "Teleology, in APS, is the organisation of activity in relation to viability, not externally imposed purpose or mere appearance."
 status: canonical

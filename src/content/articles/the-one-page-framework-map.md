@@ -2,6 +2,7 @@
 date: 2026-04-05
 title: "The One-Page Framework Map"
 slug: "the-one-page-framework-map"
+type: article
 abstract: "This article presents a one-page map of the APS framework, showing how its core concepts, explanatory relations, and research pathways fit together in a single orienting structure."
 status: canonical
 revised: 2026-04-05

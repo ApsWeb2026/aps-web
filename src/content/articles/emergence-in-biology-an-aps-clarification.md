@@ -2,6 +2,7 @@
 date: 2026-04-30
 title: "Emergence in Biology — An APS Clarification"
 slug: emergence-in-biology-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

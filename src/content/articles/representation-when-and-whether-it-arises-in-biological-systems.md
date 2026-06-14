@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: "Representation — When and Whether It Arises in Biological Systems"
 slug: representation-when-and-whether-it-arises-in-biological-systems
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

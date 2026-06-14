@@ -2,6 +2,7 @@
 date: 2026-06-08
 title: "APS Challenges, Limitations, and Future Directions"
 slug: aps-challenges-limitations-and-future-directions
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-08

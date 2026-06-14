@@ -2,6 +2,7 @@
 date: 2026-05-22
 title: "Persistence — Organised Continuity Through Time"
 slug: persistence-organised-continuity-through-time
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22

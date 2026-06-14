@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: Taxon
 slug: taxon
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12

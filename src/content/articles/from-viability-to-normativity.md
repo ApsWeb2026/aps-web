@@ -2,6 +2,7 @@
 date: 2026-06-04
 title: "From Viability to Normativity"
 slug: from-viability-to-normativity
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-04

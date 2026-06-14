@@ -2,6 +2,7 @@
 date: 2026-05-16
 title: Organism–Environment Coupling
 slug: organism-environment-coupling
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16

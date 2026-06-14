@@ -2,6 +2,7 @@
 date: 2026-05-30
 title: Culture
 slug: culture
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30

@@ -2,6 +2,7 @@
 date: 2026-04-03
 title: "APS Box — How to Read APS Correctly"
 slug: aps-box-how-to-read-aps-correctly
+type: box
 status: canonical
 revised: 2026-04-03
 ---

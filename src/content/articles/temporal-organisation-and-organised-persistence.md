@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: "Temporal Organisation and Organised Persistence"
 slug: temporal-organisation-and-organised-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22

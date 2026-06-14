@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: "APS and Norms: How Social Systems Regulate Organised Persistence"
 slug: aps-and-norms
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30

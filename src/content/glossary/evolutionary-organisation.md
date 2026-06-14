@@ -2,6 +2,7 @@
 date: 2026-06-13
 title: Evolutionary Organisation
 slug: evolutionary-organisation
+type: glossary
 definition: >
   The integrated continuity architecture through which viability-oriented
   organised persistence is preserved, transformed, diversified, and

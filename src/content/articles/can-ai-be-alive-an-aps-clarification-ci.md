@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: Can AI Be Alive? — An APS Clarification
 slug: can-ai-be-alive-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07

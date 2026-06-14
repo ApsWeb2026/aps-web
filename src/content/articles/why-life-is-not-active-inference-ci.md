@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Why Life Is Not Active Inference"
 slug: why-life-is-not-active-inference
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

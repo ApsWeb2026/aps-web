@@ -2,6 +2,7 @@
 date: 2026-04-05
 title: "Is All Life Sentient? An APS Response"
 slug: "is-all-life-sentient-an-aps-response"
+type: article
 abstract: "This article clarifies why APS does not equate life with sentience, and explains how biological agency, normativity, and cognition can be present without subjective experience."
 status: canonical
 revised: 2026-04-05

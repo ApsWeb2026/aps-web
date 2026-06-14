@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Cultural Inheritance"
 slug: cultural-inheritance
+type: article
 
 abstract: >
   Cultural inheritance is the transmission of practices, skills, meanings,

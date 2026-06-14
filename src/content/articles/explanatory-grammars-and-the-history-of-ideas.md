@@ -1,6 +1,7 @@
 ---
 title: "Explanatory Grammars and the History of Ideas"
 slug: "explanatory-grammars-and-the-history-of-ideas"
+type: article
 date: 2026-05-10
 revised: 2026-05-10
 status: canonical

@@ -2,6 +2,7 @@
 date: 2026-05-03
 title: Analysis, Synthesis, and the Direction of Explanation
 slug: analysis-synthesis-and-the-direction-of-explanation
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03

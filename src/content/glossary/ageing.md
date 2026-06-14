@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Ageing
 slug: ageing
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27

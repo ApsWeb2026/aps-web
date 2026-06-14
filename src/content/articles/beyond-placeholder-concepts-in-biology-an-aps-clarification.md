@@ -2,6 +2,7 @@
 date: 2026-04-30
 title: Beyond Placeholder Concepts in Biology — An APS Clarification
 slug: beyond-placeholder-concepts-in-biology-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-30

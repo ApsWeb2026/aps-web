@@ -2,6 +2,7 @@
 date: 2026-04-28
 title: APS Box — What APS Means by Meaning
 slug: what-aps-means-by-meaning
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-28

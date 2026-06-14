@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: Why APS Is Not Hierarchical
 slug: why-aps-is-not-hierarchical
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09

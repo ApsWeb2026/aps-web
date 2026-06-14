@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: What Is a Taxon in APS?
 slug: what-is-a-taxon-in-aps
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12

@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Symbolic Coordination"
 slug: symbolic-coordination
+type: article
 
 abstract: >
   Symbolic coordination is the use of shared symbols, meanings, classifications,

@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: "Normativity in Biology — Why Some Things Matter to Living Systems"
 slug: "normativity-in-biology-why-some-things-matter-to-living-systems"
+type: article
 abstract: >
   This article introduces biological normativity in APS as the intrinsic,
   viability-relative asymmetry through which living systems distinguish

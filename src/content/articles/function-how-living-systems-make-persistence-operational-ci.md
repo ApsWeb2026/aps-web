@@ -2,6 +2,7 @@
 date: 2026-05-28
 title: "Function — How Living Systems Make Persistence Operational"
 slug: "function-how-living-systems-make-persistence-operational"
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

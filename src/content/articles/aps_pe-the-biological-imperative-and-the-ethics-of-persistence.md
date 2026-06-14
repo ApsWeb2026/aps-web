@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "APS_PE — The Biological Imperative and the Ethics of Persistence"
 slug: "aps_pe-the-biological-imperative-and-the-ethics-of-persistence"
+type: article
 abstract: "APS_PE develops an account of ethics grounded in the biological imperative, arguing that normativity arises from viability-oriented biological organisation and that ethical considerations can be understood as continuous with the processes by which living systems sustain their persistence."
 status: "canonical"
 cluster: "conceptual-foundations"

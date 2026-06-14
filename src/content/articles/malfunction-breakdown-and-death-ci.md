@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: Malfunction, Breakdown, and Death — Failure in Viability-Oriented Systems
 slug: malfunction-breakdown-and-death
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07

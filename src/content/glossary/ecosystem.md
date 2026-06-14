@@ -1,6 +1,7 @@
 ---
 title: "Ecosystem"
 slug: "ecosystem"
+type: glossary
 status: "canonical"
 date: 2026-05-18
 canonical: true

@@ -2,6 +2,7 @@
 date: 2026-06-13
 title: "Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework"
 slug: agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13

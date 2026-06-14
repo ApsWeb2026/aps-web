@@ -2,6 +2,7 @@
 date: 2026-05-06
 title: Scale-Coupling
 slug: scale-coupling
+type: glossary
 definition: "In APS, scale-coupling refers to the reciprocal integration of processes and constraints across spatial and temporal scales such that organisation at one scale both contributes to and depends upon organisation at other scales."
 inBrief: "Scale-coupling is the reciprocal integration of organisation across spatial and temporal scales."
 status: canonical

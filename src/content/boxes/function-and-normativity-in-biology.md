@@ -1,7 +1,7 @@
 ---
 title: "Function and Normativity in Biology"
 slug: "function-and-normativity-in-biology"
-type: "conceptual"
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-08

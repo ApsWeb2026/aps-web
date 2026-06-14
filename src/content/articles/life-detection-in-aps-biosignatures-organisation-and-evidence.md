@@ -2,6 +2,7 @@
 date: 2026-06-12
 title: "Life Detection in APS — Biosignatures, Organisation, and Evidence"
 slug: life-detection-in-aps-biosignatures-organisation-and-evidence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-12

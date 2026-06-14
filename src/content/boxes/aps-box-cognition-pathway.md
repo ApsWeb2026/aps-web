@@ -1,6 +1,7 @@
 ---
 title: Cognition Pathway
 slug: cognition-pathway
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17

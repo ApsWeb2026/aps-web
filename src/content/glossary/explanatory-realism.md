@@ -2,6 +2,7 @@
 date: 2026-06-12
 title: Explanatory Realism
 slug: explanatory-realism
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-12

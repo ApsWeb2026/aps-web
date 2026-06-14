@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "Cognition — From Life to Mind: Continuity Without Mentalism"
 slug: "cognition-from-life-to-mind-continuity-without-mentalism"
+type: article
 abstract: "This article explains cognition in APS as the structured, constraint-sensitive organisation through which living systems differentiate and regulate viability-relevant differences, showing how cognition is continuous with life and elaborated, rather than created, in mind."
 status: canonical
 revised: 2026-04-28

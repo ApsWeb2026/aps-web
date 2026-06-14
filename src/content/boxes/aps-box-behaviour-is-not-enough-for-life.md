@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: APS Box — Behaviour Is Not Enough for Life
 slug: aps-box-behaviour-is-not-enough-for-life
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09

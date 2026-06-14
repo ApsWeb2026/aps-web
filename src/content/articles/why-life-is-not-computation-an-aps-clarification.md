@@ -1,6 +1,7 @@
 ---
 title: "Why Life Is Not Computation — An APS Clarification"
 slug: "why-life-is-not-computation-an-aps-clarification"
+type: article
 date: 2026-05-08
 revised: 2026-05-08
 status: canonical

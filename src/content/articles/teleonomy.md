@@ -2,6 +2,7 @@
 date: 2026-04-11
 title: "Teleonomy — Historical Solution and APS Reinterpretation"
 slug: teleonomy
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

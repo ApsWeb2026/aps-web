@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: "Process — The Dynamics of Living Organisation"
 slug: "process-the-dynamics-of-living-biological-organisation"
+type: article
 abstract: "This article explains process in APS as the dynamic biological organisation through which living systems sustain and transform the constraints that enable their continued viability."
 status: canonical
 revised: 2026-04-08

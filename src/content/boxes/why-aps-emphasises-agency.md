@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: APS Box — Why APS Emphasises Agency
 slug: why-aps-emphasises-agency
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09

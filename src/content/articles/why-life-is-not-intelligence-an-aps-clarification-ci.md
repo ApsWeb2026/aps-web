@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: "Why Life Is Not Intelligence — An APS Clarification"
 slug: why-life-is-not-intelligence-an-aps-clarification
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

@@ -2,6 +2,7 @@
 date: 2026-04-30
 title: "APS Box — Why APS Replaces Placeholder Concepts"
 slug: why-aps-replaces-placeholder-concepts
+type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-30

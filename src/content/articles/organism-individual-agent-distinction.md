@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: Organism, Individual, and Agent — Distinguishing Three Forms of Biological Unity
 slug: organism-individual-agent-distinction
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09

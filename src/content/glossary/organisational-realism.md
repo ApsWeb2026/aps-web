@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: Organisational Realism
 slug: organisational-realism
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

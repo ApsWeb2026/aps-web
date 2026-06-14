@@ -2,6 +2,7 @@
 date: 2026-04-11
 title: Why Life Is Not DNA’s Way of Making More DNA
 slug: why-life-is-not-dnas-way-of-making-more-dna
+type: article
 status: evolving
 revised: 2026-04-29
 cluster: philosophy-of-biology

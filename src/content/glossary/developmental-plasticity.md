@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Developmental Plasticity
 slug: developmental-plasticity
+type: glossary
 
 status: canonical
 canonical: true

@@ -2,6 +2,7 @@
 date: 2026-05-29
 title: "Institutions"
 slug: institutions
+type: article
 
 abstract: >
   Institutions are often understood as organisations, rules, governance

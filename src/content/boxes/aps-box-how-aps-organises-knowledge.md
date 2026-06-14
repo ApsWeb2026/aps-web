@@ -2,6 +2,7 @@
 date: 2026-04-03
 title: "APS Box — How APS Organises Knowledge"
 slug: aps-box-how-aps-organises-knowledge
+type: box
 status: canonical
 revised: 2026-04-03
 ---

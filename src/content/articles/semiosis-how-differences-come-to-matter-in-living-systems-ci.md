@@ -2,6 +2,7 @@
 date: 2026-05-06
 title: "Semiosis — How Differences Come to Matter in Living Systems"
 slug: semiosis-how-differences-come-to-matter-in-living-systems
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

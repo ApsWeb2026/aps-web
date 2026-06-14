@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Repair
 slug: repair
+type: glossary
 
 status: canonical
 canonical: true

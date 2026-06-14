@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "APS Box — Normativity Without Mind"
 slug: aps-box-normativity-without-mind
+type: box
 status: "canonical"
 revised: "2026-04-21"
 ---

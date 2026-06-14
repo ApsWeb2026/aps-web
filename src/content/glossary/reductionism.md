@@ -2,6 +2,7 @@
 date: 2026-04-20
 title: Reductionism
 slug: reductionism
+type: glossary
 definition: "Reductionism is the view that biological phenomena can be fully explained by decomposing systems into their constituent parts and the physical laws governing them. In APS, reductionism is reframed by distinguishing material constitution from explanatory priority: while living systems are physically constituted, their biological intelligibility depends on viability-oriented, constraint-closed organisation."
 inBrief: "Reductionism explains systems through their parts; APS retains material grounding but locates biological explanation in organised, viability-oriented systems."
 status: canonical

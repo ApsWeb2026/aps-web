@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Ontogeny
 slug: ontogeny
+type: glossary
 
 status: canonical
 canonical: true

@@ -2,6 +2,7 @@
 date: 2026-04-10
 title: "APS Box — Definition vs Diagnosis vs Classification"
 slug: aps-box-diagnostics-vs-definition
+type: box
 status: canonical
 revised: 2026-04-10
 ---

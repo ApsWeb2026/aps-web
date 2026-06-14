@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Coupling
 slug: coupling
+type: glossary
 definition: "In APS, coupling refers to the reciprocal relation through which processes, systems, or activities become dynamically linked such that their organisation and behaviour mutually influence and constrain one another across time."
 inBrief: "Coupling is the reciprocal dynamic relation through which systems or processes become mutually influential."
 status: canonical

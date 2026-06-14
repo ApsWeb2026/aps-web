@@ -2,6 +2,7 @@
 date: 2026-04-15
 title: Variation in APS — Where Does Novelty Come From?
 slug: variation-in-aps-where-does-novelty-come-from
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11

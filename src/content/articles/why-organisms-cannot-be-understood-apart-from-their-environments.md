@@ -2,6 +2,7 @@
 date: 2026-05-18
 title: "Why Organisms Cannot Be Understood Apart from Their Environments"
 slug: why-organisms-cannot-be-understood-apart-from-their-environments
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-18

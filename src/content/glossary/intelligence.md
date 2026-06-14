@@ -1,6 +1,7 @@
 ---
 title: Intelligence
 slug: intelligence
+type: glossary
 definition: "Intelligence refers to specialised forms of adaptive, flexible, or problem-solving organisation that may emerge within living systems but are neither necessary nor sufficient for life."
 inBrief: "In APS, intelligence is a specialised organisational development within life, not the defining basis of life itself."
 status: canonical

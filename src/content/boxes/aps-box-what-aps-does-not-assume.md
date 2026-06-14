@@ -2,6 +2,7 @@
 date: 2026-04-03
 title: "APS Box — What APS Does Not Assume"
 slug: aps-box-what-aps-does-not-assume
+type: box
 status: canonical
 revised: 2026-04-03
 ---

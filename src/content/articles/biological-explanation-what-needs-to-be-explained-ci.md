@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "Biological Explanation — What Needs to Be Explained"
 slug: "biological-explanation-what-needs-to-be-explained"
+type: article
 abstract: "This article clarifies what makes explanation distinctively biological by arguing that biological inquiry must account not only for how systems behave, but for the viability-oriented biological organisation that makes living systems the kind of systems they are."
 status: "canonical"
 cluster: "conceptual-foundations"

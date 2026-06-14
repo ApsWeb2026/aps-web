@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: "The Explanatory Geometry of Biology — How APS Organises Biological Explanation"
 slug: explanatory-geometry-of-biology
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26

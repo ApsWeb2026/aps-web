@@ -2,6 +2,7 @@
 date: 2026-04-28
 title: Evaluation
 slug: evaluation
+type: glossary
 definition: >
   In APS, evaluation is the viability-oriented differential modulation of
   activity relative to conditions, differences, and transformations that

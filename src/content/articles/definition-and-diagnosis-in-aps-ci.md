@@ -2,6 +2,7 @@
 date: 2026-05-07
 title: Definition and Diagnosis in APS — Why Life Is Evaluated Rather Than Merely Classified
 slug: definition-and-diagnosis-in-aps
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07

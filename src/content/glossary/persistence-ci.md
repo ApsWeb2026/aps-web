@@ -2,6 +2,7 @@
 date: 2026-04-26
 title: Persistence
 slug: persistence
+type: glossary
 definition: "In APS, persistence is the ongoing, viability-oriented activity through which living systems actively maintain and regenerate organisational continuity across time."
 inBrief: "Persistence is the active maintenance of organisational continuity through ongoing viability-oriented activity."
 status: canonical

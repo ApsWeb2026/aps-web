@@ -2,6 +2,7 @@
 date: 2026-05-14
 title: "Why AI Is Not Biological Agency"
 slug: why-ai-is-not-biological-agency
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29

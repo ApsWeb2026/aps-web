@@ -2,6 +2,7 @@
 date: 2026-05-27
 title: Developmental Organisation
 slug: developmental-organisation
+type: glossary
 
 status: canonical
 canonical: true

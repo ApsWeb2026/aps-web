@@ -2,6 +2,7 @@
 date: 2026-04-16
 title: From Metaphysics to Mechanism—and Beyond - The Progressive Naturalisation of Science and the Place of APS
 slug: from-metaphysics-to-mechanism-and-beyond
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16

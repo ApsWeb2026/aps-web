@@ -2,6 +2,7 @@
 date: 2026-04-14
 title: How to Read APS
 slug: how-to-read-this-aps-framework-website
+type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16

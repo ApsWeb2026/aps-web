@@ -2,6 +2,7 @@
 date: 2026-04-27
 title: APS Diagnostics — How Viability-Oriented Organisation Becomes Empirically Testable
 slug: aps-diagnostics-empirical-tractability
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18

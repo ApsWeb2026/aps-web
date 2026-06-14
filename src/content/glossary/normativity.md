@@ -2,6 +2,7 @@
 date: 2026-04-14
 title: Normativity
 slug: normativity
+type: glossary
 definition: "In APS, normativity is the viability-relative asymmetry through which conditions, processes, and transformations differentially contribute to organised persistence."
 inBrief: "Normativity is the viability-relative distinction between what supports or undermines organised persistence."
 status: canonical

@@ -2,6 +2,7 @@
 date: 2026-04-02
 title: "APS Box — Why Trait Lists Fail"
 slug: why-trait-lists-fail
+type: box
 status: canonical
 revised: 2026-04-02
 ---

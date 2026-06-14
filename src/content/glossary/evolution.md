@@ -2,6 +2,7 @@
 date: 2026-04-08
 title: Evolution
 slug: evolution
+type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16

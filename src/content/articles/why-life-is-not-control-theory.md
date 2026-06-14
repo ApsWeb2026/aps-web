@@ -2,6 +2,7 @@
 date: 2026-05-15
 title: Why Life Is Not Control Theory
 slug: why-life-is-not-control-theory
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15

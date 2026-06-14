@@ -2,6 +2,7 @@
 date: 2026-04-09
 title: Biological Causation — From Mechanism to Organised Persistence
 slug: biological-causation-from-mechanism-to-organised-persistence
+type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
