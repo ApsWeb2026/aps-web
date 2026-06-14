@@ -154,6 +154,26 @@ Understanding agency across scale also helps explain why APS rejects attempts to
 
 By integrating process and scale, APS moves beyond descriptions of life that focus exclusively on structure, information, reproduction, or evolution. These remain important biological phenomena, but they are better understood as participating in a broader architecture of viability-oriented agency. Agency therefore provides a unifying perspective capable of connecting diverse biological processes without reducing them to a common mechanism. By integrating viability, process, and scale within a single explanatory framework, it reveals how living continuity is sustained across the full architecture of biological organisation.
 
+## Why Agency, Process, and Scale Are Distinct
+
+The distinction between agency, process, and scale can initially appear artificial because the three concepts are deeply interconnected. Agency unfolds through processes, and processes always occur across particular scales of organisation. It may therefore seem that APS is separating concepts that could be treated as aspects of the same phenomenon.
+
+APS nevertheless treats agency, process, and scale as distinct because they answer different explanatory questions about living systems.
+
+Agency concerns the character of biological activity. It identifies the viability-oriented organisation through which living systems sustain the conditions of their own continued persistence. Agency therefore answers the question: What is the activity directed toward? Its answer is viability.
+
+Process concerns the temporal dynamics through which living organisation unfolds. Living systems are not static entities but ongoing organisations undergoing continual transformation. Process therefore answers the question: How does biological organisation continue through time? Its answer is through organised continuity amid ongoing change.
+
+Scale concerns the organisational relations within which biological activity occurs. Living systems exist within nested and interacting architectures extending across cellular, organismal, ecological, and evolutionary contexts. Scale therefore answers the question: Where and across what organisational contexts does biological activity occur? Its answer is across interconnected domains of organisation rather than within a single privileged level.
+
+These distinctions are important because none of the concepts can be fully reduced to the others. Agency without process would imply a static form of organisation incapable of sustaining itself through time. Process without agency would describe change but would not distinguish viability-oriented organisation from other forms of physical transformation. Scale without agency and process would describe organisational relations without explaining how those relations contribute to persistence.
+
+APS therefore treats agency, process, and scale as complementary dimensions of biological explanation. Agency identifies the viability-oriented activity of life. Process explains how that activity unfolds through time. Scale explains how it is distributed across biological organisation. Together they make organised persistence intelligible.
+
+For this reason, APS does not regard agency, process, and scale as competing foundations of biology. They are mutually supporting explanatory perspectives whose integration reveals how living systems maintain continuity despite continual transformation across multiple organisational contexts.
+
+[[box:aps-box-why-aps-is-not-arbitrary]]
+
 <div class="aps-diagram aps-diagram-large">
 
 <a href="/assets/diagrams/agency.png" target="_blank" rel="noopener">
