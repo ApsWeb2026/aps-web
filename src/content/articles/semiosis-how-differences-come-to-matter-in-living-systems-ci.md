@@ -50,7 +50,7 @@ relatedArticles:
   - why-life-is-not-information-processing
   - why-ai-is-not-biological-agency
   - temporal-organisation-and-organised-persistence
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - organisational-realism-in-biology
   - explanatory-geometry-of-biology
 

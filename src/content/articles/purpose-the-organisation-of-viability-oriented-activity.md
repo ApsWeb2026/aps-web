@@ -51,7 +51,7 @@ relatedArticles:
   - biological-goals-without-mentalism
   - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
   - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - normativity-in-biology-why-some-things-matter-to-living-systems
   - semiosis-how-differences-come-to-matter-in-living-systems
   - evaluation-how-living-systems-modulate-activity-relative-to-viability

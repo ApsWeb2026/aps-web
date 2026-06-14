@@ -39,7 +39,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - biological-individuality-organised-persistence-through-time
   - biological-organisation
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - persistence-organised-continuity-through-time
   - temporal-organisation-and-organised-persistence
   - development-as-organised-persistence

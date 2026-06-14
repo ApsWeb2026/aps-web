@@ -50,7 +50,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - biological-organisation
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - constraint-how-organisation-becomes-persistence
   - temporal-organisation-and-organised-persistence
   - persistence-organised-continuity-through-time

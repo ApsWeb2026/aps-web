@@ -59,7 +59,7 @@ relatedArticles:
   - function-and-normativity-why-biological-organisation-matters
   - function-how-living-systems-make-persistence-operational
   - purpose-the-organisation-of-viability-oriented-activity
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - biological-causation-from-mechanism-to-organised-persistence
   - why-life-is-not-information-processing
   - why-life-is-not-a-machine

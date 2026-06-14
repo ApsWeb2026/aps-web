@@ -54,7 +54,7 @@ relatedArticles:
   - the-ecological-organisation-of-life
   - organism-environment-coupling
   - biological-individuality-organised-persistence-through-time
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - persistence-organised-continuity-through-time
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence

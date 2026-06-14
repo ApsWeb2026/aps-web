@@ -53,7 +53,7 @@ relatedArticles:
   - function-and-normativity-why-biological-organisation-matters
   - purpose-the-organisation-of-viability-oriented-activity
   - normativity-in-biology-why-some-things-matter-to-living-systems
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - biological-goals-without-mentalism
   - biological-causation-from-mechanism-to-organised-persistence
   - constraint-closure-what-it-does-and-does-not-do

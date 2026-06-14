@@ -54,7 +54,7 @@ relatedArticles:
   - persistence-organised-continuity-through-time
   - temporal-organisation-and-organised-persistence
   - viability-the-organising-principle-of-biological-persistence
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - constraint-how-organisation-becomes-persistence
   - organism-environment-coupling
   - adaptation-how-living-systems-sustain-themselves-through-change

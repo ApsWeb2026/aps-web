@@ -23,7 +23,7 @@ relatedGlossaryTerms:
   - environment
 relatedArticles:
   - what-is-an-organism
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - biological-organisation
   - environment-coupling-and-biological-agency
   - scale-time-persistence

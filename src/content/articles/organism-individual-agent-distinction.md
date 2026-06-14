@@ -24,7 +24,7 @@ relatedGlossaryTerms:
   - organism
 relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - biological-organisation
   - scale-time-persistence
   - organism-world-coupling-agency-not-control

@@ -46,7 +46,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - function-how-living-systems-make-persistence-operational
   - function-and-normativity-why-biological-organisation-matters
-  - biological-agency-the-activity-of-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
   - viability-the-organising-principle-of-biological-persistence
   - persistence-organised-continuity-through-time
   - malfunction-breakdown-and-death
