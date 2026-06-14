@@ -5,7 +5,7 @@ interface Props {
 
 const { cluster } = Astro.props;
 
-const labels: Record<string, string> = {
+const labels = {
   'conceptual-foundations': 'Foundations',
   'evolutionary-dynamics': 'Evolution',
   'developmental-organisation': 'Development',
@@ -16,9 +16,13 @@ const labels: Record<string, string> = {
   'philosophy-of-biology': 'Philosophy',
   'methodology-and-explanation': 'Methodology',
   'artificial-systems-and-boundaries': 'Boundaries',
-};
+} as const;
 
-const label = labels[cluster] ?? cluster;
+const label =
+  labels[cluster as keyof typeof labels] ??
+  cluster.replace(/-/g, ' ');
 ---
 
-<span class={`badge badge-domain badge-domain-${cluster}`}>{label}</span>
+<span class={`badge badge-domain badge-domain-${cluster}`}>
+  {label}
+</span>

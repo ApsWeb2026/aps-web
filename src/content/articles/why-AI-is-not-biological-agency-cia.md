@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-05-29
 cluster: artificial-systems-and-boundaries
+role: extension
 
 abstract: >
   Contemporary artificial intelligence systems increasingly display adaptive,

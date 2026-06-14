@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-10
 revised: 2026-06-11
 cluster: artificial-systems-and-boundaries
+role: anchor
 
 abstract: >
   Debates about the boundaries of life often focus on identifying the

@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-12
 revised: 2026-06-12
 cluster: artificial-systems-and-boundaries
+role: core
 
 abstract: >
   This article explains how the Agency–Process–Scale (APS) framework

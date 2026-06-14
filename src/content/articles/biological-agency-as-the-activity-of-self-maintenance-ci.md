@@ -96,8 +96,6 @@ references:
     publisher: Harvard University Press
 ---
 
-# Biological Agency as the Activity of Self-Maintenance
-
 ## Introduction
 
 Biology routinely describes living systems as regulating themselves, responding to environmental change, repairing damage, acquiring resources, defending against threats, and maintaining internal organisation across time. Such descriptions often employ the language of agency, yet the concept itself remains surprisingly underdeveloped within much of contemporary biology. Agency is frequently associated with cognition, decision-making, intention, or consciousness, leading some researchers to regard agency language as merely heuristic or metaphorical when applied to simpler forms of life.

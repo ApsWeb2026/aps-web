@@ -1,0 +1,25 @@
+---
+interface Props {
+  role?: string;
+}
+
+const { role } = Astro.props;
+
+const labels = {
+  anchor: 'Anchor',
+  synthesis: 'Synthesis',
+  core: 'Core',
+  extension: 'Extension',
+  clarification: 'Clarification',
+} as const;
+
+const label = role
+  ? labels[role as keyof typeof labels] ?? role.replace(/-/g, ' ')
+  : null;
+---
+
+{role && label && (
+  <span class={`badge badge-role badge-${role}`}>
+    {label}
+  </span>
+)}

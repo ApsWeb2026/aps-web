@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-06-11
 cluster: artificial-systems-and-boundaries
+role: synthesis
 
 abstract: >
   Biological theory has long struggled with borderline systems such as

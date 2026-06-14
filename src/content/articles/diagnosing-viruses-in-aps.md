@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-10
 revised: 2026-06-11
 cluster: artificial-systems-and-boundaries
+role: extension
 
 abstract: >
   Viruses occupy one of the most important boundary positions in biology.

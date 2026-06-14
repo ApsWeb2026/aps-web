@@ -6,6 +6,7 @@ import PageMeta from '@/components/PageMeta.astro';
 import LockBanner from '@/components/LockBanner.astro';
 import References from '@/components/References.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
+import RoleBadge from '@/components/RoleBadge.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('articles');
@@ -28,6 +29,7 @@ const {
   date,
   revised,
   cluster,
+  role,
   keyPoints,
   relatedGlossaryTerms,
   relatedArticles,
@@ -114,7 +116,10 @@ const renderedBoxes = await Promise.all(
 
     <header class="page-header">
       <h1 data-pagefind-weight="20">{title}</h1>
-      <PageMeta status={status} type="article" cluster={cluster} date={date} revised={revised} />
+      <div class="article-meta-row">
+  <PageMeta status={status} type="article" cluster={cluster} date={date} revised={revised} />
+  <RoleBadge role={role} />
+</div>
     </header>
 
     {
