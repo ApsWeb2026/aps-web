@@ -1985,3 +1985,97 @@ main .article-body h3 {
   clip: rect(0 0 0 0);
   white-space: nowrap;
 }
+
+/* ============================================================
+   Domain Architecture Panel
+   ============================================================ */
+
+.domain-architecture-panel {
+  max-width: 760px;
+  margin: 1.5rem auto 2rem;
+  padding: 1rem 1.25rem;
+  background: #fbfaf7;
+  border: 1px solid var(--color-border-light);
+  border-radius: 10px;
+  font-family: var(--font-sans);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.025);
+}
+
+.domain-architecture-panel h2 {
+  margin: 0 0 0.85rem;
+  padding: 0;
+  border: none;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-text-secondary);
+  text-align: center;
+}
+
+.domain-architecture-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem 1rem;
+}
+
+.domain-architecture-group {
+  padding: 0.75rem 0.85rem;
+  background: #ffffff;
+  border: 1px solid var(--color-border-light);
+  border-radius: 8px;
+}
+
+.domain-architecture-group h3 {
+  display: inline-block;
+  margin: 0 0 0.55rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 4px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.domain-architecture-group ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.domain-architecture-group li {
+  margin-bottom: 0.25rem;
+  font-size: 0.76rem;
+  line-height: 1.35;
+  color: var(--color-text-secondary);
+}
+
+.domain-architecture-group li:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .domain-architecture-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Role-coloured architecture headings */
+
+.anchor-heading {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.synthesis-heading {
+  background: #ffedd5;
+  color: #9a3412;
+}
+
+.core-heading {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.extension-heading {
+  background: #ede9fe;
+  color: #5b21b6;
+}
