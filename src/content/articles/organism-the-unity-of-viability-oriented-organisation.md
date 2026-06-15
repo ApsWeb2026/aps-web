@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 abstract: In APS, the organism is not a static entity but a dynamically maintained organisation through which viability-oriented activity is sustained. This article develops the organism as the minimal unity of agency, normativity, and persistence, clarifying its role as the condition for biological organisation and evolutionary dynamics.
 keyPoints:
   - The organism is the minimal unity in which agency, normativity, and persistence coincide.

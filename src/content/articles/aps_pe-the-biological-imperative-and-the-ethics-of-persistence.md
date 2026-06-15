@@ -6,6 +6,7 @@ type: article
 abstract: "APS_PE develops an account of ethics grounded in the biological imperative, arguing that normativity arises from viability-oriented biological organisation and that ethical considerations can be understood as continuous with the processes by which living systems sustain their persistence."
 status: "canonical"
 cluster: "conceptual-foundations"
+role: extension
 revised: "2026-04-03"
 ---
 

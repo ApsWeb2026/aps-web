@@ -6,6 +6,7 @@ type: article
 abstract: "This article clarifies what makes explanation distinctively biological by arguing that biological inquiry must account not only for how systems behave, but for the viability-oriented biological organisation that makes living systems the kind of systems they are."
 status: "canonical"
 cluster: "conceptual-foundations"
+role: core
 revised: "2026-04-16"
 ---
 

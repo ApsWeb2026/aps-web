@@ -7,6 +7,7 @@ abstract: "This article explains process in APS as the dynamic biological organi
 status: canonical
 revised: 2026-04-08
 cluster: conceptual-foundations
+role: core
 keyPoints:
   - "Process in APS refers to the ongoing dynamics of living biological organisation."
   - "Living systems persist through continuous activity, not static structure."

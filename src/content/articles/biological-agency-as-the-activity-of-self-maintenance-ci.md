@@ -9,6 +9,7 @@ date: 2026-06-14
 revised: 2026-06-15
 
 cluster: conceptual-foundations
+role: core
 
 abstract: >
   APS understands biological agency not as a specialised capacity possessed

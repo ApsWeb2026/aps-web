@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 
 abstract: >
   Constraint closure is a central concept in contemporary theories of

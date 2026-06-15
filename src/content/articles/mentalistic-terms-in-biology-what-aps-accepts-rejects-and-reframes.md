@@ -7,6 +7,7 @@ abstract: "This article clarifies how APS handles mentalistic language in biolog
 status: canonical
 revised: 2026-04-05
 cluster: conceptual-foundations
+role: clarification
 keyPoints:
   - "APS does not reject mentalistic terms wholesale, but evaluates how they are used."
   - "Biological biological agency, normativity, and cognition do not require anthropomorphic assumptions."

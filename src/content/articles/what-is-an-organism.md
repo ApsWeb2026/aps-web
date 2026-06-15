@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-10
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 abstract: |
   The concept of the organism is central to biology, yet often taken for granted or reduced to structural or genetic descriptions. In APS, an organism is not defined by its components but by its organisation: a dynamically integrated, viability-oriented system that actively sustains the conditions of its own persistence. This article introduces the organism as a processual, agential unity emerging from constraint-closed organisation and maintained through ongoing organism–environment coupling.
 keyPoints:

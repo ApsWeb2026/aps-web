@@ -20,6 +20,7 @@ canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 
 keyPoints:
   - Biological normativity arises from viability-oriented organised persistence.

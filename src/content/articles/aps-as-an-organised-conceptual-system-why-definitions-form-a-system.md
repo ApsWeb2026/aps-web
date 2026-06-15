@@ -10,6 +10,7 @@ canonical: true
 canonicalLockDate: 2026-05-03
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 relatedArticles:
   - aps-glossary-as-constraint-closed-conceptual-system
   - explanatory-geometry-of-biology

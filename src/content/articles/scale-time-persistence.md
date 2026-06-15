@@ -17,6 +17,7 @@ canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: synthesis
 
 keyPoints:
   - Living systems exist through organised continuity across time and scale.

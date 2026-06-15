@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-06-15
 cluster: conceptual-foundations
-
+role: core
 abstract: >
   Persistence is one of the central organising concepts in APS because living
   systems do not persist by remaining unchanged, but by maintaining

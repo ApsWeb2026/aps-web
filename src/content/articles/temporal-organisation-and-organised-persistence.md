@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 
 abstract: >
   This article develops the temporal architecture of the APS framework.

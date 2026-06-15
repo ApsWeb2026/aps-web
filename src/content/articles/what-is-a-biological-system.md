@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 abstract: "APS distinguishes biological systems from physical and engineered systems by their viability-oriented, constraint-closed organisation. This article clarifies what qualifies as a biological system and why not all organised systems are alive, grounding biological explanation in the maintenance of conditions for persistence."
 keyPoints:
   - Not all systems are biological; biological systems are defined by viability-oriented organisation.

@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-01
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: synthesis
 
 abstract: >
   Living systems persist through multiple, mutually reinforcing forms of

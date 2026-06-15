@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-17
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: synthesis
 
 abstract: >
   APS approaches biological explanation through continuity structures linking

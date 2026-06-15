@@ -7,6 +7,7 @@ abstract: "This article explains scale in APS as the spatial and temporal coordi
 status: canonical
 revised: 2026-04-09
 cluster: conceptual-foundations
+role: core
 keyPoints:
   - "Scale refers to the spatial and temporal coordination of biological organisation."
   - "Living systems operate across multiple interacting scales simultaneously."

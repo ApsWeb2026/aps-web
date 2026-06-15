@@ -7,6 +7,7 @@ abstract: "This article revisits the question of what life is, arguing within AP
 status: canonical
 revised: 2026-04-28
 cluster: conceptual-foundations
+role: anchor
 keyPoints:
   - "Life is not defined by a fixed list of properties but by organised persistence."
   - "APS understands life as viability-oriented, constraint-closed biological organisation."

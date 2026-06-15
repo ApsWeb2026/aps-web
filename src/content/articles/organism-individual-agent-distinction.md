@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-09
 revised: 2026-06-15
 cluster: conceptual-foundations
+role: core
 abstract: APS distinguishes organism, individual, and agent as three complementary but non-equivalent ways of describing biological unity. This article clarifies their relations within viability-oriented, constraint-closed organisation, showing how agency, individuality, and organismal organisation intersect without collapsing into one another.
 keyPoints:
   - Organism, individual, and agent describe different aspects of biological unity and must not be conflated.
