@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-12
 revised: 2026-06-12
-cluster: artificial-systems-and-boundaries
+cluster: methodology-and-explanation
 role: core
 
 abstract: >

@@ -247,7 +247,11 @@ streams.sort(
                   </h3>
 
                   <DomainBadge cluster={entry.data.cluster} />
-                  {entry.data.role && <TypeBadge type={entry.data.role} />}
+                  {entry.data.role && (
+                    <span class={`badge badge-type badge-${entry.data.role}`}>
+                      {entry.data.role.charAt(0).toUpperCase() + entry.data.role.slice(1)}
+                    </span>
+                  )}
                 </div>
 
                 <p class="card-excerpt">
