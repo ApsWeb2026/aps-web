@@ -47,7 +47,8 @@ function getProtectedFrontmatter(fm: Record<string, unknown>): string {
 }
 
 function hashContent(body: string): string {
-  return crypto.createHash('sha256').update(body, 'utf-8').digest('hex').slice(0, 16);
+  const normalised = body.replace(/\r\n/g, '\n');
+  return crypto.createHash('sha256').update(normalised, 'utf-8').digest('hex').slice(0, 16);
 }
 
 function parseFrontmatter(content: string): Record<string, unknown> {
