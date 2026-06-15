@@ -10,6 +10,7 @@ canonicalLockDate: 2026-05-15
 revised: 2026-06-15
 
 cluster: developmental-organisation
+role: core
 
 abstract: >
   In APS, developmental plasticity is understood as the regulated

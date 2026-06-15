@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-20
 revised: 2026-06-15
 cluster: developmental-organisation
+role: synthesis
 
 abstract: >
   This article develops an APS account of development as the ongoing

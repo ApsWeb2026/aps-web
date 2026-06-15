@@ -19,6 +19,7 @@ canonicalLockDate: 2026-05-27
 revised: 2026-06-15
 
 cluster: developmental-organisation
+core: anchor
 
 relatedGlossaryTerms:
   - development

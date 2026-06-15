@@ -17,6 +17,7 @@ canonicalLockDate: 2026-05-26
 revised: 2026-06-15
 
 cluster: developmental-organisation
+role: extension
 
 relatedGlossaryTerms:
   - development

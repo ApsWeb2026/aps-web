@@ -7,6 +7,7 @@ abstract: "This article explains homeorhesis in APS as the active maintenance of
 status: canonical
 revised: 2026-04-05
 cluster: developmental-organisation
+role: core
 KeyPoints:
   - "Homeorhesis concerns the maintenance of organised trajectories rather than static equilibrium."
   - "Living systems persist by regulating change, not by preventing it."
