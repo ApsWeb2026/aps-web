@@ -32,14 +32,14 @@ references:
   - id: spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
 
   - id: nicholsondupre2018
     authors: Nicholson, D. J.; Dupré, J.
     year: 2018
-    title: Everything Flows: Towards a Processual Philosophy of Biology
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: Oxford University Press
 
   - id: morenomossio2023
