@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-28
+revised: 2026-06-15
 cluster: philosophy-of-biology
 abstract: >
   The Extended Evolutionary Synthesis (EES) expands evolutionary theory beyond gene-centric models by incorporating development, plasticity, niche construction, and organism–environment interaction. This article clarifies its relationship to the APS framework. While APS is compatible with these extensions, it operates in a different explanatory domain by identifying the conditions under which evolution is possible. APS grounds evolutionary processes in viability-oriented, constraint-closed organisation, showing that variation, inheritance, and selection presuppose systems capable of sustaining organised persistence.

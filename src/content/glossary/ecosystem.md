@@ -6,7 +6,7 @@ status: "canonical"
 date: 2026-05-18
 canonical: true
 canonicalLockDate: 2026-05-18
-revised: 2026-05-18
+revised: 2026-06-15
 cluster: ecological-organisation
 
 definition: >

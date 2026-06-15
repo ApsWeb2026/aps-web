@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-04-09
+revised: 2026-06-15
 cluster: conceptual-foundations
 abstract: "Traditional biology explains living systems using hierarchical levels, from molecules to ecosystems. APS replaces this framework with scale: a relational account of organisation across space and time. This article clarifies why levels fail and how scale provides a more accurate explanatory grammar for biological systems."
 keyPoints:

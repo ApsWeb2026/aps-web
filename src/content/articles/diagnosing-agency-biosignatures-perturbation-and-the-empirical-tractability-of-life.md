@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-06-13
+revised: 2026-06-15
 cluster: diagnostics-and-empirical-tractability
 role: synthesis
 

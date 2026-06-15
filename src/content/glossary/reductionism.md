@@ -8,7 +8,7 @@ inBrief: "Reductionism explains systems through their parts; APS retains materia
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-20
-revised: 2026-05-03
+revised: 2026-06-15
 cluster: philosophy-of-biology
 seeAlso:
   - biological-agency

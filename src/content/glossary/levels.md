@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-04-16
+revised: 2026-06-15
 cluster: conceptual-foundations
 definition: >
   In biology, levels of organisation refer to discrete organisational strata (e.g. molecular, cellular, organismal, ecological) often arranged hierarchically by size, inclusiveness, or complexity. In APS, levels are not treated as ontologically fundamental features of living systems but as epistemic abstractions—convenient ways of describing regions of relative coherence within a continuous, scale-coupled organisation.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-05-03
+revised: 2026-06-15
 cluster: methodology-and-explanation
 abstract: >
   This article specifies the APS glossary as a constraint-closed conceptual system. It identifies the core Tier 1 concepts, distinguishes derived and interface terms, and defines the conditions under which the glossary can be extended while preserving explanatory coherence.

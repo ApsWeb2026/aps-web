@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
-revised: 2026-05-11
+revised: 2026-06-15
 definition: >
   Teleonomy refers to the appearance of purposive or goal-directed organisation
   in living systems understood without invoking conscious intention or external

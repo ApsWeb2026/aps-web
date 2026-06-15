@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-06-15
 cluster: evolutionary-dynamics
 abstract: |
   In the Agency–Process–Scale (APS) framework, evolution is not defined as a change in gene frequency but as the long-term transformation of viability-oriented organisation. This article presents the canonical APS account of evolution by integrating persistence, adaptation, inheritance, and transformation into a unified explanatory framework, and clarifies the dependent role of natural selection within systems capable of sustaining organised biological persistence.

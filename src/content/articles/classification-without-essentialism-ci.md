@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-15
+revised: 2026-06-15
 cluster: methodology-and-explanation
 abstract: >
   APS reframes biological classification as the mapping of persistent,

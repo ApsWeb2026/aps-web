@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-04
-revised: 2026-06-04
+revised: 2026-06-15
 cluster: conceptual-foundations
 
 abstract: >

@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonicalLockDate: 2026-05-21
 canonical: true
-revised: 2026-05-20
+revised: 2026-06-15
 cluster: conceptual-foundations
 definition: >
   In APS, temporality refers to the organised persistence, transformation,

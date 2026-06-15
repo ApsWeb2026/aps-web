@@ -8,7 +8,7 @@ inBrief: "Purpose is the viability-oriented organisation of activity that sustai
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+revised: 2026-06-15
 cluster: conceptual-foundations
 
 seeAlso:

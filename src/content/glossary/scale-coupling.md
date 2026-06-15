@@ -8,7 +8,7 @@ inBrief: "Scale-coupling is the reciprocal integration of organisation across sp
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-06
-revised: 2026-05-06
+revised: 2026-06-15
 cluster: conceptual-foundations
 seeAlso:
   - scale

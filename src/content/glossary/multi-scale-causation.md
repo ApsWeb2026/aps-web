@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-26
-revised: 2026-04-26
+revised: 2026-06-15
 cluster: conceptual-foundations
 definition: >
   Multi-scale causation describes how causation operates across interacting spatial and temporal scales within a single, integrated biological organisation. In APS, causation is not confined to discrete levels but arises through the coordinated coupling of processes across scales.

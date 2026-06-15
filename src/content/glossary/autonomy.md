@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-11
-revised: 2026-06-11
+revised: 2026-06-15
 cluster: conceptual-foundations
 definition: >
   In APS, autonomy is the capacity of a system to generate, regulate,

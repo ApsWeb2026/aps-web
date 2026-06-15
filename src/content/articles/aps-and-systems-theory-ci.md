@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-06-15
 cluster: philosophy-of-biology
 abstract: >
   Systems theory provides powerful tools for describing interaction, feedback, and dynamics in biological systems. This article clarifies the relationship between systems approaches and the APS framework. While APS incorporates key insights from systems theory, it diverges by grounding biological organisation in viability-oriented, constraint-closed activity. APS shows that not all systems are biological and that biological systems are defined not by complexity or feedback alone, but by endogenous normativity and agency.

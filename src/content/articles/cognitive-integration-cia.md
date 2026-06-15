@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-04-29
+revised: 2026-06-15
 cluster: diagnostics-and-empirical-tractability
 abstract: |
   Cognitive Integration (CI) is a core diagnostic dimension in APS, expressing the degree to which a system coordinates its activity across processes, time, and scale in sustaining its own viability. CI distinguishes simple reactive adjustment from integrated, system-wide regulation, but does not by itself constitute cognition, which additionally requires viability-oriented evaluation with temporal depth.

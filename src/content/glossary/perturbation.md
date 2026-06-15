@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-04-18
+revised: 2026-06-15
 cluster: diagnostics-and-empirical-tractability
 definition: >
   Perturbation is the deliberate or incidental alteration of a system’s conditions, components, or interactions in order to probe the organisation that sustains its viability. In APS, perturbations are not merely disturbances to isolated parts but interventions into the constraint-closed organisation of a system. Their significance lies in how the system responds relative to its own viability: whether it compensates, reorganises, degrades, or collapses. Perturbation therefore serves as a primary methodological tool for revealing organisational causation, normativity, and the degree of biological agency.

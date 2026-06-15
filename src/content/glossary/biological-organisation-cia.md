@@ -8,7 +8,7 @@ inBrief: "Biological organisation is the dynamically maintained organisation of 
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-05-06
+revised: 2026-06-15
 cluster: conceptual-foundations
 seeAlso:
   - biological-agency

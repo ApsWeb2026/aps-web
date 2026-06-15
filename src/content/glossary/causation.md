@@ -8,7 +8,7 @@ inBrief: "Causation is how processes contribute to maintaining or changing biolo
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-26
-revised: 2026-04-26
+revised: 2026-06-15
 cluster: methodology-and-explanation
 seeAlso:
   - biological-organisation

@@ -8,7 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-06
 date: 2026-05-06
-revised: 2026-05-06
+revised: 2026-06-15
 cluster: cognition-and-mind
 seeAlso:
   - function

@@ -12,7 +12,7 @@ cluster: conceptual-foundations
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-05-22
+revised: 2026-06-15
 tags:
   - continuity
   - persistence

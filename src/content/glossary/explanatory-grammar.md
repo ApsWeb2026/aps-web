@@ -8,7 +8,7 @@ inBrief: "Explanatory grammar is the structure that determines how explanation w
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-05-03
+revised: 2026-06-15
 cluster: methodology-and-explanation
 seeAlso:
   - biological-agency

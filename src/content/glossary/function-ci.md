@@ -8,7 +8,7 @@ inBrief: "Function is the viability-relative contribution of structures or proce
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-05-16
+revised: 2026-06-15
 cluster: conceptual-foundations
 
 seeAlso:

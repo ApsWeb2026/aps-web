@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-15
+revised: 2026-06-15
 cluster: evolutionary-dynamics
 abstract: |
   In the Agency–Process–Scale (APS) framework, variation is not treated as random deviation from a fixed template, but as the outcome of ongoing reorganisation within viability-oriented, constraint-closed systems. This article explains the sources of biological novelty by integrating development, organism–environment coupling, and multiscale dynamics into a unified account of how new forms of organisation arise.

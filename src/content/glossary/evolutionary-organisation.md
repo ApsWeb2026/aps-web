@@ -18,7 +18,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
 cluster: evolutionary-dynamics
-revised: 2026-06-13
+revised: 2026-06-15
 relatedTerms:
   - evolution
   - continuity

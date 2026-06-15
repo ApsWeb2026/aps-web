@@ -18,7 +18,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-01
+revised: 2026-06-15
 
 cluster: social-organisation
 

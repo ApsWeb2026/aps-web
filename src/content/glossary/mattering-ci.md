@@ -8,7 +8,7 @@ inBrief: "Mattering is the viability-relative significance of differences within
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-06-14
+revised: 2026-06-15
 cluster: cognition-and-mind
 seeAlso:
   - viability

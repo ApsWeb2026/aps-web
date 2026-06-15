@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-05-11
+revised: 2026-06-15
 cluster: methodology-and-explanation
 abstract: >
   APS distinguishes between descriptive, explanatory, and definitional uses of

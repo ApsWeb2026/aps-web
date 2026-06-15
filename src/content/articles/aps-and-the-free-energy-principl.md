@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-06-15
 cluster: philosophy-of-biology
 abstract: >
   The Free Energy Principle provides a formal framework for modelling how biological systems maintain themselves in uncertain environments using tools from information theory and statistical inference. This article clarifies its relationship to the APS framework. While both approaches address self-maintaining organisation and organism–environment coupling, APS grounds biological explanation in viability-oriented, constraint-closed activity rather than in inference or informational optimisation. APS shows that formal descriptions of biological systems must remain anchored in the material and organisational conditions that constitute life.

@@ -7,7 +7,7 @@ abstract: Biology is the science of living systems, concerned with how they pers
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-04-14
+revised: 2026-06-15
 cluster: methodology-and-explanation
 keyPoints:
   - Biology explains how living systems sustain their own persistence and how this biological organisation changes through time.

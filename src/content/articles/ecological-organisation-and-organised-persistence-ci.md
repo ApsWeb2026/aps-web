@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-05-20
+revised: 2026-06-15
 cluster: ecological-organisation
 
 abstract: >

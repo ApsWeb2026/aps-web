@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-15
-revised: 2026-04-15
+revised: 2026-06-15
 cluster: methodology-and-explanation
 definition: >
   Classification is the analytical practice of identifying, organising, and

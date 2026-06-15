@@ -3,7 +3,7 @@ title: Space, Time, and Organisation in Biology — An APS Clarification
 slug: space-time-and-organisation-in-biology
 type: article
 date: 2026-05-01
-revised: 2026-05-01
+revised: 2026-06-15
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-01

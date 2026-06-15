@@ -3,7 +3,7 @@ title: "How APS Concepts Fit Together"
 slug: "how-aps-concepts-fit-together"
 type: orientation
 date: 2026-05-10
-revised: 2026-06-03
+revised: 2026-06-15
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10

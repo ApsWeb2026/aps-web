@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-05-06
+revised: 2026-06-15
 cluster: philosophy-of-biology
 abstract: >
   APS rejects the treatment of hierarchy as an ontological or explanatory principle in biology. While hierarchical language can function as a descriptive shorthand, living systems are not organised into discrete tiers of causal authority. APS instead understands biological organisation as continuous, scale-coupled, and constraint-mediated. Apparent levels of organisation are explanatory abstractions imposed upon dynamically integrated processes distributed across space and time.

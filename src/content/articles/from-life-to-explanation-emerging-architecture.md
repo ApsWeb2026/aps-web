@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-04-18
+revised: 2026-06-15
 cluster:  methodology-and-explanation
 abstract: >
   This article clarifies the scope of the APS framework as an integrated explanatory architecture. It shows how APS extends from a definition of life as viability-oriented, constraint-closed organisation to a unified structure of explanation across biological domains, including physiology, evolution, and cognition.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-06-15
 cluster: evolutionary-dynamics
 abstract: |
   Gene-centric biology has been one of the most influential frameworks in modern evolutionary theory, but it is often misinterpreted as an account of what drives life itself. This article clarifies the role of genes within the APS framework, showing that genes are indispensable mechanisms of inheritance operating within viability-oriented organisation, not the origin of biological agency or the ultimate basis of evolutionary explanation.

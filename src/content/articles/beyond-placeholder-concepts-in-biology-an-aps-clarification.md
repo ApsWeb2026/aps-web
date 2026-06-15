@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-30
-revised: 2026-04-30
+revised: 2026-06-15
 cluster: philosophy-of-biology
 abstract: >
   Biology frequently relies on concepts such as emergence, information, design, and cognition to describe complex organisation and system-level behaviour. While these terms capture real features of living systems, they often function as explanatory placeholders rather than precise accounts of underlying organisation. The Agency–Process–Scale (APS) framework clarifies this by grounding biological explanation in viability-oriented, constraint-closed organisation. This article shows how widely used placeholder concepts can be retained descriptively but re-specified in terms of explicit organisational processes, replacing ambiguity with a unified explanatory framework.

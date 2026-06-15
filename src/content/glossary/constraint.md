@@ -8,7 +8,7 @@ inBrief: "A constraint is an organisational relation that stabilises activity wi
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-05-06
+revised: 2026-06-15
 cluster: conceptual-foundations
 seeAlso:
   - constraint-closure

@@ -1,14 +1,13 @@
 /**
  * Canonical lock enforcement via content hashing.
  *
- * When a page is marked canonical with a canonicalLockDate, its body content
- * is hashed and stored in .content-hashes.json. On subsequent builds, if the
- * body has changed without updating the `revised` date, the build fails.
+ * When a page is marked canonical with a canonicalLockDate, its protected
+ * frontmatter fields and body content are hashed and stored in
+ * .content-hashes.json. On subsequent builds, if protected canonical content
+ * changes without updating the `revised` date, the build fails.
  *
  * This enforces the "no silent drift" protocol: canonical content cannot
  * change without explicitly acknowledging the revision.
- *
- * Exit code 1 if locked content was modified without updating `revised`.
  */
 
 import fs from 'node:fs';
@@ -26,33 +25,42 @@ interface HashEntry {
 
 type HashRegistry = Record<string, HashEntry>;
 
+interface Violation {
+  file: string;
+  message: string;
+}
+
 function getBodyContent(fileContent: string): string {
-  // Extract everything after the closing --- of frontmatter
-  const match = fileContent.match(/^---\n[\s\S]*?\n---\n([\s\S]*)$/);
+  const normalised = fileContent.replace(/\r\n/g, '\n');
+  const match = normalised.match(/^---\n[\s\S]*?\n---\n([\s\S]*)$/);
   return match ? match[1].trim() : '';
 }
 
-/** Extract frontmatter fields that are protected by the canonical lock. */
 function getProtectedFrontmatter(fm: Record<string, unknown>): string {
-  // These fields carry the substantive content of each entry.
-  // Changes to any of them in a canonical page must be acknowledged via `revised`.
   const protectedKeys = ['title', 'definition', 'inBrief', 'abstract', 'overview'];
   const parts: string[] = [];
+
   for (const key of protectedKeys) {
     if (fm[key] !== undefined) {
       parts.push(`${key}:${String(fm[key])}`);
     }
   }
+
   return parts.join('\n');
 }
 
-function hashContent(body: string): string {
-  const normalised = body.replace(/\r\n/g, '\n');
-  return crypto.createHash('sha256').update(normalised, 'utf-8').digest('hex').slice(0, 16);
+function hashContent(content: string): string {
+  const normalised = content.replace(/\r\n/g, '\n');
+  return crypto
+    .createHash('sha256')
+    .update(normalised, 'utf-8')
+    .digest('hex')
+    .slice(0, 16);
 }
 
 function parseFrontmatter(content: string): Record<string, unknown> {
-  const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  const normalised = content.replace(/\r\n/g, '\n');
+  const fmMatch = normalised.match(/^---\n([\s\S]*?)\n---/);
   if (!fmMatch) return {};
 
   const fm: Record<string, unknown> = {};
@@ -60,34 +68,30 @@ function parseFrontmatter(content: string): Record<string, unknown> {
 
   for (const line of lines) {
     const kvMatch = line.match(/^(\w[\w-]*):\s*(.+)/);
-    if (kvMatch) {
-      let value: unknown = kvMatch[2].trim();
-      if (typeof value === 'string' && /^["'](.*)["']$/.test(value)) {
-        value = (value as string).slice(1, -1);
-      }
-      if (value === 'true') value = true;
-      if (value === 'false') value = false;
-      fm[kvMatch[1]] = value;
+    if (!kvMatch) continue;
+
+    let value: unknown = kvMatch[2].trim();
+
+    if (typeof value === 'string' && /^["'](.*)["']$/.test(value)) {
+      value = value.slice(1, -1);
     }
+
+    if (value === 'true') value = true;
+    if (value === 'false') value = false;
+
+    fm[kvMatch[1]] = value;
   }
 
   return fm;
 }
 
 function loadRegistry(): HashRegistry {
-  if (fs.existsSync(HASH_FILE)) {
-    return JSON.parse(fs.readFileSync(HASH_FILE, 'utf-8'));
-  }
-  return {};
+  if (!fs.existsSync(HASH_FILE)) return {};
+  return JSON.parse(fs.readFileSync(HASH_FILE, 'utf-8'));
 }
 
 function saveRegistry(registry: HashRegistry): void {
   fs.writeFileSync(HASH_FILE, JSON.stringify(registry, null, 2) + '\n', 'utf-8');
-}
-
-interface Violation {
-  file: string;
-  message: string;
 }
 
 function checkCanonicalLocks(): Violation[] {
@@ -101,7 +105,12 @@ function checkCanonicalLocks(): Violation[] {
     const dir = path.join(CONTENT_DIR, section);
     if (!fs.existsSync(dir)) continue;
 
-    for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.md'))) {
+    const files = fs
+      .readdirSync(dir)
+      .filter((file) => file.endsWith('.md'))
+      .sort();
+
+    for (const file of files) {
       const filePath = path.join(dir, file);
       const content = fs.readFileSync(filePath, 'utf-8');
       const fm = parseFrontmatter(content);
@@ -111,45 +120,47 @@ function checkCanonicalLocks(): Violation[] {
       const key = `${section}/${fm.slug}`;
       const body = getBodyContent(content);
       const protectedFm = getProtectedFrontmatter(fm);
-      const hash = hashContent(protectedFm + '\n---\n' + body);
+      const hash = hashContent(`${protectedFm}\n---\n${body}`);
       const revised = fm.revised as string;
       const lockedSince = fm.canonicalLockDate as string;
 
       const existing = registry[key];
 
-      if (existing) {
-        // Content existed before — check if hash changed without revised update
-        if (existing.hash !== hash && existing.revised === revised) {
-          violations.push({
-            file: path.relative(process.cwd(), filePath),
-            message: `Canonical content modified without updating "revised" date (locked since ${lockedSince})`,
-          });
-        }
+      if (existing && existing.hash !== hash && existing.revised === revised) {
+        violations.push({
+          file: path.relative(process.cwd(), filePath),
+          message: `Canonical content modified without updating "revised" date (locked since ${lockedSince})`,
+        });
       }
 
-      // Always update the registry with current state
       newRegistry[key] = { hash, revised, lockedSince };
     }
   }
 
-  // Merge: keep old entries for pages no longer canonical, add new ones
   const merged = { ...registry, ...newRegistry };
-  saveRegistry(merged);
+
+  if (!process.env.CI) {
+    saveRegistry(merged);
+  }
 
   return violations;
 }
 
-// Run
 const violations = checkCanonicalLocks();
 
 if (violations.length > 0) {
   console.error('\n❌ Canonical lock violations:\n');
-  for (const v of violations) {
-    console.error(`  ${v.file}`);
-    console.error(`    → ${v.message}`);
+
+  for (const violation of violations) {
+    console.error(`  ${violation.file}`);
+    console.error(`    → ${violation.message}`);
   }
-  console.error(`\n${violations.length} violation(s). Update "revised" date to acknowledge changes.\n`);
+
+  console.error(
+    `\n${violations.length} violation(s). Update "revised" date to acknowledge changes.\n`,
+  );
+
   process.exit(1);
-} else {
-  console.log('✓ Canonical lock check passed.');
 }
+
+console.log('✓ Canonical lock check passed.');

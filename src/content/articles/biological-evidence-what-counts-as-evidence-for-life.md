@@ -7,7 +7,7 @@ abstract: "This article clarifies what counts as evidence for life in the APS fr
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-04-09
+revised: 2026-06-15
 cluster: diagnostics-and-empirical-tractability
 keyPoints:
   - "Biological evidence is evidence of viability-oriented organisation, not behaviour."

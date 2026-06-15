@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-04-16
+revised: 2026-06-15
 cluster: methodology-and-explanation
 abstract: >
   This article specifies the structure of biological explanation in the Agency–Process–Scale (APS) framework. Building on the identification of viability-oriented, constraint-closed organisation as the defining target of biological explanation, it articulates the explanatory grammar required to account for how such organisation is maintained and transformed across scale and time.

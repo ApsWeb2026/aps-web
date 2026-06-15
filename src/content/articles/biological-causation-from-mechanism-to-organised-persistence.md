@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-04-09
+revised: 2026-06-15
 cluster: conceptual-foundations
 abstract: "APS reframes biological causation as the viability-oriented modulation of constraints within constraint-closed organisation. Mechanistic interactions remain essential, but causation in living systems includes the active maintenance and coordination of conditions that sustain organised persistence across scale and time."
 relatedGlossaryTerms:

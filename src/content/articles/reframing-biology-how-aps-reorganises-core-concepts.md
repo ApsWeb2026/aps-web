@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-04-16
+revised: 2026-06-15
 cluster: methodology-and-explanation
 abstract: >
   The Agency–Process–Scale (APS) framework does not replace the core concepts of biology but reorganises them within a unified explanatory grammar grounded in viability-oriented organisation. This article presents a systematic comparison between conventional biological formulations and their APS reformulations, showing how APS reframes life, causation, organisation, agency, function, evolution, and related concepts as expressions of constraint-closed, self-maintaining organisation.

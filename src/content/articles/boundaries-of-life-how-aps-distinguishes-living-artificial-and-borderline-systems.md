@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-10
-revised: 2026-06-11
+revised: 2026-06-15
 cluster: artificial-systems-and-boundaries
 role: anchor
 

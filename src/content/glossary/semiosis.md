@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-05-17
+revised: 2026-06-15
 cluster: cognition-and-mind
 
 definition: >

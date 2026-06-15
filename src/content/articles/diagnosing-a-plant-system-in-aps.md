@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-04-10
+revised: 2026-06-15
 cluster: diagnostics-and-empirical-tractability
 abstract: |
   This article applies the APS diagnostic framework to a plant system, demonstrating how viability-oriented organisation can be evaluated in practice. Using perturbation and the three diagnostic dimensions—Viability Gradient (VG), Normativity Gradient (NG), and Cognitive Integration (CI)—it shows how plant activity reveals biological agency without requiring neural or representational explanations.

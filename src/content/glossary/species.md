@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-15
+revised: 2026-06-15
 cluster: evolutionary-dynamics
 definition: >
   A species is a historically continuous lineage-pattern of viability-oriented

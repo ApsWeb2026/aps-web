@@ -7,7 +7,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
-revised: 2026-06-01
+revised: 2026-06-15
 
 cluster: cognition-and-mind
 

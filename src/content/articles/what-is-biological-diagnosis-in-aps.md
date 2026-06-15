@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-04-10
+revised: 2026-06-15
 cluster: diagnostics-and-empirical-tractability
 abstract: |
   APS reframes biological diagnosis as the evaluation of viability-oriented organisation rather than the identification of traits, mechanisms, or components. This article defines diagnosis within the APS framework and clarifies how it differs from traditional biological and medical approaches.

@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-13
-revised: 2026-04-13
+revised: 2026-06-15
 cluster: ecological-organisation
 definition: >
   A niche is the structured set of environmental conditions, constraints, and affordances with which a living system is dynamically coupled in sustaining its viability. In APS, the niche is not a static external space or role but an aspect of the organism–environment system, continuously shaped and reshaped through organismal activity and environmental interaction.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-04-09
+revised: 2026-06-15
 cluster: ecological-organisation
 abstract: |
   In APS, agency is neither internally isolated nor externally controlled. This article clarifies the organism–world relationship by distinguishing coupling from control, showing that living systems sustain their own viability through ongoing, internally grounded engagement with their environment.

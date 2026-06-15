@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-04-16
+revised: 2026-06-15
 cluster: philosophy-of-biology
 abstract: >
   The history of science can be understood as a process of naturalisation, in which phenomena once treated as metaphysical or philosophical are gradually reinterpreted as empirically tractable features of the natural world. This article situates the Agency–Process–Scale (APS) framework within this trajectory, showing how APS extends the naturalisation of biology by grounding agency, purpose, normativity, and meaning in the organisation of living systems.
