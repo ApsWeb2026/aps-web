@@ -473,12 +473,76 @@ li {
   color: #424242;
 }
 
+/* Conceptual Foundations */
+
+.badge-domain-conceptual-foundations {
+  background: #dbeafe;
+  color: #1e40af;
+  border-color: #bfdbfe;
+}
+
 /* Evolutionary Dynamics */
 
 .badge-domain-evolutionary-dynamics {
   background: #ccfbf1;
   color: #115e59;
   border-color: #5eead4;
+}
+
+/* Developmental Organisation */
+
+.badge-domain-developmental-organisation {
+  background: #dcfce7;
+  color: #166534;
+  border-color: #86efac;
+}
+
+/* Ecological Organisation */
+
+.badge-domain-ecological-organisation {
+  background: #ecfccb;
+  color: #3f6212;
+  border-color: #bef264;
+}
+
+/* Cognition and Mind */
+
+.badge-domain-cognition-and-mind {
+  background: #fce7f3;
+  color: #9d174d;
+  border-color: #f9a8d4;
+}
+
+/* Social Organisation */
+
+.badge-domain-social-organisation {
+  background: #fef3c7;
+  color: #92400e;
+  border-color: #fcd34d;
+}
+
+/* Diagnosis and Empirical Tractability */
+
+.badge-domain-diagnostics-and-empirical-tractability {
+  background: #fee2e2;
+  color: #991b1b;
+  border-color: #fca5a5;
+}
+
+/* Methodology and Explanation */
+
+.badge-domain-methodology-and-explanation {
+  background: #e0f2fe;
+  color: #075985;
+  border-color: #7dd3fc;
+}
+
+/* Philosophy of Biology */
+
+.badge-domain-philosophy-of-biology {
+  background: #f3e8ff;
+  color: #6b21a8;
+  border-color: #d8b4fe;
 }
 
 /* Artificial Systems & Boundaries */
