@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-06-15
+revised: 2026-06-16
 cluster: methodology-and-explanation
 abstract: >
   APS does not replace the core concepts of biology. It reorganises them. By treating agency as the defining activity of life and viability-oriented organisation as the primary object of explanation, APS provides a unified explanatory grammar that integrates life, function, evolution, development, ecology, cognition, and diagnosis within a common framework of organised persistence. This article examines how APS reframes biology's foundational concepts and shows why this reorganisation has consequences for biological explanation, methodology, and theory.
