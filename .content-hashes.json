@@ -810,9 +810,9 @@
     "lockedSince": "2026-06-01"
   },
   "articles/explanatory-geometry-of-biology": {
-    "hash": "7a8dd8022f18d459",
-    "revised": "2026-06-15",
-    "lockedSince": "2026-05-26"
+    "hash": "809acde659896fd6",
+    "revised": "2026-06-16",
+    "lockedSince": "2026-06-16"
   },
   "articles/the-social-organisation-of-life": {
     "hash": "d3a4cdd576167566",
@@ -1355,8 +1355,8 @@
     "lockedSince": "2026-05-10"
   },
   "orientation/how-aps-explains-life": {
-    "hash": "4bee8532e55bf866",
-    "revised": "2026-06-15",
+    "hash": "d027542b5e3a07f2",
+    "revised": "2026-06-16",
     "lockedSince": "2026-05-26"
   },
   "orientation/how-to-read-this-aps-framework-website": {
@@ -1380,7 +1380,7 @@
     "lockedSince": "2026-05-26"
   },
   "articles/biological-explanation-what-needs-to-be-explained": {
-    "hash": "c884858049efeea1",
+    "hash": "d180386ce40f3005",
     "revised": "2026-06-16",
     "lockedSince": "2026-04-27"
   }

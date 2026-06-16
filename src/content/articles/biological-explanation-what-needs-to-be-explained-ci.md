@@ -147,6 +147,22 @@ Organised persistence is therefore the central explanatory target of biology.
 
 Understanding how living systems persist requires understanding the organisational conditions that make persistence possible.
 
+<div class="aps-diagram">
+  <a href="/assets/diagrams/temporal-organisation-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/temporal-organisation-visual.png"
+      alt="Temporal Organisation and Organised Persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Temporal Organisation and Organised Persistence.</strong>
+    Living systems maintain continuity not by remaining unchanged but by continually reorganising themselves through development, regulation, repair, adaptation, and environmental interaction. Biological persistence is therefore an achievement of temporal organisation rather than static structure.
+  </p>
+</div>
+
+
 Within APS, two concepts are particularly important. The first is viability orientation. Living systems are organised in ways that tend to preserve the conditions required for their continued existence. Their activity is not merely coordinated; it contributes to maintaining viability.
 
 The second is constraint closure. The processes of the system contribute to maintaining the constraints that enable those very processes to occur. Living systems therefore participate in sustaining the organisational conditions upon which they depend.
