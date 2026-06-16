@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-06-15
 cluster: evolutionary-dynamics
+role: extension
 abstract: >
   In APS, species are not fixed categories or fundamental biological units but
   historically extended lineage-patterns of viability-oriented organisation.

@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-15
 revised: 2026-06-15
 cluster: evolutionary-dynamics
+role: extension
 
 abstract: >
   This article develops an APS account of evolution as a multiscale process

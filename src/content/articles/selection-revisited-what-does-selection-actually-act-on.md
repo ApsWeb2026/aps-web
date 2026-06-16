@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-11
 revised: 2026-06-15
 cluster: evolutionary-dynamics
+role: clarification
 abstract: |
   In the Agency–Process–Scale (APS) framework, natural selection is not a primary generative force but a dependent process that operates within systems capable of sustaining organised biological persistence. This article clarifies what selection acts on by reframing it as the differential filtering of viability-oriented organisation, rather than the selection of privileged components such as genes.
 keyPoints:

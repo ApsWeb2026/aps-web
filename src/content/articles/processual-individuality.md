@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-06-15
 cluster: evolutionary-dynamics
+role: extension
 
 abstract: >
   In APS, biological individuality is understood as a dynamically maintained

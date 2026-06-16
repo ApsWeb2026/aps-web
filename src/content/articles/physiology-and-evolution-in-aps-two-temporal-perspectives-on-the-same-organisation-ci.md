@@ -18,6 +18,7 @@ canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-06-15
 cluster: evolutionary-dynamics
+role: extension
 
 keyPoints:
   - Physiology and evolution are different temporal perspectives on the same viability-oriented organised persistence.

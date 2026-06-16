@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-04-12
 revised: 2026-06-15
 cluster: evolutionary-dynamics
+role: extension
 abstract: >
   APS reinterprets the taxon not as a static classificatory unit but as a
   classificatory designation applied to historically extended patterns of
