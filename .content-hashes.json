@@ -305,8 +305,8 @@
     "lockedSince": "2026-04-09"
   },
   "articles/biological-explanation-and-organised-persistence": {
-    "hash": "9e74ae5205c23495",
-    "revised": "2026-06-15",
+    "hash": "593ba62ec9cef93c",
+    "revised": "2026-06-16",
     "lockedSince": "2026-05-27"
   },
   "articles/biological-individuality-organised-persistence-through-time": {
@@ -1378,5 +1378,10 @@
     "hash": "c428a6dbf785bc34",
     "revised": "2026-06-15",
     "lockedSince": "2026-05-26"
+  },
+  "articles/biological-explanation-what-needs-to-be-explained": {
+    "hash": "c884858049efeea1",
+    "revised": "2026-06-16",
+    "lockedSince": "2026-04-27"
   }
 }
