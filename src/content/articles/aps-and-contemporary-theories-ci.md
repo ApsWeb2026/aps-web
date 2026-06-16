@@ -64,7 +64,7 @@ relatedArticles:
   - why-life-is-not-intelligence-an-aps-clarification
   - temporal-organisation-and-organised-persistence
   - diagnosis-as-continuity-analysis
-  - agency-in-contemporary-biology
+  - biological-agency-as-the-activity-of-self-maintenance
 
 references:
   - id: pezzulo-levin-2026
