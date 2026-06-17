@@ -27,7 +27,7 @@ references:
   - id: spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the defining activity of life: A viability-oriented framework integrating process and scale
+    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
     journal: Biological Theory
     doi: https://doi.org/10.1007/s13752-026-00547-6
 ---
