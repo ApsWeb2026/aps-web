@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-05
-revised: 2026-06-15
+revised: 2026-06-17
 cluster: evolutionary-dynamics
 role: core
 
@@ -161,6 +161,10 @@ This reformulation preserves the explanatory strengths of evolutionary theory wh
 
 Natural selection therefore does not explain the original existence of viable organisation. Instead, it acts upon historically existing forms of organised persistence, influencing which forms contribute more successfully to future continuity. Selection describes differential continuity across populations of viable systems rather than the creation of viability itself.
 
+[[box:natural-selection-as-differential-stabilisation]]
+
+The viability-oriented organisation upon which selection operates is itself a historical product of evolutionary processes. Living systems inherit developmental, physiological, ecological, and behavioural organisations that have been stabilised and transformed across evolutionary time. Natural selection therefore acts not merely upon present forms of organisation but upon historically evolved configurations whose origins extend across earlier episodes of evolutionary continuity and change.
+
 From this perspective, natural selection is a major evolutionary process but not the foundational source of biological organisation. Evolutionary organisation emerges from the interaction of inheritance, variation, adaptation, development, ecological interaction, and historical continuity. Selection contributes to this larger architecture without exhausting it.
 
 [[box:description-is-not-explanation]]
@@ -255,6 +259,8 @@ Stochastic processes undoubtedly contribute to variation, but viable variation r
 
 Natural selection filters among these organisational possibilities. It does not act upon arbitrary differences in abstraction but upon differences emerging within historically continuous systems capable of sustaining organised persistence.
 
+Evolutionary variation is not identical to mutation. Mutational change provides one source of biological difference, but variation emerges through developmental, physiological, behavioural, and ecological organisation. Novel evolutionary forms arise when viable systems generate new organisational possibilities rather than merely recombining existing traits. Variation therefore represents an organisational process through which evolutionary possibilities are continually expanded and transformed.
+
 ## Selection Within the Continuity Architecture
 
 At this point a broader pattern becomes visible. Natural selection does not stand apart from the organisation of life. It operates within a continuity architecture whose components are already required before evolutionary filtering can occur.
@@ -335,6 +341,8 @@ Third, it distinguishes adaptive production from historical stabilisation. Livin
 Fourth, it integrates development more fully into evolutionary explanation. Development is not merely an intermediary between genes and adult traits but an essential component of the continuity architecture through which living organisation is reproduced and transformed across generations.
 
 Finally, APS avoids attributing ontological primacy to statistical summaries. Population-level descriptions remain indispensable for evolutionary analysis, but they do not replace the living systems whose organised activities generate evolutionary processes in the first place.
+
+Viability should not be equated with simple survival or longevity. Different organisms realise viability through different life-history strategies, including forms of reproduction that may involve substantial physiological cost or even post-reproductive death.
 
 These revisions do not weaken evolutionary theory. Instead, they deepen its explanatory structure by clarifying the organisational conditions that evolutionary processes presuppose.
 
