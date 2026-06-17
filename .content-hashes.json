@@ -1383,5 +1383,20 @@
     "hash": "d180386ce40f3005",
     "revised": "2026-06-16",
     "lockedSince": "2026-04-27"
+  },
+  "articles/aps-and-autonomy-theory": {
+    "hash": "c52fd40949f20502",
+    "revised": "2026-06-17",
+    "lockedSince": "2026-04-27"
+  },
+  "articles/why-life-is-not-autopoiesis": {
+    "hash": "41a3177ae454c045",
+    "revised": "2026-06-17",
+    "lockedSince": "2026-04-27"
+  },
+  "glossary/autopoiesis": {
+    "hash": "053f89970f4067ef",
+    "revised": "2026-06-17",
+    "lockedSince": "2026-06-17"
   }
 }
