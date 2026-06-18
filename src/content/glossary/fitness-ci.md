@@ -114,4 +114,3 @@ From the APS perspective, fitness is best understood as differential continuity 
 ## Summary
 
 In APS, fitness is the historically situated capacity of persistence-sustaining organisation to contribute to continuity across generations under changing developmental and ecological conditions. Fitness is not adequately understood as reproductive output, optimisation, or biological superiority alone. Rather, it concerns the differential continuity of organised persistence through time. APS therefore approaches fitness as a context-dependent property of organised living systems and as a key concept linking viability, adaptation, inheritance, natural selection, and evolution within the broader framework of organised biological persistence.
----
