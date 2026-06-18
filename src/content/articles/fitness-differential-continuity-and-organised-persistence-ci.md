@@ -166,8 +166,6 @@ APS therefore rejects the interpretation of fitness as optimisation. Living syst
 
 This perspective also clarifies why fitness is inseparable from history. Fitness cannot be understood solely by examining organisms at a single moment in time because continuity unfolds across generations. What counts as fitness depends upon how persistence-sustaining organisation contributes to future continuity under changing developmental, ecological, and evolutionary conditions. Fitness therefore becomes a fundamentally historical concept concerned with the differential continuity of organised persistence through time.
 
-[[box:fitness-is-not-reproductive-success-alone]]
-
 ## Fitness and Viability
 
 The relationship between fitness and viability is foundational to the APS interpretation of evolution. Although the two concepts are closely related, they address different explanatory questions. Viability concerns whether organised persistence can be maintained under present conditions. Fitness concerns whether such persistence contributes to continuity across generations. The distinction is subtle but essential because it clarifies the relationship between present organisation and future continuity.
@@ -183,8 +181,6 @@ The distinction also helps clarify the relationship between biological and evolu
 [[box:viability-and-fitness]]
 
 From the APS perspective, viability and fitness should not be treated as competing concepts. Rather, they describe different temporal dimensions of organised persistence. Viability concerns the maintenance of continuity in the present. Fitness concerns the continuity of such persistence through time. Together they provide a more complete understanding of how living systems remain historically present despite ongoing developmental, ecological, and evolutionary change.
-
-[[box:viability-and-fitness]]
 
 ## Fitness and Adaptation
 

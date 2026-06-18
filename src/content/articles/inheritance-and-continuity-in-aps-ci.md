@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-06-15
+revised: 2026-06-19
 cluster: evolutionary-dynamics
 role: core
 
@@ -16,13 +16,11 @@ abstract: >
   of viability-oriented organisation across generations. APS reframes
   inheritance as the reliable reconstitution of constraint-closed living
   systems, integrating development, environment, and organisation into a
-  unified account of biological continuity. Inheritance explains how
-  viable organisation persists through time, providing the continuity that
-  makes evolutionary transformation possible.
+  unified account of biological continuity. Inheritance explains how viable organisation is reliably reconstituted across generations, providing the continuity that links organised persistence to fitness, natural selection, and evolutionary transformation.
 
 keyPoints:
   - Inheritance in APS is the continuity of viability-oriented organisation across generations.
-  - What persists is not a component but a reproducible pattern of constraint-closed organisation.
+  - What persists is not a component but a reproducible pattern of persistence-sustaining organisation.
   - Genes participate in inheritance but do not constitute it.
   - Development is the process through which inherited organisation is reconstituted.
   - Organism–environment coupling is part of what is inherited, not external to it.
@@ -100,7 +98,7 @@ Inheritance is not the transfer of a substance, code, or informational entity fr
 
 What persists through evolutionary history is not a gene, structure, or molecule considered in isolation. What persists is a pattern of organisation capable of maintaining viability within changing circumstances. This pattern includes developmental processes, constraint relations, organism–environment interactions, and the organisational conditions that enable a living system to continue existing. Inheritance is therefore best understood as a process through which viable organisation is repeatedly re-established rather than as a thing that is transmitted.
 
-Inheritance stabilises continuity across generations and thereby provides the foundation upon which variation, adaptation, and selection can operate. Without inheritance there could be no cumulative evolutionary transformation because there would be no enduring organisational continuity to transform.
+Inheritance stabilises continuity across generations and thereby provides the foundation upon which variation, adaptation, and selection can operate. Without inheritance there could be no cumulative evolutionary transformation because there would be no enduring organisational continuity to transform. Inheritance therefore occupies a central position within the APS continuity architecture. Biological agency sustains viability-oriented activity. Viability enables organised persistence. Inheritance reproduces that persistence across generations, providing the continuity upon which fitness, natural selection, and evolutionary transformation depend. Evolutionary change therefore presupposes inherited continuity before it can become historically differentiated.
 
 ## Beyond Component Transmission
 
@@ -123,6 +121,8 @@ This understanding differs significantly from accounts that treat development as
 Development is the point at which continuity becomes active. Through developmental processes, inherited organisational relations are rebuilt and integrated into a functioning whole capable of maintaining itself. Continuity is therefore enacted rather than merely stored. The persistence of a lineage depends not only on what is inherited but also on the successful developmental reconstruction of inherited organisation.
 
 Inheritance and development consequently form a single continuity architecture. Inheritance provides the conditions through which viable organisation can be re-established, while development performs the re-establishment itself. Neither process is intelligible in isolation. Together they explain how living systems preserve continuity despite continual material and organisational change.
+
+This continuity architecture extends beyond inheritance and development alone. The successful developmental reconstitution of viable organisation contributes directly to the continuity of persistence-sustaining organisation across generations. In this sense, development helps establish the continuity upon which fitness and natural selection subsequently operate.
 
 ## The Role of Environment in Continuity
 
@@ -165,11 +165,15 @@ This explains a central feature of biological systems. Evolutionary change does 
 
 Inheritance provides the continuity that makes evolution possible. Without the repeated reconstitution of viable organisation, there would be no stable basis upon which variation, adaptation, and selection could operate. Evolution therefore depends upon inheritance not merely as a mechanism of transmission but as the process through which continuity itself is maintained.
 
-Within APS, persistence establishes the existence of living systems, inheritance maintains their continuity across generations, variation introduces organisational differences, adaptation reorganises activity in response to changing conditions, and selection influences which forms of organisation remain historically continuous. Evolution emerges from the interaction of these processes rather than from any single process considered in isolation.
+Within APS, biological agency sustains viability-oriented activity, viability enables organised persistence, inheritance reproduces that persistence across generations, fitness reflects differences in continuity among inherited forms of organisation, and natural selection differentially stabilises those differences through evolutionary time. Evolutionary transformation emerges from the interaction of these processes rather than from any single process considered in isolation.
+
+Inheritance occupies a particularly important position within this sequence because it reproduces the continuity that fitness evaluates and natural selection differentially stabilises. Without inheritance there could be no enduring continuity across generations and therefore no basis upon which differential continuity could emerge. Fitness and natural selection consequently presuppose inherited continuity rather than replacing it.
 
 Inheritance occupies a particularly important position within this architecture because it connects continuity and transformation. Evolutionary change is possible only because viable organisation is reliably re-established generation after generation. What evolves is therefore not an arbitrary collection of traits or components but an ongoing lineage of organised persistence extending through time.
 
-APS consequently rejects the view that inheritance merely preserves the past. Inheritance simultaneously conserves continuity and enables transformation. It stabilises the organisational conditions through which novelty can accumulate without destroying viability. The historical transformation of organised persistence therefore depends upon inheritance at every stage.
+[[box:inheritance-fitness-and-natural-selection]]
+
+APS consequently rejects the view that inheritance merely preserves the past. Inheritance simultaneously conserves continuity and enables transformation. It stabilises the organisational conditions through which novelty can accumulate without destroying viability. The historical transformation of organised persistence therefore depends upon inheritance at every stage. Evolutionary transformation is possible only because continuity is repeatedly regenerated before it is varied, differentially continuous, and selectively stabilised.
 
 ## From Information to Organisation
 
@@ -187,7 +191,11 @@ Inheritance therefore links developmental continuity, ecological continuity, and
 
 Inheritance occupies a central position within the evolutionary continuity architecture developed throughout APS. It explains how viable organisation persists across generations, providing the continuity that allows variation, adaptation, and selection to contribute to long-term evolutionary transformation.
 
+Inheritance therefore occupies a pivotal position within the continuity architecture developed throughout APS. Organised persistence can become historically continuous only if continuity is repeatedly regenerated across generations. Fitness reflects differences in that continuity, while natural selection differentially stabilises those differences. Inheritance provides the continuity that makes both processes possible.
+
 The significance of inheritance therefore lies not in the transmission of particular components but in the reliable reconstitution of living organisation. Genes, developmental processes, ecological relations, and organism–environment interactions all contribute to this continuity, but none alone constitutes what is inherited. What persists is a lineage of viability-oriented organisation capable of repeatedly reconstructing itself despite continual change.
+
+The relationship between inheritance, fitness, and natural selection is particularly important. Inheritance reproduces continuity. Fitness reflects differences in continuity among forms of persistence-sustaining organisation. Natural selection differentially stabilises those differences across evolutionary time. These processes are therefore complementary components of a single evolutionary continuity architecture rather than competing explanations.
 
 Inheritance thus reveals an important principle of evolutionary organisation. Living systems persist historically not because they replicate themselves perfectly, but because they continually regenerate the organisational conditions required for viability. Evolutionary continuity emerges from this ongoing process of reconstitution, linking persistence in the present with transformation across generations.
 
@@ -200,4 +208,4 @@ Inheritance thus reveals an important principle of evolutionary organisation. Li
 
 ## Key Point
 
-Inheritance in APS is the continuity of viability-oriented, constraint-closed organisation. It explains how living systems repeatedly reconstitute viable organisation across generations, providing the continuity that makes evolutionary transformation possible.
+Inheritance in APS is the reliable reconstitution of viability-oriented, persistence-sustaining organisation across generations. It reproduces the continuity upon which fitness, natural selection, and evolutionary transformation depend, linking organised persistence in the present to evolutionary continuity through time.
