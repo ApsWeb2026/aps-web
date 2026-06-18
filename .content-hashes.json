@@ -90,7 +90,7 @@
     "lockedSince": "2026-05-28"
   },
   "articles/evolution": {
-    "hash": "3cd38cadf241712c",
+    "hash": "888f2a3c9caf5522",
     "revised": "2026-06-15",
     "lockedSince": "2026-05-28"
   },
@@ -1080,8 +1080,8 @@
     "lockedSince": "2026-06-12"
   },
   "glossary/fitness": {
-    "hash": "b612832b62fdd304",
-    "revised": "2026-06-15",
+    "hash": "cb60eb5598610fed",
+    "revised": "2026-06-18",
     "lockedSince": "2026-05-17"
   },
   "glossary/fragility": {
@@ -1398,5 +1398,10 @@
     "hash": "053f89970f4067ef",
     "revised": "2026-06-17",
     "lockedSince": "2026-06-17"
+  },
+  "articles/fitness-differential-continuity-and-organised-persistence": {
+    "hash": "5e35fb4bc9110a53",
+    "revised": "2026-06-18",
+    "lockedSince": "2026-06-18"
   }
 }
