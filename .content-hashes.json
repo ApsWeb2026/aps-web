@@ -90,8 +90,8 @@
     "lockedSince": "2026-05-28"
   },
   "articles/evolution": {
-    "hash": "888f2a3c9caf5522",
-    "revised": "2026-06-15",
+    "hash": "8d18dc36bdc23ee4",
+    "revised": "2026-06-20",
     "lockedSince": "2026-05-28"
   },
   "articles/explanatory-grammar": {
@@ -190,8 +190,8 @@
     "lockedSince": "2026-05-27"
   },
   "articles/adaptation-how-living-systems-sustain-themselves-through-change": {
-    "hash": "33f2d404cd29dd61",
-    "revised": "2026-06-15",
+    "hash": "a937fb6b6a8ba34c",
+    "revised": "2026-06-20",
     "lockedSince": "2026-05-28"
   },
   "articles/ageing-and-organisational-persistence": {
@@ -640,8 +640,8 @@
     "lockedSince": "2026-05-15"
   },
   "articles/natural-selection-an-aps-clarification": {
-    "hash": "fdbfa075aae89601",
-    "revised": "2026-06-18",
+    "hash": "d4de690af02243ca",
+    "revised": "2026-06-20",
     "lockedSince": "2026-05-05"
   },
   "articles/normativity-gradient": {
@@ -820,8 +820,8 @@
     "lockedSince": "2026-05-30"
   },
   "articles/variation-in-aps-where-does-novelty-come-from": {
-    "hash": "064ab9d5b5249755",
-    "revised": "2026-06-19",
+    "hash": "1cbe69b5b6255bf3",
+    "revised": "2026-06-20",
     "lockedSince": "2026-04-11"
   },
   "articles/viability-gradient": {
@@ -1400,8 +1400,8 @@
     "lockedSince": "2026-06-17"
   },
   "articles/fitness-differential-continuity-and-organised-persistence": {
-    "hash": "fe4b8954fdd49a17",
-    "revised": "2026-06-19",
+    "hash": "b6a3b8c13eed2408",
+    "revised": "2026-06-20",
     "lockedSince": "2026-06-18"
   }
 }

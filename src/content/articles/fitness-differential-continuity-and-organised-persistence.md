@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-18
-revised: 2026-06-19
+revised: 2026-06-20
 cluster: evolutionary-dynamics
 
 abstract: >
@@ -195,6 +195,22 @@ This perspective avoids a common misunderstanding in which fitness appears to fu
 The relationship between adaptation and fitness also reveals why fitness remains context dependent. No adaptation guarantees continuity under all conditions. Organisational arrangements that contribute to continuity in one developmental or ecological context may undermine continuity in another. Fitness therefore cannot be reduced to a universal measure of adaptive quality. It always reflects the historically situated continuity of persistence-sustaining organisation under specific conditions.
 
 APS consequently treats adaptation and fitness as complementary dimensions of organised persistence. Adaptation concerns how living systems reorganise themselves in response to changing conditions. Fitness concerns how the resulting forms of organisation contribute to continuity through time. Together they explain how persistence remains possible despite ongoing transformation and how evolutionary history emerges from the continuity of living organisation under changing circumstances.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-concepts.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-concepts.png"
+      alt="Variation, adaptation, fitness, natural selection, and evolutionary transformation as a continuity-preserving sequence within the APS evolutionary architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Evolutionary Concepts Visual.</strong>
+    APS distinguishes variation, adaptation, fitness, and natural selection as successive explanatory moments within a continuity-preserving architecture. Variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises those variants across evolutionary time.
+  </p>
+</div>
+
 
 ## Fitness and Natural Selection
 

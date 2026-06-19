@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-06-19
+revised: 2026-06-20
 cluster: evolutionary-dynamics
 role: core
 abstract: |
@@ -163,6 +163,22 @@ Viewed in this way, variation is best understood not as a departure from continu
 Variation is thus not an external input to evolution, but an **intrinsic feature of living organisation in motion**.
 
 Inheritance, variation, fitness, and natural selection therefore perform distinct but complementary roles within evolutionary organisation. Inheritance reproduces continuity across generations, variation generates differences within that continuity, fitness reflects differences in continuity among alternative forms of organisation, and natural selection differentially stabilises those differences through time. Together these processes explain how organised persistence remains simultaneously continuous and transformable, allowing evolutionary history to emerge from the ongoing reorganisation of living systems.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-concepts.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-concepts.png"
+      alt="Variation, adaptation, fitness, natural selection, and evolutionary transformation as a continuity-preserving sequence within the APS evolutionary architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Evolutionary Concepts Visual.</strong>
+    APS distinguishes variation, adaptation, fitness, and natural selection as successive explanatory moments within a continuity-preserving architecture. Variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises those variants across evolutionary time.
+  </p>
+</div>
+
 
 ## Continue Exploring
 

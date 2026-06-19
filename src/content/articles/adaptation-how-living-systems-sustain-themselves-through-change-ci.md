@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-06-15
+revised: 2026-06-20
 
 domain: evolution
 role: core
@@ -136,6 +136,8 @@ This definition places adaptation within the broader explanatory architecture of
 
 Adaptation therefore occupies a distinctive position within biological explanation. It is neither identical to persistence nor reducible to natural selection. Rather, it provides the organisational bridge between them. Living systems remain viable because they adapt, and evolutionary lineages transform because adaptive organisations are differentially preserved through time. Understanding adaptation is therefore essential for understanding how organised persistence survives transformation while remaining continuous across successive biological scales and timescales.
 
+Adaptation is not merely something that happens to living systems. It is one of the principal ways in which biological agency is expressed. Viability-oriented systems continually reorganise activity relative to changing conditions affecting persistence. Adaptation therefore represents agency operating under conditions of environmental, developmental, physiological, and evolutionary change.
+
 [[box:temporal-organisation-persistence-adaptation-evolution]]
 
 ## Adaptation as Continuity-Preserving Reorganisation
@@ -160,6 +162,20 @@ Living systems therefore persist through adaptive continuity rather than static 
 </div>
 
 *Adaptation links persistence and evolution by preserving viability through continuity-preserving reorganisation under changing conditions.*
+
+## Variation and Adaptation
+
+Adaptation and variation are closely related, yet they perform distinct roles within evolutionary continuity. Variation introduces novelty into biological organisation. Adaptation determines whether that novelty can be incorporated into viable persistence.
+
+Variation arises because living systems are not perfectly invariant across time. Developmental processes, environmental influences, behavioural innovations, genetic changes, ecological interactions, and countless other sources of difference continually generate new organisational possibilities. Without variation, biological organisation could persist but could never transform. Evolutionary change therefore depends upon the continual production of novelty within ongoing continuity.
+
+Novelty alone, however, does not guarantee persistence. Most changes contribute little to viability, while others may actively undermine it. Living systems must therefore continually reorganise activity in ways that preserve the conditions required for continued existence. Adaptation explains how this occurs. Adaptive processes determine whether new organisational possibilities can be integrated into viable persistence rather than disrupting the continuity upon which persistence depends.
+
+From an APS perspective, variation and adaptation therefore occupy successive positions within a broader continuity architecture. Variation generates organisational possibilities. Adaptation evaluates those possibilities through their consequences for viability and reorganises biological activity accordingly. Novelty becomes biologically significant not merely because it appears, but because it can be incorporated into persistence-preserving organisation.
+
+This relationship helps clarify why adaptation cannot be reduced to variation itself. Variation explains the emergence of difference. Adaptation explains the viability-oriented reorganisation through which some differences become integrated into ongoing biological continuity. Evolutionary transformation consequently depends upon both processes working together. Variation introduces the possibility of change, while adaptation determines whether change can contribute to the continuing persistence of living organisation.
+
+Seen in this way, variation and adaptation are not independent evolutionary processes but complementary aspects of the same continuity architecture. Inheritance reproduces continuity across generations, variation introduces novelty into that continuity, and adaptation determines whether novelty can be incorporated into viable persistence. The adaptive organisations that emerge from this process become available for differential continuity and natural selection, allowing evolutionary transformation to proceed without breaking the continuity upon which persistence depends.
 
 ## Adaptation Is Not Optimisation
 
@@ -187,9 +203,9 @@ Adaptation therefore links immediate regulation with long-term continuity. It co
 
 ## Adaptation and Viability
 
-The concept of viability occupies a central place within the APS understanding of adaptation. Living systems do not reorganise activity arbitrarily. They reorganise activity relative to conditions that support or undermine their continued persistence. Adaptation is therefore inherently oriented toward the maintenance of viability.
+Viability occupies a central place within the APS understanding of adaptation because living systems do not reorganise activity arbitrarily. Adaptive change occurs relative to circumstances that support or undermine continued persistence, making adaptation inherently oriented toward the preservation of viability.
 
-Viability identifies the conditions under which organised persistence can continue. These conditions include energetic requirements, physiological stability, developmental coherence, ecological relationships, and the broader organisational structures that allow a living system to remain active through time. When such conditions are threatened, adaptive processes become necessary because continuity can no longer be maintained through existing patterns of organisation alone.
+Viability identifies the organisational requirements under which persistence remains possible. These requirements include energetic stability, physiological integrity, developmental coherence, ecological relationships, and the broader organisational structures that sustain living systems through time. When these requirements become threatened, adaptive reorganisation becomes necessary because continuity can no longer be maintained through existing patterns of activity alone.
 
 Adaptation therefore functions as a mechanism through which viability is preserved under changing circumstances. Regulatory systems alter activity in response to disturbance, behavioural systems modify interactions with the environment, developmental systems adjust trajectories, and ecological systems reorganise patterns of coupling. Although these processes differ in form, they share a common orientation toward maintaining the conditions required for persistence.
 
@@ -213,7 +229,7 @@ Adaptation operates through the continual reorganisation of functional relations
 
 This capacity for functional reorganisation is one reason why living systems exhibit remarkable flexibility under changing conditions. When existing pathways become disrupted, alternative pathways may compensate. When environmental conditions shift, behavioural or physiological activity may be reorganised. When developmental circumstances change, functional contributions may be redistributed across different components of the system. Persistence is maintained not because every function remains unchanged, but because the organisation of functional activity remains sufficiently coherent to sustain viability.
 
-Adaptation therefore involves more than preserving existing functions. It often requires reorganising how functions contribute to persistence. Biological systems may maintain continuity through modification, compensation, substitution, or innovation, provided that the resulting organisation remains viable.
+Adaptation therefore involves more than preserving existing functions. Because functions contribute to persistence through their place within an organised system, adaptive reorganisation often modifies how those contributions are distributed and coordinated. Biological systems may maintain continuity through compensation, substitution, innovation, or the redistribution of activity across components, provided that the resulting organisation remains viable.
 
 From an APS perspective, function is therefore inseparable from organised persistence. Functions matter because they contribute to the maintenance of viability, and adaptation matters because it reorganises those contributions under changing conditions. Functional reorganisation thus provides one of the principal mechanisms through which continuity can survive transformation, allowing living systems to remain viable while preserving the organisational coherence required for longer-term evolutionary persistence.
 
@@ -221,7 +237,7 @@ From an APS perspective, function is therefore inseparable from organised persis
 
 Adaptation is inseparable from the relationship between organisms and their environments. Classical accounts often describe adaptation as a process through which organisms become fitted to external conditions, implicitly treating the environment as a fixed background against which adaptive change occurs. APS adopts a different perspective. Organisms and environments are not independent entities that interact only occasionally. They exist within ongoing relationships of mutual organisation through which the conditions of persistence are continuously produced and transformed.
 
-Environmental conditions influence energetic availability, developmental possibilities, ecological opportunities, and the constraints under which living systems operate. At the same time, organisms actively modify those conditions through metabolism, behaviour, niche construction, ecological engineering, and countless other forms of biological activity. The environment shapes adaptive possibilities, but adaptive activity also reshapes the environment in which future adaptation occurs.
+Environmental conditions influence energetic availability, developmental possibilities, ecological opportunities, and the constraints under which living systems persist. Yet these conditions are not simply imposed upon biological systems from outside. Through metabolism, behaviour, niche construction, ecological engineering, and countless other forms of biological activity, living systems continually participate in shaping the very circumstances under which future adaptation occurs. Adaptation therefore emerges within an ongoing process of mutual organisation in which organism and environment co-constitute the conditions of persistence.
 
 Adaptation therefore cannot be understood as passive adjustment to external circumstances. It emerges through ongoing processes of organism–environment coupling in which both sides of the relationship contribute to the maintenance of viability. The adaptive organisation of living systems is inseparable from the adaptive organisation of the ecological contexts within which those systems persist.
 
@@ -237,6 +253,39 @@ These processes are not independent layers stacked upon one another. Physiologic
 
 APS consequently rejects attempts to reduce adaptation to particular traits, isolated mechanisms, or single explanatory levels. Adaptation is better understood as a multiscale process through which viability-oriented organisation preserves continuity while remaining capable of transformation. Appreciating this distributed character of adaptation is essential for understanding how persistence can be maintained across both immediate and historical timescales.
 
+## Adaptation and Fitness
+
+Adaptation and fitness are closely related concepts, yet they address different explanatory questions. Their distinction becomes clearer when viewed within the broader APS account of organised persistence.
+
+Adaptation explains how viability-oriented systems preserve continuity under changing conditions. Through adaptive reorganisation, living systems modify physiological activity, developmental trajectories, behavioural patterns, ecological relationships, and other forms of organisation in ways that sustain the conditions required for persistence. Adaptation therefore concerns the maintenance of viability through continuity-preserving change.
+
+Fitness addresses a different problem. Whereas adaptation explains how continuity is preserved, fitness explains why some viable organisations exhibit greater continuity than others. Fitness concerns differential continuity among biological variants. It identifies differences in the capacity of alternative forms of organisation to persist and reproduce across time.
+
+This distinction is important because viability and differential continuity are not identical. A biological organisation may be adaptive in the sense that it successfully preserves viability under particular conditions while nevertheless exhibiting lower fitness than alternative viable organisations. Adaptation therefore does not guarantee maximal persistence relative to competitors. It ensures only that continuity remains possible. Fitness evaluates how successfully that continuity is maintained relative to other viable variants.
+
+From an APS perspective, fitness consequently presupposes adaptation in much the same way that differential continuity presupposes continuity itself. Before variants can differ in their persistence, they must first remain viable. Adaptive organisation provides the continuity upon which fitness operates. Without adaptive capacities capable of preserving viability under changing conditions, there could be no enduring variants available for differential continuity to distinguish.
+
+The relationship between variation, adaptation, fitness, and natural selection therefore forms a continuous explanatory sequence. Variation introduces organisational novelty. Adaptation determines whether that novelty can be incorporated into viable persistence. Fitness differentiates among viable variants according to their continuity through time. Natural selection then differentially stabilises those variants across generations. Each concept performs a distinct explanatory role, yet each depends upon the continuity established by the preceding stage.
+
+Adaptation should therefore not be confused with fitness, nor treated as merely another name for evolutionary success. Adaptation explains how living systems remain viable through change. Fitness explains why some viable organisations persist more successfully than others. Together they connect the maintenance of continuity in the present with the differential continuity that shapes evolutionary transformation through time.
+
+[[box:variation-adaptation-fitness-selection]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-concepts.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-concepts.png"
+      alt="Variation, adaptation, fitness, natural selection, and evolutionary transformation as a continuity-preserving sequence within the APS evolutionary architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Evolutionary Concepts Visual.</strong>
+    APS distinguishes variation, adaptation, fitness, and natural selection as successive explanatory moments within a continuity-preserving architecture. Variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises those variants across evolutionary time.
+  </p>
+</div>
+
 ## Adaptation and Natural Selection
 
 Adaptation and natural selection are closely related, but they are not identical. In many evolutionary discussions the two concepts are treated almost interchangeably, creating the impression that adaptation is simply the outcome of selection. APS draws a sharper distinction because the explanatory roles of the two concepts differ.
@@ -247,9 +296,13 @@ This distinction clarifies an important feature of biological explanation. Livin
 
 APS therefore treats adaptation as conceptually prior to selection while recognising that the two processes remain deeply interconnected. Adaptation provides the mechanisms through which viability is preserved under changing conditions. Selection contributes to the historical retention, modification, and distribution of adaptive organisation across populations and evolutionary timescales.
 
-Seen in this way, adaptation forms the organisational bridge between persistence and evolution. Living systems remain viable because they adapt. Evolutionary lineages transform because adaptive organisations are differentially preserved through time. Together, adaptation and selection explain how organised persistence both survives and changes across biological history.
+Seen in this way, adaptation forms the organisational bridge between persistence and evolution. Living systems remain viable because they adapt, while evolutionary lineages transform because adaptive organisations are differentially preserved through time. Together, adaptation and selection explain how organised persistence both survives and changes across biological history.
+
+Natural selection does not generate adaptation ex nihilo. Selection operates upon already existing adaptive organisation whose viability has already been established through continuity-preserving reorganisation. Adaptive capacities preserve viability in the present, while selection influences which adaptive organisations become historically stabilised across generations. Selection therefore presupposes adaptation rather than replacing it.
 
 [[box:adaptation-is-not-selection]]
+
+Natural selection does not generate adaptation ex nihilo. Selection operates upon already existing adaptive organisation. Adaptive capacities preserve viability in the present, while selection influences which adaptive organisations become historically stabilised across generations.
 
 ## Adaptation and Resilience
 
@@ -294,6 +347,8 @@ Living systems persist in a world characterised by continual transformation. Mat
 Adaptation is the name APS gives to this continuity-preserving reorganisation. It is not a movement toward perfection, nor merely a collection of advantageous traits. Rather, it is the ongoing process through which viability-oriented systems sustain organised persistence despite perturbation, uncertainty, and change. Through adaptation, living systems maintain the conditions required for their own continued existence while remaining capable of transformation across multiple scales and timescales.
 
 Understanding adaptation in this way reveals why it occupies such a central position within biological explanation. It connects persistence with viability, links physiology with evolution, integrates development with ecology, and provides the organisational bridge through which natural selection becomes intelligible within a broader framework of organised persistence. Adaptation therefore stands as one of the principal processes through which life sustains continuity while remaining open to historical transformation.
+
+Within the APS evolutionary framework, adaptation occupies the organisational centre of evolutionary continuity. Inheritance reproduces continuity across generations. Variation introduces novelty into that continuity. Adaptation determines whether novelty can be incorporated into viable persistence. Fitness differentiates among viable variants, and natural selection differentially stabilises those variants through time. Evolutionary transformation therefore emerges not from variation or selection alone but from the continual adaptive reorganisation of organised persistence across biological history.
 
 ---
 
