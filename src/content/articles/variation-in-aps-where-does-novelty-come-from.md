@@ -6,13 +6,13 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-06-15
+revised: 2026-06-19
 cluster: evolutionary-dynamics
 role: core
 abstract: |
-  In the Agency–Process–Scale (APS) framework, variation is not treated as random deviation from a fixed template, but as the outcome of ongoing reorganisation within viability-oriented, constraint-closed systems. This article explains the sources of biological novelty by integrating development, organism–environment coupling, and multiscale dynamics into a unified account of how new forms of organisation arise.
+  In the Agency–Process–Scale (APS) framework, variation is not treated as random deviation from a fixed template, but as the generation of differences within inherited, persistence-sustaining organisation. Variation emerges through ongoing reorganisation within viability-oriented systems and provides the differences in continuity upon which fitness and natural selection subsequently operate. This article explains the sources of biological novelty by integrating development, organism–environment coupling, and multiscale dynamics into a unified account of how new forms of organisation arise.
 keyPoints:
-  - Variation in APS arises from the reorganisation of viability-oriented, constraint-closed systems.
+  - APS arises from the reorganisation of inherited, persistence-sustaining organisation.
   - Novelty is generated through development, not added to it.
   - Organism–environment coupling is a source of variation, not merely a context for selection.
   - Genetic mutation contributes to variation but does not exhaust its sources.
@@ -47,7 +47,7 @@ Living systems are dynamic processes that continuously maintain and adjust their
 
 Novelty, therefore, is not externally introduced but **generated within the ongoing activity of living systems**.
 
-Variation in this sense arises only within systems capable of sustaining organised persistence. These differences become evolutionarily consequential when they are stabilised through inheritance and filtered through their effects on continued viability.
+Variation in this sense arises only within systems capable of sustaining organised persistence. These differences become evolutionarily consequential when they are stabilised through inheritance and filtered through their effects on continued viability. Variation therefore occupies a distinctive position within the APS continuity architecture. Inheritance reproduces continuity across generations, while variation generates differences within that continuity. These differences subsequently contribute to fitness and become subject to natural selection. Variation is therefore not external to continuity but one of the processes through which continuity becomes historically transformable.
 
 ## Beyond Random Deviation
 
@@ -75,6 +75,8 @@ Because development is dynamic and context-sensitive, it does not produce identi
 - internal dynamics of the system  
 
 Novelty emerges from the **flexibility and responsiveness of developmental processes**, not from isolated mutations alone.
+
+Development therefore does more than reconstruct inherited organisation. It also contributes to the generation of differences within inherited continuity. Variation emerges through the dynamic re-establishment of viable organisation rather than through the addition of novelty to an otherwise fixed system.
 
 ## Organism–Environment Coupling
 
@@ -115,15 +117,32 @@ This constraint gives variation its distinctive character:
 
 Variation is therefore the exploration of **viable possibilities within a structured space of organisation**.
 
+This relationship is important because viability not only constrains variation but also helps determine which differences become evolutionarily consequential. Variation generates differences within continuity, but only some differences contribute to future continuity under particular developmental and ecological conditions. Variation therefore provides the raw differences upon which fitness is later assessed.
+
 ## Variation in the Evolutionary Framework
 
-Within the APS account:
-- Persistence establishes the existence of systems  
-- Inheritance maintains continuity  
-- Variation introduces differences  
-- Adaptation reorganises activity  
-- Selection filters outcomes  
-- evolution describes long-term transformation  
+Within APS, biological agency sustains viability-oriented activity, viability enables organised persistence, inheritance reproduces continuity across generations, and variation introduces differences within that continuity. These differences contribute to fitness by affecting the continuity of persistence-sustaining organisation under particular developmental and ecological conditions. Natural selection then differentially stabilises those differences through evolutionary time, contributing to long-term evolutionary transformation.
+
+Variation is therefore the source of evolutionary novelty, but it is not an isolated process. It operates within an inherited continuity architecture and becomes evolutionarily significant through its relationships to fitness, natural selection, and historical continuity. Without variation there would be no evolutionary transformation. Without inherited continuity there would be no continuity within which variation could occur.
+
+The relationship between variation and fitness is particularly important. Variation generates differences among forms of persistence-sustaining organisation. Fitness reflects differences in the continuity of those forms across generations. Natural selection then differentially stabilises those differences. Variation therefore initiates a sequence that links novelty to historical transformation.
+
+<div class="aps-diagram aps-diagram-large">
+  <a href="/assets/diagrams/evolution-variation.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-variation.png"
+      alt="Variation as the structured generation of differences within inherited continuity"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Primary Variation Visual.</strong>
+    APS interprets variation as the structured generation of differences within inherited continuity. Development, organism–environment coupling, adaptive reorganisation, and genetic change contribute to variation, which generates differences in continuity that become relevant to fitness, natural selection, and evolutionary transformation.
+  </p>
+</div>
+
+[[box:variation-fitness-and-natural-selection]]
 
 Variation is the **source of novelty**, but it is inseparable from the processes that generate and constrain it.
 
@@ -138,7 +157,11 @@ This shift:
 - avoids reducing novelty to random mutation  
 - explains how variation can be both structured and creative  
 
+Viewed in this way, variation is best understood not as a departure from continuity but as a transformation within continuity. Living systems generate differences while preserving the organisational conditions required for viability. Novelty therefore emerges from the ongoing reorganisation of persistence-sustaining organisation rather than from isolated disruptions imposed upon it.
+
 Variation is thus not an external input to evolution, but an **intrinsic feature of living organisation in motion**.
+
+Inheritance, variation, fitness, and natural selection therefore perform distinct but complementary roles within evolutionary organisation. Inheritance reproduces continuity. Variation generates differences within continuity. Fitness reflects differences in continuity. Natural selection differentially stabilises those differences through evolutionary time. Together these processes explain how organised persistence remains both continuous and transformable across generations.
 
 ## Continue Exploring
 
@@ -149,6 +172,6 @@ Variation is thus not an external input to evolution, but an **intrinsic feature
 
 ## Key Point
 
-Variation in APS is the structured reorganisation of viability-oriented organisation—the continual generation of novel, viable possibilities within living systems.
+Variation in APS is the structured generation of differences within inherited, persistence-sustaining organisation. It introduces the novelty upon which fitness and natural selection operate, linking continuity in the present to evolutionary transformation across time.
 
 

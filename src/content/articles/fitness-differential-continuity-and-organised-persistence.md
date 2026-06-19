@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-18
-revised: 2026-06-18
+revised: 2026-06-19
 cluster: evolutionary-dynamics
 
 abstract: >
