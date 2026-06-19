@@ -40,10 +40,11 @@ In APS, variation is understood as the **reorganisation of viability-oriented, c
 
 Because evolution in APS is the transformation of such organisation over time, variation arises as the ongoing production of differences within systems that sustain organised persistence.
 
-Living systems are dynamic processes that continuously maintain and adjust their internal organisation. Variation arises within this activity as systems:
-- respond to changing conditions  
-- reorganise internal processes  
-- modify their coupling with the environment  
+Living systems continuously respond to changing conditions,
+reorganise internal processes, and modify their coupling
+with the environment. Variation emerges through these
+ongoing activities rather than appearing as an external
+addition to an otherwise fixed system.
 
 Novelty, therefore, is not externally introduced but **generated within the ongoing activity of living systems**.
 
@@ -53,10 +54,7 @@ Variation in this sense arises only within systems capable of sustaining organis
 
 Conventional evolutionary accounts often describe variation as random mutation followed by selection. APS retains the importance of mutation but rejects the idea that variation is fundamentally random in origin.
 
-Variation is:
-- **constrained by organisation**  
-- shaped by developmental pathways  
-- influenced by environmental interactions  
+Variation is constrained by organisation, shaped by developmental pathways, and influenced by environmental interactions. Although randomness may characterise certain molecular events, the expression and consequences of variation are structured by the organisation of the system within which those events occur. Variation therefore emerges within an already organised context rather than as unstructured noise imposed upon living systems.
 
 Randomness may characterise certain molecular events, but the **expression and consequences of variation are structured** by the organisation of the system.
 
@@ -64,15 +62,7 @@ Variation is therefore not noise around a fixed form, but **structured possibili
 
 ## Development as a Source of Novelty
 
-Development is a primary source of variation in APS. It is the process through which a system:
-- reconstitutes inherited organisation  
-- integrates environmental inputs  
-- produces a viable organism  
-
-Because development is dynamic and context-sensitive, it does not produce identical outcomes. Instead, it generates **systematic variation** through:
-- differences in initial conditions  
-- environmental variation  
-- internal dynamics of the system  
+Development is a primary source of variation in APS because it is the process through which inherited organisation is reconstituted, environmental inputs are integrated, and viable organisms are produced. Because development is dynamic and context-sensitive, it does not generate identical outcomes on every occasion. Differences in initial conditions, environmental circumstances, and internal system dynamics contribute to systematic variation, allowing novelty to emerge through the developmental process itself. 
 
 Novelty emerges from the **flexibility and responsiveness of developmental processes**, not from isolated mutations alone.
 
@@ -82,10 +72,7 @@ Development therefore does more than reconstruct inherited organisation. It also
 
 Variation also arises from the ongoing coupling between organisms and their environments.
 
-Living systems actively engage with their surroundings, modifying and being modified by them. This interaction:
-- creates new conditions for development  
-- alters the constraints under which systems operate  
-- generates new possibilities for organisation  
+Living systems actively engage with their surroundings, modifying and being modified by them. These interactions create new conditions for development, alter the constraints under which systems operate, and generate novel organisational possibilities. Environmental factors are therefore not merely selective pressures acting upon organisms from outside but active contributors to the generation of variation itself.
 
 Environmental factors are therefore not merely selective pressures but **sources of variation** in their own right.
 
@@ -95,14 +82,9 @@ This perspective integrates ecological and developmental processes into a unifie
 
 Genetic mutation remains an important contributor to variation, but its role is reframed.
 
-Mutations introduce changes at the molecular level, but their significance depends on:
-- how they are integrated into development  
-- how they affect system-level organisation  
-- whether they contribute to viable function  
+Mutations introduce changes at the molecular level, but their significance depends upon how those changes are integrated into development, how they affect system-level organisation, and whether they contribute to viable function. Molecular change becomes biologically consequential only through its incorporation into the larger organisation of the living system.
 
-Most mutations have no lasting effect because they are:
-- buffered by organisational stability  
-- eliminated by failure to sustain viability  
+Most mutations have no lasting effect because they are either buffered by organisational stability or eliminated when they fail to contribute to continued viability. The persistence of a change therefore depends less upon its molecular origin than upon its relationship to the organisation of the system as a whole. 
 
 Those that do contribute to variation do so **within the constraints of the system**, not as independent drivers of novelty.
 
@@ -110,10 +92,7 @@ Those that do contribute to variation do so **within the constraints of the syst
 
 Variation is constrained by viability. Not all possible changes can be realised because systems must remain within bounds that allow continued existence.
 
-This constraint gives variation its distinctive character:
-- it is **open-ended but not arbitrary**  
-- flexible but not unconstrained  
-- creative but bounded by organisation  
+This constraint gives variation its distinctive character. Variation is open-ended without being arbitrary, flexible without being unconstrained, and creative without escaping the organisational requirements of viability. Variation is therefore best understood as the exploration of viable possibilities within a structured space of organisation rather than the unrestricted generation of novelty.
 
 Variation is therefore the exploration of **viable possibilities within a structured space of organisation**.
 
@@ -152,16 +131,13 @@ Without variation, there is no transformation. Without organisation, variation h
 
 By reframing variation as reorganisation, APS shifts the focus from isolated events to system-level dynamics.
 
-This shift:
-- integrates molecular, developmental, and ecological sources of variation  
-- avoids reducing novelty to random mutation  
-- explains how variation can be both structured and creative  
+This shift integrates molecular, developmental, and ecological sources of variation into a unified explanatory framework. It avoids reducing novelty to random mutation while explaining how variation can be simultaneously structured, creative, and biologically consequential. 
 
 Viewed in this way, variation is best understood not as a departure from continuity but as a transformation within continuity. Living systems generate differences while preserving the organisational conditions required for viability. Novelty therefore emerges from the ongoing reorganisation of persistence-sustaining organisation rather than from isolated disruptions imposed upon it.
 
 Variation is thus not an external input to evolution, but an **intrinsic feature of living organisation in motion**.
 
-Inheritance, variation, fitness, and natural selection therefore perform distinct but complementary roles within evolutionary organisation. Inheritance reproduces continuity. Variation generates differences within continuity. Fitness reflects differences in continuity. Natural selection differentially stabilises those differences through evolutionary time. Together these processes explain how organised persistence remains both continuous and transformable across generations.
+Inheritance, variation, fitness, and natural selection therefore perform distinct but complementary roles within evolutionary organisation. Inheritance reproduces continuity across generations, variation generates differences within that continuity, fitness reflects differences in continuity among alternative forms of organisation, and natural selection differentially stabilises those differences through time. Together these processes explain how organised persistence remains simultaneously continuous and transformable, allowing evolutionary history to emerge from the ongoing reorganisation of living systems.
 
 ## Continue Exploring
 
