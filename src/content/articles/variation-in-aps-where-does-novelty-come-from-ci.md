@@ -32,6 +32,31 @@ relatedArticles:
   - inheritance-and-continuity-in-aps
   - selection-revisited-what-does-selection-actually-act-on
   - organism-world-coupling-agency-not-control
+references:
+  - id: spencer2026agency
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00547-6
+
+  - id: west-eberhard2003
+    authors: West-Eberhard, M. J.
+    year: 2003
+    title: Developmental Plasticity and Evolution
+    publisher: Oxford University Press
+
+  - id: odling-smee2003
+    authors: Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W.
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: Princeton University Press
+
+  - id: walsh2015
+    authors: Walsh, D. M.
+    year: 2015
+    title: Organisms, Agency, and Evolution
+    publisher: Cambridge University Press
 ---
 
 ## Variation as Reorganisation
