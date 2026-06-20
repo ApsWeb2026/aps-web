@@ -6,17 +6,16 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-15
+revised: 2026-06-20
 cluster: methodology-and-explanation
 definition: >
-  A taxon is a recognised unit of biological classification that designates a
-  historically continuous pattern of viability-oriented organisation. In APS, a
-  taxon is not a static group defined by shared traits or a mere branch of a
-  genealogical tree, but a classification applied to a stabilised pattern of
-  constraint-closed, agential organisation persisting and transforming across
-  time and scale.
+  A taxon is a classificatory designation applied to a historically continuous
+  pattern of viability-oriented organisation. In APS, taxa are not fixed
+  biological entities, natural kinds, or fundamental units of life, but
+  classifications used to identify and describe recurring patterns of organised
+  persistence across evolutionary time and scale.
 inBrief: >
-  A taxon is a classification of a persistent pattern of viable organisation.
+   A taxon is a classificatory designation applied to organised persistence.
 seeAlso:
   - species
   - biological-individual
@@ -27,24 +26,22 @@ seeAlso:
   - persistence
   - constraint-closure
   - biological-agency
+  - lineage
+  - classification
+  - adaptation
 ---
 
 ## Conventional framing
 In standard biology, a taxon is a category (e.g. species, genus, family) used to group organisms based on shared characteristics or common ancestry. Taxa are often treated as discrete units defined by diagnostic traits or by their position within a phylogenetic tree.
 
 ## APS reframing
-APS reinterprets taxa as **classificatory designations applied to processual and organisational realities** rather than as static or ontologically fundamental entities. A taxon designates a **historically extended continuity of constraint-closed organisation**—a lineage not merely of descent, but of **viability-oriented functioning**.
+APS interprets taxa as classificatory designations rather than biological entities. A taxon does not generate organisation, exercise agency, or constitute a unit of viability-oriented activity. Instead, it identifies a recurring pattern within the continuity and transformation of organised persistence.
 
-Traits, genes, and phylogenetic relationships remain evidentially important, but they do not define the taxon. Instead, they are **expressions or traces of an underlying organisational continuity** that is maintained through inheritance and modified through transformation.
+Species, genera, families, orders, and other taxonomic categories are all taxa. They differ not because they represent different kinds of biological reality, but because they classify continuity at different evolutionary scales. Species typically identify relatively narrow lineage-patterns, whereas higher taxa classify broader historical continuities extending across multiple lineages.
 
-A taxon does not itself constitute a biological individual or process, but is an **analytical designation used to stabilise and communicate patterns of organisation**.
+Traits, genes, and phylogenetic relationships remain important sources of evidence, but they do not define taxa. Rather, they provide evidence of the organisational continuities that taxonomic classifications seek to identify and describe.
 
-From this perspective:
-- A taxon is not defined by fixed properties, but by **ongoing persistence**
-- Its identity lies in the **organisation it designates**, not in trait similarity alone
-- Its boundaries may be **graded or context-dependent**, reflecting the dynamics of biological processes
-
-Taxa therefore track the **persistence–inheritance–transformation** structure of evolution, rather than merely grouping organisms by resemblance or ancestry.
+Taxa are therefore best understood as classifications of historically continuous patterns of viability-oriented organisation. Their purpose is to track recurring forms of organised persistence rather than to identify fixed biological kinds.
 
 ## Key Point
-A taxon in APS is not a biological entity but a **recognised classification of a persistent, viability-oriented pattern of organisation across time and scale**.
+A taxon in APS is a classificatory designation applied to a historically continuous pattern of organised persistence. Taxa classify evolutionary continuity; they do not constitute the biological processes that generate it.

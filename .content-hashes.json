@@ -1270,8 +1270,8 @@
     "lockedSince": "2026-05-27"
   },
   "glossary/species": {
-    "hash": "27358c9d82ea4486",
-    "revised": "2026-06-15",
+    "hash": "83ddd22e71a1b62c",
+    "revised": "2026-06-20",
     "lockedSince": "2026-04-12"
   },
   "glossary/symbolic-coordination": {
@@ -1280,8 +1280,8 @@
     "lockedSince": "2026-05-29"
   },
   "glossary/taxon": {
-    "hash": "30af3fd6bcf16a0d",
-    "revised": "2026-06-15",
+    "hash": "13fda55b1cb1e35e",
+    "revised": "2026-06-20",
     "lockedSince": "2026-04-12"
   },
   "glossary/technology": {
@@ -1403,5 +1403,15 @@
     "hash": "b6a3b8c13eed2408",
     "revised": "2026-06-20",
     "lockedSince": "2026-06-18"
+  },
+  "articles/evolution-taxonomy-and-the-reorganisation-of-biological-explanation": {
+    "hash": "4f9f36ee42eb5fa9",
+    "revised": "2026-06-20",
+    "lockedSince": "2026-06-20"
+  },
+  "glossary/lineage": {
+    "hash": "f4508c6b27eaf1c4",
+    "revised": "2026-06-20",
+    "lockedSince": "2026-06-20"
   }
 }
