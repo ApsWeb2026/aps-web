@@ -3,7 +3,7 @@ title: Space, Time, and Organisation in Biology — An APS Clarification
 slug: space-time-and-organisation-in-biology
 type: article
 date: 2026-05-01
-revised: 2026-06-15
+revised: 2026-06-21
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-01
@@ -81,6 +81,21 @@ Much biological description relies on hierarchical language, referring to “lev
 From an organisational perspective, biological systems are not stratified in this way. Their activity is distributed and coordinated across domains, with processes at different spatial and temporal extents continuously interacting. Development is not a sequence of isolated stages but a continuous reorganisation of activity. Similarly, what are often described as “levels” are better understood as domains of organisation that are dynamically related rather than hierarchically ordered.
 
 Replacing hierarchical language with organisational terms—such as domains, processes, and distributions—helps to align description with the underlying structure of biological systems. It also clarifies that explanation must account for coordination across these domains, rather than reduction to a single one or fragmentation into disconnected parts.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/conceptual-hierarchy.png"
+      alt="From hierarchical levels to cross-scale organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
+    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+  </p>
+</div>
 
 ## 6. Relation to Physical Space-Time
 

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-06-15
+revised: 2026-06-21
 cluster: philosophy-of-biology
 abstract: >
   APS rejects the treatment of hierarchy as an ontological or explanatory principle in biology. While hierarchical language can function as a descriptive shorthand, living systems are not organised into discrete tiers of causal authority. APS instead understands biological organisation as continuous, scale-coupled, and constraint-mediated. Apparent levels of organisation are explanatory abstractions imposed upon dynamically integrated processes distributed across space and time.
@@ -87,6 +87,21 @@ APS does not deny that such language can be useful descriptively.
 The problem arises when descriptive hierarchy becomes explanatory ontology.
 
 APS rejects the idea that living systems are literally organised into discrete tiers of causal authority or explanatory priority. Biological organisation is not fundamentally stratified into stacked levels through which causation flows upward or downward. Instead, living systems are organised through continuous, scale-coupled, constraint-mediated processes distributed across space and time.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/conceptual-hierarchy.png"
+      alt="From hierarchical levels to cross-scale organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
+    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+  </p>
+</div>
 
 [[box:scale-is-not-hierarchy]]
 

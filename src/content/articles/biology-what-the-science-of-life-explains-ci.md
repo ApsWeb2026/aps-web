@@ -7,7 +7,7 @@ abstract: Biology seeks to explain how living systems sustain their own persiste
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-06-17
+revised: 2026-06-21
 cluster: methodology-and-explanation
 keyPoints:
   - Biology explains how living systems sustain their own persistence and how the organisation supporting that persistence changes through time.
@@ -62,6 +62,21 @@ Biology therefore seeks to explain two intimately connected phenomena. First, it
 The most fundamental phenomenon biology investigates is not structure but organised persistence. Living systems are not defined merely by the components from which they are constructed. They are defined by the organisation through which those components participate in the ongoing maintenance of the system itself. What distinguishes a living system from a non-living assemblage is not the presence of particular materials but the persistence of an organised pattern of activity capable of sustaining its own continuation.
 
 A living cell remains alive because countless biochemical processes continuously regenerate metabolic organisation. An organism persists because physiological, developmental, and behavioural processes maintain functional coherence despite constant material turnover. At larger scales, ecological systems persist through organised networks of interaction that regulate flows of energy, matter, and information across populations and environments. Although these examples differ in scale and complexity, they share a common feature: persistence depends upon the continual maintenance of organisation.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/conceptual-hierarchy.png"
+      alt="From hierarchical levels to cross-scale organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
+    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+  </p>
+</div>
 
 This dependence on organisation means that life cannot be understood as a static condition. Living systems remain viable only so long as they continue to sustain the processes that support their existence. When this organisation can no longer be maintained, viability declines and persistence becomes increasingly fragile. Life therefore exists not as a fixed state but as an ongoing accomplishment that must continually be renewed.
 

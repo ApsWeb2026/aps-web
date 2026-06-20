@@ -7,7 +7,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-16
-revised: 2026-06-16
+revised: 2026-06-21
 
 cluster: methodology-and-explanation
 role: core
@@ -98,8 +98,6 @@ references:
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
-
-# The Explanatory Geometry of Biology
 
 ## What This Article Explains
 
@@ -357,6 +355,21 @@ APS therefore treats biological explanation as possessing analysable organisatio
 The explanatory target of biology is organised persistence. The explanatory grammar of biology consists of agency, process, and scale. Organisational continuity analysis provides the mode through which persistence becomes intelligible, while explanatory adequacy evaluates how successfully biological explanations illuminate the conditions that make persistence possible.
 
 Biological understanding therefore emerges not from any single explanatory perspective but from the coordinated integration of explanatory relations across multiple organisational domains.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/conceptual-hierarchy.png"
+      alt="From hierarchical levels to cross-scale organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
+    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+  </p>
+</div>
 
 The broader philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
 

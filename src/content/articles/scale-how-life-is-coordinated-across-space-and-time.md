@@ -5,7 +5,7 @@ slug: "scale-how-life-is-coordinated-across-space-and-time"
 type: article
 abstract: "This article explains scale in APS as the spatial and temporal coordination of biological organisation, showing how living systems integrate processes across multiple interacting domains."
 status: canonical
-revised: 2026-04-09
+revised: 2026-04-21
 cluster: conceptual-foundations
 role: core
 keyPoints:
@@ -45,6 +45,21 @@ This approach is useful, but it introduces a simplifying assumption: that one do
 Living systems do not conform to this model. Processes at different scales are not independent layers but interacting domains of activity that continuously influence one another.
 
 Scale in APS therefore replaces level-based hierarchy with a processual account of coordination.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/conceptual-hierarchy.png"
+      alt="From hierarchical levels to cross-scale organisation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
+    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+  </p>
+</div>
 
 ## Scale as Spatial–Temporal Organisation
 
