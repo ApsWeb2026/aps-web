@@ -90,7 +90,7 @@
     "lockedSince": "2026-05-28"
   },
   "articles/evolution": {
-    "hash": "8d18dc36bdc23ee4",
+    "hash": "469934612d6560dc",
     "revised": "2026-06-20",
     "lockedSince": "2026-05-28"
   },
@@ -845,13 +845,13 @@
     "lockedSince": "2026-04-09"
   },
   "articles/what-is-a-species-in-aps": {
-    "hash": "20a1fcf94ad4d853",
-    "revised": "2026-06-15",
+    "hash": "ff143623a9a7bb2a",
+    "revised": "2026-06-20",
     "lockedSince": "2026-04-12"
   },
   "articles/what-is-a-taxon-in-aps": {
-    "hash": "8cb5b9187c86af9b",
-    "revised": "2026-06-15",
+    "hash": "0acd9399492c412f",
+    "revised": "2026-06-20",
     "lockedSince": "2026-04-12"
   },
   "articles/what-is-an-organism": {

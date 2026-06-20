@@ -393,21 +393,21 @@ Most importantly, APS helps explain why evolution remains fundamentally a biolog
 
 This perspective also helps clarify the relationship between many concepts that are often treated separately within biology. Genes, development, inheritance, adaptation, ecology, fitness, and natural selection are not independent explanatory domains. Each contributes to understanding how organised persistence is maintained and how persistence-sustaining organisation is transformed through historical time. Evolution therefore provides a unifying framework through which diverse biological phenomena can be understood as interconnected dimensions of continuity and transformation.
 
+
 <div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-concepts.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/evolution-continuity-sequence.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/evolution-concepts.png"
-      alt="Variation, adaptation, fitness, natural selection, and evolutionary transformation as a continuity-preserving sequence within the APS evolutionary architecture"
+      src="/assets/diagrams/evolution-continuity-sequence.png"
+      alt="From novelty to evolutionary transformation: variation, adaptation, fitness, natural selection, and evolutionary transformation"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Evolutionary Concepts Visual.</strong>
-    APS distinguishes variation, adaptation, fitness, and natural selection as successive explanatory moments within a continuity-preserving architecture. Variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises those variants across evolutionary time.
+    <strong>From Novelty to Evolutionary Transformation.</strong>
+    APS interprets evolution as a continuity-preserving sequence in which variation generates novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises continuity across generations. Evolutionary transformation emerges from the interaction of these processes within the broader architecture of organised persistence.
   </p>
 </div>
-
 
 ## Conclusion
 
