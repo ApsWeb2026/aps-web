@@ -36,6 +36,27 @@ relatedGlossaryTerms:
   - biological-agency
 relatedArticles:
   - classification-without-essentialism
+references:
+  - id: DupreNicholson2018
+    authors: Dupré, J., & Nicholson, D. J.
+    year: 2018
+    title: A Manifesto for a Processual Philosophy of Biology
+    publisher: Oxford University Press
+
+  - id: Hull1965
+    authors: Hull, D. L.
+    year: 1965
+    title: "The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis"
+    journal: British Journal for the Philosophy of Science
+    volume: 15(60)
+    pages: 314–326
+
+  - id: Spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: https://doi.org/10.1007/s13752-026-00547-6
 ---
 
 ## Introduction

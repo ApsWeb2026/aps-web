@@ -35,6 +35,25 @@ relatedArticles:
   - what-is-evolution-in-aps
   - variation-in-aps-where-does-novelty-come-from
   - inheritance-and-continuity-in-aps
+references:
+  - id: deQueiroz1998
+    authors: de Queiroz, K.
+    year: 1998
+    title: The General Lineage Concept of Species, Species Criteria, and the Process of Speciation
+    publisher: Oxford University Press
+
+  - id: Mayden1997
+    authors: Mayden, R. L.
+    year: 1997
+    title: "A Hierarchy of Species Concepts: The Denouement in the Saga of the Species Problem"
+    publisher: Chapman & Hall
+
+  - id: Spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: https://doi.org/10.1007/s13752-026-00547-6
 ---
 
 ## Introduction
