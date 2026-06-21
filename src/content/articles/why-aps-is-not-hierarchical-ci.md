@@ -110,8 +110,6 @@ The success of this language has encouraged many biologists and philosophers to 
 
 APS rejects this second step. The framework does not deny that hierarchical language can be useful, nor does it deny that biological systems exhibit differences in scale, organisation, or persistence. What it rejects is the inference that such differences imply the existence of distinct tiers of biological reality. Living systems are not organised as stacks of separate domains. They persist through continuously interacting processes extending across space and time.
 
-> **Where this article fits.**
-> This article examines why APS rejects hierarchy as an ontological and explanatory principle in biology. It focuses on the philosophical assumptions built into hierarchical thinking and their consequences for biological explanation. Readers seeking APS's positive account of scale and cross-scale organisation should also see *Levels vs Scale — Why Biological Organisation Is Not Hierarchical*.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
