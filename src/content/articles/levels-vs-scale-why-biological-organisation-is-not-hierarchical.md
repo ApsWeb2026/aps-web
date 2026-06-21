@@ -16,7 +16,7 @@ abstract: >
   levels ranging from molecules to ecosystems. While useful for classification
   and description, hierarchical models often misrepresent the organisation of
   living systems by treating biological reality as a stack of separate domains.
-  APS replaces levels with scale as the primary explanatory framework.
+  APS replaces hierarchical levels with scale as the primary explanatory framework.
   Organised persistence is maintained through coordinated activity extending
   across multiple spatial and temporal scales simultaneously, from molecular
   dynamics and physiological regulation to development and evolution. Scale
@@ -116,9 +116,10 @@ references:
     doi: https://doi.org/10.1007/s13752-026-00547-6
 ---
 
-# Levels vs Scale — Why Biological Organisation Is Not Hierarchical
-
 ## The Limits of Hierarchical Thinking
+
+> **Where this article fits.**
+> This article explains why APS replaces hierarchical levels with scale as the primary framework for understanding biological organisation. It focuses on how organised persistence extends across multiple spatial and temporal scales. Readers interested in the philosophical reasons APS rejects hierarchy as an explanatory ontology should also see *Why APS Is Not Hierarchical*.
 
 Biology has long been organised around the concept of hierarchical levels. Textbooks commonly describe living systems as nested layers extending from molecules and cells through tissues, organs, organisms, populations, and ecosystems. This framework suggests that biological reality is composed of discrete domains stacked upon one another, with each level building upon the one below. Such descriptions can be useful for teaching, classification, and practical investigation because they provide convenient ways of grouping phenomena that occur at different spatial scales and often help organise specialised fields of study. Molecular biology, physiology, ecology, and evolutionary biology are frequently associated with particular regions of this hierarchy.
 
@@ -144,7 +145,7 @@ For these reasons, hierarchical models often succeed as classificatory tools whi
 
 APS replaces levels with **scale**. Scale does not refer to a position within a hierarchy. Instead, it refers to the spatial and temporal dimensions across which organised persistence is coordinated, maintained, and transformed. The concept shifts attention away from discrete layers of organisation and toward the relations through which living systems sustain themselves across space and time.
 
-Living systems exist simultaneously across many scales. Molecular interactions occur within cells, cells participate in physiological processes, physiological regulation supports organismal activity, organisms interact with environments, and lineages persist across generations. These are not separate layers of reality stacked upon one another. They are interconnected dimensions of the same organised persistence. What appears as multiple levels from a hierarchical perspective becomes a network of coordinated processes when viewed through the lens of scale.
+Living systems operate simultaneously across many scales. Molecular interactions occur within cells, cells participate in physiological processes, physiological regulation supports organismal activity, organisms interact with environments, and lineages persist across generations. These are not separate layers of reality stacked upon one another. They are interconnected dimensions of the same organised persistence. What appears as multiple levels from a hierarchical perspective becomes a coordinated organisation extending across scales when viewed through the lens of APS.
 
 To describe a system in terms of scale is therefore not to divide it into parts but to identify how its organisation extends across space and time. Scale specifies the dimensions across which viability is maintained, the temporal durations across which continuity is preserved, and the relations through which activities at different scales contribute to the persistence of the whole. The concept is inherently relational because it focuses not on isolated components but on the organisation connecting them.
 
@@ -221,7 +222,7 @@ Understanding the organism therefore requires abandoning hierarchical thinking i
 
 Replacing levels with scale has profound consequences for biological explanation. If living systems are organised through coordinated persistence across multiple scales, then explanation cannot consist merely in identifying mechanisms at a particular level or tracing causal chains between levels. Biological explanation must instead account for how organised persistence is maintained, reorganised, and transformed across space and time.
 
-This shift alters the focus of explanation. Rather than treating biological phenomena as isolated events requiring local causes, APS interprets them as aspects of larger patterns of organised persistence. The question is no longer simply how a process occurs but how that process contributes to maintaining the viability of the system within which it operates. Molecular mechanisms, physiological regulation, behavioural responses, developmental trajectories, and evolutionary transformations become intelligible through their roles within the maintenance and transformation of organised organisation.
+This shift alters the focus of explanation. Rather than treating biological phenomena as isolated events requiring local causes, APS interprets them as aspects of larger patterns of organised persistence. The question is no longer simply how a process occurs but how that process contributes to maintaining the viability of the system within which it operates. Molecular mechanisms, physiological regulation, behavioural responses, developmental trajectories, and evolutionary transformations become intelligible through their roles within the maintenance and transformation of organised persistence.
 
 A scale-based framework also provides a common explanatory language for domains that are often treated separately. Physiology, development, ecology, and evolution are traditionally organised into distinct disciplines because they investigate phenomena occurring at different spatial and temporal dimensions. APS reveals that these domains are united by a shared explanatory target. Each seeks to understand how organised persistence is maintained or transformed across particular scales. Differences between fields therefore reflect differences in explanatory focus rather than differences in the fundamental nature of biological reality.
 
@@ -249,4 +250,4 @@ Scale is therefore not merely a replacement for hierarchy. It is a different way
 
 Seen in this way, scale is not an alternative vocabulary imposed upon biology. It is a consequence of recognising what biology actually explains. Organised persistence cannot be confined to a particular level because it extends across the full organisation of the living system. Understanding life therefore requires tracing the spatial and temporal dimensions through which viability is maintained, continuity is preserved, and organisation is transformed.
 
-**Key Point.** Biological organisation is not hierarchical but scale-dependent. Living systems persist through the coordinated integration of processes extending across multiple spatial and temporal scales, and biological explanation consists in understanding how this organised persistence is maintained and transformed through time.
+**Key Point.** Biological organisation is not hierarchical but organised across scales. Living systems persist through the coordinated integration of processes extending across multiple spatial and temporal dimensions, and biological explanation consists in understanding how this organised persistence is maintained and transformed through time.
