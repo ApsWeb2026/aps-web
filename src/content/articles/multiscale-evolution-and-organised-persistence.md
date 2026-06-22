@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-16
+revised: 2026-06-22
 cluster: evolutionary-dynamics
 role: extension
 
@@ -16,10 +16,7 @@ abstract: >
   for a single privileged level of evolutionary explanation. Because
   viability-oriented organised persistence is itself distributed across
   interacting biological scales, evolutionary transformation must also be
-  multiscale. Evolution emerges through the historical reorganisation of
-  persistence-producing relations extending across molecular, developmental,
-  physiological, behavioural, organismal, ecological, and environmental
-  organisation. Multiscale evolution is therefore not an optional perspective
+  multiscale. Evolution emerges through the historical reorganisation of persistence-producing relations sustaining lineages of organised persistence across interacting biological scales. Multiscale evolution is therefore not an optional perspective
   on biological change but a consequence of the multiscale organisation of
   life itself.
 
@@ -136,7 +133,7 @@ Genes do not persist independently of the cellular processes that express, regul
 
 Persistence is therefore inherently scale-integrated. Living systems maintain viability through coordinated organisational activity distributed across multiple interacting domains. Molecular regulation supports cellular organisation, cellular organisation contributes to physiological continuity, physiology enables organismal persistence, organismal activity shapes ecological relations, and ecological conditions influence developmental opportunities, adaptive possibilities, and evolutionary trajectories. No domain operates in complete isolation because viability itself depends upon the integration of organisational processes extending across scales.
 
-This observation has profound implications for evolutionary theory. If organised persistence is distributed across multiple scales, then evolutionary transformation cannot be confined to a single level of explanation. What evolves is not merely genes, traits, organisms, or populations considered independently. Rather, evolution transforms the persistence-producing relations through which viable organisation is maintained across interacting domains of biological activity.
+This observation has profound implications for evolutionary theory. If organised persistence is distributed across multiple scales, then evolutionary transformation cannot be confined to a single level of explanation. What evolves is not merely genes, traits, organisms, or populations considered independently, but historically continuous lineages of organised persistence distributed across interacting scales. Rather, evolution transforms the persistence-producing relations through which viable organisation is maintained across interacting domains of biological activity.
 
 Evolution therefore becomes the historical transformation of scale-integrated organised persistence. The evolutionary process continuously modifies the organisational relations connecting development, physiology, behaviour, ecology, and environmental interaction. Evolutionary change is distributed across scales because the continuity it transforms is distributed across scales. The multiscale character of evolution is thus not an additional hypothesis imposed upon biology but a direct consequence of how living systems maintain persistence in the first place.
 
@@ -167,6 +164,8 @@ This multiscale character of agency helps explain why evolutionary transformatio
 
 The traditional search for a privileged level of evolutionary explanation therefore overlooks an important feature of living organisation. Viability-oriented activity is inherently scale-integrated because persistence itself depends upon coordinated organisation extending across scales. Evolutionary transformation cannot be localised within a single level for precisely the same reason. The organisation through which agency is realised is distributed across scales, and the historical transformation of that organisation must therefore be distributed across scales as well.
 
+Inheritance reproduces continuity across generations, fitness reflects differences in the continuity of lineages of organised persistence, and natural selection differentially stabilises those differences through time.
+
 ## Development Across Scale
 
 Development occupies a central position within the APS account of multiscale evolution because it links organisational processes that are often treated separately within evolutionary theory. Development integrates molecular activity, physiological regulation, organismal organisation, behavioural interaction, ecological conditions, and environmental influences into a continuous process through which viable persistence is generated and maintained. Evolutionary transformation cannot therefore be understood adequately without understanding how developmental organisation connects these interacting domains of biological activity.
@@ -191,7 +190,7 @@ This dependence has important implications for questions of scale. Selection is 
 
 Selection therefore does not create scale-integrated organisation. It acts upon scale-integrated organisation that already exists. The forms of persistence that selection differentially stabilises are themselves products of interacting developmental, physiological, behavioural, ecological, and environmental processes. Evolutionary explanation consequently requires attention not only to selective outcomes but also to the organisational conditions that make selection possible in the first place.
 
-This distinction is one of the most important contributions of APS to evolutionary explanation. Selection remains indispensable, but it is not foundational. Selection explains why some forms of organised persistence become historically stabilised more successfully than others. It does not explain the origin of the multiscale organisation upon which persistence depends. Evolutionary theory therefore requires an account of organised persistence before it can fully explain the consequences of selection.
+This distinction is one of the most important contributions of APS to evolutionary explanation. Selection remains indispensable, but it is not foundational. Selection explains why some lineages of organised persistence become historically stabilised more successfully than others. It does not explain the origin of the multiscale organisation upon which persistence depends. Evolutionary theory therefore requires an account of organised persistence before it can fully explain the consequences of selection.
 
 ## Organism–Environment Coupling Across Scale
 

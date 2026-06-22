@@ -6,17 +6,17 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-06-15
+revised: 2026-06-22
 cluster: philosophy-of-biology
 abstract: >
-  The Extended Evolutionary Synthesis (EES) expands evolutionary theory beyond gene-centric models by incorporating development, plasticity, niche construction, and organism–environment interaction. This article clarifies its relationship to the APS framework. While APS is compatible with these extensions, it operates in a different explanatory domain by identifying the conditions under which evolution is possible. APS grounds evolutionary processes in viability-oriented, constraint-closed organisation, showing that variation, inheritance, and selection presuppose systems capable of sustaining organised persistence.
+  The Extended Evolutionary Synthesis (EES) expands evolutionary theory beyond gene-centric models by incorporating development, plasticity, niche construction, and organism–environment interaction. This article clarifies its relationship to the APS framework. While APS is compatible with these extensions, it operates in a different explanatory domain by identifying the conditions under which evolution is possible. APS grounds evolutionary processes in viability-oriented, constraint-closed organisation, showing how lineages of organised persistence sustain continuity and undergo transformation through time.
 keyPoints:
   - The Extended Evolutionary Synthesis expands evolutionary theory beyond gene-centric models.
   - It incorporates development, plasticity, niche construction, and organism–environment interaction.
   - These approaches enrich evolutionary explanation but do not redefine its foundational conditions.
   - APS addresses a different explanatory domain by identifying the organisational preconditions of evolution.
   - evolution requires systems capable of sustaining viability-oriented, constraint-closed organisation.
-  - APS reframes evolution as the long-term transformation of organised persistence.
+  - APS reframes evolution as the long-term transformation of lineages of organised persistence.
 relatedGlossaryTerms:
   - biological-agency
   - viability
@@ -117,7 +117,7 @@ The EES extends evolutionary theory by expanding the range of processes that con
 
 APS, by contrast, addresses a more fundamental question: **under what conditions can evolution occur at all?**
 
-evolution requires systems that persist over time, reproduce, and maintain organisational continuity across generations. These capacities are not explained by evolutionary theory itself; they are presupposed by it.
+Evolution requires lineages of organised persistence capable of maintaining continuity, reproducing organisation, and undergoing transformation across generations. These capacities are not explained by evolutionary theory itself; they are presupposed by it.
 
 APS therefore identifies the organisational conditions that make evolutionary processes possible, rather than the mechanisms through which they operate.
 
@@ -133,9 +133,27 @@ For variation, inheritance, and selection to operate, there must exist systems t
 
 These capacities depend on biological agency: the active maintenance of viability.
 
-APS therefore reframes evolution not simply as change in populations, but as the **long-term transformation of organised persistence**. evolution unfolds within systems that already possess the organisational structure required to sustain themselves.
+APS therefore reframes evolution not simply as change in populations, but as the long-term transformation of lineages of organised persistence. Evolution unfolds within systems that already possess the organisational structure required to sustain themselves.
 
 This shift moves evolutionary explanation from a focus on outcomes to a focus on enabling conditions.
+
+<div class="aps-diagram aps-diagram-large">
+
+  <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/explanatory-structure.png"
+      alt="APS explanatory structure showing agency, process, and scale integrated around organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>APS Explanatory Structure.</strong>
+    APS explains evolution by identifying the organisational conditions that make evolutionary processes possible. Agency, process, and scale interact reciprocally to sustain organised persistence through time. Evolutionary processes such as inheritance, variation, adaptation, fitness, and natural selection operate within this broader continuity-producing architecture rather than constituting its foundation.
+  </p>
+
+</div>
+
 
 ## Organisms as Active Participants
 
@@ -145,7 +163,7 @@ APS agrees with this emphasis but grounds it more explicitly in biological organ
 
 From this perspective, niche construction is not an additional evolutionary mechanism but an expression of viability-oriented activity.
 
-## evolution, Adaptation, and Persistence
+## Evolution, Adaptation, and Persistence
 
 A further difference concerns how evolution and adaptation are conceptualised.
 
@@ -157,6 +175,8 @@ In extended evolutionary frameworks, adaptation is often treated as a product of
 This framing emphasises continuity between short-term regulation and long-term change.
 
 In this sense, purpose in biological systems is not externally imposed design, but the organisation of activity relative to viability.
+
+Inheritance reproduces continuity across generations, adaptation reorganises persistence under changing conditions, fitness reflects differences in the continuity of lineages of organised persistence, and natural selection differentially stabilises those differences through time.
 
 ## The Scope of the EES
 
@@ -174,7 +194,8 @@ APS incorporates these insights while situating them within a broader explanator
 
 - the organisational basis of persistence (constraint closure)  
 - the source of biological normativity (viability)  
-- the role of agency in sustaining and transforming living systems  
+- the role of agency in sustaining and transforming living systems 
+- the continuity and transformation of lineages of organised persistence through evolutionary time 
 
 In this way, the EES is not replaced but **integrated as a theory of evolutionary processes within an account of biological organisation**.
 

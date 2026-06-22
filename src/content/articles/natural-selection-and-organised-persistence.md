@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-05
-revised: 2026-06-20
+revised: 2026-06-22
 cluster: evolutionary-dynamics
 role: core
 
@@ -128,7 +128,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Natural Selection Within Evolutionary Organisation
+## Natural Selection Within Evolutionary Organisation
 
 Natural selection occupies an important but often misunderstood position within evolutionary explanation. APS accepts natural selection as one of the central processes responsible for evolutionary transformation while rejecting the common tendency to treat selection as equivalent to evolution itself. Selection contributes to the historical shaping of biological organisation, but it does not explain the original emergence of living systems, the maintenance of viability, or the organisational conditions that make evolutionary change possible. This article examines the role of natural selection within the broader continuity architecture explored throughout the Evolutionary Dynamics cluster.
 
@@ -152,7 +152,7 @@ APS accepts these achievements while arguing that they often leave implicit the 
 
 ## The APS Reframing
 
-In APS, natural selection is understood as the historically distributed differential stabilisation of persistence-sustaining organisation whose differing fitness contributes to differential continuity across generations. 
+In APS, natural selection is understood as the historically distributed differential stabilisation of lineages of persistence-sustaining organisation whose differing fitness contributes to differential continuity across generations.
 
 This formulation connects natural selection directly to the APS understanding of fitness. Fitness concerns the differential continuity of persistence-sustaining organisation across generations. Natural selection contributes to evolutionary transformation by differentially stabilising forms of organised persistence whose fitness supports greater historical continuity under particular developmental and ecological conditions. Fitness therefore identifies differences in the continuity of persistence-sustaining organisation, while natural selection describes the differential historical stabilisation of those differences through evolutionary time.
 
@@ -248,7 +248,7 @@ Natural selection therefore depends upon adaptive organisation without constitut
 
 The distinction between adaptation and selection points toward a broader insight. Natural selection is not an isolated evolutionary principle operating independently of other biological processes. It functions within a larger architecture of evolutionary organisation.
 
-Inheritance preserves continuity across generations. Variation generates alternative organisational possibilities. Adaptation enables living systems to maintain viability under changing conditions. Development reproduces and transforms continuity across lifecycles. Ecological interaction shapes the conditions under which persistence occurs. Selection contributes to this larger architecture by influencing which forms of organisation remain historically continuous.
+Inheritance preserves continuity across generations. Variation generates alternative organisational possibilities. Adaptation enables living systems to maintain viability under changing conditions. Development reproduces and transforms continuity across lifecycles. Ecological interaction shapes the conditions under which persistence occurs. Selection contributes to this larger architecture by influencing which lineages of organised persistence remain historically continuous.
 
 Fitness occupies an important position within this architecture because it links organised persistence to differential continuity. Adaptation, development, inheritance, and ecological interaction all contribute to the continuity-producing capacities of living systems. Fitness reflects differences in those capacities, while natural selection differentially stabilises the resulting differences in continuity across generations.
 
@@ -294,7 +294,7 @@ At this point a broader pattern becomes visible. Natural selection does not stan
 
 Persistence makes selection possible by maintaining continuity through time. Adaptation generates the organisational possibilities upon which selection acts. Inheritance reproduces continuity across generations. Development regenerates viable organisation within each lifecycle. Variation introduces alternative forms of organisation, while biological agency contributes the viability-oriented activity through which living systems sustain themselves under changing conditions.
 
-Natural selection contributes to this architecture by differentially stabilising forms of persistence-sustaining organisation whose fitness contributes differently to historical continuity. Agency sustains viability-oriented activity in the present. Viability enables organised persistence. Fitness reflects differences in the continuity of such persistence across generations. Natural selection contributes to this architecture by differentially stabilising forms of persistence-sustaining organisation whose fitness contributes differently to historical continuity. Biological agency sustains the viability-oriented activity through which living systems maintain the conditions of their own persistence. Viability enables organised persistence. Fitness reflects differences in the continuity of such persistence across generations. Natural selection then differentially stabilises those differences, contributing to evolutionary transformation through time.
+Biological agency sustains the viability-oriented activity through which living systems maintain the conditions of their own persistence. Viability enables organised persistence. Fitness reflects differences in the continuity of such persistence across generations. Natural selection then differentially stabilises those differences, contributing to evolutionary transformation through time.
 
 Selection therefore occupies an important position within evolutionary organisation without constituting the whole of evolutionary explanation. It operates within a broader continuity architecture whose explanatory structure extends from agency and viability through organised persistence and fitness to natural selection and evolutionary transformation.
 
@@ -353,7 +353,7 @@ APS situates natural selection within a broader explanatory grammar organised th
 
 Agency asks what living systems do to sustain their own persistence. Process explains how continuity is maintained despite continual material and organisational change. Scale reveals how persistence is distributed across developmental, ecological, organismal, and historical domains. Natural selection contributes to this explanatory framework by describing one of the principal ways continuity becomes historically differentiated across generations.
 
-Within this explanatory grammar, fitness functions as the bridge linking organised persistence to differential historical continuity. Fitness concerns differences in the continuity of persistence-sustaining organisation across generations, whereas natural selection concerns the differential historical stabilisation of those differences. The two concepts therefore perform complementary explanatory roles. Within this explanatory grammar, fitness functions as the bridge linking organised persistence to differential historical continuity. Fitness concerns differences in the continuity of persistence-sustaining organisation across generations, whereas natural selection concerns the differential historical stabilisation of those differences. The two concepts therefore perform complementary explanatory roles. Fitness identifies differences in the continuity of organised persistence, while natural selection explains how those differences become historically amplified through evolutionary time.
+Within this explanatory grammar, fitness functions as the bridge linking organised persistence to differential historical continuity. Fitness concerns differences in the continuity of persistence-sustaining organisation across generations, whereas natural selection concerns the differential historical stabilisation of those differences. Fitness identifies differences in continuity among forms of organised persistence, while natural selection explains how those differences become historically amplified through evolutionary time.
 
 Selection therefore occupies an important but limited position within biological explanation. It neither replaces agency nor eliminates the need for developmental, ecological, and organisational analysis. Instead, it contributes a specifically historical perspective on how forms of organised persistence become differentially stabilised over evolutionary time.
 
@@ -389,7 +389,7 @@ Selection operates only where living systems already exist as viability-oriented
 
 APS does not reject natural selection. On the contrary, it recognises selection as one of the central processes through which evolutionary continuity becomes historically differentiated across generations. What APS rejects is the tendency to treat selection as the sole or foundational source of biological organisation.
 
-The broader continuity architecture of life remains explanatorily prior. The broader continuity architecture of life remains explanatorily prior. Biological agency sustains the viability-oriented activity through which living systems maintain the conditions of their own persistence. Viability enables organised persistence. Development regenerates continuity across lifecycles, while inheritance reproduces continuity across generations. Adaptation reorganises persistence under changing conditions. Fitness reflects differences in the continuity of persistence-sustaining organisation, and natural selection differentially stabilises those differences through evolutionary time.
+The broader continuity architecture of life remains explanatorily prior. Biological agency sustains the viability-oriented activity through which living systems maintain the conditions of their own persistence. Viability enables organised persistence. Development regenerates continuity across lifecycles, while inheritance reproduces continuity across generations and sustains historically continuous lineages of organised persistence. Adaptation reorganises persistence under changing conditions. Fitness reflects differences in the continuity of those lineages, and natural selection differentially stabilises those differences through evolutionary time.
 
 Fitness provides the critical bridge between organised persistence and natural selection. Living systems first sustain viability through biological agency and persistence-sustaining organisation. Differences in the continuity of that organisation generate differences in fitness across generations. Natural selection then differentially stabilises those differences in continuity, contributing to the historical transformation of persistence-sustaining organisation through evolutionary time.
 

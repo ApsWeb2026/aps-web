@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-21
+revised: 2026-06-22
 cluster: methodology-and-explanation
 
 abstract: >
@@ -93,6 +93,13 @@ references:
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     source: "Springer"
+  - id: hull1980
+    authors: "Hull, D. L."
+    year: 1980
+    title: "Individuality and Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "11"
+    pages: "311–332"
 ---
 
 ## Introduction
@@ -121,6 +128,8 @@ This reframing does not reject evolutionary theory or diminish the importance of
     APS situates evolutionary explanation within a broader explanatory architecture linking organised persistence, historical continuity, species, taxonomy, and evolutionary explanation. Evolutionary explanation concerns how lineages of organised persistence emerge, persist, diversify, and transform through time.
   </p>
 </div>
+
+APS situates evolutionary explanation within a broader explanatory architecture. Mechanistic explanations describe how persistence-sustaining organisation is enacted, functional explanations describe how those activities contribute to viability, and evolutionary explanations explain how forms of organised persistence emerge, diversify, and transform through historical time. Evolutionary explanation therefore addresses one dimension of a larger explanatory framework directed toward organised persistence as the common explanatory target of biology.
 
 ## Evolutionary Explanation Requires Viable Organisation
 

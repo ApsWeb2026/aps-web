@@ -15,7 +15,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
+revised: 2026-06-22
 
 cluster: developmental-organisation
 role: synthesis
@@ -107,6 +107,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
+## Introduction
 Development and evolution are deeply interconnected biological processes.
 
 Development concerns how organisms maintain continuity across the lifespan through growth, differentiation, regulation, repair, and transformation.
@@ -133,244 +134,63 @@ Living systems preserve continuity not through static preservation, but through 
 
 ## Development and evolution as Continuity Processes
 
-Development and evolution both involve continuity through transformation.
+Development and evolution both involve continuity through transformation. Developmental systems continuously reorganise morphology, physiology, behaviour, ecological interaction, and functional integration while preserving sufficient continuity for organismal viability to persist. Organisms therefore remain recognisably continuous through time not because they avoid change, but because developmental processes regulate change in ways that maintain viability despite continual material turnover and environmental variation.
 
-Developmental systems continuously reorganise:
+Evolutionary systems exhibit a similar dynamic across longer temporal scales. Lineages preserve continuity across generations despite variation, mutation, ecological instability, developmental modification, and changing selection pressures. Evolutionary persistence therefore does not depend upon the static preservation of inherited forms but upon the capacity of lineages to reproduce continuity while remaining capable of transformation.
 
-- morphology,
-- physiology,
-- behaviour,
-- ecological interaction,
-- and functional integration
-
-while preserving sufficient continuity for organismal viability to persist.
-
-Evolutionary systems similarly preserve continuity across generations despite:
-
-- variation,
-- mutation,
-- ecological instability,
-- developmental modification,
-- and changing selection pressures.
-
-APS therefore interprets development and evolution as continuity-maintaining processes operating across different temporal scales.
-
-Development concerns persistence within the lifespan.
-
-evolution concerns persistence across lineages.
-
-These processes remain inseparable because evolutionary continuity depends upon the reliable developmental reproduction of viable organisms across generations.
+APS consequently interprets development and evolution as continuity-maintaining processes operating across different temporal scales. Development concerns the persistence of organised continuity within the lifespan, whereas evolution concerns the continuity and transformation of lineages of organised persistence across generations. These processes remain inseparable because evolutionary continuity depends upon the reliable developmental reproduction of viable organisms generation after generation. Development sustains the continuity upon which evolution operates, while evolution explains the historical transformation of the developmental and organisational architectures through which continuity is maintained.
 
 ## Historical Approaches to Development and evolution
 
-Relationships between development and evolution have long occupied biological thought.
+The relationship between development and evolution has occupied biological thought since the earliest attempts to understand how organisms change through time. Darwin's theory of evolution by natural selection provided a powerful explanation for the historical transformation of living systems, emphasising variation, inheritance, ecological interaction, and differential persistence across generations. Yet the mechanisms through which organisms develop from one generation to the next remained comparatively underexplored within much of twentieth-century evolutionary theory.
 
-Darwinian evolution emphasised:
+As genetics became increasingly influential, development was often interpreted primarily as the execution of inherited genetic information. Genes came to be viewed as developmental instructions, informational programs, or causal drivers of organismal form. This perspective yielded important advances in genetics, molecular biology, and evolutionary theory, but it also encouraged a conceptual separation between developmental processes and evolutionary explanation. Development frequently appeared as the mechanism through which inherited information was expressed, while evolution was treated as the process through which that information changed over time.
 
-- variation,
-- inheritance,
-- ecological interaction,
-- and natural selection.
+Contemporary biology has increasingly challenged this separation. Evolutionary developmental biology, developmental systems theory, ecological developmental biology, and process-oriented approaches have all demonstrated that development actively shapes evolutionary possibilities. Development influences the generation of variation, the emergence of morphology, the expression of plasticity, and the capacity of organisms to respond to ecological conditions. Evolution therefore cannot be understood independently of developmental organisation.
 
-However, twentieth-century evolutionary theory often treated development primarily as the execution of inherited genetic information rather than as an active explanatory domain in its own right.
-
-Genes increasingly came to be interpreted as:
-
-- developmental instructions,
-- informational programs,
-- or evolutionary units controlling organismal form.
-
-This framework produced major advances in genetics and evolutionary biology.
-
-At the same time, it often encouraged relative separation between:
-
-- developmental processes,
-
-and
-
-- evolutionary explanation.
-
-Contemporary biology increasingly recognises that development fundamentally shapes:
-
-- variation,
-- morphology,
-- plasticity,
-- ecological responsiveness,
-- and evolutionary possibility itself.
-
-Evolutionary developmental biology, developmental systems theory, ecological developmental biology, and process approaches all reflect growing recognition that evolution cannot be adequately understood independently of developmental organisation.
-
-APS develops within this broader organisational reorientation.
+APS develops within this broader reorientation. Rather than treating development as subordinate to evolution or evolution as independent of development, APS interprets both as interconnected continuity processes operating across different temporal scales. Development sustains organised continuity within lifetimes, while evolution transforms lineages of organised persistence across generations. Understanding either process therefore requires understanding their mutual dependence.
 
 ## Beyond Gene-Centred Continuity
 
-Gene-centred approaches capture important aspects of inheritance and developmental coordination.
+Gene-centred approaches capture important aspects of inheritance and developmental coordination. Genetic systems play indispensable roles in transmitting continuity across generations, stabilising developmental organisation, and providing mechanisms through which variation can arise. APS fully recognises these contributions and does not seek to diminish their significance.
 
-However, APS argues that biological continuity cannot be reduced to genetic transmission alone.
+However, biological continuity cannot be reduced to genetic transmission alone. Development depends upon a much broader network of continuity-producing processes, including physiological organisation, ecological interaction, environmental conditions, behavioural activity, developmental regulation, and social and material contexts. Organisms persist because these processes remain sufficiently coordinated to sustain viability through continual change.
 
-Development depends upon:
+This broader perspective becomes especially important when considering evolution. Evolution does not operate upon genes in isolation but upon organisms that are themselves dynamically organised developmental systems. Variation emerges through interactions among developmental organisation, ecological coupling, physiological integration, plasticity, and environmental responsiveness. Genetic change contributes to these processes, but it does not exhaust them.
 
-- physiological organisation,
-- ecological interaction,
-- environmental conditions,
-- social structures,
-- biomechanical constraints,
-- developmental regulation,
-- and temporally distributed continuity-maintaining processes.
-
-evolution therefore operates upon organisms that are themselves dynamically organised developmental systems.
-
-Variation emerges not merely through isolated genetic change, but through interactions among:
-
-- developmental organisation,
-- ecological coupling,
-- physiological integration,
-- plasticity,
-- and environmental responsiveness.
-
-APS therefore rejects sharply separating:
-
-- inheritance,
-- development,
-- ecology,
-- and organisational persistence.
-
-Continuity across generations depends upon the ongoing developmental reproduction of viable organisation within changing ecological conditions.
+APS therefore rejects sharp separations between inheritance, development, ecology, and organisational persistence. Continuity across generations depends upon the ongoing developmental reproduction of viable organisation under changing ecological conditions. Evolutionary transformation occurs because lineages of organised persistence are capable of reproducing continuity while remaining sufficiently flexible to accommodate variation, adaptation, and environmental change.
 
 ## Developmental Organisation and Evolutionary Possibility
 
-Development shapes evolutionary possibility.
+Development does more than reproduce existing forms. It also shapes the range of evolutionary possibilities available to living systems. Organisms are not assembled from unlimited combinations of traits or structures but emerge through developmental processes that channel, constrain, and organise biological activity in particular ways. Development therefore plays an active role in determining which forms of variation can arise and which forms of organisation remain viable.
 
-Developmental systems constrain:
+At the same time, developmental systems are sources of novelty. Through plasticity, responsiveness, and organisational flexibility, development generates new possibilities for interaction with changing ecological conditions. Developmental organisation therefore both constrains and enables evolutionary transformation. It limits some trajectories while opening others.
 
-- viable morphologies,
-- physiological organisation,
-- behavioural capacities,
-- and adaptive trajectories.
+APS interprets developmental systems as organisational filters through which evolutionary possibilities emerge. Evolution does not act upon infinitely unconstrained forms but upon organisms whose continuity-producing organisation has already structured the space of viable variation. Developmental organisation influences morphology, physiology, behaviour, ecological interaction, and adaptive capacity, thereby shaping the conditions under which evolutionary change becomes possible.
 
-At the same time, developmental organisation generates:
-
-- variation,
-- plasticity,
-- responsiveness,
-- and ecological flexibility.
-
-APS interprets developmental systems as organisational filters through which evolutionary possibilities emerge.
-
-evolution does not operate upon infinitely unconstrained forms.
-
-Organisms remain developmentally and organisationally structured systems whose continuity-maintaining architecture shapes:
-
-- variation,
-- adaptation,
-- and persistence.
-
-Development therefore contributes directly to evolvability itself.
+From this perspective, evolvability is not an abstract property added to biological systems. It emerges from the capacity of developmental organisation to reproduce continuity while remaining capable of generating regulated variation. Evolutionary transformation therefore depends not only upon selection and inheritance but also upon the developmental architectures through which lineages of organised persistence maintain continuity across generations.
 
 ## Plasticity, Environment, and evolution
 
-Developmental plasticity plays important evolutionary roles.
+Developmental plasticity plays important evolutionary roles because living systems must maintain viability under conditions that are never entirely stable. Organisms frequently reorganise developmental trajectories in response to ecological circumstances, environmental instability, nutritional variation, social interaction, and changing developmental contexts. Such responses allow developmental systems to preserve continuity despite environmental change, enabling organisms to remain viable while adapting to new conditions.
 
-Organisms frequently reorganise developmental trajectories in response to:
+These developmental adjustments often have consequences that extend beyond the immediate circumstances in which they arise. By influencing morphology, physiology, behaviour, ecological interaction, and reproductive persistence, developmental plasticity helps shape the range of evolutionary possibilities available to lineages of organised persistence. Development therefore functions not merely as the expression of inherited organisation but as an active source of adaptive flexibility through which organisms engage with changing environments.
 
-- ecological conditions,
-- environmental instability,
-- nutritional variation,
-- social interaction,
-- and changing developmental contexts.
-
-These adaptive developmental responses may influence:
-
-- morphology,
-- physiology,
-- behaviour,
-- ecological interaction,
-- and reproductive persistence.
-
-APS therefore interprets development and ecology as deeply coupled continuity systems operating within evolutionary processes.
-
-Evolutionary persistence depends not only upon inherited structure, but also upon the capacity of developmental systems to remain adaptively viable under changing environmental conditions.
-
-This perspective helps integrate:
-
-- developmental plasticity,
-- ecological interaction,
-- resilience,
-- and evolutionary continuity.
+APS consequently interprets development and ecology as deeply coupled continuity systems operating within evolutionary processes. Evolutionary persistence depends not only upon inherited structures but also upon the capacity of developmental systems to remain adaptively viable across changing ecological conditions. Developmental plasticity, ecological interaction, resilience, and evolutionary continuity thus emerge as interconnected aspects of a common continuity-producing organisation through which life maintains and transforms itself across generations.
 
 ## Development, Constraint, and Organisational Persistence
 
-Developmental constraints play central roles within evolutionary organisation.
+Developmental constraints play central roles within evolutionary organisation, yet they are often misunderstood as merely limiting biological possibility. Such interpretations treat constraints as obstacles to variation or innovation. APS instead emphasises that constraints are organisationally productive. Living systems can persist only because developmental processes channel activity into forms that remain viable. Constraints therefore do not simply reduce possibilities; they help create the organised conditions under which biological possibilities become meaningful.
 
-Constraints are often misunderstood as merely limiting biological possibility.
-
-APS instead emphasises that constraints are organisationally productive.
-
-Developmental constraints stabilise:
-
-- viable morphology,
-- physiological integration,
-- functional coordination,
-- and continuity-maintaining organisation.
-
-Evolutionary systems therefore operate within structured developmental architectures rather than unconstrained design spaces.
-
-The persistence of viable organisms depends upon maintaining sufficient organisational coherence across:
-
-- development,
-- physiology,
-- ecology,
-- and reproduction.
-
-APS interprets evolutionary continuity as emerging through these continuity-preserving developmental constraints.
+Developmental constraints stabilise viable morphology, physiological integration, functional coordination, and the continuity-producing organisation required for persistence. Evolutionary systems consequently operate within structured developmental architectures rather than unconstrained design spaces. The continuity of life depends upon maintaining sufficient organisational coherence across development, physiology, ecology, and reproduction while remaining capable of adaptation and change. APS therefore interprets evolutionary continuity as emerging through these continuity-preserving developmental constraints. By sustaining viable organisation across generations, developmental constraints contribute directly to the persistence and transformation of lineages of organised persistence through evolutionary time.
 
 ## Evolutionary Transformation and Organised Continuity
 
-Evolutionary change itself depends upon continuity.
-
-Species, lineages, ecological systems, and developmental organisations all transform across time while preserving sufficient continuity for persistence to remain possible.
-
-APS therefore rejects simplistic opposition between:
-
-- stability,
-
-and
-
-- transformation.
-
-Living systems persist precisely because they remain capable of regulated transformation across changing conditions.
-
-This principle applies equally to:
-
-- development,
-- ecology,
-- physiology,
-- and evolution.
-
-Evolutionary persistence depends not upon static preservation, but upon continuity-maintaining transformation operating across generations.
+Evolutionary change itself depends upon continuity. Species, lineages, ecological systems, and developmental organisations all undergo transformation through time while preserving sufficient continuity for persistence to remain possible. APS therefore rejects any simple opposition between stability and transformation. Living systems persist not by remaining unchanged but by continuously reorganising themselves in ways that maintain viability under changing conditions. The continuity of life is therefore achieved through regulated transformation rather than static preservation. This principle applies equally to development, physiology, ecology, and evolution. Developmental systems sustain continuity through growth and reorganisation, ecological systems through adaptive interaction, and evolutionary systems through the reproduction and modification of lineages of organised persistence across generations. Evolutionary persistence is thus best understood as continuity-maintaining transformation unfolding through historical time.
 
 ## Development, evolution, and Viability
 
-Both development and evolution remain fundamentally viability-oriented processes.
-
-Development preserves organismal viability across the lifespan.
-
-evolution preserves lineage viability across generations.
-
-APS therefore interprets viability as a continuity principle operating across multiple biological scales simultaneously.
-
-Developmental systems must remain sufficiently coordinated for organisms to persist.
-
-Evolutionary systems must remain sufficiently adaptive for lineages to persist under changing ecological conditions.
-
-This perspective helps unify:
-
-- developmental continuity,
-- organismal persistence,
-- ecological interaction,
-- and evolutionary continuity
-
-within a single explanatory architecture.
+Both development and evolution are fundamentally viability-oriented processes. Development sustains organismal viability across the lifespan through the coordinated regulation of growth, differentiation, repair, and adaptive reorganisation, enabling continuity to be maintained despite continual transformation. Evolution operates across longer temporal scales, preserving and transforming lineages of organised persistence through inheritance, variation, adaptation, and ecological interaction. APS therefore interprets viability as a continuity principle operating across multiple biological scales simultaneously. Developmental systems must remain sufficiently coordinated for organisms to persist, while evolutionary systems must remain sufficiently adaptive for lineages of organised persistence to endure under changing ecological conditions. Developmental continuity, organismal persistence, ecological interaction, and evolutionary continuity thus emerge as interconnected dimensions of a single continuity-producing architecture through which life maintains and transforms itself across time.
 
 ## Development and evolution in APS
 
@@ -383,7 +203,7 @@ This perspective shifts explanation away from isolated mechanisms and toward the
 
 Living systems persist not because they remain unchanged, but because developmental and evolutionary organisation continuously regulate transformation in ways that preserve viability across time.
 
-Development and evolution are therefore not separate explanatory domains.
+Development and evolution are therefore not separate explanatory domains. Development sustains organised continuity within lifetimes through growth, regulation, repair, and adaptive reorganisation, while evolution transforms lineages of organised persistence across generations through variation, inheritance, ecological interaction, and differential continuity.
 
-They are deeply interconnected expressions of organised continuity.
+Together they explain how biological continuity is maintained, reorganised, and historically transformed despite continual environmental and organisational change. The persistence of life depends not upon static preservation but upon the capacity of developmental and evolutionary organisation to regulate transformation in ways that preserve viability across time.
 
