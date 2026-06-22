@@ -112,9 +112,9 @@ At longer temporal horizons, a different aspect of organised persistence becomes
 These perspectives are not directed toward different biological phenomena. Both seek to explain organised persistence, but across different temporal horizons. Physiology explains how viability-oriented organisation is maintained within lifetimes, whereas evolution explains how lineages of organised persistence reproduce continuity while undergoing historical transformation across generations. Physiological continuity provides the conditions upon which evolutionary continuity depends, while evolutionary processes shape the inherited organisational architectures through which physiological continuity is realised. Physiology and evolution therefore differ not in what they explain, but in the temporal horizons across which organised persistence is understood.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/temporal-organisation.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/temporal-organisation-persistence.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/temporal-organisation.png"
+      src="/assets/diagrams/temporal-organisation-persistence.png"
       alt="Temporal organisation and organised persistence"
       loading="lazy"
     />
