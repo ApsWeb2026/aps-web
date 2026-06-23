@@ -84,9 +84,27 @@ references:
     title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
     doi: "https://doi.org/10.1007/s13752-026-00547-6"
+  
+  - id: Dawkins1976
+    authors: Dawkins, R.
+    year: 1976
+    title: The Selfish Gene
+    publisher: Oxford University Press
+
+  - id: Dawkins2006
+    authors: Dawkins, R.
+    year: 2006
+    title: The Selfish Gene (30th Anniversary Edition)
+    publisher: Oxford University Press
+
+  - id: GriffithsStotz2013
+    authors: Griffiths, P. E., & Stotz, K.
+    year: 2013
+    title: "Genetics and Philosophy: An Introduction"
+    publisher: Cambridge University Press
 ---
 
-# What Is a Gene in APS?
+## Introduction
 
 > **Where this article fits:** Genes are among the most influential concepts in modern biology, yet they are often misunderstood. APS treats genes neither as master controllers nor as mere molecular sequences. Instead, genes are inherited molecular resources that contribute to development, viability, and evolutionary continuity. Understanding genes therefore requires understanding the larger organisation of living systems within which they operate.
 
@@ -186,7 +204,26 @@ Genes occupy an important position within evolutionary processes because they co
 
 APS nevertheless avoids treating genes as the primary subjects of evolution. Evolution concerns the continuity and transformation of viability-oriented organisation through time. Genes contribute to this process because they form part of the inherited organisation carried across generations, but evolution ultimately concerns lineages of organised persistence rather than isolated genetic sequences.
 
-[[image:genes-organised-persistence]]
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-gene.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-gene.png"
+      alt="APS diagram showing genes as inherited molecular resources embedded within viability-oriented organised persistence. Development, agency, and inheritance provide the organisational context within which genes contribute to variation, adaptation, fitness differentiation, and evolutionary transformation through time."
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Genes as Inherited Resources Within Organised Persistence.</strong>
+    Genes are inherited molecular resources that contribute to development,
+    continuity, and evolutionary change. Their biological significance derives
+    from their role within viability-oriented organised persistence rather than
+    from autonomous control of living systems. Variation, adaptation, fitness
+    differentiation, and evolutionary transformation occur within this broader
+    organisational framework.
+  </p>
+</div>
+
 
 Inheritance reproduces genetic continuity while simultaneously allowing variation to emerge. Variation introduces novelty into ongoing lineages. Adaptation determines whether that novelty can be incorporated into viable persistence. Fitness differentiates among viable variants according to their continuity through time, while natural selection contributes to the historical stabilisation of some forms of organised persistence relative to others.
 
