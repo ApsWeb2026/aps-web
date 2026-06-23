@@ -69,7 +69,7 @@ references:
     doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
-# Why Is Biology Different From Physics?
+## Introduction
 
 > **Where this article fits:** Living systems are composed entirely of physical components and obey the same physical laws as every other system in nature. Yet biology remains a distinct science. APS explains why. Physics describes the components and processes through which living systems operate. Biology explains how those components are organised to maintain viability, persistence, and evolutionary continuity through time.
 
@@ -216,9 +216,9 @@ The relationship is therefore complementary rather than competitive. Physics exp
 APS consequently rejects both reductionism and anti-physicalism. Biological explanations are not rendered unnecessary by physical explanations, yet biological systems do not require forces or laws beyond physics. Biology occupies its own explanatory domain because living systems exhibit viability-oriented organisation within the physical world.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/why-biology-is-different-from-physics.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/philosophy-physics.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/why-biology-is-different-from-physics.png"
+      src="/assets/diagrams//philosophy-physics.png"
       alt="Physics explains component processes while biology explains organised persistence"
       loading="lazy"
     />
