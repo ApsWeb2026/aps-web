@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-22
+revised: 2026-06-23
 
 cluster: developmental-organisation
 role: extension
