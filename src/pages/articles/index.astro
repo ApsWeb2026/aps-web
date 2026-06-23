@@ -61,7 +61,7 @@ articles.sort(
               <h3 class="card-title">
                 <a href={`/articles/${entry.data.slug}/`}>{entry.data.title}</a>
               </h3>
-              <span class={`badge badge-domain badge-${entry.data.cluster}`}>
+              <span class={`badge badge-domain badge-domain-${entry.data.cluster}`}>
               {domainLabels[entry.data.cluster] ?? entry.data.cluster}
               </span>
 
