@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-22
+revised: 2026-06-23
 
 cluster: evolutionary-dynamics
 role: extension
@@ -74,7 +74,7 @@ references:
     doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
-# Is Evolution Random?
+## Introduction
 
 > **Where this article fits:** Evolution is often described as either random or non-random, but this distinction can be misleading. APS treats evolution as the historical transformation of organised persistence through interactions among inheritance, variation, adaptation, fitness, and natural selection. This article explains why evolutionary change cannot be adequately understood as either pure chance or predetermined design.
 
@@ -199,9 +199,9 @@ This interpretation integrates many of the concepts explored elsewhere in the AP
 The result is a view of evolution that avoids both reductionism and oversimplification. Evolution is not merely a collection of random events. Nor is it a predetermined progression toward fixed outcomes. It is the ongoing historical transformation of organised persistence through the interplay of continuity and change.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-randomness-architecture.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/evolution-random.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/evolution-randomness-architecture.png"
+      src="/assets/diagrams/evolution-random.png"
       alt="Evolutionary transformation emerging through inheritance, continuity, variation, adaptation, fitness, and natural selection"
       loading="lazy"
     />
