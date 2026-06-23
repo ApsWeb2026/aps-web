@@ -1413,5 +1413,65 @@
     "hash": "f4508c6b27eaf1c4",
     "revised": "2026-06-20",
     "lockedSince": "2026-06-20"
+  },
+  "articles/aps-cognitive-lexicon": {
+    "hash": "7e7c8f8297c9d545",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-22"
+  },
+  "articles/are-viruses-alive": {
+    "hash": "a51d5f29900c41d8",
+    "revised": "2026-06-22",
+    "lockedSince": "2026-06-22"
+  },
+  "articles/how-do-we-know-something-is-alive": {
+    "hash": "3d1afc1b5cf4474c",
+    "revised": "2026-06-22",
+    "lockedSince": "2026-06-22"
+  },
+  "articles/is-evolution-random": {
+    "hash": "575e9e6bc88187d1",
+    "revised": "2026-06-22",
+    "lockedSince": "2026-06-22"
+  },
+  "articles/what-is-a-gene-in-aps": {
+    "hash": "1e0f2ab16c0fa144",
+    "revised": "2026-06-22",
+    "lockedSince": "2026-06-22"
+  },
+  "articles/why-do-organisms-have-goals": {
+    "hash": "7dba29567d38414b",
+    "revised": "2026-06-22",
+    "lockedSince": "2026-06-22"
+  },
+  "articles/why-is-biology-different-from-physics": {
+    "hash": "f93b95c8304ffa74",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-22"
+  },
+  "glossary/gene": {
+    "hash": "d2beb38580708d58",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-23"
+  },
+  "glossary/learning": {
+    "hash": "052eb55be50c0e7a",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-23"
+  },
+  "glossary/memory": {
+    "hash": "2c8776496b878ea3",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-23"
+  },
+  "glossary/regulation": {
+    "hash": "110555f59f661f85",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-23"
+  },
+  "glossary/virus": {
+    "hash": "00e4c8f5a0d6c8b9",
+    "revised": "2026-06-23",
+    "lockedSince": "2026-06-23"
   }
 }

@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-22
 revised: 2026-06-22
 
-cluster: agency-and-life
+cluster: conceptual-foundations
 role: synthesis
 
 abstract: >
@@ -33,16 +33,14 @@ relatedGlossaryTerms:
   - life
   - viability
   - organised-persistence
-  - agency
+  - biological-agency
   - constraint-closure
   - diagnosis
 
 relatedArticles:
-  - what-is-life
   - are-viruses-alive
   - agency-as-the-defining-activity-of-life
-  - biology-what-the-science-of-life-explains
-  - organised-persistence
+  - biology
   - why-is-biology-different-from-physics
 
 references:
@@ -57,15 +55,15 @@ references:
     year: 2002
     title: Defining Life
     journal: Origins of Life and Evolution of the Biosphere
-    volume: 32(4)
-    pages: 387–393
+    volume: "32(4)"
+    pages: "387–393"
 
   - id: Spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 # How Do We Know Something Is Alive?

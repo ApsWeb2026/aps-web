@@ -32,16 +32,16 @@ relatedGlossaryTerms:
   - development
   - viability
   - organised-persistence
-  - agency
+  - biological-agency
   - evolution
-  - biological-information
+  - information
 
 relatedArticles:
   - inheritance-and-continuity-in-aps
   - development-as-organised-persistence
   - agency-as-the-defining-activity-of-life
   - what-is-evolution-in-aps
-  - biology-what-the-science-of-life-explains
+  - biology
 
 references:
   - id: Falk1986
@@ -49,8 +49,8 @@ references:
     year: 1986
     title: What Is a Gene?
     journal: Studies in History and Philosophy of Science
-    volume: 17(2)
-    pages: 133–173
+    volume: "17(2)"
+    pages: "133–173"
 
   - id: Keller2000
     authors: Keller, E. F.
@@ -69,8 +69,8 @@ references:
     year: 1994
     title: Developmental Systems and Evolutionary Explanation
     journal: Journal of Philosophy
-    volume: 91(6)
-    pages: 277–304
+    volume: "91(6)"
+    pages: "277–304"
 
   - id: DupreNicholson2018
     authors: Dupré, J., & Nicholson, D. J.
@@ -81,9 +81,9 @@ references:
   - id: Spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 # What Is a Gene in APS?

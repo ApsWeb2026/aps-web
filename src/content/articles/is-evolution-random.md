@@ -40,10 +40,7 @@ relatedArticles:
   - what-is-evolution-in-aps
   - inheritance-and-continuity-in-aps
   - variation-in-aps-where-does-novelty-come-from
-  - adaptation-in-aps
-  - fitness-in-aps
-  - natural-selection-in-aps
-
+ 
 references:
   - id: Darwin1859
     authors: Darwin, C.
@@ -72,9 +69,9 @@ references:
   - id: Spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 # Is Evolution Random?

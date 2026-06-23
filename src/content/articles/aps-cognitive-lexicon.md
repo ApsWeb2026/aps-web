@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-22
+revised: 2026-06-23
 
-cluster: cognition
+cluster: cognition-and-mind
 role: clarification
 
 abstract: >
@@ -39,7 +39,7 @@ keyPoints:
   - Vocabulary alone cannot establish cognitive status.
 
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - cognition
   - information
   - learning
@@ -53,11 +53,8 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - cognition-where-does-it-belong-in-biology
-  - cognition-from-mind-to-life-continuity-without-mentalism
-  - what-is-biological-agency
   - why-do-organisms-have-goals
-  - what-is-information-in-biology
-
+  
 references:
  - id: MaturanaVarela1980
    authors: Maturana, H. R., & Varela, F. J.
@@ -76,17 +73,17 @@ references:
    year: 2006
    title: The Biogenic Approach to Cognition
    journal: Cognitive Processing
-   volume: 7(1)
-   pages: 11–29
-   doi: https://doi.org/10.1007/s10339-005-0018-6
+   volume: "7(1)"
+   pages: "11–29"
+   doi: "https://doi.org/10.1007/s10339-005-0018-6"
 
  - id: LyonEtAl2021
    authors: Lyon, P., Keijzer, F., Arendt, D., Levin, M., Pezzulo, G., Planton, S., et al.
    year: 2021
    title: "The Cognitive Cell: Bacterial Behavior Reconsidered"
    journal: Frontiers in Psychology
-   volume: 12
-   doi: https://doi.org/10.3389/fpsyg.2021.650726
+   volume: "12"
+   doi: "https://doi.org/10.3389/fpsyg.2021.650726"
 
  - id: NicholsonDupre2018
    authors: Dupré, J., & Nicholson, D. J.
@@ -99,7 +96,7 @@ references:
    year: 2026
    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
    journal: Biological Theory
-   doi: https://doi.org/10.1007/s13752-026-00547-6
+   doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 ## APS Cognitive Lexicon

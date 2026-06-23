@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-22
+revised: 2026-06-23
 
-cluster: foundations
+cluster: conceptual-foundations
 role: synthesis
 
 abstract: >
@@ -30,7 +30,7 @@ keyPoints:
 
 relatedGlossaryTerms:
   - life
-  - agency
+  - biological-agency
   - organised-persistence
   - viability
   - function
@@ -38,13 +38,10 @@ relatedGlossaryTerms:
   - development
 
 relatedArticles:
-  - biology-what-the-science-of-life-explains
-  - what-is-life
+  - biology
   - agency-as-the-defining-activity-of-life
   - what-is-evolution-in-aps
-  - what-is-biological-explanation
-  - organised-persistence
-
+  
 references:
   - id: Schrödinger1944
     authors: Schrödinger, E.
@@ -67,9 +64,9 @@ references:
   - id: Spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 # Why Is Biology Different From Physics?

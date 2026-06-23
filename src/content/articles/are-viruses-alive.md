@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-22
 revised: 2026-06-22
 
-cluster: agency-and-life
+cluster: conceptual-foundations
 role: extension
 
 abstract: >
@@ -28,7 +28,7 @@ keyPoints:
 
 relatedGlossaryTerms:
   - life
-  - agency
+  - biological-agency
   - viability
   - organised-persistence
   - constraint-closure
@@ -38,42 +38,39 @@ relatedGlossaryTerms:
   - virus
 
 relatedArticles:
-  - what-is-life
   - agency-as-the-defining-activity-of-life
-  - biology-what-the-science-of-life-explains
+  - biology
   - what-is-evolution-in-aps
-  - organised-persistence
-  - why-viruses-matter-in-biology
-
+    
 references:
   - id: Lwoff1957
     authors: Lwoff, A.
     year: 1957
     title: The Concept of Virus
     journal: Journal of General Microbiology
-    volume: 17(2)
-    pages: 239–253
+    volume: "17(2)"
+    pages: "239–253"
 
   - id: Koonin2012
     authors: Koonin, E. V., & Starokadomskyy, P.
     year: 2012
-    title: Are Viruses Alive? The Replicator Paradigm Sheds Decisive Light on an Old but Misguided Question
+    title: "Are Viruses Alive? The Replicator Paradigm Sheds Decisive Light on an Old but Misguided Question"
     journal: Studies in History and Philosophy of Biological and Biomedical Sciences
-    volume: 43(2)
-    pages: 379–381
+    volume: "43(2)"
+    pages: "379–381"
 
   - id: DupreNicholson2018
     authors: Dupré, J., & Nicholson, D. J.
     year: 2018
-    title: A Manifesto for a Processual Philosophy of Biology
+    title: "A Manifesto for a Processual Philosophy of Biology"
     publisher: Oxford University Press
 
   - id: Spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 # Are Viruses Alive?

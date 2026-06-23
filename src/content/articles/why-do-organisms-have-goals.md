@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-22
 revised: 2026-06-22
 
-cluster: agency-and-life
+cluster: conceptual-foundations
 role: extension
 
 abstract: >
@@ -29,7 +29,7 @@ keyPoints:
   - In APS, goals are consequences of organised persistence rather than independent causes.
 
 relatedGlossaryTerms:
-  - agency
+  - biological-agency
   - viability
   - organised-persistence
   - function
@@ -38,12 +38,8 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - agency-as-the-defining-activity-of-life
-  - what-is-life
-  - biology-what-the-science-of-life-explains
-  - organised-persistence
-  - function-in-aps
-  - adaptation-in-aps
-
+  - biology
+    
 references:
   - id: Aristotle1999
     authors: Aristotle
@@ -66,9 +62,9 @@ references:
   - id: Spencer2026
     authors: Spencer, R. D.
     year: 2026
-    title: Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
 # Why Do Organisms Have Goals?
