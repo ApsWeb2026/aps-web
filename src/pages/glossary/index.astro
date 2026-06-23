@@ -15,6 +15,19 @@ function formatDate(value?: string) {
   });
 }
 
+const domainLabels: Record<string, string> = {
+  'conceptual-foundations': 'Foundations',
+  'philosophy-of-biology': 'Philosophy',
+  'evolutionary-dynamics': 'Evolution',
+  'developmental-organisation': 'Development',
+  'ecological-organisation': 'Ecology',
+  'cognition-and-mind': 'Cognition',
+  'social-organisation': 'Sociality',
+  'diagnostics-and-empirical-tractability': 'Evidence',
+  'methodology-and-explanation': 'Explanation',
+  'artificial-systems-and-boundaries': 'Boundaries',
+};
+
 const glossary = await getCollection('glossary');
 glossary.sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
@@ -42,7 +55,10 @@ glossary.sort((a, b) => a.data.title.localeCompare(b.data.title));
               <h3 class="card-title">
                 <a href={`/glossary/${entry.data.slug}/`}>{entry.data.title}</a>
               </h3>
-              <StatusBadge status={entry.data.status} />
+              <span class={`badge badge-domain badge-domain-${entry.data.cluster}`}>
+                {domainLabels[entry.data.cluster] ?? entry.data.cluster}
+              </span>
+
               <TypeBadge type="glossary" />
             </div>
 
