@@ -73,7 +73,7 @@ references:
     doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
-# Are Viruses Alive?
+## Introduction
 
 > **Where this article fits:** Viruses occupy one of the most debated boundary regions in biology. They evolve, inherit, adapt, and undergo natural selection, yet they do not exhibit the autonomous viability-oriented organisation characteristic of living systems. This article uses viruses as a test case for the APS definition of life and explores what viral boundary cases reveal about the nature of life itself.
 
