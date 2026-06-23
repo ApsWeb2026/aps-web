@@ -229,21 +229,6 @@ APS therefore does not treat viruses as fully living systems. At the same time, 
 
 The answer is therefore more informative than a simple yes or no. Viruses are not best understood as miniature organisms, nor as inert objects unrelated to life. They are biologically significant participants in evolutionary processes that illuminate the organisational criteria through which life itself can be understood.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/virus-boundary-life.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/virus-boundary-life.png"
-      alt="APS criteria for life compared with viral participation in biological processes"
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    <strong>Viruses as a Boundary Case for Life.</strong>
-    Living systems exhibit viability-oriented organisation, constraint closure, self-maintenance, and agency. Viruses participate in evolution, inheritance, variation, and natural selection, yet they do not independently maintain the organisational conditions required for their own persistence. APS therefore distinguishes participation in biological processes from the viability-oriented organisation characteristic of life.
-  </p>
-</div>
-
 ## Key Point
 
 Viruses evolve, inherit, adapt, and undergo natural selection, yet they do not independently exhibit the viability-oriented, constraint-closed organisation characteristic of living systems. In APS, viruses therefore occupy an important boundary region between biological participation and biological organisation. Their significance lies not only in what they are, but in what they reveal about the nature of life itself. By distinguishing participation in biological processes from organised persistence, viruses help clarify the organisational foundations upon which living systems depend.

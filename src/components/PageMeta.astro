@@ -12,14 +12,17 @@ interface Props {
 
 const { status, type, cluster, date, revised } = Astro.props;
 
-const clusterLabels: Record<string, string> = {
-  foundations: 'Foundations of Life',
-  'definition-borderlines': 'Definition & Borderlines',
-  'cognition-mind': 'Cognition & Mind',
-  'empirical-interface': 'Empirical Interface',
-  'scaling-complexity': 'Scale, Time, and Organisation',
-  'historical-context': 'Historical & Philosophical Context',
-  'conceptual-foundations': 'Conceptual Foundations & Explanatory Grammar',
+const domainLabels: Record<string, string> = {
+  'conceptual-foundations': 'Foundations',
+  'philosophy-of-biology': 'Philosophy',
+  'evolutionary-dynamics': 'Evolution',
+  'developmental-organisation': 'Development',
+  'ecological-organisation': 'Ecology',
+  'cognition-and-mind': 'Cognition',
+  'social-organisation': 'Sociality',
+  'diagnostics-and-empirical-tractability': 'Evidence',
+  'methodology-and-explanation': 'Explanation',
+  'artificial-systems-and-boundaries': 'Boundaries',
 };
 
 function formatDate(value?: string) {
@@ -43,7 +46,7 @@ function formatDate(value?: string) {
         <span class="page-meta-divider">|</span>
         <span class="page-meta-item">
           <a href={`/clusters/${cluster}/`}>
-            {clusterLabels[cluster] || cluster}
+            {domainLabels[cluster] || cluster}
           </a>
         </span>
       </>
@@ -54,9 +57,7 @@ function formatDate(value?: string) {
     date && (
       <>
         <span class="page-meta-divider">|</span>
-        <span class="page-meta-item">
-          Created: {formatDate(date)}
-        </span>
+        <span class="page-meta-item">Created: {formatDate(date)}</span>
       </>
     )
   }
@@ -65,9 +66,7 @@ function formatDate(value?: string) {
     revised && (
       <>
         <span class="page-meta-divider">|</span>
-        <span class="page-meta-item">
-          Revised: {formatDate(revised)}
-        </span>
+        <span class="page-meta-item">Revised: {formatDate(revised)}</span>
       </>
     )
   }

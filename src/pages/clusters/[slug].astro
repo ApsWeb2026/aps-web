@@ -17,13 +17,28 @@ const clusters = [
     boundary:
       'Some concepts placed here have important implications elsewhere. Normativity connects to cognition and social organisation, while scale, coupling, continuity, and process recur throughout development, ecology, evolution, and diagnosis. They are placed here when APS treats them as general organisational principles rather than domain-specific phenomena.',
   },
-  {
+    {
     slug: 'evolutionary-dynamics',
     title: 'Evolutionary Dynamics',
     description:
       'Evolution, inheritance, adaptation, variation, fitness, species, and the historical transformation of organised persistence.',
     overview:
       'This cluster examines how living systems preserve continuity while undergoing evolutionary transformation across generations and lineages. APS treats evolution as the historical transformation of viability-oriented organisation rather than as a process reducible to genes, traits, or selection alone.',
+    startHere: [
+      'What Is Evolution in APS?',
+      'Is Evolution Random?',
+      'What Is a Gene?',
+      'What Is a Species?',
+      'Evolution and Taxonomy',
+    ],
+    keyQuestions: [
+      'What is evolution?',
+      'Is evolution random?',
+      'What is a gene?',
+      'What is a species?',
+      'How does natural selection work?',
+      'What is fitness?',
+    ],
     architecture: `
   <section class="domain-architecture-panel">
     <h2>How This Domain Is Organised</h2>
@@ -348,12 +363,45 @@ streams.sort(
         {cluster.description}
       </p>
 
-      <p class="cluster-overview">
+       <p class="cluster-overview">
         {cluster.overview}
       </p>
 
-    {
-      cluster.architecture && (
+      {
+        cluster.startHere && (
+          <section class="domain-start-here">
+            <h2>Start Here</h2>
+
+            <p>
+              New to this domain? These articles provide the quickest route into the
+              central APS ideas.
+            </p>
+
+            <ol>
+              {cluster.startHere.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ol>
+          </section>
+        )
+      }
+
+      {
+        cluster.keyQuestions && (
+          <section class="domain-key-questions">
+            <h2>Key Questions</h2>
+
+            <ul>
+              {cluster.keyQuestions.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        cluster.architecture && (
         <section class="cluster-architecture">
           <div set:html={cluster.architecture} />
         </section>
