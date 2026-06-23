@@ -15,6 +15,19 @@ function formatDate(value?: string) {
   });
 }
 
+const domainLabels: Record<string, string> = {
+  'conceptual-foundations': 'Foundations',
+  'philosophy-of-biology': 'Philosophy',
+  'evolutionary-dynamics': 'Evolution',
+  'developmental-organisation': 'Development',
+  'ecological-organisation': 'Ecology',
+  'cognition-and-mind': 'Cognition',
+  'social-organisation': 'Sociality',
+  'diagnostics-and-empirical-tractability': 'Evidence',
+  'methodology-and-explanation': 'Explanation',
+  'artificial-systems-and-boundaries': 'Boundaries',
+};
+
 const articles = await getCollection('articles');
 const statusOrder: Record<string, number> = { canonical: 0, evolving: 1, draft: 2 };
 
@@ -48,8 +61,11 @@ articles.sort(
               <h3 class="card-title">
                 <a href={`/articles/${entry.data.slug}/`}>{entry.data.title}</a>
               </h3>
-              <StatusBadge status={entry.data.status} />
-              <TypeBadge type="article" />
+              <span class={`badge badge-domain badge-${entry.data.cluster}`}>
+              {domainLabels[entry.data.cluster] ?? entry.data.cluster}
+              </span>
+
+              {entry.data.role && <TypeBadge type={entry.data.role} />}
             </div>
 
             <p class="card-excerpt">{entry.data.abstract}</p>
