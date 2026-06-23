@@ -345,6 +345,21 @@ streams.sort(
       (statusOrder[b.data.status] ?? 9) ||
     a.data.title.localeCompare(b.data.title),
 );
+
+const articleRoleGroups = [
+  { role: 'anchor', title: 'Anchor Articles' },
+  { role: 'core', title: 'Core Articles' },
+  { role: 'clarification', title: 'Clarifications' },
+  { role: 'synthesis', title: 'Syntheses' },
+  { role: 'extension', title: 'Extensions' },
+];
+
+const groupedArticles = articleRoleGroups
+  .map((group) => ({
+    ...group,
+    articles: articles.filter((entry) => entry.data.role === group.role),
+  }))
+  .filter((group) => group.articles.length > 0);
 ---
 
 <BaseLayout title={cluster.title} description={cluster.description}>
@@ -414,12 +429,16 @@ streams.sort(
     </header>
 
     {
-      articles.length > 0 && (
-        <section class="home-section">
-          <h2>Articles</h2>
+  groupedArticles.length > 0 && (
+    <section class="home-section">
+      <h2>Articles</h2>
+
+      {groupedArticles.map((group) => (
+        <section class="article-role-group">
+          <h3>{group.title}</h3>
 
           <ul class="card-list">
-            {articles.map((entry) => (
+            {group.articles.map((entry) => (
               <li class="card">
                 <div class="card-header">
                   <h3 class="card-title">
@@ -431,7 +450,6 @@ streams.sort(
                   <DomainBadge cluster={entry.data.cluster} />
 
                   {entry.data.role && <TypeBadge type={entry.data.role} />}
-                  
                 </div>
 
                 <p class="card-excerpt">
@@ -445,9 +463,12 @@ streams.sort(
             ))}
           </ul>
         </section>
-      )
-    }
+      ))}
+    </section>
+  )
+}
 
+Then run the build.
     {
       glossaryEntries.length > 0 && (
         <section class="home-section">
@@ -463,7 +484,7 @@ streams.sort(
                     </a>
                   </h3>
 
-                  <StatusBadge status={entry.data.status} />
+                  <DomainBadge cluster={entry.data.cluster} />
                   <TypeBadge type="glossary" />
                 </div>
 
