@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-18
 revised: 2026-06-15
 cluster: ecological-organisation
+role: core
 
 abstract: >
   APS rejects the idea that organisms exist as independently constituted

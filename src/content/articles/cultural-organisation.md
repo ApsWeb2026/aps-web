@@ -21,7 +21,7 @@ canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-06-15
 
-cluster: ecological-organisation
+cluster: social-organisation
 
 keyPoints:
   - Culture is a socially distributed form of organised persistence.

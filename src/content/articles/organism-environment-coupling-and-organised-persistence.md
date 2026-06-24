@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-28
 revised: 2026-06-15
 cluster: ecological-organisation
+role: core
 
 abstract: >
   This article develops an APS account of organism–environment coupling as a

@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-20
 revised: 2026-06-15
 cluster: ecological-organisation
+role: extension
 
 abstract: >
   APS approaches resilience as the continuity-preserving reorganisation of

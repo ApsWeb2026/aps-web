@@ -10,6 +10,7 @@ canonicalLockDate: 2026-06-01
 revised: 2026-06-15
 
 cluster: ecological-organisation
+role: anchor
 
 abstract: >
   Ecology is often presented as the study of interactions between

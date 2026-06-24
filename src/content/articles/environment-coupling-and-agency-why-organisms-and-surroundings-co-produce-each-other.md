@@ -7,6 +7,7 @@ abstract: "This article explains how the APS framework reconceives the relations
 status: canonical
 revised: 2026-04-16
 cluster: ecological-organisation
+role: core
 keyPoints:
   - The environment is not an external container but a relational domain defined through organism–environment coupling.
   - Coupling describes the ongoing interaction through which organisms and environments co-produce each other.
