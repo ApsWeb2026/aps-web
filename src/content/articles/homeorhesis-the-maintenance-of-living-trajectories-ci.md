@@ -18,7 +18,22 @@ relatedGlossaryTerms:
   - process
 relatedArticles: []
 researchStreams: []
-references: []
+references: 
+- id: weinberger2026homeostasis
+  authors: "Weinberger, N."
+  year: 2026
+  title: Homeostasis and causal control
+  journal: Biology & Philosophy
+  volume: "41(2)"
+  pages: "18"
+  doi: 10.1007/s10539-026-10018-8
+
+- id: waddington1957
+  authors: "Waddington, C.H."
+  year: 1957
+  title: The Strategy of the Genes
+  publisher: George Allen & Unwin
+
 ---
 
 ## Introduction
@@ -43,7 +58,7 @@ However, living systems do not persist by holding everything constant. They grow
 
 To understand this, we need a concept that captures the regulation of change itself.
 
----
+Recent philosophical work on biological regulation similarly argues that homeostatic organisation should not be understood primarily as the maintenance of fixed internal variables. Instead, regulatory systems continually reorganise themselves to preserve higher-level functional organisation under changing conditions. APS agrees with this shift away from static equilibrium but extends it further. Rather than treating dynamic regulation as the explanatory endpoint, APS understands homeorhesis as one temporal expression of organised persistence: the ongoing maintenance of viable organisational trajectories through continuous reorganisation.
 
 ## Homeorhesis as Regulation of Trajectory
 
@@ -137,5 +152,7 @@ Living systems persist not by remaining the same, but by remaining organised thr
 
 Homeorhesis defines this form of persistence: the maintenance of viable trajectories through ongoing reorganisation.
 
-In APS, homeorhesis is the temporal mode of persistence — the way life sustains itself as conditions change.
+In APS, homeorhesis is one temporal mode through which organised persistence is enacted.
+
+Waddington (1957) established the concept of homeorhesis as the maintenance of organised developmental trajectories. Recent philosophical work (Weinberger 2026) similarly rejects static interpretations of homeostasis, arguing that biological regulation maintains dynamic organisation through continual adjustment. APS builds on these insights by treating homeorhesis as one temporal expression of the broader explanatory target of organised persistence.
 

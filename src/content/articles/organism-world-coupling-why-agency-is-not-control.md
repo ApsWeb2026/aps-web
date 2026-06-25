@@ -6,17 +6,17 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-06-15
+revised: 2026-06-25
 cluster: ecological-organisation
 role: clarification
 abstract: |
-  In APS, agency is neither internally isolated nor externally controlled. This article clarifies the organism–world relationship by distinguishing coupling from control, showing that living systems sustain their own viability through ongoing, internally grounded engagement with their environment.
+  Organisms depend profoundly upon their environments, but dependence is not the same as control. This article explains why APS understands agency as the organisation of viable organism–world coupling rather than behaviour determined either from inside or outside.
 keyPoints:
-  - Agency is viability-oriented activity enacted through organism–world coupling, not internal behaviour or external control.
-  - The environment is not external to agency but part of the functional context through which viability is sustained.
-  - Coupling differs from control - living systems organise their environmental dependence from within their own viability constraints.
-  - Perturbation reveals agency when systems reorganise their own activity to restore viable coupling.
-  - APS avoids both internalism and externalism by grounding normativity within the organism’s own organisation.
+  - Organisms depend upon their environments, but environmental dependence does not imply environmental control.
+  - Agency is enacted through viability-oriented organism–world coupling rather than isolated internal behaviour.
+  - Coupling differs from control because living systems organise their environmental dependence from within their own viability constraints.
+  - Perturbation distinguishes internally organised coupling from externally maintained control.
+  - APS avoids both internalism and externalism by grounding biological normativity within the organism's own organisation.
 relatedGlossaryTerms:
   - biological-agency
   - viability
@@ -32,97 +32,102 @@ relatedArticles:
   - organism-individual-agent-distinction
 ---
 
-Organisms are often described in two opposing ways: either as self-contained systems acting from within, or as products of environmental forces acting upon them. Both views miss something fundamental. For a definition of the organism itself, see [What Is an Organism?](/articles/what-is-an-organism/)
+Living organisms cannot exist apart from their environments. They depend continuously upon exchanges of energy, matter, information, and constraint. It is therefore natural to ask whether biological agency is ultimately controlled by the world around the organism.
 
-In APS, agency is neither isolated nor externally controlled. It is enacted through ongoing coupling with a world.
+In APS, the answer is no.
 
-## Why this article exists
+Living systems are profoundly dependent upon their environments, but dependence is not the same as control. Agency emerges because organisms continually organise that dependence in ways that preserve their own viability. Rather than existing independently of the world or being determined by it, living systems sustain themselves through ongoing organism–world coupling.
 
-In APS, it is essential to distinguish life from agency, even though they are inseparable in living systems. Life names a form of viability-oriented organisation—a constraint-closed arrangement whose continued existence matters from within the system itself. Agency, by contrast, names the viability-oriented activity through which that organisation is sustained, regulated, and regenerated over time.
+For a definition of the organism itself, see [What Is an Organism?](/articles/what-is-an-organism/). This article addresses a different question: why environmental dependence does not reduce biological agency to environmental control.
 
-Life is the organisational condition; agency is its ongoing enactment.
+## Dependence is not determination
 
-This article develops agency not as a static property, but as the activity through which living organisation remains viable through sustained coupling with a world.
+The companion article, *Environment, Coupling, and Agency*, explains why organisms and environments cannot be understood as separate, independently existing entities that merely interact after the fact. Living systems persist only through continual coupling with a world that provides the conditions under which viability can be maintained.
 
-It brings together three strands that recur throughout APS_WEB but are often treated separately:
+That insight, however, gives rise to an important question. If organisms are inseparable from their environments, does this mean that their activity is ultimately directed by external conditions?
 
-- Environment (as an active participant, not a backdrop)  
-- Coupling (as ongoing reciprocal constraint, not control)  
-- Agency (as viability-oriented activity enacted through world-involvement)
+APS argues that this conclusion confuses dependence with determination.
 
-The central claim is simple but decisive:
+Living organisms certainly depend upon their environments. Every act of metabolism, regulation, repair, development, and reproduction requires continual engagement with surrounding conditions. But dependence alone does not explain how those relationships are organised. The central question is not whether organisms require environments, but whether the organisation of that dependence originates within the organism itself or is imposed from elsewhere.
 
-**APS rejects both isolation and external control. Living agency is constituted through sustained coupling with a world.**
-
-## The environment is not “outside” agency
-
-In many biological explanations, the environment appears as something external that acts on organisms: a source of inputs, stresses, or selective pressures. APS rejects this framing as incomplete.
-
-In APS, the environment is not merely encountered by agency; it is incorporated into the organisation of agency itself.
-
-A living system does not first exist and then interact with an environment. Its continued existence depends on ongoing, regulated exchange with surrounding conditions—energy, matter, gradients, affordances, and constraints. The environment is therefore part of the functional context through which viability is sustained.
-
-This does not mean that the environment determines the organism. It means that agency is relationally constituted: the organisation that sustains persistence is inseparable from the structured ways in which the system engages with its surroundings.
+This distinction leads directly to the difference between coupling and control.
 
 ## Coupling is not control
 
-To say that organisms are coupled to their environments is not to say that they are controlled by them.
+APS draws a sharp distinction between coupling and control, even though both involve continual dependence upon environmental conditions.
 
-APS draws a sharp distinction between:
+In a controlled system, behaviour is stabilised or directed by structures, parameters, or interventions organised outside the system itself. The system functions because the organisation that maintains it originates elsewhere. If that external organisation is withdrawn, the system simply ceases to operate.
 
-- **Control**, where system behaviour is stabilised or directed by external structures, parameters, or interventions  
-- **Coupling**, where system and environment mutually constrain and modulate one another over time  
+Living systems also depend upon environmental conditions, but in a fundamentally different way. Their continued existence depends upon their own ongoing activity. Rather than merely responding to environmental circumstances, organisms regulate, modify, and reorganise their engagement with those circumstances in ways that preserve their own viability.
 
-In control, the system’s continued functioning depends on something else maintaining the relevant conditions. In coupling, the system’s activity participates in maintaining the conditions of its own persistence, including those that involve the environment.
+The crucial difference therefore lies not in dependence itself but in how that dependence is organised.
 
-This distinction is critical for diagnostics. Many systems—machines, algorithms, infrastructures—are environmentally embedded and responsive. But their persistence does not matter for them. Their coupling is externally grounded: when support is withdrawn, nothing is lost for the system itself.
+Both coupling and control involve regular interaction with the environment, making them easy to confuse. Yet only in living systems does the organisation of that relationship remain internally grounded. Environmental conditions constrain what an organism can do, but they do not determine the organism's activity independently of the organism's own viability-oriented organisation.
 
-Living systems differ not because they interact with environments, but because their viability is at stake within that interaction.
+Coupling is therefore reciprocal rather than directive. Organism and environment continually shape one another, but the normative significance of that relationship remains centred on the organism's own persistence. The environment supplies opportunities, resources, and constraints; the organism continually reorganises its own activity in relation to them.
 
-## Agency is enacted through world-involvement
+This distinction also explains why environmental responsiveness alone is not evidence of agency. Machines, algorithms, and engineered control systems may be highly responsive to changing conditions, yet their continued operation matters only because external designers or operators maintain the conditions under which they function. Their dependence is organised from outside rather than from within.
 
-APS defines agency as the activity through which a system sustains, regulates, and regenerates the conditions of its own continued existence. Those conditions are never purely internal.
+Living systems differ not because they interact with their environments, but because they continually organise those interactions as part of maintaining their own existence.
 
-Metabolism depends on environmental resources. Regulation depends on external gradients. Repair depends on material exchange. Even minimal agency is enacted through ongoing engagement with what lies beyond the system’s boundary.
+## Agency is the organisation of dependence
 
-Crucially, this does not make agency externally grounded. What matters is not whether a system depends on its environment, but how that dependence is organised.
+APS defines agency as the viability-oriented activity through which a living system sustains, regulates, and regenerates the conditions of its own continued existence. Those conditions are never purely internal.
 
-A living system integrates environmental coupling into its own constraint structure. When perturbations occur—internal or external—the system reorganises its activity in ways that restore or transform the conditions of its own viability. The environment is thus not an external driver, but a dimension of the system’s own organisational problem space.
+Metabolism depends upon environmental resources. Regulation depends upon changing physical and chemical conditions. Repair depends upon continual material exchange. Even the simplest living systems remain viable only through ongoing engagement with a surrounding world.
 
-## Why perturbation reveals agency
+Far from weakening biological agency, this reveals what agency actually consists in.
 
-This perspective explains why APS diagnostics rely on perturbation.
+Agency is not independence from environmental conditions. It is the continual organisation of environmental dependence. Living systems actively regulate how resources are acquired, how constraints are accommodated, and how changing circumstances are incorporated into the ongoing maintenance of viability.
 
-When a system is challenged, three outcomes are possible:
+The organism therefore does not merely adapt to an environment that controls it. Rather, it continually reorganises its own coupling with that environment in ways that preserve or restore the conditions under which it can continue to exist.
 
-- The system degrades and does not recover  
-- The system returns to function only because external structures stabilise or repair it  
-- The system reorganises its own activity—often by re-engaging environmental relations—in ways that restore the conditions of its continued existence  
+## Why perturbation distinguishes coupling from control
 
-Only the third outcome indicates internally grounded agency.
+The distinction between coupling and control becomes most visible when a system is perturbed.
 
-In that case, recovery is inseparable from world-involvement: the system must re-establish viable coupling with its environment. Perturbation therefore reveals not just resilience, but whether environmental dependence is organised from within the system’s own viability constraints.
+Under stable conditions, externally controlled systems and living organisms may appear equally adaptive. Both can respond to changing circumstances, maintain stable behaviour, and compensate for disturbance. Observation alone may therefore obscure the difference between externally maintained control and internally organised agency.
 
-## Avoiding two symmetrical errors
+Perturbation reveals what is actually maintaining the system.
 
-APS avoids two common but opposing mistakes:
+When a system is challenged, three broad outcomes are possible:
 
-- **Internalism**, which treats agency as something that happens entirely inside the system, reducing the environment to inputs or noise  
-- **Externalism**, which treats organism behaviour as controlled, selected, or optimised by external forces, histories, or designers  
+- The system degrades and does not recover.
+- The system returns to function only because external structures restore or maintain the conditions under which it operates.
+- The system reorganises its own activity—often by re-establishing viable relations with its environment—in ways that restore the conditions of its continued existence.
 
-APS instead treats agency as world-involving but internally grounded. Organism and environment form a dynamically coupled system, but the normative stakes—what counts as success or failure—belong to the organism itself.
+Only the third outcome demonstrates biological agency.
 
-This is why APS can acknowledge deep environmental dependence without collapsing into control-theoretic or selectionist explanations of agency.
+The critical question is not simply whether recovery occurs, but how recovery is achieved. In living systems, restoration is organised through the organism's own viability-oriented activity. Environmental resources remain indispensable, but the organism itself continually regulates how those resources are incorporated into renewed coupling. Recovery therefore reflects internally organised dependence rather than externally imposed control.
 
-## Consequences across APS_WEB
+Perturbation thus provides more than a test of resilience. It distinguishes systems whose continued operation depends upon external maintenance from systems that continually reorganise their own organism–world coupling in order to preserve viability.
 
-Making the Environment ↔ Coupling ↔ Agency connection explicit clarifies several recurring APS themes:
+## Agency is neither internal nor external
 
-- **Biosignatures**: signs of life are signs of sustained, self-maintaining coupling with an environment  
-- **Identity**: systems lose identity when their own viability-maintaining organisation collapses, not merely when environmental support is withdrawn  
-- **Cognition**: sense-making is structured responsiveness within ongoing coupling, not internal representation of an external world  
-- **Diagnostics**: behaviour alone is insufficient because externally controlled systems can behave adaptively without agency  
+APS avoids two symmetrical errors that have shaped much discussion of biological agency.
+
+The first is **internalism**, which treats agency as something occurring entirely inside the organism, reducing the environment to a source of inputs or disturbances. The second is **externalism**, which explains biological activity primarily through environmental control, selective history, or external optimisation.
+
+Both perspectives isolate what living systems keep together.
+
+Agency is neither an internal property detached from the world nor an externally produced effect of environmental conditions. It is the ongoing activity through which organisms organise their own viable relations with their environments.
+
+Organism and environment therefore form a dynamically coupled system, but the normative significance of that coupling remains grounded within the organism itself. Success and failure are defined by whether the organism maintains its own viability, not by whether it conforms to externally imposed conditions.
+
+APS can therefore recognise profound environmental dependence without reducing biological agency to environmental determination.
+
+## Why this distinction matters
+
+Understanding the difference between coupling and control clarifies several recurring themes throughout APS.
+
+**Cognition** is not the internal representation of an external world but the organisation of meaningful responsiveness within ongoing organism–world coupling.
+
+**Diagnostics** cannot rely upon behaviour alone because externally controlled systems may behave adaptively without organising their own persistence. Perturbation is therefore required to determine whether adaptive behaviour reflects genuine agency.
+
+**Biosignatures** are not simply signs of environmental interaction. They are signs of sustained, self-organised coupling through which living systems continually preserve their own viability.
+
+Across these examples, the same principle applies: biological agency is revealed not by environmental dependence itself, but by the organism's continual organisation of that dependence.
 
 ## Key Point
 
-**In APS, agency is neither isolated nor externally controlled: it is the viability-oriented organisation of activity enacted through sustained, internally grounded coupling with a world.**
+**Living systems are not agents because they escape dependence upon their environments. They are agents because they continually organise that dependence from within, sustaining their own viability through ongoing organism–world coupling rather than through external control.**

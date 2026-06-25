@@ -680,8 +680,8 @@
     "lockedSince": "2026-04-09"
   },
   "articles/organism-world-coupling-agency-not-control": {
-    "hash": "74660ebf885c0b77",
-    "revised": "2026-06-15",
+    "hash": "db9d863583ddf468",
+    "revised": "2026-06-25",
     "lockedSince": "2026-04-09"
   },
   "articles/persistence-organised-continuity-through-time": {
@@ -730,8 +730,8 @@
     "lockedSince": "2026-05-29"
   },
   "articles/resilience-ecology-and-continuity": {
-    "hash": "24f794db95b0cca4",
-    "revised": "2026-06-24",
+    "hash": "617b70de5cbf746c",
+    "revised": "2026-06-25",
     "lockedSince": "2026-05-20"
   },
   "articles/rethinking-development": {
@@ -930,8 +930,8 @@
     "lockedSince": "2026-05-29"
   },
   "articles/why-organisms-cannot-be-understood-apart-from-their-environments": {
-    "hash": "3820c49d4c56805a",
-    "revised": "2026-06-15",
+    "hash": "dcf7cc5250ab69d6",
+    "revised": "2026-06-24",
     "lockedSince": "2026-05-18"
   },
   "articles/why-philosophy-of-biology-matters": {
@@ -1050,8 +1050,8 @@
     "lockedSince": "2026-05-18"
   },
   "glossary/ecology": {
-    "hash": "f143f9996357dcae",
-    "revised": "2026-06-15",
+    "hash": "7152c322585ef703",
+    "revised": "2026-06-25",
     "lockedSince": "2026-05-18"
   },
   "glossary/ecosystem": {
@@ -1473,5 +1473,10 @@
     "hash": "00e4c8f5a0d6c8b9",
     "revised": "2026-06-23",
     "lockedSince": "2026-06-23"
+  },
+  "articles/environment-coupling-and-biological-agency": {
+    "hash": "a5a140729f8a9c74",
+    "revised": "2026-06-25",
+    "lockedSince": "2026-04-16"
   }
 }

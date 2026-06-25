@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20
-revised: 2026-06-24
+revised: 2026-06-25
 cluster: ecological-organisation
 role: core
 
@@ -97,7 +97,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Resilience, Ecology, and Continuity
+## Introduction
 
 > **Where this article fits:** *The Ecological Organisation of Life* explains why ecology is indispensable to biological persistence. *Organism–Environment Coupling* explains how ecological persistence is generated through continuity-producing relations linking organisms and environments. This article explains how that continuity survives disruption. APS approaches resilience as the capacity of ecological persistence systems to reorganise viability under perturbation while preserving continuity across changing conditions. For a broader account of continuity across interacting ecological scales, see *Ecology as Organised Persistence Across Scales*.
 
