@@ -8,15 +8,148 @@ import TypeBadge from '@/components/TypeBadge.astro';
 
 const clusters = [
   {
-    slug: 'conceptual-foundations',
-    title: 'Conceptual Foundations',
-    description:
-      'Core APS concepts including agency, process, scale, viability, persistence, and biological organisation.',
-    overview:
-      'This cluster contains the framework-wide concepts from which APS is constructed. It explains the basic architecture of life as viability-oriented, organised persistence sustained across time.',
-    boundary:
-      'Some concepts placed here have important implications elsewhere. Normativity connects to cognition and social organisation, while scale, coupling, continuity, and process recur throughout development, ecology, evolution, and diagnosis. They are placed here when APS treats them as general organisational principles rather than domain-specific phenomena.',
-  },
+slug: 'conceptual-foundations',
+title: 'Conceptual Foundations',
+
+description:
+'Life, agency, viability, organisation, persistence, scale, normativity, and biological explanation.',
+
+overview:
+'This cluster establishes the conceptual foundations of the Agency–Process–Scale (APS) Framework. It addresses the most fundamental questions in biology: what life is, how living systems persist, why organisms exhibit agency, how biological organisation is maintained, how normativity emerges, and what biological explanation ultimately seeks to explain. APS treats biology as the study of viability-oriented organised persistence, and the concepts developed here provide the vocabulary and explanatory architecture upon which every other APS domain is built.',
+
+startHere: [
+'Agency as the Defining Activity of Life',
+'What Is Life? — A Biological Question Revisited',
+'Biological Agency as the Activity of Self-Maintenance',
+'Biological Explanation — What Needs to Be Explained',
+],
+
+keyQuestions: [
+'What is life?',
+'What is biological agency?',
+'What is viability?',
+'What is biological organisation?',
+'What is organised persistence?',
+'What is biological normativity?',
+'What is function?',
+'What is a biological system?',
+'What is an organism?',
+'What is biological explanation?',
+'How is biological organisation coordinated across scale?',
+'Why is biology different from physics?',
+],
+
+architecture: `
+
+<section class="domain-architecture-panel"> <h2>How This Domain Is Organised</h2>
+
+<p>This domain is organised around a central question: how should biology understand living systems as viability-oriented organised persistence?</p>
+
+<p>APS approaches this question through a sequence of interdependent concepts. Life is the phenomenon requiring explanation. Agency concerns the activity through which living systems maintain themselves. Viability provides the normative reference point for that activity. Organisation concerns the structured relations that sustain persistence. Persistence concerns the continuity of organised living systems through time. Scale concerns the distributed coordination of biological organisation across space and time. Biological explanation seeks to understand how these processes are generated, maintained, and transformed.</p>
+
+<p>The anchor articles establish the central APS understanding of life and agency. The remaining articles develop this framework through five connected explanatory pathways.</p>
+
+<h3>Life and Agency</h3>
+
+<p>These articles establish the APS understanding of life, agency, organisms, and biological systems. They explain why living systems are distinguished not by particular materials or mechanisms but by viability-oriented organised activity.</p>
+
+<h3>Organisation and Constraint</h3>
+
+<p>These articles develop the organisational architecture of life. They explain how biological organisation, constraints, and constraint closure contribute to the maintenance of persistence.</p>
+
+<h3>Persistence and Temporality</h3>
+
+<p>These articles explore how living systems maintain continuity through continual transformation. Persistence, process, temporality, and continuity are presented as central dimensions of biological explanation.</p>
+
+<h3>Scale and Normativity</h3>
+
+<p>These articles explain how biological organisation is coordinated across interacting scales and why viability generates biological normativity, function, and evaluative organisation.</p>
+
+<h3>Conceptual Integration and Biological Explanation</h3>
+
+<p>These articles synthesise multiple APS concepts into a unified explanatory framework. They clarify what biology explains, how biological explanation differs from physical explanation, and how continuity is organised across the architecture of life.</p>
+
+<div class="domain-architecture-grid">
+
+<div class="domain-architecture-group">
+  <h3 class="anchor-heading">Anchor</h3>
+  <ul>
+    <li>Agency as the Defining Activity of Life</li>
+    <li>What Is Life? — A Biological Question Revisited</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="synthesis-heading">Synthesis</h3>
+  <ul>
+    <li>Agency in Contemporary Biology</li>
+    <li>How Do We Know Something Is Alive?</li>
+    <li>Scale, Time, and Persistence</li>
+    <li>The Continuity Architecture of Life</li>
+    <li>The Continuity Structure of Biological Organisation</li>
+    <li>Time and Biological Organisation</li>
+    <li>Why Is Biology Different From Physics?</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="core-heading">Core</h3>
+  <ul>
+    <li>Biological Agency as the Activity of Self-Maintenance</li>
+    <li>Viability</li>
+    <li>Organism</li>
+    <li>What Is an Organism?</li>
+    <li>What Is a Biological System?</li>
+    <li>Biological Organisation</li>
+    <li>Constraint</li>
+    <li>Constraint Closure</li>
+    <li>Persistence</li>
+    <li>Process</li>
+    <li>Temporal Organisation and Organised Persistence</li>
+    <li>Scale</li>
+    <li>Normativity in Biology</li>
+    <li>From Viability to Normativity</li>
+    <li>Biological Explanation</li>
+    <li>APS as an Organised Conceptual System</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="clarification-heading">Clarification</h3>
+  <ul>
+    <li>Agency Without Intentions</li>
+    <li>Mentalistic Terms in Biology</li>
+    <li>What Is Biological Regulation?</li>
+    <li>Levels vs Scale</li>
+    <li>Why APS Is Not Hierarchical</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="extension-heading">Extension</h3>
+  <ul>
+    <li>Agency and Organised Persistence</li>
+    <li>Biological Causation</li>
+    <li>Why Do Organisms Have Goals?</li>
+    <li>Are Viruses Alive?</li>
+    <li>APS_PE — The Biological Imperative and the Ethics of Persistence</li>
+  </ul>
+</div>
+
+</div>
+
+<h3>Suggested Reading Pathway</h3>
+
+<p>Readers new to APS should begin with Agency as the Defining Activity of Life and What Is Life? — A Biological Question Revisited. These anchor articles establish the central orientation of the framework.</p>
+
+<p>Readers should then move to Biological Agency as the Activity of Self-Maintenance, Viability, Biological Organisation, and Biological Explanation. From there, readers can explore persistence, temporality, constraint organisation, scale, normativity, and organismal organisation before moving to the synthesis articles that integrate these themes into a broader understanding of biological explanation.</p>
+
+</section> `,
+
+boundary:
+'Every APS domain ultimately depends upon concepts developed in this cluster. Development, evolution, ecology, cognition, diagnosis, social organisation, methodology, and philosophy all build upon the conceptual architecture established here. Concepts are placed in this cluster when APS treats them as foundational principles required for understanding living systems in general rather than as concepts specific to a particular biological domain.',
+},
+
     {
     slug: 'evolutionary-dynamics',
     title: 'Evolutionary Dynamics',
