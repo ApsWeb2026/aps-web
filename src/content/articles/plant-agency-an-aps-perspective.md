@@ -57,6 +57,7 @@ references:
     year: 2025
     title: "Biological Agency as the Context for Plant Cognition"
     publisher: "Zenodo"
+    doi: "https://doi.org/10.5281/zenodo.16938193"
 
   - id: trewavas2005
     authors: "Trewavas, A."
