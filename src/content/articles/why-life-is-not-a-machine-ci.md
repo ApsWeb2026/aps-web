@@ -248,23 +248,6 @@ A signalling pathway, membrane, neural circuit, behavioural process, or developm
 
 APS thus preserves the empirical strengths of mechanistic explanation while rejecting atomistic reductionism. Mechanisms remain indispensable, but they are embedded within larger systems of continuity-maintaining organisation.
 
-[[box:aps-box-function-is-contribution-to-viability]]
-
-<div class="aps-diagram">
-  <a href="/assets/diagrams/organisational-geometry-of-organised-persistence.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/organisational-geometry-of-organised-persistence.png"
-      alt="Organisational geometry of organised persistence"
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    <strong>The Organisational Geometry of Organised Persistence.</strong>
-    APS reconstructs biological intelligibility around viability-oriented organised persistence sustained through continuity, regulation, perturbation-sensitive organisation, and multiscale coordination.
-  </p>
-</div>
-
 ## Function and Endogenous Normativity
 
 Machine functions are externally assigned. A machine component has a function because it was designed to perform a particular task within an externally specified system. Its success or failure is evaluated relative to purposes imposed from outside.
