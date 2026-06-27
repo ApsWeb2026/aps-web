@@ -198,18 +198,18 @@ Persistence should therefore not be understood merely as an outcome of agency. I
 
 Seen in this way, agency, organisation, and persistence form an inseparable explanatory triad. Agency supplies the activity. Organisation supplies the coordinated structure. Persistence supplies the continuity achieved through their interaction. Together they provide the conceptual foundation upon which the broader APS framework is built.
 
-<div class="aps-diagram">
+<<div class="aps-diagram">
   <a href="/assets/diagrams/conceptual-agency.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/conceptual-agency.png"
-      alt="Agency as the defining activity of life"
+      alt="Agency as the defining activity of life showing agency, viability, organisation, persistence, process, and scale."
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
     <strong>Agency as the Defining Activity of Life.</strong>
-    Agency is the viability-oriented activity through which living systems sustain themselves across time.
+    Agency is the viability-oriented activity through which living systems sustain themselves across time. Agency maintains viability, viability is sustained through organisation, and organisation enables persistence. Process and scale provide the explanatory dimensions through which agency is expressed and coordinated.
   </p>
 </div>
 
