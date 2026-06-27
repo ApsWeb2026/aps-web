@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-06-26
 cluster: philosophy-of-biology
 
 abstract: >
@@ -121,6 +121,12 @@ references:
     title: "Agency as the Defining Activity of Life: : A viability-oriented framework integrating process and scale."
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
+
+  - id: levin-watson-2025
+    authors: "Levin, M.; Watson, R. A."
+    year: 2025
+    title: "Machines All the Way Up and Cognition All the Way Down: Updating the Machine Metaphor in Biology"
+    doi: "10.31219/osf.io/jwhr7_v2"
 ---
 
 ## Introduction
@@ -280,6 +286,8 @@ These distinctions are not externally imposed judgments. They arise from the org
 Contemporary artificial systems can exhibit highly sophisticated and adaptive behaviour. Machine-learning systems, robotics, artificial agents, and synthetic systems may optimise performance, learn from experience, adapt to changing conditions, simulate goal-directed behaviour, and exhibit flexible problem-solving capacities.
 
 APS fully recognises these achievements.
+
+[[box:updating-the-machine-metaphor]]
 
 However, behavioural sophistication alone does not establish biological organisation.
 

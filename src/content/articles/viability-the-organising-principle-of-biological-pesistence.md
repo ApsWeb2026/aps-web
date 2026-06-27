@@ -119,10 +119,6 @@ This relationship gives viability a foundational role within biological explanat
   <p class="aps-diagram-caption">
   <strong>Viability and Organised Persistence.</strong>
   Viability occupies a central organising position within APS. Agency maintains viability, viability enables organised persistence, and organised persistence provides the continuity through which living systems exist across time. Process and scale reveal the temporal and distributed dimensions through which viability is maintained, while organism–world coupling situates viability within ongoing relations between living systems and their environments. Self-maintaining organisation and environmental relations together provide the context through which viability is continually enacted.
-</p>
-
-    Agency maintains viability, viability enables organised persistence, and organised persistence provides the continuity through which living systems exist across time. Process and scale identify the temporal and distributed dimensions through which viability is maintained, while organism–world coupling provides the environmental context in which viability is continually enacted.
-  </p>
 </div>
 
 ## Viability Beyond Survival
@@ -200,9 +196,9 @@ Temporal organisation becomes essential because living systems must:
 Viability therefore emerges through temporally organised activity rather than through static structure. Living systems remain viable because they continually produce the conditions under which future continuity remains possible.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/temporal-organisation-visual.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/temporal-organisation-persistence.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/temporal-organisation-visual.png"
+      src="/assets/diagrams/temporal-organisation-persistence.png"
       alt="Temporal organisation supporting organised persistence through coordinated biological activity across time."
       loading="lazy"
     />
