@@ -116,6 +116,22 @@ Beginning with agency changes the focus of biological explanation. Instead of as
 
 Agency therefore occupies a foundational position within APS. It provides the conceptual starting point from which viability, organisation, persistence, process, and scale become intelligible as interconnected dimensions of biological explanation.
 
+### Where This Article Fits
+
+Agency is one of the central concepts in APS and is explored across several complementary articles.
+
+This article provides the conceptual foundation. It explains why APS treats agency as the defining activity of life and how agency connects viability, organisation, persistence, process, and scale into a unified explanatory framework.
+
+For a more detailed account of how agency operates within living systems, see **Biological Agency as the Activity of Self-Maintenance**, which examines self-maintenance, viability regulation, organised persistence, function, normativity, and constraint closure in greater depth.
+
+For a broader survey of contemporary biological theory, see **Agency in Contemporary Biology**, which examines organism-centred evolution, autonomy theory, developmental agency, and process biology, and explains how APS relates to these approaches.
+
+Together, these articles move from foundation to operation to synthesis:
+
+- **Agency as the Defining Activity of Life** — The conceptual foundation of agency in APS.
+- **Biological Agency as the Activity of Self-Maintenance** — The operational account of how agency maintains viability and organised persistence.
+- **Agency in Contemporary Biology** — The broader theoretical context within which APS participates in the contemporary return of agency to biology.
+
 ## Why APS Begins with Agency
 
 The search for a defining principle of life has long occupied biology and philosophy. Throughout this history, different traditions have identified different candidates. Some have emphasised metabolism, others reproduction, information, self-organisation, evolution, autonomy, or complexity. Each captures something important about living systems, yet none fully explains why living systems persist as organised entities despite continual change.
