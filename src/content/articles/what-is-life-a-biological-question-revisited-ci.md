@@ -131,6 +131,8 @@ Many proposed definitions therefore rely on lists of characteristic traits. Life
 
 The deeper problem is that trait lists describe what living systems do rather than what they are. They identify recurring features without explaining why those features belong together or what unifies them within a single biological phenomenon. As a result, they provide useful descriptions but often fall short of genuine explanation.
 
+APS does not reject these familiar characteristics of life. Rather, it distinguishes between definition, diagnosis, and evidence. Metabolism, growth, responsiveness, reproduction, and evolutionary capacity may help diagnose living systems and provide evidence of living organisation, but they do not by themselves explain what life is. APS therefore seeks a definition of life in terms of the organisational condition that makes these biological phenomena possible in the first place.
+
 The question therefore remains open not because biology lacks facts, but because it still requires a framework capable of making sense of those facts. The challenge is not merely to catalogue the properties associated with life but to identify the kind of organisation that makes those properties biologically meaningful.
 
 This shifts the question from:
