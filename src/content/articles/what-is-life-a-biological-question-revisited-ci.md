@@ -8,7 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
 
-revised: 2026-06-28
+revised: 2026-06-29
 
 cluster: conceptual-foundations
 role: anchor
@@ -33,10 +33,10 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - agency-as-the-defining-activity-of-life
-  - biological-agency-as-the-activity-of-self-maintenance
   - persistence-organised-continuity-through-time
   - continuity-architecture-of-life
   - viability-the-organising-principle-of-biological-persistence
+  - what-is-it-about-life
 
 researchStreams: []
 

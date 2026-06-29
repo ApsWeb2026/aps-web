@@ -5,7 +5,7 @@ slug: agency-as-the-defining-activity-of-life
 type: article
 status: canonical
 canonical: false
-revised: 2026-06-27
+revised: 2026-06-29
 
 cluster: conceptual-foundations
 role: anchor
@@ -52,6 +52,7 @@ relatedArticles:
   - scale-how-life-is-coordinated-across-space-and-time
   - adaptation-how-living-systems-sustain-themselves-through-change
   - organism-environment-coupling
+  - what-is-it-about-life
 
 references:
   - id: spencer2026
