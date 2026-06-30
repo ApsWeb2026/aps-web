@@ -1,24 +1,37 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import BaseLayout from '@/layouts/BaseLayout.astro';
 ---
 
-<Layout title="Biology's Big Questions">
-  <main class="big-questions-page">
-    <section class="big-questions-hero">
+<BaseLayout title="Biology's Big Questions">
+  <div class="content-wrapper">
+    <section class="hero">
       <p class="eyebrow">APS Framework</p>
+
       <h1>Biology's Big Questions</h1>
-      <p class="intro">
-        Biology is full of deep questions. What is life? What makes something alive?
-        Why do organisms appear goal-directed? What are genes, species, evolution,
-        and cognition? APS approaches these questions through agency, process, and scale.
+
+      <p class="subtitle">
+        The questions that have shaped biology for centuries — and how APS approaches them.
+      </p>
+
+      <p class="hero-guidance">
+        What is life? What makes something alive? Why do organisms appear goal-directed?
+        What are genes, species, evolution, and cognition?
+      </p>
+
+      <p class="hero-guidance">
+        APS approaches these questions through agency, process, and scale.
       </p>
     </section>
 
-    <section class="big-questions-introduction">
-      <p>
-        This page gathers the major public-facing questions addressed by the APS Framework.
-        It is designed as a guided entry point rather than an alphabetical article index.
-      </p>
+    <section class="home-section">
+      <div class="article-text-block">
+        <h2>A Guided Entry Point</h2>
+
+        <p>
+          This page gathers the major public-facing questions addressed by the APS Framework.
+          It is designed as a guided entry point rather than an alphabetical article index.
+        </p>
+      </div>
     </section>
-  </main>
-</Layout>
+  </div>
+</BaseLayout>
