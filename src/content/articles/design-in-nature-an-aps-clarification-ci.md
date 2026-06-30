@@ -71,11 +71,7 @@ This intuition appears equally compelling when applied to living systems. Organi
 
 The apparent fit between organisation and outcome has therefore encouraged a powerful inference:
 
-```text
-Design
-    ↓
-Designer
-```
+Traditional design arguments begin with the observation that living systems appear highly organised and purposefully structured. From this observation they infer that such organisation must ultimately originate from an external designer.
 
 For much of intellectual history this inference appeared almost unavoidable. If a watch implies a watchmaker, then surely organisms—which are vastly more complex than watches—must imply an even greater designer. Classical teleological arguments rested upon precisely this intuition.
 
@@ -289,12 +285,7 @@ The remaining task is to identify the broader organisational principle underlyin
       loading="lazy"
     />
   </a>
-
-  <p class="aps-diagram-caption">
-    <strong>Design Without a Designer.</strong>
-    The appearance of design in living systems has traditionally been interpreted either as evidence of a designer or as an illusion produced by natural processes. APS proposes a third interpretation: biological design is the observable expression of organised persistence, emerging from the viability-oriented activities through which living systems maintain themselves across time.
-  </p>
-</div>
+  </div>
 
 ## Design as Organised Persistence
 
