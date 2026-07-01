@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-29
 revised: 2026-07-01
 cluster: philosophy-of-biology
+role: core
 
 abstract: >
   This article develops an APS account of semiosis as the ongoing
@@ -368,17 +369,7 @@ APS understands cognition as emerging when semiosis becomes organised across ext
 
 A bacterium following a nutrient gradient exhibits semiosis because environmental conditions acquire significance for viability-oriented activity. More complex organisms may additionally organise activity relative to remembered experiences, anticipated outcomes, or expected environmental states. Such capacities extend semiosis into increasingly sophisticated forms of cognition.
 
-The relationship can therefore be expressed as:
-
-```text
-Semiosis
-↓
-Temporal Extension
-↓
-Anticipation
-↓
-Cognition
-```
+APS understands cognition as emerging when semiosis becomes organised across increasingly extended temporal horizons. As living systems become capable of regulating activity relative not only to present conditions but also to anticipated future states, remembered circumstances, and alternative possibilities, semiosis develops into progressively more sophisticated forms of cognition. Cognition can therefore be understood as a temporally extended elaboration of more fundamental semiotic organisation.
 
 Cognition remains continuous with semiosis because both concern the organisation of significance within living systems. The distinction lies not in the presence or absence of meaning but in the temporal scope and organisational complexity through which significance influences activity.
 
