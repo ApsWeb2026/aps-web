@@ -299,18 +299,3 @@ Seen in this way, regulation is neither an isolated mechanism nor a universal ex
 
 Understanding regulation in this broader context reveals why it appears throughout biology. It is not simply because living systems require control, but because living systems can remain alive only by continually organising themselves in ways that preserve their own viability. Regulation therefore becomes intelligible as one of the fundamental organisational processes through which continuity is maintained and organised persistence becomes possible.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/conceptual-regulation.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/conceptual-regulation.png"
-      alt="APS Regulation Architecture showing biological regulation as an organisational process that coordinates homeostasis, homeorhesis, and biological agency in service of organised persistence"
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    <strong>APS Regulation Architecture.</strong>
-    Biological regulation is one of the principal organisational processes through which living systems maintain organised persistence. Rather than constituting biology's ultimate explanatory target, regulation continually coordinates physiological stability, developmental continuity, and viability-oriented activity across biological scales, thereby enabling organised persistence under changing conditions.
-  </p>
-</div>
-

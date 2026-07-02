@@ -950,8 +950,8 @@
     "lockedSince": "2026-06-11"
   },
   "glossary/biological-individual": {
-    "hash": "a3bbdd8987b7be83",
-    "revised": "2026-06-15",
+    "hash": "9fcb2ef14e40d32b",
+    "revised": "2026-07-02",
     "lockedSince": "2026-05-27"
   },
   "glossary/causation": {
@@ -1480,7 +1480,7 @@
     "lockedSince": "2026-04-16"
   },
   "articles/what-is-biological-regulation": {
-    "hash": "cb51ab19e231eb08",
+    "hash": "c0e8f93f59ca39d5",
     "revised": "2026-07-01",
     "lockedSince": "2026-06-25"
   },
@@ -1503,5 +1503,25 @@
     "hash": "1e6edfa29c67f80f",
     "revised": "2026-06-29",
     "lockedSince": "2026-06-29"
+  },
+  "articles/what-is-the-fundamental-unit-of-life": {
+    "hash": "70c1bac11d955243",
+    "revised": "2026-07-01",
+    "lockedSince": "2026-07-01"
+  },
+  "articles/what-is-the-meaning-of-life": {
+    "hash": "869ad55c19580676",
+    "revised": "2026-07-02",
+    "lockedSince": "2026-07-02"
+  },
+  "glossary/organismality": {
+    "hash": "e2c0e5b3252828e2",
+    "revised": "2026-07-02",
+    "lockedSince": "2026-07-02"
+  },
+  "glossary/goal": {
+    "hash": "878965c0524edaee",
+    "revised": "2026-07-02",
+    "lockedSince": "2026-07-02"
   }
 }
