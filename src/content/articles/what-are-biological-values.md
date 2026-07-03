@@ -16,26 +16,24 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-02
+revised: 2026-07-03
 cluster: cognition-and-mind
-role:
+role: core
 
 relatedGlossaryTerms:
-  - biological values
+  - biological value
   - biological agency
   - biological meaning
-  - biological evaluation
   - organised persistence
   - viability
   - cognition
-  - goals
-  - morality
-  
+  - goal
+    
 relatedArticles:
-  - what-is-life
-  - what-is-biological-agency
-  - what-is-cognition
+  - what-is-life-a-biological-question-revisited
+  - biological-agency-as-the-activity-of-self-maintenance
+  - cognition-where-does-it-belong-in-biology
   - why-do-organisms-have-goals
-  - what-is-biological-meaning
   - what-is-biological-evaluation
   - where-do-human-values-come-from
 
@@ -59,8 +57,8 @@ references:
     year: 2016
     title: "Biological Regulation: Controlling the System from Within"
     journal: Biology & Philosophy
-    volume: 31(2)
-    pages: 237–265
+    volume: "31(2)"
+    pages: "237–265"
     doi: 10.1007/s10539-015-9497-8
 
   - id: di-paolo-2005-autopoiesis-adaptivity-agency
@@ -68,8 +66,8 @@ references:
     year: 2005
     title: Autopoiesis, Adaptivity, Teleology, Agency
     journal: Phenomenology and the Cognitive Sciences
-    volume: 4(4)
-    pages: 429–452
+    volume: "4(4)"
+    pages: "429–452"
     doi: 10.1007/s11097-005-9002-y
 
   - id: deacon-2012-incomplete-nature
@@ -83,8 +81,8 @@ references:
     year: 2015
     title: The Cognitive Cell
     journal: Frontiers in Psychology
-    volume: 6
-    pages: 264
+    volume: "6"
+    pages: "264"
     doi: 10.3389/fpsyg.2015.00264
 
   - id: godfrey-smith-2016-other-minds
@@ -111,8 +109,8 @@ references:
     year: 2001
     title: "Social Cognitive Theory: An Agentic Perspective"
     journal: Annual Review of Psychology
-    volume: 52
-    pages: 1–26
+    volume: "52"
+    pages: "1–26"
     doi: 10.1146/annurev.psych.52.1.1
 
   - id: mesoudi-2015-cultural-evolution

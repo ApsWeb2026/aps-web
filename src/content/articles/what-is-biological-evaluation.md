@@ -1,10 +1,10 @@
 ---
+date: 2026-07-02
 title: What Is Biological Evaluation?
 slug: what-is-biological-evaluation
-description: Biological evaluation is the process by which living systems distinguish conditions according to their significance for viability, functioning, and adaptive persistence. It provides a bridge between agency, cognition, behaviour, value, morality, and meaning.
-date: 2026-07-02
+abstract: Biological evaluation is the process by which living systems distinguish conditions according to their significance for viability, functioning, and adaptive persistence. It provides a bridge between agency, cognition, behaviour, value, morality, and meaning.
 type: article
-revised: 2026-07-02
+revised: 2026-07-03
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-02
@@ -12,25 +12,21 @@ cluster: cognition-and-mind
 
 relatedGlossaryTerms:
   - biological-agency
-  - biological-evaluation
   - cognition
   - behaviour
   - viability
   - teleology
   - meaning
-  - values
+  - biological-value
 
 relatedArticles:
-  - what-is-life
-  - what-is-biological-agency
+  - what-is-life-a-biological-question-revisited
+  - biological-agency-as-the-activity-of-self-maintenance
   - why-do-organisms-have-goals
-  - what-is-cognition
+  - cognition-where-does-it-belong-in-biology
   - where-do-human-values-come-from
-  - can-biology-explain-morality
   - what-is-the-meaning-of-life
 
-references:
-  - spencer-2026-agency-defining-activity
 ---
 
 ## Introduction

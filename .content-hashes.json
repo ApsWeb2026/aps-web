@@ -1523,5 +1523,30 @@
     "hash": "878965c0524edaee",
     "revised": "2026-07-02",
     "lockedSince": "2026-07-02"
+  },
+  "articles/what-are-biological-values": {
+    "hash": "bfd2faf709691a03",
+    "revised": "2026-07-03",
+    "lockedSince": "2026-07-02"
+  },
+  "articles/what-is-biological-evaluation": {
+    "hash": "8f0ac1a4514c14df",
+    "revised": "2026-07-03",
+    "lockedSince": "2026-07-02"
+  },
+  "glossary/biological-value": {
+    "hash": "641db405b3289735",
+    "revised": "2026-07-03",
+    "lockedSince": "2026-07-03"
+  },
+  "glossary/behaviour": {
+    "hash": "620bfebe87906529",
+    "revised": "2026-07-03",
+    "lockedSince": "2026-07-03"
+  },
+  "articles/where-do-human-values-come-from": {
+    "hash": "3a00cab2149d517b",
+    "revised": "2026-07-03",
+    "lockedSince": "2026-07-03"
   }
 }
