@@ -121,6 +121,13 @@ references:
     title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
     journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
+
+  - id: bender-et-al-2026-what-lives
+    authors: Bender, R., Kofman, K., Agüera y Arcas, B., & Levin, M.
+    year: 2026
+    title: What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00544-9
 ---
 
 ## Introduction
@@ -1195,6 +1202,10 @@ Different traditions have approached this challenge from different directions.
 The continuing value of their work lies not only in the answers they proposed but in the explanatory questions they revealed.
 
 Those questions remain as important today as they were in Aristotle's time.
+
+The continuing absence of a universally accepted definition of life may reflect more than simple disagreement about biological facts. A recent computational analysis of expert definitions (Bender et al. 2026) used large language models and semantic clustering techniques to examine how different definitions relate to one another conceptually. Rather than identifying sharply separated camps, the study revealed a continuous landscape of overlapping themes and perspectives, suggesting that competing definitions often emphasize different aspects of a shared phenomenon rather than describing entirely different things. This finding supports the view that life is difficult to capture through a single checklist of properties and may be better understood as a multidimensional, processual phenomenon. From an APS perspective, the diversity of definitions is therefore not necessarily evidence that life lacks coherence, but may instead reflect the challenge of describing a dynamic, multiscale form of organization from different explanatory standpoints. 
+
+The proliferation of definitions does not imply that life has no underlying unity.
 
 Why do living systems maintain themselves?
 
