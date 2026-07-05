@@ -1578,5 +1578,20 @@
     "hash": "951b277df4c5a852",
     "revised": "2026-07-05",
     "lockedSince": "2026-07-05"
+  },
+  "articles/what-is-biological-significance": {
+    "hash": "dcd4c5e07f15e0e4",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-05"
+  },
+  "glossary/reflective-evaluation": {
+    "hash": "3d1ee4e0de78560f",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-05"
+  },
+  "glossary/significance": {
+    "hash": "8b85d8be672e4aee",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-05"
   }
 }
