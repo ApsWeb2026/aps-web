@@ -335,7 +335,7 @@
     "lockedSince": "2026-04-12"
   },
   "articles/cognition-where-does-it-belong-in-biology": {
-    "hash": "8ea4ac61fe53e28c",
+    "hash": "618bdb933ebaae68",
     "revised": "2026-07-05",
     "lockedSince": "2026-07-05"
   },
@@ -1573,5 +1573,10 @@
     "hash": "653f9fb7b31090d9",
     "revised": "2026-07-04",
     "lockedSince": "2026-07-04"
+  },
+  "articles/what-is-mind": {
+    "hash": "951b277df4c5a852",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-05"
   }
 }

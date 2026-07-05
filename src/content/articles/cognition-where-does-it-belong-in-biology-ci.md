@@ -35,14 +35,13 @@ relatedGlossaryTerms:
   - scale
 
 relatedArticles:
-  - what-is-biological-agency
+  - biological-agency-as-the-activity-of-self-maintenance
   - what-is-biological-evaluation
   - meaning-in-biology-an-aps-clarification
   - semiosis-how-differences-come-to-matter-in-living-systems
   - information-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems
   - what-is-mind
-  - what-is-selfhood
   - consciousness-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
   - why-life-is-not-information-processing
