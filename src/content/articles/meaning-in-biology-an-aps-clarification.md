@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-07-06
 cluster: philosophy-of-biology
 
 abstract: >
@@ -103,7 +103,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Meaning in Biology — An APS Clarification
+## Meaning in Biology — An APS Clarification
 
 > **Where this article fits:** This article develops the APS account of meaning as stabilised evaluative significance within viability-oriented organised persistence. Meaning is treated not as symbolic interpretation, detached representation, or abstract informational encoding alone, but as the organisation of biologically significant difference within continuity-preserving evaluative activity. It therefore forms one of the principal bridges linking semiosis, information, representation, cognition, and biological agency within APS.
 
@@ -145,6 +145,8 @@ Meaning originates where differences come to matter within viability-oriented or
 [[box:aps-box-meaning-is-evaluative-significance]]
 
 [[box:aps-box-semiosis-is-operational]]
+
+[[box:significance-and-related-concepts]]
 
 # From Evaluation to Meaning
 

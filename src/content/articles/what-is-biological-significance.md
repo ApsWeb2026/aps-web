@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-07-05
+revised: 2026-07-06
 cluster: cognition-and-mind
 role: core
 
@@ -84,6 +84,8 @@ This distinction clarifies why significance occupies a unique position within th
 
 [[box:significance-is-not-information]]
 
+[[box:significance-and-related-concepts]]
+
 ## What Is Biological Significance?
 
 Biological significance is the relevance of conditions, events, or possibilities to a living system. More specifically, it refers to the degree to which something matters because of its relationship to the organism's ongoing activity, organisation, functioning, or persistence.
@@ -105,6 +107,19 @@ The concept also clarifies why biological systems cannot be fully understood thr
 For APS, significance is particularly important because it provides a common explanatory foundation linking diverse biological phenomena. The same underlying principle that explains why a cell responds to a stress signal also helps explain why animals attend to predators, why plants alter growth patterns in response to environmental conditions, and why humans organise their lives around goals, commitments, and concerns. The specific mechanisms differ, but the underlying reality that some conditions matter remains continuous.
 
 If significance is the relevance that conditions acquire for living systems, it should not be confined to organisms with nervous systems, language, or consciousness. Rather, significance should appear wherever living systems distinguish conditions according to their consequences for continued activity and persistence.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-significance-explained.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-significance-explained.png"
+      alt="Biological significance as the bridge between evaluation, meaning, cognition, mind, selfhood, values, and morality"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>From Significance to Mind.</strong>
+    Biological significance occupies a pivotal position within the APS cognition and mind architecture. Affordances provide possibilities for action or interaction, evaluation distinguishes which possibilities matter, and significance is the resulting relevance of those conditions to an agent. Meaning and cognition emerge as complementary developments of significance and together contribute to mind. Subsequent developments include selfhood, reflective agency, reflective evaluation, values, and morality. The diagram illustrates how increasingly complex forms of cognition and social organisation develop from the fundamental biological reality that some conditions matter more than others.
+  </p>
+</div>
 
 ## Biological Significance Across Scales
 

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-07-05
+revised: 2026-07-06
 cluster: philosophy-of-biology
 
 abstract: >
@@ -230,6 +230,7 @@ Within this framework, cognition occupies a distinctive but non-foundational pos
   </p>
 </div>
 
+[[box:significance-and-related-concepts]]
 
 ## Why Cognition Became Separated from Biology
 

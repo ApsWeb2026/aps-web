@@ -16,7 +16,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-02
-revised: 2026-07-03
+revised: 2026-07-06
 cluster: cognition-and-mind
 role: core
 
@@ -134,6 +134,8 @@ Biological values are not moral principles, conscious preferences, or abstract i
 This means that biological values are relational rather than intrinsic. The same condition may be valuable for one organism, neutral for another, and harmful for a third because value depends upon the relationship between the organism and the condition being encountered. Sunlight, for example, supports photosynthesis in plants and is therefore highly valuable to many species, yet excessive exposure may damage other organisms or create physiological stress. Biological values therefore do not exist independently of living systems. They emerge from the ongoing interaction between organisms and the conditions that affect their persistence.
 
 From an APS perspective, biological values are neither arbitrary nor externally imposed. They arise through the continual processes by which living systems maintain organised persistence in changing environments. Value is therefore not an additional feature attached to life but a consequence of the way living systems must continually regulate themselves in order to remain viable.
+
+[[box:significance-and-related-concepts]]
 
 ## Why Do Living Systems Have Values?
 
