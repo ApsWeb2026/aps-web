@@ -1,10 +1,23 @@
 ---
+date: 2026-07-04
 title: Biological Evaluation
 slug: biological-evaluation
 type: glossary
+
+definition: >
+  Biological evaluation is the process through which living systems distinguish
+  internal and external conditions according to their significance for
+  viability, functional integrity, and adaptive persistence.
+
+inBrief: >
+  Biological evaluation is the process through which living systems distinguish
+  what matters for continued functioning and adaptive persistence.
+
 status: canonical
 canonical: true
-revised: 2026-07-04
+canonicalLockDate: 2026-07-04
+revised: 2026-07-05
+
 cluster: cognition-and-mind
 
 relatedTerms:

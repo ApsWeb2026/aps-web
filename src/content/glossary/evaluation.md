@@ -1,15 +1,25 @@
 ---
+date: 2026-07-04
 title: Evaluation
 slug: evaluation
 type: glossary
 
-role: clarification
+definition: >
+  Evaluation is the process by which conditions, states, actions, or
+  possibilities are distinguished according to their significance relative to
+  some criterion, norm, goal, or standard.
+
+inBrief: >
+  Evaluation is the process of distinguishing what matters relative to a
+  particular criterion, norm, goal, or standard.
 
 status: canonical
 canonical: true
-revised: 2026-07-04
+canonicalLockDate: 2026-07-04
+revised: 2026-07-05
 
 cluster: cognition-and-mind
+role: clarification
 
 relatedTerms:
   - biological-evaluation

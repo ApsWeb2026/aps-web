@@ -5,10 +5,19 @@ date: 2026-07-02
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-04
-revised: 2026-07-04
+revised: 2026-07-05
 type: article
 cluster: cognition-and-mind
 role: synthesis
+
+abstract: >
+  Biological evaluation is the process through which living systems distinguish
+  conditions according to their significance for viability, functional
+  integrity, and adaptive persistence. In APS, evaluation emerges directly from
+  biological agency and provides the foundation for adaptive regulation,
+  meaning, cognition, mind, selfhood, values, and morality. By explaining how
+  significance arises within living systems, biological evaluation serves as a
+  central bridge between biological organization and human experience.
 
 keyPoints:
   - Biological evaluation is the process through which living systems distinguish conditions according to their significance for viability and adaptive persistence.
@@ -39,7 +48,6 @@ relatedArticles:
   - why-do-organisms-have-goals
   - cognition-where-does-it-belong-in-biology
   - where-do-human-values-come-from
-  - can-biology-explain-morality
   - what-is-the-meaning-of-life
 
 references:

@@ -5,53 +5,49 @@ slug: cognition-where-does-it-belong-in-biology
 type: article
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+canonicalLockDate: 2026-07-05
+revised: 2026-07-05
 cluster: philosophy-of-biology
 
 abstract: >
-  This article repositions cognition within biology as a specialised
-  organisational development of viability-oriented organised persistence rather
-  than as the defining basis of life or a property restricted to nervous
-  systems alone. APS interprets cognition as a temporally extended form of
-  evaluative semiosis emerging through continuity-sensitive regulation within
-  living systems. Cognition arises when viability-oriented organisation becomes
-  sufficiently integrated across time that present activity is coordinated
-  relative to absent, delayed, anticipated, hypothetical, or counterfactual
-  conditions. APS therefore situates cognition downstream from viability,
-  evaluation, semiosis, meaning, information, and representation rather than
-  treating cognition as biologically foundational.
+  Cognition is often treated either as the defining basis of life or as a specialised property restricted to brains and nervous systems. APS rejects both views. Living systems are fundamentally viability-oriented agents that regulate activity in ways that sustain organised persistence across changing conditions. Within this broader architecture, biological evaluation establishes what matters for continued existence, meaning emerges from the significance of those conditions, and cognition develops when meaningful significance becomes sufficiently integrated across time to guide adaptive activity. APS therefore interprets cognition as the organisation of biological significance across temporal horizons rather than as information processing, representation, prediction, or intelligence alone. Cognition is neither biologically foundational nor biologically exceptional. It is a specialised organisational development emerging from biological agency and evaluation that links meaning to mind and contributes to the later emergence of selfhood and reflective agency.
 
 relatedGlossaryTerms:
   - cognition
+  - biological-agency
+  - biological-imperative
+  - biological-evaluation
   - evaluation
-  - semiosis
   - meaning
+  - mind
+  - selfhood
+  - reflective-agency
+  - semiosis
   - information
   - representation
-  - biological-agency
   - viability
   - normativity
   - persistence
   - continuity
   - temporality
-  - counterfactual-depth
   - adaptation
   - process
   - scale
 
 relatedArticles:
-  - semiosis-how-differences-come-to-matter-in-living-systems
+  - what-is-biological-agency
+  - what-is-biological-evaluation
   - meaning-in-biology-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
   - information-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems
-  - evaluation-how-living-systems-modulate-activity-relative-to-viability
-  - function-and-normativity-why-biological-organisation-matters
+  - what-is-mind
+  - what-is-selfhood
+  - consciousness-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
   - why-life-is-not-information-processing
   - why-life-is-not-active-inference
   - why-ai-is-not-biological-agency
-  - consciousness-an-aps-clarification
   - temporal-organisation-and-organised-persistence
   - organisational-realism-in-biology
   - explanatory-geometry-of-biology
@@ -150,521 +146,338 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-> **Where this article fits:** This article develops the APS account of cognition as a specialised organisational development within viability-oriented organised persistence. Cognition is treated neither as the defining basis of life nor as a detached mental faculty, but as a temporally extended form of evaluative semiosis emerging within continuity-preserving biological organisation. APS therefore situates cognition downstream from viability, evaluation, semiosis, meaning, information, and representation rather than treating cognition as biologically foundational.
+> **Where this article fits:** APS situates cognition within a broader architecture of biological organisation extending from agency and evaluation to meaning, mind, and selfhood. Cognition is neither the defining basis of life nor a specialised property of brains alone. Rather, it emerges when biologically meaningful significance becomes sufficiently integrated across time to guide adaptive activity. This article explains where cognition belongs within biology and why it serves as a bridge between biological meaning and mind.
 
-Cognition is often treated as:
-- the defining basis of life;
-- a specialised property of brains;
-- a form of information processing;
-- a representational modelling system;
-- or a synonym for intelligence itself.
+## Introduction
 
-APS rejects these framings when treated in isolation.
+Cognition occupies an uncertain position within biology.
 
-Living systems are viability-oriented organisations that continuously regulate activity relative to conditions affecting persistence.
+In some traditions, cognition is treated as the defining characteristic of life itself. In others, it is regarded as a specialised property restricted to organisms possessing nervous systems. Still other approaches identify cognition with information processing, representation, prediction, computation, intelligence, or conscious thought. Although these perspectives differ substantially, they share a common assumption: cognition is treated as a distinct explanatory domain whose relationship to life remains unclear.
 
-Within such systems:
-- some conditions matter;
-- some support viability;
-- others undermine it;
-- and activity becomes differentially modulated relative to those conditions.
+APS rejects this separation because living systems are not cognitive simply because they possess minds, nor are they alive because they process information. Living systems are viability-oriented agents that continuously regulate activity in ways that sustain organised persistence across changing conditions. Agency, evaluation, adaptation, and cognition are therefore not separate domains layered upon life, but increasingly integrated developments within the organisation of living systems themselves.
 
-This modulation is evaluation.
+This perspective changes how cognition is understood. Cognition does not appear suddenly with brains, language, or consciousness, nor is it present in identical form throughout all living systems. Instead, cognition emerges gradually within an already existing architecture of biological organisation. Biological agency establishes active engagement with the world, biological evaluation determines what matters for continued viability, and meaning arises from the significance of those conditions. Cognition develops when meaningful significance becomes organised across time in ways that support flexible and adaptive regulation.
 
-The organisation of meaningful difference within that modulation is semiosis.
+APS therefore neither elevates cognition to the foundation of life nor excludes it from most of biology. Instead, cognition is understood as a specialised organisational development emerging within viability-oriented agency. Its distinctive role is to integrate biologically meaningful significance across temporal horizons, allowing living systems to coordinate activity relative not only to present conditions but also to remembered circumstances, anticipated outcomes, and potential futures.
 
-Meaning emerges where biologically significant differences become stabilised within organised persistence.
+This repositioning has important consequences. It situates cognition firmly within biology, clarifies its relationship to agency and evaluation, distinguishes it from intelligence and representation, and explains how cognition contributes to the later emergence of mind, selfhood, and reflective agency. Understanding cognition in this way allows APS to integrate cognitive phenomena into the same explanatory framework used to understand life more generally.
 
-Information emerges where meaningful differences participate in coordinated regulation.
+## Cognition Within the APS Architecture
 
-Representation may emerge where informational organisation becomes sufficiently integrated relative to absent, delayed, hypothetical, or future conditions.
+APS situates cognition within a broader architecture of biological organisation rather than treating it as an isolated faculty or explanatory starting point.
 
-Cognition develops where these organisational processes become increasingly temporally integrated, behaviourally flexible, and continuity-sensitive.
+The most fundamental feature of living systems is not cognition but the biological imperative: the ongoing requirement to maintain viable organisation across changing conditions. This imperative is expressed through biological agency, the capacity of living systems to initiate, regulate, and coordinate activities that sustain organised persistence. Agency in turn depends upon continuous evaluation because organisms must distinguish conditions that support viability from those that undermine it. Evaluation is therefore not an optional addition to biological organisation but one of the processes through which agency becomes effective.
 
-APS therefore treats cognition not as the basis of life itself, but as a specialised organisational development within viability-oriented organised persistence.
+Through biological evaluation, some conditions become significant. Nutrients, threats, opportunities, environmental gradients, social signals, and internal physiological states do not affect living systems equally. They matter differently according to their consequences for continued viability. Significance therefore emerges from the relationship between conditions and the persistence of the organism rather than from any externally imposed system of values.
 
-[[box:aps-box-viability-grounds-evaluation]]
+Meaning develops when such significance becomes stabilised within ongoing patterns of biological organisation. Meaning is not imposed upon living systems from outside, nor is it reducible to human interpretation. Instead, meaning arises through the evaluative relationships organisms maintain with themselves and their environments. Meaning therefore reflects the organisation of biological significance within agency.
 
-[[box:aps-box-semiosis-is-operational]]
+Cognition emerges when meaningful significance becomes sufficiently integrated across time that it can be retained, coordinated, and utilised in the regulation of adaptive activity. Living systems exhibiting cognition do not merely respond to immediate circumstances. They increasingly organise behaviour relative to remembered conditions, anticipated outcomes, delayed consequences, and possible future states. Cognition therefore extends biological significance across temporal horizons.
 
-# Cognition Within the APS Architecture
+This relationship can be summarised schematically:
 
-APS situates cognition within a broader organisational sequence:
-
-viability  
+Biological Imperative  
 ↓  
-evaluation  
+Biological Agency  
 ↓  
-semiosis  
+Biological Evaluation  
 ↓  
-meaning  
+Significance  
 ↓  
-information  
+Meaning  
 ↓  
-representation  
-↓  
-cognition
+Cognition
 
-This sequence does not introduce separate substances or explanatory domains.
+This sequence does not describe separate substances, levels, or modules. Rather, it identifies increasingly integrated forms of organisation within living systems and clarifies how cognition emerges from processes that are already present within biological agency.
 
-It clarifies organisational developments already implicit within living systems themselves.
+Cognition is also not the endpoint of this architecture. Once biological significance becomes sufficiently integrated through cognitive organisation, further developments become possible. Cognitive organisation may become increasingly unified, generating coherent relationships between agent and world. This broader integration contributes to what APS describes as mind. Through continuing integration and stabilisation, cognitive organisation may also contribute to the emergence of selfhood, where evaluative and cognitive continuity becomes organised around a persistent perspective.
 
-Within this sequence:
-- viability establishes continuity conditions;
-- evaluation modulates activity relative to persistence;
-- semiosis organises differences as biologically meaningful;
-- meaning stabilises evaluative significance;
-- information participates in organised coordination;
-- representation may emerge where cognition becomes sufficiently temporally extended;
-- cognition develops where evaluative organisation becomes increasingly integrated across time and behavioural coordination.
+The broader APS architecture can therefore be represented as:
 
-APS therefore interprets cognition as:
-> temporally extended evaluative semiosis integrated within viability-oriented organised persistence.
+Biological Imperative  
+↓  
+Biological Agency  
+↓  
+Biological Evaluation  
+↓  
+Significance  
+↓  
+Meaning  
+↓  
+Cognition  
+↓  
+Mind  
+↓  
+Selfhood  
+↓  
+Reflective Agency
+
+Importantly, this architecture should not be understood as a rigid hierarchy. Living systems do not progress through discrete stages, nor do these concepts describe separate explanatory domains. Instead, they represent increasingly integrated forms of evaluative organisation emerging within viability-oriented living systems.
+
+Within this framework, cognition occupies a distinctive but non-foundational position. It emerges from biological evaluation and meaning, yet contributes to the development of mind and selfhood. Cognition is therefore best understood as the organisation of biological significance across time and as the bridge between biological meaning and mind.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/cognition-aps-architecture.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/cognition-visual.png"
-      alt="Cognition within viability-oriented organised persistence"
+      src="/assets/diagrams/cognition-aps-architecture.png"
+      alt="Cognition within the APS architecture"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Cognition Within Organised Persistence.</strong>
-    APS interprets cognition as a specialised organisational development emerging through temporally extended evaluation, semiosis, meaning, information, and representation within viability-oriented organised persistence.
+    <strong>Cognition Within the APS Architecture.</strong>
+    APS situates cognition within a broader architecture of biological organisation. Emerging from biological agency, evaluation, significance, and meaning, cognition organises biological significance across time and contributes to the development of mind, selfhood, and reflective agency.
   </p>
 </div>
 
-Recent discussions in theoretical biology have suggested that cognition may be becoming an increasingly central explanatory concept across biological domains, extending well beyond traditional cognitive science. This trend reflects growing interest in agency, behavioural flexibility, organism–environment interaction, plant cognition, basal cognition, and distributed forms of regulation. APS welcomes this renewed biological interest in cognition while arguing that cognition itself must be situated within a more fundamental organisational framework grounded in viability, evaluation, semiosis, and organised persistence.
 
-# Why Cognition Became Separated from Biology
+## Why Cognition Became Separated from Biology
 
-Cognition has often been treated as conceptually separate from biological organisation itself.
+Cognition has often been treated as conceptually separate from biological organisation. Within many scientific and philosophical traditions, life and cognition came to be regarded as distinct explanatory domains. Biology was largely concerned with metabolism, development, physiology, reproduction, and evolution, whereas cognition was increasingly associated with mental representation, information processing, intelligence, consciousness, or reasoning. As a result, cognition was frequently positioned at the uppermost reaches of biological complexity rather than being understood as a phenomenon emerging from biological organisation itself.
 
-Within many conventional frameworks:
-- life is treated as one domain;
-- cognition as another;
-- and intelligence as a further specialised development.
+Several historical developments contributed to this separation. The success of computational approaches encouraged the view that cognition could be understood primarily as information processing. Cognitive activity became associated with the manipulation of internal representations, symbolic operations, or computational procedures that could in principle be realised independently of particular biological systems. At the same time, representational theories increasingly treated cognition as the construction and manipulation of internal models of the external world. Although these approaches generated important insights into specific cognitive phenomena, they often obscured the biological conditions that make cognition possible in the first place.
 
-Cognition therefore becomes associated primarily with:
-- nervous systems;
-- symbolic representation;
-- internal world models;
-- information processing;
-- computation;
-- or conscious reasoning.
+A similar separation emerged through the close association of cognition with intelligence. Because intelligence is most conspicuous in humans and other animals with complex nervous systems, cognition itself often came to be defined in terms of problem-solving, abstract reasoning, planning, language, or conscious deliberation. This tendency encouraged a view in which cognition appeared only relatively late in evolutionary history and existed primarily as a specialised property of particular organisms. Biological organisation provided the substrate upon which cognition operated, but cognition itself was treated as something fundamentally distinct from the processes that sustain life.
 
-APS rejects this separation.
+APS rejects these separations because they invert the explanatory relationship between life and cognition. Information processing, representation, prediction, intelligence, and conscious reasoning may all occur within certain forms of cognition, but none of them explains how cognition arises in the first place. Before a living system can represent, compute, predict, or reason, it must already be organised in ways that distinguish conditions according to their consequences for continued viability. The capacity to determine what matters precedes any capacity to think about what matters.
 
-Nor does APS identify cognition with:
-- symbolic representation;
-- information processing;
-- predictive modelling;
-- or intelligence considered independently of viability-oriented organisation.
+For APS, cognition is therefore not an autonomous domain detached from biology. It emerges within an already existing architecture of biological agency, evaluation, and meaning. The question is not how cognition becomes attached to life, but how increasingly sophisticated forms of cognition emerge from organisational processes that are already present within living systems. Reintegrating cognition into biology requires beginning with those more fundamental processes rather than treating cognition as their unexplained starting point.
 
-This separation reflects a broader problem in biology and cognitive science:
-concepts such as cognition, intelligence, representation, and information are often employed without sufficient organisational grounding.
+## Evaluation Before Cognition
 
-APS instead begins from organised persistence itself.
+APS argues that evaluation precedes cognition organisationally because living systems must first distinguish conditions according to their consequences for viability before they can organise those distinctions across time. Cognition concerns the integration and coordination of significance, but significance itself originates within evaluation. Without evaluation there would be no basis upon which conditions could matter, no criterion for adaptive regulation, and no foundation from which cognition could emerge.
 
-# Evaluation Before Cognition
+The starting point is the biological imperative. Living systems persist only by continuously maintaining viable organisation in the face of changing internal and external conditions. This ongoing requirement generates the need for biological agency, because persistence depends upon active regulation rather than passive existence. Organisms must acquire resources, respond to perturbations, maintain internal organisation, and adjust behaviour in ways that support continued viability. Agency therefore expresses the biological imperative through organised activity directed toward the maintenance of living organisation.
 
-Evaluation precedes cognition organisationally.
+Agency alone, however, is insufficient. Effective regulation requires organisms to distinguish between conditions that support persistence and conditions that undermine it. This distinction constitutes biological evaluation. Evaluation is the process through which living systems modulate activity according to the significance of changing circumstances for continued viability. Conditions that contribute to persistence acquire positive significance within the organisation of the system, whereas conditions that threaten persistence acquire negative significance. Evaluation therefore introduces a normative dimension into biological organisation because some states become better or worse relative to the continued maintenance of living activity.
 
-Living systems continuously regulate activity relative to conditions affecting persistence.
+This normativity is not imposed externally. Living systems do not require an observer to determine whether dehydration, starvation, injury, or environmental instability matter. Such conditions matter because of their consequences for the persistence of the organism itself. Biological evaluation therefore generates an endogenous form of normativity rooted in the organisational requirements of living systems. Conditions acquire significance because they affect the capacity of organisms to continue existing as organised agents.
 
-Some conditions:
-- support viability;
-- stabilise continuity;
-- preserve organisation;
-- or enhance adaptive capacity.
+Cognition emerges only after such significance can be organised across time. A bacterium moving toward a nutrient source already distinguishes conditions according to their consequences for viability. A plant adjusting growth in response to changing environmental conditions already evaluates circumstances according to their biological relevance. These forms of evaluation may occur without the richer forms of temporal integration associated with cognition. Organisms can therefore evaluate conditions before they exhibit cognition in the stronger APS sense.
 
-Others:
-- undermine continuity;
-- threaten persistence;
-- destabilise organisation;
-- or contribute to breakdown.
+The organisational priority of evaluation is therefore straightforward. Evaluation determines what matters. Cognition develops when what matters can be retained, coordinated, and utilised across extended temporal horizons. Cognition depends upon evaluation because the organisation of significance presupposes the prior existence of significance itself. The question is not whether cognition evaluates, but how increasingly sophisticated forms of evaluation become organised into cognitive systems capable of adaptive regulation across time.
 
-Living systems therefore modulate activity differentially relative to viability conditions.
+## Cognition and Biological Significance
 
-This modulation constitutes evaluation.
+Between evaluation and meaning lies significance. Although often overlooked, significance provides the essential bridge linking biological evaluation to cognition. Evaluation determines whether conditions matter for viability, but significance concerns the consequences of those conditions for the ongoing organisation of the living system. Significance therefore explains how biological relevance becomes available for further organisation.
 
-Importantly, evaluation does not require:
-- symbolic representation;
-- linguistic reasoning;
-- internal world models;
-- explicit prediction;
-- or conscious awareness.
+Conditions become biologically significant when they influence the capacity of an organism to maintain viable organisation. Nutrients, toxins, predators, mates, social partners, environmental gradients, physiological states, and ecological opportunities all acquire significance because they affect the organism's continued persistence. Significance is therefore relational rather than intrinsic. A condition is significant not because it possesses significance in isolation, but because of its relationship to the viability-oriented organisation of the agent.
 
-A bacterium moving toward nutrients already exhibits:
-- viability-oriented evaluation;
-- semiosis;
-- adaptive regulation;
-- and continuity-sensitive organisation
+This relationship is crucial because it explains why significance is not imposed externally. Biological significance does not arise through conscious interpretation, symbolic description, or observer attribution. Living systems generate significance through their own organisation. The same environmental condition may possess different significance for different organisms because significance depends upon the specific organisational requirements of each agent. What matters biologically emerges from the relationship between conditions and the persistence of the organism rather than from any universal system of values.
 
-without requiring cognition in the stronger APS sense.
+Significance also provides the transition from evaluation to meaning. Evaluation establishes that a difference matters. Significance concerns the consequences of that difference for the organism. Meaning emerges when such significance becomes stabilised within ongoing patterns of biological organisation. Meaning therefore does not appear independently of significance, but develops from the continued organisation of significant relationships within agency.
 
-APS therefore distinguishes carefully between:
-- evaluation;
-- semiosis;
-- and cognition.
+Cognition depends upon this process because cognition does not create significance. Rather, cognition organises significance once significance already exists. The capacity to retain, coordinate, anticipate, and utilise meaningful conditions presupposes that those conditions have already acquired biological significance through evaluation. Cognition therefore emerges downstream from significance even while transforming how significance can be integrated within the activities of the organism.
 
-Evaluation and semiosis occur broadly throughout life.
+Understanding significance in this way clarifies why cognition belongs within biology. Cognition is not the origin of biological relevance. Living systems already inhabit a world structured by significance because biological evaluation continuously distinguishes conditions according to their consequences for viability. Cognition emerges when that significance becomes organised across time in increasingly flexible and integrated ways.
 
-Cognition emerges only when evaluative semiosis becomes sufficiently:
-- temporally integrated;
-- behaviourally flexible;
-- context-sensitive;
-- and counterfactually extended.
+## Cognition as the Organisation of Meaning Across Time
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+Meaning identifies significance within the ongoing organisation of living systems, but cognition extends meaning across time. This temporal extension represents one of the defining features of cognition within APS. Meaning establishes what matters. Cognition develops when what matters can be retained, coordinated, and utilised beyond the immediate present.
+
+Living systems exist within continuous streams of change. Conditions fluctuate, opportunities arise and disappear, threats emerge unexpectedly, and the consequences of present actions often unfold only after substantial delays. Organisms capable of cognition are not restricted to immediate responses. Instead, they increasingly organise activity in relation to remembered conditions, anticipated outcomes, and possible future states. Cognition therefore expands the temporal horizon within which biological significance can influence behaviour.
+
+This temporal integration allows meaningful significance to persist beyond the conditions that originally generated it. Information acquired through previous interactions can influence present regulation. Present conditions can be interpreted in relation to past experience. Anticipated future consequences can shape current behaviour. Through these processes, cognition links multiple temporal perspectives into a coordinated system of adaptive regulation. Meaning becomes organised not merely across space or circumstance, but across time itself.
+
+Memory, anticipation, and adaptive coordination are therefore not separate additions to cognition. They are expressions of a more fundamental organisational achievement: the capacity to maintain and utilise significance across temporal horizons. Memory preserves significance derived from previous interactions. Anticipation extends significance toward possible future conditions. Adaptive coordination integrates these temporal dimensions into ongoing activity. Cognition emerges through the increasing organisation of these relationships.
+
+This perspective also clarifies why cognition should not be reduced to representation or prediction. Representations and predictions may contribute to some forms of cognition, particularly in more complex organisms, but they do not define cognition itself. The more fundamental process is the organisation of meaning across time. Whether achieved through neural systems, distributed physiological networks, behavioural dynamics, or other biological mechanisms, cognition involves the integration of significance into temporally extended forms of adaptive regulation.
+
+The distinctive contribution of cognition is therefore neither intelligence nor information processing alone. Its contribution lies in enabling organisms to coordinate activity relative to conditions that are absent, delayed, anticipated, hypothetical, or still emerging. Through cognition, biological significance acquires temporal depth. Meaning is no longer confined to immediate circumstances but becomes available for integration across the ongoing continuity of living activity.
+
+APS therefore interprets cognition as the organisation of biological meaning across time. Evaluation determines what matters, significance establishes why it matters, and meaning stabilises that significance within biological organisation. Cognition emerges when meaningful significance can be retained, coordinated, and utilised across temporal horizons in ways that support adaptive regulation. In this sense, cognition is the process through which biological meaning becomes temporally integrated and operationally effective within the ongoing life of the organism.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/cognition-meaning-time.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/philosophy-endogenous-normativity.png"
-      alt="APS endogenous normativity architecture"
+      src="/assets/diagrams/cognition-meaning-time.png"
+      alt="Cognition as the organisation of meaning across time"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Evaluation Before Cognition.</strong>
-    Cognition emerges only within already existing systems capable of viability-oriented evaluation, semiosis, and continuity-preserving persistence.
+    <strong>Cognition as the Organisation of Meaning Across Time.</strong>
+    Cognition extends biologically meaningful significance across temporal horizons. By integrating memory, anticipation, and adaptive regulation, cognition allows organisms to coordinate activity relative to past experience, present conditions, and possible futures.
   </p>
 </div>
 
-# Cognition and Temporal Extension
-
-Cognition emerges when evaluative organisation becomes sufficiently integrated across time that present activity becomes coordinated relative to:
-- absent conditions;
-- delayed consequences;
-- anticipated possibilities;
-- unrealised alternatives;
-- hypothetical relations;
-- and counterfactual trajectories.
-
-APS describes this organisational capacity as increasing counterfactual depth.
 
-Cognition therefore depends fundamentally upon:
-- temporal organisation;
-- continuity-sensitive regulation;
-- persistence across transformation;
-- behavioural integration across time;
-- and future-oriented modulation of activity.
+## Cognition and Temporal Extension
 
-This does not fundamentally require:
-- symbolic reasoning;
-- explicit world simulation;
-- detached internal models;
-- or linguistic representation.
+If cognition is the organisation of biological meaning across time, then temporal extension describes how that organisation operates within living systems. Cognition allows significance to remain effective beyond the immediate circumstances in which it arises, linking past experience, present regulation, and future possibilities into a continuous process of adaptive coordination. Through this capacity, living systems become increasingly able to coordinate activity across extended temporal horizons rather than responding only to immediate conditions.
 
-Cognition instead emerges through increasing temporal integration within viability-oriented evaluation and semiosis.
+Living systems are inherently temporal organisations. Their persistence depends upon maintaining continuity through changing conditions rather than remaining static through time. Every organism exists within an ongoing flow of developmental, physiological, behavioural, ecological, and evolutionary processes. Adaptive regulation must therefore address not only current circumstances but also the consequences of past interactions and the possibilities presented by future conditions. Cognition emerges as biological organisation becomes increasingly capable of integrating these temporal dimensions.
 
-Living systems capable of cognition therefore regulate activity not merely relative to immediate conditions, but relative to:
-- possible futures;
-- delayed outcomes;
-- remembered conditions;
-- hypothetical alternatives;
-- and temporally distributed continuity relations.
+This temporal integration allows organisms to coordinate activity relative to conditions that are absent, delayed, anticipated, hypothetical, or counterfactual. Past experiences may continue to influence present behaviour through retained organisational changes. Current conditions may be interpreted in relation to previous interactions. Potential future outcomes may shape ongoing activity even before they occur. In each case, cognition extends biological significance beyond the immediate circumstances in which it originally emerged.
 
-![Temporal Organisation and Organised Persistence](/assets/diagrams/temporal-organisation-visual.png)
+Temporal extension should not be understood as the exclusive property of nervous systems. The specific mechanisms through which organisms integrate significance across time vary enormously across biological systems. Some organisms rely upon neural memory, others upon physiological reorganisation, developmental plasticity, behavioural modification, or distributed signalling networks. APS therefore treats temporal integration as an organisational property rather than a particular mechanism. What matters is not how temporal coordination is achieved, but whether biologically meaningful significance can influence adaptive activity across extended temporal horizons.
 
-*Cognition emerges through temporally extended continuity-sensitive regulation integrating viability-oriented evaluation across changing conditions and temporal horizons.*
+The importance of temporal extension becomes particularly apparent when considering adaptive flexibility. Organisms capable of integrating significance across time are not restricted to reacting to present circumstances. They can coordinate activity relative to previous conditions, delayed consequences, and future possibilities. This capacity expands the range of adaptive responses available to living systems and allows increasingly flexible forms of engagement with changing environments.
 
-# Cognition Without Representational Primacy
+APS describes this increasing temporal reach as a growth in continuity-sensitive organisation. Cognitive systems do not merely process information; they preserve, transform, and utilise significance across the ongoing continuity of living activity. Cognition therefore emerges when biological meaning acquires temporal depth, allowing adaptive regulation to operate across broader spans of experience and possibility.
 
-Many theories define cognition primarily through representation or information processing.
+## Cognition Without Representational Primacy
 
-APS does not require this assumption.
+Many influential theories define cognition primarily through representation. According to these approaches, cognition consists fundamentally in the construction, maintenance, and manipulation of internal models that stand in for aspects of the external world. Organisms are understood to perceive, interpret, and respond to their environments through representational structures that mediate their engagement with reality.
 
-Living systems may:
-- evaluate conditions;
-- coordinate behaviour;
-- reorganise activity;
-- regulate viability;
-- adapt flexibly;
-- and sustain continuity-sensitive organisation
+APS does not reject the existence of representation. Representational processes may emerge within some forms of cognition, particularly in organisms exhibiting complex forms of memory, planning, abstraction, symbolic communication, or reflective thought. What APS rejects is the claim that representation provides the organisational foundation of cognition itself.
 
-without constructing detached symbolic descriptions of the world.
+The problem is explanatory rather than empirical. Before a living system can construct representations, it must already distinguish conditions according to their biological significance. Representation cannot explain how conditions come to matter because representational activity presupposes an existing framework of evaluation, significance, and meaning. A representation of food, danger, or opportunity is only useful because those conditions already possess significance for the organism. Representation therefore depends upon more fundamental biological processes rather than replacing them.
 
-Representation may emerge within some more organisationally complex forms of cognition.
+APS consequently reverses the explanatory order often assumed within representational theories. Meaning does not emerge because organisms possess representations. Rather, representations become possible because organisms already inhabit worlds structured by biological meaning. Evaluation generates significance, significance contributes to meaning, and cognition organises that meaning across time. Representation may emerge within certain forms of cognitive organisation, but it remains a specialised development within a broader architecture of biological agency.
 
-However, representation remains:
-- biologically downstream;
-- organisationally derivative;
-- and continuity-dependent.
+This perspective allows APS to accommodate representational cognition without treating representation as universally necessary. Some organisms may exhibit rich forms of adaptive regulation, temporal integration, and behavioural flexibility without requiring detached internal models of the world. Cognition therefore cannot be reduced to representation because the organisational conditions that make representation possible arise prior to representation itself.
 
-APS therefore distinguishes:
-- cognition from representation;
-- representation from meaning;
-- and meaning from information alone.
+APS thus distinguishes carefully between cognition and representation. Cognition concerns the organisation of biological significance across time. Representation, where it occurs, constitutes one possible mechanism through which that organisation may be achieved. The two concepts are related but not identical, and cognition remains the broader category.
 
-This distinction is one of the central APS clarifications regarding cognition.
+## Cognition and Biological Agency
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/philosophy-semiosis.png"
-      alt="Semiosis and evaluative meaning in APS"
-      loading="lazy"
-    />
-  </a>
+Cognition is continuous with biological agency because both arise within the same viability-oriented organisation. Agency concerns the capacity of living systems to initiate, regulate, and coordinate activity in ways that sustain organised persistence. Cognition does not replace agency, nor does it exist independently of it. Instead, cognition emerges as a specialised organisational development within agency itself.
 
-  <p class="aps-diagram-caption">
-    <strong>Semiosis, Meaning, and Cognition.</strong>
-    Cognition develops through increasingly temporally integrated forms of evaluative semiosis already grounded in viability-oriented organised persistence.
-  </p>
-</div>
+The biological imperative requires organisms to maintain viability across changing conditions. Agency expresses this requirement through active engagement with the world. Living systems acquire resources, respond to perturbations, regulate internal organisation, and coordinate behaviour in ways that contribute to continued persistence. Such activities depend upon evaluation because organisms must distinguish conditions according to their significance for viability. Agency and evaluation are therefore inseparable aspects of living organisation.
 
-# Degrees of Cognition
+Cognition emerges when evaluative organisation becomes increasingly integrated across time. Whereas agency concerns the ongoing regulation of activity, cognition concerns the temporal organisation of the significance that guides that activity. Cognitive systems allow organisms to coordinate behaviour relative to remembered conditions, anticipated outcomes, and temporally distributed patterns of relevance. In this sense, cognition extends the capacities already present within agency rather than introducing an entirely new explanatory domain.
 
-Cognition is neither:
-- ubiquitous across all life;
-- nor restricted exclusively to organisms with nervous systems.
+Understanding cognition as a development within agency also clarifies why cognition remains continuous across diverse forms of life. Organisms may differ dramatically in the mechanisms through which they regulate activity, yet all cognitive systems remain rooted in viability-oriented agency. The specific forms of cognition exhibited by bacteria, plants, animals, and humans may vary enormously, but each emerges from the same underlying requirement to organise meaningful significance in ways that support adaptive persistence.
 
-Instead cognition admits of degrees depending upon:
-- temporal depth of evaluation;
-- behavioural flexibility;
-- semiosis integration;
-- continuity-sensitive regulation;
-- adaptive coordination;
-- and counterfactual extension across time.
+APS therefore rejects attempts to separate cognition from biological agency. Agency provides the organisational context within which cognition develops, while cognition expands the temporal reach and adaptive flexibility of agency. The two concepts describe different aspects of a common organisational reality rather than independent explanatory domains.
 
-Different organisms may therefore exhibit different forms and degrees of cognition while realising those capacities through very different material organisations.
+## Cognition and Adaptation
 
-This allows cognition to be compared organisationally rather than anatomically.
+Cognition contributes significantly to adaptive flexibility, but adaptation and cognition should not be treated as equivalent concepts. Adaptation refers broadly to the capacity of living systems to maintain viability through adjustment to changing conditions. Cognition represents one way in which such adaptive capacity may be extended, refined, and coordinated across time.
 
-What matters is not structural similarity alone, but the organisation of temporally extended evaluative activity relative to viability.
+Many forms of adaptation occur without cognition in the stronger APS sense. Organisms may exhibit physiological regulation, developmental plasticity, behavioural responsiveness, or ecological adjustment through evaluative processes that do not require extensive temporal integration. These forms of adaptation demonstrate that cognition is not necessary for all adaptive organisation.
 
-APS therefore preserves:
-- continuity across life;
-while avoiding:
-- collapsing all life into cognition itself.
+At the same time, cognition can greatly expand adaptive possibilities. By organising biological significance across temporal horizons, cognitive systems allow organisms to coordinate activity relative to past experience, anticipated outcomes, and delayed consequences. This capacity enables more flexible forms of regulation than would be possible through immediate responsiveness alone. Organisms capable of cognition can integrate multiple sources of significance, adjust behaviour in relation to changing circumstances, and maintain continuity across complex patterns of environmental variation.
 
-# Cognition and Biological Agency
+The relationship between cognition and adaptation is therefore one of extension rather than identity. Adaptation provides the broader biological context, whereas cognition contributes specialised forms of temporal integration that support increasingly flexible adaptive regulation. Cognition should be understood as a development within adaptive organisation rather than the universal basis of adaptation itself.
 
-Cognition remains continuous with biological agency.
+APS consequently avoids both extremes. It rejects the view that cognition is required for all adaptation, but it also rejects the view that cognition is irrelevant to adaptive organisation. Cognition matters because it allows biological significance to be coordinated across time in ways that increase the flexibility and scope of adaptive engagement with the world.
 
-Agency concerns the viability-oriented activity through which living systems sustain organised persistence.
+## Cognition Is Not Intelligence
 
-Evaluation modulates that activity relative to continuity conditions.
+Cognition and intelligence are often treated as interchangeable concepts, yet APS regards them as distinct. Although intelligence may depend upon cognition, cognition does not require intelligence. Conflating the two obscures the broader biological significance of cognitive organisation and encourages an unnecessarily restrictive understanding of cognition.
 
-Semiosis organises meaningful differences within evaluative activity.
+Intelligence is commonly associated with problem-solving, abstraction, planning, symbolic manipulation, strategic reasoning, and other forms of advanced behavioural flexibility. These capacities are especially prominent in humans and certain non-human animals, making intelligence highly visible and comparatively easy to recognise. As a result, cognition is often defined in terms of the traits most closely associated with intelligent behaviour.
 
-Cognition emerges where such organisation becomes increasingly temporally integrated and behaviourally flexible.
+APS argues that this approach reverses the explanatory order. Intelligence represents a specialised development within cognition rather than cognition itself. Before organisms can engage in abstract reasoning or complex planning, they must already possess the capacity to organise meaningful significance across time. The organisational foundations of cognition therefore precede the specialised capacities commonly associated with intelligence.
 
-Cognition is therefore not separate from agency, but a specialised organisational development within it.
+This distinction allows cognition to be recognised across a much broader range of biological systems. Organisms may exhibit temporal integration, memory-like processes, adaptive coordination, and continuity-sensitive regulation without displaying the forms of behaviour typically classified as intelligent. Cognition is therefore neither restricted to highly intelligent organisms nor defined by the presence of sophisticated reasoning abilities.
 
-This preserves continuity between:
-- life;
-- agency;
-- evaluation;
-- semiosis;
-- meaning;
-- and cognition
+Recognising this distinction also clarifies the evolutionary relationship between cognition and intelligence. Cognitive organisation can exist without intelligence, whereas intelligence presupposes cognitive organisation. Intelligence therefore represents one possible elaboration of cognition rather than its defining feature.
 
-without collapsing them into one undifferentiated category.
+APS consequently treats intelligence as a specialised subset of cognitive organisation. Cognition concerns the organisation of biological significance across time, whereas intelligence concerns particular forms of problem-solving and behavioural flexibility that may emerge within certain cognitive systems. Maintaining this distinction preserves continuity across life while recognising genuine differences in cognitive complexity.
 
-# Cognition and Organism–Environment Coupling
+## Cognition and Predictive Processing
 
-Cognition depends upon organism–environment coupling.
+Predictive processing and active inference have become increasingly influential approaches within cognitive science and theoretical biology. These frameworks often interpret cognition in terms of prediction, inference, expectation, and the reduction of discrepancies between anticipated and actual conditions. Organisms are described as systems that continuously generate expectations about the world and modify activity in response to prediction errors.
 
-Living systems regulate activity through ongoing reciprocal interaction with changing environmental conditions.
+APS recognises the importance of these ideas while rejecting the claim that prediction provides the foundational explanatory basis of cognition. Predictive capacities may contribute significantly to some forms of cognitive organisation, particularly where organisms coordinate activity relative to anticipated future conditions. However, prediction itself presupposes more fundamental organisational processes that determine why particular outcomes matter in the first place.
 
-Cognition therefore does not occur exclusively within isolated internal mechanisms.
+The crucial issue concerns significance. Prediction becomes biologically meaningful only when the anticipated outcomes possess consequences for viability. An organism does not merely predict; it predicts conditions that matter. Expectations acquire relevance because biological evaluation has already established a framework of significance within which certain outcomes support persistence and others threaten it. Prediction therefore depends upon evaluation, meaning, and agency rather than replacing them.
 
-It emerges through dynamically coupled organism–environment relations distributed across:
-- time;
-- behaviour;
-- ecological interaction;
-- semiosis;
-- and multiscale regulation.
+APS consequently situates predictive processing within a broader organisational architecture. Biological agency establishes active engagement with the world. Evaluation determines what matters. Significance and meaning organise the relevance of conditions for viability. Cognition integrates this significance across time. Predictive capacities may then emerge as one way of coordinating activity relative to possible future states. Prediction is therefore a specialised expression of cognition rather than its universal foundation.
 
-APS consequently rejects strongly internalist models reducing cognition to detached representational computation occurring solely within organisms themselves.
+This perspective allows APS to incorporate predictive phenomena without reducing cognition to prediction alone. Some cognitive systems may rely heavily upon anticipatory processes, whereas others may exhibit temporal integration through different organisational mechanisms. What unifies them is not prediction itself but the organisation of biological significance across time.
 
-# Cognition and Adaptation
+APS therefore treats predictive processing as an important but non-foundational component of cognition. Prediction may enhance adaptive regulation, but cognition remains rooted in the broader organisation of meaning, significance, and agency through which living systems maintain continuity across changing conditions.
 
-Cognition contributes directly to adaptive flexibility.
+## Cognition Across Scale and Time
 
-Temporally extended evaluative organisation may support:
-- anticipatory regulation;
-- behavioural coordination;
-- memory;
-- learning;
-- environmental modulation;
-- and flexible continuity-preserving reorganisation.
+Cognition unfolds across interacting scales of biological organisation and across multiple temporal horizons. APS therefore rejects the view that cognition can be located exclusively at a particular level of organisation, such as the brain, the nervous system, or any other isolated structure. Cognition emerges through the organisation of biologically meaningful significance, and such organisation is distributed across the processes through which living systems maintain continuity with themselves and their environments.
 
-However, adaptation itself does not fundamentally require cognition.
+The APS concept of scale differs from traditional hierarchical models that divide biological organisation into discrete levels arranged in a rigid sequence. Biological systems are better understood as multiscale organisations in which processes occurring across different spatial and temporal dimensions continuously interact. Molecular signalling influences cellular activity, cellular processes contribute to physiological regulation, physiological states shape behaviour, behaviour modifies ecological conditions, and ecological interactions alter developmental and evolutionary trajectories. Cognition participates within these interacting processes rather than residing exclusively at any single scale.
 
-Many living systems exhibit adaptive organisation through evaluation and semiosis without exhibiting cognition in the stronger APS sense.
+This multiscale perspective becomes especially important when cognition is understood as the organisation of significance across time. Significance often emerges through interactions distributed across multiple biological processes operating simultaneously. A plant adjusting growth in response to changing environmental conditions may integrate hormonal signalling, physiological regulation, developmental plasticity, and environmental feedback. An animal navigating a complex environment may coordinate sensory information, memory, physiological states, social interactions, and behavioural responses. In each case, cognition reflects the organisation of significance across a network of interacting processes rather than the activity of a single component.
 
-Cognition therefore represents:
-> a specialised extension of adaptive viability-oriented organisation rather than its universal basis.
+Temporal integration further reinforces the multiscale nature of cognition. Living systems operate simultaneously across timescales ranging from momentary physiological adjustments to developmental change, ecological interaction, and evolutionary transformation. Cognitive organisation allows significance arising within one temporal horizon to influence activity occurring within another. Immediate responses may be shaped by previous experience, developmental history, ecological context, or anticipated future conditions. Cognition therefore contributes to continuity across temporal scales by coordinating significance across different durations of biological activity.
 
-# Cognition Is Not Intelligence
+APS consequently treats cognition as a processual and multiscale phenomenon. Cognition is not located within a particular structure or confined to a particular level of organisation. Rather, it emerges through the integration of biologically meaningful significance across interacting spatial and temporal dimensions. Understanding cognition in this way allows it to be situated within the broader APS framework of agency, process, and scale, where biological organisation is understood as a dynamic system of continuously interacting relationships rather than a hierarchy of isolated components.
 
-APS distinguishes cognition from intelligence.
+[[box:aps-box-meaning-cognition-mind-selfhood]]
 
-Cognition concerns:
-- temporally extended evaluation;
-- continuity-sensitive semiosis;
-- adaptive behavioural coordination;
-- and viability-oriented regulation across time.
+## Cognition and Mind
 
-Intelligence refers more narrowly to specialised forms of:
-- problem-solving;
-- abstraction;
-- symbolic manipulation;
-- strategic reasoning;
-- or advanced behavioural flexibility.
+Although cognition and mind are closely related, APS does not treat them as identical concepts. Cognition concerns the organisation of biological significance across time, whereas mind refers to the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world. Cognition is therefore necessary for mind, but mind represents a further organisational development rather than a synonym for cognition.
 
-Many living systems exhibit cognition without exhibiting what humans ordinarily classify as intelligence.
+The distinction becomes clearer when considered in relation to significance. Through biological evaluation, living systems determine what matters for viability. Through cognition, that significance becomes organised across temporal horizons and integrated into adaptive regulation. However, the organisation of significance alone does not necessarily generate the coherent and unified perspective associated with mind. Mind emerges when cognitive processes become sufficiently integrated that they contribute to an ongoing relationship between the agent and its environment that possesses organisational coherence across time.
 
-APS consequently rejects conflating:
-- life;
-- cognition;
-- intelligence;
-- representation;
-- and computation.
+This coherence does not require consciousness, introspection, or symbolic thought. Rather, it reflects the increasing integration of evaluative and cognitive processes within the organisation of the organism. A system exhibiting mind does not merely coordinate significance across time; it maintains a structured relationship between internal conditions, environmental circumstances, behavioural possibilities, and ongoing patterns of activity. Through this integration, significance becomes organised within a broader context of agent–world engagement.
 
-# Cognition and Predictive Processing
+Understanding mind in this way clarifies why cognition remains indispensable. Without cognition there would be no mechanism through which significance could be retained, coordinated, and utilised across temporal horizons. Mind depends upon cognition because coherent relationships between agent and world require the temporal organisation of meaningful significance. At the same time, cognition alone is insufficient because the existence of temporally organised significance does not automatically produce the integrated organisation characteristic of mind.
 
-Predictive-processing and Active-Inference theories often interpret cognition through:
-- prediction;
-- inference;
-- representational modelling;
-- and error minimisation.
+APS therefore interprets mind as emerging from increasingly integrated forms of cognitive organisation. Cognition organises significance. Mind integrates cognition into a coherent relationship between the organism and the world it inhabits. The distinction preserves continuity while avoiding reduction. Mind remains continuous with cognition because it emerges from cognitive organisation, yet it also represents a distinct organisational achievement involving the integration of cognitive processes into a unified pattern of agent–world engagement.
 
-APS accepts that such processes may participate within some advanced forms of cognition.
+This perspective also helps explain why discussions of mind have often generated confusion within biology. Mind is frequently treated either as a mysterious substance detached from biological processes or as a phenomenon reducible to isolated mechanisms. APS rejects both positions. Mind emerges through the increasing integration of evaluative and cognitive organisation within living systems. It is therefore neither separate from biology nor reducible to any single component of biological organisation.
 
-However:
-- prediction is not foundational to life;
-- representation is not foundational to cognition;
-- and information processing is not foundational to biological organisation itself.
-
-Predictive cognition already presupposes:
-- viability-oriented persistence;
-- evaluation;
-- semiosis;
-- meaning;
-- continuity-sensitive regulation;
-- and biological agency.
+## Cognition and Selfhood
 
-APS therefore situates predictive organisation within a broader continuity-oriented explanatory architecture rather than treating predictive inference as the universal explanatory basis of life.
+Selfhood emerges from the continuing integration of evaluative and cognitive organisation across time. APS therefore rejects the view that selfhood is an independent entity added to biological systems from outside the processes that sustain life. Instead, selfhood develops through increasingly stable forms of organisational continuity in which an agent maintains an enduring relationship with itself while remaining engaged with a changing world.
 
-# Cognition Across Scale and Time
+The foundations of selfhood can be traced to the same biological processes that give rise to cognition. Living systems maintain organised persistence through agency and evaluation. They distinguish conditions according to their significance for viability and regulate activity accordingly. Cognition extends these evaluative relationships across time, allowing significance to be retained, coordinated, and utilised within adaptive activity. As cognitive organisation becomes increasingly integrated, it contributes to the emergence of more stable patterns of continuity linking past, present, and future states of the organism.
 
-Cognition unfolds across interacting scales and temporal horizons.
+Selfhood arises within this continuity. A self is not simply a collection of traits, memories, or behaviours. Nor is it a detached observer existing independently of biological organisation. Rather, selfhood reflects the persistence of an organised evaluative perspective through time. The organism maintains continuity despite ongoing material, physiological, behavioural, and environmental change because the organisation of significance remains sufficiently integrated to preserve an enduring pattern of agent–world relations.
 
-Cognitive organisation may involve:
-- molecular regulation;
-- physiological coordination;
-- behavioural flexibility;
-- memory systems;
-- symbolic communication;
-- ecological interaction;
-- and socially distributed organisation.
+This continuity should not be confused with rigidity or permanence. Living systems continuously change, adapt, develop, and reorganise. Selfhood therefore depends not upon remaining identical but upon maintaining organisational coherence through transformation. The persistence of selfhood reflects the persistence of evaluative and cognitive organisation rather than the persistence of particular material components.
 
-These are not isolated levels of cognition.
+Understanding selfhood in this way also clarifies its relationship to cognition. Selfhood is not added to cognition as an independent layer of organisation. Instead, selfhood emerges from increasingly stable and integrated forms of cognitive-evaluative organisation. As significance becomes coordinated across broader temporal horizons and integrated into coherent patterns of agency, the organism develops a more enduring perspective through which it engages with itself and its environment.
 
-They are interacting dimensions of continuity-sensitive viability-oriented organisation distributed across:
-- agency;
-- process;
-- scale;
-- temporality;
-- and organism–environment coupling.
+APS therefore treats selfhood as an emergent organisational achievement rooted in the same processes that underlie agency, evaluation, meaning, and cognition. Selfhood represents a further integration of these processes rather than a departure from them. It remains continuous with biological organisation while contributing to the increasingly sophisticated forms of continuity that characterise complex living systems.
 
-APS therefore situates cognition within the broader explanatory grammar governing biological intelligibility itself.
+## Cognition as the Bridge Between Meaning and Mind
 
-# Cognition Within the APS Explanatory Grammar
+The central position of cognition within the APS architecture becomes most apparent when cognition is viewed as the bridge between meaning and mind. Earlier sections have shown that biological evaluation determines what matters for viability and that significance emerges from the relationship between conditions and the persistence of the organism. Meaning develops when such significance becomes stabilised within ongoing patterns of biological organisation. Yet meaning alone does not explain how significance influences adaptive activity across time, nor does it explain how integrated forms of agent–world engagement emerge. Cognition occupies precisely this missing position.
 
-APS situates cognition within the explanatory grammar organised through:
-- agency;
-- process;
-- scale;
-- temporality;
-- viability;
-- evaluation;
-- semiosis;
-- meaning;
-- information;
-- representation;
-- and organised persistence.
+Evaluation determines what matters because organisms continuously distinguish conditions according to their consequences for viability. Significance arises because these conditions affect the capacity of living systems to maintain organised persistence. Meaning identifies and stabilises this significance within the ongoing organisation of the organism. Through meaning, significance becomes an enduring feature of biological activity rather than a transient response to immediate circumstances.
 
-Cognition therefore cannot be understood adequately as:
-- isolated computation;
-- detached symbolic processing;
-- information processing alone;
-- behavioural complexity alone;
-- or representation considered independently of biological organisation.
+Cognition transforms this situation by organising meaningful significance across temporal horizons. Through memory, anticipation, learning, adaptive coordination, and continuity-sensitive regulation, cognition allows significance to persist beyond the conditions in which it originally emerged. Meaning becomes available for integration across changing circumstances, allowing organisms to coordinate activity relative to past experiences, present conditions, and possible futures. Cognition therefore provides the organisational processes through which biological meaning becomes temporally integrated and operationally effective.
 
-Instead cognition emerges through:
-- viability-oriented evaluation;
-- temporally integrated semiosis;
-- continuity-sensitive regulation;
-- adaptive organisation;
-- organism–environment coupling;
-- and persistence-preserving activity.
+Mind emerges when these cognitive processes become sufficiently integrated to generate a coherent relationship between agent and world. The significance organised by cognition is no longer distributed merely across isolated responses or disconnected activities. Instead, it contributes to an integrated pattern of engagement through which the organism maintains coherence across changing circumstances. Mind therefore depends upon cognition because cognition provides the temporal organisation necessary for coherent agent–world relations.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/philosophy-clarification-map.png"
-      alt="APS clarification map"
-      loading="lazy"
-    />
-  </a>
+Selfhood develops through a further stabilisation of this integrated organisation. As evaluative and cognitive processes become increasingly coordinated across time, an enduring perspective emerges through which the organism maintains continuity with itself while engaging with its environment. Selfhood therefore depends upon mind, just as mind depends upon cognition, because each represents an increasing integration of the organisational processes that begin with biological evaluation.
 
-  <p class="aps-diagram-caption">
-    <strong>APS Clarification Map.</strong>
-    APS situates cognition within viability-oriented organised persistence rather than treating cognition as reducible to computation, representation, or information processing alone.
-  </p>
-</div>
+The importance of cognition within APS therefore lies not merely in its contribution to adaptive behaviour. Cognition occupies the pivotal position linking biological significance to the emergence of mind and selfhood. Evaluation determines what matters. Meaning identifies significance. Cognition organises significance across time. Mind integrates cognitive significance into a coherent relationship between agent and world. Selfhood stabilises that relationship around a persistent perspective. Through this sequence, cognition functions as the central bridge connecting the biological foundations of meaning with the higher-order forms of organisation that characterise minded and self-organising agents.
 
-# Why Cognition Matters
+Understanding cognition in this way resolves a long-standing ambiguity within biology. Cognition is neither the foundation of life nor an isolated property appearing only in highly complex organisms. It occupies an intermediate but indispensable position within the architecture of living systems. Emerging from evaluation and meaning, cognition organises biological significance across time and thereby makes possible the development of mind, selfhood, and the increasingly sophisticated forms of agency that arise from them.
 
-Repositioning cognition organisationally has several important consequences.
+## Why Cognition Matters
 
-It:
-- situates cognition within biology rather than outside it;
-- grounds cognition in viability-oriented organisation;
-- distinguishes cognition from intelligence and representation;
-- clarifies the relation between semiosis and cognition;
-- preserves continuity across life without collapsing all life into cognition;
-- strengthens continuity-oriented biological explanation;
-- and integrates cognition directly into organised persistence across time.
+Understanding cognition correctly matters because cognition occupies a pivotal position within biological organisation. If cognition is treated as the foundation of life, then agency, evaluation, meaning, and organised persistence become secondary consequences of cognitive activity. If cognition is treated as a specialised property restricted to brains, then vast domains of biological organisation become disconnected from processes that contribute to adaptive regulation. APS rejects both conclusions because each obscures the organisational relationships through which cognition emerges and acquires explanatory significance.
 
-APS therefore explains cognition through the same organisational principles governing biological explanation more generally:
-- viability;
-- evaluation;
-- semiosis;
-- meaning;
-- temporality;
-- agency;
-- process;
-- scale;
-- and organised persistence.
+Situating cognition within biological organisation clarifies how living systems generate increasingly sophisticated forms of adaptive engagement with their environments. Biological evaluation establishes what matters for viability, meaning stabilises significance within ongoing patterns of organisation, and cognition allows that significance to be retained, coordinated, and utilised across time. Through this process, living systems become capable of regulating activity relative not only to immediate conditions but also to remembered experiences, anticipated outcomes, and possible futures. Cognition therefore expands the temporal scope of biological organisation and increases the flexibility with which organisms respond to changing circumstances.
 
-Cognition is therefore not an exception to biological organisation, but one possible development within it.
+This perspective also resolves several persistent conceptual confusions. Cognition need not be reduced to intelligence, because the organisation of significance across time can occur without advanced reasoning or symbolic thought. Cognition need not be reduced to representation, because significance exists prior to the emergence of representational systems. Cognition need not be reduced to computation, prediction, or information processing, because these processes presuppose an existing framework of biological meaning and relevance. APS therefore situates cognition within a broader architecture of living organisation rather than identifying it with any particular mechanism or explanatory framework.
 
-# Where Cognition Belongs
+Most importantly, cognition provides the organisational bridge linking biological meaning to mind. Through cognition, significance becomes available for integration across temporal horizons. Through this integration, coherent relationships between agent and world become possible. The emergence of mind, selfhood, and reflective forms of agency therefore depends upon cognitive organisation even though cognition itself remains rooted in more fundamental processes of agency and evaluation. Understanding cognition correctly is therefore essential for understanding how increasingly complex forms of biological organisation arise from the dynamics of living systems.
 
-Cognition belongs neither outside biology nor at its absolute upper limit.
+## Where Cognition Belongs
 
-It belongs:
+The question posed by this article is not whether cognition exists, but where it belongs within biology.
 
-> within viability-oriented organised persistence itself, as a specialised form of temporally extended evaluative semiosis through which living systems regulate activity relative to absent, delayed, anticipated, hypothetical, or counterfactual conditions.
+APS rejects the view that cognition occupies the foundation of life. Living systems do not become viable because they are cognitive. Rather, cognition emerges within an already existing architecture of biological organisation grounded in the biological imperative, biological agency, biological evaluation, significance, and meaning. These processes establish the conditions from which cognition develops and provide the organisational context that makes cognition intelligible.
 
-Understanding cognition in this way allows APS to:
-- integrate cognition into biology;
-- avoid reducing life to cognition;
-- avoid reducing cognition to computation;
-- and preserve continuity between simple and complex forms of living organisation.
+APS also rejects the view that cognition belongs only to highly intelligent organisms or to systems possessing nervous systems. Cognition is not defined by consciousness, symbolic reasoning, language, or abstract thought. Instead, cognition emerges wherever biologically meaningful significance becomes sufficiently integrated across time to support adaptive regulation relative to absent, delayed, anticipated, or possible conditions. Different organisms may realise this capacity through very different mechanisms, yet the underlying organisational principle remains the same.
 
-Cognition is becoming an increasingly important explanatory concept within theoretical biology. However, its growing importance does not imply that cognition provides the foundational explanatory basis of life itself. Within APS, cognition remains a specialised organisational development emerging from more fundamental processes of viability-oriented evaluation, semiosis, and organised persistence.
+The proper place of cognition therefore lies between meaning and mind. Meaning stabilises biological significance within ongoing organisation. Cognition organises that significance across temporal horizons. Mind emerges when cognitive organisation becomes integrated into a coherent relationship between agent and world. Cognition thus occupies a distinctive position within the architecture of living systems because it connects the biological foundations of significance with the increasingly integrated forms of organisation associated with minded and self-organising agents.
+
+Understanding cognition in this way avoids two opposing errors. It avoids treating cognition as biologically foundational while also avoiding its restriction to a narrow subset of organisms. Cognition is neither the beginning nor the culmination of biological organisation. It is a specialised organisational development that emerges from agency, evaluation, and meaning while contributing to the later emergence of mind, selfhood, and reflective agency.
+
+Cognition therefore belongs within biology itself, not as an exception to biological organisation but as one of its most important developments. It is the process through which biological significance becomes organised across time, allowing living systems to coordinate activity across changing circumstances and increasingly extended temporal horizons.
+
+## Final Synthesis
+
+Throughout this article, APS has argued that cognition is best understood as an organisational achievement emerging within viability-oriented living systems. Biological agency establishes active engagement with the world, biological evaluation determines what matters for persistence, significance emerges through the relationship between conditions and viability, and meaning stabilises that significance within ongoing patterns of organisation. Cognition develops when meaningful significance becomes sufficiently integrated across time that it can be retained, coordinated, and utilised in adaptive regulation.
+
+This perspective transforms the place of cognition within biology. Cognition is no longer treated as a detached mental faculty, a specialised property of brains, or the universal explanatory basis of life. Instead, cognition becomes intelligible as part of a broader architecture of biological organisation. It emerges from processes that are already present within living systems and contributes to increasingly integrated forms of agency, adaptation, and continuity.
+
+The distinctive contribution of cognition lies in its capacity to organise significance across temporal horizons. Through memory, anticipation, learning, behavioural coordination, and continuity-sensitive regulation, cognition allows meaningful significance to influence activity beyond the circumstances in which it originally emerged. Biological meaning acquires temporal depth, and living systems become capable of coordinating activity relative to changing patterns of relevance distributed across time.
+
+This temporal organisation also explains why cognition occupies a pivotal position within the APS framework. Emerging from meaning, cognition provides the organisational conditions necessary for the development of mind. Through increasing integration, cognitive processes contribute to coherent agent–world relations. Through further stabilisation, they contribute to selfhood and the persistence of an organised evaluative perspective. Cognition therefore functions as the bridge connecting biological significance to increasingly complex forms of organisation without becoming detached from its biological foundations.
+
+APS consequently interprets cognition as neither biologically foundational nor biologically exceptional. It is a specialised organisational development through which living systems organise meaningful significance across time in support of adaptive activity. By situating cognition within agency, evaluation, meaning, mind, and selfhood, APS restores cognition to its proper place within biology and clarifies its role in the broader architecture of living systems.
 
 ## Key Point
 
-Cognition emerges where viability-oriented evaluative semiosis becomes sufficiently temporally integrated and behaviourally flexible to coordinate activity relative to absent, delayed, anticipated, or counterfactual conditions.
+Cognition emerges when biologically meaningful significance becomes sufficiently integrated across time that living systems can retain, coordinate, and utilise that significance in adaptive regulation. It is neither the foundation of life nor a specialised property of brains alone. Within APS, cognition is the organisation of biological significance across temporal horizons and the bridge between biological meaning and mind.

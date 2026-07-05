@@ -1060,9 +1060,9 @@
     "lockedSince": "2026-05-18"
   },
   "glossary/evaluation": {
-    "hash": "25a46ed946056147",
-    "revised": "2026-06-15",
-    "lockedSince": "2026-05-17"
+    "hash": "f7c13d3bd2ca6011",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-04"
   },
   "glossary/evolutionary-organisation": {
     "hash": "e69aa725e1108e1e",
@@ -1530,8 +1530,8 @@
     "lockedSince": "2026-07-02"
   },
   "articles/what-is-biological-evaluation": {
-    "hash": "a5751d08a90cb486",
-    "revised": "2026-07-04",
+    "hash": "7bbfc540e25fc3a5",
+    "revised": "2026-07-05",
     "lockedSince": "2026-07-04"
   },
   "glossary/biological-value": {
@@ -1548,5 +1548,30 @@
     "hash": "3a00cab2149d517b",
     "revised": "2026-07-03",
     "lockedSince": "2026-07-03"
+  },
+  "glossary/biological-evaluation": {
+    "hash": "a1411527e9800d1b",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-04"
+  },
+  "glossary/biological-imperative": {
+    "hash": "cd25fa49d3ecc8a7",
+    "revised": "2026-07-04",
+    "lockedSince": "2026-07-04"
+  },
+  "glossary/mind": {
+    "hash": "ee3248c0e339dc68",
+    "revised": "2026-07-05",
+    "lockedSince": "2026-07-04"
+  },
+  "glossary/reflective-agency": {
+    "hash": "ffc5a1144298c6e1",
+    "revised": "2026-07-04",
+    "lockedSince": "2026-07-04"
+  },
+  "glossary/selfhood": {
+    "hash": "653f9fb7b31090d9",
+    "revised": "2026-07-04",
+    "lockedSince": "2026-07-04"
   }
 }

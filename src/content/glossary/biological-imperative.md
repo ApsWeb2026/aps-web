@@ -3,10 +3,22 @@ date: 2026-07-04
 title: Biological Imperative
 slug: biological-imperative
 type: glossary
+
+definition: >
+  The biological imperative is the life-defining tendency of living systems to
+  sustain functional integrity and adaptive continuity through ongoing
+  self-maintaining activity.
+
+inBrief: >
+  The biological imperative is the fundamental tendency of living systems to
+  maintain themselves and persist through changing conditions.
+
 status: canonical
 canonical: true
+canonicalLockDate: 2026-07-04
 revised: 2026-07-04
-cluster: foundations
+
+cluster: conceptual-foundations
 
 relatedTerms:
   - biological-agency

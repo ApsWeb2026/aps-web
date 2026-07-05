@@ -3,10 +3,22 @@ date: 2026-07-04
 title: Mind
 slug: mind
 type: glossary
+
+definition: >
+  Mind is the integrated organization of evaluative cognitive processes through
+  which an agent maintains a coherent relationship with itself and its world.
+
+inBrief: >
+  Mind is the integrated organization of evaluative cognition through which an
+  agent maintains a coherent relationship with itself and its world.
+
 status: canonical
 canonical: true
-revised: 2026-07-04
+canonicalLockDate: 2026-07-04
+revised: 2026-07-05
+
 cluster: cognition-and-mind
+
 relatedTerms:
   - cognition
   - biological-evaluation

@@ -3,10 +3,23 @@ date: 2026-07-04
 title: Selfhood
 slug: selfhood
 type: glossary
+
+definition: >
+  Selfhood is the organized continuity of agency, evaluation, cognition, and
+  interaction through which a living system persists as a distinct centre of
+  significance across changing conditions.
+
+inBrief: >
+  Selfhood is the organized continuity through which a living system persists
+  as a distinct centre of significance.
+
 status: canonical
 canonical: true
+canonicalLockDate: 2026-07-04
 revised: 2026-07-04
+
 cluster: cognition-and-mind
+
 relatedTerms:
   - biological-agency
   - biological-evaluation

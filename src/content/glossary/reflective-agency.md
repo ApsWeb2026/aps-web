@@ -3,10 +3,23 @@ date: 2026-07-04
 title: Reflective Agency
 slug: reflective-agency
 type: glossary
+
+definition: >
+  Reflective agency is the capacity of an agent to evaluate, regulate, and
+  modify its own evaluations, goals, beliefs, and actions through conscious
+  reflection.
+
+inBrief: >
+  Reflective agency is the capacity to reflect upon and modify one's own goals,
+  beliefs, evaluations, and actions.
+
 status: canonical
 canonical: true
+canonicalLockDate: 2026-07-04
 revised: 2026-07-04
+
 cluster: cognition-and-mind
+
 relatedTerms:
   - biological-agency
   - biological-evaluation
