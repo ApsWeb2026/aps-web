@@ -6,11 +6,11 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-07-05
+revised: 2026-07-06
 cluster: cognition-and-mind
 role: core
 abstract: >
-  Mind is the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world. Within APS, mind emerges from the integration of cognition and serves as the organisational bridge between cognition and selfhood.
+  Mind is the integrated organisation of cognition and significance through which an agent maintains a coherent relationship with itself and its world. Within APS, mind emerges from the integration of cognition and serves as the organisational bridge between cognition and selfhood.
 
 keyPoints:
   - Mind is not a mental substance but an organisational achievement.
@@ -116,33 +116,31 @@ Part of this difficulty arises because mind has frequently been treated as somet
 
 The APS framework approaches the problem differently. Rather than beginning with consciousness, intelligence, or subjective experience, APS begins with biological organisation. Living systems continuously evaluate conditions according to their significance for viability, functioning, and adaptive persistence. As these evaluative relationships become stabilised, they generate meaning; as meaningful significance is retained and coordinated across time, cognition emerges. Through the increasing integration of these processes, organisms develop coherent relationships with themselves and their environments. Mind emerges within this broader organisational context.
 
-APS therefore defines mind as the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world. From this perspective, mind is not a separate substance or an additional component added to biological systems. It is an organisational achievement arising from the integration of processes already present within living activity.
+APSI identifies integration as a core organisational principle operating throughout living systems. Significance determines what matters for an agent, cognition coordinates significance across time, and mind emerges when these processes become sufficiently integrated to support a coherent and ongoing relationship between agent and world. Mind therefore represents an organisational achievement rather than a separate substance, faculty, or realm.
+
+APS therefore defines mind as the integrated organisation of cognition and significance through which an agent maintains a coherent relationship with itself and its world. From this perspective, mind is not a separate substance or an additional component added to biological systems. It is an organisational achievement arising from the integration of processes already present within living activity.
 
 This article examines how mind emerges within biological organisation, how it relates to cognition and selfhood, and where it belongs within the broader architecture of life.
 
 ## Mind Within the APS Architecture
 
-APS situates mind within a broader architecture of biological organisation extending from biological evaluation through meaning and cognition to selfhood and reflective agency. This architecture does not describe a sequence of isolated entities or separate levels of reality. Rather, it describes increasingly integrated forms of organisation through which living systems maintain coherent engagement with themselves and their environments.
-
-Biological evaluation determines what matters for viability and adaptive persistence. Through evaluation, living systems distinguish conditions according to their significance for continued functioning. Meaning emerges when this significance becomes stabilised within the ongoing organisation of the organism. Cognition develops when meaningful significance can be retained, coordinated, and utilised across time. Mind emerges when these evaluative and cognitive processes become sufficiently integrated to sustain a coherent and ongoing relationship between an agent and its world.
-
 <div class="aps-diagram">
-  <a href="/assets/diagrams/cognition-aps-architecture.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/cognition-mind-architecture.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/cognition-aps-architecture.png"
+      src="/assets/diagrams/cognition-mind-architecture.png"
       alt="Mind within the APS architecture"
       loading="lazy"
     />
   </a>
+
   <p class="aps-diagram-caption">
     <strong>Mind Within the APS Architecture.</strong>
-    APS situates mind within a broader architecture of biological organisation linking evaluation, meaning, cognition, selfhood, and reflective agency. Mind emerges through the integration of evaluative cognitive processes into coherent agent–world organisation.
+    APS situates mind within a broader architecture of biological organisation linking evaluation, significance, integration, cognition, selfhood, and reflective agency. Mind emerges through the integration of cognition and significance into coherent agent–world organisation.
   </p>
 </div>
 
-This position clarifies why mind should not be treated as biologically exceptional. Mind does not appear suddenly as a wholly new phenomenon. Instead, it develops through increasing integration within processes already present in living systems. Evaluation establishes significance. Meaning stabilises significance. Cognition organises significance across time. Mind integrates these processes into coherent agent–world relations. Selfhood emerges when this coherence becomes increasingly stable across time, while reflective agency develops when organisms become capable of evaluating their own evaluations and actions.
 
-APS therefore places mind neither outside biology nor at its foundation. It occupies an intermediate but crucial position within the organisation of living systems, linking cognition to increasingly integrated forms of agency and selfhood.
+Within APS, integration explains how significance becomes coordinated into increasingly coherent forms of biological organisation. Significance identifies what matters, cognition organises significance across time, and mind emerges when cognition and significance become integrated into coherent patterns of agent–world engagement. Integration therefore functions as the organisational bridge linking significance, cognition, and mind.
 
 ## Why Mind Became Separated from Biology
 
@@ -184,6 +182,8 @@ The distinction becomes particularly important because cognition is often treate
 
 Mind therefore should not be understood as a replacement for cognition, nor as a separate phenomenon added to it. Rather, mind emerges through the increasing integration of evaluative and cognitive organisation. Cognition provides the temporal organisation of significance upon which mind depends. Mind transforms that organised significance into a coherent relationship through which an organism maintains ongoing engagement with itself and its world.
 
+From an APS perspective, cognition and mind perform distinct organisational functions. Cognition is the integrated organisation of significance across time, enabling evaluation, learning, anticipation, and adaptive regulation. Mind emerges when these cognitive processes become integrated into a coherent and ongoing relationship between agent and world. Cognition organises significance; mind organises cognition into stable patterns of engagement.
+
 ## Evaluation, Meaning, and Cognition Before Mind
 
 Mind does not arise independently of biological organisation. It emerges from processes that are already present within living systems, and understanding mind therefore requires understanding the organisational conditions that make it possible. APS locates these conditions within a developmental sequence extending from evaluation through meaning and cognition to mind itself.
@@ -194,9 +194,13 @@ Mind depends upon these prior achievements because coherent agent–world organi
 
 This emergence should not be understood as the appearance of a new substance or an additional layer imposed upon biological systems. Rather, it reflects the progressive organisation of processes already present within living activity. As evaluation generates significance, meaning stabilises it, and cognition extends it across temporal horizons, mind emerges through their integration into coherent patterns of agent–world engagement.
 
+APS further clarifies that cognition does not emerge directly from significance alone. Multiple significance relations must first become integrated into coherent adaptive organisation. Integration therefore provides the organisational transition through which significance becomes coordinated into cognition and subsequently contributes to the emergence of mind.
+
 ## Mind as Integrated Cognitive Organisation
 
-APS defines mind as the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world. This definition places integration at the centre of minded organisation. Mind is not simply a collection of cognitive activities, nor a repository of representations, experiences, or information. It is an organisational achievement that arises when evaluative and cognitive processes become sufficiently unified to sustain coherent engagement with changing conditions.
+APS defines mind as the integrated organisation of cognition and significance through which an agent maintains a coherent relationship with itself and its world. This definition places integration at the centre of minded organisation. Mind is not simply a collection of cognitive activities, nor a repository of representations, experiences, or information. It is an organisational achievement that arises when evaluative and cognitive processes become sufficiently unified to sustain coherent engagement with changing conditions.
+
+APSI identifies integration as the organisational principle through which cognition and significance become coordinated into coherent minded organisation. Mind is therefore not merely a collection of cognitive capacities but a higher-order organisational achievement in which perception, memory, evaluation, anticipation, and behavioural orientation become integrated into a unified pattern of agent–world engagement.
 
 Integration refers to the coordination of diverse evaluative and cognitive activities within a larger organisational whole. Living systems continuously perceive, evaluate, remember, anticipate, regulate, and respond. Individually, these activities contribute to adaptive functioning, but mind emerges when they operate as components of an integrated system rather than as isolated processes. Through integration, information acquired in one context can influence behaviour in another, evaluations can shape future activity, and cognitive organisation can contribute to coherent adaptive regulation across time.
 
@@ -237,6 +241,8 @@ Agent–world relations therefore occupy a central place within the APS understa
 
 For this reason, coherence provides the most useful criterion for understanding minded organisation. Intelligence, representation, memory, and consciousness may all contribute to particular forms of mind, but none defines mind itself. What defines mind is the integration of evaluative and cognitive processes into a coherent organisational framework through which living systems maintain ongoing engagement with themselves and their environments.
 
+The coherence characteristic of mind reflects the successful integration of multiple cognitive and evaluative processes into a unified organisational system. APSI therefore interprets agent–world coherence not as an additional property added to cognition, but as the organisational achievement through which cognition becomes minded engagement.
+
 ## Do All Organisms Have Minds?
 
 The question of whether all organisms possess minds has long generated disagreement. Some perspectives reserve mind for humans or for organisms exhibiting advanced forms of cognition, while others extend mentality much more broadly across the living world. APS approaches this issue cautiously because the answer depends upon how mind is defined.
@@ -248,6 +254,8 @@ APS therefore treats mind as an organisational phenomenon rather than a categori
 This continuity does not imply that all organisms possess identical forms of mind. The organisation of mind may vary significantly across biological systems. Different organisms confront different environmental challenges, employ different mechanisms of regulation, and exhibit different forms of cognitive organisation. The resulting forms of minded activity may therefore differ substantially in complexity and scope while still reflecting the same underlying organisational principles.
 
 APS consequently avoids both extremes. It does not restrict mind exclusively to humans or to organisms possessing advanced nervous systems, nor does it assume that all living systems possess equivalent forms of minded organisation. Instead, mind is understood as emerging through increasing integration and coherence within evaluative cognitive processes. The distribution of mind across living systems is therefore best approached as a question of organisational degree rather than a simple binary distinction.
+
+APS interprets mind as a matter of organisational degree rather than a binary property. As integrative organisation increases, richer forms of mindedness become possible. Simple organisms may exhibit rudimentary forms of mind, while more complex organisms exhibit increasingly elaborate forms of cognitive integration and agent–world coherence.
 
 ## Mind Across Scale and Time
 
@@ -283,9 +291,13 @@ Selfhood
 
 Each depends upon the preceding achievement while contributing new forms of organisation. APS consequently treats mind not as a replacement for cognition or selfhood, but as the integrative bridge between them.
 
+The multiscale character of mind reflects the scale-independent operation of integration itself. APSI therefore interprets minded organisation as emerging through increasingly integrated forms of significance and cognition across biological scales rather than appearing abruptly at a particular level of complexity.
+
 ## Mind and Selfhood
 
 Mind and selfhood are intimately related, but they are not identical. Mind concerns the integration of evaluative and cognitive processes into coherent agent–world relations. Selfhood concerns the persistence of that coherence through time. Understanding the distinction is essential because it clarifies how increasingly integrated forms of biological organisation emerge from one another without collapsing into a single concept.
+
+APS distinguishes mind and selfhood while recognising their close relationship. Mind concerns the coherent organisation of cognition and significance into a stable self–world relationship. Selfhood concerns the persistence of that organisation through time. Mind explains coherence; selfhood explains continuity. The emergence of selfhood therefore depends upon minded organisation, but selfhood represents a distinct organisational achievement involving the maintenance of that organisation despite ongoing material, developmental, and experiential change.
 
 Mind provides the organisational foundation upon which selfhood depends. An organism cannot maintain a continuing evaluative perspective unless evaluative and cognitive processes have already become integrated into coherent patterns of engagement with the world. Through minded organisation, significance becomes coordinated, relationships become coherent, and adaptive activity acquires continuity across changing conditions. These achievements create the organisational conditions necessary for the emergence of selfhood.
 
@@ -294,6 +306,8 @@ Yet mind alone does not constitute selfhood. An organism may exhibit coherent mi
 This distinction reflects a broader organisational progression within APS. Meaning identifies significance. Cognition organises significance across time. Mind integrates organised significance into coherent agent–world relations. Selfhood emerges when this coherence becomes increasingly stabilised around a continuing evaluative perspective. Each stage depends upon earlier organisational achievements while contributing new forms of integration and continuity.
 
 The emergence of selfhood should therefore be understood as a development within minded organisation rather than as the appearance of a separate entity. Selfhood is not added to mind from outside. It develops through the increasing persistence and integration of the organisational relationships that mind already establishes. The resulting continuity allows organisms to maintain increasingly stable forms of engagement with themselves, their environments, and, in some cases, their own ongoing activity.
+
+As minded organisation becomes increasingly stable and persistent, new possibilities emerge for self-monitoring, self-evaluation, and self-directed change. APSI therefore interprets reflective agency as a downstream development of mind and selfhood rather than an independent capacity appearing abruptly within biological systems.
 
 A full account of selfhood extends beyond the scope of this article. What is important here is that mind occupies a crucial position within the broader architecture of biological organisation. By integrating evaluative and cognitive processes into coherent agent–world relations, mind creates the conditions from which selfhood can emerge. Understanding this relationship helps clarify why mind functions as the bridge between cognition and selfhood within the APS framework.
 
@@ -321,6 +335,8 @@ This position helps clarify longstanding misunderstandings concerning mentality.
 
 Mind belongs neither outside biology nor at its foundation. It belongs within the unfolding organisation of life itself, occupying the crucial position through which cognition becomes integrated into coherent agent–world relations and through which selfhood becomes possible.
 
+Within APSI, mind occupies a pivotal position between cognition and selfhood. Integration provides the organisational bridge through which significance becomes cognition and cognition becomes mind, while selfhood emerges through the continuing persistence of minded organisation across time. Mind therefore represents a crucial stage in the developmental architecture linking biological agency to increasingly sophisticated forms of awareness, identity, and meaning.
+
 ## Key Point
 
-Mind is the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world. Emerging from biological evaluation, meaning, and cognition, mind integrates organised significance into coherent agent–world relations and forms the bridge between cognition and selfhood. Mind is neither a mental substance nor synonymous with consciousness. It is an organisational achievement through which living systems maintain coherent engagement with themselves and their environments, providing the organisational foundation from which selfhood can emerge.
+Mind is the integrated organisation of cognition and significance through which an agent maintains a coherent relationship with itself and its world. It emerges when cognitive and evaluative processes become sufficiently integrated to support stable patterns of agent–world engagement and provides the organisational foundation from which selfhood and reflective agency can later develop.

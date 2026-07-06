@@ -335,7 +335,7 @@
     "lockedSince": "2026-04-12"
   },
   "articles/cognition-where-does-it-belong-in-biology": {
-    "hash": "904587ec7fa95e38",
+    "hash": "988570241acb8636",
     "revised": "2026-07-06",
     "lockedSince": "2026-07-05"
   },
@@ -1575,8 +1575,8 @@
     "lockedSince": "2026-07-04"
   },
   "articles/what-is-mind": {
-    "hash": "951b277df4c5a852",
-    "revised": "2026-07-05",
+    "hash": "6374a94391ef223d",
+    "revised": "2026-07-06",
     "lockedSince": "2026-07-05"
   },
   "articles/what-is-biological-significance": {
@@ -1593,5 +1593,15 @@
     "hash": "8b85d8be672e4aee",
     "revised": "2026-07-05",
     "lockedSince": "2026-07-05"
+  },
+  "articles/what-is-reflective-agency": {
+    "hash": "125661cadab051c3",
+    "revised": "2026-07-06",
+    "lockedSince": "2026-07-06"
+  },
+  "articles/what-is-selfhood": {
+    "hash": "d93444d2e1d3c334",
+    "revised": "2026-07-06",
+    "lockedSince": "2026-07-06"
   }
 }
