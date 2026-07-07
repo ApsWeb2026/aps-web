@@ -1,122 +1,101 @@
 ---
+date: 2026-07-07
 title: Integration
 slug: integration
 type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-06
-revised: 2026-07-06
+revised: 2026-07-07
 cluster: cognition-and-mind
+definition: Integration is the process by which significant relations are organised into coherent functional wholes capable of coordinated activity.
+inBrief: Integration organises what matters into coherent functional relation.
 relatedTerms:
-  - agency
   - significance
+  - biological-evaluation
   - cognition
   - mind
   - selfhood
-  - reflective-agency
   - meaning
+  - reflective-agency
+  - organisation
+  - coordination
+  - agency
 ---
 
 ## Definition
 
-Integration is the process through which diverse activities, relationships, and sources of significance become coordinated into coherent functional wholes capable of organised operation.
+Living systems constantly encounter conditions, signals, opportunities, and constraints that matter to their continued existence. Yet significance alone does not produce cognition, meaning, mind, or selfhood. What matters must also be related, coordinated, and organised into coherent patterns of activity.
 
-Within APSI, integration explains how biological systems bring multiple processes into coherent relationship so that they contribute to the functioning of the system as a whole. Integration occurs across biological scales and domains, from cellular regulation and physiological coordination to cognition, mind, selfhood, and reflective agency. It provides the organisational foundation upon which increasingly complex forms of biological organisation emerge.
+In APS, integration refers to the process through which significant relations become organised into functional wholes. Through integration, information, activities, evaluations, memories, responses, and environmental relationships are brought into coherent relation so that they can contribute to the ongoing organisation of a living system.
 
-## In Brief
+Integration is therefore a bridge concept linking significance to higher forms of biological and cognitive organisation. It explains how locally significant conditions become part of broader patterns of regulation, behaviour, cognition, and meaning.
 
-Integration is the organisation of diverse processes into coherent functional relationships.
+Integration occurs across biological scales. Cells integrate metabolic, genetic, signalling, and regulatory processes into coherent physiological activity. Organisms integrate perception, memory, evaluation, movement, and behaviour. Social systems integrate communication, norms, and shared practices. Ecological systems integrate networks of dependency, exchange, and mutual influence.
 
-## Why Integration Matters
+Although integration often produces coherence, it should not be confused with uniformity, harmony, or agreement. Integrated systems may contain conflict, competition, tension, or diversity while remaining functionally connected. What defines integration is not sameness but the organisation of relations into a coherent functional whole.
 
-Living systems consist of many interacting processes occurring simultaneously across different spatial, temporal, and functional dimensions. Agency enables action, and significance identifies what matters for continued existence, but neither alone explains how these activities become organised into a functioning whole. Integration provides this missing step.
+Because integration can occur in biological, developmental, cognitive, social, and ecological systems, it is broader than cognition and does not imply the presence of mind or consciousness. Rather, integration provides part of the organisational foundation from which cognition, mind, selfhood, and reflective agency can emerge.
 
-Through integration, distributed activities become coordinated, signals become meaningful within larger organisational contexts, and multiple processes contribute to the operation of the system as a whole. Integration therefore explains how living systems achieve coherence without requiring central control or fixed hierarchical organisation.
+## Boundary Distinctions
+### Integration and Organisation
 
-Without integration, significance remains fragmented. With integration, significance becomes organised into coherent relationships that can support increasingly sophisticated forms of biological organisation.
+Organisation refers broadly to structured arrangement.
 
-## Integration in APSI
+Integration refers specifically to the functional organisation of significant relations into coherent wholes.
 
-Integration occupies a pivotal position within the APSI architecture:
+### Integration and Coordination
 
-```text
-Agency
-↓
-Significance
-↓
-Integration
-↓
-Cognition
-↓
-Mind
-↓
-Selfhood
-↓
-Reflective Agency
-↓
-Meaning
-```
+Coordination is the mutual adjustment of activities.
 
-Significance identifies conditions that matter to a living system. Integration organises those conditions into coherent functional relationships. Cognition then uses integrated significance in adaptive regulation across time.
+Integration is the broader process that makes coordinated activity possible by organising significant relations into a coherent context.
 
-Integration therefore serves as the principal bridge between significance and cognition. It explains how significance becomes organised before it becomes cognitively available.
+### Integration and Regulation
 
-## Integration Is Not Organisation
+Regulation concerns the control or modulation of activity.
 
-Organisation and integration are closely related but not identical.
+Integration organises the relations, signals, and constraints that regulation operates upon.
 
-Organisation refers broadly to structured arrangement. Integration refers more specifically to the functional coordination that allows diverse components, activities, and relationships to operate coherently as part of a larger whole.
+### Integration and Communication
 
-A system may possess organisation without being highly integrated. Integration therefore describes a particular quality of organisation rather than organisation itself.
+Communication transfers or exchanges signals.
 
-## Integration Is Not Cognition
+Integration incorporates those signals into a larger functional organisation.
 
-Integration should not be confused with cognition.
+Integration and Cognition
 
-Integration concerns the organisation of significance. Cognition concerns the use of organised significance in adaptive regulation.
+Cognition uses integrated significance in adaptive regulation.
 
-In APSI, cognition depends upon integration. A living system must first organise significant information, relationships, and activities before it can use them in evaluation, memory, anticipation, learning, or context-sensitive behaviour.
+Integration provides the organisational basis that cognition depends upon.
 
-The relationship is therefore:
+### Integration and Mind
 
-```text
-Significance
-↓
-Integration
-↓
-Cognition
-```
+Mind is not integration itself but a more coherent and sustained organisation of integrated cognitive significance.
 
-rather than:
+Integration makes mind possible without implying that all integrated systems possess minds.
 
-```text
-Significance
-↓
-Cognition
-↓
-Integration
-```
+### Integration and Meaning
 
-## Integration Across the Living World
+Meaning depends upon significance that has been integrated into broader patterns of relation, consequence, and interpretation.
 
-Integration is a scale-independent feature of life.
+Integration therefore helps explain how significance becomes meaningful.
 
-Cells exhibit metabolic integration through coordinated regulatory processes that sustain viability. Plants exhibit physiological integration through distributed signalling and whole-organism coordination. Animals exhibit behavioural integration through increasingly sophisticated sensory, regulatory, and behavioural systems. Humans display cognitive, social, and reflective forms of integration that support mind, selfhood, reflective agency, and meaning.
+## APS Architectural Role
 
-These are not separate forms of integration but different expressions of the same underlying organisational principle. Across all scales, integration explains how diverse processes become coordinated into coherent functional wholes.
+Integration occupies a bridging position within the APS architecture:
+
+Agency → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency
+
+Agency generates significance by establishing what matters to a living system.
+
+Integration organises significance into coherent functional relations.
+
+Cognition uses integrated significance in adaptive regulation across time.
+
+Mind, selfhood, and reflective agency represent increasingly complex and persistent forms of integrated significance.
+
+Integration is therefore not a primary APS principle alongside Agency, Process, and Scale. Instead, it functions as a core bridge concept linking biological agency to cognition, meaning, mind, and higher-order forms of organisation.
 
 ## Related Terms
 
-**Agency** — The capacity of living systems to initiate and regulate activity.
-
-**Significance** — The relevance of conditions, events, or relationships to the continued organisation of a living system.
-
-**Cognition** — The use of integrated significance in adaptive regulation across time.
-
-**Mind** — The coherent organisation of integrated significance in self–world relations.
-
-**Selfhood** — The persistence of integrated organisation through change.
-
-**Reflective Agency** — The capacity of a persistent self to evaluate, direct, and transform its own agency.
-
-**Meaning** — The interpretation and organisation of significance within the life of an agent.
+Agency • Significance • Biological Evaluation • Cognition • Mind • Selfhood • Meaning • Reflective Agency • Organisation • Coordination • Regulation

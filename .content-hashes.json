@@ -1603,5 +1603,15 @@
     "hash": "d93444d2e1d3c334",
     "revised": "2026-07-06",
     "lockedSince": "2026-07-06"
+  },
+  "articles/what-is-integration": {
+    "hash": "3c214f8410d9d3a5",
+    "revised": "2026-07-07",
+    "lockedSince": "2026-07-07"
+  },
+  "glossary/integration": {
+    "hash": "302a1d5989a0b0d6",
+    "revised": "2026-07-07",
+    "lockedSince": "2026-07-06"
   }
 }

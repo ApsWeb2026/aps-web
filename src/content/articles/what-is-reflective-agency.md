@@ -8,7 +8,7 @@ canonical: true
 canonicalLockDate: 2026-07-06
 revised: 2026-07-06
 
-cluster: cognition-mind
+cluster: cognition-and-mind
 role: synthesis
 
 abstract: >
@@ -81,7 +81,7 @@ references:
   - id: barandiaran-di-paolo-rohde-2009
     authors: Barandiaran, X. E., Di Paolo, E. A., & Rohde, M.
     year: 2009
-    title: Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action
+    title: "Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action"
     journal: Adaptive Behavior
     volume: "17(5)"
     pages: "367–386"

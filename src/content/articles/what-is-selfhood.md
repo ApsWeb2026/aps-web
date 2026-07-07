@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-07-06
 revised: 2026-07-06
-cluster: cognition-mind
+cluster: cognition-and-mind
 role: core
 
 abstract: >
