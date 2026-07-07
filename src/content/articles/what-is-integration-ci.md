@@ -8,6 +8,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
 cluster: cognition-and-mind
+role: core
 abstract: >
   Living systems constantly encounter conditions that matter to their continued
   existence. Food, danger, opportunity, memory, social relationships, and
@@ -19,7 +20,13 @@ abstract: >
   provides the bridge between significance and cognition and helps explain how
   increasingly complex forms of biological organisation give rise to meaning,
   mind, selfhood, and reflective agency.
-keywords:
+keyPoints:
+  - Integration is the process by which significant relations become organised into coherent functional wholes capable of coordinated activity.
+  - Integration provides the bridge between significance and cognition within the APS framework.
+  - Cognition depends on integrated significance rather than significance alone.
+  - Integration occurs across biological scales, from cells and organisms to cognitive, social, and ecological systems.
+  - Increasingly integrated forms of cognition contribute to the emergence of mind, selfhood, meaning, and reflective agency.
+relatedGlossaryTerms:
   - integration
   - significance
   - cognition
@@ -28,12 +35,11 @@ keywords:
   - meaning
   - reflective agency
   - biological evaluation
-  - agency
-  - APS framework
-related:
-  - what-is-significance
+  - biological-agency
+relatedArticles:
+  - what-is-biological-significance
   - what-is-biological-evaluation
-  - what-is-cognition
+  - cognition-where-does-it-belong-in-biology
   - what-is-mind
   - what-is-selfhood
   - what-is-reflective-agency
