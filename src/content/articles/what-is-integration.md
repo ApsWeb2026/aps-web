@@ -142,8 +142,6 @@ The question, therefore, is not simply what matters, but how what matters become
 
 ## What Is Integration?
 
-## What Is Integration?
-
 Integration is the process by which significant relations are organised into coherent functional wholes capable of coordinated activity.
 
 At its core, integration concerns the organisation of what matters. Living systems encounter many significant conditions, but those conditions do not automatically form coherent patterns. Integration is the process through which they become related to one another in ways that support ongoing activity, persistence, and adaptation.
@@ -183,8 +181,6 @@ Integration therefore serves as the bridge between significance and cognition. W
 
 ## Is Integration Just Another Word for Organisation?
 
-## Is Integration Just Another Word for Organisation?
-
 Integration is closely related to organisation, but the two concepts are not identical.
 
 Organisation refers broadly to structured arrangement. A system may be organised because its components exhibit order, pattern, or regularity. Integration refers more specifically to the organisation of significant relations into coherent functional wholes.
@@ -202,8 +198,6 @@ Organisation describes structure.
 Integration describes the coherent functional organisation of what matters.
 
 [[box:integration-is-not-organisation]]
-
-## Integration Across Living Systems
 
 ## Integration Across Living Systems
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1400" viewBox="0 0 800 1400">
+<style>
+text { font-family: Arial, sans-serif; font-size: 24px; fill: black; }
+.box { fill: #cfe8d5; stroke: #555; stroke-width: 2; rx: 12; ry: 12; }
+.arrow { stroke: #555; stroke-width: 3; marker-end: url(#arrow); }
+.title { font-size: 30px; font-weight: bold; }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#555"/>
+</marker>
+</defs>
+
+<text x="400" y="40" text-anchor="middle" class="title">The APS Matter-to-Mind Pathway</text>
+<rect class="box" x="250" y="80" width="300" height="60"/><text x="400" y="118" text-anchor="middle">Matter</text><line class="arrow" x1="400" y1="140" x2="400" y2="180"/><rect class="box" x="250" y="200" width="300" height="60"/><text x="400" y="238" text-anchor="middle">Living Organisation</text><line class="arrow" x1="400" y1="260" x2="400" y2="300"/><rect class="box" x="250" y="320" width="300" height="60"/><text x="400" y="358" text-anchor="middle">Agency</text><line class="arrow" x1="400" y1="380" x2="400" y2="420"/><rect class="box" x="250" y="440" width="300" height="60"/><text x="400" y="478" text-anchor="middle">Biological Evaluation</text><line class="arrow" x1="400" y1="500" x2="400" y2="540"/><rect class="box" x="250" y="560" width="300" height="60"/><text x="400" y="598" text-anchor="middle">Significance</text><line class="arrow" x1="400" y1="620" x2="400" y2="660"/><rect class="box" x="250" y="680" width="300" height="60"/><text x="400" y="718" text-anchor="middle">Integration</text><line class="arrow" x1="400" y1="740" x2="400" y2="780"/><rect class="box" x="250" y="800" width="300" height="60"/><text x="400" y="838" text-anchor="middle">Cognition</text><line class="arrow" x1="400" y1="860" x2="400" y2="900"/><rect class="box" x="250" y="920" width="300" height="60"/><text x="400" y="958" text-anchor="middle">Mind</text><line class="arrow" x1="400" y1="980" x2="400" y2="1020"/><rect class="box" x="250" y="1040" width="300" height="60"/><text x="400" y="1078" text-anchor="middle">Selfhood</text><line class="arrow" x1="400" y1="1100" x2="400" y2="1140"/><rect class="box" x="250" y="1160" width="300" height="60"/><text x="400" y="1198" text-anchor="middle">Reflective Agency</text></svg>

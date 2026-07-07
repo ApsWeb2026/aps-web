@@ -1600,17 +1600,27 @@
     "lockedSince": "2026-07-06"
   },
   "articles/what-is-selfhood": {
-    "hash": "d93444d2e1d3c334",
+    "hash": "bb6a5a13c662fd86",
     "revised": "2026-07-06",
     "lockedSince": "2026-07-06"
   },
   "articles/what-is-integration": {
-    "hash": "3c214f8410d9d3a5",
+    "hash": "83985656255bf3a4",
     "revised": "2026-07-07",
     "lockedSince": "2026-07-07"
   },
   "glossary/integration": {
     "hash": "302a1d5989a0b0d6",
+    "revised": "2026-07-07",
+    "lockedSince": "2026-07-06"
+  },
+  "articles/how-did-matter-become-aware-of-itself": {
+    "hash": "c8495c62a5fc4bc2",
+    "revised": "2026-07-07",
+    "lockedSince": "2026-07-07"
+  },
+  "glossary/awareness": {
+    "hash": "48cfe1fb081c1635",
     "revised": "2026-07-07",
     "lockedSince": "2026-07-06"
   }
