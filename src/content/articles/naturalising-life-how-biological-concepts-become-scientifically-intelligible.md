@@ -14,6 +14,14 @@ role: synthesis
 abstract: |
   Many of biology's most important concepts—including purpose, agency, cognition, meaning, and mind—remain conceptually contested despite substantial empirical progress. APS argues that these difficulties often arise not from a lack of evidence but from conceptual instability. This article proposes that biological understanding advances through two related processes: naturalisation and conceptual closure. Naturalisation reconstructs difficult concepts as features of organised living systems, while conceptual closure stabilises those concepts within a coherent explanatory framework. Together these processes transform phenomena that appear ambiguous, metaphysical, or irreducible into scientifically intelligible objects of inquiry. By examining how APS approaches purpose, agency, cognition, and meaning, the article argues that the framework functions as a programme of integrative naturalisation. More broadly, it suggests that APS can be understood as a systematic effort to render life scientifically intelligible, providing a methodological foundation for future investigations into mind, selfhood, awareness, and the wider Matter-to-Mind research programme.
 
+keyPoints:
+  - Naturalisation makes life scientifically intelligible without reducing it to something else.
+  - Living systems possess distinctive organisational properties that require biological explanation.
+  - Biological agency is a natural feature of living systems.
+  - Purpose emerges from the biological imperative rather than external design.
+  - Cognition, meaning, and value can be understood as natural biological phenomena.
+  - APS provides a framework for investigating how increasingly complex forms of organisation give rise to mind and reflective agency.
+
 relatedGlossaryItems:
   - naturalisation
   - conceptual closure
