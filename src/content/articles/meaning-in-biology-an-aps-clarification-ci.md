@@ -104,10 +104,9 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-## Meaning in Biology — An APS Clarification
-
 > **Where this article fits:** This article clarifies the APS account of biological meaning. It explains why meaning should not be reduced to information, representation, symbolic semantics, or computational processing, and situates meaning within viability-oriented evaluation, semiosis, and organised persistence. Readers seeking the broader APS account of meaning as a concept within the Cognition–Mind architecture should begin with What Is Meaning?, which develops meaning as the interpretive organisation of significance and examines its relationship to cognition, mind, selfhood, reflective agency, values, purpose, and existential understanding. The two articles are complementary. What Is Meaning? explains what meaning is and why it occupies a distinct place within APS. Meaning in Biology — An APS Clarification explains the biological conditions under which meaning first becomes possible. Its focus is not the highest forms of reflective or existential meaning, but the emergence of meaning within living systems themselves.
 
+## Introduction
 Meaning is often associated with language, symbols, concepts, representation, and semantic interpretation. Within many informational, computational, and representational frameworks, meaning is explained primarily through symbolic reference, semantic content, informational encoding, internal representation, or interpretive cognition.
 
 APS argues that this explanatory starting point arrives too late.
