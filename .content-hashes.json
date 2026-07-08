@@ -1610,22 +1610,27 @@
     "lockedSince": "2026-07-07"
   },
   "glossary/integration": {
-    "hash": "302a1d5989a0b0d6",
-    "revised": "2026-07-07",
+    "hash": "6eff075c7e578a14",
+    "revised": "2026-07-08",
     "lockedSince": "2026-07-06"
   },
   "articles/how-did-matter-become-aware-of-itself": {
-    "hash": "a17f5987680c4549",
+    "hash": "51bc68d08127cd9c",
     "revised": "2026-07-08",
     "lockedSince": "2026-07-07"
   },
   "glossary/awareness": {
-    "hash": "48cfe1fb081c1635",
-    "revised": "2026-07-07",
+    "hash": "94f35e22e3bd1496",
+    "revised": "2026-07-08",
     "lockedSince": "2026-07-06"
   },
   "articles/meaning": {
     "hash": "688e81acbf6dfbd1",
+    "revised": "2026-07-08",
+    "lockedSince": "2026-07-08"
+  },
+  "articles/naturalising-life": {
+    "hash": "1c133598c94c3344",
     "revised": "2026-07-08",
     "lockedSince": "2026-07-08"
   }

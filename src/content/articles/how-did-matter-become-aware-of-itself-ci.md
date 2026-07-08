@@ -131,6 +131,8 @@ This question lies at the heart of what may be called the matter-to-mind problem
 
 APS approaches this question from a biological perspective. Rather than beginning with consciousness itself, it begins with life. Rather than treating mind as something separate from biology, it investigates how increasingly complex forms of biological organisation give rise to increasingly sophisticated forms of cognition, selfhood, and self-directed behaviour. The central claim is not that consciousness suddenly appears within matter, but that awareness becomes progressively intelligible when viewed as part of a longer developmental sequence linking life, agency, significance, cognition, selfhood, and reflection.
 
+The title How Did Matter Become Aware of Itself? should not be understood as asking how unconscious matter suddenly became conscious. Within APS, awareness is understood as the availability of significance to an agent. Living systems become aware when conditions that matter become available for sensitivity, evaluation, coordination, and adaptive response. The emergence of awareness therefore begins not with consciousness but with biological agency and significance. As significance becomes increasingly available through more sophisticated forms of organisation, awareness becomes integrated, cognitive, minded, self-aware, reflective, and ultimately meaningful. The pathway from matter to mind is therefore also a pathway of increasingly sophisticated awareness.
+
 The result is a different way of thinking about the relationship between matter and mind—one grounded not in a single mysterious transition but in the organisational achievements of living systems.
 
 ## The Question That Connects Life and Mind
@@ -351,9 +353,25 @@ Life introduces persistence. Agency transforms persistence into active engagemen
 
 Taken together, these developments reveal a gradual transformation in the relationship between living systems and their environments. What begins as persistence becomes action. Action becomes evaluation. Evaluation gives rise to significance. Significance becomes organised, utilised, integrated into coherent self–world relations, sustained through time, and eventually directed toward future possibilities.
 
-The pathway therefore does not describe a sequence of independent capacities. Each stage builds upon those preceding it and creates conditions for those that follow. The emergence of awareness is not a single event but the cumulative result of increasingly sophisticated forms of biological organisation.
+The pathway therefore does not describe a sequence of independent capacities. Each stage builds upon those preceding it and creates conditions for those that follow. The emergence of awareness is not a single event but the cumulative result of increasingly sophisticated forms of biological organisation. Awareness in this sense refers to the increasing availability of significance to living systems as organisational complexity deepens across biological, cognitive, and reflective forms of organisation.
 
 From this perspective, awareness appears less as a mysterious property added to matter and more as an achievement of organised living systems.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-awareness-significance.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-awareness-significance.png"
+      alt="Awareness as the Availability of Significance"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Awareness as the Availability of Significance.</strong>
+    In APS, awareness is not a separate stage in the Matter-to-Mind pathway. It is a distributed and graded property through which significance becomes increasingly available to living systems. As biological organisation becomes more sophisticated, awareness becomes increasingly integrated, cognitive, minded, self-aware, reflective, and meaningful.
+  </p>
+</div>
+
 
 ## Does This Explain Consciousness?
 
@@ -377,7 +395,7 @@ The traditional matter-to-mind problem is often presented as a stark contrast be
 
 Between matter and mind lies a long history of organisational transformation. Through that history, living systems become capable of persistence, action, evaluation, significance, integration, cognition, self–world organisation, continuity through change, and self-direction. Each stage extends the possibilities established by the stages before it.
 
-Seen from this perspective, awareness is not imposed upon matter from outside, nor does it appear suddenly through an inexplicable leap. It emerges through the progressive organisation of living systems and through the increasingly sophisticated ways in which those systems engage with conditions that matter to them.
+Seen from this perspective, awareness is not imposed upon matter from outside, nor does it appear suddenly through an inexplicable leap. Awareness emerges as significance becomes increasingly available to living systems through progressively more sophisticated forms of organisation. It emerges through the progressive organisation of living systems and through the increasingly sophisticated ways in which those systems engage with conditions that matter to them.
 
 The question therefore changes. Rather than asking how matter suddenly becomes mind, we ask how organised matter becomes capable of sustaining itself, acting within the world, distinguishing significance, developing coherent self–world relations, maintaining continuity through change, and ultimately directing aspects of its own future organisation.
 
@@ -389,7 +407,17 @@ The central question of this article has been deceptively simple: how did matter
 
 APS approaches this question by replacing a single explanatory gap with a developmental pathway. Rather than treating awareness as a mysterious property that suddenly appears within matter, the framework investigates the sequence of organisational achievements through which living systems become progressively capable of increasingly sophisticated forms of engagement with themselves and their worlds.
 
-Life establishes persistence. Agency transforms persistence into action. Biological evaluation distinguishes what matters. Significance creates organism-relative worlds. Integration organises significance into coherent relationships. Cognition enables adaptive regulation. Mind establishes coherent self–world organisation. Selfhood sustains that organisation through change. Reflective agency allows organised persistence to become self-directed.
+Life establishes persistence. Agency transforms persistence into action. Biological evaluation distinguishes Awareness makes what matters available.
+
+- Life establishes persistence.
+- Agency transforms persistence into action.
+- Biological evaluation distinguishes what matters.
+- Awareness makes what matters available.
+- Integration organises significance into coherent relationships.
+- Cognition enables adaptive regulation.
+- Mind establishes coherent self–world organisation.
+- Selfhood sustains that organisation through change.
+- Reflective agency allows organised persistence to become self-directed.
 
 Viewed individually, these developments may appear modest. Viewed together, they reveal a profound transformation in the history of life. Matter becomes organised into systems capable of maintaining themselves, acting upon the world, evaluating conditions, organising significance, developing coherent relations with themselves and their environments, and ultimately participating in the direction of their own future organisation.
 

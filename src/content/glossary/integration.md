@@ -6,10 +6,10 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-06
-revised: 2026-07-07
+revised: 2026-07-08
 cluster: cognition-and-mind
 definition: Integration is the process by which significant relations are organised into coherent functional wholes capable of coordinated activity.
-inBrief: Integration organises what matters into coherent functional relation.
+inBrief: Integration organises what matters into coherent functional relations.
 relatedTerms:
   - significance
   - biological-evaluation
@@ -62,7 +62,7 @@ Communication transfers or exchanges signals.
 
 Integration incorporates those signals into a larger functional organisation.
 
-Integration and Cognition
+### Integration and Cognition
 
 Cognition uses integrated significance in adaptive regulation.
 
@@ -84,7 +84,7 @@ Integration therefore helps explain how significance becomes meaningful.
 
 Integration occupies a bridging position within the APS architecture:
 
-Agency → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency
+Agency → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency → Meaning
 
 Agency generates significance by establishing what matters to a living system.
 
@@ -94,7 +94,7 @@ Cognition uses integrated significance in adaptive regulation across time.
 
 Mind, selfhood, and reflective agency represent increasingly complex and persistent forms of integrated significance.
 
-Integration is therefore not a primary APS principle alongside Agency, Process, and Scale. Instead, it functions as a core bridge concept linking biological agency to cognition, meaning, mind, and higher-order forms of organisation.
+Integration is therefore not a primary APS principle alongside Agency, Process, and Scale. Instead, it functions as a core bridge concept linking significance to cognition, mind, selfhood, reflective agency, meaning, and higher-order forms of organisation
 
 ## Related Terms
 

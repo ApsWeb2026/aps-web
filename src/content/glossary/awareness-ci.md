@@ -6,14 +6,12 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-06
-revised: 2026-07-07
+revised: 2026-07-08
 
 cluster: cognition-and-mind
 
 definition: >
-  Awareness is the capacity of a system to register, discriminate,
-  and respond to aspects of itself or its environment that are
-  significant to its continued organisation.
+  Awareness does not occupy a single stage within the APSI pathway. It functions as a distributed and graded mode of sensitivity through which significance becomes available to living systems across multiple forms of organisation.
 
 inBrief: >
   Awareness is sensitivity to significant conditions.
@@ -32,9 +30,9 @@ relatedTerms:
 
 ## Definition
 
-Awareness is the capacity of a system to register, discriminate, and respond to aspects of itself or its environment that are significant to its continued organisation.
+Awareness is the availability of significance to a living system, expressed through the capacity to register, discriminate, and respond to conditions relevant to its continued organisation.
 
-Within APSI, awareness refers to sensitivity to biologically relevant conditions rather than to subjective experience or conscious reflection. Awareness allows living systems to distinguish conditions that matter from those that do not and thereby supports adaptive engagement with the world. Awareness can occur in many forms and across many scales of biological organisation, from cellular responsiveness to reflective human awareness.
+Within APS, awareness refers to sensitivity to biologically relevant conditions rather than to subjective experience or conscious reflection. Awareness allows living systems to distinguish conditions that matter from those that do not and thereby supports adaptive engagement with the world. Awareness can occur in many forms and across many scales of biological organisation, from cellular responsiveness to reflective human awareness.
 
 ## In Brief
 
@@ -56,7 +54,7 @@ Significance explains what matters to a living system. Awareness explains how a 
 
 Awareness should therefore be understood as a foundational aspect of biological engagement with the world. It does not require conscious reflection, symbolic representation, or advanced cognition. Rather, it refers to the capacity to register and respond to conditions that have significance for continued organisation.
 
-The precise architectural position of awareness within APSI remains an open question. Current development suggests that awareness may function as an important bridge between significance and cognition, but further theoretical work is required before a permanent architectural placement can be established.
+Awareness does not occupy a single stage within the APSI pathway. It functions as a distributed and graded mode of sensitivity through which significance becomes available to living systems across multiple forms of organisation.
 
 ## Awareness Is Not Consciousness
 
@@ -115,3 +113,10 @@ These forms differ greatly in complexity, but they share a common organisational
 **Reflective Agency** — The capacity of a persistent self to evaluate, direct, and transform its own agency.
 
 **Meaning** — The interpretation and organisation of significance within the life of an agent.
+
+Awareness functions throughout this pathway as the
+availability of significance to the system.
+It is not a separate stage of organisation but a
+distributed and graded property expressed in different
+forms across biological, cognitive, minded, reflective,
+and meaningful activity.
