@@ -7,7 +7,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
     <section class="hero">
       <p class="eyebrow">APS Framework</p>
 
-      <h1>Biology's Big Questions</h1>
+      <h1 class="blue-heading">Biology's Big Questions</h1>
 
       <p class="subtitle">
         Explore some of biology's deepest questions through the perspective developed within APS.
@@ -24,21 +24,32 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 
     <section class="home-section">
       <div class="article-text-block">
-        <h2>A Guided Entry Point</h2>
+  <h2>A Guided Entry Point</h2>
 
-        <p>
-          Some readers begin with a biological theory.
+  <p>
+    Some readers begin with a biological theory.
+  </p>
 
-Others begin with a biological question.
+  <p>
+    Others begin with a biological question.
+  </p>
 
-This page is designed for the second approach.
+  <p>
+    This page is designed for the second approach.
+  </p>
 
-The questions gathered here are among the most persistent and important in biology. They concern life, agency, goals, evolution, genes, species, meaning, and biological organisation.
+  <p>
+    The questions gathered here are among the most persistent and important in
+    biology. They concern life, agency, goals, evolution, genes, species,
+    meaning, and biological organisation.
+  </p>
 
-APS does not treat these as isolated problems. Instead, it explores whether they can be understood as different perspectives on a common biological reality.
-        </p>
-
-        </div>
+  <p>
+    APS does not treat these as isolated problems. Instead, it explores whether
+    they can be understood as different perspectives on a common biological
+    reality.
+  </p>
+</div>
     </section>
 
     <section class="home-section">
@@ -120,19 +131,7 @@ APS does not treat these as isolated problems. Instead, it explores whether they
       </p>
 
       <ul class="card-list">
-        <li class="card">
-          <h3 class="card-title">
-            <a href="/articles/what-is-life-a-biological-question-revisited/">
-              What Is Life?
-            </a>
-          </h3>
-          <p class="card-excerpt">
-            Most definitions of life rely on lists of properties. APS approaches
-            life as viability-oriented, constraint-closed organisation sustained
-            through time.
-          </p>
-        </li>
-
+        
         <li class="card">
           <h3 class="card-title">
             <a href="/articles/how-do-we-know-something-is-alive/">
@@ -173,38 +172,15 @@ APS does not treat these as isolated problems. Instead, it explores whether they
     </section>
 
     <section class="home-section">
-      <h2>Agency and Purpose</h2>
+      <h2>Purpose, Design, and Direction</h2>
 
       <p class="section-intro">
-        These questions explain why living systems appear purposeful without
-        appealing to external design or conscious intention.
+        These questions examine why living systems appear directed, organised, or
+  designed without appealing to external design or conscious intention.
       </p>
 
       <ul class="card-list">
-        <li class="card">
-          <h3 class="card-title">
-            <a href="/articles/biological-agency-as-the-activity-of-self-maintenance/">
-              What Is Biological Agency?
-            </a>
-          </h3>
-          <p class="card-excerpt">
-            Biological agency names the self-maintaining, self-regulating activity
-            through which living systems remain viable.
-          </p>
-        </li>
-
-        <li class="card">
-          <h3 class="card-title">
-            <a href="/articles/why-do-organisms-have-goals/">
-              Why Do Organisms Have Goals?
-            </a>
-          </h3>
-          <p class="card-excerpt">
-            APS understands biological goals as viability-oriented directions of
-            activity rather than conscious plans.
-          </p>
-        </li>
-
+        
         <li class="card">
           <h3 class="card-title">
             <a href="/articles/design-in-nature-an-aps-clarification/">
@@ -216,19 +192,7 @@ APS does not treat these as isolated problems. Instead, it explores whether they
             organised persistence rather than an imposed blueprint.
           </p>
         </li>
-
-        <li class="card">
-          <h3 class="card-title">
-            <a href="/articles/what-is-the-meaning-of-life/">
-              What Is the Meaning of Life?
-            </a>
-          </h3>
-          <p class="card-excerpt">
-            APS distinguishes biological meaning from human meaning while showing
-            how both are rooted in significance, relation, and agency.
-          </p>
-        </li>
-      </ul>
+        </ul>
     </section>
 
     <section class="home-section">
@@ -278,6 +242,53 @@ APS does not treat these as isolated problems. Instead, it explores whether they
       </ul>
     </section>
 
+<section class="home-section">
+  <h2>Meaning, Cognition, and Mind</h2>
+
+  <p class="section-intro">
+    These questions examine how significance, cognition, mind, and awareness
+    become intelligible within living organisation.
+  </p>
+
+  <ul class="card-list">
+    <li class="card">
+      <h3 class="card-title">
+        <a href="/articles/meaning-in-biology-an-aps-clarification/">
+          Meaning in Biology
+        </a>
+      </h3>
+      <p class="card-excerpt">
+        APS explains meaning as stabilised evaluative significance within
+        viability-oriented organised persistence.
+      </p>
+    </li>
+
+    <li class="card">
+      <h3 class="card-title">
+        <a href="/articles/cognition-where-does-it-belong-in-biology/">
+          Cognition
+        </a>
+      </h3>
+      <p class="card-excerpt">
+        APS situates cognition within biological evaluation, adaptive regulation,
+        and continuity-preserving organisation.
+      </p>
+    </li>
+
+    <li class="card">
+      <h3 class="card-title">
+        <a href="/articles/how-did-matter-become-aware-of-itself/">
+          How Did Matter Become Aware of Itself?
+        </a>
+      </h3>
+      <p class="card-excerpt">
+        APS traces the Matter-to-Mind pathway from living organisation through
+        agency, significance, cognition, mind, selfhood, and reflective agency.
+      </p>
+    </li>
+  </ul>
+</section>
+
     <section class="home-section">
       <h2>Foundations of Biology</h2>
 
@@ -323,4 +334,9 @@ APS does not treat these as isolated problems. Instead, it explores whether they
       </div>
     </section>
   </div>
+  <style>
+  .blue-heading {
+    color: var(--color-accent, #2563eb);
+  }
+  </style>
 </BaseLayout>
