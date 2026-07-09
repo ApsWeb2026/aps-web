@@ -38,15 +38,10 @@ relatedGlossaryItems:
 
 relatedArticles:
   - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - how-aps-concepts-fit-together
   - from-metaphysics-to-mechanism-and-beyond
   - how-did-matter-become-aware-of-itself
-  - what-is-life-a-biological-question-revisited
-  - biological-agency-as-the-activity-of-self-maintenance
-  - why-do-organisms-have-goals
-  - cognition-where-does-it-belong-in-biology
-  - meaning
-  - what-is-mind
-  - what-is-biological-evaluation
 
 references:
   - id: barandiaran-moreno-2008-minimal-agency

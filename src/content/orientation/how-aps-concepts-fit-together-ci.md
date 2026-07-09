@@ -3,7 +3,7 @@ title: "How APS Concepts Fit Together"
 slug: "how-aps-concepts-fit-together"
 type: orientation
 date: 2026-05-10
-revised: 2026-06-15
+revised: 2026-07-09
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
@@ -33,6 +33,7 @@ relatedArticles:
   - aps-viability-oriented-framework
   - explanatory-geometry-of-biology
   - the-core-structure-of-aps-how-the-framework-fits-together
+  - naturalising-life
 ---
 
 ## Introduction
@@ -298,9 +299,11 @@ Understanding how APS concepts fit together ultimately means recognising that th
 
 A useful next step is:
 
-1. *How APS Explains Life* — a guide to the explanatory logic of the framework.
-2. *Understanding APS — The Structure of the Framework* — an overview of the major APS pathways and domains.
-3. *The Core Structure of APS* — a detailed examination of how the framework fits together architecturally.
+1. *Naturalising Life* — an exploration of how APS develops and stabilises biological concepts, and how concepts such as agency, purpose, cognition, and meaning become scientifically intelligible.
+2. *How APS Explains Life* — a guide to the explanatory logic of the framework and how APS interprets living systems through viability-oriented organised persistence.
+3. *How Did Matter Become Aware of Itself?* — an introduction to the broader Matter-to-Mind programme and the long-term questions emerging from APS.
+
+Readers seeking a deeper architectural overview may also explore *Understanding APS — The Structure of the Framework* and *The Core Structure of APS*, which examine how the framework is organised and how its major explanatory pathways relate to one another.
 
 Readers interested in particular concepts may then explore the persistence, developmental, cognitive, ecological, evolutionary, diagnostic, and social pathways that elaborate these ideas in greater depth.
 

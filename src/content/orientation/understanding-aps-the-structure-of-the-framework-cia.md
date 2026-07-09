@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
+revised: 2026-07-09
 cluster: conceptual-foundations
 
 abstract: >
@@ -53,11 +53,13 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - evolution
   - the-social-organisation-of-life
+  - how-aps-concepts-fit-together
+  - naturalising-life
 ---
 
-## Introduction
-
 > **Where this article fits:** *What Is APS?* introduces the central idea behind APS. *How APS Explains Life* explains the logic of APS explanation. This article serves a different purpose. It provides a guided overview of the framework itself and shows how its major domains fit together within a unified explanatory architecture.
+
+## Introduction
 
 APS contains many articles, concepts, pathways, and explanatory domains.
 
@@ -405,9 +407,11 @@ Together these pathways reveal how living systems actively preserve viability de
 
 A useful next step is:
 
-1. *The Core Structure of APS* — a detailed explanation of how the framework fits together.
-2. *APS Architecture Map* — a visual guide to the major domains of the framework.
-3. *The Explanatory Geometry of Biology* — an exploration of the deeper explanatory logic underlying APS.
+1. *How APS Concepts Fit Together* — an exploration of how concepts such as agency, process, scale, viability, and constraint closure relate to one another within a unified explanatory framework.
+2. *Naturalising Life* — an examination of how APS develops and stabilises biological concepts, and how scientific intelligibility emerges through naturalisation and conceptual closure.
+3. *How APS Explains Life* — a guide to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence.
+
+Readers seeking a more detailed architectural overview may also explore *The Core Structure of APS*, *APS Architecture Map*, and *The Explanatory Geometry of Biology*.
 
 From there, readers can follow whichever continuity pathways most closely match their interests.
 

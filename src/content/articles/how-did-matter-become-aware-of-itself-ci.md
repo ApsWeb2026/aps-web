@@ -3,7 +3,7 @@ title: How Did Matter Become Aware of Itself?
 slug: how-did-matter-become-aware-of-itself
 date: 2026-07-07
 type: article
-revised: 2026-07-08
+revised: 2026-07-09
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
@@ -47,6 +47,8 @@ relatedArticles:
   - what-is-mind
   - what-is-selfhood
   - what-is-reflective-agency
+  - naturalising-life
+  - what-is-aps
 references:
   - id: spencer-2026-agency-defining-activity-life
     authors: Spencer, R. D.
@@ -424,5 +426,7 @@ Viewed individually, these developments may appear modest. Viewed together, they
 Reflective agency represents the highest point reached by this pathway within APSI. Through it, living systems become more than adaptive participants in their environments. They become active participants in their own becoming.
 
 The result is not a final solution to every philosophical question about consciousness or subjectivity. It is, however, a biologically grounded account of the organisational developments that make awareness increasingly intelligible. In this sense, the APS pathway offers a new way of approaching one of humanity's oldest questions.
+
+Readers interested in the methodological foundations of this programme may wish to explore Naturalising Life, which explains how APS approaches difficult concepts through processes of naturalisation and conceptual stabilisation. The Matter-to-Mind pathway can be understood as an extension of that broader effort to render increasingly complex dimensions of life scientifically intelligible.
 
 Matter did not simply become aware of itself. Through life, agency, significance, cognition, selfhood, and reflection, organised matter gradually became capable of understanding and shaping itself. 
