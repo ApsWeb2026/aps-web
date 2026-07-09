@@ -7,7 +7,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
     <section class="hero">
       <p class="eyebrow">APS Framework</p>
 
-      <h1 class="blue-heading">Biology's Big Questions</h1>
+      <h1>Biology's Big Questions</h1>
 
       <p class="subtitle">
         Explore some of biology's deepest questions through the perspective developed within APS.
@@ -334,10 +334,14 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
       </div>
     </section>
   </div>
-  .blue-heading {
-  color: var(--color-link);
-}
-
-Refresh the
-  </style>
+ <style>
+  .eyebrow {
+    color: var(--color-link);
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+ </style>
 </BaseLayout>
