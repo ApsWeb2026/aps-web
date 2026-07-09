@@ -5,19 +5,38 @@ slug: the-core-structure-of-aps-how-the-framework-fits-together
 type: orientation
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-26
-revised: 2026-06-15
+canonicalLockDate: 2026-07-10
+revised: 2026-07-10
 cluster: conceptual-foundations
 
 abstract: >
-  This article presents the formal explanatory structure of the APS framework.
-  APS explains life as viability-oriented organised persistence sustained
-  across time. The framework integrates viability, constraint closure,
-  normativity, agency, process, scale, development, repair, resilience,
-  and temporality into a unified explanatory grammar through which living
-  systems become intelligible as dynamically organised continuities that
-  regulate persistence, adapt to perturbation, and sustain viability
-  through ongoing transformation across interacting scales and timescales.
+  APS is an explanatory framework centred on viability-oriented organised
+  persistence. This article presents the conceptual architecture through
+  which the framework explains life, agency, evaluation, significance,
+  cognition, mind, selfhood, and meaning as interconnected aspects of
+  living organisation. Beginning with the biological challenge of
+  maintaining viable continuity through continual transformation, APS
+  develops an explanatory grammar based on agency, process, and scale and
+  a dependency architecture linking life to increasingly sophisticated
+  forms of organisation. The framework shows how biological evaluation
+  generates significance, how significance becomes organised through
+  integration and cognition, and how mind, selfhood, reflective agency,
+  and meaning emerge within increasingly complex forms of organised
+  persistence. The result is a unified account of how living systems
+  remain possible despite continual change and how increasingly
+  sophisticated forms of significance and meaning arise within the
+  biological world.
+
+keyPoints:
+- APS is an explanatory architecture rather than a collection of independent concepts.
+- The framework begins with the biological challenge of maintaining viable continuity through continual transformation.
+- Viability-oriented organised persistence provides the central phenomenon APS seeks to explain.
+- Agency, process, and scale form the explanatory grammar of the framework.
+- APS concepts are organised through a dependency architecture linking life, agency, evaluation, significance, cognition, mind, selfhood, and meaning.
+- Biological evaluation generates significance, while integration organises significance into increasingly coherent forms.
+- Cognition, mind, selfhood, and reflective agency emerge through progressively more integrated forms of significance.
+- Meaning represents the culmination of the APS explanatory pathway while remaining rooted in biological organisation.
+- Development, ecology, evolution, diagnosis, and social organisation extend the same organisational logic across broader domains.
 
 relatedGlossaryTerms:
   - viability
@@ -64,61 +83,65 @@ relatedArticles:
 
 ## Introduction
 
-Every mature scientific framework eventually faces a distinctive challenge.
+Every mature scientific framework eventually reaches a point where individual concepts are no longer the primary source of explanatory interest. New ideas have been introduced, relationships among them have been clarified, and a growing body of work has accumulated around a common set of concerns. At this stage a deeper question begins to emerge:
 
-At first, attention is directed toward individual concepts. New ideas are introduced, explanatory problems are clarified, and theoretical relationships begin to emerge. As a framework develops, however, a deeper question gradually appears:
+Why do these concepts belong together?
 
-> Why do these concepts fit together in the way that they do?
+APS has now reached this point.
 
-APS has now reached this stage.
-
-The framework contains discussions of persistence, viability, continuity, development, adaptation, ecology, evolution, cognition, diagnosis, resilience, repair, normativity, agency, process, and scale. Each concept plays an important role, yet APS is not simply a collection of ideas or a catalogue of biological topics gathered under a common label.
+The framework contains discussions of life, viability, persistence, continuity, development, adaptation, ecology, evolution, cognition, mind, selfhood, meaning, diagnosis, resilience, repair, normativity, agency, process, and scale. Each concept plays an important role. Yet APS is not simply a collection of biological topics gathered under a common label, nor is it a catalogue of independent theoretical claims.
 
 It is an explanatory architecture.
 
 The purpose of this article is to explain that architecture.
 
-*What Is APS?* introduces the central intuition underlying the framework. *How APS Explains Life* describes the basic explanatory pathway. *Understanding APS* shows how the framework is organised into major domains. This article asks a different question:
+What Is APS? introduces the central intuition underlying the framework. How APS Explains Life describes the framework's basic explanatory orientation. Understanding APS surveys its major conceptual domains. This article addresses a different question:
 
-> Why does the framework possess the structure that it does?
+>Why does the framework possess the structure that it does?
 
 The answer begins with a simple biological observation.
 
 Living systems persist.
 
-Yet they do not persist by remaining unchanged. They develop, adapt, repair, reorganise, learn, age, reproduce, and interact with changing environments. Their continuity depends upon the continual regeneration of conditions compatible with continued viability.
+Yet they do not persist by remaining unchanged. They grow, develop, repair, adapt, learn, age, reproduce, and continually interact with changing environments. Their continuity depends not upon stability but upon the successful organisation of change itself.
 
 APS begins with this phenomenon.
 
-Everything else follows from it.
+Everything else in the framework emerges from the attempt to understand how such continuity remains possible.
 
-## The Architectural Problem
+## The Fundamental Problem of Life
 
-Biological explanation is often organised around particular domains. Development explains transformation. Ecology explains organism–environment relations. Evolution explains historical change. Cognition explains adaptive responsiveness. Diagnosis explains breakdown and recovery. Each domain appears to address a different aspect of life.
+Biological explanation is often organised around particular domains. Development explains transformation. Ecology explains organism–environment relations. Evolution explains historical change. Cognition explains adaptive responsiveness. Physiology explains functional regulation. Diagnosis explains disruption, recovery, and failure.
 
-APS agrees that these domains are genuinely distinct. However, it also asks why they belong together. What organisational principle links them? Why do concepts such as adaptation, repair, resilience, cognition, normativity, and development repeatedly reappear throughout biology despite their apparent diversity?
+Each domain appears to address a different aspect of life.
 
-APS proposes that these phenomena emerge because living systems face a common organisational challenge:
+APS agrees that these domains are genuinely distinct. However, it also asks why they repeatedly converge upon similar organisational themes. Why do concepts such as adaptation, repair, resilience, cognition, evaluation, and development recur throughout biology despite their apparent diversity? What underlying problem makes these different forms of organisation necessary?
 
-> the maintenance of viable continuity through time.
+APS proposes that these phenomena emerge because living systems face a common challenge:
+
+>the maintenance of viable continuity through time.
 
 This challenge provides the architectural centre of the framework.
 
-Development matters because continuity must survive transformation. Adaptation matters because continuity must remain possible under changing conditions. Repair matters because continuity must recover from disruption. Resilience matters because continuity must withstand perturbation. Ecology matters because continuity depends upon environmental relations. Evolution matters because continuity extends across generations. Cognition matters because living systems evaluate conditions affecting continuity.
+Development matters because continuity must survive transformation. Adaptation matters because continuity must remain possible under changing conditions. Repair matters because continuity must recover from disruption. Resilience matters because continuity must withstand perturbation. Ecology matters because continuity depends upon environmental relations. Evolution matters because continuity extends across generations. Cognition matters because living systems must respond differentially to conditions affecting continuity.
 
-Viewed separately, these domains can appear unrelated. Viewed through the lens of organised persistence, they reveal different aspects of the same explanatory problem. The architecture of APS emerges because the requirements of viability-oriented continuity generate recurring organisational challenges across biological systems.
+Viewed separately, these domains can appear unrelated. Viewed through the lens of organised persistence, they reveal different aspects of the same explanatory problem.
 
-APS is therefore best understood not as a collection of theories but as an integrated account of how viable continuity becomes possible.
+APS therefore begins not with a particular biological mechanism or level of organisation but with a question:
 
-[[box:what-biological-explanation-explains]]
+>How do living systems maintain viable continuity despite continual transformation?
 
-## Life as Organised Persistence
+The remainder of the framework unfolds from the attempt to answer that question.
 
-The central organising concept of APS is organised persistence.
+Viability and Organised Persistence
 
-This idea is easy to misunderstand because persistence is often associated with permanence, stability, or resistance to change. Living systems persist differently. An organism remains itself despite continual transformation. Development alters its structure, learning modifies its behaviour, repair reorganises damaged tissues, ecological interactions reshape opportunities and constraints, and evolution transforms populations across generations.
+The central organising concept of APS is viability-oriented organised persistence.
 
-Change is not an interruption of biological existence. It is its normal condition.
+This idea is easy to misunderstand because persistence is often associated with permanence, stability, or resistance to change. Living systems persist differently. An organism remains recognisably itself despite continual transformation. Development alters its structure, learning modifies its behaviour, repair reorganises damaged tissues, ecological interactions reshape opportunities and constraints, and evolution transforms populations across generations.
+
+Change is not an interruption of biological existence.
+
+It is its normal condition.
 
 The explanatory challenge therefore becomes understanding how continuity remains possible despite continual transformation.
 
@@ -126,381 +149,914 @@ APS addresses this challenge through the concept of organised persistence. Organ
 
 This distinction changes how living systems are understood. Organisms are not best described as objects that happen to undergo change. They are continuity-preserving organisations whose persistence depends upon the successful organisation of change itself.
 
-Once continuity becomes the central explanatory phenomenon, many biological domains reveal a common organisational logic. Development, ecology, evolution, cognition, diagnosis, and social organisation can all be understood as continuity architectures—different organisational pathways through which viable persistence is maintained under changing conditions.
+Yet persistence alone is not enough.
 
-The architecture of APS therefore begins with persistence because persistence is the phenomenon these domains collectively help explain.
+Many non-living systems persist. What distinguishes living persistence is that continuity must remain compatible with continued existence. Resources must be obtained, damage must be repaired, development must remain coordinated, environmental relations must remain sufficiently supportive, and activity must remain responsive to changing conditions.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/temporal-organisation-visual.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/temporal-organisation-visual.png"
-      alt="Temporal organisation and organised persistence within APS"
-      loading="lazy"
-    />
-  </a>
+This requirement introduces viability.
 
-  <p class="aps-diagram-caption">
-    <strong>Temporal Organisation and Organised Persistence.</strong>
-    APS begins from the observation that living systems maintain viable continuity through continual transformation. Development, repair, adaptation, resilience, and ecological interaction become intelligible as continuity-preserving organisational processes.
-  </p>
-</div>
+Viability identifies the conditions under which persistence succeeds or fails. Living systems do not merely continue through time. They continue under organisational constraints that determine whether continuity remains possible. Some conditions support persistence. Others undermine it. Some transformations contribute to continued existence. Others threaten it.
 
-[[box:multiple-realization-and-organised-persistence]]
+Persistence therefore acquires biological significance because continuity is not guaranteed.
 
-## Viability as the Organising Principle
+Living systems exist under circumstances where persistence can succeed or fail.
 
-Persistence alone is not enough.
+This is why biological organisation exhibits normativity, regulation, adaptation, repair, resilience, and evaluation. Viability provides the organisational context within which such distinctions become possible.
 
-Many non-living systems persist. What distinguishes living persistence is that continuity must remain compatible with continued existence. This requirement introduces viability.
+Together, viability and organised persistence define the phenomenon APS seeks to explain:
 
-Viability identifies the conditions under which persistence succeeds or fails. Living systems do not merely continue through time. They continue under organisational constraints that determine whether continuity remains possible. Resources must be obtained, damage must be repaired, development must remain coordinated, ecological relations must remain sufficiently supportive, and behaviour must remain responsive to changing conditions.
+life as viability-oriented organised persistence sustained through continual transformation.
 
-Persistence therefore acquires biological significance because some organisational states contribute to continuity while others undermine it. Some transformations support viability while others threaten it.
+Everything that follows in the framework emerges from this foundation.
 
-This is why biological organisation exhibits normativity, adaptation, regulation, repair, resilience, and evaluation. Living systems exist under conditions where persistence can succeed or fail. Viability provides the organisational context that makes these distinctions meaningful.
+## Constraint Closure and Organisational Continuity
 
-The architecture of APS therefore places viability alongside persistence at its explanatory centre. Together they define the phenomenon the framework seeks to understand:
+If viability-oriented organised persistence is the phenomenon APS seeks to explain, a further question immediately arises:
 
-> viability-oriented organised persistence sustained across time.
-
-Everything else in the architecture emerges from this foundation.
-
-## Constraint Closure and Continuity
-
-If viability-oriented organised persistence is the phenomenon to be explained, a further question immediately arises:
-
-> How is continuity maintained despite continual transformation?
+>How is continuity maintained despite continual transformation?
 
 APS addresses this question through the concept of constraint closure.
 
-Living systems are organised through networks of constraints that regulate biological activity. These constraints channel processes, stabilise organisation, and contribute to continuity across time. Yet the constraints themselves are not fixed. They are continually regenerated through the activities of the system.
+Living systems are organised through networks of constraints that regulate biological activity. These constraints channel processes, stabilise organisation, and contribute to continuity across time. Yet the constraints themselves are not fixed. They are continually regenerated through the activities of the system. The organisation that sustains continuity is simultaneously sustained by continuity-preserving activity.
 
-The organisation that sustains continuity is simultaneously sustained by continuity-preserving activity.
+Constraint closure therefore helps explain how organised persistence remains possible despite continual material turnover and organisational change. It provides an account of the reciprocal organisation through which living systems maintain themselves through time.
 
-Constraint closure therefore helps explain how organised persistence remains possible despite continual material turnover and organisational change. It provides an account of the reciprocal organisation through which living systems maintain themselves across time.
+Constraint closure is an important component of the APS framework, but it is not its ultimate explanatory centre. APS does not define life as constraint closure, nor does it derive the entire architecture from closure alone. Rather, closure matters because it contributes to the maintenance of viable continuity.
 
-APS does not, however, treat closure as the ultimate explanatory principle. The explanatory priority runs in the opposite direction. Constraint closure matters because it contributes to viability-oriented organised persistence.
+The explanatory priority runs in the opposite direction:
 
-The architectural sequence is therefore:
-
-**viability**
+Life
 ↓
-**organised persistence**
+Viability-Oriented Organised Persistence
 ↓
-**constraint closure**
+Constraint Closure
 
-rather than:
+Constraint closure is therefore best understood as one important organisational solution to the broader challenge of maintaining viable continuity through time.
 
-**constraint closure**
-↓
-**life**
+This ordering helps clarify why development, adaptation, repair, resilience, cognition, ecology, evolution, and social organisation all belong within the same framework. Closure helps explain continuity maintenance, but the architecture itself emerges from the organisational requirements of persistence.
 
-This ordering is important because it clarifies why closure, development, adaptation, resilience, cognition, ecology, and social organisation all belong within the same framework. Each addresses a different aspect of the broader challenge of maintaining viable continuity through time.
+At this point a deeper question becomes unavoidable:
 
-[[box:perturbation-reveals-organisation]]
+What kind of organisation actively maintains continuity relative to viability?
 
-At this point the deeper architecture of APS begins to emerge.
+The answer leads directly to the explanatory grammar at the heart of APS.
 
-Persistence identifies the phenomenon to be explained. Viability specifies the conditions under which persistence succeeds or fails. Constraint closure helps explain one way continuity can be maintained. The next question therefore becomes unavoidable:
-
-> What kind of organisation actively maintains continuity relative to viability?
-
-The answer leads directly to agency, process, and scale—the explanatory grammar at the heart of the APS framework.
-
-## Agency, Process, and Scale
+## The APS Explanatory Grammar
 
 The concepts introduced so far explain why continuity matters. They do not yet explain how continuity becomes intelligible.
 
-A framework organised around viability-oriented organised persistence requires an explanatory grammar capable of revealing how living systems maintain continuity across changing conditions and timescales. APS develops this grammar through three interconnected dimensions:
+A framework organised around viability-oriented organised persistence requires an explanatory grammar capable of revealing how living systems maintain continuity across changing conditions, interacting domains, and multiple timescales.
 
-- agency;
-- process;
-- scale.
+APS develops this grammar through three complementary perspectives:
 
-These are among the most frequently discussed concepts within the framework, yet they are also among the most commonly misunderstood.
+- Agency
+- Process
+- Scale
 
-Agency, process, and scale are not three separate theories. They are not independent explanatory layers, nor are they additional properties attached to living systems. They are three perspectives on the same underlying phenomenon:
+These are among the most frequently discussed concepts within the framework, yet they are also among the most frequently misunderstood.
 
-> viability-oriented organised persistence.
+Agency, Process, and Scale are not three separate theories. They are not independent explanatory layers, nor are they additional properties attached to living systems. They are three analytical perspectives on the same underlying phenomenon:
 
-Agency reveals the active character of continuity. Process reveals its temporal character. Scale reveals its distributed character. Together they provide the explanatory grammar through which biological organisation becomes intelligible.
+viability-oriented organised persistence.
 
-Without this grammar, persistence remains a descriptive observation. With it, persistence becomes an explanatory architecture.
+- Agency reveals the active character of continuity.
+
+- Process reveals its temporal character.
+
+- Scale reveals its distributed character.
+
+Together they provide the explanatory grammar through which biological organisation becomes intelligible.
+
+Without this grammar, persistence remains a biological observation.
+
+With it, persistence becomes an explanatory architecture.
 
 ## Agency — The Regulation of Continuity
 
 If living systems must remain viable through time, continuity cannot be passive.
 
-Organisms do not simply endure. They actively contribute to the maintenance of the conditions required for their own persistence. Cells regulate metabolism, organisms acquire resources, physiological systems maintain internal organisation, behaviour adapts to changing circumstances, repair systems respond to damage, and development reorganises continuity across changing life stages. In every case, activity is organised relative to viability.
+Organisms do not simply endure. They actively contribute to the maintenance of the conditions required for their own persistence. Cells regulate metabolism, organisms acquire resources, physiological systems maintain internal organisation, behaviour adapts to changing circumstances, repair systems respond to damage, and development reorganises continuity across changing life stages.
 
-APS refers to this organisational relationship as agency.
+In every case, activity is organised relative to viability.
 
-Agency is not equivalent to intelligence, nor does it require consciousness, planning, or reflective thought. Agency concerns the active regulation of continuity relative to conditions affecting persistence. It identifies the ways living systems participate in maintaining the organisational conditions required for continued viability.
+APS refers to this organisational relationship as biological agency.
 
-This is why agency occupies such a central place within the architecture. Living systems exist under circumstances where persistence can succeed or fail. The regulation of continuity therefore becomes biologically necessary.
+Agency is not equivalent to intelligence, consciousness, planning, or reflective thought. Agency concerns the capacity of living systems to initiate, regulate, and coordinate activity relative to conditions affecting persistence.
+
+This is why agency occupies such a central place within the architecture. Living systems exist under circumstances where continuity can succeed or fail. The active regulation of continuity therefore becomes biologically necessary.
 
 Agency emerges because viability matters.
 
-APS treats agency as fundamental to biological organisation while rejecting anthropomorphic interpretations. Agency is not an additional property layered onto life. It is one of the organisational forms through which viability-oriented persistence becomes possible.
+APS treats agency as a fundamental feature of living organisation while rejecting anthropomorphic interpretations. Agency is not an additional property layered onto life. It is one of the primary ways viability-oriented persistence becomes possible.
+
+Agency therefore reveals the active dimension of continuity.
 
 ## Process — The Enactment of Continuity
 
 Agency alone is insufficient.
 
-Regulation must occur through time. Living systems persist because continuity is continually enacted through ongoing activity.
+Regulation must occur through time.
+
+Living systems persist because continuity is continually enacted through ongoing activity.
 
 Development unfolds. Metabolism operates. Repair regenerates organisation. Adaptation reorganises activity. Ecological interactions reshape possibilities. Learning modifies responsiveness. Reproduction extends continuity across generations.
 
 The persistence of life therefore depends upon process.
 
-APS consequently rejects the image of organisms as static structures that happen to contain processes. Living systems are better understood as continuity-preserving processes whose temporary structural stability emerges through ongoing activity. Stability is not the absence of change but the successful organisation of change.
+APS consequently rejects the image of organisms as static structures that merely contain processes. Living systems are better understood as continuity-preserving processes whose temporary structural stability emerges through ongoing activity.
 
-This perspective has important philosophical consequences. Persistence does not occur despite transformation. Persistence occurs through transformation.
+Stability is not the absence of change.
 
-Development, adaptation, repair, and resilience all illustrate this principle. Living systems maintain continuity because they continually reorganise themselves in ways compatible with viability. Process therefore reveals the temporal organisation through which persistence becomes possible.
+It is the successful organisation of change.
 
-Agency regulates continuity.
+This perspective carries important explanatory consequences. Persistence does not occur despite transformation.
 
-Process enacts continuity.
+Persistence occurs through transformation.
 
-The explanatory architecture becomes increasingly coherent.
+Development, adaptation, repair, resilience, and learning all illustrate this principle. Living systems maintain continuity because they continually reorganise themselves in ways compatible with viability.
+
+Process therefore reveals the temporal organisation through which continuity becomes possible.
+
+- Agency regulates continuity.
+
+- Process enacts continuity.
+
+The architecture becomes increasingly coherent.
 
 ## Scale — The Distribution of Continuity
 
 Once continuity is recognised as both active and processual, a further question emerges:
 
-> Where does continuity occur?
+>Where does continuity occur?
 
-The answer cannot be confined to any single organisational level.
+The answer cannot be confined to a single organisational domain.
 
-Living systems operate simultaneously across multiple domains. Molecular interactions contribute to physiological continuity. Physiology contributes to organismal continuity. Organisms participate in ecological systems. Ecological systems influence development. Development shapes evolutionary possibilities. Social organisation distributes continuity across populations, institutions, and historical systems.
+Living systems operate across multiple interacting scales of organisation. Molecular activity contributes to physiological continuity. Physiological organisation contributes to organismal continuity. Organisms participate in ecological systems. Ecological conditions influence development. Development shapes evolutionary possibilities. Social organisation extends continuity across populations, institutions, and historical systems.
 
-Persistence therefore exists across multiple interacting scales and timescales.
+APS captures this insight through the concept of scale.
 
-APS captures this insight through the concept of scale. Scale does not simply refer to size. It refers to the distribution of continuity across interacting organisational domains. Biological persistence is coordinated across multiple levels simultaneously, with processes operating at one scale influencing possibilities at others.
+Scale does not simply refer to size or level. It refers to the spatial, temporal, organisational, and functional perspectives through which continuity is expressed and coordinated. Biological persistence is distributed across multiple domains simultaneously, with processes occurring at one scale influencing possibilities at others.
 
-This perspective helps explain why APS rejects rigid hierarchical accounts of biological organisation. Continuity is not confined within isolated levels. It emerges through interactions linking physiological, developmental, behavioural, ecological, evolutionary, and social processes.
+For this reason APS avoids treating biological organisation as a rigid hierarchy of levels. Continuity is not confined within isolated layers of reality. It emerges through interactions linking physiological, developmental, behavioural, ecological, evolutionary, and social processes.
 
 Scale therefore reveals the distributed organisation of persistence.
 
-Agency regulates continuity.
+- Agency reveals continuity as active.
 
-Process enacts continuity.
+- Process reveals continuity as enacted.
 
-Scale coordinates continuity across interacting domains.
+- Scale reveals continuity as distributed.
 
-The explanatory grammar is now complete.
+Together they make viable continuity intelligible.
 
-[[box:scale-is-not-hierarchy]]
+## Why These Concepts Belong Together
 
-## The Organisational Grammar of APS
+At this stage the architecture of APS begins to come fully into view.
 
-At this stage the architecture of the framework becomes visible.
+Viability identifies the conditions required for persistence. Organised persistence identifies the phenomenon to be explained. Constraint closure helps explain how continuity can be maintained. Agency, Process, and Scale provide the explanatory grammar through which continuity becomes intelligible.
 
-Viability identifies the conditions required for persistence. Organised persistence identifies the phenomenon to be explained. Constraint closure helps explain how continuity can be maintained. Agency, process, and scale provide the explanatory grammar through which continuity becomes intelligible.
+The relationships among these concepts are not arbitrary.
 
-The relationships among these concepts are not arbitrary. Each emerges from the organisational requirements of viability-oriented continuity.
+Each emerges from the organisational requirements of viable continuity.
 
-If continuity must remain viable, normativity becomes unavoidable because some conditions support persistence while others threaten it. If viability matters, activity must become organised relative to viability. If activity contributes to continuity, agency emerges. If continuity is maintained through ongoing transformation, process becomes fundamental. If continuity operates across interacting domains and timescales, scale becomes indispensable.
+If continuity must remain viable, some conditions will support persistence while others threaten it. If viability matters, activity must become organised relative to viability. If activity contributes to continuity, agency emerges. If continuity is maintained through ongoing transformation, process becomes indispensable. If continuity operates across interacting domains and timescales, scale becomes unavoidable.
 
 The architecture therefore unfolds as an integrated sequence rather than a collection of independent concepts.
 
-This is one of the most important lessons of the APS framework. The core concepts belong together because they address different dimensions of the same explanatory challenge. APS does not begin with agency and then add process. It does not begin with process and then add scale. The three dimensions emerge together because viable continuity requires active regulation, temporal organisation, and distributed coordination simultaneously.
+This is one of the most important lessons of APS.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/explanatory-structure.png"
-      alt="APS explanatory structure integrating agency, process, and scale within organised persistence"
-      loading="lazy"
-    />
-  </a>
+The core concepts belong together because they address different dimensions of the same explanatory challenge. APS does not begin with agency and then add process. It does not begin with process and then add scale. The three perspectives emerge together because viable continuity requires active regulation, temporal organisation, and distributed coordination simultaneously.
 
-  <p class="aps-diagram-caption">
-    <strong>APS Explanatory Structure.</strong>
-    Agency regulates continuity relative to viability, process enacts continuity through time, and scale coordinates continuity across interacting organisational domains. Together they form the explanatory grammar of organised persistence.
-  </p>
-</div>
+The explanatory grammar can therefore be summarised as follows:
 
-[[box:the-organisational-grammar-of-aps]]
+## APS Explanatory Grammar
+Agency
+↓
+Regulation
 
-[[box:analysis-vs-synthesis-two-directions-of-explanation]]
+Process
+↓
+Enactment
 
-## From Viability to Cognition
+Scale
+↓
+Distribution
 
-The architecture developed so far explains how continuity is maintained. Yet living systems do more than regulate persistence. They respond differentially to conditions affecting persistence.
+Agency reveals how continuity is regulated.
 
-Some environmental differences matter. Others do not. Some conditions support viability. Others threaten it.
+Process reveals how continuity is enacted.
 
-This asymmetry introduces one of the most important transitions within the APS framework.
+Scale reveals how continuity is distributed.
 
-Continuity becomes evaluative.
+Together they provide the explanatory grammar through which viability-oriented organised persistence becomes intelligible.
 
-Living systems begin to distinguish among conditions relative to viability. This capacity constitutes evaluation. Evaluation marks the point at which organisational activity becomes sensitive to differences that matter for persistence.
+Yet the framework is still incomplete.
 
-From evaluation, increasingly sophisticated forms of organisation emerge. Differences become biologically significant. Semiosis emerges. Meaning emerges. Informational organisation becomes possible. Representational capacities develop. Cognitive systems arise. Intelligence and consciousness appear within increasingly integrated forms of cognition.
+Agency, Process, and Scale explain how APS analyses living organisation. They do not yet explain how the major concepts of the framework depend upon one another.
 
-The remarkable feature of this sequence is that it does not require a separate explanatory architecture. The cognitive pathway emerges from the same organisational foundations already established.
+The next step is therefore to move from the explanatory grammar of APS to its dependency architecture:
 
-Viability generates normativity. Normativity enables evaluation. Evaluation enables semiosis. Semiosis enables meaning. Meaning enables increasingly sophisticated forms of cognition.
+>How does the framework progress from life to meaning?
 
-The architecture therefore expands organically from its own foundations. What initially appears to be a framework about persistence gradually reveals itself as a framework capable of explaining cognition as well.
+# The APS Dependency Architecture
 
-[[box:cognition-pathway]]
+The concepts introduced so far explain the phenomenon APS seeks to understand and the explanatory grammar through which that phenomenon becomes intelligible.
 
-The next step is to understand how this architecture extends outward into the broader domains of development, ecology, evolution, diagnosis, and social organisation that together constitute the mature APS framework.
+Yet the framework contains many concepts that extend beyond viability, persistence, agency, process, and scale. APS also includes biological evaluation, significance, cognition, mind, selfhood, reflective agency, and meaning. These concepts are not independent additions to the framework, nor do they represent separate explanatory domains layered onto an otherwise complete account of life.
 
-## The Extension of the Architecture
+They emerge through a coherent sequence of organisational dependencies.
 
-At this point the core structure of APS is in place.
+APS therefore possesses not only an explanatory grammar but also a dependency architecture.
 
-Viability identifies the conditions required for persistence. Organised persistence identifies the phenomenon to be explained. Constraint closure helps explain how continuity is maintained. Agency, process, and scale provide the explanatory grammar through which continuity becomes intelligible. Evaluation, semiosis, meaning, information, representation, and cognition emerge through increasingly integrated forms of continuity-preserving organisation.
+This architecture can be summarised as follows:
 
-The framework could stop here.
+## The APS Dependency Architecture
+Life
+→ Agency
+→ Biological Evaluation
+→ Significance
+→ Integration
+→ Cognition
+→ Mind
+→ Selfhood
+→ Reflective Agency
+→ Meaning
 
-Yet the biological world immediately pushes beyond these foundations. Living systems do not exist only as physiological continuities. They develop. They interact with environments. They evolve. They form social systems. They experience disruption, breakdown, recovery, and repair.
+Each concept depends upon organisational conditions established by those that precede it. The sequence does not describe a rigid developmental pathway, nor does it imply that later concepts are somehow separate from earlier ones. Rather, it identifies increasingly sophisticated forms of organisation that emerge from the challenge of maintaining viable continuity through time.
 
-The architecture must therefore expand.
+The architecture begins with life itself.
 
-The crucial insight of APS is that this expansion does not require entirely new explanatory principles. Instead, the same organisational logic reappears in different forms across different domains. The mature framework emerges through the progressive extension of viability-oriented organised persistence into increasingly broad continuity architectures.
+Life establishes the phenomenon requiring explanation. Agency reveals the active regulation of continuity. Biological evaluation emerges because conditions differ in their consequences for viability. Significance emerges because some differences matter. Integration organises significance into coordinated patterns. Cognition organises significance across time. Mind establishes coherent self–world organisation. Selfhood stabilises this organisation through change. Reflective agency makes it capable of evaluating and directing itself. Meaning emerges as organised significance becomes interpreted, sustained, and lived within increasingly integrated forms of organisation.
 
-## Development, Ecology, and Evolution
+The framework therefore progresses from life to meaning without abandoning its biological foundations.
 
-The first major extension occurs through development.
+The remainder of this section explains each transition in turn.
 
-Development is often treated as one biological domain among many. APS approaches it differently because development is one of the primary ways continuity becomes possible. Living systems persist through growth, maturation, repair, adaptation, learning, ageing, and ecological responsiveness. Continuity therefore exists through developmental transformation.
+# From Agency to Meaning
+## Biological Evaluation
 
-The developmental pathway reveals an important principle: persistence is not the preservation of a fixed state but the successful organisation of change. Organisms remain viable not by resisting transformation but by regulating it.
+Agency regulates continuity relative to viability.
 
-This insight naturally extends outward into ecology.
+Yet viability introduces an unavoidable asymmetry into biological organisation.
 
-Organisms do not persist independently of their environments. Resources, ecological relationships, environmental conditions, and organism–environment coupling all contribute to viability. Continuity therefore extends beyond organismal boundaries and becomes distributed across broader ecological systems.
+Some conditions contribute to persistence. Others undermine it. Some opportunities support continuity. Others threaten it. Some environmental changes require response. Others are largely irrelevant.
 
-The framework then extends further through evolution. Individual organisms persist temporarily, yet organised continuity extends across generations. Evolution explains how continuity transforms historically through reproduction, inheritance, variation, and selection.
+Living systems therefore do not encounter all conditions equally.
 
-APS therefore treats development, ecology, and evolution as interconnected continuity architectures operating across different timescales. Development explains continuity through transformation. Ecology explains continuity through environmental relations. Evolution explains continuity across generations.
+They distinguish among them.
 
-Together they address a common explanatory question:
+APS refers to this organisational capacity as biological evaluation.
 
-> How does viable continuity remain possible through time?
+Biological evaluation is the process through which living systems distinguish conditions according to their significance for viability, functioning, and organised persistence. Evaluation does not require conscious judgement, symbolic reasoning, or reflective thought. It emerges whenever organisational activity becomes differentially responsive to conditions affecting continuity.
 
-## Diagnosis, Repair, and Resilience
+Evaluation therefore marks a crucial transition within the architecture.
 
-The architecture extends in another direction through perturbation.
+Living systems no longer merely regulate continuity.
 
-Living systems exist within environments characterised by uncertainty, instability, disruption, and change. Continuity therefore cannot be understood solely through successful persistence. It must also be understood through challenge, recovery, and failure.
+They regulate continuity relative to distinctions that matter.
 
-This is why diagnosis occupies such an important place within APS.
+Agency enables evaluation.
 
-Diagnosis is not merely the identification of defects. It is the analysis of continuity under conditions of disruption. When continuity is challenged, the organisational structures responsible for persistence become unusually visible.
+Evaluation becomes possible because viability matters.
 
-Repair reveals continuity-preserving organisation. Resilience reveals continuity-recovering organisation. Compensation reveals continuity-maintaining organisation. Failure reveals continuity-dependent organisation.
+## Significance
 
-Perturbation therefore possesses distinctive explanatory significance. Many aspects of biological organisation remain partially hidden during ordinary functioning. Under challenge, however, the capacities responsible for maintaining viability become easier to observe and explain.
+Evaluation alone is not sufficient.
 
-This leads to one of the central methodological principles of APS:
+The distinction of conditions according to viability immediately introduces another phenomenon.
 
-> Perturbation reveals organisation.
+Some conditions now matter.
 
-Diagnosis, repair, resilience, regeneration, malfunction, and recovery are therefore not peripheral topics. They provide some of the clearest windows into the organisational architecture that successful persistence often conceals.
+APS refers to this organisational consequence as significance.
 
-The diagnostic pathway consequently becomes one of the most powerful routes through which biological organisation can be understood.
+Significance explains how differences become relevant to a living system. A condition is significant when it bears upon viability-oriented organised persistence. Significance is therefore not imposed from outside the system, nor is it a purely subjective interpretation. It emerges through the relationship between living organisation and the conditions affecting its continued existence.
 
-[[box:failure-reveals-organisation]]
+Significance answers a question that evaluation alone cannot answer:
 
-## Social Organisation and Distributed Continuity
+>What exactly is it that living systems distinguish?
 
-The final major extension of the framework occurs through social organisation.
+They distinguish conditions that matter.
 
-For much of biological history, continuity has been considered primarily at physiological, developmental, ecological, or evolutionary scales. APS argues that continuity can become distributed across interacting organisms as well.
+Significance therefore emerges from evaluation.
 
-Communication, cooperation, social learning, symbolic coordination, institutions, culture, and technology all contribute to the maintenance of continuity at broader scales. Social systems therefore become continuity architectures in their own right.
+Evaluation generates significance.
 
-The significance of social organisation does not arise because it departs from the rest of biology. Rather, it arises because it extends the same organisational logic into new domains.
+This transition represents one of the most important developments within the APS architecture because it establishes the foundation from which cognition, mind, selfhood, and meaning eventually emerge.
 
-Viability remains central. Continuity remains central. Organisation remains central. What changes is the scale across which continuity is distributed.
+## Integration
 
-Persistence becomes increasingly collective. Knowledge becomes increasingly cumulative. Norms become increasingly stabilised. Institutions become continuity-preserving structures. Culture becomes an organised system of continuity transmission.
+Significance explains what matters.
 
-The social domain therefore represents not a departure from the APS architecture but one of its largest-scale expressions. The same explanatory grammar continues to operate. Agency regulates continuity. Process enacts continuity. Scale distributes continuity across increasingly extensive organisational systems.
+Yet significance does not exist as isolated fragments.
 
-The architecture remains recognisably the same even as its scope expands dramatically.
+Living systems must coordinate multiple sources of significance simultaneously. Information from different domains must be brought into functional relation. Activities must be organised relative to one another. Short-term and long-term concerns must remain sufficiently coherent to support continued viability.
 
-## Why the Framework Has This Shape
+APS refers to this organisational requirement as integration.
 
-The central question of this article can now be answered.
+Integration explains how significance becomes organised into functional unity.
 
-Why does APS possess the structure that it does?
+Without integration, significance remains fragmented. With integration, multiple forms of significance become coordinated within a coherent organisational system.
 
-The answer is neither historical accident nor conceptual preference. The framework has this shape because the organisational requirements of viable continuity generate recurring explanatory challenges that living systems must continually address.
+Integration therefore performs a crucial architectural role.
 
-Persistence requires viability. Viability generates normativity. Normativity enables evaluation. Evaluation supports agency. Agency operates through process. Process unfolds across scale. Development preserves continuity through transformation. Ecology preserves continuity through environmental relations. Evolution preserves continuity across generations. Diagnosis reveals continuity under disruption. Social organisation distributes continuity across interacting populations.
+Biological evaluation generates significance.
 
-Each domain emerges because living systems must solve particular continuity-related challenges.
+Integration organises significance.
 
-The architecture therefore unfolds from the organisational requirements of persistence itself.
+The transition from significance to cognition becomes possible because significance no longer exists merely as isolated distinctions. It becomes organised within increasingly coherent patterns of activity.
 
-This is why APS increasingly appears less like a collection of theories and more like a unified explanatory system. The various domains belong together because they arise from a shared organisational problem. The framework possesses coherence because life itself possesses coherence.
+## Cognition
 
-## Biological Explanation in APS
+Once significance becomes integrated, it can become organised across time.
 
-The implications for biological explanation are substantial.
+APS understands cognition as the organisation of biological significance across time.
 
-APS does not reject mechanistic explanation. It does not reject developmental, ecological, evolutionary, cognitive, or informational explanation. Instead, it situates these forms of explanation within a broader account of organised persistence.
+This formulation differs from approaches that restrict cognition to brains, nervous systems, symbolic reasoning, or conscious thought. APS begins from the more fundamental organisational problem confronting living systems:
 
-Mechanisms matter because they contribute to continuity. Development matters because continuity must survive transformation. Ecology matters because continuity depends upon environmental relations. Evolution matters because continuity extends across generations. Information matters because some differences affect persistence. Diagnosis matters because continuity can destabilise, recover, repair, or fail.
+How can significance remain available to guide continuity under changing conditions?
 
-The explanatory focus therefore shifts.
+Cognition addresses this problem by allowing significance to persist, accumulate, and influence future activity. Memory, anticipation, learning, adaptive responsiveness, and context-sensitive regulation all emerge through increasingly sophisticated forms of cognitive organisation.
 
-Rather than asking only how particular mechanisms operate, APS asks how organisational systems preserve viability through time. Biology becomes intelligible through the study of continuity-preserving organisation.
+Cognition therefore extends significance beyond the immediate present.
 
-The framework consequently provides a common explanatory language capable of integrating phenomena that are often treated separately. This integrative capacity is one of the principal ambitions of APS.
+Biological evaluation generates significance.
+
+Integration organises significance.
+
+Cognition organises significance across time.
+
+The architecture now begins to approach questions traditionally associated with mind.
+
+## Mind
+
+Cognition allows significance to remain organised through time.
+
+Mind introduces a further organisational achievement.
+
+APS understands mind as the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world.
+
+Mind therefore does not replace cognition.
+
+It builds upon it.
+
+Cognition explains the temporal organisation of significance. Mind explains the coherent organisation of significance within an ongoing self–world relationship.
+
+This distinction is important.
+
+Many forms of cognition may remain relatively local, task-specific, or distributed. Mind refers to the emergence of a more coherent organisational perspective through which significance becomes integrated into an enduring pattern of engagement with the world.
+
+Mind therefore establishes coherent self–world organisation.
+
+## Selfhood
+
+Coherent self–world organisation introduces a further challenge.
+
+How is such organisation maintained through continual transformation?
+
+Living systems develop, learn, adapt, age, and reorganise themselves. Yet many retain a recognisable continuity despite these changes.
+
+APS addresses this phenomenon through the concept of selfhood.
+
+Selfhood refers to the persistence of coherent self–world organisation through time. If mind explains coherence, selfhood explains continuity.
+
+The distinction mirrors a recurring theme throughout APS.
+
+Continuity does not require stasis.
+
+Persistence occurs through transformation.
+
+Selfhood therefore represents the stabilisation of coherent self–world organisation across changing circumstances and timescales.
+
+Mind establishes coherence.
+
+Selfhood sustains coherence through change.
+
+## Reflective Agency
+
+Selfhood creates the conditions for another important transition.
+
+Agency can become directed toward itself.
+
+APS refers to this capacity as reflective agency.
+
+Reflective agency emerges when agents become capable of evaluating, interpreting, and reorganising aspects of their own activity. The significance structures guiding behaviour become available for examination, modification, and deliberate redirection.
+
+Reflective agency therefore introduces a new form of organisational flexibility.
+
+Agency no longer operates solely in relation to external conditions. It can also become concerned with its own organisation, commitments, goals, values, and patterns of activity.
+
+The architecture thus becomes increasingly recursive.
+
+Agency regulates continuity.
+
+Reflective agency regulates the regulation of continuity.
+
+This transition prepares the way for meaning in its fullest sense.
+
+## Meaning
+
+Meaning represents the culmination of the APS dependency architecture.
+
+Throughout the preceding sections, significance has been progressively organised, integrated, stabilised, and transformed. What began as distinctions relevant to viability has become increasingly coherent, temporally organised, self-related, and reflective.
+
+Meaning emerges from this process.
+
+APS understands meaning as organised significance.
+
+This formulation preserves continuity with the earlier stages of the architecture while recognising the distinctive organisational achievements of later stages. Meaning does not appear suddenly at the reflective level, nor is it entirely absent from simpler forms of life. Its roots are already present wherever significance affects organised persistence.
+
+Yet meaning becomes increasingly sophisticated as significance becomes integrated through cognition, mind, selfhood, and reflective agency.
+
+Meaning therefore occupies a distinctive position within APS.
+
+It is both rooted in biological organisation and capable of becoming reflective, interpretive, symbolic, ethical, cultural, and existential.
+
+The architecture reaches its culmination here because meaning represents the most highly organised form of significance within the framework.
+
+## From Agency to Meaning
+Agency
+↓
+Biological Evaluation
+↓
+Significance
+↓
+Integration
+↓
+Cognition
+↓
+Mind
+↓
+Selfhood
+↓
+Reflective Agency
+↓
+Meaning
+
+The remarkable feature of this sequence is that it does not require a separate explanatory system. The pathway from agency to meaning emerges from the same organisational foundations already established through viability-oriented organised persistence.
+
+APS therefore does not explain meaning by departing from biology.
+
+It explains meaning by showing how increasingly sophisticated forms of organisation emerge within the biological world itself.
+
+# The Architecture of Meaning
+
+The APS dependency architecture culminates in meaning.
+
+Yet meaning remains one of the most easily misunderstood concepts within the framework.
+
+Many discussions of meaning begin with human concerns such as language, symbolism, purpose, value, identity, culture, or existential reflection. These are undoubtedly important forms of meaning, but APS argues that they do not represent the beginning of the story. They represent highly developed expressions of organisational processes whose roots extend much deeper into biological life.
+
+APS therefore approaches meaning from the opposite direction.
+
+Rather than beginning with symbolic thought and asking how meaning enters biology, it begins with living organisation and asks how increasingly sophisticated forms of meaning emerge within the biological world.
+
+This approach requires a distinction between two related but different forms of meaning:
+
+Biological Meaning
+Reflective Meaning
+
+These are not separate kinds of reality. They occupy different positions within the same organisational architecture.
+
+Understanding their relationship helps clarify how APS connects life, cognition, mind, selfhood, and meaning without reducing one to the other.
+
+## Biological Meaning
+
+Meaning begins long before reflective thought.
+
+The roots of meaning emerge wherever significance influences the organisation of persistence.
+
+Living systems continuously distinguish conditions according to their consequences for viability. Nutrient gradients, toxins, opportunities, threats, environmental changes, physiological conditions, and ecological relationships all acquire significance because they affect the possibility of continued existence.
+
+Significance therefore introduces the earliest form of meaning within the architecture.
+
+This does not imply consciousness, symbolic representation, or interpretation. It simply means that conditions have consequences that matter to the organisation of persistence.
+
+APS refers to this organisational phenomenon as biological meaning.
+
+Biological meaning arises whenever significance becomes incorporated into the regulation of viability-oriented activity. The world is no longer organisationally neutral. Some conditions matter because they contribute to persistence. Others matter because they threaten it.
+
+Meaning therefore begins wherever significance becomes functionally relevant to organised continuity.
+
+This formulation allows APS to speak meaningfully about biological organisation without projecting human mental categories onto simpler forms of life. Biological meaning does not require minds. It requires significance.
+
+Meaning begins because significance matters.
+
+## Reflective Meaning
+
+Biological meaning provides the foundation for more sophisticated forms of meaning, but it does not exhaust them.
+
+As significance becomes increasingly integrated through cognition, mind, selfhood, and reflective agency, it becomes available for interpretation, deliberation, evaluation, and revision.
+
+Meaning can now become a topic of concern in its own right.
+
+Living systems capable of reflective agency can ask questions about goals, values, commitments, identities, purposes, futures, responsibilities, and possibilities. Significance becomes organised not merely through biological regulation but through interpretation and self-direction.
+
+APS refers to this organisational achievement as reflective meaning.
+
+Reflective meaning remains continuous with biological meaning because it emerges from the same underlying architecture. Yet it introduces forms of organisation unavailable to simpler systems.
+
+Meaning can now be:
+
+- interpreted;
+- communicated;
+- negotiated;
+- revised;
+- symbolically represented;
+- culturally transmitted;
+- ethically evaluated;
+- existentially questioned.
+
+Reflective meaning therefore represents not the abandonment of biological organisation but one of its most sophisticated expressions.
+
+The pathway from biological meaning to reflective meaning is not a transition from biology to something non-biological.
+
+It is a transition from simpler to more integrated forms of significance.
+
+## Meaning and Significance
+
+The distinction between significance and meaning plays a central role within APS.
+
+The two concepts are closely related but not identical.
+
+Significance explains what matters.
+
+Meaning explains how what matters becomes organised.
+
+This distinction helps resolve several recurring confusions.
+
+Biological evaluation generates significance because living systems distinguish conditions according to viability. Significance therefore emerges whenever conditions become relevant to organised persistence.
+
+Meaning emerges when significance becomes organised within increasingly coherent patterns of activity.
+
+The relationship can be summarised as follows:
+
+## Significance and Meaning
+Significance = What Matters
+
+Meaning = Organised Significance
+
+This formulation captures both continuity and difference.
+
+Meaning depends upon significance. Without significance, nothing matters.
+
+Without meaning, significance remains insufficiently organised to support the more sophisticated forms of cognition, mind, selfhood, and reflective agency characteristic of complex living systems.
+
+The distinction also clarifies why meaning occupies two positions within the broader architecture.
+
+Its roots appear early because significance already introduces biological meaning.
+
+Its fullest expression appears later because reflective meaning requires cognition, mind, selfhood, and reflective agency.
+
+Meaning therefore possesses both biological depth and reflective sophistication.
+
+## Extending the Architecture
+
+The APS dependency architecture explains how increasingly sophisticated forms of organisation emerge from viability-oriented organised persistence.
+
+Yet APS is not limited to cognition, mind, or meaning.
+
+The same architectural principles extend throughout biology and beyond.
+
+Development, ecology, evolution, diagnosis, resilience, and social organisation all address different expressions of the same underlying challenge:
+
+maintaining viable continuity through change.
+
+These domains are therefore not external applications of APS.
+
+They are extensions of the same explanatory architecture.
+
+## Development
+
+Development is often understood as the process through which organisms change across their life histories.
+
+APS agrees with this characterisation but places it within a broader architectural context.
+
+Development addresses continuity through transformation.
+
+Organisms do not persist despite developmental change. They persist through it. Growth, differentiation, maturation, regeneration, learning, and ageing all reorganise continuity while maintaining sufficient organisational coherence to sustain viability.
+
+Development therefore illustrates one of the central themes of APS:
+
+continuity does not require stasis.
+
+Persistence is achieved through organised transformation.
+
+Within the broader architecture, development can be understood as the progressive reorganisation of significance, activity, and organisation across time.
+
+## Ecology
+
+No living system persists in isolation.
+
+Continuity depends upon ongoing relationships with environmental conditions, resources, opportunities, constraints, and other organisms.
+
+Ecology therefore extends the architecture outward.
+
+If agency regulates continuity, ecological relationships help determine the conditions under which continuity remains possible.
+
+Significance, cognition, behaviour, adaptation, and development are all shaped by ecological circumstances. Organisms and environments continually influence one another through reciprocal processes of organisation and change.
+
+Ecology therefore reveals continuity as relational.
+
+Persistence depends not only upon internal organisation but also upon the broader networks within which that organisation is embedded.
+
+## Evolution
+
+Development explains continuity within lifetimes.
+
+Evolution explains continuity across generations.
+
+From an APS perspective, evolution concerns the historical transformation of viability-oriented organisation.
+
+Organisms inherit organisational solutions from previous generations, modify those solutions through variation and adaptation, and contribute to the emergence of new forms of continuity.
+
+Evolution therefore extends organised persistence into historical time.
+
+The same principles that govern continuity within individual organisms become visible at larger temporal scales through inheritance, adaptation, diversification, and transformation.
+
+Evolution reveals continuity as historical.
+
+## Diagnosis and Resilience
+
+The importance of continuity becomes especially visible when continuity is threatened.
+
+Injury, disease, dysfunction, environmental disruption, and organisational failure expose the conditions upon which persistence depends.
+
+Diagnosis therefore concerns the identification of disruptions affecting viable continuity.
+
+Resilience concerns the capacity to recover, reorganise, and restore continuity under changing conditions.
+
+Both concepts illuminate organisational requirements that often remain hidden when systems function normally.
+
+APS consequently treats diagnosis and resilience as windows into the architecture of persistence itself.
+
+They reveal what continuity requires by examining the consequences of its disruption.
+
+## Social Organisation
+
+The APS architecture extends beyond individual organisms.
+
+Human social systems represent highly integrated forms of organised continuity distributed across individuals, institutions, practices, technologies, traditions, and symbolic systems.
+
+Social organisation therefore extends agency, significance, cognition, and meaning into collective domains.
+
+Cultural practices preserve continuity across generations. Institutions coordinate activity across populations. Knowledge systems stabilise significance. Norms and values guide collective behaviour. Shared meanings organise large-scale forms of cooperation.
+
+The continuity challenges addressed by individual organisms reappear at broader scales in increasingly complex forms.
+
+APS therefore treats social organisation not as a separate explanatory domain but as an extension of the same architectural principles already visible throughout biology.
+
+The framework remains continuous.
+
+The scale changes.
+
+## Extension Domains
+Development
+↓
+Continuity Through Transformation
+
+Ecology
+↓
+Continuity Through Relation
+
+Evolution
+↓
+Continuity Through History
+
+Diagnosis & Resilience
+↓
+Continuity Under Disruption
+
+Social Organisation
+↓
+Continuity Through Collective Coordination
+
+Together these domains demonstrate the breadth of the APS architecture.
+
+What begins as an attempt to understand viable continuity within living systems expands into a framework capable of illuminating development, ecology, evolution, cognition, mind, meaning, resilience, and social organisation as interconnected expressions of the same underlying organisational challenge.
+
+# Why the Framework Has This Shape
+
+At first encounter, APS can appear to contain an unusually diverse collection of concepts. Life, viability, persistence, agency, process, scale, evaluation, significance, cognition, mind, selfhood, meaning, development, ecology, evolution, resilience, and social organisation are often treated as distinct subjects within biology and philosophy.
+
+The purpose of this article has been to show that their relationship is neither accidental nor merely thematic.
+
+APS possesses the structure that it does because living systems face a recurring organisational challenge:
+
+the maintenance of viable continuity through continual transformation.
+
+This challenge generates a cascade of organisational requirements.
+
+Continuity must remain viable. Viability requires regulation. Regulation requires agency. Agency introduces evaluation. Evaluation generates significance. Significance requires integration. Integration supports cognition. Cognition allows coherent self–world organisation. Self–world organisation stabilises into selfhood. Selfhood permits reflective agency. Reflective agency enables increasingly sophisticated forms of meaning.
+
+The resulting architecture can be summarised as follows:
+
+The APS Dependency Architecture
+Life
+↓
+Agency
+↓
+Biological Evaluation
+↓
+Significance
+↓
+Integration
+↓
+Cognition
+↓
+Mind
+↓
+Selfhood
+↓
+Reflective Agency
+↓
+Meaning
+
+What appears at first to be a collection of separate concepts therefore reveals itself as a coherent explanatory sequence.
+
+The framework does not begin with cognition and work backwards toward biology.
+
+Nor does it begin with meaning and attempt to reduce it to simpler components.
+
+Instead, APS follows the organisational consequences of viability-oriented persistence as they unfold across increasingly sophisticated forms of living organisation.
+
+This is why the framework possesses the shape that it does.
+
+Its architecture emerges from the problem it seeks to explain.
+
+# Biological Explanation in APS
+
+APS is not intended to replace existing biological disciplines.
+
+It is intended to provide an explanatory architecture capable of revealing their underlying coherence.
+
+Development, physiology, ecology, evolution, cognition, behaviour, resilience, and social organisation all investigate important aspects of living systems. APS does not compete with these domains. It asks how they relate to one another.
+
+The framework therefore operates at a level of organisation that complements rather than replaces more specialised explanations.
+
+Its contribution is architectural.
+
+APS seeks to identify the recurring organisational principles that make diverse biological phenomena intelligible as parts of a larger whole.
+
+This approach carries several implications.
+
+First, it rejects strongly reductionist approaches that attempt to explain complex forms of organisation exclusively in terms of simpler components. Components matter, but living systems derive many of their properties from patterns of organisation that emerge through interaction and coordination.
+
+Second, it rejects the opposite tendency to treat higher-order phenomena as detached from biological foundations. Cognition, mind, selfhood, meaning, values, and social organisation remain continuous with the biological processes from which they emerge.
+
+Third, it encourages integration across biological domains. Developmental, ecological, evolutionary, physiological, cognitive, and social explanations often address different expressions of the same organisational challenges.
+
+APS therefore occupies a synthetic position.
+
+Its purpose is not to reduce, replace, or eliminate established explanations.
+
+Its purpose is to reveal how they fit together.
+
+# Navigating the APS Framework
+
+The APS framework can be approached from many directions.
+
+Some readers begin with questions about life. Others begin with agency, cognition, evolution, meaning, or mind. The architecture developed throughout this article provides a guide for navigating these different entry points.
+
+The framework can be explored through four broad pathways.
+
+## Foundations
+
+These articles establish the biological foundations of APS and introduce the central concepts of viability-oriented organised persistence.
+
+Core Topics
+- What Is Life?
+- Biological Agency
+- Agency
+- Process
+- Scale
+- The Biological Imperative
+- Organised Persistence
+
+Central Question
+
+How is viable continuity possible?
+
+## Significance and Cognition
+
+These articles explore how living systems distinguish, organise, and respond to conditions affecting persistence.
+
+Core Topics
+- Biological Evaluation
+- Significance
+- Integration
+- Cognition
+- Functional Equivalence
+
+Central Question
+
+How does significance become organised?
+
+Mind and Selfhood
+
+These articles examine increasingly integrated forms of significance and self–world organisation.
+
+Core Topics
+- Mind
+- Selfhood
+- Reflective Agency
+- Awareness
+- Human Agency
+
+Central Question
+
+How does organised significance become coherent self–world organisation?
+
+## Meaning and Values
+
+These articles investigate the emergence of meaning, values, morality, and reflective life.
+
+Core Topics
+- Biological Meaning
+- Meaning
+- Values
+- Morality
+- The Meaning of Life
+
+Central Question
+
+How does organised significance become interpreted and lived?
+
+Reader Pathway
+
+Foundations
+↓
+Evaluation & Significance
+↓
+Cognition
+↓
+Mind & Selfhood
+↓
+Meaning & Values
+
+Readers may enter the framework at any point, but the architecture described throughout this article provides the conceptual map through which the relationships among these domains become visible.
 
 ## Conclusion
 
-The core structure of APS is ultimately organised around a simple but profound biological insight:
+APS begins with a deceptively simple observation:
 
-> living systems persist through continual transformation.
+living systems persist.
 
-Understanding this achievement requires more than the study of isolated mechanisms, structures, or traits. It requires an account of how viable continuity becomes possible despite ongoing change.
+Yet they do not persist by remaining unchanged. They persist through continual transformation. Development, adaptation, learning, repair, ecological interaction, reproduction, and evolution all contribute to continuity while simultaneously reshaping the conditions under which continuity remains possible.
 
-APS develops such an account through a coherent explanatory architecture.
+The central challenge of biology therefore becomes understanding how viable continuity is maintained despite continual change.
 
-Viability identifies the conditions required for persistence. Organised persistence identifies the phenomenon to be explained. Constraint closure helps explain continuity maintenance. Agency, process, and scale provide the explanatory grammar through which continuity becomes intelligible. Development, ecology, evolution, cognition, diagnosis, and social organisation emerge as continuity architectures operating across different scales and timescales.
+APS approaches this challenge through the concepts of viability-oriented organised persistence, agency, process, and scale. From these foundations it develops a dependency architecture linking life, evaluation, significance, cognition, mind, selfhood, reflective agency, and meaning into a coherent explanatory sequence.
 
-Taken together, these domains form a unified framework for understanding life as:
+The result is not a theory of a single biological phenomenon.
 
-> viability-oriented organised persistence sustained across time.
+It is an explanatory architecture for understanding how increasingly sophisticated forms of organisation emerge within living systems.
 
-The purpose of APS is therefore not simply to explain particular biological phenomena. Its deeper purpose is to explain why living systems remain possible despite continual transformation.
+The framework therefore provides a unified perspective on development, ecology, evolution, cognition, resilience, social organisation, and meaning while preserving the distinctive contributions of each domain.
 
-The framework possesses the structure it does because the challenge of maintaining viable continuity generates the architecture required to understand life itself.
+Its central claim is straightforward:
+
+> Life becomes intelligible when viewed as viability-oriented organised persistence sustained through continual transformation.
+
+Everything else in the framework follows from exploring the organisational consequences of that insight.
 
 ## Where to Go Next
 
-Readers seeking a broader overview may continue with:
+Readers wishing to continue exploring the framework may find the following progression useful.
 
-- *APS Architecture Map*
-- *The Explanatory Geometry of Biology*
-- *APS as Philosophy*
-- *Organisational Realism in Biology*
+Foundations
+- What Is Life?
+- What Is Biological Agency?
+- The Biological Imperative
+- Agency, Process, and Scale
 
-Readers interested in specific continuity architectures may continue with:
+Significance and Cognition
+- What Is Biological Evaluation?
+- What Is Significance?
+- What Is Integration?
+- What Is Cognition?
 
-- *The Developmental Organisation of Life*
-- *The Social Organisation of Life*
-- *Ecology as Organised Persistence Across Scales*
-- *Diagnosis as Continuity Analysis*
-- *Evolution as the Historical Transformation of Organised Persistence*
+Mind and Selfhood
+- What Is Mind?
+- What Is Selfhood?
+- What Is Reflective Agency?
 
-Together these articles reveal how the various domains of APS emerge from a common explanatory commitment to viability-oriented organised persistence sustained across time.
+Meaning and Values
+- What Is Biological Meaning?
+- What Is the Meaning of Life?
+- Where Do Human Values Come From?
+- Morality and Biological Organisation
 
-## Key Point
+Architecture and Orientation
+- What Is APS?
+- How APS Explains Life
+- APS Architecture Map
+- How APS Concepts Fit Together
 
-The core structure of APS emerges from a single explanatory challenge:
 
-> How do living systems maintain viable continuity despite continual transformation?
 
-APS answers this question through an integrated architecture centred on viability-oriented organised persistence. Constraint closure helps explain continuity maintenance. Agency, process, and scale provide the explanatory grammar through which continuity becomes intelligible. Development, ecology, evolution, cognition, diagnosis, and social organisation extend this architecture across increasingly broad continuity domains.
 
-The framework possesses coherence because the organisational requirements of persistence generate the concepts required to explain life itself.
+
+
+
+
+
