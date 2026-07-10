@@ -401,12 +401,22 @@ The next step is therefore to move from the explanatory grammar of APS to its de
 
 The concepts introduced so far explain the phenomenon APS seeks to understand and the explanatory grammar through which that phenomenon becomes intelligible.
 
-<div class="article-image">
-  <img src="/assets/diagrams/cognition-overall-architecture.png"
-       alt="The overall architecture of the APS framework showing methodology, explanatory grammar, and dependency architecture." />
+<div class="aps-diagram">
+  <a
+    href="/assets/diagrams/cognition-overall-architecture.png"
+    target="_blank"
+    rel="noopener"
+  >
+    <img
+      src="/assets/diagrams/cognition-overall-architecture.png"
+      alt="The overall architecture of APS showing its methodology, explanatory grammar, and dependency architecture."
+      loading="lazy"
+    />
+  </a>
 
-  <p class="image-caption">
-    <em>Figure 1. The overall architecture of APS. The framework consists of three complementary layers: a methodological architecture concerned with naturalisation and intelligibility, an explanatory grammar based on Agency–Process–Scale, and a dependency architecture linking life, agency, evaluation, significance, cognition, mind, selfhood, and meaning into a coherent explanatory sequence.</em>
+  <p class="aps-diagram-caption">
+    <strong>The Overall Architecture of APS.</strong>
+    The framework consists of three complementary layers: a methodological architecture concerned with naturalisation, conceptual closure, and scientific intelligibility; an explanatory grammar based on Agency–Process–Scale; and a dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning.
   </p>
 </div>
 
