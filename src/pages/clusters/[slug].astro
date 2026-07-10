@@ -17,7 +17,15 @@ description:
 overview:
 'This cluster establishes the conceptual foundations of the Agency–Process–Scale (APS) Framework. It addresses the most fundamental questions in biology: what life is, how living systems persist, why organisms exhibit agency, how biological organisation is maintained, how normativity emerges, and what biological explanation ultimately seeks to explain. APS treats biology as the study of viability-oriented organised persistence, and the concepts developed here provide the vocabulary and explanatory architecture upon which every other APS domain is built.',
 
+architectureGuide: {
+  title: 'The Core Structure of APS',
+  href: '/orientation/the-core-structure-of-aps-how-the-framework-fits-together/',
+  description:
+    'The architectural guide to the APS framework. This orientation article explains how life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning form a coherent explanatory pathway.',
+},
+
 startHere: [
+'The Core Structure of APS',
 'Agency as the Defining Activity of Life',
 'What Is Life? — A Biological Question Revisited',
 'Biological Agency as the Activity of Self-Maintenance',
@@ -604,6 +612,36 @@ const groupedArticles = articleRoleGroups
        <p class="cluster-overview">
         {cluster.overview}
       </p>
+
+      {
+  cluster.architectureGuide && (
+    <section class="domain-architecture-guide">
+      <h2>Start with the Architecture</h2>
+
+      <p>
+        Before exploring individual concepts, readers should begin with the
+        architectural overview of the APS framework.
+      </p>
+
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">
+            <a href={cluster.architectureGuide.href}>
+              {cluster.architectureGuide.title}
+            </a>
+          </h3>
+
+          <TypeBadge type="orientation" />
+        </div>
+
+        <p class="card-excerpt">
+          {cluster.architectureGuide.description}
+        </p>
+      </div>
+    </section>
+  )
+}
+Result
 
       {
         cluster.startHere && (

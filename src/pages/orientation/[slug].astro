@@ -25,6 +25,7 @@ const {
   canonicalLockDate,
   date,
   revised,
+  cluster,
   relatedGlossaryTerms,
   relatedArticles,
   references,
@@ -78,13 +79,25 @@ const resolvedGlossaryTerms = (relatedGlossaryTerms ?? [])
   <div
     class="content-wrapper"
     data-pagefind-body
-    data-pagefind-meta={`type:Orientation, status:${status.charAt(0).toUpperCase() + status.slice(1)}`}
+    data-pagefind-meta={`type:Orientation, status:${status.charAt(0).toUpperCase() + status.slice(1)}, cluster:${cluster}`}
   >
     <span data-pagefind-filter="type:Orientation" data-pagefind-ignore></span>
     <span
       data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`}
       data-pagefind-ignore
     ></span>
+
+    <span data-pagefind-filter="type:Orientation" data-pagefind-ignore></span>
+
+<span
+  data-pagefind-filter={`status:${status.charAt(0).toUpperCase() + status.slice(1)}`}
+  data-pagefind-ignore
+></span>
+
+<span
+  data-pagefind-filter={`cluster:${cluster}`}
+  data-pagefind-ignore
+></span>
 
     <Breadcrumb
       items={[{ label: 'Orientation', href: '/orientation/what-is-aps/' }, { label: title }]}

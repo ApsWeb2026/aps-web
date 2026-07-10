@@ -148,9 +148,9 @@ Organised persistence is therefore the central explanatory target of biology.
 Understanding how living systems persist requires understanding the organisational conditions that make persistence possible.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/temporal-organisation-visual.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/temporal-organisation.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/temporal-organisation-visual.png"
+      src="/assets/diagrams/temporal-organisation.png"
       alt="Temporal Organisation and Organised Persistence"
       loading="lazy"
     />
