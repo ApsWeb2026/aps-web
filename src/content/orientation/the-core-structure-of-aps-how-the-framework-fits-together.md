@@ -402,7 +402,7 @@ The next step is therefore to move from the explanatory grammar of APS to its de
 The concepts introduced so far explain the phenomenon APS seeks to understand and the explanatory grammar through which that phenomenon becomes intelligible.
 
 <div class="article-image">
-  <img src="/images/cognition-overall-architecture.png"
+  <img src="/assets/diagrams/cognition-overall-architecture.png"
        alt="The overall architecture of the APS framework showing methodology, explanatory grammar, and dependency architecture." />
 
   <p class="image-caption">
