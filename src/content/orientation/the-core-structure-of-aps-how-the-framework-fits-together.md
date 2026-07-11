@@ -327,6 +327,31 @@ Process therefore reveals the temporal organisation through which continuity bec
 
 The architecture becomes increasingly coherent.
 
+<div class="aps-diagram">
+  <a
+    href="/assets/diagrams/architecture-map.png"
+    target="_blank"
+    rel="noopener"
+  >
+    <img
+      src="/assets/diagrams/architecture-map.png"
+      alt="The core architecture of APS showing agency, process, and scale as analytic perspectives on viability-oriented, constraint-closed organisation, together with the organisational pathway from agency to reflective agency"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>The Core Architecture of APS.</strong>
+    Agency, process, and scale are analytic perspectives on a single
+    viability-oriented, constraint-closed organisation. Together they explain
+    what living systems do, how organised continuity is maintained through
+    change, and where persistence is organised across spatial and temporal
+    domains. The wider pathway shows how biological evaluation, significance,
+    integration, cognition, mind, selfhood, and reflective agency develop from
+    this foundational organisation.
+  </p>
+</div>
+
 ## Scale — The Distribution of Continuity
 
 Once continuity is recognised as both active and processual, a further question emerges:
