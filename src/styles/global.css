@@ -2101,3 +2101,23 @@ main .article-body h3 {
   text-transform: uppercase;
   color: var(--color-text-muted);
 }
+
+.orientation-pathway {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+  text-align: center;
+}
+
+.orientation-pathway p {
+  margin: 0.4rem 0;
+}
+
+.orientation-pathway strong {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.orientation-pathway a {
+  text-decoration: none;
+}
