@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-03
-revised: 2026-07-03
+revised: 2026-07-11
 cluster: cognition-and-mind
 role: synthesis
 
@@ -99,6 +99,7 @@ references:
 ---
 
 ## Introduction
+
 Human values shape nearly every aspect of human life. They influence how people make decisions, organise societies, raise children, create institutions, and judge what is right or wrong. Values such as fairness, honesty, responsibility, freedom, compassion, and justice often appear very different from the biological concerns associated with survival, reproduction, or adaptation. Because of this difference, human values are sometimes treated as entirely separate from biology, arising solely from culture, religion, philosophy, or personal choice.
 
 Yet human beings are living organisms. Like all organisms, humans perceive significance in their environments, evaluate conditions according to their consequences, and act in ways that support their continued functioning and adaptive persistence. The values that guide human societies therefore did not emerge from nowhere. They developed from capacities already present in biological systems, even though they have been transformed in uniquely human ways.

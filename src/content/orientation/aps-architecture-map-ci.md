@@ -116,6 +116,28 @@ Readers new to APS should begin with the core orientation sequence outlined belo
 
 Together these articles introduce the central explanatory architecture of APS and provide the conceptual foundations for the wider framework.
 
+## APS at a Glance
+
+The APS framework can be viewed through three complementary perspectives. The first shows how biological concepts become scientifically intelligible. The second shows the dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning. The third shows how significance develops into increasingly integrated forms of meaning.
+
+Together these perspectives provide a rapid overview of the framework before readers enter its major domains and pathways.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-overall-architecture.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-overall-architecture.png"
+      alt="APS at a Glance showing the three architectural layers of APS, the APS dependency architecture, and the architecture of meaning."
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>APS at a Glance.</strong> The framework can be understood through three complementary perspectives. The first presents the methodological, explanatory, and dependency architectures of APS. The second presents the dependency pathway linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning. The third shows how significance develops into biological and reflective forms of meaning.
+  </p>
+</div>
+
+The remainder of this map directs readers into the principal domains through which these architectures are developed. Each pathway explores a different aspect of organised persistence while remaining connected to the wider explanatory structure of APS.
+
 ## Major Continuity Architectures of APS
 
 The diagram below provides a structural overview of the major pathways developed within APS.
