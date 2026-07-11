@@ -4,7 +4,7 @@ slug: naturalising-life
 description: Naturalising Life examines how difficult biological concepts become scientifically intelligible. It argues that biological understanding advances through processes of naturalisation and conceptual closure, allowing phenomena such as purpose, agency, cognition, meaning, and mind to become coherent objects of scientific inquiry.
 type: article
 date: 2026-07-08
-revised: 2026-07-08
+revised: 2026-07-11
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-08
@@ -42,6 +42,8 @@ relatedArticles:
   - how-aps-concepts-fit-together
   - from-metaphysics-to-mechanism-and-beyond
   - how-did-matter-become-aware-of-itself
+  - how-aps-explains-life
+  - the-core-structure-of-aps-how-the-framework-fits-together
 
 references:
   - id: barandiaran-moreno-2008-minimal-agency
@@ -127,6 +129,12 @@ references:
     journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
 ---
+
+> **Where this article fits:** *What Is APS?* introduces the framework, while *Understanding APS* explains how readers can navigate its major domains and pathways.
+>
+> *Naturalising Life* serves a different purpose. It explains how APS develops and stabilises biological concepts, and how difficult phenomena such as purpose, agency, cognition, meaning, and mind become scientifically intelligible.
+>
+> Readers seeking APS's explanatory foundations should continue to *How APS Explains Life*. Readers seeking the full conceptual architecture of the framework should continue to *The Core Structure of APS*.
 
 ## Introduction - Why Life Needs Naturalising
 
@@ -248,6 +256,8 @@ Viewed collectively, these developments suggest that APS is not only constructin
 
  The significance of this observation lies not in any claim of methodological novelty but in the possibility that biological understanding develops through a recurring interplay between conceptual development and empirical investigation. APS suggests that scientific progress often depends not only on discovering new facts but also on developing concepts capable of integrating those facts into coherent explanations. Viewed in this light, APS can be understood not simply as a framework for organising biological concepts, but as a programme for rendering increasingly complex biological phenomena scientifically intelligible.
 
+ The methodological perspective developed throughout this article provides the foundation for the explanatory approach developed elsewhere in APS. Readers wishing to see how these ideas are applied to living systems should continue to *How APS Explains Life*.
+
 ### Four Illustrative Case Studies
 
 The role of naturalisation and conceptual closure becomes clearer when examined through specific examples. The following case studies are not intended as comprehensive treatments of the concepts involved. Rather, they illustrate how the same general pattern appears across different areas of the framework.
@@ -279,6 +289,8 @@ The Matter-to-Mind programme emerges from this recognition. Rather than beginnin
 This strategy reflects the broader methodological orientation of APS. Complex phenomena rarely become intelligible all at once. Understanding often develops through a sequence of conceptual advances that progressively clarify the relationships among different aspects of a problem. The concepts explored in the Matter-to-Mind programme can therefore be viewed as preparatory in a constructive sense. They contribute to the development of an explanatory landscape within which questions about awareness may eventually be addressed more productively.
 
 Whether awareness itself can ultimately be naturalised and conceptually stabilised remains an open question. APS offers no guarantee that this will occur. What it does suggest is that progress is more likely when difficult phenomena are approached through the gradual development of concepts capable of relating them to broader patterns of biological organisation. In this respect, the Matter-to-Mind programme extends rather than departs from the methodological approach described throughout this article.
+
+The broader dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning is developed in *The Core Structure of APS*, which provides the canonical account of how these concepts fit together within the wider framework.
 
 ## Scientific Intelligibility and the Future of Biology
 

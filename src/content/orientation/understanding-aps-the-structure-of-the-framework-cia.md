@@ -6,20 +6,20 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-07-09
+revised: 2026-07-11
 cluster: conceptual-foundations
 
 abstract: >
-  This article explains how the APS framework is organised as a unified
-  explanatory architecture for understanding life as viability-oriented
-  organised persistence sustained across time. APS approaches biology through
-  the integrated organisation of agency, process, and scale, understood as
-  dimensions through which living systems regulate continuity, adapt to
-  perturbation, preserve resilience, and sustain viability across changing
-  conditions and interacting timescales. Physiology, development, ecology,
-  evolution, cognition, adaptation, resilience, repair, diagnosis, and
-  social organisation are therefore integrated within a shared explanatory
-  framework centred on continuity, transformation, and organised persistence.
+  This article serves as a guide to navigating the APS framework. Rather
+  than developing individual concepts in detail, it provides an overview
+  of the major pathways, domains, and explanatory themes that organise the
+  framework. Readers are introduced to the conceptual foundations,
+  developmental, ecological, evolutionary, cognitive, diagnostic, and
+  social pathways of APS and shown how these domains contribute to a
+  unified account of life as viability-oriented organised persistence.
+  The article is intended to help readers understand where particular
+  concepts, questions, and research programmes belong within the wider
+  framework and how different routes through APS connect to one another.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -57,7 +57,17 @@ relatedArticles:
   - naturalising-life
 ---
 
-> **Where this article fits:** *What Is APS?* introduces the central idea behind APS. *How APS Explains Life* explains the logic of APS explanation. This article serves a different purpose. It provides a guided overview of the framework itself and shows how its major domains fit together within a unified explanatory architecture.
+> **Where this article fits:** *What Is APS?* introduces the framework.
+> *Naturalising Life* explains its methodological foundations.
+> *How APS Explains Life* introduces its explanatory logic.
+> *The Core Structure of APS* explains the conceptual architecture of the
+> framework.
+>
+> This article serves a different purpose. It is a guide to navigating
+> APS. It introduces the major pathways, domains, and routes through the
+> framework and helps readers understand where particular concepts,
+> questions, and research programmes fit within the wider organisation of
+> APS.
 
 ## Introduction
 
@@ -65,7 +75,7 @@ APS contains many articles, concepts, pathways, and explanatory domains.
 
 At first glance, this variety can appear overwhelming. The framework includes discussions of persistence, viability, development, ecology, evolution, cognition, adaptation, diagnosis, resilience, repair, normativity, social organisation, and many other topics. Readers often understand individual concepts before they fully understand how those concepts connect. This article is designed to address that problem.
 
-Its purpose is not to introduce new concepts, nor does it attempt to explain every component of the framework in detail. Instead, it provides an overview of the organisational architecture that connects the various parts of APS into a coherent whole.
+Its purpose is not to introduce new concepts, nor does it attempt to explain every component of the framework in detail. Instead, it serves as a guide to the organisation of APS, helping readers understand the major pathways, domains, and routes through which the framework can be explored.
 
 The key insight is simple:
 
@@ -95,7 +105,7 @@ The framework therefore possesses a cumulative structure. Each major domain expl
 
 Readers sometimes ask whether APS is primarily about development, ecology, evolution, cognition, diagnosis, or social organisation. The answer is that it is about all of these things, but approaches them through a common explanatory lens. Each domain reveals a different continuity architecture through which viability-oriented organised persistence becomes possible.
 
-## The Core Structure of APS
+## How APS Is Organised
 
 At the centre of the framework lies a simple explanatory structure.
 
@@ -145,6 +155,20 @@ APS explains this continuity through viability-oriented organised persistence. P
 This distinction is crucial because it changes how biological organisation is interpreted. Organisms remain viable not because they avoid change, but because they organise change in ways compatible with continued persistence. Development, adaptation, repair, resilience, ecological interaction, social coordination, and evolutionary transformation all become intelligible through their contribution to this broader continuity architecture.
 
 The remainder of the framework explores the different ways in which organised persistence becomes possible across biological domains.
+
+## Orientation Pathway
+
+Because APS has grown into a substantial framework, readers often benefit from approaching it through a structured orientation pathway before exploring particular domains in detail. The framework was not developed as a collection of independent articles. Its concepts, pathways, and research programmes build upon one another and become easier to understand when encountered in a broadly coherent sequence.
+
+A useful starting point is What Is APS?. That article introduces the central question that motivates the framework and explains why APS begins with the problem of how living systems maintain viable continuity through time despite continual transformation. Readers seeking an initial overview of the framework should begin there.
+
+The next step is Understanding APS. Whereas What Is APS? introduces the framework, the present article explains how the framework is organised. Its purpose is to help readers navigate the major pathways, domains, and conceptual routes that make up APS and to identify where particular questions and research programmes belong within the wider organisation of the framework.
+
+Readers wishing to understand the foundations of APS should then continue to Naturalising Life and How APS Explains Life. These articles explain the methodological and explanatory commitments of the framework. Naturalising Life examines how APS develops and stabilises biological concepts, while How APS Explains Life introduces the explanatory logic through which living systems become scientifically intelligible as viability-oriented organised persistence.
+
+Once these foundations are established, readers are ready for The Core Structure of APS. This article provides the canonical account of the framework's architecture. It explains how agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning fit together within a unified explanatory structure and how the major domains of APS emerge from that architecture.
+
+From there, readers may continue to APS Architecture Map and How APS Concepts Fit Together, which provide visual and conceptual navigation aids, or proceed directly into specialised domains such as development, ecology, evolution, cognition, diagnosis, resilience, social organisation, and the broader life-to-mind research programme developed in How Did Matter Become Aware of Itself?. APS therefore supports many routes of exploration, but this orientation pathway provides the clearest introduction to the framework as a whole.
 
 ## Major Pathways Within APS
 
@@ -350,21 +374,23 @@ The framework provides a common explanatory language through which diverse biolo
 
 ## Navigating the Framework
 
-Because APS is organised as an interconnected explanatory architecture, readers often benefit from following a broadly structured pathway through the material.
+Because APS is organised as an interconnected explanatory architecture, readers often benefit from beginning with the orientation pathway before moving into specialised domains.
 
 A useful starting sequence is:
 
-1. *What Is APS?*
-2. *How APS Explains Life*
-3. *Understanding APS*
-4. *The Core Structure of APS*
-5. *The Explanatory Geometry of Biology*
+1. What Is APS?
+2. Understanding APS
+3. Naturalising Life
+4. How APS Explains Life
+5. The Core Structure of APS
+6. APS Architecture Map
+7. How APS Concepts Fit Together
 
-These articles establish the central concepts, explanatory logic, and organisational architecture of the framework.
+Together these articles introduce the central question of APS, explain its methodological and explanatory foundations, and provide the conceptual and visual tools needed to navigate the wider framework.
 
-From there, readers can follow their interests into particular continuity pathways. Some readers begin with persistence, viability, temporal organisation, adaptation, and resilience. Others move into development, morphogenesis, plasticity, integration, and ageing. Those interested in cognition can follow the pathway through evaluation, semiosis, meaning, information, representation, cognition, intelligence, and consciousness.
+From there, readers can follow their interests into particular domains. Some begin with persistence, viability, temporal organisation, adaptation, and resilience. Others move into development, morphogenesis, plasticity, integration, and ageing. Readers interested in cognition and mind can follow the pathway through biological evaluation, significance, cognition, mind, selfhood, reflective agency, and meaning. Others may begin with ecology, evolution, diagnosis, or social organisation.
 
-Readers interested in ecology, evolution, diagnosis, or social organisation will find dedicated pathways organised around the same explanatory principles. The framework is therefore designed to support multiple routes of exploration while remaining unified around a common conceptual core.
+APS therefore supports multiple routes of exploration while remaining unified around a common explanatory architecture centred on viability-oriented organised persistence.
 
 ## What APS Changes
 
@@ -399,21 +425,29 @@ At first glance, the framework may appear to contain diverse and unrelated topic
 
 > How does viable continuity remain possible through time?
 
-The framework therefore possesses a coherent explanatory architecture organised around organised persistence, viability, agency, process, and scale. Development explains continuity through transformation, ecology explains continuity through environmental relationships, evolution explains continuity across generations, cognition explains continuity through evaluation, diagnosis explains continuity under disruption, and social organisation explains continuity through collective coordination.
+The framework therefore possesses a coherent explanatory architecture organised around organised persistence, viability, agency, process, and scale. Development explains continuity through transformation, ecology explains continuity through environmental relationships, evolution explains continuity across generations, cognition explains continuity through evaluation, diagnosis explains continuity under disruption, and social organisation explains continuity through collective coordination. Understanding APS therefore means not only understanding its central concepts, but also knowing how its pathways, domains, and research programmes connect within a larger programme of biological explanation.
 
 Together these pathways reveal how living systems actively preserve viability despite continual change. APS is therefore not merely a collection of concepts. It is a unified framework for understanding life as viability-oriented organised persistence sustained across time.
 
 ## Where to Go Next
 
-A useful next step is:
+Readers seeking a deeper understanding of the framework's architecture should continue with:
 
-1. *How APS Concepts Fit Together* — an exploration of how concepts such as agency, process, scale, viability, and constraint closure relate to one another within a unified explanatory framework.
-2. *Naturalising Life* — an examination of how APS develops and stabilises biological concepts, and how scientific intelligibility emerges through naturalisation and conceptual closure.
-3. *How APS Explains Life* — a guide to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence.
+The Core Structure of APS — the canonical account of how the major concepts of APS form a unified explanatory architecture.
+APS Architecture Map — a visual guide to the organisation of the framework.
+How APS Concepts Fit Together — an exploration of how key APS concepts relate to one another within the wider architecture.
 
-Readers seeking a more detailed architectural overview may also explore *The Core Structure of APS*, *APS Architecture Map*, and *The Explanatory Geometry of Biology*.
+Readers interested in the methodological foundations of APS may continue with:
 
-From there, readers can follow whichever continuity pathways most closely match their interests.
+Naturalising Life — an examination of how APS develops and stabilises biological concepts and renders life scientifically intelligible.
+
+Readers interested in the explanatory foundations of APS may continue with:
+
+How APS Explains Life — an introduction to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence.
+
+Readers interested in the framework's long-term synthesis programme may continue with:
+
+How Did Matter Become Aware of Itself? — an exploration of how increasingly sophisticated forms of organisation give rise to cognition, mind, selfhood, reflective agency, and meaning.
 
 ## Key Terms
 

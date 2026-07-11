@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-15
+revised: 2026-07-11
 cluster: conceptual-foundations
 
 abstract: >
@@ -68,7 +68,9 @@ This article functions as a conceptual map of that architecture. Its purpose is 
 
 APS is therefore organised not as a collection of isolated topics, but as a unified explanatory grammar unfolding across multiple domains of biological organisation.
 
-## The Core Structure of APS
+> **Where this article fits:** *The Core Structure of APS* provides the canonical account of the framework's conceptual architecture. This article serves a complementary role. Its purpose is to make that architecture visible, helping readers navigate the major pathways, domains, and reading routes that emerge from the wider APS framework.
+
+## The Explanatory Centre of APS
 
 <div class="aps-diagram">
 
@@ -104,11 +106,13 @@ Readers new to APS should begin with the core orientation sequence outlined belo
 
 ### Recommended Starting Sequence
 
-1. *[What Is APS?](/orientation/what-is-aps/)*
-2. *[How APS Explains Life — A Two-Step Guide](/orientation/how-aps-explains-life/)*
-3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+1. *What Is APS?*
+2. *Understanding APS — The Structure of the Framework*
+3. *Naturalising Life*
+4. *How APS Explains Life*
+5. *The Core Structure of APS — How the Framework Fits Together*
+6. *APS Architecture Map — Navigating the Framework*
+7. *How APS Concepts Fit Together*
 
 Together these articles introduce the central explanatory architecture of APS and provide the conceptual foundations for the wider framework.
 
@@ -300,9 +304,10 @@ Different readers often enter APS from different backgrounds and interests. The 
 Start with:
 
 1. *What Is APS?*
-2. *How APS Explains Life*
-3. *Understanding APS*
-4. *The Core Structure of APS*
+2. *Understanding APS*
+3. *Naturalising Life*
+4. *How APS Explains Life*
+5. *The Core Structure of APS*
 
 ### For Readers Interested in Persistence and Temporality
 

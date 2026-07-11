@@ -3,7 +3,7 @@ title: "How APS Concepts Fit Together"
 slug: "how-aps-concepts-fit-together"
 type: orientation
 date: 2026-05-10
-revised: 2026-07-09
+revised: 2026-07-11
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
@@ -47,6 +47,12 @@ APS is not introducing multiple competing definitions of life, agency, organisat
 This article explains how those concepts fit together and why APS employs multiple explanatory concepts without multiplying explanations.
 
 [[box:the-organisational-grammar-of-aps]]
+
+> **Where this article fits:** *The Core Structure of APS* explains the architecture of the APS framework and the dependency relationships connecting its major concepts and domains.
+>
+> This article serves a complementary role. Rather than explaining the architecture itself, it explains how recurring APS concepts such as viability, agency, constraint closure, process, scale, development, cognition, and social organisation relate to one another across different explanatory contexts.
+>
+> Readers seeking the framework architecture should continue to *The Core Structure of APS*. Readers seeking a conceptual guide to the relationships among APS concepts should begin here.
 
 ## The Central Question of APS
 
@@ -96,6 +102,8 @@ These are not separate entities, levels, or ontological layers. They are complem
 </div>
 
 The purpose of APS concepts is therefore not to multiply explanations but to prevent oversimplification. Living systems are complex forms of organised persistence, and different explanatory perspectives are required to understand how that persistence is achieved.
+
+The broader dependency architecture through which agency gives rise to biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning is developed in *The Core Structure of APS*. The present article focuses instead on how APS concepts function as complementary explanatory perspectives within that wider architecture.
 
 ## Four Questions APS Keeps Distinct
 
@@ -295,13 +303,41 @@ The result is a framework that is simultaneously pluralistic and coherent: plura
 
 Understanding how APS concepts fit together ultimately means recognising that they are all attempts to answer this question from different but mutually reinforcing explanatory viewpoints.
 
+## Orientation Pathway
+
+Readers new to APS may find it useful to approach the framework through the following orientation sequence:
+
+What Is APS?
+↓
+Understanding APS
+↓
+Naturalising Life
+↓
+How APS Explains Life
+↓
+The Core Structure of APS
+↓
+APS Architecture Map
+↓
+How APS Concepts Fit Together
+
+This sequence moves from introduction, to navigation, to methodology, to explanation, to architecture, before arriving at the conceptual relationships explored in the present article.
+
 ## Where to Go Next
 
-A useful next step is:
+Readers seeking the broader architecture of APS should continue with:
 
-1. *Naturalising Life* — an exploration of how APS develops and stabilises biological concepts, and how concepts such as agency, purpose, cognition, and meaning become scientifically intelligible.
-2. *How APS Explains Life* — a guide to the explanatory logic of the framework and how APS interprets living systems through viability-oriented organised persistence.
-3. *How Did Matter Become Aware of Itself?* — an introduction to the broader Matter-to-Mind programme and the long-term questions emerging from APS.
+1. *The Core Structure of APS* — the canonical account of how the major concepts and domains of APS form a unified explanatory architecture.
+2. *APS Architecture Map* — a visual guide to navigating that architecture.
+
+Readers seeking the methodological and explanatory foundations of APS should continue with:
+
+3. *Naturalising Life*
+4. *How APS Explains Life*
+
+Readers interested in the extension of these concepts into cognition and mind should continue with:
+
+5. *How Did Matter Become Aware of Itself?*
 
 Readers seeking a deeper architectural overview may also explore *Understanding APS — The Structure of the Framework* and *The Core Structure of APS*, which examine how the framework is organised and how its major explanatory pathways relate to one another.
 

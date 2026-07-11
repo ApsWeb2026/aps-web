@@ -3,12 +3,10 @@ date: 2026-04-27
 title: "What Is Life? — A Biological Question Revisited"
 slug: "what-is-life-a-biological-question-revisited"
 type: article
-
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-
-revised: 2026-06-29
+revised: 2026-07-11
 
 cluster: conceptual-foundations
 role: anchor
@@ -109,9 +107,16 @@ references:
     journal: "Reports on Progress in Physics"
     volume: "80"
     pages: "092601"
+
+  - id: nicholson-2025-what-is-life-revisited
+    authors: Nicholson, D. J.
+    year: 2025
+    title: What Is Life? Revisited
+    publisher: Cambridge University Press
+    doi: 10.1017/9781009127318
 ---
 
-## Where This Article Fits
+>**Where this article fits:**
 
 The question *What is life?* occupies a special place within APS because it addresses the most fundamental question in biology. Before we can explain evolution, development, cognition, ecology, or behaviour, we must first understand what kind of organisation makes something alive.
 
@@ -126,7 +131,7 @@ Together, these articles form a conceptual sequence:
 - **Persistence — Organised Continuity Through Time** — Why continuity is biology's central explanatory challenge.
 - **The Continuity Architecture of Life** — How continuity is maintained across the major domains of life.
 
-## Why "What Is Life?" Remains an Open Question
+## Introduction - Why "What Is Life?" Remains an Open Question
 
 At first glance, the question *What is life?* appears deceptively simple. Living things seem easy to recognise. Plants grow, animals move, microbes reproduce, and ecosystems display extraordinary forms of organisation. Modern biology has mapped genomes, revealed molecular mechanisms, traced evolutionary histories, and transformed our understanding of living systems across an astonishing range of scales.
 
@@ -151,6 +156,8 @@ This shifts the question from:
 to:
 
 > What kind of organisation makes something a living system rather than a non-living process?
+
+Recent reassessments of Schrödinger's influential What Is Life? suggest that the book was less an attempt to define life than an attempt to explain the source of biological order. Nicholson argues that Schrödinger's central concern was how the remarkable orderliness of living systems could arise from physical processes, a question that subsequently helped shape molecular biology's emphasis on hereditary information, genetic control, and cellular mechanism. The continuing absence of consensus about life may therefore reflect not merely disagreement about definitions but uncertainty about the explanatory target itself.
 
 ## Why Trait Lists Are Not Enough
 
@@ -208,12 +215,6 @@ Life, on this view, is not best understood as a substance, a mechanism, or a che
 </div>
 
 This framework provides the foundation for understanding how living systems actively sustain themselves through agency and organised persistence.
-
-## Agency and Organised Persistence
-
-If life is viability-oriented organisation, a further question immediately arises.
-
-How is viability maintained?
 
 ## Agency and Organised Persistence
 
@@ -302,6 +303,8 @@ Most importantly, the definition makes explicit something that biological explan
 The question of life remains open not because biology lacks evidence but because evidence alone cannot determine the conceptual framework through which life is understood. Advances in molecular biology, systems biology, developmental biology, ecology, and evolutionary theory have transformed our knowledge of living systems, yet they have also revealed the limitations of definitions based solely on components, mechanisms, or trait lists.
 
 Across many areas of contemporary biology, attention has increasingly shifted toward organisation. Researchers investigate networks rather than isolated parts, processes rather than static structures, and system-level dynamics rather than individual components. Although these approaches differ in emphasis, they share a growing recognition that life cannot be understood solely by cataloguing what organisms contain. It must also be understood in terms of how those components are organised and sustained through time.
+
+Recent historical and philosophical analyses suggest that contemporary biology is increasingly moving beyond the deterministic and gene-centred explanatory framework that dominated much of the twentieth century. Rather than viewing organisation as the execution of information contained in hereditary structures, current research increasingly emphasises dynamic organisation, stochastic processes, cellular architecture, self-organisation, and context-dependent activity. APS participates in this broader shift while arguing that these developments become fully intelligible only when interpreted through viability-oriented, constraint-closed organisation.
 
 APS contributes to this broader movement by providing a unified explanatory framework centred on viability-oriented organisation and organised persistence. It does not replace established biological disciplines. Instead, it offers a conceptual structure capable of integrating their insights into a coherent account of what life is and why biological systems exhibit the distinctive properties they do.
 

@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
+revised: 2026-07-11
 cluster: conceptual-foundations
 
 abstract: >
@@ -145,6 +145,8 @@ APS stands for Agency, Process, and Scale. The framework is occasionally mistake
 </div>
 
 These three dimensions form the conceptual centre of the APS framework. Rather than explaining biological systems solely through isolated mechanisms, APS asks how activities, transformations, and organisational relationships combine to preserve viability through time.
+
+Readers seeking a detailed account of how these explanatory dimensions connect to the wider framework should continue to *The Core Structure of APS*, which provides the canonical explanation of the APS architecture and dependency structure.
 
 ### Agency
 
@@ -293,15 +295,43 @@ Life persists because continuity becomes organised.
 
 APS exists to explain how that organisation is achieved.
 
+## Continuing Through APS
+
+For readers encountering APS for the first time, the framework is best approached through a progressive orientation pathway.
+
+A useful sequence is:
+
+What Is APS?
+↓
+Understanding APS
+↓
+Naturalising Life
+↓
+How APS Explains Life
+↓
+The Core Structure of APS
+
+This pathway moves from an introduction to the framework, through its organisation and methodological foundations, toward the explanatory and architectural principles that structure the wider APS programme.
+
+Readers may then continue with APS Architecture Map, How APS Concepts Fit Together, or move directly into specialised domains such as development, ecology, evolution, cognition, diagnosis, resilience, and social organisation.
+
 ## Where to Go Next
 
-A useful next step is:
+AReaders seeking to understand how APS is organised should continue with:
 
-1. *How APS Explains Life* — a concise guide to the explanatory logic of the framework.
-2. *Understanding APS* — an overview of the major domains and pathways within the framework.
-3. *The Core Structure of APS* — a detailed explanation of how the framework fits together.
+1. *Understanding APS* — a guide to the major pathways, domains, and routes through the framework.
 
-Readers interested in specific continuity architectures may then explore the developmental, ecological, evolutionary, cognitive, diagnostic, and social domains of the framework.
+Readers interested in the methodological foundations of APS should continue with:
+
+2. *Naturalising Life* — an examination of how APS develops and stabilises biological concepts and renders life scientifically intelligible.
+
+Readers interested in the explanatory foundations of APS should continue with:
+
+3. *How APS Explains Life* — an introduction to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence.
+
+Readers seeking the full architecture of the framework should continue with:
+
+4. *The Core Structure of APS* — the canonical account of how the major concepts and domains of APS fit together within a unified explanatory structure.
 
 ## Key Terms
 

@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-16
+revised: 2026-07-11
 cluster: conceptual-foundations
 
 abstract: >
@@ -44,6 +44,8 @@ relatedArticles:
   - reductionism-in-biology-an-aps-clarification
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-intelligence-an-aps-clarification
+  - naturalising-life
+  - the-core-structure-of-aps-how-the-framework-fits-together
 ---
 
 ## Introduction
@@ -71,6 +73,12 @@ Rather than approaching biology primarily through classification, structure, inf
 This article provides one of the clearest entry points into the APS framework because it introduces the two explanatory steps that organise the entire project. The first identifies the target of biological explanation. The second clarifies the explanatory grammar through which that target becomes intelligible.
 
 [[box:what-biological-explanation-explains]]
+
+> **Where this article fits:** *Naturalising Life* explains the methodological foundations of APS and how biological concepts become scientifically intelligible. This article builds upon that foundation by explaining how biological explanation proceeds once its target has been identified.
+>
+> APS argues that biology seeks to explain viability-oriented organised persistence. The present article introduces the explanatory logic through which that target becomes intelligible. Readers seeking the wider conceptual architecture that emerges from this explanatory foundation should continue to *The Core Structure of APS*.
+
+The methodological foundations for this explanatory approach are developed in *Naturalising Life*, which explains how APS renders biological concepts scientifically intelligible through naturalisation and conceptual closure.
 
 ## Why Explanation Matters
 
@@ -276,9 +284,7 @@ The explanatory significance of repair and resilience therefore extends far beyo
 
 ## From Biological Explanation to the Wider Framework
 
-The first step of APS identifies what requires explanation.
-
-The second step clarifies how explanation must proceed.
+The first step of APS identifies what requires explanation. The second step clarifies how explanation must proceed.
 
 Together these steps establish the foundation of the wider framework.
 
@@ -295,6 +301,8 @@ The wider APS framework develops this question across multiple domains of biolog
 Together they form an integrated explanatory architecture organised around life's central achievement:
 
 > the maintenance of viable continuity through continual transformation.
+
+The full dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning is developed in *The Core Structure of APS*. That article provides the canonical account of how the explanatory foundations introduced here become organised into the wider APS framework.
 
 ## What APS Changes
 
@@ -378,9 +386,10 @@ Everything else follows from there.
 
 A useful next step is:
 
-1. *Understanding APS — The Structure of the Framework*
-2. *How APS Concepts Fit Together*
-3. *The Core Structure of APS — How the Framework Fits Together*
+1. *Understanding APS* — a guide to navigating the major domains and pathways of the framework.
+2. *The Core Structure of APS* — the canonical account of how the major concepts and domains of APS form a unified explanatory architecture.
+3. *APS Architecture Map* — a visual guide to the organisation of the framework.
+4. *How APS Concepts Fit Together* — an exploration of how key APS concepts relate to one another within the wider architecture.
 
 These articles explain how the wider framework is organised and how its central concepts relate to one another.
 

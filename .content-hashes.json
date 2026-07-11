@@ -25,8 +25,8 @@
     "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
-    "hash": "c28f16a8fda1adac",
-    "revised": "2026-06-15",
+    "hash": "fa171c1cbeb7a391",
+    "revised": "2026-07-11",
     "lockedSince": "2026-05-26"
   },
   "glossary/constraint-closure": {
@@ -1335,8 +1335,8 @@
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-architecture-map": {
-    "hash": "d665ab2e1fea949a",
-    "revised": "2026-06-15",
+    "hash": "9ac31080d9d86835",
+    "revised": "2026-07-11",
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-challenges-limitations-and-future-directions": {
@@ -1350,13 +1350,13 @@
     "lockedSince": "2026-05-13"
   },
   "orientation/how-aps-concepts-fit-together": {
-    "hash": "3efb6f7d00f2b2f1",
-    "revised": "2026-07-09",
+    "hash": "fe94956f7b4af54d",
+    "revised": "2026-07-11",
     "lockedSince": "2026-05-10"
   },
   "orientation/how-aps-explains-life": {
-    "hash": "d027542b5e3a07f2",
-    "revised": "2026-06-16",
+    "hash": "06f4f5a03f707470",
+    "revised": "2026-07-11",
     "lockedSince": "2026-05-26"
   },
   "orientation/how-to-read-this-aps-framework-website": {
@@ -1375,13 +1375,13 @@
     "lockedSince": "2026-07-10"
   },
   "orientation/understanding-aps-the-structure-of-the-framework": {
-    "hash": "27fe1c3fad9afa42",
-    "revised": "2026-07-09",
+    "hash": "bcc3d74df27213ee",
+    "revised": "2026-07-11",
     "lockedSince": "2026-05-26"
   },
   "articles/biological-explanation-what-needs-to-be-explained": {
-    "hash": "d180386ce40f3005",
-    "revised": "2026-06-16",
+    "hash": "563890cd60bff51a",
+    "revised": "2026-07-11",
     "lockedSince": "2026-04-27"
   },
   "articles/aps-and-autonomy-theory": {
@@ -1495,8 +1495,8 @@
     "lockedSince": "2026-06-26"
   },
   "articles/what-is-life-a-biological-question-revisited": {
-    "hash": "24da3b314e730db9",
-    "revised": "2026-06-29",
+    "hash": "684bdbcd8aab4539",
+    "revised": "2026-07-11",
     "lockedSince": "2026-06-28"
   },
   "articles/what-is-it-about-life": {
@@ -1615,8 +1615,8 @@
     "lockedSince": "2026-07-06"
   },
   "articles/how-did-matter-become-aware-of-itself": {
-    "hash": "2e60caa9a8ce6bf4",
-    "revised": "2026-07-09",
+    "hash": "e89a46a8aaec2133",
+    "revised": "2026-07-11",
     "lockedSince": "2026-07-07"
   },
   "glossary/awareness": {
@@ -1630,8 +1630,8 @@
     "lockedSince": "2026-07-08"
   },
   "articles/naturalising-life": {
-    "hash": "1c133598c94c3344",
-    "revised": "2026-07-08",
+    "hash": "647a4ab5b4e708a6",
+    "revised": "2026-07-11",
     "lockedSince": "2026-07-08"
   }
 }
