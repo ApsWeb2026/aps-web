@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-10
-revised: 2026-07-11
+revised: 2026-07-12
 cluster: conceptual-foundations
 
 abstract: >
@@ -16,27 +16,17 @@ abstract: >
   maintaining viable continuity through continual transformation, APS
   develops an explanatory grammar based on agency, process, and scale and
   a dependency architecture linking life to increasingly sophisticated
-  forms of organisation. The framework shows how biological evaluation
-  generates significance, how significance becomes organised through
-  integration and cognition, and how mind, selfhood, reflective agency,
-  and meaning emerge within increasingly complex forms of organised
-  persistence. The result is a unified account of how living systems
-  remain possible despite continual change and how increasingly
-  sophisticated forms of significance and meaning arise within the
-  biological world.
-
-question: >
-  Why does the APS framework possess the structure that it does?
+  forms of organisation. The framework shows how biological evaluation generates significance, how significance becomes organised through integration and cognition, and how mind, selfhood, reflective agency, meaning, value, morality, and ethics emerge within increasingly sophisticated forms of organised persistence. The result is a unified account of how living systems remain possible despite continual change and how increasingly sophisticated forms of significance, meaning, value, and ethical reflection arise within the biological world.
 
 keyPoints:
 - APS is an explanatory architecture rather than a collection of independent concepts.
 - The framework begins with the biological challenge of maintaining viable continuity through continual transformation.
 - Viability-oriented organised persistence provides the central phenomenon APS seeks to explain.
 - Agency, process, and scale form the explanatory grammar of the framework.
-- APS concepts are organised through a dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning.
+- APS concepts are organised through a dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, meaning, value, morality, and ethics.
 - Biological evaluation generates significance, while integration organises significance into increasingly coherent forms.
 - Cognition, mind, selfhood, and reflective agency emerge through progressively more integrated forms of significance.
-- Meaning represents the culmination of the APS explanatory pathway while remaining rooted in biological organisation.
+- Meaning represents the culmination of the Matter-to-Mind pathway and the organisational foundation from which value, morality, and ethics emerge.
 - Development, ecology, evolution, diagnosis, and social organisation extend the same organisational logic across broader domains.
 
 relatedGlossaryTerms:
@@ -592,7 +582,7 @@ This transition prepares the way for meaning in its fullest sense.
 
 ## Meaning
 
-Meaning represents the culmination of the APS dependency architecture.
+Meaning represents the culmination of the Matter-to-Mind pathway within APS.
 
 Throughout the preceding sections, significance has been progressively organised, integrated, stabilised, and transformed. What began as distinctions relevant to viability has become increasingly coherent, temporally organised, self-related, and reflective.
 
@@ -613,6 +603,33 @@ The architecture reaches its culmination here because meaning represents the mos
 The remarkable feature of this sequence is that it does not require a separate explanatory system. The pathway from agency to meaning emerges from the same organisational foundations already established through viability-oriented organised persistence.
 
 APS therefore does not explain meaning by departing from biology. It explains meaning by showing how increasingly sophisticated forms of organisation emerge within the biological world itself.
+
+## Meaning, Value, and Ethics
+
+Meaning is not the end of the APS architecture. It is a major organisational achievement within the Matter-to-Mind pathway, but it also creates the conditions under which new forms of evaluative organisation become possible.
+
+Once significance becomes organised as meaning, some meanings acquire relative stability within agency and become values. In human societies, values become increasingly organised through communication, culture, institutions, and collective life. This gives rise to shared evaluation, social norms, moral evaluation, morality, and ethics.
+
+APS therefore recognises a second major architecture emerging from the Matter-to-Mind pathway. This Evaluation-to-Ethics Architecture explains how what matters can become progressively organised into value, normativity, moral concern, and reflective ethical inquiry.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-evaluation-ethics.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-evaluation-ethics.png"
+      alt="APS Evaluation-to-Ethics Architecture"
+      loading="lazy"
+    />
+  </a>
+ 
+Together, the Matter-to-Mind pathway and the Evaluation-to-Ethics pathway constitute the two largest organisational trajectories currently identified within APS.
+
+  <p class="aps-diagram-caption">
+    <strong>The Evaluation-to-Ethics Architecture.</strong>
+    APS explains how evaluative organisation develops from Biological Evaluation through Significance, Meaning, Value, Human Values, Shared Evaluation, Social Norms, Moral Evaluation, Morality, and Ethics. The pathway traces the progressive organisation of what matters, from viability-relative significance in living systems to reflective ethical inquiry in human societies.
+  </p>
+</div>
+
+The Evaluation-to-Ethics Architecture does not replace the Agency–Process–Scale perspective or the Matter-to-Mind pathway. Rather, it follows one aspect of living organisation—evaluation—through increasingly complex forms of organisation. The result is a continuous explanatory trajectory linking biological significance to some of the most sophisticated forms of human social and ethical life.
 
 # Meaning and Extension
 
@@ -866,7 +883,7 @@ One of the most enduring questions in science and philosophy concerns how mind e
 
 APS belongs most closely to this latter tradition. Rather than treating mind as a separate substance or reducing it to a collection of physical components, the framework approaches the transition from life to mind as a problem of organisational development. The central question is not how non-living matter suddenly acquires mentality, but how increasingly sophisticated forms of organisation emerge from the challenge of maintaining viable continuity through time.
 
-Within APS, mind does not appear as an isolated phenomenon. It emerges within a broader dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, selfhood, reflective agency, and meaning. The framework therefore treats mind as part of a continuous organisational pathway rather than as an explanatory discontinuity requiring fundamentally different principles of explanation.
+Within APS, mind does not appear as an isolated phenomenon. It emerges within a broader dependency architecture linking life, evaluation, significance, cognition, mind, selfhood, reflective agency, meaning, value, morality, and ethic. The framework therefore treats mind as part of a continuous organisational pathway rather than as an explanatory discontinuity requiring fundamentally different principles of explanation.
 
 This position aligns APS with a growing body of work in theoretical biology, enactivism, embodied cognition, and organisational approaches to mind that emphasise continuity between life and cognition. However, APS extends this tradition by proposing a more explicit dependency architecture through which increasingly sophisticated forms of organisation emerge from viability-oriented organised persistence. In this respect, the framework seeks not merely to assert continuity between life and mind, but to clarify the organisational transitions through which that continuity becomes intelligible.
 
@@ -929,20 +946,23 @@ Central Question
 
 > How does organised significance become coherent self–world organisation?
 
-## Meaning and Values
+### Meaning, Values, and Ethics
 
-These articles investigate the emergence of meaning, values, morality, and reflective life.
+Core Topics:
 
-Core Topics
 - Biological Meaning
 - Meaning
-- Values
+- Value
+- Human Values
+- Shared Evaluation
+- Social Norms
+- Moral Evaluation
 - Morality
-- The Meaning of Life
+- Ethics
 
-Central Question
+Central Question:
 
-> How does organised significance become interpreted and lived?
+How does organised significance become value, morality, and ethical reflection?
 
 ### Reader Pathway
 
@@ -954,7 +974,7 @@ Cognition
 ↓
 Mind & Selfhood
 ↓
-Meaning & Values
+Meaning, Values, and Ethics
 
 Readers may enter the framework at any point, but the architecture described throughout this article provides the conceptual map through which the relationships among these domains become visible.
 

@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-07-11
+revised: 2026-07-12
 cluster: conceptual-foundations
 
 abstract: >
@@ -263,6 +263,27 @@ Within APS, cognition develops through a directional organisational pathway:
 This sequence describes increasingly integrated forms of viability-oriented organisation emerging within living systems.
 
 APS therefore rejects informational reductionism, representational primacy, computational definitions of life, and the conflation of life, cognition, intelligence, and consciousness. Instead, each level emerges organisationally from prior conditions already established within living systems.
+
+The cognition pathway explains how biological evaluation develops into significance, meaning, cognition, mind, selfhood, and reflective agency. APS also recognises a second major architecture emerging from this pathway. Once significance becomes organised as meaning, it can stabilise as value and become increasingly organised within collective human life. This process gives rise to shared evaluation, social norms, moral evaluation, morality, and ethics.
+
+The diagram below summarises this Evaluation-to-Ethics Architecture and shows how APS connects the organisation of meaning to the organisation of moral and ethical life.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-evaluation-ethics.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-evaluation-ethics.png"
+      alt="APS Evaluation-to-Ethics Architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>The Evaluation-to-Ethics Architecture.</strong>
+    APS explains how evaluative organisation develops from Biological Evaluation through Significance, Meaning, Value, Human Values, Shared Evaluation, Social Norms, Moral Evaluation, Morality, and Ethics. The pathway traces the progressive organisation of what matters, from viability-relative significance in living systems to reflective ethical inquiry in human societies.
+  </p>
+</div>
+
+This architecture serves as a bridge between the cognition-and-mind domain and the social-organisation domain. It explains how the evaluative capacities already present within living systems can become progressively organised into values, norms, moral concern, and ethical reflection. The result is a continuous explanatory pathway linking biological evaluation to some of the most sophisticated forms of human social organisation.
 
 [[box:cognition-pathway]]
 

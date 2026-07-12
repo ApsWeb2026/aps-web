@@ -3,7 +3,7 @@ title: "How APS Concepts Fit Together"
 slug: "how-aps-concepts-fit-together"
 type: orientation
 date: 2026-05-10
-revised: 2026-07-11
+revised: 2026-07-12
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
@@ -240,6 +240,32 @@ Cognition reveals how continuity becomes increasingly sensitive to conditions af
 Social organisation reveals how continuity can become distributed across interacting agents, institutions, cultural systems, and collective forms of coordination. Persistence is not always confined to individual organisms. Under some circumstances, continuity becomes organised across networks of interacting individuals whose activities contribute to shared forms of stability, adaptation, and resilience.
 
 These pathways illustrate a broader lesson: APS concepts remain interconnected because they all contribute to understanding how viable continuity is organised across different domains, scales, and timescales.
+
+## From Biological Evaluation to Ethics
+
+One of the clearest examples of how APS concepts remain connected rather than isolated can be seen in the framework's Evaluation-to-Ethics Architecture.
+
+APS begins with Biological Evaluation, through which living systems differentiate conditions according to their consequences for organised persistence. This evaluative activity generates significance, significance becomes organised as meaning, and meaning can stabilise as value. In human societies, values become increasingly organised through shared evaluation, social norms, moral evaluation, morality, and ethics.
+
+The resulting pathway demonstrates how concepts that are often treated as belonging to separate disciplines can be understood as successive developments of a common organisational process. Rather than treating meaning, value, morality, and ethics as independent domains, APS explains how they emerge through increasingly integrated forms of evaluative organisation.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-evaluation-ethics.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-evaluation-ethics.png"
+      alt="APS Evaluation-to-Ethics Architecture"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>The Evaluation-to-Ethics Architecture.</strong>
+    APS explains how evaluative organisation develops from Biological Evaluation through Significance, Meaning, Value, Human Values, Shared Evaluation, Social Norms, Moral Evaluation, Morality, and Ethics. The pathway traces the progressive organisation of what matters, from viability-relative significance in living systems to reflective ethical inquiry in human societies.
+  </p>
+</div>
+
+
+This architecture does not replace the Agency–Process–Scale perspective discussed earlier in this article. Rather, it illustrates how one aspect of living organisation—evaluation—can be followed through increasingly complex forms of organisation. The pathway therefore serves as a concrete example of a broader APS principle: concepts that appear distinct at first often prove to be interconnected expressions of the same underlying organised persistence viewed from different explanatory perspectives.
 
 ## What APS Changes — and What It Does Not
 
