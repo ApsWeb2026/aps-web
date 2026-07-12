@@ -24,7 +24,6 @@ relatedGlossaryTerms:
   - social-norms
   - accountability
   - responsibility
-  - moral-standing
   - moral-evaluation
 relatedArticles:
   - what-are-social-norms
@@ -33,58 +32,51 @@ relatedArticles:
 
 references:
   - id: habermas1990
-    authors:
-      - Jürgen Habermas
+    authors: "Jürgen Habermas"
     year: 1990
     title: Moral Consciousness and Communicative Action
     publisher: MIT Press
 
   - id: rawls1999
-    authors:
-      - John Rawls
+    authors: "John Rawls"
     year: 1999
     title: A Theory of Justice
     publisher: Harvard University Press
 
   - id: scanlon1998
-    authors:
-      - T. M. Scanlon
+    authors: "T. M. Scanlo"
     year: 1998
     title: What We Owe to Each Other
     publisher: Harvard University Press
 
   - id: darwall2006
-    authors:
-      - Stephen Darwall
+    authors: "Stephen Darwall"
     year: 2006
     title: The Second-Person Standpoint
     publisher: Harvard University Press
 
   - id: bicchieri2016
-    authors:
-      - Cristina Bicchieri
+    authors: "Cristina Bicchieri"
     year: 2016
-    title: Norms in the Wild: How to Diagnose, Measure, and Change Social Norms
+    title: "Norms in the Wild: How to Diagnose, Measure, and Change Social Norms"
     publisher: Oxford University Press
 
   - id: young2015
-    authors:
-      - H. Peyton Young
+    authors: "H. Peyton Young"
     year: 2015
     title: The Evolution of Social Norms
     journal: Annual Review of Economics
-    volume: 7
-    pages: 359-387
+    volume: "7"
+    pages: "359-387"
     doi: 10.1146/annurev-economics-080614-115322
 
   - id: ostrom2000
-    authors:
-      - Elinor Ostrom
+    authors: "Elinor Ostrom"
     year: 2000
     title: Collective Action and the Evolution of Social Norms
     journal: Journal of Economic Perspectives
-    volume: 14
-    pages: 137-158
+    volume: "14"
+    pages: "137-158"
     doi: 10.1257/jep.14.3.137
 ---
 

@@ -1635,12 +1635,12 @@
     "lockedSince": "2026-07-08"
   },
   "articles/what-are-social-norms": {
-    "hash": "79761b3a5d2c6734",
+    "hash": "08d0d42393fe79e9",
     "revised": "2026-07-12",
     "lockedSince": "2026-07-12"
   },
   "glossary/accountability": {
-    "hash": "aabcfcf1df8c217b",
+    "hash": "707a4cf30c669ec3",
     "revised": "2026-07-12",
     "lockedSince": "2026-07-12"
   },
@@ -1658,5 +1658,45 @@
     "hash": "ff562432a9505577",
     "revised": "2026-07-12",
     "lockedSince": "2026-05-30"
+  },
+  "articles/what-is-ethics": {
+    "hash": "d9040158258f68c1",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "articles/what-is-moral-evaluation": {
+    "hash": "324e012eff80260d",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "articles/what-is-morality": {
+    "hash": "54b0b218fabb1de5",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/ethics": {
+    "hash": "f33ccb0058771c39",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/human-values": {
+    "hash": "a5194f559b5c397b",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/morality": {
+    "hash": "9dbd0fc366e238e2",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/reason": {
+    "hash": "4ae82c73c20beb07",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/responsibility": {
+    "hash": "31ea0b1a8aca2e56",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
   }
 }

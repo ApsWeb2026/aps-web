@@ -25,36 +25,31 @@ relatedGlossaryTerms:
   - moral-evaluation
   - accountability
   - responsibility
-  - moral-standing
   - morality
 relatedArticles:
   - what-is-moral-evaluation
   - what-is-ethics
 references:
   - id: habermas1990
-    authors:
-      - Jürgen Habermas
+    authors: "Jürgen Habermas"
     year: 1990
     title: Moral Consciousness and Communicative Action
     publisher: MIT Press
 
   - id: rawls1999
-    authors:
-      - John Rawls
+    authors: "John Rawls"
     year: 1999
     title: A Theory of Justice
     publisher: Harvard University Press
 
   - id: scanlon1998
-    authors:
-      - T. M. Scanlon
+    authors: "T. M. Scanlon"
     year: 1998
     title: What We Owe to Each Other
     publisher: Harvard University Press
 
-  - id: darwall2006
-    authors:
-      - Stephen Darwall
+  - id: darwall2006"
+    authors: "Stephen Darwall"
     year: 2006
     title: The Second-Person Standpoint
     publisher: Harvard University Press

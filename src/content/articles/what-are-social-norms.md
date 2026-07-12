@@ -32,80 +32,69 @@ relatedArticles:
 
 references:
   - id: bicchieri2016
-    authors:
-      - Cristina Bicchieri
+    authors: "Cristina Bicchieri"
     year: 2016
-    title: Norms in the Wild: How to Diagnose, Measure, and Change Social Norms
+    title: "Norms in the Wild: How to Diagnose, Measure, and Change Social Norms"
     publisher: Oxford University Press
 
   - id: elster1989
-    authors:
-      - Jon Elster
+    authors: "Jon Elster"
     year: 1989
-    title: The Cement of Society: A Study of Social Order
+    title: "The Cement of Society: A Study of Social Order"
     publisher: Cambridge University Press
 
   - id: hechter2001
-    authors:
-      - Michael Hechter
-      - Karl-Dieter Opp
+    authors: "Michael Hechter, Karl-Dieter Opp"
     year: 2001
     title: Social Norms
     publisher: Russell Sage Foundation
 
   - id: opp2001
-    authors:
-      - Karl-Dieter Opp
+    authors: "Karl-Dieter Opp"
     year: 2001
     title: How Do Norms Emerge? An Outline of a Theory
     journal: Mind & Society
-    volume: 2
-    pages: 101-128
+    volume: "2"
+    pages: "101-128"
 
   - id: young2015
-    authors:
-      - H. Peyton Young
+    authors: "H. Peyton Young"
     year: 2015
     title: The Evolution of Social Norms
     journal: Annual Review of Economics
-    volume: 7
-    pages: 359-387
+    volume: "7"
+    pages: "359-387"
     doi: 10.1146/annurev-economics-080614-115322
 
   - id: ostrom2000
-    authors:
-      - Elinor Ostrom
+    authors: "Elinor Ostrom"
     year: 2000
     title: Collective Action and the Evolution of Social Norms
     journal: Journal of Economic Perspectives
-    volume: 14
-    pages: 137-158
+    volume: "14"
+    pages: "137-158"
     doi: 10.1257/jep.14.3.137
 
   - id: north1990
-    authors:
-      - Douglass C. North
+    authors: "Douglass C. North"
     year: 1990
     title: Institutions, Institutional Change and Economic Performance
     publisher: Cambridge University Press
 
   - id: scott2014
-    authors:
-      - W. Richard Scott
+    authors: "W. Richard Scott"
     year: 2014
     title: Institutions and Organizations
     publisher: Sage Publications
 
   - id: rawls1999
-    authors:
-      - John Rawls
+    authors: "John Rawls"
     year: 1999
     title: A Theory of Justice
     publisher: Harvard University Press
 
   - id: habermas1990
-    authors:
-      - Jürgen Habermas
+    authors: "Jürgen Habermas"
     year: 1990
     title: Moral Consciousness and Communicative Action
     publisher: MIT Press
@@ -136,6 +125,8 @@ This definition emphasises that norms are forms of social organisation rather th
 Because norms organise expectations, they help create predictability within social life. They allow individuals to anticipate how others are likely to behave, coordinate shared activities, distribute responsibilities, and maintain relationships across time. This organisational role explains why norms are foundational to the development of larger social systems and institutions. Communities do not simply possess norms; they continually reproduce them through participation, interpretation, and response.
 
 Contemporary research has approached social norms from several complementary perspectives, including collective expectations, social coordination, institutional organisation, and social learning. Despite important differences in emphasis, there is broad agreement that norms depend upon shared expectations that are sustained through ongoing social participation rather than existing independently of the communities that enact them (see Bicchieri, 2016; Elster, 1989; Young, 2015.).
+
+[[box:social-norms-are-not-laws]]
 
 ### Social Norms Are Not Laws
 
