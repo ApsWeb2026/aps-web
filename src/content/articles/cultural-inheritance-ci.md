@@ -36,7 +36,7 @@ relatedGlossaryTerms:
   - culture
   - symbolic-coordination
   - communication
-  - social-norm
+  - social-norms
   - institutions
   - technology
   - organised-persistence

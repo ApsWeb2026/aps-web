@@ -27,7 +27,7 @@ relatedGlossaryTerms:
   - social-organisation
   - coordination
   - communication
-  - social-norm
+  - social-norms
   - symbolic-coordination
   - culture
   - cultural-inheritance

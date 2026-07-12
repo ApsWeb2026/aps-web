@@ -1633,5 +1633,30 @@
     "hash": "647a4ab5b4e708a6",
     "revised": "2026-07-11",
     "lockedSince": "2026-07-08"
+  },
+  "articles/what-are-social-norms": {
+    "hash": "79761b3a5d2c6734",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/accountability": {
+    "hash": "aabcfcf1df8c217b",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/moral-evaluation": {
+    "hash": "0570a875d858605e",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/shared-evaluation": {
+    "hash": "7e93a775abfdd4d9",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-07-12"
+  },
+  "glossary/social-norms": {
+    "hash": "ff562432a9505577",
+    "revised": "2026-07-12",
+    "lockedSince": "2026-05-30"
   }
 }

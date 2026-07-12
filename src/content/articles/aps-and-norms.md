@@ -24,7 +24,7 @@ abstract: >
   continuity.
 
 relatedGlossaryTerms:
-  - social-norm
+  - social-norms
   - normativity
   - evaluation
   - coordination
