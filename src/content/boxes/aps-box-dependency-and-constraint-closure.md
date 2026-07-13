@@ -11,8 +11,6 @@ revised: 2026-07-13
 cluster: methodology-and-explanation
 ---
 
-### Dependency and Constraint Closure
-
 Dependency relations do not disappear when biological organisation becomes reciprocal.
 
 Living systems are characterised by feedback, mutual regulation, and constraint closure. Components often contribute to the maintenance of the very organisation upon which they depend.

@@ -11,8 +11,6 @@ revised: 2026-07-13
 cluster: methodology-and-explanation
 ---
 
-### Dependency Is Not Causation
-
 Architectural dependency does not mean that one phenomenon causes another in a simple linear sequence.
 
 A dependency claim states that a phenomenon requires certain organisational conditions in order to exist, operate, or become intelligible.

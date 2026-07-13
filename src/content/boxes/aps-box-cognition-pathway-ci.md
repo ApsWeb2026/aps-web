@@ -15,8 +15,6 @@ summary: >
   of viability-oriented organisation.
 ---
 
-## Cognition in APS
-
 Within APS, cognition is understood as an organisational development emerging from progressively integrated forms of viability-oriented activity.
 
 The pathway can be summarised as:

@@ -129,7 +129,7 @@ references:
     publisher: Harvard University Press
 ---
 
-# Introduction
+## Introduction
 
 APS seeks to explain how increasingly complex forms of living organisation become possible. Throughout the framework, explanatory pathways are used to connect concepts that appear to stand in systematic organisational relationships with one another. These pathways are not intended merely as summaries of previously established ideas. They are explanatory tools that help reconstruct how different forms of organisation relate, identify transitions that require investigation, and reveal the continuity linking life, cognition, mind, meaning, morality, and ethics.
 

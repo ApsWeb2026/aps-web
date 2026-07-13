@@ -11,8 +11,6 @@ revised: 2026-07-13
 cluster: methodology-and-explanation
 ---
 
-### Strong, Provisional, and Speculative Dependencies
-
 Not all dependency claims possess the same degree of support.
 
 APS distinguishes between three broad classes of dependency relation.
