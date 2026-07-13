@@ -18,6 +18,7 @@ relatedGlossaryTerms:
   - biological-organisation
   - persistence
   - constraint-closure
+  - biological-explanation
 relatedArticles:
 - description-explanation.and-definition-in-biology
 researchStreams: []

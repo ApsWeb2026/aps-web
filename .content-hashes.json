@@ -1698,5 +1698,40 @@
     "hash": "31ea0b1a8aca2e56",
     "revised": "2026-07-12",
     "lockedSince": "2026-07-12"
+  },
+  "articles/architectural-dependency-and-biological-explanation": {
+    "hash": "003d0714b0467e1e",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
+  },
+  "glossary/architectural-dependency": {
+    "hash": "e689cf65c7595a5d",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
+  },
+  "glossary/constitutive-dependency": {
+    "hash": "cda8f0f18877ca04",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
+  },
+  "glossary/dependency-hypothesis": {
+    "hash": "34ac7b1ae8ddf65a",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
+  },
+  "glossary/enabling-dependency": {
+    "hash": "6e80c9e7e9a49ae1",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
+  },
+  "glossary/organisational-dependency": {
+    "hash": "f7049d848ad8542d",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
+  },
+  "glossary/biological-explanation": {
+    "hash": "41f35ffe6212d48f",
+    "revised": "2026-07-13",
+    "lockedSince": "2026-07-13"
   }
 }

@@ -18,6 +18,7 @@ relatedGlossaryTerms:
   - viability
   - persistence
   - constraint-closure
+  - biological-explanation
 relatedArticles: []
 researchStreams: []
 references: []

@@ -44,6 +44,7 @@ relatedGlossaryTerms:
   - purpose
   - normativity
   - constraint-closure
+  - biological-explanation
 
 relatedArticles:
   - agency-as-the-defining-activity-of-life

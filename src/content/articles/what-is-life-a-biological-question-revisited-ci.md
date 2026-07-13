@@ -28,6 +28,7 @@ relatedGlossaryTerms:
   - normativity
   - constraint-closure
   - evaluation
+  - biological-explanation
 
 relatedArticles:
   - agency-as-the-defining-activity-of-life
