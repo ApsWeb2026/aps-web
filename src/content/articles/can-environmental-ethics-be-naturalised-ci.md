@@ -503,37 +503,21 @@ Seen in this way, irreversibility and responsibility become inseparable. The mor
 
 ## Toward Environmental Responsibility
 
-The discussion so far suggests a provisional understanding of environmental responsibility.
-
-Environmental responsibility does not arise because every environmental entity possesses identical standing.
-
-Nor does it arise because persistence itself is morally authoritative.
+The discussion so far suggests a provisional understanding of environmental responsibility. Environmental responsibility does not arise because every environmental entity possesses identical standing. Nor does it arise because persistence itself is morally authoritative.
 
 Instead, responsibility emerges where agents possess the capacity to affect conditions that matter to organisms, ecological relations, environmental systems, and future possibilities.
 
-The more extensive the consequences of an action, the greater the need for evaluation.
-
-The more difficult a loss is to reverse, the greater the need for justification.
-
-The more vulnerable the affected organisms, communities, or systems, the greater the need for moral scrutiny.
+The more extensive the consequences of an action, the greater the need for evaluation. The more difficult a loss is to reverse, the greater the need for justification. The more vulnerable the affected organisms, communities, or systems, the greater the need for moral scrutiny.
 
 Environmental responsibility therefore concerns the relationship between power and consequence.
 
 Agents capable of transforming environmental conditions acquire reasons to consider how those transformations affect the forms of significance already present within the living world.
 
-This responsibility may extend beyond immediate self-interest.
-
-It may extend beyond present communities.
-
-It may extend beyond currently existing organisms.
+This responsibility may extend beyond immediate self-interest. It may extend beyond present communities. It may extend beyond currently existing organisms.
 
 The significance of this extension becomes increasingly apparent when environmental actions alter not merely present conditions but the possibilities available to future life.
 
-A conservation decision may influence which species persist decades from now.
-
-Habitat destruction may shape ecological relations long after current communities have disappeared.
-
-Climate decisions may determine environmental conditions inherited by future generations.
+A conservation decision may influence which species persist decades from now. Habitat destruction may shape ecological relations long after current communities have disappeared. Climate decisions may determine environmental conditions inherited by future generations.
 
 The deepest environmental questions therefore emerge when present agents possess the power to shape the conditions under which future organisms, communities, and persons will live.
 
@@ -549,13 +533,13 @@ The preceding sections have shown that environmental ethics cannot be reduced to
 
 The strongest challenge arises when those affected do not yet exist.
 
-Future persons cannot participate in present decisions.
+- Future persons cannot participate in present decisions.
 
-Future communities cannot negotiate with current institutions.
+- Future communities cannot negotiate with current institutions.
 
-Future organisms cannot resist present environmental transformations.
+- Future organisms cannot resist present environmental transformations.
 
-Future ecological relations cannot defend themselves against present actions.
+- Future ecological relations cannot defend themselves against present actions.
 
 Yet many of the most pressing environmental concerns appear to depend precisely upon responsibilities extending beyond currently existing life.
 
@@ -579,13 +563,13 @@ The future therefore becomes part of the evaluative field.
 
 This does not require future persons to be present evaluators. Nor does it require future organisms to possess current claims in the same way as existing organisms. Rather, reflective agents can recognise that present actions help determine the conditions under which future significance, agency, value, and responsibility will emerge.
 
-Future life matters because it represents future centres of significance.
+- Future life matters because it represents future centres of significance.
 
-Future persons may not yet exist, but the conditions necessary for their agency can be affected now.
+- Future persons may not yet exist, but the conditions necessary for their agency can be affected now.
 
-Future non-human organisms may not yet be alive, but the ecological possibilities supporting their existence can be expanded or foreclosed.
+- Future non-human organisms may not yet be alive, but the ecological possibilities supporting their existence can be expanded or foreclosed.
 
-Future communities may not yet be organised, but the environmental inheritance they receive is already being shaped.
+- Future communities may not yet be organised, but the environmental inheritance they receive is already being shaped.
 
 This perspective shifts attention away from persistence alone.
 
@@ -597,13 +581,11 @@ The ethical significance of future life therefore arises not from a mysterious o
 
 Future generations cannot currently impose costs upon those who shape their inheritance.
 
-Future ecosystems cannot negotiate with present institutions.
+- Future ecosystems cannot negotiate with present institutions.
 
-Future communities cannot participate in present political decisions.
+- Future communities cannot participate in present political decisions.
 
-This asymmetry does not automatically determine what obligations exist.
-
-It does, however, explain why environmental responsibility becomes ethically significant.
+This asymmetry does not automatically determine what obligations exist. It does, however, explain why environmental responsibility becomes ethically significant.
 
 Environmental ethics therefore extends beyond concern for present organisms and present communities. It asks how current actions shape the conditions under which future significance, agency, value, and responsibility will become possible.
 
@@ -611,9 +593,7 @@ The challenge of future life reveals something fundamental about environmental e
 
 ## What APS Can Explain—and What It Cannot Yet Explain
 
-The purpose of this article has not been to present a completed APS environmental ethic.
-
-Its purpose has been to determine what APS already contributes to environmental ethics and where important questions remain open.
+The purpose of this article has not been to present a completed APS environmental ethic. Its purpose has been to determine what APS already contributes to environmental ethics and where important questions remain open.
 
 APS already possesses substantial explanatory resources.
 
@@ -657,11 +637,7 @@ APS does not yet possess a fully articulated account of adjudication.
 
 Environmental conflicts often involve multiple legitimate claims. The framework does not yet provide a complete method for determining how competing organismic, ecological, social, and intergenerational interests should be weighed.
 
-APS does not yet possess a complete theory of environmental justice.
-
-Questions concerning unequal vulnerability, historical responsibility, political power, and the distribution of environmental burdens require further development.
-
-APS does not yet provide a sufficiently detailed account of institutional and collective responsibility.
+APS does not yet possess a complete theory of environmental justice. Questions concerning unequal vulnerability, historical responsibility, political power, and the distribution of environmental burdens require further development. APS does not yet provide a sufficiently detailed account of institutional and collective responsibility.
 
 Many environmental decisions are made not by isolated individuals but by governments, corporations, scientific institutions, and social systems. The relationship between agency, responsibility, and collective action remains underdeveloped.
 
@@ -696,25 +672,22 @@ Environmental Conditions
 → Environmental Responsibility  
 → Environmental Ethics
 
-This sequence should not be interpreted as a canonical dependency pathway.
-
-At present it functions only as a research architecture.
-
+This sequence should not be interpreted as a canonical dependency pathway. At present it functions only as a research architecture. 
 Its purpose is to identify the principal explanatory transitions requiring further investigation.
 
 Several of these transitions remain open.
 
-How does environmental value become moral standing?
+- How does environmental value become moral standing?
 
-How should different forms of standing be compared?
+- How should different forms of standing be compared?
 
-How does moral evaluation generate justified obligation?
+- How does moral evaluation generate justified obligation?
 
-What role should vulnerability, power, irreversibility, and future possibility play?
+- What role should vulnerability, power, irreversibility, and future possibility play?
 
-How should environmental justice be incorporated?
+- How should environmental justice be incorporated?
 
-How should collective institutions be understood within an environmental ethics of responsibility?
+- How should collective institutions be understood within an environmental ethics of responsibility?
 
 These questions define a future research programme rather than a completed theory.
 
@@ -728,15 +701,9 @@ From this perspective, environmental ethics remains continuous with the wider AP
 
 ## Conclusion — From What Matters to What Ought to Be Protected
 
-The article began with a conservation conflict.
+The article began with a conservation conflict. A population of invasive animals threatened native organisms and ecological relations, and protecting one form of life appeared to require harming another. The situation exposed a problem that recurs throughout environmental ethics: what should be protected when multiple legitimate claims cannot all be satisfied?
 
-A population of invasive animals threatened native organisms and ecological relations. Protecting one form of life appeared to require harming another. The situation exposed a problem that recurs throughout environmental ethics.
-
-What should be protected when multiple legitimate claims cannot all be satisfied?
-
-The answer cannot be found simply by identifying which organisms persist.
-
-Nor can it be found by privileging the largest scale, the most extensive system, the greatest continuity, or the most successful form of organisation.
+The answer cannot be found simply by identifying which organisms persist. Nor can it be found by privileging the largest scale, the most extensive system, the greatest continuity, or the most successful form of organisation.
 
 As the discussion expanded, the problem became progressively more demanding.
 
