@@ -103,7 +103,7 @@ references:
   - id: caney2014
     authors: Caney, S.
     year: 2014
-    title: Two Kinds of Climate Justice: Avoiding Harm and Sharing Burdens
+    title: "Two Kinds of Climate Justice: Avoiding Harm and Sharing Burdens"
     journal: The Journal of Political Philosophy
     volume: "22"
     issue: "2"
