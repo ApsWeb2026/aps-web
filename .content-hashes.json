@@ -695,8 +695,8 @@
     "lockedSince": "2026-05-22"
   },
   "articles/plant-cognition-aps-interpretation": {
-    "hash": "7c77565855c53415",
-    "revised": "2026-07-01",
+    "hash": "f5c9398d83df87b2",
+    "revised": "2026-07-14",
     "lockedSince": "2026-07-01"
   },
   "articles/processual-individuality": {
@@ -1733,5 +1733,20 @@
     "hash": "41f35ffe6212d48f",
     "revised": "2026-07-13",
     "lockedSince": "2026-07-13"
+  },
+  "glossary/environmental-responsibility": {
+    "hash": "c63a079412d120d1",
+    "revised": "2026-07-14",
+    "lockedSince": "2026-07-14"
+  },
+  "glossary/environmental-value": {
+    "hash": "95b87807f2241951",
+    "revised": "2026-07-14",
+    "lockedSince": "2026-07-14"
+  },
+  "glossary/moral-standing": {
+    "hash": "ebd1c679518b06ed",
+    "revised": "2026-07-14",
+    "lockedSince": "2026-07-14"
   }
 }
