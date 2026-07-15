@@ -1340,8 +1340,8 @@
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-challenges-limitations-and-future-directions": {
-    "hash": "73eab2678ff0776a",
-    "revised": "2026-06-15",
+    "hash": "481fe325f181cb20",
+    "revised": "2026-07-15",
     "lockedSince": "2026-06-08"
   },
   "orientation/aps-viability-oriented-framework": {
@@ -1355,8 +1355,8 @@
     "lockedSince": "2026-05-10"
   },
   "orientation/how-aps-explains-life": {
-    "hash": "06f4f5a03f707470",
-    "revised": "2026-07-11",
+    "hash": "16f38a1e41f7fa05",
+    "revised": "2026-07-15",
     "lockedSince": "2026-05-26"
   },
   "orientation/how-to-read-this-aps-framework-website": {
@@ -1370,8 +1370,8 @@
     "lockedSince": "2026-05-17"
   },
   "orientation/the-core-structure-of-aps-how-the-framework-fits-together": {
-    "hash": "e2d4f2daa32d92c3",
-    "revised": "2026-07-12",
+    "hash": "7eaadf94dc0ab967",
+    "revised": "2026-07-15",
     "lockedSince": "2026-07-10"
   },
   "orientation/understanding-aps-the-structure-of-the-framework": {
@@ -1700,8 +1700,8 @@
     "lockedSince": "2026-07-12"
   },
   "articles/architectural-dependency-and-biological-explanation": {
-    "hash": "be35397c6e6ead7e",
-    "revised": "2026-07-13",
+    "hash": "713af826865de3f0",
+    "revised": "2026-07-15",
     "lockedSince": "2026-07-13"
   },
   "glossary/architectural-dependency": {

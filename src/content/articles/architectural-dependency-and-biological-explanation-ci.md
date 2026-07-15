@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-07-13
+revised: 2026-07-15
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -315,6 +315,16 @@ The guiding question remains unchanged:
 
 Different answers reveal different forms of dependency.
 
+Architectural dependency and organisational transition address different explanatory questions.
+
+Architectural dependency identifies relations of organisational necessity. It asks what must already be organised for a capacity, process, or form of activity to operate or become intelligible.
+
+Organisational transition asks how those relations become established, reorganised, or stabilised through time.
+
+Architectural dependency maps necessary organisational relations. Organisational transition explains how those relations become operative.
+
+The two approaches are therefore complementary. Dependency identifies the architecture of a system; transition investigates the transformations through which that architecture emerges, changes, or becomes consolidated.
+
 ## Dependency and Evidence
 
 Dependency relations should be distinguished from the evidence used to support them.
@@ -324,6 +334,13 @@ A common mistake is to treat developmental order, evolutionary history, or compa
 Developmental, evolutionary, and comparative analyses therefore do not define dependencies. They provide reasons for accepting, rejecting, strengthening, or revising dependency claims. A developmental sequence may reveal an organisational dependency. An evolutionary transition may support one. Comparative variation may increase or decrease confidence in a proposed architecture. Yet none of these observations establishes dependency by itself.
 
 Maintaining this distinction is important because it prevents evidential support from being confused with explanatory structure. APS pathways identify proposed organisational relationships. Developmental, evolutionary, and comparative evidence help determine whether those proposals are justified.
+
+## Dependency is not transition
+A pathway showing that one capacity depends upon another does not by itself explain how that capacity arose.
+
+For example, a pathway may show that cognition depends upon biological evaluation and significance. This identifies an organisational dependency. It does not automatically explain the developmental, evolutionary, or historical transition through which cognitive organisation became possible.
+
+Dependency explains necessity. Transition explains transformation.
 
 ## How APS Validates Dependency Claims
 
@@ -612,6 +629,8 @@ One of the central explanatory architectures currently employed within APS is:
 > Life → Agency → Biological Evaluation → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency → Meaning
 
 This pathway should not be interpreted as a chronological sequence, a developmental timetable, or a claim that later organisational forms can be reduced to earlier ones. It is a structured series of dependency hypotheses concerning the organisational conditions through which increasingly complex forms of living organisation become possible.
+
+APS explains cross-scale influence through materially implemented constraints that alter the conditions under which constituent processes occur. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
 
 Each transition proposes a specific organisational relationship. Life and agency are linked because living organisation is enacted through viability-oriented activity. Biological Evaluation depends upon agency because evaluation presupposes active regulation relative to conditions bearing upon organised persistence. Significance depends upon evaluation because conditions become significant through evaluative differentiation. Integration depends upon significance because what matters must become organised into functional unity before more sophisticated forms of regulation become possible.
 

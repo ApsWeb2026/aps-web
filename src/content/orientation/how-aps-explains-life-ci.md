@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-07-11
+revised: 2026-07-15
 cluster: conceptual-foundations
 
 abstract: >
@@ -46,6 +46,34 @@ relatedArticles:
   - why-life-is-not-intelligence-an-aps-clarification
   - naturalising-life
   - the-core-structure-of-aps-how-the-framework-fits-together
+  
+references:
+- id: spencer-2026-agency-defining-activity-life
+  authors: Spencer, R. D.
+  year: 2026
+  title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+  journal-or-publisher: Biological Theory
+  doi: 10.1007/s13752-026-00547-6
+
+- id: nicholson-2025-what-is-life-revisited
+  authors: Nicholson, D. J.
+  year: 2025
+  title: What Is Life? Revisited
+  journal-or-publisher: Cambridge University Press
+  doi: 10.1017/9781009127318
+
+- id: moreno-mossio-2015-biological-autonomy
+  authors: Moreno, A.; Mossio, M.
+  year: 2015
+  title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+  journal-or-publisher: Springer
+  doi: 10.1007/978-94-017-9837-2
+
+- id: deacon-2011-incomplete-nature
+  authors: Deacon, T. W.
+  year: 2011
+  title: "Incomplete Nature: How Mind Emerged from Matter"
+  journal-or-publisher: W. W. Norton & Company
 ---
 
 ## Introduction
@@ -245,6 +273,16 @@ None of these dimensions is sufficient on its own. Agency without process become
 </div>
 
 The explanatory structure illustrated above provides the conceptual centre of the APS framework. Rather than treating biological phenomena as isolated domains, APS integrates them within a shared architecture organised around continuity itself.
+
+Agency, Process, and Scale identify complementary analytic projections of viability-oriented, constraint-closed organisation. They do not by themselves explain how new organisational regimes arise.
+
+Where APS investigates the emergence of new forms of living organisation, an additional explanatory question becomes relevant:
+
+How did the organisation through which persistence is achieved become transformed?
+
+This question concerns organisational transition rather than the maintenance of an already established regime.
+
+APS explains cross-scale influence through materially implemented constraints that alter the conditions under which constituent processes occur. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
 
 ### Developmental Organisation and Continuity
 

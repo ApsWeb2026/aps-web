@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-10
-revised: 2026-07-12
+revised: 2026-07-15
 cluster: conceptual-foundations
 
 abstract: >
@@ -341,6 +341,9 @@ The architecture becomes increasingly coherent.
     this foundational organisation.
   </p>
 </div>
+
+
+APS explains cross-scale influence through materially implemented constraints that alter the conditions under which constituent processes occur. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
 
 ## Scale — The Distribution of Continuity
 
@@ -777,6 +780,14 @@ Evolution therefore extends organised persistence into historical time.
 The same principles that govern continuity within individual organisms become visible at larger temporal scales through inheritance, adaptation, diversification, and transformation.
 
 Evolution reveals continuity as historical.
+
+APS distinguishes between organisational change and organisational transition.
+
+Many changes occur within an existing organisation of persistence. Regulation, adaptation, repair, and developmental modification may alter the state of a living system while preserving the organisation through which viability is maintained.
+
+Organisational transitions involve a different kind of change. They occur when relations among constraints are reorganised such that a new and relatively stable regime of viability-oriented activity becomes possible.
+
+APS therefore treats evolution not merely as change through time but as the historical transformation of organised persistence, including transitions through which new forms of living organisation emerge and stabilise.
 
 ## Diagnosis and Resilience
 
