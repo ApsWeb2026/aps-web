@@ -6,7 +6,7 @@ type: article
 status: draft
 canonical: false
 canonicalLockDate: 2026-07-14
-revised: 2026-07-14
+revised: 2026-07-15
 cluster: philosophy-of-biology
 role: synthesis
 abstract: APS is a developing philosophy of biology grounded in the view that life is viability-oriented, constraint-closed organisation. This article presents the philosophical foundations of the framework, including its ontology of organised persistence, its explanatory grammar of Agency–Process–Scale, its account of biological explanation, and its proposed architecture linking life, cognition, Mind, and Meaning. It situates APS in relation to major contemporary traditions in philosophy of biology while distinguishing established commitments from ongoing areas of theoretical development.
@@ -452,9 +452,7 @@ Developmental explanations reveal that biological organisation is not simply inh
 
 ## Evolutionary explanation
 
-Evolutionary explanations address a different question.
-
-They explain how biological organisation changes across generations.
+Evolutionary explanations address a different question. They explain how biological organisation changes across generations.
 
 Natural selection, genetic drift, inheritance, innovation, extinction, and diversification all contribute to the historical transformation of living systems.
 
@@ -466,7 +464,7 @@ A trait may have an evolutionary history, a developmental pathway, a physiologic
 
 ## Ecological explanation
 
-Living systems do not exist in isolation.
+Living systems do not exist in isolation. 
 
 Ecological explanations examine how organisms and environments continually influence one another.
 
@@ -476,9 +474,7 @@ Ecological explanation therefore clarifies how persistence depends upon organism
 
 ## Cognitive explanation
 
-Some organisms coordinate their activities across changing circumstances in increasingly flexible ways.
-
-They learn, anticipate, remember, discriminate among alternatives, and modify their behaviour in relation to past experience and future possibilities.
+Some organisms coordinate their activities across changing circumstances in increasingly flexible ways. They learn, anticipate, remember, discriminate among alternatives, and modify their behaviour in relation to past experience and future possibilities.
 
 Cognitive explanations seek to understand these forms of organisation.
 
@@ -548,9 +544,7 @@ APS increasingly employs the concept of Architectural Dependency to investigate 
 
 ## A constrained explanatory pluralism
 
-Recognising multiple forms of explanation does not mean that all explanations are equally valid or interchangeable.
-
-Different questions require different explanatory approaches.
+Recognising multiple forms of explanation does not mean that all explanations are equally valid or interchangeable. Different questions require different explanatory approaches.
 
 A developmental question cannot be answered solely through evolutionary history. A mechanistic question cannot be answered solely through ecological description. A functional explanation cannot replace a causal analysis.
 
@@ -589,9 +583,9 @@ To address this problem, APS proposes an extended conceptual architecture beginn
 The concepts discussed in the remainder of this section become progressively more developmental and exploratory. APS proposes them not as a completed theory but as an architecture for investigation. Some concepts and relationships are more firmly established than others, and the framework remains open to revision as empirical, comparative, and philosophical work continues.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/conceptual-life-to-meaning.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/conceptual-from-life-to-meaning.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/conceptual-life-to-meaning.png"
+      src="/assets/diagrams/conceptual-from-life-to-meaning.png"
       alt="From Life to Meaning"
       loading="lazy"
     />
@@ -611,9 +605,7 @@ This sequence is not intended as a simple causal chain, a chronology, or a hiera
 
 ## Biological Evaluation
 
-Living systems do not respond equally to everything around them.
-
-A bacterium moves toward nutrients and away from harmful conditions. A plant adjusts its growth in relation to light and water availability. Animals selectively attend to opportunities and threats relevant to their continued functioning.
+Living systems do not respond equally to everything around them. A bacterium moves toward nutrients and away from harmful conditions. A plant adjusts its growth in relation to light and water availability. Animals selectively attend to opportunities and threats relevant to their continued functioning.
 
 Such responses reveal that biological systems are not merely affected by their environments. They differentiate among environmental conditions in ways that matter for their viability.
 
@@ -623,9 +615,7 @@ Biological Evaluation is not conscious judgment. It does not require reflection,
 
 ## Significance
 
-Through Biological Evaluation, some features of the world become more consequential than others.
-
-Nutrients matter differently from toxins. Suitable habitats matter differently from hostile environments. Potential mates matter differently from irrelevant background conditions.
+Through Biological Evaluation, some features of the world become more consequential than others. Nutrients matter differently from toxins. Suitable habitats matter differently from hostile environments. Potential mates matter differently from irrelevant background conditions.
 
 APS refers to this relational reality as Significance.
 
@@ -637,9 +627,7 @@ APS therefore treats significance as a real biological phenomenon grounded in th
 
 ## Integration
 
-Living systems do not simply encounter isolated instances of significance.
-
-They must coordinate multiple significance relations simultaneously. Nutrients, threats, opportunities, environmental conditions, internal physiological states, and developmental demands must be organised into a coherent pattern of activity.
+Living systems do not simply encounter isolated instances of significance. They must coordinate multiple significance relations simultaneously. Nutrients, threats, opportunities, environmental conditions, internal physiological states, and developmental demands must be organised into a coherent pattern of activity.
 
 APS refers to this organisational achievement as Integration.
 
@@ -677,9 +665,7 @@ This conception allows APS to recognise the reality of Mind without separating i
 
 ## Selfhood
 
-Living systems change continuously.
-
-Bodies develop. Behaviour changes. Experiences accumulate. Relationships shift. Yet organisms often maintain continuity despite these transformations.
+Living systems change continuously. Bodies develop. Behaviour changes. Experiences accumulate. Relationships shift. Yet organisms often maintain continuity despite these transformations.
 
 APS refers to the organisation supporting this continuity as Selfhood.
 
@@ -701,7 +687,7 @@ Reflective Agency does not replace biological agency. It builds upon it. The for
 
 ## Meaning
 
-The final concept in the present architecture is Meaning.
+The final concept in the present architecture is Meaning. 
 
 APS distinguishes Meaning from biological Significance.
 
@@ -719,9 +705,7 @@ The pathway from life to Meaning raises an important methodological question:
 
 > What kind of relationship do the arrows represent?
 
-APS does not treat them as simple causal links.
-
-Life does not cause agency in the same way that striking a match causes a flame. Nor are the arrows intended to represent a chronological sequence in which one phenomenon always appears after another.
+APS does not treat them as simple causal links. Life does not cause agency in the same way that striking a match causes a flame. Nor are the arrows intended to represent a chronological sequence in which one phenomenon always appears after another.
 
 Instead, APS proposes that some forms of organisation may depend upon others for their emergence, operation, persistence, or intelligibility.
 
@@ -747,9 +731,7 @@ At the same time, APS argues that mechanisms do not by themselves explain why pa
 
 ## Process Philosophy
 
-Process-oriented approaches emphasise that living systems are dynamic and continuously changing.
-
-APS shares this emphasis on activity and transformation. Living organisation is not a static arrangement but an ongoing achievement.
+Process-oriented approaches emphasise that living systems are dynamic and continuously changing. APS shares this emphasis on activity and transformation. Living organisation is not a static arrangement but an ongoing achievement.
 
 However, APS differs from some process-oriented accounts by insisting that biological explanation requires criteria for identifying the organisation that persists through change. Processes alone do not explain why particular changes contribute to biological continuity.
 
@@ -757,9 +739,7 @@ APS therefore treats persistence and transformation as mutually defining rather 
 
 ## Autonomy Theory
 
-Autonomy theory has highlighted the importance of self-maintaining organisation, constraint closure, and biological normativity.
-
-APS is deeply indebted to these insights.
+Autonomy theory has highlighted the importance of self-maintaining organisation, constraint closure, and biological normativity. APS is deeply indebted to these insights.
 
 Indeed, the concepts of organisation, viability, and constraint closure occupy central positions within APS.
 
@@ -779,11 +759,7 @@ APS differs primarily in placing these ideas within a wider architecture beginni
 
 ## Biosemiotics
 
-Biosemiotic approaches investigate the role of signs, communication, and meaning in living systems.
-
-APS recognises the importance of these phenomena and shares the conviction that significance and meaning cannot be ignored in biological explanation.
-
-Its primary difference lies in explanatory emphasis.
+Biosemiotic approaches investigate the role of signs, communication, and meaning in living systems. APS recognises the importance of these phenomena and shares the conviction that significance and meaning cannot be ignored in biological explanation. Its primary difference lies in explanatory emphasis.
 
 Rather than beginning with semiosis, APS begins with viability-oriented organisation and asks how significance and meaning emerge from biological activity.
 
@@ -793,9 +769,7 @@ Rather than beginning with meaning as an explanatory starting point, APS asks ho
 
 ## Explanatory Pluralism
 
-Many philosophers have argued that biology requires multiple explanatory forms.
-
-APS strongly agrees.
+Many philosophers have argued that biology requires multiple explanatory forms. APS strongly agrees.
 
 Mechanistic, developmental, evolutionary, ecological, cognitive, and functional explanations each address different questions.
 
@@ -807,15 +781,11 @@ APS therefore advocates a constrained explanatory pluralism in which different e
 
 ## A Distinctive Philosophical Position
 
-APS does not attempt to replace existing philosophies of biology.
-
-Instead, it seeks to integrate insights that are often treated separately.
+APS does not attempt to replace existing philosophies of biology. Instead, it seeks to integrate insights that are often treated separately.
 
 It accepts mechanisms without reducing biology to mechanism. It accepts processes without reducing life to process. It accepts organisational closure without treating closure as the whole of biology. It accepts cognition, significance, and meaning without separating them from living organisation.
 
-The framework's distinctive ambition is therefore not to champion a single explanatory principle.
-
-It is to understand how the major explanatory concepts of biology belong together within one organised biological reality.
+The framework's distinctive ambition is therefore not to champion a single explanatory principle. It is to understand how the major explanatory concepts of biology belong together within one organised biological reality.
 
 This ambition remains provisional in many respects. Questions concerning cognition, Mind, Meaning, morality, and environmental value remain active areas of development.
 
@@ -825,9 +795,7 @@ In this way, APS presents not simply a theory of life, but an emerging philosoph
 
 # What APS Claims—and What Remains Open
 
-Every philosophical framework faces a difficult balance.
-
-If it claims too little, it contributes little beyond description. If it claims too much, it risks outrunning the evidence available to support it.
+Every philosophical framework faces a difficult balance. If it claims too little, it contributes little beyond description. If it claims too much, it risks outrunning the evidence available to support it.
 
 APS attempts to navigate between these extremes.
 
@@ -857,7 +825,7 @@ These commitments form the most established foundations of APS.
 
 ## What APS Does Not Claim
 
-APS does not claim to provide a complete solution to every philosophical problem associated with life and Mind.
+APS does not claim to provide a complete solution to every philosophical problem associated with life and mind.
 
 It does not claim to have solved subjective experience.
 
@@ -877,13 +845,9 @@ Scientific and philosophical frameworks develop through ongoing refinement, comp
 
 ## A Developing Architecture
 
-The architecture extending from life to Meaning represents one of the most ambitious aspects of APS.
+The architecture extending from life to Meaning represents one of the most ambitious aspects of APS. It proposes that increasingly sophisticated forms of biological organisation may be related through identifiable organisational dependencies.
 
-It proposes that increasingly sophisticated forms of biological organisation may be related through identifiable organisational dependencies.
-
-Yet the framework does not treat this proposal as beyond revision.
-
-Some parts of the architecture are more firmly established than others.
+Yet the framework does not treat this proposal as beyond revision. Some parts of the architecture are more firmly established than others.
 
 The concepts of life, agency, organisation, viability, function, purpose, and organised persistence form the strongest foundations of the framework. The pathways connecting cognition, Mind, Selfhood, Meaning, morality, and environmental value remain more exploratory.
 
@@ -897,9 +861,7 @@ Recognising this gradient is an important part of the intellectual discipline AP
 
 ## A Framework for Inquiry
 
-APS should therefore be understood neither as a finished system nor as a collection of disconnected hypotheses.
-
-It is better understood as a framework for inquiry.
+APS should therefore be understood neither as a finished system nor as a collection of disconnected hypotheses. It is better understood as a framework for inquiry.
 
 Its central proposal is that many of the concepts employed throughout biology—and perhaps beyond biology—can be understood as parts of a broader organisational reality centred upon the persistence of living systems through change.
 
@@ -917,7 +879,7 @@ Function, organisation, adaptation, regulation, agency, normativity, cognition, 
 
 The central challenge addressed by APS is therefore not simply how to explain individual biological phenomena, but how to understand why these concepts belong together within one coherent account of life.
 
-APS approaches this challenge by treating life as viability-oriented, constraint-closed organisation and organised persistence as the achievement of that organisation through time. From this foundation it develops an explanatory grammar centred on Agency, Process, and Scale, a pluralistic account of biological explanation, and an extended architecture connecting life to increasingly complex forms of significance, cognition, Mind, Selfhood, Reflective Agency, and Meaning.
+APS approaches this challenge by treating life as viability-oriented, constraint-closed organisation and organised persistence as the achievement of that organisation through time. From this foundation it develops an explanatory grammar centred on Agency, Process, and Scale, a pluralistic account of biological explanation, and an extended architecture connecting life to increasingly complex forms of significance, cognition, mind, selfhood, reflective agency, and meaning.
 
 The framework does not seek to replace existing biology. Nor does it attempt to reduce biological explanation to a single principle.
 
@@ -925,11 +887,9 @@ Its ambition is more integrative.
 
 APS proposes that the diverse explanatory practices of biology become more intelligible when viewed as different ways of investigating how living systems maintain and transform themselves through change.
 
-In this sense, APS is not merely a theory of life.
+In this sense, APS is not merely a theory of life. It is an attempt to articulate a philosophy of biology grounded in the reality of living organisation.
 
-It is an attempt to articulate a philosophy of biology grounded in the reality of living organisation.
-
-Its significance lies not in offering a final account of biological reality, but in providing a framework through which the relationships among life, agency, organisation, explanation, cognition, and Meaning can be investigated within a common conceptual architecture.
+Its significance lies not in offering a final account of biological reality, but in providing a framework through which the relationships among life, agency, organisation, explanation, cognition, and meaning can be investigated within a common conceptual architecture.
 
 The framework's long-term value will depend upon the success of that programme. It will be judged by its capacity to illuminate biological phenomena, support comparative and empirical inquiry, and clarify questions that remain difficult to address within more fragmented explanatory traditions.
 
@@ -937,6 +897,4 @@ Whether future developments confirm, revise, or extend its proposals, APS rests 
 
 > Living systems persist not by remaining unchanged, but by continually reorganising themselves in relation to the conditions of their own existence.
 
-Understanding that achievement remains one of the central tasks of biological explanation.
-
-APS is offered as a contribution to that task.
+Understanding that achievement remains one of the central tasks of biological explanation. APS is offered as a contribution to that task.
