@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-07-01
+revised: 2026-07-15
 cluster: philosophy-of-biology
 role: core
 
@@ -141,9 +141,9 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-## Introduction
-
 > **Where this article fits:** This article develops the APS account of semiosis as the organisation of biologically meaningful difference within viability-oriented evaluative organisation. Semiosis is treated not as symbolic representation or abstract information processing, but as the ongoing organisation of meaningful organism–environment relations within continuity-preserving biological activity. It therefore forms one of the principal bridges linking viability, normativity, evaluation, meaning, information, representation, and cognition within the APS explanatory framework.
+
+## Introduction
 
 Semiosis is traditionally understood as the production and interpretation of signs.
 

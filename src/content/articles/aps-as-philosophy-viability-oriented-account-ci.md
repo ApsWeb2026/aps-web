@@ -1,7 +1,7 @@
 ---
 date: 2026-05-06
-title: "APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility"
-slug: "aps-as-philosophy-viability-oriented-reconstruction"
+title: APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility
+slug: aps-as-philosophy-viability-oriented-reconstruction
 type: article
 
 abstract: >
@@ -15,22 +15,22 @@ abstract: >
   and maintain viable persistence through ongoing transformation across
   interacting scales and timescales.
 
-status: "canonical"
+status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
-cluster: "philosophy-of-biology"
+revised: 2026-07-15
+cluster: philosophy-of-biology
 
 keyPoints:
-  - "APS reconstructs biological explanation around viability-oriented organised persistence."
-  - "Living systems remain viable through dynamically regulated continuity rather than static stability."
-  - "Constraint closure explains how living systems continuously regenerate the conditions of their own persistence."
-  - "Normativity, purposiveness, evaluation, and meaning emerge intrinsically from viability-oriented organisation."
-  - "Mechanisms are indispensable but biologically intelligible only within organised persistence."
-  - "Semiosis and meaning emerge through evaluative organisation rather than abstract symbol manipulation."
-  - "Agency, process, and scale function as co-constitutive dimensions of organised continuity."
-  - "APS operates as an explanatory grammar for biology rather than a single explanatory principle."
-  - "The framework integrates insights from process philosophy, autonomy theory, enactivism, systems theory, mechanistic biology, and biosemiotics within a continuity-oriented organisational architecture."
+  - APS reconstructs biological explanation around viability-oriented organised persistence.
+  - Living systems remain viable through dynamically regulated continuity rather than static stability.
+  - Constraint closure explains how living systems continuously regenerate the conditions of their own persistence.
+  - Normativity, purposiveness, evaluation, and meaning emerge intrinsically from viability-oriented organisation.
+  - Mechanisms are indispensable but biologically intelligible only within organised persistence.
+  - Semiosis and meaning emerge through evaluative organisation rather than abstract symbol manipulation.
+  - Agency, process, and scale function as co-constitutive dimensions of organised continuity.
+  - APS operates as an explanatory grammar for biology rather than a single explanatory principle.
+  - The framework integrates insights from process philosophy, autonomy theory, enactivism, systems theory, mechanistic biology, and biosemiotics within a continuity-oriented organisational architecture.
 
 relatedGlossaryTerms:
   - viability
@@ -227,6 +227,8 @@ references:
     title: "A Critical Overview of Biological Functions"
     publisher: "Springer"
 ---
+
+> **Where This Article Fits:** This article examines APS as a philosophical project. Its purpose is not to explain the biological architecture of the framework but to consider what follows when APS is viewed as a systematic attempt to understand reality, knowledge, explanation, meaning, and the place of life within the natural world. Readers seeking APS's philosophy of biology should consult The Philosophical Foundations of APS. That article develops APS's account of life, agency, organised persistence, biological explanation, and its relationship to contemporary philosophy of biology. The present article addresses a broader question: whether APS provides a distinctive philosophical perspective extending beyond biology itself. The two articles therefore serve complementary purposes. The Philosophical Foundations of APS explains the biological and explanatory foundations of the framework. APS as Philosophy explores the wider philosophical implications of those foundations and considers how APS relates to larger questions concerning reality, knowledge, meaning, value, and human understanding.
 
 # Philosophy Returns Through Biology
 
