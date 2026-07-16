@@ -1748,5 +1748,35 @@
     "hash": "ebd1c679518b06ed",
     "revised": "2026-07-14",
     "lockedSince": "2026-07-14"
+  },
+  "glossary/domination": {
+    "hash": "d7c1183d07ab3873",
+    "revised": "2026-07-16",
+    "lockedSince": "2026-07-16"
+  },
+  "glossary/moral-legitimacy": {
+    "hash": "602f3fed52ef2f69",
+    "revised": "2026-07-16",
+    "lockedSince": "2026-07-16"
+  },
+  "glossary/norm-formation": {
+    "hash": "de44aba150b06325",
+    "revised": "2026-07-16",
+    "lockedSince": "2026-07-16"
+  },
+  "glossary/social-power": {
+    "hash": "14092be369f2a505",
+    "revised": "2026-07-16",
+    "lockedSince": "2026-07-16"
+  },
+  "glossary/values": {
+    "hash": "0c1f14afc673a462",
+    "revised": "2026-07-16",
+    "lockedSince": "2026-07-16"
+  },
+  "glossary/vulnerability": {
+    "hash": "ce791610f6506127",
+    "revised": "2026-07-16",
+    "lockedSince": "2026-07-16"
   }
 }
