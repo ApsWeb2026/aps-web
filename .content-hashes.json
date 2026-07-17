@@ -255,8 +255,8 @@
     "lockedSince": "2026-04-11"
   },
   "articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system": {
-    "hash": "843b02cac8eda83e",
-    "revised": "2026-06-15",
+    "hash": "420fef5d730efe21",
+    "revised": "2026-07-17",
     "lockedSince": "2026-05-03"
   },
   "articles/aps-as-philosophy-viability-oriented-reconstruction": {
@@ -1778,5 +1778,10 @@
     "hash": "ce791610f6506127",
     "revised": "2026-07-16",
     "lockedSince": "2026-07-16"
+  },
+  "articles/aps-glossary-as-conceptual-infrastructure": {
+    "hash": "8e884d14a54dd1d5",
+    "revised": "2026-07-17",
+    "lockedSince": "2026-05-03"
   }
 }

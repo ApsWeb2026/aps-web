@@ -22,7 +22,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-aps
   - cognition-where-does-it-belong-in-biology
-  - aps-glossary-as-constraint-closed-conceptual-system
+  - aps-glossary-as-conceptual-infrastructure
   - why-life-is-not-intelligence-an-aps-clarification
   - description-explanation-and-definition-in-biology
   - why-ai-is-not-biological-agency

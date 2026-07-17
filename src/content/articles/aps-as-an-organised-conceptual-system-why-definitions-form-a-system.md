@@ -8,11 +8,11 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-06-15
+revised: 2026-07-17
 cluster: conceptual-foundations
 role: core
 relatedArticles:
-  - aps-glossary-as-constraint-closed-conceptual-system
+  - aps-glossary-as-conceptual-infrastructure
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
   - what-is-aps
@@ -83,6 +83,28 @@ If a definition is modifiedâ€”especially at the level of foundational conceptsâ€
 
 This is not a weakness, but a consequence of integration. A tightly organised system requires that its components remain aligned.
 
+## Conceptual Dependence and Architectural Dependence
+
+APS distinguishes between conceptual dependence and architectural dependence.
+
+Conceptual dependence concerns relationships between concepts. A concept may depend upon other concepts for its meaning and intelligibility within the framework. Changes to one concept can therefore affect the interpretation of related concepts.
+
+Architectural dependence concerns relationships within explanation. APS frequently uses dependency pathways to clarify how explanatory roles are organised across a conceptual architecture. Such pathways identify concepts whose explanatory significance depends upon other concepts within the framework.
+
+These forms of dependence are related but distinct.
+
+Conceptual dependence concerns the organisation of meaning. Architectural dependence concerns the organisation of explanation.
+
+The latter presupposes the former. Dependency pathways can only be constructed because the concepts involved possess sufficiently stable meanings. If definitions are unclear or inconsistent, architectural relationships become difficult to identify, compare, or evaluate.
+
+For this reason, conceptual closure provides part of the foundation upon which APS dependency architectures are constructed. Stable concepts make stable explanatory relationships possible.
+
+This does not mean that conceptual dependence and architectural dependence are identical. Rather, the conceptual organisation of APS provides the conditions under which architectural explanation can be developed.
+
+**Key Point**
+
+Architectural dependence presupposes conceptual dependence.
+
 ## Precision and Flexibility
 
 APS distinguishes between two domains of language:
@@ -93,6 +115,26 @@ APS distinguishes between two domains of language:
 The aim is not to restrict language in general, but to preserve clarity where explanation depends on it.
 
 APS therefore distinguishes between canonical definitions and explanatory development. Definitions stabilise the system, while articles allow it to be extended, clarified, and refined without compromising coherence.
+
+## Conceptual Stability and Framework Development
+
+Conceptual closure does not imply conceptual rigidity.
+
+Scientific frameworks must be capable of growth, refinement, and extension. New domains emerge, new questions arise, and existing concepts may require clarification. APS therefore distinguishes between conceptual stability and conceptual immobility.
+
+Conceptual stability refers to the preservation of coherent relationships among concepts. Conceptual immobility would prevent legitimate development. APS seeks the former while avoiding the latter.
+
+For this reason, the framework maintains canonical definitions for its core concepts. These definitions provide stable reference points for explanation and help ensure consistency across articles, glossary entries, diagrams, and research programmes.
+
+At the same time, APS allows controlled conceptual development. Concepts may be refined, elaborated, or extended when doing so improves explanatory clarity or enables the framework to address new domains. Such changes must preserve coherence with the broader conceptual system rather than introducing isolated or incompatible terminology.
+
+This approach allows APS to develop cumulatively. Conceptual change is neither unrestricted nor prohibited. Instead, it is evaluated in relation to the organisation of the framework as a whole.
+
+Conceptual closure therefore supports both stability and development. It preserves continuity while providing a basis for controlled theoretical growth.
+
+**Key Point**
+
+APS maintains conceptual stability through controlled development rather than conceptual immobility.
 
 ## Why This Matters
 
@@ -113,8 +155,14 @@ It shows how scientific frameworks can be organised as systems of mutually const
 
 ## Conclusion
 
-APS is not only a framework for understanding life. It is also an example of how explanation can be organised.
+APS is not only a framework for understanding life. It is also an example of how explanation can be organised through a coherent conceptual architecture.
 
-By treating definitions as interdependent constraints within a coherent system, APS maintains conceptual stability while allowing controlled development over time.
+By treating definitions as interdependent constraints within a structured system, APS maintains conceptual stability while allowing controlled development over time. Concepts are not treated as isolated descriptions but as mutually constraining components of an organised explanatory framework.
 
-The glossary provides the concrete realisation of this structure. Together, principle and implementation form a unified conceptual system in which explanation is both constrained and generative.
+This conceptual organisation has implications beyond terminology. Stable concepts make it possible to identify dependency relationships, construct explanatory pathways, and develop cumulative theoretical architectures without continual shifts in meaning.
+
+The glossary provides the concrete realisation of this conceptual organisation. It stabilises the definitions through which APS explanations are constructed and connected across domains.
+
+Conceptual closure therefore does more than preserve consistency. It provides part of the foundation upon which explanatory grammar, dependency architectures, and cumulative theoretical development become possible.
+
+The APS glossary implements this structure in practice. The next step is to understand how that conceptual organisation functions as infrastructure for explanation throughout the framework.
