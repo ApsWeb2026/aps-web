@@ -37,73 +37,73 @@ references:
     authors: Paley, W.
     year: 1802
     title: Natural Theology; or, Evidences of the Existence and Attributes of the Deity
-    journal-or-publisher: R. Faulder
+    publisher: R. Faulder
 
   - id: darwin-1859-origin
     authors: Darwin, C.
     year: 1859
     title: On the Origin of Species
-    journal-or-publisher: John Murray
+    publisher: John Murray
 
   - id: monod-1971-chance-necessity
     authors: Monod, J.
     year: 1971
     title: Chance and Necessity
-    journal-or-publisher: Alfred A. Knopf
+    publisher: Alfred A. Knopf
 
   - id: mayr-1988-new-philosophy-biology
     authors: Mayr, E.
     year: 1988
     title: Toward a New Philosophy of Biology
-    journal-or-publisher: Harvard University Press
+    publisher: Harvard University Press
 
   - id: dawkins-1986-blind-watchmaker
     authors: Dawkins, R.
     year: 1986
     title: The Blind Watchmaker
-    journal-or-publisher: W. W. Norton
+    publisher: W. W. Norton
 
   - id: dennett-1995-darwins-dangerous-idea
     authors: Dennett, D. C.
     year: 1995
     title: Darwin's Dangerous Idea
-    journal-or-publisher: Simon and Schuster
+    publisher: Simon and Schuster
 
   - id: varela-1979-principles-biological-autonomy
     authors: Varela, F. J.
     year: 1979
     title: Principles of Biological Autonomy
-    journal-or-publisher: North Holland
+    publisher: North Holland
 
   - id: maturana-varela-1980-autopoiesis
     authors: Maturana, H. R.; Varela, F. J.
     year: 1980
     title: Autopoiesis and Cognition
-    journal-or-publisher: D. Reidel
+    publisher: D. Reidel
 
   - id: moreno-mossio-2015-biological-autonomy
     authors: Moreno, A.; Mossio, M.
     year: 2015
     title: Biological Autonomy
-    journal-or-publisher: Springer
+    publisher: Springer
 
   - id: nicholson-2018-what-is-life
     authors: Nicholson, D. J.
     year: 2018
     title: What Is Life?
-    journal-or-publisher: Cambridge University Press
+    publisher: Cambridge University Press
 
   - id: behe-1996-darwins-black-box
     authors: Behe, M. J.
     year: 1996
     title: Darwin's Black Box
-    journal-or-publisher: Free Press
+    publisher: Free Press
 
   - id: dembski-1998-design-inference
     authors: Dembski, W. A.
     year: 1998
     title: The Design Inference
-    journal-or-publisher: Cambridge University Press
+    publisher: Cambridge University Press
 ---
 
 ## The Puzzle of Design
