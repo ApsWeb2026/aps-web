@@ -1,0 +1,91 @@
+references:
+ - id: bich-bechtel-2022-organization-needs-organization
+   type: journal-article
+   authors: Bich, L., & Bechtel, W.
+   year: 2022
+   title: "Organization Needs Organization: Understanding Integrated Control in Living Organisms"
+   journal: "Studies in History and Philosophy of Science"
+   volume: "93"
+   pages: "96–106"
+   doi: 10.1016/j.shpsa.2022.03.005
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18
+ - id: craver-2007-explaining-the-brain
+   type: book
+   authors: Craver, C. F.
+   year: 2007
+   title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
+   publisher: "Oxford University Press"
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18
+ - id: gilbert-sapp-tauber-2012-symbiotic-view-life
+   type: journal-article
+   authors: Gilbert, S. F., Sapp, J., & Tauber, A. I.
+   year: 2012
+   title: "A Symbiotic View of Life: We Have Never Been Individuals"
+   journal: "The Quarterly Review of Biology"
+   volume: "87"
+   issue: "4"
+   pages: "325–341"
+   doi: 10.1086/668166
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18
+ - id: godfrey-smith-2009-darwinian-populations
+   type: book
+   authors: Godfrey-Smith, P.
+   year: 2009
+   title: "Darwinian Populations and Natural Selection"
+   publisher: "Oxford University Press"
+   doi: 10.1093/acprof:oso/9780199552047.001.0001
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18
+ - id: holling-1973-resilience-stability
+   type: journal-article
+   authors: Holling, C. S.
+   year: 1973
+   title: "Resilience and Stability of Ecological Systems"
+   journal: "Annual Review of Ecology and Systematics"
+   volume: "4"
+   pages: "1–23"
+   doi: 10.1146/annurev.es.04.110173.000245
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18
+ - id: craver-2007-explaining-the-brain
+   type: book
+   authors: Craver, C. F.
+   year: 2007
+   title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
+   publisher: "Oxford University Press"
+   verification:
+    status: verified
+    verifiedDate: 2026-07-18  
+ - id: holling-1973-resilience-ecological-systems
+   type: journal-article
+   authors: Holling, C. S.
+   year: 1973
+   title: "Resilience and Stability of Ecological Systems"
+   journal: "Annual Review of Ecology and Systematics"
+   volume: "4"
+   pages: "1–23"
+   doi: 10.1146/annurev.es.04.110173.000245
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18  
+ - id: gilbert-sapp-tauber-2012-symbiotic-view-life
+   type: journal-article
+   authors: Gilbert, S. F.; Sapp, J.; Tauber, A. I.
+   year: 2012
+   title: "A Symbiotic View of Life: We Have Never Been Individuals"
+   journal: "The Quarterly Review of Biology"
+   volume: "87"
+   issue: "4"
+   pages: "325–341"
+   doi: 10.1086/668166
+   verification:
+     status: verified
+     verifiedDate: 2026-07-18

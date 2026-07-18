@@ -7,7 +7,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-30
-revised: 2026-06-30
+revised: 2026-07-18
 cluster: philosophy-of-biology
 abstract: >
   Living systems exhibit extraordinary organisation that is often described as
@@ -110,7 +110,7 @@ references:
 
 A bird wing. An orchid flower. The vertebrate eye. The mammalian immune system. Even more remarkable is the capacity of living organisms to develop from a single cell, repair damage, adapt to changing circumstances, and maintain themselves across decades of continual change.
 
-Such phenomena confront us with a striking fact: living systems exhibit forms of organisation that are extraordinarily intricate. Their structures are coordinated across scales, their activities are integrated through time, and their behaviour is organised in ways that reliably contribute to continued existence. Indeed, many biological systems display levels of functional integration that exceed anything human beings have yet engineered.
+Such phenomena confront us with a striking fact: living systems exhibit forms of organisation that are extraordinarily intricate. Their structures are coordinated across scales, their activities are integrated through time, and their behaviour is organised in ways that reliably contribute to continued existence. Indeed, many biological systems display degrees of functional integration that exceed anything human beings have yet engineered.
 
 Yet modern biology insists that these systems were not designed.
 
