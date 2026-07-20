@@ -1,0 +1,198 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://apsframework.org/schemas/aps-reference-schema-v1.json",
+  "title": "APS-REF Canonical Reference Library",
+  "description": "Machine-readable schema governing the APS canonical reference library.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["references"],
+  "properties": {
+    "references": {
+      "type": "array",
+      "description": "The complete APS canonical reference collection.",
+      "items": { "$ref": "#/$defs/reference" }
+    }
+  },
+  "$defs": {
+    "reference": {
+      "oneOf": [
+        { "$ref": "#/$defs/book" },
+        { "$ref": "#/$defs/editedBook" },
+        { "$ref": "#/$defs/journalArticle" },
+        { "$ref": "#/$defs/bookChapter" },
+        { "$ref": "#/$defs/preprint" }
+      ]
+    },
+    "id": {
+      "type": "string",
+      "description": "Permanent APS-REF identifier.",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "authors": { "type": "string", "minLength": 1 },
+    "editors": { "type": "string", "minLength": 1 },
+    "year": { "type": "integer", "minimum": 1000, "maximum": 2100 },
+    "title": { "type": "string", "minLength": 1 },
+    "publisher": { "type": "string", "minLength": 1 },
+    "journal": { "type": "string", "minLength": 1 },
+    "bookTitle": { "type": "string", "minLength": 1 },
+    "repository": { "type": "string", "minLength": 1 },
+    "identifier": { "type": "string", "minLength": 1 },
+    "volume": { "type": "string", "minLength": 1 },
+    "issue": { "type": "string", "minLength": 1 },
+    "pages": { "type": "string", "minLength": 1 },
+    "articleNumber": { "type": "string", "minLength": 1 },
+    "edition": { "type": "string", "minLength": 1 },
+    "doi": { "type": "string", "minLength": 1, "pattern": "^10\\.[0-9]{4,9}/\\S+$" },
+    "url": { "type": "string", "format": "uri" },
+    "note": { "type": "string", "minLength": 1 },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "verifiedDate"],
+      "properties": {
+        "status": { "type": "string", "enum": ["verified"] },
+        "authority": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Authority against which the bibliographic record was verified. Mandatory under governance for new and migrated records, but temporarily optional for legacy compatibility."
+        },
+        "verifiedDate": { "type": "string", "format": "date" }
+      }
+    },
+    "book": {
+      "title": "Book",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "year", "title", "publisher", "verification"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "const": "book" },
+        "authors": { "$ref": "#/$defs/authors" },
+        "editors": { "$ref": "#/$defs/editors" },
+        "year": { "$ref": "#/$defs/year" },
+        "title": { "$ref": "#/$defs/title" },
+        "publisher": { "$ref": "#/$defs/publisher" },
+        "edition": { "$ref": "#/$defs/edition" },
+        "volume": { "$ref": "#/$defs/volume" },
+        "doi": { "$ref": "#/$defs/doi" },
+        "url": { "$ref": "#/$defs/url" },
+        "note": { "$ref": "#/$defs/note" },
+        "verification": { "$ref": "#/$defs/verification" }
+      },
+      "anyOf": [
+  {
+    "properties": {
+      "authors": {
+        "$ref": "#/$defs/authors"
+      }
+    },
+    "required": ["authors"]
+  },
+  {
+    "properties": {
+      "editors": {
+        "$ref": "#/$defs/editors"
+      }
+    },
+    "required": ["editors"]
+  }
+]
+    },
+    "editedBook": {
+      "title": "Edited book",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "editors", "year", "title", "publisher", "verification"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "const": "edited-book" },
+        "editors": { "$ref": "#/$defs/editors" },
+        "year": { "$ref": "#/$defs/year" },
+        "title": { "$ref": "#/$defs/title" },
+        "publisher": { "$ref": "#/$defs/publisher" },
+        "edition": { "$ref": "#/$defs/edition" },
+        "volume": { "$ref": "#/$defs/volume" },
+        "doi": { "$ref": "#/$defs/doi" },
+        "url": { "$ref": "#/$defs/url" },
+        "note": { "$ref": "#/$defs/note" },
+        "verification": { "$ref": "#/$defs/verification" }
+      }
+    },
+    "journalArticle": {
+      "title": "Journal article",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "authors", "year", "title", "journal", "verification"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "const": "journal-article" },
+        "authors": { "$ref": "#/$defs/authors" },
+        "year": { "$ref": "#/$defs/year" },
+        "title": { "$ref": "#/$defs/title" },
+        "journal": { "$ref": "#/$defs/journal" },
+        "publisher": { "$ref": "#/$defs/publisher" },
+        "volume": { "$ref": "#/$defs/volume" },
+        "issue": { "$ref": "#/$defs/issue" },
+        "pages": { "$ref": "#/$defs/pages" },
+        "article-number": { "$ref": "#/$defs/articleNumber" },
+        "doi": { "$ref": "#/$defs/doi" },
+        "url": { "$ref": "#/$defs/url" },
+        "note": { "$ref": "#/$defs/note" },
+        "verification": { "$ref": "#/$defs/verification" }
+      }
+    },
+    "bookChapter": {
+      "title": "Book chapter",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "type",
+        "authors",
+        "year",
+        "title",
+        "book-title",
+        "editors",
+        "publisher",
+        "pages",
+        "verification"
+      ],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "const": "book-chapter" },
+        "authors": { "$ref": "#/$defs/authors" },
+        "year": { "$ref": "#/$defs/year" },
+        "title": { "$ref": "#/$defs/title" },
+        "book-title": { "$ref": "#/$defs/bookTitle" },
+        "editors": { "$ref": "#/$defs/editors" },
+        "publisher": { "$ref": "#/$defs/publisher" },
+        "edition": { "$ref": "#/$defs/edition" },
+        "volume": { "$ref": "#/$defs/volume" },
+        "pages": { "$ref": "#/$defs/pages" },
+        "doi": { "$ref": "#/$defs/doi" },
+        "url": { "$ref": "#/$defs/url" },
+        "note": { "$ref": "#/$defs/note" },
+        "verification": { "$ref": "#/$defs/verification" }
+      }
+    },
+    "preprint": {
+      "title": "Preprint",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "authors", "year", "title", "repository", "verification"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "const": "preprint" },
+        "authors": { "$ref": "#/$defs/authors" },
+        "year": { "$ref": "#/$defs/year" },
+        "title": { "$ref": "#/$defs/title" },
+        "repository": { "$ref": "#/$defs/repository" },
+        "identifier": { "$ref": "#/$defs/identifier" },
+        "doi": { "$ref": "#/$defs/doi" },
+        "url": { "$ref": "#/$defs/url" },
+        "note": { "$ref": "#/$defs/note" },
+        "verification": { "$ref": "#/$defs/verification" }
+      }
+    }
+  }
+}

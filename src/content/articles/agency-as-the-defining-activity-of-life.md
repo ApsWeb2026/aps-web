@@ -5,7 +5,7 @@ slug: agency-as-the-defining-activity-of-life
 type: article
 status: canonical
 canonical: false
-revised: 2026-06-29
+revised: 2026-07-18
 
 cluster: conceptual-foundations
 role: anchor
@@ -97,6 +97,13 @@ references:
     year: 2011
     title: "Incomplete Nature: How Mind Emerged from Matter"
     publisher: "W. W. Norton & Company"
+
+  - id: lopez-diaz-2026-general-theory-agency
+    authors: López-Díaz, A. J.; Gershenson, C.
+    year: 2026
+    title: "A Matter of Time: Towards a General Theory of Agency"
+    journal-or-publisher: arXiv
+    doi: 10.48550/arXiv.2606.23122
 ---
 
 ## Introduction
@@ -105,7 +112,7 @@ Life is often defined by reference to the structures it possesses, the molecules
 
 The Agency–Process–Scale (APS) framework begins elsewhere.
 
-Rather than asking what living systems are, APS asks what living systems do.
+Rather than asking what living systems are, APS asks what living systems do. Recent organisational approaches likewise seek to explain agency as an emergent feature of living organisation rather than as a behavioural or psychological capacity. López-Díaz and Gershenson (2026), for example, argue that agency arises from temporally organised, semantically closed systems possessing endogenous anticipatory organisation. APS shares this organisational orientation while proposing that agency is more fundamentally the viability-oriented activity through which living systems continually sustain their own organised persistence.
 
 Living systems do not merely exist. They actively sustain the conditions required for their continued existence. They regulate internal conditions, repair damage, coordinate interactions with their environments, reorganise in response to perturbation, and maintain organisational continuity despite continual material and energetic change. Their persistence is not passively inherited from physical structure alone but continually achieved through ongoing activity.
 
@@ -169,7 +176,9 @@ This distinction has important implications for biological explanation. If agenc
 
 Agency is therefore inseparable from organisation. Living organisation is not a fixed arrangement of components but a continually maintained pattern of relations. Structures degrade, materials are replaced, and environmental conditions fluctuate. Organisational continuity persists only because living systems continually perform the activities required to maintain it.
 
-The relationship is reciprocal. Organisation provides the structures and relations through which agency becomes possible, while agency provides the activity through which organisation remains organised. Neither concept can be fully understood independently of the other.
+The relationship is reciprocal. Organisation provides the structures and relations through which agency becomes possible, while agency provides the activity through which organisation remains organised. Neither concept can be fully understood independently of the other. 
+
+Contemporary organisational theories increasingly emphasise temporally structured organisational closure as the basis of agency. López-Díaz and Gershenson (2026) argue that agency emerges when semantically closed organisation develops endogenous anticipatory organisation. APS shares the view that agency is fundamentally organisational rather than representational, but locates agency more fundamentally in viability-oriented activity itself. Anticipatory organisation is therefore understood as one possible organisational achievement of sufficiently developed agency rather than the criterion that first constitutes agency.
 
 Once agency is understood in this way, it becomes possible to recognise a common organisational principle across the diversity of life. Organisms differ enormously in structure, complexity, behaviour, and ecological niche. Yet all living systems participate in viability-oriented activity directed toward sustaining organised persistence. Agency therefore provides a unifying explanatory concept capable of spanning the full range of biological organisation.
 
@@ -210,6 +219,8 @@ This relationship helps explain why APS treats organised persistence as a centra
 Living systems persist because change is organised.
 
 Agency provides the activity through which this organisation occurs. Repair restores damaged structures. Regulation coordinates physiological processes. Development reorganises persistence across life histories. Adaptation modifies organisation in response to changing conditions. Across all of these examples, continuity is achieved through ongoing activity rather than despite it.
+
+Recent organisational accounts likewise emphasise the inseparability of agency and temporal organisation. López-Díaz and Gershenson (2026) argue that organisational closure can only be understood through temporally differentiated organisational processes and propose that agency emerges from the development of endogenous anticipatory organisation. APS likewise treats agency as intrinsically temporal but interprets temporal organisation differently. Rather than defining agency through anticipation, APS understands temporal organisation as the means through which viability-oriented activity continually achieves organised persistence.
 
 Persistence should therefore not be understood merely as an outcome of agency. It is the explanatory achievement that agency continually produces. Agency explains how living systems remain viable despite continual transformation, while persistence identifies what that activity ultimately accomplishes.
 

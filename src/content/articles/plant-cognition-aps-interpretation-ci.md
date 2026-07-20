@@ -128,6 +128,17 @@ references:
     year: 2025
     title: "Plant Cognition after Darwin: Historical and Epistemological Remarks"
     journal: "History and Philosophy of the Life Sciences"
+
+  - id:   ikkurthi-2026-sensing-without-brain
+    authors: Ikkurthi, V. K., Mallikarjuna, K., Naik, B. J., Penchala, P. G., Skylab, G., Thanuja, V., & Vinnakota, L.
+    year: 2026
+    title: Sensing Without a Brain: Functional Parallels Between Plants and Animals Senses
+    journal: European Journal of Ecology, Biology and Agriculture
+    volume: "3"
+    issue: "1"
+    pages: "49-60"
+    publisher: AMO Publisher
+    doi: 10.59324/ejeba.2026.3(1).05
 ---
 
 ## 1. The Problem: A Conceptually Unstable Debate
@@ -155,7 +166,7 @@ Proponents emphasise a range of well-established empirical features:
 - developmental plasticity  
 - memory-like modulation (e.g. stress priming)
 
-Recent syntheses highlight the integrated and adaptive nature of plant responsiveness (Segundo-Ortín & Calvo, 2025; Novoplansky, 2024). Some experimental findings suggest forms of habituation or associative learning (Gagliano et al., 2016), reinforcing claims that plants exhibit genuinely cognitive behaviour.
+Recent syntheses highlight the integrated and adaptive nature of plant responsiveness (Segundo-Ortín & Calvo, 2025; Novoplansky, 2024). Some experimental findings suggest forms of habituation or associative learning (Gagliano et al., 2016), reinforcing claims that plants exhibit genuinely cognitive behaviour. 
 
 Recent theoretical work extends this discussion beyond plants to single-cell organisms. Knafo et al. (2026) developed Bayesian models of learning in single-cell life, arguing that some cellular behaviours can be interpreted as adaptive inference about hidden environmental conditions. Such work strengthens the empirical continuity between cellular behaviour, learning, and adaptive decision-making, suggesting that learning-like processes may occur at surprisingly simple biological scales. At the same time, these findings do not by themselves establish cognition. Rather, they sharpen the question of how learning, evaluation, and cognition should be distinguished within living systems.
 
@@ -269,7 +280,7 @@ On these criteria, plants qualify as minimally cognitive systems.
 
 This conclusion does not follow from a single behavioural observation. It emerges from the organisation of plant activity as a whole. Plants exhibit viability-grounded responses, normative asymmetries, and extensive cross-scale integration, each of which contributes to their continued persistence under changing conditions.
 
-Plants display numerous examples of viability-grounded activity. Defensive responses to herbivory, physiological adjustments to drought, alterations in growth patterns, and shifts in resource allocation all contribute to maintaining viability under perturbation. These responses are not isolated reactions but components of an ongoing process through which plants regulate their relationship with their environments.
+Plants display numerous examples of viability-grounded activity. Defensive responses to herbivory, physiological adjustments to drought, alterations in growth patterns, and shifts in resource allocation all contribute to maintaining viability under perturbation. These responses are not isolated reactions but components of an ongoing process through which plants regulate their relationship with their environments. Recent comparative reviews of plant sensing provide additional empirical examples of these viability-oriented capacities, documenting coordinated photoreceptive, mechanosensitive, chemical, and environmental signalling systems across diverse plant groups (Ikkurthi et al., 2026).
 
 Plant activity also exhibits normative grounding. Some developmental and physiological trajectories contribute more effectively to continued viability than others. Successful responses maintain growth, reproduction, and persistence, while unsuccessful responses increase vulnerability to environmental stress. The distinction between beneficial and detrimental outcomes is therefore built into the organisation of plant life itself.
 
