@@ -132,7 +132,7 @@ references:
   - id:   ikkurthi-2026-sensing-without-brain
     authors: Ikkurthi, V. K., Mallikarjuna, K., Naik, B. J., Penchala, P. G., Skylab, G., Thanuja, V., & Vinnakota, L.
     year: 2026
-    title: Sensing Without a Brain: Functional Parallels Between Plants and Animals Senses
+    title: "Sensing Without a Brain: Functional Parallels Between Plants and Animals Senses"
     journal: European Journal of Ecology, Biology and Agriculture
     volume: "3"
     issue: "1"
