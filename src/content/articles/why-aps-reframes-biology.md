@@ -135,7 +135,7 @@ Its central claim is that biological explanation is fundamentally organised arou
 
 APS therefore does not merely contribute another perspective within biology. It reconstructs biological explanation around the organisational conditions that render living systems intelligible as living systems.
 
-# Organised Persistence
+## Organised Persistence
 
 APS proposes that life is best understood as **organised persistence**.
 
@@ -161,7 +161,7 @@ This includes:
 
 These are not separate biological domains accidentally grouped together. They are interconnected dimensions of organised persistence.
 
-# Why APS Reframes Biological Explanation
+## Why APS Reframes Biological Explanation
 
 APS reframes biology by changing the explanatory centre of gravity.
 
@@ -193,7 +193,7 @@ This produces a major explanatory shift.
 
 APS therefore does not replace existing biology. It organisationally deepens it by revealing the conditions these explanatory frameworks already presuppose.
 
-# Agency, Process, and Scale
+## Agency, Process, and Scale
 
 APS reconstructs biological explanation around three mutually dependent dimensions:
 
@@ -203,7 +203,7 @@ APS reconstructs biological explanation around three mutually dependent dimensio
 
 These are not independent topics or optional perspectives. Together they form the explanatory grammar of living organisation.
 
-## Agency
+### Agency
 
 Living systems are not passive objects.
 
@@ -213,7 +213,7 @@ Agency in APS therefore refers to viability-oriented activity.
 
 This does not imply consciousness or intention. Even simple organisms exhibit forms of biological agency insofar as their activity contributes to sustaining their continued existence.
 
-## Process
+### Process
 
 Living systems persist only through continuous activity across time.
 
@@ -221,7 +221,7 @@ A biological system is therefore not adequately understood as a static object or
 
 Metabolism, development, adaptation, reproduction, and evolution are all dimensions of this processual organisation.
 
-## Scale
+### Scale
 
 Living organisation exists across multiple interacting scales simultaneously.
 
@@ -289,7 +289,7 @@ APS therefore does not dissolve existing biological disciplines. It reorganises 
 
 The result is not a reduction of biology to a single principle, but a reconstruction of biology around a coherent explanatory architecture.
 
-# Why This Matters
+## Why This Matters
 
 APS matters because contemporary biology often fragments explanation across partially disconnected domains.
 
