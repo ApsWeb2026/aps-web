@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-06-15
+revised: 2026-07-22
 cluster: methodology-and-explanation
 abstract: >
   APS does not merely introduce another theory within biology. It argues that
@@ -41,6 +41,80 @@ relatedArticles:
   - why-life-is-not-information-processing
   - why-life-is-not-computation-an-aps-clarification
 
+references:
+  - id: darwin-1859-origin
+    authors: Darwin, C.
+    year: 1859
+    title: On the Origin of Species
+    publisher: John Murray
+
+  - id: mayr-1988-new-philosophy-biology
+    authors: Mayr, E.
+    year: 1988
+    title: Toward a New Philosophy of Biology
+    publisher: Harvard University Press
+
+  - id: craver-2007-explaining-brain
+    authors: Craver, C. F.
+    year: 2007
+    title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
+    publisher: Oxford University Press
+
+  - id: bechtel-2016-discovering-cell-mechanisms
+    authors: Bechtel, W.
+    year: 2016
+    title: Discovering Cell Mechanisms
+    publisher: Cambridge University Press
+
+  - id: kitano-2002-systems-biology
+    authors: Kitano, H.
+    year: 2002
+    title: "Systems Biology: A Brief Overview"
+    journal: Science
+    volume: "295"
+    issue: "5560"
+    pages: "1662-1664"
+    doi: 10.1126/science.1069492
+
+  - id: moreno-mossio-2015-biological-autonomy
+    authors: Moreno, A.; Mossio, M.
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: Springer
+
+  - id: nicholson-2019-life-after-gene
+    authors: Nicholson, D. J.
+    year: 2019
+    title: Is the Cell Really a Machine?
+    journal: Journal of Theoretical Biology
+    volume: "477"
+    pages: "108-126"
+    doi: 10.1016/j.jtbi.2019.06.002
+
+  - id: cummins-1975-functional-analysis
+    authors: Cummins, R.
+    year: 1975
+    title: Functional Analysis
+    journal: Journal of Philosophy
+    volume: "72"
+    issue: "20"
+    pages: "741-765"
+
+  - id: mossio-bich-2017-what-makes-biological-function
+    authors: Mossio, M.; Bich, L.
+    year: 2017
+    title: What Makes Biological Organisation Teleological?
+    journal: Synthese
+    volume: "194"
+    issue: "4"
+    pages: "1089-1114"
+    doi: 10.1007/s11229-014-0594-z
+
+  - id: godfrey-smith-2009-darwinian-populations
+    authors: Godfrey-Smith, P.
+    year: 2009
+    title: Darwinian Populations and Natural Selection
+    publisher: Oxford University Press
 ---
 
 > **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture—developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*—nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Rather, its purpose is to clarify why APS changes the explanatory centre of gravity within biology itself.
@@ -203,13 +277,13 @@ They instead become different analytical perspectives on the same persistence-ma
 
 This produces a major explanatory unification.
 
-Mechanistic biology explains how organised persistence is enacted.
+- Mechanistic biology explains how organised persistence is enacted.
 
-Evolutionary biology explains how organised persistence transforms historically across generations.
+- Evolutionary biology explains how organised persistence transforms historically across generations.
 
-Cognitive biology explains how organised persistence becomes increasingly evaluative, flexible, and anticipatory.
+- Cognitive biology explains how organised persistence becomes increasingly evaluative, flexible, and anticipatory.
 
-Ecology explains how organised persistence is distributed across organism–environment relations.
+- Ecology explains how organised persistence is distributed across organism–environment relations.
 
 APS therefore does not dissolve existing biological disciplines. It reorganises their explanatory relations within a shared account of living organisation.
 
