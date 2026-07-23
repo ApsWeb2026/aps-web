@@ -1495,8 +1495,8 @@
     "lockedSince": "2026-06-26"
   },
   "articles/what-is-life-a-biological-question-revisited": {
-    "hash": "52b31e383b4548b8",
-    "revised": "2026-07-11",
+    "hash": "ffe0a3fb6f112a84",
+    "revised": "2026-07-23",
     "lockedSince": "2026-06-28"
   },
   "articles/what-is-it-about-life": {
@@ -1783,5 +1783,10 @@
     "hash": "8e884d14a54dd1d5",
     "revised": "2026-07-17",
     "lockedSince": "2026-05-03"
+  },
+  "articles/biological-organisation-and-the-organisation-of-explanation": {
+    "hash": "5eee73fa15eb7d37",
+    "revised": "2026-07-23",
+    "lockedSince": "2026-07-22"
   }
 }

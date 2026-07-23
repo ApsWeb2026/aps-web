@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-07-11
+revised: 2026-07-23
 
 cluster: conceptual-foundations
 role: anchor
@@ -115,6 +115,15 @@ references:
     title: What Is Life? Revisited
     publisher: Cambridge University Press
     doi: 10.1017/9781009127318
+
+  - id: gomez-marquez-2021-what-is-life
+    authors: Gómez-Márquez, J.
+    year: 2021
+    title: What Is Life?
+    journal: "Molecular Biology Reports"
+    volume: "48"
+    pages: "6573–6587"
+    doi: 10.1007/s11033-021-06658-z
 ---
 
 > **Where this article fits:** The question *What is life?* occupies a special place within APS because it addresses the most fundamental question in biology. Before we can explain evolution, development, cognition, ecology, or behaviour, we must first understand what kind of organisation makes something alive. Several APS articles approach this question from different perspectives. 
@@ -148,7 +157,11 @@ Contemporary discussions increasingly recognise that disagreements about life of
 
 The question therefore remains open not because biology lacks facts, but because it still requires a framework capable of making sense of those facts. The challenge is not merely to catalogue the properties associated with life but to identify the kind of organisation that makes those properties biologically meaningful.
 
-This shifts the question from:
+Recent attempts to redefine life illustrate both the progress that has been made and the limitations that remain. Gómez-Márquez (2021), for example, argues that life is best understood as a process occurring within highly organised living systems rather than as the systems themselves. This represents an important departure from viewing life as a static property or substance and reflects a growing recognition that biological explanation must focus on dynamic organisation rather than merely cataloguing components. Nevertheless, the proposed definition ultimately characterises life through a collection of recurrent attributes—including organisation, pre-programming, interaction, adaptation, and evolution—without identifying the organisational principle that unifies these features.
+
+APS agrees that life is fundamentally processual and that organisms should not be identified simply with the material structures they comprise. However, APS argues that recognising life as a process is only the beginning of the explanatory task. The central question is not merely whether life is a process, but what kind of process it is. APS therefore seeks to move beyond lists of defining characteristics toward an account of the organisational condition that makes those characteristics biologically intelligible. In this view, metabolism, regulation, adaptation, reproduction, and evolution are not themselves definitions of life but diverse expressions of a deeper reality: viability-oriented, constraint-closed organisation sustained through organised persistence.
+
+APS therefore shifts the question from:
 
 > Which traits define life?
 
