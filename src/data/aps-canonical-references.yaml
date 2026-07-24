@@ -42,9 +42,11 @@ references:
     year: 2007
     title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
     publisher: "Oxford University Press"
+    doi: 10.1093/acprof:oso/9780199299317.001.0001
     verification:
       status: verified
-      verifiedDate: 2026-07-18
+      authority: Oxford University Press
+      verifiedDate: 2026-07-24
 
   - id: gilbert-sapp-tauber-2012-symbiotic-view-life
     type: journal-article
@@ -77,11 +79,12 @@ references:
     authors: Spencer, R. D.
     year: 2026
     title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: "Biological Theory"
+    journal: Biological Theory
     doi: 10.1007/s13752-026-00547-6
     verification:
       status: verified
-      verifiedDate: 2026-07-18
+      authority: Springer Nature and Crossref
+      verifiedDate: 2026-07-24
 
   - id: rosslenbroich-kuemmell-bembe-2024-agency-inherent-property-living-organisms
     type: journal-article
@@ -117,9 +120,11 @@ references:
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
+    doi: 10.1007/978-94-017-9837-2
     verification:
       status: verified
-      verifiedDate: 2026-07-18
+      authority: Springer Nature
+      verifiedDate: 2026-07-24
 
   - id: nicholson-dupre-2018-everything-flows
     type: edited-book
@@ -146,11 +151,13 @@ references:
     type: book
     authors: Nicholson, D. J.
     year: 2025
-    title: "What Is Life?"
-    publisher: "Cambridge University Press"
+    title: "What Is Life? Revisited"
+    publisher: Cambridge University Press
+    doi: 10.1017/9781009127318
     verification:
       status: verified
-      verifiedDate: 2026-07-18
+      authority: Cambridge University Press
+      verifiedDate: 2026-07-24
 
   - id: schrodinger-1944-what-is-life
     type: book
@@ -171,8 +178,8 @@ references:
     publisher: "Columbia University Press"
     verification:
       status: verified
-      authority: "Columbia University Press"
-      verifiedDate: 2026-07-19
+      authority: Columbia University Press
+      verifiedDate: 2026-07-24
 
   - id: maturana-varela-1980-autopoiesis-cognition
     type: book
@@ -238,8 +245,8 @@ references:
     doi: 10.1126/science.1069492
     verification:
       status: verified
-      authority: "PubMed"
-      verifiedDate: 2026-07-19
+      authority: PubMed
+      verifiedDate: 2026-07-24
 
   - id: kitano-2002-computational-systems-biology
     type: journal-article
@@ -543,33 +550,33 @@ references:
     authors: Mayr, E.
     year: 1982
     title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
-    publisher: "Harvard University Press"
+    publisher: Belknap Press of Harvard University Press
     verification:
       status: verified
-      authority: "Harvard University Press"
-      verifiedDate: 2026-07-19
+      authority: WorldCat
+      verifiedDate: 2026-07-24
 
   - id: mayr-1988-new-philosophy-biology
     type: book
     authors: Mayr, E.
     year: 1988
     title: "Toward a New Philosophy of Biology: Observations of an Evolutionist"
-    publisher: "Harvard University Press"
+    publisher: Belknap Press of Harvard University Press
     verification:
       status: verified
-      authority: "Harvard University Press"
-      verifiedDate: 2026-07-19
+      authority: WorldCat
+      verifiedDate: 2026-07-24
 
   - id: monod-1971-chance-necessity
     type: book
     authors: Monod, J.
     year: 1971
     title: "Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology"
-    publisher: "Alfred A. Knopf"
+    publisher: Alfred A. Knopf
     verification:
       status: verified
-      authority: "Publisher"
-      verifiedDate: 2026-07-19
+      authority: WorldCat
+      verifiedDate: 2026-07-24
 
   - id: dawkins-1986-blind-watchmaker
     type: book
@@ -598,22 +605,22 @@ references:
     authors: Darwin, C.
     year: 1859
     title: "On the Origin of Species"
-    publisher: "John Murray"
+    publisher: John Murray
     verification:
       status: verified
-      authority: "First edition"
-      verifiedDate: 2026-07-19
+      authority: Darwin Online
+      verifiedDate: 2026-07-24
 
   - id: jacob-1973-logic-life
     type: book
     authors: Jacob, F.
     year: 1973
     title: "The Logic of Life: A History of Heredity"
-    publisher: "Pantheon Books"
+    publisher: Pantheon Books
     verification:
       status: verified
-      authority: "Publisher"
-      verifiedDate: 2026-07-19
+      authority: Harvard Library and Open Library MARC record
+      verifiedDate: 2026-07-24
 
   - id: noble-2006-music-life
     type: book
@@ -642,11 +649,12 @@ references:
     authors: Kauffman, S. A.
     year: 1993
     title: "The Origins of Order: Self-Organization and Selection in Evolution"
-    publisher: "Oxford University Press"
+    publisher: Oxford University Press
+    doi: 10.1093/oso/9780195079517.001.0001
     verification:
       status: verified
-      authority: "Oxford University Press"
-      verifiedDate: 2026-07-19
+      authority: Oxford University Press
+      verifiedDate: 2026-07-24
 
   - id: capra-luisi-2014-systems-view-life
     type: book
@@ -1039,3 +1047,47 @@ references:
       status: verified
       authority: Publisher
       verifiedDate: 2026-07-19
+
+  - id: aristotle-1937-parts-animals
+    type: book
+    authors: Aristotle
+    year: 1937
+    title: "Parts of Animals"
+    publisher: "Harvard University Press"
+    verification:
+      status: verified
+      authority: WorldCat
+      verifiedDate: 2026-07-24
+
+  - id: bernard-1865-introduction-medicine-experimentale
+    type: book
+    authors: Bernard, C.
+    year: 1865
+    title: "Introduction à l'étude de la médecine expérimentale"
+    publisher: "J.-B. Baillière et fils"
+    verification:
+      status: verified
+      authority: Bibliothèque nationale de France
+      verifiedDate: 2026-07-24
+
+  - id: bechtel-2008-mental-mechanisms
+    type: book
+    authors: Bechtel, W.
+    year: 2008
+    title: "Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience"
+    publisher: "Psychology Press"
+    verification:
+      status: verified
+      authority: Routledge
+      verifiedDate: 2026-07-24
+
+  - id: kirschner-gerhart-2005-plausibility-life
+    type: book
+    authors: Kirschner, M. W., & Gerhart, J. C.
+    year: 2005
+    title: "The Plausibility of Life: Resolving Darwin's Dilemma"
+    publisher: "Yale University Press"
+    verification:
+      status: verified
+      authority: Yale University Press and WorldCat
+      verifiedDate: 2026-07-24
