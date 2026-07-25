@@ -46,7 +46,7 @@ relatedArticles:
   - biological-agency-without-intentions
   - purpose-the-organisation-of-viability-oriented-activity
   - normativity-in-biology-why-some-things-matter-to-living-systems
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
   - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
   - cognition-from-life-to-mind-continuity-without-mentalism

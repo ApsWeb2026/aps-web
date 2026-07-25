@@ -39,7 +39,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - function-and-normativity-why-biological-organisation-matters
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - semiosis-how-differences-come-to-matter-in-living-systems
   - meaning-in-biology-an-aps-clarification
   - information-in-biology-an-aps-clarification

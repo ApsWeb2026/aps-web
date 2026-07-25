@@ -59,7 +59,7 @@ relatedArticles:
   - biological-organisation
   - viability-the-organising-principle-of-biological-persistence
   - persistence-organised-continuity-through-time
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - biological-agency-as-the-activity-of-self-maintenance
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
@@ -183,7 +183,7 @@ references:
     doi: 10.1007/s13752-026-00547-6
 ---
 
-> **Where this article fits:** This article develops the APS account of biological function and normativity as emerging from viability-oriented organised persistence. It integrates persistence, mechanism, agency, evaluation, semiosis, adaptation, malfunction, resilience, and diagnosis within a unified continuity-oriented explanatory framework.
+> **Where this article fits:** This article addresses the conceptual question of *what biological function is* (definition and justification). Its role is to naturalise function and normativity within contemporary philosophy of biology. It examines the principal philosophical accounts of function, explains why function is inherently normative, and shows how APS grounds both within viability-oriented biological organisation. Readers seeking to understand how functions operate within the wider APS architecture should continue with *Function — How Living Systems Make Persistence Operational* (organisation and operation).
 
 ## Introduction
 

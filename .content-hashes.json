@@ -560,7 +560,7 @@
     "lockedSince": "2026-06-04"
   },
   "articles/function-and-normativity-why-biological-organisation-matters": {
-    "hash": "680042a8d1d5b5be",
+    "hash": "c46f322684d3627a",
     "revised": "2026-07-24",
     "lockedSince": "2026-07-24"
   },
@@ -1305,7 +1305,7 @@
     "lockedSince": "2026-05-22"
   },
   "glossary/temporal-organisation": {
-    "hash": "261767757ddbe91e",
+    "hash": "995a13cca51192ce",
     "revised": "2026-06-15",
     "lockedSince": "2026-05-22"
   },
@@ -1788,5 +1788,40 @@
     "hash": "5eee73fa15eb7d37",
     "revised": "2026-07-23",
     "lockedSince": "2026-07-22"
+  },
+  "articles/function-as-operational-organisation": {
+    "hash": "9d36af9950fa3fec",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
+  },
+  "glossary/adaptive-reorganisation": {
+    "hash": "22a8d50cb1776d07",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
+  },
+  "glossary/distributed-functional-organisation": {
+    "hash": "5f2eda0515723f22",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
+  },
+  "glossary/functional-equivalence": {
+    "hash": "8b2634e182274ee3",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
+  },
+  "glossary/functional-integration": {
+    "hash": "b18eebcc4d602f74",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
+  },
+  "glossary/functional-organisation": {
+    "hash": "59fa37fca2e4216d",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
+  },
+  "glossary/operational-persistence": {
+    "hash": "c5f1cbb1fc0eec4c",
+    "revised": "2026-07-25",
+    "lockedSince": "2026-07-25"
   }
 }

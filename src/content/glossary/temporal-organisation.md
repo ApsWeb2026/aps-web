@@ -9,13 +9,7 @@ date: 2026-05-22
 revised: 2026-06-15
 cluster: conceptual-foundations
 definition: >
-  Temporal organisation is the structured coordination of biological
-  processes across time through which living systems maintain viability,
-  persistence, and organised continuity.
-summary: >
-  In APS, temporal organisation refers not merely to the fact that living
-  systems exist in time, but to the organised regulation of processes
-  through time.
+  Temporal Organisation is the structured coordination of biological processes across time through which living systems maintain and continually re-establish the conditions required for viability and organised persistence.
 inBrief: >
   Temporal organisation refers to the coordinated regulation of biological
   processes across time through which living systems maintain viability,
@@ -23,11 +17,12 @@ inBrief: >
 relatedGlossaryTerms:
   - temporality
   - process
-  - persistence
   - viability
+  - organised-persistence
   - biological-organisation
-  - evolution
-  - ecology
+  - functional-organisation
+  - operational-persistence
+  - adaptive-reorganisation
   - constraint-closure
 relatedArticles:
   - temporal-organisation-and-organised-persistence
@@ -57,7 +52,7 @@ Evolution reorganises persistence historically across populations and
 ecologies.
 
 Temporal organisation therefore refers not merely to duration, but to
-the organised management of continuity through time.
+the organised management of continuity through time. Within APS, Temporal Organisation is one dimension of Functional Organisation. Biological functions are realised across multiple interacting timescales, and their coordinated temporal organisation contributes to the continuing activity through which living systems maintain viability. Temporal Organisation therefore explains when functional activities are organised, while Functional Organisation explains how those activities are integrated into the operational organisation of the organism.
 
 APS distinguishes temporal organisation from temporality. Temporality
 refers to the general fact that biological systems exist within time and
@@ -75,14 +70,9 @@ repair may occur in milliseconds, physiological regulation over minutes
 or hours, development over years, and evolutionary transformation across
 generations. Biological organisation therefore depends upon the
 integration of many interacting temporal dynamics rather than any single
-timescale alone.
+timescale alone. Temporal organisation therefore concerns the coordination of interacting timescales rather than the mere passage of time.
 
-Temporal organisation is also deeply linked to constraint-closure.
-Biological systems maintain themselves because the processes that
-generate and sustain the organisation are themselves continually
-maintained across time. Organised persistence therefore requires the
-ongoing temporal renewal of the very conditions that make persistence
-possible.
+Temporal Organisation is also closely related to Constraint Closure because the processes that generate and sustain biological organisation must themselves be continually regenerated through time. Organised persistence therefore depends upon the ongoing renewal of the organisational conditions that make continued viability possible.
 
 Within APS, temporal organisation is fundamental to understanding:
 - persistence
@@ -94,6 +84,19 @@ Within APS, temporal organisation is fundamental to understanding:
 - diagnosis
 - malfunction
 - biological agency
+
+Architectural Summary
+
+Organised Persistence
+        │
+        ▼
+Temporal Organisation
+        │
+        ▼
+Functional Organisation
+        │
+        ▼
+Operational Persistence
 
 Life is therefore understood not as static structure, but as organised
 continuity dynamically maintained through time.

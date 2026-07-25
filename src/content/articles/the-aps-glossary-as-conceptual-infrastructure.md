@@ -49,6 +49,8 @@ Scientific explanation depends upon more than empirical observation. It also dep
 
 Many scientific disciplines possess stable conceptual infrastructures that allow researchers to communicate findings, compare explanations, and accumulate knowledge over time. Although these infrastructures are not always discussed explicitly, they play an essential role in maintaining coherence.
 
+Biology already provides a clear example of scientific infrastructure through its internationally maintained systems of nomenclature. Stable nomenclatural codes allow organisms to be identified consistently across cultures, languages, and generations, thereby supporting cumulative scientific communication. Although nomenclature concerns the naming of biological entities rather than their explanation, it illustrates a broader methodological principle: mature sciences depend upon stable organisational frameworks that preserve continuity while allowing knowledge to develop. APS applies this same principle at the conceptual level. Rather than stabilising names, the glossary stabilises explanatory concepts and their relationships, providing the conceptual infrastructure required for coherent biological explanation.
+
 APS makes this requirement explicit.
 
 The framework treats conceptual organisation as an important component of explanation rather than merely a background condition. Definitions are stabilised, relationships among concepts are examined, and conceptual changes are evaluated in relation to their wider consequences.
@@ -202,6 +204,8 @@ Architectural concepts help organise explanation within APS.
 
 Their role is not primarily to define particular biological phenomena but to clarify how concepts, explanations, and dependency relationships are organised throughout the framework.
 
+This emphasis on conceptual stability should not be understood as resistance to scientific development. Biological nomenclature demonstrates that long-term scientific progress depends upon balancing continuity with carefully governed revision. APS adopts the same general principle for explanatory concepts. Canonical definitions provide sufficient stability for cumulative explanation while remaining open to explicit revision when conceptual development requires it.
+
 Examples include:
 
 - Constraint
@@ -329,6 +333,8 @@ The APS glossary functions as conceptual infrastructure for the APS framework.
 Its role extends beyond the definition of terms. By stabilising concepts, preserving conceptual relationships, and maintaining explanatory distinctions, it helps provide the conditions under which coherent biological explanation becomes possible.
 
 This infrastructure supports dependency pathways, explanatory grammar, and the development of domain-specific architectures across the framework. It also enables APS to grow while preserving continuity, allowing conceptual development to occur without continual shifts in meaning or explanatory organisation.
+
+Stable nomenclature enables cumulative biological communication; stable conceptual infrastructure enables cumulative biological explanation. APS argues that both forms of stability contribute to the long-term development of biological science, although they operate at different levels of scientific practice.
 
 The glossary should therefore be understood not as an auxiliary reference resource but as part of the framework's explanatory architecture. It contributes to the coherence, intelligibility, and cumulative development of APS in much the same way that conceptual organisation contributes to scientific explanation more generally.
 
