@@ -19,9 +19,10 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
+revised: 2026-07-28
 
 cluster: cognition-and-mind
+role: clarification
 
 keyPoints:
   - "Goal-directedness in biology does not require representation, intention, or mind."

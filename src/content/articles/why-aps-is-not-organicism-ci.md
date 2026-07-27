@@ -44,7 +44,7 @@ relatedArticles:
   - organisational-realism-in-biology
   - aps-and-systems-theory
   - reductionism-in-biology-an-aps-clarification
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - normativity-in-biology-why-some-things-matter-to-living-systems
   - explanatory-priority-is-not-ontological-priority
   - why-life-is-not-autopoiesis

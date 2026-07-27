@@ -3,11 +3,10 @@ date: 2026-07-25
 title: Function as Operational Organisation
 slug: function-as-operational-organisation
 type: article
-role: core
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-25
-revised: 2026-07-25
+revised: 2026-07-27
 cluster: conceptual-foundations
 role: core
 
@@ -41,24 +40,23 @@ keyPoints:
 
 relatedGlossaryTerms:
   - Function
-  - Biological Function
   - Functional Organisation
   - Operational Persistence
   - Organised Persistence
   - Constraint Modulation
   - Functional Equivalence
   - Adaptive Reorganisation
-  - Organisation
+  - Biological Organisation
   - Viability
   - Biological Agency
   - Mechanism
 
 relatedArticles:
-  - what-is-life
+  - what-is-life-a-biological-question-revisited
   - agency-as-the-defining-activity-of-life
-  - function-and-normativity
-  - organised-persistence
-  - biological-explanation
+  - function-and-normativity-why-biological-organisation-matters
+  - persistence-organised-continuity-through-time
+  - biological-explanation-and-organised-persistence
   - how-aps-explains-life
   - aps-architecture-map
 

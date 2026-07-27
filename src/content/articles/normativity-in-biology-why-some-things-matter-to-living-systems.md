@@ -46,7 +46,7 @@ relatedGlossaryTerms:
   - mechanism
 
 relatedArticles:
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - function-and-normativity-why-biological-organisation-matters
   - biological-agency-as-the-activity-of-self-maintenance
   - viability-the-organising-principle-of-biological-persistence

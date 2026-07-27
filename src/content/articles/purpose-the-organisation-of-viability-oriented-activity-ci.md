@@ -56,7 +56,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - agency-as-the-defining-activity-of-life
   - function-and-normativity-why-biological-organisation-matters
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - biological-goals-without-mentalism
   - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
   - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes

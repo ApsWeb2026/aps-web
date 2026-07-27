@@ -186,7 +186,7 @@
   },
   "articles/biological-goals-without-mentalism": {
     "hash": "156fbad126a68283",
-    "revised": "2026-06-15",
+    "revised": "2026-07-28",
     "lockedSince": "2026-05-27"
   },
   "articles/adaptation-how-living-systems-sustain-themselves-through-change": {
@@ -335,7 +335,7 @@
     "lockedSince": "2026-04-12"
   },
   "articles/cognition-where-does-it-belong-in-biology": {
-    "hash": "988570241acb8636",
+    "hash": "27c482c6e32c6c8e",
     "revised": "2026-07-06",
     "lockedSince": "2026-07-05"
   },
@@ -840,9 +840,9 @@
     "lockedSince": "2026-05-15"
   },
   "articles/what-is-a-biological-system": {
-    "hash": "d6dc63e183aa0d2b",
-    "revised": "2026-06-15",
-    "lockedSince": "2026-04-09"
+    "hash": "66d1d0b8aafbba31",
+    "revised": "2026-07-27",
+    "lockedSince": "2026-07-27"
   },
   "articles/what-is-a-species-in-aps": {
     "hash": "ff143623a9a7bb2a",
@@ -1630,7 +1630,7 @@
     "lockedSince": "2026-07-08"
   },
   "articles/naturalising-life": {
-    "hash": "647a4ab5b4e708a6",
+    "hash": "a7b041a26d4bf249",
     "revised": "2026-07-11",
     "lockedSince": "2026-07-08"
   },
@@ -1780,7 +1780,7 @@
     "lockedSince": "2026-07-16"
   },
   "articles/aps-glossary-as-conceptual-infrastructure": {
-    "hash": "8e884d14a54dd1d5",
+    "hash": "09b5d1eadb109359",
     "revised": "2026-07-17",
     "lockedSince": "2026-05-03"
   },
@@ -1790,38 +1790,58 @@
     "lockedSince": "2026-07-22"
   },
   "articles/function-as-operational-organisation": {
-    "hash": "9d36af9950fa3fec",
-    "revised": "2026-07-25",
+    "hash": "1a3b2a6b0f869614",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
   },
   "glossary/adaptive-reorganisation": {
-    "hash": "22a8d50cb1776d07",
-    "revised": "2026-07-25",
+    "hash": "3236589045fb764d",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
   },
   "glossary/distributed-functional-organisation": {
-    "hash": "5f2eda0515723f22",
-    "revised": "2026-07-25",
+    "hash": "324a3019f366740c",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
   },
   "glossary/functional-equivalence": {
-    "hash": "8b2634e182274ee3",
-    "revised": "2026-07-25",
+    "hash": "fbffcedbbe2b0d42",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
   },
   "glossary/functional-integration": {
-    "hash": "b18eebcc4d602f74",
-    "revised": "2026-07-25",
+    "hash": "ec6d5cfd6e825303",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
   },
   "glossary/functional-organisation": {
-    "hash": "59fa37fca2e4216d",
-    "revised": "2026-07-25",
+    "hash": "07decb4ecd0f8d9b",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
   },
   "glossary/operational-persistence": {
-    "hash": "c5f1cbb1fc0eec4c",
-    "revised": "2026-07-25",
+    "hash": "63270994e02fda23",
+    "revised": "2026-07-27",
     "lockedSince": "2026-07-25"
+  },
+  "glossary/conceptual-governance": {
+    "hash": "c41aa5ace6b3e54b",
+    "revised": "2026-07-26",
+    "lockedSince": "2026-07-26"
+  },
+  "glossary/conceptual-stability": {
+    "hash": "d88c99bf9d48cf31",
+    "revised": "2026-07-26",
+    "lockedSince": "2026-07-26"
+  },
+  "glossary/constraint-modulation": {
+    "hash": "e9c4a1c40088008e",
+    "revised": "2026-07-27",
+    "lockedSince": "2026-07-27"
+  },
+  "glossary/biological-system": {
+    "hash": "aea1367c11262dfa",
+    "revised": "2026-07-27",
+    "lockedSince": "2026-07-27"
   }
 }

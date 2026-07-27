@@ -50,7 +50,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - function-and-normativity-why-biological-organisation-matters
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - meaning-in-biology-an-aps-clarification
   - information-in-biology-an-aps-clarification
   - representation-when-and-whether-it-arises-in-biological-systems

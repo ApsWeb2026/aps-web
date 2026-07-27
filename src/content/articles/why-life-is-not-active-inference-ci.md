@@ -58,7 +58,7 @@ relatedArticles:
   - representation-when-and-whether-it-arises-in-biological-systems
   - cognition-where-does-it-belong-in-biology
   - function-and-normativity-why-biological-organisation-matters
-  - function-how-living-systems-make-persistence-operational
+  - function-as-operational-organisation
   - purpose-the-organisation-of-viability-oriented-activity
   - biological-agency-as-the-activity-of-self-maintenance
   - biological-causation-from-mechanism-to-organised-persistence

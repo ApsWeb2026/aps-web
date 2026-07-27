@@ -12,13 +12,13 @@
       status: verified
       verifiedDate: 2026-07-18
 
-  - id: bich-bechtel-2022-organization-needs-organization
+  - id: godfrey-smith-2009-darwinian-populations
     type: book
     authors: Godfrey-Smith, P.
     year: 2009
     title: "Darwinian Populations and Natural Selection"
     publisher: "Oxford University Press"
-    doi: 10.1093/acprof:oso/9780199552047.001.0001
+    doi: 10.1016/j.shpsa.2022.03.005
     verification:
       status: verified
       verifiedDate: 2026-07-18

@@ -1,26 +1,52 @@
 ---
-date: 2026-07-25
 title: Functional Equivalence
 slug: functional-equivalence
 type: glossary
+
+definition: >
+  Functional Equivalence is the capacity of different mechanisms,
+  structures, or processes to realise the same viability-oriented
+  organisational role within a living system. Living systems do not
+  preserve their organisation by maintaining identical mechanisms
+  throughout life. Development, physiological regulation, repair,
+  plasticity, and evolutionary change frequently alter the material
+  means through which biological functions are realised. Functional
+  Equivalence explains how organisational continuity is maintained
+  despite such mechanistic variation by distinguishing the continuity of
+  organisational roles from the particular mechanisms through which
+  those roles are realised. Different material implementations may
+  therefore contribute to the same viability-oriented organisation
+  provided they sustain the conditions required for continued
+  persistence.
+
+inBrief: >
+  Functional Equivalence explains how different mechanisms can realise
+  the same organisational role, allowing living systems to maintain
+  viability despite changes in their material organisation.
+
+date: 2026-07-25
+revised: 2026-07-27
+
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-25
-revised: 2026-07-25
-cluster: life-and-agency
+
+cluster: conceptual-foundations
+
+seeAlso:
+  - functional-organisation
+  - adaptive-reorganisation
+  - operational-persistence
+  - biological-agency
+  - viability
+  - organised-persistence
+
+references: []
 ---
 
-## Definition
+Different mechanisms may perform equivalent organisational roles during development, physiological regulation, repair, acclimation, or evolutionary change. What is preserved is not the permanence of particular structures but the continuity of the viability-oriented organisation they realise.
 
-Functional Equivalence is the capacity of different mechanisms, structures, or processes to realise the same viability-oriented organisational role within a living system.
-
-## In Brief
-
-Living systems do not preserve their organisation by preserving identical mechanisms throughout life. Development, physiological regulation, repair, and evolutionary change frequently alter the material means through which biological functions are realised.
-
-Functional Equivalence explains how organisational continuity can be maintained despite such mechanistic variation. Different material implementations may continue to realise the same organisational role provided they contribute to the viability-oriented organisation of the organism.
-
-The persistence of living systems therefore depends upon the continuity of organisational roles rather than the permanence of particular mechanisms.
+Functional Equivalence therefore explains how living systems maintain organisational continuity despite continual material variation.
 
 ## Why It Matters
 
@@ -42,6 +68,6 @@ Nor does Functional Equivalence imply that organisational roles exist independen
 
 Functional Equivalence depends upon **Functional Organisation**, since equivalence concerns the preservation of organisational roles rather than individual mechanisms.
 
-It provides the conceptual bridge to **Adaptive Reorganisation**, which explains how organisms continually achieve this organisational continuity under changing conditions.
+It enables **Adaptive Reorganisation**, through which living systems continually maintain organisational continuity under changing internal and environmental conditions.
 
-Together these concepts contribute to **Operational Persistence**.
+Together these concepts contribute to **Operational Persistence**, the continuing organisational accomplishment through which living systems maintain viability.

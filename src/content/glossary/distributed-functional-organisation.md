@@ -1,34 +1,59 @@
 ---
-date: 2026-07-25
 title: Distributed Functional Organisation
 slug: distributed-functional-organisation
 type: glossary
+
+definition: >
+  Distributed Functional Organisation is the organisation of
+  viability-oriented biological functions through the continuing
+  coordination of organism–environment relationships while biological
+  agency remains centred in the living organism. Within APS,
+  viability-oriented organisation is not realised solely through
+  internally coordinated physiological processes but also through the
+  organised interactions by which organisms acquire resources, exchange
+  matter and energy, regulate environmental interactions, and modify
+  local conditions. Environmental conditions therefore contribute to the
+  organisational context within which biological functions are realised,
+  without themselves becoming biological agents or possessing biological
+  functions independently of the organisms whose viability they support.
+
+inBrief: >
+  Distributed Functional Organisation explains how biological functions
+  extend across organised organism–environment relationships while
+  biological agency remains centred in the living organism.
+
+date: 2026-07-25
+revised: 2026-07-27
+
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-25
-revised: 2026-07-25
-cluster: life-and-agency
+
+cluster: ecological-organisation
+
+seeAlso:
+  - functional-organisation
+  - adaptive-reorganisation
+  - biological-agency
+  - operational-persistence
+  - organism
+  - environment
+  - viability
+
+references: []
 ---
 
-## Definition
+Living systems maintain viability through continual interaction with changing environmental conditions. Resource acquisition, gas exchange, habitat modification, behavioural activity, and ecological interactions all contribute to organised persistence because they are integrated into the organism's viability-oriented organisation.
 
-Distributed Functional Organisation is the organisation of viability-oriented biological functions through the continuing coordination of organism–environment relationships, while biological agency remains centred in the living organism.
-
-## In Brief
-
-Living systems do not maintain themselves solely through internally organised processes. The functions through which organisms acquire resources, exchange matter and energy, regulate environmental interactions, and modify local conditions are realised through continual engagement with their surroundings.
-
-Within APS, these organism–environment relationships are integral to the operational organisation of living systems. Environmental conditions contribute to the organisational context within which biological functions are realised, but they do not themselves become biological agents or possess biological functions independently of the organisms whose viability they support.
-
-Distributed Functional Organisation therefore explains how the organisation of biological function extends across the organism–environment relationship without dissolving the distinction between organism and environment.
+Distributed Functional Organisation therefore extends Functional Organisation beyond the organism's internal physiology while preserving the organism as the locus of Biological Agency.
 
 ## Why It Matters
 
 Distributed Functional Organisation explains why biological organisation cannot be understood exclusively in terms of internal physiological processes.
 
-Living systems continually maintain viability through interactions with changing environmental conditions. Resource acquisition, gas exchange, habitat modification, behavioural activity, and ecological interactions all contribute to organised persistence because they are integrated into the organism's viability-oriented organisation.
+Many biological functions are realised only through the coordinated relationships that organisms maintain with their surroundings. Explaining these functions therefore requires understanding the organisation of organism–environment interactions rather than focusing solely on processes occurring within the organism.
 
-This concept therefore extends Functional Organisation beyond the organism's internal physiology while preserving the organism as the locus of Biological Agency.
+This concept extends Functional Organisation beyond internal physiology without dissolving the distinction between organism and environment.
 
 ## What It Is Not
 
@@ -36,22 +61,26 @@ Distributed Functional Organisation does not imply that the environment is a bio
 
 Nor does it imply that biological agency is distributed across organisms and environments as equivalent organisational centres.
 
-APS maintains that biological agency belongs to living systems, while environmental structures and conditions participate in the organisational context within which agency is realised.
+Within APS, biological agency belongs to living systems, while environmental structures and conditions contribute to the organisational context within which agency is realised.
+
+Distributed Functional Organisation therefore concerns the organisation of biological functions across organism–environment relationships, not the distribution of agency itself.
 
 ## Relationship to Other APS Concepts
 
 Distributed Functional Organisation extends **Functional Organisation** beyond internal physiological coordination to encompass the organised relationships through which organisms continually interact with their environments.
 
-It depends upon **Adaptive Reorganisation**, because organism–environment relationships are continually adjusted under changing conditions.
+It depends upon **Adaptive Reorganisation**, because organism–environment relationships are continually adjusted as internal and environmental conditions change.
 
 Together these organisational relationships contribute to **Operational Persistence**, the continuing organisational accomplishment through which living systems maintain viability.
 
 ## Architectural Summary
 
+```text
 Functional Organisation
-↓
+            ↓
 Adaptive Reorganisation
-↓
+            ↓
 Distributed Functional Organisation
-↓
+            ↓
 Operational Persistence
+```
