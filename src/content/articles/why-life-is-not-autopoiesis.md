@@ -107,6 +107,15 @@ references:
     year: 2022
     title: "Enactive Becoming"
     source: "Oxford University Press"
+
+  - id: virenque-mossio-2024
+    authors: Virenque, L., & Mossio, M.
+    year: 2024
+    title: "What Is Agency? A View from Autonomy Theory"
+    journal: Biological Theory
+    volume: "19"
+    pages: "11–15"
+    doi: 10.1007/s13752-023-00441-5
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
@@ -181,6 +190,14 @@ Agency therefore introduces a further dimension of biological explanation. Closu
 
 The emergence of agency within organisational biology reflects a broader recognition that living systems are not merely organised structures. They are organised activities. Their persistence depends not only upon the maintenance of internal organisation but also upon their capacity to engage productively with changing environments. Understanding life therefore requires understanding not only how systems are organised but also how they act.
 
+## Contemporary Autonomy Theory and Biological Agency
+
+Recent developments within autonomy theory have increasingly recognised that agency occupies a central place within biological organisation. Rather than treating agency as an optional behavioural capacity or a characteristic confined to cognitively sophisticated organisms, contemporary autonomy theorists argue that agency emerges from the organisation of autonomous living systems themselves. On this view, organisms are active participants in maintaining the organisational conditions upon which their continued existence depends. Agency is therefore understood as an expression of autonomous organisation rather than an externally added property (Virenque & Mossio, 2024).
+
+This development represents an important convergence with APS. Both approaches reject the reduction of organisms to passive mechanisms and both understand agency as a genuine feature of living organisation. Both also emphasise that biological normativity arises from the organisation of living systems rather than from externally imposed purposes.
+
+APS nevertheless proposes a different explanatory priority. Contemporary autonomy theory explains agency as arising from autonomous organisation and its self-maintaining dynamics. APS instead identifies biological agency as the defining organisational activity through which viability-oriented, constraint-closed organisation is continuously enacted. Agency is therefore not merely a consequence of autonomous organisation but the ongoing activity through which living organisation maintains and re-establishes the conditions of its own persistence. This shift allows viability, regulation, organisation, evolution, and biological explanation to be integrated within a single explanatory framework rather than being treated as successive extensions of autonomy theory.
+
 APS incorporates this development explicitly. Biological agency is understood as the viability-oriented activity through which living systems contribute to the maintenance of conditions favourable to continued existence. Agency is not an additional property imposed upon organised systems. Rather, it emerges from the organisation of living systems themselves and represents one of the principal ways through which viability is actively realised.
 
 ## Why Viability Matters
@@ -226,6 +243,8 @@ The relationship between autopoiesis, autonomy theory, and APS is consequently b
 Autopoiesis transformed theoretical biology by demonstrating that living systems are defined by organisation rather than by their constituent components. Through the concept of self-production, it showed how living systems continuously generate and maintain the conditions required for their own existence and thereby established organisation as a central explanatory category within biology.
 
 Subsequent developments revealed that self-production alone does not exhaust biological explanation. Questions concerning self-maintenance, constraint closure, regulation, agency, normativity, and persistence required further theoretical development. Autonomy theory emerged from this effort and extended the organisational tradition through increasingly sophisticated accounts of biological organisation.
+
+Recent work within autonomy theory increasingly places biological agency at the centre of organisational explanation. APS accepts this development while arguing that agency is most fundamentally understood as the viability-oriented organisational activity through which living systems enact and sustain their own persistence, thereby integrating agency, organisation, regulation, and evolution within a unified explanatory grammar.
 
 APS builds directly upon these foundations while integrating them into a broader explanatory framework centred on viability-oriented organised persistence. Within this framework, living systems are understood as organised entities whose continued existence depends upon the integration of closure, regulation, agency, viability, historical continuity, and evolutionary transformation. Biological organisation therefore extends beyond self-production to encompass the full range of processes through which living systems maintain themselves, act within their environments, and remain historically continuous through time.
 
