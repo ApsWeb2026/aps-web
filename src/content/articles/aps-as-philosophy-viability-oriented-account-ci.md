@@ -1,90 +1,96 @@
 ---
-date: 2026-05-06
-title: APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility
-slug: aps-as-philosophy-viability-oriented-reconstruction
+date: 2026-07-28
+title: APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility
+slug: aps-as-philosophy-biological-intelligibility
 type: article
-
-abstract: >
-  This article presents the Agency–Process–Scale (APS) framework as a
-  philosophical reconstruction of biological intelligibility grounded in
-  viability-oriented organised persistence sustained across time. APS is
-  developed not merely as a conceptual vocabulary for biology, but as an
-  explanatory grammar specifying the organisational conditions under which
-  living systems regulate continuity, adapt to perturbation, generate
-  normativity, sustain purposive organisation, produce semiosis and meaning,
-  and maintain viable persistence through ongoing transformation across
-  interacting scales and timescales.
-
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-29
-revised: 2026-07-15
+canonicalLockDate: 2026-07-28
+revised: 2026-07-28
 cluster: philosophy-of-biology
+role: anchor
+
+abstract: >
+  The Agency–Process–Scale (APS) framework is not simply a biological theory
+  but a philosophical reconstruction of biological intelligibility. Beginning
+  from the definition of life as viability-oriented, constraint-closed
+  organisation, APS identifies Biological Agency as the ongoing activity
+  through which this organisation is enacted, Operational Persistence as its
+  coordinated organisational accomplishment, and Organised Persistence as the
+  principal explanatory target of biology. From this foundation APS
+  reconstructs the conceptual organisation underlying biological explanation,
+  showing how agency, purpose, function, normativity, cognition, and meaning
+  become scientifically intelligible as aspects of living organisation. Rather
+  than competing with existing traditions in philosophy of biology, APS offers
+  an integrative explanatory framework that clarifies the organisational
+  conditions upon which biological explanation itself depends.
 
 keyPoints:
-  - APS reconstructs biological explanation around viability-oriented organised persistence.
-  - Living systems remain viable through dynamically regulated continuity rather than static stability.
-  - Constraint closure explains how living systems continuously regenerate the conditions of their own persistence.
-  - Normativity, purposiveness, evaluation, and meaning emerge intrinsically from viability-oriented organisation.
-  - Mechanisms are indispensable but biologically intelligible only within organised persistence.
-  - Semiosis and meaning emerge through evaluative organisation rather than abstract symbol manipulation.
-  - Agency, process, and scale function as co-constitutive dimensions of organised continuity.
-  - APS operates as an explanatory grammar for biology rather than a single explanatory principle.
-  - The framework integrates insights from process philosophy, autonomy theory, enactivism, systems theory, mechanistic biology, and biosemiotics within a continuity-oriented organisational architecture.
+
+  - APS reconstructs biological intelligibility rather than proposing a separate metaphysical system.
+
+  - Life is viability-oriented, constraint-closed organisation.
+
+  - Biological Agency is the ongoing activity through which living organisation is enacted and sustained.
+
+  - Operational Persistence explains the coordinated organisational accomplishment through which living systems continuously maintain themselves.
+
+  - Organised Persistence is the enduring continuity achieved through living organisation and constitutes biology's principal explanatory target.
+
+  - Agency, Process and Scale are analytic projections of one organisational reality rather than separate explanatory principles.
+
+  - Biological explanation possesses an explanatory grammar grounded in living organisation.
+
+  - APS reconstructs philosophy from biology by clarifying the organisational concepts presupposed by biological explanation.
+
+  - APS provides an integrative philosophical framework that unifies many contemporary approaches within theoretical biology and philosophy of biology.
 
 relatedGlossaryTerms:
+
+  - life
+  - biological-organisation
+  - organisation
   - viability
   - viability-orientation
-  - persistence
-  - organised-persistence
-  - continuity
-  - biological-agency
-  - biological-organisation
-  - process
-  - scale
-  - scale-coupling
   - constraint
   - constraint-closure
-  - coupling
-  - organisational-coupling
-  - normativity
-  - mattering
-  - evaluation
-  - semiosis
-  - meaning
-  - information
-  - representation
-  - cognition
-  - intelligence
-  - consciousness
+  - biological-agency
+  - operational-persistence
+  - organised-persistence
+  - process
+  - scale
+  - biological-explanation
+  - explanatory-grammar
+  - continuity
   - function
   - purpose
-  - teleology
-  - teleonomy
-  - adaptation
-  - evolution
-  - perturbation
-  - resolution
+  - biological-evaluation
+  - significance
+  - cognition
+  - meaning
+  - normativity
+  - organisational-realism
+  - naturalisation
 
 relatedArticles:
-  - aps-architecture-map
+
   - what-is-aps
-  - explanatory-geometry-of-biology
-  - organisational-realism-in-biology
-  - why-philosophy-of-biology-matters
-  - from-life-to-explanation-emerging-architecture
-  - analysis-synthesis-and-the-direction-of-explanation
-  - adaptation-how-living-systems-sustain-themselves-through-change
+  - naturalising-life
+  - how-aps-explains-life
+  - what-is-life
+  - biological-agency
+  - operational-persistence
+  - organised-persistence
+  - biological-explanation
+  - organisational-realism
+  - the-philosophical-foundations-of-aps
   - description-explanation-and-definition-in-biology
-  - cognition-where-does-it-belong-in-biology
-  - teleology-in-biology-an-aps-clarification
-  - teleonomy
+  - analysis-synthesis-and-the-direction-of-explanation
+  - why-philosophy-of-biology-matters
   - why-life-is-not-information-processing
+  - why-life-is-not-computation
   - why-life-is-not-active-inference
-  - why-aps-is-not-organicism
-  - why-aps-is-not-holism
-  - why-life-is-not-computation-an-aps-clarification
-  - why-life-is-not-intelligence-an-aps-clarification
+  - teleology-in-biology-an-aps-clarification
 
 references:
   - id: aristotle

@@ -73,6 +73,7 @@ const articles = defineCollection({
   schema: z.object({
     title: z.string(),
     slug: z.string(),
+    type: z.enum(["article", "glossary", "orientation", "research"]),
     abstract: z.string(),
     status: statusEnum,
     canonical: z.boolean().default(false),
@@ -80,7 +81,7 @@ const articles = defineCollection({
     date: dateString.optional(),
     revised: dateString,
     cluster: clusterEnum,
-    role: z.enum(['anchor', 'synthesis', 'core', 'clarification', 'extension']).optional(),
+    role: z.enum(['anchor', 'synthesis', 'core', 'clarification', 'extension', 'research']).optional(),
     keyPoints: z.array(z.string()).default([]),
     relatedGlossaryTerms: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),
