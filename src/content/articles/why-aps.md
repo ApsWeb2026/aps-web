@@ -9,7 +9,6 @@ canonicalLockDate: 2026-07-28
 revised: 2026-07-29
 cluster: philosophy-of-biology
 role: anchor
-
 abstract: >
   Modern biology has achieved extraordinary explanatory success through advances
   in evolution, genetics, molecular biology, physiology, developmental biology,
@@ -22,7 +21,6 @@ abstract: >
   scientific and conceptual circumstances from which APS emerged, introduces
   its central organisational perspective, and situates the wider APS corpus
   within the continuing development of theoretical biology.
-
 keyPoints:
   - Modern biology has achieved extraordinary explanatory success while continuing to generate foundational questions about life.
   - Scientific progress reveals deeper conceptual questions as well as new empirical discoveries.
@@ -31,7 +29,6 @@ keyPoints:
   - APS investigates living systems as viability-oriented, constraint-closed organisation through the complementary analytical projections of Agency, Process, and Scale.
   - APS provides an organisational framework through which diverse biological explanations can be understood as complementary investigations of living systems.
   - This article serves as the principal orientation to the APS corpus and explains why the framework was developed.
-
 relatedGlossaryTerms:
   - life
   - biological-agency
@@ -41,7 +38,6 @@ relatedGlossaryTerms:
   - scale
   - biological-explanation
   - biological-organisation
-
 relatedArticles:
   - what-is-aps
   - naturalising-life

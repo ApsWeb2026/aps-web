@@ -25,8 +25,8 @@
     "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
-    "hash": "fa171c1cbeb7a391",
-    "revised": "2026-07-11",
+    "hash": "cf877c270af22a8c",
+    "revised": "2026-07-29",
     "lockedSince": "2026-05-26"
   },
   "glossary/constraint-closure": {
@@ -1850,7 +1850,7 @@
     "lockedSince": "2026-07-28"
   },
   "articles/why-aps": {
-    "hash": "cfa5254568534649",
+    "hash": "c292ba2ee36c2ace",
     "revised": "2026-07-29",
     "lockedSince": "2026-07-28"
   }
