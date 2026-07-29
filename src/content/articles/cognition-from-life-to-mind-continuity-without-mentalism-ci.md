@@ -5,7 +5,7 @@ slug: "cognition-from-life-to-mind-continuity-without-mentalism"
 type: article
 abstract: "This article explains cognition in APS as the structured, constraint-sensitive organisation through which living systems differentiate and regulate viability-relevant differences, showing how cognition is continuous with life and elaborated, rather than created, in mind."
 status: canonical
-revised: 2026-04-28
+revised: 2026-07-28
 cluster: cognition-and-mind
 keyPoints:
   - "Cognition in APS is the structured, constraint-sensitive organisation of responsiveness to viability-relevant differences."
@@ -19,7 +19,7 @@ relatedGlossaryTerms:
   - viability
   - function
 relatedArticles: 
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
 researchStreams: []
 references: []
 ---
@@ -74,7 +74,7 @@ What matters is not whether they represent or interpret the world, but whether t
 
 This allows comparison across species without assuming a single cognitive architecture and avoids representational vocabulary that distorts biological phenomena.
 
-For the broader philosophical treatment of normativity, agency, and biological reality in APS, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)
+For the broader philosophical treatment of normativity, agency, and biological reality in APS, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)
 
 ## 6. From Biological Cognition to Human Cognition
 

@@ -7,7 +7,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-16
-revised: 2026-06-21
+revised: 2026-07-28
 
 cluster: methodology-and-explanation
 role: core
@@ -371,7 +371,7 @@ Biological understanding therefore emerges not from any single explanatory persp
   </p>
 </div>
 
-The broader philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
+The broader philosophical implications of this explanatory structure are developed further in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*.
 
 ## Related Orientation Articles
 

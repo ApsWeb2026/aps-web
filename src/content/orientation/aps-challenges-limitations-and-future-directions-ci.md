@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-08
-revised: 2026-07-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 
 abstract: >
@@ -50,7 +50,7 @@ relatedArticles:
   - how-did-matter-become-aware-of-itself
   - aps-architecture-map
   - aps-and-contemporary-theories
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
 
 references:
   - id: spencer-2026-agency-defining-activity-life

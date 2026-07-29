@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: methodology-and-explanation
 abstract: >
   APS distinguishes between descriptive, explanatory, and definitional uses of
@@ -38,7 +38,7 @@ relatedGlossaryTerms:
   - evaluation
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - explanatory-geometry-of-biology
   - analysis-synthesis-and-the-direction-of-explanation
   - reductionism-in-biology-an-aps-clarification

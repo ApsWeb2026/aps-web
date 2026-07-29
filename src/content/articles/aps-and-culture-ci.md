@@ -4,7 +4,7 @@ title: "APS and Culture: How Social Systems Extend Organised Persistence Across 
 slug: aps-and-culture
 type: article
 status: evolving
-revised: 2026-04-09
+revised: 2026-07-28
 cluster: social-organisation
 abstract: "APS (Agency–Process–Scale) reframes culture as the historically extended organisation of coordinated activity. Rather than treating culture as a symbolic domain separate from biology, APS understands it as a multiscale process through which social systems stabilise, transmit, and transform patterns of interaction across time."
 relatedGlossaryTerms:
@@ -175,7 +175,7 @@ Within the APS framework:
 
 Together, they organise the continuity of social systems across scales.
 
-For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/).
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/).
 
 ## Key Points
 

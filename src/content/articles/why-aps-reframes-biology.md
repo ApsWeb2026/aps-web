@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-07-22
+revised: 2026-07-28
 cluster: methodology-and-explanation
 abstract: >
   APS does not merely introduce another theory within biology. It argues that
@@ -33,7 +33,7 @@ relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - organisational-realism-in-biology
   - description-explanation-and-definition-in-biology
   - explanatory-priority-is-not-ontological-priority
@@ -117,7 +117,7 @@ references:
     publisher: Oxford University Press
 ---
 
-> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture—developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*—nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Rather, its purpose is to clarify why APS changes the explanatory centre of gravity within biology itself.
+> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture—developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*—nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Rather, its purpose is to clarify why APS changes the explanatory centre of gravity within biology itself.
 
 ## Introduction
 

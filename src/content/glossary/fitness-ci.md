@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-06-18
+revised: 2026-07-28
 cluster: evolutionary-dynamics
 
 definition: >
@@ -45,7 +45,7 @@ relatedArticles:
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - scale-time-persistence
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
 
 references:
   - id: darwin1859

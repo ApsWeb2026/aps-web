@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-06-15
+revised: 2026-07-28
 cluster:  methodology-and-explanation
 abstract: >
   This article clarifies the scope of the APS framework as an integrated explanatory architecture. It shows how APS extends from a definition of life as viability-oriented, constraint-closed organisation to a unified structure of explanation across biological domains, including physiology, evolution, and cognition.
@@ -25,7 +25,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - scale-time-persistence
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
 ---
 
 ## What This Article Does
@@ -64,7 +64,7 @@ The explanatory structure of APS therefore follows directly from its account of 
   </figcaption>
 </figure>
 
-This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)
+This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)
 
 ## A Unified Explanatory Architecture
 

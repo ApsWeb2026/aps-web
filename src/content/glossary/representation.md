@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: cognition-and-mind
 
 definition: >
@@ -39,7 +39,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - representation-when-and-whether-it-arises-in-biological-systems
   - cognition-where-does-it-belong-in-biology
   - meaning-in-biology-an-aps-clarification

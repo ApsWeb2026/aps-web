@@ -8,7 +8,7 @@ inBrief: "Persistence is the active maintenance of organisational continuity thr
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 
 seeAlso:
@@ -31,7 +31,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - scale-time-persistence
   - temporal-organisation-and-organised-persistence
   - adaptation-how-living-systems-sustain-themselves-through-change
@@ -266,7 +266,7 @@ Persistence is not the endurance of static structure but the ongoing, viability-
 
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 
 ### Persistence and Temporality
 

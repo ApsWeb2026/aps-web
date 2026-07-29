@@ -7,7 +7,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
-revised: 2026-06-15
+revised: 2026-07-28
 
 cluster: cognition-and-mind
 
@@ -54,7 +54,7 @@ relatedArticles:
   - why-life-is-not-intelligence-an-aps-clarification
   - consciousness-an-aps-clarification
   - the-core-structure-of-aps-how-the-framework-fits-together
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   
   - how-aps-explains-life
   - viability-the-organising-principle-of-biological-persistence

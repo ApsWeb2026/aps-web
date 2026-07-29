@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-16
+revised: 2026-07-28
 
 cluster: philosophy-of-biology
 
@@ -48,7 +48,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - aps-architecture-map
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - explanatory-geometry-of-biology
   - description-explanation-and-definition-in-biology
   - reductionism-in-biology-an-aps-clarification

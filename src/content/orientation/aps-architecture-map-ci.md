@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-07-12
+revised: 2026-07-28
 cluster: conceptual-foundations
 
 abstract: >
@@ -51,7 +51,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - evolution
   - diagnosis-as-continuity-analysis
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - aps-and-contemporary-theories
   - how-to-read-this-aps-framework-website
 ---
@@ -328,7 +328,7 @@ This pathway clarifies both the similarities and differences between APS and nei
 
 ### Key Articles
 
-- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-biological-intelligibility/)*
 - *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 - *[Why Philosophy of Biology Matters](/articles/why-philosophy-of-biology-matters/)*
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*

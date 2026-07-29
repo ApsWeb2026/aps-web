@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 
 abstract: >
@@ -22,7 +22,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - how-aps-explains-life
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - aps-and-contemporary-theories
   - description-explanation-and-definition-in-biology
   - why-aps-reframes-biology
@@ -80,7 +80,7 @@ This sequence introduces the central concepts of the framework, explains how the
 3. *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
 4. *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 5. *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+6. *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 7. *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 
 Together these pages establish the conceptual, explanatory, and philosophical foundations of the framework.
@@ -149,7 +149,7 @@ Recommended pathway:
 
 - *[Description, Explanation, and Definition in Biology](/articles/description-explanation-and-definition-in-biology/)*
 - *[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 - *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 
 These articles explore APS as a reconstruction of biological explanation organised around viability-oriented persistence rather than isolated mechanisms, traits, or historical outcomes.
@@ -275,7 +275,7 @@ Readers seeking the conceptual foundations of the framework should continue with
 
 Readers interested in broader theoretical implications should continue with:
 
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 - *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
 
 ## Key Point

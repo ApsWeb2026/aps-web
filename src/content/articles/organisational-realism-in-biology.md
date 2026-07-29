@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: philosophy-of-biology
 
 abstract: >
@@ -21,7 +21,7 @@ abstract: >
   maintain the conditions required for their own persistence across time.
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - aps-and-contemporary-theories
   - explanatory-geometry-of-biology
   - reductionism-in-biology-an-aps-clarification
@@ -121,7 +121,7 @@ references:
 
 ## Organisational Realism in Biology
 
-> **Where this article fits:** This article develops the ontological implications of APS by defending the reality of biological organisation itself. For the broader philosophical reconstruction of biological intelligibility developed within APS — including explanatory grammar, normativity, mechanism, semiosis, cognition, and organised persistence — see *[APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*.
+> **Where this article fits:** This article develops the ontological implications of APS by defending the reality of biological organisation itself. For the broader philosophical reconstruction of biological intelligibility developed within APS — including explanatory grammar, normativity, mechanism, semiosis, cognition, and organised persistence — see *[APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility](/articles/aps-as-philosophy-biological-intelligibility/)*.
 
 Biology routinely explains living systems through concepts such as function, regulation, adaptation, agency, information, development, cognition, and organisation. Yet the ontological status of these concepts remains deeply contested. Within strongly reductionist traditions, explanatory reality is often identified primarily with constituent physical processes, while biological organisation is treated as a descriptive abstraction rather than a real feature of living systems. Organisms may be regarded as convenient ways of describing molecular activity, while functions, purposes, norms, and organisational structures are interpreted as explanatory shortcuts rather than features of reality itself.
 

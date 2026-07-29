@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: cognition-and-mind
 
 abstract: >
@@ -43,7 +43,7 @@ relatedArticles:
   - cognition-where-does-it-belong-in-biology
   - evolution
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-information-processing
   - why-life-is-not-intelligence-an-aps-clarification

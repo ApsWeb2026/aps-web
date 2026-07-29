@@ -9,7 +9,7 @@ inBrief: "Viability specifies the conditions under which organised persistence c
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 
 seeAlso:
@@ -33,7 +33,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - temporal-organisation-and-organised-persistence
   - how-to-diagnose-a-biological-system
   - scale-time-persistence
@@ -289,7 +289,7 @@ Viability specifies the organisational conditions under which living systems can
 
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 
 ### Viability, Persistence, and Temporality
 

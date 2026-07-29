@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-26
+revised: 2026-07-28
 cluster: philosophy-of-biology
 
 abstract: >
@@ -38,7 +38,7 @@ relatedGlossaryTerms:
   - semiosis
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - aps-and-contemporary-theories
   - what-is-life-a-biological-question-revisited
   - biological-causation-from-mechanism-to-organised-persistence

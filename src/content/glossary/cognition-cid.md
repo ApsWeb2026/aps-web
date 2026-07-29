@@ -17,7 +17,7 @@ inBrief: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: cognition-and-mind
 
 seeAlso:
@@ -46,7 +46,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - cognition-where-does-it-belong-in-biology
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - semiosis-how-differences-come-to-matter-in-living-systems
@@ -359,7 +359,7 @@ Cognition therefore emerges from increasingly integrated forms of viability-orie
 
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 
 ### Cognition, Meaning, and Representation
 

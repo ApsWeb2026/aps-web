@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 role: synthesis
 
@@ -48,7 +48,7 @@ relatedArticles:
   - evolution
   - why-cognition-cannot-be-separated-from-organised-persistence
   - scale-time-persistence
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - aps-and-contemporary-theories
 
 references:

@@ -18,7 +18,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: philosophy-of-biology
 
 keyPoints:
@@ -55,7 +55,7 @@ relatedGlossaryTerms:
   - organicism
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - explanatory-geometry-of-biology
   - analysis-synthesis-and-the-direction-of-explanation
   - description-explanation-and-definition-in-biology

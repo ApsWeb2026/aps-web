@@ -4,7 +4,7 @@ title: "APS and the Social Sciences: How Social Systems Organise Viability Acros
 slug: aps-and-the-social-sciences
 type: article
 status: evolving
-revised: 2026-04-09
+revised: 2026-07-28
 cluster: social-organisation
 abstract: "APS (Agency–Process–Scale) provides a unifying explanatory grammar for the social sciences by reframing individuals, institutions, and cultures as processes of organised persistence. It resolves long-standing tensions between agency and structure, micro and macro explanation, and meaning and mechanism by grounding social phenomena in viability-oriented, constraint-closed organisation."
 relatedGlossaryTerms:
@@ -140,7 +140,7 @@ APS provides a unified explanatory grammar for social systems.
 
 This framework also supports domain-specific extensions, such as the analysis of economic systems as processes that organise viability conditions across scales.
 
-For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/).
+For a philosophical analysis of the scope and limits of extending APS beyond biology, see [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/).
 
 
 ## Key Points

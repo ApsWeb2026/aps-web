@@ -6,7 +6,7 @@ type: article
 status: draft
 canonical: false
 canonicalLockDate: 2026-07-14
-revised: 2026-07-15
+revised: 2026-07-28
 cluster: philosophy-of-biology
 role: synthesis
 abstract: APS is a developing philosophy of biology grounded in the view that life is viability-oriented, constraint-closed organisation. This article presents the philosophical foundations of the framework, including its ontology of organised persistence, its explanatory grammar of Agency–Process–Scale, its account of biological explanation, and its proposed architecture linking life, cognition, Mind, and Meaning. It situates APS in relation to major contemporary traditions in philosophy of biology while distinguishing established commitments from ongoing areas of theoretical development.
@@ -40,7 +40,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - naturalising-life
   - how-aps-explains-life
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - architectural-dependency-and-biological-explanation
   - how-did-matter-become-aware-of-itself
 

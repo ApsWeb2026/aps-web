@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-07-28
+revised: 2026-07-29
 cluster: philosophy-of-biology
 role: anchor
 
@@ -26,40 +26,28 @@ abstract: >
   conditions upon which biological explanation itself depends.
 
 keyPoints:
-
   - APS reconstructs biological intelligibility rather than proposing a separate metaphysical system.
-
   - Life is viability-oriented, constraint-closed organisation.
-
   - Biological Agency is the ongoing activity through which living organisation is enacted and sustained.
-
   - Operational Persistence explains the coordinated organisational accomplishment through which living systems continuously maintain themselves.
-
   - Organised Persistence is the enduring continuity achieved through living organisation and constitutes biology's principal explanatory target.
-
   - Agency, Process and Scale are analytic projections of one organisational reality rather than separate explanatory principles.
-
   - Biological explanation possesses an explanatory grammar grounded in living organisation.
-
   - APS reconstructs philosophy from biology by clarifying the organisational concepts presupposed by biological explanation.
-
   - APS provides an integrative philosophical framework that unifies many contemporary approaches within theoretical biology and philosophy of biology.
 
 relatedGlossaryTerms:
-
   - life
   - biological-organisation
-  - organisation
   - viability
   - viability-orientation
   - constraint
   - constraint-closure
   - biological-agency
-  - operational-persistence
-  - organised-persistence
+  - persistence
+  - biological-explanation
   - process
   - scale
-  - biological-explanation
   - explanatory-grammar
   - continuity
   - function
@@ -70,25 +58,23 @@ relatedGlossaryTerms:
   - meaning
   - normativity
   - organisational-realism
-  - naturalisation
 
 relatedArticles:
-
   - what-is-aps
   - naturalising-life
   - how-aps-explains-life
-  - what-is-life
-  - biological-agency
-  - operational-persistence
-  - organised-persistence
-  - biological-explanation
-  - organisational-realism
+  - what-is-life-a-biological-question-revisited
+  - agency-as-the-defining-activity-of-life
+  - persistence-organised-continuity-through-time
+  - biological-explanation-and-organised-persistence
+  - biological-explanation-what-needs-to-be-explained
+  - organisational-realism-in-biology
   - the-philosophical-foundations-of-aps
   - description-explanation-and-definition-in-biology
   - analysis-synthesis-and-the-direction-of-explanation
   - why-philosophy-of-biology-matters
   - why-life-is-not-information-processing
-  - why-life-is-not-computation
+  - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-active-inference
   - teleology-in-biology-an-aps-clarification
 

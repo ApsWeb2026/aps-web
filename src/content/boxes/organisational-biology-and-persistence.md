@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
-revised: 2026-05-11
+revised: 2026-07-28
 cluster: conceptual-foundations
 relatedGlossaryTerms:
   - biological-organisation
@@ -21,7 +21,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-contemporary-theories
   - aps-and-autonomy-theory
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - explanatory-geometry-of-biology
   - biological-organisation
   - function

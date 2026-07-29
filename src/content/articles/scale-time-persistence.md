@@ -15,7 +15,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 role: synthesis
 
@@ -51,7 +51,7 @@ relatedArticles:
   - ecology-as-organised-persistence-across-scales
   - adaptation-how-living-systems-sustain-themselves-through-change
   - diagnosis-as-continuity-analysis
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
 
 references:
   - id: nicholson-dupre-2018

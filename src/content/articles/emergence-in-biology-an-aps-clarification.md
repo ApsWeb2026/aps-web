@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: philosophy-of-biology
 
 abstract: >
@@ -58,7 +58,7 @@ relatedGlossaryTerms:
   - cognition
 
 relatedArticles:
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - explanatory-geometry-of-biology
   - reductionism-in-biology-an-aps-clarification
   - organisational-realism-in-biology

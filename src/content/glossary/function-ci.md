@@ -8,7 +8,7 @@ inBrief: "Function is the viability-relative contribution of structures or proce
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-06-15
+revised: 2026-07-28
 cluster: conceptual-foundations
 
 seeAlso:
@@ -31,7 +31,7 @@ relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
   - explanatory-geometry-of-biology
-  - aps-as-philosophy-viability-oriented-reconstruction
+  - aps-as-philosophy-biological-intelligibility
   - adaptation-how-living-systems-sustain-themselves-through-change
   - malfunction-breakdown-and-death
   - how-to-diagnose-a-biological-system
@@ -300,7 +300,7 @@ Function therefore becomes intelligible through the organisation of living syste
 
 - *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
 - *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-viability-oriented-reconstruction/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
 
 ### Function, Adaptation, and Evolution
 
