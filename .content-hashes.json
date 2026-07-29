@@ -1845,7 +1845,7 @@
     "lockedSince": "2026-07-27"
   },
   "articles/aps-as-philosophy-biological-intelligibility": {
-    "hash": "85730f2fd0a50b1d",
+    "hash": "5681d2f9b612041c",
     "revised": "2026-07-29",
     "lockedSince": "2026-07-28"
   },
@@ -1853,5 +1853,10 @@
     "hash": "c292ba2ee36c2ace",
     "revised": "2026-07-29",
     "lockedSince": "2026-07-28"
+  },
+  "glossary/survival": {
+    "hash": "13ff43b0c0a19b18",
+    "revised": "2026-07-29",
+    "lockedSince": "2026-07-29"
   }
 }
