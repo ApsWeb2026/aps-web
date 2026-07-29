@@ -282,11 +282,9 @@ The Agency–Process–Scale framework enters this conversation at precisely thi
 Rather than replacing biology's established sciences, APS seeks to clarify the organisational perspective within which their complementary achievements can be understood as investigations of one and the same living phenomenon.
 
 <div class="aps-diagram">
+  <p><strong>Diagram:</strong> <em>From Biological Success to Organisational Explanation</em></p>
 
-**Diagram:** *From Biological Success to Organisational Explanation*
-
-```text
-Modern Biology
+  <pre class="aps-text-diagram">Modern Biology
         │
         ▼
 Continuing Explanatory Success
@@ -300,11 +298,15 @@ Organisation as the
 Target of Explanation
         │
         ▼
-Agency–Process–Scale
-```
+Agency–Process–Scale</pre>
 
-*Figure X. The continuing success of modern biology progressively reveals questions concerning the organisation of living systems. APS is presented as one methodological response to those questions.*
-
+  <p class="diagram-caption">
+    <em>
+      Figure X. The continuing success of modern biology progressively reveals questions
+      concerning the organisation of living systems. APS is presented as one methodological
+      response to those questions.
+    </em>
+  </p>
 </div>
 
 > ### Organisation Is Not an Alternative to Biology
