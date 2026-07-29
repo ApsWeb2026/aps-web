@@ -364,5 +364,3 @@ Modern biology continues to expand our understanding of living systems through i
 Whether that framework ultimately proves scientifically valuable will depend upon its capacity to illuminate biological phenomena, clarify conceptual relationships, stimulate productive research, and contribute to the continuing development of theoretical biology. Those questions can only be answered through ongoing scientific and philosophical engagement.
 
 The purpose of this article has therefore not been to establish every aspect of the APS framework. Rather, it has been to explain why the continuing development of modern biology provides compelling reasons to investigate such a framework and why questions concerning living organisation remain central to the future of biological explanation.
-
----
