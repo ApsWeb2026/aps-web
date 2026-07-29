@@ -5,7 +5,7 @@ slug: what-is-biology-trying-to-explain
 type: article
 status: draft
 canonical: false
-revised: 2026-07-24
+revised: 2026-07-29
 cluster: conceptual-foundations
 role: synthesis
 
@@ -152,7 +152,7 @@ references:
     doi: 10.1007/s13752-026-00547-6
 ---
 
-# What is biology trying to explain?
+## Introduction: What is biology trying to explain?
 
 At first sight, the answer seems obvious. Biology investigates living systems: genes, cells, organisms, development, evolution, behaviour, ecosystems, and countless other aspects of the living world. Yet this diversity raises a deeper question. What makes these subjects parts of a single science? What unites such varied fields as different ways of explaining life rather than merely describing physical and chemical processes?
 
@@ -174,11 +174,17 @@ The twentieth century expanded this search still further. Genetics revealed the 
 
 This continuing diversity is not a weakness of biology but a reflection of its extraordinary richness. Living systems are organised across many interconnected domains and timescales, and no single scientific discipline can exhaust their complexity. Yet the persistence of competing explanatory frameworks suggests that biology continues to search for a common conceptual focus capable of integrating its many successful theories without diminishing their individual contributions.
 
+### Does Biology Need a Unified Organisational Framework?
+
+A reasonable objection is that biology's extraordinary success demonstrates the value of methodological pluralism rather than the need for a unified organisational framework. Modern biology employs diverse explanatory approaches—including molecular biology, physiology, developmental biology, ecology, evolution, and systems biology—because living systems exhibit many different kinds of phenomena. On this view, biology does not require a common organisational framework; its explanatory diversity is a strength rather than a problem.
+
+APS accepts much of this objection. It does not propose replacing biology's specialised disciplines with a single explanatory method, nor does it seek to reduce biological diversity to one theory. Instead, APS asks a different question. If these many approaches are all recognised as biological explanations, what makes them explanations of the same general phenomenon? APS therefore investigates the conceptual organisation of biological explanation rather than attempting to replace its methodological pluralism.
+
 The question posed at the beginning of this article therefore remains both legitimate and scientifically important. If biology encompasses many different explanatory traditions, what is the common phenomenon that those traditions seek to understand? Before proposing any answer, it is worth examining how contemporary biology itself has approached that challenge.
 
 ## Contemporary Biology Still Asks the Same Question
 
-The remarkable achievements of modern biology have not eliminated the search for a unifying understanding of life. On the contrary, advances in molecular biology, systems biology, evolutionary theory, developmental biology, and theoretical biology have made that search more pressing. As biological knowledge has expanded, so too has the need to understand how its many explanatory approaches relate to one another.
+The remarkable achievements of modern biology have not eliminated questions about how its diverse explanatory traditions relate to one another. While many biologists regard methodological pluralism as an enduring strength of the discipline, theoretical biology and philosophy of biology continue to investigate whether these diverse explanations nevertheless share a common conceptual focus. As biological knowledge has expanded, so too has the need to understand how its many explanatory approaches relate to one another.
 
 Contemporary theoretical biology reflects this continuing effort. Some researchers argue that biological explanation is fundamentally mechanistic, seeking to explain living systems through organised causal mechanisms. Others emphasise organisms as autonomous systems that actively maintain themselves through networks of mutually dependent processes. Process-oriented approaches understand living systems as ongoing organisations rather than static objects, while systems biology investigates how complex interactions generate coherent biological organisation. Still others ask more directly the enduring question: what is life itself?
 
