@@ -225,6 +225,8 @@ references:
       authority: Springer Nature
 ---
 
+> **Where This Article Fits** Having introduced APS in *What is APS?*, this article explains why such a framework is needed. It identifies the unresolved explanatory problems that motivate APS, argues that contemporary biology still lacks an adequate account of the organising activity characteristic of living systems, and shows how APS seeks to address that gap. Readers may wish to read this article immediately after What Is APS? before continuing to the broader orientation pathway.
+
 ## Section 1 — Introduction. Biology's Extraordinary Achievement
 
 Modern biology has transformed our understanding of life more profoundly than perhaps any previous scientific discipline. Yet the continuing success of biology has revealed an unexpected consequence: the better we understand living systems, the more clearly we can ask what kind of phenomenon life actually is.

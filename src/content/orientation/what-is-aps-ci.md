@@ -49,6 +49,8 @@ relatedGlossaryTerms:
   - resilience
 ---
 
+> **Where This Article Fits** This article introduces the Agency–Process–Scale (APS) framework as a research programme for understanding life through viability-oriented, constraint-closed organisation. It explains the central concepts of APS, how they relate to one another, and the biological questions they are intended to address. Readers new to APS should begin here before exploring the more detailed conceptual, scientific, and philosophical articles that develop the framework. *Why APS?* then identifies the unresolved explanatory problems that motivate APS, argues that contemporary biology still lacks an adequate account of the organising activity characteristic of living systems, and shows how APS seeks to address that gap.
+
 ## Introduction
 
 Life is remarkable not simply because living systems exist, but because they persist.
