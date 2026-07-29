@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-07-29
+revised: 2026-07-30
 
 cluster: philosophy-of-biology
 
@@ -207,15 +207,110 @@ The result is not theoretical unification in the sense of reducing biology to a 
 In this way, APS proposes that contemporary biology is best understood not as a collection of competing theories, but as a landscape of complementary explanatory traditions investigating different aspects of a common organisational reality. The comparative methodology developed here provides the basis for examining those traditions individually, beginning with the principal explanatory frameworks that have shaped contemporary theoretical biology.
 
 ## Comparative Framework Table
-Explanatory Tradition	Primary Question	Principal Achievement	APS Comparative Question
-Mechanistic Biology	How does it operate?	Organised causal explanation	What organisation makes these mechanisms biologically significant?
-Evolutionary Theory	How did it arise?	Historical transformation	How does historical change relate to ongoing organised persistence?
-Organisational Biology	How is self-maintenance achieved?	Autonomous organisation	How does this contribute to viability-oriented organisation more generally?
-Ecology	How do organisms relate to environments?	Organism–environment dynamics	How are these relations organised to sustain persistence?
-Information-Theoretic Approaches	How are biological differences generated and regulated?	Information processing and regulation	Under what organisational conditions does information become biologically significant?
-Cognitive and Enactive Approaches	How do organisms evaluate and respond?	Adaptive interaction	How do evaluation and response emerge within viability-oriented organisation?
-APS	How do explanatory traditions relate through biological organisation?	Comparative explanatory methodology	Investigates the organisational relations among explanatory frameworks themselves.
+Different biological traditions ask different questions because they seek to explain different aspects of living systems. APS does not attempt to replace these perspectives. Instead, it asks how they relate through the organisation required for living systems to maintain organised persistence. The comparison below illustrates this methodological perspective.
 
+## Comparing Contemporary Biological Traditions
+
+Different biological traditions ask different questions because they seek to explain different aspects of living systems. APS does not replace these explanatory traditions. Instead, it asks how they relate through the organisation required for living systems to maintain organised persistence. The comparisons below illustrate this methodological perspective.
+
+## Comparing Contemporary Biological Traditions
+
+Different biological traditions ask different questions because they seek to explain different aspects of living systems. APS does not replace these explanatory traditions. Instead, it asks how they relate through the organisation required for living systems to maintain organised persistence. The comparisons below illustrate this methodological perspective.
+
+---
+
+### Mechanistic Biology
+
+**Asks**  
+How does it operate?
+
+**Contributes**  
+Explains how organised causal mechanisms generate biological activity.
+
+**APS asks**  
+What organisation makes these mechanisms biologically significant?
+
+---
+
+### Evolutionary Theory
+
+**Asks**  
+How did it arise?
+
+**Contributes**  
+Explains the historical transformation of living systems.
+
+**APS asks**  
+How does historical change relate to ongoing organised persistence?
+
+---
+
+### Organisational Biology
+
+**Asks**  
+How is self-maintenance achieved?
+
+**Contributes**  
+Explains autonomous organisation and organisational closure.
+
+**APS asks**  
+How does autonomous organisation contribute to viability-oriented organisation more generally?
+
+---
+
+### Ecology
+
+**Asks**  
+How do organisms relate to their environments?
+
+**Contributes**  
+Explains organism–environment dynamics.
+
+**APS asks**  
+How are these relationships organised to sustain organised persistence?
+
+---
+
+### Information-Theoretic Approaches
+
+**Asks**  
+How are biological differences generated and regulated?
+
+**Contributes**  
+Explains information processing and biological regulation.
+
+**APS asks**  
+Under what organisational conditions does information become biologically significant?
+
+---
+
+### Cognitive and Enactive Approaches
+
+**Asks**  
+How do organisms evaluate and respond?
+
+**Contributes**  
+Explains adaptive engagement with biologically significant conditions.
+
+**APS asks**  
+How do evaluation and response emerge within viability-oriented organisation?
+
+---
+
+### Agency–Process–Scale (APS)
+
+**Asks**  
+How do these explanatory traditions relate through biological organisation?
+
+**Contributes**  
+Provides a comparative explanatory methodology for understanding how contemporary biological explanations relate through the organisation required for living systems to maintain organised persistence.
+
+**Distinctive contribution**  
+APS investigates the organisational relationships among explanatory traditions themselves rather than competing with them as another biological theory.
+
+<div class="aps-diagram">
+
+<pre class="aps-text-diagram">
 Mechanism
 Evolution
 Ecology
@@ -238,10 +333,18 @@ Agency ─ Process ─ Scale
 
 Viability-Oriented
 Organised Persistence
+</pre>
 
-Caption
+<p class="diagram-caption">
+<em>
+APS does not replace contemporary biological theories. It provides a comparative
+explanatory methodology for understanding how their distinctive explanatory
+achievements relate through the organisation required for living systems to
+maintain organised persistence.
+</em>
+</p>
 
-APS does not replace contemporary biological theories. It provides a comparative explanatory methodology for understanding how their distinctive explanatory achievements relate through the organisation required for living systems to maintain organised persistence.
+</div>
 
 ## Mechanistic Biology
 
@@ -258,15 +361,13 @@ From the perspective of APS, mechanisms therefore explain how viability-oriented
 Seen in this way, mechanistic biology and APS address different but mutually supportive explanatory questions. Mechanistic approaches reveal the causal organisation of biological activities; APS investigates how those activities participate in the broader organisation of living systems as viability-oriented, constraint-closed forms of organisation. The result is not a conflict between mechanisms and organisation, but a richer understanding of the distinct explanatory contributions each makes to biological explanation.
 
 ### Comparative Summary
-Question	Mechanistic Biology
-What does it explain particularly well?	How biological activities are realised through organised causal interactions.
-Primary explanatory priority	Causal organisation and operation.
-Organisational question remaining	How those organised activities contribute to the continued persistence of the living system.
-APS relationship	APS complements mechanistic explanation by investigating the organisational conditions within which mechanisms become biologically meaningful.
-Explanatory Box
-Organisation Is Not an Additional Mechanism
+Mechanistic biology explains **how** biological activities are realised through organised causal interactions. Its primary explanatory priority is the organisation and operation of biological mechanisms.
 
-APS does not propose organisational processes as hidden causal mechanisms operating alongside established biological mechanisms. Mechanistic explanations describe how biological activities are realised. APS asks how those activities participate in the viability-oriented organisation through which living systems maintain themselves over time. The two explanatory perspectives therefore address different, complementary questions.
+APS accepts this explanatory achievement while asking a different question: **How do these organised mechanisms contribute to the continued persistence of the living system?** Rather than replacing mechanistic explanation, APS investigates the organisational conditions within which mechanisms become biologically meaningful.
+
+### Organisation Is Not an Additional Mechanism
+
+> APS does not propose organisational processes as hidden causal mechanisms operating alongside established biological mechanisms. Mechanistic explanations describe how biological activities are realised. APS asks how those activities participate in the viability-oriented organisation through which living systems maintain themselves over time. The two explanatory perspectives therefore address different, complementary questions.
 
 ## Evolutionary Theory
 
@@ -285,11 +386,9 @@ The relationship is therefore complementary rather than competitive. Evolutionar
 Seen from this perspective, evolutionary history and present organisation become mutually informative rather than conceptually opposed. Evolution explains why living systems possess the organisational capacities they do, while APS investigates how those capacities are enacted as viability-oriented activity within the lives of organisms themselves. The result is an account in which historical transformation and ongoing organised persistence are understood as complementary dimensions of biological explanation.
 
 ### Comparative Summary
-Question	Evolutionary Theory
-What does it explain particularly well?	The historical transformation of living systems through descent with modification, variation, and natural selection.
-Primary explanatory priority	Historical change across generations.
-Organisational question remaining	How living systems continually maintain themselves as organised entities in the present.
-APS relationship	APS complements evolutionary theory by investigating the viability-oriented organisation that makes evolutionary processes possible and through which their outcomes are continually enacted.
+Evolutionary theory explains **how** living systems have been transformed through descent with modification, variation, and natural selection. Its primary explanatory priority is historical change across generations.
+
+APS accepts this explanatory achievement while asking a different question: **How do living systems continually maintain themselves as organised entities in the present?** Rather than replacing evolutionary theory, APS investigates the viability-oriented organisation that makes evolutionary processes possible and through which their outcomes are continually enacted.
 
 ## Persistence Is Not an Alternative to Evolution
 
@@ -314,15 +413,13 @@ This broader perspective also clarifies why APS does not identify itself exclusi
 Seen in this way, organisational biology occupies a central position within the comparative landscape explored by APS. It provides much of the conceptual foundation upon which APS builds, while APS extends that foundation into a comparative methodology for understanding the relationships among the principal explanatory traditions of contemporary biology.
 
 ### Comparative Summary
-Question	Organisational Biology
-What does it explain particularly well?	How living systems maintain themselves as integrated, self-maintaining organisations.
-Primary explanatory priority	Autonomous organisation, organisational closure, and self-maintenance.
-Organisational question remaining	How organisational explanation relates systematically to the full range of biological explanatory traditions.
-APS relationship	APS builds upon organisational biology and extends its insights into a comparative explanatory methodology that relates organisational explanation to mechanistic, evolutionary, ecological, informational, developmental, and cognitive approaches.
-Explanatory Box
-Building Upon, Not Replacing, Organisational Biology
+Organisational biology explains **how** living systems maintain themselves as integrated, self-maintaining organisations. Its primary explanatory priority is autonomous organisation, organisational closure, and self-maintenance.
 
-APS is not presented as an alternative to organisational biology. Organisational biology has transformed our understanding of living systems by showing that life depends upon self-maintaining organisation. APS accepts this achievement and asks a further methodological question: how does organisational explanation relate to the broader landscape of successful biological explanations?
+APS accepts these achievements while asking a different question: **How does organisational explanation relate to the broader landscape of biological explanation?** Rather than replacing organisational biology, APS builds upon its insights and extends them into a comparative explanatory methodology that relates organisational explanation to mechanistic, evolutionary, ecological, informational, developmental, and cognitive approaches.
+
+### Building Upon, Not Replacing, Organisational Biology
+
+> APS is not presented as an alternative to organisational biology. Organisational biology has transformed our understanding of living systems by showing that life depends upon self-maintaining organisation. APS accepts this achievement and asks a further methodological question: how does organisational explanation relate to the broader landscape of successful biological explanations?
 
 ## Systems Biology
 
@@ -341,15 +438,13 @@ From the perspective of APS, systems biology provides an indispensable account o
 The relationship is therefore complementary rather than competitive. Systems biology offers sophisticated methods for analysing biological complexity, whereas APS provides a comparative methodology for understanding how systems-level explanations relate to mechanistic, evolutionary, organisational, ecological, informational, and cognitive approaches. The two perspectives illuminate different dimensions of the same biological reality and together contribute to a richer understanding of living organisation.
 
 ### Comparative Summary
-Question	Systems Biology
-What does it explain particularly well?	The coordinated dynamics of complex biological networks and interacting processes.
-Primary explanatory priority	Integration, regulation, and systems-level interaction.
-Organisational question remaining	What distinguishes biological complexity from complexity more generally, and how coordinated dynamics contribute to viability-oriented organised persistence.
-APS relationship	APS complements systems biology by situating systems-level dynamics within the organisational conditions required for living systems to maintain themselves over time.
-Explanatory Box
-Complexity Alone Does Not Define Life
+Systems biology explains **how** complex biological networks and interacting processes are integrated and regulated. Its primary explanatory priority is systems-level interaction and coordinated biological dynamics.
 
-Living systems are undeniably complex, but complexity by itself is not sufficient to distinguish biological organisation from other complex physical systems. Systems biology explains how biological networks are coordinated and regulated. APS asks how those coordinated dynamics contribute to the viability-oriented organisation through which living systems persist.
+APS accepts these achievements while asking a different question: **What distinguishes biological complexity from complexity more generally, and how do coordinated dynamics contribute to viability-oriented organised persistence?** Rather than replacing systems biology, APS situates systems-level dynamics within the organisational conditions required for living systems to maintain themselves over time.
+
+### Complexity Alone Does Not Define Life
+
+> Living systems are undeniably complex, but complexity by itself is not sufficient to distinguish biological organisation from other complex physical systems. Systems biology explains how biological networks are coordinated and regulated. APS asks how those coordinated dynamics contribute to the viability-oriented organisation through which living systems persist.
 
 ## Information and Biosemiotics
 
@@ -370,15 +465,13 @@ The relationship is again complementary rather than competitive. Information the
 Seen in this way, informational and biosemiotic approaches illuminate indispensable dimensions of living organisation while APS investigates the viability-oriented organisation that enables those dimensions to emerge as biologically meaningful. The comparison therefore demonstrates not theoretical rivalry but the complementary contributions of different explanatory priorities.
 
 ### Comparative Summary
-Question	Information and Biosemiotics
-What do they explain particularly well?	Biological regulation, communication, signification, and the functional interpretation of biologically relevant differences.
-Primary explanatory priority	Information processing, regulation, and biological meaning.
-Organisational question remaining	Under what organisational conditions do information and signs become biologically significant?
-APS relationship	APS complements informational and biosemiotic approaches by investigating the viability-oriented organisation through which biological differences acquire significance.
-Explanatory Box
-Information Is Not Significance
+Information-theoretic and biosemiotic approaches explain **how** living systems regulate, communicate, and interpret biologically relevant differences. Their primary explanatory priority is information processing, biological regulation, and the generation of biological meaning.
 
-Information describes biologically relevant differences and their transmission or regulation. Biosemiotics investigates how such differences function as signs within living systems. APS asks a prior organisational question: why do some differences matter to the organism at all? Biological significance arises because living systems evaluate environmental conditions relative to their own continued viability.
+APS accepts these achievements while asking a different question: **Under what organisational conditions do information and signs become biologically significant?** Rather than replacing informational or biosemiotic approaches, APS investigates the viability-oriented organisation through which biological differences acquire significance.
+
+### Information Is Not Significance
+
+> Information describes biologically relevant differences and their transmission or regulation. Biosemiotics investigates how such differences function as signs within living systems. APS asks a prior organisational question: why do some differences matter to the organism at all? Biological significance arises because living systems evaluate environmental conditions relative to their own continued viability.
 
 ## Cognitive and Enactive Biology
 
@@ -399,15 +492,13 @@ The relationship is therefore complementary rather than competitive. Cognitive b
 Seen in this way, cognitive and enactive biology provide indispensable insights into one of the most remarkable developments in the history of living organisation: the emergence of increasingly sophisticated forms of adaptive engagement with the world. APS complements these traditions by investigating the organisational pathway through which such engagement becomes possible, relating cognition to the broader continuity of biological organisation rather than treating it as an independent starting point for explaining life.
 
 ### Comparative Summary
-Question	Cognitive and Enactive Biology
-What do they explain particularly well?	How organisms actively engage with biologically significant conditions through perception, action, adaptation, and environmental interaction.
-Primary explanatory priority	Adaptive organism–environment engagement and cognition.
-Organisational question remaining	What organisational conditions make cognition and adaptive engagement possible as biological phenomena?
-APS relationship	APS complements cognitive and enactive approaches by situating cognition within the broader organisation of viability-oriented biological agency and the emergence of biological significance.
-Explanatory Box
-Life Does Not Require Cognition
+Cognitive and enactive approaches explain **how** organisms actively engage with biologically significant conditions through perception, action, adaptation, and interaction with their environments. Their primary explanatory priority is adaptive organism–environment engagement and cognition.
 
-Cognitive and enactive approaches explain how organisms actively engage with biologically significant conditions. APS accepts these achievements while distinguishing cognition from life itself. Living organisation precedes cognition. Cognition develops from the organisation through which living systems generate, evaluate, and integrate biological significance in the service of continued viability.
+APS accepts these achievements while asking a different question: **What organisational conditions make cognition and adaptive engagement possible as biological phenomena?** Rather than replacing cognitive or enactive approaches, APS situates cognition within the broader organisation of viability-oriented biological agency and the emergence of biological significance.
+
+### Life Does Not Require Cognition
+
+> Cognitive and enactive approaches explain how organisms actively engage with biologically significant conditions. APS accepts these achievements while distinguishing cognition from life itself. Living organisation precedes cognition. Cognition develops from the organisation through which living systems generate, evaluate, and integrate biological significance in the service of continued viability.
 
 ## Process Biology
 
@@ -428,16 +519,13 @@ From this perspective, process is indispensable but not sufficient. Biological o
 The relationship between APS and process biology is therefore one of close intellectual affinity. Both reject static conceptions of life and both emphasise that living systems are realised through ongoing activity. APS builds upon this shared foundation by integrating process into a comparative explanatory methodology centred on viability-oriented, constraint-closed organisation. In doing so, it seeks not to replace process-oriented biology but to situate its insights alongside those of mechanistic, evolutionary, organisational, systems, informational, and cognitive traditions within a unified comparative framework.
 
 ### Comparative Summary
-Question	Process Biology
-What does it explain particularly well?	The dynamic continuity of living systems and their ongoing organisation through change.
-Primary explanatory priority	Continuity, becoming, and dynamic organisation.
-Organisational question remaining	How ongoing processes participate in viability-oriented organisation alongside agency and organisation across spatial and temporal extents.
-APS relationship	APS builds upon process biology by treating Process as one complementary analytic projection within a comparative explanatory methodology rather than as a complete account of life.
+Process biology explains **how** living systems achieve dynamic continuity through ongoing organisation and change. Its primary explanatory priority is continuity, becoming, and dynamic organisation.
 
-Explanatory Box
-Process Is Not the Whole of APS
+APS accepts these achievements while asking a different question: **How do ongoing processes participate in viability-oriented organisation alongside agency and organisation across spatial and temporal extents?** Rather than replacing process biology, APS builds upon its insights by treating Process as one complementary analytic projection within a comparative explanatory methodology that also incorporates Agency and Scale.
 
-APS agrees that living systems exist through continual activity rather than static structure. However, Process is not the sole explanatory principle of the framework. APS investigates living organisation through three complementary analytic projections—Agency, Process, and Scale—each addressing a different aspect of the same viability-oriented, constraint-closed organisation.
+### Process Is Not the Whole of APS
+
+> APS agrees that living systems exist through continual activity rather than static structure. However, Process is not the sole explanatory principle of the framework. APS investigates living organisation through three complementary analytic projections—Agency, Process, and Scale—each addressing a different aspect of the same viability-oriented, constraint-closed organisation.
 
 ## Why APS Is Not Another Competing Theory
 
@@ -459,12 +547,11 @@ Accordingly, APS should be evaluated differently from conventional biological th
 
 In this respect, APS represents a methodological proposal rather than a competing biological doctrine. It invites comparison, dialogue, and conceptual integration across contemporary biology while leaving intact the empirical achievements, methods, and explanatory strengths of the traditions it brings into conversation. Its success therefore rests not on displacing existing biology but on helping to explain how its diverse explanatory achievements fit together within a coherent understanding of living organisation.
 
-Explanatory Box
-Comparison Is Not Competition
+### Comparison Is Not Competition
 
-APS does not compete with mechanistic, evolutionary, organisational, systems, informational, cognitive, or process-oriented biology by offering alternative explanations of the same phenomena. It compares these traditions by examining the organisational questions they address and the complementary explanatory contributions they make. Its objective is to clarify relationships among successful biological explanations, not to replace them.
+> APS does not compete with mechanistic, evolutionary, organisational, systems, informational, cognitive, or process-oriented biology by offering alternative explanations of the same phenomena. It compares these traditions by examining the organisational questions they address and the complementary explanatory contributions they make. Its objective is to clarify relationships among successful biological explanations, not to replace them.
 
-Shared Organisational Themes Across Contemporary Biology
+## Shared Organisational Themes Across Contemporary Biology
 
 The comparative analysis developed throughout this article reveals an important pattern. Although contemporary biological theories differ in their explanatory priorities, many increasingly engage with related organisational questions. Mechanistic biology investigates the organisation of causal activities. Evolutionary theory examines the historical transformation of living organisation. Organisational biology explores self-maintaining systems. Systems biology studies coordinated interaction, informational and biosemiotic approaches investigate biological significance, cognitive theories examine adaptive engagement, and process biology emphasises continuity through change. Despite their differences, these traditions repeatedly encounter questions concerning how living systems maintain themselves as integrated, dynamic organisations.
 
@@ -482,10 +569,9 @@ Accordingly, APS treats shared organisational themes as opportunities for dialog
 
 Seen in this light, the principal contribution of APS is not the discovery of organisational themes that other researchers have overlooked. Those themes are already prominent throughout contemporary theoretical biology. APS contributes a systematic way of relating them. By comparing explanatory traditions through the organisational conditions required for living systems to maintain themselves, APS offers a coherent methodological framework for understanding why diverse biological explanations repeatedly encounter related organisational questions while nevertheless remaining theoretically distinct.
 
-Explanatory Box
-Shared Questions Are Not Shared Theories
+### Shared Questions Are Not Shared Theories
 
-Contemporary biological theories increasingly investigate related organisational questions because they seek to explain different aspects of the same living systems. This does not imply that these traditions are converging on a single theory or that APS represents their inevitable destination. APS instead provides a comparative methodology for understanding how distinct explanatory traditions relate through the common organisational reality they investigate.
+> Contemporary biological theories increasingly investigate related organisational questions because they seek to explain different aspects of the same living systems. This does not imply that these traditions are converging on a single theory or that APS represents their inevitable destination. APS instead provides a comparative methodology for understanding how distinct explanatory traditions relate through the common organisational reality they investigate.
 
 ## What APS Contributes
 
@@ -505,10 +591,9 @@ These contributions are necessarily methodological rather than empirical. APS do
 
 For this reason, APS should be regarded as an invitation rather than a conclusion. It proposes a way of conducting theoretical biology that places explanatory comparison alongside empirical investigation as a legitimate scientific activity. Its contribution will ultimately be measured not by the authority of its terminology, but by its capacity to generate clearer questions, more coherent comparisons, and deeper understanding of the organisation through which living systems continually maintain and re-establish the conditions of their own persistence.
 
-Explanatory Box
-A Methodological Contribution
+### A Methodological Contribution
 
-APS does not contribute a new biological mechanism or replace existing theories of life. Its principal contribution is methodological. It provides a comparative explanatory framework through which the diverse traditions of contemporary biology can be understood as investigating complementary aspects of the same viability-oriented, constraint-closed organisation.
+> APS does not contribute a new biological mechanism or replace existing theories of life. Its principal contribution is methodological. It provides a comparative explanatory framework through which the diverse traditions of contemporary biology can be understood as investigating complementary aspects of the same viability-oriented, constraint-closed organisation.
 
 ## Conclusion
 
@@ -524,8 +609,8 @@ Whether APS ultimately proves valuable will not be determined by the introductio
 
 The continuing success of biology ensures that new discoveries, methods, and explanatory traditions will continue to emerge. As this intellectual landscape becomes increasingly rich, the need for careful comparative understanding is likely to become more rather than less important. APS offers one methodological framework for undertaking that task. It invites theoretical biology to view explanatory diversity not as an obstacle to understanding, but as an opportunity to investigate more deeply the organisation through which living systems persist, transform, and become scientifically intelligible.
 
-Final Explanatory Box
-The Aim of APS
 
-APS does not seek to replace the major explanatory traditions of contemporary biology. It proposes a comparative methodology for understanding how those traditions investigate complementary aspects of the same viability-oriented, constraint-closed organisation. Its success depends upon whether it improves the coherence and intelligibility of biological explanation.
+## The Aim of APS
+
+> APS does not seek to replace the major explanatory traditions of contemporary biology. It proposes a comparative methodology for understanding how those traditions investigate complementary aspects of the same viability-oriented, constraint-closed organisation. The success of APS depends upon whether it improves the coherence and intelligibility of biological explanation.
 
