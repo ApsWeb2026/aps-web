@@ -390,9 +390,9 @@ Evolutionary theory explains **how** living systems have been transformed throug
 
 APS accepts this explanatory achievement while asking a different question: **How do living systems continually maintain themselves as organised entities in the present?** Rather than replacing evolutionary theory, APS investigates the viability-oriented organisation that makes evolutionary processes possible and through which their outcomes are continually enacted.
 
-## Persistence Is Not an Alternative to Evolution
+### Persistence Is Not an Alternative to Evolution
 
-APS does not replace evolutionary theory with a theory of persistence. Evolution explains how living organisation changes through history. APS investigates the organisation through which living systems continually maintain themselves in the present. Historical transformation and organised persistence therefore answer different but complementary biological questions.
+> APS does not replace evolutionary theory with a theory of persistence. Evolution explains how living organisation changes through history. APS investigates the organisation through which living systems continually maintain themselves in the present. Historical transformation and organised persistence therefore answer different but complementary biological questions.
 
 ## Organisational Biology
 
