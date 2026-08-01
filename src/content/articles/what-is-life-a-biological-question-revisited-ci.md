@@ -20,7 +20,7 @@ abstract: >
   the question remains open and argues that the continuing debate reflects
   uncertainty concerning the organisational target of biological
   explanation. Rather than asking which properties distinguish living
-  systems, APS investigates the kind of organisation that makes those
+  systems, the APS framework investigates the kind of organisation that makes those
   properties possible, proposing that life is best understood as
   viability-oriented, constraint-closed organisation sustained through
   organised persistence.
@@ -54,90 +54,1038 @@ relatedArticles:
 researchStreams: []
 
 references:
-  - id: schrodinger1944
-    authors: "Schrödinger, E."
-    year: 1944
-    title: "What Is Life?"
-    source: "Cambridge University Press"
-
-  - id: bernal1967
-    authors: "Bernal, J. D."
-    year: 1967
-    title: "The Origin of Life"
-    source: "World Publishing"
-
-  - id: rosen1991
-    authors: "Rosen, R."
-    year: 1991
-    title: "Life Itself"
-    source: "Columbia University Press"
-
-  - id: maturana1980
-    authors: "Maturana, H. R., & Varela, F. J."
-    year: 1980
-    title: "Autopoiesis and Cognition: The Realization of the Living"
-    source: "D. Reidel"
-
-  - id: jonas1966
-    authors: "Jonas, H."
-    year: 1966
-    title: "The Phenomenon of Life"
-    source: "Harper & Row"
-
-  - id: kauffman1993
-    authors: "Kauffman, S. A."
-    year: 1993
-    title: "The Origins of Order"
-    source: "Oxford University Press"
-
-  - id: deacon2011
-    authors: "Deacon, T. W."
-    year: 2011
-    title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
-
-  - id: noble2016
-    authors: "Noble, D."
-    year: 2016
-    title: "Dance to the Tune of Life: Biological Relativity"
-    source: "Cambridge University Press"
-
-  - id: valencia-narbona2026
-    authors: "Valencia-Narbona, M., Núñez Nieto, P., & Cofré Mardones, H."
-    year: 2026
-    title: "What Is Life? Definitions, Controversies, Ontological Perspectives, and Implications for Biology Education"
-    journal: "BioScience"
-    doi: "10.1093/biosci/biag059"
-
-  - id: walker2017
-    authors: "Walker, S. I."
-    year: 2017
-    title: "Origins of Life: A Problem for Physics, A Key Issues Review"
-    journal: "Reports on Progress in Physics"
-    volume: "80"
-    pages: "092601"
-
-  - id: nicholson-2025-what-is-life-revisited
-    authors: Nicholson, D. J.
-    year: 2025
-    title: What Is Life? Revisited
-    publisher: Cambridge University Press
-    doi: 10.1017/9781009127318
-
-  - id: gomez-marquez-2021-what-is-life
-    authors: Gómez-Márquez, J.
-    year: 2021
-    title: What Is Life?
-    journal: "Molecular Biology Reports"
-    volume: "48"
-    pages: "6573–6587"
-    doi: 10.1007/s11033-021-06658-z
+- id: bich-bechtel-2022-organization-needs-organization
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2022
+  title: 'Organization Needs Organization: Understanding Integrated Control in Living Organisms'
+  journal: Studies in History and Philosophy of Science
+  volume: '93'
+  pages: 96–106
+  doi: 10.1016/j.shpsa.2022.03.005
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: godfrey-smith-2009-darwinian-populations
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2009
+  title: Darwinian Populations and Natural Selection
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199552047.001.0001
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: holling-1973-resilience-stability
+  type: journal-article
+  authors: Holling, C. S.
+  year: 1973
+  title: Resilience and Stability of Ecological Systems
+  journal: Annual Review of Ecology and Systematics
+  volume: '4'
+  pages: 1–23
+  doi: 10.1146/annurev.es.04.110173.000245
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: craver-2007-explaining-the-brain
+  type: book
+  authors: Craver, C. F.
+  year: 2007
+  title: 'Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199299317.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-24
+- id: gilbert-sapp-tauber-2012-symbiotic-view-life
+  type: journal-article
+  authors: Gilbert, S. F., Sapp, J., & Tauber, A. I.
+  year: 2012
+  title: 'A Symbiotic View of Life: We Have Never Been Individuals'
+  journal: The Quarterly Review of Biology
+  volume: '87'
+  issue: '4'
+  pages: 325–341
+  doi: 10.1086/668166
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: lopez-diaz-gershenson-2026-general-theory-agency
+  type: preprint
+  authors: López-Díaz, A. J., & Gershenson, C.
+  year: 2026
+  title: 'A Matter of Time: Towards a General Theory of Agency'
+  repository: arXiv
+  identifier: arXiv:2606.23122
+  doi: 10.48550/arXiv.2606.23122
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: spencer-2026-agency-defining-activity-life
+  type: journal-article
+  authors: Spencer, R. D.
+  year: 2026
+  title: 'Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale'
+  journal: Biological Theory
+  doi: 10.1007/s13752-026-00547-6
+  verification:
+    status: verified
+    authority: Springer Nature and Crossref
+    verifiedDate: 2026-07-24
+- id: rosslenbroich-kuemmell-bembe-2024-agency-inherent-property-living-organisms
+  type: journal-article
+  authors: Rosslenbroich, B., Kümmell, S., & Bembé, B.
+  year: 2024
+  title: Agency as an Inherent Property of Living Organisms
+  journal: Biological Theory
+  volume: '19'
+  issue: '4'
+  pages: 224–236
+  doi: 10.1007/s13752-024-00471-7
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: barandiaran-di-paolo-rohde-2009-defining-agency
+  type: journal-article
+  authors: Barandiaran, X. E., Di Paolo, E., & Rohde, M.
+  year: 2009
+  title: 'Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action'
+  journal: Adaptive Behavior
+  volume: '17'
+  issue: '5'
+  pages: 367–386
+  doi: 10.1177/1059712309343819
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: moreno-mossio-2015-biological-autonomy
+  type: book
+  authors: Moreno, A., & Mossio, M.
+  year: 2015
+  title: 'Biological Autonomy: A Philosophical and Theoretical Enquiry'
+  publisher: Springer
+  doi: 10.1007/978-94-017-9837-2
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-24
+- id: nicholson-dupre-2018-everything-flows
+  type: edited-book
+  authors: Nicholson, D. J., & Dupré, J. (eds)
+  year: 2018
+  title: 'Everything Flows: Towards a Processual Philosophy of Biology'
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780198779636.001.0001
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: deacon-2011-incomplete-nature
+  type: book
+  authors: Deacon, T. W.
+  year: 2011
+  title: 'Incomplete Nature: How Mind Emerged from Matter'
+  publisher: W. W. Norton & Company
+  verification:
+    status: verified
+    verifiedDate: 2026-07-18
+- id: nicholson-2025-what-is-life
+  type: book
+  authors: Nicholson, D. J.
+  year: 2025
+  title: What Is Life? Revisited
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009127318
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-24
+- id: schrodinger-1944-what-is-life
+  type: book
+  authors: Schrödinger, E.
+  year: 1944
+  title: What Is Life? The Physical Aspect of the Living Cell
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: rosen-1991-life-itself
+  type: book
+  authors: Rosen, R.
+  year: 1991
+  title: 'Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life'
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: Columbia University Press
+    verifiedDate: 2026-07-24
+- id: maturana-varela-1980-autopoiesis-cognition
+  type: book
+  authors: Maturana, H. R., & Varela, F. J.
+  year: 1980
+  title: 'Autopoiesis and Cognition: The Realization of the Living'
+  publisher: D. Reidel Publishing Company
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: montevil-mossio-2015-closure-constraints
+  type: journal-article
+  authors: Montévil, M., & Mossio, M.
+  year: 2015
+  title: Biological Organisation as Closure of Constraints
+  journal: Journal of Theoretical Biology
+  volume: '372'
+  pages: 179–191
+  doi: 10.1016/j.jtbi.2015.02.029
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-07-19
+- id: mossio-saborido-moreno-2009-functions
+  type: journal-article
+  authors: Mossio, M., Saborido, C., & Moreno, A.
+  year: 2009
+  title: An Organizational Account of Biological Functions
+  journal: The British Journal for the Philosophy of Science
+  volume: '60'
+  issue: '4'
+  pages: 813–841
+  doi: 10.1093/bjps/axp036
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: mossio-2023-organization-biology
+  type: edited-book
+  authors: Mossio, M. (ed.)
+  year: 2023
+  title: Organization in Biology
+  publisher: Springer
+  doi: 10.1007/978-3-031-38968-9
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2002-systems-biology
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+  journal: Science
+  volume: '295'
+  issue: '5560'
+  pages: 1662–1664
+  doi: 10.1126/science.1069492
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-07-24
+- id: kitano-2002-computational-systems-biology
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: Computational Systems Biology
+  journal: Nature
+  volume: '420'
+  pages: 206–210
+  doi: 10.1038/nature01254
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2004-biological-robustness
+  type: journal-article
+  authors: Kitano, H.
+  year: 2004
+  title: Biological Robustness
+  journal: Nature Reviews Genetics
+  volume: '5'
+  issue: '11'
+  pages: 826–837
+  doi: 10.1038/nrg1471
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: bich-ruiz-mirazo-moreno-2016-regulation
+  type: journal-article
+  authors: Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A.
+  year: 2016
+  title: 'Biological Regulation: Controlling the System from Within'
+  journal: Biology & Philosophy
+  volume: '31'
+  pages: 237–265
+  doi: 10.1007/s10539-015-9497-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: nicholson-2014-return-organism
+  type: journal-article
+  authors: Nicholson, D. J.
+  year: 2014
+  title: The Return of the Organism as a Fundamental Explanatory Concept in Biology
+  journal: Philosophy Compass
+  volume: '9'
+  issue: '5'
+  pages: 347–359
+  doi: 10.1111/phc3.12128
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-07-19
+- id: dupre-nicholson-2018-manifesto
+  authors: Dupré, J., & Nicholson, D. J.
+  year: 2018
+  title: A Manifesto for a Processual Philosophy of Biology
+  source: "Everything Flows: Towards a Processual Philosophy of Biology"
+  publisher: Oxford University Press
+  pages: "3–46"
+  doi: 10.1093/oso/9780198779636.003.0001
+  note: "Edited by D. J. Nicholson and J. Dupré."
+- id: nicholson-2019-cell-machine
+  type: journal-article
+  authors: Nicholson, D. J.
+  year: 2019
+  title: Is the Cell Really a Machine?
+  journal: Journal of Theoretical Biology
+  volume: '477'
+  pages: 108–126
+  doi: 10.1016/j.jtbi.2019.06.002
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-07-19
+- id: bechtel-richardson-1993-discovering-complexity
+  type: book
+  authors: Bechtel, W., & Richardson, R. C.
+  year: 1993
+  title: 'Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+  type: book
+  authors: Woodward, J.
+  year: 2003
+  title: 'Making Things Happen: A Theory of Causal Explanation'
+  publisher: Oxford University Press
+  doi: 10.1093/0195155270.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: darden-2006-reasoning-biological-discoveries
+  type: book
+  authors: Darden, L.
+  year: 2006
+  title: 'Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511498442
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: wimsatt-2007-re-engineering-philosophy
+  type: book
+  authors: Wimsatt, W. C.
+  year: 2007
+  title: 'Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: mitchell-2003-biological-complexity
+  type: book
+  authors: Mitchell, S. D.
+  year: 2003
+  title: Biological Complexity and Integrative Pluralism
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511802683
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: oyama-2000-ontogeny-information
+  type: book
+  authors: Oyama, S.
+  year: 2000
+  title: 'The Ontogeny of Information: Developmental Systems and Evolution'
+  publisher: Duke University Press
+  edition: 2nd
+  doi: 10.1515/9780822380665
+  verification:
+    status: verified
+    authority: Duke University Press
+    verifiedDate: 2026-07-19
+- id: sterelny-griffiths-1999-sex-death
+  type: book
+  authors: Sterelny, K., & Griffiths, P. E.
+  year: 1999
+  title: 'Sex and Death: An Introduction to Philosophy of Biology'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-07-19
+- id: godfrey-smith-2016-other-minds
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2016
+  title: 'Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness'
+  publisher: Farrar, Straus and Giroux
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: maynard-smith-szathmary-1995-major-transitions
+  type: book
+  authors: Maynard Smith, J., & Szathmáry, E.
+  year: 1995
+  title: The Major Transitions in Evolution
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: west-2017-scale
+  type: book
+  authors: West, G. B.
+  year: 2017
+  title: 'Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies'
+  publisher: Penguin Press
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: odum-1969-ecosystem-development
+  type: journal-article
+  authors: Odum, E. P.
+  year: 1969
+  title: The Strategy of Ecosystem Development
+  journal: Science
+  volume: '164'
+  issue: '3877'
+  pages: 262–270
+  doi: 10.1126/science.164.3877.262
+  verification:
+    status: verified
+    authority: Science
+    verifiedDate: 2026-07-19
+- id: levin-1998-ecosystems-biosphere
+  type: journal-article
+  authors: Levin, S. A.
+  year: 1998
+  title: Ecosystems and the Biosphere as Complex Adaptive Systems
+  journal: Ecosystems
+  volume: '1'
+  issue: '5'
+  pages: 431–436
+  doi: 10.1007/s100219900037
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: simon-1962-complexity
+  type: journal-article
+  authors: Simon, H. A.
+  year: 1962
+  title: The Architecture of Complexity
+  journal: Proceedings of the American Philosophical Society
+  volume: '106'
+  issue: '6'
+  pages: 467–482
+  verification:
+    status: verified
+    authority: JSTOR
+    verifiedDate: 2026-07-19
+- id: holland-1992-complex-adaptive-systems
+  type: journal-article
+  authors: Holland, J. H.
+  year: 1992
+  title: Complex Adaptive Systems
+  journal: Daedalus
+  volume: '121'
+  issue: '1'
+  pages: 17–30
+  verification:
+    status: verified
+    authority: MIT Press / JSTOR
+    verifiedDate: 2026-07-19
+- id: kelley-1973-process
+  type: book
+  authors: Kelley, K. D.
+  year: 1973
+  title: Process, System, and Change in Biology
+  publisher: Martinus Nijhoff
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-19
+- id: whitehead-1929-process-reality
+  type: book
+  authors: Whitehead, A. N.
+  year: 1929
+  title: 'Process and Reality: An Essay in Cosmology'
+  publisher: Macmillan
+  verification:
+    status: verified
+    authority: Macmillan first edition
+    verifiedDate: 2026-07-19
+- id: mayr-1982-growth-biological-thought
+  type: book
+  authors: Mayr, E.
+  year: 1982
+  title: 'The Growth of Biological Thought: Diversity, Evolution, and Inheritance'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: dawkins-1986-blind-watchmaker
+  type: book
+  authors: Dawkins, R.
+  year: 1986
+  title: The Blind Watchmaker
+  publisher: W. W. Norton & Company
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: paley-1802-natural-theology
+  type: book
+  authors: Paley, W.
+  year: 1802
+  title: Natural Theology; or, Evidences of the Existence and Attributes of the Deity
+  publisher: R. Faulder
+  verification:
+    status: verified
+    authority: First edition
+    verifiedDate: 2026-07-19
+- id: darwin-1859-origin
+  type: book
+  authors: Darwin, C.
+  year: 1859
+  title: On the Origin of Species
+  publisher: John Murray
+  verification:
+    status: verified
+    authority: Darwin Online
+    verifiedDate: 2026-07-24
+- id: jacob-1973-logic-life
+  type: book
+  authors: Jacob, F.
+  year: 1973
+  title: 'The Logic of Life: A History of Heredity'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Harvard Library and Open Library MARC record
+    verifiedDate: 2026-07-24
+- id: noble-2006-music-life
+  type: book
+  authors: Noble, D.
+  year: 2006
+  title: 'The Music of Life: Biology Beyond Genes'
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: shapiro-2011-evolution
+  type: book
+  authors: Shapiro, J. A.
+  year: 2011
+  title: 'Evolution: A View from the 21st Century'
+  publisher: FT Press
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: capra-luisi-2014-systems-view-life
+  type: book
+  authors: Capra, F., & Luisi, P. L.
+  year: 2014
+  title: 'The Systems View of Life: A Unifying Vision'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: bertalanffy-1968-general-system-theory
+  type: book
+  authors: von Bertalanffy, L.
+  year: 1968
+  title: 'General System Theory: Foundations, Development, Applications'
+  publisher: George Braziller
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: ashby-1956-introduction-cybernetics
+  type: book
+  authors: Ashby, W. R.
+  year: 1956
+  title: An Introduction to Cybernetics
+  publisher: Chapman & Hall
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: wiener-1948-cybernetics
+  type: book
+  authors: Wiener, N.
+  year: 1948
+  title: 'Cybernetics: Or Control and Communication in the Animal and the Machine'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: simondon-1958-individuation
+  type: book
+  authors: Simondon, G.
+  year: 1958
+  title: L'Individuation à la lumière des notions de forme et d'information
+  publisher: Presses Universitaires de France
+  verification:
+    status: verified
+    authority: PUF
+    verifiedDate: 2026-07-19
+- id: weber-varela-2002-life-after-kant
+  type: journal-article
+  authors: Weber, A., & Varela, F. J.
+  year: 2002
+  title: 'Life After Kant: Natural Purposes and the Autopoietic Foundations of Biological Individuality'
+  journal: Phenomenology and the Cognitive Sciences
+  volume: '1'
+  issue: '2'
+  pages: 97–125
+  doi: 10.1023/A:1020368120174
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: ruiz-mirazo-moreno-2004-basic-autonomy
+  type: journal-article
+  authors: Ruiz-Mirazo, K., & Moreno, A.
+  year: 2004
+  title: Basic Autonomy as a Fundamental Step in the Synthesis of Life
+  journal: Artificial Life
+  volume: '10'
+  issue: '3'
+  pages: 235–259
+  doi: 10.1162/1064546041255559
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: di-paolo-2005-autopoiesis-adaptivity
+  type: journal-article
+  authors: Di Paolo, E. A.
+  year: 2005
+  title: Autopoiesis, Adaptivity, Teleology, Agency
+  journal: Phenomenology and the Cognitive Sciences
+  volume: '4'
+  issue: '4'
+  pages: 429–452
+  doi: 10.1007/s11097-005-9002-y
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: thompson-2007-mind-in-life
+  type: book
+  authors: Thompson, E.
+  year: 2007
+  title: 'Mind in Life: Biology, Phenomenology, and the Sciences of Mind'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-07-19
+- id: di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
+  type: book
+  authors: Di Paolo, E. A., Buhrmann, T., & Barandiaran, X. E.
+  year: 2017
+  title: 'Sensorimotor Life: An Enactive Proposal'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780198786849.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: wilson-sober-1998-unto-others
+  type: book
+  authors: Sober, E., & Wilson, D. S.
+  year: 1998
+  title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-07-19
+- id: wilson-2002-darwins-cathedral
+  type: book
+  authors: Wilson, D. S.
+  year: 2002
+  title: 'Darwin''s Cathedral: Evolution, Religion, and the Nature of Society'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-07-19
+- id: wilson-2019-this-view-life
+  type: book
+  authors: Wilson, D. S.
+  year: 2019
+  title: 'This View of Life: Completing the Darwinian Revolution'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: okasha-2006-levels-selection
+  type: book
+  authors: Okasha, S.
+  year: 2006
+  title: Evolution and the Levels of Selection
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: godfrey-smith-2013-darwinian-individuals
+  authors: Godfrey-Smith, P.
+  year: 2013
+  title: Darwinian Individuals
+  source: "From Groups to Individuals: Evolution and Emerging Individuality"
+  publisher: MIT Press
+  pages: "17–36"
+  note: "Edited by F. Bouchard and P. Huneman."
+- id: bouchard-huneman-2013-groups-individuals
+  type: edited-book
+  authors: Bouchard, F., & Huneman, P. (eds)
+  year: 2013
+  title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: clarke-okasha-2013-individuality
+  authors: Clarke, E.
+  year: 2013
+  title: The Multiple Realizability of Biological Individuals
+  source: "From Groups to Individuals: Evolution and Emerging Individuality"
+  publisher: MIT Press
+  pages: "303–322"
+  note: "Edited by F. Bouchard and P. Huneman."
+- id: west-eberhard-2003-developmental-plasticity
+  type: book
+  authors: West-Eberhard, M. J.
+  year: 2003
+  title: Developmental Plasticity and Evolution
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: pigliucci-muller-2010-extended-synthesis
+  type: edited-book
+  authors: Pigliucci, M., & Müller, G. B. (eds)
+  year: 2010
+  title: 'Evolution: The Extended Synthesis'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: laland-et-al-2015-extended-synthesis
+  type: journal-article
+  authors: Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee,
+    J.
+  year: 2015
+  title: 'The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions'
+  journal: Proceedings of the Royal Society B
+  volume: '282'
+  issue: '1813'
+  article-number: '20151019'
+  doi: 10.1098/rspb.2015.1019
+  verification:
+    status: verified
+    authority: Royal Society
+    verifiedDate: 2026-07-19
+- id: dennett-1995-darwins-dangerous-idea
+  type: book
+  authors: Dennett, D. C.
+  year: 1995
+  title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
+  publisher: Simon & Schuster
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: sterelny-2023-evolution
+  type: book
+  authors: Sterelny, K.
+  year: 2023
+  title: Evolution for Everyone
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: jablonka-lamb-2020-evolution-four-dimensions
+  type: book
+  authors: Jablonka, E., & Lamb, M. J.
+  year: 2020
+  title: Evolution in Four Dimensions
+  edition: 2nd
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: odling-smee-laland-feldman-2003-niche-construction
+  type: book
+  authors: Odling-Smee, F. J., Laland, K. N., & Feldman, M. W.
+  year: 2003
+  title: 'Niche Construction: The Neglected Process in Evolution'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: 2026-07-19
+- id: uexkull-2010-theory-meaning
+  type: book
+  authors: von Uexküll, J.
+  year: 2010
+  title: A Theory of Meaning
+  publisher: University of Minnesota Press
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-07-19
+- id: hoffmeyer-1996-signs-meaning
+  type: book
+  authors: Hoffmeyer, J.
+  year: 1996
+  title: Signs of Meaning in the Universe
+  publisher: Indiana University Press
+  verification:
+    status: verified
+    authority: Indiana University Press
+    verifiedDate: 2026-07-19
+- id: peirce-collected-papers
+  type: book
+  authors: Hartshorne, C., Weiss, P., & Burks, A. W. (eds)
+  year: 1931
+  title: Collected Papers of Charles Sanders Peirce
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-07-19
+- id: millikan-1984-language-thought
+  type: book
+  authors: Millikan, R. G.
+  year: 1984
+  title: Language, Thought, and Other Biological Categories
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: millikan-1993-white-queen
+  type: book
+  authors: Millikan, R. G.
+  year: 1993
+  title: White Queen Psychology and Other Essays for Alice
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: millikan-2004-varieties-meaning
+  type: book
+  authors: Millikan, R. G.
+  year: 2004
+  title: Varieties of Meaning
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: nagel-2012-mind-cosmos
+  type: book
+  authors: Nagel, T.
+  year: 2012
+  title: Mind and Cosmos
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: walsh-2015-organism-agency
+  type: book
+  authors: Walsh, D. M.
+  year: 2015
+  title: Organisms, Agency, and Evolution
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: ikkurthi-mallikarjuna-2026-sensing-without-brain
+  type: journal-article
+  authors: Ikkurthi, V. K., Mallikarjuna, K., Naik, B. J., Penchala, P. G., Skylab, G., Thanuja, V., & Vinnakota, L.
+  year: 2026
+  title: 'Sensing Without a Brain: Functional Parallels Between Plants and Animals Senses'
+  journal: European Journal of Ecology, Biology and Agriculture
+  publisher: AMO Publisher
+  volume: '3'
+  issue: '1'
+  pages: 49-60
+  doi: 10.59324/ejeba.2026.3(1).05
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: aristotle-1937-parts-animals
+  type: book
+  authors: Aristotle
+  year: 1937
+  title: Parts of Animals
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: bernard-1865-introduction-medicine-experimentale
+  type: book
+  authors: Bernard, C.
+  year: 1865
+  title: Introduction à l'étude de la médecine expérimentale
+  publisher: J.-B. Baillière et fils
+  verification:
+    status: verified
+    authority: Bibliothèque nationale de France
+    verifiedDate: 2026-07-24
+- id: bechtel-2008-mental-mechanisms
+  type: book
+  authors: Bechtel, W.
+  year: 2008
+  title: 'Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience'
+  publisher: Psychology Press
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-07-24
+- id: kirschner-gerhart-2005-plausibility-life
+  type: book
+  authors: Kirschner, M. W., & Gerhart, J. C.
+  year: 2005
+  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Yale University Press and WorldCat
+    verifiedDate: 2026-07-24
+- id: cleland-chyba-2002-defining-life
+  type: journal-article
+  authors: Cleland, C. E., & Chyba, C. F.
+  year: 2002
+  title: Defining 'Life'
+  journal: Origins of Life and Evolution of the Biosphere
+  volume: '32'
+  issue: '4'
+  pages: 387–393
+  doi: 10.1023/A:1020503324273
+  verification:
+    status: verified
+    authority: PubMed and Princeton University
+    verifiedDate: 2026-08-01
+- id: cleland-2019-universal-theory-life
+  type: book
+  authors: Cleland, C. E.
+  year: 2019
+  title: 'The Quest for a Universal Theory of Life: Searching for Life As We Don''t Know It'
+  publisher: Cambridge University Press
+  doi: 10.1017/9781139046893
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-01
+- id: gomez-marquez-2021-what-is-life
+  type: journal-article
+  authors: Gómez-Márquez, J.
+  year: 2021
+  title: What Is Life?
+  journal: Molecular Biology Reports
+  volume: '48'
+  issue: '8'
+  pages: 6223–6230
+  doi: 10.1007/s11033-021-06594-5
+  verification:
+    status: verified
+    authority: Springer Nature and PubMed
+    verifiedDate: 2026-08-01
+- id: ruiz-mirazo-pereto-moreno-2004-universal-definition-life
+  type: journal-article
+  authors: Ruiz-Mirazo, K., Peretó, J., & Moreno, A.
+  year: 2004
+  title: 'A Universal Definition of Life: Autonomy and Open-Ended Evolution'
+  journal: Origins of Life and Evolution of the Biosphere
+  volume: '34'
+  issue: '3'
+  pages: 323–346
+  doi: 10.1023/B:ORIG.0000016440.53346.DC
+  verification:
+    status: verified
+    authority: PubMed and Springer Nature
+    verifiedDate: 2026-08-01
+- id: valencia-narbona-nunez-nieto-cofre-mardones-2026-what-is-life
+  type: journal-article
+  authors: Valencia-Narbona, M., Núñez Nieto, P., & Cofré Mardones, H.
+  year: 2026
+  title: What Is Life? Definitions, Controversies, Ontological Perspectives, and Implications for Biology Education
+  journal: BioScience
+  doi: 10.1093/biosci/biag059
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-01
 ---
 
 > **Where this article fits:** The question *What is life?* occupies a special place within APS because it addresses the most fundamental question in biology. Before we can explain evolution, development, cognition, ecology, or behaviour, we must first understand what kind of organisation makes something alive. Several APS articles approach this question from different perspectives. 
@@ -165,7 +1113,7 @@ The persistence of this question is reflected in the remarkable diversity of pro
 
 This continuing disagreement suggests that the problem is not simply the absence of a sufficiently comprehensive list of biological characteristics. Rather, different definitions frequently address different explanatory questions. Some identify properties commonly associated with living systems, others specify criteria for classification, while others seek to explain the distinctive organisation exhibited by organisms. These are related but not identical enterprises. Consequently, disagreements about the definition of life often arise because the underlying explanatory objective has not been clearly distinguished.
 
-APS approaches this issue by drawing an explicit distinction between recognising, defining, and explaining life. Observable characteristics such as metabolism, growth, regulation, reproduction, responsiveness, and evolution provide important evidence of living organisation and often assist in recognising living systems. A biological definition seeks to identify what qualifies a system as living. Biological explanation asks a deeper question: what kind of organisation makes these characteristic activities possible in the first place?
+The APS framework approaches this issue by drawing an explicit distinction between recognising, defining, and explaining life. Observable characteristics such as metabolism, growth, regulation, reproduction, responsiveness, and evolution provide important evidence of living organisation and often assist in recognising living systems. A biological definition seeks to identify what qualifies a system as living. Biological explanation asks a deeper question: what kind of organisation makes these characteristic activities possible in the first place?
 
 The central claim of this article is that the enduring debate over life reflects continuing uncertainty about that explanatory target. If biology seeks merely to classify living systems, then lists of defining characteristics may be sufficient. If, however, biology seeks to explain why those characteristics belong together as expressions of a single biological phenomenon, then the problem becomes organisational rather than merely classificatory.
 
@@ -195,7 +1143,9 @@ Taken together, these approaches demonstrate that contemporary biology possesses
 
 The continuing diversity of these approaches therefore suggests that the central question may not be which definition of life is correct, but how these different explanatory achievements relate to one another. If each perspective captures an important aspect of living systems, then the remaining challenge is not simply to choose between them but to determine whether they can be understood within a broader organisational framework that clarifies their complementary explanatory roles.
 
-It is at this point that APS enters the discussion. Rather than proposing another competing definition of life, APS asks whether the major explanatory traditions of biology become more coherent when interpreted as complementary perspectives on the organisation through which living systems maintain and re-establish the conditions of their own persistence. The following section develops this comparative explanatory perspective.
+It is at this point that APS enters the discussion. Rather than proposing another competing definition of life, The APS framework investigates whether the major explanatory traditions of biology become more coherent when interpreted as complementary perspectives on the organisation through which living systems maintain and re-establish the conditions of their own persistence. The following section develops this comparative explanatory perspective.
+
+Although these approaches illuminate important aspects of living systems, they also reveal a deeper explanatory question. Rather than asking which characteristics distinguish life, biology may need to ask what kind of organisation those characteristics collectively express.
 
 ## The Explanatory Shift: From Biological Characteristics to Biological Organisation
 
@@ -203,11 +1153,11 @@ The preceding discussion suggests that the enduring diversity of definitions of 
 
 This shift in explanatory emphasis begins by distinguishing biological characteristics from biological organisation. Characteristics such as metabolism, growth, regulation, development, responsiveness, reproduction, and evolution are readily observable features of living systems. They provide valuable evidence that a system is alive and often serve as practical criteria for biological investigation. Yet the presence of these characteristics does not, by itself, explain why they occur together or why they exhibit the remarkable coherence that distinguishes living systems from other organised physical systems.
 
-An explanatory account therefore requires more than a catalogue of biological properties. It must identify the organisational conditions under which those properties become intelligible as expressions of a single biological phenomenon. The explanatory challenge is not simply to recognise life once it is present, but to understand the mode of organisation through which living systems continually generate, maintain, and re-establish their own biological continuity.
+An explanatory account therefore requires more than a catalogue of biological properties. It must identify the organisational conditions under which those properties become intelligible as expressions of a single biological phenomenon. The explanatory challenge is not simply to recognise life once it is present, but to understand the mode of organisation through which living systems continually maintain and re-establish the conditions of their own persistence.
 
 Viewed from this perspective, the principal traditions discussed in the previous section can be understood as addressing complementary dimensions of living organisation rather than competing answers to a single question. Property-based approaches identify characteristic manifestations of life. Evolutionary theory explains the historical transformation of living organisation through descent with modification and natural selection. Organisational approaches investigate the self-maintaining structures and processes through which organisms preserve their integrity under changing conditions. Each therefore contributes to understanding a genuine aspect of living systems while leaving open the broader question of how these explanatory achievements relate.
 
-APS begins with that broader question. Rather than asking which biological characteristic should define life, APS asks what kind of organisation makes the diverse phenomena investigated throughout biology intelligible as aspects of the same living system. This is an explanatory rather than classificatory shift. The objective is not to replace established biological theories with a new master theory, nor to reduce their distinctive explanatory contributions to a single principle. Instead, APS investigates whether these contributions become more coherent when interpreted as complementary perspectives on the organisation required for living systems to maintain themselves through continual change.
+The APS framework begins with that broader question. Rather than asking which biological characteristic should define life, APS asks what kind of organisation makes the diverse phenomena investigated throughout biology intelligible as aspects of the same living system. This is an explanatory rather than classificatory shift. The objective is not to replace established biological theories with a new master theory, nor to reduce their distinctive explanatory contributions to a single principle. Instead, APS investigates whether these contributions become more coherent when interpreted as complementary perspectives on the organisation required for living systems to maintain themselves through continual change.
 
 The significance of this shift is methodological. Biology has long explained mechanisms, developmental processes, ecological interactions, and evolutionary change with extraordinary success. APS does not question these achievements. Instead, it asks whether these explanations presuppose a common organisational target. If so, then biological explanation may be understood not simply as the accumulation of specialised accounts, but as a family of complementary explanatory perspectives directed toward the organisation that distinguishes living systems.
 
@@ -215,41 +1165,45 @@ This change in explanatory priority also clarifies why debates concerning the de
 
 The organisational perspective adopted by APS consequently reframes the central question. Instead of asking which observable property, historical process, or organisational feature should define life, APS asks what organisation enables living systems to exhibit these phenomena as coordinated expressions of a continuing biological existence. The question is no longer primarily Which characteristics identify life? but What organisation makes those characteristics biologically coherent?
 
-The following section develops APS's proposed answer to that question by introducing viability-oriented, constraint-closed organisation as the organisational interpretation through which the diverse explanatory achievements of biology may be understood within a common comparative framework.
+If biological explanation ultimately concerns the organisation of living systems rather than an inventory of defining characteristics, the remaining question becomes: what is the nature of that organisation?
 
 ## Life as Viability-Oriented, Constraint-Closed Organisation
 
-The preceding discussion suggests that the continuing diversity of definitions of life reflects an unresolved question concerning the organisation that biology seeks to explain. Property-based, evolutionary, and organisational approaches each illuminate important dimensions of living systems, yet none alone has achieved broad conceptual agreement concerning what makes those dimensions aspects of a single biological phenomenon. APS responds to this situation by proposing that life is most coherently understood not as a defining property, a particular process, or an historical outcome, but as a distinctive mode of biological organisation.
+If biological explanation ultimately concerns the organisation of living systems rather than an inventory of defining characteristics, the next question concerns the nature of that organisation. The interpretation developed here answers that question by proposing that life is viability-oriented, constraint-closed organisation sustained through organised persistence.
 
-The central proposal of APS is therefore that life is viability-oriented, constraint-closed organisation. This formulation does not introduce an additional defining characteristic alongside metabolism, reproduction, evolution, or information. Instead, it identifies the organisational context within which these and other biological phenomena become intelligible as coordinated expressions of living systems. The emphasis shifts from identifying the observable features of organisms to understanding the organisation through which those features are generated, maintained, and continually re-established.
+The continuing diversity of definitions of life suggests that biology has not yet reached broad agreement concerning the organisation those definitions seek to characterise. Property-based, evolutionary, and organisational approaches each illuminate important dimensions of living systems, yet none alone has achieved broad conceptual agreement concerning what makes those dimensions aspects of a single biological phenomenon.
 
-The first component of this interpretation is viability. Viability refers to the capacity of a living system to maintain the organisational conditions required for its continued existence. It should not be understood as mere survival, reproductive success, or evolutionary fitness. Rather, viability is the ongoing organisational condition through which a living system preserves and re-establishes the constraints necessary for its own persistence despite continual material exchange, environmental disturbance, developmental change, and internal reorganisation. The maintenance of viability is therefore not an occasional achievement but the continuous organisational problem confronted by every living system.
+The interpretation developed here therefore proposes that life is most coherently understood not as a defining property, a particular process, or an historical outcome, but as a distinctive mode of biological organisation.
 
-The second component is constraint closure. Organisational approaches to biology have shown that living systems are distinguished by networks of mutually dependent constraints that regulate the physical and chemical processes from which organisms are constituted. These constraints do not exist independently of the processes they regulate; rather, they are continually generated, maintained, and renewed through the very organisation they sustain. Constraint closure therefore characterises a mode of organisation in which the conditions required for continued biological activity are themselves products of that activity.
+The central proposal developed in this article is that life is viability-oriented, constraint-closed organisation. This formulation does not introduce an additional defining characteristic alongside metabolism, reproduction, evolution, or information. Instead, it identifies the organisational context within which these and other biological phenomena become intelligible as coordinated expressions of living systems. The emphasis shifts from identifying the observable features of organisms to understanding the organisation through which they are generated, maintained, and continually re-established.
 
-APS adopts this organisational insight while placing viability at its explanatory centre. Constraint closure describes an important organisational architecture of living systems, but APS investigates whether its biological significance lies in its orientation towards the continual maintenance and re-establishment of viability. The organisation of living systems is not merely self-maintaining in an abstract sense; it is organised around the ongoing preservation of the conditions under which the organism can continue to exist as the kind of system that it is. Viability therefore provides the normative orientation through which constraint-closed organisation becomes specifically biological.
+The first component of this interpretation is viability. Viability refers to the capacity of a living system to maintain and re-establish the organisational conditions required for its own persistence. It should not be understood as mere survival, reproductive success, or evolutionary fitness. Rather, viability is the ongoing organisational condition through which a living system maintains and re-establishes the organisational conditions through which the constraints necessary for persistence are sustained. necessary for its own persistence despite continual material exchange, environmental disturbance, developmental change, and internal reorganisation. Maintaining viability is therefore not an occasional achievement but the continuous organisational problem confronting every living system.
 
-This interpretation also clarifies the relationship between organisation and the biological characteristics discussed in earlier sections. Metabolism contributes to the continual renewal of organisational conditions. Development reorganises those conditions across the life history of the organism. Regulation preserves viable organisation in the face of internal and external perturbation. Reproduction extends organised persistence beyond the lifetime of individual organisms. Evolution explains the historical transformation of viability-oriented organisation across successive generations. None of these phenomena defines life independently. Rather, each contributes to understanding how viability-oriented, constraint-closed organisation is maintained, transformed, or extended.
+The second component is constraint closure. Organisational approaches to biology have shown that living systems are distinguished by networks of mutually dependent constraints that regulate the physical and chemical processes from which organisms are constituted. These constraints do not exist independently of the processes they regulate. Rather, they are continually generated, maintained, and renewed through the organisation they sustain. Constraint closure therefore characterises a mode of organisation in which the conditions required for continued biological activity are themselves products of that activity.
 
-Accordingly, APS does not treat life as a property added to matter, nor as a particular mechanism operating within organisms. Life is understood as an organised mode of biological existence through which material processes become organised around the continual maintenance and re-establishment of viability. The unity of living systems therefore resides not in any single characteristic but in the organisation that integrates diverse biological activities into a coherent and persistent whole.
+APS adopts this organisational insight while placing viability at its explanatory centre. Constraint closure describes an important organisational architecture of living systems, but APS investigates whether its biological significance lies in its orientation towards the continual maintenance and re-establishment of viability. The organisation of living systems is not merely self-maintaining in an abstract sense. It is organised around the continual maintenance and re-establishment of the conditions required for its own persistence. Viability therefore provides the normative orientation through which constraint-closed organisation becomes specifically biological.
+
+This interpretation also clarifies the relationship between organisation and the biological characteristics discussed in earlier sections. Metabolism contributes to the continual renewal of organisational conditions. Development reorganises those conditions across the life history of the organism. Regulation preserves viable organisation in the face of internal and external perturbation. Reproduction extends organised persistence beyond the lifetime of individual organisms. Evolution explains the historical transformation of viability-oriented organisation across successive generations. None of these phenomena defines life in isolation. Rather, each contributes to understanding how viability-oriented, constraint-closed organisation is maintained, transformed, or extended.
+
+Accordingly, within the APS framework, life is not treated as a property added to matter, nor as a particular mechanism operating within organisms. Life is understood as an distinctive mode of biological organisation through which material processes become organised around the continual maintenance and re-establishment of the conditions required for persistence. The unity of living systems therefore resides not in any single characteristic but in the organisation that integrates diverse biological activities into a coherent and persistent whole.
 
 [[box:borderline-cases-viruses-sterile-organisms-artificial-systems]]
 
-This organisational interpretation also explains why the major explanatory traditions considered in the previous section remain indispensable. Property-based approaches identify the characteristic manifestations of living organisation. Evolutionary biology explains its historical transformation. Organisational theories investigate its internal architecture. Each contributes genuine explanatory insight because each addresses a different dimension of the same organised biological phenomenon. APS does not seek to replace these perspectives but to clarify how their respective explanatory achievements relate through the organisation that they investigate from different viewpoints.
+This organisational interpretation also explains why the major explanatory traditions considered in the previous section remain indispensable. Property-based approaches identify the characteristic manifestations of living organisation. Evolutionary biology explains its historical transformation. Organisational theories investigate its internal architecture. Each contributes genuine explanatory insight because each addresses a different dimension of the same organised biological phenomenon. Each contributes genuine explanatory insight because each investigates a different aspect of the same organised biological phenomenon. The APS framework clarifies how these explanatory achievements relate within a common organisational interpretation.
 
-The interpretation developed here provides the foundation for the remainder of the APS framework. If life is viability-oriented, constraint-closed organisation, then the central concepts of biology may be understood as complementary explanatory perspectives on that organisation. The next section develops this implication by examining why agency, process, and scale should be understood not as competing theories or independent levels of explanation, but as complementary explanatory perspectives through which the organisation of life becomes scientifically intelligible.
-
-Once life is understood as viability-oriented, constraint-closed organisation, the central concepts of biology can be interpreted as complementary perspectives on that organisation. Metabolism renews it; development reorganises it; function contributes to it; evolution transforms it historically; ecology situates it environmentally; cognition extends its evaluative capacities. The diversity of biological explanation is therefore preserved while its organisational coherence becomes more explicit.
+The interpretation developed here provides the foundation for the remainder of the APS framework. If life is viability-oriented, constraint-closed organisation, the central concepts of biology may be understood as complementary explanatory perspectives on that organisation. The next section develops this implication by examining why Agency, Process, and Scale should be understood as complementary explanatory perspectives through which the organisation of life becomes scientifically intelligible.
 
 <div class="aps-diagram"> <a href="/assets/diagrams/what-is-life.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/what-is-life.png" alt="APS diagram showing life as viability-oriented, constraint-closed organisation sustained through organised persistence" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>What Makes Something Alive?</strong> APS defines life as viability-oriented, constraint-closed organisation sustained through organised persistence. Agency is the activity through which living systems maintain viability, while process and scale describe how persistence is organised through time and across biological organisation. </p> </div>
 
+APS does not define life by reference to life itself. Viability and constraint closure are introduced as organisational concepts whose conjunction identifies a distinctive mode of biological organisation. The claim is therefore an explanatory proposal rather than a circular definition.
+
 ## Agency, Process, and Scale: Three Complementary Perspectives on Living Organisation
 
-If life is understood as viability-oriented, constraint-closed organisation, the next question is how that organisation should be investigated scientifically. The preceding sections have argued that living systems cannot be adequately understood through isolated biological characteristics alone, but require explanation in terms of the organisation that unifies those characteristics. APS addresses this explanatory task through three complementary perspectives: Agency, Process, and Scale. These are not independent theories of life, nor separate components of living systems. They are complementary perspectives through which the same organised biological phenomenon becomes scientifically intelligible.
+If life is understood as viability-oriented, constraint-closed organisation, the next question is how that organisation should be investigated scientifically. The preceding sections have argued that living systems cannot be adequately understood through isolated biological characteristics alone, but require explanation in terms of the organisation that unifies those characteristics. The APS framework addresses this explanatory task through three complementary perspectives: Agency, Process, and Scale. These are not independent theories of life, nor separate components of living systems. They are complementary perspectives through which the same organised biological phenomenon becomes scientifically intelligible.
 
 Each perspective begins from a different explanatory question. Agency asks what living systems do to maintain and re-establish the conditions of their own persistence. Process asks how this organisation maintains continuity despite continual material and organisational change. Scale asks where organised persistence is realised across the spatial and temporal organisation of life. Although these questions differ, they are directed towards the same biological organisation and therefore produce complementary rather than competing explanations.
 
-The perspective of Agency focuses upon the present-tense activity through which living organisation is enacted and sustained. Living systems do not simply undergo physical and chemical change; they continually regulate, repair, reorganise, and coordinate their own activities in ways that contribute to the maintenance of viability. Agency therefore refers neither to conscious intention nor to deliberative choice. It identifies the characteristic organisational activity through which living systems actively maintain the conditions required for their continued existence. Biological agency is the present-tense activity through which viability-oriented, constraint-closed organisation is enacted and sustained.
+The perspective of Agency focuses upon the present-tense activity through which living organisation is enacted and sustained. Living systems do not simply undergo physical and chemical change; they continually regulate, repair, reorganise, and coordinate their own activities in ways that contribute to the maintenance of viability. Agency therefore refers neither to conscious intention nor to deliberative choice. It identifies the characteristic organisational activity through which living systems actively maintain and re-establish the conditions of their own persistence. Biological agency is the present-tense activity through which viability-oriented, constraint-closed organisation is enacted and sustained.
 
 The perspective of Process addresses the continuity of that organisation through time. Living systems are characterised by continual material turnover, developmental transformation, physiological regulation, and environmental interaction. Despite this continual change, organisms maintain sufficient organisational continuity to remain the same living systems. Process therefore investigates how viability-oriented organisation persists through continual reorganisation rather than despite it. Biological continuity is not the preservation of unchanging structures but the ongoing maintenance and re-establishment of organised persistence.
 
@@ -267,11 +1221,11 @@ The remaining question is therefore not what life is, nor how it should be inves
 
 The preceding sections have argued that life is most coherently understood as viability-oriented, constraint-closed organisation and that Agency, Process, and Scale provide complementary perspectives for investigating that organisation. The remaining question concerns the scientific significance of this interpretation. If APS neither replaces established biological theories nor introduces a new empirical discipline, what contribution does it make to biological understanding?
 
-APS contributes by providing a comparative explanatory methodology through which the major concepts of biology can be understood in relation to a common organisational target. Rather than treating concepts such as function, development, evolution, ecology, cognition, and agency as largely independent explanatory domains, APS asks how each contributes to understanding the organisation through which living systems maintain and re-establish the conditions of their own persistence. The contribution of APS therefore lies not in replacing existing explanations but in clarifying their organisational relationships.
+The contribution of the APS framework lies in providing a comparative explanatory methodology through which the major concepts of biology can be understood in relation to a common organisational target. Rather than treating concepts such as function, development, evolution, ecology, cognition, and agency as largely independent explanatory domains, the APS framework examines how each contributes to an understanding of the organisation through which living systems maintain and re-establish the conditions of their own persistence. The contribution of APS therefore lies not in replacing existing explanations but in clarifying their organisational relationships.
 
 This perspective becomes evident when considering the concept of biological function. Traditional discussions frequently distinguish between causal-role accounts, selected-effects theories, and organisational interpretations. APS does not seek to replace these analyses. Instead, it asks what function explains within living systems. From an APS perspective, biological function identifies the present-tense, viability-relative organisational contribution of a structure, process, or activity. Historical evolution may explain how a function arose, but the function presently consists in the contribution that the trait makes to maintaining viability-oriented organisation. Function therefore becomes an explanatory perspective on organised persistence rather than an isolated conceptual problem.
 
-The same organisational interpretation clarifies development. Development is often understood as the sequence of changes through which an organism progresses from fertilisation to maturity. APS retains this understanding while emphasising its organisational significance. Development concerns the continual reorganisation of living systems through changing forms while viability is maintained or re-established. The explanatory focus therefore shifts from developmental stages alone to the continuity of living organisation across the organism's life history.
+The same organisational interpretation clarifies development. Development is often understood as the sequence of changes through which an organism progresses from fertilisation to maturity. the APS interpretation retains this understanding while emphasising its organisational significance. Development concerns the continual reorganisation of living systems through changing forms while viability is maintained or re-established. The explanatory focus therefore shifts from developmental stages alone to the continuity of living organisation across the organism's life history.
 
 A similar relationship exists with evolution. Evolutionary theory explains the historical transformation of living systems through descent with modification, natural selection, and other evolutionary processes. APS neither modifies these explanations nor competes with them. Instead, it asks what persists through evolutionary transformation. From this perspective, evolution becomes the historical transformation of viability-oriented organisation across successive generations. Evolutionary biology explains how living organisation changes historically; APS clarifies the organisational target of that historical explanation.
 
@@ -279,7 +1233,7 @@ The organisational perspective likewise illuminates ecology. Ecological investig
 
 The same pattern extends to cognition. APS does not identify cognition with life, nor does it treat all living systems as cognitive in the same sense. Instead, cognition is understood as a specialised organisational achievement that emerges within the broader organisation of life. Living systems must first maintain viability-oriented organisation before more complex forms of biological evaluation, integration, and cognition become possible. Cognition therefore presupposes life rather than defining it, while extending the organisational capacities through which persistence is regulated.
 
-These examples illustrate a general feature of the APS methodology. Existing biological disciplines continue to address their established explanatory questions, yet their respective achievements become more coherent when interpreted in relation to the organisation that unites them. APS therefore provides an explanatory grammar rather than an alternative empirical programme. It clarifies how different biological explanations relate without diminishing the autonomy or empirical success of the disciplines from which they arise.
+These examples illustrate a general feature of the APS methodology. Existing biological disciplines continue to address their established explanatory questions, yet their respective achievements become more coherent when interpreted in relation to the organisation that unites them. The APS framework therefore provides an explanatory grammar rather than an alternative empirical programme. It clarifies how different biological explanations relate without diminishing the autonomy or empirical success of the disciplines from which they arise.
 
 This comparative perspective also has implications for theoretical biology. By identifying viability-oriented, constraint-closed organisation as the common organisational target of biological explanation, APS encourages explicit comparison between explanatory traditions that are often considered independently. Debates concerning function, individuality, development, evolution, agency, ecology, and cognition can therefore be understood not as isolated conceptual disputes but as complementary investigations of different aspects of organised persistence. In this way, APS seeks to strengthen theoretical integration while preserving the explanatory diversity that characterises contemporary biology.
 
@@ -309,7 +1263,7 @@ The question What is life? thus acquires a renewed significance. Rather than see
 
 The question What is life? has accompanied biology throughout its history and continues to resist a universally accepted answer. This persistence should not be interpreted as evidence of scientific failure. Rather, it reflects the extraordinary complexity of the biological organisation that living systems exhibit and the diversity of explanatory questions through which that organisation has been investigated. Property-based definitions, evolutionary accounts, autopoietic and autonomy theories, and other organisational approaches have each contributed substantially to biological understanding because each has illuminated a genuine aspect of living systems.
 
-This article has argued that the continuing diversity of these approaches reflects more than disagreement over definitions. It reflects differing assumptions concerning the explanatory target of biological inquiry. Some approaches seek criteria for recognising living systems, others identify defining characteristics, while others investigate the organisation through which living systems maintain themselves. These are distinct, though complementary, explanatory objectives. Recognising this distinction allows the long-standing debate concerning life to be interpreted not simply as a search for a better definition, but as an investigation into the organisation that unifies the diverse phenomena studied throughout biology.
+This article has argued that the continuing diversity of these approaches reflects more than disagreement over definitions. It reflects differing assumptions concerning the explanatory target of biological inquiry. Some approaches seek criteria for recognising living systems, others identify defining characteristics, while others investigate the organisation through which living systems maintain and re-establish the conditions of their own persistence. These are distinct, though complementary, explanatory objectives. Recognising this distinction allows the long-standing debate concerning life to be interpreted not simply as a search for a better definition, but as an investigation into the organisation that unifies the diverse phenomena studied throughout biology.
 
 APS approaches this investigation by proposing that life is most coherently understood as viability-oriented, constraint-closed organisation. This formulation is not intended as an additional defining characteristic or as a replacement for existing biological theories. Instead, it identifies the organisational phenomenon that the central concepts of biology investigate from different explanatory perspectives. Metabolism, development, regulation, function, ecology, evolution, cognition, and agency are thereby understood as complementary perspectives on the organisation through which living systems maintain and re-establish the conditions of their own persistence.
 
