@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-08-01
+revised: 2026-08-02
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -357,3 +357,48 @@ The principal contribution of APS therefore lies in biological explanation rathe
 Whether this organisational perspective ultimately proves scientifically valuable will depend not upon philosophical preference but upon its capacity to clarify biological concepts, stimulate productive research, and support the continuing development of theoretical biology. Like all scientific research programmes, APS must be evaluated through its explanatory fruitfulness, conceptual coherence, and ability to illuminate problems that remain incompletely understood.
 
 The question What is life? is unlikely to disappear from biology because it concerns the organisation that makes every other biological question possible. APS does not claim to end that investigation. It proposes that the investigation becomes more coherent when life is understood as viability-oriented, constraint-closed organisation and when biological explanation is organised through the complementary perspectives of Agency, Process, and Scale.
+
+## Explanatory Architecture
+### Central question
+
+This article asks what distinguishes living systems from every other organised system. It proposes that life is best understood as viability-oriented, constraint-closed organisation rather than as a collection of properties, substances, or mechanisms.
+
+### Architectural role
+
+This article establishes the foundational concept upon which the APS framework is organised. It identifies the phenomenon that subsequent articles investigate from different explanatory perspectives.
+
+### Builds on
+Naturalising Life
+What Is Biology Trying to Explain?
+What Is a Biological System?
+
+### Develops into
+Biological Agency
+Organised Persistence
+Function
+Biological Evaluation
+Constraint Closure
+Process
+Scale
+Cognition
+Biological Explanation
+
+### Related explanatory questions
+
+Readers may wish to continue with:
+
+Why Does Biology Need Agency?
+Why APS Reframes Biology
+Organised Persistence
+What Is Biological Explanation?
+APS and Contemporary Theories
+
+### Position within APS
+
+Within APS, life identifies the biological phenomenon requiring explanation. Agency investigates the viability-oriented organisational activity through which living organisation is enacted and sustained. Process investigates how that organisation maintains continuity despite continual change. Scale investigates where persistence is organised across spatial and temporal extents. Together these complementary explanatory perspectives investigate one viability-oriented, constraint-closed organisation.
+
+### Corpus Significance
+
+*What Is Life?* is one of the principal conceptual foundations of the APS corpus. It establishes the framework's canonical definition of life as viability-oriented, constraint-closed organisation and identifies the biological phenomenon that APS seeks to explain.
+
+Subsequent APS articles investigate different aspects of the organisation established here, making this article the conceptual foundation for the framework's wider explanatory architecture.

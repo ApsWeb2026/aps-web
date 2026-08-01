@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-07-29
+revised: 2026-08-02
 cluster: philosophy-of-biology
 role: anchor
 
@@ -568,26 +568,57 @@ The result is a philosophical reconstruction grounded in biology itself. APS doe
 
 Philosophy returns through biology because life itself is organised in ways that make philosophical questions unavoidable.
 
-## Continue Reading
+## Explanatory Architecture
+### Central Question
 
-Readers interested in the philosophical foundations of APS may continue with:
+This article asks what follows philosophically from the biological account of life developed by APS. Rather than treating philosophy as prior to biology, it investigates how biology's own explanatory achievements reconstruct questions concerning reality, explanation, purpose, normativity, meaning, and scientific understanding.
 
-- *Organisational Realism in Biology*
-- *The Explanatory Geometry of Biology*
-- *Reductionism in Biology — An APS Clarification*
-- *Emergence in Biology — An APS Clarification*
-- *Holism in Biology — An APS Clarification*
-- *Organicism in Biology — An APS Clarification*
-- *Why Life Is Not Computation*
-- *Why Life Is Not Intelligence*
-- *Function and Normativity — Why Biological Organisation Matters*
+### Architectural Role
 
-Readers seeking the broader framework context may continue with:
+This article serves as the principal philosophical gateway to APS. It explains why APS is neither a separate metaphysical system nor a philosophy imposed upon biology from outside. Instead, it shows how APS reconstructs philosophical questions from the organisational conditions required for biological explanation itself.
 
-- *What Is APS?*
-- *How APS Explains Life*
-- *Understanding APS*
-- *APS as a Viability-Oriented Framework*
-- *The Core Structure of APS*
+### Builds On
 
-Together these articles show how APS develops a unified biological and philosophical account of life organised around viability-oriented organised persistence sustained across time.
+This article assumes the conceptual foundations established in:
+
+What Is APS?
+Naturalising Life
+How APS Explains Life
+What Is Life?
+Biological Agency
+Organised Persistence
+Biological Explanation
+
+These articles establish the biological architecture from which the present philosophical reconstruction proceeds.
+
+### Develops Into
+
+The philosophical perspective developed here provides the foundation for subsequent investigations of:
+
+The Philosophical Foundations of APS
+Organisational Realism in Biology
+The Explanatory Geometry of Biology
+Reductionism in Biology
+Why APS Is Not Holism
+Why Life Is Not Computation
+Teleology in Biology
+Function and Normativity
+future philosophical and comparative studies within APS.
+
+### Related Explanatory Questions
+
+Readers wishing to explore particular aspects of this philosophical reconstruction may continue with:
+
+What Is Biological Explanation?
+Why Philosophy of Biology Matters
+Analysis, Synthesis, and the Direction of Explanation
+Description, Explanation, and Definition in Biology
+APS and Contemporary Theories
+
+### Position within APS
+
+APS begins as a comparative explanatory methodology for biology. This article explains why that methodology also has philosophical significance. Rather than deriving biology from prior philosophical commitments, APS derives philosophical clarification from the explanatory organisation revealed by biology itself. In this way, biological investigation and philosophical reflection become complementary aspects of a single project: understanding life as viability-oriented, constraint-closed organisation and reconstructing the conceptual architecture through which living systems become scientifically intelligible.
+
+### Corpus Significance
+
+This article is one of the principal conceptual anchors of the APS framework. It defines the philosophical identity of APS by explaining how its biological account of life gives rise to a broader reconstruction of biological intelligibility. Together with What Is Life?, Biological Agency, and The Philosophical Foundations of APS, it forms part of the core conceptual architecture upon which the wider APS corpus is organised.

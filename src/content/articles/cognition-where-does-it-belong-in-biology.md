@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-07-06
+revised: 2026-08-02
 cluster: philosophy-of-biology
+role: anchor
 
 abstract: >
   Cognition is often treated either as the defining basis of life or as a specialised property restricted to brains and nervous systems. APS rejects both views. Living systems are fundamentally viability-oriented agents that regulate activity in ways that sustain organised persistence across changing conditions. Within this broader architecture, biological evaluation establishes what matters for continued existence, meaning emerges from the significance of those conditions, and cognition develops when meaningful significance becomes sufficiently integrated across time to guide adaptive activity. APSI identifies integration as the organisational process through which significance becomes coordinated into coherent adaptive systems, providing the bridge between significance, cognition, and later developments such as mind and selfhood. APS therefore interprets cognition as the organisation of biological significance across temporal horizons rather than as information processing, representation, prediction, or intelligence alone. Cognition is neither biologically foundational nor biologically exceptional. It is a specialised organisational development emerging from biological agency and evaluation that links meaning to mind and contributes to the later emergence of selfhood and reflective agency.
@@ -534,3 +535,64 @@ Meaning
 Cognition
 ↓
 Mind
+
+## Explanatory Architecture
+### Central Question
+
+This article asks where cognition belongs within biology. Rather than treating cognition as either the defining property of life or a specialised capacity restricted to nervous systems, APS investigates how cognition emerges within the organisation of viability-oriented living systems and how it contributes to the later emergence of mind and selfhood.
+
+### Architectural Role
+
+This article establishes the canonical APS account of cognition. It explains cognition as the organisation of biological significance across time, locating it within the wider architecture extending from biological agency and evaluation to meaning, mind, selfhood, and reflective agency. In doing so, it reconnects cognition with the biological organisation from which it emerges.
+
+### Builds On
+
+This article builds directly upon:
+
+What Is Life?
+Biological Agency
+What Is Biological Evaluation?
+Biological Significance
+Meaning in Biology
+Semiosis — How Differences Come to Matter in Living Systems
+Process
+Scale
+
+These concepts establish the organisational conditions from which cognition emerges.
+
+### Develops Into
+
+The organisational account developed here provides the foundation for subsequent investigations of:
+
+What Is Mind?
+Selfhood
+Reflective Agency
+Consciousness
+Intelligence
+Representation
+Prediction and Active Inference
+Decision-making
+Learning
+Communication
+later APS investigations of cognition, behaviour, and adaptive organisation.
+
+### Related Explanatory Questions
+
+Readers wishing to explore neighbouring concepts may continue with:
+
+Why Life Is Not Intelligence
+Why Life Is Not Information Processing
+Why Life Is Not Active Inference
+Why AI Is Not Biological Agency
+Organisational Realism in Biology
+The Explanatory Geometry of Biology
+
+### Position within APS
+
+Within APS, cognition is neither the beginning nor the culmination of biological organisation. Biological agency establishes viability-oriented activity. Biological evaluation determines what matters for persistence. Significance and meaning organise those evaluative relationships. Cognition emerges when biological significance becomes sufficiently integrated across time to guide adaptive activity. Mind, selfhood, and reflective agency represent progressively more integrated developments built upon this cognitive organisation. Cognition therefore occupies the pivotal position linking biological meaning to minded organisation.
+
+### Corpus Significance
+
+Cognition — Where Does It Belong in Biology? is one of the principal conceptual foundations of the APS cognition programme. It establishes the framework's canonical definition of cognition as the organisation of biological significance across time and identifies its place within the wider architecture of living organisation.
+
+Subsequent APS articles investigate the concepts that cognition depends upon and those that emerge from it—including meaning, mind, selfhood, reflective agency, representation, intelligence, consciousness, and related topics. Understanding this article is therefore essential to understanding the explanatory architecture of cognition within APS.
