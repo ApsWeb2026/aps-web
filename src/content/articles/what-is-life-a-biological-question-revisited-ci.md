@@ -54,976 +54,12 @@ relatedArticles:
 researchStreams: []
 
 references:
-- id: bich-bechtel-2022-organization-needs-organization
-  type: journal-article
-  authors: Bich, L., & Bechtel, W.
-  year: 2022
-  title: 'Organization Needs Organization: Understanding Integrated Control in Living Organisms'
-  journal: Studies in History and Philosophy of Science
-  volume: '93'
-  pages: 96–106
-  doi: 10.1016/j.shpsa.2022.03.005
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: godfrey-smith-2009-darwinian-populations
-  type: book
-  authors: Godfrey-Smith, P.
-  year: 2009
-  title: Darwinian Populations and Natural Selection
-  publisher: Oxford University Press
-  doi: 10.1093/acprof:oso/9780199552047.001.0001
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: holling-1973-resilience-stability
-  type: journal-article
-  authors: Holling, C. S.
-  year: 1973
-  title: Resilience and Stability of Ecological Systems
-  journal: Annual Review of Ecology and Systematics
-  volume: '4'
-  pages: 1–23
-  doi: 10.1146/annurev.es.04.110173.000245
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: craver-2007-explaining-the-brain
-  type: book
-  authors: Craver, C. F.
-  year: 2007
-  title: 'Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience'
-  publisher: Oxford University Press
-  doi: 10.1093/acprof:oso/9780199299317.001.0001
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-24
-- id: gilbert-sapp-tauber-2012-symbiotic-view-life
-  type: journal-article
-  authors: Gilbert, S. F., Sapp, J., & Tauber, A. I.
-  year: 2012
-  title: 'A Symbiotic View of Life: We Have Never Been Individuals'
-  journal: The Quarterly Review of Biology
-  volume: '87'
-  issue: '4'
-  pages: 325–341
-  doi: 10.1086/668166
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: lopez-diaz-gershenson-2026-general-theory-agency
-  type: preprint
-  authors: López-Díaz, A. J., & Gershenson, C.
-  year: 2026
-  title: 'A Matter of Time: Towards a General Theory of Agency'
-  repository: arXiv
-  identifier: arXiv:2606.23122
-  doi: 10.48550/arXiv.2606.23122
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: spencer-2026-agency-defining-activity-life
-  type: journal-article
-  authors: Spencer, R. D.
-  year: 2026
-  title: 'Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale'
-  journal: Biological Theory
-  doi: 10.1007/s13752-026-00547-6
-  verification:
-    status: verified
-    authority: Springer Nature and Crossref
-    verifiedDate: 2026-07-24
-- id: rosslenbroich-kuemmell-bembe-2024-agency-inherent-property-living-organisms
-  type: journal-article
-  authors: Rosslenbroich, B., Kümmell, S., & Bembé, B.
-  year: 2024
-  title: Agency as an Inherent Property of Living Organisms
-  journal: Biological Theory
-  volume: '19'
-  issue: '4'
-  pages: 224–236
-  doi: 10.1007/s13752-024-00471-7
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: barandiaran-di-paolo-rohde-2009-defining-agency
-  type: journal-article
-  authors: Barandiaran, X. E., Di Paolo, E., & Rohde, M.
-  year: 2009
-  title: 'Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action'
-  journal: Adaptive Behavior
-  volume: '17'
-  issue: '5'
-  pages: 367–386
-  doi: 10.1177/1059712309343819
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: moreno-mossio-2015-biological-autonomy
-  type: book
-  authors: Moreno, A., & Mossio, M.
-  year: 2015
-  title: 'Biological Autonomy: A Philosophical and Theoretical Enquiry'
-  publisher: Springer
-  doi: 10.1007/978-94-017-9837-2
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-24
-- id: nicholson-dupre-2018-everything-flows
-  type: edited-book
-  authors: Nicholson, D. J., & Dupré, J. (eds)
-  year: 2018
-  title: 'Everything Flows: Towards a Processual Philosophy of Biology'
-  publisher: Oxford University Press
-  doi: 10.1093/oso/9780198779636.001.0001
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: deacon-2011-incomplete-nature
-  type: book
-  authors: Deacon, T. W.
-  year: 2011
-  title: 'Incomplete Nature: How Mind Emerged from Matter'
-  publisher: W. W. Norton & Company
-  verification:
-    status: verified
-    verifiedDate: 2026-07-18
-- id: nicholson-2025-what-is-life
-  type: book
-  authors: Nicholson, D. J.
-  year: 2025
-  title: What Is Life? Revisited
-  publisher: Cambridge University Press
-  doi: 10.1017/9781009127318
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-24
 - id: schrodinger-1944-what-is-life
-  type: book
   authors: Schrödinger, E.
   year: 1944
   title: What Is Life? The Physical Aspect of the Living Cell
   publisher: Cambridge University Press
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: rosen-1991-life-itself
-  type: book
-  authors: Rosen, R.
-  year: 1991
-  title: 'Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life'
-  publisher: Columbia University Press
-  verification:
-    status: verified
-    authority: Columbia University Press
-    verifiedDate: 2026-07-24
-- id: maturana-varela-1980-autopoiesis-cognition
-  type: book
-  authors: Maturana, H. R., & Varela, F. J.
-  year: 1980
-  title: 'Autopoiesis and Cognition: The Realization of the Living'
-  publisher: D. Reidel Publishing Company
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-19
-- id: montevil-mossio-2015-closure-constraints
-  type: journal-article
-  authors: Montévil, M., & Mossio, M.
-  year: 2015
-  title: Biological Organisation as Closure of Constraints
-  journal: Journal of Theoretical Biology
-  volume: '372'
-  pages: 179–191
-  doi: 10.1016/j.jtbi.2015.02.029
-  verification:
-    status: verified
-    authority: Elsevier
-    verifiedDate: 2026-07-19
-- id: mossio-saborido-moreno-2009-functions
-  type: journal-article
-  authors: Mossio, M., Saborido, C., & Moreno, A.
-  year: 2009
-  title: An Organizational Account of Biological Functions
-  journal: The British Journal for the Philosophy of Science
-  volume: '60'
-  issue: '4'
-  pages: 813–841
-  doi: 10.1093/bjps/axp036
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: mossio-2023-organization-biology
-  type: edited-book
-  authors: Mossio, M. (ed.)
-  year: 2023
-  title: Organization in Biology
-  publisher: Springer
-  doi: 10.1007/978-3-031-38968-9
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-19
-- id: kitano-2002-systems-biology
-  type: journal-article
-  authors: Kitano, H.
-  year: 2002
-  title: 'Systems Biology: A Brief Overview'
-  journal: Science
-  volume: '295'
-  issue: '5560'
-  pages: 1662–1664
-  doi: 10.1126/science.1069492
-  verification:
-    status: verified
-    authority: PubMed
-    verifiedDate: 2026-07-24
-- id: kitano-2002-computational-systems-biology
-  type: journal-article
-  authors: Kitano, H.
-  year: 2002
-  title: Computational Systems Biology
-  journal: Nature
-  volume: '420'
-  pages: 206–210
-  doi: 10.1038/nature01254
-  verification:
-    status: verified
-    authority: Nature
-    verifiedDate: 2026-07-19
-- id: kitano-2004-biological-robustness
-  type: journal-article
-  authors: Kitano, H.
-  year: 2004
-  title: Biological Robustness
-  journal: Nature Reviews Genetics
-  volume: '5'
-  issue: '11'
-  pages: 826–837
-  doi: 10.1038/nrg1471
-  verification:
-    status: verified
-    authority: Nature
-    verifiedDate: 2026-07-19
-- id: bich-ruiz-mirazo-moreno-2016-regulation
-  type: journal-article
-  authors: Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A.
-  year: 2016
-  title: 'Biological Regulation: Controlling the System from Within'
-  journal: Biology & Philosophy
-  volume: '31'
-  pages: 237–265
-  doi: 10.1007/s10539-015-9497-8
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-19
-- id: nicholson-2014-return-organism
-  type: journal-article
-  authors: Nicholson, D. J.
-  year: 2014
-  title: The Return of the Organism as a Fundamental Explanatory Concept in Biology
-  journal: Philosophy Compass
-  volume: '9'
-  issue: '5'
-  pages: 347–359
-  doi: 10.1111/phc3.12128
-  verification:
-    status: verified
-    authority: Wiley
-    verifiedDate: 2026-07-19
-- id: dupre-nicholson-2018-manifesto
-  authors: Dupré, J., & Nicholson, D. J.
-  year: 2018
-  title: A Manifesto for a Processual Philosophy of Biology
-  source: "Everything Flows: Towards a Processual Philosophy of Biology"
-  publisher: Oxford University Press
-  pages: "3–46"
-  doi: 10.1093/oso/9780198779636.003.0001
-  note: "Edited by D. J. Nicholson and J. Dupré."
-- id: nicholson-2019-cell-machine
-  type: journal-article
-  authors: Nicholson, D. J.
-  year: 2019
-  title: Is the Cell Really a Machine?
-  journal: Journal of Theoretical Biology
-  volume: '477'
-  pages: 108–126
-  doi: 10.1016/j.jtbi.2019.06.002
-  verification:
-    status: verified
-    authority: Elsevier
-    verifiedDate: 2026-07-19
-- id: bechtel-richardson-1993-discovering-complexity
-  type: book
-  authors: Bechtel, W., & Richardson, R. C.
-  year: 1993
-  title: 'Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research'
-  publisher: Princeton University Press
-  verification:
-    status: verified
-    authority: Princeton University Press bibliographic record
-    verifiedDate: 2026-07-19
-- id: machamer-darden-craver-2000-mechanisms
-  type: journal-article
-  authors: Machamer, P., Darden, L., & Craver, C. F.
-  year: 2000
-  title: Thinking About Mechanisms
-  journal: Philosophy of Science
-  volume: '67'
-  issue: '1'
-  pages: 1–25
-  doi: 10.1086/392759
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: woodward-2003-making-things-happen
-  type: book
-  authors: Woodward, J.
-  year: 2003
-  title: 'Making Things Happen: A Theory of Causal Explanation'
-  publisher: Oxford University Press
-  doi: 10.1093/0195155270.001.0001
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: darden-2006-reasoning-biological-discoveries
-  type: book
-  authors: Darden, L.
-  year: 2006
-  title: 'Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution'
-  publisher: Cambridge University Press
-  doi: 10.1017/CBO9780511498442
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: wimsatt-2007-re-engineering-philosophy
-  type: book
-  authors: Wimsatt, W. C.
-  year: 2007
-  title: 'Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality'
-  publisher: Harvard University Press
-  verification:
-    status: verified
-    authority: Harvard University Press bibliographic record
-    verifiedDate: 2026-07-19
-- id: mitchell-2003-biological-complexity
-  type: book
-  authors: Mitchell, S. D.
-  year: 2003
-  title: Biological Complexity and Integrative Pluralism
-  publisher: Cambridge University Press
-  doi: 10.1017/CBO9780511802683
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: oyama-2000-ontogeny-information
-  type: book
-  authors: Oyama, S.
-  year: 2000
-  title: 'The Ontogeny of Information: Developmental Systems and Evolution'
-  publisher: Duke University Press
-  edition: 2nd
-  doi: 10.1515/9780822380665
-  verification:
-    status: verified
-    authority: Duke University Press
-    verifiedDate: 2026-07-19
-- id: sterelny-griffiths-1999-sex-death
-  type: book
-  authors: Sterelny, K., & Griffiths, P. E.
-  year: 1999
-  title: 'Sex and Death: An Introduction to Philosophy of Biology'
-  publisher: University of Chicago Press
-  verification:
-    status: verified
-    authority: University of Chicago Press
-    verifiedDate: 2026-07-19
-- id: godfrey-smith-2016-other-minds
-  type: book
-  authors: Godfrey-Smith, P.
-  year: 2016
-  title: 'Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness'
-  publisher: Farrar, Straus and Giroux
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: maynard-smith-szathmary-1995-major-transitions
-  type: book
-  authors: Maynard Smith, J., & Szathmáry, E.
-  year: 1995
-  title: The Major Transitions in Evolution
-  publisher: Oxford University Press
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: west-2017-scale
-  type: book
-  authors: West, G. B.
-  year: 2017
-  title: 'Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies'
-  publisher: Penguin Press
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: odum-1969-ecosystem-development
-  type: journal-article
-  authors: Odum, E. P.
-  year: 1969
-  title: The Strategy of Ecosystem Development
-  journal: Science
-  volume: '164'
-  issue: '3877'
-  pages: 262–270
-  doi: 10.1126/science.164.3877.262
-  verification:
-    status: verified
-    authority: Science
-    verifiedDate: 2026-07-19
-- id: levin-1998-ecosystems-biosphere
-  type: journal-article
-  authors: Levin, S. A.
-  year: 1998
-  title: Ecosystems and the Biosphere as Complex Adaptive Systems
-  journal: Ecosystems
-  volume: '1'
-  issue: '5'
-  pages: 431–436
-  doi: 10.1007/s100219900037
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-19
-- id: simon-1962-complexity
-  type: journal-article
-  authors: Simon, H. A.
-  year: 1962
-  title: The Architecture of Complexity
-  journal: Proceedings of the American Philosophical Society
-  volume: '106'
-  issue: '6'
-  pages: 467–482
-  verification:
-    status: verified
-    authority: JSTOR
-    verifiedDate: 2026-07-19
-- id: holland-1992-complex-adaptive-systems
-  type: journal-article
-  authors: Holland, J. H.
-  year: 1992
-  title: Complex Adaptive Systems
-  journal: Daedalus
-  volume: '121'
-  issue: '1'
-  pages: 17–30
-  verification:
-    status: verified
-    authority: MIT Press / JSTOR
-    verifiedDate: 2026-07-19
-- id: kelley-1973-process
-  type: book
-  authors: Kelley, K. D.
-  year: 1973
-  title: Process, System, and Change in Biology
-  publisher: Martinus Nijhoff
-  verification:
-    status: verified
-    authority: WorldCat
-    verifiedDate: 2026-07-19
-- id: whitehead-1929-process-reality
-  type: book
-  authors: Whitehead, A. N.
-  year: 1929
-  title: 'Process and Reality: An Essay in Cosmology'
-  publisher: Macmillan
-  verification:
-    status: verified
-    authority: Macmillan first edition
-    verifiedDate: 2026-07-19
-- id: mayr-1982-growth-biological-thought
-  type: book
-  authors: Mayr, E.
-  year: 1982
-  title: 'The Growth of Biological Thought: Diversity, Evolution, and Inheritance'
-  publisher: Belknap Press of Harvard University Press
-  verification:
-    status: verified
-    authority: WorldCat
-    verifiedDate: 2026-07-24
-- id: mayr-1988-new-philosophy-biology
-  type: book
-  authors: Mayr, E.
-  year: 1988
-  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
-  publisher: Belknap Press of Harvard University Press
-  verification:
-    status: verified
-    authority: WorldCat
-    verifiedDate: 2026-07-24
-- id: dawkins-1986-blind-watchmaker
-  type: book
-  authors: Dawkins, R.
-  year: 1986
-  title: The Blind Watchmaker
-  publisher: W. W. Norton & Company
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: paley-1802-natural-theology
-  type: book
-  authors: Paley, W.
-  year: 1802
-  title: Natural Theology; or, Evidences of the Existence and Attributes of the Deity
-  publisher: R. Faulder
-  verification:
-    status: verified
-    authority: First edition
-    verifiedDate: 2026-07-19
-- id: darwin-1859-origin
-  type: book
-  authors: Darwin, C.
-  year: 1859
-  title: On the Origin of Species
-  publisher: John Murray
-  verification:
-    status: verified
-    authority: Darwin Online
-    verifiedDate: 2026-07-24
-- id: jacob-1973-logic-life
-  type: book
-  authors: Jacob, F.
-  year: 1973
-  title: 'The Logic of Life: A History of Heredity'
-  publisher: Pantheon Books
-  verification:
-    status: verified
-    authority: Harvard Library and Open Library MARC record
-    verifiedDate: 2026-07-24
-- id: noble-2006-music-life
-  type: book
-  authors: Noble, D.
-  year: 2006
-  title: 'The Music of Life: Biology Beyond Genes'
-  publisher: Oxford University Press
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: shapiro-2011-evolution
-  type: book
-  authors: Shapiro, J. A.
-  year: 2011
-  title: 'Evolution: A View from the 21st Century'
-  publisher: FT Press
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: capra-luisi-2014-systems-view-life
-  type: book
-  authors: Capra, F., & Luisi, P. L.
-  year: 2014
-  title: 'The Systems View of Life: A Unifying Vision'
-  publisher: Cambridge University Press
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: bertalanffy-1968-general-system-theory
-  type: book
-  authors: von Bertalanffy, L.
-  year: 1968
-  title: 'General System Theory: Foundations, Development, Applications'
-  publisher: George Braziller
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: ashby-1956-introduction-cybernetics
-  type: book
-  authors: Ashby, W. R.
-  year: 1956
-  title: An Introduction to Cybernetics
-  publisher: Chapman & Hall
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: wiener-1948-cybernetics
-  type: book
-  authors: Wiener, N.
-  year: 1948
-  title: 'Cybernetics: Or Control and Communication in the Animal and the Machine'
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: simondon-1958-individuation
-  type: book
-  authors: Simondon, G.
-  year: 1958
-  title: L'Individuation à la lumière des notions de forme et d'information
-  publisher: Presses Universitaires de France
-  verification:
-    status: verified
-    authority: PUF
-    verifiedDate: 2026-07-19
-- id: weber-varela-2002-life-after-kant
-  type: journal-article
-  authors: Weber, A., & Varela, F. J.
-  year: 2002
-  title: 'Life After Kant: Natural Purposes and the Autopoietic Foundations of Biological Individuality'
-  journal: Phenomenology and the Cognitive Sciences
-  volume: '1'
-  issue: '2'
-  pages: 97–125
-  doi: 10.1023/A:1020368120174
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-19
-- id: ruiz-mirazo-moreno-2004-basic-autonomy
-  type: journal-article
-  authors: Ruiz-Mirazo, K., & Moreno, A.
-  year: 2004
-  title: Basic Autonomy as a Fundamental Step in the Synthesis of Life
-  journal: Artificial Life
-  volume: '10'
-  issue: '3'
-  pages: 235–259
-  doi: 10.1162/1064546041255559
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: di-paolo-2005-autopoiesis-adaptivity
-  type: journal-article
-  authors: Di Paolo, E. A.
-  year: 2005
-  title: Autopoiesis, Adaptivity, Teleology, Agency
-  journal: Phenomenology and the Cognitive Sciences
-  volume: '4'
-  issue: '4'
-  pages: 429–452
-  doi: 10.1007/s11097-005-9002-y
-  verification:
-    status: verified
-    authority: Springer Nature
-    verifiedDate: 2026-07-19
-- id: thompson-2007-mind-in-life
-  type: book
-  authors: Thompson, E.
-  year: 2007
-  title: 'Mind in Life: Biology, Phenomenology, and the Sciences of Mind'
-  publisher: Harvard University Press
-  verification:
-    status: verified
-    authority: Harvard University Press
-    verifiedDate: 2026-07-19
-- id: di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
-  type: book
-  authors: Di Paolo, E. A., Buhrmann, T., & Barandiaran, X. E.
-  year: 2017
-  title: 'Sensorimotor Life: An Enactive Proposal'
-  publisher: Oxford University Press
-  doi: 10.1093/acprof:oso/9780198786849.001.0001
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: wilson-sober-1998-unto-others
-  type: book
-  authors: Sober, E., & Wilson, D. S.
-  year: 1998
-  title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
-  publisher: Harvard University Press
-  verification:
-    status: verified
-    authority: Harvard University Press
-    verifiedDate: 2026-07-19
-- id: wilson-2002-darwins-cathedral
-  type: book
-  authors: Wilson, D. S.
-  year: 2002
-  title: 'Darwin''s Cathedral: Evolution, Religion, and the Nature of Society'
-  publisher: University of Chicago Press
-  verification:
-    status: verified
-    authority: University of Chicago Press
-    verifiedDate: 2026-07-19
-- id: wilson-2019-this-view-life
-  type: book
-  authors: Wilson, D. S.
-  year: 2019
-  title: 'This View of Life: Completing the Darwinian Revolution'
-  publisher: Pantheon Books
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: okasha-2006-levels-selection
-  type: book
-  authors: Okasha, S.
-  year: 2006
-  title: Evolution and the Levels of Selection
-  publisher: Oxford University Press
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: godfrey-smith-2013-darwinian-individuals
-  authors: Godfrey-Smith, P.
-  year: 2013
-  title: Darwinian Individuals
-  source: "From Groups to Individuals: Evolution and Emerging Individuality"
-  publisher: MIT Press
-  pages: "17–36"
-  note: "Edited by F. Bouchard and P. Huneman."
-- id: bouchard-huneman-2013-groups-individuals
-  type: edited-book
-  authors: Bouchard, F., & Huneman, P. (eds)
-  year: 2013
-  title: 'From Groups to Individuals: Evolution and Emerging Individuality'
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: clarke-okasha-2013-individuality
-  authors: Clarke, E.
-  year: 2013
-  title: The Multiple Realizability of Biological Individuals
-  source: "From Groups to Individuals: Evolution and Emerging Individuality"
-  publisher: MIT Press
-  pages: "303–322"
-  note: "Edited by F. Bouchard and P. Huneman."
-- id: west-eberhard-2003-developmental-plasticity
-  type: book
-  authors: West-Eberhard, M. J.
-  year: 2003
-  title: Developmental Plasticity and Evolution
-  publisher: Oxford University Press
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: pigliucci-muller-2010-extended-synthesis
-  type: edited-book
-  authors: Pigliucci, M., & Müller, G. B. (eds)
-  year: 2010
-  title: 'Evolution: The Extended Synthesis'
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: laland-et-al-2015-extended-synthesis
-  type: journal-article
-  authors: Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee,
-    J.
-  year: 2015
-  title: 'The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions'
-  journal: Proceedings of the Royal Society B
-  volume: '282'
-  issue: '1813'
-  article-number: '20151019'
-  doi: 10.1098/rspb.2015.1019
-  verification:
-    status: verified
-    authority: Royal Society
-    verifiedDate: 2026-07-19
-- id: dennett-1995-darwins-dangerous-idea
-  type: book
-  authors: Dennett, D. C.
-  year: 1995
-  title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
-  publisher: Simon & Schuster
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: sterelny-2023-evolution
-  type: book
-  authors: Sterelny, K.
-  year: 2023
-  title: Evolution for Everyone
-  publisher: Cambridge University Press
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: jablonka-lamb-2020-evolution-four-dimensions
-  type: book
-  authors: Jablonka, E., & Lamb, M. J.
-  year: 2020
-  title: Evolution in Four Dimensions
-  edition: 2nd
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: odling-smee-laland-feldman-2003-niche-construction
-  type: book
-  authors: Odling-Smee, F. J., Laland, K. N., & Feldman, M. W.
-  year: 2003
-  title: 'Niche Construction: The Neglected Process in Evolution'
-  publisher: Princeton University Press
-  verification:
-    status: verified
-    authority: Princeton University Press
-    verifiedDate: 2026-07-19
-- id: uexkull-2010-theory-meaning
-  type: book
-  authors: von Uexküll, J.
-  year: 2010
-  title: A Theory of Meaning
-  publisher: University of Minnesota Press
-  verification:
-    status: verified
-    authority: University of Minnesota Press
-    verifiedDate: 2026-07-19
-- id: hoffmeyer-1996-signs-meaning
-  type: book
-  authors: Hoffmeyer, J.
-  year: 1996
-  title: Signs of Meaning in the Universe
-  publisher: Indiana University Press
-  verification:
-    status: verified
-    authority: Indiana University Press
-    verifiedDate: 2026-07-19
-- id: peirce-collected-papers
-  type: book
-  authors: Hartshorne, C., Weiss, P., & Burks, A. W. (eds)
-  year: 1931
-  title: Collected Papers of Charles Sanders Peirce
-  publisher: Harvard University Press
-  verification:
-    status: verified
-    authority: Harvard University Press
-    verifiedDate: 2026-07-19
-- id: millikan-1984-language-thought
-  type: book
-  authors: Millikan, R. G.
-  year: 1984
-  title: Language, Thought, and Other Biological Categories
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: millikan-1993-white-queen
-  type: book
-  authors: Millikan, R. G.
-  year: 1993
-  title: White Queen Psychology and Other Essays for Alice
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: millikan-2004-varieties-meaning
-  type: book
-  authors: Millikan, R. G.
-  year: 2004
-  title: Varieties of Meaning
-  publisher: MIT Press
-  verification:
-    status: verified
-    authority: MIT Press
-    verifiedDate: 2026-07-19
-- id: nagel-2012-mind-cosmos
-  type: book
-  authors: Nagel, T.
-  year: 2012
-  title: Mind and Cosmos
-  publisher: Oxford University Press
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-07-19
-- id: walsh-2015-organism-agency
-  type: book
-  authors: Walsh, D. M.
-  year: 2015
-  title: Organisms, Agency, and Evolution
-  publisher: Cambridge University Press
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-07-19
-- id: ikkurthi-mallikarjuna-2026-sensing-without-brain
-  type: journal-article
-  authors: Ikkurthi, V. K., Mallikarjuna, K., Naik, B. J., Penchala, P. G., Skylab, G., Thanuja, V., & Vinnakota, L.
-  year: 2026
-  title: 'Sensing Without a Brain: Functional Parallels Between Plants and Animals Senses'
-  journal: European Journal of Ecology, Biology and Agriculture
-  publisher: AMO Publisher
-  volume: '3'
-  issue: '1'
-  pages: 49-60
-  doi: 10.59324/ejeba.2026.3(1).05
-  verification:
-    status: verified
-    authority: Publisher
-    verifiedDate: 2026-07-19
-- id: aristotle-1937-parts-animals
-  type: book
-  authors: Aristotle
-  year: 1937
-  title: Parts of Animals
-  publisher: Harvard University Press
-  verification:
-    status: verified
-    authority: WorldCat
-    verifiedDate: 2026-07-24
-- id: bernard-1865-introduction-medicine-experimentale
-  type: book
-  authors: Bernard, C.
-  year: 1865
-  title: Introduction à l'étude de la médecine expérimentale
-  publisher: J.-B. Baillière et fils
-  verification:
-    status: verified
-    authority: Bibliothèque nationale de France
-    verifiedDate: 2026-07-24
-- id: bechtel-2008-mental-mechanisms
-  type: book
-  authors: Bechtel, W.
-  year: 2008
-  title: 'Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience'
-  publisher: Psychology Press
-  verification:
-    status: verified
-    authority: Routledge
-    verifiedDate: 2026-07-24
-- id: kirschner-gerhart-2005-plausibility-life
-  type: book
-  authors: Kirschner, M. W., & Gerhart, J. C.
-  year: 2005
-  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
-  publisher: Yale University Press
-  verification:
-    status: verified
-    authority: Yale University Press and WorldCat
-    verifiedDate: 2026-07-24
 - id: cleland-chyba-2002-defining-life
-  type: journal-article
   authors: Cleland, C. E., & Chyba, C. F.
   year: 2002
   title: Defining 'Life'
@@ -1032,23 +68,13 @@ references:
   issue: '4'
   pages: 387–393
   doi: 10.1023/A:1020503324273
-  verification:
-    status: verified
-    authority: PubMed and Princeton University
-    verifiedDate: 2026-08-01
 - id: cleland-2019-universal-theory-life
-  type: book
   authors: Cleland, C. E.
   year: 2019
   title: 'The Quest for a Universal Theory of Life: Searching for Life As We Don''t Know It'
   publisher: Cambridge University Press
   doi: 10.1017/9781139046893
-  verification:
-    status: verified
-    authority: Cambridge University Press
-    verifiedDate: 2026-08-01
 - id: gomez-marquez-2021-what-is-life
-  type: journal-article
   authors: Gómez-Márquez, J.
   year: 2021
   title: What Is Life?
@@ -1057,12 +83,29 @@ references:
   issue: '8'
   pages: 6223–6230
   doi: 10.1007/s11033-021-06594-5
-  verification:
-    status: verified
-    authority: Springer Nature and PubMed
-    verifiedDate: 2026-08-01
+- id: valencia-narbona-nunez-nieto-cofre-mardones-2026-what-is-life
+  authors: Valencia-Narbona, M., Núñez Nieto, P., & Cofré Mardones, H.
+  year: 2026
+  title: What Is Life? Definitions, Controversies, Ontological Perspectives, and Implications for Biology Education
+  journal: BioScience
+  doi: 10.1093/biosci/biag059
+- id: nicholson-2025-what-is-life
+  authors: Nicholson, D. J.
+  year: 2025
+  title: What Is Life? Revisited
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009127318
+- id: rosen-1991-life-itself
+  authors: Rosen, R.
+  year: 1991
+  title: 'Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life'
+  publisher: Columbia University Press
+- id: maturana-varela-1980-autopoiesis-cognition
+  authors: Maturana, H. R., & Varela, F. J.
+  year: 1980
+  title: 'Autopoiesis and Cognition: The Realization of the Living'
+  publisher: D. Reidel Publishing Company
 - id: ruiz-mirazo-pereto-moreno-2004-universal-definition-life
-  type: journal-article
   authors: Ruiz-Mirazo, K., Peretó, J., & Moreno, A.
   year: 2004
   title: 'A Universal Definition of Life: Autonomy and Open-Ended Evolution'
@@ -1071,21 +114,61 @@ references:
   issue: '3'
   pages: 323–346
   doi: 10.1023/B:ORIG.0000016440.53346.DC
-  verification:
-    status: verified
-    authority: PubMed and Springer Nature
-    verifiedDate: 2026-08-01
-- id: valencia-narbona-nunez-nieto-cofre-mardones-2026-what-is-life
-  type: journal-article
-  authors: Valencia-Narbona, M., Núñez Nieto, P., & Cofré Mardones, H.
+- id: ruiz-mirazo-moreno-2004-basic-autonomy
+  authors: Ruiz-Mirazo, K., & Moreno, A.
+  year: 2004
+  title: Basic Autonomy as a Fundamental Step in the Synthesis of Life
+  journal: Artificial Life
+  volume: '10'
+  issue: '3'
+  pages: 235–259
+  doi: 10.1162/1064546041255559
+- id: moreno-mossio-2015-biological-autonomy
+  authors: Moreno, A., & Mossio, M.
+  year: 2015
+  title: 'Biological Autonomy: A Philosophical and Theoretical Enquiry'
+  publisher: Springer
+  doi: 10.1007/978-94-017-9837-2
+- id: montevil-mossio-2015-closure-constraints
+  authors: Montévil, M., & Mossio, M.
+  year: 2015
+  title: Biological Organisation as Closure of Constraints
+  journal: Journal of Theoretical Biology
+  volume: '372'
+  pages: 179–191
+  doi: 10.1016/j.jtbi.2015.02.029
+- id: di-paolo-2005-autopoiesis-adaptivity
+  authors: Di Paolo, E. A.
+  year: 2005
+  title: Autopoiesis, Adaptivity, Teleology, Agency
+  journal: Phenomenology and the Cognitive Sciences
+  volume: '4'
+  issue: '4'
+  pages: 429–452
+  doi: 10.1007/s11097-005-9002-y
+- id: bich-bechtel-2022-organization-needs-organization
+  authors: Bich, L., & Bechtel, W.
+  year: 2022
+  title: 'Organization Needs Organization: Understanding Integrated Control in Living Organisms'
+  journal: Studies in History and Philosophy of Science
+  volume: '93'
+  pages: 96–106
+  doi: 10.1016/j.shpsa.2022.03.005
+- id: mossio-saborido-moreno-2009-functions
+  authors: Mossio, M., Saborido, C., & Moreno, A.
+  year: 2009
+  title: An Organizational Account of Biological Functions
+  journal: The British Journal for the Philosophy of Science
+  volume: '60'
+  issue: '4'
+  pages: 813–841
+  doi: 10.1093/bjps/axp036
+- id: spencer-2026-agency-defining-activity-life
+  authors: Spencer, R. D.
   year: 2026
-  title: What Is Life? Definitions, Controversies, Ontological Perspectives, and Implications for Biology Education
-  journal: BioScience
-  doi: 10.1093/biosci/biag059
-  verification:
-    status: verified
-    authority: Oxford University Press
-    verifiedDate: 2026-08-01
+  title: 'Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale'
+  journal: Biological Theory
+  doi: 10.1007/s13752-026-00547-6
 ---
 
 > **Where this article fits:** The question *What is life?* occupies a special place within APS because it addresses the most fundamental question in biology. Before we can explain evolution, development, cognition, ecology, or behaviour, we must first understand what kind of organisation makes something alive. Several APS articles approach this question from different perspectives. 
@@ -1274,14 +357,3 @@ The principal contribution of APS therefore lies in biological explanation rathe
 Whether this organisational perspective ultimately proves scientifically valuable will depend not upon philosophical preference but upon its capacity to clarify biological concepts, stimulate productive research, and support the continuing development of theoretical biology. Like all scientific research programmes, APS must be evaluated through its explanatory fruitfulness, conceptual coherence, and ability to illuminate problems that remain incompletely understood.
 
 The question What is life? is unlikely to disappear from biology because it concerns the organisation that makes every other biological question possible. APS does not claim to end that investigation. It proposes that the investigation becomes more coherent when life is understood as viability-oriented, constraint-closed organisation and when biological explanation is organised through the complementary perspectives of Agency, Process, and Scale.
-
-## Where to Go Next
-
-• Agency as the Defining Activity of Life
-• Persistence — Organised Continuity Through Time
-• The Continuity Architecture of Life
-• Viability
-• Biological Agency as the Activity of Self-Maintenance
-• Biological Explanation
-• How Do We Know Something Is Alive?
-• Life Detection in APS — Biosignatures, Organisation, and Evidence
