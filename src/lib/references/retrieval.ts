@@ -177,3 +177,79 @@ export function retrieveReferences(
       return asString(left.record.id).localeCompare(asString(right.record.id));
     });
 }
+
+export type ReferenceInput = string | ReferenceRecord;
+
+function getReferenceId(record: ReferenceRecord): string {
+  return asString(record.id).trim();
+}
+
+export function resolveReferenceInputs(
+  inputs: ReferenceInput[],
+  libraryPath = 'src/data/aps-canonical-references.yaml',
+): ReferenceRecord[] {
+  if (inputs.length === 0) return [];
+
+  const { references } = loadReferenceLibrary(libraryPath);
+
+  const referencesById = new Map<string, ReferenceRecord>();
+
+  for (const record of references) {
+    const id = getReferenceId(record);
+
+    if (!id) {
+      throw new Error(
+        'APS-REF library contains a reference record without an id.',
+      );
+    }
+
+    if (referencesById.has(id)) {
+      throw new Error(
+        `Duplicate APS-REF identifier in Master Knowledgebase: ${id}`,
+      );
+    }
+
+    referencesById.set(id, record);
+  }
+
+  const requestedIds = inputs
+    .filter((input): input is string => typeof input === 'string')
+    .map((id) => id.trim());
+
+  const duplicateRequestedIds = requestedIds.filter(
+    (id, index) => requestedIds.indexOf(id) !== index,
+  );
+
+  if (duplicateRequestedIds.length > 0) {
+    throw new Error(
+      `Duplicate APS-REF identifiers in article frontmatter: ${
+        [...new Set(duplicateRequestedIds)].join(', ')
+      }`,
+    );
+  }
+
+  return inputs.map((input) => {
+    // Legacy expanded record: retain during migration.
+    if (isRecord(input)) {
+      return input;
+    }
+
+    const id = input.trim();
+
+    if (!id) {
+      throw new Error(
+        'Article frontmatter contains an empty APS-REF identifier.',
+      );
+    }
+
+    const resolved = referencesById.get(id);
+
+    if (!resolved) {
+      throw new Error(
+        `Unresolved APS-REF identifier in article frontmatter: ${id}`,
+      );
+    }
+
+    return resolved;
+  });
+}

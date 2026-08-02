@@ -8,7 +8,7 @@ inBrief: "Biological organisation is the dynamically maintained organisation of 
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-06-15
+revised: 2026-08-02
 cluster: conceptual-foundations
 seeAlso:
   - biological-agency
@@ -84,7 +84,7 @@ Living systems are not simply collections of components. They are organised netw
 
 Biological organisation therefore consists not merely in structure, but in the ongoing coordination of activity through constraint relations that stabilise viability-oriented processes across space and time.
 
-Organisation is inseparable from activity.
+Organisation is continually enacted through organisational activity.
 
 ## Biological Organisation and Constraint Closure
 
@@ -99,7 +99,7 @@ Living organisation therefore depends upon reciprocal relations in which:
 
 Constraint closure arises when these relations become mutually sustaining within an organised system.
 
-Organisation is therefore not externally imposed upon passive matter. It is continuously enacted and regenerated through ongoing biological activity.
+Organisation is therefore not externally imposed upon passive matter. It is continually enacted, maintained, and re-established through the ongoing organisational activity of living systems.
 
 ## Biological Organisation Across Scale
 
@@ -123,15 +123,17 @@ These differences matter to the system itself because the organisation of activi
 
 Normativity therefore does not arise from external judgement or imposed goals. It emerges from the organisation of living activity relative to the conditions required for continued existence.
 
-## Biological Organisation and Agency
+## Biological Organisation and Organisational Activity
 
-Biological agency arises through organised activity capable of sustaining and regulating its own persistence.
+Biological organisation should not be understood as a static arrangement of components or relations. In APS, organisation is continually enacted through biological agency.
 
-Agency is therefore not an additional property layered onto organisation. It is an expression of viability-oriented, constraint-closed organisation itself.
+Organisation refers to the continuing viability-oriented, constraint-closed organisation that characterises living systems.
 
-Where systems actively regulate the conditions of their own continued existence, biological agency is present.
+Organisational activity refers to the ongoing activity through which that organisation is maintained, repaired, re-established, and adapted despite continual material turnover and environmental change.
 
-Different forms of agency may occur across different organisational scales and degrees of integration without requiring distinct ontological levels.
+Biological agency is the primary form of organisational activity. Agency does not exist alongside biological organisation as an additional property. Rather, agency is the continuing activity through which living organisation is enacted.
+
+Organisation and organisational activity are therefore conceptually distinct but inseparable. Organisation identifies the enduring organisational continuity of living systems; agency identifies the activity through which that continuity is continually maintained.
 
 ## Organisation Is Not Mere Aggregation
 
@@ -149,15 +151,16 @@ What distinguishes living systems is the organised persistence of viability-orie
 
 ## Summary
 
-In APS, biological organisation is the viability-oriented, constraint-closed organisation of processes through which living systems sustain, regulate, and regenerate the conditions of their own persistence.
+In APS, biological organisation is the continuing viability-oriented, constraint-closed organisation through which living systems sustain, regulate, and re-establish the conditions of their own persistence.
 
-Living systems persist through dynamically maintained networks of mutually constraining activity distributed across scale.
+Living systems persist through dynamically maintained networks of mutually constraining activity distributed across spatial and temporal Scale. This continuing organisation is enacted through biological agency and maintained despite continual material turnover and environmental change.
 
-Biological organisation therefore grounds:
-- persistence
-- normativity
-- function
-- adaptation
-- and biological agency
+Biological organisation therefore provides the organisational continuity through which:
 
-Life is not defined by components alone, but by the organised activity through which viability is continuously sustained.
+> biological agency is enacted;
+> organised persistence is constituted;
+> function acquires viability-relative significance;
+> normativity emerges from viability-oriented organisation; and
+> adaptation, development, ecology, and evolution contribute to the continuing maintenance and transformation of living systems.
+
+Life is not defined by components alone, but by the continuing viability-oriented, constraint-closed organisation enacted through the organisational activity of biological agency.

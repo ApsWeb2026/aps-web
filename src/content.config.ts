@@ -50,6 +50,11 @@ const referenceSchema = z.object({
   note: z.string().optional(),
 });
 
+const referenceInputSchema = z.union([
+  z.string(),
+  referenceSchema,
+]);
+
 const glossary = defineCollection({
   loader: glob({ pattern: '**/*.md', base: 'src/content/glossary' }),
   schema: z.object({
@@ -64,7 +69,7 @@ const glossary = defineCollection({
     revised: dateString,
     cluster: clusterEnum,
     seeAlso: z.array(z.string()).default([]),
-    references: z.array(referenceSchema).default([]),
+    references: z.array(referenceInputSchema).default([]),
   }),
 });
 
@@ -86,7 +91,7 @@ const articles = defineCollection({
     relatedGlossaryTerms: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),
     researchStreams: z.array(z.string()).default([]),
-    references: z.array(referenceSchema).default([]),
+    references: z.array(referenceInputSchema).default([]),
   }),
 });
 
@@ -117,7 +122,7 @@ const orientation = defineCollection({
     cluster: clusterEnum.optional(),
     relatedGlossaryTerms: z.array(z.string()).default([]),
     relatedArticles: z.array(z.string()).default([]),
-    references: z.array(referenceSchema).default([]),
+    references: z.array(referenceInputSchema).default([]),
   }),
 });
 

@@ -1091,3 +1091,26 @@ references:
       status: verified
       authority: Yale University Press and WorldCat
       verifiedDate: 2026-07-24
+
+  - id: varela-1979-principles-biological-autonomy
+    type: book
+    authors: Varela, F. J.
+    year: 1979
+    title: "Principles of Biological Autonomy"
+    publisher: "North Holland"
+    verification:
+      status: verified
+      authority: "WorldCat"
+      verifiedDate: 2026-08-02
+
+  - id: dupre-2012-processes-life
+    type: book
+    authors: Dupré, J.
+    year: 2012
+    title: "Processes of Life: Essays in the Philosophy of Biology"
+    publisher: "Oxford University Press"
+    doi: 10.1093/acprof:oso/9780199691982.001.0001
+    verification:
+      status: verified
+      authority: "Oxford University Press"
+      verifiedDate: 2026-08-02

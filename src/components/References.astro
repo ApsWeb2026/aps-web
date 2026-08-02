@@ -1,28 +1,26 @@
 ---
-interface Reference {
-  id: string;
-  authors: string;
-  year: number | string;
-  title: string;
-  journal?: string;
-  source?: string;
-  publisher?: string;
-  volume?: string;
-  issue?: string;
-  pages?: string;
-  doi?: string;
-  url?: string;
-  note?: string;
-}
+import {
+  resolveReferenceInputs,
+  type ReferenceInput,
+} from '@/lib/references/retrieval';
 
 interface Props {
-  references?: Reference[];
+  references?: ReferenceInput[];
 }
 
 const { references = [] } = Astro.props;
 
-const sortedReferences = [...references].sort((a, b) =>
-  a.authors.localeCompare(b.authors) || String(a.year).localeCompare(String(b.year))
+const resolvedReferences = resolveReferenceInputs(references);
+
+function asString(value: unknown): string {
+  if (typeof value === 'string') return value;
+  if (typeof value === 'number') return String(value);
+  return '';
+}
+
+const sortedReferences = [...resolvedReferences].sort((a, b) =>
+  asString(a.authors).localeCompare(asString(b.authors)) ||
+  asString(a.year).localeCompare(asString(b.year))
 );
 ---
 
@@ -30,57 +28,70 @@ const sortedReferences = [...references].sort((a, b) =>
   sortedReferences.length > 0 && (
     <section class="references">
       <h2>References</h2>
+
       <ol class="ref-list">
         {sortedReferences.map((ref) => {
-          const isJournal = Boolean(ref.journal);
-          const source = ref.source ?? ref.publisher;
+          const id = asString(ref.id);
+          const authors = asString(ref.authors);
+          const year = asString(ref.year);
+          const title = asString(ref.title);
+          const journal = asString(ref.journal);
+          const source = asString(ref.source ?? ref.publisher);
+          const volume = asString(ref.volume);
+          const issue = asString(ref.issue);
+          const pages = asString(ref.pages);
+          const doi = asString(ref.doi);
+          const url = asString(ref.url);
+          const note = asString(ref.note);
+
+          const isJournal = Boolean(journal);
 
           return (
-            <li class="ref-entry" id={`ref-${ref.id}`}>
-              <span class="ref-authors">{ref.authors}</span> ({ref.year}).{' '}
+            <li class="ref-entry" id={`ref-${id}`}>
+              <span class="ref-authors">{authors}</span> ({year}).{' '}
 
               {isJournal ? (
                 <>
-                  <span class="ref-title">{ref.title}</span>.{' '}
-                  <em>{ref.journal}</em>
-                  {ref.volume && <>, {ref.volume}</>}
-                  {ref.issue && <>({ref.issue})</>}
-                  {ref.pages && <>, {ref.pages}</>}
+                  <span class="ref-title">{title}</span>.{' '}
+                  <em>{journal}</em>
+                  {volume && <>, {volume}</>}
+                  {issue && <>({issue})</>}
+                  {pages && <>, {pages}</>}
                   .
                 </>
               ) : (
                 <>
-                  <em class="ref-title">{ref.title}</em>.
+                  <em class="ref-title">{title}</em>.
                   {source && <> {source}.</>}
                 </>
               )}
 
-              {ref.note && <> {ref.note}.</>}
+              {note && <> {note}.</>}
 
-              {ref.doi && (
+              {doi && (
                 <>
                   {' '}
                   <a
                     class="ref-doi"
-                    href={`https://doi.org/${ref.doi}`}
+                    href={`https://doi.org/${doi}`}
                     target="_blank"
                     rel="noopener"
                   >
-                    https://doi.org/{ref.doi}
+                    https://doi.org/{doi}
                   </a>
                 </>
               )}
 
-              {!ref.doi && ref.url && (
+              {!doi && url && (
                 <>
                   {' '}
                   <a
                     class="ref-url"
-                    href={ref.url}
+                    href={url}
                     target="_blank"
                     rel="noopener"
                   >
-                    {ref.url}
+                    {url}
                   </a>
                 </>
               )}
