@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-05-07
 revised: 2026-08-03
 cluster: diagnostics-and-empirical-tractability
+role: core
 abstract: >
   APS distinguishes between defining life and diagnosing its presence. The framework defines life ontologically as viability-oriented, constraint-closed organisation, but argues that recognising such organisation in practice requires diagnostic evaluation rather than trait-based classification. This article explains why APS approaches life as a diagnostic target revealed through perturbation, repair, persistence, and organisational failure.
 keyPoints:
@@ -251,3 +252,52 @@ APS therefore approaches life not merely as a classificatory category, but as a 
 
 APS distinguishes the definition of life from the diagnosis of living organisation: life is defined as viability-oriented, constraint-closed organisation, but its presence is recognised through diagnostic evaluation of organised persistence under perturbation and conditions of failure.
 
+## Explanatory Architecture
+
+### Central question
+
+How should living organisation be recognised in practice once life has been defined?
+
+### Architectural role
+
+This article distinguishes the ontological definition of life from the epistemological problem of recognising it. It explains why APS approaches life as a diagnostic target evaluated through organised persistence rather than as a classificatory category identified by trait lists alone.
+
+### Builds on
+
+What Is Life? — A Biological Question Revisited
+
+Viability
+
+Constraint Closure
+
+Biological Agency
+
+### Develops into
+
+How to Diagnose a Biological System
+
+Life Detection in APS — Biosignatures, Organisation and Evidence
+
+Malfunction, Breakdown and Death
+
+Boundary Cases in Biology
+
+Biological Evaluation
+
+### Related explanatory questions
+
+Readers may wish to continue with:
+
+- What Is Life? — A Biological Question Revisited
+- How to Diagnose a Biological System
+- Life Detection in APS — Biosignatures, Organisation and Evidence
+- Malfunction, Breakdown and Death
+- Biological Evaluation
+
+### Position within APS
+
+Within APS, *What Is Life?* establishes the canonical definition of life as viability-oriented, constraint-closed organisation. This article addresses the complementary question of how such organisation is recognised empirically. APS therefore distinguishes definition from diagnosis: life is defined ontologically, but diagnosed through evidence of organised persistence, repair, regulation, adaptation, perturbation, and organisational failure.
+
+### Corpus Significance
+
+This article establishes one of the central methodological distinctions within APS. By separating the definition of life from the diagnosis of living organisation, it provides the conceptual foundation for the framework's treatment of boundary cases, biosignatures, empirical tractability, and the practical evaluation of living systems.

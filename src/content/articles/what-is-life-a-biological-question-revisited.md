@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-08-02
+revised: 2026-08-03
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -169,6 +169,7 @@ references:
   title: 'Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale'
   journal: Biological Theory
   doi: 10.1007/s13752-026-00547-6
+- zimmer-2021-lifes-edge
 ---
 
 > **Where this article fits:** The question *What is life?* occupies a special place within APS because it addresses the most fundamental question in biology. Before we can explain evolution, development, cognition, ecology, or behaviour, we must first understand what kind of organisation makes something alive. Several APS articles approach this question from different perspectives. 
@@ -192,7 +193,7 @@ Yet despite these extraordinary advances, biology still lacks a universally acce
 
 This continuing uncertainty is not the result of insufficient empirical knowledge. Contemporary biology possesses an unprecedented understanding of metabolism, development, heredity, physiology, ecology, and evolution. The difficulty lies elsewhere. Knowledge of the many processes exhibited by living systems does not by itself explain what makes those processes expressions of a single biological phenomenon. Biology has become increasingly successful at explaining how living systems function while continuing to disagree about the nature of the organisation that makes them living.
 
-The persistence of this question is reflected in the remarkable diversity of proposed definitions. Some accounts emphasise metabolism, others reproduction, evolution, information, autonomy, autopoiesis, or organisational closure. More recent discussions increasingly treat life as a dynamic process rather than a static property or substance. Each perspective captures important aspects of living systems and has contributed significantly to biological understanding. Yet no single approach has achieved broad conceptual agreement, and debates concerning viruses, sterile organisms, artificial life, and other borderline cases continue to expose the limitations of many proposed definitions.
+The persistence of this question is reflected in the remarkable diversity of proposed definitions. Contemporary surveys of the field continue to document explanations centred on metabolism, replication, evolution, information, autonomy, autopoiesis, thermodynamics, artificial life, and viral biology, illustrating the continuing diversity of explanatory approaches (Zimmer, 2021; Nicholson, 2025). Some accounts emphasise metabolism, others reproduction, evolution, information, autonomy, autopoiesis, or organisational closure. More recent discussions increasingly treat life as a dynamic process rather than a static property or substance. Each perspective captures important aspects of living systems and has contributed significantly to biological understanding. Yet no single approach has achieved broad conceptual agreement, and debates concerning viruses, sterile organisms, artificial life, and other borderline cases continue to expose the limitations of many proposed definitions.
 
 This continuing disagreement suggests that the problem is not simply the absence of a sufficiently comprehensive list of biological characteristics. Rather, different definitions frequently address different explanatory questions. Some identify properties commonly associated with living systems, others specify criteria for classification, while others seek to explain the distinctive organisation exhibited by organisms. These are related but not identical enterprises. Consequently, disagreements about the definition of life often arise because the underlying explanatory objective has not been clearly distinguished.
 

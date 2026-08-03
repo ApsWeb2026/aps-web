@@ -1141,3 +1141,14 @@ references:
       status: verified
       authority: "arXiv"
       verifiedDate: 2026-08-03
+
+  - id: zimmer-2021-lifes-edge
+    type: book
+    authors:
+      - Zimmer, C.
+    year: 2021
+    title: "Life's Edge: The Search for What It Means to Be Alive"
+    publisher: Dutton
+    verification:
+      authority: publisher
+      status: verified
