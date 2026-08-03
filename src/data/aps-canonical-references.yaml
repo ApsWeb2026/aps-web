@@ -1114,3 +1114,30 @@ references:
       status: verified
       authority: "Oxford University Press"
       verifiedDate: 2026-08-02
+
+  - id: rama2024cognitiverevolution
+    type: journal-article
+    authors: Rama, T.
+    year: 2024
+    title: Is a Cognitive Revolution in Theoretical Biology Underway?
+    journal: Foundations of Science
+    volume: "30"
+    issue: "3"
+    pages: "719–740"
+    doi: 10.1007/s10699-024-09950-3
+    publisher: Springer Nature
+    verification:
+      authority: Crossref
+      verified: true
+
+  - id: hinrichs-2026-life-plasmas
+    type: preprint
+    authors: Hinrichs, N., Albarracin, M., Engelberger, F., Christov-Moore, L., & Polani, D.
+    year: 2026
+    title: "Life as Plasmas: Autonomy and Interactivism In-Materio"
+    publisher: "arXiv"
+    doi: 10.48550/arXiv.2607.09747
+    verification:
+      status: verified
+      authority: "arXiv"
+      verifiedDate: 2026-08-03

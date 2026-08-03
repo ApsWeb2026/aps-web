@@ -6,15 +6,13 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
-revised: 2026-06-15
+revised: 2026-08-03
 cluster: cognition-and-mind
 
 definition: >
   Communication is the coordination of activity through the production,
   transmission, interpretation, and use of signals, signs, symbols, or other
-  communicative behaviours. In APS, communication is understood primarily as a
-  mechanism of coordination rather than merely the transfer of information.
-  Communication contributes to organised persistence by stabilising
+  communicative behaviours. Communication is understood primarily through the coordination it achieves rather than through the transmission of information considered independently of its organisational consequences. Communication contributes to organised persistence by stabilising
   interactions, reducing uncertainty, and supporting coordinated activity
   among viability-oriented organisms across time and scale.
 
@@ -37,7 +35,7 @@ seeAlso:
   - continuity
 ---
 
-# Communication
+## Communication
 
 Communication refers to the production, transmission, interpretation, and use of signals through which organisms influence one another's behaviour.
 
@@ -64,13 +62,9 @@ Examples include:
 - symbolic systems,
 - language.
 
-Although these forms differ greatly in complexity, they perform a similar organisational role.
+Although these forms differ greatly in their mechanisms, material implementation, and evolutionary history, they perform a similar organisational role by coordinating activity among interacting living systems.
 
-They contribute to coordination.
-
-APS emphasises that communication is closely related to evaluation and semiosis.
-
-Communicative signals function as signs that organisms interpret in relation to their ongoing activities and conditions of viability. Communication therefore depends upon processes of evaluation, meaning-making, and sign interpretation rather than simple physical transmission alone.
+Although communication differs greatly across biological systems, these diverse forms can be understood as organisationally related because they coordinate activity among components or organisms whose continued interactions contribute to organised persistence. They contribute to coordination. Communication depends upon evaluation and semiosis. Communicative signals function as signs that organisms interpret in relation to their ongoing activities and conditions of viability. Communication therefore depends upon processes of evaluation, meaning-making, and sign interpretation rather than simple physical transmission alone.
 
 What is communicated matters only insofar as it influences the organisation of activity. Communication is therefore grounded in the capacity of organisms to evaluate signals in relation to their own persistence and ongoing interactions.
 

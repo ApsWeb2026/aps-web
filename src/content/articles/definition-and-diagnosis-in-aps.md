@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-06-15
+revised: 2026-08-03
 cluster: diagnostics-and-empirical-tractability
 abstract: >
   APS distinguishes between defining life and diagnosing its presence. The framework defines life ontologically as viability-oriented, constraint-closed organisation, but argues that recognising such organisation in practice requires diagnostic evaluation rather than trait-based classification. This article explains why APS approaches life as a diagnostic target revealed through perturbation, repair, persistence, and organisational failure.
@@ -59,6 +59,8 @@ references:
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
+
+  - hinrichs-2026-life-plasmas
 ---
 
 ## Introduction
@@ -123,6 +125,8 @@ The central question becomes:
 > Is this system actively sustaining the conditions of its own persistence?
 
 This reframes life as something evaluated through organisational dynamics rather than inferred from trait possession alone.
+
+Recent work on minimal autonomy illustrates this distinction. Operational criteria such as organisational closure, energy throughput, active regulation, and robustness under perturbation have been proposed as ways of identifying autonomy-like systems, including systems that may not be conventionally biological. From an APS perspective, such criteria are best understood as diagnostic indicators rather than as definitions of life. They provide evidence that may support the diagnosis of viability-oriented organisation without, by themselves, determining whether biological life is present.
 
 ## Organisation Under Perturbation
 
@@ -190,6 +194,8 @@ Instead, systems may be evaluated according to:
 - repair capacity,
 - internally grounded normativity,
 - and persistence-oriented regulation.
+
+Such indicators should be interpreted as evidence contributing to diagnosis rather than as individually sufficient criteria for defining life.
 
 This permits more nuanced analysis than rigid trait checklists while preserving a principled distinction between biological and non-biological organisation.
 

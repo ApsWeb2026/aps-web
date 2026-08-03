@@ -87,7 +87,7 @@ references:
   - id: rosen-1991-life-itself
     authors: Rosen, R.
     year: 1991
-    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life
+    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
     publisher: Columbia University Press
 
   - id: deacon-2011-incomplete-nature
