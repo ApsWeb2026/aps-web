@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-23
+revised: 2026-08-03
 
 cluster: conceptual-foundations
 role: synthesis
@@ -257,3 +257,71 @@ APS therefore provides a framework for understanding both the distinctiveness an
 ## Key Point
 
 Biology is different from physics not because living systems violate physical laws, but because living systems exhibit viability-oriented organisation. Physics explains the components and processes from which living systems are composed. Biology explains how those components become organised to maintain persistence, regulate system–environment relations, exhibit agency, develop through time, and evolve across generations. APS therefore identifies organised persistence as the defining explanatory target that makes biology a distinct science.
+
+## Explanatory Architecture
+
+### 1. Central Question
+
+Why is biology a distinct science if living systems are entirely physical?
+
+APS argues that biology differs from physics not because life transcends physical law, but because living systems exhibit viability-oriented organisation. Physics explains the components and processes through which living systems operate. Biology explains how those components become organised to maintain organised persistence.
+
+### 2. Architectural Role
+
+This article establishes the explanatory distinction between physics and biology within the APS framework.
+
+Rather than proposing additional biological forces or laws, it explains why living systems generate explanatory questions that cannot be answered by physical description alone. It therefore naturalises the autonomy of biology while remaining fully consistent with physical science.
+
+The article identifies organised persistence as the defining explanatory target that distinguishes biology from physics.
+
+### 3. Builds On
+
+This article builds directly upon the APS concepts of:
+
+- Life
+- Biological Organisation
+- Viability
+- Organised Persistence
+- Biological Agency
+- Process
+- Scale
+- Function
+
+It assumes these concepts in their canonical forms and explains why they become necessary once physical processes are organised into living systems.
+
+### 4. Develops Into
+
+The conceptual clarification provided here supports subsequent work on:
+
+- Biological Explanation
+- Function
+- Development
+- Evolution
+- Ecology
+- Biological Evaluation
+- Cognition
+- Mind
+
+It establishes why these explanatory domains arise naturally from viability-oriented organisation rather than representing alternatives to physical explanation.
+
+### 5. Related Explanatory Questions
+
+This article contributes to the following broader biological questions:
+
+- Why does biology remain a distinct science despite being entirely physical?
+- What distinguishes biological explanation from physical description?
+- Why do living systems generate concepts such as function, agency, and development?
+- What is the explanatory target unique to biology?
+- How are physics and biology complementary rather than competing sciences?
+- Why is organised persistence central to biological explanation?
+- How does viability-oriented organisation generate new explanatory questions?
+
+### 6. Position within APS
+
+This article occupies the **Conceptual Foundations** cluster as a major synthesis article.
+
+Its role is to establish the explanatory relationship between physics and biology by identifying organised persistence as biology's distinctive explanatory target. It rejects both reductionism and anti-physicalism, showing instead that biology and physics investigate different explanatory aspects of the same natural world.
+
+The article complements the canonical articles on Life, Biological Organisation, Organised Persistence, Agency, Function, Development, and Evolution while providing an important conceptual foundation for the APS account of Biological Explanation.
+
+Rather than treating biology as either reducible to physics or independent of it, APS presents biology as the science of viability-oriented organisation realised through entirely physical processes.

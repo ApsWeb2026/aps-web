@@ -14,7 +14,9 @@
     "check:links": "npx tsx src/scripts/check-links.ts",
     "check:canonical": "npx tsx src/scripts/check-canonical-lock.ts",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "clean": "node -e \"require('fs').rmSync('.astro',{recursive:true,force:true})\"",
+    "build:clean": "npm run clean && npm run build"
   },
   "keywords": [],
   "author": "",

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-22
+revised: 2026-08-03
 
 cluster: conceptual-foundations
 role: extension
@@ -237,3 +237,69 @@ Most importantly, this interpretation places viability at the centre of biologic
 ## Key Point
 
 Organisms exhibit goals because living systems must continually maintain viability in order to persist. Activities such as acquiring resources, regulating internal conditions, repairing damage, defending against threats, and reproducing become goal-directed because they contribute to organised persistence. In APS, biological goals do not originate in consciousness, external design, or future-directed causation. They emerge naturally from the viability-oriented organisation characteristic of living systems.
+
+## Explanatory Architecture
+
+### 1. Central Question
+
+Why do organisms exhibit goal-directed behaviour?
+
+APS argues that biological goals are neither externally imposed purposes nor products of conscious intention. They emerge because living systems must continually maintain viability in order to persist. Goal-directed activity is therefore a natural consequence of viability-oriented organisation.
+
+### 2. Architectural Role
+
+This article explains the biological origin of goal-directedness within the APS framework.
+
+Rather than asking whether biological goals are real or illusory, it explains why viability-oriented living systems would be expected to exhibit goal-directed activity. The article therefore naturalises biological goals by showing that they arise from the organisational requirements of living systems rather than from teleology, consciousness, or external design.
+
+### 3. Builds On
+
+This article builds directly upon the APS concepts of:
+
+- Life
+- Viability
+- Organised Persistence
+- Biological Agency
+- Biological Organisation
+- Function
+- Adaptation
+
+It assumes these concepts in their canonical forms and explains why viability-oriented organisation necessarily generates goal-directed activity.
+
+### 4. Develops Into
+
+The conceptual clarification provided here supports subsequent work on:
+
+- Biological Evaluation
+- Biological Significance
+- Cognition
+- Mind
+- Selfhood
+- Function
+- Adaptation
+- Evolution
+- Morality
+
+It establishes goal-directedness as the organisational foundation from which increasingly sophisticated forms of evaluation, cognition, and reflective agency emerge.
+
+### 5. Related Explanatory Questions
+
+This article contributes to the following broader biological questions:
+
+- Why do living systems behave as though they have goals?
+- How can biological purpose be naturalised without invoking teleology?
+- Why does goal-directedness not require consciousness?
+- How does viability generate organised patterns of activity?
+- What is the relationship between agency and biological goals?
+- How should evolution and agency be understood as complementary explanations?
+- Why are biological goals organisationally real?
+
+### 6. Position within APS
+
+This article occupies the **Conceptual Foundations** cluster.
+
+Its role is to establish goal-directedness as a natural consequence of viability-oriented organisation. It explains why biological goals are organisationally real without appealing to future causation, conscious intention, or external design.
+
+The article complements the canonical articles on Life, Biological Agency, Organised Persistence, Function, Adaptation, and Evolution while providing an important conceptual bridge to the APS architecture of Biological Evaluation, Significance, Cognition, and Mind.
+
+Rather than treating goals as independent causes of behaviour, APS interprets them as emergent organisational consequences of living systems continually maintaining the conditions required for organised persistence.

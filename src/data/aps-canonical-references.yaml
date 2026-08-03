@@ -127,8 +127,8 @@ references:
       verifiedDate: 2026-07-24
 
   - id: nicholson-dupre-2018-everything-flows
-    type: edited-book
-    editors: Nicholson, D. J., & Dupré, J.
+    type: book
+    editors: Nicholson, D. J., & Dupré, J. (eds)
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"

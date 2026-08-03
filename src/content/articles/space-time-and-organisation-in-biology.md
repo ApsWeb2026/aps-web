@@ -3,7 +3,7 @@ title: Space, Time, and Organisation in Biology — An APS Clarification
 slug: space-time-and-organisation-in-biology
 type: article
 date: 2026-05-01
-revised: 2026-06-21
+revised: 2026-08-03
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-01
@@ -127,3 +127,69 @@ These directions indicate that a systematic account of spatiotemporal organisati
 
 Space and time in biology are not neutral coordinates in which life unfolds. They are organised dimensions of viability-oriented activity, integrated through process and distributed across scale. Biological explanation must therefore account not only for what happens, but for how spatial and temporal relations are structured in the maintenance and transformation of living systems.
 
+## Explanatory Architecture
+
+### 1. Central Question
+
+How should space and time be understood within biological explanation?
+
+APS argues that space and time are not themselves primary explanatory domains in biology. Rather, they are organisational dimensions through which viability-oriented activity is structured, coordinated, and maintained.
+
+### 2. Architectural Role
+
+This article clarifies the explanatory status of space and time within the APS framework.
+
+It distinguishes physical space-time from biological explanation by showing that biology is concerned not simply with where and when living systems exist, but with how living systems organise spatial and temporal relations in maintaining organised persistence.
+
+The article therefore establishes the conceptual position of space and time within APS rather than introducing new theoretical entities or extending physical theory.
+
+### 3. Builds On
+
+This article builds directly upon the APS concepts of:
+
+- Life
+- Biological Organisation
+- Organised Persistence
+- Biological Agency
+- Process
+- Scale
+- Viability
+- Constraint Closure
+
+It assumes these concepts in their canonical forms and explains how spatial and temporal organisation should be understood within that existing conceptual architecture.
+
+### 4. Develops Into
+
+The conceptual clarification provided here supports subsequent work on:
+
+- Development
+- Evolution
+- Ecology
+- Cognition
+- Biological Explanation
+- The Explanatory Geometry of Biology
+- Cross-scale Organisation
+- Environmental Organisation
+
+It provides the conceptual foundation for interpreting biological organisation as distributed across spatial and temporal domains.
+
+### 5. Related Explanatory Questions
+
+This article contributes to the following broader biological questions:
+
+- Why is biological explanation organisational rather than merely descriptive?
+- How should scale be understood in biological explanation?
+- What distinguishes biological organisation from physical organisation?
+- How should process integrate spatial and temporal organisation?
+- Why are "levels" and "stages" descriptive rather than primary explanatory concepts?
+- How do living systems organise spatial and temporal relations in maintaining viability?
+
+### 6. Position within APS
+
+This article occupies the **Conceptual Foundations** cluster.
+
+Its role is to stabilise APS's interpretation of space and time and prevent category errors between physical description and biological explanation.
+
+Rather than proposing a theory of space or time, it explains where spatial and temporal organisation belongs within the Agency–Process–Scale explanatory architecture.
+
+It complements the canonical articles on Biological Organisation, Process, Scale, Organised Persistence, and The Explanatory Geometry of Biology while providing an important conceptual bridge to later discussions of development, evolution, ecology, and cognition.

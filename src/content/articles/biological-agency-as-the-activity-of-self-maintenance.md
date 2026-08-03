@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-08-02
+revised: 2026-08-03
 
 cluster: conceptual-foundations
 role: core
@@ -53,10 +53,10 @@ references:
   - spencer-2026-agency-defining-activity-life
   - moreno-mossio-2015-biological-autonomy
   - varela-1979-principles-biological-autonomy
-  - nicholson-dupre-2018-everything-flows
   - walsh-2015-organism-agency
   - dupre-2012-processes-life
   - thompson-2007-mind-in-life
+  - nicholson-dupre-2018-everything-flows
 ---
 
 ## Introduction
@@ -264,26 +264,27 @@ What is biological agency, and why is it fundamental to understanding living sys
 This article establishes biological agency as the continuing viability-oriented organisational activity through which living systems maintain and re-establish the conditions of their own persistence. It provides the conceptual foundation for understanding agency as the defining activity of life and explains how agency relates to organised persistence, Scale, function, normativity, and constraint-closure within the APS framework.
 
 ### Builds On
-What Is Life?
-Organised Persistence
-Process
-Scale
-Constraint-Closure
-Develops Into
-Biological Evaluation
-Biological Significance
-Cognition
-Mind
-Selfhood
-Reflective Agency
-Meaning
+- What Is Life?
+- Organised Persistence
+- Process
+- Scale
+- Constraint-Closure
+
+### Develops Into
+- Biological Evaluation
+- Biological Significance
+- Cognition
+- Mind
+- Selfhood
+- Reflective Agency
+- Meaning
 
 ### Related Explanatory Questions
-What distinguishes living activity from physical persistence?
-Why is agency fundamental to biological explanation?
-How does agency maintain organised persistence?
-How do function and normativity arise from biological organisation?
-How does biological agency provide the foundation for cognition?
+- What distinguishes living activity from physical persistence?
+- Why is agency fundamental to biological explanation?
+- How does agency maintain organised persistence?
+- How do function and normativity arise from biological organisation?
+- How does biological agency provide the foundation for cognition?
 
 ### Position within APS
 
