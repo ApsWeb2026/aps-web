@@ -76,6 +76,105 @@ function getBoxSlugs(): Set<string> {
   return getSlugsForSection('boxes');
 }
 
+interface ContentEntry {
+  slug: string;
+  title: string;
+}
+
+function getContentEntriesForSections(sections: string[]): ContentEntry[] {
+  const entries: ContentEntry[] = [];
+
+  for (const section of sections) {
+    const dir = path.join(CONTENT_DIR, section);
+    if (!fs.existsSync(dir)) continue;
+
+    for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.md'))) {
+      const content = fs.readFileSync(path.join(dir, file), 'utf-8');
+      const fm = parseFrontmatter(content);
+
+      if (typeof fm.slug !== 'string' || typeof fm.title !== 'string') {
+        continue;
+      }
+
+      entries.push({
+        slug: fm.slug,
+        title: fm.title,
+      });
+    }
+  }
+
+  return entries;
+}
+
+function normalizeForSlugMatching(value: string): string {
+  return value
+    .toLowerCase()
+    .replace(
+      /^(what-is|what-are|why-is|why-do|how-do|how-does|where-do|explaining-the)-/,
+      '',
+    )
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function getTokenOverlapScore(a: string, b: string): number {
+  const aTokens = new Set(normalizeForSlugMatching(a).split('-').filter(Boolean));
+  const bTokens = new Set(normalizeForSlugMatching(b).split('-').filter(Boolean));
+
+  if (aTokens.size === 0 || bTokens.size === 0) return 0;
+
+  const shared = [...aTokens].filter((token) => bTokens.has(token)).length;
+  const total = new Set([...aTokens, ...bTokens]).size;
+
+  return shared / total;
+}
+
+function getSlugMatchScore(reference: string, entry: ContentEntry): number {
+  const normalizedReference = normalizeForSlugMatching(reference);
+  const normalizedSlug = normalizeForSlugMatching(entry.slug);
+  const normalizedTitle = normalizeForSlugMatching(entry.title);
+
+  if (
+    normalizedReference === normalizedSlug ||
+    normalizedReference === normalizedTitle
+  ) {
+    return 1;
+  }
+
+  if (
+    normalizedSlug.includes(normalizedReference) ||
+    normalizedReference.includes(normalizedSlug) ||
+    normalizedTitle.includes(normalizedReference) ||
+    normalizedReference.includes(normalizedTitle)
+  ) {
+    return 0.85;
+  }
+
+  return Math.max(
+    getTokenOverlapScore(reference, entry.slug),
+    getTokenOverlapScore(reference, entry.title),
+  );
+}
+
+function suggestRelatedArticleSlugs(
+  reference: string,
+  entries: ContentEntry[],
+  limit = 3,
+): ContentEntry[] {
+  return entries
+    .map((entry) => ({
+      entry,
+      score: getSlugMatchScore(reference, entry),
+    }))
+    .filter(({ score }) => score >= 0.7)
+    .sort(
+      (a, b) =>
+        b.score - a.score || a.entry.slug.localeCompare(b.entry.slug),
+    )
+    .slice(0, limit)
+    .map(({ entry }) => entry);
+}
+
 function findBoxEmbeds(content: string): string[] {
   const regex = /\[\[box:([\w-]+)\]\]/g;
   const slugs: string[] = [];
@@ -161,6 +260,10 @@ function lintCollection(section: string): LintIssue[] {
   const glossarySlugs = getGlossarySlugs();
   const articleSlugs = getArticleSlugs();
   const orientationSlugs = getSlugsForSection('orientation');
+  const relatedArticleEntries = getContentEntriesForSections([
+    'articles',
+    'orientation',
+  ]);
   const boxSlugs = getBoxSlugs();
   const requiresRevised = ['articles', 'glossary', 'streams', 'orientation', 'diagrams'];
   const supportsCanonical = ['articles', 'glossary', 'orientation'];
@@ -234,19 +337,36 @@ function lintCollection(section: string): LintIssue[] {
       }
     }
 
-    // Check relatedArticles references (warning — content may be added later)
-    if (section === 'articles' || section === 'orientation') {
-      const related = parseYamlArray(content, 'relatedArticles');
-      for (const ref of related) {
-        if (!articleSlugs.has(ref) && !orientationSlugs.has(ref)) {
-          issues.push({
-            file: relPath,
-            issue: `relatedArticles: "${ref}" not found in articles or orientation`,
-            severity: 'warning',
-          });
-        }
-      }
+    // Check relatedArticles references and suggest likely published slugs
+if (section === 'articles' || section === 'orientation') {
+  const related = parseYamlArray(content, 'relatedArticles');
+
+  for (const ref of related) {
+    if (articleSlugs.has(ref) || orientationSlugs.has(ref)) {
+      continue;
     }
+
+    const suggestions = suggestRelatedArticleSlugs(
+      ref,
+      relatedArticleEntries,
+    );
+
+    const suggestionText =
+      suggestions.length > 0
+        ? ` Suggested: ${suggestions
+            .map((entry) => `"${entry.slug}" (${entry.title})`)
+            .join('; ')}`
+        : ' No close published match found.';
+
+      issues.push({
+        file: relPath,
+        issue:
+          `relatedArticles: "${ref}" not found in articles or orientation.` +
+          suggestionText,
+        severity: 'warning',
+      });
+    }
+  }
 
     if (section === 'streams') {
       const terms = parseYamlArray(content, 'associatedGlossaryTerms');
