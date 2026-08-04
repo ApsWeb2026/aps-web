@@ -50,7 +50,6 @@ relatedArticles:
   - what-is-mind
   - what-is-selfhood
   - meaning-in-biology-an-aps-clarification
-  - where-do-human-values-come-from
   - biological-agency-as-the-activity-of-self-maintenance
   - what-is-biological-evaluation
   - what-is-life-a-biological-question-revisited

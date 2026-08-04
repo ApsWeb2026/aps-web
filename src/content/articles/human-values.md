@@ -51,6 +51,7 @@ relatedArticles:
   - what-is-moral-evaluation
   - what-is-morality
   - what-is-ethics
+  - what-are-biological-values
 
 references:
   - spencer-2026-agency-defining-activity-life

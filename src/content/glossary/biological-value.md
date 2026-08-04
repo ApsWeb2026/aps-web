@@ -35,7 +35,6 @@ relatedArticles:
   - what-is-biological-meaning
   - what-is-biological-evaluation
   - what-are-biological-values
-  - where-do-human-values-come-from
 ---
 
 Within the Agency–Process–Scale (APS) framework, a biological value is a pattern of significance that emerges from the evaluative activities of living systems. Biological values reflect the relative importance of conditions, resources, relationships, or outcomes for viability, functioning, and adaptive persistence. They help guide behaviour, regulation, and adaptive responses across biological scales.

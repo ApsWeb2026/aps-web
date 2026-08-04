@@ -35,8 +35,7 @@ relatedArticles:
   - cognition-where-does-it-belong-in-biology
   - why-do-organisms-have-goals
   - what-is-biological-evaluation
-  - where-do-human-values-come-from
-
+  
 references:
   - id: spencer-2026-agency
     authors: Spencer, R. D.

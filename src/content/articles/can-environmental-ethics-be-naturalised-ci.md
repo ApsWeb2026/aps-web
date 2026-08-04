@@ -32,7 +32,6 @@ relatedArticles:
   - agency-and-organised-persistence
   - what-is-biological-evaluation
   - what-is-biological-significance
-  - where-do-human-values-come-from
   - what-is-moral-evaluation
   - what-is-morality
   - what-is-ethics

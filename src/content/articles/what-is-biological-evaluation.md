@@ -47,7 +47,6 @@ relatedArticles:
   - biological-agency-as-the-activity-of-self-maintenance
   - why-do-organisms-have-goals
   - cognition-where-does-it-belong-in-biology
-  - where-do-human-values-come-from
   - what-is-the-meaning-of-life
 
 references:

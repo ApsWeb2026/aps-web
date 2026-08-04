@@ -25,7 +25,6 @@ relatedGlossaryTerms:
   - moral-evaluation
   - accountability
 relatedArticles:
-  - where-do-human-values-come-from
   - what-is-moral-evaluation
   - what-is-morality
   - what-is-ethics

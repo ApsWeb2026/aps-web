@@ -37,7 +37,6 @@ relatedArticles:
   - what-is-biological-evaluation
   - what-are-biological-values
   - what-is-cognition
-  - where-do-human-values-come-from
 ---
 
 Within the Agency–Process–Scale (APS) framework, biological meaning refers to the significance that conditions, differences, events, relationships, or states possess for a living system. Meaning arises because some aspects of the world matter differently for viability, functioning, and adaptive persistence. Nutrients, predators, light, mates, competitors, and environmental conditions do not affect organisms equally. Their differing significance gives rise to biological meaning.
