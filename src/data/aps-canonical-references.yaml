@@ -1131,3 +1131,139 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: '2026-08-03'
+- id: friston-2010-free-energy-principle
+  type: journal-article
+  authors: Friston, K.
+  year: 2010
+  title: "The Free-Energy Principle: A Unified Brain Theory?"
+  journal: Nature Reviews Neuroscience
+  volume: "11"
+  issue: "2"
+  pages: 127–138
+  doi: 10.1038/nrn2787
+  verification:
+    status: verified
+    authority: Nature Reviews Neuroscience
+    verifiedDate: 2026-08-04
+- id: friston-2012-free-energy-biological-systems
+  type: journal-article
+  authors: Friston, K.
+  year: 2012
+  title: A Free Energy Principle for Biological Systems
+  journal: Entropy
+  volume: "14"
+  issue: "11"
+  pages: 2100–2121
+  doi: 10.3390/e14112100
+  verification:
+    status: verified
+    authority: Entropy
+    verifiedDate: 2026-08-04
+- id: friston-2013-life-as-we-know-it
+  type: journal-article
+  authors: Friston, K.
+  year: 2013
+  title: Life as We Know It
+  journal: Journal of the Royal Society Interface
+  volume: "10"
+  issue: "86"
+  article-number: "20130475"
+  doi: 10.1098/rsif.2013.0475
+  verification:
+    status: verified
+    authority: Journal of the Royal Society Interface
+    verifiedDate: 2026-08-04
+- id: parr-pezzulo-friston-2022-active-inference
+  type: book
+  authors: Parr, T.; Pezzulo, G.; Friston, K.
+  year: 2022
+  title: "Active Inference: The Free Energy Principle in Mind, Brain, and Behavior"
+  publisher: MIT Press
+  doi: 10.7551/mitpress/12441.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-08-04
+- id: friston-et-al-2015-active-inference-epistemic-value
+  type: journal-article
+  authors: Friston, K.; Rigoli, F.; Ognibene, D.; Mathys, C.; Fitzgerald, T.; Pezzulo, G.
+  year: 2015
+  title: Active Inference and Epistemic Value
+  journal: Cognitive Neuroscience
+  volume: "6"
+  issue: "4"
+  pages: 187–214
+  doi: 10.1080/17588928.2015.1020053
+  verification:
+    status: verified
+    authority: Cognitive Neuroscience
+    verifiedDate: 2026-08-04
+- id: kirchhoff-et-al-2018-markov-blankets-life
+  type: journal-article
+  authors: Kirchhoff, M.; Parr, T.; Palacios, E.; Friston, K.; Kiverstein, J.
+  year: 2018
+  title: "The Markov Blankets of Life: Autonomy, Active Inference and the Free Energy Principle"
+  journal: Journal of the Royal Society Interface
+  volume: "15"
+  issue: "138"
+  article-number: "20170792"
+  doi: 10.1098/rsif.2017.0792
+  verification:
+    status: verified
+    authority: Journal of the Royal Society Interface
+    verifiedDate: 2026-08-04
+- id: ramstead-badcock-friston-2018-schrodingers-question
+  type: journal-article
+  authors: Ramstead, M. J. D.; Badcock, P. B.; Friston, K. J.
+  year: 2018
+  title: "Answering Schrödinger's Question: A Free-Energy Formulation"
+  journal: Physics of Life Reviews
+  volume: "24"
+  pages: 1–16
+  doi: 10.1016/j.plrev.2017.09.001
+  verification:
+    status: verified
+    authority: Physics of Life Reviews
+    verifiedDate: 2026-08-04
+- id: colombo-wright-2018-first-principles-life-sciences
+  type: journal-article
+  authors: Colombo, M.; Wright, C.
+  year: 2018
+  title: "First Principles in the Life Sciences: The Free-Energy Principle, Organicism, and Mechanism"
+  journal: Synthese
+  volume: "198"
+  issue: "4"
+  pages: 3463–3488
+  doi: 10.1007/s11229-018-01932-w
+  verification:
+    status: verified
+    authority: Springer
+    verifiedDate: 2026-08-04
+- id: colombo-palacios-2021-nonequilibrium-thermodynamics
+  type: journal-article
+  authors: Colombo, M.; Palacios, P.
+  year: 2021
+  title: "Non-equilibrium Thermodynamics and the Free Energy Principle in Biology"
+  journal: Biology & Philosophy
+  volume: "36"
+  issue: "5"
+  article-number: "41"
+  doi: 10.1007/s10539-021-09818-x
+  verification:
+    status: verified
+    authority: Springer
+    verifiedDate: 2026-08-04
+- id: biehl-pollock-kanai-2021-technical-critique-fep
+  type: journal-article
+  authors: Biehl, M.; Pollock, T.; Kanai, R.
+  year: 2021
+  title: "A Technical Critique of Some Parts of the Free Energy Principle"
+  journal: Entropy
+  volume: "23"
+  issue: "3"
+  article-number: "293"
+  doi: 10.3390/e23030293
+  verification:
+    status: verified
+    authority: Entropy
+    verifiedDate: 2026-08-04
