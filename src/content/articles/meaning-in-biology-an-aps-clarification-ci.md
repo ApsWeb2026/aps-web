@@ -406,3 +406,48 @@ Meaning therefore belongs intrinsically within the organisation of life itself, 
 >**Key Point**
 
 Biological meaning emerges wherever evaluative organisation stabilises biologically significant differences within viability-oriented organised persistence. These processes provide the biological foundations from which more sophisticated forms of interpretive meaning later emerge through cognition, mind, selfhood, reflective agency, and human understanding.
+
+## Explanatory Architecture
+
+### Central Question
+
+How does biological meaning emerge within living systems before language, symbolic representation, or reflective cognition?
+
+### Architectural Role
+
+This Clarification article explains biological meaning as the stabilisation of biologically significant differences within viability-oriented evaluative organisation. It distinguishes biological meaning from symbolic semantics, abstract information, and representational theories while grounding meaning in organised persistence.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- Viability
+- Function
+- Normativity
+- Biological Evaluation
+- Semiosis
+- Organised Persistence
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed or applied in:
+
+- Information in Biology — An APS Clarification
+- Representation — When and Whether It Arises in Biological Systems
+- Cognition — Where Does It Belong in Biology?
+- Mind
+- Selfhood
+- Reflective Agency
+- What Is Meaning?
+
+### Related Explanatory Questions
+
+- How does meaning differ from information?
+- Why does meaning precede representation?
+- How does biological meaning differ from linguistic meaning?
+- How does cognition extend biological meaning?
+- Why is meaning grounded in evaluation?
+
+### Position Within APS
+
+This article clarifies the biological origins of meaning within the APS explanatory architecture. It establishes meaning as an emergent organisational consequence of viability-oriented evaluation and semiosis, thereby providing the explanatory bridge between biological significance and the later development of cognition, mind, and reflective agency.

@@ -9,6 +9,7 @@ canonicalLockDate: 2026-05-26
 revised: 2026-07-30
 
 cluster: philosophy-of-biology
+role: anchor
 
 abstract: >
   This article situates APS in relation to major contemporary approaches in
@@ -65,6 +66,9 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - diagnosis-as-continuity-analysis
   - biological-agency-as-the-activity-of-self-maintenance
+  - aps-and-the-free-energy-principle
+  - why-life-is-not-a-machine
+  - why-life-is-not-dnas-way-of-making-more-dna
 
 references:
   - id: pezzulo-levin-2026
@@ -206,6 +210,15 @@ The result is not theoretical unification in the sense of reducing biology to a 
 
 In this way, APS proposes that contemporary biology is best understood not as a collection of competing theories, but as a landscape of complementary explanatory traditions investigating different aspects of a common organisational reality. The comparative methodology developed here provides the basis for examining those traditions individually, beginning with the principal explanatory frameworks that have shaped contemporary theoretical biology.
 
+## The Free Energy Principle: A Major Comparative Case
+The Free Energy Principle provides one of the clearest demonstrations of the comparative methodology developed in this article. Both APS and FEP investigate adaptive living systems, yet they organise biological explanation differently. FEP develops a formal mathematical framework for modelling adaptive dynamics under uncertainty. APS investigates the viability-oriented organisation through which living systems continually maintain themselves. The comparison therefore illustrates how different explanatory traditions may address complementary biological questions without becoming interchangeable.
+
+This relationship exemplifies the central claim of this article. APS does not compare biological theories by asking which is universally correct. It asks which organisational questions each framework addresses, which explanatory priorities organise its achievements, and how those achievements contribute to understanding living systems.
+
+Readers interested in a detailed comparison should consult:
+
+APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology.
+
 ## Comparative Framework Table
 Different biological traditions ask different questions because they seek to explain different aspects of living systems. APS does not attempt to replace these perspectives. Instead, it asks how they relate through the organisation required for living systems to maintain organised persistence. The comparison below illustrates this methodological perspective.
 
@@ -216,8 +229,6 @@ Different biological traditions ask different questions because they seek to exp
 ## Comparing Contemporary Biological Traditions
 
 Different biological traditions ask different questions because they seek to explain different aspects of living systems. APS does not replace these explanatory traditions. Instead, it asks how they relate through the organisation required for living systems to maintain organised persistence. The comparisons below illustrate this methodological perspective.
-
----
 
 ### Mechanistic Biology
 
@@ -230,8 +241,6 @@ Explains how organised causal mechanisms generate biological activity.
 **APS asks**  
 What organisation makes these mechanisms biologically significant?
 
----
-
 ### Evolutionary Theory
 
 **Asks**  
@@ -242,8 +251,6 @@ Explains the historical transformation of living systems.
 
 **APS asks**  
 How does historical change relate to ongoing organised persistence?
-
----
 
 ### Organisational Biology
 
@@ -256,8 +263,6 @@ Explains autonomous organisation and organisational closure.
 **APS asks**  
 How does autonomous organisation contribute to viability-oriented organisation more generally?
 
----
-
 ### Ecology
 
 **Asks**  
@@ -268,8 +273,6 @@ Explains organism–environment dynamics.
 
 **APS asks**  
 How are these relationships organised to sustain organised persistence?
-
----
 
 ### Information-Theoretic Approaches
 
@@ -282,8 +285,6 @@ Explains information processing and biological regulation.
 **APS asks**  
 Under what organisational conditions does information become biologically significant?
 
----
-
 ### Cognitive and Enactive Approaches
 
 **Asks**  
@@ -294,8 +295,6 @@ Explains adaptive engagement with biologically significant conditions.
 
 **APS asks**  
 How do evaluation and response emerge within viability-oriented organisation?
-
----
 
 ### Agency–Process–Scale (APS)
 
@@ -613,4 +612,51 @@ The continuing success of biology ensures that new discoveries, methods, and exp
 ## The Aim of APS
 
 > APS does not seek to replace the major explanatory traditions of contemporary biology. It proposes a comparative methodology for understanding how those traditions investigate complementary aspects of the same viability-oriented, constraint-closed organisation. The success of APS depends upon whether it improves the coherence and intelligibility of biological explanation.
+
+The methodology outlined here is developed through a series of detailed comparative studies examining major contemporary frameworks individually. These include organisational biology, systems biology, autonomy theory, the Extended Evolutionary Synthesis, the Free Energy Principle, and related approaches. Together these studies demonstrate how APS compares explanatory traditions without reducing their distinctive contributions.
+
+## Explanatory Architecture
+
+### Central Question
+
+How should the major explanatory traditions of contemporary biology be compared?
+
+### Architectural Role
+
+This article establishes APS as a comparative explanatory methodology. Rather than proposing another competing biological theory, it provides a framework for understanding how contemporary explanatory traditions relate through the organisation required for living systems to maintain organised persistence.
+
+### Preceding Explanatory Dependencies
+
+- What Is APS?
+- Agency as the Defining Activity of Life
+- Organised Persistence
+- Biological Explanation
+- Agency
+- Process
+- Scale
+
+### Subsequent Explanatory Developments
+
+- APS and Systems Theory
+- APS and Organisational Biology
+- APS and the Free Energy Principle
+- APS and Autonomy Theory
+- APS and the Extended Evolutionary Synthesis
+- Why APS Reframes Biology
+
+### Related Explanatory Questions
+
+- Why does biology contain multiple successful explanatory traditions?
+- What distinguishes comparison from competition?
+- How should explanatory priorities be compared?
+- What is the relationship between formal modelling and organisational explanation?
+- What makes biological explanation coherent across theoretical traditions?
+
+### Position within APS
+
+This is the parent article for the APS Comparative Biology series. It establishes the comparative methodology through which subsequent articles examine major contemporary biological frameworks while preserving their distinctive explanatory achievements.
+
+### Position Within the APS Corpus
+
+This Anchor article establishes the methodological foundation of the APS Comparative Biology series. Rather than advancing a single biological theory, it introduces the comparative explanatory methodology through which APS examines major contemporary biological frameworks. It therefore serves as the canonical gateway to the comparative programme, from which detailed studies of organisational biology, systems theory, autonomy theory, the Free Energy Principle, the Extended Evolutionary Synthesis, and related explanatory traditions are developed. Together these articles demonstrate how APS compares explanatory frameworks by clarifying their distinctive explanatory priorities and their complementary contributions to understanding viability-oriented, organised persistence.
 

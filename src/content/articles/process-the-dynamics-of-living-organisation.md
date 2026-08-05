@@ -117,3 +117,49 @@ In APS, process is the dynamic organisation through which living systems sustain
 
 Understanding life therefore requires an explanatory grammar grounded in process—not as change in structure, but as the continuous activity through which organisation persists.
 
+## Explanatory Architecture
+
+### Central Question
+
+What is process in living systems, and why is it constitutive of biological organisation rather than merely a description of change through time?
+
+### Architectural Role
+
+This Core article establishes Process as one of the three analytic projections of viability-oriented, constraint-closed organisation. It explains how living systems persist through the continuous enactment and reorganisation of the constraints that sustain their viability, thereby providing the temporal dimension of APS.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- What Is APS?
+- What Is Life? A Biological Question Revisited
+- Agency as the Defining Activity of Life
+- Viability
+- Biological Organisation
+- Constraint Closure
+- Organised Persistence
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- Development
+- Evolution
+- Regeneration
+- Repair
+- Morphogenesis
+- Process Across Scales
+- Biological Explanation
+- Agency, Process, and Scale
+
+### Related Explanatory Questions
+
+- Why are living systems better understood as ongoing organisation than as static structures?
+- How are biological constraints maintained through time?
+- How does process differ from mechanism?
+- How does process contribute to organised persistence?
+- How are Agency, Process, and Scale related within APS?
+
+### Position Within APS
+
+Process is one of the three foundational analytic projections through which APS investigates living organisation. Together with Agency and Scale, it provides an explanatory perspective on the organisation required for living systems to maintain viability-oriented, constraint-closed persistence. Process specifically clarifies the temporal organisation through which living systems continually enact, maintain, and reorganise themselves.

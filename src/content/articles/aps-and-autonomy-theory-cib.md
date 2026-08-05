@@ -278,3 +278,48 @@ Within APS, living systems are understood as viability-oriented forms of organis
 ## Key Point
 
 Autonomy theory established the importance of organisational closure and self-maintenance. APS builds upon these foundations by integrating regulation, agency, viability, multiscale organisation, historical continuity, and evolutionary transformation within a unified account of organised persistence.
+
+## Explanatory Architecture
+
+### Central Question
+
+How does APS relate to autonomy theory, and in what ways does it extend the organisational foundations established by the autonomy tradition?
+
+### Architectural Role
+
+This comparative article examines the relationship between APS and autonomy theory. It explains the substantial areas of agreement between the two frameworks while clarifying how APS extends the autonomy tradition through a unified account of viability-oriented organisation, agency, multiscale organisation, historical continuity, and evolutionary transformation. Its purpose is comparative rather than revisionary: to identify the distinctive explanatory contributions of autonomy theory and show how they are integrated within the broader explanatory architecture of APS.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- What Is APS?
+- APS and Contemporary Theories
+- Constraint Closure
+- Organised Persistence
+- Biological Agency
+- Viability
+- Biological Organisation
+
+### Subsequent Explanatory Developments
+
+The comparative architecture established here is developed or extended in the following articles.
+
+- APS and Organisational Biology
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+- Agency and Organised Persistence
+- Architectural Dependency and Biological Explanation
+- Evolution as the Historical Transformation of Viability-Oriented Organisation
+- Why APS Reframes Biology
+
+### Related Explanatory Questions
+
+- How does autonomy theory differ from autopoiesis?
+- What distinguishes autonomy theory from the broader organisational biology tradition?
+- Why does APS regard autonomy theory as complementary rather than competing?
+- How do constraint closure, regulation, agency, and viability relate within biological explanation?
+- How does APS extend organisational analysis into evolution and multiscale organisation?
+
+### Position Within APS
+
+This article forms part of the APS Comparative Biology series. It demonstrates how APS engages one of the most influential organisational approaches in contemporary theoretical biology by preserving the explanatory achievements of autonomy theory while integrating them within a broader account of viability-oriented organised persistence. It should be read alongside *APS and Contemporary Theories*, which establishes the comparative methodology, and together with the related comparative studies of the Free Energy Principle, Organisational Biology, and other contemporary frameworks.

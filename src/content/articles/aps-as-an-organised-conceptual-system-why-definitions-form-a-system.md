@@ -166,3 +166,48 @@ The glossary provides the concrete realisation of this conceptual organisation. 
 Conceptual closure therefore does more than preserve consistency. It provides part of the foundation upon which explanatory grammar, dependency architectures, and cumulative theoretical development become possible.
 
 The APS glossary implements this structure in practice. The next step is to understand how that conceptual organisation functions as infrastructure for explanation throughout the framework.
+
+## Explanatory Architecture
+
+### Central Question
+
+Why must APS concepts form an organised system of mutually constraining definitions rather than a collection of independently defined terms?
+
+### Architectural Role
+
+This Core article establishes the principle of conceptual closure within APS. It explains why stable biological explanation requires an organised system of mutually constraining concepts and distinguishes conceptual dependence from architectural dependence. In doing so, it provides part of the conceptual infrastructure upon which the APS explanatory grammar is constructed.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- What Is APS?
+- Naturalising Life
+- Biological Explanation
+- Explanatory Grammar
+- Conceptual Governance
+- Conceptual Stability
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- The APS Glossary as Conceptual Infrastructure
+- The Explanatory Geometry of Biology
+- From Life to Explanation: The Emerging Architecture of APS
+- Architectural Dependency and Biological Explanation
+- Why APS Reframes Biology
+- Editorial Governance
+- APS Publication Workflow
+
+### Related Explanatory Questions
+
+- Why do scientific frameworks require conceptually stable definitions?
+- What is conceptual closure?
+- How does conceptual dependence differ from architectural dependence?
+- Why do changes to one APS concept propagate through the wider framework?
+- How does conceptual organisation support explanatory coherence?
+
+### Position Within APS
+
+This article establishes one of the central methodological principles of APS: that biological explanation depends upon a coherent system of mutually constraining concepts rather than independently defined terminology. It therefore provides part of the conceptual foundation for the explanatory grammar, dependency architectures, glossary structure, and editorial governance of the APS framework.

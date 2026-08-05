@@ -640,3 +640,46 @@ Semiosis emerges from organised persistence and contributes to its maintenance, 
 ## Key Point
 
 Semiosis is the ongoing organisation of organism–environment relations through which differences become biologically significant within viability-oriented evaluative activity sustaining organised persistence.
+
+## Explanatory Architecture
+
+### Central Question
+
+How do environmental and internal differences become biologically significant within living systems?
+
+### Architectural Role
+
+This Clarification article explains semiosis as the organisation of biologically significant differences within viability-oriented evaluative activity. It establishes semiosis as an organisational process grounded in biological evaluation rather than as an independent or purely symbolic phenomenon.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- Viability
+- Function
+- Normativity
+- Biological Evaluation
+- Biological Agency
+- Organised Persistence
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed or applied in:
+
+- Meaning in Biology — An APS Clarification
+- Information in Biology — An APS Clarification
+- Representation — When and Whether It Arises in Biological Systems
+- Cognition — Where Does It Belong in Biology?
+- What Is Meaning?
+
+### Related Explanatory Questions
+
+- How does biological significance arise?
+- Why is semiosis not equivalent to symbolic representation?
+- What is the relationship between evaluation and semiosis?
+- How does semiosis contribute to organised persistence?
+- How does semiosis relate to cognition?
+
+### Position Within APS
+
+This article clarifies the organisational role of semiosis within the APS explanatory grammar. It explains how biologically significant differences emerge through evaluative organisation and provides the bridge between biological evaluation and biological meaning.
