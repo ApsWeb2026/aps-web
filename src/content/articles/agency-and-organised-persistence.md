@@ -21,7 +21,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
-revised: 2026-06-15
+revised: 2026-08-06
 
 cluster: conceptual-foundations
 role: extension
@@ -51,6 +51,10 @@ relatedArticles:
   - adaptation-how-living-systems-sustain-themselves-through-change
   - organism-environment-coupling
   - diagnosis-as-continuity-analysis
+   - biological-explanation-and-organised-persistence
+  - why-aps-reframes-biology
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: spencer2026
@@ -124,6 +128,8 @@ Agency occupies a central position within this organisation of continuity. Livin
 Seen from this perspective, agency and persistence are not independent concepts. Persistence identifies the continuity achieved by living systems, while agency identifies part of the activity through which that continuity is maintained. The two concepts describe different aspects of the same organisational reality. Persistence names the continuity of living organisation through time; agency names the viability-oriented activity through which that continuity is enacted.
 
 This relationship helps explain why agency occupies such a prominent position within APS. Living systems persist because they actively participate in preserving viability under changing conditions. Agency is therefore not merely something that living systems possess. It is one of the activities through which living continuity becomes possible.
+
+APS extends this analysis through its comparative methodology. Contemporary theoretical frameworks such as the Free Energy Principle also investigate how living systems maintain continuity under changing conditions, although they employ different explanatory priorities and formal frameworks. Rather than treating these approaches as competing alternatives, APS compares the explanatory contribution each makes to understanding organised persistence. This broader comparison is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
 
 ## Agency as Reconstruction Rather Than Preservation
 
@@ -256,3 +262,52 @@ This perspective reveals why agency occupies such an important place within APS.
 
 Living systems remain viable because continuity is actively enacted. Agency names an essential part of that enactment.
 
+## Explanatory Architecture
+
+### Central Question
+
+How does biological agency contribute to the organised persistence of living systems across continual change?
+
+### Architectural Role
+
+This Extension article explains the organisational relationship between biological agency and organised persistence. Building upon APS's canonical accounts of agency and persistence, it shows how agency functions as one of the principal continuity-preserving activities through which viability is maintained, restored, and reconstructed across physiological, developmental, ecological, and evolutionary change.
+
+Rather than introducing new foundational concepts, the article integrates existing APS concepts into a unified account of how agency contributes to the maintenance of organised continuity.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within APS rather than chronological stages, hierarchical levels, or a compulsory reading order.
+
+- Agency as the Defining Activity of Life
+- Biological Agency as the Activity of Self-Maintenance
+- Persistence — Organised Continuity Through Time
+- Viability — The Organising Principle of Biological Persistence
+- Biological Organisation
+- Process — The Dynamics of Living Organisation
+- Scale — How Life Is Coordinated Across Space and Time
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- Biological Evaluation
+- Biological Significance
+- Semiosis
+- Cognition
+- Development
+- Organism–Environment Coupling
+- Biological Explanation and Organised Persistence
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+
+### Related Explanatory Questions
+
+- Why is agency necessary for organised persistence?
+- How does agency contribute to regulation, repair, and reconstruction?
+- How does evaluation emerge from continuity-preserving activity?
+- How does agency connect persistence with semiosis and cognition?
+- How does APS compare organisational and active inference accounts of continuity?
+
+### Position Within APS
+
+This article integrates two of APS's principal explanatory concepts—agency and organised persistence. It demonstrates that agency is neither an isolated biological property nor a specialised cognitive capacity, but one of the principal organisational activities through which living continuity is actively maintained across changing conditions. In doing so, it provides an important bridge between APS's conceptual foundations and its later accounts of evaluation, semiosis, cognition, biological explanation, and comparative theoretical biology.

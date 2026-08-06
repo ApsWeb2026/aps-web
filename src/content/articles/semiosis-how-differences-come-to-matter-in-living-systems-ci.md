@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-07-15
+revised: 2026-08-06
 cluster: philosophy-of-biology
 role: core
 
@@ -63,6 +63,8 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - what-is-life-a-biological-question-revisited
   - why-life-is-not-a-machine
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: peirce1931
@@ -350,6 +352,8 @@ From this perspective, biological information is not an independent substance, c
 This position aligns with a growing body of work in theoretical biology and biosemiotics that questions purely informational accounts of life. Meaningful organisation cannot be derived from information alone because information presupposes distinctions that already matter to a living system. Semiosis provides the bridge between physical difference and biological significance.
 
 APS therefore understands information as emerging from organised meaning rather than generating it. Information is important because living systems are semiotic; living systems are not semiotic because they process information.
+
+APS extends this discussion through its comparative methodology. Contemporary theoretical frameworks, including the Free Energy Principle and many information-theoretic approaches, recognise the importance of informational organisation in living systems. APS does not reject these contributions. Instead, it asks how information first becomes biologically significant. The comparative discussion developed in *APS and Contemporary Theories* and *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology* argues that informational organisation presupposes the more fundamental semiotic and evaluative organisation established here.
 
 Semiosis consequently occupies a foundational position within biological explanation. It explains how differences become significant, how significance becomes stabilised as meaning, and only thereafter how those meaningful distinctions may function as information within living organisation.
 
@@ -664,13 +668,15 @@ These concepts and articles establish the explanatory foundations presupposed by
 
 ### Subsequent Explanatory Developments
 
-The explanatory architecture established here is developed or applied in:
+The explanatory architecture established here is developed, extended, or applied in the following articles.
 
 - Meaning in Biology — An APS Clarification
 - Information in Biology — An APS Clarification
 - Representation — When and Whether It Arises in Biological Systems
 - Cognition — Where Does It Belong in Biology?
 - What Is Meaning?
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions
 
@@ -682,4 +688,4 @@ The explanatory architecture established here is developed or applied in:
 
 ### Position Within APS
 
-This article clarifies the organisational role of semiosis within the APS explanatory grammar. It explains how biologically significant differences emerge through evaluative organisation and provides the bridge between biological evaluation and biological meaning.
+This Core article establishes the canonical APS account of semiosis as the organisation of biologically significant difference within viability-oriented evaluative activity. It provides the conceptual bridge between evaluation, meaning, information, representation, and cognition while establishing the organisational foundations upon which APS's comparative engagement with biosemiotics and information-theoretic approaches is built.

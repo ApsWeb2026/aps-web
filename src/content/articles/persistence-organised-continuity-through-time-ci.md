@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-28
+revised: 2026-08-06
 
 cluster: conceptual-foundations
 role: anchor
@@ -56,6 +56,8 @@ relatedArticles:
   - the-developmental-organisation-of-life
   - developmental-temporality
   - ageing-and-organisational-persistence
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: nicholsondupre2018
@@ -304,5 +306,69 @@ Living systems persist not because change is absent, but because continuity is c
 
 persistence · organised persistence · continuity · viability · biological organisation · agency · temporal organisation · development · resilience · adaptation · repair · ageing · ecology · evolution
 
+## Explanatory Architecture
 
+### Central Question
+
+How do living systems maintain organised continuity through continual material, physiological, developmental, ecological, and evolutionary transformation?
+
+### Architectural Role
+
+This Anchor article establishes persistence as organised continuity actively maintained through change. It explains why biological persistence cannot be understood as static endurance, material permanence, equilibrium, or mere survival, and shows how agency, viability, organisation, process, and scale jointly clarify the continuity of living systems across time.
+
+The article also establishes organised persistence as one of the principal explanatory concerns of biology. Development, physiology, repair, resilience, ecology, cognition, ageing, and evolution are interpreted as distinct investigations of how living organisation is maintained, restored, reorganised, or historically transformed.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within APS rather than chronological stages, hierarchical levels, or a compulsory reading order.
+
+- *What Is Life? A Biological Question Revisited*
+- *Agency as the Defining Activity of Life*
+- *Biological Agency as the Activity of Self-Maintenance*
+- *Viability — The Organising Principle of Biological Persistence*
+- *Biological Organisation*
+- *Constraint Closure — What It Does and Does Not Do*
+- *Process — The Dynamics of Living Organisation*
+- *Scale — How Life Is Coordinated Across Space and Time*
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles and explanatory domains.
+
+- *Temporal Organisation and Organised Persistence*
+- *Agency and Organised Persistence*
+- *Biological Explanation — What Needs to Be Explained*
+- *Biological Explanation and Organised Persistence*
+- *The Developmental Organisation of Life*
+- *Developmental Temporality*
+- *Ageing and Organisational Persistence*
+- *Scale, Time, and Persistence*
+- *Physiology and Evolution in APS*
+- *Organisational Realism in Biology*
+- *APS and Contemporary Theories*
+- *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*
+
+### Related Explanatory Questions
+
+- How can biological identity remain continuous despite material turnover?
+- Why is persistence an organisational achievement rather than passive endurance?
+- How do agency and viability contribute to continuity?
+- How are development, repair, resilience, and adaptation related to persistence?
+- How is continuity organised across spatial and temporal extents?
+- How does organismal persistence relate to lineage continuity and evolutionary transformation?
+- How do formal accounts of stability and self-maintenance relate to organised persistence?
+
+### Position Within APS
+
+Persistence identifies the continuity sustained through viability-oriented living organisation. Agency explains the present-tense activity through which that continuity is maintained and re-established. Process clarifies how continuity is enacted through continual transformation. Scale clarifies where persistence is organised across spatial and temporal extents.
+
+Organised persistence is therefore not a fourth component alongside Agency, Process, and Scale. It is the continuing biological phenomenon whose organisation becomes intelligible through those three analytic projections. The article consequently connects APS's definition of life with its accounts of biological identity, development, resilience, cognition, ecology, evolution, and explanation.
+
+### Position Within the APS Corpus
+
+This Anchor article is the canonical APS treatment of persistence as organised continuity through time. Together with *What Is Life? A Biological Question Revisited*, *Agency as the Defining Activity of Life*, and *Viability — The Organising Principle of Biological Persistence*, it forms part of the principal conceptual foundation of APS.
+
+It also functions as a major corpus hub. It provides the central conceptual connection between the foundational account of living organisation and later articles concerning temporal organisation, development, repair, resilience, ageing, biological identity, cognition, ecology, evolutionary continuity, and biological explanation.
+
+Within the Comparative Biology programme, this article supplies the APS account of persistence against which formal and organisational frameworks can be compared. It therefore provides a principal conceptual entry point to *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where organised persistence is compared with formal accounts of stability, inference, and self-maintenance.
 

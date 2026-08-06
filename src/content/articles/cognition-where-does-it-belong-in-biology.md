@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-05
-revised: 2026-08-02
+revised: 2026-08-06
 cluster: philosophy-of-biology
 role: anchor
 
@@ -51,6 +51,8 @@ relatedArticles:
   - temporal-organisation-and-organised-persistence
   - organisational-realism-in-biology
   - explanatory-geometry-of-biology
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: varela1991
@@ -414,6 +416,8 @@ This perspective allows APS to incorporate predictive phenomena without reducing
 
 APS therefore treats predictive processing as an important but non-foundational component of cognition. Prediction may enhance adaptive regulation, but cognition remains rooted in the broader organisation of meaning, significance, and agency through which living systems maintain continuity across changing conditions.
 
+APS extends this discussion through its comparative methodology. Rather than treating predictive processing or active inference as competing explanations of cognition, APS asks what distinctive explanatory contribution these frameworks make to understanding organised persistence. This broader comparison is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where predictive processing is interpreted as one important explanatory priority within a wider organisational account of biological cognition.
+
 ## Cognition Across Scale and Time
 
 Cognition unfolds across interacting scales of biological organisation and across multiple temporal horizons. APS therefore rejects the view that cognition can be located exclusively at a particular level of organisation, such as the brain, the nervous system, or any other isolated structure. Cognition emerges through the organisation of biologically meaningful significance, and such organisation is distributed across the processes through which living systems maintain continuity with themselves and their environments.
@@ -545,36 +549,38 @@ This article asks where cognition belongs within biology. Rather than treating c
 
 This article establishes the canonical APS account of cognition. It explains cognition as the organisation of biological significance across time, locating it within the wider architecture extending from biological agency and evaluation to meaning, mind, selfhood, and reflective agency. In doing so, it reconnects cognition with the biological organisation from which it emerges.
 
-### Builds On
+### Preceding Explanatory Dependencies
 
-This article builds directly upon:
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
 
-What Is Life?
-Biological Agency
-What Is Biological Evaluation?
-Biological Significance
-Meaning in Biology
-Semiosis — How Differences Come to Matter in Living Systems
-Process
-Scale
+- What Is Life?
+- Biological Agency
+- What Is Biological Evaluation?
+- Biological Significance
+- Meaning in Biology
+- Semiosis — How Differences Come to - - - Matter in Living Systems
+- Process
+- Scale
 
 These concepts establish the organisational conditions from which cognition emerges.
 
-### Develops Into
+### Subsequent Explanatory Developments
 
-The organisational account developed here provides the foundation for subsequent investigations of:
+The explanatory architecture established here is developed, extended, or applied in the following articles.
 
-What Is Mind?
-Selfhood
-Reflective Agency
-Consciousness
-Intelligence
-Representation
-Prediction and Active Inference
-Decision-making
-Learning
-Communication
-later APS investigations of cognition, behaviour, and adaptive organisation.
+- What Is Mind?
+- Selfhood
+- Reflective Agency
+- Consciousness
+- Intelligence
+- Representation
+- Prediction and Active Inference
+- Decision-making
+- Learning
+- Communication
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+- later APS investigations of cognition, behaviour, and adaptive organisation.
 
 ### Related Explanatory Questions
 
@@ -591,8 +597,8 @@ The Explanatory Geometry of Biology
 
 Within APS, cognition is neither the beginning nor the culmination of biological organisation. Biological agency establishes viability-oriented activity. Biological evaluation determines what matters for persistence. Significance and meaning organise those evaluative relationships. Cognition emerges when biological significance becomes sufficiently integrated across time to guide adaptive activity. Mind, selfhood, and reflective agency represent progressively more integrated developments built upon this cognitive organisation. Cognition therefore occupies the pivotal position linking biological meaning to minded organisation.
 
-### Corpus Significance
+### Position Within the APS Corpus
 
-Cognition — Where Does It Belong in Biology? is one of the principal conceptual foundations of the APS cognition programme. It establishes the framework's canonical definition of cognition as the organisation of biological significance across time and identifies its place within the wider architecture of living organisation.
+Cognition — Where Does It Belong in Biology? is one of the principal Anchor articles within the APS Cognition and Mind pathway. It establishes the framework's canonical account of cognition as the organisation of biological significance across time and forms the bridge between the foundational concepts of agency, evaluation, significance, and meaning, and the later emergence of mind, selfhood, and reflective agency. It also provides the principal conceptual entry point for APS's comparative discussions of predictive processing and the Free Energy Principle.
 
 Subsequent APS articles investigate the concepts that cognition depends upon and those that emerge from it—including meaning, mind, selfhood, reflective agency, representation, intelligence, consciousness, and related topics. Understanding this article is therefore essential to understanding the explanatory architecture of cognition within APS.

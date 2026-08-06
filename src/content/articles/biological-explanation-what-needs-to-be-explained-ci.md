@@ -16,7 +16,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-07-11
+revised: 2026-08-06
 
 cluster: conceptual-foundations
 role: core
@@ -42,6 +42,7 @@ relatedArticles:
   - explanatory-grammar
   - organisational-realism-in-biology
   - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: spencer2026
@@ -223,7 +224,7 @@ Clarifying the target of biological explanation has both conceptual and practica
 
 It helps explain why concepts such as function, regulation, adaptation, resilience, and malfunction remain indispensable within biology. These concepts are not optional additions to biological discourse. They reflect the organisational realities of systems that must maintain themselves through time.
 
-It also clarifies the relationship between different explanatory traditions. Mechanistic, developmental, ecological, and evolutionary explanations need not compete for explanatory priority. Each illuminates different aspects of the organised persistence of living systems.
+It also clarifies the relationship between different explanatory traditions. Mechanistic, developmental, ecological, and evolutionary explanations need not compete for explanatory priority. Each illuminates different aspects of the organised persistence of living systems. APS applies the same comparative methodology to contemporary theoretical biology. Frameworks such as the Free Energy Principle investigate important aspects of biological organisation using different explanatory priorities and formal methods. Rather than asking which framework is correct, APS asks what explanatory work each performs and how their explanatory achievements relate to the organisation required for living systems to maintain organised persistence. A detailed comparison is presented in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
 
 The framework is equally relevant to questions at the boundaries of biology. Understanding what biological explanation explains helps clarify how life might be identified in unfamiliar contexts, how synthetic systems should be evaluated, and how biological continuity can be recognised across diverse forms of organisation.
 
@@ -256,3 +257,53 @@ Identifying what biological explanation explains is only the first step. The nex
 → [Biological Explanation and Organised Persistence](/articles/biological-explanation-and-organised-persistence/)
 
 which develops APS as an explanatory grammar for understanding how organised persistence is explained across agency, process, and scale.
+
+Readers interested in how APS compares its explanatory methodology with one of the major contemporary theoretical frameworks should also see:
+
+→ *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*
+
+## Explanatory Architecture
+
+### Central Question
+
+What is the distinctive target of biological explanation, and what must a successful biological explanation ultimately explain?
+
+### Architectural Role
+
+This Core article establishes the explanatory target of biology within APS. It argues that biology is fundamentally concerned with explaining organised persistence: the capacity of living systems to maintain continuity through continual transformation. In doing so, it distinguishes biological explanation from the description of mechanisms, processes, or structures alone and provides the conceptual foundation for the APS account of explanatory adequacy.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- What Is APS?
+- How APS Explains Life
+- Agency as the Defining Activity of Life
+- Biological Organisation
+- Viability
+- Constraint Closure
+- Organised Persistence
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- Biological Explanation and Organised Persistence
+- Explanatory Grammar
+- Description, Explanation, and Definition in Biology
+- Organisational Realism in Biology
+- Why APS Reframes Biology
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+
+### Related Explanatory Questions
+
+- What distinguishes biological explanation from mechanistic description?
+- Why is organised persistence the central explanatory target of biology?
+- How do viability orientation and constraint closure contribute to biological explanation?
+- What makes a biological explanation explanatorily adequate?
+- How does APS compare with other contemporary explanatory frameworks in theoretical biology?
+
+### Position Within APS
+
+This article establishes the fundamental explanatory question addressed by the APS framework: what biology ultimately seeks to explain. By identifying organised persistence as the distinctive target of biological explanation, it provides the conceptual bridge between APS's account of life and its subsequent development of explanatory grammar, comparative methodology, and biological explanation across agency, process, and scale.

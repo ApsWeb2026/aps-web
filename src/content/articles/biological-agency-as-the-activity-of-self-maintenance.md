@@ -6,10 +6,10 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-08-03
+revised: 2026-08-06
 
 cluster: conceptual-foundations
-role: core
+role: anchor
 
 abstract: >
   Biological agency is one of biology's most widely used yet least consistently
@@ -48,6 +48,8 @@ relatedArticles:
   - scale-how-life-is-coordinated-across-space-and-time
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - biological-explanation-and-organised-persistence
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - spencer-2026-agency-defining-activity-life
@@ -232,6 +234,8 @@ Modern biology encompasses a wide range of explanatory traditions. Molecular bio
 
 APS does not seek to replace this explanatory plurality with a single theory or organising principle. Rather, it proposes that these diverse explanatory achievements become more conceptually coherent when understood as complementary investigations of the continual activity through which living systems maintain viability-oriented, constraint-closed organisation. Agency provides the central explanatory concept through which these different explanatory perspectives can be related without diminishing their individual explanatory autonomy.
 
+APS applies this same comparative methodology to contemporary theoretical biology. Frameworks such as the Free Energy Principle investigate important aspects of biological organisation through different explanatory priorities and formal methods. Rather than asking which framework is correct, APS asks what explanatory contribution each makes to understanding viability-oriented organised persistence. This comparative methodology is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where APS compares its account of biological agency with the active inference framework.
+
 This perspective also clarifies the distinction between the organisation of life and the organisation of explanation. Living systems exhibit a unified organisation through the continual activity of agency, yet biological explanations remain appropriately diverse because different explanatory questions require different methods, concepts, and forms of evidence. APS therefore does not seek explanatory uniformity. Instead, it provides an explanatory grammar through which the conceptual relationships among biological explanations become more explicit while preserving their legitimate methodological diversity.
 
 Understanding biological explanation in this way also clarifies the role of theoretical biology. Theoretical biology does not merely develop additional models or hypotheses concerning particular biological phenomena. It also investigates the conceptual organisation through which biological knowledge becomes intelligible as a coherent scientific enterprise. The APS framework contributes to this endeavour by asking how biology's central concepts relate through the continuing activity of living organisation rather than by proposing alternative explanations for the empirical phenomena those concepts describe.
@@ -263,14 +267,20 @@ What is biological agency, and why is it fundamental to understanding living sys
 
 This article establishes biological agency as the continuing viability-oriented organisational activity through which living systems maintain and re-establish the conditions of their own persistence. It provides the conceptual foundation for understanding agency as the defining activity of life and explains how agency relates to organised persistence, Scale, function, normativity, and constraint-closure within the APS framework.
 
-### Builds On
+### Preceding Explanatory Dependencies
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
 - What Is Life?
 - Organised Persistence
 - Process
 - Scale
 - Constraint-Closure
+- Biological Organisation
+- Viability
 
-### Develops Into
+### Subsequent Explanatory Developments
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
 - Biological Evaluation
 - Biological Significance
 - Cognition
@@ -278,6 +288,10 @@ This article establishes biological agency as the continuing viability-oriented 
 - Selfhood
 - Reflective Agency
 - Meaning
+- Biological Explanation
+- Agency and Organised Persistence
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions
 - What distinguishes living activity from physical persistence?

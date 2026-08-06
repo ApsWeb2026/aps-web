@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-06
 cluster: philosophy-of-biology
 
 abstract: >
@@ -51,6 +51,8 @@ relatedArticles:
   - biological-causation-from-mechanism-to-organised-persistence
   - organisational-realism-in-biology
   - explanatory-geometry-of-biology
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: shannon1948
@@ -183,6 +185,8 @@ However, informational descriptions do not by themselves explain:
 - how evaluation emerges;
 - how semiosis becomes meaningful;
 - or how living systems persist as organised processes through time in the first place.
+
+APS extends this discussion through its comparative methodology. Rather than rejecting informational approaches, APS asks what explanatory contribution they make to understanding living organisation and where their explanatory priorities differ from those of a viability-oriented account. This comparative approach is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where APS compares organisational and information-theoretic explanations of biological persistence.
 
 # Shannon Information and Biological Meaning
 
@@ -593,10 +597,56 @@ Meaning stabilises evaluative significance.
 
 Only then does information emerge as part of organised biological activity.
 
-Information is therefore not what makes life possible.
-
-It is one of the ways organised life sustains itself across time.
+Information is therefore not what makes life possible. It is one of the ways organised life sustains itself across time. Understanding this distinction provides the basis for APS's comparative engagement with contemporary information-theoretic frameworks in theoretical biology.
 
 ## Key Point
 
 Biological information emerges where meaningful differences participate in viability-oriented evaluative organisation sustaining continuity-preserving persistence.
+
+## Explanatory Architecture
+
+### Central Question
+
+What is the explanatory role of information in biology, and how should information be understood within the organisation of living systems?
+
+### Architectural Role
+
+This Core article clarifies the status of information within APS. It argues that biological information is organisationally derivative rather than foundational, becoming biologically significant only within viability-oriented, evaluative, and continuity-preserving living organisation. It therefore establishes the relationship between information, semiosis, meaning, representation, cognition, and organised persistence, while providing the conceptual basis for APS's engagement with information-theoretic approaches in contemporary biology.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- Biological Agency
+- Evaluation
+- Semiosis
+- Meaning
+- Organised Persistence
+- Viability
+- Biological Organisation
+- Cognition
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- Representation
+- Cognition
+- Mind
+- Why Life Is Not Information Processing
+- Why Life Is Not Computation
+- Why Life Is Not Active Inference
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+
+### Related Explanatory Questions
+
+- How does biological information differ from Shannon information?
+- Why does APS regard information as organisationally derivative?
+- What is the relationship between information, semiosis, and meaning?
+- Why is cognition not reducible to information processing?
+- How does APS compare with information-theoretic approaches such as the Free Energy Principle?
+
+### Position Within APS
+
+This article establishes the canonical APS account of biological information. It explains why information is an indispensable but non-foundational biological concept and provides the bridge between APS's treatment of semiosis, meaning, cognition, and its comparative engagement with information-based approaches in theoretical biology.

@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-07-28
+revised: 2026-08-06
 cluster: methodology-and-explanation
+role: anchor
 abstract: >
   APS does not merely introduce another theory within biology. It argues that
   biological explanation itself depends upon viability-oriented,
@@ -40,6 +41,8 @@ relatedArticles:
   - why-life-is-not-a-machine
   - why-life-is-not-information-processing
   - why-life-is-not-computation-an-aps-clarification
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: darwin-1859-origin
@@ -297,6 +300,8 @@ Mechanistic explanation, evolutionary explanation, information-theoretic explana
 
 APS argues that these explanatory domains belong together because they are all analysing different aspects of organised persistence.
 
+APS extends this integrative approach to contemporary theoretical biology itself. Rather than treating influential frameworks as competing alternatives, APS compares the distinctive explanatory contributions they make to understanding living organisation. This comparative methodology is introduced in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where APS examines how different explanatory priorities can illuminate complementary aspects of organised persistence.
+
 This provides:
 - a unified explanatory framework,
 - clearer criteria for biological explanation,
@@ -324,3 +329,54 @@ APS does not simply add another theory to biology. It reconstructs the explanato
 
 That is why APS reframes biology.
 
+## Explanatory Architecture
+
+### Central Question
+
+Why does APS reorganise biological explanation around organised persistence, and what explanatory advantages does this reorganisation provide?
+
+### Architectural Role
+
+This Anchor article explains why APS reframes biology. It argues that contemporary biological explanation already presupposes viability-oriented, constraint-closed organisation but rarely makes this organisational foundation explicit. By identifying organised persistence as biology's central explanatory target and agency, process, and scale as its explanatory grammar, the article establishes the conceptual transition from the explanatory foundations of APS to its broader comparative engagement with contemporary theoretical biology.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- What Is APS?
+- How APS Explains Life
+- Biological Explanation — What Needs to Be Explained
+- Biological Explanation and Organised Persistence
+- Explanatory Grammar
+- Organised Persistence
+- Biological Organisation
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+- APS and Autonomy Theory
+- Why Philosophy of Biology Matters
+- APS as Philosophy — A Viability-Oriented Account of Biological Reality
+- Organisational Realism in Biology
+- The Explanatory Geometry of Biology
+
+### Related Explanatory Questions
+
+- Why does APS regard organised persistence as biology's explanatory centre of gravity?
+- How does APS integrate mechanism, evolution, cognition, ecology, and function?
+- What distinguishes explanatory priority from ontological priority?
+- Why does APS compare explanatory frameworks rather than replace them?
+- How does APS contribute to theoretical biology?
+
+### Position Within APS
+
+This article provides the principal methodological justification for APS. It explains why biology benefits from being reorganised around organised persistence and prepares readers for the subsequent philosophical and comparative articles by establishing the rationale for APS's explanatory reconstruction of biology.
+
+## Position Within the APS Corpus
+
+This Anchor article occupies a central position within the APS methodology-and-explanation cluster. It forms the bridge between the explanatory foundations established by *How APS Explains Life*, *Biological Explanation — What Needs to Be Explained*, and *Biological Explanation and Organised Persistence*, and the broader comparative programme developed in *APS and Contemporary Theories* and the subsequent comparative studies of major theoretical frameworks.
+
+Readers seeking to understand why APS reorganises biological explanation should begin here. Readers seeking detailed comparisons with contemporary theoretical biology should continue to *APS and Contemporary Theories*, which develops the comparative methodology and introduces the wider APS Comparative Biology series.

@@ -19,7 +19,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-16
+revised: 2026-08-06
 
 cluster: methodology-and-explanation
 role: core
@@ -54,6 +54,7 @@ relatedArticles:
   - why-philosophy-of-biology-matters
   - aps-and-contemporary-theories
   - how-aps-explains-life
+  - aps-and-the-free-energy-principle
 
 references:
   - id: hempelopenheim1948
@@ -292,6 +293,8 @@ APS provides a framework for analysing borderline systems, synthetic organisms, 
 
 Most importantly, APS makes explicit the organisational assumptions that biological explanations already rely upon when they succeed. Biologists routinely explain persistence, adaptation, regulation, repair, and continuity. APS seeks to clarify the organisational reality that unifies these explanatory practices.
 
+APS also provides a comparative methodology for evaluating contemporary theoretical frameworks in biology. Rather than treating explanatory traditions as competing alternatives, APS asks what explanatory contribution each makes to understanding organised persistence. This comparative approach is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
+
 ## Conclusion
 
 Biological explanation is not merely the explanation of biological events. It is the explanation of organised persistence.
@@ -311,3 +314,50 @@ For an introduction to the explanatory target itself, see:
 For a broader overview of the APS explanatory framework, see:
 
 → [How APS Explains Life](/orientation/how-aps-explains-life/)
+
+## Explanatory Architecture
+
+### Central Question
+
+How should biological explanations be organised if their explanatory target is the organised persistence of living systems?
+
+### Architectural Role
+
+This Core article establishes the organisational architecture of biological explanation within APS. Building on the identification of organised persistence as biology's central explanatory target, it explains how agency, process, and scale function together as an explanatory grammar for understanding living systems. It therefore provides the methodological foundation for evaluating explanatory adequacy across biological research.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- What Is APS?
+- How APS Explains Life
+- Biological Explanation — What Needs to Be Explained
+- Agency as the Defining Activity of Life
+- Biological Organisation
+- Viability
+- Organised Persistence
+- Constraint Closure
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- Explanatory Grammar
+- Description, Explanation, and Definition in Biology
+- Organisational Realism in Biology
+- Why APS Reframes Biology
+- Why Philosophy of Biology Matters
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+
+### Related Explanatory Questions
+
+- What makes a biological explanation explanatorily adequate?
+- How do agency, process, and scale function together as an explanatory grammar?
+- Why is organised persistence the central explanatory target of biology?
+- How should mechanistic, causal, developmental, ecological, and evolutionary explanations be integrated?
+- How does APS compare with other explanatory frameworks in contemporary theoretical biology?
+
+### Position Within APS
+
+This article establishes the methodological architecture through which APS interprets biological explanation. It explains how agency, process, and scale organise biological explanations around the common explanatory target of organised persistence, thereby providing the conceptual bridge between APS's account of life and its comparative engagement with contemporary theoretical biology.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-06
 cluster: philosophy-of-biology
 
 abstract: >
@@ -53,6 +53,8 @@ relatedArticles:
   - organisational-realism-in-biology
   - explanatory-geometry-of-biology
   - temporal-organisation-and-organised-persistence
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
 
 references:
   - id: millikan1984
@@ -422,9 +424,8 @@ Prediction itself presupposes:
 - semiosis;
 - and biological agency.
 
-Representation therefore cannot explain biological organisation from the outset.
-
-It already presupposes organised living systems.
+Representation therefore cannot explain biological organisation from the outset. 
+It already presupposes organised living systems. APS extends this discussion through its comparative methodology. Contemporary frameworks such as predictive processing and the Free Energy Principle provide sophisticated accounts of representational organisation within many cognitive systems. APS does not reject these explanatory achievements. Instead, it asks where representational organisation belongs within the broader architecture of living systems. This comparative methodology is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where representational and active inference accounts are interpreted as specialised explanatory perspectives rather than universal accounts of life itself.
 
 This is why APS treats representation as derivative rather than foundational.
 
@@ -587,3 +588,50 @@ Representation is therefore a specialised organisational development emerging wi
 ## Key Point
 
 Representation emerges only within already meaningful systems organised through viability-oriented evaluative semiosis sustaining continuity-preserving persistence.
+
+## Explanatory Architecture
+
+### Central Question
+
+When, why, and under what organisational conditions does representation emerge within living systems?
+
+### Architectural Role
+
+This Core article clarifies the organisational status of representation within APS. It argues that representation is not the explanatory foundation of biological organisation but a later organisational development emerging within sufficiently integrated, temporally extended forms of cognition. The article therefore distinguishes representation from evaluation, semiosis, meaning, and information while explaining how representational capacities become possible within viability-oriented organised persistence.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+
+- Biological Agency
+- Viability
+- Biological Evaluation
+- Semiosis
+- Meaning in Biology
+- Information in Biology
+- Cognition — Where Does It Belong in Biology?
+- Persistence — Organised Continuity Through Time
+
+### Subsequent Explanatory Developments
+
+The explanatory architecture established here is developed, extended, or applied in the following articles.
+
+- Consciousness — An APS Clarification
+- Mind
+- Selfhood
+- Reflective Agency
+- Why Life Is Not Active Inference
+- APS and Contemporary Theories
+- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+
+### Related Explanatory Questions
+
+- Why is representation not fundamental to life?
+- Under what conditions does representation emerge?
+- How does representation differ from semiosis?
+- Why can cognition occur without representation?
+- How should predictive processing and Active Inference be understood within biological explanation?
+
+### Position Within APS
+
+This article establishes the canonical APS account of representation as a biologically grounded but organisationally derivative achievement. It explains why representation presupposes viability-oriented evaluation, semiosis, meaning, and cognition rather than constituting their foundation. In doing so, it provides the principal conceptual bridge between APS's accounts of biological cognition and its comparative engagement with representational, predictive-processing, and Active Inference approaches.
