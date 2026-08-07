@@ -23,7 +23,41 @@ function asString(value: unknown): string {
  * If the component already has an approved alphabetical sorting rule,
  * that rule can be restored here instead.
  */
-const sortedReferences = resolvedReferences;
+const sortedReferences = [...resolvedReferences].sort((a, b) => {
+  const contributorA =
+    asString(a.authors) ||
+    asString(a.editors) ||
+    asString(a.title);
+
+  const contributorB =
+    asString(b.authors) ||
+    asString(b.editors) ||
+    asString(b.title);
+
+  const contributorComparison = contributorA.localeCompare(
+    contributorB,
+    'en',
+    { sensitivity: 'base' }
+  );
+
+  if (contributorComparison !== 0) {
+    return contributorComparison;
+  }
+
+  const yearComparison = asString(a.year).localeCompare(
+    asString(b.year)
+  );
+
+  if (yearComparison !== 0) {
+    return yearComparison;
+  }
+
+  return asString(a.title).localeCompare(
+    asString(b.title),
+    'en',
+    { sensitivity: 'base' }
+  );
+});
 ---
 
 {
