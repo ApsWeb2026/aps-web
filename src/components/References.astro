@@ -18,21 +18,35 @@ function asString(value: unknown): string {
   return '';
 }
 
-const sortedReferences = [...resolvedReferences].sort((a, b) =>
-  asString(a.authors).localeCompare(asString(b.authors)) ||
-  asString(a.year).localeCompare(asString(b.year))
-);
+/*
+ * Preserve the order supplied by the article.
+ * If the component already has an approved alphabetical sorting rule,
+ * that rule can be restored here instead.
+ */
+const sortedReferences = resolvedReferences;
 ---
 
 {
   sortedReferences.length > 0 && (
-    <section class="references">
-      <h2>References</h2>
+    <section class="references" aria-labelledby="references-heading">
+      <h2 id="references-heading">References</h2>
 
       <ol class="ref-list">
         {sortedReferences.map((ref) => {
           const id = asString(ref.id);
+          const type = asString(ref.type);
+
           const authors = asString(ref.authors);
+          const editors = asString(ref.editors);
+          const contributors = authors || editors;
+
+          const editorSuffix =
+            type === 'edited-book' && editors && !authors
+              ? editors.includes(' & ')
+                ? ' (eds.).'
+                : ' (ed.).'
+              : '';
+
           const year = asString(ref.year);
           const title = asString(ref.title);
           const journal = asString(ref.journal);
@@ -48,7 +62,15 @@ const sortedReferences = [...resolvedReferences].sort((a, b) =>
 
           return (
             <li class="ref-entry" id={`ref-${id}`}>
-              <span class="ref-authors">{authors}</span> ({year}).{' '}
+              {contributors && (
+                <>
+                  <span class="ref-authors">
+                    {contributors}{editorSuffix}
+                  </span>{' '}
+                </>
+              )}
+
+              ({year}).{' '}
 
               {isJournal ? (
                 <>
