@@ -1152,3 +1152,106 @@ references:
     verification:
       authority: publisher
       status: verified
+  - id: hoffmeyer-2008-biosemiotics
+    type: book
+    authors: Hoffmeyer, J.
+    year: 2008
+    title: "Biosemiotics: An Examination into the Signs of Life and the Life of Signs"
+    publisher: University of Scranton Press
+    verification:
+      status: verified
+      authority: University of Scranton Press / University of Chicago Press
+      verifiedDate: 2026-08-07
+
+  - id: barbieri-2002-organic-codes
+    type: book
+    authors: Barbieri, M.
+    year: 2002
+    title: "The Organic Codes: An Introduction to Semantic Biology"
+    publisher: Cambridge University Press
+    doi: 10.1017/CBO9780511614019
+    verification:
+      status: verified
+      authority: Cambridge University Press
+      verifiedDate: 2026-08-07
+
+  - id: barbieri-2007-introduction-biosemiotics
+    type: edited-book
+    editors: Barbieri, M.
+    year: 2007
+    title: "Introduction to Biosemiotics: The New Biological Synthesis"
+    publisher: Springer
+    doi: 10.1007/1-4020-4814-9
+    verification:
+      status: verified
+      authority: Springer Nature
+      verifiedDate: 2026-08-07
+
+  - id: emmeche-kull-2011-towards-semiotic-biology
+    type: edited-book
+    editors: Emmeche, C. & Kull, K.
+    year: 2011
+    title: "Towards a Semiotic Biology: Life Is the Action of Signs"
+    publisher: Imperial College Press
+    doi: 10.1142/P771
+    verification:
+      status: verified
+      authority: Imperial College Press / World Scientific
+      verifiedDate: 2026-08-07
+
+  - id: kull-et-al-2009-theses-biosemiotics
+    type: journal-article
+    authors: Kull, K.; Deacon, T.; Emmeche, C.; Hoffmeyer, J. & Stjernfelt, F.
+    year: 2009
+    title: "Theses on Biosemiotics: Prolegomena to a Theoretical Biology"
+    journal: Biological Theory
+    volume: "4"
+    issue: "2"
+    pages: "167–173"
+    doi: 10.1162/biot.2009.4.2.167
+    verification:
+      status: verified
+      authority: Biological Theory / University of Copenhagen Research Portal
+      verifiedDate: 2026-08-07
+
+  - id: hoffmeyer-2008-legacy-living-systems
+    type: edited-book
+    editors: Hoffmeyer, J.
+    year: 2008
+    title: "A Legacy for Living Systems: Gregory Bateson as Precursor to Biosemiotics"
+    publisher: Springer
+    doi: 10.1007/978-1-4020-6706-8
+    verification:
+      status: verified
+      authority: Springer Nature
+      verifiedDate: 2026-08-07
+
+  - id: kull-emmeche-hoffmeyer-2011-why-biosemiotics
+    type: book-chapter
+    authors: Kull, K.; Emmeche, C. & Hoffmeyer, J.
+    year: 2011
+    title: "Why Biosemiotics? An Introduction to Our View on the Biology of Life Itself"
+    editors: Emmeche, C. & Kull, K.
+    book-title: "Towards a Semiotic Biology: Life Is the Action of Signs"
+    publisher: Imperial College Press
+    pages: "1–21"
+    doi: 10.1142/9781848166882_0001
+    verification:
+      status: verified
+      authority: World Scientific / University of Copenhagen Research Portal
+      verifiedDate: 2026-08-07
+
+  - id: barbieri-2008-life-is-semiosis
+    type: journal-article
+    authors: Barbieri, M.
+    year: 2008
+    title: Life Is Semiosis
+    journal: "Cosmos and History: The Journal of Natural and Social Philosophy"
+    volume: "4"
+    issue: "1–2"
+    pages: "29–52"
+    url: https://cosmosandhistory.org/index.php/journal/article/view/99
+    verification:
+      status: verified
+      authority: Cosmos and History journal record
+      verifiedDate: 2026-08-07

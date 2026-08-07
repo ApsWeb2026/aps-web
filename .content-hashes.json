@@ -935,7 +935,7 @@
     "lockedSince": "2026-05-18"
   },
   "articles/why-philosophy-of-biology-matters": {
-    "hash": "aac95da42361440f",
+    "hash": "2dc19f795595a806",
     "revised": "2026-07-28",
     "lockedSince": "2026-05-17"
   },
@@ -1863,5 +1863,35 @@
     "hash": "d87cc377de541872",
     "revised": "2026-08-04",
     "lockedSince": "2026-08-04"
+  },
+  "articles/aps-and-biosemiotics": {
+    "hash": "a00de74db4b7fb16",
+    "revised": "2026-08-07",
+    "lockedSince": "2026-08-07"
+  },
+  "articles/comparative-explanatory-methodology-theoretical-biology": {
+    "hash": "e50780a077b6ad30",
+    "revised": "2026-08-07",
+    "lockedSince": "2026-08-07"
+  },
+  "glossary/explanatory-architecture": {
+    "hash": "5520991081cf35ff",
+    "revised": "2026-08-07",
+    "lockedSince": "2026-08-07"
+  },
+  "glossary/explanatory-organisation": {
+    "hash": "987ef6d23b787200",
+    "revised": "2026-08-07",
+    "lockedSince": "2026-08-07"
+  },
+  "glossary/explanatory-priority": {
+    "hash": "91ccc8a8ef4d202b",
+    "revised": "2026-08-07",
+    "lockedSince": "2026-08-07"
+  },
+  "glossary/explanatory-target": {
+    "hash": "6d95d0adb2566544",
+    "revised": "2026-08-07",
+    "lockedSince": "2026-08-07"
   }
 }

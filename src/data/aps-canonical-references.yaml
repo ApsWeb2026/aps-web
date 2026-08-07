@@ -134,7 +134,8 @@ references:
   publisher: W. W. Norton & Company
   verification:
     status: verified
-    verifiedDate: 2026-07-18
+    authority: W. W. Norton & Company
+    verifiedDate: 2026-08-07
 - id: nicholson-2025-what-is-life
   type: book
   authors: Nicholson, D. J.
@@ -1267,3 +1268,268 @@ references:
     status: verified
     authority: Entropy
     verifiedDate: 2026-08-04
+- id: hoffmeyer-2008-biosemiotics
+  type: book
+  authors: Hoffmeyer, J.
+  year: 2008
+  title: "Biosemiotics: An Examination into the Signs of Life and the Life of Signs"
+  publisher: University of Scranton Press
+  verification:
+    status: verified
+    authority: University of Scranton Press / University of Chicago Press
+    verifiedDate: 2026-08-07
+- id: barbieri-2002-organic-codes
+  type: book
+  authors: Barbieri, M.
+  year: 2002
+  title: "The Organic Codes: An Introduction to Semantic Biology"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511614019
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: barbieri-2007-introduction-biosemiotics
+  type: edited-book
+  editors: Barbieri, M.
+  year: 2007
+  title: "Introduction to Biosemiotics: The New Biological Synthesis"
+  publisher: Springer
+  doi: 10.1007/1-4020-4814-9
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: emmeche-kull-2011-towards-semiotic-biology
+  type: edited-book
+  editors: Emmeche, C. & Kull, K.
+  year: 2011
+  title: "Towards a Semiotic Biology: Life Is the Action of Signs"
+  publisher: Imperial College Press
+  doi: 10.1142/P771
+  verification:
+    status: verified
+    authority: Imperial College Press / World Scientific
+    verifiedDate: 2026-08-07
+- id: kull-et-al-2009-theses-biosemiotics
+  type: journal-article
+  authors: Kull, K.; Deacon, T.; Emmeche, C.; Hoffmeyer, J. & Stjernfelt, F.
+  year: 2009
+  title: "Theses on Biosemiotics: Prolegomena to a Theoretical Biology"
+  journal: Biological Theory
+  volume: "4"
+  issue: "2"
+  pages: "167–173"
+  doi: 10.1162/biot.2009.4.2.167
+  verification:
+    status: verified
+    authority: Biological Theory / University of Copenhagen Research Portal
+    verifiedDate: 2026-08-07
+- id: hoffmeyer-2008-legacy-living-systems
+  type: edited-book
+  editors: Hoffmeyer, J.
+  year: 2008
+  title: "A Legacy for Living Systems: Gregory Bateson as Precursor to Biosemiotics"
+  publisher: Springer
+  doi: 10.1007/978-1-4020-6706-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: kull-emmeche-hoffmeyer-2011-why-biosemiotics
+  type: book-chapter
+  authors: Kull, K.; Emmeche, C. & Hoffmeyer, J.
+  year: 2011
+  title: "Why Biosemiotics? An Introduction to Our View on the Biology of Life Itself"
+  editors: Emmeche, C. & Kull, K.
+  book-title: "Towards a Semiotic Biology: Life Is the Action of Signs"
+  publisher: Imperial College Press
+  pages: "1–21"
+  doi: 10.1142/9781848166882_0001
+  verification:
+    status: verified
+    authority: World Scientific / University of Copenhagen Research Portal
+    verifiedDate: 2026-08-07
+- id: barbieri-2008-life-is-semiosis
+  type: journal-article
+  authors: Barbieri, M.
+  year: 2008
+  title: Life Is Semiosis
+  journal: "Cosmos and History: The Journal of Natural and Social Philosophy"
+  volume: "4"
+  issue: "1–2"
+  pages: "29–52"
+  url: https://cosmosandhistory.org/index.php/journal/article/view/99
+  verification:
+    status: verified
+    authority: Cosmos and History journal record
+    verifiedDate: 2026-08-07
+- id: favareau-2010-essential-readings-biosemiotics
+  type: edited-book
+  editors: Favareau, D.
+  year: 2010
+  title: "Essential Readings in Biosemiotics: Anthology and Commentary"
+  publisher: Springer
+  doi: 10.1007/978-1-4020-9650-1
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: favareau-2010-evolutionary-history-biosemiotics
+  type: book-chapter
+  authors: Favareau, D.
+  year: 2010
+  title: "Introduction: An Evolutionary History of Biosemiotics"
+  editors: Favareau, D.
+  book-title: "Essential Readings in Biosemiotics: Anthology and Commentary"
+  publisher: Springer
+  pages: "1–77"
+  doi: 10.1007/978-1-4020-9650-1_1
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: pattee-raczaszek-leonardi-2012-laws-language-life
+  type: book
+  authors: Pattee, H. H. & Rączaszek-Leonardi, J.
+  year: 2012
+  title: "Laws, Language and Life: Howard Pattee's Classic Papers on the Physics of Symbols with Contemporary Commentary"
+  publisher: Springer
+  doi: 10.1007/978-94-007-5161-3
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: maran-2017-mimicry-meaning
+  type: book
+  authors: Maran, T.
+  year: 2017
+  title: "Mimicry and Meaning: Structure and Semiotics of Biological Mimicry"
+  publisher: Springer
+  doi: 10.1007/978-3-319-50317-2
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: schilhab-stjernfelt-deacon-2012-symbolic-species-evolved
+  type: edited-book
+  editors: Schilhab, T.; Stjernfelt, F. & Deacon, T. W.
+  year: 2012
+  title: "The Symbolic Species Evolved"
+  publisher: Springer
+  doi: 10.1007/978-94-007-2336-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: uexkull-2010-foray-worlds-animals-humans
+  type: book
+  authors: von Uexküll, J.
+  year: 2010
+  title: "A Foray into the Worlds of Animals and Humans: With A Theory of Meaning"
+  publisher: University of Minnesota Press
+  note: "Translated by Joseph D. O'Neil"
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-07
+- id: houser-kloesel-1992-essential-peirce-volume-1
+  type: edited-book
+  editors: Houser, N. & Kloesel, C. J. W.
+  year: 1992
+  title: "The Essential Peirce, Volume 1: Selected Philosophical Writings (1867–1893)"
+  publisher: Indiana University Press
+  verification:
+    status: verified
+    authority: Indiana University Press
+    verifiedDate: 2026-08-07
+- id: sebeok-1994-signs-introduction-semiotics
+  type: book
+  authors: Sebeok, T. A.
+  year: 1994
+  title: "Signs: An Introduction to Semiotics"
+  publisher: University of Toronto Press
+  verification:
+    status: verified
+    authority: University of Toronto Press / Library catalogue records
+    verifiedDate: 2026-08-07 
+- id: hempel-oppenheim-1948-studies-logic-explanation
+  type: journal-article
+  authors: Hempel, C. G., & Oppenheim, P.
+  year: 1948
+  title: Studies in the Logic of Explanation
+  journal: Philosophy of Science
+  volume: "15"
+  issue: "2"
+  pages: "135–175"
+  doi: 10.1086/286983
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: kellert-longino-waters-2006-scientific-pluralism
+  type: edited-book
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: Scientific Pluralism
+  publisher: University of Minnesota Press
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-07
+- id: mantzavinos-2016-explanatory-pluralism
+  type: edited-book
+  editors: Mantzavinos, C.
+  year: 2016
+  title: Explanatory Pluralism
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781316409961
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: laudan-1977-progress-problems
+  type: book
+  authors: Laudan, L.
+  year: 1977
+  title: "Progress and Its Problems: Towards a Theory of Scientific Growth"
+  publisher: University of California Press
+  verification:
+    status: verified
+    authority: University of California Press
+    verifiedDate: 2026-08-07
+- id: kitcher-1993-advancement-science
+  type: book
+  authors: Kitcher, P.
+  year: 1993
+  title: "The Advancement of Science: Science without Legend, Objectivity without Illusions"
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-07
+- id: baedke-2025-organism
+  type: book
+  authors: Baedke, J.
+  year: 2025
+  title: The Organism
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009495035
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: brigandt-2013-explanation-biology
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: "Explanation in Biology: Reduction, Pluralism, and Explanatory Aims"
+  journal: Science & Education
+  volume: "22"
+  issue: "1"
+  pages: "69–91"
+  doi: 10.1007/s11191-011-9350-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
