@@ -55,8 +55,8 @@ relatedArticles:
 references:
   - barbieri-2008-life-is-semiosis
   - hoffmeyer-2008-biosemiotics
-  - kull-2009-biosemiotics
-  - emmeche-kull-2011-towards-biosemiotics
+  - kull-et-al-2009-theses-biosemiotics
+  - emmeche-kull-2011-towards-semiotic-biology
   - favareau-2010-essential-readings-biosemiotics
   - favareau-2010-evolutionary-history-biosemiotics
   - maran-2017-mimicry-meaning
