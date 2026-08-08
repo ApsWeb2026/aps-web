@@ -125,35 +125,13 @@ Comparison thus becomes an explanatory problem in its own right. If organisation
 
 The following section therefore develops a comparative methodology for biological explanation by identifying the explanatory dimensions through which organisational research programmes may be analysed on common methodological grounds. It proposes that organisational research programmes should be compared through a common set of explanatory dimensions that make their organising principles, explanatory priorities, target phenomena, conceptual architectures, and domains of application explicitly comparable. Only once these comparative dimensions have been established can systematic comparison between organisational frameworks proceed on consistent methodological grounds.
 
-<div class="aps-box">
-<h3>Why Compare Organisational Research Programmes?</h3>
-
-Organisational research programmes frequently investigate different biological
-questions, adopt different organising principles, and emphasise different
-explanatory priorities. Comparative explanatory methodology therefore does not
-seek to determine which programme is universally superior. Instead, it examines
-how each programme organises biological explanation and what distinctive
-explanatory contribution it makes. Comparison aims first to clarify explanatory
-organisation before any broader theoretical evaluation is undertaken.
-
-</div>
+[[box:why-compare-organisational-research-programs]]
 
 ## A Comparative Methodology for Biological Explanation
 
 The preceding discussion has shown that meaningful comparison cannot be achieved simply by contrasting theories, concepts, or conclusions. What is required is an explicit methodology for comparing explanatory architectures. If meaningful comparison cannot be achieved simply by contrasting isolated concepts or theoretical conclusions, the question becomes how such programmes should be compared. The present section develops a comparative methodology for biological explanation by identifying the appropriate object, basis, and dimensions of comparison.
 
-<div class="aps-box">
-<h3>Explanatory Architecture</h3>
-
-An explanatory architecture is the organised structure through which a research
-programme explains its subject matter. It includes the programme's explanatory
-target, organising principle, explanatory priorities, conceptual organisation,
-interpretation of organisation, domains of explanatory strength, and
-explanatory scope. Comparative explanatory methodology compares research
-programmes by examining these organisational features systematically rather
-than by evaluating isolated concepts or individual theoretical claims.
-
-</div>
+[[box:explanatory-architecture]]
 
 The methodology proposed here begins from a simple observation. Research programmes are not collections of independent concepts. Rather, they are organised explanatory systems within which concepts derive their significance from their relationships to one another. Agency, organisation, semiosis, autonomy, information, cognition, function, persistence, and meaning do not possess identical explanatory roles across different programmes. Their explanatory significance depends upon the wider organisation of the framework in which they occur. Consequently, meaningful comparison cannot proceed concept by concept in isolation. It must instead compare the explanatory organisation through which concepts collectively contribute to biological understanding.
 
@@ -208,25 +186,7 @@ The protocol is organised as a sequential series of analytical questions. The se
   </em>
 </p>
 
-<div class="aps-box">
-<h3>The Comparative Analytical Protocol</h3>
-
-<p>
-The Comparative Analytical Protocol provides a common analytical procedure
-through which organisational research programmes can be examined
-systematically. Rather than asking whether one programme is superior to
-another, the protocol asks the same sequence of analytical questions of every
-programme. This enables meaningful comparison while preserving the distinctive
-conceptual organisation and explanatory priorities of each framework.
-</p>
-
-<p>
-The protocol therefore standardises the process of comparison rather than the
-content of explanation. Different programmes may arrive at different answers,
-but they are examined through the same methodological procedure.
-</p>
-
-</div>
+[[box:comparative-analytical-protocol]]
 
 The first analytical question concerns the programme's primary explanatory target. Every organisational research programme seeks to render a particular aspect of living systems intelligible. Although many programmes investigate overlapping biological phenomena, they frequently differ in what they treat as the principal object of explanation. Identifying the explanatory target therefore establishes the biological problem around which the remainder of the explanatory architecture has been organised.
 
@@ -256,27 +216,20 @@ The comparison presented here is intentionally illustrative rather than comprehe
 
 Three organisational research programmes have been selected for illustration. Biosemiotics, Enactivism, and the Agency–Process–Scale (APS) framework each investigate important aspects of living organisation while organising biological explanation around distinct explanatory principles. Together they provide sufficient diversity to demonstrate the operation of the comparative methodology without obscuring its underlying structure through unnecessary complexity.
 
-<h3>Illustrative Application of the Comparative Analytical Protocol</h3>
-
-| Comparative dimension | Biosemiotics | Enactivism | APS |
-|---|---|---|---|
-| **Primary explanatory target** | Biological meaning and semiosis | Embodied sense-making | Viability-oriented organised persistence |
-| **Organising principle** | Semiosis | Sense-making | Organised persistence |
-| **Primary explanatory priority** | Generation and interpretation of biological signs | Organism–environment interaction | Maintenance and re-establishment of viable organisation |
-| **Conceptual organisation** | Meaning, communication, codes, interpretation | Embodiment, agency, cognition, interaction | Agency, process, scale, evaluation, persistence |
-| **Interpretation of biological organisation** | Semiotic organisation | Enactive organisation | Viability-oriented organisation |
-| **Domains of explanatory strength** | Meaning, communication, biological signification | Cognition, embodiment, adaptive interaction | Biological organisation, function, persistence, explanation |
-| **Principal explanatory scope** | Biological significance and communication | Organism–environment dynamics | Organisation of biological explanation across living systems |
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/philosophy-comparative-analytical-table.png"
+    alt="Comparison of Biosemiotics, Enactivism, and APS across seven dimensions of explanatory architecture"
+  />
+</div>
 
 <p class="diagram-caption">
-
   <em>
     The table illustrates how the same comparative analytical protocol can be
     applied across organisational research programmes while preserving their
-    distinctive explanatory architectures. The comparison is illustrative rather
-    than exhaustive.
+    distinctive explanatory architectures. The comparison is illustrative
+    rather than exhaustive.
   </em>
-
 </p>
 
 The comparison immediately reveals several important methodological observations. First, the programmes investigate many of the same biological phenomena. All are concerned with living organisation, biological activity, and the continuity of living systems. Conventional comparisons might therefore suggest that they are competing explanations of essentially the same scientific questions.
@@ -324,19 +277,7 @@ The broader significance of this approach extends beyond the present article. Th
   </em>
 </p>
 
-<div class="aps-box">
-
-<h3>APS's Dual Contribution</h3>
-
-Within this article APS makes two complementary contributions. First, it is
-treated as one organisational research programme among others, whose
-explanatory architecture can itself be examined comparatively. Second, APS
-contributes the comparative explanatory methodology through which organisational
-research programmes may be analysed systematically while preserving their
-distinctive explanatory organisations. These two roles should be understood as
-complementary rather than conflated.
-
-</div>
+[[box:aps-dual-contribution]]
 
 APS should consequently be understood as contributing to theoretical biology at two complementary levels. First, it advances a theoretical account of living organisation organised around viability-oriented organised persistence. Second, it contributes a comparative methodology through which organisational research programmes may be examined systematically according to their explanatory architectures rather than through isolated concepts or claims of theoretical superiority. The second contribution does not replace the first; instead, it provides a methodological context within which APS and other organisational research programmes may be understood more clearly.
 
@@ -359,6 +300,7 @@ This perspective has important consequences for theoretical biology. Contemporar
   <em>
     Comparative explanatory methodology enables organisational research programmes to be examined according to their explanatory architectures. Rather than reducing theoretical diversity, the methodology clarifies how distinct explanatory programmes contribute to a broader comparative understanding of theoretical biology.
   </em>
+  
 </p>
 
 The methodology also contributes to the philosophy of biological explanation. Discussions concerning agency, organisation, autonomy, information, semiosis, cognition, function, and related concepts often focus upon the definitions or validity of individual ideas. The present study argues that these concepts acquire much of their explanatory significance through the explanatory architectures within which they are organised. Comparative analysis therefore shifts attention from isolated concepts towards the explanatory organisation that gives those concepts their biological roles. This perspective encourages more systematic investigation of how explanatory frameworks are constructed and how they contribute to biological understanding.
