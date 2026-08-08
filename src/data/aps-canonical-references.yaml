@@ -1624,3 +1624,70 @@ references:
     status: verified
     authority: Cambridge University Press and Crossref
     verifiedDate: 2026-08-08
+- id: giere-2006-scientific-perspectivism
+  type: book
+  authors: Giere, R. N.
+  year: 2006
+  title: Scientific Perspectivism
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-08
+- id: massimi-2022-perspectival-realism
+  type: book
+  authors: Massimi, M.
+  year: 2022
+  title: Perspectival Realism
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780197555620.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-08
+- id: massimi-2021-realism-perspectivism-disagreement
+  type: journal-article
+  authors: Massimi, M.
+  year: 2021
+  title: Realism, perspectivism, and disagreement in science
+  journal: Synthese
+  volume: "198"
+  issue: "Suppl 25"
+  pages: "6115–6141"
+  doi: 10.1007/s11229-019-02500-6
+  verification:
+    status: verified
+    authority: Springer Nature and Crossref
+    verifiedDate: 2026-08-08
+- id: morgan-morrison-1999-models-mediators
+  type: edited-book
+  editors: Morgan, M. S., & Morrison, M.
+  year: 1999
+  title: "Models as Mediators: Perspectives on Natural and Social Science"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511660108
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-08
+- id: potochnik-2017-idealization-aims-science
+  type: book
+  authors: Potochnik, A.
+  year: 2017
+  title: Idealization and the Aims of Science
+  publisher: University of Chicago Press
+  doi: 10.7208/chicago/9780226507194.001.0001
+  verification:
+    status: verified
+    authority: University of Chicago Press and Crossref
+    verifiedDate: 2026-08-08
+- id: longino-1990-science-social-knowledge
+  type: book
+  authors: Longino, H. E.
+  year: 1990
+  title: "Science as Social Knowledge: Values and Objectivity in Scientific Inquiry"
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: 2026-08-08
