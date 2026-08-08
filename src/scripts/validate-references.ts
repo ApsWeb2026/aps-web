@@ -209,6 +209,22 @@ function findMissingAuthorities(records: ReferenceRecord[]): string[] {
     .sort((a, b) => a.localeCompare(b));
 }
 
+const REVIEWED_JOURNAL_METADATA_EXCEPTIONS: Record<string, string[]> = {
+  "barbieri-2008-life-is-semiosis": ["doi"],
+  "bich-bechtel-2022-organization-needs-organization": ["issue"],
+  "holland-1992-complex-adaptive-systems": ["doi"],
+  "holling-1973-resilience-stability": ["issue"],
+  "montevil-mossio-2015-closure-constraints": ["issue"],
+  "nicholson-2019-cell-machine": ["issue"],
+  "ramstead-badcock-friston-2018-schrodingers-question": ["issue"],
+  "simon-1962-complexity": ["doi"],
+  "spencer-2026-agency-defining-activity-life": [
+    "volume",
+    "issue",
+    "pages or article-number",
+  ],
+};
+
 function findJournalMetadataWarnings(
   records: ReferenceRecord[],
 ): JournalWarning[] {
@@ -243,9 +259,21 @@ function findJournalMetadataWarnings(
         return null;
       }
 
+      const id = recordLabel(record, index);
+      const reviewed =
+        REVIEWED_JOURNAL_METADATA_EXCEPTIONS[id] ?? [];
+
+      const unresolved = missing.filter(
+        (field) => !reviewed.includes(field),
+      );
+
+      if (unresolved.length === 0) {
+        return null;
+      }
+
       return {
-        id: recordLabel(record, index),
-        missing,
+        id,
+        missing: unresolved,
       };
     })
     .filter((warning): warning is JournalWarning => warning !== null)

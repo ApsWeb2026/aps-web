@@ -10,6 +10,7 @@ references:
   doi: 10.1016/j.shpsa.2022.03.005
   verification:
     status: verified
+    authority: Elsevier / ScienceDirect
     verifiedDate: 2026-07-18
 - id: godfrey-smith-2009-darwinian-populations
   type: book
@@ -17,9 +18,10 @@ references:
   year: 2009
   title: Darwinian Populations and Natural Selection
   publisher: Oxford University Press
-  doi: 10.1093/acprof:oso/9780199552047.001.0001
+  doi: 10.1093/acprof:osobl/9780199552047.001.0001
   verification:
     status: verified
+    authority: Oxford University Press / Oxford Academic
     verifiedDate: 2026-07-18
 - id: holling-1973-resilience-stability
   type: journal-article
@@ -32,6 +34,7 @@ references:
   doi: 10.1146/annurev.es.04.110173.000245
   verification:
     status: verified
+    authority: Annual Reviews
     verifiedDate: 2026-07-18
 - id: craver-2007-explaining-the-brain
   type: book
@@ -56,6 +59,7 @@ references:
   doi: 10.1086/668166
   verification:
     status: verified
+    authority: University of Chicago Press
     verifiedDate: 2026-07-18
 - id: lopez-diaz-gershenson-2026-general-theory-agency
   type: preprint
@@ -67,6 +71,7 @@ references:
   doi: 10.48550/arXiv.2606.23122
   verification:
     status: verified
+    authority: arXiv
     verifiedDate: 2026-07-18
 - id: spencer-2026-agency-defining-activity-life
   type: journal-article
@@ -91,6 +96,7 @@ references:
   doi: 10.1007/s13752-024-00471-7
   verification:
     status: verified
+    authority: Springer Nature
     verifiedDate: 2026-07-18
 - id: barandiaran-di-paolo-rohde-2009-defining-agency
   type: journal-article
@@ -104,6 +110,7 @@ references:
   doi: 10.1177/1059712309343819
   verification:
     status: verified
+    authority: SAGE Journals
     verifiedDate: 2026-07-18
 - id: moreno-mossio-2015-biological-autonomy
   type: book
@@ -125,6 +132,7 @@ references:
   doi: 10.1093/oso/9780198779636.001.0001
   verification:
     status: verified
+    authority: Oxford University Press / Oxford Academic
     verifiedDate: 2026-07-18
 - id: deacon-2011-incomplete-nature
   type: book
@@ -215,20 +223,6 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-07-19
-- id: kitano-2002-systems-biology
-  type: journal-article
-  authors: Kitano, H.
-  year: 2002
-  title: 'Systems Biology: A Brief Overview'
-  journal: Science
-  volume: '295'
-  issue: '5560'
-  pages: 1662–1664
-  doi: 10.1126/science.1069492
-  verification:
-    status: verified
-    authority: PubMed
-    verifiedDate: 2026-07-24
 - id: kitano-2002-computational-systems-biology
   type: journal-article
   authors: Kitano, H.
@@ -236,6 +230,7 @@ references:
   title: Computational Systems Biology
   journal: Nature
   volume: '420'
+  issue: '6912'
   pages: 206–210
   doi: 10.1038/nature01254
   verification:
@@ -263,6 +258,7 @@ references:
   title: 'Biological Regulation: Controlling the System from Within'
   journal: Biology & Philosophy
   volume: '31'
+  issue: '2'
   pages: 237–265
   doi: 10.1007/s10539-015-9497-8
   verification:

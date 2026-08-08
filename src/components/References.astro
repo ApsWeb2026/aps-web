@@ -18,10 +18,43 @@ function asString(value: unknown): string {
   return '';
 }
 
+function formatContributors(value: unknown): string {
+  const text = asString(value).trim();
+
+  if (!text) return '';
+
+  const contributors = text
+    .split(';')
+    .map((name) => name.trim())
+    .filter(Boolean);
+
+  if (contributors.length === 1) {
+    return contributors[0];
+  }
+
+  if (contributors.length === 2) {
+    return `${contributors[0]}, & ${contributors[1]}`;
+  }
+
+  return `${contributors.slice(0, -1).join(', ')}, & ${contributors.at(-1)}`;
+}
+
+function contributorCount(value: unknown): number {
+  const text = asString(value).trim();
+
+  if (!text) return 0;
+
+  return text
+    .split(';')
+    .map((name) => name.trim())
+    .filter(Boolean)
+    .length;
+}
+
 /*
- * Preserve the order supplied by the article.
- * If the component already has an approved alphabetical sorting rule,
- * that rule can be restored here instead.
+ * References are displayed alphabetically by contributor name.
+ * Where contributor names are unavailable, title is used as fallback.
+ * Year provides the secondary sort order.
  */
 const sortedReferences = [...resolvedReferences].sort((a, b) => {
   const contributorA =
@@ -37,7 +70,7 @@ const sortedReferences = [...resolvedReferences].sort((a, b) => {
   const contributorComparison = contributorA.localeCompare(
     contributorB,
     'en',
-    { sensitivity: 'base' }
+    { sensitivity: 'base' },
   );
 
   if (contributorComparison !== 0) {
@@ -45,7 +78,7 @@ const sortedReferences = [...resolvedReferences].sort((a, b) => {
   }
 
   const yearComparison = asString(a.year).localeCompare(
-    asString(b.year)
+    asString(b.year),
   );
 
   if (yearComparison !== 0) {
@@ -55,28 +88,28 @@ const sortedReferences = [...resolvedReferences].sort((a, b) => {
   return asString(a.title).localeCompare(
     asString(b.title),
     'en',
-    { sensitivity: 'base' }
+    { sensitivity: 'base' },
   );
 });
 ---
 
 {
   sortedReferences.length > 0 && (
-    <section class="references" aria-labelledby="references-heading">
-      <h2 id="references-heading">References</h2>
+    <section class="references-section">
+      <h2>References</h2>
 
       <ol class="ref-list">
         {sortedReferences.map((ref) => {
           const id = asString(ref.id);
           const type = asString(ref.type);
 
-          const authors = asString(ref.authors);
-          const editors = asString(ref.editors);
+          const authors = formatContributors(ref.authors);
+          const editors = formatContributors(ref.editors);
           const contributors = authors || editors;
 
           const editorSuffix =
             type === 'edited-book' && editors && !authors
-              ? editors.includes(' & ')
+              ? contributorCount(ref.editors) > 1
                 ? ' (eds.).'
                 : ' (ed.).'
               : '';
