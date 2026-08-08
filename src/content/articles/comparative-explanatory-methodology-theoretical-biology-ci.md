@@ -126,7 +126,6 @@ Comparison thus becomes an explanatory problem in its own right. If organisation
 The following section therefore develops a comparative methodology for biological explanation by identifying the explanatory dimensions through which organisational research programmes may be analysed on common methodological grounds. It proposes that organisational research programmes should be compared through a common set of explanatory dimensions that make their organising principles, explanatory priorities, target phenomena, conceptual architectures, and domains of application explicitly comparable. Only once these comparative dimensions have been established can systematic comparison between organisational frameworks proceed on consistent methodological grounds.
 
 <div class="aps-box">
-
 <h3>Why Compare Organisational Research Programmes?</h3>
 
 Organisational research programmes frequently investigate different biological
@@ -144,7 +143,6 @@ organisation before any broader theoretical evaluation is undertaken.
 The preceding discussion has shown that meaningful comparison cannot be achieved simply by contrasting theories, concepts, or conclusions. What is required is an explicit methodology for comparing explanatory architectures. If meaningful comparison cannot be achieved simply by contrasting isolated concepts or theoretical conclusions, the question becomes how such programmes should be compared. The present section develops a comparative methodology for biological explanation by identifying the appropriate object, basis, and dimensions of comparison.
 
 <div class="aps-box">
-
 <h3>Explanatory Architecture</h3>
 
 An explanatory architecture is the organised structure through which a research
@@ -211,7 +209,6 @@ The protocol is organised as a sequential series of analytical questions. The se
 </p>
 
 <div class="aps-box">
-
 <h3>The Comparative Analytical Protocol</h3>
 
 <p>
@@ -272,12 +269,14 @@ Three organisational research programmes have been selected for illustration. Bi
 | **Principal explanatory scope** | Biological significance and communication | Organism–environment dynamics | Organisation of biological explanation across living systems |
 
 <p class="diagram-caption">
+
   <em>
     The table illustrates how the same comparative analytical protocol can be
     applied across organisational research programmes while preserving their
     distinctive explanatory architectures. The comparison is illustrative rather
     than exhaustive.
   </em>
+
 </p>
 
 The comparison immediately reveals several important methodological observations. First, the programmes investigate many of the same biological phenomena. All are concerned with living organisation, biological activity, and the continuity of living systems. Conventional comparisons might therefore suggest that they are competing explanations of essentially the same scientific questions.
