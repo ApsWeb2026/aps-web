@@ -216,14 +216,14 @@ The comparison presented here is intentionally illustrative rather than comprehe
 
 Three organisational research programmes have been selected for illustration. Biosemiotics, Enactivism, and the Agency–Process–Scale (APS) framework each investigate important aspects of living organisation while organising biological explanation around distinct explanatory principles. Together they provide sufficient diversity to demonstrate the operation of the comparative methodology without obscuring its underlying structure through unnecessary complexity.
 
-<div class="aps-diagram">
+<<div class="aps-diagram">
   <img
     src="/assets/diagrams/philosophy-comparative-analytical-table.png"
     alt="Comparison of Biosemiotics, Enactivism, and APS across seven dimensions of explanatory architecture"
   />
 </div>
 
-<p class="diagram-caption">
+<p class="diagram-caption" style="margin-bottom: 2rem;">
   <em>
     The table illustrates how the same comparative analytical protocol can be
     applied across organisational research programmes while preserving their
@@ -296,11 +296,10 @@ This perspective has important consequences for theoretical biology. Contemporar
   />
 </div>
 
-<p class="diagram-caption">
+<p class="diagram-caption" style="margin-bottom: 2rem;">
   <em>
     Comparative explanatory methodology enables organisational research programmes to be examined according to their explanatory architectures. Rather than reducing theoretical diversity, the methodology clarifies how distinct explanatory programmes contribute to a broader comparative understanding of theoretical biology.
   </em>
-  
 </p>
 
 The methodology also contributes to the philosophy of biological explanation. Discussions concerning agency, organisation, autonomy, information, semiosis, cognition, function, and related concepts often focus upon the definitions or validity of individual ideas. The present study argues that these concepts acquire much of their explanatory significance through the explanatory architectures within which they are organised. Comparative analysis therefore shifts attention from isolated concepts towards the explanatory organisation that gives those concepts their biological roles. This perspective encourages more systematic investigation of how explanatory frameworks are constructed and how they contribute to biological understanding.
