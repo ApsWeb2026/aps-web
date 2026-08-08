@@ -1529,3 +1529,98 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-08-07
+- id: van-fraassen-1980-scientific-image
+  type: book
+  authors: van Fraassen, B. C.
+  year: 1980
+  title: The Scientific Image
+  publisher: Clarendon Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-08
+- id: psillos-1999-scientific-realism
+  type: book
+  authors: Psillos, S.
+  year: 1999
+  title: "Scientific Realism: How Science Tracks Truth"
+  publisher: Routledge
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-08-08
+- id: laudan-1981-confutation-convergent-realism
+  type: journal-article
+  authors: Laudan, L.
+  year: 1981
+  title: A Confutation of Convergent Realism
+  journal: Philosophy of Science
+  volume: "48"
+  issue: "1"
+  pages: "19–49"
+  doi: 10.1086/288975
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-08
+- id: chakravartty-2007-metaphysics-scientific-realism
+  type: book
+  authors: Chakravartty, A.
+  year: 2007
+  title: "A Metaphysics for Scientific Realism: Knowing the Unobservable"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511487354
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-08
+- id: chakravartty-2017-scientific-ontology
+  type: book
+  authors: Chakravartty, A.
+  year: 2017
+  title: "Scientific Ontology: Integrating Naturalized Metaphysics and Voluntarist Epistemology"
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780190651459.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-08
+- id: worrall-1989-structural-realism
+  type: journal-article
+  authors: Worrall, J.
+  year: 1989
+  title: "Structural Realism: The Best of Both Worlds?"
+  journal: Dialectica
+  volume: "43"
+  issue: "1–2"
+  pages: "99–124"
+  doi: 10.1111/j.1746-8361.1989.tb00933.x
+  verification:
+    status: verified
+    authority: Wiley and Crossref
+    verifiedDate: 2026-08-08
+- id: hacking-1983-representing-intervening
+  type: book
+  authors: Hacking, I.
+  year: 1983
+  title: "Representing and Intervening: Introductory Topics in the Philosophy of Natural Science"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511814563
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-08
+- id: psillos-1996-scientific-realism-pessimistic-induction
+  type: journal-article
+  authors: Psillos, S.
+  year: 1996
+  title: "Scientific Realism and the ‘Pessimistic Induction’"
+  journal: Philosophy of Science
+  volume: "63"
+  issue: "S3"
+  pages: "S306–S314"
+  doi: 10.1086/289965
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-08
