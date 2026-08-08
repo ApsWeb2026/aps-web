@@ -201,7 +201,7 @@ The protocol is organised as a sequential series of analytical questions. The se
 
 <p class="diagram-caption">
   <em>
-    Figure 1. The Comparative Analytical Protocol. Comparative explanatory
+    Comparative explanatory
     methodology analyses organisational research programmes through a common
     sequence of seven analytical questions. The protocol does not evaluate
     whether one programme is superior to another; rather, it provides a
@@ -209,8 +209,6 @@ The protocol is organised as a sequential series of analytical questions. The se
     organise biological explanation.
   </em>
 </p>
-
-<h3>The Comparative Analytical Protocol</h3>
 
 <div class="aps-box">
 
@@ -252,8 +250,6 @@ Taken together, these analytical stages constitute a coherent comparative protoc
 The protocol is intentionally neutral with respect to the research programmes under comparison. It does not determine which organising principle should ultimately be preferred, nor does it seek to reconcile different frameworks within a single theoretical synthesis. Instead, it provides a common analytical procedure through which diverse organisational research programmes may be examined consistently while preserving their distinctive explanatory identities.
 
 The following section illustrates the application of this protocol through a concise comparative analysis of representative organisational research programmes. The objective is not to provide comprehensive reviews of those programmes, but to demonstrate how the comparative methodology clarifies both their shared biological concerns and their distinctive explanatory organisations.
-
-<div class="aps-box">
 
 ## Illustrative Application of the Comparative Analytical Protocol
 
