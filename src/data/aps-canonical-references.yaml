@@ -1691,3 +1691,44 @@ references:
     status: verified
     authority: Princeton University Press
     verifiedDate: 2026-08-08
+- id: mitchell-dietrich-2006-integration-without-unification
+  type: journal-article
+  authors: Mitchell, S. D., & Dietrich, M. R.
+  year: 2006
+  title: "Integration without Unification: An Argument for Pluralism in the Biological Sciences"
+  journal: The American Naturalist
+  volume: "168"
+  issue: "S6"
+  pages: "S73–S79"
+  doi: 10.1086/509050
+  verification:
+    status: verified
+    authority: University of Chicago Press and Crossref
+    verifiedDate: 2026-08-08
+- id: kellert-longino-waters-2006-pluralist-stance
+  type: book-chapter
+  authors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: "Introduction: The Pluralist Stance"
+  book-title: Scientific Pluralism
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  publisher: University of Minnesota Press
+  pages: "vii–xxix"
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-08
+- id: mitchell-2023-landscape-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2023
+  title: The landscape of integrative pluralism
+  journal: THEORIA. An International Journal for Theory, History and Foundations of Science
+  volume: "38"
+  issue: "3"
+  pages: "261–297"
+  doi: 10.1387/theoria.25273
+  verification:
+    status: verified
+    authority: University of the Basque Country and Crossref
+    verifiedDate: 2026-08-08
