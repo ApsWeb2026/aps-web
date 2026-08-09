@@ -1787,3 +1787,80 @@ references:
     status: verified
     authority: Cambridge University Press and Crossref
     verifiedDate: 2026-08-09
+- id: ladyman-ross-spurrett-collier-2007-every-thing-must-go
+  type: book
+  authors: Ladyman, J., Ross, D., Spurrett, D., & Collier, J.
+  year: 2007
+  title: "Every Thing Must Go: Metaphysics Naturalized"
+  publisher: Oxford University Press
+  doi: "10.1093/acprof:oso/9780199276196.001.0001"
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: ross-ladyman-kincaid-2013-scientific-metaphysics
+  type: edited-book
+  editors: Ross, D., Ladyman, J., & Kincaid, H.
+  year: 2013
+  title: Scientific Metaphysics
+  publisher: Oxford University Press
+  doi: "10.1093/acprof:oso/9780199696499.001.0001"
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: french-2014-structure-world
+  type: book
+  authors: French, S.
+  year: 2014
+  title: "The Structure of the World: Metaphysics and Representation"
+  publisher: Oxford University Press
+  doi: "10.1093/acprof:oso/9780199684847.001.0001"
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: maddy-2007-second-philosophy
+  type: book
+  authors: Maddy, P.
+  year: 2007
+  title: "Second Philosophy: A Naturalistic Method"
+  publisher: Oxford University Press
+  doi: "10.1093/acprof:oso/9780199273669.001.0001"
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: cartwright-1999-dappled-world
+  type: book
+  authors: Cartwright, N.
+  year: 1999
+  title: "The Dappled World: A Study of the Boundaries of Science"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781139167093
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: chang-2012-is-water-h2o
+  type: book
+  authors: Chang, H.
+  year: 2012
+  title: "Is Water H2O?: Evidence, Realism and Pluralism"
+  publisher: Springer
+  doi: 10.1007/978-94-007-3932-1
+  verification:
+    status: verified
+    authority: Springer Nature and Crossref
+    verifiedDate: 2026-08-09
+- id: morrison-2015-reconstructing-reality
+  type: book
+  authors: Morrison, M.
+  year: 2015
+  title: "Reconstructing Reality: Models, Mathematics, and Simulations"
+  publisher: Oxford University Press
+  doi: "10.1093/acprof:oso/9780199380275.001.0001"
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
