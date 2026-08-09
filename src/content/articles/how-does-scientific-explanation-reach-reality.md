@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-09
-revised: 2026-08-09
+revised: 2026-08-10
 
 cluster: methodology-and-explanation
 role: synthesis
@@ -92,13 +92,13 @@ references:
 ---
 > ** Where This Article Fits:** Many scientists are understandably suspicious of metaphysics. The term can suggest speculative claims imposed upon science from outside, or attempts to determine the nature of reality independently of evidence. This article defends neither approach. It does not argue that science requires a prior metaphysical system, that explanatory success guarantees truth, or that philosophical reflection should override scientific practice. 
 
-The problem addressed here already arises within science. Scientific explanations make claims about what exists, what produces a phenomenon, which relations matter, and how a target is organised. These claims have ontological significance whether or not scientists describe them as metaphysical. The question is how such commitments are warranted when explanations are necessarily selective, model-mediated, idealised, and developed from particular investigative perspectives. 
+>The problem addressed here already arises within science. Scientific explanations make claims about what exists, what produces a phenomenon, which relations matter, and how a target is organised. These claims have ontological significance whether or not scientists describe them as metaphysical. The question is how such commitments are warranted when explanations are necessarily selective, model-mediated, idealised, and developed from particular investigative perspectives. 
 
-The article argues that explanation reaches reality through disciplined answerability rather than unmediated representation. Evidence, intervention, comparison, correction, and failure constrain which explanations can remain successful. Where commitments survive relevant changes in method, model, evidence, and question, they may warrant selective and revisable claims about reality. This is not metaphysical proof. It is an account of how scientific inquiry can support defeasible ontology without claiming certainty. 
+>The article argues that explanation reaches reality through disciplined answerability rather than unmediated representation. Evidence, intervention, comparison, correction, and failure constrain which explanations can remain successful. Where commitments survive relevant changes in method, model, evidence, and question, they may warrant selective and revisable claims about reality. This is not metaphysical proof. It is an account of how scientific inquiry can support defeasible ontology without claiming certainty. 
 
-The question matters directly for APS. Agency, Process, and Scale are analytic projections through which living organisation is investigated; they are not proposed as three components of life. Their conceptual compatibility alone cannot establish that their integration discloses something real. The relevant test is whether each projection is independently grounded, whether their relation generates additional explanatory constraints, and whether evidence arising through one can force revision within another. 
+>The question matters directly for APS. Agency, Process, and Scale are analytic projections through which living organisation is investigated; they are not proposed as three components of life. Their conceptual compatibility alone cannot establish that their integration discloses something real. The relevant test is whether each projection is independently grounded, whether their relation generates additional explanatory constraints, and whether evidence arising through one can force revision within another. 
 
-The ontological claim developed through APS is therefore conditional. Viability-oriented, constraint-closed organisation gains scientific and philosophical warrant only insofar as organisational analysis clarifies materially consequential dependencies, improves comparison among explanations, and remains vulnerable to empirical failure. The article asks how that warrant should be understood—and what this biological case may reveal about the relationship between scientific explanation, knowledge, and reality.
+>The ontological claim developed through APS is therefore conditional. Viability-oriented, constraint-closed organisation gains scientific and philosophical warrant only insofar as organisational analysis clarifies materially consequential dependencies, improves comparison among explanations, and remains vulnerable to empirical failure. The article asks how that warrant should be understood—and what this biological case may reveal about the relationship between scientific explanation, knowledge, and reality.
 
 ## 1. The Problem: Explanation Is Ours, Reality Is Not
 
@@ -273,8 +273,6 @@ Structural realism provides a related lesson. Ladyman and colleagues argue that 
 Perspectival realism reinforces this restraint. A claim may remain situated within historically and methodologically specific practices while tracking a reality that exceeds those practices (Massimi 2022). The ontological force of a perspective depends upon its capacity to enter relations of criticism, extension, and correction with other perspectives. What becomes credible is not whatever every perspective happens to share, but what relevant inquiry repeatedly cannot discard without losing empirical or explanatory achievement.
 
 [[box:defeasible-ontology-is-not-metaphysical-proof]]
-
-Scientific explanation can warrant commitment without establishing certainty. Defeasible ontology is selective: it distinguishes the entities, relations, capacities, constraints, and forms of organisation that explanatory practices have reason to preserve from the representational features that remain provisional. It is revisable because later evidence may change either the commitment or its interpretation. Revisability does not reduce ontology to convenience. It expresses the fact that scientific claims about reality are warranted through practices that can succeed, conflict, and fail.
 
 Explanation therefore reaches reality through constraint-sensitive convergence upon what inquiry, within its current evidential reach, must preserve, accommodate, or repeatedly rediscover. This relation is weaker than an unmediated correspondence between explanation and world, but stronger than empirical usefulness alone. It licenses neither certainty nor unrestricted scepticism. It supports graded commitments whose strength reflects the independence, specificity, and corrective power of the practices from which they arise.
 

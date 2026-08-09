@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-08-06
+revised: 2026-08-10
 cluster: methodology-and-explanation
 role: anchor
 abstract: >
@@ -310,6 +310,8 @@ This provides:
 - and a coherent way to distinguish living from non-living systems.
 
 APS therefore aims not merely to extend biology conceptually, but to clarify the organisational foundations upon which biological explanation already depends.
+
+The broader philosophical implications of this methodology are developed in [How Does Scientific Explanation Reach Reality?](/articles/how-does-scientific-explanation-reach-reality/), where APS is examined as a test case for how scientific explanation may support revisable claims about reality.
 
 ## APS as a Reconstruction of Biological Intelligibility
 

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-27
-revised: 2026-07-28
+revised: 2026-08-10
 
 cluster: conceptual-foundations
 role: core
@@ -115,6 +115,8 @@ These similarities create an important biological question. If organised behavio
 This question is more than a matter of classification. It concerns the explanatory target of biology itself. If biology seeks to understand living systems, it must first be clear about what kind of organisation makes those systems living rather than merely organised. Without that distinction, descriptions of biological mechanisms risk becoming descriptions of organised processes without explaining why those processes belong to a living system.
 
 APS approaches this question by shifting attention from the presence of particular structures or behaviours to the organisation through which those structures and behaviours contribute to the continued functioning of the system as a whole. From this perspective, the defining issue is not whether a system possesses a particular component or performs a particular activity, but how its activities are organised in relation to the maintenance of its own continued functioning.
+
+The question of when explanatory organisation warrants commitment to an organised biological reality is examined in [How Does Scientific Explanation Reach Reality?](/articles/how-does-scientific-explanation-reach-reality/).
 
 The sections that follow develop this organisational perspective step by step. They begin by considering why familiar biological characteristics and mechanistic explanations, although indispensable, do not by themselves explain what makes a system biological.
 

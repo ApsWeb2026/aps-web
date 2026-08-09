@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-08-02
+revised: 2026-08-10
 cluster: philosophy-of-biology
 role: anchor
 
@@ -249,6 +249,8 @@ In this sense, philosophy returns through biology. The task is not to replace sc
 The relationship between biology and philosophy is frequently misunderstood. Philosophy is often portrayed as something science eventually leaves behind. On this view, conceptual questions exist only temporarily, occupying explanatory gaps that disappear as empirical knowledge advances. As mechanisms become better understood, philosophy is expected to retreat. APS argues that the history of biology suggests the opposite pattern.
 
 Scientific success often generates new philosophical questions precisely because it reveals the conceptual commitments embedded within explanation. The more effectively a science explains its subject matter, the more clearly its underlying explanatory architecture becomes visible. Biology provides a particularly striking example of this phenomenon because its explanatory achievements repeatedly expose concepts whose significance cannot be reduced to the empirical discoveries that first brought them to attention.
+
+Scientific intelligibility does not by itself establish ontology. The relationship between understanding, explanatory success, and warranted commitment to organised reality is examined in [How Does Scientific Explanation Reach Reality?](/articles/how-does-scientific-explanation-reach-reality/).
 
 Evolutionary theory offers an important illustration. Darwinian and post-Darwinian biology explained adaptation without appealing to external design, yet the success of evolutionary explanation did not eliminate questions concerning function, purposiveness, and biological normativity. On the contrary, the explanatory power of evolutionary theory made such questions more pressing. If organisms are not designed from outside, why does biological explanation continue to rely upon concepts that appear purpose-like? Why do functions remain indispensable within biological reasoning?
 

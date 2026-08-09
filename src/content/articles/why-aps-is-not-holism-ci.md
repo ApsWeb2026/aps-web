@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-06-15
+revised: 2026-08-10
 cluster: philosophy-of-biology
 
 abstract: >
@@ -219,9 +219,7 @@ What requires explanation is not the existence of a whole but the organised proc
 
 ## Mechanisms Within Organised Persistence
 
-APS rejects the claim that mechanisms are sufficient explanations of life.
-
-It equally rejects the claim that mechanisms are irrelevant.
+APS rejects the claim that mechanisms are sufficient explanations of life. It equally rejects the claim that mechanisms are irrelevant.
 
 Mechanisms matter because biological organisation is realised through concrete causal processes.
 
@@ -234,6 +232,8 @@ The APS position is therefore neither mechanistic reductionism nor anti-mechanis
 Mechanisms are components of organised persistence.
 
 Their explanatory role depends upon the organisational systems within which they operate.
+
+This requirement forms part of a broader account of constraint-sensitive realism developed in [How Does Scientific Explanation Reach Reality?](/articles/how-does-scientific-explanation-reach-reality/): explanatory integration acquires ontological significance only when it is empirically supported, mutually corrective, and capable of failure.
 
 ## Teleology Without Organicism
 

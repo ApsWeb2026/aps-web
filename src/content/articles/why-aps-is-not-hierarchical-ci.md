@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-06-21
+revised: 2026-08-10
 
 cluster: conceptual-foundations
 role: clarification
@@ -147,6 +147,8 @@ A third assumption is that causation flows between levels. Hierarchical thinking
 Most importantly, ontological hierarchy obscures organisational continuity. Molecular activity, physiological regulation, behaviour, development, ecological interaction, and evolutionary transformation are often treated as phenomena belonging to different levels. APS instead interprets them as interconnected dimensions of the same organised persistence. The continuity of living organisation becomes difficult to recognise when biological reality is divided into discrete tiers.
 
 For these reasons, APS treats hierarchy as a useful descriptive shorthand but a misleading ontology. The framework seeks to preserve the practical advantages of hierarchical language while avoiding the philosophical assumptions that often accompany it.
+
+The ontological significance of treating Agency, Process, and Scale as analytic projections rather than components of reality is developed in [How Does Scientific Explanation Reach Reality?](/articles/how-does-scientific-explanation-reach-reality/).
 
 ## Explanatory Perspective and Organisational Domains
 
