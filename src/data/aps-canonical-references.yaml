@@ -1732,3 +1732,58 @@ references:
     status: verified
     authority: University of the Basque Country and Crossref
     verifiedDate: 2026-08-08
+- id: salmon-1984-scientific-explanation-causal-structure
+  type: book
+  authors: Salmon, W. C.
+  year: 1984
+  title: Scientific Explanation and the Causal Structure of the World
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: 2026-08-08
+- id: kitcher-1989-explanatory-unification-causal-structure
+  type: book-chapter
+  authors: Kitcher, P.
+  year: 1989
+  title: Explanatory Unification and the Causal Structure of the World
+  book-title: Scientific Explanation
+  editors: Kitcher, P., & Salmon, W. C.
+  publisher: University of Minnesota Press
+  pages: "410–505"
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-08
+- id: strevens-2008-depth
+  type: book
+  authors: Strevens, M.
+  year: 2008
+  title: "Depth: An Account of Scientific Explanation"
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-08-09
+- id: de-regt-2017-understanding-scientific-understanding
+  type: book
+  authors: de Regt, H. W.
+  year: 2017
+  title: Understanding Scientific Understanding
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780190652913.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: khalifa-2017-understanding-explanation-scientific-knowledge
+  type: book
+  authors: Khalifa, K.
+  year: 2017
+  title: Understanding, Explanation, and Scientific Knowledge
+  publisher: Cambridge University Press
+  doi: 10.1017/9781108164276
+  verification:
+    status: verified
+    authority: Cambridge University Press and Crossref
+    verifiedDate: 2026-08-09
