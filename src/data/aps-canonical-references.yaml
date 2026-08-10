@@ -1864,3 +1864,403 @@ references:
     status: verified
     authority: Oxford University Press and Crossref
     verifiedDate: 2026-08-09
+- id: bely-nyberg-2010-evolution-animal-regeneration
+  type: journal-article
+  authors: Bely, A. E., & Nyberg, K. G.
+  year: 2010
+  title: 'Evolution of Animal Regeneration: Re-emergence of a Field'
+  journal: Trends in Ecology & Evolution
+  volume: '25'
+  issue: '3'
+  pages: 161–170
+  doi: 10.1016/j.tree.2009.08.005
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: srivastava-2021-beyond-casual-resemblance
+  type: journal-article
+  authors: Srivastava, M.
+  year: 2021
+  title: 'Beyond Casual Resemblance: Rigorous Frameworks for Comparing Regeneration Across Species'
+  journal: Annual Review of Cell and Developmental Biology
+  volume: '37'
+  issue: '1'
+  pages: 415–440
+  doi: 10.1146/annurev-cellbio-120319-114716
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-10
+- id: tanaka-reddien-2011-cellular-basis-animal-regeneration
+  type: journal-article
+  authors: Tanaka, E. M., & Reddien, P. W.
+  year: 2011
+  title: The Cellular Basis for Animal Regeneration
+  journal: Developmental Cell
+  volume: '21'
+  issue: '1'
+  pages: 172–185
+  doi: 10.1016/j.devcel.2011.06.016
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: sanchez-alvarado-tsonis-2006-bridging-regeneration-gap
+  type: journal-article
+  authors: Sánchez Alvarado, A., & Tsonis, P. A.
+  year: 2006
+  title: 'Bridging the Regeneration Gap: Genetic Insights from Diverse Animal Models'
+  journal: Nature Reviews Genetics
+  volume: '7'
+  issue: '11'
+  pages: 873–884
+  doi: 10.1038/nrg1923
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-10
+- id: poss-2010-advances-tissue-regenerative-capacity
+  type: journal-article
+  authors: Poss, K. D.
+  year: 2010
+  title: Advances in Understanding Tissue Regenerative Capacity and Mechanisms in Animals
+  journal: Nature Reviews Genetics
+  volume: '11'
+  issue: '10'
+  pages: 710–722
+  doi: 10.1038/nrg2879
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-10
+- id: eming-martin-tomic-canic-2014-wound-repair-regeneration
+  type: journal-article
+  authors: Eming, S. A., Martin, P., & Tomic-Canic, M.
+  year: 2014
+  title: 'Wound Repair and Regeneration: Mechanisms, Signaling, and Translation'
+  journal: Science Translational Medicine
+  volume: '6'
+  issue: '265'
+  pages: 265sr6
+  doi: 10.1126/scitranslmed.3009337
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: jopling-boue-izpisua-belmonte-2011-three-routes-regeneration
+  type: journal-article
+  authors: Jopling, C., Boué, S., & Izpisúa Belmonte, J. C.
+  year: 2011
+  title: 'Dedifferentiation, Transdifferentiation and Reprogramming: Three Routes to Regeneration'
+  journal: Nature Reviews Molecular Cell Biology
+  volume: '12'
+  issue: '2'
+  pages: 79–89
+  doi: 10.1038/nrm3043
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-10
+- id: chen-poss-2017-regeneration-genetics
+  type: journal-article
+  authors: Chen, C.-H., & Poss, K. D.
+  year: 2017
+  title: Regeneration Genetics
+  journal: Annual Review of Genetics
+  volume: '51'
+  issue: '1'
+  pages: 63–82
+  doi: 10.1146/annurev-genet-120116-024554
+  verification:
+    status: verified
+    authority: Annual Reviews and PubMed
+    verifiedDate: 2026-08-10
+- id: gemberling-bailey-hyde-poss-2013-zebrafish-regeneration
+  type: journal-article
+  authors: Gemberling, M., Bailey, T. J., Hyde, D. R., & Poss, K. D.
+  year: 2013
+  title: The Zebrafish as a Model for Complex Tissue Regeneration
+  journal: Trends in Genetics
+  volume: '29'
+  issue: '11'
+  pages: 611–620
+  doi: 10.1016/j.tig.2013.07.003
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: seifert-duncan-zayas-2023-enduring-questions-regeneration
+  type: journal-article
+  authors: Seifert, A. W., Duncan, E. M., & Zayas, R. M.
+  year: 2023
+  title: Enduring Questions in Regenerative Biology and the Search for Answers
+  journal: Communications Biology
+  volume: '6'
+  issue: '1'
+  pages: '1139'
+  doi: 10.1038/s42003-023-05505-7
+  verification:
+    status: verified
+    authority: Springer Nature and PubMed
+    verifiedDate: 2026-08-10
+- id: brigandt-2013-systems-biology-explanatory-integration
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation
+  journal: Studies in History and Philosophy of Biological and Biomedical Sciences
+  volume: '44'
+  issue: '4'
+  pages: 477–492
+  doi: 10.1016/j.shpsc.2013.06.002
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: kitano-2002-systems-biology-overview
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+  journal: Science
+  volume: '295'
+  issue: '5560'
+  pages: 1662–1664
+  doi: 10.1126/science.1069492
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: schlichting-pigliucci-1998-phenotypic-evolution
+  type: book
+  authors: Schlichting, C. D., & Pigliucci, M.
+  year: 1998
+  title: 'Phenotypic Evolution: A Reaction Norm Perspective'
+  publisher: Sinauer Associates
+  verification:
+    status: verified
+    authority: Sinauer Associates and Springer Nature
+    verifiedDate: 2026-08-10
+- id: dewitt-sih-wilson-1998-costs-limits-plasticity
+  type: journal-article
+  authors: DeWitt, T. J., Sih, A., & Wilson, D. S.
+  year: 1998
+  title: Costs and Limits of Phenotypic Plasticity
+  journal: Trends in Ecology & Evolution
+  volume: '13'
+  issue: '2'
+  pages: 77–81
+  doi: 10.1016/S0169-5347(97)01274-3
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-08-10
+- id: ghalambor-mckay-carroll-reznick-2007-adaptive-plasticity
+  type: journal-article
+  authors: Ghalambor, C. K., McKay, J. K., Carroll, S. P., & Reznick, D. N.
+  year: 2007
+  title: Adaptive Versus Non-adaptive Phenotypic Plasticity and the Potential for Contemporary Adaptation in New Environments
+  journal: Functional Ecology
+  volume: '21'
+  issue: '3'
+  pages: 394–407
+  doi: 10.1111/j.1365-2435.2007.01283.x
+  verification:
+    status: verified
+    authority: Wiley and British Ecological Society
+    verifiedDate: 2026-08-10
+- id: sultan-2000-plant-phenotypic-plasticity
+  type: journal-article
+  authors: Sultan, S. E.
+  year: 2000
+  title: Phenotypic Plasticity for Plant Development, Function and Life History
+  journal: Trends in Plant Science
+  volume: '5'
+  issue: '12'
+  pages: 537–542
+  doi: 10.1016/S1360-1385(00)01797-0
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: sultan-2001-plasticity-fitness-polygonum
+  type: journal-article
+  authors: Sultan, S. E.
+  year: 2001
+  title: Phenotypic Plasticity for Fitness Components in Polygonum Species of Contrasting Ecological Breadth
+  journal: Ecology
+  volume: '82'
+  issue: '2'
+  pages: 328–343
+  doi: '10.1890/0012-9658(2001)082[0328:PPFFCI]2.0.CO;2'
+  verification:
+    status: verified
+    authority: Ecological Society of America and Wiley
+    verifiedDate: 2026-08-10
+- id: grosberg-strathmann-2007-evolution-multicellularity
+  type: journal-article
+  authors: Grosberg, R. K., & Strathmann, R. R.
+  year: 2007
+  title: 'The Evolution of Multicellularity: A Minor Major Transition?'
+  journal: Annual Review of Ecology, Evolution, and Systematics
+  volume: '38'
+  issue: '1'
+  pages: 621–654
+  doi: 10.1146/annurev.ecolsys.36.102403.114735
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-10
+- id: queller-strassmann-2009-evolution-organismality
+  type: journal-article
+  authors: Queller, D. C., & Strassmann, J. E.
+  year: 2009
+  title: 'Beyond Society: The Evolution of Organismality'
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  volume: '364'
+  issue: '1533'
+  pages: 3143–3155
+  doi: 10.1098/rstb.2009.0095
+  verification:
+    status: verified
+    authority: The Royal Society and PubMed
+    verifiedDate: 2026-08-10
+- id: ratcliff-denison-borrello-travisano-2012-experimental-multicellularity
+  type: journal-article
+  authors: Ratcliff, W. C., Denison, R. F., Borrello, M., & Travisano, M.
+  year: 2012
+  title: Experimental Evolution of Multicellularity
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '109'
+  issue: '5'
+  pages: 1595–1600
+  doi: 10.1073/pnas.1115323109
+  verification:
+    status: verified
+    authority: National Academy of Sciences and PubMed
+    verifiedDate: 2026-08-10
+- id: libby-rainey-2013-conceptual-framework-multicellularity
+  type: journal-article
+  authors: Libby, E., & Rainey, P. B.
+  year: 2013
+  title: A Conceptual Framework for the Evolutionary Origins of Multicellularity
+  journal: Physical Biology
+  volume: '10'
+  issue: '3'
+  pages: '035001'
+  doi: 10.1088/1478-3975/10/3/035001
+  verification:
+    status: verified
+    authority: IOP Publishing and PubMed
+    verifiedDate: 2026-08-10
+- id: hammerschmidt-rose-kerr-rainey-2014-life-cycles-fitness-decoupling
+  type: journal-article
+  authors: Hammerschmidt, K., Rose, C. J., Kerr, B., & Rainey, P. B.
+  year: 2014
+  title: Life Cycles, Fitness Decoupling and the Evolution of Multicellularity
+  journal: Nature
+  volume: '515'
+  issue: '7525'
+  pages: 75–79
+  doi: 10.1038/nature13884
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-10
+- id: van-gestel-tarnita-2017-origin-biological-construction
+  type: journal-article
+  authors: van Gestel, J., & Tarnita, C. E.
+  year: 2017
+  title: 'On the Origin of Biological Construction, with a Focus on Multicellularity'
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '114'
+  issue: '42'
+  pages: 11018–11026
+  doi: 10.1073/pnas.1704631114
+  verification:
+    status: verified
+    authority: National Academy of Sciences and PubMed
+    verifiedDate: 2026-08-10
+- id: buss-1987-evolution-individuality
+  type: book
+  authors: Buss, L. W.
+  year: 1987
+  title: The Evolution of Individuality
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press, NLM Catalog, and WorldCat
+    verifiedDate: 2026-08-10
+- id: michod-2007-evolution-individuality-multicellular-life
+  type: journal-article
+  authors: Michod, R. E.
+  year: 2007
+  title: Evolution of Individuality During the Transition from Unicellular to Multicellular Life
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '104'
+  issue: 'suppl_1'
+  pages: 8613–8618
+  doi: 10.1073/pnas.0701489104
+  verification:
+    status: verified
+    authority: National Academy of Sciences
+    verifiedDate: 2026-08-10
+- id: bourke-2011-principles-social-evolution
+  type: book
+  authors: Bourke, A. F. G.
+  year: 2011
+  title: Principles of Social Evolution
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199231157.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-10
+- id: aktipis-et-al-2015-cancer-tree-life
+  type: journal-article
+  authors: Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S.
+  year: 2015
+  title: 'Cancer Across the Tree of Life: Cooperation and Cheating in Multicellularity'
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  volume: '370'
+  issue: '1673'
+  pages: '20140219'
+  doi: 10.1098/rstb.2014.0219
+  verification:
+    status: verified
+    authority: The Royal Society and PubMed
+    verifiedDate: 2026-08-10
+- id: griesemer-2013-integration-model-taxon-research
+  type: journal-article
+  authors: Griesemer, J.
+  year: 2013
+  title: Integration of Approaches in David Wake's Model-Taxon Research Platform for Evolutionary Morphology
+  journal: 'Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences'
+  volume: '44'
+  issue: '4'
+  pages: 525–536
+  doi: 10.1016/j.shpsc.2013.03.021
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: brigandt-green-omalley-2017-systems-biology-mechanistic-explanation
+  type: book-chapter
+  authors: Brigandt, I., Green, S., & O'Malley, M. A.
+  year: 2017
+  title: Systems Biology and Mechanistic Explanation
+  book-title: The Routledge Handbook of Mechanisms and Mechanical Philosophy
+  editors: Glennan, S., & Illari, P.
+  publisher: Routledge
+  pages: 362–374
+  doi: 10.4324/9781315731544-27
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-08-10
+
+
+
+
+
