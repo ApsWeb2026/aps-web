@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-04
-revised: 2026-08-04
+revised: 2026-08-10
 cluster: philosophy-of-biology
 role: anchor
 
@@ -59,6 +59,7 @@ relatedArticles:
   - aps-and-systems-theory
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
+  - comparative-explanatory-methodology-theoretical-biology
 
 references:
   - spencer-2026-agency-defining-activity-life
@@ -82,6 +83,8 @@ references:
 ## Why Compare APS and the Free Energy Principle?
 
 Among contemporary attempts to understand living systems, few frameworks have attracted as much attention as the Free Energy Principle (FEP). Developed initially within theoretical neuroscience and subsequently extended to biology, cognition, and complex systems, FEP proposes a mathematically unified account of how self-organising systems maintain themselves in uncertain environments. Through the language of variational free energy, active inference, and organism–environment coupling, it seeks to explain how living systems preserve their organisation while continually interacting with changing conditions.
+
+The comparison follows the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). It begins by distinguishing explanatory targets, organising principles, and explanatory priorities before assessing convergence, difference, or complementarity.
 
 The Agency–Process–Scale (APS) framework begins from a different starting point. Rather than asking how adaptive behaviour can be modelled mathematically, APS investigates the biological organisation that makes adaptive behaviour possible. It proposes that life is best understood as viability-oriented, constraint-closed organisation, and that biological explanation becomes more coherent when concepts such as agency, function, development, evolution, ecology, and cognition are interpreted as complementary explanatory perspectives on organised persistence.
 

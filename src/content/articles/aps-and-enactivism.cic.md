@@ -4,7 +4,7 @@ title: Why Life Is Not Enactivism
 slug: why-life-is-not-enactivism
 type: article
 status: canonical
-revised: 2026-04-29
+revised: 2026-08-10
 cluster: philosophy-of-biology
 abstract: >
   Enactivism proposes that cognition arises through the dynamic interaction between organism and environment, emphasising embodiment, sense-making, and lived experience. While this approach captures important aspects of biological organisation, it does not fully explain the viability-oriented, constraint-closed organisation that defines living systems. APS grounds cognition in viability-oriented organisation, showing that sense-making is an expression of evaluative activity, and that cognition arises only when this activity becomes sufficiently integrated and temporally extended.
@@ -24,6 +24,7 @@ relatedGlossaryTerms:
   - semiosis
   - coupling
 relatedArticles:
+  - comparative-explanatory-methodology-theoretical-biology
   - aps-and-contemporary-theories
   - organism-world-coupling-agency-not-control
   - explanatory-priority-is-not-ontological-priority
@@ -67,6 +68,8 @@ references:
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
 This article examines enactivism (Varela et al. 1991, Thompson 2007) and shows why it does not by itself explain what distinguishes living systems as viability-oriented, constraint-closed organisation. For the positive account, see **[What Is Life?](/articles/what-is-life-a-biological-question-revisited/)**.
+
+The comparison is situated within the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). Enactivism and APS are examined through their explanatory targets, organising principles, conceptual architectures, characteristic strengths, and explanatory scope before their similarities and differences are assessed.
 
 ## The Appeal of Enactivism
 

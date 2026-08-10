@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-08-07
+revised: 2026-08-10
 cluster: philosophy-of-biology
 role: synthesis
 
@@ -51,6 +51,7 @@ relatedArticles:
   - aps-and-contemporary-theories
   - biological-explanation-and-organised-persistence
   - why-aps-reframes-biology
+  - comparative-explanatory-methodology-theoretical-biology
 
 references:
   - barbieri-2008-life-is-semiosis
@@ -87,7 +88,7 @@ The Agency–Process–Scale (APS) framework shares many of these broader commit
 
 Despite these shared commitments, the two frameworks differ in their explanatory priorities. Biosemiotics places semiosis at the centre of its explanatory architecture, interpreting living systems as fundamentally organised through the production and interpretation of signs. APS asks a different explanatory question. It understands living systems as viability-oriented organisation and explains biological meaning through agency, biological evaluation, and the generation of biological significance. Within APS, semiosis is neither rejected nor diminished. Rather, it is interpreted as one organisational process through which biologically significant relations may be generated, coordinated, and stabilised. Meaning is therefore explained through the organisation of living activity rather than being treated as originating in semiosis itself.
 
-This difference does not imply that the two frameworks are mutually exclusive or that one replaces the other. The purpose of the present article is not to adjudicate between competing theories of life, nor to argue that one framework should supersede the other. Instead, the article adopts the comparative explanatory methodology developed throughout the APS corpus. Comparative methodology asks what each framework seeks to explain, which explanatory questions it treats as fundamental, where its explanatory strengths lie, and how its concepts relate to alternative approaches. In this sense, comparison is directed toward explanatory priorities rather than theoretical competition.
+This difference does not imply that the two frameworks are mutually exclusive or that one replaces the other. The purpose of the present article is not to adjudicate between competing theories of life, nor to argue that one framework should supersede the other. Instead, the article follows the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). Biosemiotics and APS are therefore compared through their explanatory targets, organising principles, explanatory priorities, conceptual architectures, domains of strength, and explanatory scope rather than through isolated terminology or theoretical competition.
 
 The comparison is especially significant because both APS and biosemiotics occupy similar positions within contemporary theoretical biology. Each seeks to clarify the conceptual foundations of biological explanation. Each regards organisation as central to understanding living systems. Each challenges reductionist interpretations that identify biological explanation with the description of mechanisms alone. Yet they differ in how they organise the relationship between agency, meaning, information, communication, cognition, and biological organisation. These differences are not merely terminological. They reflect distinct conceptions of what biological explanation should ultimately explain.
 

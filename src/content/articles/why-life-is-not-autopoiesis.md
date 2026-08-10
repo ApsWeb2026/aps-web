@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-06-17
+revised: 2026-08-10
 cluster: philosophy-of-biology
 abstract: |
   Autopoiesis transformed theoretical biology by explaining living systems in terms of self-producing organisation rather than constituent components. APS accepts this foundational insight but argues that self-production alone does not fully explain regulation, agency, viability, historical continuity, or evolutionary transformation. This article examines the relationship between autopoiesis, autonomy theory, and APS, showing how APS extends the organisational tradition through a unified account of viability-oriented organised persistence.
@@ -24,6 +24,7 @@ relatedGlossaryTerms:
   - normativity
   - evolution
 relatedArticles:
+  - comparative-explanatory-methodology-theoretical-biology
   - aps-and-contemporary-theories
   - aps-and-autonomy-theory
   - constraint-closure-what-it-does-and-does-not-do
@@ -125,6 +126,8 @@ Autopoiesis represents one of the most influential developments in modern theore
 APS fully accepts the importance of this organisational turn. The recognition that living systems are organisationally constituted rather than reducible to their material components forms part of the intellectual foundation upon which APS is built. Yet APS also argues that self-production alone cannot fully explain the distinctive character of living organisation. Questions concerning regulation, agency, viability, historical continuity, and evolution require additional conceptual development beyond the original autopoietic framework.
 
 Understanding this relationship is important because APS should not be understood as rejecting autopoiesis. Rather, APS develops a line of theoretical inquiry that began with autopoiesis, was subsequently extended through autonomy theory, and continues through contemporary organisational approaches to biology. The question is therefore not whether autopoiesis was correct, but whether self-production alone is sufficient to explain life.
+
+The comparison is situated within the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). The purpose is to clarify the explanatory architecture of each approach before determining whether their similarities represent equivalence, complementarity, or substantive difference.
 
 ## The Autopoietic Insight
 

@@ -300,7 +300,7 @@ Mechanistic explanation, evolutionary explanation, information-theoretic explana
 
 APS argues that these explanatory domains belong together because they are all analysing different aspects of organised persistence.
 
-APS extends this integrative approach to contemporary theoretical biology itself. Rather than treating influential frameworks as competing alternatives, APS compares the distinctive explanatory contributions they make to understanding living organisation. This comparative methodology is introduced in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where APS examines how different explanatory priorities can illuminate complementary aspects of organised persistence.
+APS extends this integrative approach to contemporary theoretical biology itself. Rather than treating influential frameworks as competing alternatives, APS compares the distinctive explanatory contributions they make to understanding living organisation. The formal protocol is developed in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/), while [APS and Contemporary Theories](/articles/aps-and-contemporary-theories/) introduces the wider comparative programme. Individual applications include [APS and the Free Energy Principle](/articles/aps-and-the-free-energy-principle/), where different explanatory priorities are examined as potentially complementary contributions to understanding organised persistence.
 
 This provides:
 - a unified explanatory framework,

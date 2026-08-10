@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-08-08
+revised: 2026-08-10
 
-cluster: philosophy-of-biology
+cluster: methodology-and-explanation
 role: anchor
 
 abstract: >
@@ -51,6 +51,8 @@ relatedArticles:
   - why-life-is-not-enactivism
   - aps-and-the-free-energy-principle
   - aps-and-contemporary-theories
+  - explanatory-geometry-of-biology
+  - how-does-scientific-explanation-reach-reality
 
 references:
   - hempel-oppenheim-1948-studies-logic-explanation

@@ -47,6 +47,7 @@ relatedGlossaryTerms:
   - organisational-realism
 
 relatedArticles:
+  - comparative-explanatory-methodology-theoretical-biology
   - why-aps-reframes-biology
   - aps-as-philosophy-biological-intelligibility
   - why-aps-is-not-hierarchical
