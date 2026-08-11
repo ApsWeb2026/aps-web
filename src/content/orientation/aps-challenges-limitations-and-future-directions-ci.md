@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-08
-revised: 2026-08-11
+revised: 2026-06-11
 cluster: conceptual-foundations
 
 abstract: >
