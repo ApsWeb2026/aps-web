@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-08
-revised: 2026-06-11
+revised: 2026-08-11
 cluster: conceptual-foundations
 
 abstract: >
@@ -240,7 +240,6 @@ Framework or methodological status therefore does not exempt APS from scientific
 [[box:what-would-count-against-an-aps-interpretation]]
 
 <div class="aps-diagram aps-diagram-large">
-
   <a
     href="/assets/diagrams/evaluating-an-aps-claim.png"
     target="_blank"
@@ -252,7 +251,6 @@ Framework or methodological status therefore does not exempt APS from scientific
       loading="lazy"
     />
   </a>
-
 </div>
 
 <p class="diagram-caption">
@@ -584,8 +582,6 @@ Each response therefore concludes with one of three assessments:
 - **Open scientific challenge** — APS has not yet demonstrated an adequate answer.
 
 Conceptual clarification should not be mistaken for empirical resolution. Showing what APS means is different from showing that its interpretation is biologically useful.
-
-[[box:three-kinds-of-criticism]]
 
 ### Is APS a biological theory, a metatheory, or a methodology?
 
