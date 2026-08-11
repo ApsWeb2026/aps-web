@@ -239,6 +239,33 @@ Framework or methodological status therefore does not exempt APS from scientific
 
 [[box:what-would-count-against-an-aps-interpretation]]
 
+<div class="aps-diagram aps-diagram-large">
+
+  <a
+    href="/assets/diagrams/evaluating-an-aps-claim.png"
+    target="_blank"
+    rel="noopener"
+  >
+    <img
+      src="/assets/diagrams/evaluating-an-aps-claim.png"
+      alt="Evaluation cycle for an APS claim, moving from the claim through operational specification, biological application, and comparative verdict to restriction or revision, which informs a revised claim."
+      loading="lazy"
+    />
+  </a>
+
+</div>
+
+<p class="diagram-caption">
+  An APS claim is not confirmed merely because it can be applied to a
+  biological case. Operational specification, biological evidence, and
+  comparison may strengthen, restrict, or require revision of the
+  interpretation.
+</p>
+
+<p class="diagram-hint">
+  Click the diagram to open a larger version.
+</p>
+
 ### Evaluating different kinds of claim
 
 A **definitional claim** proposes how a biological phenomenon should be identified. The APS definition of biological agency, for example, must distinguish viability-oriented organisational activity from behaviour, feedback, or regulation that does not exhibit the relevant organisation. The definition of organised persistence must distinguish biological continuity from duration, physical stability, or repetition. Definitional claims are weakened when they are circular, apply indiscriminately, or fail to distinguish relevant alternatives.
