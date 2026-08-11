@@ -2259,6 +2259,165 @@ references:
     status: verified
     authority: Routledge
     verifiedDate: 2026-08-10
+- id: arenas-gomez-sabin-echeverri-2020-wound-healing
+  type: journal-article
+  authors: Arenas Gómez, C. M., Sabin, K. Z., & Echeverri, K.
+  year: 2020
+  title: 'Wound Healing Across the Animal Kingdom: Crosstalk Between the Immune System and the Extracellular Matrix'
+  journal: Developmental Dynamics
+  volume: '249'
+  issue: '7'
+  pages: 834–846
+  doi: 10.1002/dvdy.178
+  verification:
+    status: verified
+    authority: Wiley Online Library
+    verifiedDate: 2026-08-11
+- id: gilbert-epel-2015-ecological-developmental-biology
+  type: book
+  authors: Gilbert, S. F., & Epel, D.
+  year: 2015
+  title: 'Ecological Developmental Biology: The Environmental Regulation of Development, Health, and Evolution'
+  edition: 2nd
+  publisher: Sinauer Associates
+  verification:
+    status: verified
+    authority: Sinauer Associates / Oxford University Press
+    verifiedDate: 2026-08-11
+- id: hall-2003-descent-modification-homology-homoplasy
+  type: journal-article
+  authors: Hall, B. K.
+  year: 2003
+  title: 'Descent with Modification: The Unity Underlying Homology and Homoplasy as Seen Through an Analysis of Development and Evolution'
+  journal: Biological Reviews
+  volume: '78'
+  issue: '3'
+  pages: 409–433
+  doi: 10.1017/S1464793102006097
+  verification:
+    status: verified
+    authority: Cambridge University Press / Crossref
+    verifiedDate: 2026-08-11
+- id: hanahan-weinberg-2011-hallmarks-cancer-next-generation
+  type: journal-article
+  authors: Hanahan, D., & Weinberg, R. A.
+  year: 2011
+  title: 'Hallmarks of Cancer: The Next Generation'
+  journal: Cell
+  volume: '144'
+  issue: '5'
+  pages: 646–674
+  doi: 10.1016/j.cell.2011.02.013
+  verification:
+    status: verified
+    authority: Cell Press / Elsevier
+    verifiedDate: 2026-08-11
+- id: knoll-2011-multiple-origins-complex-multicellularity
+  type: journal-article
+  authors: Knoll, A. H.
+  year: 2011
+  title: The Multiple Origins of Complex Multicellularity
+  journal: Annual Review of Earth and Planetary Sciences
+  volume: '39'
+  issue: '1'
+  pages: 217–239
+  doi: 10.1146/annurev.earth.031208.100209
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-11
+- id: love-2014-erotetic-organization-developmental-biology
+  type: book-chapter
+  authors: Love, A. C.
+  year: 2014
+  title: The Erotetic Organization of Developmental Biology
+  book-title: Towards a Theory of Development
+  editors: Minelli, A., & Pradeu, T.
+  publisher: Oxford University Press
+  pages: 33–55
+  doi: 10.1093/acprof:oso/9780199671427.003.0003
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-08-11
+- id: nicotra-et-al-2010-plant-phenotypic-plasticity-climate
+  type: journal-article
+  authors: Nicotra, A. B., Atkin, O. K., Bonser, S. P., Davidson, A. M., Finnegan, E. J., Mathesius, U., Poot, P., Purugganan, M. D., Richards, C. L., Valladares, F., & van Kleunen, M.
+  year: 2010
+  title: Plant Phenotypic Plasticity in a Changing Climate
+  journal: Trends in Plant Science
+  volume: '15'
+  issue: '12'
+  pages: 684–692
+  doi: 10.1016/j.tplants.2010.09.008
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-08-11
+- id: niklas-newman-2013-origins-multicellular-organisms
+  type: journal-article
+  authors: Niklas, K. J., & Newman, S. A.
+  year: 2013
+  title: The Origins of Multicellular Organisms
+  journal: Evolution & Development
+  volume: '15'
+  issue: '1'
+  pages: 41–52
+  doi: 10.1111/ede.12013
+  verification:
+    status: verified
+    authority: Wiley Online Library
+    verifiedDate: 2026-08-11
+- id: pigliucci-2001-phenotypic-plasticity
+  type: book
+  authors: Pigliucci, M.
+  year: 2001
+  title: 'Phenotypic Plasticity: Beyond Nature and Nurture'
+  publisher: Johns Hopkins University Press
+  doi: 10.56021/9780801867880
+  verification:
+    status: verified
+    authority: Johns Hopkins University Press / Crossref
+    verifiedDate: 2026-08-11
+- id: ratcliff-et-al-2013-alternating-life-cycle
+  type: journal-article
+  authors: Ratcliff, W. C., Herron, M. D., Howell, K., Pentz, J. T., Rosenzweig, F., & Travisano, M.
+  year: 2013
+  title: Experimental Evolution of an Alternating Uni- and Multicellular Life Cycle in Chlamydomonas reinhardtii
+  journal: Nature Communications
+  volume: '4'
+  issue: '1'
+  article-number: '2742'
+  doi: 10.1038/ncomms3742
+  verification:
+    status: verified
+    authority: Nature Communications / Springer Nature
+    verifiedDate: 2026-08-11
+- id: sultan-2015-organism-environment
+  type: book
+  authors: Sultan, S. E.
+  year: 2015
+  title: 'Organism and Environment: Ecological Development, Niche Construction, and Adaptation'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199587070.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-08-11
+- id: via-et-al-1995-adaptive-phenotypic-plasticity
+  type: journal-article
+  authors: Via, S., Gomulkiewicz, R., de Jong, G., Scheiner, S. M., Schlichting, C. D., & van Tienderen, P. H.
+  year: 1995
+  title: 'Adaptive Phenotypic Plasticity: Consensus and Controversy'
+  journal: Trends in Ecology & Evolution
+  volume: '10'
+  issue: '5'
+  pages: 212–217
+  doi: 10.1016/S0169-5347(00)89061-8
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-08-11
 
 
 
