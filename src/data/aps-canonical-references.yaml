@@ -2418,6 +2418,91 @@ references:
     status: verified
     authority: Elsevier / ScienceDirect
     verifiedDate: 2026-08-11
+- id: mossio-montevil-longo-2016-theoretical-principles-organization
+  type: journal-article
+  authors: Mossio, M., Montévil, M., & Longo, G.
+  year: 2016
+  title: 'Theoretical Principles for Biology: Organization'
+  journal: Progress in Biophysics and Molecular Biology
+  volume: '122'
+  issue: '1'
+  pages: 24–35
+  doi: 10.1016/j.pbiomolbio.2016.07.005
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect and PubMed
+    verifiedDate: 2026-08-11
+- id: virenque-mossio-2024-what-is-agency
+  type: journal-article
+  authors: Virenque, L., & Mossio, M.
+  year: 2024
+  title: 'What Is Agency? A View from Autonomy Theory'
+  journal: Biological Theory
+  volume: '19'
+  issue: '1'
+  pages: 11–15
+  doi: 10.1007/s13752-023-00441-5
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-11
+- id: difrisco-gawne-2025-biological-agency-research-program
+  type: journal-article
+  authors: DiFrisco, J., & Gawne, R.
+  year: 2025
+  title: 'Biological Agency: A Concept Without a Research Program'
+  journal: Journal of Evolutionary Biology
+  volume: '38'
+  issue: '2'
+  pages: 143–156
+  doi: 10.1093/jeb/voae153
+  verification:
+    status: verified
+    authority: Oxford University Press and PubMed
+    verifiedDate: 2026-08-11
+- id: noble-2012-biological-relativity
+  type: journal-article
+  authors: Noble, D.
+  year: 2012
+  title: 'A Theory of Biological Relativity: No Privileged Level of Causation'
+  journal: Interface Focus
+  volume: '2'
+  issue: '1'
+  pages: 55–64
+  doi: 10.1098/rsfs.2011.0067
+  verification:
+    status: verified
+    authority: The Royal Society
+    verifiedDate: 2026-08-11
+- id: love-2008-evolutionary-innovations-novelties
+  type: journal-article
+  authors: Love, A. C.
+  year: 2008
+  title: 'Explaining Evolutionary Innovations and Novelties: Criteria of Explanatory Adequacy and Epistemological Prerequisites'
+  journal: Philosophy of Science
+  volume: '75'
+  issue: '5'
+  pages: 874–886
+  doi: 10.1086/594531
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-11
+- id: newman-et-al-2025-agency-multicellularity
+  type: journal-article
+  authors: Newman, S. A., Benítez, M., Bhat, R., Glimm, T., Vijay Kumar, K., Nanjundiah, V., Nicholson, D. J., & Sarkar, S.
+  year: 2025
+  title: 'Agency in the Evolutionary Transition to Multicellularity'
+  journal: The Quarterly Review of Biology
+  volume: '100'
+  issue: '2'
+  pages: 83–118
+  doi: 10.1086/735964
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-11
+
 
 
 
