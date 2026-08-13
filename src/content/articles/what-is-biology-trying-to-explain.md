@@ -5,34 +5,35 @@ slug: what-is-biology-trying-to-explain
 type: article
 status: draft
 canonical: false
-revised: 2026-07-29
+revised: 2026-08-13
 cluster: conceptual-foundations
 role: synthesis
 
 abstract: >
-  What is biology trying to explain? This question has accompanied biology throughout its history, yet it has received remarkably different answers. Biology explains an extraordinary diversity of living phenomena, from molecular
-  interactions and development to evolution, ecology, and behaviour. Beneath this
-  diversity lies a deeper scientific question: what unifies these explanations as
-  explanations of living systems? This article explores the historical and
-  contemporary search for that question, showing how different biological traditions
-  have approached it and why organisation has become an increasingly important
-  explanatory perspective. It then introduces the APS Framework as one proposal for
-  understanding biology through the concept of organised persistence, providing an
-  intellectual gateway to the broader APS corpus.
+  Biology explains an extraordinary range of living phenomena through different
+  questions, methods, and explanatory traditions. This diversity is one of
+  biology's strengths, but it also raises a deeper question: how do these
+  explanations relate as explanations of living systems? This article introduces
+  the APS proposal that biology's distinctive explanatory achievements can be
+  compared by asking what each contributes to understanding how living systems
+  persist through change. APS calls this achievement organised persistence and
+  examines it through Agency, Process, and Scale.
 
 keyPoints:
-  - Biology explains many different aspects of living systems.
-  - These explanations raise a deeper question about biology's common explanatory focus.
-  - The search for explanatory unity has a long history.
-  - Organisation has become an increasingly important explanatory perspective.
-  - APS approaches this question through organised persistence.
-  - This article introduces the question that motivates the APS Framework.
+  - Biology explains living systems through many different questions, methods, and traditions.
+  - Biology's explanatory diversity is a scientific strength rather than a deficiency.
+  - Explanatory diversity does not remove the need to investigate how biological explanations relate.
+  - Living systems persist through change because their continuity is actively organised.
+  - APS calls this achievement organised persistence.
+  - Agency, Process, and Scale provide different ways of examining the same living organisation.
+  - APS compares what different biological approaches contribute to understanding organised persistence.
 
 relatedGlossaryTerms:
   - Life
   - Biological Agency
+  - Process
+  - Scale
   - Organised Persistence
-  - Function
   - Biological Explanation
 
 relatedArticles:
@@ -40,226 +41,226 @@ relatedArticles:
   - naturalising-life
   - how-aps-explains-life
   - the-core-structure-of-aps-how-the-framework-fits-together
-  - what-is-life-a-biological-question-revisited
-  - biological-agency-as-the-activity-of-self-maintenance
-  - biological-individuality-organised-persistence-through-time
-  - how-did-matter-become-aware-of-itself
 
 references:
-  - id: aristotle-1937-parts-animals
-    authors: Aristotle
-    year: 1937
-    title: Parts of Animals
-    publisher: Harvard University Press
-
-  - id: bernard-1865-introduction-medicine-experimentale
-    authors: Bernard, C.
-    year: 1865
-    title: Introduction à l'étude de la médecine expérimentale
-    publisher: J.-B. Baillière et fils
-
-  - id: darwin-1859-origin
-    authors: Darwin, C.
-    year: 1859
-    title: On the Origin of Species
-    publisher: John Murray
-
-  - id: mayr-1982-growth-biological-thought
-    authors: Mayr, E.
-    year: 1982
-    title: The Growth of Biological Thought
-    publisher: Belknap Press of Harvard University Press
-
-  - id: mayr-1988-new-philosophy-biology
-    authors: Mayr, E.
-    year: 1988
-    title: Toward a New Philosophy of Biology
-    publisher: Belknap Press of Harvard University Press
-
-  - id: jacob-1973-logic-life
-    authors: Jacob, F.
-    year: 1973
-    title: The Logic of Life
-    publisher: Pantheon Books
-
-  - id: monod-1971-chance-necessity
-    authors: Monod, J.
-    year: 1971
-    title: Chance and Necessity
-    publisher: Alfred A. Knopf
-
-  - id: nicholson-2025-what-is-life
-    authors: Nicholson, D. J.
-    year: 2025
-    title: What Is Life? Revisited
-    publisher: Cambridge University Press
-    doi: 10.1017/9781009127318
-
-  - id: rosen-1991-life-itself
-    authors: Rosen, R.
-    year: 1991
-    title: Life Itself
-    publisher: Columbia University Press
-
-  - id: moreno-mossio-2015-biological-autonomy
-    authors: Moreno, A., & Mossio, M.
-    year: 2015
-    title: Biological Autonomy
-    publisher: Springer
-    doi: 10.1007/978-94-017-9837-2
-
-  - id: craver-2007-explaining-the-brain
-    authors: Craver, C. F.
-    year: 2007
-    title: Explaining the Brain
-    publisher: Oxford University Press
-    doi: 10.1093/acprof:oso/9780199299317.001.0001
-
-  - id: bechtel-2008-mental-mechanisms
-    authors: Bechtel, W.
-    year: 2008
-    title: Mental Mechanisms
-    publisher: Psychology Press
-
-  - id: kitano-2002-systems-biology
-    authors: Kitano, H.
-    year: 2002
-    title: Systems Biology
-    journal: Science
-    volume: "295"
-    issue: "5560"
-    pages: "1662–1664"
-    doi: 10.1126/science.1069492
-
-  - id: kirschner-gerhart-2005-plausibility-life
-    authors: Kirschner, M. W., & Gerhart, J. C.
-    year: 2005
-    title: The Plausibility of Life
-    publisher: Yale University Press
-
-  - id: kauffman-1993-origins-order
-    authors: Kauffman, S. A.
-    year: 1993
-    title: The Origins of Order
-    publisher: Oxford University Press
-    doi: 10.1093/oso/9780195079517.001.0001
-
-  - id: spencer-2026-agency-defining-activity-life
-    authors: Spencer, R. D.
-    year: 2026
-    title: Agency as the Defining Activity of Life
-    journal: Biological Theory
-    doi: 10.1007/s13752-026-00547-6
+  - aristotle-1937-parts-animals
+  - bernard-1865-introduction-medicine-experimentale
+  - darwin-1859-origin
+  - mayr-1982-growth-biological-thought
+  - mitchell-2002-integrative-pluralism
+  - potochnik-2017-idealization-aims-science
+  - machamer-darden-craver-2000-mechanisms
+  - kitano-2002-systems-biology-overview
+  - moreno-mossio-2015-biological-autonomy
+  - nicholson-dupre-2018-everything-flows
+  - nicholson-2025-what-is-life
+  - spencer-2026-agency-defining-activity-life
 ---
 
-## Introduction: What is biology trying to explain?
+## Introduction: What is Biology Trying to Explain?
 
-At first sight, the answer seems obvious. Biology investigates living systems: genes, cells, organisms, development, evolution, behaviour, ecosystems, and countless other aspects of the living world. Yet this diversity raises a deeper question. What makes these subjects parts of a single science? What unites such varied fields as different ways of explaining life rather than merely describing physical and chemical processes?
+Biology explains an extraordinary range of living phenomena. Genetics explains inheritance. Physiology explains how organisms coordinate their activities. Developmental biology explains how living forms arise and change. Evolutionary biology explains adaptation and diversification, while ecology explains the relationships between organisms and their environments.
 
-Over the past two centuries, biology has achieved extraordinary explanatory success. Genetics explains inheritance, evolutionary theory explains adaptation and diversification, physiology explains the coordinated functioning of organisms, developmental biology explains the emergence of form, and ecology explains the relationships between organisms and their environments. Together these disciplines have transformed our understanding of living systems across every scale of biological investigation.
+These are powerful achievements, but they do not all ask the same questions or explain life in the same way. A genetic explanation of inheritance differs from a physiological explanation of regulation, an evolutionary explanation of adaptation, or an ecological explanation of interdependence. This diversity is not a weakness. It reflects the many different features of living systems and the different methods needed to investigate them.
 
-Yet the very success of these explanations invites reflection. Biology explains many different phenomena, but what ultimately makes those explanations biological? What is the common explanatory target that links investigations of molecules, cells, organisms, populations, and ecosystems into a coherent scientific discipline?
+Yet an important question remains. How do these different explanations relate as explanations of living systems?
 
-This question has accompanied biology throughout its history, although it has received remarkably different answers. Some traditions have understood life primarily in terms of substance or vital properties, others in terms of mechanism, function, evolution, information, or organisation. Each perspective has illuminated important aspects of living systems, yet none has achieved universal acceptance as the unifying explanatory focus of biology.
+The question is not whether biology needs one theory to replace its existing disciplines. Nor is it whether genes, mechanisms, evolution, information, or organisation should be declared the single foundation of life. Each can make an important explanatory contribution. The deeper question is whether their relationships can be clarified without reducing them to one another.
 
-The purpose of this article is not to dismiss these achievements or to propose that biology has been asking the wrong questions. Rather, it asks a more fundamental one: what is biology itself trying to explain? Exploring that question reveals an enduring search for a coherent explanatory focus—one that has shaped biological thought from Aristotle to contemporary theoretical biology. It is from within that continuing search, rather than in opposition to it, that the Agency–Process–Scale (APS) Framework is introduced.
+This question remains open despite biology’s extraordinary empirical success. Scientific discoveries continue to reveal how living systems work, develop, evolve, and interact, but they also invite reflection on what makes these phenomena distinctively biological and how different kinds of biological explanation fit together. The continuing discussion of what life is shows that this foundational question has not become obsolete (Nicholson 2025).
 
-## A Question That Has Never Gone Away
+The Agency–Process–Scale Framework begins here. APS accepts biology’s explanatory diversity and does not offer another theory intended to replace it. Instead, it asks what different biological approaches contribute to understanding a striking feature of life: living systems persist despite continual change.
 
-Throughout the history of biology, scientists and philosophers have sought to identify what distinguishes living systems from the wider physical world and what gives biology its distinctive explanatory character. Although the questions have been expressed in different ways, they have consistently reflected a common concern: what should biology regard as its primary explanatory focus?
+This article explores that proposal. It begins with the different answers biology has given to its central explanatory questions, then considers how living systems maintain continuity through change. From there, it introduces organised persistence and explains how APS uses Agency, Process, and Scale to investigate it.
 
-For Aristotle, living beings were distinguished by the organised activities that characterised different forms of life. Plants, animals, and humans were understood through the characteristic capacities they exhibited, and biological explanation sought to account for those activities rather than merely describing their material composition. In the nineteenth century, Claude Bernard argued that biology must discover the organisational principles governing living systems through experimental investigation, while Charles Darwin transformed biology by explaining the historical diversification and adaptation of life through natural selection. Each addressed different biological questions, yet each contributed to the broader search for what makes living systems scientifically intelligible.
+## Biology Has More Than One Kind of Answer
 
-The twentieth century expanded this search still further. Genetics revealed the molecular basis of inheritance, physiology illuminated the coordinated functioning of organisms, developmental biology explained the emergence of biological form, ecology examined the interdependence of organisms and environments, and systems biology explored the dynamic organisation of complex biological networks. Alongside these scientific advances, philosophers and theoretical biologists continued to ask whether biology is fundamentally about mechanisms, functions, information, organisation, evolution, autonomy, or some deeper principle that unifies these diverse explanatory approaches.
+Biological explanations differ because they address different questions. A molecular biologist may ask how a particular gene is expressed. A physiologist may ask how body temperature is regulated. A developmental biologist may ask how tissues become organised. An evolutionary biologist may ask how a trait arose, while an ecologist may ask how organisms persist within changing environments.
 
-This continuing diversity is not a weakness of biology but a reflection of its extraordinary richness. Living systems are organised across many interconnected domains and timescales, and no single scientific discipline can exhaust their complexity. Yet the persistence of competing explanatory frameworks suggests that biology continues to search for a common conceptual focus capable of integrating its many successful theories without diminishing their individual contributions.
+These questions are related, but they are not interchangeable. Explaining how a structure presently works is different from explaining how it evolved. Describing the molecular interactions involved in a process is different from explaining its contribution to the functioning of an organism. Investigating an organism’s internal regulation is different from investigating its ecological relationships.
 
-### Does Biology Need a Unified Organisational Framework?
+No single kind of explanation answers every biological question. This is partly because living systems are extraordinarily complex, but it is also because scientific explanations are selective. They identify particular patterns and relationships according to the question being asked. Different investigations can therefore provide legitimate explanations without offering identical accounts of the same phenomenon (Mitchell 2002; Potochnik 2017).
 
-A reasonable objection is that biology's extraordinary success demonstrates the value of methodological pluralism rather than the need for a unified organisational framework. Modern biology employs diverse explanatory approaches—including molecular biology, physiology, developmental biology, ecology, evolution, and systems biology—because living systems exhibit many different kinds of phenomena. On this view, biology does not require a common organisational framework; its explanatory diversity is a strength rather than a problem.
+Biology’s explanatory diversity should not be treated as a problem that must be eliminated. Mechanistic, evolutionary, developmental, ecological, organisational, and other approaches have achieved their success by concentrating on different features of the living world. Their differences allow biology to explain more, not less.
 
-APS accepts much of this objection. It does not propose replacing biology's specialised disciplines with a single explanatory method, nor does it seek to reduce biological diversity to one theory. Instead, APS asks a different question. If these many approaches are all recognised as biological explanations, what makes them explanations of the same general phenomenon? APS therefore investigates the conceptual organisation of biological explanation rather than attempting to replace its methodological pluralism.
+But accepting this diversity does not mean that biological explanations are unrelated. Genes function within cells, cells participate in organisms, organisms develop and act within environments, and these relationships are transformed through evolution. Explanations directed at one of these concerns may therefore intersect with explanations directed at another.
 
-The question posed at the beginning of this article therefore remains both legitimate and scientifically important. If biology encompasses many different explanatory traditions, what is the common phenomenon that those traditions seek to understand? Before proposing any answer, it is worth examining how contemporary biology itself has approached that challenge.
+The challenge is to understand these relationships without forcing every explanation into one theoretical form. We can ask what each approach explains especially well, where its contribution meets those of other approaches, and what broader features of living systems become clearer when these contributions are considered together.
 
-## Contemporary Biology Still Asks the Same Question
+APS accepts this challenge as a question of comparison rather than unification. It does not ask which biological approach should become the foundation of all the others. It asks how their different achievements contribute to understanding living organisation.
 
-The remarkable achievements of modern biology have not eliminated questions about how its diverse explanatory traditions relate to one another. While many biologists regard methodological pluralism as an enduring strength of the discipline, theoretical biology and philosophy of biology continue to investigate whether these diverse explanations nevertheless share a common conceptual focus. As biological knowledge has expanded, so too has the need to understand how its many explanatory approaches relate to one another.
+## An Enduring Biological Question
 
-Contemporary theoretical biology reflects this continuing effort. Some researchers argue that biological explanation is fundamentally mechanistic, seeking to explain living systems through organised causal mechanisms. Others emphasise organisms as autonomous systems that actively maintain themselves through networks of mutually dependent processes. Process-oriented approaches understand living systems as ongoing organisations rather than static objects, while systems biology investigates how complex interactions generate coherent biological organisation. Still others ask more directly the enduring question: what is life itself?
+Questions about what makes biological explanation distinctive are not new. Throughout its history, biology has approached living beings through different combinations of activity, structure, function, regulation, development, and historical change. These approaches did not all seek the same kind of answer, but each contributed to the continuing effort to make life scientifically intelligible.
 
-These perspectives differ in emphasis, methodology, and conceptual vocabulary, yet they share an important feature. None is satisfied merely with describing biological phenomena. Each seeks to identify what makes those phenomena intelligible as manifestations of living organisation. The continuing diversity of these approaches therefore reflects not disagreement about the value of biology, but continuing exploration of biology's deepest explanatory target.
+Aristotle understood living beings through their characteristic activities, capacities, and forms of organisation. His biology differed greatly from modern science, but it established an enduring idea: explaining an organism involves more than listing the materials from which it is composed. It also involves understanding how those materials participate in the organised activities characteristic of its form of life (Aristotle 1937).
 
-This ongoing discussion has produced important advances. Mechanistic explanation has clarified how organised causal processes produce biological phenomena. Studies of autonomy have illuminated how living systems actively maintain their own organisation. Systems approaches have revealed the importance of dynamic interactions across many domains, while process-oriented perspectives have challenged static conceptions of organisms by emphasising continual organisation through change. Together these developments have greatly enriched our understanding of living systems.
+In the nineteenth century, experimental physiology brought a different explanatory priority to the foreground. Claude Bernard investigated the regulated internal conditions that enable organisms to continue functioning despite changes in their surroundings. His work helped establish that living continuity depends on active physiological regulation rather than passive material stability (Bernard 1865).
 
-Yet they also reveal an important characteristic of contemporary biology. Rather than converging on a single universally accepted conception of life, they illuminate different aspects of biological organisation. Mechanisms, processes, autonomy, evolution, information, regulation, and organisation each contribute to biological explanation without fully exhausting its explanatory scope. The central question therefore remains open: what is the common phenomenon that these diverse explanatory traditions are ultimately trying to understand?
+Darwin transformed biological explanation in another way. Natural selection explained adaptation and diversification historically, showing how present biological forms can be understood through descent, variation, and differential reproduction. Evolutionary explanation did not replace physiological or developmental explanation. It addressed a different question: how living forms and their relationships have changed over generations (Darwin 1859).
 
-The remainder of this article explores one possible answer. Rather than beginning with genes, mechanisms, information, or evolution alone, the Agency–Process–Scale (APS) Framework proposes that biology becomes more coherent when its diverse explanations are understood as different perspectives on the organisation through which living systems persist.
+Later advances in genetics, molecular biology, development, ecology, and systems biology greatly expanded biology’s explanatory reach. They did not produce one universally accepted answer to what biology explains. Instead, they revealed more clearly the variety of questions involved in understanding living systems. The history of biological thought is therefore not a simple progression toward a single explanatory foundation, but a continuing development of different ways of making life intelligible (Mayr 1982).
 
-## A Different Way of Framing the Question
+This history matters because it changes how the opening question should be approached. We need not assume that Aristotle, Bernard, Darwin, and contemporary biology were all trying to explain exactly the same thing. Their differences are part of the evidence. Biology has repeatedly advanced by developing new forms of explanation while retaining questions that other approaches address especially well.
 
-The preceding discussion suggests that biology's central explanatory challenge is not a shortage of successful theories. On the contrary, modern biology possesses an extraordinary range of powerful explanatory frameworks, each illuminating important aspects of living systems. The continuing challenge lies in understanding how these diverse explanations relate to one another and what they are ultimately explanations of.
+The task is therefore not to select one historical tradition as the final answer. It is to ask how these different explanatory achievements relate—and whether living systems present a continuing feature that makes their comparison scientifically productive.
 
-One way of approaching this challenge is to ask not which existing framework is fundamental, but whether they are all directed towards a common explanatory target. Rather than treating mechanisms, evolution, development, physiology, ecology, regulation, or information as competing foundations, it becomes possible to ask whether each captures a different aspect of a more general biological phenomenon.
+## Persistence Through Change
 
-The Agency–Process–Scale (APS) Framework adopts this second approach. It proposes that biology becomes more conceptually coherent when its diverse explanations are understood as different perspectives on the organisation through which living systems maintain themselves through continual change. From this standpoint, biology is not unified because every discipline studies the same structures, processes, or scales, but because each investigates some aspect of the organisation that enables living systems to persist as living systems.
+Living systems persist, but they do not do so by remaining unchanged. Their materials are continually replaced, their activities vary, and their relationships with their surroundings shift. Organisms grow, develop, repair damage, regulate internal conditions, and respond to circumstances that cannot be held constant.
 
-This proposal does not replace existing biological theories or seek to reduce one field of biology to another. Genetics, physiology, developmental biology, ecology, evolutionary biology, systems biology, and many other disciplines continue to investigate their own distinctive questions using their own methods. APS instead asks how these explanations relate as parts of a broader understanding of living organisation. It therefore addresses biology's explanatory architecture rather than its empirical content.
+Even the apparent stability of an organism is therefore an achievement. A living cell must continue exchanging matter and energy with its surroundings. A plant must adjust its growth and physiology as light, water, temperature, and other conditions change. An animal must coordinate metabolism, movement, repair, and behaviour while its internal and external circumstances vary.
 
-Within APS, three complementary perspectives organise this enquiry. Agency asks what living systems do as they actively maintain their own continued functioning. Process asks how that continuity is maintained despite continual material and organisational change. Scale asks where this organisation is realised across spatial and temporal extents, from intracellular dynamics to ecological relationships and evolutionary history. These are not independent components of reality but complementary perspectives on the same organised phenomenon, each highlighting different questions while remaining inseparable in biological explanation.
+Process-oriented biology draws attention to this dynamic character of life. Organisms are not simply structures that happen to undergo change. Their continuity depends on continuing processes that rebuild, regulate, and reorganise them. What requires explanation is not change alone, but how continuity is sustained through change (Nicholson and Dupré 2018).
 
-Seen in this way, APS does not begin with a new biological mechanism or a new empirical discovery. It begins with a proposal about biological explanation itself: that life is most coherently understood as viability-oriented, constraint-closed organisation, and that the diverse explanatory traditions of biology can be interpreted as illuminating different aspects of that organisation. Whether this proposal succeeds is the question explored throughout the APS Framework.
+This continuity is not the preservation of every material component or structural detail. Nor does it require an organism to return continually to one fixed state. Development can transform an organism profoundly while preserving the continuity of its living organisation. Repair may restore functioning through arrangements that differ from those present before damage. Responses to new conditions may alter patterns of activity while maintaining viability.
 
-## Why This Perspective Matters
+Persistence also takes different forms across time. During an individual life, living organisation must continually maintain or re-establish the conditions of its functioning. Across generations, evolution transforms inherited and developmental organisation rather than preserving it unchanged. Continuity and transformation are therefore not opposites. Biological persistence often depends on the capacity for organised change.
 
-If biology is understood as the study of viability-oriented, constraint-closed organisation, many familiar biological disciplines can be seen in a new relationship to one another. Rather than appearing as separate explanations concerned with different kinds of phenomena, they become complementary perspectives on the organisation through which living systems originate, maintain themselves, adapt, and transform.
+APS calls this achievement **organised persistence**. The term refers to continuity sustained through living organisation despite material turnover, changing conditions, and continuing reorganisation. It does not mean mere survival, static endurance, or the persistence of anything that happens to last. A rock may endure, but it does not actively organise the conditions of its continued existence in the way a living system does.
 
-This perspective does not diminish the importance of specialised biological research. On the contrary, it depends upon it. Molecular biology reveals the biochemical organisation that enables living systems to function. Physiology explains how organisms coordinate their activities in the present. Developmental biology investigates how organised living systems arise and differentiate. Evolutionary biology explains how biological organisation changes across generations. Ecology examines how living systems persist within wider environmental relationships. Each discipline contributes indispensable insights while addressing different aspects of the same underlying organisational reality.
+Organised persistence does not replace the question of what life is. APS retains the more precise definition:
 
-Viewing biology in this way also helps clarify why concepts such as mechanism, function, regulation, information, organisation, and evolution have all proved so productive without any one of them becoming biology's single unifying principle. Each captures an important dimension of living organisation, yet each remains partial when considered in isolation. Their explanatory power arises not because they compete to explain life, but because they illuminate different features of the organised persistence characteristic of living systems.
+> **Life is viability-oriented, constraint-closed organisation.**
 
-This perspective has implications beyond the integration of existing biological disciplines. It provides a common conceptual language through which questions about agency, cognition, individuality, evolution, development, and social organisation can be understood as related rather than disconnected domains of enquiry. The aim is not to collapse these fields into a single theory, but to reveal the organisational relationships that make their connections scientifically intelligible.
+In simpler terms, living systems are organised in ways that continually maintain and re-establish the conditions needed for their continued functioning. Organised persistence identifies the continuity achieved through that activity.
 
-The Agency–Process–Scale Framework therefore offers an explanatory orientation rather than a substitute for biology itself. It seeks to clarify the organisation that biological research investigates, allowing diverse explanatory traditions to be understood as complementary contributions to a broader scientific understanding of life. In doing so, APS encourages biology to ask not only how living systems function, develop, evolve, and interact, but also how these diverse explanations together illuminate the organisation that makes life possible.
+This gives the opening question a more focused form. Instead of asking which biological theory provides the single explanation of life, APS asks what different biological explanations contribute to understanding how living organisation persists through change.
 
-APS is not another biological theory. It is a framework for understanding how biological explanations relate to one another.
+## The APS Proposal
 
-## Continuing the Exploration
+APS begins with a simple proposal: biology’s different explanations can be compared by asking what each contributes to understanding organised persistence.
 
-The question posed at the beginning of this article—What is biology trying to explain?—does not admit a simple or final answer. It has shaped biological thought for centuries and continues to motivate contemporary research across many fields. The Agency–Process–Scale (APS) Framework offers one proposal for understanding that question: that the diverse explanatory traditions of biology become more coherent when viewed as complementary perspectives on the viability-oriented, constraint-closed organisation through which living systems persist.
+This does not mean that every biological discipline is secretly explaining the same thing. Genetics, physiology, development, evolution, ecology, and other fields address distinct questions and phenomena. APS does not reduce their explanations to one theory or judge them by a single method. It asks how their different achievements clarify the organisation through which living systems persist.
 
-Whether that proposal is persuasive is for readers to judge. APS is intended not as a conclusion to biological enquiry but as a framework for extending it. It invites readers to reconsider familiar biological concepts, explore their relationships, and ask how different explanatory traditions contribute to a more integrated understanding of life.
+APS is therefore a **comparative explanatory methodology**. In simpler terms, it is a way of comparing biological explanations while preserving what each explains especially well.
 
-The APS website has been organised to support that exploration from multiple starting points.
+For any biological approach, APS begins with three questions:
 
-Readers who wish to understand the conceptual foundations of the framework may begin with What Is APS?, Naturalising Life, How APS Explains Life, and The Core Structure of APS. These articles introduce the central ideas and explain how Agency, Process, and Scale function as complementary perspectives on living organisation.
+- What does this approach explain?
+- What does it explain especially well?
+- What does it contribute to understanding organised persistence?
 
-Those interested in broader biological questions may wish to continue with articles exploring the nature of life, biological agency, organised persistence, evolution, cognition, biological individuality, morality, environmental ethics, and many other topics. Each examines a particular domain while contributing to the wider explanatory architecture of the framework.
+A mechanistic explanation might reveal how a particular biological process works. An evolutionary explanation might show how a trait or organisation arose and changed historically. An ecological explanation might clarify how an organism’s continued functioning depends on its relationships with its surroundings. APS does not replace any of these explanations. It asks how their different contributions relate to the persistence of living organisation.
 
-Others may prefer to explore the APS Glossary, where the core concepts are defined and connected through a coherent conceptual network. Together with the Architecture Map and Research section, these resources are intended to show how individual ideas relate to one another within the broader organisation of the framework.
+Organised persistence is therefore an explanatory target, not a new biological mechanism. It identifies what APS is trying to make more intelligible through comparison. Whether it proves useful depends on the explanatory work it enables: whether it clarifies relationships that would otherwise remain obscure, helps distinguish different biological questions, and supports further scientific investigation.
 
-The APS Framework is an evolving programme of research rather than a finished system. As new empirical discoveries, theoretical developments, and philosophical discussions emerge, the framework will continue to develop alongside them. Its aspiration is not to provide the final word on biological explanation, but to contribute to an ongoing scientific conversation about one of biology's most enduring questions: what is it that living systems are, and what, ultimately, is biology trying to explain?
+APS also begins from biological agency. Living systems do not merely undergo change; through their activities they regulate, repair, respond, and reorganise. Biological agency is the viability-oriented organisational activity through which living systems maintain and re-establish the conditions of their persistence (Spencer 2026).
 
-## Understanding the Framework
+This does not imply conscious intention or decision-making. A cell regulating its internal conditions and a plant adjusting its growth are not assumed to deliberate about future outcomes. Their agency lies in the organised activity through which conditions affecting viability are actively managed.
 
-- What Is APS?
-- Naturalising Life
-- How APS Explains Life
-- The Core Structure of APS
-- APS Architecture Map
-- How APS Concepts Fit Together
+The APS proposal can therefore be stated compactly:
 
-Biology's Big Questions
+> Biology offers many legitimate explanations of living phenomena. APS compares their contributions by asking how each helps explain the organisation through which living systems persist despite change.
 
-- What Is Life?
-- What Is Biological Agency?
-- Organised Persistence
-- Evolution
-- Cognition and Mind
-- Biological Individuality
+This proposal does not settle the question posed by the article’s title. It provides a way of investigating it.
 
-Reference Resources
+## Agency, Process, and Scale
 
-- APS Glossary
-- Research
-- References
+APS examines organised persistence through three connected questions: what do living systems do, how is continuity maintained despite change, and where is that persistence organised across space and time?
+
+**Agency asks what living systems do.** Living systems regulate their activities, respond to changing conditions, repair damage, acquire and use resources, and reorganise when established patterns no longer maintain viability. APS describes this as viability-oriented organisational activity. Agency does not require consciousness or deliberate choice. It refers to the activity through which living organisation is enacted and sustained.
+
+**Process asks how continuity is maintained despite change.** Living systems persist through continuing material and organisational activity. Metabolism, regulation, development, repair, and adaptation all involve change, yet they can contribute to continuing biological organisation. Process draws attention to this continuity without suggesting that life remains fixed.
+
+**Scale asks where persistence is organised across spatial and temporal extents.** The activity of a living system depends on relationships that may extend from intracellular processes to the organism and its environment, and from immediate regulation to development and evolutionary history. Different investigations focus on different extents and timescales because organised persistence is not confined to a single place or moment.
+
+Consider a plant responding to water shortage. Agency asks what the plant does: regulating water loss, altering growth, and reallocating resources. Process asks how these activities maintain continuity while the plant and its conditions change. Scale asks how cellular regulation, whole-plant coordination, environmental relationships, developmental history, and longer-term evolutionary inheritance contribute to the explanation.
+
+Agency, Process, and Scale are not three separate parts of life. Nor are they independent causes or hierarchical levels. They are different ways of examining the same living organisation—what APS describes more precisely as analytic projections. Each reveals something that the others alone cannot fully show, while none exists independently of the organisation being examined.
+
+This threefold enquiry helps APS compare explanations without forcing them into one form. A molecular explanation may clarify a mechanism, a physiological explanation may clarify coordinated functioning, an ecological explanation may clarify environmental dependency, and an evolutionary explanation may clarify historical transformation. Agency, Process, and Scale help identify how these different contributions bear on organised persistence.
+
+The APS name therefore identifies an explanatory practice rather than a division of reality. It keeps three questions together:
+
+- What is the living system doing?
+- How is continuity being maintained or re-established through change?
+- Across what spatial and temporal extents is that persistence organised?
+
+## What Difference Does This Make?
+
+APS does not give biology a new set of facts. Its contribution lies in changing how explanatory questions are related. It asks what becomes visible when established biological explanations are considered in relation to organised persistence.
+
+### Mechanism
+
+A mechanistic explanation asks how a phenomenon is produced through organised entities and activities (Machamer et al. 2000). It might explain how a membrane channel regulates ion movement, how a signalling pathway initiates a cellular response, or how physiological processes coordinate temperature regulation.
+
+APS preserves these explanations and also asks:
+
+> How does this mechanism contribute to maintaining or re-establishing viable organisation?
+
+This additional question does not alter the mechanism. It clarifies its biological contribution. A molecular interaction may be described with great precision, but its significance for the living system depends on how it participates in continuing organisation.
+
+### Evolution
+
+Evolutionary explanation asks how biological traits, populations, and forms of organisation have changed historically. Natural selection, inheritance, variation, drift, and other evolutionary processes explain patterns that cannot be understood from present functioning alone.
+
+APS also asks:
+
+> What organisation is being transformed, and how does that transformation alter the conditions under which living systems can persist?
+
+This does not make evolution a process of preserving organisms unchanged. Evolution transforms inherited and developmental organisation across generations. APS uses organised persistence to clarify what is changing, while evolutionary theory explains the historical processes through which that change occurs.
+
+### Systems Biology
+
+Systems biology investigates how interacting components and processes generate coordinated biological behaviour. It examines networks, dynamics, regulation, and control rather than treating biological components in isolation (Kitano 2002).
+
+APS also asks:
+
+> How does this coordination contribute to the continued functioning of a living system?
+
+Not every organised network is alive, and not every stable pattern is biologically significant. The APS question directs attention to the relation between system dynamics and the maintenance or re-establishment of viability.
+
+### Biological Autonomy
+
+Organisational approaches ask how living systems maintain themselves through mutually dependent processes and constraints. They have shown why biological organisation cannot be understood simply as a collection of externally assembled parts (Moreno and Mossio 2015).
+
+APS shares this concern while asking a somewhat different comparative question:
+
+> What does biological autonomy contribute to understanding organised persistence, and how does it relate to mechanistic, evolutionary, developmental, and ecological explanations?
+
+The convergence is important, but the approaches are not identical. Biological autonomy is a substantive account of living organisation. APS uses comparison to clarify what this and other approaches contribute to a broader explanatory enquiry.
+
+### Ecology
+
+Ecological explanations investigate relationships between organisms and their surroundings. Access to water, energy, nutrients, other organisms, and suitable physical conditions can all affect whether living organisation continues to function.
+
+APS also asks:
+
+> How do these relationships alter the conditions under which organised persistence is possible?
+
+This question does not imply that an ecosystem is itself a biological agent. It asks how environmental relationships become materially involved in the persistence of organisms and other living systems.
+
+These examples show what APS adds. It does not repeat each explanation in new vocabulary, and it does not claim that organised persistence supplies what existing biology has failed to discover. Instead, it provides a common point of comparison.
+
+That comparison can reveal several things:
+
+- different explanations may address different aspects of the same biological problem;
+- explanations that use similar terms may nevertheless ask different questions;
+- present functioning and evolutionary history make distinct contributions;
+- environmental relationships may condition agency without replacing it;
+- detailed mechanisms may acquire biological significance through their contribution to viable organisation.
+
+The value of APS therefore depends on explanatory gain. It must show that comparison clarifies relationships, identifies unresolved questions, or supports new investigation. If organised persistence merely redescribes what biology already explains without adding clarity or research value, the APS proposal has not succeeded.
+
+APS is best understood as an invitation to test a question:
+
+> Does comparing biological explanations through organised persistence help us understand living systems more clearly?
+
+## An Invitation to Explore
+
+The question “What is biology trying to explain?” does not require biology to choose one theory, method, or explanatory foundation. Living systems present different phenomena at different spatial and temporal extents, and biology has developed correspondingly different ways of investigating them.
+
+APS begins from this diversity. It does not claim that every biological discipline is explaining exactly the same thing. It asks whether comparing their distinctive achievements in relation to organised persistence can produce greater explanatory clarity.
+
+This proposal remains open to investigation. Its value depends on whether organised persistence clarifies relationships among biological explanations, exposes unresolved questions, and supports productive research. APS should therefore be assessed by what it helps biology explain—not simply by the coherence of its terminology.
+
+Readers wishing to continue can follow three immediate paths:
+
+- **What Is APS?** introduces the purpose and scope of the framework.
+- **Naturalising Life** explains how APS approaches life through viability-oriented, constraint-closed organisation.
+- **The Core Structure of APS** develops the relationship among Agency, Process, and Scale.
+
+These articles lead into the wider APS programme, including evolution, development, cognition, individuality, ecology, and biological explanation. Each extends the enquiry begun here while addressing a more specific domain or problem.
+
+APS therefore proposes organised persistence not as biology’s final or exclusive explanation, but as a comparative target through which the distinctive achievements and limits of biological explanations can be made clearer and more scientifically intelligible.
