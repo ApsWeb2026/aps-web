@@ -401,77 +401,43 @@ A comparative-gain verdict is warranted when the audit reveals a consequential d
 
 A null verdict is warranted when the strongest established explanation already performs the relevant explanatory work. This is not a failed application. It shows that the method can discriminate between cases in which relation-sensitive reconstruction matters and cases in which it adds no material insight.
 
-<div
-  class="table-scroll"
-  role="region"
-  aria-labelledby="dependency-audit-caption"
-  tabindex="0"
->
-  <table>
-    <caption id="dependency-audit-caption">
-      Table 1. Compact implementation of the APS dependency-hypothesis audit
-    </caption>
-    <thead>
-      <tr>
-        <th scope="col">Audit field</th>
-        <th scope="col">Question to record</th>
-        <th scope="col">Required discipline</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">Explanandum and foil</th>
-        <td>What exactly is being explained, and in contrast with what?</td>
-        <td>Prevent movement between different explanatory targets.</td>
-      </tr>
-      <tr>
-        <th scope="row">Claim and relata</th>
-        <td>What is proposed to depend upon what?</td>
-        <td>Replace broad labels with assessable activities, structures, conditions or concepts.</td>
-      </tr>
-      <tr>
-        <th scope="row">Relation type</th>
-        <td>What kind of dependency is claimed?</td>
-        <td>Type each causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual or mixed component.</td>
-      </tr>
-      <tr>
-        <th scope="row">Material basis</th>
-        <td>How is the biological relationship implemented?</td>
-        <td>Identify relevant entities, activities, organisation and conditions without demanding an inappropriate scale of reduction.</td>
-      </tr>
-      <tr>
-        <th scope="row">Variation or contrast</th>
-        <td>What admissible change would test or clarify the dependency?</td>
-        <td>Match intervention, counterfactual or comparison to the relation and system.</td>
-      </tr>
-      <tr>
-        <th scope="row">Evidence and limits</th>
-        <td>What supports the claim, and what does that support not establish?</td>
-        <td>Prevent correlation, precedence, perturbation or coherence from licensing stronger conclusions than they warrant.</td>
-      </tr>
-      <tr>
-        <th scope="row">Alternatives and scope</th>
-        <td>What rival relation or architecture is plausible, and where does the claim hold?</td>
-        <td>Consider alternative routes, realisations and restricted domains.</td>
-      </tr>
-      <tr>
-        <th scope="row">Failure conditions</th>
-        <td>What finding would qualify, retype or defeat the claim?</td>
-        <td>State possible failure before treating the arrow as supported.</td>
-      </tr>
-      <tr>
-        <th scope="row">Strongest established explanation</th>
-        <td>What is the best existing account of the explanandum?</td>
-        <td>Compare with its full mechanistic, organisational and historical resources.</td>
-      </tr>
-      <tr>
-        <th scope="row">Gain or null verdict</th>
-        <td>Does the audit change a defensible explanatory assessment?</td>
-        <td>Record genuine gain or principled no gain without manufacturing novelty.</td>
-      </tr>
-    </tbody>
-  </table>
+<div class="aps-diagram">
+  <a
+    href="/assets/diagrams/dependency-hypothesis-audit.png"
+    target="_blank"
+    rel="noopener"
+  >
+    <img
+      src="/assets/diagrams/dependency-hypothesis-audit.png"
+      alt="The ten fields of the APS dependency-hypothesis audit"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>The Dependency-Hypothesis Audit.</strong>
+    Each proposed dependency is assessed through a common sequence covering
+    the explanatory target, relata, relation type, material basis, admissible
+    variation, evidence and limits, alternatives and scope, failure
+    conditions, the strongest established explanation, and a comparative-gain
+    or principled-no-gain verdict.
+  </p>
 </div>
+
+<details class="accessible-table">
+  <summary>View the audit as an accessible table</summary>
+
+  <div
+    class="table-scroll"
+    role="region"
+    aria-labelledby="dependency-audit-caption"
+    tabindex="0"
+  >
+    <table>
+      <!-- all ten table rows -->
+    </table>
+  </div>
+</details>
 
 ### Possible assessment outcomes
 
