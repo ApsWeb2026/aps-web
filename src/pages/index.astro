@@ -182,9 +182,17 @@ const methodologyCards: HomeCard[] = [
   {
     title: 'Architectural Dependency and Biological Explanation',
     description:
-      'Explains how APS makes organisational dependencies explicit while distinguishing them from causation, chronology, hierarchy, logical implication, and reduction.',
+      'Explains how APS treats every pathway arrow as a defeasible dependency hypothesis requiring identified relata, relation typing, material specification, matched evidence and limits, alternatives, failure conditions, and comparison with the strongest established explanation.',
     href: '/articles/architectural-dependency-and-biological-explanation/',
     badge: 'Methodology',
+  },
+  {
+    title:
+      'Auditing Dependency Claims in Biological Explanation: A Comparative Method and Three-Case Test',
+    description:
+      'Tests the dependency-hypothesis audit through planarian regeneration, Pristionchus pacificus mouth-form polyphenism, and mammalian glucose homeostasis. Its positive, transfer, and null results assess whether the method produces genuine explanatory gain without manufacturing novelty where established explanations are already sufficient.',
+    href: '/research/auditing-dependency-claims-biological-explanation/',
+    badge: 'Completed APS Research',
   },
 ];
 
@@ -662,14 +670,19 @@ const clarificationCards: HomeCard[] = [
 
       <div class="article-text-block">
         <p>
-          APS depends upon more than a collection of ideas. Its explanatory methodology is built upon
-          stable concepts, carefully defined terminology, and explicit organisational relations that
-          allow the framework to develop cumulatively while remaining conceptually coherent.
+          APS depends upon more than a collection of ideas. Its explanatory
+          methodology is built upon stable concepts, carefully defined
+          terminology, and explicit relationships that allow the framework to
+          develop cumulatively while remaining open to critical assessment.
         </p>
 
         <p>
-          Rather than treating concepts as isolated definitions, APS organises them into an explanatory
-          architecture in which their relationships are explicit and open to critical examination.
+          Rather than treating concepts as isolated definitions, APS organises
+          them into an explanatory architecture. Its concepts must remain
+          coherent, but coherence alone is not evidence. The relationships
+          expressed by APS pathways must be specified, assessed against
+          material evidence and alternatives, and qualified or rejected when
+          they fail.
         </p>
       </div>
 
@@ -677,15 +690,25 @@ const clarificationCards: HomeCard[] = [
         {methodologyCards.map((resource) => (
           <li class="card">
             <div class="card-header">
-              <h3 class="card-title"><a href={resource.href}>{resource.title}</a></h3>
-              <span class="badge badge-type badge-article">{resource.badge}</span>
+              <h3 class="card-title">
+                <a href={resource.href}>{resource.title}</a>
+              </h3>
+              <span class="badge badge-type badge-article">
+                {resource.badge}
+              </span>
             </div>
             <p class="card-excerpt">{resource.description}</p>
           </li>
         ))}
       </ul>
+      
+      <a href="/glossary/" class="btn btn-secondary">
+        Browse the APS Glossary
+      </a>
 
-      <a href="/glossary/" class="btn btn-secondary">Browse the APS Glossary</a>
+      <a href="/research/" class="btn btn-secondary">
+        Explore APS Research
+      </a>
     </section>
 
     <section class="home-section" aria-labelledby="research-heading">
