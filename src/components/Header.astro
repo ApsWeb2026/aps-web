@@ -5,6 +5,7 @@ const navItems = [
   { label: 'Home', href: '/' },
   { label: 'What Is APS', href: '/orientation/what-is-aps/' },
   { label: 'Articles', href: '/articles/' },
+  { label: 'Research', href: '/research/' },
   { label: 'Glossary', href: '/glossary/' },
 ];
 
@@ -35,7 +36,10 @@ const clusterItems = [
             <a
               href={item.href}
               aria-current={
-                pathname === item.href || pathname.startsWith(item.href + '/') ? 'page' : undefined
+              pathname === item.href ||
+              (item.href !== '/' && pathname.startsWith(item.href))
+                ? 'page'
+                : undefined
               }
             >
               {item.label}

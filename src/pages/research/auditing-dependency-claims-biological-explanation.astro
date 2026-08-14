@@ -1,0 +1,207 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import References from '@/components/References.astro';
+import TableOfContents from '@/components/TableOfContents.astro';
+
+import {
+  Content as ResearchPaperContent,
+  frontmatter,
+  getHeadings,
+} from '@/research/aps-dependency-001.md';
+
+const headings = await getHeadings();
+
+const abstractText = String(frontmatter.abstract).replaceAll('*', '');
+
+const [abstractBeforeSpecies, abstractAfterSpecies = ''] =
+  abstractText.split('Pristionchus pacificus');
+
+const keywords = Array.isArray(frontmatter.keywords)
+  ? frontmatter.keywords
+  : [];
+
+const references = Array.isArray(frontmatter.references)
+  ? frontmatter.references
+  : [];
+
+const publicationUrl =
+  'https://apsframework.org/research/auditing-dependency-claims-biological-explanation/';
+---
+
+<BaseLayout title={frontmatter.title} description={frontmatter.abstract}>
+  <div
+    class="content-wrapper article-content-wrapper research-paper-wrapper"
+    data-pagefind-body
+    data-pagefind-meta={`type:${frontmatter.type}, status:${frontmatter.status}`}
+  >
+    <span data-pagefind-filter={`type:${frontmatter.type}`} data-pagefind-ignore></span>
+    <span data-pagefind-filter={`status:${frontmatter.status}`} data-pagefind-ignore></span>
+
+    <Breadcrumb
+      items={[
+        { label: 'APS Research', href: '/research/' },
+        { label: frontmatter.shortTitle },
+      ]}
+    />
+
+    <header class="page-header research-paper-header">
+      <h1 data-pagefind-weight="20">{frontmatter.title}</h1>
+
+      <div class="research-paper-meta" aria-label="Research paper details">
+        <span>{frontmatter.author}</span>
+        <span aria-hidden="true">·</span>
+        <span>{frontmatter.year}</span>
+        <span aria-hidden="true">·</span>
+        <span>{frontmatter.status}</span>
+        <span aria-hidden="true">·</span>
+        <span>Revised: {frontmatter.revised}</span>
+      </div>
+    </header>
+
+    <aside class="research-status-notice" aria-label="Publication status">
+      <strong>Publication status:</strong> Completed APS Research. This paper has
+      reached a stable scholarly form and is published through APS_WEB. This
+      status does not indicate external peer review or independent empirical
+      confirmation.
+    </aside>
+
+    <section class="abstract" aria-labelledby="research-abstract-heading">
+      <div class="abstract-label" id="research-abstract-heading">Abstract</div>
+      <p>
+        {abstractBeforeSpecies}<em>Pristionchus pacificus</em>{abstractAfterSpecies}
+      </p>
+    </section>
+
+    {
+      keywords.length > 0 && (
+        <section class="research-keywords" aria-labelledby="research-keywords-heading">
+          <h2 id="research-keywords-heading">Keywords</h2>
+          <p>{keywords.join('; ')}</p>
+        </section>
+      )
+    }
+
+    <section class="research-citation" aria-labelledby="research-citation-heading">
+      <h2 id="research-citation-heading">Suggested citation</h2>
+      <p>
+        Spencer, R. D. (2026). “{frontmatter.title}.” <em>APS Research</em>.
+        APS Framework. <a href={publicationUrl}>{publicationUrl}</a>
+      </p>
+    </section>
+
+    <TableOfContents headings={headings} />
+
+    <article class="article-body research-paper-body">
+      <ResearchPaperContent />
+    </article>
+
+    <References references={references} />
+
+    <nav class="research-return" aria-label="Research navigation">
+      <a href="/research/">Return to APS Research</a>
+    </nav>
+  </div>
+</BaseLayout>
+
+<style>
+  .research-paper-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.6rem;
+    margin-top: 0.75rem;
+    color: var(--color-text-muted, #5d6670);
+    font-size: 0.95rem;
+  }
+
+  .research-status-notice {
+    margin: 1.5rem 0;
+    padding: 1rem 1.1rem;
+    border-left: 4px solid var(--color-accent, #315f85);
+    background: var(--color-surface-muted, #f3f6f8);
+  }
+
+  .research-keywords,
+  .research-citation {
+    margin: 1.5rem 0;
+  }
+
+  .research-keywords h2,
+  .research-citation h2 {
+    margin-bottom: 0.45rem;
+    font-size: 1.15rem;
+  }
+
+  .research-keywords p,
+  .research-citation p {
+    margin: 0;
+  }
+
+  .research-citation a {
+    overflow-wrap: anywhere;
+  }
+
+  .research-return {
+    margin-top: 2.5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--color-border, #d8dde2);
+  }
+
+  :global(.research-paper-body .research-table-wrapper) {
+    max-width: 100%;
+    margin: 1.75rem 0;
+    overflow-x: auto;
+    border: 1px solid var(--color-border, #d8dde2);
+    border-radius: 0.25rem;
+  }
+
+  :global(.research-paper-body .research-table-wrapper:focus) {
+    outline: 3px solid var(--color-accent, #315f85);
+    outline-offset: 3px;
+  }
+
+  :global(.research-paper-body .research-table-wrapper table) {
+    width: 100%;
+    min-width: 52rem;
+    margin: 0;
+    border-collapse: collapse;
+  }
+
+  :global(.research-paper-body .research-table-wrapper caption) {
+    padding: 0.85rem 1rem;
+    background: var(--color-surface-muted, #f3f6f8);
+    font-weight: 700;
+    text-align: left;
+  }
+
+  :global(.research-paper-body .research-table-wrapper th),
+  :global(.research-paper-body .research-table-wrapper td) {
+    padding: 0.75rem;
+    border: 1px solid var(--color-border, #d8dde2);
+    vertical-align: top;
+    text-align: left;
+  }
+
+  :global(.research-paper-body .research-table-wrapper thead th) {
+    background: var(--color-surface-muted, #f3f6f8);
+  }
+
+  :global(.research-paper-body .research-table-wrapper tbody th) {
+    font-weight: 600;
+  }
+
+  @media (max-width: 48rem) {
+    .research-paper-meta {
+      display: block;
+    }
+
+    .research-paper-meta span {
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+
+    .research-paper-meta span[aria-hidden='true'] {
+      display: none;
+    }
+  }
+</style>

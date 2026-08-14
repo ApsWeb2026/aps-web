@@ -2,11 +2,11 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Breadcrumb from '@/components/Breadcrumb.astro';
 
-const revised = '2026-05-27';
+const revised = '2026-08-14';
 
 const pageTitle = 'Publications';
 const pageDescription =
-  'Peer-reviewed, preprint, and platform publications associated with the APS framework.';
+  'Peer-reviewed publications, preprints, deposited scholarly papers, and research-platform information associated with APS.';
 ---
 
 <BaseLayout title={pageTitle} description={pageDescription}>
@@ -20,116 +20,184 @@ const pageDescription =
 
     <div class="article-body">
       <p>
-        APS is being developed as both a conceptual framework and a scholarly research program.
-        This page gathers the formal publications, preprints, and platform resources through
-        which the framework is being articulated, tested, and extended.
-      </p>
-
-      <h2>Foundational peer-reviewed publication</h2>
-
-      <h3>
-        Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating
-        Process and Scale
-      </h3>
-
-      <p>
-        Spencer, R. D. (2026). <em>Biological Theory</em>.
+        This page records the formally released scholarly outputs associated
+        with APS, including peer-reviewed publications, preprints, and papers
+        deposited in recognised repositories. Each work is labelled according
+        to its publication and review status.
       </p>
 
       <p>
-        This article provides the first peer-reviewed formal presentation of APS as a
-        viability-oriented framework for understanding life. It argues that biological agency is
-        not an optional feature added to living systems, but the defining activity through which
-        living organisation sustains itself across process and scale.
+        Publications forms part of the wider
+        <a href="/research/">APS Research</a> programme. APS Research also
+        includes completed website research and substantive investigations in
+        development, neither of which should be confused with external
+        publication or peer review.
       </p>
 
-      <p>
-        <a href="https://doi.org/10.1007/s13752-026-00547-6" target="_blank" rel="noopener">
-          DOI
-        </a>
-        ·
-        <a href="https://rdcu.be/fkRpq" target="_blank" rel="noopener">
-          SharedIt full-text access
-        </a>
-      </p>
+      <h2>Peer-reviewed publication</h2>
 
-      <h2>Evolutionary theory</h2>
+      <article class="research-item">
+        <h3>
+          Agency as the Defining Activity of Life: A Viability-Oriented
+          Framework Integrating Process and Scale
+        </h3>
 
-      <h3>
-        Natural Selection and Organised Persistence: An Organisational Analysis of Evolutionary
-        Conditions
-      </h3>
+        <p><strong>Status:</strong> Peer-reviewed publication</p>
 
-      <p>
-        Spencer, R. D. (2026). SSRN preprint.
-      </p>
+        <p>
+          Spencer, R. D. (2026). <em>Biological Theory</em>.
+        </p>
 
-      <p>
-        This paper extends APS into evolutionary explanation by analysing natural selection
-        through the conditions under which organised biological persistence becomes
-        differentially sustained across generations.
-      </p>
+        <p>
+          This article provides the first peer-reviewed formal presentation of
+          APS as a viability-oriented framework for understanding life. It
+          argues that biological agency is not an optional feature added to
+          living systems, but the defining activity through which living
+          organisation sustains itself across process and scale.
+        </p>
 
-      <p>
-        <a href="https://ssrn.com/abstract=6622502" target="_blank" rel="noopener">SSRN</a>
-        ·
-        <a href="http://dx.doi.org/10.2139/ssrn.6622502" target="_blank" rel="noopener">
-          DOI
-        </a>
-      </p>
+        <p>
+          <a
+            href="https://doi.org/10.1007/s13752-026-00547-6"
+            target="_blank"
+            rel="noopener"
+          >
+            DOI
+          </a>
+          ·
+          <a href="https://rdcu.be/fkRpq" target="_blank" rel="noopener">
+            SharedIt full-text access
+          </a>
+        </p>
+      </article>
 
-      <h2>Cognition and agency</h2>
+      <h2>Preprint</h2>
 
-      <h3>Biological Agency as the Context for Plant Cognition</h3>
+      <article class="research-item">
+        <h3>
+          Natural Selection and Organised Persistence: An Organisational
+          Analysis of Evolutionary Conditions
+        </h3>
 
-      <p>
-        Spencer, R. D. (2025). Zenodo.
-      </p>
+        <p><strong>Status:</strong> Preprint</p>
 
-      <p>
-        This work develops an earlier expression of the APS approach by situating plant cognition
-        within the wider context of biological agency. It contributes to the framework’s treatment
-        of cognition as a biological and organisational phenomenon rather than as a merely
-        computational or representational process.
-      </p>
+        <p>
+          Spencer, R. D. (2026). SSRN preprint.
+        </p>
 
-      <p>
-        <a href="https://doi.org/10.5281/zenodo.16938193" target="_blank" rel="noopener">
-          DOI
-        </a>
-      </p>
+        <p>
+          This paper extends APS into evolutionary explanation by analysing
+          natural selection through the conditions under which organised
+          biological persistence becomes differentially sustained across
+          generations.
+        </p>
 
-      <h2>Platform publication</h2>
+        <p>
+          <a
+            href="https://ssrn.com/abstract=6622502"
+            target="_blank"
+            rel="noopener"
+          >
+            SSRN
+          </a>
+          ·
+          <a
+            href="https://doi.org/10.2139/ssrn.6622502"
+            target="_blank"
+            rel="noopener"
+          >
+            DOI
+          </a>
+        </p>
+      </article>
 
-      <h3>APS_WEB: A Viability-Oriented Framework for Understanding Life</h3>
+      <h2>Deposited scholarly paper</h2>
 
-      <p>
-        Spencer, R. D. (2026). APS Framework.
-      </p>
+      <article class="research-item">
+        <h3>Biological Agency as the Context for Plant Cognition</h3>
 
-      <p>
-        APS_WEB is the public explanatory architecture of the APS framework. It develops the
-        framework across orientation articles, conceptual analyses, glossary entries, visual
-        explanations, diagnostic interfaces, and cross-linked research layers.
-      </p>
+        <p><strong>Status:</strong> Deposited scholarly paper</p>
 
-      <p>
-        <a href="https://apsframework.org" target="_blank" rel="noopener">
-          APS Framework website
-        </a>
-      </p>
+        <p>
+          Spencer, R. D. (2025). Zenodo.
+        </p>
+
+        <p>
+          This work develops an earlier expression of the APS approach by
+          situating plant cognition within the wider context of biological
+          agency. It contributes to the framework’s treatment of cognition as
+          a biological and organisational phenomenon rather than as a merely
+          computational or representational process.
+        </p>
+
+        <p>
+          <a
+            href="https://doi.org/10.5281/zenodo.16938193"
+            target="_blank"
+            rel="noopener"
+          >
+            DOI
+          </a>
+        </p>
+      </article>
+
+      <h2>Research platform</h2>
+
+      <article class="research-item">
+        <h3>
+          APS_WEB: A Viability-Oriented Framework for Understanding Life
+        </h3>
+
+        <p><strong>Status:</strong> Research platform</p>
+
+        <p>
+          Spencer, R. D. (2026). APS Framework.
+        </p>
+
+        <p>
+          APS_WEB is the public research and explanatory platform of the APS
+          framework. It organises orientation articles, conceptual analyses,
+          glossary entries, visual explanations, diagnostic resources,
+          completed research, publications, and cross-linked research layers.
+        </p>
+
+        <p>
+          Its inclusion here records the platform through which APS research is
+          organised and made publicly available. It does not represent APS_WEB
+          as a peer-reviewed scholarly publication.
+        </p>
+
+        <p>
+          <a
+            href="https://apsframework.org/"
+            target="_blank"
+            rel="noopener"
+          >
+            APS Framework website
+          </a>
+        </p>
+      </article>
 
       <h2>How to cite APS</h2>
 
       <p>
-        For formal scholarly citation, readers should cite the relevant publication directly. For
-        the website as a structured explanatory resource, cite APS_WEB as the public platform of
-        the framework.
+        For formal scholarly citation, readers should cite the relevant
+        publication, preprint, or deposited paper directly. For the website as
+        a structured explanatory and research resource, cite APS_WEB as the
+        public platform of the framework.
       </p>
 
       <p>
         Further guidance is available in the
         <a href="/policies/citation-policy/">Citation Policy</a>.
+      </p>
+
+      <h2>APS Research</h2>
+
+      <p>
+        Visit <a href="/research/">APS Research</a> for completed website
+        research, featured scholarly work, current investigations, and the
+        standards governing their presentation and assessment.
       </p>
     </div>
   </div>

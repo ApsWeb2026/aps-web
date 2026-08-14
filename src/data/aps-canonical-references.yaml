@@ -3140,7 +3140,321 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-08-13
-
+- id: taylor-2023-explanatory-distance
+  type: journal-article
+  authors: Taylor, E.
+  year: 2023
+  title: Explanatory Distance
+  journal: The British Journal for the Philosophy of Science
+  volume: '74'
+  issue: '1'
+  pages: 221–239
+  doi: 10.1086/714788
+  verification:
+    status: verified
+    authority: The British Journal for the Philosophy of Science / University of Chicago Press
+    verifiedDate: 2026-08-13
+- id: reutlinger-2016-monist-causal-noncausal-explanations
+  type: journal-article
+  authors: Reutlinger, A.
+  year: 2016
+  title: 'Is There a Monist Theory of Causal and Noncausal Explanations? The Counterfactual Theory of Scientific Explanation'
+  journal: Philosophy of Science
+  volume: '83'
+  issue: '5'
+  pages: 733–745
+  doi: 10.1086/687859
+  verification:
+    status: verified
+    authority: Philosophy of Science / Cambridge University Press
+    verifiedDate: 2026-08-13
+- id: bich-bechtel-2021-mechanism-autonomy-explanation
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2021
+  title: Mechanism, Autonomy and Biological Explanation
+  journal: Biology & Philosophy
+  volume: '36'
+  article-number: '53'
+  doi: 10.1007/s10539-021-09829-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: saborido-mossio-moreno-2011-cross-generation-functions
+  type: journal-article
+  authors: Saborido, C., Mossio, M., & Moreno, A.
+  year: 2011
+  title: Biological Organization and Cross-Generation Functions
+  journal: The British Journal for the Philosophy of Science
+  volume: '62'
+  issue: '3'
+  pages: 583–606
+  doi: 10.1093/bjps/axq034
+  verification:
+    status: verified
+    authority: Oxford University Press / The British Journal for the Philosophy of Science
+    verifiedDate: 2026-08-13
+- id: corti-2023-organizational-normativity-teleology
+  type: journal-article
+  authors: Corti, L.
+  year: 2023
+  title: 'Organizational Normativity and Teleology: A Critique'
+  journal: Synthese
+  volume: '202'
+  article-number: '96'
+  doi: 10.1007/s11229-023-04255-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: reddien-2018-planarian-regeneration
+  type: journal-article
+  authors: Reddien, P. W.
+  year: 2018
+  title: The Cellular and Molecular Basis for Planarian Regeneration
+  journal: Cell
+  volume: '175'
+  issue: '2'
+  pages: 327–345
+  doi: 10.1016/j.cell.2018.09.021
+  verification:
+    status: verified
+    authority: Elsevier / Cell
+    verifiedDate: 2026-08-13
+- id: witchley-et-al-2013-muscle-planarian-regeneration
+  type: journal-article
+  authors: Witchley, J. N., Mayer, M., Wagner, D. E., Owen, J. H., & Reddien, P. W.
+  year: 2013
+  title: Muscle Cells Provide Instructions for Planarian Regeneration
+  journal: Cell Reports
+  volume: '4'
+  issue: '4'
+  pages: 633–641
+  doi: 10.1016/j.celrep.2013.07.022
+  verification:
+    status: verified
+    authority: Elsevier / Cell Reports
+    verifiedDate: 2026-08-13
+- id: durant-et-al-2019-bioelectric-planarian-polarity
+  type: journal-article
+  authors: Durant, F., Bischof, J., Fields, C., Morokuma, J., LaPalme, J., Hoi, A., & Levin, M.
+  year: 2019
+  title: The Role of Early Bioelectric Signals in the Regeneration of Planarian Anterior/Posterior Polarity
+  journal: Biophysical Journal
+  volume: '116'
+  issue: '5'
+  pages: 948–961
+  doi: 10.1016/j.bpj.2019.01.029
+  verification:
+    status: verified
+    authority: Elsevier / Biophysical Journal
+    verifiedDate: 2026-08-13
+- id: levin-pietak-bischof-2019-planarian-anatomical-homeostasis
+  type: journal-article
+  authors: Levin, M., Pietak, A. M., & Bischof, J.
+  year: 2019
+  title: 'Planarian Regeneration as a Model of Anatomical Homeostasis: Recent Progress in Biophysical and Computational Approaches'
+  journal: Seminars in Cell & Developmental Biology
+  volume: '87'
+  pages: 125–144
+  doi: 10.1016/j.semcdb.2018.04.003
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-08-13
+- id: bento-ogawa-sommer-2010-hormone-signalling
+  type: journal-article
+  authors: Bento, G., Ogawa, A., & Sommer, R. J.
+  year: 2010
+  title: Co-option of the Hormone-Signalling Module Dafachronic Acid–DAF-12 in Nematode Evolution
+  journal: Nature
+  volume: '466'
+  issue: '7305'
+  pages: 494–497
+  doi: 10.1038/nature09164
+  verification:
+    status: verified
+    authority: Springer Nature / Nature
+    verifiedDate: 2026-08-13
+- id: ragsdale-et-al-2013-developmental-switch-sulfatase
+  type: journal-article
+  authors: Ragsdale, E. J., Müller, M. R., Rödelsperger, C., & Sommer, R. J.
+  year: 2013
+  title: A Developmental Switch Coupled to the Evolution of Plasticity Acts through a Sulfatase
+  journal: Cell
+  volume: '155'
+  issue: '4'
+  pages: 922–933
+  doi: 10.1016/j.cell.2013.09.054
+  verification:
+    status: verified
+    authority: Elsevier / Cell
+    verifiedDate: 2026-08-13
+- id: kieninger-et-al-2016-nhr-40-developmental-switch
+  type: journal-article
+  authors: Kieninger, M. R., Ivers, N. A., Rödelsperger, C., Markov, G. V., Sommer, R. J., & Ragsdale, E. J.
+  year: 2016
+  title: The Nuclear Hormone Receptor NHR-40 Acts Downstream of the Sulfatase EUD-1 as Part of a Developmental Plasticity Switch in Pristionchus
+  journal: Current Biology
+  volume: '26'
+  issue: '16'
+  pages: 2174–2179
+  doi: 10.1016/j.cub.2016.06.018
+  verification:
+    status: verified
+    authority: Elsevier / Current Biology
+    verifiedDate: 2026-08-13
+- id: serobyan-et-al-2016-chromatin-eud-1-plasticity
+  type: journal-article
+  authors: Serobyan, V., Xiao, H., Namdeo, S., Rödelsperger, C., Sieriebriennikov, B., Witte, H., Röseler, W., & Sommer, R. J.
+  year: 2016
+  title: Chromatin Remodelling and Antisense-Mediated Up-Regulation of the Developmental Switch Gene eud-1 Control Predatory Feeding Plasticity
+  journal: Nature Communications
+  volume: '7'
+  article-number: '12337'
+  doi: 10.1038/ncomms12337
+  verification:
+    status: verified
+    authority: Springer Nature / Nature Communications
+    verifiedDate: 2026-08-13
+- id: sieriebriennikov-et-al-2018-developmental-switch-locus
+  type: journal-article
+  authors: Sieriebriennikov, B., Prabh, N., Dardiry, M., Witte, H., Röseler, W., Kieninger, M. R., Rödelsperger, C., & Sommer, R. J.
+  year: 2018
+  title: A Developmental Switch Generating Phenotypic Plasticity Is Part of a Conserved Multi-Gene Locus
+  journal: Cell Reports
+  volume: '23'
+  issue: '10'
+  pages: 2835–2843.e4
+  doi: 10.1016/j.celrep.2018.05.008
+  verification:
+    status: verified
+    authority: Elsevier / Cell Reports
+    verifiedDate: 2026-08-13
+- id: bui-ivers-ragsdale-2018-sulfotransferase-polyphenism
+  type: journal-article
+  authors: Bui, L. T., Ivers, N. A., & Ragsdale, E. J.
+  year: 2018
+  title: A Sulfotransferase Dosage-Dependently Regulates Mouthpart Polyphenism in the Nematode Pristionchus pacificus
+  journal: Nature Communications
+  volume: '9'
+  issue: '1'
+  article-number: '4119'
+  doi: 10.1038/s41467-018-05612-8
+  verification:
+    status: verified
+    authority: Springer Nature / Nature Communications
+    verifiedDate: 2026-08-13
+- id: werner-et-al-2018-adult-influence-juvenile-phenotypes
+  type: journal-article
+  authors: Werner, M. S., Claaßen, M. H., Renahan, T., Dardiry, M., & Sommer, R. J.
+  year: 2018
+  title: Adult Influence on Juvenile Phenotypes by Stage-Specific Pheromone Production
+  journal: iScience
+  volume: '10'
+  pages: 123–134
+  doi: 10.1016/j.isci.2018.11.027
+  verification:
+    status: verified
+    authority: Elsevier / iScience
+    verifiedDate: 2026-08-13
+- id: bergman-et-al-1979-insulin-sensitivity
+  type: journal-article
+  authors: Bergman, R. N., Ider, Y. Z., Bowden, C. R., & Cobelli, C.
+  year: 1979
+  title: Quantitative Estimation of Insulin Sensitivity
+  journal: American Journal of Physiology-Endocrinology and Metabolism
+  volume: '236'
+  issue: '6'
+  pages: E667–E677
+  doi: 10.1152/ajpendo.1979.236.6.E667
+  verification:
+    status: verified
+    authority: American Physiological Society
+    verifiedDate: 2026-08-13
+- id: holst-2007-physiology-glp-1
+  type: journal-article
+  authors: Holst, J. J.
+  year: 2007
+  title: The Physiology of Glucagon-like Peptide 1
+  journal: Physiological Reviews
+  volume: '87'
+  issue: '4'
+  pages: 1409–1439
+  doi: 10.1152/physrev.00034.2006
+  verification:
+    status: verified
+    authority: American Physiological Society
+    verifiedDate: 2026-08-13
+- id: cryer-2013-hypoglycemia-autonomic-failure
+  type: journal-article
+  authors: Cryer, P. E.
+  year: 2013
+  title: Mechanisms of Hypoglycemia-Associated Autonomic Failure in Diabetes
+  journal: New England Journal of Medicine
+  volume: '369'
+  issue: '4'
+  pages: 362–372
+  doi: 10.1056/NEJMra1215228
+  verification:
+    status: verified
+    authority: New England Journal of Medicine
+    verifiedDate: 2026-08-13
+- id: roeder-et-al-2016-pancreatic-glucose-homeostasis
+  type: journal-article
+  authors: Röder, P. V., Wu, B., Liu, Y., & Han, W.
+  year: 2016
+  title: Pancreatic Regulation of Glucose Homeostasis
+  journal: Experimental & Molecular Medicine
+  volume: '48'
+  article-number: e219
+  doi: 10.1038/emm.2016.6
+  verification:
+    status: verified
+    authority: Springer Nature / Experimental & Molecular Medicine
+    verifiedDate: 2026-08-13
+- id: rorsman-ashcroft-2018-beta-cell-electrical-activity
+  type: journal-article
+  authors: Rorsman, P., & Ashcroft, F. M.
+  year: 2018
+  title: 'Pancreatic β-Cell Electrical Activity and Insulin Secretion: Of Mice and Men'
+  journal: Physiological Reviews
+  volume: '98'
+  issue: '1'
+  pages: 117–214
+  doi: 10.1152/physrev.00008.2017
+  verification:
+    status: verified
+    authority: American Physiological Society
+    verifiedDate: 2026-08-13
+- id: petersen-shulman-2018-insulin-action-resistance
+  type: journal-article
+  authors: Petersen, M. C., & Shulman, G. I.
+  year: 2018
+  title: Mechanisms of Insulin Action and Insulin Resistance
+  journal: Physiological Reviews
+  volume: '98'
+  issue: '4'
+  pages: 2133–2223
+  doi: 10.1152/physrev.00063.2017
+  verification:
+    status: verified
+    authority: American Physiological Society
+    verifiedDate: 2026-08-13
+- id: garzilli-itzkovitz-2018-pancreatic-feedback
+  type: journal-article
+  authors: Garzilli, I., & Itzkovitz, S.
+  year: 2018
+  title: Design Principles of the Paradoxical Feedback between Pancreatic Alpha and Beta Cells
+  journal: Scientific Reports
+  volume: '8'
+  article-number: '10694'
+  doi: 10.1038/s41598-018-29084-4
+  verification:
+    status: verified
+    authority: Springer Nature / Scientific Reports
+    verifiedDate: 2026-08-13
 
 
 

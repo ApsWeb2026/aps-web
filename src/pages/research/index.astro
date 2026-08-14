@@ -1,27 +1,82 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+
+const revised = '2026-08-14';
+
+const pageTitle = 'APS Research';
+const pageDescription =
+  'The scholarly programme through which APS claims, methods, and applications are developed, compared, tested, and made available for critical assessment.';
 ---
 
-<BaseLayout
-  title="APS Research"
-  description="Extended scholarly investigations developed within the APS framework."
->
+<BaseLayout title={pageTitle} description={pageDescription}>
   <div class="content-wrapper">
-    <section class="home-section">
+    <Breadcrumb items={[{ label: 'APS Research' }]} />
+
+    <header class="page-header">
       <h1>APS Research</h1>
+      <div class="page-revised">Revised: {revised}</div>
+    </header>
 
+    <div class="article-body">
       <p>
-        APS Research presents extended scholarly investigations developed to
-        the standards of theoretical biology and philosophy of biology.
+        APS Research is the scholarly programme through which APS claims,
+        methods, and applications are developed, compared with existing work,
+        tested against evidence and alternatives, and made available for
+        critical assessment.
       </p>
 
       <p>
-        These works differ from shorter public-facing articles in their depth,
-        technical detail, engagement with relevant literature, and contribution
-        to ongoing scientific and philosophical debates.
+        It brings together peer-reviewed publications, preprints, deposited
+        papers, completed APS Research, and substantive work in development
+        where appropriate. Every item is identified by status so that
+        completion, public availability, and external peer review are not
+        confused.
       </p>
 
-      <h2>Methodological Foundations</h2>
+      <p>
+        Research is the programme; the
+        <a href="/publications/">Publications page</a> records its formally
+        released scholarly outputs; and the
+        <a href="/articles/">Articles collection</a> communicates the framework
+        and its applications across the wider APS website.
+      </p>
+
+      <h2>Featured Research</h2>
+
+      <article class="research-item">
+        <h3>
+          Agency as the Defining Activity of Life: A Viability-Oriented
+          Framework Integrating Process and Scale
+        </h3>
+
+        <p><strong>Status:</strong> Peer-reviewed publication</p>
+
+        <p>
+          The foundational peer-reviewed presentation of APS as a
+          viability-oriented framework for understanding life. It argues that
+          biological agency is the defining activity through which living
+          organisation sustains itself across process and scale.
+        </p>
+
+        <p>
+          Spencer, R. D. (2026). <em>Biological Theory</em>.
+        </p>
+
+        <p>
+          <a
+            href="https://doi.org/10.1007/s13752-026-00547-6"
+            target="_blank"
+            rel="noopener"
+          >
+            DOI
+          </a>
+          ·
+          <a href="https://rdcu.be/fkRpq" target="_blank" rel="noopener">
+            SharedIt full-text access
+          </a>
+        </p>
+      </article>
 
       <article class="research-item">
         <h3>
@@ -30,28 +85,133 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
           </a>
         </h3>
 
+        <p><strong>Status:</strong> Completed APS Research</p>
+
         <p>
-          Establishes a common analytical protocol for comparing organisational
-          research programmes through their explanatory targets, organising
-          principles, explanatory priorities, conceptual architectures, domains of
-          strength, and explanatory scope.
+          Establishes a common analytical protocol for comparing
+          organisational research programmes through their explanatory
+          targets, organising principles, explanatory priorities, conceptual
+          architectures, domains of strength, and explanatory scope.
         </p>
       </article>
 
-      <h2>Developing Research Areas</h2>
+      <article class="research-item">
+        <h3>
+          <a href="/research/auditing-dependency-claims-biological-explanation/">
+            Auditing Dependency Claims in Biological Explanation: A Comparative
+            Method and Three-Case Test
+          </a>
+        </h3>
+
+        <p><strong>Status:</strong> Completed APS Research</p>
+
+        <p>
+          Develops and tests a relation-sensitive, materially explicit
+          procedure for assessing heterogeneous biological dependency claims.
+          Its planarian positive result, <em>Pristionchus pacificus</em>
+          transfer result, and glucose-homeostasis null test the method’s
+          diagnostic capacity, transferability, and principled refusal of
+          explanatory gain.
+        </p>
+      </article>
+
+      <h2>Publications and Preprints</h2>
+
+      <p>
+        The APS publication record includes peer-reviewed work, preprints, and
+        scholarly papers deposited in recognised repositories. Each output is
+        labelled according to its publication and review status.
+      </p>
+
+      <p>
+        <a href="/publications/">View APS Publications</a>
+      </p>
+
+      <h2>Completed APS Research</h2>
+
+      <p>
+        Completed APS Research presents substantial, referenced investigations
+        developed to scholarly standards and published through APS_WEB.
+        Completion indicates that an investigation has reached a stable
+        research form; it does not imply external peer review or independent
+        confirmation.
+      </p>
+
+      <article class="research-item">
+        <h3>
+          <a href="/articles/comparative-explanatory-methodology-theoretical-biology/">
+            Comparative Explanatory Methodology in Theoretical Biology
+          </a>
+        </h3>
+
+        <p><strong>Status:</strong> Completed APS Research</p>
+
+        <p>
+          Develops a disciplined method for comparing biological research
+          programmes without reducing their different explanatory priorities
+          to a single theory or standard of explanation.
+        </p>
+      </article>
+
+      <article class="research-item">
+        <h3>
+          <a href="/research/auditing-dependency-claims-biological-explanation/">
+            Auditing Dependency Claims in Biological Explanation: A Comparative
+            Method and Three-Case Test
+          </a>
+        </h3>
+
+        <p><strong>Status:</strong> Completed APS Research</p>
+
+        <p>
+          Applies a common dependency-hypothesis audit to planarian
+          regeneration, <em>Pristionchus pacificus</em> mouth-form polyphenism,
+          and mammalian glucose homeostasis. The differentiated positive,
+          transfer, and null outcomes test whether the procedure changes
+          defensible explanatory assessments without manufacturing improvement
+          where established accounts are already sufficient.
+        </p>
+      </article>
+
+      <h2>Research Standards</h2>
+
+      <p>
+        APS Research distinguishes established findings from APS
+        methodological contributions. Claims are assessed through comparison
+        with the strongest available explanations, attention to material
+        evidence and inferential limits, consideration of alternatives and
+        scope, and explicit failure conditions.
+      </p>
+
+      <p>
+        Conceptual coherence is not treated as empirical confirmation. APS
+        earns scientific credibility only insofar as its explanatory
+        connections can be identified, assessed, qualified, revised, or
+        rejected.
+      </p>
+
+      <h2>Explore the Wider APS Platform</h2>
 
       <ul>
-        <li>Biological Individuality</li>
-        <li>Organised Persistence</li>
-        <li>Architectural Dependency</li>
-        <li>Social Normativity</li>
-        <li>Environmental Responsibility</li>
-        <li>Cognition and Mind</li>
+        <li>
+          <a href="/articles/">Articles</a> presents the wider explanatory
+          corpus.
+        </li>
+        <li>
+          <a href="/publications/">Publications</a> records formally released
+          scholarly outputs.
+        </li>
+        <li>
+          <a href="/policies/citation-policy/">Citation Policy</a> explains how
+          APS publications, research papers, and website resources should be
+          cited.
+        </li>
       </ul>
 
       <p>
-        The APS Research repository is currently under development.
+        APS_WEB is the research and explanatory platform through which these
+        differentiated resources are organised and made publicly available.
       </p>
-    </section>
+    </div>
   </div>
 </BaseLayout>
