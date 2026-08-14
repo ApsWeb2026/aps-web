@@ -6,202 +6,163 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-07-15
+revised: 2026-08-14
 cluster: methodology-and-explanation
 role: core
+
 abstract: >
   APS frequently represents explanatory relationships as pathways linking
-  concepts such as agency, biological evaluation, significance,
-  integration, cognition, mind, selfhood, meaning, morality, and ethics.
-  These pathways are not intended as causal chains, chronological
-  sequences, or conceptual lists. They express claims of Architectural
-  Dependency: relationships in which one form of organisation establishes
-  conditions necessary for the emergence, operation, intelligibility, or
-  persistence of another. This article explains how such dependency
-  claims are constructed, evaluated, challenged, and revised, and why
-  they provide a scientifically credible method for investigating the
-  organisational conditions through which increasingly complex forms of
-  living organisation become possible. Architectural Dependency is
-  presented not as a fourth explanatory projection alongside Agency,
-  Process, and Scale, but as a methodological principle for biological
-  explanation.
+  agency, biological evaluation, significance, integration, cognition, mind,
+  selfhood, meaning, morality, and ethics. These pathways are neither
+  self-validating diagrams nor uniform claims of organisational necessity.
+  Architectural Dependency is the APS method for formulating, representing,
+  and assessing the heterogeneous dependency hypotheses expressed by their
+  arrows. An arrow records a defeasible claim between specified relata but
+  does not by itself determine whether the relation is causal, constitutive,
+  enabling, constraint-based, structural, spatial, temporal, historical,
+  conceptual, or mixed. Scientific assessment therefore requires an explicit
+  explanandum and foil, relation typing, material specification,
+  relation-matched evidence and inferential limits, alternatives and scope,
+  failure conditions, and comparison with the strongest established
+  explanation. Dependency claims may consequently be retained, qualified,
+  retyped, rejected, or judged to provide no explanatory gain. The article
+  presents this discipline as the public-facing APS application of the
+  comparative dependency-hypothesis audit, not as a new dependency ontology
+  or theory of explanation.
+
+keyPoints:
+  - Architectural Dependency is the APS method for assessing pathway dependency hypotheses, not a single universal dependency relation.
+  - An APS pathway arrow records a defeasible claim between specified relata; the arrow itself is not evidence.
+  - Different arrows may express causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual, or mixed relations.
+  - Every dependency claim must identify its explanandum, foil, relation type, and materially appropriate basis.
+  - Evidence must be matched to the relation claimed, and its inferential limits must be stated explicitly.
+  - Assessment requires alternatives, scope, failure conditions, and comparison with the strongest established explanation.
+  - Feedback, reciprocal influence, and constraint closure may preserve, qualify, transform, or defeat an asserted dependency and must be assessed case by case.
+  - Strong, provisional, and speculative status attaches to individual dependency claims rather than automatically to complete pathways.
+  - Legitimate outcomes include retention, qualification, retyping, rejection, redescription, redundancy, and principled no gain.
+  - Support for one arrow does not validate neighbouring arrows or the APS Dependency Map as a whole.
+
 relatedGlossaryTerms:
   - architectural-dependency
+  - biological-explanation
   - biological-organisation
   - biological-agency
+  - organised-persistence
   - process
   - scale
+  - constraint-closure
+  - mechanism
+  - emergence
   - biological-evaluation
   - significance
   - integration
   - cognition
   - meaning
-  - emergence
-  - biological-explanation
-  - constraint-closure
+
 relatedArticles:
+  - comparative-explanatory-methodology-theoretical-biology
+  - explanatory-geometry-of-biology
   - how-aps-explains-life
+  - biological-explanation-what-needs-to-be-explained
+  - biological-explanation-and-organised-persistence
   - the-core-structure-of-aps-how-the-framework-fits-together
   - how-aps-concepts-fit-together
   - aps-architecture-map
-  - what-is-biological-evaluation
-  - what-is-biological-significance
-  - what-is-integration
   - naturalising-life
-keyPoints:
-  - APS pathways express architectural dependencies rather than arbitrary conceptual sequences.
-  - Architectural Dependency identifies relationships in which one form of organisation makes another possible.
-  - A pathway arrow does not, by itself, indicate efficient causation, temporal succession, or logical implication.
-  - Dependency explains continuity without reducing later forms of organisation to earlier ones.
-  - Every dependency arrow requires an explicit organisational and evidential argument.
-  - Dependency claims can be evaluated through organisational, developmental, evolutionary, comparative, and explanatory analysis.
-  - Feedback and reciprocal influence do not eliminate dependency relations.
-  - APS distinguishes strongly supported dependencies from provisional dependency hypotheses.
-  - Dependency architectures generate research programmes rather than ending inquiry.
 
 references:
-  - id: bechtel-2008
-    authors: "Bechtel, W."
-    year: 2008
-    title: Mental Mechanisms
-    publisher: Routledge
-
-  - id: brigandt-2011
-    authors: "Brigandt, I."
-    year: 2011
-    title: "Explanation in Biology: Reduction, Pluralism, and Explanatory Aims"
-    journal: Biology & Philosophy
-
-  - id: craver-2007
-    authors: "Craver, C. F."
-    year: 2007
-    title: Explaining the Brain
-    publisher: Oxford University Press
-
-  - id: cummins-1975
-    authors: "Cummins, R."
-    year: 1975
-    title: Functional Analysis
-    journal: Journal of Philosophy
-    volume: "72"
-    issue: "20"
-    pages: "741-765"
-    doi: "10.2307/2024640"
-
-  - id: godfrey-smith-2014
-    authors: "Godfrey-Smith, P."
-    year: 2014
-    title: Philosophy of Biology
-    publisher: Princeton University Press
-
-  - id: mossio-bich-2017
-    authors: "Mossio, M.; Bich, L."
-    year: 2017
-    title: What Makes Biological Organisation Teleological?
-    journal: Synthese
-    volume: "194"
-    issue: "4"
-    pages: "1089-1114"
-    doi: "10.1007/s11229-014-0594-z"
-
-  - id: moreno-mossio-2015
-    authors: "Moreno, A.; Mossio, M."
-    year: 2015
-    title: Biological Autonomy
-    publisher: Springer
-
-  - id: nicholson-2024
-    authors: "Nicholson, D. J."
-    year: 2024
-    title: What Is Life?
-    publisher: Cambridge University Press
-
-  - id: walsh-2015
-    authors: "Walsh, D. M."
-    year: 2015
-    title: Organisms, Agency, and Evolution
-    publisher: Cambridge University Press
-
-  - id: wimsatt-2007
-    authors: "Wimsatt, W. C."
-    year: 2007
-    title: Re-Engineering Philosophy for Limited Beings
-    publisher: Harvard University Press
+  - bich-bechtel-2021-mechanism-autonomy-explanation
+  - bich-bechtel-2022-organization-needs-organization
+  - brigandt-2013-explanation-biology
+  - craver-2007-explaining-the-brain
+  - machamer-darden-craver-2000-mechanisms
+  - mitchell-2002-integrative-pluralism
+  - montevil-mossio-2015-closure-constraints
+  - moreno-mossio-2015-biological-autonomy
+  - reutlinger-2016-monist-causal-noncausal-explanations
+  - saborido-mossio-moreno-2011-cross-generation-functions
+  - spencer-2026-agency-defining-activity-life
+  - taylor-2023-explanatory-distance
+  - woodward-2003-making-things-happen
 ---
 
-## Introduction
+## 1. Introduction
 
-APS seeks to explain how increasingly complex forms of living organisation become possible. Throughout the framework, explanatory pathways are used to connect concepts that appear to stand in systematic organisational relationships with one another. These pathways are not intended merely as summaries of previously established ideas. They are explanatory tools that help reconstruct how different forms of organisation relate, identify transitions that require investigation, and reveal the continuity linking life, cognition, mind, meaning, morality, and ethics.
+APS frequently uses explanatory pathways to represent proposed relationships among biological and organisational phenomena. These pathways connect concepts such as agency, biological evaluation, significance, integration, cognition, mind, selfhood, meaning, social norms, morality and ethics. They help readers see how the framework fits together and where one explanatory claim depends upon another.
 
-Yet the use of pathways immediately raises a methodological question. Why should these concepts appear in this order? At first glance, a pathway can seem persuasive simply because it is visually coherent. An arrow may suggest necessity even when no argument has been supplied. A progression from agency to evaluation, or from significance to cognition, can appear to express little more than the theoretical preferences of the person who arranged the sequence. Unless the status of each transition is made explicit, a pathway risks becoming conceptual storytelling presented in diagrammatic form.
+But a pathway can appear more convincing than it is. A sequence of plausible concepts may look coherent even when the relationships between them have not been demonstrated. An arrow can suggest causation, necessity or progression without specifying which of these is intended. If the connections are left implicit, a pathway risks becoming conceptual storytelling in diagrammatic form.
 
-APS accepts the legitimacy of this concern. A sequence does not become scientifically credible because its concepts are plausible, its transitions are intuitive, or its visual structure is elegant. Every arrow requires justification. The framework must explain what relationship the arrow represents, why that relationship is proposed, what evidence supports it, what observations might challenge it, and whether alternative architectures provide a more adequate explanation.
+APS accepts this criticism as methodologically decisive. An arrow is not evidence. Visual coherence does not establish biological dependence, and support for one connection does not validate the pathway surrounding it. Each arrow must be treated as a claim that can be identified, investigated, qualified, revised or rejected.
 
-Architectural Dependency is the methodological principle through which APS addresses this challenge. Rather than treating pathways as conceptual narratives, APS interprets them as hypotheses concerning the organisational conditions through which increasingly complex forms of living organisation become possible. The central question guiding this methodology is straightforward:
+The governing question of this article is therefore:
 
-> **What organisational conditions must already be present for this phenomenon to become possible?**
+> **What must an APS pathway arrow claim, specify and survive before it can contribute credibly to biological explanation?**
 
-Architectural Dependency provides a systematic way of investigating that question and evaluating the answers that emerge.
+The answer developed here is restrained. An APS pathway is scientifically credible only when each arrow is treated as a defeasible dependency hypothesis whose relata, relation type, material basis, evidential support and limits, alternatives, scope, failure conditions and comparative consequences are made explicit. The method must also permit a finding that the proposed dependency provides no additional explanatory gain.
 
-## Why APS Uses Explanatory Pathways
+This requirement reflects the wider character of biological explanation. Biology employs mechanistic, causal, constitutive, organisational, functional, historical and other explanatory strategies because biological questions and explanatory aims differ (Brigandt 2013; Mitchell 2002). No single relation can be assumed to underwrite every adequate explanation. Mechanistic explanation may identify entities, activities and organisation responsible for a phenomenon, while organisational and historical accounts may address different but compatible aspects of that phenomenon (Machamer, Darden, and Craver 2000; Craver 2007).
 
-APS frequently presents concepts in pathways such as:
+The same discipline must apply to APS. Its pathways cannot derive their credibility from the framework that proposes them. They must be assessed against the material organisation of the systems concerned and compared with the strongest established explanations. Architectural Dependency is the APS method for making that assessment possible.
+
+This article introduces Architectural Dependency as the public-facing APS application of a more general comparative dependency-hypothesis audit. It explains what pathways legitimately represent, what an arrow claims and why different dependency claims require different forms of evidence. It does not propose a new ontology of dependency or a universal theory of biological explanation. Its purpose is to make APS’s explanatory connections scientifically assessable.
+
+## 2. Why APS Uses Explanatory Pathways
+
+APS uses pathways because isolated definitions do not adequately display the relationships among its concepts. Knowing what APS means by agency, biological evaluation or significance does not by itself explain why the framework connects them or what each connection contributes.
+
+A pathway such as:
 
 > Agency → Biological Evaluation → Significance
 
-or:
+makes two distinct claims visible. The first concerns the relationship between biological agency and evaluative activity. The second concerns the relationship between evaluation and significance. Presenting them as a pathway exposes the proposed architecture to examination one connection at a time.
 
-> Biological Evaluation → Significance → Meaning → Value → Human Values → Shared Evaluation → Social Norms → Moral Evaluation → Morality → Ethics
+Longer pathways serve the same function. They may identify a proposed sequence of explanatory presuppositions, distinguish different organisational achievements or indicate where additional arguments are required. They can also reveal gaps that remain hidden when concepts are discussed separately.
 
-These pathways occupy an important place within the explanatory organisation of the framework because they reveal how concepts relate to one another, identify organisational transitions that require explanation, and make visible the continuity linking increasingly complex forms of organisation. Their purpose is not simply to arrange concepts in a memorable sequence but to propose relationships that can be examined, supported, challenged, or revised.
+Pathways are therefore useful for four limited purposes.
 
-More importantly, pathways allow APS to move beyond isolated definitions. Biological concepts rarely function as independent explanatory units. Agency, evaluation, significance, cognition, mind, and morality do not exist as separate explanatory islands. Each participates in broader organisational architectures whose structure itself requires explanation. Pathways therefore provide a means of reconstructing those architectures and making their underlying assumptions explicit.
+First, they provide explanatory orientation. They show how APS proposes that concepts are connected without requiring every argument to be repeated whenever one concept is discussed.
 
-Their value, however, depends entirely upon the legitimacy of the relationships they represent. An arrow is not a decorative feature of a diagram, nor is it a substitute for argument. Each transition must correspond to a defensible claim concerning organisation. APS pathways should therefore not be interpreted as self-validating diagrams. They represent dependency hypotheses.
+Second, they provide analytical decomposition. A broad claim can be separated into individual dependency hypotheses, allowing each arrow to be assessed independently.
 
-A dependency hypothesis proposes that one form of organisation establishes conditions required for another form of organisation to emerge, operate, persist, or become intelligible. The order of concepts is consequently neither decorative nor merely pedagogical. It expresses a claim about organisational conditions of possibility. When APS proposes:
+Third, they provide research guidance. An uncertain arrow identifies a question requiring conceptual clarification, biological evidence or comparison with alternative explanations.
+
+Fourth, they provide revision points. If one dependency claim fails, it can be qualified, retyped, replaced or removed without assuming that every concept in the pathway must also be abandoned.
+
+These advantages do not make pathways explanatory achievements in their own right. A pathway is a representational structure. Its scientific value depends upon the claims encoded within it and the arguments and evidence supporting those claims.
+
+Consider:
 
 > Biological Evaluation → Significance
 
-it is not merely placing two associated concepts beside one another. It is proposing that conditions become significant because evaluative activity establishes that they matter differently for an agent. Likewise, when APS proposes:
+APS proposes that conditions acquire biological significance through their differential bearing upon the viability and continued functioning of an organised living system. Biological evaluation is the activity through which those differences are registered and acted upon. The arrow therefore records a proposed relationship between evaluative organisation and biological significance.
 
-> Social Norms → Moral Evaluation
+The diagram does not establish that relationship. Assessment still requires APS to specify what counts as evaluation, what bears significance for what system, what material processes implement the relationship, what evidence distinguishes evaluation from differential physical response and what observations would undermine the proposed dependency.
 
-it is not simply suggesting that norms are historically earlier than moral reflection. It is proposing that socially organised expectations provide conditions through which assessment, criticism, justification, and revision become possible.
+The same restriction applies to pathways extending into cognition, social organisation or morality. The position of a concept within an APS pathway does not prove that it emerged later in evolutionary history, develops later in an individual, is caused by the concept preceding it or could not be understood through another explanatory architecture. Any such claim must be stated separately and supported by evidence appropriate to it.
 
-These are substantial explanatory claims. They may be supported, refined, challenged, or rejected. Their scientific value depends upon making their structure available for investigation rather than treating them as assumptions built into the architecture. Architectural Dependency provides the methodological framework through which that investigation proceeds.
+APS pathways should consequently be read as structured sets of dependency hypotheses. They organise questions and expose connections to scrutiny. They do not settle those questions by their arrangement.
 
-## What Is Architectural Dependency?
+## 3. What Architectural Dependency Is
 
-Architectural Dependency is a relationship in which one form of organisation establishes conditions necessary for the emergence, operation, intelligibility, or persistence of another.
+Architectural Dependency is the APS method for formulating, representing and assessing dependency hypotheses within its conceptual and organisational pathways. It does not designate a single universal dependency relation.
 
-The term *architectural* indicates that the relationship concerns organised conditions rather than isolated components. A later phenomenon depends not merely upon the physical presence of an earlier component but upon an organisation already capable of supporting what follows. Dependency therefore concerns how activities, constraints, relations, capacities, and processes must be organised before a further organisational achievement becomes possible.
+The term architectural refers to the organised pattern of relationships represented by a pathway. It directs attention to how processes, activities, structures, constraints, capacities and historical conditions are connected within an explanation. It does not imply that living systems possess a fixed blueprint or that APS has discovered one underlying architecture common to every biological phenomenon.
 
-The term *dependency* indicates that the later organisation cannot be adequately understood as wholly independent of those prior conditions. This does not imply identity between earlier and later forms of organisation, nor does it imply that one mechanically produces the other. Dependency identifies a relationship of organisational requirement while preserving the explanatory distinctiveness and novelty of what emerges.
+The term dependency indicates that a claim is being made about how specified relata are connected. One phenomenon may depend upon another causally, constitutively, as an enabling condition, through constraints, through spatial or temporal organisation, through historical development, or through an explanatory or conceptual presupposition. Some dependency hypotheses may combine several relations. The term alone does not determine which relation is present.
 
-Within APS, Architectural Dependency functions as a methodological principle rather than an explanatory projection. It should not be added to Agency, Process, and Scale as a fourth component of the framework. Agency, Process, and Scale are complementary analytic perspectives on one viability-oriented, constraint-closed organisation. Architectural Dependency performs a different task. It provides a method for reconstructing relationships among forms of organisation and evaluating the explanatory architectures built from those relationships.
+Architectural Dependency therefore differs from the dependencies it investigates. The dependencies are the proposed relationships. Architectural Dependency is the method APS uses to state and assess them.
 
-Architectural Dependency therefore asks:
+It also performs a different role from Agency, Process and Scale. These are analytic projections of one viability-oriented, constraint-closed organisation rather than independent causes, entities or levels. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; and Scale concerns where persistence is organised across spatial and temporal extents. Architectural Dependency is not a fourth projection. It examines whether particular explanatory connections proposed within or across these perspectives are adequately specified and supported.
 
-> **What organisational conditions must already be established before this phenomenon becomes possible?**
+This distinction places an important limit on APS claims. Architectural Dependency cannot establish a connection simply by describing it as organisational. Nor does the fact that a connection fits the wider APS framework count as independent support. The proposed dependency must be connected to an identifiable material basis, evidence appropriate to the relation claimed and explicit inferential limits.
 
-This question differs from asking only what caused an event, what occurred earlier in time, or what components compose a system. It seeks to identify the organisational conditions presupposed by the phenomenon under investigation.
+Architectural Dependency is the APS-specific application of the general dependency-hypothesis audit developed in APS Research. The general audit is neutral with respect to APS. It can be applied to dependency claims found in mechanistic, interventionist, organisational, developmental, evolutionary or other explanatory approaches. Its function is to determine what relation is being claimed, what supports it and whether making those matters explicit changes a defensible explanatory assessment.
 
-Consider Biological Evaluation. APS understands evaluation as the process through which agency generates significance. Evaluation requires more than differential physical response. It requires a living organisation whose activity is modulated relative to conditions bearing upon viability and continued functioning. Agency therefore supplies an organisational condition required for Biological Evaluation.
+Within the present article, that audit supplies the discipline governing APS arrows. Its complete fields and decision rules will be introduced later. At this stage, the essential point is that APS pathways do not receive a privileged evidential status. Their arrows are dependency hypotheses subject to the same requirements for material specification, evidential restraint, strongest-alternative comparison and possible failure as comparable claims elsewhere in biology.
 
-Significance, in turn, depends upon Biological Evaluation. Conditions become significant because evaluative activity establishes that they matter differently for an agent. This does not reduce significance to the mechanics of response. Rather, it identifies the organisational relationship through which mattering becomes possible.
+## 4. What an APS Arrow Claims
 
-The pathway:
-
-> Agency → Biological Evaluation → Significance
-
-therefore expresses two linked organisational dependency claims rather than a simple list of associated concepts.
-
-Architectural Dependency provides the methodological framework through which such claims can be formulated, evaluated, challenged, refined, and, where necessary, revised.
-
-## What Does an APS Pathway Arrow Mean?
-
-An APS pathway arrow should be read as a compressed organisational dependency claim.
+An APS arrow is a compact representation of a defeasible dependency hypothesis.
 
 In its most general form:
 
@@ -209,405 +170,606 @@ In its most general form:
 
 means:
 
-> Organisation A establishes one or more conditions necessary for the emergence, operation, intelligibility, or persistence of Organisation B.
+> **APS proposes that specified relata associated with A and B stand in an explanatorily relevant dependency relation under stated conditions.**
 
-The arrow does not establish the claim by itself. It records a proposed relationship that must be defended through argument, clarified through definition, and assessed against relevant evidence.
+This formulation is deliberately more cautious than saying that A makes B possible or that B necessarily depends upon A. Those stronger formulations may sometimes be warranted, but they cannot be inferred from the arrow alone.
 
-Different arrows may express different forms of dependency. Some relationships are close to constitutive. Life and Biological Agency are related because agency is the present-tense activity through which living organisation is enacted and sustained. Other relationships are enabling. Integration enables significance to become organised into functional unity without constituting cognition itself. Still others involve explanatory presupposition. Ethics presupposes morality because ethical inquiry requires moral practices, obligations, institutions, beliefs, or forms of concern to investigate.
+Before an arrow can contribute to explanation, at least four questions must be answered.
 
-Pathway arrows therefore should not be interpreted as if they all represented a single mechanism. Their shared meaning is more disciplined and more limited. They indicate that the later organisation depends upon conditions established earlier in the architecture.
+First, what are its relata? A and B may name activities, capacities, processes, structures, constraints, states or concepts. Broad labels must be translated into sufficiently precise terms for the proposed relationship to be assessed.
 
-This interpretation carries an important consequence. An arrow should never be inserted merely because two concepts appear naturally associated. APS must be able to specify what organisational development occurs at the transition. For example:
+Second, what relation is claimed? An arrow may express a causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual or mixed dependency. These relations are not interchangeable. Evidence of causal influence does not by itself establish constitution, and evidence that something is present earlier does not establish that it is an enabling condition.
 
-> Shared Evaluation → Social Norms
+Third, what material organisation implements or supports the dependency? Where an arrow makes a biological claim, it must be connected to identifiable organisms, structures, activities, interactions or conditions. A conceptual relationship may require a different form of argument, but it must still be distinguished from a material biological dependency.
 
-requires the claim that recurring collective evaluation becomes sufficiently stabilised to generate expectations concerning conduct. Similarly:
+Fourth, how strong is the claim? An arrow may record a well-supported dependency, a qualified relationship holding only within a defined scope or a speculative hypothesis requiring further investigation. Its graphical appearance should not conceal these differences.
 
-> Social Norms → Moral Evaluation
+### Dependency and causation
 
-requires the claim that socially sustained expectations become objects of assessment, criticism, justification, and revision. And:
+Explanation and causation are closely connected, but they are not identical. Many biological explanations concern causal production and are appropriately assessed through interventions, counterfactual contrasts and mechanistic evidence (Woodward 2003; Machamer, Darden, and Craver 2000). Other explanations concern constitution, organisation, constraints or historical conditions and cannot automatically be reduced to the claim that one event caused another (Craver 2007; Reutlinger 2016).
 
-> Morality → Ethics
+Architectural Dependency therefore does not exclude causation. Some APS arrows may make causal claims, and when they do, they must meet the evidential requirements appropriate to causal explanation. The point is that an arrow should not be interpreted as causal merely because it connects two terms. Its relation type must first be stated and then defended.
 
-requires the claim that organised moral life becomes the object of reflective investigation.
+This also means that no single verbal expansion can be applied to every arrow. Depending upon the claim, an arrow might mean:
 
-Each transition introduces a distinct organisational development. If that development cannot be identified, the dependency claim remains unsupported.
+- A causally influences B under specified conditions.
+- A partly constitutes B.
+- A enables B without constituting or directly producing it.
+- A constrains the range or organisation of B.
+- B depends upon the spatial or temporal organisation of A.
+- The operation or character of B depends upon a relevant developmental or evolutionary history.
+- Understanding or applying B presupposes A within a stated explanatory context.
 
-The pathway format therefore imposes a methodological obligation upon APS. It requires the framework to make organisational dependencies explicit, distinguish them from neighbouring relationships, and expose them to challenge. APS pathways should consequently be read neither as completed demonstrations nor as speculative illustrations. They are compact representations of structured hypotheses concerning the organisational conditions through which increasingly complex forms of living organisation become possible, persist, and become intelligible.
+These formulations carry different commitments. They require different contrasts, different evidence and different limits on inference.
+
+An arrow may also prove incorrectly typed. A connection initially described as causal might be better understood as enabling; an asserted necessity might hold only within a restricted biological context; or a supposed material dependency might instead be a relationship among APS definitions. Retyping such a claim is not an evasion. It is legitimate only when the revised relation is stated openly and supported independently.
+
+Conversely, an arrow must be rejected if APS cannot identify its relata, specify a defensible relationship, connect the biological claim to an appropriate material basis or state what would count against it. It may also be retained as a useful representation while providing no additional explanatory gain over an established account. The audit must permit this principled no-gain outcome rather than manufacture a contribution for every APS connection.
+
+APS arrows should therefore be read neither as established facts nor as decorative associations. They are compact, revisable statements of proposed dependencies. Their scientific credibility begins only when the compression is unpacked.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/architectural-dependency-is-not-causation.png" target="_blank" rel="noopener">
+  <a
+    href="/assets/diagrams/what-an-aps-arrow-requires.png"
+    target="_blank"
+    rel="noopener"
+  >
     <img
-      src="/assets/diagrams/architectural-dependency-is-not-causation.png"
-      alt="Architectural Dependency Is Not Causation"
+      src="/assets/diagrams/what-an-aps-arrow-requires.png"
+      alt="The requirements for assessing an APS pathway arrow"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Architectural Dependency Is Not Causation.</strong>
-    Architectural Dependency concerns the organisational conditions that make a form of organisation possible, whereas causal explanation concerns the production of outcomes through causal processes. APS pathways express dependency relations rather than direct claims of causation.
+    <strong>What an APS Arrow Requires.</strong>
+    An APS arrow records a defeasible dependency hypothesis rather than
+    supplying evidence for it. Assessment requires specified relata, relation
+    typing, material specification, matched evidence and limits, alternatives,
+    scope, failure conditions, strongest-established-explanation comparison,
+    and a comparative-gain or principled-no-gain verdict.
   </p>
 </div>
-
 
 [[box:dependency-is-not-causation]]
 
-## Types of Architectural Dependency
+## 5. Relation Types and Evidential Requirements
 
-Not all organisational dependencies are alike.
+APS pathway arrows do not all express the same kind of relationship. An arrow may concern causal influence, material constitution, enabling conditions, organisational constraints, spatial arrangement, temporal coordination, historical dependence or conceptual presupposition. Some arrows may combine several of these.
 
-Some forms of organisation are so closely related that the later phenomenon exists partly through organisational structures already present in the earlier one. Other relationships are less intimate. In these cases, the earlier organisation establishes conditions that make a later phenomenon possible without constituting it. Distinguishing between such relationships is important because APS pathway arrows do not all express the same kind of dependency.
+Relation typing matters because the evidential requirements differ. Evidence that A causes a change in B does not by itself show that A constitutes B. Evidence that A appeared earlier in development does not establish that A enables B. A conceptual argument showing that one APS definition presupposes another does not establish a corresponding material dependency in living systems.
 
-APS therefore recognises a small number of dependency forms while distinguishing them from the evidential strategies used to support dependency claims.
+The relation types considered here form a provisional and non-exhaustive set. They are analytical distinctions for clarifying dependency hypotheses, not a universal taxonomy imposed upon biological explanation.
 
-### Organisational Dependency
+### Causal dependency
 
-Architectural Dependency is the methodological investigation of organisational dependencies. Organisational dependency refers to the relationship itself, whereas Architectural Dependency refers to the explanatory framework through which such relationships are identified, evaluated, compared, and revised.
+A causal dependency claims that variation in A makes a difference to B under specified conditions. Depending upon the question, evidence may come from controlled intervention, perturbation, comparative variation, temporal ordering, causal modelling or the identification of a mechanism connecting the relata (Woodward 2003; Machamer, Darden, and Craver 2000).
 
-Organisational dependency is the general category to which all Architectural Dependencies belong.
+Such evidence can support the claim that A contributes causally to B. It does not automatically show that A is necessary for B in every system, that A constitutes B or that no alternative causal route can produce the relevant outcome.
 
-An organisational dependency exists whenever one form of organisation establishes conditions required for another form of organisation to emerge, operate, persist, or become intelligible. Architectural Dependency is therefore concerned with organisational relationships rather than causal sequences, temporal orderings, or conceptual associations. The central question is always whether the later phenomenon genuinely presupposes organisational conditions established by the earlier one.
+Mistyping a relationship as causal may encourage APS to treat an organisational, constitutive or conceptual connection as though one item produced another. Conversely, describing a genuinely causal relationship only as an unspecified organisational dependency can conceal the empirical tests it should survive.
 
-Every APS pathway arrow ultimately expresses a claim of organisational dependency.
+### Constitutive dependency
 
-### Constitutive Dependency
+A constitutive dependency claims that A is among the organised parts, activities or relations through which B exists or is realised. The question is not principally whether A produces B as a separate outcome, but whether A participates in the organisation of B itself.
 
-A constitutive dependency exists when the later organisation is inseparable from organisational structures already present in the earlier one.
+Appropriate support may include decomposition of the phenomenon, localisation of relevant entities and activities, evidence of their organisation and demonstration that altering this organisation changes the constitution of the phenomenon (Craver 2007; Machamer, Darden, and Craver 2000). In biological contexts, constitutive claims must distinguish what is part of the phenomenon from its causes, background conditions and effects.
 
-In such cases the later phenomenon is not merely enabled. It exists partly through the organisation that precedes it.
+Evidence that A causally affects B does not establish that A is a constituent of B. Nor does frequent association or spatial proximity suffice. Mistyping a causal contributor as constitutive may improperly build a contingent influence into the identity of the phenomenon. Mistyping constitution as causation may instead separate a phenomenon from the organisation through which it exists.
 
-The relationship between Life and Agency illustrates this form of dependency. APS understands Biological Agency as the present-tense activity through which living organisation is enacted and sustained. Agency is therefore not an optional addition to life. It is part of the organisation through which life persists.
+### Enabling dependency
 
-The pathway:
+An enabling dependency claims that A provides a condition within which B can occur or operate without being either B’s complete cause or one of its constituents. Enabling conditions may include resources, capacities, background organisation, environmental conditions or previously established forms of activity.
 
-> Life → Agency
+Support requires more than showing that A and B occur together. Assessment should identify the relevant range of conditions, demonstrate how the presence or variation of A alters the possibility or reliable operation of B and consider whether alternative enabling arrangements are available. Organisational accounts are particularly relevant when the enabling condition is itself maintained by the system whose activity is being explained (Bich and Bechtel 2022; Moreno and Mossio 2015).
 
-expresses a constitutive dependency because agency depends upon life as an activity of living organisation rather than as an independently existing phenomenon.
+Evidence that A enables B does not establish that A uniquely enables B, that A is universally necessary or that A directly causes each occurrence of B. Mistyping an enabling condition as constitutive can make the definition of B too restrictive. Mistyping it as a direct cause can obscure the background organisation that allows causal processes to work.
 
-Constitutive dependencies represent the strongest dependency relationships recognised within APS because the organisational connection between earlier and later forms is especially close.
+### Constraint-based dependency
 
-### Enabling Dependency
+A constraint-based dependency claims that A restricts, channels or stabilises the possible behaviour of processes contributing to B. A constraint does not merely add another event to a causal sequence. It changes the range or organisation of possible activity by altering the conditions under which processes occur.
 
-An enabling dependency exists when one form of organisation establishes conditions that make another form of organisation possible without constituting it.
+Appropriate evidence identifies the constraining structure or activity, its material implementation, the processes constrained and the difference its presence, removal or modification makes. Where constraint closure is claimed, the account must also show how relevant constraints contribute to maintaining one another within an organised system (Moreno and Mossio 2015; Montévil and Mossio 2015).
 
-Most APS pathway relationships appear to take this form.
+The discovery of a constraint does not show that it acts alone, controls the system from a wider level or is necessary across every biological context. Mistyping a constraint as an efficient cause may obscure how it modifies local possibilities. Describing any regular influence as a constraint may, in the opposite direction, empty the category of explanatory precision.
 
-Consider the relationship between Biological Evaluation and Significance. APS proposes that significance arises because evaluative activity establishes differential consequences for organised persistence. Evaluation therefore creates conditions under which significance becomes possible. Yet significance is not identical with evaluation. It possesses its own explanatory role and organisational properties.
+### Structural dependency
 
-The pathway:
+A structural dependency claims that B depends upon an arrangement, topology, composition or pattern of relations instantiated by A. What matters is not only which components are present but how they are organised.
 
-> Biological Evaluation → Significance
+Support may come from structural comparison, reconfiguration, lesion or perturbation, reconstruction and demonstration that relevant changes in arrangement alter the phenomenon. Structural evidence should specify which features of the arrangement are explanatorily relevant rather than relying upon general claims about complexity or organisation.
 
-therefore expresses an enabling dependency.
+A structural correlation does not by itself establish causal production, constitution or necessity. Different material structures may sometimes realise the same relevant organisation. Mistyping a structural dependency as a component claim can conceal the importance of relations; treating structure as sufficient may neglect the activities through which it operates.
 
-The later phenomenon depends upon the earlier one while remaining organisationally distinct from it.
+### Spatial dependency
 
-Many of the transitions linking significance, integration, cognition, mind, selfhood, reflective agency, and meaning are best understood in these terms.
+A spatial dependency claims that B depends upon the location, distribution, orientation, boundary conditions or spatial relations of relevant entities and activities.
 
-### Dependency Forms and Explanatory Practice
+Support may include spatially selective intervention, transplantation, relocation, imaging, gradient manipulation or comparison across differently organised spatial arrangements. The analysis must identify the spatial feature that matters and distinguish it from correlated differences in composition or activity.
 
-The distinction between constitutive and enabling dependency should not be interpreted as a rigid classification imposed upon every pathway. Its purpose is explanatory rather than taxonomic. The distinction helps clarify the nature of the organisational relationship being proposed.
+Spatial order alone does not establish a developmental sequence, causal direction or universal structural requirement. Mistyping a spatial dependency as merely causal may omit the geometry within which causal processes operate. Treating spatial proximity as dependency may instead confuse adjacency with explanatory relevance.
 
-The guiding question remains unchanged:
+### Temporal dependency
 
-> **What organisational conditions must already be present for this phenomenon to become possible?**
+A temporal dependency claims that B depends upon the timing, duration, rate, order, recurrence or coordination of relevant processes. The claim concerns temporally organised activity, not simply the fact that A occurred before B.
 
-Different answers reveal different forms of dependency.
+Support may come from interventions in timing, longitudinal observation, comparison of different temporal patterns or evidence that the same components produce different outcomes when their sequence or duration changes.
 
-Architectural dependency and organisational transition address different explanatory questions.
+Temporal precedence is not sufficient to establish causation or enabling necessity. Nor does one observed sequence establish that no alternative temporal organisation is possible. Mistyping succession as dependency turns chronology into explanation; ignoring a genuine temporal dependency may leave the relevant entities and activities in place while missing why they produce one outcome rather than another.
 
-Architectural dependency identifies relations of organisational necessity. It asks what must already be organised for a capacity, process, or form of activity to operate or become intelligible.
+### Historical dependency
 
-Organisational transition asks how those relations become established, reorganised, or stabilised through time.
+A historical dependency claims that the present character, capacity or function of B depends upon a relevant developmental or evolutionary history. The history may explain how the organisation arose, why it has its present form or why a current contribution possesses a particular biological significance.
 
-Architectural dependency maps necessary organisational relations. Organisational transition explains how those relations become operative.
+Support requires an evidentially grounded historical reconstruction, not merely a narrative consistent with the current state. Developmental trajectories, phylogenetic comparisons, selection history, inheritance and experimentally accessible historical effects may all be relevant. Historical accounts must also distinguish historical origin from present operation. A present biological function, for example, may require analysis of both current organisational contribution and evolutionary history without treating those as the same explanatory question (Saborido, Mossio, and Moreno 2011).
 
-The two approaches are therefore complementary. Dependency identifies the architecture of a system; transition investigates the transformations through which that architecture emerges, changes, or becomes consolidated.
+Historical evidence does not by itself establish a present causal, constitutive or enabling dependency. Earlier appearance is not sufficient. Mistyping history as current mechanism can obscure how the phenomenon now operates; excluding history altogether may leave its origin or biological character unexplained.
 
-## Dependency and Evidence
+### Conceptual or explanatory presupposition
 
-Dependency relations should be distinguished from the evidence used to support them.
+A conceptual dependency claims that applying or understanding B within a stated framework presupposes A. An explanatory presupposition claims that an account of B requires reference to A to answer the particular question being asked.
 
-A common mistake is to treat developmental order, evolutionary history, or comparative similarity as dependency relations in their own right. APS rejects this interpretation because dependency and evidence perform different explanatory functions. Dependency identifies an organisational relationship. Evidence helps determine whether that relationship is well supported.
+Support is primarily argumentative. It requires clear definitions, analysis of the explanatory aim and demonstration that removing A changes, weakens or makes incoherent the proposed account. Because explanatory aims differ, an indispensable concept for one question may be unnecessary for another (Brigandt 2013; Mitchell 2002).
 
-Developmental, evolutionary, and comparative analyses therefore do not define dependencies. They provide reasons for accepting, rejecting, strengthening, or revising dependency claims. A developmental sequence may reveal an organisational dependency. An evolutionary transition may support one. Comparative variation may increase or decrease confidence in a proposed architecture. Yet none of these observations establishes dependency by itself.
+Conceptual indispensability does not establish that A materially causes, constitutes or enables B in biological systems. Mistyping a relationship among APS definitions as an empirical dependency would allow the framework’s vocabulary to appear to confirm its biological claims. Conversely, treating every explanatory dependency as merely conceptual may overlook a relationship that has a material basis and can be empirically investigated.
 
-Maintaining this distinction is important because it prevents evidential support from being confused with explanatory structure. APS pathways identify proposed organisational relationships. Developmental, evolutionary, and comparative evidence help determine whether those proposals are justified.
+### Mixed dependencies
 
-## Dependency is not transition
-A pathway showing that one capacity depends upon another does not by itself explain how that capacity arose.
+Some claims legitimately combine relations. A structure may constitute part of a mechanism, constrain its activities, enable a capacity and depend upon a particular developmental history. Biological organisation frequently requires such plural explanations (Bich and Bechtel 2021; Brigandt 2013).
 
-For example, a pathway may show that cognition depends upon biological evaluation and significance. This identifies an organisational dependency. It does not automatically explain the developmental, evolutionary, or historical transition through which cognitive organisation became possible.
+Calling a relationship mixed must not become a way of avoiding precision. Each component relation should be stated separately wherever possible, matched to its evidence and assigned its own inferential limits. Support for one component does not transfer automatically to the others.
 
-Dependency explains necessity. Transition explains transformation.
+Relation typing is therefore an analytical starting point. Its purpose is not to force every APS arrow into one category but to prevent heterogeneous claims from being compressed into an evidentially ambiguous line.
 
-## How APS Validates Dependency Claims
+## 6. How APS Assesses Dependency Claims
 
-If Architectural Dependency is to function as a scientific methodology rather than a conceptual preference, APS must provide a systematic way of evaluating dependency claims. A pathway arrow cannot be justified merely because a sequence appears intuitive, aesthetically satisfying, or consistent with the broader architecture of the framework. Every proposed dependency must be supported by explicit argument and assessed against identifiable standards.
+Architectural Dependency applies the comparative dependency-hypothesis audit to APS pathways. The audit does not begin by asking how an arrow can be defended. It begins by asking exactly what is being claimed and what would distinguish that claim from its alternatives.
 
-The central methodological question is therefore:
+Assessment proceeds arrow by arrow. Support for one connection does not validate its neighbours, and a credible pathway may contain claims with markedly different evidential standing.
 
-> **How do we know whether a dependency claim is justified?**
+### Explanandum and foil
 
-APS answers this question by distinguishing dependency relations from the evidence used to support them. A dependency claim proposes that one form of organisation establishes conditions required for another. Validation concerns the assessment of that proposal. The goal is not to prove dependency with absolute certainty but to determine whether the proposed organisational relationship provides the most coherent and explanatory account currently available.
+The explanandum is the phenomenon, capacity, pattern or difference to be explained. It should be specified closely enough to prevent the audit from shifting between different questions.
 
-No single form of evidence is sufficient in isolation. Organisational relationships are rarely established by a single observation, experiment, or developmental sequence. Instead, dependency claims are strengthened when multiple lines of support converge upon the same explanatory architecture. For this reason APS employs a family of complementary validation criteria, each addressing a different aspect of organisational necessity.
+The foil states the relevant contrast: why this phenomenon rather than another outcome, why it occurs under these conditions rather than others, or why one explanatory interpretation should be preferred. Without a foil, a dependency claim can remain so broad that almost any evidence appears compatible with it.
 
-### Organisational Necessity
+### Dependency claim and relata
 
-The most important validation criterion concerns organisational necessity.
+The dependency claim identifies what is proposed to depend upon what. Its relata must be specified rather than left as broad pathway labels wherever those labels conceal different activities, structures or processes.
 
-A dependency claim is strengthened when the later phenomenon cannot be adequately characterised without reference to the organisation proposed as its prerequisite. The question is not whether the earlier phenomenon happened first, nor whether the two phenomena are correlated. The question is whether the later organisation remains intelligible once the proposed prerequisite is removed.
+For example, an arrow from Biological Evaluation to Significance cannot be assessed merely by repeating the two terms. The analysis must identify the evaluative activity, the condition treated as significant, the system for which it is significant and the circumstances in which the relationship is proposed to hold.
 
-For example, APS proposes:
+### Relation type
 
-> Biological Evaluation → Significance
+The audit states whether the proposed dependency is causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual or mixed. The selected type determines what support is relevant and what conclusions may legitimately be drawn.
 
-This dependency claim becomes stronger if significance cannot be adequately explained without evaluative activity. If conditions matter differently for an agent because they are differentially evaluated relative to organised persistence, then evaluation establishes an organisational condition required for significance. If significance could be explained equally well without reference to evaluation, the dependency would weaken.
+Relation typing remains revisable. If the evidence supports a different relation from the one initially proposed, the arrow should be retyped rather than protected through ambiguous wording.
 
-Organisational necessity therefore directs attention toward explanatory indispensability rather than temporal order. It asks whether the later organisation genuinely presupposes the earlier one or merely happens to coexist with it.
+### Material basis
 
-### Explanatory Necessity
+An empirical biological dependency must be connected to identifiable material organisation. The audit asks which entities, activities, structures, interactions, constraints or environmental conditions realise the proposed relationship.
 
-Organisational necessity concerns the phenomenon itself. Explanatory necessity concerns the adequacy of explanation.
+Material specification does not require every explanation to be reduced to molecular detail. The relevant basis may be cellular, physiological, developmental, behavioural, ecological or distributed across spatial and temporal extents. It must nevertheless be sufficiently explicit to show how the dependency is implemented and investigated.
 
-A dependency claim gains support when explanation of the later phenomenon requires systematic reference to the earlier organisation. The issue is not whether the earlier phenomenon participates in the explanation but whether the explanation becomes incomplete, incoherent, or substantially weakened when that reference is removed.
+A purely conceptual presupposition requires an explicit argumentative basis rather than an invented material correlate. Keeping these cases separate prevents conceptual coherence from being presented as empirical confirmation.
 
-Consider the relationship:
+### Admissible variation, contrast or counterfactual
 
-> Social Norms → Moral Evaluation
+A dependency becomes assessable when relevant variation can be identified. The audit asks what would change if A were absent, altered, relocated, delayed, differently organised or historically different.
 
-APS proposes that moral evaluation depends upon socially organised expectations concerning conduct. If attempts to explain moral evaluation repeatedly require reference to norms, obligations, expectations, or standards sustained within a social community, then explanatory necessity supports the dependency claim.
+Interventionist and counterfactual approaches are especially valuable for causal claims because they can test whether controlled variation in A makes a difference to B (Woodward 2003). Perturbations may also inform enabling, structural, spatial, temporal and constraint-based claims.
+
+They are not universal tests. Removing a constituent may destroy the phenomenon rather than isolate a causal relationship. Some historical alternatives cannot be experimentally recreated. Conceptual dependencies require argumentative comparison rather than physical intervention. Counterfactuals must therefore be admissible for the relation and system concerned, not merely imaginable.
+
+### Matched evidence and inferential limits
+
+The audit records the evidence supporting or challenging the dependency and explains why that evidence bears upon the stated relation. Mechanistic evidence may identify organised entities and activities; intervention may support causal difference-making; structural comparison may reveal relevant arrangement; developmental and evolutionary evidence may support historical reconstruction; and comparative variation may test scope or alternative realisations (Machamer, Darden, and Craver 2000; Craver 2007).
+
+Each evidential entry must also state its limit. Correlation may identify an association without causal direction. Perturbation may demonstrate difference-making without necessity. Developmental order may support a historical hypothesis without establishing present constitution. Evolutionary succession may illuminate origin without explaining current operation. Converging evidence can strengthen a claim, but accumulation does not erase these inferential boundaries.
+
+### Alternatives and scope
+
+The audit identifies plausible alternative dependencies and the conditions under which the proposed relationship is claimed to hold. Alternatives may differ in relation type, causal route, material realisation, direction, explanatory priority or conceptual formulation.
+
+Scope must be explicit. A dependency found in one lineage, developmental stage or organisational context should not be presented as universal. Exceptions may defeat the claim, restrict it or reveal that a more abstractly specified relationship is required.
+
+### Failure conditions
+
+A dependency hypothesis must state what would count against it. Failure conditions may include:
+
+persistence of the explanandum when the asserted prerequisite is absent;
+evidence that the relata were incorrectly identified;
+support for a different relation type;
+discovery of alternative material routes;
+failure of the proposed dependency outside an unstated narrow context;
+inability to distinguish the claim from a conceptual definition; or
+an established explanation that already performs the relevant work without the proposed APS reconstruction.
+
+A claim is not scientifically strengthened by being reformulated after every contrary result. If no possible finding could qualify or defeat an arrow, the arrow is not functioning as an assessable dependency hypothesis.
+
+### Strongest established explanation
+
+The proposed dependency must be compared with the strongest relevant established explanation, not with a simplified textbook account or a rival stripped of its organisational, mechanistic or historical resources.
+
+The comparison asks whether the established account already identifies the relevant entities, activities, relations, evidence, scope and limitations. Explanatory pluralism means that different accounts may answer different questions; it does not entitle APS to claim an advance merely by redescribing an established result in its own vocabulary (Brigandt 2013; Mitchell 2002; Taylor 2023).
+
+### Comparative-gain or null verdict
+
+The final question is whether auditing the dependency changes a defensible explanatory assessment.
+
+A comparative-gain verdict is warranted when the audit reveals a consequential distinction that the strongest established account leaves unclear—for example, by correcting a relation type, exposing an unsupported sufficiency claim, connecting a dependency to its material basis, restricting its scope or identifying a genuine failure condition.
+
+A null verdict is warranted when the strongest established explanation already performs the relevant explanatory work. This is not a failed application. It shows that the method can discriminate between cases in which relation-sensitive reconstruction matters and cases in which it adds no material insight.
 
-Explanatory necessity is especially important because it helps distinguish genuine dependencies from mere associations. Two concepts may frequently appear together without one being required for explanation of the other. Dependency becomes more plausible when explanatory reconstruction consistently returns to the same organisational prerequisite.
+<div
+  class="table-scroll"
+  role="region"
+  aria-labelledby="dependency-audit-caption"
+  tabindex="0"
+>
+  <table>
+    <caption id="dependency-audit-caption">
+      Table 1. Compact implementation of the APS dependency-hypothesis audit
+    </caption>
+    <thead>
+      <tr>
+        <th scope="col">Audit field</th>
+        <th scope="col">Question to record</th>
+        <th scope="col">Required discipline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Explanandum and foil</th>
+        <td>What exactly is being explained, and in contrast with what?</td>
+        <td>Prevent movement between different explanatory targets.</td>
+      </tr>
+      <tr>
+        <th scope="row">Claim and relata</th>
+        <td>What is proposed to depend upon what?</td>
+        <td>Replace broad labels with assessable activities, structures, conditions or concepts.</td>
+      </tr>
+      <tr>
+        <th scope="row">Relation type</th>
+        <td>What kind of dependency is claimed?</td>
+        <td>Type each causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual or mixed component.</td>
+      </tr>
+      <tr>
+        <th scope="row">Material basis</th>
+        <td>How is the biological relationship implemented?</td>
+        <td>Identify relevant entities, activities, organisation and conditions without demanding an inappropriate scale of reduction.</td>
+      </tr>
+      <tr>
+        <th scope="row">Variation or contrast</th>
+        <td>What admissible change would test or clarify the dependency?</td>
+        <td>Match intervention, counterfactual or comparison to the relation and system.</td>
+      </tr>
+      <tr>
+        <th scope="row">Evidence and limits</th>
+        <td>What supports the claim, and what does that support not establish?</td>
+        <td>Prevent correlation, precedence, perturbation or coherence from licensing stronger conclusions than they warrant.</td>
+      </tr>
+      <tr>
+        <th scope="row">Alternatives and scope</th>
+        <td>What rival relation or architecture is plausible, and where does the claim hold?</td>
+        <td>Consider alternative routes, realisations and restricted domains.</td>
+      </tr>
+      <tr>
+        <th scope="row">Failure conditions</th>
+        <td>What finding would qualify, retype or defeat the claim?</td>
+        <td>State possible failure before treating the arrow as supported.</td>
+      </tr>
+      <tr>
+        <th scope="row">Strongest established explanation</th>
+        <td>What is the best existing account of the explanandum?</td>
+        <td>Compare with its full mechanistic, organisational and historical resources.</td>
+      </tr>
+      <tr>
+        <th scope="row">Gain or null verdict</th>
+        <td>Does the audit change a defensible explanatory assessment?</td>
+        <td>Record genuine gain or principled no gain without manufacturing novelty.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### Counterfactual Dependency Testing
+### Possible assessment outcomes
 
-The strongest validation criterion often takes counterfactual form.
+The audit permits several outcomes:
 
-A dependency claim can be investigated by asking:
+- Retention: the dependency is adequately typed and supported within its stated scope.
+- Qualification: the relationship survives but requires narrower scope, weaker strength or more precise conditions.
+- Retyping: a defensible dependency remains, but it is not the relation originally asserted.
+- Rejection: the proposed dependency is unsupported or contradicted.
+- Redescription: the audit restates established knowledge without changing an explanatory assessment.
+- Redundancy: the proposed APS contribution duplicates an existing analytical provision.
+- Principled no gain: the established explanation already distinguishes and supports the relevant dependencies sufficiently.
 
-> **What would the later phenomenon look like if the proposed prerequisite were absent?**
+These verdicts apply to individual dependency claims. A pathway should not receive a single confidence status merely because some of its arrows are well supported. Each connection retains its own evidence, limits and failure conditions.
 
-The purpose of this question is not speculative imagination but explanatory stress testing. If a coherent account of the later organisation remains possible without the earlier condition, the dependency weakens. If the later phenomenon becomes unintelligible, the dependency strengthens.
+Architectural Dependency therefore replaces pathway affirmation with comparative assessment. Its purpose is not to show that APS arrows must be correct. It is to establish what each arrow would have to mean, what could support or defeat it and whether making the dependency explicit contributes anything beyond the strongest explanation already available.
 
-For example, APS proposes:
+## 7. Feedback, Constraint Closure, Time and Scale
 
-> Agency → Biological Evaluation
+Living organisation is extensively reciprocal. Processes influence one another, regulatory activity changes the conditions of later activity, and constraints participate in maintaining the organisation within which they operate. A pathway composed of one-way arrows can therefore misrepresent the biology if its arrows are interpreted as simple, permanent asymmetries.
 
-The relevant question becomes:
+Architectural Dependency does not resolve this problem by assuming that dependency and feedback address entirely separate questions. Their relationship must itself be assessed. Feedback may preserve an asserted dependency, restrict its scope, transform its relation type or show that the original arrow is inadequate.
 
-> What would Biological Evaluation be if agency were absent?
+### Dependency and influence
 
-If evaluation requires a living organisation actively regulating conditions relative to viability, then the removal of agency may eliminate the phenomenon being explained. In that case the dependency gains support.
+A dependency claim states that specified relata stand in a particular relation under stated conditions. An influence claim states that variation in one relatum affects another. Influence may provide evidence for a causal dependency, but reciprocal influence does not by itself determine the complete architecture.
 
-Counterfactual analysis is especially valuable because it forces dependency claims to expose their organisational commitments. A proposed dependency must show not merely that the earlier phenomenon contributes to the later one but that its absence would significantly alter or undermine the organisational architecture.
+Suppose APS proposes:
 
-### Developmental Support
+Agency → Biological Evaluation
 
-Developmental evidence can provide important support for dependency claims.
+If evaluative activity subsequently modifies the agent’s behaviour, physiological regulation or environmental engagement, the resulting influence may be represented as feedback. This does not automatically defeat the original arrow, but neither does it guarantee that the arrow remains correctly specified. Assessment must ask whether agency is constitutive of evaluation, enables it, causally affects it or stands in some mixed relation to it. It must then determine whether the reciprocal influence changes that assessment.
 
-If one form of organisation consistently appears only after another has become established during development, this pattern may indicate an underlying organisational relationship. Developmental trajectories often reveal which capacities, structures, or activities must already be present before later organisational achievements become possible.
+Several outcomes are possible:
 
-Developmental support, however, should not be confused with dependency itself. A developmental sequence does not automatically establish an organisational dependency. Earlier developmental appearance may simply reflect contingent biological history. The significance of developmental evidence therefore depends upon whether it aligns with an independently plausible dependency claim.
+- feedback may leave the asserted dependency intact;
+- it may show that the dependency holds only under particular conditions;
+- it may reveal a reciprocal causal relationship alongside a constitutive or enabling dependency;
+- it may require the arrow to be retyped; or
+- it may defeat the proposed asymmetry and require a different representation.
 
-Developmental observations are most valuable when they reveal organisational transitions that mirror the architecture proposed by the dependency framework.
+The existence of feedback is therefore evidence to interpret, not a general argument either for or against dependency.
 
-### Evolutionary Support
+### Constraint closure and dependency
 
-Evolutionary history can provide a second source of support.
+Constraint closure concerns a form of organisation in which constraints contribute to maintaining the conditions under which other constraints and processes continue to operate (Moreno and Mossio 2015; Montévil and Mossio 2015). APS’s canonical account of life as viability-oriented, constraint-closed organisation places such reciprocal maintenance at the centre of living activity (Spencer 2026).
 
-Many APS pathways concern organisational capacities whose historical emergence may leave detectable traces within evolutionary transitions. If a proposed dependency relationship corresponds with broad evolutionary patterns, confidence in the architecture may increase.
+A dependency hypothesis within a constraint-closed organisation must specify what kind of relation is being claimed. One constraint may enable another, several constraints may be mutually maintained, or a pattern of closure may constitute an organised capacity. These possibilities cannot be compressed into the general assertion that one form of organisation necessarily precedes or supports another.
 
-For example, increasingly sophisticated forms of cognition appear historically later than simpler forms of evaluative organisation. Such observations do not prove that cognition depends upon evaluation, but they may support the plausibility of that claim when considered alongside organisational and explanatory arguments.
+Closure also does not guarantee that an original asymmetry survives. If A and B are mutually required for the continued operation of an established system, the relevant explanation may concern reciprocal maintenance rather than a one-way dependency. A directional arrow might remain appropriate for a particular causal question, developmental reconstruction or explanatory presupposition, but its scope must be stated.
 
-As with developmental evidence, evolutionary support contributes to validation without determining it. Evolutionary history can strengthen a dependency claim, but dependency remains an organisational relationship rather than a historical sequence.
-
-### Comparative Support
-
-Comparative evidence provides a third form of support.
-
-If variation in one form of organisation is systematically associated with variation in another, this relationship may illuminate underlying dependencies. Comparative analysis allows APS to examine how organisational differences influence the presence, absence, or character of later phenomena.
-
-For example, differences in evaluative organisation may correspond with differences in significance processing. Variations in cognitive organisation may influence forms of selfhood or reflective agency. Such observations do not establish dependency by themselves, but they may reveal recurring patterns consistent with a proposed architecture.
-
-Comparative support is particularly valuable because it introduces variation into the analysis. Organisational dependencies become easier to investigate when systems differ in ways that make underlying relationships visible.
-
-### Rival Architecture Testing
-
-Validation requires more than support for a preferred pathway.
-
-A dependency claim becomes scientifically meaningful only when alternative architectures are considered and evaluated. APS must therefore compare proposed pathways against plausible rivals rather than assuming that the first coherent sequence is necessarily correct.
-
-For example, consider the pathway:
-
-> Agency → Biological Evaluation → Significance
-
-A rival architecture might propose:
-
-> Agency → Significance → Biological Evaluation
-
-or:
-
-> Agency → Cognition → Biological Evaluation
-
-The question is not whether such alternatives can be imagined. The question is whether they provide a more coherent account of the organisational relationships under investigation.
-
-Rival architecture testing is essential because it transforms pathway construction from assertion into comparative explanation. A dependency claim gains credibility when it consistently explains organisational phenomena more effectively than competing alternatives.
-
-## Strong, Provisional, and Speculative Dependencies
-
-Not all dependency claims possess equal evidential maturity.
-
-Some relationships are supported by converging organisational, explanatory, developmental, evolutionary, comparative, and counterfactual considerations. Others remain plausible but incompletely developed. Still others function primarily as exploratory hypotheses whose status remains uncertain.
-
-APS therefore distinguishes among different levels of confidence.
-
-Strong dependencies are supported by multiple forms of evidence and survive comparison with plausible alternatives. Such dependencies remain open to revision, but they currently possess substantial explanatory support.
-
-Provisional dependencies possess credible organisational arguments yet remain incompletely validated. They may depend upon unresolved conceptual questions, limited evidence, or ongoing theoretical development. Provisional status does not imply weakness. It reflects recognition that explanatory work remains incomplete.
-
-Speculative dependencies represent hypotheses whose organisational plausibility exceeds their current evidential support. These dependencies may identify promising directions for inquiry, but they should not be presented as established components of the architecture.
-
-The distinction between strong, provisional, and speculative dependencies serves an important methodological purpose. It prevents pathways from being treated as fixed doctrines while preserving their value as explanatory tools. Architectural Dependency is therefore not a mechanism for ending inquiry. It is a framework for organising and guiding inquiry.
-
-A mature dependency architecture is one that makes its confidence levels explicit. Scientific credibility increases when uncertainty is acknowledged rather than concealed, because doing so allows dependency claims to remain open to refinement, revision, and empirical challenge.
-
-# Dependency, Feedback, and Constraint Closure
-
-Architectural Dependency is often misunderstood because living systems are not organised as simple linear sequences. APS defines life as viability-oriented, constraint-closed organisation, and such organisation is characterised by extensive reciprocal interaction, ongoing regulation, and continuous mutual modification among organisational processes. At first glance, these features appear difficult to reconcile with asymmetrical dependency relations. If organisational forms influence one another reciprocally, how can one legitimately be said to depend upon another?
-
-This challenge arises because dependency and influence address different explanatory questions. Architectural Dependency asks what organisational conditions must already be present for a phenomenon to become possible. Feedback, reciprocal influence, and constraint closure ask how established organisational forms interact, regulate one another, and contribute to ongoing persistence. The apparent tension therefore results from treating distinct explanatory relationships as if they were identical.
-
-APS maintains that dependency, feedback, and constraint closure are compatible because they operate at different explanatory levels. Dependency concerns organisational prerequisites. Feedback concerns ongoing interaction. Constraint closure concerns reciprocal maintenance. Understanding these distinctions is essential if pathway architectures are to be interpreted correctly.
-
-## Dependency versus Influence
-
-A dependency relationship identifies conditions required for the emergence, operation, intelligibility, or persistence of a later organisational form. Influence, by contrast, concerns the capacity of one established organisational form to modify, regulate, shape, or stabilise another. Although the two relationships may occur within the same system, they should not be conflated.
-
-Consider the pathway:
-
-> Agency → Biological Evaluation
-
-APS proposes that agency establishes conditions required for Biological Evaluation because evaluative activity presupposes a living organisation actively engaged in viability-oriented regulation. Once evaluation exists, however, evaluation may influence future agency. Evaluative activity can alter behavioural tendencies, modify patterns of interaction, and contribute to subsequent organisational regulation. The existence of this influence does not remove the original dependency. Evaluation may affect agency while still depending upon agency as a condition of its own existence.
-
-The same logic applies throughout the framework. Significance may influence evaluation, cognition may influence significance, and reflective agency may influence selfhood. Such relationships reveal ongoing interaction among organisational forms. They do not eliminate the asymmetries that originally made those forms possible.
-
-Dependency therefore concerns conditions of possibility. Influence concerns conditions of operation. The existence of one relationship does not invalidate the other.
-
-## Dependency versus Circular Causation
-
-A second source of confusion arises from circular causation. Biological systems frequently exhibit reciprocal causal relationships in which the effects of one process subsequently alter the conditions under which that process continues. Such dynamics are common in physiology, development, behaviour, ecology, and social organisation.
-
-Architectural Dependency does not deny the existence of circular causation. Rather, it addresses a different explanatory question.
-
-Circular causation concerns the dynamics of interaction among already established organisational forms. Architectural Dependency concerns the organisational conditions required for those forms to exist in the first place. These relationships are therefore complementary rather than contradictory.
-
-For example, APS proposes:
-
-> Biological Evaluation → Significance
-
-Once significance exists, it may influence future evaluation. Conditions that acquire significance for an agent can reshape subsequent evaluative activity, alter behavioural priorities, and modify patterns of interaction. This reciprocal influence creates circular dynamics within the living organisation. Yet significance still depends upon evaluation because evaluative activity establishes the conditions through which significance becomes possible.
-
-Circular causation therefore describes how organisational forms interact once established. Dependency identifies the conditions under which those forms become possible. One concerns ongoing dynamics. The other concerns organisational architecture.
-
-## Dependency versus Constraint Closure
-
-Constraint closure occupies a central place within APS because life is understood as viability-oriented, constraint-closed organisation. Constraint closure refers to a situation in which organisational processes participate in the production, maintenance, and modulation of the constraints that sustain the system's continued functioning. Closure therefore involves reciprocal maintenance among organisational components.
-
-Because closure is reciprocal, it can appear incompatible with asymmetrical dependency. If organisational components participate in one another's maintenance, why should any component depend upon another more than the reverse?
-
-The answer lies in recognising that closure and dependency address different explanatory problems. Constraint closure concerns the maintenance of established organisation. Architectural Dependency concerns the conditions through which organisational forms become possible.
-
-A system may therefore contain reciprocal maintenance relationships while still exhibiting asymmetrical dependencies. Once significance exists, it may contribute to the regulation of evaluation. Once evaluation exists, it may contribute to the regulation of agency. Such reciprocal influences help sustain the organisation as a whole. Yet the existence of reciprocal maintenance does not eliminate the organisational conditions required for significance, evaluation, or agency to emerge in the first place.
+Constraint closure and Architectural Dependency are therefore compatible without being automatically complementary. Closure describes a materially organised pattern requiring relation-sensitive analysis. Architectural Dependency provides the method for determining which causal, constitutive, enabling or constraint-based claims that pattern supports.
 
 [[box:dependency-and-constraint-closure]]
 
-Constraint closure and Architectural Dependency should therefore be understood as complementary explanatory perspectives. Closure explains how organised persistence is maintained. Dependency explains how organisational architectures are structured.
+### Present operation and historical formation
 
-## Dependency and Organisational Maturity
+A present organisation may depend upon a history without reproducing that history in its current operation. Developmental and evolutionary evidence can reveal how a capacity arose, how a structure became established or why a present contribution has its particular character. The mechanisms currently maintaining the phenomenon may nevertheless differ from the processes through which it originated.
 
-Many apparent tensions between dependency and reciprocity disappear when organisational maturity is taken into account.
+Architectural Dependency must therefore distinguish at least three questions:
 
-During emergence, organisational relationships are often strongly asymmetrical. One form of organisation must become established before another can arise. As development proceeds, however, organisational forms increasingly interact, regulate one another, and participate in shared patterns of maintenance. What begins as an asymmetrical dependency may become embedded within a network of reciprocal influences.
+- What brought the organisation into existence?
+- What presently constitutes or maintains it?
+- What relevant history explains why it has this form or function?
 
-This distinction is particularly important for interpreting APS pathways. A pathway frequently identifies organisational conditions associated with emergence, intelligibility, or explanatory reconstruction. Once the organisations involved are established, they may participate in extensive reciprocal interaction without altering the underlying dependency relation.
+One answer should not be substituted for another. Developmental precedence does not establish present enabling necessity. Evolutionary origin does not by itself identify current causal operation. Conversely, a complete account of present operation may leave origin or biological function insufficiently explained (Saborido, Mossio, and Moreno 2011).
 
-The pathway:
+Historical evidence becomes relevant when a historical dependency has been stated precisely. It cannot support an arrow merely because A appeared before B.
 
-> Agency → Biological Evaluation → Significance
+### Spatial and temporal scale
 
-illustrates this pattern. Evaluation depends upon agency. Significance depends upon evaluation. Yet mature living organisation exhibits continual interaction among all three. The resulting reciprocity reflects operational integration rather than the disappearance of dependency.
+Dependency claims may also change with the spatial and temporal extent of investigation. A short-duration perturbation may reveal a local causal contribution, while longer observation reveals compensation or reorganisation. A spatial arrangement may constrain cellular activity even though its effects are implemented through local molecular and cellular processes. A dependency visible during development may not remain a present operational dependency in the mature organism.
 
-Dependency therefore often describes organisational architecture, whereas reciprocity frequently characterises organisational operation.
+APS interprets Agency, Process and Scale as analytic projections of one viability-oriented organisation, not as independent components or levels. Scale identifies the spatial and temporal extent over which the organisation and its persistence are being investigated. Changing that extent may change which dependencies become visible, which contrasts are admissible and which explanatory claims are relevant.
 
-## Dependency and Scale
+Cross-scale influence should therefore not be described as a wider level overriding local causation. It is implemented materially. Spatial organisation, boundary conditions, tissue geometry, resource distribution, temporal coordination or system-maintained constraints alter the conditions under which local processes occur. An adequate dependency claim must identify those conditions and the activities through which their effects are realised.
 
-Dependency relationships may also appear differently when viewed from different scales of analysis.
+Evidence obtained at one spatial or temporal extent does not automatically validate a claim framed at another. The audit must specify where the dependency holds, how it is materially implemented and whether the relation persists when the analytical extent changes.
 
-A dependency that is clearly visible during development may become difficult to detect in mature behaviour. A dependency supported by evolutionary reconstruction may appear reciprocal within physiological organisation. Organisational architectures may therefore remain stable even when their manifestation varies across developmental, ecological, behavioural, physiological, or historical domains.
+### Feedback as a test of the arrow
 
-This observation is consistent with the APS understanding of scale. Scale identifies the spatial and temporal extent through which organisation is investigated. Architectural Dependency does not change because scale changes, but the visibility of a dependency may differ across scales.
+Feedback is methodologically important because it can expose compression within a pathway arrow. A single line may conceal:
 
-Recognising this point helps avoid a common error. Apparently reciprocal relationships observed at one scale should not automatically be interpreted as evidence against dependency relations identified at another. Different scales may reveal different aspects of the same organisational architecture.
+- reciprocal causal interaction;
+- one-way constitution combined with two-way regulation;
+- an enabling condition followed by modulatory feedback;
+- historically ordered formation followed by present mutual maintenance; or
+- a relationship whose direction changes across conditions.
 
-## Modulatory Feedback versus Dependency Reversal
-
-Feedback becomes methodologically problematic only when it genuinely removes the organisational requirement identified by a dependency claim.
-
-Most feedback is modulatory rather than foundational. It alters how an organisational form operates without eliminating the conditions required for that form to exist. Modulatory feedback therefore strengthens, weakens, regulates, stabilises, or reshapes organisational activity while leaving the dependency architecture intact.
-
-Dependency reversal would be fundamentally different. A reversal occurs only if the later phenomenon becomes a prerequisite for the earlier one in a way that eliminates the original asymmetry. In such cases the dependency claim itself would require revision.
-
-APS does not assume that existing dependency architectures are immune to challenge. If convincing evidence demonstrated that a proposed prerequisite was not genuinely required, the architecture would need to be modified. The possibility of revision is part of what distinguishes Architectural Dependency from conceptual doctrine.
-
-The important point is that feedback alone does not constitute dependency reversal. Reciprocal influence is common throughout living organisation. Genuine reversal requires evidence that the original organisational prerequisite no longer performs the explanatory role attributed to it.
+The correct response is not to protect the original direction by declaring it architecturally prior. Each component relation should be unpacked and assessed. If the evidence supports asymmetry only for a limited question or period, the arrow should be qualified accordingly. If reciprocal organisation defeats the claimed dependency, the representation should change.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/dependency-feedback-and-constraint-closure.png" target="_blank" rel="noopener">
+  <a
+    href="/assets/diagrams/feedback-and-dependency-assessment.png"
+    target="_blank"
+    rel="noopener"
+  >
     <img
-      src="/assets/diagrams/dependency-feedback-and-constraint-closure.png"
-      alt="Dependency, Feedback, and Constraint Closure"
+      src="/assets/diagrams/feedback-and-dependency-assessment.png"
+      alt="Four possible effects of feedback on a proposed dependency claim"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Dependency, Feedback, and Constraint Closure.</strong>
-    Architectural Dependency identifies organisational conditions required for later forms of organisation to become possible. Feedback describes reciprocal influence among established organisational forms. Constraint closure describes the reciprocal maintenance of viability-oriented, constraint-closed organisation. These relationships are complementary rather than contradictory because they address different explanatory questions.
+    <strong>Feedback and Dependency Assessment.</strong>
+    Feedback, reciprocal influence, and constraint closure may preserve,
+    qualify, transform, or defeat an asserted dependency. Their effect must be
+    established from the relation, material organisation, evidence, scope, and
+    explanatory question rather than assumed in advance.
   </p>
 </div>
 
+## 8. Confidence, Failure and No-Gain Outcomes
 
-## Four Principles for Interpreting APS Pathways
+APS pathways may contain dependency claims of very different evidential maturity. Confidence must therefore attach to individual arrows—or to clearly specified components of an arrow—not automatically to a complete pathway.
 
-The relationship between dependency, feedback, and constraint closure can be summarised through four interpretive principles that guide pathway construction throughout APS.
+### Strong dependency claims
 
-First, organisational dependency identifies conditions required for the emergence, operation, intelligibility, or persistence of a later organisational form. A pathway arrow therefore expresses a claim concerning organisational prerequisites rather than a claim concerning simple causal succession.
+A dependency claim is strongly supported when:
 
-Second, reciprocal influence does not eliminate dependency. Once organisational forms become established, they may regulate, modify, and stabilise one another while retaining the asymmetries that originally made them possible.
+- its relata and relation type are clearly specified;
+- its material basis is identified where the claim is biological;
+- several relevant lines of evidence converge;
+- inferential limits and scope are explicit;
+- plausible alternatives have been considered;
+- stated failure conditions have not been met; and
+- the claim survives comparison with the strongest established explanation.
 
-Third, constraint closure and dependency are compatible because they address different explanatory questions. Constraint closure concerns reciprocal maintenance among established organisational forms, whereas dependency concerns organisational conditions of possibility.
+Strong support does not mean final proof, universality or immunity to revision. It reports the present evidential standing of a defined claim.
 
-Fourth, dependency architectures remain open to revision. Feedback, developmental evidence, evolutionary reconstruction, comparative analysis, and rival architectures may all contribute to reassessment of a dependency claim. Pathways therefore remain scientific hypotheses rather than fixed doctrines.
+### Provisional dependency claims
 
-Taken together, these principles clarify how APS can employ pathway architectures while remaining fully consistent with the view that life is viability-oriented, constraint-closed organisation. Architectural Dependency identifies the organisational asymmetries through which increasingly complex forms of organisation become possible, while feedback and constraint closure explain how those forms subsequently participate in reciprocal patterns of maintenance and regulation. Dependency therefore concerns conditions of possibility, whereas feedback and closure concern conditions of operation. The two perspectives are complementary rather than contradictory because they address different aspects of organised persistence.
+A dependency claim is provisional when it is sufficiently clear and plausible to guide investigation but important uncertainty remains. The relation may be incompletely typed, its material basis may be only partly understood, evidence may be limited to a narrow context or alternatives may remain unresolved.
 
-## Applying Architectural Dependency
+Provisional status is appropriate only when the outstanding uncertainty is identified. It should not become a label that allows a claim to remain indefinitely insulated from assessment.
 
-Architectural Dependency is valuable only if it can be applied. A methodological principle that remains confined to abstract discussion contributes little to biological explanation. The purpose of the framework is therefore not merely to define dependency but to provide a systematic way of constructing, evaluating, and revising explanatory architectures.
+### Speculative dependency claims
 
-Application begins by identifying a phenomenon whose organisational conditions require explanation. The task is then to ask what forms of organisation must already be established before that phenomenon becomes possible. Each proposed answer generates a dependency claim. Those claims can then be evaluated using the criteria developed in the preceding sections, compared with rival architectures, and revised where necessary.
+A dependency claim is speculative when it proposes an intelligible relationship but currently lacks the evidential or argumentative support required for provisional acceptance. Such a claim may identify a worthwhile research question, but it must not be presented as part of the framework’s established biological architecture.
 
-This procedure transforms pathway construction from conceptual arrangement into explanatory investigation. Rather than beginning with a fixed sequence and seeking evidence to support it, Architectural Dependency begins with organisational questions and uses those questions to generate hypotheses concerning conditions of possibility. Pathways are therefore products of inquiry rather than substitutes for inquiry.
+Speculation is legitimate when clearly labelled, connected to possible tests and separated from canonical conclusions. A claim that cannot yet specify its relata, relation type, material implications or possible failure may remain exploratory, but it should not carry the authority of a validated arrow.
 
-The value of this approach is especially evident when applied across large explanatory domains. Complex phenomena such as cognition, mind, selfhood, morality, and ethics are often treated as isolated topics possessing independent explanatory foundations. Architectural Dependency instead asks how these phenomena relate to one another within broader organisational architectures and what conditions may be required for their emergence and intelligibility.
+[[box:strong-provisional-and-speculative-dependencies]]
 
-The APS Dependency Map provides an example of this methodology in operation.
+### Confidence and audit outcomes
+
+Confidence status and audit verdict answer different questions. Confidence records evidential maturity. The verdict records what assessment of the dependency has produced.
+
+An audit may result in:
+
+- retention, when the arrow remains adequately typed and supported;
+- qualification, when it survives only with restricted scope, strength or conditions;
+- retyping, when a dependency remains but the original relation was incorrect;
+- rejection, when the asserted dependency is unsupported or contradicted;
+- redescription, when the audit restates what was already known without changing an explanatory assessment;
+- redundancy, when the APS formulation duplicates an analytical provision already supplied by an established account; or
+- principled no gain, when the established explanation already distinguishes and supports the relevant dependencies sufficiently.
+
+A retained claim may still be provisional. A retyped claim may become more strongly supported than its predecessor. A redescription may be accurate while adding no explanation. These distinctions prevent a single scale of “confidence” from concealing different methodological results.
+
+### What failure should change
+
+Failure must be localised to the claim that has failed, but its consequences must not be artificially contained.
+
+If evidence defeats one narrowly specified relation, the first response is to revise or remove that arrow. If neighbouring arrows rely upon it, the affected pathway segment must then be reassessed. If the failed connection supplies an indispensable premise for a broader APS claim, that broader claim must also be qualified or withdrawn.
+
+The consequences therefore depend upon the architecture of support:
+
+- failure of an independent arrow may require only a local correction;
+- failure of a shared premise may affect several pathway segments;
+- failure of an asserted relation type may permit retyping without preserving the original claim;
+- failure of the proposed material basis may require a new biological account;
+- failure against the strongest established explanation may establish redescription, redundancy or no gain; and
+- repeated inability to specify or test central arrows may challenge the explanatory value of the pathway method itself.
+
+Uncertainty should be acknowledged, but it must not make the framework immune to criticism. A dependency hypothesis remains scientific only if evidence and argument can alter its status.
+
+Support must also remain localised. Confirmation of one arrow does not validate its neighbours, and several plausible arrows do not validate the APS Dependency Map as a whole. Confidence accumulates only through assessment of the individual claims actually supported.
+
+## 9. Applying the Method
+
+Architectural Dependency can be applied to an APS arrow through a concise sequence of questions.
+
+### 1. Define the explanandum and foil
+
+State exactly what requires explanation and the contrast that makes the question informative.
+
+### 2. Specify the dependency claim and relata
+
+Identify what is proposed to depend upon what. Replace broad pathway labels with the relevant activities, capacities, structures, conditions or concepts.
+
+### 3. Type the relation
+
+State whether the claim is causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual or mixed. Separate mixed components where possible.
+
+### 4. Identify the material basis
+
+For a biological claim, identify the material organisation through which the dependency is proposed to operate. For a conceptual claim, state the definitional or argumentative basis and do not present it as biological evidence.
+
+### 5. Match evidence to the relation
+
+Record the interventions, observations, comparisons, mechanistic findings, structural analyses or historical evidence bearing upon the specified relation. State what each line of evidence does not establish.
+
+### 6. Define alternatives and scope
+
+Identify plausible rival relations, alternative material routes and the organisms, contexts, spatial extents or temporal periods within which the claim is intended to hold.
+
+### 7. State failure conditions
+
+Specify findings that would qualify, retype or defeat the dependency.
+
+### 8. Compare the strongest established explanation
+
+Determine whether the best available account already identifies and supports the relevant dependency. Do not compare APS with an artificially simplified rival.
+
+### 9. Return a gain-or-null verdict
+
+Ask whether the audit changes a defensible explanatory assessment. If it does not, record principled no gain.
+
+### Worked illustration: Biological Evaluation → Significance
+
+Consider the APS arrow:
+
+> Biological Evaluation → Significance
+
+This illustration demonstrates how the method disciplines the claim. It does not empirically validate the arrow.
+
+**Explanandum and foil.** The explanandum might be why some conditions matter differently for an organised living system rather than merely producing undifferentiated physical effects. The foil is a system that responds differentially because of physical sensitivity but for which no viability-relative significance has yet been established.
+
+**Dependency claim and relata.** APS proposes that biological significance depends upon evaluative activity through which conditions are differentiated in relation to viability and continued functioning. The relata must be stated more precisely than the abstract terms alone: the relevant evaluative processes, the condition evaluated, the organised system and the viability consequences under investigation must be identified.
+
+**Relation type.** Within APS definitions, Biological Evaluation and Significance stand in a conceptual relationship: Biological Evaluation is defined as the process through which agency generates significance. That definitional connection is not yet an empirical biological result. A biological application might additionally propose causal, constitutive or enabling relations between particular regulatory activities and particular forms of significance. Each would require separate assessment.
+
+**Material basis.** A biological claim would need to identify the organism, its viability-relevant conditions, the processes producing differential regulation and the activities through which those differences influence subsequent action. The abstract APS pathway cannot supply these details by itself.
+
+**Evidence and limits.** Evidence might include controlled variation of the relevant condition, alteration of the proposed evaluative process and measurement of viability-relevant changes in activity. Such findings could support causal or enabling claims in the system studied. They would not establish that every form of significance depends upon the same mechanism or prove the APS definition solely through experimental difference-making.
+
+**Alternatives and scope.** Alternatives might explain the response through fixed regulation, sensory discrimination, control dynamics or established mechanistic organisation without invoking the APS category of significance. The audit must compare these accounts in their strongest form and specify what, if anything, the APS reconstruction adds.
+
+**Failure conditions.** The dependency would be weakened if the proposed evaluative process were unnecessary for the relevant differentiation, if the phenomenon were adequately explained without viability-relative assessment, if the asserted relation proved merely definitional or if the strongest established account already supplied the same explanatory distinctions.
+
+**Comparative verdict.** Retention would require the biological and conceptual claims to remain distinct and adequately supported. Qualification or retyping might be required if the evidence established only a narrower causal or enabling relationship. Rejection would follow if the asserted dependency failed. Redescription, redundancy or principled no gain would be appropriate if APS terminology changed no defensible explanatory assessment.
+
+This example shows why APS cannot use its own definitions to confirm the biological connections represented by its arrows. Conceptual coherence can establish that terms have been used consistently. Biological evidence can support a specified material dependency. Comparative assessment can determine whether making that dependency explicit improves explanation. These are distinct achievements, and none should be substituted for another.
+
+Architectural Dependency becomes useful when it preserves these distinctions. Its purpose is not to turn every APS pathway into a confirmed architecture. It is to make each connection precise enough to survive—or fail—critical assessment.
+
+## 10. The APS Dependency Map
+
+The APS Dependency Map brings together a central series of relationships proposed by the framework:
+
+> Life → Agency → Biological Evaluation → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency → Meaning
+
+The map is unchanged. What Architectural Dependency clarifies is how it must be interpreted.
+
+The map is not a chronology, developmental timetable, causal chain or demonstration that increasingly complex phenomena necessarily arise in the order shown. Nor does it imply that later phenomena can be reduced to those preceding them. It is a working arrangement of distinct dependency hypotheses.
+
+Each arrow must therefore be unpacked separately. The framework proposes, among other claims, that:
+
+- Biological Agency is the viability-oriented organisational activity through which living organisation is enacted and sustained.
+- Biological Evaluation is the process through which agency generates significance.
+- Significance is a relationally real product of biological evaluation.
+- Integration organises what matters into functional unity.
+- Cognition organises biological significance across time.
+- Mind involves integrated evaluative cognitive processes maintaining a coherent self–world relation.
+- Selfhood concerns organisational continuity across change.
+- Reflective Agency introduces the capacity to take aspects of activity, self and world as objects of reflection.
+- Meaning involves reflective relationships to significance, self and world.
+
+These formulations explain why APS places the concepts in the order shown. They do not independently confirm the dependencies connecting them. The map’s definitions provide conceptual structure; biological and comparative assessment must establish whether particular material systems support the proposed relationships.
+
+An arrow may also encode more than one claim. For example, the relationship between Life and Agency may include a constitutive claim within the APS account of life, while particular manifestations of agency involve causal, enabling and constraint-based dependencies. The published APS framework supplies an argument for understanding agency as the defining activity of viability-oriented living organisation (Spencer 2026). Architectural Dependency nevertheless requires the relevant conceptual and biological claims to be distinguished.
+
+Likewise:
+
+> Biological Evaluation → Significance
+
+expresses a definitional relationship within APS, but any biological application must identify the evaluative activity, the system and conditions evaluated, the resulting viability-relative difference and the evidence connecting them. Conceptual consistency cannot establish that a particular organism or process instantiates the proposed dependency.
+
+The remaining arrows require the same restraint. The transition from Significance to Integration cannot be secured merely by defining cognition in terms of integrated significance. The relationship among Cognition, Mind and Selfhood cannot be inferred from their positions in the diagram. Connections extending toward Reflective Agency and Meaning require their own conceptual, biological, developmental, historical and comparative assessment.
+
+Different arrows may consequently have different statuses and outcomes. One may be retained while another remains provisional. A third may require retyping or restricted scope. Another may prove redundant because an established explanation already supplies the relevant distinction. Failure of one arrow does not automatically destroy every concept in the map, but it must affect any pathway segment or broader claim that relies upon that connection.
+
+The map should therefore be treated as a structured research object. It performs three legitimate functions:
+
+1. It displays the relationships APS proposes.
+2. It allows each relationship to be isolated for assessment.
+3. It records where the framework must be qualified or revised as assessment proceeds.
+
+It does not provide evidence merely by gathering those relationships into a coherent whole.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/aps-dependency-map.png" target="_blank" rel="noopener">
+  <a
+    href="/assets/diagrams/aps-dependency-map.png"
+    target="_blank"
+    rel="noopener"
+  >
     <img
       src="/assets/diagrams/aps-dependency-map.png"
       alt="The APS Dependency Map"
@@ -617,57 +779,73 @@ The APS Dependency Map provides an example of this methodology in operation.
 
   <p class="aps-diagram-caption">
     <strong>The APS Dependency Map.</strong>
-    APS pathways represent structured dependency hypotheses concerning the organisational conditions through which increasingly complex forms of living organisation become possible. Different transitions possess different levels of evidential maturity and remain open to refinement, revision, or replacement as explanatory understanding develops.
+    The map is a working arrangement of separately assessable dependency
+    hypotheses. Every arrow requires its own relation typing, material
+    specification, evidence, limitations, alternatives and failure conditions.
+    Support for one arrow does not validate neighbouring arrows or the map as a
+    whole.
   </p>
 </div>
 
+The Dependency Map is therefore neither an APS doctrine to be defended intact nor an empirical result already established. It is a concise representation of where the framework makes explanatory commitments and where critical work remains necessary.
 
-## The APS Dependency Map
+## 11. Architectural Dependency within APS Research
 
-One of the central explanatory architectures currently employed within APS is:
+Architectural Dependency connects the public explanatory architecture of
+the APS Framework with the more extensive scholarly work conducted through
+[APS Research](/research/).
 
-> Life → Agency → Biological Evaluation → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency → Meaning
+This article has a public-facing function. It explains how readers should
+interpret APS pathways, what an arrow commits the framework to and how
+proposed dependencies can be assessed. It provides sufficient methodological
+detail to prevent the diagrams from being mistaken for evidence or uniform
+claims of necessity.
 
-This pathway should not be interpreted as a chronological sequence, a developmental timetable, or a claim that later organisational forms can be reduced to earlier ones. It is a structured series of dependency hypotheses concerning the organisational conditions through which increasingly complex forms of living organisation become possible.
+The general comparative dependency-hypothesis audit has a wider function. It
+is a neutral procedure for assessing heterogeneous dependency claims
+regardless of whether they originate in APS. It requires relation typing,
+material specification, matched evidence, inferential limits, alternatives,
+failure conditions, strongest-established-explanation comparison and a
+genuine-gain or null verdict.
 
-APS explains cross-scale influence through materially implemented constraints that alter the conditions under which constituent processes occur. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
+The Completed APS Research paper,
+[*Auditing Dependency Claims in Biological Explanation: A Comparative Method and Three-Case Test*](/research/auditing-dependency-claims-biological-explanation/),
+applies that procedure to planarian regeneration, *Pristionchus pacificus*
+mouth-form polyphenism and mammalian glucose homeostasis. Its positive,
+transfer and null cases test whether the same audit can improve assessment in
+some explanatory contexts without manufacturing gain where established
+accounts already perform the required work.
 
-Each transition proposes a specific organisational relationship. Life and agency are linked because living organisation is enacted through viability-oriented activity. Biological Evaluation depends upon agency because evaluation presupposes active regulation relative to conditions bearing upon organised persistence. Significance depends upon evaluation because conditions become significant through evaluative differentiation. Integration depends upon significance because what matters must become organised into functional unity before more sophisticated forms of regulation become possible.
+The distinction matters. Architectural Dependency is not supported merely because the audit can be described clearly. Nor does a successful application in one biological case validate the APS Dependency Map. The research paper establishes a disciplined comparative procedure and demonstrates that it can produce differentiated verdicts. APS must still apply that discipline to its own arrows.
 
-The pathway continues by proposing that cognition depends upon the organisation of significance across time, that mind depends upon the integrated organisation of evaluative cognitive processes, that selfhood depends upon the persistent organisation of mind through change, that reflective agency depends upon selfhood, and that meaning depends upon forms of organisation capable of sustaining reflective relationships to significance, self, and world.
+This places Architectural Dependency within APS Research as a continuing critical task rather than a completed confirmation of the framework. Relevant work includes:
 
-What is important methodologically is not whether every element of this architecture is ultimately retained. What matters is that every transition is explicit. Each dependency claim can be examined, challenged, refined, or rejected. The pathway therefore functions as a structured explanatory proposal rather than an unquestionable doctrine.
+- identifying exactly what each APS arrow claims;
+- separating conceptual presuppositions from empirical biological dependencies;
+- connecting biological claims to their material implementation;
+- assessing evidence and inferential limits;
+- comparing each claim with the strongest established explanation;
+- recording qualification, retyping, rejection or no gain; and
+- revising dependent pathway segments when a central claim changes.
 
-Different parts of the architecture also possess different levels of evidential maturity. Some transitions currently possess strong organisational and explanatory support. Others remain provisional and require further investigation. Recognising these differences is a methodological strength rather than a weakness because it keeps the architecture open to improvement.
+Research should be proportionate to the claim. Not every arrow requires a new scientific project. Some can be clarified through careful conceptual analysis. Others may already be adequately handled by established biological explanations. More substantial investigation is warranted where a dependency is central to APS, scientifically contestable and capable of producing a changed explanatory assessment.
 
-[[box:strong-provisional-and-speculative-dependencies]]
+Architectural Dependency therefore does not turn the APS website into evidence for APS. It turns the website’s explanatory connections into claims that can be examined against evidence and alternatives.
 
-The APS Dependency Map therefore serves two purposes simultaneously. It provides a working explanatory architecture for the framework while also demonstrating how Architectural Dependency generates research questions. Every arrow identifies a relationship requiring investigation. Every transition invites clarification of the organisational conditions that justify it. Every dependency claim remains open to refinement in light of future theoretical and empirical work.
+## 12. Conclusion
 
-## Architectural Dependency as a Research Programme
+What must an APS pathway arrow claim, specify and survive before it can contribute credibly to biological explanation?
 
-Architectural Dependency is not merely a method for organising concepts that have already been explained. It is a method for identifying explanatory work that remains unfinished.
+It must first be treated as a defeasible dependency hypothesis between identified relata under stated conditions. Its causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual or mixed relation must be made explicit. Where the claim is biological, its material basis must be identified. Its evidence must be appropriate to the relation asserted, and the limits of that evidence must be stated.
 
-Once a dependency architecture is constructed, attention naturally shifts toward the transitions themselves. Why does one organisational form depend upon another? What evidence supports the claim? What observations might challenge it? Are rival architectures more adequate? How does the dependency appear across developmental, ecological, physiological, evolutionary, or social domains? These questions transform pathway construction into an ongoing research programme.
+The arrow must then survive comparison. Alternatives, scope and failure conditions must be specified, and the claim must be assessed against the strongest established explanation. Legitimate results include retention, qualification, retyping and rejection, as well as redescription, redundancy and principled no gain.
 
-This feature is especially important because APS addresses phenomena that often resist simple mechanistic explanation. Cognition, mind, selfhood, meaning, morality, and ethics are frequently approached through competing conceptual traditions whose relationships remain unclear. Architectural Dependency provides a way of reconstructing those relationships while preserving the explanatory distinctiveness of each phenomenon. The result is neither reduction nor fragmentation but a structured investigation of organisational continuity.
+This discipline does not make Architectural Dependency a new ontology or general theory of explanation. Its analytical operations are inherited from established work on causation, mechanisms, constitution, constraints, organisation, history and explanatory pluralism. The distinctive APS contribution is narrower: applying those operations consistently to the heterogeneous claims compressed within its pathways.
 
-The methodology also encourages cumulative theoretical development. As dependency claims are clarified, challenged, and revised, architectures become more precise. Strong dependencies gain additional support. Weak dependencies are reformulated or abandoned. New organisational transitions may be identified. Existing pathways may be simplified, expanded, or reorganised. In this way the architecture remains responsive to evidence while preserving explanatory coherence.
+The resulting method preserves the usefulness of pathway representation while removing any presumption that a coherent pathway is already an adequate explanation. It also accommodates the reciprocity of living organisation. Feedback, constraint closure and changes across spatial and temporal extent may preserve, qualify, transform or defeat an asserted dependency. Their effect must be determined case by case.
 
-Perhaps most importantly, Architectural Dependency redirects attention toward organisational questions that might otherwise remain implicit. Rather than asking only what phenomena exist, APS asks what organisational conditions make those phenomena possible. This shift encourages explanation to focus on the structure of organised persistence itself and on the relationships through which increasingly complex forms of organisation emerge from, depend upon, and transform one another.
+In plain terms, the scientific credibility of APS rests heavily on its arrows. Those arrows should invite healthy scepticism. They are not established simply because the connected ideas appear coherent or because they belong to the same framework. APS earns scientific confidence only when each important connection can be specified materially, assessed against evidence and alternatives, and qualified or rejected when it fails. A framework made revisable in this way is scientifically stronger than one whose connections are protected from criticism.
 
-Architectural Dependency therefore functions not merely as a tool for representing knowledge but as a framework for generating it.
+The APS Dependency Map should therefore be understood as a structured set of researchable commitments. Support for one arrow does not validate the map as a whole, and the failure of an arrow must have consequences for claims that depend upon it. Architectural Dependency supplies the method by which those consequences can be identified and incorporated.
 
-## Conclusion
-
-APS frequently employs pathways to represent relationships among concepts spanning life, cognition, mind, meaning, morality, and ethics. Such pathways are scientifically useful only if the relationships they express are made explicit and subjected to critical evaluation. Architectural Dependency provides the methodological framework through which this becomes possible.
-
-A dependency claim proposes that one form of organisation establishes conditions necessary for another. These claims should not be confused with causal sequences, chronological order, conceptual association, or logical implication. They identify organisational conditions of possibility. Because they are explanatory hypotheses rather than assumptions, they require justification, evidential support, and continual exposure to challenge.
-
-The methodology developed in this article provides a way of constructing, evaluating, and revising such claims. Organisational necessity, explanatory necessity, counterfactual analysis, developmental support, evolutionary support, comparative evidence, and rival architecture testing all contribute to assessment of dependency relations. None is sufficient alone, but together they provide a systematic framework for investigating organisational architectures.
-
-Architectural Dependency also clarifies how pathway-based explanation remains compatible with viability-oriented, constraint-closed organisation. Dependency identifies organisational prerequisites. Feedback, reciprocal influence, and constraint closure describe the interactions through which established organisation is maintained and modified. These relationships are complementary rather than contradictory because they address different explanatory questions.
-
-The broader significance of the methodology extends beyond any individual pathway. Architectural Dependency provides a principled way of reconstructing relationships among organisational forms while preserving their explanatory distinctiveness. It allows increasingly complex phenomena to be investigated as parts of coherent organisational architectures without reducing them to simpler components or treating them as isolated domains.
-
-APS therefore employs pathways not as conceptual narratives but as structured dependency hypotheses. Their purpose is not to end inquiry but to organise it. Every arrow expresses a claim. Every claim requires justification. Every justification remains open to revision. Architectural Dependency thus provides a systematic way of investigating the organisational conditions through which increasingly complex forms of living organisation become possible. In this way pathway construction becomes not a matter of theoretical preference but a disciplined approach to biological explanation.
+Its contribution is consequently methodological and self-critical: APS pathways become scientifically useful not by ending inquiry, but by stating clearly where inquiry must begin.

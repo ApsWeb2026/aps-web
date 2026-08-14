@@ -6,19 +6,17 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-07-13
+revised: 2026-08-14
 
 cluster: methodology-and-explanation
 ---
 
-Dependency relations do not disappear when biological organisation becomes reciprocal.
+Constraint closure does not automatically confirm a directional dependency.
 
-Living systems are characterised by feedback, mutual regulation, and constraint closure. Components often contribute to the maintenance of the very organisation upon which they depend.
+Within a constraint-closed organisation, processes and constraints may causally influence, enable, constitute, regulate, or contribute to maintaining one another. A one-way arrow may accurately represent one of these relationships while failing to represent others.
 
-This reciprocity does not invalidate dependency claims.
+Reciprocity may leave a proposed dependency intact, restrict its scope, reveal a mixed relation, or defeat the asserted asymmetry.
 
-A process may depend upon another process for its emergence while later contributing to its maintenance, regulation, or modification.
+Assessment must therefore identify the particular relata, relation type, material organisation, spatial and temporal extent, and explanatory question.
 
-Architectural dependency therefore identifies organisational requirements, whereas constraint closure describes the reciprocal organisation through which those requirements are continually sustained.
-
-Dependency and feedback are complementary features of biological organisation rather than competing explanations.
+Constraint closure describes an organised pattern requiring analysis. It does not determine the verdict of that analysis.

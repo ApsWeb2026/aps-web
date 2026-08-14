@@ -10,7 +10,17 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const CONTENT_DIR = path.resolve('src/content');
-const VALID_SECTIONS = ['articles', 'glossary', 'streams', 'orientation', 'diagrams', 'clusters', 'boxes', 'policies'];
+const VALID_SECTIONS = [
+  'articles',
+  'glossary',
+  'streams',
+  'orientation',
+  'diagrams',
+  'clusters',
+  'boxes',
+  'policies',
+  'research',
+];
 
 interface BrokenLink {
   file: string;
@@ -55,6 +65,12 @@ function getContentSlugs(): Map<string, Set<string>> {
   slugsBySection.set(
     'policies',
     new Set(['about', 'purpose', 'contact', 'citation-policy', 'versioning']),
+  );
+
+ // Add static APS Research routes
+  slugsBySection.set(
+    'research',
+    new Set(['auditing-dependency-claims-biological-explanation']),
   );
 
   return slugsBySection;

@@ -6,21 +6,19 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-07-13
+revised: 2026-08-14
 
 cluster: methodology-and-explanation
 ---
 
-Not all dependency claims possess the same degree of support.
+Confidence attaches to an individual dependency claim, not automatically to a complete pathway.
 
-APS distinguishes between three broad classes of dependency relation.
+**Strongly supported claims** have clearly specified relata and relation types, an appropriate material or argumentative basis, converging evidence, explicit limits and scope, stated failure conditions, and survival against the strongest established explanation.
 
-**Strong dependencies** are supported by substantial theoretical, comparative, developmental, or empirical evidence.
+**Provisional claims** are sufficiently clear and supported to guide inquiry, but important evidential, relational, material, or comparative questions remain unresolved.
 
-**Provisional dependencies** are well-motivated and broadly consistent with existing evidence but remain open to significant revision.
+**Speculative claims** identify intelligible possibilities whose current support is insufficient for provisional acceptance. They must be presented as research hypotheses rather than established conclusions.
 
-**Speculative dependencies** are plausible organisational hypotheses that currently exceed available evidence and should be treated as research proposals rather than established conclusions.
+Confidence is distinct from the audit verdict. A claim may be retained, qualified, retyped, rejected, redescriptive, redundant, or judged to provide no explanatory gain.
 
-This distinction allows APS architectures to remain scientifically accountable while continuing to generate new explanatory questions.
-
-A pathway is therefore not a declaration of certainty. It is a structured representation of current explanatory commitments and their evidential status.
+Support for one arrow does not validate neighbouring arrows or the pathway as a whole.
