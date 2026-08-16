@@ -3455,6 +3455,48 @@ references:
     status: verified
     authority: Springer Nature / Scientific Reports
     verifiedDate: 2026-08-13
+- id: waters-2007-causes-make-difference
+  type: journal-article
+  authors: Waters, C. K.
+  year: 2007
+  title: Causes That Make a Difference
+  journal: The Journal of Philosophy
+  volume: '104'
+  issue: '11'
+  pages: 551–579
+  doi: 10.5840/jphil2007104111
+  verification:
+    status: verified
+    authority: Philosophy Documentation Center / The Journal of Philosophy
+    verifiedDate: 2026-08-16
+- id: saatsi-pexton-2013-reassessing-woodward
+  type: journal-article
+  authors: Saatsi, J., & Pexton, M.
+  year: 2013
+  title: 'Reassessing Woodward’s Account of Explanation: Regularities, Counterfactuals, and Noncausal Explanations'
+  journal: Philosophy of Science
+  volume: '80'
+  issue: '5'
+  pages: 613–624
+  doi: 10.1086/673899
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-16
+- id: fagan-2016-interventionist-omissions
+  type: journal-article
+  authors: Fagan, M. B.
+  year: 2016
+  title: 'Interventionist Omissions: A Critical Case Study of Mechanistic Explanation in Biology'
+  journal: Philosophy of Science
+  volume: '83'
+  issue: '5'
+  pages: 1082–1097
+  doi: 10.1086/687940
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-16
 
 
 
