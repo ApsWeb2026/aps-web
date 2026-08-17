@@ -5,7 +5,7 @@ slug: what-is-biology-trying-to-explain
 type: article
 status: draft
 canonical: false
-revised: 2026-08-13
+revised: 2026-08-18
 cluster: conceptual-foundations
 role: synthesis
 
@@ -129,11 +129,11 @@ This gives the opening question a more focused form. Instead of asking which bio
 
 ## The APS Proposal
 
-APS begins with a simple proposal: biology’s different explanations can be compared by asking what each contributes to understanding organised persistence.
+APS begins with a simple proposal: one productive way of comparing biological explanations is to ask what each contributes to understanding organised persistence.
 
 This does not mean that every biological discipline is secretly explaining the same thing. Genetics, physiology, development, evolution, ecology, and other fields address distinct questions and phenomena. APS does not reduce their explanations to one theory or judge them by a single method. It asks how their different achievements clarify the organisation through which living systems persist.
 
-APS is therefore a **comparative explanatory methodology**. In simpler terms, it is a way of comparing biological explanations while preserving what each explains especially well.
+APS therefore combines a substantive account of living organisation with a comparative explanatory approach. Its comparisons ask what different biological explanations contribute to understanding organised persistence while preserving what each explains especially well.
 
 For any biological approach, APS begins with three questions:
 
@@ -231,7 +231,7 @@ APS also asks:
 
 This question does not imply that an ecosystem is itself a biological agent. It asks how environmental relationships become materially involved in the persistence of organisms and other living systems.
 
-These examples show what APS adds. It does not repeat each explanation in new vocabulary, and it does not claim that organised persistence supplies what existing biology has failed to discover. Instead, it provides a common point of comparison.
+These examples show where APS seeks explanatory gain. It does not repeat each explanation in new vocabulary, and it does not claim that organised persistence supplies what existing biology has failed to discover. Instead, it provides a common point of comparison.
 
 That comparison can reveal several things:
 
@@ -262,5 +262,7 @@ Readers wishing to continue can follow three immediate paths:
 - **The Core Structure of APS** develops the relationship among Agency, Process, and Scale.
 
 These articles lead into the wider APS programme, including evolution, development, cognition, individuality, ecology, and biological explanation. Each extends the enquiry begun here while addressing a more specific domain or problem.
+
+Readers interested in the wider scientific and methodological setting of this proposal can also follow the APS-THEORY research programme. Its three studies examine the historical identity of theoretical biology, the functional boundary between theoretical biology and philosophy of biology, and a neutral method for comparing dependency claims in biological explanation. Together, they provide an independent test of the explanatory setting within which APS makes its own proposals.
 
 APS therefore proposes organised persistence not as biology’s final or exclusive explanation, but as a comparative target through which the distinctive achievements and limits of biological explanations can be made clearer and more scientifically intelligible.
