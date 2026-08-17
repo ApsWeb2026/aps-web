@@ -269,19 +269,12 @@ Different continuities, different claims
 
 The evidence accumulated in Sections 2–6 can be summarised as follows.
 
-Table 1. Historical continuity types in theoretical biology
-Historical case	Relation demonstrated	What it supports	What it does not establish
-Theoretical Biology Club	Direct interaction; theoretical mobilisation	Real actor-level network and shared problem engagement	Unified founding discipline or method
-Bertalanffy	Personal continuity; conceptual transformation	Identifiable organismic theoretical programme	Invariant systemological lineage
-Woodger	Programmatic continuity; methodological transformation	Biological and formal theoretical reconstruction	Formalism as defining theoretical-biology method
-Rashevsky	Research lineage; institutional inheritance; methodological transformation	Strong bounded mathematical-biological continuity	Methodological invariance or identity with theoretical biology as a whole
-Population genetics / Modern Synthesis	Disciplinary embedding	Durable theoretical practice within evolutionary biology	Separate unified theoretical-biology discipline
-Waddington	Problem continuity; mobilisation; retrospective recovery	Mixed historical continuity and later influence	Uninterrupted Waddington→evo-devo institutional lineage
-Journal of Theoretical Biology	Venue continuity	Durable actor-level institutional category	Common methodology or doctrine among contributors
-Molecular information / cybernetics	Selective conceptual transfer; representational transformation	Historically significant borrowing and transformation	Unchanged formal transfer or simple Shannonian identity
-Bioinformatics	Terminological descent; semantic transformation	Traceable continuity of the label	Stable programme from early usage to contemporary discipline
-Systems biology	Selective inheritance; postgenomic convergence	Multiple historical antecedents and transformed resources	Restoration of general systemology
-Organisational approaches	Recurrent problems; plural ancestry; retrospective relation	Renewed concern with organisation and autonomy	Single cybernetic, Bertalanffian or Rashevskian genealogy
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/table-1-historical-continuity-types.png"
+    alt="Table 1. Historical continuity types in theoretical biology"
+  />
+</div>
 
 The table shows why “continuity” cannot function as one historical category. Demonstrated interaction supports a different inference from shared vocabulary. Institutional succession is stronger evidence of lineage than retrospective recognition. Terminological descent may be direct even while meaning changes. Problem recurrence supports comparison without proving transmission. Selective conceptual inheritance requires evidence beyond thematic similarity.
 

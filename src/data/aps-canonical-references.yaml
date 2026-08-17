@@ -3749,10 +3749,141 @@ references:
     status: verified
     authority: Elsevier bibliographic record
     verifiedDate: 2026-08-17
-
-
-
-
-
-
+- id: kovaka-2015-biological-individuality-scientific-practice
+  type: journal-article
+  authors: Kovaka, K.
+  year: 2015
+  title: Biological Individuality and Scientific Practice
+  journal: Philosophy of Science
+  volume: '82'
+  issue: '5'
+  pages: 1092–1103
+  doi: 10.1086/683443
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-17
+- id: keeling-garza-nartey-carvunis-2019-function-de-novo-genes
+  type: journal-article
+  authors: Keeling, D. M., Garza, P., Nartey, C. M., & Carvunis, A.-R.
+  year: 2019
+  title: "The Meanings of 'Function' in Biology and the Problematic Case of De Novo Gene Emergence"
+  journal: eLife
+  volume: '8'
+  article-number: e47014
+  doi: 10.7554/eLife.47014
+  verification:
+    status: verified
+    authority: eLife
+    verifiedDate: 2026-08-17
+- id: parikh-houghton-van-oss-wacholder-carvunis-2022-de-novo-genes-yeast
+  type: journal-article
+  authors: Parikh, S. B., Houghton, C., Van Oss, S. B., Wacholder, A., & Carvunis, A.-R.
+  year: 2022
+  title: Origins, Evolution, and Physiological Implications of De Novo Genes in Yeast
+  journal: Yeast
+  volume: '39'
+  issue: '9'
+  pages: 471–481
+  doi: 10.1002/yea.3810
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-08-17
+- id: schenkel-agren-patten-2026-transitions-reversions-individuality
+  type: journal-article
+  authors: Schenkel, M. A., Ågren, J. A., & Patten, M. M.
+  year: 2026
+  title: Evolutionary Transitions and Reversions in Individuality
+  journal: Journal of Evolutionary Biology
+  volume: '39'
+  issue: '4'
+  pages: 423–436
+  doi: 10.1093/jeb/voag007
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: kranke-2024-individuation-practices-host-parasite
+  type: journal-article
+  authors: Kranke, N.
+  year: 2024
+  title: "Do Concepts of Individuality Account for Individuation Practices in Studies of Host–Parasite Systems? A Modeling Account of Biological Individuality"
+  journal: Theory in Biosciences
+  volume: '143'
+  pages: 279–292
+  doi: 10.1007/s12064-024-00426-3
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-17
+- id: trappes-et-al-2022-individualized-niches
+  type: journal-article
+  authors: Trappes, R., Nematipour, B., Kaiser, M. I., Krohs, U., van Benthem, K. J., Ernst, U. R., Gadau, J., Korsten, P., Kurtz, J., Schielzeth, H., Schmoll, T., & Takola, E.
+  year: 2022
+  title: "How Individualized Niches Arise: Defining Mechanisms of Niche Construction, Niche Choice, and Niche Conformance"
+  journal: BioScience
+  volume: '72'
+  issue: '6'
+  pages: 538–548
+  doi: 10.1093/biosci/biac023
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: kaiser-et-al-2026-reflective-interdisciplinarity
+  type: journal-article
+  authors: Kaiser, M. I., Killin, A., Caspers, B. A., Gadau, J., Kaiser, S., Kurtz, J., Müller, C., & Richter, S. H.
+  year: 2026
+  title: "Reflective Interdisciplinarity in Practice: Integrating Biology and Philosophy in Studies of Individualization"
+  journal: Humanities and Social Sciences Communications
+  volume: '13'
+  article-number: '1247'
+  doi: 10.1057/s41599-026-08458-4
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-17
+- id: pradeu-lemoine-khelfaoui-gingras-2024-philosophy-in-science
+  type: journal-article
+  authors: Pradeu, T., Lemoine, M., Khelfaoui, M., & Gingras, Y.
+  year: 2024
+  title: "Philosophy in Science: Can Philosophers of Science Permeate through Science and Produce Scientific Knowledge?"
+  journal: The British Journal for the Philosophy of Science
+  volume: '75'
+  issue: '2'
+  pages: 375–416
+  doi: 10.1086/715518
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-17
+- id: eigenbrode-et-al-2007-philosophical-dialogue-collaborative-science
+  type: journal-article
+  authors: Eigenbrode, S. D., O'Rourke, M., Wulfhorst, J. D., Althoff, D. M., Goldberg, C. S., Merrill, K., Morse, W., Nielsen-Pincus, M., Stephens, J., Winowiecki, L., & Bosque-Pérez, N. A.
+  year: 2007
+  title: Employing Philosophical Dialogue in Collaborative Science
+  journal: BioScience
+  volume: '57'
+  issue: '1'
+  pages: 55–64
+  doi: 10.1641/B570109
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: difrisco-orzack-2026-biology-needs-philosophy
+  type: journal-article
+  authors: DiFrisco, J., & Orzack, S. H.
+  year: 2026
+  title: "Biology Needs Philosophy, But What Philosophy?"
+  journal: BioScience
+  volume: '76'
+  issue: '5'
+  pages: 417–428
+  doi: 10.1093/biosci/biag016
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
 
