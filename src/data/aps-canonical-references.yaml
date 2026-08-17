@@ -3497,7 +3497,258 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: 2026-08-16
-
+- id: peterson-2016-life-organic
+  type: book
+  authors: Peterson, E. L.
+  year: 2016
+  title: "The Life Organic: The Theoretical Biology Club and the Roots of Epigenetics"
+  publisher: University of Pittsburgh Press
+  verification:
+    status: verified
+    authority: University of Pittsburgh Press
+    verifiedDate: 2026-08-17
+- id: woodger-1937-axiomatic-method-biology
+  type: book
+  authors: Woodger, J. H.
+  year: 1937
+  title: The Axiomatic Method in Biology
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-17
+- id: nicholson-gawne-2014-rethinking-woodger
+  type: journal-article
+  authors: Nicholson, D. J., & Gawne, R.
+  year: 2014
+  title: Rethinking Woodger's Legacy in the Philosophy of Biology
+  journal: Journal of the History of Biology
+  volume: "47"
+  issue: "2"
+  pages: 243–292
+  doi: 10.1007/s10739-013-9364-x
+  verification:
+    status: verified
+    authority: Springer Nature and PubMed
+    verifiedDate: 2026-08-17
+- id: pouvreau-drack-2007-general-systemology-part-i
+  type: journal-article
+  authors: Pouvreau, D., & Drack, M.
+  year: 2007
+  title: "On the History of Ludwig von Bertalanffy's 'General Systemology', and on Its Relationship to Cybernetics: Part I: Elements on the Origins and Genesis of Ludwig von Bertalanffy's 'General Systemology'"
+  journal: International Journal of General Systems
+  volume: "36"
+  issue: "3"
+  pages: 281–337
+  doi: 10.1080/03081070601127961
+  verification:
+    status: verified
+    authority: Taylor & Francis
+    verifiedDate: 2026-08-17
+- id: abraham-2004-rashevsky-mathematical-biophysics
+  type: journal-article
+  authors: Abraham, T. H.
+  year: 2004
+  title: Nicolas Rashevsky's Mathematical Biophysics
+  journal: Journal of the History of Biology
+  volume: "37"
+  issue: "2"
+  pages: 333–385
+  doi: 10.1023/B:HIST.0000038267.09413.0d
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-17
+- id: rashevsky-1954-topology-life
+  type: journal-article
+  authors: Rashevsky, N.
+  year: 1954
+  title: "Topology and Life: In Search of General Mathematical Principles in Biology and Sociology"
+  journal: Bulletin of Mathematical Biophysics
+  volume: "16"
+  pages: 317–348
+  doi: 10.1007/BF02484495
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-17
+- id: kingsland-2015-lotka-theoretical-population-ecology
+  type: journal-article
+  authors: Kingsland, S.
+  year: 2015
+  title: Alfred J. Lotka and the Origins of Theoretical Population Ecology
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: "112"
+  issue: "31"
+  pages: 9493–9495
+  doi: 10.1073/pnas.1512317112
+  verification:
+    status: verified
+    authority: National Academy of Sciences and PubMed
+    verifiedDate: 2026-08-17
+- id: provine-2001-origins-theoretical-population-genetics
+  type: book
+  authors: Provine, W. B.
+  year: 2001
+  title: "The Origins of Theoretical Population Genetics: With a New Afterword"
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-17
+- id: mayr-provine-1980-evolutionary-synthesis
+  type: edited-book
+  editors: Mayr, E., & Provine, W. B.
+  year: 1980
+  title: "The Evolutionary Synthesis: Perspectives on the Unification of Biology"
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University
+    verifiedDate: 2026-08-17
+- id: smocovitis-1996-unifying-biology
+  type: book
+  authors: Smocovitis, V. B.
+  year: 1996
+  title: "Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology"
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press and WorldCat
+    verifiedDate: 2026-08-17
+- id: amundson-2005-changing-role-embryo
+  type: book
+  authors: Amundson, R.
+  year: 2005
+  title: "The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo"
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-17
+- id: waddington-1968-towards-theoretical-biology
+  type: journal-article
+  authors: Waddington, C. H.
+  year: 1968
+  title: Towards a Theoretical Biology
+  journal: Nature
+  volume: "218"
+  issue: "5141"
+  pages: 525–527
+  doi: 10.1038/218525a0
+  verification:
+    status: verified
+    authority: Nature and PubMed
+    verifiedDate: 2026-08-17
+- id: gilbert-2000-diachronic-biology-evo-devo
+  type: journal-article
+  authors: Gilbert, S. F.
+  year: 2000
+  title: "Diachronic Biology Meets Evo-Devo: C. H. Waddington's Approach to Evolutionary Developmental Biology"
+  journal: American Zoologist
+  volume: "40"
+  issue: "5"
+  pages: 729–737
+  doi: 10.1093/icb/40.5.729
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: huneman-2019-revisiting-modern-synthesis
+  type: journal-article
+  authors: Huneman, P.
+  year: 2019
+  title: "Special Issue Editor's Introduction: Revisiting the Modern Synthesis"
+  journal: Journal of the History of Biology
+  volume: "52"
+  pages: 509–518
+  doi: 10.1007/s10739-019-09585-2
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-17
+- id: kline-2017-cybernetics-moment
+  type: book
+  authors: Kline, R. R.
+  year: 2017
+  title: "The Cybernetics Moment: Or Why We Call Our Age the Information Age"
+  publisher: Johns Hopkins University Press
+  doi: 10.1353/book.40478
+  verification:
+    status: verified
+    authority: Johns Hopkins University Press
+    verifiedDate: 2026-08-17
+- id: kay-2000-who-wrote-book-life
+  type: book
+  authors: Kay, L. E.
+  year: 2000
+  title: "Who Wrote the Book of Life? A History of the Genetic Code"
+  publisher: Stanford University Press
+  verification:
+    status: verified
+    authority: Stanford University Press
+    verifiedDate: 2026-08-17
+- id: keller-1996-refiguring-life
+  type: book
+  authors: Keller, E. F.
+  year: 1996
+  title: "Refiguring Life: Metaphors of Twentieth-Century Biology"
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: Columbia University Press
+    verifiedDate: 2026-08-17
+- id: morange-1998-history-molecular-biology
+  type: book
+  authors: Morange, M.
+  year: 1998
+  title: A History of Molecular Biology
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-08-17
+- id: hogeweg-2011-roots-bioinformatics-theoretical-biology
+  type: journal-article
+  authors: Hogeweg, P.
+  year: 2011
+  title: "The Roots of Bioinformatics in Theoretical Biology"
+  journal: PLoS Computational Biology
+  volume: "7"
+  issue: "3"
+  article-number: e1002021
+  doi: 10.1371/journal.pcbi.1002021
+  verification:
+    status: verified
+    authority: PLOS and PubMed
+    verifiedDate: 2026-08-17
+- id: o-malley-dupre-2005-fundamental-issues-systems-biology
+  type: journal-article
+  authors: O'Malley, M. A., & Dupré, J.
+  year: 2005
+  title: Fundamental Issues in Systems Biology
+  journal: BioEssays
+  volume: "27"
+  issue: "12"
+  pages: 1270–1276
+  doi: 10.1002/bies.20323
+  verification:
+    status: verified
+    authority: Wiley and PubMed
+    verifiedDate: 2026-08-17
+- id: danielli-1961-preface-journal-theoretical-biology
+  type: journal-article
+  authors: Danielli, J. F.
+  year: 1961
+  title: Preface
+  journal: Journal of Theoretical Biology
+  volume: "1"
+  issue: "1"
+  pages: i
+  verification:
+    status: verified
+    authority: Elsevier bibliographic record
+    verifiedDate: 2026-08-17
 
 
 
