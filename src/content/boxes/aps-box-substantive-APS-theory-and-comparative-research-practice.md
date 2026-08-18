@@ -1,12 +1,12 @@
 ---
 date: 2026-08-08
-title: APS's Dual Contribution
-slug: aps-dual-contribution
+title: "Substantive APS Theory and Comparative Research Practice"
+slug: substantive-APS-theory-and-comparative-research-practice
 type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-08
-revised: 2026-08-08
+revised: 2026-08-18
 ---
 
 Within this article APS makes two complementary contributions.
