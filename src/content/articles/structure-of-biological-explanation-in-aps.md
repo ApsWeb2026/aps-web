@@ -6,16 +6,25 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-06-15
+revised: 2026-08-18
 cluster: methodology-and-explanation
 abstract: >
-  This article specifies the structure of biological explanation in the Agency–Process–Scale (APS) framework. Building on the identification of viability-oriented, constraint-closed organisation as the defining target of biological explanation, it articulates the explanatory grammar required to account for how such organisation is maintained and transformed across scale and time.
+  abstract: >
+  This article specifies how biological explanation is organised within the
+  Agency–Process–Scale (APS) framework. APS takes viability-oriented,
+  constraint-closed organisation and organised persistence as principal
+  explanatory concerns and uses Agency, Process, and Scale as analytic
+  projections through which living organisation can be investigated across
+  spatial and temporal extents. This architecture provides APS with a
+  comparative and integrative approach to biological explanation without
+  prescribing a necessary or exhaustive structure for biological explanation
+  generally.
 keyPoints:
-  - APS distinguishes between the target of biological explanation and the structure required to explain it.
-  - Biological explanation is organised around agency, process, and scale as co-constitutive dimensions.
-  - Persistence, adaptation, and evolution form the temporal structure of biological organisation.
-  - System–environment coupling is integral to biological explanation.
-  - APS provides a unified explanatory grammar integrating mechanism, function, and evolution.
+  - APS distinguishes its principal explanatory concerns from the architecture through which it investigates them.
+  - Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation.
+  - Persistence, adaptation, and evolution address different temporal aspects of biological organisation within APS.
+  - System–environment coupling is integral to the APS account of living organisation.
+  - APS provides a comparative and integrative explanatory architecture without requiring other biological explanations to adopt the same structure.
 relatedGlossaryTerms:
   - biological-agency
   - process
@@ -26,7 +35,6 @@ relatedGlossaryTerms:
   - constraint-closure
   - coupling
   - environment
-  - multi-scale-causation
 relatedArticles:
   - biological-explanation-what-needs-to-be-explained
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
@@ -37,13 +45,13 @@ relatedArticles:
 
 ## Introduction
 
-What does biological explanation explain, and how must it be structured to do so?
+What does APS take biological explanation to explain, and how does it organise explanation around that target?
 
-The APS framework addresses these questions in two stages. The article *Biological Explanation — What Needs to Be Explained* establishes the target of explanation as viability-oriented, constraint-closed biological organisation. It shows that biological inquiry must account not only for how systems behave, but for how they sustain themselves as living systems.
+The APS framework addresses these questions in two stages. The article Biological Explanation — What Needs to Be Explained identifies viability-oriented, constraint-closed biological organisation as a principal explanatory target within APS. It asks how living systems sustain and re-establish the conditions of their own persistence rather than treating biological behaviour alone as sufficient to characterise living organisation.
 
-This article develops the second stage. It specifies the structure of explanation required once that target is identified.
+This article develops the second stage. It specifies the explanatory architecture APS uses to investigate that target.
 
-If biological systems are organised around sustaining their own viability, then explanation must be organised accordingly.
+If living systems are understood within APS as viability-oriented organisations, their activity, continuity, transformation, spatial and temporal organisation, and environmental relations become interconnected explanatory concerns. APS organises these concerns through a coherent explanatory architecture without treating that architecture as obligatory for biological explanation generally.
 
 This article forms part of a two-step account of biological explanation in APS. For the full entry sequence, see:
 
@@ -51,96 +59,94 @@ This article forms part of a two-step account of biological explanation in APS. 
 
 ## From Target to Structure
 
-Identifying viability-oriented organisation as the target of explanation establishes the conditions that explanation must satisfy.
+Identifying viability-oriented organisation and organised persistence as principal explanatory concerns within APS determines the questions to which APS gives particular explanatory priority.
 
-Such systems maintain themselves through ongoing activity, reorganise under changing conditions, persist across time while undergoing transformation, operate across interacting spatial and temporal scales, and exist only through continuous interaction with their environments.
+Living systems maintain themselves through ongoing activity, reorganise under changing conditions, persist across time while undergoing transformation, operate across spatial and temporal extents, and exist through continuing relations with their environments.
 
-An adequate explanation must therefore account for all of these features together.
+APS therefore asks how these features are organised in the persistence and transformation of living systems. Its explanatory architecture is designed to make those relationships explicit. Other biological explanations may legitimately address narrower or different explananda without thereby being incomplete.
 
-APS organises this requirement into a coherent explanatory structure.
+APS organises these concerns into a coherent explanatory structure.
 
-→ This article characterises the elements of biological explanation; their systematic organisation is devloped in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+→ This article characterises the elements of biological explanation within APS; their systematic organisation is developed in The Explanatory Geometry of Biology.
 
 ## The Core Explanatory Dimensions
 
-Biological explanation in APS is structured around three co-constitutive dimensions: agency, process, and scale.
+Biological explanation in APS is articulated through three analytic projections: Agency, Process, and Scale.
 
-Agency refers to the viability-oriented activity through which systems sustain themselves. Process refers to the dynamic organisation through which this activity unfolds. Scale refers to the spatial and temporal extent across which processes are coordinated.
+Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence is organised across spatial and temporal extents.
 
-These are not separate components or causal layers. They are analytic projections of a single, integrated organisation.
+These are not separate components, causal sources, or levels. They are analytic projections of one viability-oriented, constraint-closed organisation rather than components of reality.
 
-Explanation proceeds by showing how viability-oriented organisation is enacted through the continuous interaction of these dimensions.
+APS uses these projections together where their combination clarifies how living organisation is enacted, maintained, and transformed. They belong to the APS explanatory architecture rather than functioning as obligatory categories for biological explanation generally.
 
 ## The Temporal Structure of Biological Organisation
 
-Biological organisation unfolds across time in a structured way.
+Biological organisation extends across different temporal extents.
 
-Persistence refers to the present-time maintenance of viability. Adaptation refers to the reorganisation of activity under changing conditions. evolution refers to the long-term transformation of organisation across generations.
+Persistence concerns the continuing maintenance and re-establishment of viable organisation. Adaptation concerns changes through which living systems remain viable under altered conditions. Evolution concerns the historical transformation of biological organisation across generations.
 
-These are not distinct domains but temporally differentiated expressions of the same system.
+APS relates these phenomena through organised persistence while preserving their different explanatory questions and evidential requirements. Life persists, evolution transforms that persistence, and biological explanation clarifies the organisation that makes both possible.
 
-Persistence is the condition for adaptation. Adaptation enables persistence across change. evolution is the historical accumulation of adaptive reorganisation.
-
-Biological explanation must therefore integrate immediate regulation, ongoing reorganisation, and long-term transformation within a single framework.
+Their integration within APS provides one way of relating immediate regulation, ongoing reorganisation, and historical transformation without treating them as a single process or requiring every biological explanation to integrate them.
 
 ## System–Environment Coupling
 
 Biological organisation does not exist in isolation.
 
-In APS, systems and environments are co-constituted through ongoing coupling. The environment is not a fixed external domain but a relational field defined by its integration into viability-oriented organisation.
+Within APS, living systems are understood through continuing relations with their environments. Environmental conditions become biologically significant through their relations to the organisation and activity of living systems, while living systems can in turn modify relevant environmental conditions.
 
-Environmental conditions matter only insofar as they are taken up into biological organisation. Systems actively modify the conditions that sustain their own persistence. Adaptation involves the reorganisation of system–environment relations.
+System–environment relations are therefore integral to the APS account of adaptation and organised persistence.
 
-Explanation must therefore account not only for internal processes but for the relational dynamics through which systems and environments co-produce one another.
+Where the explanandum requires it, APS explanation includes these relational dynamics rather than treating biological organisation as exclusively internal. This does not require every biological explanation to encompass the complete system–environment relation.
 
-## Multi-Scale Causation
+## Organisation Across Scale
 
-Causation in biological systems is distributed across scales.
+Biological organisation extends across spatial and temporal extents.
 
-Processes at molecular, cellular, organismal, and ecological scales are not arranged in a hierarchy of levels, but are dynamically coupled within a single organisation.
+Molecular, cellular, organismal, ecological, and other processes need not be arranged in an explanatory hierarchy in which one scale possesses intrinsic priority. Their relevance depends upon the phenomenon and explanatory question under investigation.
 
-APS replaces level-based explanation with multi-scale causation, in which causal influence propagates across scales, processes constrain and enable one another reciprocally, and no single scale has intrinsic explanatory priority.
+APS examines how materially implemented constraints and processes across different scales alter the local conditions under which biological activity occurs. Cross-scale influence therefore remains materially implemented rather than requiring wider scales to supersede local causation.
 
-Biological explanation must therefore trace how organisation is maintained through coordinated activity across scales.
+Where the explanandum requires it, APS traces how living organisation is maintained through such relations across scale. This does not require every biological explanation to span multiple scales.
 
-## Integrating Mechanism, Function, and evolution
+## Relating Mechanism, Function, and evolution
 
-APS does not replace existing explanatory approaches. It clarifies their roles within a broader structure.
+APS does not replace existing explanatory approaches or treat their independent contributions as deficient. Mechanistic, functional, evolutionary, developmental, ecological, and other explanations may address different explananda and carry different evidential responsibilities.
 
-Mechanistic explanations describe how processes are organised. Functional explanations describe how those processes contribute to viability. Evolutionary explanations describe how such organisation is transformed across time.
+Within APS, these explanations can sometimes be related through questions concerning viability-oriented organisation and organised persistence. Mechanistic accounts may clarify how relevant processes operate; functional accounts may clarify present-tense viability-relative organisational contributions; evolutionary accounts may clarify historical transformation.
 
-These are not competing accounts but complementary aspects of a unified explanatory system.
-
-Their integration depends on recognising viability-oriented organisation as the common reference point.
+Their integration is warranted where relating these explanatory products produces additional understanding. APS does not assume that integration is always necessary or that explanatory independence is itself a defect.
 
 ## Explanatory Adequacy
 
-An explanation is biologically adequate when it accounts for how a system maintains its own viability, how its processes contribute to that maintenance, how it reorganises under changing conditions, how its organisation is sustained across scales, how it is transformed across generations, and how it is coupled to its environment.
+APS does not provide a universal checklist by which every biological explanation should be judged. Explanatory adequacy depends upon the explanandum, the relations claimed, the evidence required, the scope of the account, and the explanatory product sought.
 
-Explanations that omit these dimensions may remain useful, but they are incomplete as biological explanations.
+Within APS, questions concerning viability, organisation, persistence, transformation, environmental relation, and scale become relevant where the explanandum concerns the organisation of living systems in ways that require them. Their relevance must be demonstrated rather than assumed.
 
-APS makes these requirements explicit.
+APS therefore distinguishes the coherence of its own explanatory architecture from the adequacy of particular biological explanations. An explanation does not become inadequate merely because it does not reproduce the APS architecture.
 
-## APS as Explanatory Grammar
+## APS as an Explanatory Architecture
 
-Taken together, these elements constitute a unified explanatory grammar.
+Taken together, these elements constitute the explanatory architecture of APS.
 
-APS does not add new entities to biology. It clarifies how explanation must be organised to account for the systems biology already studies.
+APS does not add a separate class of biological entities or prescribe a universal grammar for biological explanation. It organises its own explanatory commitments around viability-oriented organisation, organised persistence, and the analytic projections of Agency, Process, and Scale.
 
-In this sense, APS is both descriptive and normative. It describes how biological systems are organised and specifies what counts as a complete explanation of such systems.
+This architecture can support comparison and integration where those operations produce explanatory gain. Its conceptual coherence, however, does not establish the truth or adequacy of the biological claims represented within it. Those claims remain subject to appropriate evidence, comparison, qualification, revision, or rejection.
 
-The framework mirrors its subject matter. Just as living systems are constraint-closed organisations, APS is a conceptually integrated system in which explanatory elements support and constrain one another.
+Where APS pathways represent relationships among biological phenomena, those relationships are dependency hypotheses. Architectural Dependency makes those commitments explicit; the framework-neutral Dependency-Hypothesis Audit provides a procedure for assessing them.
 
 ## Conclusion
 
-The APS framework distinguishes between what biological explanation must explain and how it must be structured to do so.
+APS distinguishes between its principal explanatory concerns and the architecture through which it investigates them.
 
-The first task is to identify viability-oriented, constraint-closed organisation as the defining feature of living systems. The second is to articulate the explanatory structure required to account for such organisation.
+It understands life as viability-oriented, constraint-closed organisation and gives particular explanatory attention to organised persistence: how living organisation is maintained, re-established, and transformed through change.
 
-By integrating agency, process, scale, temporal dynamics, and system–environment coupling, APS provides a framework in which biological explanation becomes coherent and complete.
+Agency, Process, and Scale provide analytic projections through which APS investigates this organisation, while temporal organisation, system–environment coupling, and relations across scale extend that explanatory architecture.
+
+APS thereby offers a comparative and integrative methodology for biological explanation without claiming that all legitimate biological explanations must adopt its explanandum, categories, or architecture. Its contribution must instead be assessed by whether these commitments clarify biological organisation and generate defensible explanatory gain relative to established alternatives.
 
 ## Key Point
 
-APS defines the target of biological explanation as viability-oriented organisation and provides the explanatory grammar required to account for how that organisation is sustained and transformed across time.
+APS organises its account of biological explanation around viability-oriented organisation and organised persistence through the analytic projections of Agency, Process, and Scale, while recognising that other biological explanations may legitimately pursue different explananda and explanatory architectures.
 
 

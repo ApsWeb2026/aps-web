@@ -6,12 +6,17 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-26
-revised: 2026-06-15
+revised: 2026-08-18
 cluster: conceptual-foundations
 definition: >
-  Multi-scale causation describes how causation operates across interacting spatial and temporal scales within a single, integrated biological organisation. In APS, causation is not confined to discrete levels but arises through the coordinated coupling of processes across scales.
+  Multi-scale causation describes causal relations in which materially
+  implemented processes and constraints organised across different spatial
+  or temporal scales alter the conditions under which biological activity
+  occurs.
 inBrief: >
-  Multi-scale causation is the scale-coupled operation of causation across interacting processes in biological systems.
+  Multi-scale causation concerns materially implemented causal relations
+  across spatial or temporal scales without assigning intrinsic causal
+  priority to any scale.
 seeAlso:
   - causation
   - scale
@@ -19,39 +24,45 @@ seeAlso:
   - biological-organisation
   - biological-agency
   - constraint-closure
-  - levels-of-organisation
 ---
 
-## Conventional framing
+## APS framing
 
-Biological causation is often described in terms of interactions occurring at specific “levels of organisation,” such as molecular, cellular, organismal, or ecological. Explanations frequently privilege one level—most commonly the molecular or genetic—as the primary site of causation, with higher-level phenomena treated as derivative or emergent.
+Biological processes are organised across different spatial and temporal
+extents. Molecular regulation, cellular dynamics, organismal activity, and
+ecological interaction may therefore become causally relevant to one another
+without constituting separate causal layers or a fixed hierarchy.
 
-This approach can be useful for analysis, but it risks fragmenting biological explanation by treating causation as localised within discrete layers of organisation.
+APS uses **multi-scale causation** where an explanandum requires causal
+relations across such scales to be made explicit. The term does not identify
+a separate kind of causation, nor does it imply that all biological causation
+is inherently multi-scale.
 
-## APS reframing
+Cross-scale influence must be materially implemented. Processes and
+constraints organised across one spatial or temporal extent can alter the
+local conditions under which other biological processes occur. Wider-scale
+organisation does not supersede local causal processes; its causal relevance
+depends upon the material relations through which those local conditions are
+modified.
 
-Multi-scale causation does not introduce a separate kind of causation, but specifies how causation—understood as organisation-dependent relations among processes—operates in biological systems.
+Biological organisation can therefore involve reciprocal and constraint-mediated
+relations across scales. Which scales are explanatorily relevant depends upon
+the phenomenon under investigation and the causal relations actually supported
+by the evidence.
 
-APS rejects the idea that causal relations are confined to or originate from discrete levels. Instead, causation is inherently multi-scale: it arises through the coordinated coupling of processes across spatial and temporal extent.
-
-Biological organisation is continuous and integrated. Processes at different scales—molecular regulation, cellular dynamics, organismal activity, and ecological interaction—are not independent layers but interacting aspects of a single viability-oriented system.
-
-Causal relations therefore arise through the organisation of processes across scales, not within isolated levels. This organisation is maintained through constraint-based coupling, in which processes both depend on and contribute to the conditions that sustain the system’s persistence.
-
-Causation therefore operates through:
-
-- Reciprocity — processes at different scales influence one another  
-- Coupling — interactions are structured through constraint-closed organisation  
-- Propagation — effects spread across scales through coordinated activity  
-
-No single scale has intrinsic causal priority. What appears as “bottom-up” or “top-down” causation reflects different perspectives on the same underlying organisation.
-
-Multi-scale causation is thus not an addition to mechanistic explanation but a clarification of how causation operates in living systems: as distributed, integrated, and continuously coordinated across scales.
+No scale possesses intrinsic causal or explanatory priority. Nor does APS
+assume that an explanation spanning several scales is necessarily superior
+to one confined to a narrower domain. Multi-scale analysis is warranted where
+relations across scale contribute to explaining the particular phenomenon.
 
 ## In brief
 
-Multi-scale causation describes how causation in biological systems operates through the coordinated interaction of processes across scales, rather than within discrete levels.
+Multi-scale causation describes materially implemented causal relations across
+spatial or temporal scales where those relations are relevant to the biological
+phenomenon being explained.
 
 ## Key Point
 
-Causation in biology is not level-bound but scale-coupled—arising from the reciprocal interaction of processes within an integrated, viability-oriented organisation.
+Cross-scale causal influence in APS must be materially implemented: processes
+and constraints organised across different scales can alter local causal
+conditions without wider scales superseding local causation.

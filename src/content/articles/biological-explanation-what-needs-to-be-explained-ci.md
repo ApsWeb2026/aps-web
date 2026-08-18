@@ -16,7 +16,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-06
+revised: 2026-08-18
 
 cluster: conceptual-foundations
 role: core
@@ -94,7 +94,7 @@ Yet they often proceed without specifying what makes their subject matter distin
 
 The central question is therefore not only how biological systems work, but what kind of biological organisation must be in place for such explanations to be meaningful.
 
-APS argues that the ultimate target of biological explanation is **organised persistence**: the capacity of living systems to maintain continuity through continual transformation. Living systems are not merely collections of interacting components. They are organised systems that sustain themselves through ongoing change.
+APS proposes organised persistence as a principal explanatory target for understanding living organisation: the capacity of living systems to maintain continuity through continual transformation. Living systems are not merely collections of interacting components. They are organised systems that sustain themselves through ongoing change.
 
 For a guided entry into how APS develops biological explanation, see:
 
@@ -112,9 +112,9 @@ A mechanism can operate without sustaining itself. It can produce outputs withou
 
 Living systems differ in a crucial respect. Their processes contribute to maintaining the very conditions that allow those processes to continue.
 
-Mechanistic description captures how organised persistence is enacted. It does not, by itself, explain why those processes are organised in a way that contributes to the continued existence of the living system.
+Mechanistic description can clarify how organised persistence is enacted. Where the explanatory question concerns living organisation as such, APS additionally asks how those mechanisms participate in maintaining the conditions under which the living system persists.
 
-Biological explanation therefore requires more than identifying mechanisms. It requires understanding how mechanisms participate in the organisation of living systems.
+APS therefore supplements mechanistic inquiry with an organisational question without treating mechanistic explanations as intrinsically incomplete. The relevance of that additional question depends upon the explanandum.
 
 ## From Description to Explanation
 
@@ -124,7 +124,7 @@ Descriptions catalogue what happens. Explanations account for why it happens in 
 
 In biology, description often precedes explanation. We identify structures, trace pathways, and measure changes. But without a clear account of what makes these processes biologically organised, such descriptions risk remaining incomplete.
 
-A fully biological explanation must therefore do more than specify mechanisms. It must account for the biological organisation that makes those mechanisms part of a living system.
+Where the explanandum concerns what makes those mechanisms part of a living system, APS asks how they participate in biological organisation rather than treating their mechanistic description alone as sufficient for that particular question.
 
 The question is not simply:
 
@@ -144,7 +144,7 @@ Biology is ultimately concerned with systems that maintain themselves through ti
 
 This capacity for continuity through change is what APS calls **organised persistence**.
 
-Organised persistence is therefore the central explanatory target of biology.
+Organised persistence is therefore a central explanatory target within APS.
 
 Understanding how living systems persist requires understanding the organisational conditions that make persistence possible.
 
@@ -170,13 +170,13 @@ The second is constraint closure. The processes of the system contribute to main
 
 Together, viability orientation and constraint closure help explain how biological continuity is maintained through change.
 
-Biological explanation must therefore account not merely for what living systems do, but for how their activity contributes to maintaining continuity across changing conditions.
+Within APS, explaining organised persistence therefore requires attention not merely to what living systems do, but to how their activity contributes to maintaining continuity across changing conditions.
 
-Without this organisational perspective, explanations remain partial. They describe processes, but do not fully explain why those processes are biologically significant.
+This organisational perspective addresses a question that narrower explanations need not themselves answer: how the processes under investigation participate in the continuing organisation of a living system.
 
 ## Agency and Normativity in Explanation
 
-Once organised persistence is recognised as the explanatory target of biology, additional features of living systems become easier to understand.
+Once organised persistence is adopted as a principal explanatory target within APS, additional features of living systems become easier to understand.
 
 Living systems exhibit biological agency. Their activity is organised around maintaining the conditions required for continued existence. Organisms regulate internal conditions, respond to environmental change, repair damage, acquire resources, and modify behaviour in ways that contribute to persistence.
 
@@ -186,7 +186,7 @@ Some states support persistence. Others undermine it. Some processes contribute 
 
 This is why biological explanations routinely employ concepts such as function, regulation, adaptation, success, failure, and malfunction. These concepts reflect real features of systems whose activity is organised around persistence.
 
-To explain a biological process is therefore to explain how it contributes—successfully or unsuccessfully—to the continued viability of the system.
+Where APS asks about the organisational role of a biological process, explanation concerns how that process contributes—successfully, unsuccessfully, or not at all—to the viability of the system.
 
 ## Process and Scale in Biological Explanation
 
@@ -194,9 +194,9 @@ Organised persistence unfolds through process and across scale.
 
 Living systems maintain continuity not by remaining unchanged, but by continually transforming. Metabolism, development, behaviour, ecology, and evolution all involve processes through which continuity is preserved despite ongoing change.
 
-At the same time, biological organisation extends across multiple scales. Molecular processes contribute to cellular organisation, cells contribute to organisms, and organisms participate in ecological systems. These scales interact continuously and cannot be understood in isolation.
+At the same time, biological organisation extends across multiple scales. Molecular processes contribute to cellular organisation, cells contribute to organisms, and organisms participate in ecological systems. Processes organised across these scales may interact, and their explanatory relevance depends upon the phenomenon under investigation.
 
-Biological explanation must therefore account not only for mechanisms, but also for the processual and multiscale organisation through which persistence is maintained.
+APS therefore examines not only relevant mechanisms but also the processual organisation and spatial and temporal extents through which persistence is maintained. These are explanatory priorities within APS rather than mandatory dimensions of every biological explanation.
 
 ## Beyond Gene-Centric and Trait-Based Accounts
 
@@ -204,19 +204,19 @@ Many explanatory frameworks in biology focus on genes, traits, or population-lev
 
 These approaches provide powerful explanatory tools. However, they presuppose systems capable of maintaining organised persistence.
 
-Genes influence biological outcomes only within living systems capable of sustaining development, regulation, and reproduction. Likewise, evolutionary processes depend upon organisms that survive, reproduce, and maintain continuity across generations.
+Genes influence biological outcomes only within living systems capable of sustaining development, regulation, and reproduction. Evolutionary processes depend upon biological systems in which heritable variation and differential persistence or reproduction can occur.
 
 APS therefore shifts attention from isolated explanatory units toward the organisational conditions that make those units biologically meaningful.
 
 The question is not whether genes, traits, or populations matter. It is how they participate in the organised persistence of living systems.
 
-## Explanatory Adequacy in Biology
+## Explanatory Adequacy within APS
 
-What counts as an adequate biological explanation?
+What counts as an adequate explanation depends upon the explanandum, the explanatory product sought, the relations claimed, and the evidence appropriate to them.
 
-APS argues that an explanation becomes biologically adequate when it clarifies how identified processes contribute to the organised persistence of a living system. An explanation may correctly identify a cause while remaining biologically incomplete. Likewise, a mechanism may be accurately described while its significance within the organisation of the system remains unclear.
+Where APS investigates organised persistence, explanatory adequacy requires showing how the processes or relations invoked bear upon the maintenance, re-establishment, or transformation of living organisation. This is an APS-relative criterion for that explanatory task, not a universal test of biological explanation.
 
-Biological adequacy therefore requires more than causal identification alone. It requires understanding how processes contribute to viability, continuity, and persistence. The detailed implications of explanatory adequacy are developed in *Biological Explanation and Organised Persistence*, which examines how APS functions as an explanatory grammar for biological explanation.
+A causal, mechanistic, developmental, evolutionary, ecological, or other explanation may be adequate for its own explanandum without also explaining organised persistence. APS asks an additional organisational question where doing so produces relevant explanatory understanding.
 
 ## Why This Matters
 
@@ -224,53 +224,43 @@ Clarifying the target of biological explanation has both conceptual and practica
 
 It helps explain why concepts such as function, regulation, adaptation, resilience, and malfunction remain indispensable within biology. These concepts are not optional additions to biological discourse. They reflect the organisational realities of systems that must maintain themselves through time.
 
-It also clarifies the relationship between different explanatory traditions. Mechanistic, developmental, ecological, and evolutionary explanations need not compete for explanatory priority. Each illuminates different aspects of the organised persistence of living systems. APS applies the same comparative methodology to contemporary theoretical biology. Frameworks such as the Free Energy Principle investigate important aspects of biological organisation using different explanatory priorities and formal methods. Rather than asking which framework is correct, APS asks what explanatory work each performs and how their explanatory achievements relate to the organisation required for living systems to maintain organised persistence. A detailed comparison is presented in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
+It also clarifies the relationship between different explanatory traditions. Mechanistic, developmental, ecological, and evolutionary explanations need not compete for explanatory priority. Each illuminates different aspects of the organised persistence of living systems. APS applies the same comparative methodology to contemporary theoretical biology. Frameworks such as the Free Energy Principle investigate important aspects of biological organisation using different explanatory priorities and formal methods. Rather than assuming that different frameworks must converge upon a single explanatory architecture, APS can compare what explanatory work each performs, the questions it addresses, and whether relating those achievements to organised persistence produces additional understanding. A detailed comparison is presented in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
 
 The framework is equally relevant to questions at the boundaries of biology. Understanding what biological explanation explains helps clarify how life might be identified in unfamiliar contexts, how synthetic systems should be evaluated, and how biological continuity can be recognised across diverse forms of organisation.
 
-Most importantly, APS makes explicit the organisational assumptions that successful biological explanations already rely upon. Biologists routinely explain persistence, adaptation, regulation, repair, and continuity. APS seeks to clarify the organisational reality that makes these explanatory practices intelligible as biology.
+APS seeks to make explicit organisational relations that may remain implicit when biological inquiry addresses persistence, adaptation, regulation, repair, and continuity. Whether making those relations explicit produces explanatory gain must be assessed rather than assumed. Biologists routinely explain persistence, adaptation, regulation, repair, and continuity. APS seeks to clarify the organisational reality that makes these explanatory practices intelligible as biology.
 
-To specify what biological explanation must explain, however, is only the first step.
+Identifying organised persistence as a principal APS explanatory target is only the first step.
 
-A further question immediately follows:
+A further APS question follows:
 
-> How should biological explanations be structured in order to explain organised persistence?
+> How does APS organise explanation in order to investigate organised persistence?
 
 This question is addressed in *Biological Explanation and Organised Persistence*, which develops APS as an explanatory grammar and examines how biological explanations achieve explanatory adequacy.
 
 ## Conclusion
 
-Biology does not simply explain biological events. It explains how living systems persist.
+Biology explains many different phenomena through different explanatory practices. APS focuses upon one particularly general biological problem: how living systems maintain and transform their organisation through time.
 
-The distinctive challenge of biological explanation is therefore not merely to identify causes, mechanisms, or patterns, but to explain how living systems maintain continuity through continual transformation.
+APS proposes organised persistence as a principal explanatory target for investigating this problem.
 
-APS proposes that the central explanatory target of biology is organised persistence.
+Viability orientation and constraint closure provide the organisational basis through which APS interprets biological continuity, while Agency, Process, and Scale provide analytic projections through which that organisation can be investigated.
 
-Living systems persist because their activity contributes to maintaining the conditions required for their continued existence. Viability orientation helps explain why persistence is maintained. Constraint closure helps explain how persistence is maintained. Together they illuminate the organisational basis of biological continuity.
+This does not establish organised persistence as the obligatory explanandum of every biological explanation. Rather, it specifies the explanatory target around which APS organises its own account and against which its contribution must be assessed.
 
-Understanding this target clarifies why biological explanations differ from explanations in many other domains. Biological explanation is concerned not merely with what happens, but with how organised systems sustain themselves through time.
+Identifying that target is only the first step. The next question concerns how APS structures explanation around it. For this, see:
 
-By identifying organised persistence as the phenomenon requiring explanation, APS provides a unified way of understanding what biological explanation is ultimately about.
-
-Identifying what biological explanation explains is only the first step. The next question concerns how such explanations are constructed. For this, see:
-
-→ [Biological Explanation and Organised Persistence](/articles/biological-explanation-and-organised-persistence/)
-
-which develops APS as an explanatory grammar for understanding how organised persistence is explained across agency, process, and scale.
-
-Readers interested in how APS compares its explanatory methodology with one of the major contemporary theoretical frameworks should also see:
-
-→ *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*
+→ The Structure of Biological Explanation in APS
 
 ## Explanatory Architecture
 
 ### Central Question
 
-What is the distinctive target of biological explanation, and what must a successful biological explanation ultimately explain?
+What explanatory target does APS propose for investigating the distinctive organisation and continuity of living systems?
 
 ### Architectural Role
 
-This Core article establishes the explanatory target of biology within APS. It argues that biology is fundamentally concerned with explaining organised persistence: the capacity of living systems to maintain continuity through continual transformation. In doing so, it distinguishes biological explanation from the description of mechanisms, processes, or structures alone and provides the conceptual foundation for the APS account of explanatory adequacy.
+This Core article establishes organised persistence as a principal explanatory target within APS: the capacity of living systems to maintain continuity through continual transformation. It connects APS's account of life with its subsequent account of how biological organisation can be investigated without treating organised persistence as the obligatory explanandum of biological explanation generally.
 
 ### Preceding Explanatory Dependencies
 
@@ -299,11 +289,11 @@ The explanatory architecture established here is developed, extended, or applied
 ### Related Explanatory Questions
 
 - What distinguishes biological explanation from mechanistic description?
-- Why is organised persistence the central explanatory target of biology?
+- Why does APS treat organised persistence as a principal explanatory target?
 - How do viability orientation and constraint closure contribute to biological explanation?
-- What makes a biological explanation explanatorily adequate?
+- What makes an explanation adequate for the particular explanandum it addresses?
 - How does APS compare with other contemporary explanatory frameworks in theoretical biology?
 
 ### Position Within APS
 
-This article establishes the fundamental explanatory question addressed by the APS framework: what biology ultimately seeks to explain. By identifying organised persistence as the distinctive target of biological explanation, it provides the conceptual bridge between APS's account of life and its subsequent development of explanatory grammar, comparative methodology, and biological explanation across agency, process, and scale.
+This article establishes a principal explanatory question within APS: how living systems maintain continuity through continual transformation. By identifying organised persistence as a central APS explanatory target, it provides a conceptual bridge between APS's account of life and its subsequent development of explanatory architecture, comparative methodology, and biological explanation across Agency, Process, and Scale.
