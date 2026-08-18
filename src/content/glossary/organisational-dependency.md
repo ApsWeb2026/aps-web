@@ -6,21 +6,28 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-07-13
+revised: 2026-08-18
 
 cluster: methodology-and-explanation
-definition: Organisational Dependency is a relationship in which one form of organisation establishes conditions required for another form of organisation to emerge, operate, persist, or become intelligible.
-inBrief: Organisational dependency identifies conditions of possibility within organised systems.
+
+definition: Organisational Dependency is a dependency relation in which a phenomenon depends upon the organisation of activities, structures, constraints, or relations rather than upon isolated components alone.
+
+inBrief: Organisational dependency identifies cases in which biological explanation depends upon how relevant elements are organised.
+
 seeAlso:
-- architectural-dpendency
-- constitutive-dependency
-- enabling-dependency
+  - architectural-dependency
+  - dependency-hypothesis
+  - constitutive-dependency
+  - enabling-dependency
+  - constraint-based-dependency
 ---
 
-Organisational Dependency is a relationship in which one form of organisation establishes conditions required for another form of organisation to emerge, operate, persist, or become intelligible.
+Organisational Dependency is a dependency relation in which a phenomenon depends upon the organisation of activities, structures, constraints, or relations rather than upon isolated components alone.
 
-The relationship concerns organisation rather than isolated components. A later phenomenon depends not merely upon the presence of earlier elements but upon an organisation already capable of supporting what follows.
+The relevant claim is not merely that certain elements are present, but that their organisation contributes to the existence, operation, maintenance, or explanatory character of the phenomenon under investigation. Depending upon the case, an organisational dependency may be constitutive, enabling, constraint-based, structural, causal, or mixed.
 
-Organisational dependency should not be confused with causation, temporal succession, correlation, or logical implication. A dependency claim identifies an organisational requirement rather than a simple causal sequence. The earlier organisation establishes conditions of possibility for the later organisation without necessarily constituting it or mechanically producing it.
+Organisational dependency should therefore not be treated as a single universal relation. Nor should it be inferred merely because a biological explanation concerns organisation. The particular dependency must be specified as a dependency hypothesis, matched to the appropriate evidence, and assessed within its stated scope.
 
-Within APS, all pathway arrows ultimately express claims of organisational dependency. Architectural Dependency is the methodological framework through which such relationships are identified, evaluated, challenged, and revised.
+Within APS, some pathway arrows may include organisational dependencies, but not every arrow should be assumed to express the same dependency form. APS pathways may encode causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual, or mixed dependency hypotheses.
+
+Architectural Dependency identifies the dependency commitments represented by APS pathway architecture. The framework-neutral Dependency-Hypothesis Audit is used to determine what kind of dependency is being claimed, what supports it, and whether the claim survives comparison with relevant alternatives and established explanations.

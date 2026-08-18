@@ -6,22 +6,28 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-07-13
+revised: 2026-08-18
 
 cluster: methodology-and-explanation
-definition: Architectural Dependency is a methodological principle that investigates the organisational conditions required for phenomena to emerge, operate, persist, or become intelligible.
-inBrief: Architectural Dependency provides a framework for identifying and evaluating organisational conditions of possibility.
 
-seeAlso: 
-- organisational-dependency
-- dependency-hypothesis
-- biological-explanation.
+definition: Architectural Dependency is the APS-specific interpretation of pathway architecture according to which an APS arrow represents a defeasible dependency hypothesis rather than evidence, a uniform causal relation, chronology, conceptual implication, or established fact.
+
+inBrief: Architectural Dependency makes the dependency commitments represented by APS pathway architecture explicit.
+
+seeAlso:
+  - dependency-hypothesis
+  - organisational-dependency
+  - biological-explanation
 ---
 
-Architectural Dependency is a methodological principle used within APS to investigate the organisational conditions through which phenomena become possible.
+Architectural Dependency is the APS-specific interpretation of pathway architecture according to which an APS arrow represents a defeasible dependency hypothesis rather than evidence, a uniform causal relation, chronology, conceptual implication, or established fact.
 
-Rather than asking only what causes an outcome, Architectural Dependency asks what forms of organisation must already be established before a phenomenon can emerge, operate, persist, or become intelligible. Dependency claims therefore concern organisational requirements rather than simple causal relationships, temporal sequences, or conceptual associations.
+The term **architectural** refers to the organised pattern of relationships proposed by an APS pathway. The term **dependency** indicates that a claim is being made about how specified relata are connected. Architectural Dependency does not determine in advance what kind of dependency obtains. A pathway relation may be causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual, or mixed.
 
-Within APS, Architectural Dependency functions as a methodological principle rather than an additional explanatory projection alongside Agency, Process, and Scale. Agency, Process, and Scale are complementary analytic perspectives on one viability-oriented, constraint-closed organisation. Architectural Dependency provides a method for reconstructing and evaluating relationships among forms of organisation.
+Architectural Dependency is not an additional analytic projection alongside Agency, Process, and Scale. Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation rather than independent components of reality. Architectural Dependency instead concerns the dependency commitments represented within and among APS explanatory pathways.
 
-Architectural Dependency is commonly expressed through pathway architectures that represent dependency hypotheses concerning organised persistence, evaluation, significance, cognition, mind, selfhood, meaning, morality, and other forms of biological and social organisation.
+Individual pathway arrows must therefore be unpacked as dependency hypotheses whose relation type, material or argumentative basis, evidence, alternatives, scope, and failure conditions can be made explicit. Architectural Dependency identifies these commitments; it does not itself establish that they are correct.
+
+Assessment of such claims is conducted through the framework-neutral **Dependency-Hypothesis Audit**. Architectural Dependency therefore identifies what must be assessed in an APS pathway, while the Dependency-Hypothesis Audit specifies how that assessment is conducted.
+
+Architectural Dependency allows APS pathways concerning organised persistence, biological evaluation, significance, cognition, mind, selfhood, meaning, morality, and other forms of biological and social organisation to function as explicit and revisable explanatory architectures rather than as self-validating diagrams.

@@ -6,7 +6,7 @@ type: article
 status: draft
 canonical: false
 canonicalLockDate: 2026-07-14
-revised: 2026-07-28
+revised: 2026-08-18
 cluster: philosophy-of-biology
 role: synthesis
 abstract: APS is a developing philosophy of biology grounded in the view that life is viability-oriented, constraint-closed organisation. This article presents the philosophical foundations of the framework, including its ontology of organised persistence, its explanatory grammar of Agency–Process–Scale, its account of biological explanation, and its proposed architecture linking life, cognition, Mind, and Meaning. It situates APS in relation to major contemporary traditions in philosophy of biology while distinguishing established commitments from ongoing areas of theoretical development.
@@ -851,7 +851,7 @@ Yet the framework does not treat this proposal as beyond revision. Some parts of
 
 The concepts of life, agency, organisation, viability, function, purpose, and organised persistence form the strongest foundations of the framework. The pathways connecting cognition, Mind, Selfhood, Meaning, morality, and environmental value remain more exploratory.
 
-Architectural Dependency itself should be understood in this spirit. APS proposes dependency relationships as explanatory hypotheses concerning how forms of organisation may be related. The strength of individual dependency claims must ultimately depend upon conceptual clarity, comparative support, empirical investigation, and continuing critical evaluation.
+Architectural Dependency itself should be understood in this spirit. APS proposes dependency relationships as explanatory hypotheses concerning how forms of organisation may be related. The standing of individual dependency hypotheses depends upon their explicit relation type, appropriate material or argumentative basis, relevant evidence and limits, scope, alternatives, and comparison with established explanations.
 
 APS therefore distinguishes between what it currently explains most confidently and what it seeks to understand more fully.
 

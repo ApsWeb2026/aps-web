@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-22
-revised: 2026-07-23
+revised: 2026-08-18
 cluster: methodology-and-explanation
 role: synthesis
 
@@ -452,7 +452,7 @@ Organised persistence provides the corresponding principle of continuity. Living
 
 APS further proposes that viability requires continual biological evaluation. Living systems must discriminate between conditions according to their consequences for continued organisation. Biological evaluation identifies this ongoing organisational process through which significance is generated relative to viability. Significance is therefore not externally assigned, nor does it depend upon reflective consciousness. It emerges from the organisational requirements of living activity itself and subsequently provides the basis for cognition, values, social organisation, morality, and meaning.
 
-These concepts are not presented as isolated theoretical proposals. APS explains their relationships through architectural dependency. Individual concepts become scientifically intelligible through their place within a coherent explanatory architecture rather than through independent definition alone. Life, agency, organised persistence, biological evaluation, significance, cognition, and social organisation therefore form an integrated conceptual system whose organisation mirrors the organisation of the biological phenomena it seeks to explain.
+These concepts are not presented as isolated theoretical proposals. These concepts are not presented as isolated theoretical proposals. APS represents proposed relationships among them through its pathway architecture. Architectural Dependency treats those pathway connections as explicit dependency hypotheses rather than as self-validating conceptual sequences. Life, agency, organised persistence, biological evaluation, significance, cognition, and social organisation therefore form an organised conceptual system, while the particular dependency claims connecting them remain open to independent assessment. Life, agency, organised persistence, biological evaluation, significance, cognition, and social organisation therefore form an integrated conceptual system whose organisation mirrors the organisation of the biological phenomena it seeks to explain.
 
 This emphasis upon explanatory organisation also clarifies the role of the Agency–Process–Scale framework. Agency, Process, and Scale are not separate causal domains or competing levels of explanation. They are complementary analytic projections through which the same viability-oriented, constraint-closed organisation may be investigated. Agency asks what living systems do; Process examines how organisational continuity is maintained despite continual change; Scale identifies where persistence is organised across spatial and temporal extents. Together they provide complementary perspectives upon one organised biological reality.
 
