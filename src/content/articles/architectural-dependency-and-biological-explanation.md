@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-13
-revised: 2026-08-14
+revised: 2026-08-18
 cluster: methodology-and-explanation
 role: core
 
@@ -15,23 +15,23 @@ abstract: >
   agency, biological evaluation, significance, integration, cognition, mind,
   selfhood, meaning, morality, and ethics. These pathways are neither
   self-validating diagrams nor uniform claims of organisational necessity.
-  Architectural Dependency is the APS method for formulating, representing,
-  and assessing the heterogeneous dependency hypotheses expressed by their
-  arrows. An arrow records a defeasible claim between specified relata but
-  does not by itself determine whether the relation is causal, constitutive,
-  enabling, constraint-based, structural, spatial, temporal, historical,
-  conceptual, or mixed. Scientific assessment therefore requires an explicit
-  explanandum and foil, relation typing, material specification,
-  relation-matched evidence and inferential limits, alternatives and scope,
-  failure conditions, and comparison with the strongest established
-  explanation. Dependency claims may consequently be retained, qualified,
-  retyped, rejected, or judged to provide no explanatory gain. The article
-  presents this discipline as the public-facing APS application of the
-  comparative dependency-hypothesis audit, not as a new dependency ontology
-  or theory of explanation.
+  Architectural Dependency is the APS-specific interpretation of pathway
+  architecture according to which each arrow records a defeasible dependency
+  hypothesis between specified relata. The arrow itself does not determine
+  whether the relation is causal, constitutive, enabling, constraint-based,
+  structural, spatial, temporal, historical, conceptual, or mixed. Assessment
+  therefore uses the framework-neutral dependency-hypothesis audit: explicit
+  explanandum and foil, relation typing, material specification, matched
+  evidence and inferential limits, alternatives and scope, failure conditions,
+  comparison with the strongest established explanation, and an explicit
+  comparative verdict. Dependency claims may consequently be retained,
+  qualified, retyped, rejected, redescribed, judged redundant, or assigned
+  principled no gain. Architectural Dependency therefore disciplines how APS
+  pathways are interpreted without constituting a new dependency ontology or
+  general theory of explanation.
 
 keyPoints:
-  - Architectural Dependency is the APS method for assessing pathway dependency hypotheses, not a single universal dependency relation.
+  - Architectural Dependency is the APS-specific interpretation of pathway relations, not a single universal dependency relation or a general method of biological explanation. Assessment of an APS pathway arrow uses the framework-neutral Dependency-Hypothesis Audit.
   - An APS pathway arrow records a defeasible claim between specified relata; the arrow itself is not evidence.
   - Different arrows may express causal, constitutive, enabling, constraint-based, structural, spatial, temporal, historical, conceptual, or mixed relations.
   - Every dependency claim must identify its explanandum, foil, relation type, and materially appropriate basis.
@@ -102,9 +102,9 @@ The answer developed here is restrained. An APS pathway is scientifically credib
 
 This requirement reflects the wider character of biological explanation. Biology employs mechanistic, causal, constitutive, organisational, functional, historical and other explanatory strategies because biological questions and explanatory aims differ (Brigandt 2013; Mitchell 2002). No single relation can be assumed to underwrite every adequate explanation. Mechanistic explanation may identify entities, activities and organisation responsible for a phenomenon, while organisational and historical accounts may address different but compatible aspects of that phenomenon (Machamer, Darden, and Craver 2000; Craver 2007).
 
-The same discipline must apply to APS. Its pathways cannot derive their credibility from the framework that proposes them. They must be assessed against the material organisation of the systems concerned and compared with the strongest established explanations. Architectural Dependency is the APS method for making that assessment possible.
+The same discipline must apply to APS. Its pathways cannot derive their credibility from the framework that proposes them. They must be assessed against the material organisation of the systems concerned and compared with the strongest established explanations. Architectural Dependency makes the dependency commitments of APS pathways explicit; their assessment is then governed by the framework-neutral Dependency-Hypothesis Audit.
 
-This article introduces Architectural Dependency as the public-facing APS application of a more general comparative dependency-hypothesis audit. It explains what pathways legitimately represent, what an arrow claims and why different dependency claims require different forms of evidence. It does not propose a new ontology of dependency or a universal theory of biological explanation. Its purpose is to make APS’s explanatory connections scientifically assessable.
+This article introduces Architectural Dependency as the APS-specific interpretation of its pathway architecture and explains how the general Dependency-Hypothesis Audit applies to those pathways. It explains what pathways legitimately represent, what an arrow commits APS to, and why different dependency claims require different forms of evidence. It does not propose a new ontology of dependency or a universal theory of biological explanation. Its purpose is to make APS's explanatory connections explicit and scientifically assessable.
 
 ## 2. Why APS Uses Explanatory Pathways
 
@@ -144,19 +144,19 @@ APS pathways should consequently be read as structured sets of dependency hypoth
 
 ## 3. What Architectural Dependency Is
 
-Architectural Dependency is the APS method for formulating, representing and assessing dependency hypotheses within its conceptual and organisational pathways. It does not designate a single universal dependency relation.
+Architectural Dependency is the APS-specific interpretation of the dependency architecture represented by its explanatory pathways. It treats each pathway arrow as a defeasible dependency hypothesis whose meaning and evidential standing must be established independently.
 
-The term architectural refers to the organised pattern of relationships represented by a pathway. It directs attention to how processes, activities, structures, constraints, capacities and historical conditions are connected within an explanation. It does not imply that living systems possess a fixed blueprint or that APS has discovered one underlying architecture common to every biological phenomenon.
+The term architectural refers to the organised pattern of relationships proposed by a pathway. It directs attention to how activities, processes, structures, constraints, capacities, conceptual presuppositions, and historical conditions are connected within APS. It does not imply that living systems possess a fixed blueprint or that APS has discovered one underlying architecture common to every biological phenomenon.
 
-The term dependency indicates that a claim is being made about how specified relata are connected. One phenomenon may depend upon another causally, constitutively, as an enabling condition, through constraints, through spatial or temporal organisation, through historical development, or through an explanatory or conceptual presupposition. Some dependency hypotheses may combine several relations. The term alone does not determine which relation is present.
+The term dependency indicates that a claim is being made about how specified relata are connected. One phenomenon may depend upon another causally, constitutively, as an enabling condition, through constraints, through spatial or temporal organisation, through historical development, or through an explanatory or conceptual presupposition. Architectural Dependency does not determine which relation obtains.
 
-Architectural Dependency therefore differs from the dependencies it investigates. The dependencies are the proposed relationships. Architectural Dependency is the method APS uses to state and assess them.
+Architectural Dependency therefore names neither a single dependency relation nor a general method for biological explanation. It identifies the kind of commitment compressed into an APS pathway arrow. The relation itself is a dependency hypothesis; its assessment is conducted through the framework-neutral Dependency-Hypothesis Audit.
 
-It also performs a different role from Agency, Process and Scale. These are analytic projections of one viability-oriented, constraint-closed organisation rather than independent causes, entities or levels. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; and Scale concerns where persistence is organised across spatial and temporal extents. Architectural Dependency is not a fourth projection. It examines whether particular explanatory connections proposed within or across these perspectives are adequately specified and supported.
+It also performs a different role from Agency, Process and Scale. These are analytic projections of one viability-oriented, constraint-closed organisation rather than independent causes, entities, or components of living organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; and Scale concerns where persistence is organised across spatial and temporal extents. Architectural Dependency is not a fourth analytic projection. It concerns the dependency claims APS proposes within and among the explanatory pathways through which its concepts are related.
 
 This distinction places an important limit on APS claims. Architectural Dependency cannot establish a connection simply by describing it as organisational. Nor does the fact that a connection fits the wider APS framework count as independent support. The proposed dependency must be connected to an identifiable material basis, evidence appropriate to the relation claimed and explicit inferential limits.
 
-Architectural Dependency is the APS-specific application of the general dependency-hypothesis audit developed in APS Research. The general audit is neutral with respect to APS. It can be applied to dependency claims found in mechanistic, interventionist, organisational, developmental, evolutionary or other explanatory approaches. Its function is to determine what relation is being claimed, what supports it and whether making those matters explicit changes a defensible explanatory assessment.
+The Dependency-Hypothesis Audit developed in APS Research provides the general procedure for assessing the claims represented through Architectural Dependency. The audit is framework-neutral: it can be applied to dependency claims in mechanistic, interventionist, organisational, developmental, evolutionary, or other explanatory approaches. Within APS, the same procedure is applied to individual pathway arrows without granting them privileged evidential status. Architectural Dependency therefore identifies what must be assessed in an APS pathway; the Dependency-Hypothesis Audit specifies how that assessment is conducted.
 
 Within the present article, that audit supplies the discipline governing APS arrows. Its complete fields and decision rules will be introduced later. At this stage, the essential point is that APS pathways do not receive a privileged evidential status. Their arrows are dependency hypotheses subject to the same requirements for material specification, evidential restraint, strongest-alternative comparison and possible failure as comparable claims elsewhere in biology.
 
@@ -271,7 +271,7 @@ A constraint-based dependency claims that A restricts, channels or stabilises th
 
 Appropriate evidence identifies the constraining structure or activity, its material implementation, the processes constrained and the difference its presence, removal or modification makes. Where constraint closure is claimed, the account must also show how relevant constraints contribute to maintaining one another within an organised system (Moreno and Mossio 2015; Montévil and Mossio 2015).
 
-The discovery of a constraint does not show that it acts alone, controls the system from a wider level or is necessary across every biological context. Mistyping a constraint as an efficient cause may obscure how it modifies local possibilities. Describing any regular influence as a constraint may, in the opposite direction, empty the category of explanatory precision.
+The discovery of a constraint does not show that it acts alone, supersedes the material organisation through which local processes occur, or is necessary across every biological context. Mistyping a constraint as an efficient cause may obscure how it modifies local possibilities. Describing any regular influence as a constraint may, in the opposite direction, empty the category of explanatory precision.
 
 ### Structural dependency
 
@@ -323,7 +323,7 @@ Relation typing is therefore an analytical starting point. Its purpose is not to
 
 ## 6. How APS Assesses Dependency Claims
 
-Architectural Dependency applies the comparative dependency-hypothesis audit to APS pathways. The audit does not begin by asking how an arrow can be defended. It begins by asking exactly what is being claimed and what would distinguish that claim from its alternatives.
+The dependency hypotheses represented through Architectural Dependency are assessed using the framework-neutral Dependency-Hypothesis Audit. The audit does not begin by asking how an APS arrow can be defended. It begins by asking exactly what is being claimed and what would distinguish that claim from its alternatives.
 
 Assessment proceeds arrow by arrow. Support for one connection does not validate its neighbours, and a credible pathway may contain claims with markedly different evidential standing.
 
@@ -434,6 +434,9 @@ A null verdict is warranted when the strongest established explanation already p
     tabindex="0"
   >
     <table>
+      <caption id="dependency-audit-caption">
+        Table 1. Compact application of the Dependency-Hypothesis Audit to APS pathway claims
+      </caption>
       <!-- all ten table rows -->
     </table>
   </div>
@@ -453,7 +456,7 @@ The audit permits several outcomes:
 
 These verdicts apply to individual dependency claims. A pathway should not receive a single confidence status merely because some of its arrows are well supported. Each connection retains its own evidence, limits and failure conditions.
 
-Architectural Dependency therefore replaces pathway affirmation with comparative assessment. Its purpose is not to show that APS arrows must be correct. It is to establish what each arrow would have to mean, what could support or defeat it and whether making the dependency explicit contributes anything beyond the strongest explanation already available.
+Architectural Dependency therefore replaces pathway affirmation with explicit dependency claims, while the Dependency-Hypothesis Audit subjects those claims to comparative assessment. Its purpose is not to show that APS arrows must be correct. It is to establish what each arrow would have to mean, what could support or defeat it and whether making the dependency explicit contributes anything beyond the strongest explanation already available.
 
 ## 7. Feedback, Constraint Closure, Time and Scale
 
@@ -489,7 +492,7 @@ A dependency hypothesis within a constraint-closed organisation must specify wha
 
 Closure also does not guarantee that an original asymmetry survives. If A and B are mutually required for the continued operation of an established system, the relevant explanation may concern reciprocal maintenance rather than a one-way dependency. A directional arrow might remain appropriate for a particular causal question, developmental reconstruction or explanatory presupposition, but its scope must be stated.
 
-Constraint closure and Architectural Dependency are therefore compatible without being automatically complementary. Closure describes a materially organised pattern requiring relation-sensitive analysis. Architectural Dependency provides the method for determining which causal, constitutive, enabling or constraint-based claims that pattern supports.
+Constraint closure and Architectural Dependency are therefore compatible without being automatically complementary. Closure describes a materially organised pattern requiring relation-sensitive analysis. Architectural Dependency identifies the dependency claims compressed within such pathway representations; the Dependency-Hypothesis Audit determines which causal, constitutive, enabling, or constraint-based claims the evidence supports.
 
 [[box:dependency-and-constraint-closure]]
 
@@ -511,9 +514,9 @@ Historical evidence becomes relevant when a historical dependency has been state
 
 Dependency claims may also change with the spatial and temporal extent of investigation. A short-duration perturbation may reveal a local causal contribution, while longer observation reveals compensation or reorganisation. A spatial arrangement may constrain cellular activity even though its effects are implemented through local molecular and cellular processes. A dependency visible during development may not remain a present operational dependency in the mature organism.
 
-APS interprets Agency, Process and Scale as analytic projections of one viability-oriented organisation, not as independent components or levels. Scale identifies the spatial and temporal extent over which the organisation and its persistence are being investigated. Changing that extent may change which dependencies become visible, which contrasts are admissible and which explanatory claims are relevant.
+APS interprets Agency, Process and Scale as analytic projections of one viability-oriented organisation, not as independent components of living organisation. Scale identifies the spatial and temporal extent over which the organisation and its persistence are being investigated. Changing that extent may change which dependencies become visible, which contrasts are admissible and which explanatory claims are relevant.
 
-Cross-scale influence should therefore not be described as a wider level overriding local causation. It is implemented materially. Spatial organisation, boundary conditions, tissue geometry, resource distribution, temporal coordination or system-maintained constraints alter the conditions under which local processes occur. An adequate dependency claim must identify those conditions and the activities through which their effects are realised.
+Cross-scale influence should therefore be described through its material implementation rather than as one explanatory domain superseding another. Spatial organisation, boundary conditions, tissue geometry, resource distribution, temporal coordination or system-maintained constraints alter the conditions under which local processes occur. An adequate dependency claim must identify those conditions and the activities through which their effects are realised.
 
 Evidence obtained at one spatial or temporal extent does not automatically validate a claim framed at another. The audit must specify where the dependency holds, how it is materially implemented and whether the relation persists when the analytical extent changes.
 
@@ -620,7 +623,7 @@ Support must also remain localised. Confirmation of one arrow does not validate 
 
 ## 9. Applying the Method
 
-Architectural Dependency can be applied to an APS arrow through a concise sequence of questions.
+The Dependency-Hypothesis Audit can be applied to an APS arrow through a concise sequence of questions.
 
 ### 1. Define the explanandum and foil
 
@@ -761,9 +764,7 @@ Architectural Dependency connects the public explanatory architecture of
 the APS Framework with the more extensive scholarly work conducted through
 [APS Research](/research/).
 
-This article has a public-facing function. It explains how readers should
-interpret APS pathways, what an arrow commits the framework to and how
-proposed dependencies can be assessed. It provides sufficient methodological
+This article has a public-facing function. It explains how readers should interpret APS pathways and what an arrow commits the framework to. It then shows how the framework-neutral Dependency-Hypothesis Audit can be used to assess those commitments. It provides sufficient methodological
 detail to prevent the diagrams from being mistaken for evidence or uniform
 claims of necessity.
 
@@ -808,10 +809,10 @@ The arrow must then survive comparison. Alternatives, scope and failure conditio
 
 This discipline does not make Architectural Dependency a new ontology or general theory of explanation. Its analytical operations are inherited from established work on causation, mechanisms, constitution, constraints, organisation, history and explanatory pluralism. The distinctive APS contribution is narrower: applying those operations consistently to the heterogeneous claims compressed within its pathways.
 
-The resulting method preserves the usefulness of pathway representation while removing any presumption that a coherent pathway is already an adequate explanation. It also accommodates the reciprocity of living organisation. Feedback, constraint closure and changes across spatial and temporal extent may preserve, qualify, transform or defeat an asserted dependency. Their effect must be determined case by case.
+The resulting discipline preserves the usefulness of pathway representation while removing any presumption that a coherent pathway is already an adequate explanation. It also accommodates the reciprocity of living organisation. Feedback, constraint closure and changes across spatial and temporal extent may preserve, qualify, transform or defeat an asserted dependency. Their effect must be determined case by case.
 
 In plain terms, the scientific credibility of APS rests heavily on its arrows. Those arrows should invite healthy scepticism. They are not established simply because the connected ideas appear coherent or because they belong to the same framework. APS earns scientific confidence only when each important connection can be specified materially, assessed against evidence and alternatives, and qualified or rejected when it fails. A framework made revisable in this way is scientifically stronger than one whose connections are protected from criticism.
 
-The APS Dependency Map should therefore be understood as a structured set of researchable commitments. Support for one arrow does not validate the map as a whole, and the failure of an arrow must have consequences for claims that depend upon it. Architectural Dependency supplies the method by which those consequences can be identified and incorporated.
+The APS Dependency Map should therefore be understood as a structured set of researchable commitments. Support for one arrow does not validate the map as a whole, and the failure of an arrow must have consequences for claims that depend upon it. Architectural Dependency makes those dependency commitments explicit; the Dependency-Hypothesis Audit provides the method through which their consequences can be assessed and incorporated.
 
-Its contribution is consequently methodological and self-critical: APS pathways become scientifically useful not by ending inquiry, but by stating clearly where inquiry must begin.
+Its contribution is consequently architectural and self-critical: APS pathways become scientifically useful not by ending inquiry, but by stating clearly where inquiry must begin.
