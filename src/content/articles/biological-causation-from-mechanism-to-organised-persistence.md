@@ -6,10 +6,18 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-06-15
+revised: 2026-08-19
 cluster: conceptual-foundations
 role: extension
-abstract: "APS reframes biological causation as the viability-oriented modulation of constraints within constraint-closed organisation. Mechanistic interactions remain essential, but causation in living systems includes the active maintenance and coordination of conditions that sustain organised persistence across scale and time."
+abstract: "APS interprets biological causation through the viability-oriented modulation
+  of constraints within constraint-closed organisation. Mechanistic interactions
+  remain indispensable and may provide sufficient explanations for many
+  biological questions. Where living organisation and organised persistence are
+  the explanatory targets, APS additionally investigates how materially
+  implemented constraints are maintained, coordinated, and modified across
+  spatial and temporal extents. This organisational account supplements rather
+  than automatically supersedes mechanistic explanation, and its explanatory
+  contribution must be assessed relative to the question being addressed."
 relatedGlossaryTerms:
   - constraint
   - constraint-closure
@@ -26,36 +34,32 @@ relatedArticles:
 
 ## Framing Biological Causation
 
-APS does not reject mechanistic explanation. It situates mechanism within viability-oriented, constraint-closed organisation. Biological causation is not merely the production of events; it includes the maintenance and modulation of the conditions that sustain organised persistence across scale and time.
+APS does not reject or subordinate mechanistic explanation. Mechanisms, interactions, and event relations remain indispensable to biological inquiry and may provide sufficient explanations for particular biological questions.
 
-## Is Biological Causation Just Physics?
+APS asks an additional question where living organisation and organised persistence are the explanatory targets: how are causal processes organised through materially maintained constraints in ways that contribute to continued viability?
 
-Natural science often treats causation as event-based: one event produces another. Forces accelerate masses, reactions transform substrates, and signals trigger responses.
+Its account of biological causation therefore concerns the viability-oriented modulation of constraints within constraint-closed organisation. This is an APS explanatory commitment whose contribution must be assessed alongside alternative accounts rather than assumed from the framework itself.
 
-Biology clearly depends on such interactions. Molecules bind, ions flow, and genes are transcribed.
+## Event Relations and Living Organisation
 
-Yet living systems exhibit something additional:
+Biological processes depend upon physical interactions. Molecules bind, ions flow, substrates are transformed, forces act, and genes are transcribed. Nothing in APS requires biological causation to depart from physical law.
 
-- cells regulate internal states  
-- organisms maintain boundaries  
-- immune systems discriminate self from non-self  
-- development stabilises form across time  
+Living systems also exhibit sustained patterns of regulation and maintenance:
 
-These patterns involve not only events but the sustained maintenance of conditions. APS clarifies this difference without departing from physical law.
+> cells regulate internal states;
+> organisms maintain and repair boundaries;
+> immune systems discriminate among biologically consequential conditions;
+> development can stabilise and reconstruct form through change.
 
-## Mechanism: Necessary but Not Sufficient
+APS asks how such processes participate in the maintenance of living organisation. Its distinctive causal interest therefore concerns not an additional force or non-physical cause, but the organisation and modulation of materially realised conditions through which viability is maintained.
 
-Mechanistic explanation decomposes systems into components and interactions. It asks:
+## Mechanism and Organisational Context
 
-- What parts are involved?  
-- How do they interact?  
-- What sequence of events occurs?  
+Mechanistic explanation investigates components, activities, interactions, and the organisation through which particular phenomena are produced. Such explanations can be scientifically sufficient for the questions they address.
 
-This approach is indispensable and fully retained in APS.
+APS does not treat their success as evidence that every biological question is exhausted by mechanistic analysis. Where the explanatory target is living organisation or organised persistence, an additional question becomes relevant: how do particular mechanisms participate in maintaining, modifying, or restoring the conditions under which the living system remains viable?
 
-However, mechanistic analysis abstracts from organisational context. It explains how processes occur, but not why certain processes are stabilised while others dissipate or collapse.
-
-In living systems, causation includes the active maintenance of constraints that keep organised activity viable.
+APS addresses this question through the organisation and modulation of constraints. This does not make organisational explanation intrinsically deeper than mechanistic explanation. It identifies a different explanatory responsibility associated with a different target.
 
 ## Constraint-Based Causation
 
@@ -65,27 +69,29 @@ A constraint does not push or pull; it shapes what can occur.
 - An enzyme constrains reaction pathways  
 - A regulatory network constrains gene expression  
 
-In physics, constraints are typically treated as boundary conditions. In biology, constraints are actively maintained by the system itself. Membranes are repaired, gradients are restored, and regulatory networks are stabilised.
+APS gives particular explanatory importance to constraints that are materially maintained, regenerated, or modified through the activity of living systems. Membranes are repaired, gradients are restored, and regulatory relations are sustained through ongoing biological processes. This directs attention from constraints merely specified as conditions of a model toward the biological processes through which relevant constraints are themselves maintained within organised persistence. Membranes are repaired, gradients are restored, and regulatory networks are stabilised.
 
 This marks the shift from externally imposed conditions to constraints actively maintained within organised persistence.
 
 ## Constraint Closure and Organisational Causation
 
-Constraint closure occurs when constraints mutually sustain one another:
+Constraint closure occurs when constraints participate in relations through which the conditions required for their continued operation are mutually maintained:
 
-- metabolic processes maintain membrane integrity  
-- membranes preserve gradients  
-- gradients enable metabolism  
+> metabolic processes contribute to maintaining membrane integrity
+> membranes help preserve gradients
+> gradients enable metabolic processes
 
-Persistence is not explained by a single event but by a network of reciprocally sustaining constraints.
+Within APS, organised persistence is therefore not understood through a single event alone, but through materially realised relations among processes and constraints that contribute to maintaining the conditions of continued viability.
 
-Biological causation therefore includes:
+APS distinguishes analytically among:
 
-- event causation (molecular interactions)  
-- constraint causation (shaping of conditions)  
-- organisational causation (viability-oriented maintenance within closure)  
+> event relations — materially realised interactions and changes
+> constraint relations — conditions that restrict, enable, or modulate possible processes
+> organisational relations — relations through which maintained constraints and processes contribute to viability-oriented organisation
 
-Living systems do not merely undergo events. They sustain the conditions under which events remain viable.
+These distinctions do not identify separate causal substances or forces. They distinguish aspects of the materially realised organisation APS seeks to explain.
+
+Living systems undergo material events while also maintaining and modifying conditions upon which their continued organisation depends.
 
 [[box:aps-box-event-constraint-and-organisational-causation]]
 

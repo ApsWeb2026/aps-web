@@ -3,12 +3,22 @@ date: 2026-04-14
 title: Explanatory Grammar
 slug: explanatory-grammar
 type: glossary
-definition: "Explanatory grammar is the structured set of conditions that determine what counts as real, what counts as a cause, and how biological phenomena become intelligible within a given framework."
-inBrief: "Explanatory grammar is the structure that determines how explanation works."
+definition: "Explanatory Grammar is the organised set of conceptual and explanatory
+  relations through which APS structures its account of living organisation
+  and organised persistence. It relates Agency, Process, Scale,
+  viability-oriented organisation, organised persistence, and associated
+  explanatory commitments without treating them as independent components,
+  hierarchical levels, or obligatory categories for biological explanation
+  generally."
+inBrief: "APS's Explanatory Grammar organises the concepts and relations through which
+  it explains living organisation and organised persistence. It has potential
+  foundational generality because living organisation itself is its principal
+  explanatory target, but it is not an obligatory grammar for every biological
+  explanation."
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-06-15
+revised: 2026-08-19
 cluster: methodology-and-explanation
 seeAlso:
   - biological-agency

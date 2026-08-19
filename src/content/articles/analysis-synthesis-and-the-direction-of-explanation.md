@@ -6,10 +6,20 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-06-15
+revised: 2026-08-19
 cluster: methodology-and-explanation
 abstract: >
-  Scientific explanation is commonly treated as proceeding by analysis—breaking systems into constituent parts. This article argues that this emphasis reflects a historically contingent bias rather than a necessity of explanation. It distinguishes two complementary directions of explanation—analysis and synthesis—and shows how the privileging of analysis has shaped reductionist interpretations of biology. Within APS, explanation is reoriented toward organisation, constraint, and viability, rejecting any intrinsic priority of parts over wholes.
+  Analysis and synthesis identify distinguishable explanatory orientations:
+  analysis investigates systems through their components and interactions,
+  while synthesis investigates components and processes in relation to the
+  wider organisation in which they operate. This article explains how APS
+  uses both orientations while assigning neither intrinsic explanatory or
+  ontological priority. Where living organisation and organised persistence
+  are the explanatory targets, APS gives particular importance to relations
+  among components, processes, constraints, and the organisation through
+  which viability is maintained. This does not make synthesis universally
+  superior to analysis or require every biological explanation to combine
+  both orientations.
 relatedGlossaryTerms:
   - biological-organisation
   - process
@@ -24,26 +34,26 @@ relatedArticles:
   - from-life-to-explanation-emerging-architecture
 ---
 
-## The unnoticed assumption in scientific explanation
+## The analytic orientation in scientific explanation
 
-Scientific explanation is often assumed to proceed by breaking systems into their constituent parts. Complex phenomena are explained by identifying underlying components and the interactions between them. This approach—analysis—is widely regarded as the most rigorous and reliable form of explanation.
+Analysis is one of the most powerful strategies in scientific explanation. Complex systems can be investigated by identifying components, interactions, mechanisms, and processes, and biological inquiry has achieved major explanatory successes through such approaches.
 
-Because of its success, this mode of explanation is rarely questioned. It is treated not as one possible approach among others, but as the default structure of explanation itself.
+Analytic success can nevertheless encourage a further assumption: that explanation in terms of components is intrinsically deeper or more fundamental than explanation concerned with the organisation in which those components participate. That conclusion does not follow from the success of analysis itself.
 
-This assumption has far-reaching consequences. It encourages the view that explanatory depth lies in smaller components, and that what is most fundamental is what is most basic in composition. In biology, this has contributed to the widespread perception that genes, molecules, or biochemical processes provide the most complete explanations of living systems.
+APS therefore distinguishes the usefulness of analysis from claims about its universal explanatory priority. The relevant question is not whether biological systems should be analysed—they clearly should—but whether analysis alone addresses the particular explanatory target under investigation.
 
-However, this reflects a particular orientation of explanation rather than a necessary feature of reality.
+Where the question concerns living organisation and organised persistence, APS argues that relations among components, processes, constraints, and the organisation through which viability is maintained become explicit objects of explanation.
 
-This article does not argue against reductionism as such, but examines a prior question: how explanation is oriented. The status of reductionism within APS is addressed separately.
+This article does not argue against reductionism as such. It examines the relationship between analytic and synthetic explanatory orientations. The status of reductionism within APS is addressed separately.
 
 ## Two directions of explanation
 
 Explanation can proceed in at least two distinct but complementary directions.
 
-**Analysis** explains a system in terms of its constituent parts and their interactions.  
-**Synthesis** explains a component in terms of the wider system within which it operates.
+**Analysis** investigates a system through its components, processes, interactions, and relations.  
+**Synthesis** investigates how components and processes participate in, depend upon, or acquire explanatory significance through the organisation in which they operate.
 
-These are not competing methods but reciprocal perspectives.
+These are not intrinsically competing methods. They can provide complementary explanatory perspectives where the question under investigation requires both.
 
 - To explain a cell analytically is to describe its molecular composition and internal processes.  
 - To explain a cell synthetically is to situate it within the organism whose organisation it contributes to.
@@ -52,19 +62,19 @@ Both are legitimate. Neither is intrinsically more fundamental than the other.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
-## The asymmetry in practice
+## Explanatory priority
 
-Although analysis and synthesis are conceptually symmetrical, they are not treated symmetrically in scientific practice.
+Analysis and synthesis need not be assigned equal importance in every investigation. Their relevance depends upon what is being explained.
 
-Over several centuries, scientific inquiry has strongly favoured analysis. Problems are approached by decomposition, and explanatory success is often measured by the ability to reduce phenomena to simpler components.
+A mechanistic question may appropriately give explanatory priority to components, interactions, and causal organisation. Other questions may require greater attention to how those processes participate in a wider biological organisation. Neither explanatory priority establishes that the corresponding entities are more fundamental features of reality.
 
-This has produced an implicit hierarchy of explanation:
-- smaller components are treated as more fundamental  
-- larger organisations are treated as derivative  
+This distinction is especially important when explanatory language is expressed through “levels.” Molecular, cellular, organismal, ecological, and other descriptions can be useful analytic domains without constituting a hierarchy of explanatory worth or causal priority.
 
-This hierarchy is reinforced by the language commonly used to describe explanation. Explanations are said to move “downward” to underlying parts or “upward” to higher-level organisation. Although such terms are often used metaphorically, they are not neutral. They encourage a hierarchical interpretation in which lower levels are implicitly treated as more basic and higher levels as dependent or secondary.
+APS therefore avoids treating explanatory direction as movement upward or downward through biological levels. Its concern is instead with materially implemented relations among processes organised across spatial and temporal extents.
 
-The notion of a “direction” of explanation can therefore be misleading. It suggests that explanation proceeds along a single axis, typically from wholes to parts, rather than between interdependent aspects of a system. In doing so, it obscures the reciprocal relation between analysis and synthesis.
+The appropriate explanatory orientation is consequently target-relative. Analysis and synthesis identify different ways of organising inquiry; neither has intrinsic priority independently of the question being addressed.
+
+This is much stronger scientifically because we no longer need the historical argument to establish the methodological conclusion.
 
 [[box:scale-is-not-hierarchy]]
 
@@ -76,42 +86,40 @@ In biology, the privileging of analysis has had a profound influence.
 
 Living systems are frequently explained in terms of genes, molecular pathways, and biochemical mechanisms. These are indispensable components of biological explanation. However, when explanation is oriented primarily in this way, these components can obscure the organisational conditions that make biological systems what they are.
 
-A living organism is not merely a collection of molecules. It is a dynamically maintained organisation in which components are continuously produced, regulated, and coordinated. The same molecular constituents can be present in both living and non-living systems, but only in the former are they organised in a way that sustains ongoing activity.
+A living organism is not merely a collection of molecules. Within APS, explaining living organisation therefore raises questions about how components and processes are organised, maintained, regenerated, and coordinated in ways relevant to continued viability.
 
-When explanation proceeds primarily by decomposition, this organisational dimension is not eliminated but displaced. The system is analysed into parts, but the conditions under which those parts collectively sustain a living process are no longer treated as primary objects of explanation.
+Analytic explanation can identify mechanisms and interactions essential to answering such questions. An additional organisational question arises when the explanatory target is the persistence of the living system itself: how do those mechanisms and interactions participate in maintaining or transforming viable organisation?
 
-The result is not an incorrect account, but an incomplete one.
+Failure to answer that question does not make an analytic explanation incomplete relative to every biological target. It means only that the explanation does not, by itself, answer the particular organisational question APS is asking.
 
 ## Reorienting explanation in APS
 
-APS does not reject analysis. The identification and investigation of components is essential to scientific practice. However, it rejects the assumption that analysis provides a more fundamental form of explanation.
+APS does not reject analysis. Identification of components, mechanisms, interactions, and processes remains indispensable to biological inquiry. Nor does APS assume that synthesis is intrinsically deeper or more complete.
 
-Instead, APS treats explanation as inherently relational and organisation-dependent.
+APS instead gives particular explanatory importance to organisation when living organisation and organised persistence are the targets being investigated. It asks how activities, processes, constraints, and interactions are materially organised in ways that maintain or transform viability through time.
 
-This reorientation reflects a deeper shift in explanatory structure, developed in *The Explanatory Geometry of Biology — How APS Organises Biological Explanation*, where these relations are made explicit as a coherent explanatory grammar.
+This orientation is developed in The Explanatory Geometry of Biology — How APS Organises Biological Explanation, where Agency, Process, and Scale function as analytic projections of one viability-oriented, constraint-closed organisation.
 
-- Components are understood in terms of the roles they play within a system.  
-- Systems are understood in terms of the constraints and processes that maintain their organisation.  
-- Explanation is oriented toward the conditions under which a system persists as a coherent entity.  
+Within this APS perspective:
 
-This reorientation shifts explanatory emphasis from composition to organisation.
+> components can be investigated in relation to the organisation in which they operate;
+> processes can be investigated through the constraints and relations through which continuity is maintained;
+> organisation can be investigated across the spatial and temporal extents through which persistence is realised.
 
-In this framework, biological explanation is not exhausted by identifying parts and their interactions. It also requires understanding how those interactions are structured so as to maintain the system’s viability over time.
+APS therefore supplements component analysis with organisational questions where those questions are relevant to the explanatory target. It does not require every successful biological explanation to be reconstructed through synthesis or APS.
 
-## No privileged direction of explanation
+## No intrinsically privileged direction of explanation
 
-Within APS, there is no intrinsic priority between analysis and synthesis.
+Within APS, neither analysis nor synthesis possesses intrinsic explanatory priority.
 
-Both directions are necessary:
-- analysis reveals the components and mechanisms involved  
-- synthesis reveals the organisational context that gives those components their functional significance  
+Their relevance depends upon the explanatory target. Some biological questions can be adequately answered through analytic investigation of components, mechanisms, interactions, or processes. Other questions—particularly those concerning living organisation and organised persistence—may require attention to how such processes participate in wider viability-maintaining organisation.
 
-Explanatory adequacy depends on the coordination of these perspectives, not the reduction of one to the other.
+Analysis and synthesis can therefore be complementary without being universally co-required. Their coordination is valuable where combining them produces explanatory gain relative to the question being addressed.
 
-The dominance of analysis in modern science is therefore best understood as a historically entrenched habit of explanation rather than a discovery about the fundamental structure of the world.
+APS gives particular importance to organisational synthesis when investigating living organisation because its central question concerns how viability-oriented organisation is maintained and transformed through change. This priority is target-relative, not a claim that synthesis is universally deeper, more fundamental, or scientifically superior to analysis.
 
-Recognising this opens the possibility of a more balanced explanatory framework—one in which organisation, constraint, and viability are treated as central, rather than derivative, features of biological systems.
+The appropriate explanatory orientation must therefore be established by what is being explained and by whether the resulting account provides evidentially supported explanatory gain.
 
 ## Key point
 
-Scientific explanation has historically privileged analysis, treating explanation in terms of parts as more fundamental. APS rejects this asymmetry, recognising both analysis and synthesis as necessary and treating organisation, rather than composition alone, as central to biological explanation.
+Analysis and synthesis provide distinguishable explanatory orientations whose relevance depends upon what is being explained. APS assigns neither intrinsic priority. When living organisation and organised persistence are the explanatory targets, APS gives particular importance to understanding how components and processes participate in viability-maintaining organisation. This does not make synthesis universally necessary or superior to analysis.

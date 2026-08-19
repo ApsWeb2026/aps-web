@@ -7,7 +7,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-16
-revised: 2026-08-18
+revised: 2026-08-19
 
 cluster: methodology-and-explanation
 role: core
@@ -148,7 +148,7 @@ Such analysis asks not only which mechanisms, causes, structures, or outcomes ar
 
 This does not imply that every adequate biological explanation must answer an organised-persistence question. Rather, organisational continuity analysis specifies the additional question APS brings to biological phenomena: how do the processes under investigation participate in maintaining, reorganising, or transforming viable biological organisation?
 
-Explanation therefore becomes an investigation into the organisational conditions through which living systems remain viable through time.
+EWithin APS, organisational continuity analysis therefore investigates the organisational conditions through which living systems remain viable through time.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/aps-explanatory-geometry.png" target="_blank" rel="noopener">
@@ -208,7 +208,7 @@ APS therefore treats perturbation not as an exceptional disturbance but as a maj
 
 [[box:perturbation-reveals-organisation]]
 
-## From Description to Explanatory Grammar
+## From Description to the APS Explanatory Grammar
 
 Biology depends upon description, diagnosis, and explanation, yet these activities perform different roles within scientific inquiry.
 
@@ -254,9 +254,9 @@ APS argues that explanatory prominence should not be confused with ontological p
 
 What becomes explanatorily central depends upon the question being asked, the methods employed, the scales examined, and the organisational relations under investigation. Different explanatory contexts therefore foreground different aspects of biological organisation without implying that those aspects constitute the ultimate foundation of life.
 
-Genes, organisms, developmental systems, populations, ecological communities, and evolutionary lineages are not rival ontological foundations. They are different explanatory orientations through which organised persistence can be investigated.
+Genes, organisms, developmental systems, populations, ecological communities, and evolutionary lineages are not rival ontological foundations. They may function as different explanatory orientations addressing different biological questions. Where those questions bear upon living organisation and its continuity, APS can additionally investigate how their findings relate to organised persistence.
 
-Many apparent disputes over explanatory priority therefore reflect shifts in explanatory geometry rather than genuine metaphysical conflict. APS preserves this explanatory plurality while offering an organisationally coherent interpretation of relations among explanations where such comparison is warranted.
+Some apparent disputes over explanatory priority may therefore reflect differences in explanatory target or emphasis rather than genuine metaphysical conflict. APS preserves this explanatory plurality while offering an organisational interpretation of relations among explanations where such comparison is warranted.
 
 [[box:explanatory-priority-is-not-ontological-priority]]
 
@@ -351,7 +351,7 @@ Biological understanding itself remains plural. APS contributes one organised pe
 
   <p class="aps-diagram-caption">
     <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
-    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+    Biological organisation is often represented analytically through levels extending from molecules to ecosystems. APS instead uses Scale to examine where persistence is organised across spatial and temporal extents. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes can interact through materially implemented relations and constraints without constituting independent causal layers or requiring intrinsic explanatory priority to be assigned to any one scale.
   </p>
 </div>
 

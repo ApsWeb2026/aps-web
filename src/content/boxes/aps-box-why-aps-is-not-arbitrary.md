@@ -6,16 +6,10 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-12
-revised: 2026-06-12
+revised: 2026-08-19
 cluster: philosophy-of-biology
 ---
 
-The Agency–Process–Scale (APS) framework does not begin by selecting a preferred set of biological concepts. Instead, it asks what explanatory dimensions must be present if living systems are to be understood as viability-oriented forms of organised persistence.
+APS's Explanatory Grammar is not proposed as an arbitrary classificatory scheme. Its categories arise from the particular explanatory problem APS addresses: how living organisation maintains and re-establishes the conditions of its persistence through change.
 
-Agency, process, and scale are not introduced as convenient categories. They emerge from the explanatory requirements of biological organisation itself. Agency identifies the viability-oriented activity through which living systems sustain the conditions of their own persistence. Process explains how that activity unfolds through continual transformation. Scale explains how it is organised across interconnected biological contexts and timescales.
-
-These dimensions are distinct but mutually dependent. Without agency, there is no explanation of why biological activity is organised relative to viability. Without process, continuity through change becomes unintelligible. Without scale, the distributed organisation through which persistence is maintained across biological systems remains unexplained.
-
-For this reason, APS does not claim that agency, process, and scale are the only useful concepts in biology. It claims that any adequate account of living systems must address these explanatory dimensions, whether explicitly or under different terminology.
-
-Key Point: APS is not an arbitrary framework imposed upon biology. It makes explicit the explanatory conditions required for understanding how living systems maintain organised persistence across process and scale.
+Agency, Process, and Scale identify analytically distinguishable aspects of that problem, while organised persistence provides their common explanatory focus. Their relevance must nevertheless be established by how effectively this architecture explains living organisation. Coherence within APS alone does not demonstrate either biological truth or comparative explanatory superiority.
