@@ -514,6 +514,12 @@ Cognition → Mind → Selfhood → Reflective Agency → Meaning**
 Each arrow represents a Dependency Hypothesis requiring independent
 specification and assessment.
 
+For readability, the sections below sometimes state these proposed relations
+directly—for example, that one form of organisation enables, generates, or
+depends upon another. Such formulations state APS Dependency Hypotheses; they
+do not indicate that the relationship has been established by its place in
+the architecture.
+
 The remainder of this section explains the proposed relationships in turn.
 
 ## Biological Evaluation

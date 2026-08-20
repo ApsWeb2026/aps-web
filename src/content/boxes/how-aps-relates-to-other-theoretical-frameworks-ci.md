@@ -6,8 +6,8 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-02
 date: 2026-05-02
-revised: 2026-05-03
-cluster:  methodology-and-explanation
+revised: 2026-08-20
+cluster: methodology-and-explanation
 relatedGlossaryTerms:
   - viability
   - viability-orientation
@@ -20,24 +20,47 @@ relatedArticles:
   - what-is-aps
 ---
 
-Contemporary frameworks such as control theory and nonlinear dynamical systems theory provide powerful and indispensable accounts of living systems. They explain how systems regulate their behaviour, maintain stability, and exhibit complex dynamics across time.
+Contemporary theoretical frameworks can provide powerful explanations of
+living systems while addressing different questions. Control-theoretic
+approaches may investigate regulation, dynamical approaches may characterise
+patterns of change and stability, and other frameworks may emphasise
+mechanism, evolution, information, autonomy, cognition, or organisation.
 
-APS does not replace these approaches, nor does it reduce them to a single underlying model. Instead, it addresses a different question: what kind of organisation makes a system a *living system* in the first place.
+APS does not assume that these approaches are incomplete, reducible to APS,
+or necessarily complementary to it. Instead, APS makes living organisation
+itself an explicit explanatory target and asks how living systems maintain
+organised persistence despite continual change.
 
-Multiple theoretical frameworks can therefore apply to the same system, but they do so in different ways and address different explanatory questions. A dynamical systems description may characterise the system’s trajectories, and a control-theoretic model may describe its regulatory structure. These accounts are often non-reducible to one another, and each can be independently valid.
+Its proposed answer is viability-oriented, constraint-closed organisation.
+Within this account, living systems actively maintain and re-establish
+conditions required for their persistence. Agency, Process, and Scale are
+complementary analytic projections through which APS investigates that
+organisation.
 
-However, such accounts do not by themselves distinguish living systems from non-living systems. Many non-living systems also exhibit regulation, feedback, and complex dynamics.
+This creates points of comparison with other theoretical frameworks, but
+difference alone does not establish explanatory gain. Where another framework
+and APS address the same explanatory target, their relationship must be
+assessed through target-matched comparison. Depending upon the question,
+their contributions may prove complementary, overlapping, independent,
+competing, or differently useful.
 
-APS contributes by specifying the organisational conditions under which a system must actively maintain its own viability. A system is viability-oriented
- when its processes are organised such that their effects contribute, directly or indirectly, to maintaining the conditions required for the system’s continued existence.
+APS therefore does not claim universal explanatory authority over biological
+inquiry. Mechanistic, evolutionary, dynamical, control-theoretic, mathematical,
+informational, and other approaches may provide sufficient and preferable
+explanations of particular biological phenomena without being reconstructed
+through APS.
 
-Importantly, in APS, *viability is not defined by reference to life itself*. It is specified in terms of the persistence of an organised system within a bounded region of possible states. A living system is therefore not defined in a circular sense as “that which maintains viability”, but as a system whose organisation is structured around maintaining these conditions.
+APS's stronger claim concerns living organisation itself. It proposes
+viability-oriented, constraint-closed organisation and organised persistence
+as a general explanatory account of what is characteristic of living systems.
+Whether this provides a preferred account of that target cannot be inferred
+from APS's breadth, coherence, integration, or conceptual architecture. It
+depends upon demonstrated explanatory gain over the strongest relevant
+alternatives addressing the same question.
 
-In this sense, APS provides a way of identifying what makes a system a living system, rather than a general account of everything such a system does.
+**Key Point:**
 
-This does not mean that APS provides a complete or self-sufficient account of living systems. Describing how such systems behave, regulate, and evolve requires additional theoretical frameworks. APS specifies conditions that are necessary for identifying living systems, but it does not by itself exhaust the explanations required to understand them.
-
-A complete scientific understanding of living systems therefore requires multiple forms of explanation. Dynamical and control-theoretic accounts explain how systems behave and regulate. APS clarifies the conditions under which such systems count as living systems at all.
-
-**Key Point:**  
-Explaining regulation, dynamics, or behaviour is not the same as explaining what makes a system a living system. APS addresses this latter question by specifying the organisational conditions under which viability is maintained.
+Different biological questions may require different kinds of explanation.
+APS has particular relevance when living organisation itself is the
+explanatory target, but its relationship to other theoretical frameworks must
+be established through comparison rather than assumed in advance.
