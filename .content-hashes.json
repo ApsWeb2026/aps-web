@@ -5,8 +5,8 @@
     "lockedSince": "2026-05-22"
   },
   "glossary/biological-agency": {
-    "hash": "bc248f42a683209a",
-    "revised": "2026-06-15",
+    "hash": "a409c87139eb16f3",
+    "revised": "2026-08-20",
     "lockedSince": "2026-05-29"
   },
   "glossary/function": {
@@ -15,13 +15,13 @@
     "lockedSince": "2026-05-16"
   },
   "glossary/process": {
-    "hash": "3ddcdbc1ca552ced",
-    "revised": "2026-07-28",
+    "hash": "5a0b7f7f51afe73f",
+    "revised": "2026-08-20",
     "lockedSince": "2026-05-22"
   },
   "glossary/scale": {
-    "hash": "d328eb63882082f0",
-    "revised": "2026-07-28",
+    "hash": "0361e0bf637c69f1",
+    "revised": "2026-08-20",
     "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
@@ -1370,8 +1370,8 @@
     "lockedSince": "2026-05-17"
   },
   "orientation/the-core-structure-of-aps-how-the-framework-fits-together": {
-    "hash": "7eaadf94dc0ab967",
-    "revised": "2026-07-15",
+    "hash": "89fa1528344c23af",
+    "revised": "2026-08-20",
     "lockedSince": "2026-07-10"
   },
   "orientation/understanding-aps-the-structure-of-the-framework": {

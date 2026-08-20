@@ -6,21 +6,15 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-20
 cluster: conceptual-foundations
 
 definition: >
-  Biological agency is the viability-oriented activity through which living
-  systems maintain the conditions of their own persistence. Through agency,
-  organisms regulate, repair, adapt, and reorganise themselves in ways that
-  preserve viability and support organised persistence. In APS, agency does
-  not require intention, consciousness, intelligence, or mental
-  representation. It refers to the ongoing activity of self-maintenance by
-  which living systems contribute to their own continued existence.
+  Biological agency is viability-oriented organisational activity.
 
 inBrief: >
-  Biological agency is viability-oriented self-maintaining activity, not
-  intention, consciousness, or intelligence.
+  Biological agency is the viability-oriented organisational activity through
+  which living organisation is enacted and sustained.
 
 seeAlso:
   - viability-orientation
@@ -28,6 +22,7 @@ seeAlso:
   - persistence
   - organism
   - process
+  - scale
   - normativity
   - function
   - evaluation
@@ -38,54 +33,96 @@ seeAlso:
 
 Agency is often associated with intention, choice, consciousness, planning, or intelligent decision-making.
 
-In ordinary language, agents are usually understood as beings that deliberate, decide, and act for reasons.
+In ordinary language, agents are usually understood as beings that deliberate, decide, and act for reasons. Applied without qualification to biology, this can make agency appear to require capacities such as intention, representation, cognition, or conscious awareness.
 
-This creates difficulty in biology because many living systems clearly act in organised, viability-oriented ways without possessing minds, intentions, reflective awareness, or symbolic thought.
+APS uses **biological agency** in a more minimal and explicitly non-mentalistic sense.
 
 ## The APS perspective
 
-APS uses biological agency in a non-mentalistic sense.
+**Biological agency is viability-oriented organisational activity.**
 
-Biological agency refers to the organised activity of self-maintenance through which living systems maintain themselves across time.
+Agency is the present-tense activity through which viability-oriented living organisation is enacted and sustained. Living systems regulate, repair, reorganise, acquire resources, respond to perturbation, modify relations with their environments, and otherwise contribute actively to maintaining and re-establishing the conditions of their own viability.
 
-A living system acts as an agent when its processes contribute to regulating, repairing, adapting, or reorganising the conditions required for continued viability. Agency therefore does not describe a special property added to living systems. It describes the ongoing activity through which living systems participate in preserving the conditions of their own continued existence.
+These activities are expressions of biological agency rather than its definition. Regulation, adaptation, repair, behaviour, and self-maintenance are therefore ways in which agency may be realised, not interchangeable definitions of agency itself.
 
-This includes cellular regulation, immune response, development, repair, behaviour, ecological interaction, and adaptive reorganisation.
+Biological agency does not require intention, consciousness, intelligence, symbolic representation, deliberation, or reflective choice.
 
-Agency in this sense is not added to life by cognition or consciousness.
-
-It is one of the fundamental activities through which life persists.
+Agency is consequently not a specialised capacity added to living organisation after life has already been established. Within APS, living organisation is enacted through agency: agency is what living systems do as they continually maintain and re-establish the conditions of their own persistence.
 
 ## Agency and organised persistence
 
-Biological agency is inseparable from organised persistence.
+Biological agency is closely related to organised persistence, but the two concepts should not be conflated.
 
-Living systems do not merely undergo physical change. They actively maintain the conditions under which their organisation can continue. Because viability is continuously threatened by internal disruption and changing environmental conditions, persistence can only be achieved through ongoing self-maintaining activity.
+**Organised persistence** identifies the continuity of living organisation despite continual material, physiological, developmental, and environmental change.
 
-Agency therefore names the organised activity of self-maintenance through which living systems preserve viability and achieve organised persistence.
+**Agency** identifies the viability-oriented organisational activity through which that continuity is actively maintained and re-established.
+
+Living systems do not persist merely because material processes continue to occur. They persist through organised activity that contributes to maintaining the conditions under which their viability can continue.
+
+Agency therefore explains the active dimension of organised persistence.
+
+## Agency within the APS Explanatory Grammar
+
+Within the APS Explanatory Grammar, Agency is the analytic projection concerned with **what living systems do**.
+
+Agency is one of three complementary analytic projections:
+
+- **Agency** concerns what living systems do;
+- **Process** concerns how continuity is maintained despite change;
+- **Scale** concerns where persistence is organised across spatial and temporal extents.
+
+Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. They are not independent components, causes, entities, domains, or hierarchical levels of biological reality.
+
+Calling Agency an analytic projection does not mean that biological agency is merely an analytical construction. The distinction is introduced for purposes of investigation and explanation, but the viability-oriented organisational activity it identifies is biologically real.
+
+The distinction is analytic; the organisation and activity it discloses are biologically real.
 
 ## What biological agency is not
 
-In APS, biological agency is not:
+In APS, biological agency is not equivalent to:
 
 - conscious intention;
 - intelligent planning;
 - psychological choice;
 - symbolic representation;
-- external design.
+- cognition;
+- externally imposed purpose;
+- goal pursuit in a mental or deliberative sense.
 
-These capacities may arise in some organisms, but they are not required for biological agency.
+Some organisms may exhibit these additional capacities, but none is required for biological agency.
 
-Agency begins wherever organised activity contributes to maintaining viability and preserving the conditions required for continued persistence.
+Likewise, agency should not be identified with any single expression of viability-oriented activity. Homeostatic regulation, adaptive reorganisation, repair, behaviour, development, and environmental modification may all express agency without individually defining it.
+
+## Agency and cognition
+
+APS distinguishes biological agency from cognition.
+
+Life does not require cognition; cognition presupposes life.
+
+Biological systems can exhibit viability-oriented organisational activity without possessing the integrated temporal and counterfactual organisation required for cognition. Cognition is therefore a more specialised organisational capacity arising within already agential living systems rather than a condition for biological agency itself.
+
+Agency must consequently not be inferred from intelligence-like behaviour, nor should cognition be attributed merely because a system regulates or adapts.
+
+## Agency across scale
+
+Agency is materially realised across spatial and temporal extents.
+
+The relevant question is not whether agency resides at a privileged biological level, but where the viability-oriented organisation constituting the relevant agent is materially organised.
+
+Cellular, physiological, organismal, developmental, ecological, or collective processes may contribute to agential organisation, but agency should not be attributed indiscriminately to every larger system in which living agents participate.
+
+Claims of agency require identification of the organisation whose viability is at issue and the materially implemented activity through which that organisation maintains or re-establishes the conditions of its persistence.
 
 ## Why biological agency matters
 
-Biological agency is central to APS because it explains why living systems cannot be understood as passive mechanisms or static structures.
+Biological agency is central to APS because it identifies the active character of living organisation.
 
-Living systems are organised processes that continuously regulate, repair, adapt, and reorganise themselves in ways that preserve viability across time.
+APS does not treat living systems as passive structures that merely undergo causal events. Living organisation is continually enacted through activity that maintains, modifies, repairs, and re-establishes conditions relevant to viability.
 
-Agency therefore provides a unifying concept linking persistence, function, normativity, adaptation, cognition, diagnosis, and biological explanation. It identifies the ongoing activity through which organised persistence is achieved and maintained.
+Agency therefore provides an important explanatory connection among viability, function, normativity, adaptation, organised persistence, biological evaluation, and later organisational capacities such as cognition.
 
-For APS, biological agency is not an optional feature of life.
+Its role within APS does not make Agency a mandatory category for every biological explanation. Rather, it is a central analytic projection within APS's general account of living organisation.
 
-It is the activity through which life continues to exist.
+## Key Point
+
+**Biological agency is viability-oriented organisational activity. Within the APS Explanatory Grammar, Agency is the analytic projection concerned with what living systems do. It is not intention, cognition, or a separate component of living systems, but the activity through which viability-oriented organisation is enacted and sustained.**

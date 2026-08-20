@@ -3,22 +3,19 @@ date: 2026-04-08
 title: Scale
 slug: scale
 type: glossary
-definition: >
-  In APS, scale refers to the spatial and temporal extent over which
-  viability-oriented biological organisation is distributed, coordinated, and
-  sustained through dynamically coupled processes. Scale identifies the
-  spatiotemporal continuity through which organised persistence is maintained
-  across interacting domains of activity.
-
-inBrief: >
-  Scale is the spatiotemporal extent and coordination of viability-oriented
-  biological organisation across interacting processes.
-
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-07-28
+revised: 2026-08-20
 cluster: conceptual-foundations
+
+definition: >
+  In APS, Scale is the spatial and temporal extent across which persistence is
+  organised and materially coordinated.
+
+inBrief: >
+  Scale concerns where persistence is organised across spatial and temporal
+  extents.
 
 seeAlso:
   - process
@@ -49,319 +46,333 @@ relatedArticles:
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
   - biological-causation-from-mechanism-to-organised-persistence
   - reductionism-in-biology-an-aps-clarification
-
-references:
-  - id: bertalanffy1968
-    authors: "von Bertalanffy, L."
-    year: 1968
-    title: "General System Theory"
-    source: "George Braziller"
-
-  - id: simon1962
-    authors: "Simon, H. A."
-    year: 1962
-    title: "The Architecture of Complexity"
-    journal: "Proceedings of the American Philosophical Society"
-    volume: "106"
-    pages: "467–482"
-
-  - id: wimsatt2007
-    authors: "Wimsatt, W. C."
-    year: 2007
-    title: "Re-Engineering Philosophy for Limited Beings"
-    source: "Harvard University Press"
-
-  - id: nicholson2019
-    authors: "Nicholson, D. J., & Dupré, J."
-    year: 2019
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford University Press"
-
-  - id: noble2016
-    authors: "Noble, D."
-    year: 2016
-    title: "Dance to the Tune of Life: Biological Relativity"
-    source: "Cambridge University Press"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
 ---
 
 ## Conventional Framing
 
-Scale is often treated as a matter of:
-- size;
-- level;
-- spatial magnitude;
-- temporal duration;
-- or descriptive resolution.
+Scale is often treated as a matter of size, level, spatial magnitude, temporal
+duration, or descriptive resolution.
 
-Biological organisation is therefore commonly described through hierarchical “levels” such as:
-- genes;
-- cells;
-- tissues;
-- organisms;
-- populations;
-- ecosystems.
+Biological organisation is consequently often described through “levels” such
+as molecular, cellular, organismal, population, or ecological organisation.
+Such language can be useful for description and analysis. Problems arise when
+these distinctions are treated as discrete ontological strata, or when causal
+or explanatory priority is inferred simply from their relative position.
 
-Under this framing, causation is frequently interpreted as flowing upward or downward between levels, often with one scale treated as more fundamental than another.
+APS therefore distinguishes scale from hierarchy.
 
-APS rejects the idea that living systems are organised into discrete ontological tiers of causal authority.
+## The APS Perspective
 
-## The APS Reframing
+In APS, **Scale concerns where persistence is organised across spatial and
+temporal extents**.
 
-In APS, scale refers to the spatial and temporal extent over which viability-oriented biological organisation is distributed, coordinated, and sustained through dynamically coupled processes.
+Living organisation is materially realised through activities, processes,
+constraints, and relations extending across different spatial and temporal
+ranges. Some occur rapidly and locally; others extend across tissues,
+organisms, environments, lifetimes, or generations.
 
-Scale therefore does not merely concern physical size or descriptive granularity.
+Scale identifies these differences of extent without treating them as
+independent layers of biological reality.
 
-It concerns how organised persistence is distributed across interacting domains of activity unfolding across space and time.
+Scale therefore concerns more than physical size. It asks how the organisation
+relevant to persistence is materially distributed and coordinated across space
+and time.
 
-Living systems persist through organisational relations distributed simultaneously across:
-- molecular;
-- cellular;
-- physiological;
-- behavioural;
-- ecological;
-- developmental;
-- and evolutionary domains.
+## Scale and Organised Persistence
 
-These are not independent layers of reality.
+Scale is closely related to organised persistence.
 
-They are mutually constraining aspects of continuous biological organisation.
+**Organised persistence** concerns the continuity of living organisation despite
+change.
 
-> **Where this concept fits:** Scale is one of the three central organising dimensions of APS alongside agency and process. Together they form the explanatory grammar through which APS understands viability-oriented organised persistence. Scale therefore integrates persistence, adaptation, mechanism, cognition, development, and evolution within a unified organisational framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+**Scale** concerns the spatial and temporal extents across which that persistence
+is organised.
 
-APS consequently replaces rigid hierarchical level-thinking with scale-coupled organisational continuity.
+Living systems depend upon activities whose relevant extents differ greatly.
+Molecular interactions, cellular organisation, physiological regulation,
+organismal activity, development, environmental relations, and processes
+extending across generations can each contribute to biological continuity.
 
-[[box:scale-is-not-hierarchy]]
+APS uses Scale to investigate how such contributions are materially related
+where those relations matter to the persistence of the living organisation
+under investigation.
 
-## Scale and Viability
+This does not imply that every biological phenomenon must be explained across
+all scales, or that an explanation is inadequate merely because it is confined
+to a particular spatial or temporal extent.
 
-Scale is grounded in viability-oriented organisation.
+## Scale within the APS Explanatory Grammar
 
-Living systems persist only through activity coordinated across interacting spatial and temporal domains.
+Within the APS Explanatory Grammar, Scale is the analytic projection concerned
+with **where persistence is organised across spatial and temporal extents**.
 
-Rapid molecular dynamics, physiological regulation, behavioural flexibility, developmental transformation, ecological interaction, and evolutionary continuity all contribute to viable persistence across different scales simultaneously.
+It is one of three complementary analytic projections:
 
-Scale therefore concerns the distributed continuity through which viability-oriented organisation is sustained.
+- **Agency** concerns what living systems do;
+- **Process** concerns how continuity is maintained despite change;
+- **Scale** concerns where persistence is organised across spatial and temporal
+  extents.
 
-APS consequently distinguishes:
-- **viability**, which specifies the conditions under which organised persistence can succeed or fail;
-- from **scale**, which refers to the spatiotemporal distribution and coordination of the activity sustaining that persistence.
+Agency, Process, and Scale are complementary analytic projections of one
+viability-oriented, constraint-closed organisation. They are not independent
+components, causes, entities, domains, or hierarchical levels of biological
+reality.
 
-This distinction is foundational for the explanatory structure of APS.
+Calling Scale an analytic projection does not mean that spatial and temporal
+organisation is merely an analytical construction. The distinction is
+introduced for purposes of investigation and explanation, while the
+organisation distributed across those extents is biologically real.
+
+The distinction is analytic; the organisation and activity it discloses are
+biologically real.
 
 ## Scale Is Not Hierarchy
 
-APS distinguishes scale from hierarchy.
+APS does not equate differences of scale with differences of ontological or
+causal rank.
 
-Differences in scale do not imply:
+Differences in scale do not by themselves establish:
+
 - higher or lower ontological status;
-- privileged levels of causation;
+- privileged sites of causation;
 - layered control architectures;
-- or explanatory sovereignty.
+- intrinsic top-down or bottom-up causation;
+- or explanatory priority.
 
-Living systems exhibit differences in:
-- extent;
-- persistence;
-- integration;
-- temporal organisation;
-- and organisational coupling.
+Terms such as molecular, cellular, organismal, ecological, and evolutionary
+remain useful ways of identifying relevant biological extents and domains of
+investigation. APS does not require their abandonment.
 
-However, these differences do not divide biology into discrete ontological strata.
+What APS rejects is the inference that these distinctions necessarily
+constitute a hierarchy of biological reality.
 
-What appear as “levels” are explanatory abstractions imposed upon continuous organisational processes.
-
-APS therefore replaces hierarchical level-talk with scale-coupled organisation.
+Scale therefore provides a way of analysing spatial and temporal organisation
+without converting useful biological distinctions into an ontology of higher
+and lower levels.
 
 ## Scale and Resolution
 
-APS also distinguishes scale from resolution.
+APS distinguishes **scale** from **resolution**.
 
-Scale concerns the organisation of activity across spatial and temporal extent.
+Scale concerns the spatial and temporal extent across which biological
+organisation occurs.
 
-Resolution concerns the granularity at which such activity is:
-- described;
-- measured;
-- analysed;
-- or modelled.
+Resolution concerns the granularity at which that organisation is described,
+measured, analysed, or modelled.
 
-The same organised process may therefore be analysed at multiple resolutions without implying different ontological levels of reality.
+The same biological process can therefore be investigated at different
+resolutions without implying the existence of different ontological levels.
 
-This distinction separates:
-- biological organisation itself;
-- from the descriptive frameworks used to analyse it.
+Conversely, processes occurring across substantially different spatial or
+temporal extents may sometimes need to be related within the same explanation.
 
-APS consequently distinguishes explanatory perspective from biological ontology.
+This distinction separates properties of the organisation being investigated
+from properties of the methods and representations used to investigate it.
 
 ## Scale-Coupled Organisation
 
-Living systems are organised through reciprocal relations distributed across scale.
+Living organisation can involve materially implemented relations among
+processes operating across different spatial and temporal extents.
 
-Molecular dynamics influence cellular organisation.
+For example, molecular interactions can alter cellular conditions; cellular
+organisation can modify the conditions under which molecular interactions
+occur; organismal activity can alter local environmental conditions; and those
+conditions can in turn affect organismal activity.
 
-Physiological organisation shapes behaviour.
+APS describes such cases as **scale-coupled** where the relevant processes are
+materially connected through interactions and constraints.
 
-Behaviour reorganises ecological conditions.
+Scale-coupling should not be understood as causal influence travelling
+abstractly “up” or “down” between levels. Wider-scale organisation affects
+local activity only through materially implemented conditions, interactions,
+and constraints.
 
-Ecological and evolutionary processes reshape developmental trajectories across generations.
+Nor should scale-coupling be assumed merely because processes can be described
+at different scales. The relevant relation must be identified and supported in
+the particular biological case.
 
-These interactions are not externally coordinated from a privileged level.
+## Scale and Viability
 
-They emerge through networks of mutually constraining activity distributed across space and time.
+Viability and Scale answer different questions.
 
-APS therefore understands living systems as scale-coupled organisations rather than hierarchical assemblies.
+**Viability** concerns the conditions under which living organisation can
+continue or fail.
 
-Scale in APS is therefore inseparable from agency and process. Organised persistence exists only through ongoing activity coordinated across interacting temporal and spatial domains.
+**Scale** concerns the spatial and temporal extents across which the relevant
+organisation is materially realised.
 
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
+Where processes operating across different extents contribute to maintaining
+or re-establishing conditions of viability, Scale helps identify and relate
+those contributions.
 
-## Scale and Persistence
+This does not mean that every process occurring within or around a living
+system contributes to viability, nor that its relevance can be inferred merely
+from its position within an APS representation. The relevant dependency must be
+specified and, where required, independently assessed.
 
-Persistence depends upon coordination across scale.
+## Scale and Biological Agency
 
-Living systems maintain themselves not as fixed states, but through continuous reorganisation distributed across multiple temporal and spatial domains.
+Agency and Scale are analytically distinguishable but concern the same
+integrated living organisation.
 
-Rapid metabolic activity, developmental stability, behavioural flexibility, ecological interaction, and evolutionary transformation all contribute to organised persistence across interacting timescales.
+**Agency** concerns what living systems do.
 
-Persistence is therefore inherently scale-coupled.
+**Scale** concerns where the organisation through which that activity is
+realised extends across space and time.
 
-Living systems do not persist at a single scale.
+Biological agency may depend upon materially organised relations extending
+across different spatial and temporal ranges. This does not mean that Agency
+and Scale are separate systems that subsequently interact.
 
-They persist through coordinated organisation distributed across scales simultaneously.
+They are complementary ways of investigating the same viability-oriented
+organisation.
+
+## Scale and Process
+
+Process and Scale are similarly complementary.
+
+**Process** concerns how continuity is maintained despite change.
+
+**Scale** concerns where that continuity is organised across spatial and
+temporal extents.
+
+A process necessarily occurs somewhere and over some duration, but the
+analytical distinction remains useful. Process directs attention to dynamic
+organisation through change; Scale directs attention to the extent across
+which that organisation is realised and coordinated.
+
+Neither exists as an independent APS component.
 
 ## Scale and Mechanism
 
-Mechanisms are scale-coupled organisational processes.
+Mechanistic explanations may legitimately focus on processes and interactions
+within a bounded spatial or temporal range.
 
-Mechanistic activity does not occur within isolated layers detached from broader biological organisation.
+APS does not regard such explanations as incomplete merely because they do not
+integrate every relevant scale.
 
-A signalling pathway, physiological process, behavioural pattern, or ecological interaction may each participate in viability-oriented organisation distributed across multiple scales simultaneously.
+Where the explanatory question concerns organised persistence, however, it may
+be useful to ask whether the mechanism being investigated depends upon
+conditions or constraints organised across other spatial or temporal extents.
 
-What counts as a mechanism at one analytic resolution may itself depend upon organisational dynamics distributed across other scales.
+In such cases, Scale can help identify relations that a more locally bounded
+description does not address.
 
-Mechanisms are therefore not explanatorily self-sufficient.
+Whether this provides explanatory gain must be established in relation to the
+particular explanatory target. It cannot be inferred simply from the inclusion
+of additional scales.
 
-APS consequently situates mechanistic explanation within broader scale-coupled organisational persistence.
+## Scale, Development, Adaptation, and Evolution
 
-## Scale and Adaptation
+Development, adaptation, and evolution involve biological change over
+different spatial and temporal extents.
 
-Adaptation is distributed across scale.
+APS can use Scale to investigate how processes occurring over these extents
+relate to organised persistence. This does not make them expressions of a
+single scale-coupled process, nor does it require established developmental,
+adaptive, or evolutionary explanations to be reconstructed through APS.
 
-Living systems reorganise activity under changing conditions through interactions involving:
-- physiology;
-- behaviour;
-- development;
-- ecology;
-- and evolutionary transformation.
+Their relevance depends upon the explanatory question being addressed.
 
-Adaptive organisation therefore cannot be confined to isolated mechanisms or single explanatory levels.
-
-Adaptation emerges through coordinated reorganisation distributed across interacting scales of biological activity.
-
-APS consequently treats adaptation as inherently scale-coupled.
-
-## Scale and Cognition
-
-Cognition is also scale-coupled.
-
-Cognitive organisation may involve:
-- molecular signalling;
-- cellular coordination;
-- physiological regulation;
-- behavioural organisation;
-- environmental interaction;
-- social coordination;
-- and symbolic communication.
-
-These are not isolated cognitive layers but interacting organisational domains distributed across spatiotemporal scales.
-
-APS consequently treats cognition as organisationally distributed rather than confined exclusively to brains, nervous systems, or symbolic architectures alone.
-
-## Scale and Evolution
-
-Evolution transforms organised persistence across scale.
-
-Developmental organisation, ecological interaction, behavioural flexibility, physiological regulation, and inheritance all contribute to evolutionary continuity and transformation.
-
-Evolution therefore cannot be reduced to a single privileged scale such as genes or populations alone.
-
-Historical biological transformation emerges through continuously interacting scale-coupled processes distributed across generations.
-
-APS consequently approaches evolution as multiscale organisational transformation rather than isolated statistical change within detached levels.
+Scale therefore provides APS with a way of relating different extents of
+biological organisation where doing so contributes to explanation, while
+preserving the independence of specialist explanations where such integration
+is unnecessary.
 
 ## Scale and Explanatory Perspective
 
-APS distinguishes scale from explanatory domain.
+Scale should also be distinguished from explanatory perspective.
 
-A system may be analysed:
-- mechanistically;
-- physiologically;
-- cognitively;
-- developmentally;
-- evolutionarily;
-- ecologically;
-- or agentially.
+A biological phenomenon may be investigated mechanistically, physiologically,
+developmentally, evolutionarily, ecologically, mathematically, or through
+other explanatory approaches.
 
-These are differences in explanatory perspective rather than differences in ontological level.
+These differences do not correspond straightforwardly to spatial or temporal
+scales, nor do they constitute ontological levels.
 
-Multiple explanatory domains may therefore apply simultaneously to the same organised process without fragmenting biological organisation into separate strata.
+Different biological questions may legitimately require different explanatory
+approaches. APS therefore does not require every explanation to incorporate
+multiple scales or to be reformulated through Scale.
 
-APS consequently treats explanatory pluralism as compatible with organisational coherence.
+Within APS, Scale becomes especially relevant when the explanatory target
+requires understanding how living organisation or organised persistence is
+materially coordinated across spatial or temporal extent.
 
-## Scale and Processual Organisation
+## Scale and Explanatory Priority
 
-Scale is inseparable from processual organisation.
+No spatial or temporal scale possesses intrinsic explanatory priority within
+APS.
 
-Living systems are not static objects positioned at different levels of reality.
+This does not mean that every scale is equally relevant to every biological
+question. A particular inquiry may properly privilege molecular, cellular,
+organismal, ecological, developmental, evolutionary, or other processes
+because of the phenomenon being explained and the evidence available.
 
-They are dynamically organised persistence processes distributed across interacting spatial and temporal domains.
+Explanatory priority is therefore question-relative rather than determined by
+a universal hierarchy of biological scales.
 
-Scale therefore concerns how organised activity extends, couples, stabilises, and reorganises itself across time and space.
-
-APS consequently approaches scale processually rather than hierarchically.
+APS contributes where relating organisation across different extents improves
+the explanation of the target under investigation. Greater scale inclusion by
+itself does not constitute greater explanatory adequacy.
 
 ## Summary
 
-In APS, scale refers to the spatial and temporal extent over which viability-oriented biological organisation is distributed, coordinated, and sustained through dynamically coupled processes.
+In APS, Scale concerns **where persistence is organised across spatial and
+temporal extents**.
 
 Scale is:
-- organisational rather than merely geometric;
-- processual rather than hierarchical;
-- scale-coupled rather than discretely layered;
-- viability-oriented rather than descriptively neutral;
-- and inseparable from persistence, adaptation, mechanism, cognition, and evolution.
 
-Living systems therefore persist through scale-coupled networks of mutually constraining activity distributed continuously across space and time.
+- spatial and temporal rather than merely geometric;
+- organisational rather than hierarchical;
+- distinct from descriptive resolution;
+- compatible with useful biological level terminology without treating levels
+  as ontological strata;
+- concerned with materially implemented relations rather than abstract
+  top-down or bottom-up causal propagation;
+- analytically distinguishable from Agency and Process without existing
+  independently of them.
+
+Within the APS Explanatory Grammar, Scale is one of three complementary
+analytic projections of one viability-oriented, constraint-closed
+organisation.
+
+Scale does not require every biological explanation to incorporate multiple
+spatial or temporal extents. Its explanatory relevance depends upon what is
+being explained and whether relations across scale contribute to explaining
+that target.
+
+## Key Point
+
+**Scale concerns where persistence is organised across spatial and temporal
+extents. Within the APS Explanatory Grammar, it is an analytic projection of
+one integrated living organisation, not a hierarchy of biological levels or
+an independently existing dimension of reality.**
 
 ## Related APS Articles
 
 ### Orientation
 
-- *[What Is APS?](/orientation/what-is-aps/)*
-- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
-- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+- [What Is APS?](/orientation/what-is-aps/)
+- [Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)
+- [APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)
 
 ### Core Framework
 
-- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
-- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
-- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
+- [The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)
+- [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)
+- [APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)
 
 ### Scale, Persistence, and Evolution
 
-- *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
-- *[Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)*
+- [Scale, Time, and Persistence](/articles/scale-time-persistence/)
+- [Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)
 
 ### Mechanism and Organisation
 
-- *[Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/)*
-- *[Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)*
-- *[Emergence — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*
+- [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/)
+- [Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)
+- [Emergence — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)
 
 ### Clarification Articles
 
-- *[Why APS Is Not Hierarchical](/articles/why-aps-is-not-hierarchical/)*
+- [Why APS Is Not Hierarchical](/articles/why-aps-is-not-hierarchical/)
