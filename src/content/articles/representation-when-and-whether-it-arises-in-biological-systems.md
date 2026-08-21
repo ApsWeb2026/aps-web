@@ -1,12 +1,12 @@
 ---
 date: 2026-05-15
-title: "Representation — When and Whether It Arises in Biological Systems"
+title: "Representation â€” When and Whether It Arises in Biological Systems"
 slug: representation-when-and-whether-it-arises-in-biological-systems
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-06
+revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
@@ -113,7 +113,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Representation — When and Whether It Arises in Biological Systems
+# Representation â€” When and Whether It Arises in Biological Systems
 
 > **Where this article fits:** This article develops the APS account of representation as a possible later organisational development within certain forms of temporally organised cognition rather than as the foundation of biological meaning or agency. APS treats evaluation, semiosis, meaning, and information as more fundamental than representation because living systems regulate activity relative to viability before symbolic modelling or explicit representational structures arise.
 
@@ -146,7 +146,7 @@ APS therefore situates representation downstream from:
 - meaning;
 - and organised persistence.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 [[box:aps-box-semiosis-is-operational]]
 
@@ -296,17 +296,17 @@ Meaning does not emerge from representation.
 Instead APS proposes the following organisational sequence:
 
 viability  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation  
-↓  
+â†“  
 cognition
 
 Within this sequence:
@@ -349,7 +349,7 @@ Many biological systems exhibit sophisticated forms of cognition while remaining
 - dynamically coupled to environments;
 - and organised through ongoing activity itself.
 
-APS therefore treats representation as one possible organisational development within cognition rather than cognition’s universal foundation.
+APS therefore treats representation as one possible organisational development within cognition rather than cognitionâ€™s universal foundation.
 
 Cognition consequently concerns:
 > temporally organised continuity integration rather than representation alone.
@@ -454,7 +454,7 @@ Representations matter biologically only insofar as they contribute to viability
 
 Meaning therefore precedes representation organisationally.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 # Representation and Artificial Intelligence
 
@@ -503,7 +503,7 @@ Representational capacities may involve:
 These capacities remain embedded within:
 - continuity-preserving organisation;
 - temporally extended viability regulation;
-- organism–environment coupling;
+- organismâ€“environment coupling;
 - and multiscale biological activity.
 
 APS therefore rejects treating representation as detached symbolic processing independent of life itself.
@@ -609,14 +609,14 @@ These concepts and articles establish the explanatory foundations presupposed by
 - Semiosis
 - Meaning in Biology
 - Information in Biology
-- Cognition — Where Does It Belong in Biology?
-- Persistence — Organised Continuity Through Time
+- Cognition â€” Where Does It Belong in Biology?
+- Persistence â€” Organised Continuity Through Time
 
 ### Subsequent Explanatory Developments
 
 The explanatory architecture established here is developed, extended, or applied in the following articles.
 
-- Consciousness — An APS Clarification
+- Consciousness â€” An APS Clarification
 - Mind
 - Selfhood
 - Reflective Agency

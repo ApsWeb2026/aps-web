@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
@@ -75,11 +75,11 @@ references:
     title: "A Mathematical Theory of Communication"
     journal: "Bell System Technical Journal"
     volume: "27"
-    pages: "379–423, 623–656"
+    pages: "379â€“423, 623â€“656"
     doi: "10.1002/j.1538-7305.1948.tb01338.x"
 
   - id: schrodinger1944
-    authors: "Schrödinger, E."
+    authors: "SchrÃ¶dinger, E."
     year: 1944
     title: "What Is Life?"
     publisher: "Cambridge University Press"
@@ -96,7 +96,7 @@ references:
     title: "The Concept of Information in Biology"
     journal: "Philosophy of Science"
     volume: "67"
-    pages: "177–194"
+    pages: "177â€“194"
     doi: "10.1086/392768"
 
   - id: deacon2011
@@ -217,17 +217,17 @@ Within APS, the organisational sequence is approximately:
 
 ```text
 viability
-↓
+â†“
 evaluation
-↓
+â†“
 semiosis
-↓
+â†“
 meaning
-↓
+â†“
 informational coordination
-↓
+â†“
 representation
-↓
+â†“
 cognition
 
 Living systems do not exist because they process information.
@@ -314,7 +314,7 @@ Information therefore does not generate biological organisation independently.
 
 Continuity-preserving biological organisation makes information operationally possible and biologically meaningful.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram"> <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-endogenous-normativity.png" alt="Endogenous normativity and informational meaning" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Evaluation Before Information.</strong> Informational significance emerges only within viability-oriented systems already capable of endogenous evaluation and continuity-preserving organisation. </p> </div>
 Evaluation, Semiosis, and Meaning

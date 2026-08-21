@@ -1,12 +1,12 @@
 ---
 date: 2026-05-15
-title: "Meaning in Biology — An APS Clarification"
+title: "Meaning in Biology â€” An APS Clarification"
 slug: meaning-in-biology-an-aps-clarification
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-06
+revised: 2026-08-21
 cluster: philosophy-of-biology
 role: clarification
 
@@ -63,7 +63,7 @@ references:
     publisher: "Harvard University Press"
 
   - id: uexkull2010
-    authors: "von Uexküll, J."
+    authors: "von UexkÃ¼ll, J."
     year: 2010
     title: "A Foray into the Worlds of Animals and Humans"
     publisher: "University of Minnesota Press"
@@ -106,7 +106,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-> **Where this article fits:** This article clarifies the APS account of biological meaning. It explains why meaning should not be reduced to information, representation, symbolic semantics, or computational processing, and situates meaning within viability-oriented evaluation, semiosis, and organised persistence. Readers seeking the broader APS account of meaning as a concept within the Cognition–Mind architecture should begin with What Is Meaning?, which develops meaning as the interpretive organisation of significance and examines its relationship to cognition, mind, selfhood, reflective agency, values, purpose, and existential understanding. The two articles are complementary. What Is Meaning? explains what meaning is and why it occupies a distinct place within APS. Meaning in Biology — An APS Clarification explains the biological conditions under which meaning first becomes possible. Its focus is not the highest forms of reflective or existential meaning, but the emergence of meaning within living systems themselves.
+> **Where this article fits:** This article clarifies the APS account of biological meaning. It explains why meaning should not be reduced to information, representation, symbolic semantics, or computational processing, and situates meaning within viability-oriented evaluation, semiosis, and organised persistence. Readers seeking the broader APS account of meaning as a concept within the Cognitionâ€“Mind architecture should begin with What Is Meaning?, which develops meaning as the interpretive organisation of significance and examines its relationship to cognition, mind, selfhood, reflective agency, values, purpose, and existential understanding. The two articles are complementary. What Is Meaning? explains what meaning is and why it occupies a distinct place within APS. Meaning in Biology â€” An APS Clarification explains the biological conditions under which meaning first becomes possible. Its focus is not the highest forms of reflective or existential meaning, but the emergence of meaning within living systems themselves.
 
 ## Introduction
 Meaning is often associated with language, symbols, concepts, representation, and semantic interpretation. Within many informational, computational, and representational frameworks, meaning is explained primarily through symbolic reference, semantic content, informational encoding, internal representation, or interpretive cognition.
@@ -123,7 +123,7 @@ Meaning emerges when those biologically significant differences become stabilise
 
 This does not imply that bacteria, plants, or simple organisms possess reflective, conceptual, or existential forms of meaning. Those richer forms emerge later through cognition, mind, selfhood, and reflective agency. The concern of this article is more fundamental: the biological origins of meaning itself.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 [[box:aps-box-semiosis-is-operational]]
 
@@ -183,13 +183,13 @@ Information becomes biologically meaningful only because meaningful evaluative o
 APS consequently proposes:
 
 viability
-↓
+â†“
 evaluation
-↓
+â†“
 semiosis
-↓
+â†“
 meaning
-↓
+â†“
 information
 
 Information therefore depends upon already meaningful difference organised within continuity-preserving activity. APS extends this discussion through its comparative methodology. Contemporary information-theoretic frameworks, including the Free Energy Principle, provide important accounts of how biological systems process and regulate information. APS does not reject these approaches. Instead, it asks how information acquires biological significance in the first place. This comparison is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where information is interpreted as one explanatory dimension within the broader organisation of viability-oriented persistence.
@@ -290,27 +290,27 @@ Instead, biological meaning emerges through:
 - adaptive organisation;
 - temporally organised persistence;
 - continuity-sensitive regulation;
-- organism–environment coupling;
+- organismâ€“environment coupling;
 - biological agency.
 
 The explanatory sequence developed throughout this article therefore remains:
 
 viability
-↓
+â†“
 function
-↓
+â†“
 normativity
-↓
+â†“
 evaluation
-↓
+â†“
 semiosis
-↓
+â†“
 meaning
-↓
+â†“
 information
-↓
+â†“
 representation
-↓
+â†“
 cognition
 
 This sequence describes the biological conditions under which meaning first emerges and becomes increasingly sophisticated within living systems. It should not be interpreted as a complete account of meaning itself. Rather, it identifies the organisational foundations from which later forms of meaning develop.
@@ -401,7 +401,7 @@ The central claim of this article is therefore not that biological meaning exhau
 
 This article explains the biological conditions under which meaning first becomes possible. It examines how meaningful difference arises through evaluation, semiosis, and organised persistence, and why meaning cannot be reduced to information processing, representation, or symbolic interpretation alone.
 
-The broader interpretive role of meaning within cognition, mind, selfhood, reflective agency, values, purpose, identity, and existential understanding is developed in What Is Meaning? Together, the two articles describe both the biological origins of meaning and its subsequent development within the Cognition–Mind architecture.
+The broader interpretive role of meaning within cognition, mind, selfhood, reflective agency, values, purpose, identity, and existential understanding is developed in What Is Meaning? Together, the two articles describe both the biological origins of meaning and its subsequent development within the Cognitionâ€“Mind architecture.
 
 Meaning therefore belongs intrinsically within the organisation of life itself, while also providing the foundation for the richer interpretive forms of meaning that emerge through increasingly sophisticated forms of biological and cognitive organisation.
 
@@ -434,9 +434,9 @@ These concepts and articles establish the explanatory foundations presupposed by
 
 The explanatory architecture established here is developed, extended, or applied in the following articles.
 
-- Information in Biology — An APS Clarification
-- Representation — When and Whether It Arises in Biological Systems
-- Cognition — Where Does It Belong in Biology?
+- Information in Biology â€” An APS Clarification
+- Representation â€” When and Whether It Arises in Biological Systems
+- Cognition â€” Where Does It Belong in Biology?
 - Mind
 - Selfhood
 - Reflective Agency

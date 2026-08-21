@@ -1,12 +1,12 @@
 ---
 date: 2026-05-28
-title: "Why Life Is Not a Machine — An APS Clarification"
+title: "Why Life Is Not a Machine â€” An APS Clarification"
 slug: why-life-is-not-a-machine
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-07-28
+revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
@@ -109,10 +109,10 @@ references:
   - id: nicholson-2013
     authors: "Nicholson, D. J."
     year: 2013
-    title: "Organisms ≠ Machines"
+    title: "Organisms â‰  Machines"
     journal: "Studies in History and Philosophy of Biological and Biomedical Sciences"
     volume: "44(4)"
-    pages: "669–678"
+    pages: "669â€“678"
     doi: "10.1016/j.shpsc.2013.05.014"
 
   - id: spencer-2026
@@ -298,7 +298,7 @@ APS consequently treats meaning as operational and organisational rather than me
 
 [[box:aps-box-semiosis-is-operational]]
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">

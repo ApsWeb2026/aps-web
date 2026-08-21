@@ -235,8 +235,8 @@
     "lockedSince": "2026-05-30"
   },
   "articles/aps-and-systems-theory": {
-    "hash": "2de6dea21a8b2e1b",
-    "revised": "2026-08-20",
+    "hash": "9cbad4ad84860541",
+    "revised": "2026-08-21",
     "lockedSince": "2026-04-11"
   },
   "articles/aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic": {
@@ -245,13 +245,13 @@
     "lockedSince": "2026-05-15"
   },
   "articles/aps-and-the-extended-evolutionary-synthesis": {
-    "hash": "cc417c559d16a4a4",
-    "revised": "2026-06-22",
+    "hash": "c863ddbbebfbcfa8",
+    "revised": "2026-08-21",
     "lockedSince": "2026-04-11"
   },
   "articles/aps-and-the-free-energy-principle": {
-    "hash": "5bd091402d261cdc",
-    "revised": "2026-08-10",
+    "hash": "8a182da58b842370",
+    "revised": "2026-08-21",
     "lockedSince": "2026-08-04"
   },
   "articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system": {
@@ -530,8 +530,8 @@
     "lockedSince": "2026-05-26"
   },
   "articles/evaluation-how-living-systems-modulate-activity-relative-to-viability": {
-    "hash": "de3c71174690bd9a",
-    "revised": "2026-06-15",
+    "hash": "616d735f3f503285",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/explanatory-grammars-and-the-history-of-ideas": {
@@ -560,8 +560,8 @@
     "lockedSince": "2026-06-04"
   },
   "articles/function-and-normativity-why-biological-organisation-matters": {
-    "hash": "c46f322684d3627a",
-    "revised": "2026-07-24",
+    "hash": "d90497e12e4353a9",
+    "revised": "2026-08-21",
     "lockedSince": "2026-07-24"
   },
   "articles/function-how-living-systems-make-persistence-operational": {
@@ -585,8 +585,8 @@
     "lockedSince": "2026-05-15"
   },
   "articles/information-in-biology-an-aps-clarification": {
-    "hash": "5a1ebaf6f148295b",
-    "revised": "2026-08-06",
+    "hash": "7ff13474fecdacd9",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/inheritance-and-continuity-in-aps": {
@@ -620,8 +620,8 @@
     "lockedSince": "2026-05-07"
   },
   "articles/meaning-in-biology-an-aps-clarification": {
-    "hash": "3a1e56534cce1c2c",
-    "revised": "2026-08-06",
+    "hash": "f83c8c89fbaf192f",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/morphogenesis": {
@@ -725,8 +725,8 @@
     "lockedSince": "2026-05-26"
   },
   "articles/representation-when-and-whether-it-arises-in-biological-systems": {
-    "hash": "bcbd6f8ad8ca19e1",
-    "revised": "2026-08-06",
+    "hash": "8ceb6929f67e3b5d",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/resilience-ecology-and-continuity": {
@@ -745,8 +745,8 @@
     "lockedSince": "2026-04-11"
   },
   "articles/semiosis-how-differences-come-to-matter-in-living-systems": {
-    "hash": "edea9b719198509d",
-    "revised": "2026-08-06",
+    "hash": "64d95fa17dabbc1b",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/social-organisation": {
@@ -870,8 +870,8 @@
     "lockedSince": "2026-04-11"
   },
   "articles/why-ai-is-not-biological-agency": {
-    "hash": "b04951bebc2c9f79",
-    "revised": "2026-06-15",
+    "hash": "14fa3d947225119c",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/why-aps-is-not-hierarchical": {
@@ -890,8 +890,8 @@
     "lockedSince": "2026-05-28"
   },
   "articles/why-aps-reframes-biology": {
-    "hash": "c867ccb52d1688a6",
-    "revised": "2026-08-20",
+    "hash": "ca2977d1835d3474",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-12"
   },
   "articles/why-cognition-cannot-be-separated-from-organised-persistence": {
@@ -900,13 +900,13 @@
     "lockedSince": "2026-05-17"
   },
   "articles/why-life-is-not-a-machine": {
-    "hash": "e7d3345b1c7d3e57",
-    "revised": "2026-07-28",
+    "hash": "ab3ecda650c151dc",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/why-life-is-not-active-inference": {
-    "hash": "14f3065d3bcaf8fc",
-    "revised": "2026-06-15",
+    "hash": "0ae2db22a55d93f7",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/why-life-is-not-computation-an-aps-clarification": {
@@ -920,13 +920,13 @@
     "lockedSince": "2026-05-15"
   },
   "articles/why-life-is-not-information-processing": {
-    "hash": "8f0c3b9d9129dd34",
-    "revised": "2026-06-15",
+    "hash": "6fe788249319362b",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/why-life-is-not-intelligence-an-aps-clarification": {
-    "hash": "46ce94e3abf5905c",
-    "revised": "2026-06-15",
+    "hash": "4a0c0411a68ac520",
+    "revised": "2026-08-21",
     "lockedSince": "2026-05-29"
   },
   "articles/why-organisms-cannot-be-understood-apart-from-their-environments": {
@@ -1385,8 +1385,8 @@
     "lockedSince": "2026-04-27"
   },
   "articles/aps-and-autonomy-theory": {
-    "hash": "855f9685430129d3",
-    "revised": "2026-06-17",
+    "hash": "e1e69f3646f529aa",
+    "revised": "2026-08-21",
     "lockedSince": "2026-04-27"
   },
   "articles/why-life-is-not-autopoiesis": {

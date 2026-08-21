@@ -6,8 +6,8 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-08
 date: 2026-05-08
-revised: 2026-05-08
-cluster:  methodology-and-explanation
+revised: 2026-08-21
+cluster: methodology-and-explanation
 seeAlso:
   - reductionism
   - emergence
@@ -18,18 +18,23 @@ seeAlso:
   - viability-orientation
 ---
 
-Biology repeatedly asks what is “really” fundamental: genes, organisms, ecosystems, information, or selection. APS argues that these disputes often confuse explanatory priority with ontological priority.
+Biology repeatedly asks what is “really” fundamental: genes, organisms, ecosystems, information, or selection. APS argues that these disputes can confuse explanatory priority with ontological priority.
 
-What becomes central in an explanation depends on the question being asked, the available methods, and the explanatory grammar being used. Genes may become explanatorily dominant in population genetics because gene frequencies are mathematically tractable. Organisms may become central in physiology because regulation is integrated at the organismal scale. Ecological relations may dominate in systems ecology because persistence depends on distributed interaction.
+What becomes central in an explanation depends on the question being asked, the available methods, and the explanatory framework being used. Genes may become explanatorily central in population genetics, organisms in physiology, and ecological relations in explanations of distributed biological interaction.
 
 But explanatory usefulness does not establish metaphysical primacy.
 
-APS therefore does not choose a privileged level of explanation. Genes, cells, organisms, populations, and ecosystems are not rivals competing for ontological supremacy. They are analytically distinct but organisationally interdependent expressions of viability-oriented, constraint-closed activity enacted across scale and time.
+APS therefore does not infer a privileged ontological level from explanatory success. Genes, cells, organisms, populations, ecosystems, processes, and relations may become explanatorily important for different biological questions without one thereby becoming the universal foundation of biological explanation.
 
-Scientific emphasis shifts as measurement technologies improve, mathematical tools mature, and new conceptual problems arise. What appears “fundamental” often reflects what can be modelled most effectively at a given historical moment. APS treats these shifts as changes in explanatory framing rather than changes in the ontology of life itself.
+Scientific emphasis also changes as measurement technologies improve, mathematical tools develop, and new conceptual problems arise. What is treated as fundamental within an explanatory programme may therefore reflect the explanandum, available evidence, methods, and theoretical architecture rather than an independently established hierarchy in biological reality.
 
 The framework therefore distinguishes:
-- explanatory priority — what becomes central within a particular model or explanatory task;
-- ontological priority — the organisational conditions that must exist for any biological explanation to apply at all.
 
-APS locates this ontological condition not in a privileged component or level, but in the ongoing viability-oriented organisation of living systems.
+- **explanatory priority** — what becomes central for a particular explanatory question or task;
+- **ontological priority** — a claim that something is more fundamental in what exists or in the constitution of biological reality.
+
+The first does not establish the second.
+
+APS itself proposes that **life is viability-oriented, constraint-closed organisation** and makes living organisation an explicit explanatory target. This substantive commitment does not mean that APS's explanatory architecture establishes the ontological priority of its concepts, nor that other biological explanations must be reconstructed through APS.
+
+Where APS and another framework address the same explanatory target, differences in explanatory priority, terminology, scope, or architecture do not by themselves establish comparative explanatory superiority.

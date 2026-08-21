@@ -1,16 +1,16 @@
 ---
 date: 2026-05-15
-title: "Evaluation — How Living Systems Modulate Activity Relative to Viability"
+title: "Evaluation â€” How Living Systems Modulate Activity Relative to Viability"
 slug: evaluation-how-living-systems-modulate-activity-relative-to-viability
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
-  This article clarifies evaluation within the Agency–Process–Scale (APS)
+  This article clarifies evaluation within the Agencyâ€“Processâ€“Scale (APS)
   framework. Evaluation is understood as the differential modulation of activity
   relative to conditions of viability. Living systems do not merely undergo
   physical processes; they regulate activity in relation to conditions that
@@ -83,7 +83,7 @@ references:
     title: "Top-Down Models in Biology: Explanation Beyond Mechanism"
     journal: "Physics of Life Reviews"
     volume: "48"
-    pages: "1–25"
+    pages: "1â€“25"
 
   - id: lyon2018
     authors: "Lyon, P., et al."
@@ -91,7 +91,7 @@ references:
     title: "The Biogenic Approach to Cognition"
     journal: "Adaptive Behavior"
     volume: "26"
-    pages: "225–240"
+    pages: "225â€“240"
 
   - id: spencer2026
     authors: "Spencer, R. D."
@@ -101,7 +101,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Evaluation — How Living Systems Modulate Activity Relative to Viability
+# Evaluation â€” How Living Systems Modulate Activity Relative to Viability
 
 Living systems continuously regulate activity relative to conditions affecting persistence.
 
@@ -270,7 +270,7 @@ Nor does APS identify evaluation with:
 Artificial systems may optimise outputs or classify inputs while remaining externally maintained systems lacking intrinsic viability-oriented persistence.
 
 Biological evaluation differs because:
-- the system’s own persistence is at stake;
+- the systemâ€™s own persistence is at stake;
 - modulation contributes to maintaining continuity;
 - activity participates in sustaining viability;
 - and regulation occurs within continuity-producing organisation.
@@ -316,15 +316,15 @@ It is the organisation of differences within evaluative biological activity.
 APS increasingly understands this relationship developmentally:
 
 persistence  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation
 
 Persistence establishes the temporal continuity of organised living activity.
@@ -341,7 +341,7 @@ Representation may arise within some advanced forms of cognition capable of mode
 
 [[box:aps-box-semiosis-is-operational]]
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
@@ -422,7 +422,7 @@ At organismal scales, evaluation may involve:
 - and anticipatory organisation.
 
 At ecological scales, evaluation may involve:
-- organism–environment coupling;
+- organismâ€“environment coupling;
 - collective responsiveness;
 - niche construction;
 - and distributed ecological regulation.
@@ -461,7 +461,7 @@ Artificial systems generally operate within externally maintained organisational
 Their activity may be highly sophisticated while remaining detached from intrinsic viability-oriented persistence.
 
 Biological evaluation differs because:
-- evaluation contributes directly to maintaining the system’s own conditions of existence;
+- evaluation contributes directly to maintaining the systemâ€™s own conditions of existence;
 - modulation occurs within continuity-producing organisation;
 - persistence is organisationally at stake;
 - and evaluative activity contributes directly to sustaining viability across time.

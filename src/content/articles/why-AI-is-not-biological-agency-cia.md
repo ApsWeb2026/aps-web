@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-21
 cluster: artificial-systems-and-boundaries
 role: extension
 
@@ -92,7 +92,7 @@ references:
     title: "Life after Ashby: Ultrastability and the Autonomy of Living Systems"
     journal: "BioSystems"
     volume: "91(2)"
-    pages: "330–339"
+    pages: "330â€“339"
     doi: "10.1016/j.biosystems.2008.07.005"
 
   - id: mossio2023
@@ -102,13 +102,13 @@ references:
     publisher: "Springer"
 
   - id: montevil2015
-    authors: "Montévil, M., & Mossio, M."
+    authors: "MontÃ©vil, M., & Mossio, M."
     year: 2015
     title: "Biological Organisation as Closure of Constraints"
     publisher: "Springer"
 
   - id: nicholson2018
-    authors: "Nicholson, D. J., & Dupré, J."
+    authors: "Nicholson, D. J., & DuprÃ©, J."
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
@@ -197,19 +197,19 @@ rather than collapsing them into a single explanatory category.
 Within APS, biological agency occupies a foundational organisational position:
 
 viability  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation  
-↓  
+â†“  
 cognition  
-↓  
+â†“  
 intelligence
 
 Within this sequence:
@@ -316,7 +316,7 @@ This is not a trivial difference.
 
 An AI system may optimise effectively within a designated problem space while possessing no intrinsic relation to its own continued organisational persistence.
 
-Its optimisation processes do not primarily function to sustain the system’s own viability as an organised system.
+Its optimisation processes do not primarily function to sustain the systemâ€™s own viability as an organised system.
 
 Instead they function relative to externally imposed goals.
 
@@ -380,7 +380,7 @@ ceases to persist as the kind of system it is.
 
 By contrast, most contemporary AI systems possess no comparable endogenous relation to their own continued organisational existence.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">

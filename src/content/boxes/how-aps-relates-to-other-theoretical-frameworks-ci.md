@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-02
 date: 2026-05-02
-revised: 2026-08-20
+revised: 2026-08-21
 cluster: methodology-and-explanation
 relatedGlossaryTerms:
   - viability
@@ -26,16 +26,9 @@ approaches may investigate regulation, dynamical approaches may characterise
 patterns of change and stability, and other frameworks may emphasise
 mechanism, evolution, information, autonomy, cognition, or organisation.
 
-APS does not assume that these approaches are incomplete, reducible to APS,
-or necessarily complementary to it. Instead, APS makes living organisation
-itself an explicit explanatory target and asks how living systems maintain
-organised persistence despite continual change.
+APS does not assume that these approaches are incomplete, reducible to APS, or necessarily complementary to it. Instead, APS makes living organisation itself an explicit explanatory target. It proposes that life is viability-oriented, constraint-closed organisation and treats organised persistence as the problem of how that organisation maintains and re-establishes the conditions of its continuity despite continual change.
 
-Its proposed answer is viability-oriented, constraint-closed organisation.
-Within this account, living systems actively maintain and re-establish
-conditions required for their persistence. Agency, Process, and Scale are
-complementary analytic projections through which APS investigates that
-organisation.
+Within this account, living systems actively maintain and re-establish conditions required for their persistence. Agency, Process, and Scale are complementary analytic projections through which APS investigates that organisation.
 
 This creates points of comparison with other theoretical frameworks, but
 difference alone does not establish explanatory gain. Where another framework
@@ -50,10 +43,7 @@ informational, and other approaches may provide sufficient and preferable
 explanations of particular biological phenomena without being reconstructed
 through APS.
 
-APS's stronger claim concerns living organisation itself. It proposes
-viability-oriented, constraint-closed organisation and organised persistence
-as a general explanatory account of what is characteristic of living systems.
-Whether this provides a preferred account of that target cannot be inferred
+APS's stronger claim concerns living organisation itself. It proposes viability-oriented, constraint-closed organisation as its account of life and organised persistence as the corresponding explanatory problem of biological continuity through change. Whether this provides a preferred account of that target cannot be inferred
 from APS's breadth, coherence, integration, or conceptual architecture. It
 depends upon demonstrated explanatory gain over the strongest relevant
 alternatives addressing the same question.

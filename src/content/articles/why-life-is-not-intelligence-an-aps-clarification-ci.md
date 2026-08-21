@@ -1,12 +1,12 @@
 ---
 date: 2026-05-07
-title: "Why Life Is Not Intelligence — An APS Clarification"
+title: "Why Life Is Not Intelligence â€” An APS Clarification"
 slug: why-life-is-not-intelligence-an-aps-clarification
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
+revised: 2026-08-21
 cluster: artificial-systems-and-boundaries
 role: extension
 
@@ -61,7 +61,7 @@ references:
     title: "Aspects of Plant Intelligence"
     journal: "Annals of Botany"
     volume: "92"
-    pages: "1–20"
+    pages: "1â€“20"
 
   - id: lyon2015
     authors: "Lyon, P."
@@ -119,7 +119,7 @@ references:
 
 ## Introduction
 
-> **Where this article fits:** This article clarifies APS’s distinction between life and intelligence. Intelligence is treated as a specialised organisational development within already existing viability-oriented systems rather than as the defining criterion of biological organisation itself. APS therefore situates intelligence downstream from evaluation, semiosis, meaning, representation, cognition, and organised persistence rather than treating intelligence as the explanatory basis of life.
+> **Where this article fits:** This article clarifies APSâ€™s distinction between life and intelligence. Intelligence is treated as a specialised organisational development within already existing viability-oriented systems rather than as the defining criterion of biological organisation itself. APS therefore situates intelligence downstream from evaluation, semiosis, meaning, representation, cognition, and organised persistence rather than treating intelligence as the explanatory basis of life.
 
 In contemporary science and technology, intelligence has become a powerful explanatory concept.
 
@@ -164,19 +164,19 @@ rather than collapsing them into a single explanatory category.
 Within APS, intelligence occupies a downstream position within biological organisation:
 
 viability  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation  
-↓  
+â†“  
 cognition  
-↓  
+â†“  
 intelligence
 
 Within this sequence:
@@ -295,7 +295,7 @@ If intelligence defined life, much of biology would become unintelligible.
 
 APS instead treats intelligence as one possible organisational development within life rather than as the basis of life itself.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
@@ -520,7 +520,7 @@ Intelligent organisation may involve:
 These capacities remain embedded within:
 - viability-oriented persistence;
 - temporally organised regulation;
-- organism–environment coupling;
+- organismâ€“environment coupling;
 - semiosis;
 - cognition;
 - and continuity-preserving biological activity.

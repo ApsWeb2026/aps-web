@@ -1,18 +1,18 @@
 ---
 date: 2026-05-06
-title: "Semiosis — How Differences Come to Matter in Living Systems"
+title: "Semiosis â€” How Differences Come to Matter in Living Systems"
 slug: semiosis-how-differences-come-to-matter-in-living-systems
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-06
+revised: 2026-08-21
 cluster: philosophy-of-biology
 role: core
 
 abstract: >
   This article develops an APS account of semiosis as the ongoing
-  organisation of meaningful organism–environment relations within
+  organisation of meaningful organismâ€“environment relations within
   viability-oriented evaluative activity. Semiosis is not fundamentally
   symbolic representation, linguistic meaning, or abstract information
   processing, but the process through which differences become
@@ -74,7 +74,7 @@ references:
     publisher: "Harvard University Press"
 
   - id: uexkull2010
-    authors: "von Uexküll, J."
+    authors: "von UexkÃ¼ll, J."
     year: 2010
     title: "A Foray into the Worlds of Animals and Humans"
     publisher: "University of Minnesota Press"
@@ -109,7 +109,7 @@ references:
     title: "The Biogenic Approach to Cognition"
     journal: "Adaptive Behavior"
     volume: "26"
-    pages: "225–240"
+    pages: "225â€“240"
 
   - id: hoffmeyer1996
     authors: "Hoffmeyer, J."
@@ -143,13 +143,13 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-> **Where this article fits:** This article develops the APS account of semiosis as the organisation of biologically meaningful difference within viability-oriented evaluative organisation. Semiosis is treated not as symbolic representation or abstract information processing, but as the ongoing organisation of meaningful organism–environment relations within continuity-preserving biological activity. It therefore forms one of the principal bridges linking viability, normativity, evaluation, meaning, information, representation, and cognition within the APS explanatory framework.
+> **Where this article fits:** This article develops the APS account of semiosis as the organisation of biologically meaningful difference within viability-oriented evaluative organisation. Semiosis is treated not as symbolic representation or abstract information processing, but as the ongoing organisation of meaningful organismâ€“environment relations within continuity-preserving biological activity. It therefore forms one of the principal bridges linking viability, normativity, evaluation, meaning, information, representation, and cognition within the APS explanatory framework.
 
 ## Introduction
 
 Semiosis is traditionally understood as the production and interpretation of signs.
 
-Within philosophy, linguistics, and semiotics, semiosis has often been associated with symbols, representation, communication, interpretation, and language-like meaning. Within biology, the concept has been extended to encompass signalling systems, genetic coding, neural activity, communication, and organism–environment interaction. These approaches capture important aspects of how living systems organise themselves relative to their surroundings, but they also leave unresolved questions about the relationship between signs, meaning, and life itself.
+Within philosophy, linguistics, and semiotics, semiosis has often been associated with symbols, representation, communication, interpretation, and language-like meaning. Within biology, the concept has been extended to encompass signalling systems, genetic coding, neural activity, communication, and organismâ€“environment interaction. These approaches capture important aspects of how living systems organise themselves relative to their surroundings, but they also leave unresolved questions about the relationship between signs, meaning, and life itself.
 
 If semiosis is understood too narrowly, it becomes restricted to language, symbolic representation, cognition, or conscious interpretation. If it is understood too broadly, all causal interaction risks being treated as meaningful, weakening explanatory precision and obscuring what is distinctive about living systems.
 
@@ -165,11 +165,11 @@ Living systems do not merely encounter differences. They continuously regulate t
 
 Contemporary biosemiotic theory increasingly emphasises that living systems are not passive recipients of information but active participants in processes of meaning-making. Recent work has highlighted the central role of sign processes in establishing and maintaining relations of significance between organisms and their environments. APS shares this emphasis while grounding meaning-making within the broader explanatory architecture of viability, evaluation, agency, process, and scale.
 
-From an APS perspective, semiosis is therefore best understood not simply as the interpretation of signs but as the ongoing organisation of organism–environment relations through which living systems maintain and reorganise themselves across changing conditions. Meaning is not added to biological organisation from outside. It emerges from the organisation of persistence itself.
+From an APS perspective, semiosis is therefore best understood not simply as the interpretation of signs but as the ongoing organisation of organismâ€“environment relations through which living systems maintain and reorganise themselves across changing conditions. Meaning is not added to biological organisation from outside. It emerges from the organisation of persistence itself.
 
 [[box:aps-box-semiosis-is-operational]]
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 ## From Evaluation to Semiosis
 
@@ -184,21 +184,21 @@ A change in nutrient concentration, a shift in temperature, the presence of a si
 APS therefore situates semiosis within a broader explanatory sequence:
 
 viability  
-↓  
+â†“  
 function  
-↓  
+â†“  
 normativity  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation  
-↓  
+â†“  
 cognition
 
 Within this sequence, viability establishes the conditions for persistence, function concerns contributions to continuity-preserving organisation, normativity establishes asymmetries between persistence-supporting and persistence-undermining conditions, and evaluation regulates activity relative to those asymmetries. Semiosis emerges when differences become incorporated into this evaluative structure and acquire biological significance.
@@ -230,13 +230,13 @@ Differences are not inherently meaningful. A nutrient gradient, a chemical signa
 
 Semiosis therefore does not involve the discovery of pre-existing meanings embedded within the environment. Instead, it involves the ongoing organisation of relations of significance between living systems and the conditions within which they persist.
 
-This perspective connects naturally with the biosemiotic tradition associated with Jakob von Uexküll's concept of Umwelt. Organisms do not inhabit a world of neutral physical differences. They inhabit worlds structured by what matters for their continued existence. APS extends this insight by grounding such significance within evaluative organisation and viability-oriented persistence.
+This perspective connects naturally with the biosemiotic tradition associated with Jakob von UexkÃ¼ll's concept of Umwelt. Organisms do not inhabit a world of neutral physical differences. They inhabit worlds structured by what matters for their continued existence. APS extends this insight by grounding such significance within evaluative organisation and viability-oriented persistence.
 
 Meaning-making is therefore not a secondary consequence of life. It is one of the ways organised persistence becomes operational. Through semiosis, conditions acquire significance for the regulation of activity, the maintenance of continuity, the coordination of behaviour, the modulation of development, and the adaptive reorganisation of living systems.
 
 Organised persistence therefore provides the biological context within which meaning-making becomes possible. At the same time, meaning-making contributes to the maintenance and reorganisation of persistence itself. Living systems endure because relations of significance influence activity, and those relations acquire significance because living systems are already engaged in viability-oriented self-maintenance. The relationship is reciprocal rather than sequential.
 
-APS consequently understands semiosis as an ongoing process of biological meaning-making through which organism–environment relations are organised, stabilised, modified, and reconstructed in ways that contribute to viable continuity across time.
+APS consequently understands semiosis as an ongoing process of biological meaning-making through which organismâ€“environment relations are organised, stabilised, modified, and reconstructed in ways that contribute to viable continuity across time.
 
 ## Semiosis and Organised Persistence
 
@@ -250,7 +250,7 @@ A nutrient gradient, temperature fluctuation, developmental signal, ecological c
 
 This relationship is fundamentally relational. Significance is neither a property of environments alone nor a purely internal construction. It emerges through the interaction between living systems and the conditions within which they persist. A chemical gradient that is significant for one organism may be irrelevant for another. A developmental cue may matter at one stage of a life cycle and be inconsequential at another. What matters depends upon the organisation of the system itself.
 
-Semiosis therefore organises organism–environment relations rather than merely registering environmental states. Living systems actively establish domains of significance through their viability-oriented activity, and semiosis continuously maintains and modifies those domains as circumstances change.
+Semiosis therefore organises organismâ€“environment relations rather than merely registering environmental states. Living systems actively establish domains of significance through their viability-oriented activity, and semiosis continuously maintains and modifies those domains as circumstances change.
 
 This is why semiosis cannot be reduced to signal transmission alone. Signals become biologically significant only when they participate in the organisation of persistence. A difference that produces no evaluative consequences remains merely a physical difference. A difference that contributes to the regulation of activity becomes part of a semiotic process.
 
@@ -302,7 +302,7 @@ This perspective helps naturalise meaning without reducing it either to physical
 
 Meaning remains continuous with function, normativity, evaluation, semiosis, adaptation, and biological agency. Rather than standing outside biological organisation, it emerges from the organisation of persistence and contributes to its ongoing regulation.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
@@ -334,13 +334,13 @@ Differences become informative only because they are already significant within 
 The explanatory sequence remains:
 
 viability  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information
 
 This sequence is important because it prevents biological meaning from collapsing into abstract syntax, computational formalism, or detached signal manipulation.
@@ -476,7 +476,7 @@ At developmental scales, relations of significance influence how organisms grow,
 
 At behavioural scales, semiosis contributes to navigation, foraging, communication, social interaction, and adaptive response. Organisms continuously organise activity relative to conditions that influence persistence.
 
-At ecological scales, semiosis participates in the organisation of organism–environment relations. Predators, prey, competitors, mutualists, resources, and environmental conditions acquire significance through their effects on continuity and viability.
+At ecological scales, semiosis participates in the organisation of organismâ€“environment relations. Predators, prey, competitors, mutualists, resources, and environmental conditions acquire significance through their effects on continuity and viability.
 
 At evolutionary scales, semiosis contributes to the historical transformation of significance across generations. Evolution alters the ways organisms organise responsiveness to their environments, generating new patterns of adaptation, coordination, and ecological interaction.
 
@@ -539,21 +539,21 @@ Rather than treating semiosis as an autonomous explanatory framework, APS situat
 The resulting explanatory sequence is:
 
 viability  
-↓  
+â†“  
 function  
-↓  
+â†“  
 normativity  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation  
-↓  
+â†“  
 cognition
 
 This sequence does not describe a series of independent layers. Each concept develops from and depends upon those preceding it.
@@ -643,7 +643,7 @@ Semiosis emerges from organised persistence and contributes to its maintenance, 
 
 ## Key Point
 
-Semiosis is the ongoing organisation of organism–environment relations through which differences become biologically significant within viability-oriented evaluative activity sustaining organised persistence.
+Semiosis is the ongoing organisation of organismâ€“environment relations through which differences become biologically significant within viability-oriented evaluative activity sustaining organised persistence.
 
 ## Explanatory Architecture
 
@@ -670,10 +670,10 @@ These concepts and articles establish the explanatory foundations presupposed by
 
 The explanatory architecture established here is developed, extended, or applied in the following articles.
 
-- Meaning in Biology — An APS Clarification
-- Information in Biology — An APS Clarification
-- Representation — When and Whether It Arises in Biological Systems
-- Cognition — Where Does It Belong in Biology?
+- Meaning in Biology â€” An APS Clarification
+- Information in Biology â€” An APS Clarification
+- Representation â€” When and Whether It Arises in Biological Systems
+- Cognition â€” Where Does It Belong in Biology?
 - What Is Meaning?
 - APS and Contemporary Theories
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology

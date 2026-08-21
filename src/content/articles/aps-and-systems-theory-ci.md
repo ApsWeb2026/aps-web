@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-08-20
+revised: 2026-08-21
 cluster: philosophy-of-biology
 abstract: >
   Systems theory provides powerful tools for describing interaction, feedback,
@@ -51,7 +51,7 @@ relatedArticles:
 
 Systems theory encompasses a broad set of approaches that model phenomena in terms of interacting components, feedback loops, and dynamic behaviour. In biology, these approaches have been central to moving beyond strictly reductionist explanations.
 
-Rather than analysing isolated parts, systems approaches examine how interactions among components produce organised behaviour over time. Concepts such as feedback, regulation, stability, and emergence are central to this perspective. APS treats such phenomena organisationally rather than as unexplained higher-order properties. See *[Emergence in Biology — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*.
+Rather than analysing isolated parts, systems approaches examine how interactions among components produce organised behaviour over time. Concepts such as feedback, regulation, stability, and emergence are central to this perspective. APS interprets such phenomena through its own account of living organisation rather than treating emergence itself as a sufficient explanation. See *[Emergence in Biology — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*.
 
 These tools have proven extremely powerful for describing biological systems, from metabolic networks to ecological dynamics. In this respect, systems theory captures an important aspect of living organisation: that biological phenomena are distributed across interacting processes rather than located in isolated components.
 
@@ -80,13 +80,11 @@ Many systems-theoretic tools can be applied across domains including:
 - economic systems  
 - climate dynamics  
 
-Such formal tools can be applied across these cases without necessarily distinguishing them in terms of their mode of organisation. This also helps explain why similar functional patterns may be realised across very different material systems without thereby erasing the distinction between biological and non-biological organisation. This also helps explain why similar functional patterns may be realised across very different material systems without thereby erasing the distinction between biological and non-biological organisation. See *[Multiple Realization and Biological Organisation](/articles/multiple-realization-and-biological-organisation/)*.
+Such formal tools can be applied across these cases without necessarily distinguishing them in terms of their mode of organisation. This also helps explain why similar functional patterns may be realised across very different material systems without thereby erasing the distinction between biological and non-biological organisation. See *[Multiple Realization and Biological Organisation](/articles/multiple-realization-and-biological-organisation/)*.
 
 ## APS and the Question of Biological Organisation
 
-APS addresses a more specific explanatory target by proposing
-viability-oriented, constraint-closed organisation as a general account of
-living organisation.
+APS makes living organisation itself an explicit explanatory target by proposing viability-oriented, constraint-closed organisation as its general account of living organisation.
 
 The canonical APS formulation is:
 
@@ -150,7 +148,7 @@ This distinguishes the APS account of biological agency from cases in which:
 - functions are externally assigned rather than generated through viability-relative organisation;
 - organised dynamics occur without satisfying the conditions APS associates with viability-oriented, constraint-closed self-maintenance.
 
-In APS terms, agency is not an additional feature layered onto a system. It is the activity through which a system maintains itself as a system.
+In APS terms, agency is not an additional feature layered onto living organisation. Biological agency is viability-oriented organisational activity: the present-tense activity through which living organisation is enacted and sustained.
 
 ### Systems, Organisation, and the Appearance of Cognition
 
@@ -207,10 +205,47 @@ comparative explanatory gain remain possible outcomes of that comparison.
 
 ## Key Point
 
-Systems approaches provide powerful explanations of interaction, feedback,
-regulation, and dynamic organisation. APS proposes viability-oriented,
-constraint-closed organisation as a general account of living organisation.
-Neither conceptual difference nor APS's broader organisational architecture
-establishes explanatory superiority. Whether APS provides explanatory gain when
-life or living organisation is the shared target requires target-matched
-comparison.
+Systems approaches provide powerful explanations of interaction, feedback, regulation, dynamics, and network organisation. APS proposes viability-oriented, constraint-closed organisation as its account of living organisation. Neither conceptual difference nor APS's explanatory architecture establishes comparative superiority. Where systems approaches and APS address the same target, explanatory preference requires target-matched comparison against the strongest relevant alternatives.
+
+## Explanatory Architecture
+### Central Question
+
+How do systems-theoretical approaches and APS converge and differ in their explanations of organisation, interaction, regulation, dynamics, and living persistence, and what comparative significance follows when they address the same explanatory target?
+
+### Architectural Role
+
+This comparative article examines APS alongside the heterogeneous family of systems-theoretical approaches used in biology. It distinguishes shared attention to interaction, regulation, feedback, dynamics, boundaries, and organisation from differences in explanatory target, conceptual architecture, and biological specificity. Its purpose is comparative rather than adjudicative: difference between APS and systems approaches does not establish explanatory gain, and comparative preference requires target-matched assessment.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish the explanatory resources presupposed by this article. They identify dependencies within the APS corpus rather than chronology, hierarchy, or levels of organisation.
+
+- What Is APS?
+- APS and Contemporary Theories
+- Organised Persistence
+- Biological Agency
+- Constraint Closure
+- Viability
+- Biological Organisation
+- Emergence in Biology — An APS Clarification
+Multiple Realization and Biological Organisation
+Subsequent Explanatory Developments
+
+### The distinctions established here are developed or applied in:
+
+- Organism–World Coupling: Agency, Not Control
+- Explanatory Priority Is Not Ontological Priority
+- Why AI Is Not Biological Agency
+- Why Life Is Not Computation
+- Why Life Is Not Intelligence
+- Why APS Reframes Biology
+- Related Explanatory Questions
+- Which systems-theoretical approaches address living organisation itself rather than more general system dynamics?
+- When do systems theory and APS address genuinely matched explanatory targets?
+- How should modelling boundaries be distinguished from biologically maintained boundaries?
+- How do feedback, regulation, constraint closure, and viability relate across the two approaches?
+- Under what conditions might systems analysis and APS prove complementary, overlapping, independent, redundant, competing, or differentially explanatory?
+- What evidence would be required to establish explanatory gain favouring either APS or a systems-theoretical alternative?
+Position Within APS
+
+This article forms part of the APS Comparative Biology series. It compares APS with a diverse family of systems approaches without treating systems theory as a single homogeneous framework or assuming that APS's biological specificity provides automatic explanatory advantage. It preserves APS's substantive account of viability-oriented organised persistence while requiring comparative claims to be assessed against the strongest systems-theoretical alternative addressing the same question.

@@ -1,12 +1,12 @@
 ---
 date: 2026-05-28
-title: Function and Normativity — Why Biological Organisation Matters
+title: Function and Normativity â€” Why Biological Organisation Matters
 slug: function-and-normativity-why-biological-organisation-matters
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-24
-revised: 2026-07-24
+revised: 2026-08-21
 cluster: philosophy-of-biology
 role: core
 
@@ -31,7 +31,7 @@ keyPoints:
   - Biological functions are organisational contributions to viability-oriented organised persistence rather than externally assigned purposes, historically selected effects alone, or isolated mechanistic roles.
   - Biological normativity emerges because organised persistence can succeed or fail across changing conditions, establishing intrinsic standards of biological success and failure.
   - Agency, evaluation, semiosis, adaptation, and malfunction become intelligible as organisational expressions of viability-oriented organised persistence.
-  - Functional organisation is realised through temporally organised, reconstructive organism–environment coupling extending across interacting spatial and temporal scales.
+  - Functional organisation is realised through temporally organised, reconstructive organismâ€“environment coupling extending across interacting spatial and temporal scales.
   - APS provides a unified organisational framework that naturalises biological function, normativity, and biological significance without reductionism, vitalism, or externally imposed teleology.
 
 relatedGlossaryTerms:
@@ -81,7 +81,7 @@ references:
     journal: The Philosophical Review
     volume: "82"
     issue: "2"
-    pages: "139–168"
+    pages: "139â€“168"
     doi: 10.2307/2183766
 
   - id: cummins-1975-functional-analysis
@@ -91,7 +91,7 @@ references:
     journal: The Journal of Philosophy
     volume: "72"
     issue: "20"
-    pages: "741–765"
+    pages: "741â€“765"
     doi: 10.2307/2024640
 
   - id: millikan-1984-biological-categories
@@ -107,7 +107,7 @@ references:
     journal: Philosophy of Science
     volume: "58"
     issue: "2"
-    pages: "168–184"
+    pages: "168â€“184"
     doi: 10.1086/289610
 
   - id: godfrey-smith-1993-functions
@@ -117,7 +117,7 @@ references:
     journal: Pacific Philosophical Quarterly
     volume: "74"
     issue: "3"
-    pages: "196–208"
+    pages: "196â€“208"
     doi: 10.1111/j.1468-0114.1993.tb00358.x
 
   - id: mossio-saborido-moreno-2009-organizational-functions
@@ -127,7 +127,7 @@ references:
     journal: The British Journal for the Philosophy of Science
     volume: "60"
     issue: "4"
-    pages: "813–841"
+    pages: "813â€“841"
     doi: 10.1093/bjps/axp036
 
   - id: garson-2016-critical-overview
@@ -151,7 +151,7 @@ references:
     journal: Synthese
     volume: "194"
     issue: "4"
-    pages: "1089–1114"
+    pages: "1089â€“1114"
     doi: 10.1007/s11229-014-0594-z
 
   - id: craver-2007-explaining-brain
@@ -162,7 +162,7 @@ references:
     doi: 10.1093/acprof:oso/9780199299317.001.0001
 
   - id: nicholson-dupre-2018-everything-flows
-    authors: Nicholson, D. J. and Dupré, J., eds.
+    authors: Nicholson, D. J. and DuprÃ©, J., eds.
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: Oxford University Press
@@ -183,13 +183,13 @@ references:
     doi: 10.1007/s13752-026-00547-6
 ---
 
-> **Where this article fits:** This article addresses the conceptual question of *what biological function is* (definition and justification). Its role is to naturalise function and normativity within contemporary philosophy of biology. It examines the principal philosophical accounts of function, explains why function is inherently normative, and shows how APS grounds both within viability-oriented biological organisation. Readers seeking to understand how functions operate within the wider APS architecture should continue with *Function — How Living Systems Make Persistence Operational* (organisation and operation).
+> **Where this article fits:** This article addresses the conceptual question of *what biological function is* (definition and justification). Its role is to naturalise function and normativity within contemporary philosophy of biology. It examines the principal philosophical accounts of function, explains why function is inherently normative, and shows how APS grounds both within viability-oriented biological organisation. Readers seeking to understand how functions operate within the wider APS architecture should continue with *Function â€” How Living Systems Make Persistence Operational* (organisation and operation).
 
 ## Introduction
 
 What makes a biological process a function rather than merely something that happens?
 
-Few concepts have been more central—or more contested—in biology than biological function. Biologists routinely describe hearts as pumping blood, kidneys as filtering waste, leaves as capturing light, immune systems as defending organisms, and nervous systems as coordinating behaviour. Yet what distinguishes these activities as functions, rather than simply causal processes, has remained one of the enduring questions of the philosophy of biology.
+Few concepts have been more centralâ€”or more contestedâ€”in biology than biological function. Biologists routinely describe hearts as pumping blood, kidneys as filtering waste, leaves as capturing light, immune systems as defending organisms, and nervous systems as coordinating behaviour. Yet what distinguishes these activities as functions, rather than simply causal processes, has remained one of the enduring questions of the philosophy of biology.
 
 Over the past century, several influential answers have been proposed. Some accounts explain function through evolutionary history, arguing that functions are the effects for which traits were selected. Others understand function as the causal contribution that a component makes within a larger system. More recent organisational approaches locate function within the self-maintaining organisation of living systems. Each of these perspectives captures an important aspect of biological explanation, yet none fully explains why biological functions are intrinsically related to the continued existence of the organisms that enact them.
 
@@ -338,7 +338,7 @@ APS therefore understands semiosis not as the origin of biological meaning but a
 
 [[box:aps-box-semiosis-is-operational]]
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 <div class="aps-diagram"> <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-semiosis.png" alt="Semiosis and evaluative meaning in APS" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Semiosis and Evaluative Meaning.</strong> Differences become biologically meaningful because they matter differently relative to viability-oriented organised persistence. </p> </div>
 
@@ -372,13 +372,13 @@ Understanding function in this way explains why biological organisation remains 
 
 Where are biological functions organised?
 
-Biological functions are often described as properties of organisms alone. Yet living systems exist only through continual exchange with their environments. Metabolism depends upon environmental resources, behaviour is shaped by ecological conditions, development unfolds within environmental contexts, and regulation continually responds to external change. This raises an important biological question. Are biological functions entirely internal to organisms, or are they organised across organism–environment relations?
+Biological functions are often described as properties of organisms alone. Yet living systems exist only through continual exchange with their environments. Metabolism depends upon environmental resources, behaviour is shaped by ecological conditions, development unfolds within environmental contexts, and regulation continually responds to external change. This raises an important biological question. Are biological functions entirely internal to organisms, or are they organised across organismâ€“environment relations?
 
-APS argues that biological functions emerge through organism–environment coupling. Living systems maintain viability not in isolation but through continuous organisational interactions with the conditions that support their persistence. Environmental relations therefore participate directly in the organisation through which living systems preserve themselves across time.
+APS argues that biological functions emerge through organismâ€“environment coupling. Living systems maintain viability not in isolation but through continuous organisational interactions with the conditions that support their persistence. Environmental relations therefore participate directly in the organisation through which living systems preserve themselves across time.
 
 This coupled organisation is expressed through metabolic organisation, behavioural regulation, developmental continuity, ecological persistence, biological evaluation, semiosis, and adaptive reorganisation. These processes depend upon continual interactions between organisms and their environments rather than upon internally isolated mechanisms alone.
 
-Understanding function in this way explains why organised persistence extends across organism–environment systems without dissolving the organism as the primary locus of biological agency. Environmental conditions contribute directly to the organisation of continued viability because they participate in the constraints through which living systems actively maintain themselves. Biological functions are therefore best understood as organisational achievements realised through ongoing ecological coupling.
+Understanding function in this way explains why organised persistence extends across organismâ€“environment systems without dissolving the organism as the primary locus of biological agency. Environmental conditions contribute directly to the organisation of continued viability because they participate in the constraints through which living systems actively maintain themselves. Biological functions are therefore best understood as organisational achievements realised through ongoing ecological coupling.
 
 ## Function Across Scale and Time
 

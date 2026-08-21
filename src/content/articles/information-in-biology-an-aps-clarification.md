@@ -1,12 +1,12 @@
 ---
 date: 2026-05-15
-title: "Information in Biology — An APS Clarification"
+title: "Information in Biology â€” An APS Clarification"
 slug: information-in-biology-an-aps-clarification
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-06
+revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
@@ -61,7 +61,7 @@ references:
     title: "A Mathematical Theory of Communication"
     journal: "Bell System Technical Journal"
     volume: "27"
-    pages: "379–423, 623–656"
+    pages: "379â€“423, 623â€“656"
     doi: "10.1002/j.1538-7305.1948.tb01338.x"
 
   - id: maynard-smith2000
@@ -70,7 +70,7 @@ references:
     title: "The Concept of Information in Biology"
     journal: "Philosophy of Science"
     volume: "67"
-    pages: "177–194"
+    pages: "177â€“194"
     doi: "10.1086/392768"
 
   - id: oyama2000
@@ -111,7 +111,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Information in Biology — An APS Clarification
+# Information in Biology â€” An APS Clarification
 
 > **Where this article fits:** This article develops the APS account of biological information as meaningful difference participating in viability-oriented organised persistence. Information is treated not as the foundational explanatory basis of life, but as organisationally derivative from evaluation, semiosis, and continuity-preserving biological activity. It therefore forms one of the principal bridges linking meaning, representation, cognition, semiosis, and biological agency within APS.
 
@@ -127,7 +127,7 @@ Organisms are described as informationally coupled to their environments.
 
 Across molecular biology, neuroscience, systems biology, cybernetics, artificial intelligence, and cognitive science, living systems are increasingly interpreted informationally.
 
-Yet the meaning of “information” in biology often remains unclear.
+Yet the meaning of â€œinformationâ€ in biology often remains unclear.
 
 APS argues that biological information is not foundational.
 
@@ -142,7 +142,7 @@ Biological organisation therefore does not arise from information alone.
 
 Rather, informational significance emerges because organised living systems already exist as viability-oriented continuity-maintaining processes extended across time.
 
-[[box:aps-box-meaning-is-evaluative-significance]]
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 [[box:aps-box-semiosis-is-operational]]
 
@@ -341,15 +341,15 @@ Information does not generate viability-oriented organisation.
 APS increasingly understands informational significance through the following organisational sequence:
 
 viability  
-↓  
+â†“  
 evaluation  
-↓  
+â†“  
 semiosis  
-↓  
+â†“  
 meaning  
-↓  
+â†“  
 information  
-↓  
+â†“  
 representation
 
 Viability establishes continuity conditions.
@@ -385,11 +385,11 @@ However, genes do not operate independently of the larger continuity-preserving 
 Genetic activity depends upon:
 - cellular organisation;
 - developmental context;
-- organism–environment coupling;
+- organismâ€“environment coupling;
 - metabolic continuity;
 - and multiscale regulatory coordination.
 
-Genetic “information” therefore does not function as a self-sufficient instructional program detached from biological organisation.
+Genetic â€œinformationâ€ therefore does not function as a self-sufficient instructional program detached from biological organisation.
 
 Rather, genetic organisation participates within already existing continuity-preserving living systems.
 

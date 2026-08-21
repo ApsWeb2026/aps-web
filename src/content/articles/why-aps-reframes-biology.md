@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-08-20
+revised: 2026-08-21
 cluster: methodology-and-explanation
 role: anchor
 abstract: >
@@ -32,8 +32,7 @@ relatedGlossaryTerms:
   - adaptation
   - evolution
   - normativity
-  - explanatory-direction
-
+  
 relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
@@ -124,7 +123,7 @@ references:
     publisher: Oxford University Press
 ---
 
-> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture—developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*—nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Rather, its purpose is to clarify why APS changes the explanatory centre of gravity within biology itself.
+> **Where this article fits:** This article provides a concise strategic overview of why APS reorganises biological explanation around organised persistence. It is not a full presentation of the framework’s philosophical architecture—developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*—nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Rather, its purpose is to clarify why APS makes living organisation and organised persistence explicit explanatory targets within biology.
 
 ## Introduction
 
@@ -165,13 +164,6 @@ of their continuity despite continual material and organisational change.
 Living systems are not merely collections of components. Their organisation
 is dynamically maintained through activities that contribute to sustaining
 conditions required for continued viability.
-
-This persistence is:
-
-- active rather than passive,
-- organisational rather than merely structural,
-- temporally extended rather than instantaneous,
-- and viability-oriented rather than mechanically indifferent.
 
 This persistence is:
 
@@ -323,9 +315,7 @@ evolutionary processes. It asks how established evolutionary explanations bear
 upon the continuity and transformation of living organisation when that is the
 target under investigation.
 
-Whether this organisational reframing adds explanatory value beyond established
-evolutionary accounts is a comparative question and cannot be inferred from
-the broader scope of the APS architecture.
+Whether this organisational reframing adds explanatory value beyond established evolutionary accounts is a comparative question and cannot be inferred from the scope or structure of the APS architecture.
 
 ## Relating Explanations Across Biological Domains
 
@@ -462,7 +452,7 @@ Dependency Hypotheses.
 The questions introduced here are developed, compared, or applied in:
 
 - APS and Contemporary Theories
-- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+- APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
 - APS and Autonomy Theory
 - Why Philosophy of Biology Matters
 - APS as Philosophy — A Viability-Oriented Account of Biological Reality
