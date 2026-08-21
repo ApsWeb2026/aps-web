@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
-revised: 2026-07-28
+revised: 2026-08-22
 cluster: conceptual-foundations
 relatedGlossaryTerms:
   - biological-organisation
@@ -40,14 +40,14 @@ references:
     publisher: "Springer"
 ---
 
-Contemporary organisational approaches in biology argue that living systems are not merely collections of independently functioning parts but dynamically self-maintaining organisations constituted through mutually dependent constraints. Organisms continuously regenerate the conditions enabling their own continued existence, producing forms of intrinsic normativity grounded in organisational persistence rather than externally imposed goals (Moreno and Mossio 2015; Mossio 2023).
+Contemporary organisational approaches in biology argue that living systems are not merely collections of independently functioning parts but dynamically self-maintaining organisations constituted through mutually dependent constraints. Organisms continuously regenerate conditions contributing to their own continued existence, supporting accounts of intrinsic biological normativity grounded in organisation rather than externally imposed goals (Moreno and Mossio 2015; Mossio 2023).
 
-APS strongly converges with these insights.
+APS substantially converges with these organisational concerns while formulating them within its own explanatory architecture.
 
-The framework likewise treats living systems as viability-oriented, constraint-closed organisations whose components and processes remain biologically meaningful only within the context of organised persistence. Functions, regulation, adaptation, repair, and malfunction are therefore understood relative to the continued viability of the organised system itself.
+Within APS, **life is viability-oriented, constraint-closed organisation**, and **biological agency is viability-oriented organisational activity**. Functions, regulation, adaptation, repair, and malfunction can therefore be investigated in relation to the viability of living organisation.
 
-APS, however, places greater emphasis on temporally extended persistence dynamics, adaptive regulation, and biological agency across changing conditions.
+APS also treats organised persistence as the explanatory problem of how living organisation maintains and re-establishes continuity through change. Agency, Process, and Scale provide complementary analytic projections of this same organisation: what living systems do, how continuity is maintained despite change, and where persistence is organised across spatial and temporal extents.
 
-From the APS perspective, living systems are not merely self-maintaining organisational structures. They are ongoing persistence processes actively modulating system–environment relations in ways contributing to continued viability across time.
+These formulations distinguish APS from other approaches within organisational biology without establishing that APS incorporates, completes, or supersedes them. Organisational and autonomy-based approaches possess substantive accounts of self-maintenance, constraint closure, regulation, normativity, agency, and organism–environment relations.
 
-APS therefore incorporates organisational biology as a foundational insight while situating organisation within a broader explanatory grammar centred on persistence, agency, process, and scale.
+Whether APS's emphasis on viability-oriented organisation and organised persistence provides additional explanatory gain cannot be inferred from its conceptual architecture or scope. Where APS and other organisational approaches address the same explanatory target, their relative contribution requires target-matched comparison.

@@ -6,13 +6,13 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-21
+revised: 2026-08-22
 cluster: philosophy-of-biology
 abstract: |
   Autonomy theory and APS occupy closely related positions within organisational biology. Both treat living systems in terms of organisation, self-maintenance, regulation, and endogenous biological normativity, while APS formulates its own account through viability-oriented, constraint-closed organisation and organised persistence. This article clarifies their substantial conceptual overlap while distinguishing terminological, architectural, methodological, and explanatory differences. These differences do not by themselves establish that APS extends, completes, or improves upon autonomy theory; any comparative explanatory gain requires target-matched assessment against the strongest relevant autonomy-theory account.
 keyPoints:
   - Autonomy theory provides a major organisational account of life through self-maintenance, regulation, constraint closure, and biological normativity.
-  - APS shares substantial organisational commitments with autonomy theory while formulating them within its own account of viability-oriented organised persistence.
+  - APS shares substantial organisational commitments with autonomy theory while defining life as viability-oriented, constraint-closed organisation and treating organised persistence as the problem of continuity through change.
   - Conceptual overlap, terminological difference, and architectural difference must be distinguished from biological explanatory gain.
   - APS explicitly distinguishes definition, diagnosis, and explanatory architecture and treats Agency, Process, and Scale as complementary analytic projections of living organisation.
   - Whether APS provides explanatory gain over autonomy theory for any shared target requires target-matched comparison and cannot be inferred from APS's broader conceptual architecture.
@@ -163,15 +163,15 @@ The concept of constraint closure occupies a central position within autonomy th
 
 Constraint closure therefore provides an explanation for how living systems maintain themselves despite continual material turnover. Organisms persist not because particular molecules remain unchanged, but because organisational relations are continuously reproduced through ongoing activity. Closure identifies the organisational architecture that underlies biological persistence and provides one of the most influential accounts of biological organisation in contemporary theoretical biology.
 
-APS fully incorporates this insight. Organised persistence presupposes forms of constraint closure capable of sustaining viability through time. Without organisational closure, living systems would lack the capacity to maintain the conditions required for continued existence.
+APS likewise assigns constraint closure a central role within its account of living organisation. Within APS, life is viability-oriented, constraint-closed organisation. This creates substantial overlap with autonomy theory, but the shared use of closure concepts does not establish equivalence, incorporation, or explanatory priority. Their respective roles must be assessed within the explanatory architectures in which they occur.
 
 ### Regulation
 
-Although constraint closure explains how living systems maintain organisational integrity, it does not by itself explain how those systems coordinate, modify, and control their own activities under changing conditions. This additional explanatory requirement has led autonomy theorists to develop increasingly sophisticated accounts of biological regulation.
+Biological regulation concerns how living systems coordinate and modulate ongoing activity under changing conditions. Autonomy theory has developed substantial accounts of regulation alongside its treatment of organisational closure and self-maintenance.
 
-Regulation concerns the organised processes through which living systems monitor, coordinate, and modify ongoing activity in ways that contribute to persistence. Closure identifies the mutual dependence of constraints within an organised system, whereas regulation concerns the active control of processes occurring within that system. Living systems must therefore be understood not only as self-maintaining organisations but also as systems capable of reorganising activity in response to changing circumstances.
+Closure and regulation should not, however, be assigned predetermined explanatory roles in which closure explains organisational integrity while regulation supplies a separate capacity for adaptive control. They may participate together in explanations of particular biological phenomena, and their relationship depends upon the theoretical architecture and explanandum under consideration.
 
-APS incorporates regulation as a central component of viability-oriented organisation. The maintenance of viability depends not merely upon organisational closure but upon the capacity of living systems to modify ongoing activity in ways that preserve persistence under conditions of continual change.
+APS interprets regulation within viability-oriented organisation. Regulation may contribute to maintaining and re-establishing viable conditions under change, but its position within APS does not establish that it is explanatorily downstream from constraint closure or that autonomy-theoretic accounts must be reconstructed through APS.
 
 ### Agency
 
@@ -201,8 +201,6 @@ The appropriate relationship is therefore one of comparative proximity without a
 
 APS explicitly distinguishes questions concerning what life is from questions concerning how living organisation is identified or investigated. This distinction is particularly useful when organisational concepts are applied to empirical investigation, life detection, artificial systems, or borderline biological cases. The distinction should be understood here as part of APS's explanatory architecture rather than as evidence that autonomy theory fails to distinguish these questions.
 
-APS therefore introduces an explicit distinction between definition and diagnosis. Definition concerns the nature of living organisation itself. Within APS, life is understood as viability-oriented, constraint-closed organisation sustained through organised persistence. Definition seeks to identify the organisational characteristics that make living systems the kinds of systems they are.
-
 Definition concerns the nature of living organisation itself. Within APS, life is viability-oriented, constraint-closed organisation. Organised persistence concerns how this organisation continually maintains and re-establishes the conditions of its continuity despite change. Definition therefore concerns what constitutes living organisation rather than the procedures through which it is detected.
 
 Maintaining this distinction prevents conceptual confusion. Biological organisation should not be defined in terms of the methods used to detect it, just as the existence of a phenomenon should not be confused with the techniques employed to investigate it. APS therefore treats definition and diagnosis as complementary but distinct explanatory domains.
@@ -211,15 +209,15 @@ The distinction also allows APS to state explicitly how its organisational conce
 
 ## Scale and Organisation
 
-Autonomy theory established that biological organisation cannot be reduced to the properties of isolated components. APS accepts this conclusion while arguing that organisation must also be understood across multiple interacting scales of activity. Living systems persist through processes distributed across spatial, temporal, physiological, developmental, ecological, and evolutionary scales, and no single scale possesses exclusive explanatory priority.
+Questions of biological organisation frequently extend across different spatial and temporal extents. Physiological regulation, development, ecological interaction, reproduction, and evolutionary transformation may involve processes whose relevant organisation is distributed differently in space and time.
 
-The importance of scale becomes particularly evident when considering the continuity of living organisation through change. Organisms maintain viability despite continual turnover of components, developmental transformation, environmental fluctuation, and evolutionary modification. The persistence of organisation therefore cannot be identified with any particular material configuration. Instead, continuity emerges through coordinated activity distributed across multiple scales of biological organisation.
+APS addresses such variation through Scale. **Scale concerns where persistence is organised across spatial and temporal extents.** It does not identify an additional component, cause, entity, domain, or hierarchical level of living organisation.
 
-APS consequently rejects both strict reductionism and simple hierarchical models of explanation. Biological organisation is neither fully determined by lower-level processes nor adequately explained through abstract higher-level descriptions alone. Explanatory understanding emerges from analysing how processes operating at different scales contribute to the maintenance of viability-oriented organisation.
+Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents.
 
-This perspective also clarifies the relationship between explanatory priority and ontological priority. APS does not deny the material constitution of living systems. Rather, it argues that biological explanation requires identifying the organisational conditions under which material processes become intelligible as biological processes. Organisation therefore possesses explanatory priority without requiring ontological separation from the material systems in which it is realised.
+This formulation does not require every biological explanandum to be explained across multiple scales, nor does it establish that explanations spanning more spatial or temporal extents are inherently superior. The relevant scale or combination of scales depends upon the explanatory target.
 
-Within APS, Scale concerns where persistence is organised across spatial and temporal extents. It is not a component, cause, entity, domain, or hierarchical level of living organisation. Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. Scale therefore directs explanatory attention to the spatial and temporal extents across which materially realised constraints and activities contribute to organised persistence.
+APS therefore does not convert explanatory priority into ontological, causal, temporal, or hierarchical priority. Material processes and organisational relations may enter biological explanations in different ways depending upon what is being explained. The explanatory relevance of organisation must be established for the particular explanandum rather than inferred from its position within APS architecture.
 
 ## Evolutionary Continuity and Historical Transformation
 
@@ -227,13 +225,11 @@ APS gives explicit attention to the relationship between present organisation an
 
 Living systems do not merely persist in the present. They emerge from historically continuous lineages whose organisational characteristics have been maintained, modified, and transformed across generations. Understanding living organisation therefore requires understanding not only how organisms maintain themselves now but also how viable forms of organisation remain historically continuous through evolutionary time.
 
-This shift has important consequences for biological explanation. Organisational closure explains how living systems maintain themselves. Evolutionary analysis explains how forms of viable organisation become historically transformed. APS therefore interprets evolution as the historical transformation of viability-oriented organisation rather than as a process reducible to genes, traits, populations, or selection considered in isolation.
+APS formulates this historical problem as the transformation of viability-oriented organisation across evolutionary time. Variation, inheritance, development, ecological interaction, and selection may all contribute to explanations of how forms of living organisation persist and change across generations.
 
-Variation plays a central role within this account. APS rejects the view that variation exists as raw material independent of living organisation and subsequently becomes shaped by evolutionary processes. Instead, variation emerges within already organised systems whose activities generate developmental, behavioural, physiological, and ecological possibilities. Novelty is therefore not imposed upon living systems from outside but arises through the transformation of historically continuous forms of organisation.
+This formulation places historical transformation explicitly within the APS explanatory architecture. It should not be interpreted as establishing a fixed division in which organisational approaches explain present self-maintenance while evolutionary theory explains historical transformation, nor as showing that autonomy theory lacks resources for addressing historical biological continuity.
 
-Inheritance provides the complementary process through which continuity is maintained. Organisms do not transmit static structures across generations. Rather, they contribute to the reconstruction of organisational conditions that allow viable forms of persistence to continue. Evolutionary continuity therefore depends upon both transformation and reconstruction, novelty and stability, variation and inheritance.
-
-Natural selection remains an indispensable component of evolutionary explanation, but APS situates selection within a broader organisational framework. Selection does not create biological organisation. Instead, it differentially stabilises historically existing forms of viability-oriented organisation whose persistence has already been established through organised activity. Evolutionary explanation consequently requires understanding both the organisational conditions that make living systems possible and the historical processes through which forms of organisation become transformed across lineages.
+The comparative issue is instead whether APS and autonomy-theoretic approaches identify different dependencies or provide different explanatory results when applied to the same historically extended biological explanandum. That question cannot be settled by APS's explicit inclusion of evolutionary transformation within its architecture.
 
 APS therefore brings organisational persistence and historical transformation into an explicit common explanatory architecture. Autonomy theory provides powerful resources for explaining autonomous organisation, while APS formulates evolutionary transformation in terms of historically changing viability-oriented organisation. Whether these approaches are complementary, overlapping, differently targeted, or comparatively unequal cannot be decided from the difference in architecture alone.
 
@@ -243,13 +239,13 @@ Autonomy theory played a major role in reintroducing normativity into biological
 
 APS shares the organisational grounding of biological normativity while expressing that relation explicitly in viability-relative terms. Within APS, normativity consists in viability-relative asymmetry: conditions and activities differ biologically according to how they bear upon the maintenance or re-establishment of organised persistence. Constraint closure and viability therefore occupy related but distinguishable roles within the APS account. This formulation specifies APS's own explanatory position; it does not establish that autonomy theory lacks an equivalent normative relation under different terminology or architecture.
 
-This emphasis on viability helps explain why biological norms differ from externally assigned functions. A process is not biologically significant because an observer attributes a purpose to it. Rather, it is significant because it contributes to the maintenance, restoration, or enhancement of the conditions under which organised persistence remains possible. Biological normativity is therefore endogenous to living organisation itself.
+Within APS, viability should not be equated with simple short-term survival. Viability concerns the conditions within which living organisation can continue, and those conditions may extend across different biological activities and temporal extents.
 
-APS also emphasises that viability should not be equated with simple survival. Living systems often engage in activities whose significance can only be understood in relation to broader life histories rather than immediate persistence. Reproduction, development, dispersal, parental investment, and even forms of programmed death may contribute to the viability of historically continuous forms of organisation despite imposing costs upon particular organisms. Viability therefore concerns the successful realisation of organised biological continuity rather than mere short-term persistence.
+Biological agency is **viability-oriented organisational activity**. Regulation, environmental interaction, physiological adjustment, development, repair, behaviour, and other activities may participate in agency where they contribute to the enactment and maintenance of living organisation.
 
-Agency plays a central role within this account. Living systems do not simply possess norms; they actively realise them through viability-oriented activity. Organisms continuously regulate internal processes, modify relationships with their environments, and respond to changing circumstances in ways that contribute to the maintenance of favourable conditions for persistence. Biological normativity is therefore inseparable from biological agency. The distinction between beneficial and detrimental activity emerges through the active maintenance of viability itself.
+Constraint closure, agency, viability, and normativity should not therefore be arranged as successive explanatory stages. Within APS they articulate relations within one viability-oriented, constraint-closed organisation. Biological normativity is **viability-relative asymmetry**: states, processes, and outcomes differ in their consequences for viable organisation.
 
-APS consequently treats normativity, agency, and viability as mutually reinforcing aspects of organised persistence. Constraint closure explains how organised systems maintain themselves. Agency explains how those systems actively engage with the conditions affecting persistence. Viability provides the normative horizon within which such activity becomes biologically meaningful. Together they form an integrated account of why living systems act, how they maintain themselves, and what distinguishes successful from unsuccessful biological activity.
+This is APS's formulation of their relationship. It does not establish that autonomy theory lacks corresponding explanatory resources, nor that its accounts of normativity, regulation, or agency must be reconstructed through viability-oriented terminology. Any comparative difference must be assessed against a specified explanatory target.
 
 ## The APS Perspective
 
@@ -273,7 +269,7 @@ These differences establish APS as a distinct but closely related organisational
 
 ## Key Point
 
-Autonomy theory and APS share substantial commitments to organisational explanation, self-maintenance, constraint closure, regulation, and endogenous biological normativity. APS organises these and related questions through viability-oriented organised persistence and its own explanatory grammar. Architectural difference does not itself establish explanatory gain; where their targets coincide, comparative preference requires target-matched assessment.
+Autonomy theory and APS share substantial commitments to organisational explanation, self-maintenance, constraint closure, regulation, and endogenous biological normativity. APS defines life as **viability-oriented, constraint-closed organisation** and treats organised persistence as the problem of continuity through change. These architectural differences do not themselves establish explanatory gain; where the frameworks address the same target, comparative preference requires target-matched assessment.
 
 ## Explanatory Architecture
 

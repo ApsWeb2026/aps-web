@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-08-21
+revised: 2026-08-22
 cluster: philosophy-of-biology
 abstract: >
   Systems theory provides powerful tools for describing interaction, feedback,
@@ -18,7 +18,7 @@ abstract: >
   Difference between the frameworks does not by itself establish complementarity,
   integration, or APS explanatory superiority.
 keyPoints:
-  - Systems approaches provide powerful tools for describing interaction, feedback, regulation, and dynamics.
+  - Systems approaches provide powerful resources for explaining and modelling interaction, feedback, regulation, dynamics, and organisation.
   - Their explanatory adequacy depends upon the biological question being addressed.
   - Some systems approaches employ analytically specified system boundaries, while others address biological organisation more substantively.
   - APS proposes viability-oriented, constraint-closed organisation as its account of living organisation.
@@ -53,13 +53,13 @@ Systems theory encompasses a broad set of approaches that model phenomena in ter
 
 Rather than analysing isolated parts, systems approaches examine how interactions among components produce organised behaviour over time. Concepts such as feedback, regulation, stability, and emergence are central to this perspective. APS interprets such phenomena through its own account of living organisation rather than treating emergence itself as a sufficient explanation. See *[Emergence in Biology — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)*.
 
-These tools have proven extremely powerful for describing biological systems, from metabolic networks to ecological dynamics. In this respect, systems theory captures an important aspect of living organisation: that biological phenomena are distributed across interacting processes rather than located in isolated components.
+These approaches have proven extremely powerful for investigating and explaining biological systems, from metabolic networks to ecological dynamics. In this respect, systems theory captures an important aspect of living organisation: biological phenomena often depend upon relations among interacting processes rather than upon isolated components considered independently.
 
 ## Points of Comparison with APS
 
 Systems approaches and APS overlap in their attention to interaction, regulation, feedback, dynamic organisation, and relations among processes unfolding across spatial and temporal extents.
 
-This overlap does not establish that the approaches share the same explanatory targets or organising principles. Systems theory encompasses diverse research programmes, while APS specifically proposes viability-oriented, constraint-closed organisation as an account of living organisation and organised persistence.
+This overlap does not establish that the approaches share the same explanatory targets or organising principles. Systems theory encompasses diverse research programmes, while Systems theory encompasses diverse research programmes, while APS specifically proposes viability-oriented, constraint-closed organisation as its account of life and treats organised persistence as the explanatory problem of how living organisation maintains and re-establishes continuity through change.
 
 Agency, Process, and Scale are complementary analytic projections within the APS Explanatory Grammar rather than co-constitutive components or dimensions of biological reality. Systems concepts such as feedback, coupling, and dynamic stability may therefore provide important points of comparison with APS without being incorporated into APS or interpreted as expressions of it.
 
@@ -106,11 +106,7 @@ provide adequate explanations for the questions they address; APS asks the
 different question of how organised activity bears upon the persistence of
 the living system itself.
 
-Within APS, this viability-relative organisation provides the basis for
-biological normativity. Processes differ in their consequences for the
-maintenance or disruption of viable organisation. Biological evaluation
-describes the process through which agency generates significance in relation
-to those viability-relevant differences.
+Within APS, **biological normativity is viability-relative asymmetry**: states, processes, and outcomes differ in their consequences for viable organisation. Biological Evaluation is the process through which agency generates significance in relation to viability-relevant differences.
 
 Whether this APS account provides explanatory gain over systems approaches
 when living organisation itself is the shared explanatory target remains a
@@ -133,7 +129,7 @@ This provides a substantive APS claim about living organisation. Whether it
 improves upon alternative systems or organisational accounts of biological
 boundaries requires comparative and biological assessment.
 
-This means that a biological system is not simply a set of interacting components but a **self-delimiting organisation**. Its boundaries are enacted through its own activity, not imposed from outside.
+Within APS, biological boundaries are therefore investigated as materially realised features of living organisation whose maintenance may itself depend upon organised biological activity. This differs from cases in which a boundary is specified primarily for modelling or analytical purposes, without implying that systems approaches generally treat biological boundaries as externally imposed.
 
 ## Agency and the Distinction Between Living and Non-Living Systems
 
@@ -141,7 +137,7 @@ Formal systems descriptions can often be applied to both living and non-living
 systems without requiring a criterion that distinguishes the two. APS makes
 that distinction an explicit explanatory concern.
 
-APS proposes biological agency as part of its account of this distinction. Living systems actively regulate the conditions of their own persistence. They do not merely exhibit dynamic behaviour; they sustain themselves through ongoing, viability-oriented activity.
+APS proposes biological agency as part of its account of this distinction. **Biological agency is viability-oriented organisational activity**: the activity through which living organisation is enacted and sustained under conditions relevant to its viability.
 
 This distinguishes the APS account of biological agency from cases in which:
 
@@ -246,6 +242,7 @@ Subsequent Explanatory Developments
 - How do feedback, regulation, constraint closure, and viability relate across the two approaches?
 - Under what conditions might systems analysis and APS prove complementary, overlapping, independent, redundant, competing, or differentially explanatory?
 - What evidence would be required to establish explanatory gain favouring either APS or a systems-theoretical alternative?
-Position Within APS
 
-This article forms part of the APS Comparative Biology series. It compares APS with a diverse family of systems approaches without treating systems theory as a single homogeneous framework or assuming that APS's biological specificity provides automatic explanatory advantage. It preserves APS's substantive account of viability-oriented organised persistence while requiring comparative claims to be assessed against the strongest systems-theoretical alternative addressing the same question.
+### Position Within APS
+
+This article forms part of the APS Comparative Biology series. It compares APS with a diverse family of systems approaches without treating systems theory as a single homogeneous framework or assuming that APS's biological specificity provides automatic explanatory advantage. It preserves APS's substantive account of **life as viability-oriented, constraint-closed organisation** and its treatment of **organised persistence as the explanatory problem of continuity through change**, while requiring comparative claims to be assessed against the strongest systems-theoretical alternative addressing the same question.
