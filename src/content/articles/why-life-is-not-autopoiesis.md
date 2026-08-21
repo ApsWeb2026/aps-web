@@ -6,16 +6,32 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-10
+revised: 2026-08-22
 cluster: philosophy-of-biology
-abstract: |
-  Autopoiesis transformed theoretical biology by explaining living systems in terms of self-producing organisation rather than constituent components. APS accepts this foundational insight but argues that self-production alone does not fully explain regulation, agency, viability, historical continuity, or evolutionary transformation. This article examines the relationship between autopoiesis, autonomy theory, and APS, showing how APS extends the organisational tradition through a unified account of viability-oriented organised persistence.
+role: clarification
+
+abstract: >
+  Autopoiesis transformed theoretical biology by making the self-producing
+  organisation of living systems an explicit explanatory target. Later
+  organisational and autonomy approaches developed related accounts of
+  self-maintenance, closure, regulation, normativity, and biological agency.
+  APS shares this concern with living organisation but does not identify life
+  with autopoiesis. It defines life as viability-oriented, constraint-closed
+  organisation and treats organised persistence as the explanatory problem of
+  how that organisation maintains and re-establishes continuity through
+  change. These differences establish non-identity and distinct explanatory
+  architectures; they do not by themselves show that APS explains living
+  organisation better than autopoietic or autonomy-based approaches.
+
 keyPoints:
-  - Autopoiesis transformed biology by placing organisation at the centre of explanation.
-  - Self-production explains an important aspect of living organisation but does not exhaust biological explanation.
-  - Autonomy theory extended autopoiesis through concepts such as constraint closure and self-maintenance.
-  - APS integrates organisation, regulation, agency, viability, historical continuity, and evolution.
-  - Life is not merely self-producing organisation but viability-oriented organised persistence.
+  - Autopoiesis made the self-producing organisation of living systems a major explanatory target in theoretical biology.
+  - Autopoietic and later autonomy approaches provide substantive accounts of organisation, self-production, closure, self-maintenance, autonomy, normativity, and biological agency.
+  - APS shares important organisational concerns with these approaches but is not identical with autopoiesis or autonomy theory.
+  - APS defines life as viability-oriented, constraint-closed organisation and biological agency as viability-oriented organisational activity.
+  - Organised persistence concerns how living organisation maintains and re-establishes continuity through change; it is not a second definition of life.
+  - Differences among autopoietic, autonomy, and APS architectures do not establish a progression of explanatory superiority.
+  - Where the approaches address the same explanatory target, comparative explanatory gain requires target-matched assessment.
+
 relatedGlossaryTerms:
   - autopoiesis
   - constraint-closure
@@ -23,6 +39,7 @@ relatedGlossaryTerms:
   - viability
   - normativity
   - evolution
+
 relatedArticles:
   - comparative-explanatory-methodology-theoretical-biology
   - aps-and-contemporary-theories
@@ -31,6 +48,7 @@ relatedArticles:
   - organism-the-unity-of-viability-oriented-organisation
   - agency-as-the-defining-activity-of-life
   - what-is-life-a-biological-question-revisited
+
 references:
   - id: maturana-varela1980
     authors: "Maturana, H. R., & Varela, F. J."
@@ -121,138 +139,201 @@ references:
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
 
-Autopoiesis represents one of the most influential developments in modern theoretical biology. By shifting attention away from constituent components and toward organisational processes, it transformed discussions of life, individuality, cognition, and biological explanation. Rather than asking what living systems are made of, autopoietic theory asked how living systems continuously generate and maintain themselves as organised unities. This shift from substance to organisation remains one of the foundational achievements of contemporary biology.
+## Introduction
+Autopoiesis represents one of the most influential organisational approaches to life in modern theoretical biology. By shifting attention from the material composition of living systems toward the organisation through which they continuously produce and maintain themselves, it transformed discussions of life, individuality, autonomy, cognition, and biological explanation.
 
-APS fully accepts the importance of this organisational turn. The recognition that living systems are organisationally constituted rather than reducible to their material components forms part of the intellectual foundation upon which APS is built. Yet APS also argues that self-production alone cannot fully explain the distinctive character of living organisation. Questions concerning regulation, agency, viability, historical continuity, and evolution require additional conceptual development beyond the original autopoietic framework.
+APS shares this emphasis on living organisation. It likewise rejects the idea that organisms can be understood adequately by specifying their constituent materials alone and treats organisation as a real and scientifically investigable feature of living systems.
 
-Understanding this relationship is important because APS should not be understood as rejecting autopoiesis. Rather, APS develops a line of theoretical inquiry that began with autopoiesis, was subsequently extended through autonomy theory, and continues through contemporary organisational approaches to biology. The question is therefore not whether autopoiesis was correct, but whether self-production alone is sufficient to explain life.
+The relationship should nevertheless not be described as a simple progression in which autopoiesis supplies an initial insight, autonomy theory corrects its limitations, and APS completes or broadens the resulting account. Autopoiesis, autonomy theory, and APS are related but distinguishable explanatory architectures, each of which makes substantive claims about living organisation.
 
-The comparison is situated within the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). The purpose is to clarify the explanatory architecture of each approach before determining whether their similarities represent equivalence, complementarity, or substantive difference.
+The title **Why Life Is Not Autopoiesis** therefore expresses a bounded non-identity claim. APS does not define life simply as autopoietic or self-producing organisation. It defines life as **viability-oriented, constraint-closed organisation** and biological agency as **viability-oriented organisational activity**. Organised persistence identifies the corresponding explanatory problem of how living organisation maintains and re-establishes continuity through change.
+
+These APS commitments do not establish that autopoiesis is scientifically inadequate or that APS provides a deeper, more complete, or more comprehensive account of living organisation. Where APS, autopoietic, or autonomy-based explanations address the same explanandum, their relative explanatory contribution must be assessed through target-matched comparison.
+
+The comparison follows the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). The aim is to compare explanatory targets, organising principles, conceptual architectures, characteristic strengths, and explanatory scope without assuming in advance that their relationship must be one of succession, complementarity, incorporation, or superiority.
 
 ## The Autopoietic Insight
 
-The central insight of autopoiesis is that living systems are organised networks of processes that continuously produce and maintain the components required for their own continued existence. Organisms are not assembled from externally coordinated parts in the manner of machines. Instead, the activities occurring within the system collectively regenerate the organisational conditions that make those activities possible.
+The central insight of autopoiesis is that living systems are organised networks of processes that continuously produce and maintain the components and relations required for their own continued organisation. Rather than defining organisms through a fixed material inventory, autopoietic theory directs attention toward the organisation through which a living system continuously constitutes and regenerates itself.
 
-This proposal represented a major departure from both mechanistic and substance-based accounts of life. Biological identity no longer depended upon particular materials, molecular inventories, or externally assigned functions. Instead, identity arose through the continual reproduction of an organised network of processes. A living system remained the same system not because its material constituents remained unchanged, but because its organisation persisted through continual renewal.
+This was an important shift in theoretical biology. Biological identity could be investigated through continuity of organisation despite continual material turnover. A living system could therefore remain organisationally identifiable even though many of its material constituents changed.
 
-The importance of this shift cannot be overstated. Autopoiesis redirected attention toward organisation as an explanatory category in its own right and helped establish many of the conceptual foundations upon which later organisational approaches would build. Contemporary discussions of autonomy, agency, normativity, and biological individuality all owe an intellectual debt to this transformation.
+Autopoiesis also made boundary constitution and organisational unity central to the problem of life. The system is not simply an externally assembled collection of parts; its own organised activity participates in producing and maintaining the conditions through which it continues as the system it is.
 
-APS therefore accepts the core autopoietic insight. Living systems cannot be adequately understood through their constituent components alone. Biological explanation must account for the organisational relations through which living systems continuously maintain themselves as living systems.
+These ideas helped establish organisation as an explanatory category in biological theory and contributed to later work on autonomy, normativity, biological individuality, self-maintenance, and agency.
+
+The significance of this contribution should not be overstated in the opposite direction. Autopoiesis need not be contrasted with mechanistic explanation as though mechanisms were necessarily static, reductive, or incapable of addressing organised biological processes. Mechanistic and organisational approaches may address overlapping or different explananda.
+
+APS shares the view that living organisation deserves explicit explanation. But sharing this explanatory concern does not make APS a version of autopoiesis, nor does APS's different formulation of life establish that autopoiesis is explanatorily deficient.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
-## What Autopoiesis Explains Well
+## What Autopoietic Approaches Explain
 
-Autopoiesis successfully explains several fundamental features of living organisation. First, it explains why living systems possess a distinctive form of organisational unity. Organisms remain identifiable despite continual material turnover because their organisation is continually regenerated through ongoing activity. Persistence therefore depends upon organisational continuity rather than material permanence.
+Autopoietic approaches provide substantive explanatory resources for understanding organisational unity, self-production, boundary constitution, organisational identity, and continuity through material turnover.
 
-Second, autopoiesis explains why living systems differ from externally assembled artefacts. Machines may continue functioning despite the replacement of particular parts, but their organisation is imposed from outside. By contrast, living systems continuously contribute to the production and maintenance of their own organisational conditions. Their organisation is generated from within rather than externally imposed.
+They make it possible to investigate how living systems contribute to producing and maintaining the components and relations through which they continue as organised systems. This is more than a description of self-maintenance. Autopoiesis proposes a distinctive account of the organisation constitutive of living systems.
 
-Third, autopoiesis established that biological organisation should be treated as explanatorily significant rather than as a secondary consequence of underlying mechanisms. This insight helped restore organisation to a central position within theoretical biology and provided an alternative to both reductionist and purely component-based approaches.
+Autopoietic approaches also help distinguish living organisation from familiar externally assembled artefacts. The relevant contrast is not that artefacts lack mechanisms while organisms possess organisation, but that autopoietic systems participate through their own organisation in producing and maintaining the conditions of their continued constitution.
 
-These achievements remain foundational. APS agrees that living systems are organisationally constituted, that self-production plays a central role in biological persistence, and that organisational relations possess genuine explanatory importance. The question is therefore not whether autopoiesis captures something essential about life. It clearly does. The question is whether self-production alone explains everything that requires explanation.
+These explanatory achievements remain important in contemporary theoretical biology. They should not be weakened merely because later organisational approaches employ different concepts or because APS gives explicit roles to viability orientation, constraint closure, biological agency, or organised persistence.
 
-## Beyond Self-Production
+APS nevertheless formulates living organisation differently. Its definition of life is **viability-oriented, constraint-closed organisation**, rather than autopoietic organisation as such. That difference establishes a legitimate comparative question about the relations among self-production, closure, viability, agency, and continuity.
 
-The major limitation of autopoiesis is not that it explains the wrong phenomenon but that it explains only part of the phenomenon. Self-production accounts for how living systems generate and maintain their own organisational unity, but it does not by itself fully explain why particular organisational states matter to the system, how systems regulate themselves under changing conditions, or how organisms actively engage with the environments upon which their persistence depends.
+It does not establish that self-production explains only part of life, that autopoiesis requires completion by APS, or that APS supplies a more comprehensive explanation. Those conclusions require comparison at matched explanatory targets.
 
-These questions become particularly important when considering biological normativity. Living systems continuously distinguish between conditions that support continued existence and conditions that threaten it. Some organisational states contribute to persistence, while others undermine it. Success and failure therefore possess an intrinsic significance that cannot be reduced simply to the existence of self-producing processes.
+## Self-Production and the Scope of Explanation
 
-Similarly, living systems do not merely reproduce their organisation. They regulate internal activity, modify relationships with their environments, compensate for perturbations, and actively secure conditions favourable to continued existence. Such activities suggest that biological organisation involves more than self-production alone. Organisms must also be understood as systems capable of regulating and directing activity in relation to the requirements of viability.
+Autopoiesis makes self-production and organisational constitution central to the explanation of living systems. It provides a substantive account of how a living system participates in producing and maintaining the organisation through which it continues as an identifiable unity.
 
-These considerations motivated the development of autonomy theory and subsequent organisational approaches. The challenge was not to abandon autopoiesis but to extend its insights in ways capable of addressing regulation, normativity, agency, and persistence more explicitly. APS emerges from this broader trajectory of theoretical development.
+APS asks related questions through a different conceptual architecture. It gives explicit roles to viability orientation, constraint closure, biological agency, regulation, and organised persistence. These concepts identify features and explanatory problems that APS regards as important for understanding living organisation.
+
+Their explicit presence within APS does not establish that autopoiesis lacks corresponding explanatory resources or that self-production is merely one incomplete part of a more comprehensive APS explanation. Whether two frameworks explain the same phenomenon, emphasise different dependencies, or address partly different explananda must be determined rather than inferred from differences in terminology or architecture.
+
+This is especially important for biological normativity. APS characterises biological normativity as viability-relative asymmetry: states, processes, and outcomes differ in their consequences for viable organisation. Autopoietic and autonomy-based approaches have developed their own accounts of organisational identity, autonomy, precariousness, adaptivity, and normativity. Their relation to the APS formulation is therefore a comparative question, not an established relation of grounding or completion.
+
+The same applies to regulation and environmental engagement. Living systems maintain organisation under changing conditions and interact selectively with their environments, but the fact that APS describes these activities through viability-oriented organisation does not show that autopoietic explanation is incapable of addressing them.
+
+The relevant question is therefore not whether biological explanation must move beyond autopoiesis, but how self-production, autonomy, closure, regulation, viability, and agency contribute to explanations of particular biological phenomena.
 
 ## From Autopoiesis to Autonomy
 
-The limitations of self-production did not lead organisational theorists to abandon the autopoietic project. Instead, they motivated a series of developments that sought to clarify how living systems maintain themselves, regulate their activities, and preserve their organisational integrity under changing conditions. These developments eventually gave rise to autonomy theory, which can be understood as both a continuation and an extension of the original autopoietic insight.
+Later autonomy approaches developed organisational questions closely related to those raised by autopoiesis. Rather than treating autonomy simply as independence from an environment, these approaches investigate how living systems maintain themselves through networks of mutually dependent processes while remaining materially and energetically open to their surroundings.
 
-Autonomy theory retained the central commitment to organisation while expanding the explanatory scope of organisational biology. Rather than focusing exclusively on self-production, autonomy theorists investigated how living systems sustain themselves through networks of mutually dependent processes that collectively maintain the conditions required for their own continuation. The emphasis shifted from the production of components to the maintenance of organised systems.
+This work extended the range of concepts through which biological organisation could be investigated. Questions of closure, self-maintenance, regulation, normativity, and organism–environment interaction became increasingly explicit within organisational approaches to biology.
 
-This development proved important because living systems do more than produce themselves. They continuously preserve organisational relationships whose persistence depends upon ongoing activity. Biological organisation therefore came to be understood not simply as self-production but as a form of organised self-maintenance in which the activities of the system contribute to the continued existence of the organisational conditions that make those activities possible.
+This historical development should not be interpreted as a simple sequence of explanatory correction. Autopoiesis and later autonomy theories differ in emphasis, formulation, and scope, and contemporary organisational approaches cannot be reduced to successive stages in a single theoretical progression.
 
-The emergence of autonomy theory should therefore be understood as a natural development within organisational biology. Autopoiesis identified the importance of organisation. Autonomy theory sought to explain more precisely how that organisation maintains itself through time and why such maintenance possesses biological significance.
+For APS, these developments establish a substantial field of comparison. APS likewise treats living organisation as actively maintained and materially realised, but it formulates that organisation through viability orientation and constraint closure. Whether this formulation captures different dependencies, redescribes relations already addressed by autonomy approaches, or provides explanatory gain for particular explananda remains open to comparative assessment.
 
-## From Closure to Regulation
+## Closure and Regulation
 
-One of the most influential developments within autonomy theory was the concept of constraint closure. Living systems consist of networks of constraints that mutually contribute to one another's maintenance while collectively sustaining the organised processes upon which the system depends. Through this organisation, biological activity continuously regenerates the conditions required for its own continuation.
+Closure concepts play important but non-identical roles across organisational approaches to biology. Autopoietic operational closure, organisational closure, and constraint closure should therefore not be treated as interchangeable terms.
 
-Constraint closure provided a more explicit account of organisational maintenance than was available within early autopoietic formulations. It explained how living systems preserve organisational integrity despite continual material turnover and environmental fluctuation. Organisms remain viable not because particular components persist unchanged but because organisational relations are continually regenerated through ongoing activity.
+Within APS, constraint closure concerns the organisation of mutually dependent constraints through which living activity contributes to maintaining the conditions required for its continuation. It forms part of the APS account of life as viability-oriented, constraint-closed organisation.
 
-Yet even closure does not exhaust biological explanation. Living systems do not merely maintain organisational integrity. They also regulate ongoing activity under changing circumstances. Organisms coordinate physiological processes, respond to perturbations, modify developmental trajectories, and adjust behaviour in ways that contribute to persistence. Such activities involve forms of control and coordination that cannot be fully reduced to organisational closure alone.
+This formulation should not be presented as an automatic correction, completion, or superior version of autopoietic operational closure. The concepts arise within different theoretical architectures and may identify overlapping, distinct, or differently formulated organisational relations. Establishing their comparative explanatory contribution requires attention to the explanandum and to the dependencies each account proposes.
 
-The concept of regulation emerged in response to this explanatory requirement. Regulation concerns the organised processes through which living systems monitor, coordinate, and modify ongoing activity in relation to changing conditions. Whereas closure explains how organisational maintenance is possible, regulation explains how organised systems preserve viability under circumstances that continually threaten organisational stability.
+Regulation introduces a related set of explanatory questions. Living systems modulate processes in response to changing internal and external conditions, compensate for perturbations, and maintain forms of organisation across variation. These regulatory capacities are central to many biological explanations.
 
-This distinction proved significant because it revealed that living systems are not merely self-producing or self-maintaining entities. They are also systems capable of actively reorganising activity in response to internal and external conditions. Theoretical biology therefore required concepts capable of addressing not only organisation but also the dynamic management of organised activity.
+It would nevertheless be too strong to assign closure and regulation predetermined explanatory jobs—for example, to say that closure explains how organisation is possible while regulation explains how viability is preserved. Closure and regulation may participate together in explanations of particular phenomena, and different theoretical approaches may organise their relation differently.
 
-## From Regulation to Agency
+APS interprets regulation within viability-oriented organisation, but that interpretation does not establish that regulation is explanatorily downstream from closure or that alternative organisational accounts must be reconstructed through APS.
 
-The recognition of regulation naturally led to a further question. If living systems regulate themselves in relation to changing conditions, how should their active engagement with the environment be understood? Regulation explains the coordination of internal activity, but organisms do not exist in isolation from their surroundings. They continually interact with environmental conditions that affect their prospects for continued existence.
+## Regulation and Biological Agency
 
-This challenge led organisational approaches increasingly toward questions of agency. Organisms move, forage, communicate, construct niches, modify environments, avoid threats, exploit opportunities, and engage in a wide range of activities that influence the conditions under which persistence becomes possible. Such activities cannot be adequately described as passive responses to external stimuli. They represent organised forms of engagement directed toward maintaining viability.
+Regulation and biological agency are closely related within APS, but they should not be arranged as successive stages in which agency supplies an explanatory dimension missing from regulation.
 
-Agency therefore introduces a further dimension of biological explanation. Closure explains organisational maintenance. Regulation explains internal coordination and control. Agency explains how organised systems actively participate in shaping the conditions affecting their continued existence. These dimensions are deeply interconnected, but they perform distinct explanatory functions.
+**Biological agency is viability-oriented organisational activity.** It is the present activity through which living organisation is enacted and sustained. Regulation may form part of this activity, but biological agency is not defined simply as regulation plus environmental action, behavioural flexibility, or goal-directed response.
 
-The emergence of agency within organisational biology reflects a broader recognition that living systems are not merely organised structures. They are organised activities. Their persistence depends not only upon the maintenance of internal organisation but also upon their capacity to engage productively with changing environments. Understanding life therefore requires understanding not only how systems are organised but also how they act.
+Living systems act in ways that alter their relations with surrounding conditions. Organisms move, forage, modify environments, avoid threats, repair damage, reorganise activity, and exploit opportunities. Such phenomena make questions of agency scientifically important, but their existence does not establish that autopoietic or autonomy-based approaches are incapable of explaining them.
+
+Contemporary autonomy approaches themselves contain substantive treatments of agency and organism–environment relations. APS should therefore not claim biological agency as an explanatory resource uniquely supplied by its own architecture.
+
+The relevant comparison concerns how different approaches characterise the organisation of biological activity and what explanatory contribution those characterisations make in particular cases. APS's explicit definition of agency provides one formulation of that problem; its explicitness alone does not demonstrate explanatory gain.
 
 ## Contemporary Autonomy Theory and Biological Agency
 
-Recent developments within autonomy theory have increasingly recognised that agency occupies a central place within biological organisation. Rather than treating agency as an optional behavioural capacity or a characteristic confined to cognitively sophisticated organisms, contemporary autonomy theorists argue that agency emerges from the organisation of autonomous living systems themselves. On this view, organisms are active participants in maintaining the organisational conditions upon which their continued existence depends. Agency is therefore understood as an expression of autonomous organisation rather than an externally added property (Virenque & Mossio, 2024).
+Contemporary autonomy theory provides a particularly important comparator because it does not restrict biological organisation to passive self-maintenance. It has developed substantive accounts of autonomous activity, organism–environment interaction, regulation, normativity, and agency.
 
-This development represents an important convergence with APS. Both approaches reject the reduction of organisms to passive mechanisms and both understand agency as a genuine feature of living organisation. Both also emphasise that biological normativity arises from the organisation of living systems rather than from externally imposed purposes.
+This makes the relationship between APS and autonomy theory closer than a simple contrast between self-production and active biological agency would suggest. Both approaches investigate living systems as organised activities capable of maintaining themselves while interacting with changing conditions.
 
-APS nevertheless proposes a different explanatory priority. Contemporary autonomy theory explains agency as arising from autonomous organisation and its self-maintaining dynamics. APS instead identifies biological agency as the defining organisational activity through which viability-oriented, constraint-closed organisation is continuously enacted. Agency is therefore not merely a consequence of autonomous organisation but the ongoing activity through which living organisation maintains and re-establishes the conditions of its own persistence. This shift allows viability, regulation, organisation, evolution, and biological explanation to be integrated within a single explanatory framework rather than being treated as successive extensions of autonomy theory.
+APS nevertheless uses a distinctive formulation. **Life is viability-oriented, constraint-closed organisation**, and **biological agency is viability-oriented organisational activity**. Viability orientation therefore has an explicit organising role within the APS architecture.
 
-APS incorporates this development explicitly. Biological agency is understood as the viability-oriented activity through which living systems contribute to the maintenance of conditions favourable to continued existence. Agency is not an additional property imposed upon organised systems. Rather, it emerges from the organisation of living systems themselves and represents one of the principal ways through which viability is actively realised.
+This difference should be preserved, but it should not be converted into a predetermined explanatory priority. APS's formulation may clarify certain questions, overlap substantially with autonomy-based explanation, identify different dependencies, or prove redundant for a particular explanandum. Conversely, autonomy-based explanation may sometimes be sufficient or preferable without reconstruction through APS.
+
+The relationship between the approaches must therefore be established at matched explanatory targets rather than inferred from the fact that APS integrates viability, constraint closure, and biological agency within its own conceptual architecture.
 
 ## Why Viability Matters
 
-The movement from autopoiesis to autonomy and from autonomy to agency reveals a common theme. Organisational biology increasingly converges upon questions concerning viability. Self-production, closure, regulation, and agency all ultimately derive their significance from their relationship to the continued existence of living systems.
+Viability occupies a central position within APS because living organisation persists only across a bounded range of conditions. Changes in internal or external conditions can support, impair, or destroy the organisation through which a living system continues.
 
-APS therefore places viability at the centre of biological explanation. Viability concerns the organised conditions under which persistence remains possible. Living systems continuously encounter circumstances that either support or threaten those conditions, and their activities acquire biological significance through their consequences for viability. Processes matter because they contribute to or undermine the continued maintenance of organised persistence.
+APS characterises the resulting asymmetry as biological normativity: **biological normativity is viability-relative asymmetry**. Biological Evaluation is the process through which agency generates significance as activity is differentially modulated in relation to viability-relevant conditions.
 
-This perspective helps clarify why biological normativity arises. Organisms do not merely possess organisational structures. They continuously distinguish between favourable and unfavourable conditions through the organisation of their activity. Success and failure, benefit and harm, function and malfunction emerge from the relationship between organised activity and viability rather than from externally imposed purposes or observer-relative judgments.
+This does not mean that self-production, closure, autonomy, or regulation acquire biological significance only after being reconstructed through APS. Autopoietic and autonomy-based approaches possess their own accounts of organisational identity, normativity, adaptivity, and the conditions under which living systems maintain themselves.
 
-Viability also helps explain why APS does not identify life with self-production alone. Self-production is undoubtedly important, but it is only one component within a broader architecture that includes closure, regulation, agency, development, ecological interaction, and historical continuity. Living systems are not merely self-producing organisations. They are viability-oriented forms of organised persistence whose activities continually contribute to the maintenance of the conditions required for their own continuation.
-
-From this perspective, APS does not reject autopoiesis. Rather, it situates self-production within a richer explanatory framework in which viability provides the organising principle connecting organisation, regulation, agency, and persistence.
-
-## Historical Continuity and Evolution
-
-Although autonomy theory expanded organisational biology beyond self-production, its primary focus remained the maintenance of individual living systems. APS accepts this focus but argues that biological explanation must also account for the historical continuity through which living organisation persists, diversifies, and transforms across generations. Living systems are not merely organised entities existing in the present. They are participants in lineages whose organisational characteristics have been maintained, modified, and transmitted through evolutionary time.
-
-This historical dimension introduces explanatory questions that cannot be fully addressed through self-production, closure, regulation, or agency alone. Organisms persist only temporarily, whereas living organisation exhibits continuity across generations, populations, and evolutionary lineages. Biological explanation must therefore account not only for how individual systems maintain themselves but also for how forms of organisation remain historically continuous while undergoing continual transformation.
-
-Variation plays a central role within this process. Evolutionary novelty does not arise independently of living organisation and subsequently become incorporated into biological systems. Rather, variation emerges from the activities of already organised systems. Developmental processes, behavioural activity, ecological interactions, physiological regulation, and reproductive processes continuously generate new possibilities for biological organisation. Novelty therefore arises within historically continuous forms of organised persistence rather than existing as external raw material upon which evolutionary processes subsequently operate.
-
-Inheritance provides the complementary process through which continuity is maintained. Organisms do not transmit static structures across generations. Instead, they contribute to the reconstruction of organisational conditions that make continued viability possible. Biological continuity therefore depends upon the repeated re-establishment of viable forms of organisation rather than the simple replication of fixed entities. Evolutionary persistence is simultaneously conservative and transformative, preserving continuity while enabling change.
-
-Natural selection occupies an important place within this framework, but APS interprets its role differently from accounts that treat selection as the primary source of biological organisation. Selection does not create organised persistence. Rather, it differentially stabilises historically existing forms of viability-oriented organisation. Living systems must already exist as organised, viable entities before selection can operate upon them. Evolutionary explanation therefore requires understanding both the organisational conditions that make living systems possible and the historical processes through which forms of organisation become transformed across time.
-
-From this perspective, evolution becomes the historical transformation of organised persistence. Organisms, populations, and lineages remain continuous not because they avoid change but because they maintain continuity through change. Historical persistence and transformation are therefore complementary rather than opposing aspects of biological organisation. APS extends organisational biology by integrating this evolutionary dimension directly into its account of life.
-
-## The APS Perspective
-
-APS should not be understood as a rejection of autopoiesis. On the contrary, many of its central concepts would be difficult to formulate without the organisational revolution initiated by autopoietic theory. The recognition that living systems are defined by organisation rather than by constituent materials remains one of the foundational insights upon which APS is built.
-
-At the same time, APS argues that self-production alone does not fully explain living organisation. Theoretical developments following autopoiesis increasingly revealed the importance of self-maintenance, constraint closure, regulation, agency, and normativity. APS incorporates these developments while extending them further through a unified account of viability-oriented organised persistence.
-
-Within APS, living systems are understood as organised entities whose continued existence depends upon the active maintenance of viability across changing circumstances. Constraint closure explains how organisational conditions are maintained. Regulation explains how ongoing activity is coordinated. Agency explains how organisms engage with environmental conditions affecting persistence. Viability provides the normative horizon within which these activities acquire biological significance. Historical continuity explains how forms of organisation remain continuous through evolutionary transformation.
-
-The result is an explanatory framework that preserves the strengths of autopoiesis while integrating them into a broader architecture. Self-production remains important, but it becomes one component within a larger account of living organisation that includes agency, persistence, development, ecology, cognition, and evolution. APS therefore seeks not to replace autopoiesis but to situate it within a more comprehensive understanding of life.
-
-The relationship between autopoiesis, autonomy theory, and APS is consequently best understood as a developmental progression rather than a sequence of competing theories. Autopoiesis established the importance of organisation. Autonomy theory clarified self-maintenance, closure, and regulation. APS integrates these achievements while extending them through concepts of viability, agency, historical continuity, and evolutionary transformation. Each stage preserves insights from earlier work while expanding the scope of biological explanation.
-
-## Summary
-
-Autopoiesis transformed theoretical biology by demonstrating that living systems are defined by organisation rather than by their constituent components. Through the concept of self-production, it showed how living systems continuously generate and maintain the conditions required for their own existence and thereby established organisation as a central explanatory category within biology.
-
-Subsequent developments revealed that self-production alone does not exhaust biological explanation. Questions concerning self-maintenance, constraint closure, regulation, agency, normativity, and persistence required further theoretical development. Autonomy theory emerged from this effort and extended the organisational tradition through increasingly sophisticated accounts of biological organisation.
-
-Recent work within autonomy theory increasingly places biological agency at the centre of organisational explanation. APS accepts this development while arguing that agency is most fundamentally understood as the viability-oriented organisational activity through which living systems enact and sustain their own persistence, thereby integrating agency, organisation, regulation, and evolution within a unified explanatory grammar.
-
-APS builds directly upon these foundations while integrating them into a broader explanatory framework centred on viability-oriented organised persistence. Within this framework, living systems are understood as organised entities whose continued existence depends upon the integration of closure, regulation, agency, viability, historical continuity, and evolutionary transformation. Biological organisation therefore extends beyond self-production to encompass the full range of processes through which living systems maintain themselves, act within their environments, and remain historically continuous through time.
+Nor does viability orientation establish an explanatory ladder in which closure makes regulation possible, regulation produces agency, and agency subsequently realises viability. Within APS these concepts articulate relations within one viability-oriented, constraint-closed organisation. Their explanatory contribution depends on the biological question being addressed.
 
 [[box:organisation-agency-and-viability]]
 
+Organised persistence should also be distinguished carefully from viability itself. APS defines life as **viability-oriented, constraint-closed organisation**. Organised persistence is not a second definition of life. It identifies the explanatory problem of how living organisation maintains and re-establishes continuity through change.
+
+This distinction matters for comparison with autopoiesis. Self-production and organised persistence are not simply competing definitions of the same concept. They arise within different explanatory architectures and may address overlapping but non-identical questions about biological continuity.
+
+APS therefore gives viability orientation an explicit role in its account of living organisation without treating that role as evidence that autopoietic or autonomy-based explanations are incomplete. Whether viability orientation provides additional explanatory purchase in a particular case is a question for target-matched comparative assessment.
+
+## Historical Continuity and Evolution
+
+Living organisation persists not only through immediate physiological and environmental change but across development, reproduction, and evolutionary history. These temporal extents raise questions about how biological organisation remains sufficiently continuous to persist while also undergoing transformation.
+
+APS addresses these questions through organised persistence. Organised persistence concerns how living organisation maintains and re-establishes continuity through change. It does not denote an additional substance or property of life, nor does it replace the APS definition of life as **viability-oriented, constraint-closed organisation**.
+
+Evolution introduces a further explanatory problem because biological continuity and biological transformation must be understood together. Organisms inherit forms of organisation that have been shaped historically, while variation, development, ecological interaction, and selection contribute to continuing evolutionary change. APS treats evolution as transformation of living organisation across historical time rather than as a process external to that organisation.
+
+This temporal emphasis distinguishes questions that APS makes explicit, but it does not establish that autopoietic or autonomy-based approaches are restricted to ahistorical self-maintenance. Nor does the fact that APS uses organised persistence to frame continuity through change demonstrate that other organisational approaches cannot explain development, reproduction, adaptation, or evolutionary transformation.
+
+The comparative question is therefore more specific: when APS and autopoietic or autonomy-based approaches address the same temporally extended biological explanandum, do their different formulations identify different dependencies, organise established evidence differently, or produce different explanatory results?
+
+That question cannot be settled from conceptual architecture alone. It requires target-matched comparative assessment.
+
+## The Relationship Between APS and Autopoiesis
+
+APS and autopoietic approaches share a substantial concern with living organisation. Both reject definitions of life based solely on material composition and direct attention toward the organisation through which living systems constitute and maintain themselves.
+
+Their relationship is nevertheless one of neither identity nor predetermined succession.
+
+Autopoiesis makes self-production, organisational unity, and the continuing constitution of the living system central explanatory concerns. Later autonomy approaches have developed related accounts involving closure, self-maintenance, regulation, normativity, agency, and organism–environment relations. These are substantive theoretical contributions rather than preliminary stages awaiting completion by APS.
+
+APS formulates living organisation differently. **Life is viability-oriented, constraint-closed organisation**, and **biological agency is viability-oriented organisational activity**. Within this account, biological normativity is viability-relative asymmetry, while organised persistence identifies the problem of how living organisation maintains and re-establishes continuity through change.
+
+Agency, Process, and Scale provide complementary analytic projections of this same organisation. Agency concerns what living systems do, Process concerns how continuity is maintained despite change, and Scale concerns where persistence is organised across spatial and temporal extents. They are not independent components, causes, dimensions, levels, or stages of biological organisation.
+
+These differences make APS distinguishable from autopoiesis and autonomy theory, but distinction does not establish explanatory superiority. APS should not be understood as simply incorporating autopoiesis, completing autonomy theory, or occupying the final stage of a progressive organisational account of life.
+
+Depending on the explanatory target, APS and autopoietic or autonomy-based approaches may overlap, complement one another, remain independent, compete, enter into tension, prove partly redundant, or favour one comparator over another. Their relationship must therefore be established through comparison rather than fixed in advance by the architecture of APS itself.
+
+APS may have potential foundational generality where living organisation itself is the explanatory target. That possibility does not give it universal explanatory authority, and it does not establish that APS provides the preferable explanation of living organisation. Demonstrated explanatory gain requires comparison with the strongest relevant alternatives addressing the same question.
+
+## Conclusion
+
+Autopoiesis changed biological thought by making the organisation through which living systems continuously constitute themselves an explicit theoretical problem. Its emphasis on self-production, organisational unity, and continuity through material turnover remains a substantive contribution to theoretical biology, while later autonomy approaches have developed related accounts of closure, self-maintenance, regulation, normativity, agency, and organism–environment relations.
+
+APS belongs within this broad landscape of organisational inquiry but is not identical with autopoiesis or autonomy theory. It defines life as **viability-oriented, constraint-closed organisation**, biological agency as **viability-oriented organisational activity**, and organised persistence as the explanatory problem of how living organisation maintains and re-establishes continuity through change.
+
+These differences matter. They allow APS to formulate particular questions about viability, organisation, continuity, and biological explanation in its own terms. But conceptual difference, explicitness, integration, or scope does not by itself establish greater explanatory power.
+
+The claim that life, as defined by APS, is not autopoiesis is therefore a claim of non-identity rather than a verdict against autopoietic explanation. Autopoiesis and autonomy theory remain serious comparators wherever they address the same explanatory targets.
+
+Whether APS provides explanatory gain over those approaches cannot be decided by arranging them into a historical or conceptual progression. It requires target-matched assessment of what each framework explains, which dependencies it identifies, how those claims are supported, and whether one account contributes something that the strongest alternative does not.
+
+The appropriate conclusion is therefore bounded: APS offers a distinctive organisational formulation of life, but the scientific comparative value of that formulation must be demonstrated rather than inferred from its architecture.
+
 ## Key Point
 
-Autopoiesis established that living systems are organisationally constituted and self-producing. APS accepts this insight but argues that life is more fully understood as viability-oriented organised persistence integrating self-production, regulation, agency, historical continuity, and evolutionary transformation.
+Autopoiesis and APS both make organisation central to understanding life, but they are not identical explanatory frameworks. APS defines life as **viability-oriented, constraint-closed organisation** and treats organised persistence as the problem of continuity through change. These differences establish a legitimate basis for comparison; they do not by themselves show that APS explains living organisation better than autopoietic or autonomy-based approaches.
+
+## Explanatory Architecture
+
+### Central Question
+
+How does APS differ from autopoietic and autonomy-based accounts of living organisation without treating those differences as evidence of explanatory superiority?
+
+### Architectural Role
+
+This article clarifies the relationship between APS and autopoietic approaches. It establishes a bounded non-identity claim: APS defines life as viability-oriented, constraint-closed organisation rather than identifying life with autopoiesis, while preserving autopoiesis and autonomy theory as substantive comparators in the explanation of living organisation.
+
+### Preceding Explanatory Dependencies
+
+Within the APS corpus, this clarification presupposes the established APS formulations of life, biological agency, viability, constraint closure, biological normativity, and organised persistence. These are dependencies within the architecture of APS explanation; their position in that architecture does not establish their scientific priority over alternative theoretical formulations.
+
+### Subsequent Explanatory Developments
+
+The distinctions established here support later APS investigations of biological autonomy, regulation, function, normativity, agency, development, evolution, cognition, and organised persistence. They also provide a controlled basis for comparing APS with other organisational approaches without assuming incorporation, succession, or explanatory hierarchy.
+
+### Related Explanatory Questions
+
+Related questions include how operational closure differs from constraint closure; how self-production relates to viability-oriented organisation; how autonomy and biological agency should be distinguished; how biological normativity is explained; and whether APS provides measurable explanatory gain when compared with autopoietic or autonomy-based accounts of the same biological phenomenon.
+
+### Position Within APS
+
+This article belongs to the comparative and clarificatory architecture of APS. It establishes that APS is not identical with autopoiesis while rejecting the inference that non-identity demonstrates superiority. Agency, Process, and Scale remain complementary analytic projections of one viability-oriented, constraint-closed organisation rather than independent components, causes, dimensions, levels, or hierarchy. Comparative explanatory gain remains a separate empirical and methodological question requiring target-matched assessment.

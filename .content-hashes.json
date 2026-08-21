@@ -1390,8 +1390,8 @@
     "lockedSince": "2026-04-27"
   },
   "articles/why-life-is-not-autopoiesis": {
-    "hash": "85de7494c5ee13d7",
-    "revised": "2026-08-10",
+    "hash": "5b50da8764a60ad2",
+    "revised": "2026-08-22",
     "lockedSince": "2026-04-27"
   },
   "glossary/autopoiesis": {
@@ -1913,5 +1913,10 @@
     "hash": "5172e43135664f0c",
     "revised": "2026-08-17",
     "lockedSince": "2026-08-17"
+  },
+  "articles/why-life-is-not-enactivism": {
+    "hash": "69c8e3e5d8c589e2",
+    "revised": "2026-08-22",
+    "lockedSince": "2026-04-27"
   }
 }
