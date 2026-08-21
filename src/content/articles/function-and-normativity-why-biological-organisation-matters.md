@@ -254,7 +254,7 @@ Mechanisms therefore acquire biological significance through their organisationa
 
 APS therefore does not oppose mechanistic biology. Rather, it situates mechanistic explanation within a broader organisational account of living systems. Mechanisms explain how functional activities are realised, while organisational explanation clarifies why those mechanisms together constitute the viability-oriented persistence of a living organism.
 
-[[box:aps-box-mechanisms-require-organisational-context]]
+[[box:aps-box-mechanism-and-organisational-context]]
 
 <div class="aps-diagram"> <a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-mechanism.png" alt="Mechanism within organised persistence" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Mechanism Within Organised Persistence.</strong> Mechanisms become biologically intelligible through their contribution to continuity-preserving viability-oriented organisation. </p> </div>
 

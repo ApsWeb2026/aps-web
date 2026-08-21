@@ -6,23 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-06-28
-
+revised: 2026-08-21
 cluster: artificial-systems-and-boundaries
 ---
 
-Recent work by Levin and Watson (2025) argues that traditional machine metaphors are inadequate for understanding living systems. They point out that organisms exhibit remarkable capacities for self-construction, adaptive plasticity, collective problem-solving, and goal-directed behaviour. These phenomena often appear difficult to reconcile with conventional views of organisms as collections of mechanistic parts.
+Recent work by Levin and Watson (2025) challenges traditional machine metaphors for living systems by emphasising capacities such as self-construction, adaptive plasticity, collective problem-solving, and goal-directed behaviour. Such work illustrates how far contemporary accounts can depart from the image of organisms as passive machines executing fixed instructions.
 
-APS agrees with this critique. Living systems cannot be adequately understood as passive machines executing fixed instructions. Organisms continuously regulate, repair, reorganise, and reconstruct themselves while interacting with changing environments. Their persistence depends upon ongoing activity directed toward maintaining the conditions required for continued existence.
+APS likewise does not identify living systems with passive, fixed-instruction machines. Organisms regulate, repair, reorganise, develop, and respond to changing conditions through ongoing biological activity. Within APS, these phenomena are investigated in relation to viability-oriented, constraint-closed organisation and the problem of organised persistence.
 
-However, APS differs from Levin and Watson in how these capacities are interpreted. Their proposal emphasises concepts such as cognition, intelligence, and problem-solving as foundational explanatory principles extending throughout biology. APS instead treats these phenomena as specialised expressions of a more fundamental biological organisation.
+The comparison should not, however, be converted into a claim that APS supplies a deeper biological explanation than approaches emphasising cognition, intelligence, problem-solving, or other forms of adaptive organisation. Nor does rejection of a simple machine metaphor establish limitations on mechanistic explanation.
 
-Within APS, the central explanatory sequence is:
+APS distinguishes biological agency from cognition. **Biological agency is viability-oriented organisational activity**, whereas cognition requires further organisational capacities. This distinction allows APS to investigate biological activity without defining life by cognition, intelligence, prediction, or problem-solving.
 
-Agency → Viability → Organised Persistence
-
-Agency identifies the activity through which living systems contribute to maintaining themselves. Viability identifies the organisational condition that this activity preserves. Organised persistence identifies the continuity achieved when viability is successfully maintained across time.
-
-From this perspective, many of the capacities described by Levin and Watson—adaptation, plasticity, regulation, self-repair, and problem-solving—are understood as manifestations of viability-oriented agency. Cognitive processes may contribute to these activities in some organisms, but cognition is not required for agency itself. Cells, tissues, organisms, and lineages can all participate in maintaining viability without necessarily exhibiting cognition in any conventional sense.
-
-APS therefore agrees that organisms are not adequately described as machines. Where it differs is in locating the foundation of biological organisation not in cognition alone, but in the viability-oriented agency through which living systems actively sustain organised persistence.
+These are differences in conceptual and explanatory architecture. Whether they produce substantive explanatory gain for APS, for an alternative account, or for neither cannot be determined from the differences themselves. Where the approaches address the same explanatory target, their relative contribution requires target-matched comparison.

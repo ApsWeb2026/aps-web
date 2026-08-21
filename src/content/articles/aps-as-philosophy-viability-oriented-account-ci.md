@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-08-10
+revised: 2026-08-21
 cluster: philosophy-of-biology
 role: anchor
 
@@ -329,7 +329,7 @@ This observation changes the focus of explanation. Instead of beginning exclusiv
 
 From this perspective, biological explanation is simultaneously analytic and synthetic. Analysis identifies components, mechanisms, pathways, and structures. Synthesis reveals the continuity-preserving relations through which those components acquire biological meaning. Neither mode of explanation is sufficient on its own. Analysis without synthesis fragments biological reality into disconnected parts. Synthesis without analysis loses empirical precision. Biological intelligibility depends upon their integration.
 
-[[box:aps-box-mechanisms-require-organisational-context]]
+[[box:aps-box-mechanism-and-organisational-context]]
 
 APS proposes that agency, process, and scale function as the foundational dimensions through which this integration occurs. Agency concerns the viability-oriented activities through which living systems maintain continuity. Process concerns the temporally organised transformations through which those activities are sustained and renewed. Scale concerns the distributed organisational relations across which those activities and transformations occur. Although analytically distinguishable, these dimensions are not independent explanatory modules. Each illuminates a different aspect of the same underlying phenomenon: viability-oriented organised persistence.
 

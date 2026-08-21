@@ -6,16 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-05-29
+revised: 2026-08-21
 cluster: philosophy-of-biology
 ---
 
-APS rejects the idea that explanation consists solely in reducing phenomena to smaller physical parts.
+APS does not identify biological explanation with the reduction of phenomena to smaller physical parts.
 
-Reduction can reveal important mechanisms and material processes, but biological intelligibility also depends on organisation, regulation, scale relations and continuity conditions.
+Reduction, decomposition, and material analysis can provide powerful explanatory resources, including the identification of components, mechanisms, interactions, and causal processes. Mechanistic explanation, however, should not itself be equated with reductionism: mechanisms may involve dynamically organised relations, regulation, feedback, environmental interaction, and processes extending across spatial and temporal extents.
 
-To explain a living system is not only to identify its components, but to understand how those components are organised so that viability is sustained across time.
+APS makes living organisation an explicit explanatory target. It investigates how biological activities relate to viability-oriented, constraint-closed organisation and to the maintenance and re-establishment of organised persistence through change.
 
-Organisation is therefore explanatorily real.
+This does not imply that every adequate biological explanation must include an APS organisational account, or that mechanistic explanations become intelligible only when placed within APS. For particular explananda, mechanistic, reductive, organisational, or other explanatory approaches may make different and potentially sufficient contributions.
 
-APS does not oppose mechanism or material analysis. Instead, it argues that biological explanation requires understanding how mechanisms participate in continuity-preserving organised persistence.
+Where APS and another approach address the same explanatory target, their relative explanatory contribution must be assessed rather than inferred from the distinction between organisation and reduction.

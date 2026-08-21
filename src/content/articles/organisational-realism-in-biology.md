@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-07-28
+revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
@@ -239,7 +239,7 @@ APS therefore avoids dissolving biological reality into microphysical descriptio
 
 This perspective allows APS to integrate insights from mechanistic, processual, ecological, developmental, and systems-oriented approaches without reducing any one of them to explanatory primacy. Biological reality becomes intelligible through the interaction of agency, process, scale, adaptation, perturbation, evaluation, semiosis, and persistence. The explanatory task is therefore not to choose between parts and wholes, but to understand how organisational continuity emerges through their ongoing interaction.
 
-[[box:aps-box-mechanisms-require-organisational-context]]
+[[box:aps-box-mechanism-and-organisational-context]]
 
 <div class="aps-diagram aps-diagram-large">
 

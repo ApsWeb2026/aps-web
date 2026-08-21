@@ -6,18 +6,18 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-05-29
+revised: 2026-08-21
 cluster: philosophy-of-biology
 ---
 
 In APS, biological normativity does not originate from external rules, abstract ideals, social conventions, or imposed purposes.
 
-Normativity emerges from the organisation of living systems themselves.
+APS understands biological normativity as **viability-relative asymmetry**. Conditions, processes, and outcomes are not equivalent for a living system: some support the maintenance or re-establishment of viable organisation, while others impair, threaten, or disrupt it.
 
-Because organisms must continuously maintain viability in changing conditions, some states, processes and outcomes contribute to persistence while others undermine it. This generates an internal distinction between what supports continued existence and what threatens breakdown or loss of viability.
+This asymmetry is endogenous to living organisation. It does not require an external observer to assign standards of success and failure, nor does it require conscious judgement or moral evaluation.
 
-Normativity therefore arises from the requirements of organised persistence.
+Function, malfunction, and biological evaluation can be investigated in relation to this viability-relative asymmetry without being treated as interchangeable concepts. Within APS, function concerns present-tense viability-relative organisational contribution, while Biological Evaluation is the process through which agency generates significance.
 
-Functions are normative because they contribute to viability. Malfunctions matter because they compromise continuity. Evaluation exists because living systems must continuously assess conditions relative to persistence.
+Organised persistence identifies the explanatory problem of how living organisation maintains and re-establishes continuity through change. It should not be treated as a separate source from which normativity is derived.
 
-APS therefore interprets biological normativity as endogenous: generated within the organisation of life itself rather than imposed from outside it.
+APS therefore interprets biological normativity as endogenous to viability-oriented, constraint-closed organisation: differences matter biologically because their consequences for viable organisation are materially unequal.

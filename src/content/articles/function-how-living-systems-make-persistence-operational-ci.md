@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-25
-revised: 2026-07-27
+revised: 2026-08-21
 cluster: conceptual-foundations
 role: core
 
@@ -320,7 +320,7 @@ In APS, function is the continuity-preserving organisational role through which 
 
 [[box:aps-box-function-is-contribution-to-viability]]
 
-[[box:aps-box-mechanisms-require-organisational-context]]
+[[box:aps-box-mechanism-and-organisational-context]]
 
 # Beyond Mechanism and History
 
