@@ -1,35 +1,35 @@
 ---
 date: 2026-05-28
+type: article
 title: "Why Life Is Not Information Processing"
 slug: why-life-is-not-information-processing
-type: article
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-29
+canonicalLockDate: 2026-05-28
 revised: 2026-08-21
 cluster: philosophy-of-biology
 
 abstract: >
-  Information processing is often treated as the defining feature of life,
-  especially in computational biology, cognitive science, cybernetics,
-  systems theory, neuroscience, and artificial intelligence. APS accepts the
-  scientific importance of informational approaches while rejecting the claim
-  that information processing either defines or fundamentally explains life
-  itself. Informational relations become biologically meaningful only within
-  viability-oriented systems already engaged in maintaining organised
-  persistence across time. APS therefore situates information processing
-  within a broader continuity-oriented explanatory framework centred on
-  viability, evaluation, semiosis, meaning, function, normativity,
-  temporality, and continuity-preserving biological organisation.
+  Information-processing approaches provide important explanatory resources
+  across molecular biology, neuroscience, systems biology, cognitive science,
+  cybernetics, and related fields. APS rejects the stronger identity claim
+  that information processing by itself defines life. APS instead defines
+  life as viability-oriented, constraint-closed organisation and treats
+  organised persistence as the problem of how that organisation maintains
+  and re-establishes continuity through change. This article distinguishes
+  informational explanation from the APS account of living organisation
+  without assuming that informational approaches are merely descriptive,
+  derivative, or explanatorily subordinate. Where the approaches address the
+  same explanatory target, comparative gain requires target-matched assessment.
 
 keyPoints:
-  - Living systems process information, but life is not fundamentally information processing.
-  - Informational relations become biologically meaningful only within viability-oriented organised persistence.
-  - Information is organisationally derivative rather than explanatorily foundational.
-  - Evaluation, semiosis, meaning, and normativity presuppose continuity-preserving biological organisation.
-  - Informational coordination is mechanistically realised within organised persistence.
-  - Information-processing systems can exist without being biologically alive.
-  - Biological organisation depends upon continuity-preserving viability-oriented persistence rather than informational abstraction alone.
+  - Information-processing approaches provide substantive explanations of signalling, coordination, regulation, learning, communication, and other biological phenomena.
+  - APS does not define life as information processing.
+  - APS defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of continuity through change.
+  - Information, biological significance, semiosis, representation, cognition, and meaning are distinct concepts within APS.
+  - APS may investigate relations among viability, evaluation, significance, and information without treating their conceptual ordering as an established dependency.
+  - Informational explanations may be sufficient or preferable for particular biological targets.
+  - Comparative explanatory gain requires target-matched assessment rather than inference from conceptual architecture.
 
 relatedGlossaryTerms:
   - information
@@ -41,8 +41,6 @@ relatedGlossaryTerms:
   - biological-agency
   - viability
   - persistence
-  - continuity
-  - temporality
   - representation
   - cognition
   - process
@@ -55,15 +53,12 @@ relatedArticles:
   - semiosis-how-differences-come-to-matter-in-living-systems
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - function-and-normativity-why-biological-organisation-matters
-  - representation-when-and-whether-it-arises-in-biological-systems
-  - cognition-where-does-it-belong-in-biology
-  - why-life-is-not-intelligence-an-aps-clarification
-  - why-ai-is-not-biological-agency
-  - why-life-is-not-active-inference
+  - purpose-the-organisation-of-viability-oriented-activity
   - biological-causation-from-mechanism-to-organised-persistence
   - why-life-is-not-a-machine
   - explanatory-priority-is-not-ontological-priority
-  - organisational-realism-in-biology
+  - why-life-is-not-active-inference
+  - why-ai-is-not-biological-agency
   - aps-and-contemporary-theories
 
 researchStreams: []
@@ -75,11 +70,11 @@ references:
     title: "A Mathematical Theory of Communication"
     journal: "Bell System Technical Journal"
     volume: "27"
-    pages: "379â€“423, 623â€“656"
+    pages: "379–423, 623–656"
     doi: "10.1002/j.1538-7305.1948.tb01338.x"
 
   - id: schrodinger1944
-    authors: "SchrÃ¶dinger, E."
+    authors: "Schrödinger, E."
     year: 1944
     title: "What Is Life?"
     publisher: "Cambridge University Press"
@@ -96,7 +91,7 @@ references:
     title: "The Concept of Information in Biology"
     journal: "Philosophy of Science"
     volume: "67"
-    pages: "177â€“194"
+    pages: "177–194"
     doi: "10.1086/392768"
 
   - id: deacon2011
@@ -112,7 +107,7 @@ references:
     publisher: "Cambridge University Press"
 
   - id: walker-davies2013
-    authors: "Walker, S. I., & Davies, P. C. W."
+    authors: "Walker, S. I. and Davies, P. C. W."
     year: 2013
     title: "The Algorithmic Origins of Life"
     journal: "Journal of the Royal Society Interface"
@@ -120,25 +115,19 @@ references:
     pages: "20120869"
     doi: "10.1098/rsif.2012.0869"
 
-  - id: moreno-mossio2015
-    authors: "Moreno, A., & Mossio, M."
+  - id: moreno-mossio-2015
+    authors: "Moreno, A. and Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
 
-  - id: bechtel2008
+  - id: bechtel-2008
     authors: "Bechtel, W."
     year: 2008
     title: "Mental Mechanisms"
     publisher: "Routledge"
 
-  - id: thompson2007
-    authors: "Thompson, E."
-    year: 2007
-    title: "Mind in Life"
-    publisher: "Harvard University Press"
-
-  - id: spencer2026
+  - id: spencer-2026
     authors: "Spencer, R. D."
     year: 2026
     title: "Agency as the Defining Activity of Life"
@@ -146,434 +135,221 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Why Life Is Not Information Processing
+## Introduction: Why Life Is Not Information Processing
 
-> **Where this article fits:** This article clarifies why APS does not treat information processing as the defining basis of life. Living systems clearly process information, but informational relations become biologically meaningful only within systems already organised around viability-oriented organised persistence. APS therefore situates information processing downstream from evaluation, semiosis, meaning, normativity, and continuity-preserving biological organisation rather than treating information as explanatorily foundational.
+Across biology, neuroscience, cognitive science, cybernetics, systems theory, and artificial intelligence, it has become increasingly common to describe living systems as information processors. Cells detect signals, organisms respond to environmental differences, neural systems transform sensory inputs, genomes are described in informational terms, cognition is modelled computationally, and behaviour may be analysed through the processing and transmission of signals. From this perspective, biological organisation can be investigated in terms of acquiring and processing information, coordinating responses, storing instructions, and transmitting consequential differences within and between systems.
 
-Across biology, neuroscience, cognitive science, cybernetics, systems theory, and artificial intelligence, it has become increasingly common to describe living systems as information processors.
+Informational approaches have been scientifically powerful and extraordinarily productive, and APS fully recognises their importance within biology. They provide substantive explanatory resources for understanding many aspects of signalling, regulation, coordination, communication, learning, cognition, and adaptive responsiveness.
 
-Cells detect signals.
+APS nevertheless rejects the stronger identity claim that information processing by itself constitutes the APS definition of life. Living systems may process, transmit, transform, and respond to information, but APS defines life as viability-oriented, constraint-closed organisation. This establishes a difference in explanatory architecture rather than a verdict about comparative explanatory adequacy. Whether informational approaches can also provide substantive explanations of living organisation, and whether either approach provides explanatory gain where their targets coincide, are separate comparative questions.
 
-Organisms respond to environmental differences.
+## Different Explanatory Architectures
 
-Neural systems transform sensory inputs.
+Informational approaches encompass a heterogeneous range of explanatory practices involving signalling, coding, communication, computation, representation, regulation, information flow, and related concepts. These approaches need not assign the same theoretical status to information, nor need they treat information processing as the defining principle of life.
 
-Genomes are described as informational codes.
+APS organises its account differently. It defines life as viability-oriented, constraint-closed organisation and distinguishes biological evaluation, biological significance, semiosis, information, representation, cognition, and meaning within its own explanatory architecture.
 
-Cognition is modelled as computation.
+These differences do not establish that informational concepts are explanatorily downstream of APS concepts, nor that viability, evaluation, or semiosis are universally prior to information. Where APS proposes necessary, asymmetric, or ordering relations among these phenomena, those relations should be treated as proposed Dependency Hypotheses requiring assessment rather than as consequences established by the architecture itself.
 
-Behaviour is interpreted as signal processing.
+The relevant comparative question is therefore not which vocabulary or architecture is more fundamental, but what explanatory work each performs for a specified biological target. Depending upon the target, informational and APS explanations may overlap, complement one another, remain independent, enter into tension, prove redundant, or provide differently distributed explanatory gain.
 
-From this perspective, life appears fundamentally organised around:
-- acquiring information;
-- processing signals;
-- coordinating responses;
-- storing instructions;
-- and transmitting differences across systems.
-
-These frameworks have been scientifically powerful and extraordinarily productive.
-
-APS fully accepts the importance of informational approaches within biology.
-
-However, APS rejects the stronger claim that information processing either defines or fundamentally explains life itself.
-
-Living systems process information.
-
-But life is not fundamentally information processing.
-
-[[box:aps-box-viability-grounds-evaluation]]
-
-[[box:aps-box-semiosis-is-operational]]
-
-# The Central APS Reversal
-
-APS argues that informational relations become biologically meaningful only within systems already organised around viability-oriented organised persistence.
-
-This reverses a common explanatory assumption.
-
-Informational approaches often implicitly treat:
-- information;
-- coding;
-- signalling;
-- representation;
-- computation;
-- or prediction
-
-as foundational explanatory primitives.
-
-APS instead argues that:
-- viability-oriented organisation;
-- continuity-preserving persistence;
-- evaluation;
-- semiosis;
-- meaning;
-- and normativity
-
-are explanatorily prior.
-
-Informational organisation therefore occupies a downstream position within biological organisation.
-
-Within APS, the organisational sequence is approximately:
-
-```text
-viability
-â†“
-evaluation
-â†“
-semiosis
-â†“
-meaning
-â†“
-informational coordination
-â†“
-representation
-â†“
-cognition
-
-Living systems do not exist because they process information.
-
-Rather, informational relations become biologically significant because living systems already exist as continuity-maintaining systems whose persistence depends upon differentiating conditions relative to viability.
-
-<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-semiosis.png" alt="Semiosis and information within viability-oriented organisation" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Semiosis Before Information Processing.</strong> Informational coordination emerges only within already meaningful systems organised through viability-oriented evaluation and continuity-preserving persistence. </p> </div>
-Why Informational Models Became Influential
+## The Explanatory Contribution of Informational Approaches
 
 Informational approaches became influential because they successfully explain many important biological phenomena.
 
 They illuminate:
 
-signal transduction;
-neural communication;
-sensory coordination;
-adaptive responsiveness;
-distributed regulation;
-behavioural flexibility;
-learning;
-prediction;
-and communication.
+- signal transduction,
+- neural communication,
+- sensory coordination,
+- adaptive responsiveness,
+- distributed regulation,
+- behavioural flexibility,
+- learning,
+- prediction,
+- and communication.
 
-Informational frameworks therefore transformed:
+Informational frameworks have consequently transformed molecular biology, neuroscience, systems biology, cybernetics, cognitive science, and computational modelling.
 
-molecular biology;
-neuroscience;
-systems biology;
-cybernetics;
-cognitive science;
-and computational modelling.
+APS recognises these as substantive explanatory achievements rather than merely informational descriptions of processes whose real explanation must be supplied elsewhere.
 
-APS fully accepts the scientific importance of these achievements.
+Informational approaches may provide sufficient or preferable explanations for particular biological targets, including aspects of signalling, regulation, coordination, communication, learning, and adaptive responsiveness. Such explanations do not require reconstruction through APS merely because APS organises its own account around living organisation.
 
-Where organised living systems already exist, informational approaches can explain:
+Where informational approaches and APS address different explanatory questions, no direct competition need follow. Where they address the same target, their relative explanatory contribution requires target-matched comparison.
 
-how signals propagate;
-how coordination occurs;
-how regulatory systems interact;
-and how organisms dynamically respond to changing conditions.
+## Information and Living Organisation
 
-APS therefore does not reject informational description.
+Informational processes in biology occur within materially organised systems possessing structures, boundaries, regulatory relations, and capacities for differential responsiveness. Informational approaches can investigate these relations in their own terms and may provide substantive explanations of signalling, regulation, coordination, communication, development, cognition, and other biological phenomena.
 
-It clarifies its explanatory scope.
+APS approaches living organisation through a different explanatory architecture. It defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of how that organisation maintains and re-establishes continuity through change. Within this account, informational activity may participate in the organisation through which living systems regulate their conditions and respond to consequential differences.
 
-Information Presupposes Organised Persistence
+APS may therefore ask whether particular forms of biological information depend upon maintained viability, biological evaluation, significance, semiosis, or other organisational relations. These are legitimate questions about biological dependency, but their answers cannot be inferred simply from the position assigned to information within APS architecture.
 
-To process information, a system must already exist as an organised continuity-maintaining system.
+Where APS proposes that a particular informational relation depends upon specified organisational conditions, that relation should be treated as a Dependency Hypothesis requiring biological and comparative assessment. Informational approaches may themselves explain boundaries, regulation, signalling, persistence, and organism–environment relations through different conceptual and empirical resources.
 
-It must:
+The comparative question is therefore not whether information must be placed inside APS, but what each explanatory architecture contributes when the biological target is genuinely shared.
 
-maintain organisational boundaries;
-regulate internal conditions;
-sustain differential responsiveness;
-preserve continuity across time;
-and maintain viability under changing conditions.
+## Information and Biological Significance
 
-These conditions are not generated by information processing itself.
+APS distinguishes information from biological significance. Biological Evaluation is the process through which agency generates significance: differences acquire biological significance insofar as they bear upon viability within living organisation.
 
-They are preconditions for information processing to occur at all.
+[[box:aps-box-viability-grounds-evaluation]]
 
-APS therefore asks a prior explanatory question:
+Information may participate in signalling, coordination, regulation, communication, development, cognition, and other forms of biological activity. APS does not therefore identify information with significance, nor does it assume that every informational relation is biologically significant in the same way.
 
-What makes there be a viability-oriented continuity-maintaining organisation within which informational relations can become biologically meaningful?
+Within APS, some informational relations may be interpreted through biological evaluation and significance. A signal, molecular difference, environmental condition, or internal state may matter biologically because of the consequences it has for viability-oriented activity. This provides an APS account of how informational relations can be situated within living organisation.
 
-Informational theories typically begin after organised systems already exist.
+It does not establish that information as a scientific explanatory concept is universally derivative of APS organisation, nor that informational approaches cannot independently explain biologically important relations. Whether information and biological significance coincide, overlap, or identify different explanatory relations depends upon the target and the concepts being employed.
 
-APS instead investigates the organisational conditions making such systems possible.
+The distinction is therefore conceptual before it is comparative: information and biological significance should not be treated as synonyms, but their difference alone establishes no explanatory hierarchy.
 
-Information Is Organisationally Derivative
+## Evaluation, Significance, Semiosis, Information, and Meaning
 
-APS argues that information is organisationally derivative rather than explanatorily foundational.
+APS distinguishes biological evaluation, biological significance, semiosis, information, representation, cognition, and meaning because these concepts identify different relations within its explanatory architecture.
 
-A signal becomes biologically informative only if:
+Biological Evaluation is the process through which agency generates significance. Biological significance concerns viability-relative differences that matter within living organisation. Semiosis concerns the operational use of signs through which significant differences can participate in the modulation of activity. Information may characterise structured differences, signalling relations, coordination, communication, or other processes, depending upon the explanatory context.
 
-it contributes to viability-oriented regulation;
-it participates in continuity-preserving organisation;
-it matters relative to persistence conditions;
-and it can be integrated into ongoing biological activity.
+[[box:aps-box-semiosis-is-operational]]
 
-Without viability-oriented organised persistence there is no biologically meaningful sense in which information exists for a system.
+These distinctions do not require information to be identified with representation or cognition. Representation is not assumed to occur wherever information is processed, and cognition is not reducible to information processing alone. Within APS, biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-Information therefore does not generate biological organisation independently.
+Meaning should likewise not be collapsed into biological significance. Biological significance can occur wherever viability-relative differences are generated through biological evaluation; meaning belongs to richer organisation of significance and should not function as a synonym for every difference that matters biologically.
 
-Continuity-preserving biological organisation makes information operationally possible and biologically meaningful.
+These are distinctions within APS's explanatory grammar. They do not establish a universal causal or temporal sequence from evaluation through significance, semiosis, information, representation, cognition, and meaning. Nor does the fact that informational approaches organise these concepts differently demonstrate their explanatory inadequacy.
 
-[[box:aps-box-meaning-develops-from-evaluative-significance]]
+Where APS proposes dependencies among these phenomena, those dependencies require assessment rather than following automatically from their conceptual arrangement.
 
-<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-endogenous-normativity.png" alt="Endogenous normativity and informational meaning" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Evaluation Before Information.</strong> Informational significance emerges only within viability-oriented systems already capable of endogenous evaluation and continuity-preserving organisation. </p> </div>
-Evaluation, Semiosis, and Meaning
+## Information and Biological Normativity
 
-APS distinguishes:
+APS distinguishes biological normativity from information, coding, representation, and signalling. Within APS, normativity consists in viability-relative asymmetry: conditions and activities differ according to how they bear upon the maintenance and re-establishment of living organisation.
 
-evaluation;
-semiosis;
-meaning;
-information;
-and information processing
+Informational processes may participate in such relations. Signals can indicate consequential conditions, regulatory systems can respond selectively to differences, and informational organisation can contribute to activities affecting viability. Informational approaches may explain these phenomena through concepts such as coding, signalling, control, representation, probability, communication, or information flow.
 
-because these are not identical organisational phenomena.
+APS interprets normativity through viability-oriented organisation rather than identifying it with informational structure alone. This is a substantive APS position, but its difference from informational formulations does not by itself establish comparative explanatory superiority.
 
-Evaluation modulates activity relative to viability conditions.
+The relevant question is whether APS and informational approaches identify the same biological relations in different terms, partially overlapping relations, or substantively different explanatory dependencies. That question requires target-matched comparison.
 
-Semiosis structures meaningful differentiation within that evaluative activity.
+APS therefore retains its viability-relative account of biological normativity while leaving open the explanatory contribution of informational alternatives.
 
-Meaning concerns the biological significance differentiated conditions acquire within organised persistence.
+## Information Processing and Self-Maintaining Organisation
 
-Information processing concerns the organised coordination of such meaningful differences within continuity-maintaining activity.
+Living systems engage in activities involved in maintaining and re-establishing their organisation under changing conditions. These may include regulation, repair, metabolic coordination, developmental reorganisation, adaptive response, and other forms of self-maintaining activity.
 
-APS therefore rejects the tendency to collapse:
+Information-processing approaches can contribute substantive explanations of many of these phenomena. Informational relations may participate in signalling damage, coordinating repair, regulating physiological variables, organising developmental responses, or modulating behaviour under changing conditions.
 
-signalling;
-responsiveness;
-cognition;
-representation;
-and information
+APS characterises the living organisation within which such activities occur as viability-oriented and constraint-closed. Organised persistence concerns how that organisation maintains and re-establishes continuity through change. Information processing may contribute to explanations of organised persistence without being identical with either organised persistence or the APS definition of life.
 
-into one undifferentiated informational framework.
+The presence of sophisticated information processing is therefore not, by itself, sufficient to satisfy the APS definition of life. Conversely, this non-identity does not establish that informational explanation is incapable of explaining particular aspects of self-maintaining biological organisation.
 
-Informational coordination emerges only within already existing organisational relations grounded in viability-oriented persistence.
+Whether APS or an informational approach provides greater explanatory discrimination for a particular target requires direct comparison rather than inference from their different architectures.
 
-Information Is Not Biological Normativity
+## Information and Mechanistic Realisation
 
-Informational frameworks often attempt to explain biological significance through:
+Informational processes in biological systems are materially realised through biological mechanisms. Neural activity, metabolic signalling, gene regulation, developmental processes, immune coordination, sensory systems, and behaviour can all participate in informational relations while also being investigated mechanistically.
 
-representation;
-coding;
-signalling;
-optimisation;
-or internal modelling.
+Informational and mechanistic explanations need not be competitors. A biological phenomenon may be explained through the mechanisms that produce it, the informational relations those mechanisms realise, the dynamical organisation in which they participate, or combinations of these approaches. Which explanation is appropriate depends upon the explanandum and the explanatory question.
 
-APS rejects this explanatory reversal.
+APS interprets such processes in relation to living organisation and may investigate how their contributions bear upon viability and organised persistence. This does not make mechanistic or informational explanation merely local, descriptive, or incomplete. For particular biological targets, either may provide a sufficient or preferable explanation without reconstruction through APS.
 
-In living systems, normativity emerges because viability-oriented continuity can succeed or fail.
+APS therefore rejects the identity claim that informational or mechanistic characterisation by itself constitutes its definition of life while preserving the explanatory autonomy of mechanistic, informational, computational, and related biological approaches where warranted.
 
-Some organisational states preserve persistence.
+Where APS, mechanistic explanation, and informational explanation address the same target, their respective explanatory contributions must be established comparatively rather than assigned in advance.
 
-Others destabilise continuity and threaten organisational collapse.
+## Information Processing Without Biological Life
 
-Processes therefore become:
+Artificial and engineered systems can perform sophisticated forms of information processing, optimisation, communication, learning, and adaptive coordination. Such capacities demonstrate that information processing is not confined to biological systems.
 
-functional or dysfunctional;
-adaptive or maladaptive;
-stabilising or destabilising
+These capacities do not by themselves satisfy the APS definition of life as viability-oriented, constraint-closed organisation. An artificial system may process signals, transform information, learn from inputs, coordinate responses, or exhibit adaptive behaviour without thereby meeting the organisational criteria by which APS characterises a living system.
 
-relative to viability-oriented organised persistence.
+This establishes a non-identity point rather than a general verdict about informational explanation. Information-processing capacity alone is not sufficient, by APS criteria, to classify a system as living. Whether particular artificial, engineered, or synthetic systems could instantiate living organisation requires separate assessment.
 
-Information may participate in these relations, but it does not generate their biological significance.
+The existence of non-living information-processing systems therefore supports a distinction between information processing and the APS concept of life. It does not establish that informational approaches are incapable of explaining living organisation or particular biological phenomena.
 
-Biological significance is grounded in:
+## Informational Description Is Not Informational Ontology
 
-evaluation;
-semiosis;
-meaning;
-normativity;
-and organised persistence
+The scientific success of informational concepts does not by itself establish that life is ontologically identical with information processing.
 
-rather than in coding or representation alone.
+Biologists may successfully explain phenomena through information flow, signalling, coding, communication, computation, representation, or related concepts without thereby committing themselves to the claim that living systems are fundamentally nothing more than information-processing systems. Explanatory usefulness and ontological identity are different claims.
 
-Information Processing Does Not Sustain Itself
+The same caution applies to APS. The fact that APS organises biological questions around viability-oriented, constraint-closed organisation does not by itself establish that its architecture is ontologically or explanatorily superior to informational alternatives.
 
-Information processing describes transformations of signals.
+The appropriate question is therefore not whether informational language is legitimate, but what explanatory and ontological commitments are actually being made in a particular account. Informational explanations may remain scientifically adequate even where APS rejects an identity between information processing and life.
 
-It does not explain how systems:
+Successful informational explanation therefore does not by itself establish the stronger ontological claim that living organisation is fundamentally information processing.
 
-maintain organisational integrity;
-repair damage;
-regulate continuity;
-reorganise under perturbation;
-preserve viability;
-or sustain persistence through their own activity.
+## Information Processing and the APS Explanatory Grammar
 
-A system could process information perfectly and still not be biologically alive if:
+APS and informational approaches can be compared without treating either as contained within, reducible to, or automatically completed by the other.
 
-its organisation were externally maintained;
-its persistence did not depend upon its own activity;
-or failure carried no intrinsic organisational consequences.
+APS defines life as viability-oriented, constraint-closed organisation and examines biological agency, organised persistence, evaluation, significance, semiosis, information, cognition, and related phenomena through its own explanatory grammar. Agency, Process, and Scale are complementary analytic projections of this one organisation: Agency concerns what living systems do, Process concerns how continuity is maintained despite change, and Scale concerns where persistence is organised across spatial and temporal extents.
 
-Living systems differ because their own continued existence is biologically at stake in their activity.
+Informational approaches employ a heterogeneous range of concepts involving signals, coding, communication, computation, representation, information flow, uncertainty, coordination, and regulation. Depending upon the question, these concepts may provide substantive and sufficient biological explanations without reconstruction through APS.
 
-Continuity-preserving organised persistence is therefore explanatorily prior to information processing.
+APS may situate informational activity within its account of living organisation, but this APS-internal placement does not establish that information-processing approaches are explanatorily subordinate to APS. Nor does APS's broader integration of biological concepts establish comparative gain merely through conceptual breadth or coherence.
 
-Information and Mechanistic Realisation
+Where APS and informational approaches address different explanatory targets, their contributions need not compete. Where their targets coincide, the relationship may involve overlap, complementarity, independence, tension, redundancy, APS-favouring gain, information-framework-favouring gain, or a qualified or null result.
 
-APS does not reject mechanistic biology.
+Comparative preference therefore requires target-matched assessment rather than inference from the architecture of either framework.
 
-Informational coordination is mechanistically realised.
+## Conclusion
 
-Neural systems,
-metabolic signalling,
-developmental regulation,
-immune coordination,
-and behavioural responsiveness
+Information-processing approaches provide important explanatory resources across contemporary biology, neuroscience, cognitive science, cybernetics, systems biology, and related fields. They can illuminate signalling, regulation, coordination, communication, computation, learning, representation, and other forms of biological activity.
 
-all involve organised mechanistic processes.
+APS does not define life as information processing. It defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of how that organisation maintains and re-establishes continuity through change.
 
-However, mechanisms themselves become biologically meaningful only within continuity-maintaining organisation.
+This establishes a conceptual distinction, not a general verdict against informational explanation. Informational approaches may provide sufficient or preferable explanations of particular biological phenomena, and some may address aspects of living organisation itself.
 
-Mechanistic informational processes therefore do not independently explain life.
+APS likewise distinguishes information from biological significance, semiosis, representation, cognition, and meaning without assuming that these distinctions establish a universal causal or explanatory sequence. Proposed dependencies among them require assessment rather than following automatically from their arrangement within APS.
 
-They participate within larger systems organised around viability-oriented persistence across time.
+Where APS and informational approaches address different explanatory targets, both may remain adequate for their respective questions. Where they address the same target, comparative explanatory gain requires target-matched assessment.
 
-APS consequently preserves:
+Life is therefore not, within APS, defined as information processing. Whether APS provides a better explanation of living organisation than informational alternatives remains an open comparative question.
 
-mechanistic explanation;
-informational modelling;
-computational analysis;
-and systems biology
+## Key Point
 
-while rejecting informational reductionism.
+APS does not define life as information processing. It distinguishes viability-oriented, constraint-closed organisation from informational activity while recognising that informational approaches provide substantive biological explanations. Information processing alone does not satisfy the APS definition of life, but this non-identity does not establish that informational approaches are explanatorily inferior or incapable of explaining living organisation. Where explanatory targets coincide, comparative gain requires target-matched assessment.
 
-Information Without Life
+## Explanatory Architecture
 
-Modern technology provides many examples of highly sophisticated information-processing systems:
+### Central Question
 
-computers executing programs;
-optimisation systems;
-communication networks;
-adaptive robotics;
-predictive algorithms;
-and large language models.
+How does the APS account of life as viability-oriented, constraint-closed organisation differ from information-processing approaches to biological organisation, and what comparative significance follows from that difference?
 
-These systems may:
+### Architectural Role
 
-process enormous quantities of information;
-optimise outputs;
-simulate agency;
-generate complex responses;
-and adapt dynamically to changing conditions.
+This clarification article establishes a non-identity claim: APS does not define life as information processing. It does not establish that informational approaches are merely descriptive, derivative, or incapable of explaining living organisation. Where APS and informational approaches address the same explanatory target, comparative adequacy requires target-matched assessment.
 
-Yet they are not biologically alive.
+### Preceding Explanatory Dependencies
 
-They do not:
+These identify relations within the APS corpus rather than established biological or comparative dependencies:
 
-sustain themselves as viability-oriented systems;
-maintain organised persistence for their own sake;
-preserve endogenous continuity;
-generate biological normativity;
-or undergo existential breakdown when informational coordination fails.
+- What Is APS?
+- APS and Contemporary Theories
+- Information in Biology
+- Biological Evaluation
+- Biological Significance
+- Semiosis
+- Organised Persistence
+- Biological Agency
+- Explanatory Priority Is Not Ontological Priority
 
-This demonstrates that information processing alone is insufficient for life.
+### Subsequent Explanatory Developments
 
-Informational sophistication does not itself explain biological organisation.
+- Why Life Is Not Computation
+- Why Life Is Not Active Inference
+- Representation — When and Whether It Arises in Biological Systems
+- Cognition — Where Does It Belong in Biology?
+- Why AI Is Not Biological Agency
+- Comparative Explanatory Methodology in Theoretical Biology
 
-Informational Description Is Not Informational Ontology
+### Related Explanatory Questions
 
-APS distinguishes carefully between:
+- When do APS and informational approaches address genuinely matched explanatory targets?
+- How should biological information be distinguished from biological significance?
+- What relations connect information, semiosis, representation, cognition, and meaning?
+- Which proposed dependencies among viability, evaluation, significance, and information require empirical assessment?
+- When does informational explanation provide gain over APS, or APS over informational alternatives?
 
-informational description;
-and:
-informational ontology.
+### Position Within APS
 
-Informational models may provide extremely useful descriptions of:
-
-signalling;
-communication;
-coordination;
-prediction;
-and regulation.
-
-But usefulness of description does not establish that life fundamentally is information processing.
-
-APS therefore rejects the inference:
-
-from informational modelling;
-to:
-informational ontology.
-
-Biological organisation cannot be reduced to informational abstraction because information itself depends upon continuity-maintaining viability-oriented organisation.
-
-Information Processing and Artificial Intelligence
-
-Contemporary AI systems further clarify this distinction.
-
-Artificial systems may:
-
-process information;
-optimise predictions;
-coordinate responses;
-simulate cognition;
-and generate sophisticated outputs.
-
-APS fully recognises these capacities.
-
-However, informational sophistication alone does not constitute biological organisation.
-
-Current AI systems overwhelmingly remain:
-
-externally maintained;
-externally powered;
-externally repaired;
-and externally scaffolded optimisation systems.
-
-Their informational coordination does not itself sustain endogenous viability-oriented organised persistence.
-
-APS therefore distinguishes sharply between:
-
-informational sophistication;
-and:
-biological agency.
-
-This clarification is developed further in:
-
-Why AI Is Not Biological Agency;
-Why Life Is Not Intelligence;
-and Why Life Is Not Active Inference.
-The APS Perspective
-
-APS situates information processing within a broader continuity-oriented explanatory framework.
-
-In APS:
-
-viability-oriented organisation is explanatorily primary;
-continuity-preserving persistence stabilises organisation across time;
-evaluation modulates activity relative to viability;
-semiosis structures meaningful differentiation;
-meaning emerges through evaluative organisation;
-information processing coordinates meaningful differences within organised activity;
-and cognition develops through increasingly integrated forms of such organisation.
-
-Information is therefore one organisational aspect of living systems rather than the defining basis of life itself.
-
-<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-clarification-map.png" alt="APS clarification map" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>APS Clarification Map.</strong> APS situates information processing within viability-oriented organised persistence rather than treating informational coordination as the foundational basis of life itself. </p> </div>
-Conclusion
-
-Living systems clearly process information.
-
-APS fully recognises the scientific importance of informational approaches.
-
-However, informational relations become biologically meaningful only within systems already organised around viability-oriented organised persistence.
-
-Information processing describes how organised living systems coordinate meaningful differences.
-
-It does not explain:
-
-why living systems exist as continuity-maintaining organisations;
-how biological normativity emerges;
-why some differences matter biologically;
-or how systems sustain themselves across changing conditions.
-
-These questions require explanation in terms of viability-oriented organised persistence itself.
-
-Life is not fundamentally information processing.
-
-Information processing is one of the ways organised living systems regulate and preserve continuity across time.
-
-Key Point
-
-Information becomes biologically meaningful only within viability-oriented systems already engaged in maintaining organised persistence across changing conditions.
+This article belongs to the APS comparative clarification series. Its purpose is to distinguish the APS definition of life from information-processing identity claims without reducing informational approaches to description or subordinating them to APS. Comparative explanatory superiority remains open.
