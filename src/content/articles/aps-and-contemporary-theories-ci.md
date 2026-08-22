@@ -7,7 +7,6 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
 revised: 2026-08-22
-
 cluster: philosophy-of-biology
 role: anchor
 
@@ -125,9 +124,9 @@ references:
 
 Contemporary biology is remarkable not only for the breadth of its empirical achievements but also for the diversity of its explanatory traditions. Mechanistic biology explains how organised activities are generated through interacting components. Evolutionary biology explains how living systems are transformed across historical time. Developmental biology investigates the emergence of biological form and organisation, ecology examines organism–environment relations, systems biology analyses complex interactions, and organisational approaches explore the conditions under which living systems maintain themselves as integrated organisations. Each of these traditions has contributed profoundly to biological understanding, and together they have transformed the life sciences into one of the most successful scientific enterprises of the modern era.
 
-The programme uses the analytical protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). Research programmes are first examined through their explanatory targets, organising principles, explanatory priorities, conceptual architectures, domains of strength, and explanatory scope before their relationships with APS are assessed.
-
 Yet this extraordinary success has not eliminated deeper theoretical questions. On the contrary, it has made them increasingly explicit. As biological knowledge has expanded, so too has the number of successful explanatory frameworks available to interpret it. Rather than converging upon a single conceptual vocabulary, contemporary biology has developed a rich plurality of explanatory approaches, each illuminating different aspects of living systems. Diversity in biological theory is therefore not a sign of disciplinary weakness but a natural consequence of investigating organisms from multiple explanatory perspectives.
+
+To compare these explanatory approaches systematically, this analysis uses the protocol established in Comparative Explanatory Methodology in Theoretical Biology. Research programmes are examined first in terms of their explanatory targets, organising principles, explanatory priorities, conceptual architectures, domains of strength, and explanatory scope. Only then are their relationships with APS assessed.
 
 This diversity raises an important question. If different theoretical traditions successfully explain different aspects of living systems, how should their relationships be understood? Are they independent explanatory tools, do their targets overlap, or do they address related questions in ways that invite comparison? When frameworks disagree about concepts such as agency, function, information, organisation, cognition, or biological explanation, the disagreement may concern biological claims, explanatory targets, conceptual architecture, or some combination of these.
 
