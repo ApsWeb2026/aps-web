@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
-revised: 2026-06-03
+revised: 2026-08-22
 associatedPages:
   - /orientation/what-is-aps/
   - /orientation/how-aps-concepts-fit-together/
@@ -17,22 +17,20 @@ associatedPages:
   - /articles/can-ai-be-alive/
 ---
 
-APS changes what biology treats as explanatorily fundamental.
+APS changes the explanatory questions that become explicit when living organisation itself is the target of inquiry.
 
-Traditional biological explanation often begins with components, mechanisms, traits, or historical outcomes and then asks how biological organisation emerges from them. APS begins from a different starting point: the organised activity through which living systems maintain the conditions of their own persistence.
+It proposes that **Life is viability-oriented, constraint-closed organisation** and examines how that organisation is enacted and maintained through biological activity. The corresponding problem of **organised persistence** concerns how living organisation maintains and re-establishes continuity through change.
 
-This shifts the explanatory centre of biology from:
+This does not require biological explanation to begin from APS or to reconstruct other explanatory approaches within it. Mechanistic, evolutionary, dynamical, computational, informational, control-theoretic, organisational, and other approaches may provide substantive, sufficient, or preferable explanations for particular biological questions.
 
-- components → mechanisms → outcomes
+APS therefore changes neither the scientific status of biology nor its continuity with chemistry and physics. It proposes no special life substance, separate physical laws, non-natural causal forces, or distinct realm of living matter.
 
-toward:
+Its distinctive commitments concern how living organisation is characterised. **Biological agency is viability-oriented organisational activity. Biological normativity is viability-relative asymmetry. Biological function is present-tense viability-relative organisational contribution. Purpose concerns viability-oriented organisation without requiring intention.**
 
-- organisation → activity → stabilised features
+Agency, Process, and Scale provide complementary analytic projections of one viability-oriented, constraint-closed organisation rather than independent components, causes, dimensions, levels, or a hierarchy.
 
-Importantly, APS does **not** propose a special life substance, separate physical laws, non-natural causal forces, or a distinct realm of life. Living systems remain fully continuous with chemistry and physics.
+These commitments provide an explanatory framework within which biological questions can be formulated and compared. Their coherence, integration, biological specificity, or breadth does not by itself establish explanatory superiority over alternative approaches.
 
-What changes is not the scientific status of biology but its explanatory orientation. Agency, normativity, function, and purpose are understood as organisational features emerging within living systems rather than as external metaphysical additions.
+Where APS and another framework address the same explanatory target, their relative contribution requires target-matched assessment.
 
-APS therefore represents neither a rejection of science nor a departure from naturalism. It is a reorganisation of biological explanation around the organised activity through which living systems maintain viability and persist through time.
-
-The shift is consequently both explanatory and ontological: not the introduction of a separate realm of existence, but a re-centring of biology around organised persistence.
+**Key Point:** APS makes living organisation an explicit explanatory target. It does not thereby make other forms of biological explanation subordinate to APS or establish that APS provides the preferred explanation of every biological phenomenon.

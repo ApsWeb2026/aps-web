@@ -3,7 +3,7 @@ title: "Why Life Is Not Computation — An APS Clarification"
 slug: "why-life-is-not-computation-an-aps-clarification"
 type: article
 date: 2026-05-08
-revised: 2026-06-15
+revised: 2026-08-22
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-08
@@ -11,18 +11,29 @@ cluster: artificial-systems-and-boundaries
 role: extension
 
 abstract: >
-  Computational descriptions are often useful in biology, but APS argues that
-  computation cannot define what life is. Living systems are not algorithms
-  executing predefined rules, but viability-oriented, constraint-closed
-  organisations that actively maintain the conditions of their own persistence.
-  Computation may model aspects of biological activity, but it presupposes the
-  organised persistence of living systems rather than explaining it.
+  Computational approaches provide powerful explanatory and modelling resources
+  throughout contemporary biology. They can illuminate regulation, learning,
+  signalling, coordination, pattern formation, and other biological processes.
+  APS nevertheless does not identify life with computation or computational
+  organisation. It defines life as viability-oriented, constraint-closed
+  organisation and treats organised persistence as the explanatory problem of
+  how that organisation maintains and re-establishes continuity through change.
+  These differences establish a substantive point of comparison but do not show
+  that computational explanation is merely descriptive, biologically incomplete,
+  or explanatorily subordinate to APS. Where computational and APS explanations
+  address the same biological target, their relative contribution requires
+  target-matched assessment.
+
 keyPoints:
-  - Computational models can describe biological processes without defining life itself.
-  - Living systems maintain the conditions required for their own persistence.
-  - Biological normativity differs from algorithmic correctness.
-  - Computation presupposes organised systems whose persistence already matters.
-  - APS treats computation as a descriptive tool rather than an ontology of life.
+  - Computational approaches can provide substantive explanations and models of biological processes without thereby defining life.
+  - Computation is not identical with information processing, representation, control, or cognition.
+  - APS does not define life as computation or computational organisation.
+  - Life is viability-oriented, constraint-closed organisation.
+  - Organised persistence concerns how living organisation maintains and re-establishes continuity through change; it is not a second definition of life.
+  - Artificial computation shows only that computational capacity alone is not sufficient for life as defined within APS.
+  - Non-identity between APS and computational approaches does not establish explanatory superiority.
+  - Where APS and computational explanations address the same target, comparative explanatory gain requires target-matched assessment.
+
 relatedGlossaryTerms:
   - biological-agency
   - biological-organisation
@@ -34,6 +45,7 @@ relatedGlossaryTerms:
   - scale
   - viability
   - viability-orientation
+
 relatedArticles:
   - why-life-is-not-information-processing
   - why-life-is-not-intelligence-an-aps-clarification
@@ -45,6 +57,7 @@ relatedArticles:
   - semiosis-how-differences-come-to-matter-in-living-systems
   - multiple-realization-and-biological-organisation
   - why-ai-is-not-biological-agency
+
 references:
   - id: piccinini2015
     authors: "Piccinini, G."
@@ -77,140 +90,283 @@ references:
 
 ## The Computational Temptation
 
-Computational language is now deeply embedded within modern biology. Genes are described as programs, cells as information-processing systems, neural activity as computation, and organisms as systems that transform inputs into outputs through structured operations. Because living systems often exhibit organised regulation, responsiveness, coordination, and adaptation, it is tempting to conclude that life itself is fundamentally computational.
+Computational language and computational methods are deeply embedded within contemporary biology. Genes may be described in programmatic terms, neural activity analysed computationally, regulatory systems modelled through state transitions or dynamical operations, and organisms studied through structured transformations of signals, states, and behaviour.
 
-APS rejects this conclusion.
+These approaches have considerable scientific value. Computational models and explanations are used across neuroscience, systems biology, bioinformatics, developmental modelling, artificial intelligence research, and many other areas of biological inquiry.
 
-The issue is not whether computational descriptions can be scientifically useful. They clearly can. Computational methods have become indispensable within neuroscience, systems biology, bioinformatics, developmental modelling, artificial intelligence research, and many other areas of contemporary science. Such approaches often provide powerful tools for describing and analysing organised biological activity.
+The term **computation**, however, does not designate a single homogeneous theoretical framework. Computational approaches can differ substantially in whether they emphasise formal operations, physical implementation, dynamical organisation, representation, distributed processing, algorithmic structure, or other forms of state transformation. Computation should therefore not be identified automatically with digital symbol manipulation, stored programs, central processors, fixed algorithms, or conventional computer architecture.
 
-The problem arises when a successful descriptive framework is transformed into an ontology. Computational models may illuminate important aspects of what living systems do, but they do not necessarily explain what living systems are.
+APS does not reject computational explanation.
 
-APS therefore rejects computation as a defining ontology of life while fully accepting its value as a scientific tool.
+Its claim is narrower: APS does not define life as computation or computational organisation.
+
+Within APS:
+
+**Life is viability-oriented, constraint-closed organisation.**
+
+A living system may contain processes that are usefully described or explained computationally without computation thereby constituting the APS definition of life.
+
+This distinction is one of non-identity. It does not establish that computational explanations are merely descriptive, formal, syntactic, externally interpreted, or biologically incomplete. Nor does it establish that APS provides a deeper explanation simply because it makes viability-oriented organisation explicit.
+
+Where computational and APS explanations address the same biological explanandum, their relative explanatory contribution must be established through target-matched comparison.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
 ## Computation and Information Processing
 
-APS also distinguishes computation from information processing more broadly.
+Computation should not be treated as synonymous with information processing.
 
-Information processing refers to the transformation, coordination, and utilisation of differences within organised systems. Computation is a more specific concept involving formally specified operations, rule-governed state transitions, algorithmic procedures, or computational architectures.
+Information-processing approaches can concern the detection, transformation, coordination, storage, or use of differences within systems. Computational approaches are more specific in the kinds of operations, transformations, architectures, or formal relations they attribute to the processes under investigation.
 
-Living systems undoubtedly process information in important ways. Organisms detect environmental differences, regulate internal conditions, coordinate activity across scales, and respond adaptively to changing circumstances. Computational models may successfully capture some of these dynamics and provide useful explanatory frameworks for understanding how particular biological processes unfold.
+The exact relation between computation and information processing depends upon the explanatory framework being used. Some computational accounts may also be informational; some informational descriptions need not amount to computational explanations. Neither concept should automatically be identified with representation, cognition, or control.
 
-However, neither information processing nor computation explains why a living system exists as a persistence-maintaining organisation in the first place.
+This distinction matters because biological systems can be analysed under more than one explanatory description. A regulatory process may be described informationally, computationally, dynamically, mechanistically, or organisationally, depending upon the question being asked and the relations being investigated.
 
-APS therefore treats computational descriptions as secondary to biological organisation rather than constitutive of it. Computation may describe certain organisational processes, but it does not explain the viability-oriented persistence that makes those processes biologically meaningful.
+APS introduces a different substantive concern. It defines life as **viability-oriented, constraint-closed organisation** and asks how that organisation maintains and re-establishes continuity through change.
 
-## What Computation Explains Well
+That difference does not make computational or informational explanations secondary by definition. Nor does it show that they merely operate within an organisational reality that APS alone explains.
 
-Computational approaches are highly effective for describing pattern recognition, signal coordination, optimisation, control processes, feedback regulation, decision procedures, and learning dynamics. Where viable biological systems already exist, computational models can illuminate how particular regulatory or behavioural activities unfold across time.
+Where computational, informational, and APS accounts address different explananda, they need not compete. Where they address the same explanandum, their explanatory relationship must be assessed rather than inferred from their terminology.
 
-For example, neural networks may model sensory classification, regulatory systems may be analysed using control-theoretic frameworks, and bacterial chemotaxis may be studied through information-processing dynamics. Computational approaches often reveal important regularities that would otherwise remain difficult to identify.
+## What Computational Approaches Explain
 
-APS fully accepts the scientific importance of these achievements.
+Computational approaches provide substantive explanatory and modelling resources for many biological phenomena. Depending upon the framework and explanandum, these may include:
 
-What computation does not explain is why the organised system performing these activities must continuously sustain itself in order for any processing to occur at all. Computational models can describe how activity unfolds within a living system. They do not explain why that living system exists as a continuity-maintaining organisation whose persistence is continually at stake.
+- pattern recognition
+- signal coordination
+- learning
+- decision procedures
+- neural processing
+- regulatory dynamics
+- adaptive behaviour
+- optimisation
+- feedback relations
+- structured transformations of biological states
 
-## Computation Presupposes Organised Persistence
+Computational models can reveal regularities, test hypotheses, specify relations among variables, clarify possible mechanisms, and support explanations of how biological activity changes over time.
 
-Computation requires a system whose identity and operation are already sufficiently stable for formal operations to be defined.
+Their explanatory contribution should not be reduced to description merely because they use formal representations or abstractions. In particular cases, a computational explanation may be substantive, sufficient, or preferable.
 
-Computational systems presuppose identifiable boundaries, stable operational conditions, specified inputs and outputs, state-transition rules, and criteria for successful operation. These assumptions are not generated by computation itself. They provide the conditions under which computation becomes possible.
+Computational approaches are also heterogeneous. A computational account of neural activity need not have the same architecture as an account of gene regulation, developmental dynamics, bacterial behaviour, or artificial computation. No single model of computation should therefore stand for computational explanation as a whole.
 
-APS therefore asks a prior biological question:
+APS approaches some of these phenomena from a different explanatory perspective. It asks how processes participate in viability-oriented, constraint-closed organisation and how such organisation maintains and re-establishes continuity through change.
 
-> What makes there be a system whose continued existence matters?
+That is the APS problem of **organised persistence**.
 
-Living systems must continuously maintain their own boundaries, regenerate the constraints enabling their activity, repair damage, reorganise under perturbation, and preserve viability despite changing conditions. If these activities fail, the system ceases to exist as a living system.
+Organised persistence is not a deeper reality that computational explanation automatically presupposes, and it is not a second definition of life. It is an APS explanatory problem whose contribution must be assessed when it overlaps with the explanandum addressed by a computational account.
 
-Computation therefore operates within organised persistence rather than explaining it. The existence of a computational process presupposes a larger organisational reality whose continuity must already be maintained. APS accordingly treats organised persistence as explanatorily prior to computation.
+Where computational and APS explanations address different questions, no direct competition follows. Where they address the same question, their relationship may be complementary, overlapping, independent, competing, redundant, computation-favouring, APS-favouring, qualified, or null.
 
-## Algorithms Do Not Ground Biological Normativity
+## Computation and Living Organisation
 
-Computational systems can succeed or fail relative to predefined specifications. An output is correct or incorrect according to externally established criteria, and a computational process is evaluated according to whether it performs the operations it was designed to perform.
+Computational explanations can be applied to processes occurring within living systems, but this does not determine in advance how computation relates explanatorily to living organisation.
 
-Biological normativity is fundamentally different.
+APS defines life as **viability-oriented, constraint-closed organisation**. Within this account, living organisation is ongoing activity through which a system maintains and re-establishes the conditions of its own persistence.
 
-In living systems, processes are persistence-relevant for the system itself. A failing heart is not malfunctioning because it violates an externally specified program. It is malfunctioning because its activity no longer contributes adequately to maintaining the organism's continued viability. Likewise, starvation, injury, developmental disruption, or regulatory collapse are not merely computational errors. They are existential failures affecting the persistence of the system itself.
+The corresponding problem of **organised persistence** concerns how that organisation maintains continuity through change.
 
-APS therefore locates biological normativity in viability-oriented organisation rather than in algorithmic correctness. Living systems continually differentiate conditions that support persistence from conditions that threaten it, and this evaluative organisation exists independently of any formal computational description.
+Computational approaches may address some of the same processes from different explanatory perspectives. They may characterise transformations of states, relations among variables, regulatory operations, distributed processing, adaptive behaviour, or other forms of biological activity. Depending upon the explanandum, such accounts may be explanatory in their own right.
 
-Computational criteria may describe certain aspects of system performance, but they do not explain why persistence matters biologically in the first place.
+APS therefore need not claim that computation presupposes an organisational explanation supplied by APS. Nor should computational processes be treated merely as implementations of a more fundamental organisational account.
 
-## Computation Without Life Is Possible
+Instead, the relevant question is relational: when computational and organisational explanations address the same biological phenomenon, what does each explain, what dependencies does each specify, and what explanatory contribution follows from their comparison?
 
-One reason computation cannot define life is that computation can occur in systems that are clearly not alive.
+Any proposed dependency between computational processes and living organisation must be specified and assessed rather than inferred from APS architecture alone.
 
-Digital computers, distributed software systems, machine-learning architectures, simulation platforms, and autonomous algorithms may all perform complex computations. Such systems can be adaptive, self-modifying, highly sophisticated, and capable of remarkable forms of regulation and optimisation.
+## Computation and Biological Normativity
 
-Yet none of these characteristics is sufficient to establish biological organisation.
+Computational systems and computational explanations can employ criteria governing successful operations, error, optimisation, selection among alternatives, or transitions among states. In engineered systems, such criteria may be externally specified. This familiar case should not, however, be treated as defining computation in general or as determining what computational explanation can contribute in biology.
 
-Their goals, evaluation criteria, operational environments, and success conditions remain externally specified. Their continued existence does not matter to themselves in the biological sense developed within APS. Even when they exhibit forms of self-regulation, these activities occur within organisational conditions imposed and maintained from outside.
+APS makes a different substantive claim about biological normativity.
 
-This is the distinction APS develops in more detail in *[Why AI Is Not Biological Agency](/articles/why-ai-is-not-biological-agency/)*. Contemporary AI systems may optimise, learn, adapt, and respond flexibly to changing circumstances, but they remain externally maintained optimisation systems rather than endogenously viability-oriented organisations.
+Within APS, **biological normativity is viability-relative asymmetry**: some states, processes, and outcomes contribute differently to the maintenance or loss of the living organisation's viability.
 
-Failure in such systems is typically functional relative to externally defined purposes. Failure in living systems is existential because the system's own persistence is at stake.
+This normativity is therefore characterised relative to the organisation of the living system itself rather than simply by reference to an externally assigned standard of computational correctness.
 
-This demonstrates that computation is not sufficient for life.
+The distinction is important, but it does not establish that computational explanations cannot address biologically normative processes. A biological process may be computationally characterised while also participating in viability-relative organisation. Whether the computational account captures, explains, abstracts from, or remains independent of the relevant normative relation depends upon the explanatory target and the particular account being assessed.
 
-## Living Systems Do Not Run Programs
+APS should therefore not infer from the existence of externally specified computational systems that computation as such lacks resources for explaining biological regulation, adaptive activity, or normatively differentiated processes.
 
-Computational metaphors often imply that organisms execute stored instructions or predefined algorithms. Genes become programs, regulatory systems become computational architectures, and biological activity becomes the execution of encoded procedures.
+Nor is Biological Evaluation necessarily explanatorily prior to computation. Within APS, **Biological Evaluation is the process through which agency generates significance**. Where computational processes are proposed to participate in such activity, their relation to evaluation and significance must be investigated rather than fixed by a general dependency ladder.
 
-APS rejects this framing.
+Biological significance must likewise remain distinct from meaning. Nothing about computational description or explanation, by itself, warrants collapsing computation, information processing, representation, significance, semiosis, cognition, or meaning into a single category.
 
-Living systems do not merely run programs; they sustain organisation.
+## Computation Without Life
 
-Their activity consists in the continuous maintenance, repair, and reorganisation of the constraints that make their own continued activity possible. When conditions change, organisms do not simply transition between predefined computational states. They actively reorganise themselves in ways that preserve viability under new circumstances.
+Computation is not sufficient for life as defined within APS.
 
-This may involve alterations in regulatory dynamics, reallocation of energetic resources, developmental reorganisation, behavioural adaptation, ecological restructuring, or changes in organism–environment coupling. Such processes cannot be adequately understood as the execution of fixed algorithms because the organisation responsible for persistence is itself continually being maintained and transformed.
+Artificial and engineered systems provide a straightforward illustration. Systems can perform complex calculations, transform signals, learn statistical regularities, optimise performance, control processes, or generate adaptive outputs without thereby satisfying the APS definition of life.
 
-Living organisation is therefore not reducible to computation over predefined states. It is an ongoing process of persistence-maintaining transformation.
+The relevant conclusion is limited.
 
-## Constraint Closure and Multi-Scale Organisation
+It shows that **computational capacity alone does not entail viability-oriented, constraint-closed organisation**.
 
-APS grounds life in constraint closure: the reciprocal organisation through which the processes maintaining biological constraints are themselves constrained and sustained by the organisation they generate.
+It does not show that artificial computation is merely derivative, externally meaningful, or explanatorily superficial. Nor does it establish that computational explanations of biological systems are inadequate.
 
-This organisation unfolds across multiple interacting scales. Molecular processes regulate cellular activity, cells contribute to organismal persistence, organisms modify ecological conditions, and ecological conditions in turn influence organismal viability. Biological organisation therefore emerges through coordinated activity distributed across spatial and temporal domains.
+Engineered computational systems may differ from living systems in their organisation, dependence upon external conditions, modes of maintenance, criteria of operation, and relations to their environments. Those differences must be specified in each comparison rather than attributed to computation as such.
 
-Computational descriptions often abstract away from this multiscale organisation in order to model particular operations, information flows, or regulatory processes. Such abstractions may be scientifically useful and frequently reveal important organisational regularities.
+Likewise, the fact that a non-living system can compute does not establish that computation is unimportant to life. A capacity need not define life in order to contribute substantially to explanations of living processes.
 
-However, they do not capture the full organisational conditions required for living persistence.
+Artificial computation therefore supports the article's non-identity claim:
 
-Life is not defined by isolated computations, information flows, or algorithmic operations. It is defined by the integrated organisation through which viability-oriented systems continually sustain the conditions of their own existence.
+**life is not computation merely because living systems can be characterised computationally.**
 
-*Computation may occur within living organisation. Living organisation is not reducible to computation.*
+Nothing stronger follows without further comparative evidence.
 
-## The APS Position
+## Computation Is Not Identical with Program Execution
 
-APS does not reject computation.
+Some influential computational metaphors portray biological systems in terms of programs, instructions, algorithms, codes, or stored procedures. Such metaphors can be scientifically useful, but they should not be allowed to define computation as a whole.
 
-It repositions it.
+Living systems undergo continual material turnover, regulation, development, repair, interaction, and reorganisation. Their activity can depend upon histories, changing internal conditions, environmental relations, and dynamically maintained organisation.
 
-The central question is therefore not whether computational descriptions are scientifically useful, but whether computation alone explains what makes living systems biological.
+For that reason, a model based upon fixed instructions executed by an otherwise stable architecture may be inadequate for some biological explananda.
 
-APS argues that it does not.
+But this limitation applies to the particular model, not automatically to computational explanation.
 
-Computational models provide valuable frameworks for describing particular biological processes, especially where organised systems already exist and their activity can be analysed in formal terms. They can reveal important regularities, clarify mechanisms, and generate powerful explanatory tools for understanding regulation, coordination, learning, and adaptation.
+Computational approaches need not require a central processor, fixed program, stored symbolic instructions, or an invariant sequence of operations. They may address distributed, dynamical, adaptive, embodied, or physically realised processes.
 
-However, computational descriptions presuppose viable organised systems whose persistence already matters. The existence of a computational process depends upon a larger continuity-maintaining organisation capable of sustaining the conditions under which that process can occur.
+APS therefore need not decide whether living systems literally “run programs” in order to maintain its central distinction. Its claim is that computational or programmatic characterisation, whatever its explanatory usefulness in a particular case, is not identical with the APS definition of life.
 
-Within APS, computation therefore becomes one descriptive framework among many rather than the defining ontology of life. Agency grounds persistence, function, and normativity. Organised persistence establishes the conditions under which biological activity remains possible. Computational processes become biologically meaningful only because they occur within viability-oriented systems organised around their own continued existence.
+Where a computational model successfully explains adaptive reorganisation or other dynamically changing biological activity, APS cannot reject that explanation merely because the process is computationally characterised.
 
-Computation is therefore instrumental rather than constitutive. It describes aspects of what living systems do without explaining what living systems are.
+## Constraint Closure and the Organisation of Computation
 
-[[box:what-aps-changes-and-what-it-does-not]]
+APS defines life as **viability-oriented, constraint-closed organisation**.
+
+Constraint closure refers to the organisation through which constraints involved in maintaining the living system are mutually dependent within that organisation. It is part of the APS account of life, not a general criterion by which computational explanations can simply be ranked as incomplete.
+
+Computationally characterised processes may participate in such organisation. They may also provide explanations whose targets do not require an account of constraint closure. The explanatory relation depends upon the biological question being addressed.
+
+APS therefore should not treat constraint closure as automatically grounding, completing, replacing, or providing a deeper explanation of computational organisation.
+
+Nor does abstraction itself count against computational explanation. Scientific explanations routinely abstract from features that are irrelevant to their immediate explanandum. A computational model need not reproduce the entire organisation of a living system in order to provide an adequate explanation of a particular phenomenon.
+
+APS uses **Agency, Process, and Scale** as complementary analytic projections of one viability-oriented, constraint-closed organisation.
+
+**Agency** concerns what living systems do.
+
+**Process** concerns how continuity is maintained despite change.
+
+**Scale** concerns where persistence is organised across spatial and temporal extents.
+
+These are analytic projections rather than independent components of reality, causal stages, dimensions, levels, or a hierarchy. Their use does not entail that every adequate biological explanation must be multiscale or that computational explanations are deficient when they focus on a restricted spatial or temporal domain.
+
+Their relevance is explanatory and target-dependent.
+
+Within this organisation, **biological agency is viability-oriented organisational activity**. Computational descriptions or explanations of such activity may illuminate particular operations or relations without thereby becoming definitions of agency or life.
+
+Conversely, APS's explicit account of agency does not establish that computational explanation is incapable of addressing agentive biological phenomena.
+
+Where APS proposes a dependency between computational activity, agency, constraint closure, or organised persistence, that relation remains a **Dependency Hypothesis** requiring specification and assessment.
+
+## APS and Computational Explanation
+
+APS and computational approaches can address biological phenomena from different, sometimes overlapping, explanatory perspectives.
+
+APS defines life as **viability-oriented, constraint-closed organisation**. It treats organised persistence as the explanatory problem of how that organisation maintains and re-establishes continuity through change. Within this account, **biological agency is viability-oriented organisational activity**, and biological normativity is **viability-relative asymmetry**.
+
+Computational approaches need not adopt these formulations in order to provide substantive biological explanations. They may investigate state transformations, distributed processing, regulatory operations, learning, decision procedures, neural activity, adaptive behaviour, or other biological phenomena according to computationally specified relations.
+
+The existence of these different explanatory resources does not determine their relationship in advance.
+
+A computational explanation may address a target that APS does not directly address. An APS explanation may investigate aspects of living organisation that are outside the target of a particular computational account. Where their targets overlap, the two approaches may identify some of the same dependencies under different descriptions or propose different dependencies requiring comparative assessment.
+
+APS therefore does not incorporate computational explanation as a subordinate component of its own architecture. Nor does computational explanation become biologically intelligible only when situated within APS.
+
+Their relationship may be complementary, overlapping, independent, competing, in tension, redundant, computation-favouring, APS-favouring, qualified, or null.
+
+This openness is methodologically important. APS's biological specificity, conceptual integration, or explicit treatment of viability, organisation, agency, and persistence cannot by themselves demonstrate explanatory gain over a computational account.
+
+Likewise, the success of computational explanation for a biological phenomenon does not establish that life itself should be identified with computation.
+
+The comparative question is therefore not whether biology is “really” computational or organisational. It is which explanatory relations illuminate the specified biological target, with what evidence, under what conditions, and relative to which alternatives.
+
+Where APS proposes relations among computation, living organisation, agency, viability, or organised persistence, these remain **Dependency Hypotheses** requiring specification and assessment rather than consequences established by APS architecture alone.
 
 ## Conclusion
 
-Computational approaches are indispensable throughout contemporary biology. They successfully model coordination, regulation, learning, signalling, optimisation, and control across a wide range of biological domains. APS fully accepts their scientific value and recognises their importance within modern biological research.
+Computational approaches provide important explanatory and modelling resources across biology. Their usefulness is not confined to description, and computation should not be reduced to digital symbol manipulation, conventional program execution, explicit representation, or externally specified control.
 
-However, life is not computation.
+APS nevertheless does not identify life with computation.
 
-Living systems are viability-oriented, constraint-closed organisations whose continued existence depends upon their own ongoing activity. They maintain boundaries, regenerate constraints, repair damage, reorganise under perturbation, and preserve continuity across changing conditions and interacting scales.
+**Life is viability-oriented, constraint-closed organisation.**
 
-Computational descriptions may illuminate aspects of this activity, but they do not explain why organised persistence exists, why biological normativity emerges, or why failure is existential rather than merely technical. These features arise from the organisation of living systems themselves rather than from computational formalisms.
+Organised persistence is the corresponding explanatory problem of how that organisation maintains and re-establishes continuity through change. Neither this definition nor that explanatory problem establishes that computational explanations are subordinate to APS.
 
-APS therefore treats computation as a powerful descriptive tool while rejecting it as a complete ontology of life. Computation becomes biologically meaningful only because living systems already exist as continuity-preserving organisations.
+The fact that computation can occur in systems that are not alive supports a bounded conclusion: computational capacity alone is not sufficient for life as defined within APS. It does not show that computation is irrelevant to living systems or that computational explanations cannot provide substantive, sufficient, or preferable explanations of particular biological phenomena.
 
-In APS, computation matters because organised persistence already matters.
+Likewise, differences between computational and APS accounts do not establish which provides the better explanation where they address the same target.
+
+That question requires target-matched comparison.
+
+APS and computational approaches may therefore prove complementary for some questions, independent for others, or genuine competitors where they specify different explanations of the same phenomenon. Comparative assessment must remain capable of yielding computation-favouring, APS-favouring, qualified, redundant, or null results.
+
+The legitimate conclusion of this article is consequently one of non-identity rather than superiority:
+
+**life, as defined within APS, is not identical with computation or computational organisation.**
+
+Whether APS provides explanatory gain over a computational alternative for any shared biological target remains an empirical and methodological question rather than a consequence of APS terminology or architecture.
+
+## Key Point
+
+**Life is not identical with computation, but non-identity does not establish the inadequacy of computational explanation.** APS defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of continuity through change. Computational approaches may nevertheless provide substantive, sufficient, or preferable explanations of particular biological phenomena. Where computational and APS explanations address the same target, their relative explanatory contribution requires target-matched assessment.
+
+## Explanatory Architecture
+
+### Central Question
+
+How should computational explanation be related to the organisation of living systems without identifying life with computation or assuming that computational explanations are thereby biologically inadequate?
+
+### Architectural Role
+
+This article establishes a non-identity clarification within the APS comparative-theory corpus. It distinguishes the APS definition of life from computational characterisations of biological processes while preserving computational explanation as a potentially substantive and sufficient form of biological explanation.
+
+Its function is not to determine whether APS or a computational approach provides greater explanatory power for any particular biological target.
+
+### Preceding Explanatory Dependencies
+
+The article uses the APS definition of life as **viability-oriented, constraint-closed organisation** and the APS account of **biological agency as viability-oriented organisational activity**.
+
+It also relies on the distinction between computation and information processing and on the requirement that biological significance remain distinct from meaning.
+
+These are conceptual dependencies within the APS explanatory architecture. They do not establish causal, temporal, ontological, hierarchical, or foundational priority over computational processes or computational explanations.
+
+Any proposed biological dependency between computation, living organisation, agency, viability, significance, constraint closure, or organised persistence remains a **Dependency Hypothesis** requiring specification and assessment.
+
+### Subsequent Explanatory Developments
+
+The distinction established here supports subsequent examination of computation in relation to biological agency, cognition, artificial systems, representation, semiosis, and other forms of biological organisation.
+
+Those developments must not infer cognition merely from computation, information processing, representation, regulation, prediction, or adaptive response.
+
+Nor should they assume that computational processes acquire biological explanatory legitimacy only through incorporation into APS.
+
+### Related Explanatory Questions
+
+Related questions include:
+
+- When does a computational model provide a substantive biological explanation rather than a useful formal representation?
+- How should computation be distinguished from information processing, representation, control, and cognition in particular biological cases?
+- Can computational explanations capture viability-relative normativity or Biological Evaluation, and when is doing so relevant to the explanandum?
+- How should computational and organisational explanations be compared when they address the same biological phenomenon?
+- Which proposed relations among computation, agency, significance, cognition, and living organisation constitute testable Dependency Hypotheses?
+
+These questions cannot be settled by non-identity alone.
+
+### Position Within APS
+
+Within APS, **Life is viability-oriented, constraint-closed organisation**.
+
+**Biological agency is viability-oriented organisational activity.**
+
+**Biological normativity is viability-relative asymmetry.**
+
+**Biological Evaluation is the process through which agency generates significance.**
+
+Organised persistence concerns how living organisation maintains and re-establishes continuity through change; it is not a second definition of life.
+
+Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation rather than independent components, causes, dimensions, levels, or hierarchy.
+
+Computational processes may participate in living organisation and computational explanations may illuminate biological phenomena without computation thereby becoming the APS definition of life. Conversely, APS's conceptual architecture does not itself demonstrate explanatory superiority over computational approaches.
+
+Where both address the same explanatory target, comparative explanatory gain requires target-matched assessment.
