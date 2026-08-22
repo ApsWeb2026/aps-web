@@ -126,7 +126,7 @@ Contemporary biology is remarkable not only for the breadth of its empirical ach
 
 Yet this extraordinary success has not eliminated deeper theoretical questions. On the contrary, it has made them increasingly explicit. As biological knowledge has expanded, so too has the number of successful explanatory frameworks available to interpret it. Rather than converging upon a single conceptual vocabulary, contemporary biology has developed a rich plurality of explanatory approaches, each illuminating different aspects of living systems. Diversity in biological theory is therefore not a sign of disciplinary weakness but a natural consequence of investigating organisms from multiple explanatory perspectives.
 
-To compare these explanatory approaches systematically, this analysis uses the protocol established in Comparative Explanatory Methodology in Theoretical Biology. Research programmes are examined first in terms of their explanatory targets, organising principles, explanatory priorities, conceptual architectures, domains of strength, and explanatory scope. Only then are their relationships with APS assessed.
+To compare these explanatory approaches systematically, this analysis uses the protocol established in the article [*Comparative Explanatory Methodology in Theoretical Biology*](/articles/comparative-explanatory-methodology-theoretical-biology/). Research programmes are examined first in terms of their explanatory targets, organising principles, explanatory priorities, conceptual architectures, domains of strength, and explanatory scope. Only then are their relationships with APS assessed.
 
 This diversity raises an important question. If different theoretical traditions successfully explain different aspects of living systems, how should their relationships be understood? Are they independent explanatory tools, do their targets overlap, or do they address related questions in ways that invite comparison? When frameworks disagree about concepts such as agency, function, information, organisation, cognition, or biological explanation, the disagreement may concern biological claims, explanatory targets, conceptual architecture, or some combination of these.
 
@@ -301,10 +301,17 @@ Readers interested in the detailed comparison should consult:
 The following comparison identifies characteristic explanatory targets and the questions that arise when these traditions are compared with APS. The descriptions are deliberately schematic: each tradition contains substantial internal diversity, and no row establishes a fixed division of explanatory labour.
 
 <div class="aps-diagram">
-  <img
-    src="/assets/diagrams/comparative-frameworks.png"
-    alt="Comparative frameworks in contemporary biological explanation, showing target-matched assessment and the range of possible comparative outcomes."
-  />
+  <a
+    href="/assets/diagrams/comparative-frameworks.png"
+    target="_blank"
+    rel="noopener"
+  >
+    <img
+      src="/assets/diagrams/comparative-frameworks.png"
+      alt="Comparative frameworks in contemporary biological explanation, showing target-matched assessment and the range of possible comparative outcomes."
+      loading="lazy"
+    />
+  </a>
 </div>
 
 ## Mechanistic Biology
