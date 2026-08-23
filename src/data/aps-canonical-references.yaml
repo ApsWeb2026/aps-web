@@ -3886,4 +3886,57 @@ references:
     status: verified
     authority: Oxford University Press
     verifiedDate: 2026-08-17
-
+- id: green-batterman-2017-biology-meets-physics
+  type: journal-article
+  authors: Green, S., & Batterman, R.
+  year: 2017
+  title: 'Biology Meets Physics: Reductionism and Multi-Scale Modeling of Morphogenesis'
+  journal: Studies in History and Philosophy of Biological and Biomedical Sciences
+  volume: '61'
+  pages: 20–34
+  doi: 10.1016/j.shpsc.2016.12.003
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-23
+- id: green-2018-scale-dependency-downward-causation
+  type: journal-article
+  authors: Green, S.
+  year: 2018
+  title: Scale Dependency and Downward Causation in Biology
+  journal: Philosophy of Science
+  volume: '85'
+  issue: '5'
+  pages: 998–1011
+  doi: 10.1086/699758
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-23
+- id: bich-skillings-2024-no-intermediate-stages
+  type: book-chapter
+  authors: Bich, L., & Skillings, D.
+  year: 2024
+  title: 'There Are No Intermediate Stages: An Organizational View on Development'
+  book-title: Organization in Biology
+  editors: Mossio, M.
+  publisher: Springer
+  pages: 241–262
+  doi: 10.1007/978-3-031-38968-9_11
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-23
+- id: corris-2020-defining-environment
+  type: journal-article
+  authors: Corris, A.
+  year: 2020
+  title: 'Defining the Environment in Organism–Environment Systems'
+  journal: Frontiers in Psychology
+  volume: '11'
+  article-number: '1285'
+  doi: 10.3389/fpsyg.2020.01285
+  verification:
+    status: verified
+    authority: Frontiers
+    verifiedDate: 2026-08-23
