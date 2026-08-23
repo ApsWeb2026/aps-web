@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-10
-revised: 2026-05-10
+revised: 2026-08-23
 associatedPages:
   - /orientation/how-aps-concepts-fit-together/
   - /articles/aps-as-philosophy/
@@ -17,25 +17,20 @@ associatedPages:
   - /articles/how-to-diagnose-a-biological-system/
 ---
 
-APS uses several closely related concepts because different explanatory questions reveal different aspects of the same living organisation.
-
-These concepts do not compete with one another, and APS is not repeatedly redefining life or agency. Instead, each concept highlights a different explanatory dimension of viability-oriented organisation.
+APS uses several closely related concepts because different explanatory questions disclose different aspects of the same living organisation. These concepts are not competing definitions, independent causes, components, or levels of biological reality.
 
 | Question | APS Concept |
 |---|---|
-| What is at stake? | Viability-oriented organisation |
-| What does the work? | Agency |
-| What grounds the activity internally? | Constraint closure |
-| How does persistence occur? | Process |
-| How is activity coordinated? | Scale |
+| What is life? | Viability-oriented, constraint-closed organisation |
+| What distinguishes organisationally consequential conditions? | Viability |
+| How are the conditions of continued organisation mutually maintained? | Constraint closure |
+| What do living systems do? | Agency |
+| How is continuity maintained despite change? | Process |
+| Where is persistence organised? | Scale |
+| What continuity is thereby achieved? | Organised persistence |
 
-These are complementary explanatory perspectives rather than separate entities or layers.
+**Agency, Process, and Scale have a particular relationship within this architecture.** They are complementary analytic projections of one biologically real organisation: Agency concerns what living systems do; Process concerns how continuity is maintained despite change; and Scale concerns where persistence is organised across spatial and temporal extents. They are not separate systems, stages, levels, or causal domains.
 
-For example:
-- *viability-oriented organisation* identifies the organisational condition that must be maintained,
-- *agency* identifies the system’s ongoing self-maintaining activity,
-- *constraint closure* explains why this activity belongs to the system itself,
-- *process* explains why persistence requires continuous activity through time,
-- and *scale* explains how this organisation is coordinated across interacting spatial and temporal domains.
+**Viability and constraint closure characterise the organisation being examined.** Viability distinguishes conditions according to their consequences for continued functioning, while constraint closure identifies organisational dependencies through which the system contributes to maintaining the conditions of its own continuation. **Organised persistence** characterises the resulting continuity: persistence achieved through continuing organisation rather than material sameness or structural invariance.
 
-APS therefore examines the same underlying biological reality from several necessary explanatory perspectives rather than reducing life to a single defining property.
+APS therefore uses different concepts not to divide living systems into separate realities, but to distinguish explanatory questions about the same viability-oriented, constraint-closed organisation.
