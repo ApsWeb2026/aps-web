@@ -19,15 +19,46 @@ associatedPages:
 
 APS uses several closely related concepts because different explanatory questions disclose different aspects of the same living organisation. These concepts are not competing definitions, independent causes, components, or levels of biological reality.
 
-| Question | APS Concept |
-|---|---|
-| What is life? | Viability-oriented, constraint-closed organisation |
-| What distinguishes organisationally consequential conditions? | Viability |
-| How are the conditions of continued organisation mutually maintained? | Constraint closure |
-| What do living systems do? | Agency |
-| How is continuity maintained despite change? | Process |
-| Where is persistence organised? | Scale |
-| What continuity is thereby achieved? | Organised persistence |
+<div class="aps-table-frame">
+  <table class="aps-concept-table">
+    <thead>
+      <tr>
+        <th>Question</th>
+        <th>APS Concept</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>What is life?</td>
+        <td><strong>Viability-oriented, constraint-closed organisation</strong></td>
+      </tr>
+      <tr>
+        <td>What distinguishes organisationally consequential conditions?</td>
+        <td><strong>Viability</strong></td>
+      </tr>
+      <tr>
+        <td>How are the conditions of continued organisation mutually maintained?</td>
+        <td><strong>Constraint closure</strong></td>
+      </tr>
+      <tr>
+        <td>What do living systems do?</td>
+        <td><strong>Agency</strong></td>
+      </tr>
+      <tr>
+        <td>How is organisational continuity maintained through change?</td>
+        <td><strong>Process</strong></td>
+      </tr>
+      <tr>
+        <td>Across what spatial and temporal extents is persistence organised?</td>
+        <td><strong>Scale</strong></td>
+      </tr>
+      <tr>
+        <td>What persists through biological change?</td>
+        <td><strong>Organised persistence</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Agency, Process, and Scale have a particular relationship within this architecture.** They are complementary analytic projections of one biologically real organisation: Agency concerns what living systems do; Process concerns how continuity is maintained despite change; and Scale concerns where persistence is organised across spatial and temporal extents. They are not separate systems, stages, levels, or causal domains.
 

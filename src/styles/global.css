@@ -2169,3 +2169,34 @@ main .article-body h3 {
     font-size: 0.82rem;
   }
 }
+
+.aps-table-frame {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.aps-concept-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.aps-concept-table th,
+.aps-concept-table td {
+  border: 1px solid currentColor;
+  padding: 0.75rem 0.9rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.aps-concept-table th {
+  font-weight: 700;
+}
+
+.aps-concept-table td:first-child {
+  width: 60%;
+}
+
+.aps-concept-table td:last-child {
+  width: 40%;
+}
