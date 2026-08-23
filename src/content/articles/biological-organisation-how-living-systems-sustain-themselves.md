@@ -228,14 +228,14 @@ The organisational architecture established here is developed or extended in art
 - Why APS Reframes Biology
 
 ### Related Explanatory Questions
-How does constraint closure contribute to the maintenance of living organisation?
-Why is viability required to distinguish biologically consequential changes from organisational dependence alone?
-How does regulation contribute to the maintenance and re-establishment of biological organisation?
-How can a living system persist while its material constituents and organisational configuration change?
-How can development involve organisational continuity through substantial transformation?
-How can living systems remain organisationally distinct while depending materially upon their environments?
-How are biologically relevant dependencies organised across spatial and temporal extents?
-What explanatory contribution does biological organisation make alongside molecular, mechanistic, physiological, developmental, and ecological explanations?
+- How does constraint closure contribute to the maintenance of living organisation?
+- Why is viability required to distinguish biologically consequential changes from organisational dependence alone?
+- How does regulation contribute to the maintenance and re-establishment of biological organisation?
+- How can a living system persist while its material constituents and organisational configuration change?
+- How can development involve organisational continuity through substantial transformation?
+- How can living systems remain organisationally distinct while depending materially upon their environments?
+- How are biologically relevant dependencies organised across spatial and temporal extents?
+- What explanatory contribution does biological organisation make alongside molecular, mechanistic, physiological, developmental, and ecological explanations?
 
 ### Position Within APS
 
