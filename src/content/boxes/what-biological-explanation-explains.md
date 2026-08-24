@@ -6,27 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-14
-revised: 2026-06-03
+revised: 2026-08-24
 cluster: methodology-and-explanation
 ---
 
-APS explains living systems as viability-oriented, constraint-closed organisations whose activity contributes to maintaining the conditions of their own persistence across time.
+APS explains living systems as viability-oriented, constraint-closed organisations whose activity maintains and re-establishes conditions required for continued functioning.
 
-In broad terms, APS understands biological organisation through three interconnected explanatory dimensions:
+Agency, Process, and Scale are complementary analytic projections of this one organisation. **Agency** concerns what living systems do. **Process** concerns how organisational continuity is maintained despite change. **Scale** concerns where persistence is organised across spatial and temporal extents.
 
-- Agency = viability-oriented activity
-- Process = continuity-through-transformation
-- Scale = distributed organisation across interacting domains
+These projections help formulate different biological explananda without determining in advance what an adequate explanation must contain. APS may ask how viability is maintained, how constraints are mutually sustained, how continuity persists through transformation, or how materially implemented relations across spatial and temporal extents alter local conditions.
 
-Within this framework, biological phenomena are understood according to the role they play in organised persistence:
+Other APS concepts identify more specific explanatory relations. Biological Evaluation concerns the process through which agency generates significance. Function concerns present-tense viability-relative organisational contribution. Purpose concerns viability-oriented organisation without requiring intention or future-directed causation. Cognition requires an organisation of biological significance that goes beyond immediate evaluation or fixed regulation. Evolution concerns historical change and remains explanatorily distinct from the present organisation of living systems.
 
-- agency concerns the viability-oriented activity through which living systems help sustain themselves
-- process concerns the ongoing organisation and transformation through which continuity is maintained
-- scale concerns the relationships through which persistence is coordinated across interacting spatial and temporal domains
-- cognition concerns viability-oriented evaluation
-- semiosis concerns differences that matter for persistence
-- function concerns contributions to viability
-- purpose concerns the viability-oriented organisation of biological activity
-- evolution concerns the historical transformation of organised persistence
-
-These are not separate explanatory domains. Together they describe complementary dimensions of the organisation through which living systems maintain, regenerate, and transform their own persistence across time.
+APS therefore does not treat all biological phenomena as expressions of organised persistence or require every explanation to employ its full conceptual vocabulary. Organised persistence denotes the continuity of living organisation through material and structural transformation. Whether an APS account adds explanation in a particular case must be established relative to the explanandum and the relevant comparator.

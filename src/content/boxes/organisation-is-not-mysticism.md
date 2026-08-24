@@ -6,13 +6,13 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-08-24
 cluster: philosophy-of-biology
 ---
 
 APS treats organisation as a real and scientifically investigable feature of living systems.
 
-Organisation does not refer to hidden vital forces, supernatural properties, or mysterious holistic essences. It refers to the materially implemented relations, regulatory dynamics, constraints, and processes through which biological systems maintain and re-establish the conditions of their persistence.
+Organisation does not refer to hidden vital forces, supernatural properties, or mysterious holistic essences. It refers to the materially implemented relations, regulatory dynamics, constraints, and processes through which living systems maintain and re-establish conditions required for continued functioning.
 
 Within APS, living organisation is viability-oriented and constraint-closed. Organisation is ongoing activity rather than a static arrangement of components, and its biological consequences can be investigated through the material processes by which that organisation is enacted and sustained.
 

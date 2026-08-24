@@ -6,34 +6,18 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
-revised: 2026-05-11
+revised: 2026-08-24
 cluster: diagnostics-and-empirical-tractability
 ---
 
-In APS, perturbation is diagnostically important because organisation becomes most visible when it is challenged.
+In APS, perturbation can be diagnostically useful because disruption may make organisational dependencies visible that are difficult to distinguish under relatively stable conditions.
 
-A system observed only under stable conditions may appear organised while relying entirely upon externally supplied support or passive stability. Perturbation reveals whether the system actively contributes to maintaining its own persistence.
+A system observed only during successful functioning may not reveal which relations contribute to maintaining that functioning. Perturbation can establish contrasts through which regulation, compensation, repair, reorganisation, dependence, and failure become empirically accessible.
 
-Under disruption, systems may:
-- degrade,
-- remain externally stabilised,
-- compensate partially,
-- or reorganise activity in ways that restore viability.
+Under disruption, a system may degrade, remain dependent upon external support, compensate partially, or reorganise its activity in ways that maintain or re-establish conditions required for continued functioning. Comparing these responses can reveal dependencies, regulatory capacities, limits of viability, and relations involved in maintaining living organisation.
 
-These responses expose:
-- organisational dependencies,
-- capacities for endogenous regulation,
-- limits of persistence,
-- and the degree to which viability is actively maintained.
+Perturbation is therefore a useful investigative strategy rather than a universally privileged diagnostic method. Not every organisational relation requires perturbation to be identified, and disruption does not by itself establish an APS explanation.
 
-For this reason, APS treats perturbation not as accidental interference, but as a principled diagnostic method.
+Where perturbation reveals that particular activities, constraints, or relations make a relevant difference to viability, those contrasts can provide evidence for an organisational explanation. Constraint closure, where relevant, concerns the mutual maintenance of constraints involved in sustaining living organisation rather than independence from environmental or material support.
 
-A living system does not merely undergo change.
-It modulates its organisation relative to conditions affecting its continued existence.
-
-Perturbation therefore reveals whether:
-- activity contributes to self-maintenance,
-- constraint relations are internally sustained,
-- and organisational coherence can be preserved across changing conditions.
-
-**Key Point:** In APS, perturbation is diagnostically central because disruption reveals whether a system can reorganise activity in ways that preserve viability-oriented organised persistence.
+**Key Point:** Perturbation can make organisational dependencies experimentally tractable by revealing how a living system responds when conditions affecting viability are altered. Whether those dependencies provide explanatory gain must still be established relative to the explanandum and relevant comparator.

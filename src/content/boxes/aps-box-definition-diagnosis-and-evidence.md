@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-08-22
+revised: 2026-08-24
 cluster: diagnostics-and-empirical-tractability
 ---
 
@@ -22,7 +22,7 @@ In APS, definition, diagnosis, and evidence must not be conflated.
 
 APS therefore treats biological evidence not as a checklist of traits but as evidence bearing on claims about living organisation. A system may move without being alive, regulate without thereby satisfying the APS definition of life, or display complex behaviour without thereby demonstrating biological agency.
 
-Organised persistence poses a related but distinct explanatory problem: how living organisation maintains and re-establishes continuity through change. Evidence concerning repair, regulation, compensation, and reorganisation may therefore help investigate organised persistence without making organised persistence a second definition of life.
+Organised persistence poses a related but distinct explanatory problem: it denotes the continuity of living organisation through ongoing material and structural transformation. Evidence concerning repair, regulation, compensation, and reorganisation may therefore help investigate organised persistence without making organised persistence a second definition of life.
 
 The evidential significance of any proposed indicator depends upon the claim being tested. APS terminology or conceptual architecture alone cannot establish that an observed process is diagnostic of life, biological agency, or explanatory superiority over an alternative account.
 

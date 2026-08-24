@@ -6,18 +6,18 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-11
-revised: 2026-06-03
+revised: 2026-08-24
 cluster: diagnostics-and-empirical-tractability
 ---
 
-In APS, failure is not merely the absence of successful functioning. It is a revealing feature of viability-oriented organisation itself.
+In APS, failure is not merely the absence of successful functioning. It can provide evidence about the dependencies and limits of viability-oriented organisation.
 
-Living systems exist only through the ongoing maintenance of conditions required for their persistence. Because those conditions are vulnerable, malfunction, breakdown, and death become biologically meaningful. Failure therefore exposes what a system depends upon, how its organisation is maintained, where its regulatory limits lie, and whether persistence can be restored under perturbation.
+Living systems maintain and re-establish conditions required for continued functioning. Because those conditions are vulnerable to disruption, malfunction, breakdown, and loss of viability can make otherwise unobtrusive organisational dependencies experimentally accessible. Failure may reveal what particular activities or relations contribute, where regulatory limits lie, and under what conditions functioning can or cannot be restored.
 
-Systems capable of repair, compensation, adaptive reorganisation, or recovery reveal forms of internally grounded organisation that are not present in merely stable physical systems. Their responses to disruption make visible the organisational capacities responsible for sustaining continuity.
+Repair, compensation, reorganisation, and recovery can likewise provide evidence about the activities, constraints, and dependencies involved in maintaining living organisation. These responses remain materially and environmentally implemented; they do not imply that living systems are organisationally independent of external conditions.
 
-This is why failure is diagnostically important in biology. Malfunction reveals persistence-sensitive function, breakdown reveals erosion of organisational coherence, and death reveals the collapse of viability-oriented persistence itself.
+Failure is therefore diagnostically useful where contrasts between successful functioning, impairment, recovery, and irreversible breakdown identify relations that make a relevant difference to viability. Malfunction can help identify present-tense viability-relative organisational contributions, while breakdown can reveal dependencies required for continued organisation. Death marks the irreversible loss of the viability-oriented, constraint-closed organisation constitutive of Life.
 
-In APS, vulnerability is therefore not accidental to life. It is constitutive of the kind of organisation living systems are.
+Vulnerability is consequently important to the study of living organisation because viability can be maintained, impaired, restored, or lost under different conditions. Failure is one investigative route through which these differences and their organisational dependencies can become tractable.
 
-**Key Point:** Living systems reveal their organisational structure most clearly through vulnerability, repair, breakdown, and the ongoing possibility of failure.
+**Key Point:** Failure, repair, and recovery can reveal dependencies relevant to living organisation, but disruption does not by itself establish an APS explanation. Any claimed explanatory contribution must be assessed relative to the explanandum and relevant comparator.

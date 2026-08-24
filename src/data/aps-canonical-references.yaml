@@ -4029,3 +4029,17 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-08-24
+- id: wright-1973-functions
+  type: journal-article
+  authors: Wright, L.
+  year: 1973
+  title: Functions
+  journal: The Philosophical Review
+  volume: '82'
+  issue: '2'
+  pages: 139–168
+  doi: 10.2307/2183766
+  verification:
+    status: verified
+    authority: JSTOR
+    verifiedDate: 2026-08-24
