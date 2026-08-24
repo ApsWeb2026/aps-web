@@ -6,20 +6,20 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-08-24
 cluster: philosophy-of-biology
-
+role: extension
 abstract: >
-  This article develops an APS account of organisational realism in biology.
-  APS argues that biological explanation succeeds because it tracks real
-  forms of viability-oriented organised persistence rather than merely
-  describing observer-imposed patterns or heuristic abstractions. Agency,
-  function, normativity, semiosis, evaluation, and constraint closure are
-  interpreted as organisational features of living systems themselves.
-  Biological intelligibility therefore depends upon the reality of the
-  continuity-producing organisation through which living systems actively
-  maintain the conditions required for their own persistence across time.
-
+  This article develops the organisational-realist commitment associated
+  with APS's biological account. It examines whether materially implemented
+  organisational relations, constraints, dependencies, and activities should
+  be treated as real features of living systems rather than merely as
+  observer-imposed descriptions. APS defines Life as viability-oriented,
+  constraint-closed organisation and treats organised persistence as the
+  continuity of that organisation through material and structural change.
+  Organisational realism is therefore a philosophical commitment concerning
+  the reality tracked by organisational explanation, not evidence that an APS
+  explanation is automatically superior to an established biological account.
 relatedArticles:
   - aps-as-philosophy-biological-intelligibility
   - aps-and-contemporary-theories
@@ -34,7 +34,6 @@ relatedArticles:
   - diagnosis-as-continuity-analysis
   - normativity-in-biology-why-some-things-matter-to-living-systems
   - semiosis-how-differences-come-to-matter-in-living-systems
-
 relatedGlossaryTerms:
   - biological-organisation
   - biological-agency
@@ -52,296 +51,264 @@ relatedGlossaryTerms:
   - evaluation
   - semiosis
   - perturbation
-
 references:
-  - id: boyd1983
-    authors: "Boyd, R."
-    year: 1983
-    title: "On the Current Status of Scientific Realism"
-    publisher: "University of California Press"
-
-  - id: psillos1999
-    authors: "Psillos, S."
-    year: 1999
-    title: "Scientific Realism: How Science Tracks Truth"
-    publisher: "Routledge"
-
-  - id: nicholson-dupre2018
-    authors: "Nicholson, D., & Dupré, J. (Eds.)"
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-
-  - id: moreno-mossio2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: "Springer"
-
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "A Philosophy of Living Systems"
-    publisher: "Routledge"
-
-  - id: craver2007
-    authors: "Craver, C."
-    year: 2007
-    title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
-    publisher: "Oxford University Press"
-
-  - id: bechtel2011
-    authors: "Bechtel, W."
-    year: 2011
-    title: "Mechanism and Biological Explanation"
-    journal: "Philosophy of Science"
-    volume: "78"
-    pages: "533–557"
-
-  - id: thompson2007
-    authors: "Thompson, E."
-    year: 2007
-    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
-    publisher: "Harvard University Press"
-
-  - id: brigandt2013
-    authors: "Brigandt, I."
-    year: 2013
-    title: "Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation"
-    journal: "Studies in History and Philosophy of Biological and Biomedical Sciences"
-    volume: "44"
-    pages: "477–492"
-
-  - id: wimsatt2007
-    authors: "Wimsatt, W."
-    year: 2007
-    title: "Re-Engineering Philosophy for Limited Beings"
-    publisher: "Harvard University Press"
+  - psillos-1999-scientific-realism
+  - nicholson-dupre-2018-everything-flows
+  - moreno-mossio-2015-biological-autonomy
+  - craver-2007-explaining-the-brain
 ---
+
+> **Where this article fits:** This article examines one specific philosophical commitment associated with APS: the claim that biological organisation can be treated as a materially realised feature of living systems rather than merely as an observer-imposed description. The broader philosophical commitments and implications of APS are examined in *[APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility](/articles/aps-as-philosophy-biological-intelligibility/)*. Organisational realism does not determine the standards of biological explanation. APS remains a comparative explanatory methodology, and particular APS proposals must establish their contribution relative to specified explananda and relevant comparators.
 
 ## Organisational Realism in Biology
 
-> **Where this article fits:** This article develops the ontological implications of APS by defending the reality of biological organisation itself. For the broader philosophical reconstruction of biological intelligibility developed within APS — including explanatory grammar, normativity, mechanism, semiosis, cognition, and organised persistence — see *[APS as Philosophy — A Viability-Oriented Reconstruction of Biological Intelligibility](/articles/aps-as-philosophy-biological-intelligibility/)*.
+Biology routinely investigates living systems through concepts such as function, regulation, adaptation, agency, development, signalling, cognition, and organisation. These concepts raise an ontological question as well as an explanatory one: when biological inquiry identifies an organisational relation, is it tracking something materially realised in the living system, or merely imposing a useful pattern upon underlying physical processes?
 
-Biology routinely explains living systems through concepts such as function, regulation, adaptation, agency, information, development, cognition, and organisation. Yet the ontological status of these concepts remains deeply contested. Within strongly reductionist traditions, explanatory reality is often identified primarily with constituent physical processes, while biological organisation is treated as a descriptive abstraction rather than a real feature of living systems. Organisms may be regarded as convenient ways of describing molecular activity, while functions, purposes, norms, and organisational structures are interpreted as explanatory shortcuts rather than features of reality itself.
+APS develops an organisational-realist answer to that question. Its claim is not that organisation constitutes an additional substance or causal force beyond the physical processes through which living systems exist. Rather, materially implemented relations, dependencies, constraints, and activities may themselves be real features of biological systems. Organisation, on this view, concerns how such material processes are related in the ongoing activity of a living system.
 
-APS rejects this conclusion. It argues that biological explanation succeeds because it tracks real organisational features of living systems. Viability, agency, function, constraint closure, normativity, evaluation, semiosis, and organised persistence are not merely descriptive conveniences layered onto an underlying mechanistic reality. They are organisational relations through which living systems actively maintain the conditions required for their continued existence. The explanatory power of biology therefore depends upon recognising that these organisational structures are themselves part of the reality biological inquiry seeks to understand.
+The central claim of organisational realism is therefore deliberately limited:
 
-The central claim of organisational realism is consequently straightforward:
+> Biological organisation is not merely a useful description of living systems. Materially implemented organisational relations can be real features of living systems themselves.
 
-> Biological organisation is not merely a useful description of living systems. It is a real feature of living systems themselves.
+Within APS, this claim begins from the canonical biological account:
 
-APS therefore develops a realism grounded not in static entities but in dynamically sustained continuities. Living systems persist through continual transformation, ongoing regulation, and active responses to changing and potentially destabilising conditions. Biological organisation is real because the persistence of living systems depends upon it. The task of biological explanation is therefore not simply to describe organisational patterns, but to understand how those patterns actively contribute to the maintenance of viability across time.
+> **Life is viability-oriented, constraint-closed organisation.**
+
+Organised persistence has a different and more restricted role. It denotes the continuity of living organisation through ongoing material and structural transformation. Living systems can remain organisationally continuous while components are replaced, structures change, and activities are reorganised. This continuity does not define Life and is not the underlying source from which biological agency, normativity, function, cognition, or explanation arise.
+
+Organisational realism is consequently a philosophical commitment concerning what biological organisational claims may refer to. It does not establish, merely by being realist, that an APS account explains a phenomenon better than an established mechanistic, developmental, evolutionary, ecological, or other explanation. Where APS proposes that a particular organisational relation contributes additional understanding, that contribution must be established relative to the explanandum and the relevant comparator. Redescription in organisational vocabulary is not by itself explanatory gain.
 
 [[box:aps-box-explanation-is-not-reduction]]
 
 [[box:aps-box-organisation-is-not-mysticism]]
 
-## The Problem of Biological Reality
+# The Problem of Biological Reality
 
-Modern biology routinely explains living systems using concepts such as function, regulation, adaptation, signalling, information, development, cognition, and agency. These concepts appear indispensable to biological inquiry because they help explain how living systems maintain themselves, coordinate activity, respond to environmental change, and persist through time. Yet many philosophical accounts simultaneously deny that such concepts refer to anything ontologically substantial. Functions become shorthand for selected effects, information becomes observer-relative correlation, agency becomes anthropomorphic projection, and organisation becomes descriptive abstraction imposed upon underlying physical processes.
+The question of biological reality arises because successful biological inquiry often depends upon relations that are not captured simply by listing the material components present in a system. Regulation, development, repair, signalling, functional contribution, and organism–environment interaction concern not only what components exist but what those components do in relation to one another and to the continuing activity of the system.
 
-APS argues that this creates a profound explanatory tension. If biological explanation systematically succeeds through reference to organisation, viability, regulation, continuity, adaptation, evaluation, semiosis, and persistence, then it becomes difficult to dismiss these concepts as merely heuristic. Their explanatory success itself requires explanation. Biological inquiry repeatedly identifies organisational structures that support prediction, intervention, diagnosis, and understanding. A philosophical account that treats such structures as unreal must therefore explain why concepts lacking genuine referents nevertheless play such a central role in successful biological explanation.
+This does not imply that component analysis or mechanistic explanation is deficient. Mechanistic accounts can provide substantive and sometimes sufficient explanations by identifying entities, activities, interactions, causal organisation, and the conditions under which biological phenomena occur (Craver 2007). Nor does organisational realism require a contrast between an allegedly superficial mechanism and a deeper organisational reality. Mechanisms themselves can be dynamically organised, environmentally embedded, and extended across spatial and temporal extents.
 
-This problem reflects a broader issue within scientific realism. Scientific realists have long argued that the success of mature scientific theories is difficult to explain unless those theories track genuine features of reality. APS extends this insight into biology. Biological explanation succeeds not simply because it describes molecular components accurately, but because it identifies real organisational dependencies through which living systems sustain viability across time. The explanatory importance of organisation therefore provides evidence for its reality rather than grounds for its elimination.
+The realist question is instead whether some of the organisational dependencies identified by biology should be understood as features of the systems investigated rather than merely as conveniences of description. Scientific realism more generally asks how the success of scientific representation bears upon claims about the reality described by science, while allowing that models, concepts, and theories remain fallible and revisable (Psillos 1999). APS applies a bounded version of that question to living organisation.
 
-APS consequently treats organised persistence as both explanatorily and ontologically significant. Living systems become intelligible because they exhibit continuity-producing organisational relations that actively contribute to maintaining viability. The reality of biological organisation is therefore not an optional philosophical addition to biological explanation. It is part of what makes biological explanation possible in the first place.
+Its proposal is that biological inquiry can sometimes identify materially implemented organisational dependencies that make a difference to how living systems function. A regulatory relation, a constraint, or a dependency among activities need not correspond to an additional entity in order to be real. Its reality can consist in the material relations through which particular activities constrain, enable, maintain, or alter other activities within the living system.
 
-<div class="aps-diagram aps-diagram-large">
+The explanatory importance of such relations can motivate an organisational-realist interpretation, but explanatory usefulness and ontological reality should not simply be equated. A successful explanatory representation may simplify, idealise, or abstract. Conversely, identifying a relation as organisational does not establish that it contributes beyond what a comparator already explains. Organisational realism therefore remains a philosophical interpretation of what certain successful biological explanations may be tracking, not a shortcut to demonstrating APS explanatory success.
 
-<a href="/assets/diagrams/organisational-geometry-of-organised-persistence.png" target="_blank" rel="noopener">
-  <img
-    src="/assets/diagrams/organisational-geometry-of-organised-persistence.png"
-    alt="Organisational geometry of organised persistence"
-    loading="lazy"
-  />
-</a>
+## Organisation as Materially Real Biological Organisation
 
-</div>
+APS does not oppose organisational reality to physical reality. Living systems are materially constituted, and biological activities occur through physical interactions. Organisational realism concerns the relations among those materially realised activities rather than a second kind of substance placed above or outside them.
 
-<div class="diagram-caption">
+A living system can therefore be analysed both in terms of its components and in terms of dependencies among the processes through which those components participate in continuing biological activity. Whether an organisational account is needed depends upon the explanandum. For some questions, identifying components, interactions, and mechanisms may be sufficient. For others, the explanandum may concern the relations through which particular activities contribute to maintaining or re-establishing conditions required for continued functioning.
 
-**The Organisational Geometry of Organised Persistence.** APS treats organised persistence as the continuity-producing reality underlying biological intelligibility, normativity, function, mechanism, semiosis, and viability-oriented regulation.
+These organisational relations are not made real simply because APS names them. Their proposed reality depends upon their material implementation and upon evidence that the relevant relations genuinely obtain in the system under investigation. Regulatory activity, constraint relations, repair, compensatory change, and organism–environment interaction can provide experimentally tractable cases in which changing one relation alters the conditions under which other biological activities occur.
 
-</div>
+Organised persistence is relevant here as an explanandum rather than an ontological foundation. Living systems undergo continual material and structural transformation while sometimes retaining organisational continuity. Asking how that continuity is maintained directs attention to the activities and dependencies through which conditions of viability are maintained or re-established. It does not imply that persistence itself acts as a cause or that all biological phenomena derive their significance from a single persistence-producing principle.
 
-## Organisation as Continuity-Producing Reality
-
-APS does not deny the reality of physical processes. Living systems are fully physical systems, and every biological activity depends upon physical interactions occurring across multiple scales. The question is not whether physical processes are real, but whether a complete inventory of physical components is sufficient to explain living organisation. APS argues that it is not.
-
-What distinguishes living systems is not merely the materials from which they are composed, but the organisation through which those materials participate in persistence-maintaining activity. Living systems regulate internal conditions, compensate for perturbation, adapt to changing environments, coordinate developmental transformation, and preserve viability despite continual material turnover. Biological explanation therefore concerns more than the existence of physical processes. It concerns the organisational relationships through which those processes contribute to maintaining continuity across time.
-
-This organisation is not imposed by observers. It is enacted through the activity of the living system itself. Organisms persist because their activities continually regenerate the conditions required for continued viability. Regulation, repair, adaptation, evaluation, semiosis, and environmental interaction are not independent phenomena layered onto biological systems. They are interconnected aspects of the organisational architecture through which persistence is maintained. The reality of organisation therefore derives from its causal and explanatory role in sustaining living continuity.
-
-APS consequently treats organisation, continuity, regulation, viability, evaluation, semiosis, and persistence as objectively real dimensions of biological systems. These organisational relations are not reducible to descriptive convenience because living systems genuinely depend upon them for continued existence. Biological organisation is therefore real in the same sense that biological processes, ecological interactions, and evolutionary dynamics are real: it contributes causally to the persistence of living systems and provides indispensable explanatory insight into how that persistence is achieved.
+Processual approaches in philosophy of biology have likewise emphasised the importance of transformation and continuity in understanding living systems (Nicholson and Dupré 2018). APS's organisational-realist proposal is more specific: where continuity depends upon materially implemented organisational relations, those relations may legitimately be treated as features of the biological system rather than merely as features of its description.
 
 ## Organisation Is Not Mere Arrangement
 
-APS does not treat organisation as synonymous with structure, complexity, interaction density, or static arrangement. Many non-living systems exhibit highly ordered configurations. Crystals display regular structures, weather systems exhibit dynamic patterns, and physical processes can generate remarkable forms of complexity. Yet such systems differ fundamentally from living systems because their organisation does not actively contribute to maintaining the conditions required for their own continued persistence.
+Organisation should not be identified with static structure, complexity, interaction density, or visual order. Non-living systems can exhibit highly regular structures and complex dynamics. The APS claim concerns a more specific form of organisation: the materially implemented relations through which living activity is viability-oriented and constraint-closed.
 
-Biological organisation is distinctive because it is persistence-maintaining. The organisational relations present within living systems actively regulate viability, coordinate activity, compensate for perturbation, and sustain continuity through ongoing transformation. Organisation therefore refers not simply to how components are arranged, but to how relationships among components contribute to preserving the conditions under which the system can continue to exist.
+The distinction matters because a description of arrangement alone does not establish the presence of living organisation. To identify an organisational relation in the relevant APS sense requires evidence about what the relation does within the system: what activities it constrains or enables, what dependencies are sustained, and how those relations bear upon conditions required for continued functioning.
 
-This distinction explains why organisation possesses explanatory significance within biology. A living system does not persist because observers identify useful patterns within it. It persists because organisational relations genuinely regulate the activities through which viability is maintained. Development, adaptation, repair, evaluation, semiosis, and environmental responsiveness all derive their biological importance from their contribution to continuity-preserving organisation. Biological organisation is therefore neither mystical nor reducible to static pattern. It is the continuity-producing architecture through which living systems sustain themselves across time.
+Constraint closure provides an especially important example. Constraints are not immaterial controls standing outside physical processes. They are materially implemented conditions that modulate what processes can occur, while the continued presence or effectiveness of the relevant constraints depends upon processes that they themselves help constrain. The resulting organisation is relational and materially enacted (Moreno and Mossio 2015).
 
-APS consequently interprets organisation as a real feature of biological systems rather than an observer-imposed description of them. The organisational relationships identified by biological explanation are significant because living systems depend upon them for continued persistence. Organisation is therefore biologically real not merely because it can be described, but because it actively contributes to the viability-oriented continuity that defines living existence.
-
-[[box:aps-box-function-is-contribution-to-viability]]
+The claim that such organisation is real does not mean that every higher-order description identifies an autonomous causal entity. Nor does it imply that organisational language automatically improves upon mechanistic description. Organisational realism instead allows that relations among materially implemented activities and constraints can themselves be legitimate objects of empirical investigation where they make a relevant difference to the phenomenon being explained.
 
 ## Continuity, Perturbation, and Dynamic Stability
 
-APS treats living systems as dynamically sustained continuities rather than static entities. This distinction is fundamental because living systems persist not by remaining unchanged, but by continuously reorganising themselves in ways that preserve viability despite ongoing transformation. Biological continuity therefore differs from the persistence of static objects. What remains stable is not material composition alone, but the organised relations through which viability is maintained across time.
+Living systems do not maintain continuity by remaining materially unchanged. Components turn over, metabolic activity continues, development transforms structure, and environmental conditions vary. **Organised persistence** denotes the continuity of living organisation through such material and structural transformation.
 
-Dynamic stability consequently differs from equilibrium. A system in equilibrium remains stable because little changes. Living systems remain stable precisely because change is continuously regulated. Metabolic turnover, developmental transformation, behavioural adjustment, ecological interaction, and physiological regulation all alter the system while simultaneously contributing to the preservation of continuity. Stability in living systems is therefore an achievement rather than a default condition. It is actively maintained through ongoing organisational activity.
+This distinguishes persistence from permanence. What continues need not be an invariant material composition or fixed structure. Organisational continuity can instead depend upon ongoing activities that maintain or re-establish conditions required for continued functioning. The biological interest of this continuity lies precisely in the fact that it can persist through change.
 
-This perspective reveals why continuity occupies such a central place within biological explanation. Continuity is not the absence of change but the preservation of viability through change. Living systems remain identifiable because organisational processes continually regenerate the conditions required for persistence despite fluctuations in material composition, environmental conditions, and internal activity. Biological continuity therefore depends upon active organisation rather than static permanence.
+The term *dynamic stability* can be useful in this context, provided it is not opposed too simply to equilibrium. Living systems may employ regulatory, metabolic, developmental, or behavioural processes that respond to changing conditions, but the relevant explanatory question is not whether change occurs. It is which materially implemented relations make a difference to maintaining or re-establishing viability under those conditions.
 
-Perturbation becomes especially significant within this framework because continuity often becomes most visible when it is challenged. Under favourable conditions, many aspects of living organisation remain hidden. Systems appear stable because the processes maintaining stability operate successfully in the background. Disturbance exposes these processes by revealing how systems respond when continuity is threatened. Recovery, compensation, adaptation, resilience, and repair all make visible the organisational relations through which viability is preserved.
+Perturbation can help investigate those relations. Altering a component, environmental condition, constraint, or regulatory interaction may reveal dependencies that are difficult to distinguish during relatively undisturbed functioning. Recovery, compensation, reorganisation, impairment, and failure can thereby provide contrasts from which organisational relations may be inferred.
 
-For this reason, APS treats perturbation not merely as accidental disruption but as a major source of explanatory insight. Breakdown, recovery, compensation, and reorganisation reveal organisational dependencies that may otherwise remain concealed. Perturbation therefore provides a privileged window into biological reality because it exposes the processes through which continuity is actively maintained. The reality of biological organisation becomes particularly apparent when the work required to sustain persistence can no longer remain invisible.
+Perturbation is nevertheless an investigative strategy rather than a privileged route to biological reality. Some organisational relations can be established without disruptive intervention, and perturbation by itself does not show that an APS interpretation is correct. The resulting evidence must support the specific organisational claim being made and, where explanatory contribution is at issue, must be assessed against the relevant comparator.
 
 [[box:perturbation-reveals-organisation]]
 
 ## Viability and Constraint Closure
 
-APS understands living systems as viability-oriented forms of organised persistence. Living systems are not organised arbitrarily. Their activities are structured around maintaining the conditions required for continued existence. Viability therefore provides the organising principle through which biological processes become intelligible. Regulation, repair, metabolism, development, reproduction, environmental interaction, evaluation, and semiosis all derive biological significance from their relationship to the maintenance of viability.
+APS defines Life as **viability-oriented, constraint-closed organisation**. Viability orientation and constraint closure identify related but distinct features of this organisation. Viability orientation concerns the way living activity bears upon conditions required for continued functioning. Constraint closure concerns the mutually dependent organisation of materially implemented constraints through which relevant biological processes are modulated and sustained.
 
-This perspective transforms the meaning of constraint closure within biological explanation. Within APS, constraint closure is not merely a useful modelling concept. It describes a real organisational feature of living systems in which constraints contribute to maintaining the network of processes upon which those constraints themselves depend. Organisational continuity becomes possible because the system actively regenerates the conditions required for its own persistence. Living systems therefore differ from many other organised systems in that the maintenance of organisation is itself an ongoing organisational achievement.
+Viability does not function as an external goal imposed upon the system. Living systems occupy conditions under which continued functioning is possible, impaired, restored, or lost. Those differences generate a biologically significant asymmetry: some conditions support continued organisation while others undermine it. APS grounds biological normativity in this **viability-relative asymmetry**, rather than in observer judgement or in organised persistence treated as an independent explanatory principle.
 
-Constraint closure helps explain how biological continuity becomes self-maintaining rather than externally imposed. The processes sustaining viability are not independent of the organisation they support. Instead, they participate within networks of mutual dependence through which living systems continually regenerate their own conditions of existence. Organisational persistence therefore emerges from the coordinated activity of processes whose significance derives from their contribution to viability.
+Constraint closure likewise should not be understood as independence from an environment. Living systems depend upon matter, energy, environmental conditions, and interactions beyond their boundaries. Closure concerns the organisation of constraints involved in maintaining living activity, not energetic or material closure. In autonomy-based accounts, this form of mutual dependence among constraints has been used to characterise an important feature of biological organisation (Moreno and Mossio 2015).
 
-This account also grounds biological normativity. Viability introduces a genuine asymmetry into living organisation because some states support persistence while others undermine it. These differences are not imposed by observers. They arise from the requirements of the organisation itself. What counts as successful regulation, adaptive behaviour, effective function, or meaningful information depends upon whether those activities contribute to maintaining viability. Normativity therefore becomes a consequence of organisational reality rather than an external interpretive framework.
+Within APS, constraint closure is not presented as a stage that follows viability, nor as something generated by organised persistence. Together, viability orientation and constraint closure specify the organisation constitutive of Life. Organised persistence then names the continuity of that organisation where it is maintained through ongoing transformation.
 
-APS consequently shares important insights with autonomy-based approaches while extending them into a broader account of organised persistence. Constraint closure, viability, regulation, evaluation, and continuity are treated not as separate explanatory principles but as interconnected dimensions of a single organisational reality through which living systems sustain themselves across time.
+This formulation also prevents biological normativity from being inferred merely from survival or persistence. The relevant asymmetry concerns conditions relative to the viability of the organisation in question. A state, activity, or environmental change may support, impair, or make no relevant difference to continued functioning. Establishing those relations is an empirical matter.
+
+Where activities and constraints extend across different spatial or temporal extents, their influence should likewise be understood materially. A process occurring over a wider extent does not exert a special higher-level force upon a local process. It can alter local conditions through implemented constraints, material interactions, boundary conditions, resource distributions, signalling relations, or other physical dependencies. Scale in APS concerns **where persistence is organised across spatial and temporal extents**, not a hierarchy of causal levels.
+
+Agency, Process, and Scale can therefore be used analytically without dividing the living system into separate domains. They are projections of the same viability-oriented, constraint-closed organisation: Agency concerns what the living system does; Process concerns how organisational continuity is maintained despite change; Scale concerns where that persistence is organised across spatial and temporal extents. Their analytical usefulness does not establish explanatory gain in advance. Where an APS account invokes them, their contribution must still be demonstrated relative to the explanandum and the relevant established explanation.
 
 [[box:aps-box-normativity-is-endogenous]]
 
-[[box:aps-box-viability-grounds-evaluation]]
-
 ## Agency as Organisational Regulation
 
-APS similarly treats *[biological agency](/glossary/biological-agency/)* as an organisationally real feature of living systems. Agency does not require consciousness, symbolic reasoning, intentional reflection, or sophisticated cognition. Instead, it refers to the capacity of a system to regulate activity in ways that contribute to maintaining viability. Agency therefore emerges wherever a system actively participates in preserving the conditions required for its own continued existence.
+Within APS, biological agency concerns **what living systems do** as viability-oriented, constraint-closed organisations. Agency is therefore not an additional property that emerges once viability, constraint closure, or organised persistence has already been established. It is an analytic projection of the living organisation itself, directed toward the activities through which the system acts under conditions relevant to its continued functioning.
 
-This conception differs significantly from views that associate agency primarily with psychological capacities. Many living systems exhibit agency despite lacking anything resembling human cognition. Organisms regulate internal conditions, respond to environmental changes, compensate for perturbation, and reorganise activity in ways that support persistence. Such activities reveal that agency is fundamentally concerned with viability-oriented regulation rather than with conscious decision-making.
+This account does not require consciousness, deliberation, representation, or explicit intention. A living system may alter its activity in relation to changing conditions through materially implemented regulatory processes without possessing any of those capacities. The relevant question is whether the activity belongs to the organisation through which the system maintains or re-establishes conditions of viability.
 
-Agency is therefore inseparable from biological organisation. A system exhibits agency because its activities contribute to maintaining continuity relative to viability conditions. Responses become biologically significant not merely because they occur, but because they function within a larger organisational architecture directed toward persistence. Agency thus provides a way of understanding how living systems actively participate in shaping their own continuity rather than simply undergoing externally imposed change.
+Agency should consequently be distinguished from mere causal activity. Physical systems produce effects, and many non-living systems respond dynamically to environmental change. Biological agency, in the APS sense, concerns activity organised relative to the viability of the living system. This does not make agency an independent causal force. The activity is realised through the same material processes, constraints, and interactions investigated by biological science.
 
-This perspective also clarifies the relationship between agency and evaluation. To regulate activity relative to viability, a system must be organised in ways that distinguish conditions supporting persistence from conditions undermining it. Evaluation therefore becomes an organisational consequence of agency rather than an additional explanatory layer. Living systems act because their organisation is structured around maintaining viability, and they evaluate because successful regulation depends upon differences that matter to persistence.
+This distinction also limits the ontological conclusion that can be drawn from APS terminology. Calling an activity *agential* does not establish that the proposed organisation is present, nor does it demonstrate that an agential description explains more than an established mechanistic or regulatory account. Where APS proposes biological agency as explanatorily relevant, the relevant dependencies must be identified and their contribution assessed against the explanandum and comparator.
 
-APS consequently treats agency as a real organisational feature of living systems. It is neither an anthropomorphic projection nor a metaphorical description of mechanistic activity. Agency reflects the capacity of living systems to regulate continuity relative to viability conditions and therefore occupies a central place within biological reality itself.
+Agency is therefore compatible with organisational realism without being generated by it. Organisational realism concerns whether the materially implemented relations identified in an organisational account are real features of the system. Agency concerns one way of analysing that organisation: the viability-oriented activity of the living system.
 
-## Beyond Reductionism and Holism
+## Normativity and Evaluation
 
-Organisational realism differs from both reductionism and vague forms of holism. Reductionist approaches often attempt to explain biological phenomena entirely in terms of constituent physical processes, while holistic approaches frequently emphasise the unity of living systems without adequately specifying the organisational relations that sustain that unity. APS rejects both extremes by treating continuity-producing organisation itself as explanatorily and ontologically real.
+Biological organisation exhibits asymmetries that matter relative to continued functioning. Some changes maintain or restore conditions of viability; others impair them; still others may make no relevant difference. APS grounds biological normativity in this **viability-relative asymmetry**.
 
-This position does not deny the importance of mechanisms, components, physical processes, or causal analysis. On the contrary, APS treats them as indispensable. The issue is not whether mechanisms matter, but how they become biologically intelligible. Mechanisms contribute to viability-oriented continuity. Functions contribute to persistence. Information becomes significant because differences affect viability. Development matters because continuity must be stabilised through transformation. Ecology matters because persistence depends upon organism–environment coupling. Each acquires explanatory significance through its contribution to organised persistence.
+Normativity is therefore neither imposed by an observer nor generated by organised persistence as an independent principle. The relevant difference arises because a living organisation can continue only within conditions compatible with its viability. A perturbation, internal state, environmental condition, or activity can consequently be evaluated according to its relation to the continued functioning of the organisation concerned.
 
-APS therefore avoids dissolving biological reality into microphysical description while also avoiding appeals to mysterious higher-order wholes. Organisational relations remain open to analysis because they are constituted through real processes occurring across multiple scales. Yet they are not reducible to inventories of components because what requires explanation is the coordinated activity through which continuity is maintained. The reality of biological organisation lies precisely in these continuity-producing relations.
+This does not imply moral value, conscious judgement, or explicit preference. It identifies a biological asymmetry grounded in the organisation of the system. Whether a particular condition is beneficial, detrimental, or neutral in the relevant sense depends upon its material consequences for viability and must be established empirically.
 
-This perspective allows APS to integrate insights from mechanistic, processual, ecological, developmental, and systems-oriented approaches without reducing any one of them to explanatory primacy. Biological reality becomes intelligible through the interaction of agency, process, scale, adaptation, perturbation, evaluation, semiosis, and persistence. The explanatory task is therefore not to choose between parts and wholes, but to understand how organisational continuity emerges through their ongoing interaction.
+**Biological Evaluation is the process through which agency generates significance.** In the minimal APS sense, a difference becomes significant where viability-oriented activity is differentially organised in relation to it. Evaluation is therefore associated with agency rather than inserted as an additional ontological layer between viability and normativity.
 
-[[box:aps-box-mechanism-and-organisational-context]]
+This relationship should not be converted into a necessary sequence from viability through evaluation to semiosis, meaning, and cognition. More elaborate forms of significance may depend upon additional organisational capacities. Cognition in particular requires more than immediate viability-sensitive regulation or basic evaluation. Organisational realism does not erase those distinctions simply by treating the relevant biological relations as real.
 
-<div class="aps-diagram aps-diagram-large">
+[[box:aps-box-viability-grounds-evaluation]]
 
-<a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener">
-  <img
-    src="/assets/diagrams/philosophy-mechanism.png"
-    alt="Mechanism within organised persistence"
-    loading="lazy"
-  />
-</a>
+## Function as Organisational Contribution
 
-</div>
+Biological function provides a particularly important test case for organisational realism because functional claims concern what some activity or structure contributes within a living system. APS treats function as **present-tense viability-relative organisational contribution**.
 
-<div class="diagram-caption">
+A component or activity has an APS function where its present activity contributes to the viability-oriented organisation of the system in which it operates. This formulation makes function relational: the relevant contribution cannot be specified solely by identifying a component or describing what it happens to do in isolation. The contribution is defined relative to an organisation and to the conditions of viability to which the activity bears.
 
-**Mechanism Within Organised Persistence.** Mechanisms are real and indispensable, but biologically intelligible only within continuity-preserving organised persistence.
+This does not imply that evolutionary accounts of function are mistaken or dispensable. Evolutionary history can explain why a trait exists, how it was selected, or why particular capacities have been retained. Nor does APS require that every legitimate biological use of function be replaced by an organisational account. The question is instead what explanatory target a functional attribution addresses.
 
-</div>
+Organisational realism adds a philosophical interpretation to the APS proposal. If a functional contribution depends upon materially realised relations among activities, constraints, and viability conditions, those relations need not be regarded merely as conveniences of description. They may be real features of the system. But the realist interpretation does not itself demonstrate that the APS account provides greater explanatory value than an evolutionary, mechanistic, or other functional explanation.
 
-APS therefore overlaps significantly with mechanistic approaches while extending beyond them. Mechanisms remain indispensable components of biological explanation, yet their significance depends upon the larger organisational dynamics within which they operate. Biological reality cannot be understood solely through mechanisms, nor can it be understood without them. Organised persistence provides the framework within which mechanistic explanation becomes biologically meaningful.
+[[box:aps-box-function-is-contribution-to-viability]]
 
-## Explanatory Realism
+## Mechanism and Organisational Explanation
 
-APS supports a form of explanatory realism grounded in organised persistence. Biological explanations succeed not merely because they provide useful predictive tools, but because they track real organisational dependencies within living systems. Function, regulation, development, ecological coupling, evaluation, semiosis, cognition, and adaptation are explanatorily effective because they identify genuine features of biological organisation rather than convenient descriptive fictions.
+Organisational realism does not require an opposition between mechanism and organisation. Mechanistic explanation can identify entities, activities, interactions, causal organisation, regulatory relations, and environmental dependencies through which biological phenomena occur. Such explanations may be sufficient for particular explananda.
 
-This claim extends beyond traditional debates concerning scientific realism. APS is not primarily concerned with whether biological theories correspond to an independent reality in the abstract. Rather, it asks why certain explanatory concepts repeatedly prove indispensable across diverse domains of biological inquiry. The answer, APS argues, is that these concepts capture recurrent organisational relations through which living systems sustain continuity across time.
+APS asks a further question only where it is relevant: whether specifying relations to viability-oriented, constraint-closed organisation identifies dependencies that contribute to explaining the same phenomenon. The answer cannot be settled in advance. In some cases an APS account may identify an additional dependency; in others it may clarify a relation already represented by the comparator; in still others it may amount only to redescription or add no relevant explanatory information.
 
-Agency, process, and scale illustrate this point. APS does not treat them as arbitrary conceptual categories imposed upon biological phenomena. Instead, they represent recurrent organisational dimensions through which viability-oriented systems become intelligible. Agency concerns the regulation of continuity relative to viability conditions. Process concerns the transformations through which continuity is maintained. Scale concerns the distributed relationships through which persistence is organised across interacting contexts. Biological explanation succeeds because these dimensions correspond to real organisational features of living systems themselves.
+Organisation should therefore not be pictured as a larger explanatory container within which mechanisms become biologically meaningful. Nor should mechanism be equated with reduction to smaller parts. A mechanism can itself involve organisation across extended spatial and temporal conditions, feedback, environmental interaction, and regulatory dependencies.
 
-[[box:aps-box-why-aps-is-not-arbitraryPlease generate the canonical glossary entry Explanatory Realism]]
+The philosophical issue is correspondingly narrower. If a mechanistic investigation identifies materially realised organisational relations, organisational realism permits those relations to be treated as features of the biological system. If APS proposes additional organisational dependencies, their explanatory contribution remains subject to comparative assessment.
 
-This perspective explains why explanatory structure exhibits both stability and revisability. Scientific concepts remain open to refinement, modification, and replacement. Yet such revisions occur within a broader effort to track organisational reality more accurately. Explanatory success therefore reflects an ongoing process of discovering increasingly adequate descriptions of the continuity-producing relations through which living systems persist.
-
-APS consequently treats explanatory organisation as epistemically constrained by biological reality. The concepts employed by biological science are not validated solely by convenience, preference, or convention. They are constrained by the organisational structures that biological explanation seeks to understand. Explanatory realism therefore follows from the reality of organised persistence itself.
-
-## Multiple Realization and Organised Continuity
-
-APS also provides a distinctive interpretation of *[multiple realization and biological organisation](/articles/multiple-realization-and-biological-organisation/)*. If biological organisation is real, then continuity can often be preserved despite substantial variation in material composition. What persists across time is not necessarily identical matter, but organised viability-oriented continuity maintained through changing substrates, structures, and processes.
-
-This perspective helps explain several recurring features of biological systems. Functions may persist despite substantial variation in the structures performing them. Cognitive capacities may emerge through different organisational architectures. Developmental systems may preserve continuity despite extensive transformation. Semiotic relations may remain stable despite changing material implementations. Evolutionary lineages may exhibit continuity despite continual turnover in constituent organisms. In each case, persistence depends upon organisational continuity rather than material sameness alone.
-
-APS therefore relocates explanatory identity away from static composition and toward organised persistence. This does not imply that material structures are irrelevant. On the contrary, biological organisation is always materially realised. However, the explanatory significance of those structures derives from their contribution to continuity-maintaining organisation rather than from their material identity considered in isolation.
-
-This interpretation aligns naturally with multiscale and pluralistic approaches within contemporary philosophy of biology. Biological systems frequently exhibit continuity across changing substrates because the organisational relations supporting viability can be realised through different material configurations. Multiple realization therefore becomes intelligible as a consequence of organisational realism rather than as a challenge to it.
-
-The broader implication is that biological identity is fundamentally organisational. Living systems remain intelligible through time because continuity is maintained despite ongoing transformation. APS therefore treats organised persistence as the primary explanatory basis for understanding how biological continuity can survive material change.
-
-## Scientific Realism and Biology
-
-APS does not commit to naïve realism regarding every biological model, concept, or theoretical construct. Scientific knowledge remains fallible, theory-laden, and subject to revision. Models simplify, abstractions omit detail, and explanatory frameworks evolve in response to new evidence. Organisational realism therefore does not imply that every biological category corresponds straightforwardly to a distinct entity in nature.
-
-What APS rejects is a more radical conclusion sometimes associated with reductionist interpretations of science: the idea that biology merely projects useful interpretive schemes onto fundamentally non-organisational matter. Biological explanation consistently identifies viability conditions, regulatory relationships, developmental dependencies, organism–environment couplings, evaluative structures, and persistence-maintaining processes. The success of these explanations would be difficult to understand if they failed to correspond to real features of living systems.
-
-APS therefore argues that scientific realism in biology cannot be restricted to microphysical entities alone. Molecules, cells, and physical processes are real, but so too are the organisational relations through which those components contribute to viability-oriented continuity. Biological inquiry progressively reveals these relations because they play indispensable roles in explaining how living systems persist.
-
-Scientific realism consequently acquires a specifically biological form. The reality discovered by biology includes not only material structures but also the organisational dependencies through which those structures become integrated into living systems. Organisational continuity is therefore not an optional interpretive layer added to biological reality. It is part of what biological reality consists of.
-
-APS thus supports:
-
-> a realism grounded in organised persistence across time.
-
-<div class="aps-diagram">
-  <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
+<div class="diagram-block">
+  <a href="/assets/diagrams/philosophy-mechanism2.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/philosophy-clarification-map.png"
-      alt="APS philosophy clarification map"
+      src="/assets/diagrams/philosophy-mechanism2.png"
+      alt="Comparison of mechanistic and organisational explanation relative to a specified biological explanandum. Both approaches enter comparative explanatory assessment, while APS is presented as an organisational explanatory proposal whose contribution must be demonstrated rather than assumed."
       loading="lazy"
     />
   </a>
-
-  <p class="aps-diagram-caption">
-    <strong>APS Clarification Map.</strong>
-    APS develops a naturalistic organisational realism distinct from eliminative reductionism, informational reductionism, vitalism, holism, and organismic mysticism.
+  <p class="diagram-caption">
+    <strong>Mechanism and organisational explanation.</strong> Mechanistic and organisational explanations may identify different relations relevant to a biological explanandum. APS does not subordinate mechanism to organisation: where explanatory approaches address the same target, their relationship and relative contribution must be assessed rather than assumed. Organisational redescription alone does not establish explanatory gain.
   </p>
 </div>
 
-## Organisational Realism and Biological Naturalisation
+[[box:aps-box-mechanism-and-organisational-context]]
 
-APS naturalises biology without eliminating the concepts that make biological explanation possible. Traditional naturalisation projects have often attempted to explain away purposive, normative, and agency-related language by reducing it to more fundamental physical descriptions. APS takes a different approach. Rather than eliminating these concepts, it explains how they arise within viability-oriented organisation itself.
+## Multiple Realization and Biological Identity
 
-Living systems are not organisationally neutral. Some states support persistence while others undermine it. Some activities contribute to continuity while others contribute to breakdown. Because living systems must actively maintain the conditions required for continued existence, their organisation necessarily differentiates between success and failure, maintenance and degradation, viability and non-viability. These distinctions are not imposed by observers. They arise from the organisational requirements of the system itself.
+Living systems undergo substantial material transformation. Molecules are replaced, cells divide and die, tissues remodel, developmental processes alter structure, and patterns of activity change through time. These transformations make biological identity difficult to identify with permanence of material composition.
 
-This perspective transforms the status of many biological concepts. Function becomes intelligible because activities genuinely contribute to persistence. Purpose becomes intelligible because living systems are organised toward maintaining the conditions required for continued viability. Normativity becomes intelligible because viability establishes real organisational differences between successful and unsuccessful outcomes. Agency becomes intelligible because systems actively regulate continuity relative to those conditions. Semiosis and meaning become intelligible because environmental differences acquire significance within viability-oriented organisation.
+Organisational realism provides one way of interpreting continuity through such change. Where a living system remains organisationally continuous despite material turnover, the relations through which that continuity is maintained may themselves be biologically real. **Organised persistence** names this continuity of living organisation through material and structural transformation.
 
-APS therefore argues that purposive and normative biological language is neither metaphorical nor merely heuristic. Such concepts refer to real organisational asymmetries within living systems. Biological naturalisation is achieved not by eliminating these concepts, but by grounding them within the organisational reality of viability-oriented persistence. Organisational realism thus provides a framework through which many longstanding philosophical tensions within biology become intelligible in naturalistic terms.
+This does not make organised persistence the primary explanatory basis of biological identity. Different questions about identity may depend upon different criteria, including developmental history, lineage, structure, functional organisation, ecological relations, or other biological considerations. APS contributes a specific question: whether continuity of viability-oriented, constraint-closed organisation is relevant to the identity claim being investigated.
 
-## APS and the Reality of Life
+Multiple realization strengthens the importance of distinguishing organisation from particular material composition without establishing that organisation is independent of material implementation. Similar organisational relations may sometimes be realised through differing material arrangements, but every actual biological organisation remains materially enacted. Organisational realism is therefore compatible with material variation precisely because the realist commitment concerns materially implemented relations rather than an abstract pattern detached from its realization.
 
-APS ultimately proposes that life cannot be understood adequately through chemistry, information processing, computation, behavioural complexity, or evolutionary history considered in isolation. Each captures an important dimension of living systems, yet none explains what makes those dimensions biologically significant. Their significance derives from the organisational context within which they contribute to maintaining viability across time.
+Process-oriented accounts of biology have emphasised related problems of identity and continuity in systems undergoing persistent transformation (Nicholson and Dupré 2018). APS retains that insight while restricting organised persistence to the continuity of living organisation rather than treating persistence as an ontological substance or the universal basis of biological identity.
 
-Life is therefore understood as a distinctive form of viability-oriented organised persistence. Living systems actively regulate continuity through processes that are constraint-closed, perturbation-sensitive, evaluative, semiotic, and distributed across multiple scales of organisation. Agency, process, scale, adaptation, continuity, and temporal organisation are not separate explanatory themes. They are interconnected dimensions of the organisational reality through which life persists.
+## Reductionism, Holism, and Organisational Realism
 
-The reality of biological organisation is consequently not secondary to biological explanation. It is the primary object of biological explanation. Biology seeks to understand how living systems sustain continuity despite ongoing transformation, how viability is preserved despite instability, and how organisation generates the capacities characteristic of life. Organisational realism therefore places organised persistence at the centre of biological intelligibility.
+The contrast between reductionism and holism can obscure more than it clarifies if it is treated as a choice between real components and real wholes. Organisational realism does not require such a choice.
 
-APS thus treats organised continuity not as explanatory decoration layered onto biological inquiry, but as the reality progressively revealed through that inquiry itself.
+Components are materially real, and analysis of their activities can provide powerful biological explanations. Organisational relations can also be materially real where they are implemented through dependencies among components, constraints, processes, and environmental conditions. Recognising those relations does not require treating a whole as an additional causal entity standing over its parts.
+
+APS therefore does not claim that analytical explanations must be completed by synthesis, or that organisational explanation subsumes mechanistic, developmental, ecological, evolutionary, systems, or process approaches. Different approaches may address different explananda or identify different dependencies relevant to the same explanandum. Their contributions have to be compared rather than assigned an explanatory hierarchy in advance.
+
+This is also why organisational realism should not be equated with holism. A realist claim about organisation concerns particular materially implemented relations. It does not imply that wholes are always explanatorily prior to parts, that every biological phenomenon requires whole-system explanation, or that local mechanisms lack autonomous explanatory value.
+
+The appropriate contrast is therefore not between reduction and an APS synthesis. It is between alternative explanatory claims about a specified phenomenon and the evidence bearing upon the dependencies each identifies. Organisational realism makes it possible to take organisational dependencies seriously within that comparison without predetermining its outcome.
+
+## Organisational Realism and Scientific Realism
+
+Organisational realism can be understood as a bounded realist commitment within the philosophy of biology. It does not require APS to settle the general philosophical dispute between scientific realism and its alternatives.
+
+Scientific realism concerns, among other things, how the success of scientific theories and explanations bears upon belief in the entities, structures, or relations they posit (Psillos 1999). Biological organisation raises a specific version of that issue because many biological explanations depend upon relations such as regulation, functional contribution, constraint, signalling, and coordinated activity.
+
+APS proposes that where such organisational relations are materially implemented and empirically supported, they need not be treated merely as artefacts of explanatory language. They may be features of the systems being investigated. Evidence for such a claim can include intervention upon the relevant relations, perturbation of constraints, altered regulatory dependencies, and other observations showing that changing an organisational relation makes a relevant difference to the biological phenomenon.
+
+The inference remains defeasible. Scientific models idealise; explanatory concepts can succeed without mapping reality in a simple one-to-one fashion; and competing descriptions may identify different real dependencies. Organisational realism therefore does not follow automatically from the usefulness of organisational vocabulary.
+
+This modest form of realism is sufficient for the article's purpose. APS can maintain that living organisation is scientifically investigable and materially real without turning that commitment into a general metaphysical doctrine or treating it as proof that APS explanations possess automatic priority.
+
+## Biological Reality and Organisational Continuity
+
+The realist commitment developed here concerns living organisation rather than organised persistence considered independently. **Life is viability-oriented, constraint-closed organisation.** That organisation is materially implemented through biological activities, constraints, dependencies, and interactions.
+
+Organised persistence describes what happens when that living organisation maintains or re-establishes continuity through material and structural transformation. It is therefore an important explanatory target for APS, but not the definition of Life, the source of biological organisation, or the universal ground from which agency, normativity, function, semiosis, cognition, or purpose derives.
+
+This distinction matters for biological realism. If organisational continuity survives substantial turnover of material components, that provides reason to investigate which relations are maintained and how they are materially realised. The resulting explanation may identify dependencies that are not evident from material inventory alone. Whether those dependencies add explanatory value in a particular case remains a comparative question.
+
+Agency, Process, and Scale can assist this analysis without being converted into ontological divisions. Agency concerns what the living system does; Process concerns how organisational continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents. They are analytic projections of one viability-oriented, constraint-closed organisation.
+
+Organisational realism therefore concerns the reality that these analyses seek to track, not the automatic success of the analyses themselves.
 
 ## Conclusion
 
-APS develops a form of organisational realism grounded in viability-oriented organised persistence sustained across time. Biological explanation succeeds because living systems genuinely exhibit continuity-producing organisational relations through which viability is maintained, perturbations are managed, functions contribute to persistence, meanings acquire significance, and adaptive responses remain possible.
+Organisational realism in biology is the claim that materially implemented organisational relations can be real features of living systems rather than merely observer-imposed descriptions. APS has reason to adopt this commitment because its substantive biological account treats Life as **viability-oriented, constraint-closed organisation** and investigates the relations through which living activity is maintained, regulated, and reorganised.
 
-Organisation is therefore not merely descriptive shorthand applied to underlying physical processes. It is a real feature of living systems and an indispensable object of biological explanation. The organisational relations identified by biology are significant because living systems depend upon them for continued existence. Biological intelligibility arises from understanding how those relations sustain continuity across changing and potentially destabilising conditions.
+This realist commitment should nevertheless remain bounded. Organisation is not an immaterial force or an additional substance. Organised persistence is not the ontological foundation of Life; it denotes continuity of living organisation through material and structural transformation. Agency, Process, and Scale are not separate levels or dimensions of biological reality but analytic projections of the same organisation.
 
-APS consequently rejects both eliminative reductionism and observer-relative accounts of biological organisation. Function, agency, normativity, semiosis, evaluation, and persistence are not explanatory conveniences imposed upon an otherwise indifferent reality. They are organisational dimensions of living systems themselves. Biological inquiry succeeds because it progressively uncovers the structures through which viability-oriented continuity is maintained.
+The commitment also carries no automatic methodological privilege. Mechanistic, evolutionary, developmental, ecological, and other biological explanations retain their legitimate explanatory achievements. Where APS proposes that an organisational analysis identifies additional explanatory relations, that contribution must be established relative to a specified explanandum and relevant comparator. Redescription alone is not explanatory gain.
 
-Organisational realism therefore functions simultaneously as an ontological claim about life, an explanatory claim about biology, and a methodological claim about what biological inquiry must ultimately explain. Living systems become intelligible not because they can be reduced to simpler descriptions, but because their organisation reveals the continuity-producing reality through which life persists across time.
+Organisational realism therefore says something important but limited about biological reality: biological inquiry can legitimately investigate materially implemented organisational relations as features of living systems. Whether a particular APS account successfully identifies such relations, and whether doing so improves explanation, remains an empirical and comparative question.
+
+## Explanatory Architecture
+
+### Central Question
+
+**When should biological organisation be treated as a real, materially implemented feature of living systems rather than merely as an observer-imposed description?**
+
+### Architectural Role
+
+This article develops the organisational-realist commitment associated with APS's substantive account of living organisation. Its task is ontological and philosophical: to clarify what APS commits itself to when it treats viability-oriented, constraint-closed organisation and the materially implemented relations that constitute it as features of living systems.
+
+That role is narrower than the role of *APS as Philosophy*. *APS as Philosophy* examines the wider philosophical commitments and implications of APS across biological reality, identity, normativity, function, purpose, agency, cognition, and explanation. The present article takes one of those commitments—**organisational realism**—and examines it in greater depth.
+
+Organisational realism does not determine what counts as an adequate biological explanation and does not establish APS explanatory superiority. APS remains a comparative explanatory methodology, while its organisational account is a substantive explanatory proposal subject to that methodology.
+
+### Preceding Explanatory Dependencies
+
+The article depends upon the canonical APS account:
+
+> **Life is viability-oriented, constraint-closed organisation.**
+
+It also depends upon the distinction between that definition and **organised persistence**, which denotes the continuity of living organisation through material and structural transformation.
+
+Its philosophical setting is provided by *APS as Philosophy*, which establishes the broader distinction between examining the implications of APS's organisational commitments and demonstrating the explanatory contribution of particular APS proposals.
+
+### Subsequent Explanatory Developments
+
+Organisational realism provides philosophical context for more specific APS discussions of biological identity, function, normativity, purpose, agency, evaluation, semiosis, cognition, mechanism, and continuity.
+
+Those developments do not follow deductively from organisational realism. Each requires its own conceptual and evidential argument, and each APS explanatory proposal remains subject to comparative assessment where it addresses an explanandum also addressed by established biological explanations.
+
+### Related Explanatory Questions
+
+The organisational-realist commitment raises further questions about which organisational relations are materially implemented, how their presence can be established empirically, how biological identity can persist through material transformation, how constraints alter the conditions under which local processes occur, and when organisational analysis contributes information not already supplied by a relevant comparator.
+
+It also requires continued distinction between the reality of an organisational relation and the explanatory usefulness of a particular representation of that relation. A real biological dependency can be represented inadequately, while a useful model can idealise or abstract from aspects of the underlying organisation.
+
+### Position Within APS
+
+APS is a **comparative explanatory methodology for biology**. Organisational realism is a philosophical commitment associated with the substantive organisational account that APS subjects to comparative assessment.
+
+The commitment permits APS to treat materially implemented organisational relations, constraints, dependencies, and activities as potential features of biological reality. It does not determine the standards by which explanatory proposals are assessed, guarantee that an APS description identifies a real dependency, or establish that an APS explanation contributes more than an established comparator.
+
+The resulting division of labour is therefore explicit: organisational realism concerns what APS's biological account takes seriously as potentially real; comparative explanatory methodology determines what explanatory contribution a particular APS proposal actually makes.
