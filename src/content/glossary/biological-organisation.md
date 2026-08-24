@@ -3,13 +3,18 @@ date: 2026-04-08
 title: Biological Organisation
 slug: biological-organisation
 type: glossary
-definition: "Biological organisation is the viability-oriented, constraint-closed organisation of processes through which living systems sustain, regulate, and regenerate the conditions of their own persistence."
-inBrief: "Biological organisation is the dynamically maintained organisation of processes through which living systems sustain viability."
+
+definition: "Biological organisation is viability-oriented, constraint-closed organisation through which living systems maintain and re-establish the conditions of their own persistence."
+
+inBrief: "Biological organisation is the ongoing organisation through which living systems maintain the conditions of continued viable functioning."
+
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-08-02
+revised: 2026-08-24
+
 cluster: conceptual-foundations
+
 seeAlso:
   - biological-agency
   - constraint
@@ -19,148 +24,71 @@ seeAlso:
   - viability
   - normativity
   - scale
-  - adaptation
   - function
-relatedArticles:
-  - explanatory-geometry-of-biology
-  - emergence-an-aps-clarification
-  - why-aps-is-not-hierarchical
-  - constraint-closure-what-it-does-and-does-not-do
+
 references:
-  - id: bertalanffy1968
-    authors: "von Bertalanffy, L."
-    year: 1968
-    title: "General System Theory"
-    source: "George Braziller"
-
-  - id: rosen1991
-    authors: "Rosen, R."
-    year: 1991
-    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
-    source: "Columbia University Press"
-
-  - id: deacon2011
-    authors: "Deacon, T. W."
-    year: 2011
-    title: "Incomplete Nature"
-    source: "W. W. Norton & Company"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
-
-  - id: nicholson2019
-    authors: "Nicholson, D. J., & Dupré, J."
-    year: 2019
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford University Press"
-
-  - id: noble2016
-    authors: "Noble, D."
-    year: 2016
-    title: "Dance to the Tune of Life: Biological Relativity"
-    source: "Cambridge University Press"
+  - mossio-2023-organization-biology
+  - moreno-mossio-2015-biological-autonomy
+  - nicholson-dupre-2018-everything-flows
+  - di-paolo-2005-autopoiesis-adaptivity
+  - mossio-saborido-moreno-2009-functions
+  - bich-ruiz-mirazo-moreno-2016-regulation
+  - green-batterman-2017-biology-meets-physics
+  - spencer-2026-agency-defining-activity-life
 ---
 
-## Conventional Framing
+## Biological Organisation
 
-Organisation is often understood as the arrangement or structure of parts within a system. Biological organisation is therefore commonly described in terms of:
-- anatomical structure
-- molecular composition
-- network architecture
-- or functional decomposition
+Biological organisation is more than the arrangement of biological parts. Living systems are materially structured, but many of their apparently stable structures persist only because continuing activity produces, maintains, repairs, regulates, or replaces them. Organisation therefore concerns not simply what components are present, but the materially realised activities and dependencies through which continued functioning is maintained.
 
-Under this framing, organisation is frequently treated as a relatively static property of assembled components.
+This distinction does not oppose structure to organisation. Structures, mechanisms, and material components are indispensable. The point is that a structural description alone does not explain how a living system remains organised while its constituents, activities, and conditions change. Biological organisation must therefore be understood as ongoing organisation rather than as a static configuration.
 
-Such descriptions capture important aspects of biological systems, but they do not fully explain how living systems maintain themselves across time. Static structure alone cannot account for the continuous activity through which living organisation persists despite constant material turnover and environmental change.
+## Constraint Closure and Viability
 
-## The APS Reframing
+Constraint closure identifies an important feature of living organisation. Biological constraints channel processes while depending upon other processes and constraints for the conditions of their own continued operation. Living systems are materially open to their environments, but relations among their constraints can nevertheless form mutually dependent organisation through which the system contributes to maintaining itself.
 
-In APS, biological organisation is inherently processual, viability-oriented, and dynamically maintained.
+Constraint closure does not by itself exhaust the APS account of biological organisation. Living organisation is also viability-oriented. Changes in organisation are not biologically equivalent: some sustain or restore continued functioning, while others progressively undermine the conditions on which that functioning depends.
 
-Living systems are not simply collections of components. They are organised networks of mutually constraining processes that sustain and regenerate the conditions of their own persistence.
+This difference provides the basis of biological normativity in the limited sense relevant here. APS characterises it as **viability-relative asymmetry**. No conscious judgement, intention, or external evaluator is required.
 
-Biological organisation therefore consists not merely in structure, but in the ongoing coordination of activity through constraint relations that stabilise viability-oriented processes across space and time.
+## Organisation as Activity
 
-Organisation is continually enacted through organisational activity.
+Biological organisation is continually enacted through activity. Regulation, repair, compensation, reconstruction, metabolism, and other forms of biological activity contribute to maintaining or re-establishing the conditions under which the living system can continue.
 
-## Biological Organisation and Constraint Closure
+**Biological agency is viability-oriented organisational activity.** Agency is therefore not an additional property attached to an otherwise complete biological organisation. It concerns what living systems do in enacting and sustaining that organisation.
 
-APS understands biological organisation through constraint closure.
+Organisation and organisational activity are analytically distinguishable but biologically inseparable: organisation identifies the continuing organisation of the living system, while agency identifies the present-tense activity through which that organisation is enacted.
 
-Constraints channel and stabilise activity while remaining dynamically maintained by the very processes they constrain. Membranes regulate exchange, enzymes organise metabolism, circulatory systems coordinate transport, and behavioural activity may preserve environmental conditions necessary for continued viability.
+## Agency, Process, and Scale
 
-Living organisation therefore depends upon reciprocal relations in which:
-- processes maintain constraints
-- constraints organise processes
-- and both together sustain viability-oriented persistence
+APS examines biological organisation through three complementary analytic projections.
 
-Constraint closure arises when these relations become mutually sustaining within an organised system.
+**Agency** concerns what living systems do.
 
-Organisation is therefore not externally imposed upon passive matter. It is continually enacted, maintained, and re-established through the ongoing organisational activity of living systems.
+**Process** concerns how continuity is maintained despite change.
 
-## Biological Organisation Across Scale
+**Scale** concerns where persistence is organised across spatial and temporal extents.
 
-Biological organisation is distributed across spatial and temporal scales.
+Agency, Process, and Scale are not components, independent causes, stages, or hierarchical levels. They are analytic projections of one viability-oriented, constraint-closed organisation. The distinctions belong to explanation; the organisation and activities they disclose are biologically real.
 
-Molecular activity influences cellular dynamics. Physiological organisation shapes behaviour. Behaviour modifies ecological conditions. Evolution transforms the persistence of organisation across generations.
+Biological dependencies may extend across different spatial and temporal extents, but this does not require higher or lower levels to act upon one another as independent causal domains. Cross-scale influence is materially implemented through constraints, boundary conditions, signals, interactions, resource distributions, histories, and other relations that alter the conditions under which biological activity occurs.
 
-These processes do not occupy discrete hierarchical levels. They form scale-coupled networks of mutually constraining activity.
+## Biological Organisation and Organised Persistence
 
-APS therefore treats biological organisation as continuous rather than ontologically stratified.
+Living systems persist despite continual material turnover, regulation, environmental change, and sometimes substantial transformation. Their persistence therefore cannot be identified with preservation of the same material constituents or an invariant structural configuration.
 
-Differences in scale, extent, or complexity do not imply higher or lower levels of reality. They reflect different patterns of organisational coupling across space and time.
+APS uses **organised persistence** for continuity achieved through continuing organisation. Biological organisation is the viability-oriented, constraint-closed organisation through which this continuity is maintained and re-established; organised persistence characterises the continuity thereby achieved.
 
-## Biological Organisation and Normativity
+This distinction is important. Organised persistence is not itself the definition of Life. The canonical formulation remains:
 
-Biological organisation is intrinsically normative because persistence depends upon the maintenance of viability-oriented relations.
+**Life is viability-oriented, constraint-closed organisation.**
 
-Some processes sustain organised persistence, while others undermine it. Some perturbations can be compensated for, while others threaten breakdown.
-
-These differences matter to the system itself because the organisation of activity is directed toward the maintenance of viability.
-
-Normativity therefore does not arise from external judgement or imposed goals. It emerges from the organisation of living activity relative to the conditions required for continued existence.
-
-## Biological Organisation and Organisational Activity
-
-Biological organisation should not be understood as a static arrangement of components or relations. In APS, organisation is continually enacted through biological agency.
-
-Organisation refers to the continuing viability-oriented, constraint-closed organisation that characterises living systems.
-
-Organisational activity refers to the ongoing activity through which that organisation is maintained, repaired, re-established, and adapted despite continual material turnover and environmental change.
-
-Biological agency is the primary form of organisational activity. Agency does not exist alongside biological organisation as an additional property. Rather, agency is the continuing activity through which living organisation is enacted.
-
-Organisation and organisational activity are therefore conceptually distinct but inseparable. Organisation identifies the enduring organisational continuity of living systems; agency identifies the activity through which that continuity is continually maintained.
-
-## Organisation Is Not Mere Aggregation
-
-APS distinguishes biological organisation from mere aggregation.
-
-A pile of components does not become living simply by increasing complexity. What matters is whether processes become organised through mutually sustaining constraint relations capable of maintaining viability.
-
-Biological organisation therefore cannot be reduced to:
-- component lists
-- static architectures
-- information storage
-- or mechanical assembly alone
-
-What distinguishes living systems is the organised persistence of viability-oriented activity.
+Living organisation persists because it is continually enacted, regulated, repaired, reconstructed, and, where necessary, transformed.
 
 ## Summary
 
-In APS, biological organisation is the continuing viability-oriented, constraint-closed organisation through which living systems sustain, regulate, and re-establish the conditions of their own persistence.
+Biological organisation is the ongoing viability-oriented, constraint-closed organisation through which living systems maintain and re-establish the conditions of their own persistence.
 
-Living systems persist through dynamically maintained networks of mutually constraining activity distributed across spatial and temporal Scale. This continuing organisation is enacted through biological agency and maintained despite continual material turnover and environmental change.
+It cannot be reduced to static structure, component lists, mechanical assembly, or an abstract pattern detached from material realisation. Its constraints and activities are materially implemented; its continuation depends upon viability-sensitive regulation and reconstruction; and its relevant dependencies may extend across spatial and temporal extents.
 
-Biological organisation therefore provides the organisational continuity through which:
-
-> biological agency is enacted;
-> organised persistence is constituted;
-> function acquires viability-relative significance;
-> normativity emerges from viability-oriented organisation; and
-> adaptation, development, ecology, and evolution contribute to the continuing maintenance and transformation of living systems.
-
-Life is not defined by components alone, but by the continuing viability-oriented, constraint-closed organisation enacted through the organisational activity of biological agency.
+Agency, Process, and Scale provide complementary analytic projections of this same organisation: what living systems do, how continuity is maintained despite change, and where persistence is organised. The resulting continuity is organised persistence—persistence achieved through organisation rather than through material sameness or structural invariance.

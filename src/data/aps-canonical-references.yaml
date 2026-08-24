@@ -3940,3 +3940,92 @@ references:
     status: verified
     authority: Frontiers
     verifiedDate: 2026-08-23
+- id: hull-1974-philosophy-biological-science
+  type: book
+  authors: Hull, D. L.
+  year: 1974
+  title: Philosophy of Biological Science
+  publisher: Prentice-Hall
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-08-24
+- id: dupre-1993-disorder-things
+  type: book
+  authors: Dupré, J.
+  year: 1993
+  title: 'The Disorder of Things: Metaphysical Foundations of the Disunity of Science'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-08-24
+- id: jonas-1966-phenomenon-life
+  type: book
+  authors: Jonas, H.
+  year: 1966
+  title: 'The Phenomenon of Life: Toward a Philosophical Biology'
+  publisher: Harper & Row
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-08-24
+- id: pittendrigh-1958-adaptation-natural-selection-behavior
+  type: book-chapter
+  authors: Pittendrigh, C. S.
+  year: 1958
+  title: Adaptation, Natural Selection, and Behavior
+  book-title: Behavior and Evolution
+  editors: Roe, A., & Simpson, G. G.
+  publisher: Yale University Press
+  pages: 390–416
+  verification:
+    status: verified
+    authority: PhilPapers
+    verifiedDate: 2026-08-24
+- id: corning-2019-teleonomy-proximate-ultimate
+  type: journal-article
+  authors: Corning, P. A.
+  year: 2019
+  title: Teleonomy and the Proximate–Ultimate Distinction Revisited
+  journal: Biological Journal of the Linnean Society
+  volume: '127'
+  issue: '4'
+  pages: 912–916
+  doi: 10.1093/biolinnean/blz087
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-24
+- id: corning-et-al-2023-evolution-purpose
+  type: edited-book
+  editors: Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A.
+  year: 2023
+  title: 'Evolution "On Purpose": Teleonomy in Living Systems'
+  publisher: MIT Press
+  doi: 10.7551/mitpress/14642.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-08-24
+- id: godfrey-smith-2014-philosophy-biology
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2014
+  title: Philosophy of Biology
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: 2026-08-24
+- id: garson-2016-critical-overview-biological-functions
+  type: book
+  authors: Garson, J.
+  year: 2016
+  title: A Critical Overview of Biological Functions
+  publisher: Springer
+  doi: 10.1007/978-3-319-32020-5
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-24

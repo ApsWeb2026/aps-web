@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
 date: 2026-05-07
-revised: 2026-06-03
+revised: 2026-08-24
 cluster: methodology-and-explanation
 ---
 
@@ -18,8 +18,8 @@ Statements such as:
 - “the system survives”
 - “the behaviour is goal-directed”
 
-may accurately describe observable patterns without identifying the organisational conditions that make those patterns possible.
+may accurately describe observable patterns without identifying the dependencies or conditions through which those patterns are produced or maintained.
 
-APS distinguishes description from explanation by asking what viability-oriented organisation sustains the phenomenon being described.
+Explanation therefore requires more than naming outcomes, behaviours, or patterns. It requires identifying relations that make a relevant difference to the phenomenon being explained.
 
-Explanation therefore requires more than naming outcomes, behaviours, or patterns. It requires identifying the organised processes through which living systems maintain viability and persist through time.
+APS asks whether viability-oriented organisational analysis can identify such explanatory relations. That contribution cannot be assumed merely by redescribing a phenomenon in APS terms: any claimed explanatory gain must be established relative to the explanandum and the relevant established comparator.

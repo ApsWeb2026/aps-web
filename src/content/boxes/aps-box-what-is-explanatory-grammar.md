@@ -4,17 +4,15 @@ title: "APS Box — What Is Explanatory Grammar?"
 slug: aps-box-what-is-explanatory-grammar
 type: box
 status: "canonical"
-revised: "2026-04-21"
+revised: "2026-08-24"
 ---
 
-Explanatory grammar refers to the structured set of conceptual relations that determine what counts as an adequate explanation within a domain.
+Explanatory grammar refers to the conceptual relations through which an explanatory approach identifies its questions, distinguishes relevant phenomena, and formulates candidate explanations.
 
-In APS, explanatory grammar does not begin with a list of entities, but with the conditions under which biological systems can be made intelligible. It specifies how concepts such as agency, process, and scale must be coordinated in order to explain living systems coherently.
+In APS, this grammar begins from living organisation rather than from a privileged list of entities or causal levels. Agency, Process, and Scale provide complementary analytic projections of one viability-oriented, constraint-closed organisation: Agency concerns what living systems do, Process concerns how organisational continuity is maintained through change, and Scale concerns where persistence is organised across spatial and temporal extents.
 
-Explanation is therefore not simply the identification of causes or mechanisms. It involves situating phenomena within an organised framework that accounts for how systems persist, regulate their activity, and maintain their organisation across time and scale.
+Explanatory grammar can therefore shape what an inquiry makes salient without determining in advance what counts as an adequate explanation. APS may direct attention toward organisational dependencies, viability, continuity, constraints, and relations across spatial and temporal extents, but identifying those features does not by itself establish explanatory gain.
 
-Explanatory grammar does not merely organise explanations; it shapes what is taken to be explanatorily relevant. What counts as an entity (e.g., gene, cell, organism, process), what counts as a cause (e.g., mechanism, selection, constraint, agency), and what is treated as a real feature of biological organisation depend on the grammar through which systems are rendered intelligible. In APS, this grammar is oriented toward viability-sustaining, constraint-closed organisation, and thus privileges processes and relations that contribute to persistence as explanatorily primary. This does not determine what exists, but it determines what becomes visible, stable, and tractable within explanation.
+Whether an APS account contributes additional explanation must instead be assessed relative to a specified explanandum and the relevant established comparator. A mechanistic, evolutionary, developmental, ecological, or other explanation is not incomplete merely because it does not employ APS terminology or all three analytic projections. Where APS identifies a relevant dependency not captured by the comparator, it may add explanatory value; where it merely redescribes what is already explained, it does not.
 
-Explanatory grammar functions as a constraint on explanation. Accounts that omit agency, ignore temporal continuity, or fail to address scale may succeed locally, but remain incomplete. APS provides a way of identifying these limitations and integrating partial explanations into a more coherent structure.
-
-In brief: explanatory grammar determines how biological explanation works—and, in doing so, shapes what counts as an entity, a cause, and a legitimate target of explanation.
+In brief: explanatory grammar helps organise what an explanatory approach asks and makes salient; comparative assessment determines what the resulting explanation actually contributes.
