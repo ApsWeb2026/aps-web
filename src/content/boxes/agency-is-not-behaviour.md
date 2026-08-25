@@ -14,13 +14,14 @@ role: box
 cluster: conceptual-foundations
 ---
 
-Agency is often mistaken for behaviour. In APS, however, behaviour is only one possible expression of agency.
+Agency is often mistaken for behaviour. In APS, however, biological agency does not require overt behaviour.
 
-Agency refers to the viability-oriented activity through which living systems sustain the conditions of their own continued persistence. Behaviour may contribute to this activity, but many forms of biological agency occur without overt behaviour.
+Agency refers to viability-oriented activity through which living systems contribute to maintaining or re-establishing conditions compatible with their continued organisation. Behaviour may sometimes form part of this activity, but many forms of biological agency occur without the kinds of observable action ordinarily described as behaviour.
 
-Cells regulate metabolism, tissues repair damage, organisms maintain physiological stability, and developmental systems coordinate transformation without necessarily producing the kinds of observable actions normally associated with behaviour.
+Cells regulate metabolism, tissues coordinate repair, organisms maintain physiological conditions, and developmental systems respond to changing conditions without necessarily producing overt behaviour.
 
-For this reason, APS treats behaviour as one manifestation of agency rather than its defining feature. Agency concerns the organisation of viability-oriented activity; behaviour is one of the ways that activity may be expressed.
+APS therefore distinguishes behaviour from agency. Behaviour describes a class of observable biological activity. Agency concerns the relationship between activity and the viability of the living organisation in which it occurs. Behaviour may provide evidence of agency where that relationship can be established, but behaviour alone does not demonstrate agency.
 
----
-**APS Principle:** Behaviour may reveal agency, but agency is broader than behaviour because viability-oriented organisation extends far beyond observable action.
+Conversely, the absence of overt behaviour does not demonstrate the absence of agency. Relevant viability-oriented activity may occur through physiological, cellular, developmental, regulatory, or other biological processes.
+
+APS Principle: Behaviour may provide evidence of biological agency, but behaviour and agency are not equivalent. Agency concerns viability-oriented activity of living organisation and need not take the form of overt behaviour.

@@ -20,7 +20,7 @@ In APS, definition, diagnosis, and evidence must not be conflated.
 
 **Evidence** consists of observations that support or challenge an inference that the relevant organisation is present. Depending upon the system and question, such evidence may include endogenous repair, coordinated regulation, metabolic integration, adaptive reorganisation, and viability-oriented modulation of activity. None of these features defines life by itself.
 
-APS therefore treats biological evidence not as a checklist of traits but as evidence bearing on claims about living organisation. A system may move without being alive, regulate without thereby satisfying the APS definition of life, or display complex behaviour without thereby demonstrating biological agency.
+APS therefore treats biological evidence not as a checklist of traits but as evidence bearing on claims about living organisation. A system may move without being alive, regulate without thereby satisfying the APS definition of life, or display complex behaviour without thereby demonstrating biological agency. Likewise, evidence of apparently viability-oriented activity must be interpreted in relation to the organisation of the system rather than treated as an independent definition of life.
 
 Organised persistence poses a related but distinct explanatory problem: it denotes the continuity of living organisation through ongoing material and structural transformation. Evidence concerning repair, regulation, compensation, and reorganisation may therefore help investigate organised persistence without making organised persistence a second definition of life.
 

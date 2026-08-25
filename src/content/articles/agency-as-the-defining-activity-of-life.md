@@ -4,24 +4,25 @@ title: Agency as the Defining Activity of Life
 slug: agency-as-the-defining-activity-of-life
 type: article
 status: canonical
-canonical: false
-revised: 2026-07-18
+canonical: true
+canonicalLockDate: 2026-04-08
+revised: 2026-08-25
 
 cluster: conceptual-foundations
-role: anchor
+role: clarification
 
 abstract: |
-  Agency occupies a central place in the Agency–Process–Scale (APS) framework because it identifies the distinctive activity through which living systems sustain themselves across time. Rather than defining life through particular structures, substances, mechanisms, or evolutionary histories, APS begins with the viability-oriented activity through which organisms maintain, regulate, repair, and reorganise the conditions of their own persistence. Agency is therefore not an optional feature of life but the defining activity through which living organisation remains viable. By integrating viability, organisation, persistence, process, and scale, APS treats agency as the central activity through which organised persistence becomes possible and through which biological organisation acquires its distinctive normative character.
+  The paper “Agency as the Defining Activity of Life,” published in *Biological Theory*, proposed that biological agency—the viability-oriented activity through which living systems contribute to maintaining the conditions of their own continued existence—is fundamental to understanding life. Subsequent development of the Agency–Process–Scale (APS) framework has retained this central insight while clarifying its theoretical role. APS now distinguishes life, understood as viability-oriented, constraint-closed organisation, from agency, understood as the viability-oriented activity of that organisation. Organised persistence is treated as a phenomenon requiring explanation, while Agency, Process, and Scale are complementary analytic projections on living organisation rather than a foundational sequence. Subsequent work has also distinguished conceptual integration from demonstrated explanatory gain. This article explains what the original Agency thesis claimed, what subsequent APS research has retained, what has changed, and why those changes matter.
 
 keyPoints:
-  - "Agency is the defining activity through which living systems sustain their own viability."
-  - "Agency is not behaviour, intelligence, cognition, or conscious intention."
-  - "Viability-orientation gives biological activity its normative character."
-  - "Agency and organisation are reciprocally dependent: organisation enables agency, while agency maintains organisation."
-  - "Agency is the activity through which organised persistence is continually achieved."
-  - "Agency extends across processes unfolding through time rather than existing as a static property."
-  - "Agency is distributed across biological scales and cannot be reduced to a single privileged level of organisation."
-  - "Agency provides the conceptual foundation linking viability, organisation, persistence, process, and scale within APS."
+  - "The Biological Theory paper proposed Agency as the defining activity of Life."
+  - "Its central insight remains: living systems actively contribute to maintaining conditions compatible with their continued viability."
+  - "APS now defines Life as viability-oriented, constraint-closed organisation and distinguishes this from Agency as the viability-oriented activity of that organisation."
+  - "Agency does not require behaviour, intelligence, cognition, conscious intention, or deliberate choice."
+  - "Organised persistence is principally a phenomenon requiring explanation, rather than something produced by Agency alone."
+  - "Agency, Process, and Scale are complementary analytic projections on the same living organisation, not a causal or foundational sequence."
+  - "A common APS conceptual framework does not by itself establish explanatory gain over existing biological explanations."
+  - "The subsequent development of APS therefore refines rather than repudiates the original Agency thesis."
 
 relatedGlossaryTerms:
   - life
@@ -44,12 +45,13 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-life-a-biological-question-revisited
   - biological-agency-as-the-activity-of-self-maintenance
-  - viability-the-organising-principle-of-biological-persistence
   - biological-organisation
+  - viability-the-organising-principle-of-biological-persistence
   - persistence-organised-continuity-through-time
-  - biological-explanation-what-needs-to-be-explained
   - process-the-dynamics-of-living-biological-organisation
   - scale-how-life-is-coordinated-across-space-and-time
+  - biological-explanation-what-needs-to-be-explained
+  - agency-in-contemporary-biology
   - adaptation-how-living-systems-sustain-themselves-through-change
   - organism-environment-coupling
   - what-is-it-about-life
@@ -99,350 +101,663 @@ references:
     publisher: "W. W. Norton & Company"
 
   - id: lopez-diaz-2026-general-theory-agency
-    authors: López-Díaz, A. J.; Gershenson, C.
+    authors: "López-Díaz, A. J.; Gershenson, C."
     year: 2026
     title: "A Matter of Time: Towards a General Theory of Agency"
-    journal-or-publisher: arXiv
-    doi: 10.48550/arXiv.2606.23122
+    journal-or-publisher: "arXiv"
+    doi: "10.48550/arXiv.2606.23122"
 ---
 
-## Introduction
+> **Where This Article Fits**. 
 
-Life is often defined by reference to the structures it possesses, the molecules from which it is constructed, or the processes through which it operates. Metabolism, reproduction, information storage, evolution, and self-organisation have each been proposed as defining characteristics of living systems. Although these approaches capture important aspects of biology, they share a common assumption. They begin by asking what living systems are.
+*The paper “Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale,” published in Biological Theory, was an important step in the development of APS. It proposed that biological agency—the viability-oriented activity through which living systems contribute to maintaining the conditions of their own continued existence—is fundamental to understanding Life. It also brought Agency, Process and Scale together within a single framework and helped establish the conceptual direction of subsequent APS research.*
 
-The Agency–Process–Scale (APS) framework begins elsewhere.
+*APS has continued to develop since that paper was written. Some of its central claims have been retained, while others have been clarified, narrowed or repositioned. In particular, subsequent work has distinguished more carefully between Life and Agency, between living organisation and organised persistence, and among Agency, Process and Scale. It has also placed tighter limits on what APS can claim merely from providing a common conceptual framework.*
 
-Rather than asking what living systems are, APS asks what living systems do. Recent organisational approaches likewise seek to explain agency as an emergent feature of living organisation rather than as a behavioural or psychological capacity. López-Díaz and Gershenson (2026), for example, argue that agency arises from temporally organised, semantically closed systems possessing endogenous anticipatory organisation. APS shares this organisational orientation while proposing that agency is more fundamentally the viability-oriented activity through which living systems continually sustain their own organised persistence.
+*This article explains that development. It first states the argument of the Biological Theory paper as clearly as possible, without rewriting it in terms of later APS conclusions. It then identifies what subsequent research has retained, what has changed, and why those changes matter. The result is not a repudiation of the original Agency thesis, but a more precise account of its place within APS.*
 
-Living systems do not merely exist. They actively sustain the conditions required for their continued existence. They regulate internal conditions, repair damage, coordinate interactions with their environments, reorganise in response to perturbation, and maintain organisational continuity despite continual material and energetic change. Their persistence is not passively inherited from physical structure alone but continually achieved through ongoing activity.
+*For a detailed account of Agency within living systems, see Biological Agency as the Activity of Self-Maintenance, which examines self-maintenance, viability regulation, organised persistence, function, normativity and constraint closure. For the wider theoretical context, see Agency in Contemporary Biology, which considers organism-centred evolution, autonomy theory, developmental agency and process biology, and situates APS among contemporary approaches to biological Agency.*
 
-APS refers to this distinctive form of activity as **agency**.
+The three articles therefore now have distinct roles: 
+- Agency as the Defining Activity of Life — The original Agency thesis and how subsequent APS research has refined it.
+- Biological Agency as the Activity of Self-Maintenance — The detailed account of viability-oriented Agency in living systems.
+- Agency in Contemporary Biology — The wider theoretical context in which APS approaches Agency.
 
-Agency is not treated as an additional feature layered onto an already living system. Nor is it restricted to organisms possessing cognition, intelligence, or conscious awareness. Agency identifies the viability-oriented activity through which living systems sustain, regulate, and renew the conditions of their own persistence. It is therefore present wherever organised persistence is actively maintained.
+## 1. The Original Claim: Agency as the Defining Activity of Life
 
-Beginning with agency changes the focus of biological explanation. Instead of asking which structures define life, APS asks how living systems continually achieve the organised persistence that distinguishes them from non-living forms of organisation. Metabolism, development, regulation, adaptation, cognition, reproduction, and evolution remain essential biological phenomena, but they are understood as different expressions of a more fundamental activity through which living systems sustain themselves across time.
+The starting point of the published paper was a simple question: what distinguishes a living system from a nonliving one?
 
-Agency therefore occupies a foundational position within APS. It provides the conceptual starting point from which viability, organisation, persistence, process, and scale become intelligible as interconnected dimensions of biological explanation.
+Many familiar answers begin with what living things contain or what properties they display: metabolism, reproduction, heredity, cells, genetic material, homeostasis, or the capacity to evolve. The paper took a different approach. It asked what living systems do in order to remain living.
 
-### Where This Article Fits
+Its answer was biological agency.
 
-Agency is one of the central concepts in APS and is explored across several complementary articles.
+Here, Agency did not mean consciousness, intelligence, deliberate choice, or human-like intention. It meant the capacity of a living system to act in ways that contribute to maintaining its own viability. A cell regulates its internal conditions, maintains a boundary, repairs damage, responds to stress, and reorganises its activity when circumstances change. These activities differ enormously across organisms, but the paper proposed that they share something important: they contribute to maintaining or re-establishing the conditions under which the system can continue to exist.
 
-This article provides the conceptual foundation. It explains why APS treats agency as the defining activity of life and how agency connects viability, organisation, persistence, process, and scale into a unified explanatory framework.
+The paper explicitly described the framework as a way of redescribing established biological processes: “the viability-oriented activity through which systems sustain and reconstitute their own organization across time and scale.” It described Life as an ongoing organisational process in which living systems actively regulate the conditions of their own persistence.
 
-For a more detailed account of how agency operates within living systems, see **Biological Agency as the Activity of Self-Maintenance**, which examines self-maintenance, viability regulation, organised persistence, function, normativity, and constraint closure in greater depth.
+In its strongest formulation, the paper put the point very directly: a system is alive insofar as it acts to maintain and reconstitute the conditions of its own persistence.
 
-For a broader survey of contemporary biological theory, see **Agency in Contemporary Biology**, which examines organism-centred evolution, autonomy theory, developmental agency, and process biology, and explains how APS relates to these approaches.
+That was the sense in which Agency was proposed as the defining activity of Life.
 
-Together, these articles move from foundation to operation to synthesis:
+The emphasis on activity matters. The proposal was not that living systems possess a mysterious additional property called Agency. Nor was Agency intended as another causal force added to metabolism, gene regulation, development, physiology or behaviour. The paper explicitly described the framework as a way of redescribing established biological processes in terms of the organisational conditions under which they occur.
 
-- **Agency as the Defining Activity of Life** — The conceptual foundation of agency in APS.
-- **Biological Agency as the Activity of Self-Maintenance** — The operational account of how agency maintains viability and organised persistence.
-- **Agency in Contemporary Biology** — The broader theoretical context within which APS participates in the contemporary return of agency to biology.
+This also explains the role of viability. Not every change made by a living system counts as Agency simply because the system caused it. The relevant activities are organised in relation to the system's continued ability to exist. Some conditions support continued living organisation; others undermine it. Living systems continually act within that difference.
 
-## Why APS Begins with Agency
+The paper tried to make this proposal empirically usable rather than leaving Agency as an abstract philosophical idea. It therefore proposed six biosignatures—homeostasis, adaptive plasticity, selective boundary regulation, goal-directed behaviour, recursive self-repair, and cross-scale coordination—as observable ways in which viability-oriented activity might be investigated. It presented these as empirically tractable indicators while also acknowledging unresolved questions about thresholds, borderline cases and the limits of nonliving self-organisation.
 
-The search for a defining principle of life has long occupied biology and philosophy. Throughout this history, different traditions have identified different candidates. Some have emphasised metabolism, others reproduction, information, self-organisation, evolution, autonomy, or complexity. Each captures something important about living systems, yet none fully explains why living systems persist as organised entities despite continual change.
+Importantly, the paper did not present APS as a replacement for ordinary biological science. It explicitly said that the framework did not replace standard biological explanations, but sought to make explicit an organisational condition that those explanations presuppose.
 
-A central difficulty is that many proposed definitions identify properties possessed by living systems rather than activities performed by them. They describe what living systems contain, how they are structured, or how they differ from non-living matter. Such descriptions are informative, but they do not fully explain how living organisation remains viable across time.
+The original claim can therefore be stated quite simply:
 
-APS approaches the problem from a different direction. Rather than beginning with structures or substances, it begins with activity.
+Living systems do not merely persist. They actively contribute to maintaining the conditions that make their continued existence possible. The published paper called this viability-oriented activity biological Agency and proposed it as the defining activity of Life.
 
-Living systems continually generate, maintain, and renew the conditions required for their own persistence. They regulate internal organisation, respond to environmental change, repair damage, coordinate developmental processes, and reorganise in response to disturbance. These activities are not secondary consequences of being alive. They are among the fundamental reasons living systems remain alive at all.
+That is the claim from which the subsequent development of APS begins.
 
-Agency identifies this viability-oriented activity.
+## 2. Why the Paper Began with Agency
 
-The significance of agency becomes clearer when contrasted with non-living systems. Rivers maintain characteristic patterns of flow. Hurricanes display highly organised dynamics. Flames persist through ongoing physical processes. Yet these systems do not actively sustain the conditions of their own continued viability. Their organisation depends entirely upon external conditions and disappears when those conditions are removed. Living systems differ because their activity contributes directly to maintaining the organisational conditions upon which their continued existence depends.
+The paper began with Agency because it wanted to shift attention from what living systems have to what living systems continually have to do.
 
-This distinction explains why APS treats agency as foundational. Agency directs attention toward the ongoing achievement of persistence rather than toward any particular mechanism through which persistence is realised. Different organisms employ different structures, biochemical pathways, developmental strategies, and ecological relationships. What unites them is not a single mechanism but participation in the continual activity through which viability is maintained.
+A living cell is not alive simply because a particular collection of molecules is present at one moment. Its components are continually being produced, transformed, transported, damaged, repaired and replaced. Its internal conditions change. Its surroundings change. Yet through all this activity the cell can remain a recognisably continuous living system.
 
-Beginning with agency therefore reorients biological explanation. Instead of asking what life is made of, APS asks how living systems sustain themselves as organised, viable entities through time. Agency provides the conceptual foundation for answering that question.
+The same general problem appears at larger scales. Organisms grow and develop. They respond to injury, shortages and environmental disturbance. They alter their physiology and behaviour. Multicellular systems coordinate activities among different tissues and organs. In each case, persistence occurs through change, not by avoiding change.
+
+The published paper treated this active maintenance of organisation as fundamental. It described living systems as initiating, regulating and coordinating their organisation in response to changing conditions. It then used Process to capture the temporal organisation through which such activity is enacted and renewed, and Scale to recognise that biological organisation extends across different spatial and temporal domains.
+
+Agency was therefore the paper's main explanatory entry point because it brought a particular biological fact into focus: living organisation has to be continually enacted.
 
 [[box:why-agency]]
 
-## Agency Is Activity, Not a Trait
+This was also why viability was so important. A rock may persist for a very long time, but it does not continually regulate itself so that it remains within conditions compatible with being a rock. Living systems are different. Their continued existence depends upon organised activity that maintains, restores or alters their own conditions.
 
-One reason agency remains controversial within biology is that the term is often associated with human psychological capacities. In everyday language, agency commonly refers to conscious choice, deliberate action, intention, or decision-making. If agency is understood in this way, it appears too specialised to serve as a general biological concept because many living systems clearly lack such capacities.
+The paper expressed this by saying that persistence in living systems is not merely a passive outcome but an ongoing achievement.
 
-APS rejects this interpretation.
+That formulation remains important for understanding the original argument. It explains why the paper was dissatisfied with accounts of Life that simply listed characteristic traits. Metabolism, boundaries, repair, regulation and responsiveness mattered not merely because living systems happened to possess them, but because these processes participated in maintaining living organisation.
 
-Biological agency is not defined by intelligence, consciousness, symbolic representation, or reflective thought. Instead, it is defined by the organisation of activity relative to viability. A system exhibits agency when its activity contributes to maintaining the conditions required for its continued persistence.
+Agency therefore connected two questions that can otherwise appear separate:
 
-This definition shifts attention away from mental states and toward organisational dynamics. Cells regulate internal chemistry despite continual material turnover. Organisms coordinate development, repair damage, maintain physiological stability, and respond to changing environmental conditions. Across all of these cases, activity contributes to sustaining viability. The relevant feature is not cognition but viability-oriented organisation.
+What is a living system?
 
-Agency should therefore not be understood as a trait possessed in the same way that an organism possesses a structure or characteristic. Traits may remain relatively stable over time. Agency, by contrast, exists only through ongoing activity. It is continually enacted rather than statically possessed.
+and
 
-This distinction has important implications for biological explanation. If agency were merely a trait, it could be treated as another property requiring description. Understood as activity, however, agency becomes an organisational process through which living systems continually sustain themselves. The focus shifts from what organisms have to what organisms do.
+What does a living system do to remain living?
 
-Agency is therefore inseparable from organisation. Living organisation is not a fixed arrangement of components but a continually maintained pattern of relations. Structures degrade, materials are replaced, and environmental conditions fluctuate. Organisational continuity persists only because living systems continually perform the activities required to maintain it.
+The paper described Agency as the “operational nexus” between those questions. Its formal definition accordingly identified Life with the capacity actively to coordinate and maintain organisation across interacting spatial and temporal domains in ways that promote continued viability and adaptive potential.
 
-The relationship is reciprocal. Organisation provides the structures and relations through which agency becomes possible, while agency provides the activity through which organisation remains organised. Neither concept can be fully understood independently of the other. 
+This is an important point to preserve accurately. The published paper really did give Agency a very strong role. That claim should not be retrospectively weakened simply because subsequent APS research has made finer distinctions.
 
-Contemporary organisational theories increasingly emphasise temporally structured organisational closure as the basis of agency. López-Díaz and Gershenson (2026) argue that agency emerges when semantically closed organisation develops endogenous anticipatory organisation. APS shares the view that agency is fundamentally organisational rather than representational, but locates agency more fundamentally in viability-oriented activity itself. Anticipatory organisation is therefore understood as one possible organisational achievement of sufficiently developed agency rather than the criterion that first constitutes agency.
+At the same time, the paper was not entirely committed to a simple equation of Life = Agency. It repeatedly spoke of viability-oriented organisation, constraint closure and organised persistence. Its conclusion went further, treating constraint closure, Agency, Scale and evolution as analytically distinguishable aspects of an integrated organisation.
 
-Once agency is understood in this way, it becomes possible to recognise a common organisational principle across the diversity of life. Organisms differ enormously in structure, complexity, behaviour, and ecological niche. Yet all living systems participate in viability-oriented activity directed toward sustaining organised persistence. Agency therefore provides a unifying explanatory concept capable of spanning the full range of biological organisation.
+There was therefore already a tension within the paper.
 
-## Viability-Orientation and Biological Normativity
+One formulation made Agency the defining feature or capacity of Life. Another increasingly located Agency within a broader account of viability-oriented organisation.
 
-Agency is distinguished from other forms of activity by its orientation toward viability. Living systems do not interact with all possible states equally. Some conditions support persistence, while others undermine it. Some trajectories preserve organisational continuity, whereas others contribute to degradation or failure. These differences matter because they affect the continued existence of the living system itself.
+Subsequent APS research would eventually make that distinction explicit. But that was a later development. To understand what changed, we first need to be equally clear about what the subsequent work did not overturn.
 
-Viability therefore gives agency its direction.
+## 3. What Subsequent Work Has Retained
 
-A river flows. A star radiates energy. A hurricane maintains organised dynamics for a period of time. Yet these processes are not organised around sustaining their own continued viability. Their persistence depends entirely upon external physical conditions. Living systems differ because their activity contributes to preserving the organisational conditions required for their own continued existence.
+The most important result of subsequent APS research is that the central insight of the published paper has survived.
 
-This viability-orientation introduces a normative dimension into biology.
+Living systems are not passive structures. They actively participate in maintaining the conditions under which their organisation can continue.
 
-Conditions become significant because they affect persistence. Activities become significant because they contribute positively or negatively to the maintenance of viability. Repair processes matter because damage threatens persistence. Regulatory mechanisms matter because organisational breakdown threatens continuity. Adaptive responses matter because changing conditions alter the requirements for survival.
+That remains central to APS.
 
-Normativity therefore emerges naturally from the organisation of living systems themselves. It does not depend upon conscious evaluation, external judgement, or imposed purpose. The distinction between success and failure arises because some outcomes contribute to viability while others undermine it.
+### Agency remains viability-oriented activity
 
-This provides a biological basis for understanding function. A trait, process, or activity is functional insofar as it contributes to maintaining the viability of the organised system. Dysfunction occurs when those contributions fail. The normative character of biological explanation thus emerges from viability-oriented organisation rather than from external standards.
+Subsequent work has retained the idea that biological Agency concerns activity organised in relation to viability.
 
-Agency and normativity are therefore inseparable. Agency identifies the activity through which living systems maintain themselves. Normativity arises because the success of that activity matters to the persistence of the system performing it. Together they reveal why biology cannot be reduced to the description of physical processes alone. Biological explanation must also account for the viability-oriented organisation through which living systems distinguish conditions that support persistence from those that threaten it.
+This means that Agency is not simply another word for causation. A biochemical reaction can cause another reaction without thereby constituting biological Agency. The Agency question is more specific: how does the activity of the living system bear upon the maintenance or re-establishment of conditions compatible with its continued organisation?
 
-## Agency, Organisation, and Persistence
+That remains very close to the published paper's original formulation. The paper itself described Agency as activity through which systems sustain and reconstitute their organisation and explicitly distinguished this usage from intention and cognition.
 
-Agency, organisation, and persistence are among the most important concepts in APS because they identify complementary dimensions of a single biological reality.
+### Agency still does not mean consciousness or intelligence
 
-Agency concerns the activity through which living systems sustain themselves.
+This distinction has also survived.
 
-Organisation concerns the structured relations through which that activity is coordinated.
+A bacterium need not understand its circumstances in order to regulate its internal conditions. A cell need not consciously intend to repair damage. Biological Agency, in the APS sense, therefore begins much earlier than psychological Agency.
 
-Persistence concerns the continuity achieved through the interaction of activity and organisation across time.
+This is important because otherwise the word agency can make the theory sound more anthropomorphic than it is. The original paper explicitly rejected that interpretation, describing biological Agency as ongoing activity rather than human-like intention.
 
-Although these concepts can be distinguished analytically, they cannot be fully separated in living systems.
+Subsequent APS work has retained that distinction.
 
-Agency without organisation would lack the coordinated structure required to sustain viability. Organisation without agency would rapidly degrade because no activity would exist to maintain, repair, regulate, or renew the conditions upon which organisation depends. Persistence emerges only because organised activity continually counteracts the processes that would otherwise undermine continuity.
+### Living organisation still has to be actively maintained
 
-This relationship helps explain why APS treats organised persistence as a central explanatory theme of biology. Living systems do not persist because they resist change. On the contrary, they undergo continual transformation. Materials are replaced, structures are repaired, developmental processes unfold, ecological conditions fluctuate, and evolutionary histories reshape populations over time. Biological continuity therefore cannot be understood as static permanence.
+The later work has also retained the paper's emphasis on active maintenance.
 
-Living systems persist because change is organised.
+Living systems undergo continuous material and organisational change. Maintaining Life therefore cannot mean keeping everything unchanged. What persists is an organisation capable of continuing through turnover, perturbation and reorganisation.
 
-Agency provides the activity through which this organisation occurs. Repair restores damaged structures. Regulation coordinates physiological processes. Development reorganises persistence across life histories. Adaptation modifies organisation in response to changing conditions. Across all of these examples, continuity is achieved through ongoing activity rather than despite it.
+The original paper captured this with the idea that persistence is an ongoing achievement. Subsequent APS research has retained the phenomenon while becoming more careful about where it sits in the explanatory architecture.
 
-Recent organisational accounts likewise emphasise the inseparability of agency and temporal organisation. López-Díaz and Gershenson (2026) argue that organisational closure can only be understood through temporally differentiated organisational processes and propose that agency emerges from the development of endogenous anticipatory organisation. APS likewise treats agency as intrinsically temporal but interprets temporal organisation differently. Rather than defining agency through anticipation, APS understands temporal organisation as the means through which viability-oriented activity continually achieves organised persistence.
+### Constraint closure remains important
 
-Persistence should therefore not be understood merely as an outcome of agency. It is the explanatory achievement that agency continually produces. Agency explains how living systems remain viable despite continual transformation, while persistence identifies what that activity ultimately accomplishes.
+The subsequent work has not abandoned constraint closure either.
 
-Seen in this way, agency, organisation, and persistence form an inseparable explanatory triad. Agency supplies the activity. Organisation supplies the coordinated structure. Persistence supplies the continuity achieved through their interaction. Together they provide the conceptual foundation upon which the broader APS framework is built.
+The published paper already described living systems as organisations in which the constraints regulating activity are themselves generated and maintained through the system's activity. It also used viability-oriented, constraint-closed organisation when discussing how Agency might be diagnosed empirically.
 
-<<div class="aps-diagram">
-  <a href="/assets/diagrams/conceptual-agency.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/conceptual-agency.png"
-      alt="Agency as the defining activity of life showing agency, viability, organisation, persistence, process, and scale."
-      loading="lazy"
-    />
-  </a>
+Later APS work has made this organisational dimension more important, not less.
 
-  <p class="aps-diagram-caption">
-    <strong>Agency as the Defining Activity of Life.</strong>
-    Agency is the viability-oriented activity through which living systems sustain themselves across time. Agency maintains viability, viability is sustained through organisation, and organisation enables persistence. Process and scale provide the explanatory dimensions through which agency is expressed and coordinated.
-  </p>
-</div>
+### The relationship between Agency, Process and Scale remains important
 
+Nor has subsequent work discarded the three APS perspectives.
 
-## Agency Across Process
+Agency still asks about viability-oriented activity.
 
-Agency is often described as if it were a property possessed by an organism at a particular moment. APS adopts a different perspective. Agency is not a static condition but an ongoing process through which living systems continually sustain themselves across time.
+Process still brings temporal organisation and transformation into view.
 
-This temporal dimension is essential. A living system cannot be understood by examining a single instant in isolation because viability is never achieved once and for all. The conditions required for persistence must be continually maintained despite ongoing internal and external change. Metabolic activity must be sustained. Damage must be repaired. Environmental fluctuations must be accommodated. Developmental processes must remain coordinated. Organisational continuity therefore depends upon a continuous flow of viability-oriented activity.
+Scale still asks how relevant organisation and causal relations extend across spatial, temporal and organisational extents.
 
-Agency is the process through which this continuity is achieved.
+What has changed is the relationship among them, not the need for them.
 
-This perspective reveals why APS treats persistence, adaptation, and evolution as interconnected temporal expressions of a common organisational reality. Persistence concerns the maintenance of viability through time. Adaptation concerns the reorganisation of viability-oriented activity under changing conditions. Evolution concerns the long-term historical transformation of viability-oriented organisation across generations. Although these processes operate across different temporal scales, each depends upon agency as the activity through which organised persistence is maintained and transformed.
+The published paper itself was already moving toward this position when it described apparently different features as “analytically distinct aspects of a single, integrated organization.”
 
-Understanding agency as process also clarifies why living systems remain recognisably continuous despite constant material change. Cells replace molecular components. Organisms grow, develop, and age. Ecological relationships shift. Yet living systems persist because organisational continuity is maintained through ongoing activity. Persistence is therefore not the preservation of static structure but the continual achievement of organised continuity through change.
+That observation would become important in the subsequent development of APS.
 
-This distinction has important explanatory consequences. If living systems are understood primarily as structures, change appears as a threat to continuity. If living systems are understood as processes, continuity becomes something actively produced through change. Agency therefore does not oppose transformation. It organises transformation in ways that preserve viability.
+### APS still seeks an organisational account of Life
 
-APS consequently treats agency as intrinsically temporal. Living systems exist not as static entities but as ongoing organisational achievements whose persistence depends upon continual viability-oriented activity. Understanding life therefore requires understanding the processes through which living systems maintain continuity across time.
+Finally, subsequent work has retained the paper's most general ambition: to understand Life in organisational rather than merely compositional terms.
 
-## Agency Across Scale
+The question is not simply which molecules, structures or traits are present. It is how those components participate in an organisation capable of continuing as a living system.
 
-Agency unfolds through time, but it also extends across scale.
+That remains the central territory of APS.
 
-Traditional biological explanations often seek a privileged level at which agency supposedly resides. Some accounts locate agency within organisms. Others emphasise cells, genes, nervous systems, or cognitive processes. APS rejects the search for a single privileged location because living organisation itself is distributed across multiple scales.
+What subsequent research has changed is the precision with which the pieces are arranged.
 
-Agency always occurs through organised systems, and those systems are themselves composed of interacting processes operating across different spatial and temporal domains. Cellular regulation contributes to organismal viability. Organismal activity influences ecological conditions. Ecological relationships shape evolutionary trajectories. Agency therefore cannot be understood adequately by isolating any single scale from the broader organisational context within which it operates.
+The original paper made Agency carry several jobs at once. Agency helped define Life; described viability-oriented activity; connected organisation with persistence; linked Process and Scale; and supported broader claims about biological explanation.
 
-This does not imply that all scales exhibit agency independently. APS does not assume that every biological process is an agent in its own right. Rather, agency is expressed through organised relations distributed across scales. The relevant question is not where agency is located but how viability-oriented activity is coordinated across the organisational architecture of living systems.
+Later work has separated those jobs.
 
-Consider an organism responding to environmental stress. Cellular regulatory processes alter gene expression and metabolism. Physiological systems coordinate internal responses. Behaviour modifies interactions with the environment. Ecological conditions influence available opportunities and constraints. The resulting activity cannot be fully explained at any one scale because persistence depends upon the coordinated interaction of processes operating across all of them.
+That does not make the original Agency insight disappear. It allows us to ask a more exact question:
 
-The same principle applies throughout biology. Development involves coordination across molecular, cellular, organismal, and ecological scales. Evolution emerges from viability-oriented organisation distributed across generations and populations. Ecological persistence depends upon interactions extending beyond individual organisms. In every case, agency is expressed through organised relations spanning multiple scales of biological organisation.
+If Agency remains the viability-oriented activity characteristic of living systems, does Agency itself define Life—or is Agency one aspect of a more fundamental description of living organisation?
 
-APS therefore treats scale as an essential dimension of biological explanation. Agency identifies the activity through which viability is maintained. Process identifies the temporal organisation of that activity. Scale identifies the distributed organisational architecture through which that activity is realised.
+That is where the subsequent APS research begins to modify the original claim.
 
-Together, agency, process, and scale provide a framework for understanding biological phenomena without reducing them to a single level of analysis. Living systems persist because viability-oriented activity is organised across time and distributed across scales.
+## 4. What Subsequent Work Has Changed
 
-## Why Agency, Process, and Scale Are Distinct
+The central claim of the published paper has survived, but its place within APS has changed.
 
-Agency, process, and scale form the three conceptual dimensions of APS. Because they are closely interconnected, it is sometimes tempting to treat them as different names for the same idea. APS maintains a distinction among them because each answers a different explanatory question.
+The original paper sometimes made Agency do several jobs at once. Agency was the activity through which living systems maintained viability, but it was also presented as the defining feature of Life, the link between what Life is and what Life does, and an organising concept connecting Process and Scale. The paper could therefore say quite directly that a system is alive insofar as it acts to maintain and reconstitute the conditions of its persistence.
 
-Agency addresses activity.
+At the same time, another formulation was developing within the paper. Living systems were increasingly described in terms of viability-oriented organisation, constraint closure and organised persistence. By the conclusion, the paper was asking “What is life?” in terms of organised persistence under constraint and treating Agency as one analytically distinguishable aspect of an integrated organisation.
 
-It asks:
+Subsequent APS research has resolved this tension in favour of the organisational formulation.
 
-> What is the living system doing to sustain its own viability?
+The change can be put very simply:
 
-Process addresses temporal organisation.
+Agency remains central to APS, but Agency no longer has to be the whole definition of Life.
 
-It asks:
+This is a clarification rather than a rejection of the original insight.
 
-> How is that activity maintained, coordinated, and transformed through time?
+The current position begins by distinguishing the living organisation from what that organisation does. Life concerns the kind of organisation that exists and persists as a living system. Agency concerns the viability-oriented activity through which that organisation responds, regulates, maintains and, where possible, restores conditions compatible with its continuation.
 
-Scale addresses distributed organisation.
+This gives the concepts different jobs.
 
-It asks:
+The distinction may initially sound small, but it solves several problems.
 
-> Across what organisational domains is that activity expressed and coordinated?
+First, it prevents the definition of Life from becoming circular. If Agency is defined as what living systems do and Life is then defined simply as whatever exhibits Agency, the two concepts can become difficult to distinguish. Giving Life an organisational formulation and Agency an activity-oriented formulation makes their relationship clearer.
 
-These questions are inseparable in living systems, yet they are not identical.
+Second, it prevents Agency from becoming an invisible explanatory ingredient added to ordinary biological mechanisms. Agency is not another force operating alongside biochemical reactions, physiological regulation or developmental processes. It is an analytic way of asking how activities of an organised living system relate to viability.
 
-A developmental process, for example, unfolds through time and spans multiple scales of organisation. Understanding development nevertheless requires distinguishing the viability-oriented activities being performed from the temporal organisation through which they occur and from the scales across which they are coordinated. Confusing these dimensions can obscure rather than clarify biological explanation.
+Third, the distinction makes it easier to say exactly what APS is claiming when it describes a phenomenon as agential. The claim need not be that Agency has independently caused the phenomenon. It can instead be that particular biological activities can be understood in relation to their contribution to maintaining or re-establishing viable organisation.
 
-The distinction becomes particularly important when comparing different biological phenomena. Adaptation, development, regulation, cognition, and evolution each involve agency, process, and scale, but they differ in how these dimensions are organised. APS provides a common explanatory grammar capable of describing these differences without reducing them to a single mechanism or privileged level.
+The original paper itself had already guarded against treating Agency as an additional causal entity. It explicitly said that the Agency formulation introduced no new causal forces but redescribed established biological processes in terms of their organisational conditions. Subsequent work makes that restraint more systematic.
 
-Agency, process, and scale should therefore be understood as complementary explanatory perspectives rather than competing theories. Together they reveal different aspects of the organisational reality through which living systems persist.
+There is a second important change.
 
-This relationship explains why APS is not a theory of agency alone. Agency identifies the defining activity of life, but understanding that activity requires attention to both temporal organisation and distributed organisation. The APS framework therefore integrates all three dimensions into a unified account of biological explanation.
+The published paper sometimes presented APS as providing a unified explanatory framework for Life. Its conclusion, for example, claimed a unified framework for defining, detecting and explaining living systems.
 
-## Agency Is Not Behaviour
+Subsequent work requires a more careful distinction between conceptual integration and explanatory gain.
 
-Agency is frequently equated with behaviour. This association is understandable because behaviour often provides visible evidence of agency. Organisms move, forage, communicate, avoid danger, and modify their interactions with the environment. Such activities clearly contribute to persistence and therefore appear closely connected to agency.
+APS may provide a common vocabulary for describing relationships among viability, organisation, Agency, Process and Scale. That is already useful. But the existence of a common framework does not by itself demonstrate that APS explains a particular biological phenomenon better than physiology, developmental biology, evolutionary theory, molecular biology, ecology or some other established approach.
 
-Yet behaviour and agency are not identical.
+That stronger claim has to be demonstrated.
 
-Behaviour refers to observable activity. Agency refers to the viability-oriented organisation underlying that activity. Behaviour may therefore express agency, but agency extends far beyond behaviour alone.
+The result is a more restrained APS. But it is also a more testable one. Instead of assuming that a general framework must be explanatorily superior because it encompasses more phenomena, APS can ask a more demanding question:
 
-Much of the activity through which living systems sustain themselves occurs without obvious behavioural expression. Cells regulate internal chemistry. Organisms repair tissues, maintain physiological stability, coordinate developmental processes, and reorganise responses to perturbation. These activities contribute directly to viability despite often remaining invisible to external observation. Restricting agency to behaviour would therefore exclude many of the most important organisational processes through which living systems persist.
+What does an APS analysis explain in this particular case that the relevant alternative explanation does not?
 
-The distinction becomes particularly important when diagnosing life. Behaviour can provide useful evidence of agency, but behaviour by itself is insufficient. Non-living systems may exhibit complex and responsive behaviours without actively maintaining their own viability. Conversely, some living systems display little observable behaviour while nevertheless sustaining organised persistence through extensive internal activity.
+The subsequent work therefore narrows some of the original paper's ambitions while strengthening the standards by which those ambitions can be assessed.
 
-APS therefore treats behaviour as one possible manifestation of agency rather than as its defining feature. The critical question is not whether a system behaves but whether its activity contributes to maintaining the conditions required for its continued persistence.
+The same pattern appears in the treatment of Agency itself. Agency remains important. What has changed is the amount of theoretical work the concept is expected to perform.
 
-This distinction helps avoid a common source of confusion in discussions of agency. Behaviour is often the most visible expression of viability-oriented organisation, but visibility should not be mistaken for explanatory priority. Agency remains the more fundamental concept because it identifies the organisational activity that makes behaviour biologically significant in the first place.
+## 5. Life, Agency, and Organised Persistence
 
-[[box:agency-is-not-behaviour]]
+The clearest way to understand the revised position is to separate three ideas that were closely intertwined in the original paper:
 
-## Agency Is Not Intelligence
+Life. Agency. Organised persistence.
 
-A second common misunderstanding equates agency with intelligence.
+They concern the same biological reality, but they are not interchangeable.
 
-The association is understandable. Human agency is often expressed through reasoning, planning, problem-solving, and deliberate decision-making. These capacities are highly visible and naturally attract attention. As a result, agency is frequently treated as something that emerges only when sophisticated cognitive abilities become available.
+### Life
 
-APS rejects this interpretation.
+The current APS formulation treats Life as viability-oriented, constraint-closed organisation.
 
-Intelligence is one possible expression of agency, but agency itself is more fundamental. Living systems exhibit viability-oriented activity long before the emergence of nervous systems, cognition, or conscious awareness. Cells regulate internal conditions. Plants coordinate growth and development in response to changing environments. Microorganisms modify behaviour in ways that contribute to persistence. These activities demonstrate agency despite occurring in the absence of intelligence as it is commonly understood.
+In plain English, a living system is organised in such a way that its continued existence depends upon activities that help maintain the conditions under which that organisation can continue. The system does not merely occupy a stable state. Its organisation is continually enacted, maintained and reconstructed through the processes occurring within and through it.
 
-Recognising this distinction is important because it prevents biology from treating human cognition as the model for life in general. Intelligence represents one evolutionary elaboration of viability-oriented organisation. It expands the range of strategies available for maintaining persistence, but it does not create agency from nothing. Agency already exists wherever living systems actively sustain the conditions of their own continued viability.
+Importantly, this formulation is not foreign to the published paper. The paper itself repeatedly used viability-oriented, constraint-closed organisation when characterising living systems and applying its proposed biosignatures.
 
-This perspective also clarifies the relationship between cognition and biology. Cognitive processes are biologically significant because they contribute to persistence. They are therefore special cases of a more general organisational principle rather than independent foundations of life.
+What has changed is that this organisational formulation now carries more of the burden of answering what Life is.
 
-APS consequently treats intelligence as a derived phenomenon. Agency provides the broader biological context within which cognition, learning, memory, decision-making, and other cognitive capacities acquire their significance. Living systems are not agents because they are intelligent. Rather, intelligence evolves within systems that are already agents.
+### Agency
 
-[[box:agency-is-not-intelligence]]
+Agency answers a different question:
 
-## Agency and the Definition of Life
+What does that living organisation do in relation to its viability?
 
-The question of what life is remains one of biology's most enduring challenges. Proposed answers have emphasised metabolism, reproduction, information, evolution, complexity, autonomy, and self-organisation. Each identifies important features of living systems, yet no single feature appears sufficient to capture the full diversity of life.
+Agency concerns activities through which a living system contributes to maintaining, regulating or re-establishing conditions compatible with its continued organisation.
 
-APS approaches this problem by asking a different question.
+This preserves the central insight of the published paper while giving it a more precise theoretical role.
 
-Rather than seeking a defining structure, mechanism, or substance, APS asks what activity distinguishes living systems from non-living forms of organisation.
+A cell repairing damage can be analysed agentially.
 
-The answer proposed here is agency.
+So can physiological regulation in an organism.
 
-Agency identifies the viability-oriented activity through which living systems sustain, regulate, repair, and reorganise the conditions of their own persistence. Unlike metabolism, it is not restricted to particular biochemical processes. Unlike reproduction, it applies to individual organisms as well as lineages. Unlike information, it does not depend upon a specific physical substrate. Unlike evolution, it remains relevant to the persistence of living systems within a single lifetime.
+So can context-sensitive activity that alters the relationship between an organism and its environment.
 
-Agency therefore provides a more general explanatory foundation. It identifies the activity through which the many characteristic features of life become possible. Metabolism contributes to agency because it supports viability. Development contributes to agency because it reorganises persistence across time. Regulation contributes to agency because it maintains organisational continuity. Evolution contributes to agency because it shapes the long-term transformation of viability-oriented organisation.
+But calling such activity agential does not mean introducing a new force behind the molecular or physiological processes involved. Nor does it mean that the cell consciously wants to survive. It means examining those processes in relation to the viability of the organised system of which they form part.
 
-Seen from this perspective, many traditional definitions of life describe important consequences, mechanisms, or manifestations of agency rather than alternatives to it. Agency does not replace these concepts. It provides a framework within which their biological significance becomes intelligible.
+The original paper already insisted that Agency need not imply intention or cognition. That distinction remains unchanged.
 
-This perspective also clarifies why APS defines life as viability-oriented, constraint-closed organisation. Organisation identifies the structured relations through which living systems sustain themselves. Constraint closure identifies the mutual dependencies that allow those relations to maintain organisational continuity. Agency identifies the activity through which this organisation remains viable.
+What has changed is the stronger claim that Agency itself exhausts the definition of Life.
 
-The concepts therefore complement one another.
+A useful shorthand is therefore:
 
-Life is not defined by agency alone. Yet agency identifies the defining activity through which living organisation continually sustains itself across time. Without agency, viability would not be maintained, organisation would not persist, and life would cease to exist as an organised phenomenon.
+Life identifies the organisation. Agency identifies viability-oriented activity of that organisation.
 
-Agency therefore occupies a foundational position within the APS understanding of life.
+This is not intended to separate them into independent things. There is no free-floating Agency apart from an organised system whose activity can be assessed in relation to viability. Equally, living organisation is not static: its continuation depends upon activity.
 
-## Borderline Cases and Diagnosis
-
-The significance of agency extends beyond conceptual clarification. It also provides a framework for biological diagnosis.
-
-Many contemporary debates concern systems whose status as living entities remains uncertain. Viruses, dormant organisms, synthetic biological systems, artificial life, and future engineered systems often challenge traditional definitions because they exhibit some characteristics of life while lacking others. Different criteria therefore produce different classifications.
-
-APS approaches such cases by asking whether a system actively contributes to maintaining the conditions of its own viability.
-
-This question does not always yield a simple yes-or-no answer. Agency may be expressed to different degrees, through different organisational architectures, and across different temporal scales. Nevertheless, viability-oriented activity provides a principled basis for evaluation because it focuses directly upon the organisational processes through which persistence is achieved.
-
-This approach shifts attention away from isolated traits. The presence of metabolism, reproduction, movement, information processing, or adaptive behaviour may provide useful evidence, but none of these characteristics alone determines whether a system exhibits agency. Instead, they must be evaluated according to their contribution to the maintenance of organised persistence.
-
-The distinction between definition and diagnosis is therefore important. APS defines life in terms of viability-oriented, constraint-closed organisation. Diagnosis concerns the empirical assessment of whether a particular system satisfies that definition. Evidence consists of the observations supporting such assessments.
-
-Agency plays a central role in this process because viability-oriented activity often provides the most direct indication that organised persistence is actively being maintained. The question is not merely whether a system displays interesting behaviour or complex organisation. The question is whether its activity contributes to sustaining the conditions required for its own continued persistence.
-
-This perspective does not eliminate difficult cases, but it provides a coherent framework for analysing them. Borderline systems become opportunities to investigate the nature and organisation of agency rather than exceptions that undermine biological explanation.
+The distinction is analytic, but important.
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
-## Agency as the Foundation of APS
+### Organised persistence
 
-Agency occupies a central position within APS because it provides the point from which the framework's other major concepts become intelligible.
+The third concept is organised persistence.
 
-Viability identifies the condition toward which agency is directed.
+Here the subsequent clarification is particularly useful.
 
-Organisation identifies the structured relations through which agency operates.
+The published paper was right to emphasise that living persistence is not passive. It described living systems as continually re-establishing the conditions under which they can continue to exist.
 
-Persistence identifies the continuity achieved through agency.
+But APS can now distinguish more carefully between what needs explaining and the resources used to explain it.
 
-Process identifies the temporal organisation of agency.
+Organised persistence is principally the phenomenon that needs explanation.
 
-Scale identifies the distributed architecture through which agency is expressed.
+The puzzle is straightforward. Living systems change continuously. Their components turn over. Their internal states fluctuate. They develop, repair, respond and reorganise. Yet some form of organised continuity can persist through those changes.
 
-Taken together, these concepts form an integrated explanatory system rather than a collection of independent ideas.
+How?
 
-This integration becomes increasingly apparent across the major domains of biology. Development concerns the reorganisation of viability-oriented activity across life histories. Evolution concerns the historical transformation of viability-oriented organisation across generations. Ecology concerns the maintenance of viability through organism–environment relations. Cognition concerns specialised forms of agency through which organisms acquire, retain, and employ information relevant to persistence.
+Agency contributes to the answer because living systems perform viability-oriented activities.
 
-Although these domains differ in scope and timescale, each addresses the same underlying organisational reality. Living systems persist because they actively sustain the conditions required for their continued existence. The specific mechanisms differ, but the explanatory foundation remains the same.
+Process contributes because persistence occurs temporally, through ongoing change rather than outside it.
 
-Agency therefore functions as more than a biological concept. It serves as a point of explanatory orientation. Beginning with agency directs attention toward the activities through which living systems maintain themselves rather than toward isolated structures, mechanisms, or components considered independently.
+Scale contributes because the relevant organisation and causal relations may extend across different spatial and temporal extents.
 
-This shift has important consequences for biological explanation. Questions concerning function, regulation, adaptation, development, evolution, and cognition become connected through their relationship to organised persistence. Rather than treating these topics as separate explanatory domains, APS interprets them as different expressions of viability-oriented organisation operating across process and scale.
+Constraint closure contributes because living organisation depends upon relations in which relevant constraints are themselves maintained through the organisation they help regulate.
 
-Agency therefore provides the conceptual entry point through which the broader explanatory architecture of APS becomes visible. It identifies the activity through which living systems sustain themselves and establishes the foundation upon which the framework's understanding of biology is built.
+But organised persistence should not simply be treated as something produced by Agency alone.
 
-## Conclusion
+That is the important correction.
 
-Living systems are often described in terms of the structures they possess, the molecules from which they are constructed, or the mechanisms through which they operate. APS begins elsewhere. It begins with activity.
+The relationship is better represented as:
 
-Agency identifies the viability-oriented activity through which living systems sustain, regulate, repair, and reorganise the conditions of their own persistence. It is not a specialised property restricted to intelligent organisms, nor is it synonymous with behaviour, cognition, or conscious choice. Agency is a general feature of living organisation wherever activity contributes to maintaining viability.
+Organised persistence is the central phenomenon. Life names the viability-oriented, constraint-closed organisation exhibiting that persistence. Agency, Process and Scale allow different aspects of its organisation and continuation to be analysed.
 
-Understanding agency reveals why living systems differ from other organised physical systems. Living systems do not persist because they remain unchanged. They persist because they continually organise change in ways that preserve viability. Continuity is therefore not the absence of transformation but its successful organisation.
+This arrangement makes the APS architecture less linear.
 
-This insight connects agency to the broader conceptual architecture of APS. Viability provides the orientation of agency. Organisation provides the structured relations through which agency operates. Persistence identifies the continuity agency achieves. Process reveals the temporal organisation of that activity. Scale reveals its distributed organisational architecture.
+It also makes clear why the subsequent work does not repudiate the published paper. The phenomenon the paper identified remains exactly the important one: living systems somehow maintain organised continuity through continual change.
 
-Together these concepts provide a unified framework for understanding life.
+The later work has mainly become more careful about which concept explains which part of that problem.
 
-APS therefore treats agency as the defining activity of life not because agency explains everything, but because it identifies the activity through which living organisation continually sustains itself. Beginning with agency directs biological explanation toward the organised persistence that unites development, evolution, ecology, cognition, regulation, and function within a common explanatory framework.
+## 6. Agency, Process, and Scale in the Subsequent APS Framework
 
-Living systems are not merely organised. They are actively engaged in maintaining that organisation. Agency identifies this activity and, in doing so, reveals why organised persistence provides the central explanatory problem of biology.
+The same clarification changes the relationship among the three terms that give APS its name.
+
+The easiest mistake would be to imagine a sequence:
+
+Agency → Process → Scale.
+
+On that picture, Agency would be foundational; Process would describe how Agency unfolds; and Scale would describe where Agency operates.
+
+That is close to the architecture sometimes suggested by the earlier presentation, but it is no longer the best way to understand APS.
+
+Agency, Process and Scale are better treated as different analytic projections on the same living organisation.
+
+Each asks a different question.
+
+<div class="article-image">
+  <a href="/images/conceptual-agency2.png">
+    <img src="/images/conceptual-agency2.png" alt="APS conceptual architecture showing the development from the published Agency-first formulation to the subsequent APS framework">
+  </a>
+  <p><strong>Figure. From the published Agency-first formulation to the subsequent APS architecture.</strong> The published paper gave Agency the principal explanatory role in connecting viability, organisation, persistence, Process and Scale. Subsequent APS research retains Agency as viability-oriented activity but distinguishes Life as viability-oriented, constraint-closed organisation; treats Agency, Process and Scale as complementary analytic projections on that organisation; and treats organised persistence as a phenomenon requiring explanation. This represents a refinement of the original architecture rather than a repudiation of its central Agency insight.</p>
+</div>
+
+### Agency: what is the system doing relative to viability?
+
+The Agency projection directs attention to activity.
+
+It asks how activities of the system contribute to maintaining, restoring or altering conditions relevant to continued viable organisation.
+
+This might involve regulation, repair, behavioural change, boundary maintenance or many other biological activities. The important point is not the particular mechanism but the question being asked of it: how does this activity bear upon viability?
+
+### Process: how does the organisation continue through change?
+
+Process directs attention to time, transformation and continuity.
+
+Living systems are never simply finished objects. Metabolism proceeds. Components turn over. Development changes organisation. Damage occurs and may be repaired. Environmental circumstances alter. Evolution changes lineages across generations.
+
+The Process projection therefore asks how organised continuity is enacted through change.
+
+Process is not merely “Agency over time.” Many biological processes can be studied without being classified primarily in terms of Agency. Process has its own analytic role because temporal organisation and transformation pose explanatory questions in their own right.
+
+### Scale: across what extents is the relevant organisation realised?
+
+Scale directs attention to spatial and temporal extent and to relations among levels or domains of organisation.
+
+A biological phenomenon may depend upon molecular interactions, cellular organisation, tissue relations, whole-organism physiology, environmental conditions or combinations of these. Relevant timescales may likewise range from rapid molecular events to development, ecological change or evolutionary history.
+
+Scale therefore asks:
+
+At what spatial and temporal extents does the organisation relevant to this explanation occur, and how are those extents related?
+
+Again, Scale is not merely a place in which Agency happens. It is a distinct explanatory projection.
+
+### Three questions, one living organisation
+
+The resulting architecture is therefore not hierarchical:
+
+- Agency
+What is the living system doing in relation to viability?
+
+- Process
+How is its organisation enacted and transformed through time?
+
+- Scale
+Across what spatial and temporal extents are the relevant organisation and relations realised?
+
+These questions can overlap. Often they should.
+
+But none is automatically prior to the others.
+
+This point develops something already visible near the end of the published paper. There, apparently different features of the APS account were described as “analytically distinct aspects of a single, integrated organization.”
+
+The subsequent work makes that idea explicit and extends it to the architecture of APS itself.
+
+This has an important consequence for how APS should be used.
+
+An APS analysis does not require every biological question to be translated into Agency. Sometimes the important explanatory issue will concern temporal organisation. Sometimes it will concern cross-scale relations. Sometimes an Agency analysis will reveal something useful about viability-oriented activity. Sometimes an established biological explanation will already answer the relevant question perfectly well.
+
+The three projections provide ways of interrogating living organisation. They are not three hidden substances, three causal forces, or three stages through which Life must pass.
+
+This also changes the sense in which APS can be called integrative.
+
+Its strongest defensible integrative claim is that Agency, Process and Scale provide a common analytic architecture within which otherwise different biological questions can be related.
+
+Whether that architecture produces additional explanation in any particular case is a further question.
+
+That question matters because it marks perhaps the largest methodological development since the original paper. APS need not demonstrate its value by claiming that established biology has failed to explain Life. It can instead be evaluated more precisely: identify an explanatory target, identify the strongest existing explanation of that target, and ask whether the APS analysis contributes something additional.
+
+The result is a framework that makes fewer automatic claims for itself.
+
+But what remains is clearer.
+
+Agency still identifies something important about living systems: their activity can be organised relative to viability.
+
+Process still identifies something important: living continuity occurs through transformation.
+
+Scale still identifies something important: biological organisation and explanation extend across different spatial and temporal domains.
+
+And Life remains the phenomenon that brings these questions together—not because Agency, Process and Scale manufacture Life in sequence, but because they are different ways of examining the same viability-oriented, constraint-closed living organisation.
+
+That is the principal conceptual change produced by the subsequent APS work.
+
+It does not overturn the original insight that gave the published paper its title.
+
+It tells us more precisely what that insight is an insight about.
+
+## 7. What APS Now Claims—and What It No Longer Claims
+
+The development described in the previous sections makes it possible to state the present APS position more precisely.
+
+Some of the claims made in the original paper remain central. Others have been narrowed or repositioned. This does not require treating the earlier paper as a mistake. It requires distinguishing between an initial theoretical proposal and what can reasonably be claimed after that proposal has been developed and tested further.
+
+The clearest way to do that is to say plainly what APS now claims, and what it no longer needs to claim.
+
+### APS still claims that living systems actively contribute to their own continuation
+
+[[box:agency-is-not-behaviour]]
+
+[[box:agency-is-not-intelligence]]
+
+This remains the central insight behind the original Agency proposal.
+
+Living systems do not persist in the same way that an inert object can persist. They regulate internal conditions, maintain boundaries, repair damage, reorganise activity and respond to changes that bear upon their continued viability.
+
+APS uses Agency to examine this viability-oriented activity.
+
+Nothing in the subsequent work requires abandoning that idea. Nor does it require reducing Agency to consciousness, intention, intelligence or behaviour. The original paper explicitly distinguished biological Agency from those stronger psychological meanings, and that distinction remains important.
+
+What has changed is the claim that Agency by itself supplies the complete definition of Life.
+
+### APS now distinguishes more clearly between Life and Agency
+
+The original paper sometimes moved directly from viability-oriented Agency to a definition of Life. It could therefore say that a system is alive insofar as it acts to maintain and reconstitute the conditions of its own persistence.
+
+The current APS position makes a finer distinction.
+
+Life is viability-oriented, constraint-closed organisation.
+
+Agency concerns the viability-oriented activity of that organisation.
+
+The two concepts remain closely related. Living organisation is active, and Agency cannot be understood independently of an organised system whose viability is at stake. But they no longer perform exactly the same theoretical job.
+
+This means that the title “Agency as the Defining Activity of Life” can still be read literally.
+
+Agency can still be described as the defining activity of living organisation.
+
+It is no longer required to be the complete definition of Life.
+
+That is an important distinction.
+
+### APS still treats organised persistence as a central problem
+
+The original paper emphasised that living persistence is an ongoing achievement rather than passive endurance. That insight also survives.
+
+Living systems remain recognisably continuous despite material turnover, developmental change, environmental disturbance and continual internal activity. Explaining that continuity-through-change is a genuine biological problem.
+
+What has changed is the position of organised persistence within APS.
+
+APS no longer needs to treat organised persistence as something simply generated by Agency. It is better treated as a phenomenon requiring explanation.
+
+Agency helps analyse the viability-oriented activity involved in that persistence. Process helps analyse its temporal organisation. Scale helps identify the spatial and temporal extents across which relevant relations are realised. Constraint closure contributes to the account of how living organisation maintains the conditions of its own continuation.
+
+This division of labour makes the framework clearer.
+
+### APS still uses Agency, Process and Scale—but not as a sequence
+
+The three terms remain central.
+
+What APS no longer claims is that they should be understood as a progression in which Agency comes first, Process describes the unfolding of Agency, and Scale describes where Agency occurs.
+
+Instead, they are complementary analytic projections on living organisation.
+
+They ask different questions:
+
+Agency: what is the system doing in relation to viability?
+Process: how is its organisation enacted and transformed through time?
+Scale: across what spatial and temporal extents are the relevant organisation and relations realised?
+
+The original paper was already moving towards this position when it described apparently different features of living organisation as analytically distinct aspects of a single integrated organisation.
+
+Subsequent APS work has made that relationship explicit.
+
+### APS still proposes a general framework—but generality is not explanatory superiority
+
+This is perhaps the most important methodological change.
+
+The original paper was ambitious about the explanatory reach of APS. It argued that the framework could connect questions about mechanisms, development, ecology and evolution within a common account of living organisation. At the same time, it explicitly stated that APS was not intended to replace standard biological explanations.
+
+Subsequent work has made the second of these points much more demanding.
+
+APS can legitimately show that different biological phenomena can be described or compared using common concepts such as viability, organisation, Agency, Process and Scale.
+
+But this does not automatically mean that APS has explained those phenomena better.
+
+A common vocabulary is not the same thing as an explanatory advance.
+
+A broader framework is not automatically a deeper explanation.
+
+And showing that APS asks a question that another theory does not ask does not by itself show that the other theory has failed.
+
+If APS claims explanatory gain, the comparison therefore has to be made on a matched target. What exactly is being explained? What is the strongest existing explanation of that phenomenon? What does the APS account add?
+
+- Sometimes the answer may be substantial.
+
+- Sometimes APS may principally provide conceptual organisation.
+
+- Sometimes an established biological explanation may already do the required work.
+
+The current framework leaves those possibilities open.
+
+### APS does not claim that established biology becomes meaningful only when placed inside APS
+
+This follows directly from the previous point.
+
+Molecular mechanisms do not need APS in order to become genuine biological explanations. Evolutionary explanations do not require an APS foundation before they can explain evolutionary change. Developmental, physiological, ecological and systems explanations retain whatever explanatory achievements they can independently demonstrate.
+
+APS may identify relationships among these explanations or ask additional organisational questions.
+
+But it should not assume that it grounds, completes, subsumes or makes intelligible the rest of biology merely because it offers a general account of living organisation.
+
+This is a real narrowing of some of the stronger implications surrounding the original framework.
+
+It is also a methodological gain.
+
+A theory becomes more informative when it is clear not only about what it claims, but also about what would have to be shown before a stronger claim was justified.
+
+### APS still makes substantive theoretical proposals
+
+This restraint should not be mistaken for saying that APS has become merely descriptive.
+
+It has not.
+
+The proposal that Life should be understood in terms of viability-oriented, constraint-closed organisation is substantive.
+
+The proposal that Agency identifies viability-oriented activity is substantive.
+
+The treatment of organised persistence as a central explanatory problem is substantive.
+
+So is the claim that Agency, Process and Scale provide analytically distinguishable ways of investigating the same living organisation.
+
+These proposals can be criticised, compared with alternatives and tested for explanatory usefulness.
+
+The difference is that APS no longer needs to build its case by assuming that the existence of a unified framework already demonstrates its explanatory superiority.
+
+Its claims can stand or fall more locally.
+
+That makes the framework narrower in some respects.
+
+It also makes it more defensible.
+
+## 8. Conclusion: Refinement Rather Than Repudiation
+
+The paper “Agency as the Defining Activity of Life” began with a strong proposal: living systems are distinguished by a form of viability-oriented activity through which they contribute to maintaining and re-establishing the conditions of their own continued existence.
+
+That proposal remains important to APS.
+
+Subsequent research has not shown that living systems are passive after all. It has not made Agency synonymous with cognition or intention. It has not abandoned viability, constraint closure or the problem of organised persistence. And it has not removed Agency, Process or Scale from the framework.
+
+What has changed is the relationship among these ideas.
+
+The original paper sometimes asked Agency to perform several theoretical jobs simultaneously. Agency characterised what living systems do. It helped define Life. It connected viability with persistence. It provided an entry point into Process and Scale. And it supported broader claims about the explanatory integration APS might provide across biology.
+
+The subsequent development of APS has separated those jobs.
+
+The current position can be stated simply:
+
+Life is viability-oriented, constraint-closed organisation.
+
+Agency is the viability-oriented activity of that living organisation.
+
+Organised persistence is the continuity-through-change phenomenon requiring explanation.
+
+Agency, Process and Scale are complementary analytic projections on the same living organisation.
+
+These distinctions make the framework less dependent upon any one concept.
+
+Agency remains central, but it no longer has to carry the entire ontology of Life.
+
+That is why the development is better understood as refinement rather than repudiation.
+
+Indeed, the published paper itself contains signs of the distinction that later work would make explicit. Although its strongest formulations define Life through Agency, its conclusion also describes Life in terms of viability-oriented, constraint-closed organisation and treats several features of the framework as analytically distinct aspects of one integrated organisation.
+
+The later development therefore resolves a tension already present in the original argument.
+
+It resolves a second tension as well.
+
+The paper sought both to make an ambitious general claim about living organisation and to insist that APS did not replace ordinary biological explanations. Subsequent work has clarified how those commitments can coexist.
+
+APS can make a general theoretical proposal about Life without claiming to replace molecular biology, physiology, development, ecology or evolutionary theory.
+
+It can offer a common analytic architecture without assuming that common architecture constitutes explanatory gain.
+
+And it can ask whether a particular APS analysis contributes something beyond an existing explanation without deciding the answer in advance.
+
+This is a significant change in how the framework understands its own explanatory ambitions.
+
+It moves APS away from a model in which one general theory must somehow contain or complete the specialised explanations of biology.
+
+Instead, APS can coexist with explanatory pluralism.
+
+Different biological questions may require different explanatory resources. APS has to demonstrate its contribution at the point where it claims one.
+
+This also changes how the original Agency thesis should now be read.
+
+The strongest surviving claim is not:
+
+Life is Agency.
+
+Nor is it:
+
+All biological phenomena are ultimately explanations of Agency.
+
+It is closer to:
+
+Living organisation is distinctive in part because it is active in relation to the conditions of its own continued viability. Agency is the APS concept for examining that activity.
+
+That claim is narrower than some readings of the original proposal.
+
+But it is also clearer.
+
+It tells us what Agency is supposed to identify, what it is not supposed to replace, and what further work would be required to demonstrate its explanatory value.
+
+The title of the original paper can therefore remain meaningful.
+
+Agency can still be described as the defining activity of Life without treating Agency as the complete definition of Life itself.
+
+That distinction captures the development of APS since the paper was written.
+
+The central intuition has survived.
+
+The architecture around it has changed.
+
+And the effect of that change is not to make APS less ambitious about understanding Life, but to make it more precise about what it claims to explain, how its concepts relate to one another, and what evidence would be needed to show that the framework adds something to the explanations biology already possesses.
 
 ## Explanatory Architecture
 
 ### Central Question
 
-What distinguishes the activity of living systems from all other forms of organised physical organisation?
+How has the APS claim that Agency is the defining activity of Life changed as the framework has developed?
 
 ### Architectural Role
 
-This Anchor article establishes biological agency as the defining activity through which living systems sustain viability-oriented, constraint-closed organisation. It introduces agency as the principal explanatory entry point into the APS framework and shows how viability, organisation, persistence, process, and scale become integrated through agency.
+This article examines the development of one of the earliest central claims of APS. The published *Biological Theory* paper proposed biological Agency—the viability-oriented activity through which living systems contribute to maintaining the conditions of their own continued existence—as fundamental to understanding Life.
 
-### Preceding Explanatory Dependencies
+Subsequent APS research has retained that central insight while clarifying its theoretical role. APS now distinguishes Life, understood as viability-oriented, constraint-closed organisation, from Agency, understood as the viability-oriented activity of that organisation. Organised persistence is treated principally as a phenomenon requiring explanation, while Agency, Process, and Scale are treated as complementary analytic projections on living organisation rather than as a foundational sequence.
 
-These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+The role of this article is therefore not to establish Agency as the foundation of APS, but to explain what the original Agency thesis claimed, what subsequent work has retained, what has changed, and why those changes matter.
+
+### Relevant Conceptual Foundations
+
+The following concepts and articles provide the current APS context needed to understand the development examined in this article:
 
 - What Is APS?
 - What Is Life? A Biological Question Revisited
@@ -451,9 +766,11 @@ These concepts and articles establish the explanatory foundations presupposed by
 - Constraint Closure
 - Organised Persistence
 
-### Subsequent Explanatory Developments
+These relationships identify conceptual connections within the current APS framework. They should not be read as a chronological sequence, causal hierarchy, or series of levels of organisation.
 
-The explanatory architecture established here is developed, extended, or applied in the following articles.
+### Related Explanatory Developments
+
+The following articles develop or apply concepts discussed here in greater detail:
 
 - Biological Agency as the Activity of Self-Maintenance
 - Viability: The Organising Principle of Biological Persistence
@@ -464,18 +781,30 @@ The explanatory architecture established here is developed, extended, or applied
 - Agency and Organised Persistence
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
+These articles should not be understood as deriving from an Agency-first architecture established by the present article. They investigate related aspects of living organisation or compare APS with other explanatory approaches.
+
 ### Related Explanatory Questions
 
-- Why should agency rather than mechanism be the defining activity of life?
-- How does viability give biological activity its normative character?
-- What is the relationship between agency, organisation, and persistence?
-- How do process and scale contribute to biological explanation?
-- How does agency relate to development, evolution, ecology, and cognition?
+- In what sense can Agency still be described as the defining activity of Life?
+- What is the difference between defining Life and identifying its characteristic activity?
+- How does viability orient biological Agency?
+- What is the relationship between Life, Agency, organisation, and organised persistence?
+- Why are Agency, Process, and Scale treated as complementary analytic projections rather than as a sequence?
+- When does an APS analysis provide explanatory gain rather than conceptual redescription?
+- How should APS relate its account of Agency to established biological explanations?
 
 ### Position Within APS
 
-APS interprets contemporary biological theories as complementary explanatory traditions that investigate different aspects of living organisation. This article establishes the comparative methodology through which APS analyses their explanatory priorities while preserving their distinctive scientific contributions.
+The original *Biological Theory* paper was important in establishing Agency as a central APS concept and in bringing Agency, Process, and Scale together within a common framework.
+
+This article has a different role. It documents how that original proposal has subsequently been refined. It preserves the claim that living systems actively contribute to maintaining conditions compatible with their continued viability, while distinguishing Agency more carefully from the organisational definition of Life and from the phenomenon of organised persistence.
+
+It also reflects a broader methodological development within APS: conceptual integration does not by itself establish explanatory gain. Claims that APS adds to existing biological explanations must be assessed against the relevant explanatory alternatives.
 
 ### Position Within the APS Corpus
 
-This Anchor article is the parent publication for the APS Comparative Biology series. It establishes the methodological framework used throughout the comparative corpus and provides the principal point of integration for articles examining major contemporary biological frameworks, including organisational biology, systems theory, autonomy theory, the Free Energy Principle, and the Extended Evolutionary Synthesis. It therefore serves as the canonical gateway to APS's comparative engagement with contemporary theoretical biology.
+This article is a conceptual clarification and development article rather than the foundational Anchor or methodological parent of the APS comparative corpus.
+
+Its distinctive role is to connect an important published stage in the development of APS with the framework's current formulation. It allows readers to see which claims of the original Agency thesis remain, which have been narrowed or repositioned, and how subsequent research has changed the architecture of APS without retrospectively rewriting the published paper.
+
+For the current operational account of biological Agency, readers should proceed to **Biological Agency as the Activity of Self-Maintenance**. For the broader theoretical context of Agency in contemporary biology, see **Agency in Contemporary Biology**.
