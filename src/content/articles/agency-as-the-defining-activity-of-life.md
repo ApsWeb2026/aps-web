@@ -416,15 +416,18 @@ That makes the framework narrower in some respects, but also more defensible.
 
 ## 8. Conclusion: Refinement Rather Than Repudiation
 
-The paper Agency as the Defining Activity of Life began with a strong proposal: living systems are distinguished by viability-oriented activity through which they contribute to maintaining and re-establishing the conditions of their own continued existence. That proposal remains important to APS.
+The paper *Agency as the Defining Activity of Life ...* began with a strong proposal: living systems are distinguished by viability-oriented activity through which they contribute to maintaining and re-establishing the conditions of their own continued existence. That proposal remains important to APS.
 
-Subsequent research has not overturned the central Agency insight. It has not made Agency synonymous with cognition or intention, abandoned viability or constraint closure, discarded the problem of organised persistence, or removed Agency, Process, and Scale from the framework. What has changed is the relationship among these ideas.
+Subsequent research has not overturned this central Agency insight. It has not made Agency synonymous with cognition or intention, abandoned viability or constraint closure, discarded the problem of organised persistence, or removed Agency, Process, and Scale from the framework. What has changed is the relationship among these ideas.
 
 The original paper asked Agency to perform several theoretical jobs simultaneously: it characterised what living systems do, helped define Life, connected viability with persistence, provided an entry point into Process and Scale, and supported broader claims about the explanatory integration APS might provide across biology. Subsequent development has separated these roles.
 
-The current position can therefore be stated compactly:
+The current developed and clarified position can therefore be stated concisely:
 
-Life is viability-oriented, constraint-closed organisation. Agency is the viability-oriented activity of that living organisation. Organised persistence is the continuity-through-change phenomenon requiring explanation. Agency, Process, and Scale are complementary analytic projections on the same living organisation.
+> Life is viability-oriented, constraint-closed organisation. 
+> Agency is the viability-oriented activity of that living organisation. 
+> Organised persistence is the continuity-through-change phenomenon requiring explanation. 
+> Agency, Process, and Scale are complementary analytic projections on the same living organisation.
 
 These distinctions make the framework less dependent upon any single concept. Agency remains central without having to carry the entire ontology of Life, which is why the development is better understood as refinement rather than repudiation.
 
