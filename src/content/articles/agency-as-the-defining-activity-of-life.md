@@ -142,7 +142,7 @@ This also explains the role of viability. Not every change made by a living syst
 
 The paper also tried to make this proposal empirically usable rather than leaving Agency as an abstract philosophical idea. It proposed six biosignatures—homeostasis, adaptive plasticity, selective boundary regulation, goal-directed behaviour, recursive self-repair, and cross-scale coordination—as observable ways in which viability-oriented activity might be investigated. These were presented as empirically tractable indicators, while the paper also acknowledged unresolved questions about thresholds, borderline cases, and the limits of nonliving self-organisation (Spencer 2026).
 
-Importantly, the paper did not present APS as a replacement for ordinary biological science. It explicitly said that the framework did not replace standard biological explanations, but sought to make explicit an organisational condition that those (Spencer 2026).
+Importantly, the paper did not present APS as a replacement for ordinary biological science. It explicitly said that the framework did not replace standard biological explanations, but sought to make explicit an organisational condition that those explanations typically presuppose without themselves making it their primary explanatory target (Spencer 2026).
 
 The original claim can therefore be stated quite simply: living systems do not merely persist. They actively contribute to maintaining the conditions that make their continued existence possible. The published paper called this viability-oriented activity biological Agency and proposed it as the defining activity of Life.
 
@@ -311,6 +311,8 @@ On that picture, Agency would be foundational, Process would describe how Agency
 Agency, Process, and Scale are better treated as different analytic projections on the same living organisation. Each asks a different question.
 
 The term *analytic projection* is important. APS does not propose that living organisation is divided into three corresponding components called Agency, Process, and Scale. The biological organisation is one integrated reality, while explanation can interrogate that organisation under different questions. An analytic projection selectively brings particular relations of that organisation into explanatory focus: Agency foregrounds viability-oriented activity; Process foregrounds continuity and transformation through time; Scale foregrounds the spatial and temporal extents across which the relevant organisation and relations are realised.
+
+[[box:aps-box-why-aps-is-not-arbitrary]]
 
 The distinction is therefore analytic without being arbitrary. Agency, Process, and Scale are distinguished by the explanatory questions being asked, but those questions concern materially realised features and relations of the same biological organisation. “Analytic projection” consequently avoids two opposite errors: reification, in which Agency, Process, and Scale are treated as independent things or causal domains; and explanatory collapse, in which their different explanatory questions become interchangeable simply because they concern the same organisation.
 

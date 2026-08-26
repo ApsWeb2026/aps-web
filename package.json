@@ -15,7 +15,7 @@
     "check:canonical": "npx tsx src/scripts/check-canonical-lock.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "clean": "node -e \"require('fs').rmSync('.astro',{recursive:true,force:true})\"",
+    "clean": "node -e \"const fs=require('fs'); for (const dir of ['.astro','dist']) fs.rmSync(dir,{recursive:true,force:true});\"",
     "build:clean": "npm run clean && npm run build"
   },
   "keywords": [],

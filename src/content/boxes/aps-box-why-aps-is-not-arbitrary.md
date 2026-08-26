@@ -6,10 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-12
-revised: 2026-08-19
+revised: 2026-08-26
 cluster: philosophy-of-biology
 ---
 
-APS's Explanatory Grammar is not proposed as an arbitrary classificatory scheme. Its categories arise from the particular explanatory problem APS addresses: how living organisation maintains and re-establishes the conditions of its persistence through change.
+APS does not begin by selecting Agency, Process, and Scale as three concepts presumed to be fundamental to all of biology. It begins with an explanatory problem: **how does living organisation maintain and re-establish the conditions of its organised persistence through change?**
 
-Agency, Process, and Scale identify analytically distinguishable aspects of that problem, while organised persistence provides their common explanatory focus. Their relevance must nevertheless be established by how effectively this architecture explains living organisation. Coherence within APS alone does not demonstrate either biological truth or comparative explanatory superiority.
+That problem generates three distinguishable questions. **Agency** asks what the living system does in relation to the conditions of its viability. **Process** asks how organisational continuity is maintained through transformation over time. **Scale** asks across what spatial and temporal extents the organisation and dependencies relevant to that persistence are realised. Agency, Process, and Scale are therefore *analytic projections* selected because each exposes a different aspect of the explanatory problem APS addresses.
+
+This does not mean that they are the only important concepts in biology, or that mechanism, information, energy, heredity, development, evolution, environment, function, and other biological concepts can be reduced to them. Nor does APS claim that Agency, Process, and Scale are the uniquely possible analytic framework for living systems.
+
+The claim is narrower and testable: **if organised persistence is the explanatory target, Agency, Process, and Scale provide a principled way of distinguishing what living systems do, how continuity is maintained through change, and across what extents the relevant organisation is realised.**
+
+Whether this architecture actually improves biological explanation cannot be established by its internal coherence. Its value must be demonstrated comparatively, against the strongest existing explanations of particular biological phenomena.
