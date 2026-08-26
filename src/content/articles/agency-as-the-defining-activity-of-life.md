@@ -262,6 +262,8 @@ In plain English, a living system is organised in such a way that its continued 
 
 This formulation is not foreign to the published paper, which repeatedly used viability-oriented, constraint-closed organisation when characterising living systems and applying its proposed biosignatures (Spencer 2026). What has changed is that this organisational formulation now carries more of the burden of answering what Life is.
 
+This definition is neither circular nor tautological. Viability does not mean simply “being alive” or “remaining alive.” It identifies the asymmetry among conditions under which a biological organisation can continue functioning as that organisation and conditions under which its organisation is impaired or lost. Constraint closure identifies a different feature: the organisation of relations through which relevant constraints are themselves generated, maintained, or re-established through the activities they help regulate. Neither concept therefore defines Life by presupposing Life. The APS definition instead proposes that what distinguishes living organisation is the conjunction of viability orientation and constraint closure: an organisation whose activities occur relative to conditions of its continued functioning and whose relevant constraints participate in mutually maintaining that organisation.
+
 ### Agency
 
 Agency answers a different question:
@@ -308,6 +310,10 @@ On that picture, Agency would be foundational, Process would describe how Agency
 
 Agency, Process, and Scale are better treated as different analytic projections on the same living organisation. Each asks a different question.
 
+The term *analytic projection* is important. APS does not propose that living organisation is divided into three corresponding components called Agency, Process, and Scale. The biological organisation is one integrated reality, while explanation can interrogate that organisation under different questions. An analytic projection selectively brings particular relations of that organisation into explanatory focus: Agency foregrounds viability-oriented activity; Process foregrounds continuity and transformation through time; Scale foregrounds the spatial and temporal extents across which the relevant organisation and relations are realised.
+
+The distinction is therefore analytic without being arbitrary. Agency, Process, and Scale are distinguished by the explanatory questions being asked, but those questions concern materially realised features and relations of the same biological organisation. “Analytic projection” consequently avoids two opposite errors: reification, in which Agency, Process, and Scale are treated as independent things or causal domains; and explanatory collapse, in which their different explanatory questions become interchangeable simply because they concern the same organisation.
+
 <div class="aps-diagram aps-diagram-large"> <a href="/assets/diagrams/conceptual-agency2.png"> <img src="/assets/diagrams/conceptual-agency2.png" alt="APS conceptual architecture showing the development from the published Agency-first formulation to the subsequent APS framework"> </a> <p><strong>From the published Agency-first formulation to the subsequent APS architecture.</strong> The published paper gave Agency the principal explanatory role in connecting viability, organisation, persistence, Process and Scale. Subsequent APS research retains Agency as viability-oriented activity but distinguishes Life as viability-oriented, constraint-closed organisation; treats Agency, Process and Scale as complementary analytic projections on that organisation; and treats organised persistence as a phenomenon requiring explanation. This represents a refinement of the original architecture rather than a repudiation of its central Agency insight.</p> </div>
 
 ### Agency: what is the system doing relative to viability?
@@ -333,6 +339,8 @@ The resulting architecture is therefore not hierarchical:
 - **Agency:** What is the living system doing in relation to viability?
 - **Process:** How is its organisation enacted and transformed through time?
 - **Scale:** Across what spatial and temporal extents are the relevant organisation and relations realised?
+
+Their complementarity therefore arises not because three independent dimensions combine to constitute Life, but because one living organisation can present different explanatory dependencies according to whether the inquiry concerns viability-oriented activity, continuity through transformation, or the extents across which the relevant organisation is realised.
 
 These questions can overlap, and often should, but none is automatically prior to the others. This develops something already visible near the end of the published paper, where apparently different features of the APS account were described as “analytically distinct aspects of a single, integrated organization.” Subsequent work makes that implication explicit and extends it to the architecture of APS itself (Spencer 2026).
 
@@ -384,6 +392,8 @@ Agency, Process, and Scale remain central, but APS no longer treats them as a pr
 
 Agency asks what the system is doing in relation to viability; Process asks how its organisation is enacted and transformed through time; and Scale asks across what spatial and temporal extents the relevant organisation and relations are realised.
 
+
+
 The original paper was already moving towards this position when it described apparently different features of living organisation as analytically distinct aspects of a single integrated organisation (Spencer 2026). Subsequent APS work makes that relationship explicit.
 
 ### APS still proposes a general framework—but generality is not explanatory superiority
@@ -428,6 +438,8 @@ The current developed and clarified position can therefore be stated concisely:
 > Agency is the viability-oriented activity of that living organisation. 
 > Organised persistence is the continuity-through-change phenomenon requiring explanation. 
 > Agency, Process, and Scale are complementary analytic projections on the same living organisation.
+
+They are analytic projections because they distinguish explanatory questions directed at one integrated biological organisation, not because Life consists of three corresponding components or levels.
 
 These distinctions make the framework less dependent upon any single concept. Agency remains central without having to carry the entire ontology of Life, which is why the development is better understood as refinement rather than repudiation.
 
