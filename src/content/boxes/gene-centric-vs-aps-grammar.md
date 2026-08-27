@@ -1,12 +1,12 @@
 ---
 date: 2026-04-11
-title: APS Box — Gene-Centric vs APS Explanatory Grammar
+title: APS Box — Genetic and Organisational Explanation
 slug: gene-centric-vs-aps-grammar
 type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-04-11
+revised: 2026-08-27
 cluster: methodology-and-explanation
 associatedPages: []
 seeAlso:
@@ -16,38 +16,21 @@ seeAlso:
   - organism
 ---
 
-Gene-centric biology and APS do not simply disagree about which biological component matters most. They represent different explanatory grammars—different ways of organising what counts as a cause, a unit, and an explanation in biology.
+Genetic and organisational explanations need not compete for a single explanatory role. They may address different questions about the same biological phenomenon, and their explanatory contributions must be assessed relative to the explanandum.
 
-The contrast is not between “genes” and “organisms,” but between component-centred explanation and organisation-centred explanation.
+**Genetic explanation** may identify how genetic variation is generated, inherited, expressed, regulated, and associated with biological differences. Depending on the question, such explanations may be sufficient without requiring an additional organisational account.
 
-**Gene-centric grammar**
-- Evolution = change in gene frequency
-- Genes are units of selection
-- Organisms are vehicles for replicators
-- Information flows from genes outward
-- Causation is located at a privileged component
-- Genes explain biological order
+**Organisational explanation** asks how components, activities, constraints, and relations contribute to the organisation of a living system. Within APS, this includes asking how they participate in viability-oriented, constraint-closed organisation and its maintenance through change.
 
-**APS grammar**
-- Evolution = transformation of viability-oriented organisation
-- Viability-oriented organisation is what selection operates on
-- Organisms enact constraint-closed agency
-- Organisation constrains and integrates genetic processes
-- Agency, process, and scale are co-constitutive
-- Organisation makes genetic processes biologically meaningful
+The presence of an organisational context does not by itself establish that an organisational explanation adds explanatory value. Nor does identifying a genetic mechanism establish that every organisational question has thereby been answered.
 
-Gene-centric models successfully describe patterns of inheritance and evolutionary change. APS does not reject these models. It clarifies their domain of validity.
+The relevant comparison is therefore:
 
-Gene-centric explanations operate within systems that already:
-- maintain themselves
-- regulate their own conditions of existence
-- sustain viability across time
+- What is the explanandum?
+- What does the established genetic or mechanistic explanation already explain?
+- What additional relations, if any, does organisational analysis make explicit?
+- Does making those relations explicit contribute explanatory integration, or merely redescribe what is already adequately represented?
 
-APS begins at this prior condition.
+APS treats Agency, Process, and Scale as complementary **analytic projections** of one living organisation, not as additional causal components or levels acting alongside genetic mechanisms.
 
-Within viability-oriented, constraint-closed organisation:
-- genes stabilise and transmit structure
-- genetic variation contributes to transformation
-- selection reflects differential persistence of viable organisation
-
-**Key Point.** Gene-centric biology explains how inheritance operates, but APS explains the organisational condition that makes inheritance, variation, and selection biologically meaningful.
+**Key Point.** APS does not claim explanatory priority over genetic explanation. Its organisational contribution must be demonstrated relative to the explanatory question and to what the strongest established explanation already provides.

@@ -3,26 +3,26 @@ date: 2026-04-14
 title: Biology — What the Science of Life Explains
 slug: biology
 type: article
-abstract: Biology seeks to explain how living systems sustain their own persistence and how the organisation making that persistence possible changes through time. The APS framework clarifies biology as the study of viability-oriented organisation, biological agency, and the historical transformation of organised persistence.
+abstract: "Biology explains living systems through diverse but complementary forms of inquiry. APS focuses on a distinctive organisational problem: how viability-oriented, constraint-closed organisation is enacted and maintained through change, and how forms of living organisation are transformed through evolutionary history. Agency, Process, and Scale provide complementary analytic projections through which this organisation can be investigated."
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-06-23
+revised: 2026-08-27
 cluster: methodology-and-explanation
 
 keyPoints:
-  - Biology explains how living systems sustain their own persistence and how the organisation supporting that persistence changes through time.
-  - Life consists in organised, viability-oriented activity rather than static structure.
-  - Biological agency is the activity through which living systems maintain and regulate the conditions of their own continued existence.
-  - Evolution is the historical transformation of persistence-sustaining organisation.
-  - APS clarifies biology as the study of viability-oriented organisation across agency, process, and scale.
+  - Life is viability-oriented, constraint-closed organisation.
+  - Organised persistence describes the continuity of living organisation through change; it is not another definition of Life.
+  - Biological agency is viability-oriented organisational activity through which living organisation is enacted and sustained.
+  - Evolution concerns the historical transformation of living organisation across generations.
+  - Agency, Process, and Scale are complementary analytic projections of one living organisation, not independent components, levels, or causes.
 
 relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
   - viability
-  - persistence
+  - organised-persistence
   - evolution
   - biological-organisation
 
@@ -37,157 +37,198 @@ references:
 
 ## The Puzzle of Life
 
-Every living thing faces the same challenge: remaining alive.
+Every living thing faces the same challenge: maintaining the conditions under which its organisation can continue.
 
-Cells must continually rebuild themselves. Organisms must acquire resources, repair damage, regulate internal conditions, and respond to changing environments. Entire ecological communities persist only through ongoing interactions among countless living systems. Yet despite continual disturbance and material turnover, life often maintains remarkable continuity through time.
+Cells must continually rebuild themselves. Organisms must acquire resources, repair damage, regulate internal conditions, and respond to changing environments. Their material constituents turn over, their surroundings change, and disturbances continually alter the conditions under which they function. Yet living systems can maintain remarkable continuity through these changes.
 
-Biology is the science devoted to understanding how this persistence is possible.
+This capacity presents biology with a fundamental explanatory problem. It is not enough to identify what living things are made of or the processes occurring within them. We must also explain how living systems sustain themselves as organised and viable forms of activity despite continual material and environmental change, and how the organisation making this possible is transformed through evolutionary history.
 
-The central question of biology is therefore not simply what living things are made of. It is how living systems sustain themselves as organised and viable forms of activity, and how the organisation making this possible changes through evolutionary history.
+APS describes this continuity through change as organised persistence.
 
-APS describes this phenomenon as organised persistence.
+Organised persistence is not itself a definition of Life. APS defines Life more specifically as viability-oriented, constraint-closed organisation. Organised persistence identifies what such organisation achieves through time: continuity of living organisation despite the changes through which that continuity must be maintained.
 
-Biology studies persistence before it studies parts.
+Living systems therefore do not merely persist in the sense that an enduring object remains present. They continually maintain and re-establish conditions required for their own functioning. Cells sustain metabolic and regulatory organisation through ongoing biochemical activity; organisms regulate physiological and behavioural activity under changing conditions; and organism–environment relations materially affect the conditions under which such organisation remains viable. Ecological communities may themselves exhibit persistence and change, but this does not by itself establish that communities possess the same viability-oriented organisation or biological agency as the living systems that participate in them.
 
-Living systems do not merely exist. They actively maintain the organisation required for their continued existence. Understanding how this persistence is achieved, and how it changes through time, provides a unifying framework for biological explanation.
+The Agency–Process–Scale (APS) framework approaches living organisation through three complementary analytic projections. Agency concerns what living systems do in relation to viability. Process concerns how organisational continuity is maintained through change. Scale concerns the spatial and temporal extents across which persistence is organised. These are not three components, levels, or independent dimensions of Life. They are analytically distinguishable ways of investigating the same living organisation.
 
-The Agency–Process–Scale (APS) framework approaches biology through three complementary dimensions. Agency concerns the activities through which living systems maintain viability. Process concerns the dynamic character of living organisation. Scale concerns the interactions linking biological organisation across spatial and temporal domains. Together these dimensions provide a framework for understanding life and evolution as aspects of the same organised reality.
+This perspective also clarifies an important distinction between Life and evolution. The organisation of living systems must be maintained in the present, while the forms of organisation through which living systems persist can themselves be transformed across generations. The first problem concerns the organisation and activity characteristic of Life; the second concerns its historical transformation through evolution.
 
-Living systems differ from non-living systems not because they are composed of unique materials, but because they actively sustain the conditions of their own persistence. Cells maintain metabolic organisation through continual biochemical activity, organisms regulate physiological and behavioural processes to preserve functional coherence, and ecological systems stabilise patterns of interaction that support the persistence of living communities. Across these diverse manifestations of life, persistence is not a passive state but an ongoing achievement generated through organised activity.
-
-Biology therefore seeks to explain two intimately connected phenomena. First, it seeks to explain how living systems sustain themselves as organised and viable forms of activity. Second, it seeks to explain how the organisation making this possible changes through time. The first task concerns life itself, while the second concerns evolution. Together they define the central explanatory domain of biology.
+APS therefore begins from a particular integrative question: what organisation enables living systems to maintain continuity through change, and how is that organisation transformed through evolutionary history? It does not propose this as a replacement for the distinct explanatory targets of molecular, mechanistic, developmental, physiological, ecological, evolutionary, or other biological approaches. Rather, it asks what becomes explanatorily available when their findings are considered in relation to living organisation and its persistence through change.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/biology-organised-persistence.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/biology-organised-persistence.png"
-      alt="Biology as the science of organised persistence"
+      alt="Life, organised persistence, and evolution, showing Agency, Process, and Scale as analytic projections on living organisation."
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Biology as the Science of Organised Persistence.</strong>
-    Living systems sustain their own viability through biological agency and organised activity. Evolution transforms the organisation supporting this persistence across generations, producing the diversity of life observed today. APS integrates these phenomena through the dimensions of agency, process, and scale.
+    <strong>Life, Organised Persistence, and Evolution.</strong>
+    Life is viability-oriented, constraint-closed organisation. Organised persistence describes the continuity of living organisation through change, while evolution concerns its historical transformation across generations. Agency, Process, and Scale are complementary analytic projections on this organisation rather than independent components or dimensions of Life.
   </p>
 </div>
 
 ## The Hidden Phenomenon Biology Studies
 
-Biology is often presented as the study of organisms, genes, cells, or ecosystems. These subjects are certainly central to biological research, but they do not by themselves identify the phenomenon biology ultimately seeks to explain. Biology is concerned not merely with the existence of living things but with the persistence of organised living systems through time.
+Biology is often presented as the study of organisms, genes, cells, populations, or ecosystems. These are central objects of biological research, but they do not exhaust the explanatory questions biology asks. APS draws attention to a further problem: how living systems maintain their organisation through continual material, functional, and environmental change.
 
-What distinguishes a living system from a non-living assemblage is not the materials from which it is constructed. Living systems are composed of the same physical matter found elsewhere in nature. The distinctive feature of life lies instead in the organisation through which that matter participates in the ongoing maintenance of the system itself. Living systems continually regenerate, regulate, repair, and reorganise themselves in ways that contribute to their continued viability.
+What distinguishes a living system from a non-living assemblage is not simply the materials from which it is constructed. Living systems are composed of physical matter found elsewhere in nature. The relevant distinction lies in how that matter is organised. APS characterises Life as viability-oriented, constraint-closed organisation: organisation in which activity occurs relative to conditions that support or undermine continued functioning, and in which the constraints governing that activity participate in maintaining and re-establishing the conditions of the organisation itself.
 
-This dependence on organisation means that life cannot be understood as a static condition. A living system remains viable only so long as it continues to sustain the processes that support its existence. Material components are replaced, environmental conditions fluctuate, and internal states change continuously. Yet living systems often maintain remarkable continuity despite these transformations.
+The two parts of this definition perform different explanatory roles. Viability identifies an asymmetry among possible conditions: some support the continued functioning of the organisation, while others impair or terminate it. Viability therefore does not simply mean “being alive” or “remaining alive.” Constraint closure concerns how the organisation is maintained: relevant constraints are themselves generated, sustained, or re-established through processes that they help regulate. Neither concept merely restates Life; together they specify the organisation APS proposes as characteristic of living systems.
 
-Life is not something systems possess. It is something they continually do.
+Living organisation cannot therefore be understood as a static arrangement. Its material constituents are replaced, environmental conditions fluctuate, and internal states continually change. Living systems nevertheless maintain and re-establish the organisation required for their continued functioning. Metabolism, regulation, repair, development, and behaviour can all contribute, in different systems and circumstances, to maintaining that organisation through change.
 
-Persistence therefore becomes something requiring explanation. A living cell remains alive because countless biochemical processes continuously regenerate metabolic organisation. An organism persists because physiological, developmental, and behavioural processes maintain functional coherence despite constant material turnover. Ecological systems persist through organised networks of interaction that regulate flows of energy, matter, and information across populations and environments. Across these diverse examples, persistence depends upon the continual maintenance of organisation.
+This distinction also clarifies the relationship between Life and biological agency. Life identifies the organisation characteristic of living systems; biological agency identifies its present-tense viability-oriented activity. A living system does not passively possess Life and then separately act. Its organisation is continually enacted and sustained through its activities.
 
-APS captures this insight through the concept of organised persistence. Living systems are not static objects that happen to endure. They are ongoing processes whose organisation is continually regenerated through their own activity. Understanding life therefore requires understanding the organisational dynamics through which viability is maintained and persistence is achieved.
+This makes continuity itself an important explanatory problem. A living cell maintains organisation through materially implemented biochemical and regulatory processes; a multicellular organism does so through interacting physiological, developmental, behavioural, and other processes. Organism–environment relations can materially alter the conditions under which such organisation remains viable.
+
+APS uses organised persistence to identify this continuity through change. Life identifies viability-oriented, constraint-closed organisation; organised persistence identifies the continuity of that organisation as it is maintained and re-established through changing conditions. The explanatory task is then to understand how such continuity is achieved, under what conditions it is maintained or lost, and how the organisation supporting it is transformed through evolutionary history.
+
+## Biological Agency: What Living Systems Do
+
+Living organisation is continually enacted through activity. Living systems acquire resources, repair damage, regulate internal conditions, respond to perturbations, coordinate processes, and modify their interactions with surrounding environments. These activities differ enormously among living systems, but they can contribute to maintaining or re-establishing the conditions under which biological organisation continues to function.
+
+APS uses the term biological agency for this viability-oriented organisational activity. Agency in this sense does not imply conscious intention, deliberation, representation, or reflective decision-making. It identifies what living systems do in relation to conditions that matter to their continued functioning. A regulatory response that restores a viable physiological condition, for example, can instantiate biological agency without requiring the system consciously to anticipate that outcome or represent it as a goal.
+
+Agency therefore has a specific relationship to Life without being identical to it. Life identifies viability-oriented, constraint-closed organisation; Agency identifies the viability-oriented activity through which that organisation is enacted and sustained. The distinction is analytic rather than a division between two independent biological things. A living system does not first possess Life and subsequently acquire Agency as an additional property. Agency is the present-tense activity of living organisation.
+
+This perspective can bring otherwise different biological activities into a common explanatory relation without making them instances of a single mechanism or process. Metabolism, physiological regulation, repair, development, behaviour, and organism–environment interaction involve different material processes and answer different biological questions. Where such activities contribute to maintaining or re-establishing conditions of viability, however, they can be examined under the analytic projection of Agency.
+
+Agency does not “produce” organised persistence as though the two were independent stages in a causal sequence, nor is Agency defined simply as whatever causes a system to persist. Rather, viability-oriented activity contributes to maintaining and re-establishing living organisation under changing conditions. Agency concerns what living systems do relative to viability; organised persistence concerns the continuity of living organisation through change.
+
+Biological agency can consequently give living activity a directed character without implying conscious purpose. Conditions are not equivalent for a living system: some support continued functioning, while others impair it. Activity that regulates, repairs, compensates, or reorganises the system in relation to those conditions can therefore be viability-oriented without being intentionally chosen. Goal-directed biological activity need not be explained by attributing reflective intentions to living systems; it can arise from the organisation of activity relative to viability.
+
+Agency is therefore the APS analytic projection that asks:
+
+What does the living system do in relation to viability?
+
+It foregrounds the activity through which living organisation is enacted and sustained while leaving the material mechanisms, processes, and relations implementing that activity available to their appropriate biological explanations.
+
+[[box:organisation-agency-and-viability]]
+
+## Evolution Transforms Living Organisation
+
+Living systems maintain and re-establish their organisation in the present, but the forms of organisation through which they do so are also historically transformed. Biology must therefore explain not only how living organisation continues through change within the lifetime of a system, but how forms of living organisation change across generations.
+
+The structures and processes through which living systems maintain viability have evolutionary histories. Metabolic pathways, developmental systems, physiological regulation, behavioural capacities, and organism–environment relations have been modified across generations. The organisation through which Life is presently enacted is therefore also historically conditioned.
+
+Evolution is conventionally explained through variation, inheritance, selection, drift, and other established evolutionary mechanisms. APS does not replace these explanations. It asks an additional organisational question: how are forms of viability-oriented living organisation transformed through evolutionary history? Evolution concerns the historical transformation of living organisation and, consequently, of the ways in which organised persistence is achieved.
+
+Evolutionary processes operate where living systems already exist, reproduce, vary, and participate in processes of evolutionary change. Evolution therefore does not explain the present-tense organisation characteristic of Life merely by appealing to history. Present living organisation and its evolutionary transformation are related without being explanatorily interchangeable.
+
+Across evolutionary history, heritable variation introduces or preserves differences, and evolutionary processes alter their distribution across populations and generations. Where such changes affect the organisation through which living systems maintain viability, the ways in which organised persistence is realised can also change. APS leaves the mechanisms and dynamics of those changes to the appropriate evolutionary explanations.
+
+Major evolutionary transitions illustrate the extent of such transformation. Photosynthetic innovations altered the energetic possibilities available to living systems and profoundly changed their environments. Multicellularity produced forms of organisation in which differentiated cells participate in the maintenance and reproduction of multicellular organisms. Nervous systems enabled new forms of sensory integration, regulation, and behaviour. Social organisation can alter the conditions under which organisms coordinate activity, acquire resources, reproduce, and respond to their environments. These developments differ greatly in mechanism and history; what they share here is their capacity to transform the organisation and conditions through which living systems maintain viability.
+
+Evolution is therefore not a second defining feature added to Life. Life identifies viability-oriented, constraint-closed organisation; evolution concerns the historical transformation of living organisation across generations.
+
+These transformations occur across different spatial and temporal extents. Genes, cells, developmental systems, organisms, populations, and organism–environment relations can all be relevant to evolutionary explanation, depending on the explanandum. APS does not treat these as a fixed hierarchy of explanatory levels. Rather, Scale asks across what spatial and temporal extents the organisation and relations relevant to a particular explanatory problem must be considered.
+
+Agency and evolution consequently answer different questions. Agency concerns the viability-oriented activity through which living organisation is enacted and sustained in the present; evolution concerns the historical transformation of living organisation across generations. Forms of organisation sustaining living systems in the present can therefore themselves have histories of modification, diversification, and persistence.
+
+## The Organisational Question in Biological Explanation
+
+The organisation of living systems raises a further question: what does an organisational perspective contribute to biological explanation?
+
+Biology explains an extraordinary range of phenomena. Mechanistic explanations identify organised components and activities through which particular phenomena are produced; evolutionary explanations reconstruct historical processes of change; developmental, physiological, ecological, molecular, mathematical, and other approaches address further explanatory targets using their own evidence and methods. APS does not propose that these explanations become genuinely biological only when redescribed in organisational terms.
+
+Living systems nevertheless present questions for which organisation may matter. Their components participate in systems that maintain and re-establish conditions required for continued functioning despite material turnover, perturbation, and environmental change. Identifying a component or causal interaction may therefore leave open a further question: what contribution does that component, activity, or relation make within the organisation of the living system concerned?
+
+APS treats biological organisation as an explanatory target in its own right. This does not mean that organisation exists independently of the material processes through which it is realised, nor does it require a higher-order cause acting upon those processes. Organisational relations are materially implemented through biological components, activities, constraints, and interactions.
+
+Whether an organisational analysis adds anything depends on the explanandum and on what the established explanation already captures. A molecular explanation may establish how a particular interaction occurs; a mechanistic explanation may identify the organised activities responsible for a phenomenon; a developmental explanation may account for the generation of form; an evolutionary explanation may account for historical transformation. APS asks whether considering such findings in relation to living organisation makes something further explanatorily available. It cannot assume in advance that it will.
+
+The same restraint applies to reduction. APS does not require the claim that molecular, genetic, or mechanistic explanations are intrinsically incomplete. A gene-centred explanation may be entirely adequate for a specified question. In another context, understanding the explanatory significance of gene activity may require relations involving cellular regulation, development, physiology, behaviour, or environmental conditions. The issue is not whether an explanation occupies a supposedly lower or higher level, but whether the relations required by the specified biological problem have been adequately represented.
+
+APS therefore treats organisational explanation as complementary rather than automatically superior to established biological approaches. Its contribution must be demonstrated rather than assumed. Describing a phenomenon in terms of viability, organisation, Agency, Process, Scale, or organised persistence is not by itself explanatory advance. The relevant comparison is with the strongest established explanation: what does it already account for, what does an APS analysis make explicit, and does the difference provide genuine explanatory integration rather than redescription?
+
+[[box:gene-centric-vs-aps-grammar]]
+
+## APS: A Framework for Understanding Life
+
+Life, biological agency, organised persistence, and evolution are closely related without being interchangeable. Life identifies viability-oriented, constraint-closed organisation; Agency its present-tense viability-oriented activity; organised persistence its continuity through change; and evolution the historical transformation of living organisation. APS brings these relationships into a common analytic framework without reducing them to a single causal sequence or explanatory problem.
+
+The Agency–Process–Scale framework investigates living organisation without reducing it to any single mechanism, process, spatial extent, or temporal interval. Biology encompasses phenomena ranging from molecular and cellular activity to organismal regulation, ecological relations, and evolutionary transformation. APS does not collapse these different explanatory problems into a single description. It asks how living organisation can be examined while preserving their distinctions and making relevant relations explicit.
+
+APS begins from the proposal that Life is viability-oriented, constraint-closed organisation. Such organisation is materially realised through biological processes and relations, continually enacted through activity, maintained through change, and extended across spatial and temporal extents. No single description captures all of these explanatory aspects. APS therefore distinguishes Agency, Process, and Scale as complementary analytic projections of one living organisation.
+
+The term analytic projection is important. Agency, Process, and Scale are not three components from which living organisation is assembled, three levels at which it exists, or three independent causes whose interaction produces organised persistence. A projection selects a particular explanatory aspect of the same materially realised organisation. The distinction is made by the explanatory inquiry, not by dividing the living system into three corresponding kinds of thing.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+  <a
+    href="/assets/diagrams/life-analytic-projections.png"
+    target="_blank"
+    rel="noopener"
+  >
     <img
-      src="/assets/diagrams/conceptual-hierarchy.png"
-      alt="From hierarchical levels to cross-scale organisation"
+      src="/assets/diagrams/life-analytic-projections.png"
+      alt="Agency, Process, and Scale as complementary analytic projections of one viability-oriented, constraint-closed living organisation."
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
-    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
+    <strong>Agency, Process, and Scale as Analytic Projections of Living Organisation.</strong>
+    APS treats Agency, Process, and Scale as complementary analytic projections of one viability-oriented, constraint-closed organisation. Agency asks what living systems do in relation to viability; Process asks how organisational continuity is maintained through change; and Scale asks across what spatial and temporal extents persistence is organised. These distinctions differentiate explanatory questions without dividing living organisation into independent components, levels, or causes.
   </p>
 </div>
 
-## Life Is Something Systems Do
+Agency asks what living systems do in relation to viability. It foregrounds viability-oriented organisational activity such as regulation, repair, resource acquisition, behaviour, and environmental modification insofar as these contribute to maintaining or re-establishing conditions of continued functioning.
 
-If organised persistence is the phenomenon biology seeks to explain, what produces that persistence?
+Process asks how organisational continuity is maintained through change. Living organisation persists despite material turnover, changing internal states, perturbation, development, and environmental variation. Process foregrounds the temporal organisation through which continuity is maintained and re-established through these changes.
 
-Living systems do not merely undergo change. They actively regulate the conditions of their own continued existence. They acquire resources, repair damage, respond to perturbations, coordinate internal processes, and modify their interactions with surrounding environments. These activities are not isolated events. Together they form integrated patterns of organisation that contribute to the maintenance of viability.
+Scale asks across what spatial and temporal extents persistence is organised. It does not designate a hierarchy of biological levels or imply that wider scales exercise a distinctive form of causation over smaller ones. Depending on the explanatory problem, relevant relations may extend across molecular, cellular, organismal, environmental, developmental, intergenerational, or other spatial and temporal extents. Scale identifies where those relations must be traced for the explanandum at issue.
 
-APS uses the term **biological agency** to describe this viability-oriented activity. Agency in this sense does not imply conscious intention, deliberation, or reflective decision-making. Rather, it refers to the organised capacity of living systems to act in ways that contribute to their own persistence. Agency is therefore not restricted to complex organisms but characterises living systems wherever activity contributes to the maintenance of viability.
+[[box:biological-organisation-not-explanatory-ladder]]
 
-This perspective unifies phenomena that are often treated separately within biology. Metabolism, homeostasis, development, behavioural regulation, ecological interaction, and adaptive response can all be understood as different manifestations of the same underlying reality. In each case, living systems engage in forms of activity that help preserve the conditions required for continued existence. What appears as a diversity of biological processes can therefore be understood as a diversity of expressions of viability-oriented organisation.
+These projections answer different questions without dividing the organism into separate Agency, Process, and Scale systems. Consider physiological regulation. The same materially realised phenomenon may be investigated in terms of what regulatory activity does relative to viability (Agency), how regulatory organisation maintains continuity through changing conditions (Process), and across what spatial and temporal extents the relevant relations must be traced (Scale). What changes is the explanatory question being asked of the same organisation.
 
-Agency is not an additional property layered onto living systems after life has already been established. It is the activity through which living systems exist as living systems in the first place. Persistence requires agency because viability can only be maintained through ongoing activity, while agency exists only insofar as it contributes to the maintenance of persistence. Organised persistence and biological agency are therefore inseparable concepts.
+This is why analytic projection is more than terminology. Without these distinctions, Agency, Process, and Scale risk collapsing into a general assertion that living systems are organised. If they are instead treated as independent dimensions or causal domains, an analytic distinction becomes an ontological division. Analytic projection permits explanatory differentiation without ontological separation.
 
-This relationship helps explain why living systems often appear goal-directed. Biological systems behave in ways that preserve viability because viability is the condition of their continued existence. From cellular regulation to organismal behaviour and ecological interaction, living systems continually reorganise themselves in response to changing circumstances. Agency therefore identifies the active dimension of organised persistence: the activity through which living systems sustain themselves through time.
+APS can therefore bring findings from different areas of biology into organisational comparison without claiming that all biological disciplines investigate the same explanandum. Its contribution remains conditional: it must make some explanatorily relevant organisation, relation, or dependency available that the strongest established explanation does not already adequately provide.
 
-[[box:organisation-agency-and-viability]]
-
-## Evolution Changes the Ways Life Stays Alive
-
-Organised persistence explains how living systems remain viable in the present. Biology must also explain how the forms of organisation supporting that persistence change through time.
-
-Living systems are not merely persistent. They are historically transformed. The structures, processes, and organisational arrangements that enable viability today are the products of evolutionary histories extending across generations and, in many cases, across vast spans of geological time. Biology therefore requires not only an account of how living systems persist but also an account of how persistence-sustaining organisation changes.
-
-Evolution is often described in terms of variation, inheritance, and natural selection. These concepts remain indispensable, but APS places them within a broader explanatory context. Evolution concerns the historical transformation of organised persistence. The central question is not merely how traits become more or less common within populations, but how the organisation enabling viable forms of life is modified, diversified, stabilised, and transformed through time.
-
-This perspective clarifies an important point. Evolution does not create organised persistence from nothing. Natural selection can only operate upon systems that are already capable of maintaining themselves. Before there can be differential survival or reproduction, there must first be living systems possessing the organisational capacity to remain viable. Evolution therefore presupposes organised persistence even as it transforms the forms through which that persistence is achieved.
-
-Across evolutionary history, variation introduces differences into biological organisation, inheritance transmits organisational features across generations, and differential persistence influences which forms of organisation become more or less prevalent. Through these processes, the structures supporting viability are continually reshaped.
-
-Evolutionary history can be understood as a succession of innovations in organised persistence. Photosynthetic organisms transformed the energetic foundations of life on Earth. Multicellular organisms reorganised persistence across cooperating collections of cells. Nervous systems enabled new forms of behavioural regulation. Social systems created novel forms of coordination among individuals. In each case, evolution altered the ways living systems maintained viability under changing conditions.
-
-Evolution is therefore not a separate phenomenon standing alongside life but the historical transformation of the organisation that makes life possible. New forms of metabolism emerge, developmental systems become modified, ecological relationships diversify, and novel behavioural capacities arise because the organisation supporting persistence is continually being reshaped.
-
-Understanding evolution in this way also reveals its continuity across biological scales. Evolutionary change is not confined to genes, traits, or populations considered in isolation. Organisms evolve within developmental systems, ecological relationships evolve alongside organisms, and biological organisation is transformed across multiple interconnected scales simultaneously. The evolutionary history of life is therefore the history of changing patterns of organised persistence.
-
-From an APS perspective, evolution provides the historical dimension of biology. Biological agency explains how living systems sustain themselves here and now, while evolution explains how the organisational conditions making such agency possible have been transformed across time. Together they reveal life as both a present process and a historical phenomenon.
-
-## Why Biological Explanation Is Different
-
-The recognition that living systems are organised, viable, and historically transformed raises a further question: what exactly does biological explanation seek to explain?
-
-Biology certainly investigates components. Genes, proteins, cells, tissues, organisms, populations, and ecosystems all play indispensable roles in biological research. Yet identifying components alone does not explain life. A catalogue of parts cannot by itself explain how living systems maintain themselves, how they regulate their own activity, or how they persist despite continual change. Biological explanation therefore requires more than the identification of mechanisms. It requires understanding how mechanisms participate in larger patterns of organisation.
-
-Although physiology, development, ecology, and evolution investigate different phenomena, they ultimately address a common problem: how viability-oriented organisation is established, maintained, and transformed.
-
-This perspective also helps clarify why biology occupies a distinctive explanatory domain. Physics and chemistry often explain phenomena by identifying the components and interactions that produce them. Biology certainly depends upon these explanations, but it faces an additional challenge. Living systems are not merely collections of interacting components. They are systems whose organisation contributes to their continued viability. Biological explanation must therefore account not only for causal interactions but also for the persistence of organised living systems.
-
-Biological explanation is fundamentally concerned with the maintenance and transformation of organised persistence. Explanations succeed not merely when they identify causal components but when they show how those components contribute to the viability of larger organised systems. The explanatory target is therefore organisational rather than merely compositional.
-
-This perspective also helps clarify the limitations of strongly reductionist approaches. Genes, for example, are indispensable components of biological organisation, but genes alone do not explain why living systems persist. Gene expression contributes to broader organisational processes involving cellular regulation, developmental dynamics, physiological activity, behavioural interaction, and ecological context. Biological explanation becomes incomplete when individual components are treated as though they could explain viability independently of the organisation within which they operate.
-
-APS therefore does not reject mechanistic explanation. Rather, it situates mechanisms within a broader organisational framework. Mechanisms matter because of the roles they play in sustaining viable systems. Understanding biology requires identifying components, tracing causal interactions, and analysing mechanisms, but it also requires explaining how these elements collectively contribute to the maintenance and transformation of organised persistence.
-
-[[box:gene-centric-vs-aps-grammar]]
-
-## Bringing the Pieces Together
-
-At this point the pieces begin to fit together.
-
-Organised persistence identifies the phenomenon biology seeks to explain. Biological agency identifies the activity through which persistence is achieved. Evolution explains how forms of persistence change through time. Biological explanation seeks to understand the mechanisms and organisational dynamics connecting these phenomena.
-
-These ideas are often studied within separate biological disciplines. Physiology investigates the maintenance of functional organisation. Developmental biology investigates the emergence and stabilisation of organised structures across life cycles. Ecology investigates the relationships through which living systems persist within broader environmental contexts. Evolutionary biology investigates the historical transformation of biological organisation through time. Although these disciplines focus on different phenomena, they ultimately address different dimensions of the same underlying reality.
-
-APS was developed as a framework for understanding these relationships. Rather than treating agency, development, ecology, evolution, and explanation as independent domains, APS interprets them as complementary perspectives on organised persistence. The result is not a replacement for existing biological knowledge but a framework for understanding how diverse forms of biological inquiry relate to a common explanatory target.
-
-## APS: A Framework for Understanding Life
-
-The Agency–Process–Scale framework was developed to clarify how the major explanatory domains of biology fit together. Biology encompasses a vast range of phenomena, from molecular interactions within cells to evolutionary transformations spanning millions of years. Although these phenomena are often studied within specialised disciplines, they are not disconnected. They are different aspects of a single underlying reality: the maintenance and transformation of viability-oriented biological organisation.
-
-APS approaches this reality through three interconnected dimensions. Agency concerns the viability-oriented activity through which living systems sustain the conditions of their own persistence. Process concerns the dynamic and ongoing character of living organisation, emphasising that living systems exist through continual activity rather than static structure. Scale concerns the fact that biological organisation is distributed across multiple interconnected spatial and temporal domains whose interactions contribute to both persistence and change.
-
-Together these dimensions provide a conceptual framework for understanding how living systems exist, how they maintain themselves, and how they evolve. Agency links metabolism, regulation, development, behaviour, and ecological interaction as different expressions of viability-oriented activity. Process links these activities to the continual regeneration of biological organisation through time. Scale links local mechanisms to broader organisational structures and historical transformations. What often appear as separate domains of inquiry can therefore be understood as different perspectives on the same organised reality.
-
-APS therefore provides a conceptual bridge linking many of the major questions explored throughout biology. Questions concerning life, agency, development, evolution, species, ecology, and biological explanation can all be understood as different perspectives on organised persistence and its transformation through time. Rather than representing separate biological realities, these domains illuminate complementary aspects of the same underlying phenomenon.
-
-This framework also helps explain why biology occupies a distinctive place among the sciences. Physical systems can often be understood through the dynamics of matter and energy alone, but living systems must additionally be understood in relation to the maintenance of viability. The organisation of living systems is not merely present; it is continually sustained through activity directed toward persistence. Biological explanation therefore requires concepts capable of addressing organisation, viability, agency, and historical transformation simultaneously.
-
-APS thus provides a conceptual synthesis linking life, evolution, and biological explanation. It offers a common framework within which the maintenance of living systems and the historical transformation of those systems can be understood as aspects of the same fundamental phenomenon: organised persistence.
+Agency, Process, and Scale thus distinguish what living systems do, how organisational continuity is maintained through change, and across what spatial and temporal extents persistence is organised. They are analytic projections of one viability-oriented, constraint-closed organisation, not different ingredients from which Life is constructed.
 
 ## The Central Insight
 
-Viewed from this perspective, biology investigates one of the most distinctive phenomena in nature: systems that actively sustain their own persistence while simultaneously participating in evolutionary processes that transform the organisation supporting that persistence across time.
+Viewed from this perspective, living systems present biology with a distinctive explanatory problem. They are materially realised systems whose organisation is continually maintained and re-established under changing conditions, while the forms of organisation through which they persist are themselves transformed across evolutionary history.
 
-The central task of biology is therefore not merely to describe living things or to catalogue their components. It is to explain how viability-oriented organisation arises, how it is maintained, how it responds to changing circumstances, and how it is transformed through evolutionary history. The diversity of biological disciplines reflects the complexity of this task rather than the existence of fundamentally separate explanatory domains.
+APS approaches this problem from the proposal that Life is viability-oriented, constraint-closed organisation. Living systems are not merely collections of components or static arrangements of matter. Their organisation is continually enacted through viability-oriented activity and maintained despite material turnover and perturbation. The continuity thereby achieved is what APS describes as organised persistence.
 
-Biology therefore emerges as more than the study of living things in a descriptive sense. It becomes the science of organised living systems: systems that sustain themselves through viability-oriented activity and whose organisation changes historically through evolution. Understanding life requires understanding both dimensions simultaneously, for neither persistence nor transformation can be adequately explained in isolation from the other.
+This does not reduce the diversity of biological explanation to a single task. Different biological fields investigate different phenomena through different methods and explanatory resources. APS asks what becomes explanatorily available when living organisation is examined through Agency, Process, and Scale: what living systems do in relation to viability, how organisational continuity is maintained through change, and across what spatial and temporal extents persistence is organised.
 
-Living systems endure because they actively maintain the conditions of their own existence, yet the forms through which they achieve this maintenance are continually reshaped across evolutionary time. Biological agency explains how persistence is achieved in the present. Evolution explains how the organisation supporting that persistence is transformed through history. Together they reveal life as both an ongoing process and a historical phenomenon.
+The distinction between Life and evolution remains fundamental. Life concerns the organisation characteristic of living systems and its present enactment and maintenance. Evolution concerns the historical transformation of living organisation across generations. Biological agency identifies the viability-oriented organisational activity through which living organisation is enacted and sustained; it does not by itself constitute a complete explanation of persistence.
 
-To understand life is therefore to understand how organised persistence is achieved, sustained, and transformed. Biology is the science devoted to explaining this extraordinary process.
+The resulting picture is both integrative and constrained. Organised persistence is an important target for understanding the continuity of living organisation through change, but it is not another definition of Life and need not be the explanatory target of every biological inquiry. Nor does describing a phenomenon through APS terminology establish explanatory gain. Any such contribution must be demonstrated relative to the biological question and to what established explanation already provides.
 
+The central APS insight is therefore not that all biology can be reduced to organised persistence. It is that living systems exhibit a distinctive form of organisation whose continuity and historical transformation can be investigated without separating organisation from its material realisation or collapsing the plurality of biological explanation. To understand Life, on this account, is to understand viability-oriented, constraint-closed organisation, the activities through which it is enacted and sustained, the continuity it maintains through change, and the histories through which its forms are transformed.
+
+## Explanatory Architecture
+
+This article develops the following explanatory architecture:
+
+**Life**  
+→ **viability-oriented, constraint-closed organisation**
+
+**Living organisation through time**  
+→ **organised persistence: the continuity of living organisation through change**
+
+**APS investigates this organisation through three complementary analytic projections:**
+
+- **Agency** — what living systems do in relation to viability
+- **Process** — how organisational continuity is maintained through change
+- **Scale** — across what materially realised spatial and temporal extents, and through what relations among them, persistence is organised
+
+**Evolution**  
+→ **the historical transformation of living organisation across generations**
+
+**Biological explanation**  
+→ **multiple explanatory approaches directed toward different biological questions, with organisational analysis contributing only where it makes explanatorily relevant organisation or relations available beyond what the strongest established explanation already provides**
+
+Agency, Process, and Scale are **analytic projections rather than components, levels, causes, or independent dimensions of biological reality**. The architecture therefore represents explanatory relationships, not a causal sequence or hierarchy.
+
+**In summary:**
+
+> **Life persists, evolution transforms that persistence, and biological explanation clarifies the organisation that makes both possible.**

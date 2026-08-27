@@ -20,8 +20,8 @@
     "lockedSince": "2026-05-22"
   },
   "glossary/scale": {
-    "hash": "0361e0bf637c69f1",
-    "revised": "2026-08-20",
+    "hash": "dc367f28d504af81",
+    "revised": "2026-08-27",
     "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
@@ -50,8 +50,8 @@
     "lockedSince": "2026-05-16"
   },
   "glossary/persistence": {
-    "hash": "50b61ae9dbc730b7",
-    "revised": "2026-07-28",
+    "hash": "59c872a1979a5343",
+    "revised": "2026-08-27",
     "lockedSince": "2026-05-22"
   },
   "glossary/purpose": {
@@ -315,8 +315,8 @@
     "lockedSince": "2026-05-28"
   },
   "articles/biology": {
-    "hash": "922e215bb543f510",
-    "revised": "2026-06-23",
+    "hash": "131904b2ab8cb2c1",
+    "revised": "2026-08-27",
     "lockedSince": "2026-04-14"
   },
   "articles/boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems": {
@@ -1200,8 +1200,8 @@
     "lockedSince": "2026-05-29"
   },
   "glossary/organised-persistence": {
-    "hash": "1d14981de49332b2",
-    "revised": "2026-06-15",
+    "hash": "a67de28750e7371e",
+    "revised": "2026-08-27",
     "lockedSince": "2026-05-27"
   },
   "glossary/organism-environment-coupling": {
