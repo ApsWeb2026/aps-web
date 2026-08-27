@@ -223,6 +223,8 @@ function stripMarkdownLinksAndCode(text: string): string {
     .replace(/```[\s\S]*?```/g, '')
     // Remove inline code
     .replace(/`[^`]*`/g, '')
+    // Remove APS box embeds such as [[box:biological-organisation-not-explanatory-ladder]]
+    .replace(/\[\[box:[\w-]+\]\]/g, '')
     // Replace inline markdown links [label](target) with just the visible label
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1')
     // Replace reference-style links [label][ref] with just the visible label

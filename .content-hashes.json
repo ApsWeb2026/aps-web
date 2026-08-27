@@ -25,8 +25,8 @@
     "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
-    "hash": "04e2687944da5c85",
-    "revised": "2026-08-19",
+    "hash": "b71640e9018cd19a",
+    "revised": "2026-08-27",
     "lockedSince": "2026-05-26"
   },
   "glossary/constraint-closure": {
@@ -1923,5 +1923,10 @@
     "hash": "8348252e3dc8d43f",
     "revised": "2026-08-26",
     "lockedSince": "2026-04-08"
+  },
+  "articles/what-is-biology-trying-to-explain": {
+    "hash": "364c3288bdea8129",
+    "revised": "2026-08-27",
+    "lockedSince": "2026-08-27"
   }
 }

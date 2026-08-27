@@ -22,4 +22,4 @@ may accurately describe observable patterns without identifying the dependencies
 
 Explanation therefore requires more than naming outcomes, behaviours, or patterns. It requires identifying relations that make a relevant difference to the phenomenon being explained.
 
-APS asks whether viability-oriented organisational analysis can identify such explanatory relations. That contribution cannot be assumed merely by redescribing a phenomenon in APS terms: any claimed explanatory gain must be established relative to the explanandum and the relevant established comparator.
+APS asks whether viability-oriented organisational analysis can identify such explanatory relations. That contribution cannot be assumed merely by redescribing a phenomenon in APS terms. Any claimed explanatory gain must be established relative to the explanandum and the strongest relevant established comparator.
