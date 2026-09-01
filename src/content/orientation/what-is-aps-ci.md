@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-08-27
+revised: 2026-09-01
 cluster: conceptual-foundations
 
 abstract: >
@@ -46,7 +46,7 @@ relatedGlossaryTerms:
   - cognition
 ---
 
-> **Where This Article Fits** This article introduces the Agency–Process–Scale (APS) framework as a research programme for understanding life through viability-oriented, constraint-closed organisation. It explains the central concepts of APS, how they relate to one another, and the biological questions they are intended to address. Readers new to APS should begin here before exploring the more detailed conceptual, scientific, and philosophical articles that develop the framework. *Why APS?* then identifies the unresolved explanatory problems that motivate APS, argues that contemporary biology still lacks an adequate account of the organising activity characteristic of living systems, and shows how APS seeks to address that gap.
+> **Where This Article Fits** This article introduces the Agency–Process–Scale (APS) framework as a research programme for understanding life through viability-oriented, constraint-closed organisation. It explains the central concepts of APS, how they relate to one another, and the biological questions they are intended to address. Readers new to APS should begin here before exploring the more detailed conceptual, scientific, and philosophical articles that develop the framework. *Why APS?* then identifies the unresolved explanatory problems that motivate APS, examines whether existing approaches leave unresolved questions concerning the organising activity characteristic of living systems, and shows how APS seeks to address that gap.
 
 ## Introduction
 
@@ -88,19 +88,13 @@ That organisational account also raises the problem of organised persistence int
 
 When that continuity is the explanatory target, APS investigates how living organisation is maintained or re-established across changing conditions.
 
-That organisational account gives rise to a further explanatory problem:
-
-> How is the continuity of living organisation maintained despite change?
-
-APS calls this continuity through change **organised persistence**. When organised persistence is the explanatory target, APS investigates how living organisation maintains or re-establishes viable continuity across changing conditions.
-
 This gives APS potential foundational generality without giving it universal explanatory authority. Living organisation provides a domain-wide subject of biological investigation because it concerns what is characteristic of living systems across the biological domain. But not every biological question has living organisation or organised persistence as its explanandum. Particular phenomena may be adequately explained through mechanistic, evolutionary, developmental, ecological, mathematical, informational, or other approaches.
 
 APS therefore does not assume that an organisational account is automatically preferable. Where APS and another approach address the same explanatory target, any claimed advantage must be established through comparison with the strongest relevant alternative. Where the targets differ, the explanations cannot simply be ranked as though they were competing answers to the same question.
 
 APS provides a conceptual framework for investigating relationships among biological findings where those relationships bear upon living organisation or organised persistence. Development, ecology, evolution, cognition, and other domains retain their own questions, methods, explanatory targets, and resources. APS asks how their findings may contribute to an organisational account where that relationship is explanatorily relevant, without requiring their absorption into a single explanatory system.
 
-APS therefore neither replaces existing biology nor seeks to unify biological science under a single mechanism, theory, or obligatory method. Its distinctive ambition is to develop and test a general organisational account of living systems and to determine, through controlled comparison, where that account provides additional explanatory value.
+APS therefore neither replaces existing biology nor seeks to unify biological science under a single mechanism, theory, or obligatory method. Its ambition is to develop and test a general organisational account of living systems and to determine, through controlled comparison, where that account provides additional explanatory value.
 
 ## The Central Idea of APS
 
@@ -211,7 +205,7 @@ APS therefore asks a more limited comparative question:
 
 Organised persistence can provide a candidate target for such comparison. Physiology may explain regulatory processes involved in maintaining functioning; development may explain organised transformation across a life course; ecology may explain organism–environment relations; evolution may explain historical transformation across generations; and cognition may explain forms of activity involving the organisation of biological significance across time. These explanations retain their own explananda and standards of adequacy. Their possible relationship to organised persistence is something to be investigated, not assumed.
 
-AAgency, Process, and Scale can assist that investigation by directing attention to complementary aspects of the living organisation involved without requiring every biological explanation to employ all three projections. Agency asks what living systems do in relation to viability. Process asks how organisational continuity is maintained despite change. Scale asks which spatial and temporal extents, and which materially implemented relations among them, are relevant to the explanatory problem. The projections do not require every biological explanation to answer all three questions.
+Agency, Process, and Scale can assist that investigation by directing attention to complementary aspects of the living organisation involved without requiring every biological explanation to employ all three projections. Agency asks what living systems do in relation to viability. Process asks how organisational continuity is maintained despite change. Scale asks which spatial and temporal extents, and which materially implemented relations among them, are relevant to the explanatory problem. The projections do not require every biological explanation to answer all three questions.
 
 APS therefore provides a comparative perspective for investigating relationships among explanatory achievements where those relationships bear upon living organisation. Comparison must begin with the strongest established explanations of the phenomena concerned and preserve their explanatory targets, evidence, and scope.
 
@@ -237,7 +231,7 @@ APS therefore treats cognition as continuous with living organisation without co
 
 More elaborate forms of cognitive organisation may contribute to mind, selfhood, reflective agency, and meaning. APS investigates the biological-organisational pathway toward these phenomena while maintaining a boundary between explaining their organisational conditions and claiming to explain subjective experience itself.
 
-## What APS Changes
+## What APS Proposes to Add
 
 APS does not seek to replace existing biology.
 
@@ -253,7 +247,7 @@ This perspective can bring organisational questions into relation with developme
 
 [[box:what-aps-changes-and-what-it-does-not]]
 
-APS therefore changes neither the subject matter of biology nor the validity of its established explanatory approaches. It proposes a general organisational account of living systems and a comparative way of assessing what that account contributes.
+APS therefore changes neither the subject matter of biology nor the validity of its established explanatory approaches. It proposes a general organisational account of living systems. What that account contributes must be assessed independently through comparison with the strongest relevant established explanations.
 
 Its success depends not on the breadth of phenomena that can be described in APS terminology, but on demonstrated explanatory gain.
 
