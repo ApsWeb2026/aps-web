@@ -6,34 +6,32 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-10
-revised: 2026-08-20
+revised: 2026-09-01
 cluster: conceptual-foundations
 
 abstract: >
-  APS is a comparative explanatory framework centred on living organisation
-  and organised persistence. This article presents the conceptual architecture
-  through which APS investigates how viability-oriented, constraint-closed
-  organisation is maintained and transformed. Agency, Process, and Scale are
-  complementary analytic projections of this single organisation: Agency
-  concerns what living systems do, Process concerns how continuity is
-  maintained despite change, and Scale concerns where persistence is organised
-  across spatial and temporal extents. Together they form the APS Explanatory
-  Grammar. The article also introduces the dependency hypotheses through which
-  APS investigates proposed relationships among biological evaluation,
-  significance, integration, cognition, mind, selfhood, reflective agency,
-  meaning, value, morality, and ethics. These relations constitute a research
-  architecture whose individual dependencies require independent evidential
-  assessment rather than following from conceptual coherence alone.
+  APS is an integrative analytic framework for theoretical biology. This article
+  presents the conceptual architecture through which it organises inquiry into
+  living organisation and organised persistence. Agency, Process, and Scale are
+  complementary, target-sensitive analytic projections of one
+  viability-oriented, constraint-closed organisation: Agency concerns what
+  living systems do, Process concerns how continuity is maintained despite
+  change, and Scale concerns where persistence is organised across spatial and
+  temporal extents. APS also proposes dependency hypotheses concerning
+  biological evaluation, significance, integration, cognition, mind, selfhood,
+  reflective agency, meaning, value, morality, and ethics. These are
+  proposition-specific research commitments of differing evidential status,
+  not consequences established by the coherence of the architecture itself.
 
 keyPoints:
-  - APS investigates living organisation and organised persistence as a general explanatory target.
+  - APS is an integrative analytic framework for theoretical biology whose strongest demonstrated contribution is bounded analytic and methodological organisation of explanatory inquiry.
+  - Organised persistence identifies continuity of living organisation despite change as an explanandum-organising concept; general additional substantive explanatory gain has not been demonstrated.
   - Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation.
   - Agency concerns what living systems do; Process concerns how continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents.
-  - Agency, Process, and Scale form the APS Explanatory Grammar; they are not independent components, causes, entities, domains, or levels of biological reality.
-  - The distinctions among Agency, Process, and Scale are analytic; the organisation and activities they disclose are biologically real.
-  - APS also proposes dependency hypotheses relating life, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, meaning, value, morality, and ethics.
-  - The coherence of this architecture does not by itself establish the truth of its biological claims or APS's explanatory superiority.
-  - APS has potential foundational generality when living organisation itself is the explanatory target, without claiming universal explanatory authority over biological explanation.
+  - Agency, Process, and Scale form a structured analytic interface; they are not components, causes, entities, domains, levels, or universally required categories of biological reality or explanation.
+  - The distinctions among Agency, Process, and Scale are analytic; the organisation and activities to which they direct attention are biologically real.
+  - Life, Agency, Normativity, Function, Biological Evaluation and significance, Purpose, Cognition and the wider dependency pathways remain APS commitments, formulations or hypotheses with proposition-specific evidential status.
+  - Conceptual coherence, integration and usability do not establish substantive biological truth, general explanatory superiority or foundational indispensability.
 
 relatedGlossaryTerms:
   - viability
@@ -214,7 +212,7 @@ Viability identifies the conditions under which persistence succeeds or fails. L
 
 Persistence therefore acquires biological significance because continuity is not guaranteed. Living systems exist under circumstances where persistence can succeed or fail.
 
-This is why biological organisation exhibits normativity, regulation, adaptation, repair, resilience, and evaluation. Viability provides the organisational context within which such distinctions become possible.
+Within APS, viability provides the organisational context for propositions about normativity, regulation, adaptation, repair, resilience, and evaluation. These propositions have differing evidential statuses and are not collectively validated by their place in the framework.
 
 Together, these concepts specify the central explanatory problem addressed by APS. Life is viability-oriented, constraint-closed organisation. Organised persistence identifies the problem of how that organisation maintains and re-establishes the conditions of its continuity despite change.
 
@@ -234,7 +232,7 @@ Living systems are organised through networks of constraints that regulate biolo
 
 Constraint closure therefore helps explain how organised persistence remains possible despite continual material turnover and organisational change. It provides an account of the reciprocal organisation through which living systems maintain themselves through time.
 
-Constraint closure is an important component of the APS framework, but it is not its ultimate explanatory centre. APS does not define life as constraint closure, nor does it derive the entire architecture from closure alone. Rather, closure matters because it contributes to the maintenance of viable continuity.
+Constraint closure is integral to the APS definition of life, but it is not a separate explanatory centre. APS does not define life as constraint closure alone, nor does it derive the entire architecture from closure alone. Rather, closure matters within APS because it contributes to the maintenance of viable continuity.
 
 Constraint closure is therefore integral to the APS account of living organisation, but it should not be understood as a separate level beneath organised persistence or as something derived from it. APS defines life as viability-oriented, constraint-closed organisation. Organised persistence identifies how the continuity of that organisation becomes an explanatory problem through time.
 
@@ -242,14 +240,14 @@ The relationship is therefore organisational rather than hierarchical. Constrain
 
 Constraint closure is therefore best understood as one important organisational solution to the broader challenge of maintaining viable continuity through time.
 
-This ordering helps clarify why development, adaptation, repair, resilience, cognition, ecology, evolution, and social organisation all belong within the same framework. Closure helps explain continuity maintenance, but the architecture itself emerges from the organisational requirements of persistence.
+This ordering helps clarify why APS investigates development, adaptation, repair, resilience, cognition, ecology, evolution, and social organisation within one conceptual architecture. Their inclusion organises inquiry; it does not establish that they share one demonstrated substantive explanation. Closure helps formulate continuity maintenance within APS, while the architecture organises questions arising from persistence.
 
 At this point a deeper question becomes unavoidable: What kind of organisation actively maintains continuity relative to viability?
 
-The answer leads directly to the explanatory grammar at the heart of APS.
+The answer leads to the analytic architecture through which APS organises inquiry into this problem.
 
-## Explanatory architecture
-### The APS Explanatory Grammar
+## Explanatory Architecture
+### The Agency–Process–Scale Analytic Interface
 
 APS organises its general account of living organisation through three complementary analytic projections:
 
@@ -269,11 +267,11 @@ Instead, each projection directs attention to a different explanatory question c
 
 The distinctions are analytic; the organisation and activities they disclose are biologically real.
 
-Together these relations constitute the APS Explanatory Grammar: the organised conceptual and explanatory relations through which APS structures its account of living organisation and organised persistence.
+Together these relations constitute the Agency–Process–Scale analytic interface through which APS structures inquiry into living organisation and organised persistence. This is a bounded analytic architecture, not a demonstrated general Explanatory Grammar for biology.
 
-This grammar belongs specifically to APS. Its explanatory value does not establish that Agency, Process, and Scale are obligatory categories of biological explanation generally. Particular biological questions may be adequately addressed through mechanistic, evolutionary, developmental, ecological, mathematical, informational, or other explanatory approaches.
+This analytic interface belongs specifically to APS. Its organisational usefulness does not establish that Agency, Process, and Scale are obligatory categories of biological explanation generally or that they provide additional substantive explanatory gain. Particular biological questions may be adequately addressed through mechanistic, evolutionary, developmental, ecological, mathematical, informational, or other explanatory approaches.
 
-The distinctive claim of APS is narrower but potentially more general: when living organisation itself is the explanatory target, Agency, Process, and Scale provide complementary ways of investigating the organisation through which living systems maintain and re-establish the conditions of their persistence.
+The current claim is bounded: when living organisation itself is the explanatory target, Agency, Process, and Scale provide complementary, target-sensitive ways of organising investigation of how living systems maintain and re-establish the conditions of their persistence. Whether this organisation adds substantive explanatory capacity requires target-matched comparison; it is not established by the architecture alone.
 
 ### Why Agency, Process, and Scale Are Analytic Projections
 
@@ -307,7 +305,7 @@ Agency, Process, and Scale consequently belong together without being independen
 
 Their relationship is therefore neither additive nor hierarchical. They are complementary analytic projections of one viability-oriented, constraint-closed organisation.
 
-This terminology also establishes an important limit on APS. Because Agency, Process, and Scale form the explanatory grammar through which APS investigates living organisation, it does not follow that every biological explanation must be reconstructed through them. Their general relevance depends upon the explanatory target being addressed, and any claim that the APS grammar provides a preferable account of living organisation requires comparative demonstration rather than assertion.
+This terminology also establishes an important limit on APS. Because Agency, Process, and Scale form an analytic interface through which APS investigates living organisation, it does not follow that every biological explanation must be reconstructed through them or that all three are equally useful for every target. Their relevance depends upon the explanatory target, and any claim that this interface provides a preferable account requires target-matched comparative demonstration rather than assertion.
 
 ## Agency — What Living Systems Do
 
@@ -317,7 +315,7 @@ The compact APS definition is:
 
 > **Biological Agency is viability-oriented organisational activity.**
 
-Living systems contribute actively to maintaining and re-establishing conditions required for their persistence. Cells regulate metabolism, organisms acquire resources, physiological systems maintain organisation, repair responds to damage, and activity can be reorganised as circumstances change.
+Within the APS account, living systems contribute actively to maintaining and re-establishing conditions required for their persistence. This definition is a current APS commitment; its stronger constitutive application to all life has not been comparatively demonstrated. Cells regulate metabolism, organisms acquire resources, physiological systems maintain organisation, repair responds to damage, and activity can be reorganised as circumstances change.
 
 Agency in this sense does not require intelligence, consciousness, intention, planning, representation, or reflective thought. These capacities may occur in some living systems, but they are not constitutive of biological agency.
 
@@ -360,12 +358,12 @@ As an analytic projection within APS, Process brings this temporal and transform
     change, and where persistence is organised across spatial and temporal
     extents. The wider pathway represents proposed Dependency Hypotheses relating
     biological evaluation, significance, integration, cognition, mind, selfhood,
-    and reflective agency to this foundational organisation.
+    and reflective agency to this living organisation.
   </p>
 </div>
 
 
-APS explains cross-scale influence through materially implemented constraints that alter the conditions under which constituent processes occur. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
+APS formulates cross-scale influence in terms of materially implemented constraints that alter the conditions under which constituent processes occur. Scale has current analytic utility in directing attention to these relations, but APS-specific additional substantive gain or novel cross-scale causation has not been demonstrated. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
 
 ## Scale — Where Persistence Is Organised
 
@@ -399,9 +397,9 @@ The three projections therefore belong together because the same living organisa
 
 Their distinctions are analytic. Their referent is one biologically real organisation.
 
-This is why Agency, Process, and Scale constitute the APS Explanatory Grammar rather than three independent parts of an APS ontology.
+This is why APS treats Agency, Process, and Scale as a structured analytic interface rather than as three independent parts of an APS ontology.
 
-## APS Explanatory Grammar 
+## The Agency–Process–Scale Analytic Interface
 
 The relationship can be summarised compactly:
 
@@ -411,9 +409,9 @@ The relationship can be summarised compactly:
 
 Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation.
 
-Together they constitute the APS Explanatory Grammar through which APS structures its general account of living organisation and organised persistence.
+Together they constitute the target-sensitive analytic interface through which APS structures inquiry into living organisation and organised persistence.
 
-The explanatory grammar identifies how APS analyses living organisation. The framework also proposes relationships among its wider concepts. These are represented in the APS dependency architecture as Dependency Hypotheses requiring independent assessment.
+This interface identifies how APS analyses living organisation. Its clarity and coherence are analytic and implementation virtues; they do not by themselves establish substantive biological truth or explanatory gain. The framework also proposes relationships among its wider concepts. These are represented in the APS dependency architecture as Dependency Hypotheses requiring independent assessment.
 
 ## The APS Dependency Architecture
 
@@ -441,14 +439,14 @@ In the sections that follow, terms such as *depends upon*, *enables*, *generates
   >
     <img
       src="/assets/diagrams/cognition-overall-architecture.png"
-      alt="The overall architecture of APS showing its methodology, explanatory grammar, and dependency architecture."
+      alt="The overall architecture of APS showing its methodological foundation, Agency–Process–Scale analytic interface, and dependency architecture."
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
     <strong>The Overall Architecture of APS.</strong>
-    The framework consists of three complementary layers: a methodological architecture concerned with naturalisation, conceptual closure, and scientific intelligibility; an explanatory grammar based on Agency–Process–Scale; and a dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning.
+    The framework is presented through three complementary layers: an independent methodological foundation concerned with explanatory assessment; an Agency–Process–Scale analytic interface; and a dependency architecture proposing relations among life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning. The diagram organises these proposals; it does not validate their individual dependencies.
   </p>
 </div>
 
@@ -497,7 +495,7 @@ The remainder of this section explains the proposed relationships in turn.
 
 ## From Agency to Meaning
 
-The APS Explanatory Grammar establishes the analytic projections through which
+The Agency–Process–Scale interface supplies the analytic projections through which
 APS investigates living organisation. The dependency architecture proposes a
 series of relationships through which APS investigates increasingly
 sophisticated forms of biological organisation.
@@ -532,11 +530,11 @@ Living systems therefore do not encounter all conditions equally. They distingui
 
 Biological evaluation is the process through which living systems distinguish conditions according to their significance for viability, functioning, and organised persistence. Evaluation does not require conscious judgement, symbolic reasoning, or reflective thought. It emerges whenever organisational activity becomes differentially responsive to conditions affecting continuity.
 
-Evaluation therefore marks a crucial transition within the architecture.
+Within the APS dependency architecture, evaluation marks a proposed transition. Biological Evaluation remains a conditional, untested APS proposition rather than a comparator-validated result.
 
 Living systems no longer merely regulate continuity: they regulate continuity relative to distinctions that matter.
 
-Agency enables evaluation. Evaluation becomes possible because viability matters.
+APS proposes that Agency enables Biological Evaluation and that viability-relative asymmetry supplies its organisational basis. This dependency remains open to independent specification and testing.
 
 ## Significance
 
@@ -550,9 +548,9 @@ Significance answers a question that evaluation alone cannot answer:
 
 > What exactly is it that living systems distinguish?
 
-They distinguish conditions that matter. Significance therefore emerges from evaluation. Evaluation generates significance.
+They distinguish conditions that matter. APS proposes that significance emerges from Biological Evaluation: Biological Evaluation generates significance. This dependency is conditional and untested, and its statement here does not establish residual explanatory gain.
 
-This transition represents one of the most important developments within the APS architecture because it establishes the foundation from which cognition, mind, selfhood, and meaning eventually emerge.
+Within the APS architecture, this proposed transition supplies a route for investigating cognition, mind, selfhood, and meaning. It does not establish those later dependencies or make the sequence foundationally indispensable.
 
 ## Integration
 
@@ -564,13 +562,13 @@ APS refers to this organisational requirement as integration. Integration explai
 
 Without integration, significance remains fragmented. With integration, multiple forms of significance become coordinated within a coherent organisational system. Integration therefore performs a crucial architectural role.
 
-Biological evaluation generates significance. Integration organises significance.
+APS proposes that Biological Evaluation generates significance and that Integration organises significance. Both are dependency formulations requiring independent evidential assessment.
 
 The transition from significance to cognition becomes possible because significance no longer exists merely as isolated distinctions. It becomes organised within increasingly coherent patterns of activity.
 
 ## Cognition
 
-Once significance becomes integrated, it can become organised across time. APS understands cognition as the organisation of biological significance across time.
+APS hypothesises that, once significance becomes integrated, it can become organised across time. Within this open research pathway, APS understands cognition as the organisation of biological significance across time. The relevant cognition discriminator remains a testable hypothesis, not a demonstrated general result.
 
 This formulation differs from approaches that restrict cognition to brains, nervous systems, symbolic reasoning, or conscious thought. APS begins from the more fundamental organisational problem confronting living systems:
 
@@ -590,7 +588,7 @@ The architecture now begins to approach questions traditionally associated with 
 
 ## Mind
 
-Cognition allows significance to remain organised through time. Mind introduces a further organisational achievement.
+Within the APS pathway, cognition allows significance to remain organised through time and mind marks a proposed further organisational achievement.
 
 APS understands mind as the integrated organisation of evaluative cognitive processes through which an agent maintains a coherent relationship with itself and its world.
 
@@ -602,7 +600,7 @@ This distinction is important.
 
 Many forms of cognition may remain relatively local, task-specific, or distributed. Mind refers to the emergence of a more coherent organisational perspective through which significance becomes integrated into an enduring pattern of engagement with the world.
 
-Mind therefore establishes coherent self–world organisation.
+APS proposes that mind establishes coherent self–world organisation.
 
 ## Selfhood
 
@@ -620,11 +618,11 @@ Continuity does not require stasis. Persistence occurs through transformation.
 
 Selfhood therefore represents the stabilisation of coherent self–world organisation across changing circumstances and timescales.
 
-Mind establishes coherence. Selfhood sustains coherence through change.
+APS proposes that mind establishes coherence and that selfhood sustains coherence through change. This dependency remains open to independent assessment.
 
 ## Reflective Agency
 
-Selfhood creates the conditions for another important transition. Agency can become directed toward itself.
+Within the APS pathway, selfhood is proposed to create conditions for another transition: agency can become directed toward itself.
 
 APS refers to this capacity as reflective agency.
 
@@ -644,7 +642,7 @@ Meaning represents the culmination of the Matter-to-Mind pathway within APS.
 
 Throughout the preceding sections, significance has been progressively organised, integrated, stabilised, and transformed. What began as distinctions relevant to viability has become increasingly coherent, temporally organised, self-related, and reflective.
 
-Meaning emerges from this process.
+APS proposes that meaning emerges through this process.
 
 APS understands meaning as organised significance.
 
@@ -658,9 +656,9 @@ The architecture reaches its culmination here because meaning represents the mos
 
 [[box:the-aps-dependency-architecture]]
 
-The remarkable feature of this sequence is that it does not require a separate explanatory system. The pathway from agency to meaning emerges from the same organisational foundations already established through viability-oriented organised persistence.
+The sequence is intended to investigate a pathway from agency to meaning without introducing a separate explanatory system. APS proposes that the pathway can be related to viability-oriented organised persistence; the relationship is not established by conceptual continuity alone.
 
-APS therefore does not explain meaning by departing from biology. It explains meaning by showing how increasingly sophisticated forms of organisation emerge within the biological world itself.
+APS therefore investigates meaning without departing from biology, asking whether increasingly sophisticated forms of organisation can be shown to emerge within the biological world. This remains a research programme rather than a demonstrated collective result.
 
 ## Meaning, Value, and Ethics
 
@@ -668,7 +666,7 @@ Meaning is not the end of the APS architecture. It is a major organisational ach
 
 Once significance becomes organised as meaning, some meanings acquire relative stability within agency and become values. In human societies, values become increasingly organised through communication, culture, institutions, and collective life. This gives rise to shared evaluation, social norms, moral evaluation, morality, and ethics.
 
-APS therefore recognises a second major architecture emerging from the Matter-to-Mind pathway. This Evaluation-to-Ethics Architecture explains how what matters can become progressively organised into value, normativity, moral concern, and reflective ethical inquiry.
+APS therefore proposes a second major architecture related to the Matter-to-Mind pathway. The Evaluation-to-Ethics Architecture investigates how what matters might become progressively organised into value, social normativity, moral concern, and reflective ethical inquiry.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/cognition-evaluation-ethics.png" target="_blank" rel="noopener">
@@ -679,19 +677,19 @@ APS therefore recognises a second major architecture emerging from the Matter-to
     />
   </a>
  
-Together, the Matter-to-Mind pathway and the Evaluation-to-Ethics pathway constitute the two largest organisational trajectories currently identified within APS.
+Together, the Matter-to-Mind pathway and the Evaluation-to-Ethics pathway constitute two major proposed organisational trajectories within APS. Their scope and coherence do not establish the individual dependencies.
 
   <p class="aps-diagram-caption">
     <strong>The Evaluation-to-Ethics Architecture.</strong>
-    APS explains how evaluative organisation develops from Biological Evaluation through Significance, Meaning, Value, Human Values, Shared Evaluation, Social Norms, Moral Evaluation, Morality, and Ethics. The pathway traces the progressive organisation of what matters, from viability-relative significance in living systems to reflective ethical inquiry in human societies.
+    APS proposes a pathway through which evaluative organisation may develop from Biological Evaluation through Significance, Meaning, Value, Human Values, Shared Evaluation, Social Norms, Moral Evaluation, Morality, and Ethics. The pathway traces a proposed progressive organisation of what matters, from viability-relative significance in living systems to reflective ethical inquiry in human societies.
   </p>
 </div>
 
-The Evaluation-to-Ethics Architecture does not replace the Agency–Process–Scale perspective or the Matter-to-Mind pathway. Rather, it follows one aspect of living organisation—evaluation—through increasingly complex forms of organisation. The result is a continuous explanatory trajectory linking biological significance to some of the most sophisticated forms of human social and ethical life.
+The Evaluation-to-Ethics Architecture does not replace the Agency–Process–Scale perspective or the Matter-to-Mind pathway. Rather, it follows one aspect of living organisation—evaluation—through increasingly complex proposed forms of organisation. The result is a proposed trajectory linking biological significance to forms of human social and ethical life. Each dependency requires separate assessment, and biological viability does not by itself establish moral legitimacy.
 
 # Meaning and Extension
 
-The dependency architecture culminates in meaning. Yet APS is not limited to cognition, mind, selfhood, or meaning. The same organisational principles extend throughout development, ecology, evolution, resilience, and social organisation. Understanding these extensions requires clarifying the architecture of meaning itself.
+The dependency architecture provisionally culminates in meaning. APS also investigates whether related organisational questions can illuminate development, ecology, evolution, resilience, and social organisation. Understanding these proposed extensions requires clarifying the architecture of meaning itself.
 
 ## The Architecture of Meaning
 
@@ -792,7 +790,7 @@ Meaning therefore possesses both biological depth and reflective sophistication.
 
 ## Extending the Architecture
 
-The APS dependency architecture explains how increasingly sophisticated forms of organisation emerge from viability-oriented organised persistence. Yet APS is not limited to cognition, mind, or meaning. The same architectural principles extend throughout biology and beyond.
+The APS dependency architecture proposes how increasingly sophisticated forms of organisation may be related to viability-oriented organised persistence. APS also investigates the relevance of this architecture to other biological and social targets.
 
 Development, ecology, evolution, diagnosis, resilience, and social organisation all address different expressions of the same underlying challenge: maintaining viable continuity through change.
 
@@ -836,7 +834,7 @@ Organisms inherit organisational solutions from previous generations, modify tho
 
 Evolution therefore extends organised persistence into historical time.
 
-The same principles that govern continuity within individual organisms become visible at larger temporal scales through inheritance, adaptation, diversification, and transformation.
+Within APS, inheritance, adaptation, diversification, and transformation can be examined as historical changes in the organisation of persistence. This is an integrative formulation, not a claim that the same principles have demonstrated additional explanatory power across targets.
 
 Evolution reveals continuity as historical.
 
@@ -846,7 +844,7 @@ Many changes occur within an existing organisation of persistence. Regulation, a
 
 Organisational transitions involve a different kind of change. They occur when relations among constraints are reorganised such that a new and relatively stable regime of viability-oriented activity becomes possible.
 
-APS therefore treats evolution not merely as change through time but as the historical transformation of organised persistence, including transitions through which new forms of living organisation emerge and stabilise.
+APS formulates evolution as the historical transformation of viability-oriented, persistence-sustaining organisation, including transitions through which new forms of living organisation emerge and stabilise. This formulation remains current, but the tested developmental/evolutionary target showed no additional explanatory gain; that local null does not establish framework-wide failure.
 
 ## Diagnosis and Resilience
 
@@ -854,11 +852,11 @@ The importance of continuity becomes especially visible when continuity is threa
 
 Both concepts illuminate organisational requirements that often remain hidden when systems function normally.
 
-APS consequently treats diagnosis and resilience as windows into the architecture of persistence itself. They reveal what continuity requires by examining the consequences of its disruption.
+APS consequently uses diagnosis and resilience as possible analytic windows onto organised persistence. Their usefulness for particular targets must be established independently and does not amount to validated APS-specific diagnostics.
 
 ## Social Organisation
 
-The APS architecture extends beyond individual organisms.
+APS proposes extensions beyond individual organisms.
 
 Human social systems represent highly integrated forms of organised continuity distributed across individuals, institutions, practices, technologies, traditions, and symbolic systems.
 
@@ -868,19 +866,15 @@ Cultural practices preserve continuity across generations. Institutions coordina
 
 The continuity challenges addressed by individual organisms reappear at broader scales in increasingly complex forms.
 
-APS therefore treats social organisation not as a separate explanatory domain but as an extension of the same architectural principles already visible throughout biology.
-
-The framework remains continuous. The scale changes.
+APS investigates whether social organisation can be related to selected organisational themes developed for living systems while preserving the distinct explanatory, historical, and normative requirements of collective life. This is a proposed extension, not a demonstrated reduction of social organisation to biological persistence.
 
 # APS as a Research Program
 
 ## Extension Domains
 
-Development reveals continuity through transformation. Ecology reveals continuity through relation. Evolution reveals continuity through history. Diagnosis and resilience reveal continuity under disruption. Social organisation reveals continuity through collective coordination. Together these domains demonstrate how the same organisational challenge reappears across increasingly diverse forms of living organisation.
+Development can be examined as continuity through transformation; ecology as continuity through relation; evolution as continuity through history; diagnosis and resilience as continuity under disruption; and social organisation as continuity through collective coordination. Together these domains illustrate the breadth of questions that APS seeks to organise.
 
-Together these domains demonstrate the breadth of the APS architecture.
-
-What begins as an attempt to understand viable continuity within living systems expands into a framework capable of illuminating development, ecology, evolution, cognition, mind, meaning, resilience, and social organisation as interconnected expressions of the same underlying organisational challenge.
+What begins as an attempt to understand viable continuity within living systems becomes a research programme asking where development, ecology, evolution, cognition, mind, meaning, resilience, and social organisation can be related to organised persistence—and where target differences or evidence set limits on that integration.
 
 # Why the Framework Has This Shape
 
@@ -932,14 +926,16 @@ mathematical, informational, cognitive, and other approaches may provide
 adequate and preferable explanations of particular phenomena without being
 reconstructed through APS.
 
-APS's strongest general claim concerns living organisation itself. It makes the
-organisation characteristic of living systems, and the maintenance of that
-organisation despite change, explicit explanatory targets.
+APS makes living organisation, and the maintenance of that organisation
+despite change, explicit explanatory targets. Organised persistence has current
+explanandum-organising and integrative utility for continuity-through-change
+questions, but general additional substantive explanatory gain has not been
+demonstrated.
 
-This gives APS potential foundational generality without giving it universal
-explanatory authority. Foundational generality concerns explanatory scope, not
-causal priority, hierarchical depth, metaphysical fundamentality, or
-jurisdiction over specialist explanations.
+This gives APS a potentially broad field of application when living
+organisation is the target, without making it foundationally indispensable or
+claiming authority over specialist explanations. Relevance and gain remain
+target-sensitive.
 
 APS may therefore investigate how findings and explanations from different
 biological domains bear upon the general problem of living organisation while
@@ -948,10 +944,13 @@ physiology, ecology, evolution, cognition, behaviour, and other domains retain
 their own explanatory targets, methods, evidence, and standards of adequacy.
 
 Where relationships among these domains contribute to explaining living
-organisation, APS provides a comparative and integrative methodology for
-identifying and assessing them. Integration is not assumed to be preferable in
-every case, and the inclusion of additional domains or relationships does not
-by itself constitute explanatory improvement.
+organisation, APS provides an analytic interface for organising inquiry into
+them. Comparative assessment is supplied by the independent comparative
+explanatory methodology, which can be applied to APS and other frameworks; it
+is neither substantive evidence for APS biology nor a uniquely APS invention.
+Integration is not assumed to be preferable in every case, and the inclusion
+of additional domains or relationships does not by itself constitute
+explanatory improvement.
 
 APS therefore occupies a synthetic position without requiring synthesis to
 replace analysis or specialist explanation. Its purpose is not to reduce,
@@ -959,10 +958,10 @@ absorb, or supersede established biological explanations, but to investigate
 whether and how their explanatory contributions can be related when living
 organisation or organised persistence is the target.
 
-Whether APS provides the preferred general account of living organisation
-cannot be inferred from its breadth, coherence, integration, or conceptual
-architecture. That requires target-matched comparison with the strongest
-relevant alternatives and demonstrated explanatory gain.
+Whether APS provides additional substantive explanatory capacity for living
+organisation cannot be inferred from its breadth, coherence, integration, or
+conceptual architecture. It remains an open target-specific question requiring
+comparison with the strongest relevant alternatives.
 
 ## APS and the Transition from Life to Mind
 
@@ -970,11 +969,11 @@ One of the most enduring questions in science and philosophy concerns how mind e
 
 APS belongs most closely to this latter tradition. Rather than treating mind as a separate substance or reducing it to a collection of physical components, the framework approaches the transition from life to mind as a problem of organisational development. The central question is not how non-living matter suddenly acquires mentality, but how increasingly sophisticated forms of organisation emerge from the challenge of maintaining viable continuity through time.
 
-Within APS, mind does not appear as an isolated phenomenon. It emerges within a broader dependency architecture linking life, evaluation, significance, cognition, mind, selfhood, reflective agency, meaning, value, morality, and ethic. The framework therefore treats mind as part of a continuous organisational pathway rather than as an explanatory discontinuity requiring fundamentally different principles of explanation.
+Within APS, mind is not treated as an isolated phenomenon. It is situated within a proposed dependency architecture linking life, evaluation, significance, cognition, mind, selfhood, reflective agency, meaning, value, morality, and ethics. The framework therefore investigates mind as part of a possible continuous organisational pathway rather than assuming that continuity has already been demonstrated.
 
-This position aligns APS with a growing body of work in theoretical biology, enactivism, embodied cognition, and organisational approaches to mind that emphasise continuity between life and cognition. However, APS extends this tradition by proposing a more explicit dependency architecture through which increasingly sophisticated forms of organisation emerge from viability-oriented organised persistence. In this respect, the framework seeks not merely to assert continuity between life and mind, but to clarify the organisational transitions through which that continuity becomes intelligible.
+This position places APS alongside work in theoretical biology, enactivism, embodied cognition, and organisational approaches to mind that investigates continuity between life and cognition. APS contributes to this discussion by proposing a more explicit dependency architecture through which increasingly sophisticated forms of organisation might be related to viability-oriented organised persistence. The proposal remains open to dependency-specific testing.
 
-APS does not claim a final solution to subjective experience. Questions concerning consciousness, awareness, and first-person experience remain among the most difficult problems in contemporary science and philosophy. The framework's contribution is more limited and more specific. APS seeks to explain the biological-organisational pathway toward awareness by identifying the forms of agency, evaluation, significance, integration, cognition, mind, selfhood, and meaning that emerge within living systems. In this sense, the matter-to-mind problem becomes a problem of organisational development.
+APS does not claim a final solution to subjective experience. Questions concerning consciousness, awareness, and first-person experience remain among the most difficult problems in contemporary science and philosophy. The framework's proposal is more limited and more specific. APS investigates a possible biological-organisational pathway toward awareness by identifying candidate relations among agency, evaluation, significance, integration, cognition, mind, selfhood, and meaning. It does not claim that this pathway has been collectively demonstrated.
 
 Readers interested in this question in greater depth should continue to How Did Matter Become Aware of Itself?, which explores the relationship between life, cognition, mind, and awareness as one of the central long-term research programmes of APS.
 
@@ -987,7 +986,7 @@ Some readers begin with questions about life. Others begin with agency, cognitio
 The framework can be explored through four broad pathways.
 
 ## Foundations
-These articles establish the biological foundations of APS and introduce the central concepts of viability-oriented organised persistence.
+These articles present the biological starting points of APS and introduce the central concepts of viability-oriented organised persistence.
 
 Core Topics
 
@@ -1075,15 +1074,15 @@ Living systems persist, but they do not do so by remaining unchanged. Their comp
 
 APS addresses this problem through its account of life as viability-oriented, constraint-closed organisation and through the concept of organised persistence.
 
-Agency, Process, and Scale provide three complementary analytic projections of that organisation. Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence is organised across spatial and temporal extents. Together they constitute the APS Explanatory Grammar.
+Agency, Process, and Scale provide three complementary analytic projections of that organisation. Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence is organised across spatial and temporal extents. Together they constitute the Agency–Process–Scale analytic interface used within APS.
 
 The distinctions are analytic; the organisation they disclose is biologically real.
 
-From this foundation APS develops a wider research architecture containing Dependency Hypotheses concerning biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, meaning, value, morality, ethics, and other forms of biological and social organisation. The coherence of that architecture does not itself establish those dependencies; each remains answerable to evidence, alternatives, limitations, and failure conditions.
+From this starting point APS develops a wider research architecture containing Dependency Hypotheses concerning biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, meaning, value, morality, ethics, and other forms of biological and social organisation. The coherence of that architecture does not itself establish those dependencies; each remains answerable to evidence, alternatives, limitations, and failure conditions.
 
-APS therefore makes a substantial but bounded claim. It proposes a general organisational account of life and possesses potential foundational generality when living organisation itself is the explanatory target. It does not follow that APS is the preferred explanation of every biological phenomenon or that specialist explanations must be reconstructed through its grammar.
+APS therefore makes a bounded claim. It proposes an organisational account of life and a target-sensitive analytic architecture for investigating living organisation. Its strongest demonstrated contribution is the bounded analytic and methodological organisation of explanatory inquiry. It is not claimed to be foundationally indispensable, the preferred explanation of every biological phenomenon, or a requirement that specialist explanations be reconstructed through APS.
 
-Whether APS ultimately provides the preferred general explanation of living organisation depends upon demonstrated explanatory gain over the strongest relevant alternatives addressing that same target.
+Whether APS provides additional substantive explanatory capacity for living organisation remains an open, target-specific question requiring comparison with the strongest relevant alternatives addressing the same target.
 
 ## Where to Go Next
 
