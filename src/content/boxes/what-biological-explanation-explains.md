@@ -6,11 +6,11 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-14
-revised: 2026-08-24
+revised: 2026-09-02
 cluster: methodology-and-explanation
 ---
 
-APS explains living systems as viability-oriented, constraint-closed organisations whose activity maintains and re-establishes conditions required for continued functioning.
+Within APS, living systems are understood as viability-oriented, constraint-closed organisations whose activity maintains and re-establishes conditions required for continued functioning.
 
 Agency, Process, and Scale are complementary analytic projections of this one organisation. **Agency** concerns what living systems do. **Process** concerns how organisational continuity is maintained despite change. **Scale** concerns across what materially realised spatial and temporal extents, and through what relations among them, persistence is organised.
 
