@@ -6,16 +6,17 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
 date: 2026-05-17
-revised: 2026-06-03
+revised: 2026-09-02
 cluster: cognition-and-mind
 
 summary: >
-  This box summarises the APS cognition pathway, showing how cognition,
-  intelligence, and consciousness emerge from progressively integrated forms
-  of viability-oriented organisation.
+  This box summarises an APS proposed cognition pathway, showing a dependency
+  architecture through which increasingly integrated forms of viability-oriented
+  organisation are investigated in relation to cognition, intelligence, and
+  consciousness.
 ---
 
-Within APS, cognition is understood as an organisational development emerging from progressively integrated forms of viability-oriented activity.
+Within APS, the cognition pathway is a proposed dependency architecture for investigating how increasingly integrated forms of viability-oriented organisation may relate to cognition and its associated capacities.
 
 The pathway can be summarised as:
 
@@ -39,13 +40,15 @@ intelligence
 ↓  
 consciousness
 
-This sequence does not describe separate substances, modules, or explanatory layers. Instead, it illustrates how increasingly sophisticated forms of organisation emerge from the ongoing regulation of viability.
+The arrows represent proposed dependencies rather than demonstrated causal or developmental succession. Individual transitions retain their proposition-specific evidential status and require independent assessment.
 
-APS therefore treats:
+The sequence does not describe separate substances, modules, components, levels, or universally necessary explanatory categories. It provides an APS research architecture for distinguishing related organisational questions without treating the pathway as a collectively demonstrated biological progression.
 
-- cognition as emerging from viability-oriented organisation;
-- representation as downstream rather than foundational;
+Within this proposed architecture, APS investigates:
+
+- cognition in relation to increasingly integrated viability-oriented organisation;
+- representation as potentially downstream rather than necessarily foundational;
 - intelligence as specialised rather than universal;
-- consciousness as one possible development within highly integrated cognition.
+- consciousness as a possible development associated with highly integrated cognition rather than a defining property of life.
 
-Each stage introduces additional capacities for evaluating conditions, coordinating activity, and sustaining viability across changing circumstances.
+These propositions do not have identical evidential status. The pathway therefore organises APS research questions without itself establishing that every proposed dependency or transition has been biologically demonstrated.
