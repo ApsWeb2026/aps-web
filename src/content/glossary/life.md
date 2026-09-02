@@ -1,24 +1,20 @@
 ---
 date: 2026-04-08
 title: Life
+type: glossary
 slug: life
-
 definition: >
-  Life in APS is viability-oriented organisation sustained through agency
-  across process and scale. Living systems persist by actively maintaining
-  the conditions of their own continued viability through ongoing
-  organisational activity.
+  Life is viability-oriented, constraint-closed organisation. This organisation
+  consists in the ongoing modulation of constraints through which a system
+  actively maintains and re-establishes the conditions of its own persistence.
 
 inBrief: >
-  Life is viability-oriented organisation sustained through agency across
-  process and scale.
+  Life is viability-oriented, constraint-closed organisation.
 
-type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-06-15
-
+revised: 2026-09-03
 cluster: conceptual-foundations
 
 relatedGlossaryTerms:
@@ -43,18 +39,20 @@ relatedArticles:
   - biological-organisation
 ---
 
-Life is one of the most familiar concepts in biology and one of the most difficult to define. Traditional definitions often identify life through lists of characteristics such as metabolism, growth, reproduction, homeostasis, responsiveness, or evolutionary participation. While these features are important, APS argues that they do not by themselves explain what unifies living systems or why such features matter biologically.
+Life is one of the most familiar concepts in biology and one of the most difficult to define. Biological accounts commonly characterise living systems through such features as metabolism, growth, reproduction, homeostasis, responsiveness, evolution, or particular forms of organisation. APS does not treat the presence or absence of any such list as sufficient to establish its own account. Instead, it asks what kind of organisation makes the continued functioning of a living system possible despite continual material and environmental change.
 
-APS approaches the question from a different direction. Rather than beginning with a checklist of traits, it begins with the organisational activity through which living systems continue to exist. Living systems are distinguished not primarily by what they are made of but by what they continually do. They regulate internal conditions, maintain boundaries, repair damage, adapt to changing circumstances, coordinate activity across scales, and reorganise themselves in ways that preserve viability despite continual transformation.
+APS defines **life as viability-oriented, constraint-closed organisation**. This is a canonical commitment of the framework. It identifies living organisation in terms of the ongoing modulation of constraints through which a system actively maintains and re-establishes the conditions of its own persistence. The definition provides the starting point from which APS analyses biological activity, continuity, and organisation; it is not presented as a comparator-validated uniquely correct definition of life.
 
-For this reason, APS defines life as viability-oriented organisation sustained through agency across process and scale. Agency identifies the activity through which living systems maintain the conditions required for their continued persistence. Process emphasises that this activity unfolds through continual transformation rather than static stability. Scale recognises that viability is maintained through interacting forms of organisation distributed across biological contexts and timescales.
+Living systems continually undergo change. Materials are replaced, structures are renewed, internal conditions fluctuate, environments vary, and developmental trajectories unfold. Yet living organisation can remain continuous through these transformations. APS describes this continuity as **organised persistence**: persistence achieved through ongoing organisation rather than through material or structural invariance.
 
-This perspective helps explain why living systems differ fundamentally from non-living objects. A stone may persist because relatively little changes. A living system persists because change is continually organised. Materials are replaced, structures are renewed, environments fluctuate, and developmental trajectories unfold, yet continuity is maintained through ongoing viability-oriented activity. Life is therefore not simply persistence but organised persistence.
+**Agency, Process, and Scale** provide complementary analytic projections of this living organisation. Agency concerns what living systems do in maintaining and re-establishing viable conditions. Process concerns how continuity is maintained through change. Scale concerns where persistence is organised across spatial and temporal extents. These are analytic projections rather than separate components, ontological levels, or universally required explanatory steps. Their relevance and explanatory priority depend on the biological target under investigation.
 
-Constraint-closure remains an important part of this account because living systems maintain themselves through networks of mutually supporting constraints that contribute to their own continued existence. APS incorporates this insight within a broader framework centred on agency, viability, process, and scale. Constraint-closure helps explain how living organisation is maintained, while agency explains the activity through which that maintenance occurs.
+Constraint closure is therefore not an additional feature appended to the APS definition of life. It is part of the definition itself. Living organisation depends on constraints that participate in maintaining the conditions under which the organisation that sustains them can continue. APS places this constraint-closed organisation in a viability-oriented formulation: what is maintained is not an unchanging state but an organisation capable of continuing to function within conditions compatible with its persistence.
 
-The concept of life in APS is therefore inseparable from biological normativity. Conditions matter because they affect viability. Activities matter because they contribute to the maintenance or degradation of organised persistence. Living systems continually evaluate and respond to such conditions through their own organisation, giving rise to the normative structure characteristic of biological existence.
+This formulation also provides the APS starting point for analysing biological normativity. Conditions can differ in their consequences for the viability of an organised living system, creating viability-relative asymmetries between what sustains, disrupts, or threatens continued functioning. APS develops normativity, evaluation, function, and related concepts from this organisational starting point. Their inclusion within the wider APS conceptual system does not, by itself, establish their comparative explanatory superiority or independent empirical validation.
+
+The APS definition of life should therefore be understood according to its present scientific status. It is a **current APS framework commitment** that organises subsequent analysis of agency, process, scale, viability, constraint closure, and organised persistence. Its conceptual integration within APS is not evidence that competing biological accounts have been displaced, nor does APS currently claim that this definition supplies a universal foundation or general explanatory grammar for biology.
 
 ## Key Point
 
-Life is not defined by a checklist of traits. In APS, life is the organised persistence of viability-oriented agency across process and scale.
+**Life is viability-oriented, constraint-closed organisation.** In APS, this organisation is maintained through ongoing activity that preserves and re-establishes the conditions of organised persistence. Agency, Process, and Scale provide complementary, target-sensitive analytic projections through which aspects of that organisation can be investigated.

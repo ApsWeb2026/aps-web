@@ -6,16 +6,13 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-08-20
+revised: 2026-09-03
 cluster: conceptual-foundations
-
 definition: >
   In APS, Process is the dynamic organisation through which continuity is
   maintained, reorganised, and transformed despite change.
-
 inBrief: >
   Process concerns how continuity is maintained despite change.
-
 seeAlso:
   - biological-organisation
   - biological-agency
@@ -31,7 +28,6 @@ seeAlso:
   - physiology
   - scale-coupling
   - temporal-organisation
-
 relatedArticles:
   - aps-architecture-map
   - what-is-aps
@@ -55,6 +51,7 @@ Process is often understood as a sequence of events or changes occurring within 
 Under this framing:
 
 - structures may be treated as relatively stable;
+
 - processes are activities or changes unfolding through time.
 
 This distinction is useful in many contexts. In biology, however, it can obscure the extent to which living organisation itself depends upon ongoing activity, renewal, regulation, and transformation.
@@ -65,9 +62,9 @@ APS therefore uses Process in a specifically organisational sense.
 
 In APS, **Process concerns how continuity is maintained despite change**.
 
-Living systems undergo continual material turnover, physiological change, development, environmental perturbation, repair, and reorganisation. Their persistence cannot therefore be understood simply as the endurance of an unchanged structure.
+Living systems undergo continual material turnover, physiological change, development, environmental perturbation, repair, and reorganisation. Their persistence need not therefore be understood simply as the endurance of an unchanged structure.
 
-Process identifies the dynamic organisation through which living systems maintain, re-establish, reorganise, and transform the conditions of their continuity.
+Within APS, Process identifies the dynamic organisation through which living systems maintain, re-establish, reorganise, and transform the conditions of their continuity.
 
 Process is consequently more than temporal succession. Events may occur one after another without constituting the organised continuity characteristic of living systems. The APS concept concerns how activities and relations are organised through time in ways that contribute to viability and persistence.
 
@@ -83,21 +80,23 @@ Living organisation therefore persists through change rather than through materi
 
 Process identifies the dynamic organisation through which continuity can nevertheless be sustained.
 
-## Process within the APS Explanatory Grammar
+## Process within the APS Analytic Architecture
 
-Within the APS Explanatory Grammar, Process is the analytic projection concerned with **how continuity is maintained despite change**.
+Within the APS analytic architecture, Process is the analytic projection concerned with **how continuity is maintained despite change**.
 
-It is one of three complementary analytic projections:
+It is one of three complementary, target-sensitive analytic projections:
 
 - **Agency** concerns what living systems do;
+
 - **Process** concerns how continuity is maintained despite change;
+
 - **Scale** concerns where persistence is organised across spatial and temporal extents.
 
-Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. They are not independent components, causes, entities, domains, or hierarchical levels of biological reality.
+Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. They are not independent components, causes, entities, domains, or hierarchical levels of biological reality, nor are all three assumed to be equally required for every explanatory target.
 
-Calling Process an analytic projection does not mean that biological processes are merely analytical constructions. The distinction is introduced for purposes of investigation and explanation, while the dynamic organisation it identifies is biologically real.
+Calling Process an analytic projection does not mean that biological processes are merely analytical constructions. The distinction is introduced for purposes of investigation and explanation, while the dynamic organisation it identifies is treated within APS as biologically real.
 
-The distinction is analytic; the organisation and activity it discloses are biologically real.
+The distinction is analytic; the organisation and activity it identifies are treated by APS as biologically real.
 
 ## Process and Viability
 
@@ -106,21 +105,28 @@ Living systems persist only while conditions compatible with their continued org
 Process therefore includes activities through which living systems may:
 
 - regulate internal conditions;
+
 - repair damage;
+
 - reorganise under perturbation;
+
 - develop;
+
 - recover;
+
 - adapt;
+
 - renew components;
+
 - maintain organisational continuity.
 
-These activities are not individually definitions of Process. They are biological manifestations of the dynamic organisation through which viable continuity is maintained or transformed.
+These activities are not individually definitions of Process. They are biological manifestations of the dynamic organisation through which viable continuity may be maintained or transformed.
 
 Viability specifies conditions under which organised persistence can succeed or fail. Process concerns how living organisation changes through time while those conditions are maintained, lost, or re-established.
 
 ## Process and Biological Organisation
 
-Biological organisation is dynamically maintained.
+Within APS, biological organisation is understood as dynamically maintained.
 
 Membranes are repaired and regenerated. Metabolic activity continually renews material relations. Development reorganises form. Physiological activity compensates for perturbation. Behaviour can modify organism–environment relations.
 
@@ -128,7 +134,7 @@ The persistence of a living system therefore need not require persistence of the
 
 APS treats biological continuity as organisational rather than as simple material sameness.
 
-Process identifies the dynamic organisation through which this continuity is enacted through time.
+Process identifies the dynamic organisation through which APS analyses this continuity as enacted through time.
 
 ## Process and Biological Agency
 
@@ -156,9 +162,9 @@ Where that question is relevant, mechanistic findings can contribute to an APS a
 
 Within APS, Process is closely related to constraint closure.
 
-Constraints shape the possibilities available to biological activity, while organised activities can maintain, modify, or regenerate the constraints upon which continued organisation depends.
+Constraints shape the possibilities available to biological activity, while organised activities can maintain, modify, or regenerate constraints upon which continued organisation depends.
 
-Constraint closure identifies the organisation through which relevant constraints are mutually sustained.
+Constraint closure identifies the organisation through which relevant constraints are mutually sustained within the APS account.
 
 Process draws attention to the fact that such organisation is not static. Its maintenance depends upon continuing activity through which constraints, processes, and material conditions are renewed and reorganised.
 
@@ -166,15 +172,15 @@ The relevant dependency relations must be materially specified rather than infer
 
 ## Process Across Scale
 
-Biological processes operate across different spatial and temporal extents.
+Biological processes occur across different spatial and temporal extents.
 
 Molecular interactions may contribute to physiological organisation. Physiological processes participate in organismal activity. Development unfolds across substantial portions of an organism's lifetime. Ecological relations may alter conditions relevant to persistence, while evolutionary change extends across generations.
 
 APS does not treat these as a hierarchy of independently acting levels.
 
-Process is materially organised across spatial and temporal extents through interactions and constraints that alter the local conditions under which biological activities occur.
+Process can be materially organised across spatial and temporal extents through interactions and constraints that alter the local conditions under which biological activities occur.
 
-This is why Process cannot be separated from Scale within the APS Explanatory Grammar, even though the two remain analytically distinguishable.
+Process and Scale are analytically distinguishable but may be jointly relevant when the explanatory target concerns both how continuity is maintained through change and where the relevant organisation is materially implemented across spatial and temporal extents. Their joint relevance depends on the biological question under investigation rather than on a requirement that both projections be used in every explanation.
 
 ## Process, Adaptation, and Evolution
 
@@ -204,17 +210,17 @@ Structural, compositional, mechanistic, developmental, mathematical, evolutionar
 
 Within APS, Process becomes especially relevant when the explanatory target concerns how living organisation continues, reorganises, or transforms through time.
 
-It therefore belongs to APS's explanatory grammar rather than constituting a mandatory category for biological explanation generally.
+It therefore belongs to the APS analytic architecture without constituting a mandatory category for biological explanation generally.
 
 ## Life and Process
 
-APS treats ongoing activity as indispensable to living organisation.
+APS treats ongoing activity as integral to its account of living organisation.
 
-Living systems cannot persist if the activities through which their organisation is maintained cease irreversibly. Life is therefore not adequately characterised as an unchanging material structure.
+Living systems depend on continuing activities through which their organisation is maintained and re-established. Life is therefore not characterised within APS as an unchanging material structure.
 
 This does not require the stronger claim that life simply **is** process.
 
-APS instead maintains that viability-oriented, constraint-closed organisation is dynamically enacted and maintained through process. Process is therefore indispensable to APS's account of how living organisation persists despite continual change.
+APS instead maintains that viability-oriented, constraint-closed organisation is dynamically enacted and maintained through process. Process is therefore central to the APS analysis of how living organisation persists despite continual change.
 
 ## Summary
 
@@ -225,41 +231,53 @@ It identifies the dynamic organisation through which living systems maintain, re
 Process is:
 
 - organisational rather than merely temporal;
+
 - dynamic rather than static;
+
 - related to viability without being reducible to any particular regulatory activity;
+
 - materially organised across spatial and temporal extents;
+
 - analytically distinguishable from Agency and Scale without existing independently of them.
 
-Within the APS Explanatory Grammar, Process is one of three complementary analytic projections of one viability-oriented, constraint-closed organisation.
+Within the APS analytic architecture, Process is one of three complementary, target-sensitive analytic projections of one viability-oriented, constraint-closed organisation.
 
 ## Key Point
 
-**Process is the dynamic organisation through which continuity is maintained, reorganised, and transformed despite change. Within the APS Explanatory Grammar, it is the analytic projection concerned with how living organisation persists through change.**
+**Process is the dynamic organisation through which continuity is maintained, reorganised, and transformed despite change. Within the APS analytic architecture, Process is the analytic projection concerned with how continuity is maintained despite change.**
 
 ## Related APS Articles
 
 ### Orientation
 
 - [What Is APS?](/orientation/what-is-aps/)
+
 - [Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)
+
 - [APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)
 
 ### Core Framework
 
 - [The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)
+
 - [The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)
+
 - [APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)
 
 ### Process, Persistence, and Temporality
 
 - [Scale, Time, and Persistence](/articles/scale-time-persistence/)
+
 - [Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)
+
 - [Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation](/articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation/)
 
 ### Mechanism and Organisation
 
 - [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/)
+
 - [Reductionism in Biology — An APS Clarification](/articles/reductionism-in-biology-an-aps-clarification/)
+
 - [Emergence — An APS Clarification](/articles/emergence-in-biology-an-aps-clarification/)
 
 ### Clarification Articles

@@ -11,9 +11,8 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-08-27
+revised: 2026-09-03
 cluster: conceptual-foundations
-
 relatedGlossaryTerms:
   - life
   - persistence
@@ -26,7 +25,6 @@ relatedGlossaryTerms:
   - constraint-closure
   - temporal-organisation
   - resilience
-
 relatedArticles:
   - agency-as-the-defining-activity-of-life
   - persistence-organised-continuity-through-time
@@ -47,7 +45,7 @@ APS calls this **organised persistence**.
 
 **Organised persistence is the continuity of living organisation through change.**
 
-The concept identifies a distinctive feature of biological continuity: living systems need not remain materially unchanged in order to persist. Their continuity depends instead upon the maintenance and re-establishment of organisation through the changes occurring within and around them.
+The concept identifies a form of biological continuity in which living organisation can persist despite ongoing change. Living systems need not remain materially unchanged in order to persist. Their continuity depends instead upon the maintenance and re-establishment of organisation through the changes occurring within and around them.
 
 ## Organised Persistence Is Not Life
 
@@ -64,6 +62,7 @@ The distinction matters because a definition of Life and an account of its conti
 The relationship can therefore be stated compactly:
 
 - **Life** — viability-oriented, constraint-closed organisation.
+
 - **Organised persistence** — continuity of living organisation through change.
 
 ## How Is Organised Persistence Maintained?
@@ -86,7 +85,7 @@ APS analyses these relationships through Agency, Process, and Scale.
 
 > **Across what spatial and temporal extents is persistence organised?**
 
-These are complementary analytic projections of one living organisation. They are not components, levels, or independent causes that combine to produce organised persistence.
+These are complementary, target-sensitive analytic projections of one living organisation. They are not components, levels, or independent causes that combine to produce organised persistence.
 
 ## Continuity Through Change
 
@@ -136,17 +135,20 @@ APS instead asks how historical transformation changes the organisation through 
 
 Organised persistence gives APS a precise way of identifying biological continuity without defining Life simply as survival or endurance.
 
-It directs attention to a characteristic feature of living systems: continuity can be maintained despite continual material, functional, developmental, and environmental change.
+It directs attention to a biological continuity problem: how living organisation can remain continuous despite material, functional, developmental, and environmental change.
 
 The concept therefore separates three questions that can otherwise become conflated:
 
-1. **What is Life?**  
+1. **What is Life?**
+
    Viability-oriented, constraint-closed organisation.
 
-2. **What continuity does living organisation exhibit through change?**  
+2. **What continuity does living organisation exhibit through change?**
+
    Organised persistence.
 
-3. **How should that continuity be investigated?**  
+3. **How should that continuity be investigated?**
+
    Through the relevant biological explanations and, within APS, through the analytic projections of Agency, Process, and Scale.
 
 ## Key Point

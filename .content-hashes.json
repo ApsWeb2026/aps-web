@@ -5,8 +5,8 @@
     "lockedSince": "2026-05-22"
   },
   "glossary/biological-agency": {
-    "hash": "a409c87139eb16f3",
-    "revised": "2026-08-20",
+    "hash": "11a211995fd1fc2a",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-29"
   },
   "glossary/function": {
@@ -15,13 +15,13 @@
     "lockedSince": "2026-05-16"
   },
   "glossary/process": {
-    "hash": "5a0b7f7f51afe73f",
-    "revised": "2026-08-20",
+    "hash": "e5560ffd9a8b8e9c",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-22"
   },
   "glossary/scale": {
-    "hash": "dc367f28d504af81",
-    "revised": "2026-08-27",
+    "hash": "65a176581d29b1cb",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-16"
   },
   "orientation/what-is-aps": {
@@ -30,13 +30,13 @@
     "lockedSince": "2026-05-26"
   },
   "glossary/constraint-closure": {
-    "hash": "c2d94573c8d46f08",
-    "revised": "2026-07-28",
+    "hash": "813053c01082b786",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-22"
   },
   "glossary/life": {
-    "hash": "5d8873cdbb3044ae",
-    "revised": "2026-06-15",
+    "hash": "6c052205b4c1fa06",
+    "revised": "2026-09-03",
     "lockedSince": "2026-06-13"
   },
   "glossary/mattering": {
@@ -1200,8 +1200,8 @@
     "lockedSince": "2026-05-29"
   },
   "glossary/organised-persistence": {
-    "hash": "a67de28750e7371e",
-    "revised": "2026-08-27",
+    "hash": "dc8973e4a29293b6",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-27"
   },
   "glossary/organism-environment-coupling": {
@@ -1330,8 +1330,8 @@
     "lockedSince": "2026-05-16"
   },
   "glossary/viability": {
-    "hash": "069a51124655a33f",
-    "revised": "2026-07-28",
+    "hash": "beb0cf1abcb96f2e",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-architecture-map": {
