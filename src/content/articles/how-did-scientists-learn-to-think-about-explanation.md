@@ -10,7 +10,7 @@ revised: 2026-09-03
 cluster: methodology-and-explanation
 role: core
 abstract: >
-  Scientific explanation did not develop through a simple sequence
+  The study of scientific explanation did not develop through a simple sequence
   in which one theory replaced another. This article traces a selective
   history from earlier concerns with cause, law, unification, and
   representation through the covering-law model and the branching
