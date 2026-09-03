@@ -4043,3 +4043,81 @@ references:
     status: verified
     authority: JSTOR
     verifiedDate: 2026-08-24
+- id: lange-2016-because-without-cause
+  type: book
+  authors: Lange, M.
+  year: 2016
+  title: 'Because Without Cause: Non-Causal Explanations in Science and Mathematics'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780190269487.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-09-03
+- id: ross-2025-explanation-biology
+  type: book
+  authors: Ross, L. N.
+  year: 2025
+  title: Explanation in Biology
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009300940
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hodgkin-huxley-1952-quantitative-description-membrane-current
+  type: journal-article
+  authors: Hodgkin, A. L., & Huxley, A. F.
+  year: 1952
+  title: A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve
+  journal: The Journal of Physiology
+  volume: '117'
+  issue: '4'
+  pages: 500–544
+  doi: 10.1113/jphysiol.1952.sp004764
+  verification:
+    status: verified
+    authority: Wiley / The Physiological Society
+    verifiedDate: 2026-09-03
+- id: kitcher-1981-explanatory-unification
+  type: journal-article
+  authors: Kitcher, P.
+  year: 1981
+  title: Explanatory Unification
+  journal: Philosophy of Science
+  volume: '48'
+  issue: '4'
+  pages: 507–531
+  doi: 10.1086/289019
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-03
+- id: darden-2007-mechanisms-models
+  type: book-chapter
+  authors: Darden, L.
+  year: 2007
+  title: Mechanisms and Models
+  book-title: The Cambridge Companion to the Philosophy of Biology
+  editors: Hull, D. L., & Ruse, M.
+  publisher: Cambridge University Press
+  pages: 139–159
+  doi: 10.1017/CCOL9780521851282.008
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hardy-1908-mendelian-proportions
+  type: journal-article
+  authors: Hardy, G. H.
+  year: 1908
+  title: Mendelian Proportions in a Mixed Population
+  journal: Science
+  volume: '28'
+  issue: '706'
+  pages: 49–50
+  doi: 10.1126/science.28.706.49
+  verification:
+    status: verified
+    authority: Science / PubMed
+    verifiedDate: 2026-09-03

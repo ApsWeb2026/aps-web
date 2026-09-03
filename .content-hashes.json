@@ -1928,5 +1928,15 @@
     "hash": "364c3288bdea8129",
     "revised": "2026-08-27",
     "lockedSince": "2026-08-27"
+  },
+  "articles/what-is-a-scientific-explanation": {
+    "hash": "f2e298a7bb5c3dbe",
+    "revised": "2026-09-03",
+    "lockedSince": "2026-09-03"
+  },
+  "glossary/explanandum": {
+    "hash": "874dbb481dc819b7",
+    "revised": "2026-09-03",
+    "lockedSince": "2026-09-03"
   }
 }
