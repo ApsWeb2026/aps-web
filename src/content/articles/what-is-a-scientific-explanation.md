@@ -46,7 +46,7 @@ references:
   - hardy-1908-mendelian-proportions
 ---
 
-> **Where This Article Fits**
+**Where This Article Fits**
 
 *This article is the first in a ten-part Methodology and Explanation series examining how scientific explanations are constructed, assessed, compared, and tested. The sequence begins with the nature of scientific explanation, then moves through its historical development, standards of explanatory success and failure, comparison and explanatory gain, the assessment of contemporary explanatory frameworks, and practical methods for constructing and testing explanations.*
 
@@ -266,13 +266,13 @@ Explanatory adequacy must be assessed in relation to what is being explained and
 
 This article does not provide a final necessary-and-sufficient definition of scientific explanation.
 
-It does not claim that every explanation is causal.
+- It does not claim that every explanation is causal.
 
-It does not claim that every explanation is mechanistic.
+- It does not claim that every explanation is mechanistic.
 
-It does not claim that mathematical, unificatory, contrastive, or understanding-oriented explanations can all be assessed by one universal criterion.
+- It does not claim that mathematical, unificatory, contrastive, or understanding-oriented explanations can all be assessed by one universal criterion.
 
-And explanatory plurality does not imply that all purported explanations are equally adequate.
+- And explanatory plurality does not imply that all purported explanations are equally adequate.
 
 The next task is to understand why these different conceptions of explanation arose and how the modern debate acquired its present plural form.
 
@@ -280,4 +280,4 @@ The next task is to understand why these different conceptions of explanation ar
 
 **Glossary:** scientific explanation; explanandum; explanatory target; prediction; model; understanding.
 
-**Next:** PA-02 — *How Did Scientists Learn to Think About Explanation?* examines how the modern debate about scientific explanation developed historically.
+**Next:** 2 — *How Did Scientists Learn to Think About Explanation?* examines how the modern debate about scientific explanation developed historically.

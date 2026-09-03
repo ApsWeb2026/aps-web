@@ -44,7 +44,7 @@ references:
   - ross-2025-explanation-biology
 ---
 
-> **Where This Article Fits**
+**Where This Article Fits**
 
 *This article is the second in the Methodology and Explanation sequence. First, was What Is a Scientific Explanation? which introduced scientific explanation as target-sensitive and plural in practice. It distinguished different explanatory questions and showed why explanations cannot be compared fairly without first specifying what is being explained.*
 
@@ -54,11 +54,11 @@ references:
 
 *That question belongs to the next article: What Makes an Explanation Successful? The sequence is therefore:*
 
-- 1 — What is scientific explanation?
+> 1 — What is scientific explanation?
 
-- 2 — How did explanatory plurality arise?
+> 2 — How did explanatory plurality arise?
 
-- 3 — What makes an explanation successful?
+> 3 — What makes an explanation successful?
 
 ## How Did Scientists Learn to Think About Explanation?
 
@@ -219,8 +219,8 @@ And it does not assume that historical persistence, philosophical influence or w
 
 Related glossary terms include **biological explanation**, **explanation**, **explanandum**, **explanatory target**, and **mechanism**.
 
-- 1 established that scientific explanation can take different forms and that explanatory comparison requires attention to what is being explained.
+> 1 established that scientific explanation can take different forms and that explanatory comparison requires attention to what is being explained.
 
-- 2 has shown how that plurality emerged historically.
+> 2 has shown how that plurality emerged historically.
 
 **Next: 3 — What Makes an Explanation Successful?** turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.
