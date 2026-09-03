@@ -1335,8 +1335,8 @@
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-architecture-map": {
-    "hash": "e24a9e94a530b2e3",
-    "revised": "2026-09-02",
+    "hash": "4d8cec38121c9cc5",
+    "revised": "2026-09-03",
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-challenges-limitations-and-future-directions": {
@@ -1940,7 +1940,12 @@
     "lockedSince": "2026-09-03"
   },
   "articles/how-did-scientists-learn-to-think-about-explanation": {
-    "hash": "0b02f7034ebd7c7b",
+    "hash": "241baa90852b2679",
+    "revised": "2026-09-04",
+    "lockedSince": "2026-09-03"
+  },
+  "articles/what-makes-an-explanation-successful": {
+    "hash": "08670d0f62347c1f",
     "revised": "2026-09-03",
     "lockedSince": "2026-09-03"
   }

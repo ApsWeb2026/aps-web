@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-03
-revised: 2026-09-03
+revised: 2026-09-04
 cluster: methodology-and-explanation
 role: core
 abstract: >

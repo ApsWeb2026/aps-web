@@ -4132,3 +4132,31 @@ references:
     status: verified
     authority: JSTOR / University of Pittsburgh Press
     verifiedDate: 2026-09-03
+- id: nakajima-et-al-2005-reconstitution-circadian-oscillation
+  type: journal-article
+  authors: Nakajima, M.; Imai, K.; Ito, H.; Nishiwaki, T.; Murayama, Y.; Iwasaki, H.; Oyama, T.; Kondo, T.
+  year: 2005
+  title: Reconstitution of Circadian Oscillation of Cyanobacterial KaiC Phosphorylation in Vitro
+  journal: Science
+  volume: '308'
+  issue: '5720'
+  pages: 414–415
+  doi: 10.1126/science.1108451
+  verification:
+    status: verified
+    authority: Science / PubMed
+    verifiedDate: 2026-09-03
+- id: trivers-willard-1973-natural-selection-parental-ability
+  type: journal-article
+  authors: Trivers, R. L.; Willard, D. E.
+  year: 1973
+  title: Natural Selection of Parental Ability to Vary the Sex Ratio of Offspring
+  journal: Science
+  volume: '179'
+  issue: '4068'
+  pages: 90–92
+  doi: 10.1126/science.179.4068.90
+  verification:
+    status: verified
+    authority: Science
+    verifiedDate: 2026-09-03
