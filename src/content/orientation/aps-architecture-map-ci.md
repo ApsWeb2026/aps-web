@@ -76,22 +76,16 @@ APS is therefore organised not as a collection of isolated topics, but as an int
 
 ## The Explanatory Centre of APS
 
-<<div class="aps-diagram">
-
+<div class="aps-diagram">
 <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
-  <img
-    src="/assets/diagrams/explanatory-structure.png"
-    alt="APS explanatory structure showing Agency, Process, and Scale as complementary analytic projections of living organisation, with organised persistence as a principal APS explanatory target"
-    loading="lazy"
-  />
+<img
+src="/assets/diagrams/explanatory-structure.png"
+alt="APS explanatory structure showing Agency, Process, and Scale as complementary analytic projections of living organisation"
+loading="lazy"
+/>
 </a>
-
+<p class="aps-diagram-caption"><strong>APS Explanatory Structure.</strong> Agency, Process, and Scale provide complementary analytic projections of one viability-oriented, constraint-closed living organisation. They distinguish explanatory questions without dividing biological reality into separate components or hierarchical levels.</p>
 </div>
-
-<p class="aps-diagram-caption">
-  <strong>APS Explanatory Structure.</strong>
-  Agency, Process, and Scale provide complementary analytic projections of one viability-oriented, constraint-closed living organisation. They distinguish explanatory questions without dividing biological reality into separate components or hierarchical levels.
-</p>
 
 *Figure: The core analytic structure of APS. Agency, Process, and Scale are complementary, target-sensitive analytic projections of the same living organisation. They distinguish different explanatory questions without dividing biological reality into components, levels, stages, or independent causes.*
 
