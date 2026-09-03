@@ -214,14 +214,14 @@ This article is a selective intellectual map, not an exhaustive history of scien
 
 - It does not establish that explanatory plurality makes comparison impossible.
 
-And it does not assume that historical persistence, philosophical influence or widespread use is sufficient evidence that an explanatory approach succeeds on a particular scientific target.
+- And it does not assume that historical persistence, philosophical influence or widespread use is sufficient evidence that an explanatory approach succeeds on a particular scientific target.
 
 ## Related Terms and Next Step
 
 Related glossary terms include **biological explanation**, **explanation**, **explanandum**, **explanatory target**, and **mechanism**.
 
-> 1 established that scientific explanation can take different forms and that explanatory comparison requires attention to what is being explained.
+1. Established that scientific explanation can take different forms and that explanatory comparison requires attention to what is being explained.
 
-> 2 has shown how that plurality emerged historically.
+2. Has shown how that plurality emerged historically.
 
-**Next: 3 — What Makes an Explanation Successful?** turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.
+**3. Next — investigates What Makes an Explanation Successful?** - it turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.
