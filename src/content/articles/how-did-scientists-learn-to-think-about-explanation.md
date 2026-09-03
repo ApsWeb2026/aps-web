@@ -54,9 +54,11 @@ references:
 
 *That question belongs to the next article: What Makes an Explanation Successful? The sequence is therefore:*
 
-1 — What is scientific explanation?
-2 — How did explanatory plurality arise?
-3 — What makes an explanation successful?
+- 1 — What is scientific explanation?
+
+- 2 — How did explanatory plurality arise?
+
+- 3 — What makes an explanation successful?
 
 ## How Did Scientists Learn to Think About Explanation?
 
@@ -205,11 +207,11 @@ For contemporary science, that history helps explain why different explanatory q
 
 This article is a selective intellectual map, not an exhaustive history of scientific explanation or philosophy of science.
 
-It does not claim direct continuity between earlier thinkers and modern positions.
+- It does not claim direct continuity between earlier thinkers and modern positions.
 
-It does not establish that the traditions surveyed are exhaustive, mutually exclusive or equally successful.
+- It does not establish that the traditions surveyed are exhaustive, mutually exclusive or equally successful.
 
-It does not establish that explanatory plurality makes comparison impossible.
+- It does not establish that explanatory plurality makes comparison impossible.
 
 And it does not assume that historical persistence, philosophical influence or widespread use is sufficient evidence that an explanatory approach succeeds on a particular scientific target.
 
@@ -217,8 +219,8 @@ And it does not assume that historical persistence, philosophical influence or w
 
 Related glossary terms include **biological explanation**, **explanation**, **explanandum**, **explanatory target**, and **mechanism**.
 
-PA-01 established that scientific explanation can take different forms and that explanatory comparison requires attention to what is being explained.
+- 1 established that scientific explanation can take different forms and that explanatory comparison requires attention to what is being explained.
 
-PA-02 has shown how that plurality emerged historically.
+- 2 has shown how that plurality emerged historically.
 
-**Next: PA-03 — What Makes an Explanation Successful?** turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.
+**Next: 3 — What Makes an Explanation Successful?** turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.
