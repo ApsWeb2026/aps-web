@@ -42,6 +42,7 @@ references:
   - lange-2016-because-without-cause
   - de-regt-2017-understanding-scientific-understanding
   - ross-2025-explanation-biology
+  
 ---
 
 **Where This Article Fits**
@@ -54,11 +55,11 @@ references:
 
 *That question belongs to the next article: What Makes an Explanation Successful? The sequence is therefore:*
 
-> 1 — What is scientific explanation?
+1 — What is scientific explanation?
 
-> 2 — How did explanatory plurality arise?
+2 — How did explanatory plurality arise?
 
-> 3 — What makes an explanation successful?
+3 — What makes an explanation successful?
 
 ## How Did Scientists Learn to Think About Explanation?
 
