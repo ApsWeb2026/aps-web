@@ -4121,3 +4121,14 @@ references:
     status: verified
     authority: Science / PubMed
     verifiedDate: 2026-09-03
+- id: salmon-1990-four-decades-scientific-explanation
+  type: book
+  authors: Salmon, W. C.
+  year: 1990
+  title: Four Decades of Scientific Explanation
+  publisher: University of Pittsburgh Press
+  doi: 10.2307/j.ctt5vkdm7
+  verification:
+    status: verified
+    authority: JSTOR / University of Pittsburgh Press
+    verifiedDate: 2026-09-03

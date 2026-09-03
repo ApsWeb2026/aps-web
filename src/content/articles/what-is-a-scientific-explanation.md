@@ -46,7 +46,18 @@ references:
   - hardy-1908-mendelian-proportions
 ---
 
-# What Is a Scientific Explanation?
+> **Where This Article Fits**
+
+*This article is the first in a ten-part Methodology and Explanation series examining how scientific explanations are constructed, assessed, compared, and tested. The sequence begins with the nature of scientific explanation, then moves through its historical development, standards of explanatory success and failure, comparison and explanatory gain, the assessment of contemporary explanatory frameworks, and practical methods for constructing and testing explanations.*
+
+*The series is developed independently of APS. Its purpose is not to derive standards of scientific explanation from the APS framework, but to establish a broader methodological basis from which APS and other explanatory approaches can subsequently be examined. This separation is important: a framework should not establish its own adequacy merely by defining the standards against which it is assessed.*
+
+*As the opening article, What Is a Scientific Explanation? establishes the starting point for the sequence. It introduces the explanandum and explanatory target, distinguishes explanation from neighbouring scientific achievements such as description, prediction, and model fit, and shows why scientific explanation can legitimately take more than one form. Its central principle is that explanatory adequacy cannot be assessed until we know what is being explained and what explanatory work an account is intended to perform.*
+
+*The next article, How Did Scientists Learn to Think About Explanation?, asks how the major approaches to scientific explanation developed historically and why contemporary science inherited a plural rather than a single model of explanation.*
+
+
+## What Is a Scientific Explanation?
 
 Explanation begins with a question:
 
