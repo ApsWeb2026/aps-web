@@ -1,24 +1,25 @@
 ---
-title: Conceptual Closure and the APS Glossary
+title: Conceptual Organisation and the APS Glossary
 slug: conceptual-closure-and-the-aps-glossary
 type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
 date: 2026-05-03
-revised: 2026-05-03
+revised: 2026-09-03
 cluster: methodology-and-explanation
 ---
 
-APS treats its core concepts as forming a system of mutually constraining definitions rather than a collection of independent terms. This principle—conceptual closure—ensures that explanatory meaning is stabilised across the framework.
+APS treats its core concepts as systematically related rather than as a collection of independent terms. Changes to one canonical definition can therefore affect how other concepts and relationships within the framework are interpreted.
 
-The APS glossary is the concrete realisation of this principle. It specifies the minimal set of interdependent concepts required to define biological organisation and regulate explanation within the framework.
+The APS glossary provides conceptual infrastructure for maintaining these definitions and relationships. It stabilises terminology, records canonical formulations, preserves important distinctions, and makes the consequences of conceptual revision easier to identify across the framework.
 
-This establishes a strict relation between principle and structure:
+This establishes a practical relation between conceptual organisation and glossary structure:
 
-- **Conceptual closure (principle):** explains why definitions must form an organised system  
-- **Glossary structure (implementation):** specifies how that system is realised in APS  
+- **Conceptual organisation:** identifies and maintains relevant relationships among APS concepts.
 
-The glossary is therefore not an auxiliary reference but the operational core of the framework. Its organisation both reflects and enforces the conceptual closure on which APS depends.
+- **Glossary structure:** provides a controlled implementation through which those concepts and relationships can be recorded, compared, and revised.
 
-For the general rationale underlying conceptual closure, see *APS as an Organised Conceptual System — Why Definitions Form a System*.
+The glossary is therefore more than an auxiliary reference resource, but its organisation does not itself establish biological dependencies or explanatory claims. Those claims retain their own evidential and comparative burdens.
+
+For the broader APS account of organised conceptual relationships, see *APS as an Organised Conceptual System — Why Definitions Form a System*.

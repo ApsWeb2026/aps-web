@@ -6,10 +6,16 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-07-17
+revised: 2026-09-03
 cluster: methodology-and-explanation
 abstract: >
-  This article explains how the APS glossary functions as conceptual infrastructure. It examines how canonical definitions, conceptual stabilisation, dependency pathways, and explanatory grammar support the construction, coherence, and development of the framework.
+  This article explains how the APS glossary functions as conceptual
+  infrastructure. Canonical definitions, controlled terminology, documented
+  conceptual relationships, and explicit revision procedures help maintain
+  consistency across the APS corpus. This infrastructure supports pathway
+  specification, explanatory practice, and domain-specific development without
+  itself establishing biological dependencies, explanatory claims, or
+  comparative explanatory gain.
 relatedGlossaryTerms:
   - biological-organisation
   - constraint-closure
@@ -25,131 +31,134 @@ relatedArticles:
   - what-is-aps
 ---
 
-> **Where This Article Fits** This article explains how the APS glossary functions as conceptual infrastructure within the APS framework. APS depends upon stable concepts, controlled terminology, and coherent explanatory relationships. The glossary therefore serves a role that extends beyond definition. It provides the conceptual conditions required for dependency pathways, explanatory grammar, and cumulative theoretical development. The APS glossary is not simply a reference resource. It is part of the infrastructure through which APS explanations are constructed, connected, evaluated, and extended. This article examines how that infrastructure is organised and maintained. For the general rationale underlying this approach, see *APS as an Organised Conceptual System — Why Definitions Form a System*.
+> **Where This Article Fits**
+>
+> This article explains how the APS glossary functions as conceptual infrastructure within the APS framework. APS uses canonical definitions, controlled terminology, documented conceptual relationships, and explicit revision procedures to maintain consistency across its corpus. The glossary therefore serves a role that extends beyond providing isolated definitions. It supports consistent pathway specification, explanatory practice, and domain-specific development without itself establishing biological dependencies or explanatory claims. For the broader APS account of organised conceptual relationships, see *APS as an Organised Conceptual System — Why Definitions Form a System*.
 
 ## Conceptual Infrastructure
 
-Scientific frameworks require more than observations, theories, and explanations. They also require a stable conceptual foundation through which explanations can be constructed, communicated, evaluated, and refined.
+A framework containing many related concepts requires ways of maintaining their meanings and distinctions across different contexts.
 
-Without such stability, key terms can shift in meaning across contexts, explanatory claims can become difficult to compare, and theoretical development can lose coherence over time.
+Without such controls, key terms can shift in meaning between articles, diagrams, glossary entries, and research programmes. Claims that appear to use the same concepts can then become difficult to compare, and revisions to one concept can produce unnoticed consequences elsewhere.
 
-APS addresses this challenge through a structured conceptual infrastructure centred on its glossary. The glossary does not merely define terminology. It provides the conceptual conditions under which explanation within the framework becomes possible.
+APS addresses this problem through a structured conceptual infrastructure centred on its glossary.
 
-For this reason, APS treats definitions as components of an organised explanatory architecture rather than as independent descriptions. Concepts are stabilised through their relationships to one another and through their roles within the broader framework.
+The glossary does more than provide short definitions. It records canonical formulations, preserves important distinctions, documents relationships among concepts, and provides stable reference points against which later revisions can be assessed.
 
-The APS glossary therefore functions as conceptual infrastructure. It supports the development of dependency pathways, explanatory grammar, domain architectures, and cumulative theoretical development across the framework.
+APS therefore treats glossary entries as systematically related rather than as independent descriptions. This does not mean that every conceptual relationship is a biological dependency or that conceptual coherence establishes explanatory success. It means that changes to one canonical formulation can affect the interpretation of other parts of the framework.
 
-This article explains how that infrastructure is organised, maintained, and extended.
+The glossary functions as infrastructure because it helps make those relationships explicit and manageable across the APS corpus.
 
 [[box:conceptual-closure-and-the-aps-glossary]]
 
-## Why Scientific Frameworks Need Infrastructure
+## Why Scientific Frameworks Need Conceptual Infrastructure
 
-Scientific explanation depends upon more than empirical observation. It also depends upon the concepts through which observations are interpreted and connected.
+Scientific inquiry depends upon clear and sufficiently stable concepts as well as empirical observations, models, theories, and explanations.
 
-Many scientific disciplines possess stable conceptual infrastructures that allow researchers to communicate findings, compare explanations, and accumulate knowledge over time. Although these infrastructures are not always discussed explicitly, they play an essential role in maintaining coherence.
+Terminological stability supports communication, comparison, criticism, and cumulative investigation. When the same term changes meaning without explicit control, apparent agreements or disagreements can become difficult to interpret.
 
-Biology already provides a clear example of scientific infrastructure through its internationally maintained systems of nomenclature. Stable nomenclatural codes allow organisms to be identified consistently across cultures, languages, and generations, thereby supporting cumulative scientific communication. Although nomenclature concerns the naming of biological entities rather than their explanation, it illustrates a broader methodological principle: mature sciences depend upon stable organisational frameworks that preserve continuity while allowing knowledge to develop. APS applies this same principle at the conceptual level. Rather than stabilising names, the glossary stabilises explanatory concepts and their relationships, providing the conceptual infrastructure required for coherent biological explanation.
+Biology provides a useful but limited analogy through internationally maintained systems of nomenclature. Stable nomenclatural practices allow biological entities to be identified consistently across languages, communities, and generations. Nomenclature concerns naming rather than explanation, so the analogy should not be taken further than this: controlled terminology can support continuity in scientific communication while remaining open to governed revision.
 
-APS makes this requirement explicit.
+APS applies that general organisational lesson to its own conceptual corpus.
 
-The framework treats conceptual organisation as an important component of explanation rather than merely a background condition. Definitions are stabilised, relationships among concepts are examined, and conceptual changes are evaluated in relation to their wider consequences.
+The glossary stabilises APS terminology and records relationships among APS concepts. Definitions can be compared across articles, conceptual changes can be tracked, and revisions can be assessed for their consequences elsewhere in the framework.
 
-This approach does not replace empirical investigation. Rather, it provides the conceptual organisation through which empirical findings can be incorporated into a coherent explanatory framework.
+This conceptual organisation does not replace empirical investigation or theoretical analysis. Nor does it establish the biological claims in which APS concepts are used.
 
-The glossary therefore serves not only as a repository of definitions but also as a mechanism for maintaining conceptual continuity across the APS corpus.
+The glossary is therefore a means of maintaining conceptual continuity across APS rather than a mechanism that generates biological explanation.
 
 ## Conceptual Infrastructure and Biological Explanation
 
-APS is organised around the goal of rendering life scientifically intelligible through a coherent explanatory framework.
+APS seeks to clarify the organisation that makes biological persistence and transformation intelligible.
 
-Achieving this goal requires more than individual concepts. It requires a stable system through which concepts can be connected into explanations and explanatory architectures.
+Doing so requires concepts whose meanings remain sufficiently controlled for claims using them to be interpreted and compared.
 
-The glossary contributes to this task by stabilising the meanings of core concepts and clarifying the relationships among them. In doing so, it helps provide the conceptual foundation upon which biological explanation can be constructed.
+The glossary contributes to this task by stabilising canonical formulations and clarifying distinctions among related concepts. A claim involving Life, Biological Agency, Process, Scale, Viability, Constraint Closure, or Organised Persistence can be assessed more clearly when those terms do not shift meaning from one context to another.
 
-Conceptual infrastructure therefore supports explanation without itself being explanation. Its role is not to replace empirical inquiry or theoretical investigation, but to make coherent inquiry and investigation possible.
+Conceptual infrastructure therefore **supports explanation without itself being explanation**.
 
-## Conceptual Infrastructure and Dependency Pathways
+A canonical definition does not establish that a biological system instantiates the defined organisation. A documented conceptual relationship does not establish a material dependency. And consistency among APS concepts does not demonstrate comparative explanatory gain.
 
-APS increasingly employs dependency pathways to clarify relationships among concepts and to organise biological explanation.
+Those conclusions require evidence, argument, and comparison appropriate to the explanandum.
+
+The glossary's narrower role is to help ensure that APS claims can be stated and interpreted consistently enough for those further assessments to occur.
+
+## Conceptual Infrastructure and APS Pathway Relations
+
+APS uses pathways to display proposed relationships among concepts.
 
 Examples include:
 
-Life  
-↓  
-Agency
-
-Life  
-↓  
-Agency  
-↓  
-Biological Evaluation  
-↓  
-Significance
+**Life → Agency**
 
 and:
 
-Significance  
-↓  
-Values  
-↓  
-Shared Evaluation  
-↓  
-Social Norms  
-↓  
-Social Organisation
+**Life → Agency → Biological Evaluation → Significance**
 
-These pathways do not represent temporal sequences, causal chains, developmental stages, or hierarchical levels. Rather, they identify relationships of explanatory dependence among concepts within the framework.
+and:
 
-Such relationships can only be articulated if the concepts involved possess sufficiently stable meanings. If the meanings of Life, Agency, Significance, Values, or Social Norms vary across contexts, dependency claims become ambiguous and explanatory architectures become difficult to evaluate.
+**Significance → Values → Shared Evaluation → Social Norms → Social Organisation**
 
-The glossary therefore plays a foundational role in pathway-based explanation. By stabilising concepts and clarifying their relationships, it provides the conceptual conditions under which dependency pathways can be constructed, compared, challenged, and refined.
+These pathways should not be read as temporal sequences, causal chains, developmental stages, hierarchical levels, or automatically established dependencies.
 
-Dependency pathways are not separate from the glossary. They are built upon the conceptual infrastructure that the glossary provides and identify relationships of explanatory organisation rather than causal production, temporal sequence, or logical implication.
+Following the APS account of Architectural Dependency, each arrow records a proposed dependency relation whose relata, relation type, material or argumentative basis, evidence, scope, alternatives, and failure conditions require separate assessment.
 
-In this respect, the glossary contributes not only to the definition of concepts but also to the organisation of explanation across the APS framework.
+The glossary has an important but limited role in that assessment.
+
+Before asking whether a proposed dependency is biologically supported, it must be reasonably clear what the concepts at either end of the arrow mean. If Life, Agency, Significance, Values, or Social Norms change meaning between uses, the dependency claim itself becomes difficult to specify.
+
+Stable definitions therefore help make pathway claims explicit and comparable.
+
+They do not establish those claims.
+
+A conceptual relationship recorded within APS may explain why the framework places two concepts in relation. Whether a corresponding biological dependency exists is a separate question. Where explanatory gain is claimed, comparison with the strongest relevant established explanation is required as a further step.
 
 **Key Point**
 
-Conceptual infrastructure makes dependency pathways possible.
+Conceptual infrastructure helps APS pathway claims to be specified consistently and assessed explicitly. It does not turn pathway arrows into evidence.
 
-## Conceptual Infrastructure and Explanatory Grammar
+## Conceptual Infrastructure and Explanatory Practice
 
-Stable concepts and dependency pathways are necessary for coherent explanation, but they are not sufficient on their own. Explanations also require principles governing how concepts may be connected, interpreted, and organised.
+Stable definitions are only one part of maintaining consistency across a framework.
 
-APS refers to this broader organisation as explanatory grammar.
-
-Explanatory grammar is not a set of grammatical rules in the linguistic sense. Rather, it is the structured organisation of concepts, relationships, distinctions, and dependency claims through which explanations are constructed within the framework.
-
-The glossary contributes directly to this organisation. By stabilising definitions, clarifying conceptual relationships, and preserving distinctions among concepts, it helps regulate how explanations can be formulated and evaluated.
+APS also relies upon controlled distinctions among concepts and claim types. These distinctions help prevent different questions from being collapsed into one another.
 
 For example, APS distinguishes between:
 
-- conceptual dependence and architectural dependence;
-- explanatory dependence and causation;
+- conceptual relationships and material biological dependencies;
+- dependency and causation;
 - organisation and structure;
 - persistence and continuity;
 - significance and information;
 - morality and ethics.
 
-These distinctions are not merely terminological. They help determine how explanatory claims are interpreted and how concepts may be related within theoretical accounts.
+These distinctions are not merely matters of preferred vocabulary. They affect what a claim means, what evidence would be relevant to it, and what conclusions can legitimately follow.
 
-The glossary therefore performs an explanatory function as well as a definitional one. It provides part of the conceptual organisation through which APS explanations become coherent, comparable, and cumulative.
+The glossary contributes to APS explanatory practice by recording and stabilising such distinctions.
 
-In this respect, conceptual infrastructure supports explanatory grammar in much the same way that biological organisation supports biological activity. It establishes conditions under which explanatory practice can occur without determining the specific content of every explanation.
+This does not give the glossary an independent explanatory function. Rather, it helps maintain conceptual consistency when explanations are formulated, compared, criticised, and revised.
+
+Explanatory adequacy remains a property to be assessed in relation to particular explananda, evidence, alternatives, and established explanations.
 
 **Key Point**
 
-The glossary helps stabilise the explanatory grammar through which APS explanations are constructed, connected, and evaluated.
+The glossary supports APS explanatory practice by maintaining controlled concepts and distinctions; it does not supply a general explanatory grammar.
 
-## Infrastructure, Sufficiency, and Minimality
+## Infrastructure, Scope, and Conceptual Economy
 
-A conceptual infrastructure capable of supporting coherent explanation must satisfy two conditions:
+A useful glossary should be sufficiently comprehensive for its intended role without expanding whenever a new expression appears in the corpus.
 
-- **Sufficiency**: it contains enough concepts to define biological organisation, articulate normativity, distinguish living from non-living systems, and support explanation across scales  
-- **Minimality**: it excludes redundant, loosely related, or non-structural terms  
+APS therefore treats glossary development as a controlled editorial and conceptual process.
 
-These conditions impose a strict discipline. If a concept can be removed without loss of explanatory capacity, it does not belong in the core glossary.
+A concept may warrant canonical glossary status when it has a distinct APS usage, recurs across relevant parts of the corpus, requires a stable reference formulation, or needs to be distinguished explicitly from neighbouring concepts.
+
+Conversely, a separate glossary entry may be unnecessary when an existing canonical concept already performs the required role or when a proposed term adds no sufficiently distinct conceptual function.
+
+These considerations concern **scope and conceptual economy**.
+
+They do not establish that the current glossary is formally minimal, that it contains every concept required for biological explanation, or that removal of any particular term would necessarily reduce explanatory capacity.
+
+The appropriate question is narrower: does the concept have a sufficiently clear and distinct role within the APS corpus to justify controlled canonical treatment?
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/glossary-as-conceptual-infrastructure.png" target="_blank" rel="noopener">
@@ -159,32 +168,31 @@ These conditions impose a strict discipline. If a concept can be removed without
       loading="lazy"
     />
   </a>
-
   <p class="aps-diagram-caption">
     <strong>The APS Glossary as Conceptual Infrastructure.</strong>
-    The glossary stabilises concepts and conceptual relationships across the APS framework. This conceptual infrastructure supports dependency pathways and explanatory grammar, enabling coherent biological explanation and the development of multiple APS domains.
+    The glossary maintains canonical concepts, distinctions, and conceptual relationships across APS. This infrastructure supports consistency in pathway specification, explanatory practice, and domain-specific APS programmes without itself establishing biological dependencies or explanatory claims.
   </p>
 </div>
 
 ## Organising the APS Glossary
 
-The APS glossary is not organised as a simple list of independent terms. Its concepts occupy different roles within the broader explanatory architecture of the framework.
+The APS glossary is not organised as a simple list of independent terms.
 
-Some concepts establish the foundational commitments through which APS defines life and biological explanation. Others organise explanatory relationships among concepts. Still others support the development of specific domains such as cognition, social organisation, morality, environmental responsibility, and biological individuality.
+Its concepts perform different roles within the conceptual organisation of the framework. Some recur across APS's account of living organisation. Others help describe conceptual and methodological relationships. Still others are used principally within more specialised domain programmes.
 
-The glossary therefore reflects the organisation of the framework itself.
+These are organisational distinctions within the APS corpus. They do not establish different biological levels, degrees of reality, or explanatory priority.
 
-Although particular concepts may evolve as APS develops, the glossary can be understood as comprising three broad forms of conceptual organisation:
+For practical purposes, the glossary can therefore be considered in three broad groupings:
 
 - core concepts;
 - architectural concepts;
 - domain concepts.
 
+The boundaries among these groupings need not be absolute. Their purpose is to clarify how concepts are used within APS rather than to impose a hierarchy upon them.
+
 ## Core Concepts
 
-Core concepts establish the foundational explanatory commitments of APS.
-
-These concepts define the primary explanatory orientation of the framework and provide the basis from which many other concepts derive their significance. Together, these concepts support APS's account of organised persistence and the explanatory architectures developed from it.
+Core concepts express recurring canonical commitments used across multiple APS articles and domains.
 
 Examples include:
 
@@ -196,15 +204,17 @@ Examples include:
 - Significance
 - Organised Persistence
 
-These concepts are not isolated primitives. They participate in a network of conceptual and explanatory relationships that collectively support the framework's account of living organisation.
+These concepts do not all perform the same role.
+
+Life identifies APS's canonical formulation of living organisation. Agency, Process, and Scale are complementary, target-sensitive analytic projections of that organisation. Organised Persistence identifies continuity of living organisation through change. Biological Evaluation and Significance occur in APS's account of how viability-relative differences acquire organisational significance.
+
+Their inclusion here records their recurring roles within the APS corpus. It does not re-adjudicate their scientific status or establish dependency relations among them.
+
+Core concepts are therefore not isolated primitives or members of a hierarchy. They participate in documented conceptual relationships whose interpretation depends upon the particular question and context in which they are used.
 
 ## Architectural Concepts
 
-Architectural concepts help organise explanation within APS.
-
-Their role is not primarily to define particular biological phenomena but to clarify how concepts, explanations, and dependency relationships are organised throughout the framework.
-
-This emphasis on conceptual stability should not be understood as resistance to scientific development. Biological nomenclature demonstrates that long-term scientific progress depends upon balancing continuity with carefully governed revision. APS adopts the same general principle for explanatory concepts. Canonical definitions provide sufficient stability for cumulative explanation while remaining open to explicit revision when conceptual development requires it.
+Architectural concepts help APS describe and organise relationships among concepts, claims, and methods.
 
 Examples include:
 
@@ -215,13 +225,19 @@ Examples include:
 - Normativity
 - Architectural Dependency
 
-These concepts contribute to the explanatory architecture through which APS constructs, evaluates, and relates explanations across different domains.
+These concepts differ substantially in biological and methodological role. Their grouping here is therefore organisational rather than ontological.
+
+Some, such as Constraint Closure, participate directly in APS's account of living organisation. Others, such as Architectural Dependency, concern how APS pathway claims are represented and assessed.
+
+Canonical definitions provide stable reference points for these different uses while remaining open to explicit revision when required.
+
+The nomenclature analogy remains limited here as elsewhere. Controlled revision can preserve continuity of terminology, but terminological stability does not establish the scientific adequacy of the claims expressed through those terms.
+
+Architectural concepts therefore help make APS relationships and methodological distinctions explicit. Their presence in the glossary does not itself validate those relationships.
 
 ## Domain Concepts
 
-Domain concepts extend APS into particular areas of investigation.
-
-They draw upon the framework's core and architectural concepts while supporting more specialised explanatory programmes.
+Domain concepts are used in more specialised APS programmes.
 
 Examples include concepts associated with:
 
@@ -231,9 +247,11 @@ Examples include concepts associated with:
 - Environmental Responsibility
 - Biological Individuality
 
-These concepts enable APS to address increasingly complex domains without abandoning its underlying conceptual commitments.
+These concepts draw upon other parts of the APS vocabulary while addressing questions specific to their domains.
 
-As the framework develops, domain concepts may expand more rapidly than core concepts. Their inclusion therefore requires careful integration with the broader conceptual architecture.
+Their inclusion in this classification does not imply that domain concepts are later stages, higher levels, or less fundamental forms of biological reality. Nor does it imply that the relevant domain claims follow automatically from the core glossary.
+
+As APS develops, domain vocabularies may change more rapidly than heavily reused canonical terms. Their integration therefore requires attention to existing definitions, distinctions, and documented conceptual relationships.
 
 ## Conceptual Organisation Rather Than Hierarchy
 
@@ -241,35 +259,45 @@ These groupings should not be interpreted as levels, hierarchies, or stages of e
 
 They identify different conceptual roles within the framework rather than different degrees of importance.
 
-Core concepts, architectural concepts, and domain concepts remain interconnected. Concepts from each grouping participate in dependency pathways, explanatory architectures, and theoretical development throughout APS.
+Core concepts, architectural concepts, and domain concepts remain interconnected through their use across APS articles, pathways, diagrams, and research programmes.
 
-The purpose of this classification is therefore organisational rather than hierarchical.
+Those connections may be definitional, conceptual, methodological, or, where separately supported, biological. They should not all be treated as one undifferentiated kind of dependency.
+
+The purpose of the classification is therefore organisational rather than hierarchical.
 
 ## Conditions of Inclusion
 
-Maintaining a constraint-closed glossary requires explicit criteria:
+Canonical glossary status requires explicit editorial and conceptual justification.
 
-- a concept must be defined through other concepts in the system  
-- it must contribute to the explanation of at least one other concept  
-- it must introduce a distinct, non-redundant conceptual role  
+A candidate concept should normally satisfy considerations such as:
 
-A concept that lacks dependency is isolated.  
-A concept that lacks contribution is redundant.  
-A concept that lacks distinctiveness is duplicative.  
+- it has a distinct and identifiable APS usage;
+- a stable canonical definition would improve consistency across the corpus;
+- its distinction from neighbouring concepts can be stated clearly;
+- its relevant relationships to other APS concepts can be documented;
+- it is not merely an unnecessary duplicate of an existing canonical term.
 
-Such cases require removal, merging, or redefinition.
+These are governance criteria rather than claims about conceptual necessity.
 
-These criteria help ensure that additions to the glossary strengthen rather than fragment the conceptual infrastructure of the framework.
+A concept need not be defined through every neighbouring concept, contribute to explaining another glossary entry, or occupy a dependency pathway in order to justify inclusion.
+
+Likewise, the absence of a dependency relation does not make a concept isolated in a scientifically defective sense.
+
+Where two entries prove duplicative, insufficiently distinct, or inconsistent, they may require clarification, merging, reclassification, or removal. Such decisions should be made through explicit review rather than inferred from a supposed requirement for conceptual closure.
+
+These criteria help keep the glossary coherent and usable without treating its current organisation as a necessary or minimal conceptual system.
 
 ## Canonical Definitions and Controlled Development
 
 Conceptual infrastructure requires active maintenance.
 
-APS therefore distinguishes between ordinary conceptual variation and canonical definitions. Canonical definitions serve as stable reference points for explanation throughout the framework. They provide the conceptual continuity necessary for dependency pathways, explanatory grammar, and cumulative theoretical development.
+APS therefore distinguishes between ordinary variation in usage and canonical definitions. Canonical definitions serve as stable reference points across the framework, allowing articles, diagrams, glossary entries, and research programmes to use recurring terms consistently.
 
-Stability does not imply immobility. Scientific frameworks must remain capable of refinement, clarification, and extension. APS therefore permits conceptual development while seeking to preserve coherence across the broader architecture.
+Stability does not imply immobility.
 
-To support this process, the framework employs mechanisms such as:
+Concepts may require refinement, clarification, or extension as the framework develops. APS therefore combines canonical reference formulations with explicit revision procedures intended to preserve continuity while making substantive changes visible.
+
+These procedures include:
 
 - canonical definitions;
 - canonical lock dates;
@@ -278,13 +306,15 @@ To support this process, the framework employs mechanisms such as:
 - conceptual audits;
 - dependency audits.
 
-These mechanisms help ensure that conceptual changes are evaluated in relation to the wider framework rather than being introduced in isolation.
+Such controls allow conceptual changes to be evaluated in relation to the wider corpus rather than introduced silently or in isolation.
 
-New concepts are added only when existing concepts cannot adequately express a domain, when a genuine explanatory need is identified, and when the proposed concept can be integrated into the broader conceptual architecture.
+New concepts may be added when an identifiable conceptual need cannot be handled adequately by existing terminology, when the proposed distinction is sufficiently clear, and when its relationship to existing APS usage can be documented.
 
-Development is therefore guided by explanatory necessity rather than descriptive convenience.
+The relevant standard is not explanatory necessity in the abstract.
 
-In this way, APS seeks to combine conceptual stability with controlled theoretical growth.
+Development is instead guided by identifiable conceptual need, role clarity, consistency, and controlled integration.
+
+In this way, APS seeks to combine conceptual stability with revision-open development.
 
 **Key Point**
 
@@ -292,50 +322,128 @@ Conceptual infrastructure is maintained through controlled development rather th
 
 ## The Glossary as APS Infrastructure
 
-The APS glossary functions as infrastructure for the framework rather than as a supplementary reference resource.
+The APS glossary functions as infrastructure for the framework rather than merely as a supplementary reference resource.
 
-Its role extends beyond the definition of terms. By stabilising concepts, preserving distinctions, and supporting coherent conceptual relationships, it helps provide the conditions under which explanation can occur throughout the framework.
+Its role extends beyond defining individual terms. By maintaining canonical formulations, preserving distinctions, documenting conceptual relationships, and recording controlled revisions, it supports continuity across the APS corpus.
 
-This infrastructure operates in several interconnected ways.
+This infrastructure operates in several related ways.
 
 ### Conceptual Infrastructure
 
-The glossary stabilises the meanings of core concepts and preserves coherence across the framework.
+The glossary provides stable reference formulations for recurring APS concepts.
 
-Definitions are not treated as isolated descriptions but as components of an organised conceptual architecture. Their relationships help maintain continuity across articles, domains, diagrams, glossary entries, and research programmes.
+Definitions are not treated as isolated descriptions. Their documented relationships help maintain continuity across articles, diagrams, glossary entries, and research programmes.
 
-### Architectural Infrastructure
+This continuity is conceptual and editorial. It does not establish the truth of biological claims made using those concepts.
 
-The glossary supports dependency pathways and broader explanatory architectures.
+### Pathway and Architectural Support
 
-Stable concepts make it possible to identify relationships of explanatory dependence, construct pathway-based explanations, and evaluate how different parts of the framework connect to one another.
+The glossary supports the specification and interpretation of APS pathways and other conceptual architectures.
 
-Architectural organisation therefore depends upon conceptual organisation.
+Stable concepts make it easier to identify exactly what a pathway arrow is proposed to relate and to detect when a revision changes the meaning of one of its relata.
 
-### Explanatory Infrastructure
+This support should not be confused with evidential support for the dependency itself.
 
-The glossary contributes to the explanatory grammar through which APS explanations are constructed and interpreted.
+A glossary definition can clarify what an APS pathway claims. It cannot determine whether the proposed relation is causal, constitutive, enabling, constraint-based, conceptual, mixed, or unsupported. Those questions require separate assessment.
 
-By preserving conceptual distinctions and stabilising explanatory relationships, it helps ensure that explanations remain coherent, comparable, and cumulative across different domains of inquiry.
+Stable conceptual organisation therefore helps make APS pathway and architectural relations explicit and consistent.
 
-Taken together, these functions make the glossary part of the infrastructure through which APS develops, communicates, and evaluates explanation.
+### Explanatory-Practice Support
 
-The glossary therefore accompanies the framework in the same sense that conceptual organisation accompanies scientific explanation: not as an optional addition, but as a condition of its coherence.
+The glossary also supports explanatory practice within APS by preserving distinctions relevant to how claims are formulated and interpreted.
+
+A consistent distinction between organisation and structure, dependency and causation, or morality and ethics can prevent different explanatory questions from being conflated.
+
+The glossary nevertheless remains infrastructure for explanatory practice rather than an explanation in its own right.
+
+It does not determine whether a particular explanation is adequate, whether an APS formulation improves upon an established alternative, or whether a claimed biological dependency is supported.
+
+Taken together, these functions make the glossary an important part of APS corpus governance and conceptual organisation.
+
+Its coherence matters because APS repeatedly reuses the same concepts across different objects and research programmes. But that internal coherence must remain distinct from biological evidence and comparative explanatory success.
 
 **Key Point**
 
-The APS glossary functions simultaneously as conceptual infrastructure, architectural infrastructure, and explanatory infrastructure.
+The APS glossary functions as conceptual infrastructure, supports pathway and architectural specification, and helps maintain consistency in APS explanatory practice.
 
 ## Conclusion
 
 The APS glossary functions as conceptual infrastructure for the APS framework.
 
-Its role extends beyond the definition of terms. By stabilising concepts, preserving conceptual relationships, and maintaining explanatory distinctions, it helps provide the conditions under which coherent biological explanation becomes possible.
+Its role extends beyond providing definitions. By maintaining canonical formulations, preserving distinctions, documenting conceptual relationships, and recording controlled revisions, it supports continuity across APS articles, diagrams, pathways, and research programmes.
 
-This infrastructure supports dependency pathways, explanatory grammar, and the development of domain-specific architectures across the framework. It also enables APS to grow while preserving continuity, allowing conceptual development to occur without continual shifts in meaning or explanatory organisation.
+That role should be stated precisely.
 
-Stable nomenclature enables cumulative biological communication; stable conceptual infrastructure enables cumulative biological explanation. APS argues that both forms of stability contribute to the long-term development of biological science, although they operate at different levels of scientific practice.
+Stable conceptual infrastructure can make APS claims clearer, more consistent, and easier to compare. It can reveal when a revision to one concept affects other parts of the framework. It can help pathway relations to be specified without ambiguity and can support continuity as domain-specific programmes develop.
 
-The glossary should therefore be understood not as an auxiliary reference resource but as part of the framework's explanatory architecture. It contributes to the coherence, intelligibility, and cumulative development of APS in much the same way that conceptual organisation contributes to scientific explanation more generally.
+It does not establish biological dependencies.
 
-APS explanation begins with living organisation, but it depends upon conceptual organisation. The glossary helps provide that organisation by stabilising the concepts through which the framework understands, explains, and develops its account of life.
+It does not turn conceptual relationships into empirical evidence.
+
+It does not supply a general explanatory grammar.
+
+And conceptual coherence within APS does not by itself demonstrate explanatory gain over established biological explanations.
+
+Those burdens remain with the relevant biological and comparative claims.
+
+The glossary should therefore be understood neither as a simple dictionary nor as a foundation from which biological explanation follows. It is a controlled conceptual resource through which APS maintains the terminology, distinctions, and documented relationships required for its own corpus to remain coherent and revision-open.
+
+Conceptual organisation is consequently important to APS explanatory practice, but its contribution is infrastructural.
+
+The scientific standing of the claims expressed through that infrastructure must be established separately.
+
+## Explanatory Architecture
+
+### Central Question
+
+**How can APS maintain stable concepts, distinctions, and documented conceptual relationships across a developing and revision-open framework?**
+
+### Architectural Role
+
+This article establishes the APS glossary as **conceptual infrastructure for the framework**.
+
+Its function is to maintain canonical formulations, preserve important distinctions, document conceptual relationships, and support consistency across APS articles, diagrams, pathways, and research programmes.
+
+The glossary does not itself establish biological dependencies, explanatory adequacy, or comparative explanatory gain.
+
+### Preceding Conceptual Dependencies
+
+This article presupposes the canonical APS concepts and scientific-status controls established elsewhere in the framework, including:
+
+- Life;
+- Biological Agency;
+- Viability;
+- Constraint Closure;
+- Process;
+- Scale;
+- Organised Persistence;
+- Biological Organisation;
+- and Architectural Dependency.
+
+Their inclusion here records their use within APS conceptual infrastructure. It does not re-adjudicate their scientific status.
+
+### Subsequent Use
+
+The glossary supports:
+
+- consistent specification of APS pathway relations;
+- controlled use of recurring concepts across articles and diagrams;
+- explicit recognition of conceptual revision;
+- development of domain-specific APS vocabularies;
+- and comparison of claims that would otherwise risk terminological drift.
+
+These functions are infrastructural. Biological and comparative claims retain their own evidential burdens.
+
+### Methodological Limit
+
+Conceptual coherence is not biological evidence.
+
+A stable definition can clarify what APS claims. It cannot establish that a biological system instantiates the defined organisation, that a proposed dependency is materially realised, or that APS provides explanatory gain over the strongest established alternative.
+
+### Position Within APS
+
+The APS glossary is therefore neither a simple dictionary nor a general explanatory grammar.
+
+It is a controlled conceptual resource through which APS maintains continuity, clarity, and revision discipline across its corpus.
+
+Its contribution is **conceptual and infrastructural**; the scientific standing of claims expressed through that infrastructure must be established separately.
