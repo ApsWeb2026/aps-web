@@ -4282,3 +4282,62 @@ references:
     status: verified
     authority: Wolters Kluwer / PubMed
     verifiedDate: 2026-09-04
+- id: kuhn-1977-essential-tension
+  type: book
+  authors: Kuhn, T. S.
+  year: 1977
+  title: "The Essential Tension: Selected Studies in Scientific Tradition and Change"
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-09-04
+- id: lipton-2004-inference-best-explanation
+  type: book
+  authors: Lipton, P.
+  year: 2004
+  title: Inference to the Best Explanation
+  edition: 2nd
+  publisher: Routledge
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-09-04
+- id: weisberg-2013-simulation-similarity
+  type: book
+  authors: Weisberg, M.
+  year: 2013
+  title: "Simulation and Similarity: Using Models to Understand the World"
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199933662.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-04
+- id: marchionni-2008-explanatory-pluralism-complementarity
+  type: journal-article
+  authors: Marchionni, C.
+  year: 2008
+  title: "Explanatory Pluralism and Complementarity: From Autonomy to Integration"
+  journal: Philosophy of the Social Sciences
+  volume: '38'
+  issue: '3'
+  pages: 314–333
+  doi: 10.1177/0048393108319399
+  verification:
+    status: verified
+    authority: SAGE Journals
+    verifiedDate: 2026-09-04
+- id: gijsbers-2016-explanatory-pluralism-disunity-science
+  type: journal-article
+  authors: Gijsbers, V.
+  year: 2016
+  title: "Explanatory Pluralism and the (Dis)Unity of Science: The Argument from Incompatible Counterfactual Consequences"
+  journal: Frontiers in Psychiatry
+  volume: '7'
+  article-number: '32'
+  doi: 10.3389/fpsyt.2016.00032
+  verification:
+    status: verified
+    authority: Frontiers / PubMed
+    verifiedDate: 2026-09-04
