@@ -4341,3 +4341,69 @@ references:
     status: verified
     authority: Frontiers / PubMed
     verifiedDate: 2026-09-04
+- id: shapiro-et-al-2004-stickleback-pelvic-reduction
+  type: journal-article
+  authors: Shapiro, M. D., et al.
+  year: 2004
+  title: Genetic and Developmental Basis of Evolutionary Pelvic Reduction in Threespine Sticklebacks
+  journal: Nature
+  volume: '428'
+  pages: 717–723
+  doi: 10.1038/nature02415
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: chan-et-al-2010-stickleback-pitx1-enhancer
+  type: journal-article
+  authors: Chan, Y. F., et al.
+  year: 2010
+  title: Adaptive Evolution of Pelvic Reduction in Sticklebacks by Recurrent Deletion of a Pitx1 Enhancer
+  journal: Science
+  volume: '327'
+  issue: '5963'
+  pages: 302–305
+  doi: 10.1126/science.1182213
+  verification:
+    status: verified
+    authority: AAAS
+    verifiedDate: 2026-09-04
+- id: laland-matthews-feldman-2016-niche-construction-theory
+  type: journal-article
+  authors: Laland, K. N., Matthews, B., & Feldman, M. W.
+  year: 2016
+  title: An Introduction to Niche Construction Theory
+  journal: Evolutionary Ecology
+  volume: '30'
+  pages: 191–202
+  doi: 10.1007/s10682-016-9821-z
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: bich-mossio-soto-2020-glycemia-regulation
+  type: journal-article
+  authors: Bich, L., Mossio, M., & Soto, A. M.
+  year: 2020
+  title: 'Glycemia Regulation: From Feedback Loops to Organizational Closure'
+  journal: Frontiers in Physiology
+  volume: '11'
+  article-number: '69'
+  doi: 10.3389/fphys.2020.00069
+  verification:
+    status: verified
+    authority: Frontiers
+    verifiedDate: 2026-09-04
+- id: raja-et-al-2021-markov-blanket-trick
+  type: journal-article
+  authors: Raja, V., Valluri, D., Baggs, E., Chemero, A., & Anderson, M. L.
+  year: 2021
+  title: 'The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference'
+  journal: Physics of Life Reviews
+  volume: '39'
+  pages: 49–72
+  doi: 10.1016/j.plrev.2021.09.001
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-09-04
