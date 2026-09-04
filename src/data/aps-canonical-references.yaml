@@ -4160,3 +4160,125 @@ references:
     status: verified
     authority: Science
     verifiedDate: 2026-09-03
+- id: pearl-2009-causality
+  type: book
+  authors: Pearl, J.
+  year: 2009
+  title: 'Causality: Models, Reasoning, and Inference'
+  edition: '2'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511803161
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-04
+- id: oreskes-shrader-frechette-belitz-1994-verification-validation-confirmation
+  type: journal-article
+  authors: Oreskes, N., Shrader-Frechette, K., & Belitz, K.
+  year: 1994
+  title: Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences
+  journal: Science
+  volume: '263'
+  issue: '5147'
+  pages: 641–646
+  doi: 10.1126/science.263.5147.641
+  verification:
+    status: verified
+    authority: American Association for the Advancement of Science / Science
+    verifiedDate: 2026-09-04
+- id: henrich-heine-norenzayan-2010-weirdest-people
+  type: journal-article
+  authors: Henrich, J., Heine, S. J., & Norenzayan, A.
+  year: 2010
+  title: The Weirdest People in the World?
+  journal: Behavioral and Brain Sciences
+  volume: '33'
+  issue: 2–3
+  pages: 61–83
+  doi: 10.1017/S0140525X0999152X
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-04
+- id: yarkoni-2022-generalizability-crisis
+  type: journal-article
+  authors: Yarkoni, T.
+  year: 2022
+  title: The Generalizability Crisis
+  journal: Behavioral and Brain Sciences
+  volume: '45'
+  pages: e1
+  doi: 10.1017/S0140525X20001685
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-04
+- id: kerr-1998-harking
+  type: journal-article
+  authors: Kerr, N. L.
+  year: 1998
+  title: 'HARKing: Hypothesizing After the Results Are Known'
+  journal: Personality and Social Psychology Review
+  volume: '2'
+  issue: '3'
+  pages: 196–217
+  doi: 10.1207/S15327957PSPR0203_4
+  verification:
+    status: verified
+    authority: SAGE Publications / Taylor & Francis
+    verifiedDate: 2026-09-04
+- id: munafo-et-al-2017-manifesto-reproducible-science
+  type: journal-article
+  authors: Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A.
+  year: 2017
+  title: A Manifesto for Reproducible Science
+  journal: Nature Human Behaviour
+  volume: '1'
+  pages: '0021'
+  doi: 10.1038/s41562-016-0021
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: gould-lewontin-1979-spandrels
+  type: journal-article
+  authors: Gould, S. J., & Lewontin, R. C.
+  year: 1979
+  title: 'The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme'
+  journal: Proceedings of the Royal Society of London. Series B. Biological Sciences
+  volume: '205'
+  issue: '1161'
+  pages: 581–598
+  doi: 10.1098/rspb.1979.0086
+  verification:
+    status: verified
+    authority: The Royal Society
+    verifiedDate: 2026-09-04
+- id: rossouw-et-al-2002-estrogen-progestin-whi
+  type: journal-article
+  authors: "Rossouw, J. E., Anderson, G. L., Prentice, R. L., LaCroix, A. Z., Kooperberg, C., Stefanick, M. L., Jackson, R. D., Beresford, S. A. A., Howard, B. V., Johnson, K. C., Kotchen, J. M., & Ockene, J."
+  year: 2002
+  title: 'Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women’s Health Initiative Randomized Controlled Trial'
+  journal: JAMA
+  volume: '288'
+  issue: '3'
+  pages: 321–333
+  doi: 10.1001/jama.288.3.321
+  verification:
+    status: verified
+    authority: JAMA Network / PubMed
+    verifiedDate: 2026-09-04
+- id: hernan-et-al-2008-observational-studies-randomized-experiments
+  type: journal-article
+  authors: Hernán, M. A., Alonso, A., Logan, R., Grodstein, F., Michels, K. B., Willett, W. C., Manson, J. E., & Robins, J. M.
+  year: 2008
+  title: 'Observational Studies Analyzed Like Randomized Experiments: An Application to Postmenopausal Hormone Therapy and Coronary Heart Disease'
+  journal: Epidemiology
+  volume: '19'
+  issue: '6'
+  pages: 766–779
+  doi: 10.1097/EDE.0b013e3181875e61
+  verification:
+    status: verified
+    authority: Wolters Kluwer / PubMed
+    verifiedDate: 2026-09-04
