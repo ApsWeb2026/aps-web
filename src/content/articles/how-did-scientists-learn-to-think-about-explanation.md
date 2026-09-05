@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-03
-revised: 2026-09-04
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -31,6 +31,7 @@ relatedGlossaryTerms:
   - mechanism
 relatedArticles:
   - what-is-a-scientific-explanation
+  - what-makes-an-explanation-successful
 references:
   - hempel-oppenheim-1948-studies-logic-explanation
   - salmon-1984-scientific-explanation-causal-structure
@@ -55,11 +56,11 @@ references:
 
 *That question belongs to the next article: What Makes an Explanation Successful? The sequence is therefore:*
 
-1 — What is scientific explanation?
+1 â€” What is scientific explanation?
 
-2 — How did explanatory plurality arise?
+2 â€” How did explanatory plurality arise?
 
-3 — What makes an explanation successful?
+3 â€” What makes an explanation successful?
 
 ## How Did Scientists Learn to Think About Explanation?
 
@@ -224,4 +225,4 @@ Related glossary terms include **biological explanation**, **explanation**, **ex
 
 2. Has shown how that plurality emerged historically.
 
-**3. Next — investigates What Makes an Explanation Successful?** - it turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.
+**3. Next â€” investigates What Makes an Explanation Successful?** - it turns from the history of explanatory theories to the criteria by which explanations can be assessed in scientific practice.

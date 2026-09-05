@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-03
-revised: 2026-09-03
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: anchor
 abstract: >
@@ -33,6 +33,7 @@ relatedArticles:
   - description-explanation-and-definition-in-biology
   - comparative-explanatory-methodology-theoretical-biology
   - biological-explanation-what-needs-to-be-explained
+  - how-did-scientists-learn-to-think-about-explanation
 references:
   - hempel-oppenheim-1948-studies-logic-explanation
   - machamer-darden-craver-2000-mechanisms
@@ -88,7 +89,7 @@ The same biological system can support several legitimate explanatory targets.
 
 Consider the action potential. One question asks how changes in membrane voltage depend quantitatively on ionic conductances. Another asks what physical structures produce those conductance changes. The questions are connected, but they are not identical.
 
-The Hodgkin–Huxley model provided a powerful quantitative explanation of electrical excitation before the later molecular characterisation of individual ion-channel structures. Subsequent molecular work did not simply make the earlier explanation obsolete. It addressed a more specific mechanistic target and thereby added a different kind of explanatory detail (Hodgkin & Huxley, 1952; Darden, 2008).
+The Hodgkinâ€“Huxley model provided a powerful quantitative explanation of electrical excitation before the later molecular characterisation of individual ion-channel structures. Subsequent molecular work did not simply make the earlier explanation obsolete. It addressed a more specific mechanistic target and thereby added a different kind of explanatory detail (Hodgkin & Huxley, 1952; Darden, 2008).
 
 This illustrates a general principle:
 
@@ -126,7 +127,7 @@ But the two achievements can also come apart.
 
 A model may predict accurately without identifying the dependency, mechanism, contrast, structure, or history relevant to the explanatory question. Conversely, an explanation may identify an important causal or structural relation even when precise prediction remains difficult.
 
-Examples drawn from Hodgkin–Huxley physiology, circadian systems, population genetics, and evolutionary modelling illustrate different relationships among prediction, model adequacy, mechanism, and explanation (Ross, 2025; Darden, 2008).
+Examples drawn from Hodgkinâ€“Huxley physiology, circadian systems, population genetics, and evolutionary modelling illustrate different relationships among prediction, model adequacy, mechanism, and explanation (Ross, 2025; Darden, 2008).
 
 Prediction can nevertheless play a crucial explanatory role. Predictions may test candidate explanations, expose their limits, distinguish alternatives, and guide interventions.
 
@@ -186,9 +187,9 @@ Biology provides strong reasons not to collapse explanation into one form.
 
 A molecular mechanism, a developmental trajectory, a physiological dependency, an evolutionary history, a population-genetic model, and a mathematical baseline can all contribute genuine scientific understanding while answering different questions.
 
-Hardy–Weinberg equilibrium provides a simple illustration.
+Hardyâ€“Weinberg equilibrium provides a simple illustration.
 
-The Hardy–Weinberg relation is idealised. It specifies what happens to allele and genotype frequencies under a defined set of assumptions. Its usefulness does not depend upon reproducing every causal detail of an actual population.
+The Hardyâ€“Weinberg relation is idealised. It specifies what happens to allele and genotype frequencies under a defined set of assumptions. Its usefulness does not depend upon reproducing every causal detail of an actual population.
 
 By establishing a mathematical baseline, it helps investigators determine what departures from that baseline require further explanation. Its explanatory role therefore differs from an account that reconstructs a biochemical or molecular mechanism (Hardy, 1908; Ross, 2025).
 
@@ -205,7 +206,7 @@ Before asking whether an explanation is good, first state what it is supposed to
 Where relevant, specify:
 
 - the phenomenon or pattern;
-- the contrast — why this rather than that;
+- the contrast â€” why this rather than that;
 - the spatial and temporal grain;
 - the explanatory aim;
 - and the kind of dependency, mechanism, relation, structure, or history being sought.
@@ -280,4 +281,5 @@ The next task is to understand why these different conceptions of explanation ar
 
 **Glossary:** scientific explanation; explanandum; explanatory target; prediction; model; understanding.
 
-**Next:** 2 — *How Did Scientists Learn to Think About Explanation?* examines how the modern debate about scientific explanation developed historically.
+**Next:** 2 â€” *How Did Scientists Learn to Think About Explanation?* examines how the modern debate about scientific explanation developed historically.
+

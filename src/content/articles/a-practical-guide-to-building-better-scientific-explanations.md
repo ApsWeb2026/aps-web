@@ -26,6 +26,7 @@ relatedArticles:
   - how-should-scientific-explanations-be-compared
   - what-counts-as-explanatory-gain
   - which-explanatory-framework-is-best
+  - how-should-a-new-scientific-framework-be-tested
 references:
   - ross-2025-explanation-biology
   - woodward-2003-making-things-happen
@@ -103,7 +104,7 @@ Evidence should support the explanatory relation claimed, not merely the existen
 
 A causal claim normally requires evidence capable of distinguishing causal dependence from association, with interventionist or structural reasoning providing important tools for doing so (Woodward, 2003; Pearl, 2009). A modelling claim requires clarity about what successful fit, validation or calibration establishes; numerical agreement does not by itself prove that a model is uniquely correct or literally true in all respects (Oreskes, Shrader-Frechette, & Belitz, 1994).
 
-Evidence also has a history. Exploratory analysis and post-hoc hypothesis generation are legitimate parts of research. Problems arise when a result discovered after inspecting the data is presented as though it had survived a prior independent test. HARKing and related forms of hidden flexibility can therefore inflate evidential appearance without making the exploratory work itself illegitimate (Kerr, 1998). Reproducibility practices, transparent reporting and preregistration can help where they are appropriate to the design, but they are means of evidential control rather than universal rituals (Munafò et al., 2017).
+Evidence also has a history. Exploratory analysis and post-hoc hypothesis generation are legitimate parts of research. Problems arise when a result discovered after inspecting the data is presented as though it had survived a prior independent test. HARKing and related forms of hidden flexibility can therefore inflate evidential appearance without making the exploratory work itself illegitimate (Kerr, 1998). Reproducibility practices, transparent reporting and preregistration can help where they are appropriate to the design, but they are means of evidential control rather than universal rituals (MunafÃ² et al., 2017).
 
 The operative rule is simple:
 
@@ -161,11 +162,11 @@ A controlled assessment does not have to end with one account declared the winne
 
 For a specified explanandum and sufficiently strong comparator, several bounded outcomes are legitimate:
 
-- **Bounded positive gain** — additional target-relevant explanatory capacity is demonstrated.
-- **Complementarity** — each account contributes something non-redundant to the specified explanandum or to sufficiently linked aspects of it.
-- **No additional gain** — the candidate account does not establish additional explanatory capacity in the controlled comparison.
-- **Unresolved** — the available evidence does not yet settle the residual-capacity question.
-- **Non-comparability** — the accounts are not sufficiently matched for the proposed direct comparison.
+- **Bounded positive gain** â€” additional target-relevant explanatory capacity is demonstrated.
+- **Complementarity** â€” each account contributes something non-redundant to the specified explanandum or to sufficiently linked aspects of it.
+- **No additional gain** â€” the candidate account does not establish additional explanatory capacity in the controlled comparison.
+- **Unresolved** â€” the available evidence does not yet settle the residual-capacity question.
+- **Non-comparability** â€” the accounts are not sufficiently matched for the proposed direct comparison.
 
 These are alternatives, not positions on a single scale.
 
@@ -179,7 +180,7 @@ A rigorous explanation should make its unresolved burdens visible.
 
 This may include uncertainty about the target, incomplete evidence for a proposed dependency, ambiguity about the strongest relevant comparator, uncertain scope, or a residual question that current data cannot adjudicate.
 
-“Unresolved” should not be treated as an embarrassment to be removed by stronger rhetoric. It is often the correct scientific result.
+â€œUnresolvedâ€ should not be treated as an embarrassment to be removed by stronger rhetoric. It is often the correct scientific result.
 
 A useful unresolved statement identifies what remains open and what kind of further evidence or analysis could change the assessment. This makes the explanation more assessable because later work can be directed toward a specific burden rather than toward an indefinitely expanding research programme.
 
@@ -235,7 +236,7 @@ It does not prescribe one evidential method for every science, require every exp
 
 It also does not establish the scientific standing of an entire explanatory framework. A framework may contain multiple conceptual, methodological, modelling and substantive claims whose joint evaluation requires a different level of testing.
 
-Finally, nothing in this workflow depends on Agency–Process–Scale or any other APS-specific biological proposition. The methodology is intended to remain independently applicable.
+Finally, nothing in this workflow depends on Agencyâ€“Processâ€“Scale or any other APS-specific biological proposition. The methodology is intended to remain independently applicable.
 
 ## Related Terms and Next Step
 
@@ -244,3 +245,4 @@ Related glossary terms include [Biological Explanation](/glossary/biological-exp
 For the diagnostic background, see [How Do Scientific Explanations Go Wrong?](/articles/how-do-scientific-explanations-go-wrong/). For controlled comparison, see [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/). For the residual-capacity criterion, see [What Counts as Explanatory Gain?](/articles/what-counts-as-explanatory-gain/). For bounded framework comparison, see [Which Explanatory Framework Is Best?](/articles/which-explanatory-framework-is-best/).
 
 PA-09 provides a practical method for constructing and assessing individual scientific explanations. The next article, **How Should a New Scientific Framework Be Tested?**, asks a different question: when a proposed scientific framework makes multiple explanatory, methodological, conceptual or substantive claims, how should the framework as a whole be tested fairly and allowed to fail?
+

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-04
-revised: 2026-09-04
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: core
 
@@ -36,6 +36,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-counts-as-explanatory-gain
   - how-should-scientific-explanations-be-compared
+  - which-explanatory-framework-is-best
 
 references:
   - ross-2025-explanation-biology
@@ -82,7 +83,7 @@ The distinction is not a division into isolated explanatory domains. It shows in
 
 ## Evolutionary developmental biology
 
-Evolutionary developmental biology brings developmental organisation into the explanation of evolutionary change. It examines how developmental mechanisms, regulatory relations, genotype–phenotype mappings, plasticity, developmental bias and constraint participate in the production and transformation of phenotypic variation (Gilbert, 2000; Love, 2014).
+Evolutionary developmental biology brings developmental organisation into the explanation of evolutionary change. It examines how developmental mechanisms, regulatory relations, genotypeâ€“phenotype mappings, plasticity, developmental bias and constraint participate in the production and transformation of phenotypic variation (Gilbert, 2000; Love, 2014).
 
 Its explanatory relevance depends on the question being asked. When the explanandum concerns how a phenotype is generated, how developmental organisation structures possible variation, or how developmental processes contribute to evolutionary change, developmental evidence may supply explanatory resources not captured by a population-level description alone.
 
@@ -94,11 +95,11 @@ Evolutionary developmental biology therefore illustrates a recurring feature of 
 
 Niche construction focuses attention on the ways organisms modify environmental conditions and thereby alter circumstances relevant to their own lives and those of other organisms. These modifications can persist and contribute to ecological inheritance, creating feedback between organismal activity, environmental change and evolutionary processes (Laland, Matthews, & Feldman, 2016).
 
-As an explanatory approach, niche construction can foreground dependencies that become less visible when environments are treated only as externally given selective conditions. Its characteristic contribution lies in making organism–environment modification and inherited environmental effects explicit within the explanatory target.
+As an explanatory approach, niche construction can foreground dependencies that become less visible when environments are treated only as externally given selective conditions. Its characteristic contribution lies in making organismâ€“environment modification and inherited environmental effects explicit within the explanatory target.
 
 That does not establish in advance that every niche-construction account adds explanatory capacity beyond contemporary evolutionary or ecological explanations. Whether it does so is a comparative question requiring a specified explanandum and sufficiently strong comparator.
 
-For present purposes the important point is descriptive: niche construction organises some evolutionary explanations around reciprocal organism–environment relations and ecological inheritance.
+For present purposes the important point is descriptive: niche construction organises some evolutionary explanations around reciprocal organismâ€“environment relations and ecological inheritance.
 
 ## The Extended Evolutionary Synthesis
 
@@ -175,7 +176,7 @@ Evolutionary biology, developmental biology, physiology and neuroscience can eac
 
 Framework labels should therefore not substitute for reconstruction of the explanation itself.
 
-Saying that an explanation is “mechanistic,” “systems,” “evolutionary” or “organisational” provides useful orientation, but it does not yet tell us precisely what the explanandum is, which dependencies are being claimed, what evidence supports them, or what explanatory burden the account carries.
+Saying that an explanation is â€œmechanistic,â€ â€œsystems,â€ â€œevolutionaryâ€ or â€œorganisationalâ€ provides useful orientation, but it does not yet tell us precisely what the explanandum is, which dependencies are being claimed, what evidence supports them, or what explanatory burden the account carries.
 
 The unit that ultimately matters for assessment is the explanatory claim directed toward a specified target, not the framework label considered in isolation.
 
@@ -197,7 +198,7 @@ Biology also contains recurring explanatory vocabularies that cut across framewo
 
 Terms such as **function**, **information**, **control**, **regulation**, **constraint**, **ecology** and **teleology** can be important to biological explanation without each defining an independent peer framework.
 
-A vocabulary becomes explanatorily significant through the work it performs in a particular account. “Information,” for example, may refer to sequence relations, signalling, representation or statistical dependence in different contexts. “Control” may identify physiological regulation, engineering-style feedback, dynamical intervention or organisational constraint.
+A vocabulary becomes explanatorily significant through the work it performs in a particular account. â€œInformation,â€ for example, may refer to sequence relations, signalling, representation or statistical dependence in different contexts. â€œControlâ€ may identify physiological regulation, engineering-style feedback, dynamical intervention or organisational constraint.
 
 Treating every recurring vocabulary as a separate framework would therefore multiply framework labels without necessarily clarifying explanatory structure.
 
@@ -228,7 +229,7 @@ Those possibilities cannot be determined from framework identity alone.
 
 This article establishes a representative, target-sensitive landscape of contemporary biological explanation.
 
-Mechanistic explanation characteristically concerns organised causal production. Evolutionary explanation addresses population and historical change. Evolutionary developmental biology brings developmental organisation into evolutionary explanation. Niche construction foregrounds organism–environment modification and ecological inheritance. The Extended Evolutionary Synthesis assembles an expanded set of evolutionary processes and explanatory emphases. Systems biology investigates networks, dynamics and system organisation. Organisational autonomy focuses on self-maintenance, constraints and organisational closure. The Free Energy Principle and active inference bring formal generative modelling to adaptive dynamics.
+Mechanistic explanation characteristically concerns organised causal production. Evolutionary explanation addresses population and historical change. Evolutionary developmental biology brings developmental organisation into evolutionary explanation. Niche construction foregrounds organismâ€“environment modification and ecological inheritance. The Extended Evolutionary Synthesis assembles an expanded set of evolutionary processes and explanatory emphases. Systems biology investigates networks, dynamics and system organisation. Organisational autonomy focuses on self-maintenance, constraints and organisational closure. The Free Energy Principle and active inference bring formal generative modelling to adaptive dynamics.
 
 These characterisations do not make the approaches mutually exclusive. Frameworks can share evidence, concepts and methods while assigning them different explanatory roles.
 

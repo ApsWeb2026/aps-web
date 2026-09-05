@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-04
-revised: 2026-09-04
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: core
 
@@ -31,6 +31,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-makes-an-explanation-successful
   - how-do-scientific-explanations-go-wrong
+  - what-counts-as-explanatory-gain
 
 references:
   - kuhn-1977-essential-tension
@@ -77,7 +78,7 @@ The first step is to specify the comparison before evaluating its outcome. Scien
 
 Reference to the same organism, process or broad phenomenon is not sufficient. Different accounts can concern the same biological system while answering different questions about it.
 
-Hardy–Weinberg equilibrium presents a related problem. The equilibrium specifies the expected stability of Mendelian proportions under stated conditions (Hardy, 1908). Selection, drift, mutation and migration concern processes through which actual populations may depart from that baseline. Treating the equilibrium and explanations of departure as straightforward rivals would collapse distinct explanatory functions into one undifferentiated question.
+Hardyâ€“Weinberg equilibrium presents a related problem. The equilibrium specifies the expected stability of Mendelian proportions under stated conditions (Hardy, 1908). Selection, drift, mutation and migration concern processes through which actual populations may depart from that baseline. Treating the equilibrium and explanations of departure as straightforward rivals would collapse distinct explanatory functions into one undifferentiated question.
 
 A comparison is therefore properly formed only when the candidate accounts are sufficiently aligned in what they seek to explain. If target matching cannot be established, the appropriate result is not a ranking but a finding of target difference, complementarity or non-comparability.
 
@@ -115,7 +116,7 @@ This classification should precede any judgment of preference. Without it, produ
 
 The KaiABC circadian system illustrates the problem. Its core phosphorylation oscillation can be reconstituted in vitro using KaiA, KaiB, KaiC and ATP (Nakajima et al., 2005). Accounts may nevertheless be directed toward different properties of the wider clock system, just as models more generally are constructed in relation to particular targets and purposes (Weisberg, 2013). Accounts directed toward different clock properties should not be globally ranked as though they necessarily supplied rival answers to one question.
 
-Evolutionary and proximate explanations can likewise answer different why-questions. The Trivers–Willard model gives a selection-based account of condition-dependent variation in offspring sex allocation (Trivers & Willard, 1973). A physiological account of how such allocation is produced would address a different explanatory question. The two should not be classified as rivals merely because they concern the same trait.
+Evolutionary and proximate explanations can likewise answer different why-questions. The Triversâ€“Willard model gives a selection-based account of condition-dependent variation in offspring sex allocation (Trivers & Willard, 1973). A physiological account of how such allocation is produced would address a different explanatory question. The two should not be classified as rivals merely because they concern the same trait.
 
 Relation classification is not a preliminary formality. It determines what kind of conclusion the comparison can legitimately support.
 

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-04
-revised: 2026-09-04
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: core
 abstract: >-
@@ -33,6 +33,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - how-did-scientists-learn-to-think-about-explanation
   - what-makes-an-explanation-successful
+  - how-should-scientific-explanations-be-compared
 references:
   - ross-2025-explanation-biology
   - woodward-2003-making-things-happen
@@ -64,17 +65,17 @@ An explanation is not simply successful or unsuccessful in every respect. It may
 
 This means that criticism should identify exactly what has failed. Has the account answered a different question from the one it was supposed to answer? Does the evidence support association but not causation? Has a model been tested only within a restricted domain? Was an exploratory finding presented as though it had survived an independent test?
 
-The diagnosis matters because different failures require different corrections. Treating them all as instances of “bad explanation” obscures both the defect and what remains scientifically valuable.
+The diagnosis matters because different failures require different corrections. Treating them all as instances of â€œbad explanationâ€ obscures both the defect and what remains scientifically valuable.
 
 > **A Useful Idea Can Still Be Overclaimed**
 >
-> Scientific usefulness and evidential entitlement are different. A model, concept or framework may remain valuable after a stronger causal, generality, validation or novelty claim is withdrawn—but its usefulness does not establish that stronger claim.
+> Scientific usefulness and evidential entitlement are different. A model, concept or framework may remain valuable after a stronger causal, generality, validation or novelty claim is withdrawnâ€”but its usefulness does not establish that stronger claim.
 
 ## The First Failure: Comparing Different Questions
 
 Two explanations may concern the same phenomenon without explaining the same aspect of it. One might identify a molecular mechanism, another reconstruct an evolutionary history, and a third describe a mathematical dependency. Their shared subject matter does not by itself make them direct competitors.
 
-A winner–loser comparison becomes misleading when the accounts differ in explanatory target, contrast, grain or intended use. Before one account is said to defeat another, it must be clear that they address sufficiently matched questions. The plurality of explanation in biology makes this especially important because causal, mechanistic, historical, mathematical and organisational accounts can illuminate different features of the same system (Ross, 2025).
+A winnerâ€“loser comparison becomes misleading when the accounts differ in explanatory target, contrast, grain or intended use. Before one account is said to defeat another, it must be clear that they address sufficiently matched questions. The plurality of explanation in biology makes this especially important because causal, mechanistic, historical, mathematical and organisational accounts can illuminate different features of the same system (Ross, 2025).
 
 Target mismatch becomes more serious when a claimed advance depends on weakening or misdescribing the alternative. An account may appear superior only because its competitor has been required to answer a question it was not designed to answer. The appropriate diagnosis may therefore be neither victory nor failure, but target difference or complementarity.
 
@@ -86,9 +87,9 @@ An explanatory claim requires evidence capable of distinguishing it from relevan
 
 This problem is especially clear when an association is treated as though it established a causal relationship. Observational evidence can reveal patterns, identify risk factors and motivate causal hypotheses. It does not automatically distinguish a treatment effect from confounding, selection effects, reverse causation or differences between the populations being compared.
 
-This problem is illustrated by research on postmenopausal hormone therapy and coronary heart disease. Earlier observational findings had suggested reduced coronary risk among hormone users. The Women’s Health Initiative randomized trial instead found increased coronary risk among women assigned to the estrogen-plus-progestin regimen and concluded that the regimen should not be used for primary prevention of coronary heart disease (Rossouw et al., 2002).
+This problem is illustrated by research on postmenopausal hormone therapy and coronary heart disease. Earlier observational findings had suggested reduced coronary risk among hormone users. The Womenâ€™s Health Initiative randomized trial instead found increased coronary risk among women assigned to the estrogen-plus-progestin regimen and concluded that the regimen should not be used for primary prevention of coronary heart disease (Rossouw et al., 2002).
 
-The discrepancy did not show that observational research was scientifically worthless. A subsequent reanalysis of the Nurses’ Health Study showed that estimates became substantially more consistent with the randomized trial when the observational study was analysed more like a sequence of treatment-initiation trials. Differences in time since menopause and length of follow-up accounted for much of the earlier disagreement (Hernán et al., 2008). The methodological lesson is therefore calibrated: causal interpretation depends on whether study design and analysis distinguish the proposed treatment effect from relevant alternative explanations.
+The discrepancy did not show that observational research was scientifically worthless. A subsequent reanalysis of the Nursesâ€™ Health Study showed that estimates became substantially more consistent with the randomized trial when the observational study was analysed more like a sequence of treatment-initiation trials. Differences in time since menopause and length of follow-up accounted for much of the earlier disagreement (HernÃ¡n et al., 2008). The methodological lesson is therefore calibrated: causal interpretation depends on whether study design and analysis distinguish the proposed treatment effect from relevant alternative explanations.
 
 Causal overreach can also arise in mechanistic explanation. A pathway may be biologically plausible and consistent with an observed outcome without having been shown to produce that outcome under the conditions in question. Compatibility is weaker than causal discrimination. Interventions, explicit causal models, natural experiments and sensitivity analyses can strengthen a causal claim when they are appropriate to the system and question (Pearl, 2009; Woodward, 2003).
 
@@ -102,7 +103,7 @@ Oreskes, Shrader-Frechette and Belitz (1994) drew attention to this problem in n
 
 The appropriate language should identify what has actually been achieved. A model may be well confirmed for an intended use, predictively successful within a defined domain, robust across specified assumptions, or informative about a particular dependency. These are substantial scientific accomplishments. They should not be converted into unrestricted validation.
 
-Model-validation inflation is corrected by narrowing the claim to the model’s demonstrated performance, domain and purpose. This preserves the model’s scientific value while avoiding an inference that the evidence cannot sustain.
+Model-validation inflation is corrected by narrowing the claim to the modelâ€™s demonstrated performance, domain and purpose. This preserves the modelâ€™s scientific value while avoiding an inference that the evidence cannot sustain.
 
 ## Scope Inflation
 
@@ -124,7 +125,7 @@ Kerr (1998) called one form of this practice HARKing: hypothesising after the re
 
 When many analytical choices are available, a result may appear stronger than it is if the unsuccessful alternatives remain undisclosed. Flexible stopping rules, outcome selection, subgroup choice, model specification and reporting decisions can all affect the apparent evidential force of a finding. If these choices are hidden, readers cannot tell how severely the hypothesis was tested.
 
-Concerns about undisclosed flexibility form part of the wider reproducibility problem addressed by Munafò et al. (2017). Transparency about exploratory status, disclosure of analytical decisions, independent data and preregistration where appropriate can help distinguish discovery from confirmation.
+Concerns about undisclosed flexibility form part of the wider reproducibility problem addressed by MunafÃ² et al. (2017). Transparency about exploratory status, disclosure of analytical decisions, independent data and preregistration where appropriate can help distinguish discovery from confirmation.
 
 Preregistration is not a universal remedy, and confirmatory inquiry is not the only scientifically legitimate form of investigation. The narrower requirement is that the evidential status of the result should be represented accurately.
 
@@ -136,7 +137,7 @@ Preregistration is not a universal remedy, and confirmatory inquiry is not the o
 
 An explanation can be coherent, plausible and attractive without being well distinguished from alternatives. Narrative coherence helps scientists organise evidence and generate hypotheses, but it cannot substitute for evidence that bears differentially on competing possibilities.
 
-Evolutionary explanation is particularly susceptible to this problem because plausible adaptive benefits can often be proposed retrospectively. Gould and Lewontin’s critique of adaptationism warned against treating every trait as though a plausible adaptive story were sufficient evidence that the trait had been selected for that function (Gould & Lewontin, 1979).
+Evolutionary explanation is particularly susceptible to this problem because plausible adaptive benefits can often be proposed retrospectively. Gould and Lewontinâ€™s critique of adaptationism warned against treating every trait as though a plausible adaptive story were sufficient evidence that the trait had been selected for that function (Gould & Lewontin, 1979).
 
 Their criticism does not imply that adaptationist explanation is inherently defective. Adaptive hypotheses can be powerful when supported by comparative, historical, developmental, ecological or experimental evidence. The failure occurs when plausibility is allowed to perform the work of discrimination.
 
@@ -157,7 +158,7 @@ Whether an integrated framework provides explanatory gain beyond the strongest r
 <a href="/assets/diagrams/methodology-overclaim.png" target="_blank" rel="noopener">
   <img
     src="/assets/diagrams/methodology-overclaim.png"
-    alt="Diagnostic map showing eight non-exhaustive forms of explanatory overclaim—target mismatch, weak discrimination, causal overreach, model-validation inflation, scope inflation, hidden flexibility, narrative excess and integration inflation—each paired with the claim that has been overextended and a calibrated response."
+    alt="Diagnostic map showing eight non-exhaustive forms of explanatory overclaimâ€”target mismatch, weak discrimination, causal overreach, model-validation inflation, scope inflation, hidden flexibility, narrative excess and integration inflationâ€”each paired with the claim that has been overextended and a calibrated response."
     loading="lazy"
   />
 </a>

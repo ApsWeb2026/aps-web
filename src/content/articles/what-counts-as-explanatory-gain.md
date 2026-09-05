@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-04
-revised: 2026-09-04
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: core
 
@@ -35,6 +35,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-makes-an-explanation-successful
   - how-should-scientific-explanations-be-compared
+  - how-do-contemporary-biological-frameworks-explain
 
 references:
   - ross-2025-explanation-biology
@@ -56,7 +57,7 @@ references:
 
 ## Introduction
 
-A new explanation earns credit for what it adds relative to a strong account of the same target—not simply for being newer, broader or more integrated.
+A new explanation earns credit for what it adds relative to a strong account of the same targetâ€”not simply for being newer, broader or more integrated.
 
 ## Gain Is Relational
 
@@ -142,7 +143,7 @@ But integration is not automatically explanatory gain.
 
 Suppose a framework places several established mechanisms, models or observations into one conceptual scheme. That may improve organisation and understanding. Yet if every target-relevant dependency, contrast and inference was already supplied by the strongest relevant explanations, the integration has not thereby demonstrated additional explanatory capacity.
 
-Integration earns explanatory gain when the act of integration produces a new explanatory consequence—for example, by revealing a dependency that could not previously be seen, constraining possible mechanisms, discriminating between alternatives, or supporting a target-relevant inference unavailable to the comparator.
+Integration earns explanatory gain when the act of integration produces a new explanatory consequenceâ€”for example, by revealing a dependency that could not previously be seen, constraining possible mechanisms, discriminating between alternatives, or supporting a target-relevant inference unavailable to the comparator.
 
 The distinction is important because scientific synthesis can be valuable even when no additional gain is demonstrated. Explanatory gain is one form of scientific achievement, not the only one.
 
@@ -150,7 +151,7 @@ The distinction is important because scientific synthesis can be valuable even w
 
 Scientific ideas can be useful in many ways. They can organise research programmes, identify neglected variables, introduce productive distinctions, generate new experimental questions, provide tractable models, or improve communication across specialties.
 
-Niche construction theory illustrates why usefulness and gain should be separated. Niche construction emphasises how organisms modify environmental conditions that in turn affect selection and development, and it has been scientifically productive as an organising perspective (Laland, Matthews, & Feldman, 2016). That usefulness, however, does not by itself establish that every niche-construction description adds explanatory capacity beyond the strongest relevant evolutionary, ecological or gene–culture account of a matched target.
+Niche construction theory illustrates why usefulness and gain should be separated. Niche construction emphasises how organisms modify environmental conditions that in turn affect selection and development, and it has been scientifically productive as an organising perspective (Laland, Matthews, & Feldman, 2016). That usefulness, however, does not by itself establish that every niche-construction description adds explanatory capacity beyond the strongest relevant evolutionary, ecological or geneâ€“culture account of a matched target.
 
 The correct comparative question remains local. What does the niche-construction account add for this explanandum that the comparator does not already supply? Without a demonstrated residual contribution, scientific usefulness should not be converted into a positive gain verdict.
 
@@ -191,7 +192,7 @@ A null-gain verdict says that the controlled comparison did not establish additi
 
 The distinction matters whenever the comparator is strong but the candidate makes a plausible further claim that has not yet been adequately tested.
 
-Mammalian glycaemia provides such a case. Organisational approaches have proposed that glucose regulation should be understood not only through local feedback loops but through the organisation of interacting regulatory constraints (Bich, Mossio, & Soto, 2020). That proposal can be scientifically meaningful without automatically establishing a positive comparative-gain result. The relevant question is whether the organisational framing yields a residual explanatory consequence—such as a dependency, discrimination or constraint—that the strongest physiological comparator does not already provide.
+Mammalian glycaemia provides such a case. Organisational approaches have proposed that glucose regulation should be understood not only through local feedback loops but through the organisation of interacting regulatory constraints (Bich, Mossio, & Soto, 2020). That proposal can be scientifically meaningful without automatically establishing a positive comparative-gain result. The relevant question is whether the organisational framing yields a residual explanatory consequenceâ€”such as a dependency, discrimination or constraintâ€”that the strongest physiological comparator does not already provide.
 
 Where that residual consequence has not yet been demonstrated, the appropriate outcome is unresolved rather than a declaration that organisational explanation has no value.
 
@@ -200,9 +201,9 @@ The same restraint applies at theory level to the Free Energy Principle and acti
 | |
 | --- |
 | **Three outcomes of an explanatory-gain assessment** |
-| **Positive gain** — Additional target-relevant explanatory capacity has been demonstrated relative to the sufficiently strong comparator. |
-| **No additional gain** — The comparison does not establish additional explanatory capacity for the specified target relative to the comparator. |
-| **Unresolved** — The available evidence is insufficient to determine whether additional explanatory capacity exists. |
+| **Positive gain** â€” Additional target-relevant explanatory capacity has been demonstrated relative to the sufficiently strong comparator. |
+| **No additional gain** â€” The comparison does not establish additional explanatory capacity for the specified target relative to the comparator. |
+| **Unresolved** â€” The available evidence is insufficient to determine whether additional explanatory capacity exists. |
 | These are bounded comparative outcomes, not scores or framework rankings. None by itself establishes the overall superiority or inferiority of a theory or framework. |
 
 ## Explanatory Gain Is Bounded

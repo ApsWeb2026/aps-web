@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-03
-revised: 2026-09-03
+revised: 2026-09-05
 cluster: methodology-and-explanation
 role: core
 abstract: >
@@ -33,6 +33,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-is-a-scientific-explanation
   - how-did-scientists-learn-to-think-about-explanation
+  - how-do-scientific-explanations-go-wrong
 references:
   - ross-2025-explanation-biology
   - woodward-2003-making-things-happen
@@ -51,13 +52,13 @@ references:
 
 *The next article examines the complementary question of how explanatory projects fail, overreach, or go wrong. The sequence is therefore:*
 
-1 — What is scientific explanation?
+1 â€” What is scientific explanation?
 
-2 — How did explanatory plurality arise?
+2 â€” How did explanatory plurality arise?
 
-3 — What makes an explanation successful?
+3 â€” What makes an explanation successful?
 
-4 — How do scientific explanations go wrong?
+4 â€” How do scientific explanations go wrong?
 
 ## What Makes an Explanation Successful?
 
@@ -127,9 +128,9 @@ Mechanistic models succeed when their selected components, activities, and organ
 
 Scientific explanations frequently succeed by omitting detail. Abstraction can reveal patterns shared across otherwise different systems. Idealisation can isolate a dependency by deliberately setting aside influences that would obscure it. Mathematical representation can show that an outcome follows from a structural relation rather than from a fully specified sequence of causal events.
 
-Hardy–Weinberg equilibrium illustrates the explanatory value of an idealised baseline. Its simplifying assumptions exclude several forces that affect actual populations. Those assumptions do not make the model scientifically useless. They establish a reference condition against which departures can be identified and investigated (Hardy, 1908).
+Hardyâ€“Weinberg equilibrium illustrates the explanatory value of an idealised baseline. Its simplifying assumptions exclude several forces that affect actual populations. Those assumptions do not make the model scientifically useless. They establish a reference condition against which departures can be identified and investigated (Hardy, 1908).
 
-The Trivers–Willard model similarly derives a conditional evolutionary prediction from simplified assumptions about parental condition and expected reproductive returns (Trivers & Willard, 1973). Its explanatory contribution lies in isolating a relation that can guide empirical investigation. Its success does not require it to reproduce every feature of every biological population.
+The Triversâ€“Willard model similarly derives a conditional evolutionary prediction from simplified assumptions about parental condition and expected reproductive returns (Trivers & Willard, 1973). Its explanatory contribution lies in isolating a relation that can guide empirical investigation. Its success does not require it to reproduce every feature of every biological population.
 
 An idealisation is therefore not justified merely because simplification is convenient. Its explanatory value depends on what the simplification makes visible, which inferences it supports, and whether those inferences remain appropriate to the target. Realism and detail matter, but they matter in relation to explanatory function rather than as context-free measures of quality.
 
@@ -181,4 +182,4 @@ This article also does not determine how explanations answering different target
 
 ## Next: How Explanations Go Wrong
 
-Positive standards of explanatory success also reveal points at which explanatory projects can become inadequate. The next article examines how explanations lose contact with their targets, evidence, alternatives, or legitimate scope—and how explanatory ambition can become explanatory overreach.
+Positive standards of explanatory success also reveal points at which explanatory projects can become inadequate. The next article examines how explanations lose contact with their targets, evidence, alternatives, or legitimate scopeâ€”and how explanatory ambition can become explanatory overreach.

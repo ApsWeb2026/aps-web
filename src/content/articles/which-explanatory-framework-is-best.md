@@ -24,6 +24,7 @@ relatedGlossaryTerms:
 relatedArticles:
   - what-counts-as-explanatory-gain
   - how-do-contemporary-biological-frameworks-explain
+  - a-practical-guide-to-building-better-scientific-explanations
 references:
   - ross-2025-explanation-biology
   - shapiro-et-al-2004-stickleback-pelvic-reduction
@@ -51,7 +52,7 @@ references:
 
 ## Introduction
 
-Asked globally, **“Which explanatory framework is best?”** is usually an ill-posed question.
+Asked globally, **â€œWhich explanatory framework is best?â€** is usually an ill-posed question.
 
 Biology does not present a single explanatory task, and an explanatory framework is not itself a single explanation. Mechanistic, evolutionary, developmental, systems, organisational and formal approaches can address different questions, employ different explanatory resources and carry different evidential burdens.
 
@@ -122,7 +123,7 @@ Local explanatory gain is not framework-wide victory.
 
 Niche construction provides a different comparative problem.
 
-Organisms modify environments, and those modifications can alter the conditions under which selection subsequently operates. Human dairying and lactase persistence provide a familiar illustration of this reciprocal organism–environment relationship (Laland, Matthews, and Feldman 2016).
+Organisms modify environments, and those modifications can alter the conditions under which selection subsequently operates. Human dairying and lactase persistence provide a familiar illustration of this reciprocal organismâ€“environment relationship (Laland, Matthews, and Feldman 2016).
 
 Making such feedback explicit can reorganise an explanatory problem in scientifically useful ways.
 
