@@ -1983,5 +1983,15 @@
     "hash": "b7e3a1dfead54628",
     "revised": "2026-09-05",
     "lockedSince": "2026-09-05"
+  },
+  "articles/how-should-the-strongest-comparator-be-chosen": {
+    "hash": "8fd767558a6fe2a8",
+    "revised": "2026-09-05",
+    "lockedSince": "2026-09-05"
+  },
+  "articles/what-happens-when-aps-is-tested-against-its-strongest-comparators": {
+    "hash": "9c67e671379f8a9f",
+    "revised": "2026-09-05",
+    "lockedSince": "2026-09-05"
   }
 }

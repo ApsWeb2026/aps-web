@@ -4407,3 +4407,44 @@ references:
     status: verified
     authority: Elsevier
     verifiedDate: 2026-09-04
+- id: barandiaran-2026-organizational-accounts-malfunction
+  type: journal-article
+  authors: Barandiaran, X. E.
+  year: 2026
+  title: 'Organizational Accounts of Malfunction: The Dual-Order Approach and the Normative Field Alternative'
+  journal: Biological Theory
+  volume: '21'
+  issue: '1'
+  pages: 51–69
+  doi: 10.1007/s13752-025-00500-z
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-05
+- id: qin-et-al-2010-intermolecular-associations-kaiabc
+  type: journal-article
+  authors: Qin, X., Byrne, M., Mori, T., Zou, P., Williams, D. R., McHaourab, H., & Johnson, C. H.
+  year: 2010
+  title: Intermolecular Associations Determine the Dynamics of the Circadian KaiABC Oscillator
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '107'
+  issue: '33'
+  pages: 14805–14810
+  doi: 10.1073/pnas.1002119107
+  verification:
+    status: verified
+    authority: National Academy of Sciences and PubMed
+    verifiedDate: 2026-09-05
+- id: johnson-stewart-egli-2011-cyanobacterial-circadian-system
+  type: journal-article
+  authors: Johnson, C. H., Stewart, P. L., & Egli, M.
+  year: 2011
+  title: 'The Cyanobacterial Circadian System: From Biophysics to Bioevolution'
+  journal: Annual Review of Biophysics
+  volume: '40'
+  pages: 143–167
+  doi: 10.1146/annurev-biophys-042910-155317
+  verification:
+    status: verified
+    authority: Annual Reviews and PubMed
+    verifiedDate: 2026-09-05
