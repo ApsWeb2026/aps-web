@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-09-05
+revised: 2026-09-06
 cluster: methodology-and-explanation
 role: extension
 abstract: "A worked application of comparative explanatory methodology tests three APS propositions against their strongest relevant comparators. The results differ by proposition and target: minimal cognition retains a non-redundant boundary-classificatory role without demonstrated additional substantive biological gain; the APS function proposition encounters comparator advantage; and the A–P–S analytic interface provides coherent redescription without demonstrated additional methodological gain. The comparison supports proposition-specific, comparator-relative assessment rather than a framework-wide verdict."
@@ -14,7 +14,7 @@ keyPoints:
   - "Scientific frameworks should be tested proposition by proposition against the strongest relevant comparator on a specified explanatory target."
   - "Minimal cognition in Caenorhabditis elegans yields complementarity: APS retains a boundary-classificatory role, but additional substantive biological explanatory gain is not demonstrated."
   - "Coronary-artery malfunction yields comparator advantage: contemporary organisational accounts already perform the relevant present-tense viability-relative discrimination."
-  - "The A–P–S interface applied to the KaiABC oscillator yields redescription with possible heuristic utility, not demonstrated additional methodological gain."
+  - "The APS interface applied to the KaiABC oscillator yields redescription with possible heuristic utility, not demonstrated additional methodological gain."
   - "The three local results do not warrant a framework-wide APS success or failure verdict or reopening of the prior scientific-status determination."
 relatedGlossaryTerms:
   - biological-explanation
@@ -35,6 +35,19 @@ references:
   - johnson-stewart-egli-2011-cyanobacterial-circadian-system
 ---
 
+**Where This Article Fits**
+
+*The preceding articles in this series developed the comparative methodology required for fair framework assessment. In particular, How Should the Strongest Comparator Be Chosen? established that comparator selection should proceed from a specified explanandum, contrast, and explanatory operation rather than from the identity or terminology of the candidate framework.*
+
+*The present article takes the next step.*
+
+*The comparator article established how the strongest relevant comparator should be chosen. PA-12 asks what happens when that controlled procedure is actually applied to selected APS propositions.*
+
+*The purpose is not to defend APS, confirm APS, compare APS with one rival framework, restate APS theory, or reopen the prior scientific-status adjudication. It is a worked application in which selected APS propositions are exposed to target-matched strongest-comparator tests under conditions that permit positive, null, adverse, complementary, and unresolved results.*
+
+*The unit of assessment is therefore not APS as a whole. It is a bounded proposition applied to a specified explanatory target.*
+
+## Introduction
 A scientific framework should not be assessed by asking whether it sounds plausible, whether its concepts fit together, or whether it can redescribe familiar phenomena in its own terms. Nor should it be judged by comparing it with a conveniently weak rival. A stronger test asks what a specific framework claim enables us to explain, discriminate, constrain, or infer that the strongest relevant alternative does not already enable us to do.
 
 That requirement creates a difficulty for frameworks such as Agency–Process–Scale (APS). APS contains different kinds of propositions. Some concern biological boundaries, some concern function or organisation, and some concern how explanatory problems should be analysed. It would therefore be misleading to ask whether APS as a whole simply “passes” or “fails.”
@@ -43,21 +56,9 @@ This article applies a controlled comparative method to three deliberately diffe
 
 The three tests do not produce the same result.
 
-A minimal-cognition proposition retains a non-redundant boundary-classificatory role but does not demonstrate additional substantive biological explanatory capacity. A present-tense function proposition encounters a stronger target-matched organisational comparator. The A–P–S analytic interface provides a coherent reorganisation of an established explanatory problem but does not demonstrate additional methodological gain.
+A minimal-cognition proposition retains a non-redundant boundary-classificatory role but does not demonstrate additional substantive biological explanatory capacity. A present-tense function proposition encounters a stronger target-matched organisational comparator. The APS analytic interface provides a coherent reorganisation of an established explanatory problem but does not demonstrate additional methodological gain.
 
-These different outcomes are not a defect in the test. They are what proposition-level testing is designed to reveal.
-
-## Where This Article Fits
-
-The preceding articles in this series developed the comparative methodology required for fair framework assessment. In particular, *How Should the Strongest Comparator Be Chosen?* established that comparator selection should proceed from a specified explanandum, contrast, and explanatory operation rather than from the identity or terminology of the candidate framework.
-
-The present article takes the next step.
-
-PA-11 established how the strongest relevant comparator should be chosen. PA-12 asks what happens when that controlled procedure is actually applied to selected APS propositions.
-
-The purpose is not to defend APS, confirm APS, compare APS with one rival framework, restate APS theory, or reopen the prior scientific-status adjudication. It is a worked application in which selected APS propositions are exposed to target-matched strongest-comparator tests under conditions that permit positive, null, adverse, complementary, and unresolved results.
-
-The unit of assessment is therefore not APS as a whole. It is a bounded proposition applied to a specified explanatory target.
+These different outcomes are not a defect in the test. They are what propositional testing is designed to reveal.
 
 ## What Is Being Tested?
 
@@ -91,7 +92,7 @@ The first proposition concerns **minimal cognition**. APS proposes a boundary di
 
 The second concerns **biological function**. APS proposes a present-tense viability-relative criterion for distinguishing functional contribution from mere causal effect and malfunction. The selected case is coronary-artery stress-response malfunction.
 
-The third concerns the **A–P–S analytic interface** itself. The question is whether Agency, Process, and Scale improve explanatory problem decomposition when transferred to a complex case not used to construct the framework. The selected problem is explanation of the KaiABC cyanobacterial circadian oscillator.
+The third concerns the **APS analytic interface** itself. The question is whether Agency, Process, and Scale improve explanatory problem decomposition when transferred to a complex case not used to construct the framework. The selected problem is explanation of the KaiABC cyanobacterial circadian oscillator.
 
 The three cases therefore test different things.
 
@@ -312,7 +313,7 @@ Convergence may describe similarity.
 
 It does not establish explanatory gain.
 
-## Test Three — A–P–S and the KaiABC Oscillator
+## Test Three — APS and the KaiABC Oscillator
 
 ### The APS proposition
 
@@ -320,7 +321,7 @@ The third test differs from the first two.
 
 It does not concern a substantive biological claim.
 
-It tests the A–P–S interface as an analytic device.
+It tests the APS interface as an analytic device.
 
 Agency, Process, and Scale are complementary analytic projections of one living organisation rather than independent components or biological levels.
 
@@ -364,7 +365,7 @@ Changing the explanandum changes what counts as sufficient explanation.
 
 ### What APS would need to add
 
-A–P–S could plausibly organise the case.
+APS could plausibly organise the case.
 
 Agency can direct attention to relevant living-system activity where an agent-level activity is genuinely part of the target.
 
@@ -384,7 +385,7 @@ The present evidence does not demonstrate that it does.
 
 Established KaiABC practice already distinguishes mechanism from dynamics, model-specific targets from system-level questions, and microscopic processes from broader temporal and ensemble behaviour.
 
-A–P–S can reorganise these distinctions coherently.
+APS can reorganise these distinctions coherently.
 
 It can provide a compact way of asking what activity matters, how continuity is maintained, and over what extent the relevant organisation must be analysed.
 
@@ -394,7 +395,7 @@ No independent-user comparison has shown that A–P–S reduces conflation, impr
 
 ### What survives
 
-> **Redescription with possible heuristic utility: A–P–S provides coherent analytic reorganisation, but the relevant distinctions are already recoverable from established explanatory practice.**
+> **Redescription with possible heuristic utility: APS provides coherent analytic reorganisation, but the relevant distinctions are already recoverable from established explanatory practice.**
 
 This does not mean the interface is useless.
 
@@ -406,11 +407,17 @@ A successful analytic interface would not by itself show that an APS biological 
 
 ## What the Three Tests Show
 
-| APS proposition | Case | Strongest comparator | Local result | What the result warrants |
-| --- | --- | --- | --- | --- |
-| Minimal cognition | *C. elegans* food–odour learning | Distributed associative-learning, memory, circuit, molecular, and navigation explanation | **Complementarity** | Non-redundant boundary-classificatory role; no additional substantive biological gain demonstrated |
-| Function | Coronary-artery stress-response malfunction | Contemporary organisational malfunction accounts | **Comparator advantage** | APS distinction substantially anticipated; comparator presently has greater target-specific articulation |
-| A–P–S analytic interface | KaiABC oscillator explanation | Distributed mechanistic, dynamical, multi-model, and systems analysis | **Redescription** | Coherent analytic organisation; no additional methodological gain demonstrated |
+<div class="aps-diagram">
+
+  <a href="/assets/diagrams/methodology-aps-table.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/methodology-aps-table.png"
+      alt="Three APS propositions tested against their strongest relevant comparators, showing complementarity for minimal cognition, comparator advantage for function, and redescription for the APS analytic interface"
+      loading="lazy"
+    />
+  </a>
+
+</div>
 
 The table should not be read as a scorecard.
 
@@ -436,7 +443,7 @@ It makes a stronger claim about how function and malfunction should be explained
 
 Here the comparator operates on almost exactly the same conceptual territory. Once its strongest contemporary form is credited, the scope for APS-specific residual explanatory work becomes much smaller.
 
-The A–P–S interface is different again.
+The APS interface is different again.
 
 It is an analytic resource.
 
@@ -448,25 +455,18 @@ A global question such as “Is APS better?” collapses important distinctions 
 
 ## What This Worked Test Establishes
 
-The strongest result of PA-12 is not that APS succeeds or fails.
-
-It is that strongest-comparator testing produces meaningful discrimination among APS propositions.
-
+The strongest result of this investigationis not that APS succeeds or fails. It is that strongest-comparator testing produces meaningful discrimination among APS propositions. 
 The method did not automatically confirm the framework.
 
-It did not force every result into a binary win–loss relation.
+- It did not force every result into a binary win–loss relation.
 
-It retained complementarity where different explanatory functions survived.
+- It retained complementarity where different explanatory functions survived.
 
-It retained comparator advantage where the strongest alternative already carried more of the relevant burden.
+- It retained comparator advantage where the strongest alternative already carried more of the relevant burden.
 
-It retained redescription where a framework resource remained coherent and potentially useful but did not establish additional comparative capacity.
+- It retained redescription where a framework resource remained coherent and potentially useful but did not establish additional comparative capacity.
 
-This is important because framework testing is often discussed abstractly.
-
-It is relatively easy to say that a scientific framework should be testable or compared with alternatives.
-
-It is much harder to preserve that discipline when the candidate framework is one whose concepts are already familiar and whose broader intellectual programme is internally coherent.
+This is important because framework testing is often discussed abstractly. It is relatively easy to say that a scientific framework should be testable or compared with alternatives. It is much harder to preserve that discipline when the candidate framework is one whose concepts are already familiar and whose broader intellectual programme is internally coherent.
 
 The worked tests show what a genuine opportunity to fail or narrow looks like in practice.
 
@@ -476,41 +476,35 @@ It makes the methodology informative.
 
 ## What It Does Not Establish
 
-PA-12 does not establish a framework-wide verdict.
+The investigation does not establish a framework-wide verdict.
 
-It does not show that APS “passes.”
+- It does not show that APS “passes.”
 
-It does not show that APS “fails.”
+- It does not show that APS “fails.”
 
-It does not establish that minimal cognition has achieved substantive explanatory superiority.
+- It does not establish that minimal cognition has achieved substantive explanatory superiority.
 
-It does not establish that APS's account of biological function is generally false.
+- It does not establish that APS's account of biological function is generally false.
 
-It does not establish that the A–P–S interface lacks heuristic value.
+- It does not establish that the A–P–S interface lacks heuristic value.
 
-It does not identify one rival framework that defeats APS across all targets.
+- It does not identify one rival framework that defeats APS across all targets.
 
-It does not reopen the prior scientific-status adjudication.
+- It does not reopen the prior scientific-status adjudication.
 
 The scientific-status reconsideration threshold was examined after the three local verdicts were fixed.
 
 That gate remained closed.
 
-This is not because adverse results automatically preserve a previous status.
-
-It is because the present worked tests did not generate the kind of new substantive result required to justify a separate scientific-status reconsideration.
+This is not because adverse results automatically preserve a previous status. It is because the present worked tests did not generate the kind of new substantive result required to justify a separate scientific-status reconsideration.
 
 Minimal cognition retained a non-redundant classificatory role but did not demonstrate an APS-specific biological consequence beyond the strongest comparator.
 
 Function yielded comparator advantage.
 
-The A–P–S interface yielded methodological redescription rather than demonstrated additional gain.
+The APS interface yielded methodological redescription rather than demonstrated additional gain. Methodological usefulness cannot substitute for a substantive biological success. Accordingly, the existing scientific-status determination remains outside PA-12 and unchanged.
 
-Methodological usefulness cannot substitute for a substantive biological success.
-
-Accordingly, the existing scientific-status determination remains outside PA-12 and unchanged.
-
-PA-12 neither confirms nor reassigns it.
+The investigation neither confirms nor reassigns it.
 
 ## Conclusion — What Happens When APS Is Actually Tested?
 
@@ -518,15 +512,13 @@ A framework does not have to receive one global verdict for a test to be scienti
 
 When selected APS propositions are compared with their strongest relevant alternatives, different things happen.
 
-The minimal-cognition proposition survives as a non-redundant way of organising the boundary question, but it does not yet demonstrate an additional biological explanatory dependency.
+The *minimal-cognition proposition* survives as a non-redundant way of organising the boundary question, but it does not yet demonstrate an additional biological explanatory dependency.
 
-The function proposition encounters a comparator that already performs the relevant present-tense viability-relative discrimination and currently provides greater target-specific articulation.
+The *function proposition* encounters a comparator that already performs the relevant present-tense viability-relative discrimination and currently provides greater target-specific articulation.
 
-The A–P–S interface reorganises an established explanatory problem coherently, but the relevant distinctions are already recoverable without it.
+The APS interface reorganises an established explanatory problem coherently, but the relevant distinctions are already recoverable without it.
 
-The resulting picture is therefore neither vindication nor rejection.
-
-It is differentiation.
+The resulting picture is therefore neither vindication nor rejection. It is differentiation.
 
 That is precisely what comparative explanatory methodology should make possible.
 
@@ -536,9 +528,7 @@ For APS, the implication is correspondingly bounded.
 
 Some propositions may remain scientifically interesting without yet demonstrating distinctive explanatory capacity. Others may require narrowing under comparator pressure. Analytic resources may remain useful even when they do not outperform competent existing practice.
 
-Those are not failures to reach the “real” verdict.
-
-They are the verdicts appropriate to the propositions actually tested.
+Those are not failures to reach the “real” verdict. They are the verdicts appropriate to the propositions actually tested.
 
 The broader lesson is methodological.
 
