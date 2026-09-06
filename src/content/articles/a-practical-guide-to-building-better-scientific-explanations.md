@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-09-05
+revised: 2026-09-06
 cluster: methodology-and-explanation
 role: core
 abstract: "Scientific explanations are easier to assess when their explananda, explanatory claims, explanatory resources, evidence, strongest relevant alternatives, claimed additional contributions and warranted scope remain explicitly aligned. This article converts the preceding Methodology and Explanation sequence into a practical, non-algorithmic guide for constructing and assessing explanations while permitting bounded positive, null, unresolved and non-comparable outcomes."
@@ -44,7 +44,7 @@ references:
 
 *This article does something different. It operationalises those controls as a reader-usable method for working with an individual explanatory claim.*
 
-*It does **not** introduce a new theory of scientific explanation. It does not replace the earlier comparative methodology, redefine explanatory gain or require one preferred explanatory form. Nor does it test the scientific standing of a whole framework. That framework-level task belongs to the next article.*
+*It does **not** introduce a new theory of scientific explanation. It does not replace the earlier comparative methodology, redefine explanatory gain or require one preferred explanatory form. Nor does it test the scientific standing of a whole framework. That framework task belongs to the next article.*
 
 ## Introduction
 Scientific explanations are not improved simply by adding detail, expanding vocabulary, increasing formal sophistication or placing more phenomena under one conceptual umbrella. Improvement depends on whether an explanation is clear about what it is explaining, what explanatory contribution it claims, what resources do the explanatory work, what evidence supports that contribution, what alternatives remain relevant, and how far the resulting conclusion is warranted.
@@ -163,12 +163,31 @@ A controlled assessment does not have to end with one account declared the winne
 For a specified explanandum and sufficiently strong comparator, several bounded outcomes are legitimate:
 
 - **Bounded positive gain** â€” additional target-relevant explanatory capacity is demonstrated.
+- **Comparator advantage** — the strongest relevant comparator provides greater explanatory capacity for the specified target than the candidate account.
 - **Complementarity** â€” each account contributes something non-redundant to the specified explanandum or to sufficiently linked aspects of it.
 - **No additional gain** â€” the candidate account does not establish additional explanatory capacity in the controlled comparison.
+- **Redescription** — the candidate reorganises or reformulates explanatory content already available from the strongest relevant comparator without demonstrating additional explanatory capacity.
 - **Unresolved** â€” the available evidence does not yet settle the residual-capacity question.
 - **Non-comparability** â€” the accounts are not sufficiently matched for the proposed direct comparison.
 
 These are alternatives, not positions on a single scale.
+
+<div class="aps-diagram">
+
+<a href="/assets/diagrams/methodology-implications.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/methodology-implications.png"
+    alt="Interpretation and consequences of comparative test findings, showing what bounded explanatory gain, comparator advantage, complementarity, no additional gain, redescription, non-comparability, and unresolved findings mean and what each scientifically warrants"
+    loading="lazy"
+  />
+</a>
+
+<p class="aps-diagram-caption">
+  <strong>Interpreting Comparative Findings.</strong>
+  Different comparative outcomes warrant different scientific conclusions. A bounded explanatory gain supports a correspondingly bounded claim, whereas comparator advantage, complementarity, no additional gain, redescription, non-comparability and unresolved evidence impose different constraints on what may legitimately be concluded.
+</p>
+
+</div>
 
 Scope must then be controlled. Evidence from one population, model system, species or regime does not automatically warrant a general biological conclusion. Generalisation requires bridge evidence or other justification appropriate to the domain (Yarkoni, 2022).
 

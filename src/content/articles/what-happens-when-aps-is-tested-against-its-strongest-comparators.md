@@ -9,7 +9,7 @@ canonicalLockDate: 2026-09-05
 revised: 2026-09-06
 cluster: methodology-and-explanation
 role: extension
-abstract: "A worked application of comparative explanatory methodology tests three APS propositions against their strongest relevant comparators. The results differ by proposition and target: minimal cognition retains a non-redundant boundary-classificatory role without demonstrated additional substantive biological gain; the APS function proposition encounters comparator advantage; and the A–P–S analytic interface provides coherent redescription without demonstrated additional methodological gain. The comparison supports proposition-specific, comparator-relative assessment rather than a framework-wide verdict."
+abstract: "A worked application of comparative explanatory methodology tests three APS propositions against their strongest relevant comparators. The results differ by proposition and target: minimal cognition retains a non-redundant boundary-classificatory role without demonstrated additional substantive biological gain; the APS function proposition encounters comparator advantage; and the APS analytic interface provides coherent redescription without demonstrated additional methodological gain. The comparison supports proposition-specific, comparator-relative assessment rather than a framework-wide verdict."
 keyPoints:
   - "Scientific frameworks should be tested proposition by proposition against the strongest relevant comparator on a specified explanatory target."
   - "Minimal cognition in Caenorhabditis elegans yields complementarity: APS retains a boundary-classificatory role, but additional substantive biological explanatory gain is not demonstrated."
@@ -138,7 +138,7 @@ A method that cannot return those outcomes is not a genuine test.
 
 <p class="aps-diagram-caption">
   <strong>From APS Proposition to Bounded Comparative Result.</strong>
-  A proposition-level test begins with a specified APS claim and locked explanatory target, identifies the strongest relevant comparator before outcome adjudication, asks whether APS adds explanatory capacity, and limits the resulting conclusion to the evidence actually obtained. No single local result establishes APS-wide success or failure.
+  A propositional test begins with a specified APS claim and locked explanatory target, identifies the strongest relevant comparator before outcome adjudication, asks whether APS adds explanatory capacity, and limits the resulting conclusion to the evidence actually obtained. No single local result establishes APS-wide success or failure.
 </p>
 
 </div>
