@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-02
+revised: 2026-09-07
 cluster: conceptual-foundations
 abstract: >
   This page provides one of the clearest entry points into the APS framework.
@@ -101,7 +101,7 @@ This article provides one of the clearest entry points into the APS framework be
 
 The naturalisation programme relevant to this explanatory approach is developed in *Naturalising Life*, which examines how APS seeks to make its biological concepts scientifically intelligible through naturalisation and conceptual closure.
 
-## Why Explanation Matters
+**## Why Explanation Matters**
 
 Scientific explanation is never simply a matter of accumulating facts. Before explanation can proceed, it must first identify what requires explanation. Different sciences focus on different phenomena because they are organised around different explanatory questions, and biology is no exception.
 
@@ -111,7 +111,7 @@ This question shifts the explanatory emphasis within APS toward organised persis
 
 The result is a distinctive APS explanatory orientation. APS begins with the continuity of living systems and asks how such continuity becomes possible. Within APS, viability orientation characterises the organisation of this persistence, while constraint closure identifies how the conditions supporting that organisation are recursively maintained.
 
-## Step One — What Needs to Be Explained?
+**## Step One — What Needs to Be Explained?**
 
 Every explanatory framework identifies the phenomena and questions to which it gives particular explanatory priority.
 
@@ -155,7 +155,7 @@ Within this APS inquiry, these phenomena can be investigated through their contr
 
 </div>
 
-### Viability and Organised Persistence
+**### Viability and Organised Persistence**
 
 APS does not treat persistence as mere duration.
 
@@ -171,7 +171,7 @@ Living systems are viability-oriented organised continuities.
 
 APS seeks to explain how such continuities become possible.
 
-### Development and the Explanatory Target
+**### Development and the Explanatory Target**
 
 One consequence of this perspective is the elevated importance of development.
 
@@ -181,7 +181,7 @@ Organisms persist through continual developmental transformation. Growth, repair
 
 The developmental organisation of life reveals that living systems do not merely undergo development. They persist through development. This insight helps explain why development occupies such a prominent place within APS. Development is one of the principal forms of temporal organisation through which APS investigates the maintenance and transformation of viable continuity.
 
-### Perturbation and the Visibility of Organisation
+**### Perturbation and the Visibility of Organisation**
 
 The APS perspective also changes how perturbation is understood.
 
@@ -197,7 +197,7 @@ For this reason, APS regards vulnerability not as an accidental feature of life 
 
 The first step of APS can therefore be summarised quite simply. APS identifies viability-oriented organised persistence as a principal explanatory target for understanding living organisation: how living systems maintain continuity despite continual transformation, perturbation, and environmental change.
 
-## Step Two — How Does APS Organise Explanation?
+**## Step Two — How Does APS Organise Explanation?**
 
 Identifying organised persistence as a principal explanatory target within APS is only the first step.
 
@@ -217,7 +217,7 @@ Within APS, living systems are investigated through the organisation of Agency, 
 
 The remainder of the framework develops this explanatory architecture in increasingly detailed ways.
 
-### Mechanism and the APS Explanatory Question
+**### Mechanism and the APS Explanatory Question**
 
 APS does not reject mechanistic explanation.
 
@@ -235,7 +235,7 @@ A repair mechanism may restore damaged tissue. A regulatory mechanism may stabil
 
 This organisational question supplements rather than invalidates mechanistic explanation. Its relevance depends upon the explanandum.
 
-### Agency, Process, and Scale
+**### Agency, Process, and Scale**
 
 APS investigates organised persistence through three analytic projections:
 
@@ -273,13 +273,13 @@ They therefore constitute the central analytic architecture used by APS for this
 
     <strong>APS Explanatory Structure.</strong>
 
-    APS investigates organised persistence through the integrated analysis of Agency, Process, and Scale. Within the framework, viability orientation characterises persistence in relation to viability, while constraint closure identifies organisational dependencies through which conditions of continuation may be maintained.
+    APS investigates organised persistence through Agency, Process, and Scale as complementary analytic projections of living organisation. Within the framework, viability orientation characterises persistence in relation to viability, while constraint closure identifies organisational dependencies through which conditions of continuation may be maintained.
 
   </p>
 
 </div>
 
-The explanatory structure illustrated above provides the conceptual centre of the APS framework. Rather than treating biological phenomena as isolated domains, APS integrates them within a shared architecture organised around continuity itself.
+The explanatory structure illustrated above provides the conceptual centre of the APS framework. Rather than treating biological phenomena as isolated domains, APS provides a shared analytic architecture through which their relations to organised persistence can be investigated where relevant.
 
 Agency, Process, and Scale identify complementary analytic projections of viability-oriented, constraint-closed organisation. They do not by themselves explain how new organisational regimes arise.
 
@@ -291,77 +291,77 @@ This question concerns organisational transition rather than the maintenance of 
 
 APS explains cross-scale influence through materially implemented constraints that alter the conditions under which constituent processes occur. Wider organisational relations do not supersede local causation; they modify the organisational context within which local causal processes operate.
 
-### Developmental Organisation and Continuity
+**### Developmental Organisation and Continuity**
 
 The importance of development becomes even clearer at this stage.
 
-Where organised persistence is the explanatory target within APS and Agency, Process, and Scale provide complementary analytic projections, then developmental organisation becomes one of the primary means through which continuity is realised.
+Where organised persistence is the explanatory target within APS and Agency, Process, and Scale provide complementary analytic projections, developmental organisation becomes a major target of investigation where continuity through transformation is the explanandum.
 
-Development coordinates transformation across time. It integrates physiological, behavioural, ecological, and organisational processes while preserving continuity despite continual change. Within APS, developmental organisation provides a way of investigating how persistence remains viable through transformation rather than despite it.
+Development involves transformation across time and can coordinate physiological, behavioural, ecological, and organisational processes relevant to continuity. Within APS, developmental organisation provides a way of investigating how persistence remains viable through transformation rather than despite it.
 
 This insight extends far beyond embryology or growth. Repair, adaptation, learning and ageing can each involve developmental processes across different temporal extents. APS therefore investigates important forms of continuity as developmentally organised.
 
 APS consequently treats developmental organisation as a major continuity architecture where persistence through transformation is the explanandum.
 
-### Ecological and Organism–Environment Relations
+**### Ecological and Organism–Environment Relations**
 
-Biological continuity is never achieved by organisms alone.
+Biological continuity depends upon materially realised organism–environment relations.
 
-Living systems depend upon continual interaction with their environments. Resources must be acquired, opportunities must be exploited, risks must be managed, and ecological conditions must remain sufficiently supportive for viability to be maintained.
+Living systems depend upon continual interaction with their environments. Resources must be acquired, opportunities may be exploited, risks must be managed, and environmental conditions must remain sufficiently supportive for viability to be maintained.
 
 Organism–environment relations therefore become important to the APS explanation of organised persistence.
 
-APS rejects the image of organisms as self-contained entities operating independently of their surroundings. Instead, living systems are understood as continuity-preserving organisations embedded within wider ecological networks. Viability depends upon these relationships, development depends upon these relationships, adaptation depends upon these relationships, and persistence itself depends upon these relationships.
+APS rejects the image of organisms as self-contained entities operating independently of their surroundings. Living systems are materially situated in and coupled to environments that shape resources, constraints, perturbations, and opportunities relevant to viability. These organism–environment relations can therefore matter to development, adaptation, and persistence without implying that the wider ecological context is itself a viability-oriented biological agent.
 
 APS therefore includes ecological as well as organisational relations where they are required to explain the persistence of the living system under investigation. Within this APS inquiry, explaining organised persistence may require attention to how continuity depends upon interacting organism–environment relations.
 
-### Repair, Resilience, and Organised Continuity
+**### Repair, Resilience, and Organised Continuity**
 
 A particularly revealing consequence of the APS approach concerns repair and resilience.
 
 Repair and resilience are often studied as specialised biological topics. APS gives them particular explanatory importance where they reveal how continuity is preserved under conditions of challenge and disruption.
 
-Repair demonstrates that continuity can be restored. Resilience demonstrates that continuity can recover. Regulation demonstrates that continuity can be stabilised. Adaptation demonstrates that continuity can be reorganised. Together these phenomena reveal that persistence is not passive endurance but active organisational achievement.
+Repair can show how continuity is restored. Resilience can show how continuity recovers. Regulation can show how continuity is stabilised. Adaptation can show how continuity is reorganised. Where these processes contribute to maintaining or re-establishing viable organisation, they can illuminate persistence as an active organisational achievement rather than passive endurance.
 
-This insight helps explain why APS places such emphasis upon perturbation. Disruptions reveal the continuity architectures through which viability is maintained. When systems are challenged, the organisational relationships responsible for persistence become visible in ways that ordinary functioning often conceals.
+This helps explain why APS places such emphasis upon perturbation. Disruptions can reveal organisational dependencies relevant to the maintenance of viability. When systems are challenged, relationships contributing to persistence may become visible in ways that ordinary functioning can conceal.
 
 Within APS, repair and resilience can therefore illuminate organisational dependencies relevant to viable continuity beyond their immediate biological contexts.
 
-## From Biological Explanation to the Wider Framework
+**## From Biological Explanation to the Wider Framework**
 
 The first step identifies a principal APS explanatory target. The second specifies the analytic architecture through which APS investigates it.
 
 Together these steps establish the explanatory orientation of the wider framework.
 
-Once continuity becomes the explanatory target and organised persistence becomes the explanatory focus, a remarkable consequence follows. Domains that are often treated separately begin to reveal deep organisational connections.
+Once continuity becomes the explanatory target and organised persistence becomes the explanatory focus, domains that are often treated separately can be related within APS where their explananda bear upon the organisation and transformation of living persistence.
 
 Within APS, development, ecology, evolution, cognition and social organisation can each be investigated in relation to different forms or transformations of organised persistence. Their inclusion in this shared architecture does not establish that APS has demonstrated additional explanatory gain for each domain, nor does it replace their independently established biological explanations.
 
-Within APS, these domains can be compared through a shared explanatory concern:
+Within APS, these domains can, where relevant, be compared through a recurring explanatory concern:
 
 > How is viability-oriented continuity preserved across changing conditions and timescales?
 
-The wider APS framework develops this question across multiple domains of biological organisation. Each domain contributes a different perspective on organised persistence. Each reveals different mechanisms, processes, scales, and relationships through which continuity becomes possible.
+The wider APS framework develops this question across multiple domains of biological organisation. Where organised persistence is relevant to the explanandum, each domain may contribute a different perspective and identify different mechanisms, processes, scales, and relationships bearing upon continuity.
 
-Within APS they can be related through an integrated explanatory architecture organised around a recurring biological achievement:
+Within APS they can be related through a shared analytic architecture organised around a recurring biological concern:
 
 > the maintenance of viable continuity through continual transformation.
 
 The full dependency architecture linking life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning is developed in *The Core Structure of APS*. That article provides the canonical account of how the explanatory foundations introduced here become organised into the wider APS framework.
 
-## What APS Changes
+**## What APS Changes in Explanatory Emphasis**
 
 Every explanatory framework highlights some features of the world while treating others as secondary.
 
-The proposed contribution of APS lies not simply in the concepts it introduces but in the explanatory organisation it proposes for relating biological phenomena. By placing viability-oriented organised persistence at the centre of explanation, APS changes how familiar biological phenomena are interpreted and connected.
+The proposed contribution of APS lies not simply in the concepts it introduces but in the explanatory organisation it proposes for relating biological phenomena. By placing viability-oriented organised persistence at the centre of its own explanatory inquiry, APS changes the explanatory emphasis through which familiar biological phenomena are interpreted and connected within the framework.
 
 Many traditional approaches begin with structures, mechanisms, genes, behaviours, populations, or informational processes and then attempt to explain life through them. APS begins with a different question:
 
 > How does continuity remain viable through time?
 
-Once this question becomes central, the explanatory landscape changes.
+Once this question becomes central within APS, the explanatory emphasis changes.
 
-Persistence is no longer understood as static endurance but as an active organisational achievement. Stability is no longer understood as immobility but as the regulated preservation of continuity through change. Development is no longer restricted to growth and maturation but becomes one of the primary continuity architectures through which viability is maintained. Ecology is no longer merely environmental context but part of the organisational conditions required for persistence. Repair and resilience are no longer specialised biological topics but windows into the continuity-preserving organisation of living systems.
+Within this APS perspective, persistence is investigated not as static endurance but as an active organisational achievement. Stability is investigated not as immobility but as the regulated preservation of continuity through change. Development becomes especially relevant where continuity through transformation is the explanandum. Ecology becomes relevant where organism–environment relations bear upon the conditions of persistence. Repair and resilience can provide windows into continuity-preserving organisation when disruption and recovery are under investigation.
 
 This shift does not discard existing biology.
 
@@ -371,39 +371,39 @@ Mechanisms remain important. Genes remain important. Evolution remains important
 
 APS therefore offers an organisational reconstruction centred on continuity rather than components alone. The resulting framework can relate domains often studied separately while preserving the independent explanatory contributions generated within them.
 
-## Continuity Architectures Across the Living World
+**## Continuity Architectures Across the Living World**
 
 One consequence of the APS perspective is the recognition that continuity can be investigated through multiple interacting architectures.
 
 Within APS, development, ecology, evolution, cognition and social organisation can be investigated as different contexts in which the organisation or transformation of continuity is relevant.
 
-These domains differ enormously in their mechanisms, timescales, and forms of organisation. Yet they are united by a common explanatory theme.
+These domains differ enormously in their mechanisms, timescales, and forms of organisation. Within APS, they can nevertheless be related through a recurring explanatory concern.
 
 Within APS, each can be investigated in relation to the organisation and transformation of viable continuity through time.
 
-This insight helps explain why APS repeatedly returns to concepts such as organised persistence, viability, temporal organisation, adaptation, resilience, repair, and continuity. These are not isolated topics scattered throughout the framework. They are recurring expressions of the same underlying explanatory concern.
+This insight helps explain why APS repeatedly returns to concepts such as organised persistence, viability, temporal organisation, adaptation, resilience, repair, and continuity. These are not isolated topics scattered throughout the framework. Within APS, they recur because each can bear upon questions concerning the organisation and transformation of viable continuity.
 
 Within APS, life's persistence is investigated as organised continuity.
 
 The various domains of APS explore how this organisation occurs across different biological domains. The framework therefore has a cumulative conceptual structure: different domains can contribute distinct perspectives on continuity-preserving organisation while their independent explanatory status remains separately assessable.
 
-### From Development to Social Organisation
+**### From Development to Social Organisation**
 
 The developmental and social synthesis articles illustrate this cumulative structure particularly clearly.
 
-Within APS, development is investigated in relation to continuity through the trajectory of individual organisms, while social organisation is investigated in relation to ways continuity may become distributed across interacting organisms, populations, institutions, and technologies.
+Within APS, development is investigated in relation to continuity through the trajectory of individual organisms, while social organisation is investigated in relation to ways interactions among organisms, populations, institutions, and technologies can alter conditions relevant to biological and collective continuity.
 
-Neither domain replaces the other. Instead, they reveal different scales and forms of organised persistence.
+Neither domain replaces the other. They address different explanatory contexts and spatial and temporal extents at which relations relevant to persistence may be investigated.
 
-The developmental organisation of life examines viability through transformation, while the social organisation of life examines how continuity may become collectively organised across larger historical and organisational extents.
+The developmental organisation of life examines viability through transformation, while the social organisation of life examines how collective organisation can modify conditions relevant to persistence across larger historical and organisational extents.
 
-Together they motivate a central APS proposition:
+Together they motivate a bounded APS proposition:
 
-> continuity architectures can become increasingly distributed while remaining related to viability-relevant organisational requirements.
+> relations relevant to organised persistence can become distributed across interacting biological and social contexts without implying that every participating system is itself a viability-oriented biological agent.
 
-This principle extends throughout the wider framework.
+This proposition guides inquiry within the wider framework where such distributed relations are relevant to the explanandum.
 
-## The APS Perspective
+**## The APS Perspective**
 
 APS can therefore be summarised as an explanatory reorientation.
 
@@ -423,7 +423,7 @@ Development, ecology, evolution, cognition, physiology, diagnosis, and social or
 
 APS approaches living organisation through continuity, organisation, viability, and persistence. These commitments define its explanatory orientation rather than prescribing the necessary structure of biological explanation generally.
 
-## Where to Go Next
+**## Where to Go Next**
 
 A useful next step is:
 
@@ -449,7 +449,7 @@ Readers interested in particular continuity architectures may then explore:
 
 - *Temporal Organisation and Organised Persistence*
 
-## Key Point
+**## Key Point**
 
 APS proceeds through two linked explanatory steps.
 

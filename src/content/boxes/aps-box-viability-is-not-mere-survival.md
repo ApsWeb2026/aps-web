@@ -6,27 +6,26 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-27
-revised: 2026-06-27
-
+revised: 2026-09-07
 cluster: conceptual-foundations
 ---
 
 In APS, viability and survival are not the same thing.
 
-**Survival** refers to an outcome: a system continues to exist.
+**Survival** describes an outcome: a system continues to exist.
 
-**Viability** refers to an organisational condition: a system retains the capacity to maintain the conditions required for continued persistence.
+**Viability** concerns the organisational conditions under which a living system can continue functioning as the organisation it is. It therefore refers not merely to continued presence, but to the capacity to maintain and re-establish conditions compatible with continued functioning.
 
-This distinction matters because living systems are not static objects. They exist under conditions of continual change, material turnover, environmental variation, developmental transformation, and organisational disruption. Remaining alive at a particular moment does not necessarily mean that the conditions required for future persistence are being maintained.
+This distinction matters because living systems are not static objects. They undergo continual material turnover, environmental variation, developmental transformation, perturbation, and organisational change. Remaining alive at a particular moment does not necessarily mean that the conditions required for continued functioning are being successfully maintained.
 
-A system may survive temporarily while losing viability. Organisational degradation, irreversible physiological decline, developmental failure, or ecological collapse may leave a system still present while progressively undermining its capacity for continued persistence.
+A system may therefore survive temporarily while its viability deteriorates. Organisational degradation, irreversible physiological decline, developmental failure, or deterioration of organism–environment relations may leave a system still present while progressively undermining the conditions required for its continued functioning.
 
-Conversely, viability may require substantial change. Living systems often preserve continuity through repair, regulation, adaptation, reorganisation, and reconstruction. Viability is therefore not equivalent to stability. It is the capacity to preserve continuity through change.
+Conversely, maintaining viability may require substantial change. Living systems can preserve continuity through regulation, repair, adaptation, reorganisation, and reconstruction. Viability is therefore not equivalent to stability: the relevant organisation may persist precisely because it changes in ways that maintain or re-establish viable conditions.
 
 The distinction can be summarised simply:
 
 **Survival asks:** *Is the system still here?*
 
-**Viability asks:** *Does the system still possess the organisational capacity required for continued persistence?*
+**Viability asks:** *Are the organisational conditions required for its continued functioning being maintained or capable of being re-established?*
 
-Within APS, viability occupies a central position because it links biological activity to organised continuity. Agency maintains viability, and viability enables organised persistence. Understanding this distinction helps explain why living systems must do more than merely remain present: they must continually sustain the conditions that make future persistence possible.
+Within APS, viability identifies the system-relative conditions in relation to which biological activity can support or undermine continued functioning. Biological agency is viability-oriented organisational activity, while organised persistence concerns the continuity of living organisation through change. These are analytically distinguishable aspects of one living organisation rather than successive stages through which biological activity is converted into persistence.
