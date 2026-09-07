@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-09-05
+revised: 2026-09-07
 cluster: methodology-and-explanation
 role: core
 
@@ -306,21 +306,21 @@ The framework-level procedure can now be seen as a sequence of controls rather t
 
 A fair framework test is neither protective nor punitive.
 
-It gives the framework its strongest defensible formulation.
+- It gives the framework its strongest defensible formulation.
 
-It identifies what kind of claim is actually being assessed.
+- It identifies what kind of claim is actually being assessed.
 
-It asks what evidence would bear on that claim.
+- It asks what evidence would bear on that claim.
 
-Where comparison is warranted, it reconstructs strong relevant alternatives.
+- Where comparison is warranted, it reconstructs strong relevant alternatives.
 
-It leaves genuine room for adverse, null, unresolved and comparator-favourable outcomes.
+- It leaves genuine room for adverse, null, unresolved and comparator-favourable outcomes.
 
-It tests broader transfer only when broader scope is claimed.
+- It tests broader transfer only when broader scope is claimed.
 
-It prevents local results from being promoted into global conclusions.
+- It prevents local results from being promoted into global conclusions.
 
-And it records material framework revisions rather than allowing the tested claim to disappear retrospectively.
+- And it records material framework revisions rather than allowing the tested claim to disappear retrospectively.
 
 The central symmetry is therefore methodological rather than mechanical.
 
@@ -342,19 +342,19 @@ Framework assessment therefore need not terminate in either global endorsement o
 
 This article does not provide a universal framework-testing algorithm.
 
-It does not require every new framework to defeat established frameworks globally.
+- It does not require every new framework to defeat established frameworks globally.
 
-It does not require every framework to demonstrate broad transfer.
+- It does not require every framework to demonstrate broad transfer.
 
-It does not require the same form of evidence for conceptual, methodological, explanatory, modelling and empirical claims.
+- It does not require the same form of evidence for conceptual, methodological, explanatory, modelling and empirical claims.
 
-It does not treat novelty, breadth, integration, usefulness, conceptual richness or formal sophistication as substitutes for evidence appropriate to the claim.
+- It does not treat novelty, breadth, integration, usefulness, conceptual richness or formal sophistication as substitutes for evidence appropriate to the claim.
 
-It does not infer framework-wide superiority from local explanatory gain.
+- It does not infer framework-wide superiority from local explanatory gain.
 
-It does not infer framework-wide rejection from one adverse, null or unresolved case.
+- It does not infer framework-wide rejection from one adverse, null or unresolved case.
 
-And it does not evaluate APS or any other particular scientific framework.
+- And it does not evaluate APS or any other particular scientific framework.
 
 ## Completing the Methodology and Explanation Sequence
 

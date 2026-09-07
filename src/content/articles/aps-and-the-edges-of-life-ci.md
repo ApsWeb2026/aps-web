@@ -6,25 +6,25 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-15
+revised: 2026-09-07
+
 cluster: artificial-systems-and-boundaries
 role: synthesis
 
 abstract: >
   Biological theory has long struggled with borderline systems such as
   viruses, dormant organisms, protocells, synthetic constructs, and
-  artificial systems. Traditional approaches often treat such cases as
-  threats to biological definition because they resist straightforward
-  classification. Within the APS framework,
-  however, borderline cases are neither anomalies nor failures of
-  theory. They are expected consequences of viability-oriented
-  organisation. Because living systems exist along gradients of
-  dependence, integration, autonomy, and persistence, biological
-  boundaries are necessarily complex rather than absolute. Borderline
-  systems therefore provide valuable opportunities to investigate the
-  organisational conditions under which life emerges, persists, depends
-  upon broader systems, and sometimes breaks down. APS thus transforms
-  edge cases from conceptual problems into explanatory resources.
+  artificial systems. Within APS, such cases need not be treated as
+  failures of definition simply because their classification is difficult.
+  They provide demanding cases in which the organisational conditions
+  relevant to living status can be investigated. APS approaches these
+  questions through viability-oriented, constraint-closed organisation,
+  while distinguishing variation in dependence, integration, autonomy,
+  and persistence from any assumption that living status itself must form
+  a single graded continuum. Borderline systems are therefore valuable
+  because they expose questions about biological organisation that more
+  familiar cases may leave hidden, not because their existence by itself
+  establishes a uniquely APS boundary criterion.
 
 relatedGlossaryTerms:
   - viability
@@ -110,99 +110,227 @@ references:
 
 ## The Problem of Borderline Cases
 
-Few issues have generated more persistent disagreement within biology than the status of borderline systems. Organisms are generally recognised as living, while rocks, rivers, and other forms of non-living matter are not. Between these relatively uncontroversial cases, however, lies a wide range of systems whose status remains uncertain. Viruses, dormant organisms, protocells, synthetic organisms, artificial systems, and hypothetical extraterrestrial life have all been proposed as examples that challenge conventional definitions of life.
+Few issues have generated more persistent disagreement within biology than the status of borderline systems. Organisms are generally recognised as living, while rocks, rivers, and many other forms of non-living matter are not. Between relatively uncontroversial cases, however, lie systems whose status is more difficult to determine. Viruses, dormant organisms, protocells, synthetic systems, artificial systems, and hypothetical extraterrestrial life all place pressure on simple criteria for living status.
 
-Traditionally, such cases have been treated as problems. A successful definition of life is often expected to draw a clear boundary between living and non-living systems. Borderline entities therefore appear troublesome because they seem to resist straightforward classification. If a definition cannot determine whether a virus is alive, whether a dormant organism remains alive during prolonged inactivity, or whether an artificially constructed biological system should count as living, the definition is frequently regarded as incomplete or inadequate.
+Such cases are sometimes treated as evidence that a definition of life has failed. If a definition cannot immediately determine whether a virus is alive, whether a dormant organism remains alive during prolonged inactivity, or whether an artificially constructed system should count as living, the uncertainty may appear to expose a defect in the definition itself.
 
-This expectation rests upon a particular understanding of biological boundaries. It assumes that life is a category defined by a set of necessary and sufficient characteristics and that every system must therefore fall clearly on one side of the boundary or the other. Borderline cases become problematic because they appear to violate this expectation. They occupy positions where familiar criteria cease to produce stable classifications.
+That conclusion does not automatically follow.
 
-APS approaches the issue differently. Rather than treating borderline systems as failures of biological definition, APS treats them as expected consequences of viability-oriented organisation. Living systems are not defined by a fixed collection of traits but by their participation in persistence architectures organised around the maintenance of viability. Once life is understood in these organisational terms, the existence of intermediate and ambiguous cases ceases to be surprising. The edges of life become theoretically informative precisely because they reveal how biological organisation is assembled, maintained, extended, and sometimes lost.
+Within APS, life is defined as **viability-oriented, constraint-closed organisation**. Applying that definition to difficult cases requires empirical and organisational analysis. A borderline case may therefore expose uncertainty about how the relevant organisation is realised, where its boundaries lie, which dependencies are constitutive, and what evidence warrants a particular classification.
 
-This shift has important implications. Borderline cases cease to function primarily as challenges to biological theory. Instead, they become opportunities to investigate the organisational conditions under which living systems exist. Questions concerning viruses, dormancy, artificial systems, or minimal forms of life are therefore valuable not because they expose weaknesses in biological explanation, but because they illuminate the structure of biological organisation itself.
+Borderline cases are scientifically important for precisely this reason. They force questions about organisation that familiar organisms may allow us to overlook.
 
-## Why No Sharp Boundary Exists
+They should not, however, be treated as demonstrating in advance that living status is graded, that every ambiguous system partially instantiates life, or that APS supplies a uniquely decisive boundary criterion.
 
-Many debates concerning the definition of life implicitly assume that a successful theory should identify a single decisive criterion capable of separating living systems from non-living systems. This expectation is understandable. Scientific classifications often seek stable distinctions, and biology has traditionally searched for properties that appear uniquely characteristic of living organisms. Yet the persistence of borderline cases suggests that the organisational reality of life may be more complex than such expectations allow.
+## Why Boundary Cases Resist Simple Classification
 
-APS rejects the assumption that life must possess a universally sharp boundary. Living systems are organised around viability, but viability itself is realised through highly diverse forms of organisation. Different systems achieve persistence through different combinations of regulation, metabolism, development, ecological dependence, reproduction, repair, adaptation, and environmental interaction. As a result, the organisational features associated with life do not necessarily appear simultaneously, disappear simultaneously, or exist to the same degree across all systems.
+Many debates about life implicitly search for a single observable characteristic capable of separating living from non-living systems. Metabolism, reproduction, heredity, evolution, autonomy, information processing, and self-maintenance have all played important roles in such discussions.
 
-This diversity becomes especially apparent when biological organisation is examined across evolutionary and developmental contexts. The earliest forms of life likely did not possess the full range of organisational capacities observed in contemporary organisms. Similarly, many present-day systems exhibit partial or dependent forms of biological organisation. Dormant organisms may temporarily suspend activities commonly associated with life while retaining the capacity to restore viability. Viruses may participate in evolutionary and biological processes while depending extensively upon host systems. Protocells may exhibit some persistence-maintaining functions without displaying the full organisational integration characteristic of established organisms.
+Difficulties arise because these properties need not occur together in every case and because many of them can appear in systems whose biological status remains disputed.
 
-Such cases are not exceptions to an otherwise simple rule. They reveal that biological organisation emerges and persists through varying degrees of integration, dependence, and continuity. If life is fundamentally organisational, then its boundaries should be expected to reflect these organisational gradients rather than conform to perfectly sharp classificatory divisions.
+APS approaches the problem organisationally. Rather than asking whether one trait is present, it asks how the relevant activities and constraints are organised and whether they constitute viability-oriented, constraint-closed organisation.
 
-The implication is not that biological boundaries are arbitrary or subjective. APS does not claim that any system can be considered living. Rather, it suggests that the relevant distinctions arise from organisational relationships rather than from the presence or absence of a single defining trait. Borderline cases therefore arise because the organisational conditions associated with viability-oriented persistence can exist in varying forms and degrees. The existence of such cases is not evidence against a theory of life. It is evidence about the nature of life itself.
+This does not imply that biological boundaries must be intrinsically vague or that no scientifically defensible distinction between living and non-living systems can be made. It means that the distinction cannot simply be assumed to follow from the presence or absence of one familiar trait.
 
-## Graded Biological Organisation
+Dormancy illustrates the point. Reduced activity need not imply loss of living status if the organisation required for continued viability and subsequent reactivation remains materially preserved.
 
-Once life is understood as viability-oriented organised persistence, it becomes possible to understand why biological organisation often appears graded rather than absolute. Organisational systems can differ in their degree of autonomy, their dependence upon broader persistence architectures, the integration of their regulatory processes, and the robustness of their continuity across time. These differences do not merely create classificatory difficulties. They reveal important dimensions of biological organisation.
+Viruses raise a different problem because their replication and propagation depend extensively on host organisation. That dependence is biologically important, but dependence alone does not determine living status.
 
-A mature multicellular organism, for example, exhibits highly integrated forms of persistence-maintaining activity. Development, physiology, regulation, repair, and behaviour contribute to the maintenance of viability across changing conditions. By contrast, a dormant spore may retain the capacity for viability while expressing relatively little active regulation. A virus may participate in continuity-preserving biological processes while relying extensively upon the persistence architecture of its host. Protocells may display early forms of self-maintaining organisation without achieving the stability associated with more developed biological systems.
+Protocells and synthetic systems introduce still other questions concerning autonomy, externally supplied conditions, internally maintained organisation, reproduction, and the emergence of more integrated forms of self-maintenance.
 
-From an APS perspective, these differences should not be interpreted simply as evidence for or against life. They represent different positions within a broader landscape of biological organisation. Some systems exhibit relatively complete and integrated persistence architectures. Others exhibit partial, dependent, emerging, or attenuated forms of the same organisational logic. The existence of such variation reflects the organisational nature of life rather than a failure to define it.
+These cases therefore require analysis rather than prior classification.
 
-This perspective helps explain why attempts to identify a single defining trait repeatedly encounter difficulties. Biological organisation is not constructed around one characteristic but around the coordinated maintenance of viability across multiple interacting processes. Different systems may therefore exhibit some dimensions of this organisation more strongly than others. Borderline cases arise because biological organisation is structured across gradients of dependence and integration rather than around a single decisive threshold.
+## Variation in Biological Organisation
+
+One reason borderline cases are difficult is that many properties relevant to biological organisation vary.
+
+Systems can differ in:
+
+- their degree of dependence on surrounding systems;
+- the integration of their regulatory processes;
+- their capacity to maintain or restore organisation after perturbation;
+- the spatial and temporal extent over which continuity is maintained; and
+- the extent to which conditions required for continued functioning are generated or maintained by the system itself.
+
+Such variation is scientifically significant.
+
+It does **not**, however, follow that Life itself must therefore be represented as a single graded quantity. A system may exhibit more or less autonomy, integration, robustness, or regulatory capacity without those variables by themselves determining its living status.
+
+APS therefore distinguishes **variation in organisational properties** from **classification as living**.
+
+A mature multicellular organism, a dormant spore, a virus, and an experimentally constructed protocell can exhibit very different forms of dependence and organisational integration. Those differences provide material for comparative investigation. They should not be converted automatically into positions on a continuum running from non-life to fully realised life.
+
+The relevant question remains whether the organisation actually realised in a particular case warrants classification as viability-oriented and constraint-closed.
 
 ## Edge Cases as Diagnostic Tools
 
-Within APS, the significance of borderline systems extends far beyond questions of classification. Edge cases are valuable because they reveal organisational relationships that often remain hidden in more familiar organisms. When biological organisation functions successfully, many of its underlying dependencies become difficult to see. Borderline systems expose those dependencies by occupying positions where viability, continuity, autonomy, and organisational integration become more difficult to interpret.
+Borderline systems can be scientifically valuable even when their living status remains unresolved.
 
-This is one reason APS treats edge cases as explanatory opportunities rather than conceptual obstacles. A virus, for example, reveals forms of organisational dependence that are present throughout biology but often overlooked. Dormancy reveals that continuity can persist even when many activities associated with life are temporarily suspended. Protocells reveal the organisational conditions that may have accompanied the emergence of biological persistence. Synthetic biological systems reveal the distinction between origin and organisation. Artificial systems reveal the difference between behavioural sophistication and viability-oriented persistence. In each case, the value of the example lies not primarily in determining its classificatory status, but in understanding what it reveals about living organisation itself.
+They often expose organisational relationships that remain less visible in familiar organisms. Dormancy directs attention to the distinction between continuous activity and continuity of viable organisation. Viruses foreground dependence upon broader biological systems. Protocells make questions about autonomy, constraint maintenance, reproduction, and external scaffolding experimentally tractable. Synthetic systems separate questions of origin from questions of organisation.
 
-Borderline systems therefore function in much the same way as experimental perturbations. A perturbation becomes scientifically valuable because it reveals organisational relationships that remain hidden during ordinary functioning. Edge cases perform a similar role at the conceptual level. By occupying positions near the boundaries of biological organisation, they reveal which organisational properties are fundamental, which are derivative, and which forms of dependence are compatible with continued persistence.
+Artificial systems provide another important contrast. Behavioural sophistication, computation, learning, or adaptive response do not by themselves establish living status. Conversely, artificial origin does not by itself exclude it.
 
-APS thus reverses a common assumption. Rather than treating edge cases as failures of definition, it treats them as opportunities to investigate the organisational architecture of life. The more difficult a case becomes to classify, the more informative it may become regarding the conditions under which viability-oriented persistence emerges, stabilises, depends upon broader systems, or ceases to exist.
+The value of these cases therefore lies in the questions they allow us to ask.
+
+They can help identify:
+
+- which conditions are maintained internally and which are externally supplied;
+- how organisational dependencies are distributed;
+- what happens when crucial relations are perturbed;
+- what forms of restoration or reorganisation occur;
+- and which observations genuinely bear upon continued viability.
+
+In this sense, edge cases can function diagnostically. They sharpen investigation of biological organisation without predetermining the resulting classification.
 
 [[box:slug: borderline-cases-viruses-sterile-organisms-artificial-systems
+
 ]]
 
 [[box:perturbation-reveals-organisation]]
 
 ## Dependence and Organisational Vulnerability
 
-The diagnostic value of borderline systems becomes even clearer when organisational dependence is considered explicitly. Living systems do not persist in isolation. Every organism depends upon developmental processes, ecological relationships, energetic exchanges, environmental conditions, and evolutionary histories that contribute to its continued existence. Borderline systems make these dependencies visible because they often occupy positions where particular forms of dependence become unusually pronounced.
+Living systems do not persist in isolation.
 
-Viruses provide a particularly striking example. Their persistence depends extensively upon host organisms, making organisational dependence impossible to ignore. Yet dependence itself is not unique to viruses. All organisms rely upon broader systems of support, even if those dependencies are often distributed across ecological or developmental relationships rather than concentrated within a single host. Viruses therefore reveal an organisational principle that extends throughout biology rather than representing an exceptional case.
+Every organism depends upon environmental conditions, energetic exchanges, material resources, developmental histories, and ecological relationships. Dependence is therefore not by itself a criterion of non-life.
 
-Dormant systems reveal a different dimension of dependence. A dormant seed, spore, or microbial cyst may exhibit little apparent activity, yet its continued viability depends upon the preservation of organisational conditions that allow future reactivation. Dormancy demonstrates that biological continuity cannot be reduced to the continuous performance of visible functions. Persistence may involve periods of reduced activity while nevertheless maintaining the organisational potential required for future viability.
+What matters is how those dependencies participate in the organisation of the system under investigation.
 
-These examples illustrate a broader APS principle: living systems are inherently vulnerable because their persistence depends upon the continual maintenance of organisational relationships. Viability is never guaranteed. It must be actively sustained despite changing conditions, internal disruptions, and environmental uncertainty. Borderline systems become scientifically valuable because they reveal points at which these organisational relationships become fragile, incomplete, dependent, or difficult to sustain.
+Viruses provide a particularly clear example. Their replication depends heavily upon host systems. This makes the location and character of the relevant organisation difficult to assess, but the dependence itself does not settle the classificatory question.
 
-This perspective also explains why APS treats malfunction, breakdown, and loss of continuity as important sources of biological insight. Failure dynamics reveal the organisational conditions required for persistence. Borderline systems perform a similar function. By examining cases where viability is attenuated, dependent, emerging, or threatened, biology gains a clearer understanding of the organisational structures that sustain life under ordinary circumstances.
+Dormant organisms reveal another form of dependence. A seed, spore, or microbial cyst may display little overt activity while retaining organisation capable of supporting later reactivation under suitable conditions. This shows why biological continuity cannot simply be equated with continuous visible performance.
+
+Synthetic and artificial systems likewise require careful separation of **external support** from **constitutive organisation**. All living systems require environmental resources. The scientific question is therefore not whether a system depends on anything outside itself, but which relations are part of the organisation through which its continued functioning is maintained.
+
+These examples also make biological vulnerability visible. Viability depends upon material conditions that can be disrupted. Examining failure, degradation, restoration, and loss of continuity can therefore reveal what the organisation requires for persistence.
+
+Borderline systems are valuable insofar as they make such dependencies accessible to investigation.
 
 ## Definition, Diagnosis, and Classification
 
-Many debates about borderline systems arise because three distinct questions are inadvertently merged. The question of what life is, the question of how life is recognised, and the question of what evidence supports such recognition are often treated as though they were identical. APS argues that much of the confusion surrounding biological boundaries results from this conflation.
+Many disputes about borderline systems become confused because several different questions are treated as one.
 
-Definition concerns the organisational nature of life itself. Within APS, life is understood as viability-oriented organised persistence. This is an explanatory claim concerning the type of organisation biology seeks to understand. Diagnosis concerns the identification of such organisation in particular cases. Diagnostic questions ask whether a given system exhibits the organisational properties associated with viability-oriented persistence. Evidence consists of the observations, measurements, perturbations, and empirical findings used to support diagnostic judgements.
+**Definition** asks what Life is.
 
-Once these distinctions are recognised, many traditional boundary disputes become easier to interpret. Borderline systems do not necessarily challenge the definition of life. More often, they challenge diagnosis. A system may possess some organisational properties associated with viability while lacking others. Available evidence may be incomplete. Organisational dependence may obscure the boundaries of the persistence architecture under investigation. Such difficulties reflect the complexity of biological organisation rather than a failure of explanatory theory.
+Within APS:
 
-This distinction is particularly important because APS treats diagnosis as an organisational and perturbational activity rather than a simple classificatory exercise. The task is not merely to assign systems to categories but to investigate how continuity is maintained, how viability is supported, and how organisational relationships contribute to persistence. Borderline systems become scientifically valuable because they force these questions into the foreground.
+> **Life is viability-oriented, constraint-closed organisation.**
 
-The implications of this distinction are developed more fully in *Life Detection and the Problem of Borderline Systems* and *How to Diagnose a Biological System*. There APS shifts from the conceptual significance of boundary cases to the methodological problem of identifying viability-oriented organisation in practice.
+**Diagnosis** asks whether and how such organisation is realised in a particular system.
+
+**Evidence** concerns the observations, measurements, interventions, comparisons, and experimental findings that warrant a diagnostic judgement.
+
+**Classification** is the resulting judgement about the case.
+
+These functions should not be collapsed.
+
+A canonical definition does not classify every difficult case by itself. It specifies what must be investigated.
+
+Likewise, evidence that a system possesses some property associated with living systems does not automatically establish that the complete APS Life criterion is satisfied.
+
+Borderline systems therefore often create difficult diagnostic problems rather than straightforward refutations of a definition. In some cases the evidence may support a clear classification. In others, the relevant organisation may remain uncertain, incompletely characterised, or contested.
+
+The appropriate response is not to force the system into a predetermined category but to identify the dependencies and organisational relations on which the judgement turns.
+
+This is why APS treats diagnosis as an empirical and organisational task rather than as the mechanical application of a checklist.
+
+The implications of this distinction are developed more fully in *Life Detection in APS — Biosignatures, Organisation, and Evidence* and *How to Diagnose a Biological System — An APS Method*.
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
 ## Living with the Edges
 
-One consequence of the APS perspective is a change in how biological boundaries are interpreted. Traditional approaches often seek a definitive line separating living systems from non-living systems. Borderline cases then appear as threats to explanatory clarity because they seem to blur that line. APS reaches a different conclusion. If life is understood as viability-oriented organised persistence, then the existence of intermediate, dependent, emerging, and attenuated forms of biological organisation should be expected.
+The existence of difficult boundary cases need not undermine biological explanation.
 
-This does not imply that biological boundaries disappear. APS is not committed to the view that everything is alive or that distinctions between living and non-living systems are arbitrary. On the contrary, the framework maintains that living systems possess distinctive organisational properties grounded in the active maintenance of viability. What changes is the expectation that these properties must always be distributed in ways that produce perfectly sharp classificatory divisions.
+It instead reminds us that a definition, an operational test, a diagnostic procedure, and a classificatory judgement perform different scientific functions.
 
-Many scientific domains encounter similar situations. Evolutionary transitions rarely produce abrupt discontinuities. Ecological systems often exhibit gradual changes rather than absolute boundaries. Developmental processes frequently involve progressive transformations rather than instantaneous shifts. APS suggests that biological boundaries should be understood in a similar manner. The organisational conditions associated with life may emerge, stabilise, weaken, or disappear through processes that generate intermediate cases without undermining the reality of the distinctions involved.
+Within APS, borderline cases can be analysed by asking how viability-oriented organisation is materially realised, which constraints and dependencies contribute to continued functioning, and where externally supplied conditions stand in relation to the organisation being assessed.
 
-From this perspective, the edges of life become an expected feature of biological organisation. Living systems exist within a landscape of varying dependence, integration, autonomy, and continuity. Some systems occupy positions where these dimensions align in relatively unambiguous ways. Others occupy positions where the organisational relationships become more difficult to interpret. The resulting ambiguity reflects the complexity of biological organisation rather than a defect in biological explanation.
+This approach allows biological boundaries to be investigated without assuming that they must either be perfectly simple or intrinsically continuous.
 
-This insight has important implications for future research. As biology increasingly encounters synthetic organisms, novel persistence architectures, artificial systems, and potentially unfamiliar forms of life, the number of difficult boundary cases is likely to increase rather than decrease. A framework that expects such cases is therefore likely to prove more useful than one that treats them as anomalies requiring ad hoc explanation. APS does not eliminate the challenge of biological boundaries, but it provides a way of understanding why those challenges arise and why they are scientifically informative.
+Some cases may ultimately support clear classifications. Others may remain unresolved because the evidence is incomplete or because different explanatory criteria bear differently on the system.
+
+APS should therefore not infer graded living status simply from graded autonomy, integration, dependence, or persistence.
+
+Nor should a difficult case be treated as a failure merely because its status cannot be settled immediately.
+
+The scientifically important task is to make explicit what organisational difference would warrant one classification rather than another and what evidence could discriminate between those possibilities.
+
+That turns the edge of Life into a research problem rather than a definitional embarrassment.
 
 ## Closing Perspective
 
-Borderline systems have often been treated as conceptual problems because they resist straightforward classification. APS argues that this expectation rests upon a mistaken understanding of biological boundaries. If life is conceived primarily as a collection of defining traits, then systems that fail to fit neatly within those criteria will inevitably appear troublesome. If life is understood instead as viability-oriented organised persistence, the situation changes fundamentally.
+Borderline systems are among the most demanding cases for any scientific account of Life.
 
-The existence of edge cases becomes entirely unsurprising. Living organisation is distributed across varying degrees of integration, dependence, autonomy, and continuity. Some systems exhibit highly robust and internally integrated persistence architectures. Others persist through more attenuated, dependent, emerging, or transitional forms of organisation. The resulting gradients do not undermine biological explanation. They reveal important features of the organisational reality biology seeks to understand.
+Viruses, dormant organisms, protocells, synthetic systems, artificial systems, and unfamiliar possible forms of life force biology to examine assumptions that remain largely invisible when familiar organisms are used as the standard case.
 
-APS therefore treats borderline systems not as failures of definition but as sources of explanatory insight. Viruses, dormant organisms, protocells, synthetic systems, artificial systems, and hypothetical unfamiliar forms of life illuminate the organisational conditions under which viability-oriented persistence exists. They reveal how biological continuity can be maintained, how it can depend upon broader systems, how it can emerge, and how it can fail. In doing so, they expose dimensions of biological organisation that often remain hidden within more familiar cases.
+APS approaches these cases through viability-oriented, constraint-closed organisation.
 
-This perspective also prepares the transition to diagnosis. Once biological boundaries are understood as organisational rather than merely classificatory phenomena, the central question becomes not simply what life is, but how viability-oriented organisation can be recognised, investigated, and evaluated in practice. Borderline systems therefore lead naturally to the problems of life detection and biological diagnosis. They occupy a pivotal position within APS because they connect the theory of biological organisation to the methods through which that organisation is identified.
+Its contribution is to organise inquiry around questions of persistence, dependence, regulation, constraint maintenance, vulnerability, restoration, and material continuity rather than around isolated traits alone.
 
-The edges of life are therefore not peripheral to biology. They are among the most informative regions of biological inquiry. By revealing the organisational conditions under which viability-oriented persistence emerges, stabilises, depends upon broader systems, and sometimes breaks down, they help clarify what living systems are and what biological explanation ultimately seeks to understand.
+That orientation does not determine every boundary judgement in advance.
+
+It does not establish that Life itself forms a single continuum, that every ambiguous system possesses a partial form of Life, or that viability orientation provides a uniquely superior discriminator.
+
+Instead, it provides a disciplined way to ask what organisation is actually present, what conditions sustain it, what happens when those conditions are disturbed, and what evidence warrants classification.
+
+Borderline cases are therefore not scientifically peripheral. They are valuable because they place the organisation of Life under unusually demanding scrutiny.
+
+**Key Point.** Borderline cases do not have to be treated as failures of biological definition. They are demanding diagnostic cases that reveal what must be investigated before living status can be responsibly assigned.
+
+## Explanatory Architecture
+
+### Central Question
+
+How should difficult cases at the boundary of Life be investigated when familiar traits, classifications, or degrees of dependence do not by themselves determine living status?
+
+### Architectural Role
+
+This article locates borderline systems within the APS account of Life by showing how they can be treated as demanding diagnostic cases rather than as automatic failures of definition.
+
+Its role is to organise inquiry into how viability-oriented, constraint-closed organisation is materially realised, supported, disrupted, or remains uncertain in systems whose biological status is difficult to determine.
+
+It does not establish that Life is intrinsically graded, that borderline systems possess partial forms of Life, or that APS provides a comparator-superior boundary criterion.
+
+### Preceding Explanatory Dependencies
+
+This article depends upon:
+
+- the APS definition of Life as viability-oriented, constraint-closed organisation;
+- the distinction between viability-oriented organisation and mere persistence;
+- the account of Constraint Closure as materially realised mutual organisational dependence rather than an independent generator of Life;
+- the distinction between definition, diagnosis, evidence, and classification; and
+- the principle that artificial origin or environmental dependence does not by itself determine biological status.
+
+### Subsequent Explanatory Developments
+
+The analysis developed here supports later APS work on:
+
+- biological diagnosis;
+- life detection;
+- biosignatures;
+- synthetic and artificial systems;
+- viruses and other difficult boundary cases;
+- perturbational analysis of organisation; and
+- the evidential requirements for assigning living status in unfamiliar systems.
+
+These subsequent developments must remain sensitive to the distinction between using APS organisational concepts to structure investigation and demonstrating a uniquely APS classificatory or explanatory advantage.
+
+### Related Explanatory Questions
+
+This article connects directly to questions such as:
+
+- What evidence warrants classification of a system as living?
+- How can viability-oriented organisation be identified empirically?
+- Which forms of environmental dependence are compatible with living organisation?
+- How should viruses, protocells, synthetic systems, and artificial systems be assessed without preclassifying them?
+- What is the relation between biological definition and biological diagnosis?
+- When does organisational variation bear on living status, and when does it merely describe differences among systems?
+
+### Position Within APS
+
+Within APS, borderline cases occupy the interface between the definition of Life and the methods used to diagnose that definition in particular systems.
+
+The article therefore stands between the canonical Life account and the later diagnostic and life-detection materials.
+
+Its function is not to settle every biological boundary in advance, but to show what must be investigated before a classificatory judgement is warranted.
