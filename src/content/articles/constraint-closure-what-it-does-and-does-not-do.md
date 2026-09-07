@@ -6,31 +6,33 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-06-15
+revised: 2026-09-07
 cluster: conceptual-foundations
 role: core
-
 abstract: >
-  Constraint closure is a central concept in contemporary theories of
-  biological organisation, but closure alone does not explain biological
-  persistence, agency, or viability-oriented continuity. APS adopts
-  constraint closure as a necessary condition for organised persistence while
-  clarifying its limits: closure provides the structural basis for
-  self-maintaining organisation, but only temporally organised,
-  viability-oriented activity generates living organisation. This article
-  explains what constraint closure contributes to biological explanation,
-  what it cannot explain on its own, and why APS situates closure within a
-  broader framework of continuity-producing biological organisation.
-
+  Constraint closure is a central concept in contemporary accounts of
+  biological organisation. It identifies relations of mutual dependence
+  through which constraints contribute to maintaining the organisation that
+  sustains them. APS treats constraint closure as indispensable to explaining
+  living organisation while distinguishing this contribution from a complete
+  explanation of life. Closure considered abstractly does not by itself
+  establish biological agency, normativity, viability orientation, or
+  organised persistence. These are understood within APS as aspects of one
+  viability-oriented, constraint-closed organisation enacted through time.
+  This article explains what constraint closure contributes to biological
+  explanation, what closure considered in abstraction leaves unexplained, and
+  why its biological significance must be understood within the organisation
+  through which living systems maintain and re-establish the conditions of
+  their own persistence.
 keyPoints:
-  - Constraint closure describes systems in which constraints mutually sustain one another.
-  - Closure provides the structural basis for organised persistence.
-  - Constraint closure is necessary for biological organisation but not sufficient for life.
-  - Closure alone does not establish agency, normativity, or viability-oriented continuity.
-  - Biological systems require closure plus active regulation of viability conditions.
+  - Constraint closure describes relations of mutual dependence through which constraints contribute to sustaining the organisation that maintains them.
+  - Constraint closure is indispensable to the APS account of living organisation.
+  - Closure considered abstractly does not constitute a complete explanation of life, agency, normativity, or organised persistence.
+  - Viability orientation is not an additional component attached to an independently constituted closure structure.
+  - Biological agency is viability-oriented organisational activity through which living organisation is enacted and sustained.
   - Constraint closure must be understood dynamically and temporally rather than as a static configuration.
-  - Misinterpreting closure leads to overgeneralising biological concepts to non-living systems.
-
+  - Perturbation can reveal how living organisation maintains and re-establishes conditions of persistence.
+  - Closure alone does not warrant extending biological or agential concepts to every self-maintaining or mutually dependent system.
 relatedGlossaryTerms:
   - constraint-closure
   - constraint
@@ -40,7 +42,6 @@ relatedGlossaryTerms:
   - normativity
   - persistence
   - temporal-organisation
-
 relatedArticles:
   - constraint-how-organisation-becomes-persistence
   - biological-organisation
@@ -51,26 +52,22 @@ relatedArticles:
   - what-is-a-biological-system
   - organism-individual-agent-distinction
   - levels-vs-scale-why-biological-organisation-is-not-hierarchical
-
 references:
   - id: moreno-mossio-2015
     authors: "Moreno, A.; Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
-
   - id: mossio-2023
     authors: "Mossio, M."
     year: 2023
     title: "Organization in Biology"
     publisher: "Springer"
-
   - id: deacon-2011
     authors: "Deacon, T. W."
     year: 2011
     title: "Incomplete Nature"
     publisher: "W. W. Norton"
-
   - id: nicholson-dupre-2018
     authors: "Nicholson, D. J.; Dupré, J."
     year: 2018
@@ -80,223 +77,377 @@ references:
 
 # Constraint Closure — What It Does and What It Does Not Do
 
-> **Where this article fits:** This article clarifies the role and limits of constraint closure within APS. Constraint closure explains how organisation becomes self-maintaining, but closure alone does not explain viability-oriented persistence, agency, or biological continuity. For the broader APS account of constraint as continuity-producing organisation, see *Constraint — How Organisation Becomes Persistence*.
+> **Where this article fits:** This article clarifies the contribution and limits of constraint closure within APS. Constraint closure identifies an indispensable organisational relation in living systems, but closure considered abstractly does not exhaust the explanation of viability-oriented organisation, biological agency, or organised persistence. For the broader APS account of constraint as continuity-producing organisation, see *Constraint — How Organisation Becomes Persistence*.
 
-Constraint closure has emerged as one of the most important concepts in contemporary theoretical biology.
+Constraint closure has become an important concept in contemporary theoretical biology.
 
-It captures a distinctive feature of organised systems:
-- processes mutually sustain one another
-- organisational relations remain coordinated
-- and constraints contribute to maintaining the conditions required for continued activity
+It identifies a distinctive form of organisation in which constraints are not merely imposed independently upon processes. Constraints participate in relations of mutual dependence through which they contribute to maintaining the organisation that sustains them.
 
-Constraint closure therefore provides a powerful alternative to purely mechanistic explanations based upon independent parts and linear causation.
+This provides an important alternative to explanations that treat biological organisation simply as the aggregate result of independently specified parts or linear causal sequences.
 
-APS adopts constraint closure as a foundational organisational principle.
+APS therefore treats constraint closure as indispensable to explaining living organisation.
 
-However, APS also clarifies its limits.
+But its explanatory contribution must be stated carefully.
 
-Closure alone does not explain:
+Closure considered abstractly does not by itself establish:
+
 - life
-- agency
-- viability-oriented regulation
-- or persistence as an ongoing organisational achievement
+- biological agency
+- normativity
+- viability orientation
+- or organised persistence
 
-Constraint closure explains how organisation becomes self-maintaining.
+This does not mean that these are additional components that must be attached to an independently constituted closure structure.
 
-It does not by itself explain how organisation becomes biological.
+APS instead understands living organisation as **viability-oriented, constraint-closed organisation**.
 
-APS therefore situates closure within a broader framework of:
-- viability-oriented organisation
-- temporal organisation
-- continuity-producing activity
-- and organised persistence across time
+Constraint closure identifies one indispensable feature of that organisation. Its biological significance becomes fully intelligible only in relation to the ongoing activity through which living systems maintain and re-establish the conditions of their own persistence.
 
 [[box:organisational-biology-and-persistence]]
 
-# What Constraint Closure Does
+## What Constraint Closure Does
 
-Constraint closure explains how systems achieve organisational coherence.
+Constraint closure explains an important aspect of organisational coherence.
 
-In a constraint-closed system:
-- constraints mutually sustain one another
-- organisational relations become interdependent
-- processes contribute to maintaining the conditions enabling continued activity
-- and continuity can persist without continuous external control
+In a constraint-closed organisation:
 
-Closure therefore explains:
-- the integration of processes into organised wholes
-- the mutual dependence of organisational relations
-- the stabilisation of organisational patterns
-- and the regeneration of conditions enabling continued activity
+- constraints participate in relations of mutual dependence
+- constrained processes contribute to maintaining relevant organisational conditions
+- those conditions contribute to the continued operation or regeneration of the constraints
+- and organisational continuity depends upon these relations being sustained through ongoing activity
 
-Without closure, there is no internally coordinated organisation — only loosely coupled processes.
+Closure therefore helps explain how biological processes can form a mutually dependent organisation rather than merely a collection of causally interacting processes.
 
-Constraint closure therefore provides the structural basis for organised persistence.
+It directs explanatory attention toward:
 
-![Diagram showing constraint closure in living systems as reciprocal maintenance between processes and constraints](/assets/diagrams/constraint-closure-living-systems.svg)
+- reciprocal organisational dependence
+- maintenance of enabling conditions
+- regeneration of constraints
+- coordination among processes
+- and the organisation through which continued activity remains possible
 
-*Constraint closure describes the reciprocal organisation through which constraints and processes mutually sustain continuity-producing activity.*
+This contribution is substantial.
 
-# Closure and Temporal Organisation
+But constraint closure should not be interpreted as an underlying structural layer upon which living organisation is subsequently constructed.
 
-Constraint closure is inherently temporal.
+Within APS, closure is an analytic characterisation of relations operating within the living organisation whose persistence is being explained.
 
-Closure cannot persist merely through static structural arrangement at a single moment.
+It therefore contributes to explaining organised persistence without independently constituting organised persistence as a whole.
 
-Living systems continuously regenerate the conditions required for their own continuation.
+<div class="aps-diagram">
 
-Constraints must therefore:
-- remain coordinated across time
-- sustain ongoing activity
-- respond to perturbation
-- reorganise under changing conditions
-- and preserve continuity despite transformation
+<a href="/assets/diagrams/constraint-closure.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/constraint-closure.png"
+    alt="Constraint closure in living systems showing mutually dependent structural, material or metabolic, and regulatory constraints within viability-oriented, constraint-closed organisation"
+    loading="lazy"
+  />
+</a>
 
-Constraint closure is consequently not a static organisational configuration.
+</div>
 
-It is a continuity-producing organisational process enacted through time.
+*Constraint closure identifies relations of mutual dependence through which constraints contribute to maintaining the conditions for continued living organisation.*
 
-Living systems persist not because their structures remain fixed, but because organisational continuity is continuously regenerated across ongoing transformation.
+## Closure and Temporal Organisation
 
-![Temporal Organisation and Organised Persistence](/assets/diagrams/temporal-organisation-visual.png)
+Constraint closure cannot be adequately understood as a static arrangement.
 
-*Constraint closure contributes to organised persistence only when constraints and processes remain temporally coordinated across changing conditions.*
+Relations of mutual dependence persist only insofar as the activities through which they are realised continue through time.
 
-# What Constraint Closure Does Not Do
+Living systems undergo:
 
-Constraint closure alone does not establish that a system is biological.
+- material turnover
+- environmental variation
+- internal change
+- perturbation
+- degradation
+- repair
+- and reorganisation
 
-A system may exhibit:
-- internally coordinated processes
-- mutual dependencies
-- self-maintaining organisation
-- and structural continuity
+Their organisation therefore cannot depend upon preserving an unchanged material configuration.
 
-yet fail to:
-- regulate viability conditions
-- reorganise adaptively under perturbation
-- preserve continuity through viability-oriented activity
-- or sustain itself through active organisational reconstruction
+Constraints must be maintained, regenerated, modified, or re-established as conditions change.
 
-Closure therefore does not by itself explain:
-- biological agency
-- normativity
-- adaptive continuity
-- or viability-oriented persistence
+The explanatory importance of closure is consequently temporal as well as relational.
 
-Treating closure as sufficient risks collapsing biology into general systems theory.
+A description of constraint relations at a single moment does not by itself explain how those relations continue to be realised across changing circumstances.
 
-APS avoids this mistake by distinguishing:
-- structurally closed organisation
-from:
-- viability-oriented biological organisation
+APS addresses this problem through organised persistence.
+
+Living systems persist because organisation is continually enacted across material and temporal change. Constraint closure contributes to that persistence insofar as mutually dependent constraints remain organised through the processes that maintain and re-establish the conditions for continued activity.
+
+Closure is therefore not adequately represented as a frozen configuration.
+
+Its biological significance lies in dynamically maintained organisation through time.
+
+<div class="aps-diagram">
+
+<a href="/assets/diagrams/temporal-organisation-persistence.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/temporal-organisation-persistence.png"
+    alt="Temporal organisation and organised persistence showing one living organisation as historically conditioned, presently enacted, and maintained across changing conditions"
+    loading="lazy"
+  />
+</a>
+
+</div>
+
+*Living systems maintain continuity not by remaining materially or structurally unchanged, but through ongoing organisation across change. Biological persistence is therefore an achievement of temporal organisation rather than static structure.*
+
+## What Constraint Closure Does Not Do
+
+Constraint closure has explanatory limits.
+
+Identifying reciprocal dependence among constraints does not, by itself, establish that every system exhibiting such dependence should be treated as living, agential, normative, or biologically organised.
+
+The distinction is important because concepts such as:
+
+- mutual dependence
+- self-maintenance
+- stability
+- feedback
+- persistence
+- and organisational closure
+
+can apply, in different senses, beyond living systems.
+
+Closure therefore cannot serve as an unrestricted criterion from which biological status is inferred solely from the presence of reciprocal organisational dependence.
+
+APS does not resolve this problem by dividing reality into a generic closure structure and a second viability component that converts that structure into life.
+
+Instead, the relevant explanatory object is the living organisation itself.
+
+For APS, life is **viability-oriented, constraint-closed organisation**.
+
+Closure considered in abstraction captures an indispensable relation within that organisation, but does not exhaust the organisation through which biological persistence is maintained.
+
+This distinction preserves the explanatory importance of constraint closure without asking the concept to establish more than it can support.
 
 [[box:gene-centric-vs-aps-grammar]]
 
-# Closure and Viability
+## Closure and Viability
 
-APS resolves the limitations of closure-only approaches by introducing viability-oriented organisation.
+Viability is not an additional ingredient attached to closure.
 
-Biological systems are not merely closed.
+Nor does APS propose that a system first becomes constraint-closed and then acquires a separate viability orientation.
 
-They are organised relative to the conditions required for continued persistence.
+The distinction is analytic.
 
-Living systems:
-- regulate conditions affecting viability
-- reorganise under perturbation
-- restore degraded organisation
-- preserve continuity across changing circumstances
-- and sustain themselves through ongoing continuity-producing activity
+Constraint closure directs attention to relations of organisational dependence through which constraints participate in maintaining the conditions of their continued operation.
 
-Constraint closure provides the structural basis enabling such organisation.
+Viability directs attention to the asymmetry between conditions under which living organisation can continue and conditions under which that organisation degrades or ceases.
 
-Viability provides its orientation.
+In living systems these are not two independently operating organisations.
 
-Only together do these conditions generate biological organisation.
+They are aspects of one organisation.
 
-# Closure and Agency
+Living activity occurs under conditions in which some changes are compatible with continued organisation while others threaten, impair, or terminate it. The organisation of activity relative to those conditions is what gives viability its explanatory significance.
 
-Constraint closure is sometimes interpreted as equivalent to agency.
+APS therefore describes life as **viability-oriented, constraint-closed organisation**.
 
-APS rejects this inference.
+This formulation does not combine two independent mechanisms.
 
-Closure describes organisational structure.
+It characterises the organisation of living systems from complementary explanatory perspectives: the mutual dependence through which organisation is maintained and the viability conditions relative to which that maintenance matters for continued persistence.
 
-Agency describes viability-oriented modulation of organisation.
+## Closure and Agency
 
-A system may be constraint-closed while lacking:
-- active regulation of persistence conditions
-- adaptive reorganisation
-- continuity-preserving responsiveness
-- or viability-oriented activity
+Constraint closure and biological agency must also be distinguished without treating them as separate stages or components.
 
-Agency therefore emerges only when closure becomes coupled with active continuity-preserving organisation.
+**Biological agency is viability-oriented organisational activity.**
 
-Constraint closure is thus:
-- necessary for agency
-- but insufficient on its own
+Agency is therefore not something added to closure after a system has become sufficiently complex, nor does agency arise merely because closure becomes coupled to an additional regulatory mechanism.
 
-# Closure, Perturbation, and Reconstruction
+Constraint closure characterises relations through which organisational conditions are mutually maintained.
 
-The difference between biological and non-biological organisation becomes especially visible under perturbation.
+Agency characterises what living organisation does: it modulates activity in relation to the conditions of its own continued functioning and persistence.
 
-Non-biological systems:
-- may persist temporarily
-- may return passively toward equilibrium
-- or may remain stable only while externally supported
+These descriptions concern the same living organisation under different explanatory projections.
 
-Biological systems:
-- reorganise activity internally
-- reconstruct degraded organisation
-- restore viability conditions
-- and preserve continuity through adaptive transformation
+This matters because closure alone should not be used as a synonym for agency.
 
-Constraint closure enables organised regulation, but only viability-oriented systems use closure to sustain themselves across changing conditions.
+A demonstration of reciprocal constraint dependence establishes an organisational relation. A claim of biological agency additionally concerns viability-oriented organisational activity.
 
-Living systems therefore persist through reconstructive continuity rather than static stability.
+APS therefore preserves the distinction while rejecting an architecture in which closure and agency are independent entities that must subsequently be joined.
 
-# Avoiding Overgeneralisation
+## Closure, Perturbation, and Reconstruction
 
-One of the most common errors in applying constraint closure is overgeneralisation.
+Perturbation can make otherwise unobvious organisational dependencies visible.
 
-If closure alone is treated as sufficient for life, then:
-- chemical systems
-- engineered networks
-- ecological systems
-- or social organisations
+When conditions change, investigators can examine:
 
-could all be classified as biological without adequate justification.
+- which processes are disrupted
+- which constraints cease to be maintained
+- which organisational relations are restored
+- how activity is reorganised
+- whether relevant conditions are re-established
+- and whether continued functioning is preserved
 
-APS avoids this problem by maintaining a strict distinction between:
-- constraint-closed systems
-and:
-- viability-oriented biological systems
+Such cases can reveal how persistence depends upon organisation rather than upon the preservation of an unchanged state.
 
-This preserves the explanatory specificity of biology while retaining the important insights provided by closure theory.
+Living systems frequently maintain continuity through material replacement, regulation, repair, compensation, or reorganisation.
 
-# Constraint Closure Reframed
+These responses should not be treated as evidence that every biological perturbation produces adaptive reconstruction, nor should passive physical processes be excluded from biological explanation.
 
-Constraint closure remains indispensable within biological explanation.
+Rather, perturbation provides an explanatory probe.
 
-It explains how organisation becomes self-maintaining and how continuity-producing organisation can persist through time.
+It can reveal dependencies that remain difficult to identify under relatively stable conditions and can show how materially implemented constraints alter the local conditions under which continued organisation is possible.
 
-However, closure must be situated within a broader explanatory framework.
+The relevant contrast is therefore not simply between passive non-living stability and active biological reconstruction.
 
-Closure alone does not generate:
-- agency
-- viability
+It is between descriptions of persistence as unchanged state and explanations of the organisation through which living systems can maintain or re-establish conditions of continued functioning despite change.
+
+## Avoiding Overgeneralisation
+
+Constraint closure is powerful partly because relations of mutual dependence occur across many forms of organised activity.
+
+That generality also creates a risk.
+
+If every instance of reciprocal dependence, self-maintenance, feedback, or organisational stability is treated as sufficient evidence of biological organisation or agency, the relevant concepts lose discriminatory value.
+
+Chemical systems, engineered systems, ecological organisations, and social organisations may exhibit forms of:
+
+- reciprocal dependence
+- feedback
+- persistence
+- constraint
+- or self-maintenance
+
+without that fact alone establishing that they instantiate biological agency or living organisation.
+
+APS therefore does not infer biological status merely from formal similarity.
+
+The relevant question is what organisation is materially realised in the system under investigation and what explanatory claim the evidence supports.
+
+This is especially important when concepts developed to explain organisms are extended to other domains.
+
+Similarity in organisational description can justify comparison.
+
+It does not by itself justify identity of biological status.
+
+Constraint closure should therefore retain its explanatory generality without becoming an unrestricted licence for attributing life, agency, normativity, or cognition wherever mutually dependent processes can be identified.
+
+## Constraint Closure Reframed
+
+Constraint closure remains indispensable to biological explanation.
+
+It identifies relations of mutual dependence through which constraints contribute to maintaining the organisation that sustains them.
+
+It helps explain how biological activity is coordinated, how enabling conditions are regenerated, and how organisation can continue despite ongoing material change.
+
+But closure considered abstractly is not a complete explanation of:
+
+- life
+- biological agency
 - normativity
-- adaptive continuity
-- or biological persistence
+- viability orientation
+- or organised persistence
 
-Constraint closure therefore functions as:
-- a necessary organisational condition
-- but not a complete explanation of life
+These explanatory limits do not require APS to supplement closure with a collection of independently constituted biological components.
 
-APS reframes closure dynamically and temporally within the broader continuity architecture of biological organisation.
+The relevant explanatory object remains one living organisation.
 
-Living systems persist not through closure alone, but through viability-oriented, continuity-producing organisation enacted across changing conditions and interacting temporal scales.
+APS describes that organisation as viability-oriented and constraint-closed, enacted through ongoing activity and maintained across spatial and temporal extents.
 
-# Key Point
+Agency, Process, and Scale provide analytic projections of this organisation rather than components of reality.
 
-Constraint closure explains how organisation becomes self-maintaining, but only viability-oriented, temporally organised, continuity-producing activity transforms closure into living organisation.
+From the perspective of Agency, explanation concerns what living systems do through viability-oriented organisational activity.
+
+From the perspective of Process, explanation concerns how continuity is maintained despite change.
+
+From the perspective of Scale, explanation concerns where persistence is organised across spatial and temporal extents.
+
+Constraint closure contributes to this explanatory architecture by identifying relations of mutual dependence through which the conditions of continued organisation are maintained and regenerated.
+
+Its importance therefore lies neither in explaining life by itself nor in serving as a preliminary structure that becomes biological only when something else is added.
+
+It is indispensable because living persistence is organised.
+
+## Explanatory Architecture
+
+### Central Question
+
+**What does constraint closure explain about living organisation, what does closure considered in abstraction leave unexplained, and how does it contribute to the APS account of organised persistence?**
+
+### Architectural Role
+
+This Core article establishes the **explanatory role and limits of constraint closure within APS**.
+
+It treats constraint closure as an indispensable organisational relation within living systems while rejecting the interpretation that closure alone constitutes a complete explanation of life, biological agency, normativity, viability orientation, or organised persistence.
+
+Within APS, life is **viability-oriented, constraint-closed organisation**. Constraint closure therefore does not constitute an independent structural component to which viability, agency, Process, or Scale are subsequently added. It identifies relations of mutual dependence within the living organisation whose persistence is being explained.
+
+The article does not claim that APS replaces or completes established organisational or autonomy-based accounts of constraint closure. Where different approaches address the same explanatory target, any additional explanatory contribution requires target-matched comparison.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish **APS conceptual dependencies presupposed by this article**:
+
+- **Life** — viability-oriented, constraint-closed organisation.
+
+- **Biological Organisation** — the living organisation within which constraint relations are materially realised and maintained.
+
+- **Biological Agency** — viability-oriented organisational activity.
+
+- **Viability** — conditions relevant to the continued functioning of living organisation.
+
+- **Constraint** — a materially realised organisational relation that selectively alters the possibilities available to ongoing activity without fully determining outcomes.
+
+- **Process** — the analytic projection concerned with how continuity is maintained despite change.
+
+- **Scale** — the analytic projection concerned with where persistence is organised across spatial and temporal extents.
+
+- **Organised Persistence** — continuity of living organisation through change.
+
+These dependencies do not constitute a hierarchy, chronology, sequence of biological levels, set of independent causes, or assembly of components from which living organisation is constructed.
+
+### Subsequent Explanatory Developments
+
+The account of constraint closure developed here supports subsequent APS investigations of:
+
+- biological regulation and function;
+
+- normativity and biological evaluation;
+
+- perturbation, repair, and organisational reconstruction;
+
+- development and developmental continuity;
+
+- adaptation and evolutionary transformation;
+
+- cognition and later organisational capacities;
+
+- biological explanation across different spatial and temporal extents.
+
+These later developments do not follow automatically from constraint closure and require their own explanatory and evidential assessment.
+
+### Related Explanatory Questions
+
+- What relations of mutual dependence constitute constraint closure?
+
+- How does constraint closure contribute to self-maintaining biological organisation?
+
+- Why does closure considered abstractly not establish life, agency, or normativity?
+
+- How does viability orientation relate to constraint closure without functioning as an additional component?
+
+- How does constraint closure contribute to organised persistence across change?
+
+- What can perturbation reveal about otherwise unobvious organisational dependencies?
+
+- When does the identification of constraint closure provide explanatory gain beyond the strongest established explanation for the same target?
+
+- What warrants extending concepts of closure, organisation, or agency beyond paradigmatic living systems?
+
+### Position Within APS
+
+Constraint Closure occupies a central position within the conceptual foundations of APS because it identifies relations of mutual dependence through which constraints contribute to maintaining the living organisation within which they operate.
+
+Its position must nevertheless be stated precisely. APS does not treat constraint closure, viability, agency, Process, and Scale as independent components or explanatory levels. The explanatory object is one viability-oriented, constraint-closed living organisation.
+
+Agency, Process, and Scale provide complementary, target-sensitive analytic projections of this organisation: what living systems do, how continuity is maintained despite change, and where persistence is organised across spatial and temporal extents.
+
+Constraint closure therefore contributes to the APS explanation of organised persistence without constituting a complete explanation of life by itself. Its explanatory contribution in particular biological cases remains to be established relative to the explanandum, available evidence, and strongest established comparator.
+
+## Key Point
+
+Constraint closure identifies indispensable relations of mutual dependence within living organisation, but closure considered abstractly does not exhaust the explanation of life. APS situates closure within one viability-oriented, constraint-closed organisation whose ongoing activity maintains and re-establishes the conditions of its own persistence.

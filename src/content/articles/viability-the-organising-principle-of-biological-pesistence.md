@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-06-27
+revised: 2026-09-07
 
 cluster: conceptual-foundations
 role: core
@@ -101,11 +101,15 @@ APS describes this condition as viability.
 
 Viability is not simply the fact that a system remains alive. It is the organised capacity to preserve continuity across changing conditions through ongoing self-maintaining, reconstructive, and continuity-producing activity. Viability identifies the organisational condition that living systems must continuously sustain if persistence is to remain possible.
 
-Within the APS framework, viability occupies a central organising position linking agency and organised persistence. Agency provides the viability-oriented activity through which living systems maintain themselves, while viability identifies the organisational condition that this activity preserves. Agency answers what living systems do; viability answers what must be maintained if organised continuity is to remain possible. The distinction is important. Agency identifies the activity through which living systems maintain themselves, whereas viability identifies the condition that this activity preserves. Agency answers what living systems do; viability answers what must be maintained if organised continuity is to remain possible. Organised persistence provides the continuity achieved through successful viability maintenance.
+Within the APS framework, viability occupies a central organising position linking agency and organised persistence. Agency provides the viability-oriented activity through which living systems maintain themselves. Viability provides the organisational condition that this activity preserves. The distinction is important. Agency identifies the activity through which living systems maintain themselves, whereas viability identifies the condition that this activity preserves. Agency answers what living systems do; viability answers what must be maintained if organised continuity is to remain possible. Organised persistence provides the continuity achieved through successful viability maintenance.
 
-Agency maintains viability, viability enables organised persistence, and organised persistence provides the continuity through which living systems exist across time.
+Agency maintains viability.
 
-This relationship gives viability a foundational role within biological explanation. Function, normativity, development, ecology, cognition, and evolution all depend upon the capacity of living systems to preserve continuity despite continual transformation. Viability therefore serves as one of the key organising principles through which biological organisation becomes intelligible.
+Viability enables organised persistence.
+
+Organised persistence provides the continuity through which living systems exist across time.
+
+This relationship gives viability a central organising role within the APS account of biological explanation. Function, normativity, development, ecology, cognition, and evolution all depend upon the capacity of living systems to preserve continuity despite continual transformation. Viability therefore serves as one of the key organising principles through which biological organisation becomes intelligible.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/viability-continuity.png" target="_blank" rel="noopener">
@@ -117,8 +121,9 @@ This relationship gives viability a foundational role within biological explanat
   </a>
 
   <p class="aps-diagram-caption">
-  <strong>Viability and Organised Persistence.</strong>
-  Viability occupies a central organising position within APS. Agency maintains viability, viability enables organised persistence, and organised persistence provides the continuity through which living systems exist across time. Process and scale reveal the temporal and distributed dimensions through which viability is maintained, while organism–world coupling situates viability within ongoing relations between living systems and their environments. Self-maintaining organisation and environmental relations together provide the context through which viability is continually enacted.
+    <strong>Viability and Organised Persistence.</strong>
+    Agency maintains viability, viability enables organised persistence, and organised persistence provides the continuity through which living systems exist across time. Process and scale identify the temporal and distributed dimensions through which viability is maintained, while organism–world coupling provides the environmental context in which viability is continually enacted.
+  </p>
 </div>
 
 ## Viability Beyond Survival
@@ -158,7 +163,11 @@ This includes:
 - reconstructing degraded organisation
 - integrating environmental relations
 
-Viability therefore depends upon active organisation. Persistence is not passively possessed but continuously achieved through ongoing self-maintaining activity.
+Viability therefore depends upon active organisation.
+
+Persistence is not passively possessed.
+
+It is continuously achieved.
 
 This is why viability occupies such a central position within APS. Agency provides the activity through which living systems maintain themselves. Viability identifies the organisational condition preserved through that activity. Organised persistence identifies the continuity achieved when viability is successfully maintained.
 
@@ -196,9 +205,9 @@ Temporal organisation becomes essential because living systems must:
 Viability therefore emerges through temporally organised activity rather than through static structure. Living systems remain viable because they continually produce the conditions under which future continuity remains possible.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/temporal-organisation-persistence.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/temporal-organisation-visual.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/temporal-organisation-persistence.png"
+      src="/assets/diagrams/temporal-organisation-visual.png"
       alt="Temporal organisation supporting organised persistence through coordinated biological activity across time."
       loading="lazy"
     />
@@ -220,7 +229,13 @@ Constraint-closed systems sustain the organisational conditions enabling their c
 
 However, closure alone is insufficient for viability.
 
-A system may remain structurally integrated yet still fail to regulate perturbation, maintain adaptive organisation, reorganise under changing conditions, reconstruct degraded organisation, or preserve continuity through disruption.
+A system may remain structurally integrated yet fail to:
+
+- regulate perturbation
+- maintain adaptive organisation
+- reorganise under changing conditions
+- reconstruct degraded organisation
+- preserve continuity through disruption
 
 APS therefore distinguishes between constraint closure and viability-oriented organisation.
 
@@ -228,7 +243,7 @@ Constraint closure describes an organisational architecture.
 
 Viability describes an organisational condition.
 
-Closure helps explain how biological organisation sustains itself. Viability explains why that organisation matters and how it remains capable of continued persistence across changing circumstances.
+Within APS, closure helps characterise how biological organisation sustains itself, while viability identifies the persistence-relative significance assigned to that organisation across changing circumstances.
 
 This distinction becomes particularly important when biological systems encounter novel conditions. Closure may preserve organisational coherence under familiar circumstances, yet viability requires the capacity to maintain continuity despite developmental transformation, ecological variation, injury, resource limitation, and environmental uncertainty.
 
@@ -319,7 +334,7 @@ This relationship forms one of the central explanatory structures within contemp
 
 ## Viability Across Biological Domains
 
-Viability appears throughout biology because the preservation of continuity is a universal requirement of living systems. Although viability is expressed differently across biological contexts, the underlying organisational principle remains the same: living systems must sustain the conditions required for continued persistence.
+Within APS, viability recurs across biological domains because living systems must maintain conditions compatible with continued organised persistence. Although viability is expressed differently across biological contexts, the underlying organisational principle remains the same: living systems must sustain the conditions required for continued persistence.
 
 In physiology, viability concerns the maintenance of metabolic and regulatory organisation in real time. Organisms must coordinate countless interacting processes to preserve the conditions under which continued activity remains possible.
 
@@ -341,7 +356,9 @@ Viability does not require perfect stability.
 
 Living systems are continuously exposed to perturbation, disruption, and change. Environmental conditions fluctuate, injuries occur, resources become limited, and organisational structures degrade through time. If viability depended upon maintaining a fixed state, living systems would be unable to persist under realistic biological conditions.
 
-What matters instead is the capacity to preserve continuity despite disruption. This requirement introduces the importance of resilience within viability-oriented organisation.
+What matters instead is the capacity to preserve continuity despite disruption.
+
+This is where resilience becomes important.
 
 Resilience refers to the capacity of a system to absorb disturbance, reorganise activity, reconstruct degraded organisation, and restore continuity-producing conditions. Resilience therefore contributes directly to viability because it allows persistence to continue even when established patterns of organisation are challenged.
 
@@ -357,29 +374,29 @@ Living systems remain viable because they can absorb disruption while continuing
 
 APS places viability at the centre of a broader explanatory architecture linking biological activity to organised persistence.
 
-Agency identifies the activity through which living systems sustain themselves.
+- Agency identifies the activity through which living systems sustain themselves.
 
-Viability identifies the organisational condition maintained by that activity.
+- Viability identifies the organisational condition maintained by that activity.
 
-Organised persistence identifies the continuity achieved through successful viability maintenance.
+- Organised persistence identifies the continuity achieved through successful viability maintenance.
 
 These relationships become intelligible through Process and Scale, the two explanatory dimensions that reveal how viability is maintained through time and coordinated across distributed biological organisation.
 
 The resulting explanatory structure can be summarised as:
 
-Agency = activity
+- Agency = activity
 
-Viability = organisational condition
+- Viability = organisational condition
 
-Organised Persistence = explanatory target
+- Organised Persistence = explanatory target
 
-Process = temporal organisation
+- Process = temporal organisation
 
-Scale = distributed organisation
+- Scale = distributed organisation
 
-Together these dimensions explain how living systems maintain continuity across time. Agency supplies the activity through which continuity is pursued. Viability supplies the organisational condition that must be preserved. Process supplies the temporal organisation through which continuity is enacted. Scale supplies the distributed coordination through which viability is maintained. Organised persistence supplies the explanatory target that biology ultimately seeks to understand.
+Together these concepts provide an APS analytic framework for investigating how living systems maintain continuity across time. Agency supplies the activity through which continuity is pursued. Viability supplies the organisational condition that must be preserved. Process supplies the temporal organisation through which continuity is enacted. Scale supplies the distributed coordination through which viability is maintained. Organised persistence supplies the explanatory target that biology ultimately seeks to understand.
 
-Agency explains how living systems actively participate in maintaining themselves, viability explains the conditions that must be preserved, organised persistence explains the continuity thereby achieved, process explains the temporal dynamics through which continuity is produced, and scale explains how viability is coordinated across distributed biological organisation.
+Agency explains how living systems actively participate in maintaining themselves. Viability explains the conditions that must be preserved. Organised persistence explains the continuity achieved when those conditions are successfully maintained. Process reveals the temporal dynamics through which continuity is produced. Scale reveals how viability is coordinated across distributed biological organisation.
 
 This architecture allows diverse biological phenomena to be understood within a common framework. Development, physiology, ecology, evolution, cognition, function, normativity, adaptation, and resilience become intelligible as different expressions of viability-oriented organised persistence.
 
@@ -387,7 +404,7 @@ Viability therefore occupies a uniquely integrative position within APS. It conn
 
 ## Why Viability Matters
 
-Clarifying viability helps resolve several persistent problems in biological explanation.
+Clarifying viability provides an APS perspective on several persistent problems in biological explanation.
 
 It explains why biological systems exhibit normativity. Activities matter because they affect the conditions required for continued persistence.
 
@@ -407,9 +424,7 @@ Viability therefore represents one of the deepest organising principles within t
 
 ## Conclusion
 
-Living systems do not merely survive.
-
-They actively sustain, regulate, repair, and reconstruct the conditions required for continued persistence across changing circumstances.
+Living systems do not merely survive. They actively sustain, regulate, repair, and reconstruct the conditions required for continued persistence across changing circumstances.
 
 APS describes this organisational condition as viability.
 
@@ -417,13 +432,13 @@ Viability is not passive survival, equilibrium, or static maintenance. It is the
 
 Understanding viability clarifies why biological organisation exhibits function, normativity, resilience, adaptation, and agency. These phenomena derive their significance from their relationship to the conditions required for continued persistence.
 
-Viability therefore occupies a central organising position within biological explanation.
+Viability therefore occupies a central position within the APS explanatory architecture.
 
-Agency maintains viability.
+- Agency maintains viability.
 
-Viability enables organised persistence.
+- Viability enables organised persistence.
 
-Organised persistence provides the continuity through which living systems exist across time.
+- Organised persistence provides the continuity through which living systems exist across time.
 
 Through this relationship, living systems continuously sustain the organised continuity that makes life possible.
 

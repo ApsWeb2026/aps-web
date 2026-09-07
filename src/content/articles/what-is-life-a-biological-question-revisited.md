@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-08-03
+revised: 2026-09-07
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -181,8 +181,11 @@ references:
 Together, these articles form a conceptual sequence:
 
 - **What Is Life? — A Biological Question Revisited** — What kind of organisation makes something alive?
+
 - **Agency as the Defining Activity of Life** — Why living systems act to maintain themselves.
+
 - **Persistence — Organised Continuity Through Time** — Why continuity is biology's central explanatory challenge.
+
 - **The Continuity Architecture of Life** — How continuity is maintained across the major domains of life.
 
 ## Introduction - Why "What Is Life?" Remains an Open Question
@@ -265,7 +268,7 @@ The first component of this interpretation is viability. Viability refers to the
 
 The second component is constraint closure. Organisational approaches to biology have shown that living systems are distinguished by networks of mutually dependent constraints that regulate the physical and chemical processes from which organisms are constituted. These constraints do not exist independently of the processes they regulate. Rather, they are continually generated, maintained, and renewed through the organisation they sustain. Constraint closure therefore characterises a mode of organisation in which the conditions required for continued biological activity are themselves products of that activity.
 
-APS adopts this organisational insight while placing viability at its explanatory centre. Constraint closure describes an important organisational architecture of living systems, but APS investigates whether its biological significance lies in its orientation towards the continual maintenance and re-establishment of viability. The organisation of living systems is not merely self-maintaining in an abstract sense. It is organised around the continual maintenance and re-establishment of the conditions required for its own persistence. Viability therefore provides the normative orientation through which constraint-closed organisation becomes specifically biological.
+APS adopts this organisational insight while placing viability at its explanatory centre. Constraint closure describes an important organisational architecture of living systems, but APS investigates whether its biological significance lies in its orientation towards the continual maintenance and re-establishment of viability. The organisation of living systems is not merely self-maintaining in an abstract sense. It is organised around the continual maintenance and re-establishment of the conditions required for its own persistence. Within APS, viability provides the normative orientation through which constraint-closed organisation is interpreted as specifically biological.
 
 This interpretation also clarifies the relationship between organisation and the biological characteristics discussed in earlier sections. Metabolism contributes to the continual renewal of organisational conditions. Development reorganises those conditions across the life history of the organism. Regulation preserves viable organisation in the face of internal and external perturbation. Reproduction extends organised persistence beyond the lifetime of individual organisms. Evolution explains the historical transformation of viability-oriented organisation across successive generations. None of these phenomena defines life in isolation. Rather, each contributes to understanding how viability-oriented, constraint-closed organisation is maintained, transformed, or extended.
 
@@ -295,7 +298,7 @@ The perspective of Scale considers the organisational domains across which persi
 
 Taken together, these three perspectives provide a comparative explanatory methodology rather than an additional biological theory. Agency, Process, and Scale do not divide living systems into separate explanatory compartments. Instead, each perspective illuminates a different aspect of the organisation introduced in the previous section. Agency reveals the activity through which living organisation is continually enacted. Process explains the continuity of that organisation through change. Scale situates that continuity across the organisational domains within which persistence is realised. Their explanatory significance lies precisely in their complementarity.
 
-This interpretation also clarifies the relationship between APS and established biological disciplines. Physiology, development, ecology, evolution, cognition, and behaviour investigate different dimensions of living systems because each addresses particular explanatory problems. APS does not seek to replace these disciplines or reduce them to a single explanatory principle. Rather, it provides a comparative methodology through which their distinctive explanatory achievements may be understood as complementary investigations of viability-oriented, constraint-closed organisation. Biological explanation therefore becomes progressively more coherent as these diverse perspectives are interpreted in relation to a common organisational target.
+This interpretation also clarifies the relationship between APS and established biological disciplines. Physiology, development, ecology, evolution, cognition, and behaviour investigate different dimensions of living systems because each addresses particular explanatory problems. APS does not seek to replace these disciplines or reduce them to a single explanatory principle. Rather, it provides a comparative methodology through which their distinctive explanatory achievements may be understood as complementary investigations of viability-oriented, constraint-closed organisation. Within APS, these diverse perspectives can be organised in relation to a common organisational target without replacing their distinctive explanatory contributions.
 
 The Agency–Process–Scale framework thus completes the explanatory shift introduced in the preceding sections. Having moved from biological characteristics to biological organisation, APS now provides a structured methodology for investigating that organisation. The framework does not alter the empirical achievements of contemporary biology. Instead, it clarifies how those achievements relate through the organisation required for living systems to maintain and re-establish the conditions of their own persistence.
 
@@ -319,7 +322,7 @@ The same pattern extends to cognition. APS does not identify cognition with life
 
 These examples illustrate a general feature of the APS methodology. Existing biological disciplines continue to address their established explanatory questions, yet their respective achievements become more coherent when interpreted in relation to the organisation that unites them. The APS framework therefore provides an explanatory grammar rather than an alternative empirical programme. It clarifies how different biological explanations relate without diminishing the autonomy or empirical success of the disciplines from which they arise.
 
-This comparative perspective also has implications for theoretical biology. By identifying viability-oriented, constraint-closed organisation as the common organisational target of biological explanation, APS encourages explicit comparison between explanatory traditions that are often considered independently. Debates concerning function, individuality, development, evolution, agency, ecology, and cognition can therefore be understood not as isolated conceptual disputes but as complementary investigations of different aspects of organised persistence. In this way, APS seeks to strengthen theoretical integration while preserving the explanatory diversity that characterises contemporary biology.
+This comparative perspective also has implications for theoretical biology. By proposing viability-oriented, constraint-closed organisation as a common organisational target for comparative biological explanation, APS encourages explicit comparison between explanatory traditions that are often considered independently. Debates concerning function, individuality, development, evolution, agency, ecology, and cognition can therefore be understood not as isolated conceptual disputes but as complementary investigations of different aspects of organised persistence. In this way, APS seeks to strengthen theoretical integration while preserving the explanatory diversity that characterises contemporary biology.
 
 The contribution of APS is therefore neither to redefine every biological concept nor to replace existing theories with a unified explanatory system. Its contribution is methodological. By interpreting the central concepts of biology as complementary explanatory perspectives on a common organisational phenomenon, APS provides a framework within which biological explanation becomes more coherent, more explicitly comparable, and more clearly directed towards the organisation that distinguishes living systems.
 
@@ -360,6 +363,7 @@ Whether this organisational perspective ultimately proves scientifically valuabl
 The question What is life? is unlikely to disappear from biology because it concerns the organisation that makes every other biological question possible. APS does not claim to end that investigation. It proposes that the investigation becomes more coherent when life is understood as viability-oriented, constraint-closed organisation and when biological explanation is organised through the complementary perspectives of Agency, Process, and Scale.
 
 ## Explanatory Architecture
+
 ### Central question
 
 This article asks what distinguishes living systems from every other organised system. It proposes that life is best understood as viability-oriented, constraint-closed organisation rather than as a collection of properties, substances, or mechanisms.
@@ -369,19 +373,31 @@ This article asks what distinguishes living systems from every other organised s
 This article establishes the foundational concept upon which the APS framework is organised. It identifies the phenomenon that subsequent articles investigate from different explanatory perspectives.
 
 ### Builds on
+
 Naturalising Life
+
 What Is Biology Trying to Explain?
+
 What Is a Biological System?
 
 ### Develops into
+
 Biological Agency
+
 Organised Persistence
+
 Function
+
 Biological Evaluation
+
 Constraint Closure
+
 Process
+
 Scale
+
 Cognition
+
 Biological Explanation
 
 ### Related explanatory questions
@@ -389,9 +405,13 @@ Biological Explanation
 Readers may wish to continue with:
 
 Why Does Biology Need Agency?
+
 Why APS Reframes Biology
+
 Organised Persistence
+
 What Is Biological Explanation?
+
 APS and Contemporary Theories
 
 ### Position within APS

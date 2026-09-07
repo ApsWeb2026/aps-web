@@ -1,12 +1,12 @@
 ---
-date: 2026-04-09
 title: APS Box — Why APS Emphasises Agency
 slug: why-aps-emphasises-agency
 type: box
+date: 2026-04-09
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-04-09
+revised: 2026-09-06
 ---
 
 APS places agency at the centre of biological explanation, but this emphasis can be misunderstood if agency is interpreted in psychological or intentional terms.
@@ -17,4 +17,4 @@ This emphasis is methodological rather than metaphysical. APS does not introduce
 
 Biological explanation requires recognising that living systems are not passively shaped by external forces. They continuously modulate their internal and external conditions in ways that maintain their own organisation. This activity is what APS terms agency.
 
-**Key Point.** *APS emphasises agency because it makes explicit the activity through which living systems sustain themselves—an activity that must be presupposed by any account of evolution, function, or regulation.*
+**Key Point.** *APS emphasises Agency because it makes explicit the viability-oriented activity through which living systems sustain themselves—an activity that can provide a common analytic reference when relating explanations of evolution, function, and regulation.*
