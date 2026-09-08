@@ -142,6 +142,23 @@ A broader explanatory extent is therefore justified only when relations beyond a
 
 [[box:spatiotemporal-organisation-and-scale]]
 
+<div class="aps-diagram">
+
+<a href="/assets/diagrams/evolution-multiscale.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/evolution-multiscale.png"
+    alt="APS diagram showing evolutionary explanandum, materially relevant relations, required spatial and temporal explanatory extent, and the alternative outcomes of bounded or broader explanation"
+    loading="lazy"
+  />
+</a>
+
+<p class="aps-diagram-caption">
+  <strong>Evolutionary Explanation and Explanatory Extent.</strong>
+  APS does not assume that evolution is inherently multiscale. The evolutionary explanandum determines which materially realised processes, constraints, interactions and organisational relations are relevant; Scale then identifies the spatial and temporal extent required to explain them. A broader extent is warranted only when additional relations make an explanatory difference to the target.
+</p>
+
+</div>
+
 ## Agency and Evolutionary Extent
 
 Biological agency is viability-oriented organisational activity. Evolution can transform the organisation through which that activity is realised, including the regulatory, developmental, physiological, behavioural, and environmental relations relevant to persistence.
