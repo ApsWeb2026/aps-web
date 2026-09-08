@@ -1714,7 +1714,7 @@ main .content-wrapper .article-body h3 a {
 
 .aps-diagram a:hover img,
 .aps-diagram a:hover svg {
-  transform: translateX(-50%);
+  transform: scale(1.01);
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
