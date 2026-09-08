@@ -12,7 +12,7 @@ cluster: methodology-and-explanation
 
 Within APS, living systems are understood as viability-oriented, constraint-closed organisations whose activity maintains and re-establishes conditions required for continued functioning.
 
-Agency, Process, and Scale are complementary analytic projections of this one organisation. **Agency** concerns what living systems do. **Process** concerns how organisational continuity is maintained despite change. **Scale** concerns across what materially realised spatial and temporal extents, and through what relations among them, persistence is organised.
+Agency, Process, and Scale are complementary analytic projections of this one organisation. **Agency** concerns what living systems do. **Process** concerns how organisational continuity is maintained despite change. **Scale** concerns where persistence is organised across spatial and temporal extents, with the required explanatory extent determined by the materially realised relations relevant to the explanandum.
 
 These projections help formulate different questions about living organisation without determining in advance either the explanandum or what an adequate explanation must contain. APS may ask how viability is maintained, how constraints are mutually sustained, how continuity persists through transformation, or how materially implemented relations across spatial and temporal extents alter local conditions.
 

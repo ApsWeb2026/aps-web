@@ -34,8 +34,6 @@ APS does not organise inquiry around a single privileged explanatory principle o
 
 - **Coupling** describes materially realised relations through which systems, processes, or conditions influence one another.
 
-- **Scale-coupling** directs attention to materially implemented relations among spatial and temporal extents relevant to a particular explanandum.
-
 - **Biological agency** is viability-oriented organisational activity.
 
 - **Semiosis** belongs to an APS research pathway investigating how viability-relevant differences may acquire biological significance; its stronger dependency claims require independent assessment.

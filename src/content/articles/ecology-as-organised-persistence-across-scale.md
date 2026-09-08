@@ -6,31 +6,37 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-06-24
+revised: 2026-09-09
 cluster: ecological-organisation
 role: anchor
 
 abstract: >
-  This article develops the APS account of ecology as distributed organised
-  persistence across interacting organism–environment systems, scales, and
-  continuity structures. Ecology is not treated as an external environmental
-  backdrop surrounding independently complete organisms, but as a dynamically
-  organised continuity architecture through which living systems sustain
-  viability across time. APS therefore reconstructs ecology around
-  organism–environment coupling, ecological significance, resources,
-  constraints, development, resilience, semiosis, adaptation, and multiscale
-  persistence. Ecological organisation emerges through distributed
-  continuity-producing relations enacted across organisms, environments,
-  developmental systems, and evolving ecological processes.
+  This article develops the APS account of ecology as materially realised
+  organism–environment organisation relevant to biological persistence.
+  Ecology is not treated as an external environmental backdrop surrounding
+  independently complete organisms, nor as persistence produced by interacting
+  scales. Living systems depend upon resources, constraints, developmental
+  conditions, ecological relations, microbial communities, and changing
+  environments that can contribute directly to their continued viability.
+  APS therefore asks which ecological relations make an explanatory difference
+  to a specified biological target and what spatial and temporal extent is
+  required to explain them. Some ecological explanations require relations
+  extending beyond organism boundaries and across broad extents; others may be
+  adequately bounded more narrowly. Scale identifies that explanatory extent
+  but does not perform the ecological interaction, coupling, constraint, or
+  causal work.
 
 keyPoints:
-  - Ecology concerns distributed organised persistence across organism–environment systems.
-  - Organisms are ecologically constituted through continuity-producing coupling relations.
-  - Ecological organisation is multiscale, temporal, developmental, and reconstructive.
-  - Persistence is distributed across interacting ecological continuity systems.
-  - Ecological resilience involves continuity-preserving reorganisation under perturbation.
-  - Semiosis and cognition emerge within ecologically significant continuity relations.
-  - APS explains ecology as viability-oriented continuity organisation distributed across scale and time.
+  - Ecology concerns materially realised organism–environment relations relevant to organised persistence.
+  - Some conditions of organismal persistence are realised through relations extending beyond organism boundaries.
+  - Distributed persistence does not mean persistence distributed among scales.
+  - Scale identifies the spatial and temporal extent required for an ecological explanation; scales do not interact or cause.
+  - A broader ecological extent is warranted only when additional materially realised relations make an explanatory difference to the explanandum.
+  - Organism–environment coupling is a material relation and must not be confused with coupling among scales.
+  - Perturbation can reveal ecological dependencies that require expansion of an initially bounded explanation.
+  - Resilience and adaptation concern material reorganisation under changing ecological conditions.
+  - Ecological significance is viability-relative and does not by itself establish cognition.
+  - Broader or multiextent ecological explanation is a diagnostic outcome, not a universal premise.
 
 relatedGlossaryTerms:
   - ecology
@@ -132,277 +138,354 @@ references:
 
 ## Introduction
 
-> **Where this article fits:** *The Ecological Organisation of Life* introduces ecology as a continuity architecture organised around organism–environment coupling. This article develops a more specific claim: ecological continuity is distributed across interacting scales. APS therefore approaches ecology not as a collection of local interactions but as organised persistence propagated across organismal, developmental, ecological, and evolutionary systems.
+> **Where this article fits:** *The Ecological Organisation of Life* introduces the ecological organisation of biological persistence. This article asks a more specific explanatory question: when does understanding persistence require organism–environment relations extending beyond a narrowly bounded biological system, and how should the required explanatory extent be identified?
 
 Ecology is often introduced as the study of organisms and their environments. While useful as a starting point, this description leaves open a deeper question. Why do organism–environment relations matter so fundamentally to life in the first place?
 
-APS approaches this question through the problem of continuity. Living systems do not persist independently of ecological organisation. Their continued viability depends upon ongoing engagement with energetic conditions, material flows, developmental environments, ecological relationships, microbial communities, behavioural systems, and wider environmental structures that contribute directly to persistence. Ecology therefore concerns far more than the surroundings within which life occurs. It concerns the organised relations through which continuity remains possible.
+APS approaches this question through organised persistence. Living systems do not persist independently of the conditions with which their organisation is materially related. Energy sources, nutrients, atmospheric and chemical conditions, developmental environments, microbial communities, ecological relationships, behavioural opportunities, and other environmental conditions can contribute directly to continued viability. Ecology therefore concerns more than a backdrop surrounding otherwise complete organisms. It investigates relations through which the conditions of biological persistence can be maintained, altered, or lost.
 
-From this perspective, ecology becomes a continuity architecture distributed across organism–environment systems. Persistence is not produced solely within organisms and then expressed in ecological settings. Rather, continuity emerges through ongoing organisational coupling linking living systems to the conditions that support viability across changing circumstances and multiple scales.
+This does not mean that ecology is inherently organised through interacting scales. The relevant explanatory question is more discriminating. For a specified ecological explanandum, which materially realised processes, constraints, interactions, and organisational relations make an explanatory difference, and across what spatial and temporal extent must they be considered?
 
-This emphasis on scale is essential. Continuity is rarely produced at a single level of organisation. The persistence of organisms depends simultaneously upon developmental systems, microbial communities, ecological networks, environmental processes, and evolutionary histories operating across different temporal and organisational scales. Understanding ecology therefore requires understanding how continuity is distributed across interacting scales rather than confined to any single one.
+Some ecological explanations require relations extending substantially beyond organism boundaries or across long temporal intervals. Others may be adequately explained within a more bounded domain. APS does not decide between these possibilities in advance.
 
-APS consequently approaches ecology as:
-
-> distributed organised persistence enacted across organism–environment systems and propagated across interacting scales.
-
-This reframes ecology away from static environmental background, isolated interaction analysis, or purely external context and toward continuity-producing ecological organisation distributed across scale and time.
+Ecological explanation therefore identifies the materially realised organism–environment relations relevant to persistence; **Scale identifies the spatial and temporal extent required to explain them**.
 
 [[box:what-biological-explanation-explains]]
 
-The central ecological question therefore becomes:
+The central ecological question becomes:
 
-> How do living systems sustain viable continuity through ongoing ecological organisation across interacting scales and environments?
+> How do materially realised organism–environment relations contribute to the persistence relevant to a specified ecological explanandum, and what explanatory extent is required to account for that contribution?
 
 [[box:the-organisational-grammar-of-aps]]
 
 ## Organisms Are Ecologically Constituted
 
-Traditional biological explanation often treats organisms as primary entities while interpreting environments as secondary external conditions acting upon them. APS rejects this separation because living systems persist only through ongoing ecological coupling.
+Traditional biological explanation can encourage a picture in which the organism is treated as the primary biological unit while the environment appears only as an external source of inputs, disturbances, or selection pressures. That separation becomes inadequate where conditions beyond an organism's boundary contribute materially to the organisation through which it remains viable.
 
-Every organism depends continuously upon relations that extend beyond its immediate boundaries. Energy must be acquired, nutrients must be obtained, oxygen exchanged, developmental conditions maintained, microbial partnerships sustained, and behavioural activities coordinated relative to changing ecological circumstances. These relations are not optional additions to an otherwise complete organism. They form part of the organisational conditions through which viability is preserved.
+Every organism depends upon environmental relations of some kind. Energy must be acquired, materials exchanged, appropriate physicochemical conditions encountered or maintained, and activity regulated relative to circumstances beyond the organism itself. For many organisms, microbial partnerships, developmental environments, social relations, constructed niches, or other ecological dependencies can also make a material difference to persistence.
 
-What is often overlooked is that these continuity-supporting relations are distributed across multiple scales simultaneously. Organismal persistence depends upon molecular exchanges, physiological organisation, developmental environments, ecological communities, and larger environmental processes whose continuity contributes directly to viability. No single scale contains the complete explanation of persistence because continuity emerges through their ongoing interaction.
+Such relations are not made explanatory merely because they occur outside an organism. Their relevance must be established relative to the target being explained. A nutritional dependency may be indispensable to one explanandum but irrelevant to another; a microbial relation may be constitutive of a developmental outcome without being required for every explanation of the organism concerned.
 
-An organism without ecological coupling is therefore not an independent organism. It is an organism losing the conditions required for its own persistence. Ecological organisation is consequently constitutive rather than peripheral. Living systems remain viable because they participate in continuity-producing relations that connect them to wider ecological structures distributed across scale and time.
+APS therefore permits a strong but bounded ecological claim: **some conditions of organismal persistence are materially realised through relations extending beyond organism boundaries**.
 
-This does not dissolve organisms into environments. APS instead treats organisms and environments as reciprocally organised dimensions of distributed persistence systems. Organisms actively shape ecological conditions while ecological conditions simultaneously shape the possibilities for organismal continuity. Persistence emerges through this ongoing relationship rather than residing exclusively on either side of it.
+This does not dissolve organisms into environments. Organisms remain materially organised living systems whose activities can modify the conditions with which they interact. Environments likewise affect organisms through specific physical, chemical, biological, and ecological relations. Where reciprocal dependence matters to the explanandum, explanation should identify those relations rather than assign the causal work to a wider scale.
 
 [[box:failure-reveals-organisation]]
 
 ## Ecology as Distributed Organised Persistence
 
-Once ecology is viewed through the lens of continuity, ecological organisation becomes visible as something more than a collection of interactions.
+Ecological organisation becomes especially important where the conditions relevant to persistence cannot be adequately represented as wholly internal to one bounded biological system.
 
-Predation, symbiosis, microbiome integration, nutrient cycling, developmental scaffolding, ecological signalling, niche construction, and multispecies coordination all contribute to the maintenance of viable persistence. What unifies these diverse ecological phenomena is not their physical similarity but their participation in continuity-producing organisation.
+Predation, symbiosis, microbiome relations, nutrient cycling, developmental scaffolding, ecological signalling, niche construction, and multispecies interactions provide different examples of relations that may contribute to biological persistence. They are not unified by physical similarity, and they should not automatically be treated as instances of one universal ecological mechanism. Their common relevance is methodological: each can become part of an explanation when it makes a material difference to the persistence being explained.
 
-APS therefore interprets ecological organisation not merely as interaction networks but as distributed relations that contribute to the preservation and reconstruction of persistence across time. Ecology becomes intelligible through the organisational roles that ecological processes play in sustaining continuity.
+APS uses **distributed organised persistence** in this bounded sense. Persistence is distributed when materially realised conditions relevant to a specified persistence explanandum occur across relations that cannot be adequately represented as wholly internal to one bounded biological system.
 
-Importantly, this continuity is distributed across scales rather than confined to local interactions alone. Nutrient cycles influence organismal viability, microbial communities influence development, developmental processes influence ecological participation, and ecological organisation shapes evolutionary possibilities. Persistence therefore propagates through continuity-producing relations extending across multiple organisational levels simultaneously.
+Distribution therefore does not mean that persistence is distributed among scales or propagated from one scale to another. The relevant processes, constraints, interactions, and organisational relations do the biological work. Scale identifies how far across space and time the explanation must extend to include them.
 
-This shift changes the central ecological question. Rather than asking simply how organisms interact with environments, APS asks:
+This distinction allows ecological explanations to be broad where the biology requires breadth without treating breadth itself as explanatory.
 
-> How do ecological relations contribute to continuity-preserving persistence across interacting systems and scales?
+The question is therefore not:
 
-Ecology therefore becomes the study of distributed organised persistence enacted through multiscale continuity relations linking organisms, environments, developmental systems, and evolving ecological processes.
+> Across how many scales is persistence distributed?
+
+but:
+
+> Which ecological relations make a difference to the persistence being explained, and what spatial and temporal extent is required to include them?
 
 ## Ecology and Viability
 
-Ecological organisation is viability-oriented because continuity can only be maintained under ecological conditions compatible with persistence.
+Ecological conditions matter biologically because some of them alter the prospects for continued viable organisation.
 
-Changes in climate, resource availability, habitat organisation, predation pressure, toxicity, biodiversity, and developmental conditions can either support or undermine viability. Ecological circumstances are therefore biologically significant not because they surround organisms, but because they participate directly in the maintenance of continuity.
+Changes in resource availability, temperature, habitat conditions, predation, toxicity, microbial relations, developmental circumstances, or other environmental variables can support, disrupt, or transform the organisation through which living systems persist. Their biological significance therefore derives not simply from being external circumstances but from their relation to viability.
 
-This insight helps explain why ecological conditions matter to biological agency. Organisms continuously evaluate ecological circumstances in relation to viability. Resources matter because they contribute to persistence. Hazards matter because they threaten persistence. Opportunities matter because they expand the possibilities through which continuity may be maintained. Ecological significance therefore emerges through the relationship between environmental conditions and viability-oriented organisation.
+This helps explain why ecological conditions matter to biological agency. Organisms act relative to conditions that bear differently upon their continued functioning. Resources can support persistence; hazards can threaten it; environmental opportunities can enable activities through which viable organisation is maintained or re-established.
 
-Importantly, viability itself is distributed across scales. Conditions affecting persistence at one level of organisation often depend upon continuity-producing processes operating at others. Organismal viability depends upon developmental organisation, developmental organisation depends upon ecological conditions, ecological systems depend upon broader environmental processes, and evolutionary continuity depends upon ecological viability maintained across generations. The significance of ecological organisation therefore cannot be confined to any single scale.
+The relevant viability is not itself distributed among scales. Rather, explaining a particular viability outcome may require environmental relations extending beyond a narrowly specified boundary. Whether that broader extent is necessary must be established from the explanandum.
 
-The result is a central ecological continuity structure:
+The ecological explanatory sequence is therefore:
 
-> Viability
-> ↓
-> Organism–environment coupling
-> ↓
-> Adaptive persistence
-> ↓
-> Ecological continuity across scale
+> **Viability-relevant explanandum**  
+> ↓  
+> **Materially relevant organism–environment relations**  
+> ↓  
+> **Required spatial and temporal explanatory extent**
 
-Ecology consequently concerns the distributed organisation of viable continuity across interacting organism–environment systems and the scales through which persistence is propagated.
+This sequence prevents explanatory extent from being mistaken for the material organisation being explained.
 
-## Ecology as Multiscale Organisation
+## Ecological Explanation and Explanatory Extent
 
-Ecological organisation unfolds across interacting scales, and continuity at one scale often depends upon organisation occurring at others. Microbial communities influence development, organisms reshape ecosystems, ecosystems affect climatic stability, ecological organisation influences evolutionary trajectories, and developmental organisation contributes to ecological persistence. Ecology therefore cannot be understood adequately by focusing upon a single level of organisation in isolation.
+Ecological phenomena vary greatly in the spatial and temporal extent required for their explanation.
 
-APS approaches ecology through continuity relations distributed across molecular, physiological, organismal, developmental, ecological, and evolutionary scales. None of these scales possesses complete explanatory priority independently because persistence emerges through their ongoing interaction. Ecological organisation propagates across spatial and temporal domains simultaneously, creating continuity structures that link processes occurring at very different levels.
+A local resource interaction may sometimes be explained adequately within a narrowly bounded organism–environment relation. Other targets may require developmental history, microbial communities, population processes, habitat transformation, climatic conditions, or historical ecological relations extending substantially beyond that boundary.
 
-This multiscale perspective reveals why ecological explanation differs from explanations focused exclusively on local interactions. Continuity is not simply generated at one level and transmitted unchanged to another. Instead, persistence emerges through ongoing coordination among processes operating across multiple scales at once. Organisms influence ecosystems, ecosystems influence developmental possibilities, developmental processes influence ecological participation, and ecological organisation contributes to evolutionary continuity. Each scale both contributes to and depends upon others.
+APS does not assume in advance that the broader explanation is superior.
 
-The consequences of this organisation become especially visible during ecological change. Disturbances occurring within microbial systems may influence development, developmental changes may alter behaviour, behavioural changes may affect ecological relations, and ecological transformations may ultimately influence evolutionary trajectories. Ecological continuity is therefore not confined to a single scale but emerges through the coordination of continuity-producing organisation across many scales simultaneously.
+The controlling test is:
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/ecology-visual.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/ecology-visual.png"
-      alt="Ecology as organised persistence across scales"
-      loading="lazy"
-    />
-  </a>
+> **A broader spatial or temporal extent is warranted in ecological explanation only when materially realised relations beyond a narrower boundary make a demonstrable explanatory difference to the ecological explanandum.**
 
-  <p class="aps-diagram-caption">
-    <strong>Ecology as Organised Persistence Across Scales.</strong>
-    Viability-oriented continuity is distributed across organism–environment systems operating at developmental, organismal, ecological, and evolutionary scales. Resources, constraints, resilience, adaptation, semiosis, and cognition contribute to persistence through continuity structures that span multiple levels of organisation simultaneously.
-  </p>
-</div>
+This yields two equally legitimate explanatory outcomes:
 
-APS therefore treats ecological organisation as a distributed continuity architecture rather than a collection of isolated interactions.
+> **Bounded ecological explanation**
+
+or:
+
+> **Broader / multiextent ecological explanation**
+
+A broader explanation earns its place by explanatory contribution, not by including more spatial domains, longer periods, or more biological processes. Conversely, a bounded explanation should not be rejected merely because wider ecological relations exist.
+
+Scale therefore asks **where the persistence relevant to the ecological explanandum is organised across spatial and temporal extents**. It does not coordinate those extents or cause relations between them.
+
+> **Broader ecological extent is a diagnostic outcome, not a universal premise.**
 
 ## Organism–Environment Coupling
 
-Within APS, organism–environment coupling is not merely a description of interaction. It is a continuity-producing organisational relation through which persistence is maintained.
+Within APS, organism–environment coupling refers to materially realised relations through which living activity and environmental conditions affect one another.
 
-Living systems continuously regulate exchanges with their environments. They acquire resources, avoid threats, exploit opportunities, restructure ecological conditions, modify habitats, and reorganise activity relative to changing viability constraints. These activities are not peripheral aspects of biological existence. They are among the mechanisms through which continuity is preserved.
+Living systems regulate exchanges with their environments. They acquire resources, avoid threats, exploit opportunities, modify habitats, alter local chemical or physical conditions, and reorganise activity relative to changing circumstances. Such activities can contribute directly to the maintenance or re-establishment of viable organisation.
 
-Because of this, environments cannot be treated as passive backgrounds. Ecological conditions participate directly in shaping development, metabolism, behaviour, adaptation, cognition, and evolutionary continuity. The ecological world becomes biologically significant because its conditions influence the prospects for persistence.
+Environments are therefore not always passive backgrounds. Their conditions can participate materially in developmental, physiological, behavioural, adaptive, or other biological processes.
 
-Coupling is also one of the principal mechanisms through which continuity propagates across scales. Developmental systems are coupled to ecological conditions, ecological systems are coupled to environmental processes, and evolutionary trajectories remain coupled to ecological circumstances extending across generations. Organism–environment relations therefore connect multiple continuity-producing scales rather than operating solely at the level of individual organisms.
+But **processes and systems may be coupled; scales are not**.
 
-This significance is closely related to the emergence of affordances. Ecological environments present opportunities and constraints that matter differently to different organisms. A resource for one organism may be irrelevant to another, while a habitat supporting continuity for one form of life may present danger to another. Organism–environment coupling therefore creates a field of ecological significance structured by viability.
+Where organism–environment coupling extends beyond a local boundary or over a longer temporal interval, Scale identifies the extent required to explain that coupling. It does not perform the coupling or propagate continuity between extents.
 
-APS consequently treats coupling as organisationally real. Organisms and environments are not independently complete systems subsequently connected by interaction. Their ongoing relation becomes part of the organised persistence through which continuity is maintained. Persistence is therefore distributed across relational ecological systems and the scales through which those systems are coordinated.
+Ecological affordances provide one example of why the relation matters. A resource for one organism may be irrelevant to another; a condition compatible with persistence for one form of life may threaten another. The ecological significance of such conditions depends upon the relation between environmental difference and viability-oriented organisation.
+
+APS consequently treats organism–environment coupling as materially real where the relevant interactions and dependencies are materially implemented. The explanatory task is to identify those relations and determine whether they require a bounded or broader ecological account.
 
 ## Ecology and Development
 
-Development is ecologically organised because living systems develop through continuous engagement with environments that contribute directly to continuity.
+Development occurs through continuing engagement with conditions that can contribute materially to developmental organisation.
 
-Nutritional conditions, microbial ecologies, climatic variation, ecological perturbations, behavioural environments, social organisation, and developmental scaffolding all influence how developmental trajectories unfold. Development therefore cannot be understood adequately as a process occurring solely within organisms. It emerges through continuity-preserving engagement with ecological conditions extending beyond organismal boundaries.
+Nutrition, microbial ecologies, temperature, chemical conditions, behavioural environments, social relations, developmental scaffolding, and ecological perturbations can influence developmental trajectories. Such influences cannot be understood simply by labelling development and ecology as different levels.
 
-Development also provides a clear example of continuity operating across scales. Molecular processes contribute to cellular organisation, cellular organisation contributes to physiological development, physiological development influences behavioural capacities, and behavioural activities alter ecological participation. Developmental continuity therefore depends upon interactions linking multiple organisational levels simultaneously.
+The relevant question is whether a particular developmental explanandum depends upon materially realised relations extending beyond the boundary initially chosen for explanation.
 
-Ecological organisation contributes directly to developmental plasticity, differentiation, physiological maturation, behavioural organisation, and adaptive transformation. The developmental possibilities available to organisms are shaped continually by the ecological relations within which development occurs.
+Molecular and cellular processes may be sufficient for some developmental questions. Other developmental outcomes may require physiological, behavioural, microbial, ecological, or historical relations. The appropriate explanatory extent must therefore be established case by case.
 
-This relationship is reciprocal. Developing organisms alter ecological conditions through their activities while ecological circumstances simultaneously influence developmental outcomes. APS therefore treats developmental continuity and ecological continuity as deeply interconnected dimensions of organised persistence. Development explains how continuity is reconstructed through transformation, while ecology explains how continuity is distributed across the conditions and scales supporting that reconstruction.
+APS expresses this as follows:
 
-Development therefore reveals one of the central themes of this article: continuity persists not because a single scale maintains itself independently, but because multiple scales remain organised in ways that collectively support viability.
+> **Development can depend upon materially realised environmental conditions, resources, interactions, and constraints. Where such relations make a difference to a developmental explanandum, their spatial and temporal extent belongs within the explanation.**
+
+Developing organisms can also alter their environments through activity, resource use, signalling, habitat modification, and social or ecological interaction. Where this reciprocity matters, explanation should identify the material relations through which it occurs.
+
+Development therefore illustrates how an ecological explanation can legitimately extend beyond an organism without making multiextent explanation a universal requirement.
 
 ## Ecology and Perturbation
 
-Ecological systems exist under continual perturbation. Climatic fluctuations, habitat disruption, predation pressure, ecological instability, anthropogenic transformation, species interactions, and resource variability continually alter the conditions supporting continuity.
+Ecological systems and organism–environment relations are continually exposed to changing conditions.
 
-For this reason, APS approaches ecology through continuity analysis under changing conditions rather than through static equilibrium models alone. Perturbations often reveal organisational structures that remain hidden during periods of relative stability. Dependencies, vulnerabilities, resilience capacities, adaptive flexibility, and continuity-preserving mechanisms frequently become visible only when ecological systems are challenged.
+Climatic fluctuations, habitat disruption, resource variation, predation, species interactions, pollution, anthropogenic transformation, and other perturbations can alter conditions relevant to persistence. Such changes often reveal dependencies that are difficult to identify during relatively stable functioning.
 
-Perturbations are especially informative because they expose the cross-scale organisation upon which persistence depends. A disturbance occurring at one level may propagate through many others. Changes in microbial communities can influence development, developmental disruptions can alter behaviour, behavioural changes can modify ecological relationships, and ecological transformations can ultimately influence evolutionary trajectories. Perturbation therefore reveals how continuity is organised across scales rather than within isolated systems.
+APS therefore treats perturbation as diagnostically valuable. A disturbance can reveal which resources, constraints, interactions, redundancies, or environmental relations actually make a difference to the target being explained.
 
-The significance of perturbation extends beyond disturbance itself. Perturbation provides insight into how continuity is maintained, how ecological systems reorganise, and where the limits of persistence may lie. Understanding ecological organisation requires examining not only stable functioning but also how continuity is preserved when stability is disrupted.
+A microbial disturbance may alter development; a developmental disruption may change behaviour; altered behaviour may modify ecological relations; ecological transformation may affect later evolutionary possibilities. These sequences should not be described as scales acting upon one another. They are candidate chains of materially realised dependency whose explanatory relevance must be demonstrated.
+
+Perturbation can therefore alter the justified boundary of an explanation:
+
+> **Where perturbation demonstrates that relations beyond an initially bounded domain make a difference to the target, the warranted explanatory extent expands accordingly.**
+
+This makes perturbation a method for discovering explanatory extent rather than evidence that ecological organisation must always be multiextent.
 
 [[box:perturbation-reveals-organisation]]
 
 ## Ecology and Resilience
 
-Ecological persistence depends upon resilience because ecological systems inevitably encounter disruption. APS interprets resilience as the continuity-preserving capacity of ecological organisation to absorb disturbance, reorganise itself, and maintain viability under changing conditions.
+Ecological persistence frequently requires organisation to remain viable under changing conditions.
 
-Resilience therefore involves more than resistance. A system may resist change temporarily yet fail when disturbances exceed its limits. Resilient systems operate differently. They preserve continuity by adapting to altered circumstances and reorganising persistence-producing relations without losing viability.
+Resilience therefore involves more than resistance to disturbance. In relevant cases it concerns the capacity of materially organised relations to preserve or re-establish continuity through reorganisation when conditions change.
 
-From a multiscale perspective, resilience is best understood as the recovery of continuity across interacting levels of organisation. Organismal responses depend upon developmental capacities, developmental capacities depend upon ecological conditions, ecological systems depend upon broader environmental organisation, and evolutionary processes may alter future resilience possibilities. Continuity survives because organisation remains capable of being reconstructed across scales even when local conditions change.
+Different mechanisms may contribute: biodiversity, behavioural flexibility, developmental plasticity, altered trophic relations, redundancy, migration, physiological adjustment, habitat modification, or ecosystem transformation. These mechanisms should not be treated as interchangeable. Their explanatory relevance depends upon the particular resilience target.
 
-This may involve biodiversity, developmental plasticity, trophic restructuring, behavioural flexibility, ecological redundancy, ecosystem transformation, or other forms of continuity-preserving reorganisation. What unifies these diverse mechanisms is their contribution to maintaining persistence despite ecological change.
+Some resilience explananda may be adequately bounded. Others may depend upon relations extending beyond a local system or over longer periods. The explanatory extent should follow the demonstrated dependencies.
 
-Ecological resilience is therefore reconstructive rather than merely protective. Continuity survives not because ecological conditions remain fixed, but because ecological organisation retains the capacity to reorganise itself in ways compatible with ongoing viability across multiple interacting scales.
+APS therefore treats ecological resilience as **continuity-preserving or continuity-restoring reorganisation under perturbation**, where that description is appropriate to the target. Processes and relations reorganise; scales do not.
 
 ## Ecology and Adaptation
 
-Adaptation is inseparable from ecological organisation because living systems adapt relative to ecological continuity conditions.
+Adaptation occurs in relation to environmental conditions relevant to biological persistence and reproduction.
 
-Ecological relations shape developmental trajectories, behavioural organisation, evolutionary pressures, and persistence possibilities. At the same time, organisms actively modify ecological organisation through niche construction, migration, cooperation, environmental engineering, and ecosystem restructuring. Adaptation is therefore not a one-way response to environmental conditions but a reciprocal process through which organisms and ecological systems continuously influence one another.
+Ecological relations can influence developmental trajectories, behaviour, selection pressures, and the possibilities available to organisms. Organisms can in turn modify environmental conditions through niche construction, migration, cooperation, resource use, environmental engineering, and other activities.
 
-Adaptation also reveals the scale-distributed character of ecological continuity. Organisms adapt through processes occurring at developmental, behavioural, ecological, and evolutionary levels simultaneously. Changes at one scale alter possibilities at others, while continuity depends upon maintaining viable relations across them all.
+This reciprocity is materially realised. It should not be redescribed as reciprocal influence among scales.
 
-APS interprets adaptation as a continuity-preserving process occurring within ecological organisation. Organisms adapt because ecological circumstances change, yet ecological circumstances themselves are often transformed by adaptive activity. Persistence emerges through this ongoing co-organisation of organisms and environments across time.
+An adaptive explanandum may require developmental, behavioural, ecological, or evolutionary relations, but their inclusion must be justified by their explanatory contribution. A broader account is warranted where excluding those relations leaves a demonstrable explanatory deficit.
 
-Adaptation consequently reveals an important feature of ecology: ecological continuity is not passively inherited but actively maintained through continuing reorganisation. Living systems contribute directly to the ecological conditions supporting their own persistence while simultaneously responding to the constraints those conditions impose.
+APS therefore treats adaptation as occurring within organism–environment organisation without assuming that every adaptive explanation must extend across the same spatial or temporal domains.
+
+Ecological conditions can change; organisms can respond to and modify those conditions; and the resulting relations can alter future possibilities for persistence. The explanatory task is to identify the material dependencies and their relevant temporal extent.
 
 ## Ecology and Semiosis
 
-Ecology is not only materially organised. It is also organised through significance.
+Ecology is not only a matter of material exchange. Living systems also encounter environmental differences that matter unequally to their continued functioning.
 
-Living systems continuously encounter differences in their environments that matter unequally to persistence. Food sources, predators, toxins, shelters, mates, climatic conditions, competitors, and social signals do not possess equal biological significance because their consequences for continuity differ. Ecology therefore presents organisms with a structured field of meaningful differences rather than a neutral collection of environmental features.
+Food, predators, toxins, shelter, mates, climatic conditions, competitors, gradients, and signals can have different consequences for viable organisation. Their significance is relational: a condition matters biologically in relation to the organisation for which it bears upon viability.
 
-This ecological significance provides the foundation for semiosis. Signals, gradients, cues, and environmental indicators become biologically meaningful because they contribute differently to viability-oriented persistence. A chemical trace may indicate food, a sound may signal danger, and an environmental change may alter the prospects for survival. What makes these differences meaningful is not their physical existence alone but their role within continuity-preserving organisation.
+Within APS, **Biological Evaluation is the process through which agency generates significance**. Ecological circumstances can participate materially in the relation being evaluated, but neither environments nor scales generate significance simply by occupying a wider explanatory domain.
 
-The emergence of significance is itself distributed across scales. Organisms evaluate local conditions, developmental systems shape interpretive capacities, ecological organisation structures opportunities and constraints, and evolutionary histories influence which differences become meaningful. Semiosis therefore cannot be reduced to isolated signalling events. It emerges through continuity-producing relations extending across multiple organisational levels.
+Signals, gradients, cues, and other environmental differences can therefore become biologically significant through their relation to viability-oriented activity. A chemical trace may be relevant to resource acquisition; a sound may indicate danger; an environmental change may alter the conditions under which persistence can be maintained.
 
-APS consequently treats ecology as both materially and semiosically organised. Ecological continuity includes not only the organisation of resources and constraints but also the organisation of meaningful relations through which organisms navigate ecological worlds. Semiosis therefore emerges within ecological organisation rather than being added to it from elsewhere.
+The explanatory extent required for semiosis depends on the target. Some cases may be explained through relatively local organism–environment relations. Others may require developmental history or broader ecological conditions. That extent must be demonstrated rather than assumed.
+
+APS consequently treats ecological significance as relationally real without distributing significance among scales or attributing evaluation indiscriminately to ecological systems.
 
 ## Ecology and Cognition
 
-The ecological organisation of significance provides an important bridge to cognition.
+Ecological organisation provides important conditions within which cognition can operate, but ecological responsiveness alone does not establish cognition.
 
-Perception, evaluation, learning, behavioural coordination, and adaptive decision-making all depend upon ongoing engagement with ecologically meaningful conditions. Organisms do not respond indiscriminately to their environments. They selectively evaluate ecological circumstances according to their implications for viability, distinguishing among opportunities, threats, resources, and constraints in ways that contribute to continuity.
+Perception, learning, behavioural coordination, and other cognitive processes, where present, occur through engagement with viability-relevant circumstances. Ecological conditions can structure the possibilities organisms encounter and can contribute to the significance that cognitive activity integrates across time.
 
-APS therefore rejects strongly internalist models of cognition detached from organism–environment organisation. Cognitive processes emerge through continuity-preserving engagement with ecological conditions. Organisms learn because ecological conditions change, evaluate because persistence requires discrimination among alternatives, and coordinate behaviour because viability depends upon successful ecological navigation.
+But organism–environment coupling, adaptive response, signalling, or ecological significance does not by itself cross the APS threshold into cognition.
 
-Cognition also illustrates how continuity can be organised across scales simultaneously. Neural processes contribute to evaluation, evaluation contributes to behaviour, behaviour influences ecological participation, and ecological organisation shapes the significance that cognition encounters. Cognitive continuity therefore emerges within wider ecological continuity systems rather than existing independently of them.
+APS therefore preserves a stronger distinction. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-Cognition consequently develops within ecological organisation rather than outside it. Ecological continuity contributes directly to cognitive continuity because the meaningful conditions that cognition evaluates originate within organism–environment relations. Ecology therefore provides part of the continuity architecture from which cognition emerges.
+The ecological contribution is consequently bounded. Ecology can help explain the conditions, relations, and significance within which cognition operates. It does not independently establish the cognitive threshold.
+
+Where a cognitive explanandum requires environmental relations extending beyond a narrowly bounded organism, those relations belong within the explanation. Where they do not make an additional explanatory difference, broader ecological extent should not be added merely because cognition occurs in an environment.
 
 ## Ecology and Constraint Organisation
 
-Ecological organisation extends continuity-producing constraint relations across organism–environment systems.
+Ecological organisation includes materially implemented constraints that shape the possibilities available to biological activity.
 
-Living systems persist through networks of mutually supporting constraints distributed across organisms, populations, ecosystems, energetic flows, developmental systems, and ecological interactions. These constraints do not merely limit activity. They help organise the conditions under which persistence remains possible.
+Resource distributions, physical boundaries, chemical conditions, trophic relations, habitat structure, developmental dependencies, competition, symbiosis, and other ecological relations can constrain what living systems can do. Constraints need not merely suppress activity; they can participate in organising the conditions under which particular activities and forms of persistence remain possible.
 
-Resources and constraints therefore function as complementary aspects of ecological organisation. Resources provide opportunities through which continuity can be sustained, while constraints shape the pathways through which those opportunities can be realised. Persistence depends not upon unlimited possibilities but upon structured possibilities organised in ways compatible with viability.
+The explanatory question is not whether constraints operate at one level and influence another. It is:
 
-Constraint organisation also helps explain how continuity propagates across scales. Constraints operating at one level influence possibilities at others, while continuity depends upon maintaining organisational compatibility across interacting systems. Ecological persistence is therefore not produced by isolated constraints but by networks of mutually supporting continuity relations extending across multiple levels of organisation.
+> **Which materially implemented constraint alters which process or condition, and what consequence does that relation have for the explanandum?**
 
-APS consequently approaches ecology as:
+Only after those relations are identified does Scale enter the analysis by asking what spatial and temporal extent is required to explain them.
 
-> constraint-structured continuity distributed across ecological persistence systems and interacting scales.
+Ecological constraint organisation can therefore extend beyond organism boundaries without becoming constraint by Scale. Networks of ecological dependencies may require broad explanation where their constituent relations demonstrably contribute to the target.
 
-Ecological organisation emerges through the ongoing interaction of resources, constraints, opportunities, dependencies, and continuity-preserving relations distributed across multiple levels of organisation. Constraint organisation therefore provides one of the mechanisms through which ecological persistence becomes possible.
+APS consequently approaches ecological constraint organisation through:
+
+> **materially realised constraints and dependencies relevant to organised persistence, considered across whatever spatial and temporal extent their explanation requires.**
 
 ## Ecology, Evolution, and Historical Continuity
 
-APS integrates ecology and evolution within a common historical continuity architecture.
+Ecology and evolution are deeply related, but their relation should not be represented as interaction between different scales.
 
-Evolutionary transformation unfolds within ecological persistence conditions. Selection pressures arise through ongoing organism–environment organisation distributed across time, while ecological conditions help shape the developmental and adaptive possibilities available to living systems. Evolution therefore cannot be understood independently of ecology.
+Evolutionary transformations occur within environmental conditions and ecological relations that can affect survival, reproduction, development, and other processes relevant to evolutionary change. Evolutionary transformations can in turn alter ecological relations by producing new forms, activities, dependencies, interactions, and environmental modifications.
 
-At the same time, ecological organisation is continually reshaped by evolutionary change. New forms of life alter ecological relations, modify environments, create opportunities, generate constraints, and transform the continuity structures within which future evolution occurs. Ecology and evolution therefore participate in an ongoing reciprocal relationship.
+The relation is therefore materially and historically reciprocal where the relevant processes support that conclusion.
 
-The relationship is therefore one of mutual influence rather than simple causation in a single direction. Ecology shapes evolutionary possibilities, while evolution reshapes ecological organisation. This reciprocity helps explain why neither domain can be fully understood in isolation. Evolutionary continuity remains inseparable from the ecological circumstances through which viability is maintained across generations.
+Ecological conditions can contribute to evolutionary explananda, while evolutionary transformations can alter later ecological conditions. Whether a particular explanation requires both domains depends upon the target.
 
-Ecology and evolution are also connected through scale. Evolutionary processes operate across generations, ecological organisation operates across interacting organism–environment systems, and continuity emerges through the ongoing interaction of both. Evolutionary change reshapes ecological continuity, while ecological continuity influences evolutionary possibilities. Historical persistence therefore depends upon organisation distributed across multiple temporal and organisational scales simultaneously.
+Evolution concerns historical transformation across lineages. Ecology concerns organism–environment relations and other ecological organisation. Their explanatory domains can overlap without constituting interacting ontological levels or scales.
 
-APS consequently treats ecology and evolution as complementary continuity architectures operating at different timescales. Evolution explains continuity through historical transformation across generations and lineages. Ecology explains how continuity is distributed across the ecological conditions and scales through which those historical processes remain viable. Together they reveal how persistence extends simultaneously across ecological and historical dimensions.
+Where historical ecological relations are necessary to explain an evolutionary target, the required temporal extent expands accordingly. Where an ecological target can be explained without reconstructing longer evolutionary history, that additional extent need not be imposed.
+
+APS therefore treats ecology and evolution as distinct but potentially overlapping explanatory domains within the study of organised persistence.
 
 ## Beyond Reductionism and Holism
 
-APS rejects both ecological reductionism and vague ecological holism.
+Ecological explanation is sometimes framed as a choice between reduction to local mechanisms and appeal to larger ecological wholes.
 
-Reductionistic approaches often attempt to explain ecological organisation entirely through isolated local interactions or lower-level mechanisms. Holistic approaches sometimes invoke ecosystem unity without adequately specifying the organisational relations through which continuity is produced. Both perspectives capture part of the picture while remaining incomplete.
+APS does not resolve this dispute by declaring either explanatory breadth or explanatory narrowness superior in advance.
 
-The difficulty arises because ecological continuity is distributed across interacting scales. Explanations restricted exclusively to local mechanisms may fail to capture larger continuity structures, while explanations focused exclusively on wholes may overlook the organisational processes through which persistence is actually maintained. Neither perspective adequately explains how continuity propagates across ecological systems.
+A narrowly bounded explanation may be entirely adequate when the materially relevant relations required for the explanandum lie within that boundary. It becomes insufficient when relations excluded by the boundary make a demonstrable explanatory difference.
 
-APS instead approaches ecology organisationally. Ecological systems become intelligible through viability-oriented relations, continuity-producing organisation, scale-coupled persistence, temporal continuity, and distributed ecological regulation. The focus shifts from choosing between parts and wholes to understanding how persistence emerges through organised relations linking them.
+A broader ecological explanation faces the reciprocal requirement. Including more organisms, processes, spatial domains, or temporal history does not itself produce explanatory gain. The additional relations must contribute to explaining the target.
 
-This approach preserves organismal individuality, mechanistic specificity, and explanatory precision while recognising that continuity depends upon broader ecological organisation distributed across scales and systems. Ecology is neither reducible to isolated mechanisms nor explainable through appeals to mysterious ecological wholes.
+The relevant methodological principle is therefore:
 
-APS therefore explains ecological continuity through distributed organised persistence propagated across interacting scales.
+> **The adequacy of a narrower or broader ecological explanation must be assessed relative to the explanandum and an appropriate comparator. A narrower explanation is insufficient only when materially relevant relations excluded by its boundary provide demonstrable explanatory gain. A broader explanation is not superior merely because it includes more relations.**
+
+This approach preserves mechanistic specificity while permitting explanations to extend beyond local mechanisms where the biology warrants that extension.
+
+APS therefore replaces neither reductionism with holism nor local explanation with multiextent explanation. It asks what organisation actually explains the target and how far across space and time that explanation must extend.
 
 ## Why Ecology Matters in APS
 
-Ecology is not a secondary domain added onto biology after the fact. It belongs to the organisational conditions that make biological persistence possible in the first place.
+Ecology matters to APS because living systems do not maintain viable organisation independently of their material circumstances.
 
-Living systems remain viable only because they are continuously coupled to energy sources, developmental environments, ecological communities, material flows, microbial systems, and changing environmental conditions. Biological organisation is therefore ecologically constituted from the beginning. Organisms persist because ecological continuity supports organismal continuity.
+Energy sources, resources, developmental conditions, microbial relations, ecological communities, physical environments, and changing external conditions can contribute directly to the persistence of living systems. Organism–environment organisation can therefore be constitutive rather than merely contextual for particular biological explananda.
 
-The significance of ecology becomes even clearer when viewed through the lens of scale. Continuity is never confined to a single level of organisation. Development depends upon ecological conditions, ecological organisation influences evolutionary trajectories, cognition emerges through engagement with ecologically significant worlds, and resilience depends upon continuity-preserving organisation extending across interacting systems. Ecology therefore reveals how persistence propagates through multiple scales simultaneously.
+Ecology also provides a strong test of explanatory boundaries. Some biological questions can be answered within relatively bounded systems. Others expose dependencies extending beyond organism boundaries, across communities or environments, or through longer temporal relations.
 
-This perspective transforms the significance of ecology within APS. Ecology becomes a theory of distributed persistence, a theory of ecological continuity, a theory of reconstructive resilience, and a theory of multiscale viability-oriented organisation. The ecological domain reveals how continuity extends beyond individual organisms into wider systems of organised relations.
+The significance of Scale is methodological. It allows APS to ask where the persistence relevant to the explanandum is organised without converting spatial or temporal extent into an additional causal entity.
 
-Ecology therefore provides one of the clearest demonstrations that persistence is distributed rather than isolated. Living systems survive because continuity is sustained through ecological organisation extending across environments, scales, and time.
+Ecology consequently demonstrates why explanatory boundaries should be tested rather than assumed. A local boundary may prove sufficient. It may instead fail when perturbation, comparison, or dependency analysis reveals materially relevant relations outside it.
+
+Ecological explanation is therefore especially important to APS because it can show, rather than presuppose, when organised persistence requires a broader explanatory extent.
 
 ## Conclusion
 
-APS reconstructs ecology around distributed organised persistence across scale and time.
+APS reconstructs ecology around materially realised organism–environment relations relevant to organised persistence.
 
-Living systems do not persist independently of ecological organisation. Their viability depends upon continuity-producing relations linking organisms to resources, constraints, developmental conditions, ecological communities, meaningful environmental differences, and evolving continuity structures. Ecology is therefore not an external backdrop against which life unfolds but part of the organisational architecture through which persistence becomes possible.
+Living systems depend upon conditions that can extend beyond their boundaries: resources, constraints, developmental circumstances, microbial relations, ecological interactions, meaningful environmental differences, and historically changing environments. Ecology investigates how such relations contribute to biological persistence, transformation, vulnerability, and recovery.
 
-This perspective reveals a common explanatory thread running throughout the ecological domain. Organism–environment coupling explains how continuity is distributed across relational systems. Multiscale organisation explains how continuity propagates across interacting levels. Resilience explains how continuity survives perturbation. Semiosis and cognition explain how ecological significance emerges within persistence-producing organisation. Evolution explains how ecological continuity is transformed across history.
+These relations do not establish that ecology is inherently multiscale. Nor do they imply that scales interact, coordinate processes, transmit constraints, or propagate persistence.
 
-Taken together, these themes reveal ecology as a continuity architecture organised around the problem of distributed persistence. Living systems remain viable because ecological relations continually contribute to the preservation and reconstruction of continuity across changing conditions.
+Instead, ecological explanation begins with an explanandum. It identifies the materially realised processes, constraints, interactions, and organisational relations that make a difference to that target. Scale then identifies the spatial and temporal extent required to include them.
 
-APS consequently explains ecology as constitutive rather than peripheral, continuity-producing rather than merely interactional, multiscale rather than locally isolated, semiosically organised rather than environmentally neutral, and viability-oriented rather than descriptively passive.
+Some explanations will remain bounded. Others will require broader or multiextent accounts. The distinction must be earned by explanatory evidence.
 
-Ecology therefore reveals that continuity is never confined to a single level of organisation. Living systems remain viable because persistence is distributed across interacting developmental, organismal, ecological, and evolutionary scales. APS consequently explains ecology as the organisation of continuity across the multiple scales through which life endures.
+Organism–environment coupling explains material relations between living systems and their conditions. Perturbation can expose dependencies that alter the justified boundary of explanation. Resilience concerns continuity-preserving or continuity-restoring reorganisation. Adaptation concerns biological change relative to ecological conditions. Semiosis concerns viability-relative significance. Cognition, where present, organises integrated biological significance across a temporal field of possibilities. Evolution concerns historical transformation across lineages that can intersect materially with ecological organisation.
+
+Taken together, these themes establish the ecological contribution to APS without making ecological breadth an explanatory premise.
+
+**Key Point.** Ecological relations can be materially constitutive of the conditions through which living systems persist, and those relations may extend beyond organism boundaries across substantial spatial or temporal extents. The required extent is determined by the explanandum and the materially realised relations that make a difference to it. Broader ecological explanation is therefore a possible diagnostic result, not a universal premise. Scale identifies where the relevant persistence must be explained; it does not perform the ecological interaction, coupling, constraint, or causal work.
+
+## Explanatory Architecture
+
+### Central Question
+
+Which materially realised organism–environment relations contribute to the persistence relevant to an ecological explanandum, and what spatial and temporal extent is required to explain that contribution?
+
+### Architectural Role
+
+This article establishes the ecological Anchor for analysing organised persistence beyond an automatically organism-bounded explanatory frame. It shows how ecological relations can enter biological explanation without treating environments as passive backgrounds or Scale as a material component of ecological organisation.
+
+### Builds On
+
+The article builds on APS accounts of life as viability-oriented, constraint-closed organisation; biological agency as viability-oriented organisational activity; organised persistence; organism–environment coupling; viability; constraint; Process; and Scale.
+
+It also depends on the distinction between materially realised biological organisation and the analytic projections through which that organisation is explained.
+
+### Develops Into
+
+The architecture developed here supports more specific APS analyses of organism–environment coupling, ecological resilience, adaptation, development, semiosis, cognition, and evolutionary transformation where ecological relations make an explanatory difference.
+
+It also provides a methodological basis for asking when ecological explanations require broader spatial or temporal extent and when a more bounded explanation is sufficient.
+
+### Related Explanatory Questions
+
+Related questions include:
+
+- When is an environmental condition constitutive of a biological explanandum rather than merely contextual?
+- How can perturbation reveal ecological dependencies that stable observation conceals?
+- Which materially implemented constraints connect organismal activity with ecological conditions?
+- When does ecological resilience require explanation beyond a local boundary?
+- How do ecological circumstances acquire viability-relative significance?
+- When do developmental or evolutionary histories make an additional explanatory difference to an ecological target?
+- What evidence warrants expanding the spatial or temporal extent of an ecological explanation?
+
+### Position within APS
+
+Ecology does not constitute a fourth APS projection. **Agency, Process, and Scale are analytic projections of one living organisation.**
+
+Agency asks what living organisation does. Process asks how continuity is maintained despite change. Scale asks where persistence is organised across spatial and temporal extents.
+
+Ecological explanation concerns particular biological explananda and the materially realised organism–environment relations relevant to them. It may draw upon one or more APS projections according to the explanatory target, but it does not establish that every ecological explanation requires all three or that Scale is automatically indispensable.
+
+### Corpus Significance
+
+This article establishes a discriminating ecological application of APS. Its central contribution is not the claim that ecology is inherently multiscale, but a method for determining when relations beyond an initially bounded system provide explanatory gain.
+
+Ecology therefore becomes an important test case for APS comparative explanatory methodology: broader explanation is warranted when additional materially realised ecological relations make a difference to the target, and not simply because wider relations can be described.
 
 ## Where to Go Next
 
-- *The Ecological Organisation of Life*
-- *Organism–Environment Coupling*
-- *Ecological Resilience*
-- *Niche Construction*
-- *Adaptation — How Living Systems Sustain Themselves Through Change*
-- *Semiosis — How Differences Come to Matter in Living Systems*
-- *Cognition — Where Does It Belong in Biology?*
-- *Constraint — How Organisation Becomes Persistence*
-- *Biological Agency — The Activity of Organised Persistence*
+- **The Ecological Organisation of Life**
+- **Organism–Environment Coupling**
+- **Ecological Resilience**
+- **Niche Construction**
+- **Adaptation — How Living Systems Sustain Themselves Through Change**
+- **Semiosis — How Differences Come to Matter in Living Systems**
+- **Cognition — Where Does It Belong in Biology?**
+- **Constraint — How Organisation Becomes Persistence**
+- **Biological Agency — The Activity of Organised Persistence**
 
-Together these articles explore how ecological continuity contributes to the wider architecture of organised persistence across development, cognition, evolution, and social organisation.
+Together these articles explore how ecological relations contribute to organised persistence across development, adaptation, resilience, cognition, evolution, and other biological explananda.
