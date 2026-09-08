@@ -4547,33 +4547,27 @@ references:
     verifiedDate: 2026-09-07
 - id: ramirez-tagle-2026-formalizing-autopoiesis
   type: journal-article
-  authors:
-    - family: Ramírez-Tagle
-      given: Rodrigo
+  authors: Ramírez-Tagle, R.
   year: 2026
   title: "Formalizing autopoiesis: Toward a Categorical-Thermodynamic Calculus of Closure"
   journal: "BioSystems"
   volume: "268"
-  articleNumber: "105918"
-  doi: "10.1016/j.biosystems.2026.105918"
+  article-number: "105918"
+  doi: 10.1016/j.biosystems.2026.105918
   verification:
     status: verified
     authority: Elsevier
     verifiedDate: 2026-09-08
 - id: hermida-ladyman-2026-spatial-structure-biology
   type: journal-article
-  authors:
-    - family: Hermida
-      given: M.
-    - family: Ladyman
-      given: James A. C.
+  authors: Hermida, M., & Ladyman, J. A. C.
   year: 2026
-  title: "The Importance of Spatial Structure in Biology"
+  title: "The importance of spatial structure in biology"
   journal: "European Journal for Philosophy of Science"
   volume: "16"
   issue: "3"
-  articleNumber: "59"
-  doi: "10.1007/s13194-026-00760-x"
+  article-number: "59"
+  doi: 10.1007/s13194-026-00760-x
   verification:
     status: verified
     authority: Springer Nature
