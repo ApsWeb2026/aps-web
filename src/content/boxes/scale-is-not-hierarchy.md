@@ -10,7 +10,6 @@ revised: 2026-06-10
 cluster: conceptual-foundations
 seeAlso:
   - scale
-  - scale-coupling
   - resolution
   - organisational-coupling
   - biological-organisation

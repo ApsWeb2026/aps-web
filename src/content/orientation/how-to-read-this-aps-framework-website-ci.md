@@ -33,7 +33,6 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
-  - scale-coupling
   - viability
   - constraint-closure
   - persistence

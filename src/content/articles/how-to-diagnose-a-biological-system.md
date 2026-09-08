@@ -27,7 +27,6 @@ relatedGlossaryTerms:
   - evaluation
   - cognition
   - semiosis
-  - scale-coupling
   - resilience
   - malfunction
 

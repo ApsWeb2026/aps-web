@@ -40,7 +40,6 @@ relatedGlossaryTerms:
   - continuity
   - process
   - scale
-  - scale-coupling
   - constraint
   - constraint-closure
   - explanatory-grammar

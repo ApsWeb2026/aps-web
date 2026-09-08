@@ -26,7 +26,6 @@ seeAlso:
   - constraint
   - constraint-closure
   - physiology
-  - scale-coupling
   - temporal-organisation
 relatedArticles:
   - aps-architecture-map

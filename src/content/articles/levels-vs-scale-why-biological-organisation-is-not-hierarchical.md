@@ -6,34 +6,30 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-06-21
-
+revised: 2026-09-08
 cluster: conceptual-foundations
 role: clarification
-
 abstract: >
-  Biology has traditionally described living systems through hierarchical
-  levels ranging from molecules to ecosystems. While useful for classification
-  and description, hierarchical models often misrepresent the organisation of
-  living systems by treating biological reality as a stack of separate domains.
-  APS replaces hierarchical levels with scale as the primary explanatory framework.
-  Organised persistence is maintained through coordinated activity extending
-  across multiple spatial and temporal scales simultaneously, from molecular
-  dynamics and physiological regulation to development and evolution. Scale
-  therefore does not describe positions within a hierarchy but the dimensions
-  across which viability-oriented organisation is maintained and transformed.
-  Understanding biological systems requires tracing how organised persistence
-  is coordinated across scales rather than locating causes within discrete
-  levels of organisation.
-
+  Biology frequently describes living systems through hierarchical levels,
+  from molecules and cells to organisms, populations, and ecosystems. Such
+  representations can be useful for classification, investigation, and
+  communication, but their usefulness does not establish that biological
+  organisation itself consists of discrete causal or ontological levels.
+  APS distinguishes these descriptive partitions from Scale. Scale is the
+  analytic projection concerned with where persistence is organised across
+  spatial and temporal extents. It does not replace levels with another
+  biological hierarchy, nor does it imply that living systems must always be
+  explained across multiple scales. The explanatory task is to identify the
+  materially realised processes, constraints, interactions, and dependencies
+  relevant to a biological target and to determine the spatial and temporal
+  extent across which they must be considered.
 keyPoints:
-  - Hierarchical levels are useful descriptive abstractions but do not accurately represent biological organisation.
-  - Living systems persist through coordinated organisation extending across multiple scales simultaneously.
-  - Scale describes the spatial and temporal dimensions across which organised persistence is maintained and transformed.
-  - Biological agency is inherently multiscale and cannot be located at a single scale of organisation.
-  - Development, physiology, inheritance, and evolution represent different temporal scales of organised persistence.
-  - Biological explanation requires tracing cross-scale organisation rather than movement between hierarchical levels.
-
+  - Hierarchical levels can be useful descriptive and investigative abstractions without constituting the organisation they describe.
+  - Scale is the analytic projection concerned with where persistence is organised across spatial and temporal extents.
+  - Levels and Scale answer different explanatory questions; APS does not simply replace one with the other.
+  - Biological agency is viability-oriented organisational activity and need not be assumed to reside at, or require explanation across, any predetermined scale.
+  - Spatial and temporal extent becomes explanatorily relevant when materially realised relations across that extent make a difference to the biological target.
+  - Wider or more extensive explanations are not automatically better explanations.
 relatedGlossaryTerms:
   - scale
   - organised-persistence
@@ -41,7 +37,6 @@ relatedGlossaryTerms:
   - biological-agency
   - viability
   - continuity
-
 relatedArticles:
   - why-aps-is-not-hierarchical
   - scale-time-persistence
@@ -49,205 +44,263 @@ relatedArticles:
   - biological-agency-as-the-activity-of-self-maintenance
   - biology
   - explanatory-geometry-of-biology
-
 references:
-  - id: Hull1965
-    authors: Hull, D. L.
-    year: 1965
-    title: "The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis"
-    journal: British Journal for the Philosophy of Science
-    volume: "15(60)"
-    pages: 314–326
-
-  - id: Wimsatt1976
-    authors: Wimsatt, W. C.
-    year: 1976
-    title: "Reductive Explanation: A Functional Account"
-    journal: Boston Studies in the Philosophy of Science
-    volume: "26"
-    pages: 671–710
-
-  - id: Simon1962
-    authors: Simon, H. A.
-    year: 1962
-    title: "The Architecture of Complexity"
-    journal: Proceedings of the American Philosophical Society
-    volume: "106(6)"
-    pages: 467–482
-
-  - id: Eldredge1985
-    authors: Eldredge, N.
-    year: 1985
-    title: Unfinished Synthesis
-    publisher: Oxford University Press
-
-  - id: Salthe1985
-    authors: Salthe, S. N.
-    year: 1985
-    title: Evolving Hierarchical Systems
-    publisher: Columbia University Press
-
-  - id: Craver2007
-    authors: Craver, C. F.
-    year: 2007
-    title: Explaining the Brain
-    publisher: Oxford University Press
-
-  - id: Noble2012
-    authors: Noble, D.
-    year: 2012
-    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
-    journal: Interface Focus
-    volume: "2(1)"
-    pages: 55–64
-    doi: https://doi.org/10.1098/rsfs.2011.0067
-
-  - id: NicholsonDupre2018
-    authors: Dupré, J., & Nicholson, D. J.
-    year: 2018
-    title: Everything Flows
-    publisher: Oxford University Press
-
-  - id: Spencer2026
-    authors: Spencer, R. D.
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+  - wimsatt-1974-reductive-explanation
+  - simon-1962-complexity
+  - eldredge-1985-unfinished-synthesis
+  - salthe-1985-evolving-hierarchical-systems
+  - craver-2007-explaining-the-brain
+  - noble-2012-biological-relativity
+  - nicholson-dupre-2018-everything-flows
+  - spencer-2026-agency-defining-activity-life
+  - hermida-ladyman-2026-spatial-structure-biology
 ---
 
 ## The Limits of Hierarchical Thinking
 
 > **Where this article fits.**
-> This article explains why APS replaces hierarchical levels with scale as the primary framework for understanding biological organisation. It focuses on how organised persistence extends across multiple spatial and temporal scales. Readers interested in the philosophical reasons APS rejects hierarchy as an explanatory ontology should also see *Why APS Is Not Hierarchical*.
+>
+> This article distinguishes hierarchical descriptions of biological phenomena from Scale as an APS analytic projection. It does not argue that biological levels must be abandoned. Instead, it asks what level-based representations can legitimately provide, where they become explanatorily misleading, and how Scale addresses a different question: where the persistence relevant to a biological explanandum is organised across spatial and temporal extents. Readers interested in the broader philosophical implications of hierarchy should also see *Why APS Is Not Hierarchical*.
 
-Biology has long been organised around the concept of hierarchical levels. Textbooks commonly describe living systems as nested layers extending from molecules and cells through tissues, organs, organisms, populations, and ecosystems. This framework suggests that biological reality is composed of discrete domains stacked upon one another, with each level building upon the one below. Such descriptions can be useful for teaching, classification, and practical investigation because they provide convenient ways of grouping phenomena that occur at different spatial scales and often help organise specialised fields of study. Molecular biology, physiology, ecology, and evolutionary biology are frequently associated with particular regions of this hierarchy.
+Biology has long used hierarchical representations to organise phenomena. Textbooks commonly distinguish molecules, cells, tissues, organs, organisms, populations, and ecosystems, while specialised disciplines often concentrate on particular regions of this descriptive organisation. Such distinctions can be scientifically useful. They support classification, communication, experimental design, and the practical division of complex research problems.
 
-Yet the apparent simplicity of hierarchical thinking conceals a deeper problem. Living systems do not actually operate as collections of separate layers. Molecular activity, cellular organisation, physiological regulation, behaviour, development, and environmental interaction are not independent domains linked together after the fact. Rather, they are inseparable aspects of a single organised system whose continued existence depends upon the ongoing coordination of these activities. What appears as a hierarchy from the perspective of classification therefore appears as an integrated organisation from the perspective of explanation.
+The difficulty begins when the usefulness of these representations is taken to establish the organisation of biological reality itself. A molecular, cellular, physiological, organismal, or ecological description identifies a domain of investigation; it does not by itself establish that the biological system consists of discrete causal or ontological layers.
 
-The difficulty is not that biological systems lack structure. Living systems exhibit highly organised patterns extending across many dimensions of space and time. The difficulty is that the structure of living systems is not hierarchical in the sense implied by level-based models. Biological organisation consists of continuously coordinated activity extending across scales, with processes at different spatial and temporal dimensions contributing to the maintenance of the same organised persistence. The explanatory challenge is therefore not to identify which level causes which phenomenon but to understand how organisation is maintained across multiple scales simultaneously.
+Living organisation is materially realised through relations among processes, structures, constraints, and environmental conditions. Some of those relations may be relatively local. Others may extend over wider spatial or temporal extents. Whether a particular partition captures what matters depends on the explanandum.
 
-APS rejects hierarchy as a fundamental explanatory framework for this reason. Hierarchical descriptions may remain useful as practical abstractions, but they do not capture the organisation that biology ultimately seeks to explain. Biological explanation concerns the maintenance, reorganisation, and transformation of organised persistence, and this organisation does not exist as a stack of independent levels.
+APS therefore does not reject hierarchical descriptions merely because they are hierarchical. It rejects the inference that a useful descriptive partition automatically supplies the organisation or causal structure required for explanation.
 
-## Why Levels Fail as Biological Explanation
+## What Levels Can — and Cannot — Explain
 
-The limitations of level-based thinking become apparent when biological organisation is examined more closely. The first problem is that levels imply ontological separation. Molecular, cellular, organismal, and ecological processes are often treated as distinct domains possessing their own independent existence. In reality, these processes are inseparable aspects of the same organised system. Cellular activity depends upon molecular organisation, physiological regulation depends upon cellular activity, and organismal behaviour depends upon all of them simultaneously. The apparent boundaries between levels are therefore analytical conveniences rather than genuine divisions within biological reality.
+Level language can perform several legitimate scientific functions. It can distinguish objects of study, identify useful resolutions, organise experimental techniques, and indicate where particular processes are conventionally investigated. Molecular biology and physiology, for example, may focus on different material relations without thereby describing separate biological realities.
 
-A second problem is that levels encourage directional models of causation. Biological explanation is frequently described as either bottom-up or top-down, as though causes travel between distinct layers of reality. Living systems rarely operate in this manner. Molecular processes influence physiology, but physiological organisation simultaneously shapes the conditions under which molecular processes occur. Organisms modify their environments while also being modified by them. Developmental processes reorganise physiology while physiological organisation constrains developmental possibilities. Biological causation is therefore reciprocal, distributed, and organisational rather than unidirectional.
+Problems arise when the boundaries of these investigative domains are treated as causal boundaries. Describing one process as molecular and another as physiological does not establish that causal influence must travel upward or downward between levels. Nor does the fact that two processes are described at different levels establish that relations between them are required for a particular explanation.
 
-A third limitation is that levels encourage static conceptions of organisation. Hierarchies identify positions within a structure but provide relatively little insight into how that structure persists through time. Living systems are not static arrangements of components. They are ongoing activities through which organisation is continuously maintained, repaired, reorganised, and transformed. A hierarchy may describe where something is located within a classificatory framework, but it does not explain how that organisation remains viable from moment to moment or how it changes across development and evolution.
+Where organisation extending beyond a local boundary alters local activity, the explanatory task is to identify the materially implemented interactions, constraints, and conditions through which that alteration occurs. A wider spatial or temporal extent does not itself cause a local event.
 
-Most importantly, levels fragment what biology ultimately seeks to explain. The central phenomenon of living systems is organised persistence: the capacity to maintain viability through coordinated activity across time. This persistence is not located at any particular level because it emerges through the integration of processes extending across multiple scales simultaneously. Molecular organisation, physiological regulation, behaviour, development, and environmental interaction all participate in maintaining the same continuity of organised existence. Treating these dimensions as separate levels obscures the very continuity that biological explanation seeks to understand.
+The same caution applies to claims about explanatory completeness. A molecular explanation is not incomplete merely because it is molecular, and an organismal or ecological explanation is not superior merely because it covers a wider domain. A relatively local explanation may be sufficient for one target, while another target may require relations extending beyond that locality.
 
-For these reasons, hierarchical models often succeed as classificatory tools while failing as explanatory frameworks. They describe where phenomena are conventionally located, but they provide little insight into how living organisation is maintained. The problem is not merely that levels oversimplify biological systems. The deeper problem is that they misrepresent the nature of biological organisation itself.
+Levels therefore neither succeed nor fail in the abstract. Their explanatory adequacy depends on what is being explained and on whether the organisation relevant to that target is captured by the chosen description.
 
 ## Scale and Organised Persistence
 
-APS replaces levels with **scale**. Scale does not refer to a position within a hierarchy. Instead, it refers to the spatial and temporal dimensions across which organised persistence is coordinated, maintained, and transformed. The concept shifts attention away from discrete layers of organisation and toward the relations through which living systems sustain themselves across space and time.
+APS uses **Scale** for a different analytic purpose.
 
-Living systems operate simultaneously across many scales. Molecular interactions occur within cells, cells participate in physiological processes, physiological regulation supports organismal activity, organisms interact with environments, and lineages persist across generations. These are not separate layers of reality stacked upon one another. They are interconnected dimensions of the same organised persistence. What appears as multiple levels from a hierarchical perspective becomes a coordinated organisation extending across scales when viewed through the lens of APS.
+**Scale is the analytic projection concerned with where persistence is organised across spatial and temporal extents.**
 
-To describe a system in terms of scale is therefore not to divide it into parts but to identify how its organisation extends across space and time. Scale specifies the dimensions across which viability is maintained, the temporal durations across which continuity is preserved, and the relations through which activities at different scales contribute to the persistence of the whole. The concept is inherently relational because it focuses not on isolated components but on the organisation connecting them.
+Scale therefore does not designate a position in a hierarchy. Nor does it identify a biological domain, a causal force, or a set of interacting layers. It asks about explanatory extent.
 
-This conception differs fundamentally from traditional hierarchical thinking. Hierarchies divide systems into levels and then attempt to explain the relations between those levels. Scale begins with the assumption that living systems are already integrated and seeks to understand how that integration is maintained across different dimensions of organisation. The former emphasises separation; the latter emphasises coordination. The former begins with structure; the latter begins with organised persistence.
+A living process is materially realised somewhere and unfolds over some duration. The spatial and temporal relations relevant to explaining that process, however, cannot be determined simply from its physical size, its conventional disciplinary classification, or an assumption that more extensive organisation must always be included.
 
-Organised persistence necessarily unfolds across scales because viability cannot be maintained at a single spatial or temporal dimension. Every living system depends upon processes occurring across multiple scales simultaneously. Molecular repair contributes to cellular stability, cellular organisation supports physiological regulation, physiological regulation enables behaviour, behaviour modifies environmental conditions, and environmental interactions influence developmental and evolutionary trajectories. These are not separate activities occurring at separate levels. They are mutually connected contributions to the persistence of the same organised system.
+For some explananda, a relatively restricted material organisation may be sufficient. For others, explanation may require relations involving cellular organisation, physiology, behaviour, environmental conditions, development, inheritance, or historical transformation. What justifies the additional extent is not the existence of another “scale” but the explanatory difference made by the materially realised relations found there.
 
-Understanding these relations is therefore a central task of biological explanation. Rather than asking how separate levels interact, APS asks how organised persistence is maintained through coordinated activity extending across space and time. Scale is not an alternative hierarchy. It is the explanatory geometry through which the continuity of living organisation becomes visible.
+This distinction is central to APS. Spatial organisation may itself be constitutive of biological organisation: position, configuration, boundaries, orientation, interaction, and other material relations can make a difference to what a biological system is able to do. Scale, by contrast, is explanatory. It identifies the spatial and temporal extent across which the organisation relevant to the explanandum must be considered.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/conceptual-hierarchy.png"
-      alt="From hierarchical levels to cross-scale organisation"
-      loading="lazy"
-    />
-  </a>
+<!--
+D9G-2 DIAGRAM PRODUCTION SPECIFICATION — DO NOT IMPLEMENT YET
 
-  <p class="aps-diagram-caption">
-    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
-    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
-  </p>
-</div>
+Replacement for:
+  /assets/diagrams/conceptual-hierarchy.png
+
+Working title:
+  From Levels Representation to APS Scale Analysis
+
+Required conceptual architecture:
+
+LEFT:
+  Common Levels Representation
+  Molecules
+  Cells
+  Tissues / Physiology
+  Organism
+  Population / Ecology
+
+  Label:
+  Useful descriptive and investigative partitions
+
+  Explicit guardrail:
+  The representation does not by itself establish discrete causal or
+  ontological levels.
+
+CENTRE:
+  Materially Realised Biological Organisation
+
+  Representative relations:
+  processes
+  constraints
+  interactions
+  boundaries
+  environmental conditions
+  temporal dependencies
+
+  No stacked hierarchy.
+  No arrows implying top-down or bottom-up causation.
+  No "cross-scale coordination."
+
+RIGHT:
+  APS Scale Analysis
+
+  Primary question:
+  Where is the persistence relevant to the explanandum organised across
+  spatial and temporal extents?
+
+  Spatial extent bar
+  Temporal extent bar
+
+  Explicit labels:
+  Scale = analytic projection
+  Extent is explanandum-dependent
+  Wider is not automatically better
+
+BOTTOM:
+  Levels representation and APS Scale analysis answer different questions.
+  APS does not replace useful level representations with another hierarchy.
+-->
 
 [[box:scale-is-not-size]]
 
-## Why Agency Is Necessarily Multiscale
+## Agency and Explanatory Extent
 
-The shift from levels to scale has important implications for understanding biological agency. If living systems were genuinely organised into independent levels, agency might plausibly be assigned to a particular layer of organisation. Agency could be identified with molecular mechanisms, cellular processes, neural activity, or behavioural responses. The scale-based perspective reveals why such attempts are inadequate. Agency is not located at a single scale because the viability it serves is maintained through coordinated organisation extending across many scales simultaneously.
+The distinction between levels and Scale matters for biological agency, but it does not establish that agency is necessarily multiscale.
 
-Every act of biological agency depends upon contributions occurring across multiple dimensions of organisation. A bacterium moving toward a nutrient source, a plant adjusting its growth in response to environmental conditions, or an animal modifying its behaviour to avoid danger all rely upon molecular processes, cellular organisation, physiological regulation, and environmental interaction. None of these dimensions alone constitutes agency. Agency emerges through their integration into a coherent activity directed toward maintaining viability.
+In APS, **biological agency is viability-oriented organisational activity**. Agency concerns what living systems do. It should not be identified automatically with a gene, molecular network, nervous system, brain, behavioural mechanism, or any other component merely because that component contributes to the activity being explained.
 
-This does not mean that agency exists as an additional entity layered on top of underlying processes. Rather, agency describes the organised activity through which a living system contributes to maintaining the conditions of its own continued existence. Because those conditions are maintained across multiple scales simultaneously, agency is necessarily multiscale. It cannot be reduced to any particular component or localised within any single dimension of organisation.
+At the same time, rejecting a privileged component does not entail that every explanation of agency must extend across multiple spatial and temporal extents. The required extent must be established from the organisation relevant to the explanandum.
 
-The organism provides the clearest illustration of this principle. Organisms persist because processes occurring across many scales contribute to maintaining the same organised continuity. Molecular repair, cellular regulation, physiological coordination, behavioural adjustment, and environmental interaction all participate in sustaining viability. Agency therefore reflects not the activity of a particular level but the organisation of the system as a whole. Understanding agency requires tracing how activities occurring across different scales contribute to the maintenance of organised persistence.
+A bacterium moving in relation to a nutrient gradient, a plant modifying growth under changing conditions, and an animal altering behaviour in response to danger depend on materially realised processes and constraints. Different explanatory targets may require different portions of that organisation to be included. The question is not how many scales agency occupies, but which organisational relations make an explanatory difference to the viability-oriented activity under investigation.
+
+Agency is therefore neither assigned to a privileged level nor constituted by Scale. Scale helps specify where the persistence relevant to explaining the activity is organised.
 
 [[box:agency-cannot-be-located-at-a-single-scale]]
 
-## Cross-Scale Causation and Coordination
+## Material Causation Across Explanatory Extents
 
-The inadequacy of hierarchical thinking becomes especially apparent when considering biological causation. Traditional discussions often frame explanation in terms of interactions between levels, asking whether causes originate from below or above. Such language assumes that biological organisation is divided into separate domains connected by causal pathways. APS approaches the problem differently because the organisation of living systems is already integrated before any causal analysis begins.
+Hierarchical language often encourages descriptions of biological causation as bottom-up or top-down. Such language can sometimes function as shorthand, but it can also obscure the material relations through which biological effects occur.
 
-From a scale-based perspective, causation occurs within organised systems extending across multiple dimensions rather than between independent levels. Molecular processes influence physiological activity, but physiological organisation simultaneously shapes the conditions under which molecular processes occur. Behaviour alters environmental conditions, while environmental changes influence behavioural possibilities. Development reorganises physiology, while physiological organisation constrains developmental trajectories. These relationships are reciprocal because they arise within the same organised persistence.
+APS does not solve this problem by replacing directional causation between levels with “cross-scale causation” or “cross-scale coordination.” Scales do not cause, coordinate, constrain, or integrate biological activity.
 
-What appears from a hierarchical perspective as communication between levels is more accurately understood as coordination within a single system. Different scales do not exchange causal influence across ontological boundaries. Rather, processes occurring at different scales participate in maintaining the same viability-oriented organisation. The explanatory task is therefore not to identify where causation begins but to understand how coordinated activity contributes to persistence.
+Where a physiological condition alters molecular activity, explanation should identify the materially implemented conditions, interactions, or constraints through which that alteration occurs. Where behaviour changes environmental conditions that subsequently affect the organism, the relevant causal relations are the organism's activities, the altered environmental conditions, and the mechanisms through which those conditions matter to subsequent activity. Where developmental organisation changes future possibilities, explanation should identify the material organisation that produces and constrains those possibilities.
 
-This perspective also clarifies why reductionist explanations are often incomplete. Reducing a phenomenon to molecular mechanisms may reveal important details about how a process operates, but it does not explain how those mechanisms contribute to maintaining the viability of the system as a whole. Equally, explanations framed solely at organismal or ecological scales may overlook the organisational processes that make such activity possible. Biological explanation becomes more complete when processes are understood as participating in coordinated organisation across scales rather than being assigned to privileged levels.
+The spatial or temporal extent across which these relations occur may be important. But difference of extent is not itself a causal relation.
 
-Cross-scale causation is therefore better understood as cross-scale coordination. Living systems persist because activities occurring across multiple dimensions are integrated into a coherent organisation. The persistence of the system depends not upon any single process but upon the relations that connect processes across scales into a viable whole.
+This distinction also sharpens the assessment of reductionist and more extensive explanations. Molecular mechanisms may sometimes explain the target adequately. In other cases, their operation depends on organisational conditions that must also be represented. Conversely, adding organismal, ecological, developmental, or historical context does not automatically improve an explanation.
 
-## Time as a Dimension of Scale
+The relevant question is always whether the additional materially realised relations make an explanatory difference to the target.
 
-Scale is often interpreted exclusively in spatial terms, but biological organisation extends through time no less than through space. APS therefore treats time as an intrinsic dimension of scale rather than as an external parameter applied to otherwise static systems. Living systems exist because they maintain continuity through ongoing activity, making temporal organisation fundamental to biological explanation.
+## Temporal Extent and Scale
 
-The importance of temporal scale becomes evident when considering the different forms of continuity exhibited by living systems. Physiological regulation maintains viability across seconds, minutes, and hours. Development preserves continuity through growth, differentiation, and transformation across months or years. Inheritance extends continuity across generations by reproducing viable organisation in descendants. Evolution operates across longer timescales through the historical transformation of organised persistence within lineages. These phenomena differ in duration, but they address the same underlying problem: how living organisation persists through time.
+Scale includes temporal as well as spatial extent. This does not mean that time is a separate causal dimension supplied by Scale. It means that the organisation relevant to biological persistence may have to be identified over different durations.
 
-Hierarchical models frequently treat physiology, development, inheritance, and evolution as separate explanatory domains. A scale-based perspective reveals their deeper unity. Each concerns organised persistence operating across a different temporal scale. Physiological regulation maintains immediate viability, development maintains continuity through transformation, inheritance maintains continuity across generations, and evolution describes how continuity itself changes through history. What varies is not the fundamental phenomenon being explained but the temporal dimensions across which that phenomenon unfolds.
+Physiological regulation can involve processes occurring over seconds, minutes, or hours. Development involves organised transformation over longer periods. Inheritance concerns relations across reproductive sequences and generations. Evolution concerns the historical transformation of living organisation across populations and lineages.
 
-This continuity across timescales is central to the explanatory architecture of APS. The same viability-oriented organisation that sustains a living system moment by moment also underlies its development, reproduction, and evolutionary transformation. Temporal scales therefore do not represent separate biological realities. They represent different dimensions through which organised persistence is maintained and transformed.
+These phenomena should not simply be collapsed into different temporal scales of one process. They have different explananda and may require different explanatory relations. Their connection within APS lies in the question of organised persistence and transformation, not in an assumption that all of them must be integrated into every biological explanation.
 
-Understanding biological systems consequently requires attention to temporal organisation as well as spatial organisation. To explain a living system is not merely to describe its current structure but to understand how that structure persists, changes, and reproduces itself across time. Scale becomes indispensable because biological organisation always extends across multiple temporal dimensions simultaneously, linking immediate activity with developmental continuity, inherited persistence, and evolutionary change.
+Temporal extent therefore has to be established in relation to the target. A short-duration process may be explained without reconstructing developmental or evolutionary history. Other explananda may depend essentially on developmental sequence, inherited organisation, or historical transformation.
 
-## The Organism as Cross-Scale Organisation
+Scale asks which temporal extent is required. It does not make the widest temporal account the most adequate one.
 
-The organism provides the clearest example of why biological organisation cannot be understood through hierarchical levels. Traditional accounts often describe organisms as assemblies of lower-level components arranged into progressively larger structures. While this description captures certain structural relationships, it does not explain how organisms maintain themselves as coherent living systems. The persistence of an organism depends not upon the existence of a hierarchy but upon the coordination of activities extending across multiple scales simultaneously.
+## The Organism as Viability-Oriented Organisation
 
-Every aspect of organismal existence reflects this integration. Molecular processes contribute to cellular maintenance, cellular organisation supports physiological regulation, physiological regulation enables behaviour, and behavioural activity modifies the organism's relationship with its environment. These processes cannot be separated into independent domains without losing sight of the organisation that connects them. The organism persists because activities occurring across different scales contribute to maintaining the same viability-oriented organisation.
+Organisms illustrate why descriptive level and explanatory organisation should be distinguished.
 
-This perspective helps clarify why the organism occupies a central position within APS. The organism is not merely one level among many. It is the primary unit of viability-oriented organisation: the integrated system whose continued existence depends upon the coordinated maintenance of viability across scales. Molecular, cellular, physiological, behavioural, developmental, and ecological processes derive their biological significance from their participation in this ongoing organisation. Their importance lies not simply in what they are but in what they contribute to maintaining.
+An organism can be classified as one level within a conventional biological hierarchy. But that classification does not explain how the organism maintains itself. Its persistence depends on materially realised organisation: metabolic activity, cellular processes, physiological regulation, repair, behaviour, environmental relations, and other processes and constraints relevant to its continued functioning.
 
-Understanding the organism therefore requires abandoning hierarchical thinking in favour of relational integration. The explanatory task is not to move upward from molecules to organisms or downward from organisms to molecules. It is to understand how activities occurring across scales participate in sustaining the organised persistence of the living system as a whole.
+These relations need not be redescribed as activities occurring at interacting scales. What matters is how they are organised and which of them are required to explain the target under investigation.
 
-## Biological Explanation Across Scales
+APS treats the organism as a particularly important locus of viability-oriented organisation because organismal activity provides a central case in which the conditions of persistence are actively maintained and re-established. This does not make every biological explanation organism-wide, nor does it imply that all biological processes derive their significance from occupying positions within an organismal hierarchy.
 
-Replacing levels with scale has profound consequences for biological explanation. If living systems are organised through coordinated persistence across multiple scales, then explanation cannot consist merely in identifying mechanisms at a particular level or tracing causal chains between levels. Biological explanation must instead account for how organised persistence is maintained, reorganised, and transformed across space and time.
+For any particular explanandum, Scale asks how far spatially and temporally the relevant organisation must be traced. The answer may be relatively local, organism-wide, environmentally extended, developmentally extended, or historically extended depending on the dependencies that actually make an explanatory difference.
 
-This shift alters the focus of explanation. Rather than treating biological phenomena as isolated events requiring local causes, APS interprets them as aspects of larger patterns of organised persistence. The question is no longer simply how a process occurs but how that process contributes to maintaining the viability of the system within which it operates. Molecular mechanisms, physiological regulation, behavioural responses, developmental trajectories, and evolutionary transformations become intelligible through their roles within the maintenance and transformation of organised persistence.
+## Biological Explanation and Scale
 
-A scale-based framework also provides a common explanatory language for domains that are often treated separately. Physiology, development, ecology, and evolution are traditionally organised into distinct disciplines because they investigate phenomena occurring at different spatial and temporal dimensions. APS reveals that these domains are united by a shared explanatory target. Each seeks to understand how organised persistence is maintained or transformed across particular scales. Differences between fields therefore reflect differences in explanatory focus rather than differences in the fundamental nature of biological reality.
+The distinction between levels and Scale changes how explanatory scope should be assessed.
 
-This perspective strengthens the integration of biological knowledge. Physiological regulation, developmental continuity, ecological interaction, and evolutionary change are not disconnected subjects requiring separate explanatory principles. They are interconnected manifestations of the same organised persistence viewed across different scales. Biological explanation becomes increasingly unified as these relationships are made explicit.
+A level label tells us something about how a phenomenon has been partitioned for investigation. Scale asks a different question: across what spatial and temporal extent must the relevant organisation be identified to explain the target?
 
-The result is an explanatory framework capable of accommodating both detail and integration. Mechanistic investigations remain essential because organised persistence depends upon specific organisational processes. At the same time, those processes acquire biological significance only when understood within the broader organisation they help sustain. Explanation therefore moves beyond the search for privileged levels and toward the analysis of coordinated organisation across scales.
+The resulting explanatory sequence is:
 
-## Levels Replaced, Not Rejected
+**Biological explanandum → materially relevant organisation → required spatial and temporal extent**
 
-APS does not deny that level-based descriptions can be useful. Scientific inquiry often requires simplifying complex systems, and hierarchical language frequently provides a practical means of organising observations and research programmes. References to molecular, cellular, organismal, or ecological levels can therefore serve valuable descriptive and pedagogical purposes.
+Neither question can be answered adequately by assuming in advance that biological explanation should be molecular, organismal, ecological, or multiscale. The required explanatory extent is target-sensitive.
 
-The problem arises when these descriptive conveniences are mistaken for the underlying structure of biological reality. Levels are abstractions constructed to aid investigation. They do not correspond to discrete ontological domains separated from one another within living systems. Biological organisation remains continuous even when scientific analysis temporarily divides it into categories.
+Mechanistic investigations remain indispensable where mechanisms explain the relevant organisation. Physiological, developmental, ecological, and evolutionary investigations likewise address relations that may be required for their respective explananda. APS does not unify these domains by declaring them manifestations of a universally multiscale organisation. It provides a comparative explanatory question that can be asked across them: what organisation must be represented, and across what extent, for the explanation to account for the target?
 
-From the perspective of APS, what are commonly called levels are better understood as coarse descriptions of processes occurring at different scales. They identify regions of explanatory focus rather than independent layers of reality. Molecular biology concentrates on processes occurring at particular spatial dimensions, while physiology, development, ecology, and evolution investigate organisation across others. The distinctions remain useful, but their significance changes. They become ways of studying organised persistence rather than evidence for a hierarchical structure of life.
+This also places a constraint on claims of explanatory gain. Adding a wider spatial context, a longer temporal history, or further organisational relations does not by itself make an explanation better.
 
-Levels are therefore reinterpreted rather than rejected. They remain valuable tools for classification, communication, and practical investigation. What they cannot provide is a fundamental explanatory framework for understanding biological organisation. That role belongs to scale because scale captures the relations through which living systems maintain continuity across space and time.
+**A more spatially or temporally extensive explanation is warranted only when those additional relations make an explanatory difference to the target.**
+
+Scale therefore provides no presumption in favour of maximal explanatory breadth. Its role is diagnostic: to clarify the extent required by the explanandum.
+
+## Levels and Scale Answer Different Questions
+
+APS does not replace levels with Scale.
+
+Level descriptions can remain useful for classification, communication, experimental practice, and the organisation of scientific disciplines. Molecular, cellular, physiological, organismal, ecological, and evolutionary descriptions may identify legitimate domains of investigation.
+
+Scale is not another way of naming those domains. Calling one process molecular and another ecological does not by itself establish two APS scales, and moving between disciplinary domains does not automatically constitute Scale analysis.
+
+Scale becomes relevant when explanation asks where the persistence pertinent to the target is organised across spatial and temporal extents. Sometimes that question may track familiar level distinctions. Sometimes it may cut across them. Sometimes a conventional level description may already delimit the relevant organisation adequately.
+
+The distinction is therefore methodological rather than competitive. Levels provide useful representations and partitions. Scale identifies explanatory extent.
+
+Treating them as different questions avoids two opposite errors: reifying descriptive levels as independent layers of biological reality, and replacing them with an equally reified picture of interacting scales.
 
 ## Scale Reframed
 
-The contrast between levels and scale ultimately reflects two different conceptions of biological organisation. Hierarchical thinking begins by dividing living systems into separate domains and then attempts to explain how those domains interact. A scale-based perspective begins with the continuity of organised persistence and asks how that continuity is maintained across different spatial and temporal dimensions.
+The mature APS conception of Scale begins with living organisation rather than with a predetermined hierarchy of biological domains.
 
-This shift transforms the explanatory geometry of biology. Organisation is no longer understood as a stack of independent layers but as a continuously coordinated process extending across scales. Molecular activity, cellular organisation, physiology, behaviour, development, ecology, inheritance, and evolution become interconnected dimensions of the same persistence rather than separate levels requiring integration after the fact.
+Living organisation is materially realised. Its processes, constraints, boundaries, interactions, and dependencies occupy space and unfold through time. Biological explanation must determine which of those relations are relevant to the explanandum.
 
-Scale is therefore not merely a replacement for hierarchy. It is a different way of understanding biological reality. Living systems persist because activities occurring across multiple scales contribute to maintaining viability, and biological explanation succeeds to the extent that it reveals how those contributions are organised. The continuity of life becomes visible not through hierarchical classification but through the relations that connect processes across space and time.
+Scale is the analytic projection through which APS asks where that relevant persistence is organised across spatial and temporal extents.
 
-Seen in this way, scale is not an alternative vocabulary imposed upon biology. It is a consequence of recognising what biology actually explains. Organised persistence cannot be confined to a particular level because it extends across the full organisation of the living system. Understanding life therefore requires tracing the spatial and temporal dimensions through which viability is maintained, continuity is preserved, and organisation is transformed.
+This conception neither denies the usefulness of levels nor treats Scale as a deeper biological structure. It also does not imply that biological organisation is always multiscale, that agency is necessarily multiscale, or that explanations become better as their spatial and temporal scope increases.
 
-**Key Point.** Biological organisation is not hierarchical but organised across scales. Living systems persist through the coordinated integration of processes extending across multiple spatial and temporal dimensions, and biological explanation consists in understanding how this organised persistence is maintained and transformed through time.
+Instead, Scale imposes a discipline on explanatory scope. It requires the extent of an explanation to be justified by the organisation relevant to the target.
+
+Biological organisation therefore need not be understood as a hierarchy merely because hierarchical representations are useful. Nor need it be redescribed as a system of interacting scales. What matters is the materially realised organisation through which living systems persist, and the spatial and temporal extent across which that organisation must be identified for the particular explanatory task.
+
+**Key Point.** Hierarchical levels can be useful ways of representing and investigating biological phenomena, but they should not automatically be treated as the causal or ontological organisation of living systems. APS does not replace levels with interacting scales. Scale is the analytic projection concerned with where persistence is organised across spatial and temporal extents, and the extent required for explanation must be established from the materially realised organisation relevant to the explanandum.
+
+## Explanatory Architecture
+
+### Central Question
+
+What is the relationship between biological levels and Scale, and what does each contribute to biological explanation?
+
+### Architectural Role
+
+This article clarifies the distinction between hierarchical level descriptions and Scale within APS. It explains why useful descriptive or investigative partitions should not automatically be treated as the causal or ontological organisation of living systems, while establishing Scale as the analytic projection concerned with where persistence is organised across spatial and temporal extents.
+
+### Builds On
+
+- Biological Organisation
+- Organised Persistence
+- Scale
+- Process
+- Biological Agency
+
+### Develops Into
+
+- Why APS Is Not Hierarchical
+- Scale, Time, and Persistence
+- Biological Explanation
+- Reductionism in Biology
+- Evolutionary Explanation
+- Ecological Explanation
+
+### Related Explanatory Questions
+
+- When are hierarchical levels useful in biological explanation?
+- When does a descriptive level become mistaken for biological organisation itself?
+- How does Scale differ from a biological level or domain?
+- What determines the spatial and temporal extent required for an explanation?
+- When do relations extending beyond a local boundary make an explanatory difference?
+- Why is a wider or more multiscale explanation not automatically a better explanation?
+
+### Position within APS
+
+This is a Clarification article within the Conceptual Foundations cluster. It distinguishes two forms of explanatory organisation that can otherwise be conflated: the use of levels as descriptive or investigative partitions and the use of Scale as an analytic projection within APS. It therefore protects the APS architecture from treating Scale as either a hierarchy of biological domains or a replacement ontology of interacting scales.
+
+### Corpus Significance
+
+This article provides a principal clarification of the Scale projection within the APS corpus. It establishes that APS does not replace biological levels with interacting scales, while preserving the legitimate descriptive and investigative uses of level-based representations. Together with the canonical Scale glossary and *Scale, Time, and Persistence*, it establishes the methodological basis for determining explanatory extent across later discussions of agency, causation, reductionism, evolution, ecology, and comparative biological explanation.

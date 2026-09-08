@@ -28,7 +28,6 @@ relatedGlossaryTerms:
   - mechanism
   - process
   - scale
-  - scale-coupling
   - constraint-closure
   - explanatory-grammar
   - reductionism

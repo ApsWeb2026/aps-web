@@ -22,17 +22,14 @@ relatedArticles:
   - space-time-and-organisation-in-biology
 ---
 
-In physics, spacetime typically functions as the general framework within which processes are described, even when its geometry is understood as dynamical. From this standpoint, organisation is analysed as something that unfolds within spatial and temporal coordinates.
+Biological organisation is materially realised in space and time. Spatial relations such as position, configuration, boundary, orientation, and interaction, and temporal relations such as sequence, duration, recurrence, and historical dependence, can therefore be relevant to how living organisation is constituted and maintained.
 
-APS adopts a different explanatory stance. It begins not with spacetime as the primary structure, but with viability-oriented organisation. On this view, spatial and temporal relations are not independent explanatory primitives. They are dimensions through which organisation is expressed, stabilised, and coordinated. Spatiotemporal descriptions arise from the organisational logic of the system, rather than the other way around.
+APS begins biological explanation with viability-oriented organisation. This does not make space and time products of organisation, nor does it treat them as secondary to biological activity. Rather, it means that the spatial and temporal relations relevant to a biological explanation must be identified in relation to the explanandum and the materially realised dependencies that make a difference to it.
 
-This entails a reversal of explanatory priority:
+A spatial configuration may be constitutive of a biological process, while a temporal relation may be necessary for explaining its maintenance, development, repair, or transformation. Their biological relevance cannot therefore be determined from physical magnitude or duration alone.
 
-- **Physics:** organisation is described within spacetime  
-- **APS:** spatiotemporal relations are specified relative to organisation  
+This is where **Scale** enters APS. Scale is the analytic projection concerned with where persistence is organised across spatial and temporal extents. It does not designate a hierarchy of levels, and biological organisation is not assumed to be inherently multiscale. The extent required for an explanation depends on the target: a relatively local spatial or temporal description may sometimes be sufficient, whereas other explananda may require materially realised relations extending across wider spatial or temporal extents.
 
-This reversal is inseparable from scale. Biological organisation is inherently scale-dependent: the spatial and temporal relations that matter are those that contribute to the persistence of the system at a given level of organisation. What counts as a relevant spatial configuration or temporal process is therefore defined relative to the system’s organisational dynamics, not fixed in advance.
+Accordingly, APS distinguishes the material organisation of biological processes in space and time from the explanatory role of Scale. Spatial and temporal relations may be constitutive of living organisation; Scale identifies the extents across which that organisation must be considered to explain the persistence relevant to a particular target.
 
-Accordingly, space and time do not function as a neutral backdrop for biological explanation. Their explanatory significance is specified by the constraints, coordination, and viability conditions of the system.
-
-This does not contradict physical accounts of spacetime. It clarifies that in biology, spatiotemporal structure derives its explanatory role from the organisation of living activity, rather than from an independently given framework.
+This does not conflict with physical accounts of spacetime. It specifies a methodological requirement for biological explanation: the explanatory relevance of spatial and temporal relations must be established from the organisation and dependencies relevant to the biological explanandum rather than inferred from physical extent alone.

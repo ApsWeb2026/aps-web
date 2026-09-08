@@ -22,7 +22,6 @@ seeAlso:
   - persistence
   - viability
   - viability-orientation
-  - scale-coupling
   - temporal-organisation
   - hierarchy
   - resolution

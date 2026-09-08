@@ -41,7 +41,6 @@ relatedGlossaryTerms:
   - niche
   - ecosystem
   - scale
-  - scale-coupling
   - resilience
 
 relatedArticles:

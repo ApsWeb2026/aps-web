@@ -32,7 +32,6 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
-  - scale-coupling
   - constraint-closure
   - normativity
   - semiosis

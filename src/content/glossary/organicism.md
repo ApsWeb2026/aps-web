@@ -32,7 +32,6 @@ relatedGlossaryTerms:
   - process
   - normativity
   - scale
-  - scale-coupling
 
 relatedArticles:
   - why-aps-is-not-organicism

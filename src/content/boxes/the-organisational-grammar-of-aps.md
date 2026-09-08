@@ -14,7 +14,6 @@ seeAlso:
   - constraint-closure
   - coupling
   - organisational-coupling
-  - scale-coupling
   - biological-agency
   - semiosis
   - resolution

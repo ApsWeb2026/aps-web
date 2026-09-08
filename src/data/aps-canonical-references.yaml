@@ -4572,3 +4572,37 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-09-08
+- id: wimsatt-1974-reductive-explanation
+  type: journal-article
+  authors: Wimsatt, W. C.
+  year: 1974
+  title: 'Reductive Explanation: A Functional Account'
+  journal: 'PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association'
+  volume: '1974'
+  pages: 671–710
+  doi: 10.1086/psaprocbienmeetp.1974.495833
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-08
+- id: eldredge-1985-unfinished-synthesis
+  type: book
+  authors: Eldredge, N.
+  year: 1985
+  title: 'Unfinished Synthesis: Biological Hierarchies and Modern Evolutionary Thought'
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-08
+- id: salthe-1985-evolving-hierarchical-systems
+  type: book
+  authors: Salthe, S. N.
+  year: 1985
+  title: 'Evolving Hierarchical Systems: Their Structure and Representation'
+  publisher: Columbia University Press
+  doi: 10.7312/salt91068
+  verification:
+    status: verified
+    authority: Columbia University Press
+    verifiedDate: 2026-09-08

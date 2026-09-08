@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-09-06
+revised: 2026-09-08
 
 cluster: conceptual-foundations
 role: core
@@ -257,41 +257,46 @@ Life is not merely organised persistence.
 Life is viability-oriented, constraint-closed organisation enacted through the continuing activity of biological agency.
 
 ## Explanatory Architecture
+
 ### Central Question
 
-What is biological agency, and why is it fundamental to understanding living systems?
+What is biological agency, and how does viability-oriented organisational activity sustain the conditions of living persistence?
 
 ### Architectural Role
 
-This article establishes biological agency as the continuing viability-oriented organisational activity through which living systems maintain and re-establish the conditions of their own persistence. It provides the conceptual foundation for understanding agency as the defining activity of life and explains how agency relates to organised persistence, Scale, function, normativity, and constraint-closure within the APS framework.
+This article establishes biological agency as the present-tense activity through which viability-oriented, constraint-closed organisation is enacted and sustained. It distinguishes Agency from behaviour, cognition, intention, and any particular mechanism or biological domain, while locating it as one analytic projection of living organisation within APS.
 
 ### Builds On
-- What Is Life?
+
+- Life
+- Biological Organisation
+- Viability
+- Constraint Closure
 - Organised Persistence
-- Process
-- Scale
-- Constraint-Closure
 
 ### Develops Into
+
 - Biological Evaluation
-- Biological Significance
+- Function
+- Process
+- Scale
 - Cognition
-- Mind
-- Selfhood
-- Reflective Agency
-- Meaning
+- Biological Explanation
 
 ### Related Explanatory Questions
-- What distinguishes living activity from physical persistence?
-- Why is agency fundamental to biological explanation?
-- How does agency maintain organised persistence?
-- How do function and normativity arise from biological organisation?
-- How does biological agency provide the foundation for cognition?
+
+- What distinguishes biological agency from behaviour, cognition, and intentional action?
+- How is agency realised through self-maintenance?
+- How does viability provide the reference condition for biological agency?
+- What is the relationship between agency and organised persistence?
+- How do function and biological normativity arise within viability-oriented organisation?
+- How does constraint closure sustain the organisation through which agency is enacted?
+- Across what spatial and temporal extents must the organisation relevant to agency be identified?
 
 ### Position within APS
 
-This is an Anchor article within the Conceptual Foundations cluster. It establishes the canonical APS understanding of biological agency and provides one of the principal conceptual foundations from which the remainder of the Agency–Process–Scale framework develops.
+This is a Core article within the Conceptual Foundations cluster. It establishes Agency as the analytic projection concerned with what living systems do: biological agency is viability-oriented organisational activity. Agency is not an independent component or cause alongside Process and Scale. Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation.
 
 ### Corpus Significance
 
-Together with What Is Life? and Organised Persistence, this article forms one of the principal conceptual foundations of the APS corpus. It establishes agency as the defining activity of life and provides the organisational basis through which subsequent articles on biological evaluation, cognition, function, development, evolution, ecology, and biological explanation are integrated into a coherent comparative explanatory methodology.
+This article provides the principal APS exposition of biological agency as the activity of self-maintenance. It connects the canonical definition of life with viability, organised persistence, function, normativity, constraint closure, Process, and Scale, while establishing the conceptual basis from which later APS treatments of biological evaluation, cognition, development, ecology, evolution, and biological explanation proceed.

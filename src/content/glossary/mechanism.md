@@ -32,7 +32,6 @@ relatedGlossaryTerms:
   - function
   - normativity
   - scale
-  - scale-coupling
   - adaptation
   - reductionism
 

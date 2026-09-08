@@ -35,7 +35,6 @@ seeAlso:
   - counterfactual-depth
   - cognitive-integration
   - organisational-coupling
-  - scale-coupling
   - function
   - umwelt
   - process

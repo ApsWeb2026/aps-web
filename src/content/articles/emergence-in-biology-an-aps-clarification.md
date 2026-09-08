@@ -43,7 +43,6 @@ relatedGlossaryTerms:
   - continuity
   - process
   - scale
-  - scale-coupling
   - biological-agency
   - constraint
   - constraint-closure

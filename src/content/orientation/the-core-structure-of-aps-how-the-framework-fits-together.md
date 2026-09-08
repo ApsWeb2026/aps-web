@@ -44,7 +44,6 @@ relatedGlossaryTerms:
   - biological-agency
   - process
   - scale
-  - scale-coupling
   - adaptation
   - development
   - repair
