@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-07
+revised: 2026-09-08
 cluster: conceptual-foundations
 role: core
 abstract: >
@@ -73,6 +73,14 @@ references:
     year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
+  - id: ramirez-tagle-2026-formalizing-autopoiesis
+    authors: "Ramírez-Tagle, R."
+    year: 2026
+    title: "Formalizing autopoiesis: Toward a Categorical-Thermodynamic Calculus of Closure"
+    journal: "BioSystems"
+    volume: "268"
+    articleNumber: "105918"
+    doi: "10.1016/j.biosystems.2026.105918"
 ---
 
 # Constraint Closure — What It Does and What It Does Not Do
@@ -211,7 +219,7 @@ The distinction is important because concepts such as:
 
 can apply, in different senses, beyond living systems.
 
-Closure therefore cannot serve as an unrestricted criterion from which biological status is inferred solely from the presence of reciprocal organisational dependence.
+Closure therefore cannot serve as an unrestricted criterion from which biological status is inferred solely from the presence of reciprocal organisational dependence. Recent attempts to formalise autopoietic closure reinforce the importance of distinguishing an organisational relation from its formal representation. Ramírez-Tagle (2026), for example, proposes a categorical–thermodynamic calculus of closure while explicitly presenting it as a programmatic formalisation rather than a completed theory of living organisation.
 
 APS does not resolve this problem by dividing reality into a generic closure structure and a second viability component that converts that structure into life.
 
@@ -375,8 +383,6 @@ This Core article establishes the **explanatory role and limits of constraint cl
 It treats constraint closure as an indispensable organisational relation within living systems while rejecting the interpretation that closure alone constitutes a complete explanation of life, biological agency, normativity, viability orientation, or organised persistence.
 
 Within APS, life is **viability-oriented, constraint-closed organisation**. Constraint closure therefore does not constitute an independent structural component to which viability, agency, Process, or Scale are subsequently added. It identifies relations of mutual dependence within the living organisation whose persistence is being explained.
-
-The article does not claim that APS replaces or completes established organisational or autonomy-based accounts of constraint closure. Where different approaches address the same explanatory target, any additional explanatory contribution requires target-matched comparison.
 
 ### Preceding Explanatory Dependencies
 

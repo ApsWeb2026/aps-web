@@ -3,15 +3,19 @@ date: 2026-04-09
 title: "Scale — How Life Is Coordinated Across Space and Time"
 slug: "scale-how-life-is-coordinated-across-space-and-time"
 type: article
-abstract: "This article explains scale in APS as the spatial and temporal coordination of biological organisation, showing how living systems integrate processes across multiple interacting domains."
+abstract: "This article explains Scale in APS as the analytic projection concerned with where persistence is organised across spatial and temporal extents. It distinguishes Scale from physical size, explanatory hierarchy, and materially realised spatial structure while showing why biological explanation must identify the extents across which living organisation is maintained."
 status: canonical
-revised: 2026-04-21
+revised: 2026-09-08
 cluster: conceptual-foundations
 role: core
+
 keyPoints:
-  - "Scale refers to the spatial and temporal coordination of biological organisation."
-  - "Living systems operate across multiple interacting scales simultaneously."
-  - "APS treats scale as inseparable from biological agency and process in explaining life."
+  - "Scale is the APS analytic projection concerned with where persistence is organised across spatial and temporal extents."
+  - "Scale is not physical size, an explanatory level, or an independently acting causal domain."
+  - "Material spatial structure can be constitutive of biological organisation without being identical to Scale as an APS explanatory projection."
+  - "Biological organisation is materially realised across spatial and temporal extents, and explanatory claims must be warranted at the extents to which they apply."
+  - "Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation rather than independent causes, levels, or components."
+
 relatedGlossaryTerms:
   - scale
   - process
@@ -19,122 +23,347 @@ relatedGlossaryTerms:
   - persistence
   - constraint-closure
   - biological-explanation
+
 relatedArticles:
-- description-explanation.and-definition-in-biology
-researchStreams: []
-references: []
+  - description-explanation-and-definition-in-biology
+
+references:
+  - id: hermida-ladyman-2026-spatial-structure-biology
+    authors: "Hermida, M.; Ladyman, J. A. C."
+    year: 2026
+    title: "The Importance of Spatial Structure in Biology"
+    journal: "European Journal for Philosophy of Science"
+    volume: "16"
+    issue: "3"
+    articleNumber: "59"
+    doi: "10.1007/s13194-026-00760-x"
 ---
+
+## Scale — How Life Is Coordinated Across Space and Time
+
+> **Where this article fits:** This Core article establishes the meaning and explanatory role of Scale within APS. Scale asks where persistence is organised across spatial and temporal extents. It does not introduce an additional biological mechanism, causal level, or component of living organisation. Material spatial relations can themselves contribute constitutively to biological organisation; Scale identifies the explanatory perspective from which the spatial and temporal extent of that organisation becomes the target of analysis.
 
 ## Introduction
 
-Biological systems extend across space and time. Molecules interact within cells, cells form tissues, organisms interact with environments, and ecological systems transform across generations.
+Biological organisation is materially realised across space and time.
 
-These patterns are often described in terms of levels or hierarchies. Biology is frequently organised into layers—cells, organisms, populations—each treated as a distinct level of explanation.
+Molecules interact within cells. Cellular structures occupy particular positions and orientations. Cells form tissues whose organisation depends upon boundaries, geometries, local environments, and material relations. Organisms maintain their activity through processes distributed across different spatial extents and temporal durations.
 
-The APS framework takes a different approach. Rather than treating organisation as hierarchical, it understands it as distributed across interacting scales.
+Biology often describes such differences using terms such as level, hierarchy, size, resolution, or scale.
 
-Scale, in this sense, is not about size alone. It is about how activity is coordinated across space and time in ways that sustain living organisation.
+These descriptions can be useful. But they do not by themselves explain how living organisation persists.
 
-Scale in APS is the spatial–temporal organisation through which viability-oriented, constraint-closed activity is coordinated across domains.
+APS uses **Scale** in a more specific explanatory sense.
+
+**Scale is the analytic projection concerned with where persistence is organised across spatial and temporal extents.**
+
+Scale therefore does not designate a separate entity or causal domain within a living system. Nor is it simply another name for spatial structure.
+
+The explanatory object remains one viability-oriented, constraint-closed organisation. Scale makes explicit the spatial and temporal extents across which the organisation relevant to a particular biological explanandum is materially realised and maintained.
 
 ## Scale Beyond Levels
 
-In conventional biology, scale is often treated as a matter of size, resolution, or level. Systems are described as being composed of nested layers, with causation flowing between them.
+Biology frequently organises phenomena into familiar domains such as molecular, cellular, tissue, organismal, population, ecological, and evolutionary.
 
-This approach is useful, but it introduces a simplifying assumption: that one domain can be treated as more fundamental than others.
+Nothing in APS requires abandoning those descriptions.
 
-Living systems do not conform to this model. Processes at different scales are not independent layers but interacting domains of activity that continuously influence one another.
+The difficulty arises when descriptive divisions are treated as though they were independently acting causal levels, or when assigning a phenomenon to a level is taken to explain it.
 
-Scale in APS therefore replaces level-based hierarchy with a processual account of coordination.
+A molecule does not act because it belongs to a molecular level.
+
+A cell does not regulate because it occupies a cellular level.
+
+An organism does not persist because organismal organisation occupies a higher position in a hierarchy.
+
+The relevant causal interactions are materially realised interactions among processes, structures, constraints, and environmental conditions.
+
+These relations can extend across spatial and temporal extents that do not correspond neatly to a single conventional level.
+
+APS therefore does not replace one hierarchy with another hierarchy called Scale.
+
+Instead, Scale asks:
+
+**Across what spatial and temporal extents is the organisation relevant to this explanandum actually realised?**
+
+This shifts explanatory attention from a presumed ordering of levels toward the organisation that must be identified in the biological case itself.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/conceptual-hierarchy.png"
-      alt="From hierarchical levels to cross-scale organisation"
-      loading="lazy"
-    />
-  </a>
 
-  <p class="aps-diagram-caption">
-    <strong>From Hierarchical Levels to Cross-Scale Organisation.</strong>
-    Traditional biology often represents living systems as hierarchical levels extending from molecules to ecosystems. APS replaces this framework with a scale-based view in which organised persistence is maintained through coordinated activity extending across multiple spatial and temporal scales simultaneously. Molecular, cellular, physiological, behavioural, developmental, ecological, and evolutionary processes are not independent levels but interconnected dimensions of the same viability-oriented organisation.
-  </p>
+<a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+
+  <img
+    src="/assets/diagrams/conceptual-hierarchy.png"
+    alt="From hierarchical levels to an APS Scale analysis concerned with where persistence is organised across spatial and temporal extents"
+    loading="lazy"
+  />
+
+</a>
+
+<p class="aps-diagram-caption">
+
+<strong>From Hierarchical Levels to Scale Analysis.</strong>
+
+Conventional level descriptions can distinguish molecular, cellular, organismal, ecological, and evolutionary domains, but these labels do not themselves identify causal organisation. APS Scale asks where the organisation relevant to a biological explanandum is materially realised across spatial and temporal extents. Scale is therefore an analytic projection of organised persistence rather than an additional causal layer.
+
+</p>
+
 </div>
 
-## Scale as Spatial–Temporal Organisation
+## Scale as an Analytic Projection
 
-The APS framework defines scale as the spatial and temporal organisation of activity within which viability-oriented organisation is coordinated.
+Scale does not itself organise biological activity.
 
-Scale describes how activity is distributed and integrated across domains. It identifies the extent over which activity is organised and sustained.
+Living systems do.
 
-Importantly, scale is not merely descriptive. It is constitutive of persistence.
+Their organisation is materially realised through processes, structures, boundaries, constraints, interactions, and environmental relations extending through space and time.
 
-Living systems do not persist because their components are simply aggregated. They persist because activity is coordinated across spatial and temporal domains in ways that sustain organisation.
+Scale identifies the explanatory perspective from which the extent of that organisation is investigated.
 
-In APS, this dimension is not explanatory in isolation but functions within a structured system of relations [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/).
+This distinction matters because statements such as “Scale coordinates activity” or “causation operates between scales” can inadvertently turn an analytic distinction into a causal entity.
 
-## Coordination Across Scales
+APS instead asks what materially implemented relations alter the conditions under which local activity occurs, how those relations are maintained, and across what spatial and temporal extents the resulting organisation must be analysed.
 
-Processes at different scales are analytically distinguishable but co-constitutive. Molecular dynamics influence cellular activity, cellular processes shape organismal behaviour, and organismal activity modifies ecological conditions.
+A physiological process, for example, may depend upon molecular reactions, cellular organisation, tissue architecture, vascular relations, neural regulation, and organism–environment interaction.
 
-These interactions are reciprocal. Activity at one scale both enables and constrains activity at others.
+The explanatory task is not completed by saying that these processes occur at different scales.
 
-Persistence depends on this coordination. When cross-scale relations are maintained, organisation endures. When they break down, organisation dissipates.
+It requires identifying the organisation through which those materially realised relations contribute to continued functioning.
 
-Scale therefore identifies the domain of coordination within which viable organisation is sustained.
+Scale tells us **where that organisation must be sought and delimited**.
 
-This coordination is also causal. In APS, biological causation operates through the viability-oriented modulation of constraints across interacting scales. Processes at different scales do not simply influence one another; they participate in the ongoing organisation of conditions that sustain persistence. (See: [Biological Causation — From Mechanism to Organised Persistence](/articles/biological-causation-from-mechanism-to-organised-persistence/))
+## Spatial Structure and Scale
+
+The distinction between **spatial structure** and **Scale** is especially important.
+
+Hermida and Ladyman (2026) argue that biological organisation often consists in, or depends upon, spatial structure together with physical interactions among the parts of biological systems. Spatial features such as position, configuration, shape, directionality, orientation, boundaries, and location can therefore matter directly to biological organisation.
+
+APS does not redescribe these material spatial relations as Scale.
+
+A membrane boundary, the orientation of a cellular structure, the position of a signalling component, or the geometry of a tissue can contribute materially to what a biological system does.
+
+Those relations belong to the organisation being explained.
+
+**Scale is the analytic projection under which we ask where that organisation is realised across spatial and temporal extents.**
+
+The distinction can therefore be stated simply:
+
+**Spatial organisation concerns materially realised biological relations. Scale concerns the explanatory identification of the extents across which organised persistence is realised.**
+
+The two are closely related, but they are not interchangeable.
+
+Recognising the constitutive importance of spatial structure also does not require APS to make a general claim against physical or part–whole explanation. Hermida and Ladyman explicitly distinguish their criticism of genetic and molecular reductionism from physical and suitably spatially informed part–whole explanation.
+
+APS is compatible with that methodological caution.
+
+Its concern is not to establish Scale as a rival to physical, mechanistic, spatial, or compositional explanation. It is to clarify what must be specified when the organisation relevant to persistence extends beyond the boundaries assumed by a more local description.
+
+## Coordination Across Spatial and Temporal Extents
+
+Living organisation often depends upon relations realised across more than one spatial or temporal extent.
+
+Molecular processes operate within cellular structures.
+
+Cellular activity occurs within tissue organisation.
+
+Physiological regulation depends upon materially realised relations distributed through an organism.
+
+Organismal activity modifies and is modified by environmental conditions.
+
+These statements do not require scales themselves to interact.
+
+The causal work is performed by the materially realised processes and constraints.
+
+A wider organisational arrangement can alter local conditions because that arrangement is implemented through material relations that constrain the possibilities available to local activity. Conversely, local processes can modify the material organisation within which other processes occur.
+
+APS therefore avoids treating cross-scale influence as causation exercised by one level over another.
+
+The explanatory question is instead:
+
+**Which materially realised relations connect the relevant activities, and across what spatial and temporal extents must those relations be followed to explain continued organisation?**
+
+Persistence may depend upon such distributed coordination.
+
+But the coordination belongs to the living organisation.
+
+Scale identifies where that organisation is distributed.
 
 ## Homeorhesis and Organised Persistence
 
-Organisation is not maintained as a fixed state. It is maintained as a trajectory.
+Living organisation is not maintained by preserving an unchanged state.
 
-This mode of persistence is described as homeorhesis: the continuous reorganisation of activity that sustains viability through change.
+Material components turn over.
 
-Scale provides the spatial and temporal continuity within which such trajectories can be maintained. It allows systems to endure, recover, and reorganise rather than collapse.
+Structures change.
 
-Understanding scale therefore requires understanding how organisation is stabilised through ongoing transformation.
+Development alters form.
+
+Environmental conditions vary.
+
+Regulatory relations are repeatedly maintained, modified, and re-established.
+
+Homeorhesis can describe this persistence through an organised trajectory rather than through static constancy.
+
+Scale does not provide the continuity of such a trajectory.
+
+Rather, Scale asks across what spatial and temporal extents the materially realised organisation underlying that continuity must be tracked.
+
+A trajectory may therefore require explanation over seconds or years, within a cell or across an organism, depending upon the explanandum.
+
+What persists is the organisation.
+
+Scale identifies the extent over which that persistence is organised.
 
 ## Scale and the APS Triad
 
-In APS, scale is one of three analytically distinguishable but ontologically co-constitutive dimensions of living organisation:
+Scale is one of three analytic projections through which APS organises biological explanation.
 
-- **Agency** expresses viability-oriented regulation  
-- **Process** enacts organisation through time  
-- **Scale** reflects coordination across spatial and temporal domains  
+- **Agency** concerns what living systems do.
+- **Process** concerns how continuity is maintained despite change.
+- **Scale** concerns where persistence is organised across spatial and temporal extents.
 
-None of these dimensions is prior to the others. Each is an analytic projection of a single viability-oriented, constraint-closed organisation.
+These are **analytic projections rather than components of reality**.
 
-Scale makes visible how activity is distributed and integrated, allowing persistence to be understood as a coordinated phenomenon rather than a local property.
+They are not three independent mechanisms.
+
+They are not three stages through which living systems pass.
+
+They are not biological levels.
+
+And persistence does not arise from their interaction.
+
+The explanatory object is one viability-oriented, constraint-closed organisation.
+
+Agency makes its activity explicit.
+
+Process makes its continuity through change explicit.
+
+Scale makes the spatial and temporal extent of its organised persistence explicit.
+
+The three projections can therefore place different explanatory questions before the same biological case without dividing the living organisation into separate ontological dimensions.
 
 ## Scale-Indexed Organisation
 
-Biological properties are not automatically transferable across scales.
+Biological properties cannot automatically be transferred from one spatial or temporal extent to another.
 
-Concepts such as biological agency, cognition, or semiosis cannot be assumed to apply uniformly across all domains. Their attribution depends on the presence of integrated, normatively organised activity at a given scale.
+Evidence that a local process contributes to regulation does not establish that a larger aggregate is itself an agent.
 
-Scale therefore constrains explanation. It requires that biological claims be warranted at the scale at which organisation is realised.
+Evidence that components exchange information does not establish cognition at every encompassing domain.
 
-This prevents the uncritical projection of concepts from one domain to another and ensures that explanation remains grounded in actual organisation.
+Nor does the persistence of an ecological or evolutionary pattern automatically establish that the ecological system, species, or lineage possesses the same organisational properties as a living organism.
+
+Scale therefore performs an important discriminatory role in explanation.
+
+Claims must be warranted for the organisation to which they are attributed and for the spatial and temporal extent over which that organisation is materially realised.
+
+This is particularly important for concepts such as:
+
+- biological agency
+- normativity
+- cognition
+- semiosis
+- individuality
+- and organised persistence
+
+Similarity across domains can justify comparison.
+
+It does not by itself establish identity of biological organisation.
+
+Scale analysis therefore helps prevent the uncritical projection of explanatory concepts from one domain or extent to another.
 
 ## Why Scale Matters
 
-Clarifying scale helps resolve several central issues in biology:
+Scale matters because biological explananda frequently depend upon organisation whose relevant boundaries cannot be assumed in advance.
 
-- why hierarchical “levels of organisation” are insufficient  
-- how causation operates across interacting domains  
-- how persistence is maintained through coordination  
-- why biological properties must be scale-specific  
+A local mechanism may be sufficient for one question.
 
-By replacing levels with scale, APS provides a framework capable of representing the distributed organisation of living systems.
+Another question may require relations extending across cells, tissues, an organism, or organism–environment coupling.
+
+Still others concern developmental, ecological, or evolutionary phenomena whose spatial and temporal extents differ from those of organismal self-maintenance.
+
+APS does not assume that every biological explanation must encompass the widest available extent.
+
+Nor does it presume that a broader description is intrinsically more explanatory than a local one.
+
+The relevant extent is determined by the explanandum and by the materially realised dependencies required to explain it.
+
+Scale therefore helps clarify:
+
+- why conventional level labels do not by themselves supply explanations;
+- where the organisation relevant to an explanandum is materially realised;
+- when a more local or more extended explanatory domain is required;
+- how spatial and temporal organisation contribute to biological persistence;
+- and why biological properties must be attributed only where the relevant organisation is established.
+
+Scale is therefore **target-sensitive**.
+
+More Scale is not more explanation.
+
+The relevant Scale is the spatial and temporal extent required by the explanatory target.
+
+## Explanatory Architecture
+
+### Central Question
+
+**Where is the organisation relevant to biological persistence realised across spatial and temporal extents, and what explanatory difference does identifying those extents make?**
+
+### Architectural Role
+
+This Core article establishes the APS meaning of **Scale**.
+
+Scale is the analytic projection concerned with **where persistence is organised across spatial and temporal extents**.
+
+It does not constitute a biological mechanism, causal level, spatial structure, or independent organisational dimension.
+
+The material organisation identified under a Scale analysis may include boundaries, configurations, spatial relations, constraints, interactions, trajectories, and environmental couplings. Those relations belong to the biological system or explanandum under investigation.
+
+Scale identifies their relevant explanatory extent.
+
+### Spatial-Organisation Comparator
+
+Hermida and Ladyman (2026) provide an important contemporary comparator because they defend the constitutive explanatory importance of spatial structure in biology.
+
+Their account and APS Scale are not identical proposals.
+
+Hermida and Ladyman address how material spatial organisation contributes to biological phenomena.
+
+APS Scale asks where persistence-relevant organisation is realised across spatial and temporal extents.
+
+Where these approaches address the same explanatory target, APS does not assume an additional explanatory contribution merely by redescribing the phenomenon in Scale terminology.
+
+Any claimed explanatory gain requires target-matched comparison with the strongest established account of that target.
+
+### Position Within APS
+
+Scale must be understood together with Agency and Process without being converted into an independently acting component of living organisation.
+
+**Life is viability-oriented, constraint-closed organisation.**
+
+Agency concerns what that organisation does.
+
+Process concerns how its continuity is maintained despite change.
+
+Scale concerns where that persistence is organised across spatial and temporal extents.
+
+These projections can be distinguished analytically because different biological questions give different explanatory priority to activity, continuity, or extent.
+
+They nevertheless concern the same materially realised organisation.
 
 ## Conclusion
 
-Scale is not a measure of size or a hierarchy of levels, but the spatial–temporal organisation through which living systems coordinate their persistence.
+Scale is not size, hierarchy, or an independently acting biological level.
 
-Living systems endure not through aggregation, but through the coordinated integration of activity across domains. This coordination allows organisation to be sustained, recovered, and transformed over time.
+Nor is Scale identical to spatial structure.
 
-In APS, scale is the dimension through which this coordination becomes intelligible. It reveals how persistence is enacted across space and time as part of a unified, viability-oriented, constraint-closed organisation.
+Material spatial relations can contribute constitutively to biological organisation. Boundaries, positions, configurations, orientations, shapes, constraints, and physical interactions can all matter to how living systems function and persist.
 
-Understanding life therefore requires an account of scale—not as hierarchy, but as the distributed coordination of living activity.
+APS Scale asks a different but complementary explanatory question:
+
+**Where is the organisation through which persistence is maintained realised across spatial and temporal extents?**
+
+The answer must be established from the biological case rather than imposed by a predetermined hierarchy.
+
+Living organisation performs the causal and coordinative work.
+
+Scale makes its relevant extent explicit.
+
+Within APS, Scale therefore remains an analytic projection of one viability-oriented, constraint-closed organisation: the projection concerned with **where persistence is organised across spatial and temporal extents**.

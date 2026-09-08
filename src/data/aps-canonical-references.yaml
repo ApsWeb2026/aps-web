@@ -4448,3 +4448,133 @@ references:
     status: verified
     authority: Annual Reviews and PubMed
     verifiedDate: 2026-09-05
+- id: mccusker-bryant-gardiner-2015-axolotl-limb-blastema
+  type: journal-article
+  authors: McCusker, C., Bryant, S. V., & Gardiner, D. M.
+  year: 2015
+  title: 'The axolotl limb blastema: cellular and molecular mechanisms driving blastema formation and limb regeneration in tetrapods'
+  journal: Regeneration
+  volume: '2'
+  issue: '2'
+  pages: 54–71
+  doi: 10.1002/reg2.32
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-09-07
+- id: godwin-pinto-rosenthal-2013-macrophages-salamander-limb-regeneration
+  type: journal-article
+  authors: Godwin, J. W., Pinto, A. R., & Rosenthal, N. A.
+  year: 2013
+  title: Macrophages are required for adult salamander limb regeneration
+  journal: Proceedings of the National Academy of Sciences
+  volume: '110'
+  issue: '23'
+  pages: 9415–9420
+  doi: 10.1073/pnas.1300290110
+  verification:
+    status: verified
+    authority: National Academy of Sciences
+    verifiedDate: 2026-09-07
+- id: gerber-et-al-2018-single-cell-axolotl-limb-regeneration
+  type: journal-article
+  authors: Gerber, T., Murawala, P., Knapp, D., Masselink, W., Schuez, M., Hermann, S., Gac-Santel, M., Nowoshilow, S., Kagejama, J., Khattak, S., Currie, J., Camp, J. G., Tanaka, E. M., & Treutlein, B.
+  year: 2018
+  title: Single-cell transcriptomics uncovers molecular funneling of cell identities during axolotl limb regeneration
+  journal: Science
+  volume: '362'
+  issue: '6413'
+  article-number: eaaq0681
+  doi: 10.1126/science.aaq0681
+  verification:
+    status: verified
+    authority: AAAS
+    verifiedDate: 2026-09-07
+- id: furukawa-et-al-2024-allometry-axolotl-limb-regeneration
+  type: journal-article
+  authors: Furukawa, S., Yamamoto, S., Ohashi, A., Morishita, Y., & Satoh, A.
+  year: 2024
+  title: Allometry in limb regeneration and scale-invariant patterning as the basis of normal morphogenesis from different sizes of blastemas
+  journal: Development
+  volume: '151'
+  issue: '21'
+  article-number: dev202697
+  doi: 10.1242/dev.202697
+  verification:
+    status: verified
+    authority: The Company of Biologists
+    verifiedDate: 2026-09-07
+- id: kurihara-et-al-2015-recursive-vesicle-protocell
+  type: journal-article
+  authors: Kurihara, K., Okura, Y., Matsuo, M., Toyota, T., Suzuki, K., & Sugawara, T.
+  year: 2015
+  title: 'A Recursive Vesicle-Based Model Protocell with a Primitive Model Cell Cycle'
+  journal: Nature Communications
+  volume: '6'
+  article-number: '8352'
+  doi: 10.1038/ncomms9352
+  verification:
+    status: verified
+    authority: Springer Nature / Nature Communications
+    verifiedDate: 2026-09-07
+- id: ruiz-mirazo-pereto-moreno-2004-universal-definition-life
+  type: journal-article
+  authors: Ruiz-Mirazo, K., Peretó, J., & Moreno, A.
+  year: 2004
+  title: 'A Universal Definition of Life: Autonomy and Open-Ended Evolution'
+  journal: Origins of Life and Evolution of the Biosphere
+  volume: '34'
+  issue: '3'
+  pages: 323–346
+  doi: 10.1023/B:ORIG.0000016440.53346.dc
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-09-07
+- id: varela-maturana-uribe-1974-autopoiesis
+  type: journal-article
+  authors: Varela, F. G., Maturana, H. R., & Uribe, R.
+  year: 1974
+  title: 'Autopoiesis: The Organization of Living Systems, Its Characterization and a Model'
+  journal: BioSystems
+  volume: '5'
+  issue: '4'
+  pages: 187–196
+  doi: 10.1016/0303-2647(74)90031-8
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-09-07
+- id: ramirez-tagle-2026-formalizing-autopoiesis
+  type: journal-article
+  authors:
+    - family: Ramírez-Tagle
+      given: Rodrigo
+  year: 2026
+  title: "Formalizing autopoiesis: Toward a Categorical-Thermodynamic Calculus of Closure"
+  journal: "BioSystems"
+  volume: "268"
+  articleNumber: "105918"
+  doi: "10.1016/j.biosystems.2026.105918"
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-09-08
+- id: hermida-ladyman-2026-spatial-structure-biology
+  type: journal-article
+  authors:
+    - family: Hermida
+      given: M.
+    - family: Ladyman
+      given: James A. C.
+  year: 2026
+  title: "The Importance of Spatial Structure in Biology"
+  journal: "European Journal for Philosophy of Science"
+  volume: "16"
+  issue: "3"
+  articleNumber: "59"
+  doi: "10.1007/s13194-026-00760-x"
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-08
