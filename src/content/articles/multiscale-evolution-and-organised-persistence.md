@@ -6,29 +6,34 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-22
+revised: 2026-09-08
 cluster: evolutionary-dynamics
 role: extension
 
 abstract: >
-  Evolution is often explained through genes, organisms, populations, or
-  ecological systems considered in relative isolation. APS rejects the search
-  for a single privileged level of evolutionary explanation. Because
-  viability-oriented organised persistence is itself distributed across
-  interacting biological scales, evolutionary transformation must also be
-  multiscale. Evolution emerges through the historical reorganisation of persistence-producing relations sustaining lineages of organised persistence across interacting biological scales. Multiscale evolution is therefore not an optional perspective
-  on biological change but a consequence of the multiscale organisation of
-  life itself.
+  Evolution is the historical transformation of organised persistence, but the
+  spatial and temporal extent required to explain a particular evolutionary
+  transformation cannot be fixed in advance. Evolutionary explanations may
+  focus successfully on genes, organisms, populations, developmental systems,
+  ecological relations, or other materially realised organisation depending on
+  the explanandum. In other cases, adequate explanation requires relations
+  extending beyond an initially selected spatial or temporal boundary. APS
+  treats this as a question of explanatory extent rather than as evidence that
+  evolution is inherently multiscale. Scale is the analytic projection
+  concerned with where persistence relevant to the explanandum is organised
+  across spatial and temporal extents. A broader extent is therefore warranted
+  only when additional materially realised relations make an explanatory
+  difference to the evolutionary target.
 
 keyPoints:
-  - Evolution is multiscale because organised persistence is multiscale.
-  - No single biological scale is sufficient to explain evolutionary transformation.
-  - Viability depends upon coordinated organisation extending across interacting scales.
-  - Agency, development, adaptation, inheritance, and selection operate through scale-integrated systems.
-  - Evolution transforms persistence-producing relations rather than isolated biological components.
-  - Organism–environment coupling contributes directly to evolutionary organisation.
-  - Natural selection presupposes multiscale organised persistence rather than creating it.
-  - APS integrates genes, organisms, populations, ecology, and environments within a unified explanatory framework.
+  - Evolution is the historical transformation of organised persistence.
+  - Evolutionary explanation should not assume a single privileged biological level.
+  - Nor should it assume in advance that every evolutionary transformation is inherently multiscale.
+  - Scale asks where the persistence relevant to an evolutionary explanandum is organised across spatial and temporal extents.
+  - A wider explanatory extent is warranted only when additional materially realised relations make an explanatory difference to the target.
+  - Development, adaptation, inheritance, selection, and organism–environment relations can enlarge the required explanatory extent in appropriate cases.
+  - Agency, Process, and Scale are analytic projections of one living organisation, not interacting dimensions.
+  - Multiextent explanation is a diagnostic outcome rather than a universal APS premise.
 
 relatedGlossaryTerms:
   - scale
@@ -113,129 +118,158 @@ references:
 
 # Multiscale Evolution and Organised Persistence
 
-> **Where this article fits:** This article explains why evolutionary transformation cannot be reduced to genes, organisms, populations, or any other single biological scale. Within APS, evolution is multiscale because viability-oriented organised persistence is itself distributed across interacting scales of biological organisation. Evolution therefore emerges through the historical transformation of persistence-producing relations extending across development, physiology, behaviour, ecology, and environmental interaction.
+> **Where this article fits:** This article examines when evolutionary explanation requires biological relations extending across more than one spatial or temporal extent. APS does not assume either that evolution has one privileged explanatory level or that every evolutionary transformation is necessarily multiscale. Evolution is understood as the historical transformation of organised persistence. Scale then asks where the persistence relevant to a particular evolutionary explanandum is organised and how far the explanation must extend to include the materially realised relations that make a difference to that target.
 
 ## Why Evolutionary Scale Matters
 
-One of the most persistent questions in evolutionary biology concerns the scale at which evolution should be explained. Different theoretical traditions have proposed different answers. Some have emphasised genes as the primary units of evolutionary change, others have focused on organisms, populations, ecological systems, developmental processes, or environmental interactions. Much of modern evolutionary theory has consequently been shaped by debates concerning explanatory levels and the search for the proper locus of evolutionary causation.
+One of the enduring questions in evolutionary biology concerns where evolutionary change should be explained. Genes, organisms, populations, developmental systems, ecological relations, and environments can all become important explanatory targets. Different evolutionary questions consequently direct attention toward different biological entities, processes, relations, and temporal horizons.
 
-These debates have generated important insights because genes contribute to inheritance, organisms participate in viability-oriented activity, populations exhibit statistical evolutionary dynamics, and ecological systems influence both persistence and transformation. Yet the search for a single privileged explanatory level often obscures a more fundamental question. Before asking which scale explains evolution, we must first ask how living systems themselves maintain continuity through time. The answer to that question determines what evolution is capable of transforming and therefore what an adequate evolutionary explanation must ultimately address.
+These differences need not be resolved by identifying one universally privileged level. A genetic explanation may be adequate for one explanandum, a population-level analysis for another, while other questions may require developmental, physiological, behavioural, ecological, or environmental relations that extend beyond an initially selected boundary.
 
-APS approaches this issue from a different starting point. Evolution is not understood primarily as change occurring at a particular level of organisation. It is understood as the historical transformation of viability-oriented organised persistence. Once evolution is viewed in these terms, the problem of scale changes significantly. The central issue is no longer which scale is primary, but how persistence is organised across multiple interacting domains and how those persistence-producing relations are transformed through time.
+APS approaches this problem by distinguishing biological organisation from the explanatory role of Scale. Evolution is the historical transformation of organised persistence. Scale does not identify a biological level at which evolution truly occurs. It asks where the persistence relevant to an evolutionary explanandum is organised across spatial and temporal extents.
 
-The result is a fundamentally different picture of evolutionary explanation. Evolution is not distributed across scales merely because researchers happen to investigate different levels of organisation. It is distributed across scales because living organisation itself is distributed across scales. The organisation that sustains viability extends across molecular processes, physiological systems, developmental trajectories, behavioural activities, ecological relations, and environmental interactions. Evolutionary transformation therefore necessarily extends across these same organisational domains because they collectively constitute the persistence that evolution modifies.
+The important question is therefore not whether evolution is intrinsically single-scale or multiscale. It is whether the materially realised relations required to explain a particular evolutionary transformation are adequately represented within the initially selected extent. When they are, no broader extent is required. When they are not, the explanation must widen accordingly.
 
-## Organised Persistence Is Multiscale
+## Organised Persistence and Explanatory Extent
 
-The APS account begins with a simple observation: no living system maintains viability through a single isolated scale of organisation.
+Living systems depend upon materially realised relations among components, processes, constraints, and surroundings. Genes depend on cellular organisation for expression and replication. Cells participate in physiological organisation. Organisms develop through continuing interactions among genetic, cellular, physiological, behavioural, and environmental processes. Populations arise through the activities, reproduction, inheritance, and differential persistence of organisms.
 
-Genes do not persist independently of the cellular processes that express, regulate, and reproduce them. Cells do not persist independently of physiological organisation. Organisms do not persist independently of developmental continuity, ecological interaction, and environmental support. Populations do not persist independently of the organisms whose activities generate them. At every point in biological organisation, continuity depends upon relations extending beyond the local scale at which a particular process occurs.
+These dependencies can extend beyond the boundary at which an investigator first locates an explanandum. A local molecular event may depend upon cellular regulation. A developmental outcome may depend upon environmental conditions. A population trajectory may depend upon ecological relations. Such cases can require explanation across a broader spatial or temporal extent.
 
-Persistence is therefore inherently scale-integrated. Living systems maintain viability through coordinated organisational activity distributed across multiple interacting domains. Molecular regulation supports cellular organisation, cellular organisation contributes to physiological continuity, physiology enables organismal persistence, organismal activity shapes ecological relations, and ecological conditions influence developmental opportunities, adaptive possibilities, and evolutionary trajectories. No domain operates in complete isolation because viability itself depends upon the integration of organisational processes extending across scales.
+That does not mean that organised persistence is itself an interacting system of scales. The biological work is performed by materially realised processes, constraints, interactions, and organisational relations. Scale is the analytic projection through which APS asks how far those relations must be followed in order to explain the target.
 
-This observation has profound implications for evolutionary theory. If organised persistence is distributed across multiple scales, then evolutionary transformation cannot be confined to a single level of explanation. What evolves is not merely genes, traits, organisms, or populations considered independently, but historically continuous lineages of organised persistence distributed across interacting scales. Rather, evolution transforms the persistence-producing relations through which viable organisation is maintained across interacting domains of biological activity.
-
-Evolution therefore becomes the historical transformation of scale-integrated organised persistence. The evolutionary process continuously modifies the organisational relations connecting development, physiology, behaviour, ecology, and environmental interaction. Evolutionary change is distributed across scales because the continuity it transforms is distributed across scales. The multiscale character of evolution is thus not an additional hypothesis imposed upon biology but a direct consequence of how living systems maintain persistence in the first place.
+A broader explanatory extent is therefore justified only when relations beyond a narrower boundary make an explanatory difference. Multiextent explanation is an outcome of analysis, not a premise imposed upon every evolutionary case.
 
 [[box:spatiotemporal-organisation-and-scale]]
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-multiscale.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-multiscale.png"
-      alt="Multiscale evolution and organised persistence"
-      loading="lazy"
-    />
-  </a>
+## Agency and Evolutionary Extent
 
-  <p class="aps-diagram-caption">
-    <strong>Multiscale Evolution and Organised Persistence.</strong>
-    APS interprets evolution as the historical transformation of viability-oriented organised persistence distributed across interacting biological scales. Genes, cells, physiology, organisms, populations, ecological systems, and environmental relations all contribute to the continuity of living organisation. Evolutionary change therefore cannot be reduced to a single privileged level but emerges through the transformation of persistence-producing relations extending across scales.
-  </p>
-</div>
+Biological agency is viability-oriented organisational activity. Evolution can transform the organisation through which that activity is realised, including the regulatory, developmental, physiological, behavioural, and environmental relations relevant to persistence.
 
-## Agency Across Scale
+Whether all of those relations belong in a particular evolutionary explanation depends on the target. A genetic change can sometimes be explained without reconstructing the complete ecology of the organism. In another case, the consequences of genetic variation may depend upon developmental processes, physiological organisation, behavioural activity, or environmental conditions that cannot be excluded without losing explanatory adequacy.
 
-APS identifies biological agency as the defining activity of life. Agency consists in the viability-oriented activity through which living systems participate in maintaining the conditions of their own continued persistence. Crucially, this activity is not confined to a single biological level. The maintenance of viability depends upon coordinated organisation extending across multiple scales simultaneously, linking molecular regulation, physiological integration, behavioural activity, developmental organisation, ecological interaction, and environmental engagement into a continuous persistence-producing system.
+The role of Scale is not to declare biological agency inherently wide-ranging. It is to ask where the organisation relevant to the explanandum must be considered. If relations outside an initially chosen boundary change the explanation, the required extent widens. If they do not, a more bounded explanation may remain sufficient.
 
-The viability of an organism depends upon regulatory processes distributed across these interacting domains. Molecular mechanisms contribute to physiological regulation, physiological organisation supports behavioural activity, behaviour modifies ecological relations, and ecological conditions influence developmental opportunities and future persistence. Agency therefore emerges not from an isolated component but from the coordinated organisation of activities extending across scales. The capacity of living systems to maintain viability is consequently inseparable from the scale-integrated character of biological organisation itself.
+Inheritance reproduces continuity across generations, fitness concerns differences in the continuation of lineages under specified conditions, and natural selection can differentially stabilise heritable differences through time. These relations may connect multiple forms of biological organisation, but their explanatory extent must be established for the case rather than stipulated beforehand.
 
-This multiscale character of agency helps explain why evolutionary transformation must also be multiscale. Evolution does not merely alter biological structures. It transforms the organisation through which viability-oriented activity is achieved. Because agency maintains persistence through organisational relations extending across multiple scales, evolutionary modification of agency necessarily involves developmental, physiological, behavioural, ecological, and environmental dimensions simultaneously. Evolution changes the ways living systems maintain themselves, and those self-maintaining activities are already distributed across interacting organisational domains.
+## Development and Evolutionary Extent
 
-The traditional search for a privileged level of evolutionary explanation therefore overlooks an important feature of living organisation. Viability-oriented activity is inherently scale-integrated because persistence itself depends upon coordinated organisation extending across scales. Evolutionary transformation cannot be localised within a single level for precisely the same reason. The organisation through which agency is realised is distributed across scales, and the historical transformation of that organisation must therefore be distributed across scales as well.
+Development is important to evolutionary explanation because developmental outcomes are produced through materially organised processes rather than through genetic specification considered in isolation. Genetic activity, cellular regulation, physiology, organismal organisation, environmental conditions, and other relations can jointly influence developmental trajectories.
 
-Inheritance reproduces continuity across generations, fitness reflects differences in the continuity of lineages of organised persistence, and natural selection differentially stabilises those differences through time.
+This does not make development an integrator of biological scales. Development consists in materially realised processes occurring through time. Those processes can connect relations extending across different spatial and temporal extents, and their evolutionary relevance depends on the explanandum.
 
-## Development Across Scale
+For some evolutionary questions, inheritance and population dynamics may provide the required explanation without detailed developmental analysis. For others, the generation of phenotypic variation, developmental plasticity, robustness, or environmentally responsive organisation may be essential. In such cases, developmental relations enlarge the explanatory extent because excluding them would omit mechanisms or dependencies that make a difference to the target.
 
-Development occupies a central position within the APS account of multiscale evolution because it links organisational processes that are often treated separately within evolutionary theory. Development integrates molecular activity, physiological regulation, organismal organisation, behavioural interaction, ecological conditions, and environmental influences into a continuous process through which viable persistence is generated and maintained. Evolutionary transformation cannot therefore be understood adequately without understanding how developmental organisation connects these interacting domains of biological activity.
+Development therefore provides an important test of explanatory extent. Its relevance must be demonstrated through the biological relations required to explain the evolutionary transformation under investigation.
 
-Traditional evolutionary frameworks have often treated development as secondary to evolutionary explanation, focusing instead on inheritance, variation, and selection operating at population levels. APS reverses this relationship. Development is one of the principal organisational processes through which persistence is continuously reconstructed across generations. Genes contribute to development, but developmental outcomes also depend upon physiological processes, environmental conditions, ecological relationships, and organismal activity. The continuity that makes evolution possible is therefore generated through scale-integrated developmental organisation rather than transmitted through isolated components alone.
+## Adaptation and Explanatory Extent
 
-This perspective helps explain why evolutionary novelty cannot be understood solely as the appearance of new genetic variants. Novel forms of organisation emerge through developmental systems that integrate influences across multiple scales simultaneously. Development consequently links short-term organisational continuity with long-term evolutionary transformation. It is not merely one scale among others but one of the principal mechanisms through which continuity is integrated across scales. Evolution is multiscale not only because persistence is distributed across multiple organisational domains, but because the developmental processes that generate persistence are themselves distributed across those domains.
+Adaptation can refer to different biological phenomena, and those phenomena need not all require the same explanatory extent. Physiological regulation, behavioural modification, developmental plasticity, ecological adjustment, and historical evolutionary change involve distinct processes and timescales.
 
-## Adaptation Across Scale
+Living systems can remain viable under changing conditions through materially realised reorganisation. Physiological responses can compensate for altered internal conditions. Behaviour can modify environmental exposure. Developmental plasticity can alter trajectories of growth and organisation. Ecological relations can change the opportunities and constraints under which organisms persist.
 
-Adaptation provides a further illustration of the scale-integrated nature of organised persistence. Living systems do not maintain viability through a single adaptive mechanism operating at one privileged level. Instead, adaptation emerges through coordinated reorganisation occurring across molecular, physiological, behavioural, developmental, ecological, and environmental domains. The capacity of living systems to remain viable under changing conditions therefore depends upon organisational responses distributed across multiple scales simultaneously.
+These processes can also become relevant to longer-term evolutionary transformation. A feature contributing to viability in a particular developmental, physiological, behavioural, or ecological context may enter a historical trajectory of inheritance, differential persistence, and modification.
 
-This observation is important because adaptation is often discussed primarily as an evolutionary outcome produced by natural selection. APS recognises the importance of selection but emphasises that adaptation also operates continuously within the lifetime of organisms. Physiological regulation compensates for changing internal conditions, behavioural modification responds to environmental variation, developmental plasticity alters trajectories of growth and organisation, and ecological interactions reshape opportunities for persistence. Adaptation therefore reflects an ongoing process of organisational reconfiguration through which viability is preserved despite changing circumstances.
+The explanatory question is therefore not whether adaptation occurs across interacting scales. It is which material relations must be included to explain the adaptive phenomenon at issue, and across what spatial and temporal extent those relations are organised.
 
-Evolutionary transformation frequently involves the historical stabilisation of such adaptive reorganisations. Features that initially contribute to viability within particular developmental, physiological, behavioural, or ecological contexts may become incorporated into longer-term evolutionary trajectories. Adaptation thus provides a crucial link between immediate persistence and historical transformation. Evolution becomes intelligible not as the accumulation of isolated changes but as the historical modification of adaptive organisation distributed across interacting scales of living activity.
+## Selection and the Organisation It Presupposes
 
-## Selection Across Scale
+Natural selection is a major evolutionary process, but selection acts on biological systems that already possess organisation, development, inheritance, and capacities for persistence and reproduction.
 
-APS fully accepts natural selection as a major evolutionary process while rejecting the view that selection alone explains the organisation of life. Selection undoubtedly contributes to evolutionary transformation, but its operation presupposes systems already capable of maintaining viable persistence. Before selection can differentially stabilise some forms of organisation rather than others, living systems must already exhibit developmental continuity, adaptive capacity, inheritance, agency, and organisational coherence.
+This distinction matters because selection does not by itself explain every biological condition that makes differential persistence possible. Organismal viability may depend on physiological organisation. Development can shape phenotypic variation. Behaviour can alter exposure to environmental conditions. Ecological relations can affect survival and reproduction. Environmental modification can alter future selective conditions.
 
-This dependence has important implications for questions of scale. Selection is frequently discussed as though it acts primarily at one level, whether genes, organisms, groups, or populations. APS instead emphasises that selection operates upon systems whose persistence already depends upon interactions extending across multiple organisational domains. Organismal viability reflects physiological organisation, physiological organisation depends upon cellular activity, developmental processes shape adaptive capacities, ecological conditions influence persistence opportunities, and environmental modification alters the conditions under which future selection occurs.
+Whether these relations must be included in a particular explanation of selection remains target-dependent. A population-genetic model can be entirely appropriate for some questions. Other explananda require additional developmental, ecological, physiological, or environmental relations because those relations alter the causes, constraints, or consequences being explained.
 
-Selection therefore does not create scale-integrated organisation. It acts upon scale-integrated organisation that already exists. The forms of persistence that selection differentially stabilises are themselves products of interacting developmental, physiological, behavioural, ecological, and environmental processes. Evolutionary explanation consequently requires attention not only to selective outcomes but also to the organisational conditions that make selection possible in the first place.
+Selection therefore acts on materially organised systems. APS does not need to describe those systems as inherently scale-integrated. The relevant question is how much of their organisation must be included to explain the selective outcome under investigation.
 
-This distinction is one of the most important contributions of APS to evolutionary explanation. Selection remains indispensable, but it is not foundational. Selection explains why some lineages of organised persistence become historically stabilised more successfully than others. It does not explain the origin of the multiscale organisation upon which persistence depends. Evolutionary theory therefore requires an account of organised persistence before it can fully explain the consequences of selection.
+This preserves an important distinction between the organisation that makes biological persistence possible and the differential historical consequences analysed through selection.
 
-## Organism–Environment Coupling Across Scale
+## Organism–Environment Relations and Evolutionary Extent
 
-The scale-integrated character of evolution becomes particularly apparent when organism–environment relations are examined closely. Traditional evolutionary models often treat environments as external conditions acting upon otherwise self-contained organisms. APS rejects this separation because living systems continually participate in shaping the conditions under which their own persistence occurs. Organisms do not merely adapt to environments; they modify, construct, transform, and reorganise aspects of those environments through their ongoing activities.
+Organisms do not merely encounter environments as passive external backgrounds. Through metabolism, behaviour, resource use, habitat modification, symbiosis, niche construction, and other activities, organisms can alter conditions relevant to their own persistence and to the persistence of other organisms.
 
-These interactions occur across multiple organisational domains. Metabolic activity alters local conditions, behaviour modifies ecological relationships, developmental processes respond to environmental signals, and niche construction can reshape selective environments across generations. Environmental organisation is therefore not external to evolutionary explanation. It participates directly in the persistence-producing relations through which evolutionary transformation unfolds.
+These organism–environment relations are materially realised. Their evolutionary importance depends on whether they make a difference to the explanandum. In some cases, environmental conditions can be represented as parameters without requiring detailed analysis of how organisms modify them. In others, ecological inheritance, niche construction, symbiosis, environmental modification, or reciprocal organism–environment dependence becomes central to explaining an evolutionary trajectory.
 
-Organism–environment coupling reveals that the boundaries of evolutionary organisation cannot be confined neatly within organisms themselves. The persistence of living systems often depends upon ecological interactions, environmental resources, symbiotic relationships, and forms of environmental modification that extend beyond traditional organismal boundaries. Evolution consequently transforms coupled systems of organised persistence rather than isolated biological entities considered independently.
+Such cases can extend the explanatory boundary beyond an individual organism. That extension should follow from the biological dependencies under investigation rather than from a prior commitment that evolutionary organisation always spans organism and environment.
 
-This perspective helps explain why ecological inheritance, niche construction, and environmental modification have become increasingly important topics within contemporary evolutionary theory. APS incorporates these insights within a broader framework of organised persistence. Evolution is distributed across scales because the organisational relations sustaining viability extend across coupled organism–environment systems whose continuity unfolds through time. The environment is therefore not merely the setting in which evolution occurs. It is one of the interacting domains through which organised persistence is maintained and historically transformed.
+Organism–environment analysis therefore provides a clear example of the APS Scale test. The explanation should extend beyond the organism when extra-organismal relations materially alter the persistence, inheritance, variation, development, selection, or historical transformation relevant to the target.
 
 [[box:multiple-realization-and-organised-persistence]]
 
-## Temporal Scale and Historical Transformation
+## Temporal Extent and Historical Transformation
 
-Multiscale evolution is not only a matter of spatial organisation. It is also a matter of time. Living systems operate simultaneously across multiple temporal scales whose interactions contribute directly to persistence and evolutionary transformation. Molecular processes may occur in milliseconds, physiological regulation unfolds across minutes and hours, development extends across lifetimes, ecological interactions may persist across generations, and evolutionary change unfolds across historical timescales. These processes differ dramatically in duration, yet they remain interconnected because each contributes to the continuity of organised persistence.
+Evolutionary explanation is necessarily historical, but different evolutionary explananda require different temporal extents. Molecular events can occur over fractions of a second, physiological regulation over minutes or hours, development over substantial portions of a life history, ecological relations over multiple generations, and lineage transformation over much longer historical periods.
 
-This temporal integration is essential for understanding evolutionary organisation. Short-term regulatory activity can influence developmental outcomes, developmental organisation can shape behavioural capacities, behavioural activity can modify ecological conditions, and ecological interactions can alter evolutionary trajectories over long periods. Evolution therefore cannot be reduced to a sequence of generational substitutions occurring independently of the organisational processes that sustain living systems in the present. Historical transformation emerges through the continual interaction of temporal processes operating at different rates but contributing to the same continuity-producing organisation.
+These are durations of materially realised biological processes, not interacting temporal scales. Processes occurring over different durations can nevertheless stand in causal or organisational relations. A short-term regulatory event can alter development. Development can affect behavioural capacities. Behaviour can modify environmental conditions. Environmental changes can influence future survival, reproduction, or selection.
 
-APS consequently treats evolutionary time as layered rather than linear. Persistence is maintained through organisational processes operating across multiple temporal horizons, from moment-to-moment regulation to long-term evolutionary transformation. These temporal domains remain integrated because they collectively contribute to viability-oriented continuity. Evolutionary transformation reflects changes in these persistence-producing relations across time. The historical character of evolution therefore derives not merely from the passage of generations but from the continual reorganisation of temporally layered systems through which living organisation persists.
+The explanatory task is to determine which of these relations matter to the evolutionary target. A short temporal window may be adequate for one question, while another requires reconstruction across generations or longer lineage histories.
 
-## Multiscale Evolution Within APS
+Scale therefore asks how far through time the persistence relevant to the explanandum must be followed. A longer temporal extent is warranted when processes or relations outside the narrower window make a difference to the explanation.
 
-The significance of multiscale evolution becomes fully apparent when situated within the broader explanatory architecture of APS. The framework is organised around three mutually integrated dimensions: agency, process, and scale. Agency identifies the viability-oriented activity through which living systems participate in maintaining their own persistence. Process emphasises that biological continuity is achieved through ongoing transformation rather than static permanence. Scale highlights the distributed organisational relations through which persistence is maintained across multiple domains of biological activity.
+Evolutionary history is not simply the accumulation of events over ever larger timescales. It is the transformation of materially organised persistence through relations whose relevant temporal extent must be established case by case.
 
-Multiscale evolution emerges naturally from the interaction of these dimensions. Agency is distributed across scales because viability depends upon coordinated activity extending from molecular regulation to ecological interaction. Process is distributed across scales because biological continuity requires transformation across developmental, physiological, behavioural, ecological, and environmental domains. Scale is indispensable because persistence cannot be localised within any single level of organisation. Evolution therefore becomes the historical transformation of agency-driven organised persistence distributed across interacting domains of biological activity.
+## Evolutionary Extent within the APS Architecture
 
-This perspective helps unify many areas of biology that are often treated separately. Development, adaptation, inheritance, selection, ecological interaction, and environmental modification are not independent explanatory domains connected only by convenience. They are different expressions of the same underlying continuity-producing organisation. Evolutionary transformation emerges through their interaction because persistence itself emerges through their interaction. APS therefore provides a framework within which multiscale evolution becomes a consequence of the organisational structure of life rather than an additional theoretical assumption imposed upon it.
+Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents. They are analytic projections rather than components of reality, and none is an independently acting biological cause.
 
-The multiscale character of evolution is therefore not an extra layer added to APS. It emerges directly from the interaction of agency, process, and scale. Because viability-oriented persistence is achieved through scale-integrated activity, evolutionary transformation necessarily unfolds through scale-integrated change. Evolution is multiscale not because explanatory perspectives happen to differ, but because the organisation being transformed is itself distributed across interacting scales.
+An evolutionary explanation may make one, two, or all three projections useful. APS does not assume that every evolutionary explanandum requires all three.
+
+Agency may be especially relevant when the target concerns viability-oriented organisational activity. Process may be especially relevant when the target concerns how continuity is maintained, reorganised, or transformed through change. Scale becomes relevant when the question concerns the spatial or temporal extent across which the persistence necessary for explanation is organised.
+
+These perspectives do not interact to produce evolution. The relevant biological work is performed by materially realised processes, constraints, interactions, and organisational relations. APS uses the projections to clarify different explanatory questions about that organisation.
+
+Evolutionary explanation is therefore not made multiextent merely by invoking APS. A broader spatial or temporal extent must earn its place in the explanation by identifying additional relations that make an explanatory difference to the target.
 
 ## Why Multiscale Evolution Matters
 
-Understanding evolution as a multiscale process has important consequences for biological explanation. It weakens attempts to reduce evolutionary theory to any single privileged level while preserving the explanatory importance of genes, organisms, populations, ecological systems, and environmental interactions. Each contributes to evolutionary organisation, but none is sufficient in isolation because persistence itself depends upon relations extending across multiple scales.
+The expression *multiscale evolution* can still identify an important class of evolutionary explanations, provided it is used diagnostically rather than as a universal claim about life.
 
-This perspective also clarifies the place of development within evolutionary theory. Development is not an auxiliary process standing outside evolution but one of the principal mechanisms through which continuity is generated, maintained, and transformed. Similarly, organism–environment coupling becomes an integral component of evolutionary explanation rather than a peripheral influence acting upon otherwise self-contained systems. Ecological interaction, niche construction, behavioural modification, and environmental change all contribute directly to the persistence-producing organisation that evolution transforms.
+Some evolutionary explananda are adequately addressed within relatively bounded domains. Others cannot be explained without following relevant relations across broader spatial or temporal extents. Developmental dependencies, organism–environment relations, ecological inheritance, niche construction, physiological organisation, or long-term historical continuity can each enlarge the explanation when the target requires them.
 
-Perhaps most importantly, the multiscale perspective helps reveal why evolutionary biology cannot be understood adequately through the analysis of isolated components alone. Evolution concerns the historical transformation of living organisation, and living organisation is inherently distributed across interacting scales. The explanatory challenge is therefore not to identify a single level at which evolution truly occurs but to understand how persistence-producing relations are coordinated across scales and transformed through time.
+This target-sensitive approach avoids two opposite errors. It avoids treating one biological level as universally privileged, but it also avoids assuming that a wider explanation is automatically better simply because it includes more domains.
 
-APS consequently provides a way of integrating many developments in contemporary evolutionary theory that are often treated as separate innovations. Developmental biology, ecological inheritance, niche construction, biological relativity, process biology, and multilevel approaches all point toward the inadequacy of single-scale explanations. APS unifies these insights by locating them within a broader account of viability-oriented organised persistence. Their common significance lies in revealing the distributed organisation through which continuity is maintained and evolutionary transformation becomes possible.
+Explanatory gain depends on the target. A broader account is warranted when it identifies material dependencies, constraints, interactions, or historical relations that a narrower account omits and when those additions improve explanation of the explanandum. If widening the extent adds no relevant explanatory difference, APS provides no reason to require it.
+
+Multiscale evolutionary explanation is therefore best understood as a possible result of biological analysis. It is established when the materially relevant organisation of the evolutionary target genuinely extends across multiple spatial or temporal extents.
 
 ## Conclusion
 
-Evolution is often described through reference to genes, organisms, populations, or ecological systems considered individually. While each of these perspectives captures important aspects of biological change, none fully explains how continuity is maintained and transformed across living systems. APS addresses this limitation by beginning not with isolated levels of organisation but with viability-oriented organised persistence itself.
+Evolution is the historical transformation of organised persistence. That transformation can involve genes, organisms, populations, developmental processes, physiological organisation, behaviour, ecological relations, environments, and lineages, but no evolutionary explanation is required to include all of them simply because they exist within biology.
 
-Because organised persistence is inherently scale-integrated, evolutionary transformation must also be scale-integrated. Living systems maintain continuity through organisational relations extending across molecular activity, development, physiology, behaviour, ecological interaction, and environmental engagement. Evolution transforms these persistence-producing relations historically, generating new forms of organisation while preserving the continuity necessary for change to accumulate across time.
+APS rejects both the search for a universally privileged level and the assumption of universal multiscalarity. Scale is the analytic projection concerned with where persistence is organised across spatial and temporal extents. Its contribution to evolutionary explanation is therefore diagnostic: it helps determine how far the materially relevant organisation must be followed in order to explain a particular transformation.
 
-Multiscale evolution is therefore not a supplementary perspective added to an otherwise complete evolutionary theory. It follows directly from the organisational structure of life. Genes, organisms, populations, ecological systems, and environments all participate in evolutionary transformation because they all participate in the maintenance of viable persistence. APS consequently interprets evolution as the historical transformation of organised persistence distributed across interacting scales of biological organisation.
+A relatively bounded explanation is sufficient when the relations within that boundary adequately explain the target. A broader extent becomes necessary when materially realised relations beyond it alter the explanation.
+
+Multiscale evolution should therefore not be treated as a consequence stipulated by the organisation of life. It is an explanatory conclusion warranted in those cases where evolutionary transformation genuinely depends upon relations extending across multiple spatial or temporal extents.
+
+## Explanatory Architecture
+
+### Central Question
+
+When does explaining evolutionary transformation require relations extending across more than one spatial or temporal extent?
+
+### Architectural Role
+
+This article is a Scale extension within APS. It applies the Scale projection to evolutionary explanation without assuming that evolutionary transformation is inherently multiscale or that wider explanatory extent is automatically superior.
+
+### Builds On
+
+This article builds on the APS account of evolution as the historical transformation of organised persistence; the definition of Scale as the analytic projection concerned with where persistence is organised across spatial and temporal extents; Biological Agency as viability-oriented organisational activity; Process as the analytic projection concerned with how continuity is maintained despite change; and the established roles of inheritance, variation, development, adaptation, selection, and organism–environment relations in evolutionary explanation.
+
+### Develops Into
+
+The article develops a target-sensitive method for determining evolutionary explanatory extent. It provides a basis for later analysis of ecological organisation, organism–environment relations, development, and other cases in which materially relevant biological organisation may extend beyond an initially selected spatial or temporal boundary.
+
+### Related Explanatory Questions
+
+Relevant questions include whether a relatively local evolutionary explanation is sufficient; when developmental relations must be included; when ecological or environmental relations enlarge the explanandum; when a longer temporal horizon changes the explanation; and what evidence establishes that widening the spatial or temporal extent produces explanatory gain.
+
+### Position within APS
+
+Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation. They are not interacting dimensions, biological levels, or independent causes. An evolutionary explanandum may make one, two, or all three projections useful, and APS does not assume triadic necessity.
+
+Scale contributes specifically by asking where the persistence relevant to the explanandum is organised. A wider explanatory extent is warranted only when materially realised relations outside a narrower boundary make an explanatory difference to the target.
+
+### Corpus Significance
+
+This article replaces the earlier APS claim that organised persistence is inherently scale-integrated and that evolutionary transformation must therefore be multiscale. It establishes instead a target-sensitive criterion: multiextent evolutionary explanation is warranted when the materially relevant relations required to explain a particular transformation extend across more than one spatial or temporal extent. Multiscalarity is therefore a possible explanatory result, not a universal premise of APS.
