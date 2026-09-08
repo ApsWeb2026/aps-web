@@ -96,66 +96,22 @@ For some explananda, a relatively restricted material organisation may be suffic
 
 This distinction is central to APS. Spatial organisation may itself be constitutive of biological organisation: position, configuration, boundaries, orientation, interaction, and other material relations can make a difference to what a biological system is able to do. Scale, by contrast, is explanatory. It identifies the spatial and temporal extent across which the organisation relevant to the explanandum must be considered.
 
-<!--
-D9G-2 DIAGRAM PRODUCTION SPECIFICATION — DO NOT IMPLEMENT YET
+<div class="aps-diagram">
 
-Replacement for:
-  /assets/diagrams/conceptual-hierarchy.png
+<a href="/assets/diagrams/conceptual-hierarchy.png" target="_blank" rel="noopener">
+  <img
+    src="/assets/diagrams/conceptual-hierarchy.png"
+    alt="Comparison of a common biological levels representation with APS Scale analysis, showing materially realised biological organisation and the spatial and temporal extents relevant to organised persistence."
+    loading="lazy"
+  />
+</a>
 
-Working title:
-  From Levels Representation to APS Scale Analysis
+<p class="aps-diagram-caption">
+  <strong>From Levels Representation to APS Scale Analysis.</strong>
+  Conventional level representations remain useful descriptive and investigative tools. APS Scale analysis asks a different question: where is the persistence relevant to a biological explanandum organised across spatial and temporal extents? Scale is an analytic projection, not an additional causal level or hierarchy.
+</p>
 
-Required conceptual architecture:
-
-LEFT:
-  Common Levels Representation
-  Molecules
-  Cells
-  Tissues / Physiology
-  Organism
-  Population / Ecology
-
-  Label:
-  Useful descriptive and investigative partitions
-
-  Explicit guardrail:
-  The representation does not by itself establish discrete causal or
-  ontological levels.
-
-CENTRE:
-  Materially Realised Biological Organisation
-
-  Representative relations:
-  processes
-  constraints
-  interactions
-  boundaries
-  environmental conditions
-  temporal dependencies
-
-  No stacked hierarchy.
-  No arrows implying top-down or bottom-up causation.
-  No "cross-scale coordination."
-
-RIGHT:
-  APS Scale Analysis
-
-  Primary question:
-  Where is the persistence relevant to the explanandum organised across
-  spatial and temporal extents?
-
-  Spatial extent bar
-  Temporal extent bar
-
-  Explicit labels:
-  Scale = analytic projection
-  Extent is explanandum-dependent
-  Wider is not automatically better
-
-BOTTOM:
-  Levels representation and APS Scale analysis answer different questions.
-  APS does not replace useful level representations with another hierarchy.
--->
+</div>
 
 [[box:scale-is-not-size]]
 
