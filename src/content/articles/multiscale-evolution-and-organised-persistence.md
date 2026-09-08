@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-09-08
+revised: 2026-09-09
 cluster: evolutionary-dynamics
 role: extension
 
