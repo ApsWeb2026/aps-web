@@ -1707,10 +1707,14 @@ main .content-wrapper .article-body h3 a {
 .diagram a:hover img,
 .diagram a:hover svg,
 .figure a:hover img,
-.figure a:hover svg,
+.figure a:hover svg {
+  transform: scale(1.01);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+}
+
 .aps-diagram a:hover img,
 .aps-diagram a:hover svg {
-  transform: scale(1.01);
+  transform: none;
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
