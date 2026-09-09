@@ -138,7 +138,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-# Reductionism in Biology — An APS Clarification
+## Introduction
 
 Reductionism has earned its place in modern biology through genuine explanatory success. Molecular analysis, mechanistic decomposition, biochemical investigation, genetics, physiology, and increasingly sophisticated forms of modelling have transformed biological understanding. They have revealed mechanisms that could not have been discovered by treating organisms as undifferentiated wholes, and they remain indispensable to contemporary biological science.
 
@@ -157,7 +157,7 @@ For related clarifications see:
 - *[Why APS Is Not Holism](/articles/why-aps-is-not-holism/)*
 - *[Why APS Is Not Organicism](/articles/why-aps-is-not-organicism/)*
 
-# The Reductionist Picture
+## The Reductionist Picture
 
 Reductionism is often associated with the expectation that biological systems can ultimately be explained through their constituent parts and the physical principles governing them. In its stronger forms, explanatory priority is assigned to smaller or supposedly more fundamental components, while the organisation of larger systems is expected to follow from sufficiently complete knowledge of their interactions. The familiar language of lower and higher levels, together with bottom-up explanation, expresses this picture.
 
@@ -169,7 +169,7 @@ This is why the APS clarification is directed at explanatory reduction rather th
 
 [[box:realization-is-organisational-not-merely-functional]]
 
-# Ontological Dependence and Explanatory Priority
+## Ontological Dependence and Explanatory Priority
 
 The distinction between ontological dependence and explanatory priority helps make this position precise. Living systems depend completely upon physical and chemical processes. Nothing in APS requires an additional substance, force, or non-material causal domain. But the material dependence of a biological phenomenon does not determine what must become central in its explanation.
 
@@ -189,7 +189,7 @@ See:
 
 *[Multiple Realization and Biological Organisation](/articles/multiple-realization-and-biological-organisation/)*
 
-# Mechanism and Explanatory Sufficiency
+## Mechanism and Explanatory Sufficiency
 
 Mechanistic explanation can be extraordinarily powerful. It can reveal how molecular interactions occur, how pathways regulate activity, how components interact, and how particular physiological operations proceed. For appropriately specified explananda, such explanations may be sufficient.
 
@@ -205,7 +205,7 @@ Their inclusion must therefore be earned by the biological case. If they make an
 
 [[box:mechanism-within-organised-persistence]]
 
-# Continuity, Perturbation, and Explanatory Visibility
+## Continuity, Perturbation, and Explanatory Visibility
 
 The organisation of living systems is often easiest to overlook when functioning remains relatively stable. Components and mechanisms can then be experimentally isolated and characterised without making all of the dependencies involved in continued organisation equally visible. Perturbation provides one way of bringing some of those dependencies into view.
 
@@ -215,7 +215,7 @@ This gives perturbation an important diagnostic role within APS, but not a privi
 
 [[box:perturbation-reveals-organisation]]
 
-# Beyond Top-Down and Bottom-Up
+## Beyond Top-Down and Bottom-Up
 
 Discussions of reductionism often move from questions about components and organisation to questions about bottom-up and top-down causation. The vocabulary is understandable. Molecular events can alter physiological activity, organismal states can change the conditions under which molecular processes occur, and organisms both modify and respond to their environments. Describing these relations as influences between levels can provide useful shorthand.
 
@@ -229,7 +229,7 @@ This distinction leaves the required extent genuinely open. Some explanations ma
 
 [[box:scale-is-not-hierarchy]]
 
-# What APS Preserves
+## What APS Preserves
 
 The result is not an argument against mechanistic biology. APS preserves molecular investigation, decomposition, mechanistic explanation, and the universal material constraints imposed by physics and chemistry. What it resists is the conversion of their scientific success into a general philosophical claim that every biological explanandum must be exhausted by decomposition.
 
@@ -239,7 +239,7 @@ This point extends to informational, computational, systems, and network approac
 
 The APS position is therefore neither reductive mechanism nor anti-mechanistic holism. It is a methodological demand for explanatory adequacy: identify the materially realised organisation relevant to the question, and determine whether making that organisation explicit explains something the relevant alternative leaves unresolved.
 
-# Organised Persistence as Biological Intelligibility
+## Organised Persistence as Biological Intelligibility
 
 Organised persistence gives APS a characteristic explanatory focus without functioning as a universal answer. Living systems are not static collections of molecules, genes, pathways, or mechanisms to which persistence is subsequently added. Their material constituents and relations change while organisation may be maintained, re-established, or transformed.
 
@@ -269,19 +269,19 @@ Decomposition therefore neither succeeds nor fails in the abstract. It may provi
 </div>
 
 
-# Explanatory Architecture
+## Explanatory Architecture
 
-## Central Question
+### Central Question
 
 **When does material and mechanistic decomposition adequately explain a biological phenomenon, and when do materially realised organisational relations add explanatory content that the decomposed account does not provide?**
 
-## Architectural Role
+### Architectural Role
 
 This Clarification article distinguishes **material constitution from explanatory sufficiency**. It preserves mechanistic and decompositional explanation while rejecting the inference that material dependence entails universal explanatory reduction.
 
 The clarification is symmetrical. APS does not make the converse inference that organisational description, broader explanatory extent, or APS terminology automatically establishes greater explanatory adequacy. The relevant question is whether the additional relations make an explanatory difference to the specified target.
 
-## Builds On
+### Builds On
 
 - Biological Organisation
 - Organised Persistence
@@ -290,7 +290,7 @@ The clarification is symmetrical. APS does not make the converse inference that 
 - Explanatory Priority
 - Scale
 
-## Develops Into
+### Develops Into
 
 - comparative biological explanation;
 - explanatory gain;
@@ -298,20 +298,20 @@ The clarification is symmetrical. APS does not make the converse inference that 
 - clarification of emergence and mechanism;
 - analysis of hierarchy and explanatory extent.
 
-## Related Explanatory Questions
+### Related Explanatory Questions
 
 - When is a mechanistic explanation sufficient for a biological explanandum?
 - When do organisational relations add explanatory content not captured by decomposition?
 - Why does explanatory priority not establish ontological priority?
 - When does a broader spatial or temporal extent make an explanatory difference?
 
-## Position within APS
+### Position within APS
 
 APS is not an anti-reductionist ontology opposed to mechanistic biology. It is a comparative explanatory methodology that asks what organisation is relevant to a specified biological explanandum and whether making that organisation explicit produces explanatory gain relative to the relevant comparator.
 
 Within that methodology, Agency, Process, and Scale remain analytic projections of one viability-oriented, constraint-closed organisation rather than independent components or causal domains. This article gives particular attention to Scale because disputes about reductionism are often expressed through levels, bottom-up and top-down causation, and explanatory extent. Scale does not replace those levels with another ontology. It identifies the spatial and temporal extent required by the explanandum.
 
-# Conclusion
+## Conclusion
 
 Reductionism identifies something indispensable about biology: living systems are materially constituted, and understanding their components and mechanisms is fundamental to biological science. APS accepts that material grounding completely.
 
@@ -323,6 +323,6 @@ Scale has an equally bounded role. It identifies the spatial and temporal extent
 
 The resulting position preserves the achievements of mechanistic biology while resisting both explanatory reduction by assumption and organisational superiority by assumption. What matters is explanatory adequacy for the biological target.
 
-# Key Point
+## Key Point
 
 **Material constitution does not determine explanatory sufficiency. Mechanistic explanation may be sufficient for one biological explanandum, while another may require additional organisational relations. APS asks which materially realised relations make an explanatory difference to the target and whether including them adds to what the relevant comparator already explains.**
