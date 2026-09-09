@@ -4608,14 +4608,17 @@ references:
     verifiedDate: 2026-09-08
 - id: kearney-haber-2026-common-ancestry-process-ontology
   type: journal-article
-  authors: Kearney, M., Haber, M. H.
-  year: 2026
   title: "Common Ancestry, Contemporary Phylogenetics, and Process Ontology"
-  journal: "Systematic Biology"
-  articleNumber: "syag053"
+  authors: Kearney, M., & Haber, M. H.
+  year: 2026
+  journal: Systematic Biology
   doi: "10.1093/sysbio/syag053"
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-09
 - id: bourrat-barron-2026-agency-goal-directedness-levels
-  type: article
+  type: journal-article
   title: "Agency, goal directedness, and the levels of biological organization"
   authors: Bourrat, P., & Barron, A. B.
   year: 2026
@@ -4627,4 +4630,18 @@ references:
   verification:
     status: verified
     authority: Oxford University Press
+    verifiedDate: 2026-09-09
+- id: nadolski-moczek-2023-agency-evo-devo
+  type: journal-article
+  title: "Promises and limits of an agency perspective in evolutionary developmental biology"
+  authors: Nadolski, E. M., & Moczek, A. P.
+  year: 2023
+  journal: Evolution & Development
+  volume: "25"
+  issue: "6"
+  pages: "371–392"
+  doi: "10.1111/ede.12432"
+  verification:
+    status: verified
+    authority: Wiley
     verifiedDate: 2026-09-09

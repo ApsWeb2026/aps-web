@@ -6,253 +6,288 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-06-15
+revised: 2026-09-09
 cluster: conceptual-foundations
 role: synthesis
 
 abstract: >
-  Agency has re-emerged as a central concept in contemporary theoretical
-  biology. Increasingly, biologists and philosophers argue that living
-  organisms are not passive products of physical processes but active
-  participants in their own persistence, development, and evolution.
-  This article surveys major agency-oriented approaches in contemporary
-  biology, including organism-centred evolution, biological autonomy,
-  developmental agency, and process-based biology. It then explains how
-  the APS framework relates to these approaches while differing from
-  them. APS agrees that agency is fundamental to life, but argues that
-  agency is not merely a property of living systems. Rather, agency is
-  the defining activity through which viability-oriented organised
-  persistence is maintained across time.
+  Agency has become increasingly prominent across contemporary theoretical
+  biology, but shared agency-related vocabulary does not establish a unified
+  explanatory tradition. Organism-centred evolution, biological autonomy,
+  organismic biology, developmental plasticity, evolutionary developmental
+  biology, and process biology differ in their explanatory targets, criteria
+  for agency attribution, causal commitments, and intended explanatory
+  contributions. APS compares these approaches target by target rather than
+  treating conceptual convergence as explanatory equivalence. Biological
+  agency is viability-oriented organisational activity, but warranted agency
+  attribution does not by itself establish explanatory gain. The contribution
+  of Agency must therefore be assessed relative to a specified explanandum
+  and the strongest relevant comparator.
+
+keyPoints:
+  - Contemporary biological approaches increasingly emphasise organismal activity, but they do not thereby constitute a single theory of Agency.
+  - Shared vocabulary does not establish shared explanatory commitments, and different terminology does not necessarily establish substantive disagreement.
+  - APS defines biological agency as viability-oriented organisational activity.
+  - Agency attribution must be distinguished from participation in agency, explanatory Scale, and explanatory gain.
+  - Organism-centred evolution, autonomy theory, organismic biology, developmental plasticity, evo-devo, and process biology provide different comparator classes.
+  - Processuality, developmental responsiveness, organisational closure, and evolutionary consequence do not by themselves establish biological Agency.
+  - Explanatory differences must be assessed at matched targets against the strongest relevant comparator, and the explanatory gain from Agency may be null.
 
 relatedGlossaryTerms:
   - biological-agency
-  - viability
   - organised-persistence
-  - evaluation
-  - normativity
-  - organism
+  - biological-organisation
+  - viability
   - autonomy
   - process
+  - scale
   - evolution
 
 relatedArticles:
+  - biological-agency-as-the-activity-of-self-maintenance
   - agency-as-the-defining-activity-of-life
-  - aps-and-contemporary-theories
-  - evolution
-  - from-viability-to-normativity
-  - organism-individual-agent-distinction
-  - reframing-biology-how-aps-reorganises-core-concepts
+  - biological-agency-without-intentions
+  - agency-and-organised-persistence
+  - biological-agency-evolution-and-the-architecture-of-biological-explanation
 
 references:
-  - id: rosslenbroich2024
-    authors: "Rosslenbroich, B.; Kümmell, S.; Bembé, B."
-    year: 2024
-    title: "Agency as an Inherent Property of Living Organisms"
-    journal: Biological Theory
-    volume: "19(4)"
-    pages: "224–236"
-    doi: "10.1007/s13752-024-00471-7"
-
-  - id: walsh2015
-    authors: "Walsh, D. M."
-    year: 2015
-    title: "Organisms, Agency, and Evolution"
-    publisher: Cambridge University Press
-
-  - id: moreno2009
-    authors: "Moreno, A.; Mossio, M."
-    year: 2009
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: Springer
-
-  - id: sultan2015
-    authors: "Sultan, S. E."
-    year: 2015
-    title: "Organism and Environment: Ecological Development, Niche Construction, and Adaptation"
-    publisher: Oxford University Press
-
-  - id: moczek2023
-    authors: "Moczek, A. P."
-    year: 2023
-    title: "The Nature and Nurture of Evolution"
-    publisher: Princeton University Press
-
-  - id: nicholson2018
-    authors: "Nicholson, D. J.; Dupré, J."
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: Oxford University Press
-
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "Biological Functions: A Pragmatic Naturalist Account"
-    publisher: Cambridge University Press
-
-  - id: spencer2026
-    authors: "Spencer, R. D."
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: Biological Theory
-    doi: "10.1007/s13752-026-00547-6"
+  - spencer-2026-agency-defining-activity-life
+  - walsh-2015-organism-agency
+  - moreno-mossio-2015-biological-autonomy
+  - rosslenbroich-kuemmell-bembe-2024-agency-inherent-property-living-organisms
+  - sultan-2015-organism-environment
+  - nadolski-moczek-2023-agency-evo-devo
+  - nicholson-dupre-2018-everything-flows
 ---
 
-## Agency in Contemporary Biology
+## Introduction
 
-For much of the twentieth century, mainstream biology largely portrayed organisms as products of underlying mechanisms. Genes, biochemical pathways, developmental programs, and selective pressures were treated as the primary explanatory factors, while organisms themselves often appeared as the outcomes of processes operating upon them. Although this perspective generated enormous scientific advances, it also produced a recurring concern: living systems seemed increasingly described as passive objects rather than active participants in their own existence.
+Agency has become increasingly prominent across contemporary theoretical biology. Organism-centred approaches to evolution, theories of biological autonomy, organismic biology, developmental plasticity, evolutionary developmental biology, and process-oriented philosophy all give renewed explanatory importance to the activities of living systems. Organisms are increasingly treated not merely as outcomes of genetic, developmental, environmental, and evolutionary processes but as active participants in biological organisation.
 
-Over the last several decades, a growing number of biologists and philosophers of biology have challenged this picture. Across diverse research traditions, scholars have argued that living systems cannot be adequately understood unless their own activities are placed at the centre of explanation. Organisms do not merely undergo development, adaptation, and evolution. They actively regulate, modify, construct, and maintain the conditions under which these processes occur.
+That convergence is important, but it must be interpreted carefully. The recurrence of agency-related vocabulary does not establish that these approaches share a single concept of Agency, address the same explananda, attribute agency according to the same criteria, or expect agency to perform the same explanatory work. Some approaches explicitly theorise biological agency. Others emphasise autonomy, organismal activity, developmental responsiveness, environmental modification, or processual organisation without making Agency itself their primary explanatory category.
 
-This broad movement has become one of the most significant developments in contemporary theoretical biology. Although the approaches involved differ substantially, they share a common conviction: living systems are agents rather than passive products of physical and evolutionary forces.
+APS therefore approaches contemporary Agency research comparatively rather than treating it as a unified theoretical movement. Its central question is:
 
-APS emerges within this intellectual context. Like many contemporary agency-oriented approaches, APS argues that agency is fundamental to life. However, APS also proposes a distinctive explanatory architecture. Rather than treating agency as simply one characteristic among others, APS argues that agency is the defining activity through which living systems maintain viability-oriented organised persistence across time.
+**What explanatory work does Agency, or a closely related emphasis on organismal activity, perform in different contemporary biological approaches, and how does APS compare with those uses?**
 
-## The Return of Agency
+APS defines **biological agency as viability-oriented organisational activity** (Spencer 2026). This definition supplies a criterion for Agency attribution, but attribution is only the beginning of explanatory assessment. A candidate may instantiate Agency without Agency terminology adding anything to the strongest available explanation of a particular phenomenon. Contemporary approaches must therefore be compared at matched explanatory targets.
 
-The reappearance of agency within biology reflects several converging developments. Research in evolutionary theory increasingly emphasises the active role organisms play in shaping evolutionary outcomes, while developmental biology has highlighted the importance of organism–environment interactions throughout ontogeny. Studies of niche construction, developmental plasticity, ecological feedback, and behavioural modification have shown that organisms frequently influence the very conditions under which selection occurs. The picture that emerges is one in which organisms are not merely shaped by environments but also participate in shaping them.
+## Where This Article Fits
 
-At the same time, philosophers of biology have increasingly questioned explanatory frameworks that portray organisms primarily as collections of mechanisms. Process-oriented approaches have emphasised continuity, activity, and organisation, while autonomy theories have focused on the self-maintaining character of living systems. Although these traditions employ different conceptual vocabularies and often pursue different explanatory objectives, they converge upon a shared concern that biological explanation becomes incomplete when the active contribution of living systems disappears from view.
+This article closes the foundational APS Agency sequence by placing the canonical account of biological Agency in controlled comparison with contemporary biological approaches.
 
-The result has been what may reasonably be described as an emerging agency tradition within contemporary biology. This tradition does not constitute a single unified theory. Rather, it consists of several overlapping research programs that approach biological activity from different directions while converging on the recognition that living systems are intrinsically active organisations whose own activities contribute to their persistence, development, and evolutionary transformation.
+The Agency anchor establishes what biological Agency is and the conditions under which its attribution is warranted. The associated clarification and extension articles distinguish Agency from intention, explain its relationship to organised persistence, and delimit its relationship to evolutionary explanation. This article does not redefine those results. It asks how they compare with contemporary programmes that explicitly invoke Agency or place explanatory emphasis on organismal activity, autonomy, development, evolution, or process.
 
-## What Biologists Mean by Agency
+Its role is therefore comparative rather than foundational. Shared terminology is not treated as evidence of a common theory, and conceptual difference is not treated as evidence of explanatory superiority. The relevant question is what each approach is trying to explain and whether explicit analysis under Agency makes an additional explanatory difference.
 
-The term *agency* often generates confusion because it is frequently associated with human psychology, conscious decision-making, or intentional behaviour. In contemporary theoretical biology, however, agency is generally understood in a broader and more fundamental sense. Agency need not imply consciousness, deliberation, symbolic thought, representation, or reflective awareness. Instead, agency refers to the capacity of a system to generate activities that contribute to the maintenance, regulation, or continuation of its own organisation.
+## 1. Agency and the Return of the Active Organism
 
-This broader conception has emerged because many biological phenomena appear difficult to explain without recognising that living systems actively regulate themselves in relation to changing circumstances. Cells maintain internal conditions despite environmental fluctuations, organisms modify behaviour in response to opportunities and threats, and ecological systems are continually reshaped by the activities of the organisms that inhabit them. In each case, the relevant activities contribute to the continuation of organised biological processes rather than merely reflecting externally imposed causes.
+A broad change in contemporary biological thought has been the renewed emphasis on the active organism. Organisms regulate internal conditions, modify environments, respond developmentally to changing circumstances, alter behavioural and ecological relations, and sometimes change conditions relevant to their own evolutionary trajectories. Such phenomena make strongly passive portrayals of organisms increasingly difficult to sustain.
 
-At its most general, biological agency involves the generation of activity from within the organisation itself, the regulation of that activity in relation to changing conditions, and the maintenance of conditions supportive of continued existence. These features are closely related rather than independent. Activity becomes biologically significant because it contributes to regulation, and regulation becomes biologically significant because it contributes to continued viability. Agency therefore concerns not simply movement or responsiveness but organised activity directed toward the preservation of conditions necessary for ongoing existence.
+But the **active organism** is a broader category than **biological Agency**. Activity alone does not determine whether a candidate system is an agent. Nor does causal contribution, behavioural responsiveness, developmental plasticity, or participation in a wider living organisation.
 
-For this reason, many contemporary agency-oriented theories argue that agency exists in forms that precede cognition and that provide the organisational foundations from which cognition later emerges. Rather than treating agency as an exclusively psychological phenomenon, these approaches increasingly treat agency as a fundamental biological phenomenon. The central question is no longer whether living systems exhibit agency, but how agency should be understood, explained, and integrated into biological theory.
+For APS, the attribution question is more specific: **does the candidate system itself instantiate viability-oriented organisational activity?** A component may participate in the Agency of a wider organism without thereby constituting an independent agent. Likewise, activity distributed across spatial or temporal extents does not establish agents at every extent involved.
 
-## Multiple Pathways Toward Agency
+The return of the active organism therefore provides an important context for contemporary Agency research, but not a single criterion of Agency.
 
-One of the most striking features of contemporary theoretical biology is that several largely independent research traditions have converged upon agency-oriented conclusions. Researchers working in evolutionary theory, developmental biology, autonomy theory, process philosophy of biology, and organism-centred approaches often employ different conceptual frameworks and address different scientific problems. Nevertheless, each tradition has encountered explanatory limitations in accounts that treat organisms as passive outcomes of underlying processes.
+## 2. Organism-Centred Evolution
 
-As a result, agency has reappeared under multiple names and within multiple theoretical contexts. In some cases it is discussed as organismal activity, in others as autonomy, self-maintenance, developmental regulation, niche construction, or processual organisation. Despite these differences, a common theme runs through much of the contemporary literature: living systems participate in the production and maintenance of the very conditions under which they persist.
+Organism-centred approaches to evolution provide one important comparator. Walsh (2015), for example, places the organism and its activities more centrally within evolutionary explanation. Organisms engage with environments, modify conditions, develop, behave, and contribute materially to circumstances relevant to evolutionary outcomes.
 
-The significance of this convergence should not be overstated. Important disagreements remain concerning the nature of agency, its relationship to autonomy, its role in evolution, and the explanatory status it should possess within biology. Yet the convergence itself is noteworthy because it suggests that agency is not merely a local concern within a single research tradition. Rather, it increasingly appears as a recurring theme emerging across multiple domains of biological inquiry.
+APS can recognise the importance of these activities without treating Agency as an additional evolutionary mechanism. The fact that an organism acts does not mean that Agency competes with selection, inheritance, developmental processes, population structure, or other established evolutionary dependencies.
 
-The remainder of this article examines several of the most influential strands within this emerging agency tradition before considering how APS relates to, synthesises, and extends these developments.
+Two questions must therefore remain distinct. First, is the relevant present-tense activity genuinely agential? Second, does describing or analysing it explicitly under Agency improve the explanation of the specified evolutionary outcome?
 
-## Organism-Centred Evolution and Agency
+An activity can be agential while contributing little to a particular evolutionary explanandum. Conversely, organismal activity can materially affect evolutionary outcomes while the strongest evolutionary explanation already captures the relevant dependency without requiring Agency terminology.
 
-One of the most influential attempts to restore agency to biology has emerged from organism-centred approaches to evolution. These approaches challenge the view that organisms are merely passive vehicles through which genes are transmitted or passive recipients of selective pressures imposed by external environments. Instead, organisms are understood as active participants whose activities contribute to shaping the evolutionary trajectories they subsequently experience.
+Organism-centred evolution and APS therefore overlap around the explanatory importance of living activity, but the extent of that convergence must be determined target by target.
 
-The most systematic development of this perspective is found in the work of Denis Walsh. Walsh argues that evolutionary explanation becomes distorted when organisms are reduced to the outcomes of genetic programs and environmental forces. Organisms do not simply occupy environments; they actively engage with, modify, exploit, and transform them. Behavioural choices, developmental activities, ecological interactions, and environmental modifications all contribute to shaping the selective conditions under which future evolutionary change occurs. Evolution therefore cannot be adequately understood as a process acting upon passive entities because the organisms undergoing evolution simultaneously participate in producing the conditions that influence evolutionary outcomes.
+## 3. Biological Autonomy and Organisational Closure
 
-This perspective represents an important corrective to strongly gene-centred interpretations of evolution. It restores the organism to the centre of evolutionary explanation and emphasises the reciprocal relationship between organisms and their environments. Evolution becomes not merely a process of external selection but a historical process in which living systems actively participate.
+Theories of biological autonomy provide a different comparator. Moreno and Mossio (2015) explain living organisation through networks of mutually dependent constraints and the organisational closure through which those constraints contribute to maintaining the conditions of the system's continued existence.
 
-APS shares much with this organism-centred perspective. APS likewise rejects the portrayal of organisms as passive products of evolutionary forces and emphasises the active role living systems play in shaping their own developmental, ecological, and evolutionary circumstances. However, APS differs in the explanatory foundations it provides for this activity. Whereas organism-centred evolutionary theory begins with active organisms and explores the consequences of their activities for evolutionary processes, APS seeks to explain why organisms exhibit such activity in the first place. Agency is not introduced primarily as a feature of evolutionary participation. Rather, agency arises because living systems must continually maintain the conditions of their own viability. Organismal activity therefore appears not simply as an evolutionary factor but as an expression of viability-oriented organised persistence.
+This approach is particularly close to APS in its emphasis on organisation, self-maintenance, and the distinctive causal organisation of living systems. Yet conceptual proximity should not be mistaken for identity.
 
-## Biological Autonomy and Organisational Closure
+APS defines **Life as viability-oriented, constraint-closed organisation** and **biological Agency as viability-oriented organisational activity**. The distinction matters. Organisational closure helps specify the organisation characteristic of living systems; Agency identifies what that living organisation does in maintaining and re-establishing conditions of viability.
 
-A second major pathway toward agency has emerged through theories of biological autonomy. These approaches seek to explain what distinguishes living systems from other organised physical systems by focusing on the organisational relationships through which living systems maintain themselves.
+This does not make APS a deeper explanation than autonomy theory, nor does it establish that Agency terminology will improve every organisational explanation. For a specified explanandum, an autonomy account may already identify the relevant organisational dependencies adequately. The comparative question is whether explicit analysis under Agency reveals an additional dependency or explanatory distinction that matters for that target.
 
-The most influential account within this tradition has been developed by Alvaro Moreno and Matteo Mossio. Their work emphasises the concept of organisational closure, according to which living systems consist of networks of mutually dependent constraints that collectively contribute to the maintenance of the organisation that produces them. Within such systems, biological activities are not externally imposed upon an otherwise passive structure. Rather, the organisation continually participates in generating and sustaining the conditions required for its own continued existence.
+## 4. Agency as a Characteristic of Living Organisms
 
-Autonomy theories therefore place self-maintenance at the centre of biological explanation. Living systems are understood as organisations that continually regenerate the very conditions that allow them to persist. This perspective provides a powerful account of biological individuality, organisational continuity, and the distinctive causal organisation characteristic of living systems. It also helps explain why biological systems exhibit forms of normativity that appear absent from most non-living systems. Because the organisation depends upon the continued maintenance of specific conditions, some processes become beneficial, others harmful, and still others destructive with respect to the persistence of the system.
+Rosslenbroich and colleagues provide a more direct Agency comparator by arguing that agency is an inherent property of living organisms. Their account shares with APS the rejection of strongly passive conceptions of life and the view that biological agency need not depend upon sophisticated cognition.
 
-APS shares substantial common ground with autonomy theory. Both frameworks reject purely mechanistic descriptions of living systems and emphasise organisation, continuity, and self-maintenance. Both regard living systems as active organisations rather than passive collections of components. In many respects, APS may be viewed as participating in the same broader movement away from reductionist conceptions of life.
+The difference is nevertheless substantive. APS does not characterise Agency as an inherent property possessed simply in virtue of being alive. It defines Agency as **viability-oriented organisational activity**. The emphasis is therefore on what living organisation is doing rather than on Agency as a property attached to an organism.
 
-At the same time, APS places greater emphasis on viability-oriented activity itself. Autonomy theory primarily seeks to explain how living systems achieve organisational self-maintenance through networks of mutually supporting constraints. APS asks a closely related but slightly different question: what is the defining activity through which such maintenance occurs? The APS answer is agency. Viability is not simply a consequence of organisational closure. Rather, viability is actively maintained through continual evaluative regulation directed toward preserving organised persistence. APS therefore places agency more explicitly at the centre of biological explanation while retaining many of the organisational insights developed within autonomy theory.
+This distinction also constrains attribution. Hierarchical position, complexity, spatial extent, causal importance, or participation in a living system cannot by themselves establish an independent agent. The candidate organisation must instantiate the relevant viability-oriented activity.
 
-## Developmental Agency and Organismic Biology
+Rosslenbroich and colleagues therefore provide a genuine point of comparison because both approaches make Agency biologically fundamental while differing in how its status is formulated and attributed.
 
-A particularly important contribution to the contemporary agency tradition has been made by Bernd Rosslenbroich and colleagues through their defence of organismic biology and developmental agency. Their work begins from the observation that living organisms exhibit forms of intrinsic activity that cannot be adequately captured by descriptions portraying them as passive products of genes, mechanisms, or environmental influences. Organisms actively regulate their development, modify their behaviour, and contribute to shaping their own futures.
+## 5. Developmental Plasticity and the Active Organism
 
-Rosslenbroich argues that agency should be regarded as an inherent property of living organisms. From this perspective, agency is not a late evolutionary achievement confined to complex nervous systems or sophisticated cognition. Rather, agency characterises living systems from their most basic forms onward. The activities through which organisms regulate development, maintain organisation, and interact with environments already exhibit fundamental forms of agency long before cognition emerges in more specialised forms.
+Developmental plasticity provides a different route to the active organism. Sultan (2015) shows how development depends upon ongoing relations among organism, environment, developmental history, and ecological circumstance. Organisms do not simply execute internally specified programmes; developmental outcomes can depend upon environmentally responsive activity and changing organism–environment relations.
 
-One of the strengths of this approach is its attempt to identify a continuum of agency extending across biological organisation. Agency appears not as an all-or-nothing property but as a phenomenon capable of developing increasingly complex forms. Basic organismic agency can therefore be understood as providing the foundation upon which more elaborate forms of behavioural flexibility, learning, planning, and cognition eventually emerge. This perspective helps integrate developmental biology, evolution, and organismal activity within a common conceptual framework.
+These findings are important for Agency, but developmental responsiveness should not automatically be classified as Agency. A developmental response can be mechanistically specified, environmentally induced, or functionally consequential without the responding process itself constituting an independent agent.
 
-APS is closely aligned with many of these conclusions. Both frameworks reject passive conceptions of living systems. Both regard agency as fundamental rather than peripheral to biological organisation. Both argue that agency precedes cognition and provides the basis from which more sophisticated forms of cognition can develop.
+APS therefore asks what organisation instantiates the activity, how that activity is related to viability, and whether the Agency attribution belongs to the organism, a subsystem, or neither independently.
 
-The principal difference lies in explanatory architecture. Rosslenbroich begins with living organisms and argues that agency is an inherent property of those organisms. APS begins at a deeper organisational level by asking what makes living systems possible as coherent entities in the first place. Its answer is viability-oriented organised persistence. Agency emerges within APS not simply because organisms possess it, but because maintaining viability across time requires continual regulation, evaluation, and adaptive activity. Agency therefore appears not merely as an inherent property of life but as the defining activity through which living organisation persists.
+Developmental plasticity can consequently provide evidence relevant to biological Agency without becoming synonymous with Agency. Its explanatory contribution must first be established in developmental terms and only then assessed for any additional gain from Agency analysis.
 
-## Developmental Systems, Plasticity, and Organism–Environment Relations
+## 6. Development, Agency, and Evolution
 
-A further route toward agency has emerged through developmental systems approaches and related work on developmental plasticity, ecological development, and organism–environment interaction. Researchers such as Sonia Sultan and Armin Moczek have demonstrated that development cannot be adequately understood as the unfolding of internally specified genetic instructions. Development instead emerges through ongoing interactions among organisms, environments, ecological conditions, and developmental processes.
+Evolutionary developmental biology makes the comparison still more explicit. Nadolski and Moczek (2023) examine both the promises and the limits of adopting an agency perspective within evolutionary developmental biology, making their analysis a particularly useful comparator for the explanatory role of Agency.
 
-Within these perspectives, organisms actively participate in their own development. Developmental outcomes frequently depend upon environmental conditions, behavioural activities, ecological interactions, and developmental responses that cannot be reduced to genetic causes alone. Organisms therefore contribute to the construction of their own developmental trajectories through continual engagement with their surroundings.
+The relevant claims must nevertheless be separated. Developmental activity may instantiate present-tense Agency. Such activity may also alter developmental, ecological, or environmental conditions. Some of those changes may in turn affect dependencies relevant to evolutionary outcomes. These are related possibilities, but they are not the same claim.
 
-This work has significantly expanded biological understanding of plasticity, niche construction, developmental responsiveness, and evolutionary innovation. It has also weakened traditional dichotomies separating organism and environment. Development increasingly appears as a relational process in which organisms and environments co-produce one another through ongoing interaction.
+APS therefore distinguishes **Agency attribution**, **material evolutionary consequence**, and **explanatory gain**. Establishing the first does not establish the second, and establishing both does not establish the third.
 
-APS strongly agrees with these conclusions. Indeed, APS treats organism–environment coupling as one of the central features of living organisation. Organisms do not persist independently of their environments, nor are environments merely external contexts acting upon passive systems. Rather, viability emerges through ongoing interactions that continually reshape both organism and environment. Development therefore becomes one expression of the broader process through which living systems maintain organised persistence across changing conditions.
+This prevents Agency from becoming an unspecified additional evolutionary cause. It also prevents evolutionary consequence from being treated as proof that an Agency vocabulary provides a better explanation. The connection must be shown through the materially realised dependencies relevant to the specified explanandum.
 
-Nevertheless, APS seeks to integrate these insights within a more general explanatory framework. Developmental plasticity, environmental responsiveness, and niche construction are not treated as isolated biological phenomena. Instead, they are interpreted as particular manifestations of viability-oriented agency operating across developmental and evolutionary timescales. The significance of these phenomena therefore derives from their contribution to the maintenance and transformation of organised persistence rather than from development alone.
+## 7. Process Biology
 
-## Process Biology and the Primacy of Activity
+Process-oriented philosophy of biology provides another important but conceptually different comparator. Nicholson and Dupré (2018) emphasise the processual character of living systems: organisms persist through continual activity, material turnover, development, interaction, and transformation rather than through static material identity.
 
-Another influential strand within the contemporary agency tradition has emerged through process-oriented philosophy of biology. Process approaches challenge the tendency to treat organisms as stable objects possessing fixed identities. Instead, organisms are understood as ongoing processes whose continuity depends upon continual activity and transformation.
+APS can recognise the explanatory importance of this processual orientation without identifying processuality with Agency. Something can be dynamic, temporally extended, or processual without being an agent.
 
-The most influential articulation of this perspective is found in the work of Daniel Nicholson and John Dupré. Their processual view of biology emphasises that living systems persist despite continual material turnover, developmental change, ecological interaction, and evolutionary transformation. Organisms maintain continuity not because they remain materially identical through time but because organisational processes continue despite continual change.
+Within APS, **Process** is the analytic projection concerned with how continuity is maintained despite change. **Agency** is the analytic projection concerned with what living systems do as viability-oriented organisational activity. They are complementary analytic projections of one living organisation rather than interchangeable descriptions.
 
-This emphasis on process has important implications for understanding agency. If organisms are fundamentally processes rather than static objects, then activity is not something added to an already existing entity. Activity becomes constitutive of what the organism is. Living systems persist only because the processes that constitute them continue to occur.
+APS therefore does not infer Agency from processuality, nor does it require process ontology in order to recognise the biological importance of processes. The comparative question remains which explanatory target is being addressed and what difference the relevant conceptual commitment makes to its explanation.
 
-APS shares substantial common ground with process biology and may be understood as extending several of its central insights. APS likewise rejects substance-based accounts of life and emphasises continuity through organised activity rather than material permanence. Living systems are understood as processes sustained across time rather than objects possessing fixed essences.
+## 8. One Agency Tradition or Several Overlapping Approaches?
 
-APS differs, however, in seeking to specify the organisational character of those processes more precisely. Process alone does not explain why some activities contribute to persistence while others contribute to breakdown. APS argues that the key organising principle is viability. Living processes are not merely ongoing; they are organised around maintaining the conditions required for continued persistence. Agency therefore acquires a specific explanatory role. It becomes the activity through which viability-oriented organisation regulates itself across changing circumstances. In this way APS incorporates processual insights while providing a more explicit account of why biological processes exhibit the organised, evaluative, and normative characteristics associated with life.
+The contemporary literature supports a renewed and significant interest in organismal activity, autonomy, development, process, and Agency. It does not follow that these approaches constitute a single explanatory tradition.
 
-## APS and the Emerging Agency Tradition
+Their targets differ. Organism-centred evolutionary approaches may ask how organismal activity matters to evolutionary change. Autonomy theory may ask how living organisation maintains itself. Organismic approaches may defend Agency as characteristic of living organisms. Developmental approaches may analyse plasticity and organism–environment relations. Evo-devo may ask whether Agency contributes to understanding developmental and evolutionary transformation. Process biology may reconsider the metaphysical or explanatory status of organisms and processes.
 
-The diverse approaches examined above differ in their concepts, explanatory aims, and theoretical commitments. Organism-centred evolutionary theory emphasises the active role organisms play in shaping evolutionary trajectories. Autonomy theory focuses on organisational closure and self-maintaining systems. Developmental agency highlights the intrinsic activity of organisms throughout development and evolution. Developmental systems approaches emphasise the co-production of organisms and environments, while process biology foregrounds continuity through ongoing activity and transformation.
+These projects overlap, but overlap is not identity.
 
-Despite their differences, these traditions converge upon a common conclusion. Living systems cannot be adequately understood as passive products of physical forces, genetic programs, or environmental influences. Across contemporary biology, organisms increasingly appear as active participants in the processes through which they persist, develop, and evolve.
+**Shared vocabulary does not establish shared explanatory commitments.**
 
-APS emerges within this broader intellectual movement and shares many of its central commitments. APS agrees that agency is fundamental to life. It agrees that living systems actively contribute to the maintenance of their own organisation. It agrees that agency precedes cognition, that organism–environment relations are constitutive rather than incidental, and that biological explanation must account for the activities through which living systems sustain themselves across time.
+Likewise, different terminology does not necessarily establish substantive disagreement. Two programmes may describe the same materially realised dependency in different conceptual vocabularies. Conversely, two programmes may both use the term *agency* while attributing it differently or expecting it to perform different explanatory work.
 
-At the same time, APS seeks to provide a more integrated explanatory architecture capable of connecting these insights within a single framework. Rather than beginning with organisms, autonomy, development, evolution, or process, APS begins with the problem of persistence itself. The central question is not simply why organisms exhibit agency, but why agency is required for living systems to exist as coherent entities at all.
+Convergence and divergence must therefore be assessed claim by claim and target by target.
 
-APS argues that living systems are distinguished by viability-oriented organised persistence. Unlike many non-living systems, living systems must continually maintain the conditions necessary for their own continued existence. Persistence is therefore not passively inherited from physical structure but actively achieved through ongoing regulation. Viability becomes the central organisational problem confronting every living system because failure to maintain viability results in the loss of the organisation itself.
+## 9. Where APS Converges
 
-Agency emerges within this framework as the activity through which viability is maintained. Living systems must continually generate, regulate, and modify their activities in relation to changing circumstances because the conditions supporting persistence are never permanently secured. Agency therefore appears neither as a secondary characteristic nor as a specialised capacity possessed only by complex organisms. It is the ongoing activity through which living systems preserve the organisational conditions required for continued existence.
+APS converges with much contemporary Agency-related biology in rejecting portrayals of organisms as merely passive outcomes of external causes. Living systems act, regulate, maintain, modify, and reorganise themselves in relation to conditions bearing upon their continued functioning.
 
-This perspective allows APS to connect agency to a broader explanatory sequence that extends beyond many existing agency theories. Because viability must be maintained, living systems must continually evaluate conditions as supportive, neutral, or threatening with respect to persistence. Evaluation therefore emerges directly from viability-oriented activity. Normativity subsequently emerges because some states, activities, and outcomes become better or worse relative to the maintenance of viability. Functions, malfunctions, purposes, and biological meanings can then be understood as consequences of this underlying organisational structure.
+APS also converges with organisational approaches in treating self-maintenance and biological organisation as central, with developmental approaches in recognising the importance of organism–environment relations, and with process-oriented approaches in recognising that biological continuity is maintained through change rather than static material identity.
 
-Within APS, the relationship among these concepts may be represented schematically:
+It also rejects the restriction of biological Agency to cognition, deliberation, representation, or conscious intention. Agency can be biologically genuine before those capacities arise.
 
-```text
-Organised Persistence
-          ↓
-Viability
-          ↓
-Agency
-          ↓
-Evaluation
-          ↓
-Normativity
-```
+These points of convergence are substantial. They do not establish that the frameworks are theoretically identical or that one subsumes the others.
 
-This sequence does not describe separate layers added onto one another. Rather, it describes increasingly explicit aspects of the same underlying organisation. Organised persistence generates the problem of viability. Viability requires agency. Agency entails evaluation. Evaluation generates normativity. Each element emerges from the organisational requirements established by the preceding one.
+## 10. Where APS Differs
 
-## Agency as the Defining Activity of Life
+APS differs principally in the architecture through which these questions are separated.
 
-The most significant difference between APS and many other agency-oriented approaches concerns the status assigned to agency itself. Most contemporary agency theories argue that living systems possess agency or that agency is an inherent property of organisms. APS accepts these claims but argues that they do not go far enough.
+**Life is viability-oriented, constraint-closed organisation.**
 
-To say that organisms possess agency leaves open the question of why agency is present. Agency may then appear as one characteristic among many that living systems happen to exhibit. APS instead argues that agency occupies a more fundamental explanatory position. Living systems are not merely entities that possess agency. They are entities whose continued existence depends upon agency.
+**Biological agency is viability-oriented organisational activity.**
 
-From this perspective, agency is not best understood as an attribute added to an already existing organism. Rather, agency is part of the ongoing activity through which the organism exists as a viable organisation. The persistence of living systems depends upon continual regulation, adaptation, repair, compensation, and reorganisation in response to changing conditions. Without such activity, viability deteriorates and organised persistence ceases.
+Agency therefore identifies what living systems do. Process asks how continuity is maintained despite change. Scale asks where persistence relevant to an explanandum is organised across spatial and temporal extents.
 
-This shift in emphasis has important implications. Agency becomes neither a specialised capacity nor a supplementary characteristic. It becomes constitutive of living organisation itself. The defining activity of life is therefore not metabolism, reproduction, information processing, adaptation, or any other isolated biological phenomenon. These activities acquire their significance because they contribute, directly or indirectly, to viability-oriented agency and the maintenance of organised persistence.
+Agency, Process, and Scale are **analytic projections rather than components of reality**. They are not independent causes, levels, or entities, and their distinction does not imply that every biological explanation must employ all three.
 
-APS therefore reframes the relationship between life and agency. Rather than beginning with life and asking whether living systems possess agency, APS begins with agency as the activity through which organised persistence is maintained and asks how living systems emerge from that activity. In this sense, agency becomes not simply a feature of life but a central explanatory principle for understanding what life is.
+This architecture also separates Agency attribution from explanatory success. A system can satisfy the APS criterion for biological Agency while a particular explanandum receives no additional explanatory benefit from being redescribed in agential terms.
 
-## Diagnostic Consequences
+That possibility is methodologically important because it makes Agency assessable rather than automatically privileged.
 
-One of the distinctive consequences of the APS framework concerns the empirical investigation of life. Many theories identify agency as theoretically important but provide limited guidance regarding how agency might be recognised in unfamiliar systems. This limitation becomes particularly significant when addressing questions concerning minimal life, artificial systems, synthetic organisms, or potential extraterrestrial life.
+## 11. The Explanatory-Gain Test
 
-APS approaches this problem by linking agency to viability-oriented organisation. If agency is the activity through which viability is maintained, then agency can be investigated by examining how systems respond to perturbations that threaten organisational continuity. The question becomes not merely whether a system exhibits activity, but whether that activity contributes to preserving the conditions required for continued persistence.
+Comparison among contemporary Agency approaches requires more than identifying similarities and differences. It requires a matched explanatory target.
 
-This perspective supports a diagnostic framework centred on perturbation, reorganisation, continuity analysis, and viability assessment. Systems exhibiting viability-oriented responses to changing conditions may therefore provide stronger evidence of biological organisation than systems displaying activity alone. In this way APS attempts to transform agency from a primarily conceptual category into an empirically tractable object of investigation.
+For each comparison, the relevant questions are:
 
-The significance of this move extends beyond diagnosis. By connecting agency to observable organisational responses, APS provides a pathway through which theoretical claims about life may be subjected to empirical scrutiny. Agency becomes not only a philosophical concept but also a potential target for biological investigation.
+1. What is the explanandum?
+2. To what candidate system is Agency attributed?
+3. What explanatory role is Agency expected to perform?
+4. Through what materially realised organisation or dependency is that role implemented?
+5. What is the strongest relevant comparator?
+6. Does explicit Agency analysis produce explanatory gain?
+
+The controlling APS question is:
+
+**For this specified explanandum, what does explicit Agency analysis explain that the strongest relevant non-agential or differently agential comparator does not already explain?**
+
+Several outcomes are possible. Agency may identify a dependency omitted by the comparator. It may complement an otherwise adequate explanation. It may make no additional explanatory difference. Or the comparator may explain the target more effectively without Agency terminology.
+
+A null result is therefore legitimate. Agency is not vindicated merely because the candidate organism is genuinely active or because an Agency description is biologically intelligible.
+
+## 12. What Contemporary Agency Research Establishes
+
+Contemporary research establishes that organismal activity has become an increasingly important explanatory concern across several areas of biology and philosophy of biology. It also establishes that Agency can no longer be treated simply as a synonym for human intention or conscious choice.
+
+What it does not yet establish is a single unified Agency theory.
+
+The more defensible picture is a plural explanatory landscape in which different programmes investigate related but non-identical targets. Some explicitly theorise Agency. Some investigate organisational autonomy. Some emphasise developmental or evolutionary activity. Some provide processual accounts of living continuity.
+
+APS contributes to this landscape by supplying a precise criterion for biological Agency and by separating that criterion from the question of explanatory gain.
+
+The resulting comparative sequence is:
+
+**target → agency attribution → explanatory role → material implementation → comparator → explanatory gain**
+
+This is an audit sequence, not a causal or ontological sequence. Its purpose is to prevent shared terminology, conceptual affinity, or genuine biological activity from being mistaken for demonstrated explanatory advantage.
 
 ## Conclusion
 
-The re-emergence of agency within contemporary biology represents one of the most important theoretical developments of recent decades. Across organism-centred evolution, autonomy theory, developmental biology, developmental systems approaches, and process philosophy of biology, researchers have increasingly recognised that living systems cannot be adequately understood as passive outcomes of underlying forces. Organisms actively participate in the processes through which they persist, develop, and evolve.
+The renewed importance of Agency in contemporary biology is real, but it is better understood as a plural field of overlapping explanatory concerns than as a single unified theoretical tradition.
 
-APS belongs within this emerging agency tradition and shares many of its central insights. Like these approaches, APS rejects passive conceptions of life and emphasises the active role organisms play in maintaining themselves across time. Yet APS also seeks to integrate these insights within a broader explanatory framework centred on viability-oriented organised persistence.
+Organism-centred evolution, biological autonomy, organismic biology, developmental plasticity, evolutionary developmental biology, and process biology each restore forms of organismal activity or organisation to explanatory prominence. They do so for different targets and with different conceptual commitments.
 
-By grounding agency in the problem of viability, connecting agency to evaluation and normativity, and linking agency to diagnostic investigation, APS extends the contemporary agency tradition beyond the recognition that organisms are active. It seeks to explain why such activity is necessary, how it emerges from the requirements of persistence, and how it can be investigated empirically.
+APS shares important concerns with these approaches while maintaining a more specific distinction between Life, Agency, Process, and Scale. Biological Agency is viability-oriented organisational activity, but its legitimate attribution does not guarantee that it improves a particular explanation.
 
-The result is a framework in which agency is not merely an inherent property of living systems but the defining activity through which living organisation persists. From this perspective, understanding life requires understanding the viability-oriented activities through which living systems continually sustain themselves in a changing world.
+Contemporary Agency research should therefore be compared at matched targets and against the strongest relevant alternatives.
+
+**Shared vocabulary is not yet shared explanation. Conceptual convergence is not yet explanatory convergence. And explanatory difference is not yet explanatory gain.**
+
+## Explanatory Architecture
+
+### Central Question
+
+How should contemporary biological uses of Agency be compared when programmes may share agency-related vocabulary while differing in explanatory target, attribution criteria, causal commitments, and intended explanatory contribution?
+
+### Architectural Role
+
+This article is a Synthesis article within the Conceptual Foundations cluster. It applies the canonical APS account of biological Agency comparatively across contemporary biological approaches without redefining Agency or treating those approaches as a single theoretical tradition.
+
+### Comparator Classes
+
+The article distinguishes four broad comparator classes:
+
+- **direct Agency comparators**, which explicitly theorise biological agency;
+- **organisational comparators**, which explain autonomy, closure, or self-maintenance;
+- **Agency-adjacent comparators**, which emphasise organismal activity, development, plasticity, or evolutionary participation without necessarily making Agency their primary explanatory category; and
+- **conceptual comparators**, such as process-oriented approaches, whose commitments overlap with aspects of APS without constituting Agency theories.
+
+### Convergence Condition
+
+Convergence is established only where approaches make sufficiently similar claims about a matched explanatory target. Shared terminology or broad emphasis on organismal activity is insufficient.
+
+### Divergence Condition
+
+Divergence is established only where approaches differ substantively in attribution, explanatory role, material dependency, or explanatory consequence for a matched target. Different terminology alone is insufficient.
+
+### Agency-Attribution Condition
+
+Agency attribution requires that the candidate system instantiate viability-oriented organisational activity. Participation in a wider living organisation, causal importance, complexity, spatial extent, or hierarchical position does not independently establish Agency.
+
+### Evolutionary Boundary
+
+Present-tense Agency and historical evolutionary transformation remain distinguishable explanatory dependencies. Agency is not an additional evolutionary mechanism, and evolution is not Agency extended through time.
+
+### Process Boundary
+
+Processuality does not establish Agency. Process asks how continuity is maintained despite change; Agency asks what living systems do as viability-oriented organisational activity.
+
+### Explanatory-Gain Condition
+
+The explanatory contribution of Agency is assessed relative to a specified explanandum and the strongest relevant comparator:
+
+**For this specified explanandum, what does explicit Agency analysis explain that the strongest relevant non-agential or differently agential comparator does not already explain?**
+
+The answer may be that it explains nothing additional.
+
+### Corpus Significance
+
+This article completes the foundational APS Agency sequence by moving from definition, boundary conditions, organised persistence, and the Agency–evolution interface to controlled comparison with contemporary biological approaches. It establishes neither a unified Agency tradition nor APS superiority. Its contribution is methodological: contemporary Agency claims must be compared at matched targets, with Agency attribution separated from explanatory gain.

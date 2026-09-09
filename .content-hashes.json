@@ -200,18 +200,18 @@
     "lockedSince": "2026-05-26"
   },
   "articles/agency-and-organised-persistence": {
-    "hash": "caf5ab0368343d60",
-    "revised": "2026-09-06",
+    "hash": "39192140fe3cb07d",
+    "revised": "2026-09-09",
     "lockedSince": "2026-06-14"
   },
   "articles/agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework": {
-    "hash": "73670ca712e4cd39",
-    "revised": "2026-06-15",
+    "hash": "318fbc1d16a38232",
+    "revised": "2026-09-09",
     "lockedSince": "2026-06-13"
   },
   "articles/biological-agency-without-intentions": {
-    "hash": "12ca384d565b39b0",
-    "revised": "2026-06-15",
+    "hash": "0a533e06452412cf",
+    "revised": "2026-09-09",
     "lockedSince": "2026-05-03"
   },
   "articles/analysis-synthesis-and-the-direction-of-explanation": {
@@ -1920,8 +1920,8 @@
     "lockedSince": "2026-04-27"
   },
   "articles/agency-as-the-defining-activity-of-life": {
-    "hash": "8348252e3dc8d43f",
-    "revised": "2026-08-26",
+    "hash": "d6aa7912ebb442e9",
+    "revised": "2026-09-09",
     "lockedSince": "2026-04-08"
   },
   "articles/what-is-biology-trying-to-explain": {
@@ -1993,5 +1993,10 @@
     "hash": "8c36ee58e4b566e5",
     "revised": "2026-09-06",
     "lockedSince": "2026-09-05"
+  },
+  "articles/biological-agency-evolution-and-the-architecture-of-biological-explanation": {
+    "hash": "567ff1cee50ff7c1",
+    "revised": "2026-09-09",
+    "lockedSince": "2026-04-09"
   }
 }
