@@ -6,35 +6,41 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-06-14
-
+revised: 2026-09-09
 cluster: conceptual-foundations
 
 relatedGlossaryTerms:
   - biological-agency
-  - process
   - viability
-  - persistence
+  - organised-persistence
+  - process
+  - scale
 
 relatedArticles:
-  - biological-agency-the-activity-of-self-maintenance
+  - biological-agency-as-the-activity-of-self-maintenance
   - agency-as-the-defining-activity-of-life
-  - agency-in-contemporary-biology
-  - process-the-dynamics-of-living-organisation
+  - biological-agency-without-intentions
+  - agency-and-organised-persistence
+  - agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework
+  - process-the-dynamics-of-living-biological-organisation
 ---
 
-Many discussions of agency treat it as a property that organisms possess. From this perspective, agency appears analogous to characteristics such as size, mass, or complexity, and the central question becomes whether a particular system has agency and, if so, how much.
+Many discussions of agency treat it as a property that organisms possess. From this perspective, agency can appear analogous to characteristics such as size, complexity, or behavioural capacity, and the central question becomes whether a particular system *has* agency and, if so, how much.
 
-APS rejects this interpretation.
+APS takes a different approach.
 
-Biological agency is not primarily something an organism *has*. It is something an organism *does*.
+Biological agency is not primarily something a living system **has**. It is something a living system **does**.
 
-Living systems persist only through ongoing activity. Nutrients are acquired and transformed, internal conditions are regulated, damaged structures are repaired, and environmental changes are accommodated. These activities are not optional additions to life. They are the means through which life continues to exist.
+**Biological agency is viability-oriented organisational activity.**
 
-For this reason, agency should be understood as an activity of self-maintenance rather than as a static property. An organism remains an agent because it continuously contributes to preserving the conditions required for its own viability. When this viability-maintaining activity permanently ceases, agency disappears even if many structural features temporarily remain intact.
+Living systems persist through continuing activity. Resources are acquired and transformed, internal conditions are regulated, damage is repaired, organisation is renewed, and changing environmental conditions are accommodated. These activities differ among organisms and mechanisms, but they contribute to the continuing maintenance and re-establishment of conditions required for viability.
 
-This distinction helps explain why agency is fundamentally processual. Living systems are not agents because they possess a special substance, mechanism, or internal faculty. They are agents because they actively participate in maintaining their own organised persistence through time.
+Agency should therefore be understood as activity rather than as a static property or internal faculty. Living organisation is continually enacted through activity that maintains and re-establishes conditions of its own persistence. When that viability-oriented organisation irreversibly ceases, biological agency has ceased even though some structures, processes, or components may temporarily remain.
 
-**APS Principle:** Biological agency is not a property possessed by living systems. It is the ongoing activity through which living systems maintain the conditions of their own persistence.
----
-**See also:** biological agency, process, viability, persistence
+This does not mean that every component or process contributing to self-maintenance is itself an agent. A molecular process, regulatory constraint, cell, tissue, or other subsystem may participate in the organisation through which agency is enacted without thereby constituting an independently attributable agent. Agency attribution requires asking whether the candidate system itself instantiates viability-oriented organisation through activity that maintains or re-establishes conditions of its own persistence.
+
+Nor does agency attribution depend upon assigning a candidate to a particular hierarchical level or spatial extent. Scale asks where persistence relevant to the explanandum is organised across spatial and temporal extents; it does not determine where agents occur.
+
+**APS Principle:** Biological agency is not a property possessed by living systems. It is viability-oriented organisational activity through which living systems maintain and re-establish conditions of their own persistence.
+
+**Attribution guardrail:** Participation in the organisation through which agency is enacted does not by itself establish an independent biological agent.

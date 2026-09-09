@@ -13,23 +13,23 @@ role: anchor
 
 abstract: >
   Biological agency is one of biology's most widely used yet least consistently
-  defined concepts. This article develops the APS account of biological agency
-  as viability-oriented organisational activity: the present-tense activity
-  through which living systems maintain and re-establish the conditions of
-  their own organised persistence. Agency is understood as self-maintaining
-  organisational activity rather than behaviour, cognition, intention,
-  conscious choice, or a property assigned according to hierarchical level.
-  The article also clarifies the conditions under which agency should be
-  attributed to biological organisation, distinguishing an agent that enacts
-  viability-oriented organisation from components, processes, and constraints
-  that participate in the organisation through which agency is realised.
-  Scale does not determine where agents exist; it identifies the spatial and
-  temporal extent across which the organisation relevant to an explanandum
-  must be followed. This account connects agency with viability, organised
-  persistence, function, normativity, constraint closure, Process, Scale, and
-  biological explanation while requiring the explanatory value of agency
-  attribution to be assessed against the target and available comparator
-  explanations.
+  defined concepts. APS defines biological agency as viability-oriented
+  organisational activity: the present-tense activity through which living
+  systems maintain and re-establish the conditions of their own organised
+  persistence. Agency is therefore distinguished from behaviour, cognition,
+  intention, conscious choice, and attribution based upon hierarchical level.
+  Not every component, subsystem, or organisational extent participating in
+  living activity thereby constitutes an independent agent; agency attribution
+  requires viability-oriented organisation instantiated by the candidate
+  system. Scale addresses the spatial and temporal extent across which
+  persistence relevant to an explanandum is organised rather than identifying
+  levels at which agents occur. Even warranted agency attribution does not
+  guarantee explanatory gain: the explanatory contribution of Agency must be
+  assessed relative to the specified target and strongest relevant comparator.
+  This account establishes Agency as the APS analytic projection concerned with
+  what living systems do while connecting self-maintenance, viability,
+  organised persistence, function, normativity, constraint closure, Process,
+  Scale, and biological explanation.
 
 keyPoints:
   - Biological agency is viability-oriented organisational activity.
@@ -190,23 +190,6 @@ This distinction clarifies why persistence can itself become a biological explan
 Agency and organised persistence are consequently closely related without being conceptually identical. Agency identifies the present-tense viability-oriented organisational activity through which living systems maintain and re-establish the conditions of their persistence. Organised persistence identifies the continuity of organisation that this activity helps sustain through change. Distinguishing them allows APS to ask separately what living systems do and what continuity that activity maintains.
 
 This relationship is central to the explanatory architecture of APS, but it does not make Agency a substitute for the mechanisms investigated across biology. Mechanistic, physiological, developmental, ecological, and other explanations identify the processes and relations through which particular biological phenomena occur. Agency becomes explanatorily relevant when the explanandum concerns how such activity contributes to maintaining or re-establishing viability-oriented organisation.
-
-<div class="aps-diagram aps-diagram-large">
-
-<a href="/assets/diagrams/agency-self-maintenance.png" target="_blank" rel="noopener">
-  <img
-    src="/assets/diagrams/agency-self-maintenance.png"
-    alt="APS diagram showing biological agency as self-maintaining activity linking biological organisation, viability, and organised persistence."
-    loading="lazy"
-  />
-</a>
-
-<p class="aps-diagram-caption">
-<strong>Agency, Self-Maintenance, and Organised Persistence.</strong>
-Biological agency is viability-oriented organisational activity through which living systems maintain and re-establish conditions relevant to their own persistence. Self-maintaining activity sustains viability, while organised persistence identifies the continuity of organisation maintained through change.
-</p>
-
-</div>
 
 The relationship between Agency and organised persistence also raises a question about explanatory extent. The organisation relevant to agency may depend upon materially realised relations extending beyond an initially selected boundary. APS addresses this through Scale.
 
