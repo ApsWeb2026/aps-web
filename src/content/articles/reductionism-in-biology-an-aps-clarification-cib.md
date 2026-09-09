@@ -140,6 +140,14 @@ references:
 
 ## Introduction
 
+## Where This Article Fits
+
+*This article is one of a series of APS clarifications that distinguish the framework from familiar explanatory positions in biology. These articles examine reductionism, holism, organicism, emergence, computation, intelligence, teleology, and related approaches not in order to define APS by opposition, but to clarify differences in explanatory target, architecture, and commitment.*
+
+*The present article addresses reductionism specifically. It distinguishes material constitution from explanatory sufficiency while preserving the legitimate explanatory role of mechanism and decomposition. Other clarification articles examine neighbouring distinctions from different explanatory starting points.*
+
+*Together, these articles locate APS as a comparative explanatory methodology rather than as a competing doctrine that must replace existing biological explanations. The relevant question is not which label an explanation carries, but what it explains, what relations it requires, and whether a different explanatory architecture produces demonstrable gain for the specified biological target.*
+
 Reductionism has earned its place in modern biology through genuine explanatory success. Molecular analysis, mechanistic decomposition, biochemical investigation, genetics, physiology, and increasingly sophisticated forms of modelling have transformed biological understanding. They have revealed mechanisms that could not have been discovered by treating organisms as undifferentiated wholes, and they remain indispensable to contemporary biological science.
 
 APS has no reason to diminish those achievements. It accepts material realism and the explanatory power of decomposition. The philosophical problem begins only when success in identifying material components and mechanisms is taken to establish a more general rule about explanatory sufficiency. To say that a living system is wholly realised through physical and chemical processes is a claim about material constitution. It does not yet determine which relations must be represented to explain a particular biological phenomenon.

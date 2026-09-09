@@ -45,9 +45,16 @@ references:
   - bich-ruiz-mirazo-moreno-2016-regulation
   - machamer-darden-craver-2000-mechanisms
   - bich-bechtel-2021-mechanism-autonomy-explanation
+  - kearney-haber-2026-common-ancestry-process-ontology
 ---
 
 ## Introduction
+
+**Where This Article Fits**
+
+*This article provides the core APS account of **Process**, the analytic projection concerned with how continuity is maintained, reorganised, or re-established despite change. It develops the dynamic dimension of organised persistence while distinguishing Process from the materially realised biological processes through which living organisation is maintained.*
+
+*APS therefore shares important explanatory concerns with processual approaches to biology without requiring process ontology as its metaphysical foundation. Process is an analytic projection rather than a claim that living systems are fundamentally processes, just as Agency and Scale are analytic projections rather than independent components or levels of biological reality. The article establishes this distinction for subsequent APS treatments of development, repair, regeneration, evolution, temporal organisation, and other cases in which continuity through change becomes an explanatory target.*
 
 Biological systems are often described in terms of structure: cells, tissues, organs, and networks. Processes may then be described as events or activities occurring within or between these structures.
 
@@ -64,6 +71,8 @@ In conventional usage, a process may be understood as a sequence of events or ac
 That usage remains legitimate. Biological processes such as metabolism, repair, development, physiological regulation, and signalling are materially realised activities with particular mechanisms and consequences.
 
 Processual approaches to biology go further. They have argued that metabolic turnover, life cycles, ecological interdependence, and other features of living systems motivate understanding biological entities themselves as processes rather than enduring substances (Dupré & Nicholson 2018). Questions of biological identity and persistence have consequently become central to process ontology (DiFrisco 2018).
+
+Recent work extends this processual orientation directly into phylogenetic theory. Kearney and Haber (2026) argue that contemporary phylogeny is better understood as a multidimensional processual system comprising spatial, temporal, and hierarchical dimensions and interacting lineage histories rather than as a single absolute history. They accordingly propose process ontology as a foundation for contemporary phylogenetics. APS can recognise the explanatory importance of historically extended, changing lineage organisation without requiring that stronger ontological conclusion.
 
 APS introduces a related but distinct analytic question. **Process asks how continuity is maintained, reorganised, or re-established despite change.**
 

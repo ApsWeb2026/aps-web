@@ -4606,3 +4606,13 @@ references:
     status: verified
     authority: Columbia University Press
     verifiedDate: 2026-09-08
+- id: kearney-haber-2026-common-ancestry-process-ontology
+  type: journal-article
+  authors:
+    - Kearney, Maureen
+    - Haber, Matthew H.
+  year: 2026
+  title: "Common Ancestry, Contemporary Phylogenetics, and Process Ontology"
+  journal: "Systematic Biology"
+  articleNumber: "syag053"
+  doi: "10.1093/sysbio/syag053"
