@@ -4608,11 +4608,23 @@ references:
     verifiedDate: 2026-09-08
 - id: kearney-haber-2026-common-ancestry-process-ontology
   type: journal-article
-  authors:
-    - Kearney, Maureen
-    - Haber, Matthew H.
+  authors: Kearney, M., Haber, M. H.
   year: 2026
   title: "Common Ancestry, Contemporary Phylogenetics, and Process Ontology"
   journal: "Systematic Biology"
   articleNumber: "syag053"
   doi: "10.1093/sysbio/syag053"
+- id: bourrat-barron-2026-agency-goal-directedness-levels
+  type: article
+  title: "Agency, goal directedness, and the levels of biological organization"
+  authors: Bourrat, P., & Barron, A. B.
+  year: 2026
+  journal: BioScience
+  volume: "76"
+  issue: "8"
+  pages: "744–752"
+  doi: "10.1093/biosci/biag030"
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-09
