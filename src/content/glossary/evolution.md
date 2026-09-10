@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-07-28
+revised: 2026-09-10
 cluster: evolutionary-dynamics
 
 definition: >
@@ -103,7 +103,7 @@ Evolution is commonly defined as change in gene frequencies within populations o
 
 This framework provides powerful tools for modelling evolutionary change, but it often leaves implicit the organisational conditions that make such change biologically possible.
 
-APS therefore treats statistical evolutionary processes as organisationally dependent rather than explanatorily foundational.
+APS examines how established evolutionary processes operate through and transform living organisation; this organisational framing does not replace or subordinate established evolutionary mechanisms and explanatory targets.
 
 ## The APS Reframing
 
@@ -154,7 +154,7 @@ Evolution historically extends and transforms such adaptive organisation across 
 
 Evolution is therefore inseparable from agency, process, and scale. Historical transformation occurs only through ongoing viability-oriented activity coordinated across interacting temporal and spatial domains.
 
-APS consequently treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than independent explanatory categories.
+APS treats Agency, Process and Scale as complementary analytic projections of one viability-oriented living organisation.
 
 ## Evolution and Development
 
@@ -224,7 +224,7 @@ APS consequently treats evolutionary transformation as distributed across intera
 
 ## Evolution and Normativity
 
-Evolution is intrinsically normative because living systems persist under conditions where organisation can succeed or fail relative to viability constraints.
+Within APS, viability-relative asymmetries are relevant to evolutionary organisation insofar as biological transformations support or undermine the conditions of organised persistence.
 
 Some transformations stabilise persistence, while others undermine the conditions required for continued viability.
 

@@ -8,7 +8,7 @@ inBrief: "Function is the viability-relative contribution of structures or proce
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-07-28
+revised: 2026-09-10
 cluster: conceptual-foundations
 
 seeAlso:
@@ -139,7 +139,7 @@ APS consequently distinguishes:
 - **viability**, which specifies the conditions under which organised persistence can succeed or fail;
 - from **function**, which refers to the contribution particular structures or processes make relative to those viability conditions.
 
-This distinction is foundational for the explanatory structure of APS.
+This distinction forms part of the APS conceptual architecture for analysing biological function.
 
 ## Function and Normativity
 
@@ -147,7 +147,7 @@ Normativity grounds functional evaluation.
 
 Because biological organisation is viability-oriented, the activity of components can be evaluated relative to their contribution to persistence.
 
-Function therefore explains why biological systems exhibit:
+Within APS, the function concept organises these contrasts in relation to their contributions to viability-oriented persistence:
 - success and failure;
 - regulation and dysfunction;
 - repair and compensation;
@@ -161,7 +161,7 @@ Malfunction becomes intelligible because living systems persist under normative 
 
 Function in APS is therefore inseparable from agency, process, and scale. Functional contributions matter only within ongoing viability-oriented organisation coordinated across interacting temporal and spatial domains.
 
-For this reason APS treats agency, process, and scale as mutually constraining dimensions of a single explanatory grammar rather than as independent explanatory categories.
+APS treats Agency, Process and Scale as complementary analytic projections of one viability-oriented living organisation.
 
 ## Function and Biological Organisation
 
