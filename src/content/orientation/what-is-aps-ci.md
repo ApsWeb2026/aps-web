@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-01
+revised: 2026-09-10
 cluster: conceptual-foundations
 abstract: >
   APS is an integrative analytic framework for theoretical biology. It investigates
@@ -18,9 +18,11 @@ abstract: >
   Agency, Process, and Scale provide complementary analytic projections through
   which living organisation can be investigated without treating them as components,
   levels, or independent causes.
+
 relatedArticles:
   - understanding-aps-the-structure-of-the-framework
   - the-core-structure-of-aps-how-the-framework-fits-together
+  - what-does-aps-mean-by-an-analytic-projection
   - how-aps-explains-life
   - aps-architecture-map
   - explanatory-geometry-of-biology
@@ -32,6 +34,7 @@ relatedArticles:
   - evolution
   - diagnosis-as-continuity-analysis
   - the-developmental-organisation-of-life
+
 relatedGlossaryTerms:
   - life
   - biological-organisation
@@ -133,7 +136,7 @@ It does so through three complementary **analytic projections**:
 
 - **Scale** — across what spatial and temporal extents, and through what relations among them, persistence is organised
 
-An analytic projection is a way of directing explanatory attention to one aspect of the same organised reality. The distinction belongs to the analysis, not to the living system itself. Agency, Process, and Scale are therefore not components of life, separate causes, successive stages, or hierarchical levels. The activities, processes, constraints, and spatial and temporal relations they disclose are biologically real; their separation into Agency, Process, and Scale is an explanatory device.
+An analytic projection is a distinct explanatory way of investigating one materially realised living organisation. It brings particular relations into explanatory focus without implying that the organisation itself is divided into corresponding independent components, causes, levels, or domains. The distinction among Agency, Process, and Scale therefore belongs to explanatory analysis, while the activities, processes, constraints, dependencies, and spatial and temporal relations investigated through them are biologically real. The philosophical status of this distinction is developed in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/).
 
 This distinction matters because the same biological phenomenon can raise different questions. A response to environmental change may be investigated in terms of what the living system does, how organisational continuity is maintained while conditions change, or which spatial and temporal extents and relations are relevant to explaining the response. These questions differ without requiring three different biological realities.
 
@@ -221,7 +224,7 @@ Organised persistence can provide a candidate target for such comparison. Physio
 
 Agency, Process, and Scale can assist that investigation by directing attention to complementary aspects of the living organisation involved without requiring every biological explanation to employ all three projections. Agency asks what living systems do in relation to viability. Process asks how organisational continuity is maintained despite change. Scale asks which spatial and temporal extents, and which materially implemented relations among them, are relevant to the explanatory problem. The projections do not require every biological explanation to answer all three questions.
 
-APS therefore provides a perspective for investigating relationships among explanatory achievements where those relationships bear upon living organisation. Its claims can be assessed using independently applicable comparative controls: comparison must begin with the strongest established explanations of the phenomena concerned and preserve their explanatory targets, evidence, and scope. These controls are not substantive evidence for APS biology or a uniquely APS invention.
+APS therefore provides an analytic framework for investigating relationships among explanatory achievements where those relationships bear upon living organisation. Its claims can be assessed using independently applicable comparative controls: comparison must begin with the strongest established explanations of the phenomena concerned and preserve their explanatory targets, evidence, and scope. These controls are not substantive evidence for APS biology or a uniquely APS invention.
 
 The resulting integration is conditional rather than compulsory. Where comparison through living organisation or organised persistence reveals relationships, distinctions, unresolved questions, or additional explanatory dependencies, APS may provide explanatory gain. Where it merely redescribes independently successful explanations in APS terminology, no such gain has been established.
 
@@ -377,7 +380,7 @@ This article introduces APS through a sequence of related but distinct explanato
 
 **Continuity:** organised persistence identifies the continuity of living organisation through change. It is therefore distinguished from the definition of Life rather than treated as another name for it.
 
-**Analytic projections:** Agency, Process, and Scale direct explanatory attention to different aspects of the same living organisation. Agency asks what living systems do; Process asks how continuity is maintained despite change; Scale asks across what spatial and temporal extents, and through what materially implemented relations among them, persistence is organised.
+**Analytic projections:** Agency, Process, and Scale direct distinct explanatory questions toward the same living organisation without implying that the organisation itself is divided into corresponding independent aspects or components. Agency asks what living systems do; Process asks how continuity is maintained despite change; Scale asks across what spatial and temporal extents, and through what materially implemented relations among them, persistence is organised. 
 
 **Extension:** APS can investigate how development, ecology, evolution, cognition, repair, resilience, and other biological phenomena bear upon living organisation where that relationship is relevant to the explanatory problem. These domains retain their own explananda, methods, and explanatory resources.
 

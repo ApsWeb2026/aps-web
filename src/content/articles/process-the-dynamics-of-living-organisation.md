@@ -36,6 +36,7 @@ relatedArticles:
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
   - biological-causation-from-mechanism-to-organised-persistence
+  - what-does-aps-mean-by-an-analytic-projection
 
 references:
   - dupre-nicholson-2018-manifesto
@@ -86,7 +87,7 @@ The agreement does not require complete metaphysical agreement.
 
 Contemporary processual philosophy has developed the stronger proposal that living beings should be understood ontologically as processes rather than substances or things (Dupré & Nicholson 2018; Nicholson & Dupré 2018). APS does not require that conclusion in order to use Process analytically.
 
-For APS, the biological facts and the explanatory projection should be distinguished. Material turnover, repair, metabolism, development, regulation, and other biological processes are materially real. **Process**, capitalised as an APS term, is the analytic projection that asks how such activities contribute to continuity despite change.
+For APS, the biological facts and the explanatory projection should be distinguished. Material turnover, repair, metabolism, development, regulation, and other biological processes are materially real. **Process**, capitalised as an APS term, is the analytic projection that asks how such activities contribute to continuity despite change. The philosophical status of this distinction is developed in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/). That article explains how Process can direct an investigator-selected explanatory question toward materially real biological organisation without treating Process as an independent component, cause, or division of that reality.
 
 APS can therefore take the empirical motivations of processual biology seriously while leaving broader questions about process ontology open. Its immediate methodological commitment is narrower: when continuity through change is the explanatory target, biological explanation should identify the materially realised activities and organisational relations through which that continuity is maintained, reorganised, or re-established.
 
@@ -185,7 +186,7 @@ Process is therefore not what happens to life, nor is it a force or activity thr
 
 The distinction is analytic; the biological activities, processes, constraints, interactions, and organisational relations through which continuity is maintained are materially real.
 
-Together with Agency and Scale, Process provides one explanatory perspective on the same viability-oriented, constraint-closed organisation. Which of these perspectives contributes to an explanation depends upon the biological target under investigation.
+TTogether with Agency and Scale, Process provides one analytic projection through which the same viability-oriented, constraint-closed organisation can be investigated. Which of these projections contributes to an explanation depends upon the biological target under investigation.
 
 ## Explanatory Architecture
 
@@ -195,7 +196,7 @@ How is the continuity of living organisation maintained, reorganised, or re-esta
 
 ### Architectural Role
 
-This Core article establishes Process as the APS analytic projection concerned with how continuity is maintained despite change. It distinguishes that explanatory perspective from the materially realised biological activities, processes, constraints, and organisational relations through which continuity is maintained, reorganised, or re-established.
+This Core article establishes Process as the APS analytic projection concerned with how continuity is maintained despite change. It distinguishes that analytic projection from the materially realised biological activities, processes, constraints, and organisational relations through which continuity is maintained, reorganised, or re-established.
 
 ### Builds On
 
@@ -231,7 +232,7 @@ This Core article establishes Process as the APS analytic projection concerned w
 
 Process is one of three complementary analytic projections through which APS investigates viability-oriented, constraint-closed organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents.
 
-These projections are explanatory perspectives on one materially realised living organisation rather than independent components, causes, entities, dimensions, or levels. Their relevance is target-sensitive: APS does not assume that every biological explanation requires all three.
+These are analytic projections directed toward one materially realised living organisation rather than independent components, causes, entities, dimensions, or levels. Their relevance is target-sensitive: APS does not assume that every biological explanation requires all three.
 
 ### Corpus Significance
 

@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-10
-revised: 2026-09-01
+revised: 2026-09-10
 cluster: conceptual-foundations
 
 abstract: >
@@ -299,6 +299,8 @@ The term is deliberately preferred to several plausible alternatives.
 “Analytic projection” therefore preserves two commitments simultaneously:
 
 > **The distinctions are analytic; the organisation they disclose is biologically real.**
+
+The philosophical status of this distinction is examined in greater depth in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/), which explains how an investigator-selected explanatory differentiation can remain materially and empirically constrained without treating Agency, Process, and Scale as independent divisions of biological reality.
 
 Agency, Process, and Scale consequently belong together without being independent things. Agency concerns the viability-oriented organisational activity of living systems. Process concerns the dynamic organisation through which continuity is maintained despite change. Scale concerns the spatial and temporal extents across which persistence is organised.
 

@@ -14,6 +14,7 @@ keyPoints:
   - "Material spatial structure can be constitutive of biological organisation without being identical to Scale as an APS explanatory projection."
   - "Biological organisation is materially realised across spatial and temporal extents, and explanatory claims must be warranted at the extents to which they apply."
   - "Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation rather than independent causes, levels, or components."
+
 relatedGlossaryTerms:
   - scale
   - process
@@ -21,8 +22,11 @@ relatedGlossaryTerms:
   - persistence
   - constraint-closure
   - biological-explanation
+
 relatedArticles:
   - description-explanation-and-definition-in-biology
+  - what-does-aps-mean-by-an-analytic-projection
+
 references:
   - id: hermida-ladyman-2026-spatial-structure-biology
     authors: "Hermida, M.; Ladyman, J. A. C."
@@ -37,7 +41,7 @@ references:
 
 ## Scale — How Life Is Coordinated Across Space and Time
 
-> **Where this article fits:** This Core article establishes the meaning and explanatory role of Scale within APS. Scale asks where persistence is organised across spatial and temporal extents. It does not introduce an additional biological mechanism, causal level, or component of living organisation. Material spatial relations can themselves contribute constitutively to biological organisation; Scale identifies the explanatory perspective from which the spatial and temporal extent of that organisation becomes the target of analysis.
+> **Where this article fits:** This Core article establishes the meaning and explanatory role of Scale within APS. Scale asks where persistence is organised across spatial and temporal extents. It does not introduce an additional biological mechanism, causal level, or component of living organisation. Material spatial relations can themselves contribute constitutively to biological organisation; Material spatial relations can themselves contribute constitutively to biological organisation; Scale provides the analytic projection through which the spatial and temporal extent of that organisation becomes the target of analysis.
 
 ## Introduction
 
@@ -75,7 +79,7 @@ This shifts explanatory attention from a presumed ordering of levels toward the 
 
 <strong>From Hierarchical Levels to Scale Analysis.</strong>
 
-Conventional level descriptions can distinguish molecular, cellular, organismal, ecological, and evolutionary domains, but these labels do not themselves identify causal organisation. APS Scale asks where the organisation relevant to a biological explanandum is materially realised across spatial and temporal extents. Scale is therefore an analytic projection of organised persistence rather than an additional causal layer.
+Conventional level descriptions can distinguish molecular, cellular, organismal, ecological, and evolutionary domains, but these labels do not themselves identify causal organisation. APS Scale asks where the organisation relevant to a biological explanandum is materially realised across spatial and temporal extents. Scale is therefore an analytic projection of living organisation rather than an additional causal layer; organised persistence may be one explanatory target of Scale analysis.
 
 </p>
 
@@ -83,7 +87,7 @@ Conventional level descriptions can distinguish molecular, cellular, organismal,
 
 ## Scale as an Analytic Projection
 
-Scale does not itself organise biological activity; living systems do. Their organisation is materially realised through processes, structures, boundaries, constraints, interactions, and environmental relations extending through space and time. Scale identifies the explanatory perspective from which the extent of that organisation is investigated. This distinction matters because statements such as “Scale coordinates activity” or “causation operates between scales” can inadvertently turn an analytic distinction into a causal entity.
+Scale does not itself organise biological activity; living systems do. Their organisation is materially realised through processes, structures, boundaries, constraints, interactions, and environmental relations extending through space and time. Scale identifies the analytic projection through which the extent of that organisation is investigated. This distinction matters because statements such as “Scale coordinates activity” or “causation operates between scales” can inadvertently turn an analytic distinction into a causal entity. The philosophical status of this distinction is developed in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/). That article explains how Scale can direct an investigator-selected explanatory question toward materially real spatial and temporal organisation without turning Scale itself into a biological level, causal domain, or division of reality.
 
 APS instead asks what materially implemented relations alter the conditions under which local activity occurs, how those relations are maintained, and across what spatial and temporal extents the resulting organisation must be analysed. A physiological process, for example, may depend upon molecular reactions, cellular organisation, tissue architecture, vascular relations, neural regulation, and organism–environment interaction. The explanatory task is not completed by saying that these processes occur at different scales; it requires identifying the organisation through which those materially realised relations contribute to continued functioning.
 

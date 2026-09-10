@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-09-09
+revised: 2026-09-10
 
 cluster: conceptual-foundations
 role: anchor
@@ -64,6 +64,7 @@ relatedArticles:
   - scale-how-life-is-coordinated-across-space-and-time
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - biological-explanation-and-organised-persistence
+  - what-does-aps-mean-by-an-analytic-projection
 
 references:
   - spencer-2026-agency-defining-activity-life
@@ -90,7 +91,7 @@ Within APS, this understanding gives Agency a central analytic role. Living syst
 
 Within APS, Agency is the analytic projection concerned with what living systems do. Biological agency is the present-tense viability-oriented organisational activity through which living organisation is enacted and sustained. It is not an additional characteristic that appears once life already exists, nor an independent cause alongside Process and Scale.
 
-Understanding agency in this way clarifies why living systems possess functions, why biological processes can succeed or fail, why normativity arises within biology, and why biological explanation differs from explanations of non-living systems. Agency provides one analytic perspective through which these phenomena become conceptually connected within APS.
+Understanding agency in this way clarifies why living systems possess functions, why biological processes can succeed or fail, why normativity arises within biology, and why biological explanation differs from explanations of non-living systems. Agency provides one analytic projection through which these phenomena become conceptually connected within APS.
 
 Whereas *Agency as the Defining Activity of Life* introduced the APS rationale for treating Agency as the defining activity of life, the present article develops the APS account of biological agency through self-maintenance, viability, organised persistence, function, normativity, and biological explanation. It also addresses a further question that becomes unavoidable once agency is recognised throughout living organisation: where is attribution of biological agency warranted?
 
@@ -130,6 +131,8 @@ Biologists routinely describe organisms as regulating, repairing, adapting, deve
 This plurality reflects an underlying explanatory question that has not always been explicitly distinguished from the many biological phenomena through which it is expressed. The issue is not whether organisms act, but what kind of activity their actions collectively instantiate. Clarifying biological agency therefore requires identifying the organisational activity common to the diverse processes through which living systems maintain themselves.
 
 Within APS, biological agency is not introduced as an additional biological mechanism, a competing theory, or a replacement for existing explanations. Rather, Agency provides an analytic projection through which activities already investigated across biology can be examined in relation to viability-oriented living organisation. Agency identifies the ongoing activity through which organisms continually sustain the conditions required for their own organised persistence.
+
+The status of Agency as an analytic projection is clarified in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/). That article explains how Agency can concern a materially real feature of living organisation while the distinction between Agency, Process, and Scale belongs to explanatory analysis rather than constituting a division of biological reality.
 
 Clarifying agency in this way also clarifies its relationship to neighbouring biological concepts. Function describes the present contribution of traits and processes to viability. Development investigates the continuing reorganisation of living organisation across an individual life history. Evolution explains the historical transformation of biological organisation across generations. Ecology examines how organisms maintain viability within changing environmental relations. These remain distinct explanatory domains with their own explananda, methods, and evidential requirements. APS does not infer from their relation to living organisation that Agency supersedes their established explanations.
 
@@ -237,7 +240,7 @@ These constraints are themselves maintained, modified, repaired, or replaced thr
 
 Constraint closure describes the organisation through which mutually supporting constraints contribute to maintaining the conditions required for their continued operation. It does not eliminate the need to identify the particular mechanisms, processes, and material relations through which this organisation is realised. Nor should constraint closure be treated as an independently acting cause.
 
-This relationship clarifies the complementary roles of agency and constraint closure within APS. Agency asks what living systems do: they enact viability-oriented organisational activity. Constraint closure characterises the organisation through which relevant constraints are mutually maintained. These descriptions concern the same living organisation from different analytic perspectives rather than identifying separate entities or causal levels.
+This relationship clarifies the complementary roles of agency and constraint closure within APS. Agency asks what living systems do: they enact viability-oriented organisational activity. Constraint closure characterises the organisation through which relevant constraints are mutually maintained. These descriptions concern different explanatory relations within the same living organisation rather than identifying separate entities or causal levels.
 
 Their relationship also clarifies organised persistence. Persistence is not produced by Agency or constraint closure acting as independent causes. It is the continuity of living organisation realised through materially implemented activity and relations. Agency, constraint closure, and organised persistence therefore make different explanatory distinctions within one viability-oriented organisation.
 

@@ -1,12 +1,12 @@
 ---
 date: 2026-07-28
-title: APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility
+title: "APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility"
 slug: aps-as-philosophy-biological-intelligibility
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-08-24
+revised: 2026-09-10
 cluster: philosophy-of-biology
 role: anchor
 
@@ -17,22 +17,24 @@ abstract: >
   life as viability-oriented, constraint-closed organisation, APS examines
   what follows for questions concerning biological reality, explanation,
   agency, continuity, normativity, function, purpose, cognition, and meaning.
-  Agency, Process, and Scale are analytic projections of one living
-  organisation, while organised persistence denotes the continuity of that
-  organisation through material and structural change. This article examines
-  the philosophical commitments of this account without treating APS as a
-  comprehensive philosophical system or assuming that its organisational
-  vocabulary confers explanatory superiority. APS proposals remain subject to
-  comparative assessment against specified explananda and established
-  comparators.
+  Agency, Process, and Scale are complementary analytic projections through
+  which distinct explanatory questions are directed toward materially realised
+  living organisation, rather than independent divisions of biological reality.
+  Organised persistence denotes the continuity of that organisation through
+  material and structural change. This article integrates the philosophical
+  commitments of this account without treating APS as a comprehensive
+  philosophical system or assuming that its organisational vocabulary confers
+  explanatory superiority. APS proposals remain subject to comparative
+  assessment against specified explananda and established comparators.
 
 keyPoints:
   - APS has philosophical commitments and implications without constituting a comprehensive philosophical system.
   - Life is viability-oriented, constraint-closed organisation.
   - Biological agency is viability-oriented organisational activity through which living organisation is enacted and sustained.
   - Organised persistence is the continuity of living organisation through material and structural change.
-  - Agency, Process, and Scale are analytic projections of one living organisation rather than independent dimensions, levels, or causes.
-  - Explanatory grammar can organise questions and make explanatory relations salient without determining explanatory adequacy.
+  - Agency, Process, and Scale are complementary analytic projections through which distinct explanatory questions are directed toward materially realised living organisation rather than independent dimensions, levels, causes, or domains.
+  - Complementarity among Agency, Process, and Scale does not require the three projections to possess identical logical status.
+  - Agency, Process, and Scale provide a bounded, target-sensitive analytic interface; their coherence does not establish universal necessity, sufficiency, unique minimality, or explanatory superiority.
   - Continuity through change is an important APS explanandum but not the universal explanatory centre of biology.
   - APS claims of explanatory contribution remain comparator-relative, and redescription alone does not constitute explanatory gain.
   - The philosophical significance of APS lies in the implications of its biological commitments, not in their automatic explanatory priority.
@@ -49,7 +51,6 @@ relatedGlossaryTerms:
   - biological-explanation
   - process
   - scale
-  - explanatory-grammar
   - continuity
   - function
   - purpose
@@ -78,6 +79,7 @@ relatedArticles:
   - why-life-is-not-computation-an-aps-clarification
   - why-life-is-not-active-inference
   - teleology-in-biology-an-aps-clarification
+  - what-does-aps-mean-by-an-analytic-projection
 
 references:
   - pittendrigh-1958-adaptation-natural-selection-behavior
@@ -93,7 +95,7 @@ references:
   - garson-2016-critical-overview-biological-functions
 ---
 
-> **Where This Article Fits:** *Why Philosophy of Biology Matters* explains why biological inquiry itself repeatedly generates philosophical questions. This article takes the next step. It asks what philosophical commitments and implications follow from the particular organisational account developed by APS. Its concern is therefore not to establish APS as a comprehensive philosophy or philosophy of nature, but to examine what its account of life, organisation, agency, continuity, explanation, normativity, function, and purpose entails philosophically. Those commitments remain subject to the same comparative requirements as other APS explanatory proposals and do not establish explanatory superiority by themselves.
+> **Where This Article Fits:** *Why Philosophy of Biology Matters* explains why biological inquiry itself repeatedly generates philosophical questions. This article takes the next step. It asks what philosophical commitments and implications follow from the particular organisational account developed by APS. Its concern is therefore not to establish APS as a comprehensive philosophy or philosophy of nature, but to examine what follows philosophically from its account of life, organisation, agency, continuity, explanation, normativity, function, purpose, cognition, and biological reality. More specialised APS articles develop particular questions concerning organisational realism and the status of Agency, Process, and Scale as analytic projections. The present article integrates those commitments within the wider philosophical position of APS. Those commitments remain subject to the same comparative requirements as other APS explanatory proposals and do not establish explanatory superiority by themselves.
 
 ## Philosophy Through Biology
 
@@ -121,63 +123,77 @@ APS begins with biological organisation. Living systems are defined as **viabili
 
 The transition from biological formulation to philosophical analysis does not require APS to become a philosophical system. It occurs because biological claims themselves carry commitments. If a living system can retain organisational continuity while its material constituents change, then material sameness cannot by itself account for biological identity. If conditions differ in their consequences for continued organisation, then biological normativity can be investigated through viability-relative asymmetry without requiring conscious judgement. If living organisation is actively maintained, then agency need not be restricted to intentional or deliberative action. Each of these is a philosophical implication of a biological proposal, not a premise imposed upon biology in advance.
 
-Agency, Process, and Scale provide complementary ways of analysing this one organisation. **Agency** concerns what living systems do. **Process** concerns how continuity is maintained despite change. **Scale** concerns where persistence is organised across spatial and temporal extents. These are analytic projections rather than components of reality, causal levels, independent domains, or stages through which life is constructed.
+Agency, Process, and Scale provide three complementary analytic projections through which distinct explanatory questions can be directed toward one materially realised living organisation. **Agency** concerns what living systems do. **Process** concerns how continuity is maintained, reorganised, or re-established despite change. **Scale** concerns where persistence relevant to an explanandum is organised across spatial and temporal extents and through which materially implemented relations.
 
-This distinction matters philosophically. Process does not imply that APS adopts a general process ontology in which processes replace entities as the fundamental constituents of reality. Scale does not imply a hierarchy in which higher levels act upon lower ones. Agency does not introduce a separate causal power added to otherwise non-agentive organisation. Each projection makes a different feature of living organisation available for analysis while referring to the same materially realised biological organisation.
+These projections are not components of reality, causal levels, independent domains, or stages through which life is constructed. Their distinction belongs to explanatory analysis rather than constituting a partition of the biological organisation itself. The activities, constraints, dependencies, processes, and spatial and temporal relations investigated through them are materially real; the differentiation into Agency, Process, and Scale is analytic.
 
-Scale is therefore especially important to distinguish from hierarchical explanation. Biological activity is organised across different spatial and temporal extents, but influence across those extents must be materially implemented. Wider patterns matter when they alter local conditions through constraints, interactions, or other physically realised relations. No wider scale supersedes local causation merely by occupying a broader domain.
+The three projections are also not required to possess identical logical form in order to be complementary. Agency involves a substantive attribution concerning viability-oriented organisational activity. Process directs inquiry toward continuity, reorganisation, and re-establishment through change. Scale directs inquiry toward the spatial and temporal extent over which persistence-relevant organisation and its material dependencies must be followed. Their coherence therefore rests on functional complementarity rather than categorical symmetry.
 
-APS thus acquires philosophical significance through the commitments carried by its biological account. It proposes that living organisation is real, temporally extended, materially implemented, viability-relative, and actively maintained. Whether those commitments provide additional explanatory value in a particular case remains a separate comparative question.
+The philosophical status of this distinction is developed directly in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/). That article examines how Agency, Process, and Scale can function as investigator-selected but materially and empirically constrained explanatory projections without becoming either independent divisions of biological reality or merely arbitrary viewpoints.
+
+Scale is therefore especially important to distinguish from hierarchical explanation. Biological activity is organised across different spatial and temporal extents, but influence across those extents must be materially implemented. Wider patterns matter when they alter local conditions through constraints, interactions, environmental relations, inheritances, or other physically realised dependencies. No wider extent supersedes local causation merely by occupying a broader domain.
+
+APS thus acquires philosophical significance through the commitments carried by its biological account. It proposes that living organisation is materially realised, temporally extended, viability-relative, and actively maintained. Whether those commitments provide additional explanatory value in a particular case remains a separate comparative question.
 
 <div class="diagram-wrapper">
+
   <a href="/assets/diagrams/philosophy-visual3.png" target="_blank" rel="noopener">
+
     <img
       src="/assets/diagrams/philosophy-visual3.png"
       alt="Diagram distinguishing APS biological commitments from their philosophical implications and from comparative explanatory assessment. Life is shown as viability-oriented, constraint-closed organisation, with Agency, Process, and Scale as analytic projections and organised persistence as continuity through change. Philosophical implications include organisational realism, identity, normativity, function, purpose, agency, significance, and cognition, while a separate comparative assessment tests APS explanatory proposals against relevant comparators."
       class="article-diagram"
     />
+
   </a>
 
   <p class="diagram-caption">
+
     <strong>Figure:</strong> APS's account of Life as viability-oriented, constraint-closed organisation carries philosophical implications concerning biological reality, identity, normativity, function, purpose, agency, significance, and cognition. Philosophical clarification makes these commitments explicit but does not establish their explanatory superiority. APS explanatory proposals remain subject to comparative assessment against specified explananda and relevant comparators.
+
   </p>
+
 </div>
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 [[box:description-is-not-explanation]]
 
-## Explanatory Grammar and Biological Intelligibility
+## Explanatory Organisation and Biological Intelligibility
 
-APS uses the idea of **explanatory grammar** to describe the conceptual relations through which an explanatory approach identifies questions, makes particular features salient, and formulates candidate explanations. The term does not imply that biology possesses a single mandatory grammar or that APS determines in advance what counts as an adequate biological explanation.
+APS requires conceptual organisation because biological explanation involves different questions, targets, dependencies, and forms of evidence. Concepts such as organisation, function, adaptation, regulation, development, persistence, viability, mechanism, and evolution do not perform the same explanatory work. Clarifying their relations can therefore improve the formulation of biological questions without determining in advance what an adequate answer must contain.
 
-Biological inquiry uses concepts including organisation, function, adaptation, regulation, development, persistence, viability, mechanism, and evolution because different questions require different explanatory distinctions. APS asks whether some of these concepts can be related more systematically through its account of living organisation. In doing so, it offers a particular explanatory grammar rather than claiming to have discovered the uniquely correct conceptual structure of biology.
+APS contributes to this task through a bounded analytic architecture rather than through a universal explanatory grammar. Agency, Process, and Scale provide distinct ways of investigating living organisation, but their relevance is explanandum-relative. Some biological questions may require only one of these projections; others may make two or three relevant; still others may be adequately answered without explicit APS analysis at all.
 
-This is compatible with the indispensable role of analytical and mechanistic investigation. Components, pathways, structures, mechanisms, and causal interactions can provide complete explanations of appropriately specified biological questions. APS therefore does not assume that an explanation becomes deficient merely because it does not explicitly invoke Agency, Process, Scale, viability, or organised persistence.
+This point matters because conceptual organisation must not be confused with biological explanation itself. The fact that a distinction helps formulate a question does not show that the corresponding analysis identifies a previously unknown dependency, improves prediction, resolves an explanatory deficit, or otherwise adds to an established account. An analytic distinction may be useful while leaving the strongest existing explanation substantively unchanged.
 
-An organisational analysis becomes explanatorily relevant when the explanandum concerns relations that are not exhausted by the component description already available. A physiological mechanism, for example, may explain how a regulatory response is produced. A distinct organisational question may ask how that response contributes to maintaining or re-establishing conditions required for continued functioning. Whether the second account contributes additional explanation depends upon what the comparator already explains.
+A useful order of assessment is therefore to identify the explanatory target, determine which analytic distinctions are relevant to it, establish the materially realised biological relations required by the resulting account, and then assess whether the analysis contributes beyond the strongest relevant comparator. This is an order of inquiry and assessment, not a causal sequence within biological organisation.
 
-Agency, Process, and Scale can help formulate such organisational questions because they disclose different aspects of the same living organisation. Agency directs attention to activity. Process directs attention to continuity through change. Scale directs attention to the spatial and temporal extents across which persistence is organised. Their usefulness is diagnostic and explanatory rather than compulsory: not every biological explanation needs to employ all three projections.
+Agency, Process, and Scale help formulate such questions in different ways. Agency directs inquiry toward viability-oriented organisational activity. Process becomes relevant when continuity, reorganisation, or re-establishment through change forms part of the explanandum. Scale becomes relevant when the spatial and temporal extent of persistence-relevant organisation and its materially implemented dependencies must themselves be established. These questions can be complementary without being compulsory.
 
-Other APS concepts likewise perform distinct functions. Viability identifies asymmetries among conditions with different consequences for continued organisation. Constraint closure concerns the mutual maintenance of constraints involved in sustaining that organisation. Organised persistence denotes the continuity achieved through ongoing transformation. Biological Evaluation concerns the process through which agency generates significance. These concepts can be related without treating them as successive stages or deriving one from another.
+Other APS concepts likewise perform distinct explanatory functions. Viability identifies asymmetries among conditions with different consequences for continued organisation. Constraint closure concerns the mutual maintenance of constraints involved in sustaining that organisation. Organised persistence denotes the continuity of living organisation through ongoing transformation. Biological Evaluation concerns the process through which agency generates significance. These concepts can be related without treating them as successive stages, interchangeable categories, or independent causal entities.
 
-Explanatory grammar therefore provides a way of organising candidate explanatory relations, not a guarantee of explanatory success. An APS formulation earns explanatory significance only when it makes relevant dependencies or distinctions clearer than the established comparator. If it merely renames what is already explained, the result is redescription rather than explanatory gain.
+APS therefore does not claim that the A–P–S triad has been shown to be universally necessary, universally sufficient, uniquely minimal, or inherently superior to alternative conceptual organisations. Its current strength lies in providing a compact and target-sensitive analytic interface through which distinctions that are often conflated can be kept apart and investigated systematically.
+
+The economy of such an interface must itself be assessed. A small number of concepts is not explanatory economy merely because the number is small. A useful analytic architecture must retain adequate contact with biological detail, reduce rather than introduce category confusion, clarify explananda and dependencies, remain portable where appropriate, and permit null results where no additional explanatory contribution is demonstrated.
+
+APS therefore treats its own analytic organisation as assessable rather than self-validating. Where it identifies material dependencies or explanatory distinctions not captured by the strongest relevant comparator, it may provide explanatory gain. Where it clarifies relationships among already established findings without adding substantive explanation, its contribution may be integrative or conceptual. Where it merely renames what is already explained, no explanatory gain has been established.
 
 ## Continuity, Perturbation, and Organised Persistence
 
 Living systems persist while continually changing. Cells and molecular constituents are replaced, physiological states vary, development reorganises structure, behaviour responds to changing conditions, and organism–environment relations shift over time. Yet living organisation can remain sufficiently continuous for the organism to persist as the same living system.
 
-APS uses **organised persistence** to identify this continuity of living organisation through material and structural transformation. The concept does not define Life, which remains viability-oriented, constraint-closed organisation. Nor is organised persistence the explanatory centre to which every biological phenomenon must ultimately be reduced. It identifies an important explanandum: how living organisation continues despite continual change.
+APS uses **organised persistence** to identify this continuity of living organisation through material and structural transformation. The concept does not define Life, which remains viability-oriented, constraint-closed organisation. Nor is organised persistence the explanatory centre to which every biological phenomenon must ultimately be reduced. It identifies an important possible explanandum: how living organisation continues despite continual change.
 
 This problem has philosophical implications because biological identity cannot be equated straightforwardly with material sameness. The material constituents of an organism may change extensively while organisational continuity remains. Conversely, material components may remain present while the organisation required for continued life is irreversibly lost. Biological identity therefore involves relations of organisation and continuity as well as material composition.
 
-Process is relevant here as an analytic projection because continuity is maintained through ongoing activity. Metabolism, regulation, repair, development, and other processes participate in sustaining living organisation across time. This does not make Process a separate ontological principle. It identifies the temporal organisation through which continuity is maintained despite transformation.
+Process can become relevant to such questions because continuity may depend upon ongoing activity. Metabolism, regulation, repair, development, and other processes can participate in maintaining living organisation through change. Process does not thereby become a separate ontological principle or another name for temporal succession. It becomes explanatorily relevant when continuity, reorganisation, or re-establishment through change is itself part of what requires explanation.
 
-Scale adds another analytic question: where is that persistence organised? Some relevant dependencies are spatially local and temporally immediate; others extend across larger spatial arrangements or longer temporal intervals. Their explanatory relevance depends upon their material implementation and their relation to the specified explanandum, not upon occupying a supposedly higher or lower causal level.
+Scale adds a distinguishable question: across what spatial and temporal extents is the persistence-relevant organisation realised, and which materially implemented relations across those extents must be included? Some dependencies may be spatially local and temporally immediate; others may extend across broader arrangements or longer intervals. Their relevance depends upon their material implementation and their relation to the specified explanandum, not upon occupying a supposedly higher or lower causal level.
 
 Development, physiology, ecology, evolution, cognition, and diagnosis can each raise questions concerning continuity, but they should not be treated as different manifestations of a single universal continuity problem. Their established explanations address different phenomena. APS may ask whether organised persistence identifies a further dependency relevant to a particular case, but this contribution must be demonstrated rather than assumed.
 
-Organised persistence is therefore philosophically significant without becoming explanatorily imperial. It draws attention to the continuity of living organisation through change and provides one way of investigating biological identity, persistence, and transformation. Its usefulness depends upon the question being asked.
+Organised persistence is therefore philosophically significant without becoming explanatorily imperial. It draws attention to the continuity of living organisation through change and provides one possible target for investigating biological identity, persistence, and transformation. Its usefulness depends upon the question being asked.
 
 [[box:persistence-is-not-permanence]]
 
@@ -217,23 +233,27 @@ This distinction also clarifies biological agency. **Biological agency is viabil
 
 The philosophical significance of this account is that agency need not be identified with consciousness, deliberation, representation, or reflective intention. Those capacities may occur in particular forms of life, but they are not required for biological agency itself. Agency concerns the activity through which living systems participate in maintaining and re-establishing the conditions of their own persistence.
 
-Constraint closure and agency consequently illuminate different aspects of the same organisation. Constraint closure concerns how constraints required for continued organisation are mutually maintained. Agency concerns the viability-oriented activity through which that organisation is enacted. Viability distinguishes the conditions relative to which that activity is biologically consequential. Organised persistence concerns the continuity of the organisation thereby sustained through change.
+Constraint closure, Agency, viability, and organised persistence therefore identify distinguishable explanatory relations concerning the same living organisation without becoming interchangeable categories. Constraint closure concerns the mutual maintenance of organisational constraints. Agency concerns viability-oriented organisational activity. Viability distinguishes conditions according to their consequences for continued organisation. Organised persistence concerns the continuity of that organisation through change.
 
-These distinctions do not establish that APS explains a biological phenomenon better than an established mechanistic, autonomy-based, evolutionary, developmental, or other account. They specify the relations APS proposes to make explicit. Whether those relations provide additional explanatory value remains a comparative question.
+These distinctions do not establish that APS explains a biological phenomenon better than an established mechanistic, autonomy-based, evolutionary, developmental, or other account. They specify relations APS proposes to make explicit. Whether those relations provide additional explanatory value remains a comparative question.
 
-## Process Philosophy and Organisational Constraint
+## Process, Scale, and Organisational Continuity
 
-APS shares with process-oriented approaches an emphasis on change, activity, and continuity rather than treating living systems as static arrangements of enduring parts. Organisms persist while metabolism, development, repair, regulation, behaviour, and environmental relations continually alter their material and functional states. This makes process philosophically relevant to biological explanation because living continuity must be understood through activity occurring across time, not simply through structural description at an instant (Nicholson and Dupré 2018).
+APS shares with process-oriented approaches an emphasis on change, activity, and continuity rather than treating living systems as static arrangements of enduring parts. Organisms persist while metabolism, development, repair, regulation, behaviour, and environmental relations continually alter their material and functional states. This makes process philosophically relevant to biological explanation because living continuity often requires attention to activity unfolding through time rather than structural description at a single instant (Nicholson and Dupré 2018).
 
-APS does not, however, require a general process ontology in which processes replace entities as the fundamental constituents of reality. Within APS, **Process is an analytic projection of one viability-oriented, constraint-closed organisation**. It concerns how organisational continuity is maintained despite change. The philosophical commitment is therefore narrower: living organisation is dynamically enacted, and temporal continuity is an indispensable feature of understanding how that organisation persists.
+APS does not, however, require a general process ontology in which processes replace entities as the fundamental constituents of reality. Within APS, **Process is the analytic projection concerned with how continuity is maintained, reorganised, or re-established despite change**. Temporal extension is a material condition of living organisation, but temporal succession by itself does not make an explanation a Process analysis. Process becomes relevant when continuity through transformation forms part of the explanandum.
 
-Constraint is central to this account because biological activity is not unrestricted change. Living processes occur within relations that channel, enable, restrict, and coordinate what can happen. Constraint closure identifies the organisation through which relevant constraints are themselves generated, maintained, or renewed through the processes they help regulate (Moreno and Mossio 2015). This provides one way of understanding how biological organisation can remain dynamically stable without being materially static.
+Constraint is important to many such explanations because biological activity is not unrestricted change. Living processes occur within relations that channel, enable, restrict, and coordinate what can happen. Constraint closure identifies the organisation through which relevant constraints are themselves generated, maintained, or renewed through the processes they help regulate (Moreno and Mossio 2015). This provides one way of understanding how biological organisation can remain dynamically organised without being materially static.
 
-Process and constraint therefore disclose complementary features of the same organisation. Process concerns continuity through transformation; constraint closure concerns the mutual maintenance of constraints through which that organisation remains possible. Neither should be elevated into a complete ontology of life, and neither establishes explanatory priority over mechanistic, developmental, evolutionary, or other biological explanations.
+Process and constraint closure therefore identify different explanatory relations concerning living organisation. Process asks how continuity is maintained or re-established through change; constraint closure concerns the organisation through which relevant constraints are mutually maintained. Neither should be elevated into a complete ontology of life, and neither establishes explanatory priority over mechanistic, developmental, evolutionary, or other biological explanations.
 
-This also clarifies the relation between process and Scale. Biological processes can extend across different spatial and temporal extents, but this does not require a hierarchy of causal levels. Wider organisational relations influence local activity only where those relations are materially implemented through constraints, interactions, boundary conditions, or other changes to local conditions. Scale therefore concerns where persistence is organised, not the existence of higher domains exercising causal authority over lower ones.
+Scale raises a different but complementary question. Biological organisation is materially realised across spatial and temporal extents, but Scale is not another name for space, size, duration, or hierarchy. It asks across which extents persistence relevant to an explanandum is organised and which materially implemented relations must be followed to explain it.
 
-APS consequently shares important concerns with process philosophy while retaining a specifically biological explanatory commitment. Living organisation is active, temporally extended, and materially realised. Whether describing a phenomenon in those terms contributes additional explanation remains dependent on the explanandum and the relevant comparator.
+This distinction prevents spatial or temporal extension from being reified as causal authority. Wider organisational relations influence local activity only where those relations are materially implemented through constraints, interactions, boundary conditions, environmental relations, inheritances, or other changes to local conditions. Scales do not themselves act upon one another.
+
+Material spatiotemporality therefore belongs to the biology. Process and Scale belong to the explanatory differentiation through which that biology is investigated. Process asks how continuity is maintained despite change. Scale asks where persistence relevant to the explanandum is organised across spatial and temporal extents. Their joint relevance must be demonstrated by the explanatory target rather than presumed from the fact that living systems occupy space and persist through time.
+
+APS consequently shares important concerns with process philosophy while retaining a specifically biological and methodological commitment. Living organisation is active, temporally extended, spatially realised, and materially implemented. Whether analysing a phenomenon through Process, Scale, or both contributes additional explanation remains dependent upon the explanandum and the relevant comparator.
 
 ## Normativity, Evaluation, and Organised Meaning
 
@@ -265,7 +285,7 @@ Function and purpose consequently answer different questions. Function concerns 
 
 ## Teleology, Teleonomy, and Biological Organisation
 
-The language of purpose has long been contentious in biology because it can appear to invoke intention, design, or future causes. The concept of **teleonomy** provided one influential way of retaining the appearance of goal-directed biological organisation while locating its explanation within natural processes such as evolved programmes and selection (Pittendrigh 1958; Monod 1971; Mayr 1974).
+The language of purpose has long been contentious in biology because it can appear to invoke intention, design, or future causes. The concept of **teleonomy** provided one influential way of retaining the appearance of goal-directed biological organisation while locating its explanation within natural processes such as evolved programmes and selection (Pittendrigh 1958; Monod 1971).
 
 APS shares the naturalistic objective of teleonomic approaches but formulates the issue through present biological organisation. A living system need not represent a future outcome for its activity to be organised relative to viability. Physiological regulation, wound repair, development, and adaptive behaviour can be oriented toward maintaining or re-establishing viable conditions through presently operating constraints and mechanisms.
 
@@ -281,7 +301,7 @@ Goal-directedness is often used to describe biological activities that reliably 
 
 APS interprets such activity through viability orientation rather than deriving it from organised persistence. A response is goal-directed in the relevant biological sense when the organisation of present activity is differentially structured with respect to viability-relevant conditions. The activity remains causally realised through present mechanisms, constraints, and interactions.
 
-Organised persistence describes a different feature: the continuity of living organisation through material and structural change. Goal-directed activity may contribute to that continuity, but organised persistence does not generate goal-directedness as a downstream property. Both concepts concern the same living organisation from different explanatory perspectives.
+Organised persistence describes a different relation: the continuity of living organisation through material and structural change. Goal-directed activity may contribute to that continuity, but organised persistence does not generate goal-directedness as a downstream property. The two concepts identify distinguishable explanatory relations concerning the same living organisation.
 
 This distinction is important because persistence alone is insufficient to establish biological purpose. Many non-living systems persist, and some biological structures may endure without displaying agency. APS therefore grounds goal-directedness in viability-oriented organisational activity rather than in persistence considered independently.
 
@@ -299,7 +319,7 @@ APS contributes a distinctive organisational vocabulary centred on viability-ori
 
 Comparison can consequently yield more than one legitimate outcome. APS may identify an additional dependency not captured by an established comparator. It may clarify the relation among already known dependencies without adding substantive explanation. It may provide a useful redescription. Or it may add no explanatory value for the question under investigation. The methodology must permit all of these outcomes if comparative assessment is to remain genuine.
 
-APS is therefore best understood here not as an encompassing theory into which contemporary frameworks can be absorbed, but as an organisational explanatory proposal whose usefulness varies with the explanandum. Its philosophical commitments can be examined independently of whether every resulting biological explanation succeeds comparatively.
+APS is therefore best understood here not as an encompassing theory into which contemporary frameworks can be absorbed, but as a comparative explanatory methodology with substantive commitments concerning living organisation whose usefulness varies with the explanandum. Its philosophical commitments can be examined independently of whether every resulting biological explanation succeeds comparatively.
 
 ## Empirical Tractability and Philosophical Naturalism
 
@@ -313,33 +333,49 @@ This position supports a restrained form of philosophical naturalism. Philosophi
 
 APS therefore rejects a sharp separation between conceptual and empirical inquiry without collapsing one into the other. Philosophical analysis can improve the formulation of biological questions; biological evidence can revise philosophical interpretations. Comparative explanatory assessment provides one discipline through which those interactions can be made explicit.
 
+This empirical constraint also prepares the transition to APS organisational realism. A philosophical commitment to biological organisation is warranted not because organisation has been declared fundamental, but insofar as particular organisational relations, activities, constraints, and dependencies can be materially specified and empirically supported.
+
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
 ## Biological Reality and Organisational Realism
 
-APS carries a commitment to **organisational realism**: the organisation through which living systems maintain and re-establish conditions of viability is not merely a convenient description imposed by observers. The relevant constraints, activities, dependencies, and relations are materially realised features of biological systems.
+APS carries a bounded commitment to **organisational realism**. Living organisation is not treated merely as a convenient description imposed upon otherwise independently sufficient components. The relevant activities, constraints, dependencies, and relations through which living systems maintain and re-establish conditions of viability are materially implemented and can, in principle, be empirically supported or challenged.
 
-This does not require treating organisation as an immaterial substance or additional causal force. Organisation is realised through the relations among biological structures, processes, constraints, and activities. To say that organisation is real is to say that these relations can make differences to what biological systems can do and to whether their continued functioning remains possible.
+This does not require treating organisation as an immaterial substance, an additional causal force, or a whole-system entity acting over its components. Organisation is realised through material relations among biological structures, processes, constraints, activities, and environmental conditions. To say that organisation is real is therefore to say that such organisational relations can make a difference to what biological systems can do and to whether their continued functioning remains possible.
 
-Organisational realism also does not imply that every biological collective should be treated as an organism or agent. Cells, multicellular organisms, populations, ecological associations, and evolutionary lineages can exhibit different forms of dependence, continuity, and organisation. Whether a particular collective satisfies conditions relevant to agency, constraint closure, individuality, or viability must be established rather than inferred from persistence or integration alone.
+The realist commitment should also be distinguished from the analytic architecture through which APS investigates that organisation. Agency, Process, and Scale are not proposed as three independent ontological divisions of biological reality. They are analytic projections through which different questions can be directed toward materially realised living organisation.
 
-Scale is important here because biologically relevant organisation can extend across different spatial and temporal extents without requiring a hierarchy of ontological levels. A broader pattern becomes causally relevant to local activity only through materially implemented relations that alter local conditions. Organisational realism therefore concerns the reality of such relations, not the causal supremacy of wider scales.
+This distinction allows APS to remain realist without reifying its explanatory categories. The biological referent does not depend upon the projection for its existence. The investigator selects the explanatory question, but cannot stipulate which biological relations will support the answer. Claims made through an analytic projection remain answerable to material implementation, empirical evidence, explanandum relevance, and the dependencies identified in the biological case.
 
-This position places APS between two unsatisfactory extremes. Organisation need not be reduced to a merely convenient description of independently sufficient parts, but neither should it be reified as something existing apart from its material implementation. APS treats biological organisation as relationally and materially real.
+This does not mean that material implementation by itself establishes explanatory gain. A relation may be biologically real without an APS description of it adding to an established explanation. Realism concerns whether the relevant relation belongs to the biological organisation under investigation. Comparative assessment asks the further question of what explanatory contribution follows from making that relation explicit.
 
-The philosophical consequence is that biological reality can include organised dependencies, constraints, and activities as genuine objects of explanation. Whether invoking them adds explanatory value in any particular case remains a further comparative question.
+Organisational realism also does not imply that every biological collective should be treated as an organism or agent. Cells, multicellular organisms, populations, ecological associations, and evolutionary lineages can exhibit different forms of dependence, continuity, and organisation. Whether a particular candidate satisfies conditions relevant to agency, constraint closure, individuality, or viability must be established rather than inferred from persistence, integration, size, or location alone.
+
+Scale is important here because biologically relevant organisation can extend across different spatial and temporal extents without requiring a hierarchy of ontological levels. A broader pattern becomes causally relevant to local activity only through materially implemented relations that alter local conditions. Organisational realism therefore concerns the reality of those relations, not the causal supremacy of wider extents.
+
+This position places APS between two unsatisfactory extremes. Organisation need not be reduced to a merely convenient description of independently sufficient parts, but neither should it be reified as something existing apart from its material implementation. APS treats living organisation and its empirically supportable organisational relations as materially real while treating the A–P–S differentiation as part of explanatory analysis.
+
+The philosophical consequence is that organised dependencies, constraints, activities, and relations can be legitimate objects of biological explanation without becoming additional substances or autonomous causal levels. Whether invoking them adds explanatory value in any particular case remains a further comparative question.
 
 ## Conclusion
 
-APS is developed as a comparative explanatory methodology for biology, but its biological commitments have philosophical consequences. Defining Life as **viability-oriented, constraint-closed organisation** commits APS to taking living organisation seriously as a materially realised feature of biological reality. Biological agency is viability-oriented organisational activity; organised persistence is the continuity of that organisation through material and structural change; and Agency, Process, and Scale are analytic projections through which different explanatory questions can be posed about one living organisation.
+APS is developed as a comparative explanatory methodology for biology, but its biological commitments have philosophical consequences. Defining Life as **viability-oriented, constraint-closed organisation** commits APS to taking living organisation seriously as a materially realised feature of biological reality. Biological agency is viability-oriented organisational activity. Organised persistence identifies the continuity of living organisation through change. Agency, Process, and Scale provide complementary analytic projections through which distinct explanatory questions can be directed toward that organisation.
+
+Their status as analytic projections does not make them merely subjective or arbitrary. The explanatory differentiation belongs to inquiry, but claims made through it remain answerable to the biological organisation under investigation. Material implementation, empirical evidence, explanandum relevance, and identifiable dependencies constrain which interpretations can be sustained.
+
+Complementarity also does not require Agency, Process, and Scale to possess identical logical status. Agency concerns what living systems do as viability-oriented organisational activity. Process asks how continuity is maintained, reorganised, or re-established despite change. Scale asks where persistence relevant to the explanandum is organised across spatial and temporal extents and through which materially implemented relations. They belong together because they direct distinguishable and potentially complementary questions toward living organisation, not because they reproduce three independent divisions of reality.
 
 These commitments provide naturalistic ways of approaching biological normativity, function, purpose, goal-directedness, continuity, and significance. Normativity can be grounded in viability-relative asymmetry. Function can be understood as present-tense viability-relative organisational contribution. Purpose can be understood as viability-oriented organisation without intention or future-directed causation. Biological Evaluation can explain how agency generates significance without making cognition an automatic property of all living systems.
 
 None of these philosophical commitments establishes APS as explanatorily superior to established biological approaches. Mechanistic, evolutionary, developmental, ecological, autonomy-based, process-oriented, and other explanations retain their achievements relative to the questions they address. APS must demonstrate any additional explanatory contribution against those achievements rather than treating its organisational vocabulary as sufficient evidence of gain.
 
-The philosophical significance of APS therefore lies less in constructing a comprehensive philosophy of nature than in making explicit the commitments carried by its account of living organisation. It proposes that biological organisation, viability-relative relations, constraints, agency, and continuity are legitimate objects of biological and philosophical investigation. It also accepts that the explanatory value of those proposals must remain open to comparison, empirical assessment, and revision.
+Nor has APS established that Agency, Process, and Scale are universally necessary, universally sufficient, uniquely minimal, or invariably productive analytic categories. Their coherence as an architecture is distinct from their comparative explanatory performance. An APS analysis may reveal an additional dependency, clarify relations among established findings, provide a useful redescription, or add no explanatory value to the specified target.
 
-In this sense, APS does not replace philosophy with biology or biology with philosophy. Biological inquiry supplies the phenomena and evidence; philosophical analysis clarifies concepts, commitments, and explanatory relations; comparative methodology tests what particular explanatory proposals contribute. APS operates within that division of labour.
+The philosophical significance of APS therefore lies less in constructing a comprehensive philosophy of nature than in making explicit the commitments carried by its account of living organisation and subjecting those commitments to conceptual, empirical, and comparative scrutiny. It proposes that biological organisation, viability-relative relations, constraints, agency, and continuity are legitimate objects of biological and philosophical investigation while retaining the possibility that particular APS formulations may fail to improve upon existing explanations.
+
+In this sense, APS does not replace philosophy with biology or biology with philosophy. Biological inquiry supplies the phenomena, material relations, and evidence. Philosophical analysis clarifies concepts, commitments, and explanatory distinctions. Comparative methodology assesses what particular explanatory proposals contribute.
+
+**Living organisation is materially real; explanatory differentiation is analytic; biological warrant is empirically constrained; explanatory gain is comparative.**
 
 ## Explanatory Architecture
 
@@ -349,34 +385,63 @@ What philosophical commitments and implications follow from the APS account of L
 
 ### Architectural Role
 
-This article is the philosophical anchor for APS. It examines the implications of APS commitments concerning biological organisation, agency, continuity, viability, constraint, normativity, function, purpose, cognition, explanation, and biological reality without treating APS as a comprehensive philosophical system or using those commitments as evidence of explanatory superiority.
+This article is the philosophical Anchor for APS. It integrates the philosophical implications of APS commitments concerning living organisation, agency, continuity, viability, constraint, normativity, function, purpose, cognition, explanation, and biological reality.
 
-### Preceding Explanatory Dependencies
+Its particular role is to clarify how APS can combine bounded realism about materially realised living organisation with an analytic and explanandum-relative differentiation into Agency, Process, and Scale without treating those projections as independent components, causes, levels, domains, or ontological divisions of biological reality.
 
-*Why Philosophy of Biology Matters* establishes why biological inquiry itself generates philosophical questions concerning life, organisation, explanation, function, normativity, purpose, individuality, cognition, and meaning. The canonical APS articles on Life, biological organisation, agency, organised persistence, Process, and Scale establish the biological commitments examined philosophically here.
+It also establishes that philosophical coherence and explanatory adequacy remain distinct. The philosophical interpretation of APS commitments does not by itself establish their explanatory superiority.
 
-The dependency is therefore explanatory rather than hierarchical. The orientation article establishes why philosophical questions arise; the canonical biological architecture specifies the APS proposals whose implications this article examines.
+### Builds On
 
-### Subsequent Explanatory Developments
+This article builds on the APS account of Life as viability-oriented, constraint-closed organisation; Biological Agency as viability-oriented organisational activity; viability; constraint closure; organised persistence; Process; Scale; organisational realism; the clarification of Agency, Process, and Scale as analytic projections; and the comparative methodology through which explanatory gain is assessed.
 
-The distinctions established here support more focused APS treatments of organisational realism, biological function, normativity, purpose, teleology, cognition, explanation, and related philosophical questions. Those articles can develop particular implications without requiring this article to settle them in advance.
+It also builds on the distinction established in *Why Philosophy of Biology Matters* between philosophical questions generated by biological inquiry and any particular philosophical commitments adopted by APS.
 
-They also remain subject to the methodological requirement established across APS: a philosophically coherent organisational proposal does not acquire explanatory priority merely through coherence. Where an APS account claims explanatory gain, that gain must be demonstrated relative to a specified explanandum and relevant established comparator.
+These dependencies are explanatory rather than hierarchical. They establish the biological and methodological commitments whose philosophical implications are integrated here.
+
+### Develops Into
+
+This anchor supports more focused APS treatments of organisational realism, biological function, normativity, purpose, teleology, biological significance, cognition, explanation, and related philosophical questions.
+
+It also supports comparative investigation of whether particular APS distinctions clarify specified explananda, identify additional dependencies, provide integrative or conceptual value, or yield no explanatory gain.
+
+Those specialised developments do not follow automatically from accepting the vocabulary of APS. Each retains its own evidential and explanatory requirements.
 
 ### Related Explanatory Questions
 
-This architecture leaves several questions deliberately open. 
-- How should organisational realism be specified without reifying organisation? 
-- Under what conditions does viability-relative organisation warrant attribution of function, purpose, or agency? 
-- How does biological significance become integrated across time in cognition? 
+Relevant questions include:
+
+- How can explanatory representations track materially real biological relations without reproducing the structure of reality point for point?
+- How can investigator-selected analytic distinctions remain scientifically constrained rather than arbitrary?
+- Why can Agency, Process, and Scale be complementary without possessing identical logical status?
+- How does Process differ from temporal succession or change in general?
+- How does Scale differ from space, physical size, hierarchy, or an independently acting causal level?
+- What is the relationship between living organisation and organised persistence?
+- Under what conditions does viability-relative organisation warrant attribution of function, purpose, or agency?
+- How does biological significance become integrated across time in cognition?
+- Can A–P–S be shown to provide conceptual or explanatory economy without being assumed universally necessary or sufficient?
 - When do organisational explanations add to mechanistic, evolutionary, developmental, ecological, or other established explanations rather than redescribing them?
 
-These are related explanatory questions rather than consequences fixed by accepting APS terminology.
+These are related explanatory questions rather than consequences fixed simply by accepting APS terminology.
 
-### Position Within APS
+### Position within APS
 
 APS is a comparative explanatory methodology for biology with substantive commitments concerning living organisation. Those commitments have philosophical implications, but APS is not thereby transformed into a comprehensive metaphysical system.
 
+Life is viability-oriented, constraint-closed organisation. Agency, Process, and Scale are complementary analytic projections through which distinct explanatory questions are directed toward that living organisation. Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence relevant to an explanandum is organised across spatial and temporal extents.
+
+Organised persistence may function as an explanatory target without becoming a fourth projection or the universal explanandum of biology. The A–P–S differentiation belongs to explanatory analysis, while claims made through it remain answerable to materially implemented biological relations, empirical evidence, explanandum relevance, and identifiable dependencies.
+
 The distinction from *Why Philosophy of Biology Matters* is fundamental. That article explains **why philosophical questions arise from biological inquiry**. The present article examines **what philosophical commitments and implications follow from APS's organisational account**.
 
-The distinction from comparative explanatory assessment is equally important. Philosophical analysis can clarify APS commitments and identify the candidate explanatory relations they make salient. It cannot determine that those relations provide explanatory gain. APS proposals remain subject to comparative assessment against specified explananda, relevant evidence, and established comparators.
+The distinction from *Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?* is equally important. That article gives the dedicated philosophical clarification of analytic projection. The present Anchor incorporates that result into the wider philosophical interpretation of APS.
+
+The distinction from comparative explanatory assessment also remains fundamental. Philosophical analysis can clarify APS commitments and identify candidate explanatory relations. It cannot determine that those relations provide explanatory gain. Where such gain is claimed, APS remains subject to comparison against specified explananda, relevant evidence, and the strongest relevant established comparator.
+
+### Corpus Significance
+
+This article is the philosophical Anchor for the APS corpus. It provides the principal integrative statement of what follows philosophically from APS's substantive biological and methodological commitments without independently replacing the canonical articles through which those commitments are established.
+
+Specialised philosophy-of-biology articles may therefore develop organisational realism, analytic projection, normativity, function, purpose, cognition, explanation, and related questions in greater depth, but they should remain compatible with the boundaries established here unless a later controlled reconstruction explicitly revises the Anchor.
+
+The article consequently controls the distinction between the biological reality APS claims, the analytic organisation through which that reality is investigated, and the comparative assessment through which explanatory contribution is judged.

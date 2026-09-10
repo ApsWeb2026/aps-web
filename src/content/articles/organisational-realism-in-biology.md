@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-24
+revised: 2026-09-10
 cluster: philosophy-of-biology
 role: extension
 abstract: >
@@ -256,6 +256,8 @@ Organised persistence describes what happens when that living organisation maint
 This distinction matters for biological realism. If organisational continuity survives substantial turnover of material components, that provides reason to investigate which relations are maintained and how they are materially realised. The resulting explanation may identify dependencies that are not evident from material inventory alone. Whether those dependencies add explanatory value in a particular case remains a comparative question.
 
 Agency, Process, and Scale can assist this analysis without being converted into ontological divisions. Agency concerns what the living system does; Process concerns how organisational continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents. They are analytic projections of one viability-oriented, constraint-closed organisation.
+
+The relationship between this realist commitment and the analytic status of Agency, Process, and Scale is examined directly in [Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?](/articles/what-does-aps-mean-by-an-analytic-projection/). That article explains how APS can treat living organisation as materially real while treating the A–P–S differentiation as part of explanatory analysis rather than as a partition of biological reality.
 
 Organisational realism therefore concerns the reality that these analyses seek to track, not the automatic success of the analyses themselves.
 
