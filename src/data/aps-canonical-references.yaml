@@ -4645,3 +4645,127 @@ references:
     status: verified
     authority: Wiley
     verifiedDate: 2026-09-09
+- id: alpi-et-al-2007-plant-neurobiology-no-brain-no-gain
+  type: journal-article
+  authors: Alpi, A., Amrhein, N., Bertl, A., Blatt, M. R., Blumwald, E., Cervone, F., Dainty, J., De Michelis, M. I., Epstein, E., Galston, A. W., Goldsmith, M. H. M., Hawes, C., Hell, R., Hetherington, A., Hofte, H., Juergens, G., Leaver, C. J., Moroni, A., Murphy, A., Oparka, K., Perata, P., Quader, H., Rausch, T., Ritzenthaler, C., Rivetta, A., Robinson, D. G., Sanders, D., Scheres, B., Schumacher, K., Sentenac, H., Slayman, C. L., Soave, C., Somerville, C., Taiz, L., Thiel, G., & Wagner, R.
+  year: 2007
+  title: 'Plant Neurobiology: No Brain, No Gain?'
+  journal: Trends in Plant Science
+  volume: '12'
+  issue: '4'
+  pages: 135–136
+  doi: 10.1016/j.tplants.2007.03.002
+  verification:
+    status: verified
+    authority: Elsevier / PubMed
+    verifiedDate: 2026-09-11
+- id: taiz-et-al-2019-plants-neither-possess-require-consciousness
+  type: journal-article
+  authors: Taiz, L., Alkon, D., Draguhn, A., Murphy, A., Blatt, M., Hawes, C., Thiel, G., & Robinson, D. G.
+  year: 2019
+  title: Plants Neither Possess nor Require Consciousness
+  journal: Trends in Plant Science
+  volume: '24'
+  issue: '8'
+  pages: 677–687
+  doi: 10.1016/j.tplants.2019.05.008
+  verification:
+    status: verified
+    authority: Elsevier / PubMed
+    verifiedDate: 2026-09-11
+- id: segundo-ortin-calvo-2025-plant-cognition-methodological-primer
+  type: journal-article
+  authors: Segundo-Ortín, M., Ponkshe, A., Lee, J., & Calvo, P.
+  year: 2025
+  title: 'Plant Cognition—A Methodological Primer: Theories, Methods and Challenges'
+  journal: Philosophy Compass
+  volume: '20'
+  issue: '12'
+  article-number: e70068
+  doi: 10.1111/phc3.70068
+  verification:
+    status: verified
+    authority: Wiley Online Library
+    verifiedDate: 2026-09-11
+- id: toyota-et-al-2018-glutamate-long-distance-plant-defense-signalling
+  type: journal-article
+  authors: Toyota, M., Spencer, D., Sawai-Toyota, S., Jiaqi, W., Zhang, T., Koo, A. J., Howe, G. A., & Gilroy, S.
+  year: 2018
+  title: Glutamate Triggers Long-Distance, Calcium-Based Plant Defense Signaling
+  journal: Science
+  volume: '361'
+  issue: '6407'
+  pages: 1112–1115
+  doi: 10.1126/science.aat7744
+  verification:
+    status: verified
+    authority: AAAS / PubMed
+    verifiedDate: 2026-09-11
+- id: bruce-et-al-2007-stressful-memories-plants
+  type: journal-article
+  authors: Bruce, T. J. A., Matthes, M. C., Napier, J. A., & Pickett, J. A.
+  year: 2007
+  title: 'Stressful “Memories” of Plants: Evidence and Possible Mechanisms'
+  journal: Plant Science
+  volume: '173'
+  issue: '6'
+  pages: 603–608
+  doi: 10.1016/j.plantsci.2007.09.002
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-09-11
+- id: gagliano-et-al-2014-experience-teaches-plants
+  type: journal-article
+  authors: Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S.
+  year: 2014
+  title: Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters
+  journal: Oecologia
+  volume: '175'
+  issue: '1'
+  pages: 63–72
+  doi: 10.1007/s00442-013-2873-7
+  verification:
+    status: verified
+    authority: Springer Nature / PubMed
+    verifiedDate: 2026-09-11
+- id: gagliano-et-al-2016-learning-association-plants
+  type: journal-article
+  authors: Gagliano, M., Vyazovskiy, V. V., Borbély, A. A., Grimonprez, M., & Depczynski, M.
+  year: 2016
+  title: Learning by Association in Plants
+  journal: Scientific Reports
+  volume: '6'
+  article-number: '38427'
+  doi: 10.1038/srep38427
+  verification:
+    status: verified
+    authority: Springer Nature / PubMed
+    verifiedDate: 2026-09-11
+- id: markel-2020-lack-evidence-associative-learning-pea-plants
+  type: journal-article
+  authors: Markel, K.
+  year: 2020
+  title: Lack of Evidence for Associative Learning in Pea Plants
+  journal: eLife
+  volume: '9'
+  article-number: e57614
+  doi: 10.7554/eLife.57614
+  verification:
+    status: verified
+    authority: eLife / PubMed
+    verifiedDate: 2026-09-11
+- id: ponkshe-et-al-2024-learning-plants-pea-plants
+  type: journal-article
+  authors: Ponkshe, A., Blancas Barroso, J., Abramson, C. I., & Calvo, P.
+  year: 2024
+  title: 'A Case Study of Learning in Plants: Lessons Learned from Pea Plants'
+  journal: Quarterly Journal of Experimental Psychology
+  volume: '77'
+  issue: '6'
+  pages: 1272–1280
+  doi: 10.1177/17470218231203078
+  verification:
+    status: verified
+    authority: SAGE Journals / PubMed
+    verifiedDate: 2026-09-11
