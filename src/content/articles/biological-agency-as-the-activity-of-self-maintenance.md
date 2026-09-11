@@ -6,7 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-09-10
+revised: 2026-09-11
 
 cluster: conceptual-foundations
 role: anchor

@@ -7,12 +7,12 @@ status: "canonical"
 revised: "2026-04-21"
 ---
 
-APS proposes that normativity does not depend on consciousness, intention, or representation. It arises from the organisation of living systems themselves.
+APS proposes that normativity does not depend on consciousness, intention, or representation. It arises from the viability-oriented organisation of living systems themselves.
 
-A system exhibits normativity when differences in its state matter for its continued persistence. Some conditions support viability, while others undermine it. This asymmetry is not imposed from outside, but follows from the system’s dependence on maintaining the conditions of its own existence.
+Biological normativity consists in viability-relative asymmetry. Conditions are not equivalent for a living system: some support the maintenance and re-establishment of its organisation, while others impair or undermine it. This asymmetry is not imposed by an external observer but arises from the system’s dependence on maintaining the conditions of its own persistence.
 
-This does not require that the system represents or interprets these conditions. Regulation, adaptation, and responsiveness are sufficient. Normativity, in this sense, is enacted rather than represented.
+This does not require the system to represent or consciously interpret those conditions. Viability-relative differences can materially modulate regulation, adaptation, and responsiveness without becoming mental or cognitive. Such activities may therefore express biological normativity without themselves being sufficient to establish cognition.
 
-At the same time, APS distinguishes between descriptive asymmetry and evaluative force. The fact that some states sustain persistence does not, by itself, justify stronger claims about value or meaning. Instead, it identifies the point at which such questions become possible.
+APS also distinguishes biological normativity from stronger notions of value, meaning, or conscious evaluation. Viability-relative asymmetry establishes that conditions can matter biologically without implying that the organism judges them, represents them, or assigns them meaning.
 
-In brief: normativity begins where organised systems must differentiate between what sustains them and what does not.
+In brief: biological normativity arises where viability-oriented living organisation makes some conditions consequential for continued functioning in ways that others are not.
