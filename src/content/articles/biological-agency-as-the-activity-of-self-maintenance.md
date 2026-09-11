@@ -292,7 +292,7 @@ APS therefore neither reserves agency for a privileged biological level nor dist
 
 Biological agency is the activity through which that organisation is enacted and sustained.
 
-## Explanatory Architecture
+Here is the format. Can you remember this format for future reference? ## Explanatory Architecture
 
 ### Central Question
 
