@@ -4769,3 +4769,68 @@ references:
     status: verified
     authority: SAGE Journals / PubMed
     verifiedDate: 2026-09-11
+- id: knuuttila-sihvola-2014-history-philosophy-mind
+  type: edited-book
+  editors: Knuuttila, S., & Sihvola, J.
+  year: 2014
+  title: 'Sourcebook for the History of the Philosophy of Mind: Philosophical Psychology from Plato to Kant'
+  publisher: Springer
+  doi: 10.1007/978-94-007-6967-0
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-12
+- id: mandler-2006-history-modern-experimental-psychology
+  type: book
+  authors: Mandler, G.
+  year: 2006
+  title: 'A History of Modern Experimental Psychology: From James and Wundt to Cognitive Science'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-09-12
+- id: rumelhart-mcclelland-1986-parallel-distributed-processing
+  type: edited-book
+  editors: Rumelhart, D. E., McClelland, J. L., & PDP Research Group
+  year: 1986
+  title: 'Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Volume 1: Foundations'
+  publisher: MIT Press
+  volume: '1'
+  doi: 10.7551/mitpress/5236.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-09-12
+- id: thelen-smith-1994-dynamic-systems-cognition-action
+  type: book
+  authors: Thelen, E., & Smith, L. B.
+  year: 1994
+  title: 'A Dynamic Systems Approach to the Development of Cognition and Action'
+  publisher: MIT Press
+  doi: 10.7551/mitpress/2524.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-09-12
+- id: hutchins-1995-cognition-wild
+  type: book
+  authors: Hutchins, E.
+  year: 1995
+  title: Cognition in the Wild
+  publisher: MIT Press
+  doi: 10.7551/mitpress/1881.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-09-12
+- id: gibson-1979-ecological-approach-visual-perception
+  type: book
+  authors: Gibson, J. J.
+  year: 1979
+  title: The Ecological Approach to Visual Perception
+  publisher: Houghton Mifflin
+  verification:
+    status: verified
+    authority: OCLC WorldCat
+    verifiedDate: 2026-09-12

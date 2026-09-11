@@ -6,11 +6,11 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-11
-revised: 2026-09-11
+revised: 2026-09-12
 cluster: cognition-and-mind
 role: core
 
-abstract: "Whether plants are cognitive cannot be decided either by the absence of nervous systems or by the presence of adaptive responsiveness, signalling, plasticity and learning-like activity. APS approaches plant cognition as a comparative explanatory problem. Plants clearly exhibit biological agency, Biological Evaluation and biological significance, but these pre-cognitive capacities do not by themselves establish cognition. APS defines cognition as the organisation of biological significance across time and currently proposes that cognitive attribution becomes warranted where integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Applying this boundary to plant phenomena produces a differentiated result. Distributed sensing, systemic signalling and developmental plasticity establish sophisticated biological organisation but do not independently warrant cognition. Stress priming provides a stronger boundary case but remains cognitively indeterminate because temporally extended molecular, physiological and developmental regulation remains an adequate explanation of current evidence. Habituation-like phenomena are suggestive, while stronger associative-learning claims remain empirically contested. Plants therefore provide a demanding test of whether cognition can be extended beyond nervous systems without collapsing into biological regulation in general."
+abstract: "Whether plants are cognitive cannot be decided either by the absence of nervous systems or by the presence of adaptive responsiveness, signalling, plasticity and learning-like activity. APS approaches plant cognition as a comparative explanatory problem. Plants clearly exhibit biological agency, biological evaluation and biological significance, but these pre-cognitive capacities do not by themselves establish cognition. APS defines cognition as the organisation of biological significance across time and currently proposes that cognitive attribution becomes warranted where integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Applying this boundary to plant phenomena produces a differentiated result. Distributed sensing, systemic signalling and developmental plasticity establish sophisticated biological organisation but do not independently warrant cognition. Stress priming provides a stronger boundary case but remains cognitively indeterminate because temporally extended molecular, physiological and developmental regulation remains an adequate explanation of current evidence. Habituation-like phenomena are suggestive, while stronger associative-learning claims remain empirically contested. Plants therefore provide a demanding test of whether cognition can be extended beyond nervous systems without collapsing into biological regulation in general."
 
 keyPoints:
   - "Plant biological agency, Biological Evaluation, Significance, signalling, plasticity and temporal retention do not individually or cumulatively establish cognition."
@@ -91,11 +91,13 @@ Evidence for plant cognition must consequently do more than establish complexity
 1. the phenomenon results from sophisticated but sufficiently fixed biological regulation; or
 2. biological significance is organised across time in a way that modulates present activity relative to viability-relevant possibilities beyond what the regulatory account explains.
 
-That distinction places the burden of proof at the level of organisation rather than vocabulary.
+That distinction places the burden of proof on the organisation itself rather than on the vocabulary.
+
+The comparative test therefore proceeds in four steps: specify the plant phenomenon and explanandum; reconstruct the strongest adequate non-cognitive explanation; ask whether the phenomenon exhibits the organisation required by the provisional APS cognitive boundary; and assign an evidential grade according to whether cognitive explanation is unnecessary, suggestive, unresolved against the comparator, or positively warranted. The test concerns explanatory gain for the specified phenomenon, not the cognitive status of plants as a whole.
 
 ## 3. The Strongest Case for Plant Cognition
 
-The strongest case for plant cognition does not depend on claiming that plants possess consciousness, brains, or human-like mental states. It arises from phenomena in which prior conditions appear to alter later activity in context-sensitive ways.
+The strongest case for plant cognition does not depend on claiming that plants possess consciousness, brains, or human-like mental states. **It arises from phenomena in which prior conditions appear to alter later activity in context-sensitive ways.**
 
 Several candidate families are important.
 
@@ -155,7 +157,7 @@ Plants clearly satisfy these pre-cognitive conditions. Water availability, tissu
 
 APS expresses this explanatory dependency as:
 
-**Biological Agency → Biological Evaluation → Significance → Integration → Cognition**
+Biological Agency → Biological Evaluation → Significance → Integration → Cognition
 
 The sequence is not a hierarchy, chronology, or set of independent components. It identifies explanatory dependencies.
 
@@ -163,15 +165,19 @@ Most importantly, the earlier terms do not entail the later one.
 
 Biological significance can exist without cognition. A plant can evaluate conditions in the APS sense—that is, its viability-oriented organisation can generate differential significance—without cognitively organising those conditions. Integration also does not settle the issue. Living systems necessarily coordinate multiple processes, and highly integrated regulation may remain non-cognitive.
 
+Biological significance is central because it provides the content of minimal cognition: cognition does not introduce a new source of what matters biologically, but organises what already matters for viability across time.
+
 The canonical APS definition is:
 
-> **Cognition is the organisation of biological significance across time.**
+Cognition is the organisation of biological significance across time.
 
 The current APS boundary proposal adds a provisional attribution criterion:
 
-> **Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.**
+Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-This is not a second definition. It is a testable proposal concerning when cognitive attribution becomes warranted.
+Put more simply, biological agency counts as cognitive when the system organises what matters for its viability across time in relation to relevant possibilities, in ways that modulate present activity and cannot be adequately explained by immediate cues or fixed regulatory routines.
+
+This is not a second definition of cognition. It is a testable proposal about the point at which cognitive attribution becomes justified.
 
 The distinction is decisive for plants. Stress responses, signalling networks, developmental plasticity and temporal retention may establish Biological Agency, Biological Evaluation, Significance and Integration without crossing the proposed cognitive boundary.
 
@@ -185,13 +191,13 @@ Recurrent drought or dehydration priming provides the strongest current plant ca
 
 It satisfies several important conditions.
 
-First, the phenomenon is viability related. Water deficit materially affects continued plant functioning.
+- First, the phenomenon is viability related. Water deficit materially affects continued plant functioning.
 
-Second, it includes retention. Earlier conditions alter later organisation after the original perturbation has ended.
+- Second, it includes retention. Earlier conditions alter later organisation after the original perturbation has ended.
 
-Third, it can involve distributed integration. Later changes may be expressed through multiple physiological and developmental processes.
+- Third, it can involve distributed integration. Later changes may be expressed through multiple physiological and developmental processes.
 
-Fourth, primed and unprimed plants can respond differently to later stress.
+- Fourth, primed and unprimed plants can respond differently to later stress.
 
 These properties make stress priming significantly richer than immediate physiological regulation.
 
@@ -263,6 +269,8 @@ Accordingly, generic developmental plasticity and systemic sensing or signalling
 
 The plant evidence can now be differentiated rather than aggregated into a single global judgement.
 
+The evidential grades distinguish outcomes of the comparative test rather than degrees of biological complexity. Grade 0 identifies phenomena adequately explained by non-cognitive biological organisation. Grade 1 — suggestive identifies cognition-relevant evidence that does not yet establish a genuine cognitive boundary case. Grade 2 — cognitively indeterminate identifies a genuine boundary case in which cognitive and adequate non-cognitive explanations have not yet been sufficiently discriminated. Grade 3 — minimal-cognitive positive identifies a phenomenon for which the evidence warrants cognitive attribution relative to the specified explanandum and comparator. These grades apply to phenomena, not organisms.
+
 <div class="aps-diagram">
   <a href="/assets/diagrams/table-plant-cognition.png" target="_blank" rel="noopener">
     <img
@@ -296,15 +304,15 @@ The evidential grades also apply to **phenomena rather than organisms**. A parti
 
 If a plant phenomenon eventually satisfies the cognitive boundary, several conclusions would follow.
 
-First, cognition would not be restricted in principle to nervous systems. Neural tissue would remain a powerful implementation of cognition rather than a constitutive requirement.
+- First, cognition would not be restricted in principle to nervous systems. Neural tissue would remain a powerful implementation of cognition rather than a constitutive requirement.
 
-Second, a positive plant case would support organisational rather than taxonomic classification. Cognitive status would depend on how biological significance is organised, not on whether the organism belongs to a familiar cognitive lineage.
+- Second, a positive plant case would support organisational rather than taxonomic classification. Cognitive status would depend on how biological significance is organised, not on whether the organism belongs to a familiar cognitive lineage.
 
-Third, a positive case would reinforce the distinction between cognition and Consciousness. Nothing in the minimal boundary requires phenomenal awareness.
+- Third, a positive case would reinforce the distinction between cognition and consciousness. Nothing in the minimal boundary requires phenomenal awareness.
 
-Fourth, plant cognition would not automatically entail Representation. APS remains neutral concerning representational explanation at the minimal boundary. Representation may be useful or required for particular phenomena, but it should not be assumed simply because cognition is attributed.
+- Fourth, plant cognition would not automatically entail representation. APS remains neutral concerning representational explanation at the minimal boundary. Representation may be useful or required for particular phenomena, but it should not be assumed simply because cognition is attributed.
 
-Fifth, a positive result would not show that all living systems are cognitive. On the contrary, the possibility of demonstrating a plant case would depend upon maintaining a meaningful distinction between cognition and the Biological Agency, Biological Evaluation, Significance and Integration already present more widely in life.
+- Fifth, a positive result would not show that all living systems are cognitive. On the contrary, the possibility of demonstrating a plant case would depend upon maintaining a meaningful distinction between cognition and the Biological Agency, Biological Evaluation, Significance and Integration already present more widely in life.
 
 Conversely, failure to establish cognition in current plant cases would not diminish plant agency. Plants remain viability-oriented, evaluative living organisations regardless of the outcome of the cognitive debate.
 
@@ -347,25 +355,21 @@ The plant cognition problem therefore becomes more scientifically productive onc
 
 ## 10. Conclusion
 
-The plant cognition debate cannot be resolved by choosing between neural exclusivity and unrestricted cognitive extension.
+The plant cognition debate cannot be resolved by choosing between neural exclusivity and unrestricted cognitive extension. Plants plainly exhibit rich biological agency: they sense environmental conditions, coordinate activity through distributed signalling, alter development and physiology under changing conditions, retain effects of prior perturbation, and generate biological significance relative to viability. Within APS, none of these capacities by itself establishes cognition.
 
-Plants plainly exhibit rich biological agency. They sense environmental conditions, coordinate activity through distributed signalling, alter development and physiology under changing conditions, retain effects of prior perturbation and generate biological significance relative to viability. Within APS, none of this requires cognition.
+The cognitive question begins only after these pre-cognitive capacities are acknowledged.
 
-The relevant question begins only after these capacities are acknowledged.
+Cognition is the organisation of biological significance across time. The current APS boundary proposal holds that **biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.** Put more simply, cognition becomes a candidate explanation when what matters to an organism because of past or possible conditions modulates its present activity in ways that an adequate account of immediate cues or fixed regulatory routines cannot explain.
 
-**Cognition is the organisation of biological significance across time.** The present APS boundary proposal holds that biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+This distinction is crucial in the plant case. A drought-primed plant may respond differently to a later drought because the earlier event produced persistent molecular, physiological or developmental changes. Temporal retention and altered later activity are therefore not sufficient for cognitive attribution. A stronger cognitive case would require evidence that retained biological significance is deployed differently as circumstances and their viability consequences change, in ways not adequately explained by such regulatory persistence.
 
-Applied to plants, this criterion produces a differentiated result.
+Applied to the present evidence, the APS boundary therefore produces a differentiated rather than a global verdict. Distributed sensing, systemic signalling and developmental plasticity demonstrate sophisticated biological organisation but do not independently warrant cognition. Stress priming provides a stronger boundary case because prior viability-relevant conditions can alter later organismal activity after the original perturbation has ceased. Yet temporally extended molecular, physiological and developmental regulation remains an adequate explanation for much of the available evidence. Stress priming is therefore cognitively indeterminate.
 
-Developmental plasticity, systemic signalling and distributed sensing establish sophisticated biological organisation but do not independently warrant cognition. Stress priming provides a stronger borderline case because prior viability-relevant conditions can alter later organismal activity after the original perturbation has ceased. Yet temporally extended molecular, physiological and developmental regulation remains an adequate explanation for much of the evidence. Stress priming is therefore cognitively indeterminate.
+Habituation-like response modification provides suggestive evidence but is not decisive. Associative-learning claims would provide stronger evidence if robustly established, but their current empirical status remains contested. None of the principal plant phenomena considered here therefore presently warrants a Grade 3 minimal-cognitive-positive classification.
 
-Associative-learning claims would provide stronger evidence if robustly established, but their present empirical status remains contested. Habituation-like phenomena are likewise suggestive rather than decisive.
+The current evidence consequently supports neither a global attribution of minimal cognition to plants nor the conclusion that plant cognition is impossible. Plants instead occupy an important methodological position: they provide a demanding test of whether cognitive explanation can extend beyond nervous systems without collapsing cognition into biological regulation in general.
 
-The current evidence therefore does not justify the global conclusion that plants are minimally cognitive. It also does not establish that plant cognition is impossible.
-
-Plants instead occupy an important methodological position: they provide a demanding test of whether cognitive explanation can be extended beyond nervous systems without collapsing into a description of biological regulation in general.
-
-That is the productive outcome of the debate. The question is no longer whether plants should be granted cognitive status because they are complex, adaptive, or biologically impressive. It is whether particular plant processes organise biological significance across time in ways for which cognition provides explanatory gain over the strongest adequate non-cognitive account.
+This is the productive outcome of the plant cognition debate. The relevant question is no longer whether plants should be classified as cognitive because they are complex, adaptive, responsive or biologically impressive. It is whether specified plant phenomena organise biological significance across time in ways for which cognitive explanation provides explanatory gain over the strongest adequate non-cognitive account.
 
 For the principal cases presently available, that question remains open.
 
