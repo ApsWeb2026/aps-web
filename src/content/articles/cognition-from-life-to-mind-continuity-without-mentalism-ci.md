@@ -61,79 +61,45 @@ references:
 
 ## 1. The Problem: From Life to Mind Without a Conceptual Rupture
 
-Accounts of cognition have often begun from capacities associated with nervous systems, representation, reasoning or conscious thought. When cognition is approached in this way, a sharp explanatory divide can appear between biological organisation and mind. Life belongs on one side; cognition and mentality appear only after the emergence of sufficiently complex nervous systems on the other. Embodied and enactive approaches, however, have long challenged the idea that cognition should be understood only as detached internal processing (Varela et al. 1991; Thompson 2007), while biogenic and minimal-cognition programmes have extended the question of cognition into more basic biological organisation (Lyon 2006; van Duijn et al. 2006; Barandiaran and Moreno 2006).
+Accounts of cognition have often begun from capacities associated with nervous systems, representation, reasoning or conscious thought. Approached in this way, cognition can appear separated from biological organisation by a sharp explanatory divide: life belongs on one side, while cognition and mentality emerge only with sufficiently complex nervous systems on the other. Embodied and enactive approaches have long challenged the idea that cognition should be understood exclusively as detached internal processing (Varela et al. 1991; Thompson 2007), while biogenic and minimal-cognition programmes have extended the question of cognition into more basic forms of biological organisation (Lyon 2006; van Duijn et al. 2006; Barandiaran and Moreno 2006).
 
-Biology complicates the divide. Living systems are not passive arrangements of matter. They maintain themselves, regulate their activity, respond selectively to changing conditions, retain effects of previous interactions and alter their behaviour or organisation in relation to circumstances that matter for continued functioning.
+Biology itself complicates any simple division. Living systems are not passive arrangements of matter: they maintain themselves, regulate their activity, respond selectively to changing conditions, retain effects of previous interactions, and alter their behaviour or organisation in relation to circumstances that matter for continued functioning. Such capacities make cognition biologically intelligible, but they do not determine where cognition begins. The scientific problem of identifying what, if anything, distinguishes cognitive from non-cognitive organisation therefore remains substantive rather than merely terminological (Adams and Garrison 2013).
 
-These capacities make cognition biologically intelligible. But they do not settle where cognition begins. The scientific problem of identifying what, if anything, marks cognition off from non-cognitive organisation remains substantive rather than merely terminological (Adams and Garrison 2013).
-
-That distinction is essential. If cognition is restricted to familiar mental capacities, its biological foundations become difficult to explain. If every instance of sensing, regulation, adaptivity or viability-sensitive activity is treated as cognitive, cognition risks becoming indistinguishable from life itself.
-
-APS therefore asks a different question:
+The distinction matters in both directions. If cognition is restricted to familiar mental capacities, its biological foundations become difficult to explain; if every instance of sensing, regulation, adaptivity or viability-sensitive activity is treated as cognitive, cognition risks becoming indistinguishable from life itself. APS therefore asks a different question:
 
 **How can cognition arise continuously within biological organisation without being identified either with life as such or with human-like mentality?**
 
-The answer requires continuity without identity.
+The answer developed here is one of continuity without identity. Cognition must be explained as biologically grounded in capacities realised within living organisation while remaining distinguishable from the organisation required for life itself.
 
 ## 2. Continuity Does Not Mean Identity
 
-APS begins from living organisation rather than from cognition.
+APS begins from living organisation rather than from cognition:
 
 **Life is viability-oriented, constraint-closed organisation.**
 
 **Biological agency is viability-oriented organisational activity.**
 
-A living system must continually maintain and re-establish conditions compatible with its persistence. Its activity is therefore organised around differences that are not equivalent for it. Some conditions sustain continued functioning; some require compensatory activity; some undermine it. Organisational and autonomy approaches provide important resources for understanding this kind of viability-sensitive biological activity without requiring cognition as a starting assumption (Di Paolo 2005; Moreno and Mossio 2015).
+A living system must continually maintain and re-establish conditions compatible with its persistence. Its activity is therefore organised around differences that are not equivalent for it: some conditions sustain continued functioning, some require compensatory activity, and others undermine it. Organisational and autonomy approaches provide important resources for understanding this viability-sensitive biological activity without requiring cognition as a starting assumption (Di Paolo 2005; Moreno and Mossio 2015). Biological normativity and agency can therefore be established before cognition has been attributed.
 
-This establishes biological normativity and agency before cognition has been attributed.
+The important consequence is that biological continuity does not entail constitutive identity. Stronger continuity traditions have sometimes explicitly identified cognition with life or linked autopoiesis and cognition very closely (Stewart 1995; Bourgine and Stewart 2004), while other work has questioned whether autopoiesis should automatically entail cognition (Bitbol and Luisi 2004). APS separates three propositions that these debates can otherwise allow to run together. **Dependence** means that cognition presupposes living agency. **Continuity** means that cognition develops through capacities materially realised within living agency. **Non-identity** means that the capacities required for living agency do not by themselves establish cognition.
 
-The important consequence is that cognition can be biologically continuous with life without being constitutive of life. Stronger continuity traditions have sometimes explicitly identified cognition with life or linked autopoiesis and cognition very closely (Stewart 1995; Bourgine and Stewart 2004), while other work has questioned whether autopoiesis should automatically entail cognition (Bitbol and Luisi 2004).
-
-APS therefore separates three propositions that should not be conflated:
-
-**Dependence:** cognition presupposes living agency.
-
-**Continuity:** cognition develops through capacities materially realised within living agency.
-
-**Non-identity:** the capacities required for living agency do not by themselves establish cognition.
-
-Continuity does not mean that every activity required for life is already cognitive.
-
-APS therefore rejects two opposed reductions:
-
-**Life is not merely non-cognitive mechanism waiting for mind to appear.**
-
-But equally:
-
-**Life is not cognitive merely because it is living.**
-
-The transition toward cognition must be explained rather than assumed.
+Taken together, these propositions exclude two opposed reductions. Life is not merely non-cognitive mechanism waiting for mind to appear, but neither is life cognitive merely because it is living. The transition toward cognition must therefore be explained rather than assumed.
 
 ## 3. Biological Evaluation and Significance Before Cognition
 
-Living systems encounter conditions that differ in their consequences for continued functioning.
-
-APS calls the process through which agency makes these asymmetries consequential **Biological Evaluation**:
+Living systems encounter conditions that differ in their consequences for continued functioning. APS calls the process through which agency makes these asymmetries consequential **Biological Evaluation**:
 
 **Biological Evaluation is the process through which agency generates significance.**
 
-This does not imply judgement, awareness or mental assessment. Biological Evaluation occurs when viability-relevant differences participate in modulating the activity of a living agent.
-
-Its product is biological significance:
+Biological Evaluation does not imply judgement, awareness or mental assessment. It occurs when viability-relevant differences participate in modulating the activity of a living agent, thereby generating biological significance:
 
 **Significance is a relationally real product of biological evaluation.**
 
-A condition has biological significance not because meaning is intrinsic to the condition, and not because an observer assigns it meaning, but because of its relation to the organisation and viability of a particular agent.
+A condition has biological significance not because meaning is intrinsic to the condition, nor because an observer assigns meaning to it, but because of its relation to the organisation and viability of a particular agent.
 
 [[box:aps-box-normativity-without-mind]]
 
-These relations establish an important pre-cognitive domain.
-
-A system may evaluate changing conditions, regulate itself, retain effects of earlier events and respond adaptively without those capacities alone warranting cognitive attribution. This distinction is especially important because adaptive regulation can be sophisticated while remaining explanatorily separable from cognition (Di Paolo 2005; Corcoran et al. 2020).
-
-APS therefore distinguishes the **generation of significance** from its **cognitive organisation**.
-
-That distinction prevents the continuity from life to cognition from becoming an identity between them.
+These relations establish an important pre-cognitive domain. A system may evaluate changing conditions, regulate itself, retain effects of earlier events and respond adaptively without those capacities alone warranting cognitive attribution. This matters because adaptive regulation can be highly sophisticated while remaining explanatorily separable from cognition (Di Paolo 2005; Corcoran et al. 2020). APS therefore distinguishes the **generation of significance** from its **cognitive organisation**. The distinction allows cognition to develop continuously from living agency without turning that continuity into an identity between them.
 
 ## 4. What Cognition Adds
 
@@ -141,21 +107,15 @@ Within APS:
 
 **Cognition is the organisation of biological significance across time.**
 
-This formulation identifies cognition as an organisation within biological agency rather than as a separate substance, mental layer or detached information-processing system.
+This formulation locates cognition within biological agency rather than treating it as a separate substance, mental layer or detached information-processing system. Yet temporal extension alone is insufficient. All living organisation has a history, and many regulatory systems retain earlier states or anticipate recurring conditions. Corcoran et al. (2020), for example, explicitly distinguish allostatic regulation from counterfactual cognition, illustrating why prospective regulation alone does not settle cognitive status.
 
-But temporal extension alone is insufficient. All living organisation has a history, and many regulatory systems retain earlier states or anticipate recurring conditions. Corcoran et al. (2020), for example, explicitly distinguish allostatic regulation from counterfactual cognition, illustrating why prospective regulation alone does not settle cognitive status.
-
-The relevant question is whether significance becomes integrated in ways that allow present activity to be modulated across viability-relevant possibilities rather than being exhausted by an immediate perturbation or fixed regulatory relation.
-
-The current APS boundary proposal expresses this transition more precisely:
+The relevant question is whether significance becomes integrated in ways that allow present activity to be modulated across viability-relevant possibilities rather than being exhausted by an immediate perturbation or fixed regulatory relation. The current APS boundary proposal expresses this transition more precisely:
 
 **Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.**
 
-This is a **provisional boundary proposal**, not a replacement for the canonical definition of cognition.
+This is a **provisional boundary proposal**, not a replacement for the canonical definition of cognition. It is deliberately stronger than responsiveness, information processing or adaptive regulation alone, while remaining weaker than accounts that require human-like reasoning, detached representation or conscious deliberation. Existing minimal-cognition programmes likewise show that the search for a cognitive boundary need not take human cognition as its necessary template (van Duijn et al. 2006; Barandiaran and Moreno 2006).
 
-It is deliberately stronger than responsiveness, information processing or adaptive regulation alone. It is also weaker than requiring human-like reasoning, detached representation or conscious deliberation. Existing minimal-cognition programmes likewise illustrate that the search for a cognitive boundary can proceed without taking human cognition as the necessary template (van Duijn et al. 2006; Barandiaran and Moreno 2006).
-
-Its purpose is not to declare in advance which organisms are cognitive. It is to specify what additional organisation would need to be demonstrated before cognitive attribution is warranted.
+The purpose of the proposal is therefore not to declare in advance which organisms are cognitive. It is to specify what additional organisation would need to be demonstrated before cognitive attribution is warranted.
 
 <div class="aps-diagram">
 
@@ -176,161 +136,75 @@ Cognition depends upon capacities established within living organisation but is 
 
 ## 5. Pre-Cognitive Organisation Is Not Deficient Cognition
 
-The distinction between pre-cognitive and cognitive organisation should not be interpreted as a biological hierarchy.
+The distinction between pre-cognitive and cognitive organisation should not be understood as establishing a biological hierarchy. To describe an activity as pre-cognitive is not to regard it as primitive cognition, failed cognition, or cognition at a lower level, but to identify forms of living organisation for which cognitive explanation has not yet been shown to be necessary. Living systems may exhibit highly sophisticated agency through metabolism, repair, homeostasis, developmental regulation, adaptive plasticity and anticipatory control, involving intricate coordination across spatial and temporal extents, without that sophistication by itself determining their cognitive status.
 
-Pre-cognitive activity is not primitive cognition, failed cognition or cognition at a lower level.
-
-Living systems can exhibit sophisticated agency without cognition. Metabolism, repair, homeostasis, developmental regulation, adaptive plasticity, anticipatory control and other forms of viability-sensitive organisation may involve intricate coordination across space and time.
-
-Their biological sophistication does not by itself determine their cognitive status.
-
-APS therefore rejects the idea that biological organisation can be arranged on a ladder running from simple regulation to higher cognition.
-
-The issue is instead explanatory:
-
-**What kind of organisation is required to explain the phenomenon under investigation?**
-
-Where immediate or fixed regulation is sufficient, cognitive explanation adds nothing merely by redescribing the process.
-
-Where integrated significance across temporally extended possibilities performs explanatory work that such regulatory accounts do not, cognitive attribution becomes a serious possibility.
-
-Pre-cognitive and cognitive organisation are therefore distinguishable without being separated by an ontological gulf.
+The relevant distinction is therefore explanatory rather than hierarchical. Where immediate or fixed regulation adequately accounts for the phenomenon under investigation, redescribing the process as cognitive provides no explanatory gain. Cognitive attribution becomes a serious possibility only where the organisation of integrated biological significance across temporally extended possibilities performs explanatory work that the established regulatory account does not. Pre-cognitive and cognitive organisation can consequently be distinguished without treating them either as positions on a ladder of biological advancement or as domains separated by an ontological gulf.
 
 ## 6. Basal Cognition Without Universal Cognition
 
-Research on basal and biogenic cognition has expanded the study of cognition beyond brains and familiar animal behaviour (Lyon 2006; Lyon 2015; Lyon et al. 2021). This expansion is important because it prevents human cognitive capacities from being treated as the template against which every other system must be measured.
+Research on basal and biogenic cognition has expanded the study of cognition beyond brains and familiar animal behaviour (Lyon 2006; Lyon 2015; Lyon et al. 2021). This expansion is important because it prevents familiar human cognitive capacities from becoming the implicit standard against which every other biological system is measured. APS shares this broader biological orientation while retaining the requirement that cognitive attribution be independently warranted.
 
-APS shares that biological orientation.
+A non-neural system should therefore not be excluded from cognition merely because it lacks a nervous system, explicit representation or human-like behavioural flexibility. Work extending cognition across biological systems demonstrates the seriousness and potential scientific importance of this wider research programme (Baluška and Levin 2016). Yet widening the field of possible cognitive systems does not warrant the reverse inference that non-neurality, adaptive complexity, information processing, self-maintenance or biological agency establishes cognition. The absence of a nervous system cannot settle the question negatively, but neither can the presence of sophisticated biological organisation settle it positively.
 
-A non-neural system should not be excluded from cognition merely because it lacks a nervous system, explicit representation or human-like behavioural flexibility. Work explicitly extending cognition across biological systems demonstrates the seriousness of this broader research programme (Baluška and Levin 2016).
-
-But the reverse inference is equally unwarranted.
-
-Non-neurality, adaptive complexity, information processing, self-maintenance or biological agency do not by themselves establish cognition.
-
-Basal cognition is therefore best approached as an empirical and explanatory question rather than as a universal property of living systems.
-
-For any proposed case, the relevant questions include:
-
-- What is the candidate agent?
-- What conditions matter for its viability?
-- What biological significance is being organised?
-- Across what temporal extent does that organisation operate?
-- What alternatives are materially available?
-- Is immediate or fixed regulation sufficient to explain the phenomenon?
-- What additional explanatory work is performed by cognitive attribution?
-
-This approach preserves the expanded evidential field of basal-cognition research while avoiding the assumption that cognition follows automatically from life.
+Basal cognition is consequently best approached as an empirical and explanatory question rather than as a universal property of living systems. For any proposed case, inquiry should establish what the candidate agent is, which conditions matter for its viability, what biological significance is being organised, and across what temporal extent that organisation operates. It should then ask what alternatives are materially available, whether immediate or fixed regulation is sufficient to explain the phenomenon, and what additional explanatory work would be performed by cognitive attribution. Approached in this way, basal-cognition research can retain its expanded evidential field without assuming in advance that cognition follows automatically from life.
 
 ## 7. Representation Is Not the Starting Point
 
-The continuity from life to cognition does not require APS to define cognition through representation.
+The continuity from life to cognition does not require APS to define cognition through representation. Cognitive organisation may be materially implemented through embodied dispositions, organism–environment coupling, retained physiological organisation or distributed regulatory processes, so demanding representation at the outset may impose requirements that are unnecessary at the minimal cognitive boundary.
 
-Many forms of cognitive organisation may be materially implemented through embodied dispositions, organism–environment coupling, retained physiological organisation or distributed regulatory processes. Demanding representation may therefore be unnecessary at the minimal cognitive boundary.
+This position is representation-neutral rather than anti-representational. Representation may become explanatorily useful, or in some cases necessary, where a phenomenon involves content-specific error, guidance concerning absent conditions, recombination, symbolic organisation or other forms of decoupled cognition. The broader philosophical literature similarly cautions against allowing representational attribution to become either automatic or explanatorily empty (Ramsey 2007). What matters is not whether representation can be assigned to a process in principle, but whether doing so explains something that would otherwise remain inadequately accounted for.
 
-This does not make APS anti-representational.
+**Representational attribution should therefore be earned by the explanatory work it performs.**
 
-Representation may become increasingly useful or necessary where explanation requires content-specific error, guidance concerning absent conditions, recombination, symbolic organisation or other forms of decoupled cognition. The broader philosophical literature likewise cautions against making representational attribution either automatic or explanatorily empty (Ramsey 2007).
-
-The point is methodological:
-
-**Representational attribution should be earned by the explanatory work it performs.**
-
-Cognition can therefore be investigated without assuming representation in advance, while remaining open to representational explanation where additional organisation warrants it.
+Cognition can on this basis be investigated without assuming representation in advance, while remaining fully open to representational explanation where the organisation of the phenomenon warrants it.
 
 ## 8. From Cognition to Mind
 
-Rejecting cognition as a universal property of life does not require identifying cognition with mind.
+Rejecting cognition as a universal property of life does not require identifying cognition with mind. Just as cognition represents an organisation of capacities grounded in biological agency without being identical with agency, mind represents a further organisation of evaluative and cognitive processes without marking the point at which cognition first appears.
 
-Mind is a further organisational development.
-
-APS treats mind as the integrated organisation of evaluative and cognitive processes through which a coherent self–world relation is maintained.
-
-Cognition can therefore occur without the full organisation associated with mind, just as biological agency can occur without cognition. Enactive work has been especially important in placing questions of mind within biological organisation rather than treating mind as an isolated substance or faculty (Varela et al. 1991; Thompson 2007), but APS retains its own distinctions among life, agency, cognition and mind.
+APS treats mind as the integrated organisation of evaluative and cognitive processes through which a coherent self–world relation is maintained. Cognition can therefore occur without the full organisation associated with mind, just as biological agency can occur without cognition. Enactive work has been especially important in placing questions of mind within biological organisation rather than treating mind as an isolated substance or faculty (Varela et al. 1991; Thompson 2007), but APS retains distinctions among life, agency, cognition and mind precisely in order to explain their relations rather than collapse them.
 
 The resulting dependency sequence is:
 
 **Life → Agency → Biological Evaluation → Significance → Integration → Cognition → Mind**
 
-This sequence does not describe independent substances, hierarchical levels or a universal chronological ladder.
-
-It identifies explanatory dependencies.
-
-Life establishes the viability-oriented organisation within which agency occurs. Agency generates viability-relative significance through Biological Evaluation. Cognition organises significance across time. Mind develops through further integration of cognitive and evaluative processes.
-
-The continuity is biological throughout, but the explanatory categories remain distinct.
+This sequence does not describe independent substances, hierarchical levels or a universal chronological ladder. It identifies explanatory dependencies within living organisation. Life establishes the viability-oriented organisation within which agency occurs; through Biological Evaluation, agency generates significance; cognition organises biological significance across time; and mind develops through further integration of cognitive and evaluative processes. The continuity is biological throughout, while the explanatory categories remain distinct.
 
 ## 9. Human Cognition Without Hierarchy
 
-Human cognition involves symbolic, linguistic, cultural and reflective capacities that greatly extend the ways biological significance can be organised.
+Human cognition involves symbolic, linguistic, cultural and reflective capacities that greatly extend the ways in which biological significance can be organised. Their distinctiveness, however, does not imply that humans occupy a higher cognitive level within a biological hierarchy. They represent particular organisations within biological and cultural histories rather than the endpoint of a ladder against which other organisms should be ranked.
 
-APS does not interpret these capacities as evidence that humans occupy a higher cognitive level in a biological hierarchy.
+The same principle applies when cognitive capacities are compared across organisms. Different systems may realise cognition through very different material organisations, temporal structures and relations with their environments, and those differences should be investigated in relation to the explanatory problems they present. The relevant question is therefore not how closely another organism approximates human cognition, but what organisation is present, what phenomenon requires explanation, and what evidence warrants cognitive attribution in that particular case.
 
-They are distinctive organisations within a broader biological history.
-
-The same principle applies across organisms. Different systems may realise cognitive capacities through very different material organisations, temporal structures and relations with their environments.
-
-Comparison should therefore not ask how closely another organism approximates human cognition.
-
-It should ask what organisation is present, what explanatory problem is being addressed, and what evidence warrants cognitive attribution in that case.
-
-Human cognition is distinctive without serving as the universal template for cognition.
+Human cognition can accordingly be recognised as distinctive without being made the universal template for cognition. This permits comparative investigation of cognitive organisation while avoiding both anthropocentric ranking and the opposite tendency to erase biologically consequential differences by treating all forms of adaptive organisation as cognitive.
 
 ## 10. No Mentalism, No Universal Attribution
 
-The APS account avoids mentalism by grounding cognition in biological organisation rather than beginning from mental content, conscious experience or an immaterial cognitive domain.
+The APS account avoids mentalism by grounding cognition in biological organisation rather than beginning from mental content, conscious experience or an immaterial cognitive domain. Naturalising cognition in this way, however, does not require treating all biological organisation as cognitive. Living systems genuinely exhibit agency, normativity, evaluation, significance, regulation and adaptive responsiveness, and these capacities need not be understood as metaphorical projections of human mentality. The question is not whether those capacities are biologically real, but what explanatory conclusions their presence warrants.
 
-But naturalising cognition does not require treating all biological organisation as cognitive.
+APS treats them as foundations from which cognition may arise rather than as sufficient evidence that cognition is already present. For the same reason, cognitive attribution cannot be inferred merely from descriptions involving sensing, information, decision, memory, anticipation or communication. Broad biological-cognition programmes have been valuable in bringing neglected phenomena into view, but the demarcation problem remains: calling a process cognitive must provide explanatory discrimination rather than merely redescribing biological complexity in cognitive vocabulary (Adams and Garrison 2013; Lyon et al. 2021).
 
-Living systems genuinely exhibit agency, normativity, evaluation, significance, regulation and adaptive responsiveness. These are not merely metaphorical projections of human mentality.
-
-The question is what follows from them.
-
-APS treats them as biologically real foundations from which cognition may arise. Their presence does not, by itself, settle whether cognition is present.
-
-This is why cognition cannot be inferred merely from words such as sensing, information, decision, memory, anticipation or communication. Broad biological-cognition programmes make valuable phenomena visible, but the demarcation problem remains: calling a process cognitive must add explanatory discrimination rather than merely redescribing biological complexity (Adams and Garrison 2013; Lyon et al. 2021).
-
-Cognitive attribution requires additional warrant.
-
-The naturalisation of cognition therefore depends not on expanding cognitive vocabulary as widely as possible, but on identifying the organisation that makes cognitive explanation appropriate.
+The naturalisation of cognition therefore depends neither on restricting cognition to familiar mental phenomena nor on extending cognitive terminology as widely as possible. It depends on identifying the organisation that makes cognitive explanation appropriate and showing why that explanation is warranted for the specified phenomenon. Cognitive attribution, on this account, remains an explanatory claim rather than an automatic consequence of biological complexity.
 
 ## 11. Continuity Without Collapse
 
-APS therefore distinguishes three propositions that can easily be conflated.
+The APS account can now be stated through three propositions that must remain distinct. **Dependence** means that cognition presupposes living agency. **Continuity** means that cognition arises through further organisation of capacities materially established within living systems. **Non-identity** means that the capacities required for biological agency do not by themselves establish cognition. Together, these propositions allow biological continuity to be maintained without turning continuity into equivalence.
 
-**Dependence:** cognition presupposes living agency.
+This position differs substantively from accounts that explicitly equate cognition and life (Stewart 1995), while the historical debate concerning autopoiesis and cognition demonstrates why continuity alone cannot determine where a cognitive boundary should be drawn (Bourgine and Stewart 2004; Bitbol and Luisi 2004). The relevant issue is not whether cognition somehow escapes biological organisation, but what additional organisation within biological agency makes cognitive explanation appropriate.
 
-**Continuity:** cognition arises through further organisation of capacities materially established within living systems.
-
-**Non-identity:** the capacities required for biological agency do not by themselves establish cognition.
-
-These propositions allow APS to reject both a sharp life–mind rupture and a universal identification of life with cognition. The contrast with positions that explicitly equate cognition and life is therefore substantive rather than merely verbal (Stewart 1995), while the historical debate over autopoiesis and cognition shows that continuity itself does not dictate one single boundary (Bourgine and Stewart 2004; Bitbol and Luisi 2004).
-
-The same logic extends toward mind.
-
-Mind depends upon cognition but is not identical with every cognitive process. Cognition depends upon agency but is not identical with every agential process. Agency depends upon living organisation but does not turn every living activity into cognition.
-
-Continuity is therefore preserved through organisational dependency rather than categorical collapse.
+The same reasoning extends from cognition toward mind. Mind depends upon cognition without being identical with every cognitive process; cognition depends upon agency without being identical with every agential process; and agency depends upon living organisation without thereby turning every living activity into cognition. What connects these categories is therefore not categorical identity but organisational dependency. Continuity is preserved because each depends upon capacities materially realised within living organisation, while explanatory discrimination is preserved because those dependencies do not make the categories interchangeable.
 
 ## 12. The Core Claim
 
-Cognition in APS belongs within biology without being coextensive with life.
+Cognition in APS belongs within biology without being coextensive with life. Living organisation establishes the viability-oriented conditions within which biological agency occurs, while biological agency actively maintains and re-establishes the conditions of persistence. Through Biological Evaluation, viability-relevant differences acquire biological significance. These capacities provide the material and normative foundations from which cognition can arise, but none of them, separately or together merely as features of living agency, makes cognitive attribution automatic.
 
-Living organisation establishes viability. Biological agency actively maintains and re-establishes the conditions of persistence. Biological Evaluation generates significance. These capacities provide the material and normative foundations from which cognition can arise.
+Cognition becomes explanatorily relevant when biological significance is organised in ways that warrant explanation beyond immediate or fixed regulation. Mind, in turn, represents a further integration of cognitive and evaluative organisation rather than the point at which cognition first enters nature. The resulting account is neither mentalist nor universally cognitive: it locates cognition within biological organisation while preserving the distinctions required to explain its emergence and subsequent development.
 
-Cognition begins when significance is organised in a way that warrants explanation beyond immediate or fixed regulation.
-
-Mind represents a further integration of cognitive organisation rather than the point at which cognition first enters nature.
-
-The resulting picture is neither mentalist nor universally cognitive.
-
-It is a biological continuity in which explanatory distinctions remain real:
+The continuity can therefore be expressed compactly:
 
 **life makes agency possible; agency generates significance; cognition organises significance across time; and mind integrates cognition into a more extensive self–world organisation.**
 
-The task is therefore not to decide whether cognition belongs either to life or to mind.
-
-It is to explain how cognition arises within life and contributes to mind without being reduced to either.
+The task is not to decide whether cognition belongs either to life or to mind, as though these were mutually exclusive domains. It is to explain how cognition arises within living organisation, how it remains distinguishable from the agency and evaluation on which it depends, and how it contributes in turn to the organisation of mind. On this account, biological continuity is preserved not by collapsing explanatory categories but by clarifying the organisation through which they are related.
 
 ## Explanatory Architecture
 
