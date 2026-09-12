@@ -28,4 +28,4 @@ APS therefore does not identify cognition with regulation, adaptive success, or 
 
 This is a proposed biological discriminator, not a consequence guaranteed by APS architecture. A cognitive interpretation must demonstrate explanatory work beyond an adequate non-cognitive regulatory account of the same phenomenon.
 
-**The test is comparative:** cognition should be attributed only where the evidence warrants the additional organisational dependency.Box saved.
+**The test is comparative:** cognition should be attributed only where the evidence warrants the additional organisational dependency.

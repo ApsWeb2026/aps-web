@@ -3,8 +3,9 @@ date: 2026-09-12
 title: "How Did Cognition Become a Biological Problem?"
 slug: how-did-cognition-become-a-biological-problem
 type: article
-status: evolving
-canonical: false
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-12
 revised: 2026-09-12
 cluster: cognition-and-mind
 role: synthesis
@@ -230,11 +231,11 @@ None is automatically decisive.
 
 A regulatory system can retain effects of previous conditions. A developmental system can respond differently according to context. A physiological system can anticipate recurrent demands. Evolution can produce highly adaptive organisation without requiring the organism itself to organise alternatives cognitively.
 
-Complexity is therefore insufficient.
+- Complexity is therefore insufficient.
 
-Adaptive success is insufficient.
+- Adaptive success is insufficient.
 
-Viability relevance is insufficient.
+- Viability relevance is insufficient.
 
 The central problem becomes one of discrimination:
 
@@ -278,11 +279,11 @@ The expanding use of cognitive concepts does not require biology either to rejec
 
 APS—Agency, Process, Scale—approaches biological phenomena through complementary analytic projections of one viability-oriented, constraint-closed living organisation.
 
-Agency asks what living systems do.
+- Agency asks what living systems do.
 
-Process asks how continuity is maintained despite change.
+- Process asks how continuity is maintained despite change.
 
-Scale asks where persistence is organised across spatial and temporal extents.
+- Scale asks where persistence is organised across spatial and temporal extents.
 
 These are analytic projections rather than components of reality. They are not independent causes, entities, domains, hierarchical levels, or successive stages.
 

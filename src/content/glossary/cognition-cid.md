@@ -27,6 +27,7 @@ relatedArticles:
   - cognition-from-life-to-mind-continuity-without-mentalism
   - the-cognitive-organisation-of-life
   - cognition-where-does-it-belong-in-biology
+  - how-did-cognition-become-a-biological-problem
   - what-is-biological-evaluation
   - what-is-biological-significance
   - what-is-integration

@@ -48,6 +48,7 @@ relatedArticles:
   - what-is-integration
   - biological-agency-without-intentions
   - cognition-where-does-it-belong-in-biology
+  - how-did-cognition-become-a-biological-problem
   - what-is-mind
   - why-life-is-not-intelligence-an-aps-clarification
 researchStreams: []

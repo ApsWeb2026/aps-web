@@ -30,6 +30,7 @@ relatedGlossaryTerms:
   - continuity
 
 relatedArticles:
+  - how-did-cognition-become-a-biological-problem
   - homeorhesis-the-maintenance-of-living-trajectories
   - development-as-organised-persistence
   - what-is-evolution-in-aps

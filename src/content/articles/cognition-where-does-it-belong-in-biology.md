@@ -37,6 +37,7 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - biological-agency-as-the-activity-of-self-maintenance
+  - how-did-cognition-become-a-biological-problem
   - what-is-biological-evaluation
   - meaning-in-biology-an-aps-clarification
   - semiosis-how-differences-come-to-matter-in-living-systems
@@ -53,7 +54,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - aps-and-contemporary-theories
   - aps-and-the-free-energy-principle
-
+  
 references:
   - id: varela1991
     authors: "Varela, F. J., Thompson, E., & Rosch, E."

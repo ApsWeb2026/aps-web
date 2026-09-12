@@ -44,6 +44,7 @@ relatedArticles:
   - what-is-biological-significance
   - what-is-integration
   - cognition-where-does-it-belong-in-biology
+  - how-did-cognition-become-a-biological-problem
   - what-is-mind
   - what-is-selfhood
   - what-is-reflective-agency
