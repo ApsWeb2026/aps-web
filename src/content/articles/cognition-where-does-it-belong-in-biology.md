@@ -3,8 +3,9 @@ date: 2026-09-12
 title: "Cognition — Where Does It Belong in Biology?"
 slug: cognition-where-does-it-belong-in-biology
 type: article
-status: evolving
-canonical: false
+status: canonical
+canonical: true
+canonicalLock: 2026-09-12
 revised: 2026-09-12
 cluster: cognition-and-mind
 role: anchor
@@ -65,9 +66,9 @@ references:
 
 **Where This Article Fits**
 
-*How Did Cognition Become a Biological Problem?* explains how changing explanatory traditions produced the contemporary cognition–regulation boundary problem, while *The Cognitive Organisation of Life* examines what cognitive organisation contributes once cognition has been independently warranted. The Minimal Cognition work addresses the more difficult empirical question of where the lower boundary of cognition should be drawn. The present article occupies the architectural position between these projects by asking **where cognition belongs within biology, what it depends upon, and what distinguishes its explanatory position from life, biological agency, evaluation, significance, integration, and regulation.**
+*How Did Cognition Become a Biological Problem? explains how changing explanatory traditions produced the contemporary cognition–regulation boundary problem, while The Cognitive Organisation of Life examines what cognitive organisation contributes once cognition has been independently warranted. The Minimal Cognition work addresses the more difficult empirical question of where the lower boundary of cognition should be drawn. The present article occupies the architectural position between these projects by asking where cognition belongs within biology, what it depends upon, and what distinguishes its explanatory position from life, biological agency, evaluation, significance, integration, and regulation.*
 
-APS defines cognition as **the organisation of biological significance across time**. This definition locates cognition within living organisation without making all living organisation cognitive. The purpose of this article is therefore to establish the explanatory place of cognition within APS while leaving disputed attribution to comparative empirical investigation.
+*APS defines cognition as **the organisation of biological significance across time**. This definition locates cognition within living organisation without making all living organisation cognitive. The purpose of this article is therefore to establish the explanatory place of cognition within APS while leaving disputed attribution to comparative empirical investigation.*
 
 ## Introduction — Where Does Cognition Belong?
 
