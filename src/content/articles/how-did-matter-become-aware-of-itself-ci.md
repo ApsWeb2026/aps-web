@@ -1,42 +1,47 @@
 ---
-title: How Did Matter Become Aware of Itself?
-slug: how-did-matter-become-aware-of-itself
 date: 2026-07-07
+title: "How Did Matter Become Aware of Itself?"
+slug: how-did-matter-become-aware-of-itself
 type: article
-revised: 2026-07-11
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
+revised: 2026-09-12
 cluster: cognition-and-mind
 role: anchor
+
 abstract: >
-  The emergence of awareness is often treated as a profound gap between matter
-  and mind. Traditional explanations either reduce mind to physical processes,
-  treat consciousness as an emergent property, or propose that mind-like
-  qualities are present throughout nature. APS approaches the problem
-  differently. Rather than asking how consciousness suddenly appears within
-  matter, it investigates how living systems become progressively organised
-  around what matters. Beginning with living organisation, APS traces a pathway
-  through agency, biological evaluation, significance, integration, cognition,
-  mind, selfhood, and reflective agency. The framework does not claim a final
-  solution to consciousness. Instead, it provides a biologically grounded
-  account of how increasingly complex forms of organisation make awareness
-  progressively intelligible.
+  The matter-to-mind problem combines several distinct explanatory questions.
+  APS approaches one of them biologically by asking how living organisation can
+  support agency, biological evaluation, significance, integration, cognition,
+  mind, selfhood, and reflective agency. These relations form an explanatory
+  architecture rather than an established developmental or evolutionary
+  sequence. APS distinguishes the biological availability of significance from
+  cognition, self-awareness, and phenomenal consciousness, and does not claim
+  to explain why subjective experience exists. Its contribution is to decompose
+  the apparent matter-to-mind gap into more specific organisational explananda
+  that can be investigated independently.
+
 keyPoints:
-  - APS reframes the matter-to-mind problem as a sequence of organisational transitions rather than a single explanatory leap.
-  - Living organisation introduces persistence, agency introduces action, and biological evaluation introduces organism-relative significance.
-  - Integration provides the bridge through which significance becomes organised into cognition.
-  - Mind, selfhood, and reflective agency emerge from increasingly coherent forms of organised cognition.
-  - APS explains the biological pathway toward awareness while treating phenomenal consciousness as an open scientific and philosophical question.
+  - The matter-to-mind problem contains distinct physical, biological-organisational, and phenomenal explananda.
+  - APS orders Life, Agency, Biological Evaluation, Significance, Integration, Cognition, Mind, Selfhood, and Reflective Agency through conceptual and explanatory dependencies, not an assumed evolutionary sequence.
+  - Cognition requires integrated biological significance to modulate activity across a temporal field of viability-relevant possibilities beyond immediate or fixed regulation.
+  - Biological availability of significance, cognitive awareness, self-awareness, and phenomenal consciousness must be distinguished.
+  - APS decomposes the explanatory gap into tractable organisational questions while leaving phenomenal consciousness unresolved.
+
 relatedGlossaryTerms:
   - consciousness
   - awareness
-  - biological agency
+  - biological-agency
+  - biological-evaluation
   - significance
   - integration
   - cognition
+  - mind
   - selfhood
-  - reflective agency
+  - reflective-agency
+  - organised-persistence
+
 relatedArticles:
   - what-is-life-a-biological-question-revisited
   - biological-agency-as-the-activity-of-self-maintenance
@@ -50,390 +55,365 @@ relatedArticles:
   - what-is-reflective-agency
   - naturalising-life
   - what-is-aps
+
 references:
-  - id: spencer-2026-agency-defining-activity-life
-    authors: Spencer, R. D.
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: Biological Theory
-    doi: 10.1007/s13752-026-00547-6
-
-  - id: di-paolo-2005-autopoiesis-adaptivity-agency
-    authors: Di Paolo, E. A.
-    year: 2005
-    title: Autopoiesis, Adaptivity, Teleology, Agency
-    journal: Phenomenology and the Cognitive Sciences
-    volume: "4(4)"
-    pages: "429–452"
-    doi: 10.1007/s11097-005-9002-y
-
-  - id: moreno-mossio-2015-biological-autonomy
-    authors: Moreno, A., & Mossio, M.
-    year: 2015
-    title: Biological Autonomy
-    publisher: Springer
-
-  - id: bich-et-al-2016-biological-regulation
-    authors: Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A.
-    year: 2016
-    title: "Biological Regulation: Controlling the System from Within"
-    journal: Biology & Philosophy
-    volume: "31(2)"
-    pages: "237–265"
-    doi: 10.1007/s10539-015-9497-8
-
-  - id: lyon-2015-cognitive-cell
-    authors: Lyon, P.
-    year: 2015
-    title: "The Cognitive Cell: Bacterial Behavior Reconsidered"
-    journal: Frontiers in Microbiology
-    volume: "6"
-    pages: "264"
-    doi: 10.3389/fmicb.2015.00264
-
-  - id: lyon-2024-apes-cognition-life-mind
-    authors: Lyon, P.
-    year: 2024
-    title: "The Cognitive Cell and the Origins of Mind: From Unicellular Cognition to the Life–Mind Continuity Thesis"
-    publisher: Oxford University Press
-
-  - id: thompson-2007-mind-in-life
-    authors: Thompson, E.
-    year: 2007
-    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
-    publisher: Harvard University Press
-
-  - id: weber-varela-2002-life-after-kant
-    authors: Weber, A., & Varela, F. J.
-    year: 2002
-    title: "Life After Kant: Natural Purposes and the Autopoietic Foundations of Biological Individuality"
-    journal: Phenomenology and the Cognitive Sciences
-    volume: "1(2)"
-    pages: "97–125"
-    doi: 10.1023/A:1020368120174
-
-  - id: nicholson-2018-organism-process
-    authors: Nicholson, D. J.
-    year: 2018
-    title: "The Concept of Organism in Evolutionary and Developmental Biology: A Process Perspective"
-    journal: Studies in History and Philosophy of Science Part C
-    volume: "67"
-    pages: "1–11"
-    doi: 10.1016/j.shpsc.2017.11.002
+  - spencer-2026-agency-defining-activity-life
+  - di-paolo-2005-autopoiesis-adaptivity
+  - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2015-closure-constraints
+  - bich-ruiz-mirazo-moreno-2016-regulation
+  - barandiaran-di-paolo-rohde-2009-defining-agency
+  - lyon-keijzer-arendt-levin-2021-reframing-cognition
+  - corcoran-pezzulo-hohwy-2020-counterfactual-cognisers
+  - varela-thompson-rosch-1991-embodied-mind
+  - thompson-2007-mind-in-life
+  - block-1995-confusion-consciousness
+  - chalmers-1995-facing-consciousness
 ---
 
 ## Introduction
 
-Among the most remarkable features of the universe is the existence of beings capable of reflecting upon it. Human beings are composed of the same physical materials found throughout nature, yet they can remember the past, imagine possible futures, question their own existence, and seek to understand the world from which they emerged. The existence of awareness, mind, and selfhood therefore presents one of the deepest challenges in both science and philosophy.
+Among the most remarkable features of the universe is the existence of beings capable of reflecting upon it. Human beings are composed of the same physical materials found throughout nature, yet they can remember the past, imagine possible futures, question their own existence, and seek to understand the world from which they arose.
 
-How can matter become capable of thought? How can physical systems develop perspective, meaning, identity, and self-understanding? Why does a universe governed by physical processes contain organisms capable of asking questions about themselves?
+How can matter become capable of thought? How can physical systems come to sustain perspective, significance, memory, identity, and self-understanding? And how should biology contribute to explaining the existence of organisms capable of asking such questions?
 
-These questions converge upon a single problem: how did matter become aware of itself?
+These questions are often gathered into a single matter-to-mind problem. But that formulation can conceal several different explanatory problems. Explaining the physical mechanisms associated with conscious experience is not the same task as explaining the biological organisation required for cognition. Neither is identical to explaining why phenomenal experience exists at all.
 
-This question lies at the heart of what may be called the matter-to-mind problem. Although different scientific and philosophical traditions formulate the problem in different ways, they all confront the same underlying puzzle: how can a world of physical processes give rise to awareness?
+APS approaches this terrain primarily through the second problem. It begins with living organisation and asks how agency, biological evaluation, significance, integration, cognition, mind, selfhood, and reflective agency should be related within a biological explanation. The resulting architecture does not describe an independently established evolutionary sequence. It identifies a set of explananda and asks what kinds of organisational dependency would have to be established to explain them.
 
-APS approaches this question from a biological perspective. Rather than beginning with consciousness itself, it begins with life. Rather than treating mind as something separate from biology, it investigates how increasingly complex forms of biological organisation give rise to increasingly sophisticated forms of cognition, selfhood, and self-directed behaviour. The central claim is not that consciousness suddenly appears within matter, but that awareness becomes progressively intelligible when viewed as part of a longer developmental sequence linking life, agency, significance, cognition, selfhood, and reflection.
+The distinction is crucial. A conceptual relation within APS does not by itself show that one capacity evolved before another, appears earlier in development, or causes another capacity to occur. Such claims require independent empirical warrant. The APS architecture instead provides an explanatory framework within which those questions can be made explicit and investigated.
 
-The title How Did Matter Become Aware of Itself? should not be understood as asking how unconscious matter suddenly became conscious. Within APS, awareness is understood as the availability of significance to an agent. Living systems become aware when conditions that matter become available for sensitivity, evaluation, coordination, and adaptive response. The emergence of awareness therefore begins not with consciousness but with biological agency and significance. As significance becomes increasingly available through more sophisticated forms of organisation, awareness becomes integrated, cognitive, minded, self-aware, reflective, and ultimately meaningful. The pathway from matter to mind is therefore also a pathway of increasingly sophisticated awareness.
+This also changes how the title of this article should be understood. *How Did Matter Become Aware of Itself?* does not assume that there was a single transition at which unconscious matter suddenly became conscious. It asks how organised living systems can acquire increasingly elaborate relations to conditions that matter to them—and how far explaining those relations takes us toward mind, selfhood, reflection, and consciousness.
 
-The result is a different way of thinking about the relationship between matter and mind—one grounded not in a single mysterious transition but in the organisational achievements of living systems.
+APS uses **awareness** in a deliberately broad biological sense when referring to the availability of significance to organised activity. That technical use must be distinguished from phenomenal consciousness: the existence of subjective experience or of something it is like to be a conscious organism. Distinguishing functional availability from phenomenal experience is well established in consciousness research, even though different theories draw the boundary in different ways (Block 1995; Chalmers 1995).
 
-> **Where this article fits:** This article represents an advanced synthesis within APS. Earlier orientation articles introduce the framework, its methodological foundations, its explanatory principles, and its conceptual architecture. The present article builds upon that foundation to explore one of APS's most ambitious questions: how increasingly sophisticated forms of biological organisation give rise to cognition, mind, selfhood, reflective agency, and awareness.
->
-> Readers unfamiliar with the broader architecture of APS should begin with *The Core Structure of APS*, which provides the conceptual foundation upon which the present synthesis is built.
+APS therefore does not begin by claiming to explain consciousness. It begins with a more tractable question: **what forms of biological organisation must be distinguished if the explanatory distance between living matter and minded life is to be understood rather than merely named?**
 
-## The Question That Connects Life and Mind
+> **Where This Article Fits**  
+> This article is an advanced synthesis within APS. It draws together concepts developed separately across the framework and uses them to organise the matter-to-mind problem. It does not establish the biological dependencies among those concepts merely by placing them in an explanatory order. Those dependencies remain subject to specification, comparison, and empirical test.
 
-For centuries, explanations of mind have often begun with an apparent divide between the physical world and conscious experience.
+## What APS Is Trying to Explain
 
-On one side lies matter: atoms, molecules, energy flows, chemical reactions, and physical processes. On the other lies mind: awareness, perception, meaning, intention, memory, imagination, and reflection. The challenge has been to explain how one becomes the other.
+The contrast between matter and mind can appear stark.
 
-The difficulty is not merely scientific but philosophical. Matter and mind appear to belong to different explanatory domains. Physical systems can be described in terms of structure, motion, and interaction, whereas minds seem to involve experience, significance, understanding, and perspective. Bridging this apparent divide has therefore become one of the central problems of modern thought.
+Physical systems can be described in terms of structures, interactions, transformations, and energetic processes. Mind introduces a different vocabulary: perception, memory, significance, anticipation, experience, intention, and reflection. The temptation is therefore to ask what additional property or mechanism crosses the divide.
 
-Faced with this challenge, many theories begin at the level of consciousness itself. They ask how subjective experience arises, how awareness is generated, or why there is something it is like to be a conscious organism. These are important questions, but APS argues that they may begin too late in the story. By focusing on consciousness as the starting point, they risk overlooking the long biological history that makes consciousness possible.
+APS proposes a different first move. Before asking how consciousness arises, it asks what must already be biologically organised for cognition, mind, selfhood, and reflective agency to become possible explananda.
 
-Before there can be consciousness, there must be life. Before there can be selfhood, there must be cognition. Before there can be cognition, there must be significance. And before anything can matter, there must be an agent for whom conditions have consequences.
+This is a decomposition of the problem, not a solution imposed in advance, and it requires at least three questions to be kept distinct. The first concerns **physical implementation**: what material processes realise a particular biological or cognitive capacity? The second concerns **biological organisation**: what relations among self-maintenance, agency, evaluation, significance, integration, and temporally extended regulation make particular forms of cognition and minded organisation possible? The third concerns **phenomenal consciousness**: why should any such organisation be accompanied by subjective experience at all?
 
-Viewed in this way, the matter-to-mind problem becomes a developmental question. The issue is not how consciousness suddenly appears within a previously mindless world, but how living systems become progressively organised around what matters. Awareness becomes something that develops through a succession of organisational achievements rather than something that appears all at once.
+APS is principally concerned with the second question, although it can contribute to the first whenever organisational claims are tied to material mechanisms. It does not presently claim to resolve the third. This restriction marks an explanatory boundary rather than a problem to be concealed.
 
-The path from matter to mind is therefore unlikely to be a single leap. It is more plausibly understood as a sequence of transitions through which living systems become increasingly capable of persistence, action, evaluation, cognition, selfhood, and reflection. The challenge is not to explain a gap between matter and mind, but to understand the pathway that connects them.
+The matter-to-mind problem becomes more scientifically manageable when the capacities grouped under “mind” are separated rather than treated as one indivisible phenomenon. Explaining biological evaluation is not yet explaining cognition; explaining cognition is not automatically explaining mind; and explaining mind is not automatically explaining selfhood. None of these explanations, taken alone or together, demonstrates why phenomenal consciousness exists. The purpose of the APS architecture is to make these distinctions explicit.
 
-## Why the Matter-to-Mind Problem Is Difficult
+## What an APS Dependency Does—and Does Not—Establish
 
-Unsurprisingly, a question as profound as the relationship between matter and mind has inspired a wide range of answers. Some thinkers argue that mind can ultimately be explained in physical terms. On this view, awareness arises from the activity of material systems organised in sufficiently complex ways. Others contend that mind represents something genuinely novel that emerges when matter reaches certain forms of organisation. Still others seek continuity between matter and mind by proposing that mind-like qualities are present throughout nature and become increasingly elaborate in complex systems.
+The concepts examined in this article are related, but not every relation among them is the same kind of dependency.
 
-Each of these approaches captures an important insight, yet each also leaves important questions unanswered.
+A **conceptual dependency** concerns how a concept is defined within APS. If cognition is understood in terms of integrated biological significance, then significance and integration are conceptually implicated in the APS account of cognition.
 
-Reductionist accounts often struggle to explain why organisation, agency, meaning, and perspective appear so important to living systems. Emergentist accounts may describe the appearance of new properties without fully explaining the sequence of transitions through which they arise. Panpsychist accounts seek to avoid a radical divide between matter and mind, but often do so by placing mind-like qualities at the foundations of reality itself.
+An **explanatory dependency** is relative to an explanandum. Explaining a particular cognitive capacity may require reference to how significance is integrated, even where other aspects of the system can be explained without that reference.
 
-Despite their differences, these approaches frequently share a common assumption. They treat the relationship between matter and mind as a gap that must somehow be crossed. The challenge then becomes identifying the mechanism, property, or process capable of bridging that divide.
+An **organisational dependency** is stronger. It claims that a capacity materially depends upon a specified organisation of biological processes or constraints. Such a claim requires biological evidence rather than conceptual coherence alone.
 
-APS proposes that the apparent gap may itself be misleading. Between matter and mind lies the entire history of life. Organisms did not move directly from physics to consciousness. They evolved through a succession of organisational transformations that introduced new capacities, new forms of regulation, new ways of interacting with the world, and increasingly sophisticated forms of agency.
+A **developmental dependency** claims that one capacity arises during ontogeny through or after another. An **evolutionary dependency** makes a corresponding historical claim about phylogeny. Neither follows simply from the order in which concepts are presented.
 
-The matter-to-mind problem therefore becomes less a question about a single mysterious transition and more a question about a developmental pathway. Rather than asking what suddenly transforms matter into mind, APS asks how biological organisation gradually becomes capable of supporting increasingly sophisticated forms of awareness.
+Causal dependency must likewise be specified independently: what are the relevant relata, what material relation connects them, and what evidence shows that changing one makes a difference to the other?
 
-## The APS Reframing
+This distinction matters throughout the matter-to-mind discussion. The sequence
 
-The phrase matter-to-mind problem can refer to several different questions. It may refer to the physical mechanisms that generate awareness, the biological pathway through which living systems became capable of awareness, or the deeper metaphysical relationship between mind and matter. APS is concerned primarily with the second of these questions. Its aim is not to provide a final metaphysical theory of consciousness, but to explain the organisational and biological developments through which awareness becomes progressively intelligible.
+**Life → Agency → Biological Evaluation → Significance → Integration → Cognition → Mind → Selfhood → Reflective Agency**
 
-Accordingly, APS approaches the problem from a different direction. Rather than beginning with consciousness and working backwards, it begins with life and works forwards. The framework investigates the sequence of organisational transitions through which living systems become progressively capable of acting, evaluating, distinguishing significance, integrating what matters, learning from experience, maintaining continuity through change, and ultimately reflecting upon themselves.
+is therefore best read here as an **explanatory architecture**. Its arrows do not mean “evolved next” or “develops next” unless evidence independently warrants that interpretation.
 
-The resulting pathway does not describe a sudden emergence of mind from matter. Instead, it traces a series of organisational achievements through which increasingly complex forms of awareness become possible.
-
-<div class="aps-diagram"> <a href="/assets/diagrams/cognition-matter-mind.svg" target="_blank" rel="noopener"> <img src="/assets/diagrams/cognition-matter-mind.svg" alt="From Matter to Mind" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>From Matter to Mind.</strong> APSI frames the transition from matter to mind as a sequence of organisational developments through which living systems become capable of agency, significance, integration, cognition, mind, selfhood, reflective agency, and meaning. </p> </div>
-
-Each stage introduces a new organisational achievement that makes subsequent developments possible. Living organisation establishes persistence; agency transforms persistence into action; biological evaluation distinguishes what matters; significance creates organism-relative worlds; integration organises significance into coherent patterns; cognition enables the adaptive use of those patterns; mind provides coherent cognitive organisation; selfhood sustains continuity through change; and reflective agency makes organised significance available for self-directed evaluation.
-
-Awareness is therefore not treated as a sudden appearance within matter. It is understood as the outcome of a long history of increasingly sophisticated organisational achievements. The remainder of this article examines those transitions in detail and explores how they contribute to a biologically grounded understanding of the emergence of mind.
-
-The organisational sequence developed throughout this article builds directly upon the dependency architecture presented in *The Core Structure of APS*. The present discussion therefore does not establish that architecture independently but explores its implications for the long-standing question of how life becomes capable of awareness, mind, and reflection.
-
-## Life: The Emergence of Persistence
-
-The APS pathway begins not with mind but with life.
-
-This starting point is important because awareness does not emerge directly from matter. Between physical processes and reflective thought lies the entire history of living organisation. Before organisms can think, remember, evaluate, or reflect, they must first exist as systems capable of maintaining themselves through time.
-
-Matter by itself does not ordinarily possess this capacity. Physical systems undergo change, but they do not actively preserve themselves against it. Rocks erode, stars exhaust their fuel, and chemical reactions proceed according to local conditions. Living systems are different. They continuously sustain their own organisation despite material turnover and environmental disturbance.
-
-Life therefore introduces something genuinely new into the history of matter: persistence.
-
-This persistence is not a form of static stability. Living systems maintain themselves by continually renewing, reorganising, and regenerating their own organisation. Cells replace damaged components, organisms repair injuries, populations reproduce, and lineages evolve across generations. Persistence therefore extends beyond the survival of particular structures. It is expressed through an ongoing capacity to sustain organised existence despite continual material and environmental change.
-
-Persistence is achieved through several interconnected capacities. Living systems maintain themselves, regenerate their organisation, adapt to changing conditions, reproduce, and evolve. Together these capacities allow life to resist thermodynamic decay and remain organised across time.
-
-From an APS perspective, these capacities express the biological imperative: the intrinsic tendency of living systems to sustain, adapt, and regenerate their organised existence. The biological imperative is neither a conscious goal nor a predetermined endpoint. Rather, it is the organising direction characteristic of living systems themselves.
-
-The emergence of life therefore introduces the first form of biological normativity. Conditions can now be better or worse for continued existence. Nutrients support persistence, injury undermines it, and environmental conditions can either enhance or threaten viability. For the first time, there is a meaningful distinction between conditions that contribute to organised existence and conditions that compromise it.
-
-Nothing yet thinks, remembers, or reflects. Yet something now has a stake in its own continued existence. This is the foundation upon which every subsequent stage of the pathway depends.
-
-## Agency: Life Becomes Active
-
-Persistence alone is not enough.
-
-A living system that merely existed without interacting with its surroundings would soon cease to exist. Organisms survive because they do not simply endure conditions; they actively engage with them. They acquire resources, avoid threats, regulate internal processes, repair damage, coordinate activity, and adapt to changing circumstances.
-
-Life therefore gives rise to agency.
-
-In APS, agency is the capacity of living systems to initiate, regulate, and coordinate context-sensitive activity in ways that contribute to their continued existence. Agency is not restricted to conscious decision-making or deliberate intention. It is a fundamental characteristic of living systems as they actively engage with the conditions that affect their viability.
-
-Agency transforms persistence into action. The organism is no longer merely something that continues through time; it becomes something that acts within time. Through countless interactions with its environment, it continually shapes and is shaped by the conditions of its existence.
-
-This activity is necessarily context-sensitive. The same environmental condition may require different responses under different circumstances. A nutrient source may be beneficial when resources are scarce yet largely irrelevant when resources are abundant. A stimulus may signal opportunity in one context and danger in another. Agency therefore involves more than reaction. It involves the flexible regulation of activity in relation to changing circumstances.
-
-Within APS, agency is the operational expression of the biological imperative. The biological imperative defines the tendency of life to sustain and regenerate itself; agency is how that tendency becomes visible in practice.
-
-The emergence of agency therefore marks a significant organisational transition. Living systems do not merely persist. They act. And once organisms act, they must distinguish among the conditions that affect their actions. This requirement introduces the next stage of the pathway: biological evaluation.
-
-## Biological Evaluation and Significance
-
-An agent exists within a world containing countless conditions, events, and possibilities. Yet not all of these matter equally.
-
-Some conditions support survival and functioning, while others threaten viability. Some create opportunities, while others impose constraints. If organisms are to act effectively, they must distinguish among these possibilities according to their consequences. This capacity is biological evaluation.
-
-Biological evaluation is the process through which living systems distinguish conditions according to their significance for viability, functioning, and adaptive persistence. Through evaluation, organisms determine what is beneficial, harmful, neutral, uncertain, or worthy of further response.
-
-Importantly, biological evaluation does not require conscious judgement. A bacterium moving toward nutrients, a plant adjusting growth toward light, and an animal avoiding danger all exhibit forms of evaluation. In each case, conditions are differentiated according to their consequences for the organism.
-
-Evaluation therefore transforms the world from a neutral collection of events into a world structured by relevance. Some conditions begin to matter. The emergence of what matters is significance.
-
-Significance refers to the organism-relative importance of conditions, events, relationships, or possibilities. Something is significant when it has consequences for the continued existence, functioning, development, or future prospects of an agent.
-
-This introduces the earliest form of perspective. The same environment can contain different significances for different organisms because each occupies its own position within the web of life. What matters to a plant may not matter to an animal. What matters to a predator may not matter to its prey. Significance is therefore relational rather than absolute.
-
-Living systems now inhabit worlds organised around what matters to them. Yet significance alone remains insufficient. Opportunities, threats, memories, internal needs, developmental pressures, and future possibilities may all compete simultaneously for relevance. Unless these concerns become organised into coherent patterns, effective cognition cannot emerge.
-
-The next challenge is therefore not identifying what matters, but organising what matters.
-
-[[box:significance-is-not-conscious-meaning]]
-
-## Integration: Organising What Matters
-
-Living systems rarely confront isolated concerns. Opportunities, threats, internal needs, developmental pressures, and future possibilities often demand attention simultaneously. The challenge is therefore not merely recognising significance but organising it.
-
-Without such organisation, significance would remain fragmented. Multiple concerns could exist, yet their relationships to one another would remain unclear. Adaptive behaviour would become increasingly difficult because significant conditions would compete without coordination.
-
-Integration addresses this problem.
-
-In APS, integration is the process through which significant relations become organised into coherent functional wholes capable of coordinated activity. It is the organisational bridge between significance and cognition.
-
-Integration does not create significance. Significance already exists through biological evaluation. Rather, integration relates significant concerns to one another within a larger functional context. Internal states become connected to environmental conditions, present circumstances become related to past experience and future possibilities, and multiple concerns become coordinated within a broader pattern of organisation.
-
-The result is not simply more information but greater coherence. Living systems do not merely accumulate significance. They organise, prioritise, coordinate, and relate significance in ways that allow adaptive behaviour to emerge.
-
-Without integration, significant conditions remain isolated, responses remain disconnected, and coordination remains limited. With integration, significance becomes organised into coherent patterns capable of supporting adaptive regulation.
-
-Yet integration alone is not cognition. Integration organises what matters. Cognition uses what has been organised.
-
-[[visual:from-fragmented-significance-to-integrated-significance]]
-
-[[box:integration-is-not-conscious-thought]]
-
-## Cognition: Using Integrated Significance
-
-Once significance has become integrated, a new possibility emerges.
-
-The organism can begin to use organised significance adaptively across time.
-
-This is cognition.
-
-In APS, cognition refers to the adaptive use of integrated significance in the regulation of behaviour and activity. Cognition is not restricted to brains, nervous systems, language, or conscious thought. It encompasses the broader capacity of living systems to sense, retain, integrate, evaluate, anticipate, and respond to conditions in ways that support their continued existence.
-
-Different organisms achieve cognition through different biological structures, yet the underlying organisational function remains the same. Cognition builds directly upon integration. Integration provides coherence; cognition employs that coherence in adaptive regulation.
-
-This enables organisms to coordinate information across time. Past experience can influence present behaviour, present conditions can be interpreted in light of previous encounters, and future possibilities can shape current action. Organisms can learn, retain information, anticipate likely outcomes, and adjust behaviour in response to changing circumstances. Present actions become informed by patterns extending beyond the immediate moment.
-
-Memory, learning, anticipation, and adaptive flexibility are therefore not additions to significance. They are developments made possible by the adaptive use of integrated significance.
-
-At this stage, the organism possesses more than a collection of responses. It possesses a coordinated capacity to engage with its world in ways informed by past experience, present conditions, and future possibilities. What matters has become organised, and what is organised can now be used.
-
-Yet another challenge remains. Learning, memory, anticipation, and adaptive regulation can occur through many interacting processes. If these processes are to contribute to a coherent relationship between organism and world, they themselves must become organised into a continuing field of concern.
-
-The next transition therefore concerns the emergence of mind.
-
-## Mind: Coherent Self–World Organisation
-
-The emergence of cognition does not by itself explain how an organism maintains a coherent relationship with its world. Learning, memory, anticipation, perception, evaluation, and adaptive regulation may all occur simultaneously, yet these activities must still be organised into a unified pattern if they are to contribute to effective engagement with the environment.
-
-This organisational achievement is mind.
-
-In APS, mind is the coherent organisation of integrated significance through which an agent maintains an ongoing relationship with itself and its world. Mind is not synonymous with consciousness, intelligence, or human thought. Rather, it refers to the increasingly integrated organisation of significance within a living system.
-
-Mind emerges when cognitive processes become organised into a coherent field of concern. Significant conditions are no longer merely registered, integrated, and used independently. They become related within a continuing pattern that connects perception, evaluation, memory, anticipation, and behaviour. The organism's world becomes organised around what matters to it and around the ways in which it can respond.
-
-This development transforms cognition into a more unified form of biological engagement. Rather than responding to isolated conditions, the organism maintains a coherent relationship between its own organisation and the wider environment. Internal states, external circumstances, remembered experiences, and anticipated possibilities become integrated within an organised self–world relationship.
-
-Mind therefore represents a major organisational achievement in the pathway from matter to awareness. Through mind, significance becomes coherently organised rather than merely adaptively utilised. Yet coherence alone does not fully explain the continuity of living systems through time. Even coherent self–world organisation must persist if it is to support enduring forms of agency.
-
-This requirement introduces the next stage of the pathway: selfhood.
-
-## Selfhood: Persistence Through Change
-
-Living systems are never static. Their structures change, their components are replaced, their experiences accumulate, and their relationships with the world continually evolve. Yet despite this ongoing transformation, organisms maintain a degree of continuity that allows them to remain recognisably the same living systems through time.
-
-APS explains this continuity through selfhood.
-
-Selfhood is the persistent integrative organisation through which living systems maintain continuity of agency, significance, cognition, and mind despite continual material, developmental, and experiential change. Selfhood does not refer to an inner entity hidden beneath change, nor does it imply an immutable personal identity. Instead, it refers to the persistence of organised continuity itself.
-
-Mind establishes coherent self–world organisation. Selfhood maintains that organisation through time.
-
-This distinction is crucial. A coherent organisation may exist momentarily, but selfhood explains how coherence persists despite continual transformation. Living systems retain continuity not because they remain unchanged, but because they continually regenerate and reorganise the relationships that sustain their existence.
-
-Selfhood therefore represents a further organisational achievement. The organism becomes not merely a coherent agent but a persistent one. Its present organisation remains connected to its past and capable of projecting itself into the future. Continuity becomes an active accomplishment rather than a passive property.
-
-Through selfhood, life acquires temporal depth. Organisms become enduring centres of agency whose histories matter to their present organisation and whose present organisation contributes to future possibilities.
-
-Yet persistence alone remains insufficient to explain the most sophisticated forms of biological organisation. A system may persist through time without evaluating or directing its own persistence. To understand how living systems become active participants in shaping their own future organisation, another transition is required.
-
-That transition is reflective agency.
-
-## Reflective Agency: Self-Directed Organisation
-
-Reflective agency emerges when a persistent self becomes capable of evaluating, directing, and transforming its own agency.
-
-This is one of the most significant organisational developments in the APS pathway. Earlier forms of agency enable organisms to act within the world. Reflective agency enables them to become active participants in shaping how they act within the world.
-
-The distinction is subtle but profound.
-
-Agency enables activity.
-
-Cognition enables evaluation.
-
-Mind enables coherent self–world organisation.
-
-Selfhood enables continuity through change.
-
-Reflective agency enables a persistent self to evaluate, direct, and transform its own patterns of action and organisation.
-
-Importantly, reflective agency should not be confused with consciousness, self-awareness, or metacognition, although all may contribute to it. Reflective agency concerns self-direction. It refers to the capacity of an organised, persistent self to become a causal participant in shaping its own future development.
-
-This capacity reaches its most sophisticated expression in human beings, where reflection can influence values, commitments, beliefs, goals, institutions, and long-term life trajectories. Yet reflective agency should not be understood as appearing suddenly or independently of earlier biological organisation. It emerges from capacities already established through agency, significance, integration, cognition, mind, and selfhood.
-
-The pathway from matter to mind therefore does not culminate merely in awareness. It culminates in the emergence of systems capable of directing aspects of their own continuing organisation.
-
-Through reflective agency, the history of life begins to participate consciously and deliberately in its own future.
-
-## The Organisational Achievements of Awareness
-
-Viewed individually, the stages of the APS pathway may appear to describe separate concepts. Viewed together, they reveal a progressive sequence of organisational achievements through which increasingly sophisticated forms of awareness become possible.
-
-Life introduces persistence. Agency transforms persistence into active engagement. Biological evaluation distinguishes conditions according to their consequences. Significance creates organism-relative worlds structured around what matters. Integration organises significance into coherent patterns. Cognition enables adaptive regulation across time. Mind establishes coherent self–world organisation. Selfhood maintains that organisation through change. Reflective agency allows organised persistence to become self-directed.
-
-Taken together, these developments reveal a gradual transformation in the relationship between living systems and their environments. What begins as persistence becomes action. Action becomes evaluation. Evaluation gives rise to significance. Significance becomes organised, utilised, integrated into coherent self–world relations, sustained through time, and eventually directed toward future possibilities.
-
-The pathway therefore does not describe a sequence of independent capacities. Each stage builds upon those preceding it and creates conditions for those that follow. The emergence of awareness is not a single event but the cumulative result of increasingly sophisticated forms of biological organisation. Awareness in this sense refers to the increasing availability of significance to living systems as organisational complexity deepens across biological, cognitive, and reflective forms of organisation.
-
-From this perspective, awareness appears less as a mysterious property added to matter and more as an achievement of organised living systems.
+APS consequently makes itself answerable to biology rather than allowing its conceptual structure to predetermine biological history.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/cognition-awareness-significance.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/cognition-mm-organisational-explananda.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/cognition-awareness-significance.png"
-      alt="Awareness as the Availability of Significance"
+      src="/assets/diagrams/cognition-mm-organisational-explananda.png"
+      alt="APS matter-to-mind explanatory architecture showing Living Organisation and Organised Persistence, Agency, Biological Evaluation and Significance, Integration, Cognition, Mind, Selfhood, and Reflective Agency as conceptually ordered explanatory questions, with Phenomenal Consciousness separated as an unresolved explanandum."
       loading="lazy"
     />
   </a>
-
-  <p class="aps-diagram-caption">
-    <strong>Awareness as the Availability of Significance.</strong>
-    In APS, awareness is not a separate stage in the Matter-to-Mind pathway. It is a distributed and graded property through which significance becomes increasingly available to living systems. As biological organisation becomes more sophisticated, awareness becomes increasingly integrated, cognitive, minded, self-aware, reflective, and meaningful.
+  <p class="diagram-caption">
+    <strong>From the Matter-to-Mind Problem to Organisational Explananda.</strong>
+    APS orders Life, Agency, Biological Evaluation, Significance, Integration, Cognition, Mind, Selfhood, and Reflective Agency as related explanatory questions. The ordering does not establish developmental or evolutionary chronology. Claims of material, causal, developmental, or evolutionary dependency require independent empirical warrant. Phenomenal consciousness remains a distinct unresolved explanandum.
   </p>
 </div>
 
+## Living Organisation and Organised Persistence
+
+The biological part of the matter-to-mind problem begins with life.
+
+APS defines life as **viability-oriented, constraint-closed organisation**. This organisation consists in the ongoing modulation of constraints through which a system actively maintains and re-establishes the conditions of its own persistence.
+
+The relevant phenomenon is therefore not persistence in the generic sense. Non-living structures can persist. What requires biological explanation is **organised persistence**: the continuing activity through which living systems maintain themselves despite material turnover, disturbance, and changing conditions.
+
+Work on biological autonomy, constraint closure, and endogenous regulation provides an important scientific and philosophical background to this view. Living organisation is not adequately characterised as a static arrangement of components. Its continuity depends upon mutually dependent processes and constraints whose activity contributes to maintaining the organisation within which those processes remain possible (Moreno and Mossio 2015; Montévil and Mossio 2015; Bich et al. 2016).
+
+APS develops this organisational insight in viability-oriented terms (Spencer 2026). Conditions are not equivalent for a living system. Some support the continuation of its organisation; others impair or destroy it. This asymmetry provides the biological basis for normativity without requiring conscious judgement or an externally imposed purpose.
+
+Living organisation is therefore non-indifferent to conditions because different conditions have different consequences for viability.
+
+This does not require a separate force or intrinsic “direction” acting behind biological activity. Nor does it require organisms to represent survival as a goal. Viability orientation is expressed materially through the organisation and activity by which living systems maintain and re-establish the conditions of their own functioning.
+
+That organised persistence establishes the biological setting within which agency and significance can be understood.
+
+## Agency: What Living Organisation Does
+
+APS does not treat agency as a second entity added to life after self-maintenance has already been established.
+
+**Biological agency is viability-oriented organisational activity.**
+
+Agency is therefore what living systems do as the organisation of life is enacted and sustained. Organisms regulate internal processes, acquire resources, repair damage, alter activity under changing conditions, and interact selectively with their environments. Such activity need not involve intention, deliberation, consciousness, or representation.
+
+This conception is compatible with approaches that connect biological agency to autonomy, normativity, adaptivity, and organised interaction while differing over how agency should ultimately be delimited (Di Paolo 2005; Barandiaran, Di Paolo, and Rohde 2009; Moreno and Mossio 2015). APS gives explanatory priority to viability-oriented organisation: agency is the present-tense activity through which that organisation operates.
+
+Agency is context-sensitive because the consequences of conditions depend upon the state and organisation of the agent. A resource can be significant under one condition and irrelevant under another. The same environmental change can support viability in one context and undermine it in another.
+
+The important transition here is therefore explanatory rather than historical. Once living organisation is considered as activity, biology must explain not only how organisation persists but how activity is modulated relative to conditions that make a difference to that persistence.
+
+That is the problem addressed by biological evaluation.
+
+## Biological Evaluation and Significance
+
+An agent exists amid innumerable conditions, only some of which make a difference to its viability.
+
+APS calls the process through which those differences become biologically consequential **Biological Evaluation**.
+
+**Biological Evaluation is the process through which agency generates significance.**
+
+Evaluation in this sense is not judgement, deliberation, preference, or conscious appraisal. It is the viability-relative differentiation of conditions through organised activity. A condition can support functioning, compromise it, alter future possibilities, or make little difference within the relevant biological context.
+
+The result is captured by the APS concept of Significance:
+
+**Significance is a relationally real product of biological evaluation.**
+
+It is relational because significance is not an intrinsic property carried by an environmental object independently of an organism. A chemical gradient, temperature change, obstacle, resource, or physiological disturbance becomes significant through its relation to an organised agent and the conditions of that agent's viability.
+
+This avoids two opposite mistakes: treating significance as merely subjective or mental, when biological significance can be real without being consciously experienced; and treating significance as a property simply present in information, when information can describe a difference without establishing why that difference matters to a particular living organisation.
+
+Biological Evaluation therefore provides the relation through which conditions become significant for agency. This claim is conceptual within APS, while particular claims about how evaluation is materially realised must be established in the biological systems concerned.
+
+[[box:significance-is-not-conscious-meaning]]
+
+Significance also remains distinct from cognition. A condition can matter to an organism without the organism possessing the temporal and counterfactual organisation required by the APS criterion for cognition.
+
+The next explanatory question is therefore how multiple relations of significance become organised together.
+
+## Integration: Organising What Matters
+
+Living systems rarely encounter biologically significant conditions one at a time.
+
+Internal state, environmental opportunity, damage, resource availability, developmental condition, prior activity, and competing demands can all bear upon what the system does. Biological organisation must therefore coordinate relations that would otherwise remain functionally fragmented.
+
+APS calls this **Integration**.
+
+**Integration is the organisation of what matters into functional unity.**
+
+Integration does not create significance; Biological Evaluation does that. Integration concerns the organisation of significant relations so that they can contribute coherently to ongoing activity.
+
+Research on integrated biological control reinforces the importance of coordination within living organisation: biological regulation often depends not upon a single controller but upon organised relations among mutually constraining processes (Bich et al. 2016). APS extends this organisational question specifically to significance.
+
+Integration can relate internal conditions to environmental circumstances, coordinate competing demands, connect activity across time, and organise multiple viability-relevant relations within a functional whole.
+
+But integration alone is not cognition.
+
+A biological system may exhibit elaborate coordination and regulation without thereby satisfying a useful cognitive criterion. If every sufficiently integrated regulatory process were called cognitive, the distinction between biological regulation and cognition would become difficult to maintain.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-to-functional-integration.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-to-functional-integration.png"
+      alt="Diagram showing multiple viability-relevant relations organised through Integration into functional coherence, coordinated activity, and context-sensitive organisation, with cognition separately requiring temporal and counterfactual depth."
+      loading="lazy"
+    />
+  </a>
+  <p class="diagram-caption">
+    <strong>From Fragmented Significance to Functional Integration.</strong>
+    Integration organises multiple viability-relevant relations into functional unity and coordinated activity. This organisation does not by itself establish cognition. In APS, cognition additionally requires integrated significance to modulate activity across a temporal field of viability-relevant possibilities beyond immediate or fixed regulation.
+  </p>
+</div>
+
+[[box:integration-is-not-conscious-thought]]
+
+The explanatory boundary therefore lies not at integration alone but at what integrated significance can do across a field of possibilities.
+
+## Cognition: Organisation Across Viability-Relevant Possibilities
+
+APS requires a stronger criterion for cognition than adaptive response, information processing, complexity, or integrated regulation alone.
+
+The relevant distinction is between activity governed by what is immediately actual or fixed in advance and activity organised across a temporal field of viability-relevant possibilities.
+
+The controlling APS formulation is:
+
+**Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.**
+
+This criterion is intended to preserve continuity between life and cognition without making the two identical.
+
+Research on minimal cognition has increasingly challenged assumptions that cognition must require human-like representation, language, or even a nervous system, while also raising the problem of how cognition can be distinguished from adaptive biological regulation generally (Lyon et al. 2021). APS addresses that boundary through temporal and counterfactual depth.
+
+Past conditions can alter the significance of present conditions. Anticipated possibilities can modulate present activity. Learning can change how later situations are evaluated. Multiple possible trajectories can become relevant to current regulation.
+
+What matters is not simply that a system has dispositions that would produce different outputs under different inputs. Every complex regulatory system can possess such conditional structure. Cognition requires that alternatives acquire operational relevance within the organisation of present activity.
+
+The distinction is therefore between a system that merely *could* respond differently under another condition and one whose current activity is modulated by biologically significant possibilities extending beyond the immediately actual condition.
+
+Work connecting biological regulation, active inference, and counterfactual cognition illustrates why this boundary is scientifically consequential even where theoretical interpretations differ (Corcoran, Pezzulo, and Hohwy 2020). APS does not adopt every theoretical commitment of those approaches. It uses the comparison to sharpen the explanandum.
+
+Cognition, on this account, remains biologically grounded. It depends upon agency, significance, and integration as those concepts are specified within APS. But that is an explanatory and conceptual dependency. Whether particular cognitive capacities depend upon particular biological structures or evolved through particular historical transitions remains an empirical question.
+
+## Mind: Coherent Cognitive Self–World Organisation
+
+Cognition does not exhaust the phenomena ordinarily associated with mind.
+
+An organism may integrate significance across time and possibilities while leaving open a further question: how are multiple evaluative and cognitive processes organised into a coherent relation between the organism and its world?
+
+APS uses **Mind** for this more specific explanatory target.
+
+**Mind consists in integrated evaluative cognitive processes maintaining a coherent self–world relation.**
+
+Mind is therefore not synonymous with consciousness. Nor is it merely another name for cognition or a quantitative increase in integration.
+
+The concept identifies an organisation in which perception, evaluation, memory, anticipation, and action participate in a sufficiently coherent pattern that relations between the agent and its world are maintained across changing conditions.
+
+This formulation shares concerns with embodied and enactive approaches that resist treating mind as an isolated internal computational domain and instead emphasise the organised relation between living agents and their worlds (Varela, Thompson, and Rosch 1991; Thompson 2007). APS nevertheless retains its own explanatory architecture and criteria.
+
+The important point is not that cognition “turns into” mind at a universal biological threshold. The claim is that **mind names a different explanandum**. Where minded organisation is attributed, explanation must address not merely individual cognitive capacities but their integration into a coherent self–world relation.
+
+That relation introduces a further question: what kind of continuity allows such organisation to remain organised as the system itself changes?
+
+## Selfhood: Continuity Across Change
+
+Living systems change continuously. Their components turn over, their environments change, and their histories alter the conditions under which they act.
+
+But biological persistence alone should not be identified with selfhood.
+
+If every instance of self-maintenance were sufficient for selfhood, the concept would add little to the account of life already given. APS therefore reserves **Selfhood** for a more specific form of organised continuity relevant to minded and cognitive organisation.
+
+Selfhood is **continuity across change**.
+
+In the present context, it concerns the organisation through which a cognitive agent's relations of significance, activity, and self–world coherence remain connected through transformation. It does not require an immutable inner entity. Nor is it identical to personal identity, reflective self-conception, or phenomenal consciousness.
+
+Processual and embodied approaches provide useful resources for understanding why continuity need not mean material sameness (Varela, Thompson, and Rosch 1991; Thompson 2007). APS places that insight within its viability-oriented architecture.
+
+Selfhood therefore concerns an active achievement of continuity rather than the persistence of an unchanging substance.
+
+This claim should also be bounded carefully. APS does not infer from its definition that every mind must exhibit the same form of selfhood, that selfhood occurs at a universal biological threshold, or that evolutionary history passed through a discrete Mind → Selfhood transition.
+
+The dependency is explanatory: if a biological system is to count as a continuing self in the relevant APS sense, its organisation must explain continuity of cognitive agency across change.
+
+That opens the possibility of a further form of organisation in which aspects of agency themselves become objects of evaluation and modification.
+
+## Reflective Agency: Agency Directed Toward Agency
+
+Agency acts. Reflective agency concerns the capacity for organised agency to become directed toward aspects of its own activity.
+
+In APS, **Reflective Agency** refers to the capacity of a sufficiently organised self to evaluate, direct, and modify aspects of its own agency.
+
+The concept should not be confused with ordinary biological evaluation. Biological Evaluation already occurs within agency and precedes cognition conceptually within APS. Reflective agency therefore does not introduce evaluation for the first time. It introduces a different relation: evaluative organisation can now bear upon the agent's own patterns of activity, commitments, strategies, or organisation.
+
+Reflective agency is also not synonymous with consciousness, self-awareness, or metacognition, although particular forms of reflection may involve them.
+
+Human beings provide especially elaborate examples. People can examine reasons for action, reconsider commitments, alter habits, revise plans, coordinate long-term projects, and deliberately reshape aspects of their relations with other people and institutions. These capacities show how deeply self-directed agency can become organised.
+
+They should not, however, be described as the “highest” point of a biological hierarchy. Nor does their existence establish that evolution follows a predetermined trajectory toward reflection.
+
+Reflective agency is instead one especially elaborated form of self-directed biological organisation relevant to the matter-to-mind question.
+
+The explanatory task is to determine what organisation makes such self-direction possible and how it is materially implemented—not to infer its history from its position in an APS diagram.
+
+## Awareness and the Availability of Significance
+
+The word **awareness** creates a special difficulty because it is used in many different ways.
+
+In ordinary language, awareness often implies conscious experience. In cognitive science and philosophy of mind, distinctions are commonly made between information or content being available for cognitive use and there being something it is like to experience that content. Block's distinction between access-consciousness and phenomenal consciousness is one influential expression of this problem (Block 1995). Chalmers likewise distinguishes functional phenomena associated with awareness from the further problem of conscious experience (Chalmers 1995).
+
+APS must therefore make its own usage explicit. At the broadest biological level, APS uses **awareness** technically for the **availability of significance to organised activity**, without implying that every organism displaying biological evaluation is phenomenally conscious.
+
+Several distinctions are consequently required. **Biological availability of significance** occurs when viability-relevant differences are available to modulate organised agency. **Cognitive awareness**, where that term is appropriate, requires the stronger cognitive organisation described earlier: integrated significance operates across a temporal field of viability-relevant possibilities beyond immediate or fixed regulation. **Self-awareness** requires still more specification because some aspect of the organised self must itself become available within cognition. **Phenomenal awareness or consciousness**, by contrast, concerns subjective experience—whether and how there is something it is like for the organism.
+
+These distinctions are analytic controls rather than claims that biology contains four discrete stages of awareness; their purpose is to prevent one explanatory achievement from being mistaken for another.
+
+Most importantly, the broad APS concept of biological awareness must never be used to define the problem of phenomenal consciousness away.
+
+Showing that significance is available to biological regulation does not show that the organism experiences that significance.
+
+Showing that integrated significance supports cognition does not show why cognition is accompanied by experience.
+
+Showing that a system possesses coherent self–world organisation does not show why there should be something it is like to instantiate that organisation.
+
+The matter-to-mind problem becomes clearer when these questions are separated.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-awareness.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/cognition-awareness.png"
+      alt="Four distinct APS awareness explananda shown side by side: biological availability of significance, cognitive awareness, self-awareness, and phenomenal consciousness, explicitly presented as separate explanatory questions rather than stages on a continuum."
+      loading="lazy"
+    />
+  </a>
+  <p class="diagram-caption">
+    <strong>Awareness Is Not One Explanandum.</strong>
+    APS distinguishes the biological availability of significance, cognitive awareness, self-awareness, and phenomenal consciousness. These distinctions organise different explanatory questions; they do not represent four established biological stages. Biological or cognitive availability does not by itself establish subjective experience.
+  </p>
+</div>
 
 ## Does This Explain Consciousness?
 
-A natural question arises at this point: does the APS pathway explain consciousness?
+No—not if “explain consciousness” means explain why subjective experience exists.
 
-The answer depends on what is meant by explanation.
+APS does not presently explain why any biological organisation should be accompanied by phenomenal experience. It does not derive consciousness from constraint closure, agency, significance, integration, cognition, mind, or selfhood. Nor does it claim that identifying organisational prerequisites eliminates the philosophical problem of experience.
 
-APS does not claim to solve every aspect of the philosophical problem of consciousness. Questions concerning subjective experience, phenomenal awareness, and what it is like to be a conscious organism remain among the most difficult questions in philosophy and science. The framework does not offer a complete theory of consciousness in this strong sense.
+This limitation parallels a central distinction in consciousness research. Functional questions concerning discrimination, integration, cognitive availability, report, memory, and control can be investigated without thereby resolving why those functions should be accompanied by experience (Block 1995; Chalmers 1995).
 
-What APS does provide is a biological account of the organisational developments that make consciousness increasingly intelligible. Rather than treating consciousness as an isolated phenomenon requiring explanation in its own right, APS situates it within a much broader developmental context.
+APS therefore makes a more restricted claim: it decomposes the matter-to-mind problem into biologically tractable organisational questions.
 
-The framework explains how living systems become capable of persistence, agency, evaluation, significance, integration, cognition, mind, selfhood, and reflection. These organisational achievements do not by themselves eliminate the hard problems of consciousness, but they dramatically reduce the apparent explanatory distance between matter and minded life.
+How does living organisation maintain itself?
 
-Whether consciousness ultimately requires additional explanation remains an open question. What APS demonstrates is that much of what is commonly associated with awareness can be understood as emerging from the progressive organisation of living systems.
+How does that organisation act relative to viability?
 
-The mystery may not disappear entirely, but it becomes more sharply defined and more biologically grounded.
+How do conditions become significant?
 
-## Matter Becoming Aware of Itself
+How is significance integrated?
 
-The traditional matter-to-mind problem is often presented as a stark contrast between physical processes and conscious awareness. APS suggests that this framing overlooks the most important part of the story: the emergence and evolution of life.
+When does integrated regulation acquire sufficient temporal and counterfactual depth to count as cognition?
 
-Between matter and mind lies a long history of organisational transformation. Through that history, living systems become capable of persistence, action, evaluation, significance, integration, cognition, self–world organisation, continuity through change, and self-direction. Each stage extends the possibilities established by the stages before it.
+How can cognitive processes maintain coherent self–world relations?
 
-Seen from this perspective, awareness is not imposed upon matter from outside, nor does it appear suddenly through an inexplicable leap. Awareness emerges as significance becomes increasingly available to living systems through progressively more sophisticated forms of organisation. It emerges through the progressive organisation of living systems and through the increasingly sophisticated ways in which those systems engage with conditions that matter to them.
+How is such organisation continuous through change?
 
-The question therefore changes. Rather than asking how matter suddenly becomes mind, we ask how organised matter becomes capable of sustaining itself, acting within the world, distinguishing significance, developing coherent self–world relations, maintaining continuity through change, and ultimately directing aspects of its own future organisation.
+Under what conditions can agency become directed toward aspects of its own organisation?
 
-The matter-to-mind problem becomes a problem of organisational development.
+These questions do not solve phenomenal consciousness. But neither are they trivial preliminaries. They identify substantial explanatory work that can be pursued biologically without pretending that the remaining problem has disappeared.
 
-## Conclusion: From Matter to Reflection
+APS therefore **decomposes the explanatory gap rather than claiming to close it**.
 
-The central question of this article has been deceptively simple: how did matter become aware of itself?
+## What the Matter-to-Mind Architecture Establishes
 
-APS approaches this question by replacing a single explanatory gap with a developmental pathway. Rather than treating awareness as a mysterious property that suddenly appears within matter, the framework investigates the sequence of organisational achievements through which living systems become progressively capable of increasingly sophisticated forms of engagement with themselves and their worlds.
+The architecture developed in this article establishes a disciplined relationship among explanatory questions. Life identifies viability-oriented, constraint-closed organisation and the problem of organised persistence, while Agency identifies the activity through which that organisation is enacted. Biological Evaluation identifies the viability-relative process through which agency generates significance, and Significance identifies the relational reality of what matters for an agent. Integration then identifies the organisation of what matters into functional unity.
 
-- Life establishes persistence.
-- Agency transforms persistence into action.
-- Biological evaluation distinguishes what matters.
-- Awareness makes what matters available.
-- Integration organises significance into coherent relationships.
-- Cognition enables adaptive regulation.
-- Mind establishes coherent self–world organisation.
-- Selfhood sustains that organisation through change.
-- Reflective agency allows organised persistence to become self-directed.
+Cognition identifies a stronger organisation in which integrated significance modulates activity across a temporal field of viability-relevant possibilities beyond immediate or fixed regulation. Mind identifies integrated evaluative cognitive organisation maintaining a coherent self–world relation, while Selfhood identifies continuity of such organised cognitive agency across change. Reflective Agency identifies the possibility that aspects of agency itself become subject to organised evaluation and direction. Awareness, used biologically, concerns the availability of significance within these forms of organisation; phenomenal consciousness remains a separate unresolved explanandum.
 
-Viewed individually, these developments may appear modest. Viewed together, they reveal a profound transformation in the history of life. Matter becomes organised into systems capable of maintaining themselves, acting upon the world, evaluating conditions, organising significance, developing coherent relations with themselves and their environments, and ultimately participating in the direction of their own future organisation.
+What this architecture establishes are **conceptual and explanatory relations within APS**. It specifies distinctions that biological explanation must respect if these concepts are to do different scientific work, identifies candidate organisational dependencies that can be investigated empirically, and prevents a single word such as *mind*, *awareness*, or *consciousness* from carrying several explanatory burdens at once.
 
-Reflective agency represents the highest point reached by this pathway within APSI. Through it, living systems become more than adaptive participants in their environments. They become active participants in their own becoming.
+What the architecture does not establish is equally important. It does not show that evolution passed through these concepts as discrete stages, that every lineage develops increasingly elaborate cognition, or that each relation corresponds to a single biological transition. Nor does it show that conceptual dependency is causal dependency or that phenomenal consciousness follows from the architecture. Those remain separate questions, and the strength of the architecture lies not in making them unnecessary but in making them visible.
 
-The result is not a final solution to every philosophical question about consciousness or subjectivity. It is, however, a biologically grounded account of the organisational developments that make awareness increasingly intelligible. In this sense, the APS pathway offers a new way of approaching one of humanity's oldest questions.
+## Conclusion: From Explanatory Gap to Organisational Questions
 
-Readers interested in the methodological foundations of this programme may wish to explore Naturalising Life, which explains how APS approaches difficult concepts through processes of naturalisation and conceptual stabilisation. The Matter-to-Mind pathway can be understood as an extension of that broader effort to render increasingly complex dimensions of life scientifically intelligible.
+How did matter become aware of itself?
 
-Readers seeking the architectural foundations of this synthesis may wish to explore *The Core Structure of APS*, *APS Architecture Map*, and *How APS Concepts Fit Together*, which together explain the conceptual relationships and dependency structure upon which the present account is based.
+APS does not answer this by proposing a moment at which matter crossed a boundary and became mind, nor does it replace that leap with a predetermined ladder running from simple life toward reflective humanity. It changes the explanatory problem.
 
-Matter did not simply become aware of itself. Through life, agency, significance, cognition, selfhood, and reflection, organised matter gradually became capable of understanding and shaping itself. 
+Once living organisation exists, conditions can make different contributions to viability. Through agency, those differences can modulate activity; through Biological Evaluation, they acquire significance; and through Integration, what matters can become functionally organised. Under sufficiently deep temporal and counterfactual organisation, integrated significance can participate in cognition. Cognitive organisation can, in turn, raise further questions about mind, continuity of selfhood, and the capacity of agency to become directed toward itself. These are related explananda, not automatically historical stages, and their relations become biological claims only when the relevant dependencies are specified and empirically warranted. APS architecture cannot substitute for that work.
+
+This methodological restriction also clarifies what remains unexplained. Biological availability of significance is not phenomenal consciousness; cognition is not consciousness; and mind, selfhood, and reflective agency do not by themselves explain subjective experience.
+
+The matter-to-mind problem therefore does not disappear. It becomes differentiated.
+
+Part of the original mystery can be reformulated as questions about organised persistence, agency, evaluation, significance, integration, temporal organisation, self–world coherence, continuity, and self-direction. These questions can increasingly be connected to material biological organisation and subjected to empirical investigation. Another part remains: why any of this organisation should be accompanied by experience. APS leaves that question open.
+
+Its contribution is more disciplined and, for biology, more useful. It asks how far the explanatory distance between matter and mind can be traversed through increasingly precise accounts of living organisation—and marks clearly where those accounts cease to be sufficient. Matter did not need to acquire a mysterious additional substance for biology to confront the matter-to-mind problem; it needed to become organised in ways that made viability, significance, cognition, self–world relations, continuity, and self-direction possible explananda.
+
+Understanding those forms of organisation does not complete the explanation of consciousness. It tells us more precisely what has been explained, what remains to be tested, and what still remains unknown.

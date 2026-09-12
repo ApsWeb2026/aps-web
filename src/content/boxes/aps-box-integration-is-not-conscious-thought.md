@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
-revised: 2026-07-07
+revised: 2026-09-12
 cluster: cognition-and-mind
 relatedConcepts:
   - integration
@@ -15,12 +15,22 @@ relatedConcepts:
   - mind
 ---
 
-Significance identifies what matters to an organism. Integration organises those significant concerns into coherent functional patterns. Neither process should be mistaken for conscious thought.
+Significance identifies viability-relevant relations. **Integration is the organisation of what matters into functional unity.**
 
-In APS, integration is the process through which significant relations become organised into coherent functional wholes capable of coordinated activity. It allows multiple concerns, needs, opportunities, risks, and constraints to be related to one another within a larger organisational context.
+Neither should be confused with conscious thought.
 
-Integration therefore solves a problem of coherence rather than a problem of consciousness. It enables living systems to coordinate what matters, but it does not by itself generate awareness, subjective experience, or reflective thought.
+Integration concerns the coordination of significant relations so that they can contribute coherently to organised activity. Internal conditions can be related to environmental circumstances, competing demands can be coordinated, and multiple viability-relevant relations can participate in a functional whole.
 
-Conscious thought, where it exists, depends upon many additional organisational achievements, including cognition, mind, selfhood, and reflective agency. Integration is a necessary bridge within this pathway, but it is not identical with mind.
+This organisation may be biologically elaborate without satisfying the APS criterion for cognition.
 
-In APS, integration organises significance. Cognition uses organised significance. Mind emerges from increasingly coherent forms of cognitive organisation.
+In APS, cognition requires more than integration. **Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.**
+
+Integration therefore does not by itself establish cognition, conscious thought, or phenomenal experience.
+
+Nor should the explanatory relation among Integration, Cognition, Mind, Selfhood, and Reflective Agency be read as proof of a universal developmental or evolutionary sequence. The APS architecture specifies conceptual and explanatory dependencies. Claims of material, causal, developmental, or evolutionary dependency require independent empirical warrant.
+
+Mind identifies a further explanandum: **integrated evaluative cognitive processes maintaining a coherent self–world relation**.
+
+Phenomenal consciousness remains different again. Showing that significant relations are integrated, or even that they participate in cognition, does not explain why there should be something it is like to instantiate that organisation.
+
+**Integration organises what matters. It is neither cognition nor conscious thought by itself.**

@@ -6,7 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
-revised: 2026-07-07
+revised: 2026-09-12
 cluster: cognition-and-mind
 relatedConcepts:
   - biological-evaluation
@@ -15,10 +15,20 @@ relatedConcepts:
   - mind
 ---
 
-In APS, significance refers to the organism-relative importance of conditions, events, relationships, or possibilities. Something is significant when it has consequences for the viability, functioning, development, or future prospects of an agent.
+In APS, **Significance is a relationally real product of biological evaluation**.
 
-Significance should not be confused with conscious meaning. Living systems can distinguish what matters long before they possess conscious awareness, reflective thought, or symbolic understanding. A bacterium moving toward nutrients, a plant responding to changing light conditions, or an animal avoiding danger all exhibit sensitivity to significance without necessarily exhibiting conscious meaning.
+Significance arises because conditions make different viability-relevant differences to an organised agent. A resource, threat, internal disturbance, environmental change, or possible action can matter because of its relation to the organisation and continued functioning of that agent.
 
-Significance therefore represents a biological achievement rather than a conscious one. It emerges through biological evaluation, which distinguishes conditions according to their consequences for an organism. Conscious meaning, where it exists, builds upon this more fundamental capacity.
+This does not imply conscious meaning.
 
-In APS, significance explains how the world becomes organised around what matters to an agent. It does not imply that the agent is consciously aware of that significance.
+Biological significance can be real without being consciously experienced. Biological Evaluation is not conscious judgement, and significance is not a mental interpretation added to otherwise neutral biological activity.
+
+The distinction is important because several different explanatory questions can otherwise be collapsed together.
+
+A condition may be significant because it makes a viability-relevant difference to organised activity. That does not establish that the organism experiences the condition, represents it consciously, or understands it symbolically.
+
+Significance should therefore be distinguished from both cognition and phenomenal consciousness.
+
+Within APS, claims that conscious or reflective forms of meaning depend upon biological significance are explanatory dependency proposals. They should not be treated as established evolutionary chronology merely because significance occupies an earlier position in the APS explanatory architecture.
+
+**Significance identifies what matters biologically. It does not by itself establish conscious meaning.**

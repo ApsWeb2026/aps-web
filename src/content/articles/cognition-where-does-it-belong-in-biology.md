@@ -5,7 +5,7 @@ slug: cognition-where-does-it-belong-in-biology
 type: article
 status: canonical
 canonical: true
-canonicalLock: 2026-09-12
+canonicalLockDate: 2026-09-12
 revised: 2026-09-12
 cluster: cognition-and-mind
 role: anchor

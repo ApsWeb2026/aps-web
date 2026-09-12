@@ -4834,3 +4834,30 @@ references:
     status: verified
     authority: OCLC WorldCat
     verifiedDate: 2026-09-12
+- id: block-1995-confusion-consciousness
+  type: journal-article
+  authors: Block, N.
+  year: 1995
+  title: On a Confusion about a Function of Consciousness
+  journal: Behavioral and Brain Sciences
+  volume: '18'
+  issue: '2'
+  pages: 227–247
+  doi: 10.1017/S0140525X00038188
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-12
+- id: chalmers-1995-facing-consciousness
+  type: journal-article
+  authors: Chalmers, D. J.
+  year: 1995
+  title: Facing Up to the Problem of Consciousness
+  journal: Journal of Consciousness Studies
+  volume: '2'
+  issue: '3'
+  pages: 200–219
+  verification:
+    status: verified
+    authority: Journal of Consciousness Studies / author publication record
+    verifiedDate: 2026-09-12
