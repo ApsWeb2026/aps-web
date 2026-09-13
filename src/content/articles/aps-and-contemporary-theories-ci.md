@@ -55,8 +55,6 @@ relatedArticles:
 references: []
 ---
 
-# APS and Contemporary Explanatory Approaches
-
 ## Distinguishing Questions About Life, APS, and Biological Explanation
 
 Contemporary biology explains living systems through many successful approaches. Mechanistic, evolutionary, developmental, ecological, physiological, informational, mathematical, organisational, cognitive, and systems approaches often address different questions and identify different explanatory dependencies.

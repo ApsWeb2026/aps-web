@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-22
+revised: 2026-09-13
 cluster: philosophy-of-biology
 role: clarification
 
@@ -52,38 +52,10 @@ relatedArticles:
   - what-is-biological-evaluation
 
 references:
-  - id: varela1991
-    authors: "Varela, F. J., Thompson, E., & Rosch, E."
-    year: 1991
-    title: "The Embodied Mind: Cognitive Science and Human Experience"
-    source: "MIT Press"
-
-  - id: thompson2007
-    authors: "Thompson, E."
-    year: 2007
-    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
-    source: "Harvard University Press"
-
-  - id: di-paolo2018
-    authors: "Di Paolo, E. A., Cuffari, E. C., & De Jaegher, H."
-    year: 2018
-    title: "Linguistic Bodies: The Continuity Between Life and Language"
-    source: "MIT Press"
-
-  - id: de-jaegher2010
-    authors: "De Jaegher, H., Di Paolo, E., & Gallagher, S."
-    year: 2010
-    title: "Can Social Interaction Constitute Social Cognition?"
-    journal: "Trends in Cognitive Sciences"
-    volume: "14"
-    pages: "441–447"
-    doi: "10.1016/j.tics.2010.06.009"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+  - varela-thompson-rosch-1991-embodied-mind
+  - di-paolo-2005-autopoiesis-adaptivity
+  - thompson-2007-mind-in-life
+  - di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
@@ -103,7 +75,7 @@ Enactivism is best understood not as a single uniform theory but as a family of 
 
 A central enactivist concept is **sense-making**: the idea that an organism's activity establishes relations of significance with its environment. Organism and environment are therefore not treated simply as independently specified systems between which information passes. Their interaction can be constitutive of the organisation and activity being explained.
 
-Enactivist approaches have also developed substantive accounts of autonomy, adaptivity, normativity, embodiment, social interaction, and the continuity between life and mind. These commitments make enactivism a serious biological and cognitive comparator for APS rather than merely an alternative vocabulary for organism–environment interaction.
+EEnactivist approaches have also developed substantive accounts of autonomy, adaptivity, normativity, embodiment, and the continuity between life and mind. These commitments make enactivism a serious biological and cognitive comparator for APS rather than merely an alternative vocabulary for organism–environment interaction.
 
 APS shares several of these concerns. It likewise treats living systems as active rather than passive, takes organism–environment relations seriously, and rejects the idea that biological activity can always be understood by isolating internal processes from the conditions in which they occur.
 
@@ -111,7 +83,7 @@ These similarities do not make APS a form of enactivism, however, and their diff
 
 ## What Enactivist Approaches Explain
 
-Enactivist approaches provide substantive explanatory resources for investigating embodiment, organism–environment coupling, sense-making, autonomy, adaptivity, normativity, social interaction, and the continuity between life and cognition.
+EEnactivist approaches provide substantive explanatory resources for investigating embodiment, organism–environment coupling, sense-making, autonomy, adaptivity, normativity, and the continuity between life and cognition.
 
 Their importance is not limited to reminding biology that organisms interact with environments. Enactivist explanations can make those interactions constitutive of the phenomena under investigation and can analyse how autonomous biological organisation, embodied activity, and environmental engagement contribute to cognition and behaviour.
 
