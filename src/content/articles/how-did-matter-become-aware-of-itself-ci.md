@@ -370,21 +370,21 @@ This limitation parallels a central distinction in consciousness research. Funct
 
 APS therefore makes a more restricted claim: it decomposes the matter-to-mind problem into biologically tractable organisational questions.
 
-How does living organisation maintain itself?
+- How does living organisation maintain itself?
 
-How does that organisation act relative to viability?
+- How does that organisation act relative to viability?
 
-How do conditions become significant?
+- How do conditions become significant?
 
-How is significance integrated?
+- How is significance integrated?
 
-When does integrated regulation acquire sufficient temporal and counterfactual depth to count as cognition?
+- When does integrated regulation acquire sufficient temporal and counterfactual depth to count as cognition?
 
-How can cognitive processes maintain coherent self–world relations?
+- How can cognitive processes maintain coherent self–world relations?
 
-How is such organisation continuous through change?
+- How is such organisation continuous through change?
 
-Under what conditions can agency become directed toward aspects of its own organisation?
+- Under what conditions can agency become directed toward aspects of its own organisation?
 
 These questions do not solve phenomenal consciousness. But neither are they trivial preliminaries. They identify substantial explanatory work that can be pursued biologically without pretending that the remaining problem has disappeared.
 
