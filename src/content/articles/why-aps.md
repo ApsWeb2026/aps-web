@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-28
-revised: 2026-07-29
+revised: 2026-09-14
 cluster: philosophy-of-biology
 role: anchor
 abstract: >
@@ -19,16 +19,19 @@ abstract: >
   developing an organisational research programme centred on
   viability-oriented, constraint-closed organisation. This article explains the
   scientific and conceptual circumstances from which APS emerged, introduces
-  its central organisational perspective, and situates the wider APS corpus
-  within the continuing development of theoretical biology.
+  its central organisational perspective, and asks what conceptual,
+  methodological, or biological explanatory contribution that perspective can
+  make alongside established approaches in theoretical biology.
+
 keyPoints:
   - Modern biology has achieved extraordinary explanatory success while continuing to generate foundational questions about life.
   - Scientific progress reveals deeper conceptual questions as well as new empirical discoveries.
-  - The remaining challenge in theoretical biology concerns the organisational target of biological explanation rather than a lack of biological evidence.
+  - The remaining challenge in theoretical biology includes questions concerning the organisational targets of biological explanation rather than a lack of biological evidence.
   - APS was developed as an organisational research programme that complements rather than replaces established biological sciences.
-  - APS investigates living systems as viability-oriented, constraint-closed organisation through the complementary analytical projections of Agency, Process, and Scale.
-  - APS provides an organisational framework through which diverse biological explanations can be understood as complementary investigations of living systems.
+  - APS investigates living systems as viability-oriented, constraint-closed organisation through the complementary analytic projections of Agency, Process, and Scale.
+  - APS investigates whether an organisational perspective can clarify biological explananda, relate established explanations without conflating them, generate assessable questions, or provide additional explanatory gain where this is demonstrated.
   - This article serves as the principal orientation to the APS corpus and explains why the framework was developed.
+
 relatedGlossaryTerms:
   - life
   - biological-agency
@@ -38,6 +41,7 @@ relatedGlossaryTerms:
   - scale
   - biological-explanation
   - biological-organisation
+
 relatedArticles:
   - what-is-aps
   - naturalising-life
@@ -221,7 +225,7 @@ references:
       authority: Springer Nature
 ---
 
-> **Where This Article Fits** Having introduced APS in *What is APS?*, this article explains why such a framework is needed. It identifies the unresolved explanatory problems that motivate APS, argues that contemporary biology still lacks an adequate account of the organising activity characteristic of living systems, and shows how APS seeks to address that gap. Readers may wish to read this article immediately after What Is APS? before continuing to the broader orientation pathway.
+> **Where This Article Fits** Having introduced APS in *What Is APS?*, this article explains why such a framework remains worth investigating. It identifies unresolved questions concerning living organisation, asks what an APS organisational perspective might contribute alongside established biological and theoretical approaches, and explains how those possible contributions should be assessed. Readers may wish to read this article immediately after *What Is APS?* before continuing to the broader orientation pathway.
 
 ## Section 1 — Introduction. Biology's Extraordinary Achievement
 
@@ -261,25 +265,21 @@ It is within this continuing conversation that APS should be situated. The frame
 
 ## Section 3 — The Organisational Target of Biological Explanation
 
-The continuing success of modern biology raises a question that is easily overlooked. If biology can already explain heredity, development, metabolism, physiology, behaviour, adaptation, and evolution with remarkable precision, what remains to be explained? At first sight, the answer might appear to be simply "more biology"—more mechanisms, more genes, more pathways, and more interactions. Yet many of the continuing discussions within theoretical biology suggest that the remaining challenge is of a different kind. It concerns not merely the accumulation of additional knowledge, but the clarification of what biological explanation is ultimately attempting to explain.
+The continuing success of modern biology raises a question that is easily overlooked. If biology can already explain heredity, development, metabolism, physiology, behaviour, adaptation, and evolution with remarkable precision, what remains to be explained? At first sight, the answer might appear to be simply "more biology"—more mechanisms, more genes, more pathways, and more interactions. Yet many of the continuing discussions within theoretical biology suggest that the remaining challenge is of a different kind. It concerns not merely the accumulation of additional knowledge, but the clarification of what biological explanation is attempting to explain when living organisation itself becomes the target.
 
 Every biological discipline investigates some aspect of living systems. Molecular biology explains cellular processes through molecular interactions. Physiology explains the coordinated functioning of organisms. Evolutionary biology explains the historical transformation of populations. Developmental biology explains the emergence and maintenance of organised form throughout the life cycle. Ecology explains the relationships between organisms and their environments. Each contributes indispensable knowledge. Their explanatory success is beyond question.
 
-What is striking, however, is that these explanations are not isolated from one another. They are recognised as biological explanations because they investigate living systems from different, yet complementary, perspectives. This raises a deeper question: what gives these diverse explanations their common scientific target? What makes them collectively explanations of life?
+What is striking, however, is that many successful biological explanations concern systems whose activities, development, regulation, reproduction, ecological relations, and evolutionary histories are aspects of living organisation. This raises a further question: when such explanations bear upon the organisation of living systems, can their relationships be investigated without reducing them to a single explanatory vocabulary or assuming that they share one explanandum?
 
-This question does not ask biology to abandon mechanisms in favour of some alternative form of explanation. Mechanistic explanation remains indispensable because living systems are materially realised through physical and chemical processes. Nor does it seek a single master theory capable of replacing evolutionary, developmental, physiological, or ecological explanation. The strength of biology lies precisely in the diversity of its complementary explanatory traditions.
+This question does not ask biology to abandon mechanisms in favour of organisational explanation. Mechanistic explanation remains indispensable because living systems are materially realised through physical and chemical processes. Nor does it seek a master theory capable of replacing evolutionary, developmental, physiological, ecological, or other biological explanations. Different explananda can legitimately require different explanatory approaches.
 
-The issue instead concerns the relationship between those traditions. Biological mechanisms explain how particular processes occur. Evolution explains how those processes have been historically transformed. Development explains how organised form emerges and changes throughout an organism's life. Ecology explains how living systems exist within wider environmental relationships. Together these perspectives illuminate different aspects of the same scientific subject. The remaining challenge is therefore not to choose between them, but to understand what they are jointly explaining.
+The issue is therefore conditional rather than universal. Where living organisation itself, or its continuity through change, is the explanatory target, it may be useful to ask how different findings bear upon that target. Where the explananda differ, no such integration should be assumed.
 
-For this reason, many developments within theoretical biology have increasingly turned towards organisation as an object of explanation in its own right. General systems theory emphasised organised wholes rather than isolated components. Relational biology investigated organisational dependencies that cannot be reduced to individual parts. Autopoietic theory explored the self-producing organisation characteristic of living systems. More recent work on biological autonomy, organisational closure, constraint-based organisation, and organisational approaches to function has continued this broader effort to understand how living systems maintain themselves as coherent entities. Although these traditions differ substantially in their concepts and conclusions, they share the recognition that organisation is not merely a convenient description but an indispensable target of biological explanation.
+Organisation is already a major subject within theoretical biology. General systems theory, relational biology, autopoiesis, autonomy theory, constraint-based approaches, and organisational accounts of function have all developed substantive ways of investigating it. APS enters this established field rather than claiming to introduce organisation as a previously missing object of inquiry.
 
-This development should not be interpreted as a departure from empirical biology. Rather, it reflects the continuing maturation of biological science itself. As empirical knowledge has expanded, questions concerning the organisation of that knowledge have become increasingly explicit. Mature sciences routinely progress from explaining individual phenomena to clarifying the conceptual structures that unify those explanations. Biology has reached precisely such a stage. The question is no longer simply how particular biological processes occur, but what kind of organisational framework best captures the distinctive character of living systems that those processes collectively constitute.
+Its particular proposal is to investigate whether viability-oriented, constraint-closed organisation and organised persistence clarify some biological explananda, expose useful relationships among established explanations, or generate assessable questions that existing approaches do not already supply. Whether they do so must be established rather than inferred from APS architecture.
 
-Seen in this light, the continuing discussions surrounding organisation, individuality, function, autonomy, agency, and biological explanation are not isolated debates. They represent different attempts to identify the organisational target that unifies biological inquiry. They ask, in different ways, what it is about living systems that makes them distinctive objects of scientific explanation.
-
-The Agency–Process–Scale framework enters this conversation at precisely this point. APS begins from the proposal that biology's central explanatory task is not exhausted by describing mechanisms or reconstructing evolutionary histories, important though those remain. It asks whether the organised persistence of living systems provides the organisational target that unifies biology's diverse explanatory traditions.
-
-Rather than replacing biology's established sciences, APS seeks to clarify the organisational perspective within which their complementary achievements can be understood as investigations of one and the same living phenomenon.
+The Agency–Process–Scale framework therefore enters theoretical biology as one candidate organisational perspective. It asks what explanatory work its formulation of living organisation can perform and where, if anywhere, that work differs consequentially from the strongest relevant alternatives.
 
 <div class="aps-diagram">
   <pre class="aps-text-diagram">Modern Biology
@@ -309,58 +309,56 @@ Agency–Process–Scale</pre>
 
 > ### Organisation Is Not an Alternative to Biology
 >
-> APS does not argue that biological mechanisms, evolutionary history, development, or ecology are insufficient. It argues that their combined explanatory success makes it increasingly possible—and increasingly necessary—to ask what kind of organised phenomenon those complementary explanations collectively investigate.
+> APS does not argue that biological mechanisms, evolutionary history, development, or ecology are insufficient. It asks whether their explanatory achievements sometimes raise further questions about the organisation of the living systems concerned, and whether an APS analysis contributes anything to answering those questions.
 
 ## Section 4 — Why APS Was Developed
 
-The Agency–Process–Scale (APS) framework was developed in response to the explanatory question identified in the preceding section. It does not begin by proposing a new biological mechanism, a new evolutionary theory, or a new account of molecular function. Instead, it begins by asking whether biology can more clearly identify the organisational target that unifies its diverse explanatory traditions.
+The Agency–Process–Scale (APS) framework was developed in response to the explanatory question identified in the preceding section. It does not begin by proposing a new biological mechanism, a new evolutionary theory, or a new account of molecular function. Instead, it begins by asking whether living organisation can be more clearly specified as an explanatory target and what follows if it can.
 
-APS therefore begins from a methodological rather than a mechanistic proposal. It asks whether living systems are best understood as a distinctive form of viability-oriented, constraint-closed organisation whose continuing activity maintains and re-establishes the conditions of its own persistence. On this view, the diverse processes investigated throughout biology are not isolated phenomena but different expressions of a single organised reality.
+APS therefore begins from an organisational proposal rather than a new biological mechanism. It asks whether living systems can usefully be investigated as viability-oriented, constraint-closed organisation whose activity maintains and re-establishes conditions of persistence. This proposal does not imply that the diverse phenomena studied throughout biology are merely expressions of one explanatory process. It provides a candidate organisational target against which relevant relationships among those phenomena can be investigated.
 
-This perspective distinguishes two complementary tasks within biological explanation. The first is to explain particular biological phenomena through the appropriate empirical sciences, including molecular biology, physiology, developmental biology, ecology, and evolutionary biology. The second is to clarify the organisational framework within which those explanations become explanations of living systems. APS addresses this second task. It therefore complements, rather than competes with, the established biological sciences.
+This perspective distinguishes two complementary tasks that can arise within biological explanation. The first is to explain particular biological phenomena through the appropriate empirical sciences, including molecular biology, physiology, developmental biology, ecology, and evolutionary biology. The second, where living organisation itself is explanatorily relevant, is to ask how those explanations bear upon the organisation and continuity of the living system. APS addresses this second task without assuming that it is required for every biological explanandum.
 
-This orientation also explains why APS is organised around three complementary analytical projections: 
+This orientation also explains why APS is organised around three complementary analytic projections:
 
-> **Agency**, **Process**, and **Scale**. These are neither separate components of reality nor independent causal forces. They are complementary analytical perspectives on one and the same living organisation.
-
-> **Agency** asks what living systems do. It investigates the viability-oriented activity through which organisms maintain and re-establish the conditions of their own persistence.
-
-> **Process** asks how that organisation is continuously maintained despite ongoing material turnover, developmental change, and environmental variation. It examines the dynamic continuity through which organised persistence is sustained.
-
-> **Scale** asks where that organisation is realised across spatial and temporal extents. It investigates how organised persistence is expressed across interacting domains without treating those domains as explanatory hierarchies.
-
-Taken together, these analytical projections provide a common organisational framework for investigating living systems while preserving the specialised explanatory methods of biology. Evolutionary theory continues to explain historical transformation. Molecular biology continues to investigate biochemical mechanisms. Ecology continues to explain organism–environment relationships. APS instead asks how these complementary explanations contribute to understanding life as viability-oriented, constraint-closed organisation.
-
-The framework therefore makes a deliberately modest claim. It does not propose that Agency, Process, and Scale answer every biological question. Rather, it proposes that they provide a coherent organisational framework for investigating a particular class of questions concerning living organisation. APS should therefore be understood not primarily as a new biological theory, but as a research programme concerned with clarifying the conceptual organisation of biological explanation itself.
-
-Seen in this way, APS belongs within the continuing development of theoretical biology. It emerges from biology's existing achievements, engages with long-standing questions concerning organisation and explanation, and seeks to provide a systematic framework through which those questions can be investigated further. Its purpose is not to replace biology's established explanatory traditions, but to clarify how their complementary insights contribute to a unified understanding of life.
-
-## Section 5 — What APS Proposes
-
-The preceding sections have argued that the continuing success of modern biology has made questions concerning the organisation of living systems increasingly explicit. APS responds to those questions by proposing an organisational framework through which biological explanation can investigate the persistence of living systems without replacing the established explanatory achievements of contemporary biology.
-
-The central proposal of APS is straightforward. Living systems are understood as viability-oriented, constraint-closed organisation. Life is not identified with a particular molecule, structure, process, or historical event. Rather, it consists in the ongoing organisation through which living systems actively maintain and re-establish the conditions of their own persistence. This proposal does not compete with molecular, physiological, developmental, ecological, or evolutionary explanations. Instead, it provides the organisational perspective within which those complementary explanations can be understood as investigations of the same living phenomenon.
-
-To investigate this organisation systematically, APS employs three complementary analytical projections: **Agency**, **Process**, and **Scale**.
+> **Agency**, **Process**, and **Scale**. These are neither separate components of reality nor independent causal forces. They are complementary analytic projections of one and the same living organisation.
 
 > **Agency** asks what living systems do. It investigates the viability-oriented activity through which organisms maintain and re-establish the conditions of their own persistence.
 
-> **Process** asks how that activity is continuously organised despite material turnover, developmental change, and environmental variation. It investigates the continuity through which organised persistence is maintained.
+> **Process** asks how continuity is maintained despite ongoing material turnover, developmental change, and environmental variation. It examines the dynamic organisation through which organised persistence is sustained.
 
-> **Scale** asks where organised persistence is realised across spatial and temporal extents. It investigates how living organisation is expressed across interacting domains without treating those domains as explanatory hierarchies.
+> **Scale** asks across what spatial and temporal extents, and through what materially implemented relations among them, persistence is organised. It does not treat those extents as explanatory hierarchies.
 
-These analytical projections do not divide living systems into separate components, nor do they represent independent causal forces. They are complementary analytical perspectives on one and the same living organisation. Each addresses questions that the others cannot fully answer alone, yet each depends upon the others for a coherent understanding of living systems.
+Taken together, these analytic projections provide a framework for investigating living organisation while preserving the specialised explanatory methods of biology. Evolutionary theory continues to explain historical transformation. Molecular biology continues to investigate biochemical mechanisms. Ecology continues to explain organism–environment relationships. APS asks how such explanations bear upon viability-oriented, constraint-closed organisation where that relationship is relevant to the explanandum.
 
-From this common foundation, APS develops a wider conceptual architecture. Questions concerning biological evaluation, significance, cognition, individuality, development, evolution, social organisation, morality, and biological explanation are investigated as successive elaborations of viability-oriented organisation rather than as isolated theoretical domains. In this way, APS seeks to develop a coherent organisational framework within which the diversity of biological inquiry can be understood without reducing one explanatory tradition to another.
+The framework therefore makes a deliberately bounded claim. It does not propose that Agency, Process, and Scale answer every biological question. Rather, they provide complementary analytic projections through which a particular class of questions concerning living organisation can be formulated and investigated. Whether doing so provides explanatory value cannot be determined by the architecture alone.
 
-APS should therefore not be regarded as a single hypothesis awaiting confirmation or refutation. It is more appropriately understood as a research programme that organises questions, clarifies conceptual relationships, and identifies explanatory priorities. Individual biological disciplines continue to investigate their own specialised phenomena and mechanisms. APS asks how those diverse investigations contribute to a unified understanding of life as a distinctive natural phenomenon.
+Seen in this way, APS belongs within the continuing development of theoretical biology. It emerges from biology's existing achievements, engages with established questions concerning organisation and explanation, and seeks to provide a systematic way of investigating them. Its purpose is not to replace biology's explanatory traditions or to assume that they form parts of a single APS explanation, but to determine where an organisational perspective clarifies their relationships, generates useful questions, or identifies additional explanatory work.
 
-The remainder of the APS corpus develops these ideas in detail. Dedicated articles examine the nature of life, biological agency, organised persistence, constraint closure, process, scale, biological evaluation, cognition, individuality, morality, and biological explanation. Each explores one aspect of the wider organisational framework. Together they seek to provide an increasingly integrated account of living organisation while remaining firmly grounded in the continuing empirical achievements of modern biology.
+## Section 5 — What APS May Contribute
+
+The reason to investigate APS is not that biology lacks successful explanations of mechanisms, evolution, development, regulation, ecology, autonomy, or organisation. Nor is APS justified simply because established biological results can be redescribed using the language of Agency, Process, Scale, viability, or organised persistence.
+
+APS may make several different kinds of contribution, and they should not be conflated.
+
+First, APS may make a **conceptual contribution**. It may help specify biological explananda, distinguish questions that are easily conflated, or clarify relationships among concepts concerned with living organisation. Its distinction between Life as viability-oriented, constraint-closed organisation and organised persistence as the continuity of that organisation through change is one such proposal. Conceptual clarification can be scientifically useful, but it does not by itself establish that APS explains a biological phenomenon better than existing approaches.
+
+Second, APS may make a **methodological contribution**. It can provide ways of asking how biological explanations relate without assuming that different vocabularies represent competing theories or that conceptual integration constitutes explanatory gain. APS therefore emphasises specification of the explanandum, comparison with the strongest relevant alternatives, identification of materially implemented dependencies, and explicit allowance for redundancy, complementarity, comparator advantage, or null results. It can also generate questions about living organisation that are open to further investigation.
+
+Third, APS may in some cases make a **biological explanatory contribution**. This is the strongest claim and carries the greatest evidential burden. Such a contribution is established only where, for a specified explanandum, APS identifies explanatory relationships, dependencies, consequences, or discriminating expectations not already supplied by the strongest relevant established explanation.
+
+These three forms of contribution do not entail one another. A useful concept need not produce a better method. A useful method need not produce new biological explanation. And conceptual coherence, integrative scope, accessibility, or the ability to redescribe many biological phenomena in APS terminology does not establish explanatory superiority.
+
+This distinction also clarifies how APS should be tested. **Illustrating APS is not testing APS.** Showing that a biological system can be described in terms of viability, agency, process, scale, constraints, or organised persistence demonstrates applicability of the vocabulary. Testing a biologically consequential APS claim requires a specified explanandum, an adequate comparator, an identifiable difference in explanatory dependency or expectation, and some condition under which the APS claim could fail.
+
+APS should therefore be understood as both an organisational proposal and a research programme for determining what, if anything, follows explanatorily from that proposal. Its value may lie in clarification, methodological organisation, hypothesis generation, or demonstrated biological explanatory gain. Where none of these survives comparison with established alternatives, APS adds no corresponding scientific contribution.
+
+The wider APS corpus develops these questions across life, biological agency, organised persistence, constraint closure, cognition, individuality, development, evolution, social organisation, morality, and biological explanation. Each domain must carry its own evidential burden rather than deriving its scientific status merely from membership in the APS architecture.
 
 ## Concluding Reflection
 
-Modern biology continues to expand our understanding of living systems through increasingly sophisticated empirical investigation. At the same time, its continuing success has made questions concerning the organisation of life progressively more explicit. APS represents one attempt to investigate those questions through a unified organisational framework centred on viability-oriented, constraint-closed organisation.
+Modern biology continues to expand our understanding of living systems through increasingly sophisticated empirical investigation. At the same time, its continuing success leaves legitimate questions concerning how living organisation should be conceptualised, investigated, and related to the many successful explanations biology already provides. APS represents one attempt to address those questions through an organisational framework centred on viability-oriented, constraint-closed organisation.
 
-Whether that framework ultimately proves scientifically valuable will depend upon its capacity to illuminate biological phenomena, clarify conceptual relationships, stimulate productive research, and contribute to the continuing development of theoretical biology. Those questions can only be answered through ongoing scientific and philosophical engagement.
+Whether APS proves scientifically valuable cannot be settled by the coherence or breadth of its architecture. Its contribution must be assessed by whether it clarifies important explananda, improves explanatory comparison, generates productive and assessable biological questions, or—where stronger claims are made—identifies explanatory dependencies or consequences not already supplied by the strongest relevant alternatives. Where it merely redescribes established biology in APS terminology, no additional explanatory gain has been demonstrated.
 
-The purpose of this article has therefore not been to establish every aspect of the APS framework. Rather, it has been to explain why the continuing development of modern biology provides compelling reasons to investigate such a framework and why questions concerning living organisation remain central to the future of biological explanation.
+The purpose of this article is therefore not to establish that biology needs APS in advance. It is to explain why APS poses questions worth investigating and to make clear what the framework would have to contribute for that investigation to succeed.

@@ -50,91 +50,12 @@ relatedArticles:
   - what-is-life-a-biological-question-revisited
 
 references:
-  - id: maturana-varela1980
-    authors: "Maturana, H. R., & Varela, F. J."
-    year: 1980
-    title: "Autopoiesis and Cognition: The Realization of the Living"
-    source: "D. Reidel Publishing Company"
-
-  - id: maturana-varela1987
-    authors: "Maturana, H. R., & Varela, F. J."
-    year: 1987
-    title: "The Tree of Knowledge: The Biological Roots of Human Understanding"
-    source: "Shambhala"
-
-  - id: varela1979
-    authors: "Varela, F. J."
-    year: 1979
-    title: "Principles of Biological Autonomy"
-    source: "North Holland"
-
-  - id: luisi2003
-    authors: "Luisi, P. L."
-    year: 2003
-    title: "Autopoiesis: A Review and a Reappraisal"
-    journal: "Naturwissenschaften"
-    volume: "90"
-    pages: "49–59"
-    doi: "10.1007/s00114-002-0389-9"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
-
-  - id: bich2016
-    authors: "Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A."
-    year: 2016
-    title: "Biological Regulation: Controlling the System from Within"
-    journal: "Biology & Philosophy"
-    volume: "31(2)"
-    pages: "237–265"
-
-  - id: montevil2020
-    authors: "Montévil, M., & Mossio, M."
-    year: 2020
-    title: "The Identity of Organisms in Scientific Practice: Integrating Historical and Relational Conceptions"
-    journal: "Frontiers in Physiology"
-    volume: "11"
-    pages: "611"
-    doi: "10.3389/fphys.2020.00611"
-
-  - id: moreno2023
-    authors: "Moreno, A., & Mossio, M."
-    year: 2023
-    title: "Biological Organisation, Closure, and Autonomy: Developments and Perspectives"
-    journal: "Biological Theory"
-    volume: "18"
-    pages: "123–138"
-    doi: "10.1007/s13752-023-00421-1"
-
-  - id: moreno-pereto2026
-    authors: "Moreno, Á., & Peretó, J."
-    year: 2026
-    title: "An Evolutionary Story of Agency: How Life Evolved to Act on Its Own"
-    source: "Springer Nature"
-
-  - id: thompson2007
-    authors: "Thompson, E."
-    year: 2007
-    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
-    source: "Harvard University Press"
-
-  - id: di-paolo2022
-    authors: "Di Paolo, E. A."
-    year: 2022
-    title: "Enactive Becoming"
-    source: "Oxford University Press"
-
-  - id: virenque-mossio-2024
-    authors: Virenque, L., & Mossio, M.
-    year: 2024
-    title: "What Is Agency? A View from Autonomy Theory"
-    journal: Biological Theory
-    volume: "19"
-    pages: "11–15"
-    doi: 10.1007/s13752-023-00441-5
+  - maturana-varela-1980-autopoiesis-cognition
+  - varela-1979-principles-biological-autonomy
+  - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2015-closure-constraints
+  - bich-ruiz-mirazo-moreno-2016-regulation
+  - virenque-mossio-2024-what-is-agency
 ---
 
 Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
