@@ -51,6 +51,7 @@ relatedArticles:
   - aps-and-the-extended-evolutionary-synthesis
   - aps-and-the-free-energy-principle
   - gene-centric-biology-and-aps
+  - why-life-is-not-enactivism
 
 references: []
 ---
@@ -175,11 +176,13 @@ It is:
 Current comparative objects include:
 
 - **[APS and Autonomy Theory](/articles/aps-and-autonomy-theory/)**
+- **[Why Life Is Not Enactivism](/articles/why-life-is-not-enactivism/)**
 - **APS and Organisational Biology**
 - **[APS and Systems Theory](/articles/aps-and-systems-theory/)**
 - **[APS and the Extended Evolutionary Synthesis](/articles/aps-and-the-extended-evolutionary-synthesis/)**
 - **[APS and the Free Energy Principle](/articles/aps-and-the-free-energy-principle/)**
 - **[Gene-Centric Biology and APS](/articles/gene-centric-biology-and-aps/)**
+
 
 Other comparisons belong here only when there is a genuine shared explanatory target.
 
