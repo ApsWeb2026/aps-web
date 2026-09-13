@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
-revised: 2026-09-12
+revised: 2026-09-13
 cluster: cognition-and-mind
 role: anchor
 
