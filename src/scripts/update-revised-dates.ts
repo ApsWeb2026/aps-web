@@ -2,7 +2,12 @@ import { execFileSync } from "node:child_process";
 import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
-const today = new Date().toISOString().slice(0, 10);
+const now = new Date();
+
+const today =
+  `${now.getFullYear()}-` +
+  `${String(now.getMonth() + 1).padStart(2, "0")}-` +
+  `${String(now.getDate()).padStart(2, "0")}`;
 
 const staged = execFileSync(
   "git",
