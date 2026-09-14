@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-12
 title: "Why APS Reframes Biology"
 slug: why-aps-reframes-biology
@@ -53,25 +53,21 @@ references:
     year: 1859
     title: On the Origin of Species
     publisher: John Murray
-
   - id: mayr-1988-new-philosophy-biology
     authors: Mayr, E.
     year: 1988
     title: Toward a New Philosophy of Biology
     publisher: Harvard University Press
-
   - id: craver-2007-explaining-brain
     authors: Craver, C. F.
     year: 2007
     title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
     publisher: Oxford University Press
-
   - id: bechtel-2016-discovering-cell-mechanisms
     authors: Bechtel, W.
     year: 2016
     title: Discovering Cell Mechanisms
     publisher: Cambridge University Press
-
   - id: kitano-2002-systems-biology
     authors: Kitano, H.
     year: 2002
@@ -81,13 +77,11 @@ references:
     issue: "5560"
     pages: "1662-1664"
     doi: 10.1126/science.1069492
-
   - id: moreno-mossio-2015-biological-autonomy
     authors: Moreno, A.; Mossio, M.
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: Springer
-
   - id: nicholson-2019-life-after-gene
     authors: Nicholson, D. J.
     year: 2019
@@ -96,7 +90,6 @@ references:
     volume: "477"
     pages: "108-126"
     doi: 10.1016/j.jtbi.2019.06.002
-
   - id: cummins-1975-functional-analysis
     authors: Cummins, R.
     year: 1975
@@ -105,7 +98,6 @@ references:
     volume: "72"
     issue: "20"
     pages: "741-765"
-
   - id: mossio-bich-2017-what-makes-biological-function
     authors: Mossio, M.; Bich, L.
     year: 2017
@@ -115,7 +107,6 @@ references:
     issue: "4"
     pages: "1089-1114"
     doi: 10.1007/s11229-014-0594-z
-
   - id: godfrey-smith-2009-darwinian-populations
     authors: Godfrey-Smith, P.
     year: 2009
