@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-08-22
+revised: 2026-09-14
 cluster: philosophy-of-biology
 abstract: >
   Systems theory provides powerful tools for describing interaction, feedback,
@@ -59,7 +59,7 @@ These approaches have proven extremely powerful for investigating and explaining
 
 Systems approaches and APS overlap in their attention to interaction, regulation, feedback, dynamic organisation, and relations among processes unfolding across spatial and temporal extents.
 
-This overlap does not establish that the approaches share the same explanatory targets or organising principles. Systems theory encompasses diverse research programmes, while Systems theory encompasses diverse research programmes, while APS specifically proposes viability-oriented, constraint-closed organisation as its account of life and treats organised persistence as the explanatory problem of how living organisation maintains and re-establishes continuity through change.
+This overlap does not establish that the approaches share the same explanatory targets or organising principles. Systems theory encompasses diverse research programmes, while APS specifically proposes viability-oriented, constraint-closed organisation as its account of life and treats organised persistence as the explanatory problem of how living organisation maintains and re-establishes continuity through change.
 
 Agency, Process, and Scale are complementary analytic projections within the APS Explanatory Grammar rather than co-constitutive components or dimensions of biological reality. Systems concepts such as feedback, coupling, and dynamic stability may therefore provide important points of comparison with APS without being incorporated into APS or interpreted as expressions of it.
 

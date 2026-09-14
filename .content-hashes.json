@@ -235,8 +235,8 @@
     "lockedSince": "2026-05-30"
   },
   "articles/aps-and-systems-theory": {
-    "hash": "c065391c0473ed15",
-    "revised": "2026-08-22",
+    "hash": "45c79c8c37fb31a3",
+    "revised": "2026-09-14",
     "lockedSince": "2026-04-11"
   },
   "articles/aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic": {
@@ -925,8 +925,8 @@
     "lockedSince": "2026-05-28"
   },
   "articles/why-life-is-not-intelligence-an-aps-clarification": {
-    "hash": "4a0c0411a68ac520",
-    "revised": "2026-08-21",
+    "hash": "a9d62bdbc1df6def",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-29"
   },
   "articles/why-organisms-cannot-be-understood-apart-from-their-environments": {
@@ -1375,8 +1375,8 @@
     "lockedSince": "2026-07-10"
   },
   "orientation/understanding-aps-the-structure-of-the-framework": {
-    "hash": "f996fc1bbeeb7b25",
-    "revised": "2026-09-01",
+    "hash": "20ae47550f57bff0",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-26"
   },
   "articles/biological-explanation-what-needs-to-be-explained": {
@@ -2013,5 +2013,10 @@
     "hash": "40efba6b5554fa87",
     "revised": "2026-09-12",
     "lockedSince": "2026-09-12"
+  },
+  "articles/why-life-is-not-dnas-way-of-making-more-dna": {
+    "hash": "0c24c0e19bef2c62",
+    "revised": "2026-09-14",
+    "lockedSince": "2026-09-14"
   }
 }

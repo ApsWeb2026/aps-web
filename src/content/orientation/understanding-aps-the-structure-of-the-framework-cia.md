@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-01
+revised: 2026-09-14
 cluster: conceptual-foundations
 abstract: >
   This article serves as a guide to navigating the APS framework. Rather
@@ -77,6 +77,8 @@ relatedArticles:
 > questions, and research programmes fit within the wider organisation of
 
 > APS.
+
+APS has two closely related but distinct roles within this structure. It proposes an account of living organisation centred on viability-oriented, constraint-closed organisation, and it provides a methodology for asking what explanatory difference that account makes in particular cases. The first supplies APS with its organisational perspective; the second determines whether that perspective provides clarification, methodological value, or additional biological explanatory gain.
 
 ## Introduction
 
