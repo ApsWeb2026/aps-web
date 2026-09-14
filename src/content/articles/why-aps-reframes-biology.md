@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-09-1
+revised: 2026-09-14
 cluster: methodology-and-explanation
 role: anchor
 abstract: >
@@ -451,7 +451,7 @@ Dependency Hypotheses.
 
 The questions introduced here are developed, compared, or applied in:
 
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
 - APS and Autonomy Theory
 - Why Philosophy of Biology Matters

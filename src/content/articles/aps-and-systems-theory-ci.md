@@ -217,7 +217,7 @@ This comparative article examines APS alongside the heterogeneous family of syst
 These concepts and articles establish the explanatory resources presupposed by this article. They identify dependencies within the APS corpus rather than chronology, hierarchy, or levels of organisation.
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - Organised Persistence
 - Biological Agency
 - Constraint Closure
@@ -245,4 +245,4 @@ Subsequent Explanatory Developments
 
 ### Position Within APS
 
-This article forms part of the APS Comparative Biology series. It compares APS with a diverse family of systems approaches without treating systems theory as a single homogeneous framework or assuming that APS's biological specificity provides automatic explanatory advantage. It preserves APS's substantive account of **life as viability-oriented, constraint-closed organisation** and its treatment of **organised persistence as the explanatory problem of continuity through change**, while requiring comparative claims to be assessed against the strongest systems-theoretical alternative addressing the same question.
+This article belongs to the APS Comparative Explanatory Approaches family. It compares APS with a diverse family of systems approaches without treating systems theory as a single homogeneous framework or assuming that APS's biological specificity provides automatic explanatory advantage. It preserves APS's substantive account of **life as viability-oriented, constraint-closed organisation** and its treatment of **organised persistence as the explanatory problem of continuity through change**, while requiring comparative claims to be assessed against the strongest systems-theoretical alternative addressing the same question.

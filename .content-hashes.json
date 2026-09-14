@@ -235,7 +235,7 @@
     "lockedSince": "2026-05-30"
   },
   "articles/aps-and-systems-theory": {
-    "hash": "45c79c8c37fb31a3",
+    "hash": "002ec109e99b77eb",
     "revised": "2026-09-14",
     "lockedSince": "2026-04-11"
   },
@@ -245,13 +245,13 @@
     "lockedSince": "2026-05-15"
   },
   "articles/aps-and-the-extended-evolutionary-synthesis": {
-    "hash": "c863ddbbebfbcfa8",
-    "revised": "2026-08-21",
+    "hash": "23007488ce274c98",
+    "revised": "2026-09-14",
     "lockedSince": "2026-04-11"
   },
   "articles/aps-and-the-free-energy-principle": {
-    "hash": "8a182da58b842370",
-    "revised": "2026-08-21",
+    "hash": "7295338e4d98ea1a",
+    "revised": "2026-09-14",
     "lockedSince": "2026-08-04"
   },
   "articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system": {
@@ -305,8 +305,8 @@
     "lockedSince": "2026-04-09"
   },
   "articles/biological-explanation-and-organised-persistence": {
-    "hash": "9425a0badd5465a8",
-    "revised": "2026-08-06",
+    "hash": "c370320d59bbe7f6",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-27"
   },
   "articles/biological-individuality-organised-persistence-through-time": {
@@ -585,8 +585,8 @@
     "lockedSince": "2026-05-15"
   },
   "articles/information-in-biology-an-aps-clarification": {
-    "hash": "7ff13474fecdacd9",
-    "revised": "2026-08-21",
+    "hash": "febbcbab95629cee",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-29"
   },
   "articles/inheritance-and-continuity-in-aps": {
@@ -620,8 +620,8 @@
     "lockedSince": "2026-05-07"
   },
   "articles/meaning-in-biology-an-aps-clarification": {
-    "hash": "f83c8c89fbaf192f",
-    "revised": "2026-08-21",
+    "hash": "9a76bd19b1f430b7",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-29"
   },
   "articles/morphogenesis": {
@@ -685,8 +685,8 @@
     "lockedSince": "2026-04-09"
   },
   "articles/persistence-organised-continuity-through-time": {
-    "hash": "ee9c6253ba30c1d9",
-    "revised": "2026-08-06",
+    "hash": "abe2ba659cfe80e9",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-22"
   },
   "articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation": {
@@ -725,8 +725,8 @@
     "lockedSince": "2026-05-26"
   },
   "articles/representation-when-and-whether-it-arises-in-biological-systems": {
-    "hash": "8ceb6929f67e3b5d",
-    "revised": "2026-08-21",
+    "hash": "db0c4e19648c2622",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-29"
   },
   "articles/resilience-ecology-and-continuity": {
@@ -745,8 +745,8 @@
     "lockedSince": "2026-04-11"
   },
   "articles/semiosis-how-differences-come-to-matter-in-living-systems": {
-    "hash": "64d95fa17dabbc1b",
-    "revised": "2026-08-21",
+    "hash": "da89f12dbd6ce724",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-29"
   },
   "articles/social-organisation": {
@@ -890,8 +890,8 @@
     "lockedSince": "2026-05-28"
   },
   "articles/why-aps-reframes-biology": {
-    "hash": "ca2977d1835d3474",
-    "revised": "2026-09-1",
+    "hash": "75d5bbc233204d47",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-12"
   },
   "articles/why-cognition-cannot-be-separated-from-organised-persistence": {
@@ -905,8 +905,8 @@
     "lockedSince": "2026-05-29"
   },
   "articles/why-life-is-not-active-inference": {
-    "hash": "0ae2db22a55d93f7",
-    "revised": "2026-08-21",
+    "hash": "5b68c20f0b53877c",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-29"
   },
   "articles/why-life-is-not-computation-an-aps-clarification": {
@@ -920,8 +920,8 @@
     "lockedSince": "2026-05-15"
   },
   "articles/why-life-is-not-information-processing": {
-    "hash": "b0632eb1b8c4db55",
-    "revised": "2026-08-21",
+    "hash": "b40b261a63f05ae9",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-28"
   },
   "articles/why-life-is-not-intelligence-an-aps-clarification": {
@@ -1335,8 +1335,8 @@
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-architecture-map": {
-    "hash": "4d8cec38121c9cc5",
-    "revised": "2026-09-03",
+    "hash": "2d64343ab44762dc",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-challenges-limitations-and-future-directions": {
@@ -1360,8 +1360,8 @@
     "lockedSince": "2026-05-26"
   },
   "orientation/how-to-read-this-aps-framework-website": {
-    "hash": "cee61ac9651f986c",
-    "revised": "2026-09-03",
+    "hash": "e83d44e8b4923357",
+    "revised": "2026-09-14",
     "lockedSince": "2026-05-16"
   },
   "orientation/navigating-aps-conceptual-guideposts": {
@@ -1380,18 +1380,18 @@
     "lockedSince": "2026-05-26"
   },
   "articles/biological-explanation-what-needs-to-be-explained": {
-    "hash": "0a9395b9ee44f018",
-    "revised": "2026-08-18",
+    "hash": "eaafddd490e6d900",
+    "revised": "2026-09-14",
     "lockedSince": "2026-04-27"
   },
   "articles/aps-and-autonomy-theory": {
-    "hash": "1af41084e661c041",
-    "revised": "2026-08-22",
+    "hash": "97b3ccecfa9f35df",
+    "revised": "2026-09-14",
     "lockedSince": "2026-04-27"
   },
   "articles/why-life-is-not-autopoiesis": {
-    "hash": "5b50da8764a60ad2",
-    "revised": "2026-08-22",
+    "hash": "4b8e7131e189d829",
+    "revised": "2026-09-14",
     "lockedSince": "2026-04-27"
   },
   "glossary/autopoiesis": {
@@ -1870,13 +1870,13 @@
     "lockedSince": "2026-08-07"
   },
   "articles/comparative-explanatory-methodology-theoretical-biology": {
-    "hash": "8305098df82e07fc",
-    "revised": "2026-08-18",
+    "hash": "1ae402c7be216be5",
+    "revised": "2026-09-14",
     "lockedSince": "2026-08-07"
   },
   "glossary/explanatory-architecture": {
-    "hash": "5520991081cf35ff",
-    "revised": "2026-08-07",
+    "hash": "0f7f7f39975b951b",
+    "revised": "2026-09-14",
     "lockedSince": "2026-08-07"
   },
   "glossary/explanatory-organisation": {
@@ -1915,8 +1915,8 @@
     "lockedSince": "2026-08-17"
   },
   "articles/why-life-is-not-enactivism": {
-    "hash": "443c50c3bad2f4d2",
-    "revised": "2026-09-13",
+    "hash": "ce54305f30371ff5",
+    "revised": "2026-09-14",
     "lockedSince": "2026-04-27"
   },
   "articles/agency-as-the-defining-activity-of-life": {

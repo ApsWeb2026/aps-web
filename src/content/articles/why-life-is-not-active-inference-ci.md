@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 
 abstract: >
@@ -338,7 +338,7 @@ This clarification article establishes a non-identity claim: APS does not define
 These identify APS corpus relations rather than established biological or comparative dependencies:
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
 - Organised Persistence
 - Biological Agency

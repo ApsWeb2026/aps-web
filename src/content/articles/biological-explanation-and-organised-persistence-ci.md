@@ -19,7 +19,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-08-06
+revised: 2026-09-14
 
 cluster: methodology-and-explanation
 role: core
@@ -293,7 +293,7 @@ APS provides a framework for analysing borderline systems, synthetic organisms, 
 
 Most importantly, APS makes explicit the organisational assumptions that biological explanations already rely upon when they succeed. Biologists routinely explain persistence, adaptation, regulation, repair, and continuity. APS seeks to clarify the organisational reality that unifies these explanatory practices.
 
-APS also provides a comparative methodology for evaluating contemporary theoretical frameworks in biology. Rather than treating explanatory traditions as competing alternatives, APS asks what explanatory contribution each makes to understanding organised persistence. This comparative approach is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
+APS also provides a comparative methodology for evaluating contemporary theoretical frameworks in biology. Rather than treating explanatory traditions as competing alternatives, APS asks what explanatory contribution each makes to understanding organised persistence. This comparative approach is developed in *APS and Contemporary Explanatory Approaches* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*.
 
 ## Conclusion
 
@@ -347,7 +347,7 @@ The explanatory architecture established here is developed, extended, or applied
 - Organisational Realism in Biology
 - Why APS Reframes Biology
 - Why Philosophy of Biology Matters
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions

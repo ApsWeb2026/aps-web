@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-22
+revised: 2026-09-14
 cluster: philosophy-of-biology
 abstract: |
   Autonomy theory and APS occupy closely related positions within organisational biology. Both treat living systems in terms of organisation, self-maintenance, regulation, and endogenous biological normativity, while APS formulates its own account through viability-oriented, constraint-closed organisation and organised persistence. This article clarifies their substantial conceptual overlap while distinguishing terminological, architectural, methodological, and explanatory differences. These differences do not by themselves establish that APS extends, completes, or improves upon autonomy theory; any comparative explanatory gain requires target-matched assessment against the strongest relevant autonomy-theory account.
@@ -123,7 +123,7 @@ references:
     source: "Oxford University Press"
 ---
 
-Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+Part of **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
 
 APS and autonomy theory occupy closely related positions within contemporary organisational biology. Both reject explanations of life that are exhausted by inventories of components considered in isolation and instead direct attention to the organisation through which living systems maintain themselves through time. Autonomy theory has made major contributions to this organisational perspective through accounts of autonomy, self-maintenance, regulation, constraint closure, and biological normativity. APS addresses closely related explanatory targets through its account of viability-oriented, constraint-closed organisation and organised persistence.
 
@@ -286,7 +286,7 @@ This comparative article examines the close relationship between APS and autonom
 These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - Constraint Closure
 - Organised Persistence
 - Biological Agency
@@ -314,4 +314,4 @@ The comparative architecture established here is developed or extended in the fo
 
 ### Position Within APS
 
-This article forms part of the APS Comparative Biology series. It examines APS alongside one of the most influential organisational approaches in contemporary theoretical biology, recognising substantial intellectual and explanatory overlap while preserving their distinct architectures. It should be read alongside APS and Contemporary Theories, which establishes the governing comparative methodology, and with the related comparative studies of the Free Energy Principle, Organisational Biology, and other contemporary frameworks. No comparative superiority is inferred here from APS's breadth, coherence, integration, or potential foundational generality.
+This article belongs to the APS Comparative Explanatory Approaches family. It examines APS alongside one of the most influential organisational approaches in contemporary theoretical biology, recognising substantial intellectual and explanatory overlap while preserving their distinct architectures. It should be read alongside *APS and Contemporary Explanatory Approaches*, which maps the wider comparative programme, and *Comparative Explanatory Methodology in Theoretical Biology*, which establishes the governing comparative methodology, together with the related comparative studies of the Free Energy Principle, Organisational Biology, and other contemporary frameworks. No comparative superiority is inferred here from APS's breadth, coherence, integration, or potential foundational generality.

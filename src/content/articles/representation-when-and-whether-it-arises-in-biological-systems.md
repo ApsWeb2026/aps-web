@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 
 abstract: >
@@ -425,7 +425,7 @@ Prediction itself presupposes:
 - and biological agency.
 
 Representation therefore cannot explain biological organisation from the outset. 
-It already presupposes organised living systems. APS extends this discussion through its comparative methodology. Contemporary frameworks such as predictive processing and the Free Energy Principle provide sophisticated accounts of representational organisation within many cognitive systems. APS does not reject these explanatory achievements. Instead, it asks where representational organisation belongs within the broader architecture of living systems. This comparative methodology is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where representational and active inference accounts are interpreted as specialised explanatory perspectives rather than universal accounts of life itself.
+It already presupposes organised living systems. APS extends this discussion through its comparative methodology. Contemporary frameworks such as predictive processing and the Free Energy Principle provide sophisticated accounts of representational organisation within many cognitive systems. APS does not reject these explanatory achievements. Instead, it asks where representational organisation belongs within the broader architecture of living systems. This comparative methodology is developed in *APS and Contemporary Explanatory Approaches* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where representational and active inference accounts are interpreted as specialised explanatory perspectives rather than universal accounts of life itself.
 
 This is why APS treats representation as derivative rather than foundational.
 
@@ -621,7 +621,7 @@ The explanatory architecture established here is developed, extended, or applied
 - Selfhood
 - Reflective Agency
 - Why Life Is Not Active Inference
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions
@@ -635,3 +635,4 @@ The explanatory architecture established here is developed, extended, or applied
 ### Position Within APS
 
 This article establishes the canonical APS account of representation as a biologically grounded but organisationally derivative achievement. It explains why representation presupposes viability-oriented evaluation, semiosis, meaning, and cognition rather than constituting their foundation. In doing so, it provides the principal conceptual bridge between APS's accounts of biological cognition and its comparative engagement with representational, predictive-processing, and Active Inference approaches.
+

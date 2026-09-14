@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-08-06
+revised: 2026-09-14
 
 cluster: conceptual-foundations
 role: anchor
@@ -345,7 +345,7 @@ The explanatory architecture established here is developed, extended, or applied
 - *Scale, Time, and Persistence*
 - *Physiology and Evolution in APS*
 - *Organisational Realism in Biology*
-- *APS and Contemporary Theories*
+- *APS and Contemporary Explanatory Approaches*
 - *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*
 
 ### Related Explanatory Questions
@@ -371,4 +371,5 @@ This Anchor article is the canonical APS treatment of persistence as organised c
 It also functions as a major corpus hub. It provides the central conceptual connection between the foundational account of living organisation and later articles concerning temporal organisation, development, repair, resilience, ageing, biological identity, cognition, ecology, evolutionary continuity, and biological explanation.
 
 Within the Comparative Biology programme, this article supplies the APS account of persistence against which formal and organisational frameworks can be compared. It therefore provides a principal conceptual entry point to *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where organised persistence is compared with formal accounts of stability, inference, and self-maintenance.
+
 

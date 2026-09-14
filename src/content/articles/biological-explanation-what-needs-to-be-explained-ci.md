@@ -16,7 +16,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-18
+revised: 2026-09-14
 
 cluster: conceptual-foundations
 role: core
@@ -283,7 +283,7 @@ The explanatory architecture established here is developed, extended, or applied
 - Description, Explanation, and Definition in Biology
 - Organisational Realism in Biology
 - Why APS Reframes Biology
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions

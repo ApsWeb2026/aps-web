@@ -6,7 +6,7 @@ slug: why-life-is-not-information-processing
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 
 abstract: >
@@ -324,7 +324,7 @@ This clarification article establishes a non-identity claim: APS does not define
 These identify relations within the APS corpus rather than established biological or comparative dependencies:
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - Information in Biology
 - Biological Evaluation
 - Biological Significance
@@ -353,3 +353,4 @@ These identify relations within the APS corpus rather than established biologica
 ### Position Within APS
 
 This article belongs to the APS comparative clarification series. Its purpose is to distinguish the APS definition of life from information-processing identity claims without reducing informational approaches to description or subordinating them to APS. Comparative explanatory superiority remains open.
+

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-08-22
+revised: 2026-09-14
 cluster: philosophy-of-biology
 role: clarification
 
@@ -58,7 +58,7 @@ references:
   - virenque-mossio-2024-what-is-agency
 ---
 
-Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+**Life Demarcation:** This article asks whether autopoietic self-production is sufficient as an account of Life. Comparative questions concerning APS and autonomy theory are addressed separately in **[APS and Autonomy Theory](/articles/aps-and-autonomy-theory/)**.
 
 ## Introduction
 Autopoiesis represents one of the most influential organisational approaches to life in modern theoretical biology. By shifting attention from the material composition of living systems toward the organisation through which they continuously produce and maintain themselves, it transformed discussions of life, individuality, autonomy, cognition, and biological explanation.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 role: clarification
 
@@ -192,7 +192,7 @@ meaning
 â†“
 information
 
-Information therefore depends upon already meaningful difference organised within continuity-preserving activity. APS extends this discussion through its comparative methodology. Contemporary information-theoretic frameworks, including the Free Energy Principle, provide important accounts of how biological systems process and regulate information. APS does not reject these approaches. Instead, it asks how information acquires biological significance in the first place. This comparison is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where information is interpreted as one explanatory dimension within the broader organisation of viability-oriented persistence.
+Information therefore depends upon already meaningful difference organised within continuity-preserving activity. APS extends this discussion through its comparative methodology. Contemporary information-theoretic frameworks, including the Free Energy Principle, provide important accounts of how biological systems process and regulate information. APS does not reject these approaches. Instead, it asks how information acquires biological significance in the first place. This comparison is developed in *APS and Contemporary Explanatory Approaches* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where information is interpreted as one explanatory dimension within the broader organisation of viability-oriented persistence.
 
 This distinction is philosophically crucial because it prevents biological significance from collapsing into abstract syntax, statistical structure, symbolic formalism, or detached computational manipulation.
 
@@ -441,7 +441,7 @@ The explanatory architecture established here is developed, extended, or applied
 - Selfhood
 - Reflective Agency
 - What Is Meaning?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions
@@ -455,3 +455,4 @@ The explanatory architecture established here is developed, extended, or applied
 ### Position Within APS
 
 This article clarifies the biological origins of meaning within the APS explanatory architecture. It establishes meaning as an emergent organisational consequence of viability-oriented evaluation and semiosis, thereby pThis article clarifies the biological origins of meaning within the APS explanatory architecture. It establishes meaning as an emergent organisational consequence of viability-oriented evaluation and semiosis, thereby providing the explanatory bridge between biological significance and the later development of cognition, mind, and reflective agency. It also establishes the conceptual foundation for APS's comparative engagement with information-theoretic and representational approaches to biological organisation.
+

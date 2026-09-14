@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-09-13
+revised: 2026-09-14
 cluster: philosophy-of-biology
 role: clarification
 
@@ -58,7 +58,7 @@ references:
   - di-paolo-buhrmann-barandiaran-2017-sensorimotor-life
 ---
 
-Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+Part of **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
 
 ## Introduction
 This article compares APS with enactivism and explains why the two should not be identified. Enactivist approaches and APS share important concerns with embodiment, biological organisation, agency, normativity, cognition, and organism–environment relations, but they organise these concerns differently and need not address every biological explanandum in the same way.
@@ -204,7 +204,7 @@ This clarification article establishes a non-identity claim: APS and enactivism 
 These identify relations within the APS corpus rather than established biological or comparative dependencies:
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - Biological Agency
 - Biological Evaluation
 - Biological Significance
@@ -230,3 +230,4 @@ These identify relations within the APS corpus rather than established biologica
 ### Position Within APS
 
 This article belongs to the APS comparative clarification series. Its role is to distinguish APS from enactivist approaches without reducing enactivism to embodiment or cognition, translating enactivist concepts automatically into APS terminology, or subordinating enactivism to APS. Comparative explanatory superiority remains open.
+

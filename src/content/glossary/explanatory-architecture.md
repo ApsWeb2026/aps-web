@@ -17,7 +17,7 @@ inBrief: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-08-07
+revised: 2026-09-14
 
 cluster: methodology-and-explanation
 
@@ -32,8 +32,9 @@ relatedTerms:
 
 An explanatory architecture describes how a research programme organises biological explanation.
 
-Within APS, explanatory architectures are the primary objects of comparison in the Comparative Theories programme. Rather than comparing isolated concepts, definitions, or theoretical claims, comparative explanatory methodology compares the organisation of explanatory architectures.
+Within APS, explanatory architectures are the primary objects of comparison in the Comparative Explanatory Approaches programme. Rather than comparing isolated concepts, definitions, or theoretical claims, comparative explanatory methodology compares the organisation of explanatory architectures.
 
 Every explanatory architecture is organised around identifiable explanatory targets, organising principles, explanatory priorities, and their systematic relationships. Together these constitute the explanatory organisation of the research programme.
 
 Different organisational research programmes may investigate many of the same biological phenomena while developing distinct explanatory architectures. Comparative explanatory methodology seeks to clarify these differences without assuming that one architecture necessarily replaces another.
+

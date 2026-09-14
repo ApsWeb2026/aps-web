@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 
 abstract: >
@@ -186,7 +186,7 @@ However, informational descriptions do not by themselves explain:
 - how semiosis becomes meaningful;
 - or how living systems persist as organised processes through time in the first place.
 
-APS extends this discussion through its comparative methodology. Rather than rejecting informational approaches, APS asks what explanatory contribution they make to understanding living organisation and where their explanatory priorities differ from those of a viability-oriented account. This comparative approach is developed in *APS and Contemporary Theories* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where APS compares organisational and information-theoretic explanations of biological persistence.
+APS extends this discussion through its comparative methodology. Rather than rejecting informational approaches, APS asks what explanatory contribution they make to understanding living organisation and where their explanatory priorities differ from those of a viability-oriented account. This comparative approach is developed in *APS and Contemporary Explanatory Approaches* and illustrated in *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where APS compares organisational and information-theoretic explanations of biological persistence.
 
 # Shannon Information and Biological Meaning
 
@@ -636,7 +636,7 @@ The explanatory architecture established here is developed, extended, or applied
 - Why Life Is Not Information Processing
 - Why Life Is Not Computation
 - Why Life Is Not Active Inference
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
 
 ### Related Explanatory Questions
@@ -650,3 +650,4 @@ The explanatory architecture established here is developed, extended, or applied
 ### Position Within APS
 
 This article establishes the canonical APS account of biological information. It explains why information is an indispensable but non-foundational biological concept and provides the bridge between APS's treatment of semiosis, meaning, cognition, and its comparative engagement with information-based approaches in theoretical biology.
+

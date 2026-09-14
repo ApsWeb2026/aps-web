@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 abstract: >
   The Extended Evolutionary Synthesis (EES) broadens evolutionary explanation through development, plasticity, niche construction, ecological inheritance, and organism–environment interaction. APS addresses related questions through its account of viability-oriented, constraint-closed organisation and organised persistence. This article compares the two explanatory architectures without assuming that APS grounds, completes, or occupies a more fundamental explanatory domain than evolutionary theory. APS may investigate proposed dependencies between living organisation, reproduction, inheritance, variation, selection, and historical transformation, but their explanatory significance requires target-matched assessment rather than inference from APS architecture alone.
@@ -87,7 +87,7 @@ references:
     publisher: "Oxford University Press"
 ---
 
-Part of the series: **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+Part of **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
 
 This article clarifies the relationship between the Extended Evolutionary Synthesis (EES) and APS. The EES and APS address overlapping questions concerning organismal activity, development, environmental relations, continuity, and evolutionary transformation. Their conceptual and explanatory differences create a comparative problem; they do not establish that APS grounds or completes evolutionary explanation.
 
@@ -208,7 +208,7 @@ This comparative article examines APS alongside the Extended Evolutionary Synthe
 These concepts and articles provide the APS background used in this comparison. They identify relations within the APS corpus rather than established biological dependencies, hierarchy, or explanatory priority.
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - Organised Persistence
 - Biological Agency
 - Viability
@@ -235,4 +235,5 @@ Architectural Dependency and Biological Explanation
 
 ### Position Within APS
 
-This article forms part of the APS Comparative Biology series. It examines evolutionary explanation without treating living organisation as automatically prior to historical explanation. APS retains its substantive account of viability-oriented organised persistence while leaving the comparative significance of that account to target-matched assessment against the strongest relevant evolutionary alternatives.
+This article belongs to the APS Comparative Explanatory Approaches family. It examines evolutionary explanation without treating living organisation as automatically prior to historical explanation. APS retains its substantive account of viability-oriented organised persistence while leaving the comparative significance of that account to target-matched assessment against the strongest relevant evolutionary alternatives.
+

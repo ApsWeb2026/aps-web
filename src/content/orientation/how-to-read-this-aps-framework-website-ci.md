@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-09-03
+revised: 2026-09-14
 cluster: conceptual-foundations
 abstract: >
   This page explains how APS_WEB is organised and provides recommended
@@ -77,7 +77,7 @@ This sequence introduces the central concepts of the framework, explains how the
 4. **[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)**
 5. **[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)**
 6. **[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)**
-7. **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+7. **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
 
 Together these pages introduce APS's central concepts, methodological organisation, and philosophical background.
 
@@ -150,7 +150,7 @@ Recommended pathway:
 - **[Description, Explanation, and Definition in Biology](/articles/description-explanation-and-definition-in-biology/)**
 - **[The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)**
 - **[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)**
-- **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+- **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
 
 These articles examine APS's approach to questions of biological explanation, organisation, mechanism, history, normativity, and biological intelligibility.
 
@@ -278,7 +278,7 @@ Readers seeking the conceptual foundations of the framework should continue with
 Readers interested in broader theoretical implications should continue with:
 
 - **[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)**
-- **[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)**
+- **[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)**
 
 ## Key Point
 

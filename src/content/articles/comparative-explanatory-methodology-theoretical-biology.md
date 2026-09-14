@@ -6,8 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-07
-revised: 2026-08-18
-
+revised: 2026-09-14
 cluster: methodology-and-explanation
 role: anchor
 
@@ -19,7 +18,7 @@ abstract: >
   principles, explanatory priorities, conceptual organisation, characteristic
   strengths, and domains of application. It preserves differences among
   programmes rather than reducing them to a common theory or vocabulary.
-  This comparative methodology provides the analytical foundation for the APS Comparative Theories programme and is distinct from methods for comparing claims and
+  This comparative methodology provides the analytical foundation for the APS Comparative Explanatory Approaches programme and is distinct from methods for comparing claims and
   testing the evidential adequacy or explanatory gain of particular
   biological explanations.
 
@@ -28,7 +27,7 @@ keyPoints:
   - Research programmes can be compared through explanatory targets, organising principles, priorities, conceptual organisation, strengths, and scope.
   - Comparative mapping preserves explanatory plurality and does not require programmes to share one explanatory framework.
   - Explanatory-architecture comparison is distinct from evidential adjudication and dependency-hypothesis auditing of individual claims.
-  - The methodology provides the common analytical foundation for the APS Comparative Theories programme without requiring acceptance of APS biology.
+  - The methodology provides the common analytical foundation for the APS Comparative Explanatory Approaches programme without requiring acceptance of APS biology.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -97,11 +96,11 @@ The increasing diversity of organisational research programmes represents an imp
 
 The emergence of multiple organisational research programmes reflects the expanding scope of inquiry within contemporary theoretical biology. Rather than indicating theoretical fragmentation, it reflects increasing attention to questions concerning the organisation of living systems that were previously addressed only indirectly. As organisational approaches have matured, the need has shifted from demonstrating their legitimacy to understanding how their explanatory contributions relate to one another.
 
-This situation identifies a narrower methodological opportunity. Philosophy of science and theoretical biology already provide substantial resources for comparing explanations, research programmes, conceptual commitments, and forms of integration. What is less often made explicit in the APS Comparative Theories context is a stable protocol for comparing explanatory architectures for recording explanatory target, organising principle, explanatory priorities, conceptual organisation, characteristic strengths, and scope under the same comparative format. The present article develops that more limited instrument. Its purpose is not to fill a methodological vacuum, but to make research-programme comparison explicit, repeatable, and transparent.
+This situation identifies a narrower methodological opportunity. Philosophy of science and theoretical biology already provide substantial resources for comparing explanations, research programmes, conceptual commitments, and forms of integration. What is less often made explicit in the APS Comparative Explanatory Approaches context is a stable protocol for comparing explanatory architectures for recording explanatory target, organising principle, explanatory priorities, conceptual organisation, characteristic strengths, and scope under the same comparative format. The present article develops that more limited instrument. Its purpose is not to fill a methodological vacuum, but to make research-programme comparison explicit, repeatable, and transparent.
 
 The present article develops a comparative explanatory methodology for organisational research programmes in theoretical biology. Rather than asking which framework is correct, it asks what each programme is principally organised to explain, how its central concepts are related, where its explanatory priorities lie, and what domains it addresses most effectively. The objective is neither to reduce programmes to a common vocabulary nor to synthesise them into one theory. It is to provide a disciplined descriptive basis for identifying convergence, difference, scope, and possible complementarity before any stronger evaluative comparison is attempted.
 
-The present protocol was developed within the APS research programme for use in its Comparative Theories studies, but its analytical operations are not constitutively APS-specific. Comparing research programmes by their problems, explanatory priorities, organising principles, conceptual relations, strengths, and scope has substantial precedent in philosophy of science and theoretical biology. APS therefore provides the research context in which this particular protocol was consolidated and applied, not the intellectual origin of programme comparison itself. The protocol must remain usable without accepting viability-oriented organisation, organised persistence, or Agency–Process–Scale.
+The present protocol was developed within the APS research programme for use in its Comparative Explanatory Approaches studies, but its analytical operations are not constitutively APS-specific. Comparing research programmes by their problems, explanatory priorities, organising principles, conceptual relations, strengths, and scope has substantial precedent in philosophy of science and theoretical biology. APS therefore provides the research context in which this particular protocol was consolidated and applied, not the intellectual origin of programme comparison itself. The protocol must remain usable without accepting viability-oriented organisation, organised persistence, or Agency–Process–Scale.
 
 The methodology compares organisational research programmes according to a common set of explanatory dimensions. These include the biological phenomena that constitute their principal explanatory targets, the organising principles around which their explanatory architectures are constructed, the relationships they establish between organisation and concepts such as agency, meaning, information, communication, cognition, and function, and the domains of biological inquiry to which they are most effectively applied. By examining programmes through these common dimensions, the methodology aims to clarify both genuine points of convergence and substantive explanatory differences without presupposing that all programmes are attempting to answer the same biological questions.
 
@@ -162,7 +161,7 @@ The following section develops these comparative dimensions in greater detail. I
 
 <p class="diagram-caption">
   <em>
-    Comparative explanatory methodology provides a common analytical framework through which organisational research programmes may be examined according to their explanatory architectures. The resulting comparative analyses establish the methodological foundation for the APS Comparative Theories programme.
+    Comparative explanatory methodology provides a common analytical framework through which organisational research programmes may be examined according to their explanatory architectures. The resulting comparative analyses establish the methodological foundation for the APS Comparative Explanatory Approaches programme.
   </em>
 </p>
 
@@ -218,7 +217,7 @@ The following section illustrates the application of this protocol through a con
 
 The comparative analytical protocol developed in the preceding section provides a common methodological procedure through which organisational research programmes may be analysed consistently. Its value, however, depends upon more than methodological consistency. A comparative methodology should also generate explanatory insight by making relationships between research programmes more explicit than they would otherwise appear. The following illustration therefore demonstrates how the protocol clarifies both the shared concerns and the distinctive explanatory organisations of representative organisational research programmes.
 
-The comparison presented here is intentionally illustrative rather than comprehensive. Its purpose is not to provide exhaustive analyses of individual research programmes, nor to evaluate their relative merits. Detailed comparative studies belong within the subsequent publications of the Comparative Theories programme. The present discussion instead demonstrates how the analytical protocol may be applied to a small number of representative frameworks in order to show the kinds of methodological understanding that it produces.
+The comparison presented here is intentionally illustrative rather than comprehensive. Its purpose is not to provide exhaustive analyses of individual research programmes, nor to evaluate their relative merits. Detailed comparative studies belong within the subsequent publications of the Comparative Explanatory Approaches programme. The present discussion instead demonstrates how the analytical protocol may be applied to a small number of representative frameworks in order to show the kinds of methodological understanding that it produces.
 
 Three organisational research programmes have been selected for illustration. Biosemiotics, enactivism, and the Agency–Process–Scale (APS) framework each investigate important aspects of living organisation while organising biological explanation around distinct explanatory principles. Together they provide sufficient diversity to demonstrate the operation of the comparative methodology without obscuring its underlying structure through unnecessary complexity.
 
@@ -256,7 +255,7 @@ The protocol developed here applies to APS in the same way that it applies to ot
 
 At programme level, APS is centred on viability-oriented organised persistence. Agency, Process, and Scale are analytic projections of the one viability-oriented, constraint-closed organisation APS investigates; they are not universal categories that competing programmes must adopt. Comparative analysis should therefore describe APS through its own architecture while describing biosemiotics, enactivism, autonomy theory, the Free Energy Principle, and other programmes through theirs.
 
-APS also provides the institutional and research context in which the present comparative protocol has been consolidated for the Comparative Theories programme. That fact should not be confused with a claim that APS originated programme comparison or that this protocol exhausts comparative methodology in theoretical biology. Its contribution is narrower: it supplies a stable common format through which APS's comparative studies can reconstruct and contrast explanatory architectures consistently.
+APS also provides the institutional and research context in which the present comparative protocol has been consolidated for the Comparative Explanatory Approaches programme. That fact should not be confused with a claim that APS originated programme comparison or that this protocol exhausts comparative methodology in theoretical biology. Its contribution is narrower: it supplies a stable common format through which APS's comparative studies can reconstruct and contrast explanatory architectures consistently.
 
 Acceptance of this programme protocol does not require acceptance of APS biology. Conversely, successful use of the protocol does not establish the truth or superiority of APS. The method can expose APS's explanatory priorities, limits, and differences from neighbouring programmes just as readily as it can clarify those of any comparator.
 
@@ -264,12 +263,12 @@ The methodology also has reflexive consequences for APS. Because APS is analysed
 
 This reflexive character strengthens rather than weakens the methodology. Comparative analysis becomes a common scholarly practice rather than a means of defending a preferred theoretical position. Organisational research programmes are understood first on their own explanatory terms before their relationships to other programmes are examined. The objective is therefore to improve the transparency of biological explanation by making explanatory architectures, explanatory priorities, and conceptual organisation more readily comparable across theoretical biology.
 
-The broader significance of this approach extends beyond the present article. The comparative analytical protocol establishes a common methodological foundation for the Comparative Theories programme developed within APS. Subsequent studies of biosemiotics, enactivism, autopoiesis, the Free Energy Principle, ecological psychology, and other organisational research programmes employ the same analytical procedure while examining each framework in substantially greater detail. The present article therefore provides the methodological foundation for that wider programme of comparative investigation.
+The broader significance of this approach extends beyond the present article. The comparative analytical protocol establishes a common methodological foundation for the Comparative Explanatory Approaches programme developed within APS. Subsequent studies of biosemiotics, enactivism, autopoiesis, the Free Energy Principle, ecological psychology, and other organisational research programmes employ the same analytical procedure while examining each framework in substantially greater detail. The present article therefore provides the methodological foundation for that wider programme of comparative investigation.
 
 <div class="aps-diagram">
   <img
     src="/assets/diagrams/philosophy-comparative-theories.png"
-    alt="The APS Comparative Theories Programme"
+    alt="The APS Comparative Explanatory Approaches Programme"
   />
 </div>
 
@@ -285,7 +284,7 @@ The broader significance of this approach extends beyond the present article. Th
 
 [[box:substantive-APS-theory-and-comparative-research-practice]]
 
-APS contributes two different kinds of work within the present corpus. First, it advances a substantive account of living organisation centred on viability-oriented organised persistence. Second, the APS Comparative Theories programme uses a programme protocol for reconstructing and comparing explanatory architectures. These functions should remain distinct. The first is an APS biological proposal; the second is a comparative research practice whose usefulness does not depend on acceptance of that proposal.
+APS contributes two different kinds of work within the present corpus. First, it advances a substantive account of living organisation centred on viability-oriented organised persistence. Second, the APS Comparative Explanatory Approaches programme uses a programme protocol for reconstructing and comparing explanatory architectures. These functions should remain distinct. The first is an APS biological proposal; the second is a comparative research practice whose usefulness does not depend on acceptance of that proposal.
 
 The following and final section considers the broader implications of comparative explanatory methodology for theoretical biology and the philosophy of biology. It argues that making explanatory architectures explicit provides a basis for greater conceptual clarity, more productive dialogue between organisational research programmes, and a more systematic understanding of the diverse ways in which contemporary biology seeks to explain living systems.
 
@@ -303,9 +302,9 @@ The methodology also contributes to the philosophy of biological explanation. Di
 
 A further implication concerns scholarly communication. A stable protocol for comparing research programmes provides a common analytical language through which organisational research programmes may be examined without requiring conceptual uniformity or theoretical consensus. Rather than eliminating disagreement, it clarifies the explanatory questions being addressed, the organising principles employed, and the relationships between different explanatory architectures, thereby enabling more precise and constructive dialogue across theoretical traditions.
 
-The methodology also establishes a practical foundation for future comparative research. Because the comparative analytical protocol specifies a reproducible sequence of analytical questions, it may be applied consistently across diverse organisational research programmes while preserving the conceptual integrity of each. The APS Comparative Theories programme adopts this protocol as its common methodological foundation, enabling detailed comparative studies to proceed within a shared analytical framework.
+The methodology also establishes a practical foundation for future comparative research. Because the comparative analytical protocol specifies a reproducible sequence of analytical questions, it may be applied consistently across diverse organisational research programmes while preserving the conceptual integrity of each. The APS Comparative Explanatory Approaches programme adopts this protocol as its common methodological foundation, enabling detailed comparative studies to proceed within a shared analytical framework.
 
-The present article therefore makes four restricted methodological contributions to the APS Comparative Theories programme: it treats the explanatory architecture of a research programme as the unit of comparison; makes explanatory organisation explicit as a basis for that comparison; provides a repeatable seven-question descriptive protocol; and separates clarification of explanatory architecture from subsequent evidential adjudication of particular claims.
+The present article therefore makes four restricted methodological contributions to the APS Comparative Explanatory Approaches programme: it treats the explanatory architecture of a research programme as the unit of comparison; makes explanatory organisation explicit as a basis for that comparison; provides a repeatable seven-question descriptive protocol; and separates clarification of explanatory architecture from subsequent evidential adjudication of particular claims.
 
 Together, these contributions establish a coherent methodological foundation for comparative investigation within theoretical biology. Their significance, however, extends beyond the immediate methodology developed here. Treating explanatory architectures as legitimate objects of scholarly investigation suggests a wider perspective on the organisation of biological explanation itself. That broader perspective forms the subject of the final section.
 

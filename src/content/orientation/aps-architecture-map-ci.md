@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-09-03
+revised: 2026-09-14
 cluster: conceptual-foundations
 
 abstract: >
@@ -390,7 +390,7 @@ Conceptual comparison can clarify explanatory targets, commitments, similarities
 
 - *[APS as Philosophy — A Viability-Oriented Account](/articles/aps-as-philosophy-biological-intelligibility/)*
 
-- *[APS and Contemporary Theories](/articles/aps-and-contemporary-theories/)*
+- *[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)*
 
 - *[Why Philosophy of Biology Matters](/articles/why-philosophy-of-biology-matters/)*
 
@@ -516,7 +516,7 @@ Recommended pathway:
 
 1. *APS as Philosophy*
 
-2. *APS and Contemporary Theories*
+2. *APS and Contemporary Explanatory Approaches*
 
 3. *Why Philosophy of Biology Matters*
 

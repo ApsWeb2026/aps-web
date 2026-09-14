@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-04
-revised: 2026-08-21
+revised: 2026-09-14
 cluster: philosophy-of-biology
 role: anchor
 
@@ -191,7 +191,7 @@ This comparative article examines the relationship between APS and the Free Ener
 These concepts and articles establish the explanatory resources presupposed by this article. They identify dependencies within the APS explanatory corpus rather than chronological order, hierarchy, or levels of organisation.
 
 - What Is APS?
-- APS and Contemporary Theories
+- APS and Contemporary Explanatory Approaches
 - Comparative Explanatory Methodology in: Theoretical Biology
 Organised Persistence
 Biological Agency
@@ -219,4 +219,4 @@ Subsequent Explanatory Developments
 
 ### Position Within APS
 
-This article forms part of the APS Comparative Biology series. It examines one of the most ambitious contemporary frameworks for adaptive self-organisation against APS's account of viability-oriented organised persistence. Its role is not to establish APS as a deeper biological explanation or FEP as merely a formal description, but to clarify the conditions under which their explanatory claims can be meaningfully compared. It thereby contributes to APS's broader comparative methodology while leaving any claim of comparative explanatory superiority to target-matched assessment.
+This article belongs to the APS Comparative Explanatory Approaches family. It examines one of the most ambitious contemporary frameworks for adaptive self-organisation against APS's account of viability-oriented organised persistence. Its role is not to establish APS as a deeper biological explanation or FEP as merely a formal description, but to clarify the conditions under which their explanatory claims can be meaningfully compared. It thereby contributes to APS's broader comparative methodology while leaving any claim of comparative explanatory superiority to target-matched assessment.
