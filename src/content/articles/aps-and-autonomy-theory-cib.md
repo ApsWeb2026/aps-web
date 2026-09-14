@@ -133,7 +133,7 @@ The comparison is especially important because both frameworks investigate how l
 
 ## The Autonomy Insight
 
-Autonomy theory marked a decisive shift in theoretical biology by grounding biological explanation in organisation rather than components. Earlier approaches often attempted to explain living systems primarily through their constituent parts or the mechanisms through which those parts interacted. Autonomy theorists argued that such explanations remained incomplete unless they also accounted for the organisational relations that make living systems possible in the first place.
+Autonomy theory has been a major contributor to the organisational turn in theoretical biology in theoretical biology by grounding biological explanation in organisation rather than components. Earlier approaches often attempted to explain living systems primarily through their constituent parts or the mechanisms through which those parts interacted. Autonomy theorists argued that such explanations remained incomplete unless they also accounted for the organisational relations that make living systems possible in the first place.
 
 The central insight was that living systems persist through networks of mutually dependent processes that collectively maintain the conditions required for their own continuation. Biological organisation is therefore not imposed from outside but continuously generated and sustained through the activity of the system itself. A living organism remains alive not because particular molecules persist unchanged, but because organisational relations are continually reproduced through ongoing activity.
 
@@ -259,7 +259,7 @@ The relationship between APS and autonomy theory should therefore remain open to
 
 ## Summary
 
-Autonomy theory re-established biological explanation on an organisational basis by demonstrating the importance of constraint closure, self-maintenance, and endogenous normativity. It showed that living systems are not merely collections of components but organised unities whose persistence depends upon the continual regeneration of the conditions required for their own existence.
+Autonomy theory has made a major contribution to organisational biological explanation by demonstrating the importance of constraint closure, self-maintenance, and endogenous normativity. It showed that living systems are not merely collections of components but organised unities whose persistence depends upon the continual regeneration of the conditions required for their own existence.
 
 APS shares these organisational foundations while articulating its own account through viability-oriented, constraint-closed organisation and organised persistence. It explicitly relates closure, regulation, agency, viability, Agency–Process–Scale, definition and diagnosis, and historical transformation within a single explanatory grammar.
 

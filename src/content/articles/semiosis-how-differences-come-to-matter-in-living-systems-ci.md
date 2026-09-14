@@ -1,6 +1,6 @@
 ---
 date: 2026-05-06
-title: "Semiosis â€” How Differences Come to Matter in Living Systems"
+title: "Semiosis — How Differences Come to Matter in Living Systems"
 slug: semiosis-how-differences-come-to-matter-in-living-systems
 type: article
 status: canonical
@@ -9,25 +9,19 @@ canonicalLockDate: 2026-05-29
 revised: 2026-09-14
 cluster: philosophy-of-biology
 role: core
-
 abstract: >
-  This article develops an APS account of semiosis as the ongoing
-  organisation of meaningful organismâ€“environment relations within
-  viability-oriented evaluative activity. Semiosis is not fundamentally
-  symbolic representation, linguistic meaning, or abstract information
-  processing, but the process through which differences become
-  biologically significant for organised persistence. Living systems
-  continuously regulate themselves relative to conditions affecting
-  viability, and semiosis emerges wherever such differences are
-  integrated into continuity-preserving evaluative organisation. APS
-  situates semiosis within a broader explanatory grammar linking
-  viability, function, normativity, evaluation, meaning, information,
-  representation, and cognition, while showing how meaningful
-  relations are organised across interacting biological scales and
-  temporal horizons. Semiosis therefore emerges from organised
-  persistence while simultaneously contributing to its maintenance,
-  regulation, and reorganisation.
-
+  Semiosis concerns sign relations within living organisation. APS does not
+  treat semiosis as the process through which biological significance first
+  arises: Biological Evaluation is the process through which agency generates
+  significance. Semiosis becomes a further explanatory hypothesis where a
+  biologically significant difference functions as a sign in relation to
+  another condition, object, possibility, or state of affairs. Such an
+  attribution requires evidence beyond causal sensitivity, information-bearing
+  correlation, or viability-relative significance alone. APS therefore
+  distinguishes significance, semiosis, meaning, information, representation,
+  and cognition while asking when sign-relational organisation identifies an
+  additional materially implemented dependency that improves explanation of a
+  specified biological explanandum.
 relatedGlossaryTerms:
   - semiosis
   - evaluation
@@ -46,7 +40,6 @@ relatedGlossaryTerms:
   - temporality
   - process
   - scale
-
 relatedArticles:
   - evaluation-how-living-systems-modulate-activity-relative-to-viability
   - function-and-normativity-why-biological-organisation-matters
@@ -65,76 +58,64 @@ relatedArticles:
   - why-life-is-not-a-machine
   - aps-and-contemporary-theories
   - aps-and-the-free-energy-principle
-
 references:
   - id: peirce1931
     authors: "Peirce, C. S."
     year: 1931
     title: "Collected Papers of Charles Sanders Peirce"
     publisher: "Harvard University Press"
-
   - id: uexkull2010
-    authors: "von UexkÃ¼ll, J."
+    authors: "von Uexküll, J."
     year: 2010
     title: "A Foray into the Worlds of Animals and Humans"
     publisher: "University of Minnesota Press"
-
   - id: barbieri2008
     authors: "Barbieri, M."
     year: 2008
     title: "Biosemiotics: A New Understanding of Life"
     publisher: "Springer"
-
   - id: deacon2011
     authors: "Deacon, T. W."
     year: 2011
     title: "Incomplete Nature"
     publisher: "W. W. Norton & Company"
-
   - id: moreno2015
     authors: "Moreno, A., & Mossio, M."
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: "Springer"
-
   - id: thompson2007
     authors: "Thompson, E."
     year: 2007
     title: "Mind in Life"
     publisher: "Harvard University Press"
-
   - id: lyon2018
     authors: "Lyon, P., et al."
     year: 2018
     title: "The Biogenic Approach to Cognition"
     journal: "Adaptive Behavior"
     volume: "26"
-    pages: "225â€“240"
-
+    pages: "225–240"
   - id: hoffmeyer1996
     authors: "Hoffmeyer, J."
     year: 1996
     title: "Signs of Meaning in the Universe"
     publisher: "Indiana University Press"
-
   - id: hoffmeyer2008
     authors: "Hoffmeyer, J."
     year: 2008
     title: "Biosemiotics"
     publisher: "University of Scranton Press"
-
   - id: favareau2010
     authors: "Favareau, D. (Ed.)"
     year: 2010
     title: "Essential Readings in Biosemiotics"
     publisher: "Springer"
-
   - id: kull2026
     authors: "Kull, K., & Favareau, D. (Eds.)"
     year: 2026
     title: "Towards a Biosemiotic Theoretical Biology: Sign Processes and Meaning-Making in Living Systems"
     publisher: "MIT Press"
-
   - id: spencer2026
     authors: "Spencer, R. D."
     year: 2026
@@ -143,69 +124,80 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-> **Where this article fits:** This article develops the APS account of semiosis as the organisation of biologically meaningful difference within viability-oriented evaluative organisation. Semiosis is treated not as symbolic representation or abstract information processing, but as the ongoing organisation of meaningful organismâ€“environment relations within continuity-preserving biological activity. It therefore forms one of the principal bridges linking viability, normativity, evaluation, meaning, information, representation, and cognition within the APS explanatory framework.
+# Semiosis — How Differences Come to Matter in Living Systems
 
 ## Introduction
 
-Semiosis is traditionally understood as the production and interpretation of signs.
+Semiosis is traditionally concerned with signs and the relations through which something functions for a system in relation to something else. In philosophy, linguistics, semiotics, and cognitive science, such relations have often been associated with interpretation, communication, representation, and meaning. Biosemiotics extends the question into biology, asking whether and how sign processes participate in living organisation.
 
-Within philosophy, linguistics, and semiotics, semiosis has often been associated with symbols, representation, communication, interpretation, and language-like meaning. Within biology, the concept has been extended to encompass signalling systems, genetic coding, neural activity, communication, and organismâ€“environment interaction. These approaches capture important aspects of how living systems organise themselves relative to their surroundings, but they also leave unresolved questions about the relationship between signs, meaning, and life itself.
+This extension presents an important explanatory problem. If semiosis is restricted to language, symbolic thought, or conscious interpretation, potentially important sign relations in non-human and non-cognitive biological systems may be excluded in advance. If semiosis is broadened until every biological response, signal, or causal correlation counts as semiotic, however, the concept risks losing explanatory discrimination.
 
-If semiosis is understood too narrowly, it becomes restricted to language, symbolic representation, cognition, or conscious interpretation. If it is understood too broadly, all causal interaction risks being treated as meaningful, weakening explanatory precision and obscuring what is distinctive about living systems.
+APS approaches this problem by first distinguishing **biological significance from semiosis**.
 
-APS approaches semiosis from the perspective of biological organisation.
+Biological agency is viability-oriented organisational activity. Because conditions differ in how they bear upon continued functioning, living systems modulate activity differently in relation to them. **Biological Evaluation is the process through which agency generates significance.** A difference can therefore matter biologically without the additional claim that it functions as a sign.
 
-Semiosis is not fundamentally the manipulation of symbols, nor is it reducible to information processing considered independently of living organisation. Rather, it concerns the way differences come to matter within the viability-oriented activity of living systems.
+Semiosis becomes a further explanatory question. APS uses the concept where a biologically significant difference appears to function within living organisation **in relation to another condition, object, possibility, or state of affairs**. The semiotic claim is therefore stronger than the claim that a system is causally sensitive to a difference or that the difference carries information.
 
-In APS:
+This distinction also prevents semiosis from becoming an automatic bridge to meaning, representation, or cognition. APS does not posit a compulsory sequence in which evaluation produces semiosis, semiosis produces meaning, meaning produces information, information produces representation, and representation produces cognition. These concepts identify distinguishable explanatory relations whose connections must be established in particular cases.
 
-> semiosis is the organisation of differences as biologically meaningful within viability-oriented evaluative activity.
+The central question of this article is consequently:
 
-Living systems do not merely encounter differences. They continuously regulate themselves relative to conditions that affect their capacity to persist. Semiosis emerges wherever such conditions become integrated into continuity-preserving evaluative organisation and acquire significance for ongoing activity.
-
-Contemporary biosemiotic theory increasingly emphasises that living systems are not passive recipients of information but active participants in processes of meaning-making. Recent work has highlighted the central role of sign processes in establishing and maintaining relations of significance between organisms and their environments. APS shares this emphasis while grounding meaning-making within the broader explanatory architecture of viability, evaluation, agency, process, and scale.
-
-From an APS perspective, semiosis is therefore best understood not simply as the interpretation of signs but as the ongoing organisation of organismâ€“environment relations through which living systems maintain and reorganise themselves across changing conditions. Meaning is not added to biological organisation from outside. It emerges from the organisation of persistence itself.
+> **When does a biologically significant difference function as a sign, and what explanatory work is gained by treating the relation as semiotic?**
 
 [[box:aps-box-semiosis-is-operational]]
 
 [[box:aps-box-meaning-develops-from-evaluative-significance]]
 
-## From Evaluation to Semiosis
+## Where This Article Fits
 
-Semiosis depends upon evaluation.
+This Core article occupies a controlled position among the APS treatments of Biological Evaluation, significance, information, cognition, representation, and meaning.
 
-Living systems continuously modulate their activity relative to conditions affecting viability. Some conditions contribute to continuity, stability, adaptive flexibility, and persistence, whereas others undermine organisation, increase vulnerability, or contribute to breakdown. Evaluation operationalises these asymmetries through the differential regulation of activity relative to what supports or threatens ongoing continuity.
+**Biological Evaluation** owns the prior explanatory question of how differences come to matter biologically. Evaluation generates significance because conditions differ in how they bear upon viability. The existence of such significance does not by itself establish semiosis.
 
-Semiosis emerges when differences become organised within that evaluative activity.
+The present article asks the further question of when an already significant difference becomes organised in a specifically **sign-relational** form. Semiosis is therefore not the source of biological significance but a possible organisation of significant relations.
 
-A change in nutrient concentration, a shift in temperature, the presence of a signalling molecule, a developmental cue, or an ecological opportunity does not become significant simply because it exists. It becomes significant because it enters into evaluative organisation and alters how activity is regulated relative to viability.
+*Information in Biology — An APS Clarification* asks a different question again. Informational relations can exist through statistical or causal dependence without automatically becoming either biologically significant or semiotic. Some information-bearing differences may participate in sign relations; others need not.
 
-APS therefore situates semiosis within a broader explanatory sequence:
+*Cognition — Where Does It Belong in Biology?* concerns the organisation of biological significance across time. APS does not currently define cognition through semiosis, although semiotic relations may contribute to cognitive organisation in particular systems.
 
-viability  
-â†“  
-function  
-â†“  
-normativity  
-â†“  
-evaluation  
-â†“  
-semiosis  
-â†“  
-meaning  
-â†“  
-information  
-â†“  
-representation  
-â†“  
-cognition
+*Representation — When and Whether It Arises in Biological Systems* applies a stronger diagnostic test to states or organisations proposed to stand in for, model, or carry content concerning something beyond their immediate occurrence. Semiosis and representation may overlap, but neither concept is reducible to the other.
 
-Within this sequence, viability establishes the conditions for persistence, function concerns contributions to continuity-preserving organisation, normativity establishes asymmetries between persistence-supporting and persistence-undermining conditions, and evaluation regulates activity relative to those asymmetries. Semiosis emerges when differences become incorporated into this evaluative structure and acquire biological significance.
+Finally, *Meaning in Biology — An APS Clarification* establishes that biological significance is not yet meaning. Meaning concerns the later interpretive organisation of what matters and should not be used as a synonym for semiosis.
 
-Semiosis is therefore not an independent symbolic layer imposed upon biology. It emerges from viability-oriented organised persistence and participates directly in the ongoing regulation through which continuity is maintained.
+The resulting architecture is deliberately non-linear:
+
+**Significance ≠ Semiosis ≠ Meaning ≠ Representation.**
+
+These distinctions do not imply complete independence. They prevent one concept from doing the explanatory work of another before their relationship has been established.
+
+## Biological Significance Before Semiotic Commitment
+
+The first control on an APS account of semiosis is that biological significance does not require semiosis.
+
+Living systems encounter innumerable physical differences. Some make no relevant difference to their activity. Others alter conditions bearing upon viability and consequently modulate what the system does. Through Biological Evaluation, such differences acquire significance relative to the organisation of the living system.
+
+A nutrient concentration may affect microbial activity. Temperature may alter physiological regulation. A developmental condition may modify a cellular trajectory. A chemical difference may influence immune activity. These differences can be biologically significant because of their effects on continued functioning.
+
+Nothing in that description yet requires them to be signs.
+
+This distinction matters because otherwise every viability-relevant causal relation becomes semiotic by definition. The term *semiosis* would then add little to Biological Evaluation. It would simply rename the fact that differences matter to living systems.
+
+APS therefore separates two questions:
+
+**Does the difference matter to the living system?**
+
+and:
+
+**Does the difference function for that system in relation to something beyond itself?**
+
+The first concerns biological significance. The second introduces the semiotic question.
+
+This makes semiosis a substantive explanatory hypothesis rather than an automatic property of life.
+
+[[box:aps-box-viability-grounds-evaluation]]
 
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/philosophy-endogenous-normativity.png"
@@ -215,386 +207,315 @@ Semiosis is therefore not an independent symbolic layer imposed upon biology. It
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Evaluation and Semiosis Within Organised Persistence.</strong>
-    Semiosis emerges through viability-oriented evaluative organisation in which differences become biologically meaningful relative to continuity-preserving persistence.
+    <strong>Biological Significance Before Semiotic Commitment.</strong>
+    Biological Evaluation generates significance because conditions differ in how they bear upon viability. Semiosis becomes a further explanatory hypothesis where a significant difference functions as a sign in relation to something beyond its immediate occurrence.
   </p>
+
 </div>
 
-## Semiosis as Biological Meaning-Making
+## What Makes a Relation Semiotic?
 
-Recent developments in biosemiotics increasingly characterise living systems as meaning-making systems. This does not imply that organisms consciously interpret signs or engage in symbolic reasoning. Rather, it reflects the observation that living systems continuously establish, maintain, and transform relations of significance with their environments.
+A sign is not merely a difference that causes another difference.
 
-APS interprets this meaning-making activity through the lens of organised persistence.
+Physical systems are filled with causal relations. Temperature alters pressure; light triggers chemical reactions; one molecular state changes another. Such relations can carry information in a statistical or causal sense without necessarily being semiotic.
 
-Differences are not inherently meaningful. A nutrient gradient, a chemical signal, a temperature fluctuation, or a change in ecological conditions possesses no intrinsic significance independent of a living system. Such conditions become significant through their relationship to viability-oriented organisation. Meaning emerges when they influence how activity is regulated relative to persistence.
+The semiotic question arises when a state or difference functions within an organised system **in relation to something other than itself**.
 
-Semiosis therefore does not involve the discovery of pre-existing meanings embedded within the environment. Instead, it involves the ongoing organisation of relations of significance between living systems and the conditions within which they persist.
+Consider a biological signal. Its immediate physical effect may be fully describable through molecular interaction. Yet the same state may also function within the organism because its occurrence indicates another condition, initiates activity appropriate to that condition, or participates in an organised relation whose biological role depends upon what the signal signifies rather than solely upon its local physical properties.
 
-This perspective connects naturally with the biosemiotic tradition associated with Jakob von UexkÃ¼ll's concept of Umwelt. Organisms do not inhabit a world of neutral physical differences. They inhabit worlds structured by what matters for their continued existence. APS extends this insight by grounding such significance within evaluative organisation and viability-oriented persistence.
+The distinction is subtle but important. A semiotic explanation proposes more than causal efficacy. It proposes a relation among a sign-bearing state, what that state functions in relation to, and the organisation through which that relation affects activity.
 
-Meaning-making is therefore not a secondary consequence of life. It is one of the ways organised persistence becomes operational. Through semiosis, conditions acquire significance for the regulation of activity, the maintenance of continuity, the coordination of behaviour, the modulation of development, and the adaptive reorganisation of living systems.
+APS does not require this relation to be symbolic, linguistic, conscious, or representational in the stronger cognitive sense. A sign relation may be materially implemented in physiological, developmental, behavioural, or other biological organisation.
 
-Organised persistence therefore provides the biological context within which meaning-making becomes possible. At the same time, meaning-making contributes to the maintenance and reorganisation of persistence itself. Living systems endure because relations of significance influence activity, and those relations acquire significance because living systems are already engaged in viability-oriented self-maintenance. The relationship is reciprocal rather than sequential.
+Neither should the semiotic relation be inferred merely from scientific description. Scientists routinely use one measurable state as an indicator of another. The fact that *we* treat a molecular concentration as a sign of disease, for example, does not establish that the concentration functions semiotically within the organism itself.
 
-APS consequently understands semiosis as an ongoing process of biological meaning-making through which organismâ€“environment relations are organised, stabilised, modified, and reconstructed in ways that contribute to viable continuity across time.
+The explanatory task is therefore to identify the sign relation **within the organisation of the biological system**.
 
-## Semiosis and Organised Persistence
+## A Diagnostic Test for Semiotic Explanation
 
-Because living systems persist through ongoing self-maintaining activity, semiosis is inseparable from organised persistence across time.
+APS does not presently propose universal necessary and sufficient conditions for semiosis. Different semiotic theories disagree about the structure and scope of sign relations, and biological cases may realise them in different ways.
 
-Living systems do not merely undergo physical change. They continuously regulate, coordinate, and reorganise activity in ways that contribute to the maintenance of viable organisation. Semiosis participates directly in this process by allowing differences to become organisationally consequential within ongoing activity.
+APS can nevertheless identify diagnostic considerations that make a semiotic interpretation stronger or weaker.
 
-From an APS perspective, semiosis emerges from organised persistence because only systems already engaged in viability-oriented self-maintenance possess a basis upon which significance can arise. At the same time, semiosis contributes to organised persistence by enabling activity to be modulated relative to conditions that support or threaten continuity. The relationship is therefore reciprocal rather than one-directional.
+A semiotic explanation becomes more strongly warranted where:
 
-A nutrient gradient, temperature fluctuation, developmental signal, ecological cue, or behavioural opportunity matters because it changes how activity is organised relative to persistence. Semiosis is the process through which such conditions become incorporated into continuity-preserving regulation.
+1. **A materially identifiable sign-vehicle or sign-bearing state can be specified.**  
+   The proposed sign must be realised within the biological system rather than existing only in the description supplied by an observer.
 
-This relationship is fundamentally relational. Significance is neither a property of environments alone nor a purely internal construction. It emerges through the interaction between living systems and the conditions within which they persist. A chemical gradient that is significant for one organism may be irrelevant for another. A developmental cue may matter at one stage of a life cycle and be inconsequential at another. What matters depends upon the organisation of the system itself.
+2. **The sign functions in relation to something beyond itself.**  
+   Its biological role depends upon another condition, object, relation, possibility, or state of affairs rather than being exhausted by its immediate physical effects.
 
-Semiosis therefore organises organismâ€“environment relations rather than merely registering environmental states. Living systems actively establish domains of significance through their viability-oriented activity, and semiosis continuously maintains and modifies those domains as circumstances change.
+3. **The system's activity depends upon that sign relation.**  
+   The proposed sign must make a difference to biological organisation because of the relation in which it participates, not merely because it is causally active.
 
-This is why semiosis cannot be reduced to signal transmission alone. Signals become biologically significant only when they participate in the organisation of persistence. A difference that produces no evaluative consequences remains merely a physical difference. A difference that contributes to the regulation of activity becomes part of a semiotic process.
+4. **The relation is not exhausted by simple causal covariance or information-bearing correlation.**  
+   Treating the state as a sign should explain something that would otherwise remain unexplained by a weaker causal or informational description.
 
-Through semiosis, living systems coordinate continuity-sensitive organisation, adapt to perturbations, regulate development, organise ecological interactions, and reconstruct activity in ways that preserve viable continuity. Semiosis transforms physical differences into relations of significance that guide the ongoing organisation of life across time.
+5. **Context can alter the significance or use of the sign relation.**  
+   A state may function differently according to the organisation, history, developmental condition, or current circumstances of the system, supporting the claim that its role is relational rather than fixed solely by physical form.
 
-## Semiosis Without Representation
+6. **Successful and failed sign-use can in principle be distinguished.**  
+   Where a proposed sign relation can be used appropriately or inappropriately, or can fail to guide activity in relation to what it signifies, the semiotic interpretation gains additional explanatory content.
 
-APS does not require symbolic representation for semiosis to occur.
+7. **Semiotic description provides explanatory gain.**  
+   The attribution should identify a dependency relevant to the specified explanandum that is not already adequately captured by biological significance, causal regulation, signal transmission, or information alone.
 
-Many discussions of semiosis assume that meaning depends upon internal representations, symbolic encodings, mental models, or informational structures that stand in for aspects of the world. Such approaches have often proved valuable in the study of language, cognition, and communication, but they become problematic when treated as the foundation of biological meaning itself.
+These considerations are diagnostic rather than a scoring system. No single item automatically establishes semiosis, and APS does not presently claim that every genuine sign relation must realise each consideration in precisely the same form.
 
-Semiosis begins earlier.
+Their purpose is methodological: to prevent semiotic terminology from replacing explanation.
 
-A bacterium moving along a nutrient gradient need not construct symbolic representations of its surroundings. A plant responding to changing light conditions need not possess internal world models. A developing embryo need not interpret developmental signals through linguistic or symbolic mechanisms.
+A semiotic claim should therefore identify **what functions as the sign, what it functions in relation to, how that relation is materially implemented, what difference it makes, and why describing the relation as semiotic improves the explanation**.
 
-What matters biologically is that differences become operationally integrated into viability-oriented activity.
+## Semiosis and Biological Significance
 
-Living systems regulate themselves relative to conditions that affect persistence. Semiosis emerges when those conditions acquire significance within evaluative organisation. The meaningfulness of a difference therefore derives from its role within organised persistence rather than from its representation in an abstract symbolic system.
+Semiosis depends upon biological significance in a limited explanatory sense: a proposed biological sign relation must matter to the organisation of the living system if it is to count as biological semiosis.
 
-Meaning in APS is operational rather than merely descriptive, evaluative rather than neutral, embodied rather than detached, and organisational rather than fundamentally symbolic.
+This does not mean that significance is generated by semiosis.
 
-This does not imply that representation never occurs. More sophisticated forms of semiosis may eventually support representational capacities, particularly within advanced cognitive systems. APS instead argues that representation is a derived achievement rather than an explanatory starting point.
+A difference becomes significant through Biological Evaluation because it bears upon viability-oriented activity. A semiotic relation becomes possible when such a difference acquires a further relational role—for example, when its occurrence functions in relation to another condition and modulates activity accordingly.
 
-The explanatory order therefore runs from viability and evaluation toward meaning and representation, not the reverse.
+This provides a way of understanding why the same physical difference can matter differently in different biological contexts. A chemical state may function as a sign in one organism or developmental condition while having no comparable role in another. Even within the same organism, the significance and use of a signal can change with physiological condition, developmental history, environmental context, or prior activity.
 
-Semiosis is possible because differences matter for persistence. Representation, where it emerges, is one possible development within a much broader semiotic landscape.
+Significance is therefore relationally real without being intrinsic to the physical difference considered in isolation.
 
-APS therefore distinguishes semiosis from generic signal processing. Artificial systems may classify inputs, manipulate symbols, process signals, or optimise outputs without those activities participating in viability-oriented organised persistence. In living systems, by contrast, semiosis matters because relations of significance become integrated into the organisation through which the system maintains itself.
+Semiosis adds a further relation: the significant difference functions **as a sign of, for, or in relation to something else** within the organisation of the system.
 
-[[box:aps-box-viability-grounds-evaluation]]
-
-## Semiosis and Meaning
-
-APS grounds meaning in evaluative significance.
-
-Differences become meaningful because they influence how viability-oriented activity is organised. Meaning is therefore neither imposed externally nor generated solely through symbolic interpretation. It emerges through the way living systems regulate themselves relative to conditions affecting persistence.
-
-Meaning can consequently be understood as stabilised evaluative significance within organised persistence.
-
-This formulation captures an important feature of biological organisation. Living systems do not merely react to differences. They develop enduring patterns through which particular conditions repeatedly acquire significance for activity. Over time, these patterns become stabilised within behaviour, physiology, development, ecological interaction, and evolutionary history.
-
-Meaning therefore reflects the organisation of significance rather than the existence of signs alone.
-
-A signal becomes meaningful when it participates in viability-oriented regulation. A developmental cue becomes meaningful when it influences developmental coordination. A behavioural stimulus becomes meaningful when it contributes to adaptive organisation. In each case, meaning emerges through the role a condition plays within organised persistence.
-
-Meaningful conditions also contribute directly to function. Functions are not merely structures or activities; they are contributions to continuity-preserving organisation. Semiosis becomes operational through function because relations of significance influence how living systems maintain, repair, and reorganise themselves across changing circumstances. Function therefore represents one of the principal ways semiosis participates in viable continuity.
-
-This perspective helps naturalise meaning without reducing it either to physical causation or to symbolic representation. Physical causation alone does not explain why some conditions matter and others do not. Symbolic theories often explain meaning only by presupposing systems that are already meaningful. APS instead locates meaning within evaluative organisation itself.
-
-Meaning remains continuous with function, normativity, evaluation, semiosis, adaptation, and biological agency. Rather than standing outside biological organisation, it emerges from the organisation of persistence and contributes to its ongoing regulation.
-
-[[box:aps-box-meaning-develops-from-evaluative-significance]]
+This is why APS should not say that semiosis transforms meaningless physical differences into biological significance. Biological Evaluation already explains the emergence of significance. Semiosis asks what happens when significant differences acquire sign-relational organisation.
 
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/philosophy-semiosis.png"
-      alt="Semiosis and evaluative meaning in APS"
+      alt="Semiosis and biological significance in APS"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Semiosis and Evaluative Meaning.</strong>
-    Differences become meaningful because they matter differently within viability-oriented evaluative organisation sustaining continuity-preserving persistence.
+    <strong>Biological Significance and Semiosis.</strong>
+    Biological Evaluation generates significance. Semiosis becomes a further explanatory possibility where a significant difference functions as a sign in relation to another condition, object, possibility, or state of affairs within living organisation.
   </p>
+
 </div>
+
+## Semiosis Is Not Meaning
+
+The distinction between semiosis and meaning is especially important because the two concepts are frequently associated within semiotic and biosemiotic traditions.
+
+APS does not deny that sign relations can participate in meaning. It rejects the stronger inference that every biological sign relation is already meaningful in the richer sense developed within the APS cognition–mind architecture.
+
+Biological significance identifies what matters to a living system because conditions differ in how they bear upon viability. Semiosis concerns sign-relational organisation of such differences. Meaning concerns the interpretive organisation of what matters.
+
+These explanatory relations may become increasingly integrated within cognitive systems, minds, language, culture, and reflective agency. Their possible integration does not justify identifying them at their biological origin.
+
+A signal can therefore participate in a semiotic relation without APS having to say that the organism possesses meaning in the same sense in which meaning is attributed to interpretive cognitive organisation. Conversely, meaningful activity may involve many semiotic and representational relations without meaning being reducible to the presence of signs.
+
+The distinction also protects biosemiotic language from anthropomorphic overextension. Terms such as *interpretation* and *meaning-making* have legitimate theoretical histories, but when applied to minimal biological systems they can suggest cognitive or experiential capacities that the evidence does not establish.
+
+APS therefore uses them cautiously.
+
+Where biosemiotic theories describe living systems as meaning-making systems, APS can recognise the theoretical importance of that claim while distinguishing it from its own narrower account. Within APS, **biological significance is not yet meaning, and semiosis is not by definition meaning-making**.
+
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
 
 ## Semiosis and Information
 
-APS rejects the view that information is explanatorily primary.
+Information and semiosis should likewise remain distinct.
 
-Many contemporary accounts treat information as the fundamental concept from which meaning, representation, and cognition are subsequently derived. In such frameworks, biological organisation is often interpreted as a specialised form of information processing.
+A relation can carry information without functioning as a sign for the biological system. Statistical dependence, causal covariance, sequence structure, and signal transmission can all support legitimate informational descriptions without requiring semiotic interpretation.
 
-APS reverses this explanatory order.
+Conversely, some information-bearing relations may participate in semiosis. A signal may reliably covary with another condition and, within the organisation of the living system, function in relation to that condition. In such cases informational and semiotic descriptions can concern different aspects of the same materially realised relation.
 
-Information does not generate semiosis. Semiosis grounds biological information.
+The important point is that neither concept should be made universally prior to the other.
 
-Differences become informative only because they are already significant within viability-oriented evaluative organisation. Information therefore depends upon semiosis rather than preceding it.
+APS therefore does not claim that information generates semiosis, nor that semiosis universally grounds information. Instead it asks what kind of relation is being described.
 
-The explanatory sequence remains:
+If the explanandum concerns statistical dependence, coding structure, transmission, or uncertainty reduction, an informational explanation may be appropriate without semiotic commitment. If the explanandum concerns how one significant state functions for the system in relation to another condition, a semiotic explanation may add something further.
 
-viability  
-â†“  
-evaluation  
-â†“  
-semiosis  
-â†“  
-meaning  
-â†“  
-information
+This distinction also prevents the familiar language of *signals*, *codes*, and *messages* from settling the issue prematurely. These terms can be scientifically useful without implying that every information-bearing process constitutes semiosis.
 
-This sequence is important because it prevents biological meaning from collapsing into abstract syntax, computational formalism, or detached signal manipulation.
+The relation between information and semiosis must therefore be established in the case being investigated rather than derived from a universal conceptual sequence.
 
-A pattern may contain information in a statistical sense without possessing biological significance. For living systems, however, information becomes relevant only when differences participate in the organisation of persistence. Information acquires explanatory importance because it enters into semiotic processes through which activity is regulated relative to viability.
+## Semiosis and Representation
 
-From this perspective, biological information is not an independent substance, code, or causal force. It is a description of significant differences that have already become integrated into evaluative organisation.
+Semiosis and representation can overlap, but they should not be equated.
 
-This position aligns with a growing body of work in theoretical biology and biosemiotics that questions purely informational accounts of life. Meaningful organisation cannot be derived from information alone because information presupposes distinctions that already matter to a living system. Semiosis provides the bridge between physical difference and biological significance.
+A semiotic relation requires some state or difference to function in relation to something beyond itself. A representational claim is typically stronger: it proposes that some materially realised state or organisation stands in for, models, or carries content concerning something in a way that contributes distinctively to cognition or behaviour.
 
-APS therefore understands information as emerging from organised meaning rather than generating it. Information is important because living systems are semiotic; living systems are not semiotic because they process information.
+Some sign relations may therefore be representational. Others may operate through more immediate biological signalling or relational organisation without satisfying the stronger diagnostics for representation.
 
-APS extends this discussion through its comparative methodology. Contemporary theoretical frameworks, including the Free Energy Principle and many information-theoretic approaches, recognise the importance of informational organisation in living systems. APS does not reject these contributions. Instead, it asks how information first becomes biologically significant. The comparative discussion developed in *APS and Contemporary Explanatory Approaches* and *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology* argues that informational organisation presupposes the more fundamental semiotic and evaluative organisation established here.
+The reverse inference should also be avoided. APS does not currently require all possible representation to be derived from a prior semiotic stage.
 
-Semiosis consequently occupies a foundational position within biological explanation. It explains how differences become significant, how significance becomes stabilised as meaning, and only thereafter how those meaningful distinctions may function as information within living organisation.
+The dedicated article *Representation — When and Whether It Arises in Biological Systems* asks when content-bearing or stand-in relations add explanatory work beyond biological significance, information, memory, anticipation, or cognition alone. The present article asks the narrower question of when a significant difference functions sign-relationally.
 
-The possibility of increasingly sophisticated informational organisation therefore emerges from semiosis itself, preparing the ground for the more temporally extended forms of organisation associated with cognition.
+The distinction can be summarised as follows:
 
-Semiosis and cognition are closely related, but they are not identical.
+**Significance asks what matters.**
 
-Semiosis concerns the organisation of significance within viability-oriented evaluative activity. Cognition emerges when such semiotic organisation becomes sufficiently integrated, temporally extended, and flexible that present activity is regulated not only relative to immediate conditions but also relative to absent, anticipated, or hypothetical circumstances.
+**Semiosis asks whether something significant functions as a sign in relation to something else.**
 
-This distinction is important because it grounds cognition within biology without collapsing all life into cognition itself.
+**Representation asks whether some state or organisation functions as a content-bearing stand-in or model in a way that adds explanatory work.**
 
-Every living system participates in semiosis. Living systems continuously organise relations of significance with their environments through viability-oriented evaluation. Not every living system, however, exhibits cognition in the stronger sense associated with memory, anticipation, learning, planning, or flexible behavioural organisation.
+These formulations distinguish the questions without predetermining how their answers will relate in every biological system.
 
-Cognition therefore represents a specialised development of more fundamental semiotic capacities.
+## Semiosis and Cognition
 
-APS understands cognition as emerging when semiosis becomes organised across extended temporal horizons. Conditions no longer matter solely because of their immediate effects on persistence. They begin to matter because of their relationship to future possibilities, delayed consequences, remembered circumstances, and alternative courses of action.
+APS does not define cognition through semiosis.
 
-A bacterium following a nutrient gradient exhibits semiosis because environmental conditions acquire significance for viability-oriented activity. More complex organisms may additionally organise activity relative to remembered experiences, anticipated outcomes, or expected environmental states. Such capacities extend semiosis into increasingly sophisticated forms of cognition.
+Cognition is **the organisation of biological significance across time**. More diagnostically:
 
-APS understands cognition as emerging when semiosis becomes organised across increasingly extended temporal horizons. As living systems become capable of regulating activity relative not only to present conditions but also to anticipated future states, remembered circumstances, and alternative possibilities, semiosis develops into progressively more sophisticated forms of cognition. Cognition can therefore be understood as a temporally extended elaboration of more fundamental semiotic organisation.
+> Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-Cognition remains continuous with semiosis because both concern the organisation of significance within living systems. The distinction lies not in the presence or absence of meaning but in the temporal scope and organisational complexity through which significance influences activity.
+Semiotic relations may participate in this organisation. A cognitive system may use signs concerning remembered conditions, anticipated possibilities, social relations, environmental opportunities, or other states that are not reducible to immediate causal stimulation.
 
-APS therefore maintains:
+It does not follow that cognition must always be semiotic.
 
-> all cognition presupposes semiosis, but not all semiosis constitutes cognition.
+A system might organise biological significance across time through learned dispositions, dynamically integrated sensorimotor relations, or other forms of cognitive organisation without the available evidence warranting a distinct sign-relational description.
 
-This formulation preserves continuity across living systems while avoiding both anthropocentric accounts of cognition and attempts to identify all biological organisation with cognition itself.
+Nor does semiosis automatically establish cognition. A biological sign relation may contribute to regulation without exhibiting the temporal integration, counterfactual depth, or flexibility required by the APS cognition boundary.
+
+The relationship must therefore be investigated rather than stipulated.
+
+Where semiotic organisation contributes to cognition, the relevant question is what the sign relation adds to the system's organisation of significance across time. Where cognition can be explained adequately without semiotic commitment, APS should not introduce semiosis merely to complete a conceptual sequence.
 
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/cognition-visual.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/cognition-visual.png"
-      alt="Continuity from semiosis to cognition within viability-oriented organisation"
+      alt="Semiosis and cognition within APS"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Semiosis and Cognition Continuity.</strong>
-    Cognition emerges through increasingly temporally extended forms of evaluative semiosis integrated into viability-oriented organised persistence.
+    <strong>Semiosis and Cognition.</strong>
+    Cognition concerns the organisation of biological significance across time. Semiotic relations may contribute to that organisation, but APS does not make semiosis either sufficient or universally necessary for cognition.
   </p>
+
 </div>
 
 ## Semiosis and Biological Agency
 
-Semiosis remains inseparable from biological agency.
+Biological agency provides the organisational context within which biological semiosis can be investigated.
 
-Agency concerns the viability-oriented activity through which living systems sustain, regulate, and re-create the conditions of their own persistence. Semiosis contributes to this activity by organising significance relative to those conditions.
+APS defines biological agency as **viability-oriented organisational activity**. Agency does not require semiosis by definition. Living systems can regulate activity relative to viability because Biological Evaluation generates significance without every such relation having to function semiotically.
 
-Living systems do not merely undergo causal interactions. They actively regulate themselves in relation to what matters for continuity. Semiosis provides the organisational means through which conditions become relevant to that regulation.
+Where semiosis is present, however, sign relations can contribute to agency by allowing one biologically significant condition to organise activity in relation to another.
 
-Agency therefore supplies the active context within which semiosis operates.
+The distinction is important. Agency does not explain why living systems “care” in a psychological sense. Viability-oriented organisation establishes asymmetries among conditions according to their consequences for continued functioning. Biological Evaluation makes those asymmetries operational through differential activity.
 
-Without agency there may be causal interaction, signal transmission, or physical responsiveness, but there is no basis for significance to arise. Meaning emerges because living systems are already engaged in viability-oriented activity directed toward the maintenance of organised persistence.
+Semiosis becomes relevant when some significant difference participates in agency not merely through its immediate causal effect but because it functions in relation to something else.
 
-Semiosis consequently does not stand apart from agency. It is one of the principal ways agency becomes operationally organised.
+Agency and semiosis are therefore neither independent layers nor interchangeable descriptions. Agency identifies the viability-oriented organisational activity of living systems. Semiosis identifies a particular relational form that may occur within that activity.
 
-Through semiosis, living systems coordinate behaviour, regulate physiology, organise development, navigate ecological interactions, and adapt to changing circumstances. In each case, significance influences activity because activity is already organised around persistence.
+## Semiosis, Process, and Temporal Organisation
 
-Agency explains why living systems care, in a biological sense, about particular conditions. Semiosis explains how those conditions become organised within ongoing activity.
+Semiosis, where present, is dynamically realised.
 
-The two concepts therefore illuminate complementary aspects of the same organisational reality.
+A sign relation need not remain fixed through time. Its role can depend upon physiological condition, developmental history, learning, environmental context, or changing relations between the organism and its surroundings. A state that functions as a sign under one condition may cease to do so under another.
 
-Agency concerns the activity of persistence.
+APS uses **Process** to ask how continuity is maintained despite change. Applied to semiosis, this directs attention to how sign relations are established, maintained, altered, and sometimes lost as living organisation changes through time.
 
-Semiosis concerns the organisation of significance within that activity.
+This temporal perspective is particularly useful because it prevents signs from being treated as static pairings between fixed physical states. The same sign-vehicle can participate in different relations according to context, while different sign-vehicles can sometimes support similar functional relations.
 
-## Semiosis and Process
+Development provides clear cases in which the role of a signal depends upon temporal and organisational context. A molecular state may have different consequences at different developmental stages because the organisation interpreting or responding to it has changed. Learning can likewise alter how a cue functions within behaviour. Physiological state can modify whether an environmental difference has any relevant sign role at all.
 
-APS approaches semiosis as a process rather than a static property.
+These examples do not establish semiosis simply because context sensitivity exists. They show why a semiotic hypothesis, once proposed, must be investigated as a temporally organised dependency rather than as an isolated sign event.
 
-Traditional discussions sometimes describe semiosis as though it were a relation that simply exists between a sign and its interpretation. Such descriptions can be useful, but they risk obscuring the fundamentally dynamic character of living organisation.
+Process therefore does not constitute a separate “dimension” containing semiosis. It provides an analytic projection through which APS asks **how any proposed semiotic organisation is maintained and transformed through time**.
 
-Living systems are not static entities.
+## Where Semiotic Dependencies Are Organised
 
-They are ongoing processes of organised persistence.
+Semiotic claims can also involve dependencies realised across different spatial and temporal extents.
 
-Semiosis participates in this processual organisation because significance does not remain fixed. It emerges, stabilises, transforms, and disappears as living systems interact with changing conditions across time.
+APS uses **Scale** to ask where relevant organisation is materially implemented across those extents. It does not assume a hierarchy of semiotic levels or that semiosis is automatically distributed from molecules through cells, organisms, ecosystems, and evolutionary lineages.
 
-A nutrient gradient may matter under one set of circumstances and be irrelevant under another. Developmental signals acquire significance at particular stages of development. Ecological relationships shift as environments change. Behavioural cues may alter their significance through learning or adaptation.
+A candidate sign relation may be realised within cellular signalling, physiological coordination, developmental organisation, behaviour, communication, or organism–environment interaction. Which spatial extent matters depends upon the explanandum and the evidence supporting the proposed sign relation.
 
-Semiosis therefore unfolds through time.
+The same control applies to broader ecological relations. An environmental condition can function as a sign for an organism without the ecosystem itself thereby becoming a semiotic agent. Predator cues, resource distributions, signals from conspecifics, or environmental changes may acquire semiotic roles within organismal activity while remaining ordinary causal conditions in other explanatory contexts.
 
-Meaning is not merely possessed by living systems. It is continuously generated, maintained, modified, and reorganised through ongoing activity.
+Evolutionary history can help explain why particular sign relations exist or why organisms are sensitive to particular cues. That historical contribution does not make an evolutionary lineage a sign-interpreting agent, nor does it establish an independent evolutionary “scale” of semiosis.
 
-This temporal dimension is essential.
+Cross-extent influence must therefore be materially implemented. Wider spatial or temporal relations matter where constraints or interactions alter the local conditions through which the sign relation functions.
 
-A condition matters because of its relationship to continuity. Continuity itself exists only across time. Semiosis therefore depends upon temporally organised persistence and cannot be adequately understood through isolated sign events considered independently of developmental, physiological, ecological, or evolutionary processes.
+Scale-sensitive analysis asks **where the relevant semiotic dependency is organised**, not how signs ascend or descend through biological levels.
 
-From an APS perspective, semiosis is not a collection of disconnected episodes of interpretation.
+## Semiosis and Organised Persistence
 
-It is an ongoing process through which relations of significance are continuously reconstructed within living organisation.
+Semiosis can contribute to organised persistence without being either constitutive of all persistence or generated automatically by persistence itself.
 
-This process orientation helps explain why semiosis remains connected to adaptation, learning, development, ecological interaction, and evolutionary transformation. In each case, significance is not merely present but actively reorganised through changing circumstances.
+Living systems persist through viability-oriented, constraint-closed organisation. Some of the dependencies contributing to that continuity may be semiotic. A cue may initiate activity appropriate to an impending condition; a developmental signal may coordinate a transition; a behavioural sign may alter action in relation to another organism; a physiological signal may organise activity in relation to conditions not locally present at the site of response.
 
-Semiosis therefore belongs naturally within the APS Process dimension.
+Where such relations make a material difference to continued functioning, semiosis can contribute to organised persistence.
 
-Meaning unfolds.
+This does not establish the converse claim that organised persistence universally depends upon semiosis. Many dependencies relevant to persistence may be adequately explained mechanistically, physiologically, developmentally, or otherwise without sign-relational description.
 
-Significance develops.
+Nor should persistence itself be used as the criterion of semiosis. A causal relation can contribute to persistence without functioning as a sign.
 
-Organisation changes.
+The explanatory relation is therefore conditional:
 
-Persistence is maintained through the continuous reconstruction of relations that matter for viable continuity.
+> **Where a materially implemented sign relation contributes to maintaining or re-establishing conditions of continued functioning, semiosis can form part of an explanation of organised persistence.**
 
-Processes, however, never unfold in isolation. They are distributed across interacting organisational scales. Understanding semiosis as a process therefore naturally leads to the question of how significance is coordinated across the multiple scales through which living systems persist.
+That is an empirical dependency claim, not an architectural necessity.
 
-## Semiosis Across Scale
+## Semiotic Failure and Misinterpretation
 
-Semiosis operates across interacting biological scales.
+Failure provides another useful diagnostic for semiotic explanation.
 
-Relations of significance are not confined to behaviour, cognition, communication, or language. They participate throughout living organisation, from cellular activity to ecological interaction and evolutionary transformation.
+A causal process can fail because a mechanism is damaged or because conditions fall outside its operating range. Semiotic failure raises the further possibility that a sign relation can guide activity inappropriately with respect to what the sign functions in relation to.
 
-At molecular and cellular scales, semiosis contributes to the regulation of signalling pathways, metabolic coordination, and cellular responsiveness. Conditions become significant because they influence viability-oriented activity.
+For example, a cue that normally indicates one condition may occur when that condition is absent. A biological system may then respond as though the indicated condition were present. If the relation can be specified independently of the immediate physical effect of the cue, such cases strengthen the interpretation that the cue functions as a sign.
 
-At physiological scales, semiosis participates in the coordination of internal processes that maintain continuity under changing circumstances. Hormonal signals, immune responses, and regulatory interactions acquire significance through their contribution to organised persistence.
+This resembles the role of misrepresentation in diagnosing representational organisation, but the concepts should not be identified. A semiotic relation need not satisfy every stronger criterion associated with representation.
 
-At developmental scales, relations of significance influence how organisms grow, stabilise, and reorganise themselves across time. Developmental signals matter because they participate in the maintenance and transformation of viable organisation throughout ontogeny.
+The important point is that semiotic explanation becomes more substantive when the system's use of a sign can succeed or fail **as a sign relation**, rather than only as a causal mechanism.
 
-At behavioural scales, semiosis contributes to navigation, foraging, communication, social interaction, and adaptive response. Organisms continuously organise activity relative to conditions that influence persistence.
-
-At ecological scales, semiosis participates in the organisation of organismâ€“environment relations. Predators, prey, competitors, mutualists, resources, and environmental conditions acquire significance through their effects on continuity and viability.
-
-At evolutionary scales, semiosis contributes to the historical transformation of significance across generations. Evolution alters the ways organisms organise responsiveness to their environments, generating new patterns of adaptation, coordination, and ecological interaction.
-
-These are not independent levels of semiosis.
-
-APS rejects hierarchical conceptions that treat scales as isolated layers stacked upon one another. Instead, semiosis is distributed across interacting organisational scales linked through continuity-preserving activity.
-
-Significance organised at one scale may influence organisation at another. Developmental processes shape behavioural possibilities. Behavioural organisation alters ecological relations. Ecological interactions influence evolutionary trajectories. Evolutionary history constrains developmental and physiological organisation.
-
-Semiosis therefore exhibits the same multiscale architecture that characterises biological organisation more generally.
-
-This constitutes one of the distinctive contributions of APS to discussions of semiosis.
-
-Many treatments of biosemiotics focus primarily on organisms, behaviour, communication, or cognition. APS extends the discussion by situating semiosis within a broader multiscale framework linking molecular, developmental, physiological, behavioural, ecological, and evolutionary organisation.
-
-Relations of significance are therefore not localised phenomena occurring at a single privileged scale. They are distributed features of viability-oriented organised persistence unfolding across interconnected biological processes.
-
-Semiosis consequently reveals not only how differences come to matter, but also how significance is coordinated across the multiple scales through which living systems maintain continuity across time.
+Again, this is a diagnostic consideration rather than an absolute criterion. Some biological sign relations may not admit a simple error condition. The possibility of semiotic failure nevertheless helps distinguish sign use from mere covariance.
 
 ## Semiosis and Artificial Systems
 
-Artificial systems may classify signals, manipulate symbols, optimise outputs, perform predictive modelling, and generate increasingly sophisticated forms of behavioural responsiveness. APS does not deny the importance or complexity of these capacities. Indeed, many artificial systems exhibit remarkable abilities to process information, identify patterns, and coordinate activity across diverse environments.
+Artificial systems sharpen the distinction between signal processing and biological semiosis.
 
-The existence of such capacities nevertheless raises an important question:
+Machines can detect differences, transmit signals, classify inputs, manipulate symbols, maintain internal states, and in some cases plausibly satisfy representational criteria. None of these capacities by itself establishes biological semiosis.
 
-Does signal processing alone constitute semiosis?
+The relevant APS question is narrower: does the proposed sign relation participate in viability-oriented living organisation?
 
-APS argues that it does not.
+For existing biological systems, semiosis is investigated within biological agency and Biological Evaluation. For artificial systems, different organisational conditions may apply. APS should therefore not infer artificial semiosis merely from signal processing, nor rule it out solely because a system is artificial.
 
-The central issue is not whether a system processes differences but whether those differences participate in viability-oriented organised persistence. Semiosis concerns the organisation of significance within the activity through which living systems maintain and reconstruct themselves. The significance of a condition therefore depends upon its role within the system's own continuity.
+The possibility of artificial semiosis can remain an open question requiring its own criteria and evidence.
 
-Most artificial systems operate under externally maintained organisational conditions. Their goals, operational parameters, energy sources, maintenance regimes, and evaluative criteria are typically supplied by designers, users, or surrounding infrastructures. While such systems may process signals and modify behaviour, the significance of those signals generally derives from externally imposed purposes rather than from intrinsic viability-oriented organisation.
+For the purposes of this article, the controlling distinction is simply:
 
-This distinction is crucial.
+> **Signal processing, information processing, and representation do not by themselves establish biological semiosis.**
 
-A machine may classify a signal without that signal affecting the machine's own persistence. A living system, by contrast, encounters conditions within the context of maintaining its own continuity. Significance emerges because the system itself is engaged in viability-oriented activity.
+The broader question of artificial systems and biological agency belongs to the dedicated APS treatment of artificial intelligence.
 
-APS therefore distinguishes between signal processing, information processing, representation, and semiosis.
+## Semiosis Within APS Explanatory Methodology
 
-Signal processing concerns the manipulation of differences. Information processing concerns the organisation of informative distinctions. Representation concerns systems that stand in for other conditions or states. Semiosis concerns the organisation of significance within viability-oriented evaluative activity.
+APS does not derive semiosis from a conceptual ladder.
 
-These capacities may overlap, but they are not identical.
+Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed living organisation. They can organise questions about a proposed semiotic dependency without establishing that the dependency exists.
 
-Artificial systems may exhibit signal processing, information processing, and representation without participating in biological semiosis. Whether future artificial systems could develop forms of semiosis comparable to those found in living systems remains an open question. APS maintains only that semiosis cannot be identified with computation alone.
+Agency asks what viability-oriented activity is occurring and what difference the proposed sign relation makes to that activity. Process asks how the relation is maintained, modified, or reconstructed through time. Scale asks where the relevant dependency is materially organised across spatial and temporal extents.
 
-The difference is not primarily one of complexity. It is a difference in organisational context.
+Biological Evaluation provides the prior account of significance. Semiosis then becomes a further hypothesis about how some significant differences function relationally.
 
-Semiosis emerges where distinctions participate in the ongoing maintenance and reorganisation of a system's own persistence. Computation may contribute to such processes, but it is not sufficient to explain them. What distinguishes biological semiosis is that significance arises within the activity through which living systems sustain themselves across time.
+This hypothesis must be specified.
 
-## Semiosis Within the APS Explanatory Grammar
+What is the sign-vehicle? What does it function in relation to? What organisation makes that relation possible? How is the relation materially implemented? What happens when the relation is disrupted? Can successful and failed sign-use be distinguished? Does the semiotic description explain something that causal sensitivity, information-bearing correlation, or viability-relative significance alone does not?
 
-APS situates semiosis within a broader explanatory grammar organised through agency, process, and scale.
+These questions make null results possible.
 
-This represents an important point of departure from many traditional discussions of semiosis. Biosemiotics has demonstrated that sign processes are deeply implicated in living organisation. APS accepts this insight but asks an additional question:
+A proposed semiotic relation may turn out to be adequately explained as causal regulation or information transmission. If sign-relational description adds no explanatory gain, APS should not insist upon semiosis merely because the system is alive.
 
-Where does semiosis belong within biological explanation itself?
+Conversely, where the behaviour of a system depends upon a materially realised relation in which one significant difference functions in relation to another condition, and where that relation cannot be exhausted by a weaker causal description, the semiotic hypothesis gains explanatory support.
 
-Rather than treating semiosis as an autonomous explanatory framework, APS situates it within a broader network of concepts linking viability, function, normativity, evaluation, meaning, information, representation, and cognition.
-
-The resulting explanatory sequence is:
-
-viability  
-â†“  
-function  
-â†“  
-normativity  
-â†“  
-evaluation  
-â†“  
-semiosis  
-â†“  
-meaning  
-â†“  
-information  
-â†“  
-representation  
-â†“  
-cognition
-
-This sequence does not describe a series of independent layers. Each concept develops from and depends upon those preceding it.
-
-Viability establishes the conditions for persistence.
-
-Function concerns contributions to continuity-preserving organisation.
-
-Normativity establishes asymmetries between conditions that support and undermine persistence.
-
-Evaluation regulates activity relative to those asymmetries.
-
-Semiosis organises significance within evaluative activity.
-
-Meaning stabilises that significance within ongoing organisation.
-
-Information describes distinctions that participate in meaningful organisation.
-
-Representation emerges where meaningful relations become sufficiently structured to stand in for absent conditions.
-
-Cognition develops where such organisation becomes increasingly temporally extended and flexible.
-
-Semiosis therefore occupies a pivotal position within biological explanation. It forms a bridge between normativity and cognition, linking the evaluative organisation of persistence to the increasingly sophisticated forms of meaning, information, representation, and anticipation found in living systems.
-
-Without semiosis, differences remain merely physical distinctions. Through semiosis, they acquire biological significance. Once significant, they may function as information, contribute to representation, and support increasingly sophisticated forms of cognition.
-
-APS thus explains not only what semiosis is, but why it matters.
-
-Semiosis is one of the principal organisational processes through which living systems transform physical differences into biologically consequential relations.
-
-The APS triad further clarifies this position.
-
-Within the dimension of agency, semiosis organises significance relative to viability-oriented activity.
-
-Within the dimension of process, semiosis unfolds through time as relations of significance are generated, maintained, transformed, and reconstructed.
-
-Within the dimension of scale, semiosis is distributed across interacting organisational domains ranging from cellular regulation to ecological and evolutionary organisation.
-
-Semiosis therefore belongs intrinsically within biological explanation rather than constituting an independent explanatory layer superimposed upon it.
+Semiosis is therefore neither universalised nor eliminated. It becomes an assessable biological claim.
 
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/philosophy-clarification-map.png"
@@ -604,89 +525,136 @@ Semiosis therefore belongs intrinsically within biological explanation rather th
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>APS Clarification Map.</strong>
-    APS situates semiosis, meaning, information, and cognition within a broader explanatory grammar grounded in viability-oriented organised persistence.
+    <strong>Semiosis Within APS.</strong>
+    APS distinguishes biological significance, semiosis, information, cognition, representation, and meaning. Semiotic explanation is warranted where a materially implemented sign relation adds explanatory work beyond causal sensitivity, information-bearing correlation, or biological significance alone.
   </p>
+
 </div>
 
 ## Why Semiosis Matters
 
-Clarifying semiosis helps resolve several longstanding conceptual difficulties within biology, cognitive science, and philosophy of life.
+Semiosis matters because biological systems contain relations for which purely local causal description may sometimes be insufficient.
 
-Many debates concerning meaning, information, representation, cognition, and communication arise because these concepts are treated as though they were independent explanatory foundations. APS instead shows how they emerge from a common organisational basis rooted in viability-oriented persistence.
+A signal can matter not only because of what it physically does at the site where it occurs but because of what it indicates within the organisation of the system. A cue can organise behaviour in relation to another condition. A developmental state can initiate activity appropriate to a broader developmental context. Organisms can respond to environmental signs whose significance depends upon relations extending beyond the immediate stimulus.
 
-This perspective helps explain why meaning is neither a mysterious property added to living systems nor a purely subjective phenomenon detached from biological organisation. Meaning emerges because living systems continuously regulate themselves relative to conditions that matter for continuity.
+Semiotic concepts offer a vocabulary for investigating such organisation.
 
-It also clarifies why information cannot serve as the ultimate explanatory foundation for biology. Information becomes biologically relevant only when distinctions already possess significance within evaluative organisation. Semiosis provides the bridge through which physical differences become meaningful aspects of living organisation.
+Their explanatory usefulness depends, however, upon maintaining discrimination. If every biologically significant difference is called a sign, semiosis collapses into Biological Evaluation. If every informational correlation becomes semiotic, semiosis collapses into information. If every sign relation is called meaning, semiosis collapses distinctions that APS now needs to preserve. If every sign is assumed to be representational or cognitive, stronger explanatory claims are introduced without evidence.
 
-Similarly, APS explains how cognition emerges without requiring a sharp discontinuity between simple and complex living systems. Cognition develops from increasingly sophisticated forms of semiosis rather than appearing as an entirely separate phenomenon.
+APS therefore treats semiosis as neither the universal foundation of biological explanation nor a merely optional vocabulary.
 
-The organisational interpretation of semiosis also clarifies the relationship between life and meaning. Meaning is not restricted to language, symbols, or conscious interpretation. It is a pervasive feature of living organisation because living systems continuously establish and maintain relations of significance with the conditions of their persistence.
+It is a substantive explanatory possibility for biological cases in which **sign-relational organisation makes a demonstrable difference**.
 
-Semiosis therefore serves as one of the key organising links connecting viability, function, normativity, evaluation, meaning, information, cognition, agency, process, and scale. Understanding semiosis helps explain how differences come to matter within living systems and why significance remains indispensable to biological explanation.
+This approach also creates a productive relation with biosemiotics. Biosemiotic traditions have made sign processes central to the investigation of living organisation and have developed rich accounts of biological interpretation, Umwelt, communication, codes, and meaning-making. APS can engage those accounts comparatively without assuming in advance that every APS concept maps directly onto biosemiotic terminology.
+
+The relevant question is not whether APS or biosemiotics possesses the more fundamental vocabulary. It is which dependencies each identifies for a specified explanandum and what evidence supports them.
 
 ## Conclusion
 
-Semiosis is the organisation of differences as biologically meaningful within viability-oriented evaluative activity.
+Living systems inhabit environments containing innumerable differences, but biological significance does not arise because those differences are signs.
 
-Yet the significance of semiosis extends beyond any single definition.
+**Biological Evaluation is the process through which agency generates significance.** Conditions matter because they bear differently upon viability and thereby modulate the activity of living organisation.
 
-Living systems do not merely encounter differences in their environments. They continuously organise, maintain, and reconstruct relations of significance with the conditions upon which their persistence depends. Through semiosis, physical differences become biologically consequential, shaping the regulation of activity, the maintenance of continuity, and the ongoing reorganisation of living systems.
+Semiosis introduces a further explanatory question.
 
-APS therefore grounds semiosis in organised persistence rather than in symbolic representation, abstract information processing, or detached computational formalisms. Meaning emerges because living systems regulate themselves relative to conditions affecting viability. Information becomes biologically relevant because significance is already embedded within evaluative organisation. Cognition develops through increasingly sophisticated and temporally extended forms of semiosis.
+A biologically significant difference becomes a candidate sign when it functions within living organisation in relation to another condition, object, possibility, or state of affairs. Establishing that relation requires more than showing causal sensitivity, signal transmission, statistical information, or viability-relative significance.
 
-Contemporary biosemiotics has highlighted the importance of sign processes and meaning-making within living systems. APS extends this discussion by situating semiosis within a broader explanatory grammar linking viability, function, normativity, evaluation, meaning, information, representation, and cognition. In doing so, it explains not only how significance arises but also why semiosis occupies such a central position within biological explanation.
+APS therefore treats semiotic explanation diagnostically. What is the sign-vehicle? What does it function in relation to? How is the relation materially implemented? What difference does it make to activity? Can successful and failed sign-use be distinguished? Does the semiotic description explain something that a weaker causal, informational, or evaluative account leaves unexplained?
 
-Viewed through the APS framework, semiosis reveals how physical differences become biologically meaningful, how meaning participates in persistence, and how living systems continuously organise the relations through which life remains possible.
+These controls preserve the distinctions now required across the APS cognition–mind architecture:
 
-Semiosis emerges from organised persistence and contributes to its maintenance, regulation, and reorganisation. It is therefore neither an optional feature of life nor an independent symbolic domain. It is one of the fundamental organisational processes through which living systems sustain continuity across changing conditions, multiple scales, and evolving futures.
+**Significance ≠ Semiosis ≠ Meaning ≠ Representation.**
+
+The distinctions are not claims of complete independence and they do not constitute a compulsory sequence. Semiotic relations may contribute to cognition, representation, meaning, communication, development, behaviour, and organised persistence in particular systems. Their presence and explanatory importance must nevertheless be established rather than inferred from APS architecture.
+
+Semiosis therefore occupies a precise but conditional place within APS. It is not the source of biological significance and not an obligatory property attributed to every living process. It is a substantive explanatory hypothesis concerning sign-relational organisation within living systems—one that earns its place where the relevant dependency is materially implemented, empirically supported, and explanatory of the specified biological phenomenon.
 
 ## Key Point
 
-Semiosis is the ongoing organisation of organismâ€“environment relations through which differences become biologically significant within viability-oriented evaluative activity sustaining organised persistence.
+Biological Evaluation generates significance. Semiosis becomes a further explanatory hypothesis where a biologically significant difference functions as a sign in relation to another condition, object, possibility, or state of affairs. Semiotic explanation is warranted where that sign relation is materially implemented and adds explanatory work beyond causal sensitivity, information-bearing correlation, or biological significance alone.
 
 ## Explanatory Architecture
 
 ### Central Question
 
-How do environmental and internal differences become biologically significant within living systems?
+When does a biologically significant difference function as a sign, and what explanatory work is gained by treating the relation as semiotic?
 
 ### Architectural Role
 
-This Clarification article explains semiosis as the organisation of biologically significant differences within viability-oriented evaluative activity. It establishes semiosis as an organisational process grounded in biological evaluation rather than as an independent or purely symbolic phenomenon.
+This Core article establishes the controlled APS account of semiosis. It distinguishes the generation of biological significance through Biological Evaluation from the further possibility that significant differences become organised in sign-relational form.
+
+The article therefore removes semiosis from any compulsory sequence leading from evaluation through meaning, information, representation, and cognition. Instead it treats semiosis as an assessable dependency hypothesis whose explanatory relevance must be demonstrated for the specified explanandum.
 
 ### Preceding Explanatory Dependencies
 
-These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within the APS corpus rather than chronological order, hierarchy, or levels of organisation.
+These concepts and articles provide resources required to formulate the semiotic question. They identify explanatory dependencies within APS rather than chronological stages, hierarchical levels, or a compulsory conceptual sequence.
 
 - Viability
 - Function
 - Normativity
 - Biological Evaluation
 - Biological Agency
+- Biological Significance
 - Organised Persistence
+
+### Diagnostic Considerations for Semiosis
+
+A semiotic interpretation becomes more strongly warranted where:
+
+- a materially identifiable sign-vehicle or sign-bearing state can be specified;
+- the sign functions in relation to something beyond itself;
+- the system's activity depends upon that sign relation;
+- the relation is not exhausted by simple causal covariance or information-bearing correlation;
+- context can alter the significance or use of the sign;
+- successful and failed sign-use can in principle be distinguished;
+- and semiotic description explains something not already adequately explained by biological significance, causal regulation, signal transmission, or information alone.
+
+These are diagnostic considerations rather than a frozen set of necessary and sufficient conditions.
 
 ### Subsequent Explanatory Developments
 
-The explanatory architecture established here is developed, extended, or applied in the following articles.
+The distinctions established here are developed, tested, or extended in:
 
-- Meaning in Biology â€” An APS Clarification
-- Information in Biology â€” An APS Clarification
-- Representation â€” When and Whether It Arises in Biological Systems
-- Cognition â€” Where Does It Belong in Biology?
+- Meaning in Biology — An APS Clarification
+- Information in Biology — An APS Clarification
+- Representation — When and Whether It Arises in Biological Systems
+- Cognition — Where Does It Belong in Biology?
 - What Is Meaning?
 - APS and Contemporary Explanatory Approaches
-- APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology
+- APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
 
 ### Related Explanatory Questions
 
-- How does biological significance arise?
-- Why is semiosis not equivalent to symbolic representation?
-- What is the relationship between evaluation and semiosis?
-- How does semiosis contribute to organised persistence?
-- How does semiosis relate to cognition?
+- How does biological significance arise without presupposing semiosis?
+- What distinguishes a sign from a merely causally effective difference?
+- When does an information-bearing state function semiotically?
+- How does semiosis differ from biological significance?
+- How does semiosis differ from meaning?
+- How does semiosis differ from representation?
+- Does cognition require semiosis?
+- Can semiosis occur without cognition?
+- What role does context play in establishing sign relations?
+- Can successful and failed sign-use be distinguished empirically?
+- Where are semiotic dependencies materially organised across spatial and temporal extents?
+- How can perturbation distinguish semiotic organisation from ordinary causal regulation?
+- Under what conditions does semiotic explanation provide explanatory gain?
 
 ### Position Within APS
 
-This Core article establishes the canonical APS account of semiosis as the organisation of biologically significant difference within viability-oriented evaluative activity. It provides the conceptual bridge between evaluation, meaning, information, representation, and cognition while establishing the organisational foundations upon which APS's comparative engagement with biosemiotics and information-theoretic approaches is built.
+Semiosis is not the process through which biological significance first arises. Biological Evaluation generates significance within viability-oriented organisational activity. Semiosis becomes relevant where some significant difference functions as a sign in relation to something beyond itself.
 
+Agency, Process, and Scale can organise investigation of such relations without establishing them in advance. Agency concerns the viability-oriented activity within which a proposed sign operates. Process concerns how the relation is maintained and transformed despite change. Scale concerns where its material dependencies are organised across spatial and temporal extents.
+
+APS therefore treats semiosis as a possible organisation within living systems rather than as an independent layer, universal stage, or automatically foundational feature of biological explanation.
+
+### Position Within the APS Corpus
+
+This Core article is the principal APS treatment of **when biological significance warrants specifically semiotic explanation**. It follows Biological Evaluation by distinguishing significance from sign-relational organisation and provides a controlled conceptual connection to *Information in Biology — An APS Clarification*, *Cognition — Where Does It Belong in Biology?*, *Representation — When and Whether It Arises in Biological Systems*, and *Meaning in Biology — An APS Clarification*.
+
+Its central architectural control is:
+
+**Significance ≠ Semiosis ≠ Meaning ≠ Representation.**
+
+These distinctions do not establish a hierarchy or chronological sequence. They preserve separate explanatory questions so that their relationships can be investigated rather than assumed.
+
+Within the **Comparative Explanatory Approaches** programme, this article also supplies the APS basis for engagement with biosemiotic, informational, representational, and cognitive approaches. Such comparison must remain target-relative and comparator-relative. Difference in vocabulary or conceptual architecture does not establish competition, complementarity, redundancy, or explanatory priority.

@@ -7,24 +7,32 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
 revised: 2026-09-14
-
 cluster: conceptual-foundations
 role: anchor
 
 abstract: |
-  Persistence is one of the deepest organising concepts in APS because living systems remain continuous despite ongoing material, developmental, ecological, and evolutionary change. APS explains persistence not as static endurance but as organised continuity actively maintained through viability-oriented organisation. This article shows how persistence emerges through the coordinated activity of agency, viability, organisation, process, and scale, and why organised persistence provides one of the central explanatory concerns of biology.
+  Persistence is a central explanatory concept within APS because living systems remain continuous despite ongoing material, physiological, developmental, and environmental change. APS treats persistence not as static endurance or material permanence but as organised continuity through transformation. Life itself is defined as viability-oriented, constraint-closed organisation; organised persistence identifies the further explanatory problem of how that organisation maintains and re-establishes the conditions of its continuity through time. Agency, Process, and Scale provide complementary analytic projections through which this problem can be investigated. Organised persistence is therefore a principal APS explanatory target without being the universal explanandum of biology.
 
 keyPoints:
-  - Persistence in living systems is organised continuity across transformation rather than static endurance.
-  - Living systems persist through viability-oriented organisation that actively maintains continuity across changing conditions.
-  - Agency contributes to persistence by regulating and reorganising conditions required for continued viability.
-  - Persistence depends upon temporal organisation, developmental coordination, repair, resilience, and adaptive reorganisation.
-  - Biological identity is grounded in organisational continuity rather than material sameness.
-  - Persistence generates biological normativity because continuity can succeed or fail.
-  - Organised persistence links development, physiology, ecology, cognition, and evolution within a unified explanatory framework.
-  - APS treats organised persistence as one of the central explanatory concerns of biology.
+
+  - Persistence in living systems concerns organised continuity through transformation rather than static endurance or material permanence.
+
+  - Life is viability-oriented, constraint-closed organisation; organised persistence is the explanatory problem of how that organisation maintains and re-establishes continuity through change.
+
+  - Biological agency is the viability-oriented organisational activity through which living systems can maintain, modify, and re-establish conditions required for continued functioning.
+
+  - Process concerns how continuity is maintained despite change, including through regulation, development, repair, resilience, and reorganisation.
+
+  - Scale concerns where persistence and its relevant dependencies are organised across spatial and temporal extents.
+
+  - Organisational continuity provides an important basis for investigating biological identity without reducing identity to material sameness.
+
+  - Viability-oriented organisation establishes biological normativity through viability-relative asymmetries among conditions, processes, and outcomes.
+
+  - Organised persistence can connect questions across biological domains where continuity is genuinely part of the explanandum, but it is not the obligatory target of biological explanation.
 
 relatedGlossaryTerms:
+
   - persistence
   - viability
   - biological-organisation
@@ -43,6 +51,7 @@ relatedGlossaryTerms:
   - biological-explanation
 
 relatedArticles:
+
   - agency-as-the-defining-activity-of-life
   - viability-the-organising-principle-of-biological-persistence
   - temporal-organisation-and-organised-persistence
@@ -60,6 +69,7 @@ relatedArticles:
   - aps-and-the-free-energy-principle
 
 references:
+
   - id: nicholsondupre2018
     authors: "Nicholson, D. J. & Dupré, J."
     year: 2018
@@ -96,129 +106,128 @@ references:
 
 ## Introduction
 
-How can living systems remain themselves while continuously changing?
+Living systems are continuous without remaining unchanged. Their molecular constituents turn over, physiological states fluctuate, cells divide and die, tissues remodel, development transforms structure and function, and relations with surrounding environments continually alter. Nevertheless, organisms can maintain a recognisable continuity through these transformations.
 
-Every living organism undergoes constant transformation. Molecules are replaced, cells turn over, tissues remodel, developmental processes reorganise structure and function, ecological conditions shift, and evolutionary change transforms populations across generations. Yet despite this continual transformation, living systems remain recognisably continuous across time.
+This continuity presents an important biological problem. Material permanence cannot provide a general explanation because living systems continually exchange matter with their surroundings. Structural immobility cannot provide the answer because development, repair, adaptation, and ageing involve substantial organisational change. Persistence in living systems therefore cannot be equated with remaining materially or structurally the same.
 
-This continuity cannot be explained through material permanence. Organisms do not persist because they remain physically identical. Much of the material composing a living system is temporary, exchanged continually through metabolism, growth, repair, and interaction with the environment. Nor can persistence be explained through static structure alone, because biological organisation itself changes throughout development, ageing, adaptation, and ecological interaction.
+APS approaches this problem through **organised persistence**: the continuity of living organisation through change. Persistence in this sense is neither static endurance nor mere duration. It concerns how living organisation maintains and, when disrupted, re-establishes conditions required for continued functioning while the system itself undergoes continual transformation.
 
-The persistence of living systems therefore presents a fundamental biological problem. How can continuity be maintained when the very systems exhibiting that continuity are constantly changing?
+This concept must be distinguished from the APS definition of life. **Life is viability-oriented, constraint-closed organisation.** Organised persistence is not an alternative definition. It identifies a further explanatory problem: given such living organisation, how is its continuity maintained, re-established, or transformed through time?
 
-APS approaches this question by rejecting the assumption that persistence means endurance without transformation. Living systems do not persist because change is absent. They persist because continuity is actively maintained through ongoing change. Persistence is therefore not a passive condition but an organisational achievement continuously enacted across time.
+Agency, Process, and Scale provide complementary analytic projections through which APS investigates that question. Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence and its relevant dependencies are organised across spatial and temporal extents. These are analytic projections of one living organisation rather than independent components, causes, domains, or hierarchical levels.
 
-Within APS, persistence refers to the organised continuity of viability-oriented organisation across ongoing transformation. Persistence is not static endurance, equilibrium, or mere survival. It is the continuity produced when living systems actively maintain the conditions required for their own continued existence despite developmental, physiological, ecological, and evolutionary change.
+Organised persistence is therefore a principal explanatory target within APS. It does not follow that every biological explanation must ultimately become an explanation of persistence. The relevance of persistence depends upon the explanandum.
 
-Persistence therefore occupies a central position within biological explanation. Agency explains the activity through which living systems act. Viability explains the orientation of that activity. Organisation explains how activity is coordinated. Persistence explains the continuity that such activity, orientation, and organisation collectively sustain. Understanding persistence therefore helps explain how living systems remain continuous despite the continual transformations that characterise life itself.
+## Where This Article Fits
+
+This Anchor article provides the principal APS conceptual account of **persistence as organised continuity through time**. Its task is to clarify what persistence means in living systems, why it cannot be reduced to material permanence or static endurance, and how continuity can be maintained through continual transformation.
+
+It should be distinguished from two closely related articles in the APS explanation architecture. *Biological Explanation — What Needs to Be Explained* establishes organised persistence as a principal APS explanandum while explicitly rejecting the claim that it is the universal target of biological explanation. *Biological Explanation and Organised Persistence* takes the further methodological step of asking how that explanandum should be investigated, what organisational dependencies would count as explanatory, and when an APS analysis provides explanatory gain relative to an adequate comparator.
+
+The relationship is therefore controlled and cumulative. The present article clarifies **the concept of organised persistence**; *Biological Explanation — What Needs to Be Explained* establishes **its status as an APS explanatory target**; and *Biological Explanation and Organised Persistence* develops **the methodology through which that target can be investigated**.
+
+This article should consequently be read as a conceptual foundation for organised-persistence inquiry, not as a claim that persistence provides the hidden explanandum of every biological science.
 
 ## Why Persistence Is a Biological Problem
 
-At first glance persistence appears unremarkable. Organisms exist today and continue to exist tomorrow. Yet this apparent continuity conceals one of the deepest explanatory problems in biology.
+Persistence can initially appear straightforward: an organism exists at one time and continues to exist at another. Yet the apparent simplicity disappears once the material and organisational dynamics of living systems are considered.
 
-Living systems are not static entities. Every organism exists within a continuous stream of material exchange, energetic transformation, developmental reorganisation, and environmental interaction. Cells die and are replaced. Molecular components are continually synthesised and degraded. Physiological states fluctuate. Behaviour changes in response to circumstances. Development reorganises structure across the life cycle. Ecological interactions continually reshape the conditions under which organisms live.
+Organisms continually exchange matter and energy with their surroundings. Molecular components are synthesised and degraded, physiological states change, cells and tissues are reorganised, and behaviour alters in relation to changing circumstances. Development transforms the organism throughout its life history, while damage, disease, environmental perturbation, and ageing can disrupt previously established organisation.
 
-If persistence depended upon material permanence, living systems would cease to exist almost immediately. If persistence depended upon structural immobility, development and adaptation would undermine continuity rather than support it. Biological persistence therefore requires a different explanation.
+If biological continuity required material sameness, these transformations would continually destroy it. If it required structural immobility, development and repair would themselves become incompatible with persistence. Living continuity must therefore be compatible with substantial change.
 
-The problem becomes even clearer when persistence is considered across longer timescales. Development transforms embryos into adults. Ageing alters physiological organisation. Ecological change continually modifies organism–environment relations. Evolution transforms lineages across generations. Yet continuity remains visible across each of these transformations.
+APS treats this as an organisational problem. The explanatory question is not how an organism avoids transformation, but how living organisation remains sufficiently continuous while transformation occurs. In some circumstances this involves maintaining existing organisation; in others it requires compensation, repair, reorganisation, or the establishment of new viable relations.
 
-Persistence therefore cannot be understood as resistance to change. The remarkable feature of living systems is not that they avoid transformation but that they remain continuous through transformation. Continuity itself becomes the phenomenon requiring explanation.
+Persistence is therefore not resistance to change. It is continuity organised through change.
 
-APS approaches persistence as an organisational problem rather than a material one. The central question is not how particular structures remain unchanged, but how continuity is maintained despite continual reorganisation. Persistence therefore directs attention toward the processes through which continuity is actively produced and sustained.
-
-## Persistence Beyond Static Endurance
-
-Persistence is frequently interpreted as permanence, stability, equilibrium, or resistance to disruption. Such interpretations arise naturally because many non-living systems persist through relative structural stability. Mountains endure. Crystals remain intact. Engineered structures can survive for long periods without significant reorganisation.
-
-Living systems differ fundamentally from these forms of persistence.
-
-An organism does not persist by remaining unchanged. It persists while continually transforming. Growth alters organisation. Development reorganises function. Repair replaces damaged structures. Adaptation modifies behaviour and physiology. Ecological interactions reshape the conditions under which continuity must be maintained. Change is not an exception to biological persistence. It is one of its defining characteristics.
-
-This distinction reveals why persistence cannot be reduced to endurance alone. Endurance describes continued existence. Biological persistence explains how continued existence remains possible despite continual transformation. The explanatory challenge therefore concerns continuity rather than mere duration.
-
-APS rejects the notion that persistence should be understood as the preservation of fixed states. Living systems do not maintain continuity by preventing change. Instead, they regulate change in ways that preserve organisational coherence. Transformation becomes compatible with continuity because organisation is maintained across changing conditions.
-
-Persistence therefore occurs through change rather than despite it. Development, repair, adaptation, ecological interaction, and evolutionary transformation are not threats to persistence in principle. They are among the processes through which persistence is enacted and sustained.
-
-This perspective shifts biological explanation away from static entities and toward continuity-producing organisation. The question is no longer how living systems remain unchanged. The question becomes how continuity remains possible while change continually occurs.
+This formulation also distinguishes biological persistence from mere duration. Many non-living structures can remain present for long periods, but their continued existence need not depend upon activity that maintains and re-establishes the conditions of their own functioning. APS is concerned with the distinctive case in which continuity depends upon living organisation itself.
 
 ## Organised Persistence
 
-APS describes biological persistence as organised continuity actively maintained across time.
+APS uses **organised persistence** to identify the continuity of living organisation through transformation. The concept directs attention away from the preservation of fixed material states and toward the activities, constraints, relations, and processes through which viable organisation continues.
 
-Persistence is therefore not merely the fact that a system continues to exist. Many non-living systems persist in this minimal sense. Biological persistence differs because continuity depends upon ongoing organisational activity that continually regenerates the conditions required for continued existence.
+Living systems regulate physiological conditions, coordinate development, repair damage, modify behaviour, reorganise activity following perturbation, and alter their relations with surrounding environments. Depending upon the explanandum, these activities may contribute to maintaining or re-establishing the organisation required for continued functioning.
 
-Living systems must regulate internal processes, coordinate developmental activity, repair disruption, respond to perturbation, adapt to changing circumstances, and maintain viability despite continual transformation. Continuity emerges from the successful coordination of these activities rather than from the preservation of static structures.
+Organised persistence does not imply that every process occurring within an organism contributes positively to continuity. Biological activity can be ineffective, damaging, pathological, or incompatible with continued viability. Nor does persistence imply indefinite survival. Every organism eventually ceases to persist.
 
-Organised persistence therefore refers to the continuity achieved when biological organisation continually maintains itself across changing conditions. Organisation does not simply support persistence. Organisation is the means through which persistence becomes possible. Continuity is not imposed upon living systems from outside. It is generated through the ongoing activity of the systems themselves.
+The explanatory issue is instead how particular forms of living organisation maintain continuity for some period despite conditions under which that continuity could fail.
 
-This perspective helps explain why persistence occupies such a central position within APS. Agency contributes to persistence by regulating activity. Viability provides the orientation guiding that regulation. Organisation coordinates the relations through which activity becomes effective. Persistence describes the continuity that these processes collectively sustain.
+This makes organised persistence an explanatory problem rather than a property that can simply be attributed to a system. To explain persistence in a particular case requires identification of the dependencies through which continuity is maintained or restored. Invoking organisation, viability, or persistence without specifying those dependencies does not itself provide the explanation.
 
-Organised persistence therefore functions as more than a description of biological continuity. It provides a unifying explanatory concept linking agency, viability, organisation, development, ecology, cognition, and evolution. Each of these domains concerns, in different ways, the maintenance, disruption, reorganisation, or transformation of continuity across time.
+Organised persistence therefore supplies APS with a target for inquiry. What maintains continuity? What can disrupt it? Which organisational relations are required? What changes can be accommodated? Which cannot? How is viable organisation restored after perturbation? These questions convert the general concept into case-specific explanatory problems.
 
-From this perspective, biology becomes intelligible not primarily as the study of structures, mechanisms, or behaviours considered in isolation, but as the study of organised persistence. Living systems remain continuous because continuity is continually produced through viability-oriented organisation operating across changing conditions and multiple timescales.
+## Persistence, Life, and Viability
 
-## Persistence, Viability, and Organisation
+The relation among life, viability, and persistence requires particular care because the concepts are closely connected without being interchangeable.
 
-Persistence does not occur automatically. Continuity must be actively maintained, and this maintenance depends upon the coordinated relationship between viability, organisation, and persistence itself.
+APS defines life as **viability-oriented, constraint-closed organisation**. This organisation consists in the ongoing modulation of constraints through which a system actively maintains and re-establishes the conditions of its own persistence.
 
-APS distinguishes these concepts while recognising their deep interdependence. Viability concerns the conditions required for continued existence. Organisation concerns the structured relations through which biological activity is coordinated. Persistence concerns the continuity achieved when viability-oriented organisation successfully maintains itself across time. None of these concepts can be fully understood in isolation because each depends upon the others.
+Viability concerns the conditions within which continued functioning remains possible. These conditions need not correspond to a single fixed state. Living systems can remain viable across ranges of physiological, developmental, behavioural, and environmental conditions, and those ranges can themselves change.
 
-Persistence without viability would be an empty concept. A system might continue to exist while progressively losing the conditions required for continued biological activity. Biological persistence therefore differs from mere endurance because continuity must remain oriented toward the preservation and regeneration of viability. Living systems persist only insofar as they maintain the conditions that allow continued existence to remain possible.
+Persistence concerns continuity through time. The connection with viability is therefore substantive: a living system can persist only while its organisation remains compatible with continued functioning. Yet persistence should not be defined simply as successful viability, nor viability as persistence viewed from another perspective.
 
-Viability alone is likewise insufficient. Viability specifies what must be maintained but does not explain how maintenance occurs. The conditions supporting continued existence can only be preserved through organised activity capable of regulating, coordinating, repairing, and adapting biological processes. Organisation therefore provides the means through which viability becomes operational.
+The distinction becomes clearer when disruption is considered. A system may move toward conditions that threaten viability while still remaining temporarily continuous. Conversely, reorganisation may alter many features of the system while restoring conditions required for continued functioning. The explanatory task is to identify how these changes affect the organisation through which persistence is maintained.
 
-Persistence emerges from the successful integration of these relationships. Living systems persist because viability-oriented organisation continually regenerates the conditions required for continued continuity. Persistence is therefore neither a separate property nor a final outcome imposed upon biological systems. It is the ongoing achievement produced when organisation remains successfully oriented toward viability across time.
+Viability also provides the basis for biological normativity within APS. Conditions are not biologically equivalent because they differ in how they bear upon continued functioning. This **viability-relative asymmetry** makes success, failure, function, malfunction, regulation, and repair biologically intelligible without requiring mental evaluation or external purpose.
 
-This relationship also clarifies why persistence occupies such a central position within APS. Agency explains the activity through which living systems regulate themselves. Viability explains why that activity matters. Organisation explains how activity becomes coordinated and effective. Persistence explains the continuity that such activity ultimately sustains. Persistence therefore provides one of the principal explanatory bridges linking the major concepts of the APS framework.
+Persistence does not generate that normativity simply because continuity can succeed or fail. Rather, viability-oriented organisation establishes the asymmetries through which particular changes become relevant to persistence.
+
+## Persistence and Biological Agency
+
+Biological persistence is active because living continuity depends upon what living systems do.
+
+APS defines **biological agency as viability-oriented organisational activity**. Agency is the present-tense activity through which living organisation is enacted and sustained. Regulation, repair, behavioural adjustment, developmental coordination, and other forms of activity can contribute to persistence where they materially affect the conditions required for continued functioning.
+
+Agency should not, however, be represented as a separate mechanism added to persistence. Nor should persistence be treated as an external goal toward which an independent agent acts. Agency and persistence concern different analytic aspects of the same living organisation.
+
+The relation becomes particularly clear under perturbation. Damage, physiological disturbance, environmental change, or developmental disruption can alter conditions relevant to viability. Living systems may respond by modifying activity, reorganising constraints, repairing damaged structures, or establishing different viable relations. Where such changes restore conditions required for continued functioning, agency contributes materially to organised persistence.
+
+The relevant contribution must nevertheless be demonstrated rather than inferred from the fact that the activity occurs in a living system. Some responses fail, some are neutral with respect to the persistence being investigated, and some may worsen the disruption. APS therefore asks what difference the activity makes to the viability-relevant organisation at issue.
+
+Agency identifies the activity through which persistence can be enacted and re-established; it does not guarantee successful persistence.
 
 ## Persistence and Biological Identity
 
-Questions of biological identity have traditionally been among the most challenging problems in biology and philosophy. How can an organism remain the same individual when almost every aspect of its material composition changes over time?
+The continuity of living systems also bears upon questions of biological identity. An organism can undergo extensive material turnover and developmental transformation while remaining recognisably the same biological individual. This makes material sameness an inadequate general criterion of organismal identity.
 
-APS approaches this question through persistence rather than substance.
+APS treats organisational continuity as an important basis for investigating this problem. An embryo and an adult can differ profoundly in morphology, physiology, behaviour, and ecological relations while remaining connected through one continuing developmental history. Repair and regeneration can likewise replace or reorganise material structures without necessarily creating a new individual.
 
-If identity depended upon material sameness, living systems would constantly lose their identity. Cells divide and die. Molecules are continually replaced. Physiological states fluctuate. Development reorganises structure and function throughout life. Yet organisms remain recognisably continuous despite these transformations.
+Organised persistence helps explain how such continuity is possible. What persists is not an invariant collection of matter but a living organisation capable of remaining continuous through transformation.
 
-The persistence of identity therefore cannot depend upon the persistence of matter. Instead, it depends upon the persistence of organised continuity.
+This does not mean that organised persistence by itself resolves every problem of biological individuality or identity. Different biological cases can require different criteria, and questions concerning organisms, colonies, symbioses, developmental systems, or other biological individuals cannot be settled merely by invoking continuity.
 
-Biological identity emerges when continuity is maintained across change. An organism remains itself not because its material components remain fixed, but because its viability-oriented organisation remains sufficiently continuous across ongoing transformation. Continuity therefore becomes organisational rather than material.
+The more limited APS claim is that material turnover does not preclude biological identity and that continuity of living organisation provides an important explanatory basis for investigating identity through change.
 
-This perspective helps explain why development does not destroy identity. An embryo and an adult differ profoundly in structure, function, behaviour, and ecological relation. Yet both belong to a single continuous developmental process. The persistence of identity arises because organisational continuity is maintained across developmental transformation rather than because developmental states remain unchanged.
+## Process and Persistence
 
-The same principle applies across repair, regeneration, adaptation, and ageing. Biological systems continuously reorganise themselves while remaining recognisably continuous. Identity therefore becomes a consequence of organised persistence rather than a property attached to static structures.
+Persistence is intrinsically temporal. It cannot be identified from an isolated state because persistence concerns relations among states and activities through time.
 
-Within APS, persistence provides the explanatory foundation through which biological identity becomes intelligible. Identity is not something preserved in addition to continuity. Identity is the expression of continuity successfully maintained across time.
+Within APS, **Process concerns how continuity is maintained despite change**. This makes process central to the analysis of organised persistence without turning every biological process into a persistence mechanism.
 
-## Persistence and Agency
+Metabolism, physiological regulation, development, repair, behavioural activity, and other processes can contribute to persistence where they maintain or re-establish relevant organisational conditions. Their explanatory significance depends upon what difference they make to the continuity being investigated.
 
-Agency contributes directly to persistence because continuity requires ongoing regulation.
+Development provides a particularly clear illustration. Organisms persist through developmental change not because developmental organisation remains constant, but because transformation occurs within a continuing biological history. Structures emerge, functions alter, capacities develop, and organism–environment relations change. Continuity is therefore maintained through organised transformation rather than through preservation of a fixed state.
 
-Living systems do not simply undergo change. They actively modulate their relations with themselves and their environments in ways that influence whether continuity is preserved, disrupted, strengthened, or restored. Agency therefore provides one of the principal mechanisms through which organised persistence is maintained.
+Repair illustrates a different temporal relation. Here previously established organisation has been disrupted and activity contributes to restoring or replacing conditions required for continued functioning. Persistence can therefore involve both maintenance and re-establishment.
 
-APS defines agency as viability-oriented activity through which living systems sustain, modulate, and recreate the conditions required for their own continued existence. Persistence provides the continuity that such activity serves. Without persistence, agency would lack biological significance. Without agency, persistence could not be actively maintained.
+Process allows these different temporal patterns to be analysed without treating persistence as stasis. The relevant question is how continuity is organised through the transformations characteristic of the biological system under investigation.
 
-This reciprocal relationship reveals why agency occupies such a central position within biological organisation. Organisms continually adjust behaviour, physiology, development, and ecological interaction in ways that contribute to continued viability. These adjustments are not arbitrary. They are oriented toward preserving the conditions under which continuity remains possible.
+## Scale and the Organisation of Persistence
 
-Repair provides a clear example. When biological organisation is disrupted, living systems frequently initiate activities that restore continuity-producing organisation. Similar principles operate during immune responses, developmental compensation, ecological adjustment, behavioural flexibility, and adaptive reorganisation. In each case, agency contributes to persistence by helping maintain or regenerate the conditions required for continued viability.
+Persistence also raises questions about where relevant dependencies are organised.
 
-Agency therefore should not be understood as an activity occurring alongside persistence. Agency is one of the principal means through which persistence is enacted. Persistence provides continuity across time, while agency supplies the viability-oriented activity through which that continuity can be maintained despite continual challenge and transformation.
+Within APS, **Scale concerns where persistence is organised across spatial and temporal extents**. Scale does not refer to a hierarchy of biological levels, nor does APS assume that persistence is produced by interactions among independently explanatory scales.
 
-## Persistence Across Process and Scale
+The dependencies relevant to organismal persistence can be materially implemented across different spatial extents. Physiological regulation may involve relations among molecular processes, cells, tissues, organs, behaviour, and environmental conditions. The temporal extent of those dependencies may range from rapid regulatory activity to development, repair, ageing, or longer histories of organism–environment interaction.
 
-Persistence is inherently distributed across both process and scale.
+Which extents matter cannot be determined from APS architecture alone. They depend upon the explanandum and upon evidence showing that particular relations make a difference to the persistence being explained.
 
-No living system persists at a single moment. Persistence can only be understood across temporal sequences extending through development, physiology, behaviour, ecological interaction, ageing, and evolutionary change. Continuity therefore exists not within isolated states but across organised processes unfolding through time.
+Nor does wider extent automatically confer explanatory priority. A dependency extending beyond the immediate site of a phenomenon matters only where materially implemented constraints or interactions alter conditions relevant to that phenomenon. APS therefore does not replace local causation with explanation from a supposedly higher level.
 
-This temporal character explains why process occupies such an important position within APS. Living systems persist because continuity is continually regenerated through coordinated activity. Metabolism, development, repair, regulation, reproduction, adaptation, and ecological interaction all contribute to persistence by maintaining continuity-producing organisation across changing circumstances.
-
-Persistence is equally distributed across scale. No single component of a living system can account for continuity on its own. Persistence emerges through relations extending across molecules, cells, tissues, organs, organisms, ecological systems, and evolutionary lineages. Continuity therefore depends upon coordinated organisation spanning multiple scales simultaneously.
-
-The persistence of an organism, for example, depends upon physiological regulation occurring within tissues and organs, developmental organisation coordinating growth and repair, behavioural activity regulating environmental interaction, and ecological conditions supporting continued viability. Each scale contributes to continuity while simultaneously depending upon relations extending beyond itself.
-
-APS therefore rejects attempts to locate persistence at any single privileged level of organisation. Continuity emerges from coordinated activity distributed across multiple scales and sustained through interconnected processes operating over different timescales.
-
-Persistence is consequently neither localised nor static. It is a distributed organisational achievement continually enacted through the interaction of process and scale.
+Scale-sensitive analysis asks where the relevant organisation is realised, over what temporal extent it operates, and how materially implemented relations across those extents contribute to the continuity under investigation.
 
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/temporal-organisation-persistence.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/temporal-organisation-persistence.png"
@@ -229,78 +238,116 @@ Persistence is consequently neither localised nor static. It is a distributed or
 
   <p class="aps-diagram-caption">
     <strong>Temporal Organisation and Organised Persistence.</strong>
-    Living systems persist not by remaining unchanged, but by maintaining organised continuity across ongoing transformation. Persistence emerges through the coordination of viability-oriented organisation across multiple processes, timescales, and scales of biological organisation.
+    Living systems persist not by remaining unchanged but through organised continuity across transformation. Process clarifies how continuity is maintained despite change, while Scale clarifies where persistence and its relevant dependencies are materially organised across spatial and temporal extents.
   </p>
+
 </div>
 
-## Persistence Across Biological Domains
+## Persistence Across Biological Explananda
 
-Persistence appears throughout biology because continuity must be maintained wherever living organisation exists. Although the specific forms persistence takes differ across biological contexts, the underlying explanatory principle remains the same. Living systems continually sustain organised continuity despite ongoing transformation.
+Questions of persistence arise in many areas of biology, but they do not necessarily concern the same persisting subject or require the same explanation. APS therefore distinguishes the recurrence of persistence questions from the stronger claim that all biological domains investigate one underlying persistence process.
 
-In physiology, persistence concerns the maintenance of metabolic, regulatory, and functional organisation across time. Physiological processes continually compensate for disturbance, repair disruption, and coordinate activity in ways that preserve viability despite fluctuating internal and external conditions. Physiological continuity therefore represents one expression of organised persistence.
+In physiology, persistence questions can concern how metabolic, regulatory, and functional organisation remains within or returns to conditions compatible with continued functioning. Compensation, homeostatic regulation, repair, and physiological reorganisation can become relevant where they materially contribute to such continuity.
 
-In development, persistence concerns continuity across transformation. Organisms do not merely maintain existing organisation. They continually reorganise themselves through growth, differentiation, maturation, repair, regeneration, and ageing. Development therefore demonstrates particularly clearly that continuity does not require stasis. Organisms remain continuous precisely because organised transformation preserves continuity across changing developmental states.
+Development presents a different problem because continuity occurs through substantial transformation. The organism does not merely preserve an existing organisation; its organisation changes through growth, differentiation, maturation, and ageing. Development therefore provides a particularly important case for examining continuity without material or structural sameness.
 
-In ecology, persistence concerns the maintenance of continuity through organism–environment relations. Living systems do not persist independently of their environments. Continuity depends upon ongoing exchanges of matter, energy, information, opportunity, and constraint. Ecological persistence therefore emerges through coupled organisational relations extending beyond the boundaries of individual organisms.
+Ecological explanation introduces further questions. Organismal persistence can depend upon resources, interactions, environmental conditions, and other relations extending beyond the organism's immediate boundaries. These dependencies can be essential to explaining persistence without requiring APS to treat an ecosystem itself as an agent or as an organism-like persisting subject.
 
-In evolution, persistence concerns continuity across generations. Lineages remain continuous despite continual variation, adaptation, and transformation. Evolution therefore reveals persistence operating at longer temporal scales, where continuity is maintained not through the preservation of fixed forms but through the continuity of evolving biological organisation.
+Evolution must be distinguished still more carefully. Evolutionary explanation concerns historical transformations in populations and lineages and cannot simply be identified with organismal self-maintenance extended across generations. Organised persistence can nevertheless generate specific evolutionary questions—for example, concerning how forms of living organisation remain viable, reproduce, vary, and become historically transformed. Whether persistence adds explanatory value to a particular evolutionary explanandum must be established rather than assumed.
 
-In cognition, persistence concerns increasingly integrated forms of evaluative continuity. Organisms continually regulate behaviour relative to conditions affecting viability. More complex cognitive systems extend this continuity across broader temporal horizons, integrating memory, anticipation, learning, and adaptive flexibility into the ongoing maintenance of viability-oriented organisation.
+Cognition likewise should not be reduced to persistence. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Such cognition remains realised within living organisation and can contribute to viability, but its distinctive explanatory target concerns the organisation of biological significance across time rather than persistence alone.
 
-These domains do not represent separate forms of persistence. Rather, they reveal how organised continuity appears under different biological conditions and across different scales of organisation. Persistence therefore provides a unifying explanatory concept linking diverse areas of biological inquiry within a common framework.
+Organised persistence can therefore connect questions across biological inquiry when continuity is genuinely at issue. It does not convert physiology, development, ecology, evolution, and cognition into different expressions of one universal explanatory problem.
 
-## Persistence and Resilience
+## Persistence, Resilience, and Perturbation
 
-Persistence does not imply the absence of disruption. Living systems exist within environments characterised by uncertainty, fluctuation, disturbance, and change. Continuity therefore depends not upon perfect stability but upon the capacity to respond effectively when organisation is challenged.
+Persistence does not require the absence of disruption. Living systems encounter injury, physiological disturbance, developmental perturbation, environmental fluctuation, disease, and other conditions capable of undermining viability. Continuity can therefore depend upon capacities for compensation, repair, recovery, and reorganisation.
 
-This capacity is commonly described as resilience. Within APS, resilience refers to the ability of living systems to absorb perturbation, reorganise activity, restore continuity-producing organisation, and maintain viability despite disruption. Resilience therefore contributes directly to organised persistence.
+Resilience is relevant where a system can maintain or re-establish viable organisation despite such disruption. This need not mean returning to precisely the previous state. A resilient system may reorganise in ways that preserve continued functioning under altered conditions.
 
-The significance of resilience becomes apparent whenever biological systems encounter conditions that threaten continuity. Injury, disease, environmental change, developmental disturbance, and ecological instability all create circumstances in which persistence could fail. Yet living systems frequently respond through repair, compensation, adaptation, and reorganisation that restore continuity despite disruption.
+This distinguishes resilience from simple resistance. Resistance limits the effect of perturbation; resilience can also involve changes through which viable organisation is restored or reorganised after disturbance.
 
-Resilience should therefore not be understood merely as resistance. A resilient system does not simply withstand change. It reorganises in ways that preserve continuity while accommodating new conditions. Persistence is maintained because biological organisation remains sufficiently flexible to regenerate itself when challenged.
+Perturbation is especially informative because disrupting a candidate dependency can reveal whether it contributes materially to persistence. If altering a regulatory relation, constraint, signalling pathway, environmental dependency, or other organisational feature systematically changes the system's capacity to maintain or restore viable organisation, the perturbation can provide evidence about the dependency under investigation.
 
-This perspective highlights one of the central insights of APS. Living systems persist not because they avoid disruption, but because they possess organisational capacities enabling continuity to be restored when disruption occurs. Resilience therefore reveals persistence as an active organisational achievement rather than a passive state.
+Perturbation does not automatically reveal organisation, however. A system may change following intervention for many reasons. The explanatory claim requires a specified dependency, an appropriate contrast, and evidence connecting the perturbation to the persistence-related outcome.
 
 [[box:perturbation-reveals-organisation]]
 
-Perturbation often makes persistence visible because challenges reveal the organisational processes responsible for maintaining continuity. Repair, compensation, adaptation, and recovery expose the underlying mechanisms through which living systems preserve viability despite disturbance. Resilience therefore provides a powerful window into the organisational foundations of persistence itself.
+Perturbation therefore provides one important route for testing organised-persistence hypotheses. Repair, compensation, adaptation, and recovery can make otherwise difficult-to-observe dependencies experimentally accessible, but their interpretation remains relative to the explanandum and evidence.
+
+## Persistence and Organisational Failure
+
+An account of organised persistence must also accommodate failure.
+
+Living organisation does not guarantee continued viability. Regulatory processes can become ineffective, repair can fail, developmental trajectories can become pathological, environmental conditions can exceed tolerable ranges, and accumulated disruption can undermine the organisation required for continued functioning.
+
+Failure is not external to the explanatory problem. It helps identify the dependencies through which persistence is maintained. Contrasts between successful maintenance and breakdown, recovery and non-recovery, or viable and non-viable trajectories can reveal which organisational relations are consequential.
+
+This is another reason APS should not define persistence simply as the inevitable result of living organisation. Persistence is contingent upon materially realised relations that can be disrupted. Its explanation therefore requires attention to both the organisation through which continuity is achieved and the conditions under which that organisation ceases to be sufficient.
+
+Viability-relative asymmetry makes these differences biologically consequential. Some organisational changes maintain or restore conditions of continued functioning; others undermine them. The distinction provides a naturalised basis for discussing biological success and failure without treating persistence as intentional purpose.
 
 ## Why Organised Persistence Matters
 
-Persistence occupies a uniquely important position within biological explanation because continuity underlies nearly every phenomenon biology seeks to understand.
+Organised persistence matters within APS because continuity through change is a genuine explanatory problem presented by living organisation.
 
-Questions concerning development, physiology, behaviour, ecology, cognition, ageing, adaptation, and evolution all involve continuity in one form or another. Each asks how living systems maintain themselves, transform themselves, or remain continuous despite changing conditions. Persistence therefore operates not at the periphery of biological explanation but near its centre.
+The concept draws together questions concerning maintenance, repair, development, resilience, identity, and temporal organisation without requiring them to be reduced to a single mechanism. It directs attention to the dependencies through which living systems remain continuous despite material turnover, internal transformation, and changing relations with their environments.
 
-APS places organised persistence at the heart of biological intelligibility because continuity provides the context within which other biological concepts acquire meaning. Agency matters because it contributes to continuity. Viability matters because it defines the conditions under which continuity remains possible. Organisation matters because it coordinates the relations through which continuity is maintained. Development, adaptation, resilience, and evolution matter because they shape how continuity is preserved, reorganised, or transformed.
+Its integrating value must nevertheless remain conditional. A molecular mechanism can be explained adequately without explaining organismal persistence if persistence is not part of the explanandum. An evolutionary change can be explained without treating lineage continuity as organised self-maintenance. An ecological interaction need not be reconstructed as a persistence relation merely because it occurs among living systems.
 
-This perspective shifts biological explanation away from static entities and toward dynamic continuity-producing organisation. Rather than asking only what biological systems are, APS asks how biological systems remain continuous despite continual transformation. Persistence therefore becomes one of the deepest organising principles available for understanding living systems.
+APS therefore does not place organised persistence at the centre of every biological explanation. It identifies persistence as a principal explanatory target **where the maintenance, re-establishment, or transformation of living continuity is genuinely at issue**.
 
-The concept also provides a bridge across traditional disciplinary boundaries. Physiologists investigate continuity within organisms. Developmental biologists investigate continuity across transformation. Ecologists investigate continuity through environmental relations. Evolutionary biologists investigate continuity across generations. Cognitive scientists investigate continuity in adaptive regulation and evaluation. Organised persistence reveals these apparently distinct concerns as variations of a common explanatory problem.
+This bounded formulation makes the concept more rather than less scientifically useful. It permits persistence claims to be specified, compared with established explanations, tested through material dependencies, and rejected where the APS framing adds no explanatory gain.
 
-Persistence therefore functions not merely as a topic within biology but as an integrating concept capable of linking multiple domains within a unified explanatory framework.
+Organised persistence consequently functions as an important conceptual bridge between the APS account of life and its methodology of biological explanation without becoming a universal explanatory principle imposed upon biology.
+
+## From Persistence to Biological Explanation
+
+The conceptual account developed here establishes a phenomenon requiring explanation but does not itself determine how that explanation should proceed.
+
+To say that an organism exhibits organised persistence is not yet to identify the dependencies through which it persists. Explanation requires specification of what is being maintained, what threatens or transforms it, which relations make a difference to continuity, how those relations are materially implemented, and what evidence supports the proposed dependency.
+
+This distinction separates the present article from the two principal explanatory articles that follow from it.
+
+*Biological Explanation — What Needs to Be Explained* asks why organised persistence constitutes a legitimate APS explanandum while preserving the plurality of biological explanation.
+
+*Biological Explanation and Organised Persistence* then develops a controlled methodology for investigating that explanandum. It asks how organisational dependencies can be specified, how perturbation and contrast can provide evidence, how relevant spatial and temporal extents should be identified, and how any claim of explanatory gain should be assessed relative to an adequate comparator addressing the same target.
+
+The conceptual movement is therefore:
+
+**organised continuity through change → organised persistence as an explanandum → controlled investigation of persistence-related dependencies**
+
+This is an explanatory dependency within the APS corpus, not a claim that every biological inquiry must follow the sequence.
 
 ## Conclusion
 
-Living systems do not persist because they remain unchanged.
+Living systems remain continuous while undergoing continual transformation. Their matter changes, their physiological states fluctuate, development reorganises them, environmental relations alter, and disruption can require repair or reorganisation. Biological persistence therefore cannot generally be understood as material permanence, structural immobility, equilibrium, or passive endurance.
 
-They persist because organised continuity is continually maintained across ongoing transformation.
+APS describes this problem as **organised persistence**.
 
-This continuity cannot be explained through material permanence, structural immobility, or resistance to change. Living systems remain continuous despite continual turnover, development, repair, adaptation, ecological interaction, ageing, and evolutionary transformation. The persistence of life therefore requires explanation.
+The concept must remain distinct from the definition of life. **Life is viability-oriented, constraint-closed organisation.** Organised persistence asks how that organisation maintains and re-establishes continuity through change.
 
-APS approaches this challenge through the concept of organised persistence. Persistence is understood not as static endurance but as the continuity produced when viability-oriented organisation actively maintains itself across time. Agency contributes the activity through which continuity is sustained. Viability provides the orientation guiding that activity. Organisation coordinates the relations through which continuity becomes possible. Persistence describes the continuity these processes collectively achieve.
+Agency, Process, and Scale provide complementary analytic projections through which this problem can be investigated. Biological agency concerns the viability-oriented organisational activity through which continuity can be maintained or restored. Process concerns how continuity is maintained despite transformation. Scale concerns where persistence and its relevant dependencies are organised across spatial and temporal extents.
 
-From this perspective, persistence becomes one of the deepest organising concepts in biology. It explains how living systems remain themselves despite continual change, why biological identity is organisational rather than material, how resilience restores continuity under perturbation, and why development, ecology, cognition, and evolution can be understood as different expressions of organised continuity across time.
+These analytic resources do not establish the explanation in advance. Particular persistence claims require materially implemented dependencies, appropriate contrasts, and evidence showing how the proposed organisation contributes to continuity. Failure and perturbation are therefore as informative as successful maintenance.
 
-Living systems persist not because change is absent, but because continuity is continually regenerated through viability-oriented organisation. Organised persistence therefore provides one of the central explanatory concerns of biology and one of the most powerful unifying concepts within the APS framework.
+Organised persistence also does not subsume biological explanation generally. It is a principal APS explanatory target when continuity, maintenance, repair, resilience, identity, or transformation of living organisation forms part of the explanandum. Other biological explanations can remain adequate without being reconstructed in persistence terms.
+
+The resulting APS claim is deliberately bounded but substantial: **living continuity through change is an organisational phenomenon requiring explanation, and organised persistence identifies that phenomenon without turning it into either a second definition of life or the universal explanandum of biology.**
 
 ## Related Pathways
 
-- *[Agency as the Defining Activity of Life](/articles/agency-as-the-defining-activity-of-life/)*
-- *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
-- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
-- *[The Developmental Organisation of Life](/articles/the-developmental-organisation-of-life/)*
-- *[Developmental Temporality](/articles/developmental-temporality/)*
-- *[Ageing and Organisational Persistence](/articles/ageing-and-organisational-persistence/)*
+- **[Agency as the Defining Activity of Life](/articles/agency-as-the-defining-activity-of-life/)**
+
+- **[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)**
+
+- **[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)**
+
+- **[The Developmental Organisation of Life](/articles/the-developmental-organisation-of-life/)**
+
+- **[Developmental Temporality](/articles/developmental-temporality/)**
+
+- **[Ageing and Organisational Persistence](/articles/ageing-and-organisational-persistence/)**
 
 ## Key Terms
 
@@ -310,66 +357,96 @@ persistence · organised persistence · continuity · viability · biological or
 
 ### Central Question
 
-How do living systems maintain organised continuity through continual material, physiological, developmental, ecological, and evolutionary transformation?
+How do living systems maintain and re-establish organised continuity through continual material, physiological, developmental, and environmental transformation?
 
 ### Architectural Role
 
-This Anchor article establishes persistence as organised continuity actively maintained through change. It explains why biological persistence cannot be understood as static endurance, material permanence, equilibrium, or mere survival, and shows how agency, viability, organisation, process, and scale jointly clarify the continuity of living systems across time.
+This Anchor article establishes the APS concept of persistence as organised continuity through change. It distinguishes organised persistence from static endurance, material permanence, equilibrium, mere survival, and the APS definition of life itself.
 
-The article also establishes organised persistence as one of the principal explanatory concerns of biology. Development, physiology, repair, resilience, ecology, cognition, ageing, and evolution are interpreted as distinct investigations of how living organisation is maintained, restored, reorganised, or historically transformed.
+Its role is conceptual rather than universally methodological. It identifies the phenomenon of organised persistence and clarifies how Agency, Process, and Scale can organise inquiry into it. *Biological Explanation — What Needs to Be Explained* establishes the status of organised persistence as a principal APS explanandum, while *Biological Explanation and Organised Persistence* develops the controlled methodology through which persistence-related dependencies can be investigated and comparatively assessed.
 
 ### Preceding Explanatory Dependencies
 
-These concepts and articles establish the explanatory foundations presupposed by this article. They identify explanatory dependencies within APS rather than chronological stages, hierarchical levels, or a compulsory reading order.
+These concepts and articles establish explanatory resources presupposed by this article. They identify dependencies within APS rather than chronological stages, hierarchical levels, or a compulsory reading order.
 
-- *What Is Life? A Biological Question Revisited*
-- *Agency as the Defining Activity of Life*
-- *Biological Agency as the Activity of Self-Maintenance*
-- *Viability — The Organising Principle of Biological Persistence*
-- *Biological Organisation*
-- *Constraint Closure — What It Does and Does Not Do*
-- *Process — The Dynamics of Living Organisation*
-- *Scale — How Life Is Coordinated Across Space and Time*
+- **What Is Life? A Biological Question Revisited**
+
+- **Agency as the Defining Activity of Life**
+
+- **Biological Agency as the Activity of Self-Maintenance**
+
+- **Viability — The Organising Principle of Biological Persistence**
+
+- **Biological Organisation**
+
+- **Constraint Closure — What It Does and Does Not Do**
+
+- **Process — The Dynamics of Living Organisation**
+
+- **Scale — How Life Is Coordinated Across Space and Time**
 
 ### Subsequent Explanatory Developments
 
-The explanatory architecture established here is developed, extended, or applied in the following articles and explanatory domains.
+The conceptual architecture established here is developed, investigated, or applied in:
 
-- *Temporal Organisation and Organised Persistence*
-- *Agency and Organised Persistence*
-- *Biological Explanation — What Needs to Be Explained*
-- *Biological Explanation and Organised Persistence*
-- *The Developmental Organisation of Life*
-- *Developmental Temporality*
-- *Ageing and Organisational Persistence*
-- *Scale, Time, and Persistence*
-- *Physiology and Evolution in APS*
-- *Organisational Realism in Biology*
-- *APS and Contemporary Explanatory Approaches*
-- *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*
+- **Temporal Organisation and Organised Persistence**
+
+- **Agency and Organised Persistence**
+
+- **Biological Explanation — What Needs to Be Explained**
+
+- **Biological Explanation and Organised Persistence**
+
+- **The Developmental Organisation of Life**
+
+- **Developmental Temporality**
+
+- **Ageing and Organisational Persistence**
+
+- **Scale, Time, and Persistence**
+
+- **Physiology and Evolution in APS**
+
+- **Organisational Realism in Biology**
+
+- **APS and Contemporary Explanatory Approaches**
+
+- **APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison**
 
 ### Related Explanatory Questions
 
-- How can biological identity remain continuous despite material turnover?
-- Why is persistence an organisational achievement rather than passive endurance?
-- How do agency and viability contribute to continuity?
-- How are development, repair, resilience, and adaptation related to persistence?
-- How is continuity organised across spatial and temporal extents?
-- How does organismal persistence relate to lineage continuity and evolutionary transformation?
-- How do formal accounts of stability and self-maintenance relate to organised persistence?
+- How can living organisation remain continuous despite material turnover?
+
+- Why is organised persistence distinct from static endurance?
+
+- How does organised persistence differ from the APS definition of life?
+
+- How does biological agency contribute to maintaining or re-establishing continuity?
+
+- How does Process clarify continuity through transformation?
+
+- Where are persistence-related dependencies organised across spatial and temporal extents?
+
+- How does organisational continuity contribute to questions of biological identity?
+
+- How can perturbation and failure reveal dependencies relevant to persistence?
+
+- When is organised persistence genuinely part of a biological explanandum?
+
+- How does organismal persistence differ from ecological persistence or evolutionary continuity?
+
+- Under what conditions does an APS analysis of persistence provide explanatory gain?
 
 ### Position Within APS
 
-Persistence identifies the continuity sustained through viability-oriented living organisation. Agency explains the present-tense activity through which that continuity is maintained and re-established. Process clarifies how continuity is enacted through continual transformation. Scale clarifies where persistence is organised across spatial and temporal extents.
+Persistence identifies the continuity of living organisation through change. It is not a fourth component alongside Agency, Process, and Scale. Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed living organisation: Agency concerns what living systems do, Process concerns how continuity is maintained despite change, and Scale concerns where persistence is organised across spatial and temporal extents.
 
-Organised persistence is therefore not a fourth component alongside Agency, Process, and Scale. It is the continuing biological phenomenon whose organisation becomes intelligible through those three analytic projections. The article consequently connects APS's definition of life with its accounts of biological identity, development, resilience, cognition, ecology, evolution, and explanation.
+Organised persistence is therefore the biological phenomenon whose organisation these projections can help make intelligible when persistence is the explanandum. It connects the APS definition of life with questions concerning temporal organisation, biological identity, development, repair, resilience, cognition, ecology, evolution, and biological explanation without implying that all such questions reduce to persistence.
 
 ### Position Within the APS Corpus
 
-This Anchor article is the canonical APS treatment of persistence as organised continuity through time. Together with *What Is Life? A Biological Question Revisited*, *Agency as the Defining Activity of Life*, and *Viability — The Organising Principle of Biological Persistence*, it forms part of the principal conceptual foundation of APS.
+This Anchor article is the principal APS conceptual treatment of persistence as organised continuity through time. Together with **What Is Life? A Biological Question Revisited**, **Agency as the Defining Activity of Life**, and **Viability — The Organising Principle of Biological Persistence**, it forms part of the conceptual foundation through which APS investigates living organisation.
 
-It also functions as a major corpus hub. It provides the central conceptual connection between the foundational account of living organisation and later articles concerning temporal organisation, development, repair, resilience, ageing, biological identity, cognition, ecology, evolutionary continuity, and biological explanation.
+Its downstream role is now explicitly bounded. It supplies the concept of organised persistence used by **Biological Explanation — What Needs to Be Explained**, which establishes persistence as a principal APS explanandum, and by **Biological Explanation and Organised Persistence**, which specifies how that explanandum can be investigated without making persistence the universal target of biological explanation.
 
-Within the Comparative Biology programme, this article supplies the APS account of persistence against which formal and organisational frameworks can be compared. It therefore provides a principal conceptual entry point to *APS and the Free Energy Principle: Complementary Explanatory Frameworks in Theoretical Biology*, where organised persistence is compared with formal accounts of stability, inference, and self-maintenance.
-
-
+Within the **Comparative Explanatory Approaches** programme, the article also supplies the APS account of organised persistence relevant to target-matched comparisons with other approaches. Such comparisons do not establish complementarity, competition, redundancy, or APS explanatory priority in advance. Those relations must be determined relative to a specified explanandum and the dependencies each approach actually explains.

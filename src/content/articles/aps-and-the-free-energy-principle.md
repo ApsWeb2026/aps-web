@@ -75,7 +75,7 @@ Among contemporary attempts to understand living systems, few frameworks have at
 
 The comparison follows the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). It begins by distinguishing explanatory targets, organising principles, and explanatory priorities before assessing convergence, difference, or complementarity.
 
-The Agency–Process–Scale (APS) framework approaches living systems through a distinct explanatory architecture. It proposes that life is viability-oriented, constraint-closed organisation and treats organised persistence as the problem of how that organisation maintains and re-establishes the conditions of its continuity despite change. APS therefore gives explicit explanatory priority to living organisation, biological agency, viability, and the relations disclosed through Agency, Process, and Scale.
+The Agency–Process–Scale (APS) framework approaches living systems through a distinct explanatory architecture. It proposes that life is viability-oriented, constraint-closed organisation and treats organised persistence as the problem of how that organisation maintains and re-establishes the conditions of its continuity despite change. APS therefore makes living organisation, biological agency, viability, and the relations disclosed through Agency, Process, and Scale explicit within its explanatory architecture.
 
 Because APS and FEP both address adaptive and self-maintaining living systems, their explanatory targets may overlap substantially. The relevant question is not therefore whether one is simply a mathematical description and the other a biological explanation, nor whether they must be competing or complementary. It is how their targets, organising principles, conceptual relations, and explanatory priorities compare in particular cases.
 
@@ -101,7 +101,7 @@ Despite this breadth, the Free Energy Principle does not prescribe a single biol
 
 The Agency–Process–Scale (APS) framework approaches the study of living systems through its own explanatory architecture. APS investigates the biological organisation that constitutes living systems and makes adaptive activity possible. Its central explanatory target is the organisation characteristic of living systems and the conditions through which that organisation persists despite change. Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; Scale concerns where persistence is organised across spatial and temporal extents. The distinctions are analytic; the organisation and activities they disclose are biologically real.
 
-APS proposes that life is best understood as viability-oriented, constraint-closed organisation. Living systems are not defined by particular molecules, energetic processes, or informational architectures, but by the continual organisation through which they maintain and re-establish the conditions of their own persistence. This organisation is dynamic rather than static, existing as an ongoing activity rather than as a fixed structural arrangement.
+APS proposes that life is best understood as viability-oriented, constraint-closed organisation. LLiving systems are not defined by the presence of particular molecules, energetic processes, or informational architectures considered independently, but by the organisation through which they actively maintain and re-establish the conditions of their own persistence.This organisation is dynamic rather than static, existing as an ongoing activity rather than as a fixed structural arrangement.
 
 Within APS, biological agency is the present-tense activity through which this organisation is enacted and sustained. Agency does not denote conscious choice, deliberation, or representation. Nor is it an additional causal force acting alongside biological mechanisms. Rather, it identifies the viability-oriented organisational activity through which living systems regulate themselves, repair themselves, and respond to changing circumstances while preserving their own continuity.
 
@@ -192,28 +192,31 @@ These concepts and articles establish the explanatory resources presupposed by t
 
 - What Is APS?
 - APS and Contemporary Explanatory Approaches
-- Comparative Explanatory Methodology in: Theoretical Biology
-Organised Persistence
-Biological Agency
-Viability
-Constraint Closure
-Biological Organisation
-Biological Evaluation
-Biological Significance
-Subsequent Explanatory Developments
+- Comparative Explanatory Methodology in Theoretical Biology
+- Organised Persistence
+- Biological Agency
+- Viability
+- Constraint Closure
+- Biological Organisation
+- Biological Evaluation
+- Biological Significance
 
-### The comparative distinctions established here are developed or applied in:
+### Subsequent Explanatory Developments
+
+The comparative distinctions established here are developed or applied in:
 
 - Agency and Organised Persistence
 - Architectural Dependency and Biological Explanation
 - Organism–World Coupling: Agency, Not Control
 - Explanatory Priority Is Not Ontological Priority
 - Why APS Reframes Biology
-- Related Explanatory Questions
+
+### Related Explanatory Questions
+
 - How do APS and the Free Energy Principle differ in their explanatory targets and organising principles?
 - When do APS and FEP address genuinely matched explanatory targets?
 - Does mathematical formalisation itself determine the explanatory status of FEP?
- How do viability, active inference, agency, and adaptive self-maintenance relate across the two frameworks?
+- How do viability, active inference, agency, and adaptive self-maintenance relate across the two frameworks?
 - Under what conditions might APS and FEP prove complementary, overlapping, independent, competing, redundant, or differentially explanatory?
 - What evidence would be required to establish explanatory gain favouring either framework?
 

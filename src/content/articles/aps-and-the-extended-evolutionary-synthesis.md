@@ -101,13 +101,9 @@ In this way, the EES broadens evolutionary explanation by situating genetic chan
 
 ## Points of Convergence with APS
 
-APS and the EES share several important commitments.
+APS and the EES share several important commitments. Both resist strictly gene-centric accounts of evolution and emphasise the significance of organism–environment interaction, while recognising that development, regulation, and ecological context contribute to understanding how evolutionary processes unfold. The EES emphasis on niche construction and phenotypic plasticity also provides an important point of contact with the APS treatment of organisms as active participants in processes affecting the conditions of their persistence.
 
-Both reject strictly gene-centric accounts of evolution and emphasise the role of organism–environment interaction. Both recognise that development, regulation, and ecological context are central to understanding how evolutionary processes unfold.
-
-In particular, the emphasis on niche construction and plasticity aligns with the APS view that organisms actively modulate the conditions of their own persistence.
-
-These convergences make the EES an important contemporary development in evolutionary theory and a natural point of comparison for APS.
+These convergences make the EES a natural point of comparison for APS. They establish overlapping explanatory concerns, however, rather than theoretical identity or a predetermined relation between the two frameworks.
 
 ## Comparing Evolutionary and Organisational Explanatory Targets
 
@@ -140,8 +136,8 @@ APS accordingly interprets evolution as the historical transformation of viabili
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>APS Explanatory Structure.</strong>
-    APS Explanatory Structure. Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. Applied to evolutionary questions, APS investigates what living systems do, how organisational continuity is maintained and transformed through time, and where persistence is organised across spatial and temporal extents. This architecture proposes questions for evolutionary comparison; it does not establish explanatory priority over evolutionary theory.
+  <strong>APS Explanatory Structure.</strong>
+  Agency, Process, and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation. Applied to evolutionary questions, APS investigates what living systems do, how organisational continuity is maintained and transformed through time, and where persistence is organised across spatial and temporal extents. This architecture proposes questions for evolutionary comparison; it does not establish explanatory priority over evolutionary theory.
   </p>
 
 </div>
@@ -157,12 +153,7 @@ APS can therefore investigate niche construction and related processes in relati
 
 APS interprets adaptation and evolution in relation to living organisation, while evolutionary frameworks may characterise these phenomena through different explanatory units and processes. These formulations should be compared rather than hierarchically nested.
 
-Within APS:
-
-- Adaptation may be investigated as reorganisation of viability-oriented activity in relation to changing conditions.
-- Evolution is interpreted as historical transformation of viability-oriented organisation across generations.
-
-These are APS formulations. They do not replace evolutionary definitions or establish that evolutionary explanations must be reconstructed through organised persistence.
+Within APS, adaptation may be investigated as the reorganisation of viability-oriented activity in relation to changing conditions, while evolution is interpreted as the historical transformation of viability-oriented organisation across generations. These formulations locate adaptation and evolution within the APS explanatory architecture; they do not replace established evolutionary definitions or establish that evolutionary explanations must be reconstructed through organised persistence.
 
 Within APS, biological purpose refers to viability-oriented organisation without requiring externally imposed design or conscious intention.
 
@@ -222,7 +213,7 @@ The questions identified here are developed or applied in:
 
 - Selection Revisited — What Does Selection Actually Act On?
 - Organism–World Coupling: Agency, Not Control
-Architectural Dependency and Biological Explanation
+- Architectural Dependency and Biological Explanation
 - Why APS Reframes Biology
 - Comparative Explanatory Methodology in Theoretical Biology
 
