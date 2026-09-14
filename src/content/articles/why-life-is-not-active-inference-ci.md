@@ -364,4 +364,14 @@ These identify APS corpus relations rather than established biological or compar
 
 ### Position Within APS
 
-This article belongs to the APS comparative clarification series. Its role is to distinguish the APS definition of life from active-inference identity claims without reducing active inference to formal description or subordinating it to APS. It leaves comparative explanatory superiority open.
+This article belongs to the **Life Demarcation** family. Its role is to establish
+the bounded non-identity claim that APS does not define life as prediction,
+inference, optimisation, or free-energy minimisation. It does not reduce Active
+Inference to formal description, subordinate it to APS, or establish comparative
+explanatory superiority.
+
+Substantive comparison between APS and Free Energy Principle or Active Inference
+approaches belongs to *APS and the Free Energy Principle: Organisation,
+Formalism, and Explanatory Comparison*. Where the approaches address genuinely
+matched explanatory targets, comparative preference remains a matter for
+target-matched assessment.

@@ -213,7 +213,7 @@ These differences make APS distinguishable from autopoiesis and autonomy theory,
 
 Depending on the explanatory target, APS and autopoietic or autonomy-based approaches may overlap, complement one another, remain independent, compete, enter into tension, prove partly redundant, or favour one comparator over another. Their relationship must therefore be established through comparison rather than fixed in advance by the architecture of APS itself.
 
-APS may have potential foundational generality where living organisation itself is the explanatory target. That possibility does not give it universal explanatory authority, and it does not establish that APS provides the preferable explanation of living organisation. Demonstrated explanatory gain requires comparison with the strongest relevant alternatives addressing the same question.
+This article belongs to the **Life Demarcation** family. It establishes the bounded non-identity claim that APS does not define life as autopoiesis, while preserving autopoietic and autonomy-based approaches as substantive explanatory accounts of living organisation. Agency, Process, and Scale remain complementary analytic projections of one viability-oriented, constraint-closed organisation rather than independent components, causes, dimensions, levels, or stages. Non-identity does not establish explanatory superiority; where the approaches address genuinely matched targets, comparative explanatory gain requires target-matched assessment.
 
 ## Conclusion
 

@@ -17,6 +17,7 @@
     "format:check": "prettier --check .",
     "clean:astro": "node -e \"const fs=require('fs'); for (const dir of ['.astro','node_modules/.astro']) fs.rmSync(dir,{recursive:true,force:true});\"",
     "clean": "node -e \"const fs=require('fs'); for (const dir of ['.astro','node_modules/.astro','dist']) fs.rmSync(dir,{recursive:true,force:true});\"",
+    "update:revised": "tsx src/scripts/update-revised-dates.ts",
     "build:clean": "npm run clean && npm run build"
   },
   "keywords": [],

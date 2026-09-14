@@ -75,7 +75,7 @@ Enactivism is best understood not as a single uniform theory but as a family of 
 
 A central enactivist concept is **sense-making**: the idea that an organism's activity establishes relations of significance with its environment. Organism and environment are therefore not treated simply as independently specified systems between which information passes. Their interaction can be constitutive of the organisation and activity being explained.
 
-EEnactivist approaches have also developed substantive accounts of autonomy, adaptivity, normativity, embodiment, and the continuity between life and mind. These commitments make enactivism a serious biological and cognitive comparator for APS rather than merely an alternative vocabulary for organism–environment interaction.
+Enactivist approaches have also developed substantive accounts of autonomy, adaptivity, normativity, embodiment, and the continuity between life and mind. These commitments make enactivism a serious biological and cognitive comparator for APS rather than merely an alternative vocabulary for organism–environment interaction.
 
 APS shares several of these concerns. It likewise treats living systems as active rather than passive, takes organism–environment relations seriously, and rejects the idea that biological activity can always be understood by isolating internal processes from the conditions in which they occur.
 
@@ -83,7 +83,7 @@ These similarities do not make APS a form of enactivism, however, and their diff
 
 ## What Enactivist Approaches Explain
 
-EEnactivist approaches provide substantive explanatory resources for investigating embodiment, organism–environment coupling, sense-making, autonomy, adaptivity, normativity, and the continuity between life and cognition.
+Enactivist approaches provide substantive explanatory resources for investigating embodiment, organism–environment coupling, sense-making, autonomy, adaptivity, normativity, and the continuity between life and cognition.
 
 Their importance is not limited to reminding biology that organisms interact with environments. Enactivist explanations can make those interactions constitutive of the phenomena under investigation and can analyse how autonomous biological organisation, embodied activity, and environmental engagement contribute to cognition and behaviour.
 
@@ -229,5 +229,5 @@ These identify relations within the APS corpus rather than established biologica
 
 ### Position Within APS
 
-This article belongs to the APS comparative clarification series. Its role is to distinguish APS from enactivist approaches without reducing enactivism to embodiment or cognition, translating enactivist concepts automatically into APS terminology, or subordinating enactivism to APS. Comparative explanatory superiority remains open.
+This article belongs to the **Comparative Explanatory Approaches** family. Its role is to distinguish APS from enactivist approaches without reducing enactivism to embodiment or cognition, translating enactivist concepts automatically into APS terminology, or subordinating enactivism to APS. The relationship between the approaches remains target-dependent, and comparative explanatory superiority requires target-matched assessment.
 

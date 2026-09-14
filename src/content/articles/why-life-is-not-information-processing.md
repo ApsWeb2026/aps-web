@@ -157,19 +157,7 @@ The relevant comparative question is therefore not which vocabulary or architect
 
 Informational approaches became influential because they successfully explain many important biological phenomena.
 
-They illuminate:
-
-- signal transduction,
-- neural communication,
-- sensory coordination,
-- adaptive responsiveness,
-- distributed regulation,
-- behavioural flexibility,
-- learning,
-- prediction,
-- and communication.
-
-Informational frameworks have consequently transformed molecular biology, neuroscience, systems biology, cybernetics, cognitive science, and computational modelling.
+They illuminate signal transduction, neural communication, sensory coordination, adaptive responsiveness, distributed regulation, behavioural flexibility, learning, prediction, and communication. Informational frameworks have consequently transformed molecular biology, neuroscience, systems biology, cybernetics, cognitive science, and computational modelling.
 
 APS recognises these as substantive explanatory achievements rather than merely informational descriptions of processes whose real explanation must be supplied elsewhere.
 
@@ -352,5 +340,5 @@ These identify relations within the APS corpus rather than established biologica
 
 ### Position Within APS
 
-This article belongs to the APS comparative clarification series. Its purpose is to distinguish the APS definition of life from information-processing identity claims without reducing informational approaches to description or subordinating them to APS. Comparative explanatory superiority remains open.
+This article belongs to the **Life Demarcation** family. Its purpose is to establish the bounded non-identity claim that APS does not define life as information processing, while preserving informational approaches as substantive and potentially sufficient explanations for appropriate biological targets. Information processing alone does not satisfy the APS definition of life, but non-identity does not establish explanatory inferiority. Where APS and informational approaches address genuinely matched targets, comparative explanatory gain requires target-matched assessment.
 

@@ -159,9 +159,9 @@ These pathways investigate different explanatory targets using APS concepts conc
 
 <div class="aps-diagram aps-diagram-large">
 
-<a href="/assets/diagrams/architecture-map.svg" target="_blank" rel="noopener">
+<a href="/assets/diagrams/architecture-map.png" target="_blank" rel="noopener">
   <img
-    src="/assets/diagrams/architecture-map.svg"
+    src="/assets/diagrams/architecture-map.png"
     alt="APS architecture map showing Agency, Process, and Scale as complementary analytic projections and a proposed research pathway from agency toward reflective agency"
     loading="lazy"
   />
@@ -276,42 +276,31 @@ Within APS, information, meaning, representation, and cognition are investigated
 
 - *[Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/)*
 
-Within APS, one proposed cognition dependency pathway is represented as:
+Within APS, the principal cognition-and-mind research pathway is organised as:
 
-**viability**  
+**Life**  
 ↓  
-
-**agency**  
+**Agency**  
 ↓  
-
-**evaluation**  
+**Biological Evaluation**  
 ↓  
-
-**semiosis**  
+**Significance**  
 ↓  
-
-**meaning**  
+**Integration**  
 ↓  
-
-**information**  
+**Cognition**  
 ↓  
-
-**representation**  
+**Mind**  
 ↓  
-
-**cognition**  
+**Selfhood**  
 ↓  
-
-**intelligence**  
+**Reflective Agency**  
 ↓  
+**Meaning**
 
-**consciousness**
+This pathway represents an APS research architecture rather than a demonstrated causal, developmental, or chronological sequence. Its transitions retain proposition-specific evidential status and require independent assessment. The concepts are not separate substances, modules, components, or hierarchical levels.
 
-The arrows represent proposed dependencies rather than demonstrated causal or developmental succession. Individual transitions retain their proposition-specific evidential status and require independent assessment.
-
-The sequence does not describe separate substances, modules, components, levels, or universally necessary explanatory categories. It provides an APS research architecture for distinguishing related organisational questions while preserving the differences among life, biological agency, cognition, intelligence, and consciousness.
-
-Within this research programme, APS investigates whether cognition depends on forms of integrated biological significance organised across time, whether representation is downstream rather than foundational in relevant cases, and how intelligence and consciousness relate to more restricted forms of cognition. These remain proposition-specific questions rather than consequences established merely by the coherence of the wider APS architecture.
+Within this architecture, **Biological Evaluation is the process through which agency generates significance**, while cognition concerns the organisation of biological significance across time. More diagnostically, biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
 A related research pathway examines possible relations among Biological Evaluation, Significance, Meaning, Value, Human Values, Shared Evaluation, Social Norms, Moral Evaluation, Morality, and Ethics.
 
@@ -466,25 +455,18 @@ Recommended pathway:
 
 7. *Biological Individual*
 
-### For Cognition and Information Researchers
+### For Readers Interested in Cognition, Information, and Meaning
 
 Recommended pathway:
 
-1. *Evaluation*
-
-2. *Semiosis*
-
-3. *Meaning*
-
-4. *Information*
-
-5. *Representation*
-
-6. *Cognition*
-
-7. *Cognition — Where Does It Belong in Biology?*
-
-8. *Consciousness*
+1. **Biological Evaluation**
+2. **Biological Significance**
+3. **Cognition — Where Does It Belong in Biology?**
+4. **Information in Biology — An APS Clarification**
+5. **Semiosis — How Differences Come to Matter in Living Systems**
+6. **Representation — When and Whether It Arises in Biological Systems**
+7. **Meaning in Biology — An APS Clarification**
+8. **Mind, Selfhood, and Reflective Agency**
 
 ### For Readers Interested in Diagnosis and Empirical Application
 
