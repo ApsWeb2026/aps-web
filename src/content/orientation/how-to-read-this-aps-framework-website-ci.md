@@ -6,14 +6,11 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-09-14
+revised: 2026-09-15
 cluster: conceptual-foundations
 abstract: >
   This page explains how APS_WEB is organised and provides recommended
-  pathways through the APS framework. APS is presented not as a collection
-  of standalone essays, but as an interconnected conceptual, methodological,
-  and research corpus organised around its canonical concepts, questions,
-  and domain-specific programmes.
+  pathways through the APS framework. APS is presented not as a collection of standalone essays, but as an interconnected research corpus organised around its comparative explanatory methodology, canonical concepts and questions, and domain-specific research programmes.
 relatedArticles:
   - aps-architecture-map
   - what-is-aps
@@ -47,7 +44,7 @@ relatedGlossaryTerms:
 
 ## Introduction
 
-APS is best approached not as a collection of isolated essays, but as an interconnected conceptual, methodological, and research framework organised around questions of viability-oriented organisation and organised persistence.
+APS is best approached not as a collection of isolated essays, but as an interconnected research corpus organised around a comparative explanatory methodology for biology, an account of viability-oriented living organisation, and the problem of organised persistence.
 
 As the framework has expanded, it has developed into a network of interconnected concepts, pathways, glossary entries, canonical articles, clarification pieces, diagnostic analyses, and domain-specific investigations. These materials are intended to be read in relation to one another rather than as entirely independent contributions. Understanding APS therefore involves understanding how the various parts of the framework relate within the wider corpus.
 
@@ -195,17 +192,27 @@ Recommended pathway:
 
 APS asks how evolutionary history transforms the structures, processes, and relations through which living systems maintain continuity. This framing does not redefine evolution as organised persistence or replace established evolutionary mechanisms and explanatory targets.
 
-## For Readers Interested in Cognition and Meaning
+### For Readers Interested in Cognition, Information, and Meaning
 
-APS investigates cognition in relation to Biological Evaluation, Significance, temporal organisation, integration, information, representation, and related questions.
+APS investigates cognition in relation to Biological Evaluation, Significance, Integration, temporal organisation, and viability-relevant possibilities, while treating semiosis, information, representation, mind, and meaning as related but distinguishable explanatory questions.
 
-Readers interested in cognition, information, meaning, semiosis, representation, intelligence, and consciousness may begin with:
+Readers interested in this domain may begin with:
 
-- glossary entries on evaluation, semiosis, meaning, information, representation, cognition, intelligence, and consciousness;
-- articles on cognition and biological organisation;
-- clarification articles addressing intelligence, computation, and artificial systems.
+- glossary and article material on Biological Evaluation and Biological Significance;
 
-This reading pathway introduces these concepts in an order intended to clarify their proposed relationships. The sequence should not itself be taken as evidence for a biological dependency, developmental progression, or attribution of cognition.
+- **Cognition — Where Does It Belong in Biology?** and related cognition articles;
+
+- **Information in Biology — An APS Clarification**;
+
+- **Semiosis — How Differences Come to Matter in Living Systems**;
+
+- **Representation — When and Whether It Arises in Biological Systems**;
+
+- **Meaning in Biology — An APS Clarification**;
+
+- and subsequent material concerning Mind, Selfhood, Reflective Agency, and Meaning.
+
+This is a reading pathway rather than a biological sequence. APS does not treat semiosis, information, meaning, or representation as compulsory intermediate stages between Biological Evaluation and cognition. Proposed dependencies within the cognition-and-mind research programme retain their proposition-specific evidential status and require independent assessment.
 
 ## For Readers Interested in Diagnosis and Life Detection
 
@@ -232,9 +239,13 @@ Readers interested in social continuity, norms, collective persistence, social c
 
 These investigations examine how individual evaluative organisation may relate to collective and social organisation while preserving distinctions among organismal agency, social organisation, and wider systems. Participation by living agents in a larger system does not by itself establish that the larger system possesses biological agency or viability-oriented, constraint-closed organisation.
 
-## Clarification Pathways
+## Distinction and Comparative Pathways
 
-Several APS articles are designed specifically to clarify how the framework relates to neighbouring theoretical traditions.
+APS contains several kinds of articles that clarify conceptual boundaries and relations to neighbouring explanatory approaches. Their functions should not be conflated.
+
+**Life Demarcation** articles ask why a particular property, process, formalism, or capacity is insufficient by itself to constitute or define living organisation. **APS Identity and Clarification** articles address characterisations that would misidentify APS or clarify particular APS commitments. **Comparative Explanatory Approaches** articles examine relations between APS and developed neighbouring approaches where sufficiently matched explanatory targets permit substantive comparison.
+
+These articles do not treat conceptual difference as evidence of explanatory superiority. Non-identity, conceptual clarification, and comparative assessment perform different explanatory functions, and claims of additional explanatory gain require target-matched comparison.
 
 These articles should not be understood as dismissals of alternative approaches. APS draws from and engages with systems theory, autonomy theory, process philosophy, evolutionary biology, ecology, cognitive science, and related traditions. The purpose of clarification articles is to examine where APS converges with existing approaches, where it differs from them, and how APS uses viability-oriented organisation and organised persistence in framing particular biological questions.
 
@@ -282,7 +293,7 @@ Readers interested in broader theoretical implications should continue with:
 
 ## Key Point
 
-APS is most effectively approached as an interconnected conceptual, methodological, and research framework rather than as a collection of standalone essays.
+APS is most effectively approached as an interconnected research corpus organised around a comparative explanatory methodology for biology rather than as a collection of standalone essays.
 
 Orientation pages introduce the framework and provide navigation. Glossary entries maintain canonical terminology, distinctions, and documented conceptual relationships. Canonical articles develop particular concepts, arguments, methodological questions, and applications. Clarification articles situate APS relative to neighbouring approaches. Developmental, ecological, evolutionary, cognitive, diagnostic, and social pathways guide readers into more specialised programmes.
 
