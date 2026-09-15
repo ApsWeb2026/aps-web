@@ -96,11 +96,9 @@ These are philosophical questions, but their presence does not make biology an a
 
 APS approaches this relationship from the biological side. It begins with living organisation and asks how biological phenomena can be specified, compared and explained. Its philosophical commitments arise from that explanatory programme rather than functioning as premises from which the biology is deduced.
 
-This distinction is fundamental.
+This distinction is fundamental because philosophical analysis can clarify concepts, identify assumptions, distinguish kinds of dependency, and expose cases in which apparently competing explanations address different explananda. It can ask what must be true if organisational relations are to have explanatory significance, or what is implied by treating function and normativity as features of living organisation.
 
-Philosophical analysis can clarify concepts, identify assumptions, distinguish kinds of dependency, and expose cases in which apparently competing explanations address different explananda. It can ask what must be true if organisational relations are to have explanatory significance, or what is implied by treating function and normativity as features of living organisation.
-
-But philosophical coherence does not establish biological warrant. A proposed biological dependency still requires appropriate material and empirical support. A conceptually integrated framework is not thereby a better biological explanation. Explanatory gain must be assessed relative to a specified explanandum and relevant comparator.
+Such clarification nevertheless has limits. Philosophical coherence does not establish biological warrant. A proposed biological dependency still requires appropriate material and empirical support, and a conceptually integrated framework is not thereby a better biological explanation. Explanatory gain must be assessed relative to a specified explanandum and relevant comparator.
 
 The philosophical foundations of APS should therefore be understood as the commitments and questions implicated by its biological and methodological programme—not as an independent philosophical system standing behind that programme.
 
@@ -307,13 +305,9 @@ Mechanistic explanations may specify organised components and activities through
 
 This diversity does not imply that biological explanation lacks discipline. Nor does it establish that every explanatory approach is equally appropriate.
 
-Different explanations can address different explananda.
+Different explanations can address different explananda. A mechanistic explanation of how a process operates need not compete with an evolutionary explanation of how the relevant organisation arose, while a developmental explanation and a functional explanation may concern the same biological feature while answering different questions about it.
 
-A mechanistic explanation of how a process operates need not compete with an evolutionary explanation of how the relevant organisation arose. A developmental explanation and a functional explanation may concern the same biological feature while answering different questions about it.
-
-For this reason APS rejects comparisons based merely upon explanatory vocabulary. Two approaches cannot be ranked simply because one speaks of mechanisms and another of organisation, or because one invokes history and another present activity.
-
-A meaningful comparison first requires a sufficiently matched explanatory target.
+For this reason, APS rejects comparisons based merely upon explanatory vocabulary. Two approaches cannot be ranked simply because one speaks of mechanisms and another of organisation, or because one invokes history and another present activity. Meaningful comparison first requires a sufficiently matched explanatory target.
 
 APS therefore adopts a constrained explanatory pluralism. The constraint does not come from requiring every explanation to instantiate a predetermined APS grammar. It comes from specifying what is being explained, which dependencies are proposed, how those dependencies are materially realised, what evidence supports them, and what relevant alternative explanations already achieve.
 
@@ -362,9 +356,7 @@ APS represents the research architecture as:
 
 The sequence is not a hierarchy, chronology, universal developmental trajectory or simple causal chain.
 
-Nor do the arrows establish the dependencies they represent.
-
-They organise a research programme.
+The sequence is not a hierarchy, chronology, universal developmental trajectory or simple causal chain. Nor do the arrows establish the dependencies they represent; rather, they organise a research programme.
 
 Different relations within the architecture may involve different kinds of dependency, and those relations must be distinguished rather than subsumed under a single architectural notion. A conceptual dependency is not automatically a causal dependency. An explanatory dependency is not automatically an evolutionary sequence. A developmental prerequisite is not established merely because one concept appears earlier in the diagram.
 
@@ -535,27 +527,13 @@ That capacity for discrimination is methodologically important. APS should not b
 
 ## Conclusion
 
-APS begins with biology.
+APS begins with biology. Its central concern is living organisation: how systems actively maintain and re-establish the conditions of their own persistence, how that organisation changes through time, and how biological explanations can be compared in relation to the phenomena and dependencies they seek to explain.
 
-Its central concern is living organisation: how systems actively maintain and re-establish the conditions of their own persistence, how that organisation changes through time, and how biological explanations can be compared in relation to the phenomena and dependencies they seek to explain.
+Those concerns have philosophical consequences. They raise questions about what kind of reality organisation possesses, how biological normativity can be naturalised, what function and purpose mean in living systems, how continuity can coexist with transformation, and how increasingly complex forms of cognition and meaning might relate to more basic forms of biological organisation.
 
-Those concerns have philosophical consequences.
+The philosophical foundations of APS clarify those commitments and questions. They do not supply an independent philosophical system from which biological conclusions follow, nor does their coherence establish the explanatory superiority of APS. Agency, Process and Scale remain analytic projections of one viability-oriented, constraint-closed organisation. Organised persistence identifies the problem of continuity through change rather than a second definition of Life. The wider architecture from Life toward Meaning organises research questions and proposed dependencies whose standing must be established individually.
 
-They raise questions about what kind of reality organisation possesses, how biological normativity can be naturalised, what function and purpose mean in living systems, how continuity can coexist with transformation, and how increasingly complex forms of cognition and meaning might relate to more basic forms of biological organisation.
-
-The philosophical foundations of APS clarify those commitments and questions. They do not supply an independent philosophical system from which biological conclusions follow.
-
-Nor does their coherence establish the explanatory superiority of APS.
-
-Agency, Process and Scale remain analytic projections of one viability-oriented, constraint-closed organisation. Organised persistence identifies the problem of continuity through change rather than a second definition of Life. The wider architecture from Life toward Meaning organises research questions and proposed dependencies whose standing must be established individually.
-
-The resulting relationship between biology and philosophy is therefore neither reduction nor philosophical governance.
-
-Biological inquiry supplies the phenomena, material organisation and empirical constraints. Methodological analysis clarifies explananda, dependencies, comparators and standards of explanatory gain. Philosophical analysis makes explicit the conceptual and ontological commitments involved and tests their coherence and implications.
-
-Each contributes something different.
-
-APS brings those tasks into relation while keeping their evidential responsibilities distinct.
+The resulting relationship between biology and philosophy is therefore neither reduction nor philosophical governance. Biological inquiry supplies the phenomena, material organisation and empirical constraints; methodological analysis clarifies explananda, dependencies, comparators and standards of explanatory gain; and philosophical analysis makes explicit the conceptual and ontological commitments involved and tests their coherence and implications. Each contributes something different, and APS brings those tasks into relation while keeping their evidential responsibilities distinct.
 
 Its philosophical significance will therefore depend not on presenting an all-encompassing philosophy of biology, but on whether its commitments help biological explanations become more precise, comparable and empirically assessable.
 
