@@ -55,9 +55,7 @@ references:
   - nicholson-dupre-2018-everything-flows
 ---
 
-# Why Use APS If Biology Already Has the Concepts?
-
-## 1. A reasonable question
+## 1. Introduction - A reasonable question
 
 Biology already has a rich explanatory vocabulary. Biologists investigate regulation, function, information, signalling, adaptation, development, cognition, ecological interaction and biological organisation. Mechanistic approaches explain how organised entities and activities produce changes. Organisational approaches examine autonomy, self-maintenance, constraint closure and biological function. Processual approaches emphasise turnover, transformation and continuity through change. Work on adaptivity and sense-making addresses the ways in which conditions can matter differently to living systems. APS does not need to deny any of this. These are substantial and established areas of biological and philosophical research (Di Paolo 2005; Mossio, Saborido, and Moreno 2009; Moreno and Mossio 2015; Nicholson and Dupré 2018).
 
@@ -140,6 +138,17 @@ The question *What does APS add?* becomes clearer if four possibilities are dist
 **Methodological contribution** is stronger. Here an APS distinction changes how an explanatory problem is formulated or tested. It may sharpen the explanandum—the phenomenon or question being explained—expose a relevant dependency, identify a boundary requiring empirical discrimination, clarify which comparison is appropriate, or specify what result would count against the proposed explanation.
 
 **Substantive explanatory gain** requires an additional warranted explanatory capacity relative to an appropriate existing explanation of the same target. Novelty, breadth, integration or usefulness alone do not establish such gain. A target-relevant difference must make an explanatory difference. APS therefore treats explanatory gain as bounded by the specified target and comparator rather than as a framework-wide property.
+
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/why-aps.png"
+    alt="Four possible contributions of APS to biological explanation: terminological equivalence, conceptual clarification, methodological contribution, and substantive explanatory gain."
+  />
+  <p class="diagram-caption">
+    <strong>Four possible contributions of APS to biological explanation.</strong>
+    Different terminology may correspond to existing explanatory work, while conceptual clarification and methodological contribution need not amount to substantive explanatory gain. Substantive gain requires an additional warranted explanatory capacity relative to the strongest appropriate comparator.
+  </p>
+</div>
 
 These four possibilities are not stages through which every APS analysis must progress. There is no ladder running from new terminology to conceptual clarification to methodology and finally to substantive gain.
 
