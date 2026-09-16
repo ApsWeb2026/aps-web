@@ -4861,3 +4861,15 @@ references:
     status: verified
     authority: Journal of Consciousness Studies / author publication record
     verifiedDate: 2026-09-12
+- id: spencer-2025-biological-agency-context-plant-cognition
+  type: preprint
+  authors: Spencer, R. D.
+  year: 2025
+  title: Biological Agency as the Context for Plant Cognition
+  repository: Zenodo
+  doi: 10.5281/zenodo.16938193
+  url: https://doi.org/10.5281/zenodo.16938193
+  verification:
+    status: verified
+    authority: Zenodo
+    verifiedDate: 2026-09-17
