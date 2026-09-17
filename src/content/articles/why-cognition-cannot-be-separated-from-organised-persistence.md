@@ -148,9 +148,9 @@ Beyond Cognition, the wider APS architecture may extend to Mind, Selfhood, Refle
 The wider continuity structure therefore situates cognition between the pre-cognitive dependencies that make cognitive organisation biologically possible and the further forms of organisation that may depend upon cognition, while preserving substantive attribution boundaries in both directions.
 
 <div class="aps-diagram">
-  <a href="/images/cognition-persistence.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/cognition-persistence.png" target="_blank" rel="noopener">
     <img
-      src="/images/cognition-persistence.png"
+      src="/assets/diagrams/cognition-persistence.png"
       alt="APS explanatory dependency architecture situating cognition within organised persistence, from Biological Agency through Biological Evaluation, Significance, and Integration to a guarded transition to Cognition"
       loading="lazy"
     />
