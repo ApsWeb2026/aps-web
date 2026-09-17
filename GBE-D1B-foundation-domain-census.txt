@@ -1,0 +1,2519 @@
+APS-GENERAL-BIOLOGICAL-EXPLANATION-001
+GBE-D1B � Tier 4-5 Targeted Recovery
+Generated: 2026-09-17 18:48:50
+
+================================================================
+MATCH: organised persistence, agency
+FILE: src\content\articles\agency-and-organised-persistence.md
+date: 2026-06-14
+title: Agency and Organised Persistence
+slug: agency-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-06-14
+revised: 2026-09-09
+role: extension
+
+================================================================
+MATCH: life, agency
+FILE: src\content\articles\agency-as-the-defining-activity-of-life.md
+date: 2026-04-08
+title: Agency as the Defining Activity of Life
+slug: agency-as-the-defining-activity-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-04-08
+revised: 2026-09-09
+role: clarification
+
+================================================================
+MATCH: agency, evolution
+FILE: src\content\articles\agency-evolution-and-the-architecture-of-biological-explanation.md
+date: 2026-04-09
+title: "Agency, Evolution, and the Architecture of Biological Explanation"
+slug: biological-agency-evolution-and-the-architecture-of-biological-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-09
+role: extension
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\agency-in-contemporary-biology-ci.md
+date: 2026-06-13
+title: "Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework"
+slug: agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework
+type: article
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-09-09
+role: synthesis
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\agency-without-intentions-cib.md
+date: 2026-04-03
+title: Agency Without Intentions
+slug: biological-agency-without-intentions
+type: article
+status: canonical
+canonicalLockDate: 2026-05-03
+revised: 2026-09-09
+role: clarification
+
+================================================================
+MATCH: viability, organised persistence, constraint closure
+FILE: src\content\articles\aps-and-autonomy-theory-cib.md
+date: 2026-04-27
+title: APS and Autonomy Theory — Constraint Closure, Viability, and Organised Persistence
+slug: aps-and-autonomy-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\articles\aps-and-biosemiotics.md
+title: "APS and Biosemiotics: Meaning, Significance, and Biological Organisation"
+slug: aps-and-biosemiotics
+date: 2026-08-07
+type: article
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-08-10
+role: synthesis
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\aps-and-culture-ci.md
+date: 2026-04-09
+title: "APS and Culture: How Social Systems Extend Organised Persistence Across Time"
+slug: aps-and-culture
+type: article
+status: evolving
+revised: 2026-07-28
+
+================================================================
+MATCH: viability, scale
+FILE: src\content\articles\aps-and-economics.md
+date: 2026-04-09
+title: "APS and Economics: How Economic Systems Organise Viability Across Scales"
+slug: aps-and-economics
+type: article
+status: evolving
+revised: 2026-07-28
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\aps-and-institutions.md
+date: 2026-04-09
+title: "APS and Institutions: How Social Systems Stabilise Organised Persistence"
+slug: aps-and-institutions
+type: article
+status: canonical
+canonicalLockDate: 2026-05-30
+revised: 2026-06-15
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\aps-and-norms-ci.md
+date: 2026-04-09
+title: "APS and Norms: How Social Systems Regulate Organised Persistence"
+slug: aps-and-norms
+type: article
+status: canonical
+canonicalLockDate: 2026-05-30
+revised: 2026-06-15
+
+================================================================
+MATCH: life
+FILE: src\content\articles\aps-and-the-edges-of-life-ci.md
+date: 2026-05-15
+title: "APS and the Edges of Life — Why Borderline Cases Are Expected, Not Problematic"
+slug: aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-09-07
+role: synthesis
+
+================================================================
+MATCH: evolution
+FILE: src\content\articles\aps-and-the-extended-evolutionary-synthesis.md
+date: 2026-04-27
+title: "APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison"
+slug: aps-and-the-extended-evolutionary-synthesis
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-09-14
+
+================================================================
+MATCH: viability, scale
+FILE: src\content\articles\aps-and-the-social-sciences.md
+date: 2026-04-09
+title: "APS and the Social Sciences: How Social Systems Organise Viability Across Scales"
+slug: aps-and-the-social-sciences
+type: article
+status: evolving
+revised: 2026-07-28
+
+================================================================
+MATCH: viability
+FILE: src\content\articles\aps-diagnotics-empirical-tractability.md
+date: 2026-04-27
+title: APS Diagnostics — How Viability-Oriented Organisation Becomes Empirically Testable
+slug: aps-diagnostics-empirical-tractability
+type: article
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-06-15
+
+================================================================
+MATCH: cognition
+FILE: src\content\articles\aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems.md
+date: 2026-04-27
+title: "APS_MC — Meaning Without Neurons: Distributed Cognition in Living Systems"
+slug: "aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems"
+type: article
+status: "canonical"
+revised: "2026-04-03"
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\biological-agency-as-the-activity-of-self-maintenance.md
+title: Biological Agency as the Activity of Self-Maintenance
+slug: biological-agency-as-the-activity-of-self-maintenance
+type: article
+status: canonical
+canonicalLockDate: 2026-06-14
+date: 2026-06-14
+revised: 2026-09-17
+role: anchor
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\biological-causation-from-mechanism-to-organised-persistence.md
+date: 2026-04-09
+title: Biological Causation — From Mechanism to Organised Persistence
+slug: biological-causation-from-mechanism-to-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-08-19
+role: extension
+
+================================================================
+MATCH: process
+FILE: src\content\articles\biological-classification-in-aps-ci.md
+date: 2026-04-15
+title: Biological Classification in APS — From Categories to Processual Organisation
+slug: biological-classification-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-12
+revised: 2026-06-15
+
+================================================================
+MATCH: life
+FILE: src\content\articles\biological-evidence-what-counts-as-evidence-for-life.md
+date: 2026-04-09
+title: "Biological Evidence — What Counts as Evidence for Life"
+slug: "biological-evidence-what-counts-as-evidence-for-life"
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-06-15
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\biological-explanation-and-organised-persistence-ci.md
+date: 2026-05-27
+title: "Biological Explanation and Organised Persistence"
+slug: biological-explanation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-09-14
+role: core
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\biological-individuality-organised-persistence-through-time.md
+date: 2026-05-28
+title: "Biological Individuality — Organised Persistence Through Time"
+slug: biological-individuality-organised-persistence-through-time
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\articles\biological-organisation-how-living-systems-sustain-themselves.md
+date: 2026-08-23
+title: "Biological Organisation — How Living Systems Sustain Themselves"
+slug: biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-08-23
+revised: 2026-09-03
+role: core
+
+================================================================
+MATCH: life
+FILE: src\content\articles\biology-what-the-science-of-life-explains.md
+date: 2026-04-14
+title: Biology — What the Science of Life Explains
+slug: biology
+type: article
+status: canonical
+canonicalLockDate: 2026-04-14
+revised: 2026-08-27
+
+================================================================
+MATCH: life
+FILE: src\content\articles\boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems.md
+date: 2026-06-10
+title: "The Boundaries of Life: How APS Approaches Living, Artificial, and Borderline Systems"
+slug: boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems
+type: article
+status: canonical
+canonicalLockDate: 2026-06-10
+revised: 2026-09-07
+role: anchor
+
+================================================================
+MATCH: life, cognition
+FILE: src\content\articles\cognition-from-life-to-mind-continuity-without-mentalism-ci.md
+date: 2026-04-27
+title: "Cognition — From Life to Mind: Continuity Without Mentalism"
+slug: cognition-from-life-to-mind-continuity-without-mentalism
+type: article
+status: canonical
+canonicalLockDate: 2026-09-11
+revised: 2026-09-11
+role: synthesis
+
+================================================================
+MATCH: cognition
+FILE: src\content\articles\cognition-where-does-it-belong-in-biology.md
+date: 2026-09-12
+title: "Cognition — Where Does It Belong in Biology?"
+slug: cognition-where-does-it-belong-in-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-09-12
+revised: 2026-09-12
+role: anchor
+
+================================================================
+MATCH: constraint closure
+FILE: src\content\articles\constraint-closure-what-it-does-and-does-not-do.md
+date: 2026-04-09
+title: "Constraint Closure — What It Does and What It Does Not Do"
+slug: constraint-closure-what-it-does-and-does-not-do
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-08
+role: core
+
+================================================================
+MATCH: life
+FILE: src\content\articles\continuity-architecture-of-life-ci.md
+date: 2026-06-01
+title: "The Continuity Architecture of Life"
+slug: continuity-architecture-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-28
+role: synthesis
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\articles\continuity-structure-of-biological-organisation-ci.md
+date: 2026-05-17
+title: "The Continuity Structure of Biological Organisation"
+slug: continuity-structure-of-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+role: synthesis
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\articles\cross-culture-biology.md
+date: 2026-07-22
+title: "Biological Organisation and the Organisation of Explanation: Why APS Resonates Across Intellectual Traditions"
+slug: biological-organisation-and-the-organisation-of-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-07-22
+revised: 2026-08-18
+role: synthesis
+
+================================================================
+MATCH: life
+FILE: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+date: 2026-05-07
+title: Definition and Diagnosis in APS — Why Life Is Evaluated Rather Than Merely Classified
+slug: definition-and-diagnosis-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-05-07
+revised: 2026-08-03
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\development-and-biological-individuality.md
+date: 2026-05-26
+title: "Development and Biological Individuality"
+slug: development-and-biological-individuality
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: cognition, development
+FILE: src\content\articles\development-and-cognition.md
+date: 2026-05-26
+title: "Development and cognition"
+slug: development-and-cognition
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: development
+FILE: src\content\articles\development-and-ecological-organisation.md
+date: 2026-05-26
+title: "Development and Ecological Organisation"
+slug: development-and-ecological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: evolution, development
+FILE: src\content\articles\development-and-evolution.md
+date: 2026-05-26
+title: "Development and evolution"
+slug: development-and-evolution
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-22
+role: synthesis
+
+================================================================
+MATCH: evolution, development
+FILE: src\content\articles\development-and-evolutionary-explanation.md
+date: 2026-05-26
+title: "Development and Evolutionary Explanation"
+slug: development-and-evolutionary-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: development
+FILE: src\content\articles\development-and-social-organisation.md
+date: 2026-05-26
+title: "Development and Social Organisation"
+slug: development-and-social-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: organised persistence, development
+FILE: src\content\articles\development-as-organised-persistence.md
+date: 2026-05-26
+title: "Development as Organised Persistence"
+slug: development-as-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: anchor
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-canalisation.md
+date: 2026-05-26
+title: "Developmental Canalisation"
+slug: developmental-canalisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-fragility.md
+date: 2026-05-27
+title: "Developmental Fragility"
+slug: developmental-fragility
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-inheritance.md
+date: 2026-05-26
+title: "Developmental Inheritance"
+slug: developmental-inheritance
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-integration.md
+date: 2026-05-26
+title: "Developmental Integration"
+slug: developmental-integration
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-niches.md
+date: 2026-05-26
+title: "Developmental Niches"
+slug: developmental-niches
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: organised persistence, development
+FILE: src\content\articles\developmental-organisation-and-organised-persistence.md
+date: 2026-05-15
+title: "Developmental Organisation and Organised Persistence"
+slug: developmental-organisation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-20
+revised: 2026-07-09
+role: synthesis
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-plasticity-and-organised-persistence.md
+date: 2026-05-15
+title: "Developmental Plasticity"
+slug: developmental-plasticity
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-regulation.md
+date: 2026-05-26
+title: "Developmental Regulation"
+slug: developmental-regulation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-resilience.md
+date: 2026-05-26
+title: "Developmental Resilience"
+slug: developmental-resilience
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-scaffolding.md
+date: 2026-05-26
+title: "Developmental Scaffolding"
+slug: developmental-scaffolding
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\developmental-temporality.md
+date: 2026-05-28
+title: "Developmental Temporality"
+slug: developmental-temporality
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: life, agency
+FILE: src\content\articles\diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life.md
+date: 2026-06-13
+title: Diagnosing Agency — Biosignatures, Perturbations, and the Empirical Tractability of Life
+slug: diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-15
+role: synthesis
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\ecological-organisation-and-organised-persistence-ci.md
+date: 2026-05-15
+title: "Ecological Organisation and Organised Persistence"
+slug: ecological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-09-09
+role: core
+
+================================================================
+MATCH: organised persistence, scale, ecology
+FILE: src\content\articles\ecology-as-organised-persistence-across-scale.md
+date: 2026-05-28
+title: "Ecology as Organised Persistence Across Scales"
+slug: ecology-as-organised-persistence-across-scales
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-09
+role: anchor
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\environment-coupling-and-agency-why-organisms-and-surroundings-co-produce-each-other-ci.md
+date: 2026-04-16
+title: "Environment, Coupling, and Agency — How Biological Agency Operates Through Ecological Relations"
+slug: environment-coupling-and-biological-agency
+type: article
+status: canonical
+canonicalLockDate: 2026-04-16
+revised: 2026-06-25
+role: clarification
+
+================================================================
+MATCH: viability
+FILE: src\content\articles\evaluation-how-living-systems-modulate-activity-relative-to-viability.md
+date: 2026-05-15
+title: "Evaluation â€” How Living Systems Modulate Activity Relative to Viability"
+slug: evaluation-how-living-systems-modulate-activity-relative-to-viability
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+
+================================================================
+MATCH: organised persistence, evolution
+FILE: src\content\articles\evolution-as-the-historical-transformation-of-organised-persistence-ci.md
+date: 2026-05-28
+title: "Evolution as the Historical Transformation of Organised Persistence"
+slug:  evolution
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-20
+role: anchor
+
+================================================================
+MATCH: evolution
+FILE: src\content\articles\evolution-taxonomy-and-the-reorganisation-of-biological-explanation.md
+title: Evolution, Taxonomy, and the Reorganisation of Biological Explanation
+slug: evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+date: 2026-06-20
+type: article
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-09-09
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\fitness-differential-continuity-and-organised-persistence.md
+date: 2026-06-18
+title: Fitness — Differential Continuity and Organised Persistence
+slug: fitness-differential-continuity-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-06-18
+revised: 2026-06-22
+
+================================================================
+MATCH: life
+FILE: src\content\articles\from-life-to-explanation-emerging-architecture.md
+date: 2026-04-18
+title: From Life to Explanation — The Explanatory Architecture of APS
+slug: from-life-to-explanation-emerging-architecture
+type: article
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-09-17
+role: synthesis
+
+================================================================
+MATCH: viability, normativity
+FILE: src\content\articles\from-viability-to-normativity.md
+date: 2026-06-04
+title: "From Viability to Normativity"
+slug: from-viability-to-normativity
+type: article
+status: canonical
+canonicalLockDate: 2026-06-04
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: biological organisation, function, normativity
+FILE: src\content\articles\function-and-normativity-why-biological-organisation-matters.md
+date: 2026-05-28
+title: Function and Normativity â€” Why Biological Organisation Matters
+slug: function-and-normativity-why-biological-organisation-matters
+type: article
+status: canonical
+canonicalLockDate: 2026-07-24
+revised: 2026-08-21
+role: core
+
+================================================================
+MATCH: function
+FILE: src\content\articles\function-how-living-systems-make-persistence-operational-ci.md
+date: 2026-07-25
+title: "Function as Operational Organisation"
+slug: function-as-operational-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-07-25
+revised: 2026-09-10
+role: core
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\history-as-organised-persistence-ci.md
+date: 2026-04-16
+title: History as Organised Persistence - What APS Clarifies About Historical Explanation
+slug: history-as-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-04-16
+revised: 2026-06-15
+
+================================================================
+MATCH: cognition
+FILE: src\content\articles\how-did-cognition-become-a-biological-problem.md
+date: 2026-09-12
+title: "How Did Cognition Become a Biological Problem?"
+slug: how-did-cognition-become-a-biological-problem
+type: article
+status: canonical
+canonicalLockDate: 2026-09-12
+revised: 2026-09-12
+role: synthesis
+
+================================================================
+MATCH: life
+FILE: src\content\articles\is-all-life-sentient-an-aps-response.md
+date: 2026-04-05
+title: "Is All Life Sentient? An APS Response"
+slug: "is-all-life-sentient-an-aps-response"
+type: article
+status: canonical
+revised: 2026-04-05
+
+================================================================
+MATCH: evolution
+FILE: src\content\articles\is-evolution-random-ci.md
+date: 2026-06-22
+title: Is Evolution Random?
+slug: is-evolution-random
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-06-23
+role: extension
+
+================================================================
+MATCH: biological organisation, scale
+FILE: src\content\articles\levels-vs-scale-why-biological-organisation-is-not-hierarchical.md
+title: Levels vs Scale — Why Biological Organisation Is Not Hierarchical
+slug: levels-vs-scale-why-biological-organisation-is-not-hierarchical
+date: 2026-04-09
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-08
+role: clarification
+
+================================================================
+MATCH: life
+FILE: src\content\articles\life-cycles-and-organised-persistence.md
+date: 2026-05-26
+title: "Life Cycles"
+slug: life-cycles
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: life
+FILE: src\content\articles\life-detection-in-aps-biosignatures-organisation-and-evidence.md
+date: 2026-06-12
+title: "Life Detection in APS — Biosignatures, Organisation, and Evidence"
+slug: life-detection-in-aps-biosignatures-organisation-and-evidence
+type: article
+status: canonical
+canonicalLockDate: 2026-06-12
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: viability, function
+FILE: src\content\articles\malfunction-breakdown-and-death-ci.md
+date: 2026-05-07
+title: "Malfunction, Breakdown, and Death — Failure in Viability-Oriented Systems"
+slug: malfunction-breakdown-and-death
+type: article
+status: canonical
+canonicalLockDate: 2026-05-07
+revised: 2026-09-09
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\articles\multiple-realization-and-biological-organisation.md
+date: 2026-05-27
+title: "Multiple Realization and Biological Organisation — An APS Clarification"
+slug: multiple-realization-and-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: organised persistence, scale, evolution
+FILE: src\content\articles\multiscale-evolution-and-organised-persistence.md
+date: 2026-05-15
+title: Multiscale Evolution and Organised Persistence
+slug: multiscale-evolution-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-09-09
+role: extension
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\natural-selection-and-organised-persistence.md
+date: 2026-05-05
+title: Natural Selection and Organised Persistence
+slug: natural-selection-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-05
+revised: 2026-06-22
+role: core
+
+================================================================
+MATCH: life
+FILE: src\content\articles\naturalising-life-how-biological-concepts-become-scientifically-intelligible-ci.md
+title: Naturalising Life
+slug: naturalising-life
+type: article
+date: 2026-07-08
+revised: 2026-09-02
+status: canonical
+canonicalLockDate: 2026-07-08
+role: synthesis
+
+================================================================
+MATCH: normativity
+FILE: src\content\articles\normativity-gradient.md
+date: 2026-04-10
+title: The Normativity Gradient (NG)
+slug: normativity-gradient
+type: article
+status: canonical
+canonicalLockDate: 2026-04-10
+revised: 2026-06-15
+
+================================================================
+MATCH: normativity
+FILE: src\content\articles\normativity-in-biology-why-some-things-matter-to-living-systems.md
+date: 2026-04-08
+title: "Normativity in Biology — Why Some Things Matter to Living Systems"
+slug: "normativity-in-biology-why-some-things-matter-to-living-systems"
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: viability
+FILE: src\content\articles\organism-the-unity-of-viability-oriented-organisation.md
+date: 2026-04-10
+title: Organism — The Unity of Viability-Oriented Organisation
+slug: organism-the-unity-of-viability-oriented-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\organism-world-coupling-why-agency-is-not-control.md
+date: 2026-04-09
+title: Organism–World Coupling — Why Agency Is Not Control
+slug: organism-world-coupling-agency-not-control
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-06-25
+role: clarification
+
+================================================================
+MATCH: organised persistence, evolution
+FILE: src\content\articles\physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation-ci.md
+date: 2026-04-16
+title: "Physiology and Evolution in APS — Two Temporal Perspectives on Organised Persistence"
+slug: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-06-22
+role: synthesis
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\plant-agency-an-aps-perspective-ci.md
+date: 2026-06-26
+title: Plant Agency — An APS Perspective
+slug: plant-agency-an-aps-perspective
+type: article
+status: canonical
+canonicalLockDate: 2026-06-26
+revised: 2026-06-26
+role: core
+
+================================================================
+MATCH: agency, cognition, development
+FILE: src\content\articles\plant-cognition-and-the-development-of-aps.md
+date: 2026-09-17
+title: "Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation"
+slug: plant-cognition-and-the-development-of-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-09-17
+revised: 2026-09-17
+role: synthesis
+
+================================================================
+MATCH: cognition
+FILE: src\content\articles\plant-cognition-aps-interpretation.md
+date: 2026-05-04
+title: "Plant Cognition — A Critical Review and APS Interpretation"
+slug: plant-cognition-aps-interpretation
+type: article
+status: canonical
+canonicalLockDate: 2026-09-11
+revised: 2026-09-12
+role: core
+
+================================================================
+MATCH: living organisation, process
+FILE: src\content\articles\process-the-dynamics-of-living-organisation.md
+date: 2026-04-08
+title: "Process — The Dynamics of Living Organisation"
+slug: "process-the-dynamics-of-living-biological-organisation"
+type: article
+status: canonical
+revised: 2026-09-08
+role: core
+
+================================================================
+MATCH: process
+FILE: src\content\articles\processual-individuality.md
+date: 2026-05-27
+title: "Processual Individuality"
+slug: processual-individuality
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: extension
+
+================================================================
+MATCH: viability
+FILE: src\content\articles\purpose-the-organisation-of-viability-oriented-activity.md
+date: 2026-05-28
+title: Purpose — The Organisation of Viability-Oriented Activity
+slug: purpose-the-organisation-of-viability-oriented-activity
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-07-26
+role: core
+
+================================================================
+MATCH: ecology
+FILE: src\content\articles\resilience-ecology-and-continuity.md
+date: 2026-05-18
+title: "Resilience, Ecology, and Continuity"
+slug: resilience-ecology-and-continuity
+type: article
+status: canonical
+canonicalLockDate: 2026-05-20
+revised: 2026-06-25
+role: core
+
+================================================================
+MATCH: development
+FILE: src\content\articles\rethinking-development.md
+date: 2026-05-27
+title: "Rethinking Development"
+slug: rethinking-development
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+role: synthesis
+
+================================================================
+MATCH: life, scale
+FILE: src\content\articles\scale-how-life-is-coordinated-across-space-and-time.md
+date: 2026-04-09
+title: "Scale — How Life Is Coordinated Across Space and Time"
+slug: "scale-how-life-is-coordinated-across-space-and-time"
+type: article
+status: canonical
+revised: 2026-09-08
+role: core
+
+================================================================
+MATCH: life, scale
+FILE: src\content\articles\scale-time-persistence.md
+date: 2026-04-08
+title: "Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity"
+slug: "scale-time-persistence"
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-08
+role: synthesis
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\articles\temporal-organisation-and-organised-persistence.md
+date: 2026-05-15
+title: "Temporal Organisation and Organised Persistence"
+slug: temporal-organisation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-06-15
+role: core
+
+================================================================
+MATCH: life
+FILE: src\content\articles\the-cognitive-organisation-of-life.md
+date: 2026-06-01
+title: "The Cognitive Organisation of Life"
+slug: the-cognitive-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-09-11
+revised: 2026-09-11
+role: core
+
+================================================================
+MATCH: life, development
+FILE: src\content\articles\the-developmental-organisation-of-life.md
+date: 2026-05-27
+title: "The Developmental Organisation of Life"
+slug: the-developmental-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: life
+FILE: src\content\articles\the-ecological-organisation-of-life-ci.md
+date: 2026-06-01
+title: "The Ecological Organisation of Life"
+slug: the-ecological-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-24
+role: anchor
+
+================================================================
+MATCH: life, evolution
+FILE: src\content\articles\the-evolutionary-organisation-of-life-ci.md
+date: 2026-06-01
+title: "The Evolutionary Organisation of Life"
+slug: the-evolutionary-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-15
+role: synthesis
+
+================================================================
+MATCH: life
+FILE: src\content\articles\the-social-organisation-of-life-ci.md
+date: 2026-05-30
+title: The Social Organisation of Life
+slug: the-social-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-05-30
+revised: 2026-06-15
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\articles\time-and-biological-organisation.md
+date: 2026-06-26
+title: Time and Biological Organisation — An APS Perspective
+slug: time-and-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-06-26
+revised: 2026-07-01
+role: synthesis
+
+================================================================
+MATCH: viability
+FILE: src\content\articles\viability-gradient.md
+date: 2026-04-10
+title: The Viability Gradient (VG)
+slug: viability-gradient
+type: article
+status: canonical
+canonicalLockDate: 2026-04-10
+revised: 2026-06-15
+
+================================================================
+MATCH: viability
+FILE: src\content\articles\viability-the-organising-principle-of-biological-pesistence.md
+date: 2026-05-28
+title: "Viability — The Organising Principle of Biological Persistence"
+slug: viability-the-organising-principle-of-biological-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-07
+role: core
+
+================================================================
+MATCH: evolution
+FILE: src\content\articles\what-counts-as-evolutionary-explanation-ci.md
+date: 2026-05-15
+title: What Counts as an Evolutionary Explanation?
+slug: what-counts-as-an-evolutionary-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-06-22
+
+================================================================
+MATCH: organised persistence, agency
+FILE: src\content\articles\what-is-a-biological-system.md
+date: 2026-07-27
+title: What Is a Biological System? — Mechanisms, Agency, and Organised Persistence
+slug: what-is-a-biological-system
+type: article
+status: canonical
+canonicalLockDate: 2026-07-27
+revised: 2026-08-10
+role: core
+
+================================================================
+MATCH: evolution
+FILE: src\content\articles\what-is-evolution-in-aps.md
+date: 2026-04-11
+title: What Is Evolution in APS?
+slug: what-is-evolution-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-06-22
+role: core
+
+================================================================
+MATCH: life
+FILE: src\content\articles\what-is-it-about-life.md
+date: 2026-06-29
+title: What Is It About Life? — The Search for Life's Defining Principle
+slug: what-is-it-about-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-29
+revised: 2026-06-29
+role: synthesis
+
+================================================================
+MATCH: life
+FILE: src\content\articles\what-is-life-a-biological-question-revisited.md
+date: 2026-04-27
+title: What Is Life? — A Biological Question Revisited
+slug: what-is-life-a-biological-question-revisited
+type: article
+status: canonical
+canonicalLockDate: 2026-06-28
+revised: 2026-09-07
+role: anchor
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\what-is-reflective-agency.md
+title: What Is Reflective Agency?
+slug: what-is-reflective-agency
+date: 2026-07-06
+type: article
+status: canonical
+canonicalLockDate: 2026-07-06
+revised: 2026-07-06
+role: synthesis
+
+================================================================
+MATCH: life
+FILE: src\content\articles\what-is-the-fundamental-unit-of-life.md
+date: 2026-07-01
+title: What Is the Fundamental Unit of Life?
+slug: what-is-the-fundamental-unit-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-07-01
+revised: 2026-07-01
+role: synthesis
+
+================================================================
+MATCH: life
+FILE: src\content\articles\what-is-the-meaning-of-life.md
+date: 2026-07-01
+title: What Is the Meaning of Life?
+slug: what-is-the-meaning-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-07-02
+revised: 2026-07-02
+role: synthesis
+
+================================================================
+MATCH: agency
+FILE: src\content\articles\why-AI-is-not-biological-agency-cia.md
+date: 2026-05-14
+title: "Why AI Is Not Biological Agency"
+slug: why-ai-is-not-biological-agency
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+role: extension
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-aps.md
+date: 2026-07-28
+title: Why APS? Why Biology Still Needs an Organisational Framework for Life
+slug: why-aps
+type: orientation
+status: canonical
+canonicalLockDate: 2026-07-28
+revised: 2026-09-14
+role: anchor
+
+================================================================
+MATCH: organised persistence, cognition
+FILE: src\content\articles\why-cognition-cannot-be-separated-from-organised-persistence.md
+date: 2026-05-17
+title: "Why Cognition Cannot Be Separated from Organised Persistence"
+slug: why-cognition-cannot-be-separated-from-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-09-17
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-a-machine-ci.md
+date: 2026-05-28
+title: "Why Life Is Not a Machine — An APS Clarification"
+slug: why-life-is-not-a-machine
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+role: clarification
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-active-inference-ci.md
+date: 2026-05-29
+title: "Why Life Is Not Active Inference"
+slug: why-life-is-not-active-inference
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-autopoiesis.md
+date: 2026-04-27
+title: Why Life Is Not Autopoiesis
+slug: why-life-is-not-autopoiesis
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+role: clarification
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-computation-an-aps-clarification.md
+title: "Why Life Is Not Computation — An APS Clarification"
+slug: "why-life-is-not-computation-an-aps-clarification"
+type: article
+date: 2026-05-08
+revised: 2026-08-22
+status: canonical
+canonicalLockDate: 2026-05-08
+role: extension
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-control-theory.md
+date: 2026-05-15
+title: Why Life Is Not Control Theory
+slug: why-life-is-not-control-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-08-22
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-dnas-way-of-making-more-dna-ci.md
+date: 2026-04-11
+title: "Why Life Is Not DNA’s Way of Making More DNA"
+slug: why-life-is-not-dnas-way-of-making-more-dna
+type: article
+status: canonical
+canonicalLockDate: 2026-09-14
+revised: 2026-09-14
+role: clarification
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-enactivism-cic.md
+date: 2026-04-27
+title: Why Life Is Not Enactivism
+slug: why-life-is-not-enactivism
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+role: clarification
+
+================================================================
+MATCH: life, process
+FILE: src\content\articles\why-life-is-not-information-processing.md
+date: 2026-05-28
+type: article
+title: "Why Life Is Not Information Processing"
+slug: why-life-is-not-information-processing
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-14
+
+================================================================
+MATCH: life
+FILE: src\content\articles\why-life-is-not-intelligence-an-aps-clarification-ci.md
+date: 2026-05-07
+title: "Why Life Is Not Intelligence, An APS Clarification"
+slug: why-life-is-not-intelligence-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+role: clarification
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\agency-is-not-behaviour.md
+date: 2026-06-13
+title: APS Box — Agency Is Not Behaviour
+slug: agency-is-not-behaviour
+type: box
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+role: box
+
+================================================================
+MATCH: agency, scale
+FILE: src\content\boxes\aps-box-agency-cannot-be-located-at-a-single-scale.md
+title: Agency Cannot Be Located at a Single Scale
+slug: agency-cannot-be-located-at-a-single-scale
+type: box
+date: 2026-06-21
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-06-20
+
+================================================================
+MATCH: agency, cognition
+FILE: src\content\boxes\aps-box-agency-cognition-and-sentience-what-must-not-be-confused.md
+date: 2026-04-03
+title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
+slug: aps-box-agency-cognition-and-sentience-what-must-not-be-confused
+type: box
+status: canonical
+revised: 2026-09-17
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\aps-box-agency-is-activity-not-property.md
+title: APS Box — Agency Is Activity, Not Property
+slug: agency-is-activity-not-property
+type: box
+status: canonical
+canonicalLockDate: 2026-06-14
+date: 2026-06-14
+revised: 2026-09-09
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\aps-box-agency-is-not-intelligence.md
+date: 2026-06-13
+title: APS Box — Agency Is Not Intelligence
+slug: agency-is-not-intelligence
+type: box
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+
+================================================================
+MATCH: life
+FILE: src\content\boxes\aps-box-appearance-is-not-evidence-of-life.md
+title: Appearance Is Not Evidence of Life
+slug: appearance-is-not-evidence-of-life
+date: 2026-06-23
+type: box
+status: canonical
+canonicalLockDate: 2026-06-23
+revised: 2026-06-23
+
+================================================================
+MATCH: life
+FILE: src\content\boxes\aps-box-behaviour-is-not-enough-for-life.md
+date: 2026-04-09
+title: APS Box — Behaviour Is Not Enough for Life
+slug: aps-box-behaviour-is-not-enough-for-life
+type: box
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-04-09
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\boxes\aps-box-biological-organisation-not-explanatory-ladder.md
+date: 2026-08-27
+title: APS Box — Biological Organisation Is Not an Explanatory Ladder
+slug: biological-organisation-not-explanatory-ladder
+type: box
+status: canonical
+canonicalLockDate: 2026-08-27
+revised: 2026-08-27
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-cognition-is-not-regulation.md
+date: 2026-09-12
+title: APS Box — Cognition Is Not Regulation
+slug: cognition-is-not-regulation
+type: box
+status: canonical
+canonicalLockDate: 2026-09-12
+revised: 2026-09-12
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-cognition-pathway-ci.md
+title: Cognition Pathway
+slug: cognition-pathway
+type: box
+status: canonical
+canonicalLockDate: 2026-05-17
+date: 2026-05-17
+revised: 2026-09-17
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-consciousness-is-not-required-for-cognition.md
+title: Consciousness Is Not Required for Cognition
+date: 2026-06-22
+slug: consciousness-is-not-required-for-cognition
+type: box
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-09-17
+
+================================================================
+MATCH: constraint closure
+FILE: src\content\boxes\aps-box-dependency-and-constraint-closure.md
+date: 2026-07-13
+title: APS Box — Dependency and Constraint Closure
+slug: dependency-and-constraint-closure
+type: box
+status: canonical
+canonicalLockDate: 2026-07-13
+revised: 2026-08-14
+
+================================================================
+MATCH: normativity
+FILE: src\content\boxes\aps-box-evaluation-as-the-bridge-to-normativity.md
+date: 2026-06-04
+title: APS Box — Evaluation as the Bridge to Normativity
+slug: evaluation-as-the-bridge-to-normativity
+type: box
+status: canonical
+canonicalLockDate: 2026-06-04
+revised: 2026-06-04
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-evaluation-meaning-and-cognition.md
+date: 2026-07-04
+title: APS Box — Evaluation, Meaning, and Cognition
+slug: evaluation-meaning-and-cognition
+type: box
+status: canonical
+canonicalLockDate: 2026-07-04
+revised: 2026-07-04
+
+================================================================
+MATCH: evolution
+FILE: src\content\boxes\aps-box-evolution-explains-origins-not-organisation.md
+date: 2026-06-30
+title: APS Box — Evolution Explains Origins, Not Organisation
+slug: evolution-explains-origins-not-organisation
+type: box
+status: canonical
+canonicalLockDate: 2026-06-30
+revised: 2026-06-30
+
+================================================================
+MATCH: evolution
+FILE: src\content\boxes\aps-box-evolutionary-organisation-is-not-a-mechanism.md
+date: 2026-06-13
+title: APS Box — Evolutionary Organisation Is Not a Mechanism
+slug: evolutionary-organisation-is-not-a-mechanism
+type: box
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+
+================================================================
+MATCH: scale
+FILE: src\content\boxes\aps-box-integration-across-scales.md
+date: 2026-07-07
+title: APS Box — Integration Across Scales
+slug: integration-across-scales
+type: box
+status: canonical
+canonicalLockDate: 2026-07-07
+revised: 2026-07-07
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-meaning-cognition-mind-and-selfhood.md
+date: 2026-07-05
+title: APS Box — Meaning, Cognition, Mind, and Selfhood
+slug: meaning-cognition-mind-selfhood
+type: box
+status: canonical
+canonicalLockDate: 2026-07-05
+revised: 2026-07-05
+
+================================================================
+MATCH: normativity
+FILE: src\content\boxes\aps-box-normativity-without-mind.md
+date: 2026-04-27
+title: "APS Box — Normativity Without Mind"
+slug: aps-box-normativity-without-mind
+type: box
+status: "canonical"
+revised: "2026-04-21"
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\boxes\aps-box-organised-persistence-is-not-survival.md
+date: 2026-07-14
+title: APS Box — Organised Persistence Is Not Survival
+slug: organised-persistence-is-not-survival
+type: box
+status: canonical
+canonicalLockDate: 2026-07-14
+revised: 2026-07-14
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-plant-cognition-is-not-anthropomorphism.md
+date: 2026-07-14
+title: APS Box — Plant Cognition Is Not Anthropomorphism
+slug: plant-cognition-is-not-anthropomorphism
+type: box
+status: canonical
+canonicalLockDate: 2026-07-14
+revised: 2026-09-17
+
+================================================================
+MATCH: function, normativity
+FILE: src\content\boxes\aps-box-purpose-normativity-function.md
+date: 2026-04-14
+title: "APS Box — Purpose, Normativity, and Function"
+slug: "aps-box-purpose-normativity-function"
+type: box
+status: canonical
+revised: 2026-04-14
+
+================================================================
+MATCH: life
+FILE: src\content\boxes\aps-box-recognising-defining-and-explaining-life.md
+date: 2026-08-01
+title: APS Box — Recognising, Defining, and Explaining Life
+slug: recognising-defining-and-explaining-life
+type: box
+status: canonical
+canonicalLockDate: 2026-08-01
+revised: 2026-08-01
+
+================================================================
+MATCH: scale
+FILE: src\content\boxes\aps-box-scale-does-not-decide-moral-priority.md
+date: 2026-07-14
+title: Scale Does Not Decide Moral Priority
+slug: scale-does-not-decide-moral-priority
+type: box
+status: canonical
+canonicalLockDate: 2026-07-14
+revised: 2026-07-14
+
+================================================================
+MATCH: scale
+FILE: src\content\boxes\aps-box-scale-is-not-size.md
+title: Scale Is Not Size
+slug: scale-is-not-size
+date: 2026-06-21
+type: box
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-06-20
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\aps-box-self-awareness-and-reflective-agency-are-not-the-same.md
+date: 2026-07-06
+title: Self-Awareness and Reflective Agency Are Not the Same
+slug: self-awareness-and-reflective-agency-are-not-the-same
+type: box
+status: canonical
+canonicalLockDate: 2026-07-06
+revised: 2026-07-06
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\aps-box-signalling-does-not-create-agency.md
+date: 2026-06-26
+title: APS Box — Signalling Does Not Create Agency
+slug: signalling-does-not-create-agency
+type: box
+status: canonical
+canonicalLockDate: 2026-06-26
+revised: 2026-06-26
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-significance-is-not-cognition.md
+date: 2026-07-07
+title: APS Box — Significance Is Not Cognition
+slug: significance-is-not-cognition
+type: box
+status: canonical
+canonicalLockDate: 2026-07-07
+revised: 2026-07-07
+
+================================================================
+MATCH: evolution
+FILE: src\content\boxes\aps-box-structure-of-evolutionary-explanation.md
+date: 2026-04-15
+title: APS Box — The Structure of Evolutionary Explanation
+slug: structure-of-evolutionary-explanation
+type: box
+status: canonical
+canonicalLockDate: 2026-04-15
+revised: 2026-04-15
+
+================================================================
+MATCH: life
+FILE: src\content\boxes\aps-box-the-search-for-a-defining-principle-of-life.md
+date: 2026-06-29
+title: APS Box — The Search for a Defining Principle of Life
+slug: the-search-for-a-defining-principle-of-life
+type: box
+status: canonical
+canonicalLockDate: 2026-06-29
+revised: 2026-06-29
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\aps-box-viability-and-fitness.md
+date: 2026-06-18
+title: Viability and Fitness
+slug: viability-and-fitness
+type: box
+status: canonical
+revised: 2026-06-18
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\aps-box-viability-as-gradient-ci.md
+date: 2026-04-18
+title: APS Box — Viability as Gradient
+slug: viability-as-gradient
+type: box
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-04-18
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\aps-box-viability-is-not-mere-survival.md
+date: 2026-06-27
+title: APS Box — Viability Is Not Mere Survival
+slug: viability-is-not-mere-survival
+type: box
+status: canonical
+canonicalLockDate: 2026-06-27
+revised: 2026-09-07
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\aps-box-viability-is-not-moral-legitimacy.md
+date: 2026-07-14
+title: Viability Is Not Moral Legitimacy
+slug: viability-is-not-moral-legitimacy
+type: box
+status: canonical
+canonicalLockDate: 2026-07-14
+revised: 2026-07-14
+
+================================================================
+MATCH: viability, normativity
+FILE: src\content\boxes\aps-box-viability-is-not-yet-normativity.md
+date: 2026-06-04
+title: APS Box — Viability Is Not Yet Normativity
+slug: viability-is-not-yet-normativity
+type: box
+status: canonical
+canonicalLockDate: 2026-06-04
+revised: 2026-06-04
+
+================================================================
+MATCH: cognition
+FILE: src\content\boxes\aps-box-what-aps-means-by-cognition.md
+date: 2026-04-27
+title: "APS Box — What APS Means by Cognition"
+slug: "what-aps-means-by-cognition"
+type: box
+status: canonical
+canonicalLockDate: 2026-04-28
+revised: 2026-09-09
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\aps-box-why-agency.md
+date: 2026-06-13
+title: APS Box — Why the Published Paper Began with Agency
+slug: why-agency
+type: box
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-08-25
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\aps-box-why-aps-replaces-goals-with-viability-conditions.md
+date: 2026-04-03
+title: "APS Box — Why APS Replaces Goals with Viability Conditions"
+slug: aps-box-why-aps-replaces-goals-with-viability-conditions
+type: box
+status: canonical
+revised: 2026-04-03
+
+================================================================
+MATCH: constraint closure
+FILE: src\content\boxes\constraint-closure-and-self-maintenance.md
+title: "Constraint Closure and Self-Maintenance"
+slug: "constraint-closure-and-self-maintenance"
+type: box
+status: canonical
+canonicalLockDate: 2026-05-08
+date: 2026-05-08
+revised: 2026-05-08
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\boxes\culture-is-organised-persistence-beyond-individuals.md
+date: 2026-05-30
+title: APS Box — Culture Is Organised Persistence Beyond Individuals
+slug: aps-box-culture-is-organised-persistence-beyond-individuals
+type: box
+status: canonical
+canonicalLockDate: 2026-05-30
+revised: 2026-05-30
+
+================================================================
+MATCH: development
+FILE: src\content\boxes\development-is-not-genetic-execution.md
+date: 2026-05-26
+title: "APS Box — Development Is Not Genetic Execution"
+slug: development-is-not-genetic-execution
+type: box
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-05-26
+
+================================================================
+MATCH: development
+FILE: src\content\boxes\developmental-continuity-and-material-change.md
+date: 2026-05-28
+title: "APS Box — Developmental Continuity and Material Change"
+slug: developmental-continuity-and-material-change
+type: box
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-05-28
+
+================================================================
+MATCH: development
+FILE: src\content\boxes\developmental-fragility-reveals-organisation.md
+date: 2026-05-26
+title: "APS Box — Developmental Fragility Reveals Organisation"
+slug: developmental-fragility-reveals-organisation
+type: box
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-05-26
+
+================================================================
+MATCH: development
+FILE: src\content\boxes\developmental-stability-is-not-rigidity.md
+date: 2026-05-26
+title: "APS Box — Developmental Stability Is Not Rigidity"
+slug: developmental-stability-is-not-rigidity
+type: box
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-05-26
+
+================================================================
+MATCH: development
+FILE: src\content\boxes\developmental-time-is-not-clock-time.md
+date: 2026-05-28
+title: "APS Box — Developmental Time Is Not Clock Time"
+slug: developmental-time-is-not-clock-time
+type: box
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-05-28
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\evaluation-and-viability.md
+date: 2026-06-01
+title: APS Box — Evaluation and Viability
+slug: evaluation-and-viability
+type: box
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\from-viability-to-meaning.md
+date: 2026-04-02
+title: "APS Box — From Viability to Meaning"
+slug: from-viability-to-meaning
+type: box
+status: canonical
+revised: 2026-04-02
+
+================================================================
+MATCH: function, normativity
+FILE: src\content\boxes\function-and-normativity-in-biology.md
+title: "Function and Normativity in Biology"
+slug: "function-and-normativity-in-biology"
+type: box
+status: canonical
+canonicalLockDate: 2026-05-08
+date: 2026-05-08
+revised: 2026-05-08
+
+================================================================
+MATCH: viability, function
+FILE: src\content\boxes\function-is-contribution-to-viability.md
+date: 2026-05-29
+title: APS Box — Function Is Contribution to Viability
+slug: aps-box-function-is-contribution-to-viability
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-24
+
+================================================================
+MATCH: function
+FILE: src\content\boxes\function-is-not-purpose.md
+title: Function Is Not Purpose
+slug: function-is-not-purpose
+type: box
+status: canonical
+canonicalLockDate: 2026-05-07
+date: 2026-05-07
+revised: 2026-05-07
+
+================================================================
+MATCH: life
+FILE: src\content\boxes\life-does-not-encounter-a-neutral-world.md
+date: 2026-06-01
+title: APS Box — Life Does Not Encounter a Neutral World
+slug: life-does-not-encounter-a-neutral-world
+type: box
+status: canonical
+canonicalLockDate: 2026-09-11
+revised: 2026-09-11
+
+================================================================
+MATCH: life, process
+FILE: src\content\boxes\life-is-not-one-process.md
+date: 2026-06-01
+title: APS Box — Life Is Not One Process
+slug: life-is-not-one-process
+type: box
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\boxes\mechanism-within-organised-persistence.md
+date: 2026-05-29
+title: "APS Box — Mechanism Within Organised Persistence"
+slug: mechanism-within-organised-persistence
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-09
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\boxes\multiple-realization-and-oraganised-persistence.md
+date: 2026-05-16
+title: "APS Box — Multiple Realization and Organised Persistence"
+slug: multiple-realization-and-organised-persistence
+type: box
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-06-03
+
+================================================================
+MATCH: normativity
+FILE: src\content\boxes\normativity-is-endogenous.md
+date: 2026-05-29
+title: APS Box — Normativity Is Endogenous
+slug: aps-box-normativity-is-endogenous
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+
+================================================================
+MATCH: viability, agency
+FILE: src\content\boxes\organisation-agency-and-viability.md
+date: 2026-06-17
+title: APS Box — Organisation, Agency, and Viability
+slug: organisation-agency-and-viability
+type: box
+status: canonical
+canonicalLockDate: 2026-06-17
+revised: 2026-08-27
+
+================================================================
+MATCH: organised persistence, development
+FILE: src\content\boxes\organised-persistence-across-development.md
+date: 2026-05-26
+title: "APS Box — Organised Persistence Across Development"
+slug: organised-persistence-across-development
+type: box
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-05-26
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\boxes\organised-persistence-and-prediction.md
+date: 2026-05-29
+title: "APS Box — Organised Persistence and Prediction"
+slug: aps-box-organised-persistence-and-prediction
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+
+================================================================
+MATCH: development
+FILE: src\content\boxes\perturbation-reveals-developmental-organisation.md
+date: 2026-05-28
+title: "APS Box — Perturbation Reveals Developmental Organisation"
+slug: perturbation-reveals-developmental-organisation
+type: box
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-03
+
+================================================================
+MATCH: process
+FILE: src\content\boxes\processual-individuality-not-organismal-essence.md
+date: 2026-05-29
+title: "APS Box — Processual Individuality Is Not Organismic Essence"
+slug: processual-individuality-is-not-organismic-essence
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-05-29
+
+================================================================
+MATCH: function
+FILE: src\content\boxes\realization-is-organisational-not-merely-functional.md
+date: 2026-05-12
+title: "APS Box — Realization Is Organisational, Not Merely Functional"
+slug: realization-is-organisational-not-merely-functional
+type: box
+status: canonical
+canonicalLockDate: 2026-05-12
+revised: 2026-05-12
+
+================================================================
+MATCH: scale
+FILE: src\content\boxes\scale-is-not-hierarchy.md
+date: 2026-06-10
+title: "APS Box — Scale Is Not Hierarchy"
+slug: scale-is-not-hierarchy
+type: box
+status: canonical
+canonicalLockDate: 2026-06-10
+revised: 2026-09-09
+
+================================================================
+MATCH: evolution
+FILE: src\content\boxes\selection-is-not-the-whole-of-evolution.md
+date: 2026-06-01
+title: APS Box — Selection Is Not the Whole of Evolution
+slug: selection-is-not-the-whole-of-evolution
+type: box
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+
+================================================================
+MATCH: scale
+FILE: src\content\boxes\spatiotemporal-organisation-and-scale-ci.md
+title: Spatiotemporal Organisation and Scale
+slug: spatiotemporal-organisation-and-scale
+type: box
+status: canonical
+canonicalLockDate: 2026-05-01
+date: 2026-05-01
+revised: 2026-05-01
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\boxes\technology-as-organised-persistence.md
+date: 2026-06-01
+title: APS Box — Technology as Organised Persistence
+slug: technology-as-organised-persistence
+type: box
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+
+================================================================
+MATCH: evolution
+FILE: src\content\boxes\temporal-organisation-persistence-adaptation-evolution.md
+title: Temporal Organisation in APS - Persistence, Adaptation, and Evolution
+slug: temporal-organisation-persistence-adaptation-evolution
+type: box
+status: canonical
+canonicalLockDate: 2026-05-05
+date: 2026-05-05
+revised: 2026-05-05
+
+================================================================
+MATCH: life
+FILE: src\content\boxes\the-organisational-definition-of-life.md
+date: 2026-06-01
+title: APS Box — The Organisational Definition of Life
+slug: organisational-definition-of-life
+type: box
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\viability-and-persistence.md
+date: 2026-04-02
+title: "APS Box — Viability and Persistence"
+slug: viability-and-persistence
+type: box
+status: canonical
+revised: 2026-04-02
+
+================================================================
+MATCH: viability
+FILE: src\content\boxes\viability-grounds-evaluation.md
+date: 2026-05-29
+title: APS Box — Viability and Biological Evaluation
+slug: aps-box-viability-grounds-evaluation
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+
+================================================================
+MATCH: function
+FILE: src\content\boxes\what-function-is-ci.md
+date: 2026-04-02
+title: "APS Box — What Function Is (APS View)"
+slug: what-function-is
+type: box
+status: canonical
+revised: 2026-04-02
+
+================================================================
+MATCH: agency
+FILE: src\content\boxes\why-aps-emphasises-agency.md
+title: APS Box — Why APS Emphasises Agency
+slug: why-aps-emphasises-agency
+type: box
+date: 2026-04-09
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-06
+
+================================================================
+MATCH: agency
+FILE: src\content\glossary\biological-agency-ci.md
+date: 2026-05-29
+title: Biological Agency
+slug: biological-agency
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-03
+
+================================================================
+MATCH: biological organisation
+FILE: src\content\glossary\biological-organisation.md
+date: 2026-04-08
+title: Biological Organisation
+slug: biological-organisation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-04-08
+revised: 2026-08-24
+
+================================================================
+MATCH: cognition
+FILE: src\content\glossary\cognition-cid.md
+date: 2026-04-27
+title: Cognition
+slug: cognition
+type: glossary
+status: canonical
+canonicalLockDate: 2026-09-11
+revised: 2026-09-11
+
+================================================================
+MATCH: constraint closure
+FILE: src\content\glossary\constraint-closure.md
+date: 2026-04-08
+title: Constraint Closure
+slug: constraint-closure
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-03
+
+================================================================
+MATCH: development
+FILE: src\content\glossary\development.md
+date: 2026-04-08
+title: Development
+slug: development
+type: glossary
+status: canonical
+revised: 2026-04-08
+
+================================================================
+MATCH: development
+FILE: src\content\glossary\developmental-organisation.md
+date: 2026-05-27
+title: Developmental Organisation
+slug: developmental-organisation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: development
+FILE: src\content\glossary\developmental-plasticity.md
+date: 2026-05-27
+title: Developmental Plasticity
+slug: developmental-plasticity
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: development
+FILE: src\content\glossary\developmental-regulation.md
+date: 2026-05-27
+title: Developmental Regulation
+slug: developmental-regulation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: development
+FILE: src\content\glossary\developmental-scaffolding.md
+date: 2026-05-27
+title: Developmental Scaffolding
+slug: developmental-scaffolding
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\distributed-functional-organisation.md
+title: Distributed Functional Organisation
+slug: distributed-functional-organisation
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+MATCH: ecology
+FILE: src\content\glossary\ecology.md
+title: "Ecology"
+slug: "ecology"
+type: glossary
+status: "canonical"
+date: 2026-05-18
+canonicalLockDate: 2026-05-18
+revised: 2026-06-25
+
+================================================================
+MATCH: evolution
+FILE: src\content\glossary\evolution.md
+date: 2026-04-08
+title: Evolution
+slug: evolution
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-10
+
+================================================================
+MATCH: evolution
+FILE: src\content\glossary\evolutionary-organisation.md
+date: 2026-06-13
+title: Evolutionary Organisation
+slug: evolutionary-organisation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-15
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\function-ci.md
+date: 2026-04-08
+title: Function
+slug: function
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-10
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\functional-equivalence.md
+title: Functional Equivalence
+slug: functional-equivalence
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\functional-integration.md
+title: Functional Integration
+slug: functional-integration
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\functional-lineage.md
+title: Functional Lineage
+slug: functional-lineage
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-06
+date: 2026-05-06
+revised: 2026-06-15
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\functional-organisation.md
+title: Functional Organisation
+slug: functional-organisation
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+MATCH: life
+FILE: src\content\glossary\life-cycle.md
+date: 2026-05-27
+title: Life-Cycle
+slug: life-cycle
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: life
+FILE: src\content\glossary\life.md
+date: 2026-04-08
+title: Life
+type: glossary
+slug: life
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-09-03
+
+================================================================
+MATCH: function
+FILE: src\content\glossary\malfunction.md
+title: "Malfunction"
+slug: "malfunction"
+type: glossary
+status: "canonical"
+date: 2026-05-18
+canonicalLockDate: 2026-05-18
+revised: 2026-06-15
+
+================================================================
+MATCH: scale
+FILE: src\content\glossary\multi-scale-causation.md
+date: 2026-04-26
+title: Multi-Scale Causation
+slug: multi-scale-causation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-04-26
+revised: 2026-08-18
+
+================================================================
+MATCH: normativity
+FILE: src\content\glossary\normativity.md
+date: 2026-04-14
+title: Normativity
+slug: normativity
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+
+================================================================
+MATCH: organised persistence
+FILE: src\content\glossary\organised-persistence.md
+date: 2026-05-27
+title: "Organised Persistence"
+slug: organised-persistence
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-09-03
+
+================================================================
+MATCH: process
+FILE: src\content\glossary\process.md
+date: 2026-04-14
+title: Process
+slug: process
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-08
+
+================================================================
+MATCH: process
+FILE: src\content\glossary\processual-individual.md
+date: 2026-05-27
+title: Processual Individual
+slug: processual-individual
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+MATCH: agency
+FILE: src\content\glossary\reflective-agency.md
+date: 2026-07-04
+title: Reflective Agency
+slug: reflective-agency
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-04
+revised: 2026-07-04
+
+================================================================
+MATCH: scale
+FILE: src\content\glossary\scale.md
+date: 2026-04-14
+title: Scale
+slug: scale
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-03
+
+================================================================
+MATCH: viability
+FILE: src\content\glossary\viability-orientation.md
+title: Viability-Orientation
+slug: viability-orientation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+date: 2026-05-03
+revised: 2026-07-28
+
+================================================================
+MATCH: viability
+FILE: src\content\glossary\viability.md
+date: 2026-04-26
+title: Viability
+slug: viability
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-03
+
+================================================================
+MATCH: life, viability
+FILE: src\content\orientation\aps-viability-oriented-framework-ci.md
+date: 2026-04-14
+title: APS — A Viability-Oriented Framework for Understanding Life
+slug: aps-viability-oriented-framework
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-13
+revised: 2026-06-15
+
+================================================================
+MATCH: life
+FILE: src\content\orientation\how-aps-explains-life-ci.md
+date: 2026-04-16
+title: "How APS Explains Life — A Two-Step Guide"
+slug: how-aps-explains-life
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-07
+
+================================================================
+MATCH: cognition
+FILE: src\content\streams\cognition.md
+date: 2026-04-03
+title: Cognition
+slug: cognition
+status: canonical
+revised: 2026-09-12
+

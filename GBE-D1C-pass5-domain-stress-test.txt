@@ -1,0 +1,1641 @@
+
+================================================================
+FILE: src\content\articles\evolution-as-the-historical-transformation-of-organised-persistence-ci.md
+================================================================
+
+---
+date: 2026-05-28
+title: "Evolution as the Historical Transformation of Organised Persistence"
+slug:  evolution
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-06-20
+cluster: evolutionary-dynamics
+role: anchor
+
+abstract: >
+  Evolution is commonly understood as change in gene frequencies within populations over time. While this formulation captures important statistical patterns, it does not fully explain what is changing, how continuity is preserved, or why evolutionary change is biologically meaningful. APS approaches evolution as the historical transformation of persistence-sustaining organisation across generations. Because living systems are agents whose activities sustain organised persistence through time, biological evolution presupposes the existence of continuity-producing living organisation and does not explain its original emergence. Agency, process, scale, development, inheritance, ecological continuity, and adaptation therefore constitute conditions for evolutionary transformation rather than products of it. Natural selection is understood not as the source of biological organisation, but as the differential stabilisation of already viable forms of persistence-sustaining organisation. Evolutionary explanation becomes the study of how living organisation is historically transformed across interacting developmental, ecological, organismal, and lineage scales.
+
+keyPoints:
+  - Evolution is the historical transformation of organised persistence across generations.
+  - Evolution presupposes living systems already capable of viable continuity.
+  - Biological agency is prior to evolutionary transformation because living systems must already sustain themselves to evolve.
+  - Organised persistence is explanatorily prior to evolutionary transformation.
+  - Evolution transforms developmental, ecological, organismal, and lineage continuity systems.
+  - Natural selection differentially stabilises viable organised persistence.
+  - Adaptation reorganises persistence under changing conditions.
+  - Evolution is multiscale, temporal, developmental, ecological, and historical.
+  - APS explains evolutionary continuity as continuity-through-transformation rather than static replication.
+  - Biological evolution presupposes organised persistence and does not explain its original emergence.
+
+relatedGlossaryTerms:
+  - evolution
+  - persistence
+  - viability
+  - adaptation
+  - inheritance
+  - variation
+  - fitness
+  - natural-selection
+  - biological-organisation
+  - biological-agency
+  - development
+  - temporal-organisation
+  - constraint
+  - constraint-closure
+  - process
+  - scale
+  - ecology
+  - resilience
+
+relatedArticles:
+  - persistence-organised-continuity-through-time
+  - temporal-organisation-and-organised-persistence
+  - viability-the-organising-principle-of-biological-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - ecology-as-organised-persistence-across-scales
+  - biological-individuality-organised-persistence-through-time
+  - processual-individuality
+  - function-and-normativity-why-biological-organisation-matters
+  - natural-selection-an-aps-clarification
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+  - diagnosis-as-continuity-analysis
+  - explanatory-geometry-of-biology
+  - gene-centric-biology-and-aps
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    publisher: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    publisher: "Clarendon Press"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    publisher: "Harvard University Press"
+
+  - id: waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    publisher: "Allen & Unwin"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
+    year: 2003
+    title: "Niche Construction"
+    publisher: "Princeton University Press"
+
+  - id: jablonka2005
+    authors: "Jablonka, E.; Lamb, M. J."
+    year: 2005
+    title: "Evolution in Four Dimensions"
+    publisher: "MIT Press"
+
+  - id: oyama2000
+    authors: "Oyama, S."
+    year: 2000
+    title: "The Ontogeny of Information"
+    publisher: "Duke University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: nicholson2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+## Introduction
+
+> **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viability-oriented organised persistence across generations. Evolution is understood not merely as statistical change within populations, but as the long-term transformation of living organisation across developmental, ecological, organismal, and lineage scales. It provides the primary evolutionary anchor for understanding how agency, persistence, inheritance, adaptation, and natural selection fit together within the APS framework.
+
+Living systems do not merely persist.
+
+They transform historically.
+
+Across generations, organisms diversify, developmental trajectories reorganise, ecological relationships shift, and new forms of biological organisation emerge. The living world is therefore characterised not only by continuity, but also by ongoing transformation. Evolution is the name given to this historical process.
+
+Evolution is commonly defined as change in gene frequencies within populations over time. This formulation captures important statistical regularities and provides powerful tools for modelling evolutionary dynamics. Yet by itself it does not explain what is changing, how continuity is maintained despite transformation, or why evolutionary change is biologically meaningful. Gene frequencies do not evolve independently of living systems. They exist only within organisations already capable of sustaining viable continuity across time.
+
+APS therefore approaches evolution from a different explanatory starting point. Biology explains how living systems sustain organised persistence through viability-oriented activity. Evolution explains how that persistence-sustaining organisation is historically transformed across generations. Before living systems can evolve, they must already be capable of maintaining themselves. They must preserve viability, regenerate continuity, and remain organised despite ongoing developmental and ecological change. Evolution does not create this basic capacity for persistence. Rather, it transforms the organisation through which persistence is achieved.
+
+From the APS perspective, evolution is therefore:
+
+> the historical transformation of persistence-sustaining organisation across generations.
+
+This formulation highlights the complementary relationship between biological and evolutionary explanation. Biology investigates how organised persistence is maintained in the present, while evolution investigates how organised persistence is transformed through historical time. The two therefore address different dimensions of the same underlying phenomenon.
+
+Evolution does not explain the original emergence of organised persistence. It presupposes living systems already capable of sustaining viable continuity through development, adaptation, ecological interaction, and reproduction. The central question of evolutionary explanation therefore becomes how persistence-sustaining organisation is historically modified, diversified, stabilised, and transformed across time.
+
+## Agency, Process, and Evolutionary Transformation
+
+APS begins from the proposition that living systems are biological agents. Organisms do not merely undergo change. They actively regulate physiology, behaviour, development, and environmental interaction in ways that contribute to the maintenance of their own viability. Agency in this sense does not imply conscious intention or deliberation. It refers to the viability-oriented activity through which living systems help sustain the conditions of their continued existence.
+
+This point is fundamental for evolutionary explanation because evolution operates only upon systems already capable of such activity. Before evolutionary transformation can occur, living systems must already maintain themselves, reproduce themselves, and regulate their interactions with changing environments. Evolutionary processes therefore presuppose organisms that are actively engaged in sustaining continuity. Without agency, there would be no organised persistence available for historical transformation.
+
+Agency is inseparable from process. Living systems are not static structures that occasionally change. They are ongoing processes through which biological organisation is continuously regenerated. Metabolism, development, repair, ecological interaction, reproduction, and behavioural regulation are all processual activities through which viability is maintained across time. The persistence of living systems therefore depends not upon preserving fixed structures but upon continuously reproducing organisational continuity despite material turnover and environmental change.
+
+Because living systems are processual agents, their activities also become sources of evolutionary consequence. Behaviour modifies environments. Developmental activity influences the forms of variation that become available. Reproductive processes regenerate continuity while introducing opportunities for transformation. Ecological interactions alter the conditions under which viability can be maintained. Evolutionary change therefore emerges partly through the accumulated historical consequences of viability-oriented activity itself.
+
+Evolution is also inherently multiscale. The continuity of living organisation depends upon interactions distributed across physiological, developmental, organismal, ecological, and historical scales. Processes occurring over seconds may influence developmental trajectories unfolding over years, while ecological and evolutionary transformations may emerge over generations or longer. Evolutionary explanation therefore cannot be confined to a single privileged scale because organised persistence itself is distributed across multiple interacting temporal and organisational domains.
+
+Agency, process, and scale together establish the conditions under which organised persistence becomes possible. Biological agency sustains the viability-oriented activities through which continuity is maintained, while process and scale explain how that continuity is organised across time and across multiple domains of biological organisation. Organised persistence therefore becomes the central phenomenon linking biological and evolutionary explanation.
+
+Evolution does not stand apart from these foundations. It acts upon persistence-sustaining organisation already capable of maintaining viable continuity. Biological agency sustains organised persistence in the present, while evolution transforms that organised persistence historically across generations. Evolution is therefore best understood as the long-term historical transformation of persistence-sustaining organisation rather than as change imposed upon otherwise passive biological material.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-visual.png"
+      alt="Evolution as the historical transformation of organised persistence"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Primary Evolution Visual.</strong>
+    APS interprets evolution as the historical transformation of viability-oriented organisation across variation, adaptation, inheritance, fitness, and natural selection. Selection does not create organised persistence; it differentially stabilises already viable forms of living organisation across generations.
+  </p>
+</div>
+
+
+[[box:what-biological-explanation-explains]]
+
+## Development and Evolutionary Transformation
+
+Development is intrinsic to evolutionary continuity. Evolution does not act upon fixed structures that exist independently of developmental processes. Every organism must be constructed, maintained, repaired, and regenerated through development, and evolutionary transformation therefore necessarily involves changes in the developmental systems through which viable persistence is achieved.
+
+Development contributes directly to evolutionary possibility because it shapes how living systems generate and respond to variation. Organisms do not emerge fully formed from inherited instructions. They arise through ongoing interactions among developmental processes, physiological activity, ecological conditions, and organism–environment relations. The forms of organisation available to evolution are therefore inseparable from the developmental systems through which organisms are continuously reconstructed.
+
+Developmental plasticity is particularly important in this regard. Living systems often respond to changing circumstances by reorganising developmental trajectories, modifying behaviour, altering physiological activity, or exploiting new ecological opportunities. Such responses may preserve viability under novel conditions while simultaneously generating new possibilities for future evolutionary transformation. Development therefore contributes not only to continuity but also to evolutionary innovation.
+
+Development also helps explain how continuity persists despite continual material and organisational change. Organisms are not replicated as static objects. Rather, each generation reconstructs viable organisation through developmental processes capable of regenerating continuity under changing circumstances. Evolutionary continuity therefore depends upon continuity-producing developmental systems that can preserve viability while remaining capable of transformation.
+
+From an APS perspective, development and evolution are not separate explanatory domains connected only through inheritance. Development generates the living organisation that evolution transforms, while evolutionary processes reshape the developmental systems through which future continuity is achieved. The two therefore represent organisationally continuous dimensions of the same long-term process of historical persistence.
+
+## Variation and the Diversification of Persistence
+
+Evolution depends upon variation because continuity cannot be historically transformed without the generation of difference. Variation introduces alternative forms of organisation, alternative developmental trajectories, alternative ecological relationships, and alternative ways of sustaining viability under changing conditions. Evolutionary transformation therefore depends upon the continual diversification of organised persistence.
+
+APS accepts the importance of stochastic processes in generating variation while rejecting the idea that variation is merely unconstrained randomness imposed upon passive biological systems. Living systems actively participate in the production of variation through developmental plasticity, physiological modulation, behavioural activity, ecological interaction, and adaptive reorganisation. Variation therefore emerges within already ongoing systems of viability-oriented activity rather than appearing independently of them.
+
+This distinction is important because not all differences are evolutionarily significant. Variation matters biologically when it affects the ways in which organised persistence can be achieved. Some forms of variation alter developmental trajectories. Others modify ecological relationships, behavioural capacities, reproductive organisation, or persistence-maintaining activities. The significance of variation therefore depends upon its consequences for continuity rather than upon difference alone.
+
+Some variations contribute to the maintenance or extension of viable persistence. Others undermine continuity and disappear historically. Evolutionary diversification emerges through the ongoing generation, exploration, and differential persistence of these alternative organisational possibilities. Variation therefore contributes not merely to biological diversity but to the historical diversification of the ways living systems sustain themselves across time.
+
+## Evolution and the Transformation of Organisation
+
+Evolution is not fundamentally the transformation of isolated traits. It is the historical transformation of systems capable of sustaining organised persistence.
+
+Living systems maintain viability through networks of continuity-producing constraints distributed across physiology, development, behaviour, ecological interaction, and organism–environment coupling. These organisational relations make persistence possible by coordinating processes that would otherwise drift toward disintegration. Across generations, however, the organisation sustaining continuity may stabilise, diversify, reorganise, compensate for disruption, or collapse entirely.
+
+What evolves is therefore not structure in abstraction, but the organisational capacities through which living systems sustain viability under changing developmental and ecological conditions. Evolution concerns the historical transformation of persistence-sustaining organisation itself. Living systems persist evolutionarily not despite transformation, but through it.
+
+APS consequently approaches evolution organisationally rather than reductionistically or statistically alone.
+
+## Temporal Organisation and Evolutionary Continuity
+
+Evolution is fundamentally temporal.
+
+Evolutionary continuity does not emerge from static replication alone. It depends upon the ongoing regeneration of viable organisation across generations despite continuous transformation. Temporal organisation therefore becomes central to evolutionary explanation.
+
+Living systems must preserve continuity through developmental change, reproduce organisational conditions across generations, coordinate processes unfolding across multiple temporal scales, and maintain viability despite environmental instability. Evolutionary continuity is therefore not the propagation of static sameness through time. It is the ongoing regeneration of organised continuity under changing historical conditions.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/temporal-organisation.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/temporal-organisation.png"
+      alt="Temporal organisation and organised persistence across generations"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Temporal Organisation and Organised Persistence.</strong>
+    Evolution preserves continuity not by preventing change, but by regenerating viable organisation through ongoing transformation across generations.
+  </p>
+</div>
+
+
+## Adaptation and the Reorganisation of Viability
+
+Variation alone does not explain evolutionary transformation. Differences become evolutionarily significant only insofar as they affect the ability of living systems to maintain viability under changing developmental and ecological conditions. This brings adaptation to the centre of evolutionary explanation.
+
+Adaptation refers to the ongoing reorganisation of viability-oriented organisation in response to changing circumstances. Living systems continuously modify physiology, behaviour, development, ecological interaction, and persistence strategies in ways that contribute to continued viability despite perturbation, instability, and environmental uncertainty. Adaptation is therefore not simply a property organisms possess. It is an ongoing activity through which continuity is actively maintained.
+
+This emphasis is important because adaptation is often treated primarily as an evolutionary outcome. APS instead highlights adaptation as a living process occurring continuously within the activities of organisms themselves. Organisms respond to challenges, compensate for disturbances, exploit opportunities, and reorganise their behaviour relative to changing conditions. Such adaptive activity contributes directly to the maintenance of organised persistence.
+
+Evolution extends these adaptive processes historically across generations. Organisational configurations that remain sufficiently viable may become stabilised through inheritance and differential continuity, while configurations that fail to sustain persistence disappear. Evolutionary transformation therefore builds upon adaptive activity already occurring within living systems.
+
+Adaptation and selection should consequently not be conflated. Adaptation concerns the active reorganisation of viability-oriented organisation. Selection concerns the differential stabilisation of organisational forms across historical time. The two processes interact continuously, but they are not identical. Adaptation generates and maintains viable continuity under changing conditions, while selection contributes to the historical persistence of some adaptive trajectories rather than others.
+
+Evolution therefore builds upon adaptation without reducing to it. The historical transformation of life depends not only upon differences among organisms, but also upon the ongoing capacity of living systems to reorganise viability in ways that preserve continuity despite continual change.
+
+[[box:perturbation-reveals-organisation]]
+
+## Inheritance and Organisational Continuity
+
+Evolution also depends upon inheritance. Without mechanisms capable of regenerating continuity across generations, historical transformation would leave no enduring trace. Evolution requires not only variation and adaptation, but also the capacity to preserve sufficient continuity for transformation to accumulate historically.
+
+APS approaches inheritance more broadly than the transmission of genes alone. Living systems inherit the developmental, physiological, behavioural, ecological, and organisational conditions through which viable persistence can be reconstructed across generations. Inheritance therefore concerns the regeneration of continuity-producing organisation rather than the passive transfer of informational units in isolation.
+
+This broader perspective becomes important because organisms do not inherit finished structures. Each generation must actively reconstruct viable organisation through developmental processes unfolding within ecological and historical contexts. What persists evolutionarily is therefore not a static package of inherited traits, but a continuity-producing organisation capable of being regenerated repeatedly despite ongoing transformation.
+
+Developmental organisation, physiological coordination, behavioural tendencies, ecological relations, and persistence-maintaining activities all contribute to the continuity inherited across generations. Variation diversifies inherited organisation, adaptation reorganises it, and evolutionary transformation modifies it historically. Inheritance therefore serves as the continuity-producing bridge through which organised persistence extends across evolutionary time.
+
+APS consequently approaches inheritance as the organised reconstitution of viable continuity. The significance of inheritance lies not merely in transmitting biological material, but in sustaining the historical continuity of living organisation despite continual developmental, ecological, and evolutionary change.
+
+## Lineages and Historical Continuity
+
+The continuity established through inheritance becomes historically visible in lineages. A lineage is not simply a sequence of reproducing organisms. It is an ongoing continuity structure through which organised persistence is regenerated, transformed, and maintained across generations.
+
+Lineages preserve continuity despite continual change. Organisms die, developmental trajectories differ, ecological conditions shift, and organisational arrangements are modified. Yet continuity persists because the underlying processes responsible for regenerating viable organisation continue through time. Evolution therefore operates not upon isolated organisms alone, but upon historically extended continuity structures linking generations together.
+
+Understanding evolution in terms of lineage continuity helps clarify why evolutionary change is best understood as continuity-through-transformation. The persistence of a lineage does not require the preservation of static traits or fixed forms. Rather, it depends upon the ongoing regeneration of viability-oriented organisation under changing historical conditions. Evolutionary transformation therefore occurs within continuity rather than in opposition to it.
+
+## Fitness and Differential Continuity
+
+Evolution also depends upon fitness, although APS approaches fitness somewhat differently from many traditional formulations. Fitness is often understood as reproductive success or contribution to future gene frequencies. While these measures capture important aspects of evolutionary outcomes, they do not by themselves explain why some forms of organisation persist historically while others disappear.
+
+APS therefore approaches fitness as the historically situated continuity of viability-oriented organisation under particular developmental and ecological conditions. Fitness does not refer to abstract superiority, universal optimisation, or intrinsic biological value. It refers to the extent to which a form of organised persistence remains sufficiently viable to contribute to future continuity.
+
+This perspective shifts attention away from idealised notions of competitive success and toward the practical problem of maintaining continuity under changing conditions. A biological organisation is evolutionarily successful not because it approximates some universal optimum, but because it remains capable of sustaining viability within the circumstances it encounters. Fitness therefore emerges from the relationship between living organisation and the conditions under which continuity must be maintained.
+
+Fitness is consequently relational rather than absolute, historical rather than timeless, and organisational rather than reducible to isolated traits. Organisational arrangements that remain viable under specific ecological and developmental circumstances contribute to continuity, while those that fail to maintain viability do not. Fitness therefore contributes to the differential continuity through which evolutionary transformation unfolds across time.
+
+From the APS perspective, this interpretation helps clarify why fitness cannot be reduced to reproductive success alone. Reproductive outcomes remain important because they contribute to historical continuity, but the deeper explanatory issue concerns the capacity of persistence-sustaining organisation to maintain viability across changing conditions and to contribute to future continuity. Fitness therefore reflects the differential continuity of organised persistence through time rather than merely the numerical success of isolated traits or genes.
+
+## Natural Selection and Differential Stabilisation
+
+Natural selection is one of the most important processes within evolution, but it is not identical with evolution itself. Selection does not create organised persistence, nor does it explain the existence of living organisation itself. Rather, it operates upon living systems already capable of sustaining viable continuity through agency, development, inheritance, adaptation, and ecological interaction. From the APS perspective, natural selection is best understood as a process through which already viable forms of persistence-sustaining organisation are differentially stabilised across generations.
+
+APS therefore approaches natural selection as:
+
+> the historical differential stabilisation of persistence-sustaining organisation across generations.
+
+Selection operates because different forms of organisation vary in their capacity to maintain continuity under particular conditions. Some organisational arrangements remain sufficiently viable to persist historically, while others fail to sustain continuity and disappear. What becomes stabilised is therefore not simply isolated genes or traits considered in abstraction, but integrated forms of persistence-sustaining organisation distributed across multiple dimensions of biological life.
+
+Natural selection consequently contributes to evolutionary transformation by differentially stabilising already viable forms of organised persistence. It helps explain why some organisational trajectories persist historically while others do not, but it does not explain the existence of organised persistence itself. Selection presupposes the living systems upon which it acts. Its explanatory role is therefore stabilising and transformative rather than creative in the strongest sense. Evolutionary change occurs because already viable forms of organisation differ in their capacity to maintain continuity under particular conditions, allowing some forms of persistence-sustaining organisation to become historically more stable than others.
+
+## Selection and the Origin of Life
+
+At this point a natural question arises. If evolution presupposes organised persistence, did some form of selection contribute to the emergence of the first living systems?
+
+APS does not deny that prebiotic chemical systems may have exhibited forms of differential persistence or selection-like dynamics. Long before the appearance of fully developed living systems, some chemical organisations may have persisted more effectively than others, accumulated more readily, or proved more stable under particular environmental conditions. Such processes may have contributed to the emergence of increasingly persistent forms of organisation.
+
+However, APS distinguishes between prebiotic differential persistence and biological natural selection. Natural selection, in the evolutionary sense, requires systems already capable of maintaining continuity through reproduction, inheritance, and viable persistence across generations. Selection can only operate on entities that already possess some capacity to sustain and regenerate themselves through time.
+
+This distinction is important because it clarifies the explanatory limits of selection. Selection may help stabilise particular forms of organisation once they exist, but it does not by itself explain the emergence of organised persistence. Before there can be differential survival, differential reproduction, or evolutionary adaptation, there must already be systems capable of maintaining continuity sufficiently for such differences to matter.
+
+From the APS perspective, the origin of organised persistence and the evolutionary transformation of organised persistence are therefore related but distinct explanatory problems. Prebiotic selection-like processes may have contributed to the emergence of increasingly stable forms of organisation. Biological evolution begins only when organised persistence becomes capable of sustaining continuity across generations. Natural selection can then differentially stabilise viable forms of persistence-sustaining organisation, generating the evolutionary transformations observed throughout the history of life.
+
+## Evolution Across Biological Scale
+
+Evolution unfolds across interacting biological scales. The continuity of living organisation depends simultaneously upon physiological regulation, developmental organisation, behavioural coordination, ecological interaction, and long-term historical persistence. Evolutionary transformation therefore emerges through relationships distributed across multiple scales rather than through change occurring at a single privileged scale of analysis.
+
+Historically, evolutionary theory has often oscillated between attempts to locate a primary evolutionary unit and attempts to identify a privileged scale at which selection operates. APS approaches the problem differently. Living systems persist through organisational relations distributed across scales, and evolutionary transformation reflects changes in these distributed continuity structures rather than events occurring exclusively at any one biological scale.
+
+Physiological processes contribute to organismal viability. Developmental systems generate continuity across generations. Behaviour modifies ecological conditions. Ecological organisation shapes opportunities for adaptation and persistence. Historical processes influence the trajectories along which lineages evolve. Evolutionary explanation therefore requires understanding how these scales interact rather than reducing one to another.
+
+Scale is consequently not merely a way of describing biological organisation. It is a constitutive feature of how organised persistence operates. The viability of organisms depends upon relationships extending across multiple temporal and organisational domains, and evolutionary transformation reshapes these relationships historically. Evolution therefore becomes intelligible only when viewed as a multiscale process of organisational continuity and change.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-continuity-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-continuity-visual.png"
+      alt="Evolution as continuity through transformation across generations"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Evolution Continuity Visual.</strong>
+     APS explains evolutionary continuity as the regeneration and transformation of viability-oriented organisation across generations through inheritance, variation, adaptation, ecological interaction, and the differential stabilisation of organised persistence under changing conditions.
+  </p>
+</div>
+
+## Ecology and Historical Persistence
+
+Evolution transforms ecological continuity systems historically, but ecological organisation also shapes the conditions under which evolutionary transformation occurs. Organisms modify environments through niche construction, behavioural activity, multispecies interaction, ecosystem engineering, and distributed persistence relations, while ecological conditions simultaneously influence developmental trajectories, adaptive possibilities, and viability itself.
+
+This relationship is reciprocal rather than one-directional. Organisms are shaped by ecological conditions, but they also participate in shaping those conditions through their own activities. Ecological organisation is therefore neither a passive background nor an external force acting upon otherwise independent organisms. It forms part of the continuity-producing organisation through which living systems persist.
+
+The significance of ecological organisation becomes especially clear when considering long-term evolutionary change. Ecological modifications may alter developmental opportunities, reshape adaptive pressures, influence patterns of inheritance, and transform the conditions under which future evolutionary trajectories unfold. Evolutionary transformation therefore occurs within historically changing ecological contexts that are themselves partly generated by living activity.
+
+APS consequently rejects sharp separations between evolutionary explanation, ecological explanation, and developmental explanation. These represent different perspectives on interacting dimensions of organised persistence unfolding across historical time. Understanding evolutionary change therefore requires understanding how ecological continuity and biological continuity are mutually transformed.
+
+## Individuality and Evolution
+
+Evolution transforms biological individuality as well as the organisms, populations, and ecological systems within which individuality is expressed. The forms through which biological continuity is organised are themselves historically variable. Developmental organisation, ecological coupling, reproductive organisation, agency, and persistence architectures may all be reorganised through evolutionary transformation.
+
+This insight becomes particularly important once individuality is understood processually rather than statically. Biological individuals are not fixed objects persisting unchanged through time. They are continuity-producing organisations whose boundaries, interactions, and persistence strategies may themselves evolve. Evolution therefore transforms not only the characteristics of individuals but also the forms individuality can take.
+
+APS distinguishes among organisms, biological agents, biological individuals, and processual individuals because each highlights a different aspect of organised persistence. Organisms identify living systems as integrated biological wholes. Biological agents emphasise viability-oriented activity. Biological individuals identify continuity-producing units capable of participating in evolutionary processes. Processual individuals highlight the dynamic and temporally extended nature of that continuity.
+
+These distinctions are not merely conceptual refinements. They help clarify what evolutionary transformation acts upon and how continuity is maintained despite historical change. The organisational structures through which viable persistence becomes possible are themselves products of evolutionary history and may continue to change as evolutionary trajectories unfold. Evolution therefore transforms not only living systems, but the very forms through which biological continuity is organised.
+
+## Evolution, Agency, and Constraint Organisation
+
+The historical transformation of organised persistence ultimately depends upon the transformation of continuity-producing constraints. Living systems maintain viability through networks of mutually sustaining constraints distributed across physiological, developmental, behavioural, reproductive, and ecological processes. These constraints do not merely limit activity. They organise activity by channeling biological processes in ways that contribute to the maintenance of continuity across time.
+
+The persistence of living systems therefore depends upon more than the existence of particular structures or components. It depends upon the organisation of relationships through which biological activity remains viability-oriented. Metabolic processes support development, developmental processes support reproduction, behavioural processes support ecological interaction, and ecological relations help sustain the conditions under which continuity remains possible. Organised persistence emerges from these mutually reinforcing relations rather than from any single component acting independently.
+
+Evolution transforms these continuity-producing organisations historically. Variation, adaptation, inheritance, ecological interaction, and differential stabilisation all contribute to changes in the constraint structures through which viability is maintained. Evolutionary transformation therefore involves more than the appearance of new traits or altered frequencies within populations. It involves the historical reorganisation of the networks of constraints through which living systems sustain themselves.
+
+This perspective helps clarify why agency occupies such a central place within APS. Living systems are not merely shaped by constraint organisation. They actively participate in maintaining and modifying it. Through physiology, behaviour, development, reproduction, and environmental interaction, organisms continuously regulate the conditions upon which their own viability depends. Agency therefore contributes directly to the ongoing production and maintenance of organised persistence.
+
+The evolutionary significance of agency extends beyond the activities of individual organisms. Behaviour alters ecological conditions. Development influences the forms of variation available to future generations. Organism–environment interactions reshape persistence conditions. Reproductive activities regenerate continuity while simultaneously creating opportunities for transformation. Evolutionary trajectories therefore emerge partly through the accumulated historical consequences of viability-oriented activity distributed across generations.
+
+APS consequently rejects views of evolution that portray organisms as passive substrates shaped externally by selection alone. Selection remains important, but it operates upon systems already actively engaged in sustaining their own continuity. Evolutionary transformation therefore emerges through the interaction of agency, development, ecology, inheritance, adaptation, and differential stabilisation rather than through selection acting upon inert biological material.
+
+Evolution can therefore be understood as the long-term historical transformation of agency-based organised persistence. Living systems continuously regenerate the conditions of their own continuity while simultaneously contributing to the historical processes through which those conditions are transformed. Evolution emerges from this ongoing interaction between viable agents, continuity-producing constraints, and the changing developmental and ecological contexts within which persistence occurs.
+
+From the APS perspective, constraint organisation provides one of the principal mechanisms through which organised persistence is maintained across time. Living systems persist because networks of constraints regulate the flows of matter, energy, information, and activity required for viability. Evolutionary transformation therefore involves not merely changes in traits or components, but historical changes in the continuity-producing constraint organisations that sustain persistence. Evolution can thus be understood as the long-term transformation of the organisational structures through which living systems maintain viable continuity across generations.
+
+## Why Evolution Matters in APS
+
+Clarifying evolution organisationally helps resolve several persistent difficulties within evolutionary explanation. Many longstanding debates arise because different explanatory traditions focus on different components of evolutionary systems while treating those components as explanatorily fundamental. Gene-centred accounts emphasise heredity, developmental approaches emphasise construction and plasticity, ecological approaches emphasise environmental relations, and selection-centred approaches emphasise differential reproductive outcomes. Each captures an important aspect of evolutionary organisation, yet none fully explains how these dimensions fit together.
+
+APS approaches this problem by placing organised persistence at the centre of evolutionary explanation. Genes, developmental systems, ecological relations, behavioural activities, reproductive processes, and selection pressures all become intelligible as components of continuity-producing organisation. Evolutionary explanation therefore shifts from identifying a single privileged causal factor to understanding how different dimensions of biological organisation contribute to the maintenance and transformation of viability across time.
+
+This perspective also clarifies why natural selection cannot be treated as the source of biological organisation. Selection explains differential persistence among already existing forms of organisation, but it presupposes systems capable of maintaining continuity in the first place. Living systems must already possess agency, developmental organisation, ecological integration, and continuity-producing constraints before selection can act upon them. Evolutionary explanation therefore requires understanding both the organisation that makes continuity possible and the processes through which continuity is transformed historically.
+
+The APS account also helps illuminate the relationship between continuity and novelty. Evolution is often portrayed as a tension between stability and change, as though continuity and transformation were opposing forces. APS instead interprets novelty as emerging within systems already organised to preserve viability. Transformation occurs because continuity is maintained, not because continuity is abandoned. Evolutionary innovation therefore becomes compatible with organisational continuity rather than opposed to it.
+
+This reconstruction further clarifies the relationships among development, ecology, inheritance, adaptation, and selection. These are not independent explanatory domains competing for priority. They are interacting dimensions of organised persistence that contribute in different ways to the historical transformation of living systems. Evolution becomes intelligible when these dimensions are understood together rather than treated as isolated explanatory alternatives.
+
+Most importantly, APS helps explain why evolution remains fundamentally a biological phenomenon rather than merely a statistical one. Evolutionary patterns may be described mathematically, but the significance of those patterns derives from the living organisations through which viability is maintained and transformed. Evolution therefore concerns the historical dynamics of living systems rather than abstract changes considered independently of biological organisation.
+
+This perspective also helps clarify the relationship between many concepts that are often treated separately within biology. Genes, development, inheritance, adaptation, ecology, fitness, and natural selection are not independent explanatory domains. Each contributes to understanding how organised persistence is maintained and how persistence-sustaining organisation is transformed through historical time. Evolution therefore provides a unifying framework through which diverse biological phenomena can be understood as interconnected dimensions of continuity and transformation.
+
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-continuity-sequence.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-continuity-sequence.png"
+      alt="From novelty to evolutionary transformation: variation, adaptation, fitness, natural selection, and evolutionary transformation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>From Novelty to Evolutionary Transformation.</strong>
+    APS interprets evolution as a continuity-preserving sequence in which variation generates novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises continuity across generations. Evolutionary transformation emerges from the interaction of these processes within the broader architecture of organised persistence.
+  </p>
+</div>
+
+## Conclusion
+
+Evolution is the historical transformation of persistence-sustaining organisation across generations.
+
+Living systems are biological agents whose activities sustain the conditions of their own continued viability. Through development, ecological interaction, reproduction, adaptation, and inheritance, these agents generate forms of organised persistence capable of extending continuity across time. Evolution becomes possible because such continuity already exists.
+
+The central task of evolutionary explanation is therefore not simply to explain change. It is to explain how continuity is maintained, regenerated, diversified, and transformed despite continual developmental, ecological, and organisational reorganisation. Living systems persist historically because they are capable of sustaining viability across changing circumstances, and evolution concerns the long-term transformation of the organisations through which that viability is achieved.
+
+Agency asks what living systems do to sustain their own persistence (activity). Process asks how continuity is maintained despite continual material and organisational change (continuity). Scale asks where the relationships that support persistence are organised across developmental, ecological, organismal, and historical domains (organisation). Together these complementary perspectives explain how organised persistence is maintained, regenerated, and transformed through time, establishing the conditions under which evolution becomes possible.
+
+In simplified form:
+
+Agency = What do living systems do?
+Process = How is continuity maintained?
+Scale = Where is persistence organised?
+
+Variation diversifies organised persistence. Adaptation reorganises it. Inheritance regenerates it across generations. Lineages extend it historically. Fitness contributes to differential continuity. Natural selection differentially stabilises viable forms of organisation under changing conditions. These processes do not operate independently. They interact continuously within the broader organisation of living systems and collectively contribute to the historical transformation of continuity-producing biological organisation.
+
+APS therefore explains evolution as continuity-through-transformation. Evolution is not merely change in hereditary frequencies, nor simply the action of natural selection. It is the historical transformation of agency-based organised persistence across interacting developmental, ecological, organismal, and lineage scales. Through this transformation, living systems continuously regenerate and reorganise the conditions of their own continuity across the history of life.
+
+Understanding evolution in this way helps reconnect many domains of biological explanation that are often treated separately. Development, ecology, inheritance, adaptation, individuality, agency, and selection become intelligible as interconnected dimensions of the same underlying phenomenon: the historical transformation of persistence-sustaining organisation. Evolution therefore becomes not merely a theory of biological change, but a theory of how living continuity itself is transformed across time.
+
+From the APS perspective, the deepest significance of evolution lies in its relationship to organised persistence. Biological agency sustains the continuity of living systems in the present, while evolution transforms the organisation supporting that continuity across historical time. Evolution is therefore not simply change within populations, nor merely the accumulation of genetic differences across generations. It is the long-term historical transformation of persistence-sustaining organisation. Agency, process, and scale remain essential because they help explain how organised persistence is achieved and maintained, but these dimensions ultimately converge upon a common explanatory problem: how living systems sustain continuity despite ongoing transformation, and how the organisation making such continuity possible is itself transformed through evolutionary history.
+
+================================================================
+FILE: src\content\articles\cognition-where-does-it-belong-in-biology.md
+================================================================
+
+---
+date: 2026-09-12
+title: "Cognition — Where Does It Belong in Biology?"
+slug: cognition-where-does-it-belong-in-biology
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-12
+revised: 2026-09-12
+cluster: cognition-and-mind
+role: anchor
+
+abstract: >
+  Cognition belongs within biological organisation without being identical with
+  life, biological agency, regulation, intelligence, representation, prediction,
+  consciousness, or mind. APS defines cognition as the organisation of biological
+  significance across time. Biological Agency, Biological Evaluation, Significance,
+  and Integration provide pre-cognitive explanatory dependencies, but none by
+  itself establishes cognition. Cognitive attribution becomes warranted only where
+  integrated biological significance modulates activity across a temporal field of
+  viability-relevant possibilities in ways not exhausted by immediate or fixed
+  regulation. This article establishes the canonical architectural position of
+  cognition within APS while leaving the lower biological boundary of cognition
+  open to comparative empirical testing.
+
+keyPoints:
+  - "Cognition is the organisation of biological significance across time."
+  - "Life does not require cognition; cognition presupposes life."
+  - "Biological Agency, Biological Evaluation, Significance, and Integration are pre-cognitive explanatory dependencies rather than stages that automatically produce cognition."
+  - "Regulation, temporal extension, complexity, memory-like effects, anticipation, and adaptive flexibility do not individually establish cognition."
+  - "Cognitive attribution requires materially implemented explanatory dependencies that are not exhausted by an adequate non-cognitive account."
+
+relatedGlossaryTerms:
+  - cognition
+  - biological-agency
+  - biological-evaluation
+  - significance
+  - integration
+  - regulation
+  - temporality
+  - counterfactual-depth
+  - mind
+  - viability
+
+relatedArticles:
+  - how-did-cognition-become-a-biological-problem
+  - the-cognitive-organisation-of-life
+  - what-is-biological-evaluation
+  - what-is-biological-significance
+  - what-is-integration
+  - what-is-biological-regulation
+  - what-is-mind
+  - biological-agency-as-the-activity-of-self-maintenance
+  - why-life-is-not-intelligence-an-aps-clarification
+
+references:
+  - spencer-2026-agency-defining-activity-life
+  - di-paolo-2005-autopoiesis-adaptivity
+  - moreno-mossio-2015-biological-autonomy
+  - adams-garrison-2013-mark-cognitive
+  - ramsey-2007-representation-reconsidered
+  - baluska-levin-2016-no-head-cognition
+  - corcoran-pezzulo-hohwy-2020-counterfactual-cognisers
+  - lyon-keijzer-arendt-levin-2021-reframing-cognition
+---
+
+**Where This Article Fits**
+
+*How Did Cognition Become a Biological Problem? explains how changing explanatory traditions produced the contemporary cognition–regulation boundary problem, while The Cognitive Organisation of Life examines what cognitive organisation contributes once cognition has been independently warranted. The Minimal Cognition work addresses the more difficult empirical question of where the lower boundary of cognition should be drawn. The present article occupies the architectural position between these projects by asking where cognition belongs within biology, what it depends upon, and what distinguishes its explanatory position from life, biological agency, evaluation, significance, integration, and regulation.*
+
+*APS defines cognition as **the organisation of biological significance across time**. This definition locates cognition within living organisation without making all living organisation cognitive. The purpose of this article is therefore to establish the explanatory place of cognition within APS while leaving disputed attribution to comparative empirical investigation.*
+
+## Introduction — Where Does Cognition Belong?
+
+Cognition has often occupied an unstable position within biology. At one extreme, it is treated as so deeply continuous with adaptive living activity that life and cognition approach equivalence; at the other, cognition is restricted to organisms possessing nervous systems, complex behaviour, representation, intelligence, or consciousness. Between these positions lie proposals identifying cognition with information processing, learning, prediction, memory, behavioural flexibility, or other capacities associated with sophisticated biological regulation. Each approach identifies phenomena that may matter to cognitive explanation, but none by itself establishes where cognition belongs.
+
+APS begins from a different question. Rather than asking first whether a particular mechanism, organism, or behaviour should be labelled cognitive, it asks where cognition fits within the organisation of living systems and what explanatory dependencies must be present before cognitive attribution becomes warranted. The starting point is therefore not cognition but life: **Life is viability-oriented, constraint-closed organisation**, while **Biological Agency is viability-oriented organisational activity**. Living systems maintain and re-establish the conditions of their persistence through ongoing activity under changing circumstances (Spencer 2026), and such activity already involves regulation, selective responsiveness, adaptivity, history dependence, and organisation across time. None of those capacities, merely by occurring in a living system, establishes cognition.
+
+This establishes an important asymmetry within APS: **Life does not require cognition; cognition presupposes life.** Cognition is therefore biological without being biologically foundational. Its position depends upon a set of pre-cognitive explanatory relations:
+
+**Life → Biological Agency → Biological Evaluation → Significance → Integration → Cognition**
+
+This sequence expresses explanatory dependency rather than chronology, ontogeny, evolutionary progression, hierarchy, levels of organisation, or a succession of independent biological components. The central claim of this article is accordingly that cognition belongs within living organisation as a specialised organisation of biological significance across time. Biological Agency, Biological Evaluation, Significance, and Integration establish conditions from which cognition may arise, but none constitutes cognition by itself. Cognitive attribution becomes warranted only where organising biological significance across time identifies explanatory dependencies not exhausted by an adequate non-cognitive account of the same phenomenon. In this way, cognition can be placed firmly within biology while its lower boundary remains empirically open.
+
+## Cognition Is Biological but Not Foundational
+
+Locating cognition within biology first requires distinguishing it from life itself. Living systems already possess forms of organisation that can appear cognitive when described loosely: they detect and respond to environmental change, regulate internal conditions, alter their activity after perturbation, preserve effects of previous states, coordinate processes over time, and act differently under conditions that differ in their consequences for continued functioning. These capacities are far from trivial, but they belong to the organised activity through which living systems persist and cannot be assumed to be cognitive simply because they are sophisticated.
+
+The organisation required for life establishes a biological domain in which conditions matter relative to continued functioning. Organisms do not merely undergo physical change; their activity contributes, successfully or unsuccessfully, to maintaining and re-establishing conditions compatible with their continued organisation. Adaptivity and autonomy approaches have independently emphasised this viability-sensitive character of living organisation without requiring cognition as their starting point (Di Paolo 2005; Moreno and Mossio 2015). The important consequence is that viability sensitivity, selective responsiveness, and adaptive regulation cannot themselves serve as sufficient criteria for cognition.
+
+APS therefore rejects two opposing reductions. The first effectively reduces life to cognition by treating the selective and adaptive character of living activity as sufficient to make living systems cognitive. This fails to preserve the possibility that regulation, evaluation, normativity, and adaptive organisation can occur before the question of cognition has been settled. The second reduction confines cognition to specialised neural machinery, so that cognition enters biology only when nervous systems provide mechanisms of sufficient complexity. APS does not accept this restriction as definitional either. Neural systems provide powerful means of organising activity across time, but neural implementation is not part of the APS definition of cognition.
+
+Cognition consequently belongs between these extremes. It is neither the basis of life nor a domain detached from living organisation, but a particular form of organisation realised within biological agency.
+
+## The APS Definition of Cognition
+
+Within APS:
+
+**Cognition is the organisation of biological significance across time.**
+
+The definition requires careful interpretation because neither significance nor temporal extension is, by itself, sufficient for cognition. All living organisation is historical in some sense: regulatory systems retain state, development depends upon prior conditions, physiological organisation can be path dependent, and anticipatory regulation can exploit regularities across time. Likewise, conditions already differ in their consequences for viability before cognitive organisation has been established. Biological significance therefore need not be cognitive merely because it matters to a living system, just as a biological process need not be cognitive merely because its present organisation depends upon its past.
+
+The definition instead identifies the explanandum distinctive to cognition: the organisation of what matters biologically across temporal relations. Cognition is consequently downstream from Significance without Significance itself becoming cognitive. This distinction also separates the canonical definition from the stronger question of attribution. The definition specifies what cognition is supposed to be when present; it does not determine, by conceptual stipulation, when a particular biological system crosses the relevant explanatory boundary.
+
+That second question requires a separate and empirically vulnerable proposal. The current APS boundary proposal is:
+
+> **Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.**
+
+This is not a second definition of cognition but a provisional discriminator intended to make cognitive attribution testable rather than automatic. Maintaining the distinction between definition and discriminator is essential, because otherwise APS would risk deriving cognitive attribution directly from its own conceptual architecture. The architecture establishes where cognition belongs and what it presupposes; it does not establish in advance which biological systems are cognitive.
+
+## The Explanatory Dependencies of Cognition
+
+The placement of cognition within APS is best understood through explanatory dependency:
+
+**Life → Biological Agency → Biological Evaluation → Significance → Integration → Cognition**
+
+Each term identifies something presupposed by the explanatory role of the term that follows. Life provides the viability-oriented organisation within which biological agency is possible, while Biological Agency provides the ongoing organisational activity through which living systems maintain and re-establish the conditions of persistence. Biological Evaluation generates significance by differentiating conditions according to their viability-relevant consequences, and Significance identifies what matters relative to the organisation of the agent. Integration then organises significant relations into functional unity, providing the pre-cognitive organisation upon which cognition depends. Cognition concerns the organisation of this integrated biological significance across time.
+
+These relations should not be interpreted as a ladder leading from simple to complex life, nor do they imply that organisms pass through a succession of discrete stages before becoming cognitive. They are analytic dependencies within a single organised biological reality. A particular organism may realise these dependencies through many interacting mechanisms, and the explanatory architecture does not prescribe those mechanisms in advance. Its role is instead to specify what must already be available conceptually before cognitive explanation can be introduced without circularity.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/cognition-organisation.png" target="_blank" rel="noopener noreferrer">
+    <img
+      src="/assets/diagrams/cognition-organisation.png"
+      alt="Where cognition belongs in biological organisation. Life, Biological Agency, Biological Evaluation, Significance, and Integration form explanatory dependencies for Cognition, while regulation, adaptation, plasticity, history dependence, anticipation, and temporal extension do not by themselves establish cognition. Cognitive attribution requires explanatory gain over an adequate non-cognitive account."
+    />
+  </a>
+  <p class="diagram-caption">
+    <strong>Where Cognition Belongs in Biological Organisation.</strong>
+    Cognition depends upon Life, Biological Agency, Biological Evaluation, Significance, and Integration without being identical with any of them. The arrows express explanatory dependency rather than chronology, hierarchy, developmental progression, evolutionary sequence, levels of organisation, or independent components. Cognitive attribution requires materially implemented explanatory dependencies that provide genuine explanatory gain over an adequate non-cognitive account.
+  </p>
+</div>
+
+## Biological Agency, Evaluation, and Significance Before Cognition
+
+Biological Agency is viability-oriented organisational activity, and such activity is already selective because conditions are not equivalent for a living system. Some contribute to continued functioning, others interfere with it, and still others alter which forms of activity remain viable. APS describes the process through which agency differentiates these conditions as Biological Evaluation: **Biological Evaluation is the process through which agency generates significance.**
+
+Evaluation therefore precedes cognition explanatorily. This does not mean that organisms first perform one process and subsequently acquire another as a discrete developmental stage. Rather, cognition cannot explain how biological relevance first appears, because significance must already be available for cognitive organisation. A living system may regulate differently in the presence of nutrients, toxins, damage, resource scarcity, temperature change, or competing physiological demands, and these differences can be real and viability-relative without requiring cognitive attribution.
+
+Significance is therefore both pre-cognitive and relationally real. A condition matters biologically because of its relation to the organisation and persistence of the agent, rather than because an external observer assigns importance to it. This avoids making significance dependent upon cognition, representation, or interpretation while also avoiding its reduction to an observer's description of physical effects. Biological significance arises within viability-oriented organisation itself; cognition subsequently organises such significance across time.
+
+## Why Integration Is Necessary but Not Sufficient
+
+Significance alone does not establish cognition because living systems encounter multiple viability-relevant relations whose consequences must be coordinated within ongoing activity. APS refers to the organisation of such relations into functional unity as Integration. Integration is necessary to the cognition architecture because cognition does not concern isolated significant events; it concerns significance organised within a wider functional pattern capable of modulating activity across time.
+
+Integration nevertheless remains pre-cognitive because living organisation is integrative throughout biology. Metabolic processes are coordinated, development integrates signals and constraints, physiological systems combine multiple inputs, regulatory networks retain prior state, and organisms coordinate competing requirements under changing conditions. None of these processes becomes cognitive merely by becoming more integrated. If increasing integration were itself sufficient, complexity would effectively become a hidden threshold at which sufficiently elaborate organisation automatically turned into cognition.
+
+APS rejects that inference. Integration establishes that significant relations can be organised together, but cognition requires a further explanatory condition concerning how integrated significance operates across a temporal field of viability-relevant possibilities. Integration is therefore a necessary dependency of cognition without being a sufficient mark of the cognitive.
+
+## Cognition and Biological Regulation
+
+The most important neighbouring category for cognition is not Meaning but regulation. Living systems regulate continually, and regulation can be complex, context-sensitive, history-dependent, anticipatory, plastic, distributed, and adaptive. It can incorporate feedback, preserve prior effects, coordinate multiple variables, and alter future response tendencies. Because none of these properties alone establishes cognition, the boundary between cognition and regulation cannot be drawn simply by contrasting sophisticated activity with simple reaction.
+
+A contrast between reaction and cognition is inadequate because non-cognitive regulation need not be immediate or rigid, while a contrast between fixed and flexible behaviour fails because regulatory systems can themselves be flexible. Present versus future orientation is equally insufficient, since anticipatory regulation may exploit recurrent structure without requiring cognitive organisation. Corcoran, Pezzulo, and Hohwy (2020), for example, distinguish allostatic regulation from stronger counterfactual cognition. Their account is not identical to the APS proposal, but it demonstrates why prospective organisation alone does not settle cognitive status. Similarly, debates over the mark of the cognitive show that sophisticated biological activity cannot simply be redescribed as cognition without an independent discriminator (Adams and Garrison 2013).
+
+APS therefore treats regulation as the strongest immediate comparator. The relevant question is not merely whether an activity can be described in cognitive terms, but whether cognitive organisation is required to explain a dependency that an adequate regulatory account does not already explain. This comparative requirement provides the central methodological discipline for cognitive attribution within the reconstructed Anchor.
+
+[[box:cognition-is-not-regulation]]
+
+## The Temporal Organisation of Biological Significance
+
+Time is indispensable to the APS definition of cognition, but biological temporality must be distinguished from cognition rather than treated as evidence sufficient to establish it. Three forms of temporal dependence are especially important: history dependence, temporally extended regulation, and cognitive temporal organisation.
+
+History dependence occurs whenever a biological system's present state depends upon its previous states. Temporally extended regulation goes further in the sense that previous conditions, retained physiological states, developmental trajectories, or recurrent environmental patterns may influence present regulatory activity. Neither relation is necessarily cognitive. Cognitive temporal organisation becomes a distinct explanatory possibility where integrated biological significance modulates present activity relative to a temporal field of viability-relevant possibilities in a way not exhausted by immediate or fixed regulation.
+
+The difference is therefore not simply one of duration, nor can it be established by the presence of memory or anticipation alone. A system may preserve traces of previous conditions without those traces functioning as cognitive organisation, just as it may regulate prospectively because recurrent conditions have shaped its present organisation. What matters is the explanatory dependency: whether present activity depends upon the integration of significance across viability-relevant possibilities in a way that the strongest non-cognitive model cannot adequately explain.
+
+APS accordingly treats temporality as necessary to cognition but not as a shortcut to cognitive attribution. The relevant evidence must establish what temporal organisation contributes to the phenomenon being explained rather than merely demonstrating that past or future conditions are involved.
+
+## What Does Not by Itself Establish Cognition?
+
+A range of properties commonly associated with cognition may provide relevant evidence without individually establishing cognitive organisation. Complexity, for example, cannot serve as a sufficient criterion because non-cognitive biological organisation can itself be extremely complex, while adaptive success may be achieved through regulatory organisation without requiring cognition. Behavioural flexibility likewise does not settle the issue, since flexible responses can arise through plasticity, state-dependent dynamics, and other forms of regulation.
+
+The same caution applies to temporal phenomena. Memory-like effects show that prior states influence present organisation, but they do not by themselves establish that those effects are cognitively organised. Anticipation demonstrates sensitivity to future-relevant conditions, yet prospective regulation may exploit recurrent biological or environmental structure without cognition. Learning-like change can similarly alter response after experience while leaving open the organisation through which that change is produced.
+
+Nor can cognition be established simply by shifting to informational or representational vocabularies. Information processing can describe many physical and biological dependencies, while signalling may involve reliable sensitivity to biologically relevant conditions without cognitive organisation. Representation does not establish cognition merely because representational vocabulary can be applied, and prediction does not establish it merely because activity is future-relevant. The presence or absence of a nervous system is likewise insufficient: absence of neural organisation does not establish cognition, while possession of a nervous system does not make every process within an organism cognitive.
+
+These exclusions are not intended to make cognition inaccessible or to deny that such properties can contribute to cognitive explanation. Their purpose is to prevent biological sophistication from becoming synonymous with cognition. Any of these features may become evidentially important when they help establish the relevant cognitive dependency, but none substitutes for demonstrating that dependency.
+
+## Cognition Beyond Nervous Systems
+
+Nothing in the APS definition makes nervous systems constitutive of cognition. This matters because contemporary biological approaches have broadened serious cognitive investigation beyond familiar human and vertebrate cases (Baluška and Levin 2016; Lyon et al. 2021). Such work is scientifically valuable because it prevents the mechanisms characteristic of one lineage from being mistaken for the universal definition of cognition. At the same time, widening the legitimate field of cognitive inquiry does not warrant widening cognitive attribution automatically.
+
+APS therefore distinguishes the methodological claim that **non-neural systems are legitimate candidates for cognitive investigation** from the empirical claim that **a particular non-neural system is cognitive**. The former does not entail the latter. Neural systems provide powerful mechanisms for retaining, integrating, transforming, and coordinating significance across time, while non-neural systems may realise relevant organisation through other mechanisms. Whether they do so in a cognitively explanatory sense remains a case-specific question.
+
+The resulting position is implementation-neutral without being attribution-neutral. A proposed instance of cognitive organisation must still be materially realised, causally relevant to the specified phenomenon, and explanatorily distinguishable from an adequate non-cognitive comparator. Removing nervous systems from the definition of cognition therefore expands the possible implementation space without relaxing the evidential requirements for cognitive attribution.
+
+## Cognition, Representation, Prediction, and Intelligence
+
+Cognition has often been identified with capacities that occur prominently in familiar cognitive systems, including representation, prediction, and intelligence. APS treats these capacities as possible contributors to particular cognitive explanations rather than as universal constituents of cognition.
+
+### Representation
+
+APS is representation-neutral rather than anti-representational. Representational explanation may be warranted where content-specific error, decoupling, symbolic structure, recombination, guidance concerning absent conditions, or related phenomena require representational organisation. Representation should not, however, be inferred simply because an organism behaves flexibly or because cognitive vocabulary is being used. Ramsey (2007) provides an important general caution against promiscuous representational attribution. Representation is therefore a possible explanatory resource within cognition, not its universal foundation.
+
+### Prediction
+
+Prediction may likewise perform important explanatory work in some cognitive systems, particularly where organisms organise activity relative to expected or possible future circumstances. Future relevance alone, however, does not establish cognitive prediction because prospective regulation can itself be non-cognitive. Predictive organisation should therefore be invoked where it identifies an explanatory dependency that contributes to the phenomenon under investigation, rather than being used as a generic synonym for adaptation, anticipation, or future-oriented regulation.
+
+### Intelligence
+
+Cognition is also not equivalent to Intelligence. Intelligence may involve specialised problem solving, flexible planning, abstraction, strategic behaviour, symbolic organisation, or other sophisticated capacities, and these may depend upon cognitive organisation. They do not, however, define cognition. Maintaining these distinctions allows cognition to remain biologically general without becoming explanatorily indiscriminate, while permitting representation, prediction, and intelligence to perform more specific explanatory roles where the evidence requires them.
+
+## Cognition Across Process and Scale
+
+Cognition should not be located at a privileged biological level, because APS treats Agency, Process, and Scale as complementary analytic projections of one viability-oriented, constraint-closed living organisation. **They are analytic projections rather than components of reality.** Cognition is therefore not an additional component alongside Agency, Process, and Scale, nor does its explanation require the introduction of a separate cognitive level.
+
+Applied to cognition, **Agency** asks what the living system is doing when cognitive organisation contributes to its activity. **Process** asks how that organisation maintains relevant continuity despite changing conditions. **Scale** asks where the dependencies involved in cognitive organisation are materially organised across spatial and temporal extents. These perspectives allow cognition to be investigated without either localising it by definition or appealing vaguely to distributed organisation.
+
+A cognitive explanation may require relations extending across cellular, physiological, neural, behavioural, environmental, developmental, or other spatial and temporal domains, but wider spatial or temporal organisation does not override local causation. Cross-scale influence must be materially implemented: wider organisation matters where constraints operating across those extents alter the local conditions under which activity occurs. Cognition is therefore neither a higher-level cause nor a separate layer placed over biological mechanism. It consists in an organisation of materially implemented dependencies within the living system being explained.
+
+## Cognition and Mind
+
+Cognition and Mind are closely related within APS but should not be treated as interchangeable. Cognition is **the organisation of biological significance across time**, whereas Mind concerns a further integration of evaluative cognitive processes through which an agent maintains a coherent self–world relation. Cognition is therefore required for Mind within the current APS architecture, but cognitive organisation need not itself constitute Mind.
+
+This distinction prevents minded organisation from being read back into the definition of cognition. A system need not possess a coherent minded perspective merely because cognitive organisation is warranted, and Mind should not be used retrospectively to determine whether cognition is present. The cognition question concerns how biological significance is organised across time; the Mind question concerns how cognitive organisation becomes integrated into a coherent ongoing relation between agent and world. The two explanatory problems are continuous without being identical.
+
+The same restraint applies to the concepts that follow Mind within the wider APS architecture. Selfhood, Reflective Agency, and Meaning belong to later explanatory questions in the cognition-and-mind corpus and should not be inserted as prerequisites for cognition. Their dependence upon prior cognitive organisation does not alter the pre-cognitive dependencies through which cognition itself is located.
+
+## Where Cognition Belongs
+
+The central question can now be answered directly. Cognition belongs **within living organisation**: it is neither an external mental domain imposed upon biological mechanism nor the defining property of life. It is not identical with biological agency, Biological Evaluation, Significance, Integration, Regulation, Adaptation, Intelligence, Representation, Prediction, Consciousness, or Mind, even though its explanation depends upon or may intersect with several of these phenomena.
+
+Cognition depends upon Biological Agency because it is realised within living activity; it depends upon Biological Evaluation because it organises relations that already matter biologically; it depends upon Significance because it does not create biological relevance from nothing; and it depends upon Integration because significant relations must participate in coherent functional organisation before their organisation across time can perform the role attributed to cognition. Its distinction from non-cognitive regulation lies in the further claim that integrated biological significance is organised across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+This is the distinctive position of cognition within APS. It is neither foundational nor biologically exceptional, but a specialised form of organisation within life whose attribution requires more than the presence of the biological capacities upon which it depends.
+
+## The Boundary Remains Empirical
+
+Nothing in the APS architecture determines automatically which organisms or processes are cognitive. The architecture specifies a candidate explanatory dependency, but conceptual coherence does not turn that dependency into an empirical conclusion. Cognitive attribution must therefore be warranted by evidence rather than derived from the fact that the relevant concepts can be arranged into a coherent APS architecture.
+
+At minimum, a serious cognitive attribution requires:
+
+1. a specified explanandum;
+2. an identified cognitive dependency;
+3. evidence of material implementation;
+4. an adequate non-cognitive comparator;
+5. evidence that the cognitive account explains something the comparator does not.
+
+These requirements follow the broader APS comparative methodology, according to which explanatory claims are target-relative and comparator-relative. A cognitive account should not be judged superior merely because it uses richer vocabulary or provides a conceptually attractive description. If the relevant phenomenon is already adequately explained through established regulation, coupling, developmental organisation, physiological adjustment, or another non-cognitive dependency, introducing cognition produces no explanatory gain merely by redescribing the same process.
+
+Conversely, where cognitive organisation identifies a materially implemented dependency that the strongest relevant non-cognitive alternative leaves unexplained, cognitive attribution becomes an empirical explanatory possibility. This is why the reconstructed Anchor does not decide the Minimal Cognition problem. Its function is to establish the architecture within which that problem can be tested, leaving disputed cases to ask what feature of an organism's activity actually requires cognitive organisation for its explanation. A useful cognition concept must therefore remain capable of failing when an adequate non-cognitive account does the explanatory work.
+
+## Explanatory Architecture
+
+### 1. Central Question
+
+**Where does cognition belong within biological organisation, and what distinguishes cognitive explanation from accounts in terms of life, agency, evaluation, significance, integration, and regulation alone?**
+
+### 2. Architectural Role
+
+This article is the principal APS Anchor for the biological placement of cognition. It establishes cognition as a specialised organisation realised within living agency without identifying cognition with life itself. It defines cognition as **the organisation of biological significance across time**, identifies its pre-cognitive explanatory dependencies, distinguishes it from neighbouring biological and cognitive categories, and establishes why cognitive attribution requires comparative empirical warrant. It does not determine the lower biological threshold of cognition in particular organisms.
+
+### 3. Builds On
+
+The article builds on Life as viability-oriented, constraint-closed organisation; Biological Agency as viability-oriented organisational activity; Biological Evaluation as the process through which agency generates significance; Significance as relationally real biological relevance; Integration as the organisation of significant relations into functional unity; and the APS comparative methodology in which explanatory claims are relative to a specified explanandum and adequate comparator.
+
+The central dependency is:
+
+**Life → Biological Agency → Biological Evaluation → Significance → Integration → Cognition**
+
+This expresses explanatory dependency rather than chronology, hierarchy, developmental sequence, evolutionary progression, or independent components.
+
+### 4. Develops Into
+
+The architecture established here develops into *The Cognitive Organisation of Life*, which asks what cognition contributes once cognitive attribution is independently warranted, and into Minimal Cognition, which tests where the lower cognition–regulation boundary should be drawn. It also provides a foundation for investigations of non-neural cognition and for the downstream APS questions concerning Mind, Selfhood, Reflective Agency, and Meaning. These subsequent questions depend upon cognition without redefining its canonical place within living organisation.
+
+### 5. Related Explanatory Questions
+
+The article connects to the questions of how cognition became a biological problem; what distinguishes cognition from sophisticated biological regulation; why temporal extension is insufficient by itself; how biological significance is integrated across time; whether cognition can be materially implemented without nervous systems; when Representation, Information, Semiosis, or Prediction perform genuine explanatory work; what cognitive organisation contributes to organised persistence; how cognition differs from Intelligence and Consciousness; how cognition provides conditions from which Mind may arise; and what evidence would justify cognitive explanation over an adequate non-cognitive comparator.
+
+### 6. Position within APS
+
+Agency, Process, and Scale remain complementary analytic projections of one viability-oriented, constraint-closed organisation, and cognition does not constitute a fourth APS component. Within the Agency projection, cognition concerns a specialised organisation of viability-oriented activity. Within Process, it concerns the maintenance and transformation of biologically significant relations across time. Within Scale, it concerns where the relevant materially implemented dependencies are organised across spatial and temporal extents. Cognitive attribution must therefore remain materially grounded and explanatorily specific.
+
+### 7. Corpus Significance
+
+*Cognition — Where Does It Belong in Biology?* establishes the canonical architectural position of cognition within the APS corpus by separating three questions that can otherwise be conflated: why cognition became a biological problem, where cognition belongs within living organisation, and where the empirical boundary between cognition and non-cognitive regulation should be drawn.
+
+The historical question belongs principally to *How Did Cognition Become a Biological Problem?*, while the organisational consequences of warranted cognition belong principally to *The Cognitive Organisation of Life*. The detailed boundary test belongs principally to Minimal Cognition. The present Anchor connects these projects by establishing the conceptual and methodological architecture they require. Its governing constraint is therefore that **APS can specify what cognition would have to explain without assuming in advance where cognition begins.**
+
+## Conclusion
+
+Cognition belongs within biology, but not at biology's foundation. Living systems already possess viability-oriented organisation, biological agency, evaluation, significance, integration, regulation, and temporal continuity before cognitive attribution has been established. Cognition becomes explanatorily distinctive where biological significance is organised across time in a way that contributes to present activity relative to viability-relevant possibilities beyond what an adequate account of immediate or fixed regulation explains.
+
+This position preserves a genuine pre-cognitive biological domain while preventing cognition from being identified automatically with complexity, adaptive success, memory, anticipation, information processing, representation, intelligence, prediction, nervous systems, or their absence. **Cognition is the organisation of biological significance across time**, but whether a particular living system satisfies the conditions for cognitive attribution remains an empirical question.
+
+APS therefore answers the architectural question without pre-empting the boundary question. Cognition belongs within biological organisation as a specialised organisation of living agency—dependent upon Biological Evaluation, Significance, and Integration, materially implemented across relevant spatial and temporal extents, and distinguishable from non-cognitive regulation only where cognitive explanation demonstrates genuine explanatory work. That is where cognition belongs in biology.
+
+================================================================
+FILE: src\content\articles\development-as-organised-persistence.md
+================================================================
+
+---
+date: 2026-05-26
+title: "Development as Organised Persistence"
+slug: development-as-organised-persistence
+
+abstract: >
+  In APS, development is understood as the organised preservation,
+  transformation, and stabilisation of viability-oriented persistence
+  across time. Development is not merely the construction of
+  biological form, but the continual maintenance of organised
+  continuity through changing ecological, physiological,
+  behavioural, and historical conditions.
+
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+
+cluster: developmental-organisation
+role: anchor
+
+relatedGlossaryTerms:
+  - development
+  - developmental-organisation
+  - viability
+  - persistence
+  - organised-persistence
+  - ontogeny
+  - biological-individual
+  - processual-individual
+  - ecology
+  - resilience
+  - temporal-organisation
+  - evolution
+  - biological-agency
+  - biological-organisation
+
+relatedArticles:
+  - ontogeny
+  - developmental-temporality
+  - developmental-regulation
+  - developmental-integration
+  - developmental-plasticity
+  - developmental-canalisation
+  - developmental-scaffolding
+  - developmental-inheritance
+  - developmental-niches
+  - developmental-resilience
+  - development-and-biological-individuality
+  - development-and-ecological-organisation
+  - development-and-evolution
+  - development-and-evolutionary-explanation
+  - life-cycles
+  - morphogenesis
+  - ageing-and-organisational-persistence
+  - organism-environment-coupling
+  - evolution
+  - diagnosis-as-continuity-analysis
+  - the-developmental-organisation-of-life
+
+references:
+  - id: nicholson2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: oyama1985
+    authors: "Oyama, S."
+    year: 1985
+    title: "The Ontogeny of Information"
+    publisher: "Cambridge University Press"
+
+  - id: waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    publisher: "Allen and Unwin"
+
+  - id: westeberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: gilbertbarresi2020
+    authors: "Gilbert, S. F. & Barresi, M. J. F."
+    year: 2020
+    title: "Developmental Biology"
+    publisher: "Oxford University Press"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions"
+    publisher: "Cambridge University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+Living systems persist through continual developmental transformation.
+
+Cells are replaced. Physiological systems reorganise. Ecological relations shift. Behaviour adapts. Organisms continuously transform across changing historical and environmental conditions.
+
+Yet despite this ongoing transformation, living systems ordinarily remain developmentally continuous biological individuals.
+
+APS consequently interprets development not primarily as the construction of biological form, but as the organised preservation of viability-oriented persistence across time.
+
+Development is therefore not merely a stage preceding mature biological existence.
+
+Living systems persist developmentally through ongoing continuity-preserving organisation.
+
+Development continuously maintains, regulates, transforms, and stabilises viability-oriented persistence across changing ecological, physiological, behavioural, and historical conditions.
+
+Continuity is therefore preserved through regulated transformation rather than through preservation of fixed structure.
+
+## The Classical View of Development
+
+Classical developmental biology frequently interpreted development as the internally regulated construction of organismal form.
+
+Within this framework:
+
+- genes directed developmental programmes,
+- development unfolded through temporally ordered sequences,
+- and organisms matured through progressively stabilised structural organisation.
+
+Development was therefore often understood primarily as:
+
+- morphogenesis,
+- growth,
+- differentiation,
+- and biological construction.
+
+Genes were frequently treated as privileged instructional causes directing developmental organisation across time.
+
+APS does not deny the importance of developmental regulation, morphogenesis, or structural organisation.
+
+However, APS argues that development cannot be adequately understood solely as the production of biological form.
+
+The deeper explanatory problem concerns how living systems preserve viable persistence despite continual developmental, ecological, material, and historical transformation.
+
+Development therefore becomes fundamentally a problem of organised persistence across time.
+
+[[box:development-is-not-genetic-execution]]
+
+## Development in APS
+
+Within APS, development refers to the organised preservation and transformation of viability-oriented persistence across time.
+
+Living systems do not persist through static identity.
+
+Developmental organisation stabilises coordinated viability despite continual change.
+
+Development therefore involves:
+
+- regulation,
+- reorganisation,
+- adaptation,
+- repair,
+- coordination,
+- ecological interaction,
+- and persistence-preserving transformation across time.
+
+APS consequently interprets development as a dynamic organisational process through which viable persistence is historically maintained.
+
+Development is simultaneously:
+
+- stabilising,
+- adaptive,
+- relational,
+- transformative,
+- and persistence-preserving.
+
+Developmental organisation therefore does not oppose change.
+
+It preserves continuity through change.
+
+Developmental organisation persists through dynamically coordinated constraints that regulate and stabilise viability across changing conditions.
+
+[[box:organised-persistence-across-development]]
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/development-continuity-visual.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/development-continuity-visual.png"
+      alt="Development as organised persistence across developmental transformation"
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Development as Organised Persistence.</strong>
+    Developmental organisation preserves viability-oriented continuity
+    across ecological, physiological, behavioural, and historical
+    transformation through coordinated continuity-preserving regulation.
+  </p>
+</div>
+
+## Persistence Through Transformation
+
+Development demonstrates that biological persistence does not require fixed material or structural identity.
+
+Living systems undergo continual:
+
+- cellular turnover,
+- metabolic replacement,
+- physiological restructuring,
+- ecological transition,
+- behavioural adaptation,
+- and developmental transformation.
+
+Many organisms additionally experience major developmental reorganisation through:
+
+- metamorphosis,
+- reproductive transformation,
+- life-cycle transitions,
+- and changing ecological participation.
+
+Yet developmental continuity ordinarily persists across these transformations.
+
+APS consequently distinguishes between:
+
+- persistence of material structure,
+- and persistence of organised viability.
+
+Biological individuals remain continuous because developmental organisation preserves coordinated viability-oriented persistence across transformation rather than maintaining fixed biological form.
+
+This perspective strongly supports APS accounts of processual individuality and organised persistence.
+
+Living systems remain continuous because developmental organisation preserves continuity through change rather than because material structure remains static.
+
+[[box:developmental-continuity-and-material-change]]
+
+## Developmental Regulation and Organised Stability
+
+Developmental persistence depends upon ongoing organisational regulation.
+
+Living systems must continually preserve:
+
+- physiological coordination,
+- metabolic organisation,
+- developmental integration,
+- ecological interaction,
+- behavioural coherence,
+- and viability-oriented persistence.
+
+Processes such as:
+
+- developmental canalisation,
+- developmental integration,
+- developmental scaffolding,
+- developmental inheritance,
+- and developmental niches
+
+all contribute directly to stabilising developmental persistence across time.
+
+APS consequently interprets developmental continuity as an active organisational achievement rather than a passive consequence of genetic instruction alone.
+
+Persistence is continually maintained through coordinated regulation across interacting systems.
+
+Developmental stability therefore does not imply rigidity.
+
+Continuity is preserved through adaptive transformation across changing conditions.
+
+## Relational Developmental Organisation
+
+Development is fundamentally relational.
+
+Developmental persistence frequently depends upon:
+
+- ecological stability,
+- parental support,
+- microbial relations,
+- social organisation,
+- behavioural coordination,
+- and organism–environment coupling.
+
+Living systems therefore do not develop in complete isolation.
+
+Developmental organisation often extends across ecological and relational systems through which viability is historically stabilised.
+
+APS consequently interprets development as relationally organised persistence rather than internally isolated biological construction.
+
+This relational perspective does not dissolve biological individuality.
+
+Rather, organisms remain coherent systems of organised persistence whose viability depends upon coordinated developmental relations extending across ecological and social organisation.
+
+## Development and the Emergence of Individuality
+
+Development not only preserves biological individuals. It may also generate new forms of individuality.
+
+Evolutionary and developmental history repeatedly exhibit transitions in which previously semi-independent systems become integrated into higher-order forms of coordinated persistence.
+
+Examples include:
+
+- multicellularity,
+- symbiotic integration,
+- developmental division of labour,
+- and socially coordinated developmental systems.
+
+APS consequently interprets individuality itself as developmentally emergent.
+
+New forms of biological individuality arise when developmental organisation becomes sufficiently integrated to stabilise coordinated viability-oriented persistence across interacting systems.
+
+Development therefore contributes directly to the historical emergence of new organisational levels within living systems.
+
+## Development, Perturbation, and Fragility
+
+Developmental organisation is inherently vulnerable to perturbation.
+
+Disruptions affecting:
+
+- ecological continuity,
+- physiological regulation,
+- developmental timing,
+- social support systems,
+- or organism–environment coordination
+
+may destabilise viability-oriented persistence.
+
+APS consequently treats developmental fragility and breakdown as highly informative about the organisational structures preserving developmental continuity.
+
+Perturbation reveals developmental organisation by exposing the hidden coordination through which viability is ordinarily maintained across time.
+
+Developmental fragility may therefore reveal hidden dependencies within developmental organisation that remain less visible under stable conditions.
+
+Developmental disruption consequently becomes diagnostically informative about the persistence-maintaining structures through which viable organisation is ordinarily preserved.
+
+This perspective strongly connects development with APS discussions of:
+
+- resilience,
+- fragility,
+- malfunction,
+- diagnosis,
+- and organisational breakdown.
+
+[[box:perturbation-reveals-developmental-organisation]]
+
+## Development and Evolutionary Continuity
+
+Development also shapes evolutionary continuity.
+
+Evolution depends upon developmental systems capable of preserving viability-oriented organisation across generations despite continual environmental and historical change.
+
+Developmental organisation influences:
+
+- evolutionary possibility,
+- developmental constraint,
+- ecological participation,
+- organisational innovation,
+- and long-term biological continuity.
+
+APS consequently interprets evolution and development as deeply interconnected organisational processes.
+
+Evolutionary persistence depends upon developmental systems capable of stabilising organised continuity across transformation.
+
+Development therefore becomes one of the organisational foundations of evolutionary continuity itself.
+
+## Temporal Organisation and Developmental Persistence
+
+Development is fundamentally temporally organised.
+
+Living systems preserve persistence not through static existence, but through coordinated organisation across irreversible developmental time.
+
+Ontogeny involves:
+
+- developmental sequencing,
+- temporal regulation,
+- historical continuity,
+- ecological timing,
+- and persistence-preserving transformation across changing organisational states.
+
+APS consequently interprets biological time not merely as chronological duration, but as organised developmental continuity through which viability is actively preserved across transformation.
+
+Developmental persistence therefore emerges through temporally coordinated organisation rather than static biological identity.
+
+## Why Development as Organised Persistence Matters in APS
+
+Development as organised persistence helps explain how living systems remain viable despite continual transformation across developmental, ecological, behavioural, and historical time.
+
+Within APS:
+
+- development is not merely construction of form,
+- living systems persist through coordinated developmental organisation,
+- viability-oriented persistence is actively stabilised across changing conditions,
+- developmental continuity emerges through relational, ecological, physiological, and historical organisation extending across multiple interacting systems,
+- and continuity is preserved through regulated transformation rather than preservation of fixed structure.
+
+Living systems therefore remain continuous not because they resist change, but because developmental organisation preserves viability through change.
+
+Development consequently becomes one of the central explanatory concepts within APS because it explains how biological persistence is continually organised across time.
+
+Development as organised persistence therefore links:
+
+- individuality,
+- ecology,
+- resilience,
+- evolution,
+- temporal organisation,
+- and viability
+
+within a unified explanatory framework for understanding living systems.
+
+================================================================
+FILE: src\content\articles\ecology-as-organised-persistence-across-scale.md
+================================================================
+
+---
+date: 2026-05-28
+title: "Ecology as Organised Persistence Across Scales"
+slug: ecology-as-organised-persistence-across-scales
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-09-09
+cluster: ecological-organisation
+role: anchor
+
+abstract: >
+  This article develops the APS account of ecology as materially realised
+  organism–environment organisation relevant to biological persistence.
+  Ecology is not treated as an external environmental backdrop surrounding
+  independently complete organisms, nor as persistence produced by interacting
+  scales. Living systems depend upon resources, constraints, developmental
+  conditions, ecological relations, microbial communities, and changing
+  environments that can contribute directly to their continued viability.
+  APS therefore asks which ecological relations make an explanatory difference
+  to a specified biological target and what spatial and temporal extent is
+  required to explain them. Some ecological explanations require relations
+  extending beyond organism boundaries and across broad extents; others may be
+  adequately bounded more narrowly. Scale identifies that explanatory extent
+  but does not perform the ecological interaction, coupling, constraint, or
+  causal work.
+
+keyPoints:
+  - Ecology concerns materially realised organism–environment relations relevant to organised persistence.
+  - Some conditions of organismal persistence are realised through relations extending beyond organism boundaries.
+  - Distributed persistence does not mean persistence distributed among scales.
+  - Scale identifies the spatial and temporal extent required for an ecological explanation; scales do not interact or cause.
+  - A broader ecological extent is warranted only when additional materially realised relations make an explanatory difference to the explanandum.
+  - Organism–environment coupling is a material relation and must not be confused with coupling among scales.
+  - Perturbation can reveal ecological dependencies that require expansion of an initially bounded explanation.
+  - Resilience and adaptation concern material reorganisation under changing ecological conditions.
+  - Ecological significance is viability-relative and does not by itself establish cognition.
+  - Broader or multiextent ecological explanation is a diagnostic outcome, not a universal premise.
+
+relatedGlossaryTerms:
+  - ecology
+  - ecological-organisation
+  - organism-environment-coupling
+  - persistence
+  - viability
+  - biological-agency
+  - adaptation
+  - resilience
+  - ecological-resilience
+  - semiosis
+  - cognition
+  - temporal-organisation
+  - process
+  - scale
+  - coupling
+  - constraint
+  - constraint-closure
+  - development
+
+relatedArticles:
+  - the-ecological-organisation-of-life
+  - organism-environment-coupling
+  - biological-individuality-organised-persistence-through-time
+  - biological-agency-as-the-activity-of-self-maintenance
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
+  - temporal-organisation-and-organised-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - resilience-ecology-and-continuity
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - cognition-where-does-it-belong-in-biology
+  - constraint-how-organisation-becomes-persistence
+  - explanatory-geometry-of-biology
+  - diagnosis-as-continuity-analysis
+  - what-is-evolution-in-aps
+
+references:
+  - id: levins1968
+    authors: "Levins, R."
+    year: 1968
+    title: "Evolution in Changing Environments"
+    publisher: "Princeton University Press"
+
+  - id: odum1971
+    authors: "Odum, E. P."
+    year: 1971
+    title: "Fundamentals of Ecology"
+    publisher: "Saunders"
+
+  - id: levin1998
+    authors: "Levin, S. A."
+    year: 1998
+    title: "Ecosystems and the Biosphere as Complex Adaptive Systems"
+    journal: "Ecosystems"
+    volume: "1"
+    pages: "431–436"
+
+  - id: holling1973
+    authors: "Holling, C. S."
+    year: 1973
+    title: "Resilience and Stability of Ecological Systems"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "4"
+    pages: "1–23"
+
+  - id: nicheconstruction2003
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
+    year: 2003
+    title: "Niche Construction"
+    publisher: "Princeton University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: nicholson2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+## Introduction
+
+> **Where this article fits:** *The Ecological Organisation of Life* introduces the ecological organisation of biological persistence. This article asks a more specific explanatory question: when does understanding persistence require organism–environment relations extending beyond a narrowly bounded biological system, and how should the required explanatory extent be identified?
+
+Ecology is often introduced as the study of organisms and their environments. While useful as a starting point, this description leaves open a deeper question. Why do organism–environment relations matter so fundamentally to life in the first place?
+
+APS approaches this question through organised persistence. Living systems do not persist independently of the conditions with which their organisation is materially related. Energy sources, nutrients, atmospheric and chemical conditions, developmental environments, microbial communities, ecological relationships, behavioural opportunities, and other environmental conditions can contribute directly to continued viability. Ecology therefore concerns more than a backdrop surrounding otherwise complete organisms. It investigates relations through which the conditions of biological persistence can be maintained, altered, or lost.
+
+This does not mean that ecology is inherently organised through interacting scales. The relevant explanatory question is more discriminating. For a specified ecological explanandum, which materially realised processes, constraints, interactions, and organisational relations make an explanatory difference, and across what spatial and temporal extent must they be considered?
+
+Some ecological explanations require relations extending substantially beyond organism boundaries or across long temporal intervals. Others may be adequately explained within a more bounded domain. APS does not decide between these possibilities in advance.
+
+Ecological explanation therefore identifies the materially realised organism–environment relations relevant to persistence; **Scale identifies the spatial and temporal extent required to explain them**.
+
+[[box:what-biological-explanation-explains]]
+
+The central ecological question becomes:
+
+> How do materially realised organism–environment relations contribute to the persistence relevant to a specified ecological explanandum, and what explanatory extent is required to account for that contribution?
+
+[[box:the-organisational-grammar-of-aps]]
+
+## Organisms Are Ecologically Constituted
+
+Traditional biological explanation can encourage a picture in which the organism is treated as the primary biological unit while the environment appears only as an external source of inputs, disturbances, or selection pressures. That separation becomes inadequate where conditions beyond an organism's boundary contribute materially to the organisation through which it remains viable.
+
+Every organism depends upon environmental relations of some kind. Energy must be acquired, materials exchanged, appropriate physicochemical conditions encountered or maintained, and activity regulated relative to circumstances beyond the organism itself. For many organisms, microbial partnerships, developmental environments, social relations, constructed niches, or other ecological dependencies can also make a material difference to persistence.
+
+Such relations are not made explanatory merely because they occur outside an organism. Their relevance must be established relative to the target being explained. A nutritional dependency may be indispensable to one explanandum but irrelevant to another; a microbial relation may be constitutive of a developmental outcome without being required for every explanation of the organism concerned.
+
+APS therefore permits a strong but bounded ecological claim: **some conditions of organismal persistence are materially realised through relations extending beyond organism boundaries**.
+
+This does not dissolve organisms into environments. Organisms remain materially organised living systems whose activities can modify the conditions with which they interact. Environments likewise affect organisms through specific physical, chemical, biological, and ecological relations. Where reciprocal dependence matters to the explanandum, explanation should identify those relations rather than assign the causal work to a wider scale.
+
+[[box:failure-reveals-organisation]]
+
+## Ecology as Distributed Organised Persistence
+
+Ecological organisation becomes especially important where the conditions relevant to persistence cannot be adequately represented as wholly internal to one bounded biological system.
+
+Predation, symbiosis, microbiome relations, nutrient cycling, developmental scaffolding, ecological signalling, niche construction, and multispecies interactions provide different examples of relations that may contribute to biological persistence. They are not unified by physical similarity, and they should not automatically be treated as instances of one universal ecological mechanism. Their common relevance is methodological: each can become part of an explanation when it makes a material difference to the persistence being explained.
+
+APS uses **distributed organised persistence** in this bounded sense. Persistence is distributed when materially realised conditions relevant to a specified persistence explanandum occur across relations that cannot be adequately represented as wholly internal to one bounded biological system.
+
+Distribution therefore does not mean that persistence is distributed among scales or propagated from one scale to another. The relevant processes, constraints, interactions, and organisational relations do the biological work. Scale identifies how far across space and time the explanation must extend to include them.
+
+This distinction allows ecological explanations to be broad where the biology requires breadth without treating breadth itself as explanatory.
+
+The question is therefore not:
+
+> Across how many scales is persistence distributed?
+
+but:
+
+> Which ecological relations make a difference to the persistence being explained, and what spatial and temporal extent is required to include them?
+
+## Ecology and Viability
+
+Ecological conditions matter biologically because some of them alter the prospects for continued viable organisation.
+
+Changes in resource availability, temperature, habitat conditions, predation, toxicity, microbial relations, developmental circumstances, or other environmental variables can support, disrupt, or transform the organisation through which living systems persist. Their biological significance therefore derives not simply from being external circumstances but from their relation to viability.
+
+This helps explain why ecological conditions matter to biological agency. Organisms act relative to conditions that bear differently upon their continued functioning. Resources can support persistence; hazards can threaten it; environmental opportunities can enable activities through which viable organisation is maintained or re-established.
+
+The relevant viability is not itself distributed among scales. Rather, explaining a particular viability outcome may require environmental relations extending beyond a narrowly specified boundary. Whether that broader extent is necessary must be established from the explanandum.
+
+The ecological explanatory sequence is therefore:
+
+> **Viability-relevant explanandum**  
+> ↓  
+> **Materially relevant organism–environment relations**  
+> ↓  
+> **Required spatial and temporal explanatory extent**
+
+This sequence prevents explanatory extent from being mistaken for the material organisation being explained.
+
+## Ecological Explanation and Explanatory Extent
+
+Ecological phenomena vary greatly in the spatial and temporal extent required for their explanation.
+
+A local resource interaction may sometimes be explained adequately within a narrowly bounded organism–environment relation. Other targets may require developmental history, microbial communities, population processes, habitat transformation, climatic conditions, or historical ecological relations extending substantially beyond that boundary.
+
+APS does not assume in advance that the broader explanation is superior.
+
+The controlling test is:
+
+> **A broader spatial or temporal extent is warranted in ecological explanation only when materially realised relations beyond a narrower boundary make a demonstrable explanatory difference to the ecological explanandum.**
+
+This yields two equally legitimate explanatory outcomes:
+
+> **Bounded ecological explanation**
+
+or:
+
+> **Broader / multiextent ecological explanation**
+
+A broader explanation earns its place by explanatory contribution, not by including more spatial domains, longer periods, or more biological processes. Conversely, a bounded explanation should not be rejected merely because wider ecological relations exist.
+
+Scale therefore asks **where the persistence relevant to the ecological explanandum is organised across spatial and temporal extents**. It does not coordinate those extents or cause relations between them.
+
+> **Broader ecological extent is a diagnostic outcome, not a universal premise.**
+
+## Organism–Environment Coupling
+
+Within APS, organism–environment coupling refers to materially realised relations through which living activity and environmental conditions affect one another.
+
+Living systems regulate exchanges with their environments. They acquire resources, avoid threats, exploit opportunities, modify habitats, alter local chemical or physical conditions, and reorganise activity relative to changing circumstances. Such activities can contribute directly to the maintenance or re-establishment of viable organisation.
+
+Environments are therefore not always passive backgrounds. Their conditions can participate materially in developmental, physiological, behavioural, adaptive, or other biological processes.
+
+But **processes and systems may be coupled; scales are not**.
+
+Where organism–environment coupling extends beyond a local boundary or over a longer temporal interval, Scale identifies the extent required to explain that coupling. It does not perform the coupling or propagate continuity between extents.
+
+Ecological affordances provide one example of why the relation matters. A resource for one organism may be irrelevant to another; a condition compatible with persistence for one form of life may threaten another. The ecological significance of such conditions depends upon the relation between environmental difference and viability-oriented organisation.
+
+APS consequently treats organism–environment coupling as materially real where the relevant interactions and dependencies are materially implemented. The explanatory task is to identify those relations and determine whether they require a bounded or broader ecological account.
+
+## Ecology and Development
+
+Development occurs through continuing engagement with conditions that can contribute materially to developmental organisation.
+
+Nutrition, microbial ecologies, temperature, chemical conditions, behavioural environments, social relations, developmental scaffolding, and ecological perturbations can influence developmental trajectories. Such influences cannot be understood simply by labelling development and ecology as different levels.
+
+The relevant question is whether a particular developmental explanandum depends upon materially realised relations extending beyond the boundary initially chosen for explanation.
+
+Molecular and cellular processes may be sufficient for some developmental questions. Other developmental outcomes may require physiological, behavioural, microbial, ecological, or historical relations. The appropriate explanatory extent must therefore be established case by case.
+
+APS expresses this as follows:
+
+> **Development can depend upon materially realised environmental conditions, resources, interactions, and constraints. Where such relations make a difference to a developmental explanandum, their spatial and temporal extent belongs within the explanation.**
+
+Developing organisms can also alter their environments through activity, resource use, signalling, habitat modification, and social or ecological interaction. Where this reciprocity matters, explanation should identify the material relations through which it occurs.
+
+Development therefore illustrates how an ecological explanation can legitimately extend beyond an organism without making multiextent explanation a universal requirement.
+
+## Ecology and Perturbation
+
+Ecological systems and organism–environment relations are continually exposed to changing conditions.
+
+Climatic fluctuations, habitat disruption, resource variation, predation, species interactions, pollution, anthropogenic transformation, and other perturbations can alter conditions relevant to persistence. Such changes often reveal dependencies that are difficult to identify during relatively stable functioning.
+
+APS therefore treats perturbation as diagnostically valuable. A disturbance can reveal which resources, constraints, interactions, redundancies, or environmental relations actually make a difference to the target being explained.
+
+A microbial disturbance may alter development; a developmental disruption may change behaviour; altered behaviour may modify ecological relations; ecological transformation may affect later evolutionary possibilities. These sequences should not be described as scales acting upon one another. They are candidate chains of materially realised dependency whose explanatory relevance must be demonstrated.
+
+Perturbation can therefore alter the justified boundary of an explanation:
+
+> **Where perturbation demonstrates that relations beyond an initially bounded domain make a difference to the target, the warranted explanatory extent expands accordingly.**
+
+This makes perturbation a method for discovering explanatory extent rather than evidence that ecological organisation must always be multiextent.
+
+[[box:perturbation-reveals-organisation]]
+
+## Ecology and Resilience
+
+Ecological persistence frequently requires organisation to remain viable under changing conditions.
+
+Resilience therefore involves more than resistance to disturbance. In relevant cases it concerns the capacity of materially organised relations to preserve or re-establish continuity through reorganisation when conditions change.
+
+Different mechanisms may contribute: biodiversity, behavioural flexibility, developmental plasticity, altered trophic relations, redundancy, migration, physiological adjustment, habitat modification, or ecosystem transformation. These mechanisms should not be treated as interchangeable. Their explanatory relevance depends upon the particular resilience target.
+
+Some resilience explananda may be adequately bounded. Others may depend upon relations extending beyond a local system or over longer periods. The explanatory extent should follow the demonstrated dependencies.
+
+APS therefore treats ecological resilience as **continuity-preserving or continuity-restoring reorganisation under perturbation**, where that description is appropriate to the target. Processes and relations reorganise; scales do not.
+
+## Ecology and Adaptation
+
+Adaptation occurs in relation to environmental conditions relevant to biological persistence and reproduction.
+
+Ecological relations can influence developmental trajectories, behaviour, selection pressures, and the possibilities available to organisms. Organisms can in turn modify environmental conditions through niche construction, migration, cooperation, resource use, environmental engineering, and other activities.
+
+This reciprocity is materially realised. It should not be redescribed as reciprocal influence among scales.
+
+An adaptive explanandum may require developmental, behavioural, ecological, or evolutionary relations, but their inclusion must be justified by their explanatory contribution. A broader account is warranted where excluding those relations leaves a demonstrable explanatory deficit.
+
+APS therefore treats adaptation as occurring within organism–environment organisation without assuming that every adaptive explanation must extend across the same spatial or temporal domains.
+
+Ecological conditions can change; organisms can respond to and modify those conditions; and the resulting relations can alter future possibilities for persistence. The explanatory task is to identify the material dependencies and their relevant temporal extent.
+
+## Ecology and Semiosis
+
+Ecology is not only a matter of material exchange. Living systems also encounter environmental differences that matter unequally to their continued functioning.
+
+Food, predators, toxins, shelter, mates, climatic conditions, competitors, gradients, and signals can have different consequences for viable organisation. Their significance is relational: a condition matters biologically in relation to the organisation for which it bears upon viability.
+
+Within APS, **Biological Evaluation is the process through which agency generates significance**. Ecological circumstances can participate materially in the relation being evaluated, but neither environments nor scales generate significance simply by occupying a wider explanatory domain.
+
+Signals, gradients, cues, and other environmental differences can therefore become biologically significant through their relation to viability-oriented activity. A chemical trace may be relevant to resource acquisition; a sound may indicate danger; an environmental change may alter the conditions under which persistence can be maintained.
+
+The explanatory extent required for semiosis depends on the target. Some cases may be explained through relatively local organism–environment relations. Others may require developmental history or broader ecological conditions. That extent must be demonstrated rather than assumed.
+
+APS consequently treats ecological significance as relationally real without distributing significance among scales or attributing evaluation indiscriminately to ecological systems.
+
+## Ecology and Cognition
+
+Ecological organisation provides important conditions within which cognition can operate, but ecological responsiveness alone does not establish cognition.
+
+Perception, learning, behavioural coordination, and other cognitive processes, where present, occur through engagement with viability-relevant circumstances. Ecological conditions can structure the possibilities organisms encounter and can contribute to the significance that cognitive activity integrates across time.
+
+But organism–environment coupling, adaptive response, signalling, or ecological significance does not by itself cross the APS threshold into cognition.
+
+APS therefore preserves a stronger distinction. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+The ecological contribution is consequently bounded. Ecology can help explain the conditions, relations, and significance within which cognition operates. It does not independently establish the cognitive threshold.
+
+Where a cognitive explanandum requires environmental relations extending beyond a narrowly bounded organism, those relations belong within the explanation. Where they do not make an additional explanatory difference, broader ecological extent should not be added merely because cognition occurs in an environment.
+
+## Ecology and Constraint Organisation
+
+Ecological organisation includes materially implemented constraints that shape the possibilities available to biological activity.
+
+Resource distributions, physical boundaries, chemical conditions, trophic relations, habitat structure, developmental dependencies, competition, symbiosis, and other ecological relations can constrain what living systems can do. Constraints need not merely suppress activity; they can participate in organising the conditions under which particular activities and forms of persistence remain possible.
+
+The explanatory question is not whether constraints operate at one level and influence another. It is:
+
+> **Which materially implemented constraint alters which process or condition, and what consequence does that relation have for the explanandum?**
+
+Only after those relations are identified does Scale enter the analysis by asking what spatial and temporal extent is required to explain them.
+
+Ecological constraint organisation can therefore extend beyond organism boundaries without becoming constraint by Scale. Networks of ecological dependencies may require broad explanation where their constituent relations demonstrably contribute to the target.
+
+APS consequently approaches ecological constraint organisation through:
+
+> **materially realised constraints and dependencies relevant to organised persistence, considered across whatever spatial and temporal extent their explanation requires.**
+
+## Ecology, Evolution, and Historical Continuity
+
+Ecology and evolution are deeply related, but their relation should not be represented as interaction between different scales.
+
+Evolutionary transformations occur within environmental conditions and ecological relations that can affect survival, reproduction, development, and other processes relevant to evolutionary change. Evolutionary transformations can in turn alter ecological relations by producing new forms, activities, dependencies, interactions, and environmental modifications.
+
+The relation is therefore materially and historically reciprocal where the relevant processes support that conclusion.
+
+Ecological conditions can contribute to evolutionary explananda, while evolutionary transformations can alter later ecological conditions. Whether a particular explanation requires both domains depends upon the target.
+
+Evolution concerns historical transformation across lineages. Ecology concerns organism–environment relations and other ecological organisation. Their explanatory domains can overlap without constituting interacting ontological levels or scales.
+
+Where historical ecological relations are necessary to explain an evolutionary target, the required temporal extent expands accordingly. Where an ecological target can be explained without reconstructing longer evolutionary history, that additional extent need not be imposed.
+
+APS therefore treats ecology and evolution as distinct but potentially overlapping explanatory domains within the study of organised persistence.
+
+## Beyond Reductionism and Holism
+
+Ecological explanation is sometimes framed as a choice between reduction to local mechanisms and appeal to larger ecological wholes.
+
+APS does not resolve this dispute by declaring either explanatory breadth or explanatory narrowness superior in advance.
+
+A narrowly bounded explanation may be entirely adequate when the materially relevant relations required for the explanandum lie within that boundary. It becomes insufficient when relations excluded by the boundary make a demonstrable explanatory difference.
+
+A broader ecological explanation faces the reciprocal requirement. Including more organisms, processes, spatial domains, or temporal history does not itself produce explanatory gain. The additional relations must contribute to explaining the target.
+
+The relevant methodological principle is therefore:
+
+> **The adequacy of a narrower or broader ecological explanation must be assessed relative to the explanandum and an appropriate comparator. A narrower explanation is insufficient only when materially relevant relations excluded by its boundary provide demonstrable explanatory gain. A broader explanation is not superior merely because it includes more relations.**
+
+This approach preserves mechanistic specificity while permitting explanations to extend beyond local mechanisms where the biology warrants that extension.
+
+APS therefore replaces neither reductionism with holism nor local explanation with multiextent explanation. It asks what organisation actually explains the target and how far across space and time that explanation must extend.
+
+## Why Ecology Matters in APS
+
+Ecology matters to APS because living systems do not maintain viable organisation independently of their material circumstances.
+
+Energy sources, resources, developmental conditions, microbial relations, ecological communities, physical environments, and changing external conditions can contribute directly to the persistence of living systems. Organism–environment organisation can therefore be constitutive rather than merely contextual for particular biological explananda.
+
+Ecology also provides a strong test of explanatory boundaries. Some biological questions can be answered within relatively bounded systems. Others expose dependencies extending beyond organism boundaries, across communities or environments, or through longer temporal relations.
+
+The significance of Scale is methodological. It allows APS to ask where the persistence relevant to the explanandum is organised without converting spatial or temporal extent into an additional causal entity.
+
+Ecology consequently demonstrates why explanatory boundaries should be tested rather than assumed. A local boundary may prove sufficient. It may instead fail when perturbation, comparison, or dependency analysis reveals materially relevant relations outside it.
+
+Ecological explanation is therefore especially important to APS because it can show, rather than presuppose, when organised persistence requires a broader explanatory extent.
+
+## Conclusion
+
+APS reconstructs ecology around materially realised organism–environment relations relevant to organised persistence.
+
+Living systems depend upon conditions that can extend beyond their boundaries: resources, constraints, developmental circumstances, microbial relations, ecological interactions, meaningful environmental differences, and historically changing environments. Ecology investigates how such relations contribute to biological persistence, transformation, vulnerability, and recovery.
+
+These relations do not establish that ecology is inherently multiscale. Nor do they imply that scales interact, coordinate processes, transmit constraints, or propagate persistence.
+
+Instead, ecological explanation begins with an explanandum. It identifies the materially realised processes, constraints, interactions, and organisational relations that make a difference to that target. Scale then identifies the spatial and temporal extent required to include them.
+
+Some explanations will remain bounded. Others will require broader or multiextent accounts. The distinction must be earned by explanatory evidence.
+
+Organism–environment coupling explains material relations between living systems and their conditions. Perturbation can expose dependencies that alter the justified boundary of explanation. Resilience concerns continuity-preserving or continuity-restoring reorganisation. Adaptation concerns biological change relative to ecological conditions. Semiosis concerns viability-relative significance. Cognition, where present, organises integrated biological significance across a temporal field of possibilities. Evolution concerns historical transformation across lineages that can intersect materially with ecological organisation.
+
+Taken together, these themes establish the ecological contribution to APS without making ecological breadth an explanatory premise.
+
+**Key Point.** Ecological relations can be materially constitutive of the conditions through which living systems persist, and those relations may extend beyond organism boundaries across substantial spatial or temporal extents. The required extent is determined by the explanandum and the materially realised relations that make a difference to it. Broader ecological explanation is therefore a possible diagnostic result, not a universal premise. Scale identifies where the relevant persistence must be explained; it does not perform the ecological interaction, coupling, constraint, or causal work.
+
+## Explanatory Architecture
+
+### Central Question
+
+Which materially realised organism–environment relations contribute to the persistence relevant to an ecological explanandum, and what spatial and temporal extent is required to explain that contribution?
+
+### Architectural Role
+
+This article establishes the ecological Anchor for analysing organised persistence beyond an automatically organism-bounded explanatory frame. It shows how ecological relations can enter biological explanation without treating environments as passive backgrounds or Scale as a material component of ecological organisation.
+
+### Builds On
+
+The article builds on APS accounts of life as viability-oriented, constraint-closed organisation; biological agency as viability-oriented organisational activity; organised persistence; organism–environment coupling; viability; constraint; Process; and Scale.
+
+It also depends on the distinction between materially realised biological organisation and the analytic projections through which that organisation is explained.
+
+### Develops Into
+
+The architecture developed here supports more specific APS analyses of organism–environment coupling, ecological resilience, adaptation, development, semiosis, cognition, and evolutionary transformation where ecological relations make an explanatory difference.
+
+It also provides a methodological basis for asking when ecological explanations require broader spatial or temporal extent and when a more bounded explanation is sufficient.
+
+### Related Explanatory Questions
+
+Related questions include:
+
+- When is an environmental condition constitutive of a biological explanandum rather than merely contextual?
+- How can perturbation reveal ecological dependencies that stable observation conceals?
+- Which materially implemented constraints connect organismal activity with ecological conditions?
+- When does ecological resilience require explanation beyond a local boundary?
+- How do ecological circumstances acquire viability-relative significance?
+- When do developmental or evolutionary histories make an additional explanatory difference to an ecological target?
+- What evidence warrants expanding the spatial or temporal extent of an ecological explanation?
+
+### Position within APS
+
+Ecology does not constitute a fourth APS projection. **Agency, Process, and Scale are analytic projections of one living organisation.**
+
+Agency asks what living organisation does. Process asks how continuity is maintained despite change. Scale asks where persistence is organised across spatial and temporal extents.
+
+Ecological explanation concerns particular biological explananda and the materially realised organism–environment relations relevant to them. It may draw upon one or more APS projections according to the explanatory target, but it does not establish that every ecological explanation requires all three or that Scale is automatically indispensable.
+
+### Corpus Significance
+
+This article establishes a discriminating ecological application of APS. Its central contribution is not the claim that ecology is inherently multiscale, but a method for determining when relations beyond an initially bounded system provide explanatory gain.
+
+Ecology therefore becomes an important test case for APS comparative explanatory methodology: broader explanation is warranted when additional materially realised ecological relations make a difference to the target, and not simply because wider relations can be described.
+
+## Where to Go Next
+
+- **The Ecological Organisation of Life**
+- **Organism–Environment Coupling**
+- **Ecological Resilience**
+- **Niche Construction**
+- **Adaptation — How Living Systems Sustain Themselves Through Change**
+- **Semiosis — How Differences Come to Matter in Living Systems**
+- **Cognition — Where Does It Belong in Biology?**
+- **Constraint — How Organisation Becomes Persistence**
+- **Biological Agency — The Activity of Organised Persistence**
+
+Together these articles explore how ecological relations contribute to organised persistence across development, adaptation, resilience, cognition, evolution, and other biological explananda.

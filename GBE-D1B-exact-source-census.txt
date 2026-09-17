@@ -1,0 +1,2568 @@
+APS-GENERAL-BIOLOGICAL-EXPLANATION-001
+GBE-D1B � Exact-Source Recovery
+Generated: 2026-09-17 18:44:40
+
+================================================================
+FILE: src\content\articles\a-practical-guide-to-building-better-scientific-explanations.md
+date: 2026-09-05
+title: A Practical Guide to Building Better Scientific Explanations
+slug: a-practical-guide-to-building-better-scientific-explanations
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-06
+role: core
+
+================================================================
+FILE: src\content\articles\adaptation-how-living-systems-sustain-themselves-through-change.md
+date: 2026-05-28
+title: "Adaptation — How Living Systems Sustain Themselves Through Change"
+slug: adaptation-how-living-systems-sustain-themselves-through-change
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-22
+role: core
+
+================================================================
+FILE: src\content\articles\ageing-and-organisational-persistence.md
+date: 2026-05-24
+title: "Ageing and Organisational Persistence"
+slug: ageing-and-organisational-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+FILE: src\content\articles\agency-and-organised-persistence.md
+date: 2026-06-14
+title: Agency and Organised Persistence
+slug: agency-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-06-14
+revised: 2026-09-09
+role: extension
+
+================================================================
+FILE: src\content\articles\agency-as-the-defining-activity-of-life.md
+date: 2026-04-08
+title: Agency as the Defining Activity of Life
+slug: agency-as-the-defining-activity-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-04-08
+revised: 2026-09-09
+role: clarification
+
+================================================================
+FILE: src\content\articles\agency-evolution-and-the-architecture-of-biological-explanation.md
+date: 2026-04-09
+title: "Agency, Evolution, and the Architecture of Biological Explanation"
+slug: biological-agency-evolution-and-the-architecture-of-biological-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-09
+role: extension
+
+================================================================
+FILE: src\content\articles\agency-in-contemporary-biology-ci.md
+date: 2026-06-13
+title: "Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework"
+slug: agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework
+type: article
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-09-09
+role: synthesis
+
+================================================================
+FILE: src\content\articles\analysis-synthesis-and-the-direction-of-explanation.md
+date: 2026-05-03
+title: Analysis, Synthesis, and the Direction of Explanation
+slug: analysis-synthesis-and-the-direction-of-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-03
+revised: 2026-08-19
+
+================================================================
+FILE: src\content\articles\aps-and-autonomy-theory-cib.md
+date: 2026-04-27
+title: APS and Autonomy Theory — Constraint Closure, Viability, and Organised Persistence
+slug: aps-and-autonomy-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\aps-and-biosemiotics.md
+title: "APS and Biosemiotics: Meaning, Significance, and Biological Organisation"
+slug: aps-and-biosemiotics
+date: 2026-08-07
+type: article
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-08-10
+role: synthesis
+
+================================================================
+FILE: src\content\articles\aps-and-contemporary-theories-ci.md
+date: 2026-04-27
+title: "APS and Contemporary Explanatory Approaches"
+slug: aps-and-contemporary-theories
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-13
+role: synthesis
+
+================================================================
+FILE: src\content\articles\aps-and-culture-ci.md
+date: 2026-04-09
+title: "APS and Culture: How Social Systems Extend Organised Persistence Across Time"
+slug: aps-and-culture
+type: article
+status: evolving
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\aps-and-economics.md
+date: 2026-04-09
+title: "APS and Economics: How Economic Systems Organise Viability Across Scales"
+slug: aps-and-economics
+type: article
+status: evolving
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\aps-and-systems-theory-ci.md
+date: 2026-04-11
+title: APS and Systems Theory — Similarities, Differences, and Limits
+slug: aps-and-systems-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\aps-and-the-edges-of-life-ci.md
+date: 2026-05-15
+title: "APS and the Edges of Life — Why Borderline Cases Are Expected, Not Problematic"
+slug: aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-09-07
+role: synthesis
+
+================================================================
+FILE: src\content\articles\aps-and-the-extended-evolutionary-synthesis.md
+date: 2026-04-27
+title: "APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison"
+slug: aps-and-the-extended-evolutionary-synthesis
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\aps-and-the-free-energy-principle.md
+date: 2026-04-11
+title: "APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison"
+slug: aps-and-the-free-energy-principle
+type: article
+status: canonical
+canonicalLockDate: 2026-08-04
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\aps-and-the-social-sciences.md
+date: 2026-04-09
+title: "APS and the Social Sciences: How Social Systems Organise Viability Across Scales"
+slug: aps-and-the-social-sciences
+type: article
+status: evolving
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\aps-as-an-organised-conceptual-system-why-definitions-form-a-system.md
+date: 2026-04-07
+title: APS as an Organised Conceptual System — Why Definitions Form a System
+slug: aps-as-an-organised-conceptual-system-why-definitions-form-a-system
+type: article
+status: canonical
+canonicalLockDate: 2026-05-03
+revised: 2026-07-17
+role: core
+
+================================================================
+FILE: src\content\articles\aps-as-philosophy-viability-oriented-account-ci.md
+date: 2026-07-28
+title: "APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility"
+slug: aps-as-philosophy-biological-intelligibility
+type: article
+status: canonical
+canonicalLockDate: 2026-07-28
+revised: 2026-09-10
+role: anchor
+
+================================================================
+FILE: src\content\articles\aps-cognitive-lexicon.md
+title: APS Cognitive Lexicon
+slug: aps-cognitive-lexicon
+date: 2026-06-22
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-09-17
+role: clarification
+
+================================================================
+FILE: src\content\articles\aps-diagnotics-empirical-tractability.md
+date: 2026-04-27
+title: APS Diagnostics — How Viability-Oriented Organisation Becomes Empirically Testable
+slug: aps-diagnostics-empirical-tractability
+type: article
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\aps-visual-explanatory-grammar-ci.md
+title: "APS Visual Explanatory Grammar"
+slug: aps-visual-explanatory-grammar
+type: article
+date: 2026-05-18
+status: canonical
+canonicalLockDate: 2026-05-20
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\architectural-dependency-and-biological-explanation.md
+date: 2026-07-13
+title: "Architectural Dependency and Biological Explanation"
+slug: architectural-dependency-and-biological-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-07-13
+revised: 2026-09-03
+role: core
+
+================================================================
+FILE: src\content\articles\are-viruses-alive.md
+date: 2026-06-22
+title: Are Viruses Alive?
+slug: are-viruses-alive
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-06-23
+role: extension
+
+================================================================
+FILE: src\content\articles\aristotle-and-the-foundations-of-biology.md
+date: 2026-04-27
+title: "Aristotle and the Foundations of Biology"
+slug: "aristotle-and-the-foundations-of-biology"
+type: article
+status: "canonical"
+revised: "2026-04-03"
+
+================================================================
+FILE: src\content\articles\beyond-placeholder-concepts-in-biology-an-aps-clarification.md
+date: 2026-04-30
+title: Beyond Placeholder Concepts in Biology — An APS Clarification
+slug: beyond-placeholder-concepts-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-04-30
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\biological-agency-as-the-activity-of-self-maintenance.md
+title: Biological Agency as the Activity of Self-Maintenance
+slug: biological-agency-as-the-activity-of-self-maintenance
+type: article
+status: canonical
+canonicalLockDate: 2026-06-14
+date: 2026-06-14
+revised: 2026-09-17
+role: anchor
+
+================================================================
+FILE: src\content\articles\biological-explanation-and-organised-persistence-ci.md
+date: 2026-05-27
+title: "Biological Explanation and Organised Persistence"
+slug: biological-explanation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-09-14
+role: core
+
+================================================================
+FILE: src\content\articles\biological-explanation-what-needs-to-be-explained-ci.md
+date: 2026-04-27
+title: "Biological Explanation — What Needs to Be Explained"
+slug: "biological-explanation-what-needs-to-be-explained"
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+role: core
+
+================================================================
+FILE: src\content\articles\biological-goals-without-mentalism.md
+date: 2026-05-27
+title: "Biological Goals Without Mentalism"
+slug: biological-goals-without-mentalism
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-07-28
+role: clarification
+
+================================================================
+FILE: src\content\articles\biological-individuality-organised-persistence-through-time.md
+date: 2026-05-28
+title: "Biological Individuality — Organised Persistence Through Time"
+slug: biological-individuality-organised-persistence-through-time
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\biological-organisation-how-living-systems-sustain-themselves.md
+date: 2026-08-23
+title: "Biological Organisation — How Living Systems Sustain Themselves"
+slug: biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-08-23
+revised: 2026-09-03
+role: core
+
+================================================================
+FILE: src\content\articles\biology-what-the-science-of-life-explains.md
+date: 2026-04-14
+title: Biology — What the Science of Life Explains
+slug: biology
+type: article
+status: canonical
+canonicalLockDate: 2026-04-14
+revised: 2026-08-27
+
+================================================================
+FILE: src\content\articles\boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems.md
+date: 2026-06-10
+title: "The Boundaries of Life: How APS Approaches Living, Artificial, and Borderline Systems"
+slug: boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems
+type: article
+status: canonical
+canonicalLockDate: 2026-06-10
+revised: 2026-09-07
+role: anchor
+
+================================================================
+FILE: src\content\articles\classification-without-essentialism-ci.md
+date: 2026-04-15
+title: Classification Without Essentialism — How APS Reframes Biological Taxonomy
+slug: classification-without-essentialism
+type: article
+status: canonical
+canonicalLockDate: 2026-04-12
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\comparative-explanatory-methodology-theoretical-biology.md
+title: "Comparative Explanatory Methodology in Theoretical Biology"
+slug: comparative-explanatory-methodology-theoretical-biology
+date: 2026-08-07
+type: article
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\consciousness-an-aps-clarification.md
+date: 2026-05-07
+title: Consciousness — An APS Clarification
+slug: consciousness-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\constraint-closure-what-it-does-and-does-not-do.md
+date: 2026-04-09
+title: "Constraint Closure — What It Does and What It Does Not Do"
+slug: constraint-closure-what-it-does-and-does-not-do
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-08
+role: core
+
+================================================================
+FILE: src\content\articles\constraint-how-organisation-becomes-persistence.md
+date: 2026-05-28
+title: "Constraint — How Organisation Becomes Persistence"
+slug: constraint-how-organisation-becomes-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\continuity-architecture-of-life-ci.md
+date: 2026-06-01
+title: "The Continuity Architecture of Life"
+slug: continuity-architecture-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-28
+role: synthesis
+
+================================================================
+FILE: src\content\articles\continuity-structure-of-biological-organisation-ci.md
+date: 2026-05-17
+title: "The Continuity Structure of Biological Organisation"
+slug: continuity-structure-of-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+role: synthesis
+
+================================================================
+FILE: src\content\articles\cross-culture-biology.md
+date: 2026-07-22
+title: "Biological Organisation and the Organisation of Explanation: Why APS Resonates Across Intellectual Traditions"
+slug: biological-organisation-and-the-organisation-of-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-07-22
+revised: 2026-08-18
+role: synthesis
+
+================================================================
+FILE: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+date: 2026-05-07
+title: Definition and Diagnosis in APS — Why Life Is Evaluated Rather Than Merely Classified
+slug: definition-and-diagnosis-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-05-07
+revised: 2026-08-03
+role: core
+
+================================================================
+FILE: src\content\articles\description-explanation-and-definition-in-biology-cia.md
+date: 2026-05-07
+title: Description, Explanation, and Definition in Biology — An APS Clarification
+slug: description-explanation-and-definition-in-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-05-07
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\design-in-nature-an-aps-clarification-ci.md
+date: 2026-06-30
+title: Is There Design in Nature?
+slug: design-in-nature-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-06-30
+revised: 2026-07-18
+
+================================================================
+FILE: src\content\articles\development-and-biological-individuality.md
+date: 2026-05-26
+title: "Development and Biological Individuality"
+slug: development-and-biological-individuality
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\development-and-ecological-organisation.md
+date: 2026-05-26
+title: "Development and Ecological Organisation"
+slug: development-and-ecological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: extension
+
+================================================================
+FILE: src\content\articles\developmental-inheritance.md
+date: 2026-05-26
+title: "Developmental Inheritance"
+slug: developmental-inheritance
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\developmental-organisation-and-organised-persistence.md
+date: 2026-05-15
+title: "Developmental Organisation and Organised Persistence"
+slug: developmental-organisation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-20
+revised: 2026-07-09
+role: synthesis
+
+================================================================
+FILE: src\content\articles\developmental-plasticity-and-organised-persistence.md
+date: 2026-05-15
+title: "Developmental Plasticity"
+slug: developmental-plasticity
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life.md
+date: 2026-06-13
+title: Diagnosing Agency — Biosignatures, Perturbations, and the Empirical Tractability of Life
+slug: diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-15
+role: synthesis
+
+================================================================
+FILE: src\content\articles\diagnosing-viruses-in-aps.md
+date: 2026-04-10
+title: Diagnosing Viruses in APS
+slug: diagnosing-viruses-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-10
+revised: 2026-06-15
+role: extension
+
+================================================================
+FILE: src\content\articles\diagnosis-as-continuity-analysis.md
+date: 2026-05-20
+title: "Diagnosis as Continuity Analysis"
+slug: diagnosis-as-continuity-analysis
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\ecological-organisation-and-organised-persistence-ci.md
+date: 2026-05-15
+title: "Ecological Organisation and Organised Persistence"
+slug: ecological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-09-09
+role: core
+
+================================================================
+FILE: src\content\articles\ecology-as-organised-persistence-across-scale.md
+date: 2026-05-28
+title: "Ecology as Organised Persistence Across Scales"
+slug: ecology-as-organised-persistence-across-scales
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-09
+role: anchor
+
+================================================================
+FILE: src\content\articles\emergence-in-biology-an-aps-clarification.md
+date: 2026-04-30
+title: "Emergence in Biology — An APS Clarification"
+slug: emergence-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\evolution-as-the-historical-transformation-of-organised-persistence-ci.md
+date: 2026-05-28
+title: "Evolution as the Historical Transformation of Organised Persistence"
+slug:  evolution
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-20
+role: anchor
+
+================================================================
+FILE: src\content\articles\evolution-taxonomy-and-the-reorganisation-of-biological-explanation.md
+title: Evolution, Taxonomy, and the Reorganisation of Biological Explanation
+slug: evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+date: 2026-06-20
+type: article
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\articles\explanatory-grammar.md
+date: 2026-04-13
+title: Explanatory Grammar
+slug: explanatory-grammar
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-19
+
+================================================================
+FILE: src\content\articles\explanatory-grammars-and-the-history-of-ideas.md
+title: "Explanatory Grammars and the History of Ideas"
+slug: "explanatory-grammars-and-the-history-of-ideas"
+type: article
+date: 2026-05-10
+revised: 2026-06-15
+status: canonical
+canonicalLockDate: 2026-05-10
+
+================================================================
+FILE: src\content\articles\explanatory-priority-is-not-ontological-priority.md
+date: 2026-05-28
+title: "Explanatory Priority Is Not Ontological Priority"
+slug: explanatory-priority-is-not-ontological-priority
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\fitness-differential-continuity-and-organised-persistence.md
+date: 2026-06-18
+title: Fitness — Differential Continuity and Organised Persistence
+slug: fitness-differential-continuity-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-06-18
+revised: 2026-06-22
+
+================================================================
+FILE: src\content\articles\from-aristotle-to-modern-biology-the-transformation-of-a-science.md
+date: 2026-03-27
+title: "From Aristotle to Modern Biology: The Transformation of a Science"
+slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
+type: article
+status: canonical
+revised: 2026-03-27
+
+================================================================
+FILE: src\content\articles\from-life-to-explanation-emerging-architecture.md
+date: 2026-04-18
+title: From Life to Explanation — The Explanatory Architecture of APS
+slug: from-life-to-explanation-emerging-architecture
+type: article
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-09-17
+role: synthesis
+
+================================================================
+FILE: src\content\articles\from-metaphysics-to-mechanism-and-beyond.md
+date: 2026-04-16
+title: From Metaphysics to Mechanism—and Beyond - The Progressive Naturalisation of Science and the Place of APS
+slug: from-metaphysics-to-mechanism-and-beyond
+type: article
+status: canonical
+canonicalLockDate: 2026-04-16
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\from-viability-to-normativity.md
+date: 2026-06-04
+title: "From Viability to Normativity"
+slug: from-viability-to-normativity
+type: article
+status: canonical
+canonicalLockDate: 2026-06-04
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\function-and-normativity-why-biological-organisation-matters.md
+date: 2026-05-28
+title: Function and Normativity â€” Why Biological Organisation Matters
+slug: function-and-normativity-why-biological-organisation-matters
+type: article
+status: canonical
+canonicalLockDate: 2026-07-24
+revised: 2026-08-21
+role: core
+
+================================================================
+FILE: src\content\articles\function-how-living-systems-make-persistence-operational-ci.md
+date: 2026-07-25
+title: "Function as Operational Organisation"
+slug: function-as-operational-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-07-25
+revised: 2026-09-10
+role: core
+
+================================================================
+FILE: src\content\articles\gene-centric-biology-and-aps.md
+date: 2026-04-11
+title: Gene-Centric Biology and APS — Why Genes Are Not “In Charge”
+slug: gene-centric-biology-and-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-06-22
+role: clarification
+
+================================================================
+FILE: src\content\articles\how-did-cognition-become-a-biological-problem.md
+date: 2026-09-12
+title: "How Did Cognition Become a Biological Problem?"
+slug: how-did-cognition-become-a-biological-problem
+type: article
+status: canonical
+canonicalLockDate: 2026-09-12
+revised: 2026-09-12
+role: synthesis
+
+================================================================
+FILE: src\content\articles\how-did-matter-become-aware-of-itself-ci.md
+date: 2026-07-07
+title: "How Did Matter Become Aware of Itself?"
+slug: how-did-matter-become-aware-of-itself
+type: article
+status: canonical
+canonicalLockDate: 2026-07-07
+revised: 2026-09-13
+role: anchor
+
+================================================================
+FILE: src\content\articles\how-did-scientists-learn-to-think-about-explanation.md
+date: 2026-09-03
+title: "How Did Scientists Learn to Think About Explanation?"
+slug: how-did-scientists-learn-to-think-about-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-09-03
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-do-contemporary-biological-frameworks-explain.md
+date: 2026-09-04
+title: "How Do Contemporary Biological Frameworks Explain?"
+slug: how-do-contemporary-biological-frameworks-explain
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-do-scientific-explanations-go-wrong.md
+date: 2026-09-04
+title: How Do Scientific Explanations Go Wrong?
+slug: how-do-scientific-explanations-go-wrong
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-do-we-know-something-is-alive.md
+date: 2026-06-22
+title: How Do We Know Something Is Alive?
+slug: how-do-we-know-something-is-alive
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-06-22
+role: synthesis
+
+================================================================
+FILE: src\content\articles\how-does-scientific-explanation-reach-reality.md
+date: 2026-08-09
+title: "How Does Scientific Explanation Reach Reality?"
+slug: how-does-scientific-explanation-reach-reality
+type: article
+status: canonical
+canonicalLockDate: 2026-08-09
+revised: 2026-08-10
+role: synthesis
+
+================================================================
+FILE: src\content\articles\how-should-a-new-scientific-framework-be-tested.md
+date: 2026-09-05
+title: "How Should a New Scientific Framework Be Tested?"
+slug: how-should-a-new-scientific-framework-be-tested
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-07
+role: core
+
+================================================================
+FILE: src\content\articles\how-should-scientific-explanations-be-compared.md
+date: 2026-09-04
+title: "How Should Scientific Explanations Be Compared?"
+slug: how-should-scientific-explanations-be-compared
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-should-the-strongest-comparator-be-chosen.md
+date: 2026-09-05
+title: "How Should the Strongest Comparator Be Chosen?"
+slug: how-should-the-strongest-comparator-be-chosen
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-to-diagnose-a-biological-system.md
+date: 2026-05-07
+title: "How to Diagnose a Biological System — An APS Method"
+slug: how-to-diagnose-a-biological-system
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-06-15
+role: anchor
+
+================================================================
+FILE: src\content\articles\human-values.md
+title: Human Values
+date: 2026-08-04
+slug: human-values
+type: article
+status: canonical
+canonicalLockDate: 2026-08-04
+revised: 2026-08-04
+role: anchor
+
+================================================================
+FILE: src\content\articles\information-in-biology-an-aps-clarification.md
+date: 2026-05-15
+title: "Information in Biology: An APS Clarification"
+slug: information-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\is-all-life-sentient-an-aps-response.md
+date: 2026-04-05
+title: "Is All Life Sentient? An APS Response"
+slug: "is-all-life-sentient-an-aps-response"
+type: article
+status: canonical
+revised: 2026-04-05
+
+================================================================
+FILE: src\content\articles\levels-vs-scale-why-biological-organisation-is-not-hierarchical.md
+title: Levels vs Scale — Why Biological Organisation Is Not Hierarchical
+slug: levels-vs-scale-why-biological-organisation-is-not-hierarchical
+date: 2026-04-09
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-08
+role: clarification
+
+================================================================
+FILE: src\content\articles\life-detection-in-aps-biosignatures-organisation-and-evidence.md
+date: 2026-06-12
+title: "Life Detection in APS — Biosignatures, Organisation, and Evidence"
+slug: life-detection-in-aps-biosignatures-organisation-and-evidence
+type: article
+status: canonical
+canonicalLockDate: 2026-06-12
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\malfunction-breakdown-and-death-ci.md
+date: 2026-05-07
+title: "Malfunction, Breakdown, and Death — Failure in Viability-Oriented Systems"
+slug: malfunction-breakdown-and-death
+type: article
+status: canonical
+canonicalLockDate: 2026-05-07
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\articles\mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes.md
+date: 2026-04-05
+title: "Mentalistic Terms in Biology — What APS Accepts, Rejects, and Reframes"
+slug: "mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes"
+type: article
+status: canonical
+revised: 2026-04-05
+role: clarification
+
+================================================================
+FILE: src\content\articles\multiple-realization-and-biological-organisation.md
+date: 2026-05-27
+title: "Multiple Realization and Biological Organisation — An APS Clarification"
+slug: multiple-realization-and-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\natural-selection-and-organised-persistence.md
+date: 2026-05-05
+title: Natural Selection and Organised Persistence
+slug: natural-selection-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-05
+revised: 2026-06-22
+role: core
+
+================================================================
+FILE: src\content\articles\naturalising-life-how-biological-concepts-become-scientifically-intelligible-ci.md
+title: Naturalising Life
+slug: naturalising-life
+type: article
+date: 2026-07-08
+revised: 2026-09-02
+status: canonical
+canonicalLockDate: 2026-07-08
+role: synthesis
+
+================================================================
+FILE: src\content\articles\organisational-realism-in-biology.md
+date: 2026-05-19
+title: "Organisational Realism in Biology"
+slug: organisational-realism-in-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-10
+role: extension
+
+================================================================
+FILE: src\content\articles\organism-environment-coupling-and-organised-persistence.md
+date: 2026-05-28
+title: "Organism–Environment Coupling — Distributed Persistence Across Living Systems"
+slug: organism-environment-coupling
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-09
+role: core
+
+================================================================
+FILE: src\content\articles\organism-individual-agent-distinction.md
+date: 2026-04-09
+title: Organism, Individual, and Agent — Distinguishing Three Forms of Biological Unity
+slug: organism-individual-agent-distinction
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\persistence-organised-continuity-through-time-ci.md
+date: 2026-05-22
+title: "Persistence — Organised Continuity Through Time"
+slug: persistence-organised-continuity-through-time
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation-ci.md
+date: 2026-04-16
+title: "Physiology and Evolution in APS — Two Temporal Perspectives on Organised Persistence"
+slug: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-06-22
+role: synthesis
+
+================================================================
+FILE: src\content\articles\plant-cognition-and-the-development-of-aps.md
+date: 2026-09-17
+title: "Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation"
+slug: plant-cognition-and-the-development-of-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-09-17
+revised: 2026-09-17
+role: synthesis
+
+================================================================
+FILE: src\content\articles\plant-cognition-aps-interpretation.md
+date: 2026-05-04
+title: "Plant Cognition — A Critical Review and APS Interpretation"
+slug: plant-cognition-aps-interpretation
+type: article
+status: canonical
+canonicalLockDate: 2026-09-11
+revised: 2026-09-12
+role: core
+
+================================================================
+FILE: src\content\articles\process-the-dynamics-of-living-organisation.md
+date: 2026-04-08
+title: "Process — The Dynamics of Living Organisation"
+slug: "process-the-dynamics-of-living-biological-organisation"
+type: article
+status: canonical
+revised: 2026-09-08
+role: core
+
+================================================================
+FILE: src\content\articles\processual-individuality.md
+date: 2026-05-27
+title: "Processual Individuality"
+slug: processual-individuality
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-06-15
+role: extension
+
+================================================================
+FILE: src\content\articles\purpose-the-organisation-of-viability-oriented-activity.md
+date: 2026-05-28
+title: Purpose — The Organisation of Viability-Oriented Activity
+slug: purpose-the-organisation-of-viability-oriented-activity
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-07-26
+role: core
+
+================================================================
+FILE: src\content\articles\reductionism-in-biology-an-aps-clarification-cib.md
+date: 2026-04-20
+title: "Reductionism in Biology — An APS Clarification"
+slug: reductionism-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\articles\reframing-biology-how-aps-reorganises-core-concepts-ci.md
+date: 2026-04-16
+title: Reframing Biology – How APS Reorganises Core Concepts
+slug: reframing-biology-how-aps-reorganises-core-concepts
+type: article
+status: canonical
+canonicalLockDate: 2026-04-16
+revised: 2026-07-22
+
+================================================================
+FILE: src\content\articles\resilience-ecology-and-continuity.md
+date: 2026-05-18
+title: "Resilience, Ecology, and Continuity"
+slug: resilience-ecology-and-continuity
+type: article
+status: canonical
+canonicalLockDate: 2026-05-20
+revised: 2026-06-25
+role: core
+
+================================================================
+FILE: src\content\articles\scale-how-life-is-coordinated-across-space-and-time.md
+date: 2026-04-09
+title: "Scale — How Life Is Coordinated Across Space and Time"
+slug: "scale-how-life-is-coordinated-across-space-and-time"
+type: article
+status: canonical
+revised: 2026-09-08
+role: core
+
+================================================================
+FILE: src\content\articles\scale-time-persistence.md
+date: 2026-04-08
+title: "Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity"
+slug: "scale-time-persistence"
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-08
+role: synthesis
+
+================================================================
+FILE: src\content\articles\semiosis-how-differences-come-to-matter-in-living-systems-ci.md
+date: 2026-05-06
+title: "Semiosis — How Differences Come to Matter in Living Systems"
+slug: semiosis-how-differences-come-to-matter-in-living-systems
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+role: core
+
+================================================================
+FILE: src\content\articles\space-time-and-organisation-in-biology.md
+title: Space, Time, and Organisation in Biology — An APS Clarification
+slug: space-time-and-organisation-in-biology
+type: article
+date: 2026-05-01
+revised: 2026-08-03
+status: canonical
+canonicalLockDate: 2026-05-01
+
+================================================================
+FILE: src\content\articles\structure-of-biological-explanation-in-aps.md
+date: 2026-04-16
+title: "The Structure of Biological Explanation in APS"
+slug: structure-of-biological-explanation-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-16
+revised: 2026-08-18
+
+================================================================
+FILE: src\content\articles\teleology-in-biology-an-aps-clarification-ci.md
+date: 2026-05-04
+title: "Teleology in Biology — An APS Clarification"
+slug: teleology-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonicalLockDate: 2026-05-04
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\temporal-organisation-and-organised-persistence.md
+date: 2026-05-15
+title: "Temporal Organisation and Organised Persistence"
+slug: temporal-organisation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\the-aps-glossary-as-conceptual-infrastructure.md
+date: 2026-05-02
+title: The APS Glossary as Conceptual Infrastructure
+slug: aps-glossary-as-conceptual-infrastructure
+type: article
+status: canonical
+canonicalLockDate: 2026-05-03
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\articles\the-developmental-organisation-of-life.md
+date: 2026-05-27
+title: "The Developmental Organisation of Life"
+slug: the-developmental-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\articles\the-ecological-organisation-of-life-ci.md
+date: 2026-06-01
+title: "The Ecological Organisation of Life"
+slug: the-ecological-organisation-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-01
+revised: 2026-06-24
+role: anchor
+
+================================================================
+FILE: src\content\articles\the-explanatory-geometry-of-biology-ci.md
+date: 2026-04-27
+title: "The Explanatory Geometry of Biology — How APS Organises Biological Explanation"
+slug: explanatory-geometry-of-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-06-16
+revised: 2026-09-07
+role: core
+
+================================================================
+FILE: src\content\articles\the-one-page-framework-map.md
+date: 2026-04-05
+title: "The One-Page Framework Map"
+slug: "the-one-page-framework-map"
+type: article
+status: canonical
+revised: 2026-04-05
+
+================================================================
+FILE: src\content\articles\the-philosophical-foundations-of-aps.md
+date: 2026-07-14
+title: "The Philosophical Foundations of APS"
+slug: the-philosophical-foundations-of-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-07-14
+revised: 2026-09-15
+role: synthesis
+
+================================================================
+FILE: src\content\articles\the-two-founding-questions-of-biology.md
+date: 2026-04-05
+title: "The Two Founding Questions of Biology"
+slug: "the-two-founding-questions-of-biology"
+type: article
+status: canonical
+revised: 2026-04-05
+
+================================================================
+FILE: src\content\articles\theoretical-biology-and-philosophy-of-biology-boundary-overlap-and-division-of-explanatory-labour.md
+date: 2026-08-17
+title: "Theoretical Biology and Philosophy of Biology: Boundary, Overlap, and Division of Explanatory Labour"
+slug: theoretical-biology-and-philosophy-of-biology-boundary-overlap-and-division-of-explanatory-labour
+type: article
+status: canonical
+canonicalLockDate: 2026-08-17
+revised: 2026-08-17
+role: synthesis
+
+================================================================
+FILE: src\content\articles\time-and-biological-organisation.md
+date: 2026-06-26
+title: Time and Biological Organisation — An APS Perspective
+slug: time-and-biological-organisation
+type: article
+status: canonical
+canonicalLockDate: 2026-06-26
+revised: 2026-07-01
+role: synthesis
+
+================================================================
+FILE: src\content\articles\viability-the-organising-principle-of-biological-pesistence.md
+date: 2026-05-28
+title: "Viability — The Organising Principle of Biological Persistence"
+slug: viability-the-organising-principle-of-biological-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-07
+role: core
+
+================================================================
+FILE: src\content\articles\what-counts-as-explanatory-gain.md
+date: 2026-09-04
+title: "What Counts as Explanatory Gain?"
+slug: what-counts-as-explanatory-gain
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\what-does-aps-mean-by-an-analytic-projection.md
+date: 2026-09-10
+title: "Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?"
+slug: what-does-aps-mean-by-an-analytic-projection
+type: article
+status: canonical
+canonicalLockDate: 2026-09-10
+revised: 2026-09-10
+role: clarification
+
+================================================================
+FILE: src\content\articles\what-happens-when-aps-is-tested-against-its-strongest-comparators.md
+date: 2026-09-05
+title: "What Happens When APS Is Tested Against Its Strongest Comparators?"
+slug: what-happens-when-aps-is-tested-against-its-strongest-comparators
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-06
+role: extension
+
+================================================================
+FILE: src\content\articles\what-is-a-biological-system.md
+date: 2026-07-27
+title: What Is a Biological System? — Mechanisms, Agency, and Organised Persistence
+slug: what-is-a-biological-system
+type: article
+status: canonical
+canonicalLockDate: 2026-07-27
+revised: 2026-08-10
+role: core
+
+================================================================
+FILE: src\content\articles\what-is-a-gene-ci.md
+date: 2026-06-22
+title: What Is a Gene in APS?
+slug: what-is-a-gene-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-06-23
+role: extension
+
+================================================================
+FILE: src\content\articles\what-is-a-scientific-explanation.md
+date: 2026-09-03
+title: "What Is a Scientific Explanation?"
+slug: what-is-a-scientific-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-09-03
+revised: 2026-09-05
+role: anchor
+
+================================================================
+FILE: src\content\articles\what-is-a-species-in-aps.md
+date: 2026-04-15
+title: What Is a Species in APS?
+slug: what-is-a-species-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-12
+revised: 2026-06-20
+role: extension
+
+================================================================
+FILE: src\content\articles\what-is-an-organism.md
+date: 2026-04-10
+title: What Is an Organism?
+slug: what-is-an-organism
+type: article
+status: canonical
+canonicalLockDate: 2026-04-10
+revised: 2026-06-15
+role: core
+
+================================================================
+FILE: src\content\articles\what-is-biological-regulation-ci.md
+date: 2026-06-25
+title: What Is Biological Regulation?
+slug: what-is-biological-regulation
+type: article
+status: canonical
+canonicalLockDate: 2026-06-25
+revised: 2026-07-01
+role: clarification
+
+================================================================
+FILE: src\content\articles\what-is-biology-trying-to-explain.md
+date: 2026-07-24
+title: What Is Biology Trying to Explain?
+slug: what-is-biology-trying-to-explain
+type: article
+status: canonical
+canonicalLockDate: 2026-08-27
+revised: 2026-08-27
+role: synthesis
+
+================================================================
+FILE: src\content\articles\what-is-it-about-life.md
+date: 2026-06-29
+title: What Is It About Life? — The Search for Life's Defining Principle
+slug: what-is-it-about-life
+type: article
+status: canonical
+canonicalLockDate: 2026-06-29
+revised: 2026-06-29
+role: synthesis
+
+================================================================
+FILE: src\content\articles\what-is-life-a-biological-question-revisited.md
+date: 2026-04-27
+title: What Is Life? — A Biological Question Revisited
+slug: what-is-life-a-biological-question-revisited
+type: article
+status: canonical
+canonicalLockDate: 2026-06-28
+revised: 2026-09-07
+role: anchor
+
+================================================================
+FILE: src\content\articles\what-is-the-fundamental-unit-of-life.md
+date: 2026-07-01
+title: What Is the Fundamental Unit of Life?
+slug: what-is-the-fundamental-unit-of-life
+type: article
+status: canonical
+canonicalLockDate: 2026-07-01
+revised: 2026-07-01
+role: synthesis
+
+================================================================
+FILE: src\content\articles\what-is-theoretical-biology-historical-transformations-and-contemporary-explanation.md
+date: 2026-08-17
+title: "What Is Theoretical Biology? Historical Transformations and Contemporary Explanatory Practice"
+slug: what-is-theoretical-biology-historical-transformations-and-contemporary-explanatory-practice
+type: article
+status: canonical
+canonicalLockDate: 2026-08-17
+revised: 2026-08-17
+role: synthesis
+
+================================================================
+FILE: src\content\articles\what-makes-an-explanation-successful.md
+date: 2026-09-03
+title: "What Makes an Explanation Successful?"
+slug: what-makes-an-explanation-successful
+type: article
+status: canonical
+canonicalLockDate: 2026-09-03
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\which-explanatory-framework-is-best.md
+date: 2026-09-05
+title: Which Explanatory Framework Is Best?
+slug: which-explanatory-framework-is-best
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\why-aps-is-not-hierarchical-ci.md
+date: 2026-04-09
+title: Why APS Is Not Hierarchical
+slug: why-aps-is-not-hierarchical
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-09
+role: clarification
+
+================================================================
+FILE: src\content\articles\why-aps-is-not-holism-ci.md
+date: 2026-05-28
+title: "Why APS Is Not Holism"
+slug: why-aps-is-not-holism
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-08-10
+
+================================================================
+FILE: src\content\articles\why-aps-is-not-organicism-ci.md
+date: 2026-05-28
+title: "Why APS Is Not Organicism"
+slug: why-aps-is-not-organicism
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\why-aps-reframes-biology.md
+date: 2026-05-12
+title: "Why APS Reframes Biology"
+slug: why-aps-reframes-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-05-12
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\why-aps.md
+date: 2026-07-28
+title: Why APS? Why Biology Still Needs an Organisational Framework for Life
+slug: why-aps
+type: orientation
+status: canonical
+canonicalLockDate: 2026-07-28
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\why-cognition-cannot-be-separated-from-organised-persistence.md
+date: 2026-05-17
+title: "Why Cognition Cannot Be Separated from Organised Persistence"
+slug: why-cognition-cannot-be-separated-from-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-09-17
+
+================================================================
+FILE: src\content\articles\why-do-organisms-have-goals.md
+date: 2026-06-22
+title: Why Do Organisms Have Goals?
+slug: why-do-organisms-have-goals
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-08-03
+role: extension
+
+================================================================
+FILE: src\content\articles\why-is-biology-different-from-physics.md
+date: 2026-06-22
+title: Why Is Biology Different From Physics?
+slug: why-is-biology-different-from-physics
+type: article
+status: canonical
+canonicalLockDate: 2026-06-22
+revised: 2026-08-03
+role: synthesis
+
+================================================================
+FILE: src\content\articles\why-life-is-not-a-machine-ci.md
+date: 2026-05-28
+title: "Why Life Is Not a Machine — An APS Clarification"
+slug: why-life-is-not-a-machine
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+role: clarification
+
+================================================================
+FILE: src\content\articles\why-life-is-not-active-inference-ci.md
+date: 2026-05-29
+title: "Why Life Is Not Active Inference"
+slug: why-life-is-not-active-inference
+type: article
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\why-life-is-not-autopoiesis.md
+date: 2026-04-27
+title: Why Life Is Not Autopoiesis
+slug: why-life-is-not-autopoiesis
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+role: clarification
+
+================================================================
+FILE: src\content\articles\why-life-is-not-computation-an-aps-clarification.md
+title: "Why Life Is Not Computation — An APS Clarification"
+slug: "why-life-is-not-computation-an-aps-clarification"
+type: article
+date: 2026-05-08
+revised: 2026-08-22
+status: canonical
+canonicalLockDate: 2026-05-08
+role: extension
+
+================================================================
+FILE: src\content\articles\why-life-is-not-control-theory.md
+date: 2026-05-15
+title: Why Life Is Not Control Theory
+slug: why-life-is-not-control-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-08-22
+
+================================================================
+FILE: src\content\articles\why-life-is-not-enactivism-cic.md
+date: 2026-04-27
+title: Why Life Is Not Enactivism
+slug: why-life-is-not-enactivism
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+role: clarification
+
+================================================================
+FILE: src\content\articles\why-life-is-not-information-processing.md
+date: 2026-05-28
+type: article
+title: "Why Life Is Not Information Processing"
+slug: why-life-is-not-information-processing
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\why-organisms-cannot-be-understood-apart-from-their-environments.md
+date: 2026-05-18
+title: "Why Organisms Cannot Be Understood Apart from Their Environments"
+slug: why-organisms-cannot-be-understood-apart-from-their-environments
+type: article
+status: canonical
+canonicalLockDate: 2026-05-18
+revised: 2026-06-24
+role: core
+
+================================================================
+FILE: src\content\articles\why-philosophy-of-biology-matters.md
+date: 2026-05-17
+title: "Why Philosophy of Biology Matters"
+slug: why-philosophy-of-biology-matters
+type: article
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-08-24
+role: clarification
+
+================================================================
+FILE: src\content\articles\why-use-aps-if-biology-already-has-the-concepts.md
+date: 2026-09-16
+title: "Why Use APS If Biology Already Has the Concepts?"
+slug: why-use-aps-if-biology-already-has-the-concepts
+type: article
+status: canonical
+canonicalLockDate: 2026-09-16
+revised: 2026-09-16
+role: clarification
+
+================================================================
+FILE: src\content\boxes\aps-box-agency-cognition-and-sentience-what-must-not-be-confused.md
+date: 2026-04-03
+title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
+slug: aps-box-agency-cognition-and-sentience-what-must-not-be-confused
+type: box
+status: canonical
+revised: 2026-09-17
+
+================================================================
+FILE: src\content\boxes\aps-box-agency-is-not-intelligence.md
+date: 2026-06-13
+title: APS Box — Agency Is Not Intelligence
+slug: agency-is-not-intelligence
+type: box
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+
+================================================================
+FILE: src\content\boxes\aps-box-analysis-vs-synthesis-two-complementary-modes-of-explanation.md
+title: Analysis and Synthesis — Complementary Modes of Explanation
+slug: analysis-vs-synthesis-two-directions-of-explanation
+type: box
+status: canonical
+canonicalLockDate: 2026-05-03
+date: 2026-05-03
+revised: 2026-08-24
+
+================================================================
+FILE: src\content\boxes\aps-box-biological-organisation-not-explanatory-ladder.md
+date: 2026-08-27
+title: APS Box — Biological Organisation Is Not an Explanatory Ladder
+slug: biological-organisation-not-explanatory-ladder
+type: box
+status: canonical
+canonicalLockDate: 2026-08-27
+revised: 2026-08-27
+
+================================================================
+FILE: src\content\boxes\aps-box-biology-does-not-violate-physics.md
+title: Biology Does Not Violate Physics
+slug: biology-does-not-violate-physics
+date: 2026-06-23
+type: box
+status: canonical
+canonicalLockDate: 2026-06-23
+revised: 2026-06-23
+
+================================================================
+FILE: src\content\boxes\aps-box-borderline-systems-as-explanatory-tests-ci.md
+date: 2026-06-10
+title: APS Box — Borderline Systems as Explanatory Tests
+slug: borderline-systems-as-explanatory-tests
+type: box
+status: canonical
+canonicalLockDate: 2026-06-10
+revised: 2026-06-10
+
+================================================================
+FILE: src\content\boxes\aps-box-epistemic-levels-are-not-ontological-levels.md
+date: 2026-06-21
+title: Epistemic Levels Are Not Ontological Levels
+slug: epistemic-levels-are-not-ontological-levels
+type: box
+status: canonical
+canonicalLockDate: 2026-06-21
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\boxes\aps-box-evolution-explains-origins-not-organisation.md
+date: 2026-06-30
+title: APS Box — Evolution Explains Origins, Not Organisation
+slug: evolution-explains-origins-not-organisation
+type: box
+status: canonical
+canonicalLockDate: 2026-06-30
+revised: 2026-06-30
+
+================================================================
+FILE: src\content\boxes\aps-box-how-to-read-aps-as-a-coherent-framework.md
+date: 2026-04-18
+title: APS Box — How to Read APS as a Coherent Framework
+slug: how-to-read-aps-as-a-coherent-framework
+type: box
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\boxes\aps-box-organisation-without-autonomy.md
+date: 2026-06-11
+title: APS Box — Organisation Without Autonomy
+slug: organisation-without-autonomy
+type: box
+status: canonical
+canonicalLockDate: 2026-06-11
+revised: 2026-06-11
+
+================================================================
+FILE: src\content\boxes\aps-box-organisational-domains-are-not-levels.md
+date: 2026-06-21
+title: Organisational Domains Are Not Levels
+slug: organisational-domains-are-not-levels
+type: box
+status: canonical
+canonicalLockDate: 2026-06-21
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\boxes\aps-box-scale-is-not-size.md
+title: Scale Is Not Size
+slug: scale-is-not-size
+date: 2026-06-21
+type: box
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-06-20
+
+================================================================
+FILE: src\content\boxes\aps-box-temporal-organisation.md
+date: 2026-05-16
+title: "APS Box — Temporal Organisation"
+slug: temporal-organisation
+type: box
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-05-16
+
+================================================================
+FILE: src\content\boxes\aps-box-updating-the-machine-metaphor.md
+date: 2026-06-28
+title: APS Box — Updating the Machine Metaphor
+slug: updating-the-machine-metaphor
+type: box
+status: canonical
+canonicalLockDate: 2026-06-28
+revised: 2026-08-21
+
+================================================================
+FILE: src\content\boxes\aps-box-viability-as-gradient-ci.md
+date: 2026-04-18
+title: APS Box — Viability as Gradient
+slug: viability-as-gradient
+type: box
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-04-18
+
+================================================================
+FILE: src\content\boxes\aps-box-what-aps-adds-to-contemporary-biology.md
+date: 2026-04-11
+title: APS Box — What APS Adds to Contemporary Biology
+slug: aps-box-what-aps-adds-to-contemporary-biology
+type: box
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-04-11
+
+================================================================
+FILE: src\content\boxes\aps-box-what-aps-does-not-assume.md
+date: 2026-04-03
+title: "APS Box — What APS Does Not Assume"
+slug: aps-box-what-aps-does-not-assume
+type: box
+status: canonical
+revised: 2026-04-03
+
+================================================================
+FILE: src\content\boxes\aps-box-why-agency.md
+date: 2026-06-13
+title: APS Box — Why the Published Paper Began with Agency
+slug: why-agency
+type: box
+status: canonical
+canonicalLockDate: 2026-06-13
+revised: 2026-08-25
+
+================================================================
+FILE: src\content\boxes\aps-box-why-aps-is-empirically-tractable-ci.md
+date: 2026-04-18
+title: APS Box — Why APS Is Empirically Tractable
+slug: why-aps-is-empirically-tractable
+type: box
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-04-18
+
+================================================================
+FILE: src\content\boxes\aps-box-why-aps-is-not-arbitrary.md
+date: 2026-04-03
+title: "APS Box — Why APS Is Not Arbitrary"
+slug: aps-box-why-aps-is-not-arbitrary
+type: box
+status: canonical
+canonicalLockDate: 2026-06-12
+revised: 2026-08-26
+
+================================================================
+FILE: src\content\boxes\aps-box-why-compare-organisational-research-programmes.md
+date: 2026-08-08
+title: Why Compare Organisational Research Programmes?
+slug: why-compare-organisational-research-programs
+type: box
+status: canonical
+canonicalLockDate: 2026-08-08
+revised: 2026-08-08
+
+================================================================
+FILE: src\content\boxes\explanation-is-not-reduction.md
+date: 2026-05-29
+title: APS Box — Explanation Is Not Reduction
+slug: aps-box-explanation-is-not-reduction
+type: box
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-08-24
+
+================================================================
+FILE: src\content\boxes\explanatory-priority-is-not-ontological-priority.md
+title: Explanatory Priority Is Not Ontological Priority
+slug: explanatory-priority-is-not-ontological-priority
+type: box
+status: canonical
+canonicalLockDate: 2026-05-08
+date: 2026-05-08
+revised: 2026-08-21
+
+================================================================
+FILE: src\content\boxes\mechanism-in-aps.md
+date: 2026-04-20
+title: APS Box — Mechanism in APS
+slug: mechanism-in-aps
+type: box
+status: canonical
+canonicalLockDate: 2026-04-20
+revised: 2026-04-20
+
+================================================================
+FILE: src\content\boxes\realization-is-organisational-not-merely-functional.md
+date: 2026-05-12
+title: "APS Box — Realization Is Organisational, Not Merely Functional"
+slug: realization-is-organisational-not-merely-functional
+type: box
+status: canonical
+canonicalLockDate: 2026-05-12
+revised: 2026-05-12
+
+================================================================
+FILE: src\content\boxes\reductionism-and-explanation.md
+date: 2026-04-20
+title: APS Box — Reductionism and Explanation
+slug: reductionism-and-explanation
+type: box
+status: canonical
+canonicalLockDate: 2026-04-20
+revised: 2026-04-20
+
+================================================================
+FILE: src\content\boxes\scale-is-not-hierarchy.md
+date: 2026-06-10
+title: "APS Box — Scale Is Not Hierarchy"
+slug: scale-is-not-hierarchy
+type: box
+status: canonical
+canonicalLockDate: 2026-06-10
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\boxes\spatiotemporal-organisation-and-scale-ci.md
+title: Spatiotemporal Organisation and Scale
+slug: spatiotemporal-organisation-and-scale
+type: box
+status: canonical
+canonicalLockDate: 2026-05-01
+date: 2026-05-01
+revised: 2026-05-01
+
+================================================================
+FILE: src\content\boxes\the-organisational-grammar-of-aps.md
+title: How APS Concepts Relate
+slug: the-organisational-grammar-of-aps
+type: box
+status: canonical
+canonicalLockDate: 2026-05-06
+date: 2026-05-06
+revised: 2026-09-02
+
+================================================================
+FILE: src\content\boxes\what-aps-changes-and-what-it-does-not-ci.md
+title: "APS Box — What APS Changes and What It Does Not"
+date: 2026-05-10
+slug: "what-aps-changes-and-what-it-does-not"
+type: box
+status: canonical
+canonicalLockDate: 2026-05-10
+revised: 2026-08-22
+
+================================================================
+FILE: src\content\boxes\what-biological-classification-tracks-in-aps.md
+date: 2026-04-15
+title: APS Box — What Biological Classification Tracks in APS
+slug: what-biological-classification-tracks-in-aps
+type: box
+status: canonical
+canonicalLockDate: 2026-04-15
+revised: 2026-04-15
+
+================================================================
+FILE: src\content\boxes\what-biological-explanation-explains.md
+date: 2026-05-14
+title: APS Box — What Biological Explanation Explains
+slug: what-biological-explanation-explains
+type: box
+status: canonical
+canonicalLockDate: 2026-05-14
+revised: 2026-09-02
+
+================================================================
+FILE: src\content\boxes\why-aps-emphasises-agency.md
+title: APS Box — Why APS Emphasises Agency
+slug: why-aps-emphasises-agency
+type: box
+date: 2026-04-09
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-06
+
+================================================================
+FILE: src\content\boxes\why-aps-replaces-placeholder-concepts.md
+date: 2026-04-30
+title: "APS Box — Why APS Replaces Placeholder Concepts"
+slug: why-aps-replaces-placeholder-concepts
+type: box
+status: canonical
+canonicalLockDate: 2026-04-30
+revised: 2026-04-30
+
+================================================================
+FILE: src\content\glossary\adaptation-ci.md
+date: 2026-04-15
+title: Adaptation
+slug: adaptation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\autopoiesis.md
+title: Autopoiesis
+slug: autopoiesis
+type: glossary
+status: canonical
+canonicalLockDate: 2026-06-17
+date: 2026-06-17
+revised: 2026-06-17
+
+================================================================
+FILE: src\content\glossary\biological-agency-ci.md
+date: 2026-05-29
+title: Biological Agency
+slug: biological-agency
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\glossary\biological-explanation.md
+date: 2026-07-13
+title: Biological Explanation
+slug: biological-explanation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-13
+revised: 2026-08-18
+
+================================================================
+FILE: src\content\glossary\biological-system.md
+title: Biological System
+slug: biological-system
+type: glossary
+date: 2026-07-27
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-27
+
+================================================================
+FILE: src\content\glossary\causation.md
+date: 2026-04-26
+title: Causation
+slug: causation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-04-26
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\conceptual-governance.md
+date: 2026-07-26
+title: Conceptual Governance
+slug: conceptual-governance
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-26
+revised: 2026-07-26
+
+================================================================
+FILE: src\content\glossary\consciousness.md
+date: 2026-05-07
+title: Consciousness
+slug: consciousness
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\constraint-closure.md
+date: 2026-04-08
+title: Constraint Closure
+slug: constraint-closure
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\glossary\ecology.md
+title: "Ecology"
+slug: "ecology"
+type: glossary
+status: "canonical"
+date: 2026-05-18
+canonicalLockDate: 2026-05-18
+revised: 2026-06-25
+
+================================================================
+FILE: src\content\glossary\evolution.md
+date: 2026-04-08
+title: Evolution
+slug: evolution
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-10
+
+================================================================
+FILE: src\content\glossary\explanatory-architecture.md
+date: 2026-08-07
+title: Explanatory Architecture
+slug: explanatory-architecture
+type: glossary
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\glossary\explanatory-direction.md
+title: Explanatory Direction
+slug: explanatory-direction
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-03
+date: 2026-05-03
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\explanatory-grammar.md
+date: 2026-04-14
+title: Explanatory Grammar
+slug: explanatory-grammar
+type: glossary
+status: canonical
+canonicalLockDate: 2026-04-14
+revised: 2026-08-19
+
+================================================================
+FILE: src\content\glossary\explanatory-organisation.md
+date: 2026-08-07
+title: Explanatory Organisation
+slug: explanatory-organisation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-08-07
+
+================================================================
+FILE: src\content\glossary\explanatory-priority.md
+date: 2026-08-07
+title: Explanatory Priority
+slug: explanatory-priority
+type: glossary
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-08-07
+
+================================================================
+FILE: src\content\glossary\explanatory-realism.md
+date: 2026-06-12
+title: Explanatory Realism
+slug: explanatory-realism
+type: glossary
+status: canonical
+canonicalLockDate: 2026-06-12
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\function-ci.md
+date: 2026-04-08
+title: Function
+slug: function
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-10
+
+================================================================
+FILE: src\content\glossary\functional-equivalence.md
+title: Functional Equivalence
+slug: functional-equivalence
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+FILE: src\content\glossary\functional-integration.md
+title: Functional Integration
+slug: functional-integration
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+FILE: src\content\glossary\functional-organisation.md
+title: Functional Organisation
+slug: functional-organisation
+type: glossary
+date: 2026-07-25
+revised: 2026-07-27
+status: canonical
+canonicalLockDate: 2026-07-25
+
+================================================================
+FILE: src\content\glossary\goal.md
+date: 2026-07-02
+title: Goal
+slug: goal
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-02
+revised: 2026-07-02
+
+================================================================
+FILE: src\content\glossary\holism.md
+date: 2026-05-15
+title: Holism
+slug: holism
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-15
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\information.md
+date: 2026-05-15
+title: Information
+slug: information
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\inheritance.md
+date: 2026-04-15
+title: Inheritance
+slug: inheritance
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\lineage.md
+title: Lineage
+date: 2026-06-20
+slug: lineage
+type: glossary
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-06-20
+
+================================================================
+FILE: src\content\glossary\malfunction.md
+title: "Malfunction"
+slug: "malfunction"
+type: glossary
+status: "canonical"
+date: 2026-05-18
+canonicalLockDate: 2026-05-18
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\meaning.md
+date: 2026-05-15
+title: Meaning
+slug: meaning
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\mechanism.md
+date: 2026-05-15
+title: Mechanism
+slug: mechanism
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\normativity.md
+date: 2026-04-14
+title: Normativity
+slug: normativity
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\organisational-dependency.md
+date: 2026-07-13
+title: Organisational Dependency
+slug: organisational-dependency
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-13
+revised: 2026-08-18
+
+================================================================
+FILE: src\content\glossary\organisational-realism.md
+date: 2026-05-29
+title: Organisational Realism
+slug: organisational-realism
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-29
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\organised-persistence.md
+date: 2026-05-27
+title: "Organised Persistence"
+slug: organised-persistence
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\glossary\process.md
+date: 2026-04-14
+title: Process
+slug: process
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-08
+
+================================================================
+FILE: src\content\glossary\purpose.md
+date: 2026-04-08
+title: Purpose
+slug: purpose
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\reductionism.md
+date: 2026-04-20
+title: Reductionism
+slug: reductionism
+type: glossary
+status: canonical
+canonicalLockDate: 2026-04-20
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\representation.md
+date: 2026-04-20
+title: Representation
+slug: representation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\scale.md
+date: 2026-04-14
+title: Scale
+slug: scale
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\glossary\semiosis.md
+date: 2026-04-27
+title: Semiosis
+slug: semiosis
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\survival.md
+title: Survival
+slug: survival
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-29
+date: 2026-07-29
+revised: 2026-07-29
+
+================================================================
+FILE: src\content\glossary\temporal-field.md
+date: 2026-05-22
+title: Temporal Field
+slug: temporal-field
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\temporality.md
+date: 2026-05-21
+title: "Temporality"
+slug: temporality
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-21
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\variation-ci.md
+date: 2026-04-15
+title: Variation
+slug: variation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-04-12
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\glossary\viability-orientation.md
+title: Viability-Orientation
+slug: viability-orientation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-16
+date: 2026-05-03
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\glossary\viability.md
+date: 2026-04-26
+title: Viability
+slug: viability
+type: glossary
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-03
+
+================================================================
+FILE: src\content\orientation\aps-architecture-map-ci.md
+date: 2026-05-16
+title: "APS Architecture Map — Navigating the Framework"
+slug: aps-architecture-map
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\orientation\aps-challenges-limitations-and-future-directions.md
+date: 2026-06-08
+title: "APS Challenges, Limitations, and Future Directions"
+slug: aps-challenges-limitations-and-future-directions
+type: orientation
+status: canonical
+canonicalLockDate: 2026-06-08
+revised: 2026-08-11
+
+================================================================
+FILE: src\content\orientation\aps-in-one-page-the-structure-of-explanation.md
+date: 2026-04-29
+title: APS in One Page — The Structure of Explanation
+slug: aps-in-one-page-the-structure-of-explanation
+type: orientation
+status: canonical
+revised: 2026-04-29
+
+================================================================
+FILE: src\content\orientation\aps-viability-oriented-framework-ci.md
+date: 2026-04-14
+title: APS — A Viability-Oriented Framework for Understanding Life
+slug: aps-viability-oriented-framework
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-13
+revised: 2026-06-15
+
+================================================================
+FILE: src\content\orientation\how-aps-concepts-fit-together.md
+title: "How APS Concepts Fit Together"
+slug: "how-aps-concepts-fit-together"
+type: orientation
+date: 2026-05-10
+revised: 2026-09-02
+status: canonical
+canonicalLockDate: 2026-05-10
+
+================================================================
+FILE: src\content\orientation\how-aps-explains-life-ci.md
+date: 2026-04-16
+title: "How APS Explains Life — A Two-Step Guide"
+slug: how-aps-explains-life
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-07
+
+================================================================
+FILE: src\content\orientation\how-to-read-this-aps-framework-website-ci.md
+date: 2026-04-14
+title: How to Read APS
+slug: how-to-read-this-aps-framework-website
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-16
+revised: 2026-09-15
+
+================================================================
+FILE: src\content\orientation\navigating-aps-conceptual-guideposts.md
+date: 2026-05-17
+title: Navigating APS — Conceptual Guideposts
+slug: navigating-aps-conceptual-guideposts
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\orientation\the-aps-glossary-why-definitions-matter-ci.md
+date: 2026-04-03
+title: The APS Glossary - Why Definitions Matter
+slug: the-aps-glossary-why-definitions-matter
+type: orientation
+status: canonical
+revised: 2026-04-03
+
+================================================================
+FILE: src\content\orientation\the-core-structure-of-aps-how-the-framework-fits-together.md
+date: 2026-04-13
+title: "The Core Structure of APS — How the Framework Fits Together"
+slug: the-core-structure-of-aps-how-the-framework-fits-together
+type: orientation
+status: canonical
+canonicalLockDate: 2026-07-10
+revised: 2026-09-10
+
+================================================================
+FILE: src\content\orientation\understanding-aps-the-structure-of-the-framework-cia.md
+date: 2026-04-27
+title: "Understanding APS — The Structure of the Framework"
+slug: understanding-aps-the-structure-of-the-framework
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\orientation\what-is-aps-ci.md
+date: 2026-04-13
+title: "What Is APS?"
+slug: what-is-aps
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-10
+
+================================================================
+FILE: src\content\streams\cognition.md
+date: 2026-04-03
+title: Cognition
+slug: cognition
+status: canonical
+revised: 2026-09-12
+

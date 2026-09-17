@@ -1,0 +1,4124 @@
+
+================================================================
+SEARCH TERM: Aristotle
+================================================================
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: aristotle-1937-parts-animals
+  type: book
+  authors: Aristotle
+  year: 1937
+  title: Parts of Animals
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: bernard-1865-introduction-medicine-experimentale
+  type: book
+  authors: Bernard, C.
+  year: 1865
+  title: Introduction à l'étude de la médecine expérimentale
+
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: aristotle-1937-parts-animals
+  type: book
+  authors: Aristotle
+  year: 1937
+  title: Parts of Animals
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: bernard-1865-introduction-medicine-experimentale
+  type: book
+  authors: Bernard, C.
+  year: 1865
+  title: Introduction à l'étude de la médecine expérimentale
+  publisher: J.-B. Baillière et fils
+  verification:
+
+
+================================================================
+SEARCH TERM: teleolog
+================================================================
+- id: di-paolo-2005-autopoiesis-adaptivity
+  type: journal-article
+  authors: Di Paolo, E. A.
+  year: 2005
+  title: Autopoiesis, Adaptivity, Teleology, Agency
+  journal: Phenomenology and the Cognitive Sciences
+  volume: '4'
+  issue: '4'
+  pages: 429–452
+  doi: 10.1007/s11097-005-9002-y
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: thompson-2007-mind-in-life
+  type: book
+  authors: Thompson, E.
+  year: 2007
+  title: 'Mind in Life: Biology, Phenomenology, and the Sciences of Mind'
+
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-12
+- id: mossio-bich-2017-biological-organisation-teleological
+  type: journal-article
+  authors: Mossio, M., & Bich, L.
+  year: 2017
+  title: What Makes Biological Organisation Teleological?
+  journal: Synthese
+  volume: '194'
+  issue: '4'
+  pages: 1089–1114
+  doi: 10.1007/s11229-014-0594-z
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-12
+- id: bich-2024-organisational-teleology-regulatory-control
+
+- id: mossio-bich-2017-biological-organisation-teleological
+  type: journal-article
+  authors: Mossio, M., & Bich, L.
+  year: 2017
+  title: What Makes Biological Organisation Teleological?
+  journal: Synthese
+  volume: '194'
+  issue: '4'
+  pages: 1089–1114
+  doi: 10.1007/s11229-014-0594-z
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-12
+- id: bich-2024-organisational-teleology-regulatory-control
+  type: journal-article
+  authors: Bich, L.
+  year: 2024
+  title: 'Organisational Teleology 2.0: Grounding Biological Purposiveness in Regulatory Control'
+
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-12
+- id: bich-2024-organisational-teleology-regulatory-control
+  type: journal-article
+  authors: Bich, L.
+  year: 2024
+  title: 'Organisational Teleology 2.0: Grounding Biological Purposiveness in Regulatory Control'
+  journal: Ratio
+  volume: '37'
+  issue: '4'
+  pages: 327–340
+  doi: 10.1111/rati.12405
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-08-12
+- id: lyon-2015-cognitive-cell
+
+- id: bich-2024-organisational-teleology-regulatory-control
+  type: journal-article
+  authors: Bich, L.
+  year: 2024
+  title: 'Organisational Teleology 2.0: Grounding Biological Purposiveness in Regulatory Control'
+  journal: Ratio
+  volume: '37'
+  issue: '4'
+  pages: 327–340
+  doi: 10.1111/rati.12405
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-08-12
+- id: lyon-2015-cognitive-cell
+  type: journal-article
+  authors: Lyon, P.
+  year: 2015
+  title: 'The Cognitive Cell: Bacterial Behavior Reconsidered'
+
+  verification:
+    status: verified
+    authority: Oxford University Press / The British Journal for the Philosophy of Science
+    verifiedDate: 2026-08-13
+- id: corti-2023-organizational-normativity-teleology
+  type: journal-article
+  authors: Corti, L.
+  year: 2023
+  title: 'Organizational Normativity and Teleology: A Critique'
+  journal: Synthese
+  volume: '202'
+  article-number: '96'
+  doi: 10.1007/s11229-023-04255-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: reddien-2018-planarian-regeneration
+  type: journal-article
+
+- id: corti-2023-organizational-normativity-teleology
+  type: journal-article
+  authors: Corti, L.
+  year: 2023
+  title: 'Organizational Normativity and Teleology: A Critique'
+  journal: Synthese
+  volume: '202'
+  article-number: '96'
+  doi: 10.1007/s11229-023-04255-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: reddien-2018-planarian-regeneration
+  type: journal-article
+  authors: Reddien, P. W.
+  year: 2018
+  title: The Cellular and Molecular Basis for Planarian Regeneration
+  journal: Cell
+
+
+================================================================
+SEARCH TERM: mechanis
+================================================================
+- id: craver-2007-explaining-the-brain
+  type: book
+  authors: Craver, C. F.
+  year: 2007
+  title: 'Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199299317.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-24
+- id: gilbert-sapp-tauber-2012-symbiotic-view-life
+  type: journal-article
+  authors: Gilbert, S. F., Sapp, J., & Tauber, A. I.
+  year: 2012
+  title: 'A Symbiotic View of Life: We Have Never Been Individuals'
+  journal: The Quarterly Review of Biology
+  volume: '87'
+  issue: '4'
+
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+  type: book
+  authors: Woodward, J.
+  year: 2003
+  title: 'Making Things Happen: A Theory of Causal Explanation'
+
+- id: darden-2006-reasoning-biological-discoveries
+  type: book
+  authors: Darden, L.
+  year: 2006
+  title: 'Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511498442
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: wimsatt-2007-re-engineering-philosophy
+  type: book
+  authors: Wimsatt, W. C.
+  year: 2007
+  title: 'Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+
+  verification:
+    status: verified
+    authority: Bibliothèque nationale de France
+    verifiedDate: 2026-07-24
+- id: bechtel-2008-mental-mechanisms
+  type: book
+  authors: Bechtel, W.
+  year: 2008
+  title: 'Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience'
+  publisher: Psychology Press
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-07-24
+- id: kirschner-gerhart-2005-plausibility-life
+  type: book
+  authors: Kirschner, M. W., & Gerhart, J. C.
+  year: 2005
+  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
+
+- id: bechtel-2008-mental-mechanisms
+  type: book
+  authors: Bechtel, W.
+  year: 2008
+  title: 'Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience'
+  publisher: Psychology Press
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-07-24
+- id: kirschner-gerhart-2005-plausibility-life
+  type: book
+  authors: Kirschner, M. W., & Gerhart, J. C.
+  year: 2005
+  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Yale University Press and WorldCat
+
+- id: colombo-wright-2018-first-principles-life-sciences
+  type: journal-article
+  authors: Colombo, M.; Wright, C.
+  year: 2018
+  title: "First Principles in the Life Sciences: The Free-Energy Principle, Organicism, and Mechanism"
+  journal: Synthese
+  volume: "198"
+  issue: "4"
+  pages: 3463–3488
+  doi: 10.1007/s11229-018-01932-w
+  verification:
+    status: verified
+    authority: Springer
+    verifiedDate: 2026-08-04
+- id: colombo-palacios-2021-nonequilibrium-thermodynamics
+  type: journal-article
+  authors: Colombo, M.; Palacios, P.
+  year: 2021
+  title: "Non-equilibrium Thermodynamics and the Free Energy Principle in Biology"
+
+- id: poss-2010-advances-tissue-regenerative-capacity
+  type: journal-article
+  authors: Poss, K. D.
+  year: 2010
+  title: Advances in Understanding Tissue Regenerative Capacity and Mechanisms in Animals
+  journal: Nature Reviews Genetics
+  volume: '11'
+  issue: '10'
+  pages: 710–722
+  doi: 10.1038/nrg2879
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-10
+- id: eming-martin-tomic-canic-2014-wound-repair-regeneration
+  type: journal-article
+  authors: Eming, S. A., Martin, P., & Tomic-Canic, M.
+  year: 2014
+  title: 'Wound Repair and Regeneration: Mechanisms, Signaling, and Translation'
+
+- id: eming-martin-tomic-canic-2014-wound-repair-regeneration
+  type: journal-article
+  authors: Eming, S. A., Martin, P., & Tomic-Canic, M.
+  year: 2014
+  title: 'Wound Repair and Regeneration: Mechanisms, Signaling, and Translation'
+  journal: Science Translational Medicine
+  volume: '6'
+  issue: '265'
+  pages: 265sr6
+  doi: 10.1126/scitranslmed.3009337
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: jopling-boue-izpisua-belmonte-2011-three-routes-regeneration
+  type: journal-article
+  authors: Jopling, C., Boué, S., & Izpisúa Belmonte, J. C.
+  year: 2011
+  title: 'Dedifferentiation, Transdifferentiation and Reprogramming: Three Routes to Regeneration'
+
+- id: brigandt-2013-systems-biology-explanatory-integration
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation
+  journal: Studies in History and Philosophy of Biological and Biomedical Sciences
+  volume: '44'
+  issue: '4'
+  pages: 477–492
+  doi: 10.1016/j.shpsc.2013.06.002
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: kitano-2002-systems-biology-overview
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: brigandt-green-omalley-2017-systems-biology-mechanistic-explanation
+  type: book-chapter
+  authors: Brigandt, I., Green, S., & O'Malley, M. A.
+  year: 2017
+  title: Systems Biology and Mechanistic Explanation
+  book-title: The Routledge Handbook of Mechanisms and Mechanical Philosophy
+  editors: Glennan, S., & Illari, P.
+  publisher: Routledge
+  pages: 362–374
+  doi: 10.4324/9781315731544-27
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-08-10
+- id: arenas-gomez-sabin-echeverri-2020-wound-healing
+
+- id: brigandt-green-omalley-2017-systems-biology-mechanistic-explanation
+  type: book-chapter
+  authors: Brigandt, I., Green, S., & O'Malley, M. A.
+  year: 2017
+  title: Systems Biology and Mechanistic Explanation
+  book-title: The Routledge Handbook of Mechanisms and Mechanical Philosophy
+  editors: Glennan, S., & Illari, P.
+  publisher: Routledge
+  pages: 362–374
+  doi: 10.4324/9781315731544-27
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-08-10
+- id: arenas-gomez-sabin-echeverri-2020-wound-healing
+  type: journal-article
+  authors: Arenas Gómez, C. M., Sabin, K. Z., & Echeverri, K.
+  year: 2020
+  title: 'Wound Healing Across the Animal Kingdom: Crosstalk Between the Immune System and the Extracellular Matrix'
+
+  type: book-chapter
+  authors: Brigandt, I., Green, S., & O'Malley, M. A.
+  year: 2017
+  title: Systems Biology and Mechanistic Explanation
+  book-title: The Routledge Handbook of Mechanisms and Mechanical Philosophy
+  editors: Glennan, S., & Illari, P.
+  publisher: Routledge
+  pages: 362–374
+  doi: 10.4324/9781315731544-27
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-08-10
+- id: arenas-gomez-sabin-echeverri-2020-wound-healing
+  type: journal-article
+  authors: Arenas Gómez, C. M., Sabin, K. Z., & Echeverri, K.
+  year: 2020
+  title: 'Wound Healing Across the Animal Kingdom: Crosstalk Between the Immune System and the Extracellular Matrix'
+  journal: Developmental Dynamics
+
+- id: boussard-et-al-2019-memory-slime-moulds
+  type: journal-article
+  authors: Boussard, A., Delescluse, J., Pérez-Escudero, A., & Dussutour, A.
+  year: 2019
+  title: "Memory Inception and Preservation in Slime Moulds: The Quest for a Common Mechanism"
+  journal: Philosophical Transactions of the Royal Society B
+  volume: "374"
+  issue: "1774"
+  article-number: "20180368"
+  doi: 10.1098/rstb.2018.0368
+  verification:
+    status: verified
+    authority: Royal Society / PubMed
+    verifiedDate: 2026-08-12
+- id: smith-ferguson-burnham-beekman-2022-foraging-decisions
+  type: journal-article
+  authors: Smith-Ferguson, J., Burnham, T. C., & Beekman, M.
+  year: 2022
+  title: Experience Shapes Future Foraging Decisions in a Brainless Organism
+
+  verification:
+    status: verified
+    authority: Philosophy of Science / Cambridge University Press
+    verifiedDate: 2026-08-13
+- id: bich-bechtel-2021-mechanism-autonomy-explanation
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2021
+  title: Mechanism, Autonomy and Biological Explanation
+  journal: Biology & Philosophy
+  volume: '36'
+  article-number: '53'
+  doi: 10.1007/s10539-021-09829-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: saborido-mossio-moreno-2011-cross-generation-functions
+  type: journal-article
+
+- id: bich-bechtel-2021-mechanism-autonomy-explanation
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2021
+  title: Mechanism, Autonomy and Biological Explanation
+  journal: Biology & Philosophy
+  volume: '36'
+  article-number: '53'
+  doi: 10.1007/s10539-021-09829-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: saborido-mossio-moreno-2011-cross-generation-functions
+  type: journal-article
+  authors: Saborido, C., Mossio, M., & Moreno, A.
+  year: 2011
+  title: Biological Organization and Cross-Generation Functions
+  journal: The British Journal for the Philosophy of Science
+
+- id: cryer-2013-hypoglycemia-autonomic-failure
+  type: journal-article
+  authors: Cryer, P. E.
+  year: 2013
+  title: Mechanisms of Hypoglycemia-Associated Autonomic Failure in Diabetes
+  journal: New England Journal of Medicine
+  volume: '369'
+  issue: '4'
+  pages: 362–372
+  doi: 10.1056/NEJMra1215228
+  verification:
+    status: verified
+    authority: New England Journal of Medicine
+    verifiedDate: 2026-08-13
+- id: roeder-et-al-2016-pancreatic-glucose-homeostasis
+  type: journal-article
+  authors: Röder, P. V., Wu, B., Liu, Y., & Han, W.
+  year: 2016
+  title: Pancreatic Regulation of Glucose Homeostasis
+
+- id: petersen-shulman-2018-insulin-action-resistance
+  type: journal-article
+  authors: Petersen, M. C., & Shulman, G. I.
+  year: 2018
+  title: Mechanisms of Insulin Action and Insulin Resistance
+  journal: Physiological Reviews
+  volume: '98'
+  issue: '4'
+  pages: 2133–2223
+  doi: 10.1152/physrev.00063.2017
+  verification:
+    status: verified
+    authority: American Physiological Society
+    verifiedDate: 2026-08-13
+- id: garzilli-itzkovitz-2018-pancreatic-feedback
+  type: journal-article
+  authors: Garzilli, I., & Itzkovitz, S.
+  year: 2018
+  title: Design Principles of the Paradoxical Feedback between Pancreatic Alpha and Beta Cells
+
+- id: fagan-2016-interventionist-omissions
+  type: journal-article
+  authors: Fagan, M. B.
+  year: 2016
+  title: 'Interventionist Omissions: A Critical Case Study of Mechanistic Explanation in Biology'
+  journal: Philosophy of Science
+  volume: '83'
+  issue: '5'
+  pages: 1082–1097
+  doi: 10.1086/687940
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-16
+- id: peterson-2016-life-organic
+  type: book
+  authors: Peterson, E. L.
+  year: 2016
+  title: "The Life Organic: The Theoretical Biology Club and the Roots of Epigenetics"
+
+- id: trappes-et-al-2022-individualized-niches
+  type: journal-article
+  authors: Trappes, R., Nematipour, B., Kaiser, M. I., Krohs, U., van Benthem, K. J., Ernst, U. R., Gadau, J., Korsten, P., Kurtz, J., Schielzeth, H., Schmoll, T., & Takola, E.
+  year: 2022
+  title: "How Individualized Niches Arise: Defining Mechanisms of Niche Construction, Niche Choice, and Niche Conformance"
+  journal: BioScience
+  volume: '72'
+  issue: '6'
+  pages: 538–548
+  doi: 10.1093/biosci/biac023
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: kaiser-et-al-2026-reflective-interdisciplinarity
+  type: journal-article
+  authors: Kaiser, M. I., Killin, A., Caspers, B. A., Gadau, J., Kaiser, S., Kurtz, J., Müller, C., & Richter, S. H.
+  year: 2026
+  title: "Reflective Interdisciplinarity in Practice: Integrating Biology and Philosophy in Studies of Individualization"
+
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-03
+- id: darden-2007-mechanisms-models
+  type: book-chapter
+  authors: Darden, L.
+  year: 2007
+  title: Mechanisms and Models
+  book-title: The Cambridge Companion to the Philosophy of Biology
+  editors: Hull, D. L., & Ruse, M.
+  publisher: Cambridge University Press
+  pages: 139–159
+  doi: 10.1017/CCOL9780521851282.008
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hardy-1908-mendelian-proportions
+
+- id: darden-2007-mechanisms-models
+  type: book-chapter
+  authors: Darden, L.
+  year: 2007
+  title: Mechanisms and Models
+  book-title: The Cambridge Companion to the Philosophy of Biology
+  editors: Hull, D. L., & Ruse, M.
+  publisher: Cambridge University Press
+  pages: 139–159
+  doi: 10.1017/CCOL9780521851282.008
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hardy-1908-mendelian-proportions
+  type: journal-article
+  authors: Hardy, G. H.
+  year: 1908
+  title: Mendelian Proportions in a Mixed Population
+
+- id: mccusker-bryant-gardiner-2015-axolotl-limb-blastema
+  type: journal-article
+  authors: McCusker, C., Bryant, S. V., & Gardiner, D. M.
+  year: 2015
+  title: 'The axolotl limb blastema: cellular and molecular mechanisms driving blastema formation and limb regeneration in tetrapods'
+  journal: Regeneration
+  volume: '2'
+  issue: '2'
+  pages: 54–71
+  doi: 10.1002/reg2.32
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-09-07
+- id: godwin-pinto-rosenthal-2013-macrophages-salamander-limb-regeneration
+  type: journal-article
+  authors: Godwin, J. W., Pinto, A. R., & Rosenthal, N. A.
+  year: 2013
+  title: Macrophages are required for adult salamander limb regeneration
+
+- id: bruce-et-al-2007-stressful-memories-plants
+  type: journal-article
+  authors: Bruce, T. J. A., Matthes, M. C., Napier, J. A., & Pickett, J. A.
+  year: 2007
+  title: 'Stressful “Memories” of Plants: Evidence and Possible Mechanisms'
+  journal: Plant Science
+  volume: '173'
+  issue: '6'
+  pages: 603–608
+  doi: 10.1016/j.plantsci.2007.09.002
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-09-11
+- id: gagliano-et-al-2014-experience-teaches-plants
+  type: journal-article
+  authors: Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S.
+  year: 2014
+  title: Experience Teaches Plants to Learn Faster and Forget Slower in Environments Where It Matters
+
+
+================================================================
+SEARCH TERM: vitalis
+================================================================
+
+================================================================
+SEARCH TERM: organici
+================================================================
+- id: colombo-wright-2018-first-principles-life-sciences
+  type: journal-article
+  authors: Colombo, M.; Wright, C.
+  year: 2018
+  title: "First Principles in the Life Sciences: The Free-Energy Principle, Organicism, and Mechanism"
+  journal: Synthese
+  volume: "198"
+  issue: "4"
+  pages: 3463–3488
+  doi: 10.1007/s11229-018-01932-w
+  verification:
+    status: verified
+    authority: Springer
+    verifiedDate: 2026-08-04
+- id: colombo-palacios-2021-nonequilibrium-thermodynamics
+  type: journal-article
+  authors: Colombo, M.; Palacios, P.
+  year: 2021
+  title: "Non-equilibrium Thermodynamics and the Free Energy Principle in Biology"
+
+
+================================================================
+SEARCH TERM: Peterson
+================================================================
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-16
+- id: peterson-2016-life-organic
+  type: book
+  authors: Peterson, E. L.
+  year: 2016
+  title: "The Life Organic: The Theoretical Biology Club and the Roots of Epigenetics"
+  publisher: University of Pittsburgh Press
+  verification:
+    status: verified
+    authority: University of Pittsburgh Press
+    verifiedDate: 2026-08-17
+- id: woodger-1937-axiomatic-method-biology
+  type: book
+  authors: Woodger, J. H.
+  year: 1937
+  title: The Axiomatic Method in Biology
+
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-16
+- id: peterson-2016-life-organic
+  type: book
+  authors: Peterson, E. L.
+  year: 2016
+  title: "The Life Organic: The Theoretical Biology Club and the Roots of Epigenetics"
+  publisher: University of Pittsburgh Press
+  verification:
+    status: verified
+    authority: University of Pittsburgh Press
+    verifiedDate: 2026-08-17
+- id: woodger-1937-axiomatic-method-biology
+  type: book
+  authors: Woodger, J. H.
+  year: 1937
+  title: The Axiomatic Method in Biology
+  publisher: Cambridge University Press
+  verification:
+
+
+================================================================
+SEARCH TERM: evolution
+================================================================
+- id: oyama-2000-ontogeny-information
+  type: book
+  authors: Oyama, S.
+  year: 2000
+  title: 'The Ontogeny of Information: Developmental Systems and Evolution'
+  publisher: Duke University Press
+  edition: 2nd
+  doi: 10.1515/9780822380665
+  verification:
+    status: verified
+    authority: Duke University Press
+    verifiedDate: 2026-07-19
+- id: sterelny-griffiths-1999-sex-death
+  type: book
+  authors: Sterelny, K., & Griffiths, P. E.
+  year: 1999
+  title: 'Sex and Death: An Introduction to Philosophy of Biology'
+  publisher: University of Chicago Press
+  verification:
+
+- id: maynard-smith-szathmary-1995-major-transitions
+  type: book
+  authors: Maynard Smith, J., & Szathmáry, E.
+  year: 1995
+  title: The Major Transitions in Evolution
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: west-2017-scale
+  type: book
+  authors: West, G. B.
+  year: 2017
+  title: 'Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies'
+  publisher: Penguin Press
+  verification:
+    status: verified
+    authority: Publisher
+
+- id: mayr-1982-growth-biological-thought
+  type: book
+  authors: Mayr, E.
+  year: 1982
+  title: 'The Growth of Biological Thought: Diversity, Evolution, and Inheritance'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: monod-1971-chance-necessity
+  type: book
+  authors: Monod, J.
+  year: 1971
+  title: 'Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology'
+  publisher: Alfred A. Knopf
+  verification:
+    status: verified
+    authority: WorldCat
+
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: shapiro-2011-evolution
+  type: book
+  authors: Shapiro, J. A.
+  year: 2011
+  title: 'Evolution: A View from the 21st Century'
+  publisher: FT Press
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: kauffman-1993-origins-order
+  type: book
+  authors: Kauffman, S. A.
+  year: 1993
+  title: 'The Origins of Order: Self-Organization and Selection in Evolution'
+
+- id: shapiro-2011-evolution
+  type: book
+  authors: Shapiro, J. A.
+  year: 2011
+  title: 'Evolution: A View from the 21st Century'
+  publisher: FT Press
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: kauffman-1993-origins-order
+  type: book
+  authors: Kauffman, S. A.
+  year: 1993
+  title: 'The Origins of Order: Self-Organization and Selection in Evolution'
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780195079517.001.0001
+  verification:
+    status: verified
+
+- id: kauffman-1993-origins-order
+  type: book
+  authors: Kauffman, S. A.
+  year: 1993
+  title: 'The Origins of Order: Self-Organization and Selection in Evolution'
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780195079517.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-24
+- id: capra-luisi-2014-systems-view-life
+  type: book
+  authors: Capra, F., & Luisi, P. L.
+  year: 2014
+  title: 'The Systems View of Life: A Unifying Vision'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+
+- id: wilson-sober-1998-unto-others
+  type: book
+  authors: Sober, E., & Wilson, D. S.
+  year: 1998
+  title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-07-19
+- id: wilson-2002-darwins-cathedral
+  type: book
+  authors: Wilson, D. S.
+  year: 2002
+  title: 'Darwin''s Cathedral: Evolution, Religion, and the Nature of Society'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+
+- id: wilson-2002-darwins-cathedral
+  type: book
+  authors: Wilson, D. S.
+  year: 2002
+  title: 'Darwin''s Cathedral: Evolution, Religion, and the Nature of Society'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-07-19
+- id: wilson-2019-this-view-life
+  type: book
+  authors: Wilson, D. S.
+  year: 2019
+  title: 'This View of Life: Completing the Darwinian Revolution'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Publisher
+
+- id: wilson-2019-this-view-life
+  type: book
+  authors: Wilson, D. S.
+  year: 2019
+  title: 'This View of Life: Completing the Darwinian Revolution'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: okasha-2006-levels-selection
+  type: book
+  authors: Okasha, S.
+  year: 2006
+  title: Evolution and the Levels of Selection
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+
+- id: okasha-2006-levels-selection
+  type: book
+  authors: Okasha, S.
+  year: 2006
+  title: Evolution and the Levels of Selection
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: godfrey-smith-2013-darwinian-individuals
+  type: book-chapter
+  authors: Godfrey-Smith, P.
+  year: 2013
+  title: Darwinian Individuals
+  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  editors: Bouchard, F., & Huneman, P.
+  publisher: MIT Press
+  pages: 17–36
+
+  type: book-chapter
+  authors: Godfrey-Smith, P.
+  year: 2013
+  title: Darwinian Individuals
+  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  editors: Bouchard, F., & Huneman, P.
+  publisher: MIT Press
+  pages: 17–36
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: bouchard-huneman-2013-groups-individuals
+  type: edited-book
+  editors: Bouchard, F., & Huneman, P.
+  year: 2013
+  title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  publisher: MIT Press
+  verification:
+
+- id: bouchard-huneman-2013-groups-individuals
+  type: edited-book
+  editors: Bouchard, F., & Huneman, P.
+  year: 2013
+  title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: clarke-okasha-2013-individuality
+  type: book-chapter
+  authors: Clarke, E.
+  year: 2013
+  title: The Multiple Realizability of Biological Individuals
+  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  editors: Bouchard, F., & Huneman, P.
+  publisher: MIT Press
+  pages: 303–322
+
+  type: book-chapter
+  authors: Clarke, E.
+  year: 2013
+  title: The Multiple Realizability of Biological Individuals
+  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  editors: Bouchard, F., & Huneman, P.
+  publisher: MIT Press
+  pages: 303–322
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: west-eberhard-2003-developmental-plasticity
+  type: book
+  authors: West-Eberhard, M. J.
+  year: 2003
+  title: Developmental Plasticity and Evolution
+  publisher: Oxford University Press
+  verification:
+
+- id: west-eberhard-2003-developmental-plasticity
+  type: book
+  authors: West-Eberhard, M. J.
+  year: 2003
+  title: Developmental Plasticity and Evolution
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: pigliucci-muller-2010-extended-synthesis
+  type: edited-book
+  editors: Pigliucci, M., & Müller, G. B.
+  year: 2010
+  title: 'Evolution: The Extended Synthesis'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+
+- id: pigliucci-muller-2010-extended-synthesis
+  type: edited-book
+  editors: Pigliucci, M., & Müller, G. B.
+  year: 2010
+  title: 'Evolution: The Extended Synthesis'
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: laland-et-al-2015-extended-synthesis
+  type: journal-article
+  authors: Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee,
+    J.
+  year: 2015
+  title: 'The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions'
+  journal: Proceedings of the Royal Society B
+  volume: '282'
+  issue: '1813'
+
+  type: journal-article
+  authors: Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee,
+    J.
+  year: 2015
+  title: 'The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions'
+  journal: Proceedings of the Royal Society B
+  volume: '282'
+  issue: '1813'
+  article-number: '20151019'
+  doi: 10.1098/rspb.2015.1019
+  verification:
+    status: verified
+    authority: Royal Society
+    verifiedDate: 2026-07-19
+- id: dennett-1995-darwins-dangerous-idea
+  type: book
+  authors: Dennett, D. C.
+  year: 1995
+  title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
+
+- id: dennett-1995-darwins-dangerous-idea
+  type: book
+  authors: Dennett, D. C.
+  year: 1995
+  title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
+  publisher: Simon & Schuster
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: sterelny-2023-evolution
+  type: book
+  authors: Sterelny, K.
+  year: 2023
+  title: Evolution for Everyone
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: sterelny-2023-evolution
+  type: book
+  authors: Sterelny, K.
+  year: 2023
+  title: Evolution for Everyone
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: jablonka-lamb-2020-evolution-four-dimensions
+  type: book
+  authors: Jablonka, E., & Lamb, M. J.
+  year: 2020
+  title: Evolution in Four Dimensions
+
+- id: sterelny-2023-evolution
+  type: book
+  authors: Sterelny, K.
+  year: 2023
+  title: Evolution for Everyone
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: jablonka-lamb-2020-evolution-four-dimensions
+  type: book
+  authors: Jablonka, E., & Lamb, M. J.
+  year: 2020
+  title: Evolution in Four Dimensions
+  edition: 2nd
+  publisher: MIT Press
+  verification:
+    status: verified
+
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: jablonka-lamb-2020-evolution-four-dimensions
+  type: book
+  authors: Jablonka, E., & Lamb, M. J.
+  year: 2020
+  title: Evolution in Four Dimensions
+  edition: 2nd
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: odling-smee-laland-feldman-2003-niche-construction
+  type: book
+  authors: Odling-Smee, F. J., Laland, K. N., & Feldman, M. W.
+  year: 2003
+
+- id: jablonka-lamb-2020-evolution-four-dimensions
+  type: book
+  authors: Jablonka, E., & Lamb, M. J.
+  year: 2020
+  title: Evolution in Four Dimensions
+  edition: 2nd
+  publisher: MIT Press
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: odling-smee-laland-feldman-2003-niche-construction
+  type: book
+  authors: Odling-Smee, F. J., Laland, K. N., & Feldman, M. W.
+  year: 2003
+  title: 'Niche Construction: The Neglected Process in Evolution'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+
+- id: odling-smee-laland-feldman-2003-niche-construction
+  type: book
+  authors: Odling-Smee, F. J., Laland, K. N., & Feldman, M. W.
+  year: 2003
+  title: 'Niche Construction: The Neglected Process in Evolution'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: 2026-07-19
+- id: uexkull-2010-theory-meaning
+  type: book
+  authors: von Uexküll, J.
+  year: 2010
+  title: A Theory of Meaning
+  publisher: University of Minnesota Press
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+
+- id: walsh-2015-organism-agency
+  type: book
+  authors: Walsh, D. M.
+  year: 2015
+  title: Organisms, Agency, and Evolution
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: ikkurthi-mallikarjuna-2026-sensing-without-brain
+  type: journal-article
+  authors: Ikkurthi, V. K., Mallikarjuna, K., Naik, B. J., Penchala, P. G., Skylab, G., Thanuja, V., & Vinnakota, L.
+  year: 2026
+  title: 'Sensing Without a Brain: Functional Parallels Between Plants and Animals Senses'
+  journal: European Journal of Ecology, Biology and Agriculture
+  publisher: AMO Publisher
+  volume: '3'
+  issue: '1'
+
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-02
+- id: rama2024cognitiverevolution
+  type: journal-article
+  authors: Rama, T.
+  year: 2024
+  title: Is a Cognitive Revolution in Theoretical Biology Underway?
+  journal: Foundations of Science
+  volume: '30'
+  issue: '3'
+  pages: 719–740
+  doi: 10.1007/s10699-024-09950-3
+  publisher: Springer Nature
+  verification:
+    status: verified
+    authority: Crossref
+    verifiedDate: 2026-08-04
+
+- id: rama2024cognitiverevolution
+  type: journal-article
+  authors: Rama, T.
+  year: 2024
+  title: Is a Cognitive Revolution in Theoretical Biology Underway?
+  journal: Foundations of Science
+  volume: '30'
+  issue: '3'
+  pages: 719–740
+  doi: 10.1007/s10699-024-09950-3
+  publisher: Springer Nature
+  verification:
+    status: verified
+    authority: Crossref
+    verifiedDate: 2026-08-04
+- id: hinrichs-2026-life-plasmas
+  type: preprint
+  authors: Hinrichs, N., Albarracin, M., Engelberger, F., Christov-Moore, L., & Polani, D.
+  year: 2026
+
+- id: henrich-2015-secret-our-success
+  type: book
+  authors: Henrich, J.
+  year: 2015
+  title: 'The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: '2026-08-03'
+- id: boyd-richerson-1985-culture-evolutionary-process
+  type: book
+  authors: Boyd, R., & Richerson, P. J.
+  year: 1985
+  title: Culture and the Evolutionary Process
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+
+  verification:
+    status: verified
+    authority: Princeton University Press
+    verifiedDate: '2026-08-03'
+- id: boyd-richerson-1985-culture-evolutionary-process
+  type: book
+  authors: Boyd, R., & Richerson, P. J.
+  year: 1985
+  title: Culture and the Evolutionary Process
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: '2026-08-03'
+- id: harris-1979-cultural-materialism
+  type: book
+  authors: Harris, M.
+  year: 1979
+  title: 'Cultural Materialism: The Struggle for a Science of Culture'
+
+- id: boyd-richerson-1985-culture-evolutionary-process
+  type: book
+  authors: Boyd, R., & Richerson, P. J.
+  year: 1985
+  title: Culture and the Evolutionary Process
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: '2026-08-03'
+- id: harris-1979-cultural-materialism
+  type: book
+  authors: Harris, M.
+  year: 1979
+  title: 'Cultural Materialism: The Struggle for a Science of Culture'
+  publisher: Random House
+  verification:
+    status: verified
+    authority: Random House bibliographic record
+
+  verification:
+    status: verified
+    authority: Random House bibliographic record
+    verifiedDate: '2026-08-03'
+- id: white-1959-evolution-culture
+  type: book
+  authors: White, L. A.
+  year: 1959
+  title: 'The Evolution of Culture: The Development of Civilization to the Fall of Rome'
+  publisher: McGraw-Hill
+  verification:
+    status: verified
+    authority: McGraw-Hill bibliographic record
+    verifiedDate: '2026-08-03'
+- id: boserup-1965-conditions-agricultural-growth
+  type: book
+  authors: Boserup, E.
+  year: 1965
+  title: 'The Conditions of Agricultural Growth: The Economics of Agrarian Change under Population Pressure'
+
+- id: white-1959-evolution-culture
+  type: book
+  authors: White, L. A.
+  year: 1959
+  title: 'The Evolution of Culture: The Development of Civilization to the Fall of Rome'
+  publisher: McGraw-Hill
+  verification:
+    status: verified
+    authority: McGraw-Hill bibliographic record
+    verifiedDate: '2026-08-03'
+- id: boserup-1965-conditions-agricultural-growth
+  type: book
+  authors: Boserup, E.
+  year: 1965
+  title: 'The Conditions of Agricultural Growth: The Economics of Agrarian Change under Population Pressure'
+  publisher: George Allen & Unwin
+  verification:
+    status: verified
+    authority: National Library of Australia
+
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: favareau-2010-evolutionary-history-biosemiotics
+  type: book-chapter
+  authors: Favareau, D.
+  year: 2010
+  title: "Introduction: An Evolutionary History of Biosemiotics"
+  editors: Favareau, D.
+  book-title: "Essential Readings in Biosemiotics: Anthology and Commentary"
+  publisher: Springer
+  pages: "1–77"
+  doi: 10.1007/978-1-4020-9650-1_1
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: pattee-raczaszek-leonardi-2012-laws-language-life
+
+- id: favareau-2010-evolutionary-history-biosemiotics
+  type: book-chapter
+  authors: Favareau, D.
+  year: 2010
+  title: "Introduction: An Evolutionary History of Biosemiotics"
+  editors: Favareau, D.
+  book-title: "Essential Readings in Biosemiotics: Anthology and Commentary"
+  publisher: Springer
+  pages: "1–77"
+  doi: 10.1007/978-1-4020-9650-1_1
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: pattee-raczaszek-leonardi-2012-laws-language-life
+  type: book
+  authors: Pattee, H. H. & Raczaszek-Leonardi, J.
+  year: 2012
+  title: "Laws, Language and Life: Howard Pattee's Classic Papers on the Physics of Symbols with Contemporary Commentary"
+
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: bely-nyberg-2010-evolution-animal-regeneration
+  type: journal-article
+  authors: Bely, A. E., & Nyberg, K. G.
+  year: 2010
+  title: 'Evolution of Animal Regeneration: Re-emergence of a Field'
+  journal: Trends in Ecology & Evolution
+  volume: '25'
+  issue: '3'
+  pages: 161–170
+  doi: 10.1016/j.tree.2009.08.005
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: srivastava-2021-beyond-casual-resemblance
+
+- id: bely-nyberg-2010-evolution-animal-regeneration
+  type: journal-article
+  authors: Bely, A. E., & Nyberg, K. G.
+  year: 2010
+  title: 'Evolution of Animal Regeneration: Re-emergence of a Field'
+  journal: Trends in Ecology & Evolution
+  volume: '25'
+  issue: '3'
+  pages: 161–170
+  doi: 10.1016/j.tree.2009.08.005
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: srivastava-2021-beyond-casual-resemblance
+  type: journal-article
+  authors: Srivastava, M.
+  year: 2021
+  title: 'Beyond Casual Resemblance: Rigorous Frameworks for Comparing Regeneration Across Species'
+
+  type: journal-article
+  authors: Bely, A. E., & Nyberg, K. G.
+  year: 2010
+  title: 'Evolution of Animal Regeneration: Re-emergence of a Field'
+  journal: Trends in Ecology & Evolution
+  volume: '25'
+  issue: '3'
+  pages: 161–170
+  doi: 10.1016/j.tree.2009.08.005
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: srivastava-2021-beyond-casual-resemblance
+  type: journal-article
+  authors: Srivastava, M.
+  year: 2021
+  title: 'Beyond Casual Resemblance: Rigorous Frameworks for Comparing Regeneration Across Species'
+  journal: Annual Review of Cell and Developmental Biology
+
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: schlichting-pigliucci-1998-phenotypic-evolution
+  type: book
+  authors: Schlichting, C. D., & Pigliucci, M.
+  year: 1998
+  title: 'Phenotypic Evolution: A Reaction Norm Perspective'
+  publisher: Sinauer Associates
+  verification:
+    status: verified
+    authority: Sinauer Associates and Springer Nature
+    verifiedDate: 2026-08-10
+- id: dewitt-sih-wilson-1998-costs-limits-plasticity
+  type: journal-article
+  authors: DeWitt, T. J., Sih, A., & Wilson, D. S.
+  year: 1998
+  title: Costs and Limits of Phenotypic Plasticity
+
+- id: schlichting-pigliucci-1998-phenotypic-evolution
+  type: book
+  authors: Schlichting, C. D., & Pigliucci, M.
+  year: 1998
+  title: 'Phenotypic Evolution: A Reaction Norm Perspective'
+  publisher: Sinauer Associates
+  verification:
+    status: verified
+    authority: Sinauer Associates and Springer Nature
+    verifiedDate: 2026-08-10
+- id: dewitt-sih-wilson-1998-costs-limits-plasticity
+  type: journal-article
+  authors: DeWitt, T. J., Sih, A., & Wilson, D. S.
+  year: 1998
+  title: Costs and Limits of Phenotypic Plasticity
+  journal: Trends in Ecology & Evolution
+  volume: '13'
+  issue: '2'
+  pages: 77–81
+
+  type: journal-article
+  authors: DeWitt, T. J., Sih, A., & Wilson, D. S.
+  year: 1998
+  title: Costs and Limits of Phenotypic Plasticity
+  journal: Trends in Ecology & Evolution
+  volume: '13'
+  issue: '2'
+  pages: 77–81
+  doi: 10.1016/S0169-5347(97)01274-3
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-08-10
+- id: ghalambor-mckay-carroll-reznick-2007-adaptive-plasticity
+  type: journal-article
+  authors: Ghalambor, C. K., McKay, J. K., Carroll, S. P., & Reznick, D. N.
+  year: 2007
+  title: Adaptive Versus Non-adaptive Phenotypic Plasticity and the Potential for Contemporary Adaptation in New Environments
+  journal: Functional Ecology
+
+  verification:
+    status: verified
+    authority: Ecological Society of America and Wiley
+    verifiedDate: 2026-08-10
+- id: grosberg-strathmann-2007-evolution-multicellularity
+  type: journal-article
+  authors: Grosberg, R. K., & Strathmann, R. R.
+  year: 2007
+  title: 'The Evolution of Multicellularity: A Minor Major Transition?'
+  journal: Annual Review of Ecology, Evolution, and Systematics
+  volume: '38'
+  issue: '1'
+  pages: 621–654
+  doi: 10.1146/annurev.ecolsys.36.102403.114735
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-10
+- id: queller-strassmann-2009-evolution-organismality
+
+- id: grosberg-strathmann-2007-evolution-multicellularity
+  type: journal-article
+  authors: Grosberg, R. K., & Strathmann, R. R.
+  year: 2007
+  title: 'The Evolution of Multicellularity: A Minor Major Transition?'
+  journal: Annual Review of Ecology, Evolution, and Systematics
+  volume: '38'
+  issue: '1'
+  pages: 621–654
+  doi: 10.1146/annurev.ecolsys.36.102403.114735
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-10
+- id: queller-strassmann-2009-evolution-organismality
+  type: journal-article
+  authors: Queller, D. C., & Strassmann, J. E.
+  year: 2009
+  title: 'Beyond Society: The Evolution of Organismality'
+
+  type: journal-article
+  authors: Grosberg, R. K., & Strathmann, R. R.
+  year: 2007
+  title: 'The Evolution of Multicellularity: A Minor Major Transition?'
+  journal: Annual Review of Ecology, Evolution, and Systematics
+  volume: '38'
+  issue: '1'
+  pages: 621–654
+  doi: 10.1146/annurev.ecolsys.36.102403.114735
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-10
+- id: queller-strassmann-2009-evolution-organismality
+  type: journal-article
+  authors: Queller, D. C., & Strassmann, J. E.
+  year: 2009
+  title: 'Beyond Society: The Evolution of Organismality'
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-08-10
+- id: queller-strassmann-2009-evolution-organismality
+  type: journal-article
+  authors: Queller, D. C., & Strassmann, J. E.
+  year: 2009
+  title: 'Beyond Society: The Evolution of Organismality'
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  volume: '364'
+  issue: '1533'
+  pages: 3143–3155
+  doi: 10.1098/rstb.2009.0095
+  verification:
+    status: verified
+    authority: The Royal Society and PubMed
+    verifiedDate: 2026-08-10
+- id: ratcliff-denison-borrello-travisano-2012-experimental-multicellularity
+
+- id: queller-strassmann-2009-evolution-organismality
+  type: journal-article
+  authors: Queller, D. C., & Strassmann, J. E.
+  year: 2009
+  title: 'Beyond Society: The Evolution of Organismality'
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  volume: '364'
+  issue: '1533'
+  pages: 3143–3155
+  doi: 10.1098/rstb.2009.0095
+  verification:
+    status: verified
+    authority: The Royal Society and PubMed
+    verifiedDate: 2026-08-10
+- id: ratcliff-denison-borrello-travisano-2012-experimental-multicellularity
+  type: journal-article
+  authors: Ratcliff, W. C., Denison, R. F., Borrello, M., & Travisano, M.
+  year: 2012
+  title: Experimental Evolution of Multicellularity
+
+- id: ratcliff-denison-borrello-travisano-2012-experimental-multicellularity
+  type: journal-article
+  authors: Ratcliff, W. C., Denison, R. F., Borrello, M., & Travisano, M.
+  year: 2012
+  title: Experimental Evolution of Multicellularity
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '109'
+  issue: '5'
+  pages: 1595–1600
+  doi: 10.1073/pnas.1115323109
+  verification:
+    status: verified
+    authority: National Academy of Sciences and PubMed
+    verifiedDate: 2026-08-10
+- id: libby-rainey-2013-conceptual-framework-multicellularity
+  type: journal-article
+  authors: Libby, E., & Rainey, P. B.
+  year: 2013
+  title: A Conceptual Framework for the Evolutionary Origins of Multicellularity
+
+- id: libby-rainey-2013-conceptual-framework-multicellularity
+  type: journal-article
+  authors: Libby, E., & Rainey, P. B.
+  year: 2013
+  title: A Conceptual Framework for the Evolutionary Origins of Multicellularity
+  journal: Physical Biology
+  volume: '10'
+  issue: '3'
+  pages: '035001'
+  doi: 10.1088/1478-3975/10/3/035001
+  verification:
+    status: verified
+    authority: IOP Publishing and PubMed
+    verifiedDate: 2026-08-10
+- id: hammerschmidt-rose-kerr-rainey-2014-life-cycles-fitness-decoupling
+  type: journal-article
+  authors: Hammerschmidt, K., Rose, C. J., Kerr, B., & Rainey, P. B.
+  year: 2014
+  title: Life Cycles, Fitness Decoupling and the Evolution of Multicellularity
+
+- id: hammerschmidt-rose-kerr-rainey-2014-life-cycles-fitness-decoupling
+  type: journal-article
+  authors: Hammerschmidt, K., Rose, C. J., Kerr, B., & Rainey, P. B.
+  year: 2014
+  title: Life Cycles, Fitness Decoupling and the Evolution of Multicellularity
+  journal: Nature
+  volume: '515'
+  issue: '7525'
+  pages: 75–79
+  doi: 10.1038/nature13884
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-10
+- id: van-gestel-tarnita-2017-origin-biological-construction
+  type: journal-article
+  authors: van Gestel, J., & Tarnita, C. E.
+  year: 2017
+  title: 'On the Origin of Biological Construction, with a Focus on Multicellularity'
+
+  verification:
+    status: verified
+    authority: National Academy of Sciences and PubMed
+    verifiedDate: 2026-08-10
+- id: buss-1987-evolution-individuality
+  type: book
+  authors: Buss, L. W.
+  year: 1987
+  title: The Evolution of Individuality
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press, NLM Catalog, and WorldCat
+    verifiedDate: 2026-08-10
+- id: michod-2007-evolution-individuality-multicellular-life
+  type: journal-article
+  authors: Michod, R. E.
+  year: 2007
+  title: Evolution of Individuality During the Transition from Unicellular to Multicellular Life
+
+- id: buss-1987-evolution-individuality
+  type: book
+  authors: Buss, L. W.
+  year: 1987
+  title: The Evolution of Individuality
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press, NLM Catalog, and WorldCat
+    verifiedDate: 2026-08-10
+- id: michod-2007-evolution-individuality-multicellular-life
+  type: journal-article
+  authors: Michod, R. E.
+  year: 2007
+  title: Evolution of Individuality During the Transition from Unicellular to Multicellular Life
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '104'
+  issue: 'suppl_1'
+  pages: 8613–8618
+
+  verification:
+    status: verified
+    authority: Princeton University Press, NLM Catalog, and WorldCat
+    verifiedDate: 2026-08-10
+- id: michod-2007-evolution-individuality-multicellular-life
+  type: journal-article
+  authors: Michod, R. E.
+  year: 2007
+  title: Evolution of Individuality During the Transition from Unicellular to Multicellular Life
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '104'
+  issue: 'suppl_1'
+  pages: 8613–8618
+  doi: 10.1073/pnas.0701489104
+  verification:
+    status: verified
+    authority: National Academy of Sciences
+    verifiedDate: 2026-08-10
+- id: bourke-2011-principles-social-evolution
+
+- id: michod-2007-evolution-individuality-multicellular-life
+  type: journal-article
+  authors: Michod, R. E.
+  year: 2007
+  title: Evolution of Individuality During the Transition from Unicellular to Multicellular Life
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: '104'
+  issue: 'suppl_1'
+  pages: 8613–8618
+  doi: 10.1073/pnas.0701489104
+  verification:
+    status: verified
+    authority: National Academy of Sciences
+    verifiedDate: 2026-08-10
+- id: bourke-2011-principles-social-evolution
+  type: book
+  authors: Bourke, A. F. G.
+  year: 2011
+  title: Principles of Social Evolution
+
+  verification:
+    status: verified
+    authority: National Academy of Sciences
+    verifiedDate: 2026-08-10
+- id: bourke-2011-principles-social-evolution
+  type: book
+  authors: Bourke, A. F. G.
+  year: 2011
+  title: Principles of Social Evolution
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199231157.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-10
+- id: aktipis-et-al-2015-cancer-tree-life
+  type: journal-article
+  authors: Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S.
+  year: 2015
+
+- id: bourke-2011-principles-social-evolution
+  type: book
+  authors: Bourke, A. F. G.
+  year: 2011
+  title: Principles of Social Evolution
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199231157.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-10
+- id: aktipis-et-al-2015-cancer-tree-life
+  type: journal-article
+  authors: Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S.
+  year: 2015
+  title: 'Cancer Across the Tree of Life: Cooperation and Cheating in Multicellularity'
+  journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  volume: '370'
+  issue: '1673'
+
+- id: griesemer-2013-integration-model-taxon-research
+  type: journal-article
+  authors: Griesemer, J.
+  year: 2013
+  title: Integration of Approaches in David Wake's Model-Taxon Research Platform for Evolutionary Morphology
+  journal: 'Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences'
+  volume: '44'
+  issue: '4'
+  pages: 525–536
+  doi: 10.1016/j.shpsc.2013.03.021
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: brigandt-green-omalley-2017-systems-biology-mechanistic-explanation
+  type: book-chapter
+  authors: Brigandt, I., Green, S., & O'Malley, M. A.
+  year: 2017
+  title: Systems Biology and Mechanistic Explanation
+
+- id: gilbert-epel-2015-ecological-developmental-biology
+  type: book
+  authors: Gilbert, S. F., & Epel, D.
+  year: 2015
+  title: 'Ecological Developmental Biology: The Environmental Regulation of Development, Health, and Evolution'
+  edition: 2nd
+  publisher: Sinauer Associates
+  verification:
+    status: verified
+    authority: Sinauer Associates / Oxford University Press
+    verifiedDate: 2026-08-11
+- id: hall-2003-descent-modification-homology-homoplasy
+  type: journal-article
+  authors: Hall, B. K.
+  year: 2003
+  title: 'Descent with Modification: The Unity Underlying Homology and Homoplasy as Seen Through an Analysis of Development and Evolution'
+  journal: Biological Reviews
+  volume: '78'
+  issue: '3'
+
+- id: hall-2003-descent-modification-homology-homoplasy
+  type: journal-article
+  authors: Hall, B. K.
+  year: 2003
+  title: 'Descent with Modification: The Unity Underlying Homology and Homoplasy as Seen Through an Analysis of Development and Evolution'
+  journal: Biological Reviews
+  volume: '78'
+  issue: '3'
+  pages: 409–433
+  doi: 10.1017/S1464793102006097
+  verification:
+    status: verified
+    authority: Cambridge University Press / Crossref
+    verifiedDate: 2026-08-11
+- id: hanahan-weinberg-2011-hallmarks-cancer-next-generation
+  type: journal-article
+  authors: Hanahan, D., & Weinberg, R. A.
+  year: 2011
+  title: 'Hallmarks of Cancer: The Next Generation'
+
+  type: journal-article
+  authors: Niklas, K. J., & Newman, S. A.
+  year: 2013
+  title: The Origins of Multicellular Organisms
+  journal: Evolution & Development
+  volume: '15'
+  issue: '1'
+  pages: 41–52
+  doi: 10.1111/ede.12013
+  verification:
+    status: verified
+    authority: Wiley Online Library
+    verifiedDate: 2026-08-11
+- id: pigliucci-2001-phenotypic-plasticity
+  type: book
+  authors: Pigliucci, M.
+  year: 2001
+  title: 'Phenotypic Plasticity: Beyond Nature and Nurture'
+  publisher: Johns Hopkins University Press
+
+- id: ratcliff-et-al-2013-alternating-life-cycle
+  type: journal-article
+  authors: Ratcliff, W. C., Herron, M. D., Howell, K., Pentz, J. T., Rosenzweig, F., & Travisano, M.
+  year: 2013
+  title: Experimental Evolution of an Alternating Uni- and Multicellular Life Cycle in Chlamydomonas reinhardtii
+  journal: Nature Communications
+  volume: '4'
+  issue: '1'
+  article-number: '2742'
+  doi: 10.1038/ncomms3742
+  verification:
+    status: verified
+    authority: Nature Communications / Springer Nature
+    verifiedDate: 2026-08-11
+- id: sultan-2015-organism-environment
+  type: book
+  authors: Sultan, S. E.
+  year: 2015
+  title: 'Organism and Environment: Ecological Development, Niche Construction, and Adaptation'
+
+  type: journal-article
+  authors: Via, S., Gomulkiewicz, R., de Jong, G., Scheiner, S. M., Schlichting, C. D., & van Tienderen, P. H.
+  year: 1995
+  title: 'Adaptive Phenotypic Plasticity: Consensus and Controversy'
+  journal: Trends in Ecology & Evolution
+  volume: '10'
+  issue: '5'
+  pages: 212–217
+  doi: 10.1016/S0169-5347(00)89061-8
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-08-11
+- id: mossio-montevil-longo-2016-theoretical-principles-organization
+  type: journal-article
+  authors: Mossio, M., Montévil, M., & Longo, G.
+  year: 2016
+  title: 'Theoretical Principles for Biology: Organization'
+  journal: Progress in Biophysics and Molecular Biology
+
+  type: journal-article
+  authors: DiFrisco, J., & Gawne, R.
+  year: 2025
+  title: 'Biological Agency: A Concept Without a Research Program'
+  journal: Journal of Evolutionary Biology
+  volume: '38'
+  issue: '2'
+  pages: 143–156
+  doi: 10.1093/jeb/voae153
+  verification:
+    status: verified
+    authority: Oxford University Press and PubMed
+    verifiedDate: 2026-08-11
+- id: noble-2012-biological-relativity
+  type: journal-article
+  authors: Noble, D.
+  year: 2012
+  title: 'A Theory of Biological Relativity: No Privileged Level of Causation'
+  journal: Interface Focus
+
+  verification:
+    status: verified
+    authority: The Royal Society
+    verifiedDate: 2026-08-11
+- id: love-2008-evolutionary-innovations-novelties
+  type: journal-article
+  authors: Love, A. C.
+  year: 2008
+  title: 'Explaining Evolutionary Innovations and Novelties: Criteria of Explanatory Adequacy and Epistemological Prerequisites'
+  journal: Philosophy of Science
+  volume: '75'
+  issue: '5'
+  pages: 874–886
+  doi: 10.1086/594531
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-11
+- id: newman-et-al-2025-agency-multicellularity
+
+- id: love-2008-evolutionary-innovations-novelties
+  type: journal-article
+  authors: Love, A. C.
+  year: 2008
+  title: 'Explaining Evolutionary Innovations and Novelties: Criteria of Explanatory Adequacy and Epistemological Prerequisites'
+  journal: Philosophy of Science
+  volume: '75'
+  issue: '5'
+  pages: 874–886
+  doi: 10.1086/594531
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-11
+- id: newman-et-al-2025-agency-multicellularity
+  type: journal-article
+  authors: Newman, S. A., Benítez, M., Bhat, R., Glimm, T., Vijay Kumar, K., Nanjundiah, V., Nicholson, D. J., & Sarkar, S.
+  year: 2025
+  title: 'Agency in the Evolutionary Transition to Multicellularity'
+
+- id: newman-et-al-2025-agency-multicellularity
+  type: journal-article
+  authors: Newman, S. A., Benítez, M., Bhat, R., Glimm, T., Vijay Kumar, K., Nanjundiah, V., Nicholson, D. J., & Sarkar, S.
+  year: 2025
+  title: 'Agency in the Evolutionary Transition to Multicellularity'
+  journal: The Quarterly Review of Biology
+  volume: '100'
+  issue: '2'
+  pages: 83–118
+  doi: 10.1086/735964
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-11
+- id: nuttley-atkinson-leadbeater-van-der-kooy-2002-associative-learning
+  type: journal-article
+  authors: Nuttley, W. M., Atkinson-Leadbeater, K. P., & van der Kooy, D.
+  year: 2002
+  title: Serotonin Mediates Food-Odor Associative Learning in the Nematode Caenorhabditis elegans
+
+- id: bento-ogawa-sommer-2010-hormone-signalling
+  type: journal-article
+  authors: Bento, G., Ogawa, A., & Sommer, R. J.
+  year: 2010
+  title: Co-option of the Hormone-Signalling Module Dafachronic Acid–DAF-12 in Nematode Evolution
+  journal: Nature
+  volume: '466'
+  issue: '7305'
+  pages: 494–497
+  doi: 10.1038/nature09164
+  verification:
+    status: verified
+    authority: Springer Nature / Nature
+    verifiedDate: 2026-08-13
+- id: ragsdale-et-al-2013-developmental-switch-sulfatase
+  type: journal-article
+  authors: Ragsdale, E. J., Müller, M. R., Rödelsperger, C., & Sommer, R. J.
+  year: 2013
+  title: A Developmental Switch Coupled to the Evolution of Plasticity Acts through a Sulfatase
+
+- id: ragsdale-et-al-2013-developmental-switch-sulfatase
+  type: journal-article
+  authors: Ragsdale, E. J., Müller, M. R., Rödelsperger, C., & Sommer, R. J.
+  year: 2013
+  title: A Developmental Switch Coupled to the Evolution of Plasticity Acts through a Sulfatase
+  journal: Cell
+  volume: '155'
+  issue: '4'
+  pages: 922–933
+  doi: 10.1016/j.cell.2013.09.054
+  verification:
+    status: verified
+    authority: Elsevier / Cell
+    verifiedDate: 2026-08-13
+- id: kieninger-et-al-2016-nhr-40-developmental-switch
+  type: journal-article
+  authors: Kieninger, M. R., Ivers, N. A., Rödelsperger, C., Markov, G. V., Sommer, R. J., & Ragsdale, E. J.
+  year: 2016
+  title: The Nuclear Hormone Receptor NHR-40 Acts Downstream of the Sulfatase EUD-1 as Part of a Developmental Plasticity Switch in Pristionchus
+
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-17
+- id: mayr-provine-1980-evolutionary-synthesis
+  type: edited-book
+  editors: Mayr, E., & Provine, W. B.
+  year: 1980
+  title: "The Evolutionary Synthesis: Perspectives on the Unification of Biology"
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University
+    verifiedDate: 2026-08-17
+- id: smocovitis-1996-unifying-biology
+  type: book
+  authors: Smocovitis, V. B.
+  year: 1996
+  title: "Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology"
+
+- id: mayr-provine-1980-evolutionary-synthesis
+  type: edited-book
+  editors: Mayr, E., & Provine, W. B.
+  year: 1980
+  title: "The Evolutionary Synthesis: Perspectives on the Unification of Biology"
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University
+    verifiedDate: 2026-08-17
+- id: smocovitis-1996-unifying-biology
+  type: book
+  authors: Smocovitis, V. B.
+  year: 1996
+  title: "Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology"
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press and WorldCat
+
+- id: smocovitis-1996-unifying-biology
+  type: book
+  authors: Smocovitis, V. B.
+  year: 1996
+  title: "Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology"
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press and WorldCat
+    verifiedDate: 2026-08-17
+- id: amundson-2005-changing-role-embryo
+  type: book
+  authors: Amundson, R.
+  year: 2005
+  title: "The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo"
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+
+- id: amundson-2005-changing-role-embryo
+  type: book
+  authors: Amundson, R.
+  year: 2005
+  title: "The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo"
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-17
+- id: waddington-1968-towards-theoretical-biology
+  type: journal-article
+  authors: Waddington, C. H.
+  year: 1968
+  title: Towards a Theoretical Biology
+  journal: Nature
+  volume: "218"
+  issue: "5141"
+  pages: 525–527
+
+- id: gilbert-2000-diachronic-biology-evo-devo
+  type: journal-article
+  authors: Gilbert, S. F.
+  year: 2000
+  title: "Diachronic Biology Meets Evo-Devo: C. H. Waddington's Approach to Evolutionary Developmental Biology"
+  journal: American Zoologist
+  volume: "40"
+  issue: "5"
+  pages: 729–737
+  doi: 10.1093/icb/40.5.729
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: huneman-2019-revisiting-modern-synthesis
+  type: journal-article
+  authors: Huneman, P.
+  year: 2019
+  title: "Special Issue Editor's Introduction: Revisiting the Modern Synthesis"
+
+- id: parikh-houghton-van-oss-wacholder-carvunis-2022-de-novo-genes-yeast
+  type: journal-article
+  authors: Parikh, S. B., Houghton, C., Van Oss, S. B., Wacholder, A., & Carvunis, A.-R.
+  year: 2022
+  title: Origins, Evolution, and Physiological Implications of De Novo Genes in Yeast
+  journal: Yeast
+  volume: '39'
+  issue: '9'
+  pages: 471–481
+  doi: 10.1002/yea.3810
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-08-17
+- id: schenkel-agren-patten-2026-transitions-reversions-individuality
+  type: journal-article
+  authors: Schenkel, M. A., Ågren, J. A., & Patten, M. M.
+  year: 2026
+  title: Evolutionary Transitions and Reversions in Individuality
+
+- id: schenkel-agren-patten-2026-transitions-reversions-individuality
+  type: journal-article
+  authors: Schenkel, M. A., Ågren, J. A., & Patten, M. M.
+  year: 2026
+  title: Evolutionary Transitions and Reversions in Individuality
+  journal: Journal of Evolutionary Biology
+  volume: '39'
+  issue: '4'
+  pages: 423–436
+  doi: 10.1093/jeb/voag007
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: kranke-2024-individuation-practices-host-parasite
+  type: journal-article
+  authors: Kranke, N.
+  year: 2024
+  title: "Do Concepts of Individuality Account for Individuation Practices in Studies of Host–Parasite Systems? A Modeling Account of Biological Individuality"
+
+  type: journal-article
+  authors: Schenkel, M. A., Ågren, J. A., & Patten, M. M.
+  year: 2026
+  title: Evolutionary Transitions and Reversions in Individuality
+  journal: Journal of Evolutionary Biology
+  volume: '39'
+  issue: '4'
+  pages: 423–436
+  doi: 10.1093/jeb/voag007
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-17
+- id: kranke-2024-individuation-practices-host-parasite
+  type: journal-article
+  authors: Kranke, N.
+  year: 2024
+  title: "Do Concepts of Individuality Account for Individuation Practices in Studies of Host–Parasite Systems? A Modeling Account of Biological Individuality"
+  journal: Theory in Biosciences
+
+  type: book-chapter
+  authors: Pittendrigh, C. S.
+  year: 1958
+  title: Adaptation, Natural Selection, and Behavior
+  book-title: Behavior and Evolution
+  editors: Roe, A., & Simpson, G. G.
+  publisher: Yale University Press
+  pages: 390–416
+  verification:
+    status: verified
+    authority: PhilPapers
+    verifiedDate: 2026-08-24
+- id: corning-2019-teleonomy-proximate-ultimate
+  type: journal-article
+  authors: Corning, P. A.
+  year: 2019
+  title: Teleonomy and the Proximate–Ultimate Distinction Revisited
+  journal: Biological Journal of the Linnean Society
+  volume: '127'
+
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-08-24
+- id: corning-et-al-2023-evolution-purpose
+  type: edited-book
+  editors: Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A.
+  year: 2023
+  title: 'Evolution "On Purpose": Teleonomy in Living Systems'
+  publisher: MIT Press
+  doi: 10.7551/mitpress/14642.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-08-24
+- id: godfrey-smith-2014-philosophy-biology
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2014
+
+- id: corning-et-al-2023-evolution-purpose
+  type: edited-book
+  editors: Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A.
+  year: 2023
+  title: 'Evolution "On Purpose": Teleonomy in Living Systems'
+  publisher: MIT Press
+  doi: 10.7551/mitpress/14642.001.0001
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-08-24
+- id: godfrey-smith-2014-philosophy-biology
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2014
+  title: Philosophy of Biology
+  publisher: Princeton University Press
+  verification:
+    status: verified
+
+- id: shapiro-et-al-2004-stickleback-pelvic-reduction
+  type: journal-article
+  authors: Shapiro, M. D., et al.
+  year: 2004
+  title: Genetic and Developmental Basis of Evolutionary Pelvic Reduction in Threespine Sticklebacks
+  journal: Nature
+  volume: '428'
+  pages: 717–723
+  doi: 10.1038/nature02415
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: chan-et-al-2010-stickleback-pitx1-enhancer
+  type: journal-article
+  authors: Chan, Y. F., et al.
+  year: 2010
+  title: Adaptive Evolution of Pelvic Reduction in Sticklebacks by Recurrent Deletion of a Pitx1 Enhancer
+  journal: Science
+
+- id: chan-et-al-2010-stickleback-pitx1-enhancer
+  type: journal-article
+  authors: Chan, Y. F., et al.
+  year: 2010
+  title: Adaptive Evolution of Pelvic Reduction in Sticklebacks by Recurrent Deletion of a Pitx1 Enhancer
+  journal: Science
+  volume: '327'
+  issue: '5963'
+  pages: 302–305
+  doi: 10.1126/science.1182213
+  verification:
+    status: verified
+    authority: AAAS
+    verifiedDate: 2026-09-04
+- id: laland-matthews-feldman-2016-niche-construction-theory
+  type: journal-article
+  authors: Laland, K. N., Matthews, B., & Feldman, M. W.
+  year: 2016
+  title: An Introduction to Niche Construction Theory
+
+  type: journal-article
+  authors: Laland, K. N., Matthews, B., & Feldman, M. W.
+  year: 2016
+  title: An Introduction to Niche Construction Theory
+  journal: Evolutionary Ecology
+  volume: '30'
+  pages: 191–202
+  doi: 10.1007/s10682-016-9821-z
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: bich-mossio-soto-2020-glycemia-regulation
+  type: journal-article
+  authors: Bich, L., Mossio, M., & Soto, A. M.
+  year: 2020
+  title: 'Glycemia Regulation: From Feedback Loops to Organizational Closure'
+  journal: Frontiers in Physiology
+  volume: '11'
+
+- id: johnson-stewart-egli-2011-cyanobacterial-circadian-system
+  type: journal-article
+  authors: Johnson, C. H., Stewart, P. L., & Egli, M.
+  year: 2011
+  title: 'The Cyanobacterial Circadian System: From Biophysics to Bioevolution'
+  journal: Annual Review of Biophysics
+  volume: '40'
+  pages: 143–167
+  doi: 10.1146/annurev-biophys-042910-155317
+  verification:
+    status: verified
+    authority: Annual Reviews and PubMed
+    verifiedDate: 2026-09-05
+- id: mccusker-bryant-gardiner-2015-axolotl-limb-blastema
+  type: journal-article
+  authors: McCusker, C., Bryant, S. V., & Gardiner, D. M.
+  year: 2015
+  title: 'The axolotl limb blastema: cellular and molecular mechanisms driving blastema formation and limb regeneration in tetrapods'
+  journal: Regeneration
+
+- id: ruiz-mirazo-pereto-moreno-2004-universal-definition-life
+  type: journal-article
+  authors: Ruiz-Mirazo, K., Peretó, J., & Moreno, A.
+  year: 2004
+  title: 'A Universal Definition of Life: Autonomy and Open-Ended Evolution'
+  journal: Origins of Life and Evolution of the Biosphere
+  volume: '34'
+  issue: '3'
+  pages: 323–346
+  doi: 10.1023/B:ORIG.0000016440.53346.dc
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-09-07
+- id: varela-maturana-uribe-1974-autopoiesis
+  type: journal-article
+  authors: Varela, F. G., Maturana, H. R., & Uribe, R.
+  year: 1974
+  title: 'Autopoiesis: The Organization of Living Systems, Its Characterization and a Model'
+
+  type: journal-article
+  authors: Ruiz-Mirazo, K., Peretó, J., & Moreno, A.
+  year: 2004
+  title: 'A Universal Definition of Life: Autonomy and Open-Ended Evolution'
+  journal: Origins of Life and Evolution of the Biosphere
+  volume: '34'
+  issue: '3'
+  pages: 323–346
+  doi: 10.1023/B:ORIG.0000016440.53346.dc
+  verification:
+    status: verified
+    authority: PubMed
+    verifiedDate: 2026-09-07
+- id: varela-maturana-uribe-1974-autopoiesis
+  type: journal-article
+  authors: Varela, F. G., Maturana, H. R., & Uribe, R.
+  year: 1974
+  title: 'Autopoiesis: The Organization of Living Systems, Its Characterization and a Model'
+  journal: BioSystems
+
+- id: eldredge-1985-unfinished-synthesis
+  type: book
+  authors: Eldredge, N.
+  year: 1985
+  title: 'Unfinished Synthesis: Biological Hierarchies and Modern Evolutionary Thought'
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-08
+- id: salthe-1985-evolving-hierarchical-systems
+  type: book
+  authors: Salthe, S. N.
+  year: 1985
+  title: 'Evolving Hierarchical Systems: Their Structure and Representation'
+  publisher: Columbia University Press
+  doi: 10.7312/salt91068
+  verification:
+    status: verified
+
+    authority: Oxford University Press
+    verifiedDate: 2026-09-09
+- id: nadolski-moczek-2023-agency-evo-devo
+  type: journal-article
+  title: "Promises and limits of an agency perspective in evolutionary developmental biology"
+  authors: Nadolski, E. M., & Moczek, A. P.
+  year: 2023
+  journal: Evolution & Development
+  volume: "25"
+  issue: "6"
+  pages: "371–392"
+  doi: "10.1111/ede.12432"
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-09-09
+- id: alpi-et-al-2007-plant-neurobiology-no-brain-no-gain
+  type: journal-article
+  authors: Alpi, A., Amrhein, N., Bertl, A., Blatt, M. R., Blumwald, E., Cervone, F., Dainty, J., De Michelis, M. I., Epstein, E., Galston, A. W., Goldsmith, M. H. M., Hawes, C., Hell, R., Hetherington, A., Hofte, H., Juergens, G., Leaver, C. J., Moroni, A., Murphy, A., Oparka, K., Perata, P., Quader, H., Rausch, T., Ritzenthaler, C., Rivetta, A., Robinson, D. G., Sanders, D., Scheres, B., Schumacher, K., Sentenac, H., Slayman, C. L., Soave, C., Somerville, C., Taiz, L., Thiel, G., & Wagner, R.
+
+  type: journal-article
+  title: "Promises and limits of an agency perspective in evolutionary developmental biology"
+  authors: Nadolski, E. M., & Moczek, A. P.
+  year: 2023
+  journal: Evolution & Development
+  volume: "25"
+  issue: "6"
+  pages: "371–392"
+  doi: "10.1111/ede.12432"
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-09-09
+- id: alpi-et-al-2007-plant-neurobiology-no-brain-no-gain
+  type: journal-article
+  authors: Alpi, A., Amrhein, N., Bertl, A., Blatt, M. R., Blumwald, E., Cervone, F., Dainty, J., De Michelis, M. I., Epstein, E., Galston, A. W., Goldsmith, M. H. M., Hawes, C., Hell, R., Hetherington, A., Hofte, H., Juergens, G., Leaver, C. J., Moroni, A., Murphy, A., Oparka, K., Perata, P., Quader, H., Rausch, T., Ritzenthaler, C., Rivetta, A., Robinson, D. G., Sanders, D., Scheres, B., Schumacher, K., Sentenac, H., Slayman, C. L., Soave, C., Somerville, C., Taiz, L., Thiel, G., & Wagner, R.
+  year: 2007
+  title: 'Plant Neurobiology: No Brain, No Gain?'
+  journal: Trends in Plant Science
+
+
+================================================================
+SEARCH TERM: Darwin
+================================================================
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-07-18
+- id: godfrey-smith-2009-darwinian-populations
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2009
+  title: Darwinian Populations and Natural Selection
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:osobl/9780199552047.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-07-18
+- id: holling-1973-resilience-stability
+  type: journal-article
+  authors: Holling, C. S.
+  year: 1973
+
+- id: godfrey-smith-2009-darwinian-populations
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2009
+  title: Darwinian Populations and Natural Selection
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:osobl/9780199552047.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-07-18
+- id: holling-1973-resilience-stability
+  type: journal-article
+  authors: Holling, C. S.
+  year: 1973
+  title: Resilience and Stability of Ecological Systems
+  journal: Annual Review of Ecology and Systematics
+  volume: '4'
+  pages: 1–23
+
+  verification:
+    status: verified
+    authority: First edition
+    verifiedDate: 2026-07-19
+- id: darwin-1859-origin
+  type: book
+  authors: Darwin, C.
+  year: 1859
+  title: On the Origin of Species
+  publisher: John Murray
+  verification:
+    status: verified
+    authority: Darwin Online
+    verifiedDate: 2026-07-24
+- id: jacob-1973-logic-life
+  type: book
+  authors: Jacob, F.
+  year: 1973
+  title: 'The Logic of Life: A History of Heredity'
+
+    authority: First edition
+    verifiedDate: 2026-07-19
+- id: darwin-1859-origin
+  type: book
+  authors: Darwin, C.
+  year: 1859
+  title: On the Origin of Species
+  publisher: John Murray
+  verification:
+    status: verified
+    authority: Darwin Online
+    verifiedDate: 2026-07-24
+- id: jacob-1973-logic-life
+  type: book
+  authors: Jacob, F.
+  year: 1973
+  title: 'The Logic of Life: A History of Heredity'
+  publisher: Pantheon Books
+  verification:
+
+  title: On the Origin of Species
+  publisher: John Murray
+  verification:
+    status: verified
+    authority: Darwin Online
+    verifiedDate: 2026-07-24
+- id: jacob-1973-logic-life
+  type: book
+  authors: Jacob, F.
+  year: 1973
+  title: 'The Logic of Life: A History of Heredity'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Harvard Library and Open Library MARC record
+    verifiedDate: 2026-07-24
+- id: noble-2006-music-life
+  type: book
+  authors: Noble, D.
+
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-07-19
+- id: wilson-2002-darwins-cathedral
+  type: book
+  authors: Wilson, D. S.
+  year: 2002
+  title: 'Darwin''s Cathedral: Evolution, Religion, and the Nature of Society'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-07-19
+- id: wilson-2019-this-view-life
+  type: book
+  authors: Wilson, D. S.
+  year: 2019
+  title: 'This View of Life: Completing the Darwinian Revolution'
+
+- id: wilson-2002-darwins-cathedral
+  type: book
+  authors: Wilson, D. S.
+  year: 2002
+  title: 'Darwin''s Cathedral: Evolution, Religion, and the Nature of Society'
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-07-19
+- id: wilson-2019-this-view-life
+  type: book
+  authors: Wilson, D. S.
+  year: 2019
+  title: 'This View of Life: Completing the Darwinian Revolution'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Publisher
+
+- id: wilson-2019-this-view-life
+  type: book
+  authors: Wilson, D. S.
+  year: 2019
+  title: 'This View of Life: Completing the Darwinian Revolution'
+  publisher: Pantheon Books
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: okasha-2006-levels-selection
+  type: book
+  authors: Okasha, S.
+  year: 2006
+  title: Evolution and the Levels of Selection
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford University Press
+
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: godfrey-smith-2013-darwinian-individuals
+  type: book-chapter
+  authors: Godfrey-Smith, P.
+  year: 2013
+  title: Darwinian Individuals
+  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  editors: Bouchard, F., & Huneman, P.
+  publisher: MIT Press
+  pages: 17–36
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: bouchard-huneman-2013-groups-individuals
+  type: edited-book
+
+- id: godfrey-smith-2013-darwinian-individuals
+  type: book-chapter
+  authors: Godfrey-Smith, P.
+  year: 2013
+  title: Darwinian Individuals
+  book-title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  editors: Bouchard, F., & Huneman, P.
+  publisher: MIT Press
+  pages: 17–36
+  verification:
+    status: verified
+    authority: MIT Press
+    verifiedDate: 2026-07-19
+- id: bouchard-huneman-2013-groups-individuals
+  type: edited-book
+  editors: Bouchard, F., & Huneman, P.
+  year: 2013
+  title: 'From Groups to Individuals: Evolution and Emerging Individuality'
+  publisher: MIT Press
+
+  verification:
+    status: verified
+    authority: Royal Society
+    verifiedDate: 2026-07-19
+- id: dennett-1995-darwins-dangerous-idea
+  type: book
+  authors: Dennett, D. C.
+  year: 1995
+  title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
+  publisher: Simon & Schuster
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: sterelny-2023-evolution
+  type: book
+  authors: Sterelny, K.
+  year: 2023
+  title: Evolution for Everyone
+
+- id: dennett-1995-darwins-dangerous-idea
+  type: book
+  authors: Dennett, D. C.
+  year: 1995
+  title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
+  publisher: Simon & Schuster
+  verification:
+    status: verified
+    authority: Publisher
+    verifiedDate: 2026-07-19
+- id: sterelny-2023-evolution
+  type: book
+  authors: Sterelny, K.
+  year: 2023
+  title: Evolution for Everyone
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+
+- id: kirschner-gerhart-2005-plausibility-life
+  type: book
+  authors: Kirschner, M. W., & Gerhart, J. C.
+  year: 2005
+  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
+  publisher: Yale University Press
+  verification:
+    status: verified
+    authority: Yale University Press and WorldCat
+    verifiedDate: 2026-07-24
+- id: varela-1979-principles-biological-autonomy
+  type: book
+  authors: Varela, F. J.
+  year: 1979
+  title: Principles of Biological Autonomy
+  publisher: North Holland
+  verification:
+    status: verified
+    authority: WorldCat
+
+
+================================================================
+SEARCH TERM: Mayr
+================================================================
+  verification:
+    status: verified
+    authority: Macmillan first edition
+    verifiedDate: 2026-07-19
+- id: mayr-1982-growth-biological-thought
+  type: book
+  authors: Mayr, E.
+  year: 1982
+  title: 'The Growth of Biological Thought: Diversity, Evolution, and Inheritance'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+
+    authority: Macmillan first edition
+    verifiedDate: 2026-07-19
+- id: mayr-1982-growth-biological-thought
+  type: book
+  authors: Mayr, E.
+  year: 1982
+  title: 'The Growth of Biological Thought: Diversity, Evolution, and Inheritance'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: monod-1971-chance-necessity
+  type: book
+  authors: Monod, J.
+  year: 1971
+  title: 'Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology'
+
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: mayr-1988-new-philosophy-biology
+  type: book
+  authors: Mayr, E.
+  year: 1988
+  title: 'Toward a New Philosophy of Biology: Observations of an Evolutionist'
+  publisher: Belknap Press of Harvard University Press
+  verification:
+    status: verified
+    authority: WorldCat
+    verifiedDate: 2026-07-24
+- id: monod-1971-chance-necessity
+  type: book
+  authors: Monod, J.
+  year: 1971
+  title: 'Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology'
+  publisher: Alfred A. Knopf
+  verification:
+
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-17
+- id: mayr-provine-1980-evolutionary-synthesis
+  type: edited-book
+  editors: Mayr, E., & Provine, W. B.
+  year: 1980
+  title: "The Evolutionary Synthesis: Perspectives on the Unification of Biology"
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University
+    verifiedDate: 2026-08-17
+- id: smocovitis-1996-unifying-biology
+  type: book
+  authors: Smocovitis, V. B.
+  year: 1996
+  title: "Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology"
+
+    authority: University of Chicago Press
+    verifiedDate: 2026-08-17
+- id: mayr-provine-1980-evolutionary-synthesis
+  type: edited-book
+  editors: Mayr, E., & Provine, W. B.
+  year: 1980
+  title: "The Evolutionary Synthesis: Perspectives on the Unification of Biology"
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University
+    verifiedDate: 2026-08-17
+- id: smocovitis-1996-unifying-biology
+  type: book
+  authors: Smocovitis, V. B.
+  year: 1996
+  title: "Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology"
+  publisher: Princeton University Press
+  verification:
+
+
+================================================================
+SEARCH TERM: reduction
+================================================================
+- id: brigandt-2013-explanation-biology
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: "Explanation in Biology: Reduction, Pluralism, and Explanatory Aims"
+  journal: Science & Education
+  volume: "22"
+  issue: "1"
+  pages: "69–91"
+  doi: 10.1007/s11191-011-9350-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: van-fraassen-1980-scientific-image
+  type: book
+  authors: van Fraassen, B. C.
+  year: 1980
+  title: The Scientific Image
+
+- id: green-batterman-2017-biology-meets-physics
+  type: journal-article
+  authors: Green, S., & Batterman, R.
+  year: 2017
+  title: 'Biology Meets Physics: Reductionism and Multi-Scale Modeling of Morphogenesis'
+  journal: Studies in History and Philosophy of Biological and Biomedical Sciences
+  volume: '61'
+  pages: 20–34
+  doi: 10.1016/j.shpsc.2016.12.003
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-23
+- id: green-2018-scale-dependency-downward-causation
+  type: journal-article
+  authors: Green, S.
+  year: 2018
+  title: Scale Dependency and Downward Causation in Biology
+  journal: Philosophy of Science
+
+  verification:
+    status: verified
+    authority: Frontiers / PubMed
+    verifiedDate: 2026-09-04
+- id: shapiro-et-al-2004-stickleback-pelvic-reduction
+  type: journal-article
+  authors: Shapiro, M. D., et al.
+  year: 2004
+  title: Genetic and Developmental Basis of Evolutionary Pelvic Reduction in Threespine Sticklebacks
+  journal: Nature
+  volume: '428'
+  pages: 717–723
+  doi: 10.1038/nature02415
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: chan-et-al-2010-stickleback-pitx1-enhancer
+  type: journal-article
+
+- id: shapiro-et-al-2004-stickleback-pelvic-reduction
+  type: journal-article
+  authors: Shapiro, M. D., et al.
+  year: 2004
+  title: Genetic and Developmental Basis of Evolutionary Pelvic Reduction in Threespine Sticklebacks
+  journal: Nature
+  volume: '428'
+  pages: 717–723
+  doi: 10.1038/nature02415
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-04
+- id: chan-et-al-2010-stickleback-pitx1-enhancer
+  type: journal-article
+  authors: Chan, Y. F., et al.
+  year: 2010
+  title: Adaptive Evolution of Pelvic Reduction in Sticklebacks by Recurrent Deletion of a Pitx1 Enhancer
+  journal: Science
+
+- id: chan-et-al-2010-stickleback-pitx1-enhancer
+  type: journal-article
+  authors: Chan, Y. F., et al.
+  year: 2010
+  title: Adaptive Evolution of Pelvic Reduction in Sticklebacks by Recurrent Deletion of a Pitx1 Enhancer
+  journal: Science
+  volume: '327'
+  issue: '5963'
+  pages: 302–305
+  doi: 10.1126/science.1182213
+  verification:
+    status: verified
+    authority: AAAS
+    verifiedDate: 2026-09-04
+- id: laland-matthews-feldman-2016-niche-construction-theory
+  type: journal-article
+  authors: Laland, K. N., Matthews, B., & Feldman, M. W.
+  year: 2016
+  title: An Introduction to Niche Construction Theory
+
+
+================================================================
+SEARCH TERM: molecular biology
+================================================================
+  type: journal-article
+  authors: Mossio, M., Montévil, M., & Longo, G.
+  year: 2016
+  title: 'Theoretical Principles for Biology: Organization'
+  journal: Progress in Biophysics and Molecular Biology
+  volume: '122'
+  issue: '1'
+  pages: 24–35
+  doi: 10.1016/j.pbiomolbio.2016.07.005
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect and PubMed
+    verifiedDate: 2026-08-11
+- id: virenque-mossio-2024-what-is-agency
+  type: journal-article
+  authors: Virenque, L., & Mossio, M.
+  year: 2024
+  title: 'What Is Agency? A View from Autonomy Theory'
+  journal: Biological Theory
+
+- id: morange-1998-history-molecular-biology
+  type: book
+  authors: Morange, M.
+  year: 1998
+  title: A History of Molecular Biology
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-08-17
+- id: hogeweg-2011-roots-bioinformatics-theoretical-biology
+  type: journal-article
+  authors: Hogeweg, P.
+  year: 2011
+  title: "The Roots of Bioinformatics in Theoretical Biology"
+  journal: PLoS Computational Biology
+  volume: "7"
+  issue: "3"
+  article-number: e1002021
+
+
+================================================================
+SEARCH TERM: Machamer
+================================================================
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+  type: book
+  authors: Woodward, J.
+
+
+================================================================
+SEARCH TERM: Darden
+================================================================
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+  type: book
+  authors: Woodward, J.
+
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: darden-2006-reasoning-biological-discoveries
+  type: book
+  authors: Darden, L.
+  year: 2006
+  title: 'Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511498442
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: wimsatt-2007-re-engineering-philosophy
+  type: book
+  authors: Wimsatt, W. C.
+  year: 2007
+
+    authority: Oxford University Press
+    verifiedDate: 2026-07-19
+- id: darden-2006-reasoning-biological-discoveries
+  type: book
+  authors: Darden, L.
+  year: 2006
+  title: 'Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511498442
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: wimsatt-2007-re-engineering-philosophy
+  type: book
+  authors: Wimsatt, W. C.
+  year: 2007
+  title: 'Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality'
+  publisher: Harvard University Press
+
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-03
+- id: darden-2007-mechanisms-models
+  type: book-chapter
+  authors: Darden, L.
+  year: 2007
+  title: Mechanisms and Models
+  book-title: The Cambridge Companion to the Philosophy of Biology
+  editors: Hull, D. L., & Ruse, M.
+  publisher: Cambridge University Press
+  pages: 139–159
+  doi: 10.1017/CCOL9780521851282.008
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hardy-1908-mendelian-proportions
+
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-03
+- id: darden-2007-mechanisms-models
+  type: book-chapter
+  authors: Darden, L.
+  year: 2007
+  title: Mechanisms and Models
+  book-title: The Cambridge Companion to the Philosophy of Biology
+  editors: Hull, D. L., & Ruse, M.
+  publisher: Cambridge University Press
+  pages: 139–159
+  doi: 10.1017/CCOL9780521851282.008
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hardy-1908-mendelian-proportions
+  type: journal-article
+  authors: Hardy, G. H.
+
+
+================================================================
+SEARCH TERM: Craver
+================================================================
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-07-18
+- id: craver-2007-explaining-the-brain
+  type: book
+  authors: Craver, C. F.
+  year: 2007
+  title: 'Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199299317.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-24
+- id: gilbert-sapp-tauber-2012-symbiotic-view-life
+  type: journal-article
+  authors: Gilbert, S. F., Sapp, J., & Tauber, A. I.
+  year: 2012
+
+    authority: Annual Reviews
+    verifiedDate: 2026-07-18
+- id: craver-2007-explaining-the-brain
+  type: book
+  authors: Craver, C. F.
+  year: 2007
+  title: 'Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience'
+  publisher: Oxford University Press
+  doi: 10.1093/acprof:oso/9780199299317.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-07-24
+- id: gilbert-sapp-tauber-2012-symbiotic-view-life
+  type: journal-article
+  authors: Gilbert, S. F., Sapp, J., & Tauber, A. I.
+  year: 2012
+  title: 'A Symbiotic View of Life: We Have Never Been Individuals'
+  journal: The Quarterly Review of Biology
+
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+  issue: '1'
+  pages: 1–25
+  doi: 10.1086/392759
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: woodward-2003-making-things-happen
+  type: book
+  authors: Woodward, J.
+
+
+================================================================
+SEARCH TERM: Bechtel
+================================================================
+references:
+- id: bich-bechtel-2022-organization-needs-organization
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2022
+  title: 'Organization Needs Organization: Understanding Integrated Control in Living Organisms'
+  journal: Studies in History and Philosophy of Science
+  volume: '93'
+  pages: 96–106
+  doi: 10.1016/j.shpsa.2022.03.005
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-07-18
+- id: godfrey-smith-2009-darwinian-populations
+  type: book
+
+references:
+- id: bich-bechtel-2022-organization-needs-organization
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2022
+  title: 'Organization Needs Organization: Understanding Integrated Control in Living Organisms'
+  journal: Studies in History and Philosophy of Science
+  volume: '93'
+  pages: 96–106
+  doi: 10.1016/j.shpsa.2022.03.005
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-07-18
+- id: godfrey-smith-2009-darwinian-populations
+  type: book
+  authors: Godfrey-Smith, P.
+  year: 2009
+
+  verification:
+    status: verified
+    authority: Elsevier
+    verifiedDate: 2026-07-19
+- id: bechtel-richardson-1993-discovering-complexity
+  type: book
+  authors: Bechtel, W., & Richardson, R. C.
+  year: 1993
+  title: 'Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+
+    authority: Elsevier
+    verifiedDate: 2026-07-19
+- id: bechtel-richardson-1993-discovering-complexity
+  type: book
+  authors: Bechtel, W., & Richardson, R. C.
+  year: 1993
+  title: 'Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Princeton University Press bibliographic record
+    verifiedDate: 2026-07-19
+- id: machamer-darden-craver-2000-mechanisms
+  type: journal-article
+  authors: Machamer, P., Darden, L., & Craver, C. F.
+  year: 2000
+  title: Thinking About Mechanisms
+  journal: Philosophy of Science
+  volume: '67'
+
+  verification:
+    status: verified
+    authority: Bibliothèque nationale de France
+    verifiedDate: 2026-07-24
+- id: bechtel-2008-mental-mechanisms
+  type: book
+  authors: Bechtel, W.
+  year: 2008
+  title: 'Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience'
+  publisher: Psychology Press
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-07-24
+- id: kirschner-gerhart-2005-plausibility-life
+  type: book
+  authors: Kirschner, M. W., & Gerhart, J. C.
+  year: 2005
+  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
+
+    authority: Bibliothèque nationale de France
+    verifiedDate: 2026-07-24
+- id: bechtel-2008-mental-mechanisms
+  type: book
+  authors: Bechtel, W.
+  year: 2008
+  title: 'Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience'
+  publisher: Psychology Press
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-07-24
+- id: kirschner-gerhart-2005-plausibility-life
+  type: book
+  authors: Kirschner, M. W., & Gerhart, J. C.
+  year: 2005
+  title: 'The Plausibility of Life: Resolving Darwin''s Dilemma'
+  publisher: Yale University Press
+  verification:
+
+  verification:
+    status: verified
+    authority: Philosophy of Science / Cambridge University Press
+    verifiedDate: 2026-08-13
+- id: bich-bechtel-2021-mechanism-autonomy-explanation
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2021
+  title: Mechanism, Autonomy and Biological Explanation
+  journal: Biology & Philosophy
+  volume: '36'
+  article-number: '53'
+  doi: 10.1007/s10539-021-09829-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: saborido-mossio-moreno-2011-cross-generation-functions
+  type: journal-article
+
+    authority: Philosophy of Science / Cambridge University Press
+    verifiedDate: 2026-08-13
+- id: bich-bechtel-2021-mechanism-autonomy-explanation
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2021
+  title: Mechanism, Autonomy and Biological Explanation
+  journal: Biology & Philosophy
+  volume: '36'
+  article-number: '53'
+  doi: 10.1007/s10539-021-09829-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: saborido-mossio-moreno-2011-cross-generation-functions
+  type: journal-article
+  authors: Saborido, C., Mossio, M., & Moreno, A.
+  year: 2011
+
+
+================================================================
+SEARCH TERM: systems biology
+================================================================
+- id: kitano-2002-computational-systems-biology
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: Computational Systems Biology
+  journal: Nature
+  volume: '420'
+  issue: '6912'
+  pages: 206–210
+  doi: 10.1038/nature01254
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2004-biological-robustness
+  type: journal-article
+  authors: Kitano, H.
+  year: 2004
+  title: Biological Robustness
+
+- id: brigandt-2013-systems-biology-explanatory-integration
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation
+  journal: Studies in History and Philosophy of Biological and Biomedical Sciences
+  volume: '44'
+  issue: '4'
+  pages: 477–492
+  doi: 10.1016/j.shpsc.2013.06.002
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: kitano-2002-systems-biology-overview
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+
+- id: kitano-2002-systems-biology-overview
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+  journal: Science
+  volume: '295'
+  issue: '5560'
+  pages: 1662–1664
+  doi: 10.1126/science.1069492
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: schlichting-pigliucci-1998-phenotypic-evolution
+  type: book
+  authors: Schlichting, C. D., & Pigliucci, M.
+  year: 1998
+  title: 'Phenotypic Evolution: A Reaction Norm Perspective'
+
+- id: brigandt-green-omalley-2017-systems-biology-mechanistic-explanation
+  type: book-chapter
+  authors: Brigandt, I., Green, S., & O'Malley, M. A.
+  year: 2017
+  title: Systems Biology and Mechanistic Explanation
+  book-title: The Routledge Handbook of Mechanisms and Mechanical Philosophy
+  editors: Glennan, S., & Illari, P.
+  publisher: Routledge
+  pages: 362–374
+  doi: 10.4324/9781315731544-27
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-08-10
+- id: arenas-gomez-sabin-echeverri-2020-wound-healing
+  type: journal-article
+  authors: Arenas Gómez, C. M., Sabin, K. Z., & Echeverri, K.
+  year: 2020
+  title: 'Wound Healing Across the Animal Kingdom: Crosstalk Between the Immune System and the Extracellular Matrix'
+
+- id: o-malley-dupre-2005-fundamental-issues-systems-biology
+  type: journal-article
+  authors: O'Malley, M. A., & Dupré, J.
+  year: 2005
+  title: Fundamental Issues in Systems Biology
+  journal: BioEssays
+  volume: "27"
+  issue: "12"
+  pages: 1270–1276
+  doi: 10.1002/bies.20323
+  verification:
+    status: verified
+    authority: Wiley and PubMed
+    verifiedDate: 2026-08-17
+- id: danielli-1961-preface-journal-theoretical-biology
+  type: journal-article
+  authors: Danielli, J. F.
+  year: 1961
+  title: Preface
+
+
+================================================================
+SEARCH TERM: Kitano
+================================================================
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2002-computational-systems-biology
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: Computational Systems Biology
+  journal: Nature
+  volume: '420'
+  issue: '6912'
+  pages: 206–210
+  doi: 10.1038/nature01254
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2004-biological-robustness
+
+    authority: Springer Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2002-computational-systems-biology
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: Computational Systems Biology
+  journal: Nature
+  volume: '420'
+  issue: '6912'
+  pages: 206–210
+  doi: 10.1038/nature01254
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2004-biological-robustness
+  type: journal-article
+  authors: Kitano, H.
+
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2004-biological-robustness
+  type: journal-article
+  authors: Kitano, H.
+  year: 2004
+  title: Biological Robustness
+  journal: Nature Reviews Genetics
+  volume: '5'
+  issue: '11'
+  pages: 826–837
+  doi: 10.1038/nrg1471
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: bich-ruiz-mirazo-moreno-2016-regulation
+
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: kitano-2004-biological-robustness
+  type: journal-article
+  authors: Kitano, H.
+  year: 2004
+  title: Biological Robustness
+  journal: Nature Reviews Genetics
+  volume: '5'
+  issue: '11'
+  pages: 826–837
+  doi: 10.1038/nrg1471
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: 2026-07-19
+- id: bich-ruiz-mirazo-moreno-2016-regulation
+  type: journal-article
+  authors: Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A.
+
+  verification:
+    status: verified
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: kitano-2002-systems-biology-overview
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+  journal: Science
+  volume: '295'
+  issue: '5560'
+  pages: 1662–1664
+  doi: 10.1126/science.1069492
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: schlichting-pigliucci-1998-phenotypic-evolution
+
+    authority: Elsevier and PubMed
+    verifiedDate: 2026-08-10
+- id: kitano-2002-systems-biology-overview
+  type: journal-article
+  authors: Kitano, H.
+  year: 2002
+  title: 'Systems Biology: A Brief Overview'
+  journal: Science
+  volume: '295'
+  issue: '5560'
+  pages: 1662–1664
+  doi: 10.1126/science.1069492
+  verification:
+    status: verified
+    authority: AAAS and PubMed
+    verifiedDate: 2026-08-10
+- id: schlichting-pigliucci-1998-phenotypic-evolution
+  type: book
+  authors: Schlichting, C. D., & Pigliucci, M.
+
+
+================================================================
+SEARCH TERM: pluralis
+================================================================
+- id: mitchell-2003-biological-complexity
+  type: book
+  authors: Mitchell, S. D.
+  year: 2003
+  title: Biological Complexity and Integrative Pluralism
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511802683
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-07-19
+- id: oyama-2000-ontogeny-information
+  type: book
+  authors: Oyama, S.
+  year: 2000
+  title: 'The Ontogeny of Information: Developmental Systems and Evolution'
+  publisher: Duke University Press
+  edition: 2nd
+  doi: 10.1515/9780822380665
+
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: kellert-longino-waters-2006-scientific-pluralism
+  type: edited-book
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: Scientific Pluralism
+  publisher: University of Minnesota Press
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-07
+- id: mantzavinos-2016-explanatory-pluralism
+  type: edited-book
+  editors: Mantzavinos, C.
+  year: 2016
+  title: Explanatory Pluralism
+
+- id: kellert-longino-waters-2006-scientific-pluralism
+  type: edited-book
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: Scientific Pluralism
+  publisher: University of Minnesota Press
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-07
+- id: mantzavinos-2016-explanatory-pluralism
+  type: edited-book
+  editors: Mantzavinos, C.
+  year: 2016
+  title: Explanatory Pluralism
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781316409961
+  verification:
+    status: verified
+
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-07
+- id: mantzavinos-2016-explanatory-pluralism
+  type: edited-book
+  editors: Mantzavinos, C.
+  year: 2016
+  title: Explanatory Pluralism
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781316409961
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: laudan-1977-progress-problems
+  type: book
+  authors: Laudan, L.
+  year: 1977
+
+- id: mantzavinos-2016-explanatory-pluralism
+  type: edited-book
+  editors: Mantzavinos, C.
+  year: 2016
+  title: Explanatory Pluralism
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9781316409961
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-07
+- id: laudan-1977-progress-problems
+  type: book
+  authors: Laudan, L.
+  year: 1977
+  title: "Progress and Its Problems: Towards a Theory of Scientific Growth"
+  publisher: University of California Press
+  verification:
+    status: verified
+
+- id: brigandt-2013-explanation-biology
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: "Explanation in Biology: Reduction, Pluralism, and Explanatory Aims"
+  journal: Science & Education
+  volume: "22"
+  issue: "1"
+  pages: "69–91"
+  doi: 10.1007/s11191-011-9350-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: van-fraassen-1980-scientific-image
+  type: book
+  authors: van Fraassen, B. C.
+  year: 1980
+  title: The Scientific Image
+
+- id: mitchell-dietrich-2006-integration-without-unification
+  type: journal-article
+  authors: Mitchell, S. D., & Dietrich, M. R.
+  year: 2006
+  title: "Integration without Unification: An Argument for Pluralism in the Biological Sciences"
+  journal: The American Naturalist
+  volume: "168"
+  issue: "S6"
+  pages: "S73–S79"
+  doi: 10.1086/509050
+  verification:
+    status: verified
+    authority: University of Chicago Press and Crossref
+    verifiedDate: 2026-08-08
+- id: kellert-longino-waters-2006-pluralist-stance
+  type: book-chapter
+  authors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: "Introduction: The Pluralist Stance"
+
+  verification:
+    status: verified
+    authority: University of Chicago Press and Crossref
+    verifiedDate: 2026-08-08
+- id: kellert-longino-waters-2006-pluralist-stance
+  type: book-chapter
+  authors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: "Introduction: The Pluralist Stance"
+  book-title: Scientific Pluralism
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  publisher: University of Minnesota Press
+  pages: "vii–xxix"
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-08
+- id: mitchell-2023-landscape-integrative-pluralism
+  type: journal-article
+
+- id: kellert-longino-waters-2006-pluralist-stance
+  type: book-chapter
+  authors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: "Introduction: The Pluralist Stance"
+  book-title: Scientific Pluralism
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  publisher: University of Minnesota Press
+  pages: "vii–xxix"
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-08
+- id: mitchell-2023-landscape-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2023
+  title: The landscape of integrative pluralism
+  journal: THEORIA. An International Journal for Theory, History and Foundations of Science
+
+  type: book-chapter
+  authors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  year: 2006
+  title: "Introduction: The Pluralist Stance"
+  book-title: Scientific Pluralism
+  editors: Kellert, S. H., Longino, H. E., & Waters, C. K.
+  publisher: University of Minnesota Press
+  pages: "vii–xxix"
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-08
+- id: mitchell-2023-landscape-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2023
+  title: The landscape of integrative pluralism
+  journal: THEORIA. An International Journal for Theory, History and Foundations of Science
+  volume: "38"
+
+  verification:
+    status: verified
+    authority: University of Minnesota Press
+    verifiedDate: 2026-08-08
+- id: mitchell-2023-landscape-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2023
+  title: The landscape of integrative pluralism
+  journal: THEORIA. An International Journal for Theory, History and Foundations of Science
+  volume: "38"
+  issue: "3"
+  pages: "261–297"
+  doi: 10.1387/theoria.25273
+  verification:
+    status: verified
+    authority: University of the Basque Country and Crossref
+    verifiedDate: 2026-08-08
+- id: salmon-1984-scientific-explanation-causal-structure
+
+- id: mitchell-2023-landscape-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2023
+  title: The landscape of integrative pluralism
+  journal: THEORIA. An International Journal for Theory, History and Foundations of Science
+  volume: "38"
+  issue: "3"
+  pages: "261–297"
+  doi: 10.1387/theoria.25273
+  verification:
+    status: verified
+    authority: University of the Basque Country and Crossref
+    verifiedDate: 2026-08-08
+- id: salmon-1984-scientific-explanation-causal-structure
+  type: book
+  authors: Salmon, W. C.
+  year: 1984
+  title: Scientific Explanation and the Causal Structure of the World
+
+- id: chang-2012-is-water-h2o
+  type: book
+  authors: Chang, H.
+  year: 2012
+  title: "Is Water H2O?: Evidence, Realism and Pluralism"
+  publisher: Springer
+  doi: 10.1007/978-94-007-3932-1
+  verification:
+    status: verified
+    authority: Springer Nature and Crossref
+    verifiedDate: 2026-08-09
+- id: morrison-2015-reconstructing-reality
+  type: book
+  authors: Morrison, M.
+  year: 2015
+  title: "Reconstructing Reality: Models, Mathematics, and Simulations"
+  publisher: Oxford University Press
+  doi: "10.1093/acprof:oso/9780199380275.001.0001"
+  verification:
+
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-08-12
+- id: mitchell-2002-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2002
+  title: Integrative Pluralism
+  journal: Biology & Philosophy
+  volume: '17'
+  issue: '1'
+  pages: 55–70
+  doi: 10.1023/A:1012990030867
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: taylor-2023-explanatory-distance
+
+- id: mitchell-2002-integrative-pluralism
+  type: journal-article
+  authors: Mitchell, S. D.
+  year: 2002
+  title: Integrative Pluralism
+  journal: Biology & Philosophy
+  volume: '17'
+  issue: '1'
+  pages: 55–70
+  doi: 10.1023/A:1012990030867
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-13
+- id: taylor-2023-explanatory-distance
+  type: journal-article
+  authors: Taylor, E.
+  year: 2023
+  title: Explanatory Distance
+
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-04
+- id: marchionni-2008-explanatory-pluralism-complementarity
+  type: journal-article
+  authors: Marchionni, C.
+  year: 2008
+  title: "Explanatory Pluralism and Complementarity: From Autonomy to Integration"
+  journal: Philosophy of the Social Sciences
+  volume: '38'
+  issue: '3'
+  pages: 314–333
+  doi: 10.1177/0048393108319399
+  verification:
+    status: verified
+    authority: SAGE Journals
+    verifiedDate: 2026-09-04
+- id: gijsbers-2016-explanatory-pluralism-disunity-science
+
+- id: marchionni-2008-explanatory-pluralism-complementarity
+  type: journal-article
+  authors: Marchionni, C.
+  year: 2008
+  title: "Explanatory Pluralism and Complementarity: From Autonomy to Integration"
+  journal: Philosophy of the Social Sciences
+  volume: '38'
+  issue: '3'
+  pages: 314–333
+  doi: 10.1177/0048393108319399
+  verification:
+    status: verified
+    authority: SAGE Journals
+    verifiedDate: 2026-09-04
+- id: gijsbers-2016-explanatory-pluralism-disunity-science
+  type: journal-article
+  authors: Gijsbers, V.
+  year: 2016
+  title: "Explanatory Pluralism and the (Dis)Unity of Science: The Argument from Incompatible Counterfactual Consequences"
+
+  verification:
+    status: verified
+    authority: SAGE Journals
+    verifiedDate: 2026-09-04
+- id: gijsbers-2016-explanatory-pluralism-disunity-science
+  type: journal-article
+  authors: Gijsbers, V.
+  year: 2016
+  title: "Explanatory Pluralism and the (Dis)Unity of Science: The Argument from Incompatible Counterfactual Consequences"
+  journal: Frontiers in Psychiatry
+  volume: '7'
+  article-number: '32'
+  doi: 10.3389/fpsyt.2016.00032
+  verification:
+    status: verified
+    authority: Frontiers / PubMed
+    verifiedDate: 2026-09-04
+- id: shapiro-et-al-2004-stickleback-pelvic-reduction
+  type: journal-article
+
+- id: gijsbers-2016-explanatory-pluralism-disunity-science
+  type: journal-article
+  authors: Gijsbers, V.
+  year: 2016
+  title: "Explanatory Pluralism and the (Dis)Unity of Science: The Argument from Incompatible Counterfactual Consequences"
+  journal: Frontiers in Psychiatry
+  volume: '7'
+  article-number: '32'
+  doi: 10.3389/fpsyt.2016.00032
+  verification:
+    status: verified
+    authority: Frontiers / PubMed
+    verifiedDate: 2026-09-04
+- id: shapiro-et-al-2004-stickleback-pelvic-reduction
+  type: journal-article
+  authors: Shapiro, M. D., et al.
+  year: 2004
+  title: Genetic and Developmental Basis of Evolutionary Pelvic Reduction in Threespine Sticklebacks
+  journal: Nature
+
+
+================================================================
+SEARCH TERM: explanation in biology
+================================================================
+- id: brigandt-2013-explanation-biology
+  type: journal-article
+  authors: Brigandt, I.
+  year: 2013
+  title: "Explanation in Biology: Reduction, Pluralism, and Explanatory Aims"
+  journal: Science & Education
+  volume: "22"
+  issue: "1"
+  pages: "69–91"
+  doi: 10.1007/s11191-011-9350-7
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-08-07
+- id: van-fraassen-1980-scientific-image
+  type: book
+  authors: van Fraassen, B. C.
+  year: 1980
+  title: The Scientific Image
+
+- id: fagan-2016-interventionist-omissions
+  type: journal-article
+  authors: Fagan, M. B.
+  year: 2016
+  title: 'Interventionist Omissions: A Critical Case Study of Mechanistic Explanation in Biology'
+  journal: Philosophy of Science
+  volume: '83'
+  issue: '5'
+  pages: 1082–1097
+  doi: 10.1086/687940
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-08-16
+- id: peterson-2016-life-organic
+  type: book
+  authors: Peterson, E. L.
+  year: 2016
+  title: "The Life Organic: The Theoretical Biology Club and the Roots of Epigenetics"
+
+- id: ross-2025-explanation-biology
+  type: book
+  authors: Ross, L. N.
+  year: 2025
+  title: Explanation in Biology
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009300940
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hodgkin-huxley-1952-quantitative-description-membrane-current
+  type: journal-article
+  authors: Hodgkin, A. L., & Huxley, A. F.
+  year: 1952
+  title: A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve
+  journal: The Journal of Physiology
+  volume: '117'
+  issue: '4'
+
+
+================================================================
+SEARCH TERM: Ross, L
+================================================================
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-09-03
+- id: ross-2025-explanation-biology
+  type: book
+  authors: Ross, L. N.
+  year: 2025
+  title: Explanation in Biology
+  publisher: Cambridge University Press
+  doi: 10.1017/9781009300940
+  verification:
+    status: verified
+    authority: Cambridge University Press / Cambridge Core
+    verifiedDate: 2026-09-03
+- id: hodgkin-huxley-1952-quantitative-description-membrane-current
+  type: journal-article
+  authors: Hodgkin, A. L., & Huxley, A. F.
+  year: 1952
+  title: A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve
+  journal: The Journal of Physiology
+
+
+================================================================
+SEARCH TERM: Ross, Lauren
+================================================================
+
+================================================================
+SEARCH TERM: de Regt
+================================================================
+    authority: Harvard University Press
+    verifiedDate: 2026-08-09
+- id: de-regt-2017-understanding-scientific-understanding
+  type: book
+  authors: de Regt, H. W.
+  year: 2017
+  title: Understanding Scientific Understanding
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780190652913.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press and Crossref
+    verifiedDate: 2026-08-09
+- id: khalifa-2017-understanding-explanation-scientific-knowledge
+  type: book
+  authors: Khalifa, K.
+  year: 2017
+  title: Understanding, Explanation, and Scientific Knowledge
+  publisher: Cambridge University Press
+

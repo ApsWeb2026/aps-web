@@ -1,0 +1,396 @@
+APS-GENERAL-BIOLOGICAL-EXPLANATION-001
+GBE-D1B � Exact-Title Source Recovery
+Generated: 2026-09-17 18:45:53
+
+================================================================
+FILE: src\content\articles\agency-evolution-and-the-architecture-of-biological-explanation.md
+date: 2026-04-09
+title: "Agency, Evolution, and the Architecture of Biological Explanation"
+slug: biological-agency-evolution-and-the-architecture-of-biological-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-04-09
+revised: 2026-09-09
+role: extension
+
+================================================================
+FILE: src\content\articles\aps-and-autonomy-theory-cib.md
+date: 2026-04-27
+title: APS and Autonomy Theory — Constraint Closure, Viability, and Organised Persistence
+slug: aps-and-autonomy-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\aps-and-systems-theory-ci.md
+date: 2026-04-11
+title: APS and Systems Theory — Similarities, Differences, and Limits
+slug: aps-and-systems-theory
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\aps-and-the-extended-evolutionary-synthesis.md
+date: 2026-04-27
+title: "APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison"
+slug: aps-and-the-extended-evolutionary-synthesis
+type: article
+status: canonical
+canonicalLockDate: 2026-04-11
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\articles\architectural-dependency-and-biological-explanation.md
+date: 2026-07-13
+title: "Architectural Dependency and Biological Explanation"
+slug: architectural-dependency-and-biological-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-07-13
+revised: 2026-09-03
+role: core
+
+================================================================
+FILE: src\content\articles\biological-explanation-and-organised-persistence-ci.md
+date: 2026-05-27
+title: "Biological Explanation and Organised Persistence"
+slug: biological-explanation-and-organised-persistence
+type: article
+status: canonical
+canonicalLockDate: 2026-05-27
+revised: 2026-09-14
+role: core
+
+================================================================
+FILE: src\content\articles\biological-explanation-what-needs-to-be-explained-ci.md
+date: 2026-04-27
+title: "Biological Explanation — What Needs to Be Explained"
+slug: "biological-explanation-what-needs-to-be-explained"
+type: article
+status: canonical
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+role: core
+
+================================================================
+FILE: src\content\articles\comparative-explanatory-methodology-theoretical-biology.md
+title: "Comparative Explanatory Methodology in Theoretical Biology"
+slug: comparative-explanatory-methodology-theoretical-biology
+date: 2026-08-07
+type: article
+status: canonical
+canonicalLockDate: 2026-08-07
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\evolution-taxonomy-and-the-reorganisation-of-biological-explanation.md
+title: Evolution, Taxonomy, and the Reorganisation of Biological Explanation
+slug: evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+date: 2026-06-20
+type: article
+status: canonical
+canonicalLockDate: 2026-06-20
+revised: 2026-09-09
+
+================================================================
+FILE: src\content\articles\from-life-to-explanation-emerging-architecture.md
+date: 2026-04-18
+title: From Life to Explanation — The Explanatory Architecture of APS
+slug: from-life-to-explanation-emerging-architecture
+type: article
+status: canonical
+canonicalLockDate: 2026-04-18
+revised: 2026-09-17
+role: synthesis
+
+================================================================
+FILE: src\content\articles\how-did-scientists-learn-to-think-about-explanation.md
+date: 2026-09-03
+title: "How Did Scientists Learn to Think About Explanation?"
+slug: how-did-scientists-learn-to-think-about-explanation
+type: article
+status: canonical
+canonicalLockDate: 2026-09-03
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-do-contemporary-biological-frameworks-explain.md
+date: 2026-09-04
+title: "How Do Contemporary Biological Frameworks Explain?"
+slug: how-do-contemporary-biological-frameworks-explain
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-do-scientific-explanations-go-wrong.md
+date: 2026-09-04
+title: How Do Scientific Explanations Go Wrong?
+slug: how-do-scientific-explanations-go-wrong
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\how-should-a-new-scientific-framework-be-tested.md
+date: 2026-09-05
+title: "How Should a New Scientific Framework Be Tested?"
+slug: how-should-a-new-scientific-framework-be-tested
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-07
+role: core
+
+================================================================
+FILE: src\content\articles\how-should-scientific-explanations-be-compared.md
+date: 2026-09-04
+title: "How Should Scientific Explanations Be Compared?"
+slug: how-should-scientific-explanations-be-compared
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\naturalising-life-how-biological-concepts-become-scientifically-intelligible-ci.md
+title: Naturalising Life
+slug: naturalising-life
+type: article
+date: 2026-07-08
+revised: 2026-09-02
+status: canonical
+canonicalLockDate: 2026-07-08
+role: synthesis
+
+================================================================
+FILE: src\content\articles\structure-of-biological-explanation-in-aps.md
+date: 2026-04-16
+title: "The Structure of Biological Explanation in APS"
+slug: structure-of-biological-explanation-in-aps
+type: article
+status: canonical
+canonicalLockDate: 2026-04-16
+revised: 2026-08-18
+
+================================================================
+FILE: src\content\articles\the-explanatory-geometry-of-biology-ci.md
+date: 2026-04-27
+title: "The Explanatory Geometry of Biology — How APS Organises Biological Explanation"
+slug: explanatory-geometry-of-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-06-16
+revised: 2026-09-07
+role: core
+
+================================================================
+FILE: src\content\articles\what-counts-as-explanatory-gain.md
+date: 2026-09-04
+title: "What Counts as Explanatory Gain?"
+slug: what-counts-as-explanatory-gain
+type: article
+status: canonical
+canonicalLockDate: 2026-09-04
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\what-does-aps-mean-by-an-analytic-projection.md
+date: 2026-09-10
+title: "Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?"
+slug: what-does-aps-mean-by-an-analytic-projection
+type: article
+status: canonical
+canonicalLockDate: 2026-09-10
+revised: 2026-09-10
+role: clarification
+
+================================================================
+FILE: src\content\articles\what-happens-when-aps-is-tested-against-its-strongest-comparators.md
+date: 2026-09-05
+title: "What Happens When APS Is Tested Against Its Strongest Comparators?"
+slug: what-happens-when-aps-is-tested-against-its-strongest-comparators
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-06
+role: extension
+
+================================================================
+FILE: src\content\articles\what-is-biology-trying-to-explain.md
+date: 2026-07-24
+title: What Is Biology Trying to Explain?
+slug: what-is-biology-trying-to-explain
+type: article
+status: canonical
+canonicalLockDate: 2026-08-27
+revised: 2026-08-27
+role: synthesis
+
+================================================================
+FILE: src\content\articles\what-makes-an-explanation-successful.md
+date: 2026-09-03
+title: "What Makes an Explanation Successful?"
+slug: what-makes-an-explanation-successful
+type: article
+status: canonical
+canonicalLockDate: 2026-09-03
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\which-explanatory-framework-is-best.md
+date: 2026-09-05
+title: Which Explanatory Framework Is Best?
+slug: which-explanatory-framework-is-best
+type: article
+status: canonical
+canonicalLockDate: 2026-09-05
+revised: 2026-09-05
+role: core
+
+================================================================
+FILE: src\content\articles\why-aps-is-not-organicism-ci.md
+date: 2026-05-28
+title: "Why APS Is Not Organicism"
+slug: why-aps-is-not-organicism
+type: article
+status: canonical
+canonicalLockDate: 2026-05-28
+revised: 2026-07-28
+
+================================================================
+FILE: src\content\articles\why-aps-reframes-biology.md
+date: 2026-05-12
+title: "Why APS Reframes Biology"
+slug: why-aps-reframes-biology
+type: article
+status: canonical
+canonicalLockDate: 2026-05-12
+revised: 2026-09-14
+role: anchor
+
+================================================================
+FILE: src\content\articles\why-philosophy-of-biology-matters.md
+date: 2026-05-17
+title: "Why Philosophy of Biology Matters"
+slug: why-philosophy-of-biology-matters
+type: article
+status: canonical
+canonicalLockDate: 2026-05-17
+revised: 2026-08-24
+role: clarification
+
+================================================================
+FILE: src\content\articles\why-use-aps-if-biology-already-has-the-concepts.md
+date: 2026-09-16
+title: "Why Use APS If Biology Already Has the Concepts?"
+slug: why-use-aps-if-biology-already-has-the-concepts
+type: article
+status: canonical
+canonicalLockDate: 2026-09-16
+revised: 2026-09-16
+role: clarification
+
+================================================================
+FILE: src\content\boxes\what-biological-explanation-explains.md
+date: 2026-05-14
+title: APS Box — What Biological Explanation Explains
+slug: what-biological-explanation-explains
+type: box
+status: canonical
+canonicalLockDate: 2026-05-14
+revised: 2026-09-02
+
+================================================================
+FILE: src\content\glossary\biological-explanation.md
+date: 2026-07-13
+title: Biological Explanation
+slug: biological-explanation
+type: glossary
+status: canonical
+canonicalLockDate: 2026-07-13
+revised: 2026-08-18
+
+================================================================
+FILE: src\content\orientation\aps-architecture-map-ci.md
+date: 2026-05-16
+title: "APS Architecture Map — Navigating the Framework"
+slug: aps-architecture-map
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-22
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\orientation\aps-challenges-limitations-and-future-directions.md
+date: 2026-06-08
+title: "APS Challenges, Limitations, and Future Directions"
+slug: aps-challenges-limitations-and-future-directions
+type: orientation
+status: canonical
+canonicalLockDate: 2026-06-08
+revised: 2026-08-11
+
+================================================================
+FILE: src\content\orientation\how-aps-concepts-fit-together.md
+title: "How APS Concepts Fit Together"
+slug: "how-aps-concepts-fit-together"
+type: orientation
+date: 2026-05-10
+revised: 2026-09-02
+status: canonical
+canonicalLockDate: 2026-05-10
+
+================================================================
+FILE: src\content\orientation\how-aps-explains-life-ci.md
+date: 2026-04-16
+title: "How APS Explains Life — A Two-Step Guide"
+slug: how-aps-explains-life
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-07
+
+================================================================
+FILE: src\content\orientation\the-core-structure-of-aps-how-the-framework-fits-together.md
+date: 2026-04-13
+title: "The Core Structure of APS — How the Framework Fits Together"
+slug: the-core-structure-of-aps-how-the-framework-fits-together
+type: orientation
+status: canonical
+canonicalLockDate: 2026-07-10
+revised: 2026-09-10
+
+================================================================
+FILE: src\content\orientation\understanding-aps-the-structure-of-the-framework-cia.md
+date: 2026-04-27
+title: "Understanding APS — The Structure of the Framework"
+slug: understanding-aps-the-structure-of-the-framework
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-14
+
+================================================================
+FILE: src\content\orientation\what-is-aps-ci.md
+date: 2026-04-13
+title: "What Is APS?"
+slug: what-is-aps
+type: orientation
+status: canonical
+canonicalLockDate: 2026-05-26
+revised: 2026-09-10
+

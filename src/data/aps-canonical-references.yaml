@@ -4873,3 +4873,17 @@ references:
     status: verified
     authority: Zenodo
     verifiedDate: 2026-09-17
+- id: roe-2003-life-sciences
+  type: book-chapter
+  authors: Roe, S. A.
+  year: 2003
+  title: The Life Sciences
+  book-title: 'The Cambridge History of Science, Volume 4: Eighteenth-Century Science'
+  editors: Porter, R.
+  publisher: Cambridge University Press
+  pages: 397–416
+  doi: 10.1017/CHOL9780521572439.018
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-18
