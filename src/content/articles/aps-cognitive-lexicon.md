@@ -241,6 +241,25 @@ Many cognitive terms concern the acquisition, processing, and use of information
 Information becomes biologically meaningful when it influences the organisation of activity relative to viability. Cognitive language in this domain therefore concerns how organisms detect, evaluate, communicate, and employ information in ways that support organised persistence.
 
 <div class="aps-diagram">
+  <a href="/images/table7.png" target="_blank" rel="noopener">
+    <img
+      src="/images/table7.png"
+      alt="Comparison of human or sentient cognition terms with their organisational translations in APS"
+      loading="lazy"
+    />
+  </a>
+  <p class="caption">
+    <strong>Table 7.</strong> Organisational translations of cognition-related terms. APS distinguishes familiar human or sentient meanings of cognition, attention, communication, perception, and knowledge from their biologically grounded organisational counterparts.
+  </p>
+</div>
+
+### Persistence and Change
+
+Living systems persist partly because information from past interactions can influence future activity. Terms in this section concern the retention, modification, and cumulative effects of organisational states through time.
+
+APS interprets memory, learning, and experience as aspects of ongoing biological organisation. These processes allow organisms to carry information forward, modify future responses, and maintain continuity despite changing internal and external conditions.
+
+<div class="aps-diagram">
   <a href="/assets/diagrams/table3.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/table3.png"
@@ -254,11 +273,11 @@ Information becomes biologically meaningful when it influences the organisation 
   </p>
 </div>
 
-### Persistence and Change
+### Anticipation and Action
 
-Living systems persist partly because information from past interactions can influence future activity. Terms in this section concern the retention, modification, and cumulative effects of organisational states through time.
+Living systems frequently alter activity in ways that reflect expected future conditions or anticipated consequences. APS interprets these capacities through the organisational dynamics of anticipation, response selection, and viability-oriented regulation.
 
-APS interprets memory, learning, and experience as aspects of ongoing biological organisation. These processes allow organisms to carry information forward, modify future responses, and maintain continuity despite changing internal and external conditions.
+Terms such as decision-making, prediction, foresight, and problem-solving therefore refer to ways in which organisms coordinate present activity relative to future possibilities. Although these concepts often carry strong psychological associations, their biological interpretation concerns organisation rather than conscious deliberation.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/table4.png" target="_blank" rel="noopener">
@@ -271,26 +290,6 @@ APS interprets memory, learning, and experience as aspects of ongoing biological
   <p class="aps-diagram-caption">
     <strong>Anticipation and Action.</strong>
     APS translations of decision-making, prediction, foresight, and problem-solving in terms of viability-oriented organisation.
-  </p>
-</div>
-
-### Anticipation and Action
-
-Living systems frequently alter activity in ways that reflect expected future conditions or anticipated consequences. APS interprets these capacities through the organisational dynamics of anticipation, response selection, and viability-oriented regulation.
-
-Terms such as decision-making, prediction, foresight, and problem-solving therefore refer to ways in which organisms coordinate present activity relative to future possibilities. Although these concepts often carry strong psychological associations, their biological interpretation concerns organisation rather than conscious deliberation.
-
-<div class="aps-diagram">
-  <a href="/assets/diagrams/table5.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/table5.png"
-      alt="APS Cognitive Lexicon — Higher Cognitive Terms"
-      loading="lazy"
-    />
-  </a>
-  <p class="aps-diagram-caption">
-    <strong>Higher Cognitive Terms.</strong>
-    Organisational comparisons for intelligence, creativity, intention, and reason; these translations do not themselves warrant cognitive attribution.
   </p>
 </div>
 
