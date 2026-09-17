@@ -6,8 +6,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
 date: 2026-06-14
-revised: 2026-09-11
-
+revised: 2026-09-17
 cluster: conceptual-foundations
 role: anchor
 
@@ -292,7 +291,7 @@ APS therefore neither reserves agency for a privileged biological level nor dist
 
 Biological agency is the activity through which that organisation is enacted and sustained.
 
-Here is the format. Can you remember this format for future reference? ## Explanatory Architecture
+## Explanatory Architecture
 
 ### Central Question
 
@@ -348,3 +347,68 @@ This article also establishes the principal APS boundary conditions for agency a
 This article is the canonical Agency anchor for the APS corpus. It establishes the definition of biological agency, its relationship to self-maintenance and viability, the boundary of agency attribution, the distinction between Agency and Scale, and the requirement that explanatory use of Agency demonstrate gain relative to the specified explanandum and comparator.
 
 The remaining Agency articles therefore develop, defend, delimit, compare, or extend claims established here rather than independently redefining biological agency.
+
+## Explanatory Architecture
+
+### Central Question
+
+Why does cognition, where present, depend upon organised biological persistence, and why does that dependency not make organised persistence itself sufficient for cognitive attribution?
+
+### Architectural Role
+
+This article establishes the relationship between cognition and organised persistence within APS. It explains why cognition cannot be treated as a detachable informational, computational, or representational architecture independent of living organisation, while also preserving the boundary between the organisation required for life and the additional organisation required for cognition.
+
+The article situates Biological Agency, Biological Evaluation, Significance, and Integration as pre-cognitive explanatory dependencies. These establish conditions within which cognition may become possible but do not themselves establish cognitive status. Cognitive attribution becomes a separate explanatory question where integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+### Builds On
+
+- Life
+- Biological Organisation
+- Biological Agency
+- Viability
+- Constraint Closure
+- Organised Persistence
+- Biological Evaluation
+- Significance
+- Integration
+
+### Develops Into
+
+- The biological organisation of cognition
+- Cognitive attribution
+- Mind
+- Selfhood
+- Reflective Agency
+- Meaning
+- Evolutionary analysis of cognitive organisation
+- Cross-scale analysis of cognitive dependencies
+- Comparative evaluation of cognitive explanations
+
+### Related Explanatory Questions
+
+- Why must cognition be explained within living organisation rather than as a detachable functional architecture?
+- What does organised persistence contribute to explaining cognition?
+- Why does organised persistence not itself establish cognition?
+- How does viability provide the biological reference condition for the dependencies relevant to cognition?
+- What roles do Biological Evaluation, Significance, and Integration play before cognitive attribution becomes warranted?
+- What distinguishes widespread biological regulation and responsiveness from cognition?
+- When does integrated biological significance support cognitive rather than non-cognitive explanation?
+- Why are information processing, representation, computation, and inference insufficient by themselves to establish cognition?
+- How can cognition have an evolutionary history without being treated as the endpoint of a general progression of living organisation?
+- Across what spatial and temporal extents must the dependencies relevant to a cognitive explanandum be followed?
+- What does constraint closure contribute to the living organisation within which cognition is realised?
+- When does cognitive attribution provide explanatory gain beyond the strongest adequate non-cognitive comparator?
+
+### Position within APS
+
+This article is a dependency article within the Cognition and Mind cluster. It does not independently redefine cognition. Within APS, **cognition is the organisation of biological significance across time**. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+The article establishes where that cognitive organisation is situated biologically. Cognition, where present, is materially realised within viability-oriented, constraint-closed living organisation already engaged in maintaining and re-establishing the conditions of its persistence. Life, Agency, Biological Evaluation, Significance, and Integration therefore provide explanatory dependencies relevant to cognition without making cognition an automatic consequence of living organisation.
+
+This dependency is not a chronology, developmental succession, evolutionary progression, hierarchy, or sequence of levels. Nor does the presence of viability regulation, information use, adaptive flexibility, temporal extension, multiscale organisation, or constraint closure by itself warrant cognitive attribution. Cognitive claims remain dependent upon the specified explanandum, materially implemented dependencies, and comparison with the strongest adequate non-cognitive explanation.
+
+### Corpus Significance
+
+This article is the principal APS treatment of the relationship between cognition and organised persistence. Its corpus function is not to serve as the canonical definition of cognition, but to establish why warranted cognition remains biologically dependent upon living organisation while remaining explanatorily distinguishable from the organisation required for life itself.
+
+The article therefore connects the core APS architecture of Life, Agency, Process, and Scale with the Cognition and Mind corpus. It provides the dependency bridge between viability-oriented organised persistence and the more specific question of cognitive attribution, while preventing either detached accounts of cognition or an unrestricted identification of cognition with life, regulation, or adaptive organisation.
