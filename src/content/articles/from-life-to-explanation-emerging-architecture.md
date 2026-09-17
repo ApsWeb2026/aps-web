@@ -1,15 +1,31 @@
 ---
 date: 2026-04-18
-title: From Life to Explanation - The Emerging Architecture of the APS Framework
+title: From Life to Explanation — The Explanatory Architecture of APS
 slug: from-life-to-explanation-emerging-architecture
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-07-28
-cluster:  methodology-and-explanation
+revised: 2026-09-17
+cluster: methodology-and-explanation
+role: synthesis
 abstract: >
-  This article clarifies the scope of the APS framework as an integrated explanatory architecture. It shows how APS extends from a definition of life as viability-oriented, constraint-closed organisation to a unified structure of explanation across biological domains, including physiology, evolution, and cognition.
+  APS moves from an account of life as viability-oriented, constraint-closed
+  organisation to a target-sensitive architecture for explanatory inquiry.
+  Agency, Process, and Scale organise questions about living organisation
+  without determining biological explanations in advance. This article
+  distinguishes explanatory architecture from biological warrant and shows
+  how APS-guided inquiry must proceed through specified explananda, materially
+  grounded dependencies, evidence, and—where explanatory gain is claimed—
+  comparison with the strongest relevant alternative.
+keyPoints:
+- APS moves from its account of living organisation to an explanatory architecture, not directly to completed biological explanations.
+- Agency, Process, and Scale are complementary, target-sensitive analytic projections; the explanandum determines their relevance.
+- APS architecture can identify relationships worth investigating, but biological dependencies require material specification and evidence.
+- Organised Persistence can integrate questions concerning continuity through change without functioning as an additional causal force.
+- Integration, coherence, and redescription do not by themselves establish explanatory gain; gain is target-relative and comparator-relative.
+- APS becomes a research programme when architectural proposals generate specific investigations capable of positive, null, adverse, or narrowing outcomes.
+
 relatedGlossaryTerms:
   - life
   - biological-agency
@@ -19,169 +35,229 @@ relatedGlossaryTerms:
   - inheritance
   - transformation
   - constraint-closure
+
 relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
   - explanatory-geometry-of-biology
-  - scale-time-persistence
-  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
-  - aps-as-philosophy-biological-intelligibility
+  - persistence-organised-continuity-through-time
+  - scale-how-life-is-coordinated-across-space-and-time
+  - how-should-scientific-explanations-be-compared
+  - what-counts-as-explanatory-gain
+  - how-should-a-new-scientific-framework-be-tested
+  - cognition-where-does-it-belong-in-biology
+references:
+  - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2015-closure-constraints
+  - machamer-darden-craver-2000-mechanisms
+  - woodward-2003-making-things-happen
+  - marchionni-2008-explanatory-pluralism-complementarity
+  - gijsbers-2016-explanatory-pluralism-disunity-science
 ---
 
-## What This Article Does
+## Introduction - What This Article Does
 
-This article clarifies the **scope** of the APS framework. It shows how APS extends from a definition of life as viability-oriented, constraint-closed organisation to a unified architecture of biological explanation.
+The Agency–Process–Scale framework begins with a particular account of life. It treats living systems as viability-oriented, constraint-closed organisations whose continued existence depends on maintaining the conditions of their own persistence. From that starting point, APS develops an explanatory architecture organised around three complementary analytic projections: Agency, Process, and Scale.
 
-It is not an introduction to APS, nor a restatement of its core concepts. For an overview of the framework, see **[What Is APS?](/orientation/what-is-aps/)**. For an account of how biological explanation is structured within APS, see **[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)**.
+That move needs to be made carefully. A definition of life does not by itself explain particular biological phenomena. Nor does the APS architecture determine in advance which variables, mechanisms, dependencies, spatial extents, or temporal relations matter in any particular case. Moving from an account of living organisation to biological explanation therefore requires additional steps.
 
-Instead, this article addresses a different question:
+APS can organise inquiry by relating a specified biological explanandum to the activity sustaining viability, the processes through which that activity occurs, and the spatial and temporal extents across which persistence is organised. These are not three independent causes of biological phenomena. They are analytic projections of one living organisation, and their relevance depends on the explanatory problem.
 
-> How does a framework that defines life also organise explanation across all domains of biology?
+The distinction between organising explanation and providing biological warrant is fundamental. APS can help specify what is being asked, expose relationships that merit investigation, and connect otherwise separated explanatory questions. Whether those relationships actually obtain in a biological system is a further matter. That requires evidence.
 
-## From Definition to Architecture
+**Where This Article Fits**
 
-APS begins with a specific claim about life: living systems are **viability-oriented, constraint-closed organisations** that actively sustain the conditions of their own persistence.
+*This article occupies the transition between the conceptual foundations of APS and its comparative methodology of explanation.*
 
-This is not simply a definition among others. It identifies the **kind of system** that biological explanation must account for. Once this is specified, the structure of explanation is no longer arbitrary.
+*[What Is APS?](/orientation/what-is-aps/)* introduces the framework and its basic commitments. The foundational articles examine life, biological organisation, Agency, Process, Scale, and Organised Persistence in greater detail. This article asks the next question: **if those commitments are provisionally adopted, what follows for explanatory inquiry?***
 
-If living systems are organised in this way, then explaining them requires an account of:
+*The answer is not that APS supplies completed explanations in advance. Its architecture helps move from an account of living organisation towards specified explanatory questions and candidate biological dependencies. The methodology articles then take over, asking how such claims should be tested, compared with existing explanations, and assessed for explanatory gain.*
 
-- the activity through which viability is maintained  
-- the processes through which this activity is organised  
-- the spatial and temporal extent across which this organisation persists (see *Spatiotemporal Organisation and Scale*)  
+## From an Account of Life to an Explanatory Problem
 
-These correspond to the three dimensions of APS: **agency, process, and scale**.
+APS defines life as **viability-oriented, constraint-closed organisation**.
 
-The explanatory structure of APS therefore follows directly from its account of life. Explanation is not imposed from outside, but emerges from the organisation of the system being explained.
+Within APS, this identifies the kind of organisation from which explanatory inquiry begins. Living systems persist only while organised activities continue to maintain, repair, regulate, reproduce, or re-establish conditions compatible with continued existence.
 
-<figure class="diagram">
-  <img
-    src="/assets/diagrams/constraint-closure-living-systems.svg"
-    alt="Diagram showing constraint closure in living systems"
-  />
-  <figcaption>
-    Living systems persist through constraint closure: processes regenerate the constraints that make their own activity possible.
-  </figcaption>
-</figure>
+This starting point has important affinities with organisational approaches to biology, particularly work on biological autonomy and closure of constraints (Moreno and Mossio 2015; Montévil and Mossio 2015). These traditions provide independent scientific and philosophical context for treating living systems as organised and self-maintaining rather than as static collections of components. They do not, however, independently establish the complete APS account of life or its explanatory architecture.
 
-This architectural transition is examined philosophically in [APS as Philosophy: A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)
+Living systems are materially realised. Their components interact through particular causal structures and biological processes. Molecular, mechanistic, physiological, developmental, ecological, evolutionary, and other domain-specific explanations therefore retain their own explanatory roles. APS does not replace them. It asks whether particular explanatory questions can sometimes be related more explicitly to the organised persistence of the living system being investigated.
 
-## A Unified Explanatory Architecture
+<div class="aps-diagram">
+  <a href="/assets/diagrams/constraint-closure-living-systems.svg" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/constraint-closure-living-systems.svg"
+      alt="Constraint closure in living systems as reciprocal maintenance between processes and constraints"
+      loading="lazy"
+    />
+  </a>
 
-Because the same organisational conditions define all living systems, the same explanatory structure applies across biological domains.
+  <p class="aps-diagram-caption">
+    <strong>Constraint Closure in Living Systems.</strong>
+    Constraint closure describes reciprocal organisation in which living processes maintain constraints that contribute to the continuation of organised activity. In APS, this provides part of the organisational starting point for explanatory inquiry; it does not by itself determine an adequate biological explanation.
+  </p>
+</div>
 
-What differs is not the form of explanation, but the **aspect of organisation being examined**.
+## Why Living Organisation Places Demands on Explanation
 
-- In **physiology**, explanation concerns how systems maintain viability in real time.  
-- In **evolution**, it concerns how viability-oriented organisation is transformed across generations.  
-- In **cognition**, it concerns how systems regulate their interactions with the environment in ways that sustain viability.  
+Once life is treated as organised persistence rather than material constancy, APS asks how inquiry into such an organisation should be structured.
 
-These are not separate explanatory frameworks. They are different expressions of a single architecture grounded in viability-oriented organisation.
+Living systems remain organised while undergoing continual change. Components turn over, physiological states fluctuate, development transforms the organism, environments change, and lineages persist through reproduction and inheritance. An explanatory architecture concerned with such systems must therefore be capable of asking about activity, transformation, and the spatial and temporal organisation of persistence.
 
-APS therefore does not unify biology by reducing it to a single mechanism or principle. It unifies it by showing that diverse phenomena share the same underlying conditions of organisation and can be explained through the same structured relations.
+Within APS, Agency, Process, and Scale provide those complementary perspectives. This is an architectural proposal, not a claim that every biological explanation must take the same form.
 
-## From Domains to Relations
+The distinction is important. APS's account of life motivates explanatory questions; it does not determine their answers.
 
-Traditional accounts often distinguish biological domains by their objects of study: genes, organisms, populations, ecosystems. This can lead to different explanatory approaches being developed in parallel.
+## Agency, Process, and Scale as Analytic Projections
 
-APS shifts attention from objects to **relations of organisation**.
+**Agency** concerns the viability-oriented activity through which living organisation sustains conditions of persistence.
 
-- What matters is not the category to which a system belongs, but how it sustains its viability  
-- Not the scale at which it is observed, but how processes are coordinated across scales  
-- Not the mechanism in isolation, but its role within a constraint-closed organisation  
+**Process** concerns how organised biological change occurs.
 
-This shift allows explanations from different areas of biology to be understood as contributions to a single, integrated account.
+**Scale** concerns where persistence is organised across spatial and temporal extents.
 
-## The Architecture of Explanation
+These are complementary analytic projections of one organisation. They are not components into which an organism can be decomposed, stages through which explanation must proceed, hierarchical levels, or independent causal powers.
 
-The APS framework can therefore be understood as an **explanatory architecture** with two inseparable aspects:
+A particular explanandum may foreground one projection, require two, or require relations involving all three. Their relevance must be established for the explanatory target rather than assumed from the APS architecture itself.
 
-- **What is being explained**  
-   → viability-oriented, constraint-closed organisation  
+This is the first boundary between architecture and biological explanation: **APS supplies questions and distinctions; biological investigation determines which are relevant and what answers they receive.**
 
-- **How it is explained**  
-   → through the mutually constraining relations of agency, process, and scale  
+For the detailed APS treatment of spatial and temporal extent, see [Scale — How Life Is Coordinated Across Space and Time](/articles/scale-how-life-is-coordinated-across-space-and-time/).
 
-These are not independent. The structure of explanation follows from the nature of the system.
+## An Explanatory Architecture, Not an Explanatory Grammar
 
-This distinguishes APS from frameworks that treat explanation as a methodological choice or a matter of perspective. In APS, explanatory form is grounded in biological organisation itself.
+APS therefore does not provide a universal explanatory grammar into which every biological phenomenon must be fitted.
 
-## Making Integration Explicit
+Its architecture performs a more limited function. It helps ask whether a specified phenomenon is adequately understood in relation to viability-oriented activity, biological change, and the spatial and temporal organisation of persistence.
 
-Across the APS framework, this architecture is already in use. Articles on physiology, evolution, cognition, and organisation all rely on the same underlying relations.
+That distinction protects explanatory plurality. A molecular mechanism does not become incomplete merely because it can be redescribed in APS terminology. A physiological explanation need not invoke every APS projection. An evolutionary explanation does not become an APS explanation simply because persistence across generations can be identified.
 
-What this article does is make that integration explicit.
+The explanatory target comes first.
 
-Without this step, the framework can appear as a set of connected but distinct topics. With it, the reader can see that:
+Only after that target has been specified can APS ask which projections, relationships, and dependencies are relevant to explaining it.
 
-> the same explanatory structure is operating throughout, linking all parts of the framework.
+## From Architecture to Domain-Specific Explananda
 
-## From Framework to Research Program
+An APS investigation should therefore begin by specifying the **explanandum** rather than by searching for Agency, Process, and Scale.
 
-When understood in this way, APS is not only a conceptual framework but a basis for a **research program**.
+The target might concern maintenance of a physiological variable, regeneration after injury, developmental stability, behavioural adjustment, persistence under environmental change, or another biological phenomenon. Different explananda legitimately require different explanatory resources.
 
-It provides:
+Once the target is clear, APS can ask more discriminating questions. Which activities make a viability-relevant difference to the phenomenon? Through what processes is the relevant change produced or maintained? Across which spatial and temporal extents is the organisation required for the phenomenon realised?
 
-- a consistent way of formulating biological questions  
-- a shared structure for integrating results across domains  
-- a basis for evaluating explanations in terms of their coherence with viability-oriented organisation  
+These questions can organise investigation without predetermining its outcome.
 
-This does not replace existing methods or theories. It clarifies how they relate to one another and under what conditions they succeed as explanations.
+The sequence is therefore:
 
-## Explanation Across the Continuum of Life
+**specified explanandum → relevant analytic projection(s) → candidate explanatory relationships**
 
-The strength of this architecture lies in its continuity.
+rather than:
 
-The same principles that explain the maintenance of a single cell extend to:
+**Agency → Process → Scale → explanation.**
 
-- the development of multicellular organisms  
-- the dynamics of ecological systems  
-- the long-term transformation of life through evolution  
+## Relations, Dependencies, and Material Organisation
 
-This continuity does not eliminate differences between domains. It shows how those differences arise within a shared structure.
+An explanatory architecture can identify relationships worth investigating. It cannot establish those relationships merely by representing them.
 
-The structure of this explanation system is made explicit in [The Explanatory Geometry of Biology](/articles/explanatory-geometry-of-biology/)
+Suppose an APS analysis suggests that a biological phenomenon depends upon interactions extending across cellular, tissue, organismal, or temporal extents. That suggestion becomes biologically explanatory only when the relevant relations can be specified materially.
 
-## Explanation as Organised Continuity
+What interacts with what? Through which processes? Under what conditions? Over what timescale? What would be expected to change if the proposed dependency were altered? Contemporary causal and mechanistic approaches already provide powerful resources for addressing questions of this kind (Machamer, Darden, and Craver 2000; Woodward 2003).
 
-APS therefore reframes biological explanation as a continuous, integrated activity rather than a set of domain-specific approaches.
+APS does not replace those resources. Its possible contribution is to help identify dependencies that matter because of their relation to the organised persistence of the system under investigation.
 
-To explain a biological system is to situate it within this architecture:
+The same restriction applies across the three projections. Calling an activity viability-oriented identifies its APS significance but does not specify its material mechanism. Identifying a process does not establish its contribution to persistence. Likewise, the occurrence of phenomena at different scales does not establish causal coupling between them.
 
-- as a system that maintains viability  
-- through organised processes  
-- across interacting spatial and temporal extents  
+Scale itself does not coordinate or cause biological activity. Such work is performed by materially realised interactions, constraints, and processes.
 
-This applies whether the focus is molecular, organismal, ecological, or evolutionary.
+The explanatory sequence must therefore proceed beyond architecture:
 
-<figure class="diagram">
-  <img
-    src="/assets/diagrams/temporal-architecture.svg"
-    alt="Diagram showing the temporal architecture of APS"
-  />
-  <figcaption>
-    The temporal architecture of APS: present activity, ongoing persistence, generational continuity, and historical transformation form a continuous structure of explanation.
-    <br />
-    <a href="/assets/diagrams/temporal-architecture.svg" target="_blank" rel="noopener">
-      Open full-size diagram in a new tab
-    </a>
-  </figcaption>
-</figure>
+**candidate relationship → specified biological dependency → material implementation → evidence.**
 
-This architecture can be summarised schematically (as shown above):
+## Continuity Across Biological Time and Scale
 
-- What is life? → viability-oriented, constraint-closed organisation  
-- How is it explained? → through the structured relations of agency, process, and scale  
-- How is it evaluated? → through perturbation and viability-relative diagnostics  
+A concept linking the APS account of life to this explanatory architecture is **Organised Persistence**.
 
-These are not independent questions, but successive expressions of a single framework: the nature of life determines the structure of explanation, and the structure of explanation determines how its claims can be tested.
+Living systems persist through change. Their material constituents turn over, their states fluctuate, and their developmental and environmental circumstances alter. Persistence therefore does not ordinarily mean preservation of an identical material state. It concerns continuity of living organisation through change.
 
-## Key Points
+Within APS, Organised Persistence helps organise questions about what is maintained, restored, transformed, or reproduced; through which processes this occurs; and across which spatial and temporal extents the relevant organisation persists.
 
-- APS extends from a definition of life to a unified architecture of biological explanation.  
-- The structure of explanation follows from the organisation of living systems.  
-- The same explanatory relations apply across physiology, evolution, and cognition.  
-- APS integrates biological domains by focusing on relations of organisation rather than categories of objects.  
-- The framework functions as a research program by providing a consistent structure for formulating and evaluating explanations.  
+This gives the concept an explanandum-organising and integrative role. It does not make Organised Persistence an additional causal entity, nor does it establish that explanations formulated through it are superior to mechanistic, physiological, developmental, ecological, or evolutionary explanations.
 
+Its value must instead be assessed in relation to particular explanatory targets.
 
+For the fuller treatment, see [Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/).
+
+## Architecture Does Not Guarantee Explanation
+
+This boundary becomes especially important when APS moves from conceptual architecture to empirical investigation.
+
+A proposed dependency must be supported by evidence appropriate to the kind of relation being claimed. Causal, mechanistic, organisational, developmental, historical, and other dependencies need not require identical forms of evidence.
+
+Perturbation can provide evidence about a proposed dependency when the intervention and resulting change bear appropriately on that dependency. Such evidence must still be interpreted relative to the claim, experimental design, and relevant alternatives.
+
+This logic is not uniquely APS. The possible APS contribution lies in helping identify which dependencies merit explicit investigation because of their relation to organised persistence.
+
+But a successful APS redescription is not yet a successful APS explanation.
+
+If APS reorganises established knowledge without revealing a relevant dependency, resolving an explanatory difficulty, generating a useful discrimination, or otherwise changing what can be explained, its contribution may be conceptual, integrative, methodological, or heuristic rather than substantively explanatory.
+
+Those are legitimate contributions. They should not be confused with explanatory gain.
+
+## From Explanatory Architecture to Comparative Method
+
+Biology is explanatorily plural. Different fields address different questions using different methods and explanatory resources, and relations among those explanations need not be simple (Marchionni 2008; Gijsbers 2016).
+
+APS can investigate whether explanations directed at different aspects of living systems can be related through their bearing on organised persistence. Such integration can be scientifically useful, but integration is not automatically explanatory gain.
+
+Showing that APS can describe or organise a phenomenon is therefore insufficient. Where additional explanatory capacity is claimed, the relevant question becomes comparative:
+
+**What does the APS-guided account contribute relative to the strongest relevant alternative addressing the same explanatory target?**
+
+Target matching comes first. Approaches directed at different explananda should not be ranked as though they answered the same question, and a weak or obsolete comparator cannot establish a meaningful advantage.
+
+The detailed comparison procedure belongs to [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/). The important point here is architectural: **APS explanation becomes a comparative question once explanatory gain is claimed.**
+
+## APS as a Research Programme
+
+The transition from life to explanation therefore changes the scientific role of APS.
+
+A framework can remain principally conceptual if it organises ideas. A research programme must expose those ideas to investigation.
+
+For APS, the resulting sequence is:
+
+**living organisation → specified explanandum → relevant Agency–Process–Scale projection(s) → proposed dependency → material implementation → evidence → strongest relevant comparator where required → bounded result**
+
+Not every investigation will require every projection. Not every proposed dependency will survive testing. Not every comparison will reveal explanatory gain.
+
+Negative and null findings are therefore informative. They can show where APS contributes clarification or integration without additional explanatory capacity, where an established explanation is already sufficient, where a proposed dependency lacks support, or where an APS claim requires restriction or revision.
+
+The scientific standing of APS cannot be established simply by extending its vocabulary into additional areas of biology. It depends upon the cumulative results of controlled investigations.
+
+For the methodology of framework testing, see [How Should a New Scientific Framework Be Tested?](/articles/how-should-a-new-scientific-framework-be-tested/).
+
+## What Would Count as Explanatory Gain?
+
+APS treats explanatory gain as **target-relative and comparator-relative**.
+
+Conceptual clarification, integration, methodological guidance, and heuristic organisation can all be genuine scientific contributions. None automatically establishes substantive explanatory superiority.
+
+For a specified target, stronger explanatory gain would require showing that an APS-guided analysis adds relevant explanatory capacity relative to an appropriately strong alternative—for example by identifying and supporting a dependency required for the target that the comparator does not capture.
+
+A null result is equally legitimate. If the strongest comparator already explains the target and APS contributes only redescription, no additional explanatory gain has been demonstrated for that target.
+
+Neither result should automatically be generalised to the framework as a whole.
+
+The full criteria are developed in [What Counts as Explanatory Gain?](/articles/what-counts-as-explanatory-gain/), while [What Happens When APS Is Tested Against Its Strongest Comparators?](/articles/what-happens-when-aps-is-tested-against-its-strongest-comparators/) shows how proposition-specific comparison can produce different outcomes.
+
+## A Bounded Example: Cognition
+
+Cognition illustrates the transition from architecture to biological warrant particularly clearly.
+
+Within APS, cognition is not synonymous with life, biological agency, or regulation. The framework proposes a more specific boundary involving the integration of biological significance across a temporal field of viability-relevant possibilities.
+
+The important point here is methodological rather than a full account of cognition. APS architecture can formulate a candidate distinction. Biological cases must then establish whether the proposed dependencies are materially realised and whether an adequate non-cognitive explanation is sufficient.
+
+Cognition therefore exemplifies the larger sequence:
+
+**architectural distinction → biological application → discriminating evidence → comparative assessment.**
+
+The substantive cognition architecture and its empirical boundary are treated in [Cognition — Where Does It Belong in Biology?](/articles/cognition-where-does-it-belong-in-biology/).

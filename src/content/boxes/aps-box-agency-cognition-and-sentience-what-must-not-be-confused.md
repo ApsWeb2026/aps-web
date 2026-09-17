@@ -4,15 +4,17 @@ title: "APS Box — Agency, Cognition, and Sentience: What Must Not Be Confused"
 slug: aps-box-agency-cognition-and-sentience-what-must-not-be-confused
 type: box
 status: canonical
-revised: 2026-04-03
+revised: 2026-09-17
 ---
 
-Biological explanation is destabilised when agency, cognition, and sentience are treated as interchangeable. In APS, these refer to distinct organisational features.
+Biological explanation becomes unstable when **Agency**, **Cognition**, and **Sentience** are treated as interchangeable. In APS, they refer to different biological or experiential attributions, and evidence for one does not by itself establish the others.
 
-Agency is the viability-oriented, constraint-closed activity through which a system sustains its own persistence. Cognition is the evaluation of environmental differences relative to viability within that organisation. Neither requires representation, intention, or consciousness.
+**Agency** is viability-oriented activity through which living organisation sustains the conditions of its persistence. It is therefore fundamental to life, but Agency alone does not establish Cognition. Biological Evaluation, Significance, and Integration may organise activity in increasingly flexible ways without necessarily crossing the cognitive threshold.
 
-Sentience, by contrast, refers to subjective experience and is not entailed by agency or cognition. The presence of viability-oriented regulation and evaluation does not imply awareness or feeling. Living systems can act, regulate, and evaluate without experiencing.
+**Cognition** is a further attribution. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Cognition therefore cannot be inferred merely from responsiveness, regulation, evaluation, learning-like change, or other capacities that may also admit an adequate non-cognitive explanation.
 
-Maintaining this distinction preserves the structure of biological explanation. It allows continuity between life and mind without collapsing organisation into experience or reducing living systems to passive mechanism.
+**Sentience**, by contrast, concerns subjective experience. Neither Agency nor Cognition, as APS defines them, is sufficient evidence that a system experiences, feels, or is aware. Cognitive organisation may therefore be investigated without assuming Sentience, just as viability-oriented Agency may be investigated without assuming Cognition.
 
-**Key Point.** Agency and cognition are intrinsic to viability-oriented organisation; sentience is not. Confusing them collapses biological organisation into subjective experience.
+The distinctions are consequently both conceptual and evidential. Evidence for Agency does not automatically establish Cognition, and evidence for Cognition does not automatically establish Sentience. Keeping these claims separate allows biological organisation, cognitive activity, and subjective experience to be investigated without importing properties from one into another.
+
+**Key Point.** Agency does not entail Cognition, and Cognition does not entail Sentience. Each attribution requires evidence appropriate to the phenomenon being explained.
