@@ -6,25 +6,23 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-23
-
+revised: 2026-09-17
 cluster: cognition-and-mind
 role: clarification
 
 abstract: >
-  APS distinguishes between human psychological cognition and broad-sense
-  biological cognition. Many cognitive terms used throughout biology carry
-  assumptions derived from human experience and are therefore vulnerable to
-  anthropomorphic interpretation. APS neither rejects such terminology nor
-  extends it uncritically across living systems. Instead, cognitive language
-  is interpreted through viability-oriented organisation and the
-  organisational functions that contribute to organised persistence. This
-  lexicon provides a disciplined framework for understanding how cognitive
-  terminology is used within APS. Shared vocabulary reflects shared
-  organisational roles rather than identical mechanisms, experiences, or
-  minds. The lexicon therefore functions as a conceptual guardrail that
-  supports comparative biological inquiry while preventing mentalistic drift
-  and category errors.
+  Cognitive terminology is widely used across biology, but the use of terms
+  such as memory, learning, attention, decision-making, and anticipation does
+  not by itself establish that a system is cognitive. APS therefore
+  distinguishes the translation of cognitive vocabulary into descriptions of
+  biological organisation from the separate question of cognitive
+  attribution. This lexicon provides a disciplined framework for identifying
+  the organisational functions tracked by cognitive terminology without
+  importing assumptions derived from human psychological experience. Shared
+  vocabulary may identify comparable organisational roles without implying
+  identical mechanisms, experiences, minds, or cognitive status. The lexicon
+  therefore functions as a conceptual guardrail supporting comparative
+  biological inquiry while preventing mentalistic drift and category errors.
 
 inBrief: >
   APS provides a disciplined framework for interpreting cognitive language
@@ -105,7 +103,7 @@ Biology routinely employs a vocabulary that appears, at first glance, to belong 
 
 This creates a persistent interpretive challenge. Readers naturally encounter cognitive language through human experience, where terms such as memory, attention, or decision-making are closely associated with conscious awareness, subjective experience, and reflective thought. When similar language is applied to non-human systems, it can therefore appear either misleadingly anthropomorphic or unexpectedly provocative.
 
-APS neither rejects cognitive terminology nor extends it indiscriminately. Instead, it provides a framework for interpreting cognitive language in ways that remain consistent with biological organisation. The central question is not whether a system resembles a human mind but how information is used within viability-oriented organisation to support organised persistence.
+APS neither rejects cognitive terminology nor extends it indiscriminately. Instead, it provides a framework for interpreting cognitive language in ways that remain consistent with biological organisation. The first question is not whether a system resembles a human mind but what organisational role the relevant cognitive term is being used to identify. A second and separate question is whether the phenomenon warrants cognitive attribution. Organisational translation can clarify the first question without settling the second.
 
 This lexicon serves as a conceptual guide for that task. It explains how cognitive terminology is interpreted within APS and provides a stable reference point for readers encountering cognitive language throughout the APS framework.
 
@@ -137,19 +135,19 @@ The central interpretive principle of the APS cognitive lexicon is simple: cogni
 
 Traditional debates about cognition often focus on whether a particular system genuinely possesses a cognitive property. APS approaches the issue differently. Instead of beginning with assumptions about mental states, it begins with questions about organisation. When cognitive terminology is employed, the relevant task is to identify the organisational role performed by the process in question.
 
-Under this interpretation, memory refers to the retention of information in forms that can influence future activity. Learning refers to persistent modification of organisational structure or regulatory behaviour resulting from previous interactions. Attention refers to the prioritisation of information relative to viability-relevant conditions. Decision-making refers to the differential selection among alternative responses whose consequences affect ongoing organisation.
+Under this interpretation, memory refers to the retention of information in forms that can influence future activity. Learning refers to persistent modification of organisational structure or regulatory behaviour resulting from previous interactions. Attention refers to the prioritisation of information relative to viability-relevant conditions. Decision-making refers to the differential selection among alternative responses whose consequences affect ongoing organisation. These translations identify organisational functions. They do not by themselves establish that the system or process is cognitive. Cognitive attribution remains a separate explanatory question requiring evidence that satisfies the APS boundary for cognition.
 
-These interpretations do not deny the existence of richer forms of cognition in humans or other animals. Rather, they identify the broader organisational functions that make cognitive language biologically meaningful across a wider range of systems. Human cognition remains a distinctive form of cognition, but the vocabulary itself is grounded in organisational roles rather than exclusively psychological phenomena.
+These interpretations do not deny richer forms of cognition in humans or other animals. Their purpose is more limited: they identify organisational referents that allow familiar terminology to be used comparatively without building cognitive attribution into the vocabulary itself.
 
-APS therefore treats cognitive terminology as a language of biological organisation. Terms retain their explanatory value precisely because they refer to important organisational functions, but they must be interpreted through those functions rather than through assumptions about human-like mental states.
+APS therefore treats cognitive terminology as a potentially useful language for describing biological organisation, provided that translation is kept distinct from attribution. A term may identify an important organisational function without establishing that the function, organism, or system is cognitive.
 
 [[box:translation-not-attribution]]
 
 ## Naturalising Cognitive Language in APS
 
-The APS framework grounds cognitive language within viability-oriented organisation. Cognitive terms are not treated as isolated concepts but as descriptions of processes that contribute to the maintenance, regulation, and restoration of organised persistence. Their meaning therefore derives from the role they play within living organisation rather than from their association with particular mental experiences.
+APS interprets cognitive vocabulary by identifying the biological organisation to which a term refers. Terms such as memory, learning, attention, and decision-making may therefore be translated into descriptions of retention, organisational modification, prioritisation, or differential response selection without assuming that those processes are themselves sufficient for cognition.
 
-This approach provides a common interpretive framework for discussing cognition across biological scales. Whether one is examining microbial behaviour, plant responsiveness, animal cognition, or human thought, the central question remains the same: how does information contribute to viability-oriented organisation and the persistence of the system through time?
+This provides a common interpretive framework for comparative biological inquiry while preserving a separate attribution question. Organisational description asks what a process does within viability-oriented organisation; cognitive attribution asks whether the organisation of biological significance across time contributes explanatory dependencies not exhausted by an adequate non-cognitive account.
 
 The following visual summarises this interpretive structure and illustrates how APS naturalises cognitive language while avoiding anthropomorphic and mentalistic assumptions.
 
@@ -164,12 +162,11 @@ The following visual summarises this interpretive structure and illustrates how 
 
   <p class="aps-diagram-caption">
     <strong>Naturalising Cognitive Language in APS.</strong>
-    APS interprets cognitive vocabulary through viability-oriented organisation rather than assumptions about human mental states. Cognitive terms are translated into organisational functions that contribute to maintenance, adaptation, reorganisation, and persistence. Shared cognitive vocabulary therefore reflects shared organisational roles rather than shared minds.
+    APS interprets cognitive vocabulary through viability-oriented organisation rather than assumptions about human mental states. Cognitive terms are translated into organisational functions that contribute to maintenance, adaptation, reorganisation, and persistence. Shared cognitive vocabulary therefore reflects shared organisational roles rather than shared minds. Such translation does not by itself establish cognitive status.
   </p>
 </div>
 
-
-The visual highlights a central APS claim. Cognitive vocabulary does not derive its biological meaning from human psychology but from its relation to viability-oriented organisation. Terms such as memory, learning, attention, and decision-making become biologically intelligible because they describe organisational functions contributing to the maintenance, regulation, and restoration of organised persistence. APS therefore naturalises cognitive language by grounding it in agency rather than mentality.
+The visual highlights the interpretive purpose of the lexicon. Cognitive vocabulary can be translated into organisational terms without deriving its meaning from assumptions about human psychology. Terms such as memory, learning, attention, and decision-making may identify biologically important functions contributing to organised persistence, but identifying those functions does not by itself establish cognition. Translation clarifies what is being compared; attribution requires further explanatory and empirical warrant.
 
 ## Functional Equivalence Without Sameness
 
@@ -177,21 +174,19 @@ One of the most important distinctions maintained by APS is the difference betwe
 
 This distinction is particularly important when cognition is discussed across diverse biological systems. A bacterium may modify future behaviour on the basis of past environmental conditions. A plant may alter developmental trajectories in response to previous stress. An animal may learn through neural plasticity. A human may combine memory, language, and abstract reasoning. These processes differ enormously in complexity and implementation, yet all involve the retention and use of information in ways that influence future activity.
 
-APS therefore employs cognitive language comparatively rather than uniformly. The purpose of comparison is not to erase differences among organisms but to identify organisational continuities that would otherwise remain hidden. Similar terms may legitimately be used across multiple forms of life because comparable organisational functions are being performed, even when the mechanisms through which those functions are realised differ substantially.
+APS therefore employs cognitive language comparatively rather than uniformly. Comparison can identify organisational similarities and differences across living systems, but comparable organisational roles do not themselves establish a common cognitive status. Similar terminology may be useful where its organisational referent is made explicit, while the question of cognition remains independently assessable.
 
 This principle is especially important for avoiding two opposite errors. One error is anthropomorphism, which projects human capacities onto non-human systems. The other is anthropocentrism, which assumes that terms such as memory, learning, or anticipation can only apply to organisms possessing human-like forms of cognition. APS rejects both positions. Organisational continuity exists across life, but continuity does not imply identity.
 
-## Human Cognition and Biological Cognition
+## Human Cognition and Biological Uses of Cognitive Vocabulary
 
-APS distinguishes between broad-sense biological cognition and the more specialised forms of cognition characteristic of humans and many other animals. This distinction is central to the interpretation of cognitive language throughout the framework.
+Human cognition includes capacities such as symbolic reasoning, language-based thought, abstract representation, self-reflection, deliberate planning, and complex forms of social cognition. These capacities should not be assumed whenever familiar cognitive terminology is applied elsewhere in biology.
 
-Biological cognition concerns the use of information in viability-oriented organisation. Organisms encounter differences in their environments, evaluate their significance relative to ongoing activity, and modify behaviour or organisation in ways that contribute to persistence. Cognition in this broad sense is therefore closely linked to sense-making, regulation, adaptation, and agency. It concerns how information becomes biologically meaningful within living systems.
+At the same time, biological research may legitimately use terms such as memory, learning, communication, anticipation, or decision-making to identify organisational phenomena that do not depend upon human-like psychological capacities. APS therefore distinguishes the biological use of cognitive vocabulary from the attribution of cognition itself.
 
-Human cognition includes these biological foundations but extends far beyond them. Human beings engage in symbolic reasoning, language-based thought, abstract representation, self-reflection, deliberate planning, and complex forms of social cognition. These capacities emerge from particular forms of biological organisation and should not be treated as the defining features of cognition as such.
+Within APS, **cognition is the organisation of biological significance across time**. Biological Agency, Biological Evaluation, Significance, and Integration provide pre-cognitive explanatory dependencies, but none independently establishes cognition. Likewise, information use, regulation, memory-like effects, learning, anticipation, and adaptive flexibility may be relevant to cognitive investigation without individually being sufficient for cognitive attribution.
 
-APS therefore understands human cognition as a specialised development of more general cognitive organisation rather than as a wholly separate phenomenon. The relationship is one of continuity without collapse. Human cognition remains distinctive, yet its distinctiveness does not erase the broader organisational principles that connect it to other forms of life.
-
-Recognising this distinction helps clarify many contemporary debates. Questions about plant cognition, microbial cognition, or minimal cognition are often framed as though the only available alternatives were either full equivalence with human cognition or complete absence of cognition altogether. APS rejects this false choice. Biological cognition exists in multiple forms and degrees of complexity, while remaining grounded in common organisational principles.
+Questions about plant cognition, microbial cognition, minimal cognition, or other disputed cases therefore cannot be settled by vocabulary or organisational analogy alone. They require comparison with adequate non-cognitive explanations of the same phenomenon. This allows continuity in biological organisation to be investigated without converting continuity into an automatic cognition verdict.
 
 [[box:consciousness-is-not-required-for-cognition]]
 
@@ -217,7 +212,7 @@ The first group of terms concerns agency, goal-directedness, and biological norm
 
 Agency, goals, values, and adaptation are not treated as projections of human intentionality onto nature. Instead, they describe organisational features through which living systems maintain, regulate, and restore themselves through time. The resulting vocabulary provides a way of discussing biological purposiveness without requiring assumptions about conscious intention or reflective thought.
 
-| Term | Human / Sentient Cognition | Biological Cognition (APS) |
+| Term | Human / Sentient Cognition | Organisational Translation (APS) |
 |------|------|------|
 | Adaptation | Modification of thoughts, behaviours, or strategies in response to challenges, learning, or goals. | Reorganisation of structures, processes, or behaviours that sustains viability under changing conditions. |
 | Agency | Capacity for autonomous, deliberative, and often morally significant action. | Viability-oriented activity through which a system sustains, regulates, and restores its own organisation. |
@@ -230,9 +225,9 @@ Many cognitive terms concern the acquisition, processing, and use of information
 
 Information becomes biologically meaningful when it influences the organisation of activity relative to viability. Cognitive language in this domain therefore concerns how organisms detect, evaluate, communicate, and employ information in ways that support organised persistence.
 
-| Term | Human / Sentient Cognition | Biological Cognition (APS) |
+| Term | Human / Sentient Cognition | Organisational Translation (APS) |
 |------|------|------|
-| Cognition | Mental processes involved in knowing, reasoning, remembering, and problem-solving. | Sense-making: the detection, evaluation, and use of information to regulate activity in ways that matter to viability. |
+| Cognition | Mental processes involved in knowing, reasoning, remembering, and problem-solving. | The organisation of biological significance across time. |
 | Attention | Selective conscious focus on particular stimuli or information. | Prioritisation of environmental inputs and internal states relative to viability relevance. |
 | Communication | Exchange of information, meanings, or intentions via language or symbolic systems. | Transmission of signals that coordinate activity within or between living systems. |
 | Perception | Conscious interpretation of sensory inputs shaped by beliefs and expectations. | Processing of environmental differences within an organism's umwelt to guide adaptive activity. |
@@ -244,7 +239,7 @@ Living systems persist partly because information from past interactions can inf
 
 APS interprets memory, learning, and experience as aspects of ongoing biological organisation. These processes allow organisms to carry information forward, modify future responses, and maintain continuity despite changing internal and external conditions.
 
-| Term | Human / Sentient Cognition | Biological Cognition (APS) |
+| Term | Human / Sentient Cognition | Organisational Translation (APS)|
 |------|------|------|
 | Memory | Conscious or unconscious storage and recall of experiences or information. | Retention of information through biochemical, structural, epigenetic, or behavioural persistence. |
 | Learning | Acquisition of knowledge or skills through experience and instruction. | Persistent modification of regulatory organisation based on past interactions with the environment. |
@@ -256,7 +251,7 @@ Living systems frequently alter activity in ways that reflect expected future co
 
 Terms such as decision-making, prediction, foresight, and problem-solving therefore refer to ways in which organisms coordinate present activity relative to future possibilities. Although these concepts often carry strong psychological associations, their biological interpretation concerns organisation rather than conscious deliberation.
 
-| Term | Human / Sentient Cognition | Biological Cognition (APS) |
+| Term | Human / Sentient Cognition | Organisational Translation (APS) |
 |------|------|------|
 | Decision-Making | Deliberate choice between alternatives based on reasoning, values, or preferences. | Differential selection among possible responses based on their consequences for viability. |
 | Prediction | Explicit anticipation of future states or events. | Use of present cues and past regularities to adjust activity in advance of changing conditions. |
@@ -269,7 +264,9 @@ Some cognitive terms carry especially strong associations with human cognition a
 
 These concepts often describe highly elaborated forms of information-guided regulation in humans and other animals. When applied more broadly, their meaning must remain grounded in organisational role and empirical evidence rather than analogy alone.
 
-| Term | Human / Sentient Cognition | Biological Cognition (APS) |
+For these higher cognitive terms, an organisational comparison is not an attribution rule. Their application beyond established contexts requires proposition-specific evidence; viability-oriented regulation alone does not establish intelligence, creativity, intention, or reason.
+
+| Term | Human / Sentient Cognition | Organisational Translation (APS) |
 |------|------|------|
 | Intelligence | Capacity for abstract reasoning, learning, and flexible problem-solving across domains. | Effectiveness of information-guided regulation and problem-solving under viability constraints. |
 | Creativity | Generation of novel ideas, solutions, or expressions through imagination or insight. | Emergence of novel adaptive responses or organisational configurations that enhance persistence. |
@@ -279,6 +276,7 @@ These concepts often describe highly elaborated forms of information-guided regu
 ## What the Lexicon Does Not Do
 
 The APS cognitive lexicon is a guide to interpretation rather than a criterion of classification. Its purpose is to clarify how cognitive terminology is used within the framework, not to determine which systems should or should not be regarded as cognitive. Vocabulary alone cannot settle questions about cognition because cognition is ultimately a matter of organisation rather than language.
+Nor does organisational translation settle that question. Within APS, cognitive attribution requires materially implemented explanatory dependencies concerning the organisation of biological significance across time that are not exhausted by an adequate non-cognitive account of the same phenomenon.
 
 The lexicon therefore does not define life, agency, or cognition independently of the broader APS framework. These concepts are grounded in viability-oriented organisation, organised persistence, and biological agency. Understanding the meaning of a term does not eliminate the need for empirical investigation into the systems to which that term may apply.
 

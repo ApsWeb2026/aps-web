@@ -6,8 +6,7 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-14
-revised: 2026-07-14
-
+revised: 2026-09-17
 cluster: cognition-and-mind
 ---
 
@@ -17,8 +16,10 @@ Nor does APS deny cognition because plants lack brains, nervous systems, or cons
 
 The relevant question is organisational rather than anatomical.
 
-Biological Evaluation generates significance. Cognition emerges when significance becomes integrated into viability-oriented organisation across time.
+Biological Agency, Biological Evaluation, Significance, and Integration provide pre-cognitive explanatory dependencies within APS. Their presence is therefore relevant to the investigation of cognition but does not by itself establish that a plant, process, or behaviour is cognitive.
 
-Plant cognition therefore does not depend upon neural structures, nor does it require anthropomorphic interpretations of plant behaviour.
+Within APS, cognition is the organisation of biological significance across time. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-APS rejects both anthropomorphism and anthropodenial. The question is not whether plants are like humans, but whether biological significance is generated and organised within viability-oriented living systems.
+Plant cognition therefore neither depends upon neural structures nor follows merely from the presence of viability-oriented regulation, biological significance, memory-like effects, anticipation, adaptive flexibility, or other capacities sometimes described using cognitive language.
+
+APS rejects anthropomorphic inference without making neural absence decisive in the opposite direction. The relevant question is whether a specified plant phenomenon exhibits explanatory dependencies warranting cognitive attribution when compared with the strongest adequate non-cognitive explanation of that same phenomenon.

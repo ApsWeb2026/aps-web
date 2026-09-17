@@ -6,16 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-22
+revised: 2026-09-17
 cluster: cognition
 ---
 
 APS distinguishes cognition from consciousness. Although the two may coincide in some organisms, they are not identical concepts and should not be treated as interchangeable.
 
-In APS, cognition concerns the use of information in the regulation of activity. Organisms exhibit cognition when they detect relevant conditions, evaluate their significance, and modify behaviour or organisation in ways that contribute to viability. Processes such as sensing, memory, learning, anticipation, and adaptive regulation may therefore constitute forms of cognition even when there is no evidence of conscious experience.
+Within APS, **cognition is the organisation of biological significance across time**. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Sensing, memory, learning, anticipation, adaptive regulation, and other temporally extended capacities may contribute evidence relevant to cognition, but none individually establishes cognitive status.
 
-Consciousness, by contrast, concerns subjective awareness, phenomenal experience, and first-person perspective. Establishing the presence of consciousness requires evidence beyond the existence of information-guided regulation alone.
+Consciousness, by contrast, concerns subjective awareness, phenomenal experience, and first-person perspective. Establishing the presence of consciousness requires evidence beyond the existence of information-guided regulation or cognition alone.
 
-APS therefore treats consciousness as a possible emergent property of some highly complex forms of cognition rather than as a prerequisite for cognition itself. A system may be cognitive without being conscious, although conscious systems are necessarily cognitive.
+Consciousness, where present, is not required by the APS definition of cognition and requires independent evidence. Cognition therefore does not conceptually entail consciousness, and evidence supporting cognitive attribution should not be treated as sufficient evidence of conscious experience.
 
 Evidence for cognition is not automatically evidence for consciousness or sentience.

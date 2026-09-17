@@ -6,19 +6,19 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-07-28
+revised: 2026-09-17
 cluster: cognition-and-mind
 
 abstract: >
   Cognition is often treated as an abstract informational or computational
   process separable from the biological organisation of living systems. APS
-  rejects this separation. This article argues that cognition emerges within
-  viability-oriented, constraint-closed organisation and cannot be understood
-  independently of the persistence dynamics through which living systems
-  sustain themselves across time. Cognition is therefore approached not as an
-  isolated mental or informational capacity, but as an increasingly integrated
-  form of evaluation, semiosis, regulation, and adaptive organisation grounded
-  in the evolutionary transformation of organised persistence.
+  rejects this separation. This article argues that cognition, where present,
+  is organised within viability-oriented, constraint-closed living
+  organisation and cannot be understood independently of the persistence
+  dynamics through which living systems sustain themselves across time.
+  Organised persistence does not by itself establish cognition. Rather, it
+  provides the biological organisation within which the dependencies required
+  for cognition can arise and be investigated.
 
 relatedGlossaryTerms:
   - cognition
@@ -121,13 +121,15 @@ Living systems must:
 - sustain adaptive organisation;
 - and preserve continuity under changing conditions.
 
-Cognition develops progressively within these organisational dynamics.
+CThese activities establish biological organisation within which cognition may become possible, but they do not by themselves establish cognition.
 
-APS therefore approaches cognition not as an abstract computational layer added onto life, but as an increasingly integrated form of evaluation, semiosis, regulation, and adaptive organisation grounded in the persistence dynamics of living systems themselves.
+APS therefore approaches cognition not as an abstract computational layer added onto life, but as a form of organisation that, where present, remains dependent upon the viability-oriented organisation of living systems.
+
+Within APS, **cognition is the organisation of biological significance across time**. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
 The central claim of this article is therefore straightforward:
 
-> cognition cannot be separated from organised persistence because cognition emerges within the viability-oriented organisation through which living systems sustain themselves across time.
+> cognition cannot be separated from organised persistence because the organisation required for cognition, where cognition is present, is materially realised within living systems already engaged in sustaining their own persistence.
 
 [[box:what-biological-explanation-explains]]
 
@@ -151,13 +153,13 @@ Living systems sustain viability through:
 - behavioural coordination;
 - and adaptive reorganisation.
 
-These activities establish the organisational conditions within which evaluation and semiosis become possible.
+These activities establish organisational conditions within which Biological Evaluation and Significance become possible.
 
 APS therefore reverses a common explanatory assumption.
 
-Cognition is not the foundational explanatory layer from which life can be reconstructed.
+Cognition is not the foundational explanatory basis from which life can be reconstructed.
 
-Rather, cognition emerges within systems already capable of sustaining organised persistence.
+Rather, cognition presupposes systems already capable of sustaining organised persistence. That dependency does not entail that every living or viability-regulating system is cognitive.
 
 This is why APS rejects attempts to define life itself through:
 - computation;
@@ -189,78 +191,43 @@ This creates the organisational basis for:
 - responsiveness;
 - and adaptive coordination.
 
-APS therefore treats cognition as emerging progressively from viability-oriented organisation rather than appearing suddenly as an isolated informational capacity.
+APS therefore treats viability-oriented organisation as a precondition for the biological dependencies from which cognition may arise, not as a sufficient criterion of cognition.
 
 [[box:description-is-not-explanation]]
 
-# Evaluation as the Organisational Core of Cognition
+# Evaluation as a Pre-Cognitive Dependency
 
-Evaluation forms the central bridge between persistence and cognition.
+Biological Evaluation links viability-oriented agency to the generation of biological significance.
 
-Living systems continuously evaluate environmental and internal conditions relative to viability constraints.
+Living systems encounter internal and environmental differences whose consequences are asymmetric relative to viability. Biological Evaluation is the process through which agency generates significance from those viability-relevant differences.
 
-Evaluation therefore precedes:
-- representation;
-- symbolic processing;
-- abstract reasoning;
-- and explicit cognition.
+Evaluation therefore precedes cognition within the APS dependency architecture. It does not itself constitute cognition.
 
-Organisms do not first construct detached informational models and then become viable.
+Biological Agency, Biological Evaluation, Significance, and Integration provide pre-cognitive explanatory dependencies. Cognition becomes a separate explanatory question when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-Rather, viability-oriented organisation generates evaluative distinctions through ongoing persistence activity itself.
-
-Within APS, evaluation is therefore foundational because it links:
-- viability;
-- agency;
-- adaptation;
-- semiosis;
-- and cognition
-
-within a continuous organisational structure.
-
-Cognition develops through increasingly integrated forms of such evaluative organisation.
+The distinction matters because evaluation, regulation, responsiveness, and adaptive coordination are widespread features of living organisation. Their presence alone cannot determine cognitive status.
 
 # Semiosis and Meaning
 
-Semiosis emerges when evaluative relations become organised through persistent sign-like coordination across living activity.
+Semiosis and meaning may be important to particular forms of biological organisation, but APS does not treat them as necessary intermediate stages through which all cognition must pass.
 
-Meaning does not arise from arbitrary symbol manipulation alone.
+Biological significance is generated through Biological Evaluation: differences matter to living systems because their consequences are asymmetric relative to viability. Significance is therefore grounded in viability-oriented organisation rather than in arbitrary symbol manipulation or abstract informational structure alone.
 
-Meaning emerges because signs matter to systems already engaged in viability-oriented persistence.
+Sign processes may organise or stabilise significance in particular biological contexts. Where such processes are invoked, their material implementation and explanatory contribution must be established for the phenomenon under investigation.
 
-This is why APS rejects purely syntactic or computational approaches to meaning.
-
-Information becomes biologically meaningful only because living systems already:
-- evaluate;
-- regulate;
-- and organise activity
-
-relative to persistence conditions.
-
-Meaning is therefore grounded in organised biological normativity rather than abstract informational structure alone.
-
-Semiosis extends and stabilises these evaluative relations across increasingly integrated behavioural and ecological dynamics.
+Cognitive attribution nevertheless remains a separate question. Neither semiosis, meaning, information use, nor their organisational integration is by itself sufficient to establish cognition.
 
 # Cognition and Evolutionary Transformation
 
-Cognition is also inseparable from evolution.
+CCognitive organisation, where present, has an evolutionary history.
 
-Cognitive organisation did not appear independently of evolutionary history.
+Evolution transforms living organisation across generations through variation, inheritance, differential reproduction, developmental change, ecological interaction, and other historically structured processes. These transformations can alter sensory capacities, behavioural coordination, regulatory organisation, plasticity, and the temporal organisation of viability-relevant activity.
 
-It emerged progressively through the historical transformation of organised persistence across generations.
+Such changes do not constitute a universal progression toward cognition. Nor does increasing behavioural or organisational complexity by itself establish cognitive status.
 
-evolution diversifies:
-- evaluative organisation;
-- behavioural coordination;
-- sensory integration;
-- environmental responsiveness;
-- and adaptive flexibility.
+APS therefore treats evolutionary history as relevant to explaining how particular forms of cognitive organisation arose and changed, without making that history constitutive of cognition itself.
 
-Variation generates differences in how living systems regulate and coordinate persistence. Adaptation reorganises these capacities under changing conditions. Fitness contributes to differential continuity. Natural selection differentially stabilises some organisational trajectories relative to others.
-
-Cognition therefore emerges evolutionarily through the long-term transformation of viability-oriented organisation itself.
-
-APS consequently rejects views of cognition that abstract cognitive processes entirely from developmental, ecological, and evolutionary organisation.
+Claims about the evolutionary emergence of cognition must consequently be made relative to specified organisms, capacities, and evidence rather than inferred from a general progression of living organisation.
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
@@ -289,38 +256,33 @@ This is why APS also rejects:
 
 # Cognition Across Biological Scale
 
-Cognition operates across interacting biological scales.
+The organisation relevant to cognition may extend across different spatial and temporal scales.
 
-Cognitive organisation may involve:
-- molecular regulation;
+Depending on the phenomenon under investigation, relevant dependencies may include:
+- molecular and cellular processes;
 - physiological coordination;
-- developmental plasticity;
-- behavioural organisation;
-- ecological interaction;
-- and social dynamics.
+- developmental organisation;
+- behavioural activity;
+- organism–environment interaction;
+- and social or ecological relations.
 
-These are not isolated levels of cognition but interacting dimensions of viability-oriented organisation distributed across living systems and their environments.
+These are not separate levels or dimensions of cognition. Nor does activity distributed across several scales establish cognitive status.
 
-Cognition therefore cannot be reduced to:
-- brains alone;
-- neural activity alone;
-- or symbolic processing alone.
+Within APS, Scale identifies where persistence and its relevant dependencies are organised across spatial and temporal extents. A cognitive explanation must therefore specify which cross-scale dependencies are materially involved in the phenomenon being explained rather than infer cognition from multiscale organisation itself.
 
-APS consequently approaches cognition as multiscale organisational coordination grounded in the persistence dynamics of living systems.
+Cognition consequently cannot be identified exclusively with brains, neural activity, or symbolic processing. But extending the explanatory domain beyond neural systems does not by itself warrant cognitive attribution.
 
 # Constraint Closure and Cognitive Organisation
 
-Cognition emerges within constraint-closed organisation.
+Living systems maintain organised persistence through constraint-closed organisation.
 
-Living systems sustain themselves through networks of mutually reinforcing constraints distributed across biological processes and scales.
+Within APS, constraint closure belongs to the organisation of life: mutually dependent constraints contribute to maintaining and re-establishing the conditions under which the living system persists.
 
-Cognitive organisation develops within these persistence-maintaining dynamics.
+Cognition, where present, is materially realised within this living organisation. Constraint closure therefore helps specify the organisational context that cognition presupposes, but it is not itself a criterion of cognition.
 
-Evaluation, semiosis, regulation, and behavioural coordination contribute to sustaining viable continuity across time.
+Evaluation, regulation, behavioural coordination, and other persistence-maintaining activities may occur within constraint-closed organisation without thereby establishing cognitive status.
 
-Cognition therefore remains inseparable from the organisational conditions through which living systems maintain themselves.
-
-APS consequently rejects views treating cognition as detachable software implemented independently of biological organisation.
+The explanatory question remains whether integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation, and whether that attribution provides warranted explanatory gain relative to the strongest adequate non-cognitive account of the phenomenon.
 
 # Why the Separation of Cognition from Life Creates Problems
 
@@ -335,7 +297,7 @@ It encourages:
 
 These approaches often explain increasingly sophisticated organisational consequences while leaving unexplained the viability-oriented persistence that makes such organisation biologically possible in the first place.
 
-APS instead treats cognition as one dimension of a broader organisational architecture grounded in living persistence itself.
+APS instead treats cognition, where present, as dependent upon and materially organised within the broader viability-oriented organisation of living systems.
 
 This does not diminish cognition.
 
@@ -343,50 +305,50 @@ It situates cognition within the biological conditions that make cognition possi
 
 # The APS Cognitive Continuity Structure
 
-Within APS, cognition develops through an integrated continuity structure:
+Within APS, cognition is situated within a dependency structure:
 
-viability  
+Life  
 ↓  
-agency  
+Agency  
 ↓  
-evaluation  
+Biological Evaluation  
 ↓  
-semiosis  
+Significance  
 ↓  
-meaning  
+Integration  
 ↓  
-information  
+Cognition  
 ↓  
-representation  
+Mind  
 ↓  
-cognition  
+Selfhood  
 ↓  
-intelligence  
+Reflective Agency  
 ↓  
-consciousness
+Meaning
 
-This sequence does not describe isolated modules or separate substances.
+This sequence represents explanatory dependency rather than chronology, evolutionary progression, developmental succession, hierarchy, or separate levels of organisation.
 
-It describes progressively integrated organisational developments emerging within viability-oriented living systems across evolutionary and developmental time.
+Life is viability-oriented, constraint-closed organisation. Agency is the viability-oriented organisational activity through which living organisation is enacted and sustained. Biological Evaluation generates significance, and Integration organises what matters into functional unity.
 
-Cognition therefore remains inseparable from the persistence dynamics through which living systems sustain themselves historically.
+These dependencies establish conditions relevant to cognition without making cognition an automatic consequence of living organisation. Within APS, cognition is the organisation of biological significance across time. Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+Mind, Selfhood, Reflective Agency, and Meaning identify further explanatory dependencies where the relevant organisation is present. Their placement does not imply that biological systems necessarily progress toward them.
+
+The dependency structure therefore situates cognition within organised persistence while preserving a substantive boundary between pre-cognitive living organisation and warranted cognitive attribution.
 
 # Conclusion
 
-Cognition cannot be separated from organised persistence because cognition emerges within the viability-oriented organisation through which living systems sustain themselves across time.
+Cognition cannot be separated from organised persistence because cognition, where present, is materially organised within living systems already engaged in maintaining and re-establishing the conditions of their own persistence.
 
-Living systems must first remain viable before they can:
-- evaluate;
-- regulate;
-- interpret;
-- represent;
-- infer;
-- or reason.
+This dependence does not mean that organised persistence, viability regulation, Biological Evaluation, Significance, Integration, information use, adaptive flexibility, or temporal extension individually establish cognition. These processes and capacities may provide necessary context or relevant evidence while remaining compatible with non-cognitive explanation.
 
-Evaluation, semiosis, meaning, information, representation, and cognition therefore emerge progressively within systems already engaged in persistence-maintaining biological activity.
+Within APS, cognition is the organisation of biological significance across time. The question of cognitive attribution arises when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
 
-evolution transforms these organisational capacities historically across generations through variation, adaptation, inheritance, fitness, and differential stabilisation.
+Evolutionary history can explain how particular forms of cognitive organisation arose and changed, while spatial and temporal analysis can identify where their relevant dependencies are organised. Neither evolutionary progression nor multiscale organisation should be inferred to establish cognition in its own right.
 
-APS consequently approaches cognition not as detached computation or abstract information processing, but as an increasingly integrated dimension of organised biological persistence distributed across interacting developmental, ecological, behavioural, and evolutionary processes.
+APS therefore approaches cognition neither as detached computation nor as an automatic consequence of living organisation. Cognitive claims must identify the phenomenon to be explained, specify the materially implemented dependencies relevant to it, and be assessed against the strongest adequate non-cognitive explanation.
+
+Organised persistence is thus not a substitute definition of cognition. It is the living organisational context within which cognition becomes biologically possible and scientifically assessable.
 
 

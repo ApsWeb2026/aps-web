@@ -53,7 +53,7 @@ references:
   - spencer-2026-agency-defining-activity-life
 ---
 
-## Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation
+## Introduction
 
 Plant cognition has occupied an unusual place in the development of the Agency–Process–Scale framework. It was one of the problems through which APS was first publicly articulated, and it later became a case against which the framework's developing account of cognition and biological explanation could be tested.
 
