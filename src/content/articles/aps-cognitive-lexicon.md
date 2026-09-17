@@ -241,9 +241,9 @@ Many cognitive terms concern the acquisition, processing, and use of information
 Information becomes biologically meaningful when it influences the organisation of activity relative to viability. Cognitive language in this domain therefore concerns how organisms detect, evaluate, communicate, and employ information in ways that support organised persistence.
 
 <div class="aps-diagram">
-  <a href="/images/table7.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/table7.png" target="_blank" rel="noopener">
     <img
-      src="/images/table7.png"
+      src="/assets/diagrams/table7.png"
       alt="Comparison of human or sentient cognition terms with their organisational translations in APS"
       loading="lazy"
     />
