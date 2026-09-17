@@ -97,7 +97,15 @@ references:
    doi: "https://doi.org/10.1007/s13752-026-00547-6"
 ---
 
-## APS Cognitive Lexicon
+**Where This Article Fits**
+
+*This article is a terminological and interpretive guide within the APS cognition corpus. It explains how familiar cognitive vocabulary can be translated into descriptions of biological organisation without treating that vocabulary as evidence that cognition is present.*
+
+*The substantive question of cognitive attribution is addressed elsewhere in the APS cognition framework. There, cognition is assessed in relation to the organisation of biological significance across time and against adequate non-cognitive explanations of the same phenomenon.*
+
+*The Cognitive Lexicon therefore has a narrower role. It helps keep vocabulary, organisational description, and cognitive attribution distinct so that terms such as memory, learning, attention, decision-making, intelligence, and anticipation can be used comparatively without predetermining the cognitive status of the systems being investigated.*
+
+## Introduction
 
 Biology routinely employs a vocabulary that appears, at first glance, to belong to psychology. Researchers speak of memory, learning, communication, decision-making, intelligence, anticipation, and even problem-solving across a remarkable diversity of living systems. Such language occurs in studies of animals, plants, microbes, developmental systems, immune systems, and collective biological organisation. Yet the meaning of these terms often changes substantially across contexts.
 
@@ -212,12 +220,19 @@ The first group of terms concerns agency, goal-directedness, and biological norm
 
 Agency, goals, values, and adaptation are not treated as projections of human intentionality onto nature. Instead, they describe organisational features through which living systems maintain, regulate, and restore themselves through time. The resulting vocabulary provides a way of discussing biological purposiveness without requiring assumptions about conscious intention or reflective thought.
 
-| Term | Human / Sentient Cognition | Organisational Translation (APS) |
-|------|------|------|
-| Adaptation | Modification of thoughts, behaviours, or strategies in response to challenges, learning, or goals. | Reorganisation of structures, processes, or behaviours that sustains viability under changing conditions. |
-| Agency | Capacity for autonomous, deliberative, and often morally significant action. | Viability-oriented activity through which a system sustains, regulates, and restores its own organisation. |
-| Goal | A consciously represented desired outcome guiding intentional action. | A viability-relevant outcome toward which activity is organised through regulation and constraint coupling. |
-| Value | Moral, cultural, emotional, or personal significance attributed to things or actions. | Differential significance of states and outcomes relative to viability. |
+|<div class="aps-diagram">
+  <a href="/assets/diagrams/table1.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/table1.png"
+      alt="APS Cognitive Lexicon — Agency and Normativity"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Agency and Normativity.</strong>
+    Comparison of familiar human or sentient uses of agency-related terminology with their organisational translation within APS.
+  </p>
+</div>
 
 ### Information and Regulation
 
@@ -225,13 +240,19 @@ Many cognitive terms concern the acquisition, processing, and use of information
 
 Information becomes biologically meaningful when it influences the organisation of activity relative to viability. Cognitive language in this domain therefore concerns how organisms detect, evaluate, communicate, and employ information in ways that support organised persistence.
 
-| Term | Human / Sentient Cognition | Organisational Translation (APS) |
-|------|------|------|
-| Cognition | Mental processes involved in knowing, reasoning, remembering, and problem-solving. | The organisation of biological significance across time. |
-| Attention | Selective conscious focus on particular stimuli or information. | Prioritisation of environmental inputs and internal states relative to viability relevance. |
-| Communication | Exchange of information, meanings, or intentions via language or symbolic systems. | Transmission of signals that coordinate activity within or between living systems. |
-| Perception | Conscious interpretation of sensory inputs shaped by beliefs and expectations. | Processing of environmental differences within an organism's umwelt to guide adaptive activity. |
-| Knowledge | Explicit awareness or understanding of facts, concepts, or relations. | Stored and usable information embodied in organisation, history, and regulatory structure. |
+<div class="aps-diagram">
+  <a href="/assets/diagrams/table3.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/table3.png"
+      alt="APS Cognitive Lexicon — Persistence and Change"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Persistence and Change.</strong>
+    APS translations of memory, learning, and experience as organisational phenomena through which past conditions can influence future activity.
+  </p>
+</div>
 
 ### Persistence and Change
 
@@ -239,11 +260,19 @@ Living systems persist partly because information from past interactions can inf
 
 APS interprets memory, learning, and experience as aspects of ongoing biological organisation. These processes allow organisms to carry information forward, modify future responses, and maintain continuity despite changing internal and external conditions.
 
-| Term | Human / Sentient Cognition | Organisational Translation (APS)|
-|------|------|------|
-| Memory | Conscious or unconscious storage and recall of experiences or information. | Retention of information through biochemical, structural, epigenetic, or behavioural persistence. |
-| Learning | Acquisition of knowledge or skills through experience and instruction. | Persistent modification of regulatory organisation based on past interactions with the environment. |
-| Experience | Subjectively lived events involving awareness, emotion, and interpretation. | Environmental and internal conditions encountered by an organism and processed as viability-relevant information. |
+<div class="aps-diagram">
+  <a href="/assets/diagrams/table4.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/table4.png"
+      alt="APS Cognitive Lexicon — Anticipation and Action"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Anticipation and Action.</strong>
+    APS translations of decision-making, prediction, foresight, and problem-solving in terms of viability-oriented organisation.
+  </p>
+</div>
 
 ### Anticipation and Action
 
@@ -251,12 +280,19 @@ Living systems frequently alter activity in ways that reflect expected future co
 
 Terms such as decision-making, prediction, foresight, and problem-solving therefore refer to ways in which organisms coordinate present activity relative to future possibilities. Although these concepts often carry strong psychological associations, their biological interpretation concerns organisation rather than conscious deliberation.
 
-| Term | Human / Sentient Cognition | Organisational Translation (APS) |
-|------|------|------|
-| Decision-Making | Deliberate choice between alternatives based on reasoning, values, or preferences. | Differential selection among possible responses based on their consequences for viability. |
-| Prediction | Explicit anticipation of future states or events. | Use of present cues and past regularities to adjust activity in advance of changing conditions. |
-| Foresight | Anticipation of future events through imagination or planning. | Anticipatory regulation based on reliable indicators of future viability conditions. |
-| Problem-Solving | Deliberate reasoning to overcome obstacles or achieve desired outcomes. | Reconfiguration of activity or organisation to restore or maintain viability under challenge. |
+<div class="aps-diagram">
+  <a href="/assets/diagrams/table5.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/table5.png"
+      alt="APS Cognitive Lexicon — Higher Cognitive Terms"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Higher Cognitive Terms.</strong>
+    Organisational comparisons for intelligence, creativity, intention, and reason; these translations do not themselves warrant cognitive attribution.
+  </p>
+</div>
 
 ### Higher Cognitive Terms
 
@@ -266,12 +302,19 @@ These concepts often describe highly elaborated forms of information-guided regu
 
 For these higher cognitive terms, an organisational comparison is not an attribution rule. Their application beyond established contexts requires proposition-specific evidence; viability-oriented regulation alone does not establish intelligence, creativity, intention, or reason.
 
-| Term | Human / Sentient Cognition | Organisational Translation (APS) |
-|------|------|------|
-| Intelligence | Capacity for abstract reasoning, learning, and flexible problem-solving across domains. | Effectiveness of information-guided regulation and problem-solving under viability constraints. |
-| Creativity | Generation of novel ideas, solutions, or expressions through imagination or insight. | Emergence of novel adaptive responses or organisational configurations that enhance persistence. |
-| Intention | Conscious mental orientation toward achieving a specific aim. | Organised, goal-directed activity expressed through consistent viability-oriented regulation. |
-| Reason | Logical, reflective, and often linguistic analysis of information. | Information processing that improves the effectiveness of viability-oriented regulation. |
+<div class="aps-diagram">
+  <a href="/assets/diagrams/table6.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/table6.png"
+      alt="APS Cognitive Lexicon — Higher Cognitive Terms"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Higher Cognitive Terms.</strong>
+    Organisational comparisons for intelligence, creativity, intention, and reason. These translations identify possible organisational referents and do not by themselves establish cognitive attribution.
+  </p>
+</div>
 
 ## What the Lexicon Does Not Do
 
