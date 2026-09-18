@@ -2038,5 +2038,15 @@
     "hash": "29315da966d9b656",
     "revised": "2026-09-18",
     "lockedSince": "2026-09-18"
+  },
+  "glossary/dependency": {
+    "hash": "b2b25d12c35f35e4",
+    "revised": "2026-09-19",
+    "lockedSince": "2026-09-19"
+  },
+  "glossary/explanatory-gain": {
+    "hash": "ad3e9aa258a2483b",
+    "revised": "2026-09-19",
+    "lockedSince": "2026-09-19"
   }
 }

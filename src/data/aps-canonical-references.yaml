@@ -4887,3 +4887,17 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: 2026-09-18
+- id: darden-maull-1977-interfield-theories
+  type: journal-article
+  authors: Darden, L., & Maull, N.
+  year: 1977
+  title: Interfield Theories
+  journal: Philosophy of Science
+  volume: '44'
+  issue: '1'
+  pages: 43–64
+  doi: 10.1086/288723
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-09-19
