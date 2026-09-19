@@ -74,13 +74,9 @@ This article examines that problem in a biology where several legitimate forms o
 
 ## 1. Theoretical Biology Has Always Changed
 
-The history of theoretical biology is not the history of a single theory becoming progressively more complete.
+The history of theoretical biology is not the history of a single theory becoming progressively more complete. Different periods have emphasised different explanatory problems. Biological form and organisation, heredity, evolution, development, physiological regulation, ecological interaction, molecular mechanisms, mathematical dynamics, and complex systems have each generated distinctive theoretical traditions. Some have been integrated; some have remained partly independent; some have been transformed as new experimental methods and bodies of evidence became available.
 
-Different periods have emphasised different explanatory problems. Biological form and organisation, heredity, evolution, development, physiological regulation, ecological interaction, molecular mechanisms, mathematical dynamics, and complex systems have each generated distinctive theoretical traditions. Some have been integrated; some have remained partly independent; some have been transformed as new experimental methods and bodies of evidence became available.
-
-The result is not simply a succession of competing theories. Contemporary biology contains explanatory practices operating at different spatial and temporal scales, addressing different questions, using different forms of evidence, and representing biological dependencies in different ways.
-
-That history matters because it warns against a tempting retrospective picture. Theoretical biology should not be described as if its successive transformations were stages in a predetermined movement towards a single contemporary framework. Historical succession demonstrates change. It does not, by itself, demonstrate improvement.
+The result is not simply a succession of competing theories. Contemporary biology contains explanatory practices operating at different spatial and temporal scales, addressing different questions, using different forms of evidence, and representing biological dependencies in different ways. That history matters because it warns against a tempting retrospective picture: theoretical biology should not be described as if its successive transformations were stages in a predetermined movement towards a single contemporary framework. Historical succession demonstrates change; it does not, by itself, demonstrate improvement.
 
 That distinction takes us from the history of theoretical biology to the problem of scientific progress.
 
@@ -116,11 +112,7 @@ These categories need not be mutually exclusive. One scientific development migh
 
 ## 4. Biology Does Not Have Just One Kind of Explanation
 
-The problem becomes more difficult because biology is explanatorily plural.
-
-An evolutionary explanation may ask how selection changed the distribution of a trait through generations. A developmental explanation may ask how that trait is produced during an organism's development. A physiological explanation may ask how it contributes to regulation within the living organism. An ecological explanation may ask how its consequences depend upon relationships between organisms and environments.
-
-These explanations can concern the same organism without answering the same question.
+The problem becomes more difficult because biology is explanatorily plural. An evolutionary explanation may ask how selection changed the distribution of a trait through generations. A developmental explanation may ask how that trait is produced during an organism's development. A physiological explanation may ask how it contributes to regulation within the living organism. An ecological explanation may ask how its consequences depend upon relationships between organisms and environments. These explanations can concern the same organism without answering the same question.
 
 Biology also employs different explanatory forms. Mechanistic explanations identify organised entities and activities. Mathematical models may reveal dynamical relationships or consequences of specified assumptions. Evolutionary explanations reconstruct historical processes. Organisational approaches examine relationships through which living systems maintain themselves. Ecological explanations may depend upon interactions distributed across organisms, populations, communities, and environments.
 
@@ -136,11 +128,7 @@ It is also:
 
 ## 5. Integration Is Not the Same as Unification
 
-Once several explanations are recognised, it is natural to ask how they fit together.
-
-But there are several very different possibilities.
-
-Two explanations may address different aspects of the same phenomenon. One may provide conditions required by another. One may describe a process whose consequences become inputs to another process. Two explanations may overlap substantially while organising their dependencies differently. They may genuinely compete. Or they may have little explanatory relationship at all.
+Once several explanations are recognised, it is natural to ask how they fit together, but there are several very different possibilities. Two explanations may address different aspects of the same phenomenon. One may provide conditions required by another. One may describe a process whose consequences become inputs to another process. Two explanations may overlap substantially while organising their dependencies differently. They may genuinely compete, or they may have little explanatory relationship at all.
 
 Lindley Darden and Nancy Maull's account of interfield theories provided an important early analysis of how relationships between scientific fields can themselves become theoretically productive. Fields concerned with different aspects of a phenomenon may be connected through warranted relationships, and those connections can help answer questions, direct attention, or generate predictions that would not arise from either field considered in isolation.
 
@@ -156,21 +144,13 @@ A framework that connects evolution, development, physiology, ecology, and organ
 
 ## 6. Explanatory Systems Can Be Compared
 
-This suggests a broader object of investigation.
+This suggests a broader object of investigation. For the purposes of comparison, an **explanatory system** can be treated as an organised set of concepts, dependencies, models, principles, and evidentially warranted claims through which biological phenomena are explained.
 
-For the purposes of comparison, an **explanatory system** can be treated as an organised set of concepts, dependencies, models, principles, and evidentially warranted claims through which biological phenomena are explained.
+This does not imply that every explanatory system is a unified theory. Nor does it require biology to possess a small number of sharply bounded rival frameworks. An explanatory system may be distributed across several theories, models, research traditions, and domain-specific practices. That point is methodologically important because a framework cannot claim explanatory superiority simply because its alternative is distributed across several disciplines.
 
-This does not imply that every explanatory system is a unified theory. Nor does it require biology to possess a small number of sharply bounded rival frameworks. An explanatory system may be distributed across several theories, models, research traditions, and domain-specific practices.
+Suppose one framework places several biological relationships within a single conceptual architecture, while established biology represents the same relationships through a combination of evolutionary theory, developmental biology, physiology, ecology, and systems biology. The relevant comparison is with the **strongest appropriately organised alternative**, whether that alternative is a single theory or a combination of established explanatory resources.
 
-That point is methodologically important.
-
-Suppose one framework places several biological relationships within a single conceptual architecture, while established biology represents the same relationships through a combination of evolutionary theory, developmental biology, physiology, ecology, and systems biology. The framework cannot claim explanatory superiority simply because its alternative is distributed across several disciplines.
-
-The relevant comparison is with the **strongest appropriately organised alternative**, whether that alternative is a single theory or a combination of established explanatory resources.
-
-Fair comparison also requires target matching. Two explanations should not be treated as competitors merely because they use different terminology or discuss the same organism. We must first establish that they are attempting to explain sufficiently comparable phenomena.
-
-Only then does architectural comparison become informative.
+Fair comparison also requires target matching. Two explanations should not be treated as competitors merely because they use different terminology or discuss the same organism. We must first establish that they are attempting to explain sufficiently comparable phenomena. Only then does architectural comparison become informative.
 
 ## 7. Compare the Dependencies, Not Just the Labels
 
@@ -192,15 +172,16 @@ For each target it asks:
 
 A comparison can then be classified more precisely.
 
-| Relation | Meaning |
-|---|---|
-| **SHARED** | Both explanatory systems recover substantially the same relationship. |
-| **DIFFERENTLY FORMULATED** | Different concepts express a materially comparable relationship. |
-| **CANDIDATE UNIQUE RELATION** | One system proposes a relationship not presently recovered by the other. |
-| **COMPARATOR-ONLY** | The alternative contains a relevant relationship absent from the framework being examined. |
-| **DIFFERENTLY ORGANISED** | Much of the same explanatory content is present, but its relationships are organised differently. |
-| **TARGET MISMATCH** | Apparent disagreement disappears because the explanations address different questions. |
-| **UNRESOLVED** | Present evidence does not justify a conclusion. |
+<div class="aps-diagram">
+  <a href="/assets/diagrams/methodology-table.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/methodology-table.png"
+      alt="Table showing seven Comparator Dependency Map relation classes and their meanings: shared, differently formulated, candidate unique relation, comparator-only, differently organised, target mismatch, and unresolved."
+    />
+  </a>
+</div>
+
+*Table 1. Comparator Dependency Map relation classes. These categories describe how explanatory systems relate at a specified explanatory target. They identify shared, differently formulated, potentially unique, missing, differently organised, mismatched, or unresolved relationships without themselves constituting judgments of explanatory quality or explanatory gain.*
 
 These categories describe relationships between explanatory architectures. **They are not scores of explanatory quality.**
 
@@ -251,25 +232,11 @@ The second question is what turns architectural comparison into a test of explan
 
 ## 9. Comparison Can Improve the Frameworks Being Compared
 
-Comparison need not be merely a final judgment performed after theoretical development has finished.
-
-It can become part of development itself.
-
-APS research therefore proposes a recurring comparative cycle:
+Comparison need not be merely a final judgment performed after theoretical development has finished. It can become part of development itself. APS research therefore proposes a recurring comparative cycle:
 
 **Map → Compare → Test → Diagnose → Revise → Re-map**
 
-First, make the relevant explanatory dependencies explicit.
-
-Then compare them with the strongest relevant alternative.
-
-Test whether the apparent difference is scientifically warranted and consequential.
-
-Diagnose what the result means.
-
-Revise where revision is justified.
-
-Then map the changed explanatory landscape again.
+First, make the relevant explanatory dependencies explicit and compare them with the strongest relevant alternative. Then test whether the apparent difference is scientifically warranted and consequential, diagnose what the result means, and revise where revision is justified. The changed explanatory landscape can then be mapped again.
 
 The important feature of this cycle is its symmetry.
 
@@ -331,21 +298,7 @@ This does not imply that every explanatory system can be translated into every o
 
 Some explanations may remain legitimately distinct because they address different questions. Some differences may resist meaningful comparison. Some integrations may erase distinctions that biology needs to preserve. And some apparent theoretical disagreements may disappear once their explanatory targets are properly specified.
 
-The objective is therefore not to force theoretical biology into a common language.
-
-It is to make comparison sufficiently transparent that scientists can ask more precise questions:
-
-Which dependencies are shared?
-
-Which are merely expressed differently?
-
-Where does one explanatory system contain something another lacks?
-
-Which apparent disagreements are really differences of explanatory target?
-
-Which architectural differences have consequences for explanation, inference, prediction, constraint, or research?
-
-And when comparison exposes a weakness, what should change?
+The objective is therefore not to force theoretical biology into a common language. It is to make comparison sufficiently transparent that scientists can ask more precise questions: Which dependencies are shared, and which are merely expressed differently? Where does one explanatory system contain something another lacks? Which apparent disagreements are really differences of explanatory target? Which architectural differences have consequences for explanation, inference, prediction, constraint, or research? And when comparison exposes a weakness, what should change?
 
 Transparent comparison among explanatory systems may therefore provide one productive methodology for the future development of theoretical biology. It turns comparison from a contest between labels into an investigation of explanatory relationships and their consequences.
 
@@ -354,4 +307,3 @@ For APS, the long-term ambition is correspondingly bounded. It is not to become 
 Whether APS ultimately makes that contribution is not something its architecture can decide in advance.
 
 It is something comparative research must establish.
-
