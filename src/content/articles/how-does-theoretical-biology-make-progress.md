@@ -174,9 +174,9 @@ For each target it asks:
 A comparison can then be classified more precisely.
 
 <div class="aps-diagram">
-  <a href="/assets/diagrams/methodology-table.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/methodology-table2.png" target="_blank" rel="noopener">
     <img
-      src="/assets/diagrams/methodology-table.png"
+      src="/assets/diagrams/methodology-table2.png"
       alt="Table showing seven Comparator Dependency Map relation classes and their meanings: shared, differently formulated, candidate unique relation, comparator-only, differently organised, target mismatch, and unresolved."
     />
   </a>
