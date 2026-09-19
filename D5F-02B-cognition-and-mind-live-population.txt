@@ -1,0 +1,489 @@
+APS-COGNITION-DOMAIN-CONSOLIDATION-001
+D5F-02B � Live Cognition-and-Mind Cluster Population
+Generated: 2026-09-19 16:31:50
+
+============================================================
+ARTICLES � cluster: cognition-and-mind
+============================================================
+
+FILE: src\content\articles\aps-cognitive-lexicon.md
+title: APS Cognitive Lexicon
+slug: aps-cognitive-lexicon
+status: canonical
+role: clarification
+date: 2026-06-22
+revised: 2026-09-17
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems.md
+title: "The Distribution of Cognition — Implementation, Localisation, and Explanatory Warrant"
+slug: "aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems"
+status: canonical
+role: extension
+date: 2026-04-27
+revised: 2026-09-19
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\biological-goals-without-mentalism.md
+title: "Biological Goals Without Mentalism"
+slug: biological-goals-without-mentalism
+status: canonical
+role: clarification
+date: 2026-05-27
+revised: 2026-07-28
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\cognition-from-life-to-mind-continuity-without-mentalism-ci.md
+title: "Cognition — From Life to Mind: Continuity Without Mentalism"
+slug: cognition-from-life-to-mind-continuity-without-mentalism
+status: canonical
+role: synthesis
+date: 2026-04-27
+revised: 2026-09-11
+cluster: cognition-and-mind
+abstract: "This article explains how cognition can remain biologically continuous with life without being identified with life itself. In APS, biological agency, evaluation and significance establish the organisational conditions from which cognition can arise, but they do not by themselves establish cognition. Cognition concerns the organisation of biological significance across time, while mind represents a further integration of evaluative and cognitive processes. The result is a continuity from life toward mind that avoids both mentalist discontinuity and the assumption that all living activity is cognitive."
+
+FILE: src\content\articles\cognition-where-does-it-belong-in-biology.md
+title: "Cognition — Where Does It Belong in Biology?"
+slug: cognition-where-does-it-belong-in-biology
+status: canonical
+role: anchor
+date: 2026-09-12
+revised: 2026-09-12
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\consciousness-an-aps-clarification.md
+title: Consciousness — An APS Clarification
+slug: consciousness-an-aps-clarification
+status: canonical
+role: [NOT PRESENT]
+date: 2026-05-07
+revised: 2026-06-15
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\how-did-cognition-become-a-biological-problem.md
+title: "How Did Cognition Become a Biological Problem?"
+slug: how-did-cognition-become-a-biological-problem
+status: canonical
+role: synthesis
+date: 2026-09-12
+revised: 2026-09-12
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\how-did-matter-become-aware-of-itself-ci.md
+title: "How Did Matter Become Aware of Itself?"
+slug: how-did-matter-become-aware-of-itself
+status: canonical
+role: anchor
+date: 2026-07-07
+revised: 2026-09-13
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\is-all-life-sentient-an-aps-response.md
+title: "Is All Life Sentient? An APS Response"
+slug: "is-all-life-sentient-an-aps-response"
+status: canonical
+role: [NOT PRESENT]
+date: 2026-04-05
+revised: 2026-04-05
+cluster: cognition-and-mind
+abstract: "This article clarifies why APS does not equate life with sentience, and explains how biological agency, normativity, and cognition can be present without subjective experience."
+
+FILE: src\content\articles\plant-agency-an-aps-perspective-ci.md
+title: Plant Agency — An APS Perspective
+slug: plant-agency-an-aps-perspective
+status: canonical
+role: core
+date: 2026-06-26
+revised: 2026-06-26
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\plant-cognition-and-the-development-of-aps.md
+title: "Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation"
+slug: plant-cognition-and-the-development-of-aps
+status: canonical
+role: synthesis
+date: 2026-09-17
+revised: 2026-09-17
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\plant-cognition-aps-interpretation.md
+title: "Plant Cognition — A Critical Review and APS Interpretation"
+slug: plant-cognition-aps-interpretation
+status: canonical
+role: core
+date: 2026-05-04
+revised: 2026-09-12
+cluster: cognition-and-mind
+abstract: "Whether plants are cognitive cannot be decided either by the absence of nervous systems or by the presence of adaptive responsiveness, signalling, plasticity and learning-like activity. APS approaches plant cognition as a comparative explanatory problem. Plants clearly exhibit biological agency, biological evaluation and biological significance, but these pre-cognitive capacities do not by themselves establish cognition. APS defines cognition as the organisation of biological significance across time and currently proposes that cognitive attribution becomes warranted where integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Applying this boundary to plant phenomena produces a differentiated result. Distributed sensing, systemic signalling and developmental plasticity establish sophisticated biological organisation but do not independently warrant cognition. Stress priming provides a stronger boundary case but remains cognitively indeterminate because temporally extended molecular, physiological and developmental regulation remains an adequate explanation of current evidence. Habituation-like phenomena are suggestive, while stronger associative-learning claims remain empirically contested. Plants therefore provide a demanding test of whether cognition can be extended beyond nervous systems without collapsing into biological regulation in general."
+
+FILE: src\content\articles\the-cognitive-organisation-of-life.md
+title: "The Cognitive Organisation of Life"
+slug: the-cognitive-organisation-of-life
+status: canonical
+role: core
+date: 2026-06-01
+revised: 2026-09-11
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-are-biological-values.md
+title: What Are Biological Values?
+slug: what-are-biological-values
+status: canonical
+role: core
+date: 2026-07-02
+revised: 2026-07-06
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-is-biological-evaluation.md
+title: What Is Biological Evaluation?
+slug: what-is-biological-evaluation
+status: canonical
+role: synthesis
+date: 2026-07-02
+revised: 2026-07-05
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-is-biological-significance.md
+title: What Is Biological Significance?
+slug: what-is-biological-significance
+status: canonical
+role: core
+date: 2026-07-05
+revised: 2026-07-06
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-is-integration.md
+title: What Is Integration?
+slug: what-is-integration
+status: canonical
+role: core
+date: 2026-07-07
+revised: 2026-07-07
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-is-meaning.md
+title: What Is Meaning?
+slug: meaning
+status: canonical
+role: core
+date: 2026-07-08
+revised: 2026-07-08
+cluster: cognition-and-mind
+abstract: Meaning is the interpretive organisation of significance within broader patterns of relation, consequence, value, purpose, identity, and understanding. Within APS, meaning emerges from the progressive organisation of significance through integration, cognition, mind, selfhood, and reflective agency. Meaning explains how what matters becomes understood, interpreted, and situated within larger frameworks of understanding. It therefore functions as the interpretive culmination of the Cognition–Mind pathway and the current endpoint of the Matter-to-Mind programme.
+
+FILE: src\content\articles\what-is-mind.md
+title: What Is Mind?
+slug: what-is-mind
+status: canonical
+role: core
+date: 2026-07-05
+revised: 2026-07-06
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-is-reflective-agency.md
+title: What Is Reflective Agency?
+slug: what-is-reflective-agency
+status: canonical
+role: synthesis
+date: 2026-07-06
+revised: 2026-07-06
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\what-is-selfhood.md
+title: What Is Selfhood?
+slug: what-is-selfhood
+status: canonical
+role: core
+date: 2026-07-06
+revised: 2026-07-06
+cluster: cognition-and-mind
+abstract: >
+
+FILE: src\content\articles\why-cognition-cannot-be-separated-from-organised-persistence.md
+title: "Why Cognition Cannot Be Separated from Organised Persistence"
+slug: why-cognition-cannot-be-separated-from-organised-persistence
+status: canonical
+role: [NOT PRESENT]
+date: 2026-05-17
+revised: 2026-09-17
+cluster: cognition-and-mind
+abstract: >
+
+============================================================
+GLOSSARY � cluster: cognition-and-mind
+============================================================
+
+FILE: src\content\glossary\affordance.md
+title: Affordance
+slug: affordance
+status: canonical
+date: 2026-04-08
+revised: 2026-04-08
+cluster: cognition-and-mind
+inBrief: "An affordance is a viability-relevant possibility for action."
+
+FILE: src\content\glossary\awareness-ci.md
+title: Awareness
+slug: awareness
+status: canonical
+date: 2026-07-07
+revised: 2026-07-08
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\behaviour.md
+title: Behaviour
+slug: behaviour
+status: canonical
+date: 2026-07-03
+revised: 2026-07-03
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\biological-evaluation.md
+title: Biological Evaluation
+slug: biological-evaluation
+status: canonical
+date: 2026-07-04
+revised: 2026-07-05
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\biological-meaning.md
+title: Biological Meaning
+slug: biological-meaning
+status: draft
+date: 2026-07-03
+revised: 2026-07-03
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\biological-value.md
+title: Biological Value
+slug: biological-value
+status: canonical
+date: 2026-07-03
+revised: 2026-07-03
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\cognition-cid.md
+title: Cognition
+slug: cognition
+status: canonical
+date: 2026-04-27
+revised: 2026-09-11
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\communication.md
+title: Communication
+slug: communication
+status: canonical
+date: 2026-05-30
+revised: 2026-08-03
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\consciousness.md
+title: Consciousness
+slug: consciousness
+status: canonical
+date: 2026-05-07
+revised: 2026-06-15
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\coordination.md
+title: Coordination
+slug: coordination
+status: canonical
+date: 2026-05-30
+revised: 2026-06-15
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\evaluation.md
+title: Evaluation
+slug: evaluation
+status: canonical
+date: 2026-07-04
+revised: 2026-07-05
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\functional-lineage.md
+title: Functional Lineage
+slug: functional-lineage
+status: canonical
+date: 2026-05-06
+revised: 2026-06-15
+cluster: cognition-and-mind
+inBrief: "Functional lineage refers to the continuity of biological roles or capacities despite differences in their structural realisation."
+
+FILE: src\content\glossary\information.md
+title: Information
+slug: information
+status: canonical
+date: 2026-05-15
+revised: 2026-07-28
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\integration.md
+title: Integration
+slug: integration
+status: canonical
+date: 2026-07-07
+revised: 2026-07-08
+cluster: cognition-and-mind
+inBrief: Integration organises what matters into coherent functional relations.
+
+FILE: src\content\glossary\intelligence.md
+title: Intelligence
+slug: intelligence
+status: canonical
+date: 2026-05-07
+revised: 2026-06-15
+cluster: cognition-and-mind
+inBrief: "In APS, intelligence is a specialised organisational development within life, not the defining basis of life itself."
+
+FILE: src\content\glossary\learning.md
+title: Learning
+slug: learning
+status: canonical
+date: 2026-06-23
+revised: 2026-06-23
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\mattering-ci.md
+title: Mattering
+slug: mattering
+status: canonical
+date: 2026-04-08
+revised: 2026-06-15
+cluster: cognition-and-mind
+inBrief: "Mattering is the viability-relative significance of differences within organised living activity."
+
+FILE: src\content\glossary\meaning.md
+title: Meaning
+slug: meaning
+status: canonical
+date: 2026-05-15
+revised: 2026-07-28
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\memory.md
+title: Memory
+slug: memory
+status: canonical
+date: 2026-06-23
+revised: 2026-06-23
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\mind.md
+title: Mind
+slug: mind
+status: canonical
+date: 2026-07-04
+revised: 2026-07-05
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\reason.md
+title: Reason
+slug: reason
+status: canonical
+date: 2026-07-12
+revised: 2026-07-12
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\reflective-agency.md
+title: Reflective Agency
+slug: reflective-agency
+status: canonical
+date: 2026-07-04
+revised: 2026-07-04
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\reflective-evaluation.md
+title: Reflective Evaluation
+slug: reflective-evaluation
+status: canonical
+date: 2026-07-05
+revised: 2026-07-05
+cluster: cognition-and-mind
+inBrief: Reflective evaluation is the deliberate assessment of what matters and why.
+
+FILE: src\content\glossary\representation.md
+title: Representation
+slug: representation
+status: canonical
+date: 2026-04-20
+revised: 2026-07-28
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\selfhood.md
+title: Selfhood
+slug: selfhood
+status: canonical
+date: 2026-07-04
+revised: 2026-07-04
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\semiosis.md
+title: Semiosis
+slug: semiosis
+status: canonical
+date: 2026-04-27
+revised: 2026-07-28
+cluster: cognition-and-mind
+inBrief: >
+
+FILE: src\content\glossary\significance.md
+title: Significance
+slug: significance
+status: canonical
+date: 2026-07-05
+revised: 2026-07-05
+cluster: cognition-and-mind
+inBrief: Significance is what matters to an agent.
+
+FILE: src\content\glossary\umwelt.md
+title: Umwelt
+slug: umwelt
+status: canonical
+date: 2026-04-08
+revised: 2026-04-08
+cluster: cognition-and-mind
+inBrief: "Umwelt is the organism-specific domain in which environmental conditions acquire viability-relevant significance."
+
+============================================================
+COUNTS
+============================================================
+Articles: 22
+Glossary entries: 28

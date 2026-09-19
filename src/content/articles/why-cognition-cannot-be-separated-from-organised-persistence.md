@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-17
-revised: 2026-09-17
+revised: 2026-09-19
 cluster: cognition-and-mind
+role: core
 
 abstract: >
   Cognition is often treated as an abstract informational or computational

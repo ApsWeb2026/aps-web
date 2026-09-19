@@ -5,8 +5,9 @@ slug: "is-all-life-sentient-an-aps-response"
 type: article
 abstract: "This article clarifies why APS does not equate life with sentience, and explains how biological agency, normativity, and cognition can be present without subjective experience."
 status: canonical
-revised: 2026-04-05
+revised: 2026-09-19
 cluster: cognition-and-mind
+role: clarification
 keyPoints:
   - "APS does not treat sentience as a defining condition of life."
   - "Biological agency and normativity precede subjective experience."

@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-15
+revised: 2026-09-19
 cluster: cognition-and-mind
+role: clarification
 
 abstract: >
   This article clarifies the place of consciousness within the
