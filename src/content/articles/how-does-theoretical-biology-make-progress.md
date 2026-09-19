@@ -3,8 +3,9 @@ date: 2026-09-19
 title: "How Does Theoretical Biology Make Progress? — From Historical Change to Comparative Explanation"
 slug: how-does-theoretical-biology-make-progress
 type: article
-status: draft
-canonical: false
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-19
 revised: 2026-09-19
 cluster: methodology-and-explanation
 role: synthesis
