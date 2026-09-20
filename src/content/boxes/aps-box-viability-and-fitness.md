@@ -4,19 +4,21 @@ title: Viability and Fitness
 slug: viability-and-fitness
 type: box
 status: canonical
-revised: 2026-06-18
+revised: 2026-09-20
+cluster: evolutionary-dynamics
 summary: >
-  Viability and fitness are closely related but address different temporal
-  dimensions of organised persistence. Viability concerns persistence in the
-  present, whereas fitness concerns continuity across generations.
+  Viability and fitness are related but address different explanatory
+  questions. Viability concerns the maintenance of viable organisation
+  under present conditions, whereas fitness concerns differential
+  historical continuity across generations.
 ---
 
-Viability and fitness are often treated as interchangeable concepts, but APS distinguishes them because they address different explanatory questions.
+Viability and fitness are related, but APS distinguishes them because they address different explanatory questions.
 
-Viability concerns whether organised persistence can be maintained under present conditions. A living system remains viable when it successfully sustains the organisation required for continued existence despite internal fluctuations and environmental challenges.
+**Viability** concerns the maintenance of viable organisation under present conditions. A living system remains viable while it sustains the organisation required for continued existence despite internal change and environmental challenge.
 
-Fitness concerns whether such persistence contributes to continuity across generations. It therefore addresses the historical continuity of organised persistence rather than its immediate maintenance.
+**Fitness** concerns differential historical continuity. It characterises differences in continuity among biological variants or forms of organisation across generations without, by itself, specifying the causal processes responsible for those differences.
 
-This distinction reveals an important asymmetry. Viability is explanatorily prior to fitness. Living systems must first remain viable before continuity across generations becomes possible. Fitness therefore presupposes organised persistence rather than explaining its emergence.
+Relations between viability and fitness can be biologically important. Features that affect present viability may also affect differential historical continuity in particular cases. But this relation must be established for the explanandum concerned rather than inferred from the concepts' positions within APS.
 
-APS consequently treats viability and fitness as complementary temporal dimensions of the same underlying phenomenon. Viability concerns the maintenance of continuity in the present, while fitness concerns the continuity of such persistence through evolutionary time.
+Viability therefore should not be treated simply as an explanatorily prior stage leading to fitness, nor should fitness be treated as viability extended through time. They distinguish present viability from differential historical continuity while allowing their biological relations to be investigated independently.

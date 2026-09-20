@@ -167,8 +167,6 @@ Within the APS evolutionary architecture, biological agency, viability, organise
 
 Inheritance is particularly important because it identifies how organisational continuity is re-established across generations. Variation concerns differences arising within historical continuity; fitness concerns differential continuity; and natural selection concerns differential historical stabilisation. The precise causal and dependency relations among these processes are biological questions requiring independent warrant rather than consequences of their placement within the APS architecture.
 
-[[box:inheritance-fitness-and-natural-selection]]
-
 APS consequently rejects the view that inheritance merely preserves the past. Inheritance can conserve continuity while remaining compatible with transformation because reliable reconstitution does not require exact replication. This makes inheritance relevant to understanding how novelty can accumulate within continuing lineages. Stronger claims about which evolutionary processes necessarily depend upon inheritance, and in what form, require independent biological evidence.
 
 ## From Information to Organisation

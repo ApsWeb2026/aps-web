@@ -8,6 +8,7 @@ canonical: true
 canonicalLockDate: 2026-06-18
 revised: 2026-09-20
 cluster: evolutionary-dynamics
+role: core
 
 abstract: >
   Fitness is one of the most influential and contested concepts in evolutionary

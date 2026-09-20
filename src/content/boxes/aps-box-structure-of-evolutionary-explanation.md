@@ -6,25 +6,25 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-15
-revised: 2026-04-15
+revised: 2026-09-20
+cluster: evolutionary-dynamics
 ---
 
-Evolution in APS is not driven by a single mechanism such as natural selection, nor by a simple combination of independent processes.
+Evolution in APS is not explained by a single privileged mechanism such as natural selection, nor by treating evolutionary change as a simple combination of independent processes.
 
-Instead, it emerges from the coordinated interaction of multiple aspects of viability-oriented organisation:
+Evolutionary explanation may instead require several distinguishable explanatory roles:
 
-- **Persistence** establishes the existence of viable systems  
-- **Variation** introduces structured differences within those systems  
-- **Inheritance** stabilises viable organisation across generations  
-- **Selection** filters outcomes based on their consequences for persistence  
-- **Adaptation** reorganises activity in the present to sustain viability under changing conditions  
+- **Persistence** concerns the continuation of viable biological organisation.
+- **Inheritance** concerns the reliable reconstitution of organisation across generations.
+- **Variation** concerns the generation and presence of biological differences within inherited continuity.
+- **Adaptation** concerns continuity-preserving reorganisation under changing conditions and may contribute to evolutionary outcomes.
+- **Fitness** concerns differential historical continuity among lineages or forms of persistence-sustaining organisation.
+- **Natural selection** concerns differential historical stabilisation.
 
-These are not independent causes, but interdependent aspects of a single, organised process.
+APS places these concepts within a common evolutionary explanatory architecture, but their placement together does not establish a single causal pathway, temporal sequence, necessary dependency chain, or universally fixed biological process.
 
-Selection does not operate without persistence.  
-Variation is not evolutionarily meaningful without inheritance.  
-Adaptation is required for systems to persist long enough for selection to occur.
+Some evolutionary explananda may require relations among several of these processes or conditions. The type and evidential status of each relation must, however, be established independently. Architectural or expository ordering is not itself evidence of causal priority, temporal succession, or biological necessity.
 
-Evolution is therefore not the result of a privileged mechanism, but the emergent outcome of coordinated, multiscale organisation unfolding over time.
+Evolutionary transformation is therefore not reducible to one privileged mechanism. It concerns historical transformation of organised persistence across generations, for which different processes and relations may make explanandum-specific explanatory contributions.
 
-**Key Point.** Evolution in APS is a structured process of transformation grounded in the interdependence of persistence, variation, inheritance, selection, and adaptation.
+**Key Point.** Persistence, inheritance, variation, adaptation, fitness, and natural selection occupy distinguishable roles within evolutionary explanation. Their organisation within APS provides an explanatory architecture, not evidence of a universal causal or temporal sequence.

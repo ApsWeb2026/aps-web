@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-20
-revised: 2026-09-09
-
+revised: 2026-09-20
 cluster: evolutionary-dynamics
+role: synthesis
 
 summary: >
   APS examines the relationship between taxonomy and evolution through
@@ -341,3 +341,4 @@ Taxonomy and evolution therefore remain distinct scientific enterprises, but the
 ## Key Point
 
 **Evolutionary transformation requires historically identifiable continuity, but APS does not treat that continuity as a single privileged level, lineage, or evolutionary mechanism. Organised persistence provides an explanatory target for asking what persists, through which materially realised relations, and across which spatial and temporal extents as biological organisation is historically transformed.**
+

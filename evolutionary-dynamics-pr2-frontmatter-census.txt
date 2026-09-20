@@ -1,0 +1,2523 @@
+================================================================
+FILE: src\content\articles\adaptation-how-living-systems-sustain-themselves-through-change.md
+================================================================
+---
+date: 2026-05-28
+title: "Adaptation — How Living Systems Sustain Themselves Through Change"
+slug: adaptation-how-living-systems-sustain-themselves-through-change
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: core
+
+abstract: >
+  In the APS framework, adaptation is the continuity-preserving
+  reorganisation through which viability-oriented systems sustain organised
+  persistence under changing conditions. Adaptation is neither passive
+  adjustment nor optimisation toward ideal states. Rather, it is an active
+  organisational process through which living systems preserve viability
+  across physiological, developmental, ecological, and evolutionary
+  timescales. APS therefore treats adaptation as a central process relating persistence, viability, resilience, and organism–environment coupling, with possible consequences for longer-term evolutionary transformation. Adaptation explains how living systems preserve viability through change; its particular relations to fitness, natural selection, and evolutionary transformation require specification in the evolutionary contexts in which they occur.
+
+keyPoints:
+  - Adaptation is continuity-preserving reorganisation within viability-oriented systems.
+  - Living systems persist through adaptive transformation rather than static endurance.
+  - Adaptation is not optimisation but the maintenance of viable continuity under changing conditions.
+  - Adaptation concerns viability-preserving organisational change; its evolutionary consequences depend upon the biological and historical context.
+  - Adaptation operates across interacting physiological, developmental, ecological, and evolutionary timescales.
+  - Resilience depends upon adaptive reorganisation preserving continuity through perturbation.
+  - APS explains adaptation as one of the principal processes through which organised persistence survives transformation.
+
+relatedGlossaryTerms:
+  - adaptation
+  - persistence
+  - viability
+  - function
+  - temporal-organisation
+  - continuity
+  - resilience
+  - biological-agency
+  - biological-organisation
+  - plasticity
+  - organism-environment-coupling
+  - process
+  - scale
+  - normativity
+  - evaluation
+  - evolution
+
+relatedArticles:
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
+  - temporal-organisation-and-organised-persistence
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - evolution
+  - natural-selection-an-aps-clarification
+  - ecology-as-organised-persistence-across-scales
+  - diagnosis-as-continuity-analysis
+  - explanatory-geometry-of-biology
+  - developmental-organisation-and-organised-persistence
+  - organisational-realism-in-biology
+  - organism-environment-coupling
+
+references:
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134"
+    pages: "1501–1506"
+    doi: "10.1126/science.134.3489.1501"
+
+  - id: lewontin2000
+    authors: "Lewontin, R. C."
+    year: 2000
+    title: "The Triple Helix: Gene, Organism, and Environment"
+    publisher: "Harvard University Press"
+
+  - id: odlingsmee2003
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
+
+  - id: noble2012
+    authors: "Noble, D."
+    year: 2012
+    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
+    journal: "Interface Focus"
+    volume: "2"
+    pages: "55–64"
+    doi: "10.1098/rsfs.2011.0067"
+
+  - id: pigliucci2007
+    authors: "Pigliucci, M."
+    year: 2007
+    title: "Do We Need an Extended Evolutionary Synthesis?"
+    journal: "Evolution"
+    volume: "61"
+    pages: "2743–2749"
+    doi: "10.1111/j.1558-5646.2007.00246.x"
+
+  - id: grafen1999
+    authors: "Grafen, A."
+    year: 1999
+    title: "Formal Darwinism, the Individual-as-Maximizing-Agent Analogy, and Bet-Hedging"
+    journal: "Proceedings of the Royal Society B: Biological Sciences"
+    volume: "266"
+    pages: "799–803"
+    doi: "10.1098/rspb.1999.0708"
+---
+
+================================================================
+FILE: src\content\articles\evolution-as-the-historical-transformation-of-organised-persistence-ci.md
+================================================================
+---
+date: 2026-05-28
+title: "Evolution as the Historical Transformation of Organised Persistence"
+slug:  evolution
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: anchor
+
+abstract: >
+  Evolution is commonly understood as change in gene frequencies within populations over time. While this formulation captures important statistical patterns, it does not fully explain what is changing, how continuity is preserved, or why evolutionary change is biologically meaningful. APS approaches evolution as the historical transformation of persistence-sustaining organisation across generations. Biological evolution therefore concerns living systems whose organisation already exhibits sufficient historical continuity for transformation across generations to occur. Agency, process, scale, development, inheritance, ecological interaction, adaptation, fitness, and natural selection identify distinguishable aspects of the broader APS evolutionary architecture; their placement within that architecture does not by itself establish universal biological dependencies among them. Evolutionary explanation becomes the study of how living organisation is historically transformed across developmental, ecological, organismal, and lineage contexts.
+
+keyPoints:
+  - Evolution is the historical transformation of organised persistence across generations.
+  - Evolution presupposes living systems already capable of viable continuity.
+  - Biological evolution concerns living systems already exhibiting sufficient organised continuity for historical transformation across generations.
+  - Organised persistence identifies the continuity whose historical transformation APS calls evolution.
+  - Evolution transforms developmental, ecological, organismal, and lineage continuity systems.
+  - Natural selection differentially stabilises viable organised persistence.
+  - Adaptation reorganises persistence under changing conditions.
+  - Evolution is multiscale, temporal, developmental, ecological, and historical.
+  - APS explains evolutionary continuity as continuity-through-transformation rather than static replication.
+  - Biological evolution presupposes organised persistence and does not explain its original emergence.
+
+relatedGlossaryTerms:
+  - evolution
+  - persistence
+  - viability
+  - adaptation
+  - inheritance
+  - variation
+  - fitness
+  - natural-selection
+  - biological-organisation
+  - biological-agency
+  - development
+  - temporal-organisation
+  - constraint
+  - constraint-closure
+  - process
+  - scale
+  - ecology
+  - resilience
+
+relatedArticles:
+  - persistence-organised-continuity-through-time
+  - temporal-organisation-and-organised-persistence
+  - viability-the-organising-principle-of-biological-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - ecology-as-organised-persistence-across-scales
+  - biological-individuality-organised-persistence-through-time
+  - processual-individuality
+  - function-and-normativity-why-biological-organisation-matters
+  - natural-selection-an-aps-clarification
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+  - diagnosis-as-continuity-analysis
+  - explanatory-geometry-of-biology
+  - gene-centric-biology-and-aps
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    publisher: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    publisher: "Clarendon Press"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    publisher: "Harvard University Press"
+
+  - id: waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    publisher: "Allen & Unwin"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
+    year: 2003
+    title: "Niche Construction"
+    publisher: "Princeton University Press"
+
+  - id: jablonka2005
+    authors: "Jablonka, E.; Lamb, M. J."
+    year: 2005
+    title: "Evolution in Four Dimensions"
+    publisher: "MIT Press"
+
+  - id: oyama2000
+    authors: "Oyama, S."
+    year: 2000
+    title: "The Ontogeny of Information"
+    publisher: "Duke University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: nicholson2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+================================================================
+FILE: src\content\articles\evolution-taxonomy-and-the-reorganisation-of-biological-explanation.md
+================================================================
+---
+title: Evolution, Taxonomy, and the Reorganisation of Biological Explanation
+slug: evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+date: 2026-06-20
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-20
+revised: 2026-09-09
+
+cluster: evolutionary-dynamics
+role: synthesis
+
+summary: >
+  APS examines the relationship between taxonomy and evolution through
+  organised persistence and its historical transformation. Taxonomy
+  identifies and represents biological continuities relevant to
+  classification, while evolutionary theory explains how such continuities
+  arise, diverge, persist, and change. Species, lineages, and phylogenetic
+  histories therefore provide important cases for asking what persists
+  through evolutionary transformation and where that persistence is
+  organised across spatial and temporal extents.
+
+abstract: >
+  Taxonomy and evolutionary theory remain distinct scientific enterprises,
+  but their explanatory targets frequently intersect around historically
+  organised biological continuity. APS uses organised persistence to examine
+  what remains sufficiently continuous for evolutionary transformation to
+  constitute a history rather than mere succession or replacement. Species
+  and lineages make this problem especially important because genealogical,
+  reproductive, developmental, ecological, and genetic histories need not
+  coincide. Contemporary multidimensional approaches to phylogeny sharpen
+  this question by challenging the assumption of a single absolute
+  evolutionary history. APS accommodates such complexity without treating
+  organised persistence as a new evolutionary mechanism, requiring process
+  ontology, or construing biological organisation as a hierarchy of causal
+  levels. Process asks how continuity is maintained despite change; Scale
+  asks where persistence relevant to an explanandum is organised across
+  spatial and temporal extents. Whether this organisational analysis
+  provides explanatory gain beyond established evolutionary and
+  phylogenetic explanations remains a comparative question.
+
+keywords:
+  - taxonomy
+  - evolution
+  - organised persistence
+  - historical continuity
+  - species
+  - lineages
+  - phylogeny
+  - process
+  - scale
+  - biological explanation
+  - classification
+  - evolutionary theory
+
+relatedArticles:
+  - evolution
+  - what-is-a-species-in-aps
+  - multiscale-evolution-and-organised-persistence
+  - biological-individuality-organised-persistence-through-time
+  - process-the-dynamics-of-living-biological-organisation
+  - explanatory-geometry-of-biology
+  - biological-explanation-what-needs-to-be-explained
+
+relatedGlossaryTerms:
+  - organised-persistence
+  - biological-individual
+  - species
+  - evolution
+  - natural-selection
+  - lineage
+  - process
+  - scale
+
+references:
+  - id: deQueiroz1998
+    authors: de Queiroz, K.
+    year: 1998
+    title: The General Lineage Concept of Species, Species Criteria, and the Process of Speciation
+    publisher: Oxford University Press
+
+  - id: DupreNicholson2018
+    authors: Dupré, J., & Nicholson, D. J.
+    year: 2018
+    title: A Manifesto for a Processual Philosophy of Biology
+    publisher: Oxford University Press
+
+  - id: Hull1965
+    authors: Hull, D. L.
+    year: 1965
+    title: "The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis"
+    journal: British Journal for the Philosophy of Science
+    volume: 15(60)
+    pages: 314–326
+
+  - id: Spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: https://doi.org/10.1007/s13752-026-00547-6
+
+  - id: kearney-haber-2026-common-ancestry-process-ontology
+    authors: Kearney, M., & Haber, M. H.
+    year: 2026
+    title: "Common Ancestry, Contemporary Phylogenetics, and Process Ontology"
+    journal: Systematic Biology
+    doi: https://doi.org/10.1093/sysbio/syag053
+---
+
+================================================================
+FILE: src\content\articles\fitness-differential-continuity-and-organised-persistence.md
+================================================================
+---
+date: 2026-06-18
+title: Fitness — Differential Continuity and Organised Persistence
+slug: fitness-differential-continuity-and-organised-persistence
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-18
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: core
+
+abstract: >
+  Fitness is one of the most influential and contested concepts in evolutionary
+  biology. It is commonly understood as reproductive success or contribution to
+  future generations, yet such formulations do not fully explain why some forms
+  of living organisation remain historically continuous while others do not.
+  APS reframes fitness as the differential continuity of lineages of persistence-sustaining
+  organisation under changing developmental and ecological conditions. Fitness
+  therefore concerns the historically situated continuity of organised
+  persistence rather than optimisation, superiority, or reproductive output
+  alone. This perspective reconnects fitness with viability, adaptation,
+  inheritance, natural selection, development, and evolutionary transformation
+  within a unified framework of organised biological persistence.
+
+keywords:
+  - fitness
+  - evolution
+  - natural selection
+  - adaptation
+  - viability
+  - persistence
+  - organised persistence
+  - biological agency
+  - inheritance
+  - evolutionary theory
+
+keyPoints:
+  - Fitness is commonly understood as reproductive success, but this interpretation is incomplete on its own.
+  - APS reframes fitness as the differential continuity of persistence-sustaining organisation.
+  - Fitness presupposes viability and organised persistence rather than explaining their emergence.
+  - Adaptation, fitness, and natural selection perform distinguishable explanatory roles whose causal relations must be specified for the biological case concerned.
+  - Fitness identifies differential historical continuity within the broader APS framework of evolutionary explanation.
+
+relatedGlossaryTerms:
+  - fitness
+  - viability
+  - persistence
+  - adaptation
+  - natural-selection
+  - inheritance
+  - evolution
+  - biological-agency
+  - biological-organisation
+  - variation
+  - normativity
+  - scale
+
+relatedArticles:
+   - evolution
+   - natural-selection-an-aps-clarification
+   - adaptation-how-living-systems-sustain-themselves-through-change
+   - inheritance-and-continuity-in-aps
+   - multiscale-evolution-and-organised-persistence
+   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    source: "Clarendon Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+
+  - id: maynard-smith1982
+    authors: "Maynard Smith, J."
+    year: 1982
+    title: "Evolution and the Theory of Games"
+    source: "Cambridge University Press"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    source: "Princeton University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+================================================================
+FILE: src\content\articles\gene-centric-biology-and-aps.md
+================================================================
+---
+date: 2026-04-11
+title: Gene-Centric Biology and APS — Why Genes Are Not “In Charge”
+slug: gene-centric-biology-and-aps
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+revised: 2026-06-22
+cluster: evolutionary-dynamics
+role: clarification
+abstract: |
+  Gene-centric biology has been one of the most influential frameworks in modern evolutionary theory, but it is often misinterpreted as an account of what drives life itself. This article clarifies the role of genes within the APS framework, showing that genes are indispensable mechanisms through which lineages of organised persistence reproduce continuity across generations. They contribute to inheritance, variation, and evolutionary transformation, but they are not the origin of biological agency or the ultimate basis of evolutionary explanation.
+keyPoints:
+  - Gene-centric models successfully describe how continuity is reproduced across generations but do not specify the organisational conditions that make such continuity biologically meaningful.
+  - APS reframes the debate by asking what must exist for evolution to occur at all - viability-oriented, constraint-closed organisation.
+  - Genes function within living systems as mechanisms through which lineages of organised persistence reproduce continuity and generate variation.
+  - Biological causation is multiscale and reciprocal; no single component or “level” is in charge.
+  - evolution is the historical transformation of viability-oriented organisation, not simply change in gene frequency.
+relatedGlossaryTerms:
+  - biological-agency
+  - constraint-closure
+  - function
+  - purpose
+  - organism
+  - scale
+  - process
+  - evolution
+  - lineage
+  - inheritance
+  - fitness
+  - natural-selection
+relatedArticles:
+   - what-is-life-a-biological-question-revisited
+   - organism-the-unity-of-viability-oriented-organisation
+   - levels-vs-scale-why-biological-organisation-is-not-hierarchical
+   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+   - constraint-closure-what-it-does-and-does-not-do
+references:
+
+  - id: noble2012
+    authors: "Noble, D."
+    year: 2012
+    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
+    journal: "Interface Focus"
+    volume: "2"
+    pages: "55–64"
+    doi: "10.1098/rsfs.2011.0067"
+
+  - id: dupreNicholson2018
+    authors: "Dupré, J.; Nicholson, D. J."
+    year: 2018
+    title: "A Manifesto for a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: westEberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: lewontin2000
+    authors: "Lewontin, R. C."
+    year: 2000
+    title: "The Triple Helix: Gene, Organism, and Environment"
+    publisher: "Harvard University Press"
+---
+
+================================================================
+FILE: src\content\articles\inheritance-and-continuity-in-aps.md
+================================================================
+---
+date: 2026-04-15
+title: Inheritance and Continuity in APS
+slug: inheritance-and-continuity-in-aps
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: core
+
+abstract: >
+  In the Agency–Process–Scale (APS) framework, inheritance is not the
+  transmission of privileged components such as genes, but the continuity
+  of viability-oriented organisation across generations. APS reframes
+  inheritance as the reliable reconstitution of constraint-closed living
+  systems, integrating development, environment, and organisation into a
+  unified account of biological continuity. Inheritance explains how viable organisation is reliably reconstituted across generations, providing the continuity that links organised persistence to fitness, natural selection, and evolutionary transformation.
+
+keyPoints:
+  - Inheritance in APS is the continuity of viability-oriented organisation across generations.
+  - What persists is not a component but a reproducible pattern of persistence-sustaining organisation.
+  - Genes participate in inheritance but do not constitute it.
+  - Development is the process through which inherited organisation is reconstituted.
+  - Organism–environment coupling is part of what is inherited, not external to it.
+  - Evolution depends on the reliable re-establishment of viable organisation, not merely information transfer.
+
+relatedGlossaryTerms:
+  - inheritance
+  - persistence
+  - development
+  - constraint-closure
+  - biological-agency
+  - variation
+  - evolution
+  - evolutionary-organisation
+
+relatedArticles:
+  - evolution
+  - the-evolutionary-organisation-of-life
+  - natural-selection-an-aps-clarification
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  
+
+references:
+  - id: spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00547-6
+
+  - id: nicholsondupre2018
+    authors: Nicholson, D. J.; Dupré, J.
+    year: 2018
+    title: Everything Flows
+    publisher: Oxford University Press
+
+  - id: griffithsgray1994
+    authors: Griffiths, P. E.; Gray, R. D.
+    year: 1994
+    title: Developmental Systems and Evolutionary Explanation
+    journal: Journal of Philosophy
+    volume: 91(6)
+    pages: 277–304
+
+  - id: oyama2001
+    authors: Oyama, S.; Griffiths, P. E.; Gray, R. D.
+    year: 2001
+    title: Cycles of Contingency
+    publisher: MIT Press
+
+  - id: jablonka2005
+    authors: Jablonka, E.; Lamb, M. J.
+    year: 2005
+    title: Evolution in Four Dimensions
+    publisher: MIT Press
+
+  - id: westeberhard2003
+    authors: West-Eberhard, M. J.
+    year: 2003
+    title: Developmental Plasticity and Evolution
+    publisher: Oxford University Press
+
+  - id: mossio2023
+    authors: Mossio, M.
+    year: 2023
+    title: Determination, Explanation, and Organization
+    publisher: Springer
+---
+
+================================================================
+FILE: src\content\articles\is-evolution-random-ci.md
+================================================================
+---
+date: 2026-06-22
+title: Is Evolution Random?
+slug: is-evolution-random
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-22
+revised: 2026-06-23
+
+cluster: evolutionary-dynamics
+role: extension
+
+abstract: >
+  Evolution is often described as either random or non-random, yet this
+  distinction can be misleading. In APS, evolution is understood as the
+  historical transformation of organised persistence through interactions
+  among inheritance, variation, adaptation, fitness, and natural selection.
+  This article explains why evolutionary change cannot be adequately
+  understood as either pure chance or predetermined design.
+
+keyPoints:
+  - Evolution is not adequately described as either random or non-random.
+  - Inheritance reproduces continuity before evolutionary novelty emerges.
+  - Variation introduces novelty but operates within inherited continuity.
+  - Adaptation, fitness, and natural selection constrain evolutionary possibilities.
+  - APS interprets evolution as the historical transformation of organised persistence.
+
+relatedGlossaryTerms:
+  - evolution
+  - inheritance
+  - variation
+  - adaptation
+  - fitness
+  - natural-selection
+  - lineage
+  - organised-persistence
+
+relatedArticles:
+  - what-is-evolution-in-aps
+  - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+ 
+references:
+  - id: Darwin1859
+    authors: Darwin, C.
+    year: 1859
+    title: On the Origin of Species
+    publisher: John Murray
+
+  - id: Mayr1982
+    authors: Mayr, E.
+    year: 1982
+    title: The Growth of Biological Thought
+    publisher: Harvard University Press
+
+  - id: Gould2002
+    authors: Gould, S. J.
+    year: 2002
+    title: The Structure of Evolutionary Theory
+    publisher: Harvard University Press
+
+  - id: DupreNicholson2018
+    authors: Dupré, J., & Nicholson, D. J.
+    year: 2018
+    title: A Manifesto for a Processual Philosophy of Biology
+    publisher: Oxford University Press
+
+  - id: Spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: "https://doi.org/10.1007/s13752-026-00547-6"
+---
+
+================================================================
+FILE: src\content\articles\multiscale-evolution-and-organised-persistence.md
+================================================================
+---
+date: 2026-05-15
+title: Multiscale Evolution and Organised Persistence
+slug: multiscale-evolution-and-organised-persistence
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-15
+revised: 2026-09-09
+cluster: evolutionary-dynamics
+role: extension
+
+abstract: >
+  Evolution is the historical transformation of organised persistence, but the
+  spatial and temporal extent required to explain a particular evolutionary
+  transformation cannot be fixed in advance. Evolutionary explanations may
+  focus successfully on genes, organisms, populations, developmental systems,
+  ecological relations, or other materially realised organisation depending on
+  the explanandum. In other cases, adequate explanation requires relations
+  extending beyond an initially selected spatial or temporal boundary. APS
+  treats this as a question of explanatory extent rather than as evidence that
+  evolution is inherently multiscale. Scale is the analytic projection
+  concerned with where persistence relevant to the explanandum is organised
+  across spatial and temporal extents. A broader extent is therefore warranted
+  only when additional materially realised relations make an explanatory
+  difference to the evolutionary target.
+
+keyPoints:
+  - Evolution is the historical transformation of organised persistence.
+  - Evolutionary explanation should not assume a single privileged biological level.
+  - Nor should it assume in advance that every evolutionary transformation is inherently multiscale.
+  - Scale asks where the persistence relevant to an evolutionary explanandum is organised across spatial and temporal extents.
+  - A wider explanatory extent is warranted only when additional materially realised relations make an explanatory difference to the target.
+  - Development, adaptation, inheritance, selection, and organism–environment relations can enlarge the required explanatory extent in appropriate cases.
+  - Agency, Process, and Scale are analytic projections of one living organisation, not interacting dimensions.
+  - Multiextent explanation is a diagnostic outcome rather than a universal APS premise.
+
+relatedGlossaryTerms:
+  - scale
+  - evolution
+  - persistence
+  - adaptation
+  - inheritance
+  - variation
+  - natural-selection
+  - biological-organisation
+  - biological-agency
+  - process
+  - constraint-closure
+  - organism-environment-coupling
+
+relatedArticles:
+  - what-is-evolution-in-aps
+  - the-evolutionary-organisation-of-life
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - inheritance-and-continuity-in-aps
+  - natural-selection-an-aps-clarification
+  - variation-in-aps-where-does-novelty-come-from
+  - biological-agency-as-the-activity-of-self-maintenance
+  - development-as-organised-persistence
+  - ecology-as-organised-persistence-across-scales
+  - organism-environment-coupling
+  - explanatory-geometry-of-biology
+
+references:
+  - id: lewontin-1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+    doi: "10.1146/annurev.es.01.110170.000245"
+
+  - id: okasha-2006
+    authors: "Okasha, S."
+    year: 2006
+    title: "Evolution and the Levels of Selection"
+    publisher: "Oxford University Press"
+
+  - id: odling-smee-laland-feldman-2003
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
+
+  - id: west-eberhard-2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: noble-2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    publisher: "Cambridge University Press"
+
+  - id: nicholson-dupre-2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: moreno-mossio-2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: spencer-2026-agency
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+================================================================
+FILE: src\content\articles\natural-selection-and-organised-persistence.md
+================================================================
+---
+date: 2026-06-01
+title: "Natural Selection and Organised Persistence"
+slug: natural-selection-an-aps-clarification
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-01
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: core
+
+abstract: >
+  Natural selection occupies a specific but bounded role within evolutionary
+  explanation. APS characterises natural selection as differential historical
+  stabilisation and distinguishes it from fitness, understood as differential
+  historical continuity, and from the biological processes that generate,
+  maintain, express, or transmit relevant differences. Inheritance, variation,
+  adaptation, development, ecology, biological agency, and other processes can
+  be relevant to particular selection explanations, but their place within APS
+  does not establish a universal sequence of biological prerequisites. This
+  article situates natural selection within the historical transformation of
+  organised persistence while distinguishing explanatory architecture from
+  causal pathway, temporal succession, and necessary biological dependency.
+
+relatedGlossaryTerms:
+  - natural-selection
+  - fitness
+  - evolution
+  - inheritance
+  - variation
+  - adaptation
+  - persistence
+  - viability
+  - biological-agency
+  - development
+  - ecology
+  - scale
+
+relatedArticles:
+  - evolution
+  - the-evolutionary-organisation-of-life
+  - fitness-differential-continuity-and-organised-persistence
+  - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - selection-revisited-what-does-selection-actually-act-on
+  - gene-centric-biology-and-aps
+  - the-developmental-organisation-of-life
+  - the-ecological-organisation-of-life
+  - how-aps-explains-life
+  - the-core-structure-of-aps-how-the-framework-fits-together
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    publisher: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    publisher: "Clarendon Press"
+
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134"
+    pages: "1501–1506"
+
+  - id: williams1966
+    authors: "Williams, G. C."
+    year: 1966
+    title: "Adaptation and Natural Selection"
+    publisher: "Princeton University Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+
+  - id: gould2002
+    authors: "Gould, S. J."
+    year: 2002
+    title: "The Structure of Evolutionary Theory"
+    publisher: "Harvard University Press"
+
+  - id: odlingsmee2003
+    authors: "Odling-Smee, F. J., Laland, K. N. & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
+
+  - id: westeberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: pigliucci2010
+    authors: "Pigliucci, M. & Müller, G. B."
+    year: 2010
+    title: "Evolution: The Extended Synthesis"
+    publisher: "MIT Press"
+
+  - id: nicholson2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: rama2024
+    authors: "Rama, T."
+    year: 2024
+    title: "Is a Cognitive Revolution in Theoretical Biology Underway?"
+    journal: "Foundations of Science"
+    volume: "30(3)"
+    pages: "719–740"
+    doi: "10.1007/s10699-024-09950-3"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+================================================================
+FILE: src\content\articles\physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation-ci.md
+================================================================
+---
+date: 2026-04-16
+title: "Physiology and Evolution in APS — Two Temporal Perspectives on Organised Persistence"
+slug: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+type: article
+
+abstract: >
+  Physiology and evolution are often treated as separate explanatory domains:
+  physiology explaining how organisms function in the present and evolution
+  explaining how they change through time. APS argues that both address the
+  same explanatory target—organised persistence—viewed across different
+  temporal horizons. Physiology explains how organised persistence is enacted,
+  regulated, and maintained within lifetimes, while evolution explains how
+  lineages of organised persistence are reproduced, transformed, and
+  historically diversified across generations. Understanding their
+  relationship clarifies how biological continuity is maintained through
+  continual transformation and reveals a deeper unity underlying biological
+  explanation.
+
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-22
+revised: 2026-06-22
+cluster: evolutionary-dynamics
+role: synthesis
+
+keyPoints:
+  - "Physiology and evolution address the same explanatory target: organised persistence."
+  - Physiology explains how organised persistence is enacted and maintained in the present.
+  - Evolution explains how lineages of organised persistence are transformed through historical time.
+  - Development links physiological continuity and evolutionary continuity.
+  - Adaptation connects present regulation with long-term evolutionary transformation.
+  - Biological explanation requires integration across interacting temporal scales.
+
+relatedGlossaryTerms:
+  - physiology
+  - evolution
+  - viability
+  - organised-persistence
+  - lineage
+  - temporal-organisation
+  - biological-agency
+  - adaptation
+  - continuity
+  - scale
+
+relatedArticles:
+  - what-counts-as-an-evolutionary-explanation
+  - evolution
+  - persistence-organised-continuity-through-time
+  - temporal-organisation-and-organised-persistence
+  - development-and-evolution
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - ecology-as-organised-persistence-across-scales
+  
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    source: "Clarendon Press"
+
+  - id: nicholson-dupre-2018
+    authors: "Nicholson, D. J.; Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+
+  - id: moreno-mossio-2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+---
+
+================================================================
+FILE: src\content\articles\selection-revisited-what-does-selection-actually-act-on.md
+================================================================
+---
+date: 2026-04-15
+title: Selection Revisited — What Does Selection Actually Act On?
+slug: selection-revisited-what-does-selection-actually-act-on
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: clarification
+
+abstract: |
+  In the Agency–Process–Scale (APS) framework, natural selection is not treated as a primary source of biological organisation but as a process of differential historical stabilisation operating where biologically relevant differences persist through evolutionary time. Selection does not by itself explain the generation of viability, organisation, or the differences upon which differential outcomes depend. This article clarifies what selection acts on by distinguishing the minimal conditions required for differential historical stabilisation from the additional biological processes that may contribute to particular evolutionary outcomes.
+
+keyPoints:
+  - Natural selection operates on differences in the continuity of lineages of viability-oriented organisation.
+  - Selection requires historically persisting biological differences capable of differential representation or stabilisation; additional dependencies must be established for the evolutionary case concerned.
+  - What selection differentially stabilises is not an isolated component but a lineage of organised persistence.
+  - Genes participate in selection but are not privileged objects of selection.
+  - Selection contributes to differential continuity; it does not generate organisation, agency, or viability.
+  - Evolutionary explanation requires distinguishing continuity-producing processes from the processes that differentially stabilise their outcomes.
+  - Selection occupies a distinct position within the broader architecture of evolutionary transformation without making every other APS evolutionary concept a universal prerequisite.
+
+relatedGlossaryTerms:
+  - evolution
+  - natural-selection
+  - fitness
+  - adaptation
+  - inheritance
+  - variation
+  - lineage
+  - persistence
+  - biological-agency
+  - constraint-closure
+
+relatedArticles:
+  - what-is-evolution-in-aps
+  - fitness-differential-continuity-and-organised-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - what-is-a-species-in-aps
+  - what-is-a-taxon-in-aps
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+
+References:
+  - id: hull1980
+    authors: "Hull, D. L."
+    year: 1980
+    title: "Individuality and Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "11"
+    pages: "311–332"
+
+  - id: dupreNicholson2018
+    authors: "Dupré, J.; Nicholson, D. J."
+    year: 2018
+    title: "A Manifesto for a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: noble2012
+    authors: "Noble, D."
+    year: 2012
+    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
+    journal: "Interface Focus"
+    volume: "2"
+    pages: "55–64"
+    doi: "10.1098/rsfs.2011.0067"
+---
+
+================================================================
+FILE: src\content\articles\the-evolutionary-organisation-of-life-ci.md
+================================================================
+---
+date: 2026-06-01
+title: "The Evolutionary Organisation of Life"
+slug: the-evolutionary-organisation-of-life
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-01
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: synthesis
+
+abstract: >
+  This article serves as the principal synthesis article of the APS
+  Evolutionary Dynamics cluster. Whereas Evolution as the Historical
+  Transformation of Organised Persistence establishes the APS account of
+  evolution itself, the present article distinguishes the major explanatory
+  questions involved in understanding historical continuity and transformation
+  across generations. Inheritance concerns cross-generational reconstitution,
+  variation concerns difference within continuing histories, adaptation
+  concerns continuity-preserving reorganisation under changing conditions,
+  fitness concerns differential historical continuity, and natural selection
+  concerns differential historical stabilisation. APS organises these
+  explanatory relations around evolution as the historical transformation of
+  organised persistence without treating their conceptual ordering as evidence
+  for a universal temporal sequence, causal pathway, or necessary biological
+  dependency.
+
+relatedGlossaryTerms:
+  - evolution
+  - inheritance
+  - variation
+  - adaptation
+  - natural-selection
+  - fitness
+  - continuity
+  - persistence
+  - viability
+  - biological-agency
+  - development
+  - ecology
+
+relatedArticles:
+  - evolution
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - natural-selection-an-aps-clarification
+  - processual-individuality
+  - biological-individuality-organised-persistence-through-time
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - gene-centric-biology-and-aps
+  - the-developmental-organisation-of-life
+  - the-ecological-organisation-of-life
+  - the-cognitive-organisation-of-life
+  - how-aps-explains-life
+  - the-core-structure-of-aps-how-the-framework-fits-together
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    publisher: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    publisher: "Clarendon Press"
+
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134"
+    pages: "1501–1506"
+
+  - id: williams1966
+    authors: "Williams, G. C."
+    year: 1966
+    title: "Adaptation and Natural Selection"
+    publisher: "Princeton University Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+
+  - id: gould2002
+    authors: "Gould, S. J."
+    year: 2002
+    title: "The Structure of Evolutionary Theory"
+    publisher: "Harvard University Press"
+
+  - id: odlingsmee2003
+    authors: "Odling-Smee, F. J., Laland, K. N. & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
+
+  - id: westeberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    publisher: "Oxford University Press"
+
+  - id: pigliucci2010
+    authors: "Pigliucci, M. & Müller, G. B."
+    year: 2010
+    title: "Evolution: The Extended Synthesis"
+    publisher: "MIT Press"
+
+  - id: nicholson2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: rama2024
+    authors: "Rama, T."
+    year: 2024
+    title: "Is a Cognitive Revolution in Theoretical Biology Underway?"
+    journal: "Foundations of Science"
+    volume: "30(3)"
+    pages: "719–740"
+    doi: "10.1007/s10699-024-09950-3"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+================================================================
+FILE: src\content\articles\variation-in-aps-where-does-novelty-come-from-ci.md
+================================================================
+---
+date: 2026-04-15
+title: Variation in APS — Where Does Novelty Come From?
+slug: variation-in-aps-where-does-novelty-come-from
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+role: core
+abstract: |
+  In the Agency–Process–Scale (APS) framework, variation is not treated as random deviation from a fixed template, but as the generation of differences within inherited, persistence-sustaining organisation. Variation emerges through ongoing reorganisation within inherited lineages of viability-oriented organisation and generates differences that may become relevant to fitness, natural selection, and evolutionary transformation. This article explains the sources of biological novelty by integrating development, organism–environment coupling, and multiscale dynamics into a unified account of how new forms of organisation arise.
+keyPoints:
+  - Variation arises from the reorganisation of inherited, persistence-sustaining organisation.
+  - Novelty is generated through development, not added to it.
+  - Organism–environment coupling is a source of variation, not merely a context for selection.
+  - Genetic mutation contributes to variation but does not exhaust its sources.
+  - Variation is structured by organisation and constrained by viability.
+  - Evolution depends on the continuous production of viable variation within organised systems.
+relatedGlossaryTerms:
+  - variation
+  - development
+  - biological-agency
+  - constraint-closure
+  - adaptation
+  - evolution
+  - persistence
+  - inheritance
+relatedArticles:
+  - what-is-evolution-in-aps
+  - inheritance-and-continuity-in-aps
+  - selection-revisited-what-does-selection-actually-act-on
+  - organism-world-coupling-agency-not-control
+references:
+  - id: spencer2026agency
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00547-6
+
+  - id: west-eberhard2003
+    authors: West-Eberhard, M. J.
+    year: 2003
+    title: Developmental Plasticity and Evolution
+    publisher: Oxford University Press
+
+  - id: odling-smee2003
+    authors: Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W.
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: Princeton University Press
+
+  - id: walsh2015
+    authors: Walsh, D. M.
+    year: 2015
+    title: Organisms, Agency, and Evolution
+    publisher: Cambridge University Press
+---
+
+================================================================
+FILE: src\content\articles\what-is-a-species-in-aps.md
+================================================================
+---
+date: 2026-04-15
+title: What Is a Species in APS?
+slug: what-is-a-species-in-aps
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-06-20
+cluster: evolutionary-dynamics
+role: extension
+abstract: >
+  In APS, species are not fixed categories or fundamental biological units but
+  historically extended lineage-patterns of viability-oriented organisation.
+  This article reframes species as evolving continuities of organised persistence,
+  integrating inheritance, variation, and transformation within a processual
+  account of life.
+keyPoints:
+  - Species are not fixed categories but historically continuous patterns of organised persistence.
+  - Species identity is grounded in viability-oriented organisation, not static traits or definitions.
+  - Boundaries between species are context-dependent and reflect ongoing transformation.
+  - Species are outcomes of inheritance, variation, and transformation across time.
+  - APS treats species as dynamic lineage-patterns rather than fundamental biological units.
+relatedGlossaryTerms:
+  - species
+  - classification
+  - evolution
+  - inheritance
+  - variation
+  - transformation
+  - persistence
+  - biological-individual
+  - processual-individual
+relatedArticles:
+  - what-is-evolution-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - inheritance-and-continuity-in-aps
+references:
+  - id: deQueiroz1998
+    authors: de Queiroz, K.
+    year: 1998
+    title: The General Lineage Concept of Species, Species Criteria, and the Process of Speciation
+    publisher: Oxford University Press
+
+  - id: Mayden1997
+    authors: Mayden, R. L.
+    year: 1997
+    title: "A Hierarchy of Species Concepts: The Denouement in the Saga of the Species Problem"
+    publisher: Chapman & Hall
+
+  - id: Spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: https://doi.org/10.1007/s13752-026-00547-6
+---
+
+================================================================
+FILE: src\content\articles\what-is-a-taxon-in-aps-ci.md
+================================================================
+---
+date: 2026-04-15
+title: What Is a Taxon in APS?
+slug: what-is-a-taxon-in-aps
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-06-20
+cluster: evolutionary-dynamics
+role: extension
+abstract: >
+  APS reinterprets the taxon not as a static classificatory unit but as a
+  classificatory designation applied to historically extended patterns of
+  viability-oriented, constraint-closed organisation. This article explains how
+  classification tracks organised persistence, why taxa are not essentialist
+  groupings, and how this reframing integrates evolution, individuality, and
+  multi-scale organisation.
+keyPoints:
+  - A taxon in APS is a classificatory designation applied to historically continuous patterns of viability-oriented organisation.
+  - Classification tracks organised persistence rather than trait similarity alone.
+  - Taxa are not static entities but classifications of evolving organisational patterns.
+  - Boundaries between taxa are often graded due to multi-scale biological processes.
+  - Taxa track patterns across processual individuals rather than constituting individuals themselves.
+relatedGlossaryTerms:
+  - taxon
+  - classification
+  - species
+  - biological-individual
+  - processual-individual
+  - evolution
+  - inheritance
+  - transformation
+  - persistence
+  - constraint-closure
+  - biological-agency
+relatedArticles:
+  - classification-without-essentialism
+references:
+ - id: deQueiroz1998
+   authors: de Queiroz, K.
+   year: 1998
+   title: The General Lineage Concept of Species, Species Criteria, and the Process of Speciation
+   publisher: Oxford University Press
+ - id: DupreNicholson2018
+   authors: Dupré, J., & Nicholson, D. J.
+   year: 2018
+   title: A Manifesto for a Processual Philosophy of Biology
+   publisher: Oxford University Press
+
+ - id: Hull1965
+   authors: Hull, D. L.
+   year: 1965
+   title: "The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis"
+   journal: British Journal for the Philosophy of Science
+   volume: 15(60)
+   pages: 314–326
+
+ - id: Spencer2026
+   authors: Spencer, R. D.
+   year: 2026
+   title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+   journal: Biological Theory
+   doi: https://doi.org/10.1007/s13752-026-00547-6
+---
+
+================================================================
+FILE: src\content\articles\what-is-evolution-in-aps.md
+================================================================
+---
+date: 2026-04-11
+title: What Is Evolution in APS?
+slug: what-is-evolution-in-aps
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+revised: 2026-06-22
+cluster: evolutionary-dynamics
+role: core
+
+abstract: |
+  Evolution is commonly understood as change in heritable populations through time, often formalised as change in gene frequencies across generations. APS accepts the importance of these processes but asks a prior question: what must exist for evolutionary change to occur at all? This article presents the APS account of evolution as the historical transformation of organised persistence. By integrating persistence, adaptation, inheritance, lineage continuity, and natural selection within a unified explanatory framework, APS clarifies what evolutionary explanations explain and how evolutionary change remains rooted in the continuity of living organisation.
+
+keyPoints:
+  - Evolution is the historical transformation of lineages of organised persistence.
+  - Organised persistence is the condition that makes evolutionary processes possible.
+  - Inheritance reproduces continuity across generations while variation introduces organisational differences.
+  - Adaptation links present viability regulation to long-term evolutionary transformation.
+  - Natural selection operates on differences in the persistence of viable organisation rather than creating organisation itself.
+  - Evolutionary explanations explain how continuity and transformation remain connected through the history of life.
+
+relatedGlossaryTerms:
+  - evolution
+  - adaptation
+  - persistence
+  - inheritance
+  - variation
+  - lineage
+  - natural-selection
+  - constraint-closure
+  - biological-agency
+  - biological-organisation
+  - viability
+  - scale
+
+relatedArticles:
+  - what-counts-as-an-evolutionary-explanation
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - natural-selection-an-aps-clarification
+  - selection-revisited-what-does-selection-actually-act-on
+  - multiscale-evolution-and-organised-persistence
+  - evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    publisher: "John Murray"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    publisher: "Harvard University Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+    doi: "10.1146/annurev.es.01.110170.000245"
+
+  - id: maynardSmithSzathmary1995
+    authors: "Maynard Smith, J.; Szathmáry, E."
+    year: 1995
+    title: "The Major Transitions in Evolution"
+    publisher: "Oxford University Press"
+
+  - id: godfreySmith2009
+    authors: "Godfrey-Smith, P."
+    year: 2009
+    title: "Darwinian Populations and Natural Selection"
+    publisher: "Oxford University Press"
+
+  - id: okasha2006
+    authors: "Okasha, S."
+    year: 2006
+    title: "Evolution and the Levels of Selection"
+    publisher: "Oxford University Press"
+
+  - id: odlingSmee2003
+    authors: "Odling-Smee, F. J.; Laland, K. N.; Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
+
+  - id: morenoMossio2015
+    authors: "Moreno, A.; Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+---
+
+================================================================
+FILE: src\content\boxes\adaptation-is-not-selection.md
+================================================================
+---
+date: 2026-06-13
+title: APS Box — Adaptation Is Not Selection
+slug: adaptation-is-not-selection
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-evolutionary-organisation-is-not-a-mechanism.md
+================================================================
+---
+date: 2026-06-13
+title: APS Box — Evolutionary Organisation Is Not a Mechanism
+slug: evolutionary-organisation-is-not-a-mechanism
+type: box
+
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-fitness-is-not-reproductive-success-alone.md
+================================================================
+---
+date: 2026-06-18
+title: Fitness Is Not Reproductive Success Alone
+slug: fitness-is-not-reproductive-success-alone
+type: box
+status: canonical
+revised: 2026-06-18
+cluster: evolutionary-dynamics
+summary: >
+  Reproductive success contributes to fitness, but fitness cannot be reduced
+  to reproduction alone. APS interprets fitness as the differential continuity
+  of persistence-sustaining organisation across generations.
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-fitnss-and-natural-selection.md
+================================================================
+---
+title: Fitness and Natural Selection
+slug: fitness-and-natural-selection
+type: box
+status: canonical
+date: 2026-06-18
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+summary: >
+  Fitness and natural selection are closely related but perform different
+  explanatory roles. Fitness concerns differential historical continuity,
+  whereas natural selection concerns differential historical stabilisation.
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-inheritance-is-not-information-transfer.md
+================================================================
+---
+date: 2026-06-13
+title: APS Box — Inheritance Is Not Information Transfer
+slug: inheritance-is-not-information-transfer
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-13
+revised: 2026-06-13
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-natural-selection-as-differential-stabilisation.md
+================================================================
+---
+date: 2026-06-17
+title: APS Box — Natural Selection as Differential Stabilisation
+slug: natural-selection-as-differential-stabilisation
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-17
+revised: 2026-06-17
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-random-does-not-mean-unconstrained.md
+================================================================
+---
+title: Random Does Not Mean Unconstrained
+slug: random-does-not-mean-unconstrained
+date: 2026-06-23
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-23
+revised: 2026-06-23
+
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-species-are-not-fundamental-units.md
+================================================================
+---
+date: 2026-04-12
+title: APS Box — Species Are Not Fundamental Units
+slug: aps-box-species-are-not-fundamental-units
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-04-12
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-structure-of-evolutionary-explanation.md
+================================================================
+---
+date: 2026-04-15
+title: APS Box — The Structure of Evolutionary Explanation
+slug: structure-of-evolutionary-explanation
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-15
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-variation-adaptation-fitness-selection.md
+================================================================
+---
+date: 2026-06-20
+title: APS Box — Variation, Adaptation, Fitness, and Selection
+slug: variation-adaptation-fitness-selection
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-20
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-viability-and-fitness.md
+================================================================
+---
+date: 2026-06-18
+title: Viability and Fitness
+slug: viability-and-fitness
+type: box
+status: canonical
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+summary: >
+  Viability and fitness are related but address different explanatory
+  questions. Viability concerns the maintenance of viable organisation
+  under present conditions, whereas fitness concerns differential
+  historical continuity across generations.
+---
+
+================================================================
+FILE: src\content\boxes\aps-box-what-a-taxon-is-and-is-not.md
+================================================================
+---
+date: 2026-04-12
+title: APS Box — What a Taxon Is (and Is Not)
+slug: aps-box-what-a-taxon-is-and-is-not
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-09-20
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\persistence-across-generations.md
+================================================================
+---
+date: 2026-06-01
+title: APS Box — Persistence Across Generations
+slug: persistence-across-generations
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\boxes\selection-is-not-the-whole-of-evolution.md
+================================================================
+---
+date: 2026-06-01
+title: APS Box — Selection Is Not the Whole of Evolution
+slug: selection-is-not-the-whole-of-evolution
+type: box
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-01
+revised: 2026-06-01
+cluster: evolutionary-dynamics
+---
+
+================================================================
+FILE: src\content\glossary\adaptation-ci.md
+================================================================
+---
+date: 2026-04-15
+title: Adaptation
+slug: adaptation
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+cluster: evolutionary-dynamics
+
+definition: >
+  In APS, adaptation is the ongoing reorganisation of viability-oriented,
+  constraint-closed organisation through which living systems sustain
+  persistence under changing conditions. Adaptation links present regulation
+  to longer-term evolutionary transformation through the continual
+  reorganisation of organised persistence.
+
+inBrief: >
+  Adaptation is the ongoing reorganisation of living organisation that
+  sustains viability through change.
+
+relatedGlossaryTerms:
+  - viability
+  - viability-orientation
+  - persistence
+  - evolution
+  - biological-agency
+  - biological-organisation
+  - constraint-closure
+  - normativity
+  - process
+  - scale
+  - function
+  - evaluation
+  - semiosis
+
+relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-biological-intelligibility
+  - evolution
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+  - perturbation-reveals-organisation
+  - how-to-diagnose-a-biological-system
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    source: "Allen & Unwin"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    source: "Harvard University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    source: "Princeton University Press"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+
+================================================================
+FILE: src\content\glossary\adaptive-reorganisation.md
+================================================================
+---
+title: Adaptive Reorganisation
+slug: adaptive-reorganisation
+type: glossary
+
+definition: >
+  Adaptive Reorganisation is the continual adjustment of functional
+  relationships through which a living system maintains or re-establishes
+  the organisational conditions required for viability under changing
+  internal or environmental circumstances.
+
+inBrief: >
+  Living systems maintain themselves not by preserving fixed patterns of
+  organisation but by continually reorganising their functional activity
+  as circumstances change.
+
+date: 2026-07-25
+revised: 2026-07-27
+
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-25
+
+cluster: evolutionary-dynamics
+
+seeAlso:
+  - functional-organisation
+  - functional-equivalence
+  - operational-persistence
+  - viability
+  - organised-persistence
+  - development
+  - adaptation
+
+references: []
+---
+
+================================================================
+FILE: src\content\glossary\evolution.md
+================================================================
+---
+date: 2026-04-08
+title: Evolution
+slug: evolution
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-16
+revised: 2026-09-10
+cluster: evolutionary-dynamics
+
+definition: >
+  In APS, evolution is the historical transformation of viability-oriented,
+  constraint-closed organisation through which living systems sustain,
+  reorganise, diversify, and extend persistence across generations.
+  Evolution explains how organised biological persistence is historically
+  stabilised and transformed through lineage continuity across interacting
+  biological scales.
+
+inBrief: >
+  Evolution is the historical transformation of viability-oriented,
+  persistence-sustaining organisation across generations.
+
+relatedGlossaryTerms:
+  - viability
+  - viability-orientation
+  - persistence
+  - adaptation
+  - biological-organisation
+  - biological-agency
+  - inheritance
+  - function
+  - process
+  - scale
+  - normativity
+  - development
+  - constraint-closure
+
+relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-biological-intelligibility
+  - natural-selection-and-organised-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+  - how-to-diagnose-a-biological-system
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    source: "Harvard University Press"
+
+  - id: waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    source: "Allen & Unwin"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    source: "Princeton University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+---
+
+================================================================
+FILE: src\content\glossary\evolutionary-organisation.md
+================================================================
+---
+date: 2026-06-13
+title: Evolutionary Organisation
+slug: evolutionary-organisation
+type: glossary
+definition: >
+  The integrated continuity architecture through which viability-oriented
+  organised persistence is preserved, transformed, diversified, and
+  extended across generations. Evolutionary organisation emerges from the
+  interaction of inheritance, variation, selection, adaptation,
+  innovation, development, ecology, cognition, and other processes that
+  contribute to historical continuity.
+inBrief: >
+  The integrated historical architecture through which life maintains
+  continuity across generations while remaining capable of transformation.
+category: evolutionary-dynamics
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-13
+cluster: evolutionary-dynamics
+revised: 2026-06-15
+relatedTerms:
+  - evolution
+  - continuity
+  - inheritance
+  - variation
+  - natural-selection
+  - adaptation
+  - innovation
+  - organised-persistence
+  - biological-agency
+  - viability
+---
+
+================================================================
+FILE: src\content\glossary\fitness-ci.md
+================================================================
+---
+date: 2026-05-17
+title: Fitness
+slug: fitness
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-17
+revised: 2026-07-28
+cluster: evolutionary-dynamics
+
+definition: >
+  In APS, fitness is the historically situated capacity of
+  persistence-sustaining organisation to contribute to continuity across
+  generations under changing developmental and ecological conditions.
+  Fitness reflects the differential continuity of organised persistence
+  rather than reproductive output, optimisation, or biological superiority
+  alone.
+
+inBrief: >
+  Fitness is the context-dependent capacity of organised living systems to
+  sustain continuity across generations. In APS, fitness concerns the
+  differential continuity of organised persistence under changing conditions.
+
+relatedGlossaryTerms:
+  - viability
+  - viability-orientation
+  - persistence
+  - adaptation
+  - evolution
+  - inheritance
+  - natural-selection
+  - biological-agency
+  - biological-organisation
+  - constraint-closure
+  - normativity
+  - process
+  - scale
+  - variation
+
+relatedArticles:
+  - natural-selection-and-organised-persistence
+  - what-is-evolution-in-aps
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-biological-intelligibility
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    source: "Clarendon Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+
+  - id: maynard-smith1982
+    authors: "Maynard Smith, J."
+    year: 1982
+    title: "Evolution and the Theory of Games"
+    source: "Cambridge University Press"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    source: "Princeton University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+
+================================================================
+FILE: src\content\glossary\inheritance.md
+================================================================
+---
+date: 2026-04-15
+title: Inheritance
+slug: inheritance
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-16
+revised: 2026-07-28
+cluster: evolutionary-dynamics
+
+definition: >
+  In APS, inheritance is the reliable reconstitution of viability-oriented,
+  constraint-closed organisation across generations or developmental cycles.
+  Inheritance reproduces the organisational conditions through which living
+  systems sustain persistence, development, adaptation, and biological agency
+  across time.
+
+inBrief: >
+  Inheritance is the reliable reconstitution of viability-oriented organisation
+  through which organised persistence is reproduced across generations.
+
+relatedGlossaryTerms:
+  - evolution
+  - adaptation
+  - persistence
+  - viability
+  - viability-orientation
+  - constraint-closure
+  - biological-agency
+  - biological-organisation
+  - process
+  - scale
+  - development
+  - normativity
+
+relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-biological-intelligibility
+  - what-is-evolution-in-aps
+  - natural-selection-and-organised-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+
+references:
+  - id: waddington1957
+    authors: "Waddington, C. H."
+    year: 1957
+    title: "The Strategy of the Genes"
+    source: "Allen & Unwin"
+
+  - id: oyama2000
+    authors: "Oyama, S."
+    year: 2000
+    title: "The Ontogeny of Information"
+    source: "Duke University Press"
+
+  - id: griffiths2001
+    authors: "Griffiths, P. E., & Gray, R. D."
+    year: 2001
+    title: "Darwinism and Developmental Systems"
+    source: "Kluwer Academic Publishers"
+
+  - id: jablonka2005
+    authors: "Jablonka, E., & Lamb, M. J."
+    year: 2005
+    title: "Evolution in Four Dimensions"
+    source: "MIT Press"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+
+================================================================
+FILE: src\content\glossary\lineage.md
+================================================================
+---
+title: Lineage
+date: 2026-06-20
+slug: lineage
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-20
+revised: 2026-06-20
+cluster: evolutionary-dynamics
+definition: >
+  A lineage is the historical continuity through which organised persistence
+  is maintained and transformed through time. In APS, lineages are understood
+  as ongoing continuities of living organisation rather than merely chains of
+  ancestor–descendant relationships.
+
+inBrief: >
+  Lineages are the historical continuities through which living organisation
+  persists and evolves.
+
+abstract: >
+  APS interprets lineages as historical continuities of organised persistence
+  rather than merely genealogical chains of ancestors and descendants.
+  Lineages provide the continuity through which living organisation is
+  maintained, reproduced, and transformed across generations. They therefore
+  occupy a central position linking organised persistence, species,
+  taxonomy, and evolutionary change.
+
+relatedGlossaryTerms:
+  - organised-persistence
+  - species
+  - evolution
+  - biological-individual
+
+relatedArticles:
+  - species-as-organised-persistence
+  - evolution-as-the-historical-transformation-of-organised-persistence
+  - multiscale-evolution-and-organised-persistence
+  - evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+---
+
+================================================================
+FILE: src\content\glossary\natural-selection.md
+================================================================
+---
+date: 2026-04-15
+title: Natural Selection
+slug: natural-selection
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-06-15
+cluster: evolutionary-dynamics
+
+definition: >
+  In APS, natural selection is the historically distributed differential
+  stabilisation of viability-oriented, constraint-closed organisation across
+  generations. Selection filters differences in the capacity of living systems
+  to sustain organised persistence under changing conditions. It therefore
+  presupposes systems already capable of persistence, inheritance, variation,
+  adaptation, development, and biological agency.
+
+inBrief: >
+  Natural selection is the differential stabilisation of viable organisation
+  across generations.
+
+relatedGlossaryTerms:
+  - evolution
+  - inheritance
+  - variation
+  - adaptation
+  - persistence
+  - biological-agency
+  - biological-organisation
+  - constraint-closure
+  - process
+  - scale
+
+relatedArticles:
+  - natural-selection-and-organised-persistence
+  - what-is-evolution-in-aps
+  - adaptation-how-living-systems-sustain-themselves-through-change
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: fisher1930
+    authors: "Fisher, R. A."
+    year: 1930
+    title: "The Genetical Theory of Natural Selection"
+    source: "Clarendon Press"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    source: "Harvard University Press"
+
+  - id: lewontin1970
+    authors: "Lewontin, R. C."
+    year: 1970
+    title: "The Units of Selection"
+    journal: "Annual Review of Ecology and Systematics"
+    volume: "1"
+    pages: "1–18"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: odling-smee2003
+    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    source: "Princeton University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+
+================================================================
+FILE: src\content\glossary\species-ci.md
+================================================================
+---
+date: 2026-04-15
+title: Species
+slug: species
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-06-20
+cluster: evolutionary-dynamics
+definition: >
+  A species is a historically continuous lineage-pattern of viability-oriented
+  organisation that persists across generations through processes of inheritance,
+  variation, adaptation, and evolutionary transformation. In APS, species are
+  not fixed classes or fundamental biological units but evolving lineages of
+  organised persistence whose continuity is tracked through taxonomic
+  classification.
+inBrief: >
+  A species is a historically continuous lineage of organised persistence.
+seeAlso:
+  - evolution
+  - inheritance
+  - variation
+  - transformation
+  - persistence
+  - adaptation
+  - lineage
+  - taxon
+---
+
+================================================================
+FILE: src\content\glossary\variation-ci.md
+================================================================
+---
+date: 2026-04-15
+title: Variation
+slug: variation
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-12
+revised: 2026-06-15
+cluster: evolutionary-dynamics
+
+definition: >
+  In APS, variation is the structured generation of differences within
+  viability-oriented, constraint-closed organisation across instances,
+  generations, or developmental trajectories. Variation emerges through the
+  ongoing dynamics of development, regulation, environmental interaction,
+  physiological organisation, behavioural activity, and adaptive
+  reorganisation, and is constrained by the organisational conditions through
+  which living systems sustain persistence.
+
+inBrief: >
+  Variation is the structured generation of organisational differences within
+  viability-oriented systems.
+
+relatedGlossaryTerms:
+  - evolution
+  - inheritance
+  - adaptation
+  - persistence
+  - biological-agency
+  - biological-organisation
+  - constraint-closure
+  - process
+  - scale
+  - development
+  - viability
+  - viability-orientation
+  - fitness
+
+relatedArticles:
+  - what-is-evolution-in-aps
+  - natural-selection-and-organised-persistence
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+  - scale-time-persistence
+
+references:
+  - id: darwin1859
+    authors: "Darwin, C."
+    year: 1859
+    title: "On the Origin of Species"
+    source: "John Murray"
+
+  - id: mayr1982
+    authors: "Mayr, E."
+    year: 1982
+    title: "The Growth of Biological Thought: Diversity, Evolution, and Inheritance"
+    source: "Harvard University Press"
+
+  - id: west-eberhard2003
+    authors: "West-Eberhard, M. J."
+    year: 2003
+    title: "Developmental Plasticity and Evolution"
+    source: "Oxford University Press"
+
+  - id: jablonka2005
+    authors: "Jablonka, E., & Lamb, M. J."
+    year: 2005
+    title: "Evolution in Four Dimensions"
+    source: "MIT Press"
+
+  - id: oyama2000
+    authors: "Oyama, S."
+    year: 2000
+    title: "The Ontogeny of Information"
+    source: "Duke University Press"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+

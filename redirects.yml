@@ -7,4 +7,11 @@
 # - from: "/old-path/"
 #   to: "/new-path/"
 #   status: 301
-redirects: []
+redirects:
+  - from: "/inheritance-fitness-and-natural-selection/"
+    to: "/variation-adaptation-fitness-selection/"
+    status: 301
+
+  - from: "/variation-fitness-and-natural-selection/"
+    to: "/variation-adaptation-fitness-selection/"
+    status: 301

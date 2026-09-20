@@ -4,22 +4,20 @@ slug: fitness-and-natural-selection
 type: box
 status: canonical
 date: 2026-06-18
-revised: 2026-06-18
+revised: 2026-09-20
+cluster: evolutionary-dynamics
 summary: >
   Fitness and natural selection are closely related but perform different
-  explanatory roles. Fitness concerns differences in the continuity of
-  persistence-sustaining organisation, whereas natural selection concerns
-  the differential historical stabilisation of those differences across
-  generations.
+  explanatory roles. Fitness concerns differential historical continuity,
+  whereas natural selection concerns differential historical stabilisation.
 ---
 
-Fitness and natural selection are often treated as though they refer to the same phenomenon. APS distinguishes them because they address different aspects of evolutionary continuity.
+Fitness and natural selection are closely related, but they do not explain the same aspect of evolutionary change.
 
-Fitness concerns the differential continuity of persistence-sustaining organisation across generations. Living systems differ in their capacity to contribute to future continuity under particular developmental and ecological conditions. Fitness identifies these differences in continuity.
+**Fitness** concerns differential historical continuity. It characterises differences in the continuity of biological variants or forms of organisation across generations without, by itself, specifying the causal processes responsible for those differences.
 
-Natural selection concerns the differential historical stabilisation of those differences. Selection does not create fitness, nor does fitness create selection. Rather, selection operates upon historically existing differences in continuity among forms of organised persistence.
+**Natural selection** concerns differential historical stabilisation. It addresses the historical differentiation associated with relevant biological differences without itself explaining how those differences arose or were maintained.
 
-The relationship can be understood as a sequence. Organised persistence generates differences in continuity. These differences constitute differences in fitness. Natural selection then differentially stabilises those differences through evolutionary time, contributing to the historical transformation of persistence-sustaining organisation.
+The distinction is important because differences in fitness and natural selection can be related without forming a fixed explanatory sequence. Identifying differential historical continuity does not by itself establish the causes of that difference, and characterising natural selection does not require fitness to function as a separate causal intermediary.
 
-APS therefore treats fitness and natural selection as complementary but distinct concepts. Fitness concerns differential continuity, whereas natural selection concerns the differential stabilisation of that continuity across generations.
----
+APS therefore treats fitness and natural selection as complementary but distinct explanatory concepts. Their biological relations must be established for the evolutionary case under investigation rather than inferred from their ordering within the APS architecture.

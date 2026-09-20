@@ -6,7 +6,8 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-04-12
+revised: 2026-09-20
+cluster: evolutionary-dynamics
 ---
 
 In standard biology, species are often treated as basic units of classification, evolution, or selection. This can give the impression that species are primary entities in the organisation of life.
@@ -19,3 +20,4 @@ Biological reality is grounded in **constraint-closed, viability-oriented system
 
 **Key Point**  
 Species describe continuity in evolving organisation; they do not constitute the units that generate or sustain it.
+

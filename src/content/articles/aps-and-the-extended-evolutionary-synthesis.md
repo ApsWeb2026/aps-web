@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-14
+revised: 2026-09-20
 cluster: philosophy-of-biology
+role: extension
 abstract: >
   The Extended Evolutionary Synthesis (EES) broadens evolutionary explanation through development, plasticity, niche construction, ecological inheritance, and organism–environment interaction. APS addresses related questions through its account of viability-oriented, constraint-closed organisation and organised persistence. This article compares the two explanatory architectures without assuming that APS grounds, completes, or occupies a more fundamental explanatory domain than evolutionary theory. APS may investigate proposed dependencies between living organisation, reproduction, inheritance, variation, selection, and historical transformation, but their explanatory significance requires target-matched assessment rather than inference from APS architecture alone.
 keyPoints:
@@ -227,4 +228,5 @@ The questions identified here are developed or applied in:
 ### Position Within APS
 
 This article belongs to the APS Comparative Explanatory Approaches family. It examines evolutionary explanation without treating living organisation as automatically prior to historical explanation. APS retains its substantive account of viability-oriented organised persistence while leaving the comparative significance of that account to target-matched assessment against the strongest relevant evolutionary alternatives.
+
 

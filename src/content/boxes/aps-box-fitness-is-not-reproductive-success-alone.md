@@ -4,7 +4,8 @@ title: Fitness Is Not Reproductive Success Alone
 slug: fitness-is-not-reproductive-success-alone
 type: box
 status: canonical
-revised: 2026-06-18
+revised: 2026-09-20
+cluster: evolutionary-dynamics
 summary: >
   Reproductive success contributes to fitness, but fitness cannot be reduced
   to reproduction alone. APS interprets fitness as the differential continuity

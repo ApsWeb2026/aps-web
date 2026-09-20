@@ -44,7 +44,7 @@ relatedArticles:
   - what-is-a-taxon-in-aps
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 
-References:
+references:
   - id: hull1980
     authors: "Hull, D. L."
     year: 1980

@@ -246,7 +246,7 @@
   },
   "articles/aps-and-the-extended-evolutionary-synthesis": {
     "hash": "4ef57ea6b96b6acc",
-    "revised": "2026-09-14",
+    "revised": "2026-09-20",
     "lockedSince": "2026-04-11"
   },
   "articles/aps-and-the-free-energy-principle": {
@@ -311,7 +311,7 @@
   },
   "articles/biological-individuality-organised-persistence-through-time": {
     "hash": "ee7e9df0f94c854c",
-    "revised": "2026-06-15",
+    "revised": "2026-09-20",
     "lockedSince": "2026-05-28"
   },
   "articles/biology": {
@@ -590,7 +590,7 @@
     "lockedSince": "2026-05-29"
   },
   "articles/inheritance-and-continuity-in-aps": {
-    "hash": "74c13ab12e1ea412",
+    "hash": "70778e16634f83df",
     "revised": "2026-09-20",
     "lockedSince": "2026-04-11"
   },
@@ -640,7 +640,7 @@
     "lockedSince": "2026-05-15"
   },
   "articles/natural-selection-an-aps-clarification": {
-    "hash": "b2f0aef59306500b",
+    "hash": "6fa7788632f3b156",
     "revised": "2026-09-20",
     "lockedSince": "2026-06-01"
   },
@@ -701,7 +701,7 @@
   },
   "articles/processual-individuality": {
     "hash": "07b95997b9689607",
-    "revised": "2026-06-15",
+    "revised": "2026-09-20",
     "lockedSince": "2026-05-28"
   },
   "articles/purpose-the-organisation-of-viability-oriented-activity": {
@@ -820,7 +820,7 @@
     "lockedSince": "2026-05-30"
   },
   "articles/variation-in-aps-where-does-novelty-come-from": {
-    "hash": "bf43d36a4cd4f842",
+    "hash": "f4c506a2b63a48b0",
     "revised": "2026-09-20",
     "lockedSince": "2026-04-11"
   },
@@ -836,7 +836,7 @@
   },
   "articles/what-counts-as-an-evolutionary-explanation": {
     "hash": "773485a86653c9ef",
-    "revised": "2026-06-22",
+    "revised": "2026-09-20",
     "lockedSince": "2026-05-15"
   },
   "articles/what-is-a-biological-system": {
@@ -1406,7 +1406,7 @@
   },
   "articles/evolution-taxonomy-and-the-reorganisation-of-biological-explanation": {
     "hash": "09af3b492d627515",
-    "revised": "2026-09-09",
+    "revised": "2026-09-20",
     "lockedSince": "2026-06-20"
   },
   "glossary/lineage": {

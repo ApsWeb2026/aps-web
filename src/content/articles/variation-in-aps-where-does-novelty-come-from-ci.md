@@ -146,7 +146,7 @@ The relationship between variation and fitness is therefore an explanatory quest
   </p>
 </div>
 
-[[box:variation-fitness-and-natural-selection]]
+[[box:variation-adaptation-fitness-selection]]
 
 Variation is the **source of novelty**, but it is inseparable from the processes that generate and constrain it.
 

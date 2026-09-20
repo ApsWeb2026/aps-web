@@ -6,31 +6,20 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-20
-revised: 2026-06-20
+revised: 2026-09-20
+cluster: evolutionary-dynamics
 ---
 
-Variation, adaptation, fitness, and natural selection describe distinct stages within the continuity architecture of evolution. Although these concepts are often treated as interchangeable, each addresses a different explanatory problem within the historical transformation of organised persistence.
+Variation, adaptation, fitness, and natural selection address distinct explanatory questions within evolutionary biology. They can be related in particular evolutionary cases, but their presentation together does not establish a fixed sequence among them.
 
-**Variation** introduces novelty into organised persistence. Developmental processes, behavioural innovations, ecological interactions, genetic changes, and countless other sources of difference generate new organisational possibilities within ongoing biological continuity. Variation explains how biological organisation becomes capable of transformation without requiring the abandonment of continuity itself.
+**Variation** concerns biological differences arising or present within continuing organisation. Developmental processes, genetic change, behaviour, ecological interaction, and other processes can contribute to such differences. Identifying variation does not by itself determine its consequences for viability or evolutionary continuity.
 
-**Adaptation** determines whether that novelty can be incorporated into viable persistence. Through continuity-preserving reorganisation, living systems modify activity in ways that maintain the conditions required for continued existence under changing circumstances. Adaptation therefore acts as the organisational bridge between novelty and persistence, ensuring that change contributes to viability rather than undermining it.
+**Adaptation** concerns continuity-preserving reorganisation under changing conditions. Adaptive activity can affect evolutionary outcomes, but adaptation is not thereby established as a necessary intermediary between variation and fitness or natural selection.
 
-**Fitness** concerns differential continuity among viable variants. Once alternative forms of organisation exist and remain viable, fitness identifies differences in their capacity to persist and reproduce through time. Fitness therefore does not explain how viability is maintained but how continuity differs among already viable alternatives.
+**Fitness** concerns differential historical continuity. It characterises differences in continuity among biological variants or forms of organisation without, by itself, specifying the causal processes that produce those differences.
 
-**Natural selection** differentially stabilises those variants historically. Selection does not create variation, adaptation, or fitness. Rather, it acts upon existing differences in continuity, contributing to the long-term distribution and retention of biological organisation across generations. Selection therefore explains why some viable forms of organisation become historically more persistent than others.
+**Natural selection** concerns differential historical stabilisation. It addresses the historical differentiation associated with relevant biological differences across generations without itself explaining how every such difference arose or was maintained.
 
-These concepts form a continuous explanatory sequence:
+Inheritance can also be relevant where the cross-generational reconstitution of biological differences matters to the evolutionary explanandum. Its relevance does not make inheritance the first stage of a universal sequence leading through variation, adaptation, fitness, and natural selection.
 
-**Inheritance**  
-↓  
-**Variation**  
-↓  
-**Adaptation**  
-↓  
-**Fitness**  
-↓  
-**Natural Selection**  
-↓  
-**Evolutionary Transformation**
-
-From an APS perspective, evolution is not produced by selection alone. Evolution emerges through the interaction of inherited continuity, organisational novelty, adaptive reorganisation, differential continuity, and historical stabilisation across time. Adaptation occupies a particularly important position within this sequence because it links novelty to viability, ensuring that evolutionary transformation remains grounded in the ongoing persistence of living organisation.
+These concepts therefore perform different explanatory roles. Their relations must be established for the biological case under investigation rather than inferred from their ordering within APS. Conceptual or expository ordering does not by itself establish temporal succession, causal priority, necessary dependency, or a universal pathway to evolutionary transformation.

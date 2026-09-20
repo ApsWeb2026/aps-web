@@ -133,7 +133,7 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-## ntroduction - Natural Selection Within Evolutionary Explanation
+## Introduction - Natural Selection Within Evolutionary Explanation
 
 Natural selection occupies a central position within evolutionary biology, but its explanatory role must be distinguished from evolution as a whole.
 

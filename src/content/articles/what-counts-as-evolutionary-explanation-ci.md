@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-22
+revised: 2026-09-20
 cluster: methodology-and-explanation
+role: clarification
 
 abstract: >
   This article clarifies what qualifies as an evolutionary explanation within
@@ -262,5 +263,6 @@ From this perspective, evolution concerns the continuity and transformation of o
 Evolutionary explanation therefore requires a broader organisational perspective. It must account not only for the outcomes of evolutionary change but also for the conditions that make such change possible. Living systems are active, viability-oriented organisations whose persistence, development, and adaptive capacities provide the foundation upon which evolutionary processes operate. Selection remains indispensable, yet it acts within a larger organisational reality that evolutionary theory must also explain.
 
 APS situates these relationships within a unified explanatory framework organised through agency, process, and scale. Evolutionary biology consequently becomes more than the study of changing populations or evolving traits. It becomes the study of how lineages of organised persistence maintain continuity, generate diversity, and transform historically across the intertwined developmental, ecological, and evolutionary processes that constitute living systems. In this way, evolutionary explanation is understood not as the explanation of change alone, but as the explanation of continuity through transformation.
+
 
 
