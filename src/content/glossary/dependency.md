@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-19
-revised: 2026-09-19
+revised: 2026-09-21
 cluster: methodology-and-explanation
 
 definition: >
@@ -45,3 +45,16 @@ An arrow or sequence in an APS diagram may represent a proposed dependency, conc
 **Proposed relation → Dependency type → Evidence → Scope → Explanatory consequence**
 
 Accordingly, an APS architectural sequence must not be interpreted as a demonstrated causal or temporal chain unless each relevant relation has independently been shown to have that character.
+
+<figure class="aps-diagram">
+  <a href="/images/dependency-table.png" target="_blank" rel="noopener">
+    <img
+      src="/images/dependency-table.png"
+      alt="Comparison of causal, constitutive, modal, organisational, normative, and statistical dependency types by explanatory priority and necessity."
+      loading="lazy"
+    />
+  </a>
+  <figcaption>
+    <strong>Table.</strong> Dependency types and their relationships to explanatory priority and necessity.
+  </figcaption>
+</figure>
