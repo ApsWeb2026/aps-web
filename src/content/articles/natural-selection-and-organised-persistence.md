@@ -1,60 +1,82 @@
 ---
-date: 2026-05-05
-title: Natural Selection and Organised Persistence
+date: 2026-06-01
+title: "Natural Selection and Organised Persistence"
 slug: natural-selection-an-aps-clarification
 type: article
 status: canonical
 canonical: true
-canonicalLockDate: 2026-05-05
-revised: 2026-06-22
+canonicalLockDate: 2026-06-01
+revised: 2026-09-20
 cluster: evolutionary-dynamics
 role: core
 
 abstract: >
-  This article situates natural selection within the broader explanatory
-  architecture of the Agency–Process–Scale (APS) framework. APS accepts natural
-  selection as a major evolutionary process while rejecting the idea that
-  selection alone explains the emergence or organisation of life. Selection
-  presupposes systems already capable of sustaining viability-oriented,
-  constraint-closed persistence across generations. Evolutionary explanation
-  therefore requires prior attention to persistence, adaptation, inheritance,
-  development, and organisational continuity. APS reframes natural selection as the historically distributed differential stabilisation of persistence-sustaining organisation whose differing fitness contributes to differential continuity across generations. Selection is therefore understood not as the foundational source of biological organisation but as one component within a broader continuity architecture linking agency, viability, organised persistence, fitness, and evolutionary transformation.
+  Natural selection occupies a specific but bounded role within evolutionary
+  explanation. APS characterises natural selection as differential historical
+  stabilisation and distinguishes it from fitness, understood as differential
+  historical continuity, and from the biological processes that generate,
+  maintain, express, or transmit relevant differences. Inheritance, variation,
+  adaptation, development, ecology, biological agency, and other processes can
+  be relevant to particular selection explanations, but their place within APS
+  does not establish a universal sequence of biological prerequisites. This
+  article situates natural selection within the historical transformation of
+  organised persistence while distinguishing explanatory architecture from
+  causal pathway, temporal succession, and necessary biological dependency.
 
 relatedGlossaryTerms:
   - natural-selection
+  - fitness
   - evolution
-  - evolutionary-organisation
-  - adaptation
-  - variation
   - inheritance
-  - viability
+  - variation
+  - adaptation
   - persistence
-  - biological-organisation
+  - viability
   - biological-agency
-  - constraint-closure
-  - process
+  - development
+  - ecology
   - scale
 
 relatedArticles:
-  - adaptation-how-living-systems-sustain-themselves-through-change
   - evolution
   - the-evolutionary-organisation-of-life
-  - explanatory-geometry-of-biology
+  - fitness-differential-continuity-and-organised-persistence
   - inheritance-and-continuity-in-aps
+  - variation-in-aps-where-does-novelty-come-from
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - selection-revisited-what-does-selection-actually-act-on
   - gene-centric-biology-and-aps
+  - the-developmental-organisation-of-life
+  - the-ecological-organisation-of-life
+  - how-aps-explains-life
+  - the-core-structure-of-aps-how-the-framework-fits-together
 
 references:
   - id: darwin1859
     authors: "Darwin, C."
     year: 1859
     title: "On the Origin of Species"
-    source: "John Murray"
+    publisher: "John Murray"
 
   - id: fisher1930
     authors: "Fisher, R. A."
     year: 1930
     title: "The Genetical Theory of Natural Selection"
-    source: "Clarendon Press"
+    publisher: "Clarendon Press"
+
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134"
+    pages: "1501–1506"
+
+  - id: williams1966
+    authors: "Williams, G. C."
+    year: 1966
+    title: "Adaptation and Natural Selection"
+    publisher: "Princeton University Press"
 
   - id: lewontin1970
     authors: "Lewontin, R. C."
@@ -63,62 +85,45 @@ references:
     journal: "Annual Review of Ecology and Systematics"
     volume: "1"
     pages: "1–18"
-    doi: "10.1146/annurev.es.01.110170.000245"
 
-  - id: mayr1997
-    authors: "Mayr, E."
-    year: 1997
-    title: "This Is Biology: The Science of the Living World"
-    source: "Harvard University Press"
+  - id: gould2002
+    authors: "Gould, S. J."
+    year: 2002
+    title: "The Structure of Evolutionary Theory"
+    publisher: "Harvard University Press"
 
-  - id: godfrey-smith2009
-    authors: "Godfrey-Smith, P."
-    year: 2009
-    title: "Darwinian Populations and Natural Selection"
-    source: "Oxford University Press"
+  - id: odlingsmee2003
+    authors: "Odling-Smee, F. J., Laland, K. N. & Feldman, M. W."
+    year: 2003
+    title: "Niche Construction: The Neglected Process in Evolution"
+    publisher: "Princeton University Press"
 
-  - id: okasha2006
-    authors: "Okasha, S."
-    year: 2006
-    title: "Evolution and the Levels of Selection"
-    source: "Oxford University Press"
-
-  - id: west-eberhard2003
+  - id: westeberhard2003
     authors: "West-Eberhard, M. J."
     year: 2003
     title: "Developmental Plasticity and Evolution"
-    source: "Oxford University Press"
+    publisher: "Oxford University Press"
 
-  - id: odling-smee2003
-    authors: "Odling-Smee, F. J., Laland, K. N., & Feldman, M. W."
-    year: 2003
-    title: "Niche Construction: The Neglected Process in Evolution"
-    source: "Princeton University Press"
+  - id: pigliucci2010
+    authors: "Pigliucci, M. & Müller, G. B."
+    year: 2010
+    title: "Evolution: The Extended Synthesis"
+    publisher: "MIT Press"
 
-  - id: oyama2000
-    authors: "Oyama, S."
-    year: 2000
-    title: "The Ontogeny of Information"
-    source: "Duke University Press"
-
-  - id: nicholson2019
-    authors: "Nicholson, D. J., & Dupré, J."
-    year: 2019
+  - id: nicholson2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford University Press"
+    publisher: "Oxford University Press"
 
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
-
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "Functions, Norms, and Teleology in Organisms"
-    source: "Elements in the Philosophy of Biology"
-    publisher: "Cambridge University Press"
+  - id: rama2024
+    authors: "Rama, T."
+    year: 2024
+    title: "Is a Cognitive Revolution in Theoretical Biology Underway?"
+    journal: "Foundations of Science"
+    volume: "30(3)"
+    pages: "719–740"
+    doi: "10.1007/s10699-024-09950-3"
 
   - id: spencer2026
     authors: "Spencer, R. D."
@@ -128,271 +133,244 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-## Natural Selection Within Evolutionary Organisation
+## ntroduction - Natural Selection Within Evolutionary Explanation
 
-Natural selection occupies an important but often misunderstood position within evolutionary explanation. APS accepts natural selection as one of the central processes responsible for evolutionary transformation while rejecting the common tendency to treat selection as equivalent to evolution itself. Selection contributes to the historical shaping of biological organisation, but it does not explain the original emergence of living systems, the maintenance of viability, or the organisational conditions that make evolutionary change possible. This article examines the role of natural selection within the broader continuity architecture explored throughout the Evolutionary Dynamics cluster.
+Natural selection occupies a central position within evolutionary biology, but its explanatory role must be distinguished from evolution as a whole.
 
-Natural selection remains one of the most powerful explanatory concepts in modern biology. Since Darwin, evolutionary theory has shown how differential reproductive success can transform populations across generations, producing adaptation, diversification, lineage change, and the extraordinary variety of living forms observed across evolutionary history.
+Selection concerns historical differences among biological variants, populations, or lineages. Across generations, some differences become more historically established while others become less prominent or disappear. These processes can contribute substantially to evolutionary transformation without thereby explaining every biological condition or process involved in producing that transformation.
 
-APS fully accepts these achievements.
+APS therefore treats natural selection as an important evolutionary process while resisting two different explanatory expansions. The first is to treat selection as equivalent to evolution itself. The second is to treat whatever selection does not explain as automatically forming a biologically prior sequence of prerequisites.
 
-However, APS argues that evolutionary explanation becomes incomplete when natural selection is treated as the foundational source of biological organisation itself. Selection explains why some forms of organisation persist historically while others disappear. It does not explain how viable organisation first becomes possible, how persistence is maintained within living systems, or how developmental and ecological continuity are reproduced across generations.
+Both expansions obscure the explanatory target.
 
-Before selection can occur, there must already exist systems capable of sustaining viability-oriented organised persistence. Living systems must maintain themselves, reproduce developmental continuity, generate variation, and reorganise activity adaptively under changing conditions. Natural selection therefore presupposes organised persistence rather than creating it.
+Natural selection does not, merely by definition, explain the original emergence of living organisation. Nor does it by itself explain how every selectable difference arises, how organisms maintain viability, how organisation develops, how relevant differences are inherited, or how ecological circumstances affecting differential outcomes are produced. These can be important evolutionary questions without becoming components of the definition of selection.
 
-This distinction is fundamental to the APS reframing of evolutionary explanation.
+Conversely, identifying biological conditions or processes relevant to natural selection does not establish that every such condition is a universal prerequisite of selection. APS distinguishes the definition of selection, the minimal conditions of a specified selection process, the processes that generate or maintain relevant differences, and the wider relations required for a particular evolutionary explanation. These relations must be established for the explanandum at issue rather than inferred from their position within the APS architecture.
 
-## The Standard View of Natural Selection
+The purpose of this article is therefore bounded. It asks what natural selection explains, how it differs from fitness and other evolutionary concepts, and how its contribution can be situated within evolutionary organisation without turning that organisation into a universal causal or dependency chain.
 
-Natural selection is commonly understood as the differential reproduction of heritable variants within populations. Variation generates differences among organisms, environmental conditions favour some variants over others, and traits that contribute to reproductive success tend to increase in frequency over time.
+## What Natural Selection Explains
 
-This framework possesses extraordinary explanatory power. It explains adaptive fit between organisms and environments, ecological diversification, lineage transformation, and large-scale evolutionary change. Population genetics and evolutionary modelling have provided increasingly sophisticated descriptions of these historical processes.
+APS characterises natural selection as differential historical stabilisation.
 
-APS accepts these achievements while arguing that they often leave implicit the organisational conditions that make selection biologically possible in the first place. Selection can explain differential continuity among viable systems, but it cannot explain the existence of viability itself. The living organisation upon which selection operates must already be present before evolutionary filtering can occur.
+The formulation is deliberately historical. Selection concerns differences whose consequences extend across generations. Where relevant biological differences are associated with differential continuation, reproduction, or representation through time, their historical distributions can change. Some variants or forms of organisation become more established within continuing populations or lineages while others become less so.
 
-## The APS Reframing
+Differential historical stabilisation identifies this explanatory role without treating selection as the source of all the differences upon which it operates.
 
-In APS, natural selection is understood as the historically distributed differential stabilisation of lineages of persistence-sustaining organisation whose differing fitness contributes to differential continuity across generations.
+The distinction matters because several questions can otherwise become compressed into one. How did a difference arise? How is it maintained or reproduced? How does it affect the viability or reproduction of organisms under particular conditions? How does its frequency or historical representation change? These questions can be related, but they are not identical.
 
-This formulation connects natural selection directly to the APS understanding of fitness. Fitness concerns the differential continuity of persistence-sustaining organisation across generations. Natural selection contributes to evolutionary transformation by differentially stabilising forms of organised persistence whose fitness supports greater historical continuity under particular developmental and ecological conditions. Fitness therefore identifies differences in the continuity of persistence-sustaining organisation, while natural selection describes the differential historical stabilisation of those differences through evolutionary time.
+Natural selection addresses the historical differentiation associated with such differential outcomes. Explaining that differentiation may require information about the others, but their relevance must be established in the biological case being investigated.
 
-This reformulation preserves the explanatory strengths of evolutionary theory while situating selection within a broader organisational framework. Selection does not generate biological organisation from nothing. It operates only within systems already capable of persistence, inheritance, variation, adaptation, development, and biological agency.
-
-Natural selection therefore does not explain the original existence of viable organisation. Instead, it acts upon historically existing forms of organised persistence, influencing which forms contribute more successfully to future continuity. Selection describes the differential stabilisation of continuity among populations of viable systems rather than the creation of viability itself.
+Selection therefore does not need to be treated as either an all-encompassing explanation of evolution or an external force acting independently of living systems. It identifies a historical evolutionary relation whose material basis lies in the organisms, populations, environments, and other biological processes involved in the case.
 
 [[box:natural-selection-as-differential-stabilisation]]
 
-The viability-oriented organisation upon which selection operates is itself a historical product of evolutionary processes. Living systems inherit developmental, physiological, ecological, and behavioural organisations that have been stabilised and transformed across evolutionary time. Natural selection therefore acts not merely upon present forms of organisation but upon historically evolved configurations whose origins extend across earlier episodes of evolutionary continuity and change.
-
-From this perspective, natural selection is a major evolutionary process but not the foundational source of biological organisation. Evolutionary organisation emerges from the interaction of inheritance, variation, adaptation, development, ecological interaction, and historical continuity. Selection contributes to this larger architecture without exhausting it.
+This formulation also preserves an important distinction between description and explanation. Identifying a historical difference in the representation or continuity of variants does not by itself explain how that difference was produced. Conversely, identifying mechanisms producing biological differences does not by itself establish that natural selection occurred.
 
 [[box:description-is-not-explanation]]
 
-## What Natural Selection Presupposes
+Natural selection therefore occupies a specific explanatory position. It concerns differential historical stabilisation, while the causes and conditions responsible for the relevant differences and their consequences remain additional explanatory questions.
 
-For natural selection to occur, several organisational conditions must already be present.
+## Fitness and Differential Historical Continuity
 
-### Persistence
+Fitness and natural selection are closely related, but they should not be conflated.
 
-Living systems must first be capable of maintaining organised persistence across time. They are not static objects but continuously regenerated processes whose activities contribute to sustaining viability under changing conditions. Without persistence there can be no continuity upon which selection can operate.
+APS characterises fitness as differential historical continuity. Fitness concerns differences in the historical continuity of biological variants, lineages, or forms of organisation across generations. Natural selection concerns the differential historical stabilisation associated with such differences.
 
-### Fitness
+The distinction prevents fitness from becoming an unexplained causal force. To identify a difference in fitness is to identify a difference relevant to historical continuity. It does not by itself identify all the biological processes responsible for producing that difference.
 
-Natural selection also presupposes differences in fitness among forms of organised persistence. Fitness concerns the differential continuity of persistence-sustaining organisation across generations. Some forms of organisation contribute more effectively to future continuity under particular developmental and ecological conditions than others. These differences in continuity do not arise from selection itself. Rather, they emerge from the viability, developmental organisation, adaptive capacities, and ecological relations of living systems.
+The causes of differential continuity can vary. They may involve physiological organisation, development, behaviour, environmental circumstances, reproduction, ecological interaction, or other materially realised relations. Which of these matters, and how, is a question for the particular evolutionary explanandum.
 
-This distinction is important because fitness and natural selection perform different explanatory roles. Fitness concerns differences in continuity among forms of organised persistence. Natural selection concerns the differential historical stabilisation of those differences across populations and generations. Fitness therefore helps explain why some forms of organised persistence contribute more effectively to future continuity, while natural selection helps explain how those differences become historically consequential within evolutionary transformation.
+Fitness therefore characterises differential historical continuity without automatically explaining its production.
+
+Natural selection addresses a related but distinguishable question: how do historically consequential differences become differentially stabilised across generations?
+
+This also means that fitness should not be described as a causal bridge connecting organised persistence to selection. Such a formulation would move too quickly from characterising differential continuity to specifying its causal role. Fitness and selection can be related without collapsing description, causation, and historical consequence into a single explanatory sequence.
 
 [[box:fitness-and-natural-selection]]
 
-### Adaptation
+Keeping the concepts separate allows evolutionary explanation to ask more precise questions. What differs in historical continuity? What produces that difference? Under what conditions is the difference maintained or inherited? And how does differential historical stabilisation alter the subsequent history of the population or lineage?
 
-Living systems must also be capable of adaptive reorganisation. Organisms continually modify and regulate their activities in response to perturbation, instability, and environmental variation. Selection does not generate this adaptive activity. Rather, it registers the historical consequences of adaptive organisation across populations and generations.
+Fitness and natural selection contribute different answers within that wider inquiry.
 
-### Inheritance
+## What Selection Does Not Explain
 
-Selection presupposes inheritance because continuity must be reproduced across generations. Developmental and reproductive processes reconstitute the organisational conditions through which viable persistence remains historically continuous. Selection can influence inherited organisation only because inheritance already sustains continuity through time.
+Clarifying natural selection also requires identifying its explanatory boundaries.
 
-### Variation
+Natural selection does not explain the original emergence of life merely by being a process involved in later evolutionary histories. The existence of selection among living systems is not itself an explanation of how living organisation first arose.
 
-Variation must arise within viable organisational boundaries. Development, physiology, behaviour, ecological interaction, and environmental coupling all contribute to the generation of difference. Variation is therefore not merely unconstrained randomness but structured diversification emerging within persistence-sustaining organisation.
+Selection likewise does not, merely by definition, explain how organisms maintain themselves as living systems. Viability-oriented activity, physiological regulation, development, repair, behaviour, and other processes can be necessary to understanding the organisms involved in a particular evolutionary case, but these processes should not simply be redescribed as products or components of selection.
 
-### Biological Agency
+Nor does selection itself generate every difference upon which differential historical outcomes depend. Variation has biological sources that require their own explanation. Developmental processes, mutation, recombination, physiological organisation, behaviour, environmental interaction, and other processes can contribute to biological difference in different cases.
 
-Living systems actively regulate physiology, behaviour, development, reproduction, and environmental interaction relative to viability constraints. Selection acts historically upon the consequences of this viability-oriented activity. It does not replace agency with external optimisation. Without agency there would be no organised activity through which persistence could be maintained in the first place.
+Selection also does not by itself establish why a particular difference affects historical continuity. That requires an account of the materially realised relations through which the difference bears upon reproduction, survival, development, ecological interaction, or whatever other processes are relevant to the specified evolutionary outcome.
 
-Natural selection therefore depends upon organisational conditions that it does not itself explain. Agency, viability, organised persistence, fitness, adaptation, inheritance, development, and variation collectively establish the continuity architecture within which selection operates.
+These limits do not diminish the explanatory role of natural selection. They locate it.
+
+The mistake would be to convert those limits into a reverse hierarchy in which every process not explained by selection becomes a universally necessary prerequisite of selection. The fact that selection does not explain the origin of living organisation, for example, does not establish from APS architecture alone a universal biological sequence running from agency through viability, organised persistence, adaptation, fitness, selection, and evolutionary transformation.
+
+Selection has explanatory boundaries. Those boundaries should be respected without turning them into an unsupported dependency chain.
+
+## Conditions and Processes Relevant to Selection
+
+Biological conditions can be relevant to selection processes, but their explanatory role should be specified rather than supplied by a fixed architectural list.
+
+A selection explanation ordinarily identifies the relevant differences, the historical context in which those differences occur, and the differential consequences whose historical pattern is being explained. The precise formulation of these conditions depends upon the selection process and explanandum being investigated.
+
+Beyond these considerations, additional biological processes may become explanatory.
+
+Inheritance matters when the persistence or recurrence of relevant differences across generations depends upon inherited organisation. APS understands inheritance as the cross-generational reconstitution of continuity. In a selection explanation, the relevant question is therefore not whether inheritance occupies a predetermined position before selection, but what is inherited, how reliably the relevant difference is reconstituted, and how that relation bears upon the historical outcome.
+
+Variation matters because differential stabilisation concerns differences. Yet identifying variation does not determine how those differences arose or what their consequences will be. The generation of variation and the selection of variants remain distinguishable explanatory questions.
+
+Adaptation can matter when continuity-preserving reorganisation under changing conditions affects the historical continuity of biological variants or lineages. But adaptation should not be inserted automatically between variation and fitness or treated as a universal precursor of selection. Its evolutionary relevance depends upon the case.
+
+Development matters where developmental organisation generates, constrains, expresses, or reconstitutes differences relevant to differential historical outcomes. It can therefore be indispensable to particular explanations without being declared a universal prerequisite of natural selection.
+
+Ecological relations matter where environmental conditions, resources, competitors, symbionts, predators, or other organism–environment relations affect the differential historical consequences being explained. Again, their relevance is material and target-dependent.
+
+Biological agency can matter where viability-oriented activity changes the conditions relevant to differential continuity. Behaviour, regulation, environmental modification, reproduction, or other organismal activities may contribute to a selection process. But the general APS definition of biological agency does not by itself establish that agency occupies one universal causal position before natural selection.
+
+These distinctions preserve the biological richness of evolutionary explanation while preventing explanatory architecture from becoming an assumed causal hierarchy.
 
 [[box:evolutionary-organisation-is-not-a-mechanism]]
 
-## Persistence Before Selection
+The central question is therefore not simply what selection "presupposes". It is which biological relations must be represented to explain the particular selection process under investigation.
 
-APS reverses the explanatory order often assumed within selection-first accounts of evolution. Traditional presentations often begin with differential reproduction and then proceed to explain adaptation, diversification, and evolutionary change. APS argues that such accounts leave an important explanatory question unanswered. Before differential reproduction can occur, there must already exist systems capable of sustaining themselves across time.
+## Adaptation, Variation, and Selection
 
-Selection does not produce persistence. Persistence makes selection possible.
+Variation, adaptation, fitness, and natural selection are often closely related in evolutionary cases, but they answer different questions.
 
-Organised systems must already exist before differential continuity across generations can emerge. Evolutionary explanation therefore cannot begin solely with selection, fitness, or gene-frequency change. It must also explain how systems maintain viability, how developmental continuity is reproduced, and how organised persistence remains sufficiently stable for historical transformation to occur.
+Variation concerns biological differences arising within continuing histories. It does not by itself determine whether those differences affect historical continuity.
 
-This shift in explanatory emphasis does not diminish the importance of natural selection. Rather, it clarifies its proper role within evolutionary organisation. Selection acts upon living systems whose continuity has already been established through ongoing processes of viability-oriented activity. The existence of such systems is explanatorily prior to the historical filtering that selection describes.
+Adaptation concerns continuity-preserving reorganisation under changing conditions. Adaptive activity can affect evolutionary outcomes, but its presence does not establish a universal sequence in which variation first produces adaptation and adaptation then produces fitness.
 
-Natural selection therefore presupposes the biological organisation whose differential persistence it later influences.
+Fitness concerns differential historical continuity. It identifies differences in historical continuity without, by itself, specifying the causal processes responsible for them.
 
-## Adaptation and Differential Stabilisation
+Natural selection concerns differential historical stabilisation. It addresses the historical consequences associated with relevant differences across generations.
 
-APS distinguishes carefully between adaptation and natural selection because the two concepts refer to different aspects of evolutionary organisation.
+These distinctions matter because the concepts can otherwise be arranged into an apparently self-explanatory progression:
 
-Adaptation concerns the active reorganisation of viability-oriented systems under changing conditions. Organisms continually regulate, modify, and restructure their activities in ways that contribute to maintaining persistence. These adaptive processes occur within the present and reflect the ongoing agency of living systems.
+variation → adaptation → fitness → natural selection → evolutionary transformation.
 
-Natural selection, by contrast, operates historically. Selection does not generate adaptive responses directly. Instead, it describes the differential stabilisation of some adaptive organisations relative to others across populations and generations. Adaptation produces organisational possibilities. Selection influences which of those possibilities contribute more successfully to future continuity.
+APS does not treat that ordering as a demonstrated biological pathway.
 
-This distinction helps clarify a common source of confusion within evolutionary explanation. Adaptation is often treated as though it were produced by selection itself. APS instead argues that adaptive organisation and historical filtering occupy different explanatory positions. Adaptive activity makes persistence possible in the present. Selection influences the long-term historical consequences of those adaptive activities.
+In a particular case, variation may affect adaptive organisation; adaptive differences may affect reproduction or survival; these differences may be associated with differential historical continuity; and selection may describe their differential stabilisation. But each connection is a biological claim requiring its own warrant.
 
-Natural selection therefore depends upon adaptive organisation without constituting its original source.
+Other cases may involve different relations. A difference can affect fitness without being usefully characterised as adaptive. Adaptive reorganisation need not become heritable or evolutionarily consequential. Variation can arise without contributing to differential historical continuity. Selection can operate on differences whose developmental, ecological, behavioural, or physiological causes require explanation at other levels.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-concepts.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-concepts.png"
-      alt="Variation, adaptation, fitness, natural selection, and evolutionary transformation as a continuity-preserving sequence within the APS evolutionary architecture"
-      loading="lazy"
-    />
-  </a>
+The explanatory task is therefore to establish the relations present in the case, not to infer them from the order in which evolutionary concepts are introduced.
 
-  <p class="aps-diagram-caption">
-    <strong>Evolutionary Concepts Visual.</strong>
-    APS distinguishes variation, adaptation, fitness, and natural selection as successive explanatory moments within a continuity-preserving architecture. Variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises those variants across evolutionary time.
-  </p>
-</div>
+This is why natural selection can remain important without becoming the organising cause of every other evolutionary process.
 
+## Inheritance, Development, and the Generation of Difference
 
-## Selection Within Evolutionary Organisation
+Inheritance and development can matter to selection where the origin, expression, or cross-generational recurrence of biological differences bears upon their historical consequences.
 
-The distinction between adaptation and selection points toward a broader insight. Natural selection is not an isolated evolutionary principle operating independently of other biological processes. It functions within a larger architecture of evolutionary organisation.
+These relations nevertheless require specification.
 
-Inheritance preserves continuity across generations. Variation generates alternative organisational possibilities. Adaptation enables living systems to maintain viability under changing conditions. Development reproduces and transforms continuity across lifecycles. Ecological interaction shapes the conditions under which persistence occurs. Selection contributes to this larger architecture by influencing which lineages of organised persistence remain historically continuous.
+Inheritance does not consist simply in the transfer of static structures. APS treats it as cross-generational reconstitution of continuity. Development participates in that reconstitution by contributing to the formation and maintenance of organisms in each generation.
 
-Fitness occupies an important position within this architecture because it links organised persistence to differential continuity. Adaptation, development, inheritance, and ecological interaction all contribute to the continuity-producing capacities of living systems. Fitness reflects differences in those capacities, while natural selection differentially stabilises the resulting differences in continuity across generations.
+For selection explanations, the relevant question is what role these processes play in generating or maintaining the differences under investigation.
 
-This relationship helps clarify why fitness and selection should not be conflated. Fitness concerns differences in the continuity of persistence-sustaining organisation, whereas natural selection concerns the historical stabilisation of those differences. Fitness therefore helps explain how organised persistence contributes unequally to future continuity, while selection helps explain how those unequal contributions become historically amplified through evolutionary time.
+Some differences depend strongly upon developmental organisation. Others arise through genetic, physiological, behavioural, ecological, or environmental processes. Many involve interactions among several of these. The fact that development is involved in the production of organisms does not require every selection explanation to become a complete developmental explanation.
 
-Evolutionary organisation therefore cannot be reduced to natural selection alone. Selection remains indispensable, but it operates alongside a network of interacting processes that collectively sustain historical continuity. Evolution is not explained by a single mechanism but by the integrated organisation through which living systems persist, diversify, adapt, and transform across time.
+Likewise, the importance of inheritance depends upon the historical relation being explained. Where relevant differences are reliably reconstituted across generations, inheritance can be central to explaining their persistence. Where selection analyses concern other forms of recurrence, transmission, or population structure, the relevant inheritance relation must be identified rather than assumed.
 
-Understanding natural selection therefore requires understanding the larger continuity architecture within which it operates.
+The same principle applies to variation. Evolutionary differences do not exist independently of biological systems, but this does not make all variation the product of one organisational process. Mutation, recombination, developmental dynamics, physiological change, behaviour, ecological interaction, and environmental circumstances can contribute differently to variation.
 
-## Inheritance and Development
-
-Natural selection presupposes developmental continuity as well as inheritance.
-
-Living systems do not simply transmit static structures from one generation to the next. They reproduce developmental organisations capable of regenerating viable persistence across changing circumstances. Development therefore forms a critical bridge connecting persistence, inheritance, adaptation, variation, and evolutionary transformation.
-
-Because developmental processes actively reconstruct living organisation, evolutionary continuity cannot be reduced to the transmission of genetic information alone. The persistence of lineages depends upon developmental systems that repeatedly generate viable organisms capable of maintaining themselves and reproducing future continuity.
-
-Selection acts historically upon systems whose developmental organisation already enables viable reproduction, organisational continuity, and adaptive reorganisation. Evolutionary explanation therefore requires attention not only to inheritance but also to the developmental processes through which inherited organisation becomes biologically realised.
-
-This perspective helps explain why APS treats development as an indispensable component of evolutionary organisation rather than as a secondary consequence of genetic transmission.
+The generation of selectable differences and their differential historical stabilisation are therefore related but distinct explanatory problems.
 
 [[box:multiple-realization-and-organised-persistence]]
 
-## Variation Within Organised Systems
+Keeping them distinct allows development and inheritance to enter evolutionary explanation where they materially matter without turning them into fixed stages in a universal selection architecture.
 
-APS also reframes variation organisationally.
+## Selection, Scale, and Explanatory Extent
 
-Variation is often described as the raw material upon which natural selection acts. Although this description captures an important aspect of evolutionary theory, it can create the misleading impression that variation exists independently of the systems within which it arises.
+Natural selection can involve relations extending across different spatial and temporal extents.
 
-APS instead treats variation as structured diversification emerging within viability-oriented organisation itself.
+A selection explanation may require attention to molecular differences, organismal organisation, populations, lineages, developmental processes, ecological interactions, or other biological relations. But the existence of such possibilities does not mean that natural selection is inherently a multiscale mechanism or that every selection explanation must include every scale.
 
-Differences arise through developmental dynamics, physiological organisation, behavioural activity, ecological interaction, and environmental coupling. Living systems actively participate in generating the forms of variation available for evolutionary transformation. Variation therefore emerges within already ongoing systems of organised persistence rather than appearing independently of them.
+In APS, Scale asks where persistence-relevant relations are organised across space and time. It does not itself identify a mechanism or causal agent.
 
-Stochastic processes undoubtedly contribute to variation, but viable variation remains constrained by the organisational conditions required for persistence. Many possible changes never become biologically relevant because they fail to support continuity. Evolutionary variation is therefore shaped not only by randomness but also by the organisational requirements that living systems must satisfy in order to remain viable.
+The explanatory extent required for natural selection is therefore target-dependent. If a relation at another scale materially affects the differential historical stabilisation being explained, that relation belongs within the explanation. If it makes no relevant explanatory difference, its inclusion is not warranted merely because biological organisation elsewhere spans multiple scales.
 
-Natural selection filters among these organisational possibilities. It does not act upon arbitrary differences in abstraction but upon differences emerging within historically continuous systems capable of sustaining organised persistence.
+This prevents two opposite simplifications.
 
-Evolutionary variation is not identical to mutation. Mutational change provides one source of biological difference, but variation emerges through developmental, physiological, behavioural, and ecological organisation. Novel evolutionary forms arise when viable systems generate new organisational possibilities rather than merely recombining existing traits. Variation therefore represents an organisational process through which evolutionary possibilities are continually expanded and transformed.
+Selection need not be confined in advance to one privileged level of biological description. Genes, organisms, populations, lineages, developmental systems, and ecological relations can each become relevant to particular evolutionary questions.
 
-## Selection Within the Continuity Architecture
+But neither should selection automatically be described as a scale-distributed process simply because these different domains exist. Whether and how they participate is an empirical and explanatory question.
 
-At this point a broader pattern becomes visible. Natural selection does not stand apart from the organisation of life. It operates within a continuity architecture whose components are already required before evolutionary filtering can occur.
-
-Persistence makes selection possible by maintaining continuity through time. Adaptation generates the organisational possibilities upon which selection acts. Inheritance reproduces continuity across generations. Development regenerates viable organisation within each lifecycle. Variation introduces alternative forms of organisation, while biological agency contributes the viability-oriented activity through which living systems sustain themselves under changing conditions.
-
-Biological agency sustains the viability-oriented activity through which living systems maintain the conditions of their own persistence. Viability enables organised persistence. Fitness reflects differences in the continuity of such persistence across generations. Natural selection then differentially stabilises those differences, contributing to evolutionary transformation through time.
-
-Selection therefore occupies an important position within evolutionary organisation without constituting the whole of evolutionary explanation. It operates within a broader continuity architecture whose explanatory structure extends from agency and viability through organised persistence and fitness to natural selection and evolutionary transformation.
-
-Selection therefore occupies an important position within evolutionary organisation without constituting the whole of evolutionary explanation. It operates within a broader continuity architecture whose explanatory structure extends from agency and viability through organised persistence and fitness to natural selection and evolutionary transformation.
-
-This perspective helps clarify why APS rejects both selection-first and gene-first accounts of evolution. Selection remains indispensable, but it operates within a broader network of developmental, ecological, behavioural, and organisational processes that collectively sustain historical continuity. Understanding selection therefore requires understanding the larger continuity architecture within which it functions.
-
-<div class="aps-diagram aps-diagram-large">
-
-  <a href="/assets/diagrams/evolution-natural-selection.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-natural-selection.png"
-      alt="Natural Selection Within Evolutionary Organisation showing natural selection operating within evolutionary organisation and contributing to differential historical continuity."
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    <strong>Natural Selection Within Evolutionary Organisation.</strong>
-    Natural selection does not create biological organisation. It operates
-    within already existing systems of persistence, adaptation, inheritance,
-    development, variation, and agency, influencing which forms of organised
-    persistence remain more historically continuous than others across
-    generations.
-  </p>
-
-</div>
-
-## Natural Selection Across Scale
-
-Natural selection operates across interacting biological scales rather than within a single privileged domain of organisation. Evolutionary continuity depends upon processes occurring within developmental systems, physiological regulation, behavioural coordination, ecological interaction, and environmental modification. Selection therefore acts within a multiscale architecture extending across organisms, populations, lineages, and ecological systems.
-
-This perspective challenges attempts to locate evolutionary explanation exclusively at any one scale. Genes participate in evolutionary organisation, but they do not exhaust it. Organisms contribute to evolutionary continuity, but they do not constitute its sole explanatory locus. Populations provide important historical contexts, yet they too remain embedded within larger developmental and ecological systems.
-
-APS therefore treats natural selection as a scale-distributed process operating across interconnected forms of organisation. Evolutionary outcomes emerge through interactions among these domains rather than through processes confined to a single level of analysis.
-
-Selection influences continuity across scale-coupled systems distributed through organisms, populations, developmental trajectories, and ecological relations. Understanding its effects therefore requires attention to the broader organisational architecture within which evolutionary continuity unfolds.
+Scale therefore helps specify the extent of a selection explanation without predetermining its causal architecture.
 
 [[box:spatiotemporal-organisation-and-scale]]
 
 ## Selection, Constraint, and Non-Optimality
 
-APS also rejects the common tendency to interpret natural selection as a process that produces perfect optimisation.
+Natural selection does not entail biological perfection.
 
-Living systems persist under developmental constraints, ecological contingencies, trade-offs, historical path dependencies, and changing environmental conditions. Evolutionary outcomes therefore reflect the interaction of selection with a wide range of organisational factors that limit and channel possible trajectories of change.
+Evolutionary histories unfold under constraints, contingencies, trade-offs, inherited structures, changing environments, and path-dependent conditions. These can limit or channel the differences available and alter their historical consequences.
 
-Selection does not identify ideal solutions existing independently of biological history. Instead, it contributes to the stabilisation of forms of organisation that remain sufficiently viable under particular historical circumstances. What persists is not necessarily optimal but workable relative to the conditions under which continuity must be maintained.
+The forms that persist through evolutionary time therefore need not represent ideal solutions to biological problems. They can be workable arrangements whose historical continuity depends upon the conditions under which organisms live, develop, reproduce, and interact.
 
-This perspective helps explain why biological systems often display compromise, redundancy, fragility, and historical contingency. Evolutionary history reflects the continual negotiation of viability under changing constraints rather than the progressive movement toward perfection.
+This matters because differential historical stabilisation should not be confused with movement toward a predetermined optimum.
 
-Natural selection therefore contributes to the maintenance of historically viable organisation rather than the production of idealised biological designs.
+Selection can contribute to the historical establishment of forms that persist more successfully under particular circumstances without producing globally optimal organisation. Changes in circumstances can alter those relations, and features that contribute to continuity in one context may not do so in another.
 
-## Natural Selection Within the APS Explanatory Grammar
+Constraint and contingency are therefore compatible with an important role for natural selection. They help specify the historical conditions within which differential stabilisation occurs.
 
-APS situates natural selection within a broader explanatory grammar organised through Agency, Process, and Scale.
+Natural selection remains a process of historical differentiation, not a guarantee of perfection.
 
-Agency asks what living systems do to sustain their own persistence. Process explains how continuity is maintained despite continual material and organisational change. Scale reveals how persistence is distributed across developmental, ecological, organismal, and historical domains. Natural selection contributes to this explanatory framework by describing one of the principal ways continuity becomes historically differentiated across generations.
+## Natural Selection Within APS Evolutionary Organisation
 
-Within this explanatory grammar, fitness functions as the bridge linking organised persistence to differential historical continuity. Fitness concerns differences in the continuity of persistence-sustaining organisation across generations, whereas natural selection concerns the differential historical stabilisation of those differences. Fitness identifies differences in continuity among forms of organised persistence, while natural selection explains how those differences become historically amplified through evolutionary time.
+The APS evolutionary synthesis is organised around a common explanandum: the historical transformation of organised persistence.
 
-Selection therefore occupies an important but limited position within biological explanation. It neither replaces agency nor eliminates the need for developmental, ecological, and organisational analysis. Instead, it contributes a specifically historical perspective on how forms of organised persistence become differentially stabilised over evolutionary time.
+Within that synthesis, natural selection has a specific explanatory role.
 
-From this perspective, natural selection is not an isolated principle standing apart from the rest of biology. It is one component within a larger explanatory architecture concerned with understanding how living systems maintain, reproduce, transform, and extend continuity across time.
+Inheritance concerns cross-generational reconstitution of continuity. Variation concerns difference within continuing histories. Adaptation concerns continuity-preserving reorganisation under changing conditions. Fitness concerns differential historical continuity. Natural selection concerns differential historical stabilisation. Evolution concerns the historical transformation of organised persistence.
 
-Evolutionary explanation therefore requires integration across persistence, adaptation, inheritance, development, variation, ecological interaction, and historical transformation. Selection contributes to this explanatory structure without exhausting it.
+These distinctions organise explanatory questions. They do not establish a universal biological sequence.
+
+The relations among them must instead be determined for particular evolutionary explananda. In some cases inheritance will be central to understanding how a selected difference persists across generations. In others developmental organisation will be necessary to explain how that difference is produced. Ecological circumstances may determine why it has particular consequences. Behaviour or other forms of biological agency may alter those circumstances. Fitness may characterise the resulting differential continuity, while natural selection concerns its historical stabilisation.
+
+Such relations can be causally and explanatorily important without following one predetermined APS pathway.
+
+The same applies to Agency, Process, and Scale. These are complementary analytic projections of living organisation, not successive causes of evolution. Agency can direct attention to viability-oriented activity relevant to an evolutionary case. Process can direct attention to the organisation of continuity through change. Scale can identify where relevant relations are organised across space and time. None of these analytic perspectives, merely by occupying a place within APS, establishes the causal structure of a selection process.
+
+The explanatory contribution of APS here is therefore architectural in a restricted sense. It distinguishes questions and relation types that might otherwise be conflated. It does not replace the biological evidence required to determine which relations actually obtain.
+
+Natural selection has an important role within evolutionary explanation because differential historical stabilisation can contribute to evolutionary transformation. Making its explanatory boundaries explicit clarifies rather than diminishes that role.
 
 ## Implications for Evolutionary Explanation
 
-Repositioning natural selection within APS has several important consequences for evolutionary theory.
+Several consequences follow from this reconstruction.
 
-First, it restores organised persistence as the primary target of evolutionary explanation. Evolutionary processes operate upon systems that are already engaged in maintaining their own continuity, and understanding those systems requires attention to the organisational conditions that make persistence possible.
+First, natural selection should be distinguished from evolution as a whole. Selection concerns differential historical stabilisation; evolution concerns the broader historical transformation of organised persistence.
 
-Second, it clarifies that viability precedes selection. Differential continuity can occur only among systems capable of remaining sufficiently organised to participate in evolutionary history. The existence of viable organisation therefore remains explanatorily prior to the historical filtering that selection describes.
+Second, fitness and selection should remain distinct. Fitness characterises differential historical continuity, whereas selection concerns the historical stabilisation associated with such differences. Neither definition, by itself, specifies all the causes producing differential continuity.
 
-Third, it clarifies the role of fitness within evolutionary explanation. Fitness concerns the differential continuity of persistence-sustaining organisation across generations, whereas natural selection concerns the differential historical stabilisation of those differences in continuity. Fitness therefore links organised persistence to evolutionary transformation by identifying differences in continuity among forms of organised persistence. Natural selection then helps explain how those differences become historically consequential through evolutionary time.
+Third, the generation of biological differences should be distinguished from their differential historical consequences. Variation, development, physiology, behaviour, inheritance, ecological interaction, and other processes can contribute to the production or maintenance of relevant differences. Selection does not replace explanations of those processes.
 
-Fourth, it integrates development more fully into evolutionary explanation. Development is not merely an intermediary between genes and adult traits but an essential component of the continuity architecture through which living organisation is reproduced and transformed across generations.
+Fourth, explanatory extent should be determined by the target. Developmental, ecological, organismal, behavioural, social, or multiscale relations belong within a selection explanation when they materially affect the historical differentiation being explained, not merely because they form part of biological organisation more generally.
 
-Finally, APS avoids attributing ontological primacy to statistical summaries. Population-level descriptions remain indispensable for evolutionary analysis, but they do not replace the living systems whose organised activities generate evolutionary processes in the first place.
+Finally, explanatory boundaries should not be converted into reverse causal hierarchies. Showing that selection does not explain viability, development, inheritance, adaptation, or agency does not establish that these concepts collectively form one universally necessary sequence prior to selection.
 
-Viability should not be equated with simple survival or longevity. Different organisms realise viability through different life-history strategies, including forms of reproduction that may involve substantial physiological cost or even post-reproductive death.
-
-These revisions do not weaken evolutionary theory. Instead, they deepen its explanatory structure by clarifying the organisational conditions that evolutionary processes presuppose.
-
-Natural selection remains indispensable. Its role simply becomes more precisely situated within the larger organisation of life.
+These controls allow natural selection to retain its evolutionary role while keeping different explanatory questions distinct.
 
 ## Conclusion
 
-Natural selection is not the origin of biological organisation but the historically distributed differential stabilisation of organised persistence.
+Natural selection is a major process in evolutionary explanation.
 
-Selection operates only where living systems already exist as viability-oriented, persistence-sustaining, developmentally continuous, adaptively reorganising, and biologically agential systems. Evolutionary history therefore presupposes organisational conditions that natural selection itself does not explain.
+APS characterises it as differential historical stabilisation: the historical differentiation through which relevant biological differences become more or less established across generations.
 
-APS does not reject natural selection. On the contrary, it recognises selection as one of the central processes through which evolutionary continuity becomes historically differentiated across generations. What APS rejects is the tendency to treat selection as the sole or foundational source of biological organisation.
+This role should be distinguished both from evolution as a whole and from the processes that generate, maintain, express, or transmit the differences involved.
 
-The broader continuity architecture of life remains explanatorily prior. Biological agency sustains the viability-oriented activity through which living systems maintain the conditions of their own persistence. Viability enables organised persistence. Development regenerates continuity across lifecycles, while inheritance reproduces continuity across generations and sustains historically continuous lineages of organised persistence. Adaptation reorganises persistence under changing conditions. Fitness reflects differences in the continuity of those lineages, and natural selection differentially stabilises those differences through evolutionary time.
+Fitness concerns differential historical continuity. Variation concerns difference within continuing biological histories. Adaptation concerns continuity-preserving reorganisation under changing conditions. Inheritance concerns cross-generational reconstitution of continuity. Development, ecology, behaviour, biological agency, and other processes can become relevant where they materially affect the selection process or evolutionary explanandum under investigation.
 
-Fitness provides the critical bridge between organised persistence and natural selection. Living systems first sustain viability through biological agency and persistence-sustaining organisation. Differences in the continuity of that organisation generate differences in fitness across generations. Natural selection then differentially stabilises those differences in continuity, contributing to the historical transformation of persistence-sustaining organisation through evolutionary time.
+Their relevance does not establish a universal causal order.
 
-Viewed in this way, natural selection neither creates organised persistence nor exhausts evolutionary explanation. It operates within a broader continuity architecture extending from agency and viability through organised persistence and fitness to evolutionary transformation. Selection remains indispensable, but its explanatory role becomes clearer when situated within the larger organisation of life that it helps transform rather than create.
+Natural selection therefore need not be treated either as the foundational source of biological organisation or as the final stage of a predetermined APS sequence. It has a bounded explanatory role whose relations to other biological processes must be specified and warranted in particular cases.
 
-Selection remains central to evolutionary biology, but it functions within the larger architecture of evolutionary organisation. Evolution is therefore not explained by selection alone but by the integrated historical organisation through which life remains both persistent and transformable across time.
+Evolutionary organisation provides a framework for distinguishing those questions. It does not settle their causal relations in advance.
+
+Differential historical stabilisation can contribute to the historical transformation of organised persistence. Its explanatory role becomes more precise when the causes of biological difference, the characterisation of differential continuity, and the historical stabilisation of those differences are kept analytically distinct.

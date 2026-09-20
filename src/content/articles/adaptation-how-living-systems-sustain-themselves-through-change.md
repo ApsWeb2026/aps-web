@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-009-20
+revised: 2026-09-20
 cluster: evolutionary-dynamics
 role: core
 
@@ -112,7 +112,7 @@ references:
 
 ## Introduction
 
-> **Where this article fits:** Adaptation occupies a central position within the APS account of evolution. If persistence explains the continuity of living systems and natural selection explains the historical differential persistence of biological organisation, adaptation explains how viability-oriented systems remain capable of persistence under changing conditions. It therefore forms an essential bridge between ongoing biological continuity and long-term evolutionary transformation. For the broader temporal architecture underlying APS, see *Persistence — Organised Continuity Through Time*, *Temporal Organisation and Organised Persistence*, and *Natural Selection and Organised Persistence*.
+> **Where this article fits:** Adaptation occupies a central position within the APS account of evolution. If persistence explains the continuity of living systems and natural selection explains the historical differential persistence of biological organisation, adaptation explains how viability-oriented systems remain capable of persistence under changing conditions. It therefore occupies a distinct explanatory position between questions of ongoing biological continuity and long-term evolutionary transformation. For the broader temporal architecture underlying APS, see *Persistence — Organised Continuity Through Time*, *Temporal Organisation and Organised Persistence*, and *Natural Selection and Organised Persistence*.
 
 Living systems exist in conditions that are never static. Their material components are continuously replaced, their environments fluctuate, their developmental trajectories transform over time, and their ecological relationships remain subject to ongoing change. Yet despite this continual transformation, living systems do not simply dissolve into instability. They preserve an organised continuity that allows them to remain viable across time.
 
