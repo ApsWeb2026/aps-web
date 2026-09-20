@@ -47,9 +47,9 @@ An arrow or sequence in an APS diagram may represent a proposed dependency, conc
 Accordingly, an APS architectural sequence must not be interpreted as a demonstrated causal or temporal chain unless each relevant relation has independently been shown to have that character.
 
 <figure class="aps-diagram">
-  <a href="/images/dependency-table.png" target="_blank" rel="noopener">
+  <a href="/assets/diagrams/dependency-table.png" target="_blank" rel="noopener">
     <img
-      src="/images/dependency-table.png"
+      src="/assets/diagrams/dependency-table.png"
       alt="Comparison of causal, constitutive, modal, organisational, normative, and statistical dependency types by explanatory priority and necessity."
       loading="lazy"
     />
