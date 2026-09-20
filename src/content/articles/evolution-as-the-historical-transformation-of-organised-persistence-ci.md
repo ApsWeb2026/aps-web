@@ -393,22 +393,6 @@ Most importantly, APS helps explain why evolution remains fundamentally a biolog
 
 This perspective also helps clarify the relationship between many concepts that are often treated separately within biology. Genes, development, inheritance, adaptation, ecology, fitness, and natural selection are not independent explanatory domains. Each contributes to understanding how organised persistence is maintained and how persistence-sustaining organisation is transformed through historical time. Evolution therefore provides a unifying framework through which diverse biological phenomena can be understood as interconnected dimensions of continuity and transformation.
 
-
-<div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-continuity-sequence.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-continuity-sequence.png"
-      alt="Variation, adaptation, fitness, natural selection, and evolutionary transformation within the APS evolutionary architecture"
-      loading="lazy"
-    />
-  </a>
-
-  <p class="aps-diagram-caption">
-    <strong>From Novelty to Evolutionary Transformation.</strong>
-    APS distinguishes variation, adaptation, fitness, natural selection, and evolutionary transformation as related explanatory concepts within the broader architecture of organised persistence. Their arrangement provides an APS organising structure; it does not by itself establish a fixed temporal sequence, causal pathway, or necessary biological dependency among them.
-  </p>
-</div>
-
 ## Conclusion
 
 Evolution is the historical transformation of persistence-sustaining organisation across generations.
