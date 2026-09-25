@@ -20,7 +20,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-14
-revised: 2026-09-09
+revised: 2026-09-25
 cluster: conceptual-foundations
 role: extension
 
@@ -28,6 +28,7 @@ keyPoints:
   - Agency and organised persistence are analytically distinguishable aspects of one living organisation rather than stages in a causal sequence.
   - Biological Agency identifies viability-oriented organisational activity, while organised persistence identifies continuity of living organisation through change.
   - Living continuity need not consist in preserving a fixed state and can require regulation, repair, compensation, reconstruction, and reorganisation.
+  - Organised persistence need not require uninterrupted expression of viability-oriented activity; in reversible states of suspended activity, materially preserved organisation can maintain continuity until such activity resumes.
   - Activities analysed under Agency can contribute materially to organised persistence without Agency becoming an independent cause or sufficient explanation of persistence.
   - Constraint organisation specifies materially realised relations through which viability-oriented activity occurs rather than a separate structural platform preceding Agency.
   - Organised persistence is an explanatory target, and the explanatory contribution of Agency remains target- and comparator-relative.
@@ -153,6 +154,9 @@ This is where Agency becomes particularly relevant.
 Viability-oriented activity can alter what happens under changing conditions. Living systems can regulate, repair, compensate, and reorganise. Such activities can contribute to continuity precisely because they need not preserve every previous state or relation.
 
 Persistence is therefore compatible with substantial change in the organisation through which persistence is maintained.
+
+A limiting case occurs when viability-oriented activity itself is reversibly suspended. In cryptobiotic states such as anhydrobiosis, living organisation can remain materially preserved while metabolism and other active processes fall to undetectable levels, with activity resuming when permissive conditions return. Such cases distinguish continuity of living organisation from uninterrupted performance of biological Agency. Organised persistence can therefore extend across an interval in which the activity characteristic of living organisation is temporarily unexpressed, provided that the organisation enabling its resumption remains materially continuous.
+
 
 ## 3. Maintenance and Re-establishment
 
@@ -352,7 +356,7 @@ Organised persistence necessarily extends through time.
 
 This difference can make it seem that Agency and persistence occupy separate temporal domains. They do not.
 
-Present viability-oriented activity is materially situated within a continuing organisation whose current state bears the effects of previous activity and whose continuation depends upon what happens now.
+Present viability-oriented activity is materially situated within a continuing organisation whose current state bears the effects of previous activity and whose future continuation can depend upon what happens now.
 
 Regulation, repair, and reorganisation occur at particular times. Their consequences can alter whether living organisation continues beyond those moments.
 
@@ -420,7 +424,7 @@ The central APS claim is consequently precise:
 
 Whether this perspective provides explanatory gain remains target- and comparator-relative.
 
-Agency matters to organised persistence not because it stands outside living organisation and causes continuity, but because living continuity can depend upon what living organisation does.
+Agency matters to organised persistence not because it stands outside living organisation and causes continuity, but because living continuity can depend upon what living organisation does, including activities that establish conditions through which organisation persists beyond their immediate expression.
 
 ## Explanatory Architecture
 

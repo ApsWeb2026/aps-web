@@ -4901,3 +4901,17 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: 2026-09-19
+- id: mix-2026-nasa-definition-life
+  type: journal-article
+  authors: Mix, L. J.
+  year: 2026
+  title: 'The Origin, Extension, and Future of the "NASA Definition" of Life'
+  journal: Astrobiology
+  volume: '26'
+  issue: '1'
+  pages: 66–74
+  doi: 10.1177/15311074251412317
+  verification:
+    status: verified
+    authority: SAGE Publications
+    verifiedDate: 2026-09-25

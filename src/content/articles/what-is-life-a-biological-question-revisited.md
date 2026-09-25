@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-09-07
+revised: 2026-09-25
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -186,6 +186,16 @@ references:
   journal: Biological Theory
   doi: 10.1007/s13752-026-00547-6
 
+- id: mix-2026-nasa-definition-life
+  authors: Mix, L. J.
+  year: 2026
+  title: 'The Origin, Extension, and Future of the "NASA Definition" of Life'
+  journal: Astrobiology
+  volume: '26'
+  issue: '1'
+  pages: 66–74
+  doi: 10.1177/15311074251412317
+
 - zimmer-2021-lifes-edge
 
 ---
@@ -236,6 +246,8 @@ The enduring debate over the nature of Life has generated a remarkable diversity
 One influential strategy has been to define Life through characteristic biological properties. Lists commonly include metabolism, growth, reproduction, responsiveness to environmental change, homeostasis, and the capacity for evolution. Such approaches provide practical criteria for recognising many familiar organisms and have played important roles in biological education, taxonomy, and astrobiology.
 
 Property-based definitions nevertheless encounter familiar difficulties. Individual characteristics admit recognised exceptions. Sterile organisms remain alive despite lacking reproductive capacity, dormant organisms may exhibit little observable metabolism, and viruses satisfy some but not all commonly proposed criteria. Extending a list of defining properties can therefore leave open the question of how those properties are related and why they should jointly bear upon living status.
+
+A recent reconsideration of the widely used NASA definition illustrates the distinction between defining and recognising Life. Mix (2026) notes that the familiar formulation of Life as “a self-sustained chemical system capable of Darwinian evolution” is influential but imprecise and difficult to implement. He proposes instead a working formulation under which NASA would recognise Life in a self-sustained chemical system demonstrating evolution by natural selection. The reformulation makes the problem of recognition explicit: operational criteria for identifying Life need not by themselves settle the further question of what organisation constitutes a living system.
 
 [[box:why-trait-lists-fail]]
 

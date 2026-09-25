@@ -6,12 +6,12 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-09-09
+revised: 2026-09-25
 cluster: conceptual-foundations
 role: clarification
 
 abstract: |
-  The paper “Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale,” published in Biological Theory, proposed that biological agency is fundamental to understanding what distinguishes living systems. This article clarifies the continuing significance of that claim within the developed Agency–Process–Scale framework. APS now defines Life as viability-oriented, constraint-closed organisation and biological agency as viability-oriented organisational activity. Agency is therefore not the complete definition of Life, but it can still be described as its defining activity: living organisation is continually enacted through activity oriented towards maintaining and re-establishing conditions of viability. This distinction preserves the central insight of the published thesis while separating what Life is from what living systems do and avoiding the treatment of Agency as an additional causal force, a synonym for cognition, or the sole explanation of organised persistence.
+  The paper “Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale,” published in Biological Theory, proposed that biological agency is fundamental to understanding what distinguishes living systems. This article clarifies the continuing significance of that claim within the developed Agency–Process–Scale framework. APS now defines Life as viability-oriented, constraint-closed organisation and biological agency as viability-oriented organisational activity. Agency is therefore not the complete definition of Life, but it can still be described as its defining activity: living organisation is characteristically enacted through activity oriented towards maintaining and re-establishing conditions of viability, while its organised continuity may persist through reversible intervals in which such activity is suspended. This distinction preserves the central insight of the published thesis while separating what Life is from what living systems do and avoiding the treatment of Agency as an additional causal force, a synonym for cognition, or the sole explanation of organised persistence.
 
 keyPoints:
   - "The Biological Theory paper proposed biological Agency as the defining activity of Life."
