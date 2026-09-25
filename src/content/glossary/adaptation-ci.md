@@ -6,15 +6,16 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-07-28
+revised: 2026-09-25
 cluster: evolutionary-dynamics
 
 definition: >
   In APS, adaptation is the ongoing reorganisation of viability-oriented,
   constraint-closed organisation through which living systems sustain
-  persistence under changing conditions. Adaptation links present regulation
-  to longer-term evolutionary transformation through the continual
-  reorganisation of organised persistence.
+  persistence under changing conditions. Adaptive reorganisation may acquire
+  evolutionary consequences across longer timescales, but its relation to
+  evolutionary transformation depends upon the biological and historical case
+  concerned.
 
 inBrief: >
   Adaptation is the ongoing reorganisation of living organisation that

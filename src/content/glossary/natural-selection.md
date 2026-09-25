@@ -6,16 +6,17 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-15
+revised: 2026-09-25
 cluster: evolutionary-dynamics
 
 definition: >
   In APS, natural selection is the historically distributed differential
   stabilisation of viability-oriented, constraint-closed organisation across
-  generations. Selection filters differences in the capacity of living systems
-  to sustain organised persistence under changing conditions. It therefore
-  presupposes systems already capable of persistence, inheritance, variation,
-  adaptation, development, and biological agency.
+  generations. Selection concerns differences in the historical continuity
+  of living organisation under changing conditions. The particular relations
+  among selection, persistence, inheritance, variation, adaptation,
+  development, and biological agency must be established for the evolutionary
+  case concerned rather than inferred from their positions within APS.
 
 inBrief: >
   Natural selection is the differential stabilisation of viable organisation

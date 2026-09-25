@@ -4,12 +4,13 @@ title: Evolutionary Organisation
 slug: evolutionary-organisation
 type: glossary
 definition: >
-  The integrated continuity architecture through which viability-oriented
+  TThe integrated historical architecture through which viability-oriented
   organised persistence is preserved, transformed, diversified, and
-  extended across generations. Evolutionary organisation emerges from the
-  interaction of inheritance, variation, selection, adaptation,
-  innovation, development, ecology, cognition, and other processes that
-  contribute to historical continuity.
+  extended across generations. Inheritance, variation, selection, adaptation,
+  innovation, development, ecology, cognition, and other biological processes
+  may contribute to evolutionary organisation in particular cases; their
+  inclusion in APS does not by itself establish a universal causal, temporal,
+  or necessary dependency among them.
 inBrief: >
   The integrated historical architecture through which life maintains
   continuity across generations while remaining capable of transformation.
@@ -18,8 +19,8 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
 cluster: evolutionary-dynamics
-revised: 2026-06-15
-relatedTerms:
+revised: 2026-09-25
+seeAlso:
   - evolution
   - continuity
   - inheritance

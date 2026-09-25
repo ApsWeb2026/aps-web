@@ -4915,3 +4915,31 @@ references:
     status: verified
     authority: SAGE Publications
     verifiedDate: 2026-09-25
+- id: koons-2025-definition-life
+  type: journal-article
+  authors: Koons, R. C.
+  year: 2025
+  title: 'Introduction: The Definition of Life'
+  journal: BioCosmos
+  volume: '5'
+  issue: '1'
+  pages: I–II
+  doi: 10.2478/biocosmos-2025-0007
+  verification:
+    status: verified
+    authority: The Israel Biocomplexity Center
+    verifiedDate: 2026-09-25
+- id: lopez-diaz-gershenson-2025-semantic-closure
+  type: journal-article
+  authors: López-Díaz, A. J., & Gershenson, C.
+  year: 2025
+  title: 'Closing the loop: how semantic closure enables open-ended evolution?'
+  journal: Journal of the Royal Society Interface
+  volume: '22'
+  issue: '233'
+  article-number: '20250784'
+  doi: 10.1098/rsif.2025.0784
+  verification:
+    status: verified
+    authority: Royal Society
+    verifiedDate: 2026-09-25

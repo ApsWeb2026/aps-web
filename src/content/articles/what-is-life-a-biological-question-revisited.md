@@ -196,6 +196,16 @@ references:
   pages: 66–74
   doi: 10.1177/15311074251412317
 
+- id: koons-2025-definition-life
+  authors: Koons, R. C.
+  year: 2025
+  title: 'Introduction: The Definition of Life'
+  journal: BioCosmos
+  volume: '5'
+  issue: '1'
+  pages: I–II
+  doi: 10.2478/biocosmos-2025-0007
+
 - zimmer-2021-lifes-edge
 
 ---
@@ -221,7 +231,7 @@ Yet despite these extraordinary advances, biology still lacks a universally acce
 
 This continuing uncertainty does not imply an absence of empirical knowledge. Contemporary biology possesses an unprecedented understanding of metabolism, development, heredity, physiology, ecology, and evolution. The difficulty lies partly in determining what kind of question a definition of Life is intended to answer. Knowledge of the many processes exhibited by living systems does not by itself settle how those processes should be related within an account of living organisation.
 
-The persistence of this question is reflected in the diversity of proposed definitions. Contemporary discussions include accounts centred on metabolism, replication, evolution, information, autonomy, autopoiesis, thermodynamics, artificial life, viral biology, and organisation (Zimmer, 2021; Nicholson, 2025). More recent approaches often emphasise dynamic process and organisation rather than static substance or isolated properties. These perspectives capture important aspects of living systems, but no single account has achieved broad conceptual agreement, and viruses, sterile organisms, artificial systems, and other difficult cases continue to test proposed definitions.
+The persistence of this question is reflected in the diversity of proposed definitions. Contemporary discussions include accounts centred on metabolism, replication, evolution, information, autonomy, autopoiesis, thermodynamics, artificial life, viral biology, and organisation (Zimmer, 2021; Koons, 2025; Nicholson, 2025). More recent approaches often emphasise dynamic process and organisation rather than static substance or isolated properties. These perspectives capture important aspects of living systems, but no single account has achieved broad conceptual agreement, and viruses, sterile organisms, artificial systems, and other difficult cases continue to test proposed definitions.
 
 This continuing disagreement suggests that the problem is not simply the absence of a sufficiently comprehensive list of biological characteristics. Different definitions can address different explanatory questions. Some identify properties associated with living systems, others specify criteria for classification, while others investigate distinctive forms of biological organisation. These are related but not identical enterprises.
 

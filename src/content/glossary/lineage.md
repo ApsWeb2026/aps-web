@@ -6,7 +6,7 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-20
-revised: 2026-06-20
+revised: 2026-09-25
 cluster: evolutionary-dynamics
 definition: >
   A lineage is the historical continuity through which organised persistence
@@ -31,12 +31,6 @@ relatedGlossaryTerms:
   - species
   - evolution
   - biological-individual
-
-relatedArticles:
-  - species-as-organised-persistence
-  - evolution-as-the-historical-transformation-of-organised-persistence
-  - multiscale-evolution-and-organised-persistence
-  - evolution-taxonomy-and-the-reorganisation-of-biological-explanation
 ---
 
 A lineage is the historical continuity through which organised persistence is maintained and transformed through time. Living systems do not exist as isolated entities appearing and disappearing independently of one another. Organisms arise from pre-existing organisms, inherit forms of organisation established by earlier generations, and contribute to the continuation of those organisational processes into the future. A lineage refers to this enduring historical continuity.

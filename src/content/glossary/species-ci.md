@@ -6,15 +6,16 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-20
+revised: 2026-09-25
 cluster: evolutionary-dynamics
 definition: >
-  A species is a historically continuous lineage-pattern of viability-oriented
-  organisation that persists across generations through processes of inheritance,
-  variation, adaptation, and evolutionary transformation. In APS, species are
-  not fixed classes or fundamental biological units but evolving lineages of
-  organised persistence whose continuity is tracked through taxonomic
-  classification.
+  In APS, natural selection is the historically distributed differential
+  stabilisation of viability-oriented, constraint-closed organisation across
+  generations. Selection concerns differences in the historical continuity
+  of living organisation under changing conditions. The particular relations
+  among selection, persistence, inheritance, variation, adaptation,
+  development, and biological agency must be established for the evolutionary
+  case concerned rather than inferred from their positions within APS.
 inBrief: >
   A species is a historically continuous lineage of organised persistence.
 seeAlso:

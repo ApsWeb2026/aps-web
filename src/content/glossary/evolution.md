@@ -6,16 +6,17 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-09-10
+revised: 2026-09-25
 cluster: evolutionary-dynamics
 
 definition: >
   In APS, evolution is the historical transformation of viability-oriented,
   constraint-closed organisation through which living systems sustain,
   reorganise, diversify, and extend persistence across generations.
-  Evolution explains how organised biological persistence is historically
-  stabilised and transformed through lineage continuity across interacting
-  biological scales.
+  Evolution concerns the historical stabilisation and transformation of
+  organised biological persistence through lineage continuity. The particular
+  processes, scales, and causal dependencies involved must be established for
+  the evolutionary case being explained.
 
 inBrief: >
   Evolution is the historical transformation of viability-oriented,
