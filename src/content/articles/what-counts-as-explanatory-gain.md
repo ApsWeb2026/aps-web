@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-04
-revised: 2026-09-05
+revised: 2026-09-26
 cluster: methodology-and-explanation
 role: core
 
@@ -165,6 +165,8 @@ The correct comparative question remains local. What does the niche-construction
 Novelty can be scientifically important, but newness is not a comparator. A recently proposed explanation may simply redescribe established work, while an old explanation may continue to supply explanatory capacity that newer accounts do not replace.
 
 Formalisation raises a related issue. Mathematical precision can expose structure that verbal reasoning obscures, make assumptions explicit, generate quantitative predictions, or unify a range of phenomena. These are significant achievements. But formal scope alone does not establish comparative explanatory superiority.
+
+Formal specification should also be distinguished from material implementation. A model may specify how an explanatory dependency could be organised without establishing that the corresponding dependency is instantiated in the biological system under investigation. Where biological explanatory gain is claimed, the evidential burden therefore extends beyond formal coherence or modelling success to evidence that the proposed dependency is materially realised and performs the claimed explanatory role.
 
 The Free Energy Principle and active inference provide a useful example of the distinction. Active-inference models have been developed to connect perception, action, homeostatic regulation and adaptive control within a common formal framework (Pezzulo, Rigoli, & Friston, 2015). At the same time, questions remain about the scope of the Free Energy Principle and about what follows empirically from its formal architecture (Raja et al., 2021).
 

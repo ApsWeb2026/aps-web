@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-09-07
+revised: 2026-09-26
 cluster: methodology-and-explanation
 role: core
 
@@ -130,6 +130,8 @@ The governing question remains:
 This burden applies when explanatory gain is claimed. It is not a universal demand that every legitimate scientific contribution must take the form of explanatory gain.
 
 Where feasible, material targets, expected contributions, relevant comparators and possible adverse outcomes should be specified before the result used for adjudication is known. Transparency and prospective specification can reduce retrospective fitting and strengthen reproducibility (Munafò et al., 2017).
+
+Where candidate explanations accommodate the same expected outcome, observing that outcome does not by itself discriminate between them. A comparative test should therefore bear, where possible, on the dependency, consequence or counterfactual relation that distinguishes the candidate explanations. Evidence for a shared prediction may support both accounts while leaving their comparative explanatory difference unresolved.
 
 Formal preregistration may be valuable in appropriate research designs, but this article does not treat it as a universal requirement for framework assessment.
 
