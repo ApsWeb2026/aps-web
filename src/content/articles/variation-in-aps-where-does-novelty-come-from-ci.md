@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: core
 abstract: |
@@ -59,7 +59,15 @@ references:
     publisher: Cambridge University Press
 ---
 
-## Variation as Reorganisation
+## Where This Article Fits
+
+*This article provides the core APS account of biological variation as the structured generation of differences within historically continuous, persistence-sustaining organisation. Its role within Evolutionary Dynamics is to explain how novelty can arise without treating living systems as fixed templates disrupted only by externally introduced or random change.*
+
+*Variation is distinguished from inheritance, fitness, and natural selection. Inheritance concerns cross-generational continuity; variation concerns differences generated within that continuity; fitness concerns differential historical continuity; and natural selection concerns differential historical stabilisation. Development, organism–environment coupling, genetic change, and other processes may contribute to the generation of variation in particular biological cases.*
+
+*The article therefore positions variation as a source of evolutionary novelty without treating its place within APS as evidence for a predetermined evolutionary sequence. Whether and how particular differences become relevant to fitness, natural selection, or evolutionary transformation requires independent biological and historical explanation.*
+
+## Introduction - Variation as Reorganisation
 
 In APS, variation is understood as the **reorganisation of viability-oriented, constraint-closed systems**. It is not a departure from a fixed blueprint, but an intrinsic feature of living organisation.
 

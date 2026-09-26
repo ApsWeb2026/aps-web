@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: core
 
@@ -90,7 +90,15 @@ references:
     publisher: Springer
 ---
 
-## Inheritance as Organisational Continuity
+**Where This Article Fits**
+
+*This article provides the core APS account of inheritance as the reliable reconstitution of viability-oriented organisation across generations. Its role within Evolutionary Dynamics is to explain cross-generational continuity without reducing inheritance to the transmission of genes, information, or any other privileged biological component.*
+
+*Inheritance therefore connects questions of organised persistence with development, organism–environment relations, variation, and evolutionary transformation. It identifies how living organisation can be re-established across generations while remaining compatible with material turnover, developmental change, and evolutionary novelty.*
+
+*W*ithin the APS evolutionary architecture, inheritance identifies a distinct explanatory relation rather than a predetermined stage in a universal evolutionary sequence. Its particular causal relations with variation, adaptation, fitness, natural selection, and evolutionary transformation must be established for the biological case concerned.*
+
+## Introduction - Inheritance as Organisational Continuity
 
 Within the Evolution domain, inheritance explains the continuity that makes evolutionary transformation possible. If natural selection accounts for the differential persistence of living systems, inheritance explains how viable organisation persists across generations in the first place. In APS, inheritance is therefore understood as the continuity of viability-oriented organisation through time rather than the transmission of privileged biological components.
 
@@ -203,3 +211,29 @@ Inheritance thus reveals an important principle of evolutionary organisation. Li
 ## Key Point
 
 Inheritance in APS is the reliable reconstitution of viability-oriented, persistence-sustaining organisation across generations. It explains how organisational continuity can extend beyond individual lifetimes while remaining compatible with evolutionary transformation.
+
+## Explanatory Architecture
+
+### Central Question
+
+How is viable living organisation reliably reconstituted across generations while remaining capable of variation and historical transformation?
+
+### Architectural Role
+
+Inheritance identifies cross-generational organisational continuity. APS treats it as the reliable reconstitution of viability-oriented organisation rather than the transmission of a privileged component, substance, or informational entity.
+
+### Builds On
+
+The article builds on the APS accounts of biological organisation, viability, organised persistence, constraint closure, development, organism–environment coupling, biological agency, process, and temporal continuity.
+
+### Develops Into
+
+Inheritance opens more specific questions concerning developmental reconstitution, sources of variation, lineage continuity, ecological inheritance, fitness, natural selection, and evolutionary transformation. The contribution of inheritance to these processes depends upon the material and historical relations operating in the biological case concerned.
+
+### Position within APS
+
+Inheritance is distinct from development, variation, fitness, and natural selection. It concerns the reliable reconstitution of organised continuity across generations; development concerns processes through which living organisation is formed and maintained; variation concerns differences arising within historical continuity; fitness concerns differential historical continuity; and natural selection concerns differential historical stabilisation. These distinctions organise explanatory questions without establishing a universal causal or temporal sequence.
+
+### Corpus Significance
+
+Within Evolutionary Dynamics, inheritance provides the principal APS concept for explaining how organised persistence extends across generations. It thereby makes cross-generational continuity available for evolutionary explanation while leaving the particular relations among inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation to biological specification and evidence.

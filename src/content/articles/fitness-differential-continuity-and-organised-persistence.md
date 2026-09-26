@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-18
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: core
 
@@ -117,6 +117,13 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
+**Where this article fits:** 
+*This article develops the APS interpretation of fitness as the differential historical continuity of persistence-sustaining organisation. Its role within Evolutionary Dynamics is to distinguish fitness from viability, adaptation, natural selection, and evolutionary transformation while clarifying the particular explanatory question that fitness addresses.*
+
+*Fitness characterises differences in historical continuity; it does not by itself identify the mechanisms or processes responsible for producing those differences. Viability, inheritance, adaptation, development, ecology, natural selection, and other biological relations may contribute to particular differences in continuity, but their relevance and causal relations must be established for the evolutionary case concerned.*
+
+*The article therefore positions fitness within the APS evolutionary architecture without treating it as an independent causal force, a measure of biological superiority, or a necessary intermediary in a predetermined evolutionary sequence.*
+
 ## Introduction
 
 Fitness is one of the most important concepts in evolutionary biology and also one of the most difficult to interpret. Evolutionary theory invokes fitness to explain why some forms of living organisation remain historically continuous while others disappear, why natural selection produces differential outcomes, and why evolutionary change follows particular trajectories through time. Despite its centrality, however, considerable disagreement remains about what fitness actually measures and what explanatory role it performs.
@@ -126,8 +133,6 @@ In many conventional accounts, fitness is understood as reproductive success or 
 APS approaches this problem from a different explanatory starting point. Throughout the framework, living systems are understood as forms of organised persistence sustained through viability-oriented activity. Evolution is then understood as the historical transformation of persistence-sustaining organisation across generations. Within this broader architecture, fitness concerns the differential continuity of lineages of organised persistence under changing developmental and ecological conditions. Fitness therefore identifies historically situated differences in continuity rather than functioning as an independent force that produces those differences.
 
 This perspective changes the role fitness occupies within evolutionary explanation. Instead of treating fitness itself as a mechanism producing reproductive or historical outcomes, APS uses the concept to characterise differential historical continuity among forms of persistence-sustaining organisation. The biological processes responsible for particular differences in continuity require specification independently of the concept of fitness itself.
-
-> **Where this article fits:** This article develops the APS interpretation of fitness as the differential continuity of persistence-sustaining organisation. It explains how fitness connects viability, adaptation, inheritance, development, natural selection, and evolutionary transformation within the broader APS account of organised biological persistence.
 
 ## Conventional Views of Fitness
 
@@ -302,3 +307,29 @@ APS approaches this problem by beginning with organised persistence. Living syst
 This interpretation clarifies the relationship of fitness to viability, inheritance, adaptation, development, natural selection, and evolutionary transformation by assigning fitness a specific explanatory role. Fitness characterises differential historical continuity among forms of persistence-sustaining organisation. It does not, by that definition alone, identify the mechanisms producing those differences or determine their causal consequences.
 
 From the APS perspective, fitness is therefore best understood as historically situated differential continuity within persistence-sustaining organisation. Other concepts within the evolutionary architecture address the processes and relations through which biological continuity is maintained and transformed. Their causal and dependency relations must be established independently rather than inferred from the position of fitness within that architecture.
+
+## Explanatory Architecture
+
+### Central Question
+
+What explanatory role does fitness perform once differential historical continuity is distinguished from the processes that produce it?
+
+### Architectural Role
+
+Fitness characterises differential historical continuity among lineages or forms of persistence-sustaining organisation. It identifies differences in continuity without, by itself, specifying the biological mechanisms or processes responsible for producing those differences.
+
+### Builds On
+
+The article builds on the APS accounts of viability, organised persistence, inheritance, variation, adaptation, development, ecology, biological agency, and evolutionary organisation.
+
+### Develops Into
+
+Fitness becomes relevant to more specific questions concerning natural selection, differential historical stabilisation, lineage continuity, ecological context, developmental organisation, and evolutionary transformation. Which processes produce particular differences in fitness remains a biological question requiring independent specification.
+
+### Position within APS
+
+Fitness is distinct from viability, adaptation, and natural selection. Viability concerns the conditions under which organised persistence remains possible; adaptation concerns continuity-preserving reorganisation; fitness concerns differential historical continuity; and natural selection concerns differential historical stabilisation. These distinctions organise explanatory questions without establishing a universal causal or temporal sequence among them.
+
+### Corpus Significance
+
+Within Evolutionary Dynamics, fitness provides the principal APS concept for characterising differential historical continuity. Its architectural role is therefore to distinguish the pattern requiring explanation from the biological processes that produce it, preventing fitness from becoming either an independent causal force or an obligatory intermediary within evolutionary transformation.

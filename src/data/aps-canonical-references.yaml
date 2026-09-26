@@ -4943,3 +4943,23 @@ references:
     status: verified
     authority: Royal Society
     verifiedDate: 2026-09-25
+- id: dawkins-1982-extended-phenotype
+  type: book
+  authors: Dawkins, R.
+  year: 1982
+  title: 'The Extended Phenotype: The Gene as the Unit of Selection'
+  publisher: W. H. Freeman
+  verification:
+    status: verified
+    authority: WorldCat / bibliographic records
+    verifiedDate: 2026-09-26
+- id: lewontin-2000-triple-helix
+  type: book
+  authors: Lewontin, R. C.
+  year: 2000
+  title: 'The Triple Helix: Gene, Organism, and Environment'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press / bibliographic records
+    verifiedDate: 2026-09-26
