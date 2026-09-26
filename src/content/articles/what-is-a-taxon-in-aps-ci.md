@@ -6,22 +6,27 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: extension
+
 abstract: >
-  APS reinterprets the taxon not as a static classificatory unit but as a
-  classificatory designation applied to historically extended patterns of
-  viability-oriented, constraint-closed organisation. This article explains how
-  classification tracks organised persistence, why taxa are not essentialist
-  groupings, and how this reframing integrates evolution, individuality, and
-  multi-scale organisation.
+  Biological classification depends on taxa, but a taxon, a taxonomic rank,
+  and a classification are not the same thing. APS interprets taxonomic
+  practice by asking what biological entities, relationships, or recurring
+  patterns a taxon is intended to identify, what evidence supports that
+  identification, and over what spatial, temporal, and organisational extent
+  the relevant relations hold. This does not determine the ontology of taxa,
+  prescribe a uniquely correct classification, or replace established
+  systematic and phylogenetic methods.
+
 keyPoints:
-  - A taxon in APS is a classificatory designation applied to historically continuous patterns of viability-oriented organisation.
-  - Classification tracks organised persistence rather than trait similarity alone.
-  - Taxa are not static entities but classifications of evolving organisational patterns.
-  - Boundaries between taxa are often graded due to multi-scale biological processes.
-  - Taxa track patterns across processual individuals rather than constituting individuals themselves.
+  - A taxon, a taxonomic rank, and a taxonomic classification are related but distinct.
+  - Species are taxa, but not every taxon is a species, and different taxa need not share a single biological ontology.
+  - Taxonomic claims are constrained by biological evidence; classification is not identical with the biological entities or relationships it represents.
+  - "Taxonomic rank is not APS Scale: relevant biological relations may extend across different spatial, temporal, and organisational extents."
+  - APS does not infer a universal causal pathway generating taxa or taxonomic boundaries from its evolutionary architecture.
+
 relatedGlossaryTerms:
   - taxon
   - classification
@@ -34,167 +39,181 @@ relatedGlossaryTerms:
   - persistence
   - constraint-closure
   - biological-agency
+
 relatedArticles:
   - classification-without-essentialism
+  - what-is-a-species-in-aps
+
 references:
- - id: deQueiroz1998
-   authors: de Queiroz, K.
-   year: 1998
-   title: The General Lineage Concept of Species, Species Criteria, and the Process of Speciation
-   publisher: Oxford University Press
- - id: DupreNicholson2018
-   authors: Dupré, J., & Nicholson, D. J.
-   year: 2018
-   title: A Manifesto for a Processual Philosophy of Biology
-   publisher: Oxford University Press
-
- - id: Hull1965
-   authors: Hull, D. L.
-   year: 1965
-   title: "The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis"
-   journal: British Journal for the Philosophy of Science
-   volume: 15(60)
-   pages: 314–326
-
- - id: Spencer2026
-   authors: Spencer, R. D.
-   year: 2026
-   title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-   journal: Biological Theory
-   doi: https://doi.org/10.1007/s13752-026-00547-6
+  - simpson-2010-plant-systematics
+  - de-queiroz-1998-general-lineage-concept
+  - hull-1976-species-individuals
+  - dupre-nicholson-2018-manifesto
+  - kearney-haber-2026-common-ancestry-process-ontology
+  - spencer-2026-agency-defining-activity-life
 ---
 
-## Introduction
+**Where This Article Fits**
 
-> **Where this article fits:** Taxa are the basic designations used within biological classification. Species are among the most familiar taxa, but classification operates across many scales of biological organisation, from relatively narrow lineage-patterns to broad evolutionary groupings. APS interprets taxa not as fixed biological entities but as classificatory designations applied to historically continuous patterns of organised persistence. This article explains how classification tracks evolutionary continuity, how taxa relate to species and lineages, and why biological classification remains possible without essentialist assumptions.
+*This article extends APS into biological taxonomy and systematics. It follows the distinction developed in *What Is a Species in APS? between biological history, species, and species classification, but addresses the broader question of taxa at different taxonomic ranks. APS does not propose an alternative taxonomic system, species concept, or method of phylogenetic inference. Its narrower purpose is to clarify what is being identified when a taxon is recognised, how that identification relates to biological evidence and historical continuity, and where classification ends and biological explanation begins.*
 
-Biological classification is one of the oldest and most successful practices in the life sciences. Organisms are routinely organised into species, genera, families, orders, and countless other taxonomic categories. These classifications provide a framework for communication, comparison, and explanation, allowing biologists to identify recurring patterns within the immense diversity of life.
+## Introduction — What Is the Taxon Question?
 
-Despite its practical success, however, biological classification has often been interpreted in ways that obscure its relationship to the processes that generate biological organisation. Taxa are frequently treated as if they were fixed natural kinds, pre-existing groups waiting to be discovered and named. The resulting picture encourages the view that classification identifies static categories rather than tracking ongoing biological continuity and transformation.
+Taxonomy is indispensable to biology. Biologists identify, name, compare, and classify organisms and other biological groups so that biological diversity can be investigated and communicated. Yet the familiar language of taxonomy can conceal several different questions. When a biologist identifies a taxon, what exactly is being identified? Is it a biological entity or relationship, a named group, a taxonomic rank, or a position within a system of classification?
 
-APS approaches taxonomy from a different starting point. Rather than asking what traits define a taxon, it asks what forms of continuity classification attempts to track. From this perspective, taxa are not containers into which organisms are placed. They are designations applied to recurring patterns within the continuity and transformation of organised persistence.
+These questions should not be collapsed. A taxon is not the same thing as the rank assigned to it, and neither is identical with the classificatory system through which it is represented. Modern systematics also draws on multiple forms of biological evidence and on phylogenetic reconstruction rather than deriving classifications from a single defining property or method.
 
-Understanding taxa therefore requires understanding the evolutionary processes that generate biological continuity. Taxonomic categories do not exist independently of inheritance, variation, adaptation, fitness, and natural selection. Rather, they emerge from the historical continuity of viability-oriented organisation and provide ways of identifying recurring patterns within that continuity. APS consequently treats taxonomy not as the discovery of fixed biological kinds but as the classification of evolving organisational processes. Taxa become intelligible not as static entities but as ways of identifying recurring patterns within the continuity and transformation of organised persistence.
+APS approaches this situation through its concern with organised persistence and transformation. It asks what biological continuity or organisation a taxonomic claim is intended to track, what evidence warrants that claim, and over what spatial, temporal, and organisational extent the relevant relations hold. These questions can supplement taxonomic and systematic investigation, but they do not determine the answers in advance.
 
-## What a Taxon Is Usually Taken to Be
+## Taxa, Ranks, and Classification
 
-In standard biological practice, a taxon is generally understood as a unit of classification. Taxa group organisms according to shared characteristics, common ancestry, evolutionary relationships, or other forms of biological similarity. Whether framed in morphological, phenetic, cladistic, or molecular terms, taxa function as the categories through which biological diversity is organised and described.
+Three terms must first be distinguished.
 
-This approach has proved enormously successful. Taxonomy allows biologists to identify relationships among organisms, reconstruct evolutionary histories, communicate efficiently across disciplines, and organise vast amounts of biological information. Without taxonomic classification, much of modern biology would be impossible.
+A **taxon** is a biologically grounded unit recognised within taxonomy. A named species is therefore a taxon, but taxa also occur at other recognised taxonomic ranks.
 
-Yet this success can encourage a misleading interpretation. Because taxa are represented as discrete categories, they are often treated as if they were themselves the primary realities of biology. Organisms become members of taxa, while taxa appear as fixed groups possessing defining properties. Classification then seems to partition life into stable units whose boundaries exist independently of the processes that generated them.
+A **taxonomic rank** is the classificatory category or position at which a taxon is treated—for example, species, genus, or family. The taxon and its rank are consequently not interchangeable. A biological group recognised as a particular taxon is not identical with the general category to which it is assigned.
 
-APS does not reject taxonomy or the practical utility of taxonomic categories. Instead, it questions the assumption that taxa should be understood primarily as static groupings. The biological reality underlying classification is not the category itself but the continuity and transformation of organised persistence that the category attempts to describe.
+**Taxonomic classification** is broader again. It concerns the scientific practices and representational systems through which taxa are identified, delimited, named, compared, ranked, and related. Systematics additionally investigates biological diversity and relationships using relevant evidence and methods.
 
-[[box:what-biological-classification-tracks-in-aps]]
+The distinction can therefore be expressed schematically as:
 
-## The APS Shift: From Groups to Process Tracking
+**biological target ≠ taxon ≠ taxonomic rank ≠ taxonomic classification**
 
-APS reframes the taxon at a more fundamental level. A taxon is not primarily a group of organisms but a classificatory designation applied to recurring patterns within the organisation of life itself.
+The symbols do not imply that these are independent. Taxa are recognised through scientific investigation; ranks and classifications organise them; and classifications are constrained by evidence concerning the biological entities and relationships being investigated. The point is simply that representation should not be confused with what is represented.
 
-More precisely, a taxon designates a historically extended continuity of viability-oriented, constraint-closed organisation. What persists through evolutionary time is not merely a collection of traits, a sequence of genes, or a chain of descent. Rather, what persists is a particular mode of organised functioning through which living systems maintain and reproduce viability across generations.
+## What Does a Taxon Identify?
 
-From this perspective, classification does not carve nature at fixed joints. It tracks the persistence, continuity, and transformation of organised biological processes. Taxa therefore represent attempts to identify recurring forms of continuity within the historical unfolding of life rather than immutable biological categories.
+The question becomes more difficult when we ask what a taxon identifies biologically.
 
-This shift has important implications. If taxa track organised persistence rather than static traits, then classification becomes closely linked to evolutionary explanation. Taxonomic categories become meaningful because they identify patterns generated through inheritance, variation, adaptation, differential continuity, and evolutionary transformation. The reality of taxa derives from the continuity they track rather than from the existence of fixed biological essences. Taxonomy therefore becomes a way of describing the historical organisation of life rather than a search for immutable biological categories.
+There is no need for APS to answer this by stipulating that every taxon is the same kind of entity. Taxonomic practice can concern historical relationships, populations, species, lineages, clades, or other biologically warranted groupings. Different taxonomic questions may therefore involve different biological relations and different evidential requirements.
 
-## Taxa and Species
+This matters because the former APS formulation—treating a taxon simply as a classificatory designation applied to organised persistence—answered the ontological question too quickly. A scientific classification is certainly a representation, but it does not follow that whatever it represents is merely classificatory. Nor does the fact that APS investigates organised persistence establish that organised persistence is itself a complete ontology of taxa.
 
-Species are among the most familiar and scientifically important taxa, but they are not the only ones. Genera, families, orders, classes, phyla, and many other taxonomic categories are also taxa. APS therefore treats species as one instance of a broader classificatory practice rather than as the sole focus of biological classification.
+The more restricted APS question is therefore: **what biological entity, relationship, or recurring pattern is this taxonomic claim intended to identify, and what warrants treating it as such?**
 
-The distinction is important because species and taxa perform different explanatory roles. Species identify relatively specific lineage-patterns within evolutionary continuity. Taxa provide the broader classificatory framework through which such lineage-patterns are organised, compared, and related to one another. Every species is a taxon, but not every taxon is a species.
+Organised persistence can be relevant to that inquiry where historical continuity through change is part of the explanandum. It does not substitute for the biological evidence by which the taxon is recognised.
 
-This relationship reflects differences of scale rather than differences of underlying reality. Species classify relatively narrow forms of historical continuity, whereas higher taxa classify broader organisational patterns extending across larger evolutionary domains. Both are attempts to track recurring forms of organised persistence, but they do so at different levels of classificatory abstraction.
+## Species and Other Taxa
 
-APS therefore places species within a larger taxonomic architecture. Species classify historically continuous lineages. Higher taxa classify broader continuities and transformations that connect multiple lineages across evolutionary time. Taxonomic practice as a whole can thus be understood as the systematic classification of organised persistence across multiple scales. Species represent one important level within this classificatory architecture, but they are embedded within a broader hierarchy of taxonomic designations that track continuity across the history of life.
+Species are among the most familiar taxa, but they do not exhaust taxonomy. Every species is a taxon, whereas not every taxon is a species.
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-taxon.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-taxon.png"
-      alt="Taxa as classifications of organised persistence across evolutionary scales"
-      loading="lazy"
-    />
-  </a>
+That simple relation should not be turned into the stronger claim that species and higher taxa differ merely by representing narrower and broader versions of the same biological thing. Nor should species be defined simply as classifications of lineages. As discussed in the APS treatment of species, historical lineage continuity, species, and species classification are related but analytically distinguishable.
 
-  <p class="aps-diagram-caption">
-    <strong>Taxa as Classifications of Organised Persistence.</strong>
-    In APS, taxa are not fixed biological entities but classificatory designations applied to recurring patterns of organised persistence. Evolutionary processes generate historical continuity through inheritance, variation, adaptation, fitness, and natural selection, while taxonomy identifies and organises the resulting patterns across multiple scales. Species represent one form of such classification, while higher taxa track broader continuities across evolutionary history.
-  </p>
-</div>
+The same caution applies more broadly. The word *taxon* does not by itself tell us what sort of biological entity has been identified. Recognising something as a taxon therefore does not establish that species, genera, families, and other taxa must all possess the same ontology, causal status, or mode of historical continuity.
 
-## Traits, Genes, and Trees Reinterpreted
+Taxonomy supplies an organised means of identifying and relating biological diversity. The biological interpretation of particular taxa remains a substantive scientific question.
 
-APS does not reject the evidential tools of modern taxonomy. Traits, genetic similarities, and phylogenetic relationships remain indispensable sources of information for biological classification. What APS changes is not their importance but their interpretation.
+## The APS Interpretation — Continuity, Organisation, and Historical Change
 
-Traits provide evidence of underlying organisation. Morphological, physiological, developmental, and behavioural characteristics often reveal recurring patterns within viability-oriented systems. Such traits are valuable because they indicate continuity in the organisation of life, not because they constitute the taxon itself.
+APS contributes to taxonomy by making a particular set of questions explicit.
 
-Genes similarly contribute important evidence, but genes do not define taxa. Genes operate within organised systems whose viability depends upon complex interactions among developmental, physiological, ecological, and evolutionary processes. Genetic similarity can therefore provide evidence for taxonomic continuity while remaining only one aspect of a broader organisational reality.
+Where taxonomic relationships concern historical continuity, APS asks what persists through change. Where a biological grouping remains recognisable despite variation among its members or transformation through time, APS asks what relations support that continuity. Where taxonomic evidence spans different organisms, populations, lineages, environments, or periods, APS asks over what spatial, temporal, and organisational extent the relevant relations must be investigated.
 
-Phylogenetic relationships offer another crucial source of evidence. Evolutionary trees reveal historical continuity through descent and diversification, helping biologists reconstruct lineage relationships across time. Yet phylogenies alone do not exhaust biological organisation. Historical continuity remains embedded within the viability-oriented functioning of living systems and cannot be reduced entirely to branching patterns.
+These are questions about **Agency, Process, and Scale as analytic projections of living organisation**, not alternative taxonomic categories. Agency concerns viability-oriented activity in living systems; Process concerns the maintenance and transformation of organisation through time; Scale concerns the extent over which the relevant relations are organised and investigated.
 
-Traits, genes, and phylogenies are therefore best understood as complementary indicators of organised persistence. Taxa are not reducible to any one of these forms of evidence. Rather, they are classificatory designations applied to the continuity that such evidence collectively reveals.
+None of this supplies a universal mechanism for the production of taxa. Inheritance, variation, development, adaptation, fitness, natural selection, ecological interaction, and other processes can all matter to evolutionary histories. Their relevance and relationships must nevertheless be established for the particular biological case and explanandum. Their ordering within APS does not constitute a universal causal or temporal sequence generating taxa, taxonomic boundaries, or classifications.
 
-## Taxa as Classifications of Organised Persistence
+APS therefore contributes an organisational question to taxonomy without converting its conceptual architecture into a taxonomic theory.
 
-In APS, classification is best understood as the identification of relatively stable patterns within the continuous transformation of life. Taxa do not create these patterns, nor do they exist independently of the processes that generate them. Rather, taxa designate recurring forms of continuity that emerge within the historical organisation of living systems.
+## Evidence for Taxonomic Relationships
 
-This perspective shifts attention away from the search for defining traits and toward the continuity of viability-oriented organisation itself. Taxonomic categories become meaningful because organised persistence is reproduced across generations while remaining capable of evolutionary transformation. The persistence of a taxon therefore reflects neither simple similarity nor mere common ancestry but the continued reproduction of a recognisable mode of biological organisation.
+Taxonomic and systematic claims depend upon evidence. Morphological characters, molecular and genetic data, developmental features, ecological relationships, reproductive evidence, geographical distributions, and phylogenetic analyses can contribute to systematic investigation in different circumstances. Modern systematic practice therefore cannot be reduced to sorting organisms according to superficial similarity.
 
-The continuity tracked by taxonomy is generated through inheritance, transformed through variation and adaptation, differentiated through fitness, and historically stabilised through natural selection. Taxa do not create these processes. They classify the patterns that emerge from them. The reality of taxa consequently derives from the continuity and transformation of organised persistence rather than from the existence of fixed biological essences.
+APS does not replace these forms of evidence with “organised persistence.” Instead, it asks what each source of evidence warrants about the biological target under investigation.
 
-A taxon therefore designates a domain within which organisational patterns remain sufficiently continuous to be identified, described, and compared. Taxonomic classification becomes possible because the evolutionary transformation of life produces recurring forms of continuity that persist long enough to become recognisable across generations and lineages.
+A morphological character may contribute to recognising or diagnosing a taxon. Molecular evidence may bear on relationships or historical divergence. Phylogenetic analysis can provide hypotheses about ancestry and branching relationships. Different evidence may converge, conflict, or address different aspects of the taxonomic problem.
 
-## Scale and Taxonomic Classification
+This gives us another useful distinction:
 
-Taxonomic classification operates across multiple scales of biological organisation. Some taxa designate relatively narrow patterns of continuity, while others identify broader evolutionary relationships extending across large portions of the history of life. This diversity of taxonomic levels reflects the fact that organised persistence itself unfolds across multiple scales rather than existing at a single privileged level of description.
+**evidence ≠ taxon ≠ classification**
 
-Species provide one important example. They classify relatively specific lineage-patterns and therefore track comparatively narrow forms of evolutionary continuity. Higher taxa such as genera, families, orders, and classes classify broader continuities that encompass multiple species and lineages. The difference between these categories is not one of underlying biological reality but of classificatory scope.
+Evidence supports claims about biological entities and relationships. Taxa identify biologically grounded units within taxonomic practice. Classifications represent and organise those taxa. None of these should be substituted for the others.
 
-APS therefore rejects the idea that any particular taxonomic level possesses unique ontological status. Species are not more real than genera, nor are higher taxa merely convenient abstractions. All taxonomic categories represent attempts to track recurring patterns within the continuity and transformation of organised persistence. What differs is the scale at which those patterns are identified.
+<a
+  href="/assets/diagrams/evolution-taxon.png"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="aps-diagram"
+>
+  <img
+    src="/assets/diagrams/evolution-taxon.png"
+    alt="Diagram distinguishing biological evidence and relationships, taxa, taxonomic ranks, and scientific classification. Evidence supports taxonomic investigation; taxa are assigned to ranks and organised through classifications. Taxonomic rank is not APS Scale: relevant biological relations may extend across different spatial, temporal, and organisational extents."
+  />
+</a>
 
-Understanding taxa in this way helps explain why classification remains both scientifically useful and inherently flexible. Different explanatory purposes may require attention to different scales of continuity. Taxonomy succeeds not because it discovers immutable biological kinds but because it provides ways of identifying recurring organisational patterns across multiple scales of evolutionary history. The usefulness of taxonomic categories therefore reflects the persistence of such patterns rather than the existence of fixed classificatory boundaries within nature.
+<p class="aps-diagram-caption">
+  <strong>Taxa, Ranks, and Classification in APS.</strong>
+  Biological evidence, taxa, taxonomic ranks, and scientific classifications are related but distinct. Systematic evidence supports the recognition and comparison of taxa; ranks provide classificatory positions; and classifications organise and represent taxa and their relationships. APS Scale concerns the spatial, temporal, and organisational extent relevant to an investigation and should not be identified with taxonomic rank.
+</p>
 
-## Taxa and Processual Individuality
+This also provides an important comparator control on APS. Existing systematics already integrates multiple forms of evidence and explicitly investigates evolutionary relationships. APS therefore cannot claim explanatory gain merely by insisting that taxonomy should be historical, relational, or evidence-sensitive.
 
-APS distinguishes between biological individuals and taxonomic classifications. Biological individuals are viability-oriented systems whose activities contribute to maintaining the conditions required for their own continued existence. Processual individuals are those same systems understood as continuous through time through ongoing self-maintenance and organisational renewal.
+## Taxa, Biological Individuals, and Evolutionary Roles
 
-Taxa do not constitute individuals in either sense. They do not maintain viability, exercise agency, or participate directly in the processes through which living systems persist. Instead, taxa classify patterns that extend across populations of individuals and across evolutionary timescales. Their role is descriptive and interpretive rather than organisational.
+Taxonomic status should not be confused with biological individuality.
 
-This distinction helps prevent a common source of conceptual confusion. Because taxa describe recurring patterns across many organisms, they can sometimes appear to function as biological entities in their own right. APS rejects this interpretation. Agency, viability, adaptation, and organised persistence belong to living systems. Taxonomic categories describe recurring patterns within the historical continuity of those systems but do not themselves become units of biological organisation.
+A taxonomic name, rank, or classification does not become a biological individual or agent merely because scientists use it to represent a biological group. In APS, biological agency concerns viability-oriented organisational activity. A classificatory category as such does not maintain viability, regulate itself, or act.
 
-Taxa therefore classify patterns across processual individuals rather than functioning as processual individuals themselves. This preserves the distinction between the systems that generate biological continuity and the classificatory frameworks used to track that continuity through time.
+But the converse inference is equally unwarranted. It does not follow that whatever biological entity a taxon denotes cannot be an individual, historical entity, causal participant, or evolutionary unit. The longstanding discussion of species as individuals illustrates why these questions require independent argument rather than resolution by terminology alone.
 
-## Why Boundaries Are Often Fuzzy
+APS therefore leaves taxon ontology open. Particular taxa may need to be investigated as individuals, kinds, classes, lineages, clades, historical entities, evolutionary units, or in other terms appropriate to the scientific question. The framework's contribution is to prevent the scientific representation from being mistaken for the biological organisation represented—and equally to prevent a classificatory label from deciding that organisation's ontology in advance.
 
-If taxa classify evolving organisational processes rather than fixed entities, then sharp boundaries are not always expected. The continuity of life is historical, dynamic, and multi-scale. Consequently, the classifications imposed upon that continuity will often exhibit degrees of overlap, ambiguity, and context dependence.
+## Boundaries, Delimitation, and Change
 
-Examples such as hybridisation, horizontal gene transfer, ecological convergence, and gradual evolutionary divergence illustrate this point clearly. In each case, attempts to identify precise taxonomic boundaries encounter the reality that biological organisation remains both continuous and transformable. Evolution rarely produces perfectly discrete categories because continuity and change occur simultaneously.
+Taxonomic practice requires decisions about delimitation: where one recognised taxon ends and another begins. The difficulty of those decisions varies greatly among biological cases.
 
-APS therefore interprets fuzzy taxonomic boundaries not as failures of classification but as reflections of the underlying character of biological reality. Organised persistence does not divide itself into perfectly isolated compartments. Instead, evolutionary processes generate overlapping and historically connected patterns whose boundaries may vary according to explanatory context.
+APS does not predict that taxonomic boundaries must be fuzzy merely because life is processual. Nor does it predict that boundaries must be sharp. Boundaries may be comparatively clear, graded, contested, or historically changing depending on the biological relationships involved, the evidence available, the criteria being applied, and the scientific question being addressed.
 
-The resulting flexibility should not be mistaken for arbitrariness. Taxonomic classifications remain constrained by real patterns of continuity within the organisation of life. The fact that boundaries may be graded does not imply that taxa are unreal. Rather, it reflects the historical and processual nature of the phenomena being classified.
+This is particularly important when classification concerns evolving biological systems. Historical transformation can alter the relations on which classifications depend, but the existence of change does not itself determine how taxa should be delimited.
 
-## Classification as an Interpretive Practice
+The relevant question is therefore not whether APS prefers fixed or fluid boundaries. It is **what biological evidence warrants the proposed delimitation in the case concerned**.
 
-Under APS, classification remains an indispensable scientific practice, but its role is clarified. Taxonomy is not the assignment of organisms to pre-existing boxes. It is the interpretive mapping of organised persistence, a systematic attempt to identify and represent recurring patterns within the continuity and transformation of life.
+## Scale and Explanatory Extent
 
-This interpretation helps explain why multiple classificatory schemes can sometimes coexist without necessarily contradicting one another. Different approaches may emphasise different dimensions of continuity, including morphology, genetics, ecology, development, or evolutionary history. Yet all seek to track aspects of the same underlying biological reality: the persistence and transformation of viability-oriented organisation across time.
+Taxonomic rank is not APS Scale.
 
-Disagreements among taxonomic schemes therefore need not imply that classification is arbitrary or purely conventional. More often they reflect differences in explanatory emphasis concerning which dimensions of continuity are most relevant for a particular scientific purpose. Classification remains objective because it is constrained by genuine patterns within biological organisation, even when multiple legitimate ways of representing those patterns exist.
+A genus is not simply a larger biological scale than a species, and a family is not automatically a still higher organisational level. Moving through taxonomic ranks therefore should not be represented as moving through a hierarchy of APS scales.
 
-APS consequently treats taxonomy as a scientifically grounded interpretive practice. Classification does not create biological order but seeks to describe and organise the continuity already present within the evolutionary history of life.
+Scale concerns the spatial, temporal, and organisational extent over which the relations relevant to an explanandum are investigated. A taxonomic problem may require attention to relations among organisms within populations, patterns extending through lineages over long periods, geographical distributions, ecological interactions, developmental organisation, or combinations of these. Which extent matters depends on the question being asked.
 
-## Conclusion
+This distinction prevents classificatory breadth from being mistaken for biological organisation. A higher taxonomic rank may encompass a broader set of included taxa, but that fact alone establishes neither a higher organisational scale nor greater causal or explanatory priority.
 
-APS reframes the taxon as a classificatory designation applied to historically continuous patterns of organised persistence. Taxa do not explain biological organisation, generate evolutionary continuity, or function as units of agency. Rather, they identify recurring patterns produced by the processes through which viability-oriented systems persist and transform across time.
+APS Scale is therefore relevant to taxonomy only when it helps specify **where and over what extent the biological relations pertinent to a taxonomic question are organised**.
 
-Inheritance reproduces organisational continuity across generations. Variation introduces novelty into that continuity. Adaptation determines whether novelty can be incorporated into viable persistence. Fitness differentiates among viable variants, while natural selection contributes to their historical stabilisation. Taxonomic classifications emerge as ways of identifying the recurring patterns generated by this broader evolutionary architecture.
+## Classification as Scientific Representation
 
-Taxa are therefore explanatory designations rather than explanatory foundations. Their scientific importance lies not in representing fixed biological kinds but in providing a systematic means of tracking the continuity and transformation of organised persistence across multiple scales of life. Classification becomes possible because organised persistence generates recurring historical patterns, and taxonomy provides a framework for recognising and describing those patterns within the broader evolutionary organisation of life.
+Classification is a scientific representational practice. This does not make it arbitrary.
+
+Taxonomists make judgements about evidence, delimitation, relationships, nomenclature, and classificatory organisation. Those judgements are constrained by the biological phenomena being investigated and by the methods and criteria appropriate to the problem. Different classificatory proposals can therefore be assessed against evidence rather than treated merely as alternative naming conventions.
+
+At the same time, a classification should not be identified with biological reality itself. Scientific representations select, organise, and make explicit relationships for particular purposes. Different questions can make different aspects of biological diversity salient, and competing classifications may sometimes disagree about which relations should govern delimitation or organisation.
+
+APS contributes by asking whether the representation adequately tracks the organisation, continuity, or transformation relevant to the specified explanandum. It does not establish objectivity by requiring taxonomic practice to adopt APS vocabulary. The adequacy of a taxonomic claim remains answerable to biological evidence and appropriate systematic comparison.
+
+## What APS Adds — and What It Does Not Establish
+
+APS can help keep several questions apart that are easily conflated in discussions of taxonomy.
+
+It distinguishes the biological phenomena being investigated from the taxa used to identify them, the ranks assigned to those taxa, and the classifications through which they are represented. It directs attention to continuity through change and to the organisation supporting biologically relevant persistence. It asks which processes matter in the particular case and over what spatial, temporal, and organisational extent the relevant relations hold. And it emphasises that explanatory claims must be assessed relative to a specified explanandum and an appropriate comparator.
+
+These distinctions can be useful without implying that existing taxonomy lacks them. Contemporary systematics already employs historical and phylogenetic reasoning, multiple forms of biological evidence, and explicit methods for identifying and comparing taxa. Processual approaches likewise already challenge static accounts of biological entities.
+
+APS can therefore claim explanatory gain only where its organisational analysis distinguishes relevant dependencies, resolves an explanatory problem, or otherwise improves explanation relative to the strongest comparator addressing the same explanandum. Merely redescribing taxa as manifestations of organised persistence would not meet that standard.
+
+Accordingly, APS does **not** establish a universal ontology of taxa, a uniquely correct classification, a universal species concept, universally graded taxonomic boundaries, a hierarchy of biological scales corresponding to taxonomic ranks, or a fixed evolutionary sequence through which taxa are produced.
+
+Its more limited contribution is methodological and organisational: to make explicit what biological continuity or organisation is being investigated, what evidence bears on it, what classificatory representation is being used, and what explanatory work the resulting taxonomic claim is expected to perform.
+
+## Conclusion — Taxa Within Evolutionary Biology
+
+Taxa are indispensable to the scientific investigation of biological diversity, but taxa, taxonomic ranks, and classifications should not be treated as interchangeable. Classification represents and organises biological findings; it does not by itself determine the ontology of the biological entities or relationships represented.
+
+APS approaches taxonomy through questions of organised persistence, historical continuity, transformation, and explanatory extent. It asks what a taxonomic claim identifies biologically, what evidence warrants that identification, which processes are relevant to the case, and over what extent the relevant relationships hold.
+
+This interpretation leaves the substantive work of taxonomy and systematics intact. It neither replaces phylogenetic inference nor supplies species or taxon boundaries from APS principles. Instead, it provides a framework for distinguishing biological target, evidence, taxon, rank, and representation while keeping their relationships explicit.
+
+Taxonomic classification can therefore be both interpretive and empirically constrained. Its scientific value lies not in converting evolving life into fixed categories, nor in treating every taxon as the same kind of biological entity, but in providing warranted and revisable ways of identifying, comparing, and representing biological diversity through evolutionary history.
 
 ## Key Point
 
-In APS, a taxon is a classificatory designation applied to historically continuous patterns of viability-oriented, constraint-closed organisation. Taxa do not constitute fundamental biological units but provide ways of identifying and describing recurring forms of organised persistence across evolutionary time and scale.
-
-
+> **A taxon, its taxonomic rank, and its scientific classification are not the same thing. APS asks what biological entity, relationship, or pattern a taxonomic claim identifies, what evidence warrants it, and over what extent the relevant relations hold—without determining taxon ontology or classification in advance.**

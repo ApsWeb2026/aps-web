@@ -4963,3 +4963,56 @@ references:
     status: verified
     authority: Harvard University Press / bibliographic records
     verifiedDate: 2026-09-26
+- id: de-queiroz-1998-general-lineage-concept
+  type: book-chapter
+  authors: de Queiroz, K.
+  year: 1998
+  title: 'The General Lineage Concept of Species, Species Criteria, and the Process of Speciation: A Conceptual Unification and Terminological Recommendations'
+  book-title: 'Endless Forms: Species and Speciation'
+  editors: Howard, D. J., & Berlocher, S. H.
+  publisher: Oxford University Press
+  pages: 57–75
+  doi: 10.1093/oso/9780195109009.003.0005
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-09-26
+- id: mayden-1997-hierarchy-species-concepts
+  type: book-chapter
+  authors: Mayden, R. L.
+  year: 1997
+  title: 'A Hierarchy of Species Concepts: The Denouement in the Saga of the Species Problem'
+  book-title: 'Species: The Units of Biodiversity'
+  editors: Claridge, M. F., Dawah, H. A., & Wilson, M. R.
+  publisher: Chapman & Hall
+  pages: 381–423
+  verification:
+    status: verified
+    authority: bibliographic records
+    verifiedDate: 2026-09-26
+- id: hull-1976-species-individuals
+  type: journal-article
+  authors: Hull, D. L.
+  year: 1976
+  title: 'Are Species Really Individuals?'
+  journal: Systematic Zoology
+  volume: '25'
+  issue: '2'
+  pages: 174–191
+  doi: 10.2307/2412744
+  verification:
+    status: verified
+    authority: Oxford Academic
+    verifiedDate: 2026-09-26
+- id: simpson-2010-plant-systematics
+  type: book
+  authors: Simpson, M. G.
+  year: 2010
+  title: Plant Systematics
+  edition: '2'
+  publisher: Academic Press
+  doi: 10.1016/C2009-0-02260-0
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-09-26

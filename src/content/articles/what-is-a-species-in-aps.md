@@ -6,21 +6,33 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: extension
+
 abstract: >
-  In APS, species are not fixed categories or fundamental biological units but
-  historically extended lineage-patterns of viability-oriented organisation.
-  This article reframes species as evolving continuities of organised persistence,
-  integrating inheritance, variation, and transformation within a processual
-  account of life.
+  Species are indispensable to biological classification and evolutionary
+  inquiry, yet what species are, how they should be delimited, and what
+  explanatory roles they can play remain contested. APS approaches these
+  questions by distinguishing historical biological continuity, species,
+  and the scientific classifications through which species are identified.
+  It interprets species concepts as attempts to track biologically significant
+  patterns within evolving lineages while resisting both the treatment of
+  species as fixed, context-independent kinds and their reduction to arbitrary
+  classificatory labels. This perspective does not supply a uniquely correct
+  species concept, determine species boundaries in advance, or establish that
+  organised persistence has explanatory priority over established biological
+  approaches. Instead, it provides an organisational framework within which
+  questions of lineage continuity, species delimitation, classification, and
+  evolutionary explanation can be distinguished and investigated.
+
 keyPoints:
-  - Species are not fixed categories but historically continuous patterns of organised persistence.
-  - Species identity is grounded in viability-oriented organisation, not static traits or definitions.
-  - Boundaries between species are context-dependent and reflect ongoing transformation.
-  - Species are outcomes of inheritance, variation, and transformation across time.
-  - APS treats species as dynamic lineage-patterns rather than fundamental biological units.
+  - Species, lineages, and species classifications are related but non-identical explanatory objects.
+  - APS interprets species concepts as attempts to track biologically significant patterns within historically changing lineages.
+  - Historical continuity does not by itself determine which species concept or delimitation criterion is appropriate in a particular biological case.
+  - Species boundaries may be sharp, graded, contested, or historically changing according to the biological relations and criteria relevant to the case.
+  - APS does not infer a universal pathway to species formation from inheritance, variation, development, adaptation, fitness, natural selection, or other evolutionary processes.
+
 relatedGlossaryTerms:
   - species
   - classification
@@ -31,152 +43,125 @@ relatedGlossaryTerms:
   - persistence
   - biological-individual
   - processual-individual
+
 relatedArticles:
   - what-is-evolution-in-aps
   - variation-in-aps-where-does-novelty-come-from
   - inheritance-and-continuity-in-aps
+
 references:
-  - id: deQueiroz1998
-    authors: de Queiroz, K.
-    year: 1998
-    title: The General Lineage Concept of Species, Species Criteria, and the Process of Speciation
-    publisher: Oxford University Press
-
-  - id: Mayden1997
-    authors: Mayden, R. L.
-    year: 1997
-    title: "A Hierarchy of Species Concepts: The Denouement in the Saga of the Species Problem"
-    publisher: Chapman & Hall
-
-  - id: Spencer2026
-    authors: Spencer, R. D.
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: Biological Theory
-    doi: https://doi.org/10.1007/s13752-026-00547-6
+  - de-queiroz-1998-general-lineage-concept
+  - mayden-1997-hierarchy-species-concepts
+  - hull-1976-species-individuals
+  - spencer-2026-agency-defining-activity-life
 ---
 
-## Introduction
+**Where This Article Fits**
 
-> **Where this article fits:** Species occupy an important but often misunderstood position within evolutionary biology. APS does not treat species as fundamental units of life, agency, or evolution. Instead, species are understood as historically extended lineage-patterns generated through the continuity and transformation of viability-oriented organisation across time. This article explains how APS reframes species as classifications of organised persistence rather than fixed biological kinds.
+*This article extends the APS account of Evolutionary Dynamics to the problem of species and biological classification. Its purpose is not to replace established species concepts with an APS definition, but to clarify how questions about species change when historical biological continuity, species delimitation, and scientific classification are treated as related but distinct explanatory problems.*
 
-Few concepts in biology are as familiar and yet as conceptually unstable as *species*. Biologists routinely classify organisms into species, track species through evolutionary history, and use species as fundamental units of description. Yet there remains no universally accepted definition of what a species actually is. Competing approaches emphasise reproductive isolation, phylogenetic distinction, ecological role, morphological similarity, or genetic divergence, often yielding different and sometimes conflicting classifications.
+*Within APS, evolutionary history concerns the persistence and transformation of living organisation through time. Species concepts can be understood as attempts to identify biologically significant patterns within that history, but the existence of historical continuity does not by itself determine where species boundaries should be drawn, which criteria should be used to recognise them, or what causal and explanatory roles species may have. Those questions remain matters for biological investigation and for explicit comparison among alternative species concepts.*
 
-This instability reflects a deeper problem. Species are frequently treated as if they were natural kinds or fundamental units of biological reality, despite persistent difficulty in identifying precise boundaries or universal defining characteristics. The resulting debates often focus on which criterion should define species rather than on the biological processes that make species classifications possible in the first place.
+*The article therefore connects APS with the species problem without treating APS architecture as a substitute for species biology. Inheritance, variation, development, adaptation, natural selection, ecology, and other processes may all matter to lineage continuity, divergence, and speciation, but their relevance and relationships must be established for the biological case and explanatory question concerned.*
 
-APS approaches the problem differently. Instead of beginning with criteria for distinguishing species, it asks what biological reality species classifications are attempting to track. From this perspective, species are neither arbitrary labels nor fundamental units of life. They are historically extended patterns that emerge from the continuity and transformation of viability-oriented organisation across evolutionary time.
+## Introduction — What Is the Species Question?
 
-Understanding species therefore requires understanding the evolutionary processes that generate lineage continuity. Species do not exist independently of inheritance, variation, adaptation, fitness, and natural selection. Rather, they are recognisable historical outcomes of these processes operating across generations. APS consequently treats species not as foundational elements of biology but as classificatory representations of evolving organised persistence.
+Few concepts are as familiar in biology as *species*, yet few have generated such persistent disagreement about their meaning and application. Biologists routinely identify species, reconstruct their histories, compare their characteristics, investigate their origins, and use them to organise knowledge of biological diversity. At the same time, reproductive, phylogenetic, ecological, morphological, genetic, and other approaches can emphasise different features when species are recognised or delimited.
 
-## Why the Concept of Species Is Problematic
+This plurality does not necessarily show that species are unreal or that biological classification is arbitrary. Nor does it follow that one criterion must capture everything biologically important about species. An influential response to the species problem has been to distinguish a more general conception of species from the operational criteria used to recognise or delimit them. Mayden's hierarchical treatment of primary and operational species concepts and de Queiroz's distinction between a general lineage concept and species criteria are important attempts to separate questions about what species are from the criteria used to recognise or delimit them.
 
-The difficulty of defining species has long been recognised within evolutionary biology. Reproductive, ecological, phylogenetic, and morphological species concepts each capture important aspects of biological organisation, yet none applies universally across all forms of life. Hybridisation, ring species, asexual organisms, horizontal gene transfer, and ongoing evolutionary change continually challenge attempts to identify sharp and permanent species boundaries.
+For APS, this provides an important starting point. The central question is not simply, "What definition should APS give to species?" It is instead: **what biological continuities and differences are species concepts intended to identify, and what follows when those phenomena are considered within an organisational and historical account of life?**
 
-These difficulties arise because species are often expected to function simultaneously as explanatory units, classificatory categories, and biological realities. When these roles are conflated, disagreements over species definitions become inevitable. Different definitions may be useful for different explanatory purposes without necessarily identifying a single underlying biological essence.
+Approaching the question in this way prevents APS from treating an existing taxonomic category as though it were automatically a fundamental biological entity. Equally, however, it prevents the opposite mistake of treating species as nothing more than names imposed upon an otherwise unstructured evolutionary continuum. Biological history exhibits structure, continuity, divergence, interaction, and transformation. Species inquiry concerns how scientifically significant patterns within that history should be identified and explained.
 
-APS interprets this situation not as evidence that species are unreal but as evidence that species are classifications of evolving historical processes rather than fixed organisational kinds. The more biological organisation is understood as an ongoing process of persistence and transformation, the less surprising it becomes that species boundaries often resist precise definition.
+## What Species Concepts Are Trying to Track
 
-The central question therefore shifts from "What criterion defines a species?" to "What forms of continuity and transformation do species classifications track?" APS answers this question by locating species within the broader evolutionary architecture of organised persistence.
+The long-standing diversity of species concepts reflects, in part, the fact that different biological properties become informative in different organisms and explanatory contexts. Reproductive relations may be especially important in some cases, phylogenetic history in others, while ecological differentiation, morphology, genetic divergence, or combinations of evidence may become relevant elsewhere. Difficulties arise when a criterion that is informative for one purpose or biological system is assumed to provide a universal definition applicable without qualification across all of life.
 
-## Species as Patterns of Organised Persistence
+The distinction between a species concept and a species criterion is therefore important. De Queiroz's general lineage approach is particularly relevant because it argues that many apparent disagreements among species concepts arise from treating properties used as criteria for recognising or delimiting species as though they were themselves competing definitions of what species fundamentally are. On this account, properties such as reproductive isolation, diagnosability, ecological differentiation, or monophyly can develop at different points during lineage divergence and need not coincide.
 
-[[box:what-biological-classification-tracks-in-aps]]
+APS should not redescribe this existing insight as an original consequence of its own framework. The significance for APS is instead methodological. If species identification concerns historically developing biological relations, then the classificatory criteria appropriate to a particular case cannot be inferred merely from the position of species within a conceptual architecture. They must be connected to the biological history and explanatory purpose for which the classification is being used.
 
-In APS, the primary reality of biology is viability-oriented, constraint-closed organisation. Living systems persist through the continuous maintenance of their own conditions of existence, while evolution describes the historical transformation of that organised persistence across time. Biological explanation therefore begins with organised persistence rather than with categories, taxa, or classifications.
+This shifts attention from the search for a single timeless diagnostic property toward the relationships among historical continuity, biological differentiation, and scientific delimitation. It also leaves open the possibility that different criteria can legitimately illuminate different aspects of the same evolutionary history without implying that all classifications are equally adequate or that species have no biological basis.
 
-Within this framework, species are understood as historically stabilised patterns in the continuity of such organisation. They do not generate persistence, maintain viability, or direct evolutionary change. Rather, they are how evolving continuity appears when tracked across populations, generations, and evolutionary timescales.
+## Species, Lineages, and Classification
 
-A species is therefore not a biological unit in the same sense as an organism. Instead, it is a historically extended lineage-pattern of viability-oriented organisation. Species classifications identify recurring forms of continuity within the ongoing transformation of organised persistence.
+Three objects that are easily conflated must be distinguished: **lineages, species, and species classifications**.
 
-This interpretation helps explain both the reality and the fluidity of species. Species are real because evolutionary lineages exhibit genuine historical continuity. At the same time, species are not fixed because the organisational continuity they track remains subject to inheritance, variation, adaptation, and evolutionary transformation. Species therefore emerge from evolutionary processes rather than existing independently of them.
+A lineage concerns historical biological continuity. Organisms arise from prior organisms, populations have histories, and biological organisation is reproduced and transformed through time. Such historical relations exist whether or not scientists subsequently delimit, name, or classify them. Classification therefore does not create the historical processes upon which it operates.
 
-These lineage-patterns arise because organised persistence is reproduced across generations through inheritance while simultaneously transformed through variation, adaptation, differential continuity, and natural selection. Species do not stand apart from these processes. They are recognisable historical expressions of evolutionary continuity operating across time.
+A species is not, however, simply synonymous with a lineage. Lineages can be individuated at different extents and for different biological purposes, and not every historical continuity thereby constitutes a species. De Queiroz's lineage-oriented account provides one influential way of understanding species as segments of population-level lineages, but that proposal belongs to an established biological debate rather than following automatically from APS.
 
-Species are thus biologically real lineage-patterns that classification seeks to identify, describe, and stabilise for explanatory purposes. Their reality derives from the continuity of evolving lineages rather than from the existence of fixed biological kinds.
+Nor should a species be equated with its classification. Species classification is the scientific activity through which biologically significant groupings or patterns are identified, delimited, named, and related to one another. The classification is therefore an epistemic and scientific representation of biological organisation and history, even when what it tracks is biologically real.
 
-## Species and Lineages
+This distinction also prevents APS from resolving the ontology of species by stipulation. Hull's influential argument that species can be understood as spatiotemporally extended individuals and potential units of evolution illustrates how much is at stake in moving from questions of classification to claims about what species themselves are. APS need not decide in advance whether species are best understood as individuals, kinds, classes, lineage segments, population-level entities, or through some other ontology. What it can require is that these alternatives not be conflated with the classificatory practices through which species are recognised.
 
-APS draws an important distinction between species and lineages because much of the confusion surrounding species arises from treating the two as interchangeable. Although closely related, they refer to different aspects of evolutionary continuity and therefore play different explanatory roles.
+The resulting position is deliberately modest but important: **historical biological continuity, species, and species classifications are related, but they are not identical explanatory objects**.
 
-A lineage is the historical continuity of organised persistence through time. Lineages exist because viability-oriented organisation is reproduced across generations through inheritance while remaining capable of transformation through variation, adaptation, and evolutionary change. A lineage therefore represents an ongoing historical process regardless of whether biologists classify it.
+## The APS Interpretation — Historical Patterns of Organised Persistence
 
-Species, by contrast, are classifications of such continuity. They are attempts to identify and describe historically recognisable patterns within evolving lineages. Species classifications therefore depend upon lineages, but lineages do not depend upon species classifications. Evolutionary continuity exists before it is named, categorised, or organised within a taxonomic framework.
+APS begins from living organisation rather than from taxonomic categories. Living systems persist through viability-oriented, constraint-closed organisation, while evolution concerns the historical transformation of such organisation. From this perspective, the history within which species are identified is not simply a succession of static forms but an ongoing pattern of biological continuity and change.
 
-This distinction helps clarify why species boundaries are often contested while lineage continuity remains comparatively uncontroversial. Biological classifications may change as new evidence becomes available or as different explanatory purposes require different forms of categorisation. The underlying continuity of evolving lineages, however, remains a feature of biological reality regardless of how classification is organised.
+Species concepts can therefore be investigated as attempts to identify significant patterns within the historical continuity and transformation of living organisation. This provides an APS interpretation of the species problem, but it should not be mistaken for a new universal definition of species. To say that species inquiry concerns historically organised continuity is not yet to say which continuities constitute species, which differences establish their boundaries, or which species criterion should be used.
 
-APS therefore treats lineages as the primary historical realities of evolution and species as classificatory frameworks for tracking those realities. Species are neither arbitrary inventions nor fixed natural kinds. They are explanatory tools grounded in the genuine continuity of organised persistence across evolutionary time.
+The concept of organised persistence contributes a particular explanatory orientation. It directs attention to how living organisation is maintained and transformed through time, and therefore to the biological histories within which recurrent lineage-patterns can become identifiable. This can help relate species questions to broader questions about evolutionary continuity without turning species into fixed categories detached from the processes that produce biological history.
 
-Understanding species in this way helps connect classification directly to the broader APS evolutionary architecture. Inheritance reproduces continuity across generations. Variation introduces novelty into that continuity. Adaptation determines whether novelty can be incorporated into viable persistence. Fitness differentiates among viable variants, while natural selection contributes to their historical stabilisation. Species emerge as recognisable patterns within the continuity and transformation generated by these processes.
+The qualification is crucial. Organised persistence does not acquire explanatory priority simply because it is central to APS. A phylogenetic reconstruction, population-genetic analysis, reproductive criterion, ecological account, or other biological approach may provide the explanation required for a particular species-related question. APS must therefore be assessed against the explanandum and the strongest relevant comparator rather than assumed to provide explanatory gain because it embeds species within a broader organisational vocabulary.
 
+## Species Boundaries and Historical Change
 
-<div class="aps-diagram">
-  <a href="/assets/diagrams/evolution-lineage.png" target="_blank" rel="noopener">
-    <img
-      src="/assets/diagrams/evolution-lineage.png"
-      alt="Species as historical lineage-patterns generated through inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation"
-      loading="lazy"
-    />
-  </a>
+Species boundaries become especially informative when classification encounters biological change. If lineage differentiation occurs through time, properties used to recognise species need not arise simultaneously. Reproductive separation, ecological differentiation, morphological distinction, genetic divergence, and phylogenetic diagnosability may become evident at different stages or may have different significance in different biological systems.
 
-  <p class="aps-diagram-caption">
-    <strong>Species as Historical Lineage-Patterns.</strong>
-    In APS, species are not fundamental biological units but classifications of historically continuous lineages. Organised persistence is reproduced through inheritance, transformed through variation and adaptation, differentiated through fitness, and historically stabilised through natural selection. Species emerge as recognisable patterns within this broader continuity and transformation of evolutionary organisation.
-  </p>
-</div>
+This is one reason that disagreements over species delimitation cannot always be resolved by searching for a single property that must be present in every case. It does not follow, however, that all species boundaries are inherently vague or that APS predicts that boundaries must always be graded. Some biological cases may support relatively clear delimitations, whereas others may remain contested, changing, or dependent upon the criteria relevant to the investigation.
 
+APS can accommodate this diversity because its account of evolution does not require historically changing organisation to fall naturally into timeless classificatory compartments. At the same time, the framework provides no licence to treat every possible delimitation as equally satisfactory. Classifications remain answerable to biological evidence, historical relations, and the explanatory purposes for which they are constructed.
 
-## Species Are Not Fundamental Units
+Species boundaries should therefore be investigated rather than prescribed by the framework. Where different criteria yield different delimitations, the explanatory task is to determine what each criterion tracks, how those tracked properties arose, and which distinctions matter to the question under investigation. Historical change makes classification difficult in some cases, but it also supplies the biological structure that makes species inquiry scientifically meaningful.
 
-Because species emerge from underlying evolutionary processes, APS does not treat them as fundamental units of life, agency, or biological explanation. The primary units of biological organisation are viability-oriented systems capable of sustaining their own persistence through ongoing self-maintenance. Species arise from the historical continuity and transformation of such systems rather than functioning as independent causal entities.
+## Species in Evolutionary Explanation
 
-This distinction is important because species are often treated as if they were the primary actors of evolution. In APS, however, agency belongs to living systems that actively maintain viability. Evolutionary processes operate through the inheritance, variation, adaptation, and differential continuity of those systems. Species are historical patterns produced by these processes, not the mechanisms that generate them.
+The relationship between species and evolutionary explanation is more complex than the claim that species are simply products of a fixed sequence of evolutionary processes. Inheritance, variation, development, adaptation, natural selection, ecological interaction, genetic change, and other processes can contribute to lineage continuity and divergence, but their relationships differ among organisms, histories, environments, and explanatory targets.
 
-Similarly, APS does not treat species as bearers of biological individuality. Biological individuals are organised systems whose activities contribute to maintaining the conditions required for their own continued existence. Processual individuals are those same systems understood as continuous through time through ongoing self-maintenance and organisational renewal. Species, by contrast, are patterns distributed across many such individuals and extended across evolutionary history.
+APS therefore does not infer a universal causal pathway to species formation from the ordering of concepts within its evolutionary architecture. Inheritance concerns forms of continuity across generations; variation concerns differences arising within historical continuity; adaptation, fitness, and natural selection identify other evolutionary relations; development and ecology can contribute in ways that are indispensable in particular cases. None of these conceptual distinctions establishes by itself that every species must arise through the same dependency structure or temporal sequence.
 
-Treating species as primary units risks obscuring the organisational processes that actually sustain life. APS therefore places explanatory priority on organised persistence itself while recognising species as historically important patterns that emerge from its continuity and transformation.
+The same control applies to the causal status of species. It would be too strong to say that species are merely outcomes of evolution and can never enter evolutionary explanations as causally or explanatorily relevant entities. Hull's treatment of species as individuals and possible units of evolution provides a direct reason not to settle that issue by definition. Whether species-level organisation contributes causally to a particular evolutionary phenomenon is an empirical and theoretical question.
 
-## Scale and the Status of Species
+APS can nevertheless clarify an important distinction. Naming or delimiting a species does not by itself explain the historical processes through which the relevant biological pattern arose, persisted, or changed. Species classification can identify an explanandum without supplying its causal explanation. Conversely, a process explaining lineage divergence does not by itself determine how the resulting diversity should be classified.
 
-Species occupy a particular scale within the broader organisation of biological reality. At smaller scales, biological organisation is expressed in the dynamics of individual living systems and their ongoing maintenance of viability. At larger scales, organisation appears in ecological interactions, evolutionary transformations, and long-term historical patterns. Species occupy an intermediate position within this hierarchy of scales.
+This separation of tasks allows species to remain important within evolutionary explanation without requiring them to be either fundamental causes of evolution or merely passive labels attached to its products.
 
-This intermediate position helps explain both the usefulness and the limitations of species concepts. Species describe continuities extending across populations and generations, but they do not exhaust the organisational processes that generate those continuities. The persistence of a lineage depends upon inheritance, variation, adaptation, and selection regardless of how species classifications are constructed.
+## Scale and Explanatory Extent
 
-APS therefore treats species as scale-relative stabilisations of organised persistence. They are not privileged levels of reality but useful ways of tracking recurring patterns within evolutionary continuity. Different explanatory purposes may emphasise different aspects of that continuity, producing multiple legitimate approaches to species classification.
+Species have often been discussed as though they occupied a particular level in a biological hierarchy, situated above organisms and populations but below larger evolutionary or ecological groupings. APS does not require this picture. Scale concerns the spatial, temporal, and organisational extent over which biologically relevant relations are investigated, not a fixed ladder of entities to which explanatory priority can be assigned.
 
-The scale-relative character of species also helps explain why species boundaries often appear uncertain. Different classificatory frameworks may highlight different dimensions of lineage continuity, yielding classifications that overlap without being identical. This does not imply that species are unreal. Rather, it reflects the fact that classification operates upon evolving historical continuities rather than fixed organisational kinds. Species remain useful precisely because evolutionary continuity exhibits recurring patterns even while remaining subject to ongoing transformation.
+Species questions can consequently extend across many biological relations. A delimitation problem may concern reproductive interactions among organisms, genetic structure within and among populations, ecological differentiation, developmental variation, or phylogenetic relationships extending across long periods of evolutionary history. Different questions can therefore require attention to different spatial and temporal extents without implying that the species itself occupies a privileged intermediate scale.
 
-## Why Species Boundaries Are Fluid
+This matters because scale can otherwise be mistaken for explanation. Locating a pattern at a population, lineage, ecological, or historical extent does not determine which causes generated it or which explanatory description is most adequate. Nor does APS require causal influence to be equal or reciprocal across all relevant extents. Strong causal asymmetries may occur, but they must be established by biological evidence rather than inferred from the APS triad.
 
-The well-known difficulties associated with species boundaries are not anomalies within APS but expected consequences of evolutionary continuity. If species are classifications of evolving lineages rather than fixed biological kinds, their boundaries will inevitably exhibit degrees of uncertainty, overlap, and historical contingency.
+The appropriate scale of a species explanation is therefore determined by the explanandum. APS contributes by making that choice explicit and by discouraging the assumption that the name of a biological entity already determines the spatial, temporal, or organisational extent at which it should be explained.
 
-Examples such as ring species, hybridisation, horizontal gene transfer, and microbial evolution illustrate this point particularly clearly. In each case, attempts to identify sharp boundaries encounter the reality that biological organisation continues to transform while remaining historically connected. Evolution rarely produces completely discrete categories because continuity and transformation occur simultaneously.
+## What APS Adds — and What It Does Not Establish
 
-APS therefore expects species boundaries to be graded rather than absolute. Organised persistence does not cease and restart at precise taxonomic thresholds. Instead, evolutionary lineages undergo continual modification while maintaining varying degrees of historical continuity. Species classifications attempt to identify stable patterns within this process, but the process itself remains dynamic.
+The principal contribution of APS to the species problem is not a new criterion for species recognition. Existing biological work already provides sophisticated lineage concepts, multiple operational criteria, and extensive debate over species ontology. In particular, the historical and lineage-oriented character of species cannot be claimed as a distinctive APS discovery.
 
-The fluidity of species boundaries is therefore not evidence of classificatory failure. It reflects the historical character of biological reality itself. Species remain useful because they track genuine patterns within evolving continuity, even when those patterns resist rigid categorisation.
+APS instead contributes a way of relating species inquiry to a broader account of living organisation while preserving distinctions that are easily collapsed. Historical biological continuity is not identical with a species; a species is not identical with its scientific classification; and a classification does not itself explain the biological processes responsible for the pattern it identifies. By placing these distinctions within an account of organised persistence and historical transformation, APS can help specify what kind of question is being asked before competing explanations are compared.
 
-## Species and Evolution
+That organisational framing also imposes limits. APS does not establish a uniquely correct species concept, determine species boundaries in advance, show that every species has the same ontological status, or demonstrate that species can never function as evolutionary units. It does not establish that inheritance, variation, development, adaptation, fitness, natural selection, and ecology form a universal causal sequence leading to species formation. Nor does it make organised persistence explanatorily superior merely because species can be redescribed in organisational terms.
 
-Species occupy an important position within evolutionary explanation, but not the position traditionally assigned to them. APS treats species as outcomes of evolutionary continuity rather than as the primary causes of evolutionary change. APS does not treat species as the drivers of evolutionary change. Instead, species emerge as historically recognisable outcomes of the processes through which organised persistence is reproduced and transformed across generations.
+Any stronger claim of explanatory gain would require comparison with the strongest existing account of the same explanandum. For questions concerning the relation between species concepts and criteria, de Queiroz already supplies a demanding lineage-based comparator. For questions about the ontological and evolutionary status of species, Hull demonstrates that treating species themselves as historically extended entities has a substantial existing theoretical history. AAPS can claim explanatory gain only where its organisational analysis distinguishes relevant dependencies, resolves an explanatory problem, or otherwise improves explanation relative to the strongest comparator addressing the same explanandum.
 
-Species continuity depends fundamentally upon inheritance. Inheritance reproduces the organisational continuity that allows lineages to persist through time. Without inherited continuity there could be no enduring lineages and therefore no basis upon which species classifications could emerge. Species are consequently rooted in inheritance before they become objects of evolutionary description.
+The value of APS here is consequently methodological as well as conceptual. It keeps questions of historical continuity, species delimitation, classification, causal explanation, and scale sufficiently distinct that agreement at one level is not mistaken for an answer at another.
 
-Inherited continuity alone, however, would produce repetition rather than evolution. Variation introduces novelty into ongoing lineages, while adaptation determines whether that novelty can be incorporated into viable persistence. Species therefore reflect both continuity and transformation. They persist because organisational continuity is reproduced, yet they change because variation and adaptation continually reshape that continuity through time.
+## Species Within Evolutionary History
 
-Fitness and natural selection further contribute to this process. Fitness differentiates among viable variants according to their continuity through time, while natural selection contributes to the historical stabilisation of some forms of organised persistence relative to others. Selection does not create species directly. Rather, it influences which lineage-patterns become historically more prominent within evolving populations.
+Species remain indispensable to biological science because they provide ways of identifying and investigating structured biological diversity through evolutionary history. Their scientific importance does not depend upon treating them as immutable natural kinds, but neither is it diminished by recognising that their delimitation can depend upon historically developing biological relations and the criteria relevant to particular investigations.
 
-Species therefore do not explain evolution. They are among its most visible historical products. They provide a way of tracking the continuity and transformation of organised persistence across evolutionary time without functioning as the primary causes of that transformation.
+APS interprets species inquiry within the historical continuity and transformation of organised persistence. This perspective encourages attention to what species concepts track, how classifications relate to biological history, and which processes are relevant to the emergence and maintenance of the patterns being investigated. It does not determine those relations in advance.
 
-## Implications for Biological Explanation
+The resulting account is therefore neither an eliminative view of species nor a claim that APS has solved the species problem. It is a framework for distinguishing questions that can otherwise be conflated. Lineages concern historical biological continuity; species identify biologically significant entities or patterns within evolutionary history according to substantive biological accounts; and species classifications provide scientific means of delimiting and organising them. The adequacy of any particular species concept or classification remains answerable to biological evidence and to the explanatory task for which it is used.
 
-Reframing species in this way has important implications for biological explanation. Classification becomes a tool for tracking organisational continuity rather than identifying fixed biological kinds. Explanatory attention shifts away from species as causal entities and toward the processes that generate and transform evolutionary lineages.
-
-This shift helps integrate taxonomy more closely with the broader APS framework. Species classifications remain scientifically valuable because they identify recurring patterns within evolutionary history. Their value, however, derives from the continuity they track rather than from any privileged ontological status.
-
-APS consequently treats species as explanatory outcomes rather than explanatory foundations. The primary task of biology is not to identify immutable categories but to understand how viability-oriented organisation persists, transforms, and diversifies across time. Species contribute to this understanding by providing stable reference points within a continually evolving historical process. They help organise evolutionary knowledge, but the processes of inheritance, variation, adaptation, fitness, and natural selection remain the deeper explanatory architecture from which species emerge.
+Within APS, species are consequently best approached not as fixed points in a predetermined evolutionary hierarchy, but as subjects of historically informed biological explanation whose identity, boundaries, causal roles, and classificatory treatment must be established rather than assumed.
 
 ## Key Point
 
-In APS, species are neither fixed biological kinds nor fundamental units of life, agency, or evolution. They are historically extended lineage-patterns generated through the continuity and transformation of organised persistence across time. Inheritance reproduces continuity, variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection contributes to their historical stabilisation. Species emerge as recognisable patterns within this broader evolutionary architecture. They do not explain evolution; they are among its most visible historical products.
-
-
+Species, lineages, and species classifications are related but non-identical. APS interprets species inquiry in relation to the historical continuity and transformation of living organisation, but this organisational framing does not determine species boundaries, impose a universal pathway to speciation, settle the ontology of species, or establish explanatory superiority over existing biological approaches.
