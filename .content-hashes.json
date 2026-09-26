@@ -90,7 +90,7 @@
     "lockedSince": "2026-08-23"
   },
   "articles/evolution": {
-    "hash": "f80a603309d8198a",
+    "hash": "a42e45b4cb71e9d5",
     "revised": "2026-09-26",
     "lockedSince": "2026-05-28"
   },
@@ -190,7 +190,7 @@
     "lockedSince": "2026-05-27"
   },
   "articles/adaptation-how-living-systems-sustain-themselves-through-change": {
-    "hash": "4486b10dacf7a335",
+    "hash": "b62092833de3efa6",
     "revised": "2026-09-26",
     "lockedSince": "2026-05-28"
   },
@@ -690,7 +690,7 @@
     "lockedSince": "2026-05-22"
   },
   "articles/physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation": {
-    "hash": "f76382885b0e258f",
+    "hash": "3192d30e1f65b991",
     "revised": "2026-09-26",
     "lockedSince": "2026-05-22"
   },
@@ -805,8 +805,8 @@
     "lockedSince": "2026-06-01"
   },
   "articles/the-evolutionary-organisation-of-life": {
-    "hash": "0d93f7470018a3de",
-    "revised": "2026-09-20",
+    "hash": "ad3964effc1f425d",
+    "revised": "2026-09-26",
     "lockedSince": "2026-06-01"
   },
   "articles/explanatory-geometry-of-biology": {
@@ -1406,7 +1406,7 @@
   },
   "articles/evolution-taxonomy-and-the-reorganisation-of-biological-explanation": {
     "hash": "09af3b492d627515",
-    "revised": "2026-09-20",
+    "revised": "2026-09-26",
     "lockedSince": "2026-06-20"
   },
   "glossary/lineage": {

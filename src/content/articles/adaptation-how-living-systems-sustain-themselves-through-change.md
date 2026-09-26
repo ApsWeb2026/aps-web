@@ -110,9 +110,14 @@ references:
     doi: "10.1098/rspb.1999.0708"
 ---
 
-## Introduction
+**Where this article fits:** 
+*Adaptation occupies a central position within the APS account of biological continuity and change. Persistence concerns the continuity of living organisation, viability concerns the conditions under which that continuity remains possible, and adaptation concerns continuity-preserving reorganisation under changing conditions.*
 
-> **Where this article fits:** Adaptation occupies a central position within the APS account of evolution. If persistence explains the continuity of living systems and natural selection explains the historical differential persistence of biological organisation, adaptation explains how viability-oriented systems remain capable of persistence under changing conditions. It therefore occupies a distinct explanatory position between questions of ongoing biological continuity and long-term evolutionary transformation. For the broader temporal architecture underlying APS, see *Persistence — Organised Continuity Through Time*, *Temporal Organisation and Organised Persistence*, and *Natural Selection and Organised Persistence*.
+*Within Evolutionary Dynamics, adaptation provides a distinct explanatory concept rather than a necessary stage between persistence and evolutionary transformation. Adaptive reorganisation may acquire consequences for fitness, natural selection, and longer-term evolutionary change, but those relations depend upon the biological and historical case concerned.*
+
+*The article therefore connects adaptation with physiology, development, ecology, resilience, organism–environment coupling, and evolution while preserving the distinction between present viability-oriented reorganisation and its possible longer-term evolutionary consequences.*
+
+## Introduction
 
 Living systems exist in conditions that are never static. Their material components are continuously replaced, their environments fluctuate, their developmental trajectories transform over time, and their ecological relationships remain subject to ongoing change. Yet despite this continual transformation, living systems do not simply dissolve into instability. They preserve an organised continuity that allows them to remain viable across time.
 
@@ -358,6 +363,28 @@ Within the APS evolutionary framework, inheritance, variation, adaptation, fitne
 
 ---
 
-## Key Terms
+## Explanatory Architecture
 
-adaptation · continuity · persistence · viability · resilience · physiology · development · ecology · natural selection · evolution · organism–environment coupling · temporal organisation · organised persistence
+### Central Question
+
+How does living organisation remain viable when the conditions relevant to its persistence change?
+
+### Architectural Role
+
+Adaptation identifies continuity-preserving reorganisation under changing conditions. It explains how viability-oriented organisation can alter its activity, relations, or organisation while maintaining the conditions required for continued persistence.
+
+### Builds On
+
+The article builds on the APS accounts of biological agency, viability, organised persistence, process, scale, temporal organisation, function, normativity, and organism–environment coupling.
+
+### Develops Into
+
+Adaptation connects with more specific questions concerning physiological regulation, developmental plasticity, ecological interaction, resilience, functional reorganisation, fitness, natural selection, and evolutionary transformation. Its contribution to these phenomena depends upon the biological and historical relations operating in the case concerned.
+
+### Position within APS
+
+Adaptation is distinct from persistence, fitness, and natural selection. It concerns viability-preserving reorganisation rather than differential historical continuity or differential historical stabilisation. Its position within APS therefore identifies an explanatory relation, not a universal causal or temporal stage between present persistence and evolutionary transformation.
+
+### Corpus Significance
+
+Within Evolutionary Dynamics, adaptation provides the principal APS concept for analysing how living organisation can preserve viability through change while remaining capable of longer-term historical transformation. It connects present biological regulation with evolutionary questions without presupposing that every adaptive process produces fitness differences, undergoes selection, or contributes to evolutionary transformation.

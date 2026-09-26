@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-20
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: synthesis
 

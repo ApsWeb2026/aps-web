@@ -79,9 +79,9 @@ references:
     source: "Springer"
 ---
 
-## Introduction
+> **Where this article fits:** This article develops the APS integration of physiology and evolution as temporally differentiated perspectives on organised persistence. Physiology explains how organised persistence is enacted and maintained within lifetimes, while evolution explains how lineages of organised persistence are reproduced, transformed, and diversified across generations.
 
-> **Where this article fits:** This article develops the APS integration of physiology and evolution as temporally differentiated perspectives on organised persistence. Physiology explains how organised persistence is enacted and maintained within lifetimes, while evolution explains how lineages of organised persistence are reproduced, transformed, and diversified across generations. For the broader temporal architecture underlying APS, see *Temporal Organisation and Organised Persistence* and *Persistence — Organised Continuity Through Time*.
+*Its role is to connect present biological organisation with historical transformation without treating physiology and evolution as independent biological realities or as stages in a temporal sequence. For the broader temporal architecture underlying this relationship, see *Temporal Organisation and Organised Persistence* and *Persistence — Organised Continuity Through Time*.*
 
 ## Introduction
 
@@ -233,6 +233,28 @@ APS consequently integrates physiology and evolution within a unified explanator
 - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
 - *[Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity](/articles/scale-time-persistence/)*
 
-## Key Terms
+## Explanatory Architecture
 
-physiology · evolution · organised persistence · continuity · lineage · viability · temporal organisation · adaptation · agency · scale
+### Central Question
+
+How are the present maintenance of living organisation and its historical transformation related across different temporal horizons?
+
+### Architectural Role
+
+This article relates physiology and evolution as temporally differentiated explanatory perspectives on organised persistence. Physiology addresses how viability-oriented organisation is enacted and maintained within lifetimes, while evolution addresses how organised persistence is historically continued and transformed across generations.
+
+### Builds On
+
+The article builds on the APS accounts of biological agency, viability, organised persistence, temporal organisation, development, adaptation, ecology, process, and scale.
+
+### Develops Into
+
+This temporal integration connects physiological explanation with more specific questions concerning development, adaptation, inheritance, evolutionary continuity, ecological organisation, and the historical transformation of organised persistence.
+
+### Position within APS
+
+Physiology and evolution identify different temporal perspectives on living organisation rather than independent biological realities or successive stages of one process. Their relationship therefore concerns explanatory extent across time: the particular dependencies linking present organisation, developmental reconstitution, ecological interaction, inheritance, and evolutionary transformation must be established for the biological case concerned.
+
+### Corpus Significance
+
+Within Evolutionary Dynamics, this article connects present-tense viability and organised persistence with historical evolutionary transformation. It shows how evolutionary explanation can extend the temporal extent of biological explanation without converting temporal organisation into a universal causal sequence.

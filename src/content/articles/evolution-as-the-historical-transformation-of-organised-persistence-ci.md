@@ -132,8 +132,6 @@ references:
 
 ## Introduction
 
-> **Where this article fits:** This article develops the APS interpretation of evolution as the historical transformation of viability-oriented organised persistence across generations. Evolution is understood not merely as statistical change within populations, but as the long-term transformation of living organisation across developmental, ecological, organismal, and lineage scales. It provides the primary evolutionary anchor for understanding how agency, persistence, inheritance, adaptation, and natural selection fit together within the APS framework.
-
 Living systems do not merely persist.
 
 They transform historically.
@@ -151,6 +149,12 @@ From the APS perspective, evolution is therefore:
 This formulation highlights the complementary relationship between biological and evolutionary explanation. Biology investigates how organised persistence is maintained in the present, while evolution investigates how organised persistence is transformed through historical time. The two therefore address different dimensions of the same underlying phenomenon.
 
 Evolution does not, in this APS formulation, explain the original emergence of organised persistence. Biological evolutionary explanation concerns living systems already exhibiting continuity sufficient for historical transformation across generations. Development, inheritance, adaptation, ecological interaction, reproduction, and other processes may contribute to how such continuity is maintained and transformed, but their particular dependency relations must be established biologically rather than inferred from their positions within the APS architecture. The central question of evolutionary explanation is how persistence-sustaining organisation is historically modified, diversified, stabilised, and transformed across time.
+
+**Where This Article Fits**
+
+*This article is the primary evolutionary anchor within APS. It develops the interpretation of evolution as the historical transformation of viability-oriented organised persistence across generations and places that transformation within developmental, ecological, organismal, and lineage contexts.*
+
+*Its role is to establish the organising perspective for the APS evolutionary corpus rather than to treat evolutionary concepts as stages in a single biological sequence. Inheritance, variation, adaptation, fitness, natural selection, development, ecological interaction, and other evolutionary relationships are examined more specifically elsewhere in the corpus. Their positions within the APS architecture identify explanatory relationships; they do not by themselves establish universal causal, temporal, or necessary dependencies among those processes.*
 
 ## Agency, Process, and Evolutionary Transformation
 
@@ -416,3 +420,29 @@ APS therefore explains evolution as continuity-through-transformation. Evolution
 Understanding evolution in this way helps reconnect many domains of biological explanation that are often treated separately. Development, ecology, inheritance, adaptation, individuality, agency, and selection become intelligible as interconnected dimensions of the same underlying phenomenon: the historical transformation of persistence-sustaining organisation. Evolution therefore becomes not merely a theory of biological change, but a theory of how living continuity itself is transformed across time.
 
 From the APS perspective, the deepest significance of evolution lies in its relationship to organised persistence. Biological agency sustains the continuity of living systems in the present, while evolution transforms the organisation supporting that continuity across historical time. Evolution is therefore not simply change within populations, nor merely the accumulation of genetic differences across generations. It is the long-term historical transformation of persistence-sustaining organisation. Agency, process, and scale remain essential because they help explain how organised persistence is achieved and maintained, but these dimensions ultimately converge upon a common explanatory problem: how living systems sustain continuity despite ongoing transformation, and how the organisation making such continuity possible is itself transformed through evolutionary history.
+
+## Explanatory Architecture
+
+### Central Question
+
+What is historically transformed in biological evolution, and how is continuity maintained through that transformation?
+
+### Architectural Role
+
+This article provides the anchor for evolutionary explanation in APS. It identifies organised persistence as the continuity whose historical transformation constitutes evolution and situates evolutionary change within the broader organisation of living systems.
+
+### Builds On
+
+The article builds on the APS accounts of biological agency, viability, organised persistence, process, scale, temporal organisation, and constraint-closed living organisation.
+
+### Develops Into
+
+The Evolutionary Dynamics corpus differentiates more specific explanatory questions concerning inheritance, variation, adaptation, fitness, natural selection, lineage continuity, species, evolutionary individuality, and multiscale evolution. Their particular causal and temporal relationships must be established for the biological case concerned rather than inferred from their positions within APS.
+
+### Position within APS
+
+Evolution extends APS explanation from the maintenance of organised persistence to its historical transformation across generations. Agency, Process, and Scale remain complementary analytic perspectives on living organisation; they are not successive evolutionary stages or independent causal components.
+
+### Corpus Significance
+
+As the Evolutionary Dynamics anchor, this article provides the common explanatory orientation for the domain's core, synthesis, clarification, and extension articles. It establishes continuity-through-transformation as the organising evolutionary problem while leaving particular biological dependencies to case-specific investigation.

@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: synthesis
 
@@ -159,6 +159,12 @@ This article has a different role from *Evolution as the Historical Transformati
 That task requires an important methodological control. The order in which inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation are discussed here is explanatory rather than chronological. It does not by itself establish that these phenomena form a universal causal pathway, that each is a necessary intermediary for the next, or that every evolutionary explanandum requires all of them. Their biological relations must be specified and warranted for the explanatory target at issue.
 
 The evolutionary organisation of life should therefore be understood as an explanatory architecture, not as a sequence imposed upon evolutionary history.
+
+**Where This Article Fits**
+
+*This article is the principal synthesis article of the APS Evolutionary Dynamics cluster. The Evolution anchor establishes the APS interpretation of evolution as the historical transformation of organised persistence; this article brings together the major explanatory questions through which that historical continuity and transformation can be investigated.*
+
+*Inheritance, variation, adaptation, fitness, and natural selection perform distinguishable explanatory roles within this synthesis, while development, ecology, cognition, behaviour, and social organisation enter where they materially affect the evolutionary explanandum. Their organisation here is explanatory rather than chronological: it does not establish a universal causal pathway, necessary sequence, or compulsory set of processes for evolutionary change.*
 
 ## Evolution as Historical Transformation of Organised Persistence
 
@@ -349,3 +355,29 @@ The evolutionary organisation of life is consequently neither a single mechanism
 Individual organisms are temporary, but organised life has a history.
 
 Evolution is the historical transformation of that organised persistence.
+
+## Explanatory Architecture
+
+### Central Question
+
+How should the distinct explanatory questions involved in evolutionary continuity and transformation be organised without converting them into a universal biological sequence?
+
+### Architectural Role
+
+This article provides the principal synthesis of the APS Evolutionary Dynamics corpus. It organises distinguishable questions concerning cross-generational continuity, difference, viability under changing conditions, differential historical continuity, differential stabilisation, and historical transformation around the common explanandum of organised persistence through evolutionary time.
+
+### Builds On
+
+The article builds directly on the Evolution anchor and on the APS accounts of organised persistence, viability, biological agency, inheritance, variation, adaptation, fitness, natural selection, development, and ecological organisation.
+
+### Develops Into
+
+The synthesis provides the architecture within which more focused evolutionary articles can investigate inheritance, variation, adaptation, fitness, natural selection, lineage and species continuity, evolutionary individuality, multiscale evolution, and other target-specific evolutionary relations.
+
+### Position within APS
+
+Evolutionary organisation is an explanatory architecture rather than a mechanism or fixed process sequence. The relations among its constituent concepts may be causal, temporal, historical, enabling, constraining, or otherwise biologically consequential in particular cases, but those relations require independent specification and warrant.
+
+### Corpus Significance
+
+This article connects the Evolution anchor to the differentiated Evolutionary Dynamics corpus. Its unifying principle is not that every evolutionary process follows the same pathway, but that distinct evolutionary questions can be organised around a common problem: how organised biological continuity extends across generations while undergoing historical transformation.
