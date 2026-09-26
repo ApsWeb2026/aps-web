@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-26
+revised: 2026-09-27
 cluster: evolutionary-dynamics
 role: core
 
@@ -132,6 +132,18 @@ APS consequently approaches adaptation not as passive adjustment, static optimis
 This definition places adaptation within the broader explanatory architecture of APS. Persistence identifies what is maintained across time. Viability identifies the conditions required for that continuity to remain possible. Adaptation explains how living systems reorganise activity in ways that preserve viability when circumstances change. Natural selection addresses a different historical question concerning differential persistence across generations. Their inclusion within a common APS architecture identifies distinguishable explanatory tasks rather than establishing a necessary sequence between them.
 
 Adaptation therefore occupies a distinctive position within biological explanation. It is neither identical to persistence nor reducible to natural selection. Its primary explanatory role concerns continuity-preserving reorganisation under changing conditions. Such reorganisation may acquire evolutionary consequences, but adaptation should not be treated merely from its architectural position as a necessary intermediary between present persistence and long-term evolutionary transformation.
+
+<div class="aps-diagram aps-diagram-large">
+  <a href="/assets/diagrams/evolution-adaptation-table.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-adaptation-table.png"
+      alt="Table distinguishing different meanings of adaptation in biology, including physiological and regulatory adaptation, developmental plasticity, behavioural and ecological adaptation, adaptive traits and value, evolutionary adaptation, adaptation by natural selection, and APS adaptation."
+      loading="lazy"
+    />
+  </a>
+</div>
+
+**Different Meanings of Adaptation in Biology.** The term *adaptation* is used for several distinct biological phenomena and explanatory tasks. APS distinguishes present viability-preserving reorganisation from developmental plasticity, adaptive value, historically selected traits, and evolutionary change. These usages may be biologically related, but their relationship must be established for the case under explanation rather than inferred from the shared word *adaptation*.
 
 Adaptation is not merely something that happens to living systems. It is one of the principal ways in which biological agency is expressed. Viability-oriented systems continually reorganise activity relative to changing conditions affecting persistence. Adaptation therefore represents agency operating under conditions of environmental, developmental, physiological, and evolutionary change.
 
