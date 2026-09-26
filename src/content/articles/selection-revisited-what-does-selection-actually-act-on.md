@@ -6,21 +6,21 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: clarification
 
 abstract: |
-  In the Agency–Process–Scale (APS) framework, natural selection is not treated as a primary source of biological organisation but as a process of differential historical stabilisation operating where biologically relevant differences persist through evolutionary time. Selection does not by itself explain the generation of viability, organisation, or the differences upon which differential outcomes depend. This article clarifies what selection acts on by distinguishing the minimal conditions required for differential historical stabilisation from the additional biological processes that may contribute to particular evolutionary outcomes.
+  Natural selection is central to evolutionary explanation, but questions about what selection acts on cannot be settled simply by identifying one privileged biological entity or by reading a causal sequence from the Agency–Process–Scale (APS) evolutionary architecture. APS interprets selection as contributing to differential historical stabilisation among biologically relevant alternatives. This interpretation situates selection within the historical transformation of living organisation without determining in advance its universal unit, level, scale, or complete causal architecture. The biological entities and dependencies relevant to selection must instead be established for the system and explanandum concerned.
 
 keyPoints:
-  - Natural selection operates on differences in the continuity of lineages of viability-oriented organisation.
-  - Selection requires historically persisting biological differences capable of differential representation or stabilisation; additional dependencies must be established for the evolutionary case concerned.
-  - What selection differentially stabilises is not an isolated component but a lineage of organised persistence.
-  - Genes participate in selection but are not privileged objects of selection.
-  - Selection contributes to differential continuity; it does not generate organisation, agency, or viability.
-  - Evolutionary explanation requires distinguishing continuity-producing processes from the processes that differentially stabilise their outcomes.
-  - Selection occupies a distinct position within the broader architecture of evolutionary transformation without making every other APS evolutionary concept a universal prerequisite.
+  - APS interprets natural selection as contributing to differential historical stabilisation among biologically relevant alternatives.
+  - Selection requires biologically relevant differences capable of having differential historical consequences, but APS does not infer a universal chain of prerequisites from its evolutionary architecture.
+  - Historical persistence, units of selection, levels of selection, and the entities causally involved in selection are related questions but should not be treated as interchangeable.
+  - Organised persistence provides APS with an explanatory perspective on evolutionary continuity; it is not thereby established as the universal object or unit of selection.
+  - Genetic explanations can be situated within broader biological organisation without denying the explanatory value of gene-level models or deciding the units-of-selection question by framework stipulation.
+  - Fitness and selection have distinguishable explanatory roles within APS, but their conceptual ordering does not establish a universal causal sequence.
+  - APS Scale concerns the spatial, temporal, and organisational extent relevant to an explanation; it is not equivalent to a level of selection, and selection is not assumed to be inherently multiscale.
 
 relatedGlossaryTerms:
   - evolution
@@ -45,152 +45,168 @@ relatedArticles:
   - physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
 
 references:
-  - id: hull1980
-    authors: "Hull, D. L."
-    year: 1980
-    title: "Individuality and Selection"
-    journal: "Annual Review of Ecology and Systematics"
-    volume: "11"
-    pages: "311–332"
-
-  - id: dupreNicholson2018
-    authors: "Dupré, J.; Nicholson, D. J."
-    year: 2018
-    title: "A Manifesto for a Processual Philosophy of Biology"
-    publisher: "Oxford University Press"
-
-  - id: noble2012
-    authors: "Noble, D."
-    year: 2012
-    title: "A Theory of Biological Relativity: No Privileged Level of Causation"
-    journal: "Interface Focus"
-    volume: "2"
-    pages: "55–64"
-    doi: "10.1098/rsfs.2011.0067"
+  - godfrey-smith-2009-darwinian-populations
+  - okasha-2006-levels-selection
+  - dawkins-1982-extended-phenotype
+  - dupre-nicholson-2018-manifesto
+  - noble-2012-biological-relativity
 ---
 
-## Why the Question Matters
+## Why Revisit What Selection Acts On?
 
-Debates concerning natural selection have long centred on a deceptively simple question: what does selection actually act on? Evolutionary theory has variously proposed genes, traits, organisms, groups, populations, developmental systems, and ecological relationships as the primary objects of selection. These debates have often been motivated by a legitimate concern to identify the causal entities responsible for evolutionary change.
+Natural selection is central to evolutionary biology, yet the apparently simple question of what selection acts on opens several different explanatory problems. Genes, organisms, groups, populations, and other biological entities can enter selection explanations in different ways, while debates over units and levels of selection have shown that terms such as object, unit, interactor, beneficiary, and level should not automatically be treated as equivalent (Okasha 2006; Godfrey-Smith 2009).
 
-APS approaches the problem from a different perspective. Rather than beginning with candidate units of selection, it begins with the broader continuity architecture within which selection operates. Evolution is understood as the historical transformation of viability-oriented organisation, and natural selection is understood as one process contributing to that transformation. The central question therefore becomes not which component selection acts upon, but what forms of organised continuity selection differentially stabilises through time.
+APS approaches these questions from the standpoint of living organisation, but it does not use that standpoint to nominate a new universal unit of selection. Its concern is instead with how selection contributes to evolutionary transformation where biologically relevant differences have differential historical consequences.
 
-This shift matters because selection is frequently assigned explanatory responsibilities that exceed its actual role. Selection is often treated as though it generates organisation, explains adaptation, produces biological order, or accounts for the existence of living systems themselves. Yet selection can perform none of these functions independently. Before selection can operate, there must already exist systems capable of sustaining organised persistence across time. Selection therefore presupposes the existence of continuity before it can contribute to its historical transformation.
+This distinction matters because two questions can otherwise become conflated. One asks which entities and causal relations participate in a particular instance or model of selection. The other asks how the evolutionary consequences of selection should be understood within the broader continuity and transformation of living organisation. APS has a distinctive perspective on the second question. That perspective does not, by itself, settle the first.
 
-APS consequently reframes the traditional question. Instead of asking whether selection acts on genes, organisms, or populations, APS asks how selection contributes to the differential continuity of organised persistence across generations. This broader perspective reveals that the central evolutionary phenomenon is not the success of isolated components but the historical continuity of lineages of organised persistence whose organisation contributes differently to viability under changing conditions.
+The resulting aim is therefore narrower than answering once and for all what selection “actually” acts on. APS seeks to clarify selection's place within evolutionary explanation while leaving the relevant units, levels, entities, and causal dependencies open to specification for the biological case concerned.
 
-Understanding what selection acts on therefore requires understanding the continuity architecture within which selection operates. Only then can selection be assigned its proper explanatory role within evolutionary theory.
+## What Selection Requires — and What It Does Not
 
-## Selection as a Dependent Process
+For selection to have evolutionary consequences, there must be biologically relevant differences capable of producing differential historical outcomes. How those differences arise, persist, recur, or are transmitted depends upon the system under investigation. Inheritance, development, variation, ecological interaction, and other processes may therefore be important to particular selection explanations.
 
-Natural selection remains one of the most important explanatory concepts in evolutionary biology. APS retains its importance while distinguishing the conditions minimally required for differential historical stabilisation from additional biological processes that may contribute to particular evolutionary outcomes.
+APS distinguishes this minimal requirement from the stronger claim that every concept appearing in its evolutionary architecture must be a universal prerequisite for selection. Agency, viability, organised persistence, inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation identify distinguishable explanatory concerns within APS. Their inclusion and ordering do not establish that every instance of selection depends upon them through one necessary causal or temporal sequence.
 
-Selection is not, in APS, a primary explanation for the existence of biological organisation. It does not by itself explain how living systems become viable, how biological differences are generated, or how the relevant historical continuities arise. For selection to occur, there must at minimum be biologically relevant differences that persist or recur sufficiently for differential historical outcomes to arise.
+This also means that selection should not be assigned all explanatory responsibility for the alternatives among which differential outcomes occur. The processes generating, maintaining, reproducing, or modifying biologically relevant differences raise further questions. At the same time, APS need not assert the converse proposition that selection can make no contribution to the evolution of biological organisation. The relevant causal relations must be established for the particular evolutionary system.
 
-Evolutionary systems can depend upon many additional processes—including inheritance, development, variation, adaptation, ecological interaction, and other forms of continuity-producing organisation. APS places these concepts within a broader evolutionary architecture, but their inclusion in that architecture does not establish that every process is a universal prerequisite for every instance of selection.
+Selection can therefore be given a bounded explanatory role without either making it the source of biological organisation or deriving its operation from the complete APS architecture.
 
-Natural selection can therefore be treated as a historically dependent process without converting the complete APS continuity architecture into its necessary causal precondition. The particular forms of continuity, inheritance, variation, developmental organisation, or adaptation required in a biological case must be specified independently.
+## Selection as Differential Historical Stabilisation: An APS Interpretation
 
-This reframing gives selection a bounded explanatory role. Selection concerns differential historical stabilisation among biologically relevant alternatives. The processes responsible for generating, maintaining, reproducing, or modifying those alternatives constitute further explanatory questions rather than a single prerequisite chain established by APS architecture.
+Within APS, natural selection is interpreted as contributing to **differential historical stabilisation** among biologically relevant alternatives. The formulation directs attention to the fact that selection matters evolutionarily because differences have consequences extending through biological history.
 
-Selection consequently operates where biologically relevant differences possess sufficient historical continuity for differential outcomes to occur. What additional biological dependencies this requires is an empirical question to be established for the evolutionary system concerned.
+This is an APS explanatory interpretation, not a proposed replacement definition of natural selection. Established selection theory provides formal and empirical ways of analysing Darwinian populations, fitness differences, inheritance, reproduction, and differential evolutionary outcomes (Godfrey-Smith 2009). APS asks a further organisational question: how should those outcomes be understood in relation to the continuity and transformation of living organisation?
 
-## What Selection Differentially Stabilises
+“Historical stabilisation” therefore identifies the explanatory role APS assigns to selection within its evolutionary architecture. It does not specify in advance which entity is the unit or object of selection, nor does it imply that everything that persists through evolutionary history is itself selected.
 
-If natural selection depends upon organised persistence, then what exactly does it differentially stabilise?
+The distinction is important. Historical persistence is an outcome requiring explanation; identifying the entities and causal relations through which selection occurs is part of providing that explanation. The two questions must not be collapsed into one another.
 
-Traditional answers have often focused upon particular entities. Genes, traits, organisms, groups, and populations have each been proposed as the primary objects of selection. APS does not deny the importance of any of these biological entities. Instead, it argues that none adequately captures the deeper continuity upon which evolutionary transformation depends.
+## What Persists Is Not Necessarily What Selection Acts On
 
-Selection does not primarily stabilise genes considered in isolation. Nor does it stabilise traits independently of the developmental, physiological, behavioural, and ecological systems in which those traits participate. What persists through evolutionary time is not a disconnected component but a historically continuous lineage of organised persistence whose organisation contributes differently to continuity across generations.
+APS uses **organised persistence** to analyse the continuity of living organisation through change. This makes organised persistence relevant to evolutionary explanation, because evolution requires both historical continuity and transformation. It does not follow, however, that organised persistence is therefore a newly identified biological unit upon which selection universally acts.
 
-From this perspective, selection concerns differences in the historical continuity of viability-oriented organisation. Variation, inheritance, development, adaptation, fitness, and other evolutionary concepts may identify processes or relations relevant to how such differences arise, persist, or acquire evolutionary consequences. Selection concerns their differential historical stabilisation, but the particular dependencies connecting these processes must be established for the biological case rather than inferred from their ordering within APS.
+A lineage may persist historically while the processes explaining that persistence involve genetic, organismal, ecological, population-level, or other relations. Conversely, an entity identified in a selection model need not correspond straightforwardly to the complete organisation that persists through evolutionary history. Questions about persistence and questions about units or levels of selection therefore intersect without being identical.
 
-This interpretation helps explain why genes cannot be treated as privileged causal units. Genes contribute to organised persistence, but their effects depend entirely upon the broader systems within which they operate. Likewise, traits contribute to continuity only through their participation in organised biological activity. Selection therefore cannot be understood adequately by focusing upon isolated components. Its effects emerge from differences in the continuity-producing capacities of integrated forms of biological organisation.
+This distinction corrects an important possible overextension of APS terminology. To redescribe genes, organisms, groups, or lineages as manifestations of organised persistence would not by itself explain selection more successfully. APS gains explanatory significance only where its organisational analysis identifies relevant dependencies, resolves an explanatory problem, or otherwise improves explanation relative to a comparator addressing the same explanandum.
 
-The object of selection is therefore best understood as organised continuity rather than isolated entities. More precisely, selection contributes to the differential stabilisation of lineages of organised persistence whose viability, adaptability, and continuity differ under particular developmental and ecological conditions. What becomes historically continuous is not a component alone but a pattern of organisation capable of sustaining continuity across generations.
+Organised persistence should therefore be understood here as an APS explanatory target and organising concept. It is not, merely by virtue of that role, the universal object, interactor, beneficiary, or unit of natural selection.
 
-This reframing also clarifies why selection is inseparable from history. Selection does not simply evaluate biological organisation at a single moment in time. It contributes to the historical retention, amplification, or decline of lineages whose organisation generates different degrees of continuity. The phenomenon being stabilised is therefore fundamentally temporal. Selection acts within the ongoing continuity of living systems and contributes to how that continuity is transformed across evolutionary time.
+## Units, Levels, and Organised Persistence
 
-## Selection, Fitness, and Lineage Continuity
+The units and levels of selection have been analysed in several ways within evolutionary theory. Different accounts distinguish among biological entities and the roles those entities occupy in selection processes, while multilevel approaches investigate circumstances in which selection can be represented at more than one level of biological organisation (Okasha 2006; Godfrey-Smith 2009).
 
-The relationship between selection and fitness becomes clearer once both concepts are situated within the broader continuity architecture of APS.
+APS does not replace these distinctions with a single organisational answer. Instead, it asks how the entities identified in a selection explanation participate in the persistence and transformation of living organisation. This may provide useful explanatory context, but context should not be confused with adjudication.
 
-Fitness concerns differences in the continuity of lineages of persistence-sustaining organisation. Some forms of organisation contribute more effectively to continuity across generations than others, producing differences in the historical persistence of lineages. Fitness therefore identifies differences in continuity among viable forms of organised persistence.
+The framework therefore does not infer that genes, organisms, groups, populations, or lineages must always be the relevant unit of selection. Nor does it infer that “organised persistence” supersedes these alternatives. Which entities matter, in what causal role, and at what level of description depends upon the biological system, the selection model, and the explanandum.
 
-Natural selection does not create those differences. Rather, it contributes to their historical stabilisation. Selection operates because differences in continuity already exist, and its evolutionary significance derives from the fact that such differences influence which lineages remain historically represented through time.
+This restraint is methodologically important. A framework can integrate several kinds of explanation without thereby showing that its own vocabulary supplies a superior account of the processes being integrated. APS must therefore remain answerable to the strongest comparator addressing the same selection problem.
 
-This distinction is important because fitness and selection are often treated as interchangeable concepts. APS instead assigns them complementary explanatory roles. Fitness concerns differential continuity. Selection concerns the differential stabilisation of that continuity. Fitness identifies differences among lineages of organised persistence, whereas selection helps explain how those differences become historically amplified across generations.
+## Selection and Fitness
 
-Fitness and selection can therefore be distinguished without treating fitness as a necessary intermediate stage in a fixed evolutionary sequence. Fitness characterises differential historical continuity, while selection concerns differential historical stabilisation. How these concepts relate causally in particular evolutionary explanations requires independent specification.
+APS distinguishes fitness and natural selection because they answer different explanatory questions within its evolutionary architecture.
 
-Inheritance, variation, adaptation, fitness, and natural selection occupy distinguishable positions within the broader APS evolutionary architecture. That architecture organises different explanatory questions concerning continuity, difference, viability, differential continuity, and historical stabilisation; it does not by itself establish that the corresponding processes form a single causal or temporal pathway.
+Fitness is interpreted in APS in terms of **differential historical continuity**: differences relevant to how biological organisation is represented or persists through historical time. Natural selection is interpreted in terms of **differential historical stabilisation**: the contribution selection makes to differential evolutionary outcomes among biologically relevant alternatives.
 
-Natural selection is therefore best understood here as a process of differential historical stabilisation rather than as a force acting upon isolated entities. Its significance becomes clearer when situated within the broader organisation of evolutionary explanation, while its particular biological dependencies remain open to case-specific investigation.
+This is an analytical distinction within APS. It should not be read as a claim that fitness and selection are universally separate biological stages or that fitness must first arise as an independent process and then cause selection. Established evolutionary accounts connect fitness and selection in ways that depend upon how populations, reproduction, heredity, and differential success are modelled (Godfrey-Smith 2009).
+
+The APS distinction is therefore useful insofar as it keeps two explanatory questions visible: what differences are relevant to differential historical continuity, and how does selection contribute to their evolutionary consequences? Their particular causal relationship must be specified for the biological system concerned.
+
+Inheritance, variation, adaptation, fitness, and natural selection can accordingly occupy distinguishable positions within APS without forming a mandatory biological sequence.
 
 <div class="aps-diagram">
-
   <a href="/assets/diagrams/selection-continuity-architecture.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/selection-continuity-architecture.png"
-      alt="Natural selection within the continuity architecture of evolution"
+      alt="Explanatory architecture relating biologically relevant differences, differential outcomes, historical stabilisation, and evolutionary transformation without implying a universal causal sequence"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Selection Within the Continuity Architecture.</strong>
-    APS situates natural selection within a broader architecture of evolutionary explanation. Agency, viability, organised persistence, inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation identify distinguishable explanatory concepts. Their arrangement shows their place within APS organisation; it does not by itself establish that they form a universal causal, temporal, or necessary biological sequence.
+    <strong>Selection Within the Evolutionary Explanatory Architecture.</strong>
+    APS interprets natural selection as contributing to differential historical
+    stabilisation among biologically relevant alternatives. The diagram distinguishes
+    biologically relevant differences, differential outcomes, historical stabilisation,
+    and evolutionary transformation as explanatory relations; it does not establish
+    a universal causal or temporal sequence. The relevant units, levels, scales, and
+    biological dependencies must be established for the system and explanandum concerned.
   </p>
-
 </div>
 
-## Beyond Gene-Centric Selection
+## Genes and Organisational Context
 
-Gene-centric approaches have played an enormously important role in modern evolutionary biology. Population genetics has provided powerful tools for understanding evolutionary dynamics, and gene-focused models have often generated highly successful predictions concerning evolutionary change. APS does not reject these achievements. Instead, it seeks to clarify the explanatory assumptions that underlie them.
+Gene-centred approaches have provided powerful resources for evolutionary explanation, and gene-level models can illuminate inheritance, differential representation, and evolutionary change. APS does not reject those achievements. Nor does the fact that genes function within larger biological systems establish that gene-level selection explanations are invalid (Dawkins 1982).
 
-The central difficulty arises when genes are treated not merely as important participants in evolutionary processes but as the primary objects upon which selection acts. Such interpretations risk attributing explanatory primacy to one component of biological organisation while neglecting the broader systems that make genetic effects possible.
+APS instead applies a narrower control. Explanatory success at the genetic level does not, by itself, establish universal causal or explanatory priority for genes. Genetic effects occur through biological contexts that include molecular, cellular, developmental, physiological, organismal, and environmental relations. Noble (2012) argues against assigning causal privilege a priori to a single biological level, while Dupré and Nicholson (2018) emphasise the processual and relational organisation through which biological persistence is maintained.
 
-Genes do not operate independently. Their effects emerge through developmental organisation, physiological regulation, behavioural activity, ecological interaction, and organism–environment coupling. The evolutionary consequences of genetic variation therefore depend upon the persistence-sustaining organisation within which genetic processes participate. Selection cannot act upon genes in abstraction because genes contribute to continuity only through the organised systems that sustain their biological significance.
+This organisational contextualisation should not be confused with a solution to the units-of-selection problem. Depending upon the explanandum and model, gene-level description may be highly informative. The relevant question for APS is what additional explanatory work, if any, is accomplished by situating such descriptions within the organisation that makes their biological effects possible.
 
-APS consequently reframes gene-centric explanations within a broader organisational context. Genes remain indispensable contributors to continuity, inheritance, and evolutionary transformation, but they do not constitute privileged evolutionary units. Selection contributes to the differential stabilisation of lineages of organised persistence, and genetic processes participate in that larger continuity-producing architecture rather than replacing it.
-
-This perspective preserves the empirical strengths of gene-centred research while avoiding reductionism. Genetic explanations remain important because genes contribute to continuity. They do not become foundational simply because they are measurable, heritable, or evolutionarily consequential. What ultimately persists through evolutionary history is not a gene alone but a lineage of organised persistence whose continuity depends upon the coordinated activity of many interacting processes.
+APS therefore neither replaces genes with organised persistence as the “true” unit of selection nor grants genes automatic explanatory primacy. The appropriate explanatory extent must be determined by the problem being investigated.
 
 [[box:gene-centric-vs-aps-grammar]]
 
-## Selection and Multiscale Organisation
+## Selection Across Biological Scales
 
-Selection is inherently multiscale because organised persistence is itself distributed across multiple interacting scales of biological organisation. Evolutionary outcomes emerge through relationships among physiological processes, developmental systems, organisms, ecological interactions, populations, and lineages extending through time. Selection therefore cannot be adequately understood by isolating any single scale of organisation as its exclusive object.
+Selection should not be described as inherently multiscale simply because living organisation can be investigated across multiple scales. APS Scale concerns the spatial, temporal, and organisational extent over which relations relevant to an explanation are investigated.
 
-At developmental scales, organisational differences influence how continuity is generated and maintained throughout the life history of organisms. At physiological scales, viability depends upon regulatory processes that sustain persistence under changing conditions. At ecological scales, continuity depends upon interactions between organisms and the environments in which they persist. At lineage scales, continuity becomes visible through the historical persistence of forms of organisation across generations.
+Some selection problems may require relations extending across several such extents. A biological explanation might, for example, need to connect processes occurring within organisms with population dynamics or ecological conditions. In other cases, a more restricted explanatory extent may be sufficient. Whether cross-scale relations are required must be demonstrated from the biological system and explanandum rather than inferred from APS architecture.
 
-These scales do not operate independently. Development influences physiology, physiology affects ecological interaction, ecological conditions shape evolutionary possibilities, and evolutionary transformations alter future developmental trajectories. Selection therefore emerges from the consequences of interactions distributed across biological organisation rather than from isolated processes acting at a single scale.
+APS Scale must also be distinguished from a **level of selection**. Levels-of-selection analysis concerns the structure and attribution of selection within evolutionary models and biological systems (Okasha 2006). APS Scale asks how far an investigation must extend in space, time, and organisation to capture the relevant dependencies. The two can intersect, but they are not synonymous.
 
-This multiscale perspective helps clarify why debates concerning units of selection often prove difficult to resolve. Different investigators frequently focus upon different scales of continuity, each identifying important aspects of evolutionary organisation. APS does not deny the reality of these perspectives. Rather, it argues that their significance derives from their contribution to organised persistence within a larger continuity architecture.
+A multiscale description likewise does not establish a multiscale causal explanation. Where developmental, physiological, ecological, population, or lineage relations are claimed to interact causally in selection, those dependencies require independent biological support.
 
-Selection is therefore best understood as operating upon the outcomes of multiscale biological organisation. The continuity of lineages depends upon interactions distributed across developmental, physiological, behavioural, ecological, and evolutionary domains, and selection contributes to the differential stabilisation of those continuity-producing relationships through historical time.
+The value of Scale is therefore methodological rather than prescriptive: it prevents the explanatory extent of a selection problem from being fixed in advance.
 
 ## Selection Within the APS Evolutionary Architecture
 
-APS situates natural selection within a broader explanatory framework organised around continuity, persistence, and transformation. Selection remains an important evolutionary concept, but APS does not treat it as the primary source of biological organisation or as a complete explanation of evolutionary change.
+APS situates natural selection within a broader explanatory architecture of continuity and transformation. Selection remains a central evolutionary process, but its place in that architecture does not make it the source of all biological organisation, nor does the architecture determine the complete causal conditions under which selection occurs.
 
-Agency, viability, organised persistence, inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation address distinguishable explanatory questions within this framework. Their architectural arrangement helps organise those questions but does not establish that every preceding concept constitutes a universal biological prerequisite for selection.
+Agency, viability, organised persistence, inheritance, variation, adaptation, fitness, natural selection, and evolutionary transformation address distinguishable explanatory questions. Their arrangement allows APS to ask how viability-oriented organisation persists, how differences arise or are maintained, how differential historical outcomes occur, and how living organisation is transformed through evolutionary time.
 
-Within this architecture, selection has a bounded role: differential historical stabilisation among biologically relevant alternatives. Other processes may generate, maintain, reproduce, reorganise, or modify those alternatives. Which of those processes is required for a particular instance of selection must be determined from the biological system and explanandum rather than from APS ordering alone.
+Within this architecture, APS assigns selection the interpretive role of contributing to differential historical stabilisation among biologically relevant alternatives. Other processes may be involved in generating, maintaining, transmitting, reproducing, or modifying those alternatives. Which dependencies are relevant must be established for the particular biological case.
 
-This reframing preserves the explanatory importance of selection while preventing it from being assigned responsibilities belonging to other processes. It also prevents the converse inference that every process recognised elsewhere in APS must therefore be a necessary condition of selection.
+The architecture is therefore conceptual and explanatory. It is not, simply by virtue of its ordering, evidence for a universal causal chain, necessary temporal progression, or hierarchy of explanatory importance.
 
 [[box:structure-of-evolutionary-explanation]]
 
-## From Selection to Evolutionary Explanation
+## Explanatory Architecture
 
-The question of what selection acts upon has often been treated as a debate concerning genes, traits, organisms, groups, or populations. APS reframes the issue by shifting attention from isolated entities to organised continuity. The central evolutionary phenomenon is not the success of individual components but the differential historical continuity of lineages of organised persistence.
+The explanatory structure of this article can be stated without turning it into a universal biological pathway.
 
-This shift has important explanatory consequences. It clarifies why selection cannot generate organisation, viability, or persistence. It explains why genes are evolutionarily significant without becoming privileged causal agents. It illuminates the relationship between fitness and selection, and it integrates developmental, physiological, ecological, and evolutionary processes within a common continuity architecture.
+**Biologically relevant differences** are required for differential evolutionary outcomes. How those differences are generated, maintained, reproduced, or transmitted depends upon the biological system.
 
-Selection therefore becomes intelligible as one component of a broader explanatory grammar. Inheritance, variation, adaptation, fitness, and natural selection address different questions concerning historical continuity and transformation. Selection's particular role is differential historical stabilisation. The biological relations connecting it to the processes that generate, maintain, reproduce, or modify evolutionary differences must be specified independently rather than inferred from their conceptual ordering.
+**Fitness**, in APS, concerns differential historical continuity. It provides one way of analysing differences relevant to the representation or persistence of biological organisation through time.
 
-Understanding selection in this way allows evolutionary explanation to move beyond disputes concerning isolated units and toward a richer account of how continuity is maintained and transformed across biological history.
+**Natural selection**, in APS, is interpreted as contributing to differential historical stabilisation among biologically relevant alternatives. This identifies its role within APS evolutionary explanation without specifying a universal object or level of selection.
+
+**Evolutionary transformation** concerns the resulting historical change in living organisation, but the causal relations connecting particular differences, fitness relations, selection processes, and evolutionary outcomes must be established independently.
+
+This architecture therefore organises explanatory questions rather than prescribing a necessary sequence:
+
+**difference → differential outcome → historical stabilisation → evolutionary transformation**
+
+Even this compact representation should not be read as a universal causal chain. It identifies distinctions that an APS explanation may need to investigate; the biological dependencies among them remain empirical.
+
+## What APS Adds — and What It Does Not Establish
+
+APS contributes an organisational perspective to selection by asking how differential evolutionary outcomes relate to the historical continuity and transformation of living systems. This perspective can help distinguish the persistence requiring explanation from the particular entities and causal relations through which selection occurs.
+
+Its value cannot, however, be established merely by replacing the vocabulary of genes, organisms, groups, populations, or lineages with the vocabulary of organised persistence. Existing evolutionary approaches already distinguish units and levels of selection, analyse Darwinian populations, and examine the relation between selection and biological hierarchy (Okasha 2006; Godfrey-Smith 2009). Gene-centred explanations likewise cannot be dismissed merely because genetic effects depend upon wider biological organisation (Dawkins 1982).
+
+APS can therefore claim explanatory gain only where its organisational analysis identifies a relevant dependency, resolves an explanatory problem, or otherwise improves explanation relative to the strongest comparator addressing the same explanandum. Integration, conceptual coherence, or broader vocabulary alone does not satisfy that criterion.
+
+Accordingly, this article does not establish a universal unit of selection, does not claim that selection is necessarily multiscale, and does not derive selection from the complete APS evolutionary architecture. Its more limited purpose is to clarify how selection can be situated within an organisational account of evolutionary continuity while keeping the relevant biological dependencies open to investigation.
+
+## Conclusion
+
+Asking what natural selection acts on remains a legitimate biological question, but APS does not answer it by nominating organised persistence as a new universal unit. The framework instead separates the question of what persists through evolutionary history from the question of which entities and causal relations participate in particular selection processes.
+
+Within that distinction, APS interprets selection as contributing to differential historical stabilisation among biologically relevant alternatives. The formulation situates selection within evolutionary transformation while leaving the units, levels, causal dependencies, and explanatory extent of particular selection processes to biological investigation.
+
+This bounded interpretation also preserves distinctions elsewhere in the APS evolutionary architecture. Fitness and selection can address different explanatory questions without becoming successive stages in a universal pathway. Genetic explanations can remain powerful without receiving automatic explanatory priority. Cross-scale relations can matter without making selection inherently multiscale. And organised persistence can provide a common explanatory target without becoming, by definition, the object upon which selection acts.
+
+The resulting account is therefore not an alternative mechanism of natural selection. It is an attempt to clarify selection's place within the broader explanation of biological continuity and transformation while remaining answerable to established evolutionary theory and to the biological evidence relevant to each case.
 
 ## Continue Exploring
 
@@ -204,6 +220,4 @@ Understanding selection in this way allows evolutionary explanation to move beyo
 
 ## Key Point
 
-Natural selection in APS is the differential stabilisation of lineages of viability-oriented organisation. It operates on differences in continuity among organised systems rather than on isolated components such as genes, traits, or individual mechanisms, contributing to the historical transformation of organised persistence through evolutionary time.
-
-
+APS interprets natural selection as contributing to differential historical stabilisation among biologically relevant alternatives. This situates selection within evolutionary transformation without determining in advance the universal unit, level, scale, or complete causal architecture of selection.
