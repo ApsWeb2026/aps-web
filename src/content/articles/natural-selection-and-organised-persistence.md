@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-01
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: core
 
@@ -132,6 +132,14 @@ references:
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
+
+**Where This Article Fits**
+
+*This article provides the core APS treatment of natural selection within Evolutionary Dynamics. It distinguishes natural selection from evolution as a whole and from the processes that generate, maintain, express, or transmit the biological differences upon which selection may operate.*
+
+*Within the APS evolutionary architecture, natural selection concerns differential historical stabilisation. Fitness concerns differential historical continuity, while inheritance, variation, adaptation, development, ecology, biological agency, and other processes enter selection explanations where their materially realised relations are relevant to the explanandum.*
+
+*The article therefore places natural selection within the historical transformation of organised persistence without treating it as either the organising cause of evolution or the final stage of a predetermined APS sequence. The particular causal and dependency relations involved in selection must be established for the biological case concerned.*
 
 ## Introduction - Natural Selection Within Evolutionary Explanation
 
@@ -374,3 +382,29 @@ Natural selection therefore need not be treated either as the foundational sourc
 Evolutionary organisation provides a framework for distinguishing those questions. It does not settle their causal relations in advance.
 
 Differential historical stabilisation can contribute to the historical transformation of organised persistence. Its explanatory role becomes more precise when the causes of biological difference, the characterisation of differential continuity, and the historical stabilisation of those differences are kept analytically distinct.
+
+## Explanatory Architecture
+
+### Central Question
+
+What does natural selection explain, and which additional biological relations must be specified to explain a particular process of differential historical stabilisation?
+
+### Architectural Role
+
+Natural selection identifies differential historical stabilisation within evolutionary history. It concerns how biologically relevant differences become differentially established across generations while leaving the generation, maintenance, expression, transmission, and consequences of those differences available for further biological explanation.
+
+### Builds On
+
+The article builds on the APS accounts of evolution, organised persistence, inheritance, variation, adaptation, fitness, development, ecology, biological agency, process, and scale.
+
+### Develops Into
+
+The analysis opens more specific questions concerning what is selected, how selectable differences are generated and maintained, how fitness relates to differential continuity, which developmental and ecological relations affect selection, and what spatial and temporal explanatory extent a particular selection process requires.
+
+### Position within APS
+
+Natural selection is distinct from evolution as a whole, from fitness, and from the processes producing biological difference. Its position within APS identifies a specific explanatory role rather than a universal causal stage. Inheritance, variation, adaptation, fitness, development, ecology, biological agency, and other processes may be materially relevant to particular selection explanations, but their relations must be established rather than inferred from their conceptual ordering.
+
+### Corpus Significance
+
+Within Evolutionary Dynamics, this article establishes the principal APS boundary around natural selection: differential historical stabilisation can contribute to the historical transformation of organised persistence without becoming either a complete explanation of evolution or the endpoint of a predetermined evolutionary sequence. This boundary allows selection to retain its explanatory importance while keeping the causes of biological difference, differential continuity, and historical stabilisation analytically distinct.

@@ -99,7 +99,15 @@ references:
     publisher: "Springer"
 ---
 
-## Why Reconsider the Meaning of Evolution?
+**Where This Article Fits**
+
+*This article provides the core APS account of what evolution means within the framework. It introduces evolution as the historical transformation of organised persistence and relates that formulation to inheritance, variation, adaptation, natural selection, biological agency, and continuity across generations.*
+
+*Within Evolutionary Dynamics, its role is conceptual rather than mechanistic. APS does not propose a new evolutionary mechanism or replace established evolutionary theory. It asks what historically continuous biological organisation is transformed through evolutionary processes and how the relations relevant to that transformation should be specified.*
+
+*The article therefore provides a core route into the APS evolutionary corpus. The particular relations among inheritance, variation, adaptation, fitness, natural selection, development, ecology, biological agency, and evolutionary transformation depend upon the explanandum and biological case; their positions within APS do not by themselves establish a universal causal or temporal sequence.*
+
+## Introduction - Why Reconsider the Meaning of Evolution?
 
 Evolutionary biology is one of the most successful explanatory frameworks in modern science. It explains adaptation, diversification, inheritance, extinction, ecological change, and the deep history of life. Population genetics, evolutionary ecology, developmental biology, comparative phylogenetics, and molecular evolution have all provided powerful ways of understanding biological change through time.
 
@@ -252,3 +260,13 @@ APS therefore interprets evolution as the historical transformation of organised
 ## Key Point
 
 Evolution in APS is the historical transformation of lineages of organised persistence. Evolutionary explanations explain how continuity is reproduced, modified, stabilised, and transformed through time, revealing how living systems maintain continuity through continual change across the history of life.
+
+re specific questions concerning inheritance, the generation of variation, adaptation, fitness, natural selection, lineage continuity, evolutionary individuality, multiscale evolution, development, ecology, and the processes through which organised persistence is historically transformed.
+
+### Position within APS
+
+Evolutionary organisation concerns historical continuity through transformation. Inheritance, variation, adaptation, fitness, natural selection, development, ecology, biological agency, and other processes may contribute to that transformation in particular cases, but their conceptual organisation within APS does not establish a universal causal pathway, temporal succession, or necessary dependency among them.
+
+### Corpus Significance
+
+Within Evolutionary Dynamics, this article establishes the core APS formulation of evolution and connects it with the more differentiated articles that investigate particular evolutionary concepts and relations. Its organising question is what persists through evolutionary transformation, while the material processes and dependencies responsible for particular evolutionary histories remain matters for biological specification and evidence.
