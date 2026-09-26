@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: anchor
 
@@ -335,7 +335,7 @@ Scale is consequently not merely a way of describing biological organisation. It
 
   <p class="aps-diagram-caption">
     <strong>Evolution Continuity Visual.</strong>
-     APS explains evolutionary continuity as the regeneration and transformation of viability-oriented organisation across generations through inheritance, variation, adaptation, ecological interaction, and the differential stabilisation of organised persistence under changing conditions.
+     APS explains evolutionary continuity as the regeneration and transformation of viability-oriented organisation across generations. Inheritance, variation, adaptation, ecological interaction, fitness, and natural selection identify evolutionary relationships that may contribute to this continuity in particular cases; their arrangement does not establish a universal causal or temporal sequence.
   </p>
 </div>
 

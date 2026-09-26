@@ -20,7 +20,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-22
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: synthesis
 
@@ -177,7 +177,7 @@ Adaptation therefore links physiology and evolution across temporal scales. At s
 
   <p class="aps-diagram-caption">
     <strong>Evolutionary Continuity and Transformation.</strong>
-    APS explains evolution as the historical regeneration and transformation of organised persistence across generations. Inheritance reproduces continuity, variation introduces organisational differences, adaptation reorganises persistence under changing conditions, and natural selection differentially stabilises forms of continuity through evolutionary time.
+    APS explains evolution as the historical regeneration and transformation of organised persistence across generations. Inheritance, variation, adaptation, fitness, natural selection, and other evolutionary relationships may contribute differently to continuity and transformation according to the biological and historical case concerned.
   </p>
 </div>
 

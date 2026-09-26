@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-20
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: core
 
@@ -274,7 +274,7 @@ Adaptation should therefore not be confused with fitness or treated as another n
 
   <p class="aps-diagram-caption">
     <strong>Evolutionary Concepts Visual.</strong>
-    APS distinguishes variation, adaptation, fitness, and natural selection as successive explanatory moments within a continuity-preserving architecture. Variation introduces novelty, adaptation integrates novelty into viable persistence, fitness differentiates among viable variants, and natural selection differentially stabilises those variants across evolutionary time.
+    APS distinguishes variation, adaptation, fitness, and natural selection as different explanatory concepts within evolutionary organisation. Their arrangement in this visual represents APS explanatory organisation; it does not by itself establish temporal succession, causal priority, or a necessary biological dependency among them.
   </p>
 </div>
 

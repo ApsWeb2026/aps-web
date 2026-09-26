@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-06-22
+revised: 2026-09-26
 cluster: evolutionary-dynamics
 role: core
 
@@ -140,7 +140,7 @@ Population-level descriptions, including gene-frequency change, implicitly assum
 
   <p class="aps-diagram-caption">
     <strong>Evolutionary Continuity and Transformation.</strong>
-    APS interprets evolution as the historical transformation of organised persistence. Inheritance reproduces continuity, variation introduces organisational differences, adaptation reorganises persistence under changing conditions, and natural selection differentially stabilises forms of continuity through time.
+    APS interprets evolution as the historical transformation of organised persistence across generations. Inheritance, variation, adaptation, fitness, natural selection, and other evolutionary relationships may contribute to that continuity and transformation in ways that depend on the biological and historical case concerned.
   </p>
 </div>
 
