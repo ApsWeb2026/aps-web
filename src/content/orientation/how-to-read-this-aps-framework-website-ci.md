@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-09-15
+revised: 2026-09-27
 cluster: conceptual-foundations
 abstract: >
   This page explains how APS_WEB is organised and provides recommended
@@ -116,6 +116,12 @@ Canonical articles develop particular APS concepts, arguments, methodological qu
 These articles explore topics such as biological organisation, persistence, development, ecology, evolution, cognition, diagnosis, semiosis, normativity, systems theory, and biological explanation. They are extensively cross-linked so that readers can identify relevant relationships among questions, concepts, and research domains.
 
 Cross-linking records the organisation of the APS corpus. It does not imply that every connection is a biological dependency or an established explanatory relation.
+
+### Research
+
+The **[APS Research](/research/)** programme records the assessment of APS claims, methods, and applications against evidence, relevant alternatives, limitations, and failure conditions.
+
+Readers should use the Research pathway when the question is not simply **what APS proposes**, but **what particular APS claims have so far been tested, what those investigations established, and what remains unestablished**. Conceptual architecture, website integration, and research status should therefore not be treated as interchangeable forms of scientific support.
 
 ## Major Reading Pathways Through APS
 

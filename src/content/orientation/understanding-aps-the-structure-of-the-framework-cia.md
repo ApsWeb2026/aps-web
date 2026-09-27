@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-14
+revised: 2026-09-27
 cluster: conceptual-foundations
 abstract: >
   This article serves as a guide to navigating the APS framework. Rather
@@ -532,7 +532,9 @@ Naturalising Life — an examination of how APS develops and stabilises biologic
 
 Readers interested in the organisational account proposed by APS may continue with:
 
-How APS Explains Life — an introduction to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence.
+How APS Explains Life — an introduction to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence. 
+
+Readers interested in the current research and evidential status of APS may continue with: [**APS Research**](/research/) — the public record of completed and continuing APS research, including the assessment of framework-level and target-specific explanatory claims.
 
 Readers interested in the framework's long-term synthesis programme may continue with:
 

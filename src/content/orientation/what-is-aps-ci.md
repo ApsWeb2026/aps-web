@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-10
+revised: 2026-09-27
 cluster: conceptual-foundations
 abstract: >
   APS is an integrative analytic framework for theoretical biology. It investigates
@@ -269,6 +269,8 @@ This perspective can bring organisational questions into relation with developme
 APS therefore changes neither the subject matter of biology nor the validity of its established explanatory approaches. It proposes an organisational account of living systems. What that account contributes must be assessed using independently applicable comparative methods and the strongest relevant established explanations.
 
 Its success depends not on the breadth of phenomena that can be described in APS terminology, but on demonstrated explanatory gain.
+
+APS is therefore being investigated as a **candidate general explanatory framework for biology**. Framework-level assessment has established that APS is **eligible for testing** in that role. This status does not establish general explanatory adequacy, framework-wide explanatory superiority, or broader explanatory scope; those stronger conclusions require independently supported explanatory contributions and, where warranted, evidence of transfer.
 
 ## What APS Is Not
 
