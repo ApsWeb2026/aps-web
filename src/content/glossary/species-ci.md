@@ -6,18 +6,18 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-09-25
+revised: 2026-09-28
 cluster: evolutionary-dynamics
 definition: >
-  In APS, natural selection is the historically distributed differential
-  stabilisation of viability-oriented, constraint-closed organisation across
-  generations. Selection concerns differences in the historical continuity
-  of living organisation under changing conditions. The particular relations
-  among selection, persistence, inheritance, variation, adaptation,
-  development, and biological agency must be established for the evolutionary
-  case concerned rather than inferred from their positions within APS.
+  In APS, species are biologically significant entities or patterns identified
+  within evolutionary history according to substantive biological criteria.
+  APS relates species inquiry to historical lineage continuity without defining
+  species as identical with lineages or determining their boundaries or
+  ontology in advance.
 inBrief: >
-  A species is a historically continuous lineage of organised persistence.
+  Species identify biologically significant entities or patterns within
+  evolutionary history; APS does not define them as identical with lineages
+  or taxonomic classifications.
 seeAlso:
   - evolution
   - inheritance
@@ -29,13 +29,18 @@ seeAlso:
   - taxon
 ---
 
-## Conventional framing  
+## Conventional framing
+
 Species are often defined using criteria such as reproductive isolation, morphological similarity, or genetic clustering, leading to multiple competing species concepts.
 
-## APS reframing  
-APS treats species as historically continuous lineage-patterns of organised persistence rather than as fixed categories or biological kinds. Species are not themselves classifications. Rather, they are the organisational continuities that taxonomic classification seeks to identify, describe, and stabilise. The distinction between species and taxonomic designation is therefore central to the APS account of biological classification.
+## APS reframing
 
-Species boundaries are therefore context-dependent and reflect the continuity and transformation of viable organisation rather than fixed definitions. Species are biologically real patterns of organisation that taxonomic systems attempt to identify and stabilise.
+APS situates species within the historical continuity and transformation of living organisation. Lineages provide historical continuity across generations, but APS does not assume that species are simply identical with lineages, nor does it determine in advance whether species should be understood as individuals, kinds, classes, lineage segments, or through some other biological account.
 
-## Key Point 
-Species in APS are **historically continuous lineage-patterns of organised persistence**. They are the evolutionary continuities that taxonomic classification seeks to identify rather than the classifications themselves.
+Species are also distinct from taxonomic classifications. Taxonomic systems identify, describe, and organise biological diversity using evidence and criteria appropriate to the organisms and questions concerned. The relation between lineage continuity, species boundaries, and taxonomic designation must therefore be established rather than inferred from APS architecture alone.
+
+Species boundaries may depend on reproductive, ecological, developmental, genetic, historical, or other biologically relevant relations. APS does not supply a universal species criterion; it provides an organisational framework within which the historical continuity and transformation relevant to particular species questions can be investigated.
+
+## Key Point
+
+Species and lineages are related but not identical explanatory objects. APS situates species questions within evolutionary history and organised persistence while leaving the biological criteria, boundaries, and ontology of species to be established for the case concerned. Taxonomic classifications describe and organise biological diversity; they are not themselves the biological entities or patterns being classified.

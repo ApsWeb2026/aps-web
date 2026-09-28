@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-09-06
+revised: 2026-09-28
 cluster: methodology-and-explanation
 role: extension
 abstract: "A worked application of comparative explanatory methodology tests three APS propositions against their strongest relevant comparators. The results differ by proposition and target: minimal cognition retains a non-redundant boundary-classificatory role without demonstrated additional substantive biological gain; the APS function proposition encounters comparator advantage; and the APS analytic interface provides coherent redescription without demonstrated additional methodological gain. The comparison supports proposition-specific, comparator-relative assessment rather than a framework-wide verdict."
@@ -21,6 +21,7 @@ relatedGlossaryTerms:
   - explanandum
 relatedArticles:
   - how-should-the-strongest-comparator-be-chosen
+  - aps-as-an-evolving-intellectual-system
 references:
   - nuttley-atkinson-leadbeater-van-der-kooy-2002-associative-learning
   - torayama-ishihara-katsura-2007-butanone-food-integration

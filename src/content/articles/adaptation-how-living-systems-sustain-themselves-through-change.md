@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-27
+revised: 2026-09-28
 cluster: evolutionary-dynamics
 role: core
 
@@ -164,7 +164,7 @@ Living systems therefore persist through adaptive continuity rather than static 
 <a href="/assets/diagrams/evolution-adaptation.png" target="_blank" rel="noopener">
   <img
     src="/assets/diagrams/evolution-adaptation.png"
-    alt="Adaptation as organised reorganisation showing how viability-oriented systems preserve continuity under changing conditions and thereby contribute to evolutionary transformation."
+    alt="Adaptation as organised reorganisation through which viability-oriented systems preserve continuity under changing conditions, with possible consequences for evolutionary transformation."
   />
 </a>
 
@@ -291,7 +291,7 @@ Adaptation should therefore not be confused with fitness or treated as another n
 
   <p class="aps-diagram-caption">
     <strong>Evolutionary Concepts Visual.</strong>
-    APS distinguishes variation, adaptation, fitness, and natural selection as different explanatory concepts within evolutionary organisation. Their arrangement in this visual represents APS explanatory organisation; it does not by itself establish temporal succession, causal priority, or a necessary biological dependency among them.
+    Evolutionary Concepts Visual. APS distinguishes variation, adaptation, fitness, and natural selection as different explanatory concepts within its evolutionary architecture. Their arrangement in the visual is organisational and does not by itself establish temporal succession, causal priority, necessary dependency, or a universal evolutionary pathway.
   </p>
 </div>
 

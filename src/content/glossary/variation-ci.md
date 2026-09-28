@@ -6,17 +6,16 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-15
+revised: 2026-09-28
 cluster: evolutionary-dynamics
 
 definition: >
   In APS, variation is the structured generation of differences within
   viability-oriented, constraint-closed organisation across instances,
-  generations, or developmental trajectories. Variation emerges through the
-  ongoing dynamics of development, regulation, environmental interaction,
-  physiological organisation, behavioural activity, and adaptive
-  reorganisation, and is constrained by the organisational conditions through
-  which living systems sustain persistence.
+  generations, or developmental trajectories. Such differences may arise
+  through developmental, regulatory, environmental, physiological,
+  behavioural, and other processes, while remaining conditioned by the
+  organisation through which living systems sustain persistence.
 
 inBrief: >
   Variation is the structured generation of organisational differences within
@@ -85,6 +84,7 @@ references:
 ## Conventional Framing
 
 Variation is commonly understood as the production of heritable differences through:
+
 - mutation;
 - recombination;
 - genetic drift;
@@ -102,119 +102,124 @@ In APS, variation is the structured generation of differences within viability-o
 
 Variation does not occur in abstraction from living organisation.
 
-It emerges through the ongoing dynamics of:
+Biological differences may arise through processes including:
+
 - development;
 - regulation;
 - environmental interaction;
 - physiological organisation;
 - behavioural activity;
-- and adaptive reorganisation.
+- and organisational reorganisation.
+
+These processes are possible sources and contexts of variation rather than a universal dependency structure through which all biological variation must arise.
 
 Variation therefore reflects structured possibilities for sustaining, transforming, or undermining organised persistence.
 
 Variation may involve stochastic processes, but variation is not organisationally unconstrained.
 
-Living systems generate differences within the conditions established by viability-oriented organisation itself.
+Living systems generate differences within conditions established by their material and organisational constitution.
 
 APS therefore rejects the idea that biological variation is merely unconstrained randomness imposed upon passive systems.
 
-> **Where this concept fits:** Variation is one of the central generative concepts within APS. It explains how organised biological systems diversify across developmental, ecological, and evolutionary contexts and thereby links persistence, inheritance, adaptation, development, fitness, and evolution within a unified explanatory framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+> **Where this concept fits:** Variation is a central concept in APS evolutionary explanation because it concerns the generation and distribution of biological differences. Its relations to persistence, inheritance, adaptation, development, fitness, and evolutionary transformation must be established for the biological case and explanatory target concerned rather than inferred from APS architecture alone. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
 ## Variation and Persistence
 
-Variation occurs within systems already capable of organised persistence.
+Variation occurs within living systems and historical biological continuities whose organisation provides the conditions under which differences arise and have biological consequences.
 
-Persistence refers to the ongoing maintenance of viability-oriented organisation across time. Variation refers to the diversification of such organisation across developmental trajectories, individuals, generations, and ecological contexts.
+Persistence refers to the maintenance or reconstitution of viable organisation across relevant temporal scales. Variation refers to differences among instances, developmental trajectories, generations, or other biologically relevant continuities.
 
-Variation therefore presupposes the continuity of living organisation.
+Variation can therefore be investigated in relation to organised persistence without treating persistence and variation as successive stages in a universal evolutionary sequence.
 
-Without persistence, variation would not become biologically stabilised or evolutionarily consequential.
+Whether particular variations become stabilised or evolutionarily consequential depends on the biological circumstances concerned.
 
-APS consequently approaches variation as diversification emerging within already ongoing systems of organised persistence.
+APS consequently approaches variation as organisational diversification occurring within historically situated living systems.
 
 ## Variation and Inheritance
 
-Variation depends upon inheritance.
+Inheritance and variation are closely related in many evolutionary contexts, but their explanatory relation should not be treated as a universal dependency.
 
-Inheritance reproduces the organisational continuity through which living systems persist across generations. Variation diversifies that inherited organisation.
+Inheritance concerns the cross-generational reconstitution of biological organisation. Variation concerns differences within and among biological organisations, developmental trajectories, and generations.
 
-Variation therefore modifies inherited continuity rather than replacing it.
+Where inherited continuity and organisational differences are materially connected, their relation can contribute to evolutionary transformation.
 
-Evolutionary transformation emerges through the ongoing interaction between inherited persistence and organisational diversification.
-
-APS consequently treats variation and inheritance as complementary dimensions of historical biological continuity rather than opposing principles.
+APS therefore treats inheritance and variation as distinguishable concepts whose particular relationship must be established for the evolutionary case concerned.
 
 ## Variation and Adaptation
 
-Variation contributes to adaptive transformation by generating organisational differences across living systems.
+Variation and adaptation are distinct concepts.
 
-Adaptation reorganises viability-oriented organisation under changing conditions. Variation generates differences in how such reorganisation occurs across organisms, developmental trajectories, and ecological relations.
+Variation concerns the generation and distribution of biological differences. Adaptation concerns viability-oriented reorganisation under changing conditions.
 
-Variation therefore generates organisational diversification, whereas adaptation concerns viability-oriented reorganisation under changing conditions.
+Variation and adaptation may be related where organisational differences affect viability-oriented reorganisation, but variation does not by itself imply adaptation and adaptation is not a necessary stage through which variation becomes evolutionarily relevant.
 
-Some variations stabilise or extend viable persistence, while others undermine or destabilise it.
+Some variations may stabilise or extend viable persistence, while others may undermine or destabilise it. Still others may have little or no relevant consequence for the explanatory target concerned.
 
-Variation consequently contributes to the historical transformation of adaptive organisation across generations.
+Their evolutionary relationship must therefore be established rather than inferred from their positions within APS architecture.
 
 ## Variation and Development
 
-Development forms a major source of variation.
+Development can be an important source and context of biological variation.
 
-Living systems generate organisational differences through:
+Living systems may generate organisational differences through:
+
 - developmental plasticity;
 - regulatory modulation;
 - environmental responsiveness;
 - behavioural interaction;
 - and ecological coupling.
 
-Variation therefore does not arise solely from genetic alteration.
+Variation therefore need not arise solely from genetic alteration.
 
-It also emerges through the developmental dynamics through which viable organisation is generated and reorganised across time.
+Developmental processes can generate and constrain differences in biological organisation across time.
 
-Development links variation to adaptation, inheritance, fitness, and evolutionary transformation.
+Where development is materially relevant to inheritance, adaptation, fitness, or evolutionary transformation, those relations require case-specific demonstration rather than assumption.
 
-APS consequently approaches variation as developmentally mediated rather than genetically isolated.
+APS consequently recognises development as one important source of structured variation without making it a universal explanatory prerequisite.
 
 ## Variation and Biological Agency
 
-Variation is inseparable from biological agency.
+Biological agency can contribute to the conditions under which variation arises.
 
-Living systems actively regulate:
+Living systems regulate:
+
 - physiology;
 - behaviour;
 - development;
 - and environmental interaction
 
-relative to viability constraints.
+relative to conditions affecting viability.
 
-Variation emerges partly through the historically distributed consequences of such viability-oriented activity.
+Some biological differences may arise partly through the historically distributed consequences of such viability-oriented activity.
 
-Organisms therefore participate actively in generating the organisational conditions under which variation occurs.
+Organisms can therefore participate in generating or modifying conditions under which variation occurs.
 
-APS consequently treats variation as emerging partly through the ongoing dynamics of viability-oriented biological activity itself.
+This does not mean that all variation is produced by agency or that agency constitutes a universal explanatory prerequisite for biological variation. The relevant relation must be established for the case concerned.
 
 ## Variation and Constraint Closure
 
-Variation occurs within constraint-closed organisation.
+Variation occurs within materially organised living systems whose persistence depends on interacting constraints.
 
-Living systems persist through networks of mutually sustaining constraints distributed across processes and scales.
+Changes in biological organisation can involve:
 
-Variation modifies these organisational relations through:
 - reorganisation;
 - compensation;
 - diversification;
 - developmental transformation;
 - and ecological interaction.
 
-Variation therefore transforms organised persistence without abandoning the organisational conditions that make persistence possible.
+These changes may modify relations among constraints while preserving, altering, or undermining the organisation required for continued persistence.
 
-APS consequently approaches variation as constrained organisational diversification rather than unrestricted alteration.
+APS consequently approaches variation as organisationally conditioned diversification rather than unrestricted alteration.
+
+This does not require every instance of variation to modify constraint closure or to contribute to continued viability.
 
 ## Variation Across Scale
 
-Variation operates across interacting biological scales.
+Variation can occur at, and involve relations among, multiple biological scales.
 
-Variation may involve:
+Depending on the system and explanatory question, variation may involve:
+
 - molecular organisation;
 - physiological regulation;
 - developmental systems;
@@ -222,55 +227,40 @@ Variation may involve:
 - ecological interaction;
 - and environmental modification.
 
-These are not isolated levels of variation but scale-coupled forms of organisational diversification distributed across living systems and their environments.
+These relations should not be assumed to constitute one universal multiscale structure.
 
-Variation therefore cannot be reduced to a single privileged scale or mechanism.
+Some explanatory targets may require relations across several spatial or temporal scales, whereas others may be adequately addressed at a more restricted explanatory extent.
 
-APS consequently treats variation as multiscale and organisationally distributed.
+APS therefore treats the scale of variation as an empirical and explanatory question rather than assigning variation to a single privileged scale or requiring universal multiscale organisation.
 
 ## Variation and Fitness
 
-Variation contributes to differences in the continuity of organised persistence across generations.
+Variation can contribute to differences in the historical continuity of organised persistence.
 
-Some forms of organisational diversification remain viable under changing developmental and ecological conditions, while others destabilise or undermine persistence.
+Some forms of organisational diversification may remain viable under changing developmental and ecological conditions, while others may destabilise or undermine persistence.
 
-Variation therefore contributes to differential fitness across organisms, lineages, and ecological contexts.
+Where such differences affect differential historical continuity, variation may be relevant to fitness.
 
-Fitness consequently depends not upon abstract superiority, but upon the historically situated continuity of viability-oriented organisation under changing conditions.
+The relation between variation and fitness nevertheless depends on the organisms, conditions, and explanatory target concerned. Fitness should not be inferred directly from the presence of variation.
 
 ## Variation and Evolution
 
-Variation contributes to evolutionary transformation by diversifying organised persistence across generations.
+Variation can contribute to evolutionary transformation by generating or maintaining biological differences across generations.
 
-Evolution transforms viability-oriented organisation historically. Variation generates the organisational differences through which such transformation becomes possible.
+Evolution concerns historical transformation in living organisation. Variation supplies differences that may become relevant to such transformation, but variation alone does not explain evolution.
 
-Variation alone does not explain evolution.
+Depending on the biological case, evolutionary explanation may also require relations involving persistence, inheritance, adaptation, development, fitness, natural selection, ecological conditions, and other processes.
 
-Evolution also depends upon:
-- persistence;
-- inheritance;
-- adaptation;
-- development;
-- fitness;
-- and viability-oriented organisation.
+Which relations are explanatorily relevant, and how they are related, must be established rather than inferred from their positions within APS.
 
-Variation therefore operates within the broader organisational conditions through which evolutionary transformation occurs.
+Variation therefore occupies an important place in evolutionary explanation without constituting a sufficient explanation of evolutionary transformation or a fixed stage in a universal evolutionary pathway.
 
 ## Summary
 
 In APS, variation is the structured generation of differences within viability-oriented, constraint-closed organisation across instances, generations, or developmental trajectories.
 
-Variation is not adequately understood as unconstrained randomness or genetic alteration alone. Biological diversification emerges through ongoing developmental, physiological, behavioural, ecological, and organisational dynamics distributed across living systems.
+Variation is not adequately understood as unconstrained randomness or genetic alteration alone. Biological differences may arise through developmental, physiological, behavioural, ecological, regulatory, genetic, and other processes operating within materially organised living systems.
 
-APS therefore approaches variation as constrained, multiscale, and developmentally mediated organisational diversification emerging within systems already capable of viable persistence.
+APS therefore approaches variation as organisationally conditioned biological diversification whose sources, constraints, scales, and consequences must be established for the system and explanatory question concerned.
 
-Variation consequently links:
-- persistence;
-- inheritance;
-- adaptation;
-- development;
-- biological agency;
-- fitness;
-- and evolution
-
-through the organised diversification of viability-oriented living systems.
+Variation can enter into explanatory relations with persistence, inheritance, adaptation, development, biological agency, fitness, natural selection, and evolutionary transformation. Those relations are not established merely by their inclusion or ordering within APS and must be demonstrated for the biological case concerned.

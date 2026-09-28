@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-09-26
+revised: 2026-09-28
 cluster: evolutionary-dynamics
 role: extension
 
@@ -97,6 +97,23 @@ Nor should a species be equated with its classification. Species classification 
 This distinction also prevents APS from resolving the ontology of species by stipulation. Hull's influential argument that species can be understood as spatiotemporally extended individuals and potential units of evolution illustrates how much is at stake in moving from questions of classification to claims about what species themselves are. APS need not decide in advance whether species are best understood as individuals, kinds, classes, lineage segments, population-level entities, or through some other ontology. What it can require is that these alternatives not be conflated with the classificatory practices through which species are recognised.
 
 The resulting position is deliberately modest but important: **historical biological continuity, species, and species classifications are related, but they are not identical explanatory objects**.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/evolution-lineage.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/evolution-lineage.png"
+      alt="Species as relatively specific historical lineage-patterns of evolutionary continuity within organised persistence."
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Species and Evolutionary Lineages.</strong>
+    Species can identify biologically significant patterns within historical
+    lineage continuity without implying that every species arises through the
+    same causal pathway or temporal sequence.
+  </p>
+</div>
 
 ## The APS Interpretation — Historical Patterns of Organised Persistence
 

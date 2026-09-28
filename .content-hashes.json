@@ -190,8 +190,8 @@
     "lockedSince": "2026-05-27"
   },
   "articles/adaptation-how-living-systems-sustain-themselves-through-change": {
-    "hash": "901f4eae99417233",
-    "revised": "2026-09-27",
+    "hash": "c8feec618e61ca4b",
+    "revised": "2026-09-28",
     "lockedSince": "2026-05-28"
   },
   "articles/ageing-and-organisational-persistence": {
@@ -256,7 +256,7 @@
   },
   "articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system": {
     "hash": "89df670a3a8e6645",
-    "revised": "2026-07-17",
+    "revised": "2026-09-28",
     "lockedSince": "2026-05-03"
   },
   "articles/aps-as-philosophy-viability-oriented-reconstruction": {
@@ -590,8 +590,8 @@
     "lockedSince": "2026-05-29"
   },
   "articles/inheritance-and-continuity-in-aps": {
-    "hash": "1e5f62bec56ef0ef",
-    "revised": "2026-09-26",
+    "hash": "e4182ff61d84de7f",
+    "revised": "2026-09-28",
     "lockedSince": "2026-04-11"
   },
   "articles/institutions": {
@@ -845,8 +845,8 @@
     "lockedSince": "2026-07-27"
   },
   "articles/what-is-a-species-in-aps": {
-    "hash": "8730e977ea78f2ad",
-    "revised": "2026-09-26",
+    "hash": "ea37775fb29d79e3",
+    "revised": "2026-09-28",
     "lockedSince": "2026-04-12"
   },
   "articles/what-is-a-taxon-in-aps": {
@@ -1065,8 +1065,8 @@
     "lockedSince": "2026-07-04"
   },
   "glossary/evolutionary-organisation": {
-    "hash": "e69aa725e1108e1e",
-    "revised": "2026-09-25",
+    "hash": "cb5de391b9401600",
+    "revised": "2026-09-28",
     "lockedSince": "2026-06-13"
   },
   "glossary/explanatory-direction": {
@@ -1270,8 +1270,8 @@
     "lockedSince": "2026-05-27"
   },
   "glossary/species": {
-    "hash": "83ddd22e71a1b62c",
-    "revised": "2026-09-25",
+    "hash": "50e1b8f900169dea",
+    "revised": "2026-09-28",
     "lockedSince": "2026-04-12"
   },
   "glossary/symbolic-coordination": {
@@ -1320,8 +1320,8 @@
     "lockedSince": "2026-04-12"
   },
   "glossary/variation": {
-    "hash": "3bc9249ebe4fbcac",
-    "revised": "2026-06-15",
+    "hash": "ada5d3bba2b25196",
+    "revised": "2026-09-28",
     "lockedSince": "2026-04-12"
   },
   "glossary/viability-orientation": {
@@ -1430,8 +1430,8 @@
     "lockedSince": "2026-06-22"
   },
   "articles/is-evolution-random": {
-    "hash": "0f73f5777435f87d",
-    "revised": "2026-06-23",
+    "hash": "cb5f7910564ba172",
+    "revised": "2026-09-28",
     "lockedSince": "2026-06-22"
   },
   "articles/what-is-a-gene-in-aps": {
@@ -1871,7 +1871,7 @@
   },
   "articles/comparative-explanatory-methodology-theoretical-biology": {
     "hash": "1ae402c7be216be5",
-    "revised": "2026-09-14",
+    "revised": "2026-09-28",
     "lockedSince": "2026-08-07"
   },
   "glossary/explanatory-architecture": {
@@ -1991,7 +1991,7 @@
   },
   "articles/what-happens-when-aps-is-tested-against-its-strongest-comparators": {
     "hash": "8c36ee58e4b566e5",
-    "revised": "2026-09-06",
+    "revised": "2026-09-28",
     "lockedSince": "2026-09-05"
   },
   "articles/biological-agency-evolution-and-the-architecture-of-biological-explanation": {
@@ -2058,5 +2058,10 @@
     "hash": "05c957ad58d8cf3c",
     "revised": "2026-09-19",
     "lockedSince": "2026-09-19"
+  },
+  "articles/aps-as-an-evolving-intellectual-system": {
+    "hash": "6034f148c5a9cf7a",
+    "revised": "2026-09-28",
+    "lockedSince": "2026-09-28"
   }
 }

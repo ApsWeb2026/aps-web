@@ -6,8 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-22
-revised: 2026-06-23
-
+revised: 2026-09-28
 cluster: evolutionary-dynamics
 role: extension
 
@@ -202,7 +201,7 @@ The result is a view of evolution that avoids both reductionism and oversimplifi
   <a href="/assets/diagrams/evolution-random.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/evolution-random.png"
-      alt="Evolutionary transformation emerging through inheritance, continuity, variation, adaptation, fitness, and natural selection"
+      alt="Inheritance, continuity, variation, adaptation, fitness, and natural selection as distinguishable relations within the APS architecture for evolutionary transformation."
       loading="lazy"
     />
   </a>

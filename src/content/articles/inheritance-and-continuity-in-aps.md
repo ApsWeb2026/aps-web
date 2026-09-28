@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-26
+revised: 2026-09-28
 cluster: evolutionary-dynamics
 role: core
 
@@ -145,7 +145,7 @@ This broader conception of inheritance aligns naturally with APS's emphasis on o
 <a href="/assets/diagrams/evolution-inheritance.png" target="_blank" rel="noopener">
   <img
     src="/assets/diagrams/evolution-inheritance.png"
-    alt="Inheritance as organisational continuity showing how viable organisation is reconstituted across generations through development, environmental continuity, and evolutionary organisation."
+    alt="Inheritance as organisational continuity through the reconstitution of viable organisation across generations, situated in developmental, environmental, and evolutionary contexts."
     loading="lazy"
   />
 </a>

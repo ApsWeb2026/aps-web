@@ -8,7 +8,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-07-17
+revised: 2026-09-28
 cluster: conceptual-foundations
 role: core
 relatedArticles:
@@ -16,6 +16,7 @@ relatedArticles:
   - explanatory-geometry-of-biology
   - from-life-to-explanation-emerging-architecture
   - what-is-aps
+  - aps-as-an-evolving-intellectual-system
 ---
 
 ## Introduction
