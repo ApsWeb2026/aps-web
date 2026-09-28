@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-09-25
+revised: 2026-09-28
 cluster: conceptual-foundations
 role: clarification
 
@@ -318,3 +318,44 @@ Its distinctive contribution is the proposition:
 > **Agency can be the defining activity of Life without being the definition of Life.**
 
 For the canonical operational account of biological Agency, see **Biological Agency as the Activity of Self-Maintenance**. For the detailed relationship between Agency and organised persistence, see **Agency and Organised Persistence**. For the boundary between biological Agency and intention, cognition, and representation, see **Biological Agency Without Intentions**.
+
+## Explanatory Architecture
+### Central Question
+In what precise sense can homeorhesis contribute to the explanation of biological persistence through change without being identified with organised persistence itself or treated as a universal mode of living organisation?
+
+### Architectural Role
+This article is a Core article within the Developmental Organisation cluster.
+
+Its function is to define and delimit the explanatory role of homeorhesis within APS while preserving the concept's historical association with developmental trajectory and its legitimate extension to other cases of temporally organised biological regulation.
+The article distinguishes the general continuity of living organisation through change from the more specific case in which an unfolding biological trajectory is itself maintained, coordinated, or recovered through regulation.
+
+### Relationship to Organised Persistence
+Organised persistence is the broader phenomenon requiring explanation.
+
+Homeorhesis identifies one possible form of regulation contributing to organised persistence where persistence depends upon the maintenance, coordination, or recovery of an unfolding biological trajectory. Organised persistence therefore does not presuppose homeorhesis.
+
+The explanatory dependency is:
+
+Viability → Organised Persistence → Temporally Extended Organisation → Trajectory Regulation → Homeorhesis
+This sequence represents increasing specification of the explanatory target. It does not represent levels of biological organisation, successive stages, or a universal pathway through which living systems must pass.
+Relationship to Homeostasis and Allostasis
+Homeostasis, allostasis, and homeorhesis identify related and partly overlapping regulatory emphases rather than mutually exclusive mechanisms or successive forms of biological organisation.
+
+Homeostasis principally concerns the maintenance of biologically relevant conditions within viable ranges despite perturbation. Allostasis principally concerns alteration of regulatory activity as present or anticipated demands change. Homeorhesis principally concerns regulation of an unfolding biological course.
+
+APS therefore does not organise these concepts into a hierarchy or require every regulatory process to belong exclusively to one category. Their explanatory relevance must be established for the biological case concerned.
+Position within APS
+
+Agency, Process, and Scale are analytic projections of one viability-oriented, constraint-closed organisation rather than independent causes, components, stages, dimensions, or levels of biological reality.
+
+Homeorhesis is not an additional APS projection. Where homeorhetic regulation occurs, it describes a temporal-regulatory organisation of biological activity: the Process through which an unfolding viable trajectory is maintained, coordinated, or recovered can also be examined as viability-oriented Agency and at the explanatory Scale warranted by the biological case.
+
+Homeorhesis therefore has no hierarchical priority within APS and is not a necessary condition of Agency, development, adaptation, or evolutionary change.
+
+### Corpus Significance
+This article establishes the controlled APS use of homeorhesis and prevents the concept from expanding into a general synonym for dynamic regulation or persistence through time.
+
+Its distinctive contribution is the proposition:
+*Homeorhesis is a specific form of trajectory regulation contributing to some organised persistence; it is not organised persistence itself.*
+
+The article also establishes the boundary between homeorhesis, homeostasis, and allostasis, and separates trajectory regulation from temporal succession alone. A biological process warrants homeorhetic description only where there is evidence that its unfolding course is itself maintained, coordinated, robustly sustained, or recovered through regulation.

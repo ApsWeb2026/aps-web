@@ -5016,3 +5016,80 @@ references:
     status: verified
     authority: Elsevier / ScienceDirect
     verifiedDate: 2026-09-26
+- id: weinberger-2026-homeostasis-causal-control
+  type: journal-article
+  authors: Weinberger, N.
+  year: 2026
+  title: Homeostasis and causal control
+  journal: Biology & Philosophy
+  volume: '41'
+  article-number: '18'
+  doi: 10.1007/s10539-026-10018-8
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-09-28
+- id: bauman-currie-1980-nutrient-partitioning-homeostasis-homeorhesis
+  type: journal-article
+  authors: Bauman, D. E., & Currie, W. B.
+  year: 1980
+  title: 'Partitioning of Nutrients During Pregnancy and Lactation: A Review of Mechanisms Involving Homeostasis and Homeorhesis'
+  journal: Journal of Dairy Science
+  volume: '63'
+  issue: '9'
+  pages: 1514–1529
+  doi: 10.3168/jds.S0022-0302(80)83111-0
+  verification:
+    status: verified
+    authority: Journal of Dairy Science / PubMed
+    verifiedDate: 2026-09-28
+- id: sterling-eyer-1988-allostasis
+  type: book-chapter
+  authors: Sterling, P., & Eyer, J.
+  year: 1988
+  title: 'Allostasis: A New Paradigm to Explain Arousal Pathology'
+  editors: Fisher, S., & Reason, J.
+  book-title: 'Handbook of Life Stress, Cognition and Health'
+  publisher: John Wiley & Sons
+  pages: 629–649
+  verification:
+    status: verified
+    authority: Wiley bibliographic record / secondary citation verification
+    verifiedDate: 2026-09-28
+- id: mcewen-wingfield-2003-concept-allostasis
+  type: journal-article
+  authors: McEwen, B. S., & Wingfield, J. C.
+  year: 2003
+  title: The concept of allostasis in biology and biomedicine
+  journal: Hormones and Behavior
+  volume: '43'
+  issue: '1'
+  pages: 2–15
+  doi: 10.1016/S0018-506X(02)00024-7
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect and PubMed
+    verifiedDate: 2026-09-28
+- id: colditz-2020-physiological-regulation-bayesian-enactivism
+  type: journal-article
+  authors: Colditz, I. G.
+  year: 2020
+  title: A consideration of physiological regulation from the perspective of Bayesian enactivism
+  journal: Physiology & Behavior
+  volume: '214'
+  article-number: '112758'
+  doi: 10.1016/j.physbeh.2019.112758
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect and PubMed
+    verifiedDate: 2026-09-28
+- id: waddington-1957-strategy-genes
+  type: book
+  authors: Waddington, C. H.
+  year: 1957
+  title: 'The Strategy of the Genes: A Discussion of Some Aspects of Theoretical Biology'
+  publisher: George Allen & Unwin
+  verification:
+    status: verified
+    authority: Wellcome Collection / Google Books
+    verifiedDate: 2026-09-28

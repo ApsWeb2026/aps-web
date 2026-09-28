@@ -6,8 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-25
-revised: 2026-07-01
-
+revised: 2026-09-28
 cluster: conceptual-foundations
 role: clarification
 
@@ -153,11 +152,6 @@ This broader perspective naturally raises a further question.
 
 If regulation consistently contributes to the maintenance of viable continuity and organised persistence, what larger biological phenomenon is regulation helping living systems to sustain?
 
-
-
-
-
-
 ## Regulation and Organised Persistence
 
 The preceding discussion leads naturally to a broader biological question.
@@ -196,21 +190,19 @@ This distinction is important because it broadens the explanatory scope of regul
 
 ## Regulation, Homeorhesis, and Development
 
-The distinction becomes even clearer when development is considered.
+TThe distinction becomes even clearer when development is considered.
 
 Developing organisms cannot remain physiologically or structurally constant. Cells divide, tissues differentiate, organs mature, and patterns of organisation continually change. If biological regulation consisted only in preserving fixed states, development would be impossible.
 
-This is precisely why the concept of **homeorhesis** is important.
+This is one context in which the concept of **homeorhesis** becomes important.
 
-Where homeostasis concerns the maintenance of viable physiological states, homeorhesis concerns the maintenance of viable developmental and organisational trajectories. Living systems preserve not only stable conditions but also coherent directions of change.
+Homeostasis, allostasis, and homeorhesis draw attention to different but partly overlapping features of biological regulation. Homeostasis principally concerns the maintenance of biologically relevant conditions within viable ranges. Allostasis principally concerns adjustment of regulation as present or anticipated demands change. Homeorhesis principally concerns cases in which an unfolding biological trajectory is itself maintained, coordinated, or recovered through regulation.
 
-Regulation therefore contributes to both.
+Development provides an important domain for homeorhetic regulation because developmental organisation unfolds through temporally extended change. Development as such, however, is not necessarily homeorhetic. Growth, differentiation, maturation, repair, plasticity, and other biological changes warrant homeorhetic description only where there is evidence that their unfolding trajectory is itself regulated.
 
-It supports homeostatic processes that maintain conditions compatible with viability while simultaneously coordinating the homeorhetic processes through which development, growth, maturation, repair, and adaptation proceed. The organism remains viable not because change is prevented, but because change itself is continually organised.
+The relationship between these concepts becomes clearer when viewed in terms of organised persistence. Homeostatic regulation can contribute by maintaining conditions compatible with continued viability. Allostatic regulation can contribute by altering regulatory activity as circumstances change. Homeorhetic regulation can contribute where organised persistence depends upon maintaining, coordinating, or recovering an unfolding biological trajectory.
 
-The relationship between these concepts becomes clearer when viewed in terms of organised persistence. Homeostasis maintains viable states. Homeorhesis maintains viable trajectories. Both contribute to the preservation of organised persistence, but they do so under different biological circumstances. One preserves conditions compatible with continued functioning, while the other preserves continuity through organised transformation.
-
-APS therefore integrates homeostasis and homeorhesis within a broader understanding of regulation. They are not competing forms of biological organisation but complementary expressions of how living systems preserve organised persistence under different biological circumstances.
+APS therefore treats homeostasis, allostasis, and homeorhesis as related regulatory emphases rather than competing mechanisms, successive stages of organisation, or an exhaustive taxonomy. Their explanatory relevance must be established for the biological case concerned.
 
 ## Regulation and Agency
 
@@ -222,16 +214,11 @@ Regulation contributes to this activity by coordinating the biological processes
 
 An organism does not first regulate itself and then become an agent. Rather, regulatory processes operate within the broader activity of a living system already engaged in maintaining its own viability. Regulation therefore provides one of the principal organisational means through which biological agency is enacted.
 
-The relationship can be understood as a hierarchy of organisational functions. Agency refers to the viability-oriented activity of the organism as a whole. Regulation coordinates the processes through which that activity is sustained. Organised persistence is the continuing achievement that results from the successful coordination of those processes through time.
+The relationship can be understood without assigning these concepts to an organisational hierarchy. Agency identifies viability-oriented activity, regulation identifies processes through which that activity is coordinated, and organised persistence identifies the continuity of living organisation through change. These are related explanatory descriptions of the same viability-oriented organisation rather than successive levels or stages.
 
 This distinction is important because some theoretical accounts identify regulation itself as the defining characteristic of biological autonomy. APS adopts a broader perspective. Agency provides the organisational context within which regulation acquires its biological significance, while regulation provides one of the principal processes through which agency maintains organised persistence.
 
 Regulation is therefore neither identical with agency nor independent of it. The two concepts describe complementary dimensions of the same viability-oriented organisation. Agency explains why living systems engage in viability-oriented activity. Regulation helps explain how that activity remains coordinated. Organised persistence is the continuing organisational achievement that their interaction makes possible.
-
-
-
-
-
 
 ## Regulation Across Biological Scales
 

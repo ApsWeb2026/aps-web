@@ -26,7 +26,7 @@ keyPoints:
 - Explanatory, philosophical, scholarly, and developmental functions are concurrent functions of one corpus, not levels or stages.
 - Different intellectual functions require different forms of warrant; success in one does not automatically validate another.
 - Development can include restriction, correction, consolidation, redescription, equivalence, non-gain, retirement, or termination as well as expansion.
-- Research workbooks, APS-REF, canonical controls, and public Research perform different roles in maintaining provenance and evidential status.
+- Research workbooks, reference library (APS-REF), canonical controls, and public Research perform different roles in maintaining provenance and evidential status.
 - Negative or limiting results constrain APS claims but do not provide indirect evidence of framework-wide superiority.
 - Selected APS practices may be worth considering in other theoretical projects, but their transferability or general effectiveness has not been demonstrated.
 relatedGlossaryTerms:
@@ -59,8 +59,7 @@ A framework that extends across many topics must do more than accumulate concept
 
 APS now provides an extensive documentary record of such practices. Its public articles describe the framework and its philosophical and methodological commitments. Its [Research](/research/) programme distinguishes proposed architecture from investigated and supported claims. Research workbooks preserve the operational history of individual investigations. APS-REF provides a controlled reference infrastructure. Canonical controls preserve settled formulations against inadvertent drift, while research-responsive revision allows specific findings to alter the public corpus when the relevant evidential threshold has been met.
 
-These activities make it possible to examine APS in two different ways. One can ask whether particular APS propositions adequately explain specified biological phenomena. But one can also ask how the larger intellectual system in which those propositions occur is constructed, tested, corrected, documented, and maintained.
-The second question is the subject of this article.
+APS can be examined in two ways. The first asks whether particular APS propositions successfully explain specific biological phenomena. The second asks how the broader intellectual system containing those propositions is built, tested, revised, and maintained. This article addresses the second question.
 
 It does not ask whether APS is correct as a whole, whether its architecture establishes general explanatory adequacy, or whether it supplies a completed philosophy of biology. The narrower question is how a large theoretical and scholarly system can remain coherent enough to preserve intellectual continuity while retaining explicit routes for correction, restriction, and termination.
 APS is examined here as one documented case.
