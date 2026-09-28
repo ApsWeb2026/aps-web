@@ -3,9 +3,8 @@ date: 2026-09-28
 title: "APS as an Evolving Intellectual System"
 slug: aps-as-an-evolving-intellectual-system
 type: article
-status: canonical
-canonical: true
-canonicalLockDate: 2026-09-28
+status: draft
+canonical: false
 revised: 2026-09-28
 cluster: methodology-and-explanation
 role: synthesis
@@ -162,13 +161,11 @@ What matters is that development is not measured simply by what has been added. 
 The documentary record of APS makes several recurring developmental practices visible. They should not be interpreted as stages in a fixed sequence. Different parts of the framework may undergo different forms of work at different times, and the same object may return to an earlier kind of scrutiny when a new problem emerges.
 
 ### Conceptual construction and stabilisation
-Some developmental work establishes the conceptual relations required for later investigation.
+Some developmental work establishes or repairs the conceptual relations required for later investigation. APS treats its definitions as an organised system of mutually constraining concepts, a principle developed in [APS as an Organised Conceptual System — Why Definitions Form a System](/articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system/).
 
-Definitions must be sufficiently precise for dependencies among concepts to be stated rather than merely suggested. Distinctions must remain stable enough for comparison across articles and research programmes. Where a concept changes, the consequences of that change for neighbouring concepts must be examined.
-The APS work on its organised conceptual system exemplifies this function. More recent reconstruction in the cognition corpus similarly required dependencies among agency, evaluation, significance, integration, and cognition to be made explicit before the resulting claims could be assessed or maintained consistently.
+Within the developmental record considered here, the relevant point is narrower: conceptual relations sometimes have to be stabilised or repaired before a research question can be specified precisely enough to test. Recent work on the cognition corpus, for example, required the dependency among agency, evaluation, significance, integration, and cognition to be made explicit before subsequent claims could be assessed consistently.
 
-Conceptual stabilisation is therefore enabling work. It makes subsequent questions more precisely investigable.
-It does not establish that the resulting conceptual architecture is biologically correct.
+Conceptual stabilisation is therefore one developmental practice within APS. It enables subsequent investigation; it does not establish the biological adequacy of the resulting conceptual architecture.
 
 ### Source authentication and provenance
 A large scholarly corpus also depends on knowing which sources support which claims.
@@ -323,26 +320,25 @@ APS provides an example through which these problems can be examined. It does no
 
 ## 8. An Open System Under Controlled Development
 APS now exists simultaneously as a biological explanatory proposal, a set of philosophical commitments, a large scholarly corpus, and a documented research-and-maintenance programme.
+
 These are concurrent functions of one intellectual system. They are connected by shared concepts, sources, research questions, and documentary infrastructure, but their standards of warrant remain distinct.
 
-That distinction helps clarify what it means for APS to remain open.
-Openness does not require every canonical commitment to be continuously provisional in the same way. A theoretical system needs sufficient stability for cumulative investigation to be possible. If definitions and dependencies change without control, comparison across time becomes difficult and research results lose their target.
+That distinction helps clarify what it means for APS to remain open. The conceptual basis for combining stability with controlled development is addressed in [APS as an Organised Conceptual System — Why Definitions Form a System](/articles/aps-as-an-organised-conceptual-system-why-definitions-form-a-system/). At the wider developmental scale considered here, the question is how changes arising from research, comparison, source authentication, consolidation, and maintenance are incorporated without dissolving the continuity of the system being investigated.
 
-Canonical formulations therefore provide continuity.
+Canonical status is therefore not immunity from revision. A specific research result, conceptual contradiction, authenticated source problem, comparator finding, or domain consolidation may establish a reason to reconsider an existing object. Research-responsive revision provides a controlled route through which such findings can alter the public corpus.
 
-But canonical status is not immunity from revision. A specific research result, conceptual contradiction, authenticated source problem, comparator finding, or domain consolidation may establish a reason to reconsider an existing object. Research-responsive revision provides a controlled route through which such findings can alter the public corpus.
 The system is therefore neither fixed nor indefinitely reconstructive.
 
 Its foundational commitments provide continuity. Research and comparison expose specified claims to challenge. Workbooks preserve the reasoning behind developmental decisions. APS-REF controls source provenance. Domain consolidation examines whether the existing corpus remains appropriately organised. Public Research distinguishes proposed scope from investigated and supported contribution. Revision occurs when a sufficiently specific problem warrants it.
+
 None of these practices establishes that APS is generally correct.
 
 Their significance is architectural and methodological: they allow the framework to retain a recognisable identity while remaining capable of changing particular claims, dependencies, representations, and research priorities.
 
 This is also why development cannot be reduced to the accumulation of successful results. A system capable only of adding compatible material would have no controlled means of learning from equivalence, redescription, non-gain, correction, redundancy, or conceptual failure.
 
-Conversely, a system that revised itself continuously without preserving stable commitments would make cumulative testing difficult.
-
 The developmental problem is therefore one of controlled continuity through change.
+
 APS approaches that problem by distinguishing what is canonical from what is exploratory, what is proposed from what is investigated, what is locally supported from what remains broader aspiration, and what belongs to the explanatory framework from what belongs to the scholarly machinery through which that framework is investigated and maintained.
 
 ## Conclusion
