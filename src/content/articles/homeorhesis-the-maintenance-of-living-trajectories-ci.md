@@ -83,11 +83,22 @@ Homeostasis, allostasis, and homeorhesis belong to overlapping histories of biol
 
 A useful distinction can nevertheless be made by asking what each concept principally brings into explanatory focus.
 
-| Concept | Principal explanatory question | Regulatory emphasis | Temporal emphasis | APS treatment |
-|---|---|---|---|---|
-| Homeostasis | How are viable conditions maintained despite perturbation? | Regulation of relevant variables, relations, or conditions within viable ranges | Continuing regulation of present conditions through ongoing dynamics | A regulatory description centred on maintenance of viable conditions |
-| Allostasis | How is regulation adjusted as circumstances or demands change? | Flexible or anticipatory alteration of regulatory activity | Changing present or anticipated demands | A related and partly overlapping description centred on adjustment of regulation |
-| Homeorhesis | How is an unfolding biological course maintained, coordinated, or recovered? | Regulation of an organised trajectory | Developmental, physiological, or other temporally extended course | A specific description of trajectory regulation where such regulation is warranted |
+<div class="aps-diagram">
+  <a href="/assets/diagrams/developmental-homeorhesis.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/developmental-homeorhesis.png"
+      alt="Comparison of homeostasis, allostasis, and homeorhesis by explanatory question, regulatory emphasis, temporal emphasis, and APS treatment."
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Homeostasis, Allostasis, and Homeorhesis.</strong>
+    These concepts identify different but partly overlapping regulatory
+    emphases. They should not be interpreted as mutually exclusive mechanisms,
+    successive stages, or an exhaustive taxonomy of biological regulation.
+  </p>
+</div>
 
 *Table 1. Homeostasis, allostasis, and homeorhesis distinguished by their principal explanatory emphases. These are not mutually exclusive mechanisms, successive stages of biological organisation, or an exhaustive taxonomy of biological regulation.*
 
