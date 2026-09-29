@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-26
+revised: 2026-09-30
 cluster: evolutionary-dynamics
 role: clarification
 
@@ -51,6 +51,14 @@ references:
   - dupre-nicholson-2018-manifesto
   - noble-2012-biological-relativity
 ---
+
+**Where This Article Fits**
+
+*This article is a clarification within the APS Evolutionary Dynamics corpus. It asks what natural selection acts on without assuming that APS can identify a universal unit, level, scale, or object of selection by framework stipulation.*
+
+*Its task differs from the core Natural Selection article, which characterises selection as contributing to differential historical stabilisation. Here the narrower question is which biological entities and relations are relevant when that process is explained in a particular system. Genes, organisms, groups, lineages, and other biological organisations may be relevant to different selection problems, and their explanatory importance must be established relative to the explanandum.*
+
+*Organised persistence provides APS with a way of investigating historical biological continuity, but this does not make organised persistence the universal unit of selection. Likewise, APS Scale concerns the extent required for an explanation and should not be identified with a level of selection. The article therefore clarifies the selection problem while leaving its particular biological resolution to evidence and target-specific analysis.*
 
 ## Why Revisit What Selection Acts On?
 

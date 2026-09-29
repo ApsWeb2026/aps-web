@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-26
+revised: 2026-09-30
 cluster: evolutionary-dynamics
 role: clarification
 
@@ -57,6 +57,30 @@ references:
 *APS therefore does not replace gene-centred explanations where they successfully address genetic transmission, population change, or molecular mechanisms. It places those explanations within the wider organisation through which genetic processes become biologically effective. Genes contribute to the continuity and transformation of living systems while operating within cellular, developmental, physiological, ecological, and evolutionary relations.*
 
 *The article consequently clarifies a boundary of APS explanation: identifying an important or even indispensable component or mechanism for a specified process does not by itself establish general explanatory primacy. The causal contribution of genes must be understood relative to the particular biological organisation, evolutionary process, and explanandum concerned.*
+
+## Explanatory Architecture
+
+### Central Question
+
+What does the explanatory success of gene-centred biology establish about genetic causation, and what does it leave open about the organisation within which genetic processes operate?
+
+### Architectural Role
+
+This article compares explanatory focus without assigning general causal priority in advance. Genetic mechanisms can provide sufficient explanations for particular genetic, molecular, population, or evolutionary explananda. Situating those mechanisms within wider living organisation does not by itself make the wider description explanatorily superior.
+
+### Causal and Explanatory Priority
+
+Genes can make major causal contributions to inheritance, development, variation, and evolutionary change. Their importance for those processes does not establish that genes constitute a universally privileged causal level, nor does the organisational context in which genes operate establish universal downward or reciprocal causation.
+
+The causal relations required for an explanation must therefore be identified for the particular biological target.
+
+### Scale and Explanatory Extent
+
+APS Scale concerns the spatial, temporal, and organisational extent required to capture relations relevant to an explanandum. A genetic explanation need not be expanded merely because genetic activity occurs within wider biological organisation. Wider explanatory extent is warranted only where additional materially realised relations make an explanatory difference to the target.
+
+### Position within APS
+
+APS therefore neither replaces gene-centred explanation with organised persistence nor treats genes as universally explanatory of living organisation. It asks what explanatory extent and which causal relations are required for the problem under investigation. Any claim of additional APS explanatory gain requires target-matched comparison rather than broader organisational description alone.
 
 ## Introduction — What Exactly Is the Gene-Centric Question?
 
