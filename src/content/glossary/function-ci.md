@@ -3,12 +3,12 @@ date: 2026-04-08
 title: Function
 slug: function
 type: glossary
-definition: "In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system."
-inBrief: "Function is the viability-relative contribution of structures or processes to organised persistence."
+definition: "In APS, function is the viability-relative organisational contribution a structure, process, or activity makes within living organisation."
+inBrief: "Function is viability-relative organisational contribution within living organisation."
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-09-10
+revised: 2026-09-29
 cluster: conceptual-foundations
 
 seeAlso:
@@ -109,13 +109,13 @@ APS reframes function through viability-oriented organisation.
 
 ## The APS Reframing
 
-In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system.
+In APS, function is the viability-relative organisational contribution a structure, process, or activity makes within living organisation.
 
 Functions are therefore not intrinsic properties of isolated components.
 
-They are organisational relations defined relative to the maintenance of viable persistence.
+They are organisational relations established relative to viability within living organisation.
 
-A process counts as functional insofar as it contributes to sustaining, restoring, or regulating the organisation through which the system persists.
+A process counts as functional insofar as its activity makes a viability-relative contribution within that organisation. Such contributions can participate in sustaining, restoring, or regulating the organisation through which the living system persists.
 
 > **Where this concept fits:** Function is one of the central organising concepts of APS. It explains how structures, processes, and activities contribute to viability-oriented persistence and thereby grounds malfunction, adaptation, semiosis, diagnosis, and biological explanation within a unified organisational framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
 
@@ -159,7 +159,7 @@ Malfunction becomes intelligible because living systems persist under normative 
 
 [[box:norms-are-not-rules]]
 
-Function in APS is therefore inseparable from agency, process, and scale. Functional contributions matter only within ongoing viability-oriented organisation coordinated across interacting temporal and spatial domains.
+Function in APS is therefore inseparable from agency, process, and scale. Functional contributions are established within ongoing viability-oriented organisation, whose relevant spatial and temporal extent depends upon the biological case.
 
 APS treats Agency, Process and Scale as complementary analytic projections of one viability-oriented living organisation.
 
@@ -175,9 +175,9 @@ The same process may therefore:
 
 Function is thus relational rather than intrinsic.
 
-What counts as functional depends upon the viability-oriented organisation the process contributes to sustaining.
+What counts as functional depends upon whether the process makes a viability-relative contribution within the living organisation concerned.
 
-APS consequently treats function as organisationally situated rather than as a property of isolated parts.
+APS consequently treats function as organisationally situated rather than as a property of isolated components.
 
 ## Function and Constraint Closure
 
@@ -237,9 +237,9 @@ However, APS distinguishes:
 from
 - their present-tense organisational role.
 
-Functional status is determined in the present by ongoing contribution to viable persistence.
+Functional status is established in the present by viability-relative organisational contribution within living organisation.
 
-Evolutionary history explains how such relations arose and stabilised, but not what makes them functional now.
+Evolutionary history explains how such relations arose and stabilised, but not what presently warrants their functional attribution.
 
 APS consequently integrates historical and organisational accounts of function without reducing function entirely to either one.
 
@@ -247,16 +247,17 @@ APS consequently integrates historical and organisational accounts of function w
 
 Function and purpose are closely related but conceptually distinct.
 
-Function concerns the contribution of particular structures or processes within an organised system.
+Function concerns the viability-relative organisational contribution made by a particular structure, process, or activity within living organisation.
 
-Purpose concerns the organisation of activity at the level of the system as a whole relative to viability conditions.
+Purpose concerns the viability-oriented organisation of activity through which a living system maintains and re-establishes the conditions of its persistence.
 
 The distinction may be expressed simply:
 
-- **Function:** how parts contribute to organised persistence.
-- **Purpose:** how the system’s activity is organised relative to viability.
+- **Function:** what viability-relative organisational contribution does this structure, process, or activity make?
 
-Functions therefore operate locally within an already organised system, while purpose characterises the viability-oriented organisation of the system itself.
+- **Purpose:** how is the living system's activity organised relative to viability?
+
+Function and purpose therefore identify different explanatory relations within the same viability-oriented living organisation. Function identifies particular viability-relative contributions; purpose concerns the organisation of activity relative to viability.
 
 APS consequently naturalises purposiveness through viability-oriented organisation without requiring external teleology or intelligent design.
 
@@ -278,7 +279,7 @@ APS therefore treats diagnosis not merely as structural inspection, but as the i
 
 ## Summary
 
-In APS, function is the viability-relative contribution a structure, process, or activity makes to the persistence of a viability-oriented, constraint-closed system.
+In APS, function is the viability-relative organisational contribution a structure, process, or activity makes within living organisation.
 
 Function is:
 - organisational rather than intrinsic;
