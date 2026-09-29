@@ -6,15 +6,15 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-07-28
+revised: 2026-09-29
 cluster: evolutionary-dynamics
 
 definition: >
-  In APS, inheritance is the reliable reconstitution of viability-oriented,
-  constraint-closed organisation across generations or developmental cycles.
-  Inheritance reproduces the organisational conditions through which living
-  systems sustain persistence, development, adaptation, and biological agency
-  across time.
+  In APS, inheritance is the reliable cross-generational reconstitution of
+  viability-oriented, constraint-closed organisation. Inheritance concerns
+  the continuity through which living organisation is reconstituted across
+  generations without, by itself, establishing the particular developmental,
+  adaptive, or evolutionary dependencies involved.
 
 inBrief: >
   Inheritance is the reliable reconstitution of viability-oriented organisation
@@ -100,7 +100,7 @@ APS therefore treats informational inheritance as organisationally dependent rat
 
 ## The APS Reframing
 
-In APS, inheritance is the reliable reconstitution of viability-oriented, constraint-closed organisation across generations or developmental cycles.
+In APS, inheritance is the reliable cross-generational reconstitution of viability-oriented, constraint-closed organisation.
 
 Living systems do not inherit genes or traits in isolation.
 
@@ -251,7 +251,7 @@ Normativity is therefore intrinsic to inherited biological organisation itself r
 
 ## Summary
 
-In APS, inheritance is the reliable reconstitution of viability-oriented, constraint-closed organisation across generations or developmental cycles.
+In APS, inheritance is the reliable cross-generational reconstitution of viability-oriented, constraint-closed organisation.
 
 Inheritance is not adequately explained as informational transfer alone. Genes, molecular replication, and hereditary mechanisms remain important, but they operate within broader systems of developmental and organisational continuity.
 

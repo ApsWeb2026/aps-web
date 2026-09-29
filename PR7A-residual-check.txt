@@ -1,0 +1,28 @@
+PR-7A RESIDUAL EVIDENCE CHECK
+Generated: 2026-09-29 16:47:18
+
+================================================================
+BOX SEARCH
+================================================================
+
+================================================================
+ASSET CHECK
+================================================================
+
+ASSET: evolution-natural-selection.png
+MATCHES: 1
+PATH: C:\Users\Roger\Website\aps-web-1\public\assets\diagrams\evolution-natural-selection.png
+SIZE: 1628525 bytes
+LAST WRITE: 06/18/2026 21:56:43
+
+ASSET: evolution-organisation.png
+MATCHES: 1
+PATH: C:\Users\Roger\Website\aps-web-1\public\assets\diagrams\evolution-organisation.png
+SIZE: 1664521 bytes
+LAST WRITE: 06/13/2026 10:01:59
+
+ASSET: evolution-organisation.png
+MATCHES: 1
+PATH: C:\Users\Roger\Website\aps-web-1\public\assets\diagrams\evolution-organisation.png
+SIZE: 1664521 bytes
+LAST WRITE: 06/13/2026 10:01:59
