@@ -7,19 +7,20 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
-
+revised: 2026-09-30
 cluster: developmental-organisation
 
 definition: >
-  Developmental organisation is the coordinated continuity of
-  viability-oriented developmental processes through which living
-  systems maintain organised persistence across transformation,
-  ecological interaction, and temporal change.
+  Developmental organisation is the coordination of processes and
+  relations through which living organisation is generated or
+  transformed over time. In particular biological systems, these
+  processes may contribute to the maintenance or restoration of
+  viable organised persistence.
 
 inBrief: >
-  Developmental organisation is the coordinated continuity through
-  which living systems remain developmentally viable across change.
+  Developmental organisation is the coordinated organisation of
+  developmental processes through which living systems are generated
+  or transformed over time.
 
 seeAlso:
   - development
@@ -45,65 +46,36 @@ From this perspective, development is primarily understood as:
 - the execution of developmental programs,
 - or the expression of inherited information.
 
-Organisation is therefore frequently treated as a product of development rather than an ongoing continuity-maintaining process.
+Organisation may therefore be treated primarily as an outcome of development rather than as part of the materially organised processes through which developmental transformation occurs.
 
 ## APS reframing
 
 APS interprets development organisationally rather than instructionally.
 
-Development is not the execution of a static blueprint. It is the ongoing coordination of viability-oriented processes through which living systems preserve organised continuity across time.
+Development is not the execution of a static blueprint. Developmental organisation concerns the materially realised coordination of processes and relations through which living organisation is generated or transformed over time.
 
-Developmental organisation includes:
-- regulation,
-- repair,
-- ecological interaction,
-- behavioural coordination,
-- morphogenesis,
-- resilience,
-- and adaptive reorganisation under changing conditions.
+Depending on the biological target, developmental organisation may involve regulation, process integration, morphogenesis, physiological coordination, environmental relations, plasticity, repair, regeneration, or other forms of developmental reorganisation. These relations should not be treated as a universal checklist: their explanatory relevance must be established for the developmental phenomenon concerned.
 
-Living systems remain developmentally coherent not because change is absent, but because developmental organisation continuously stabilises viable continuity across transformation.
-
-Developmental organisation therefore depends upon:
-- coordinated process integration,
-- ecological coupling,
-- continuity-maintaining regulation,
-- and viability-oriented activity across multiple organisational scales.
+Developmental organisation may therefore require relatively local processes in one case and relations extending across wider spatial, temporal, physiological, behavioural, or ecological extents in another. APS does not assume that development is intrinsically multiscale or that ecological coupling, continuity-maintaining regulation, or any other particular relation is necessary to every developmental explanandum.
 
 ## Development and Organised Persistence
 
-APS places organised persistence at the centre of developmental explanation.
+Development and organised persistence are related but distinct explanatory targets in APS.
 
-Development does not merely produce organisms. It continuously maintains the organisational continuity through which organisms remain viable biological individuals.
+Development concerns the generation and transformation of living organisation through time. Organised persistence concerns the maintenance or re-establishment of viable organisational continuity through change. Developmental processes can contribute substantially to organised persistence, but development is neither identical with persistence nor a universal mechanism or prerequisite of it.
 
-This continuity persists despite:
-- material turnover,
-- developmental transformation,
-- environmental perturbation,
-- behavioural adaptation,
-- and ecological change.
+The explanatory relation must therefore be established for the biological case concerned. Growth, differentiation, morphogenesis, physiological reorganisation, repair, regeneration, or other developmental processes may alter living organisation while viable continuity is maintained or restored. In such cases, identifying the relevant developmental organisation can provide target-specific specification of how persistence occurs through transformation.
 
-Developmental organisation is therefore fundamentally temporal.
-
-It concerns how viable continuity is preserved across changing developmental states through time.
+The occurrence of developmental organisation does not, however, by itself explain persistence.
 
 ## Developmental Organisation and Ecology
 
-APS rejects the idea that development occurs independently of ecological context.
+Development occurs under environmental conditions, and ecological relations can make a material difference to developmental processes and outcomes.
 
-Developmental organisation is inherently relational.
+In some biological systems, environmental resources, ecological conditions, social relations, symbiotic associations, or recurrent organism–environment interactions may participate directly in developmental organisation. In others, environmental conditions may function as inputs, resources, constraints, or boundary conditions without becoming constituents of the developmental organisation itself.
 
-Organisms develop through ongoing interaction with:
-- environments,
-- ecological conditions,
-- social systems,
-- symbiotic relations,
-- and historically inherited developmental structures.
-
-Developmental organisation therefore extends beyond isolated internal mechanisms.
-
-It includes the broader continuity-maintaining systems through which viable development becomes possible.
+APS therefore does not assume that developmental organisation is inherently ecological or that it necessarily extends beyond the organism. The explanatory extent should include ecological relations when those relations are required to explain the developmental target concerned.
 
 ## Key Point
 
-Developmental organisation is the coordinated continuity of viability-oriented developmental processes through which living systems maintain organised persistence across continual transformation.
+Developmental organisation concerns the coordinated processes and relations through which living organisation is generated or transformed over time; its contribution to organised persistence, and the explanatory extent required to understand it, must be established for the biological case concerned.
