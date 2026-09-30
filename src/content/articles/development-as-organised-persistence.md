@@ -15,8 +15,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-09-30
 cluster: developmental-organisation
 role: anchor
 
@@ -104,21 +103,18 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Living systems persist through continual developmental transformation.
+## Introduction
+Living systems undergo continual developmental transformation.
 
-Cells are replaced. Physiological systems reorganise. Ecological relations shift. Behaviour adapts. Organisms continuously transform across changing historical and environmental conditions.
+Cells are replaced. Physiological systems reorganise. Ecological relations shift. Behaviour changes. Organisms transform across changing historical and environmental conditions.
 
-Yet despite this ongoing transformation, living systems ordinarily remain developmentally continuous biological individuals.
+Yet despite this ongoing transformation, living systems ordinarily remain continuous biological individuals.
 
-APS consequently interprets development not primarily as the construction of biological form, but as the organised preservation of viability-oriented persistence across time.
+APS therefore asks how viable organisational continuity is maintained through developmental change. Development is not merely the construction of biological form: it is a domain of biological transformation within which organised persistence must be explained.
 
-Development is therefore not merely a stage preceding mature biological existence.
+Developmental processes may contribute to maintaining, reorganising, or re-establishing viable continuity as ecological, physiological, behavioural, and historical conditions change.
 
-Living systems persist developmentally through ongoing continuity-preserving organisation.
-
-Development continuously maintains, regulates, transforms, and stabilises viability-oriented persistence across changing ecological, physiological, behavioural, and historical conditions.
-
-Continuity is therefore preserved through regulated transformation rather than through preservation of fixed structure.
+Continuity through development is therefore achieved through organised transformation rather than through preservation of fixed structure.
 
 ## The Classical View of Development
 
@@ -141,23 +137,23 @@ Genes were frequently treated as privileged instructional causes directing devel
 
 APS does not deny the importance of developmental regulation, morphogenesis, or structural organisation.
 
-However, APS argues that development cannot be adequately understood solely as the production of biological form.
+However, development cannot be adequately understood solely as the production of biological form.
 
-The deeper explanatory problem concerns how living systems preserve viable persistence despite continual developmental, ecological, material, and historical transformation.
+A further explanatory problem concerns how living systems maintain or re-establish viable organisational continuity while undergoing developmental, ecological, material, and historical transformation.
 
-Development therefore becomes fundamentally a problem of organised persistence across time.
+Development therefore provides a major biological context in which the problem of organised persistence through change must be investigated.
 
 [[box:development-is-not-genetic-execution]]
 
 ## Development in APS
 
-Within APS, development refers to the organised preservation and transformation of viability-oriented persistence across time.
+Within APS, development concerns the organised generation and transformation of living organisation across time.
 
 Living systems do not persist through static identity.
 
-Developmental organisation stabilises coordinated viability despite continual change.
+Developmental processes alter biological organisation while, in many cases, contributing to the maintenance or re-establishment of viable continuity.
 
-Development therefore involves:
+Development may involve:
 
 - regulation,
 - reorganisation,
@@ -165,23 +161,21 @@ Development therefore involves:
 - repair,
 - coordination,
 - ecological interaction,
-- and persistence-preserving transformation across time.
+- and other forms of biological transformation across time.
 
-APS consequently interprets development as a dynamic organisational process through which viable persistence is historically maintained.
+APS therefore treats development as a distinct process-domain in which organised persistence can be investigated under conditions of continuing biological change.
 
-Development is simultaneously:
+Developmental organisation may be:
 
 - stabilising,
 - adaptive,
 - relational,
 - transformative,
-- and persistence-preserving.
+- and persistence-supporting.
 
-Developmental organisation therefore does not oppose change.
+These relations are not fixed by the concept of development itself. Which developmental processes contribute to viable continuity, and how they do so, must be established for the biological case concerned.
 
-It preserves continuity through change.
-
-Developmental organisation persists through dynamically coordinated constraints that regulate and stabilise viability across changing conditions.
+Developmental organisation therefore provides a target-specific context for explaining continuity through change without identifying development with organised persistence.
 
 [[box:organised-persistence-across-development]]
 
@@ -239,18 +233,18 @@ Living systems remain continuous because developmental organisation preserves co
 
 ## Developmental Regulation and Organised Stability
 
-Developmental persistence depends upon ongoing organisational regulation.
+Developmental continuity can require ongoing organisational regulation.
 
-Living systems must continually preserve:
+Depending on the biological system and developmental context, viable continuity may involve coordination among:
 
-- physiological coordination,
+- physiological activity,
 - metabolic organisation,
 - developmental integration,
 - ecological interaction,
-- behavioural coherence,
-- and viability-oriented persistence.
+- behavioural activity,
+- and other viability-relevant processes.
 
-Processes such as:
+Processes described elsewhere in APS as:
 
 - developmental canalisation,
 - developmental integration,
@@ -258,15 +252,13 @@ Processes such as:
 - developmental inheritance,
 - and developmental niches
 
-all contribute directly to stabilising developmental persistence across time.
+may contribute to developmental continuity in particular biological cases.
 
-APS consequently interprets developmental continuity as an active organisational achievement rather than a passive consequence of genetic instruction alone.
+APS therefore treats developmental continuity as an organisational achievement whose relevant processes and dependencies must be established rather than inferred from their positions within the framework.
 
-Persistence is continually maintained through coordinated regulation across interacting systems.
+Developmental stability does not imply rigidity.
 
-Developmental stability therefore does not imply rigidity.
-
-Continuity is preserved through adaptive transformation across changing conditions.
+Continuity may instead be maintained through regulated transformation under changing conditions.
 
 ## Relational Developmental Organisation
 
@@ -344,23 +336,21 @@ This perspective strongly connects development with APS discussions of:
 
 ## Development and Evolutionary Continuity
 
-Development also shapes evolutionary continuity.
+Development and evolution are closely related, but their explanatory relation should not be inferred from their positions within APS.
 
-Evolution depends upon developmental systems capable of preserving viability-oriented organisation across generations despite continual environmental and historical change.
+Developmental processes can influence:
 
-Developmental organisation influences:
-
-- evolutionary possibility,
+- the production and expression of variation,
 - developmental constraint,
 - ecological participation,
 - organisational innovation,
-- and long-term biological continuity.
+- and the forms of biological organisation involved in evolutionary change.
 
-APS consequently interprets evolution and development as deeply interconnected organisational processes.
+Evolutionary processes, in turn, occur through historically continuous living systems whose developmental organisation may be relevant to the evolutionary explanandum concerned.
 
-Evolutionary persistence depends upon developmental systems capable of stabilising organised continuity across transformation.
+APS therefore treats development and evolution as interacting domains whose particular causal, temporal, and explanatory dependencies must be established for the biological case.
 
-Development therefore becomes one of the organisational foundations of evolutionary continuity itself.
+Development may contribute importantly to evolutionary continuity and transformation without thereby constituting a universal explanatory prerequisite of evolutionary change.
 
 ## Temporal Organisation and Developmental Persistence
 
@@ -380,29 +370,20 @@ APS consequently interprets biological time not merely as chronological duration
 
 Developmental persistence therefore emerges through temporally coordinated organisation rather than static biological identity.
 
-## Why Development as Organised Persistence Matters in APS
+## Conclusion
 
-Development as organised persistence helps explain how living systems remain viable despite continual transformation across developmental, ecological, behavioural, and historical time.
+Development provides an important test case for explaining how living systems can remain organisationally continuous while undergoing substantial transformation.
 
 Within APS:
 
-- development is not merely construction of form,
-- living systems persist through coordinated developmental organisation,
-- viability-oriented persistence is actively stabilised across changing conditions,
-- developmental continuity emerges through relational, ecological, physiological, and historical organisation extending across multiple interacting systems,
-- and continuity is preserved through regulated transformation rather than preservation of fixed structure.
+- development is not merely the construction of form,
+- developmental processes can contribute to maintaining or re-establishing viable continuity,
+- developmental transformation need not imply loss of biological continuity,
+- the relevant ecological, physiological, behavioural, and historical relations depend upon the biological case,
+- and continuity through development is explained by the organisation of transformation rather than by preservation of fixed structure.
 
-Living systems therefore remain continuous not because they resist change, but because developmental organisation preserves viability through change.
+The phrase *development as organised persistence* therefore identifies an explanatory problem rather than an identity between two concepts.
 
-Development consequently becomes one of the central explanatory concepts within APS because it explains how biological persistence is continually organised across time.
+Organised persistence names the continuity requiring explanation. Development identifies a domain of biological transformation in which particular processes and relations may contribute to that continuity.
 
-Development as organised persistence therefore links:
-
-- individuality,
-- ecology,
-- resilience,
-- evolution,
-- temporal organisation,
-- and viability
-
-within a unified explanatory framework for understanding living systems.
+This distinction allows development to be related to individuality, ecology, resilience, evolution, temporal organisation, and viability without assuming in advance what causal or explanatory dependencies obtain among them.
