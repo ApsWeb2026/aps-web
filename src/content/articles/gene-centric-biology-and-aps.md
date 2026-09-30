@@ -118,35 +118,14 @@ That conclusion does not follow from explanatory success alone.
 
 Biological explanation often proceeds by isolating components or processes that make a difference to an outcome. Genes are particularly powerful explanatory objects because genetic differences can be tracked, inherited, experimentally manipulated, and incorporated into formal evolutionary models.
 
-But several claims must be kept distinct.
-
-One claim is methodological:
-
-**genes can be highly effective explanatory units for specified biological questions.**
-
-Another is causal:
-
-**genetic differences can make demonstrable causal contributions to biological outcomes.**
-
-A stronger claim is explanatory:
-
-**because genes are important for these outcomes, genetic explanation has priority over other forms of biological explanation.**
-
-Stronger still would be an ontological claim:
-
-**genes constitute the fundamental organisational basis from which the relevant properties of living systems can in principle be derived.**
-
-The first two claims do not entail the latter two.
+Several claims must, however, be kept distinct. At the methodological level, genes can be highly effective explanatory units for specified biological questions, while at the causal level genetic differences can make demonstrable contributions to biological outcomes. Neither proposition entails the stronger explanatory claim that, because genes are important for those outcomes, genetic explanation has priority over other forms of biological explanation. Still less do they establish the ontological claim that genes constitute the fundamental organisational basis from which the relevant properties of living systems can in principle be derived.
+The methodological and causal success of genetic explanation therefore provides no automatic warrant for either general explanatory priority or ontological primacy.
 
 This distinction also prevents APS from replacing one hierarchy with another. To deny automatic genetic privilege is not to establish organismal, developmental, ecological, or organisational privilege instead.
 
 Noble's principle of biological relativity is relevant here: causal privilege should not be assigned to a biological level *a priori*. Processual and developmental approaches likewise emphasise that biological outcomes emerge through temporally extended relations among changing biological processes rather than through the autonomous operation of static components.
 
-APS accepts the methodological consequence while retaining a further control: the absence of *a priori* privilege does not imply that every biological process is causally symmetrical or that every scale contributes equally to every explanandum.
-
-Causal asymmetries can be real.
-
-They must be established rather than assumed.
+APS accepts this methodological consequence while retaining a further control: the absence of a priori privilege does not imply that every biological process is causally symmetrical or that every scale contributes equally to every explanandum. Real causal asymmetries may obtain, but their existence and explanatory importance must be established for the biological case concerned rather than assumed in advance. They must be established rather than assumed.
 
 ## The APS Starting Point — Organisation Without Automatic Priority
 
@@ -158,25 +137,8 @@ This claim specifies what APS means by living organisation. It does not, by itse
 
 Agency, Process, and Scale are complementary analytic projections of one living organisation. They are not competing causal levels.
 
-Within Evolutionary Dynamics, APS distinguishes several explanatory relations.
-
-Inheritance concerns the reliable reconstitution of organised continuity across generations or developmental cycles.
-
-Variation concerns differences generated within historical continuity.
-
-Fitness concerns differential historical continuity.
-
-Natural selection concerns differential historical stabilisation.
-
-Evolutionary transformation concerns historical change in organised biological persistence.
-
-These distinctions provide an explanatory architecture. They do not establish a universal sequence in which one process must always cause, precede, or explain the next.
-
-The same control applies to genes.
-
-APS locates genetic processes within living organisation because genes are materially realised, replicated, expressed, and regulated there. But the constitutive APS account of life does not establish in advance how important a particular genetic mechanism will be for a particular evolutionary explanandum.
-
-That is a biological question.
+Within Evolutionary Dynamics, APS distinguishes several explanatory relations. Inheritance concerns the reliable reconstitution of organised continuity across generations or developmental cycles; variation concerns differences generated within historical continuity; fitness concerns differential historical continuity; natural selection concerns differential historical stabilisation; and evolutionary transformation concerns historical change in organised biological persistence.
+Together these distinctions provide an explanatory architecture, but their arrangement within that architecture does not establish a universal sequence in which one process must always cause, precede, or explain another. The same control applies to genes. APS locates genetic processes within living organisation because genes are materially realised, replicated, expressed, and regulated there, while leaving the causal and explanatory importance of any particular genetic mechanism to be established for the evolutionary explanandum concerned.
 
 [[box:gene-centric-vs-aps-grammar]]
 
@@ -221,15 +183,9 @@ The phrase “genes are in charge” is misleading because it combines causal im
 
 Biological systems contain many causal asymmetries. A particular mutation may be decisive for a phenotype. A regulatory process may constrain expression across many genes. A developmental transition may alter the effects of genetic variation. An environmental change may modify which variants contribute to differential continuity.
 
-Nothing in APS requires these contributions to be equal.
+Nothing in APS requires these contributions to be equal. Scale has an explanatory rather than automatically hierarchical meaning: molecular, cellular, organismal, ecological, and evolutionary descriptions identify different spatial, temporal, and organisational extents over which biological relations can be investigated, and which of those extents matters depends on the explanatory target.
 
-Scale therefore has an explanatory rather than automatically hierarchical meaning. Molecular, cellular, organismal, ecological, and evolutionary descriptions identify different spatial, temporal, and organisational extents over which biological relations can be investigated. Which of them matters to an explanation depends on the target.
-
-A gene may be the appropriate explanatory focus for one question.
-
-A developmental process may be decisive for another.
-
-Some questions may require relations extending across several scales.
+A gene may therefore provide the appropriate explanatory focus for one question, while a developmental process may be decisive for another and still other questions may require relations extending across several scales.
 
 The APS principle is consequently narrower than the claim that “causation is multiscale and reciprocal.”
 
@@ -243,23 +199,8 @@ It asks which biological relations actually explain the phenomenon concerned.
 
 ## Genes in Evolutionary Explanation
 
-Genes occupy an important place in evolutionary explanation because genetic processes can contribute both to historical continuity and to historical change.
-
-But different evolutionary questions should not be collapsed into one another.
-
-Inheritance asks how biological organisation or relevant components of it are reliably reconstituted across generations.
-
-Variation asks how differences arise within historically continuous living systems.
-
-Fitness concerns differences in historical continuity under specified conditions.
-
-Natural selection concerns differential historical stabilisation associated with such differences.
-
-Evolutionary transformation concerns historical change in living organisation across generations.
-
-Genetic processes may contribute to each of these in different ways.
-
-Mutations, recombination, segregation, gene regulation, and other genetic processes can generate or transmit differences. Their evolutionary consequences depend on the biological and historical relations through which those differences are expressed, inherited, maintained, eliminated, or transformed.
+Genes occupy an important place in evolutionary explanation because genetic processes can contribute both to historical continuity and to historical change. Different evolutionary questions should nevertheless not be collapsed into one another. Inheritance asks how biological organisation, or relevant components of it, is reliably reconstituted across generations; variation asks how differences arise within historically continuous living systems; fitness concerns differences in historical continuity under specified conditions; natural selection concerns differential historical stabilisation associated with such differences; and evolutionary transformation concerns historical change in living organisation across generations.
+Genetic processes may contribute to each of these relations in different ways. Mutations, recombination, segregation, gene regulation, and other genetic processes can generate or transmit differences, but their evolutionary consequences depend on the biological and historical relations through which those differences are expressed, inherited, maintained, eliminated, or transformed.
 
 Developmental processes may contribute to the production and expression of variation. Ecological relations may alter the conditions under which differences matter. Selection may differentially stabilise some differences. Inheritance may reproduce organisational features through genetic and non-genetic processes.
 
@@ -273,23 +214,15 @@ Genes can be among the mechanisms contributing to that continuity and transforma
 
 ## What APS Adds — and What It Does Not Yet Establish
 
-APS changes the framing of the gene-centred question.
+APS changes the framing of the gene-centred question. Instead of asking whether genes or organisms are ultimately in control, it asks what explanatory target is being addressed, which biological relations bear on that target, and what spatial, temporal, and organisational extent is required to explain it.
 
-Instead of asking whether genes or organisms are ultimately in control, it asks what explanatory target is being addressed, which biological relations bear on that target, and at what spatial and temporal scales those relations must be investigated.
+This framing can be useful where a biological problem extends beyond genetic transmission alone. It can make explicit relations among genetic mechanisms, development, physiology, organism–environment interaction, lineage continuity, and evolutionary history that a more narrowly targeted genetic explanation may not need to represent. Their inclusion, however, must be warranted by the explanandum rather than by a general preference for broader organisational description.
 
-This can be useful when a biological problem extends beyond genetic transmission alone. It can make explicit the relations among genetic mechanisms, development, physiology, organism–environment interaction, lineage continuity, and evolutionary history.
+Broader framing is therefore not automatically better explanation. If a gene-centred model already explains a specified change in allele frequency, identifying the living organisation in which that change occurs does not by itself constitute explanatory gain. Likewise, if a molecular mechanism adequately explains a specified genetic effect, redescribing that mechanism as part of viability-oriented organisation does not automatically improve the explanation.
 
-But broader framing is not automatically better explanation.
+APS would establish additional explanatory gain only where its organisational framework identifies something consequential that the strongest relevant comparator does not—for example, a dependency, causal discrimination, intervention target, prediction, or other explanatory relation required by the explanandum. The relevant test is therefore not whether APS provides a more encompassing description, but whether the additional organisation it identifies makes an explanatory difference to the target.
 
-If a gene-centred model already explains a specified change in allele frequency, identifying the living organisation in which that change occurs does not by itself constitute explanatory gain. If a molecular mechanism adequately explains a specified genetic effect, redescribing that mechanism as part of viability-oriented organisation does not automatically improve the explanation.
-
-APS would establish additional explanatory gain only where its organisational framework identifies something consequential that the strongest relevant comparator does not—for example, a dependency, causal discrimination, intervention target, prediction, or other explanatory relation required by the explanandum.
-
-That requirement is important.
-
-**Integration is not the same as explanatory superiority.**
-
-APS therefore makes no general claim that organisational explanation supersedes gene-centred biology. It provides a framework within which the explanatory extent and limits of genetic accounts can be examined relative to specified biological questions.
+This requirement preserves the distinction between integration and explanatory superiority. Bringing genetic, developmental, physiological, ecological, and evolutionary relations into a common framework may clarify how they are connected without demonstrating that the resulting explanation is superior to a narrower account. APS therefore makes no general claim that organisational explanation supersedes gene-centred biology. It provides a framework within which the explanatory extent and limits of genetic accounts can be examined relative to specified biological questions.
 
 ## A Clarifying Analogy
 
@@ -297,31 +230,17 @@ Genes are sometimes compared with instructions or blueprints. Such metaphors can
 
 A blueprint may contain information relevant to the construction of a building, but possession of the blueprint does not itself construct the building. Conversely, recognising that construction requires materials, workers, physical processes, and environmental conditions does not make the blueprint irrelevant.
 
-The analogy should not be taken further than this.
-
-Genes are not literally blueprints, organisms are not buildings, and development is not construction from a fixed plan.
-
-The limited point is explanatory:
-
-**the importance of one component of a process does not establish the sufficiency of its description for every question about the resulting organisation.**
+The analogy should not be taken further than this: genes are not literally blueprints, organisms are not buildings, and development is not construction from a fixed plan. Its limited purpose is explanatory. The importance of one component of a process does not establish the sufficiency of its description for every question about the resulting organisation.
 
 Genetic mechanisms can therefore make indispensable contributions to particular biological processes without genetic description becoming a complete theory of living organisation.
 
 ## Conclusion
 
-Gene-centred biology remains one of the most powerful explanatory traditions in modern science. Its achievements in genetics and evolutionary biology do not need to be diminished for APS to make its own organisational distinctions.
+Gene-centred biology remains one of the most powerful explanatory traditions in modern science, and its achievements in genetics and evolutionary biology do not need to be diminished for APS to make its own organisational distinctions. Genes make real causal differences: genetic mechanisms contribute to inheritance, development, variation, and evolutionary change, and for many biological questions genetic explanation may be precisely the explanation required.
 
-Genes make real causal differences. Genetic mechanisms contribute to inheritance, development, variation, and evolutionary change. For many biological questions, genetic explanation may be precisely the explanation required.
+What does not follow from those successes is universal causal or explanatory privilege. APS treats genes as operating within viability-oriented, constraint-closed living organisation. This locates genetic processes within a wider biological context without determining their causal importance in advance or implying that causation must always be reciprocal, that all scales contribute equally, or that organisational description is automatically superior to genetic explanation.
 
-What does not follow is that explanatory success for those targets establishes universal causal or explanatory privilege.
-
-APS treats genes as operating within viability-oriented, constraint-closed living organisation. This locates genetic processes within a wider biological context, but it does not determine their causal importance in advance. Nor does it imply that causation must always be reciprocal, that all scales contribute equally, or that organisational description is automatically superior to genetic explanation.
-
-The appropriate explanatory level, process, or combination of relations depends on the biological question and the evidence available.
-
-The issue is therefore not whether genes are “in charge.”
-
-It is what genes explain, what other relations a particular explanandum requires, and what evidence establishes among them.
+The appropriate explanatory extent, process, or combination of relations depends on the biological question and the available evidence. The issue is therefore not whether genes are “in charge”, but what genes explain, what additional relations a particular explanandum requires, and what the evidence establishes about the relations among them.
 
 **Key Point**
 

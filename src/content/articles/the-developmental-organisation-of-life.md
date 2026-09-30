@@ -16,10 +16,8 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
-
+revised: 2026-09-30
 cluster: developmental-organisation
-core: anchor
 
 relatedGlossaryTerms:
   - development
