@@ -4,19 +4,20 @@ title: "Developmental Scaffolding"
 slug: developmental-scaffolding
 
 abstract: >
-  In APS, developmental scaffolding refers to the organised support
-  structures through which viability-oriented developmental continuity
-  is stabilised across time. Development depends not only upon
-  internal regulation, but upon coordinated ecological, behavioural,
-  social, and relational systems that sustain viable developmental
-  organisation across changing conditions.
+  In APS, developmental scaffolding refers to organised support relations
+  that make a material difference to developmental processes or outcomes
+  in particular biological systems. Such scaffolds may involve ecological,
+  behavioural, social, symbiotic, physiological, or other relations, and
+  may occur within or beyond the organism depending on the developmental
+  target. Their explanatory relevance must be established for the case
+  concerned: scaffolding is neither constitutive of development in general
+  nor evidence that development necessarily extends beyond the organism.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 role: core
 
@@ -94,201 +95,151 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Development is often described as the internally directed construction of organisms through genetically regulated biological processes. Within APS, however, development is understood as a viability-oriented organisational process that frequently depends upon stabilising relations extending beyond the organism itself.
+Development is often described as the internally directed construction of organisms through genetically regulated biological processes. Such processes are indispensable to many developmental explanations, but they do not exhaust every developmental case. In some systems, developmental processes or outcomes also depend materially on organised support relations that are not adequately captured by an exclusively internal description.
 
-Living systems rarely develop in complete isolation.
+APS uses **developmental scaffolding** for such support relations. A developmental scaffold makes a material difference to a developmental process or outcome by enabling, constraining, stabilising, buffering, coordinating, or otherwise supporting the conditions under which development proceeds. Depending on the biological case, scaffolding may involve relations within the organism, between organisms, or between organisms and features of their environments.
 
-Instead, developmental continuity commonly depends upon structured ecological, behavioural, social, and symbiotic support systems that help maintain the conditions required for viable developmental progression across time.
-
-APS consequently interprets developmental scaffolding as the organised support structures through which developmental viability is stabilised and maintained.
-
-Developmental scaffolds are not merely external influences acting upon otherwise self-sufficient organisms. They often participate directly in the maintenance of developmental organisation itself.
-
-Development therefore emerges through relationally coordinated viability rather than isolated internal construction alone.
-
-Living systems preserve developmental continuity through coordinated support relations extending across ecological and social organisation rather than through internally self-sufficient developmental mechanisms alone.
+Scaffolds should not be inferred merely from the fact that development occurs in an ecological or social context. Nor does identifying a scaffold establish that development in general depends on relations beyond the organism. The explanatory task is to determine which support relations make a difference to the developmental target concerned.
 
 ## The Classical Image of Self-Contained Development
 
-Traditional biological models often treated development as a largely internal process directed primarily through genetic regulation and organism-centred control.
+Traditional biological models have often emphasised development as an internally organised process in which genetic regulation, cellular activity, physiological coordination, and other organismal mechanisms generate developmental outcomes.
 
-Within this framework:
+Within strongly internalist versions of this picture:
+- organisms may be treated as substantially developmentally self-contained,
+- environmental factors may be assigned mainly modifying roles,
+- and developmental outcomes may be explained principally through processes located within the developing organism.
 
-- organisms were viewed as developmentally self-contained,
-- environmental factors were often treated as secondary modifiers,
-- and developmental outcomes were frequently interpreted as internally specified constructions unfolding over time.
+APS does not reject internal developmental explanation. For many explananda, genetic, cellular, physiological, or other internally realised processes may provide much or even most of the explanation required.
 
-This image of development as internally sufficient became closely associated with mechanistic and gene-centred explanatory models.
+The limitation arises when an exclusively internal description omits a support relation that makes a material difference to the developmental phenomenon being explained. In such cases, developmental scaffolding identifies an additional dependency rather than establishing a general principle that development must extend beyond organismal boundaries.
 
-APS does not deny the importance of internal regulation, coordinated physiology, or developmental organisation within organisms themselves.
-
-However, APS argues that developmental viability frequently depends upon support structures extending beyond the immediate boundaries of the organism.
-
-Development therefore cannot be understood solely through internally localised processes alone.
+The explanatory extent should therefore be determined by the developmental target rather than fixed in advance as either wholly internal or necessarily distributed.
 
 ## What Developmental Scaffolding Means
 
-Developmental scaffolding refers to the relational structures that stabilise developmental viability across time.
+Developmental scaffolding refers to organised support relations that contribute materially to developmental processes or outcomes.
 
-These structures help preserve the conditions required for viable developmental continuity by:
-
-- reducing destabilising perturbations,
-- coordinating environmental conditions,
-- buffering developmental vulnerability,
-- stabilising behavioural interactions,
-- and maintaining continuity across developmental transitions.
+Such relations may, in particular systems:
+- reduce destabilising perturbations,
+- coordinate relevant environmental conditions,
+- buffer developmental vulnerability,
+- stabilise behavioural interactions,
+- provide resources required for development,
+- or support transitions between developmental states.
 
 Developmental scaffolds may include:
-
 - parental care,
 - protected developmental environments,
 - nests and shelters,
 - social organisation,
-- ecological stability,
+- ecological conditions,
 - microbial symbioses,
 - behavioural traditions,
 - and communicative developmental systems.
 
-These structures do not simply surround development from the outside. They frequently participate directly in maintaining the organisational continuity through which development proceeds.
+This list identifies possible forms of scaffolding rather than requirements of development. Whether any particular relation counts as a developmental scaffold depends on whether it performs identifiable explanatory work for the developmental target concerned.
 
-APS consequently treats developmental scaffolding as part of the broader organisation sustaining viability-oriented persistence.
+A scaffold need not merely surround an otherwise self-sufficient developmental process. In some cases, a support relation may participate directly in the causal or organisational dependencies through which a developmental outcome is produced. In others, an apparently relevant environmental or social condition may function only as background, resource, input, or boundary condition.
+
+Developmental scaffolding is therefore an explanatory relation to be established, not a predetermined location of development.
 
 ## Scaffolding Is Not Blueprint Instruction
 
-APS sharply distinguishes developmental scaffolding from deterministic instruction models.
+Developmental scaffolding is distinct from deterministic instruction.
 
-Scaffolds do not contain complete developmental blueprints specifying fully predetermined outcomes.
+A scaffold need not contain a developmental blueprint or specify a fully predetermined outcome. Its explanatory role lies instead in the contribution it makes to the conditions, constraints, resources, interactions, or regulatory relations through which development proceeds.
 
-Instead, scaffolds help maintain the viability conditions under which developmental organisation can remain coherent and adaptive across time.
+Scaffolds may stabilise some developmental processes while permitting variation in others. They may constrain developmental possibilities, buffer perturbations, organise recurrent interactions, or provide conditions without which a particular developmental trajectory cannot occur. None of these roles implies that the scaffold mechanically determines the developmental outcome.
 
-Developmental organisation therefore emerges through dynamic coordination rather than rigid pre-specification.
+Development can therefore remain historically contingent and responsive to changing conditions even where scaffolding relations are important. Conversely, developmental regularity does not by itself demonstrate the presence of external scaffolding: internally organised processes may sometimes be sufficient to explain it.
 
-Scaffolds:
-
-- constrain developmental instability,
-- support viable developmental continuity,
-- stabilise interaction patterns,
-- and maintain organisational coherence,
-
-without mechanically determining every developmental outcome.
-
-Development consequently remains historically contingent, environmentally responsive, and organisationally adaptive even while exhibiting developmental regularity.
-
-APS therefore interprets developmental stability as an achievement of organised continuity rather than the execution of fixed internal instructions.
+The distinction from blueprint instruction is consequently not a choice between internal determination and external control. It is a distinction between specifying an outcome in advance and identifying support relations that make a material difference to how development occurs.
 
 ## Developmental Vulnerability and Organised Support
 
-Many organisms pass through developmental phases in which independent viability cannot yet be maintained.
+Scaffolding can become especially important during developmental phases in which the developing system is unable to maintain all of the conditions required for a particular developmental trajectory independently.
 
-Embryos, juveniles, and immature developmental systems often require extensive scaffolding support in order to preserve developmental continuity.
+Embryos, juveniles, and other immature systems may, depending on the species and developmental context, rely on organised support relations. For example:
+- embryos may require particular chemical or thermal conditions,
+- juvenile organisms may depend on parental provisioning or protection,
+- and some developmental capacities may require socially organised opportunities for learning or interaction.
 
-For example:
+Where removing or altering such support changes the developmental process or outcome, the relation can perform genuine explanatory work. In some cases it may be necessary for viable development; in others it may alter developmental timing, phenotype, behaviour, robustness, or probability of successful completion without constituting a universal viability requirement.
 
-- embryos may require tightly regulated chemical and thermal environments,
-- juvenile organisms often depend upon parental provisioning and protection,
-- and many species require socially organised developmental learning environments.
-
-Without such scaffolding relations, developmental organisation may fail before viable autonomous regulation becomes possible.
-
-APS therefore treats developmental support not as biologically peripheral, but as one of the mechanisms through which developmental viability itself is maintained.
-
-Scaffolding becomes especially important wherever developmental organisation remains fragile, incomplete, or highly perturbation-sensitive.
+Developmental vulnerability therefore provides an important context in which to investigate scaffolding, but vulnerability and scaffolding should not be identified with one another. The relevant question is which organised support relations matter to the developmental target and what difference they make.
 
 ## Ecological and Environmental Scaffolding
 
-Developmental organisation frequently depends upon ecologically structured environments.
+Ecological and environmental conditions can scaffold development when they contribute materially to developmental processes or outcomes.
 
-Stable habitats, nutrient availability, climatic regularity, and environmental buffering may all contribute directly to developmental continuity.
+Stable habitats, nutrient availability, climatic conditions, environmental buffering, constructed environments, or recurrent organism–environment interactions may be developmentally important in particular systems. Their importance can range from providing resources or boundary conditions to participating directly in recurrent relations required for a developmental outcome.
 
-Organisms therefore often develop within ecological systems that partially stabilise the conditions required for viability maintenance.
-
-APS consequently argues that development cannot always be cleanly separated from ecological organisation.
-
-Developmental continuity may depend upon:
-
+Some developmental explananda may therefore require ecological relations within their explanatory extent. Possible examples include:
 - habitat construction,
 - environmental modification,
-- ecosystem stability,
 - ecological inheritance,
-- and organism–environment coordination across time.
+- recurrent resource provision,
+- and temporally organised organism–environment interactions.
 
-Development therefore becomes an ecological as well as organismal process.
+This does not make development inherently ecological. Development occurs in environments, but environmental context becomes developmental scaffolding only when a relevant dependency is established. Nor does the identification of an ecological scaffold require the developmental process as a whole to be relocated from the organism to a larger ecological system.
 
-This perspective strongly connects developmental theory with APS accounts of ecological organisation and organism–environment coupling.
+APS therefore treats ecological scaffolding as a possible developmental relation rather than a universal feature of development. This allows developmental and ecological explanations to intersect where the biological case warrants it while preserving their distinct explanatory targets.
 
 ## Social and Behavioural Scaffolding
 
-Many developmental capacities emerge only through socially structured developmental systems.
+Social and behavioural relations can also scaffold development.
 
-Communication, behavioural coordination, species-specific interaction patterns, and social learning frequently require historically continuous developmental environments maintained across generations.
-
-Social systems may therefore scaffold:
-
+Communication, parental behaviour, coordinated interaction, social learning, and historically recurrent behavioural practices may affect developmental trajectories in particular organisms. Depending on the case, social relations may contribute to:
 - behavioural development,
 - communication systems,
-- cognitive organisation,
-- emotional regulation,
+- cognitive capacities,
+- regulation of interaction,
 - and coordinated social capacities.
 
-APS consequently treats social organisation not merely as a later product of development, but as one of the structures participating directly in developmental viability itself.
+The explanatory status of these relations must again be demonstrated. The fact that a developmental outcome occurs in a social setting does not establish that social organisation constitutes the developmental process. A social relation counts as scaffolding when its organisation makes a material difference to the developmental target.
 
-Development may therefore extend across socially organised continuity systems rather than remaining confined entirely within isolated organisms.
+In some cases, such relations may be required for the development of particular capacities; in others they may influence, facilitate, constrain, or stabilise development without being necessary for it.
 
-This perspective also links developmental scaffolding to broader APS discussions of cognition, semiosis, and collective organisation.
+Developmental scaffolding can therefore extend into social and behavioural organisation where the relevant dependencies cross organismal boundaries. This does not imply that development in general is socially distributed or that cognition, semiosis, or collective organisation automatically form part of developmental explanation.
 
 ## Symbiosis and Distributed Developmental Organisation
 
-Symbiotic systems frequently participate directly in developmental organisation.
+Symbiotic relations can participate in development when interactions among organisms make a material difference to developmental processes or outcomes.
 
-Microbial relations may contribute to:
-
+Microbial relations, for example, may contribute in particular systems to:
 - immune system development,
 - metabolic regulation,
 - digestion,
-- neurological organisation,
-- and behavioural stability.
+- aspects of neurological development,
+- or behavioural outcomes.
 
-Developmental viability may therefore depend upon coordinated relations among multiple interacting biological systems.
+Where such relations are developmentally consequential, they may constitute genuine scaffolding. Their explanatory importance can range from enabling particular developmental conditions to participating directly in recurrent biological interactions required for an outcome.
 
-APS consequently interprets many symbiotic systems as developmental scaffolds participating directly in the maintenance of viable organisation.
+The presence of symbiosis does not, however, establish that developmental organisation is generally distributed across multiple organisms. Nor does dependence on a symbiotic partner erase biological individuality. The relevant question is whether, and in what respect, the developmental explanandum requires relations among the interacting systems.
 
-This does not eliminate biological individuality.
-
-Rather, it demonstrates that viable developmental continuity may depend upon distributed relational organisation extending across interacting systems.
-
-Development remains organisationally coherent while still depending upon relational biological coordination.
+APS therefore allows developmental explanation to extend across biological individuals where the target requires it, without treating distributed organisation as an intrinsic property of development.
 
 ## Scaffolding, Plasticity, and Constraint
 
-Developmental scaffolding helps explain how organisms can remain both developmentally stable and adaptively flexible.
+Developmental scaffolding can influence both the stability and variability of developmental outcomes.
 
-Scaffolds may preserve viability boundaries while still permitting adaptive developmental variation within those boundaries.
+A scaffold may buffer some perturbations, constrain the range of possible developmental trajectories, facilitate a response to changing conditions, or alter the conditions under which developmental plasticity is expressed. These effects must be distinguished rather than treated as a single continuity-maintaining function.
 
-APS therefore rejects the false opposition between:
+Developmental plasticity concerns regulated differences in developmental trajectories or outcomes associated with differences in conditions. Scaffolding concerns support relations that make a material difference to development. The two can therefore interact without being mutually required.
 
-- rigid developmental determinism,
-- and unrestricted developmental plasticity.
+In some systems, scaffolding may stabilise conditions and reduce developmental variation. In others, it may enable or constrain plastic responses. A scaffold may contribute to viability in a particular environment, but neither scaffolding nor plasticity is necessarily adaptive or viability-preserving by definition.
 
-Development instead proceeds through constrained adaptive organisation.
-
-Scaffolding relations stabilise developmental continuity while allowing developmental systems to remain responsive to environmental and organisational conditions.
-
-Developmental plasticity and developmental stability therefore become complementary aspects of viability-oriented organisation rather than opposing principles.
+The relation among scaffolding, plasticity, stability, constraint, and viability must therefore be established for the developmental case concerned.
 
 ## Why Developmental Scaffolding Matters in APS
 
-Developmental scaffolding helps explain why viable biological organisation so often depends upon relational systems extending beyond isolated organisms themselves.
+Developmental scaffolding provides APS with a controlled way of recognising support relations that may be omitted by an exclusively internal account of a developmental phenomenon.
 
-Within APS:
+Its importance is not that all development depends on ecological, behavioural, social, or symbiotic organisation. Rather, it directs attention to whether relations conventionally treated as external context actually make a material difference to the developmental target. Where they do, excluding them simply because they cross an organismal boundary would leave the explanation incomplete.
 
-- development is viability-oriented,
-- developmental continuity frequently depends upon distributed support systems,
-- developmental organisation emerges through coordinated relational structures stabilised across time,
-- and viable persistence depends upon continuity-preserving ecological, behavioural, social, and symbiotic organisation.
+Conversely, relational proximity is not sufficient. Environmental conditions, social interactions, symbiotic associations, or ecological structures should not be incorporated into developmental explanation unless their contribution to the target can be established.
 
-Organisms therefore do not develop through isolated internal mechanisms alone.
+Developmental scaffolding therefore supports target-matched explanatory extension. It permits developmental explanation to include organised relations within or beyond the organism when required by the case, while avoiding the stronger claim that development is inherently distributed, ecological, social, or multiscale.
 
-They persist through organised developmental continuity maintained across ecological, behavioural, social, and symbiotic systems that scaffold viability across multiple scales of organisation.
-
-Developmental scaffolding consequently becomes one of the central explanatory concepts linking development, ecology, resilience, cognition, social organisation, and evolutionary continuity within the broader APS framework.
-
+In APS, scaffolding is consequently best understood as a possible and sometimes indispensable developmental relation whose explanatory significance depends on what is being explained.

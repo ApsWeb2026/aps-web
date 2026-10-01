@@ -3,11 +3,11 @@ date: 2026-04-08
 title: Development
 slug: development
 type: glossary
-definition: "In APS, development is the progressive differentiation and reorganisation of constraint-closed organisation through which a living system maintains and transforms its own viability over time."
-inBrief: "Development is the ongoing reorganisation of constraint-closed processes that sustain and transform viability through time."
+definition: "In APS, development is the temporally extended differentiation and reorganisation of biological organisation through which a living system undergoes coordinated change across its developmental history."
+inBrief: "Development is the temporally extended differentiation and reorganisation of biological organisation through a living system's developmental history."
 status: canonical
 cluster: developmental-organisation
-revised: 2026-04-08
+revised: 2026-10-01
 seeAlso:
   - constraint-closure
   - biological-organisation
@@ -23,10 +23,10 @@ In standard biology, development describes the sequence of changes an organism u
 
 ## APS reframing
 
-In APS, development is the progressive differentiation and reorganisation of constraint-closed organisation through which a living system maintains and transforms its own viability. It is not the linear unfolding of a genetic plan but a continual re-coordination of processes—molecular, cellular, and systemic—that sustain coherence under changing conditions.
+In APS, development is the temporally extended differentiation and reorganisation of biological organisation through which a living system undergoes coordinated change across its developmental history. It is not the linear unfolding of a genetic plan, but an organised process in which molecular, cellular, physiological, morphological, behavioural, and other developmentally relevant processes may be coordinated and reorganised through time.
 
-Development expresses temporal agency in action: the self-modulating process by which living systems construct, repair, and reorganise their own organisation. It is therefore both stabilising and transformative, integrating persistence with ongoing adaptation.
+Development can contribute to organised persistence, viability, repair, adaptation, and other biological outcomes, but these relations are not built into its definition. Their explanatory significance must be established for the biological case and target concerned.
 
 ## Key Point
 
-Development is the temporal organisation of viability—the ongoing reorganisation of constraint-closed organisation through which living systems sustain persistence while enabling adaptive transformation.
+Development is the temporally extended differentiation and reorganisation of biological organisation through which living systems undergo coordinated change across their developmental histories.

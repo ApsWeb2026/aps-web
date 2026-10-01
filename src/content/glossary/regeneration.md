@@ -6,17 +6,19 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
+revised: 2026-10-01
 cluster: developmental-organisation
+
 definition: >
-  Regeneration is the viability-preserving reconstitution of biological
-  organisation through which living systems restore, reconstruct, or reorganise
-  substantial aspects of their structure and function following loss,
-  disruption, or degradation. In APS, regeneration is understood as a process
-  of organisational continuity rather than simple structural replacement.
+  Regeneration is the renewed production or re-establishment of biological
+  structure or organisation following loss, damage, or disruption. Regenerative
+  processes may restore aspects of organisation or function and may contribute
+  to viable organised persistence, depending on the biological case concerned.
+
 inBrief: >
-  Regeneration is the large-scale organisational reconstitution through which
-  living systems restore continuity after substantial disruption or loss.
+  Regeneration is the renewed production or re-establishment of biological
+  structure or organisation following loss, damage, or disruption.
+
 seeAlso:
   - repair
   - development
@@ -28,46 +30,30 @@ seeAlso:
   - constraint-closure
 ---
 
-Regeneration refers to the capacity of living systems to restore or reconstitute aspects of their organisation following substantial disruption, injury, or loss.
+Regeneration refers to biological processes through which structure or organisation is renewed or re-established following loss, damage, or disruption.
 
-In conventional biological accounts, regeneration is often described as the replacement of damaged tissues, organs, or body parts. APS instead interprets regeneration primarily as an organisational phenomenon.
+In conventional biological accounts, regeneration is often described in terms of the replacement of damaged or missing tissues, organs, appendages, or other structures. APS emphasises that structural replacement alone may not exhaust the biological explanation.
 
-What matters is not the exact recreation of prior material structure, but the restoration of viability-oriented continuity across time.
+A regenerated structure may need to become integrated with other biological processes and relations relevant to the system concerned. Regeneration can therefore involve restoration or re-establishment of organisation as well as production of biological structure.
 
-Regeneration therefore differs from simple replacement.
+This does not mean that regeneration is defined by preservation of viability or organised persistence. Regenerative outcomes may be complete or incomplete, functional or dysfunctional, and their consequences for viability must be established for the biological case concerned.
 
-A regenerated structure contributes to biological continuity insofar as it becomes reintegrated into the wider organisational dynamics of the system. The significance of regeneration lies not merely in structural reconstruction but in the restoration of coordinated viability-preserving processes.
+Regeneration is often closely related to developmental organisation.
 
-APS emphasises that regeneration is deeply connected to developmental organisation.
+Regenerative processes may recruit capacities also involved in development, including cellular proliferation and differentiation, morphogenesis, signalling, pattern formation, physiological coordination, or other forms of developmental reorganisation. Which processes are required depends on the regenerative phenomenon being explained.
 
-Regenerative processes often reactivate developmental capacities, reorganise constraint relations, and restore patterns of coordinated activity across multiple scales. Regeneration therefore reveals that biological organisation is dynamic, historically extended, and capable of reconstructive continuity.
+The explanatory extent of regeneration is likewise target-dependent. Some regenerative processes may be adequately explained through relatively local cellular or tissue relations, whereas others may require relations extending across wider spatial, temporal, physiological, developmental, or environmental extents. APS does not therefore assume that regeneration is intrinsically multiscale.
 
-Regeneration occurs across many scales:
+APS distinguishes regeneration from related concepts without imposing a universal taxonomy among them.
 
-- molecular regeneration,
-- cellular regeneration,
-- tissue regeneration,
-- organ regeneration,
-- developmental regeneration,
-- behavioural reorganisation,
-- and ecological regeneration.
+Regeneration and repair both concern biological restoration following damage or disruption, but their exact relation depends on the biological case and explanandum. Some processes may be clearly characterised as repair, others as regeneration, and some cases may involve overlapping restorative processes. APS does not define regeneration simply as broader, deeper, or more extensive repair.
 
-What unifies these processes is their role in restoring organised persistence after substantial disruption.
+Regeneration also differs from resilience. Resilience concerns capacities through which biological organisation withstands, accommodates, or recovers from perturbation. Regeneration may contribute to resilience where renewed production or re-establishment of structure or organisation supports recovery, but resilience need not depend on regeneration.
 
-APS also distinguishes regeneration from related concepts.
+Regeneration can also intersect with adaptation and evolution, but these relations should not be inferred from regeneration itself. A regenerative capacity or outcome may have consequences for viability, fitness, selection, or evolutionary change in particular biological systems. Those relations require their own population-level and historical evidence.
 
-Regeneration differs from repair because regeneration generally involves broader or deeper organisational reconstitution, whereas repair may involve more local restoration or stabilisation.
+Regeneration need not restore a perfectly identical prior state.
 
-Regeneration differs from resilience because resilience refers to the broader capacity to preserve viability across perturbation, while regeneration refers specifically to reconstructive reorganisation after substantial loss or disruption.
+Regenerative processes may produce transformed organisation, altered developmental trajectories, compensatory restructuring, or modified functional integration. Whether such an outcome counts as successful restoration depends on the regenerative target and the biological organisation or function concerned.
 
-Regeneration also differs from adaptation.
-
-Adaptation concerns viability-preserving reorganisation across changing conditions, whereas regeneration concerns the restoration of organisational continuity following major disruption.
-
-Importantly, APS rejects the idea that regeneration restores a perfectly identical prior state.
-
-Regenerative continuity often involves transformed organisation, altered developmental trajectories, compensatory restructuring, or modified functional integration. Continuity is preserved through reorganised viability rather than exact material duplication.
-
-Regeneration therefore illustrates a central APS principle:
-
-living systems persist not through static preservation, but through the capacity to reorganise continuity across time, scale, and disruption.
+Regeneration therefore illustrates an important feature of living organisation: biological systems can, in some circumstances, renew or re-establish organisation following substantial disruption. Where this contributes to viability or organised persistence, the explanatory relation should be demonstrated rather than built into the definition of regeneration.

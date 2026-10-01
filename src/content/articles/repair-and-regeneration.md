@@ -4,19 +4,19 @@ title: "Repair and Regeneration"
 slug: repair-and-regeneration
 
 abstract: >
-  In APS, repair and regeneration are understood as
-  continuity-restoring developmental processes through which viable
-  organisation reorganises itself following disruption, damage, and
-  perturbation. Living systems preserve organised persistence not by
-  avoiding disruption altogether, but by restoring continuity through
-  adaptive developmental reorganisation across time.
+  In APS, repair and regeneration concern biological responses through
+  which organisation disrupted by damage or perturbation may be restored,
+  reorganised, or re-established. Repair can contribute to viable organised
+  persistence where restoration is required for continuity, while regeneration
+  may involve renewed production or re-establishment of biological structure
+  or organisation. Their explanatory relation, and the processes required in
+  each case, must be established for the biological target concerned.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 role: extension
 
@@ -107,335 +107,146 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Living systems persist under conditions of continual disruption.
+## Introduction
 
-Organisms experience:
+Living systems can encounter injury, cellular damage, physiological stress, infection, degeneration, environmental perturbation, and other forms of disruption. Biological responses to such disruption include repair, recovery, regeneration, and developmental reorganisation, but the relevance of each response depends on the system and damage concerned.
 
-- injury,
-- cellular damage,
-- physiological stress,
-- environmental perturbation,
-- infection,
-- degeneration,
-- and structural instability
+APS treats repair and regeneration as related problems of biological restoration. Repair concerns processes through which damaged or disrupted organisation may be restored sufficiently for relevant organisation or function to continue or be re-established. Regeneration may involve renewed production or re-establishment of biological structure or organisation following loss or damage. These processes can contribute to viable organised persistence, but neither their occurrence nor their relation to persistence should be assumed in advance.
 
-throughout their existence.
-
-Yet living systems frequently preserve continuity despite these disruptions through processes of:
-
-- repair,
-- recovery,
-- regeneration,
-- and developmental reorganisation.
-
-APS interprets repair and regeneration as continuity-restoring developmental processes through which viable organisation reorganises itself following disruption, damage, and perturbation.
-
-The central biological question is therefore not simply:
+The central biological question is therefore broader than:
 
 > How are damaged structures repaired?
 
-but:
+It also asks:
 
-> How do living systems restore organised continuity following disruption while preserving viability across time?
+> Which biological processes restore or re-establish organisation following disruption, and what difference does that restoration make to viability and persistence in the system concerned?
 
-This shifts explanation away from mechanical replacement alone and toward the organisational processes through which continuity is re-established within dynamically changing living systems.
+This shifts explanation away from mechanical replacement alone and towards the materially realised processes through which biological organisation can recover from disruption. In some cases restoration may be required for continued viability; in others damage may be tolerated, compensated for, or accommodated without repair of the affected structure.
 
-Living systems persist not because disruption never occurs, but because biological organisation remains capable of restoring continuity across injury, instability, and change.
-
-Continuity is restored through regulated reorganisation rather than restoration of fixed structure.
+Repair and regeneration should consequently be investigated as biological capacities whose explanatory significance depends on the target rather than as universal prerequisites of living persistence.
 
 ## Damage and the Problem of Continuity
 
-All living systems exist under conditions that threaten organisational continuity.
+Damage matters biologically when it disrupts organisation or function relevant to the system concerned.
 
-Cells deteriorate.
+Cells may deteriorate, tissues may be injured, physiological systems may experience stress, developmental processes may be perturbed, and environmental changes may disrupt organismal activity. The consequences vary substantially. Some damage is readily tolerated, some elicits compensatory or restorative responses, and some threatens viability or produces irreversible breakdown.
 
-Tissues become damaged.
+Repair becomes explanatorily important where restoration or reorganisation makes a material difference to what happens after disruption. In such cases, repair can contribute to the maintenance or re-establishment of organised continuity. It should not, however, be inferred that all living systems require the same repair capacities, that every form of damage must be repaired, or that persistence as such universally depends upon repair.
 
-Physiological systems experience stress.
-
-Developmental processes encounter perturbation.
-
-Ecological conditions fluctuate continuously.
-
-Without capacities for repair and recovery, biological organisation would rapidly lose viability.
-
-APS therefore interprets damage not merely as local structural disruption, but as a threat to organised persistence itself.
-
-Repair becomes necessary because living systems remain dynamically active and continuously vulnerable to continuity deterioration.
-
-The persistence of life depends not upon perfect stability, but upon the capacity to restore viable organisation under conditions of ongoing disruption.
+APS therefore treats damage as a possible disruption of organised persistence rather than automatically as a threat to persistence itself. The relevant question is what organisation has been disrupted, what restorative processes occur, and whether those processes make a difference to continued viability.
 
 ## Historical Approaches to Repair and Regeneration
 
-Repair and regeneration have long occupied an important place within biological thought.
+Repair and regeneration have long occupied an important place within biological thought. Classical biological traditions often regarded regeneration as evidence of organismal unity and intrinsic organisational capacity, while mechanistic biology increasingly explained repair through physiological processes, tissue dynamics, cellular replacement, and causal interaction among biological components.
 
-Classical biological traditions often regarded regeneration as evidence of organismal unity and intrinsic organisational capacity.
+Twentieth-century molecular and developmental biology brought signalling pathways, stem cells, gene regulation, developmental patterning, and molecular control systems into increasingly detailed accounts of repair and regeneration. These approaches produced major advances by identifying mechanisms through which damaged biological structures can be restored or reorganised.
 
-Mechanistic biology increasingly explained repair through:
+Organisational and process-oriented approaches add a complementary question: how do these mechanisms interact in producing the restorative outcome being explained? Depending on the case, adequate explanation may require developmental coordination, physiological regulation, biomechanical organisation, ecological conditions, temporal relations, or other dependencies in addition to relatively local molecular mechanisms.
 
-- physiological processes,
-- tissue dynamics,
-- cellular replacement,
-- and causal interaction among biological components.
-
-Twentieth-century molecular and developmental biology later focused heavily upon:
-
-- signalling pathways,
-- stem cells,
-- gene regulation,
-- developmental patterning,
-- and molecular control systems.
-
-These approaches produced major advances in understanding developmental and regenerative processes.
-
-However, they also often encouraged reduction of repair to isolated molecular mechanisms or localised causal interactions.
-
-Contemporary biology increasingly recognises that repair and regeneration depend upon broader organisational integration involving:
-
-- developmental coordination,
-- physiological regulation,
-- ecological interaction,
-- biomechanical organisation,
-- and temporally distributed continuity-maintaining processes.
-
-APS develops within this broader organisational and process-oriented understanding of living systems.
+APS adopts this target-sensitive organisational perspective. It does not assume that repair and regeneration always require a broad systems explanation; rather, the explanatory extent should include whatever materially realised relations are necessary to explain the restorative process concerned.
 
 ## Beyond Mechanical Restoration
 
-Repair is not equivalent to simple mechanical replacement.
+Biological repair is not adequately characterised as simple mechanical replacement.
 
-Machines are typically repaired through external intervention involving replacement of damaged parts while preserving overall structural design.
+Machines are typically repaired through external intervention in which damaged components may be replaced while an overall design is preserved. Living systems can instead participate actively in their own restoration through processes such as cellular activity, physiological regulation, tissue reorganisation, compensation, and developmental change.
 
-Living systems differ fundamentally.
+Depending on the biological case, repair may involve active developmental reorganisation, physiological integration, coordinated regulation, compensation, or restoration of functional organisation. What must be restored also varies with the target. Some cases require recovery of tissue integrity, others physiological coordination, structural organisation, or a particular function.
 
-Biological repair involves:
+Repair need not reproduce a perfectly prior state. Biological systems may recover sufficiently through reorganisation, compensation, replacement, or altered organisation rather than exact reconstruction. Restoration should therefore be assessed in relation to the organisation or function whose disruption defines the repair problem.
 
-- active developmental reorganisation,
-- physiological integration,
-- coordinated regulation,
-- adaptive compensation,
-- and restoration of viable organisational continuity.
-
-Repair therefore concerns far more than replacing damaged material alone.
-
-Living systems must restore:
-
-- functional coordination,
-- developmental integration,
-- viability,
-- ecological responsiveness,
-- and organisational coherence.
-
-APS consequently interprets repair as continuity restoration within dynamically organised systems rather than mere reconstruction of static structures.
-
-Importantly, repair rarely restores systems to perfectly prior states.
-
-Living systems often recover through adaptive reorganisation rather than exact reconstruction.
-
-Continuity is therefore preserved through regulated transformation rather than static restoration.
+APS consequently treats repair as restoration or re-establishment within dynamically organised systems rather than as the reconstruction of a static structure. Whether that restoration contributes to viability or organised persistence must be established for the case concerned.
 
 ## Repair as Continuity Restoration
 
-The central APS insight is that repair preserves organised persistence across disruption.
+Repair can contribute to organised persistence when damage disrupts organisation whose restoration is required for continued viable functioning.
 
-Damage threatens:
+Damage may affect viability, physiological integration, developmental processes, structural integrity, coordination, or other biological relations. Restorative processes may include wound healing, tissue repair, immune coordination, physiological compensation, cellular turnover, and developmental recovery.
 
-- viability,
-- coordination,
-- physiological integration,
-- developmental continuity,
-- and ecological responsiveness.
+These processes need not all occur together, and they need not operate across a predetermined range of spatial or temporal extents. A relatively local repair process may sometimes be sufficient to explain the restoration concerned. Other cases may require relations extending across tissues, physiological systems, developmental processes, or wider organism–environment interactions. The explanatory extent must be determined from the target.
 
-Repair processes restore sufficient organisational coherence for continuity to persist.
+Repair can therefore provide target-specific specification of how organised continuity is restored after particular disruptions. This does not make repair a universal mechanism of organised persistence. Organisms can persist without repairing every form of damage, and some forms of continuity may depend principally on processes other than repair.
 
-These processes may include:
-
-- wound healing,
-- tissue repair,
-- immune coordination,
-- physiological compensation,
-- cellular turnover,
-- and developmental recovery.
-
-APS therefore interprets repair as a continuity-maintaining organisational process operating across multiple biological scales simultaneously.
-
-Repair restores viability-oriented organisation even when prior structural states are not perfectly re-established.
-
-The persistence of the organism depends upon restoration of coordinated continuity rather than exact material reconstruction.
+Where restoration is required, what matters is sufficient re-establishment of the relevant biological organisation rather than exact material reconstruction.
 
 ## Regeneration and Developmental Reorganisation
 
-Regeneration extends continuity restoration further.
+Regeneration presents a related but distinguishable problem of biological restoration.
 
-Some living systems can restore:
+Some living systems can regenerate tissues, organs, appendages, or substantial body structures following loss or damage. Such regeneration may involve renewed morphogenesis, cellular proliferation and differentiation, pattern formation, signalling, spatial organisation, temporal regulation, or other developmental processes.
 
-- tissues,
-- organs,
-- appendages,
-- or substantial body structures
+APS does not require regeneration to be treated simply as a stronger or more extensive form of repair. Nor does this article impose a universal boundary between repair and regeneration. Their relation depends on the biological explanandum and on the processes through which restoration occurs.
 
-through coordinated developmental reorganisation following major disruption.
+Where regeneration involves renewed production or re-establishment of biological structure or organisation, developmental processes can provide important explanatory specificity. In some systems these processes may restore functions or organisation required for viability; in others regenerative outcomes may be incomplete, altered, or unrelated to immediate viability.
 
-Regeneration therefore involves renewed morphogenetic organisation.
-
-APS interprets regeneration not as miraculous reconstruction, but as the re-establishment of viable organisational continuity through developmental coordination.
-
-Regenerative systems reactivate:
-
-- developmental pathways,
-- spatial organisation,
-- signalling processes,
-- temporal regulation,
-- and continuity-maintaining coordination
-
-in order to restore functional integration across damaged systems.
-
-Regeneration demonstrates particularly clearly that biological organisation remains dynamically developmental throughout life.
-
-Living systems preserve continuity not through static preservation, but through renewed developmental reorganisation across time.
+Regeneration therefore illustrates how developmental organisation can participate in restoration after disruption without establishing that biological organisation is universally regenerative or that development and regeneration are identical.
 
 ## Constraint, Regulation, and Recovery
 
-Repair and regeneration require highly coordinated regulation.
+Repair and regeneration can involve coordinated regulation, but the regulatory dependencies differ among biological systems and restorative processes.
 
-Recovery depends upon:
+Depending on the target, recovery may involve signalling, timing, physiological integration, spatial organisation, biomechanical interaction, developmental coordination, immune activity, or other processes. No fixed list should be treated as universally required.
 
-- signalling,
-- timing,
-- physiological integration,
-- spatial organisation,
-- biomechanical interaction,
-- and developmental coordination.
+Constraints can also make a material difference to restorative outcomes. Existing tissue organisation, developmental history, physiological state, spatial relations, available resources, and other conditions may enable some forms of recovery while limiting others.
 
-Constraints play central organisational roles within recovery processes.
+APS therefore treats constraint as potentially productive as well as restrictive: constraints can help specify which restorative trajectories are available to a damaged system. This does not imply that repair always operates within a single set of viability-preserving limits or that successful restoration necessarily returns the system to a predetermined developmental trajectory.
 
-APS emphasises that constraints are organisationally productive rather than merely restrictive.
-
-Repair occurs within viability-preserving organisational limits that stabilise:
-
-- developmental trajectories,
-- tissue integration,
-- physiological coordination,
-- and functional recovery.
-
-Repair and regeneration therefore involve regulated developmental reorganisation rather than unconstrained structural reconstruction.
-
-Continuity is restored through coordinated developmental regulation operating across multiple interacting systems.
+Repair and regeneration should instead be explained through the regulatory and constraining relations that make a difference to the recovery process concerned.
 
 ## Repair, Resilience, and Viability
 
-Repair contributes directly to biological resilience.
+Repair can contribute to biological resilience where restorative processes allow a system to recover organisation or function following disruption.
 
-Living systems capable of recovery may preserve continuity despite:
+Living systems capable of recovery may maintain or re-establish viable organisation after injury, environmental stress, developmental instability, physiological disruption, or other perturbations. But repair, resilience, and viability should remain distinct concepts.
 
-- injury,
-- environmental stress,
-- developmental instability,
-- physiological disruption,
-- and ecological perturbation.
+Resilience concerns the capacity to withstand, accommodate, or recover from perturbation. Repair is one possible contributor to such recovery. A resilient system may sometimes persist through compensation, redundancy, behavioural change, physiological adjustment, or other processes without repairing the original damage.
 
-APS interprets resilience not as rigid resistance to change, but as the capacity to restore continuity through adaptive reorganisation.
+Likewise, a repair process is not necessarily sufficient to restore viability, and successful local repair need not entail recovery of the system as a whole. Whether repair contributes to resilience or viability must therefore be established for the biological case concerned.
 
-Viable systems persist because they remain capable of:
-
-- compensation,
-- recovery,
-- developmental adjustment,
-- and continuity restoration.
-
-Repair therefore represents one of the central mechanisms through which organised persistence remains viable across changing and disruptive conditions.
+Repair is consequently one possible route through which organised persistence may be supported following disruption, not a universal mechanism through which persistence remains viable.
 
 ## Limits of Repair
 
-Repair capacities are not unlimited.
+Repair capacities are finite and variable.
 
-Over time:
+Regenerative capacity may decline, physiological integration may weaken, developmental flexibility may change, and recovery may become incomplete or unstable. Some forms of damage exceed the restorative capacities of the affected system altogether.
 
-- regenerative capacity may decline,
-- physiological integration may weaken,
-- developmental flexibility may decrease,
-- and recovery may become incomplete or unstable.
+Ageing can alter repair and regenerative capacities, but the relation is not uniform across organisms, tissues, or restorative processes. Declining restoration may contribute to increasing vulnerability in some cases without providing a complete explanation of ageing itself.
 
-Ageing frequently involves progressive weakening of continuity-restoring organisation.
+APS therefore treats repair as operating within system-specific limits. The relevant limits may concern available cells, physiological resources, regulatory capacities, tissue organisation, developmental possibilities, environmental conditions, or other dependencies.
 
-Some forms of damage may exceed the recovery capacities of the organism altogether.
-
-APS therefore interprets repair as operating within finite organisational limits.
-
-Continuity-maintaining systems remain vulnerable to:
-
-- accumulated disruption,
-- escalating instability,
-- chronic degeneration,
-- and irreversible breakdown.
-
-The persistence of life depends upon maintaining sufficient continuity-restoring capacity across time.
+Where persistence relies on restoration after particular forms of damage, declining repair capacity can increase vulnerability. This conditional relation should not be converted into the stronger claim that persistence of life in general depends upon maintaining a universal continuity-restoring capacity.
 
 ## Perturbation, Fragility, and Organisational Exposure
 
-Repair and regenerative failure also reveal important features of developmental organisation itself.
+Repair and regenerative failure can reveal features of biological organisation that remain difficult to identify under ordinary conditions.
 
-Breakdowns in recovery may expose:
+Breakdowns in recovery may expose hidden dependencies, developmental constraints, physiological vulnerabilities, spatial relations, or environmental conditions that contribute to successful restoration. Perturbation can therefore be diagnostically informative.
 
-- hidden organisational dependencies,
-- developmental constraints,
-- physiological vulnerabilities,
-- and ecological fragilities
+The explanatory value lies not in assuming that every exposed relation is a universal continuity-maintaining structure, but in identifying which dependencies become visible when recovery fails. A failed wound response, impaired regeneration, or unsuccessful physiological compensation may reveal different organisational requirements.
 
-that ordinarily remain stabilised under less disruptive conditions.
+Repair and regenerative fragility therefore provide useful experimental and comparative windows into the organisation of particular biological systems. This connects the study of repair with questions of diagnosis, malfunction, resilience, and developmental fragility without collapsing those explananda into one another.
 
-APS consequently treats perturbation as diagnostically informative.
+## Repair, Regeneration, and Evolution
 
-The limits of repair reveal the continuity-maintaining structures upon which viable persistence depends.
+Repair and regenerative capacities vary substantially among organisms and evolutionary lineages.
 
-Regenerative fragility therefore becomes an important explanatory window into the organisational architecture of living systems.
+Evolutionary history can influence regenerative potential, developmental processes, physiological recovery, and other restoration capacities. Conversely, variation in repair or regeneration may become evolutionarily relevant where it affects survival, reproduction, inheritance, selection, or other population-level processes.
 
-This perspective strongly links repair and regeneration with APS discussions of diagnosis, malfunction, resilience, and developmental fragility.
+These relations must be established for the evolutionary case concerned. The existence of repair or regeneration does not by itself connect development, physiology, ecology, resilience, and evolution into a single explanatory chain.
 
-## Repair, Regeneration, and evolution
+Repair capacities may influence viability in particular environments, while ecological conditions may affect the costs, benefits, or opportunities associated with restoration. Regenerative traits may also evolve under lineage-specific developmental and selective conditions. None of these possibilities establishes that repair or regeneration is intrinsically evolutionary or that evolutionary continuity universally depends upon restoration capacity.
 
-Repair and regenerative capacities vary substantially across organisms and evolutionary lineages.
-
-evolution shapes:
-
-- regenerative potential,
-- developmental flexibility,
-- physiological resilience,
-- and organisational recovery strategies.
-
-At the same time, repair capacities influence:
-
-- survival,
-- ecological persistence,
-- developmental stability,
-- evolutionary possibility,
-- and long-term viability.
-
-APS therefore interprets repair and regeneration as continuity processes linking:
-
-- development,
-- physiology,
-- ecology,
-- resilience,
-- and evolution
-
-within a unified organisational framework.
-
-Evolutionary continuity depends partly upon the capacity of living systems to preserve viability across disruption and instability.
+APS therefore treats repair and regeneration as possible contributors to evolutionary explanation where the relevant historical and population-level dependencies are demonstrated.
 
 ## Repair and Regeneration in APS
 
-APS interprets repair and regeneration as:
+APS treats repair and regeneration as related biological problems concerning restoration after disruption.
 
-- continuity-restoring developmental processes,
-- through which viable organisation reorganises itself following disruption, damage, and perturbation.
+Repair concerns processes through which damaged or disrupted organisation may be restored sufficiently for relevant organisation or function to continue or be re-established. Regeneration may involve renewed production or re-establishment of biological structure or organisation and can recruit developmental processes such as morphogenesis, differentiation, signalling, and pattern formation.
 
-This perspective shifts explanation away from static reconstruction and toward the organisational processes through which continuity is re-established within dynamically changing living systems.
+Both can contribute to viability and organised persistence in biological systems where restoration is required after damage. Neither should be defined as universally necessary for persistence, and neither should be assumed to operate across multiple biological extents unless the explanandum requires those relations.
 
-Repair restores viability-oriented continuity through adaptive developmental reorganisation rather than exact replacement of prior structure.
+Their exact conceptual relation should likewise be established for the biological case rather than fixed by treating regeneration as simply an intensified form of repair or by collapsing both into a single continuity-restoring process.
 
-Living systems persist not because disruption never occurs, but because biological organisation remains capable of restoring continuity across injury, instability, and change.
-
-Repair and regeneration are therefore central expressions of organised persistence across time.
-
+The APS contribution is therefore methodological as well as organisational: identify what has been disrupted, what is restored or re-established, which materially realised processes make that restoration possible, and what explanatory difference the restoration makes to viability or persistence in the system concerned.
