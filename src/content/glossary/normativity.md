@@ -8,7 +8,7 @@ inBrief: "Normativity is the viability-relative distinction between what support
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-16
-revised: 2026-07-28
+revised: 2026-10-01
 cluster: conceptual-foundations
 
 seeAlso:
@@ -131,6 +131,8 @@ APS consequently distinguishes:
 - from **normativity**, which refers to the asymmetrical significance of conditions relative to those viability constraints.
 
 This distinction is foundational for the explanatory structure of APS.
+
+Viability-relative biological normativity should not be extended to every preference expressed by a living agent. Viability grounds the biological distinction between conditions that support or undermine organised persistence, but it does not follow that every learned, affective, social, or other preference realised within a living system is itself directly viability-relative. Such preferences require their own explanatory warrant.
 
 ## Normativity and Persistence
 

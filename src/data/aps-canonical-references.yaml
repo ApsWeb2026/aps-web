@@ -5093,3 +5093,15 @@ references:
     status: verified
     authority: Wellcome Collection / Google Books
     verifiedDate: 2026-09-28
+- id: desmond-2026-organismic-agency
+  type: journal-article
+  authors: Desmond, H.
+  year: 2026
+  title: "Organismic Agency as the Principle of Individual Selection"
+  journal: "Biological Theory"
+  publisher: "Springer Nature"
+  doi: 10.1007/s13752-026-00553-8
+  verification:
+    status: verified
+    authority: "Springer Nature"
+    verifiedDate: 2026-10-01
