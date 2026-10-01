@@ -5105,3 +5105,55 @@ references:
     status: verified
     authority: "Springer Nature"
     verifiedDate: 2026-10-01
+- id: chu-gong-2026-beyond-cellular-cave
+  type: journal-article
+  authors: "Chu, H., & Gong, T."
+  year: 2026
+  title: "Beyond the cellular cave: A teleodynamic reconsideration of the epistemic-closure thesis in cellular life"
+  journal: "BioSystems"
+  volume: "269"
+  article-number: "105955"
+  doi: 10.1016/j.biosystems.2026.105955
+  verification:
+    status: verified
+    authority: "Elsevier / BioSystems"
+    verifiedDate: 2026-10-01
+- id: rosciglione-2026-plant-intelligence
+  type: journal-article
+  authors: "Rosciglione, C."
+  year: 2026
+  title: "Plant Behaviour, Adaptive Plasticity and Evolution: Reassessing the Debate on Plant Intelligence"
+  journal: "Biology"
+  volume: "15"
+  issue: "18"
+  article-number: "1632"
+  doi: 10.3390/biology15181632
+  verification:
+    status: verified
+    authority: "Biology / MDPI"
+    verifiedDate: 2026-10-01
+- id: shevchenko-2026-missing-variability
+  type: journal-article
+  authors: "Shevchenko, S."
+  year: 2026
+  title: "The Missing Variability Problem in Cancer Prediction: Integrating Multilevel Factors"
+  journal: "Biological Theory"
+  doi: 10.1007/s13752-026-00554-7
+  verification:
+    status: verified
+    authority: "Springer Nature / Biological Theory"
+    verifiedDate: 2026-10-01
+- id: walsh-rupik-2023-agential-perspective
+  type: journal-article
+  authors: "Walsh, D. M., & Rupik, G."
+  year: 2023
+  title: "The Agential Perspective: Countermapping the Modern Synthesis"
+  journal: "Evolution & Development"
+  volume: "25"
+  issue: "6"
+  pages: "335–352"
+  doi: 10.1111/ede.12448
+  verification:
+    status: verified
+    authority: "Wiley / Evolution & Development"
+    verifiedDate: 2026-10-01

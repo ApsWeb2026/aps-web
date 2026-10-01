@@ -4,18 +4,18 @@ title: "Morphogenesis"
 slug: morphogenesis
 
 abstract: >
-  In APS, morphogenesis is understood not as the execution of a static
-  structural blueprint, but as the regulated emergence, stabilisation,
-  and maintenance of viable organisational form through
-  continuity-preserving developmental processes operating across time
-  and space.
+  In APS, morphogenesis is the generation, maintenance, and reorganisation
+  of biological form through developmental processes. Explaining a
+  morphogenetic outcome requires identifying the processes and dependencies
+  responsible for the form or transformation concerned without assuming
+  that morphogenesis necessarily preserves viability, organised persistence,
+  individuality, or evolutionary continuity.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 role: core
 
@@ -91,18 +91,6 @@ references:
     title: "Everything Flows: Towards a Processual Philosophy of Biology"
     publisher: "Oxford University Press"
 
-  - id: mossio2023
-    authors: "Mossio, M."
-    year: 2023
-    title: "Biological Functions"
-    publisher: "Cambridge University Press"
-
-  - id: kupiec2024
-    authors: "Kupiec, J.-J."
-    year: 2024
-    title: "The Origin of Individuals"
-    publisher: "World Scientific"
-
   - id: spencer2026
     authors: "Spencer, R. D."
     year: 2026
@@ -111,214 +99,65 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Biological form is one of the central problems of life.
+Biological form is a central problem of development. Tissues, organs, body plans, spatial arrangements, and other structural configurations arise through developmental processes rather than appearing as completed structures independently of them. Form can subsequently be maintained, remodelled, disrupted, or lost as development proceeds.
 
-Living systems generate:
+Morphogenesis concerns the processes through which biological form is generated, maintained, and reorganised. It is therefore distinct from morphology: morphology identifies form or structural configuration, whereas morphogenesis concerns the developmental processes responsible for producing or transforming it.
 
-- tissues,
-- organs,
-- body plans,
-- physiological architectures,
-- behavioural capacities,
-- and highly coordinated structural organisation
+Neither form nor its production determines in advance what that form contributes to the living system. A morphogenetic outcome may support continued functioning or organised persistence, but morphogenesis can also produce altered, malformed, arrested, pathological, or non-viable outcomes. Its occurrence therefore does not by itself establish viability, persistence, biological individuality, adaptation, or evolutionary significance.
 
-through developmental processes that remain dynamically active throughout life.
-
-At the same time, biological form is never completely static.
-
-Living structures:
-
-- grow,
-- reorganise,
-- repair themselves,
-- adapt,
-- age,
-- and continuously exchange material with their environments,
-
-while nonetheless maintaining sufficient organisational continuity to remain viable organisms.
-
-APS consequently interprets morphogenesis not as the execution of a static structural blueprint, but as the regulated emergence, stabilisation, and maintenance of viable organisational form across time.
-
-The central morphogenetic question is therefore not simply:
-
-> How are biological structures constructed?
-
-but:
-
-> How does coherent form emerge and persist through continuously changing developmental organisation?
-
-This shifts explanation away from static architecture and toward continuity-preserving developmental organisation that stabilises viable form across time and space.
+APS approaches morphogenesis by asking which materially realised developmental dependencies explain the form or transformation concerned. Genetic activity, cellular interaction, signalling, mechanical forces, physiological conditions, environmental relations, and other processes can all be relevant, but their explanatory importance depends on the biological system and target under investigation.
 
 ## Morphogenesis as a Biological Problem
 
-Morphogenesis concerns the emergence and organisation of biological form.
+Morphogenesis presents a distinctive explanatory problem because biological structures are produced and transformed through the activity of developing systems themselves. Cells divide, move, differentiate, die, alter their relations to neighbouring cells, and change the mechanical and chemical conditions under which further development occurs. Tissues can fold, branch, fuse, remodel, or disappear, so the form observed at one point in development may differ substantially from that observed earlier or later.
 
-Living systems generate:
+Explaining these transformations requires more than describing the resulting morphology. Description can establish what form is present, how structures are arranged, or how morphology differs between conditions. Morphogenetic explanation asks what processes and dependencies generated that form or produced the observed change.
 
-- differentiated tissues,
-- spatial organisation,
-- structural asymmetries,
-- coordinated body plans,
-- and integrated physiological architectures
+The distinction remains important even when a form is stable for an extended period. Morphological stability may itself require explanation, but it should not be attributed in advance to a universal continuity-preserving mechanism. Active regulation may contribute in one case, while structural, mechanical, cellular, physiological, or environmental conditions may account for stability in another. The appropriate explanation depends on the target.
 
-through distributed developmental processes.
-
-This presents a profound explanatory challenge.
-
-Biological structures are not externally assembled in the manner of engineered artefacts. Organisms continuously generate and maintain their own form through coordinated developmental activity.
-
-Moreover, living form remains dynamically active rather than structurally fixed.
-
-Cells divide and die. Tissues reorganise. Structures remodel. Physiological relations shift continuously.
-
-Yet organisms preserve sufficient organisational continuity to remain viable despite these ongoing transformations.
-
-APS therefore interprets morphogenesis as a problem of organised persistence rather than static construction.
+Nor are morphogenetic outcomes restricted to successful development. Development can generate coherent and functional structures, but it can also produce abnormal patterning, incomplete structures, developmental arrest, loss of organisation, or forms incompatible with continued viability. These remain morphogenetic outcomes because the explanandum is the generation or transformation of biological form, not successful persistence as such.
 
 ## Historical Approaches to Biological Form
 
-Questions concerning biological form extend throughout the history of biology and philosophy.
+Questions about the production of biological form extend throughout the history of biology and philosophy. Classical biological thought often interpreted form through organismal unity and purposive organisation, while later mechanistic approaches increasingly sought explanations in anatomy, physical causation, embryological mechanism, and physiological interaction.
 
-Classical biological thought often interpreted form through organismal unity and purposive organisation.
+Twentieth-century developmental biology added increasingly powerful molecular and informational accounts. Genes came to be described through metaphors of developmental instructions, architectural blueprints, regulatory programs, and informational codes. Such language was scientifically productive: it drew attention to reproducible relations between genetic activity and developmental outcomes and supported increasingly precise investigation of developmental regulation.
 
-Mechanistic biology later increasingly interpreted form through:
+Problems arise when these metaphors are treated as complete explanations of form. A genetic contribution to morphogenesis does not entail that the final structure is represented in complete structural detail in advance or that development consists simply in executing a pre-specified plan. Developmental outcomes can depend on interactions among genetic activity, cellular behaviour, signalling, physical and mechanical conditions, and other processes whose relevance varies with the system under investigation.
 
-- anatomy,
-- physical causation,
-- embryological mechanism,
-- and physiological interaction.
-
-Twentieth-century developmental biology introduced increasingly powerful molecular and informational approaches.
-
-Genes came to be described as:
-
-- developmental instructions,
-- architectural blueprints,
-- regulatory programs,
-- and informational codes.
-
-These metaphors proved scientifically productive and contributed substantially to developmental research.
-
-However, they also encouraged increasingly simplified interpretations of morphogenesis as the execution of pre-specified structural instructions.
-
-Contemporary developmental biology has increasingly recognised that biological form depends upon:
-
-- distributed regulation,
-- biomechanical interaction,
-- ecological coupling,
-- developmental plasticity,
-- self-organisation,
-- and temporally coordinated processes operating across multiple scales.
-
-Process biology, ecological developmental biology, morphogenetic field theories, and developmental systems approaches all reflect growing recognition that biological form emerges through dynamically organised developmental continuity.
-
-APS develops within this broader organisational reorientation.
+Contemporary approaches have consequently examined morphogenesis through a wider range of causal and organisational relations, including self-organisation, developmental regulation, biomechanical interaction, plasticity, environmental effects, and processual change. APS develops within this broader explanatory setting while retaining a target-dependent requirement: no particular dependency should be treated as universally constitutive of morphogenesis merely because it is important in some morphogenetic systems.
 
 [[box:development-is-not-genetic-execution]]
 
 ## Beyond Blueprint and Instruction Metaphors
 
-Blueprint and instruction metaphors capture important aspects of developmental coordination, but they remain incomplete explanations of biological form.
+Recognising the limitations of a simple blueprint model does not require replacing genetic instruction with another universal account of morphogenesis. Genes can be indispensable to particular morphogenetic processes while remaining only part of the explanation of the resulting form. The question is therefore not whether genes or organisation should receive priority in the abstract, but which dependencies are required to account for the morphogenetic outcome concerned.
 
-Genes contribute centrally to morphogenesis. However, genes alone do not independently explain:
+Gene expression and local cellular interactions may explain much of the relevant patterning in one system; tissue mechanics, signalling relations, physiological conditions, or environmental inputs may also be required in another. The causal architecture can also change with the explanandum. Explaining the initiation of a structure, its spatial arrangement, its subsequent maintenance, and its transformation under altered conditions need not require the same dependencies.
 
-- spatial organisation,
-- tissue integration,
-- developmental robustness,
-- repair,
-- regeneration,
-- plasticity,
-- or the continuity of viable morphology across time.
+APS accordingly treats genetic, cellular, mechanical, physiological, and environmental contributions as candidate explanatory relations rather than as a fixed inventory that every morphogenetic explanation must contain. This preserves the legitimate criticism of simple instruction models without turning distributed organisation, environmental coupling, or multiscale interaction into equally universal substitutes.
 
-Morphogenesis depends upon coordinated interactions among:
+The same caution applies to spatial and temporal extent. Morphogenesis necessarily unfolds through processes occurring in time and space, but the extent relevant to explanation must be established for each case. Some questions may be resolved through relatively local interactions; others require relations among tissues, organs, whole organisms, or environmental conditions. Processes operating over different extents do not by themselves make every morphogenetic explanandum intrinsically multiscale.
 
-- genes,
-- cells,
-- tissues,
-- biomechanical forces,
-- physiological systems,
-- environmental conditions,
-- and temporally organised regulatory processes.
+## Morphogenesis, Form, and Organised Persistence
 
-APS therefore rejects purely informational models of form generation.
+Morphogenesis and organised persistence are related explanatory targets, but they are not identical. A morphological configuration can contribute materially to continued functioning: the production or maintenance of a particular structure may enable physiological activity, movement, resource acquisition, protection, or other processes relevant to viability. Where such a contribution is established, morphogenesis can form part of an explanation of organised persistence.
 
-Biological form is not statically encoded in complete detail prior to development.
+That relation must nevertheless be demonstrated rather than inferred from the existence of biological form. Morphogenesis can generate structures with no established contribution to viability, as well as outcomes that are neutral or adverse with respect to continued functioning. Malformation, pathological growth, disrupted patterning, and non-viable development remain genuine instances of morphogenetic change.
 
-Rather, form emerges through continuity-preserving organisational processes distributed across dynamically interacting systems.
+Maintenance of form must likewise be distinguished from persistence of the organism. A structure can remain morphologically stable while other aspects of biological organisation change, just as an organism can remain continuous while undergoing substantial morphological transformation. Morphological continuity therefore neither defines nor independently establishes organised persistence.
 
-Genes participate in morphogenesis, but viable form emerges through broader developmental organisation extending across multiple spatial and temporal scales.
-
-## Form as Organised Persistence
-
-The central APS morphogenetic principle is that biological form constitutes a viability-preserving organisational structure rather than merely a geometric arrangement of parts.
-
-Living form exists because:
-
-- structure,
-- function,
-- regulation,
-- behaviour,
-- and viability
-
-remain sufficiently integrated across time.
-
-Morphological organisation is therefore inseparable from:
-
-- physiological activity,
-- ecological interaction,
-- developmental regulation,
-- and continuity maintenance.
-
-An organism persists morphologically not by preserving fixed material structure, but by continuously reorganising itself in ways that preserve viable persistence.
-
-This principle applies across development.
-
-Embryonic, juvenile, mature, and ageing organisms may differ profoundly in:
-
-- morphology,
-- physiology,
-- behaviour,
-- and ecological relation,
-
-while still maintaining continuity of organised persistence across transformation.
-
-APS therefore interprets biological form as dynamically organised persistence rather than static architecture.
-
-Morphogenetic organisation persists through dynamically coordinated constraints regulating viable form across developmental transformation.
+Where a form contributes to viable organisation, APS asks what that contribution is and which processes produce or maintain it. Where the relation is absent, uncertain, or adverse, morphogenesis remains explicable without redescribing the outcome as persistence.
 
 ## Constraint, Spatial Organisation, and Coordination
 
-Morphogenesis depends upon highly coordinated developmental organisation.
+Morphogenesis frequently depends on constraints that restrict, enable, or channel developmental possibilities. Geometric relations, tissue boundaries, mechanical properties, signalling conditions, rates of growth, cellular interactions, and other constraints can influence which forms arise and how developmental trajectories proceed.
 
-Developmental systems regulate:
+Constraint should not, however, be equated with successful stabilisation. It can contribute to a stable and viable form, but it can also channel development towards alternative, abnormal, arrested, or non-viable outcomes. Its explanatory significance lies in the difference it makes to the morphogenetic process rather than in an assumed contribution to persistence.
 
-- spatial differentiation,
-- tissue organisation,
-- mechanical interaction,
-- signalling,
-- timing,
-- and structural integration.
+Spatial organisation provides a clear example. Patterns of differentiation, tissue arrangement, structural asymmetry, and mechanical relation can depend on coordinated interactions among developmental processes. Local relations may suffice to explain one pattern, whereas another may require dependencies extending across larger portions of a developing system. Relevant spatial extent is therefore determined by the morphogenetic target rather than by a prior commitment to a hierarchy of developmental scales.
 
-Constraints play particularly important roles within these processes.
-
-APS emphasises that constraints are not merely restrictive. They are organisationally productive.
-
-By constraining developmental possibilities, morphogenetic systems stabilise viable forms while preserving adaptive flexibility.
-
-Spatial organisation emerges through:
-
-- coordinated developmental trajectories,
-- reciprocal interaction,
-- mechanical forces,
-- feedback processes,
-- and continuity-preserving regulation.
-
-Morphogenesis therefore involves continuous interaction among:
-
-- constraint,
-- variability,
-- coordination,
-- and adaptive responsiveness.
+Temporal coordination is similarly important where the timing, sequence, duration, or overlap of developmental processes affects the resulting form. Temporality itself is not a mechanism: explanation requires identification of the processes whose temporal relations make a difference to the outcome. Coordination and constraint can therefore remain central explanatory resources without being assumed to preserve viability, confer adaptive flexibility, or sustain continuity.
 
 [[box:developmental-stability-is-not-rigidity]]
 
@@ -326,154 +165,72 @@ Morphogenesis therefore involves continuous interaction among:
   <a href="/assets/diagrams/morphogenesis-visual.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/morphogenesis-visual.png"
-      alt="Morphogenesis as dynamically organised viable form"
+      alt="Morphogenesis as the developmental generation, maintenance, and reorganisation of biological form"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Morphogenesis and Organised Persistence.</strong>
-    Biological form emerges through dynamically coordinated
-    developmental organisation that stabilises viable continuity across
-    spatial, physiological, ecological, and temporal transformation.
+    <strong>Morphogenesis and Biological Form.</strong>
+    Morphogenesis concerns the developmental processes through which biological
+    form is generated, maintained, or reorganised. The dependencies required to
+    explain a particular morphogenetic outcome depend on the biological system
+    and explanatory target concerned.
   </p>
 </div>
 
-## Morphogenesis and Environmental Coupling
+## Morphogenesis and Environmental Relations
 
-Morphogenesis never occurs independently of environmental conditions.
+Environmental conditions can contribute materially to morphogenesis, but their explanatory role varies among biological systems and targets. Physical conditions, resource availability, mechanical forces, microbial relations, ecological interactions, behaviour, social environments, or technological scaffolds may affect developmental form where the relevant dependencies are present.
 
-Developmental organisation continuously interacts with:
+The mere presence of an environment around every developing system does not place every environmental relation within every morphogenetic explanation. Background conditions, causal influences, and dependencies required to explain the particular form or transformation must therefore be distinguished.
 
-- ecological systems,
-- physical environments,
-- nutritional conditions,
-- biomechanical forces,
-- microbial systems,
-- social environments,
-- and technological scaffolds.
+Some morphogenetic processes may be explained largely through relations within cells or tissues, whereas others depend on environmental inputs or organism–environment interactions that materially alter developmental trajectories. Developmental plasticity provides an important context for such cases because similar developing systems can produce different morphological outcomes under different conditions. Even then, the relevant environmental variable and the developmental processes through which it affects form must be identified.
 
-Environmental conditions therefore participate directly in the organisation of biological form.
+Human development can likewise involve social, cultural, behavioural, and technological conditions that affect biological development. Where these relations make a demonstrated difference to morphological outcomes, they belong within the explanation; their importance in those cases does not make social or technological organisation intrinsic to morphogenesis in general.
 
-APS interprets morphogenesis as organism–environment co-organisation across time.
+APS therefore neither confines morphogenesis to processes internal to an organism nor defines it as organism–environment co-organisation. The explanatory boundary follows the dependencies required by the case.
 
-This perspective helps explain:
+## Morphogenesis, Repair, Regeneration, and Perturbation
 
-- developmental plasticity,
-- ecological responsiveness,
-- adaptive morphology,
-- niche construction,
-- and socially scaffolded development.
+Repair and regeneration can involve morphogenetic processes because restoring or replacing damaged structures may require the generation or reorganisation of biological form. They nevertheless remain distinct explananda. Repair concerns responses to damage or disruption, while regeneration concerns the restoration or replacement of lost or damaged structures. Morphogenesis participates where developmental activity generates, maintains, or reorganises the relevant form; not every morphogenetic process is therefore repair or regeneration.
 
-Human morphological development especially depends upon:
+The distinction becomes particularly important when recovery is incomplete or unsuccessful. Following perturbation, a system may restore an earlier form, produce an alternative configuration, compensate only partially, remain malformed, or fail to recover. Each outcome can reveal dependencies within the developmental process, so successful restoration is not uniquely informative.
 
-- social interaction,
-- cultural systems,
-- technological environments,
-- and symbolic coordination.
+Perturbation is useful because changing or disrupting a candidate dependency can expose relations that remain difficult to identify under relatively stable conditions. The resulting evidence can help establish which processes contribute to the generation, maintenance, or reorganisation of form and where their capacities or limits lie. It does not presuppose that the organisation being perturbed normally guarantees viability or persistence.
 
-Morphogenesis therefore extends beyond isolated physiology into broader ecological and social continuity systems.
-
-## Robustness, Repair, and Regeneration
-
-Living form remains viable because morphogenetic organisation is capable of repair and recovery.
-
-Biological systems continuously experience:
-
-- damage,
-- perturbation,
-- instability,
-- and structural disruption.
-
-Morphogenetic regulation therefore includes:
-
-- repair,
-- regeneration,
-- compensatory development,
-- and continuity restoration.
-
-APS interprets repair as the re-establishment of viable organisational integration following disruption.
-
-Regeneration extends this principle further by restoring lost or damaged structures through coordinated developmental reorganisation.
-
-Morphogenesis therefore continues throughout life rather than ending after embryonic development.
-
-Living form persists through ongoing continuity-preserving organisation.
+Morphogenetic activity can occur beyond embryonic development wherever biological form is actively generated, maintained, or reorganised. This does not make all maintenance, repair, regeneration, or later-life change morphogenetic by definition. The classification depends on whether processes responsible for form are part of the explanandum concerned.
 
 [[box:perturbation-reveals-organisation]]
 
-## Ageing and Morphological Deterioration
+## Ageing and Morphological Change
 
-Ageing involves progressive weakening of morphogenetic continuity-preserving organisation.
+Ageing can involve substantial morphological change, including alterations in tissue architecture, structural integrity, remodelling, repair, and other features of biological form. These changes provide targets for morphogenetic investigation where developmental or form-producing processes contribute to their occurrence.
 
-Over time:
+Morphological change during ageing should not, however, be taken to show that ageing is simply the progressive failure of morphogenesis. Ageing includes processes and outcomes beyond the generation and maintenance of form, while morphological deterioration can result from different combinations of cellular, physiological, mechanical, regulatory, or environmental dependencies.
 
-- repair capacity declines,
-- structural integration weakens,
-- adaptive flexibility decreases,
-- and vulnerability to perturbation increases.
+The same distinction applies to repair and resilience. Age-related changes in repair capacity may affect morphology, and altered morphology may in turn affect other biological processes, but these relations require evidence for the system concerned. Declining morphological integrity does not by itself demonstrate a general weakening of organised persistence, just as preservation of morphology does not establish that the wider organisation remains viable.
 
-APS interprets ageing not simply as passive deterioration, but as gradual weakening in the capacity of morphogenetic organisation to preserve viable structural persistence.
-
-Morphological fragility therefore reflects declining organisational integration across developmental systems.
-
-This links morphogenesis directly to:
-
-- resilience,
-- malfunction,
-- degeneration,
-- and breakdown.
+Morphogenesis therefore contributes to the study of ageing where the production, maintenance, or transformation of form is the relevant target. Ageing itself remains a distinct explanandum.
 
 ## Morphogenesis and Evolution
 
-Morphogenesis and evolution are deeply interconnected continuity processes.
+Morphogenesis and evolution are connected because developmental processes contribute to the production of phenotypic form, while evolutionary history can influence the developmental systems through which those forms arise. These relations are important without making morphogenesis and evolution instances of a single continuity process.
 
-Evolution shapes:
+Morphogenetic processes can affect which morphological variants are produced and how developmental variation is structured. Developmental constraints can influence the range or distribution of possible phenotypic outcomes, and changes in developmental processes can alter the forms presented to selection. Such relations can matter to questions about variation, evolvability, and evolutionary transformation.
 
-- body plans,
-- developmental constraints,
-- morphogenetic possibilities,
-- and organisational architectures.
+Further dependencies are required, however, before a morphogenetic outcome can be characterised as an adaptation or evolutionary change. Adaptation concerns historically established relations involving heritable variation, differential consequences, and evolutionary processes; natural selection concerns differential historical outcomes across relevant populations or lineages. Producing a form during development does not by itself establish those relations.
 
-At the same time, developmental organisation shapes:
+A morphological feature may likewise affect fitness in a particular environment, but that effect must be demonstrated rather than inferred from the feature's development or persistence. Developmental production, organismic viability, reproductive consequences, inheritance, selection, and evolutionary transformation therefore remain distinct explananda even where they participate in the same biological history.
 
-- variation,
-- adaptability,
-- evolvability,
-- and ecological responsiveness.
-
-APS therefore interprets morphogenesis as a bridge between developmental persistence and evolutionary continuity.
-
-This perspective helps integrate:
-
-- developmental biology,
-- ecology,
-- evolution,
-- and organised persistence
-
-within a unified explanatory architecture.
+APS accordingly treats development–evolution relations as dependencies to be established rather than consequences of morphogenesis by definition. Morphogenesis can contribute to evolutionary explanation without becoming synonymous with adaptation, evolvability, selection, or evolutionary continuity.
 
 ## Why Morphogenesis Matters in APS
 
-APS interprets morphogenesis as:
+Morphogenesis matters because biological form requires explanation. Morphology identifies the form or structural configuration present; morphogenesis asks how that form was generated, maintained, or reorganised through developmental processes.
 
-- the regulated emergence and maintenance of viable organisational form,
-- through continuity-preserving developmental processes operating across time and space.
+APS approaches this question without assuming a universal morphogenetic architecture. Genetic activity, cellular interactions, signalling, mechanical relations, physiological conditions, environmental influences, constraints, and temporal coordination may contribute to particular cases, but the relevant dependencies and their spatial or temporal extent must be established for the target concerned.
 
-This perspective shifts morphogenetic explanation away from static blueprints, purely informational instructions, or isolated structural mechanisms.
+This also preserves distinctions obscured when biological form is identified directly with viable organisation. Morphogenesis may contribute to organised persistence, repair, regeneration, resilience, biological individuality, adaptation, or evolutionary change, but none of these relations follows merely from the occurrence of morphogenesis. Beneficial, neutral, adverse, malformed, arrested, and non-viable outcomes remain admissible.
 
-Biological form is instead understood as dynamically organised persistence maintained through ongoing developmental regulation.
-
-Living form persists not as fixed structure, but as viability-oriented organisation continuously maintained across transformation.
-
-Morphogenesis consequently becomes one of the central explanatory concepts linking:
-
-- development,
-- persistence,
-- ecology,
-- resilience,
-- repair,
-- ageing,
-- and evolution
-
-within the broader APS framework.
+The explanatory task is therefore not to redescribe biological form as persistence. It is to identify the developmental processes and materially realised dependencies that account for the generation and transformation of the form concerned, and then to establish separately what that form contributes to the biological system.

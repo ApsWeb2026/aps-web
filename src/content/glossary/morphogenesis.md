@@ -3,23 +3,21 @@ date: 2026-05-27
 title: Morphogenesis
 slug: morphogenesis
 type: glossary
-
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 
 definition: >
-  Morphogenesis is the viability-oriented emergence, maintenance,
-  and reorganisation of biological form through coordinated
-  developmental processes operating across time, scale,
-  and ecological interaction.
+  Morphogenesis is the generation, maintenance, and reorganisation
+  of biological form through coordinated developmental processes.
+  The processes and relations required to explain morphogenesis
+  depend on the biological system and explanatory target concerned.
 
 inBrief: >
-  Morphogenesis is the organised developmental production and
-  maintenance of viable biological form.
+  Morphogenesis is the developmental generation and reorganisation
+  of biological form.
 
 seeAlso:
   - development
@@ -39,84 +37,42 @@ seeAlso:
 
 Morphogenesis is traditionally understood as the generation of biological form during development.
 
-Classical approaches often interpret morphogenesis as:
-- the execution of developmental instructions,
-- the unfolding of genetically specified structures,
-- or the mechanical production of anatomy through local developmental mechanisms.
-
-From this perspective, biological form is frequently treated as the outcome of pre-specified structural programs.
+Classical approaches often interpret morphogenesis in terms of developmental instructions, genetically specified patterning, or local cellular and mechanical processes through which anatomical structures are produced. Such approaches provide important accounts of particular morphogenetic mechanisms, although biological form should not be assumed to result from a static developmental blueprint.
 
 ## APS reframing
 
-APS interprets morphogenesis organisationally rather than instructionally.
+APS interprets morphogenesis organisationally rather than as the execution of a pre-specified structural program.
 
-Morphogenesis is not the execution of a static blueprint.
+Morphogenesis concerns the coordinated developmental processes through which biological form emerges, is maintained, or is reorganised. Depending on the case, these processes may include growth, differentiation, tissue coordination, signalling, mechanical interaction, or other materially relevant developmental relations.
 
-It is the ongoing coordination of viability-oriented developmental processes through which biological form emerges, stabilises, reorganises, and persists across changing conditions.
+Biological form is therefore not necessarily a fixed structure produced once during development. It may change substantially as developmental processes continue, and explaining those changes requires identifying the processes and dependencies responsible for the form or transformation concerned.
 
-Biological form is therefore:
-- dynamic rather than fixed,
-- processual rather than static,
-- and organisational rather than merely structural.
-
-Morphogenesis includes:
-- tissue coordination,
-- growth,
-- differentiation,
-- repair,
-- regeneration,
-- ecological interaction,
-- and continuity-maintaining developmental regulation.
+Morphogenesis can participate in repair, regeneration, plasticity, or other developmental phenomena, but these relations should not be treated as components of morphogenesis by definition. Their relevance must be established for the biological case concerned.
 
 ## Morphogenesis and Organised Persistence
 
-APS places organised persistence at the centre of morphogenesis.
+Morphogenesis and organised persistence are related but distinct explanatory targets.
 
-Biological form matters because it contributes to viability-oriented continuity.
+Morphogenetic processes may contribute to organised persistence when the production, maintenance, or reorganisation of form supports organisation relevant to continued functioning. Morphogenesis can also generate forms or transformations that are neutral or adverse with respect to viability.
 
-Morphological organisation therefore cannot be understood independently of:
-- regulation,
-- ecology,
-- physiology,
-- behaviour,
-- and persistence-maintaining organisation.
-
-Morphogenesis concerns not merely the production of structure, but the maintenance of viable organisational continuity across developmental transformation.
-
-Form is continuously reorganised through:
-- developmental activity,
-- ecological interaction,
-- adaptation,
-- and continuity-preserving regulation.
+Morphogenesis therefore does not mean the maintenance of viable organisational continuity. Where morphological organisation contributes to persistence, the relevant contribution and its enabling dependencies must be established rather than inferred from the occurrence of morphogenesis itself.
 
 ## Morphogenesis and Ecology
 
-APS rejects the separation of morphogenesis from ecological context.
+Environmental or ecological relations can contribute materially to morphogenesis in particular biological cases. Mechanical conditions, resource availability, organism–environment interactions, behaviour, symbiotic relations, or developmental scaffolding may affect the generation or transformation of form where the relevant dependencies are present.
 
-Biological form develops through ongoing interaction with:
-- environmental conditions,
-- ecological relations,
-- mechanical constraints,
-- behavioural systems,
-- and developmental scaffolding.
+APS therefore treats the explanatory extent of morphogenesis as target-dependent. Some morphogenetic processes may be adequately explained through relatively local developmental mechanisms, whereas others may require relations extending across tissues, organisms, or environmental conditions.
 
-Morphogenesis is therefore relational rather than internally isolated.
-
-Developmental form emerges through coordinated organism–environment interaction across multiple organisational scales.
+Morphogenesis is consequently neither intrinsically internal nor intrinsically distributed across organism–environment relations, and the presence of processes operating over different extents does not by itself make morphogenesis intrinsically multiscale.
 
 ## Morphogenesis and Biological Individuality
 
-Morphogenesis contributes directly to biological individuality.
+Morphogenesis can be relevant to biological individuality because the production and reorganisation of form may contribute to the organisation through which a biological individual is constituted or maintained.
 
-Organisms maintain coherent individuality not because morphology remains unchanged, but because developmental organisation continuously preserves viable continuity despite ongoing transformation.
+That relation is not automatic. Morphological coherence alone does not establish biological individuality, and morphogenetic transformation does not by itself demonstrate continuity of the individual through change. The relevant organisational and persistence relations must be established for the biological case concerned.
 
-Morphogenesis therefore participates in:
-- developmental continuity,
-- resilience,
-- repair,
-- adaptation,
-- and continuity-maintaining biological organisation.
+Morphogenesis may therefore participate in developmental continuity, repair, regeneration, resilience, or other processes without those relations becoming part of its definition.
 
 ## Key Point
 
-Morphogenesis is the viability-oriented emergence, maintenance, and reorganisation of biological form through coordinated developmental processes operating across time, scale, and ecological interaction.
+Morphogenesis is the developmental generation, maintenance, and reorganisation of biological form. Its relations to viability, organised persistence, ecology, scale, repair, adaptation, and biological individuality are further explanatory questions whose relevance must be established for the biological system and target concerned.

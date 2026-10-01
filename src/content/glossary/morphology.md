@@ -6,18 +6,19 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
+revised: 2026-10-01
 cluster: developmental-organisation
+
 definition: >
-  Morphology is the organised form and structural configuration of a biological
-  system as realised through viability-oriented developmental, physiological,
-  behavioural, and ecological processes across time and scale. In APS,
-  morphology is understood not as static shape alone, but as the dynamically
-  sustained organisation through which biological continuity is expressed and
-  maintained.
+  Morphology is the form and structural configuration of a biological
+  system or biological structure. In APS, morphological description is
+  distinguished from explanation of the developmental and other processes
+  through which particular forms are generated, maintained, or transformed.
+
 inBrief: >
-  Morphology is the organised biological form through which living systems
-  express and sustain viability-oriented continuity.
+  Morphology is the form and structural configuration of a biological
+  system or structure.
+
 seeAlso:
   - morphogenesis
   - development
@@ -29,47 +30,33 @@ seeAlso:
   - organism
 ---
 
-Morphology refers to the organised form and structural configuration of living systems.
+Morphology concerns the form and structural configuration of biological systems and structures.
 
-In conventional biology, morphology is often treated primarily as the study of anatomical shape or structural features. APS instead interprets morphology as an expression of dynamically sustained biological organisation.
+In conventional biology, morphology encompasses the description and comparison of anatomical form, structural features, spatial arrangement, and related characteristics. Such description can be explanatory in combination with other evidence, but morphology itself should be distinguished from the processes responsible for generating or transforming the form described.
 
-Morphological form is not merely static geometry.
+APS preserves this distinction. Morphological form can be characterised at a particular time without assuming that form is static in a stronger biological sense. Structures may arise, persist, change, or disappear during development and other biological processes, and explaining those changes requires identifying the relevant processes and dependencies.
 
-It arises through ongoing developmental, physiological, ecological, and behavioural processes that maintain viability-oriented continuity across time and scale.
-
-APS therefore understands morphology as processually realised organisation.
-
-The form of a biological system reflects the historical organisation of the processes through which that system persists. Morphology is thus inseparable from development, constraint relations, environmental interaction, and adaptive continuity.
-
-Morphological organisation may include:
+Morphological description may concern, depending on the biological target:
 
 - anatomical structure,
 - tissue organisation,
 - body architecture,
-- growth patterns,
 - spatial differentiation,
-- ecological configuration,
-- behavioural structuring,
-- and multiscale organisational arrangement.
+- structural pattern,
+- proportions,
+- topology,
+- and other features of biological form.
 
-What unifies these phenomena is their role in sustaining organised persistence.
+These features are morphological because they characterise form or structural configuration, not because they necessarily contribute to viability or organised persistence.
 
-APS also emphasises that morphology is historically and developmentally situated.
+Morphology is historically and developmentally situated in the sense that present form can result from earlier biological processes. Morphogenesis, developmental regulation, physiological activity, mechanical conditions, environmental relations, or other processes may contribute to the production or transformation of particular morphological features where the relevant dependencies are present.
 
-Biological form is not imposed upon passive material. Rather, morphology emerges through temporally extended processes of morphogenesis, developmental regulation, ecological interaction, and organisational continuity.
+Those causal relations should not be built into the definition of morphology itself. A morphological feature may contribute to viability, persistence, behaviour, ecological interaction, or adaptation, but it may also be neutral or adverse with respect to those outcomes. Its biological significance must therefore be established for the case concerned.
 
-Morphology is therefore dynamic rather than fixed.
+APS distinguishes morphology from morphogenesis. Morphology refers to biological form or structural configuration; morphogenesis refers to the developmental processes through which form is generated, maintained, or reorganised. Description of a form and explanation of its production are related but distinct explanatory tasks.
 
-Living systems may preserve continuity while undergoing substantial morphological transformation across development, regeneration, adaptation, ageing, or ecological transition.
+The spatial extent relevant to morphology is likewise target-dependent. Some morphological questions concern relatively local structures, while others concern relations among tissues, organs, whole organisms, or other biologically relevant configurations. The presence of structural relations over different extents does not make morphology intrinsically multiscale.
 
-APS distinguishes morphology from morphogenesis.
+APS therefore does not treat morphology either as a merely static object or as viability-oriented persistence expressed in structural form. Morphology identifies biological form; its developmental origins, organisational significance, functional consequences, and relations to viability, persistence, ecology, behaviour, adaptation, and scale are further explanatory questions.
 
-Morphology refers to organised biological form itself, whereas morphogenesis refers to the processes through which such form is generated, reorganised, and maintained.
-
-APS also rejects purely reductionistic interpretations of morphology.
-
-Morphological organisation cannot be fully understood solely through local structural description or genetic specification. Biological form depends upon coordinated interactions across multiple organisational scales and temporal processes.
-
-Morphology therefore illustrates a central APS principle:
-
-biological form is not a static object, but an expression of viability-oriented organised persistence across process and scale.
+**Key point:** morphology is biological form and structural configuration. What produces that form, what it contributes to, and over what spatial or temporal extent it must be explained depend on the biological system and explanatory target concerned.

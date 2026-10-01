@@ -6,104 +6,125 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-02
-revised: 2026-07-02
-
+revised: 2026-10-01
 cluster: conceptual-foundations
 
 definition: >
-  A goal is a state, condition, or outcome toward which biological
-  activity is directed through processes of regulation, coordination,
-  or adaptive behaviour. In APS, goals emerge from biological agency
-  and the maintenance of viability rather than from external design or
-  necessarily conscious intention. Goals help organise biological
-  activity by providing direction to processes that contribute to the
-  persistence, stability, adaptation, and continuity of living systems.
+  A biological goal is a state or trajectory whose attainment, maintenance,
+  restoration, or avoidance is privileged within viability-oriented
+  organisation. In APS, biological goals are grounded in the viability
+  conditions of living organisation rather than in external design or
+  necessarily conscious intention. Goal attribution therefore requires
+  evidence that the relevant state or trajectory is biologically significant
+  to the organisation concerned.
 
 inBrief: >
-  A goal is a state or outcome toward which biological activity is
-  directed in support of viability and organised persistence.
+  A biological goal is a state or trajectory privileged within
+  viability-oriented organisation.
 
 seeAlso:
   - biological-agency
   - regulation
   - viability
+  - normativity
   - organised-persistence
   - continuity
   - purpose
   - function
-  - meaning
+  - significance
+  - evaluation
   - cognition
+  - constraint-closure
 ---
 
 ## Conventional Framing
 
-In everyday language, goals are often associated with conscious intention, planning, and deliberate decision-making. A goal is typically understood as something an individual wants to achieve or actively pursues.
+In everyday language, goals are commonly associated with conscious intention, planning, and deliberate action. A goal is something an agent seeks to attain, often because the agent represents the desired outcome in advance and acts with that outcome in mind.
 
-This understanding works well for many human activities, but it becomes problematic when applied to the broader living world. Cells, plants, microorganisms, and many forms of biological organisation exhibit behaviour that appears directed toward particular outcomes despite lacking conscious awareness or explicit intentions.
+This framing is appropriate for many forms of human activity but is too restrictive for biology. Cells repair damage, physiological systems restore viable conditions after perturbation, organisms approach resources and avoid threats, and developmental processes can converge on organised outcomes despite variation in starting conditions or disturbance. Such activity may be directed towards particular states or trajectories without evidence that those outcomes are consciously intended or internally represented as future ends.
 
-As a result, biological discussions of goals often generate confusion. Some interpretations restrict goals to conscious organisms, while others use the term more broadly to describe organised patterns of activity directed toward particular outcomes.
+The opposite problem is to treat any recurrent or convergent biological outcome as a goal. The observation that activity repeatedly approaches or restores a state establishes a pattern requiring explanation, but it does not by itself establish that the state is a biological goal. Goal attribution therefore requires more than the appearance of directedness.
 
 ## APS Reframing
 
-APS treats goals as emergent features of biological agency rather than as products of conscious intention alone.
+Within APS, a biological goal is a state or trajectory whose attainment, maintenance, restoration, or avoidance is privileged within viability-oriented organisation.
 
-Living systems must continually maintain viability under changing internal and external conditions. To do so, they regulate processes, respond to environmental cues, repair damage, acquire resources, and coordinate activity across multiple scales. These activities are not random. They are directed toward states and outcomes that contribute to the continued persistence of the system.
+Viability conditions establish the material and organisational circumstances within which living organisation can continue. Because some differences support organised persistence while others disrupt or threaten it, living systems are not indifferent among all possible states and trajectories. These viability-relative asymmetries provide the biological grounding through which particular outcomes can become significant.
 
-From this perspective, goals arise wherever biological activity becomes organised around the maintenance, restoration, or enhancement of viability.
+Biological goals should therefore not simply be identified with viability conditions. Viability conditions ground the relevant asymmetries; goals are the states or trajectories whose attainment, maintenance, restoration, or avoidance is privileged within the activity of the living system. Goal-directedness is the organised orientation of activity through which this privileging is expressed.
 
-Goals therefore do not require foresight, symbolic representation, or conscious planning. They emerge from the organisation of living systems themselves and reflect the conditions necessary for organised persistence.
+This distinction accommodates maintenance as well as change. Preserving physiological organisation within a viable range can be goal-directed, as can restoring organisation following damage, approaching a resource, or avoiding a harmful condition. A biological goal need not be a future endpoint towards which the organism continuously progresses.
 
-## Goals, Purpose, Function, and Meaning
+Nor does a biological goal require foresight, symbolic representation, conscious planning, or intention. Its grounding lies in the organisation of living activity rather than in a mental representation of an outcome.
 
-APS distinguishes goals from several closely related concepts.
+At the same time, not every state preferred or selected by a living agent is thereby a biological goal. Viability grounds biological normativity, but it does not follow that every learned, affective, social, aesthetic, or other preference expressed by a living system is directly viability-relative. Where a particular preference or outcome is interpreted as a biological goal, its relation to viability-oriented organisation requires independent explanatory warrant.
 
-**Goals** concern the states or outcomes toward which activity is directed.
+## Directedness, Mechanism, and Biological Grounding
 
-**Purpose** concerns what something is for or the role it plays within a broader context.
+Three explanatory questions should be distinguished when biological goals are identified.
 
-**Function** concerns what a component, process, or behaviour does within a system.
+The first concerns directedness: what state or trajectory is maintained, restored, approached, attained, or avoided? The second concerns mechanism: what material processes, regulatory relations, feedbacks, constraints, or organism–environment interactions produce that directed activity? The third concerns biological grounding: why is the relevant state or trajectory privileged within the living organisation?
 
-**Meaning** concerns significance—why something matters to a living system.
+These questions are related but not interchangeable. Observed convergence on an outcome does not by itself establish the mechanism producing it, while specification of a mechanism does not necessarily explain why the outcome has biological significance. Conversely, identifying a viability-relevant outcome does not remove the need to explain materially how activity is organised around it.
 
-These concepts are closely related but not identical.
+APS therefore treats goal attribution as an explanatory claim rather than merely a description of an outcome. A biological goal is warranted where the privileged state or trajectory can be related to the viability-oriented organisation of the system concerned.
 
-For example, the function of roots is nutrient and water acquisition. The purpose of nutrient acquisition is to contribute to the continued viability of the organism. The goal of root growth may be access to resources needed for survival and development. The meaning of those resources lies in their significance for the organism's persistence and flourishing.
+## Goals, Purpose, Function, and Significance
 
-Distinguishing these concepts helps avoid confusion while clarifying how different forms of biological explanation relate to one another.
+Goal, purpose, function, and significance identify related but distinguishable aspects of biological organisation.
+
+**Goals** concern states or trajectories whose attainment, maintenance, restoration, or avoidance is privileged within viability-oriented organisation.
+
+**Purpose** concerns the orientation of living organisation towards continued viable persistence. It does not require a consciously conceived end or an externally assigned objective.
+
+**Function** is the contribution of a component, process, or activity to viable organisation.
+
+**Significance** concerns how differences matter relative to the viability of the living organisation and thereby modulate its activity.
+
+These concepts may converge in particular biological cases without becoming interchangeable. A regulatory process may have a function because it contributes to viable organisation; the system may regulate activity towards a particular biological goal; and environmental or internal differences may acquire significance because of their consequences for that organisation. The explanatory relation among these claims must be established for the case concerned rather than inferred from terminology alone.
 
 ## Goals and Regulation
 
-Goals and regulation are closely connected.
+Regulation provides many of the mechanisms through which biological goal-directedness is materially realised.
 
-A goal identifies a state or outcome toward which biological activity is directed. Regulation consists of the processes through which living systems maintain, approach, restore, or adjust those states under changing conditions.
+Living systems can detect or respond to departures from viable conditions, alter activity under changing circumstances, compensate for disturbance, repair damage, and restore organisation. Such processes can produce activity organised around the maintenance or restoration of particular states and trajectories.
 
-For example, maintaining internal temperature, repairing damaged tissue, responding to drought, or restoring metabolic balance all involve regulatory processes directed toward particular biological goals.
+Regulation and goal attribution should nevertheless remain distinct. Identifying feedback, control, signalling, physiological regulation, or another mechanism explains how directed activity is produced. Calling the regulated state a biological goal additionally requires warrant for why that state is privileged within the viability-oriented organisation.
 
-Regulation therefore provides many of the mechanisms through which goals are realised in living systems.
+This distinction prevents goal language from merely redescribing regulation. It also prevents the identification of a regulatory mechanism from being treated as if it had exhausted the question of biological significance.
 
 ## Goals Across Biological Scale
 
-Goals occur across the full spectrum of biological organisation.
+Goal attribution is scale-sensitive.
 
-At cellular scales, activities such as membrane repair, metabolic regulation, and resource acquisition contribute to the maintenance of viability.
+Cells, tissues, organisms, symbiotic associations, and other forms of biological organisation may exhibit processes that maintain, restore, approach, or avoid particular states. Whether those states warrant interpretation as goals depends upon the organisation relevant to the explanandum and upon evidence that the directed activity is grounded in the viability conditions of that organisation.
 
-At organismal scales, goals may be expressed through growth, development, environmental responsiveness, behavioural adaptation, reproduction, and self-maintenance.
+Goals should therefore not be projected automatically from one biological scale to another. The presence of coordinated activity within a population, lineage, ecological association, or other distributed system does not by itself establish that the larger system is a goal-bearing biological agent.
 
-At broader ecological and evolutionary scales, coordinated activity may contribute to the persistence of populations, lineages, symbiotic systems, and other forms of organised biological continuity.
+This is especially important in evolutionary explanation. Natural selection can explain the historical differential stabilisation of biological organisation without natural selection itself being a goal-directed process. Likewise, lineage persistence or evolutionary change should not automatically be treated as the pursuit of a goal.
 
-Although the mechanisms differ across scales, the underlying principle remains similar: biological activity becomes directed toward outcomes that contribute to the maintenance of viable organisation.
+The appropriate scale of goal attribution must therefore be established for the biological case concerned rather than inferred from the mere presence of persistence, coordination, adaptation, or organised complexity.
 
 ## Goals and Biological Agency
 
-Goals are one of the clearest expressions of biological agency.
+Biological goals are expressions of viability-oriented organisation, but they do not define biological agency.
 
-Agency involves the capacity of living systems to initiate, regulate, and coordinate goal-directed interactions that contribute to their continued viability. Goals provide direction to these interactions by identifying the states or conditions toward which biological activity is organised.
+Within APS, biological agency is the viability-oriented activity through which living organisation sustains the conditions of its own persistence. Such activity can become organised around the maintenance, restoration, attainment, or avoidance of particular states and trajectories. These privileged states or trajectories can then be identified as biological goals where their relation to viability-oriented organisation is warranted.
 
-APS therefore interprets goal-directedness as a natural consequence of living organisation rather than as evidence of external design or uniquely human cognition.
+Goal-directedness is therefore one way in which biological agency is expressed. It does not require an independently represented goal directing the organism from within, nor does the existence of a goal explain agency by itself. The explanatory grounding runs through the organisation of living activity and its dependence upon conditions of viability.
 
-Goals emerge because living systems must continually act in ways that preserve organised persistence across changing conditions.
+This also prevents circularity. Biological agency is not defined as whatever pursues biological goals, while biological goals are not defined merely as whatever an agent happens to pursue. Agency is grounded in viability-oriented living organisation; goal attribution concerns the states and trajectories privileged within that organisation.
+
+## Goals and Cognition
+
+Goal-directedness does not by itself establish cognition.
+
+Living systems can regulate activity, restore viable conditions, compensate for perturbation, and approach or avoid biologically significant states without evidence that they represent their goals or cognitively evaluate alternative futures. Biological goal-directedness is therefore compatible with non-cognitive agency.
+
+Within APS, biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Cognitive attribution consequently requires additional explanatory warrant beyond the demonstration of goal-directed activity.
+
+This distinction allows biological goals to be treated as real without either mentalising minimal living systems or identifying all biological regulation with cognition.
 
 ## Key Point
 
-A goal is a state or outcome toward which biological activity is directed. In APS, goals emerge from biological agency and viability-oriented organisation rather than from external design or necessarily conscious intention, providing direction to the processes through which living systems maintain organised persistence across time.
----
+A biological goal is a state or trajectory whose attainment, maintenance, restoration, or avoidance is privileged within viability-oriented organisation. Viability conditions ground biological goals but are not identical to them, and neither observed convergence nor organismic preference alone is sufficient for goal attribution. Biological goals require no conscious intention or represented future end, but their relation to the viability-oriented organisation and appropriate biological scale must be independently warranted.

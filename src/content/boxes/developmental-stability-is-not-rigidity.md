@@ -6,43 +6,20 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-10-01
 cluster: developmental-organisation
 ---
 
 In APS, developmental stability does not mean the absence of change, flexibility, or responsiveness.
 
-Living developmental systems remain viable precisely because they are capable of adjustment, compensation, and adaptive regulation.
+A developmental process or outcome can remain relatively stable despite variation in some of the conditions under which development proceeds. Where such stability occurs, explaining it requires identifying the processes and dependencies responsible for maintaining the relevant developmental feature or trajectory.
 
-Development therefore achieves stability dynamically rather than mechanically.
+Regulation, compensation, redundancy, feedback, or other processes may contribute to developmental stability in particular cases. Their presence and explanatory importance must be established rather than inferred from stability itself.
 
-Organisms encounter continual variation throughout development:
+Developmental stability should also be distinguished from robustness, resilience, plasticity, and adaptation. These concepts can be related in particular biological systems, but they identify different explanatory relations. A stable developmental outcome need not exhibit all of them, and their occurrence does not make them constituents of developmental stability.
 
-- environmental fluctuations,
-- material disturbances,
-- signalling variation,
-- injury,
-- resource limitations,
-- and internal organisational perturbations.
+Nor does stability require complete resistance to change. Developmental processes may undergo substantial adjustment or reorganisation while some feature, relation, or outcome remains stable. Conversely, flexibility or compensation may alter a developmental trajectory rather than restore or preserve an earlier state.
 
-Yet development often continues successfully because regulatory processes compensate for disruption while preserving overall viability-oriented organisation.
+Developmental stability therefore concerns the relative maintenance of a specified developmental feature, relation, trajectory, or outcome under the conditions relevant to the case. Whether that stability contributes to viability, organised persistence, resilience, adaptation, or some other biological outcome is a further explanatory question.
 
-This is why developmental systems commonly exhibit:
-
-- robustness,
-- resilience,
-- plasticity,
-- redundancy,
-- and adaptive reorganisation.
-
-A rigid developmental system would often fail under changing conditions. Stability in living systems instead depends upon controlled flexibility within viability-preserving constraints.
-
-Developmental organisation therefore balances:
-
-- persistence and adaptation,
-- continuity and transformation,
-- stability and responsiveness.
-
-APS accordingly treats developmental stability as an active organisational achievement rather than static structural preservation.
-
-Living systems persist not by resisting all change, but by regulating change in ways that preserve viability across time.
+**Key point:** developmental stability is not rigidity. Stability can coexist with change and regulation, but the processes responsible for it and its biological consequences must be established for the developmental target concerned.
