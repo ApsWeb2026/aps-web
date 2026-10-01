@@ -6,18 +6,16 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-06-03
+revised: 2026-10-01
 cluster: developmental-organisation
 ---
 
-Stable development can conceal the organisational processes through which continuity is actively maintained. When development proceeds smoothly, many of the regulatory, compensatory, and reconstructive capacities responsible for preserving viability remain largely invisible.
+Stable developmental conditions can conceal organisational dependencies that become visible when development is perturbed. When a developmental trajectory proceeds without substantial disruption, the contribution of particular regulatory, compensatory, reconstructive, or environmental relations may be difficult to distinguish.
 
-Perturbation reveals these processes.
+Perturbation can reveal these dependencies. Nutritional disruption, injury, environmental instability, developmental stress, mutation, and ecological change may expose processes involved in regulation, compensation, developmental flexibility, repair, or other forms of reorganisation.
 
-Nutritional disruption, injury, environmental instability, developmental stress, mutation, and ecological change often expose compensatory regulation, developmental flexibility, repair capacities, organisational dependencies, and continuity-preserving reconstruction. Challenges make visible the organisational resources through which living systems preserve continuity across changing conditions.
+The evidential value of perturbation does not depend on successful recovery. A system may compensate, recover, or establish an alternative developmental trajectory; it may also become redirected, destabilised, arrested, dysfunctional, or non-viable. Differences among these outcomes can help establish which dependencies matter to the developmental process or transition being investigated.
 
-In APS, perturbation is therefore not merely disturbance. It is diagnostically informative. Developmental organisation becomes most visible when continuity is challenged and the system must reorganise itself to preserve viable persistence.
+In APS, perturbation is therefore diagnostically informative rather than merely disruptive. By altering or removing conditions on which a developmental process depends, perturbation can help identify the organisation required for particular trajectories or outcomes without presupposing that this organisation normally guarantees continuity or viable persistence.
 
-Some systems compensate successfully. Others destabilise or collapse. These differences reveal the structure, limits, and capacities of developmental organisation itself.
-
-**Key Point:** Perturbation reveals how developmental continuity is actively organised, maintained, and reconstructed across changing conditions.
+**Key point:** perturbation can reveal developmental organisation by exposing the dependencies on which particular developmental processes, transitions, and outcomes depend.

@@ -7,19 +7,18 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 
 definition: >
-  Developmental regulation is the coordinated organisation of
-  continuity-maintaining developmental processes through which living
-  systems preserve viability across transformation, perturbation,
-  ecological interaction, and temporal change.
+  Developmental regulation is the coordinated modulation of
+  developmental processes through which developmental activity,
+  trajectories, and outcomes are stabilised, adjusted, or reorganised
+  under changing internal and external conditions.
 
 inBrief: >
-  Developmental regulation is the coordinated maintenance of viable
-  developmental continuity across changing conditions.
+  Developmental regulation is the coordinated modulation of
+  developmental processes across changing conditions.
 
 seeAlso:
   - development
@@ -51,70 +50,34 @@ From this perspective, regulation is often treated as a secondary process operat
 
 APS interprets developmental regulation organisationally rather than instructionally.
 
-Developmental regulation is not merely the correction of developmental error.
+Developmental regulation is not merely the correction of developmental error or the execution of a predetermined program. It concerns the coordination and modulation of developmental processes through which developmental activity, trajectories, and outcomes may be stabilised, adjusted, or reorganised as conditions change.
 
-It is the ongoing coordination of viability-oriented developmental organisation through which living systems preserve organised continuity across continual transformation.
-
-Development remains viable because developmental processes continuously reorganise themselves relative to:
-- perturbation,
-- ecological conditions,
-- physiological change,
-- behavioural adaptation,
-- and continuity-maintaining viability constraints.
-
-Developmental regulation therefore includes:
-- repair,
-- compensation,
-- resilience,
-- adaptive reorganisation,
-- ecological responsiveness,
-- and continuity-preserving developmental coordination.
+Such regulation may involve molecular signalling, physiological coordination, feedback, compensation, behavioural activity, or other processes relevant to the developmental case concerned. Which processes matter, and over what spatial and temporal extents they must be considered, depends on the explanatory target.
 
 ## Regulation and Organised Persistence
 
-APS places organised persistence at the centre of developmental regulation.
+Developmental regulation and organised persistence are related but distinct.
 
-Regulation matters because living systems are continuously vulnerable to:
-- instability,
-- disruption,
-- material turnover,
-- ecological variation,
-- and developmental perturbation.
+Regulatory processes can contribute to organised persistence when their effects help sustain or re-establish organisation relevant to continued functioning. This relation should not be assumed in every developmental case: regulation may stabilise a developmental trajectory, redirect developmental activity, compensate for perturbation, or produce outcomes that are neutral or adverse with respect to viability.
 
-Developmental regulation therefore helps preserve the organisational continuity through which biological individuals remain viable across time.
-
-This continuity is dynamic rather than static.
-
-Development is not maintained by preventing change altogether, but by regulating viable continuity through changing conditions.
+Developmental regulation therefore does not mean the maintenance of persistence itself. Its contribution to persistence must be established for the system, process, and explanatory target concerned.
 
 ## Developmental Regulation and Ecology
 
-APS rejects the idea that developmental regulation is purely internal.
+Developmental regulation may depend on environmental or ecological relations when those relations materially contribute to the developmental processes being explained.
 
-Developmental regulation depends upon ongoing interaction with:
-- environments,
-- ecological conditions,
-- behavioural systems,
-- symbiotic relations,
-- and developmental scaffolding.
+In some cases, relevant regulation can be characterised largely through processes within an organism. In others, environmental conditions, symbiotic relations, behaviour, or developmental scaffolding may form part of the materially realised dependencies required for the explanation.
 
-Regulation therefore extends beyond isolated internal mechanisms.
-
-It emerges through coordinated organism–environment organisation across multiple scales.
+APS therefore does not treat developmental regulation as inherently internal or inherently extended beyond the organism. The relevant organisational extent is determined by the biological case and explanatory target.
 
 ## Developmental Regulation and Resilience
 
-Developmental regulation is closely linked to resilience.
+Developmental regulation and resilience are also distinct.
 
-Living systems remain developmentally viable not because perturbation is absent, but because developmental organisation remains capable of reorganising continuity under changing conditions.
+Regulatory processes may contribute to resilience when they enable developmental organisation to respond to perturbation, recover a trajectory, compensate for disruption, or establish a viable alternative. Regulation can likewise participate in repair or other forms of reorganisation where the relevant dependencies are present.
 
-Regulation therefore contributes directly to:
-- resilience,
-- repair,
-- recovery,
-- adaptation,
-- and persistence-maintaining developmental continuity.
+These relations do not make resilience, repair, adaptation, or organised persistence components of developmental regulation. Each relation must be established independently for the biological case concerned.
 
 ## Key Point
 
-Developmental regulation is the coordinated organisation of continuity-maintaining developmental processes through which living systems preserve viability across transformation, perturbation, ecological interaction, and temporal change.
+Developmental regulation is the coordinated modulation of developmental processes through which developmental activity, trajectories, and outcomes may be stabilised, adjusted, or reorganised under changing conditions. Its relations to viability, persistence, resilience, repair, ecology, and adaptation are explanatory questions rather than parts of its definition.

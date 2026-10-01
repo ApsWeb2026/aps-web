@@ -6,18 +6,18 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
+revised: 2026-10-01
 cluster: ecological-organisation
 definition: >
-  Developmental scaffolding is the organised set of environmental, ecological,
-  behavioural, physiological, and social conditions that support, stabilise,
-  constrain, or enable the continuity of developmental organisation across time
-  and scale. In APS, developmental scaffolding is understood as part of the
-  wider organisational processes through which viability-oriented systems
-  develop and persist.
+  Developmental scaffolding refers to conditions or relations that
+  systematically support, constrain, stabilise, or enable developmental
+  processes or trajectories in a particular biological context. Such
+  scaffolding may be environmental, ecological, physiological,
+  behavioural, social, or otherwise materially relevant to the
+  developmental process concerned.
 inBrief: >
-  Developmental scaffolding is the organised support structure through which
-  developmental continuity becomes possible and stabilised.
+  Developmental scaffolding is systematic support for developmental
+  processes or trajectories in a particular biological context.
 seeAlso:
   - development
   - niche-construction
@@ -29,61 +29,33 @@ seeAlso:
   - scale
 ---
 
-Developmental scaffolding refers to the organised conditions that support and stabilise developmental continuity.
+Developmental scaffolding refers to conditions or relations that systematically support, constrain, stabilise, or enable developmental processes or trajectories.
 
-In conventional developmental theory, scaffolding is often understood as external support assisting developmental processes. APS instead interprets developmental scaffolding more broadly as part of the organisational conditions through which viability-oriented development becomes possible across time and scale.
+In conventional developmental theory, scaffolding is often understood as support supplied by conditions outside the developing system. APS uses the term more broadly where particular conditions or relations perform an identifiable developmental role. Whether something counts as a developmental scaffold therefore depends on the biological process and explanatory target concerned.
 
-Development does not occur in isolation.
+Scaffolding conditions are not defined merely by being present in a developmental environment. They must make a relevant difference to the developmental process or trajectory being explained.
 
-Living systems develop through ongoing interaction with environmental, ecological, physiological, behavioural, and social conditions that contribute to the continuity and regulation of developmental organisation.
-
-APS therefore understands developmental scaffolding as relational and processual.
-
-Scaffolding conditions are not merely passive backgrounds surrounding development. They participate in shaping, stabilising, constraining, and enabling developmental trajectories across changing contexts.
-
-Developmental scaffolding may include:
+Depending on the case, developmental scaffolding may include:
 
 - ecological conditions,
 - parental regulation,
 - behavioural support,
 - microbial environments,
 - social interaction,
-- nutritional organisation,
+- nutritional conditions,
 - environmental stability,
 - spatial structuring,
 - developmental timing,
 - and culturally transmitted developmental conditions.
 
-What unifies these phenomena is their contribution to the continuity of organised developmental persistence.
+This list does not imply that all development depends on these forms of support, or that any particular developmental process necessarily extends beyond the organism. A condition counts as scaffolding only where its contribution to the developmental explanandum can be established.
 
-APS emphasises that developmental scaffolding is scale-sensitive.
+The spatial and temporal extent of developmental scaffolding is likewise target-dependent. Some developmental explanations may require relatively local conditions, whereas others may require relations extending across tissues, organisms, environments, social interactions, or longer temporal contexts. APS therefore does not treat developmental scaffolding as intrinsically multiscale or distributed.
 
-Developmental support processes may occur across:
-- cellular environments,
-- tissues,
-- organisms,
-- ecological systems,
-- social groups,
-- and multigenerational developmental contexts.
+Developmental scaffolding can contribute to developmental stability or continuity, but neither continuity nor organised persistence defines scaffolding. A scaffold may support, constrain, redirect, or enable a developmental process without thereby establishing that the process preserves viability or persistence.
 
-Different scaffolding processes may overlap, interact, or constrain one another across scales.
+APS distinguishes developmental scaffolding from niche construction. Niche construction concerns activity through which organisms modify environmental conditions. Developmental scaffolding concerns conditions or relations that perform an identifiable supporting, constraining, stabilising, or enabling role in development. A modified niche may therefore function as developmental scaffolding in a particular case, but neither relation entails the other.
 
-APS also rejects the view that development is fully specified internally.
+APS also distinguishes developmental scaffolding from simple environmental influence. Not every environmental effect is a scaffold. The term is warranted where a condition or relation performs a sufficiently systematic developmental role relative to the explanandum concerned.
 
-Developmental organisation depends upon coordinated interactions extending beyond isolated organisms into broader ecological and relational contexts.
-
-Developmental scaffolding therefore illustrates the distributed nature of developmental continuity.
-
-APS distinguishes developmental scaffolding from niche construction.
-
-Niche construction concerns the active modification of environmental conditions by living systems, whereas developmental scaffolding concerns the organised conditions that stabilise or enable developmental continuity itself.
-
-The two processes are nevertheless deeply interconnected.
-
-APS further distinguishes developmental scaffolding from simple environmental influence.
-
-Scaffolding contributes systematically to organised developmental continuity rather than merely affecting development incidentally.
-
-Developmental scaffolding therefore illustrates a central APS principle:
-
-developmental continuity emerges through dynamically organised relations extending across organisms, environments, and scales of interaction.
+Developmental scaffolding therefore identifies a possible organisation of developmental support, not a universal architecture of development. Its presence, material extent, and explanatory significance must be established for the biological case concerned.

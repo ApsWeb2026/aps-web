@@ -6,34 +6,18 @@ type: box
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-05-26
+revised: 2026-10-01
 cluster: developmental-organisation
 ---
 
-In APS, developmental continuity does not depend upon the preservation of the same material components, structures, or developmental states across time.
+Development can involve substantial material, structural, and functional transformation. Molecules are replaced, cells divide and die, tissues reorganise, functions change, and organism–environment relations may shift through time.
 
-Living systems continually change throughout development:
+Where a living system remains organisationally continuous through such transformations, that continuity does not require preservation of the same material components, structures, or developmental states. Organised persistence and material sameness are therefore distinct.
 
-- molecules are replaced,
-- cells divide and die,
-- tissues reorganise,
-- functions transform,
-- and organism–environment relations shift continuously.
+This distinction is important for developmental explanation. A developing organism may remain continuous despite extensive change, but that continuity should not be assumed merely because development is occurring. The explanatory task is to establish what organisation persists or is re-established and which materially realised dependencies enable that continuity in the case concerned.
 
-Yet despite these changes, the living system persists as the same organised system.
+Development should therefore not be identified with organised persistence itself. Development describes biological transformation through time; organised persistence concerns the further question of whether and how relevant organisation continues through that transformation.
 
-What persists is not static material identity, but organisational continuity.
+This is why developmental identity cannot be reduced to fixed structures, genetic templates, or static forms. Where developmental identity is maintained across change, its basis must be sought in the organisation and dependencies that warrant treating the changing system as continuous rather than in material sameness alone.
 
-Development therefore involves continual transformation within a maintained viability-oriented organisation. Stability is achieved not through immobility, but through regulated adaptation, coordination, and constraint-guided change.
-
-This is why developmental identity cannot be reduced to:
-
-- fixed structures,
-- genetic templates,
-- or static forms.
-
-A developing organism remains itself because the organisation sustaining viability continues across time even while material composition and functional organisation change substantially.
-
-Development is therefore best understood as organised persistence through regulated transformation.
-
-Continuity is not the absence of change. It is the organised maintenance of viability across continual change.
+**Key point:** organised persistence may occur across substantial developmental transformation, but its presence and enabling dependencies must be established rather than built into the definition of development.

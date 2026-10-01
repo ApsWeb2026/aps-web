@@ -4,19 +4,19 @@ title: "Life Cycles"
 slug: life-cycles
 
 abstract: >
-  In APS, life cycles are interpreted as temporally organised systems
-  of developmental persistence through which viability-oriented
-  continuity is maintained across transformation. Living systems
-  remain organisationally continuous despite undergoing major
-  developmental, ecological, behavioural, and reproductive change
-  across time.
+  In APS, a life cycle is a temporally organised trajectory of characteristic
+  biological transformations through which a living system passes during its
+  existence. Life-cycle organisation can be relevant to explaining continuity
+  through developmental change, but viability and organised persistence are
+  not built into the concept itself. Their relation to particular developmental,
+  ecological, behavioural, physiological, reproductive, and other processes
+  must be established for the biological case and explanatory target concerned.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 role: core
 
@@ -100,68 +100,27 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Living systems frequently undergo profound developmental transformation across time.
+Living systems can undergo profound transformation during their existence. Embryos become juveniles and juveniles become reproductive adults; larval organisms may be reorganised into markedly different mature forms; and developmental progression may involve changes in physiology, behaviour, ecological relations, and reproductive activity. A life cycle provides a way of identifying the temporally organised trajectory across which such transformations occur.
 
-Embryos become juveniles. Juveniles become reproductive adults. Larval organisms may reorganise into radically different mature forms. Many organisms shift ecological roles, behavioural organisation, reproductive strategies, and physiological structure across developmental progression.
-
-Despite such transformation, biological continuity persists.
-
-APS consequently interprets life cycles as temporally organised systems of developmental persistence through which viability-oriented continuity is maintained across transformation.
-
-Life cycles are not merely sequences of biological stages arranged chronologically.
-
-They are organised systems of developmental continuity through which living systems preserve viability across changing forms, environments, behaviours, and organisational conditions.
-
-Biological persistence therefore does not depend upon static structure or fixed material composition.
-
-Living systems remain continuous because developmental organisation preserves viability-oriented persistence across time.
+Life cycles are therefore more than chronological lists of biological stages. They describe characteristic patterns of transformation through time and provide a framework for asking how developmental processes and transitions are organised. They can also raise further explanatory questions about viability, continuity, individuality, ecology, reproduction, and evolution, but those relations should not be assumed merely because a process occurs within a life cycle.
 
 ## The Classical View of Life Cycles
 
-Biological life cycles have often been described in terms of developmental stages through which organisms pass during growth, reproduction, and maturation.
+Biological life cycles have commonly been described in terms of stages through which organisms pass during growth, maturation, reproduction, ageing, and death. Depending on the organism, these may include embryonic and juvenile development, reproductive maturation, metamorphosis, senescence, and other characteristic transitions. Stage descriptions remain biologically useful because they can identify recurrent phases and provide reference points for comparing developmental trajectories.
 
-Within this framework, life cycles may include:
+A stage model, however, should not be mistaken for the processes that generate or connect the stages themselves. Developmental transitions may be gradual or abrupt, reversible or irreversible, internally regulated or dependent on relations extending beyond the organism. Their boundaries may also depend on the biological question being asked. APS therefore treats chronological staging as one useful description of a life cycle rather than as a complete explanation of life-cycle organisation.
 
-- embryonic development,
-- juvenile stages,
-- reproductive maturation,
-- metamorphosis,
-- senescence,
-- and generational succession.
-
-Classical biology frequently interpreted these stages descriptively as sequential phases within organismal development.
-
-Classical developmental frameworks frequently treated life-cycle progression as the internally regulated execution of genetically directed developmental programmes.
-
-APS accepts the importance of developmental staging while arguing that life cycles cannot be adequately understood as simple chronological sequences alone.
-
-Life cycles involve the organised preservation of developmental persistence across transformation.
-
-The central explanatory problem is therefore not merely how organisms change, but how viable persistence remains possible despite extensive developmental reorganisation.
+The explanatory task is consequently not only to identify what stages occur and in what order, but also to establish which processes and dependencies organise the transitions among them and what biological consequences those transitions have. Questions about persistence or viability arise within this investigation where the target requires them; they are not supplied by the concept of a life cycle itself.
 
 [[box:developmental-time-is-not-clock-time]]
 
 ## Life Cycles in APS
 
-Within APS, life cycles are understood as temporally organised developmental systems through which viability-oriented persistence is maintained across changing organisational states.
+Within APS, a life cycle is understood as a temporally organised trajectory of characteristic biological transformations. Such a trajectory may involve morphological change, physiological reorganisation, behavioural transitions, ecological shifts, reproductive activity, or other developmental processes. What unifies these phenomena as parts of a particular life cycle is their organisation within the temporal history of the living system, not a presumption that every transition maintains viability or organised persistence.
 
-Developmental organisation does not remain static.
+This distinction matters because transformation can have different consequences. Some developmental processes may stabilise or extend a viable trajectory; others may redirect it, generate alternative outcomes, expose fragility, or contribute to developmental failure. Life-cycle description therefore establishes the temporal organisation of transformation, while explanations of persistence ask the further question of which materially realised dependencies enable organisation to continue through particular changes.
 
-Living systems may undergo:
-
-- morphological transformation,
-- ecological transition,
-- behavioural restructuring,
-- reproductive reorganisation,
-- and physiological redevelopment.
-
-Yet these transformations remain developmentally continuous because viability-oriented organisation persists across time.
-
-APS consequently interprets life cycles as organisational continuity systems rather than collections of disconnected developmental stages.
-
-Developmental persistence emerges through coordinated transformation rather than static biological identity.
-
-Life-cycle organisation persists through dynamically coordinated constraints regulating viability across irreversible developmental change.
+APS consequently distinguishes the life-cycle trajectory from the outcomes that occur within it. This allows substantial developmental transformation to be investigated without defining development by successful continuity and without treating persistence as a necessary consequence of life-cycle organisation.
 
 [[box:organised-persistence-across-development]]
 
@@ -169,201 +128,77 @@ Life-cycle organisation persists through dynamically coordinated constraints reg
   <a href="/assets/diagrams/life-cycles-visual.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/life-cycles-visual.png"
-      alt="Life cycles as temporally organised developmental persistence"
+      alt="Life cycles as temporally organised trajectories of biological transformation"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Life Cycles and Organised Persistence.</strong>
-    Living systems preserve viability-oriented continuity across
-    developmental, ecological, behavioural, and reproductive
-    transformation through temporally coordinated developmental
-    organisation.
+    <strong>Life Cycles and Biological Transformation.</strong>
+    A life cycle identifies a temporally organised trajectory across which
+    developmental, physiological, behavioural, ecological, and reproductive
+    transformations may occur. Whether particular processes within that
+    trajectory contribute to viability or organised persistence is a further
+    explanatory question.
   </p>
 </div>
 
 ## Transformation and Organisational Continuity
 
-Life cycles demonstrate that biological persistence does not require fixed material or structural continuity.
+Life cycles are especially informative where biological systems undergo substantial material or structural change. Metamorphosis, reproductive restructuring, seasonal transitions, ecological shifts, and socially differentiated developmental roles can involve marked alterations in morphology, physiology, behaviour, or environmental relations. Such cases show why continuity cannot simply be equated with the retention of a fixed material composition or static form.
 
-Many organisms undergo dramatic developmental change while still remaining organisationally continuous systems.
+They do not, however, establish continuity merely by being parts of a life cycle. Where a living system remains organisationally continuous through transformation, the relevant explanation must identify what organisation is preserved or re-established and which dependencies make that continuity possible. In other cases, developmental transformation may redirect organisation, produce discontinuity, or terminate a viable trajectory.
 
-Examples include:
-
-- larval metamorphosis,
-- seasonal developmental transitions,
-- reproductive restructuring,
-- ecological stage shifts,
-- and socially differentiated developmental roles.
-
-Throughout such transformations:
-
-- material composition may change,
-- morphology may reorganise,
-- behaviour may shift,
-- and ecological participation may alter substantially.
-
-Yet viability-oriented persistence remains coordinated.
-
-APS therefore distinguishes between:
-
-- changing developmental structure,
-- and continuity of organised persistence.
-
-Biological individuality remains processually continuous because developmental organisation preserves viability across transformation rather than maintaining static form.
-
-Living systems therefore persist through continuity-preserving transformation rather than through fixed biological identity.
+APS therefore treats changing developmental structure and organised persistence as related but distinct explanatory targets. Life-cycle analysis establishes the pattern and organisation of transformation through time; persistence analysis asks how, and under what conditions, relevant organisation continues through that transformation.
 
 [[box:developmental-continuity-and-material-change]]
 
 ## Temporal Organisation and Development
 
-Life cycles are deeply temporally organised.
+Life cycles are intrinsically temporal in the straightforward sense that their characteristic processes and transitions occur through time. Their explanation may require more than chronological duration, however, because the timing, ordering, recurrence, or coordination of developmental processes can itself make a biological difference.
 
-Developmental persistence frequently depends upon coordinated timing across multiple interacting systems.
+Depending on the case, relevant temporal relations may include developmental and reproductive timing, physiological sequencing, behavioural transitions, ecological synchronisation, or environmentally responsive developmental regulation. A developmental event can have different consequences according to when it occurs, how long it lasts, which other processes precede or accompany it, and whether the dependencies required for a subsequent transition are present.
 
-Life cycles may therefore involve:
-
-- developmental timing,
-- reproductive timing,
-- ecological synchronisation,
-- behavioural transitions,
-- physiological sequencing,
-- and environmentally responsive developmental regulation.
-
-Developmental organisation consequently unfolds through structured temporal coordination rather than through isolated instantaneous states.
-
-APS therefore interprets biological time not merely as chronological duration, but as organised developmental persistence through which viability is preserved across temporally structured transformation.
-
-This perspective strongly connects life cycles with broader APS discussions of:
-
-- process,
-- persistence,
-- temporal organisation,
-- ontogeny,
-- and developmental continuity.
+APS therefore distinguishes chronological duration from biologically relevant temporal organisation. A life cycle is not simply the amount of time for which an organism exists; it is a temporally organised trajectory whose processes and transitions may depend on particular relations of sequence, duration, timing, and historical context. Which of these relations are explanatorily necessary must be established for the target concerned.
 
 ## Ecological Organisation and Life Cycles
 
-Many life cycles are ecologically distributed.
+Ecological relations can be important to life-cycle organisation because different developmental stages may occupy different habitats, use different resources, participate in different trophic relations, or encounter different environmental conditions. In such cases, a life-cycle transition cannot always be adequately explained by processes considered solely within the organism.
 
-Different developmental stages may participate in distinct ecological systems involving different:
+This does not make every life cycle an ecologically distributed system. For some explanatory targets, relatively local developmental processes may be sufficient. For others, environmental conditions, organism–environment coupling, developmental niches, or other ecological relations may form part of the materially realised dependencies required to explain a transition or trajectory.
 
-- habitats,
-- resource relations,
-- behavioural roles,
-- trophic interactions,
-- and environmental conditions.
-
-Developmental persistence therefore frequently depends upon coordinated ecological organisation extending across multiple developmental phases.
-
-Organisms may move through changing ecological relations while still preserving organisational continuity across the life cycle as a whole.
-
-APS consequently interprets life cycles as developmental systems embedded within broader ecological organisation rather than isolated organismal sequences detached from environmental continuity.
-
-This perspective closely connects life cycles with:
-
-- organism–environment coupling,
-- developmental niches,
-- ecological organisation,
-- and ecological inheritance.
+The relevant explanatory extent is therefore determined by the biological case. Ecological relations enter a life-cycle explanation when they make a material difference to the process being explained, rather than because life cycles are intrinsically extended across organisms and environments.
 
 ## Social and Collective Developmental Systems
 
-Some life cycles depend heavily upon social organisation.
+Social organisation can likewise contribute to particular life-cycle processes. Parental care, cooperative developmental environments, caste differentiation, collective behaviour, social communication, or culturally transmitted conditions may affect developmental timing, trajectories, or transitions in some organisms.
 
-Developmental persistence may involve:
+Where such relations are required to explain a developmental outcome, they should be included within the explanatory account. Their inclusion does not imply that every life cycle is collectively organised, nor that a social group automatically constitutes the bearer of an individual's life cycle. The relevant question is whether particular social relations materially contribute to the developmental process or transition under investigation.
 
-- parental care systems,
-- cooperative developmental environments,
-- caste differentiation,
-- collective behavioural coordination,
-- and socially structured developmental roles.
-
-Social organisation may therefore participate directly in maintaining viability-oriented developmental continuity across life-cycle progression.
-
-APS consequently interprets many life cycles as relationally organised developmental systems extending across collective organisation rather than confined entirely within isolated organisms.
-
-This perspective also connects life cycles with broader APS discussions of:
-
-- social organisation,
-- cognition,
-- communication,
-- developmental scaffolding,
-- and collective continuity.
+This distinction allows APS to recognise socially scaffolded development without turning social organisation into a universal constituent of life-cycle organisation. It also keeps separate the question of what supports an individual's developmental trajectory from the further question of whether a collective itself exhibits a biologically relevant trajectory requiring explanation at a different extent.
 
 ## Perturbation and Developmental Fragility
 
-Life cycles also reveal the fragility of developmental organisation.
+Life-cycle organisation can often be investigated by examining what happens when developmental dependencies are disturbed. Transitions may depend on coordinated timing, physiological integration, behavioural regulation, environmental conditions, ecological relations, or combinations of these processes. Perturbing one of these dependencies can therefore reveal organisational relations that remain less apparent under stable conditions.
 
-Developmental transitions frequently depend upon highly coordinated ecological, physiological, behavioural, and temporal relations.
+The evidential value of perturbation does not depend on assuming that the underlying organisation normally guarantees viable persistence. A perturbation may produce delayed or redirected development, compensation, recovery, developmental arrest, dysfunction, or loss of viability. These different outcomes help identify which dependencies are necessary for a particular transition or trajectory and what explanatory role those dependencies perform.
 
-Perturbations affecting:
-
-- developmental timing,
-- ecological coordination,
-- physiological integration,
-- behavioural regulation,
-- or environmental continuity
-
-may destabilise viability-oriented developmental persistence.
-
-APS consequently treats developmental disruption as highly informative about the organisational structures preserving continuity across life cycles.
-
-Perturbation reveals the hidden developmental coordination through which viable persistence is maintained across transformation.
-
-Temporal and developmental fragility may therefore reveal hidden dependencies within developmental organisation that remain largely invisible under stable conditions.
-
-This perspective closely links life cycles with APS discussions of:
-
-- resilience,
-- fragility,
-- malfunction,
-- diagnosis,
-- and organisational breakdown.
+Perturbation therefore provides a way of testing life-cycle organisation rather than merely illustrating successful continuity. Developmental fragility can expose where particular trajectories depend on relations whose disruption changes the range of developmental outcomes available to the system.
 
 [[box:perturbation-reveals-developmental-organisation]]
 
 ## Life Cycles and Evolutionary Organisation
 
-Life cycles also shape evolutionary continuity.
+Features of life-cycle organisation can be relevant to evolutionary explanation. Developmental timing, reproductive organisation, ecological participation, developmental constraint, and stage-specific interactions with the environment can influence which phenotypic variants occur and the conditions under which differences among organisms have evolutionary consequences.
 
-Temporally organised developmental systems influence:
+These relations must nevertheless be established rather than inferred from life-cycle organisation itself. Reproduction within a life cycle does not by itself explain inheritance or lineage continuity, and a developmental transition does not become an adaptation merely because it contributes to a characteristic trajectory. Likewise, ecological participation at a particular developmental stage does not by itself establish a selection pressure or an evolutionary outcome.
 
-- ecological participation,
-- reproductive organisation,
-- developmental constraint,
-- selection pressures,
-- and evolutionary trajectories.
-
-Evolution therefore acts not solely upon isolated traits or static organisms, but upon temporally organised developmental systems capable of sustaining viable persistence across changing conditions.
-
-APS consequently interprets evolution and development as deeply interconnected organisational processes.
-
-Life cycles help explain how biological organisation remains historically continuous while still permitting adaptive transformation across evolutionary time.
+APS therefore treats development and evolution as connected where the relevant dependencies can be demonstrated while keeping their explananda distinct. Evolutionary explanation requires attention to such matters as heritable variation, differential fitness, selection, and historical population change where they are relevant. Life-cycle organisation may contribute to those explanations, but it does not replace them or establish evolutionary continuity by definition.
 
 ## Why Life Cycles Matter in APS
 
-Life cycles help explain how living systems preserve viability-oriented persistence despite extensive developmental transformation across time.
+Life cycles matter because they make biological transformation through time an explicit explanatory target. They draw attention to the fact that living systems may change substantially in morphology, physiology, behaviour, reproductive activity, and ecological relations while following characteristic developmental trajectories. Explaining those trajectories requires attention not merely to successive states but to the processes and dependencies organising transitions among them.
 
-Within APS:
+This perspective also clarifies the relation between development and organised persistence. A life cycle does not constitute persistence, and development does not guarantee continuity. Rather, life-cycle organisation provides cases in which the conditions of persistence, transformation, disruption, recovery, or termination can be investigated. The same discipline applies to ecological and social organisation: these relations belong in the explanation when they materially contribute to the target, not because they are universal components of every life cycle.
 
-- biological persistence does not depend upon fixed form,
-- developmental continuity is maintained through organised transformation,
-- life cycles coordinate ecological, behavioural, physiological, and developmental organisation across temporally structured persistence systems,
-- and organisms remain developmentally continuous despite major organisational transition.
-
-Living systems therefore remain organisationally continuous not because they resist developmental change, but because developmental organisation preserves viability across transformation.
-
-Life cycles consequently become one of the central explanatory concepts linking:
-
-- development,
-- individuality,
-- ecology,
-- resilience,
-- temporal organisation,
-- ageing,
-- and evolution
-
-within the broader APS framework.
+Life cycles therefore connect with broader APS investigations of development, individuality, temporal organisation, ecology, resilience, ageing, reproduction, and evolution without collapsing those domains into a single continuity relation. Their distinctive explanatory contribution is to identify the temporally organised trajectory of biological transformation and thereby provide a structured context in which the dependencies relevant to particular biological outcomes can be established.
