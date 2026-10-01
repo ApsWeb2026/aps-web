@@ -4,19 +4,18 @@ title: "Developmental Integration"
 slug: developmental-integration
 
 abstract: >
-  In APS, developmental integration refers to the coordinated
-  organisation of interacting developmental processes that preserve
-  viability-oriented persistence across time. Development produces
-  coherent biological individuals through the dynamic integration of
-  physiological, behavioural, ecological, and relational systems
-  across multiple organisational scales.
+  In APS, developmental integration refers to coordination or
+  interdependence among developmental processes such that their activities
+  or outcomes are related within the developmental system or explanandum
+  concerned. The processes that must be considered, and the spatial and
+  temporal extent over which their integration matters, depend on the
+  biological system and explanatory target.
 
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 role: core
 
@@ -102,81 +101,35 @@ references:
     doi: "10.1007/s13752-026-00547-6"
 ---
 
-Development does not produce isolated biological parts assembled mechanically into finished organisms.
+Development involves processes whose activities can affect one another. Cell differentiation may depend on signalling relations; tissue formation may depend on coordinated changes in cellular behaviour; physiological conditions can alter developmental trajectories; and, in some cases, behavioural or environmental relations can materially affect what development produces. Explaining development therefore sometimes requires more than identifying processes individually. It requires explaining how their activities are coordinated or interdependent.
 
-Within APS, development is understood as a viability-oriented organisational process through which interacting biological systems become coordinated into coherent and persistent wholes across time.
+APS uses **developmental integration** for this explanatory problem. Developmental integration concerns coordination or interdependence among developmental processes such that their activities or outcomes are related within the developmental system or explanandum concerned. It can occur over different spatial and temporal extents and involve different kinds of processes, but neither its extent nor its components should be fixed in advance of the biological question.
 
-Living organisms persist because developmental processes become integrated.
+Integration is distinct from successful development. Coordinated processes can contribute to coherent morphology, physiological functioning, stability, plasticity, resilience, or organised persistence, but those relations must be established for the case concerned. Integration can also be incomplete, altered, excessive, dysfunctional, or implicated in adverse developmental outcomes. Coordination alone does not establish viability, biological individuality, adaptation, or evolutionary significance.
 
-Cells, tissues, organs, behaviours, ecological interactions, and regulatory systems must become sufficiently coordinated for viable biological persistence to be maintained across changing conditions.
-
-APS consequently interprets developmental integration as the coordinated organisation of interacting developmental processes that preserve viability-oriented persistence across multiple organisational scales.
-
-Developmental integration is therefore not merely structural assembly or spatial arrangement.
-
-It involves the dynamic coordination of developmental organisation across physiological, behavioural, ecological, temporal, and relational systems.
-
-Development produces coherent biological individuals through organised persistence rather than through the accumulation of disconnected developmental components alone.
-
-Living systems preserve developmental coherence through continual organisational coordination and adaptive reorganisation rather than through fixed developmental structures.
+The explanatory task is therefore to determine which developmental processes are related, how their activities depend on or modify one another, and what difference that integration makes to the outcome being explained.
 
 ## The Problem of Organismal Coherence
 
-Development reliably produces highly coordinated biological systems.
+Developing organisms often display striking coordination among processes that can be distinguished analytically. Morphogenesis, differentiation, physiological regulation, metabolism, and behaviour may contribute to a coherent organismal outcome, but coherence should not be assumed merely because these processes occur within the same organism.
 
-Organisms exhibit:
+The relevant question is how particular developmental activities become sufficiently related for their interactions to make a difference to the form, function, trajectory, or other outcome under investigation. Different cases can require different answers. Coordination may depend on signalling, material interaction, regulatory feedback, mechanical relations, shared physiological conditions, or other dependencies whose importance must be established empirically.
 
-- integrated physiological regulation,
-- coordinated morphogenesis,
-- behavioural coherence,
-- metabolic continuity,
-- and organised interdependence across developmental systems.
+Classical developmental explanations often assigned a privileged coordinating role to genetic programs, hierarchical control, or internally directed regulation. Genetic activity is plainly important to development, but this does not establish that coordination consists in execution of a complete genetic specification. Nor does rejecting that interpretation warrant replacing it with a universal claim that development is always integrated across physiological, behavioural, ecological, and other domains.
 
-Development therefore generates coherent biological wholes rather than fragmented collections of independently developing structures.
-
-This presents a major explanatory problem.
-
-Why do developmental processes become sufficiently coordinated to preserve viable organismal persistence across time?
-
-Classical developmental biology often explained such coordination through:
-
-- genetic programmes,
-- hierarchical control systems,
-- or internally directed morphogenetic regulation.
-
-Genes were frequently treated as privileged instructional causes directing organismal construction and developmental coordination.
-
-APS accepts the importance of developmental regulation while arguing that developmental coherence emerges through broader organisational integration extending across interacting systems.
-
-Developmental integration therefore becomes one of the central organisational processes through which viable biological individuality is maintained.
+Developmental integration identifies the coordination to be explained without predetermining either its mechanism or consequence. In some cases integration may contribute to organismal coherence; in others the relevant outcome may be partial coordination, altered development, instability, or failure.
 
 [[box:development-is-not-genetic-execution]]
 
 ## Developmental Integration in APS
 
-Within APS, developmental integration refers to the coordinated organisation of interacting developmental processes that preserve viability-oriented persistence.
+Within APS, developmental integration refers to coordination or interdependence among developmental processes where their relations are relevant to the explanandum. The concept directs attention away from treating developmental processes as explanatory isolates when an outcome depends on how those processes interact.
 
-Developmental systems do not function independently.
+What counts as integration therefore depends on the target. A question about tissue patterning may require relations among cellular differentiation, signalling, growth, and mechanical conditions. A physiological developmental question may require coordination among organ systems or metabolic processes. Other cases may involve behavioural, environmental, ecological, or social relations where these materially affect the developmental process being explained.
 
-Developmental organisation instead emerges through reciprocal coordination among multiple interacting processes across time.
+No such inventory is constitutive of developmental integration in general. Integration does not require every relevant developmental process to be coordinated with every other process, nor does it imply a single organising centre. Relations can be local or more extensive, transient or sustained, strongly or weakly coupled. What matters is whether the identified relations make a relevant difference to the developmental target.
 
-Integration may involve:
-
-- physiological coordination,
-- metabolic regulation,
-- behavioural organisation,
-- ecological interaction,
-- social developmental systems,
-- temporal coordination,
-- and organism–environment coupling.
-
-Development therefore becomes an organisational achievement in which distributed processes maintain coherent viability-oriented persistence.
-
-APS consequently rejects purely reductionist interpretations of development in which isolated developmental mechanisms independently generate biological organisation.
-
-Viable developmental persistence instead depends upon coordinated relations among interacting systems whose organisation remains dynamically stabilised across time.
-
-Developmental integration persists through dynamically coordinated constraints that regulate and stabilise viability across changing developmental and ecological conditions.
+Developmental integration is consequently not synonymous with organised persistence. Integrated processes may contribute to maintaining or re-establishing organisation relevant to continued functioning, but they can also generate outcomes that are neutral or adverse with respect to viability. The relation between integration and persistence must therefore be established independently.
 
 [[box:organised-persistence-across-development]]
 
@@ -184,186 +137,93 @@ Developmental integration persists through dynamically coordinated constraints t
   <a href="/assets/diagrams/developmental-integration-visual.png" target="_blank" rel="noopener">
     <img
       src="/assets/diagrams/developmental-integration-visual.png"
-      alt="Developmental integration across interacting organisational systems"
+      alt="Developmental integration as target-dependent coordination or interdependence among developmental processes"
       loading="lazy"
     />
   </a>
 
   <p class="aps-diagram-caption">
-    <strong>Developmental Integration Across Organisational Scales.</strong>
-    Viability-oriented developmental persistence emerges through the
-    coordinated integration of physiological, behavioural, ecological,
-    temporal, and relational systems across multiple interacting
-    organisational scales.
+    <strong>Developmental Integration.</strong>
+    Developmental integration concerns coordination or interdependence among
+    developmental processes where those relations make a difference to the
+    developmental explanandum. Which processes are involved, and the spatial
+    and temporal extent over which their integration matters, depend on the
+    biological system and explanatory target concerned.
   </p>
 </div>
 
-## Multi-Scale Organisational Coordination
+## Spatial and Temporal Extent of Developmental Integration
 
-Developmental integration occurs across multiple organisational scales simultaneously.
+Developmental processes operate over different spatial and temporal extents, but this does not make developmental integration intrinsically multiscale. The extent required for explanation depends on the developmental relation under investigation.
 
-Development coordinates:
+Some cases may be explained through relatively local interactions among cells or within a tissue. Others may require coordination among tissues, organs, physiological systems, or processes extending over longer developmental periods. Environmental or behavioural relations may also become relevant where they materially affect the coordination being explained.
 
-- genetic activity,
-- cellular differentiation,
-- tissue formation,
-- organ-system regulation,
-- metabolic organisation,
-- behavioural interaction,
-- ecological participation,
-- and socially organised developmental structures.
+Relations across different extents can influence one another, but such influence should be demonstrated rather than inferred from the existence of different organisational scales. Developmental integration therefore does not require a hierarchy in which local processes are necessarily coordinated by, or subordinated to, broader organisational levels.
 
-These systems do not operate independently of one another.
+Temporal extent requires the same discipline. Integration may depend on processes acting simultaneously, sequential relations, developmental timing, or effects carried across longer intervals. The fact that development unfolds through time does not itself explain integration; explanation requires identifying the processes whose temporal relations make a difference to the outcome.
 
-Changes occurring at one organisational level may influence and reorganise processes across multiple other levels.
-
-Developmental organisation therefore emerges through coordinated multi-scale persistence rather than isolated linear causation.
-
-APS consequently interprets biological development as an organisationally distributed process in which viable persistence depends upon dynamic coordination across interacting systems.
-
-Developmental integration therefore links local developmental processes with broader organismal, ecological, and historical continuity.
+APS therefore treats spatial and temporal extent as properties of the explanatory target rather than as a universal architecture imposed on development.
 
 ## Integration and Biological Individuality
 
-Developmental integration helps explain why organisms persist as coherent biological individuals.
+Developmental integration can contribute to biological individuality where coordinated developmental processes help constitute or maintain relations relevant to the biological individual concerned. Organismal coherence, physiological coordination, or the maintenance of boundaries and internal relations may depend on developmental integration in particular cases.
 
-Biological individuality cannot be understood solely through physical boundaries or genetic identity alone.
+Integration is not, however, sufficient for individuality. Processes can be integrated without thereby establishing where the relevant biological individual begins or ends, and morphological or physiological coherence alone does not settle questions of individuality. Conversely, identifying a biological individual does not show that all of its developmental processes form a single integrated system for every explanatory purpose.
 
-Organisms remain viable because developmental organisation maintains coordinated persistence across interacting systems.
+The relation between integration and persistence likewise requires separate analysis. A biological individual may remain continuous while particular developmental relations change, and integrated processes can be disrupted without necessarily terminating the individual. Where developmental integration contributes to continued organisation, that dependency should be demonstrated rather than incorporated into the definition of individuality.
 
-Developmental integration stabilises:
-
-- physiological coherence,
-- behavioural coordination,
-- metabolic continuity,
-- organismal regulation,
-- temporal organisation,
-- and persistence across developmental transformation.
-
-APS therefore treats developmental integration as one of the organisational conditions through which biological individuality is established and maintained.
-
-Organisms persist not because their material composition remains fixed, but because developmental organisation preserves coordinated viability-oriented persistence across time.
-
-This perspective strongly connects developmental integration with broader APS accounts of processual individuality and organised persistence.
+Developmental integration can therefore participate in explanations of biological individuality without functioning as a universal criterion of individuality or persistence.
 
 ## Integration, Plasticity, and Stability
 
-Developmental integration does not eliminate developmental flexibility.
+Developmental integration is compatible with developmental change. Coordination among processes need not fix a trajectory, and changes in one process can alter relations among others. Integration may therefore be involved in stable development, plastic responses, compensation, or reorganisation, depending on the system concerned.
 
-Organisms remain developmentally responsive and environmentally adaptive even while preserving coordinated organisational persistence.
+These relations remain distinct. Developmental plasticity concerns differences in developmental outcomes or trajectories under differing conditions. Stability concerns the relative maintenance of a specified developmental feature, relation, trajectory, or outcome. Integration concerns coordination or interdependence among developmental processes. One may contribute to another without the concepts becoming interchangeable.
 
-APS therefore rejects any simple opposition between:
+A plastic response, for example, may depend on coordinated changes among several developmental processes. In another case, integration may contribute to maintaining a relatively stable outcome despite variation in conditions. Integration can also constrain developmental change or contribute to poorly regulated or adverse outcomes.
 
-- developmental flexibility,
-- and developmental stability.
-
-Viable development requires both.
-
-Developmental plasticity allows adaptive responsiveness under changing conditions, while developmental integration preserves the coherence required for viable persistence.
-
-Developmental integration therefore stabilises developmental organisation without eliminating adaptive developmental variation.
-
-Constraint plays a central organisational role within this process.
-
-Developmental constraints help stabilise viable persistence while still permitting adaptive developmental reorganisation under changing ecological and developmental conditions.
-
-This perspective closely connects developmental integration with APS discussions of:
-
-- developmental plasticity,
-- canalisation,
-- resilience,
-- temporality,
-- and continuity-preserving organisation.
+Constraint likewise has no single necessary relation to integration. Constraints may stabilise, channel, enable, or restrict relations among developmental processes, and their effects can differ among cases. Neither constraint nor integration should be assumed to preserve viability or produce adaptive developmental outcomes.
 
 [[box:developmental-stability-is-not-rigidity]]
 
 ## Perturbation and Developmental Breakdown
 
-The importance of developmental integration becomes especially visible when developmental organisation is disrupted.
+Perturbation can help investigate developmental integration because disrupting one process or relation may reveal dependencies that are difficult to distinguish under comparatively stable conditions. Genetic alteration, physiological disruption, environmental change, developmental deprivation, or other interventions can therefore help identify how developmental processes affect one another.
 
-Perturbations affecting developmental coordination may include:
+The informative result need not be successful compensation. Perturbation may be followed by maintained coordination, partial compensation, altered development, loss of coordination, developmental abnormality, failure, or no detectable effect on the target. Contrasting these outcomes can help establish which relations matter and where the limits of integration lie.
 
-- genetic disruption,
-- ecological instability,
-- physiological dysregulation,
-- developmental deprivation,
-- failures of social scaffolding,
-- or breakdowns in organism–environment coordination.
+Developmental breakdown can thus provide evidence about integration without assuming that the disrupted relations normally guarantee viability. A failure following perturbation may identify a dependency, but its biological significance still depends on what has failed and on the explanandum under investigation.
 
-Where integration fails, developmental organisation may become fragmented, unstable, or pathologically dysregulated.
-
-APS consequently treats developmental malfunction as highly informative about the organisational structures preserving viable persistence.
-
-Perturbation reveals developmental integration by exposing the coordinated systems through which developmental viability is ordinarily stabilised.
-
-Developmental fragility may also reveal hidden dependencies among developmental systems that remain less visible under stable conditions.
-
-Failures of integration therefore expose the distributed organisational relations through which coherent developmental persistence is ordinarily maintained.
-
-This perspective closely links developmental integration with APS accounts of:
-
-- diagnosis,
-- fragility,
-- resilience,
-- malfunction,
-- and organisational breakdown.
+Perturbation is an investigative strategy rather than a definition of developmental integration. Integration can be established through other forms of evidence, and disruption alone does not show that an APS explanation has been achieved.
 
 [[box:perturbation-reveals-developmental-organisation]]
 
 ## Integration Beyond the Organism
 
-Developmental integration frequently extends beyond the immediate physical boundaries of the organism itself.
+Some developmental explanations require relations extending beyond the immediate physical boundaries of an organism. Microbial associations, parental activity, resource conditions, behavioural interactions, social relations, or structured environments can influence development where they form part of the materially relevant dependencies.
 
-Many organisms depend upon:
+Such cases do not establish that developmental integration is intrinsically distributed beyond the organism. A relation outside the organism counts as part of the relevant integration only when its contribution to the developmental process or outcome can be demonstrated. Many developmental explananda may instead be adequately addressed through processes occurring within cells, tissues, organs, or the organism.
 
-- microbial symbioses,
-- ecological stability,
-- parental support systems,
-- behavioural coordination,
-- social organisation,
-- and developmentally structured environments.
+This distinction also prevents ecological dependence from being confused with biological individuality. An organism may depend developmentally on external conditions without those conditions thereby becoming parts of the organism, and a developmental explanation may include organism–environment relations without dissolving the distinction between organism and environment.
 
-Developmental persistence may therefore depend upon relational systems distributed across organism–environment interactions.
-
-APS does not interpret this relational integration as dissolving biological individuality.
-
-Rather, organisms remain coherent systems of organised persistence whose viability depends upon coordinated developmental relations extending beyond isolated internal mechanisms alone.
-
-Developmental integration therefore links organismal coherence with broader ecological and relational organisation.
+APS therefore leaves the boundary of developmental integration open to empirical determination. Its relevant extent follows the dependencies required for the explanatory target.
 
 ## Developmental Integration and Evolution
 
-Developmental integration also shapes evolutionary continuity.
+Developmental integration can become relevant to evolutionary explanation because relations among developmental processes can influence the production and distribution of phenotypic variation. Coordinated or constrained developmental processes may affect which variants arise, how developmental changes are expressed, or which combinations of traits occur.
 
-Evolution acts not upon isolated traits alone, but upon integrated developmental systems capable of sustaining viable organisation across generations.
+These effects do not make developmental integration an evolutionary process. Evolutionary explanation requires further relations involving inheritance, variation across relevant populations or lineages, differential consequences, selection where applicable, and historical change. A developmental system can be highly integrated without that integration constituting adaptation, fitness, selection, evolvability, or evolutionary continuity.
 
-Integrated developmental organisation may:
+Integration may nevertheless influence evolutionary possibilities in particular cases. Relations among developmental processes can constrain or facilitate phenotypic variation, and changes in those relations can alter the developmental production of traits. Whether such effects matter evolutionarily must be established through appropriate population-historical evidence.
 
-- constrain developmental possibilities,
-- shape evolvability,
-- stabilise viable developmental persistence,
-- and influence long-term evolutionary patterns.
-
-APS consequently interprets development and evolution as deeply interconnected organisational processes.
-
-Evolutionary persistence depends upon developmental systems capable of preserving integrated viability-oriented organisation across time.
-
-Developmental integration therefore becomes one of the organisational foundations connecting development with evolutionary continuity.
+Development and evolution can therefore be connected without being collapsed into a single organisational process. Developmental integration concerns relations among developmental processes; its evolutionary consequences are further explananda.
 
 ## Why Developmental Integration Matters in APS
 
-Developmental integration helps explain how living systems emerge as coherent biological individuals capable of maintaining viability-oriented persistence across changing conditions and developmental transformation.
+Developmental integration matters because some developmental outcomes cannot be explained adequately by considering their contributing processes in isolation. Where the activity of one process depends on, modifies, constrains, or coordinates with another, those relations can themselves become explanatory targets.
 
-Within APS:
+APS uses developmental integration to identify this problem without presupposing a universal architecture of successful development. Integration may occur over relatively local or more extensive spatial and temporal relations and may involve cellular, physiological, behavioural, environmental, ecological, or other processes where materially relevant. The required extent and dependencies must be established for the case concerned.
 
-- development is organisationally coordinated,
-- viable persistence depends upon integrated multi-scale regulation,
-- biological individuality emerges through dynamically stabilised developmental organisation across interacting systems,
-- developmental continuity depends upon coordinated temporal, ecological, physiological, and relational organisation,
-- and developmental coherence is preserved through coordinated organisational persistence rather than isolated developmental mechanisms alone.
+This preserves the distinction between integration and its consequences. Developmental integration can contribute to organismal coherence, stability, plasticity, resilience, individuality, organised persistence, or evolutionary outcomes, but none follows merely from the existence of integration. Integration can also be incomplete, altered, dysfunctional, excessive, or associated with adverse developmental outcomes.
 
-Development therefore cannot be adequately understood as the isolated construction of independent biological parts.
-
-Living systems persist because developmental processes become integrated into coordinated organisational wholes capable of sustaining viability across time.
-
-Developmental integration consequently becomes one of the central explanatory concepts linking development, individuality, ecology, resilience, diagnosis, temporality, and evolution within the broader APS framework.
+The explanatory task is to identify which developmental processes are coordinated or interdependent, determine how those relations are materially realised, and establish what difference they make to the developmental explanandum.
