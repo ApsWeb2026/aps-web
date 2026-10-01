@@ -7,19 +7,20 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-06-15
-
+revised: 2026-10-01
 cluster: developmental-organisation
 
 definition: >
-  Repair is the continuity-restoring organisation of biological
-  processes through which living systems respond to damage,
-  perturbation, or disruption in ways that preserve or recover
-  viability-oriented persistence.
+  Repair refers to biological processes that respond to damage,
+  perturbation, or disruption by restoring, replacing, compensating
+  for, or reorganising affected structures, processes, or functions.
+  The consequences of repair for viability and organised persistence
+  depend on the biological system and explanatory target concerned.
 
 inBrief: >
-  Repair is the restoration of viable organisational continuity after
-  damage or disruption.
+  Repair is a biological response to damage or disruption that restores,
+  replaces, compensates for, or reorganises affected structures,
+  processes, or functions.
 
 seeAlso:
   - regeneration
@@ -38,57 +39,39 @@ seeAlso:
 Repair is often understood as the correction of damage within a biological system.
 
 In ordinary biological usage, repair may refer to:
+
 - tissue repair,
 - cellular repair,
 - molecular repair,
 - wound healing,
 - or physiological recovery after injury.
 
-These uses are important, but they can make repair appear to be only a local corrective mechanism.
+These uses identify important forms of repair, but repair need not be understood only as a local corrective mechanism or as complete restoration of a previous state.
 
 ## APS reframing
 
-APS interprets repair as a continuity-restoring process.
+APS treats repair as a biological response to damage, perturbation, or disruption in which affected structures, processes, or functions are restored, replaced, compensated for, or reorganised.
 
-Repair matters biologically because damage threatens viable organisation. A living system repairs itself when it reorganises activity in ways that preserve or restore the conditions required for continued persistence.
+Repair does not necessarily return a system to its previous condition. Depending on the case, repair may restore damaged structure, compensate for lost function, reorganise activity around a disruption, or establish an altered configuration. The processes involved and the extent over which they must be considered depend on the biological system and explanatory target.
 
-Repair therefore concerns more than fixing parts.
-
-It involves the restoration of organisational continuity across:
-- damaged structures,
-- disrupted processes,
-- altered ecological relations,
-- physiological instability,
-- and developmental perturbation.
+Repair should therefore be distinguished from its outcome. A reparative process may be complete or partial, effective or ineffective relative to a specified target, and may produce altered or adverse consequences. Whether repair contributes to viability or continued functioning must be established rather than assumed from the occurrence of repair itself.
 
 ## Repair and Organised Persistence
 
-In APS, repair is central to organised persistence.
+Repair and organised persistence are related but distinct explanatory targets.
 
-Living systems remain viable not because disruption never occurs, but because their organisation can often respond to disruption in continuity-preserving ways.
+Repair can contribute to organised persistence when restoration, replacement, compensation, or reorganisation after damage helps sustain or re-establish organisation relevant to continued functioning. In other cases, repair may be insufficient, unsuccessful, or associated with changes that do not preserve the organisation previously present.
 
-Repair may involve:
-- local restoration,
-- compensatory reorganisation,
-- physiological adjustment,
-- immune response,
-- behavioural adaptation,
-- or developmental redirection.
-
-The common feature is that repair contributes to the maintenance or recovery of viability-oriented organisation.
+Organised persistence therefore does not define repair. The explanatory question is whether particular reparative processes make a relevant difference to persistence, viability, or another biological outcome in the case concerned.
 
 ## Repair, Regeneration, and Resilience
 
-Repair is closely related to regeneration and resilience, but they are not identical.
+Repair is closely related to regeneration and resilience, but the terms should not be treated as interchangeable.
 
-Repair restores disrupted organisation.
+Repair concerns responses to damage or disruption through restoration, replacement, compensation, or reorganisation of affected structures, processes, or functions. Regeneration concerns the production or reconstitution of lost structures, tissues, or capacities where that distinction is relevant to the biological case. Resilience concerns a system's response to perturbation and its capacity to maintain, recover, or reorganise relevant functioning or organisation.
 
-Regeneration involves the production or reconstitution of lost structures, tissues, or organisational capacities.
-
-Resilience refers to the broader capacity of a system to maintain or recover viable continuity under perturbation.
-
-Repair is therefore one pathway through which resilience may be enacted.
+Repair may participate in regeneration or contribute to resilience, but neither relation is necessary. Reparative processes can occur without complete regeneration or recovery, and whether they contribute to resilience or organised persistence must be established independently.
 
 ## Key Point
 
-Repair is the continuity-restoring organisation of biological processes through which living systems preserve or recover viable persistence after damage, perturbation, or disruption.
+Repair is a biological response to damage, perturbation, or disruption that may restore, replace, compensate for, or reorganise affected structures, processes, or functions. Its success, material extent, and consequences for viability, organised persistence, regeneration, and resilience are further explanatory questions rather than parts of its definition.
