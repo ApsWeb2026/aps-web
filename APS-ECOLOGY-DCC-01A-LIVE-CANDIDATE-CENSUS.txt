@@ -1,0 +1,5293 @@
+﻿APS-ECOLOGY-DOMAIN-CONSOLIDATION-001
+DCC-01A — Ecology Live Candidate Extraction
+Generated: 2026-10-02 10:19:39
+
+PURPOSE
+Mechanical candidate recovery from the current live APS content corpus.
+
+STATUS
+CANDIDATE CENSUS ONLY — NO BOUNDARY CLASSIFICATION OR ADJUDICATION.
+
+CONTROLS
+- Search match does not establish Ecology Proper membership.
+- Cluster membership does not establish Ecology Proper membership.
+- Title or slug terminology does not establish Ecology Proper membership.
+- Related links do not establish explanatory dependency.
+- Environmental interaction does not by itself establish ecological extension.
+- No candidate is excluded, classified, merged, edited, or frozen here.
+
+SEARCH VOCABULARY
+ecolog; ecosystem; communit; population; niche; niche construction; ecological inheritance; symbios; symbiot; mutualis; competition; predation; predator; prey; disturbance; succession; biodiversity; resilien; organism-environment; organism–environment; environmental modification; environmental scaffolding; developmental scaffolding; resource; habitat; microbiome; microbial relation; environmental interaction; ecological interaction
+
+TOTAL CONTENT FILES SCANNED: 636
+TOTAL CANDIDATE OBJECTS RECOVERED: 405
+
+================================================================
+CANDIDATE REGISTER
+================================================================
+
+CANDIDATE: ECO-DCC01A-001
+FILE: src\content\articles\adaptation-how-living-systems-sustain-themselves-through-change.md
+TITLE: Adaptation — How Living Systems Sustain Themselves Through Change
+SLUG: adaptation-how-living-systems-sustain-themselves-through-change
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; environmental modification; niche; niche construction; organism-environment; organism–environment; population; resilien; resource; succession; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-002
+FILE: src\content\articles\ageing-and-organisational-persistence.md
+TITLE: Ageing and Organisational Persistence
+SLUG: ageing-and-organisational-persistence
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-003
+FILE: src\content\articles\agency-and-organised-persistence.md
+TITLE: Agency and Organised Persistence
+SLUG: agency-and-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-004
+FILE: src\content\articles\agency-as-the-defining-activity-of-life.md
+TITLE: Agency as the Defining Activity of Life
+SLUG: agency-as-the-defining-activity-of-life
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-005
+FILE: src\content\articles\agency-evolution-and-the-architecture-of-biological-explanation.md
+TITLE: Agency, Evolution, and the Architecture of Biological Explanation
+SLUG: biological-agency-evolution-and-the-architecture-of-biological-explanation
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental modification; niche; niche construction; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-006
+FILE: src\content\articles\agency-in-contemporary-biology-ci.md
+TITLE: Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework
+SLUG: agency-in-contemporary-biology-the-emerging-agency-tradition-and-the-aps-framework
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental modification; organism-environment; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-007
+FILE: src\content\articles\agency-without-intentions-cib.md
+TITLE: Agency Without Intentions
+SLUG: biological-agency-without-intentions
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; environmental interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-008
+FILE: src\content\articles\analysis-synthesis-and-the-direction-of-explanation.md
+TITLE: Analysis, Synthesis, and the Direction of Explanation
+SLUG: analysis-synthesis-and-the-direction-of-explanation
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-009
+FILE: src\content\articles\a-practical-guide-to-building-better-scientific-explanations.md
+TITLE: A Practical Guide to Building Better Scientific Explanations
+SLUG: a-practical-guide-to-building-better-scientific-explanations
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-010
+FILE: src\content\articles\aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems.md
+TITLE: The Distribution of Cognition — Implementation, Localisation, and Explanatory Warrant
+SLUG: aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-011
+FILE: src\content\articles\aps-and-autonomy-theory-cib.md
+TITLE: APS and Autonomy Theory — Constraint Closure, Viability, and Organised Persistence
+SLUG: aps-and-autonomy-theory
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-012
+FILE: src\content\articles\aps-and-biosemiotics.md
+TITLE: APS and Biosemiotics: Meaning, Significance, and Biological Organisation
+SLUG: aps-and-biosemiotics
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; population; predator; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-013
+FILE: src\content\articles\aps-and-contemporary-theories-ci.md
+TITLE: APS and Contemporary Explanatory Approaches
+SLUG: aps-and-contemporary-theories
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-014
+FILE: src\content\articles\aps-and-economics.md
+TITLE: APS and Economics: How Economic Systems Organise Viability Across Scales
+SLUG: aps-and-economics
+TYPE: article
+STATUS: evolving
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-015
+FILE: src\content\articles\aps-and-institutions.md
+TITLE: APS and Institutions: How Social Systems Stabilise Organised Persistence
+SLUG: aps-and-institutions
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-016
+FILE: src\content\articles\aps-and-norms-ci.md
+TITLE: APS and Norms: How Social Systems Regulate Organised Persistence
+SLUG: aps-and-norms
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-017
+FILE: src\content\articles\aps-and-systems-theory-ci.md
+TITLE: APS and Systems Theory — Similarities, Differences, and Limits
+SLUG: aps-and-systems-theory
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-018
+FILE: src\content\articles\aps-and-the-edges-of-life-ci.md
+TITLE: APS and the Edges of Life — Why Borderline Cases Are Expected, Not Problematic
+SLUG: aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: artificial-systems-and-boundaries
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-019
+FILE: src\content\articles\aps-and-the-extended-evolutionary-synthesis.md
+TITLE: APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison
+SLUG: aps-and-the-extended-evolutionary-synthesis
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological inheritance; environmental interaction; environmental modification; niche; niche construction; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-020
+FILE: src\content\articles\aps-and-the-free-energy-principle.md
+TITLE: APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
+SLUG: aps-and-the-free-energy-principle
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; organism-environment; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-021
+FILE: src\content\articles\aps-as-an-evolving-intellectual-system.md
+TITLE: APS as an Evolving Intellectual System
+SLUG: aps-as-an-evolving-intellectual-system
+TYPE: article
+STATUS: draft
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-022
+FILE: src\content\articles\aps-as-philosophy-viability-oriented-account-ci.md
+TITLE: APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility
+SLUG: aps-as-philosophy-biological-intelligibility
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; organism–environment; population; resilien; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-023
+FILE: src\content\articles\aps-visual-explanatory-grammar-ci.md
+TITLE: APS Visual Explanatory Grammar
+SLUG: aps-visual-explanatory-grammar
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-024
+FILE: src\content\articles\architectural-dependency-and-biological-explanation.md
+TITLE: Architectural Dependency and Biological Explanation
+SLUG: architectural-dependency-and-biological-explanation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-025
+FILE: src\content\articles\are-viruses-alive.md
+TITLE: Are Viruses Alive?
+SLUG: are-viruses-alive
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-026
+FILE: src\content\articles\beyond-placeholder-concepts-in-biology-an-aps-clarification.md
+TITLE: Beyond Placeholder Concepts in Biology — An APS Clarification
+SLUG: beyond-placeholder-concepts-in-biology-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-027
+FILE: src\content\articles\biological-agency-as-the-activity-of-self-maintenance.md
+TITLE: Biological Agency as the Activity of Self-Maintenance
+SLUG: biological-agency-as-the-activity-of-self-maintenance
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; resource; succession; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-028
+FILE: src\content\articles\biological-causation-from-mechanism-to-organised-persistence.md
+TITLE: Biological Causation — From Mechanism to Organised Persistence
+SLUG: biological-causation-from-mechanism-to-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-029
+FILE: src\content\articles\biological-evidence-what-counts-as-evidence-for-life.md
+TITLE: Biological Evidence — What Counts as Evidence for Life
+SLUG: biological-evidence-what-counts-as-evidence-for-life
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-030
+FILE: src\content\articles\biological-explanation-and-organised-persistence-ci.md
+TITLE: Biological Explanation and Organised Persistence
+SLUG: biological-explanation-and-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-031
+FILE: src\content\articles\biological-explanation-what-needs-to-be-explained-ci.md
+TITLE: Biological Explanation — What Needs to Be Explained
+SLUG: biological-explanation-what-needs-to-be-explained
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecological interaction; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-032
+FILE: src\content\articles\biological-goals-without-mentalism.md
+TITLE: Biological Goals Without Mentalism
+SLUG: biological-goals-without-mentalism
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; organism-environment; organism–environment; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-033
+FILE: src\content\articles\biological-individuality-organised-persistence-through-time.md
+TITLE: Biological Individuality — Organised Persistence Through Time
+SLUG: biological-individuality-organised-persistence-through-time
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; environmental interaction; environmental scaffolding; organism-environment; organism–environment; population; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-034
+FILE: src\content\articles\biological-organisation-how-living-systems-sustain-themselves.md
+TITLE: Biological Organisation — How Living Systems Sustain Themselves
+SLUG: biological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental modification; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-035
+FILE: src\content\articles\biology-what-the-science-of-life-explains.md
+TITLE: Biology — What the Science of Life Explains
+SLUG: biology
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: communit; disturbance; ecolog; ecosystem; environmental modification; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-036
+FILE: src\content\articles\boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems.md
+TITLE: The Boundaries of Life: How APS Approaches Living, Artificial, and Borderline Systems
+SLUG: boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: artificial-systems-and-boundaries
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; population; resource; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-037
+FILE: src\content\articles\can-environmental-ethics-be-naturalised-ci.md
+TITLE: Can Environmental Ethics Be Naturalised?
+SLUG: can-environmental-ethics-be-naturalised
+TYPE: article
+STATUS: draft
+ROLE: extension
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: biodiversity; communit; competition; ecolog; ecosystem; habitat; population; predation; predator; prey; resilien; resource; succession; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-038
+FILE: src\content\articles\classification-without-essentialism-ci.md
+TITLE: Classification Without Essentialism — How APS Reframes Biological Taxonomy
+SLUG: classification-without-essentialism
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-039
+FILE: src\content\articles\cognition-from-life-to-mind-continuity-without-mentalism-ci.md
+TITLE: Cognition — From Life to Mind: Continuity Without Mentalism
+SLUG: cognition-from-life-to-mind-continuity-without-mentalism
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-040
+FILE: src\content\articles\cognition-where-does-it-belong-in-biology.md
+TITLE: Cognition — Where Does It Belong in Biology?
+SLUG: cognition-where-does-it-belong-in-biology
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-041
+FILE: src\content\articles\cognitive-integration-cia.md
+TITLE: Cognitive Integration (CI)
+SLUG: cognitive-integration
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-042
+FILE: src\content\articles\communication-and-coordination.md
+TITLE: Communication and Coordination
+SLUG: communication-and-coordination
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; environmental interaction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-043
+FILE: src\content\articles\comparative-explanatory-methodology-theoretical-biology.md
+TITLE: Comparative Explanatory Methodology in Theoretical Biology
+SLUG: comparative-explanatory-methodology-theoretical-biology
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-044
+FILE: src\content\articles\constraint-closure-what-it-does-and-does-not-do.md
+TITLE: Constraint Closure — What It Does and What It Does Not Do
+SLUG: constraint-closure-what-it-does-and-does-not-do
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-045
+FILE: src\content\articles\constraint-how-organisation-becomes-persistence.md
+TITLE: Constraint — How Organisation Becomes Persistence
+SLUG: constraint-how-organisation-becomes-persistence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; niche; niche construction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-046
+FILE: src\content\articles\continuity-architecture-of-life-ci.md
+TITLE: The Continuity Architecture of Life
+SLUG: continuity-architecture-of-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; ecosystem; niche; niche construction; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-047
+FILE: src\content\articles\continuity-structure-of-biological-organisation-ci.md
+TITLE: The Continuity Structure of Biological Organisation
+SLUG: continuity-structure-of-biological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; ecosystem; population; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-048
+FILE: src\content\articles\cross-culture-biology.md
+TITLE: Biological Organisation and the Organisation of Explanation: Why APS Resonates Across Intellectual Traditions
+SLUG: biological-organisation-and-the-organisation-of-explanation
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-049
+FILE: src\content\articles\cultural-inheritance-ci.md
+TITLE: Cultural Inheritance
+SLUG: cultural-inheritance
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-050
+FILE: src\content\articles\cultural-organisation.md
+TITLE: Cultural Organisation
+SLUG: cultural-organisation
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-051
+FILE: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+TITLE: Definition and Diagnosis in APS — Why Life Is Evaluated Rather Than Merely Classified
+SLUG: definition-and-diagnosis-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: ecosystem; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-052
+FILE: src\content\articles\design-in-nature-an-aps-clarification-ci.md
+TITLE: Is There Design in Nature?
+SLUG: design-in-nature-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; environmental interaction; organism–environment; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-053
+FILE: src\content\articles\developmental-canalisation.md
+TITLE: Developmental Canalisation
+SLUG: developmental-canalisation
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; organism-environment; organism–environment; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-054
+FILE: src\content\articles\developmental-fragility.md
+TITLE: Developmental Fragility
+SLUG: developmental-fragility
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; organism-environment; organism–environment; resilien; resource; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-055
+FILE: src\content\articles\developmental-inheritance.md
+TITLE: Developmental Inheritance
+SLUG: developmental-inheritance
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; environmental modification; habitat; microbial relation; niche; niche construction; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-056
+FILE: src\content\articles\developmental-integration.md
+TITLE: Developmental Integration
+SLUG: developmental-integration
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-057
+FILE: src\content\articles\developmental-niches.md
+TITLE: Developmental Niches
+SLUG: developmental-niches
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecosystem; habitat; niche; niche construction; organism-environment; organism–environment; resilien; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-058
+FILE: src\content\articles\developmental-organisation-and-organised-persistence.md
+TITLE: Developmental Organisation and Organised Persistence
+SLUG: developmental-organisation-and-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-059
+FILE: src\content\articles\developmental-plasticity-and-organised-persistence.md
+TITLE: Developmental Plasticity
+SLUG: developmental-plasticity
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-060
+FILE: src\content\articles\developmental-regulation.md
+TITLE: Developmental Regulation
+SLUG: developmental-regulation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-061
+FILE: src\content\articles\developmental-resilience.md
+TITLE: Developmental Resilience
+SLUG: developmental-resilience
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-062
+FILE: src\content\articles\developmental-scaffolding.md
+TITLE: Developmental Scaffolding
+SLUG: developmental-scaffolding
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; ecological inheritance; environmental modification; environmental scaffolding; habitat; microbial relation; niche; niche construction; organism-environment; organism–environment; resilien; resource; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-063
+FILE: src\content\articles\developmental-temporality.md
+TITLE: Developmental Temporality
+SLUG: developmental-temporality
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; microbial relation; niche; organism-environment; organism–environment; resilien; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-064
+FILE: src\content\articles\development-and-biological-individuality.md
+TITLE: Development and Biological Individuality
+SLUG: development-and-biological-individuality
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; developmental scaffolding; ecolog; ecological inheritance; habitat; microbiome; niche; niche construction; organism-environment; organism–environment; resilien; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-065
+FILE: src\content\articles\development-and-cognition.md
+TITLE: Development and cognition
+SLUG: development-and-cognition
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-066
+FILE: src\content\articles\development-and-ecological-organisation.md
+TITLE: Development and Ecological Organisation
+SLUG: development-and-ecological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecological interaction; environmental interaction; environmental modification; environmental scaffolding; habitat; microbiome; niche; niche construction; organism-environment; organism–environment; population; resilien; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-067
+FILE: src\content\articles\development-and-evolution.md
+TITLE: Development and evolution
+SLUG: development-and-evolution
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; organism-environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-068
+FILE: src\content\articles\development-and-evolutionary-explanation.md
+TITLE: Development and Evolutionary Explanation
+SLUG: development-and-evolutionary-explanation
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological inheritance; environmental modification; organism-environment; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-069
+FILE: src\content\articles\development-and-social-organisation.md
+TITLE: Development and Social Organisation
+SLUG: development-and-social-organisation
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; developmental scaffolding; ecolog; ecological interaction; niche; organism-environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-070
+FILE: src\content\articles\development-as-organised-persistence.md
+TITLE: Development as Organised Persistence
+SLUG: development-as-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; ecological interaction; microbial relation; niche; organism-environment; organism–environment; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-071
+FILE: src\content\articles\diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life.md
+TITLE: Diagnosing Agency — Biosignatures, Perturbations, and the Empirical Tractability of Life
+SLUG: diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; environmental modification; organism-environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-072
+FILE: src\content\articles\diagnosing-a-plant-system-in-aps.md
+TITLE: Diagnosing a Plant System in APS
+SLUG: diagnosing-a-plant-system-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: ecosystem; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-073
+FILE: src\content\articles\diagnosing-breakdown-when-organisation-collapses.md
+TITLE: Diagnosing Breakdown — When Organisation Collapses
+SLUG: diagnosing-breakdown-when-organisation-collapses
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-074
+FILE: src\content\articles\diagnosing-viruses-in-aps.md
+TITLE: Diagnosing Viruses in APS
+SLUG: diagnosing-viruses-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: artificial-systems-and-boundaries
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-075
+FILE: src\content\articles\diagnosis-as-continuity-analysis.md
+TITLE: Diagnosis as Continuity Analysis
+SLUG: diagnosis-as-continuity-analysis
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-076
+FILE: src\content\articles\ecological-organisation-and-organised-persistence-ci.md
+TITLE: Ecological Organisation and Organised Persistence
+SLUG: ecological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecological interaction; environmental modification; habitat; microbial relation; niche; niche construction; organism-environment; organism–environment; population; predation; predator; prey; resilien; resource; succession; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-077
+FILE: src\content\articles\ecology-as-organised-persistence-across-scale.md
+TITLE: Ecology as Organised Persistence Across Scales
+SLUG: ecology-as-organised-persistence-across-scales
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: biodiversity; communit; competition; developmental scaffolding; disturbance; ecolog; ecological interaction; ecosystem; environmental modification; habitat; microbial relation; microbiome; niche; niche construction; organism-environment; organism–environment; population; predation; predator; resilien; resource; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-078
+FILE: src\content\articles\emergence-in-biology-an-aps-clarification.md
+TITLE: Emergence in Biology — An APS Clarification
+SLUG: emergence-in-biology-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-079
+FILE: src\content\articles\environment-coupling-and-agency-why-organisms-and-surroundings-co-produce-each-other-ci.md
+TITLE: Environment, Coupling, and Agency — How Biological Agency Operates Through Ecological Relations
+SLUG: environment-coupling-and-biological-agency
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental modification; niche; niche construction; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-080
+FILE: src\content\articles\evaluation-how-living-systems-modulate-activity-relative-to-viability.md
+TITLE: Evaluation â€” How Living Systems Modulate Activity Relative to Viability
+SLUG: evaluation-how-living-systems-modulate-activity-relative-to-viability
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; niche construction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-081
+FILE: src\content\articles\evolution-as-the-historical-transformation-of-organised-persistence-ci.md
+TITLE: Evolution as the Historical Transformation of Organised Persistence
+SLUG: evolution
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; ecosystem; environmental interaction; niche; niche construction; organism–environment; population; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-082
+FILE: src\content\articles\evolution-taxonomy-and-the-reorganisation-of-biological-explanation.md
+TITLE: Evolution, Taxonomy, and the Reorganisation of Biological Explanation
+SLUG: evolution-taxonomy-and-the-reorganisation-of-biological-explanation
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; population; resource; succession; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-083
+FILE: src\content\articles\explanatory-grammar.md
+TITLE: Explanatory Grammar
+SLUG: explanatory-grammar
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecological interaction; environmental interaction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-084
+FILE: src\content\articles\explanatory-grammars-and-the-history-of-ideas.md
+TITLE: Explanatory Grammars and the History of Ideas
+SLUG: explanatory-grammars-and-the-history-of-ideas
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: communit; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-085
+FILE: src\content\articles\explanatory-priority-is-not-ontological-priority.md
+TITLE: Explanatory Priority Is Not Ontological Priority
+SLUG: explanatory-priority-is-not-ontological-priority
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-086
+FILE: src\content\articles\fitness-differential-continuity-and-organised-persistence.md
+TITLE: Fitness — Differential Continuity and Organised Persistence
+SLUG: fitness-differential-continuity-and-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental modification; niche; niche construction; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-087
+FILE: src\content\articles\from-life-to-explanation-emerging-architecture.md
+TITLE: From Life to Explanation — The Explanatory Architecture of APS
+SLUG: from-life-to-explanation-emerging-architecture
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-088
+FILE: src\content\articles\from-significance-to-morality.md
+TITLE: From Significance to Morality: The Social Architecture of APS
+SLUG: from-significance-to-morality
+TYPE: article
+STATUS: draft
+ROLE: synthesis
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; ecolog; ecosystem; habitat; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-089
+FILE: src\content\articles\from-viability-to-normativity.md
+TITLE: From Viability to Normativity
+SLUG: from-viability-to-normativity
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-090
+FILE: src\content\articles\function-and-normativity-why-biological-organisation-matters.md
+TITLE: Function and Normativity - Why Biological Organisation Matters
+SLUG: function-and-normativity-why-biological-organisation-matters
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; organism-environment; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-091
+FILE: src\content\articles\function-how-living-systems-make-persistence-operational-ci.md
+TITLE: Function as Operational Organisation
+SLUG: function-as-operational-organisation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; organism–environment; predation; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-092
+FILE: src\content\articles\gene-centric-biology-and-aps.md
+TITLE: Gene-Centric Biology and APS — Why Genes Are Not “In Charge”
+SLUG: gene-centric-biology-and-aps
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-093
+FILE: src\content\articles\homeorhesis-the-maintenance-of-living-trajectories-ci.md
+TITLE: Homeorhesis — The Maintenance of Living Trajectories
+SLUG: homeorhesis-the-maintenance-of-living-trajectories
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; population; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-094
+FILE: src\content\articles\how-did-cognition-become-a-biological-problem.md
+TITLE: How Did Cognition Become a Biological Problem?
+SLUG: how-did-cognition-become-a-biological-problem
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-095
+FILE: src\content\articles\how-did-matter-become-aware-of-itself-ci.md
+TITLE: How Did Matter Become Aware of Itself?
+SLUG: how-did-matter-become-aware-of-itself
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-096
+FILE: src\content\articles\how-do-contemporary-biological-frameworks-explain.md
+TITLE: How Do Contemporary Biological Frameworks Explain?
+SLUG: how-do-contemporary-biological-frameworks-explain
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological inheritance; niche; niche construction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-097
+FILE: src\content\articles\how-does-scientific-explanation-reach-reality.md
+TITLE: How Does Scientific Explanation Reach Reality?
+SLUG: how-does-scientific-explanation-reach-reality
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-098
+FILE: src\content\articles\how-does-theoretical-biology-make-progress.md
+TITLE: How Does Theoretical Biology Make Progress? — From Historical Change to Comparative Explanation
+SLUG: how-does-theoretical-biology-make-progress
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecological interaction; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-099
+FILE: src\content\articles\how-do-scientific-explanations-go-wrong.md
+TITLE: How Do Scientific Explanations Go Wrong?
+SLUG: how-do-scientific-explanations-go-wrong
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-100
+FILE: src\content\articles\how-do-we-know-something-is-alive.md
+TITLE: How Do We Know Something Is Alive?
+SLUG: how-do-we-know-something-is-alive
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-101
+FILE: src\content\articles\how-has-biology-tried-to-explain-life-as-a-whole.md
+TITLE: How Has Biology Tried to Explain Life as a Whole?
+SLUG: how-has-biology-tried-to-explain-life-as-a-whole
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-102
+FILE: src\content\articles\how-should-a-new-scientific-framework-be-tested.md
+TITLE: How Should a New Scientific Framework Be Tested?
+SLUG: how-should-a-new-scientific-framework-be-tested
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-103
+FILE: src\content\articles\how-should-scientific-explanations-be-compared.md
+TITLE: How Should Scientific Explanations Be Compared?
+SLUG: how-should-scientific-explanations-be-compared
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-104
+FILE: src\content\articles\how-should-the-strongest-comparator-be-chosen.md
+TITLE: How Should the Strongest Comparator Be Chosen?
+SLUG: how-should-the-strongest-comparator-be-chosen
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-105
+FILE: src\content\articles\how-to-diagnose-a-biological-system.md
+TITLE: How to Diagnose a Biological System — An APS Method
+SLUG: how-to-diagnose-a-biological-system
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-106
+FILE: src\content\articles\human-values.md
+TITLE: Human Values
+SLUG: human-values
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-107
+FILE: src\content\articles\information-in-biology-an-aps-clarification.md
+TITLE: Information in Biology: An APS Clarification
+SLUG: information-in-biology-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; niche; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-108
+FILE: src\content\articles\inheritance-and-continuity-in-aps.md
+TITLE: Inheritance and Continuity in APS
+SLUG: inheritance-and-continuity-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological inheritance; niche; organism–environment; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-109
+FILE: src\content\articles\institutions.md
+TITLE: Institutions
+SLUG: institutions
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; environmental scaffolding; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-110
+FILE: src\content\articles\is-evolution-random-ci.md
+TITLE: Is Evolution Random?
+SLUG: is-evolution-random
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-111
+FILE: src\content\articles\levels-vs-scale-why-biological-organisation-is-not-hierarchical.md
+TITLE: Levels vs Scale — Why Biological Organisation Is Not Hierarchical
+SLUG: levels-vs-scale-why-biological-organisation-is-not-hierarchical
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-112
+FILE: src\content\articles\life-cycles-and-organised-persistence.md
+TITLE: Life Cycles
+SLUG: life-cycles
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; habitat; niche; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-113
+FILE: src\content\articles\life-detection-in-aps-biosignatures-organisation-and-evidence.md
+TITLE: Life Detection in APS — Biosignatures, Organisation, and Evidence
+SLUG: life-detection-in-aps-biosignatures-organisation-and-evidence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; environmental modification; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-114
+FILE: src\content\articles\malfunction-breakdown-and-death-ci.md
+TITLE: Malfunction, Breakdown, and Death — Failure in Viability-Oriented Systems
+SLUG: malfunction-breakdown-and-death
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-115
+FILE: src\content\articles\meaning-in-biology-an-aps-clarification-ci.md
+TITLE: Meaning in Biology — An APS Clarification
+SLUG: meaning-in-biology-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-116
+FILE: src\content\articles\morphogenesis-and-organised-form.md
+TITLE: Morphogenesis
+SLUG: morphogenesis
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; microbial relation; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-117
+FILE: src\content\articles\multiple-realization-and-biological-organisation.md
+TITLE: Multiple Realization and Biological Organisation — An APS Clarification
+SLUG: multiple-realization-and-biological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-118
+FILE: src\content\articles\multiscale-evolution-and-organised-persistence.md
+TITLE: Multiscale Evolution and Organised Persistence
+SLUG: multiscale-evolution-and-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological inheritance; environmental modification; habitat; niche; niche construction; organism-environment; organism–environment; population; resource; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-119
+FILE: src\content\articles\naturalising-life-how-biological-concepts-become-scientifically-intelligible-ci.md
+TITLE: Naturalising Life
+SLUG: naturalising-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-120
+FILE: src\content\articles\natural-selection-and-organised-persistence.md
+TITLE: Natural Selection and Organised Persistence
+SLUG: natural-selection-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; niche; niche construction; organism–environment; population; predator; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-121
+FILE: src\content\articles\normativity-gradient.md
+TITLE: The Normativity Gradient (NG)
+SLUG: normativity-gradient
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-122
+FILE: src\content\articles\normativity-in-biology-why-some-things-matter-to-living-systems.md
+TITLE: Normativity in Biology — Why Some Things Matter to Living Systems
+SLUG: normativity-in-biology-why-some-things-matter-to-living-systems
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-123
+FILE: src\content\articles\ontogeny-and-organised-persistence.md
+TITLE: Ontogeny
+SLUG: ontogeny
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; environmental interaction; microbial relation; niche; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-124
+FILE: src\content\articles\organisational-realism-in-biology.md
+TITLE: Organisational Realism in Biology
+SLUG: organisational-realism-in-biology
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-125
+FILE: src\content\articles\organism-environment-coupling-and-organised-persistence.md
+TITLE: Organism–Environment Coupling — Distributed Persistence Across Living Systems
+SLUG: organism-environment-coupling
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental modification; environmental scaffolding; habitat; microbial relation; niche; niche construction; organism-environment; organism–environment; population; predation; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-126
+FILE: src\content\articles\organism-the-unity-of-viability-oriented-organisation.md
+TITLE: Organism — The Unity of Viability-Oriented Organisation
+SLUG: organism-the-unity-of-viability-oriented-organisation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-127
+FILE: src\content\articles\organism-world-coupling-why-agency-is-not-control.md
+TITLE: Organism–World Coupling — Why Agency Is Not Control
+SLUG: organism-world-coupling-agency-not-control
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; environmental interaction; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-128
+FILE: src\content\articles\persistence-organised-continuity-through-time-ci.md
+TITLE: Persistence — Organised Continuity Through Time
+SLUG: persistence-organised-continuity-through-time
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: competition; disturbance; ecolog; ecological interaction; ecosystem; organism–environment; population; resilien; resource; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-129
+FILE: src\content\articles\physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-organisation-ci.md
+TITLE: Physiology and Evolution in APS — Two Temporal Perspectives on Organised Persistence
+SLUG: physiology-and-evolution-in-aps-two-temporal-perspectives-on-the-same-biological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-130
+FILE: src\content\articles\plant-agency-an-aps-perspective-ci.md
+TITLE: Plant Agency — An APS Perspective
+SLUG: plant-agency-an-aps-perspective
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; ecolog; ecological interaction; ecosystem; environmental modification; niche; niche construction; organism–environment; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-131
+FILE: src\content\articles\plant-cognition-and-the-development-of-aps.md
+TITLE: Plant Cognition and the Development of APS: From Biological Agency to Comparative Explanation
+SLUG: plant-cognition-and-the-development-of-aps
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-132
+FILE: src\content\articles\plant-cognition-aps-interpretation.md
+TITLE: Plant Cognition — A Critical Review and APS Interpretation
+SLUG: plant-cognition-aps-interpretation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-133
+FILE: src\content\articles\process-the-dynamics-of-living-organisation.md
+TITLE: Process — The Dynamics of Living Organisation
+SLUG: process-the-dynamics-of-living-biological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-134
+FILE: src\content\articles\processual-individuality.md
+TITLE: Processual Individuality
+SLUG: processual-individuality
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; niche; organism-environment; organism–environment; resilien; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-135
+FILE: src\content\articles\purpose-the-organisation-of-viability-oriented-activity.md
+TITLE: Purpose — The Organisation of Viability-Oriented Activity
+SLUG: purpose-the-organisation-of-viability-oriented-activity
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-136
+FILE: src\content\articles\reductionism-in-biology-an-aps-clarification-cib.md
+TITLE: Reductionism in Biology — An APS Clarification
+SLUG: reductionism-in-biology-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: environmental interaction; organism–environment; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-137
+FILE: src\content\articles\reframing-biology-how-aps-reorganises-core-concepts-ci.md
+TITLE: Reframing Biology – How APS Reorganises Core Concepts
+SLUG: reframing-biology-how-aps-reorganises-core-concepts
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; disturbance; ecolog; ecological interaction; ecosystem; environmental interaction; niche; niche construction; organism–environment; population; predator; resilien; resource; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-138
+FILE: src\content\articles\repair-and-regeneration.md
+TITLE: Repair and Regeneration
+SLUG: repair-and-regeneration
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-139
+FILE: src\content\articles\representation-when-and-whether-it-arises-in-biological-systems.md
+TITLE: Representation — When and Whether It Arises in Biological Systems
+SLUG: representation-when-and-whether-it-arises-in-biological-systems
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-140
+FILE: src\content\articles\resilience-ecology-and-continuity.md
+TITLE: Resilience, Ecology, and Continuity
+SLUG: resilience-ecology-and-continuity
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; disturbance; ecolog; ecological interaction; ecosystem; environmental modification; habitat; niche; niche construction; organism-environment; organism–environment; population; predation; resilien; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-141
+FILE: src\content\articles\rethinking-development.md
+TITLE: Rethinking Development
+SLUG: rethinking-development
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; organism-environment; organism–environment; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-142
+FILE: src\content\articles\scale-how-life-is-coordinated-across-space-and-time.md
+TITLE: Scale — How Life Is Coordinated Across Space and Time
+SLUG: scale-how-life-is-coordinated-across-space-and-time
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-143
+FILE: src\content\articles\scale-time-persistence.md
+TITLE: Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity
+SLUG: scale-time-persistence
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-144
+FILE: src\content\articles\selection-revisited-what-does-selection-actually-act-on.md
+TITLE: Selection Revisited — What Does Selection Actually Act On?
+SLUG: selection-revisited-what-does-selection-actually-act-on
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-145
+FILE: src\content\articles\semiosis-how-differences-come-to-matter-in-living-systems-ci.md
+TITLE: Semiosis — How Differences Come to Matter in Living Systems
+SLUG: semiosis-how-differences-come-to-matter-in-living-systems
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecosystem; organism–environment; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-146
+FILE: src\content\articles\social-organisation.md
+TITLE: Social Organisation
+SLUG: social-organisation
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; disturbance; environmental interaction; environmental modification; population; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-147
+FILE: src\content\articles\space-time-and-organisation-in-biology.md
+TITLE: Space, Time, and Organisation in Biology — An APS Clarification
+SLUG: space-time-and-organisation-in-biology
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-148
+FILE: src\content\articles\structure-of-biological-explanation-in-aps.md
+TITLE: The Structure of Biological Explanation in APS
+SLUG: structure-of-biological-explanation-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-149
+FILE: src\content\articles\symbolic-coordination.md
+TITLE: Symbolic Coordination
+SLUG: symbolic-coordination
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-150
+FILE: src\content\articles\technology.md
+TITLE: Technology
+SLUG: technology
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental modification; habitat; niche; niche construction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-151
+FILE: src\content\articles\teleology-in-biology-an-aps-clarification-ci.md
+TITLE: Teleology in Biology — An APS Clarification
+SLUG: teleology-in-biology-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-152
+FILE: src\content\articles\teleonomy.md
+TITLE: Teleonomy — Historical Solution and APS Reinterpretation
+SLUG: teleonomy
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-153
+FILE: src\content\articles\temporal-organisation-and-organised-persistence.md
+TITLE: Temporal Organisation and Organised Persistence
+SLUG: temporal-organisation-and-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; niche; organism–environment; resilien; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-154
+FILE: src\content\articles\the-aps-glossary-as-conceptual-infrastructure.md
+TITLE: The APS Glossary as Conceptual Infrastructure
+SLUG: aps-glossary-as-conceptual-infrastructure
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: communit; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-155
+FILE: src\content\articles\the-cognitive-organisation-of-life.md
+TITLE: The Cognitive Organisation of Life
+SLUG: the-cognitive-organisation-of-life
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-156
+FILE: src\content\articles\the-developmental-organisation-of-life.md
+TITLE: The Developmental Organisation of Life
+SLUG: the-developmental-organisation-of-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; disturbance; ecolog; ecological interaction; niche; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-157
+FILE: src\content\articles\the-ecological-organisation-of-life-ci.md
+TITLE: The Ecological Organisation of Life
+SLUG: the-ecological-organisation-of-life
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; disturbance; ecolog; ecosystem; environmental interaction; habitat; mutualis; niche; niche construction; organism-environment; organism–environment; population; predation; predator; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-158
+FILE: src\content\articles\the-evolutionary-organisation-of-life-ci.md
+TITLE: The Evolutionary Organisation of Life
+SLUG: the-evolutionary-organisation-of-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; niche; niche construction; organism–environment; resilien; resource; succession; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-159
+FILE: src\content\articles\the-explanatory-geometry-of-biology-ci.md
+TITLE: The Explanatory Geometry of Biology — How APS Organises Biological Explanation
+SLUG: explanatory-geometry-of-biology
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; environmental interaction; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-160
+FILE: src\content\articles\the-one-page-framework-map.md
+TITLE: The One-Page Framework Map
+SLUG: the-one-page-framework-map
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-161
+FILE: src\content\articles\theoretical-biology-and-philosophy-of-biology-boundary-overlap-and-division-of-explanatory-labour.md
+TITLE: Theoretical Biology and Philosophy of Biology: Boundary, Overlap, and Division of Explanatory Labour
+SLUG: theoretical-biology-and-philosophy-of-biology-boundary-overlap-and-division-of-explanatory-labour
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; niche; niche construction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-162
+FILE: src\content\articles\the-philosophical-foundations-of-aps.md
+TITLE: The Philosophical Foundations of APS
+SLUG: the-philosophical-foundations-of-aps
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecological interaction; environmental interaction; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-163
+FILE: src\content\articles\the-social-organisation-of-life-ci.md
+TITLE: The Social Organisation of Life
+SLUG: the-social-organisation-of-life
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; niche; niche construction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-164
+FILE: src\content\articles\the-two-founding-questions-of-biology.md
+TITLE: The Two Founding Questions of Biology
+SLUG: the-two-founding-questions-of-biology
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-165
+FILE: src\content\articles\time-and-biological-organisation.md
+TITLE: Time and Biological Organisation — An APS Perspective
+SLUG: time-and-biological-organisation
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: communit; disturbance; ecolog; ecological interaction; ecosystem; organism–environment; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-166
+FILE: src\content\articles\variation-in-aps-where-does-novelty-come-from-ci.md
+TITLE: Variation in APS — Where Does Novelty Come From?
+SLUG: variation-in-aps-where-does-novelty-come-from
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; niche; niche construction; organism–environment; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-167
+FILE: src\content\articles\viability-gradient.md
+TITLE: The Viability Gradient (VG)
+SLUG: viability-gradient
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-168
+FILE: src\content\articles\viability-the-organising-principle-of-biological-pesistence.md
+TITLE: Viability — The Organising Principle of Biological Persistence
+SLUG: viability-the-organising-principle-of-biological-persistence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecosystem; environmental interaction; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-169
+FILE: src\content\articles\what-are-biological-values.md
+TITLE: What Are Biological Values?
+SLUG: what-are-biological-values
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: competition; disturbance; ecolog; ecological interaction; ecosystem; mutualis; niche; niche construction; population; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-170
+FILE: src\content\articles\what-are-social-norms.md
+TITLE: What Are Social Norms?
+SLUG: what-are-social-norms
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-171
+FILE: src\content\articles\what-counts-as-evolutionary-explanation-ci.md
+TITLE: What Counts as an Evolutionary Explanation?
+SLUG: what-counts-as-an-evolutionary-explanation
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-172
+FILE: src\content\articles\what-counts-as-explanatory-gain.md
+TITLE: What Counts as Explanatory Gain?
+SLUG: what-counts-as-explanatory-gain
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; niche construction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-173
+FILE: src\content\articles\what-does-aps-mean-by-an-analytic-projection.md
+TITLE: Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?
+SLUG: what-does-aps-mean-by-an-analytic-projection
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: environmental interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-174
+FILE: src\content\articles\what-happens-when-aps-is-tested-against-its-strongest-comparators.md
+TITLE: What Happens When APS Is Tested Against Its Strongest Comparators?
+SLUG: what-happens-when-aps-is-tested-against-its-strongest-comparators
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-175
+FILE: src\content\articles\what-is-a-biological-system.md
+TITLE: What Is a Biological System? — Mechanisms, Agency, and Organised Persistence
+SLUG: what-is-a-biological-system
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-176
+FILE: src\content\articles\what-is-a-gene-ci.md
+TITLE: What Is a Gene in APS?
+SLUG: what-is-a-gene-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-177
+FILE: src\content\articles\what-is-an-organism.md
+TITLE: What Is an Organism?
+SLUG: what-is-an-organism
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-178
+FILE: src\content\articles\what-is-a-scientific-explanation.md
+TITLE: What Is a Scientific Explanation?
+SLUG: what-is-a-scientific-explanation
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-179
+FILE: src\content\articles\what-is-a-species-in-aps.md
+TITLE: What Is a Species in APS?
+SLUG: what-is-a-species-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; population; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-180
+FILE: src\content\articles\what-is-a-taxon-in-aps-ci.md
+TITLE: What Is a Taxon in APS?
+SLUG: what-is-a-taxon-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-181
+FILE: src\content\articles\what-is-biological-diagnosis-in-aps.md
+TITLE: What Is Biological Diagnosis in APS?
+SLUG: what-is-biological-diagnosis-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-182
+FILE: src\content\articles\what-is-biological-evaluation.md
+TITLE: What Is Biological Evaluation?
+SLUG: what-is-biological-evaluation
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; disturbance; ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-183
+FILE: src\content\articles\what-is-biological-regulation-ci.md
+TITLE: What Is Biological Regulation?
+SLUG: what-is-biological-regulation
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecological interaction; niche; niche construction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-184
+FILE: src\content\articles\what-is-biological-significance.md
+TITLE: What Is Biological Significance?
+SLUG: what-is-biological-significance
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-185
+FILE: src\content\articles\what-is-biology-trying-to-explain.md
+TITLE: What Is Biology Trying to Explain?
+SLUG: what-is-biology-trying-to-explain
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; environmental interaction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-186
+FILE: src\content\articles\what-is-ethics.md
+TITLE: What Is Ethics?
+SLUG: what-is-ethics
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-187
+FILE: src\content\articles\what-is-evolution-in-aps.md
+TITLE: What Is Evolution in APS?
+SLUG: what-is-evolution-in-aps
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; niche; niche construction; organism–environment; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-188
+FILE: src\content\articles\what-is-integration.md
+TITLE: What Is Integration?
+SLUG: what-is-integration
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecosystem; environmental interaction; predation; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-189
+FILE: src\content\articles\what-is-it-about-life.md
+TITLE: De Anima (On the Soul)
+SLUG: what-is-it-about-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; disturbance; ecolog; ecosystem; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-190
+FILE: src\content\articles\what-is-life-a-biological-question-revisited.md
+TITLE: What Is Life? — A Biological Question Revisited
+SLUG: what-is-life-a-biological-question-revisited
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecological interaction; environmental interaction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-191
+FILE: src\content\articles\what-is-meaning.md
+TITLE: What Is Meaning?
+SLUG: meaning
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-192
+FILE: src\content\articles\what-is-mind.md
+TITLE: What Is Mind?
+SLUG: what-is-mind
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-193
+FILE: src\content\articles\what-is-moral-evaluation.md
+TITLE: What Is Moral Evaluation?
+SLUG: what-is-moral-evaluation
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-194
+FILE: src\content\articles\what-is-morality.md
+TITLE: What Is Morality?
+SLUG: what-is-morality
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-195
+FILE: src\content\articles\what-is-selfhood.md
+TITLE: What Is Selfhood?
+SLUG: what-is-selfhood
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-196
+FILE: src\content\articles\what-is-the-fundamental-unit-of-life.md
+TITLE: What Is the Fundamental Unit of Life?
+SLUG: what-is-the-fundamental-unit-of-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecosystem; microbiome; niche; niche construction; population; resource; succession; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-197
+FILE: src\content\articles\what-is-the-meaning-of-life.md
+TITLE: What Is the Meaning of Life?
+SLUG: what-is-the-meaning-of-life
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; disturbance; predator; prey; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-198
+FILE: src\content\articles\what-is-theoretical-biology-historical-transformations-and-contemporary-explanation.md
+TITLE: What Is Theoretical Biology? Historical Transformations and Contemporary Explanatory Practice
+SLUG: what-is-theoretical-biology-historical-transformations-and-contemporary-explanatory-practice
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecological interaction; population; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-199
+FILE: src\content\articles\what-makes-an-explanation-successful.md
+TITLE: What Makes an Explanation Successful?
+SLUG: what-makes-an-explanation-successful
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-200
+FILE: src\content\articles\which-explanatory-framework-is-best.md
+TITLE: Which Explanatory Framework Is Best?
+SLUG: which-explanatory-framework-is-best
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: competition; niche; niche construction; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-201
+FILE: src\content\articles\why-aps.md
+TITLE: Why APS? Why Biology Still Needs an Organisational Framework for Life
+SLUG: why-aps
+TYPE: orientation
+STATUS: canonical
+ROLE: anchor
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; ecosystem; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-202
+FILE: src\content\articles\why-aps-is-not-hierarchical-ci.md
+TITLE: Why APS Is Not Hierarchical
+SLUG: why-aps-is-not-hierarchical
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; organism–environment; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-203
+FILE: src\content\articles\why-aps-is-not-holism-ci.md
+TITLE: Why APS Is Not Holism
+SLUG: why-aps-is-not-holism
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-204
+FILE: src\content\articles\why-aps-reframes-biology.md
+TITLE: Why APS Reframes Biology
+SLUG: why-aps-reframes-biology
+TYPE: article
+STATUS: canonical
+ROLE: anchor
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-205
+FILE: src\content\articles\why-cognition-cannot-be-separated-from-organised-persistence.md
+TITLE: Why Cognition Cannot Be Separated from Organised Persistence
+SLUG: why-cognition-cannot-be-separated-from-organised-persistence
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; organism–environment; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-206
+FILE: src\content\articles\why-do-organisms-have-goals.md
+TITLE: Why Do Organisms Have Goals?
+SLUG: why-do-organisms-have-goals
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-207
+FILE: src\content\articles\why-is-biology-different-from-physics.md
+TITLE: Why Is Biology Different From Physics?
+SLUG: why-is-biology-different-from-physics
+TYPE: article
+STATUS: canonical
+ROLE: synthesis
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-208
+FILE: src\content\articles\why-life-is-not-active-inference-ci.md
+TITLE: Why Life Is Not Active Inference
+SLUG: why-life-is-not-active-inference
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-209
+FILE: src\content\articles\why-life-is-not-a-machine-ci.md
+TITLE: Why Life Is Not a Machine — An APS Clarification
+SLUG: why-life-is-not-a-machine
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-210
+FILE: src\content\articles\why-life-is-not-autopoiesis.md
+TITLE: Why Life Is Not Autopoiesis
+SLUG: why-life-is-not-autopoiesis
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; organism–environment; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-211
+FILE: src\content\articles\why-life-is-not-computation-an-aps-clarification.md
+TITLE: Why Life Is Not Computation — An APS Clarification
+SLUG: why-life-is-not-computation-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: extension
+CLUSTER: artificial-systems-and-boundaries
+MATCH COUNT: 1
+SEARCH BASIS: competition; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-212
+FILE: src\content\articles\why-life-is-not-control-theory.md
+TITLE: Why Life Is Not Control Theory
+SLUG: why-life-is-not-control-theory
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; disturbance; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-213
+FILE: src\content\articles\why-life-is-not-dnas-way-of-making-more-dna-ci.md
+TITLE: Why Life Is Not DNA’s Way of Making More DNA
+SLUG: why-life-is-not-dnas-way-of-making-more-dna
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-214
+FILE: src\content\articles\why-life-is-not-enactivism-cic.md
+TITLE: Why Life Is Not Enactivism
+SLUG: why-life-is-not-enactivism
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: environmental interaction; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-215
+FILE: src\content\articles\why-life-is-not-information-processing.md
+TITLE: Why Life Is Not Information Processing
+SLUG: why-life-is-not-information-processing
+TYPE: article
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: competition; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-216
+FILE: src\content\articles\why-life-is-not-intelligence-an-aps-clarification-ci.md
+TITLE: Why Life Is Not Intelligence, An APS Clarification
+SLUG: why-life-is-not-intelligence-an-aps-clarification
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-217
+FILE: src\content\articles\why-organisms-cannot-be-understood-apart-from-their-environments.md
+TITLE: Why Organisms Cannot Be Understood Apart from Their Environments
+SLUG: why-organisms-cannot-be-understood-apart-from-their-environments
+TYPE: article
+STATUS: canonical
+ROLE: core
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: biodiversity; communit; disturbance; ecolog; ecological interaction; ecosystem; habitat; niche; niche construction; organism-environment; organism–environment; population; predation; predator; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-218
+FILE: src\content\articles\why-philosophy-of-biology-matters.md
+TITLE: Why Philosophy of Biology Matters
+SLUG: why-philosophy-of-biology-matters
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-219
+FILE: src\content\articles\why-use-aps-if-biology-already-has-the-concepts.md
+TITLE: Why Use APS If Biology Already Has the Concepts?
+SLUG: why-use-aps-if-biology-already-has-the-concepts
+TYPE: article
+STATUS: canonical
+ROLE: clarification
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-220
+FILE: src\content\boxes\adaptation-is-not-selection.md
+TITLE: APS Box — Adaptation Is Not Selection
+SLUG: adaptation-is-not-selection
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-221
+FILE: src\content\boxes\aps-box-agency-cannot-be-located-at-a-single-scale.md
+TITLE: Agency Cannot Be Located at a Single Scale
+SLUG: agency-cannot-be-located-at-a-single-scale
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-222
+FILE: src\content\boxes\aps-box-agency-is-activity-not-property.md
+TITLE: APS Box — Agency Is Activity, Not Property
+SLUG: agency-is-activity-not-property
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-223
+FILE: src\content\boxes\aps-box-appearance-is-not-evidence-of-life.md
+TITLE: Appearance Is Not Evidence of Life
+SLUG: appearance-is-not-evidence-of-life
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnosis-and-evidence
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-224
+FILE: src\content\boxes\aps-box-aps-in-one-sentence.md
+TITLE: APS in One Sentence
+SLUG: aps-in-one-sentence
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-225
+FILE: src\content\boxes\aps-box-biological-meaning-is-not-human-meaning.md
+TITLE: APS Box — Biological Meaning Is Not Human Meaning
+SLUG: biological-meaning-is-not-human-meaning
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy
+MATCH COUNT: 1
+SEARCH BASIS: predator
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-226
+FILE: src\content\boxes\aps-box-biological-organisation-not-explanatory-ladder.md
+TITLE: APS Box — Biological Organisation Is Not an Explanatory Ladder
+SLUG: biological-organisation-not-explanatory-ladder
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecosystem; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-227
+FILE: src\content\boxes\aps-box-borderline-systems-as-explanatory-tests-ci.md
+TITLE: APS Box — Borderline Systems as Explanatory Tests
+SLUG: borderline-systems-as-explanatory-tests
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: artificial-systems-and-boundaries
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-228
+FILE: src\content\boxes\aps-box-cognition-pathway-ci.md
+TITLE: Cognition Pathway
+SLUG: cognition-pathway
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-229
+FILE: src\content\boxes\aps-box-cultural-inheritance-is-not-genetic-inheritance.md
+TITLE: APS Box — Cultural Inheritance Is Not Genetic Inheritance
+SLUG: aps-box-cultural-inheritance-is-not-genetic-inheritance
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-and-social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-230
+FILE: src\content\boxes\aps-box-different-questions-different-units.md
+TITLE: APS Box — Different Questions, Different Units
+SLUG: different-questions-different-units
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-231
+FILE: src\content\boxes\aps-box-epistemic-levels-are-not-ontological-levels.md
+TITLE: Epistemic Levels Are Not Ontological Levels
+SLUG: epistemic-levels-are-not-ontological-levels
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-232
+FILE: src\content\boxes\aps-box-fitness-is-not-reproductive-success-alone.md
+TITLE: Fitness Is Not Reproductive Success Alone
+SLUG: fitness-is-not-reproductive-success-alone
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-233
+FILE: src\content\boxes\aps-box-fundamental-does-not-mean-smallest.md
+TITLE: APS Box — Fundamental Does Not Mean Smallest
+SLUG: fundamental-does-not-mean-smallest
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-234
+FILE: src\content\boxes\aps-box-genes-are-not-blueprints.md
+TITLE: APS Box — Genes Are Not Blueprints
+SLUG: genes-are-not-blueprints
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-235
+FILE: src\content\boxes\aps-box-goals-do-not-require-consciousness.md
+TITLE: APS Box — Goals Do Not Require Consciousness
+SLUG: goals-do-not-require-consciousness
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: agency-and-life
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-236
+FILE: src\content\boxes\aps-box-inheritance-is-not-information-transfer.md
+TITLE: APS Box — Inheritance Is Not Information Transfer
+SLUG: inheritance-is-not-information-transfer
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-237
+FILE: src\content\boxes\aps-box-institutions-are-distributed-constraints.md
+TITLE: APS Box — Institutions Are Distributed Constraints
+SLUG: aps-box-institutions-are-distributed-constraints
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-238
+FILE: src\content\boxes\aps-box-integration-across-scales.md
+TITLE: APS Box — Integration Across Scales
+SLUG: integration-across-scales
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; ecolog; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-239
+FILE: src\content\boxes\aps-box-moral-evaluation-is-not-moral-agreement.md
+TITLE: Moral Evaluation Is Not Moral Agreement
+SLUG: moral-evaluation-is-not-moral-agreement
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-240
+FILE: src\content\boxes\aps-box-natural-selection-as-differential-stabilisation.md
+TITLE: APS Box — Natural Selection as Differential Stabilisation
+SLUG: natural-selection-as-differential-stabilisation
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-241
+FILE: src\content\boxes\aps-box-organisational-domains-are-not-levels.md
+TITLE: Organisational Domains Are Not Levels
+SLUG: organisational-domains-are-not-levels
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-242
+FILE: src\content\boxes\aps-box-random-does-not-mean-unconstrained.md
+TITLE: Random Does Not Mean Unconstrained
+SLUG: random-does-not-mean-unconstrained
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-243
+FILE: src\content\boxes\aps-box-regulation-is-not-control.md
+TITLE: APS Box — Regulation Is Not Control
+SLUG: regulation-is-not-control
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-244
+FILE: src\content\boxes\aps-box-relational-value-is-not-mere-usefulness.md
+TITLE: Relational Value Is Not Mere Usefulness
+SLUG: relational-value-is-not-mere-usefulness
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-245
+FILE: src\content\boxes\aps-box-scale-does-not-decide-moral-priority.md
+TITLE: Scale Does Not Decide Moral Priority
+SLUG: scale-does-not-decide-moral-priority
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-246
+FILE: src\content\boxes\aps-box-scale-is-not-size.md
+TITLE: Scale Is Not Size
+SLUG: scale-is-not-size
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecosystem; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-247
+FILE: src\content\boxes\aps-box-significance-is-not-conscious-meaning.md
+TITLE: Significance Is Not Conscious Meaning
+SLUG: significance-is-not-conscious-meaning
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-248
+FILE: src\content\boxes\aps-box-social-norms-are-not-laws.md
+TITLE: Social Norms Are Not Laws
+SLUG: social-norms-are-not-laws
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-249
+FILE: src\content\boxes\aps-box-species-are-not-fundamental-units.md
+TITLE: APS Box — Species Are Not Fundamental Units
+SLUG: aps-box-species-are-not-fundamental-units
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-250
+FILE: src\content\boxes\aps-box-stability-is-not-resilience.md
+TITLE: APS Box — Stability Is Not Resilience
+SLUG: aps-box-stability-is-not-resilience
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-251
+FILE: src\content\boxes\aps-box-structure-of-evolutionary-explanation.md
+TITLE: APS Box — The Structure of Evolutionary Explanation
+SLUG: structure-of-evolutionary-explanation
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-252
+FILE: src\content\boxes\aps-box-symbols-are-not-just-representations.md
+TITLE: APS Box — Symbols Are Not Just Representations
+SLUG: aps-box-symbols-are-not-just-representations
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-253
+FILE: src\content\boxes\aps-box-temporal-organisation.md
+TITLE: APS Box — Temporal Organisation
+SLUG: temporal-organisation
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: temporal-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-254
+FILE: src\content\boxes\aps-box-variation-adaptation-fitness-selection.md
+TITLE: APS Box — Variation, Adaptation, Fitness, and Selection
+SLUG: variation-adaptation-fitness-selection
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-255
+FILE: src\content\boxes\aps-box-viability-is-not-mere-survival.md
+TITLE: APS Box — Viability Is Not Mere Survival
+SLUG: viability-is-not-mere-survival
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-256
+FILE: src\content\boxes\aps-box-viruses-as-organisational-parasites.md
+TITLE: APS Box — Viruses as Organisational Parasites
+SLUG: viruses-as-organisational-parasites
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-257
+FILE: src\content\boxes\aps-box-what-aps-adds-to-contemporary-biology.md
+TITLE: APS Box — What APS Adds to Contemporary Biology
+SLUG: aps-box-what-aps-adds-to-contemporary-biology
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-258
+FILE: src\content\boxes\aps-box-what-aps-means-by-cognition.md
+TITLE: APS Box — What APS Means by Cognition
+SLUG: what-aps-means-by-cognition
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: 
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-259
+FILE: src\content\boxes\aps-box-what-is-a-biological-individual.md
+TITLE: APS Box — What Is a Biological Individual?
+SLUG: what-is-a-biological-individual
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: microbiome
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-260
+FILE: src\content\boxes\aps-box-what-is-explanatory-grammar.md
+TITLE: APS Box — What Is Explanatory Grammar?
+SLUG: aps-box-what-is-explanatory-grammar
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: 
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-261
+FILE: src\content\boxes\aps-box-why-plants-changed-biology.md
+TITLE: APS Box — Why Plants Changed Biology
+SLUG: why-plants-changed-biology
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-262
+FILE: src\content\boxes\aps-box-why-things-matter-to-living-systems.md
+TITLE: APS Box — Why Things Matter to Living Systems
+SLUG: why-things-matter-to-living-systems
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: 
+MATCH COUNT: 1
+SEARCH BASIS: predation; predator
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-263
+FILE: src\content\boxes\borderline-cases-viruses-sterile-organisms-artificial-systems.md
+TITLE: APS Box — Borderline Cases: Viruses, Sterile Organisms, Artificial Systems
+SLUG: borderline-cases-viruses-sterile-organisms-artificial-systems
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: 
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-264
+FILE: src\content\boxes\communication-is-not-information-transfer.md
+TITLE: APS Box — Communication Is Not Information Transfer
+SLUG: aps-box-communication-is-not-information-transfer
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-265
+FILE: src\content\boxes\conceptual-closure-and-the-aps-system.md
+TITLE: Conceptual Organisation and the APS Glossary
+SLUG: conceptual-closure-and-the-aps-glossary
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-266
+FILE: src\content\boxes\constraint-closure-and-self-maintenance.md
+TITLE: Constraint Closure and Self-Maintenance
+SLUG: constraint-closure-and-self-maintenance
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: 
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-267
+FILE: src\content\boxes\continuity-architectures-are-not-separate-systems.md
+TITLE: APS Box — Continuity Architectures Are Not Separate Systems
+SLUG: continuity-architectures-are-not-separate-systems
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-268
+FILE: src\content\boxes\continuity-is-not-wholeness.md
+TITLE: APS Box — Continuity Is Not Wholeness
+SLUG: continuity-is-not-wholeness
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-269
+FILE: src\content\boxes\culture-is-organised-persistence-beyond-individuals.md
+TITLE: APS Box — Culture Is Organised Persistence Beyond Individuals
+SLUG: aps-box-culture-is-organised-persistence-beyond-individuals
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-270
+FILE: src\content\boxes\developmental-stability-is-not-rigidity.md
+TITLE: APS Box — Developmental Stability Is Not Rigidity
+SLUG: developmental-stability-is-not-rigidity
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-271
+FILE: src\content\boxes\developmental-time-is-not-clock-time.md
+TITLE: APS Box — Developmental Time Is Not Clock Time
+SLUG: developmental-time-is-not-clock-time
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-272
+FILE: src\content\boxes\ecological-resilience-and-persistence-ci.md
+TITLE: APS Box — Ecological Resilience and Persistence
+SLUG: ecological-resilience-and-persistence
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-273
+FILE: src\content\boxes\explanation-is-not-reduction.md
+TITLE: APS Box — Explanation Is Not Reduction
+SLUG: aps-box-explanation-is-not-reduction
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: environmental interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-274
+FILE: src\content\boxes\explanatory-priority-is-not-ontological-priority.md
+TITLE: Explanatory Priority Is Not Ontological Priority
+SLUG: explanatory-priority-is-not-ontological-priority
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-275
+FILE: src\content\boxes\life-is-not-one-process.md
+TITLE: APS Box — Life Is Not One Process
+SLUG: life-is-not-one-process
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-276
+FILE: src\content\boxes\multiple-realization-and-oraganised-persistence.md
+TITLE: APS Box — Multiple Realization and Organised Persistence
+SLUG: multiple-realization-and-organised-persistence
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-277
+FILE: src\content\boxes\norms-are-coordination-constraints.md
+TITLE: APS Box — Norms Are Coordination Constraints
+SLUG: aps-box-norms-are-coordination-constraints
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-278
+FILE: src\content\boxes\organisation-agency-and-viability.md
+TITLE: APS Box — Organisation, Agency, and Viability
+SLUG: organisation-agency-and-viability
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: environmental modification
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-279
+FILE: src\content\boxes\organisational-biology-and-persistence.md
+TITLE: APS Box — Organisational Biology and Persistence
+SLUG: organisational-biology-and-persistence
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-280
+FILE: src\content\boxes\organisational-boundaries-are-not-physical-boundaries.md
+TITLE: APS Box — Organisational Boundaries Are Not Physical Boundaries
+SLUG: organisational-boundaries-are-not-physical-boundaries
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: artificial-systems-and-boundaries
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-281
+FILE: src\content\boxes\organised-persistence-across-development.md
+TITLE: APS Box — Organised Persistence Across Development
+SLUG: organised-persistence-across-development
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-282
+FILE: src\content\boxes\organised-persistence-and-prediction.md
+TITLE: APS Box — Organised Persistence and Prediction
+SLUG: aps-box-organised-persistence-and-prediction
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-283
+FILE: src\content\boxes\organism-environment-coupling.md
+TITLE: APS Box — Organism–Environment Coupling
+SLUG: organism-environment-coupling
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-284
+FILE: src\content\boxes\perturbation-reveals-developmental-organisation.md
+TITLE: APS Box — Perturbation Reveals Developmental Organisation
+SLUG: perturbation-reveals-developmental-organisation
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-285
+FILE: src\content\boxes\scale-is-not-hierarchy.md
+TITLE: APS Box — Scale Is Not Hierarchy
+SLUG: scale-is-not-hierarchy
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-286
+FILE: src\content\boxes\selection-is-not-the-whole-of-evolution.md
+TITLE: APS Box — Selection Is Not the Whole of Evolution
+SLUG: selection-is-not-the-whole-of-evolution
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; niche; niche construction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-287
+FILE: src\content\boxes\symbols-and-social-memory.md
+TITLE: APS Box — Symbols and Social Memory
+SLUG: symbols-and-social-memory
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-288
+FILE: src\content\boxes\symbols-are-mechanisms-of-coordination.md
+TITLE: APS Box — Symbols Are Mechanisms of Coordination
+SLUG: aps-box-symbols-are-mechanisms-of-coordination
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-289
+FILE: src\content\boxes\technology-extends-organisational-capacity.md
+TITLE: APS Box — Technology Extends Organisational Capacity
+SLUG: aps-box-technology-extends-organisational-capacity
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-290
+FILE: src\content\boxes\the-niche-as-organised-opportunity.md
+TITLE: APS Box — The Niche as Organised Opportunity
+SLUG: the-niche-as-organised-opportunity
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-291
+FILE: src\content\boxes\the-organisational-definition-of-life.md
+TITLE: APS Box — The Organisational Definition of Life
+SLUG: organisational-definition-of-life
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-292
+FILE: src\content\boxes\why-aps-is-not-arbitrary.md
+TITLE: APS Box — Why APS Is Not Arbitrary
+SLUG: why-aps-is-not-arbitrary
+TYPE: box
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-293
+FILE: src\content\diagrams\temporal-architecture-of-persistence-inheritance-and-transformation.md
+TITLE: Temporal Architecture of Persistence, Inheritance, and Transformation
+SLUG: temporal-architecture-of-persistence-inheritance-and-transformation
+TYPE: 
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-294
+FILE: src\content\glossary\accountability.md
+TITLE: Accountability
+SLUG: accountability
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-295
+FILE: src\content\glossary\adaptation-ci.md
+TITLE: Adaptation
+SLUG: adaptation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; niche construction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-296
+FILE: src\content\glossary\affordance.md
+TITLE: Affordance
+SLUG: affordance
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-297
+FILE: src\content\glossary\ageing.md
+TITLE: Ageing
+SLUG: ageing
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-298
+FILE: src\content\glossary\autonomy.md
+TITLE: Autonomy
+SLUG: autonomy
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-299
+FILE: src\content\glossary\awareness-ci.md
+TITLE: Awareness
+SLUG: awareness
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-300
+FILE: src\content\glossary\behaviour.md
+TITLE: Behaviour
+SLUG: behaviour
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-301
+FILE: src\content\glossary\biological-agency-ci.md
+TITLE: Biological Agency
+SLUG: biological-agency
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental modification; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-302
+FILE: src\content\glossary\biological-explanation.md
+TITLE: Biological Explanation
+SLUG: biological-explanation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-303
+FILE: src\content\glossary\biological-imperative.md
+TITLE: Biological Imperative
+SLUG: biological-imperative
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-304
+FILE: src\content\glossary\biological-individual.md
+TITLE: Biological Individual
+SLUG: biological-individual
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; microbiome; resilien; symbios; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-305
+FILE: src\content\glossary\biological-meaning.md
+TITLE: Biological Meaning
+SLUG: biological-meaning
+TYPE: glossary
+STATUS: draft
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; predator; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-306
+FILE: src\content\glossary\biological-organisation.md
+TITLE: Biological Organisation
+SLUG: biological-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-307
+FILE: src\content\glossary\biological-value.md
+TITLE: Biological Value
+SLUG: biological-value
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-308
+FILE: src\content\glossary\causation.md
+TITLE: Causation
+SLUG: causation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-309
+FILE: src\content\glossary\closure.md
+TITLE: Closure
+SLUG: closure
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-310
+FILE: src\content\glossary\communication.md
+TITLE: Communication
+SLUG: communication
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-311
+FILE: src\content\glossary\constraint-closure.md
+TITLE: Constraint Closure
+SLUG: constraint-closure
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-312
+FILE: src\content\glossary\continuity.md
+TITLE: Continuity
+SLUG: continuity
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-313
+FILE: src\content\glossary\coordination.md
+TITLE: Coordination
+SLUG: coordination
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-314
+FILE: src\content\glossary\coupling.md
+TITLE: Coupling
+SLUG: coupling
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; ecosystem; organism–environment; population; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-315
+FILE: src\content\glossary\cultural-inheritance.md
+TITLE: Cultural Inheritance
+SLUG: cultural-inheritance
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-316
+FILE: src\content\glossary\culture.md
+TITLE: Culture
+SLUG: culture
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-317
+FILE: src\content\glossary\dependency.md
+TITLE: Dependency
+SLUG: dependency
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-318
+FILE: src\content\glossary\developmental-organisation.md
+TITLE: Developmental Organisation
+SLUG: developmental-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; organism–environment; resilien; resource; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-319
+FILE: src\content\glossary\developmental-plasticity.md
+TITLE: Developmental Plasticity
+SLUG: developmental-plasticity
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-320
+FILE: src\content\glossary\developmental-regulation.md
+TITLE: Developmental Regulation
+SLUG: developmental-regulation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-321
+FILE: src\content\glossary\developmental-scaffolding.md
+TITLE: Developmental Scaffolding
+SLUG: developmental-scaffolding
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; niche; niche construction; organism-environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-322
+FILE: src\content\glossary\distributed-functional-organisation.md
+TITLE: Distributed Functional Organisation
+SLUG: distributed-functional-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; habitat; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-323
+FILE: src\content\glossary\ecological-organisation.md
+TITLE: Ecological Organisation
+SLUG: ecological-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; competition; ecolog; ecosystem; environmental modification; niche; niche construction; organism-environment; population; predation; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-324
+FILE: src\content\glossary\ecological-resilience.md
+TITLE: Ecological Resilience
+SLUG: ecological-resilience
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: biodiversity; communit; disturbance; ecolog; ecological interaction; ecosystem; habitat; predation; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-325
+FILE: src\content\glossary\ecology.md
+TITLE: Ecology
+SLUG: ecology
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; organism-environment; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-326
+FILE: src\content\glossary\ecosystem.md
+TITLE: Ecosystem
+SLUG: ecosystem
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: biodiversity; communit; disturbance; ecolog; ecological interaction; ecosystem; environmental modification; habitat; niche; niche construction; organism–environment; population; predation; predator; resilien; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-327
+FILE: src\content\glossary\emergence.md
+TITLE: Emergence
+SLUG: emergence
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: methodology-and-explanation
+MATCH COUNT: 1
+SEARCH BASIS: ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-328
+FILE: src\content\glossary\environment.md
+TITLE: Environment
+SLUG: environment
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-329
+FILE: src\content\glossary\environmental-responsibility.md
+TITLE: Environmental Responsibility
+SLUG: environmental-responsibility
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-330
+FILE: src\content\glossary\environmental-value.md
+TITLE: Environmental Value
+SLUG: environmental-value
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-331
+FILE: src\content\glossary\ethics.md
+TITLE: Ethics
+SLUG: ethics
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-332
+FILE: src\content\glossary\evolution.md
+TITLE: Evolution
+SLUG: evolution
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; niche; niche construction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-333
+FILE: src\content\glossary\evolutionary-organisation.md
+TITLE: Evolutionary Organisation
+SLUG: evolutionary-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-334
+FILE: src\content\glossary\fitness-ci.md
+TITLE: Fitness
+SLUG: fitness
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; niche; niche construction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-335
+FILE: src\content\glossary\fragility.md
+TITLE: Fragility
+SLUG: fragility
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-336
+FILE: src\content\glossary\goal.md
+TITLE: Goal
+SLUG: goal
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; organism–environment; population; resource; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-337
+FILE: src\content\glossary\holism.md
+TITLE: Holism
+SLUG: holism
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-338
+FILE: src\content\glossary\human-values.md
+TITLE: Human Values
+SLUG: human-values
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-339
+FILE: src\content\glossary\information.md
+TITLE: Information
+SLUG: information
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-340
+FILE: src\content\glossary\inheritance.md
+TITLE: Inheritance
+SLUG: inheritance
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-341
+FILE: src\content\glossary\institutions.md
+TITLE: Institutions
+SLUG: institutions
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-342
+FILE: src\content\glossary\integration.md
+TITLE: Integration
+SLUG: integration
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-343
+FILE: src\content\glossary\levels.md
+TITLE: Levels of Organisation
+SLUG: levels-of-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-344
+FILE: src\content\glossary\life-cycle.md
+TITLE: Life-Cycle
+SLUG: life-cycle
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-345
+FILE: src\content\glossary\lineage.md
+TITLE: Lineage
+SLUG: lineage
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-346
+FILE: src\content\glossary\malfunction.md
+TITLE: Malfunction
+SLUG: malfunction
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-347
+FILE: src\content\glossary\mattering-ci.md
+TITLE: Mattering
+SLUG: mattering
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-348
+FILE: src\content\glossary\meaning.md
+TITLE: Meaning
+SLUG: meaning
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-349
+FILE: src\content\glossary\mechanism.md
+TITLE: Mechanism
+SLUG: mechanism
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-350
+FILE: src\content\glossary\moral-evaluation.md
+TITLE: Moral Evaluation
+SLUG: moral-evaluation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-351
+FILE: src\content\glossary\morality.md
+TITLE: Morality
+SLUG: morality
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-352
+FILE: src\content\glossary\moral-standing.md
+TITLE: Moral Standing
+SLUG: moral-standing
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecosystem
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-353
+FILE: src\content\glossary\morphogenesis.md
+TITLE: Morphogenesis
+SLUG: morphogenesis
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; organism-environment; organism–environment; resilien; resource; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-354
+FILE: src\content\glossary\morphology.md
+TITLE: Morphology
+SLUG: morphology
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-355
+FILE: src\content\glossary\multi-scale-causation.md
+TITLE: Multi-Scale Causation
+SLUG: multi-scale-causation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-356
+FILE: src\content\glossary\natural-selection.md
+TITLE: Natural Selection
+SLUG: natural-selection
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification; niche; niche construction; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-357
+FILE: src\content\glossary\niche.md
+TITLE: Niche
+SLUG: niche
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; niche; organism–environment; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-358
+FILE: src\content\glossary\niche-construction.md
+TITLE: Niche Construction
+SLUG: niche-construction
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: developmental scaffolding; ecolog; ecosystem; environmental modification; habitat; niche; niche construction; organism-environment; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-359
+FILE: src\content\glossary\ontogeny.md
+TITLE: Ontogeny
+SLUG: ontogeny
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental scaffolding; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-360
+FILE: src\content\glossary\organisational-continuity.md
+TITLE: Organisational Continuity
+SLUG: organisational-continuity
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-361
+FILE: src\content\glossary\organisational-coupling.md
+TITLE: Organisational Coupling
+SLUG: organisational-coupling
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental modification; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-362
+FILE: src\content\glossary\organisational-realism.md
+TITLE: Organisational Realism
+SLUG: organisational-realism
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: philosophy-of-biology
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-363
+FILE: src\content\glossary\organised-persistence.md
+TITLE: Organised Persistence
+SLUG: organised-persistence
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; ecosystem; organism–environment; population; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-364
+FILE: src\content\glossary\organism-environment-coupling.md
+TITLE: Organism–Environment Coupling
+SLUG: organism-environment-coupling
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: ecological-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-365
+FILE: src\content\glossary\persistence-ci.md
+TITLE: Persistence
+SLUG: persistence
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-366
+FILE: src\content\glossary\perturbation.md
+TITLE: Perturbation
+SLUG: perturbation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: disturbance
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-367
+FILE: src\content\glossary\plasticity.md
+TITLE: Plasticity
+SLUG: plasticity
+TYPE: glossary
+STATUS: canonical
+ROLE: glossary
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism-environment; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-368
+FILE: src\content\glossary\process.md
+TITLE: Process
+SLUG: process
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-369
+FILE: src\content\glossary\processual-individual.md
+TITLE: Processual Individual
+SLUG: processual-individual
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resilien; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-370
+FILE: src\content\glossary\reason.md
+TITLE: Reason
+SLUG: reason
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-371
+FILE: src\content\glossary\regeneration.md
+TITLE: Regeneration
+SLUG: regeneration
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: population; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-372
+FILE: src\content\glossary\repair.md
+TITLE: Repair
+SLUG: repair
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: developmental-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-373
+FILE: src\content\glossary\representation.md
+TITLE: Representation
+SLUG: representation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; environmental interaction; organism–environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-374
+FILE: src\content\glossary\resilience.md
+TITLE: Resilience
+SLUG: resilience
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: diagnostics-and-empirical-tractability
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; ecological interaction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-375
+FILE: src\content\glossary\resolution.md
+TITLE: Resolution
+SLUG: resolution
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-376
+FILE: src\content\glossary\responsibility.md
+TITLE: Responsibility
+SLUG: responsibility
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-377
+FILE: src\content\glossary\scale.md
+TITLE: Scale
+SLUG: scale
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-378
+FILE: src\content\glossary\semiosis.md
+TITLE: Semiosis
+SLUG: semiosis
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-379
+FILE: src\content\glossary\shared-evaluation.md
+TITLE: Shared Evaluation
+SLUG: shared-evaluation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-380
+FILE: src\content\glossary\social-norms.md
+TITLE: Social Norms
+SLUG: social-norms
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; population; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-381
+FILE: src\content\glossary\social-organisation.md
+TITLE: Social Organisation
+SLUG: social-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit; ecolog; organism-environment
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-382
+FILE: src\content\glossary\social-power.md
+TITLE: Social Power
+SLUG: social-power
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-383
+FILE: src\content\glossary\species-ci.md
+TITLE: Species
+SLUG: species
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-384
+FILE: src\content\glossary\symbolic-coordination.md
+TITLE: Symbolic Coordination
+SLUG: symbolic-coordination
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-385
+FILE: src\content\glossary\technology.md
+TITLE: Technology
+SLUG: technology
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; niche; niche construction; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-386
+FILE: src\content\glossary\temporal-field.md
+TITLE: Temporal Field
+SLUG: temporal-field
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-387
+FILE: src\content\glossary\temporality.md
+TITLE: Temporality
+SLUG: temporality
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; resilien; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-388
+FILE: src\content\glossary\temporal-organisation.md
+TITLE: Temporal Organisation
+SLUG: temporal-organisation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-389
+FILE: src\content\glossary\transformation-ci.md
+TITLE: Transformation
+SLUG: transformation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: population
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-390
+FILE: src\content\glossary\values.md
+TITLE: Values
+SLUG: values
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: social-organisation
+MATCH COUNT: 1
+SEARCH BASIS: communit
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-391
+FILE: src\content\glossary\variation-ci.md
+TITLE: Variation
+SLUG: variation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: evolutionary-dynamics
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; environmental interaction; environmental modification
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-392
+FILE: src\content\glossary\viability.md
+TITLE: Viability
+SLUG: viability
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-393
+FILE: src\content\glossary\viability-orientation.md
+TITLE: Viability-Orientation
+SLUG: viability-orientation
+TYPE: glossary
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-394
+FILE: src\content\orientation\aps-architecture-map-ci.md
+TITLE: APS Architecture Map — Navigating the Framework
+SLUG: aps-architecture-map
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; population; resilien; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-395
+FILE: src\content\orientation\aps-challenges-limitations-and-future-directions.md
+TITLE: APS Challenges, Limitations, and Future Directions
+SLUG: aps-challenges-limitations-and-future-directions
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; population; resource; symbios
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-396
+FILE: src\content\orientation\aps-viability-oriented-framework-ci.md
+TITLE: APS — A Viability-Oriented Framework for Understanding Life
+SLUG: aps-viability-oriented-framework
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; ecological interaction; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-397
+FILE: src\content\orientation\how-aps-concepts-fit-together.md
+TITLE: How APS Concepts Fit Together
+SLUG: how-aps-concepts-fit-together
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecosystem; population; resilien; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-398
+FILE: src\content\orientation\how-aps-explains-life-ci.md
+TITLE: How APS Explains Life — A Two-Step Guide
+SLUG: how-aps-explains-life
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: competition; ecolog; environmental interaction; organism–environment; population; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-399
+FILE: src\content\orientation\how-to-read-this-aps-framework-website-ci.md
+TITLE: How to Read APS
+SLUG: how-to-read-this-aps-framework-website
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; organism–environment; resilien
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-400
+FILE: src\content\orientation\navigating-aps-conceptual-guideposts.md
+TITLE: Navigating APS — Conceptual Guideposts
+SLUG: navigating-aps-conceptual-guideposts
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-401
+FILE: src\content\orientation\the-aps-glossary-why-definitions-matter-ci.md
+TITLE: The APS Glossary - Why Definitions Matter
+SLUG: the-aps-glossary-why-definitions-matter
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: 
+MATCH COUNT: 1
+SEARCH BASIS: resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-402
+FILE: src\content\orientation\the-core-structure-of-aps-how-the-framework-fits-together.md
+TITLE: The Core Structure of APS — How the Framework Fits Together
+SLUG: the-core-structure-of-aps-how-the-framework-fits-together
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; organism–environment; population; resilien; resource; succession
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-403
+FILE: src\content\orientation\understanding-aps-the-structure-of-the-framework-cia.md
+TITLE: Understanding APS — The Structure of the Framework
+SLUG: understanding-aps-the-structure-of-the-framework
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: ecolog; ecological interaction; niche; organism–environment; population; resilien; resource; symbiot
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-404
+FILE: src\content\orientation\what-is-aps-ci.md
+TITLE: What Is APS?
+SLUG: what-is-aps
+TYPE: orientation
+STATUS: canonical
+ROLE: 
+CLUSTER: conceptual-foundations
+MATCH COUNT: 1
+SEARCH BASIS: disturbance; ecolog; organism–environment; resilien; resource
+
+----------------------------------------------------------------
+
+CANDIDATE: ECO-DCC01A-405
+FILE: src\content\streams\cognition.md
+TITLE: Cognition
+SLUG: cognition
+TYPE: 
+STATUS: canonical
+ROLE: 
+CLUSTER: cognition-and-mind
+MATCH COUNT: 1
+SEARCH BASIS: ecolog
+
+----------------------------------------------------------------
+

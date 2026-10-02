@@ -6,7 +6,7 @@ status: "canonical"
 date: 2026-05-18
 canonical: true
 canonicalLockDate: 2026-05-18
-revised: 2026-10-02
+revised: 2026-06-15
 cluster: ecological-organisation
 
 definition: >
@@ -48,9 +48,9 @@ relatedArticles:
   - adaptation-how-living-systems-sustain-themselves-through-change
 ---
 
-## Ecosystem
+# Ecosystem
 
-### Definition
+## Definition
 
 In APS, an **ecosystem** is a distributed continuity organisation composed of interacting organisms, environmental processes, energetic flows, and ecological constraints through which viability-oriented persistence is sustained across scale and time.
 
@@ -68,7 +68,7 @@ APS therefore approaches ecosystems as distributed forms of organised persistenc
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
-## Ecosystems and Organised Persistence
+# Ecosystems and Organised Persistence
 
 Living systems do not persist independently of ecological organisation.
 
@@ -85,7 +85,7 @@ Ecosystems therefore participate directly in the persistence conditions of livin
 
 APS consequently treats ecosystems not as external environmental containers, but as continuity organisations within which viability-oriented persistence becomes distributed across ecological relations.
 
-## Ecosystems Are Not Static Containers
+# Ecosystems Are Not Static Containers
 
 APS rejects the idea that ecosystems are static regions containing organisms.
 
@@ -104,7 +104,7 @@ Organisms simultaneously:
 
 Ecosystems therefore emerge through recursively organised ecological activity rather than through fixed environmental boundaries alone.
 
-## Ecosystems and Environmental Coupling
+# Ecosystems and Environmental Coupling
 
 Ecosystems depend upon environmental coupling.
 
@@ -123,7 +123,7 @@ Environmental conditions constrain persistence possibilities, while living syste
 APS consequently approaches ecosystems as:
 > distributed coupling structures through which ecological continuity is sustained.
 
-## Ecosystems and Scale
+# Ecosystems and Scale
 
 Ecosystems operate across interacting scales.
 
@@ -146,7 +146,7 @@ For example:
 
 APS therefore approaches ecosystems through multiscale continuity analysis rather than through isolated local interaction alone.
 
-## Ecosystems and Perturbation
+# Ecosystems and Perturbation
 
 Ecosystems exist under continual perturbation.
 
@@ -171,7 +171,7 @@ APS consequently treats ecosystems as dynamically reorganising continuity system
 
 [[box:perturbation-reveals-organisation]]
 
-## Ecosystems and Resilience
+# Ecosystems and Resilience
 
 Ecosystem persistence depends upon resilience.
 
@@ -192,7 +192,7 @@ Resilience may involve:
 APS therefore approaches ecosystem resilience as:
 > continuity-preserving ecological reorganisation across scale.
 
-## Ecosystems and Adaptation
+# Ecosystems and Adaptation
 
 Adaptation and ecosystems continuously co-organise one another.
 
@@ -214,7 +214,7 @@ Ecosystems therefore evolve historically through ongoing reciprocal continuity t
 
 APS consequently rejects static conceptions of ecological organisation.
 
-## Ecosystems and Semiosis
+# Ecosystems and Semiosis
 
 Ecosystems are also semiosic organisations.
 
@@ -238,7 +238,7 @@ because they affect persistence possibilities.
 
 APS consequently approaches ecosystems not merely materially, but semiosically.
 
-## Ecosystems and Constraint Closure
+# Ecosystems and Constraint Closure
 
 Ecosystems extend continuity through distributed constraint relations.
 
@@ -256,7 +256,7 @@ Ecological continuity emerges through distributed relations of reciprocal organi
 APS consequently approaches ecosystems as:
 > distributed persistence organisations structured through ecological continuity relations.
 
-## APS Reframing of Ecosystems
+# APS Reframing of Ecosystems
 
 Many conventional approaches treat ecosystems primarily as:
 - environmental regions;

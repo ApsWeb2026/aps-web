@@ -1,0 +1,23 @@
+﻿APS-ECOLOGY-PRODUCTION-AUDIT-001
+EPA-D2C — Frozen Live-Source Package Construction
+
+SOURCE POPULATION
+Articles: 7
+Boxes: 4
+Glossary: 7
+Total source objects: 18
+
+VISUAL-ASSET POPULATION
+Asset-reference records: 6
+Resolved references: 6
+Unresolved references: 0
+Unique referenced assets: 3
+
+CONTROL STATE
+Frozen Ecology-Proper population only.
+No substitute objects admitted.
+No production findings made.
+No source files modified.
+No visual assets modified.
+No repairs performed.
+Rendered website presentation not yet inspected.

@@ -6,7 +6,7 @@ status: "canonical"
 date: 2026-05-18
 canonical: true
 canonicalLockDate: 2026-05-18
-revised: 2026-10-02
+revised: 2026-06-15
 cluster: ecological-organisation
 
 definition: >
@@ -46,9 +46,9 @@ relatedArticles:
   - explanatory-geometry-of-biology
 ---
 
-## Ecological Resilience
+# Ecological Resilience
 
-### Definition
+## Definition
 
 In APS, **ecological resilience** refers to the capacity of distributed ecological continuity systems to sustain, reorganise, or transform viability-oriented persistence under conditions of perturbation, instability, or environmental change.
 
@@ -59,7 +59,7 @@ APS therefore approaches ecological resilience not merely as resistance to distu
 
 [[box:aps-box-what-is-explanatory-grammar]]
 
-## Ecological Resilience and Organised Persistence
+# Ecological Resilience and Organised Persistence
 
 Living systems persist within continuously changing ecological conditions.
 
@@ -77,7 +77,7 @@ Ecological resilience concerns the capacity of these distributed continuity rela
 
 APS consequently treats ecological resilience as a central organisational property of ecological continuity systems.
 
-## Ecological Resilience Is Not Mere Stability
+# Ecological Resilience Is Not Mere Stability
 
 APS distinguishes ecological resilience from simple ecological stability.
 
@@ -98,7 +98,7 @@ Ecological systems frequently remain resilient precisely because they are capabl
 
 Ecological resilience therefore concerns dynamic continuity rather than static equilibrium.
 
-## Ecological Resilience and Perturbation
+# Ecological Resilience and Perturbation
 
 Ecological resilience becomes visible through perturbation.
 
@@ -123,7 +123,7 @@ APS consequently treats perturbation as one of the principal conditions through 
 
 [[box:perturbation-reveals-organisation]]
 
-## Ecological Resilience and Environmental Coupling
+# Ecological Resilience and Environmental Coupling
 
 Ecological resilience depends upon environmental coupling.
 
@@ -142,7 +142,7 @@ Environmental change reorganises ecological persistence conditions, while living
 APS consequently approaches ecological resilience as:
 > continuity-preserving reorganisation within distributed coupling systems.
 
-## Ecological Resilience and Adaptation
+# Ecological Resilience and Adaptation
 
 Ecological resilience and adaptation are closely related but distinct.
 
@@ -162,7 +162,7 @@ The two processes interact continuously because:
 
 APS therefore approaches ecological resilience and adaptation as interdependent dimensions of ecological persistence.
 
-## Ecological Resilience Across Scale
+# Ecological Resilience Across Scale
 
 Ecological resilience operates across interacting scales.
 
@@ -184,7 +184,7 @@ APS consequently approaches ecological resilience through distributed multiscale
 - climatic;
 - and evolutionary systems.
 
-## Ecological Resilience and Semiosis
+# Ecological Resilience and Semiosis
 
 Ecological resilience is also semiosic.
 
@@ -203,7 +203,7 @@ Organisms persist because ecological differences matter.
 
 APS consequently approaches ecological resilience not merely materially, but semiosically.
 
-## Ecological Resilience and Constraint Closure
+# Ecological Resilience and Constraint Closure
 
 Ecological resilience depends upon distributed constraint organisation.
 
@@ -221,7 +221,7 @@ Ecological resilience therefore concerns the capacity of ecological continuity s
 APS consequently approaches ecological resilience as:
 > distributed continuity-preserving ecological organisation across scale and time.
 
-## Ecological Resilience and Diagnosis
+# Ecological Resilience and Diagnosis
 
 Ecological resilience is central to ecological diagnosis.
 
@@ -240,7 +240,7 @@ APS consequently integrates ecological resilience directly with:
 - resilience dynamics;
 - and ecological diagnosis.
 
-## APS Reframing of Ecological Resilience
+# APS Reframing of Ecological Resilience
 
 Many conventional approaches treat ecological resilience primarily as:
 - recovery after disturbance;
