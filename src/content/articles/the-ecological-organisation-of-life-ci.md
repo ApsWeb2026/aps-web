@@ -349,7 +349,7 @@ At the same time, evolution transforms ecology. Novel forms of organisation alte
 
 The relationship is therefore one of mutual influence rather than simple causation in a single direction. Ecology shapes evolutionary possibilities, while evolution reshapes ecological organisation. This reciprocity helps explain why neither domain can be fully understood in isolation. Evolutionary continuity remains inseparable from the ecological circumstances through which viability is maintained across generations.
 
-APS therefore treats ecology and evolution as interdependent continuity architectures operating at different timescales. Evolution explains continuity through historical transformation across generations and lineages. Ecology contributes the organism–environment dimension through which those historical processes remain viable. Together they reveal how persistence extends simultaneously across ecological and historical dimensions.
+APS therefore treats ecology and evolution as interdependent continuity architectures operating at different timescales. Ecology contributes the organism–environment dimension through which those historical processes remain viable. Together they reveal how persistence extends simultaneously across ecological and historical dimensions.
 
 ## Ecology and Cognition
 
