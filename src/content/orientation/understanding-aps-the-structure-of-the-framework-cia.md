@@ -1,12 +1,12 @@
 ---
 date: 2026-04-27
-title: "Understanding APS — The Structure of the Framework"
+title: "Understanding APS: The Structure of the Framework"
 slug: understanding-aps-the-structure-of-the-framework
 type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-27
+revised: 2026-10-03
 cluster: conceptual-foundations
 abstract: >
   This article serves as a guide to navigating the APS framework. Rather
@@ -14,10 +14,8 @@ abstract: >
   of the major pathways, domains, and explanatory themes that organise the
   framework. Readers are introduced to the principal concepts and
   developmental, ecological, evolutionary, cognitive, diagnostic, and
-  social pathways of APS and shown how the framework proposes to relate
-  these domains where they bear upon living organisation and organised
-  persistence. The pathways retain different explanatory targets and
-  proposition-specific evidential status.
+  social pathways of APS and shown how these different parts relate where they bear upon living organisation and organised persistence.  The pathways retain different
+  explanatory targets and proposition-specific evidential status.
   The article is intended to help readers understand where particular
   concepts, questions, and research programmes belong within the wider
   framework and how different routes through APS connect to one another.
@@ -116,7 +114,7 @@ Persistence becomes important because living systems must maintain continuity th
 
 The framework therefore provides a connected navigational structure. Its domains can be examined for how they bear upon organised persistence while retaining their own questions, methods and explanatory resources. Their relationship is conditional rather than a cumulative hierarchy of necessary layers.
 
-Readers sometimes ask whether APS is primarily about development, ecology, evolution, cognition, diagnosis, or social organisation. APS investigates all of these domains where their findings bear upon living organisation, but it does not assume that they share a single explanandum or that Agency, Process and Scale are equally required in each case. The framework uses a common organisational lens to formulate possible relationships that must then be assessed target by target.
+Readers sometimes ask whether APS is primarily about development, ecology, evolution, cognition, diagnosis, or social organisation. APS investigates all of these areas where their findings bear upon living organisation, but it does not assume that they share a single explanandum or that Agency, Process and Scale are equally required in each case. The framework uses a common organisational lens to formulate possible relationships that must then be assessed target by target.
 
 ## How APS Is Organised
 
