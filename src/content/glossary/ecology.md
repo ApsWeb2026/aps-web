@@ -6,7 +6,7 @@ status: "canonical"
 date: 2026-05-18
 canonical: true
 canonicalLockDate: 2026-05-18
-revised: 2026-10-02
+revised: 2026-10-07
 cluster: ecological-organisation
 
 definition: >
@@ -61,6 +61,6 @@ APS therefore approaches ecology not as external environmental background surrou
 
 Ecology is sometimes understood simply as the study of environments or ecosystems.
 
-APS instead treats ecology as the organisation of continuity through which organisms and environments jointly sustain viable persistence. Organisms remain identifiable biological systems, yet their persistence depends continuously upon ecological relations extending beyond their physical boundaries. Interactions among organisms—including competition, predation, and symbiosis—can alter ecological conditions and organisation, thereby changing the possibilities for viable persistence. Ecology therefore contributes directly to biological explanation because it helps constitute the continuity through which living systems remain viable.
+APS instead treats ecology as the organisation of continuity through which organisms and environments jointly sustain viable persistence. Organisms remain identifiable biological systems, yet their persistence depends continuously upon ecological relations extending beyond their physical boundaries. Interactions among organisms—including competition, predation, and symbiosis—can alter ecological conditions and organisation, thereby changing the possibilities for viable persistence by the organisms involved. Ecology therefore contributes directly to biological explanation because it helps constitute the continuity through which living systems remain viable.
 
 The concepts introduced here—including organism–environment coupling, resilience, adaptation, distributed continuity, and multiscale ecological organisation—are developed in the accompanying ecology articles.
