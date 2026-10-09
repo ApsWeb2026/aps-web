@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-10-09
+revised: 2026-10-10
 cluster: conceptual-foundations
 role: synthesis
 
@@ -25,13 +25,13 @@ abstract: >
   and the strongest relevant comparator.
 
 keyPoints:
-  - Contemporary biological approaches increasingly emphasise organismal activity, but they do not thereby constitute a single theory of Agency.
+  - Contemporary biological approaches increasingly emphasise organismal activity, but they do not thereby constitute a single theory of agency.
   - Shared vocabulary does not establish shared explanatory commitments, and different terminology does not necessarily establish substantive disagreement.
   - APS defines biological agency as viability-oriented organisational activity.
-  - Agency attribution must be distinguished from participation in agency, explanatory Scale, and explanatory gain.
+  - Agency attribution must be distinguished from participation in agency, explanatory scale, and explanatory gain.
   - Organism-centred evolution, autonomy theory, organismic biology, developmental plasticity, evo-devo, and process biology provide different comparator classes.
-  - Processuality, developmental responsiveness, organisational closure, and evolutionary consequence do not by themselves establish biological Agency.
-  - Explanatory differences must be assessed at matched targets against the strongest relevant comparator, and the explanatory gain from Agency may be null.
+  - Processuality, developmental responsiveness, organisational closure, and evolutionary consequence do not by themselves establish biological agency.
+  - Explanatory differences must be assessed at matched targets against the strongest relevant comparator, and the explanatory gain from agency may be null.
 
 relatedGlossaryTerms:
   - biological-agency
@@ -65,7 +65,11 @@ references:
   - difrisco-gawne-2025-biological-agency-research-program
 ---
 
-## 1. Why Agency Has Returned to Biology
+**Where This Article Fits**
+
+*This article places APS within the contemporary biological agency debate and assesses what agency can presently contribute to biological explanation. It differs from *Agency as the Defining Activity of Life*, *which develops the foundational APS account of life and biological agency, and from the general APS articles on biological explanation, which establish the wider methodology for explanatory comparison and explanatory gain. Here the focus is specifically comparative: contemporary approaches to agency are reconstructed alongside APS, and claims for agency are tested against their strongest relevant alternatives. The article therefore provides a bridge between APS's conceptual foundations and its more specialised agency research, while keeping explanatory, integrative, and communicative contributions distinct.*
+
+## Why Agency Has Returned to Biology
 
 The idea that living organisms are active participants in their own existence is not new. Biological thought has long concerned itself with the capacities of organisms to maintain their conditions of life, regulate their activities, develop in relation to their surroundings, and contribute to their own persistence. What has changed in contemporary theoretical biology is the renewed attention given to these activities when explaining biological organisation, development, evolution, and organism–environment relations.
 
@@ -97,7 +101,7 @@ The answers may differ. A defensible ontological attribution need not improve a 
 
 The significance of the contemporary agency discussion lies partly in bringing these questions into sharper focus. Its scientific value depends on how precisely they are answered, rather than on how widely agency terminology is adopted.
 
-## 2. What Is Meant by Biological Agency?
+## What Is Meant by Biological Agency?
 
 The expression *biological agency* has no single universally accepted meaning. It is used in discussions of behaviour, evolution, autonomy, cognition, development, regulation, and biological individuality. In some contexts it refers to organisms pursuing goals; in others to the capacity of living systems to maintain themselves, to regulate their interactions with environments, or to contribute actively to evolutionary outcomes.
 
@@ -163,7 +167,7 @@ For this article, the most important methodological consequence is that competin
 
 The following sections examine how these distinctions operate in organism-centred evolution, theories of autonomy, developmental and process-oriented approaches, and criticisms of biological agency. Only after reconstructing those positions can the particular contribution and limitations of APS be assessed.
 
-## 3. Agency and Evolution
+## Agency and Evolution
 
 Evolutionary biology provides one of the most important settings for the contemporary debate about agency. Organisms develop, behave, regulate their relations with environments, and sometimes alter the conditions affecting their survival and reproduction. These activities can influence evolutionary outcomes. The disputed question is not whether organisms are causally active, but how their activities should figure in evolutionary explanation and whether describing them as agents makes an additional explanatory difference.
 
@@ -217,7 +221,7 @@ Agency attribution concerns the organisation and activity of the candidate agent
 
 The contemporary significance of Walsh and Okasha lies partly in making these distinctions harder to overlook. Their contributions motivate closer examination of organismal activity and agential interpretation, without establishing in advance that agency terminology is indispensable.
 
-## 4. Autonomy and Self-Maintenance
+## Autonomy and Self-Maintenance
 
 A second major approach to biological agency begins not with evolutionary change but with the organisation through which living systems maintain themselves.
 
@@ -289,7 +293,7 @@ Their relationships should be investigated through the actual dependencies they 
 
 The resulting comparison must therefore preserve the independent explanatory achievements of autonomy theory. Agency should not be credited with organisational dependencies already established by the strongest autonomy account unless it demonstrably contributes an additional distinction relevant to the explanatory target.
 
-## 5. Development, Plasticity and Purposiveness
+## Development, Plasticity and Purposiveness
 
 A third group of approaches places emphasis on the activities through which organisms develop, respond to changing circumstances, and participate in the production of phenotypes.
 
@@ -377,7 +381,7 @@ This leaves open several legitimate outcomes. Agency may prove important to a pa
 
 The value of developmental and process-oriented research should not depend upon which of these outcomes is reached.
 
-## 6. The Case Against Biological Agency
+## The Case Against Biological Agency
 
 The renewed interest in biological agency has not gone unchallenged. Critics question whether the concept identifies a distinctive biological phenomenon, whether it adds anything to established explanatory practices, and whether the diversity of agency definitions permits a coherent research programme.
 
@@ -459,7 +463,7 @@ DiFrisco and Gawne's challenge is therefore best treated as a continuing demand 
 
 This challenge applies to APS as well as to other agency approaches. A definition of biological agency does not exempt the framework employing it from comparative assessment.
 
-## 7. What Has Biological Agency Actually Explained?
+## What Has Biological Agency Actually Explained?
 
 The contemporary agency debate raises an important distinction between recognising a biological phenomenon and explaining it.
 
@@ -603,7 +607,7 @@ The next question is therefore not whether agency should be accepted or rejected
 
 That question provides the appropriate basis for assessing APS alongside the other contemporary approaches considered in this article.
 
-## 8. Where the APS Framework Fits
+## Where the APS Framework Fits
 
 The contemporary debate about biological agency raises several different questions. What makes a biological organisation an agent? How is agency related to autonomy, regulation, development, and evolution? When does agency terminology contribute to an explanation? And can a common conceptual framework help connect biological knowledge across otherwise separate disciplines?
 
@@ -713,7 +717,7 @@ The framework's present contribution is best understood as a specified account o
 
 Whether that account produces additional explanatory, integrative, or communicative benefits remains a question for research.
 
-## 9. What Remains Unresolved?
+## What Remains Unresolved?
 
 The contemporary biological agency debate has clarified the importance of organismal activity, autonomy, regulation, purposiveness, and biological individuality. It has also revealed substantial differences in the meanings and explanatory roles assigned to agency.
 
