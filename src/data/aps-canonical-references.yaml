@@ -5157,3 +5157,28 @@ references:
     status: verified
     authority: "Wiley / Evolution & Development"
     verifiedDate: 2026-10-01
+- id: okasha-2018-agents-goals-evolution
+  type: book
+  authors: Okasha, S.
+  year: 2018
+  title: 'Agents and Goals in Evolution'
+  publisher: Oxford University Press
+  doi: 10.1093/oso/9780198815082.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-10-09
+- id: okasha-2024-concept-agent-biology
+  type: journal-article
+  authors: Okasha, S.
+  year: 2024
+  title: 'The Concept of Agent in Biology: Motivations and Meanings'
+  journal: Biological Theory
+  volume: '19'
+  pages: 6–10
+  doi: 10.1007/s13752-023-00439-z
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-10-09
+  

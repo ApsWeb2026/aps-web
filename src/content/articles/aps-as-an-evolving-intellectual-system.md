@@ -3,9 +3,9 @@ date: 2026-09-28
 title: "APS as an Evolving Intellectual System"
 slug: aps-as-an-evolving-intellectual-system
 type: article
-status: draft
-canonical: false
-revised: 2026-09-28
+status: canonical
+canonical: true
+revised: 2026-10-09
 cluster: methodology-and-explanation
 role: synthesis
 abstract: >
