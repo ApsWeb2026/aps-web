@@ -5,6 +5,7 @@ slug: aps-as-an-evolving-intellectual-system
 type: article
 status: canonical
 canonical: true
+canonicalLockDate: 2026-09-28
 revised: 2026-10-09
 cluster: methodology-and-explanation
 role: synthesis
