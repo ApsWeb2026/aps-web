@@ -67,7 +67,7 @@ references:
 
 **Where This Article Fits**
 
-*This article places APS within the contemporary biological agency debate and assesses what agency can presently contribute to biological explanation. It differs from *Agency as the Defining Activity of Life*, *which develops the foundational APS account of life and biological agency, and from the general APS articles on biological explanation, which establish the wider methodology for explanatory comparison and explanatory gain. Here the focus is specifically comparative: contemporary approaches to agency are reconstructed alongside APS, and claims for agency are tested against their strongest relevant alternatives. The article therefore provides a bridge between APS's conceptual foundations and its more specialised agency research, while keeping explanatory, integrative, and communicative contributions distinct.*
+*This article places APS within the contemporary biological agency debate and assesses what agency can presently contribute to biological explanation. It differs from* **Agency as the Defining Activity of Life**, *which develops the foundational APS account of life and biological agency, and from the general APS articles on biological explanation, which establish the wider methodology for explanatory comparison and explanatory gain. Here the focus is specifically comparative: contemporary approaches to agency are reconstructed alongside APS, and claims for agency are tested against their strongest relevant alternatives. The article therefore provides a bridge between APS's conceptual foundations and its more specialised agency research, while keeping explanatory, integrative, and communicative contributions distinct.*
 
 ## Why Agency Has Returned to Biology
 

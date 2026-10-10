@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-08
-revised: 2026-08-11
+revised: 2026-10-10
 cluster: conceptual-foundations
 
 abstract: >
@@ -79,7 +79,7 @@ references:
 
 No scientific framework is ever complete. Theories develop through cycles of explanation, criticism, refinement, and empirical application. New concepts must be clarified, relationships to existing theories must be established, and explanatory claims must be tested against the complexity of the natural world.
 
-AAPS is a developing framework and research programme in theoretical biology. It investigates how living systems maintain and re-establish the conditions of their persistence and how biological explanations illuminate different aspects of that organisation. Agency, Process, and Scale provide analytic projections through which this organisation can be examined: Agency concerns what living systems do, Process concerns how continuity is maintained despite change, and Scale concerns where persistence is organised across spatial and temporal extents.
+APS is a developing framework and research programme in theoretical biology. It investigates how living systems maintain and re-establish the conditions of their persistence and how biological explanations illuminate different aspects of that organisation. Agency, Process, and Scale provide analytic projections through which this organisation can be examined: Agency concerns what living systems do, Process concerns how continuity is maintained despite change, and Scale concerns where persistence is organised across spatial and temporal extents.
 
 The first phase of APS concentrated on conceptual foundations. It developed an account of life as viability-oriented, constraint-closed organisation and of biological agency as the present-tense activity through which that organisation is enacted and sustained (Spencer 2026). More recent work has made organised persistence explicit as a comparative object of biological investigation. This development has repositioned APS more precisely: comparative organisational explanation is the broader form of inquiry, while the Organised Persistence methodology provides a systematic way of investigating the maintenance, re-establishment, reorganisation, and transformation of biological continuity.
 
@@ -121,7 +121,7 @@ Second, it advances a **methodological contribution**. Comparative organisationa
 
 Third, APS advances **case-specific interpretations**. Regeneration can be examined as re-establishment of organisation, developmental plasticity as reorganisation through change, and multicellularity as evolutionary transformation of organised persistence. These demonstrations show how the methodology can be applied; they do not establish its usefulness in every biological domain.
 
-Fourth, APS develops **active and exploratory research programmes**. Architectural Dependency, organisational transition, cognition, social organisation, morality, and ethics extend the framework into questions that have different forms of evidence and different stages of development. Their position within the APS architecture does not give them equal scientific confirmation.
+Fourth, APS maintains **completed, active, and exploratory research programmes**. Investigations of explanatory architecture, cross-domain relations, biological agency, cognition, social organisation, and other biological questions have different evidential bases, outcomes, and stages of development. Their inclusion within the APS research architecture does not establish equal scientific confirmation or imply that completed investigations remain open.
 
 These claim classes are connected, but success in one does not automatically establish the others. A coherent definition of agency does not demonstrate that agency produces explanatory gain in a particular biological case. A successful analysis of regeneration does not establish universal transferability. A biological account of viability does not by itself validate later claims concerning cognition or morality.
 
@@ -611,7 +611,7 @@ An application is redundant when the comparison account already identifies the s
 
 APS is inapplicable when organised persistence is not relevant to the research question or when adding an organisational analysis produces abstraction without biological purpose. An unresolved verdict is appropriate when available evidence cannot decide among competing interpretations.
 
-These possibilities are now defined methodologically. They must still be demonstrated through published applications in which APS accepts a limited or negative result.
+These possibilities are defined methodologically and have been exercised in subsequent APS investigations. Completed comparative studies have recorded bounded findings of redundancy, equivalent redescription, and explanatory gain not established. These results restrict particular claims without establishing the failure of APS as a whole. Their existence within the APS research record must be distinguished from independent peer-reviewed publication and from broader confirmation of the framework's scientific value.
 
 **Status: Open scientific challenge.**
 
@@ -659,9 +659,9 @@ That distinction may become explanatory where multiple regulatory processes are 
 
 If the mechanistic and regulatory account already identifies the relevant integration, system conditions, response alternatives, and recovery, adding the term agency may provide no further explanation. This is the central challenge raised by DiFrisco and Gawne (2025).
 
-APS has an established definition of agency, but it has not yet demonstrated across sufficient cases when that definition changes biological investigation.
+APS has an established definition of agency, and subsequent bounded comparative investigations have examined its conceptual and explanatory usefulness. Some have yielded equivalent-redescription or local dispensability findings rather than a distinctive explanatory contribution. These results demonstrate that agency terminology cannot be presumed necessary merely because viability-oriented biological activity is present. Whether agency makes a further, independently supported contribution in other biological cases remains open.
 
-**Status: Open scientific challenge.**
+**Status: Bounded comparative investigation completed; general explanatory contribution remains unestablished.**
 
 ### Does biological agency imply consciousness, intention, or representation?
 
@@ -787,6 +787,8 @@ This approach also requires cumulative research. Individual applications should 
 
 A mature research programme would therefore contain not only successful applications but a record of restriction and revision. Its concepts should become more discriminating as cases accumulate, and its scope should be determined by results rather than conceptual ambition.
 
+Subsequent APS investigations have begun to implement this discipline. Research on general biological explanation, explanatory architecture, cross-domain reconciliation, communication, and agency has produced bounded results, including compatible interfaces among biological domains and findings of redundancy or equivalent redescription. The completed cross-domain reconciliation did not warrant a further general synthesis, while the Communication investigation closed without demonstrating a comparative reader-level advantage. These outcomes establish neither general explanatory superiority nor communicative superiority for APS. They nevertheless contribute to the cumulative assessment of its scope, limitations, and research methods. The current record is maintained on the [Research](/research/) page.
+
 ### Public scientific accountability
 
 The same structure should guide the public presentation of APS research:
@@ -813,11 +815,15 @@ This sequence would make the scientific development of APS visible without sugge
 
 The movement from criticism to research is therefore not a transition from doubt to eventual vindication. It is a transformation of general objections into questions capable of producing evidence, discrimination, negative results, and revision. APS will strengthen its scientific standing to the extent that it makes this transformation explicit and allows its claims to change in response.
 
-## Prioritised Future Research Programme
+### Research Progress and Remaining Limits
 
-APS should now prioritise consolidation, operationalisation, comparison, and testing. Its scientific standing will not be secured by extending its vocabulary across an increasing number of subjects. It will depend upon whether APS can guide disciplined biological investigation, distinguish among competing interpretations, identify its own limitations, and produce explanatory gains that would not otherwise have been obtained.
+Subsequent APS investigations have applied these comparative standards to general biological explanation, explanatory architecture, cross-domain reconciliation, communication, and biological agency. Their results include clarification of explanatory dependencies, compatible interfaces across biological domains, and bounded findings of redundancy or equivalent redescription. These investigations have not established a general APS advantage in explanatory performance or communication. Nor do internal conceptual reconciliation and methodological consistency, however useful, by themselves demonstrate superiority over alternative frameworks. The [Research](/research/) page provides the current research record and distinguishes completed investigations from questions that remain open.
 
-### Immediate Scientific Priorities
+## Continuing Scientific Challenges and Research Directions
+
+The following sections identify continuing scientific challenges and possible research directions rather than the current authorised order of APS investigations. Subsequent research has completed or restricted several programmes, while leaving other questions unresolved. Future work should therefore proceed selectively, under the governing APS Developmental Strategy and the relevant programme-specific decisions. The scientific standing of APS depends not upon extending its vocabulary across more subjects, but upon whether its concepts support disciplined investigation, meaningful comparison, recognition of explanatory limits, and warranted contributions to biological understanding.
+
+### Methodological and Biological Requirements
 
 The most immediate priority is methodological consolidation. The Organised Persistence methodology must provide a clear and reproducible procedure for moving from a biological question to an APS interpretation and then to a comparative explanatory verdict. Researchers should be able to identify the system under investigation, the relevant viability conditions, the proposed constraints and dependencies, the spatial and temporal extents across which persistence is organised, the evidence supporting these claims, and the alternative explanations against which the interpretation is being assessed.
 
