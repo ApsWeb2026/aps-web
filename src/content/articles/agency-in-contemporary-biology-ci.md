@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-10-10
+revised: 2026-10-11
 cluster: conceptual-foundations
 role: synthesis
 
@@ -838,6 +838,8 @@ APS enters this debate with a particular account of life as viability-oriented, 
 This framework makes explicit distinctions among agency attribution, organised persistence, biological significance, explanatory target, and explanatory gain.
 
 Its strongest present contribution is the formulation and disciplined application of these distinctions, not a demonstrated explanatory superiority over established biological approaches.
+
+A central present contribution of APS is its integrated explanatory architecture, which makes explicit and relates proposed organisational dependencies across biological domains through a disciplined comparative methodology. Within this architecture, biological agency provides an organising explanatory connection between living organisation, biological evaluation, significance and cognition. It helps articulate how cognition can be continuous with life without being identical with life or agency, while leaving the relevant biological dependencies open to case-specific investigation. More broadly, APS provides a coherent, interconnected resource for exploring relationships among biological processes, clarifying explanatory questions and supporting communication across disciplinary boundaries. These are substantive features of the framework, distinct from claims of comparative explanatory superiority. Whether APS provides greater explanatory insight, more effective conceptual integration or improved communicative utility than the strongest existing alternatives remains to be demonstrated through appropriate, target-matched comparison.
 
 The completed comparative investigations have produced negative and equivalent-redescription outcomes. These results place genuine limits on what can presently be claimed for APS, while preserving the possibility of further contributions in other explanatory contexts.
 

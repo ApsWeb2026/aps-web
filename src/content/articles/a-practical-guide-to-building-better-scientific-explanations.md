@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-05
-revised: 2026-09-06
+revised: 2026-10-11
 cluster: methodology-and-explanation
 role: core
 abstract: "Scientific explanations are easier to assess when their explananda, explanatory claims, explanatory resources, evidence, strongest relevant alternatives, claimed additional contributions and warranted scope remain explicitly aligned. This article converts the preceding Methodology and Explanation sequence into a practical, non-algorithmic guide for constructing and assessing explanations while permitting bounded positive, null, unresolved and non-comparable outcomes."
@@ -58,6 +58,18 @@ A scientific explanation is easier to assess when its principal commitments rema
 The **explanandum** identifies what is to be explained. The explanatory claim states what kind of contribution is being offered. The explanatory resources identify what is supposed to do the explanatory work. The evidence must support that claimed relation rather than merely confirm that the phenomenon exists. Where comparison is warranted, the relevant alternative must be reconstructed strongly enough to receive full explanatory credit. Any claim of additional explanatory capacity must then be judged relative to that comparator, and the resulting conclusion must remain within the scope actually supported.
 
 This is particularly important in biology, where explanatory work may involve mechanisms, histories, dependencies, models, constraints, developmental routes, organisational relations or combinations of these. Contemporary biology therefore rewards clarity about explanatory targets and resources rather than assuming that one explanatory form is sufficient for every question (Ross, 2025).
+
+### Three Kinds of Explanatory Improvement
+
+Scientific explanations can be improved in at least three distinct ways:
+
+1. **Explanatory improvement** — An account establishes an additional, adequately warranted explanatory dependency or capacity relative to the strongest relevant alternative.
+
+2. **Organisational or integrative improvement** — Existing explanatory relationships are made more explicit, better distinguished, or more coherently connected, without necessarily adding a biological explanation.
+
+3. **Communicative improvement** — An explanation becomes easier for its intended audience to understand, remember, or use correctly. Claims of improved reader understanding require appropriate evidence.
+
+These improvements are valuable but not interchangeable. Greater integration or clarity does not by itself establish explanatory gain, and a scientifically stronger explanation is not necessarily easier to communicate. What counts as improvement depends on the explanatory question, the achievement being claimed, and the evidence supporting it. There is no single measure of the "best" explanation independently of these considerations.
 
 ## 1. Specify the Explanandum
 
