@@ -453,6 +453,8 @@ The research-programme challenge should not be interpreted as proving that biolo
 
 Those conclusions do not follow merely from the absence of demonstrated explanatory gain.
 
+We should distinguish between agency as a proposed operationally identifiable biological phenomenon and agency as a demonstrated source of explanatory gain. The first concerns whether specified biological activities and organisational relationships provide defensible empirical criteria for agency attribution; the second concerns whether invoking agency improves an explanation beyond what the strongest relevant existing account already establishes. The six biosignatures proposed in *Agency as the Defining Activity of Life* offer possible operational indicators for investigating the first question, but their empirical tractability does not by itself validate them as distinctive agency criteria or establish the second. Both questions remain open to appropriately controlled investigation.
+
 A biological system might genuinely satisfy a defensible criterion of agency while the concept remains redundant for many specific explanations. Conversely, an agential modelling strategy might be useful without establishing the stronger ontological claim that the modelled system possesses agency in every relevant sense.
 
 The criticism also does not establish that conceptual integration or improved communication is scientifically worthless. Such contributions may be valuable, particularly where different biological disciplines investigate related organisational dependencies using different vocabularies.
@@ -838,6 +840,8 @@ This framework makes explicit distinctions among agency attribution, organised p
 Its strongest present contribution is the formulation and disciplined application of these distinctions, not a demonstrated explanatory superiority over established biological approaches.
 
 The completed comparative investigations have produced negative and equivalent-redescription outcomes. These results place genuine limits on what can presently be claimed for APS, while preserving the possibility of further contributions in other explanatory contexts.
+
+At its current stage of investigation, biological agency remains a defensible candidate for operational identification. However, APS has not yet demonstrated that invoking agency provides additional explanatory insight, distinctive conceptual value, improved integration across biological domains, or clearer scientific communication beyond what established biological frameworks already provide. Research on niche construction, developmental plasticity and evolutionary feedback identifies empirically tractable contexts in which a distinctive contribution from agency could be investigated, but such a contribution must be established independently of the explanatory achievements of those existing research programmes.
 
 The possibility that APS improves cross-disciplinary integration or scientific communication is especially worth investigating. Such benefits could be important even without a new causal mechanism, but they must be established against the strongest relevant alternatives.
 
