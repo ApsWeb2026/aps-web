@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-06-15
+revised: 2026-10-11
 cluster: diagnostics-and-empirical-tractability
 abstract: |
   APS reframes biological diagnosis as the evaluation of viability-oriented organisation rather than the identification of traits, mechanisms, or components. This article defines diagnosis within the APS framework and clarifies how it differs from traditional biological and medical approaches.
@@ -105,7 +105,7 @@ This shift transforms diagnosis from a classificatory task into an explanatory o
 This article defines what diagnosis is in APS. The next step is to make this framework operational.
 
 See:
-- [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/) *(forthcoming)*
+- [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/)
 - The Viability Gradient, Normativity Gradient, and Cognitive Integration (APS diagnostic dimensions)
 
 Together, these provide a structured way to evaluate biological systems in practice.

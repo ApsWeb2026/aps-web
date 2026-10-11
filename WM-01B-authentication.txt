@@ -1,0 +1,317 @@
+﻿APS-WEBSITE-MAINTENANCE-001
+WM-01B — THREE-TARGET SOURCE AUTHENTICATION
+============================================
+Generated: 2026-10-11 17:19:35
+STATUS: READ-ONLY / DIAGNOSTIC
+
+TARGET 1 — RESEARCH PAGE, LINES 220–265
+============================================
+SOURCE: src\pages\research\index.astro
+TOTAL LINES: 471
+L220:       <p>
+L221:         <strong>Not established</strong> records an evidential status; it does
+L222:         not mean refuted. Results shown here are target-bound and must not be
+L223:         aggregated across rows to infer framework-wide explanatory success or
+L224:         failure.
+L225:       </p>
+L226: 
+L227:       <h2>Current Major Research Programme</h2>
+L228: 
+L229:       <article class="research-item">
+L230:         <h3>General Explanatory Architecture</h3>
+L231: 
+L232:         <p>
+L233:           <strong>Status:</strong> Research in progress — D1–D3 completed;
+L234:           D4 proposed but not authorised. Comparative explanatory gain
+L235:           remains unestablished.
+L236:         </p>
+L237: 
+L238:         <p>
+L239:           This programme asks whether APS can provide a sufficiently coherent,
+L240:           determinate, and testable explanatory architecture for biology as a
+L241:           whole while preserving differences among major biological explananda
+L242:           and avoiding causal, explanatory, temporal, or scale dependencies
+L243:           that the evidence does not establish.
+L244:         </p>
+L245: 
+L246:         <p>
+L247:           The investigation distinguishes three questions that must not be
+L248:           conflated: whether APS provides <strong>explanatory coherence</strong>,
+L249:           whether its architecture has <strong>integrative explanatory
+L250:           value</strong>, and whether it establishes <strong>comparative
+L251:           explanatory gain</strong>. The existence of a coherent architecture
+L252:           does not predetermine the answers to the latter questions.
+L253:         </p>
+L254: 
+L255:         <p>
+L256:           The completed assessment distinguishes architectural coherence from
+L257:           independently demonstrated explanatory or communicative improvement.
+L258:           Coherence and internal reconciliation do not themselves establish
+L259:           integrative explanatory gain. Any further comparison must identify
+L260:           a specific explanatory or communicative target, the strongest relevant
+L261:           alternatives, and an outcome capable of showing no APS advantage.
+L262:         </p>
+L263:       </article>
+L264: 
+L265:       <h2>Featured Research</h2>
+
+TARGET 2 — FORTHCOMING ARTICLE REFERENCE
+============================================
+Matching passages: 11
+
+MATCH: src\content\articles\aps-and-the-edges-of-life-ci.md
+MATCH LINE: 237
+SOURCE: src\content\articles\aps-and-the-edges-of-life-ci.md
+TOTAL LINES: 336
+L229: Likewise, evidence that a system possesses some property associated with living systems does not automatically establish that the complete APS Life criterion is satisfied.
+L230: 
+L231: Borderline systems therefore often create difficult diagnostic problems rather than straightforward refutations of a definition. In some cases the evidence may support a clear classification. In others, the relevant organisation may remain uncertain, incompletely characterised, or contested.
+L232: 
+L233: The appropriate response is not to force the system into a predetermined category but to identify the dependencies and organisational relations on which the judgement turns.
+L234: 
+L235: This is why APS treats diagnosis as an empirical and organisational task rather than as the mechanical application of a checklist.
+L236: 
+L237: The implications of this distinction are developed more fully in *Life Detection in APS — Biosignatures, Organisation, and Evidence* and *How to Diagnose a Biological System — An APS Method*.
+L238: 
+L239: [[box:aps-box-definition-diagnosis-and-evidence]]
+L240: 
+L241: ## Living with the Edges
+L242: 
+L243: The existence of difficult boundary cases need not undermine biological explanation.
+L244: 
+L245: It instead reminds us that a definition, an operational test, a diagnostic procedure, and a classificatory judgement perform different scientific functions.
+
+MATCH: src\content\articles\cognitive-integration-cia.md
+MATCH LINE: 106
+SOURCE: src\content\articles\cognitive-integration-cia.md
+TOTAL LINES: 155
+L98: - **Cognitive Integration (CI)** — how coherently activity is coordinated across the system  
+L99: 
+L100: These dimensions are complementary:
+L101: 
+L102: - VG without CI may indicate local success without system-wide coordination  
+L103: - NG without CI may indicate directed activity that is not effectively integrated  
+L104: - CI without VG or NG may indicate coordination without effective or directed viability  
+L105: 
+L106: For the full diagnostic method, see [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/).
+L107: 
+L108: ## CI and Constraint Closure
+L109: 
+L110: Constraint closure provides the organisational basis for integration, but it does not determine CI.
+L111: 
+L112: A system may exhibit closure while:
+L113: - remaining weakly coordinated  
+L114: - lacking system-wide regulation  
+
+MATCH: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+MATCH LINE: 277
+SOURCE: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+TOTAL LINES: 303
+L269: Viability
+L270: 
+L271: Constraint Closure
+L272: 
+L273: Biological Agency
+L274: 
+L275: ### Develops into
+L276: 
+L277: How to Diagnose a Biological System
+L278: 
+L279: Life Detection in APS — Biosignatures, Organisation and Evidence
+L280: 
+L281: Malfunction, Breakdown and Death
+L282: 
+L283: Boundary Cases in Biology
+L284: 
+L285: Biological Evaluation
+
+MATCH: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+MATCH LINE: 292
+SOURCE: src\content\articles\definition-and-diagnosis-in-aps-ci.md
+TOTAL LINES: 303
+L284: 
+L285: Biological Evaluation
+L286: 
+L287: ### Related explanatory questions
+L288: 
+L289: Readers may wish to continue with:
+L290: 
+L291: - What Is Life? — A Biological Question Revisited
+L292: - How to Diagnose a Biological System
+L293: - Life Detection in APS — Biosignatures, Organisation and Evidence
+L294: - Malfunction, Breakdown and Death
+L295: - Biological Evaluation
+L296: 
+L297: ### Position within APS
+L298: 
+L299: Within APS, *What Is Life?* establishes the canonical definition of life as viability-oriented, constraint-closed organisation. This article addresses the complementary question of how such organisation is recognised empirically. APS therefore distinguishes definition from diagnosis: life is defined ontologically, but diagnosed through evidence of organised persistence, repair, regulation, adaptation, perturbation, and organisational failure.
+L300: 
+
+MATCH: src\content\articles\diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life.md
+MATCH LINE: 230
+SOURCE: src\content\articles\diagnosing-agency-biosignatures-perturbation-and-the-empirical-tractability-of-life.md
+TOTAL LINES: 238
+L222: This integration offers a common framework for biological diagnosis, life detection, synthetic biology, origins-of-life research, and the investigation of marginal cases. More fundamentally, it demonstrates that viability-oriented agency is not merely a theoretical abstraction but an empirically tractable feature of living systems.
+L223: 
+L224: APS therefore reframes diagnosis itself. The central question is no longer whether a system possesses a predefined list of biological traits. The question becomes whether organisational evidence and regulatory evidence converge upon the existence of a system actively engaged in maintaining the conditions of its own persistence.
+L225: 
+L226: Diagnosis consequently becomes the empirical investigation of viability-oriented agency. Organisational signatures reveal the relatively stable consequences of that agency, while perturbation responses reveal the regulatory activities through which it operates. Together they provide complementary windows onto the same underlying phenomenon: the active maintenance of organised persistence.
+L227: 
+L228: ## Continue Exploring
+L229: 
+L230: - How to Diagnose a Biological System
+L231: - Diagnosis as Continuity Analysis
+L232: - Life Detection in APS
+L233: - Malfunction, Breakdown, and Death
+L234: - Agency as the Defining Activity of Life
+L235: 
+L236: ## Key Point
+L237: 
+L238: Agency becomes empirically tractable when organisational signatures and perturbation responses are investigated together. Organisational signatures reveal the relatively stable footprints of viability-oriented activity, while perturbation responses reveal the regulatory dynamics through which viability is maintained. Their integration provides a unified framework for diagnosing living systems across biological, synthetic, and astrobiological contexts. Within APS, diagnosis ultimately becomes the empirical investigation of viability-oriented agency.
+
+MATCH: src\content\articles\diagnosis-as-continuity-analysis.md
+MATCH LINE: 511
+SOURCE: src\content\articles\diagnosis-as-continuity-analysis.md
+TOTAL LINES: 517
+L503: # Related Pathways
+L504: 
+L505: - *[Persistence — Organised Continuity Through Time](/articles/persistence-organised-continuity-through-time/)*
+L506: - *[Viability — The Organising Principle of Biological Persistence](/articles/viability-the-organising-principle-of-biological-persistence/)*
+L507: - *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+L508: - *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+L509: - *[Ecology as Organised Persistence Across Scales](/articles/ecology-as-organised-persistence-across-scales/)*
+L510: - *[evolution as the Historical Transformation of Organised Persistence](/articles/evolution/)*
+L511: - *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
+L512: - *[Malfunction](/glossary/malfunction/)*
+L513: 
+L514: # Key Terms
+L515: 
+L516: diagnosis · continuity · perturbation · resilience · malfunction · viability · persistence · adaptation · temporality · organisation · ecological coupling
+L517: 
+
+MATCH: src\content\articles\how-to-diagnose-a-biological-system.md
+MATCH LINE: 3
+SOURCE: src\content\articles\how-to-diagnose-a-biological-system.md
+TOTAL LINES: 546
+L1: ---
+L2: date: 2026-05-07
+L3: title: "How to Diagnose a Biological System — An APS Method"
+L4: slug: how-to-diagnose-a-biological-system
+L5: type: article
+L6: status: canonical
+L7: canonical: true
+L8: canonicalLockDate: 2026-05-15
+L9: revised: 2026-06-15
+L10: cluster: methodology-and-explanation
+L11: role: anchor
+
+MATCH: src\content\articles\how-to-diagnose-a-biological-system.md
+MATCH LINE: 96
+SOURCE: src\content\articles\how-to-diagnose-a-biological-system.md
+TOTAL LINES: 546
+L88: 
+L89:   - id: godfreysmith2009
+L90:     authors: "Godfrey-Smith, P."
+L91:     year: 2009
+L92:     title: "Darwinian Populations and Natural Selection"
+L93:     source: "Oxford University Press"
+L94: ---
+L95: 
+L96: # How to Diagnose a Biological System — An APS Method
+L97: 
+L98: > **Where this article fits:** This article develops the methodological and empirical dimensions of APS diagnosis. For the broader conceptual account of diagnosis as continuity, perturbation, resilience, malfunction, and organisational disruption, see *Diagnosis as Continuity Analysis*.
+L99: 
+L100: APS diagnosis begins from a foundational biological question:
+L101: 
+L102: > How does a system sustain itself as a viable organisation across time?
+L103: 
+L104: Traditional diagnostic approaches often identify:
+
+MATCH: src\content\articles\normativity-gradient.md
+MATCH LINE: 152
+SOURCE: src\content\articles\normativity-gradient.md
+TOTAL LINES: 176
+L144: ## NG in Diagnosis
+L145: 
+L146: Within the APS diagnostic framework, NG is one of three core dimensions:
+L147: 
+L148: - **Viability Gradient (VG)** — how effectively viability is sustained  
+L149: - **Normativity Gradient (NG)** — how strongly activity is oriented toward persistence  
+L150: - **Cognitive Integration (CI)** — how regulation is coordinated across the system  
+L151: 
+L152: For the full diagnostic method, see [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/).
+L153: 
+L154: ---
+L155: 
+L156: ## From Description to Direction
+L157: 
+L158: The introduction of the Normativity Gradient transforms biological analysis.
+L159: 
+L160: Instead of describing what a system does, APS asks:
+
+MATCH: src\content\articles\viability-gradient.md
+MATCH LINE: 138
+SOURCE: src\content\articles\viability-gradient.md
+TOTAL LINES: 168
+L130: ## VG in Diagnosis
+L131: 
+L132: Within the APS diagnostic framework, VG is one of three core dimensions:
+L133: 
+L134: - **Viability Gradient (VG)** — how effectively viability is sustained  
+L135: - **Normativity Gradient (NG)** — how activity is oriented toward persistence  
+L136: - **Cognitive Integration (CI)** — how regulation is coordinated across the system  
+L137: 
+L138: For the full method, see [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/).
+L139: 
+L140: ---
+L141: 
+L142: ## From Classification to Evaluation
+L143: 
+L144: The introduction of the Viability Gradient transforms biological diagnosis.
+L145: 
+L146: Instead of asking:
+
+MATCH: src\content\articles\what-is-biological-diagnosis-in-aps.md
+MATCH LINE: 108
+SOURCE: src\content\articles\what-is-biological-diagnosis-in-aps.md
+TOTAL LINES: 111
+L100: 
+L101: > Living systems are not defined by what they are made of, but by what they do to remain viable.
+L102: 
+L103: ## Toward an Operational Diagnostic Framework
+L104: 
+L105: This article defines what diagnosis is in APS. The next step is to make this framework operational.
+L106: 
+L107: See:
+L108: - [How to Diagnose a Biological System (APS Method)](/articles/how-to-diagnose-a-biological-system/) *(forthcoming)*
+L109: - The Viability Gradient, Normativity Gradient, and Cognitive Integration (APS diagnostic dimensions)
+L110: 
+L111: Together, these provide a structured way to evaluate biological systems in practice.
+
+LOCAL ARTICLE SLUG CHECK
+--------------------------------------------
+CANDIDATE FILE: src\content\articles\how-to-diagnose-a-biological-system.md
+L2: date: 2026-05-07
+L3: title: "How to Diagnose a Biological System — An APS Method"
+L4: slug: how-to-diagnose-a-biological-system
+L6: status: canonical
+L7: canonical: true
+L9: revised: 2026-06-15
+CANDIDATE FILE: src\content\articles\what-is-biological-diagnosis-in-aps.md
+L2: date: 2026-04-10
+L3: title: What Is Biological Diagnosis in APS?
+L4: slug: what-is-biological-diagnosis-in-aps
+L6: status: canonical
+L7: canonical: true
+L9: revised: 2026-06-15
+
+TARGET 3 — PUBLICATIONS PAGE, LINES 35–155
+============================================
+
+AUDIT BOUNDARY
+============================================
+No website source files modified.
+No Workbooks modified.
+No discrepancy automatically established.
+No correction authorised.
+Proceed to WM-02 only after evidence assessment.

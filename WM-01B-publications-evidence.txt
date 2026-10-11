@@ -1,0 +1,132 @@
+﻿APS-WEBSITE-MAINTENANCE-001
+WM-01B — TARGET 3: PUBLICATIONS SOURCE
+======================================
+Source: src\pages\publications.astro
+Total lines: 204
+
+L35:       </p>
+L36: 
+L37:       <h2>Peer-reviewed publication</h2>
+L38: 
+L39:       <article class="research-item">
+L40:         <h3>
+L41:           Agency as the Defining Activity of Life: A Viability-Oriented
+L42:           Framework Integrating Process and Scale
+L43:         </h3>
+L44: 
+L45:         <p><strong>Status:</strong> Peer-reviewed publication</p>
+L46: 
+L47:         <p>
+L48:           Spencer, R. D. (2026). <em>Biological Theory</em>.
+L49:         </p>
+L50: 
+L51:         <p>
+L52:           This article provides the first peer-reviewed formal presentation of
+L53:           APS as a viability-oriented framework for understanding life. It
+L54:           argues that biological agency is not an optional feature added to
+L55:           living systems, but the defining activity through which living
+L56:           organisation sustains itself across process and scale.
+L57:         </p>
+L58: 
+L59:         <p>
+L60:           <a
+L61:             href="https://doi.org/10.1007/s13752-026-00547-6"
+L62:             target="_blank"
+L63:             rel="noopener"
+L64:           >
+L65:             DOI
+L66:           </a>
+L67:           ·
+L68:           <a href="https://rdcu.be/fkRpq" target="_blank" rel="noopener">
+L69:             SharedIt full-text access
+L70:           </a>
+L71:         </p>
+L72:       </article>
+L73: 
+L74:       <h2>Preprint</h2>
+L75: 
+L76:       <article class="research-item">
+L77:         <h3>
+L78:           Natural Selection and Organised Persistence: An Organisational
+L79:           Analysis of Evolutionary Conditions
+L80:         </h3>
+L81: 
+L82:         <p><strong>Status:</strong> Preprint</p>
+L83: 
+L84:         <p>
+L85:           Spencer, R. D. (2026). SSRN preprint.
+L86:         </p>
+L87: 
+L88:         <p>
+L89:           This paper extends APS into evolutionary explanation by analysing
+L90:           natural selection through the conditions under which organised
+L91:           biological persistence becomes differentially sustained across
+L92:           generations.
+L93:         </p>
+L94: 
+L95:         <p>
+L96:           <a
+L97:             href="https://ssrn.com/abstract=6622502"
+L98:             target="_blank"
+L99:             rel="noopener"
+L100:           >
+L101:             SSRN
+L102:           </a>
+L103:           ·
+L104:           <a
+L105:             href="https://doi.org/10.2139/ssrn.6622502"
+L106:             target="_blank"
+L107:             rel="noopener"
+L108:           >
+L109:             DOI
+L110:           </a>
+L111:         </p>
+L112:       </article>
+L113: 
+L114:       <h2>Deposited scholarly paper</h2>
+L115: 
+L116:       <article class="research-item">
+L117:         <h3>Biological Agency as the Context for Plant Cognition</h3>
+L118: 
+L119:         <p><strong>Status:</strong> Deposited scholarly paper</p>
+L120: 
+L121:         <p>
+L122:           Spencer, R. D. (2025). Zenodo.
+L123:         </p>
+L124: 
+L125:         <p>
+L126:           This work develops an earlier expression of the APS approach by
+L127:           situating plant cognition within the wider context of biological
+L128:           agency. It contributes to the framework’s treatment of cognition as
+L129:           a biological and organisational phenomenon rather than as a merely
+L130:           computational or representational process.
+L131:         </p>
+L132: 
+L133:         <p>
+L134:           <a
+L135:             href="https://doi.org/10.5281/zenodo.16938193"
+L136:             target="_blank"
+L137:             rel="noopener"
+L138:           >
+L139:             DOI
+L140:           </a>
+L141:         </p>
+L142:       </article>
+L143: 
+L144:       <h2>Research platform</h2>
+L145: 
+L146:       <article class="research-item">
+L147:         <h3>
+L148:           APS_WEB: A Viability-Oriented Framework for Understanding Life
+L149:         </h3>
+L150: 
+L151:         <p><strong>Status:</strong> Research platform</p>
+L152: 
+L153:         <p>
+L154:           Spencer, R. D. (2026). APS Framework.
+L155:         </p>
+
+READ-ONLY EXTRACTION COMPLETE
+No website source files modified.
+No Workbooks modified.
+No corrections authorised.
