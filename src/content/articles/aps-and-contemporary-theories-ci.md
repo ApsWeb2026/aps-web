@@ -6,8 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-13
-
+revised: 2026-10-11
 cluster: methodology-and-explanation
 role: synthesis
 
@@ -208,7 +207,7 @@ A disciplined comparison should:
 4. **identify the relevant explanatory dependencies** — determine whether the approaches differ in what they claim the phenomenon depends upon;
 5. **distinguish conceptual organisation from empirical warrant** — coherence or integration does not by itself establish biological explanation;
 6. **identify material implementation where required** — organisational or causal claims must ultimately be biologically realised rather than inferred from framework architecture alone;
-7. **permit more than one outcome** — comparison may reveal overlap, complementarity, independence, redundancy, tension, methodological gain, or explanatory gain favouring either approach.
+7. **permit more than one outcome** — comparison may establish bounded explanatory gain favouring either approach, substantive complementarity, equivalent redescription, no additional explanatory gain, comparator advantage, non-comparability, or an unresolved result. These outcomes must remain relative to the specified explanatory target and evidence.
 
 APS architecture therefore does not determine the result of an APS comparison in advance.
 

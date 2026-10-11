@@ -71,7 +71,7 @@ Scientific explanations can be improved in at least three distinct ways:
 
 These improvements are valuable but not interchangeable. Greater integration or clarity does not by itself establish explanatory gain, and a scientifically stronger explanation is not necessarily easier to communicate. What counts as improvement depends on the explanatory question, the achievement being claimed, and the evidence supporting it. There is no single measure of the "best" explanation independently of these considerations.
 
-## 1. Specify the Explanandum
+### Specify the Explanandum
 
 Begin by stating what is to be explained.
 
@@ -86,7 +86,7 @@ A useful specification asks:
 
 The target need not remain immutable. Scientific inquiry may legitimately revise its explanandum as evidence accumulates. The requirement is that the change be explicit. If the target changes, the explanatory claim must be reassessed against the revised target rather than treated as though the original question had remained unchanged.
 
-## 2. State the Explanatory Claim
+### State the Explanatory Claim
 
 Next ask what the proposed account is claiming to achieve.
 
@@ -100,7 +100,7 @@ This should be stated before stronger conclusions are drawn. If the achievement 
 
 The aim is not to demote non-explanatory scientific achievements. It is to prevent one kind of success from silently being redescribed as another.
 
-## 3. Identify the Explanatory Resources
+### Identify the Explanatory Resources
 
 An explanatory claim should make clear what is doing the explanatory work.
 
@@ -110,7 +110,7 @@ No single list is exhaustive, and no one resource is required in every successfu
 
 The task is instead to identify the resources actually being used and ask whether they are relevant to the specified explanandum. This prevents an explanation from gaining apparent strength merely by accumulating heterogeneous forms of scientific information without showing how they bear on the question.
 
-## 4. Match the Evidence to the Claim
+### Match the Evidence to the Claim
 
 Evidence should support the explanatory relation claimed, not merely the existence of the phenomenon.
 
@@ -122,7 +122,7 @@ The operative rule is simple:
 
 **Calibrate the strength of the explanatory claim to the strength and kind of evidence that bears on it.**
 
-## 5. Reconstruct the Strongest Relevant Comparator
+### Reconstruct the Strongest Relevant Comparator
 
 Not every explanation needs to defeat a rival. But when comparative advantage is claimed, a weak foil is not enough.
 
@@ -132,7 +132,7 @@ Explanatory alternatives may compete, overlap, complement one another, or prove 
 
 Inference to the best explanation provides one influential way of thinking about explanatory alternatives, but PA-09 does not reduce comparison to a single philosophical theory of inference (Lipton, 2004). The practical requirement is narrower: compare the candidate with the strongest relevant alternative, not the weakest available rival.
 
-## 6. Compare Explanatory Contribution
+### Compare Explanatory Contribution
 
 Once the target and comparator are sufficiently matched, compare what each account contributes.
 
@@ -144,7 +144,7 @@ Two accounts may use different vocabulary while making the same explanatory comm
 
 At this point the comparison should remain descriptive and symmetrical. The next question is whether any claimed explanatory advance has actually been demonstrated.
 
-## 7. Test Any Claimed Additional Capacity
+### Test Any Claimed Additional Capacity
 
 When explanatory advance is claimed, apply a stricter test:
 
@@ -168,7 +168,7 @@ Can you state the explanandum clearly? Is the explanatory claim distinct from de
 </tr>
 </table>
 
-## 8. Bound the Verdict and Its Scope
+### Bound the Verdict and Its Scope
 
 A controlled assessment does not have to end with one account declared the winner.
 
@@ -205,7 +205,7 @@ Scope must then be controlled. Evidence from one population, model system, speci
 
 The same principle applies to framework claims. A local explanatory success does not establish framework-wide superiority, and a local null result does not establish framework-wide failure.
 
-## 9. Record What Remains Unresolved
+### Record What Remains Unresolved
 
 A rigorous explanation should make its unresolved burdens visible.
 

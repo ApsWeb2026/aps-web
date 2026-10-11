@@ -1,0 +1,262 @@
+﻿APS-ENAV-001 / ENAV-01C
+FINAL CLUSTER CONFIGURATION INSPECTION
+========================================
+Generated: 2026-10-11 11:27:34
+Source: src\pages\clusters\[slug].astro
+Total source lines: 833
+
+SECTION A - METHODOLOGY CLUSTER CONFIGURATION
+========================================
+
+SOURCE LINES 490-520
+----------------------------------------
+L490:     slug: 'philosophy-of-biology',
+L491:     title: 'Philosophy of Biology',
+L492:     description:
+L493:       'Philosophical foundations, realism, reductionism, mechanism, holism, organicism, teleology, historical context, and conceptual clarification.',
+L494:     overview:
+L495:       'This cluster examines the philosophical traditions, debates, and interpretive problems with which APS engages. It situates APS in relation to reductionism, mechanism, holism, organicism, teleology, realism, and broader philosophy of biology.',
+L496:     boundary:
+L497:       'Some concepts here have close methodological or foundational connections. Teleology is placed here as a philosophical debate, while teleonomy, purpose, function, and normativity belong in Conceptual Foundations when they express APS’s positive biological account of purposive organisation.',
+L498:   },
+L499:  {
+L500:     slug: 'methodology-and-explanation',
+L501:     title: 'Methodology and Explanation',
+L502:     description:
+L503:       'Comparative explanatory methodology, explanatory targets, dependency claims, evidence, causation, classification, and the organisation of biological explanation.',
+L504:     overview:
+L505:       'This cluster examines how biological explanations can be specified, compared, and assessed relative to particular explananda and relevant comparators. APS distinguishes description from explanation, requires proposed explanatory dependencies to be materially and empirically warranted, and treats explanatory gain as target-relative and comparator-relative rather than as an intrinsic property of a framework.',
+L506:     boundary:
+L507:       'Methodological concepts often overlap with foundations and philosophy. Causation, classification, emergence, explanatory direction, explanatory grammar, and counterfactual depth are placed here when their main role concerns explanatory practice rather than the biological organisation being explained.',
+L508:   },
+L509:   {
+L510:    slug: 'artificial-systems-and-boundaries',
+L511:    title: 'Artificial Systems and Boundaries',
+L512:    description:
+L513:     'Artificial systems, AI, borderline cases, minimal life, synthetic systems, and the limits of biological organisation.',
+L514:    overview:
+L515:     'This cluster examines cases that test the boundaries of APS. It considers artificial systems, AI, minimal life, synthetic biology, borderline organisation, and systems that resemble life without necessarily possessing biological agency.',
+L516: 
+L517:    architecture: `
+L518:   <h2>How This Cluster Is Organised</h2>
+L519: 
+L520:   <p>This cluster is organised around a central question: how should living systems be distinguished from artificial, simulated, and borderline forms of organisation?</p>
+
+SECTION B - NAVIGATION AND RENDERING MATCHES
+========================================
+L494: overview:
+L504: overview:
+L514: overview:
+L517: architecture: `
+L518: <h2>How This Cluster Is Organised</h2>
+L552: export function getStaticPaths() {
+L625: <BaseLayout title={cluster.title} description={cluster.description}>
+L630: { label: cluster.title },
+L635: <h1>{cluster.title}</h1>
+L638: {cluster.description}
+L641: <p class="cluster-overview">
+L642: {cluster.overview}
+L646: cluster.architectureGuide && (
+L647: <section class="domain-architecture-guide">
+L648: <h2>Start with the Architecture</h2>
+L652: architectural overview of the APS framework.
+L658: <a href={cluster.architectureGuide.href}>
+L659: {cluster.architectureGuide.title}
+L667: {cluster.architectureGuide.description}
+L675: cluster.startHere && (
+L676: <section class="domain-start-here">
+L677: <h2>Start Here</h2>
+L685: {cluster.startHere.map((item) => (
+L694: cluster.keyQuestions && (
+L695: <section class="domain-key-questions">
+L696: <h2>Key Questions</h2>
+L699: {cluster.keyQuestions.map((item) => (
+L708: cluster.architecture && (
+L709: <section class="cluster-architecture">
+L710: <div set:html={cluster.architecture} />
+L716: <strong>Cluster note:</strong> {cluster.boundary}
+L722: <section class="home-section">
+L723: <h2>Articles</h2>
+L726: <section class="article-role-group">
+L734: <a href={`/articles/${entry.data.slug}/`}>
+L762: <section class="home-section">
+L763: <h2>Glossary Entries</h2>
+L770: <a href={`/glossary/${entry.data.slug}/`}>
+L795: <section class="home-section">
+L796: <h2>Research Streams</h2>
+L803: <a href={`/streams/${entry.data.slug}/`}>
+L813: {entry.data.overview}
+
+SECTION C - FINAL RENDERING SECTION
+========================================
+
+SOURCE LINES 674-833
+----------------------------------------
+L674:       {
+L675:         cluster.startHere && (
+L676:           <section class="domain-start-here">
+L677:             <h2>Start Here</h2>
+L678: 
+L679:             <p>
+L680:               New to this domain? These articles provide the quickest route into the
+L681:               central APS ideas.
+L682:             </p>
+L683: 
+L684:             <ol>
+L685:               {cluster.startHere.map((item) => (
+L686:                 <li>{item}</li>
+L687:               ))}
+L688:             </ol>
+L689:           </section>
+L690:         )
+L691:       }
+L692: 
+L693:       {
+L694:         cluster.keyQuestions && (
+L695:           <section class="domain-key-questions">
+L696:             <h2>Key Questions</h2>
+L697: 
+L698:             <ul>
+L699:               {cluster.keyQuestions.map((item) => (
+L700:                 <li>{item}</li>
+L701:               ))}
+L702:             </ul>
+L703:           </section>
+L704:         )
+L705:       }
+L706: 
+L707:       {
+L708:         cluster.architecture && (
+L709:         <section class="cluster-architecture">
+L710:           <div set:html={cluster.architecture} />
+L711:         </section>
+L712:       )
+L713:     }
+L714: 
+L715:       <aside class="cluster-boundary-note">
+L716:         <strong>Cluster note:</strong> {cluster.boundary}
+L717:       </aside>
+L718:     </header>
+L719: 
+L720:     {
+L721:   groupedArticles.length > 0 && (
+L722:     <section class="home-section">
+L723:       <h2>Articles</h2>
+L724: 
+L725:       {groupedArticles.map((group) => (
+L726:         <section class="article-role-group">
+L727:           <h3>{group.title}</h3>
+L728: 
+L729:           <ul class="card-list">
+L730:             {group.articles.map((entry) => (
+L731:               <li class="card">
+L732:                 <div class="card-header">
+L733:                   <h3 class="card-title">
+L734:                     <a href={`/articles/${entry.data.slug}/`}>
+L735:                       {entry.data.title}
+L736:                     </a>
+L737:                   </h3>
+L738: 
+L739:                   <DomainBadge cluster={entry.data.cluster} />
+L740: 
+L741:                   {entry.data.role && <TypeBadge type={entry.data.role} />}
+L742:                 </div>
+L743: 
+L744:                 <p class="card-excerpt">
+L745:                   {entry.data.abstract}
+L746:                 </p>
+L747: 
+L748:                 <div class="card-meta">
+L749:                   Revised: {entry.data.revised}
+L750:                 </div>
+L751:               </li>
+L752:             ))}
+L753:           </ul>
+L754:         </section>
+L755:       ))}
+L756:     </section>
+L757:   )
+L758: }
+L759: 
+L760:     {
+L761:       glossaryEntries.length > 0 && (
+L762:         <section class="home-section">
+L763:           <h2>Glossary Entries</h2>
+L764: 
+L765:           <ul class="card-list">
+L766:             {glossaryEntries.map((entry) => (
+L767:               <li class="card">
+L768:                 <div class="card-header">
+L769:                   <h3 class="card-title">
+L770:                     <a href={`/glossary/${entry.data.slug}/`}>
+L771:                       {entry.data.title}
+L772:                     </a>
+L773:                   </h3>
+L774: 
+L775:                   <DomainBadge cluster={entry.data.cluster} />
+L776:                   <TypeBadge type="glossary" />
+L777:                 </div>
+L778: 
+L779:                 <p class="card-excerpt">
+L780:                   {entry.data.inBrief}
+L781:                 </p>
+L782: 
+L783:                 <div class="card-meta">
+L784:                   Revised: {entry.data.revised}
+L785:                 </div>
+L786:               </li>
+L787:             ))}
+L788:           </ul>
+L789:         </section>
+L790:       )
+L791:     }
+L792: 
+L793:     {
+L794:       streams.length > 0 && (
+L795:         <section class="home-section">
+L796:           <h2>Research Streams</h2>
+L797: 
+L798:           <ul class="card-list">
+L799:             {streams.map((entry) => (
+L800:               <li class="card">
+L801:                 <div class="card-header">
+L802:                   <h3 class="card-title">
+L803:                     <a href={`/streams/${entry.data.slug}/`}>
+L804:                       {entry.data.title}
+L805:                     </a>
+L806:                   </h3>
+L807: 
+L808:                   <StatusBadge status={entry.data.status} />
+L809:                   <TypeBadge type="stream" />
+L810:                 </div>
+L811: 
+L812:                 <p class="card-excerpt">
+L813:                   {entry.data.overview}
+L814:                 </p>
+L815:               </li>
+L816:             ))}
+L817:           </ul>
+L818:         </section>
+L819:       )
+L820:     }
+L821: 
+L822:     {
+L823:       articles.length === 0 &&
+L824:         glossaryEntries.length === 0 &&
+L825:         streams.length === 0 && (
+L826:           <p>
+L827:             No content has been published in this cluster yet.
+L828:             Check back soon.
+L829:           </p>
+L830:         )
+L831:     }
+L832:   </div>
+L833: </BaseLayout>
+
+SECTION D - AUDIT BOUNDARY
+========================================
+Read-only source inspection.
+No website source files modified.
+No canonical articles amended.
+No Workbooks modified.
+No navigation amendments authorised.

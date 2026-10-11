@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-04
-revised: 2026-09-26
+revised: 2026-10-11
 cluster: methodology-and-explanation
 role: core
 
@@ -268,5 +268,7 @@ The article therefore stops where the next question begins. Once explanatory gai
 Related terms: [Biological Explanation](/glossary/biological-explanation/), [Explanation](/glossary/explanation/), [Explanandum](/glossary/explanandum/) and [Explanatory Target](/glossary/explanatory-target/).
 
 Related articles: [What Makes an Explanation Successful?](/articles/what-makes-an-explanation-successful/) and [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/).
+
+For the APS research programme in which explanatory claims are investigated, compared, and reported with their evidential qualifications, see [APS Research](/research/). The methodological criteria established here do not themselves demonstrate explanatory gain in any particular investigation.
 
 The next article asks how contemporary biological frameworks actually explain, using the distinction between fair comparison and bounded explanatory gain without converting either into a pre-decided ranking.

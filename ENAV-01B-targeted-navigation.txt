@@ -1,0 +1,715 @@
+﻿APS-ENAV-001 / ENAV-01B
+TARGETED NAVIGATION GAP INSPECTION
+========================================
+Generated: 2026-10-11 11:24:35
+Repository: C:\Users\Roger\Website\aps-web-1
+
+SECTION A - BIOLOGICAL EXPLANATION
+========================================
+
+FILE: src\content\articles\biological-explanation-what-needs-to-be-explained-ci.md
+LINES: 1-110
+----------------------------------------
+L1: ---
+L2: date: 2026-04-27
+L3: title: "Biological Explanation â€” What Needs to Be Explained"
+L4: slug: "biological-explanation-what-needs-to-be-explained"
+L5: abstract: >
+L6:   Biological explanation addresses many different explananda and cannot be
+L7:   reduced to a single explanatory target. APS nevertheless identifies organised
+L8:   persistence as a principal explanandum for investigating living organisation:
+L9:   how living systems maintain and re-establish the conditions of their continuity
+L10:   despite continual material, physiological, developmental, ecological, and
+L11:   historical change. APS proposes that life is viability-oriented,
+L12:   constraint-closed organisation and asks how that organisation persists,
+L13:   reorganises, and remains viable through time. This article establishes
+L14:   organised persistence as an explicit APS explanatory target without treating
+L15:   it as the obligatory explanandum of biological explanation generally.
+L16: 
+L17: type: article
+L18: status: canonical
+L19: canonical: true
+L20: canonicalLockDate: 2026-04-27
+L21: revised: 2026-09-14
+L22: cluster: conceptual-foundations
+L23: role: core
+L24: 
+L25: relatedGlossaryTerms:
+L26:   - biological-organisation
+L27:   - organised-persistence
+L28:   - viability
+L29:   - biological-agency
+L30:   - constraint-closure
+L31:   - process
+L32:   - scale
+L33:   - function
+L34:   - normativity
+L35:   - explanatory-grammar
+L36: 
+L37: relatedArticles:
+L38:   - biological-explanation-and-organised-persistence
+L39:   - how-aps-explains-life
+L40:   - description-explanation-and-definition-in-biology
+L41:   - biological-organisation
+L42:   - agency-as-the-defining-activity-of-life
+L43:   - explanatory-grammar
+L44:   - organisational-realism-in-biology
+L45:   - aps-and-contemporary-theories
+L46:   - aps-and-the-free-energy-principle
+L47: 
+L48: references:
+L49:   - id: spencer2026
+L50:     authors: "Spencer, R. D."
+L51:     year: 2026
+L52:     title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+L53:     journal: "Biological Theory"
+L54:     doi: "10.1007/s13752-026-00547-6"
+L55: 
+L56:   - id: morenomossio2015
+L57:     authors: "Moreno, A. & Mossio, M."
+L58:     year: 2015
+L59:     title: "Biological Autonomy"
+L60:     publisher: "Springer"
+L61:     doi: "10.1007/978-94-017-9837-2"
+L62: 
+L63:   - id: nicholsondupre2018
+L64:     authors: "Nicholson, D. J. & DuprÃ©, J."
+L65:     year: 2018
+L66:     title: "Everything Flows: Towards a Processual Philosophy of Biology"
+L67:     publisher: "Oxford University Press"
+L68: 
+L69:   - id: noble2012
+L70:     authors: "Noble, D."
+L71:     year: 2012
+L72:     title: "A Theory of Biological Relativity: No Privileged Level of Causation"
+L73:     journal: "Interface Focus"
+L74:     volume: "2(1)"
+L75:     pages: "55â€“64"
+L76:     doi: "10.1098/rsfs.2011.0067"
+L77: 
+L78:   - id: machamer2000
+L79:     authors: "Machamer, P., Darden, L. & Craver, C. F."
+L80:     year: 2000
+L81:     title: "Thinking About Mechanisms"
+L82:     journal: "Philosophy of Science"
+L83:     volume: "67(1)"
+L84:     pages: "1â€“25"
+L85:     doi: "10.1086/392759"
+L86: ---
+L87: 
+L88: ## What Does Biology Explain?
+L89: 
+L90: Biology explains many different phenomena. It investigates how genes are expressed, how molecular and physiological mechanisms operate, how organisms develop, how behaviour changes in relation to environmental conditions, how ecological interactions are organised, and how populations and lineages evolve. These explanations employ different methods and identify different dependencies because they address different explananda.
+L91: 
+L92: There is therefore no reason to assume that biological explanation must ultimately reduce to a single explanatory question. A mechanistic explanation of a molecular pathway, an evolutionary explanation of a trait distribution, and an ecological explanation of population dynamics can each succeed relative to their own targets without first being reconstructed as explanations of living organisation.
+L93: 
+L94: APS nevertheless asks a further question. Living systems are themselves distinctive forms of organisation whose continuity is maintained despite continual change. Their material constituents turn over, their physiological states fluctuate, development transforms them, their relations with their environments change, and their organisation can be disrupted and restored. How such systems maintain and re-establish the conditions of their continuity is therefore a biological problem requiring explanation.
+L95: 
+L96: APS calls this problem **organised persistence**. It proposes organised persistence as a principal explanatory target for investigating living organisation, not as the obligatory explanandum of biology as a whole.
+L97: 
+L98: For a guided entry into how APS develops biological explanation, see:
+L99: 
+L100: â†’ [How APS Explains Life â€” A Two-Step Guide](/orientation/how-aps-explains-life/)
+L101: 
+L102: ## Where This Article Fits
+L103: 
+L104: This article establishes the explanatory target that precedes the more detailed APS analysis of biological explanation. Its question is not how all biological explanations should be structured, but why the persistence of living organisation constitutes an explanatory problem in its own right.
+L105: 
+L106: The distinction matters because APS does not infer from the existence of living organisation that every biological explanandum must ultimately be redescribed in terms of organised persistence. Instead, it asks when continuity, viability, repair, regulation, transformation, or related features of living organisation are themselves at issue and therefore require organisational explanation.
+L107: 
+L108: The successor article, *Biological Explanation and Organised Persistence*, takes the next step. It asks how organised persistence can be investigated, what materially implemented organisational dependencies would count as explanatory, and under what conditions an APS analysis provides explanatory gain relative to an adequate comparator. The present article therefore establishes the **explanandum**; the successor establishes the controlled methodology for investigating it.
+L109: 
+L110: ## Mechanism and Living Organisation
+
+MATCHES: src\content\articles\biological-explanation-what-needs-to-be-explained-ci.md
+----------------------------------------
+L37: relatedArticles:
+L102: ## Where This Article Fits
+L108: The successor article, *Biological Explanation and Organised Persistence*, takes the next step. It asks how organised persistence can be investigated, what materially implemented organisational dependencies would count as explanatory, and under what conditions an APS analysis provides explanatory gain relative to an adequate comparator. The present article therefore establishes the **explanandum**; the successor establishes the controlled methodology for investigating it.
+L116: A different explanatory question arises when the explanandum concerns living organisation itself. Mechanisms can operate in systems that do not maintain the conditions of their own continued activity, whereas living systems are organised so that their processes contribute to maintaining and re-establishing conditions required for continued functioning. Where this organisation is the target, identifying component operations alone may not answer the question being asked.
+L205: This converts a broad architectural intuition into an assessable explanatory hypothesis. Possible outcomes include genuine explanatory gain, useful integration, redescription of dependencies already known, or a null result in which the APS framing adds no consequential explanation.
+L215: This distinction is essential to APS methodology. Conceptual coherence, broader integration, or the ability to redescribe an existing explanation in organisational terms does not establish explanatory gain. Where APS and another approach address a matched target, comparative preference must depend upon what additional explanatory work the APS analysis performs.
+L227: The same control applies when APS is compared with contemporary theoretical frameworks. The Free Energy Principle, autonomy theory, systems approaches, evolutionary frameworks, and other programmes may address overlapping or different questions concerning living systems. APS must first establish whether their explanatory targets genuinely match before claims of complementarity, competition, redundancy, or explanatory gain can be assessed.
+L229: A detailed example is developed in *APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison*.
+L231: Organised persistence is therefore valuable not because it converts all biological explanation into APS explanation, but because it identifies a biological problem that can be formulated precisely enough to investigate, compare, and potentially fail to yield additional explanatory gain.
+L251: None of these commitments establishes in advance that APS provides explanatory gain over existing biological explanations. Organised persistence must be specified as an explanandum, its relevant dependencies identified and materially supported, and any comparative gain assessed against an adequate explanation of the same target.
+L257: → [Biological Explanation and Organised Persistence](/articles/biological-explanation-and-organised-persistence/)
+L291: - APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison
+L301: - What would demonstrate explanatory gain from an APS analysis relative to an adequate comparator?
+L305: This article establishes the explanatory target connecting APS's account of life with its methodology of biological explanation. It identifies organised persistence as a principal problem for investigating how viability-oriented, constraint-closed organisation continues through change, while preserving the plurality and target-relative adequacy of biological explanation. It therefore provides the conceptual bridge to *Biological Explanation and Organised Persistence*, where that explanandum is developed into a controlled programme of organisational continuity analysis.
+
+SECTION B - EXPLANATORY GAIN
+========================================
+
+FILE: src\content\articles\what-counts-as-explanatory-gain.md
+LINES: 1-90
+----------------------------------------
+L1: ---
+L2: date: 2026-09-04
+L3: title: "What Counts as Explanatory Gain?"
+L4: slug: what-counts-as-explanatory-gain
+L5: type: article
+L6: status: canonical
+L7: canonical: true
+L8: canonicalLockDate: 2026-09-04
+L9: revised: 2026-09-26
+L10: cluster: methodology-and-explanation
+L11: role: core
+L12: 
+L13: abstract: >
+L14:   Explanatory gain is not established merely because an explanation is novel,
+L15:   different, broader, more integrated or more useful. It is a bounded conclusion
+L16:   about additional explanatory capacity relative to a sufficiently strong
+L17:   explanation of the same target. This article examines how such gain can be
+L18:   demonstrated, why no additional gain and unresolved assessment are legitimate
+L19:   outcomes, and why local explanatory gain does not establish framework-wide
+L20:   superiority.
+L21: 
+L22: keyPoints:
+L23:   - Explanatory gain is relative to a specified explanatory target and a sufficiently strong relevant comparator.
+L24:   - A target-relevant difference is necessary for positive gain but does not by itself establish additional explanatory capacity.
+L25:   - Prediction, integration, unification, novelty, formalisation and usefulness may contribute to explanation without automatically constituting explanatory gain.
+L26:   - Positive gain, no additional gain and unresolved assessment are all legitimate bounded outcomes.
+L27:   - Local explanatory gain does not by itself establish the overall superiority of a theory or framework.
+L28: 
+L29: relatedGlossaryTerms:
+L30:   - biological-explanation
+L31:   - explanation
+L32:   - explanandum
+L33:   - explanatory-target
+L34: 
+L35: relatedArticles:
+L36:   - what-makes-an-explanation-successful
+L37:   - how-should-scientific-explanations-be-compared
+L38:   - how-do-contemporary-biological-frameworks-explain
+L39: 
+L40: references:
+L41:   - ross-2025-explanation-biology
+L42:   - shapiro-et-al-2004-stickleback-pelvic-reduction
+L43:   - chan-et-al-2010-stickleback-pitx1-enhancer
+L44:   - laland-matthews-feldman-2016-niche-construction-theory
+L45:   - bich-mossio-soto-2020-glycemia-regulation
+L46:   - pezzulo-rigoli-friston-2015-active-inference-homeostatic-regulation
+L47:   - raja-et-al-2021-markov-blanket-trick
+L48: ---
+L49: 
+L50: **Where This Article Fits**
+L51: 
+L52: *The previous article established how scientific explanations should be compared. It required sufficiently matched explanatory targets, reconstruction of the strongest serious alternatives, relation classification before ranking, evidential symmetry, and explicit scope and stopping controls.*
+L53: 
+L54: *This article begins only after that comparative work has been done. A controlled comparison may reveal a target-relevant difference, but difference is not yet explanatory gain. The further question is whether the candidate explanation provides additional explanatory capacity relative to a sufficiently strong comparator.*
+L55: 
+L56: *That is the question addressed here. The article does not reopen the comparative procedure, and it does not survey or rank contemporary biological frameworks. The next article will examine how such frameworks actually explain. The present task is narrower: to determine what must be shown before a difference can count as explanatory gain.*
+L57: 
+L58: ## Introduction
+L59: 
+L60: A new explanation earns credit for what it adds relative to a strong account of the same targetÃ¢â‚¬â€not simply for being newer, broader or more integrated.
+L61: 
+L62: ## Gain Is Relational
+L63: 
+L64: Explanatory gain is not an intrinsic property that an explanation possesses in isolation. It is a relation among at least four things:
+L65: 
+L66: - a candidate explanation;
+L67: - a specified explanatory target;
+L68: - a sufficiently strong relevant comparator; and
+L69: - the evidence available for assessing their difference.
+L70: 
+L71: This matters because a proposal may appear powerful when considered alone but add little once the strongest relevant explanation of the same target has been reconstructed. Conversely, an account that is narrow in scope may still add something important if it explains, discriminates, constrains or supports an inference that the comparator does not already provide.
+L72: 
+L73: The relevant question is therefore not simply whether the candidate is informative, coherent or scientifically interesting. It is whether some target-relevant explanatory capacity remains after the comparator has received full credit for what it already explains.
+L74: 
+L75: Ross (2025) emphasises the plurality of explanatory aims and forms found in biology. That plurality is compatible with disciplined comparative assessment, but it makes a relational conception of gain especially important. Different explanations may succeed in different respects, and no single property automatically determines whether one has gained over another.
+L76: 
+L77: ## Difference Is Not Gain
+L78: 
+L79: A fair comparison may reveal a genuine difference between candidate explanations. That difference is necessary for positive explanatory gain: if the candidate adds nothing distinguishable, there is nothing further to credit. But difference alone is not sufficient.
+L80: 
+L81: A difference may consist in terminology, conceptual organisation, descriptive grain, formal representation, emphasis, scope, or explanatory aim. It may clarify a problem without solving an additional part of it. It may re-express dependencies already captured by the comparator. It may connect previously separate bodies of work without establishing a new explanatory consequence.
+L82: 
+L83: The anti-redescription control is therefore straightforward:
+L84: 
+L85: > A candidate explanation does not gain merely by describing the same explanatory work in a new vocabulary.
+L86: 
+L87: A target-relevant difference becomes evidence of gain only when the difference supports additional explanatory capacity that survives comparison with the strongest relevant alternative.
+L88: 
+L89: <div class="aps-diagram">
+L90: 
+
+FILE: src\content\articles\what-counts-as-explanatory-gain.md
+LINES: 197-272
+----------------------------------------
+L197: Mammalian glycaemia provides such a case. Organisational approaches have proposed that glucose regulation should be understood not only through local feedback loops but through the organisation of interacting regulatory constraints (Bich, Mossio, & Soto, 2020). That proposal can be scientifically meaningful without automatically establishing a positive comparative-gain result. The relevant question is whether the organisational framing yields a residual explanatory consequenceÃ¢â‚¬â€such as a dependency, discrimination or constraintÃ¢â‚¬â€that the strongest physiological comparator does not already provide.
+L198: 
+L199: Where that residual consequence has not yet been demonstrated, the appropriate outcome is unresolved rather than a declaration that organisational explanation has no value.
+L200: 
+L201: The same restraint applies at theory level to the Free Energy Principle and active inference. Formal and modelling achievements may be substantial while the comparative empirical burden remains open (Pezzulo, Rigoli, & Friston, 2015; Raja et al., 2021). Lack of a demonstrated superiority claim is not equivalent to theoretical failure.
+L202: 
+L203: | |
+L204: | --- |
+L205: | **Three outcomes of an explanatory-gain assessment** |
+L206: | **Positive gain** Ã¢â‚¬â€ Additional target-relevant explanatory capacity has been demonstrated relative to the sufficiently strong comparator. |
+L207: | **No additional gain** Ã¢â‚¬â€ The comparison does not establish additional explanatory capacity for the specified target relative to the comparator. |
+L208: | **Unresolved** Ã¢â‚¬â€ The available evidence is insufficient to determine whether additional explanatory capacity exists. |
+L209: | These are bounded comparative outcomes, not scores or framework rankings. None by itself establishes the overall superiority or inferiority of a theory or framework. |
+L210: 
+L211: ## Explanatory Gain Is Bounded
+L212: 
+L213: Every gain verdict is bounded by the comparison that produced it.
+L214: 
+L215: At minimum, the conclusion should identify:
+L216: 
+L217: - the candidate explanation;
+L218: - the explanatory target;
+L219: - the comparator;
+L220: - the evidence used to assess the difference; and
+L221: - the respect in which additional capacity was or was not demonstrated.
+L222: 
+L223: A positive verdict therefore has the form: this account provides additional explanatory capacity for this target relative to this sufficiently strong comparator on this evidence.
+L224: 
+L225: That statement does not imply that the account is superior on every target. It does not imply that the comparator should be abandoned. It does not imply that all explanations associated with one framework are better than all explanations associated with another.
+L226: 
+L227: The same boundedness applies to null and unresolved outcomes. Failure to demonstrate gain on one target does not establish general equivalence or inferiority, while unresolved evidence does not become a permanent verdict about the framework as a whole.
+L228: 
+L229: This local character is essential if explanatory gain is to remain an evidential conclusion rather than a rhetorical label.
+L230: 
+L231: ## A Practical Test for Explanatory Gain
+L232: 
+L233: After fair comparison, the practical question is:
+L234: 
+L235: > **What does the candidate explanation enable us to explain, discriminate, constrain or infer that the strongest relevant comparator does not already enable us to do?**
+L236: 
+L237: The wording is deliberately plural. Additional explanatory capacity may appear in different forms depending on the target.
+L238: 
+L239: A disciplined assessment should therefore ask whether the candidate provides a residual contribution that survives reconstruction of the strongest comparator. If the answer is yes and the contribution is supported by evidence, a bounded positive-gain verdict is warranted. If no additional capacity is established, the appropriate result is no additional gain. If the evidence cannot yet decide the matter, the result is unresolved.
+L240: 
+L241: The test does not replace specialist scientific judgment. It organises that judgment around the specific comparative burden that must be met before a difference is credited as gain.
+L242: 
+L243: ## What This Article Establishes
+L244: 
+L245: This article establishes that explanatory gain is:
+L246: 
+L247: - **relational:** it is assessed against a sufficiently strong relevant comparator;
+L248: - **target-relative:** it concerns a specified explanatory question rather than a theory in the abstract;
+L249: - **evidence-dependent:** additional capacity must be demonstrated rather than presumed;
+L250: - **plural in form:** gain may concern mechanism, development, constraint, dynamics, discrimination, robustness, prediction or other target-relevant explanatory capacities;
+L251: - **compatible with complementarity:** gain need not imply replacement;
+L252: - **distinct from usefulness:** scientific value may exist without demonstrated gain;
+L253: - **distinct from novelty and formalisation:** newness or mathematical sophistication does not settle the comparative question; and
+L254: - **bounded in outcome:** positive gain, no additional gain and unresolved assessment are all legitimate local conclusions.
+L255: 
+L256: The central requirement is residual explanatory capacity. A difference becomes gain only when something target-relevant remains that the strongest comparator does not already provide.
+L257: 
+L258: ## What This Article Does Not Establish
+L259: 
+L260: The account does not provide a universal numerical measure of explanatory quality. It does not require every explanatory gain to be mechanistic, predictive or formally expressible. It does not convert integration, unification, novelty, usefulness or formalisation into automatic evidence of superiority.
+L261: 
+L262: It also does not infer framework-wide victory from local explanatory success. A candidate may gain on one target while remaining complementary, weaker or simply different on another. No result established here determines in advance which contemporary biological framework is best.
+L263: 
+L264: The article therefore stops where the next question begins. Once explanatory gain has been defined and bounded, contemporary frameworks can be examined for the kinds of explanatory work they actually perform without assuming beforehand that one form of explanation must dominate the others.
+L265: 
+L266: ## Related Terms and Next Step
+L267: 
+L268: Related terms: [Biological Explanation](/glossary/biological-explanation/), [Explanation](/glossary/explanation/), [Explanandum](/glossary/explanandum/) and [Explanatory Target](/glossary/explanatory-target/).
+L269: 
+L270: Related articles: [What Makes an Explanation Successful?](/articles/what-makes-an-explanation-successful/) and [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/).
+L271: 
+L272: The next article asks how contemporary biological frameworks actually explain, using the distinction between fair comparison and bounded explanatory gain without converting either into a pre-decided ranking.
+
+MATCHES: src\content\articles\what-counts-as-explanatory-gain.md
+----------------------------------------
+L10: cluster: methodology-and-explanation
+L35: relatedArticles:
+L50: **Where This Article Fits**
+L54: *This article begins only after that comparative work has been done. A controlled comparison may reveal a target-relevant difference, but difference is not yet explanatory gain. The further question is whether the candidate explanation provides additional explanatory capacity relative to a sufficiently strong comparator.*
+L79: A fair comparison may reveal a genuine difference between candidate explanations. That difference is necessary for positive explanatory gain: if the candidate adds nothing distinguishable, there is nothing further to credit. But difference alone is not sufficient.
+L87: A target-relevant difference becomes evidence of gain only when the difference supports additional explanatory capacity that survives comparison with the strongest relevant alternative.
+L91: <a href="/assets/diagrams/methodology-explanatory-gain.png" target="_blank" rel="noopener">
+L93:     src="/assets/diagrams/methodology-explanatory-gain.png"
+L140: Integration is scientifically valuable. It can connect evidence from different domains, reveal common structure, reduce fragmentation, and make a research problem easier to investigate.
+L152: Scientific ideas can be useful in many ways. They can organise research programmes, identify neglected variables, introduce productive distinctions, generate new experimental questions, provide tractable models, or improve communication across specialties.
+L161: | A concept, model or framework may organise research, integrate findings, expose new questions or improve representation without thereby demonstrating additional explanatory capacity relative to the strongest relevant explanation of the same target. Usefulness matters scientifically, but explanatory gain requires a further result: the candidate must enable something target-relevant to be explained, discriminated, constrained or inferred that the comparator does not already provide. |
+L177: A controlled comparison need not end with a positive verdict.
+L193: A null-gain verdict says that the controlled comparison did not establish additional explanatory capacity. An unresolved verdict says that the available evidence is insufficient to determine whether such additional capacity exists.
+L207: | **No additional gain** â€” The comparison does not establish additional explanatory capacity for the specified target relative to the comparator. |
+L213: Every gain verdict is bounded by the comparison that produced it.
+L233: After fair comparison, the practical question is:
+L270: Related articles: [What Makes an Explanation Successful?](/articles/what-makes-an-explanation-successful/) and [How Should Scientific Explanations Be Compared?](/articles/how-should-scientific-explanations-be-compared/).
+L272: The next article asks how contemporary biological frameworks actually explain, using the distinction between fair comparison and bounded explanatory gain without converting either into a pre-decided ranking.
+
+SECTION C - RESEARCH PAGE
+========================================
+
+FILE: src\pages\research\index.astro
+LINES: 1-110
+----------------------------------------
+L1: ---
+L2: import BaseLayout from '@/layouts/BaseLayout.astro';
+L3: import Breadcrumb from '@/components/Breadcrumb.astro';
+L4: 
+L5: const revised = '2026-10-10';
+L6: 
+L7: const pageTitle = 'APS Research';
+L8: const pageDescription =
+L9:   'The scholarly programme through which APS claims, methods, and applications are developed, compared, tested, and made available for critical assessment.';
+L10: ---
+L11: 
+L12: <BaseLayout title={pageTitle} description={pageDescription}>
+L13:   <div class="content-wrapper">
+L14:     <Breadcrumb items={[{ label: 'APS Research' }]} />
+L15: 
+L16:     <header class="page-header">
+L17:       <h1>APS Research</h1>
+L18:       <div class="page-revised">Revised: {revised}</div>
+L19:     </header>
+L20: 
+L21:     <div class="article-body">
+L22:       <p>
+L23:         APS Research is the scholarly programme through which APS claims,
+L24:         methods, and applications are developed, compared with existing work,
+L25:         tested against evidence and alternatives, and made available for
+L26:         critical assessment.
+L27:       </p>
+L28: 
+L29:       <p>
+L30:         It brings together peer-reviewed publications, preprints, deposited
+L31:         papers, completed APS Research, and substantive work in development
+L32:         where appropriate. Every item is identified by status so that
+L33:         completion, public availability, and external peer review are not
+L34:         confused.
+L35:       </p>
+L36: 
+L37:       <p>
+L38:         Research is the programme; the
+L39:         <a href="/publications/">Publications page</a> records its formally
+L40:         released scholarly outputs; and the
+L41:         <a href="/articles/">Articles collection</a> communicates the framework
+L42:         and its applications across the wider APS website.
+L43:       </p>
+L44: 
+L45:       <h2>Current Framework Status</h2>
+L46: 
+L47:       <p>
+L48:         APS is currently being investigated as a <strong>candidate general
+L49:         explanatory framework for biology</strong>. Controlled domain
+L50:         consolidation has established a coherent current substantive
+L51:         architecture comprising Cognition, Development &amp; Regeneration,
+L52:         Evolutionary Dynamics, Ecology, and Social Organisation, together with
+L53:         foundational commitments, cross-cutting resources, and interfaces.
+L54:       </p>
+L55: 
+L56:       <p>
+L57:         Subsequent cross-domain testing has not identified a genuine boundary
+L58:         or dependency inconsistency among the strongest cases examined, and no
+L59:         further substantive explanandum-centred domain is currently warranted.
+L60:         These findings support the internal and integrative coherence of the
+L61:         present APS architecture. They do not establish framework-wide
+L62:         empirical adequacy, explanatory superiority, or transfer of
+L63:         explanatory contribution between domains.
+L64:       </p>
+L65: 
+L66:       <p>
+L67:         Local research results therefore retain their own evidential scope and
+L68:         are not aggregated into framework-wide validation. Whether the present
+L69:         architecture provides explanatory value for biology as a whole beyond
+L70:         the organisation or redescription of already available biological
+L71:         explanations remains an open research question.
+L72:       </p>
+L73: 
+L74:       <p>
+L75:         Completed APS investigations have also produced restrictive findings.
+L76:         Comparative studies of biological agency and explanatory architecture
+L77:         have identified cases of equivalent redescription, local dispensability,
+L78:         or explanatory gain not established. Research into communication has
+L79:         not demonstrated a comparative advantage in reader understanding, while
+L80:         cross-domain reconciliation has established bounded architectural
+L81:         compatibility rather than explanatory superiority. These outcomes
+L82:         contribute to the assessment of APS by identifying where its claims
+L83:         remain unsupported, redundant, or in need of further testing.
+L84:       </p>
+L85: 
+L86:       <h2>APS as a Developing Intellectual System</h2>
+L87: 
+L88:       <p>
+L89:         The APS research programme is also documented as a process of conceptual
+L90:         construction, comparative testing, revision, consolidation, maintenance,
+L91:         and public claim calibration.
+L92:         <a href="/articles/aps-as-an-evolving-intellectual-system/">
+L93:           APS as an Evolving Intellectual System
+L94:         </a>
+L95:         examines how these activities relate while keeping explanatory,
+L96:         philosophical, scholarly, and developmental forms of warrant distinct.
+L97:       </p>
+L98: 
+L99:       <h2>Domain Architecture and Cross-Domain Research</h2>
+L100: 
+L101:       <p>
+L102:         Controlled corpus consolidation has established five current
+L103:         substantive APS domains: Cognition, Development &amp; Regeneration,
+L104:         Evolutionary Dynamics, Ecology, and Social Organisation. These domains
+L105:         are organised by explanatory function rather than by terminology,
+L106:         website classification, or separate levels of biological reality.
+L107:         Foundational commitments, cross-cutting conceptual and methodological
+L108:         resources, and boundary or interface populations can contribute across
+L109:         domains without thereby constituting additional peer domains.
+L110:       </p>
+
+MATCHES: src\pages\research\index.astro
+----------------------------------------
+L7: const pageTitle = 'APS Research';
+L9:   'The scholarly programme through which APS claims, methods, and applications are developed, compared, tested, and made available for critical assessment.';
+L14:     <Breadcrumb items={[{ label: 'APS Research' }]} />
+L17:       <h1>APS Research</h1>
+L23:         APS Research is the scholarly programme through which APS claims,
+L24:         methods, and applications are developed, compared with existing work,
+L25:         tested against evidence and alternatives, and made available for
+L31:         papers, completed APS Research, and substantive work in development
+L38:         Research is the programme; the
+L41:         <a href="/articles/">Articles collection</a> communicates the framework
+L67:         Local research results therefore retain their own evidential scope and
+L71:         explanations remains an open research question.
+L76:         Comparative studies of biological agency and explanatory architecture
+L78:         or explanatory gain not established. Research into communication has
+L79:         not demonstrated a comparative advantage in reader understanding, while
+L89:         The APS research programme is also documented as a process of conceptual
+L90:         construction, comparative testing, revision, consolidation, maintenance,
+L92:         <a href="/articles/aps-as-an-evolving-intellectual-system/">
+L99:       <h2>Domain Architecture and Cross-Domain Research</h2>
+L123:         confirmation of APS nor comparative explanatory superiority. They
+L125:         resulting architecture contributes to biological explanation and, where
+L127:         comparison with the strongest relevant alternatives.
+L130:       <h2>Earlier General-Biological-Explanation Coverage Assessment</h2>
+L134:         research coverage and evidential status. Its seven coverage families
+L135:         belong to that general-biological-explanation assessment and should not
+L142:         controlled comparative investigation and from stronger explanatory
+L151:         APS claim has undergone a bounded comparative test; it does not imply a
+L155:         articles or research projects. The columns are distinct evidential
+L158:         APS general-biological-explanation assessment. They are not an
+L165:           href="/assets/diagrams/aps-research-coverage-evidential-status.png"
+L172:             src="/assets/diagrams/aps-research-coverage-evidential-status.png"
+L173:             alt="Earlier APS Research Coverage and Evidential Status matrix distinguishing public architectural coverage, controlled investigation, bounded research results, supported local explanatory contribution, and transfer or broader explanatory scope across seven coverage families."
+L181:         <strong>Figure — Earlier APS Research Coverage and Evidential Status.</strong>
+L183:         general-biological-explanation assessment. It distinguishes public
+L184:         architectural coverage from controlled investigation, bounded research
+L194:         assessment did not identify a controlled comparative test satisfying
+L196:         the area had not been researched, that APS made no claims concerning
+L207:       <h2>Current Major Research Programme</h2>
+L209:       <article class="research-item">
+L213:           <strong>Status:</strong> Research in progress — D1–D3 completed;
+L214:           D4 proposed but not authorised. Comparative explanatory gain
+L230:           value</strong>, and whether it establishes <strong>comparative
+L231:           explanatory gain</strong>. The existence of a coherent architecture
+L239:           integrative explanatory gain. Any further comparison must identify
+L245:       <h2>Featured Research</h2>
+L247:       <article class="research-item">
+L281:       <article class="research-item">
+L283:           <a href="/articles/comparative-explanatory-methodology-theoretical-biology/">
+L284:             Comparative Explanatory Methodology in Theoretical Biology
+L288:         <p><strong>Status:</strong> Completed APS Research</p>
+L291:           Establishes a common analytical protocol for comparing
+L292:           organisational research programmes through their explanatory
+L298:       <article class="research-item">
+L300:           <a href="/research/auditing-dependency-claims-biological-explanation/">
+L301:             Auditing Dependency Claims in Biological Explanation: A Comparative
+[Additional matches omitted: 28]
+
+SECTION D - CLUSTER OVERVIEW SOURCE
+========================================
+Candidate route files:
+src/pages/index.astro
+src/pages/articles/index.astro
+src/pages/boxes/index.astro
+src/pages/clusters/[slug].astro
+src/pages/diagrams/index.astro
+src/pages/glossary/index.astro
+src/pages/research/index.astro
+src/pages/streams/index.astro
+
+Cluster-route source matches:
+
+FILE: src/pages/articles/index.astro
+L2: import { getCollection } from 'astro:content';
+L27:   'methodology-and-explanation': 'Explanation',
+L31: const articles = await getCollection('articles');
+L64:               <span class={`badge badge-domain badge-domain-${entry.data.cluster}`}>
+L65:               {domainLabels[entry.data.cluster] ?? entry.data.cluster}
+
+FILE: src/pages/boxes/index.astro
+L2: import { getCollection } from 'astro:content';
+L5: const boxes = await getCollection('boxes');
+
+FILE: src/pages/clusters/[slug].astro
+L2: import { getCollection } from 'astro:content';
+L9: const clusters = [
+L18: 'This cluster establishes the conceptual foundations of the Agency–Process–Scale (APS) Framework. It addresses the most fundamental questions in biology: what life is, how living systems persist, why organisms exhibit agency, how biological organisation is maintained, how normativity emerges, and what biological explanation ultimately seeks to explain. APS treats biology as the study of viability-oriented organised persistence, and the concepts developed here provide the vocabulary and explanatory architecture upon which every other APS domain is built.',
+L158: 'Every APS domain ultimately depends upon concepts developed in this cluster. Development, evolution, ecology, cognition, diagnosis, social organisation, methodology, and philosophy all build upon the conceptual architecture established here. Concepts are placed in this cluster when APS treats them as foundational principles required for understanding living systems in general rather than as concepts specific to a particular biological domain.',
+L167:       'This cluster examines how living systems preserve continuity while undergoing evolutionary transformation across generations and lineages. APS treats evolution as the historical transformation of viability-oriented organisation rather than as a process reducible to genes, traits, or selection alone.',
+L269:       'This cluster examines how living systems maintain continuity through growth, repair, transformation, ageing, and material change. APS treats development as organised persistence across a life history rather than as the execution of a programme.',
+L337:     'This cluster examines how living systems persist through ongoing relations with environments, niches, ecosystems, and other organisms. APS treats ecology not as the study of an external environment acting upon organisms, but as the study of the coupled organisational relations through which viability is maintained across time. Ecological organisation therefore concerns the continuity of living systems through organism–environment interaction, distributed persistence, and multiscale ecological organisation.',
+L437:     'This cluster examines when cognitive explanation is warranted in biology and how cognition relates to the living organisation from which it arises. APS does not identify cognition with biological agency, evaluation, significance, integration, signalling, regulation, adaptive responsiveness, or distributed organisation. These may provide important biological dependencies without being sufficient for cognition. The cluster also examines how warranted cognition is materially implemented and how it relates to downstream questions concerning mind, meaning, representation, consciousness, sentience, selfhood, and reflective agency.',
+L467:      'Membership in this cluster does not imply that every included concept or biological process is itself cognitive. The cluster includes pre-cognitive dependencies, cognition proper, tests of cognitive attribution, implementation questions, and downstream phenomena that must remain explanatorily distinct.'
+L475:       'This cluster examines how organised persistence extends into social, cultural, institutional, and symbolic forms. APS treats social organisation as a continuity architecture built from shared norms, practices, meanings, and coordinated activity.',
+L485:       'This cluster examines how APS concepts become empirically tractable. It concerns how living organisation is identified, tested, diagnosed, and distinguished from breakdown, malfunction, or non-living organisation.',
+L495:       'This cluster examines the philosophical traditions, debates, and interpretive problems with which APS engages. It situates APS in relation to reductionism, mechanism, holism, organicism, teleology, realism, and broader philosophy of biology.',
+L500:     slug: 'methodology-and-explanation',
+L505:       'This cluster examines how biological explanations can be specified, compared, and assessed relative to particular explananda and relevant comparators. APS distinguishes description from explanation, requires proposed explanatory dependencies to be materially and empirically warranted, and treats explanatory gain as target-relative and comparator-relative rather than as an intrinsic property of a framework.',
+L515:     'This cluster examines cases that test the boundaries of APS. It considers artificial systems, AI, minimal life, synthetic biology, borderline organisation, and systems that resemble life without necessarily possessing biological agency.',
+L518:   <h2>How This Cluster Is Organised</h2>
+L520:   <p>This cluster is organised around a central question: how should living systems be distinguished from artificial, simulated, and borderline forms of organisation?</p>
+L522:   <p>The anchor article, <em>The Boundaries of Life</em>, establishes the APS account of biological boundaries and provides the conceptual framework for the cluster as a whole. It explains why APS defines life in terms of viability-oriented organised persistence and why boundary questions are ultimately questions about organisation rather than superficial similarity.</p>
+
+FILE: src/pages/diagrams/index.astro
+L2: import { getCollection } from 'astro:content';
+L8: const diagrams = await getCollection('diagrams');
+
+FILE: src/pages/glossary/index.astro
+L2: import { getCollection } from 'astro:content';
+L27:   'methodology-and-explanation': 'Explanation',
+L31: const glossary = await getCollection('glossary');
+L58:               <span class={`badge badge-domain badge-domain-${entry.data.cluster}`}>
+L59:                 {domainLabels[entry.data.cluster] ?? entry.data.cluster}
+
+FILE: src/pages/streams/index.astro
+L2: import { getCollection } from 'astro:content';
+L8: const streams = await getCollection('streams');
+
+FILE: src/pages/clusters/[slug].astro
+LINES: 1-130
+----------------------------------------
+L1: ---
+L2: import { getCollection } from 'astro:content';
+L3: import BaseLayout from '@/layouts/BaseLayout.astro';
+L4: import Breadcrumb from '@/components/Breadcrumb.astro';
+L5: import StatusBadge from '@/components/StatusBadge.astro';
+L6: import DomainBadge from '@/components/DomainBadge.astro';
+L7: import TypeBadge from '@/components/TypeBadge.astro';
+L8: 
+L9: const clusters = [
+L10:   {
+L11: slug: 'conceptual-foundations',
+L12: title: 'Conceptual Foundations',
+L13: 
+L14: description:
+L15: 'Life, agency, viability, organisation, persistence, scale, normativity, and biological explanation.',
+L16: 
+L17: overview:
+L18: 'This cluster establishes the conceptual foundations of the Agencyâ€“Processâ€“Scale (APS) Framework. It addresses the most fundamental questions in biology: what life is, how living systems persist, why organisms exhibit agency, how biological organisation is maintained, how normativity emerges, and what biological explanation ultimately seeks to explain. APS treats biology as the study of viability-oriented organised persistence, and the concepts developed here provide the vocabulary and explanatory architecture upon which every other APS domain is built.',
+L19: 
+L20: architectureGuide: {
+L21:   title: 'The Core Structure of APS',
+L22:   href: '/orientation/the-core-structure-of-aps-how-the-framework-fits-together/',
+L23:   description:
+L24:     'The architectural guide to the APS framework. This orientation article explains how life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning form a coherent explanatory pathway.',
+L25: },
+L26: 
+L27: startHere: [
+L28: 'The Core Structure of APS',
+L29: 'Agency as the Defining Activity of Life',
+L30: 'What Is Life? â€” A Biological Question Revisited',
+L31: 'Biological Agency as the Activity of Self-Maintenance',
+L32: 'Biological Explanation â€” What Needs to Be Explained',
+L33: ],
+L34: 
+L35: keyQuestions: [
+L36: 'What is life?',
+L37: 'What is biological agency?',
+L38: 'What is viability?',
+L39: 'What is biological organisation?',
+L40: 'What is organised persistence?',
+L41: 'What is biological normativity?',
+L42: 'What is function?',
+L43: 'What is a biological system?',
+L44: 'What is an organism?',
+L45: 'What is biological explanation?',
+L46: 'How is biological organisation coordinated across scale?',
+L47: 'Why is biology different from physics?',
+L48: ],
+L49: 
+L50: architecture: `
+L51: 
+L52: <section class="domain-architecture-panel"> <h2>How This Domain Is Organised</h2>
+L53: 
+L54: <p>This domain is organised around a central question: how should biology understand living systems as viability-oriented organised persistence?</p>
+L55: 
+L56: <p>APS approaches this question through a sequence of interdependent concepts. Life is the phenomenon requiring explanation. Agency concerns the activity through which living systems maintain themselves. Viability provides the normative reference point for that activity. Organisation concerns the structured relations that sustain persistence. Persistence concerns the continuity of organised living systems through time. Scale concerns the distributed coordination of biological organisation across space and time. Biological explanation seeks to understand how these processes are generated, maintained, and transformed.</p>
+L57: 
+L58: <p>The anchor articles establish the central APS understanding of life and agency. The remaining articles develop this framework through five connected explanatory pathways.</p>
+L59: 
+L60: <h3>Life and Agency</h3>
+L61: 
+L62: <p>These articles establish the APS understanding of life, agency, organisms, and biological systems. They explain why living systems are distinguished not by particular materials or mechanisms but by viability-oriented organised activity.</p>
+L63: 
+L64: <h3>Organisation and Constraint</h3>
+L65: 
+L66: <p>These articles develop the organisational architecture of life. They explain how biological organisation, constraints, and constraint closure contribute to the maintenance of persistence.</p>
+L67: 
+L68: <h3>Persistence and Temporality</h3>
+L69: 
+L70: <p>These articles explore how living systems maintain continuity through continual transformation. Persistence, process, temporality, and continuity are presented as central dimensions of biological explanation.</p>
+L71: 
+L72: <h3>Scale and Normativity</h3>
+L73: 
+L74: <p>These articles explain how biological organisation is coordinated across interacting scales and why viability generates biological normativity, function, and evaluative organisation.</p>
+L75: 
+L76: <h3>Conceptual Integration and Biological Explanation</h3>
+L77: 
+L78: <p>These articles synthesise multiple APS concepts into a unified explanatory framework. They clarify what biology explains, how biological explanation differs from physical explanation, and how continuity is organised across the architecture of life.</p>
+L79: 
+L80: <div class="domain-architecture-grid">
+L81: 
+L82: <div class="domain-architecture-group">
+L83:   <h3 class="anchor-heading">Anchor</h3>
+L84:   <ul>
+L85:     <li>Agency as the Defining Activity of Life</li>
+L86:     <li>Persistence - organised continuity through time</li>
+L87:     <li>What Is Life? â€” A Biological Question Revisited</li>
+L88:   </ul>
+L89: </div>
+L90: 
+L91: <div class="domain-architecture-group">
+L92:   <h3 class="synthesis-heading">Synthesis</h3>
+L93:   <ul>
+L94:     <li>Agency in Contemporary Biology</li>
+L95:     <li>How Do We Know Something Is Alive?</li>
+L96:     <li>Scale, Time, and Persistence</li>
+L97:     <li>The Continuity Architecture of Life</li>
+L98:     <li>The Continuity Structure of Biological Organisation</li>
+L99:     <li>Time and Biological Organisation</li>
+L100:     <li>Why Is Biology Different From Physics?</li>
+L101:   </ul>
+L102: </div>
+L103: 
+L104: <div class="domain-architecture-group">
+L105:   <h3 class="core-heading">Core</h3>
+L106:   <ul>
+L107:     <li>Biological Agency as the Activity of Self-Maintenance</li>
+L108:     <li>Viability</li>
+L109:     <li>Organism</li>
+L110:     <li>What Is an Organism?</li>
+L111:     <li>What Is a Biological System?</li>
+L112:     <li>Biological Organisation</li>
+L113:     <li>Constraint</li>
+L114:     <li>Constraint Closure</li>
+L115:     <li>Process</li>
+L116:     <li>Temporal Organisation and Organised Persistence</li>
+L117:     <li>Scale</li>
+L118:     <li>Normativity in Biology</li>
+L119:     <li>From Viability to Normativity</li>
+L120:     <li>Biological Explanation</li>
+L121:     <li>APS as an Organised Conceptual System</li>
+L122:   </ul>
+L123: </div>
+L124: 
+L125: <div class="domain-architecture-group">
+L126:   <h3 class="clarification-heading">Clarification</h3>
+L127:   <ul>
+L128:     <li>Agency Without Intentions</li>
+L129:     <li>Mentalistic Terms in Biology</li>
+L130:     <li>What Is Biological Regulation?</li>
+
+SECTION E - AUDIT BOUNDARY
+========================================
+Inspection only.
+No website source files modified.
+No canonical articles amended.
+No Workbooks modified.
+No navigation amendments authorised.
