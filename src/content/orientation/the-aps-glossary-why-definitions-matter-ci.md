@@ -4,7 +4,7 @@ title: The APS Glossary - Why Definitions Matter
 slug: the-aps-glossary-why-definitions-matter
 type: orientation
 status: canonical
-revised: 2026-04-03
+revised: 2026-10-12
 ---
 
 ## Introduction
@@ -43,7 +43,9 @@ APS definitions are not interchangeable descriptions or approximate summaries. E
 
 To preserve coherence across the APS corpus, key terms are defined using a constrained vocabulary in which core expressions-such as *viability-oriented, constraint-closed organisation* - are treated as stable reference points. These expressions specify the organisational conditions that underlie biological explanation and are used consistently across articles, glossary entries, and research papers.
 
-This discipline ensures that concepts do not drift as they are applied in different contexts. Definitions can be extended or elaborated, but such extensions must preserve their canonical structure and dependencies. In this way, the glossary does not merely describe terms; it stabilises the explanatory grammar of the framework.
+This discipline ensures that concepts do not drift as they are applied in different contexts. 
+Definitions can be extended or elaborated while preserving their established structure and dependencies. Where substantive biological or philosophical considerations justify changing those commitments, revision must be explicit, controlled, and assessed for its consequences across the framework.
+
 
 **Key Point**
 APS definitions are not flexible descriptions - they are canonical constraints that preserve the coherence of the framework.
@@ -67,6 +69,20 @@ This means that:
 - definitions cannot be modified in isolation
 - conceptual changes propagate across the framework
 - coherence depends on maintaining these relationships
+
+## The Positive Value of an Interconnected Conceptual System
+
+The value of the APS glossary lies not only in the precision of individual definitions but also in their systematic relationships. By connecting concepts within a shared account of living organisation, APS seeks to reduce ambiguity, expose explanatory assumptions, preserve distinctions among biological domains, and support cumulative conceptual development.
+
+This architecture offers several related advantages. Conceptual precision helps prevent different meanings from being conflated. Explicit dependencies make relationships among concepts open to examination and criticism. Consistent terminology supports comparison across biological domains, while the organisation of the glossary allows conceptual revisions to be assessed for their consequences elsewhere in the framework.
+
+These advantages depend on the framework remaining open to correction. Canonical definitions provide stability, not immunity from revision. Where biological evidence, philosophical argument, or changing explanatory requirements reveal deficiencies, definitions and their relationships may require controlled adjustment. Similarly, cross-domain integration must preserve genuine biological differences rather than obscure them through a common vocabulary.
+
+The resulting system is intended to improve biological intelligibility by making conceptual relationships more explicit, coherent, and accessible. Its architectural coherence is a positive feature of APS, although coherence alone does not establish biological adequacy, additional empirical explanatory power, or superiority over established approaches.
+
+**Key Point**
+
+The APS glossary provides a coherent, revisable conceptual architecture whose precision, explicit dependencies, and cross-domain relationships can contribute to biological understanding.
 
 ## Definitions and Dependency Pathways
 
@@ -114,7 +130,8 @@ In this respect, definitions contribute to what APS calls explanatory grammar: t
 
 Just as grammatical rules help organise language into meaningful sentences, explanatory grammar helps organise concepts into meaningful explanations. It does not determine what must be explained, but it helps regulate how explanations are formulated and connected.
 
-The glossary therefore performs a role beyond definition. It helps establish the conceptual conditions under which coherent explanation becomes possible.
+The glossary therefore performs a role beyond definition. It establishes a controlled conceptual structure through which APS explanations can be formulated, related, evaluated, and refined without implying that other biological approaches must adopt the same definitions.
+
 
 **Key Point**
 

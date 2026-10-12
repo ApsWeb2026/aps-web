@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-09-03
+revised: 2026-10-12
 cluster: methodology-and-explanation
 abstract: >
   This article explains how the APS glossary functions as conceptual
@@ -51,6 +51,21 @@ The glossary functions as infrastructure because it helps make those relationshi
 
 [[box:conceptual-closure-and-the-aps-glossary]]
 
+
+## The Positive Contribution of Conceptual Infrastructure
+
+The APS glossary contributes to biological understanding through the relationships among its definitions, not merely through the precision of individual terms. Its interconnected architecture makes conceptual commitments explicit, helps prevent ambiguity and conflation, and provides a common interpretive perspective across otherwise distinct biological domains.
+
+This organisation has several positive functions. Stable definitions support consistent interpretation; documented relationships expose assumptions and dependencies to criticism; controlled distinctions preserve differences among explanatory targets; and revision procedures allow conceptual improvements to be assessed for their consequences throughout the framework. These features make APS a coherent and corrigible conceptual system rather than a collection of independent claims.
+
+The potential intellectual value of this architecture lies in its capacity to improve biological intelligibility. By relating questions concerning agency, function, development, evolution, ecology, and cognition through a shared account of living organisation, APS offers a systematic perspective from which their connections and differences can be examined.
+
+Such integration does not itself establish additional biological mechanisms, empirical dependencies, or comparative explanatory superiority. Its contribution is instead conceptual and interpretive: making biological relationships more explicit, coherent, and open to critical assessment. Whether particular applications improve understanding must be judged in relation to the questions and alternatives concerned.
+
+**Key Point**
+
+The APS glossary is not merely a mechanism for maintaining terminological consistency. Its interconnected, revision-open architecture is a potential resource for conceptual clarification, cross-domain integration, and biological understanding.
+
 ## Why Scientific Frameworks Need Conceptual Infrastructure
 
 Scientific inquiry depends upon clear and sufficiently stable concepts as well as empirical observations, models, theories, and explanations.
@@ -75,7 +90,7 @@ Doing so requires concepts whose meanings remain sufficiently controlled for cla
 
 The glossary contributes to this task by stabilising canonical formulations and clarifying distinctions among related concepts. A claim involving Life, Biological Agency, Process, Scale, Viability, Constraint Closure, or Organised Persistence can be assessed more clearly when those terms do not shift meaning from one context to another.
 
-Conceptual infrastructure therefore **supports explanation without itself being explanation**.
+Conceptual infrastructure supports biological explanation by clarifying the concepts, distinctions, and relationships through which explanatory claims are formulated and assessed. It can also contribute to conceptual understanding by making relationships among biological questions more explicit and intelligible. This contribution should be distinguished from establishing the biological dependencies or causal mechanisms invoked in particular explanations.
 
 A canonical definition does not establish that a biological system instantiates the defined organisation. A documented conceptual relationship does not establish a material dependency. And consistency among APS concepts does not demonstrate comparative explanatory gain.
 
@@ -136,13 +151,13 @@ These distinctions are not merely matters of preferred vocabulary. They affect w
 
 The glossary contributes to APS explanatory practice by recording and stabilising such distinctions.
 
-This does not give the glossary an independent explanatory function. Rather, it helps maintain conceptual consistency when explanations are formulated, compared, criticised, and revised.
+Together, these controlled concepts and distinctions contribute to an APS-specific explanatory grammar: a structured vocabulary and set of conceptual relationships through which APS explanations can be formulated, connected, compared, criticised, and revised. This grammar can improve conceptual clarity and support integration across biological domains without prescribing the concepts that all biological explanations must use or establishing the adequacy of particular APS claims.
 
 Explanatory adequacy remains a property to be assessed in relation to particular explananda, evidence, alternatives, and established explanations.
 
 **Key Point**
 
-The glossary supports APS explanatory practice by maintaining controlled concepts and distinctions; it does not supply a general explanatory grammar.
+The glossary contributes to an APS-specific explanatory grammar that supports conceptual clarity, consistency, and integration without claiming to govern biological explanation generally.
 
 ## Infrastructure, Scope, and Conceptual Economy
 
@@ -386,9 +401,9 @@ And conceptual coherence within APS does not by itself demonstrate explanatory g
 
 Those burdens remain with the relevant biological and comparative claims.
 
-The glossary should therefore be understood neither as a simple dictionary nor as a foundation from which biological explanation follows. It is a controlled conceptual resource through which APS maintains the terminology, distinctions, and documented relationships required for its own corpus to remain coherent and revision-open.
+The glossary should therefore be understood neither as a simple dictionary nor as a foundation from which biological explanation automatically follows. It is an interconnected, revision-open conceptual system through which APS maintains precision, preserves important distinctions, makes conceptual relationships explicit, and supports the integration of explanatory questions across biological domains.
 
-Conceptual organisation is consequently important to APS explanatory practice, but its contribution is infrastructural.
+Its contribution is both infrastructural and interpretive. The glossary helps sustain a coherent conceptual architecture through which biological questions can be examined, connected, criticised, and refined. These are positive contributions to the organisation of biological understanding, although their usefulness in particular applications remains open to assessment.
 
 The scientific standing of the claims expressed through that infrastructure must be established separately.
 
@@ -442,7 +457,7 @@ A stable definition can clarify what APS claims. It cannot establish that a biol
 
 ### Position Within APS
 
-The APS glossary is therefore neither a simple dictionary nor a general explanatory grammar.
+The APS glossary is neither a simple dictionary nor a universal explanatory grammar for biology. It contributes to an APS-specific explanatory grammar while maintaining the conceptual distinctions and revision procedures required for responsible explanatory practice.
 
 It is a controlled conceptual resource through which APS maintains continuity, clarity, and revision discipline across its corpus.
 
