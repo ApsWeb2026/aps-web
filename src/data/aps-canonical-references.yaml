@@ -5181,4 +5181,57 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: 2026-10-09
-  
+- id: barkai-leibler-1997-robustness-simple-biochemical-networks
+  type: journal-article
+  authors: Barkai, N., & Leibler, S.
+  year: 1997
+  title: Robustness in Simple Biochemical Networks
+  journal: Nature
+  volume: '387'
+  pages: 913–917
+  doi: 10.1038/43199
+  verification:
+    status: verified
+    authority: Springer Nature / Nature
+    verifiedDate: 2026-10-13
+- id: mitchell-1961-chemi-osmotic-coupling
+  type: journal-article
+  authors: Mitchell, P.
+  year: 1961
+  title: Coupling of Phosphorylation to Electron and Hydrogen Transfer by a Chemi-Osmotic Type of Mechanism
+  journal: Nature
+  volume: '191'
+  pages: 144–148
+  doi: 10.1038/191144a0
+  verification:
+    status: verified
+    authority: Springer Nature / Nature
+    verifiedDate: 2026-10-13
+- id: pauling-et-al-1949-sickle-cell-anemia
+  type: journal-article
+  authors: Pauling, L., Itano, H. A., Singer, S. J., & Wells, I. C.
+  year: 1949
+  title: Sickle Cell Anemia, a Molecular Disease
+  journal: Science
+  volume: '110'
+  issue: '2865'
+  pages: 543–548
+  doi: 10.1126/science.110.2865.543
+  verification:
+    status: verified
+    authority: CaltechAUTHORS / PubMed
+    verifiedDate: 2026-10-13
+- id: yi-et-al-2000-robust-perfect-adaptation
+  type: journal-article
+  authors: Yi, T.-M., Huang, Y., Simon, M. I., & Doyle, J.
+  year: 2000
+  title: Robust Perfect Adaptation in Bacterial Chemotaxis Through Integral Feedback Control
+  journal: Proceedings of the National Academy of Sciences
+  volume: '97'
+  issue: '9'
+  pages: 4649–4653
+  doi: 10.1073/pnas.97.9.4649
+  verification:
+    status: verified
+    authority: PubMed / NCBI / OpenAlex
+    verifiedDate: 2026-10-13
