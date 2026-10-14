@@ -1,0 +1,1323 @@
+APS CS-03A — CURRENT CANONICAL SOURCE EXPORT
+Export date: 2026-10-13 12:39:47
+Repository: C:\Users\Roger\Website\aps-web-1
+Selected files: 6
+
+========================================================================
+FILE: C:\Users\Roger\Website\aps-web-1\src\content\articles\biological-organisation-how-living-systems-sustain-themselves.md
+========================================================================
+---
+date: 2026-08-23
+title: "Biological Organisation — How Living Systems Sustain Themselves"
+slug: biological-organisation
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-08-23
+revised: 2026-09-03
+cluster: conceptual-foundations
+role: core
+abstract: >
+  Biological organisation is a central target of explanation within APS.
+  Living systems persist despite continual material, functional, developmental,
+  and environmental change because their organisation is actively maintained
+  and re-established. APS characterises living organisation as viability-oriented
+  and constraint-closed, and analyses it through the complementary,
+  target-sensitive analytic projections of Agency, Process, and Scale. This
+  perspective does not replace established biological explanations or reduce
+  biological organisation to a single component, mechanism, or scale. It
+  identifies an organisational target to which different explanatory approaches
+  may contribute.
+keyPoints:
+  - Biological organisation is treated within APS as a target of explanation rather than as a replacement for established biological explanations.
+  - APS characterises living organisation as viability-oriented and constraint-closed; constraint closure is part of the canonical APS account of Life rather than a universally required form of biological explanation.
+  - Agency, Process, and Scale are complementary, target-sensitive analytic projections of one biologically real organisation rather than independent causes, entities, or hierarchical levels.
+  - Relations across spatial and temporal extents require materially implemented interactions, conditions, constraints, or dependencies; differences of scale alone do not establish causal coupling.
+  - Biological organisation provides a common explanatory target to which molecular, mechanistic, physiological, developmental, ecological, evolutionary, and other biological approaches may contribute.
+relatedGlossaryTerms:
+  - life
+  - biological-organisation
+  - biological-agency
+  - viability
+  - constraint-closure
+  - organised-persistence
+  - process
+  - scale
+  - persistence
+  - normativity
+  - development
+relatedArticles:
+  - agency-as-the-defining-activity-of-life
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - persistence-organised-continuity-through-time
+  - viability-the-organising-principle-of-biological-persistence
+  - process-the-dynamics-of-living-biological-organisation
+  - levels-vs-scale-why-biological-organisation-is-not-hierarchical
+  - development-as-organised-persistence
+  - the-developmental-organisation-of-life
+  - biological-explanation-and-organised-persistence
+---
+
+> **Where this article fits**
+>
+> This article treats biological organisation as a **target of explanation rather than as a replacement for established biological explanations**. Within APS, Agency, Process, and Scale provide complementary, target-sensitive analytic projections of the same living organisation.
+
+## 1. The Problem of Biological Continuity
+
+Living systems persist despite continual change.
+
+Their molecular constituents turn over. Cellular structures are repaired and replaced. Physiological conditions fluctuate. Development transforms form and function. Organisms alter their relations with surrounding environments. Yet through such changes, living systems can maintain continuity of organisation.
+
+This creates a distinctive explanatory problem. Biological continuity cannot always be identified with the persistence of unchanged material structures.
+
+Molecular, biochemical, physiological, structural, developmental, and other biological explanations identify materially specified features and processes through which living systems function. The organisational question does not compete with these explanations. It asks how the relevant activities, structures, constraints, and dependencies are related in ways that allow living organisation to remain continuous despite change.
+
+APS refers to this continuity as **organised persistence**.
+
+Organised persistence is the continuity of living organisation through change. It is the continuity requiring explanation, not an independent mechanism or activity that produces persistence.
+
+## 2. Biological Organisation as a Target of Explanation
+
+Biological organisation should not be identified merely with the arrangement of biological parts.
+
+Living systems consist of materially realised structures and processes, but organisation concerns the relations through which those structures and processes contribute to the continued functioning of the system.
+
+These relations include dependencies among activities, structures, constraints, and conditions. Their explanatory relevance depends on the biological target under investigation.
+
+Appealing to organisation cannot substitute for specifying the material activities through which it is realised.
+
+Organisation has explanatory value when it identifies such relations, not when it merely redescribes a system as an integrated whole.
+
+[[box:organisation-is-not-structure]]
+
+Constraint closure is an important part of the APS account of living organisation. It identifies networks in which constraints involved in maintaining biological activity depend, directly or indirectly, upon other processes and constraints within the organisation whose continuation they help sustain.
+
+Constraint closure does not by itself exhaust the APS account of living organisation. APS also asks how the relevant organisation is enacted through viability-oriented activity, how continuity is maintained despite change, and across what spatial and temporal extents persistence is organised.
+
+## 3. Viability, Regulation, and the Organisation of Persistence
+
+Within APS, living organisation is analysed relative to viability.
+
+**Viability** concerns the conditions under which living organisation can continue to function. Changes in internal or external conditions can therefore differ in their consequences for continued functioning. Some remain compatible with persistence; others impair or destroy the organisation on which continued functioning depends.
+
+Within the APS analysis, this asymmetry provides the limited sense of biological normativity required here. Conditions matter biologically insofar as they differ in their consequences for the viability of the organisation concerned.
+
+This does not imply conscious evaluation, intention, preference, or judgement.
+
+Living systems can regulate, repair, reorganise, acquire resources, modify relations with their environments, and otherwise respond to changing conditions in ways relevant to continued functioning. These activities may contribute to maintaining or re-establishing the organisation required for persistence.
+
+APS characterises the living organisation at issue as **viability-oriented, constraint-closed organisation**.
+
+Organised persistence identifies the continuity of that organisation through change. It does not identify an additional mechanism or causal force.
+
+The organisation relevant to persistence is therefore not a static arrangement. Within APS, it is understood through materially realised activities and dependencies through which conditions relevant to continued functioning can be maintained and re-established.
+
+## 4. Agency, Process, and Scale as Analytic Projections
+
+APS analyses living organisation through three complementary, target-sensitive analytic projections.
+
+**Agency** concerns **what living systems do**.
+
+Biological agency is viability-oriented organisational activity. Regulation, repair, behaviour, physiological adjustment, resource acquisition, and environmental modification may express biological agency without individually defining it. Within APS, agency is not an additional capacity attached to an otherwise complete living system; it identifies the activity through which viability-oriented living organisation is enacted and sustained.
+
+Agency does not require intention, consciousness, deliberation, symbolic representation, or cognition.
+
+**Process** concerns **how continuity is maintained despite change**.
+
+Living organisation persists through ongoing material, physiological, developmental, and environmental transformation. Process directs attention to the dynamics through which organisational continuity is maintained or re-established rather than treating persistence as static stability.
+
+**Scale** concerns **where persistence is organised across spatial and temporal extents**.
+
+The relevant extent depends on the explanatory target. Scale does not divide biological reality into hierarchical levels, nor does it assign intrinsic explanatory priority to molecular, cellular, organismal, ecological, or longer temporal descriptions.
+
+Where relations across different extents are explanatorily relevant, they must be materially implemented through identifiable interactions, conditions, constraints, or dependencies. Differences of scale alone do not establish causal coupling.
+
+Agency, Process, and Scale are therefore complementary, target-sensitive analytic projections of one living organisation. They are not stages, independent causes, components, hierarchical levels, or ontological domains.
+
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/conceptual-living-organisation.png"
+    alt="Biological organisation as viability-oriented, constraint-closed organisation considered through the complementary analytic projections of Agency, Process, and Scale, with materially realised regulation and reconstruction relevant to organised persistence through change."
+  />
+  <p class="diagram-caption">
+    <strong>Biological Organisation: Continuity Through Change.</strong>
+    Living systems sustain continuity through viability-oriented, constraint-closed organisation enacted through materially realised regulation, reconstruction, and transformation. Organised persistence denotes the continuity of living organisation through change rather than material or structural invariance. Agency, Process, and Scale are complementary, target-sensitive analytic projections of the same biologically real organisation: what living systems do, how continuity is maintained despite change, and where persistence is organised across spatial and temporal extents. The organisation is materially realised and environmentally dependent; development illustrates how persistence can be maintained through transformation.
+  </p>
+</div>
+
+## 5. Persistence Through Developmental Transformation
+
+Development makes the problem of organised persistence especially clear.
+
+A developing organism can undergo substantial changes in size, morphology, physiology, behaviour, and relations among tissues and organs while remaining continuous as the same developing living organisation.
+
+Continuity therefore need not require structural invariance.
+
+Development can involve the regulated production, removal, replacement, and reorganisation of structures. What the analysis tracks as continuing is an organised relation among activities, constraints, and conditions through which the developing system remains viable while changing.
+
+APS can analyse this through Agency, Process, and Scale.
+
+Agency concerns the viability-oriented activities through which development is enacted. Process concerns how continuity is maintained through developmental transformation. Scale concerns which spatial and temporal extents are relevant to the developmental explanandum.
+
+These do not provide three separate explanations. They are complementary analytic projections of the same developing organisation.
+
+Development does not independently establish the APS account. Established developmental explanations retain their mechanisms, evidence, and explanatory targets. Development instead provides a clear case in which the explanatory problem of continuity through transformation can be examined.
+
+## 6. Organisation in an Environment and Across Scale
+
+Living organisation is materially realised and environmentally dependent.
+
+Organisms depend upon exchanges of matter and energy and upon environmental conditions compatible with continued functioning. They can also modify those conditions through their own activity.
+
+Dependence on an environment does not erase the distinction between the organisation of the living system and the wider systems with which it interacts.
+
+Coupling alone does not establish constraint closure, and dependence alone does not establish biological agency or normativity.
+
+Likewise, relations extending across spatial or temporal extents should not be represented as causal traffic between abstract biological levels.
+
+Where wider organisation alters local activity, the relation must be materially implemented through identifiable conditions, interactions, constraints, or dependencies. Local activity contributes to wider organisation through similarly material relations.
+
+Scale therefore identifies where persistence is organised for the explanatory target at issue. It does not introduce a hierarchy in which wider scales automatically control smaller ones or possess greater explanatory importance.
+
+## 7. Biological Organisation as a Target of Explanation
+
+Treating biological organisation as a target does not imply that every biological question is fundamentally organisational.
+
+Different questions require different explanatory resources.
+
+A molecular mechanism may adequately explain one target. Physiological organisation may be relevant to another. Developmental history, ecological relations, or evolutionary history may be required for others.
+
+Mechanistic and organisational explanations therefore need not compete. A mechanism can form part of an organisational explanation where the target requires specification of the wider dependencies under which the mechanism operates. Conversely, no additional organisational account is required merely because a mechanism can be redescribed as belonging to a larger system.
+
+No spatial or temporal scale is automatically privileged.
+
+The organisational perspective becomes particularly relevant where identifying relations among activities, structures, constraints, and conditions makes an explanatory difference to the target.
+
+Whether it provides additional explanatory gain must be assessed relative to that target and to the strongest established explanation available for it.
+
+Within APS, what is tracked as persisting is neither matter alone nor an abstract pattern detached from material realisation. It is the continuity of materially realised living organisation through change.
+
+APS characterises Life as:
+
+> **Life is viability-oriented, constraint-closed organisation.**
+
+Organised persistence identifies the continuity of that living organisation through change.
+
+## Explanatory Architecture
+
+### Central Question
+
+**How do living systems maintain biological continuity despite continual material, functional, developmental, and environmental change, and what kind of organisation makes that persistence possible?**
+
+### Architectural Role
+
+This Core article establishes **biological organisation as a central explanatory target within APS**.
+
+It presents the APS account of living organisation as viability-oriented and constraint-closed and relates that account to organised persistence and the target-sensitive analytic projections of Agency, Process, and Scale.
+
+Its purpose is not to replace molecular, mechanistic, physiological, developmental, ecological, evolutionary, or other biological explanations. It identifies an organisational target to which such explanations may contribute where relevant to the explanandum.
+
+### Preceding Explanatory Dependencies
+
+These concepts and articles establish **APS conceptual dependencies presupposed by this article**:
+
+- **Life** — viability-oriented, constraint-closed organisation.
+
+- **Biological Agency** — viability-oriented organisational activity.
+
+- **Viability** — conditions relevant to the continued functioning of living organisation.
+
+- **Constraint Closure** — the organisational relation through which mutually dependent constraints contribute to maintaining the organisation within which they operate.
+
+- **Process** — the analytic projection concerned with how continuity is maintained despite change.
+
+- **Scale** — the analytic projection concerned with where persistence is organised across spatial and temporal extents.
+
+- **Organised Persistence** — continuity of living organisation through change.
+
+These dependencies do not constitute a hierarchy, chronology, sequence of biological levels, or set of independent causes.
+
+### Subsequent Explanatory Developments
+
+The organisational architecture developed here supports subsequent APS investigations of:
+
+- biological function;
+
+- normativity and biological evaluation;
+
+- development and developmental continuity;
+
+- adaptation and evolutionary transformation;
+
+- cognition and later organisational capacities;
+
+- biological explanation across different spatial and temporal extents.
+
+These later developments do not follow automatically from the present article and require their own explanatory and evidential assessment.
+
+### Related Explanatory Questions
+
+- How does biological organisation differ from biological structure?
+
+- How does constraint closure contribute to the APS account of living organisation?
+
+- How does viability help APS distinguish biologically consequential changes from organisational dependence alone?
+
+- How can biological continuity persist despite material turnover and developmental transformation?
+
+- When do relations across spatial or temporal extents contribute to explanation?
+
+- When does an organisational analysis provide explanatory gain beyond the strongest established explanation for the same target?
+
+### Position Within APS
+
+Biological Organisation occupies a central position within the conceptual foundations of APS because it provides a common explanatory target for Life, Agency, Process, Scale, Viability, Constraint Closure, and Organised Persistence.
+
+Agency, Process, and Scale are complementary, target-sensitive analytic projections of this living organisation rather than independent causes, components, or levels.
+
+The article therefore functions as an integrative Core object within APS while leaving the explanatory adequacy of particular biological accounts to be established relative to their specific targets, evidence, and strongest available comparators.
+
+========================================================================
+FILE: C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-agency-ci.md
+========================================================================
+---
+date: 2026-05-29
+title: Biological Agency
+slug: biological-agency
+type: glossary
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-03
+cluster: conceptual-foundations
+
+definition: >
+  Biological agency is viability-oriented organisational activity.
+
+inBrief: >
+  Biological agency is the viability-oriented organisational activity through
+  which living organisation is enacted and sustained.
+
+seeAlso:
+  - viability-orientation
+  - biological-organisation
+  - persistence
+  - organism
+  - process
+  - scale
+  - normativity
+  - function
+  - evaluation
+  - cognition
+---
+
+## Conventional framing
+
+Agency is often associated with intention, choice, consciousness, planning, or intelligent decision-making.
+
+In ordinary language, agents are usually understood as beings that deliberate, decide, and act for reasons. Applied without qualification to biology, this can make agency appear to require capacities such as intention, representation, cognition, or conscious awareness.
+
+APS uses **biological agency** in a more minimal and explicitly non-mentalistic sense.
+
+## The APS perspective
+
+**Biological agency is viability-oriented organisational activity.**
+
+Agency is the present-tense activity through which viability-oriented living organisation is enacted and sustained. Living systems regulate, repair, reorganise, acquire resources, respond to perturbation, modify relations with their environments, and otherwise contribute actively to maintaining and re-establishing the conditions of their own viability.
+
+These activities are expressions of biological agency rather than its definition. Regulation, adaptation, repair, behaviour, and self-maintenance are therefore ways in which agency may be realised, not interchangeable definitions of agency itself.
+
+Biological agency does not require intention, consciousness, intelligence, symbolic representation, deliberation, or reflective choice.
+
+Within APS, agency is not treated as a specialised capacity added to living organisation after life has already been established. Living organisation is understood as enacted through agency: agency identifies what living systems do as they continually maintain and re-establish the conditions of their own persistence. This is a current APS framework commitment rather than a comparator-validated claim that this account is uniquely constitutive of life.
+
+## Agency and organised persistence
+
+Biological agency is closely related to organised persistence, but the two concepts should not be conflated.
+
+**Organised persistence** identifies the continuity of living organisation despite continual material, physiological, developmental, and environmental change.
+
+**Agency** identifies the viability-oriented organisational activity through which that continuity is actively maintained and re-established.
+
+Living systems do not persist merely because material processes continue to occur. Within APS, their persistence is understood in terms of organised activity that contributes to maintaining the conditions under which their viability can continue.
+
+Agency therefore identifies the active dimension of organised persistence within the APS account.
+
+## Agency within the APS analytic architecture
+
+Within the APS analytic architecture, Agency is the analytic projection concerned with **what living systems do**.
+
+Agency is one of three complementary analytic projections:
+
+- **Agency** concerns what living systems do;
+
+- **Process** concerns how continuity is maintained despite change;
+
+- **Scale** concerns where persistence is organised across spatial and temporal extents.
+
+Agency, Process, and Scale are complementary, target-sensitive analytic projections of one viability-oriented, constraint-closed organisation. They are not independent components, causes, entities, domains, or hierarchical levels of biological reality, nor are all three assumed to be equally required for every explanatory target.
+
+Calling Agency an analytic projection does not mean that biological agency is merely an analytical construction. The distinction is introduced for purposes of investigation and explanation, but the viability-oriented organisational activity it identifies is biologically real within the APS account.
+
+The distinction is analytic; the organisation and activity it identifies are treated by APS as biologically real.
+
+## What biological agency is not
+
+In APS, biological agency is not equivalent to:
+
+- conscious intention;
+
+- intelligent planning;
+
+- psychological choice;
+
+- symbolic representation;
+
+- cognition;
+
+- externally imposed purpose;
+
+- goal pursuit in a mental or deliberative sense.
+
+Some organisms may exhibit these additional capacities, but none is required for biological agency within the APS account.
+
+Likewise, agency should not be identified with any single expression of viability-oriented activity. Homeostatic regulation, adaptive reorganisation, repair, behaviour, development, and environmental modification may all express agency without individually defining it.
+
+## Agency and cognition
+
+APS distinguishes biological agency from cognition.
+
+Life does not require cognition; cognition presupposes life.
+
+Within APS, biological systems can exhibit viability-oriented organisational activity without possessing the integrated temporal and counterfactual organisation required for cognition. Cognition is therefore treated as a more specialised organisational capacity arising within already agential living systems rather than as a condition for biological agency itself.
+
+Agency must consequently not be inferred from intelligence-like behaviour, nor should cognition be attributed merely because a system regulates or adapts.
+
+## Agency across scale
+
+Agency is materially realised across spatial and temporal extents.
+
+The relevant question is not whether agency resides at a privileged biological level, but where the viability-oriented organisation constituting the relevant agent is materially organised.
+
+Cellular, physiological, organismal, developmental, ecological, or collective processes may contribute to agential organisation, but agency should not be attributed indiscriminately to every larger system in which living agents participate.
+
+Claims of agency require identification of the organisation whose viability is at issue and the materially implemented activity through which that organisation maintains or re-establishes the conditions of its persistence.
+
+## Why biological agency matters
+
+Biological agency is central to APS because it identifies the active character of living organisation.
+
+APS does not treat living systems as passive structures that merely undergo causal events. Within the framework, living organisation is understood as continually enacted through activity that maintains, modifies, repairs, and re-establishes conditions relevant to viability.
+
+Agency therefore provides an important organisational connection within APS among viability, function, normativity, adaptation, organised persistence, biological evaluation, and later organisational capacities such as cognition. These conceptual relations do not by themselves establish the comparative explanatory superiority or independent empirical validation of the associated APS propositions.
+
+Its role within APS does not make Agency a mandatory category for every biological explanation. Rather, it is a central analytic projection within APS's account of living organisation.
+
+## Key Point
+
+**Biological agency is viability-oriented organisational activity. Within the APS analytic architecture, Agency is the analytic projection concerned with what living systems do. It is not intention, cognition, or a separate component of living systems. APS treats it as the activity through which viability-oriented organisation is enacted and sustained; this remains a current APS framework commitment rather than a comparator-validated stronger constitutive claim.**
+
+========================================================================
+FILE: C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-organisation.md
+========================================================================
+---
+date: 2026-04-08
+title: Biological Organisation
+slug: biological-organisation
+type: glossary
+
+definition: "Biological organisation is viability-oriented, constraint-closed organisation through which living systems maintain and re-establish the conditions of their own persistence."
+
+inBrief: "Biological organisation is the ongoing organisation through which living systems maintain the conditions of continued viable functioning."
+
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-08
+revised: 2026-08-24
+
+cluster: conceptual-foundations
+
+seeAlso:
+  - biological-agency
+  - constraint
+  - constraint-closure
+  - process
+  - persistence
+  - viability
+  - normativity
+  - scale
+  - function
+
+references:
+  - mossio-2023-organization-biology
+  - moreno-mossio-2015-biological-autonomy
+  - nicholson-dupre-2018-everything-flows
+  - di-paolo-2005-autopoiesis-adaptivity
+  - mossio-saborido-moreno-2009-functions
+  - bich-ruiz-mirazo-moreno-2016-regulation
+  - green-batterman-2017-biology-meets-physics
+  - spencer-2026-agency-defining-activity-life
+---
+
+## Biological Organisation
+
+Biological organisation is more than the arrangement of biological parts. Living systems are materially structured, but many of their apparently stable structures persist only because continuing activity produces, maintains, repairs, regulates, or replaces them. Organisation therefore concerns not simply what components are present, but the materially realised activities and dependencies through which continued functioning is maintained.
+
+This distinction does not oppose structure to organisation. Structures, mechanisms, and material components are indispensable. The point is that a structural description alone does not explain how a living system remains organised while its constituents, activities, and conditions change. Biological organisation must therefore be understood as ongoing organisation rather than as a static configuration.
+
+## Constraint Closure and Viability
+
+Constraint closure identifies an important feature of living organisation. Biological constraints channel processes while depending upon other processes and constraints for the conditions of their own continued operation. Living systems are materially open to their environments, but relations among their constraints can nevertheless form mutually dependent organisation through which the system contributes to maintaining itself.
+
+Constraint closure does not by itself exhaust the APS account of biological organisation. Living organisation is also viability-oriented. Changes in organisation are not biologically equivalent: some sustain or restore continued functioning, while others progressively undermine the conditions on which that functioning depends.
+
+This difference provides the basis of biological normativity in the limited sense relevant here. APS characterises it as **viability-relative asymmetry**. No conscious judgement, intention, or external evaluator is required.
+
+## Organisation as Activity
+
+Biological organisation is continually enacted through activity. Regulation, repair, compensation, reconstruction, metabolism, and other forms of biological activity contribute to maintaining or re-establishing the conditions under which the living system can continue.
+
+**Biological agency is viability-oriented organisational activity.** Agency is therefore not an additional property attached to an otherwise complete biological organisation. It concerns what living systems do in enacting and sustaining that organisation.
+
+Organisation and organisational activity are analytically distinguishable but biologically inseparable: organisation identifies the continuing organisation of the living system, while agency identifies the present-tense activity through which that organisation is enacted.
+
+## Agency, Process, and Scale
+
+APS examines biological organisation through three complementary analytic projections.
+
+**Agency** concerns what living systems do.
+
+**Process** concerns how continuity is maintained despite change.
+
+**Scale** concerns where persistence is organised across spatial and temporal extents.
+
+Agency, Process, and Scale are not components, independent causes, stages, or hierarchical levels. They are analytic projections of one viability-oriented, constraint-closed organisation. The distinctions belong to explanation; the organisation and activities they disclose are biologically real.
+
+Biological dependencies may extend across different spatial and temporal extents, but this does not require higher or lower levels to act upon one another as independent causal domains. Cross-scale influence is materially implemented through constraints, boundary conditions, signals, interactions, resource distributions, histories, and other relations that alter the conditions under which biological activity occurs.
+
+## Biological Organisation and Organised Persistence
+
+Living systems persist despite continual material turnover, regulation, environmental change, and sometimes substantial transformation. Their persistence therefore cannot be identified with preservation of the same material constituents or an invariant structural configuration.
+
+APS uses **organised persistence** for continuity achieved through continuing organisation. Biological organisation is the viability-oriented, constraint-closed organisation through which this continuity is maintained and re-established; organised persistence characterises the continuity thereby achieved.
+
+This distinction is important. Organised persistence is not itself the definition of Life. The canonical formulation remains:
+
+**Life is viability-oriented, constraint-closed organisation.**
+
+Living organisation persists because it is continually enacted, regulated, repaired, reconstructed, and, where necessary, transformed.
+
+## Summary
+
+Biological organisation is the ongoing viability-oriented, constraint-closed organisation through which living systems maintain and re-establish the conditions of their own persistence.
+
+It cannot be reduced to static structure, component lists, mechanical assembly, or an abstract pattern detached from material realisation. Its constraints and activities are materially implemented; its continuation depends upon viability-sensitive regulation and reconstruction; and its relevant dependencies may extend across spatial and temporal extents.
+
+Agency, Process, and Scale provide complementary analytic projections of this same organisation: what living systems do, how continuity is maintained despite change, and where persistence is organised. The resulting continuity is organised persistence—persistence achieved through organisation rather than through material sameness or structural invariance.
+
+========================================================================
+FILE: C:\Users\Roger\Website\aps-web-1\src\content\glossary\cognition-cid.md
+========================================================================
+---
+date: 2026-04-27
+title: Cognition
+slug: cognition
+type: glossary
+definition: >
+  Cognition is the organisation of biological significance across time.
+inBrief: >
+  Cognition organises what matters biologically across time so that significance
+  can contribute to activity beyond immediate or fixed regulation.
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-11
+revised: 2026-09-11
+cluster: cognition-and-mind
+
+seeAlso:
+  - viability
+  - biological-agency
+  - normativity
+  - biological-evaluation
+  - significance
+  - integration
+  - mind
+
+relatedArticles:
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - the-cognitive-organisation-of-life
+  - cognition-where-does-it-belong-in-biology
+  - how-did-cognition-become-a-biological-problem
+  - what-is-biological-evaluation
+  - what-is-biological-significance
+  - what-is-integration
+  - what-is-mind
+  - biological-agency-without-intentions
+  - why-life-is-not-intelligence-an-aps-clarification
+
+references:
+  - spencer-2026-agency-defining-activity-life
+  - di-paolo-2005-autopoiesis-adaptivity
+  - adams-garrison-2013-mark-cognitive
+  - ramsey-2007-representation-reconsidered
+  - corcoran-pezzulo-hohwy-2020-counterfactual-cognisers
+  - lyon-keijzer-arendt-levin-2021-reframing-cognition
+---
+
+## 1. The APS Definition
+
+**Cognition is the organisation of biological significance across time.**
+
+In APS, cognition belongs within biological organisation without being identical with life or biological agency. Living systems already regulate activity, respond selectively to changing conditions, maintain their organisation, and alter activity in relation to conditions that support or threaten continued functioning (Di Paolo 2005; Spencer 2026). These capacities establish the biological conditions within which cognition can arise, but they do not by themselves establish cognition.
+
+Cognition concerns the organisation of what matters biologically across time. Biological significance need not remain restricted to an immediate relation between a present condition and a present response. In cognitive organisation, significance can become integrated with retained conditions, present circumstances, and viability-relevant possibilities in ways that affect current activity.
+
+This makes cognition biological without making all biological organisation cognitive.
+
+## 2. Pre-Cognitive Foundations
+
+Cognition depends upon a sequence of explanatory relations already established within APS:
+
+**Biological Agency → Biological Evaluation → Significance → Integration → Cognition**
+
+This sequence expresses explanatory dependency rather than chronology, hierarchy, or separate components.
+
+Biological agency is viability-oriented organisational activity. Through Biological Evaluation, conditions acquire differential significance relative to the maintenance and re-establishment of living organisation. Some conditions support continued functioning, others impair it, and still others alter what forms of activity are viable.
+
+Significance is therefore already present before cognition. A living system can encounter conditions that matter biologically without cognitively organising those conditions.
+
+Integration is likewise not sufficient by itself. Living organisation can coordinate multiple processes, retain effects of prior conditions, and regulate activity over time without thereby becoming cognitive. Accounts of adaptivity and biological autonomy already show why viability-sensitive organisation and regulation must be distinguished from stronger cognitive attribution (Di Paolo 2005; Spencer 2026).
+
+The pre-cognitive domain is therefore genuine. Biological Agency, Biological Evaluation, Significance and Integration are not incomplete or lower forms of cognition. They are forms of organisation from which cognition may arise when additional explanatory conditions are satisfied.
+
+## 3. The Current Boundary Proposal
+
+The canonical definition states what cognition is. A separate question concerns when biological agency should be attributed cognitive organisation.
+
+The current APS boundary proposal is:
+
+**Biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.**
+
+This is a **provisional boundary proposal**, not a second definition of cognition.
+
+Its purpose is to make cognitive attribution empirically discriminating. The problem of identifying a defensible mark of cognition is itself well established, and cannot be resolved simply by redescribing sophisticated biological activity as cognitive (Adams and Garrison 2013).
+
+Temporal extension alone is not sufficient. A regulatory system may retain effects of prior states, anticipate recurrent conditions, or alter present activity in light of earlier perturbations without requiring cognitive explanation. Work distinguishing allostatic regulation from counterfactual cognition illustrates why prospective regulation alone does not settle cognitive status (Corcoran et al. 2020).
+
+Likewise, flexibility, complexity, learning, memory, anticipation, or sensitivity to absent conditions cannot independently establish cognition. Their significance depends on the organisation in which they occur and on whether cognitive explanation identifies dependencies not already explained by an adequate non-cognitive account.
+
+The boundary therefore concerns how biological significance is organised across a temporal field of viability-relevant possibilities, not simply whether the past affects the present or whether behaviour is adaptive.
+
+## 4. What Cognition Is Not
+
+Cognition should not be identified with life itself. **Life does not require cognition; cognition presupposes life.**
+
+Cognition is also not synonymous with biological agency. All living systems exhibit biological agency, but agency does not automatically become cognitive simply by being adaptive, evaluative, responsive, or temporally extended.
+
+Nor is cognition reducible to regulation. Homeostatic control, developmental organisation, physiological adjustment, and other forms of viability-sensitive regulation may be sophisticated without being cognitive.
+
+Cognition is not defined by Semiosis, Information, or Representation. Each may become explanatorily useful in particular phenomena, but none constitutes a universal stage through which cognition must develop. Representational explanation, in particular, should be warranted by the phenomenon rather than inferred merely from the use of cognitive vocabulary (Ramsey 2007).
+
+Cognition is not equivalent to Intelligence. Intelligence may involve specialised forms of problem solving, abstraction, behavioural flexibility, or symbolic organisation, but these capacities do not define cognition.
+
+Cognition is also not equivalent to Consciousness or Mind. Consciousness is not required for cognitive attribution, and Mind represents a further organisation of evaluative and cognitive processes rather than the point at which cognition first appears.
+
+These distinctions preserve cognition as a specific biological explanatory category rather than a general label for biological sophistication.
+
+## 5. Cognition Within APS
+
+Cognition occupies a distinctive explanatory position within the broader APS account of living organisation.
+
+It depends upon Biological Agency, Biological Evaluation, Significance and Integration without being reducible to any of them. It contributes, where present, to the organisation of activity across temporal relations that extend beyond immediate or fixed regulation. Mind in turn depends upon cognition without being identical with every cognitive process.
+
+Cognition need not be restricted to brains or nervous systems. Contemporary biological approaches to cognition provide serious grounds for investigating cognitive organisation beyond conventional neural and human-centred cases (Lyon et al. 2021). Neural organisation provides powerful mechanisms for cognitive activity, but neural implementation is not part of the APS definition.
+
+The absence of neural tissue, however, provides no positive evidence for cognition by itself. Non-neural complexity, signalling, physiological coordination, plasticity, learning-like behaviour, or distributed regulation still require independent explanatory assessment before cognitive attribution is warranted.
+
+Cognitive organisation must be materially implemented within the living system whose activity is being explained. Agency, Process, and Scale provide complementary analytic projections of that organisation: what the living system does, how continuity is maintained despite change, and where persistence is organised across spatial and temporal extents. They are analytic projections rather than components of reality.
+
+Within APS, cognitive attribution therefore remains relative to a specified explanandum and an adequate comparator. The relevant question is not simply whether a system can be described cognitively, but whether cognition explains something about the specified phenomenon that an adequate non-cognitive account does not.
+
+## 6. Summary
+
+**Cognition is the organisation of biological significance across time.**
+
+It arises within living organisation but is not identical with life, biological agency, evaluation, regulation, adaptation, or temporal extension. Biological Agency, Biological Evaluation, Significance and Integration provide pre-cognitive foundations from which cognition may arise without themselves constituting cognition.
+
+The current APS boundary proposal holds that biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. This proposal remains provisional and empirically assessable.
+
+Cognition may be neural or non-neural, representational or non-representational, but none of these implementation features defines it. Its distinctive explanatory role lies in the organisation of biological significance across time.
+
+========================================================================
+FILE: C:\Users\Roger\Website\aps-web-1\src\content\glossary\function-ci.md
+========================================================================
+---
+date: 2026-04-08
+title: Function
+slug: function
+type: glossary
+definition: "In APS, function is the viability-relative organisational contribution a structure, process, or activity makes within living organisation."
+inBrief: "Function is viability-relative organisational contribution within living organisation."
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-16
+revised: 2026-09-29
+cluster: conceptual-foundations
+
+seeAlso:
+  - viability
+  - viability-orientation
+  - normativity
+  - purpose
+  - biological-organisation
+  - biological-agency
+  - constraint-closure
+  - persistence
+  - adaptation
+  - semiosis
+  - malfunction
+  - evolution
+
+relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-biological-intelligibility
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - malfunction-breakdown-and-death
+  - how-to-diagnose-a-biological-system
+  - design-in-nature-an-aps-clarification
+  - what-is-evolution-in-aps
+  - why-life-is-not-intelligence-an-aps-clarification
+
+references:
+  - id: wright1973
+    authors: "Wright, L."
+    year: 1973
+    title: "Functions"
+    journal: "The Philosophical Review"
+    volume: "82"
+    pages: "139–168"
+    doi: "10.2307/2183766"
+
+  - id: millikan1984
+    authors: "Millikan, R. G."
+    year: 1984
+    title: "Language, Thought, and Other Biological Categories"
+    source: "MIT Press"
+
+  - id: cummins1975
+    authors: "Cummins, R."
+    year: 1975
+    title: "Functional Analysis"
+    journal: "Journal of Philosophy"
+    volume: "72"
+    pages: "741–765"
+
+  - id: garson2016
+    authors: "Garson, J."
+    year: 2016
+    title: "A Critical Overview of Biological Functions"
+    source: "Springer"
+
+  - id: jonas1966
+    authors: "Jonas, H."
+    year: 1966
+    title: "The Phenomenon of Life"
+    source: "Harper & Row"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+
+## Conventional Framing
+
+Biological function is commonly explained in two principal ways.
+
+Selected-effects theories define function historically in terms of what a trait was selected for during evolution.
+
+Causal-role theories define function in terms of the contribution a component makes within a system.
+
+Both approaches capture important aspects of biological organisation, but each leaves important questions unresolved.
+
+Selected-effects theories explain why functions emerged historically, but often struggle to explain present-tense malfunction and ongoing organisational regulation.
+
+Causal-role theories explain present contributions, but may lack a clear basis for distinguishing:
+- functional from non-functional activity;
+- successful from unsuccessful contribution;
+- or organisation from accidental effect.
+
+APS reframes function through viability-oriented organisation.
+
+## The APS Reframing
+
+In APS, function is the viability-relative organisational contribution a structure, process, or activity makes within living organisation.
+
+Functions are therefore not intrinsic properties of isolated components.
+
+They are organisational relations established relative to viability within living organisation.
+
+A process counts as functional insofar as its activity makes a viability-relative contribution within that organisation. Such contributions can participate in sustaining, restoring, or regulating the organisation through which the living system persists.
+
+> **Where this concept fits:** Function is one of the central organising concepts of APS. It explains how structures, processes, and activities contribute to viability-oriented persistence and thereby grounds malfunction, adaptation, semiosis, diagnosis, and biological explanation within a unified organisational framework. For the broader structure of APS, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
+[[box:function-is-not-purpose]]
+
+APS consequently treats function not as externally assigned purpose, isolated causal contribution, or historical residue alone, but as an organisational relation within viability-oriented persistence itself.
+
+## Function and Viability
+
+Function is grounded in viability.
+
+Living systems exist under conditions where organised persistence can succeed or fail. Functional contributions therefore matter relative to viability constraints.
+
+Some processes support organised persistence, while others undermine or destabilise it.
+
+Function is therefore intrinsically normative rather than value-neutral.
+
+A functional contribution is one that helps sustain viable organisation under relevant conditions.
+
+APS consequently distinguishes:
+- **viability**, which specifies the conditions under which organised persistence can succeed or fail;
+- from **function**, which refers to the contribution particular structures or processes make relative to those viability conditions.
+
+This distinction forms part of the APS conceptual architecture for analysing biological function.
+
+## Function and Normativity
+
+Normativity grounds functional evaluation.
+
+Because biological organisation is viability-oriented, the activity of components can be evaluated relative to their contribution to persistence.
+
+Within APS, the function concept organises these contrasts in relation to their contributions to viability-oriented persistence:
+- success and failure;
+- regulation and dysfunction;
+- repair and compensation;
+- adaptation and breakdown
+
+without requiring externally imposed standards or conscious intention.
+
+Malfunction becomes intelligible because living systems persist under normative viability constraints.
+
+[[box:norms-are-not-rules]]
+
+Function in APS is therefore inseparable from agency, process, and scale. Functional contributions are established within ongoing viability-oriented organisation, whose relevant spatial and temporal extent depends upon the biological case.
+
+APS treats Agency, Process and Scale as complementary analytic projections of one viability-oriented living organisation.
+
+## Function and Biological Organisation
+
+Functions exist only within organised systems.
+
+A structure or process does not possess a function independently of the organisation within which it operates.
+
+The same process may therefore:
+- contribute functionally in one organisational context;
+- but not in another.
+
+Function is thus relational rather than intrinsic.
+
+What counts as functional depends upon whether the process makes a viability-relative contribution within the living organisation concerned.
+
+APS consequently treats function as organisationally situated rather than as a property of isolated components.
+
+## Function and Constraint Closure
+
+Function is inseparable from constraint-closed organisation.
+
+Living systems persist through networks of mutually sustaining constraints distributed across multiple interacting processes.
+
+Functional contributions help maintain:
+- organisational coherence;
+- metabolic regulation;
+- physiological integration;
+- behavioural coordination;
+- and environmental coupling.
+
+Function therefore describes how local processes contribute to sustaining the broader organisation of viable persistence.
+
+APS consequently grounds function in reciprocally sustained organisation rather than in isolated causal contribution alone.
+
+## Function and Agency
+
+Biological agency continuously modulates functional organisation.
+
+Living systems regulate, compensate, repair, reorganise, and adapt their activity relative to viability constraints.
+
+Functional contributions are therefore not merely static component roles.
+
+They are dynamically enacted within ongoing viability-oriented regulation.
+
+Function is consequently processual rather than purely structural.
+
+## Function and Adaptation
+
+Adaptation reorganises functional relations under changing conditions.
+
+Living systems continuously modify functional organisation in response to perturbation and environmental variation.
+
+Functions may therefore:
+- shift;
+- reorganise;
+- compensate;
+- or become redistributed
+
+while preserving viable persistence.
+
+Function is thus historically and developmentally dynamic rather than fixed once and for all.
+
+APS therefore treats adaptation as one of the principal ways functional organisation is maintained across changing conditions.
+
+## Function and Evolution
+
+Evolution explains the historical emergence and stabilisation of functional organisation.
+
+Selected effects help explain why certain functional relations became evolutionarily established across generations.
+
+However, APS distinguishes:
+- the historical emergence of functions;
+from
+- their present-tense organisational role.
+
+Functional status is established in the present by viability-relative organisational contribution within living organisation.
+
+Evolutionary history explains how such relations arose and stabilised, but not what presently warrants their functional attribution.
+
+APS consequently integrates historical and organisational accounts of function without reducing function entirely to either one.
+
+## Function and Purpose
+
+Function and purpose are closely related but conceptually distinct.
+
+Function concerns the viability-relative organisational contribution made by a particular structure, process, or activity within living organisation.
+
+Purpose concerns the viability-oriented organisation of activity through which a living system maintains and re-establishes the conditions of its persistence.
+
+The distinction may be expressed simply:
+
+- **Function:** what viability-relative organisational contribution does this structure, process, or activity make?
+
+- **Purpose:** how is the living system's activity organised relative to viability?
+
+Function and purpose therefore identify different explanatory relations within the same viability-oriented living organisation. Function identifies particular viability-relative contributions; purpose concerns the organisation of activity relative to viability.
+
+APS consequently naturalises purposiveness through viability-oriented organisation without requiring external teleology or intelligent design.
+
+## Function and Diagnosis
+
+Function is operationally tractable because perturbation, malfunction, compensation, and repair reveal how processes contribute to organised persistence.
+
+Disruption may:
+- preserve viability through compensation;
+- expose organisational dependencies;
+- redistribute functional organisation;
+- or produce breakdown.
+
+These responses reveal the viability-relative organisation of function itself.
+
+APS therefore treats diagnosis not merely as structural inspection, but as the investigation of functional organisation within viability-oriented persistence.
+
+[[box:perturbation-reveals-organisation]]
+
+## Summary
+
+In APS, function is the viability-relative organisational contribution a structure, process, or activity makes within living organisation.
+
+Function is:
+- organisational rather than intrinsic;
+- normative rather than value-neutral;
+- processual rather than static;
+- and viability-relative rather than externally assigned.
+
+Function therefore becomes intelligible through the organisation of living systems themselves rather than through externally imposed purpose or purely historical explanation alone.
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
+
+### Function, Adaptation, and Evolution
+
+- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+- *[What Is Evolution in APS?](/articles/what-is-evolution-in-aps/)*
+- *[Purpose](/glossary/purpose/)*
+
+### Diagnosis and Breakdown
+
+- *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
+- *[Malfunction, Breakdown, and Death](/articles/malfunction-breakdown-and-death/)*
+- *[Perturbation Reveals Organisation](/boxes/perturbation-reveals-organisation/)*
+
+### Clarification Articles
+
+- *[Design in Nature — An APS Clarification](/articles/design-in-nature-an-aps-clarification/)*
+- *[Why Life Is Not Intelligence](/articles/why-life-is-not-intelligence-an-aps-clarification/)*
+
+========================================================================
+FILE: C:\Users\Roger\Website\aps-web-1\src\content\glossary\viability.md
+========================================================================
+---
+date: 2026-04-26
+title: Viability
+slug: viability
+type: glossary
+
+definition: >
+  In APS, viability refers to the conditions compatible with the continued
+  functioning and organised persistence of living organisation.
+
+inBrief: >
+  Viability specifies the conditions compatible with the continued functioning
+  and organised persistence of living organisation.
+
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-22
+revised: 2026-09-03
+cluster: conceptual-foundations
+
+seeAlso:
+  - persistence
+  - viability-orientation
+  - biological-agency
+  - biological-organisation
+  - constraint
+  - constraint-closure
+  - normativity
+  - function
+  - process
+  - scale
+  - adaptation
+  - evolution
+  - temporal-organisation
+
+relatedArticles:
+  - aps-architecture-map
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - the-core-structure-of-aps-how-the-framework-fits-together
+  - explanatory-geometry-of-biology
+  - aps-as-philosophy-biological-intelligibility
+  - temporal-organisation-and-organised-persistence
+  - how-to-diagnose-a-biological-system
+  - scale-time-persistence
+  - evolution
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - perturbation-reveals-organisation
+
+references:
+  - id: jonas1966
+    authors: "Jonas, H."
+    year: 1966
+    title: "The Phenomenon of Life"
+    source: "Harper & Row"
+
+  - id: varela1979
+    authors: "Varela, F. J."
+    year: 1979
+    title: "Principles of Biological Autonomy"
+    source: "North Holland"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life: Biology, Phenomenology, and the Sciences of Mind"
+    source: "Harvard University Press"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    source: "W. W. Norton & Company"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    source: "Springer"
+
+  - id: nicholson2019
+    authors: "Nicholson, D. J., & Dupré, J."
+    year: 2019
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    source: "Oxford University Press"
+---
+
+## Conventional Framing
+
+Viability is commonly understood as the capacity of a system to survive, function, develop, or reproduce under given conditions.
+
+In biology, viability is often treated as:
+
+- a measurable outcome;
+
+- a statistical property;
+
+- or a criterion of fitness and survival.
+
+Under these framings, viability is frequently defined relative to externally specified conditions or environmental constraints.
+
+These uses describe important aspects of biological survival, functioning, and persistence. APS uses viability for a more specifically organisational question: the conditions compatible with the continued functioning and organised persistence of living organisation.
+
+## The APS Reframing
+
+In APS, viability refers to the conditions compatible with the continued functioning and organised persistence of living organisation.
+
+Viability therefore does not name the activity through which persistence is maintained. Biological agency identifies viability-oriented organisational activity, while organised persistence identifies the continuity of living organisation despite ongoing change.
+
+Viability instead specifies conditions relative to which organised activity can contribute to, restore, undermine, or fail to sustain continued functioning and persistence.
+
+> **Where this concept fits:** Viability is a central organising concept within APS. It is related within the framework to agency, normativity, adaptation, semiosis, cognition, evolution, temporal organisation, and biological diagnosis. These conceptual relations do not establish viability as a universal explanatory foundation or independently validate the associated APS propositions. For the broader structure of the framework, see *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*.
+
+Living systems regulate and reorganise activity under conditions that differ in their consequences for continued functioning and persistence.
+
+Within APS, viability provides the reference relative to which such consequences can be characterised as supporting, degrading, restoring, or threatening organised persistence.
+
+Viability is therefore closely related to organised continuity across time without being identical to the activity through which that continuity is maintained.
+
+## Viability and Biological Organisation
+
+Within APS, viability is understood in relation to biological organisation.
+
+Living systems remain viable insofar as their organisation continues to sustain conditions compatible with continued functioning and organised persistence.
+
+Membranes regulate exchange. Metabolic organisation must remain sufficiently coherent. Physiological regulation can compensate for perturbation. Behaviour can remain coupled to conditions that support continued persistence.
+
+Viability therefore concerns the conditions under which organised persistence remains possible.
+
+APS treats these conditions as arising from relations within and between living organisation and its surroundings rather than as criteria imposed solely by an external observer.
+
+In this sense, viability within APS is organisation-relative rather than merely externally assigned.
+
+## Viability and Normativity
+
+APS characterises biological normativity in viability-relative terms.
+
+Some conditions support organised persistence, while others undermine or destroy it. Processes and outcomes can therefore differ in their consequences for the continued functioning of a living system.
+
+Within the APS account, these viability-relative asymmetries provide the basis for distinguishing conditions that sustain, degrade, restore, or threaten organised persistence.
+
+APS uses this relation to investigate biological normativity without treating the conceptual connection itself as evidence that viability has been established as the uniquely correct or universally sufficient basis of biological normativity.
+
+Normativity remains a distinct APS proposition whose comparative validation is open.
+
+## Viability Is Dynamic
+
+Viability is not treated in APS as a fixed or simply binary property.
+
+The conditions compatible with continued functioning can change with:
+
+- environmental conditions;
+
+- organisational stability;
+
+- adaptive flexibility;
+
+- repair capacity;
+
+- resilience under perturbation;
+
+- and the ongoing coordination of organised activity across time.
+
+A living system's capacity to remain within viable conditions may therefore be:
+
+- strengthened;
+
+- weakened;
+
+- restored;
+
+- reorganised;
+
+- or lost.
+
+Living systems can regulate and reorganise activity in ways that maintain or re-establish conditions compatible with continued functioning under change.
+
+Viability in APS therefore concerns changing organisational conditions rather than static survival status alone.
+
+Living systems do not merely occupy viable conditions.
+
+Through biological agency, they can contribute actively to maintaining and re-establishing the conditions under which their organised persistence remains possible.
+
+## Viability Across Scale
+
+Conditions relevant to viability can be materially organised across different spatial and temporal extents.
+
+Molecular organisation can contribute to cellular viability. Physiological organisation can contribute to organismal functioning. Ecological relations can affect organismal persistence. Evolutionary change can alter conditions under which forms of living organisation persist across generations.
+
+These should not be treated as separate hierarchical levels of viability.
+
+Rather, the relevant explanatory question is where the conditions, processes, and constraints bearing on the viability of the organisation under investigation are materially organised across space and time.
+
+Within the APS analytic architecture, Agency, Process, and Scale provide complementary, target-sensitive projections of one viability-oriented, constraint-closed organisation. Agency concerns what living systems do; Process concerns how continuity is maintained despite change; and Scale concerns where persistence is organised across spatial and temporal extents.
+
+They are not dimensions of a general explanatory grammar, independent components of biological reality, or universally required explanatory steps.
+
+## Viability and Agency
+
+Biological agency is viability-oriented.
+
+Within APS, living systems can regulate and modulate activity relative to conditions that support or threaten organised persistence.
+
+Agency may be expressed through:
+
+- behaviour;
+
+- physiology;
+
+- adaptation;
+
+- repair;
+
+- and environmental modulation.
+
+Viability is therefore not merely an external background condition for agency.
+
+It specifies the conditions relative to which APS characterises agential activity as contributing to, restoring, undermining, or failing to sustain organised persistence.
+
+## Viability and Adaptation
+
+Changes in organisation can contribute to maintaining or re-establishing viable conditions.
+
+Living systems can reorganise activity in response to changing circumstances in ways that preserve continued functioning and organised persistence.
+
+Within APS, adaptation can therefore be analysed in relation to changes that affect viability without treating all forms of adaptation as instances of a single universal viability-maintenance mechanism.
+
+Persistence does not require static stability. Continued functioning can depend on reorganisation as conditions change.
+
+The relation between adaptation and viability is therefore one way APS investigates how living organisation persists through change.
+
+## Viability and Evolution
+
+Viability is related to evolution within APS, but it is not treated as a universal explanatory foundation for evolutionary biology.
+
+Evolutionary change occurs across generations of living systems whose organisation, reproduction, development, and relations with their environments are themselves subject to conditions affecting persistence.
+
+APS uses viability to characterise one aspect of this relation: forms of living organisation differ in the conditions under which their continued functioning and persistence are possible, and those conditions can themselves change historically.
+
+The APS evolutionary formulation treats evolution as historical transformation of viable organisation. This is an integrative formulation within the framework rather than evidence that viability provides a uniquely sufficient explanation of evolutionary change or replaces established evolutionary explanations.
+
+## Viability and Temporal Organisation
+
+Viability is temporally extended in the sense that the conditions relevant to continued functioning are not confined to isolated moments.
+
+Living systems organise activity in relation to conditions whose consequences can unfold across different temporal extents.
+
+Repair, adaptation, compensation, regulation, and reorganisation can contribute to maintaining or re-establishing conditions compatible with continued functioning.
+
+APS therefore treats viability as temporally organised without identifying viability itself with the activity that maintains it.
+
+Biological agency concerns that activity; organised persistence concerns the continuity maintained through change; viability specifies the conditions relative to which continued functioning and persistence remain possible.
+
+## Viability as an Operational Concept
+
+Perturbation can help investigate the organisational conditions relevant to continued functioning and persistence.
+
+A system's response to disruption may:
+
+- preserve viable functioning;
+
+- involve compensatory reorganisation;
+
+- degrade progressively;
+
+- or culminate in loss of organised functioning.
+
+Such responses can help identify processes and constraints that contribute to organised persistence.
+
+Viability can therefore guide empirical questions about the conditions under which living organisation continues, reorganises, degrades, or fails. This does not by itself constitute a validated APS-specific diagnostic, biosignature, or universal operational criterion.
+
+[[box:perturbation-reveals-organisation]]
+
+Diagnosis, malfunction, breakdown, and recovery can be organisationally informative because perturbation can expose conditions relevant to continued functioning and organised persistence.
+
+## Summary
+
+In APS, viability refers to the conditions compatible with the continued functioning and organised persistence of living organisation.
+
+Viability is related within APS to:
+
+- normativity;
+
+- agency;
+
+- adaptation;
+
+- persistence;
+
+- semiosis;
+
+- cognition;
+
+- diagnosis;
+
+- evolution;
+
+- and temporal organisation.
+
+These relations organise connections among APS concepts; they do not establish viability as their universal foundation or independently validate the associated propositions.
+
+Viability does not describe what living systems do.
+
+Within APS, it specifies conditions relative to which what living systems do can contribute to the continued functioning and organised persistence of living organisation.
+
+## Key Point
+
+**In APS, viability specifies the conditions compatible with the continued functioning and organised persistence of living organisation.**
+
+## Related APS Articles
+
+### Orientation
+
+- *[What Is APS?](/orientation/what-is-aps/)*
+
+- *[Understanding APS — The Structure of the Framework](/orientation/understanding-aps-the-structure-of-the-framework/)*
+
+- *[APS Architecture Map — Navigating the Framework](/orientation/aps-architecture-map/)*
+
+### Core Framework
+
+- *[The Core Structure of APS — How the Framework Fits Together](/orientation/the-core-structure-of-aps-how-the-framework-fits-together/)*
+
+- *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*
+
+- *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*
+
+### Viability, Persistence, and Temporality
+
+- *[Scale, Time, and Persistence](/articles/scale-time-persistence/)*
+
+- *[Temporal Organisation and Organised Persistence](/articles/temporal-organisation-and-organised-persistence/)*
+
+- *[Adaptation — How Living Systems Sustain Themselves Through Change](/articles/adaptation-how-living-systems-sustain-themselves-through-change/)*
+
+- *[What Is Evolution in APS?](/articles/evolution/)*
+
+### Diagnosis and Perturbation
+
+- *[How to Diagnose a Biological System](/articles/how-to-diagnose-a-biological-system/)*
+
+- *[Perturbation Reveals Organisation](/boxes/perturbation-reveals-organisation/)*
+
