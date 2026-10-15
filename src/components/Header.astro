@@ -1,3 +1,4 @@
+
 ---
 const { pathname } = Astro.url;
 
@@ -9,25 +10,85 @@ const navItems = [
   { label: 'Glossary', href: '/glossary/' },
 ];
 
-const clusterItems = [
-  { label: 'Conceptual Foundations', href: '/clusters/conceptual-foundations/' },
-  { label: 'Evolutionary Dynamics', href: '/clusters/evolutionary-dynamics/' },
-  { label: 'Developmental Organisation', href: '/clusters/developmental-organisation/' },
-  { label: 'Ecological Organisation', href: '/clusters/ecological-organisation/' },
-  { label: 'Cognition and Mind', href: '/clusters/cognition-and-mind/' },
-  { label: 'Social Organisation', href: '/clusters/social-organisation/' },
-  { label: 'Diagnosis and Evidence', href: '/clusters/diagnostics-and-empirical-tractability/' },
-  { label: 'Philosophy of Biology', href: '/clusters/philosophy-of-biology/' },
-  { label: 'Methodology and Explanation', href: '/clusters/methodology-and-explanation/' },
-  { label: 'Artificial Systems and Boundaries', href: '/clusters/artificial-systems-and-boundaries/' },
+const topicGroups = [
+  {
+    heading: 'Foundations and Methods',
+    items: [
+      {
+        label: 'Conceptual Foundations',
+        href: '/clusters/conceptual-foundations/',
+      },
+      {
+        label: 'Methodology and Explanation',
+        href: '/clusters/methodology-and-explanation/',
+      },
+      {
+        label: 'Philosophy of Biology',
+        href: '/clusters/philosophy-of-biology/',
+      },
+    ],
+  },
+  {
+    heading: 'Biological Domains',
+    items: [
+      {
+        label: 'Evolutionary Dynamics',
+        href: '/clusters/evolutionary-dynamics/',
+      },
+      {
+        label: 'Developmental Organisation',
+        href: '/clusters/developmental-organisation/',
+      },
+      {
+        label: 'Ecological Organisation',
+        href: '/clusters/ecological-organisation/',
+      },
+      {
+        label: 'Cognition and Mind',
+        href: '/clusters/cognition-and-mind/',
+      },
+      {
+        label: 'Social Organisation',
+        href: '/clusters/social-organisation/',
+      },
+    ],
+  },
+  {
+    heading: 'Evidence and Boundaries',
+    items: [
+      {
+        label: 'Diagnosis and Evidence',
+        href: '/clusters/diagnostics-and-empirical-tractability/',
+      },
+      {
+        label: 'Artificial Systems and Boundaries',
+        href: '/clusters/artificial-systems-and-boundaries/',
+      },
+    ],
+  },
 ];
+
+const topicsActive = topicGroups.some((group) =>
+  group.items.some((item) => pathname === item.href)
+);
 ---
 
-<nav class="site-nav">
+<nav class="site-nav" aria-label="Main navigation">
   <div class="nav-inner">
-    <a href="/" class="nav-brand">APS<span>Publishing Platform</span></a>
+    <a href="/" class="nav-brand">
+      APS<span>Publishing Platform</span>
+    </a>
 
-    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+    <button
+      class="nav-toggle"
+      id="nav-toggle"
+      type="button"
+      aria-label="Toggle navigation"
+      aria-controls="nav-links"
+      aria-expanded="false"
+    >
+      &#9776;
+    </button>
 
     <ul class="nav-links" id="nav-links">
       {
@@ -36,10 +97,10 @@ const clusterItems = [
             <a
               href={item.href}
               aria-current={
-              pathname === item.href ||
-              (item.href !== '/' && pathname.startsWith(item.href))
-                ? 'page'
-                : undefined
+                pathname === item.href ||
+                (item.href !== '/' && pathname.startsWith(item.href))
+                  ? 'page'
+                  : undefined
               }
             >
               {item.label}
@@ -49,20 +110,39 @@ const clusterItems = [
       }
 
       <li class="nav-dropdown">
-        <button class="nav-dropdown-toggle" aria-expanded="false" aria-haspopup="true">
-          Domains <span class="dropdown-arrow">&#9662;</span>
+        <button
+          class="nav-dropdown-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="topics-menu"
+          aria-haspopup="true"
+          data-active={topicsActive ? 'true' : undefined}
+        >
+          Topics <span class="dropdown-arrow" aria-hidden="true">&#9662;</span>
         </button>
 
-        <ul class="nav-dropdown-menu">
+        <ul class="nav-dropdown-menu" id="topics-menu">
           {
-            clusterItems.map((item) => (
-              <li>
-                <a
-                  href={item.href}
-                  aria-current={pathname === item.href ? 'page' : undefined}
-                >
-                  {item.label}
-                </a>
+            topicGroups.map((group) => (
+              <li class="topic-group">
+                <span class="topic-group-heading">
+                  {group.heading}
+                </span>
+
+                <ul class="topic-group-links">
+                  {group.items.map((item) => (
+                    <li>
+                      <a
+                        href={item.href}
+                        aria-current={
+                          pathname === item.href ? 'page' : undefined
+                        }
+                      >
+                        {item.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
               </li>
             ))
           }
@@ -70,30 +150,133 @@ const clusterItems = [
       </li>
 
       <li>
-        <a href="/search/" class="nav-search-btn">&#128269; Search</a>
+        <a href="/search/" class="nav-search-btn">
+          &#128269; Search
+        </a>
       </li>
     </ul>
   </div>
 </nav>
 
 <script>
-  document.getElementById('nav-toggle')?.addEventListener('click', () => {
-    document.getElementById('nav-links')?.classList.toggle('open');
+  const navToggle = document.getElementById('nav-toggle');
+  const navLinks = document.getElementById('nav-links');
+
+  const closeDropdown = (
+    dropdown: Element,
+    restoreFocus = false
+  ) => {
+    const button = dropdown.querySelector<HTMLButtonElement>(
+      '.nav-dropdown-toggle'
+    );
+
+    dropdown.classList.remove('open');
+    button?.setAttribute('aria-expanded', 'false');
+
+    if (restoreFocus) {
+      button?.focus();
+    }
+  };
+
+  navToggle?.addEventListener('click', () => {
+    const isOpen = navLinks?.classList.toggle('open') ?? false;
+
+    navToggle.setAttribute(
+      'aria-expanded',
+      isOpen ? 'true' : 'false'
+    );
+
+    if (!isOpen) {
+      document.querySelectorAll('.nav-dropdown.open').forEach(
+        (dropdown) => closeDropdown(dropdown)
+      );
+    }
   });
 
-  document.querySelectorAll('.nav-dropdown-toggle').forEach((btn) => {
-    btn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const parent = (e.currentTarget as HTMLElement).parentElement;
-      parent?.classList.toggle('open');
-      btn.setAttribute('aria-expanded', parent?.classList.contains('open') ? 'true' : 'false');
+  document.querySelectorAll<HTMLButtonElement>(
+    '.nav-dropdown-toggle'
+  ).forEach((button) => {
+    button.addEventListener('click', (event) => {
+      event.stopPropagation();
+
+      const dropdown = button.closest('.nav-dropdown');
+      if (!dropdown) return;
+
+      const wasOpen = dropdown.classList.contains('open');
+
+      document.querySelectorAll('.nav-dropdown.open').forEach(
+        (other) => closeDropdown(other)
+      );
+
+      if (!wasOpen) {
+        dropdown.classList.add('open');
+        button.setAttribute('aria-expanded', 'true');
+      }
     });
   });
 
-  document.addEventListener('click', () => {
-    document.querySelectorAll('.nav-dropdown.open').forEach((el) => {
-      el.classList.remove('open');
-      el.querySelector('.nav-dropdown-toggle')?.setAttribute('aria-expanded', 'false');
-    });
+  document.addEventListener('click', (event) => {
+    const target = event.target;
+
+    if (!(target instanceof Node)) return;
+
+    document.querySelectorAll('.nav-dropdown.open').forEach(
+      (dropdown) => {
+        if (!dropdown.contains(target)) {
+          closeDropdown(dropdown);
+        }
+      }
+    );
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape') return;
+
+    document.querySelectorAll('.nav-dropdown.open').forEach(
+      (dropdown) => closeDropdown(dropdown, true)
+    );
   });
 </script>
+
+<style>
+  /*
+   * WT-02: Presentation-only grouping.
+   * Existing global navigation styles remain authoritative.
+   */
+
+  .topic-group {
+    list-style: none;
+  }
+
+  .topic-group-heading {
+    display: block;
+    padding: 0.65rem 1rem 0.25rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.045em;
+    text-transform: uppercase;
+    opacity: 0.7;
+    cursor: default;
+  }
+
+  .topic-group-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .topic-group-links > li {
+    list-style: none;
+  }
+
+  .topic-group-links a {
+    display: block;
+  }
+
+  .topic-group + .topic-group {
+    border-top: 1px solid currentColor;
+    margin-top: 0.4rem;
+    padding-top: 0.4rem;
+    border-color: rgba(128, 128, 128, 0.2);
+  }
+</style>
