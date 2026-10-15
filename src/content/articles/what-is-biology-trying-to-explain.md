@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-27
-revised: 2026-08-27
+revised: 2026-10-15
 cluster: conceptual-foundations
 role: synthesis
 
@@ -257,7 +257,7 @@ That comparison can reveal several things:
 - environmental relationships may condition agency without replacing it;
 - detailed mechanisms may acquire biological significance through their contribution to viable organisation.
 
-The value of APS therefore depends on demonstrable explanatory gain. Comparison must clarify relationships, distinctions, unresolved questions, or possible lines of investigation beyond what the strongest established explanation already provides. If organised persistence merely redescribes existing explanations in APS terminology, no explanatory gain has been established.
+Whether APS provides explanatory gain depends on what comparison reveals beyond the strongest established explanation. But explanatory gain is not the only possible contribution of a conceptual framework. Relating explanations through organised persistence may also help readers understand biological relationships, navigate different explanatory domains, or communicate established knowledge. Such contributions require assessment against appropriate purposes and comparators; they cannot be inferred from conceptual coherence or accessibility alone. If APS merely redescribes existing explanations, no additional explanatory gain has been established. Whether that redescription nevertheless contributes to scientific understanding, conceptual integration, or communication remains a separate question.
 
 APS is best understood as an invitation to test a question:
 
@@ -306,7 +306,7 @@ This article develops the following explanatory architecture:
 → established explanations must first be understood according to their own explanatory targets, strengths, and scope
 
 **Explanatory contribution**  
-→ APS contributes only where comparison through organised persistence clarifies relationships, distinctions, unresolved questions, or possible lines of investigation beyond what the strongest established explanation already provides
+→ APS establishes explanatory gain only where comparison through organised persistence clarifies relationships, distinctions, unresolved questions, or possible lines of investigation beyond what the strongest established explanation already provides
 
 **Failure condition**  
 → if comparison merely redescribes established biological explanations in APS terminology, no explanatory gain has been established
@@ -315,4 +315,4 @@ The architecture therefore moves from **explanatory plurality to controlled comp
 
 **In summary:**
 
-> **Biology's explanatory diversity does not require unification, but it does invite comparison. APS succeeds only where that comparison makes an additional explanatory contribution.**
+Biology's explanatory diversity does not require unification, but it does invite comparison. APS establishes explanatory gain only where that comparison makes an additional explanatory contribution. Its possible value for scientific understanding, conceptual integration, and communication must be assessed independently.
