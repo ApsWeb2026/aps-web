@@ -1,0 +1,668 @@
+﻿PB-WD-03D — EXACT IMPLEMENTATION SITES
+READ-ONLY SOURCE INSPECTION
+
+=== PHILOSOPHY OF BIOLOGY ARTICLE FRONTMATTER ===
+
+FILE: aps-and-autonomy-theory-cib.md
+title: APS and Autonomy Theory — Constraint Closure, Viability, and Organised Persistence
+slug: aps-and-autonomy-theory
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-27
+
+FILE: aps-and-biosemiotics.md
+title: "APS and Biosemiotics: Meaning, Significance, and Biological Organisation"
+slug: aps-and-biosemiotics
+cluster: philosophy-of-biology
+role: synthesis
+status: canonical
+canonical: true
+canonicalLockDate: 2026-08-07
+
+FILE: aps-and-systems-theory-ci.md
+title: APS and Systems Theory — Similarities, Differences, and Limits
+slug: aps-and-systems-theory
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+
+FILE: aps-and-the-extended-evolutionary-synthesis.md
+title: "APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison"
+slug: aps-and-the-extended-evolutionary-synthesis
+cluster: philosophy-of-biology
+role: extension
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+
+FILE: aps-and-the-free-energy-principle.md
+title: "APS and the Free Energy Principle: Organisation, Formalism, and Explanatory Comparison"
+slug: aps-and-the-free-energy-principle
+cluster: philosophy-of-biology
+role: anchor
+status: canonical
+canonical: true
+canonicalLockDate: 2026-08-04
+
+FILE: aps-as-philosophy-viability-oriented-account-ci.md
+title: "APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility"
+slug: aps-as-philosophy-biological-intelligibility
+cluster: philosophy-of-biology
+role: anchor
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-28
+
+FILE: aristotle-and-the-foundations-of-biology.md
+title: "Aristotle and the Foundations of Biology"
+slug: "aristotle-and-the-foundations-of-biology"
+cluster: "philosophy-of-biology"
+role: (absent)
+status: "canonical"
+canonical: (absent)
+canonicalLockDate: (absent)
+
+FILE: beyond-placeholder-concepts-in-biology-an-aps-clarification.md
+title: Beyond Placeholder Concepts in Biology — An APS Clarification
+slug: beyond-placeholder-concepts-in-biology-an-aps-clarification
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-30
+
+FILE: design-in-nature-an-aps-clarification-ci.md
+title: Is There Design in Nature?
+slug: design-in-nature-an-aps-clarification
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-30
+
+FILE: emergence-in-biology-an-aps-clarification.md
+title: "Emergence in Biology — An APS Clarification"
+slug: emergence-in-biology-an-aps-clarification
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-26
+
+FILE: evaluation-how-living-systems-modulate-activity-relative-to-viability.md
+title: "Evaluation â€” How Living Systems Modulate Activity Relative to Viability"
+slug: evaluation-how-living-systems-modulate-activity-relative-to-viability
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: explanatory-grammars-and-the-history-of-ideas.md
+title: "Explanatory Grammars and the History of Ideas"
+slug: "explanatory-grammars-and-the-history-of-ideas"
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-10
+
+FILE: explanatory-priority-is-not-ontological-priority.md
+title: "Explanatory Priority Is Not Ontological Priority"
+slug: explanatory-priority-is-not-ontological-priority
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+
+FILE: from-aristotle-to-modern-biology-the-transformation-of-a-science.md
+title: "From Aristotle to Modern Biology: The Transformation of a Science"
+slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: (absent)
+canonicalLockDate: (absent)
+
+FILE: from-metaphysics-to-mechanism-and-beyond.md
+title: From Metaphysics to Mechanism—and Beyond - The Progressive Naturalisation of Science and the Place of APS
+slug: from-metaphysics-to-mechanism-and-beyond
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-16
+
+FILE: function-and-normativity-why-biological-organisation-matters.md
+title: Function and Normativity - Why Biological Organisation Matters
+slug: function-and-normativity-why-biological-organisation-matters
+cluster: philosophy-of-biology
+role: core
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-24
+
+FILE: information-in-biology-an-aps-clarification.md
+title: "Information in Biology: An APS Clarification"
+slug: information-in-biology-an-aps-clarification
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: meaning-in-biology-an-aps-clarification-ci.md
+title: "Meaning in Biology — An APS Clarification"
+slug: meaning-in-biology-an-aps-clarification
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it.md
+title: "Mentalistic Language in Biology — Why It Persists and How APS Clarifies It"
+slug: "mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it"
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: (absent)
+canonicalLockDate: (absent)
+
+FILE: multiple-realization-and-biological-organisation.md
+title: "Multiple Realization and Biological Organisation — An APS Clarification"
+slug: multiple-realization-and-biological-organisation
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-27
+
+FILE: naturalising-life-how-biological-concepts-become-scientifically-intelligible-ci.md
+title: Naturalising Life
+slug: naturalising-life
+cluster: philosophy-of-biology
+role: synthesis
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-08
+
+FILE: organisational-realism-in-biology.md
+title: "Organisational Realism in Biology"
+slug: organisational-realism-in-biology
+cluster: philosophy-of-biology
+role: extension
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: purpose-the-organisation-of-viability-oriented-activity.md
+title: Purpose — The Organisation of Viability-Oriented Activity
+slug: purpose-the-organisation-of-viability-oriented-activity
+cluster: philosophy-of-biology
+role: core
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+
+FILE: reductionism-in-biology-an-aps-clarification-cib.md
+title: "Reductionism in Biology — An APS Clarification"
+slug: reductionism-in-biology-an-aps-clarification
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-26
+
+FILE: representation-when-and-whether-it-arises-in-biological-systems.md
+title: "Representation — When and Whether It Arises in Biological Systems"
+slug: representation-when-and-whether-it-arises-in-biological-systems
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: semiosis-how-differences-come-to-matter-in-living-systems-ci.md
+title: "Semiosis — How Differences Come to Matter in Living Systems"
+slug: semiosis-how-differences-come-to-matter-in-living-systems
+cluster: philosophy-of-biology
+role: core
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: teleology-in-biology-an-aps-clarification-ci.md
+title: "Teleology in Biology — An APS Clarification"
+slug: teleology-in-biology-an-aps-clarification
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-04
+
+FILE: teleonomy.md
+title: "Teleonomy — Historical Solution and APS Reinterpretation"
+slug: teleonomy
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+
+FILE: the-philosophical-foundations-of-aps.md
+title: "The Philosophical Foundations of APS"
+slug: the-philosophical-foundations-of-aps
+cluster: philosophy-of-biology
+role: synthesis
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-14
+
+FILE: what-does-aps-mean-by-an-analytic-projection.md
+title: "Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?"
+slug: what-does-aps-mean-by-an-analytic-projection
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-10
+
+FILE: what-is-it-about-life.md
+title: What Is It About Life? — The Search for Life's Defining Principle
+slug: what-is-it-about-life
+cluster: philosophy-of-biology
+role: synthesis
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-29
+
+FILE: why-aps.md
+title: Why APS? Why Biology Still Needs an Organisational Framework for Life
+slug: why-aps
+cluster: philosophy-of-biology
+role: anchor
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-28
+
+FILE: why-aps-is-not-holism-ci.md
+title: "Why APS Is Not Holism"
+slug: why-aps-is-not-holism
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+
+FILE: why-aps-is-not-organicism-ci.md
+title: "Why APS Is Not Organicism"
+slug: why-aps-is-not-organicism
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+
+FILE: why-life-is-not-active-inference-ci.md
+title: "Why Life Is Not Active Inference"
+slug: why-life-is-not-active-inference
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: why-life-is-not-a-machine-ci.md
+title: "Why Life Is Not a Machine — An APS Clarification"
+slug: why-life-is-not-a-machine
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: why-life-is-not-autopoiesis.md
+title: Why Life Is Not Autopoiesis
+slug: why-life-is-not-autopoiesis
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-27
+
+FILE: why-life-is-not-control-theory.md
+title: Why Life Is Not Control Theory
+slug: why-life-is-not-control-theory
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-15
+
+FILE: why-life-is-not-dnas-way-of-making-more-dna-ci.md
+title: "Why Life Is Not DNA’s Way of Making More DNA"
+slug: why-life-is-not-dnas-way-of-making-more-dna
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-14
+
+FILE: why-life-is-not-enactivism-cic.md
+title: Why Life Is Not Enactivism
+slug: why-life-is-not-enactivism
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-27
+
+FILE: why-life-is-not-information-processing.md
+title: "Why Life Is Not Information Processing"
+slug: why-life-is-not-information-processing
+cluster: philosophy-of-biology
+role: (absent)
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+
+FILE: why-life-is-not-intelligence-an-aps-clarification-ci.md
+title: "Why Life Is Not Intelligence, An APS Clarification"
+slug: why-life-is-not-intelligence-an-aps-clarification
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+
+FILE: why-philosophy-of-biology-matters.md
+title: "Why Philosophy of Biology Matters"
+slug: why-philosophy-of-biology-matters
+cluster: philosophy-of-biology
+role: clarification
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-17
+
+=== PHILOSOPHY CLUSTER CONFIGURATION ===
+
+CONFIGURATION MATCH AT LINE 572
+  560: 
+  561:       <p>Begin with the questions of how life is recognised and what counts as evidence for living organisation. Then examine empirical assessment, perturbation and biological diagnosis to understand how proposed organisational dependencies may be investigated. Finally, explore biosignatures, life detection and borderline cases, where the distinction between suggestive indicators and warranted biological conclusions becomes especially important.</p>
+  562: 
+  563:       <p>The articles and glossary entries listed below provide the available APS treatments of these subjects. The pathways are guides to reading and investigation, not claims that every proposed diagnostic procedure has already been empirically validated.</p>
+  564:     </section>
+  565:   `,
+  566: 
+  567:   boundary:
+  568:     'Diagnostic concepts often depend on foundational ideas such as viability, organisation, persistence, and continuity. They are placed here when the main issue is how those forms of organisation are recognised, evidenced, perturbed, or operationally assessed.',
+  569: },
+  570: 
+  571:   {
+  572:     slug: 'philosophy-of-biology',
+  573:     title: 'Philosophy of Biology',
+  574:     description:
+  575:       'Philosophical foundations, realism, reductionism, mechanism, holism, organicism, teleology, historical context, and conceptual clarification.',
+  576:     overview:
+  577:       'This cluster examines the philosophical traditions, debates, and interpretive problems with which APS engages. It situates APS in relation to reductionism, mechanism, holism, organicism, teleology, realism, and broader philosophy of biology.',
+  578:     boundary:
+  579:       'Some concepts here have close methodological or foundational connections. Teleology is placed here as a philosophical debate, while teleonomy, purpose, function, and normativity belong in Conceptual Foundations when they express APS’s positive biological account of purposive organisation.',
+  580:   },
+  581:  {
+  582:     slug: 'methodology-and-explanation',
+  583:     title: 'Methodology and Explanation',
+  584:     description:
+  585:       'Comparative explanatory methodology, explanatory targets, dependency claims, evidence, causation, classification, and the organisation of biological explanation.',
+  586:     overview:
+  587:       'This cluster examines how biological explanations can be specified, compared, and assessed relative to particular explananda and relevant comparators. APS distinguishes description from explanation, requires proposed explanatory dependencies to be materially and empirically warranted, and treats explanatory gain as target-relative and comparator-relative rather than as an intrinsic property of a framework.',
+  588:     boundary:
+  589:       'Methodological concepts often overlap with foundations and philosophy. Causation, classification, emergence, explanatory direction, explanatory grammar, and counterfactual depth are placed here when their main role concerns explanatory practice rather than the biological organisation being explained.',
+  590:         architecture: `
+  591:       <section class="domain-architecture-panel">
+  592:         <h2>Suggested Reading Route</h2>
+  593: 
+  594:         <p>
+  595:           These articles provide a route from identifying a biological
+  596:           explanatory target to comparing explanations, assessing explanatory
+  597:           gain, and examining APS research findings. The sequence is a
+  598:           reading guide, not a required explanatory hierarchy.
+  599:         </p>
+  600: 
+  601:         <ol>
+  602:           <li>
+  603:             <a href="/articles/biological-explanation-what-needs-to-be-explained/">
+  604:               Biological Explanation — What Needs to Be Explained
+  605:             </a>
+  606:             — identifying the explanatory target.
+  607:           </li>
+  608:           <li>
+  609:             <a href="/articles/how-should-scientific-explanations-be-compared/">
+  610:               How Should Scientific Explanations Be Compared?
+  611:             </a>
+  612:             — comparing explanations against adequate alternatives.
+  613:           </li>
+  614:           <li>
+  615:             <a href="/articles/what-counts-as-explanatory-gain/">
+  616:               What Counts as Explanatory Gain?
+  617:             </a>
+  618:             — assessing additional explanatory capacity.
+  619:           </li>
+  620:           <li>
+  621:             <a href="/research/">
+  622:               APS Research
+  623:             </a>
+  624:             — examining research programmes and the evidential status
+  625:             of their findings.
+  626:           </li>
+  627:         </ol>
+  628:       </section>
+  629:     `,
+  630:   },
+  631:     
+  632:   {
+  633:    slug: 'artificial-systems-and-boundaries',
+  634:    title: 'Artificial Systems and Boundaries',
+  635:    description:
+  636:     'Artificial systems, AI, borderline cases, minimal life, synthetic systems, and the limits of biological organisation.',
+  637:    overview:
+  638:     'This cluster examines cases that test the boundaries of APS. It considers artificial systems, AI, minimal life, synthetic biology, borderline organisation, and systems that resemble life without necessarily possessing biological agency.',
+  639: 
+  640:    architecture: `
+  641:   <h2>How This Cluster Is Organised</h2>
+  642: 
+  643:   <p>This cluster is organised around a central question: how should living systems be distinguished from artificial, simulated, and borderline forms of organisation?</p>
+  644: 
+  645:   <p>The anchor article, <em>The Boundaries of Life</em>, establishes the APS account of biological boundaries and provides the conceptual framework for the cluster as a whole. It explains why APS defines life in terms of viability-oriented organised persistence and why boundary questions are ultimately questions about organisation rather than superficial similarity.</p>
+  646: 
+  647:   <p>The remaining articles develop this framework through four connected explanatory pathways.</p>
+  648: 
+  649:   <h3>Definition and Diagnosis</h3>
+  650: 
+  651:   <p>These articles explain what life is and how living organisation can be recognised, diagnosed, and investigated. They establish the conceptual and empirical criteria through which APS approaches questions of life detection, biological identification, and evidential assessment.</p>
+  652: 
+  653:   <h3>Borderline Cases</h3>
+  654: 
+  655:   <p>These articles examine difficult cases such as viruses, dormancy, minimal life, protocells, and other systems that challenge conventional distinctions between living and non-living organisation. Their purpose is not simply to classify unusual systems, but to clarify which forms of organisation are necessary for viability-oriented persistence.</p>
+  656: 
+  657:   <h3>Artificial Systems</h3>
+
+CONFIGURATION MATCH AT LINE 685
+  673:   ];
+  674: 
+  675: export function getStaticPaths() {
+  676:   return [
+  677:     { params: { slug: 'conceptual-foundations' } },
+  678:     { params: { slug: 'evolutionary-dynamics' } },
+  679:     { params: { slug: 'developmental-organisation' } },
+  680:     { params: { slug: 'ecological-organisation' } },
+  681:     { params: { slug: 'cognition-and-mind' } },
+  682:     { params: { slug: 'social-organisation' } },
+  683:     { params: { slug: 'diagnostics-and-empirical-tractability' } },
+  684:     { params: { slug: 'methodology-and-explanation' } },
+  685:     { params: { slug: 'philosophy-of-biology' } },
+  686:     { params: { slug: 'artificial-systems-and-boundaries' } },
+  687:   ];
+  688: }
+  689: 
+  690: const { slug } = Astro.params;
+  691: const cluster = clusters.find((c) => c.slug === slug)!;
+  692: 
+  693: const articles = (await getCollection('articles')).filter(
+  694:   (a) => a.data.cluster === slug,
+  695: );
+  696: 
+  697: const glossaryEntries = (await getCollection('glossary')).filter(
+  698:   (g) => g.data.cluster === slug,
+  699: );
+  700: 
+  701: const streams = (await getCollection('streams')).filter(
+  702:   (s) => s.data.cluster === slug,
+  703: );
+  704: 
+  705: const statusOrder: Record<string, number> = {
+  706:   canonical: 0,
+  707:   evolving: 1,
+  708:   draft: 2,
+  709: };
+  710: 
+  711: articles.sort(
+  712:   (a, b) =>
+  713:     (statusOrder[a.data.status] ?? 9) -
+  714:       (statusOrder[b.data.status] ?? 9) ||
+  715:     a.data.title.localeCompare(b.data.title),
+  716: );
+  717: 
+  718: glossaryEntries.sort(
+  719:   (a, b) =>
+  720:     (statusOrder[a.data.status] ?? 9) -
+  721:       (statusOrder[b.data.status] ?? 9) ||
+  722:     a.data.title.localeCompare(b.data.title),
+  723: );
+  724: 
+  725: streams.sort(
+  726:   (a, b) =>
+  727:     (statusOrder[a.data.status] ?? 9) -
+  728:       (statusOrder[b.data.status] ?? 9) ||
+  729:     a.data.title.localeCompare(b.data.title),
+  730: );
+  731: 
+  732: const articleRoleGroups = [
+  733:   { role: 'anchor', title: 'Anchor Articles' },
+  734:   { role: 'core', title: 'Core Articles' },
+  735:   { role: 'clarification', title: 'Clarifications' },
+  736:   { role: 'synthesis', title: 'Syntheses' },
+  737:   { role: 'extension', title: 'Extensions' },
+  738: ];
+  739: 
+  740: const groupedArticles = articleRoleGroups
+  741:   .map((group) => ({
+  742:     ...group,
+  743:     articles: articles.filter((entry) => entry.data.role === group.role),
+  744:   }))
+  745:   .filter((group) => group.articles.length > 0);
+  746: ---
+  747: 
+  748: <BaseLayout title={cluster.title} description={cluster.description}>
+  749:   <div class="content-wrapper">
+  750:     <Breadcrumb
+  751:       items={[
+  752:         { label: 'Clusters' },
+  753:         { label: cluster.title },
+  754:       ]}
+  755:     />
+  756: 
+  757:     <header class="cluster-header">
+  758:       <h1>{cluster.title}</h1>
+  759: 
+  760:       <p class="cluster-description">
+  761:         {cluster.description}
+  762:       </p>
+  763: 
+  764:        <p class="cluster-overview">
+  765:         {cluster.overview}
+  766:       </p>
+  767: 
+  768:       {
+  769:   cluster.architectureGuide && (
+  770:     <section class="domain-architecture-guide">
+
+=== NAVIGATION FIELD USAGE ===
+
+FIELD: startHere
+   27: startHere: [
+  168:     startHere: [
+  339:   startHere: [
+  798:         cluster.startHere && (
+  808:               {cluster.startHere.map((item) => (
+
+FIELD: keyQuestions
+   35: keyQuestions: [
+  175:     keyQuestions: [
+  346:   keyQuestions: [
+  521:   keyQuestions: [
+  817:         cluster.keyQuestions && (
+  822:               {cluster.keyQuestions.map((item) => (
+
+FIELD: architecture
+   18: 'This cluster establishes the conceptual foundations of the Agency–Process–Scale (APS) Framework. It addresses the most fundamental questions in biology: what life is, how living systems persist, why organisms exhibit agency, how biological organisation is maintained, how normativity emerges, and what biological explanation ultimately seeks to explain. APS treats biology as the study of viability-oriented organised persistence, and the concepts developed here provide the vocabulary and explanatory architecture upon which every other APS domain is built.',
+   20: architectureGuide: {
+   50: architecture: `
+   52: <section class="domain-architecture-panel"> <h2>How This Domain Is Organised</h2>
+   66: <p>These articles develop the organisational architecture of life. They explain how biological organisation, constraints, and constraint closure contribute to the maintenance of persistence.</p>
+   78: <p>These articles synthesise multiple APS concepts into a unified explanatory framework. They clarify what biology explains, how biological explanation differs from physical explanation, and how continuity is organised across the architecture of life.</p>
+   80: <div class="domain-architecture-grid">
+   82: <div class="domain-architecture-group">
+   91: <div class="domain-architecture-group">
+   97:     <li>The Continuity Architecture of Life</li>
+  104: <div class="domain-architecture-group">
+  125: <div class="domain-architecture-group">
+  136: <div class="domain-architecture-group">
+  158: 'Every APS domain ultimately depends upon concepts developed in this cluster. Development, evolution, ecology, cognition, diagnosis, social organisation, methodology, and philosophy all build upon the conceptual architecture established here. Concepts are placed in this cluster when APS treats them as foundational principles required for understanding living systems in general rather than as concepts specific to a particular biological domain.',
+  183:     architecture: `
+  184:   <section class="domain-architecture-panel">
+  199:     <p>These articles examine the historical processes through which evolutionary change occurs. APS accepts natural selection as a central evolutionary process while rejecting the view that selection alone explains biological organisation. Adaptation, fitness, and selection are interpreted within a broader continuity architecture in which natural selection differentially stabilises forms of viability-oriented organisation across generations.</p>
+  213:     <div class="domain-architecture-grid">
+  214:       <div class="domain-architecture-group">
+  222:       <div class="domain-architecture-group">
+  231:       <div class="domain-architecture-group">
+  244:       <div class="domain-architecture-group">
+  270:     architecture: `
+  271:   <section class="domain-architecture-panel">
+  272:     <h2>Development Domain Architecture</h2>
+  274:     <div class="domain-architecture-grid">
+  275:       <div class="domain-architecture-group">
+  283:       <div class="domain-architecture-group">
+  292:       <div class="domain-architecture-group">
+  309:       <div class="domain-architecture-group">
+  357:   architecture: `
+  358: <section class="domain-architecture-panel">
+  363:   <p>APS treats ecology as a continuity architecture rather than as the study of organisms and environments considered separately. Living systems do not merely occupy environments. They persist through continuous coupling with ecological conditions that both constrain and enable viability.</p>
+  385:   <div class="domain-architecture-grid">
+  386:     <div class="domain-architecture-group">
+  394:     <div class="domain-architecture-group">
+  404:     <div class="domain-architecture-group">
+  411:     <div class="domain-architecture-group">
+  439:   architecture: `
+  475:       'This cluster examines how organised persistence extends into social, cultural, institutional, and symbolic forms. APS treats social organisation as a continuity architecture built from shared norms, practices, meanings, and coordinated activity.',
+  476:     architecture: `
+  477:   <section class="domain-architecture-panel">
+  531:   architecture: `
+  532:     <section class="domain-architecture-panel">
+  590:         architecture: `
+  591:       <section class="domain-architecture-panel">
+  640:    architecture: `
+  769:   cluster.architectureGuide && (
+  770:     <section class="domain-architecture-guide">
+  771:       <h2>Start with the Architecture</h2>
+  781:             <a href={cluster.architectureGuide.href}>
+  782:               {cluster.architectureGuide.title}
+  790:           {cluster.architectureGuide.description}
+  831:         cluster.architecture && (
+  832:         <section class="cluster-architecture">
+  833:           <div set:html={cluster.architecture} />

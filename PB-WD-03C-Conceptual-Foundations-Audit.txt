@@ -1,0 +1,91 @@
+﻿PB-WD-03C — CONCEPTUAL FOUNDATIONS DESTINATION AUDIT
+READ-ONLY SOURCE INSPECTION
+
+Article count: 44
+
+ROLE DISTRIBUTION
+(absent): 1
+anchor: 3
+clarification: 6
+core: 17
+extension: 6
+synthesis: 11
+
+ARTICLE REGISTER
+
+File                                                                                                 Title                                                                                                Role          Status    Canonical
+----                                                                                                 -----                                                                                                ----          ------    ---------
+agency-and-organised-persistence.md                                                                  Agency and Organised Persistence                                                                     extension     canonical true     
+agency-as-the-defining-activity-of-life.md                                                           Agency as the Defining Activity of Life                                                              clarification canonical true     
+agency-in-contemporary-biology-ci.md                                                                 Agency in Contemporary Biology — The Emerging Agency Tradition and the APS Framework                 synthesis     canonical true     
+agency-without-intentions-cib.md                                                                     Agency Without Intentions                                                                            clarification canonical true     
+aps_pe-the-biological-imperative-and-the-ethics-of-persistence.md                                    APS_PE — The Biological Imperative and the Ethics of Persistence                                     extension     canonical (absent) 
+aps-as-an-organised-conceptual-system-why-definitions-form-a-system.md                               APS as an Organised Conceptual System — Why Definitions Form a System                                core          canonical true     
+are-viruses-alive.md                                                                                 Are Viruses Alive?                                                                                   extension     canonical true     
+biological-agency-as-the-activity-of-self-maintenance.md                                             Biological Agency as the Activity of Self-Maintenance                                                anchor        canonical true     
+biological-causation-from-mechanism-to-organised-persistence.md                                      Biological Causation — From Mechanism to Organised Persistence                                       extension     canonical true     
+biological-explanation-what-needs-to-be-explained-ci.md                                              Biological Explanation — What Needs to Be Explained                                                  core          canonical true     
+biological-individuality-organised-persistence-through-time.md                                       Biological Individuality — Organised Persistence Through Time                                        core          canonical true     
+biological-organisation-how-living-systems-sustain-themselves.md                                     Biological Organisation — How Living Systems Sustain Themselves                                      core          canonical true     
+constraint-closure-what-it-does-and-does-not-do.md                                                   Constraint Closure — What It Does and What It Does Not Do                                            core          canonical true     
+constraint-how-organisation-becomes-persistence.md                                                   Constraint — How Organisation Becomes Persistence                                                    core          canonical true     
+continuity-architecture-of-life-ci.md                                                                The Continuity Architecture of Life                                                                  synthesis     canonical true     
+continuity-structure-of-biological-organisation-ci.md                                                The Continuity Structure of Biological Organisation                                                  synthesis     canonical true     
+from-viability-to-normativity.md                                                                     From Viability to Normativity                                                                        core          canonical true     
+function-how-living-systems-make-persistence-operational-ci.md                                       Function as Operational Organisation                                                                 core          canonical true     
+how-do-we-know-something-is-alive.md                                                                 How Do We Know Something Is Alive?                                                                   synthesis     canonical true     
+levels-vs-scale-why-biological-organisation-is-not-hierarchical.md                                   Levels vs Scale — Why Biological Organisation Is Not Hierarchical                                    clarification canonical true     
+mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes.md                                Mentalistic Terms in Biology — What APS Accepts, Rejects, and Reframes                               clarification canonical (absent) 
+normativity-in-biology-why-some-things-matter-to-living-systems.md                                   Normativity in Biology — Why Some Things Matter to Living Systems                                    core          canonical true     
+organism-individual-agent-distinction.md                                                             Organism, Individual, and Agent — Distinguishing Three Forms of Biological Unity                     core          canonical true     
+organism-the-unity-of-viability-oriented-organisation.md                                             Organism — The Unity of Viability-Oriented Organisation                                              core          canonical true     
+persistence-organised-continuity-through-time-ci.md                                                  Persistence — Organised Continuity Through Time                                                      anchor        canonical true     
+process-the-dynamics-of-living-organisation.md                                                       Process — The Dynamics of Living Organisation                                                        core          canonical (absent) 
+processual-individuality.md                                                                          Processual Individuality                                                                             extension     canonical true     
+scale-how-life-is-coordinated-across-space-and-time.md                                               Scale — How Life Is Coordinated Across Space and Time                                                core          canonical (absent) 
+scale-time-persistence.md                                                                            Scale, Time, and Persistence — Why Life Exists Only Through Organised Continuity                     synthesis     canonical true     
+space-time-and-organisation-in-biology.md                                                            Space, Time, and Organisation in Biology — An APS Clarification                                      (absent)      canonical true     
+temporal-organisation-and-organised-persistence.md                                                   Temporal Organisation and Organised Persistence                                                      core          canonical true     
+theoretical-biology-and-philosophy-of-biology-boundary-overlap-and-division-of-explanatory-labour.md Theoretical Biology and Philosophy of Biology: Boundary, Overlap, and Division of Explanatory Labour synthesis     canonical true     
+time-and-biological-organisation.md                                                                  Time and Biological Organisation — An APS Perspective                                                synthesis     canonical true     
+viability-the-organising-principle-of-biological-pesistence.md                                       Viability — The Organising Principle of Biological Persistence                                       core          canonical true     
+what-is-a-biological-system.md                                                                       What Is a Biological System? — Mechanisms, Agency, and Organised Persistence                         core          canonical true     
+what-is-an-organism.md                                                                               What Is an Organism?                                                                                 core          canonical true     
+what-is-biological-regulation-ci.md                                                                  What Is Biological Regulation?                                                                       clarification canonical true     
+what-is-biology-trying-to-explain.md                                                                 What Is Biology Trying to Explain?                                                                   synthesis     canonical true     
+what-is-life-a-biological-question-revisited.md                                                      What Is Life? — A Biological Question Revisited                                                      anchor        canonical true     
+what-is-the-fundamental-unit-of-life.md                                                              What Is the Fundamental Unit of Life?                                                                synthesis     canonical true     
+what-is-the-meaning-of-life.md                                                                       What Is the Meaning of Life?                                                                         synthesis     canonical true     
+why-aps-is-not-hierarchical-ci.md                                                                    Why APS Is Not Hierarchical                                                                          clarification canonical true     
+why-do-organisms-have-goals.md                                                                       Why Do Organisms Have Goals?                                                                         extension     canonical true     
+why-is-biology-different-from-physics.md                                                             Why Is Biology Different From Physics?                                                               synthesis     canonical true     
+
+
+
+
+EVALUATION-RELATED ARTICLE FILENAMES
+aps-cognitive-lexicon.md
+aps_mc-meaning-without-neurons-distributed-cognition-in-living-systems.md
+cognition-from-life-to-mind-continuity-without-mentalism-ci.md
+cognition-where-does-it-belong-in-biology.md
+cognitive-integration-cia.md
+development-and-cognition.md
+evaluation-how-living-systems-modulate-activity-relative-to-viability.md
+from-significance-to-morality.md
+from-viability-to-normativity.md
+function-and-normativity-why-biological-organisation-matters.md
+function-how-living-systems-make-persistence-operational-ci.md
+how-did-cognition-become-a-biological-problem.md
+malfunction-breakdown-and-death-ci.md
+meaning-in-biology-an-aps-clarification-ci.md
+normativity-gradient.md
+normativity-in-biology-why-some-things-matter-to-living-systems.md
+plant-cognition-and-the-development-of-aps.md
+plant-cognition-aps-interpretation.md
+the-cognitive-organisation-of-life.md
+what-is-biological-evaluation.md
+what-is-biological-significance.md
+what-is-meaning.md
+what-is-moral-evaluation.md
+what-is-the-meaning-of-life.md
+why-cognition-cannot-be-separated-from-organised-persistence.md

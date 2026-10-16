@@ -1,0 +1,1687 @@
+﻿==================================================
+FILE: semiosis-how-differences-come-to-matter-in-living-systems-ci.md
+==================================================
+---
+date: 2026-05-06
+title: "Semiosis — How Differences Come to Matter in Living Systems"
+slug: semiosis-how-differences-come-to-matter-in-living-systems
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+cluster: philosophy-of-biology
+role: core
+abstract: >
+  Semiosis concerns sign relations within living organisation. APS does not
+  treat semiosis as the process through which biological significance first
+  arises: Biological Evaluation is the process through which agency generates
+  significance. Semiosis becomes a further explanatory hypothesis where a
+  biologically significant difference functions as a sign in relation to
+  another condition, object, possibility, or state of affairs. Such an
+  attribution requires evidence beyond causal sensitivity, information-bearing
+  correlation, or viability-relative significance alone. APS therefore
+  distinguishes significance, semiosis, meaning, information, representation,
+  and cognition while asking when sign-relational organisation identifies an
+  additional materially implemented dependency that improves explanation of a
+  specified biological explanandum.
+relatedGlossaryTerms:
+  - semiosis
+  - evaluation
+  - meaning
+  - information
+  - representation
+  - cognition
+  - normativity
+  - viability
+  - persistence
+  - biological-agency
+  - function
+  - adaptation
+  - biological-organisation
+  - continuity
+  - temporality
+  - process
+  - scale
+relatedArticles:
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - function-and-normativity-why-biological-organisation-matters
+  - function-as-operational-organisation
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-information-processing
+  - why-ai-is-not-biological-agency
+  - temporal-organisation-and-organised-persistence
+  - biological-agency-as-the-activity-of-self-maintenance
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
+  - what-is-life-a-biological-question-revisited
+  - why-life-is-not-a-machine
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
+references:
+  - id: peirce1931
+    authors: "Peirce, C. S."
+    year: 1931
+    title: "Collected Papers of Charles Sanders Peirce"
+    publisher: "Harvard University Press"
+  - id: uexkull2010
+    authors: "von Uexküll, J."
+    year: 2010
+    title: "A Foray into the Worlds of Animals and Humans"
+    publisher: "University of Minnesota Press"
+  - id: barbieri2008
+    authors: "Barbieri, M."
+    year: 2008
+    title: "Biosemiotics: A New Understanding of Life"
+    publisher: "Springer"
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    publisher: "Harvard University Press"
+  - id: lyon2018
+    authors: "Lyon, P., et al."
+    year: 2018
+    title: "The Biogenic Approach to Cognition"
+    journal: "Adaptive Behavior"
+    volume: "26"
+    pages: "225–240"
+  - id: hoffmeyer1996
+    authors: "Hoffmeyer, J."
+    year: 1996
+    title: "Signs of Meaning in the Universe"
+    publisher: "Indiana University Press"
+  - id: hoffmeyer2008
+    authors: "Hoffmeyer, J."
+    year: 2008
+    title: "Biosemiotics"
+    publisher: "University of Scranton Press"
+  - id: favareau2010
+    authors: "Favareau, D. (Ed.)"
+    year: 2010
+    title: "Essential Readings in Biosemiotics"
+    publisher: "Springer"
+  - id: kull2026
+    authors: "Kull, K., & Favareau, D. (Eds.)"
+    year: 2026
+    title: "Towards a Biosemiotic Theoretical Biology: Sign Processes and Meaning-Making in Living Systems"
+    publisher: "MIT Press"
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+# Semiosis — How Differences Come to Matter in Living Systems
+
+## Introduction
+
+Semiosis is traditionally concerned with signs and the relations through which something functions for a system in relation to something else. In philosophy, linguistics, semiotics, and cognitive science, such relations have often been associated with interpretation, communication, representation, and meaning. Biosemiotics extends the question into biology, asking whether and how sign processes participate in living organisation.
+
+This extension presents an important explanatory problem. If semiosis is restricted to language, symbolic thought, or conscious interpretation, potentially important sign relations in non-human and non-cognitive biological systems may be excluded in advance. If semiosis is broadened until every biological response, signal, or causal correlation counts as semiotic, however, the concept risks losing explanatory discrimination.
+
+APS approaches this problem by first distinguishing **biological significance from semiosis**.
+
+Biological agency is viability-oriented organisational activity. Because conditions differ in how they bear upon continued functioning, living systems modulate activity differently in relation to them. **Biological Evaluation is the process through which agency generates significance.** A difference can therefore matter biologically without the additional claim that it functions as a sign.
+
+Semiosis becomes a further explanatory question. APS uses the concept where a biologically significant difference appears to function within living organisation **in relation to another condition, object, possibility, or state of affairs**. The semiotic claim is therefore stronger than the claim that a system is causally sensitive to a difference or that the difference carries information.
+
+This distinction also prevents semiosis from becoming an automatic bridge to meaning, representation, or cognition. APS does not posit a compulsory sequence in which evaluation produces semiosis, semiosis produces meaning, meaning produces information, information produces representation, and representation produces cognition. These concepts identify distinguishable explanatory relations whose connections must be established in particular cases.
+
+The central question of this article is consequently:
+
+> **When does a biologically significant difference function as a sign, and what explanatory work is gained by treating the relation as semiotic?**
+
+[[box:aps-box-semiosis-is-operational]]
+
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
+
+## Where This Article Fits
+
+This Core article occupies a controlled position among the APS treatments of Biological Evaluation, significance, information, cognition, representation, and meaning.
+
+**Biological Evaluation** owns the prior explanatory question of how differences come to matter biologically. Evaluation generates significance because conditions differ in how they bear upon viability. The existence of such significance does not by itself establish semiosis.
+
+The present article asks the further question of when an already significant difference becomes organised in a specifically **sign-relational** form. Semiosis is therefore not the source of biological significance but a possible organisation of significant relations.
+
+*Information in Biology — An APS Clarification* asks a different question again. Informational relations can exist through statistical or causal dependence without automatically becoming either biologically significant or semiotic. Some information-bearing differences may participate in sign relations; others need not.
+
+*Cognition — Where Does It Belong in Biology?* concerns the organisation of biological significance across time. APS does not currently define cognition through semiosis, although semiotic relations may contribute to cognitive organisation in particular systems.
+
+*Representation — When and Whether It Arises in Biological Systems* applies a stronger diagnostic test to states or organisations proposed to stand in for, model, or carry content concerning something beyond their immediate occurrence. Semiosis and representation may overlap, but neither concept is reducible to the other.
+
+Finally, *Meaning in Biology — An APS Clarification* establishes that biological significance is not yet meaning. Meaning concerns the later interpretive organisation of what matters and should not be used as a synonym for semiosis.
+
+The resulting architecture is deliberately non-linear:
+
+**Significance ≠ Semiosis ≠ Meaning ≠ Representation.**
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: teleology-in-biology-an-aps-clarification-ci.md
+==================================================
+---
+date: 2026-05-04
+title: "Teleology in Biology — An APS Clarification"
+slug: teleology-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-04
+revised: 2026-06-15
+cluster: philosophy-of-biology
+
+abstract: >
+  Teleology has long been treated as problematic in biology, associated either
+  with outdated metaphysics or with unscientific appeals to design. This
+  article clarifies the status of teleology within the APS framework. It shows
+  why teleology was rejected, how teleonomy emerged as a naturalistic
+  replacement, and why this substitution remained incomplete. Drawing on both
+  classical and contemporary discussions — including Aristotle, Mayr, Monod,
+  Wright, Millikan, Moreno and Mossio, Corning, and recent work on biological
+  purposiveness — APS reinterprets teleology as the organisation of activity
+  relative to viability within constraint-closed, self-maintaining systems.
+
+inBrief: >
+  APS does not revive metaphysical teleology. Instead, it naturalises
+  purposiveness by grounding goal-directed biological activity in
+  viability-oriented, constraint-closed organisation operating in the present
+  tense.
+
+keyPoints:
+  - Classical teleology was rejected because it appeared to invoke external design or final causes.
+  - Teleonomy naturalised purposive language through evolutionary explanation.
+  - Historical and selected-effects accounts remain insufficient to explain present-tense biological normativity.
+  - APS grounds purposiveness in viability-oriented organisation rather than in external goals or genetic programs alone.
+  - Biological normativity emerges intrinsically from organised persistence.
+  - Teleology in biology can be reformulated organisationally without invoking metaphysical final causes.
+
+relatedGlossaryTerms:
+  - teleology
+  - teleonomy
+  - purpose
+  - normativity
+  - biological-agency
+  - function
+  - persistence
+  - viability
+  - constraint-closure
+  - organised-persistence
+
+relatedArticles:
+  - teleonomy
+  - design-in-nature-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
+  - explanatory-geometry-of-biology
+  - biological-agency-as-the-activity-of-self-maintenance
+  - function-and-normativity-why-biological-organisation-matters
+  - aps-and-autonomy-theory
+  - why-life-is-not-computation-an-aps-clarification
+
+references:
+  - id: aristotle
+    authors: "Aristotle"
+    year: -350
+    title: "Physics; Parts of Animals"
+
+  - id: pittendrigh1958
+    authors: "Pittendrigh, C. S."
+    year: 1958
+    title: "Adaptation, Natural Selection, and Behavior"
+    publisher: "Yale University Press"
+    pages: "390–416"
+
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134(3489)"
+    pages: "1501–1506"
+    doi: "10.1126/science.134.3489.1501"
+
+  - id: mayr1974
+    authors: "Mayr, E."
+    year: 1974
+    title: "Teleological and Teleonomic: A New Analysis"
+    journal: "Boston Studies in the Philosophy of Science"
+    volume: "14"
+    pages: "91–117"
+
+  - id: monod1971
+    authors: "Monod, J."
+    year: 1971
+    title: "Chance and Necessity"
+    publisher: "Alfred A. Knopf"
+
+  - id: wright1973
+    authors: "Wright, L."
+    year: 1973
+    title: "Functions"
+    journal: "The Philosophical Review"
+    volume: "82"
+    pages: "139–168"
+    doi: "10.2307/2183766"
+
+  - id: millikan1984
+    authors: "Millikan, R. G."
+    year: 1984
+    title: "Language, Thought, and Other Biological Categories"
+    publisher: "MIT Press"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions and Functional Analysis"
+    publisher: "Cambridge University Press"
+
+  - id: corning2019
+    authors: "Corning, P. A."
+    year: 2019
+    title: "Teleonomy and the Proximate–Ultimate Distinction Revisited"
+    journal: "Biological Journal of the Linnean Society"
+    volume: "127(4)"
+    pages: "912–916"
+    doi: "10.1093/biolinnean/blz087"
+
+  - id: corning2023
+    authors: "Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A. (Eds.)"
+    year: 2023
+    title: "Evolution “On Purpose”: Teleonomy in Living Systems"
+    publisher: "MIT Press"
+
+  - id: dresow2023
+    authors: "Dresow, M."
+    year: 2023
+    title: "Teleonomy: Revisiting a Proposed Conceptual Replacement for Teleology"
+    journal: "Biological Theory"
+    volume: "18"
+    pages: "1–17"
+---
+
+OPENING BODY EXCERPT:
+
+
+## The Problem of Purpose in Biology
+
+Biology is saturated with purposive language.
+
+Organisms regulate internal conditions, maintain their organisation, repair
+damage, acquire resources, coordinate development, and reproduce across
+generations. Biological structures are routinely described in terms of what
+they are *for*: hearts pump blood, immune systems defend organisms, roots
+absorb nutrients, and nervous systems coordinate adaptive activity.
+
+At the same time, modern biology has historically rejected teleology as
+scientifically problematic.
+
+This produced a persistent conceptual tension. Either purposive language is
+merely heuristic shorthand masking underlying mechanisms, or purposiveness
+reflects a genuine feature of living systems requiring clearer explanatory
+grounding.
+
+APS addresses this tension directly.
+
+## Why Teleology Was Rejected
+
+The rejection of teleology in modern science emerged from an attempt to avoid
+appeals to external design, intrinsic destiny, or metaphysical final causes.
+
+In classical philosophy, especially in Aristotle, teleology referred to
+processes occurring *for the sake of* particular ends. Later traditions often
+connected this idea to theological interpretations of nature as designed or
+directed toward predetermined purposes.
+
+The rise of mechanistic science replaced such explanations with accounts based
+on efficient causes: interactions, mechanisms, and lawful processes.
+
+Biology therefore inherited a methodological caution. Explanations invoking
+purpose appeared to risk reintroducing intention, foresight, or supernatural
+design into science.
+
+## The Emergence of Teleonomy
+
+Teleonomy emerged as an attempt to preserve purposive language while removing
+its metaphysical implications.
+
+The term is generally associated with Colin S. Pittendrigh, who introduced it
+to distinguish biological goal-directedness from classical teleology.
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: teleonomy.md
+==================================================
+---
+date: 2026-04-11
+title: "Teleonomy — Historical Solution and APS Reinterpretation"
+slug: teleonomy
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-11
+revised: 2026-06-15
+cluster: philosophy-of-biology
+
+abstract: >
+  Teleonomy was introduced in twentieth-century biology as a way to describe
+  the apparent goal-directedness of living systems without invoking
+  metaphysical teleology. From Pittendrigh’s original formulation through the
+  influential accounts of Mayr and Monod, and into recent work by Corning and
+  others, teleonomy has attempted to naturalise purposiveness within biology.
+  APS retains the central insight of teleonomy while arguing that purposive
+  organisation cannot be fully explained through evolutionary history or
+  program-like inheritance alone. Instead, APS grounds purpose, function, and
+  normativity in viability-oriented, constraint-closed organisation operating
+  in the present tense.
+
+inBrief: >
+  Teleonomy describes the naturalised goal-directedness of living systems.
+  APS reinterprets teleonomy organisationally by grounding purposiveness in
+  viability-oriented, constraint-closed biological organisation rather than
+  in external design or historical programs alone.
+
+keyPoints:
+  - Teleonomy was introduced to naturalise biological goal-directedness.
+  - Pittendrigh, Mayr, and Monod developed teleonomy within evolutionary and molecular biology.
+  - Classical teleonomy often explains purposiveness through historical selection and inherited programs.
+  - Recent work by Corning and others revives teleonomy as an active feature of living systems.
+  - APS grounds purpose in present-tense viability-oriented organisation.
+  - Biological normativity arises intrinsically from organised persistence.
+
+relatedGlossaryTerms:
+  - purpose
+  - function
+  - biological-agency
+  - viability
+  - constraint-closure
+  - normativity
+  - evolution
+  - teleology
+  - evaluation
+  - persistence
+
+relatedArticles:
+  - aps-and-contemporary-theories
+  - explanatory-priority-is-not-ontological-priority
+  - organism-world-coupling-agency-not-control
+  - why-life-is-not-computation-an-aps-clarification
+  - aps-and-autonomy-theory
+  - aps-and-systems-theory
+  - reductionism-in-biology-an-aps-clarification
+  - why-aps-is-not-holism
+
+references:
+  - id: pittendrigh1958
+    authors: "Pittendrigh, C. S."
+    year: 1958
+    title: "Adaptation, Natural Selection, and Behavior"
+    publisher: "Yale University Press"
+    pages: "390–416"
+
+  - id: delaguna1962
+    authors: "De Laguna, G. A."
+    year: 1962
+    title: "The Role of Teleonomy in Evolution"
+    journal: "Philosophy of Science"
+    volume: "29(2)"
+    pages: "117–131"
+
+  - id: mayr1961
+    authors: "Mayr, E."
+    year: 1961
+    title: "Cause and Effect in Biology"
+    journal: "Science"
+    volume: "134(3489)"
+    pages: "1501–1506"
+    doi: "10.1126/science.134.3489.1501"
+
+  - id: williams1966
+    authors: "Williams, G. C."
+    year: 1966
+    title: "Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought"
+    publisher: "Princeton University Press"
+
+  - id: monod1971
+    authors: "Monod, J."
+    year: 1971
+    title: "Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology"
+    publisher: "Alfred A. Knopf"
+
+  - id: mayr1974
+    authors: "Mayr, E."
+    year: 1974
+    title: "Teleological and Teleonomic: A New Analysis"
+    publisher: "D. Reidel"
+    pages: "91–117"
+
+  - id: mayr1992
+    authors: "Mayr, E."
+    year: 1992
+    title: "The Idea of Teleology"
+    journal: "Journal of the History of Ideas"
+    volume: "53(1)"
+    pages: "117–135"
+    doi: "10.2307/2709913"
+
+  - id: corning2019
+    authors: "Corning, P. A."
+    year: 2019
+    title: "Teleonomy and the Proximate–Ultimate Distinction Revisited"
+    journal: "Biological Journal of the Linnean Society"
+    volume: "127(4)"
+    pages: "912–916"
+    doi: "10.1093/biolinnean/blz087"
+
+  - id: corning2023
+    authors: "Corning, P. A., Kauffman, S. A., Noble, D., Shapiro, J. A., Vane-Wright, R. I., & Pross, A. (Eds.)"
+    year: 2023
+    title: "Evolution “On Purpose”: Teleonomy in Living Systems"
+    publisher: "MIT Press"
+
+  - id: dresow2023
+    authors: "Dresow, M."
+    year: 2023
+    title: "Teleonomy: Revisiting a Proposed Conceptual Replacement for Teleology"
+    journal: "Biological Theory"
+    volume: "18"
+    pages: "1–17"
+
+  - id: rama2026
+    authors: "Rama, T."
+    year: 2026
+    title: "Autonomy and Development: Distinguishing Teleological Development from Teleological Physiology"
+    journal: "PhilSci Archive"
+---
+
+OPENING BODY EXCERPT:
+
+
+## The Problem Teleonomy Was Introduced to Solve
+
+Living systems exhibit forms of organisation that appear directed toward the
+maintenance and continuation of life. Organisms regulate internal conditions,
+repair damage, acquire resources, coordinate development, and reproduce across
+generations. Such activities have long appeared purposive or goal-directed.
+
+Classical teleology explained these phenomena through final causes, intrinsic
+purposes, or cosmic design. With the rise of mechanistic science, however,
+teleological explanation came to be regarded as scientifically problematic
+because it appeared to invoke intention, foresight, or non-natural causes.
+
+Teleonomy emerged as an attempt to preserve the descriptive reality of
+biological purposiveness while eliminating these metaphysical commitments.
+
+## The Historical Development of Teleonomy
+
+The concept of teleonomy is generally associated with Colin S. Pittendrigh,
+whose 1958 discussion of adaptation and behaviour introduced the term into
+modern biology. Pittendrigh sought a way to discuss the organised,
+goal-directed character of biological systems without returning to classical
+teleology.
+
+Teleonomy quickly became influential within evolutionary biology and the
+philosophy of biology. George A. de Laguna expanded the discussion into
+evolutionary theory, while George C. Williams reinforced the importance of
+adaptation and natural selection in explaining biological function.
+
+Ernst Mayr later provided the most influential formulation of teleonomy. In
+Mayr’s account, organisms behave teleonomically because they operate according
+to inherited programs produced through evolutionary history.
+
+Jacques Monod further popularised the concept in molecular biology. In
+*Chance and Necessity*, Monod treated teleonomy as one of the defining
+characteristics of life while insisting that biological purposiveness must be
+explained through natural processes rather than design.
+
+These formulations were historically important because they allowed biology to
+retain concepts such as function, regulation, adaptation, and purposiveness
+without invoking metaphysical teleology.
+
+## Classical Teleonomy
+
+In its standard form, teleonomy explains purposive organisation through
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: what-does-aps-mean-by-an-analytic-projection.md
+==================================================
+---
+date: 2026-09-10
+title: "Living Reality and Biological Explanation — What Does APS Mean by an Analytic Projection?"
+slug: what-does-aps-mean-by-an-analytic-projection
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-09-10
+revised: 2026-09-10
+cluster: philosophy-of-biology
+role: clarification
+
+abstract: >
+  APS treats Agency, Process, and Scale as complementary analytic projections
+  of materially realised living organisation rather than as independent
+  components, causes, levels, or domains of biological reality. This article
+  explains how that analytic differentiation can remain scientifically
+  constrained rather than merely subjective or arbitrary, clarifies the
+  relationship between biological realism and explanatory representation,
+  and shows why complementarity among Agency, Process, and Scale does not
+  require them to possess identical logical or biological status.
+
+keyPoints:
+  - "Living organisation is materially real; Agency, Process, and Scale are analytic differentiations of explanatory inquiry into that organisation."
+  - "Analytic does not mean subjective, and projection does not mean invention."
+  - "An analytic projection is explanandum-relative but remains constrained by material implementation, empirical evidence, explanatory relevance, and dependency."
+  - "Agency, Process, and Scale are complementary without being logically equivalent."
+  - "Process is not time, and Scale is not space, size, hierarchy, or an independently acting causal level."
+  - "Organised persistence is an explanatory target rather than a fourth APS projection."
+  - "APS does not assume that the A–P–S triad is universally necessary, universally sufficient, uniquely minimal, or guaranteed to provide explanatory gain."
+
+relatedGlossaryTerms:
+  - biological-organisation
+  - biological-agency
+  - process
+  - scale
+  - organised-persistence
+  - constraint-closure
+  - viability
+
+relatedArticles:
+  - organisational-realism-in-biology
+  - biological-agency-as-the-activity-of-self-maintenance
+  - process-the-dynamics-of-living-biological-organisation
+  - scale-how-life-is-coordinated-across-space-and-time
+  - what-counts-as-explanatory-gain
+  - how-should-scientific-explanations-be-compared
+  - aps-as-philosophy-biological-intelligibility
+
+references:
+  - mossio-saborido-moreno-2009-functions
+  - montevil-mossio-2015-closure-constraints
+  - moreno-mossio-2015-biological-autonomy
+  - bich-bechtel-2022-organization-needs-organization
+  - morgan-morrison-1999-models-mediators
+  - potochnik-2017-idealization-aims-science
+  - giere-2006-scientific-perspectivism
+  - massimi-2022-perspectival-realism
+  - worrall-1989-structural-realism
+  - chakravartty-2017-scientific-ontology
+---
+
+OPENING BODY EXCERPT:
+
+
+## Introduction — Living Reality and Biological Explanation
+
+Living systems are not created by the concepts through which scientists describe them. Cells regulate exchange, organisms repair damage, developmental systems transform, and biological organisation persists or fails whether or not those phenomena are described through a particular explanatory framework. Yet biological explanation is necessarily selective. Scientists decide what requires explanation, which distinctions matter, what measurements are relevant, and which relations should be investigated. An explanation is therefore not a duplicate of the biological system itself, but a disciplined representation of selected features and relations that bear upon a particular question.
+
+This creates an important problem for APS. APS treats **Agency, Process, and Scale as complementary analytic projections of one viability-oriented, constraint-closed organisation**. If they are analytic projections, however, it may seem that they are merely ways in which an observer chooses to see a living system. Conversely, if the organisation they disclose is biologically real, it may seem that Agency, Process, and Scale should themselves be treated as three real divisions of biological reality. Neither conclusion follows, because APS distinguishes the **living organisation being investigated** from the **explanatory differentiation through which that organisation is investigated**.
+
+Living organisation is materially realised. Agency, Process, and Scale provide different ways of asking explanatory questions about it, and although those questions are selected by investigators, the answers are not free inventions. They remain answerable to the organisation, activities, constraints, dependencies, and material relations actually present in the biological system. In this sense:
+
+> **The biology is real; the distinction is analytic; the explanation must remain answerable to the biology.**
+
+That is what APS means by an analytic projection.
+
+> **Where This Article Fits:** APS already distinguishes Agency, Process, and Scale as complementary analytic projections of one living organisation, and its account of organisational realism explains why materially implemented biological organisation need not be treated as merely observer-imposed. The present article addresses the philosophical relation between those commitments. It explains how APS can be realist about living organisation without turning Agency, Process, and Scale into independent components, causes, levels, or domains of biological reality, and how an investigator-selected explanatory distinction can remain scientifically constrained rather than arbitrary.
+
+## 1. Living Things Are Real; Explanations Are Representations
+
+A useful starting point is to distinguish three things that can easily be conflated: material reality, biological organisation, and explanatory differentiation.
+
+The first is **material reality**. Biological entities, activities, interactions, transformations, spatial arrangements, and temporal relations occur independently of APS terminology. A membrane has material structure; metabolic reactions occur; regulatory dependencies can be disrupted; development unfolds; and organisms interact with their environments. These phenomena do not depend upon the vocabulary through which investigators subsequently describe or explain them.
+
+The second is **biological organisation**. Living activity does not consist merely in a list of independently occurring components, because components participate in relations through which activities are constrained, coordinated, maintained, restored, or transformed. Organisational approaches to biology have analysed such relations through ideas including autonomy, constraint closure, regulation, functional dependence, and integrated control (Mossio, Saborido, and Moreno 2009; Montévil and Mossio 2015; Moreno and Mossio 2015; Bich and Bechtel 2022). APS treats this organisation as materially realised rather than as an additional substance standing over the components of a living system. Organisational relations can therefore be real where they are implemented through material dependencies among components, constraints, processes, and environmental conditions.
+
+The third is **explanatory differentiation**. Scientific inquiry separates questions that the biological system itself does not present as labelled categories. An investigator may ask what a system is doing, how it maintains continuity despite change, which spatial and temporal extents matter, what mechanism produces an effect, or how a historical condition contributes to a present state. Making such distinctions does not divide the biological system into corresponding independent pieces; rather, it separates explanatory questions directed toward a common referent.
+
+> **Explanatory differentiation separates questions without necessarily separating their referents.**
+
+The same living system can therefore support more than one legitimate explanatory analysis without implying either that explanation is arbitrary or that several distinct realities have been created by description. Scientific models and explanatory concepts are selective, and often idealised, while still being constrained by the world they seek to explain (Morgan and Morrison 1999; Potochnik 2017). The relevant asymmetry is consequently important:
+
+> **The representation depends for its warrant upon the reality represented; the reality does not depend for its existence upon the representation.**
+
+APS therefore rejects both naïve reification and unrestricted constructivism. Explanatory categories need not reproduce the architecture of reality point for point, but neither are they insulated from empirical failure.
+
+## 2. What Does APS Mean by an Analytic Projection?
+
+An **analytic projection** is an explanandum-relative explanatory differentiation through which selected features or relations of materially realised organisation are brought into focus. Each element of this formulation matters because the term is intended to identify a disciplined explanatory operation without converting that operation into a claim about independently existing divisions of biological reality.
+
+**Analytic** means that the distinction is made for investigation and explanation; it does not mean imaginary, merely verbal, or subjective. **Projection** means that a particular explanatory question brings certain relations into focus while leaving others in the background. Nothing is literally projected out of the organism, and the living system need not contain a corresponding independent component. For that reason, **projection is a methodological label, not a geometric model of biological reality**. APS does not assume that Agency, Process, and Scale are latent axes or dimensions already built into the world and merely waiting to be projected.
+
+The analogy with a projection is useful only within these limits. Different projections of one object can disclose different relations without producing additional objects, and in the same way Agency, Process, and Scale can disclose different explanatory relations within one materially realised living organisation without implying that three separate things exist inside it. The analogy itself, however, does not guarantee scientific adequacy. A representation can be unhelpful, misleading, badly specified, or empirically unsupported.
+
+APS also does not use **analytic projection** merely as another term for an observer's perspective. A perspective can be understood loosely as a standpoint or way of looking, whereas an analytic projection is intended more narrowly as an explanandum-relative explanatory differentiation whose biological application remains materially and empirically constrained. A scientifically warranted analytic projection must therefore remain connected to the material organisation being investigated. Its claims must be open to empirical support, qualification, or rejection; the relations it identifies must bear on the specified explanandum; and where a projection is claimed to provide additional explanatory capacity, that claim must also survive comparison with the strongest relevant alternative.
+
+Thus:
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: what-is-it-about-life.md
+==================================================
+---
+date: 2026-06-29
+title: What Is It About Life? — The Search for Life's Defining Principle
+slug: what-is-it-about-life
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-06-29
+revised: 2026-06-29
+
+cluster: philosophy-of-biology
+role: synthesis
+
+abstract: >
+  Throughout the history of biology and philosophy, researchers have repeatedly attempted to identify the defining principle of life. Some have emphasised form, purpose, energy, metabolism, self-production, autonomy, organisation, or information. This article examines these major traditions as competing explanatory grammars—different ways of making life intelligible. By comparing the explanatory problems each tradition sought to solve, it traces a long intellectual search for the essence of life and situates APS within that ongoing conversation.
+
+keyPoints:
+  - The history of life theories can be understood as a history of competing explanatory grammars.
+  - Different traditions have attempted to explain life through form, purpose, energy, metabolism, organisation, self-production, autonomy, and persistence.
+  - Defining life requires distinguishing between definition, diagnosis, and evidence.
+  - APS interprets earlier traditions as illuminating different aspects of living organisation.
+  - Agency, process, and scale provide an explanatory grammar for understanding viability-oriented organised persistence.
+
+relatedGlossaryTerms:
+  - life
+  - organised-persistence
+  - viability
+  - biological-agency
+  - constraint-closure
+  - process
+  - scale
+
+relatedArticles:
+  - what-is-life-a-biological-question-revisited
+  - biology
+  - biological-explanation-what-needs-to-be-explained
+  - agency-as-the-defining-activity-of-life
+  - why-is-biology-different-from-physics
+  - aps-and-autonomy-theory
+
+references:
+  - id: aristotle-de-anima
+    authors: Aristotle
+    year: -350
+    title: De Anima (On the Soul)
+
+  - id: kant-cj
+    authors: Kant, I.
+    year: 1790
+    title: Critique of the Power of Judgment
+    publisher: Cambridge University Press
+
+  - id: schrodinger1944
+    authors: Schrödinger, E.
+    year: 1944
+    title: What Is Life? The Physical Aspect of the Living Cell
+    publisher: Cambridge University Press
+
+  - id: jonas1966
+    authors: Jonas, H.
+    year: 1966
+    title: The Phenomenon of Life
+    publisher: Harper & Row
+
+  - id: rosen1991
+    authors: Rosen, R.
+    year: 1991
+    title: Life Itself
+    publisher: Columbia University Press
+
+  - id: maturana1980
+    authors: Maturana, H. R., Varela, F. J.
+    year: 1980
+    title: "Autopoiesis and Cognition: The Realization of the Living"
+    publisher: D. Reidel Publishing Company
+    doi: 10.1007/978-94-009-8947-4
+
+  - id: kauffman1993
+    authors: Kauffman, S. A.
+    year: 1993
+    title: "The Origins of Order: Self-Organization and Selection in Evolution"
+    publisher: Oxford University Press
+
+  - id: deacon2011
+    authors: Deacon, T. W.
+    year: 2011
+    title: "Incomplete Nature: How Mind Emerged from Matter"
+    publisher: W. W. Norton & Company
+
+  - id: moreno2015
+    authors: Moreno, A., Mossio, M.
+    year: 2015
+    title: Biological Autonomy
+    publisher: Springer
+    doi: 10.1007/978-94-017-9837-2
+
+  - id: nicholson-dupre2018
+    authors: Nicholson, D. J., Dupré, J.
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: Oxford University Press
+    doi: 10.1093/oso/9780198779636.001.0001
+
+  - id: mossio2023
+    authors: Mossio, M.
+    year: 2023
+    title: Determination, Explanation, and Organization in Biology
+    publisher: Springer
+    doi: 10.1007/978-3-031-39541-3
+
+  - id: spencer2025
+    authors: Spencer, R. D.
+    year: 2025
+    title: Biological Agency as the Context for Plant Cognition
+    publisher: Zenodo
+    doi: 10.5281/zenodo.16938193
+
+  - id: spencer2026
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the defining activity of life: A viability-oriented framework integrating process and scale"
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00547-6
+
+  - id: bender-et-al-2026-what-lives
+    authors: Bender, R., Kofman, K., Agüera y Arcas, B., & Levin, M.
+    year: 2026
+    title: What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00544-9
+---
+
+OPENING BODY EXCERPT:
+
+
+## Introduction
+
+The question *What is life?* is one of the oldest and most persistent questions in biology. For more than two millennia, philosophers, naturalists, and scientists have attempted to identify what distinguishes living systems from everything else in the world. The remarkable diversity of proposed answers reveals not merely disagreement about life itself but disagreement about how life should be understood and explained.
+
+Some traditions have sought the defining principle of life in form and organisation. Others have emphasised purpose, metabolism, energy flow, self-production, autonomy, information, or evolution. At first glance these approaches appear to offer competing definitions. Yet viewed more carefully, they often reflect something deeper: different ideas about what kind of phenomenon life is and therefore what kind of explanation it requires.
+
+This article approaches the history of life theories from that perspective. Rather than asking which definition is correct, it asks what explanatory problem each tradition was attempting to solve. Why did Aristotle focus on organised activity? Why did Schrödinger turn to thermodynamics? Why did Jonas emphasise metabolism and self-concern? Why did Rosen, Maturana, Varela, Deacon, and Moreno increasingly shift attention toward organisation, closure, and autonomy? These questions reveal a long intellectual search not merely for a definition of life but for an explanatory framework capable of making life intelligible.
+
+An explanatory grammar is the conceptual structure through which a phenomenon becomes understandable. It identifies what counts as an explanation, what kinds of causes are regarded as significant, what aspect of a phenomenon is considered most fundamental, and how the explanatory target is analysed and related to other explanatory concepts. Different explanatory grammars illuminate different features of life. Some make energy central. Others make organisation central. Others emphasise information, reproduction, adaptation, or self-maintenance. The history of life theories can therefore be understood as a history of competing explanatory grammars.
+
+[[box:the-search-for-a-defining-principle-of-life]]
+
+This perspective also helps clarify why debates about life have often proven so difficult to resolve. Discussions frequently move between three distinct questions without recognising the shift. One question concerns definition: what life fundamentally is. A second concerns diagnosis: how life is recognised. A third concerns evidence: the observations that support diagnostic judgments. Metabolism, reproduction, growth, responsiveness, and evolution may function as evidence of life, as diagnostic criteria, or as proposed definitions depending on the theoretical framework being employed. Confusion arises when these roles are conflated.
+
+The distinction is important because many disagreements about life are not disagreements about evidence. They are disagreements about explanation. Most biologists agree that living systems metabolise, develop, regulate themselves, reproduce, and evolve. The deeper question is why these activities belong together as aspects of a single phenomenon. What unifies them? What makes them biologically meaningful? What organisational condition transforms them from isolated processes into expressions of life?
+
+The search for answers to these questions has generated some of the most influential ideas in the history of biology. Across more than two thousand years, thinkers have repeatedly returned to a surprisingly similar challenge: identifying the principle that allows living systems to maintain themselves despite continual change. Different traditions have approached this challenge through different conceptual routes, yet many converge upon themes of organisation, continuity, self-maintenance, and persistence.
+
+The account that follows is therefore not a simple progression from error to truth. Nor is it a competition in which one definition eventually defeats all others. Each major tradition captured something important about living systems while revealing limitations that inspired further inquiry. The history of life theories is best understood as a continuing conversation about what requires explanation and how biological explanation should proceed.
+
+Viewed in this way, the search for the essence of life becomes a search for the explanatory grammar most capable of accounting for the distinctive organisation of living systems. It is this search that links Aristotle's reflections on living form, Kant's analysis of natural purpose, Schrödinger's thermodynamic vision, Jonas's philosophy of metabolism, Rosen's relational biology, autopoiesis, autonomy theory, and contemporary organisational approaches. The question connecting them all remains remarkably simple:
+
+> What is it about life?
+
+The sections that follow examine how some of the most influential answers to that question have been developed, what explanatory problems they sought to address, and how they continue to shape contemporary attempts to understand the living world.
+
+## Aristotle and the First Organisational Theory of Life
+
+The search for a defining principle of life begins long before modern biology. More than two thousand years ago, Aristotle confronted a question that remains recognisable today:
+
+> What makes a living thing alive?
+
+Although the scientific context has changed dramatically, Aristotle's answer remains remarkable because it focused not on the material composition of organisms but on their organisation and activity. In many respects, he was among the first thinkers to approach life as an organisational problem.
+
+For Aristotle, living beings could not be understood merely by examining the substances from which they were composed. The same physical materials could appear in both living and non-living forms. What distinguished an organism was not its matter alone but the way that matter was organised and the activities that organisation made possible. Living systems possessed capacities absent from inert objects: growth, self-maintenance, sensation, movement, and reproduction. These capacities revealed the presence of what Aristotle called *psyche*, commonly translated as soul.
+
+Modern readers often misunderstand this concept because the word "soul" now carries strong religious and spiritual associations. Aristotle's *psyche* was not a supernatural substance inhabiting the body. Rather, it functioned as an organisational principle. It referred to the form of a living thing—the arrangement and activity through which matter became a living organism rather than a collection of physical components. A plant, an animal, and a human being possessed different capacities, but all were alive because they exhibited organised activities directed toward sustaining their characteristic modes of existence.
+
+Aristotle's explanatory grammar therefore centred on form and activity. Life became intelligible through the organised capacities of a living whole rather than through the properties of its material parts. The fundamental explanatory question was not:
+
+> What is life made of?
+
+but:
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: why-aps-is-not-holism-ci.md
+==================================================
+---
+date: 2026-05-28
+title: "Why APS Is Not Holism"
+slug: why-aps-is-not-holism
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-08-10
+cluster: philosophy-of-biology
+
+abstract: >
+  APS rejects both reductionism and holism as complete accounts of
+  biological explanation. While holism correctly recognises that living
+  systems exhibit organisation that cannot be understood through isolated
+  components alone, APS argues that appeals to wholes, totalities, or
+  organismic unity are themselves insufficient explanations. Biological
+  organisation is neither reducible to parts nor explained by abstract
+  wholes. Instead, APS explains living systems through viability-oriented
+  organised persistence, constraint-closure, processual individuality,
+  and continuity-preserving organisation across time. Holistic properties
+  emerge from organisation, but organisation itself remains the primary
+  explanatory target.
+
+relatedGlossaryTerms:
+  - holism
+  - biological-organisation
+  - constraint-closure
+  - persistence
+  - processual-individual
+  - organism
+  - biological-agency
+
+relatedArticles:
+  - reductionism-in-biology-an-aps-clarification
+  - why-aps-is-not-organicism
+  - organisational-realism-in-biology
+  - continuity-structure-of-biological-organisation
+  - explanatory-priority-is-not-ontological-priority
+
+references:
+  - id: nicholson2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: capra1996
+    authors: "Capra, F."
+    year: 1996
+    title: "The Web of Life: A New Scientific Understanding of Living Systems"
+    publisher: "Anchor Books"
+
+  - id: bechtel2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience"
+    publisher: "Routledge"
+
+  - id: mossio2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Biological Functions: A Pragmatic Naturalist Account"
+    publisher: "Cambridge University Press"
+
+  - id: dupre2024
+    authors: "Dupré, J."
+    year: 2024
+    title: "The Metaphysics of Biology"
+    publisher: "Cambridge University Press"
+
+  - id: smuts1926
+    authors: "Smuts, J. C."
+    year: 1926
+    title: "Holism and Evolution"
+    publisher: "Macmillan"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: An Organisational Synthesis"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+## Holism and the Appeal of Wholes
+
+Holism has long occupied an important place within biological thought. From the organismic biology of the early twentieth century to contemporary systems approaches, holistic traditions have argued that living systems cannot be adequately understood by analysing isolated components alone. Thinkers such as Jan Smuts, Ludwig von Bertalanffy, and later systems theorists emphasised that organisms exhibit forms of organisation whose properties emerge from the coordinated activity of the whole rather than from the independent behaviour of parts.
+
+In this respect, holism identifies a genuine feature of living systems. Organisms are organised entities whose activities depend upon relations among components, environmental interactions, developmental histories, and processes operating across multiple temporal and spatial scales.
+
+APS therefore agrees with holism that biological explanation cannot be reduced to the analysis of isolated parts.
+
+However, APS rejects the further claim that appeals to wholes, organismic unity, or holistic properties themselves constitute explanations. Recognising that living systems exhibit organised wholeness does not yet explain how that wholeness is produced, maintained, repaired, or preserved.
+
+The existence of a whole does not explain how that whole persists.
+
+The central explanatory question therefore remains:
+
+> How does a living system continuously maintain the organisation that allows it to remain a living system?
+
+APS answers this question through viability-oriented organised persistence rather than through appeals to wholeness itself.
+
+## Why APS Rejects the Reductionism–Holism Opposition
+
+Biological explanation is often presented as a choice between reductionism and holism.
+
+Reductionism seeks explanation in constituent parts and lower-level mechanisms.
+
+Holism seeks explanation in higher-level organisational wholes.
+
+APS argues that this opposition is largely misleading.
+
+Living systems are neither collections of independent components nor mysterious unified wholes.
+
+They are organised processes whose persistence depends upon interactions among components, constraints, environments, developmental trajectories, and regulatory activities operating across scales.
+
+The primary explanatory target is therefore not parts alone or wholes alone but the organisation through which persistence is maintained.
+
+APS therefore relocates explanation away from the reductionism–holism debate and toward organised persistence itself. Living systems are understood neither as collections of independently functioning components nor as explanatory wholes. They are continuity-maintaining organisations whose persistence depends upon the coordinated activity of processes operating across scales and through time.
+
+This continuity architecture provides the primary explanatory framework within APS.
+
+![Holism versus Organised Persistence](/assets/diagrams/holism-vs-organised-persistence.svg)
+
+*Figure: APS rejects both atomistic reductionism and explanatory holism. Explanation is centred on the organisation through which living systems sustain viability across time.*
+
+[[box:continuity-is-not-wholeness]]
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: why-aps-is-not-organicism-ci.md
+==================================================
+---
+date: 2026-05-28
+title: "Why APS Is Not Organicism"
+slug: why-aps-is-not-organicism
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-07-28
+cluster: philosophy-of-biology
+
+abstract: >
+  APS shares important concerns with historical organicism, particularly the
+  emphasis on organised, self-maintaining living systems. However, APS is not
+  simply a contemporary form of organicism. Rather than appealing broadly to
+  organismic wholeness, APS reconstructs organisational biology through an
+  explicit explanatory architecture centred on viability-oriented organisation,
+  organised persistence, continuity regulation, and scale-integrated
+  explanation. This article explains how APS preserves and operationalises the
+  strongest insights of organism-centred biology while moving beyond the
+  conceptual ambiguities of classical organicism.
+
+relatedGlossaryTerms:
+  - biological-organisation
+  - process
+  - biological-agency
+  - constraint
+  - constraint-closure
+  - viability
+  - persistence
+  - mechanism
+  - function
+  - normativity
+  - purpose
+  - reductionism
+  - emergence
+  - organisational-realism
+
+relatedArticles:
+  - aps-as-philosophy-biological-intelligibility
+  - explanatory-geometry-of-biology
+  - reductionism-in-biology-an-aps-clarification
+  - emergence-in-biology-an-aps-clarification
+  - organisational-realism-in-biology
+  - aps-and-systems-theory
+  - reductionism-in-biology-an-aps-clarification
+  - function-as-operational-organisation
+  - normativity-in-biology-why-some-things-matter-to-living-systems
+  - explanatory-priority-is-not-ontological-priority
+  - why-life-is-not-autopoiesis
+  - why-life-is-not-a-machine
+  - understanding-aps-the-structure-of-the-framework
+
+references:
+  - id: nicholson-gawne-2015
+    authors: "Nicholson, D. J. and Gawne, R."
+    year: 2015
+    title: "Neither Logical Empiricism nor Vitalism, but Organicism: What the Philosophy of Biology Was"
+    journal: "History and Philosophy of the Life Sciences"
+    volume: "37(4)"
+    pages: "345–381"
+    doi: "10.1007/s40656-015-0085-7"
+
+  - id: nicholson-2014
+    authors: "Nicholson, D. J."
+    year: 2014
+    title: "The Return of the Organism as a Fundamental Explanatory Concept in Biology"
+    journal: "Philosophy Compass"
+    volume: "9(5)"
+    pages: "347–359"
+    doi: "10.1111/phc3.12128"
+
+  - id: nicholson-2013
+    authors: "Nicholson, D. J."
+    year: 2013
+    title: "Organisms ≠ Machines"
+    journal: "Studies in History and Philosophy of Biological and Biomedical Sciences"
+    volume: "44(4)"
+    pages: "669–678"
+    doi: "10.1016/j.shpsc.2013.05.014"
+
+  - id: nicholson-dupre-2018
+    authors: "Nicholson, D. J. and Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: dupre-nicholson-2018
+    authors: "Dupré, J. and Nicholson, D. J."
+    year: 2018
+    title: "A Manifesto for a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+    note: "Chapter in Everything Flows: Towards a Processual Philosophy of Biology"
+
+  - id: walsh-2015
+    authors: "Walsh, D. M."
+    year: 2015
+    title: "Organisms, Agency, and Evolution"
+    publisher: "Cambridge University Press"
+
+  - id: mossio-2023
+    authors: "Mossio, M."
+    year: 2023
+    title: "Organization in Biology"
+    publisher: "Springer"
+
+  - id: montevil-mossio-2015
+    authors: "Montévil, M. and Mossio, M."
+    year: 2015
+    title: "Biological Organisation as Closure of Constraints"
+    publisher: "Springer"
+
+  - id: gilbert-sarkar-2000
+    authors: "Gilbert, S. F. and Sarkar, S."
+    year: 2000
+    title: "Embracing Complexity: Organicism for the 21st Century"
+    journal: "Developmental Dynamics"
+    volume: "219(1)"
+    pages: "1–9"
+    doi: "10.1002/1097-0177(2000)9999:9999<::AID-DVDY1037>3.0.CO;2-A"
+
+  - id: bechtel-2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: spencer-2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: Towards a Viability-Oriented Theory of Biological Organisation"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+# Why APS Is Not Organicism
+
+APS shares important concerns with historical organicism. Both approaches reject the idea that living systems can be adequately understood as mere aggregates of independently meaningful parts. Both emphasise that organisms are organised, dynamically integrated, and continuously self-maintaining systems whose components derive biological significance from their relations within the larger organisation of the living system.
+
+For this reason APS may initially appear to belong within the organicist tradition of theoretical biology.
+
+APS rejects strongly reductionistic conceptions of life, emphasises organisation and persistence, and interprets organisms as temporally extended systems sustained through continuous processes of regulation, repair, adaptation, and exchange. APS also shares the organicist conviction that biological explanation must address the organised dynamics of living systems rather than merely cataloguing isolated component interactions.
+
+Yet APS is not simply a contemporary form of organicism.
+
+Historical organicism recognised many important features of living systems, but often lacked explicit explanatory structure, operational criteria, and diagnostic precision. APS inherits several of the strongest organism-centred insights of organicist biology while reconstructing them within a more explicit continuity-oriented explanatory architecture centred on viability, organised persistence, perturbation-sensitive regulation, and scale-integrated explanation.
+
+The result is not a rejection of organicism, but a reconstruction and operationalisation of its strongest explanatory intuitions within a more precise framework for biological organisation.
+
+## What Was Organicism?
+
+Organicism emerged during the late nineteenth and early twentieth centuries as a response to two dominant approaches to life.
+
+The first was mechanistic reductionism, which attempted to explain organisms entirely through machine-like interactions among isolated components. The second was vitalism, which proposed that living systems depended upon special non-physical forces irreducible to ordinary physical processes.
+
+Organicism rejected both positions.
+
+Against reductionistic mechanism, organicists argued that organisms could not be adequately understood as simple assemblies of independently functioning parts. Biological systems exhibited integration, regulation, development, persistence, and coordinated organisation that could not be fully captured through atomistic decomposition alone.
+
+Against vitalism, most organicists insisted that living systems remained entirely natural systems. The distinctive features of life did not require mysterious vital forces, but instead emerged from the organised relations among components within the organism itself.
+
+Although organicism took many forms, several recurring themes characterised the broader tradition:
+
+- organisms are organised wholes rather than mere collections of parts,
+- biological explanation requires attention to system-level organisation,
+- parts derive their functions from their roles within the larger system,
+- living systems actively maintain themselves across time,
+- biological causation is distributed across multiple organisational scales,
+- organisms exhibit continuity-preserving regulation and development.
+
+These themes strongly influenced later developments in systems biology, developmental systems theory, autonomy theory, process philosophy, cybernetics, enactivism, and contemporary organisational approaches to biology.
+
+## What Organicism Correctly Recognised
+
+Many of the central intuitions of organicism remain fundamentally important.
+
+Living systems are not static objects assembled from independently meaningful components. Organisms persist only through continuous processes of self-production, regulation, repair, exchange, adaptation, and environmental coupling. Biological intelligibility therefore depends upon understanding the organised relations through which living systems maintain themselves across time.
+
+APS strongly agrees with this general orientation.
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: why-life-is-not-active-inference-ci.md
+==================================================
+---
+date: 2026-05-29
+title: "Why Life Is Not Active Inference"
+slug: why-life-is-not-active-inference
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+cluster: philosophy-of-biology
+
+abstract: >
+  Active Inference and the Free Energy Principle provide influential frameworks for explaining adaptive regulation, prediction, learning, behavioural coordination, uncertainty management, and organism–environment relations. APS rejects the stronger identity claim that inference, prediction, optimisation, or free-energy minimisation by themselves define life. APS instead defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of biological continuity through change. This article clarifies the resulting difference without assuming that active inference merely describes biological activity while APS alone explains its constitutive organisation. Where the frameworks address the same explanatory target, comparative gain requires target-matched assessment.
+
+keyPoints:
+  - Active inference provides substantive explanatory and formal resources for adaptive regulation, learning, perception, action, and organism–environment coordination.
+  - APS does not identify life with inference, prediction, optimisation, or free-energy minimisation.
+  - APS defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of continuity through change.
+  - Differences between inferential, formal, organisational, and biological descriptions do not by themselves establish explanatory superiority.
+  - Relations between viability, evaluation, normativity, prediction, and inference may be investigated as explanatory or dependency hypotheses rather than assumed from APS architecture.
+  - Active inference may overlap with, complement, differ from, or outperform APS for particular explanatory targets.
+  - Comparative preference requires target-matched assessment.
+
+relatedGlossaryTerms:
+  - biological-agency
+  - biological-organisation
+  - evaluation
+  - semiosis
+  - meaning
+  - information
+  - representation
+  - cognition
+  - normativity
+  - teleonomy
+  - viability
+  - persistence
+  - continuity
+  - function
+  - process
+  - scale
+
+relatedArticles:
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - cognition-where-does-it-belong-in-biology
+  - function-and-normativity-why-biological-organisation-matters
+  - function-as-operational-organisation
+  - purpose-the-organisation-of-viability-oriented-activity
+  - biological-agency-as-the-activity-of-self-maintenance
+  - biological-causation-from-mechanism-to-organised-persistence
+  - why-life-is-not-information-processing
+  - why-life-is-not-a-machine
+  - explanatory-priority-is-not-ontological-priority
+  - why-ai-is-not-biological-agency
+  - aps-and-contemporary-theories
+
+researchStreams: []
+
+references:
+  - id: friston2010
+    authors: "Friston, K."
+    year: 2010
+    title: "The Free-Energy Principle: A Unified Brain Theory?"
+    journal: "Nature Reviews Neuroscience"
+    volume: "11"
+    pages: "127–138"
+    doi: "10.1038/nrn2787"
+
+  - id: friston2013
+    authors: "Friston, K."
+    year: 2013
+    title: "Life as We Know It"
+    journal: "Journal of the Royal Society Interface"
+    volume: "10"
+    pages: "20130475"
+    doi: "10.1098/rsif.2013.0475"
+
+  - id: hohwy2013
+    authors: "Hohwy, J."
+    year: 2013
+    title: "The Predictive Mind"
+    publisher: "Oxford University Press"
+
+  - id: clark2016
+    authors: "Clark, A."
+    year: 2016
+    title: "Surfing Uncertainty"
+    publisher: "Oxford University Press"
+
+  - id: ramstead2018
+    authors: "Ramstead, M. J. D., Veissière, S. P. L., and Kirmayer, L. J."
+    year: 2018
+    title: "Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention"
+    journal: "Frontiers in Psychology"
+    volume: "9"
+    pages: "1090"
+    doi: "10.3389/fpsyg.2018.01090"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+
+  - id: moreno-mossio-2015
+    authors: "Moreno, A. and Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    publisher: "Cambridge University Press"
+
+  - id: bechtel-2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: spencer-2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+## Introduction
+
+Active Inference and the Free Energy Principle have become among the most influential theoretical frameworks in contemporary neuroscience, cognitive science, systems theory, and theoretical biology.
+
+Within these approaches, organisms are often understood as systems that minimise prediction error or free energy through adaptive engagement with their environments. Perception, action, learning, and behavioural coordination are interpreted as aspects of an ongoing inferential process through which systems reduce uncertainty while maintaining adaptive organisation.
+
+These frameworks have generated important insights into adaptive regulation, behavioural flexibility, sensory integration, learning, anticipatory behaviour, and organism–environment interaction. APS fully recognises the scientific significance of these achievements and accepts that predictive organisation can play an important role in many biological and cognitive systems.
+
+APS rejects the stronger identity claim that prediction, inference, optimisation, or free-energy minimisation by themselves constitute the APS definition of life. Whether active-inference approaches can nevertheless provide substantive explanations of living organisation is a separate comparative question.
+
+Living systems may engage in predictive regulation, but APS does not define life as active inference.
+
+This distinction matters because Active Inference is often presented using a highly general explanatory vocabulary that can appear to provide a unified account of biological organisation. APS does not dispute the usefulness of inferential descriptions. Rather, it argues that explanatory success in one domain should not by itself be converted into an identity claim about life. Predictive models may describe living systems effectively without demonstrating that living systems are fundamentally inferential systems.
+
+The central APS question is therefore not whether predictive organisation exists. It is whether predictive organisation explains the distinctive organisation of living systems themselves.
+
+[[box:explanatory-priority-is-not-ontological-priority]]
+
+## Different Explanatory Architectures
+
+APS and active-inference approaches organise several shared problems differently. Active inference develops explanatory resources around prediction, generative organisation, policy selection, free-energy minimisation, adaptive regulation, and organism–environment coupling. APS organises its account around viability-oriented, constraint-closed organisation, biological agency, organised persistence, evaluation, significance, and related concepts.
+
+APS may represent prediction and inference as developments or activities occurring within living organisation, but their position within APS architecture does not establish that active inference presupposes APS's explanatory categories or that APS occupies a deeper explanatory domain.
+
+The relevant distinction is therefore not between a superficial inferential description and a deeper organisational reality. It is between different explanatory architectures that may overlap on some biological targets and diverge on others.
+
+APS can ask how prediction, inference, evaluation, viability, and biological significance are related within living organisation. Where those relations are claimed to be necessary or explanatorily ordered, they should be treated as proposed Dependency Hypotheses requiring assessment rather than as consequences of conceptual placement alone.
+
+[[box:aps-box-organised-persistence-and-prediction]]
+
+## Why Active Inference Is Scientifically Powerful
+
+APS does not reject Active Inference. On the contrary, many of its explanatory successes arise precisely because living systems often regulate themselves in ways that are anticipatory, context-sensitive, adaptive, and continuity-preserving.
+
+Predictive models can illuminate how organisms coordinate behaviour, integrate sensory information, learn from experience, manage uncertainty, and maintain effective engagement with changing environments. Active-inference approaches can provide powerful formal and substantive explanations of adaptive regulation, perception, action, learning, behavioural coordination, and organism–environment relations.
+
+APS therefore accepts Active Inference as an important explanatory and modelling framework. The comparison concerns explanatory target, architecture, scope, and the significance of their differences.
+
+The question relevant to this article is not whether predictive organisation occurs in living systems, but whether identifying such organisation is equivalent to identifying life itself. APS rejects that identity claim while leaving the comparative explanatory adequacy of active-inference accounts of living organisation open.
+
+The scientific success of predictive models demonstrates that prediction can contribute to biological organisation. It does not demonstrate that biological organisation is fundamentally predictive.
+
+## Prediction and Organised Persistence
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: why-life-is-not-a-machine-ci.md
+==================================================
+---
+date: 2026-05-28
+title: "Why Life Is Not a Machine — An APS Clarification"
+slug: why-life-is-not-a-machine
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-08-21
+cluster: philosophy-of-biology
+role: clarification
+
+abstract: >
+  Machine analogies and mechanistic explanations have played powerful roles
+  throughout biology, illuminating causal organisation, functional relations,
+  regulation, development, and interactions among biological components.
+  APS nevertheless rejects the stronger identity claim that life is adequately
+  defined as a machine. It defines life as viability-oriented, constraint-closed
+  organisation and treats organised persistence as the explanatory problem of
+  how that organisation maintains and re-establishes continuity through change.
+  This article distinguishes the machine/non-machine question from the scientific
+  adequacy of mechanistic explanation. It does not assume that mechanistic
+  approaches are reductive, merely local, or explanatorily subordinate to APS.
+  Where mechanistic and APS explanations address the same biological target,
+  comparative gain requires target-matched assessment.
+
+keyPoints:
+  - Machine analogies and mechanistic explanations are not the same thing.
+  - APS does not define life as a machine.
+  - Mechanistic approaches provide substantive explanations across biological science and may be sufficient for particular explananda.
+  - APS defines life as viability-oriented, constraint-closed organisation.
+  - Organised persistence concerns how living organisation maintains and re-establishes continuity through change.
+  - Biological agency is viability-oriented organisational activity.
+  - Rejecting machine identity does not establish the explanatory limits of mechanism.
+  - Where APS and mechanistic explanations address the same target, comparative gain requires target-matched assessment.
+
+relatedGlossaryTerms:
+  - biological-organisation
+  - biological-agency
+  - viability
+  - viability-orientation
+  - organised-persistence
+  - mechanism
+  - function
+  - normativity
+  - purpose
+  - process
+  - scale
+
+relatedArticles:
+  - what-is-aps
+  - aps-and-contemporary-theories
+  - biological-causation-from-mechanism-to-organised-persistence
+  - explanatory-priority-is-not-ontological-priority
+  - function-and-normativity-why-biological-organisation-matters
+  - purpose-the-organisation-of-viability-oriented-activity
+  - why-life-is-not-information-processing
+  - why-life-is-not-active-inference
+
+references:
+  - id: descartes1664
+    authors: "Descartes, R."
+    year: 1664
+    title: "Treatise on Man"
+    publisher: "Prometheus Books"
+
+  - id: bertalanffy1968
+    authors: "von Bertalanffy, L."
+    year: 1968
+    title: "General System Theory"
+    publisher: "George Braziller"
+
+  - id: rosen1991
+    authors: "Rosen, R."
+    year: 1991
+    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
+    publisher: "Columbia University Press"
+
+  - id: jonas1966
+    authors: "Jonas, H."
+    year: 1966
+    title: "The Phenomenon of Life"
+    publisher: "Harper & Row"
+
+  - id: simondon1958
+    authors: "Simondon, G."
+    year: 1958
+    title: "On the Mode of Existence of Technical Objects"
+    publisher: "University of Western Ontario"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    publisher: "Cambridge University Press"
+
+  - id: moreno-mossio-2015
+    authors: "Moreno, A. and Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: bechtel-2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: nicholson-2013
+    authors: "Nicholson, D. J."
+    year: 2013
+    title: "Organisms  ≠  Machines"
+    journal: "Studies in History and Philosophy of Biological and Biomedical Sciences"
+    volume: "44(4)"
+    pages: "669–678"
+    doi: "10.1016/j.shpsc.2013.05.014"
+
+  - id: spencer-2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A viability-oriented framework integrating process and scale."
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+
+  - id: levin-watson-2025
+    authors: "Levin, M.; Watson, R. A."
+    year: 2025
+    title: "Machines All the Way Up and Cognition All the Way Down: Updating the Machine Metaphor in Biology"
+    doi: "10.31219/osf.io/jwhr7_v2"
+---
+
+OPENING BODY EXCERPT:
+
+
+## Introduction
+
+Living systems are frequently described as machines. Hearts are compared with pumps, brains with computers, genes with programs, and organisms with highly sophisticated devices composed of interacting mechanisms. Such comparisons have played important roles in biological explanation by directing attention toward causal organisation, functional relations, experimentally accessible components, and the processes through which biological outcomes are produced.
+
+Machine descriptions and mechanistic explanations, however, are not the same thing. A claim that an organism *is a machine* concerns how living systems should be characterised as organised entities. A mechanistic explanation concerns how a biological phenomenon is produced through organised causal relations among entities, activities, processes, and conditions. Rejecting the first claim therefore does not entail rejecting, restricting, or subordinating the second.
+
+APS does not reject mechanistic explanation. Mechanistic approaches provide substantive explanations across molecular biology, physiology, development, neuroscience, ecology, and other biological domains. For many explananda, a mechanistic account may provide the relevant explanation without requiring reconstruction through APS.
+
+APS nevertheless rejects the stronger identity claim that life is adequately defined as a machine. Its concern is not whether living systems contain mechanisms or can be explained mechanistically, but what distinguishes living organisation as living organisation.
+
+APS defines life as **viability-oriented, constraint-closed organisation**. This organisation consists in the ongoing modulation of constraints through which a system actively maintains and re-establishes the conditions of its own persistence. Biological agency is **viability-oriented organisational activity**: the present-tense activity through which this organisation is enacted and sustained.
+
+Organised persistence does not provide a second definition of life. It identifies an explanatory problem arising from the APS definition: how living organisation maintains and re-establishes continuity despite material turnover, perturbation, development, environmental change, and other transformations.
+
+The distinction developed in this article is therefore deliberately bounded. Showing that life is not identical with a machine does not show that mechanistic explanation cannot explain living systems. Nor does APS's explicit focus on viability-oriented organisation establish that it provides a broader, deeper, or superior biological explanation. Where APS and mechanistic approaches address the same explanatory target, their relative explanatory contribution requires target-matched comparison.
+
+*Life is not identical with a machine. That non-identity does not determine the explanatory limits of mechanism.*
+
+[[box:aps-box-explanation-is-not-reduction]]
+
+## Why Machine Models Became Influential
+
+Machine analogies became influential in modern biology because they provided productive ways of investigating organised causal systems. They directed attention toward components, interactions, functional relations, regulation, causal sequences, intervention, and the production of experimentally observable outcomes.
+
+Mechanistic explanation developed far beyond any simple conception of organisms as collections of machine-like parts. Mechanistic approaches can investigate dynamically organised systems, regulation, feedback, development, plasticity, interaction with environmental conditions, and changes in organisation across time. Mechanistic biology therefore should not be identified with a static, linear, atomistic, or necessarily reductionist machine picture.
+
+Its explanatory achievements are extensive. Mechanistic investigation has contributed fundamentally to molecular biology, physiology, neuroscience, developmental biology, systems biology, and many other areas of biological science. Decomposition, perturbation, intervention, causal analysis, and reconstruction of organised processes can provide powerful explanations of how biological phenomena are produced and maintained.
+
+APS accepts these achievements without treating them as merely descriptive or as preliminary to an organisational explanation. A mechanistic explanation may be sufficient for the biological question being asked.
+
+The machine question addressed here is different. It asks whether successful mechanistic explanation warrants identifying the living system itself with a machine. APS answers that question negatively. The explanatory success of mechanisms does not require machine ontology, just as rejection of machine ontology does not establish a limitation of mechanistic explanation.
+
+The relevant distinction is therefore between an ontological or classificatory claim about what living systems are and a scientific explanatory strategy for investigating how biological phenomena occur. These questions can interact, but neither can be settled simply by answering the other.
+
+## What Machine Models Explain Well
+
+Machine models and mechanistic approaches have been especially effective where biological questions concern organised causal structure: how components interact, how signals propagate, how processes regulate one another, how perturbations alter outcomes, and how coordinated activities contribute to biological phenomena.
+
+Such explanations need not be restricted to isolated components. Mechanistic investigation can address relations among interacting processes, feedback organisation, regulatory networks, developmental transformations, environmental coupling, and other dynamically organised biological phenomena. Mechanism and organisation should therefore not be treated as opposing explanatory categories.
+
+APS approaches some of these phenomena from a different explanatory architecture. Its central concern is viability-oriented, constraint-closed organisation and the maintenance and re-establishment of organised persistence through change. That difference identifies an APS explanatory target and vocabulary; it does not by itself demonstrate explanatory gain over mechanistic accounts.
+
+The important question is therefore not whether mechanisms are capable, in principle, of explaining self-maintenance, regulation, repair, development, or adaptive reorganisation. Nor should these phenomena be reserved for APS by definition. The comparative question is whether, for a specified biological explanandum, APS identifies biologically consequential dependencies that are not adequately captured by the strongest relevant mechanistic explanation.
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: why-life-is-not-autopoiesis.md
+==================================================
+---
+date: 2026-04-27
+title: Why Life Is Not Autopoiesis
+slug: why-life-is-not-autopoiesis
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-04-27
+revised: 2026-09-14
+cluster: philosophy-of-biology
+role: clarification
+
+abstract: >
+  Autopoiesis transformed theoretical biology by making the self-producing
+  organisation of living systems an explicit explanatory target. Later
+  organisational and autonomy approaches developed related accounts of
+  self-maintenance, closure, regulation, normativity, and biological agency.
+  APS shares this concern with living organisation but does not identify life
+  with autopoiesis. It defines life as viability-oriented, constraint-closed
+  organisation and treats organised persistence as the explanatory problem of
+  how that organisation maintains and re-establishes continuity through
+  change. These differences establish non-identity and distinct explanatory
+  architectures; they do not by themselves show that APS explains living
+  organisation better than autopoietic or autonomy-based approaches.
+
+keyPoints:
+  - Autopoiesis made the self-producing organisation of living systems a major explanatory target in theoretical biology.
+  - Autopoietic and later autonomy approaches provide substantive accounts of organisation, self-production, closure, self-maintenance, autonomy, normativity, and biological agency.
+  - APS shares important organisational concerns with these approaches but is not identical with autopoiesis or autonomy theory.
+  - APS defines life as viability-oriented, constraint-closed organisation and biological agency as viability-oriented organisational activity.
+  - Organised persistence concerns how living organisation maintains and re-establishes continuity through change; it is not a second definition of life.
+  - Differences among autopoietic, autonomy, and APS architectures do not establish a progression of explanatory superiority.
+  - Where the approaches address the same explanatory target, comparative explanatory gain requires target-matched assessment.
+
+relatedGlossaryTerms:
+  - autopoiesis
+  - constraint-closure
+  - biological-agency
+  - viability
+  - normativity
+  - evolution
+
+relatedArticles:
+  - comparative-explanatory-methodology-theoretical-biology
+  - aps-and-contemporary-theories
+  - aps-and-autonomy-theory
+  - constraint-closure-what-it-does-and-does-not-do
+  - organism-the-unity-of-viability-oriented-organisation
+  - agency-as-the-defining-activity-of-life
+  - what-is-life-a-biological-question-revisited
+
+references:
+  - maturana-varela-1980-autopoiesis-cognition
+  - varela-1979-principles-biological-autonomy
+  - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2015-closure-constraints
+  - bich-ruiz-mirazo-moreno-2016-regulation
+  - virenque-mossio-2024-what-is-agency
+---
+
+OPENING BODY EXCERPT:
+
+
+**Life Demarcation:** This article asks whether autopoietic self-production is sufficient as an account of Life. Comparative questions concerning APS and autonomy theory are addressed separately in **[APS and Autonomy Theory](/articles/aps-and-autonomy-theory/)**.
+
+## Introduction
+Autopoiesis represents one of the most influential organisational approaches to life in modern theoretical biology. By shifting attention from the material composition of living systems toward the organisation through which they continuously produce and maintain themselves, it transformed discussions of life, individuality, autonomy, cognition, and biological explanation.
+
+APS shares this emphasis on living organisation. It likewise rejects the idea that organisms can be understood adequately by specifying their constituent materials alone and treats organisation as a real and scientifically investigable feature of living systems.
+
+The relationship should nevertheless not be described as a simple progression in which autopoiesis supplies an initial insight, autonomy theory corrects its limitations, and APS completes or broadens the resulting account. Autopoiesis, autonomy theory, and APS are related but distinguishable explanatory architectures, each of which makes substantive claims about living organisation.
+
+The title **Why Life Is Not Autopoiesis** therefore expresses a bounded non-identity claim. APS does not define life simply as autopoietic or self-producing organisation. It defines life as **viability-oriented, constraint-closed organisation** and biological agency as **viability-oriented organisational activity**. Organised persistence identifies the corresponding explanatory problem of how living organisation maintains and re-establishes continuity through change.
+
+These APS commitments do not establish that autopoiesis is scientifically inadequate or that APS provides a deeper, more complete, or more comprehensive account of living organisation. Where APS, autopoietic, or autonomy-based explanations address the same explanandum, their relative explanatory contribution must be assessed through target-matched comparison.
+
+The comparison follows the protocol established in [Comparative Explanatory Methodology in Theoretical Biology](/articles/comparative-explanatory-methodology-theoretical-biology/). The aim is to compare explanatory targets, organising principles, conceptual architectures, characteristic strengths, and explanatory scope without assuming in advance that their relationship must be one of succession, complementarity, incorporation, or superiority.
+
+## The Autopoietic Insight
+
+The central insight of autopoiesis is that living systems are organised networks of processes that continuously produce and maintain the components and relations required for their own continued organisation. Rather than defining organisms through a fixed material inventory, autopoietic theory directs attention toward the organisation through which a living system continuously constitutes and regenerates itself.
+
+This was an important shift in theoretical biology. Biological identity could be investigated through continuity of organisation despite continual material turnover. A living system could therefore remain organisationally identifiable even though many of its material constituents changed.
+
+Autopoiesis also made boundary constitution and organisational unity central to the problem of life. The system is not simply an externally assembled collection of parts; its own organised activity participates in producing and maintaining the conditions through which it continues as the system it is.
+
+These ideas helped establish organisation as an explanatory category in biological theory and contributed to later work on autonomy, normativity, biological individuality, self-maintenance, and agency.
+
+The significance of this contribution should not be overstated in the opposite direction. Autopoiesis need not be contrasted with mechanistic explanation as though mechanisms were necessarily static, reductive, or incapable of addressing organised biological processes. Mechanistic and organisational approaches may address overlapping or different explananda.
+
+APS shares the view that living organisation deserves explicit explanation. But sharing this explanatory concern does not make APS a version of autopoiesis, nor does APS's different formulation of life establish that autopoiesis is explanatorily deficient.
+
+[[box:how-aps-relates-to-other-theoretical-frameworks]]
+
+## What Autopoietic Approaches Explain
+
+Autopoietic approaches provide substantive explanatory resources for understanding organisational unity, self-production, boundary constitution, organisational identity, and continuity through material turnover.
+
+They make it possible to investigate how living systems contribute to producing and maintaining the components and relations through which they continue as organised systems. This is more than a description of self-maintenance. Autopoiesis proposes a distinctive account of the organisation constitutive of living systems.
+
+Autopoietic approaches also help distinguish living organisation from familiar externally assembled artefacts. The relevant contrast is not that artefacts lack mechanisms while organisms possess organisation, but that autopoietic systems participate through their own organisation in producing and maintaining the conditions of their continued constitution.
+
+These explanatory achievements remain important in contemporary theoretical biology. They should not be weakened merely because later organisational approaches employ different concepts or because APS gives explicit roles to viability orientation, constraint closure, biological agency, or organised persistence.
+
+APS nevertheless formulates living organisation differently. Its definition of life is **viability-oriented, constraint-closed organisation**, rather than autopoietic organisation as such. That difference establishes a legitimate comparative question about the relations among self-production, closure, viability, agency, and continuity.
+
+It does not establish that self-production explains only part of life, that autopoiesis requires completion by APS, or that APS supplies a more comprehensive explanation. Those conclusions require comparison at matched explanatory targets.
+
+BODY LINES EXTRACTED: 45
+

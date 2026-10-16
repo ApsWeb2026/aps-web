@@ -1,0 +1,1561 @@
+﻿==================================================
+FILE: from-aristotle-to-modern-biology-the-transformation-of-a-science.md
+==================================================
+---
+date: 2026-03-27
+title: "From Aristotle to Modern Biology: The Transformation of a Science"
+slug: "from-aristotle-to-modern-biology-the-transformation-of-a-science"
+type: article
+abstract: "This article traces the long transformation of biology from Aristotle’s organism-centred natural history to modern evolutionary, cellular, molecular, and systems-based science. It emphasises both rupture and continuity: biology changed its tools, scales, and theories, but retained the need to explain organised living systems."
+status: canonical
+revised: 2026-03-27
+cluster: philosophy-of-biology
+keyPoints:
+  - "Modern biology emerged through successive conceptual and technological transformations rather than simple rejection of Aristotle."
+  - "Darwin, cell theory, heredity, and molecular biology reconfigured biological explanation by adding historical, structural, and mechanistic depth."
+  - "Biology still retains an enduring concern with organised living systems, even in transformed explanatory form."
+relatedGlossaryTerms:
+  - evolution
+  - development
+  - function
+relatedArticles:
+  - the-two-founding-questions-of-biology
+  - aristotle-and-the-foundations-of-biology
+  - biological-agency-evolution-and-the-architecture-of-biological-explanation
+researchStreams: []
+references: []
+---
+
+OPENING BODY EXCERPT:
+
+
+In the classical Greek world, no clear boundary separated what we now call science from philosophy. Inquiry into nature, causation, ethics, politics, and knowledge formed a unified intellectual enterprise. Within this shared intellectual landscape, Plato and Aristotle developed contrasting metaphysical frameworks whose differences would profoundly influence subsequent science and Western intellectual life. Their divergence concerned not merely abstract doctrine, but the fundamental question of where intelligibility lies: in transcendent rational structure or in the organised character of concrete things.
+
+## Plato and Transcendent Intelligibility
+
+Plato's philosophy is structured around a distinction between the world of appearances and the world of Forms. In dialogues such as the *Republic* and the *Timaeus*, Plato argues that the sensory world is mutable and imperfect, whereas genuine knowledge concerns eternal, unchanging intelligible realities. The Forms exist independently of their material instances. Sensible objects participate in or approximate these Forms but never fully embody them. Knowledge therefore requires intellectual ascent beyond perception toward rational insight.
+
+In the *Timaeus*, Plato presents a cosmology in which a rational Demiurge orders pre-existing chaotic matter according to mathematical proportion. The cosmos is intelligible because it reflects rational structure. Mathematics occupies a privileged role in this vision. The more closely a domain approximates mathematical order, the more fully it participates in truth. Geometry, proportion, and harmony become paradigms of explanation.
+
+This orientation encourages a conception of knowledge that privileges abstraction and deductive reasoning. The sensible world is secondary to intelligible structure. Plato's influence, especially through later Neoplatonism and Christian theology, reinforced the idea that ultimate reality transcends material phenomena.
+
+## Aristotle and Immanent Organisation
+
+Aristotle, though a student of Plato, rejected this separation of Forms from particular things. For Aristotle, form does not inhabit a separate realm but exists as the organising principle of concrete substances. In his hylomorphic account of reality, substances are composites of matter and form. Form is not an abstract template but the immanent structure that makes a thing what it is. Intelligibility lies within the organised particular, not beyond it.
+
+This shift carries profound implications for the study of nature. Whereas Plato directs inquiry upward toward intelligible universals, Aristotle directs it outward toward the structured world. Knowledge begins with perception. Through systematic observation, comparison, and classification, the investigator identifies patterns and causal relations. AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s biological works exemplify this orientation. Animals and plants are studied as organised beings whose parts are coordinated in relation to characteristic activities.
+
+## Causation and Explanation
+
+AristotleÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s theory of causation further distinguishes his framework. He articulates four explanatory modes: material, formal, efficient, and final causes. Final causation in his biological writings does not refer to external planning but to internal  organisation. Organs exist "for the sake of" characteristic functions because those functions define the organism's mode of life. Teleology, in this sense, expresses structured coordination within living systems.
+
+Material processes constrain what is possible, but they do not by themselves explain why a structure has its particular biological organisation. Aristotle therefore provides an explanatory framework especially suited to organised life.
+
+## Two Long Inheritances
+
+Over the centuries, these divergent orientations shaped intellectual development in different ways. Platonic traditions nourished metaphysical idealism and strengthened the conviction that mathematical order reveals the deep structure of reality. Aristotelian traditions, especially in natural history and biology, encouraged systematic observation and organism-centred explanation.
+
+The Scientific Revolution did not simply replace one with the other. Instead, elements of both traditions converged and transformed. Mathematical abstraction became central to physics, while empirical investigation and experimental method reshaped anatomy, physiology, and natural history. Modern science thus integrates abstraction and observation, theoretical modelling and empirical inquiry.
+
+## Conclusion
+
+The tension between transcendent rational structure and immanent biological organisation has never fully disappeared. In contemporary science, mathematical formalism remains essential in physics and cosmology, while biology retains a strong commitment to studying organised systems in their concrete particularity.
+
+Understanding the contrast between Plato and Aristotle clarifies how foundational metaphysical commitments shape approaches to knowledge. Plato locates intelligibility in abstract rational order beyond the material world; Aristotle locates it within the structured biological organisation of particular beings. Modern inquiry carries both inheritances. The aspiration toward rational structure and the commitment to studying organised reality as it presents itself remain intertwined legacies of these two foundational thinkers.
+
+
+
+
+BODY LINES EXTRACTED: 37
+
+==================================================
+FILE: function-and-normativity-why-biological-organisation-matters.md
+==================================================
+---
+date: 2026-05-28
+title: Function and Normativity - Why Biological Organisation Matters
+slug: function-and-normativity-why-biological-organisation-matters
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-24
+revised: 2026-09-28
+cluster: philosophy-of-biology
+role: core
+
+abstract: >
+  What makes a biological process a function rather than merely something
+  that happens? This article addresses a central question in the philosophy
+  of biology by examining teleological, selected-effects, causal-role, and
+  organisational accounts of biological function. It argues that biological functions are viability-relative organisational contributions within living organisation rather than externally assigned purposes, historically selected effects alone, or isolated mechanistic roles. From this organisational
+  foundation, biological normativity emerges because organised persistence
+  can succeed or fail across changing conditions. The article further shows
+  how agency, evaluation, semiosis, adaptation, malfunction, ecological
+  coupling, and diagnosis become intelligible as interdependent aspects of
+  viability-oriented organised persistence. APS therefore provides a unified
+  organisational framework that naturalises biological function, normativity,
+  and biological significance without reductionism, vitalism, or externally
+  imposed teleology.
+
+keyPoints:
+  - Biological functions are viability-relative organisational contributions within living organisation rather than externally assigned purposes, historically selected effects alone, or isolated mechanistic roles.
+  - Biological normativity emerges because organised persistence can succeed or fail across changing conditions, establishing intrinsic standards of biological success and failure.
+  - Agency, evaluation, semiosis, adaptation, and malfunction become intelligible as organisational expressions of viability-oriented organised persistence.
+  - Functional organisation is realised through temporally organised, reconstructive organism–environment relations whose relevant spatial and temporal extent depends upon the biological case.
+  - APS provides a unified organisational framework that naturalises biological function, normativity, and biological significance without reductionism, vitalism, or externally imposed teleology.
+
+relatedGlossaryTerms:
+  - function
+  - normativity
+  - viability
+  - persistence
+  - biological-organisation
+  - biological-agency
+  - evaluation
+  - significance
+  - semiosis
+  - purpose
+  - adaptation
+  - malfunction
+  - mechanism
+  - temporal-organisation
+  - organism-environment-coupling
+  - process
+  - scale
+  - diagnosis
+  - organisational-realism
+
+relatedArticles:
+  - biological-organisation
+  - viability-the-organising-principle-of-biological-persistence
+  - persistence-organised-continuity-through-time
+  - function-as-operational-organisation
+  - biological-agency-as-the-activity-of-self-maintenance
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - malfunction-breakdown-and-death
+  - diagnosis-as-continuity-analysis
+  - organism-environment-coupling
+  - explanatory-geometry-of-biology
+  - explanatory-priority-is-not-ontological-priority
+  - organisational-realism-in-biology
+  - why-life-is-not-a-machine
+  - why-aps-is-not-organicism
+
+references:
+  - id: wright-1973-functions
+    authors: Wright, L.
+    year: 1973
+    title: Functions
+    journal: The Philosophical Review
+    volume: "82"
+    issue: "2"
+    pages: "139â€“168"
+    doi: 10.2307/2183766
+
+  - id: cummins-1975-functional-analysis
+    authors: Cummins, R.
+    year: 1975
+    title: Functional Analysis
+    journal: The Journal of Philosophy
+    volume: "72"
+    issue: "20"
+    pages: "741â€“765"
+    doi: 10.2307/2024640
+
+  - id: millikan-1984-biological-categories
+    authors: Millikan, R. G.
+    year: 1984
+    title: "Language, Thought, and Other Biological Categories: New Foundations for Realism"
+    publisher: MIT Press
+
+  - id: neander-1991-functions-selected-effects
+    authors: Neander, K.
+    year: 1991
+    title: "Functions as Selected Effects: The Conceptual Analyst's Defense"
+    journal: Philosophy of Science
+    volume: "58"
+    issue: "2"
+    pages: "168â€“184"
+    doi: 10.1086/289610
+
+  - id: godfrey-smith-1993-functions
+    authors: Godfrey-Smith, P.
+    year: 1993
+    title: "Functions: Consensus Without Unity"
+    journal: Pacific Philosophical Quarterly
+    volume: "74"
+    issue: "3"
+    pages: "196â€“208"
+    doi: 10.1111/j.1468-0114.1993.tb00358.x
+
+  - id: mossio-saborido-moreno-2009-organizational-functions
+    authors: Mossio, M., Saborido, C. and Moreno, A.
+    year: 2009
+    title: An Organizational Account of Biological Functions
+    journal: The British Journal for the Philosophy of Science
+    volume: "60"
+    issue: "4"
+    pages: "813â€“841"
+    doi: 10.1093/bjps/axp036
+
+  - id: garson-2016-critical-overview
+    authors: Garson, J.
+    year: 2016
+    title: A Critical Overview of Biological Functions
+    publisher: Springer
+    doi: 10.1007/978-3-319-32020-5
+
+  - id: moreno-mossio-2015-biological-autonomy
+    authors: Moreno, A. and Mossio, M.
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: Springer
+    doi: 10.1007/978-94-017-9837-2
+
+  - id: mossio-bich-2017-organisation-teleological
+    authors: Mossio, M. and Bich, L.
+    year: 2017
+    title: What Makes Biological Organisation Teleological?
+    journal: Synthese
+    volume: "194"
+    issue: "4"
+    pages: "1089â€“1114"
+    doi: 10.1007/s11229-014-0594-z
+
+  - id: craver-2007-explaining-brain
+    authors: Craver, C. F.
+    year: 2007
+    title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
+    publisher: Oxford University Press
+    doi: 10.1093/acprof:oso/9780199299317.001.0001
+
+  - id: nicholson-dupre-2018-everything-flows
+    authors: Nicholson, D. J. and DuprÃ©, J., eds.
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: Oxford University Press
+    doi: 10.1093/oso/9780198779636.001.0001
+
+  - id: garson-2019-biological-functions
+    authors: Garson, J.
+    year: 2019
+    title: What Biological Functions Are and Why They Matter
+    publisher: Cambridge University Press
+    doi: 10.1017/9781108560764
+
+  - id: spencer-2026-agency-defining-activity
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00547-6
+---
+
+OPENING BODY EXCERPT:
+
+
+> **Where this article fits:** This article addresses the conceptual question of *what biological function is* (definition and justification). Its role is to naturalise function and normativity within contemporary philosophy of biology. It examines the principal philosophical accounts of function, explains why function is inherently normative, and shows how APS grounds both within viability-oriented biological organisation. Readers seeking to understand how functions operate within the wider APS architecture should continue with *Function â€” How Living Systems Make Persistence Operational* (organisation and operation).
+
+## Introduction
+
+What makes a biological process a function rather than merely something that happens?
+
+Few concepts have been more centralâ€”or more contestedâ€”in biology than biological function. Biologists routinely describe hearts as pumping blood, kidneys as filtering waste, leaves as capturing light, immune systems as defending organisms, and nervous systems as coordinating behaviour. Yet what distinguishes these activities as functions, rather than simply causal processes, has remained one of the enduring questions of the philosophy of biology.
+
+Over the past century, several influential answers have been proposed. Some accounts explain function through evolutionary history, arguing that functions are the effects for which traits were selected. Others understand function as the causal contribution that a component makes within a larger system. More recent organisational approaches locate function within the self-maintaining organisation of living systems. Each of these perspectives captures an important aspect of biological explanation, yet none fully explains why biological functions are intrinsically related to the continued existence of the organisms that enact them.
+
+APS argues that biological function becomes intelligible as viability-relative organisational contribution within living organisation. A process is functional insofar as its activity makes a viability-relative contribution within the organisation through which a living system maintains and re-establishes the conditions of its own persistence across changing conditions. Functions are therefore not externally assigned purposes, merely historical evolutionary effects, or isolated mechanistic roles. They are present-tense organisational contributions whose functional significance is established relative to viability.
+
+Understanding function in this way also explains why biological normativity emerges naturally. Because organised persistence can succeed or fail, some organisational contributions preserve viability while others undermine it. Functional organisation therefore establishes intrinsic distinctions between success and failure, maintenance and breakdown, adaptation and dysfunction. These distinctions are not imposed by external observers but emerge from the organisation of living systems themselves.
+
+This account has consequences extending well beyond function alone. By grounding function in viability-oriented organised persistence, APS also explains how mechanisms acquire biological significance, how agency enacts functional organisation, how evaluation operationalises normativity, how semiosis emerges from biologically significant differences, how adaptation reorganises continuity-preserving activity, and why malfunction and diagnosis are objective features of living organisation rather than merely descriptive labels.
+
+This article develops that organisational account of function and examines its implications for biological explanation more broadly. Throughout, APS argues that function is not an isolated biological concept but one expression of the viability-oriented organisation through which living systems actively sustain themselves across continual change.
+
+## Different Senses of Biological Function
+
+The word *function* is used in several different senses in biology, and these uses should not be assumed to identify the same explanatory relation. A causal contribution made by a component, the evolutionary history of a trait, a role in development, an ecological effect, and a contribution to the continuing viability of a living system can all be described as functions, but they answer different biological questions.
+
+Distinguishing these senses is important for APS because its account of function is deliberately specific. APS does not treat every effect produced by a biological structure or process as its function, nor does it identify present biological function with the historical reason that a trait arose or was retained. Function concerns the contribution that a structure, process, or activity makes to viable living organisation.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/philosophy-function.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/philosophy-function.png"
+      alt="Comparison of causal-role, selected-effect, organisational, teleonomic, developmental, and ecological senses of biological function and their relationship to the APS account."
+      loading="lazy"
+    />
+  </a>
+
+  <p class="aps-diagram-caption">
+    <strong>Different Senses of Biological Function.</strong>
+    Biological uses of function answer different explanatory questions. APS
+    distinguishes causal contribution, evolutionary history, developmental
+    role, ecological effect, and goal-directed description from the more
+    specific viability-relative organisational relation that warrants
+    functional attribution within living organisation.
+  </p>
+</div>
+
+The distinctions in the table are explanatory rather than hierarchical. They do not arrange biological functions into successive stages or imply that one kind of explanation must replace the others. A selected-effect explanation, for example, can explain why a trait was historically established or retained, while a present-tense organisational explanation can ask what contribution that trait now makes within living organisation. These questions can be compatible without being identical.
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: information-in-biology-an-aps-clarification.md
+==================================================
+---
+date: 2026-05-15
+title: "Information in Biology: An APS Clarification"
+slug: information-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+cluster: philosophy-of-biology
+abstract: >
+  Information is one of the most widely used and ambiguously defined concepts
+  in biology. Genes are described as informational, nervous systems as
+  information-processing systems, and organisms as informationally coupled to
+  their environments. APS argues that biological information should not be
+  treated as the foundational explanatory basis of life. Informational
+  significance arises within viability-oriented living organisation in which
+  differences can affect regulation, evaluation, coordination, and continued
+  functioning. Biological information is therefore interpreted relationally
+  and organisationally: what counts as information depends on how differences
+  participate in the organised persistence of living systems. This article
+  clarifies that claim while distinguishing biological significance from
+  statistical information and locating information in relation to semiosis,
+  meaning, representation, cognition, and biological agency.
+relatedGlossaryTerms:
+  - information
+  - semiosis
+  - evaluation
+  - meaning
+  - representation
+  - cognition
+  - normativity
+  - viability
+  - biological-agency
+  - persistence
+  - temporality
+  - process
+  - scale
+  - continuity
+  - biological-organisation
+relatedArticles:
+  - meaning-in-biology-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-information-processing
+  - why-life-is-not-computation-an-aps-clarification
+  - why-life-is-not-active-inference
+  - why-ai-is-not-biological-agency
+  - biological-causation-from-mechanism-to-organised-persistence
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
+references:
+  - id: shannon1948
+    authors: "Shannon, C. E."
+    year: 1948
+    title: "A Mathematical Theory of Communication"
+    journal: "Bell System Technical Journal"
+    volume: "27"
+    pages: "379–423, 623–656"
+    doi: "10.1002/j.1538-7305.1948.tb01338.x"
+  - id: maynard-smith2000
+    authors: "Maynard Smith, J."
+    year: 2000
+    title: "The Concept of Information in Biology"
+    journal: "Philosophy of Science"
+    volume: "67"
+    pages: "177–194"
+    doi: "10.1086/392768"
+  - id: oyama2000
+    authors: "Oyama, S."
+    year: 2000
+    title: "The Ontogeny of Information"
+    publisher: "Duke University Press"
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+  - id: noble2016
+    authors: "Noble, D."
+    year: 2016
+    title: "Dance to the Tune of Life: Biological Relativity"
+    publisher: "Cambridge University Press"
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    publisher: "Harvard University Press"
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+# Information in Biology — An APS Clarification
+
+> **Where this article fits:** This article clarifies the place of information within APS. It does not argue that informational descriptions are scientifically unimportant, nor does it attempt to replace information-theoretic explanations with a single alternative vocabulary. Its narrower claim is that biological information becomes explanatorily significant within already organised living systems whose activities are oriented toward viability and continued functioning. Information is therefore treated as relationally and organisationally situated rather than as the foundational property from which life, meaning, agency, or cognition can simply be derived.
+
+Information has become one of the most pervasive explanatory concepts in modern biology. Genes are routinely described as carrying information, signalling pathways as transmitting it, nervous systems as processing it, and organisms as acquiring information about their environments. Similar language extends into developmental biology, systems biology, neuroscience, artificial intelligence, and cognitive science. The success of these usages reflects genuine biological phenomena: living systems are sensitive to differences, coordinate activity through signalling, preserve and transform molecular patterns, and alter their behaviour in response to changing conditions.
+
+The difficulty is that the word *information* does not have a single biological meaning. It may refer to statistical structure, transmitted signal, causal specificity, encoded sequence, functional dependence, semantic content, or a difference that matters to an organism. These uses can overlap, but they are not interchangeable. Confusion arises when the explanatory achievements of one informational concept are transferred without argument to another, or when the existence of informational relations is taken to show that information itself provides the foundational explanation of living organisation.
+
+APS approaches this issue from the organisation of life rather than from an information-first starting point. Life is defined as viability-oriented, constraint-closed organisation. Within such organisation, differences can acquire biological significance because they alter conditions relevant to continued functioning, regulation, development, behaviour, or persistence. Information, on this account, is not dismissed or reduced to something unreal. It is situated within the organisation that makes biological differences consequential.
+
+This distinction matters because the question is not simply whether living systems use, transmit, or process information. They plainly do. The explanatory question is what makes some differences biologically significant, how that significance is organised, and what role informational description contributes to a specified biological explanandum. APS therefore treats information as an important but non-foundational concept whose biological significance must be understood in relation to agency, evaluation, semiosis, temporality, and organised persistence.
+
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
+
+[[box:aps-box-semiosis-is-operational]]
+
+# Why Information Became Central
+
+The prominence of information in biology has strong historical and scientific justification. Twentieth-century developments in communication theory, cybernetics, molecular genetics, computation, and neuroscience provided powerful formal tools for analysing signalling, coding, transmission, uncertainty, regulation, and coordination. Shannon's mathematical theory of communication gave information a precise statistical meaning, while the growth of molecular biology encouraged informational descriptions of genetic sequence and gene expression. Cybernetic and computational approaches further reinforced the idea that biological systems could be understood in terms of signals, feedback, coding, and control.
+
+These developments transformed biological inquiry. Informational concepts helped researchers describe the transmission of molecular patterns, the coordination of gene expression, sensory processing, neural signalling, developmental regulation, and communication among cells and organisms. Nothing in APS requires these explanatory achievements to be denied. An account of biological organisation that could not accommodate signalling, coding, communication, or information processing would be seriously incomplete.
+
+The conceptual problem begins only when informational description is asked to do more than the relevant evidence establishes. Describing a signal as informative does not by itself explain why that signal matters to a living system. Identifying a genetic sequence does not by itself specify how its effects depend on cellular organisation, developmental context, or organism–environment relations. Quantifying uncertainty reduction does not by itself establish biological meaning. Nor does demonstrating information processing show that information processing constitutes the organisation of life.
+
+APS therefore distinguishes the scientific usefulness of informational approaches from claims about their explanatory scope. Its comparative methodology asks what an informational account explains for a specified target, what other organisational dependencies are required for that explanation, and whether an alternative account adds anything beyond redescription or conceptual reframing. The relevant comparison must be made against a matched explanandum rather than inferred from vocabulary alone.
+
+This is also why APS does not treat information theory, cybernetics, computation, autonomy theory, or the Free Energy Principle as interchangeable competitors. They may address different questions, operate with different formal resources, and illuminate different aspects of biological organisation. Comparison becomes meaningful only when their explanatory targets overlap sufficiently for the contrast to be assessed.
+
+# Shannon Information and Biological Meaning
+
+A central distinction concerns Shannon information. In mathematical communication theory, information concerns statistical relations among possible signals and, in particular, the reduction of uncertainty associated with message transmission. This framework is exceptionally powerful because it permits communication to be analysed without requiring an account of what a message means to a sender or receiver.
+
+That very strength also marks an important boundary. Shannon information does not, by itself, explain biological significance. A signal may be statistically informative while making no difference to the viability, regulation, or activity of a particular living system. Conversely, a difference of modest statistical complexity may have profound biological consequences if it alters a process upon which continued functioning depends.
+
+The distinction is therefore not between "real" information and some merely metaphorical biological substitute. It is between different explanatory questions. Shannon theory characterises statistical structure and transmission. Biological explanation may additionally require an account of why a difference is consequential for a particular organised system.
+
+Consider a chemical gradient encountered by a bacterium. The gradient can be described quantitatively in information-theoretic terms, but its biological significance depends on how sensitivity to that gradient participates in the bacterium's metabolism, regulation, movement, and prospects for continued functioning. The relevant biological relation is therefore not exhausted by the statistical properties of the signal. What matters is how the difference enters the organisation of activity.
+
+APS uses the term **biological significance** for this viability-relative consequentiality. Biological significance does not require conscious interpretation, reflective judgement, or symbolic representation. It arises wherever differences alter conditions relevant to the organised persistence of a living system. In this sense, APS separates the statistical character of information from the biological question of what makes a difference matter.
+
+[[box:aps-box-viability-grounds-evaluation]]
+
+# Evaluation and Biological Information
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: meaning-in-biology-an-aps-clarification-ci.md
+==================================================
+---
+date: 2026-05-15
+title: "Meaning in Biology — An APS Clarification"
+slug: meaning-in-biology-an-aps-clarification
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+cluster: philosophy-of-biology
+role: clarification
+
+abstract: >
+  Meaning is often invoked in biology when organisms respond to signals,
+  interpret environmental differences, regulate activity, communicate, or
+  behave in ways sensitive to context. APS distinguishes these phenomena from
+  biological significance itself. Biological evaluation generates significance:
+  differences become relationally real for living systems because they bear
+  differently upon viability. Significance is therefore not yet meaning.
+  Integration and cognition can organise biological significance across time and
+  across viability-relevant possibilities, while semiosis, information, and
+  representation identify further relations that must not be conflated with one
+  another. This article clarifies the biological conditions relevant to the
+  emergence of meaning without attributing meaning wherever biological
+  significance occurs.
+
+relatedGlossaryTerms:
+  - meaning
+  - semiosis
+  - evaluation
+  - information
+  - representation
+  - cognition
+  - normativity
+  - viability
+  - persistence
+  - continuity
+  - temporality
+  - biological-agency
+  - function
+  - biological-organisation
+  - process
+  - scale
+
+relatedArticles:
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - function-and-normativity-why-biological-organisation-matters
+  - information-in-biology-an-aps-clarification
+  - representation-when-and-whether-it-arises-in-biological-systems
+  - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-information-processing
+  - why-life-is-not-active-inference
+  - why-ai-is-not-biological-agency
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
+  - temporal-organisation-and-organised-persistence
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
+
+references:
+  - id: peirce1931
+    authors: "Peirce, C. S."
+    year: 1931
+    title: "Collected Papers of Charles Sanders Peirce"
+    publisher: "Harvard University Press"
+
+  - id: uexkull2010
+    authors: "von Uexküll, J."
+    year: 2010
+    title: "A Foray into the Worlds of Animals and Humans"
+    publisher: "University of Minnesota Press"
+
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+
+  - id: varela1991
+    authors: "Varela, F. J., Thompson, E., & Rosch, E."
+    year: 1991
+    title: "The Embodied Mind"
+    publisher: "MIT Press"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    publisher: "Harvard University Press"
+
+  - id: barbieri2008
+    authors: "Barbieri, M."
+    year: 2008
+    title: "Biosemiotics: A New Understanding of Life"
+    publisher: "Springer"
+
+  - id: moreno2015
+    authors: "Moreno, A., & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: "Springer"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+## Introduction
+
+Meaning presents a difficult problem for biology because the word is used across very different explanatory contexts. It can refer to linguistic semantics, symbolic reference, intentional content, interpretation, environmental significance, signalling, representation, or the importance that something has for a living system. Treating all of these uses as instances of a single biological phenomenon risks collapsing distinctions that explanation requires.
+
+APS approaches this problem by beginning with living organisation rather than with language or symbolic representation. Living systems encounter conditions that differ in how they bear upon their viability. Their activity can maintain, restore, modify, or undermine the conditions of continued functioning. These differences are not merely distinctions imposed by an observer; they become relationally real through the organisation of biological activity.
+
+APS calls the process through which agency generates this significance **Biological Evaluation**. Biological significance is therefore a relationally real product of biological evaluation. A nutrient gradient, damaging condition, developmental cue, physiological deviation, or environmental change can matter to a living system because its consequences differ relative to the system's viability.
+
+This establishes an important biological foundation for the study of meaning, but it does not establish that significance and meaning are identical. **Biological significance is not meaning.** The fact that something matters to a living system does not by itself show that the system interprets that significance in the richer sense required for meaning.
+
+The task of this article is therefore one of clarification. It asks how biological significance, semiosis, information, representation, cognition, and meaning should be related without collapsing them into one another or arranging them into an automatic sequence. Its purpose is not to establish a universal threshold for meaning, but to identify the biological organisation from which increasingly rich forms of interpretation can become possible.
+
+## Where This Article Fits
+
+This article clarifies the boundary between **biological significance** and **meaning** within APS. Its primary purpose is to prevent the fact that conditions matter biologically from being treated as sufficient evidence that meaning is already present.
+
+The preceding APS architecture establishes that biological agency is viability-oriented organisational activity and that Biological Evaluation is the process through which agency generates significance. Significance therefore belongs directly to the organisation of living activity. Cognition introduces a further organisational development: the organisation of biological significance across time and across viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+The present article occupies the conceptual space between those foundations and the broader account developed in *What Is Meaning?*. It asks when biological talk of meaning becomes warranted and how meaning should be distinguished from neighbouring concepts such as significance, semiosis, information, representation, and cognition. *What Is Meaning?* owns the broader positive account of meaning within the later cognition–mind–selfhood–reflective-agency architecture.
+
+This article should therefore not be read as claiming that all living systems possess meaning merely because they evaluate viability-relevant differences. It establishes the biological conditions from which meaning can develop while preserving the distinction between **what matters biologically** and **what becomes meaningfully interpreted**.
+
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
+
+[[box:aps-box-semiosis-is-operational]]
+
+[[box:significance-and-related-concepts]]
+
+## Biological Significance Is Not Meaning
+
+The distinction between significance and meaning is fundamental to the APS account.
+
+Living systems are organised in ways that make some differences consequential for their continued functioning. A change in nutrient availability can alter metabolic possibilities; tissue damage can initiate repair; a physiological deviation can trigger compensatory regulation; and an environmental condition can alter the viability of an organism's activity. Such differences matter because they bear differently upon living organisation.
+
+APS calls this **biological significance**. Significance does not require language, reflective awareness, conceptual interpretation, or symbolic representation. It arises relationally because a viability-oriented living system is organised such that different conditions have different consequences for its persistence.
+
+Meaning requires greater caution. If every biologically significant difference were defined as meaningful, meaning would become nearly coextensive with biological agency itself. The distinction between a condition mattering to a system and a system organising that significance in an interpretive way would disappear.
+
+APS therefore resists that collapse. Biological evaluation can generate significance without establishing meaning. Significance provides material from which meaning may develop, but the transition requires further organisation.
+
+This distinction allows APS to naturalise biological significance without prematurely attributing interpretive capacities to all living systems.
+
+<div class="aps-diagram">
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it.md
+==================================================
+---
+date: 2026-04-05
+title: "Mentalistic Language in Biology — Why It Persists and How APS Clarifies It"
+slug: "mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it"
+type: article
+abstract: "This article explains why mentalistic language persists in biology, what explanatory work it is trying to do, and how APS clarifies that role without relying on anthropomorphic assumptions."
+status: canonical
+revised: 2026-04-05
+cluster: philosophy-of-biology
+keyPoints:
+  - "Mentalistic language persists because biology must describe purposive, evaluative biological organisation."
+  - "APS clarifies the explanatory role of such language without reducing it to anthropomorphism."
+  - "Terms like biological agency, meaning, and evaluation can be retained when they are grounded in viability-oriented biological organisation."
+relatedGlossaryTerms:
+  - biological-agency
+  - normativity
+  - cognition
+  - purpose
+  - function
+relatedArticles:
+  - biological-goals-without-mentalism
+  - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
+  - biological-agency-without-intentions
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - purpose-the-organisation-of-viability-oriented-activity
+researchStreams: []
+references: []
+---
+
+OPENING BODY EXCERPT:
+
+
+## Why Mentalistic Language Persists in Biology
+
+One of the strongest sources of resistance to the Agency–Process–Scale (APS) framework does not come from data, experiments, or formal theory. It comes from language.
+
+Many readers instinctively recoil when terms such as **biological agency**, **purpose**, **decision-making**, **preference**, or **cognition** are used to describe bacteria, plants, or cells. These words feel irredeemably human. They seem to belong to conscious deliberation, inner experience, or psychological life. When applied to non-human organisms, the language can sound anthropomorphic, metaphorical, or simply confused.
+
+This reaction is understandable. But APS argues that the problem does not lie in biology overreaching—it lies in a historical mismatch between language and theory. Terms that originated in human psychology have been pressed into service to describe biological organisation long before we had a coherent account of what those terms actually track.
+
+APS does not deny this tension. It explains it.
+
+## The Source of the Discomfort
+
+The phrase **mentalistic language** (or **cognitive metaphor**) is often used pejoratively in biology and cognitive science. It refers to terms that appear to presuppose inner mental states: intentions, beliefs, goals, preferences, and reasons.
+
+Critics worry that such language:
+
+- illegitimately projects human consciousness onto non-human systems  
+- obscures mechanistic explanation  
+- or reintroduces teleology under a different name  
+
+APS agrees with the concern—but not with the conclusion.
+
+The mistake is to assume that these terms must refer to conscious mental contents. Historically, many did. But their scientific usefulness has never depended on that assumption.
+
+In practice, biological science already relies on this language:
+
+- cells regulate  
+- plants anticipate drought  
+- bacteria choose metabolic pathways  
+- immune systems recognise threats  
+- organisms value some states over others  
+
+These usages persist because they point to real organisational regularities—not because scientists believe cells are thinking like humans.
+
+APS therefore asks:
+
+**What must a system be like, organisationally, for these descriptions to be objectively warranted?**
+
+## From Inner States to Organised Activity
+
+APS does not begin with psychology. It begins with viability.
+
+More precisely, APS begins with **viability-oriented, constraint-closed biological organisation**—the condition under which a system maintains and regenerates the constraints that sustain its own persistence.
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: multiple-realization-and-biological-organisation.md
+==================================================
+---
+date: 2026-05-27
+title: "Multiple Realization and Biological Organisation — An APS Clarification"
+slug: multiple-realization-and-biological-organisation
+
+abstract: >
+  This article reinterprets the historical debate over multiple
+  realization through the APS framework. APS argues that the debate
+  emerged from attempts to understand how biological and cognitive
+  organisation can remain explanatorily coherent across materially
+  distinct implementations, but became unstable because it lacked an
+  explicit account of viability-oriented organisation. APS therefore
+  reconstructs realization in organisational rather than merely
+  functional terms by grounding explanatory equivalence in
+  persistence-maintaining, constraint-closed systems whose mechanisms
+  participate within continuity-preserving biological organisation.
+
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-27
+revised: 2026-06-15
+
+cluster: philosophy-of-biology
+
+relatedGlossaryTerms:
+  - biological-organisation
+  - constraint-closure
+  - function
+  - normativity
+  - process
+  - scale
+  - organised-persistence
+  - viability
+  - cognition
+  - emergence
+  - reductionism
+  - mechanism
+  - processual-individual
+
+relatedArticles:
+  - biological-explanation-and-organised-persistence
+  - organisational-realism-in-biology
+  - processual-individuality
+  - emergence-in-biology-an-aps-clarification
+  - explanatory-geometry-of-biology
+  - description-explanation-and-definition-in-biology
+  - why-life-is-not-computation-an-aps-clarification
+  - why-ai-is-not-biological-agency
+  - cognition-from-life-to-mind-continuity-without-mentalism
+  - ecological-organisation
+  - organism-environment-coupling
+
+references:
+  - id: putnam1967
+    authors: "Putnam, H."
+    year: 1967
+    title: "Psychological Predicates"
+    publisher: "University of Pittsburgh Press"
+
+  - id: fodor1974
+    authors: "Fodor, J. A."
+    year: 1974
+    title: "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)"
+    journal: "Synthese"
+    volume: "28"
+    pages: "97–115"
+
+  - id: kim1992
+    authors: "Kim, J."
+    year: 1992
+    title: "Multiple Realization and the Metaphysics of Reduction"
+    journal: "Philosophy and Phenomenological Research"
+    volume: "52(1)"
+    pages: "1–26"
+
+  - id: morenomossio2015
+    authors: "Moreno, A. & Mossio, M."
+    year: 2015
+    title: "Biological Autonomy"
+    publisher: "Springer"
+    doi: "10.1007/978-94-017-9837-2"
+
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    publisher: "Harvard University Press"
+
+  - id: bechtel2008
+    authors: "Bechtel, W."
+    year: 2008
+    title: "Mental Mechanisms"
+    publisher: "Routledge"
+
+  - id: bichbechtel2021
+    authors: "Bich, L. & Bechtel, W."
+    year: 2021
+    title: "Mechanism, Autonomy, and Biological Explanation"
+    journal: "Biology & Philosophy"
+    volume: "36(6)"
+    doi: "10.1007/s10539-021-09829-8"
+
+  - id: bechtelburnston2026
+    authors: "Bechtel, W. & Burnston, D. C."
+    year: 2026
+    title: "Continually Discovering Complexity: Introduction to the Special Issue"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00539-6"
+
+  - id: mundale2026
+    authors: "Mundale, J."
+    year: 2026
+    title: "Multiple Realizability: Still Something After All These Years"
+    journal: "Biological Theory"
+    pages: "1–11"
+    doi: "10.1007/s13752-026-00538-7"
+
+  - id: nicholsondupre2018
+    authors: "Nicholson, D. J. & Dupré, J."
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: "Oxford University Press"
+
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+## Introduction
+
+The concept of multiple realization has played a central role in twentieth- and twenty-first-century philosophy of mind, philosophy of science, and theoretical biology.
+
+At its core lies a deceptively simple question:
+
+How can the same biological or cognitive phenomenon occur across materially distinct systems?
+
+The concept became especially influential through arguments that mental or biological phenomena could not be straightforwardly reduced to specific physical substrates. If capacities such as memory, perception, regulation, or adaptive behaviour could be instantiated by many different material organisations, then higher-level sciences could not simply collapse into lower-level physical description.
+
+Multiple realization therefore became closely associated with:
+- anti-reductionism,
+- functional explanation,
+- and the autonomy of the special sciences.
+
+At the same time, the concept also became increasingly unstable. Critics argued that many formulations lacked clear criteria for determining what counted as the “same” realised phenomenon across materially distinct implementations.
+
+APS interprets this instability as revealing a deeper conceptual problem.
+
+The historical debate recognised that biological and cognitive organisation possess explanatory autonomy, but it lacked an explicit account of the organisational conditions under which such autonomy becomes biologically meaningful.
+
+APS therefore reconstructs realization in organisational rather than merely functional terms.
+
+## The Classical Multiple-Realization Thesis
+
+The modern formulation of multiple realization is most closely associated with Hilary Putnam and Jerry Fodor.
+
+Putnam argued that mental states could not be identified with specific physical states because the same psychological capacities might, in principle, be instantiated in very different material systems. Fodor later extended this argument in defence of the special sciences, claiming that higher-level explanatory categories grouped together phenomena realised through diverse lower-level mechanisms.
+
+The classical position therefore depended upon two central claims.
+
+First, higher-level properties were treated as relatively independent from their material substrates.
+
+Second, explanatory significance increasingly shifted toward:
+- causal role,
+- functional organisation,
+- and abstract pattern
+rather than exact material composition.
+
+This move helped legitimise:
+- psychology,
+- biology,
+- and cognitive science
+as explanatorily autonomous disciplines.
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: naturalising-life-how-biological-concepts-become-scientifically-intelligible-ci.md
+==================================================
+---
+title: Naturalising Life
+slug: naturalising-life
+description: >
+  Naturalising Life examines an APS methodological approach to difficult
+  biological concepts. It asks how naturalisation and conceptual closure can
+  help move concepts such as purpose, agency, cognition, significance, meaning,
+  and mind from conceptual ambiguity toward scientifically assessable
+  formulations without treating conceptual coherence as empirical validation
+  or explanatory superiority.
+type: article
+date: 2026-07-08
+revised: 2026-09-02
+status: canonical
+canonical: true
+canonicalLockDate: 2026-07-08
+cluster: philosophy-of-biology
+role: synthesis
+
+abstract: |
+  Many important biological concepts—including purpose, agency, cognition,
+  significance, meaning, and mind—remain conceptually contested despite
+  substantial empirical investigation. This article examines an APS
+  methodological proposal for addressing such difficulties through
+  naturalisation and conceptual closure. Naturalisation seeks biologically
+  tractable formulations of difficult phenomena, while conceptual closure
+  clarifies the terms, relations, boundaries, and explanatory targets needed
+  for those formulations to become scientifically assessable. Neither process
+  establishes that a resulting formulation is biologically correct,
+  explanatorily superior, or empirically validated. Their contribution is
+  methodological: they can help transform conceptual ambiguity into explicit
+  claims capable of independent empirical and comparative assessment. The
+  article illustrates this approach through purpose, agency, cognition,
+  significance, and meaning, and considers its possible role within the wider
+  Matter-to-Mind research programme.
+
+keyPoints:
+  - Naturalisation can help formulate difficult biological concepts in scientifically tractable terms.
+  - Conceptual closure concerns sufficient clarity of terms, relations, boundaries, and explanatory targets for assessment.
+  - Naturalisation and conceptual closure do not by themselves establish biological truth, explanatory superiority, or empirical validation.
+  - Biological agency is viability-oriented organisational activity.
+  - Purpose concerns viability-oriented organisation without requiring intention.
+  - Cognition, significance, meaning, mind, and related concepts retain proposition-specific evidential burdens.
+  - APS uses naturalisation and conceptual closure as methodological resources rather than as a universal foundation for biological explanation.
+
+relatedGlossaryItems:
+  - naturalisation
+  - conceptual closure
+  - scientific intelligibility
+  - biological agency
+  - philosophy of biology
+  - theoretical biology
+  - cognition
+  - meaning
+  - APS framework
+  - methodology
+  - explanation
+  - concept formation
+
+relatedArticles:
+  - what-is-aps
+  - understanding-aps-the-structure-of-the-framework
+  - how-aps-concepts-fit-together
+  - from-metaphysics-to-mechanism-and-beyond
+  - how-did-matter-become-aware-of-itself
+  - how-aps-explains-life
+  - the-core-structure-of-aps-how-the-framework-fits-together
+
+references:
+  - id: barandiaran-moreno-2008-minimal-agency
+    authors: Barandiaran, X. E.; Moreno, A.
+    year: 2008
+    title: "Adaptivity: From metabolism to behavior"
+    journal: Adaptive Behavior
+    volume: "16(5)"
+    pages: "325–344"
+    doi: 10.1177/1059712308093868
+
+  - id: brooks-baedke-2023-organisms-and-causation
+    authors: Brooks, D. S.; Baedke, J.
+    year: 2023
+    title: Organisms and the explanation of biological causation
+    journal: History and Philosophy of the Life Sciences
+    volume: "45"
+    pages: "1–23"
+    doi: 10.1007/s40656-023-00574-2
+
+  - id: di-paolo-2005-autopoiesis-adaptivity-agency
+    authors: Di Paolo, E. A.
+    year: 2005
+    title: Autopoiesis, Adaptivity, Teleology, Agency
+    journal: Phenomenology and the Cognitive Sciences
+    volume: "4(4)"
+    pages: "429–452"
+    doi: 10.1007/s11097-005-9002-y
+
+  - id: dupre-2020-process-philosophy-of-biology
+    authors: Dupré, J.
+    year: 2020
+    title: The Metaphysics of Evolution
+    publisher: Oxford University Press
+
+  - id: dupre-nicholson-2018-everything-flows
+    authors: Dupré, J.; Nicholson, D. J.
+    year: 2018
+    title: "Everything Flows: Towards a Processual Philosophy of Biology"
+    publisher: Oxford University Press
+
+  - id: gomez-marquez-2023-process-biology
+    authors: Gómez-Márquez, J.
+    year: 2023
+    title: Process Thinking in Contemporary Biology
+    journal: Synthese
+    volume: "201"
+    doi: 10.1007/s11229-023-04163-0
+
+  - id: kirchhoff-2018-organism-centered-biology
+    authors: Kirchhoff, M.
+    year: 2018
+    title: Organisms, Agency, and the Foundations of Biology
+    journal: Biological Theory
+    volume: "13(4)"
+    pages: "237–250"
+    doi: 10.1007/s13752-018-0307-2
+
+  - id: mayr-1982-growth-of-biological-thought
+    authors: Mayr, E.
+    year: 1982
+    title: The Growth of Biological Thought
+    publisher: Harvard University Press
+
+  - id: meincke-2023-process-philosophy-life
+    authors: Meincke, A. S.
+    year: 2023
+    title: Biological Processes and the Processual Nature of Life
+    journal: History and Philosophy of the Life Sciences
+    volume: "45"
+    doi: 10.1007/s40656-023-00539-5
+
+  - id: noble-2012-the-music-of-life
+    authors: Noble, D.
+    year: 2012
+    title: The Music of Life
+    publisher: Oxford University Press
+
+  - id: spencer-2026-agency-defining-activity-life
+    authors: Spencer, R. D.
+    year: 2026
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
+    journal: Biological Theory
+    doi: 10.1007/s13752-026-00547-6
+---
+
+OPENING BODY EXCERPT:
+
+
+> **Where this article fits:** *What Is APS?* introduces the framework, while *Understanding APS* explains how readers can navigate its major domains and pathways.
+>
+> *Naturalising Life* serves a different purpose. It examines a methodological proposal within APS: whether naturalisation and conceptual closure can help formulate difficult biological concepts in ways that make their claims clearer and scientifically assessable.
+>
+> Readers seeking APS's account of biological explanation should continue to *How APS Explains Life*. Readers seeking the framework's conceptual architecture should continue to *The Core Structure of APS*.
+
+## Introduction — Why Naturalisation Matters
+
+Biology employs concepts whose scientific interpretation remains contested. Purpose, agency, cognition, significance, meaning, and mind are prominent examples. They occur in scientific and philosophical discussions of living systems, yet disagreement persists about what they refer to, how broadly they should be applied, and what explanatory work they can legitimately perform.
+
+The sources of these disagreements differ. Purpose can become entangled with intention, design, or final causes. Agency is sometimes restricted to conscious choice. Cognition can be tied to brains, nervous systems, representation, or particular behavioural capacities. Meaning can be treated as exclusively linguistic or psychological. Mind raises further questions concerning cognition, selfhood, awareness, and subjective experience.
+
+Substantial empirical evidence does not automatically resolve such disputes because empirical disagreement is not always the only issue. Sometimes researchers disagree about the target, boundaries, or meaning of the concept through which evidence is being interpreted.
+
+APS treats this as a methodological possibility rather than a general diagnosis of biological controversy. Some disputes may indeed involve conceptual ambiguity or conflation; others may primarily concern evidence, explanatory targets, theoretical commitments, operational criteria, or genuine biological differences.
+
+*Naturalising life*, as the term is used here, concerns the attempt to formulate difficult biological concepts in terms that locate them within natural, materially realised living organisation and make their claims sufficiently explicit for scientific assessment.
+
+This does not imply that naturalisation is a prerequisite for all scientific explanation, that every contested concept should be preserved, or that a naturalised APS formulation is thereby correct.
+
+A second methodological idea, **conceptual closure**, concerns the degree to which the terms, relations, boundaries, and explanatory target of a concept have been specified clearly enough for systematic inquiry and comparison.
+
+The central proposal of this article is therefore deliberately bounded:
+
+> Naturalisation and conceptual closure can contribute to moving difficult biological concepts from conceptual ambiguity toward scientifically assessable claims.
+
+Whether those claims are empirically supported, explanatorily useful, or preferable to alternatives remains a separate question.
+
+[[box:what-naturalisation-does-and-does-not-establish]]
+
+## Conceptual Difficulty in Biology
+
+Scientific progress depends upon empirical investigation, but scientific inquiry also requires concepts through which observations, hypotheses, models, and explanations are formulated.
+
+Conceptual difficulty can arise when the same term is used for different phenomena, when boundaries remain unclear, when assumptions imported from another domain are left unstated, or when researchers address different explananda while appearing to disagree about a single claim.
+
+This does not mean that persistent scientific controversies can generally be explained by conceptual instability. Nor does it establish that conceptual clarification will resolve them. It means only that conceptual status can itself become a legitimate object of methodological analysis.
+
+Purpose illustrates the problem. In biological contexts, purposive language may refer to intention, evolved function, goal-directed regulation, organisational contribution, or merely convenient shorthand. Those alternatives should not be treated as equivalent.
+
+Agency raises a related issue. Human agency often implies deliberation or intention, whereas biological agency can be formulated more minimally. APS uses the compact definition:
+
+> **Biological agency is viability-oriented organisational activity.**
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: organisational-realism-in-biology.md
+==================================================
+---
+date: 2026-05-19
+title: "Organisational Realism in Biology"
+slug: organisational-realism-in-biology
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-10
+cluster: philosophy-of-biology
+role: extension
+abstract: >
+  This article develops the organisational-realist commitment associated
+  with APS's biological account. It examines whether materially implemented
+  organisational relations, constraints, dependencies, and activities should
+  be treated as real features of living systems rather than merely as
+  observer-imposed descriptions. APS defines Life as viability-oriented,
+  constraint-closed organisation and treats organised persistence as the
+  continuity of that organisation through material and structural change.
+  Organisational realism is therefore a philosophical commitment concerning
+  the reality tracked by organisational explanation, not evidence that an APS
+  explanation is automatically superior to an established biological account.
+relatedArticles:
+  - aps-as-philosophy-biological-intelligibility
+  - aps-and-contemporary-theories
+  - explanatory-geometry-of-biology
+  - reductionism-in-biology-an-aps-clarification
+  - why-aps-is-not-holism
+  - why-aps-is-not-organicism
+  - multiple-realization-and-biological-organisation
+  - description-explanation-and-definition-in-biology
+  - why-aps-reframes-biology
+  - temporal-organisation-and-organised-persistence
+  - diagnosis-as-continuity-analysis
+  - normativity-in-biology-why-some-things-matter-to-living-systems
+  - semiosis-how-differences-come-to-matter-in-living-systems
+relatedGlossaryTerms:
+  - biological-organisation
+  - biological-agency
+  - process
+  - scale
+  - viability
+  - organised-persistence
+  - continuity
+  - normativity
+  - persistence
+  - function
+  - mechanism
+  - constraint
+  - constraint-closure
+  - evaluation
+  - semiosis
+  - perturbation
+references:
+  - psillos-1999-scientific-realism
+  - nicholson-dupre-2018-everything-flows
+  - moreno-mossio-2015-biological-autonomy
+  - craver-2007-explaining-the-brain
+---
+
+OPENING BODY EXCERPT:
+
+
+> **Where this article fits:** This article examines one specific philosophical commitment associated with APS: the claim that biological organisation can be treated as a materially realised feature of living systems rather than merely as an observer-imposed description. The broader philosophical commitments and implications of APS are examined in *[APS as Philosophy — A Philosophical Reconstruction of Biological Intelligibility](/articles/aps-as-philosophy-biological-intelligibility/)*. Organisational realism does not determine the standards of biological explanation. APS remains a comparative explanatory methodology, and particular APS proposals must establish their contribution relative to specified explananda and relevant comparators.
+
+## Organisational Realism in Biology
+
+Biology routinely investigates living systems through concepts such as function, regulation, adaptation, agency, development, signalling, cognition, and organisation. These concepts raise an ontological question as well as an explanatory one: when biological inquiry identifies an organisational relation, is it tracking something materially realised in the living system, or merely imposing a useful pattern upon underlying physical processes?
+
+APS develops an organisational-realist answer to that question. Its claim is not that organisation constitutes an additional substance or causal force beyond the physical processes through which living systems exist. Rather, materially implemented relations, dependencies, constraints, and activities may themselves be real features of biological systems. Organisation, on this view, concerns how such material processes are related in the ongoing activity of a living system.
+
+The central claim of organisational realism is therefore deliberately limited:
+
+> Biological organisation is not merely a useful description of living systems. Materially implemented organisational relations can be real features of living systems themselves.
+
+Within APS, this claim begins from the canonical biological account:
+
+> **Life is viability-oriented, constraint-closed organisation.**
+
+Organised persistence has a different and more restricted role. It denotes the continuity of living organisation through ongoing material and structural transformation. Living systems can remain organisationally continuous while components are replaced, structures change, and activities are reorganised. This continuity does not define Life and is not the underlying source from which biological agency, normativity, function, cognition, or explanation arise.
+
+Organisational realism is consequently a philosophical commitment concerning what biological organisational claims may refer to. It does not establish, merely by being realist, that an APS account explains a phenomenon better than an established mechanistic, developmental, evolutionary, ecological, or other explanation. Where APS proposes that a particular organisational relation contributes additional understanding, that contribution must be established relative to the explanandum and the relevant comparator. Redescription in organisational vocabulary is not by itself explanatory gain.
+
+[[box:aps-box-explanation-is-not-reduction]]
+
+[[box:aps-box-organisation-is-not-mysticism]]
+
+# The Problem of Biological Reality
+
+The question of biological reality arises because successful biological inquiry often depends upon relations that are not captured simply by listing the material components present in a system. Regulation, development, repair, signalling, functional contribution, and organism–environment interaction concern not only what components exist but what those components do in relation to one another and to the continuing activity of the system.
+
+This does not imply that component analysis or mechanistic explanation is deficient. Mechanistic accounts can provide substantive and sometimes sufficient explanations by identifying entities, activities, interactions, causal organisation, and the conditions under which biological phenomena occur (Craver 2007). Nor does organisational realism require a contrast between an allegedly superficial mechanism and a deeper organisational reality. Mechanisms themselves can be dynamically organised, environmentally embedded, and extended across spatial and temporal extents.
+
+The realist question is instead whether some of the organisational dependencies identified by biology should be understood as features of the systems investigated rather than merely as conveniences of description. Scientific realism more generally asks how the success of scientific representation bears upon claims about the reality described by science, while allowing that models, concepts, and theories remain fallible and revisable (Psillos 1999). APS applies a bounded version of that question to living organisation.
+
+Its proposal is that biological inquiry can sometimes identify materially implemented organisational dependencies that make a difference to how living systems function. A regulatory relation, a constraint, or a dependency among activities need not correspond to an additional entity in order to be real. Its reality can consist in the material relations through which particular activities constrain, enable, maintain, or alter other activities within the living system.
+
+The explanatory importance of such relations can motivate an organisational-realist interpretation, but explanatory usefulness and ontological reality should not simply be equated. A successful explanatory representation may simplify, idealise, or abstract. Conversely, identifying a relation as organisational does not establish that it contributes beyond what a comparator already explains. Organisational realism therefore remains a philosophical interpretation of what certain successful biological explanations may be tracking, not a shortcut to demonstrating APS explanatory success.
+
+## Organisation as Materially Real Biological Organisation
+
+APS does not oppose organisational reality to physical reality. Living systems are materially constituted, and biological activities occur through physical interactions. Organisational realism concerns the relations among those materially realised activities rather than a second kind of substance placed above or outside them.
+
+A living system can therefore be analysed both in terms of its components and in terms of dependencies among the processes through which those components participate in continuing biological activity. Whether an organisational account is needed depends upon the explanandum. For some questions, identifying components, interactions, and mechanisms may be sufficient. For others, the explanandum may concern the relations through which particular activities contribute to maintaining or re-establishing conditions required for continued functioning.
+
+These organisational relations are not made real simply because APS names them. Their proposed reality depends upon their material implementation and upon evidence that the relevant relations genuinely obtain in the system under investigation. Regulatory activity, constraint relations, repair, compensatory change, and organism–environment interaction can provide experimentally tractable cases in which changing one relation alters the conditions under which other biological activities occur.
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: purpose-the-organisation-of-viability-oriented-activity.md
+==================================================
+---
+date: 2026-05-28
+title: Purpose — The Organisation of Viability-Oriented Activity
+slug: purpose-the-organisation-of-viability-oriented-activity
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-28
+revised: 2026-07-26
+
+cluster: philosophy-of-biology
+role: core
+
+abstract: >
+  Biological explanation has long struggled to account for the pervasive use of
+  purposive language without appealing either to external design, conscious
+  intention, or irreducible teleology. APS argues that this difficulty arises
+  because purposiveness is a genuine organisational feature of living systems
+  rather than an explanatory illusion. Purpose is naturalised as the
+  organisation of viability-oriented activity through which living systems
+  actively maintain and re-establish the conditions of their own organised
+  persistence. Purpose therefore reflects neither represented future goals nor
+  mystical final causes, but the present organisation of biological activity
+  relative to viability. This account explains why purposive language remains
+  indispensable throughout biology while preserving fully naturalistic
+  explanation through biological agency, organised persistence, endogenous
+  normativity, and continuity-preserving organisation.
+
+keyPoints:
+  - Purpose is the organisation of activity relative to viability-oriented organised persistence.
+  - Biological purposiveness is an organisational feature of living systems rather than evidence of external design or conscious intention.
+  - Purpose is enacted through present biological activity rather than caused by represented future goals.
+  - Agency realises purposive organisation through viability-oriented activity.
+  - Function operationalises purposive organisation within living systems.
+  - Mechanisms realise purposive organisation without independently explaining purposiveness.
+  - Normativity emerges because continuity-preserving organisation can succeed or fail.
+  - Teleonomy describes the real organisational orientation of living systems toward viability-oriented persistence.
+  - APS naturalises purposiveness while preserving the explanatory legitimacy of purposive language in biology.
+
+relatedGlossaryTerms:
+  - purpose
+  - biological-agency
+  - viability
+  - organised-persistence
+  - function
+  - normativity
+  - teleonomy
+  - biological-organisation
+  - evaluation
+  - semiosis
+  - mechanism
+  - adaptation
+  - process
+  - scale
+
+relatedArticles:
+  - agency-as-the-defining-activity-of-life
+  - function-and-normativity-why-biological-organisation-matters
+  - function-as-operational-organisation
+  - biological-goals-without-mentalism
+  - mentalistic-language-in-biology-why-it-persists-and-how-aps-clarifies-it
+  - mentalistic-terms-in-biology-what-aps-accepts-rejects-and-reframes
+  - normativity-in-biology-why-some-things-matter-to-living-systems
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - adaptation-how-living-systems-sustain-themselves-through-change
+  - why-life-is-not-a-machine
+  - why-aps-is-not-organicism
+  - explanatory-priority-is-not-ontological-priority
+
+researchStreams: []
+
+references:
+
+  - id: aristotle-physics
+    authors: Aristotle
+    year: "c. 350 BCE"
+    title: Physics
+    publisher: Oxford University Press
+
+  - id: jonas-1966-phenomenon-life
+    authors: Jonas, H.
+    year: 1966
+    title: The Phenomenon of Life
+    publisher: Harper & Row
+
+  - id: rosen-1991-life-itself
+    authors: Rosen, R.
+    year: 1991
+    title: "Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life"
+    publisher: Columbia University Press
+
+  - id: deacon-2011-incomplete-nature
+    authors: Deacon, T. W.
+    year: 2011
+    title: Incomplete Nature
+    publisher: W. W. Norton & Company
+
+  - id: moreno-mossio-2015-biological-autonomy
+    authors: Moreno, A.; Mossio, M.
+    year: 2015
+    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
+    publisher: Springer
+
+  - id: mossio-2023-organization-biology
+    authors: Mossio, M.
+    year: 2023
+    title: Organization in Biology
+    publisher: Springer
+
+  - id: walsh-2015-organisms-agency-evolution
+    authors: Walsh, D. M.
+    year: 2015
+    title: Organisms, Agency, and Evolution
+    publisher: Cambridge University Press
+
+  - id: mayr-1988-new-philosophy-biology
+    authors: Mayr, E.
+    year: 1988
+    title: Toward a New Philosophy of Biology
+    publisher: Harvard University Press
+
+  - id: monod-1971-chance-necessity
+    authors: Monod, J.
+    year: 1971
+    title: Chance and Necessity
+    publisher: Alfred A. Knopf
+
+  - id: spencer-2026-agency-defining-activity-life
+    authors: Spencer, R. D.
+    year: 2026
+    title: Agency as the Defining Activity of Life
+    journal: Biological Theory
+    publisher: Springer Nature
+    doi: 10.1007/s13752-026-00547-6
+---
+
+OPENING BODY EXCERPT:
+
+
+## Purpose — The Organisation of Viability-Oriented Activity
+
+Biology is saturated with purposive language. Physiologists describe the heart as maintaining circulation and the kidneys as regulating fluid and electrolyte balance. Ecologists describe animals as seeking resources, avoiding predators, and reproducing under changing environmental conditions. Plant biologists describe roots as growing towards water and nutrients, shoots as orienting towards light, and damaged tissues as activating repair and defence responses.
+
+Such descriptions are not confined to popular biology. They permeate physiology, ecology, developmental biology, plant biology, behaviour, and evolutionary explanation, where living systems are routinely described as organising activity around survival, reproduction, repair, regulation, and persistence.
+
+Does purposive language merely provide a convenient shorthand for mechanistic and evolutionary explanation, or does it identify an organisational feature of living systems that any adequate biological explanation must itself explain?
+
+Organisms regulate themselves, repair damage, seek resources, avoid threats, adapt to changing conditions, maintain internal organisation, and preserve continuity across time.
+
+Such descriptions are not confined to popular biology. They permeate physiology, ecology, developmental biology, behaviour, and evolutionary explanation, where living systems are routinely described as acting for survival, reproduction, repair, regulation, or persistence.
+
+The persistence of this language poses a longstanding scientific and philosophical question. Does it merely provide a convenient shorthand for underlying physical and evolutionary processes, or does it identify a genuine feature of living organisation that biological explanation must account for?
+
+Living systems are organised around the maintenance and re-establishment of the conditions of their own persistence, yet purposive language has long remained philosophically controversial.
+
+Some traditions interpret purposiveness as evidence of external design, conscious intention, or irreducible teleology. Others seek to eliminate purposive language altogether, treating it as a convenient way of describing processes that can ultimately be explained entirely through mechanistic or evolutionary accounts.
+
+APS rejects both alternatives.
+
+Purpose is neither externally imposed nor an explanatory illusion. It is a real organisational feature of living systems that arises from the viability-oriented organisation of biological activity through which organisms actively maintain and re-establish the conditions of their own persistence.
+
+This article argues that purposiveness can be naturalised without appealing to conscious intention, represented future goals, or mystical teleology. In doing so, it explains why purposive language remains both scientifically legitimate and biologically indispensable.
+
+## Purpose as Viability-Oriented Organisation
+
+If purpose is neither imposed from outside living systems nor reducible to metaphor, what kind of biological phenomenon is it?
+
+APS answers this question by treating purpose not as a property added to organisms, but as an aspect of their organisation.
+
+In APS, purpose is the organisation of activity relative to viability-oriented organised persistence.
+
+Living systems continuously organise activity such that some conditions preserve continuity, some trajectories support viability, some reorganisations restore persistence, and some conditions threaten organisational collapse. Purpose therefore concerns the organisation of these viability-relative differences rather than the pursuit of externally represented goals.
+
+Purpose is not something added to living systems from outside, nor is it an independent force directing biological activity. It arises from the organisation through which living systems actively maintain and re-establish the conditions of their own persistence.
+
+To describe a living system as purposive is therefore to say that it differentiates among conditions relative to viability, modulates activity accordingly, and continuously regulates its own organisation in ways that sustain organised persistence across changing circumstances.
+
+Purpose is enacted in the present through viability-oriented biological activity. It is not caused by future states but by the ongoing organisation through which living systems preserve the conditions of their own persistence.
+
+## Organised Persistence and Continuity Regulation
+
+If living systems are continually changing, in what sense do they persist?
+
+
+BODY LINES EXTRACTED: 45
+
+==================================================
+FILE: representation-when-and-whether-it-arises-in-biological-systems.md
+==================================================
+---
+date: 2026-05-15
+title: "Representation — When and Whether It Arises in Biological Systems"
+slug: representation-when-and-whether-it-arises-in-biological-systems
+type: article
+status: canonical
+canonical: true
+canonicalLockDate: 2026-05-29
+revised: 2026-09-14
+cluster: philosophy-of-biology
+abstract: >
+  Representation is often invoked to explain cognition, prediction, memory,
+  planning, and intelligent behaviour. APS does not treat representation as a
+  prerequisite of life, biological agency, biological evaluation, biological
+  significance, or cognition. Biological Evaluation generates significance,
+  while cognition organises biological significance across time and across
+  viability-relevant possibilities. Representation becomes a further
+  explanatory hypothesis when some materially implemented organisation appears
+  to stand in for, model, or otherwise organise activity relative to absent,
+  possible, or counterfactual conditions. Such an attribution requires evidence
+  beyond differential responsiveness, information processing, biological
+  significance, memory, anticipation, or cognition alone. APS therefore asks
+  when representational description identifies an additional dependency and
+  improves explanation of a specified biological explanandum.
+relatedGlossaryTerms:
+  - representation
+  - evaluation
+  - semiosis
+  - cognition
+  - meaning
+  - information
+  - normativity
+  - biological-agency
+  - viability
+  - persistence
+  - continuity
+  - temporality
+  - counterfactual-depth
+  - process
+  - scale
+relatedArticles:
+  - meaning-in-biology-an-aps-clarification
+  - information-in-biology-an-aps-clarification
+  - semiosis-how-differences-come-to-matter-in-living-systems
+  - evaluation-how-living-systems-modulate-activity-relative-to-viability
+  - cognition-where-does-it-belong-in-biology
+  - why-life-is-not-information-processing
+  - why-life-is-not-active-inference
+  - why-life-is-not-intelligence-an-aps-clarification
+  - why-ai-is-not-biological-agency
+  - consciousness-an-aps-clarification
+  - organisational-realism-in-biology
+  - explanatory-geometry-of-biology
+  - temporal-organisation-and-organised-persistence
+  - aps-and-contemporary-theories
+  - aps-and-the-free-energy-principle
+references:
+  - id: millikan1984
+    authors: "Millikan, R. G."
+    year: 1984
+    title: "Language, Thought, and Other Biological Categories"
+    publisher: "MIT Press"
+  - id: dennett1991
+    authors: "Dennett, D. C."
+    year: 1991
+    title: "Consciousness Explained"
+    publisher: "Little, Brown and Company"
+  - id: clark1997
+    authors: "Clark, A."
+    year: 1997
+    title: "Being There"
+    publisher: "MIT Press"
+  - id: varela1991
+    authors: "Varela, F. J., Thompson, E., & Rosch, E."
+    year: 1991
+    title: "The Embodied Mind"
+    publisher: "MIT Press"
+  - id: thompson2007
+    authors: "Thompson, E."
+    year: 2007
+    title: "Mind in Life"
+    publisher: "Harvard University Press"
+  - id: deacon2011
+    authors: "Deacon, T. W."
+    year: 2011
+    title: "Incomplete Nature"
+    publisher: "W. W. Norton & Company"
+  - id: hohwy2013
+    authors: "Hohwy, J."
+    year: 2013
+    title: "The Predictive Mind"
+    publisher: "Oxford University Press"
+  - id: clark2016
+    authors: "Clark, A."
+    year: 2016
+    title: "Surfing Uncertainty"
+    publisher: "Oxford University Press"
+  - id: spencer2026
+    authors: "Spencer, R. D."
+    year: 2026
+    title: "Agency as the Defining Activity of Life"
+    journal: "Biological Theory"
+    doi: "10.1007/s13752-026-00547-6"
+---
+
+OPENING BODY EXCERPT:
+
+
+# Representation — When and Whether It Arises in Biological Systems
+
+## Introduction
+
+Representation occupies a prominent place in cognitive science, neuroscience, artificial intelligence, and philosophy of mind. Organisms are frequently described as constructing internal models, encoding information about their environments, predicting future states, storing content, or representing conditions that are not immediately present. In some explanatory contexts, these descriptions may identify important features of biological organisation. Their usefulness, however, does not establish that representation is required wherever living systems regulate activity, process information, anticipate change, or behave cognitively.
+
+APS therefore treats representation as a question rather than a starting assumption.
+
+Living systems can respond differentially to conditions that bear upon their viability without thereby representing those conditions. Biological Evaluation is the process through which agency generates significance: differences become relationally real for living systems because they bear differently upon continued functioning. Such significance does not by itself establish meaning, cognition, or representation.
+
+Cognition introduces a further organisational development. In compact form, APS treats cognition as **the organisation of biological significance across time**. More diagnostically, biological agency becomes cognitive when integrated biological significance modulates activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+Even this does not establish representation automatically. A cognitive system may integrate memory, context, anticipation, and possible future conditions without the explanatory description of its organisation necessarily requiring states that stand in for or represent something else.
+
+The central question of this article is therefore not whether representation exists, nor whether APS should accept or reject representational theories in general. It is **when, and on what evidence, representational explanation becomes warranted in a biological system**.
+
+APS proposes that representation should be attributed where it identifies an additional materially implemented dependency and improves explanation of the specified explanandum beyond what can already be explained through biological significance, information, regulation, memory, anticipation, associative history, or cognition alone.
+
+## Where This Article Fits
+
+This article clarifies the place of representation within the APS cognition–mind architecture without making representation either foundational or universally derivative.
+
+Several preceding distinctions are essential. *Information in Biology — An APS Clarification* distinguishes statistical and other informational relations from biological significance. *Meaning in Biology — An APS Clarification* establishes the crucial boundary **Biological Significance ≠ Meaning**. Biological Evaluation generates significance; it does not thereby generate meaning. *Cognition — Where Does It Belong in Biology?* establishes the further boundary between biological agency and cognition by asking when integrated significance begins to modulate activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation.
+
+The present article asks a different question. Once cognitive organisation is established, **what additional evidence warrants describing some of that organisation as representational?**
+
+Representation is therefore not inserted into a compulsory sequence between information, cognition, and meaning. Nor does APS assume that all cognition is representational, that all meaning requires representation, or that every representation constitutes meaning. These relations must be investigated rather than derived from APS architecture.
+
+The broader positive APS account of meaning belongs to *What Is Meaning?*, where meaning is considered within the later development of cognition, mind, selfhood, and reflective agency. The present article has the narrower task of establishing when representational description earns explanatory work of its own.
+
+[[box:aps-box-meaning-develops-from-evaluative-significance]]
+
+[[box:aps-box-semiosis-is-operational]]
+
+## Why Representation Became Explanatorily Important
+
+Representation became influential because many organisms behave in ways that cannot be characterised adequately as immediate responses to present stimulation. They navigate through environments, remember absent conditions, alter behaviour in light of previous experience, anticipate consequences, pursue temporally extended activities, and sometimes act in relation to conditions that are merely possible.
+
+Representational explanation offers one way of understanding such capacities. An internal state may be treated as standing in for an environmental condition, remembered event, goal, possible outcome, or relation that need not be immediately present. On this account, the system can use the state to organise activity beyond its current sensory circumstances.
+
+Such explanations have played major roles in cognitive science and computational approaches to mind. They have also been challenged by embodied, enactive, dynamical, ecological, and other approaches that question whether apparently representational behaviour always requires internal content-bearing states.
+
+APS does not settle this dispute by declaring representation either universal or illusory. Both positions would decide the explanatory issue too early.
+
+
+BODY LINES EXTRACTED: 45
+
