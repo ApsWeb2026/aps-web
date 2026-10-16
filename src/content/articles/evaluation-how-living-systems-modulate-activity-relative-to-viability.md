@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
-cluster: philosophy-of-biology
+revised: 2026-10-17
+cluster: conceptual-foundations
+role: synthesis
 
 abstract: >
   This article clarifies evaluation within the Agencyâ€“Processâ€“Scale (APS)
