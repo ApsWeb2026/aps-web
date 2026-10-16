@@ -18,8 +18,7 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-06-15
-
+revised: 2026-10-16
 cluster: social-organisation
 
 keyPoints:
@@ -79,6 +78,7 @@ references:
     year: 2019
     title: "This View of Life"
     publisher: "Pantheon"
+role: anchor
 ---
 
 ## Introduction

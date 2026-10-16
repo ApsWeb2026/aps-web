@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-04
-revised: 2026-08-04
+revised: 2026-10-16
 cluster: social-organisation
-role: anchor
+role: core
 
 abstract: >
   Human values are fundamental to every form of collective life, yet their

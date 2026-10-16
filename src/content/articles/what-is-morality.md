@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-12
-revised: 2026-07-12
+revised: 2026-10-16
 cluster: social-organisation
-role: anchor
+role: core
 abstract: Morality is the organised system of evaluative practices, responsibilities, obligations, justifications, and forms of concern through which communities regulate conduct in relation to morally considerable beings and forms of life. It emerges from moral evaluation but is not reducible to social norms, social consensus, institutional authority, biological persistence, or individual preference. Understanding morality explains how communities organise collective life around questions of legitimacy, responsibility, obligation, and moral concern.
 keyPoints:
   - Morality emerges from moral evaluation but is not identical with moral evaluation.

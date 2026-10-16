@@ -6,9 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-12
-revised: 2026-07-12
+revised: 2026-10-16
 cluster: social-organisation
-role: anchor
+role: extension
 abstract: Ethics is the organised reflective investigation of morality through which communities examine, interpret, justify, criticise, and revise moral beliefs, practices, responsibilities, obligations, institutions, and forms of moral concern. It emerges from morality but is not identical with it. Understanding ethics explains how moral life remains open to reflection, disagreement, criticism, and revision, enabling communities to continually reassess the moral arrangements through which collective life is organised.
 keyPoints:
   - Ethics emerges when morality itself becomes the object of reflective investigation.
