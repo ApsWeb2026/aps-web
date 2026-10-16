@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-18
-revised: 2026-06-15
+revised: 2026-10-16
 cluster: diagnostics-and-empirical-tractability
+role: synthesis
 abstract: >
   This article establishes the diagnostic dimension of the APS framework. It shows how claims about viability-oriented, constraint-closed organisation can be empirically evaluated through perturbation, organisational response, and viability-relative outcomes, thereby making APS an operational and testable framework for biological explanation.
 relatedGlossaryTerms:

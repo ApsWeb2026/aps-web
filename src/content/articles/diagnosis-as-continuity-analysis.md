@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-06-15
+revised: 2026-10-16
 cluster:  diagnostics-and-empirical-tractability
+role: clarification
 
 abstract: >
   This article develops an APS account of diagnosis as the analysis of

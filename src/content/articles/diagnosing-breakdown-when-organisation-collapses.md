@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-06-15
+revised: 2026-10-16
 cluster: diagnostics-and-empirical-tractability
+role: extension
 abstract: |
   APS distinguishes between malfunction within a system and the collapse of the organisation that sustains its viability. This article applies the APS diagnostic framework to cases of breakdown, showing how failure is identified when viability-oriented organisation can no longer be maintained across time and scale.
 keyPoints:

@@ -6,8 +6,8 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-12
-revised: 2026-06-15
-cluster: methodology-and-explanation
+revised: 2026-10-16
+cluster: diagnostics-and-empirical-tractability
 role: core
 
 abstract: >

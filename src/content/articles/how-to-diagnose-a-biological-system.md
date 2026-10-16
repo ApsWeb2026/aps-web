@@ -6,8 +6,8 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-06-15
-cluster: methodology-and-explanation
+revised: 2026-10-16
+cluster: diagnostics-and-empirical-tractability
 role: anchor
 abstract: >
   This article develops the methodological and empirical dimensions of APS

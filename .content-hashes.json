@@ -266,7 +266,7 @@
   },
   "articles/aps-diagnostics-empirical-tractability": {
     "hash": "71d1029c7273da06",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-18"
   },
   "articles/aps-glossary-as-constraint-closed-conceptual-system": {
@@ -301,7 +301,7 @@
   },
   "articles/biological-evidence-what-counts-as-evidence-for-life": {
     "hash": "87445e9b4b940165",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-09"
   },
   "articles/biological-explanation-and-organised-persistence": {
@@ -341,7 +341,7 @@
   },
   "articles/cognitive-integration": {
     "hash": "4ed756ec3dc88f31",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-10"
   },
   "articles/communication-and-coordination": {
@@ -491,7 +491,7 @@
   },
   "articles/diagnosing-a-plant-system-in-aps": {
     "hash": "f42692395f0b5aec",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-10"
   },
   "articles/diagnosing-agency-biosignatures-perturbations-and-the-empirical-tractability-of-life": {
@@ -501,7 +501,7 @@
   },
   "articles/diagnosing-breakdown-when-organisation-collapses": {
     "hash": "84236d1166de6d64",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-10"
   },
   "articles/diagnosing-viruses-in-aps": {
@@ -511,7 +511,7 @@
   },
   "articles/diagnosis-as-continuity-analysis": {
     "hash": "6f92481f6b333fd0",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-05-22"
   },
   "articles/ecological-organisation": {
@@ -581,7 +581,7 @@
   },
   "articles/how-to-diagnose-a-biological-system": {
     "hash": "178c487a4c80da5c",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-05-15"
   },
   "articles/information-in-biology-an-aps-clarification": {
@@ -611,12 +611,12 @@
   },
   "articles/life-detection-in-aps-biosignatures-organisation-and-evidence": {
     "hash": "ada79c036d39979e",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-06-12"
   },
   "articles/malfunction-breakdown-and-death": {
     "hash": "aa43968f1b9e2dd2",
-    "revised": "2026-09-09",
+    "revised": "2026-10-16",
     "lockedSince": "2026-05-07"
   },
   "articles/meaning-in-biology-an-aps-clarification": {
@@ -646,7 +646,7 @@
   },
   "articles/normativity-gradient": {
     "hash": "58544c3cb2ea423b",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-10"
   },
   "articles/normativity-in-biology-why-some-things-matter-to-living-systems": {
@@ -826,7 +826,7 @@
   },
   "articles/viability-gradient": {
     "hash": "ff55424ebd98b62b",
-    "revised": "2026-06-15",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-10"
   },
   "articles/viability-the-organising-principle-of-biological-persistence": {
@@ -861,7 +861,7 @@
   },
   "articles/what-is-biological-diagnosis-in-aps": {
     "hash": "15e40feeb4a2b82a",
-    "revised": "2026-10-11",
+    "revised": "2026-10-16",
     "lockedSince": "2026-04-10"
   },
   "articles/what-is-evolution-in-aps": {

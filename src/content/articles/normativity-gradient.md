@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-10
-revised: 2026-06-15
+revised: 2026-10-16
 cluster: diagnostics-and-empirical-tractability
+role: clarification
 abstract: |
   The Normativity Gradient (NG) is a core diagnostic dimension in APS, expressing the degree to which a system’s activity is oriented toward sustaining its own viability. Rather than invoking intention or evaluation in a mental sense, NG captures the endogenous organisation through which systems differentiate between conditions that support or degrade persistence.
 keyPoints:

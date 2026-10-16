@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-09-09
+revised: 2026-10-16
 cluster: diagnostics-and-empirical-tractability
+role: core
 
 abstract: >
   APS treats malfunction, breakdown, and death as revealing relations to
