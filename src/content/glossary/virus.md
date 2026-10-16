@@ -5,9 +5,9 @@ slug: virus
 type: glossary
 status: canonical
 canonical: true
-canonicalLockDate: 2026-06-23
-revised: 2026-06-23
-cluster: diagnostics-and-empirical-tractability
+canonicalLockDate: 2026-10-16
+revised: 2026-10-16
+cluster: artificial-systems-and-boundaries
 
 definition: >
   A virus is a biological entity capable of replication and evolutionary change
