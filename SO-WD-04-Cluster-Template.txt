@@ -1,0 +1,923 @@
+﻿---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import StatusBadge from '@/components/StatusBadge.astro';
+import DomainBadge from '@/components/DomainBadge.astro';
+import TypeBadge from '@/components/TypeBadge.astro';
+
+const clusters = [
+  {
+slug: 'conceptual-foundations',
+title: 'Conceptual Foundations',
+
+description:
+'Life, agency, viability, organisation, persistence, scale, normativity, and biological explanation.',
+
+overview:
+'This cluster establishes the conceptual foundations of the Agencyâ€“Processâ€“Scale (APS) Framework. It addresses the most fundamental questions in biology: what life is, how living systems persist, why organisms exhibit agency, how biological organisation is maintained, how normativity emerges, and what biological explanation ultimately seeks to explain. APS treats biology as the study of viability-oriented organised persistence, and the concepts developed here provide the vocabulary and explanatory architecture upon which every other APS domain is built.',
+
+architectureGuide: {
+  title: 'The Core Structure of APS',
+  href: '/orientation/the-core-structure-of-aps-how-the-framework-fits-together/',
+  description:
+    'The architectural guide to the APS framework. This orientation article explains how life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning form a coherent explanatory pathway.',
+},
+
+startHere: [
+'The Core Structure of APS',
+'Agency as the Defining Activity of Life',
+'What Is Life? â€” A Biological Question Revisited',
+'Biological Agency as the Activity of Self-Maintenance',
+'Biological Explanation â€” What Needs to Be Explained',
+],
+
+keyQuestions: [
+'What is life?',
+'What is biological agency?',
+'What is viability?',
+'What is biological organisation?',
+'What is organised persistence?',
+'What is biological normativity?',
+'What is function?',
+'What is a biological system?',
+'What is an organism?',
+'What is biological explanation?',
+'How is biological organisation coordinated across scale?',
+'Why is biology different from physics?',
+],
+
+architecture: `
+
+<section class="domain-architecture-panel"> <h2>How This Domain Is Organised</h2>
+
+<p>This domain is organised around a central question: how should biology understand living systems as viability-oriented organised persistence?</p>
+
+<p>APS approaches this question through a sequence of interdependent concepts. Life is the phenomenon requiring explanation. Agency concerns the activity through which living systems maintain themselves. Viability provides the normative reference point for that activity. Organisation concerns the structured relations that sustain persistence. Persistence concerns the continuity of organised living systems through time. Scale concerns the distributed coordination of biological organisation across space and time. Biological explanation seeks to understand how these processes are generated, maintained, and transformed.</p>
+
+<p>The anchor articles establish the central APS understanding of life and agency. The remaining articles develop this framework through five connected explanatory pathways.</p>
+
+<h3>Life and Agency</h3>
+
+<p>These articles establish the APS understanding of life, agency, organisms, and biological systems. They explain why living systems are distinguished not by particular materials or mechanisms but by viability-oriented organised activity.</p>
+
+<h3>Organisation and Constraint</h3>
+
+<p>These articles develop the organisational architecture of life. They explain how biological organisation, constraints, and constraint closure contribute to the maintenance of persistence.</p>
+
+<h3>Persistence and Temporality</h3>
+
+<p>These articles explore how living systems maintain continuity through continual transformation. Persistence, process, temporality, and continuity are presented as central dimensions of biological explanation.</p>
+
+<h3>Scale and Normativity</h3>
+
+<p>These articles explain how biological organisation is coordinated across interacting scales and why viability generates biological normativity, function, and evaluative organisation.</p>
+
+<h3>Conceptual Integration and Biological Explanation</h3>
+
+<p>These articles synthesise multiple APS concepts into a unified explanatory framework. They clarify what biology explains, how biological explanation differs from physical explanation, and how continuity is organised across the architecture of life.</p>
+
+<div class="domain-architecture-grid">
+
+<div class="domain-architecture-group">
+  <h3 class="anchor-heading">Anchor</h3>
+  <ul>
+    <li>Agency as the Defining Activity of Life</li>
+    <li>Persistence - organised continuity through time</li>
+    <li>What Is Life? â€” A Biological Question Revisited</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="synthesis-heading">Synthesis</h3>
+  <ul>
+    <li>Agency in Contemporary Biology</li>
+    <li>How Do We Know Something Is Alive?</li>
+    <li>Scale, Time, and Persistence</li>
+    <li>The Continuity Architecture of Life</li>
+    <li>The Continuity Structure of Biological Organisation</li>
+    <li>Time and Biological Organisation</li>
+    <li>Why Is Biology Different From Physics?</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="core-heading">Core</h3>
+  <ul>
+    <li>Biological Agency as the Activity of Self-Maintenance</li>
+    <li>Viability</li>
+    <li>Organism</li>
+    <li>What Is an Organism?</li>
+    <li>What Is a Biological System?</li>
+    <li>Biological Organisation</li>
+    <li>Constraint</li>
+    <li>Constraint Closure</li>
+    <li>Process</li>
+    <li>Temporal Organisation and Organised Persistence</li>
+    <li>Scale</li>
+    <li>Normativity in Biology</li>
+    <li>From Viability to Normativity</li>
+    <li>Biological Explanation</li>
+    <li>APS as an Organised Conceptual System</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="clarification-heading">Clarification</h3>
+  <ul>
+    <li>Agency Without Intentions</li>
+    <li>Mentalistic Terms in Biology</li>
+    <li>What Is Biological Regulation?</li>
+    <li>Levels vs Scale</li>
+    <li>Why APS Is Not Hierarchical</li>
+  </ul>
+</div>
+
+<div class="domain-architecture-group">
+  <h3 class="extension-heading">Extension</h3>
+  <ul>
+    <li>Agency and Organised Persistence</li>
+    <li>Biological Causation</li>
+    <li>Why Do Organisms Have Goals?</li>
+    <li>Are Viruses Alive?</li>
+    <li>APS_PE â€” The Biological Imperative and the Ethics of Persistence</li>
+  </ul>
+</div>
+
+</div>
+
+<h3>Suggested Reading Pathway</h3>
+
+<p>Readers new to APS should begin with Agency as the Defining Activity of Life and What Is Life? â€” A Biological Question Revisited. These anchor articles establish the central orientation of the framework.</p>
+
+<p>Readers should then move to Biological Agency as the Activity of Self-Maintenance, Viability, Biological Organisation, and Biological Explanation. From there, readers can explore persistence, temporality, constraint organisation, scale, normativity, and organismal organisation before moving to the synthesis articles that integrate these themes into a broader understanding of biological explanation.</p>
+
+</section> `,
+
+boundary:
+'Every APS domain ultimately depends upon concepts developed in this cluster. Development, evolution, ecology, cognition, diagnosis, social organisation, methodology, and philosophy all build upon the conceptual architecture established here. Concepts are placed in this cluster when APS treats them as foundational principles required for understanding living systems in general rather than as concepts specific to a particular biological domain.',
+},
+
+    {
+    slug: 'evolutionary-dynamics',
+    title: 'Evolutionary Dynamics',
+    description:
+      'Evolution, inheritance, adaptation, variation, fitness, species, and the historical transformation of organised persistence.',
+    overview:
+      'This cluster examines how living systems preserve continuity while undergoing evolutionary transformation across generations and lineages. APS treats evolution as the historical transformation of viability-oriented organisation rather than as a process reducible to genes, traits, or selection alone.',
+    startHere: [
+      'What Is Evolution in APS?',
+      'Is Evolution Random?',
+      'What Is a Gene?',
+      'What Is a Species?',
+      'Evolution and Taxonomy',
+    ],
+    keyQuestions: [
+      'What is evolution?',
+      'Is evolution random?',
+      'What is a gene?',
+      'What is a species?',
+      'How does natural selection work?',
+      'What is fitness?',
+    ],
+    architecture: `
+  <section class="domain-architecture-panel">
+    <h2>How This Domain Is Organised</h2>
+
+    <p>This domain is organised around a central question: how do living systems remain historically continuous while undergoing evolutionary transformation?</p>
+
+    <p> The anchor articles establish the APS account of evolution as the historical transformation of viability-oriented organisation across lineages. They explain why evolution is not reducible to genes, traits, selection, or adaptation alone, but concerns the continuity and transformation of organised persistence across generations and evolutionary history.</p>
+
+    <p>The remaining articles develop this framework through five connected explanatory pathways.</p>
+
+    <h3>Organised Persistence and Evolutionary Continuity</h3>
+
+    <p>These articles establish the foundational conditions under which evolution becomes possible. They explain why living systems must first maintain viability-oriented organised persistence before selection, adaptation, inheritance, or evolutionary transformation can occur.</p>
+
+    <h3>Adaptation, Fitness, and Natural Selection</h3>
+
+    <p>These articles examine the historical processes through which evolutionary change occurs. APS accepts natural selection as a central evolutionary process while rejecting the view that selection alone explains biological organisation. Adaptation, fitness, and selection are interpreted within a broader continuity architecture in which natural selection differentially stabilises forms of viability-oriented organisation across generations.</p>
+
+    <h3>Variation, Inheritance, and Development</h3>
+
+    <p>These articles explain how evolutionary possibilities are generated, reproduced, and transformed. Variation emerges within living organisation rather than existing as raw material independent of it. Inheritance maintains continuity across generations, while development reconstructs the conditions under which viable persistence can occur.</p>
+
+    <h3>Multiscale Evolutionary Organisation</h3>
+
+    <p>These articles explore how evolutionary processes operate across interacting biological scales. Evolutionary continuity depends upon coordinated activity distributed across organisms, populations, lineages, developmental systems, ecological relations, and environmental contexts.</p>
+
+    <h3>Historical Transformation and Lineage Continuity</h3>
+
+    <p>These articles reconnect evolutionary processes to the larger historical organisation of life. They examine how lineages preserve continuity through transformation and how biological organisation remains both historically inherited and continually modified.</p>
+
+    <div class="domain-architecture-grid">
+      <div class="domain-architecture-group">
+        <h3 class="anchor-heading">Anchor</h3>
+        <ul>
+          <li>The Evolutionary Organisation of Life</li>
+          <li>Evolution as the Historical Transformation of Organised Persistence</li>
+        </ul>
+      </div>
+
+      <div class="domain-architecture-group">
+        <h3 class="synthesis-heading">Synthesis</h3>
+        <ul>
+          <li>What Counts as Evolutionary Explanation?</li>
+          <li>Physiology and Evolution in APS</li>
+          <li>Development and Evolution</li>
+        </ul>
+      </div>
+
+      <div class="domain-architecture-group">
+        <h3 class="core-heading">Core</h3>
+        <ul>
+          <li>Natural Selection and Organised Persistence</li>
+          <li>Inheritance and Continuity in APS</li>
+          <li>Variation in APS</li>
+          <li>Adaptation</li>
+          <li>Fitness</li>
+          <li>Species</li>
+          <li>Taxon</li>
+        </ul>
+      </div>
+
+      <div class="domain-architecture-group">
+        <h3 class="extension-heading">Extension</h3>
+        <ul>
+          <li>Gene-Centric Biology and APS</li>
+          <li>Selection Revisited</li>
+          <li>Multiscale Evolution and Organised Persistence</li>
+          <li>Extended Evolutionary Synthesis</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>Suggested Reading Pathway</h3>
+
+    <p>Readers new to this domain should begin with the anchor articles, then move to explanation, selection, inheritance, variation, adaptation, fitness, and development before exploring extensions such as gene-centrism, multiscale evolution, and the Extended Evolutionary Synthesis. Together these articles provide a systematic account of how APS understands evolution as the historical transformation of viability-oriented organisation across lineages.</p>
+  </section>
+`,
+    boundary:
+      'Some evolutionary concepts overlap with development, ecology, and social organisation. Inheritance, variation, adaptation, fitness, and species are placed here when their primary role concerns lineage continuity, differential persistence, and historical biological transformation.',
+  },
+  {
+    slug: 'developmental-organisation',
+    title: 'Developmental Organisation',
+    description:
+      'Development, continuity, plasticity, robustness, regulation, morphology, physiology, ageing, and organised persistence across transformation.',
+    overview:
+      'This cluster examines how living systems maintain continuity through growth, repair, transformation, ageing, and material change. APS treats development as organised persistence across a life history rather than as the execution of a programme.',
+    architecture: `
+  <section class="domain-architecture-panel">
+    <h2>Development Domain Architecture</h2>
+
+    <div class="domain-architecture-grid">
+      <div class="domain-architecture-group">
+        <h3 class="anchor-heading">Anchor</h3>
+        <ul>
+          <li>The Developmental Organisation of Life</li>
+          <li>Development as Organised Persistence</li>
+        </ul>
+      </div>
+
+      <div class="domain-architecture-group">
+        <h3 class="synthesis-heading">Synthesis</h3>
+        <ul>
+          <li>Developmental Organisation and Organised Persistence</li>
+          <li>Rethinking Development</li>
+          <li>Development and Evolution</li>
+        </ul>
+      </div>
+
+      <div class="domain-architecture-group">
+        <h3 class="core-heading">Core</h3>
+        <ul>
+          <li>Developmental Integration</li>
+          <li>Developmental Regulation</li>
+          <li>Developmental Plasticity</li>
+          <li>Developmental Inheritance</li>
+          <li>Developmental Niches</li>
+          <li>Developmental Scaffolding</li>
+          <li>Developmental Temporality</li>
+          <li>Ontogeny</li>
+          <li>Morphogenesis</li>
+          <li>Life Cycles</li>
+          <li>Homeorhesis</li>
+        </ul>
+      </div>
+
+      <div class="domain-architecture-group">
+        <h3 class="extension-heading">Extension</h3>
+        <ul>
+          <li>Ageing and Organisational Persistence</li>
+          <li>Repair and Regeneration</li>
+          <li>Developmental Fragility</li>
+          <li>Developmental Resilience</li>
+          <li>Developmental Canalisation</li>
+          <li>Development and Cognition</li>
+          <li>Development and Ecological Organisation</li>
+          <li>Development and Social Organisation</li>
+          <li>Development and Evolutionary Explanation</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+`,
+    boundary:
+      'Developmental concepts often draw on foundational ideas such as process, continuity, viability, and temporal organisation. They are placed here when the main issue is how an individual living system maintains or reconstructs itself through developmental change.',
+  },
+  {
+  slug: 'ecological-organisation',
+  title: 'Ecological Organisation',
+
+  description:
+    'Ecology, environment, niche, organismâ€“environment coupling, resilience, ecosystems, and persistence across ecological relations.',
+
+  overview:
+    'This cluster examines how living systems persist through ongoing relations with environments, niches, ecosystems, and other organisms. APS treats ecology not as the study of an external environment acting upon organisms, but as the study of the coupled organisational relations through which viability is maintained across time. Ecological organisation therefore concerns the continuity of living systems through organismâ€“environment interaction, distributed persistence, and multiscale ecological organisation.',
+
+  startHere: [
+    'The Ecological Organisation of Life',
+    'Why Organisms Cannot Be Understood Apart from Their Environments',
+    'Ecology as Organised Persistence Across Scales',
+    'Organismâ€“Environment Coupling â€” Distributed Persistence Across Living Systems',
+  ],
+
+  keyQuestions: [
+    'What is ecology?',
+    'What is an environment?',
+    'Why can organisms not be understood independently of their environments?',
+    'What is organismâ€“environment coupling?',
+    'How do living systems persist through ecological relations?',
+    'What is ecological organisation?',
+    'What is resilience?',
+    'How does ecology operate across biological scales?',
+  ],
+
+  architecture: `
+<section class="domain-architecture-panel">
+  <h2>How This Domain Is Organised</h2>
+
+  <p>This domain is organised around a central question: how do living systems maintain organised persistence through ongoing relations with their environments?</p>
+
+  <p>APS treats ecology as a continuity architecture rather than as the study of organisms and environments considered separately. Living systems do not merely occupy environments. They persist through continuous coupling with ecological conditions that both constrain and enable viability.</p>
+
+  <p>The anchor articles establish the APS account of ecology as organised persistence across ecological relations and scales. They explain why organisms and environments cannot be understood independently and why ecological organisation forms an essential dimension of biological explanation.</p>
+
+  <p>The remaining articles develop this framework through four connected explanatory pathways.</p>
+
+  <h3>Ecological Organisation</h3>
+
+  <p>These articles establish the conceptual foundations of ecology in APS. They explain why ecological organisation concerns the maintenance of viability through relations extending beyond the boundaries of individual organisms.</p>
+
+  <h3>Organismâ€“Environment Coupling</h3>
+
+  <p>These articles examine the reciprocal relations through which organisms and environments co-produce one another. Ecological persistence is not imposed from outside the organism, nor generated entirely from within it. Instead, viability emerges through ongoing coupling between living systems and the ecological conditions they inhabit.</p>
+
+  <h3>Ecology Across Scale</h3>
+
+  <p>These articles explain how ecological organisation extends across multiple levels of biological organisation. Persistence depends upon coordinated relations distributed across organisms, populations, communities, ecosystems, and broader ecological contexts.</p>
+
+  <h3>Resilience and Continuity</h3>
+
+  <p>These articles explore how ecological systems maintain continuity despite disturbance, change, and uncertainty. APS interprets resilience not simply as stability but as the capacity of ecological organisation to reorganise while preserving viability.</p>
+
+  <div class="domain-architecture-grid">
+    <div class="domain-architecture-group">
+      <h3 class="anchor-heading">Anchor</h3>
+      <ul>
+        <li>The Ecological Organisation of Life</li>
+        <li>Ecology as Organised Persistence Across Scales</li>
+      </ul>
+    </div>
+
+    <div class="domain-architecture-group">
+      <h3 class="core-heading">Core</h3>
+      <ul>
+        <li>Why Organisms Cannot Be Understood Apart from Their Environments</li>
+        <li>Environment, Coupling, and Agency â€” Why Organisms and Surroundings Co-Produce Each Other</li>
+        <li>Organismâ€“Environment Coupling â€” Distributed Persistence Across Living Systems</li>
+        <li>Ecological Organisation and Organised Persistence</li>
+      </ul>
+    </div>
+
+    <div class="domain-architecture-group">
+      <h3 class="clarification-heading">Clarification</h3>
+      <ul>
+        <li>Organismâ€“World Coupling â€” Why Agency Is Not Control</li>
+      </ul>
+    </div>
+
+    <div class="domain-architecture-group">
+      <h3 class="extension-heading">Extension</h3>
+      <ul>
+        <li>Resilience, Ecology, and Continuity</li>
+      </ul>
+    </div>
+  </div>
+
+  <h3>Suggested Reading Pathway</h3>
+
+  <p>Readers new to this domain should begin with The Ecological Organisation of Life and Ecology as Organised Persistence Across Scales. These articles establish the APS understanding of ecology as the study of persistence through organismâ€“environment relations.</p>
+
+  <p>Readers should then move to Why Organisms Cannot Be Understood Apart from Their Environments, Environment, Coupling, and Agency, and Organismâ€“Environment Coupling, which develop the central APS account of ecological organisation. Ecological Organisation and Organised Persistence integrates these themes into a unified framework. Organismâ€“World Coupling clarifies common misunderstandings concerning agency and ecological interaction, while Resilience, Ecology, and Continuity explores the implications of ecological organisation for persistence under changing conditions.</p>
+</section>
+`,
+
+  boundary:
+    'Ecological concepts often overlap with evolution, development, cognition, and social organisation. APS treats ecology as the study of persistence through organismâ€“environment relations. Concepts are placed here when their primary explanatory role concerns ecological coupling, environmental organisation, resilience, ecological continuity, or the maintenance of viability across ecological scales.',
+},
+  {
+  slug: 'cognition-and-mind',
+  title: 'Cognition and Mind',
+  description:
+    'Cognition, its biological dependencies and implementation, cognitive attribution, and downstream questions concerning mind, meaning, representation, consciousness, and related phenomena.',
+
+  overview:
+    'This cluster examines when cognitive explanation is warranted in biology and how cognition relates to the living organisation from which it arises. APS does not identify cognition with biological agency, evaluation, significance, integration, signalling, regulation, adaptive responsiveness, or distributed organisation. These may provide important biological dependencies without being sufficient for cognition. The cluster also examines how warranted cognition is materially implemented and how it relates to downstream questions concerning mind, meaning, representation, consciousness, sentience, selfhood, and reflective agency.',
+
+  architecture: `
+<h2>How This Domain Is Organised</h2>
+
+<p>The Cognition and Mind corpus is organised through six connected explanatory relationships.</p>
+
+<h3>Definition and Boundary</h3>
+<p>These articles establish what APS means by cognition and where cognitive explanation belongs within biology. They distinguish cognition from life, agency, regulation, signalling, adaptive responsiveness, and other forms of biological organisation that may remain non-cognitive.</p>
+
+<h3>Biological Dependencies</h3>
+<p>These articles examine biological agency, evaluation, significance, integration, organised persistence, and related conditions upon which cognition may depend. These dependencies help explain how cognition can arise within living organisation, but their presence is not by itself evidence that cognition is present.</p>
+
+<h3>Attribution and Boundary Controls</h3>
+<p>These articles govern how cognitive language is used and compared across biological systems. Shared terminology, behavioural complexity, non-neural organisation, and similarities with familiar cognitive phenomena can motivate investigation, but cognitive attribution requires independently warranted organisational and explanatory evidence.</p>
+
+<h3>Implementation and Localisation</h3>
+<p>Once cognition has been independently warranted, these articles ask where and how the relevant cognitive organisation is materially realised. Distributed biological organisation does not itself establish distributed cognition. The explanatory sequence is cognitive warrant â†’ material implementation â†’ organisational distribution â†’ explanatory consequence â†’ comparator test.</p>
+
+<h3>Applications and Tests</h3>
+<p>These articles apply the cognition framework to particular organisms, biological phenomena, and contested cases. Their purpose is to test whether cognitive explanation is warranted relative to the strongest adequate non-cognitive alternatives rather than to assume cognition from biological complexity alone.</p>
+
+<h3>Downstream Questions and Interfaces</h3>
+<p>These articles examine mind, meaning, representation, consciousness, sentience, selfhood, reflective agency, and related phenomena. Evidence for cognition does not by itself establish these downstream capacities.</p>
+
+<h3>Suggested Reading Pathway</h3>
+<p>Begin with the definition and biological boundary of cognition, then examine its biological dependencies and the controls governing cognitive attribution. From there, proceed to implementation and localisation, applications such as plant cognition, and finally the downstream questions concerning mind and related phenomena.</p>
+`,
+
+  boundary:
+     'Membership in this cluster does not imply that every included concept or biological process is itself cognitive. The cluster includes pre-cognitive dependencies, cognition proper, tests of cognitive attribution, implementation questions, and downstream phenomena that must remain explanatorily distinct.'
+},
+  {
+    slug: 'social-organisation',
+    title: 'Social Organisation',
+    description:
+      'Social organisation, collective agency, cultural continuity, institutions, norms, cooperation, symbolic coordination, and persistence beyond the individual organism.',
+    overview:
+      'This cluster examines how organised persistence extends into social, cultural, institutional, and symbolic forms. APS treats social organisation as a continuity architecture built from shared norms, practices, meanings, and coordinated activity.',
+    boundary:
+      'Social concepts often overlap with cognition and evolution. Communication and meaning belong primarily to Cognition and Mind, while culture, cultural inheritance, social norms, institutions, symbolic coordination, and social continuity belong here when their main role concerns the persistence of social organisation.',
+  },
+  
+{
+  slug: 'diagnostics-and-empirical-tractability',
+  title: 'Diagnostics and Empirical Tractability',
+  description:
+    'Perturbation, malfunction, diagnosis, biosignatures, life detection, evidence, failure, and operational analysis of living systems.',
+  overview:
+    'This cluster examines how APS concepts become empirically tractable. It concerns how living organisation is identified, tested, diagnosed, and distinguished from breakdown, malfunction, or non-living organisation.',
+
+  keyQuestions: [
+    'How can living organisation be recognised and investigated?',
+    'What evidence supports a claim that a system is alive?',
+    'How can biological organisation be assessed empirically?',
+    'What can perturbation reveal about the maintenance of viability?',
+    'How do malfunction and failure help identify biological dependencies?',
+    'How should biosignatures and other indicators of life be interpreted?',
+    'How can living systems be distinguished from non-living or borderline systems?',
+  ],
+
+  architecture: `
+    <section class="domain-architecture-panel">
+      <h2>How This Topic Is Organised</h2>
+
+      <p>This topic addresses a practical scientific question: how can we obtain evidence for the biological organisation described by APS?</p>
+
+      <p>APS understands living systems in terms of viability-oriented organised persistence. Diagnosis and empirical investigation ask how the relevant organisation can be recognised, examined and tested in actual biological systems. A conceptual account of life does not by itself establish that a particular system possesses the organisation it describes.</p>
+
+      <h3>Recognising Living Organisation</h3>
+
+      <p>This pathway concerns the evidence used to identify living systems and distinguish them from non-living or life-like systems. Observable properties, biological activity and proposed biosignatures provide evidence for investigation, but their significance depends upon what they establish about the organisation of the system.</p>
+
+      <h3>Evidence and Empirical Assessment</h3>
+
+      <p>This pathway examines how claims about biological agency, viability, organisation and persistence can be connected to observations and tests. It distinguishes a theoretical description from evidence that the proposed organisation is materially realised and contributes to continued functioning.</p>
+
+      <h3>Perturbation and Biological Dependencies</h3>
+
+      <p>This pathway considers what happens when the conditions supporting a living system are altered. Perturbations can help identify dependencies by revealing which processes and organisational relations contribute to maintaining or restoring viable functioning. Their interpretation requires appropriate controls and consideration of alternative explanations.</p>
+
+      <h3>Malfunction, Failure and Diagnosis</h3>
+
+      <p>This pathway examines how disruption, malfunction and failure can illuminate biological organisation. When a system loses a capacity or fails to maintain its functioning, the resulting changes may help identify the dependencies upon which persistence relies. Failure alone, however, does not establish the particular explanation of that failure.</p>
+
+      <h3>Life Detection and Boundary Cases</h3>
+
+      <p>This pathway considers how evidence should be assessed in difficult cases, including minimal, unfamiliar or apparently life-like systems. The central question is not whether a system resembles familiar organisms, but whether the available evidence warrants attributing the relevant form of living organisation.</p>
+
+      <h3>Suggested Reading Pathway</h3>
+
+      <p>Begin with the questions of how life is recognised and what counts as evidence for living organisation. Then examine empirical assessment, perturbation and biological diagnosis to understand how proposed organisational dependencies may be investigated. Finally, explore biosignatures, life detection and borderline cases, where the distinction between suggestive indicators and warranted biological conclusions becomes especially important.</p>
+
+      <p>The articles and glossary entries listed below provide the available APS treatments of these subjects. The pathways are guides to reading and investigation, not claims that every proposed diagnostic procedure has already been empirically validated.</p>
+    </section>
+  `,
+
+  boundary:
+    'Diagnostic concepts often depend on foundational ideas such as viability, organisation, persistence, and continuity. They are placed here when the main issue is how those forms of organisation are recognised, evidenced, perturbed, or operationally assessed.',
+},
+
+  {
+    slug: 'philosophy-of-biology',
+    title: 'Philosophy of Biology',
+    description:
+      'Philosophical foundations, realism, reductionism, mechanism, holism, organicism, teleology, historical context, and conceptual clarification.',
+    overview:
+      'This cluster examines the philosophical traditions, debates, and interpretive problems with which APS engages. It situates APS in relation to reductionism, mechanism, holism, organicism, teleology, realism, and broader philosophy of biology.',
+    boundary:
+      'Some concepts here have close methodological or foundational connections. Teleology is placed here as a philosophical debate, while teleonomy, purpose, function, and normativity belong in Conceptual Foundations when they express APSâ€™s positive biological account of purposive organisation.',
+  },
+ {
+    slug: 'methodology-and-explanation',
+    title: 'Methodology and Explanation',
+    description:
+      'Comparative explanatory methodology, explanatory targets, dependency claims, evidence, causation, classification, and the organisation of biological explanation.',
+    overview:
+      'This cluster examines how biological explanations can be specified, compared, and assessed relative to particular explananda and relevant comparators. APS distinguishes description from explanation, requires proposed explanatory dependencies to be materially and empirically warranted, and treats explanatory gain as target-relative and comparator-relative rather than as an intrinsic property of a framework.',
+    boundary:
+      'Methodological concepts often overlap with foundations and philosophy. Causation, classification, emergence, explanatory direction, explanatory grammar, and counterfactual depth are placed here when their main role concerns explanatory practice rather than the biological organisation being explained.',
+        architecture: `
+      <section class="domain-architecture-panel">
+        <h2>Suggested Reading Route</h2>
+
+        <p>
+          These articles provide a route from identifying a biological
+          explanatory target to comparing explanations, assessing explanatory
+          gain, and examining APS research findings. The sequence is a
+          reading guide, not a required explanatory hierarchy.
+        </p>
+
+        <ol>
+          <li>
+            <a href="/articles/biological-explanation-what-needs-to-be-explained/">
+              Biological Explanation â€” What Needs to Be Explained
+            </a>
+            â€” identifying the explanatory target.
+          </li>
+          <li>
+            <a href="/articles/how-should-scientific-explanations-be-compared/">
+              How Should Scientific Explanations Be Compared?
+            </a>
+            â€” comparing explanations against adequate alternatives.
+          </li>
+          <li>
+            <a href="/articles/what-counts-as-explanatory-gain/">
+              What Counts as Explanatory Gain?
+            </a>
+            â€” assessing additional explanatory capacity.
+          </li>
+          <li>
+            <a href="/research/">
+              APS Research
+            </a>
+            â€” examining research programmes and the evidential status
+            of their findings.
+          </li>
+        </ol>
+      </section>
+    `,
+  },
+    
+  {
+   slug: 'artificial-systems-and-boundaries',
+   title: 'Artificial Systems and Boundaries',
+   description:
+    'Artificial systems, AI, borderline cases, minimal life, synthetic systems, and the limits of biological organisation.',
+   overview:
+    'This cluster examines cases that test the boundaries of APS. It considers artificial systems, AI, minimal life, synthetic biology, borderline organisation, and systems that resemble life without necessarily possessing biological agency.',
+
+   architecture: `
+  <h2>How This Cluster Is Organised</h2>
+
+  <p>This cluster is organised around a central question: how should living systems be distinguished from artificial, simulated, and borderline forms of organisation?</p>
+
+  <p>The anchor article, <em>The Boundaries of Life</em>, establishes the APS account of biological boundaries and provides the conceptual framework for the cluster as a whole. It explains why APS defines life in terms of viability-oriented organised persistence and why boundary questions are ultimately questions about organisation rather than superficial similarity.</p>
+
+  <p>The remaining articles develop this framework through four connected explanatory pathways.</p>
+
+  <h3>Definition and Diagnosis</h3>
+
+  <p>These articles explain what life is and how living organisation can be recognised, diagnosed, and investigated. They establish the conceptual and empirical criteria through which APS approaches questions of life detection, biological identification, and evidential assessment.</p>
+
+  <h3>Borderline Cases</h3>
+
+  <p>These articles examine difficult cases such as viruses, dormancy, minimal life, protocells, and other systems that challenge conventional distinctions between living and non-living organisation. Their purpose is not simply to classify unusual systems, but to clarify which forms of organisation are necessary for viability-oriented persistence.</p>
+
+  <h3>Artificial Systems</h3>
+
+  <p>These articles investigate artificial intelligence, computation, artificial life, and related systems that may resemble living systems in some respects while lacking biological agency. They clarify why simulation, information processing, behavioural complexity, and adaptive performance are not by themselves sufficient for life.</p>
+
+  <h3>Integration and Clarification</h3>
+
+  <p>These articles reconnect boundary questions to the wider APS framework. They show how agency, organisation, persistence, diagnosis, cognition, and biological explanation together help clarify the limits of living organisation and the distinction between life, life-like systems, and artificial systems.</p>
+
+  <h3>Suggested Reading Pathway</h3>
+
+  <p>Readers new to APS should begin with <em>The Boundaries of Life</em>. From there, the cluster progresses naturally from definition and diagnosis to borderline cases and finally to artificial systems. Together these articles provide a systematic account of how APS distinguishes living, artificial, and life-like forms of organisation.</p>
+`,
+
+   boundary:
+    'Boundary cases often draw on diagnostics, cognition, and conceptual foundations. They are placed here when the main issue is whether a system should count as living, agentive, cognitive, artificial, or merely life-like under APS criteria.',
+  },
+  ];
+
+export function getStaticPaths() {
+  return [
+    { params: { slug: 'conceptual-foundations' } },
+    { params: { slug: 'evolutionary-dynamics' } },
+    { params: { slug: 'developmental-organisation' } },
+    { params: { slug: 'ecological-organisation' } },
+    { params: { slug: 'cognition-and-mind' } },
+    { params: { slug: 'social-organisation' } },
+    { params: { slug: 'diagnostics-and-empirical-tractability' } },
+    { params: { slug: 'methodology-and-explanation' } },
+    { params: { slug: 'philosophy-of-biology' } },
+    { params: { slug: 'artificial-systems-and-boundaries' } },
+  ];
+}
+
+const { slug } = Astro.params;
+const cluster = clusters.find((c) => c.slug === slug)!;
+
+const articles = (await getCollection('articles')).filter(
+  (a) => a.data.cluster === slug,
+);
+
+const glossaryEntries = (await getCollection('glossary')).filter(
+  (g) => g.data.cluster === slug,
+);
+
+const streams = (await getCollection('streams')).filter(
+  (s) => s.data.cluster === slug,
+);
+
+const statusOrder: Record<string, number> = {
+  canonical: 0,
+  evolving: 1,
+  draft: 2,
+};
+
+articles.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) -
+      (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+
+glossaryEntries.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) -
+      (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+
+streams.sort(
+  (a, b) =>
+    (statusOrder[a.data.status] ?? 9) -
+      (statusOrder[b.data.status] ?? 9) ||
+    a.data.title.localeCompare(b.data.title),
+);
+
+const articleRoleGroups = [
+  { role: 'anchor', title: 'Anchor Articles' },
+  { role: 'core', title: 'Core Articles' },
+  { role: 'clarification', title: 'Clarifications' },
+  { role: 'synthesis', title: 'Syntheses' },
+  { role: 'extension', title: 'Extensions' },
+];
+
+const groupedArticles = articleRoleGroups
+  .map((group) => ({
+    ...group,
+    articles: articles.filter((entry) => entry.data.role === group.role),
+  }))
+  .filter((group) => group.articles.length > 0);
+---
+
+<BaseLayout title={cluster.title} description={cluster.description}>
+  <div class="content-wrapper">
+    <Breadcrumb
+      items={[
+        { label: 'Clusters' },
+        { label: cluster.title },
+      ]}
+    />
+
+    <header class="cluster-header">
+      <h1>{cluster.title}</h1>
+
+      <p class="cluster-description">
+        {cluster.description}
+      </p>
+
+       <p class="cluster-overview">
+        {cluster.overview}
+      </p>
+
+      {
+  cluster.architectureGuide && (
+    <section class="domain-architecture-guide">
+      <h2>Start with the Architecture</h2>
+
+      <p>
+        Before exploring individual concepts, readers should begin with the
+        architectural overview of the APS framework.
+      </p>
+
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title">
+            <a href={cluster.architectureGuide.href}>
+              {cluster.architectureGuide.title}
+            </a>
+          </h3>
+
+          <TypeBadge type="orientation" />
+        </div>
+
+        <p class="card-excerpt">
+          {cluster.architectureGuide.description}
+        </p>
+      </div>
+    </section>
+  )
+}
+
+      {
+        cluster.startHere && (
+          <section class="domain-start-here">
+            <h2>Start Here</h2>
+
+            <p>
+              New to this domain? These articles provide the quickest route into the
+              central APS ideas.
+            </p>
+
+            <ol>
+              {cluster.startHere.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ol>
+          </section>
+        )
+      }
+
+      {
+        cluster.keyQuestions && (
+          <section class="domain-key-questions">
+            <h2>Key Questions</h2>
+
+            <ul>
+              {cluster.keyQuestions.map((item) => (
+                <li>{item}</li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        cluster.architecture && (
+        <section class="cluster-architecture">
+          <div set:html={cluster.architecture} />
+        </section>
+      )
+    }
+
+      <aside class="cluster-boundary-note">
+        <strong>Cluster note:</strong> {cluster.boundary}
+      </aside>
+    </header>
+
+    {
+  groupedArticles.length > 0 && (
+    <section class="home-section">
+      <h2>Articles</h2>
+
+      {groupedArticles.map((group) => (
+        <section class="article-role-group">
+          <h3>{group.title}</h3>
+
+          <ul class="card-list">
+            {group.articles.map((entry) => (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={`/articles/${entry.data.slug}/`}>
+                      {entry.data.title}
+                    </a>
+                  </h3>
+
+                  <DomainBadge cluster={entry.data.cluster} />
+
+                  {entry.data.role && <TypeBadge type={entry.data.role} />}
+                </div>
+
+                <p class="card-excerpt">
+                  {entry.data.abstract}
+                </p>
+
+                <div class="card-meta">
+                  Revised: {entry.data.revised}
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </section>
+  )
+}
+
+    {
+      glossaryEntries.length > 0 && (
+        <section class="home-section">
+          <h2>Glossary Entries</h2>
+
+          <ul class="card-list">
+            {glossaryEntries.map((entry) => (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={`/glossary/${entry.data.slug}/`}>
+                      {entry.data.title}
+                    </a>
+                  </h3>
+
+                  <DomainBadge cluster={entry.data.cluster} />
+                  <TypeBadge type="glossary" />
+                </div>
+
+                <p class="card-excerpt">
+                  {entry.data.inBrief}
+                </p>
+
+                <div class="card-meta">
+                  Revised: {entry.data.revised}
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      streams.length > 0 && (
+        <section class="home-section">
+          <h2>Research Streams</h2>
+
+          <ul class="card-list">
+            {streams.map((entry) => (
+              <li class="card">
+                <div class="card-header">
+                  <h3 class="card-title">
+                    <a href={`/streams/${entry.data.slug}/`}>
+                      {entry.data.title}
+                    </a>
+                  </h3>
+
+                  <StatusBadge status={entry.data.status} />
+                  <TypeBadge type="stream" />
+                </div>
+
+                <p class="card-excerpt">
+                  {entry.data.overview}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      articles.length === 0 &&
+        glossaryEntries.length === 0 &&
+        streams.length === 0 && (
+          <p>
+            No content has been published in this cluster yet.
+            Check back soon.
+          </p>
+        )
+    }
+  </div>
+</BaseLayout>

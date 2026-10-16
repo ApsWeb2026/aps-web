@@ -6,7 +6,7 @@ type: article
 status: draft
 canonical: false
 canonicalLockDate: null
-revised: 2026-10-15
+revised: 2026-10-16
 cluster: evolutionary-dynamics
 role: extension
 
@@ -99,12 +99,8 @@ references:
 **Where This Article Fits**
 *This article applies the Agency–Process–Scale (APS) framework to a long-term, explicitly speculative question about human evolution in artificial environments. It extends the APS treatment of biological agency, organised persistence, and evolutionary transformation without proposing new mechanisms of evolution or predicting particular inherited human traits. It distinguishes physiological maintenance, development, technological assistance, cultural transmission, and biological evolutionary change. Its purpose is to demonstrate how APS can organise questions about humanity's possible future while preserving the explanatory roles of established evolutionary, physiological, and social sciences. The scenarios are conditional illustrations, not empirical forecasts or evidence that APS offers explanatory superiority over existing integrative frameworks.*
 
-# Human Evolution in an AI-Mediated World: An APS Interpretation of the Next 3,000 Years
-
-How might artificial intelligence alter the conditions of human life, the organisation of human agency, and the evolutionary processes through which human populations change?
-
 ## Introduction: The Future of Human Evolution
-
+How might artificial intelligence alter the conditions of human life, the organisation of human agency, and the evolutionary processes through which human populations change?
 What might human beings be like three thousand years from now?
 
 The question invites familiar images of the future: larger brains, longer lives, genetically enhanced bodies, artificial organs, or an eventual merger of human intelligence with machines. Such possibilities are interesting, but they can also obscure a fundamental distinction. Changes in human biology, changes in human ways of living, and changes in the technologies supporting human life are not necessarily the same kind of evolutionary transformation.
