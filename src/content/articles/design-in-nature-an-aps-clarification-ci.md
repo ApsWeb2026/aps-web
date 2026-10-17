@@ -7,8 +7,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-30
-revised: 2026-07-18
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 abstract: >
   Living systems exhibit extraordinary organisation that is often described as
   design. Yet modern biology rejects the idea that organisms were intentionally

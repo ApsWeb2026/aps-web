@@ -5,8 +5,9 @@ slug: "the-two-founding-questions-of-biology"
 type: article
 abstract: "This article identifies the two founding questions of biology as the questions of what life is and how living forms change, and shows how APS integrates them within a unified explanatory framework."
 status: canonical
-revised: 2026-04-05
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: synthesis
 keyPoints:
   - "Biology begins from the questions of what life is and how living forms change."
   - "These two questions underlie the development of biological theory across its history."

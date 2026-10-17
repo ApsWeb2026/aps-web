@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04
-revised: 2026-06-15
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 
 abstract: >
   Teleology has long been treated as problematic in biology, associated either

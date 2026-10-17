@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 abstract: >
   Information is one of the most widely used and ambiguously defined concepts
   in biology. Genes are described as informational, nervous systems as

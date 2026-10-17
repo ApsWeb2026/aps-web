@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-08-22
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 
 abstract: >
   Control theory provides powerful explanatory and mathematical resources

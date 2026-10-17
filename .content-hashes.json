@@ -96,7 +96,7 @@
   },
   "articles/explanatory-grammar": {
     "hash": "aca82d78644772b9",
-    "revised": "2026-08-19",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-29"
   },
   "articles/function": {
@@ -216,7 +216,7 @@
   },
   "articles/analysis-synthesis-and-the-direction-of-explanation": {
     "hash": "c8ef85382ce1f234",
-    "revised": "2026-08-19",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-03"
   },
   "articles/aps-and-contemporary-theories": {
@@ -236,7 +236,7 @@
   },
   "articles/aps-and-systems-theory": {
     "hash": "002ec109e99b77eb",
-    "revised": "2026-09-14",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-11"
   },
   "articles/aps-and-the-edges-of-life-why-borderline-cases-are-expected-not-problematic": {
@@ -276,12 +276,12 @@
   },
   "articles/aps-visual-explanatory-grammar": {
     "hash": "880cd92d69faef45",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-20"
   },
   "articles/beyond-placeholder-concepts-in-biology-an-aps-clarification": {
     "hash": "5a6c9b8cba835246",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-30"
   },
   "articles/biological-agency-as-the-activity-of-self-maintenance": {
@@ -296,7 +296,7 @@
   },
   "articles/biological-classification-in-aps": {
     "hash": "75ab320550c389ef",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-12"
   },
   "articles/biological-evidence-what-counts-as-evidence-for-life": {
@@ -316,7 +316,7 @@
   },
   "articles/biology": {
     "hash": "131904b2ab8cb2c1",
-    "revised": "2026-08-27",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-14"
   },
   "articles/boundaries-of-life-how-aps-distinguishes-living-artificial-and-borderline-systems": {
@@ -331,7 +331,7 @@
   },
   "articles/classification-without-essentialism": {
     "hash": "88cf51eb83206e26",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-12"
   },
   "articles/cognition-where-does-it-belong-in-biology": {
@@ -391,12 +391,12 @@
   },
   "articles/description-explanation-and-definition-in-biology": {
     "hash": "bf29495ebbcb5103",
-    "revised": "2026-07-28",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-07"
   },
   "articles/design-in-nature-an-aps-clarification": {
     "hash": "e5433e639917e2bc",
-    "revised": "2026-07-18",
+    "revised": "2026-10-17",
     "lockedSince": "2026-06-30"
   },
   "articles/development-and-biological-individuality": {
@@ -526,11 +526,11 @@
   },
   "articles/emergence-in-biology-an-aps-clarification": {
     "hash": "6c82a200d2f3b705",
-    "revised": "2026-07-28",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-26"
   },
   "articles/evaluation-how-living-systems-modulate-activity-relative-to-viability": {
-    "hash": "616d735f3f503285",
+    "hash": "57f891b39ed37bf0",
     "revised": "2026-10-17",
     "lockedSince": "2026-05-29"
   },
@@ -541,7 +541,7 @@
   },
   "articles/explanatory-priority-is-not-ontological-priority": {
     "hash": "0fae662a75ff453a",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-28"
   },
   "articles/from-life-to-explanation-emerging-architecture": {
@@ -576,7 +576,7 @@
   },
   "articles/history-as-organised-persistence": {
     "hash": "13d4a755fc7e3a85",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-16"
   },
   "articles/how-to-diagnose-a-biological-system": {
@@ -586,7 +586,7 @@
   },
   "articles/information-in-biology-an-aps-clarification": {
     "hash": "5aa3eb638efafe8b",
-    "revised": "2026-09-14",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-29"
   },
   "articles/inheritance-and-continuity-in-aps": {
@@ -631,7 +631,7 @@
   },
   "articles/multiple-realization-and-biological-organisation": {
     "hash": "5a4d7967849a3e00",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-27"
   },
   "articles/multiscale-evolution-and-organised-persistence": {
@@ -711,12 +711,12 @@
   },
   "articles/reductionism-in-biology-an-aps-clarification": {
     "hash": "b366dd102228bc36",
-    "revised": "2026-09-09",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-26"
   },
   "articles/reframing-biology-how-aps-reorganises-core-concepts": {
     "hash": "c15ed65fae21d0bb",
-    "revised": "2026-07-22",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-16"
   },
   "articles/repair-and-regeneration": {
@@ -726,7 +726,7 @@
   },
   "articles/representation-when-and-whether-it-arises-in-biological-systems": {
     "hash": "5637dd274bec48bd",
-    "revised": "2026-09-14",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-29"
   },
   "articles/resilience-ecology-and-continuity": {
@@ -756,12 +756,12 @@
   },
   "articles/space-time-and-organisation-in-biology": {
     "hash": "e27b3bc550db6e84",
-    "revised": "2026-08-03",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-01"
   },
   "articles/structure-of-biological-explanation-in-aps": {
     "hash": "09fed14e9da5776b",
-    "revised": "2026-08-18",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-16"
   },
   "articles/symbolic-coordination": {
@@ -776,7 +776,7 @@
   },
   "articles/teleology-in-biology-an-aps-clarification": {
     "hash": "213de083dfc46c67",
-    "revised": "2026-06-15",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-04"
   },
   "articles/teleonomy": {
@@ -881,12 +881,12 @@
   },
   "articles/why-aps-is-not-holism": {
     "hash": "e526df74fbbc60bd",
-    "revised": "2026-08-10",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-28"
   },
   "articles/why-aps-is-not-organicism": {
     "hash": "9d2519452fcdb8ea",
-    "revised": "2026-07-28",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-28"
   },
   "articles/why-aps-reframes-biology": {
@@ -906,7 +906,7 @@
   },
   "articles/why-life-is-not-active-inference": {
     "hash": "a12a3a1abf199b2b",
-    "revised": "2026-09-14",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-29"
   },
   "articles/why-life-is-not-computation-an-aps-clarification": {
@@ -916,12 +916,12 @@
   },
   "articles/why-life-is-not-control-theory": {
     "hash": "9b239867ef4dc88e",
-    "revised": "2026-08-22",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-15"
   },
   "articles/why-life-is-not-information-processing": {
     "hash": "a98efd019442249a",
-    "revised": "2026-09-14",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-28"
   },
   "articles/why-life-is-not-intelligence-an-aps-clarification": {
@@ -1386,7 +1386,7 @@
   },
   "articles/aps-and-autonomy-theory": {
     "hash": "5070693304663349",
-    "revised": "2026-09-14",
+    "revised": "2026-10-17",
     "lockedSince": "2026-04-27"
   },
   "articles/why-life-is-not-autopoiesis": {
@@ -1781,7 +1781,7 @@
   },
   "articles/aps-glossary-as-conceptual-infrastructure": {
     "hash": "8732bd0bb35f316e",
-    "revised": "2026-10-12",
+    "revised": "2026-10-17",
     "lockedSince": "2026-05-03"
   },
   "articles/biological-organisation-and-the-organisation-of-explanation": {

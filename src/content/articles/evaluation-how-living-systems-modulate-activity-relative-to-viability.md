@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-title: "Evaluation â€” How Living Systems Modulate Activity Relative to Viability"
+title: "Evaluation: How Living Systems Modulate Activity Relative to Viability"
 slug: evaluation-how-living-systems-modulate-activity-relative-to-viability
 type: article
 status: canonical

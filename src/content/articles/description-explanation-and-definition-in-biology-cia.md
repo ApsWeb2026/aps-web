@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-07
-revised: 2026-07-28
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: clarification
 abstract: >
   APS distinguishes between descriptive, explanatory, and definitional uses of
   biological language. Ordinary biological terminology often functions

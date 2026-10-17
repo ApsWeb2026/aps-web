@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 
 abstract: >
   Active Inference and the Free Energy Principle provide influential frameworks for explaining adaptive regulation, prediction, learning, behavioural coordination, uncertainty management, and organism–environment relations. APS rejects the stronger identity claim that inference, prediction, optimisation, or free-energy minimisation by themselves define life. APS instead defines life as viability-oriented, constraint-closed organisation and treats organised persistence as the problem of biological continuity through change. This article clarifies the resulting difference without assuming that active inference merely describes biological activity while APS alone explains its constitutive organisation. Where the frameworks address the same explanatory target, comparative gain requires target-matched assessment.

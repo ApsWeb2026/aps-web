@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-27
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 abstract: |
   Autonomy theory and APS occupy closely related positions within organisational biology. Both treat living systems in terms of organisation, self-maintenance, regulation, and endogenous biological normativity, while APS formulates its own account through viability-oriented, constraint-closed organisation and organised persistence. This article clarifies their substantial conceptual overlap while distinguishing terminological, architectural, methodological, and explanatory differences. These differences do not by themselves establish that APS extends, completes, or improves upon autonomy theory; any comparative explanatory gain requires target-matched assessment against the strongest relevant autonomy-theory account.
 keyPoints:

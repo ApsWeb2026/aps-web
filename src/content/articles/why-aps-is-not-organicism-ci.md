@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-07-28
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 
 abstract: >
   APS shares important concerns with historical organicism, particularly the

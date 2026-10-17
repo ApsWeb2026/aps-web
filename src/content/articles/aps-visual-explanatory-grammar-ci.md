@@ -6,8 +6,9 @@ date: 2026-05-18
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-20
-revised: 2026-06-15
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: core
 abstract: >
   This document establishes the canonical visual architecture of APS_WEB.
   It defines the purpose, hierarchy, semantics, continuity structure,

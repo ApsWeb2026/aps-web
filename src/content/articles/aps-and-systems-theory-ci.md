@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-11
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 abstract: >
   Systems theory provides powerful tools for describing interaction, feedback,
   regulation, and dynamics in biological systems. This article compares systems

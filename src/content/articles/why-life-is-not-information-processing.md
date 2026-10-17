@@ -6,8 +6,9 @@ slug: why-life-is-not-information-processing
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 
 abstract: >
   Information-processing approaches provide important explanatory resources

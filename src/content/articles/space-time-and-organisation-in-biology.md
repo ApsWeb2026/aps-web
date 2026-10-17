@@ -3,11 +3,12 @@ title: Space, Time, and Organisation in Biology — An APS Clarification
 slug: space-time-and-organisation-in-biology
 type: article
 date: 2026-05-01
-revised: 2026-08-03
+revised: 2026-10-17
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-01
 cluster: conceptual-foundations
+role: clarification
 abstract: >
   This article clarifies the roles of space and time in biological explanation
   within the APS framework. It argues that space and time are not primary

@@ -16,8 +16,9 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-09
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 keyPoints:
   - APS distinguishes material constitution from explanatory sufficiency.
   - Living systems remain fully grounded in physical and chemical processes.

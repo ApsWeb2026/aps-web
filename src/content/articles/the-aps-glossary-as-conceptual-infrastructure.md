@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-10-12
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: clarification
 abstract: >
   This article explains how the APS glossary functions as conceptual
   infrastructure. Canonical definitions, controlled terminology, documented

@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-07-22
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: synthesis
 
 abstract: >
   APS does not replace biology's central concepts. It reorganises them.

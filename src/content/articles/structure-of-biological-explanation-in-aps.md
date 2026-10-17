@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-08-18
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: core
 abstract: >
   abstract: >
   This article specifies how biological explanation is organised within the

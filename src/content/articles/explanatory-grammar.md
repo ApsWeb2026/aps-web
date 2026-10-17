@@ -10,9 +10,9 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-19
-
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: core
 
 keyPoints:
   - Explanatory Grammar identifies the organised conceptual and explanatory relations through which APS structures its account of living organisation.

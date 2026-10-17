@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-08-19
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: clarification
 abstract: >
   Analysis and synthesis identify distinguishable explanatory orientations:
   analysis investigates systems through their components and interactions,

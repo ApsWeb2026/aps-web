@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: philosophy-of-biology
+role: clarification
 abstract: >
   Representation is often invoked to explain cognition, prediction, memory,
   planning, and intelligent behaviour. APS does not treat representation as a

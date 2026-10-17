@@ -7,8 +7,9 @@ abstract: "Biology explains living systems through diverse but complementary for
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-08-27
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: core
 
 keyPoints:
   - Life is viability-oriented, constraint-closed organisation.

@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-12
-revised: 2026-06-15
+revised: 2026-10-17
 cluster: methodology-and-explanation
+role: clarification
 abstract: >
   APS reframes biological classification as the mapping of persistent,
   viability-oriented organisation rather than the grouping of organisms by
