@@ -1,24 +1,31 @@
 ---
-date: 2026-05-12
 title: "Why APS Reframes Biology"
+date: 2026-05-12
 slug: why-aps-reframes-biology
 type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-12
-revised: 2026-09-14
+revised: 2026-10-17
 cluster: methodology-and-explanation
 role: anchor
+
 abstract: >
-  APS reframes questions about living systems around viability-oriented,
-  constraint-closed organisation and organised persistence. Rather than
-  replacing established biological explanations, it investigates how their
-  contributions bear upon living organisation when that organisation is the
-  explanatory target. Through its comparative explanatory methodology and Agency–Process–Scale
-  analytic grammar, APS proposes a general organisational account of life while
-  preserving explanatory plurality. Whether this
-  reframing provides explanatory gain over alternative accounts addressing
-  the same target requires target-matched comparative assessment.
+  Agency–Process–Scale (APS) reframes biological inquiry by making
+  viability-oriented organisation and organised persistence explicit
+  explanatory targets. Rather than replacing established biological
+  explanations, it investigates how their distinctive contributions
+  bear upon the maintenance and transformation of living organisation.
+  Agency, Process, and Scale provide complementary analytic projections
+  through which organisational dependencies can be identified,
+  related, and assessed. The proposed scientific contribution includes
+  the possibility that APS can make relationships among biological
+  concepts more precise, empirically assessable, and systematically
+  intelligible across domains. Whether it achieves these outcomes,
+  and whether they establish scientific usefulness or comparative
+  explanatory gain, requires independent assessment and, where
+  comparative advantage is claimed, target-matched evaluation
+  against the strongest relevant alternatives.
 
 relatedGlossaryTerms:
   - biological-organisation
@@ -32,7 +39,7 @@ relatedGlossaryTerms:
   - adaptation
   - evolution
   - normativity
-  
+
 relatedArticles:
   - what-is-aps
   - understanding-aps-the-structure-of-the-framework
@@ -53,21 +60,25 @@ references:
     year: 1859
     title: On the Origin of Species
     publisher: John Murray
+
   - id: mayr-1988-new-philosophy-biology
     authors: Mayr, E.
     year: 1988
     title: Toward a New Philosophy of Biology
     publisher: Harvard University Press
+
   - id: craver-2007-explaining-brain
     authors: Craver, C. F.
     year: 2007
     title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
     publisher: Oxford University Press
+
   - id: bechtel-2016-discovering-cell-mechanisms
     authors: Bechtel, W.
     year: 2016
     title: Discovering Cell Mechanisms
     publisher: Cambridge University Press
+
   - id: kitano-2002-systems-biology
     authors: Kitano, H.
     year: 2002
@@ -77,11 +88,13 @@ references:
     issue: "5560"
     pages: "1662-1664"
     doi: 10.1126/science.1069492
+
   - id: moreno-mossio-2015-biological-autonomy
     authors: Moreno, A.; Mossio, M.
     year: 2015
     title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
     publisher: Springer
+
   - id: nicholson-2019-life-after-gene
     authors: Nicholson, D. J.
     year: 2019
@@ -90,6 +103,7 @@ references:
     volume: "477"
     pages: "108-126"
     doi: 10.1016/j.jtbi.2019.06.002
+
   - id: cummins-1975-functional-analysis
     authors: Cummins, R.
     year: 1975
@@ -98,6 +112,7 @@ references:
     volume: "72"
     issue: "20"
     pages: "741-765"
+
   - id: mossio-bich-2017-what-makes-biological-function
     authors: Mossio, M.; Bich, L.
     year: 2017
@@ -107,6 +122,7 @@ references:
     issue: "4"
     pages: "1089-1114"
     doi: 10.1007/s11229-014-0594-z
+
   - id: godfrey-smith-2009-darwinian-populations
     authors: Godfrey-Smith, P.
     year: 2009
@@ -114,320 +130,115 @@ references:
     publisher: Oxford University Press
 ---
 
-> **Where this article fits:** This article provides a concise strategic overview of why APS reframes questions about living organisation and organised persistence. It is not a full presentation of the framework’s philosophical architecture—developed more extensively in *[APS as Philosophy — A Viability-Oriented Account of Biological Reality](/articles/aps-as-philosophy-biological-intelligibility/)*—nor a formal account of APS explanatory structure, developed in *[The Explanatory Geometry of Biology — How APS Organises Biological Explanation](/articles/explanatory-geometry-of-biology/)*. Rather, it explains why APS makes living organisation and organised persistence explicit explanatory targets and situates that reframing within APS as a comparative explanatory methodology for biology. The comparative-methodology articles establish how claims arising from that reframing are to be assessed.
+> **Where this article fits:** This Anchor article explains why APS makes living organisation and organised persistence explicit explanatory targets and how this orientation informs its approach to biological explanation. It complements *APS as Philosophy — A Viability-Oriented Account of Biological Reality*, which examines the framework's philosophical commitments, and *The Explanatory Geometry of Biology*, which develops its explanatory structure. The present article concentrates on the scientific rationale for reframing familiar biological questions and relating explanations across domains. It distinguishes the conceptual integration proposed by APS from demonstrated scientific usefulness and comparative explanatory gain, which are investigated through the wider APS research and explanatory-methodology programmes.
 
-## Introduction
+## Introduction — Why Reframe Biology?
 
-Biology possesses extraordinarily powerful explanatory frameworks.
+Modern biology has achieved extraordinary explanatory success through the development of specialised theories, methods, and investigative practices. Evolutionary theory explains changes in populations across generations; genetics investigates inheritance and variation; molecular and cellular biology identify mechanisms of biological activity; developmental biology examines the generation and transformation of biological form; and ecology investigates relations among organisms and their environments. Systems biology has extended these achievements by examining networks of interactions and the dynamics of complex biological systems (Darwin 1859; Mayr 1988; Kitano 2002).
 
-Mechanistic biology explains how systems operate through organised causal interactions. Evolutionary biology explains how populations change across generations. Genetics explains inheritance and variation. Information-theoretic approaches describe signalling, coding, and regulation. Systems biology analyses interaction networks across multiple scales.
+These approaches address different questions, employ different explanatory resources, and frequently operate at different spatial and temporal scales. Their diversity is a strength of biological science rather than a defect requiring correction. A molecular account of enzyme activity need not become an evolutionary explanation, and an explanation of natural selection need not reproduce the mechanisms of cellular metabolism. The adequacy of an explanation depends, in the first instance, on the phenomenon being explained and the evidence relevant to it.
 
-These successes address different biological questions and need not share a
-single explicit explanatory target.
+Nevertheless, the success of specialised explanations leaves room for a further kind of inquiry. Biological phenomena occur within living systems whose organisation is established, maintained, repaired, reproduced, and transformed through time. Although many established approaches already investigate aspects of these processes, it remains legitimate to ask how their explanatory contributions relate when living organisation itself becomes the object of investigation.
 
-APS begins from a particular question that cuts across those differences:
+Agency–Process–Scale (APS) begins with this question. Rather than proposing to replace existing biological explanations, it asks how living systems sustain the organisation required for their continued existence, and how explanations from different biological domains bear upon that achievement. The framework therefore introduces a particular explanatory orientation: it makes viability-oriented biological organisation and organised persistence explicit targets around which relevant biological knowledge may be related.
 
-> What organisation is characteristic of living systems, and how is that
-> organisation maintained despite change?
+The significance of this proposal is not that biology has previously ignored organisation. Mechanistic, systems, processual, and organisational approaches have already made substantial contributions to its investigation (Craver 2007; Moreno and Mossio 2015; Bechtel 2016; Nicholson 2019). The question is whether APS provides a sufficiently precise and empirically assessable way of relating these contributions, and whether doing so improves biological understanding in identifiable respects.
 
-APS proposes life as viability-oriented, constraint-closed organisation and
-organised persistence as the problem of how that organisation maintains and
-re-establishes the conditions of its continuity through change.
+## Living Organisation and Organised Persistence
 
-This gives APS a potentially domain-wide explanatory problem without making
-that problem obligatory for every biological inquiry. Particular phenomena may
-be adequately explained through mechanistic, evolutionary, developmental,
-ecological, mathematical, informational, or other approaches.
+APS defines life as **viability-oriented, constraint-closed organisation**. This definition identifies the organisational character of living systems, while organised persistence concerns how such organisation maintains or re-establishes the conditions of its continuity through change. The distinction is important. A definition proposes what characterises living organisation; an explanation must investigate the processes and dependencies through which that organisation is realised and sustained.
 
-APS therefore does not reconstruct biological explanation generally. It
-reframes questions about living organisation by making that organisation
-explicit as an explanatory target and investigating how established biological
-findings and explanations bear upon it.
+Living systems are neither materially static nor organisationally unchanging. Their constituents undergo continual turnover, metabolic activities respond to changing demands, developmental processes transform their structure, and interactions with the environment alter the conditions under which they operate. Biological persistence therefore cannot generally be equated with the preservation of an unchanging material arrangement. It depends instead on forms of continuity maintained through organised activity.
 
-## Organised Persistence
+The concept of constraint-closure contributes to this account by identifying relationships in which constraints on biological processes are themselves maintained through the organisation to which they contribute. Such relationships have been investigated extensively within theories of biological autonomy (Moreno and Mossio 2015). APS incorporates this organisational insight into its account of viability-oriented persistence without claiming that constraint-closure is an original APS discovery or that its invocation is sufficient to explain a particular biological system.
 
-APS defines life as **viability-oriented, constraint-closed organisation**.
+The explanatory task is to establish which processes and constraints contribute to the maintenance of a specified organisation, how those contributions depend on one another, and under what conditions they succeed or fail. Metabolic regulation, cellular maintenance, physiological adjustment, and developmental repair may each contribute to persistence, but their roles must be established through the evidence appropriate to the system under investigation.
 
-Organised persistence identifies a central explanatory problem arising from
-that organisation: how living systems maintain and re-establish the conditions
-of their continuity despite continual material and organisational change.
+Organised persistence also has important temporal implications. A living system can remain biologically continuous while undergoing substantial changes in composition, activity, and organisation. Conversely, some changes disrupt the dependencies required for viability, producing malfunction, loss of organisational integrity, or death. The relevant distinction is not between change and changelessness, but between transformations compatible with continued living organisation and those that undermine it.
 
-Living systems are not merely collections of components. Their organisation
-is dynamically maintained through activities that contribute to sustaining
-conditions required for continued viability.
+This orientation gives APS a potentially general explanatory concern because viability-oriented organisation is proposed as characteristic of living systems. It does not follow, however, that every biological explanation must be reconstructed in terms of organised persistence. The explanatory relevance of organisational continuity depends on the question being asked.
 
-TThis persistence is active rather than passive, organisational rather than
-merely structural, temporally extended rather than instantaneous, and
-viability-oriented rather than mechanically indifferent. A living system
-therefore exists only insofar as it continuously regenerates and modulates the
-conditions of its own persistence.
+## Agency, Process, and Scale as an Explanatory Framework
 
-The processes contributing to such continuity can include metabolic
-maintenance, environmental regulation, adaptive response, developmental
-organisation, behavioural activity, reproduction, and evolutionary
-transformation. These processes occur in different biological domains and may
-require different explanations. APS investigates their relationships where
-those relationships contribute to explaining living organisation and organised
-persistence.
+APS investigates living organisation through three complementary analytic projections: Agency, Process, and Scale. These are not independent components of life, separate causal powers, or distinct hierarchical levels. They are analytically distinguishable perspectives on one materially realised, viability-oriented organisation.
 
-These processes occur in different biological domains and may require
-different explanations. APS investigates their relationships where those
-relationships contribute to explaining living organisation and organised
-persistence.
+**Agency** concerns the activity through which living systems contribute to maintaining or re-establishing the conditions of their viability. In this biological sense, agency does not presuppose consciousness, intention, intelligence, or mental representation. It identifies activity in relation to the organisation whose continued existence is at issue.
 
-## Why APS Reframes Biological Explanation
+**Process** concerns the temporally extended activities and transformations through which organisational continuity is achieved. Biological systems persist through ongoing metabolism, regulation, repair, development, and other processes rather than through the passive retention of fixed structures. Process therefore makes explicit the temporal character of living organisation and the dependencies through which continuity is maintained despite change.
 
-APS reframes biology by changing the explanatory question when living
-organisation itself is the target.
+**Scale** concerns the spatial and temporal extents across which living organisation and its dependencies are realised. Molecular, cellular, organismal, ecological, and evolutionary phenomena may involve different extents and forms of interaction. APS does not treat these as a fixed hierarchy of explanatory levels through which causal influence must pass. Instead, it investigates the materially implemented relationships relevant to the specified explanatory target.
 
-Biological explanations legitimately focus on mechanisms, genes, information,
-traits, selection, development, ecological relations, mathematical structure,
-and many other phenomena. APS does not claim that these approaches become
-adequate only when reconstructed through its framework.
+The three projections are most useful when considered together. A physiological response, for example, can be examined as viability-relevant activity, as a temporally organised sequence of regulatory changes, and as an interaction involving cellular processes, organismal conditions, and environmental circumstances. These perspectives do not replace the physiological explanation. They provide a way of asking how its findings bear upon the maintenance or alteration of living organisation.
 
-Instead, APS asks:
+Together, Agency, Process, and Scale constitute the APS explanatory grammar. Its purpose is to organise questions and clarify relationships rather than determine explanations in advance. An APS analysis becomes scientifically informative only when its proposed organisational dependencies are sufficiently specified to be examined, challenged, or rejected.
 
-> How do established biological findings and explanations bear upon the
-> organisation through which living systems maintain and re-establish the
-> conditions of their persistence?
-
-This question permits APS to reconsider familiar biological concepts in
-relation to living organisation. Within APS:
-
-- mechanisms can be investigated for their contribution to organised
-  persistence;
-- informational relations can be examined within the organisation in which
-  they acquire biological roles;
-- function is analysed as present-tense viability-relative organisational
-  contribution;
-- evolution is investigated as historical transformation of living
-  organisation;
-- cognition is investigated in relation to the organisation of biological
-  significance across time.
-
-These are APS reframings. Their value does not follow merely from placing
-familiar concepts within a broader organisational architecture.
-
-APS reframes biology by reorganising questions about living systems around
-viability-oriented, constraint-closed organisation and organised persistence,
-and by investigating how established biological findings and explanations bear
-upon those targets through its Agency–Process–Scale Explanatory Grammar and
-wider comparative methodology.
-
-Reframing does not by itself replace, invalidate, subsume, or improve upon
-existing explanations. Whether a particular APS reframing provides explanatory
-gain must be established through target-matched comparison.
-
-## Agency, Process, and Scale
-
-APS organises its general account of living organisation through three
-complementary analytic projections:
-
-- **Agency** — what living systems do;
-- **Process** — how continuity is maintained despite change;
-- **Scale** — where persistence is organised across spatial and temporal
-  extents.
-
-**Agency, Process, and Scale are complementary analytic projections of one
-viability-oriented, constraint-closed organisation.**
-
-They are not independent components, causes, entities, domains, dimensions, or
-hierarchical levels of biological reality. The distinctions are analytic; the
-organisation and activities they disclose are biologically real.
-
-**Agency** concerns viability-oriented organisational activity through which
-living systems contribute to maintaining and re-establishing conditions of
-their persistence. It does not require intention, consciousness, intelligence,
-or mental representation.
-
-**Process** concerns the dynamic organisation through which continuity is
-maintained despite change. Living organisation persists through ongoing
-activity and transformation rather than static existence.
-
-**Scale** concerns the spatial and temporal extents across which persistence is
-organised. Relations across those extents operate through materially
-implemented interactions and constraints rather than abstract top-down,
-bottom-up, or level-to-level causal propagation.
-
-Together, Agency, Process, and Scale constitute the **APS Explanatory Grammar**:
-the organised conceptual and explanatory relations through which APS structures
-its account of living organisation and organised persistence.
-
-They are not obligatory categories of biological explanation generally.
-Their relevance follows from the explanatory target APS addresses, not from a
-requirement that every biological inquiry be reconstructed through them.
-
-## Explanatory Priority
-
-APS distinguishes explanatory priority from ontological or causal priority.
-
-Living systems remain physically constituted, and APS introduces no separate
-causal substance or hierarchically deeper biological level.
-
-Explanatory priority is instead relative to what is being explained. Where a
-question concerns a particular molecular mechanism, developmental process,
-evolutionary change, ecological interaction, or other bounded phenomenon, a
-specialist explanation may be sufficient and preferable.
-
-Where living organisation itself is the explanatory target, APS gives
-organisational relations particular explanatory importance because its
-question concerns how living systems maintain and re-establish conditions of
-viability despite change.
-
-TThis gives APS **potential domain-wide relevance**, not universal explanatory
-authority. APS proposes an account potentially relevant across the living
-domain because living organisation itself is its target. It does not follow
-that organisation must possess explanatory priority in every biological
-inquiry.
-
-Nor does APS's organisational emphasis establish its superiority over
-alternative general accounts of life. Whether APS provides the preferred
-general account of living organisation depends upon demonstrated explanatory
-gain over the strongest relevant alternatives addressing that same target.
-
-## Evolution Within Organised Persistence
-
-Evolutionary theory provides explanations of population change, adaptation,
-diversification, inheritance, and historical transformation that retain their
-own explanatory targets and evidential foundations.
-
-APS addresses a different but related question. Living organisation must exist
-and persist sufficiently for reproduction, inheritance, variation, and
-selection to occur. APS therefore investigates evolution in relation to the
-historical transformation of viability-oriented organisation across
-generations.
-
-This reframing does not subordinate evolutionary explanation to APS or make
-organised persistence a replacement for natural selection and other
-evolutionary processes. It asks how established evolutionary explanations bear
-upon the continuity and transformation of living organisation when that is the
-target under investigation.
-
-Whether this organisational reframing adds explanatory value beyond established evolutionary accounts is a comparative question and cannot be inferred from the scope or structure of the APS architecture.
+This distinction also guards against treating conceptual coherence as empirical confirmation. A biological phenomenon may be readily described in the language of agency, process, and scale without that description establishing anything not already known. The scientific importance of the grammar depends on what it helps investigators identify, distinguish, connect, or test.
 
 ## Relating Explanations Across Biological Domains
 
-Biological domains address different questions using different explanatory
-resources. Their plurality need not constitute fragmentation, and their
-successful explanations need not share a single explicit conceptual
-foundation.
+One of the most promising questions raised by APS concerns the relationships among biological concepts and explanations that are ordinarily investigated within different domains. The challenge is not to eliminate disciplinary distinctions, but to determine whether relationships among their explanatory contributions can be made more explicit when they concern a common biological organisation.
 
-APS nevertheless asks whether explanatory contributions from different domains
-can be related when living organisation or organised persistence is the target.
+Consider the relation between physiological regulation and evolutionary adaptation. Physiology may explain how an organism responds to an environmental disturbance through changes in activity or development. Evolutionary biology may explain how heritable variation in such responses changes in frequency across generations under natural selection. These explanations address different phenomena and employ different forms of evidence. Their relationship does not make them interchangeable, nor does it establish that one is reducible to the other.
 
-Mechanistic findings may clarify processes through which persistence is
-maintained. Evolutionary explanations may clarify historical transformations
-of living organisation. Developmental and physiological explanations may
-clarify continuity through change within organisms. Ecological explanations
-may clarify materially implemented organism–environment relations. Cognitive
-explanations may bear upon increasingly temporally extended organisation of
-biological significance.
+APS asks how these explanations bear upon the continuity and transformation of viable biological organisation. Physiological responses may contribute to maintaining viable conditions within an organism, while evolutionary processes may alter the distribution of inherited characteristics affecting such responses across generations. The relationship can be stated within a common organisational perspective without confusing individual adjustment with evolutionary adaptation.
 
-These relations are not established merely because APS can represent them
-within one conceptual architecture. Nor does their integration automatically
-produce a better explanation.
+A similar distinction arises in the treatment of biological function. Functional analysis can explain the contribution of a component or activity to a capacity of a larger system (Cummins 1975). Organisational accounts examine how functions relate to the maintenance of biological autonomy and the conditions of continued organisation (Moreno and Mossio 2015; Mossio and Bich 2017). APS interprets function as a present-tense contribution to viable organisation, while recognising that historical explanations of the origin and modification of functional traits address different questions.
 
-APS therefore provides a comparative and integrative framework for
-investigating **whether and how** explanatory contributions can be related
-around a shared target while preserving the independence of specialist
-explanations where appropriate.
+The relevance of these distinctions extends beyond physiology and evolution. Development concerns the generation and transformation of organised biological form; ecology investigates organism–environment relationships; and research on cognition examines forms of biological activity in which significance and response may be integrated across time. APS provides a common orientation for asking how such phenomena contribute to, depend upon, or transform viable organisation. It does not follow that all these domains share one underlying mechanism or a single sufficient explanation.
 
-Its contribution is potentially synthetic, but synthesis has no automatic
-explanatory priority over analysis or specialist explanation. Explanatory gain
-must be demonstrated in relation to the question being addressed.
+Evolution is especially important because it introduces historical transformations that cannot be identified with the self-maintenance of an individual organism. Living organisation must persist sufficiently for reproduction, inheritance, and variation to occur, but evolutionary change depends on population-level and historical processes whose explanatory foundations remain distinct (Darwin 1859; Godfrey-Smith 2009). APS therefore treats evolutionary transformation as related to organised persistence without replacing natural selection or subordinating evolutionary theory to an organisational description.
 
-## Why This Matters
+The potential value of cross-domain integration lies in making these relationships more precise. It may help distinguish processes that are easily conflated, identify dependencies relevant to a common explanatory target, and clarify how different kinds of biological evidence contribute to understanding living systems. Such integration could also improve the communication of biological concepts across disciplinary boundaries.
 
-APS addresses a genuine problem of explanatory organisation without treating
-the plurality of biology as a defect to be eliminated.
+These are research possibilities rather than established comparative achievements. Existing systems, mechanistic, evolutionary, and organisational approaches already provide substantial forms of integration. APS must therefore be assessed against what these approaches actually accomplish, not against an artificially fragmented representation of biology.
 
-Mechanistic, evolutionary, developmental, physiological, ecological,
-informational, mathematical, cognitive, and other approaches illuminate
-different biological questions. APS asks what happens when living organisation
-itself becomes the explanatory target and whether findings from these domains
-can then be related in ways that improve understanding.
+## Explanatory Scope, Comparison, and Scientific Usefulness
 
-Its potential contribution is therefore both substantive and methodological.
+The generality of APS follows from the explanatory target it proposes, not from a claim of universal explanatory authority. Living organisation is relevant across the biological domain, but the fact that a question can be placed within a general organisational framework does not mean that the framework provides the most adequate explanation of that question.
 
-Substantively, APS proposes life as viability-oriented, constraint-closed
-organisation and organised persistence as the problem of maintaining and
-re-establishing that organisation despite change.
+Explanatory priority is consequently target-relative. When the object of inquiry is a particular molecular reaction, developmental mechanism, ecological interaction, or evolutionary process, a specialist explanation may be sufficient. When the question concerns how these processes contribute to the maintenance or transformation of living organisation, organisational dependencies become especially relevant. This distinction does not establish that organisation is ontologically more fundamental than its material constituents.
 
-Methodologically, APS provides a comparative explanatory methodology within
-which its Agency–Process–Scale grammar helps organise questions concerning
-living organisation and organised persistence. Relationships among biological
-explanations can thereby be specified and assessed without assuming in advance
-that integration will provide explanatory gain.
+The methodological challenge is to determine what APS contributes beyond a coherent reformulation of familiar biological knowledge. Several forms of contribution should be distinguished.
 
-This makes APS potentially general without making it universally authoritative.
+**Scientific precision** concerns whether APS concepts identify sufficiently determinate phenomena, relations, and conditions of application. Concepts such as viability, organisation, function, and persistence must do more than provide evocative descriptions. Their use should clarify what is being investigated and what would count as an appropriate or inappropriate application.
 
-Its generality derives from its explanatory target: living organisation is
-characteristic of the living domain. Its adequacy and comparative standing,
-however, remain separate questions.
+**Empirical assessability** concerns whether claims about organisational dependencies can be connected to observations, interventions, or other evidence capable of supporting or challenging them. A proposed relationship between regulatory activity and viability, for example, requires more than the assertion that regulation contributes to persistence. It requires specification of the relevant activity, organisational conditions, and possible outcomes.
 
-The absence of demonstrated APS superiority does not establish its inferiority.
-Comparative preference in either direction requires target-matched assessment
-against the strongest relevant alternatives.
+**Systematic conceptual integration** concerns whether APS establishes coherent, explicit relationships among biological concepts without erasing distinctions between them. Function, development, inheritance, adaptation, cognition, and ecological organisation may be related through their bearing on viable organisation while retaining their own explanatory targets and evidential requirements.
 
-The wider comparative programme develops this question through
-*Comparative Explanatory Methodology in Theoretical Biology*, *APS and
-Contemporary Theories*, and individual comparative applications.
+**Demonstrated scientific usefulness** is a further question. Conceptual precision and integration may be valuable achievements, but usefulness requires evidence that the framework assists a recognisable scientific activity. This might involve clarifying an otherwise ambiguous dependency, improving the organisation of an investigation, identifying a relevant distinction, or making relationships among findings easier to evaluate. The relevant benefit must be shown rather than inferred from the framework's conceptual elegance.
 
-## APS as a Reframing of Biological Intelligibility
+**Comparative explanatory gain** requires a stronger assessment. Where APS is claimed to explain a phenomenon better than an alternative, the comparison must address the same explanatory target and include the strongest relevant competing account. Greater terminological unity, wider apparent scope, or a more satisfying philosophical narrative cannot independently establish explanatory superiority.
 
-APS is not primarily a theory of evolution, cognition, mechanism, or any other
-specialist biological domain.
+These distinctions allow a balanced evaluation of APS. The framework might achieve conceptual precision and systematic integration without demonstrating superiority over established explanatory approaches. It might also prove useful for organising scientific understanding or communication without producing a new explanation of a particular biological phenomenon. Conversely, an APS reformulation that adds no demonstrable precision, assessability, usefulness, or explanatory value should be recognised as a redescription rather than presented as an advance.
 
-It is a **comparative explanatory methodology for biology organised around a
-general account of living organisation and the problem of organised
-persistence**.
+The appropriate standard is therefore neither automatic acceptance nor automatic rejection. APS claims must be evaluated according to their specific scientific purpose, the evidence available, and the alternatives already capable of meeting that purpose.
 
-Its Agency–Process–Scale grammar structures that inquiry by asking what living
-systems do, how continuity is maintained despite change, and where persistence
-is organised across spatial and temporal extents.
+## Conclusion — What It Means to Reframe Biology
 
-This permits APS to reconsider relationships among mechanism, function,
-evolution, cognition, normativity, environment, and other biological concepts
-where they bear upon living organisation.
+APS reframes biology by making viability-oriented living organisation and organised persistence explicit objects of investigation. Its foundational account identifies life with viability-oriented, constraint-closed organisation, while its Agency–Process–Scale grammar provides complementary perspectives on the activities, processes, and spatial and temporal dependencies through which that organisation persists.
 
-That reconsideration is what **reframing** means.
+This orientation does not replace the explanatory achievements of genetics, molecular biology, development, physiology, ecology, evolution, or other biological sciences. It offers a way of investigating how their findings may be related when the maintenance or transformation of living organisation is the question being addressed.
 
-It does not mean that APS has shown those concepts to possess a single
-underlying explanation, that specialist explanations are incomplete without
-APS, or that APS has already demonstrated superior explanatory performance.
+An important prospective contribution of APS lies in its capacity to make scientifically relevant relationships among biological concepts more explicit, assessable, and usable. The framework's conceptual organisation provides grounds for investigating this possibility, but does not itself establish the anticipated scientific benefit. Demonstrating such a contribution requires evidence that the relationships identified by APS improve a recognisable scientific activity, whether or not they also produce comparative explanatory gain.
 
-APS reframes biology by making living organisation explicit as a general
-explanatory target and providing a structured way to investigate how
-biological explanations bear upon it.
-
-That is why APS reframes biology.
+Reframing biology is thus an invitation to investigate relationships that may otherwise remain implicit, while retaining the evidential standards and explanatory independence of established biological research. Whether APS succeeds depends on the precision of those relationships, their empirical relevance, their demonstrated usefulness, and the outcomes of comparison with existing approaches.
 
 ## Explanatory Architecture
 
 ### Central Question
 
-What changes when living organisation and organised persistence are made
-explicit explanatory targets, and under what conditions does the resulting
-APS reframing provide explanatory gain?
+What changes when viability-oriented living organisation and organised persistence are made explicit explanatory targets, and under what conditions does the resulting APS framework contribute to scientific understanding or provide comparative explanatory gain?
 
 ### Architectural Role
 
-This Anchor article explains the rationale for APS's reframing of biological
-questions around living organisation and organised persistence. It distinguishes
-that reframing from replacement, universal explanatory authority, and
-demonstrated explanatory superiority.
+This Anchor article establishes the rationale for APS's reframing of biological inquiry. It connects the foundational account of life as viability-oriented, constraint-closed organisation with the methodological investigation of organised persistence and relationships among biological explanations.
 
-AAPS operates here as a comparative explanatory methodology. Agency, Process,
-and Scale provide the analytic grammar through which its questions about living
-organisation and organised persistence are organised. The article does not
-require other biological explanations to employ that grammar.
+Agency, Process, and Scale provide complementary analytic projections through which this inquiry is structured. The article distinguishes the proposed scientific contribution of conceptual integration from demonstrated usefulness and explanatory superiority, and preserves the independence of specialist explanations.
 
 ### Preceding Explanatory Dependencies
 
-The following articles and concepts provide the APS background used here. Their
-relationship to this article identifies organisation within the APS corpus,
-not causal hierarchy or independent evidential warrant for substantive
-Dependency Hypotheses.
+The following articles and concepts provide the APS background used here. These relationships identify conceptual dependencies within the APS corpus rather than a hierarchy of causal or ontological priority.
 
 - What Is APS?
 - How APS Explains Life
@@ -449,34 +260,20 @@ The questions introduced here are developed, compared, or applied in:
 - APS as Philosophy — A Viability-Oriented Account of Biological Reality
 - Organisational Realism in Biology
 - The Explanatory Geometry of Biology
+- From Life to Explanation — The Explanatory Architecture of APS
 
 ### Related Explanatory Questions
 
-- What does APS mean by reframing biological explanation?
-- Why does living organisation give APS potential relevance across the living domain?
-- When can explanations from different biological domains be usefully related?
+- How does APS distinguish the definition of life from the explanation of organised persistence?
+- What do Agency, Process, and Scale contribute to investigating living organisation?
+- How can relationships among biological concepts be specified without collapsing their differences?
+- When does cross-domain integration improve scientific understanding?
+- How can the scientific usefulness of an organisational framework be assessed?
 - When is a specialist explanation sufficient without APS?
-- How can comparative explanatory gain be demonstrated?
-- Why does explanatory plurality not imply explanatory equivalence?
+- What evidence would establish comparative explanatory gain over an adequate alternative?
 
 ### Position Within APS
 
-TThis article provides the principal APS account of what **reframing biology**
-means. It connects APS's account of living organisation with its comparative
-methodology while preserving the distinction between potential domain-wide
-relevance and demonstrated explanatory gain.
+This article provides the principal APS account of what reframing biology means. It connects APS's foundational organisational commitments with its comparative explanatory methodology and its investigation of scientific precision, empirical assessability, and conceptual integration.
 
-## Position Within the APS Corpus
-
-This Anchor article occupies a central position within the
-methodology-and-explanation cluster. It connects the explanatory foundations
-of APS with the wider comparative programme.
-
-Readers seeking to understand why APS makes living organisation and organised
-persistence explicit explanatory targets should begin here. Readers seeking
-comparative assessment of APS and other theoretical approaches should continue
-to the comparative methodology and theory-comparison articles.
-
-The systematic question of whether APS actually provides explanatory gain over
-the strongest relevant alternatives addressing living organisation remains an
-open comparative research question.
+Its position is that APS offers a potentially general framework for investigating living organisation, while the scientific usefulness and comparative explanatory standing of that framework remain matters for evidence-based assessment.
