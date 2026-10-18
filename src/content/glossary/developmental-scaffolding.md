@@ -6,8 +6,8 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-27
-revised: 2026-10-01
-cluster: ecological-organisation
+revised: 2026-10-18
+cluster: developmental-organisation
 definition: >
   Developmental scaffolding refers to conditions or relations that
   systematically support, constrain, stabilise, or enable developmental

@@ -761,7 +761,7 @@
   },
   "articles/structure-of-biological-explanation-in-aps": {
     "hash": "09fed14e9da5776b",
-    "revised": "2026-10-17",
+    "revised": "2026-10-18",
     "lockedSince": "2026-04-16"
   },
   "articles/symbolic-coordination": {
@@ -996,7 +996,7 @@
   },
   "glossary/coordination": {
     "hash": "e7ed29a51d1ac60b",
-    "revised": "2026-06-15",
+    "revised": "2026-10-18",
     "lockedSince": "2026-05-30"
   },
   "glossary/coupling": {
@@ -1031,7 +1031,7 @@
   },
   "glossary/developmental-scaffolding": {
     "hash": "426e92d18fc64611",
-    "revised": "2026-10-01",
+    "revised": "2026-10-18",
     "lockedSince": "2026-05-27"
   },
   "glossary/diagnosis": {
@@ -1796,7 +1796,7 @@
   },
   "glossary/adaptive-reorganisation": {
     "hash": "3236589045fb764d",
-    "revised": "2026-07-27",
+    "revised": "2026-10-18",
     "lockedSince": "2026-07-25"
   },
   "glossary/distributed-functional-organisation": {

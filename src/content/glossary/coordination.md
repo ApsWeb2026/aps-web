@@ -6,8 +6,8 @@ type: glossary
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
-revised: 2026-06-15
-cluster: cognition-and-mind
+revised: 2026-10-18
+cluster: conceptual-foundations
 
 definition: >
   Coordination is the organised alignment of activities, processes, or

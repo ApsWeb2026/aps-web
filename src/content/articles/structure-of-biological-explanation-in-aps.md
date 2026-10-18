@@ -6,11 +6,10 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-16
-revised: 2026-10-17
+revised: 2026-10-18
 cluster: methodology-and-explanation
 role: core
 abstract: >
-  abstract: >
   This article specifies how biological explanation is organised within the
   Agency–Process–Scale (APS) framework. APS takes viability-oriented,
   constraint-closed organisation and organised persistence as principal

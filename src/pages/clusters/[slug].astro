@@ -24,13 +24,30 @@ architectureGuide: {
     'The architectural guide to the APS framework. This orientation article explains how life, agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency, and meaning form a coherent explanatory pathway.',
 },
 
+
 startHere: [
-'The Core Structure of APS',
-'Agency as the Defining Activity of Life',
-'What Is Life? — A Biological Question Revisited',
-'Biological Agency as the Activity of Self-Maintenance',
-'Biological Explanation — What Needs to Be Explained',
+  {
+    title: 'The Core Structure of APS',
+    href: '/orientation/the-core-structure-of-aps-how-the-framework-fits-together/',
+  },
+  {
+    title: 'Agency as the Defining Activity of Life',
+    href: '/articles/agency-as-the-defining-activity-of-life/',
+  },
+  {
+    title: 'What Is Life? — A Biological Question Revisited',
+    href: '/articles/what-is-life-a-biological-question-revisited/',
+  },
+  {
+    title: 'Biological Agency as the Activity of Self-Maintenance',
+    href: '/articles/biological-agency-as-the-activity-of-self-maintenance/',
+  },
+  {
+    title: 'Biological Explanation — What Needs to Be Explained',
+    href: '/articles/biological-explanation-what-needs-to-be-explained/',
+  },
 ],
+
 
 keyQuestions: [
 'What is life?',
@@ -165,13 +182,30 @@ boundary:
       'Evolution, inheritance, adaptation, variation, fitness, species, and the historical transformation of organised persistence.',
     overview:
       'This cluster examines how living systems preserve continuity while undergoing evolutionary transformation across generations and lineages. APS treats evolution as the historical transformation of viability-oriented organisation rather than as a process reducible to genes, traits, or selection alone.',
-    startHere: [
-      'What Is Evolution in APS?',
-      'Is Evolution Random?',
-      'What Is a Gene?',
-      'What Is a Species?',
-      'Evolution and Taxonomy',
-    ],
+    
+        startHere: [
+          {
+            title: 'What Is Evolution in APS?',
+            href: '/articles/what-is-evolution-in-aps/',
+          },
+          {
+            title: 'Is Evolution Random?',
+            href: '/articles/is-evolution-random/',
+          },
+          {
+            title: 'What Is a Gene?',
+            href: '/articles/what-is-a-gene-in-aps/',
+          },
+          {
+            title: 'What Is a Species?',
+            href: '/articles/what-is-a-species-in-aps/',
+          },
+          {
+            title: 'Evolution and Taxonomy',
+            href: '/articles/evolution-taxonomy-and-the-reorganisation-of-biological-explanation/',
+          },
+        ],
+
     keyQuestions: [
       'What is evolution?',
       'Is evolution random?',
@@ -336,12 +370,26 @@ boundary:
   overview:
     'This cluster examines how living systems persist through ongoing relations with environments, niches, ecosystems, and other organisms. APS treats ecology not as the study of an external environment acting upon organisms, but as the study of the coupled organisational relations through which viability is maintained across time. Ecological organisation therefore concerns the continuity of living systems through organism–environment interaction, distributed persistence, and multiscale ecological organisation.',
 
+  
   startHere: [
-    'The Ecological Organisation of Life',
-    'Why Organisms Cannot Be Understood Apart from Their Environments',
-    'Ecology as Organised Persistence Across Scales',
-    'Organism–Environment Coupling — Distributed Persistence Across Living Systems',
+    {
+      title: 'The Ecological Organisation of Life',
+      href: '/articles/the-ecological-organisation-of-life/',
+    },
+    {
+      title: 'Why Organisms Cannot Be Understood Apart from Their Environments',
+      href: '/articles/why-organisms-cannot-be-understood-apart-from-their-environments/',
+    },
+    {
+      title: 'Ecology as Organised Persistence Across Scales',
+      href: '/articles/ecology-as-organised-persistence-across-scales/',
+    },
+    {
+      title: 'Organism–Environment Coupling — Distributed Persistence Across Living Systems',
+      href: '/articles/organism-environment-coupling/',
+    },
   ],
+
 
   keyQuestions: [
     'What is ecology?',
@@ -577,11 +625,22 @@ boundary:
       'This cluster examines the philosophical traditions, debates, and interpretive problems with which APS engages. It situates APS in relation to reductionism, mechanism, holism, organicism, teleology, realism, and broader philosophy of biology.',
     boundary:
       'Some concepts here have close methodological or foundational connections. Teleology is placed here as a philosophical debate, while teleonomy, purpose, function, and normativity belong in Conceptual Foundations when they express APS’s positive biological account of purposive organisation.',
+    
     startHere: [
-      'Why Philosophy of Biology Matters',
-      'Why APS?',
-      'APS as Philosophy',
+      {
+        title: 'Why Philosophy of Biology Matters',
+        href: '/articles/why-philosophy-of-biology-matters/',
+      },
+      {
+        title: 'Why APS?',
+        href: '/articles/why-aps/',
+      },
+      {
+        title: 'APS as Philosophy',
+        href: '/articles/aps-as-philosophy-biological-intelligibility/',
+      },
     ],
+
     keyQuestions: [
       'How have philosophical ideas shaped biological explanation?',
       'What distinguishes biological organisation from mechanism alone?',
@@ -622,7 +681,7 @@ boundary:
     overview:
       'This cluster examines how biological explanations can be specified, compared, and assessed relative to particular explananda and relevant comparators. APS distinguishes description from explanation, requires proposed explanatory dependencies to be materially and empirically warranted, and treats explanatory gain as target-relative and comparator-relative rather than as an intrinsic property of a framework.',
     boundary:
-      'Methodological concepts often overlap with foundations and philosophy. Causation, classification, emergence, explanatory direction, explanatory grammar, and counterfactual depth are placed here when their main role concerns explanatory practice rather than the biological organisation being explained.',
+      'Methodological concepts often overlap with foundations, philosophy, and cognition. Causation, classification, emergence, explanatory direction, and explanatory grammar are placed here when their main role concerns explanatory practice rather than the biological organisation being explained. Counterfactual depth is treated primarily within Cognition and Mind, while its methodological implications remain relevant to explanatory comparison.',
         architecture: `
       <section class="domain-architecture-panel">
         <h2>Suggested Reading Route</h2>
@@ -835,16 +894,18 @@ const groupedArticles = articleRoleGroups
           <section class="domain-start-here">
             <h2>Start Here</h2>
 
+       
             <p>
-              New to this domain? These articles provide the quickest route into the
+              New to this domain? These recommended readings provide the quickest route into the
               central APS ideas.
             </p>
 
             <ol>
               {cluster.startHere.map((item) => (
-                <li>{item}</li>
+                <li><a href={item.href}>{item.title}</a></li>
               ))}
             </ol>
+
           </section>
         )
       }

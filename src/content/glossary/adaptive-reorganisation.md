@@ -15,13 +15,12 @@ inBrief: >
   as circumstances change.
 
 date: 2026-07-25
-revised: 2026-07-27
-
+revised: 2026-10-18
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-25
 
-cluster: evolutionary-dynamics
+cluster: conceptual-foundations
 
 seeAlso:
   - functional-organisation
