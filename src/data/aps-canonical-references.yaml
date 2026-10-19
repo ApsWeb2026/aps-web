@@ -5235,3 +5235,31 @@ references:
     status: verified
     authority: PubMed / NCBI / OpenAlex
     verifiedDate: 2026-10-13
+- id: scheiner-2010-conceptual-framework-biology
+  type: journal-article
+  authors: Scheiner, S. M.
+  year: 2010
+  title: Toward a Conceptual Framework for Biology
+  journal: The Quarterly Review of Biology
+  volume: '85'
+  issue: '3'
+  pages: 293–318
+  doi: 10.1086/655117
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-10-19
+- id: scheiner-2026-role-theory-biology
+  type: journal-article
+  authors: Scheiner, S. M.
+  year: 2026
+  title: 'The Role of Theory in Biology: How You Can Be, and Likely Already Are, a Theoretician'
+  journal: Ecology and Evolution
+  volume: '16'
+  issue: '6'
+  article-number: e73896
+  doi: 10.1002/ece3.73896
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-10-19
