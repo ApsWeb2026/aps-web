@@ -5263,3 +5263,14 @@ references:
     status: verified
     authority: Wiley
     verifiedDate: 2026-10-19
+- id: melkikh-sukhoverkhov-2026-intelligence-within
+  type: journal-article
+  authors: Melkikh, A. V., & Sukhoverkhov, A. V.
+  year: 2026
+  title: 'Intelligence From Within: Exploring Endosemiosis, Recognition, Goal-directedness and Crowd Wisdom Inside the Organism'
+  journal: Biosemiotics
+  doi: 10.1007/s12304-026-09665-x
+  verification:
+    status: verified
+    authority: Springer Nature / publisher PDF
+    verifiedDate: 2026-10-20

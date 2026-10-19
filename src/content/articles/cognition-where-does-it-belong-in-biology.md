@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-09-12
-revised: 2026-09-12
+revised: 2026-10-20
 cluster: cognition-and-mind
 role: anchor
 
@@ -62,6 +62,7 @@ references:
   - baluska-levin-2016-no-head-cognition
   - corcoran-pezzulo-hohwy-2020-counterfactual-cognisers
   - lyon-keijzer-arendt-levin-2021-reframing-cognition
+  - melkikh-sukhoverkhov-2026-intelligence-within
 ---
 
 **Where This Article Fits**
@@ -182,6 +183,8 @@ These exclusions are not intended to make cognition inaccessible or to deny that
 Nothing in the APS definition makes nervous systems constitutive of cognition. This matters because contemporary biological approaches have broadened serious cognitive investigation beyond familiar human and vertebrate cases (Baluška and Levin 2016; Lyon et al. 2021). Such work is scientifically valuable because it prevents the mechanisms characteristic of one lineage from being mistaken for the universal definition of cognition. At the same time, widening the legitimate field of cognitive inquiry does not warrant widening cognitive attribution automatically.
 
 APS therefore distinguishes the methodological claim that **non-neural systems are legitimate candidates for cognitive investigation** from the empirical claim that **a particular non-neural system is cognitive**. The former does not entail the latter. Neural systems provide powerful mechanisms for retaining, integrating, transforming, and coordinating significance across time, while non-neural systems may realise relevant organisation through other mechanisms. Whether they do so in a cognitively explanatory sense remains a case-specific question.
+
+Melkikh and Sukhoverkhov (2026) extend the investigation of basal cognition into the internal organisation of organisms, interpreting molecular recognition, intracellular transport and distributed immune responses through endosemiosis and cognitive terminology. Their account illustrates why non-neural biological processes deserve serious investigation, while also exposing the difficulty of distinguishing sophisticated regulation from cognition. Within APS, molecular recognition, signalling and distributed coordination do not themselves establish cognitive organisation. Cognitive attribution requires evidence that integrated biological significance operates across viability-relevant temporal possibilities in ways that an adequate non-cognitive regulatory account cannot explain. The authors' further proposals concerning quantum control are not required by the APS account.
 
 The resulting position is implementation-neutral without being attribution-neutral. A proposed instance of cognitive organisation must still be materially realised, causally relevant to the specified phenomenon, and explanatorily distinguishable from an adequate non-cognitive comparator. Removing nervous systems from the definition of cognition therefore expands the possible implementation space without relaxing the evidential requirements for cognitive attribution.
 
