@@ -3,9 +3,10 @@ date: 2026-10-19
 title: "APS as a Conceptual Framework for Biology"
 slug: aps-as-a-conceptual-framework-for-biology
 type: article
-status: draft
-canonical: false
-revised: 2026-10-19
+status: canonical
+canonical: true
+canonicalLockDate: 2026-10-20
+revised: 2026-10-20
 cluster: methodology-and-explanation
 role: synthesis
 abstract: >
