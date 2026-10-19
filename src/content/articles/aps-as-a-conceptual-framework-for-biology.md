@@ -52,17 +52,17 @@ references:
   - craver-2007-explaining-the-brain
 ---
 
-## Why Conceptual Frameworks Matter
+**Where This Article Fits**
+
+*This article examines APS within the broader tradition of conceptual frameworks for biology. Unlike [Agency as the Defining Activity of Life](/articles/agency-as-the-defining-activity-of-life/), which establishes APS's foundational account of living organisation, it is concerned with the organisation of biological knowledge and explanation. It also differs from [APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/), which distinguishes questions about Life, APS and comparative explanation and guides readers through the relevant articles. The present discussion instead examines established attempts to organise biological theory, particularly those developed by Scheiner, and considers how APS relates to them. Its purpose is to clarify APS's theoretical position and potential scientific usefulness, not to claim that conceptual integration alone establishes explanatory superiority.*
+
+## Introduction - Why Conceptual Frameworks Matter
 
 Biology has many successful ways of explaining living systems. A physiologist can identify the mechanisms regulating a cell; a developmental biologist can investigate how tissues form; an ecologist can examine relationships between organisms and environments; and an evolutionary biologist can explain changes across generations. None of these explanations is deficient simply because it addresses only part of biology. Specialisation is indispensable.
 
 Yet the connections among explanations also matter. Regulation depends on material processes; development requires coordinated cellular activity; ecological circumstances affect which activities can be sustained; and evolution changes the organisation that descendants inherit. A question that crosses these fields may require more than several correct answers considered separately. It may require an explicit account of how their assumptions, processes and explanatory dependencies fit together.
 
-A *conceptual framework* can help organise such questions. Its value is not necessarily to supply a new biological law or replace specialised theories. It may instead clarify concepts, disclose assumptions, relate levels of investigation and indicate where evidence is still needed. The Agency–Process–Scale (APS) framework is one attempt to do this. It belongs, however, to a long and productive history of efforts to understand biology as both a differentiated and a connected science.
-
-## Where This Article Fits
-
-This article examines APS within the broader tradition of conceptual frameworks for biology. Unlike *[Agency as the Defining Activity of Life](/articles/agency-as-the-defining-activity-of-life/)*, which establishes APS's foundational account of living organisation, it is concerned with the organisation of biological knowledge and explanation. It also differs from *[APS and Contemporary Explanatory Approaches](/articles/aps-and-contemporary-theories/)*, which distinguishes questions about Life, APS and comparative explanation and guides readers through the relevant articles. The present discussion instead examines established attempts to organise biological theory, particularly those developed by Scheiner, and considers how APS relates to them. Its purpose is to clarify APS's theoretical position and potential scientific usefulness, not to claim that conceptual integration alone establishes explanatory superiority.
+A **conceptual framework** can help organise such questions. Its value is not necessarily to supply a new biological law or replace specialised theories. It may instead clarify concepts, disclose assumptions, relate levels of investigation and indicate where evidence is still needed. The Agency–Process–Scale (APS) framework is one attempt to do this. It belongs, however, to a long and productive history of efforts to understand biology as both a differentiated and a connected science.
 
 ## A Long History of Biological Integration
 
@@ -108,13 +108,27 @@ Scheiner's work therefore sets a demanding standard. APS cannot establish novelt
 
 ## What APS Brings to the Discussion
 
-APS begins with a proposed account of *living organisation*. In its developed formulation, life is **viability-oriented, constraint-closed organisation**. Living systems persist through materially realised activities and processes that maintain or re-establish the conditions required for their continued organisation. Biological agency denotes this viability-oriented activity; it does not imply that every living system is conscious or deliberates about its goals.
+APS begins with a proposed account of **living organisation**. In its developed formulation, life is **viability-oriented, constraint-closed organisation**. Living systems persist through materially realised activities and processes that maintain or re-establish the conditions required for their continued organisation. Biological agency denotes this viability-oriented activity; it does not imply that every living system is conscious or deliberates about its goals.
 
 The framework examines one organisation through three complementary analytic projections. **Agency** concerns viability-oriented activity. **Process** concerns the material and temporal transformations through which that activity occurs. **Scale** concerns the spatial, temporal and organisational extent at which relevant dependencies are expressed. These are not three independent forces or three successive levels of life. They are connected perspectives on the same organised phenomenon (Spencer, 2026).
 
 Consider an organism adjusting its physiology under environmental stress. A mechanistic explanation may identify sensory pathways, regulatory processes and energetic costs. An ecological explanation may examine the circumstances in which the response improves persistence. An evolutionary explanation may investigate how the capacity for that response arose and varies among populations. APS asks whether the dependencies among these explanations can be stated clearly: what is being maintained, by which processes, under which conditions, and over which relevant times and scales?
 
 This question can be useful as an organising prompt. It does not, by itself, provide a mechanism, a measurement or an evolutionary explanation. The relevant specialised sciences must supply those. Nor does APS establish that the resulting account is better than an explanation constructed through existing systems, autonomy or mechanistic approaches.
+
+## A Worked Example: Predator-Induced Defences in Daphnia
+
+A conceptual framework becomes easier to assess when it is applied to a definite biological problem. Consider the development of defensive traits in *Daphnia*, small freshwater crustaceans that can respond to chemical cues associated with predators. In suitable species and experimental conditions, exposure to such cues can induce changes in morphology or development. The details vary with the species, predator and environment; the example should not be read as describing a universal *Daphnia* response.
+
+The **developmental question** concerns how an environmental cue influences the production of a defensive phenotype. Investigators must establish the cue, the conditions under which it is detected, and the developmental changes that follow. The **physiological question** concerns the mechanisms and resources involved, including possible energetic or growth costs. Neither question can be answered by saying only that the animal is acting to preserve its viability. The material processes and their effects must be demonstrated.
+
+The **ecological question** asks whether the induced defence changes outcomes under particular predator conditions. A trait that reduces vulnerability to one predator may carry costs in growth, reproduction or performance under other conditions. The relevant comparison is therefore not simply defended versus undefended morphology, but the consequences of each phenotype in specified environments. A defence may be beneficial in one context and costly in another.
+
+The **evolutionary question** is different again. It concerns the history, inheritance and population-level consequences of the capacity for an inducible response. Showing that an individual develops a defence does not establish why that capacity evolved or how selection maintains it. Evidence about variation, heritability, fitness and ecological history is required for those claims.
+
+APS can organise these questions around one living system. **Agency** draws attention to the viability-relevant activity and its conditional consequences. **Process** directs attention to cue detection, developmental change and the material production of the phenotype. **Scale** requires the investigator to distinguish changes within an individual from ecological interactions and evolutionary changes across generations. These are different analytical projections of the same case, not three competing causal explanations.
+
+This organisation may help a reader see why an account of defensive development is incomplete if it is mistaken for an account of evolutionary adaptation, or why a survival benefit cannot be assumed from the presence of an apparently protective structure. Yet existing developmental, ecological and evolutionary approaches can already make these distinctions. In the previous APS comparative assessment of this case, the supported outcome was **equivalent redescription**, not demonstrated explanatory gain. The example therefore illustrates how APS can arrange established dependencies while leaving open the separate question of whether that arrangement offers additional scientific usefulness.
 
 ## Two Ways of Organising Biological Understanding
 
@@ -142,6 +156,18 @@ These criteria need not succeed together. APS might clarify a cross-disciplinary
 
 A demanding test would begin with a narrowly specified biological problem, reconstruct the strongest existing explanation independently of APS, and only then examine whether APS identifies an additional material dependency or scientifically useful distinction. Positive, equivalent and adverse results would all be informative. Applying APS vocabulary to many examples, without such comparisons, cannot establish explanatory gain.
 
+## Conceptual Frameworks and Scientific Progress
+
+Scientific progress does not always consist in discovering a new mechanism or formulating a new law. It can also involve identifying an ambiguity, distinguishing questions that have been conflated, bringing separate bodies of evidence into a productive relationship, or showing precisely where a proposed explanation remains unsupported. These achievements matter because they can change what investigators ask, measure and compare. They are nevertheless different from demonstrating a new causal dependency.
+
+A conceptual framework may assist such work by making its assumptions inspectable. In the *Daphnia* example, a clear separation of developmental production, ecological consequences and evolutionary history helps prevent evidence for one claim from being treated as evidence for another. APS provides one vocabulary for organising those distinctions. The relevant test is whether its vocabulary makes a real difference to the formulation or conduct of an investigation, rather than merely restating distinctions already available to researchers.
+
+The distinction between **integration** and **superiority** is therefore essential. A framework can make a complex subject more accessible to students or researchers crossing disciplinary boundaries without outperforming an established theory on a matched explanatory task. Such communicative or organisational value should be investigated on its own terms. It should not be converted automatically into a claim of explanatory gain; nor should the possibility of additional terminology imposing a burden be ignored.
+
+The most informative evaluation would identify a specific audience or research task, establish a strong comparison using existing approaches, and define in advance what would count as success. Does APS help readers identify relevant dependencies more accurately? Does it expose an assumption that would otherwise be missed? Does it lead to a better-defined empirical question? Or does the comparator perform equally well with fewer conceptual demands? Each outcome would tell us something useful about the framework's practical role.
+
+In this sense, the scientific promise of APS is a research question, not a conclusion built into its architecture. Its contribution will be better established through bounded demonstrations of precision, assessability and usefulness than through declarations that biology needs a single unifying language.
+
 ## Integration Without Replacement
 
 APS belongs within a substantial history of attempts to understand biology through evolution, systems, mechanisms, autonomy, processes and relations among theories. Its orientation towards viability, organised persistence and connected scales offers a particular way of arranging biological questions. It should not be presented as replacing those traditions or as having demonstrated a superior general theory.
@@ -150,20 +176,24 @@ The present comparison supports a bounded conclusion. Scheiner has already devel
 
 The constructive aim is therefore not a unified vocabulary for its own sake. It is clearer biological enquiry: explanations that preserve the strengths of specialised research while making important relationships open to examination, comparison and revision.
 
-## References
+## Explanatory Architecture
 
-- Bechtel, W., & Richardson, R. C. (1993). *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research*. Princeton University Press.
-- Craver, C. F. (2007). *Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199299317.001.0001
-- Darwin, C. (1859). *On the Origin of Species*. John Murray.
-- Kitano, H. (2002). Computational systems biology. *Nature*, 420(6912), 206–210. https://doi.org/10.1038/nature01254
-- Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel Publishing Company.
-- Mayr, E. (1982). *The Growth of Biological Thought: Diversity, Evolution, and Inheritance*. Belknap Press of Harvard University Press.
-- Mitchell, S. D. (2003). *Biological Complexity and Integrative Pluralism*. Cambridge University Press. https://doi.org/10.1017/CBO9780511802683
-- Montévil, M., & Mossio, M. (2015). Biological organisation as closure of constraints. *Journal of Theoretical Biology*, 372, 179–191. https://doi.org/10.1016/j.jtbi.2015.02.029
-- Moreno, A., & Mossio, M. (2015). *Biological Autonomy: A Philosophical and Theoretical Enquiry*. Springer. https://doi.org/10.1007/978-94-017-9837-2
-- Nicholson, D. J., & Dupré, J. (Eds.). (2018). *Everything Flows: Towards a Processual Philosophy of Biology*. Oxford University Press. https://doi.org/10.1093/oso/9780198779636.001.0001
-- Scheiner, S. M. (2010). Toward a conceptual framework for biology. *The Quarterly Review of Biology*, 85(3), 293–318. https://doi.org/10.1086/655117
-- Scheiner, S. M. (2026). The role of theory in biology: How you can be, and likely already are, a theoretician. *Ecology and Evolution*, 16(6), e73896. https://doi.org/10.1002/ece3.73896
-- Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106(6), 467–482.
-- Spencer, R. D. (2026). Agency as the defining activity of life: A viability-oriented framework integrating process and scale. *Biological Theory*. https://doi.org/10.1007/s13752-026-00547-6
-- von Bertalanffy, L. (1968). *General System Theory: Foundations, Development, Applications*. George Braziller.
+### Central Question
+
+How can APS organise relationships among biological explanations without replacing specialised theories or presuming comparative explanatory gain?
+
+### Architectural Role
+
+This Synthesis article in the Methodology and Explanation cluster places APS within the history of biological conceptual frameworks, especially Scheiner's account of principles, theories and models. It distinguishes a framework's conceptual organisation from evidence of its scientific usefulness.
+
+### Explanatory Dependencies
+
+APS asks how viability-relevant activity is materially realised and how its dependencies are investigated at appropriate spatial, temporal and organisational scales. These questions guide enquiry; they are not a universal causal sequence or an alternative to mechanistic, ecological, developmental or evolutionary evidence.
+
+### Position within APS
+
+Agency, Process and Scale are complementary analytic projections of one viability-oriented, constraint-closed organisation, not independent causes or hierarchical levels. Their application to a biological problem requires specified explananda, empirical warrant and fair comparison with established approaches.
+
+### Corpus Significance
+
+This article locates APS among existing integrative frameworks and distinguishes conceptual precision, empirical assessability, systematic integration, scientific usefulness and comparative advantage. Equivalent redescription remains an admissible outcome; architectural difference alone establishes no explanatory superiority.
