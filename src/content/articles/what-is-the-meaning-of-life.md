@@ -6,8 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-02
-revised: 2026-07-02
-
+revised: 2026-10-20
 cluster: conceptual-foundations
 role: synthesis
 
@@ -300,13 +299,13 @@ This distinction is important because cognition is often associated exclusively 
 
 APS adopts a broader perspective.
 
-From an APS viewpoint, cognition refers to the processes through which living systems detect relevant conditions, integrate information, modify activity, and respond adaptively to changing circumstances. Cognition is therefore understood as a scale-independent form of adaptive regulation rather than as a capacity restricted to organisms with nervous systems.
+From an APS perspective, cognition is a specialised expression of biological agency rather than a synonym for adaptive regulation. It arises when biologically significant conditions are integrated in ways that modulate activity across a temporal field of viability-relevant possibilities. Detecting environmental differences and responding adaptively are not, by themselves, sufficient to establish cognition. This distinction allows APS to recognise continuity between biological regulation and cognition without treating every regulatory response as cognitive.
 
 This does not imply that all organisms think in the same way. A bacterium, an oak tree, a honeybee, and a human being possess profoundly different structures and capabilities. The claim is not that they share identical mechanisms, but that they face a common challenge: they must continually engage with biologically meaningful differences in ways that support continued viability.
 
-A bacterium moving through a chemical gradient provides a simple example. Some chemicals indicate nutrient-rich regions, while others signal harmful conditions. Through sensory and regulatory processes, the bacterium alters its behaviour in response to these differences. Although it is not consciously evaluating alternatives, it is nevertheless using biologically meaningful information to regulate its interactions with the environment.
+A bacterium moving through a chemical gradient illustrates the distinction between adaptive regulation and cognition. Chemical conditions may affect nutrient acquisition and viability, and the bacterium can modify its movement accordingly. Such responsiveness demonstrates biological agency, but it does not, by itself, establish cognition. A cognitive interpretation would require further evidence that biologically significant information is integrated in ways that modulate activity across a temporal field of viability-relevant possibilities.
 
-Plants illustrate the same principle at a different scale. They adjust growth in response to light, alter root development in response to water and nutrient availability, coordinate defensive responses to damage, and modify physiology as conditions change. These activities require the integration of information across time and across different parts of the organism. Plants therefore demonstrate that cognition need not depend upon brains or nervous systems. What matters is the capacity to detect meaningful differences and generate adaptive responses.
+Plants illustrate how biological regulation can become integrated across processes and time. They adjust growth in response to light, alter root development in response to water and nutrient availability, coordinate defensive responses to damage, and modify physiology as conditions change. These activities demonstrate biological agency and may involve substantial integration across the organism. Whether particular responses qualify as cognitive depends upon evidence that integrated biological significance modulates activity across a temporal field of viability-relevant possibilities. Cognition therefore cannot be inferred from adaptive responsiveness or cross-system coordination alone.
 
 In animals, cognition becomes increasingly elaborate. Learning, memory, navigation, social recognition, anticipation, and behavioural flexibility expand the organism's ability to engage with biologically meaningful information. Instead of responding only to immediate conditions, animals can increasingly draw upon past experience and expected future outcomes.
 
@@ -314,15 +313,13 @@ Human cognition extends these capacities still further. Through language, abstra
 
 Despite these differences, APS emphasizes continuity rather than separation.
 
-Across the living world, cognition serves a common role: it enables organisms to engage effectively with conditions that matter for their continued activity. The mechanisms vary enormously, but the functional challenge remains recognisable. Organisms must detect relevant differences, integrate information, coordinate responses, and maintain viability within changing environments.
+AAcross the living world, organisms face the common challenge of maintaining viability under changing conditions. They detect relevant differences, coordinate responses, and regulate their activities through diverse mechanisms. These shared requirements establish continuity in biological agency, but they do not establish that every form of adaptive regulation is cognitive.
 
-This continuity helps explain why APS describes cognition as a functionally equivalent mode of adaptive regulation across diverse forms of life.
-
-Functional equivalence does not imply identical mechanisms. The sensory and regulatory processes of bacteria, plants, animals, and humans differ profoundly. What they share is the capacity to use information in ways that support adaptive engagement with meaningful aspects of their environments.
+Where cognition is present, its mechanisms may differ profoundly between organisms. APS therefore distinguishes functional similarities in biological regulation from evidence of cognition itself. Cognitive status depends upon the integration of biological significance across a temporal field of viability-relevant possibilities, not simply upon the capacity to detect information or produce adaptive responses.
 
 Seen in this light, cognition is deeply connected to organised persistence.
 
-Living systems persist because they continually regulate themselves in relation to changing circumstances. Such regulation depends upon the ability to detect conditions, evaluate their significance, and modify activity accordingly. Cognition therefore contributes directly to viability by helping organisms maintain effective relationships with their environments.
+Living systems persist because they continually regulate themselves in relation to changing circumstances. Such regulation may involve detecting relevant conditions, evaluating their significance, and modifying activity accordingly. Where these processes meet the additional requirements of cognition, cognitive activity can contribute to viability by extending the organism's capacity to engage with significant conditions across time.
 
 The relationship is also fundamentally temporal.
 

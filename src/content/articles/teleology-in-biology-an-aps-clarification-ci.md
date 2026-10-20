@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-04
-revised: 2026-10-17
+revised: 2026-10-20
 cluster: philosophy-of-biology
 role: clarification
 
@@ -247,7 +247,7 @@ APS treats these distinctions as intrinsic to living organisation itself.
 
 ## APS and Organisational Teleology
 
-APS resolves these tensions by reframing teleology organisationally.
+APS addresses these tensions by interpreting teleology in organisational terms.
 
 [[box:aps-box-what-aps-adds-to-contemporary-biology]]
 
@@ -284,17 +284,13 @@ externally imposed ends.
 Instead, APS naturalises purposiveness by grounding it in the organisational
 requirements of living systems themselves.
 
-This position aligns partially with contemporary organisational and autonomy
-approaches, especially the work of Moreno and Mossio, while extending these
-accounts through the APS emphasis on viability-oriented organised persistence
-across scale and time.
+This position is closely related to contemporary organisational and autonomy approaches, especially Moreno and Mossio's account of biological autonomy. APS articulates these relationships through its emphasis on viability-oriented organised persistence across process and scale, without presuming explanatory superiority over existing organisational accounts.
 
 Recent work by Corning and others similarly argues that purposiveness is not
 merely an explanatory illusion but a real feature of living systems and their
 evolutionary dynamics.
 
-APS agrees, but grounds this purposiveness more precisely in present-tense
-constraint-closed organisation.
+APS shares this naturalistic understanding of purposiveness and expresses it in terms of present-tense, viability-oriented, constraint-closed organisation.
 
 ## Implications for Biological Explanation
 
