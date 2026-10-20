@@ -1,0 +1,884 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+interface HomeCard {
+  title: string;
+  description: string;
+  href: string;
+  badge?: string;
+}
+
+interface QuestionComparison {
+  title: string;
+  familiarQuestion: string;
+  apsQuestion: string;
+  explanation: string;
+}
+
+const orientationArticles: HomeCard[] = [
+  {
+    title: 'What Is APS?',
+    description:
+      'Introduces APS, its central biological question, and its account of life as viability-oriented, constraint-closed organisation.',
+    href: '/orientation/what-is-aps/',
+    badge: 'Orientation',
+  },
+  {
+    title: 'Naturalising Life',
+    description:
+      'Explains how APS proposes to develop and stabilise biological concepts within its account of life and living organisation.',
+    href: '/articles/naturalising-life/',
+    badge: 'Orientation',
+  },
+  {
+    title: 'How APS Explains Life',
+    description:
+      'Introduces the explanatory logic through which APS understands life as viability-oriented, constraint-closed organisation and distinguishes this organisation from its persistence through change.',
+    href: '/orientation/how-aps-explains-life/',
+    badge: 'Orientation',
+  },
+  {
+    title: 'The Core Structure of APS',
+    description:
+      'Shows how the framework relates its foundational concepts and major explanatory domains within a common architecture.',
+    href: '/orientation/the-core-structure-of-aps-how-the-framework-fits-together/',
+    badge: 'Orientation',
+  },
+  {
+    title: 'APS Architecture Map',
+    description:
+      'Maps the major conceptual pathways, biological domains, and reading routes extending from the core APS architecture.',
+    href: '/orientation/aps-architecture-map/',
+    badge: 'Orientation',
+  },
+  {
+    title: 'How APS Concepts Fit Together',
+    description:
+      'Explains the relationships and organisational dependencies through which APS organises its principal concepts within a common explanatory architecture.',
+    href: '/orientation/how-aps-concepts-fit-together/',
+    badge: 'Orientation',
+  },
+];
+
+const questionComparisons: QuestionComparison[] = [
+  {
+    title: 'Function',
+    familiarQuestion: 'What does this trait, process, or structure do?',
+    apsQuestion:
+      'How does it contribute to maintaining viability-oriented biological organisation?',
+    explanation:
+      'Function identifies a present-tense, viability-relative organisational contribution. Its history may explain how it arose without constituting what the function presently is.',
+  },
+  {
+    title: 'Agency',
+    familiarQuestion: 'How do living systems act?',
+    apsQuestion:
+      'How does viability-oriented organisational activity maintain and re-establish persistence?',
+    explanation:
+      'Biological agency is the present-tense activity through which living organisation is enacted and sustained.',
+  },
+  {
+    title: 'Development',
+    familiarQuestion: 'How does an organism develop?',
+    apsQuestion:
+      'How is viable biological organisation reorganised across an individual life history?',
+    explanation:
+      'Development concerns the continuing reorganisation of living organisation through change while the conditions of viability are maintained or re-established.',
+  },
+  {
+    title: 'Evolution',
+    familiarQuestion: 'How do biological populations change across generations?',
+    apsQuestion: 'How is organised persistence historically transformed?',
+    explanation:
+      'Evolution explains the historical transformation of forms of organised persistence through population-level processes across generations.',
+  },
+  {
+    title: 'Ecology',
+    familiarQuestion: 'How do organisms interact with environments?',
+    apsQuestion:
+      'How is living persistence organised through continuing organism–environment relations?',
+    explanation:
+      'Ecology investigates materially implemented relations through which living persistence is organised across spatial and temporal extents.',
+  },
+];
+
+const domainCards: HomeCard[] = [
+  {
+    title: 'Cognition',
+    description:
+      'Examines how biological evaluation, significance, integration, and temporally extended modulation of activity contribute to cognition within living organisation.',
+    href: '/articles/cognition-where-does-it-belong-in-biology/',
+    badge: 'APS Domain',
+  },
+  {
+    title: 'Development & Regeneration',
+    description:
+      'Examines how viable biological organisation is maintained, reorganised, repaired, and re-established through developmental change and regeneration.',
+    href: '/articles/the-developmental-organisation-of-life/',
+    badge: 'APS Domain',
+  },
+  {
+    title: 'Evolutionary Dynamics',
+    description:
+      'Examines inheritance, variation, adaptation, fitness, natural selection, and the historical transformation of organised persistence across generations.',
+    href: '/articles/the-evolutionary-organisation-of-life/',
+    badge: 'APS Domain',
+  },
+  {
+    title: 'Ecology',
+    description:
+      'Examines how organised persistence depends upon continuing organism–environment relations, including resources, constraints, ecological organisation, and resilience.',
+    href: '/articles/the-ecological-organisation-of-life/',
+    badge: 'APS Domain',
+  },
+  {
+    title: 'Social Organisation',
+    description:
+      'Examines how organised persistence becomes socially distributed, coordinated, stabilised, transmitted, and historically extended through relations among multiple participants.',
+    href: '/articles/the-social-organisation-of-life/',
+    badge: 'APS Domain',
+  },
+];
+
+const methodologyCards: HomeCard[] = [
+  {
+    title: 'Comparative Explanatory Methodology in Theoretical Biology',
+    description:
+      'Establishes independently applicable controls for comparing explanatory proposals by specifying their targets, relevant comparators, explanatory priorities, domains of strength, and scope without assuming in advance that any one framework must prevail.',
+    href: '/articles/comparative-explanatory-methodology-theoretical-biology/',
+    badge: 'Methodological Anchor',
+  },
+  {
+    title: 'How Should Scientific Explanations Be Compared?',
+    description:
+      'Examines how explanatory claims can be compared fairly by matching what they seek to explain, identifying the strongest relevant comparators, and distinguishing genuine explanatory differences from differences of vocabulary, emphasis, or conceptual organisation.',
+    href: '/articles/how-should-scientific-explanations-be-compared/',
+    badge: 'Methodology and Explanation',
+  },
+  {
+    title: 'How Should a New Scientific Framework Be Tested?',
+    description:
+      'Sets out how a framework should receive its strongest fair test while retaining a genuine possibility of failure, qualification, redundancy, comparator advantage, or null explanatory gain.',
+    href: '/articles/how-should-a-new-scientific-framework-be-tested/',
+    badge: 'Methodology and Explanation',
+  },
+];
+
+const philosophyCards: HomeCard[] = [
+  {
+    title: 'Why the Philosophy of Biology Matters',
+    description:
+      'Explains why biology’s empirical achievements do not remove the need for philosophical inquiry and shows how questions about life, organisation, explanation, and scientific understanding arise within biological practice.',
+    href: '/articles/why-philosophy-of-biology-matters/',
+    badge: 'Philosophy',
+  },
+  {
+    title: 'APS as Philosophy',
+    description:
+      'Clarifies the philosophical status of APS, distinguishing it from a comprehensive philosophical system or philosophy of nature while showing how it contributes to philosophy through its account of biological intelligibility.',
+    href: '/articles/aps-as-philosophy-biological-intelligibility/',
+    badge: 'Philosophy',
+  },
+  {
+    title: 'Organisational Realism in Biology',
+    description:
+      'Examines whether biological organisation is an objective feature of living systems and what commitment to organisational reality means for biological explanation.',
+    href: '/articles/organisational-realism-in-biology/',
+    badge: 'Philosophy',
+  },
+  {
+    title: 'The Explanatory Geometry of Biology',
+    description:
+      'Explores how distinct biological explanations relate through different explanatory priorities without reducing them to a single explanatory form.',
+    href: '/articles/explanatory-geometry-of-biology/',
+    badge: 'Philosophy',
+  },
+];
+
+const clarificationCards: HomeCard[] = [
+  {
+    title: 'Reductionism in Biology',
+    description:
+      'Explains why APS rejects explanatory reduction without abandoning the indispensable role of mechanistic and molecular analysis.',
+    href: '/articles/reductionism-in-biology-an-aps-clarification/',
+    badge: 'Clarification',
+  },
+  {
+    title: 'Why APS Is Not Holism',
+    description:
+      'Clarifies that APS explains organisation through materially implemented relations and constraints rather than an undifferentiated appeal to wholes.',
+    href: '/articles/why-aps-is-not-holism/',
+    badge: 'Clarification',
+  },
+  {
+    title: 'Why Life Is Not Computation',
+    description:
+      'Explains why information processing and computational description are not sufficient to explain the organisation distinctive of living systems.',
+    href: '/articles/why-life-is-not-computation-an-aps-clarification/',
+    badge: 'Clarification',
+  },
+  {
+    title: 'Why AI Is Not Biological Agency',
+    description:
+      'Distinguishes behavioural sophistication and optimisation from the viability-oriented organisational activity characteristic of biological agency.',
+    href: '/articles/why-ai-is-not-biological-agency/',
+    badge: 'Clarification',
+  },
+];
+---
+
+<BaseLayout
+  title="Home"
+  description="The APS website develops and critically assesses Agency–Process–Scale as an integrative analytic framework for theoretical biology and develops comparative explanatory methodology for evaluating biological explanations, frameworks, and proposed explanatory relationships."
+>
+  <div class="content-wrapper">
+    <header class="hero">
+      <h1>
+        Biology explains many things.
+        <br />
+        <span>But what is biology itself trying to explain?</span>
+      </h1>
+
+      <p class="subtitle">
+        Evolution. Development. Function. Agency. Ecology. Biological organisation.
+      </p>
+
+      <p class="hero-guidance">
+        These are among biology’s most powerful ideas. Each explains some aspect of the living world.
+        Together they raise a deeper question: how do their distinctive explanatory achievements relate?
+      </p>
+
+      <p class="hero-architecture">
+        <strong>What are they all trying to explain?</strong>
+      </p>
+
+      <p class="hero-guidance">
+        Agency–Process–Scale is an integrative analytic framework for theoretical biology. APS begins
+        with this question and investigates how familiar biological concepts and explanations relate to
+        the organisation through which living systems maintain and transform their persistence, and
+        whether those proposed relationships withstand comparison with established explanations.
+      </p>
+
+      <p class="hero-guidance">
+        This website develops APS within a wider theoretical-biology resource concerned with both
+        biological organisation and biological explanation. It distinguishes the substantive APS account
+        and its Agency–Process–Scale architecture from the comparative methodology used to assess
+        explanatory claims, and treats APS itself as open to comparison, qualification, and revision.
+      </p>
+
+      <div class="hero-links" aria-label="Homepage starting points">
+        <a href="/articles/what-is-biology-trying-to-explain/" class="btn btn-primary">
+          What Is Biology Trying to Explain?
+        </a>
+
+        <a href="/biologys-big-questions/" class="btn btn-secondary">
+          Explore Biology’s Big Questions
+        </a>
+        <a href="/#start-here-heading" class="btn btn-secondary">Start Here</a>
+      </div>
+    </header>
+
+    <section class="home-section" aria-labelledby="why-aps-heading">
+      <h2 id="why-aps-heading">
+        <a href="/articles/why-aps/">Why APS?</a>
+      </h2>
+
+      <div class="article-text-block">
+        <p>
+          Biology has achieved extraordinary success in explaining living systems, yet some of its
+          deepest conceptual questions remain unresolved. What is life? What distinguishes biological
+          organisation from every other organised system? How do concepts such as evolution, function,
+          agency, development, and ecology relate?
+        </p>
+
+        <p>
+          APS investigates these questions. Rather than replacing established biological theories, it
+          asks whether and how biology’s central concepts can be related through a common concern with
+          the organisation and persistence of living systems.
+        </p>
+      </div>
+    </section>
+    
+    
+        <section class="home-section" aria-labelledby="what-aps-offers-heading">
+      <h2 id="what-aps-offers-heading">What APS Offers</h2>
+
+      <div class="article-text-block">
+        <p>
+          APS offers a coherent, parsimonious, and corrigible conceptual architecture
+          for understanding living organisation. Through interconnected definitions
+          and explicit relationships among agency, process, scale, viability,
+          function, persistence, cognition, and evolution, it seeks to make
+          biological explanations more intelligible and their underlying
+          assumptions more transparent.
+        </p>
+
+        <p>
+          Conceptual precision, systematic coherence, and cross-disciplinary
+          integration are important scholarly contributions in their own right.
+          APS provides a structured perspective for examining relationships
+          among biological concepts while preserving differences between
+          explanatory domains. Its distinctive contribution and wider usefulness
+          remain open to scholarly evaluation.
+        </p>
+      </div>
+    </section>
+
+    <section class="home-section" aria-labelledby="contemporary-biology-heading">
+      <h2 id="contemporary-biology-heading">APS in Contemporary Biology</h2>
+
+      <div class="article-text-block">
+        <p>
+          Contemporary biology succeeds through explanatory plurality. Mechanistic,
+          evolutionary, developmental, ecological, informational, physiological,
+          mathematical, and organisational approaches ask different questions and
+          achieve different kinds of understanding.
+        </p>
+
+        <p>
+          APS does not seek to replace this plurality with a single theory. It develops
+          a substantive and integrative account of living organisation whose explanatory
+          claims can be compared with other biological and philosophical approaches.
+          Those comparisons require independently applicable methodological controls
+          rather than being settled by APS architecture itself.
+        </p>
+      </div>
+
+      <aside class="card" aria-labelledby="fep-feature-heading">
+        <div class="card-header">
+          <h3 id="fep-feature-heading" class="card-title">
+            <a href="/articles/aps-and-the-free-energy-principle/">
+              APS and the Free Energy Principle
+            </a>
+          </h3>
+
+          <span class="badge badge-type badge-article">Comparative Study</span>
+        </div>
+
+        <p class="card-excerpt">
+          The Free Energy Principle is one of the most influential contemporary
+          frameworks for understanding adaptive living systems. APS examines where
+          the two approaches converge, where their explanatory priorities differ,
+          and how formal modelling and organisational biological explanation may
+          contribute complementary perspectives on life.
+        </p>
+      </aside>
+
+      <p>
+        APS may contribute by clarifying biological explananda, relating established
+        explanations without conflating them, and generating assessable questions about
+        organised persistence. These conceptual and methodological contributions do not
+        by themselves establish that APS explains a biological phenomenon better than
+        existing approaches. Where APS claims explanatory gain, that gain must be
+        demonstrated for a specified explanandum against the strongest relevant comparator.
+      </p>
+
+      <a href="/articles/aps-and-contemporary-theories/" class="btn btn-secondary">
+        Explore APS and Contemporary Explanatory Approaches
+      </a>
+    </section>
+
+    <section class="home-section" aria-labelledby="methodology-heading">
+      <h2 id="methodology-heading">Methodology and Explanation</h2>
+
+      <div class="article-text-block">
+        <p>
+          Biology explains through many successful approaches, but explanations cannot
+          be compared simply because they use different concepts, vocabularies, or
+          theoretical frameworks. Comparative assessment begins by specifying what is
+          being explained and identifying the strongest relevant alternatives.
+        </p>
+
+        <p>
+          APS therefore distinguishes its substantive account of living organisation
+          from the methodology used to assess explanatory claims. Conceptual coherence
+          and integration matter, but coherence alone is not evidence. Proposed
+          relationships must be specified, materially warranted, and assessed against
+          evidence and relevant comparators. The outcome may be explanatory gain,
+          complementarity, redundancy, comparator advantage, qualified gain, or no gain
+          at all.
+        </p>
+      </div>
+
+      <ul class="card-list">
+        {methodologyCards.map((resource) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href={resource.href}>{resource.title}</a>
+              </h3>
+              <span class="badge badge-type badge-article">
+                {resource.badge}
+              </span>
+            </div>
+            <p class="card-excerpt">{resource.description}</p>
+          </li>
+        ))}
+      </ul>
+
+      <a href="/glossary/" class="btn btn-secondary">
+        Browse the APS Glossary
+      </a>
+
+      <a href="/research/" class="btn btn-secondary">
+        Explore APS Research
+      </a>
+    </section>
+
+    <section class="home-section" aria-labelledby="research-heading">
+      <h2 id="research-heading">APS Research</h2>
+
+      <div class="article-text-block">
+        <p>
+          APS Research is the scholarly programme through which these comparative controls
+          are applied to APS claims, methods, and applications. Proposals are compared with
+          existing work, assessed against evidence and alternatives, and examined for
+          limitations and failure conditions.
+        </p>
+
+        <p>
+          APS is currently being investigated as a <strong>candidate general explanatory
+          framework for biology</strong>. Controlled domain consolidation and subsequent
+          cross-domain testing support the internal and integrative coherence of the present
+          APS architecture, while neither establishing framework-wide empirical adequacy nor
+          comparative explanatory superiority. Whether that architecture provides explanatory
+          value for biology as a whole beyond organisation or redescription remains an open
+          research question.
+        </p>
+        
+        <p>
+          It complements the wider <a href="/articles/">Articles</a> collection
+          while connecting completed website research with the peer-reviewed
+          publications, preprints, and deposited papers recorded in
+          <a href="/publications/">Publications</a>.
+        </p>
+      </div>
+
+      <aside class="card" aria-labelledby="published-anchor-heading">
+        <div class="card-header">
+          <h3 id="published-anchor-heading" class="card-title">
+            Published scientific anchor
+          </h3>
+          <span class="badge badge-type badge-article">
+            Peer-reviewed publication
+          </span>
+        </div>
+
+        <p class="card-excerpt">
+          <cite>
+            Agency as the Defining Activity of Life: A Viability-Oriented
+            Framework Integrating Process and Scale
+          </cite>,
+          published in <cite>Biological Theory</cite>, provides the foundational
+          peer-reviewed presentation of APS. The wider Research programme develops
+          and critically assesses its explanatory methods, applications, and
+          continuing claims.
+        </p>
+      </aside>
+
+      <a href="/research/" class="btn btn-secondary">Explore APS Research</a>
+      <a href="/publications/" class="btn btn-secondary">View Publications</a>
+    </section>
+
+    <section class="home-section" aria-labelledby="start-here-heading">
+      <h2 id="start-here-heading">Start Here</h2>
+
+      <div class="article-text-block">
+        <p>
+          To understand APS, begin with two gateway questions: what biology is trying to
+          explain, and what distinguishes a biological system from every other organised
+          system. Then follow the Orientation pathway through the structure and conceptual
+          architecture of APS. A complementary Methodology and Explanation pathway examines
+          how explanatory claims—including APS claims—should be compared, tested, qualified,
+          or rejected.
+        </p>
+      </div>
+
+      <ul class="card-list">
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title">
+              <a href="/articles/what-is-biology-trying-to-explain/">
+                What Is Biology Trying to Explain?
+              </a>
+            </h3>
+            <span class="badge badge-type badge-article">Gateway</span>
+          </div>
+          <p class="card-excerpt">
+            Introduces biology’s central explanatory question and asks whether organised persistence can
+            serve as a useful target for comparing how its major concepts and explanations relate.
+          </p>
+        </li>
+
+        <li class="card">
+          <div class="card-header">
+            <h3 class="card-title">
+              <a href="/articles/what-is-a-biological-system/">What Is a Biological System?</a>
+            </h3>
+            <span class="badge badge-type badge-article">Gateway</span>
+          </div>
+          <p class="card-excerpt">
+            Presents the APS account of biological systems as distinguished by viability-oriented,
+            constraint-closed organisation rather than by a list of traits or mechanisms.
+          </p>
+        </li>
+      </ul>
+
+      <h3>Orientation</h3>
+
+      <ol class="card-list">
+        {orientationArticles.map((article, index) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">
+                <a href={article.href}>{index + 1}. {article.title}</a>
+              </h3>
+              <span class="badge badge-type badge-orientation">{article.badge}</span>
+            </div>
+            <p class="card-excerpt">{article.description}</p>
+          </li>
+        ))}
+      </ol>
+
+      <div class="article-text-block">
+        <p>
+          <strong>Supporting orientation:</strong>{' '}
+          <a href="/orientation/understanding-aps-the-structure-of-the-framework/">
+            Understanding APS — The Structure of the Framework
+          </a>{' '}
+          provides a wider guide to the pathways, domains, and research programmes of APS.
+        </p>
+      </div>
+
+      <div class="article-text-block">
+        <p>
+          <strong>Methodology and explanation:</strong>{' '}
+          <a href="/articles/comparative-explanatory-methodology-theoretical-biology/">
+            Comparative Explanatory Methodology in Theoretical Biology
+          </a>{' '}
+          provides the methodological gateway for assessing explanatory claims and comparing
+          APS with relevant alternatives.
+        </p>
+      </div>
+    </section>
+
+    <section class="home-section" aria-labelledby="big-questions-heading">
+      <h2 id="big-questions-heading">Biology’s Big Questions</h2>
+
+      <div class="article-text-block">
+        <p>
+          Biology has transformed our understanding of living systems while leaving foundational
+          questions open. What is life? What distinguishes biological systems? What is agency? What is
+          evolution transforming? What makes function meaningful? What is biological explanation
+          explaining?
+        </p>
+
+        <p>
+          APS approaches these questions as opportunities for conceptual clarification rather than as
+          evidence of scientific failure. They arise because biology’s continuing explanatory success
+          makes foundational questions increasingly explicit.
+        </p>
+      </div>
+
+      <a href="/biologys-big-questions/" class="btn btn-secondary">
+        Explore Biology’s Big Questions
+      </a>
+    </section>
+
+    <section class="home-section" aria-labelledby="organised-persistence-heading">
+      <div class="article-text-block">
+        <h2 id="organised-persistence-heading">Organised Persistence</h2>
+
+        <p>
+          Living systems continually establish, maintain, repair, reorganise, and transform the
+          conditions that make biological activity possible.
+        </p>
+
+        <p>
+          APS describes this continuing achievement as <strong>organised persistence</strong>.
+          Organisation here is ongoing activity rather than a static arrangement, and persistence is
+          continuity maintained through change rather than changeless endurance.
+        </p>
+
+        <p>
+          Mechanistic, developmental, ecological, physiological, evolutionary, and organisational
+          explanations address different aspects of biological continuity and change. APS proposes
+          organised persistence as a candidate comparative explanatory target for investigating how
+          their distinctive achievements relate.
+        </p>
+      </div>
+    </section>
+
+    <section class="home-section" aria-labelledby="reframes-biology-heading">
+      <div class="article-text-block">
+        <h2 id="reframes-biology-heading">
+          <a href="/articles/why-aps-reframes-biology/">Why APS Reframes Biology</a>
+        </h2>
+
+        <p>
+          APS asks a simple but foundational question: what is biology trying to explain? The examples below illustrate how APS relates familiar biological questions through its concern with viability-oriented organisation and organised persistence.
+        </p>
+      </div>
+
+      <ul class="card-list">
+        {questionComparisons.map((item) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title">{item.title}</h3>
+            </div>
+
+            <p class="card-excerpt">
+              <strong>A familiar biological question</strong><br />
+              {item.familiarQuestion}
+            </p>
+
+            <p class="card-excerpt">
+              <strong>APS also asks</strong><br />
+              {item.apsQuestion}
+            </p>
+
+            <p class="card-excerpt">{item.explanation}</p>
+          </li>
+        ))}
+      </ul>
+
+      <div class="article-text-block">
+        <p>
+          These examples do not redefine biology. They show how APS proposes to relate biological
+          explanations by asking how each bears on the organisation and persistence of living systems.
+        </p>
+
+        <p>
+          Different domains continue asking different questions. APS investigates how their
+          explanatory achievements illuminate different aspects of living organisation.
+        </p>
+      </div>
+
+      <a href="/articles/why-aps-reframes-biology/" class="btn btn-secondary">
+        Read Why APS Reframes Biology
+      </a>
+    </section>
+
+    <section class="home-section architecture-diagram-section" aria-labelledby="aps-framework-heading">
+      <div class="article-text-block">
+        <h2 id="aps-framework-heading">Agency–Process–Scale</h2>
+
+        <p>
+          APS investigates living organisation through three complementary analytic projections:
+          <strong> Agency</strong>, <strong>Process</strong>, and <strong>Scale</strong>.
+        </p>
+
+        <p>
+          These are not separate biological entities, independent causes, or hierarchical levels. They
+          are different explanatory priorities through which the one viability-oriented,
+          constraint-closed organisation of living systems can be investigated.
+        </p>
+
+        <p>
+          Together they provide APS with an analytic architecture for investigating how biology’s diverse
+          explanatory achievements may relate while preserving the distinctive questions addressed by
+          individual biological disciplines.
+        </p>
+      </div>
+
+      <div class="aps-framework-content">
+        <ul class="card-list">
+          <li class="card">
+            <div class="card-header"><h3 class="card-title">Agency</h3></div>
+            <p class="card-excerpt"><strong>What do living systems do?</strong></p>
+            <p class="card-excerpt">
+              Biological agency is viability-oriented organisational activity: the present-tense
+              activity through which living systems maintain and re-establish the conditions of their
+              persistence.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header"><h3 class="card-title">Process</h3></div>
+            <p class="card-excerpt"><strong>How is continuity maintained through change?</strong></p>
+            <p class="card-excerpt">
+              APS examines the processes through which biological organisation remains continuous amid
+              material turnover, development, repair, environmental variation, ageing, and evolutionary
+              transformation.
+            </p>
+          </li>
+
+          <li class="card">
+            <div class="card-header"><h3 class="card-title">Scale</h3></div>
+            <p class="card-excerpt"><strong>Where is persistence organised?</strong></p>
+            <p class="card-excerpt">
+              APS investigates where persistence is organised across spatial and temporal extents, and
+              how materially implemented relations alter the causal contexts within which local
+              biological activity occurs.
+            </p>
+          </li>
+        </ul>
+
+        <figure class="aps-diagram aps-diagram-large">
+          <a href="/assets/diagrams/aps-foundational-framework.png" target="_blank" rel="noopener">
+            <img
+              src="/assets/diagrams/aps-foundational-framework.png"
+              alt="Diagram showing Agency, Process, and Scale as complementary analytic projections through which different biological explanations can be related by their contribution to organised persistence."
+              loading="lazy"
+              decoding="async"
+            />
+          </a>
+
+          <figcaption class="diagram-caption">
+            APS does not replace contemporary biological theories. It uses Agency, Process, and Scale as
+            complementary analytic projections for investigating how their distinctive explanatory
+            achievements may relate to the organisation and persistence of living systems. Comparative
+            explanatory methodology provides the independent means by which such proposed relationships can
+            be assessed.
+          </figcaption>
+        </figure>
+
+        <p class="diagram-hint">Open the diagram to view a larger version.</p>
+      </div>
+    </section>
+
+    <section class="home-section" aria-labelledby="domains-heading">
+      <h2 id="domains-heading">Explore APS by Domain</h2>
+
+      <div class="article-text-block">
+        <p>
+          APS organises its substantive biological investigations across five
+          consolidated domains: Cognition, Development & Regeneration, Evolutionary
+          Dynamics, Ecology, and Social Organisation. Each addresses a distinct
+          biological explanandum while remaining connected through APS's concern
+          with viability-oriented organised persistence.
+        </p>
+
+        <p>
+          These domains are not separate theories, stages in a hierarchy, or parts of a universal causal
+          sequence. Their relations must be established for the biological question concerned: an
+          interface between domains does not by itself establish explanatory dependence, causal
+          dependence, or a universal prerequisite relation.
+        </p>
+
+        <p>
+          The five-domain architecture records where APS has developed sufficiently coherent substantive
+          bodies of inquiry to warrant domain-level organisation. It does not imply that APS exhausts
+          biology, that every biological question belongs within one of these domains, or that
+          APS-specific explanatory gain has been demonstrated merely because a domain has been
+          consolidated.
+        </p>
+      </div>
+
+      <ul class="card-list">
+        {domainCards.map((domain) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title"><a href={domain.href}>{domain.title}</a></h3>
+              <span class="badge badge-type badge-article">{domain.badge}</span>
+            </div>
+            <p class="card-excerpt">{domain.description}</p>
+          </li>
+        ))}
+      </ul>
+
+      <a href="/orientation/aps-architecture-map/" class="btn btn-secondary">
+        Open the APS Architecture Map
+      </a>
+    </section>
+
+    <section class="home-section" aria-labelledby="philosophy-heading">
+      <h2 id="philosophy-heading">Philosophical Foundations of APS</h2>
+
+      <div class="article-text-block">
+        <p>
+          APS is developed as a substantive and integrative framework for theoretical biology rather than
+          as a philosophical system. Nevertheless, questions about biological organisation, explanation,
+          function, purpose, normativity, and scientific understanding are inseparable from philosophy
+          of biology.
+        </p>
+
+        <p>
+          These articles begin with the importance of philosophy of biology itself and then examine the
+          philosophical status, ontological commitments, and explanatory architecture of APS.
+        </p>
+      </div>
+
+      <ul class="card-list">
+        {philosophyCards.map((resource) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title"><a href={resource.href}>{resource.title}</a></h3>
+              <span class="badge badge-type badge-article">{resource.badge}</span>
+            </div>
+            <p class="card-excerpt">{resource.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="home-section" aria-labelledby="clarifying-heading">
+      <h2 id="clarifying-heading">Clarifying APS</h2>
+
+      <div class="article-text-block">
+        <p>
+          APS is often compared with reductionism, holism, systems biology, autopoiesis, computational approaches, artificial intelligence, and other influential perspectives in biology and philosophy. These comparisons are valuable because they help locate APS within contemporary scientific discussion.
+
+          At the same time, superficial similarities can obscure important differences. APS does not reject existing biological theories or explanatory traditions. Instead, it asks how their distinctive explanatory achievements may relate to the organisation and persistence of living systems.
+        </p>
+
+        <p>
+          The articles below examine where APS converges with other approaches, where it differs, and whether those distinctions matter for biological explanation.
+        </p>
+      </div>
+
+      <ul class="card-list">
+        {clarificationCards.map((resource) => (
+          <li class="card">
+            <div class="card-header">
+              <h3 class="card-title"><a href={resource.href}>{resource.title}</a></h3>
+              <span class="badge badge-type badge-article">{resource.badge}</span>
+            </div>
+            <p class="card-excerpt">{resource.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .aps-framework-content {
+    width: 100%;
+    max-width: 760px;
+    margin-inline: auto;
+  }
+
+  .aps-framework-content .card-list {
+    width: 100%;
+  }
+
+  .aps-framework-content .aps-diagram {
+    width: 100%;
+    margin: 2.5rem auto 0;
+    text-align: center;
+  }
+
+  .aps-framework-content .aps-diagram a {
+    display: block;
+    width: 100%;
+  }
+
+  .aps-framework-content .aps-diagram img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-inline: auto;
+  }
+
+  .aps-framework-content .diagram-caption {
+    max-width: 700px;
+    margin: 1rem auto 0;
+    text-align: left;
+  }
+
+  .aps-framework-content .diagram-hint {
+    text-align: center;
+  }
+</style>
