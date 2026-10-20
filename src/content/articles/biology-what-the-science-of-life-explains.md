@@ -7,7 +7,7 @@ abstract: "Biology explains living systems through diverse but complementary for
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-14
-revised: 2026-10-17
+revised: 2026-10-20
 cluster: methodology-and-explanation
 role: core
 
@@ -132,6 +132,8 @@ Agency and evolution consequently answer different questions. Agency concerns th
 ## The Organisational Question in Biological Explanation
 
 The organisation of living systems raises a further question: what does an organisational perspective contribute to biological explanation?
+
+Biology investigates a material and historical reality that exists independently of human observers. Nevertheless, the concepts through which biology is understood, its explanatory units and its disciplinary boundaries are established through human investigative perspectives. Scientists select phenomena, distinguish entities and processes, formulate concepts, determine evidential criteria and organise explanatory relationships according to particular questions and methods. These choices are constrained by biological reality but are not uniquely dictated by it. Biological explanation is therefore necessarily perspectival without being merely subjective. A general conceptual framework can contribute to biology by making relationships among these perspectives explicit, preserving their distinct explanatory responsibilities and identifying the conditions under which their conclusions can be integrated.
 
 Biology explains an extraordinary range of phenomena. Mechanistic explanations identify organised components and activities through which particular phenomena are produced; evolutionary explanations reconstruct historical processes of change; developmental, physiological, ecological, molecular, mathematical, and other approaches address further explanatory targets using their own evidence and methods. APS does not propose that these explanations become genuinely biological only when redescribed in organisational terms.
 
