@@ -28,7 +28,9 @@ Hooke described the cork as consisting of many little boxes or cells. The compar
 
 Nevertheless, the observation mattered. It showed that a seemingly continuous plant material could possess a repeated microscopic architecture. The scientific question changed from "What is cork made of?" to "Might comparable structures occur throughout living bodies—and, if so, what do they do?"
 
-**Historical illustration — Robert Hooke's cork engraving (1665).** Scheme XI from *Micrographia*, showing the microscopic structure of cork and sprouts. Source: [Science History Institute digital collection](https://digital.sciencehistory.org/works/fx719n66r). Public Domain Mark 1.0. Courtesy of Science History Institute.
+![Robert Hooke's microscopic illustrations of cork, Figures A and B, with botanical drawings of sprouts, from Micrographia (1665), Scheme XI.](/images/history/hooke-micrographia-cork-1665.jpg)
+
+*Figure 1. Robert Hooke, Micrographia (1665), Scheme XI. Microscopic views of cork (Figures A and B) and botanical illustrations of sprouts. Science History Institute Digital Collections. Public Domain Mark 1.0. [Original historical source](https://digital.sciencehistory.org/works/fx719n66r).*
 
 ## Looking Through Imperfect Instruments
 
@@ -131,6 +133,6 @@ Its enduring lesson is that discoveries become transformative when observations 
 
 ## Illustration Acknowledgements
 
-**Figure 1 — Historical source:** Robert Hooke, *Micrographia* (1665), Scheme XI, microscopic view of cork and sprouts. Science History Institute digital collection. Public Domain Mark 1.0. Courtesy of Science History Institute. [Original catalogue record](https://digital.sciencehistory.org/works/fx719n66r). The historical engraving is linked above; its image file has not yet been embedded.
+**Figure 1 — Historical illustration:** Robert Hooke, *Micrographia* (1665), Scheme XI, showing microscopic views of cork (Figures A and B) and botanical illustrations of sprouts. Science History Institute Digital Collections. Public Domain Mark 1.0. [Original catalogue record](https://digital.sciencehistory.org/works/fx719n66r). Reproduced locally for historical and educational purposes.
 
 **Figure 2 — Modern explanatory diagram:** *Cellular structure, activity and organisation* (2026). Original explanatory illustration prepared for this article. It is a conceptual diagram, not a historical image or an experimental observation.
