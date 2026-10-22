@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-09-20
+revised: 2026-10-22
 cluster: methodology-and-explanation
 role: clarification
 
@@ -130,7 +130,7 @@ This reframing does not reject evolutionary theory or diminish the importance of
   </p>
 </div>
 
-APS situates evolutionary explanation within a broader explanatory architecture. Mechanistic explanations describe how persistence-sustaining organisation is enacted, functional explanations describe how those activities contribute to viability, and evolutionary explanations explain how forms of organised persistence emerge, diversify, and transform through historical time. Evolutionary explanation therefore addresses one dimension of a larger explanatory framework directed toward organised persistence as the common explanatory target of biology.
+APS situates evolutionary explanation within a broader explanatory architecture. Mechanistic explanations describe how persistence-sustaining organisation is enacted, functional explanations describe how those activities contribute to viability, and evolutionary explanations explain how forms of organised persistence emerge, diversify, and transform through historical time. Evolutionary explanation therefore addresses one dimension of a larger explanatory framework in which organised persistence provides an integrative perspective on biological continuity and change, without constituting the explanatory target of every biological inquiry.
 
 ## Evolutionary Explanation Requires Viable Organisation
 
@@ -160,13 +160,11 @@ The importance of persistence becomes particularly clear when considering inheri
 
 Adaptation and natural selection are often treated as closely related or even interchangeable concepts. APS argues that they refer to different aspects of evolutionary organisation and therefore perform distinct explanatory functions.
 
-Adaptation concerns the active reorganisation of viability-oriented systems under changing conditions. Living systems continually regulate their internal organisation and their interactions with their environments in ways that contribute to maintaining viability. Adaptation therefore belongs to the ongoing activity of living systems themselves and reflects the capacity of organised persistence to remain viable despite continual perturbation.
+Natural selection, by contrast, concerns differential historical persistence and reproductive success among heritable variants. Selection may act upon differences associated with adaptive organisation, but it does not require every selected variant to arise through present viability-preserving reorganisation. Its relationship to particular adaptive processes must be established for the biological case under explanation.
 
-Natural selection, by contrast, concerns the historical differential stabilisation of some adaptive reorganisations relative to others. Selection does not generate viability, create adaptive organisation, or produce persistence directly. Rather, it explains why certain forms of already viable organisation become historically more persistent than competing alternatives.
+This distinction is important because evolutionary explanation addresses several related but distinguishable questions: how viable organisms and variants arise, how living systems maintain their organisation under changing conditions, and how heritable differences contribute to evolutionary change. Adaptation, in the APS sense, concerns viability-preserving reorganisation; natural selection concerns differential historical outcomes among heritable variants. Neither concept is reducible to the other.
 
-This distinction is important because evolutionary explanation must account for more than the differential persistence of variants. It must also explain how viable variants arise, how living systems reorganise themselves adaptively, and how organised persistence is maintained despite continual environmental and developmental change. Adaptation concerns the production and maintenance of viable organisation, whereas selection concerns the long-term historical consequences of that organisation across populations and generations.
-
-Seen in this way, adaptation and selection are complementary rather than competing explanatory concepts. Adaptation explains how living systems remain viable in the present, while selection explains how the consequences of those adaptive activities become distributed through evolutionary time. Selection therefore remains indispensable to evolutionary theory, but it does not exhaust evolutionary explanation. The broader explanatory task is to understand how organised persistence generates, maintains, and transforms the adaptive capacities upon which evolutionary processes ultimately depend.
+Adaptation and natural selection can therefore contribute to a broader account of evolutionary change without forming a necessary causal sequence. Present adaptive processes may influence evolutionary outcomes, but their contribution to differential fitness, selection, or historical transformation requires independent biological evidence. Natural selection remains indispensable to evolutionary theory, while APS examines how the organisation of living systems bears upon the evolutionary processes in which they participate.
 
 ## Evolutionary Explanation and Inheritance
 
