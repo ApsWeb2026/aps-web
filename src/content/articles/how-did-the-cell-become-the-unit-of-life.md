@@ -5,9 +5,9 @@ slug: how-did-the-cell-become-the-unit-of-life
 type: article
 status: draft
 canonical: false
-revised: 2026-10-22
-cluster: history-of-ideas
-role: historical
+revised: 2026-10-23
+cluster: philosophy-of-biology
+role: extension
 abstract: |
   How did microscopic observations become the foundation of cell theory? This historical account follows the discoveries, controversies and scientific revisions that established cells as central units of biological investigation, and examines the continuing debate over whether the cell is the fundamental unit of life.
 keyPoints:
