@@ -1,3 +1,4 @@
+
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
@@ -46,6 +47,44 @@ glossary.sort((a, b) => a.data.title.localeCompare(b.data.title));
         summary, and links to related concepts.
       </p>
     </header>
+
+    <section
+      class="article-text-block"
+      aria-labelledby="glossary-introduction-heading"
+    >
+      <h2 id="glossary-introduction-heading">
+        Understanding the APS Glossary
+      </h2>
+
+      <p>
+        The APS glossary is more than an alphabetical collection of biological
+        definitions. It presents an interconnected system of concepts intended
+        to make important relationships within and across biological disciplines
+        more explicit. For example, biological function is considered in relation
+        to viability, agency, adaptation, normativity and cognition. These
+        concepts are not independent: clarifying or revising one may have
+        implications for how others are understood.
+      </p>
+
+      <p>
+        The glossary therefore provides an accessible entry point to the
+        <strong>explanatory architecture of APS</strong> — the relationships
+        among biological concepts, explanatory dependencies and disciplinary
+        perspectives. It seeks to make these connections visible without
+        reducing the diversity of biological explanations to a single model.
+      </p>
+
+      <p>
+        Developed through philosophical analysis and systematic conceptual
+        investigation, with AI assistance, this architecture is itself a
+        subject of continuing research. Its coherence and breadth can be
+        examined, but its scientific usefulness, accessibility and comparative
+        advantages remain open questions. In particular, does making conceptual
+        relationships explicit help readers understand and navigate biological
+        explanations, and how does this approach compare with established
+        alternatives?
+      </p>
+    </section>
 
     <section
       id="glossary-relationship-example"
