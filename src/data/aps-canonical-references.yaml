@@ -5274,3 +5274,52 @@ references:
     status: verified
     authority: Springer Nature / publisher PDF
     verifiedDate: 2026-10-20
+- id: hooke-1665-micrographia
+  type: book
+  authors: Hooke, R.
+  year: 1665
+  title: 'Micrographia: Or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses. With Observations and Inquiries Thereupon'
+  publisher: Jo. Martyn and Ja. Allestry, Printers to the Royal Society
+  doi: 10.5962/bhl.title.904
+  verification:
+    status: verified
+    authority: Library of Congress / Royal Society / Biodiversity Heritage Library
+    verifiedDate: 2026-10-23
+
+- id: goss-1937-historical-background-schwanns-cell-theory
+  type: journal-article
+  authors: Goss, C. M.
+  year: 1937
+  title: "The Historical Background of Schwann's Cell Theory"
+  journal: Yale Journal of Biology and Medicine
+  volume: '10'
+  issue: '2'
+  pages: 125–144
+  verification:
+    status: verified
+    authority: PubMed / PubMed Central
+    verifiedDate: 2026-10-23
+- id: openstax-2016-microbiology
+  type: book
+  authors: OpenStax
+  year: 2016
+  title: Microbiology
+  publisher: OpenStax, Rice University
+  url: https://openstax.org/books/microbiology/pages/3-2-foundations-of-modern-cell-theory
+  verification:
+    status: verified
+    authority: OpenStax / Rice University
+    verifiedDate: 2026-10-23
+- id: bechtel-bollhagen-2026-philosophy-cell-biology
+  type: book
+  authors: Bechtel, W., & Bollhagen, A.
+  year: 2026
+  title: Philosophy of Cell Biology
+  publisher: Stanford Encyclopedia of Philosophy
+  url: https://plato.stanford.edu/entries/cell-biology/
+  verification:
+    status: verified
+    authority: Stanford Encyclopedia of Philosophy
+    verifiedDate: 2026-10-23
+
+
