@@ -5,7 +5,7 @@ slug: the-chronometric-revolution
 type: article
 status: draft
 canonical: false
-revised: 2026-10-23
+revised: 2026-10-24
 cluster: philosophy-of-biology
 role: extension
 abstract: |
@@ -16,14 +16,15 @@ keyPoints:
   - Establishing when a biological event occurred is not equivalent to explaining how or why it occurred.
   - Biological processes operate across different temporal extents, from physiological regulation to evolutionary transformation.
   - APS relates temporal scale to biological process and organisation without claiming to replace established historical or evolutionary explanations.
+
 references:
-  - "Dalrymple GB (1991) The Age of the Earth. Stanford University Press, Stanford, California. ISBN 9780804715690."
-  - "Darwin C (1859) On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. John Murray, London."
-  - "Lee MSY, Ho SYW (2016) Molecular clocks. Current Biology 26(10):R399–R402. https://doi.org/10.1016/j.cub.2016.03.071"
-  - "Libby WF, Anderson EC, Arnold JR (1949) Age determination by radiocarbon content: World-wide assay of natural radiocarbon. Science 109(2827):227–228. https://doi.org/10.1126/science.109.2827.227"
-  - "Patterson CC (1956) Age of meteorites and the Earth. Geochimica et Cosmochimica Acta 10(4):230–237. https://doi.org/10.1016/0016-7037(56)90036-9"
-  - "Smith W (1815) A Delineation of the Strata of England and Wales, with Part of Scotland. John Cary, London."
-  - "Zuckerkandl E, Pauling L (1962) Molecular disease, evolution, and genic heterogeneity. In: Kasha M, Pullman B (eds) Horizons in Biochemistry. Academic Press, New York, pp 189–225."
+  - dalrymple-1991-age-of-the-earth
+  - darwin-1859-origin
+  - lee-ho-2016-molecular-clocks
+  - libby-anderson-arnold-1949-radiocarbon
+  - patterson-1956-age-meteorites-earth
+  - smith-1815-delineation-strata
+  - zuckerkandl-pauling-1962-molecular-disease
 ---
 
 ## Introduction — Making Deep Time Measurable
@@ -45,6 +46,22 @@ The modern understanding of geological time developed gradually through the inve
 Stratigraphy supplied one such method. By examining the relationships among rock layers, geologists could infer the relative sequence of deposition, deformation, erosion and other geological processes. Fossils provided an additional means of identifying and correlating strata across different locations.
 
 The work of James Hutton, Charles Lyell, William Smith and many other investigators helped establish the intellectual and practical foundations of historical geology. Smith's use of fossil succession, for example, demonstrated how characteristic fossils could be used to identify corresponding geological formations across extensive areas. His geological map of England and Wales, published in 1815, was an important achievement in the representation of geological succession.
+
+<figure>
+  <a href="/images/history/william-smith-geological-map-1815.jpg" target="_blank" rel="noopener noreferrer">
+    <img
+      src="/images/history/william-smith-geological-map-1815.jpg"
+      alt="William Smith's 1815 geological map, showing coloured geological formations across England and Wales, with part of Scotland."
+      loading="lazy"
+      style="display:block;width:100%;max-width:760px;height:auto;margin:0 auto;"
+    />
+  </a>
+  <figcaption>
+    <strong>Figure 1. William Smith's geological map (1815).</strong>
+    Smith's mapping demonstrated how geological formations could be identified and correlated across extensive geographical areas, helping establish relative geological chronology before reliable numerical dating became available.
+    Source: William Smith (1815), British Library digitisation, via Wikimedia Commons (CC0).
+  </figcaption>
+</figure>
 
 These developments made it possible to reconstruct substantial portions of Earth's history without knowing their numerical ages. A geological formation could be recognised as older or younger than another, and changes in fossil assemblages could be placed in an ordered sequence.
 
@@ -76,6 +93,24 @@ Numerical dating also strengthened relationships among different scientific disc
 
 The geological timescale remained dependent upon interpretation, correlation and revision. Its strength lay not in replacing geological reasoning with numbers, but in bringing independent forms of evidence into closer relationship.
 
+<figure>
+  <a href="/images/history/ICS_Chart_2026-06_en.pdf" target="_blank" rel="noopener noreferrer">
+    <img
+      src="/images/history/international-chronostratigraphic-chart-2026-06.jpg"
+      alt="International Chronostratigraphic Chart, version 2026/06, showing geological divisions and their numerical age estimates."
+      loading="lazy"
+      style="display:block;width:100%;max-width:960px;height:auto;margin:0 auto;"
+    />
+  </a>
+  <figcaption>
+    <strong>Figure 2. International Chronostratigraphic Chart (2026/06).</strong>
+    The modern geological timescale relates stratigraphic divisions to numerical age estimates derived from multiple forms of geological evidence. These numerical calibrations remain subject to scientific refinement.
+    Source: International Commission on Stratigraphy, version 2026/06, licensed under
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.
+    Select the chart to view the full-resolution PDF.
+  </figcaption>
+</figure>
+
 ## Radiocarbon Dating and the Recent Past
 
 Radiometric dating also transformed the investigation of much more recent history.
@@ -83,6 +118,20 @@ Radiometric dating also transformed the investigation of much more recent histor
 In the late 1940s, Willard Libby and his colleagues developed radiocarbon dating, which uses the radioactive isotope carbon-14 to estimate the ages of suitable organic materials. Their early investigations established an important new method for archaeological and environmental chronology.
 
 Living organisms exchange carbon with their environments. Following the cessation of this exchange, the amount of radiocarbon in their remains generally diminishes through radioactive decay. Measuring the remaining radiocarbon, with appropriate assumptions and corrections, can therefore provide information about the age of the material.
+
+<figure>
+  <img
+    src="/images/history/radioactive-dating-explained.svg"
+    alt="Idealised radioactive decay diagram showing 100%, 50%, 25% and 12.5% parent isotope remaining after zero, one, two and three half-lives, followed by measurement and interpretation."
+    loading="lazy"
+    style="display:block;width:100%;max-width:960px;height:auto;margin:0 auto;"
+  />
+  <figcaption>
+    <strong>Figure 3. How radioactive dating estimates age.</strong>
+    Radioactive parent isotopes decay at statistically predictable rates. Measurements of suitable isotopic evidence can support estimates of elapsed time under specified assumptions. This idealised illustration does not represent every radiometric method; radiocarbon ages additionally require calibration to calendar time.
+    Original APS explanatory diagram.
+  </figcaption>
+</figure>
 
 Radiocarbon dating became particularly important in archaeology, palaeoecology and studies of recent environmental change. Organic remains could be placed within increasingly well-constrained chronological sequences, allowing investigators to compare evidence from different sites and regions.
 

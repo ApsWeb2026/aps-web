@@ -5497,4 +5497,68 @@ references:
     status: verified
     authority: Google Books / WorldCat / Smithsonian Libraries
     verifiedDate: 2026-10-23
-
+- id: lee-ho-2016-molecular-clocks
+  type: journal-article
+  authors: Lee, M. S. Y., & Ho, S. Y. W.
+  year: 2016
+  title: Molecular Clocks
+  journal: Current Biology
+  volume: '26'
+  issue: '10'
+  pages: R399–R402
+  doi: 10.1016/j.cub.2016.03.071
+  verification:
+    status: verified
+    authority: PubMed / Elsevier
+    verifiedDate: '2026-10-24'
+- id: libby-anderson-arnold-1949-radiocarbon
+  type: journal-article
+  authors: Libby, W. F., Anderson, E. C., & Arnold, J. R.
+  year: 1949
+  title: 'Age Determination by Radiocarbon Content: World-Wide Assay of Natural Radiocarbon'
+  journal: Science
+  volume: '109'
+  issue: '2827'
+  pages: 227–228
+  doi: 10.1126/science.109.2827.227
+  verification:
+    status: verified
+    authority: PubMed / Science / JSTOR
+    verifiedDate: '2026-10-24'
+- id: patterson-1956-age-meteorites-earth
+  type: journal-article
+  authors: Patterson, C. C.
+  year: 1956
+  title: Age of Meteorites and the Earth
+  journal: Geochimica et Cosmochimica Acta
+  volume: '10'
+  issue: '4'
+  pages: 230–237
+  doi: 10.1016/0016-7037(56)90036-9
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: '2026-10-24'
+- id: smith-1815-delineation-strata
+  type: book
+  authors: Smith, W.
+  year: 1815
+  title: 'A Delineation of the Strata of England and Wales, with Part of Scotland'
+  publisher: John Cary
+  verification:
+    status: verified
+    authority: Geological Society of London / American Philosophical Society
+    verifiedDate: '2026-10-24'
+- id: zuckerkandl-pauling-1962-molecular-disease
+  type: book-chapter
+  authors: Zuckerkandl, E., & Pauling, L.
+  year: 1962
+  title: Molecular Disease, Evolution, and Genic Heterogeneity
+  book-title: Horizons in Biochemistry
+  editors: Kasha, M., & Pullman, B.
+  publisher: Academic Press
+  pages: 189–225
+  verification:
+    status: verified
+    authority: Original chapter / Springer Nature / Wiley
+    verifiedDate: '2026-10-24'
