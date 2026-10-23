@@ -5466,3 +5466,24 @@ references:
     status: verified
     authority: Biodiversity Heritage Library original journal part
     verifiedDate: '2026-10-23'
+- id: cuvier-1812-recherches-ossemens-fossiles
+  type: book
+  authors: Cuvier, G.
+  year: 1812
+  title: Recherches sur les ossemens fossiles de quadrupèdes
+  publisher: Deterville
+  verification:
+    status: verified
+    authority: Smithsonian Libraries and Archives / Biodiversity Heritage Library
+    verifiedDate: '2026-10-23'
+- id: lyell-1830-principles-geology
+  type: book
+  authors: Lyell, C.
+  year: 1830
+  title: 'Principles of Geology: Being an Attempt to Explain the Former Changes of the Earth’s Surface, by Reference to Causes Now in Operation'
+  publisher: John Murray
+  verification:
+    status: verified
+    authority: Library of Congress / Biodiversity Heritage Library
+    verifiedDate: '2026-10-23'
+

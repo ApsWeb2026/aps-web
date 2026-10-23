@@ -3,8 +3,9 @@ date: 2026-10-23
 title: How Did Evolution Transform Biological Explanation?
 slug: how-did-evolution-transform-biological-explanation
 type: article
-status: draft
-canonical: false
+status: canonical
+canonical: true
+canonicalLockDate: 2026-10-23
 revised: 2026-10-23
 cluster: philosophy-of-biology
 role: extension
@@ -36,6 +37,8 @@ references:
   - laland-et-al-2014-evolution-rethink
   - laland-et-al-2015-extended-synthesis
   - pigliucci-muller-2010-extended-synthesis
+  - cuvier-1812-recherches-ossemens-fossiles
+  - lyell-1830-principles-geology
 ---
 
 ## Before evolution had a mechanism
@@ -106,6 +109,14 @@ The phrase modern synthesis can make this history sound more uniform than it was
 
 Its significance was nevertheless profound. Questions about evolution could be investigated through mathematics, field observation, genetics, experiments, systematics and fossils. These approaches could challenge as well as reinforce one another. Evolutionary explanation had become more quantitative, more testable in specific settings and more closely integrated across biological disciplines.
 
+## The molecular revolution and the genetic interpretation of life
+
+A further transformation followed the discovery of DNA's double-helical structure in 1953 and the deciphering of the genetic code during the 1960s. Molecular biology connected heredity to identifiable chemical structures and processes. Genetic information could be investigated through DNA replication, RNA transcription and protein synthesis, while mutations could increasingly be examined at the molecular level. The explanatory possibilities were extraordinary: questions previously addressed through breeding experiments, comparative anatomy and population statistics could now also be investigated through the molecular mechanisms of inheritance and development.
+
+These developments stimulated an enormous expansion of molecular genetics, microbiology and biotechnology. Techniques for analysing, modifying and sequencing DNA transformed research on microorganisms, heredity, disease, development and evolutionary relationships. Molecular comparisons supplied new evidence for common ancestry and phylogenetic reconstruction, while genetic engineering opened practical possibilities that earlier evolutionary biologists could scarcely have anticipated.
+
+The success of molecular explanation also encouraged strongly gene-centred interpretations of biological phenomena. Genes became prominent explanatory units in accounts of development, adaptation and evolution, sometimes encouraging the view that higher-level biological processes could ultimately be explained through their molecular constituents. Yet the explanatory power of genetics does not establish the sufficiency of genetic reductionism. Gene expression depends on cellular organisation, developmental conditions and environmental interactions; evolutionary outcomes depend on population processes and historical circumstances. The molecular revolution therefore added an indispensable level of explanation without eliminating the need to investigate biological organisation across levels and scales.
+
 ## What evolutionary explanation changed
 
 The history of evolutionary theory is not a straight line from ignorance to a completed picture. It is a history of changing questions, evidence and explanatory standards. Earlier naturalists asked how to classify the forms of life and how to interpret extinction. Nineteenth-century evolutionists asked whether species had changed and by what processes. Darwin and Wallace provided a mechanism that made inherited variation and differential reproduction central to historical explanation. Later geneticists and field biologists connected those processes to measurable changes in populations and to the formation of species.
@@ -128,6 +139,3 @@ The Agency–Process–Scale (APS) framework enters this discussion from a diffe
 
 The continuing discussion illustrates the central historical lesson of this essay: evolutionary explanation is not a finished inventory of causes. It is a developing practice of bringing evidence, mechanisms and models into accountable relation. The APS article “APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison” examines the contemporary comparison in greater detail.
 
-## Illustration provenance and publication gate
-
-The three figures have been assigned local image paths and provisional captions for draft review. Before publication, confirm the exact filenames and render of all three local assets; retain repository/source-page records for the historical plates, and check the full-resolution Darwin scan for cropping and legibility. Figure 3 is an original modern editorial diagram, not a historical artefact. Primary quotations, dates and individual historical claims require source checking where appropriate. This draft has not yet passed the final publication gate.

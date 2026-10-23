@@ -3,8 +3,9 @@ date: 2026-10-22
 title: How Did the Cell Become the Unit of Life?
 slug: how-did-the-cell-become-the-unit-of-life
 type: article
-status: draft
-canonical: false
+status: canonical
+canonical: true
+canonicalLockDate: 2026-10-23
 revised: 2026-10-23
 cluster: philosophy-of-biology
 role: extension
