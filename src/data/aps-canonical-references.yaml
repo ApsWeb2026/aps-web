@@ -5562,3 +5562,40 @@ references:
     status: verified
     authority: Original chapter / Springer Nature / Wiley
     verifiedDate: '2026-10-24'
+- id: walker-2005-quaternary-dating-methods
+  type: book
+  authors: Walker, M.
+  year: 2005
+  title: 'Quaternary Dating Methods'
+  publisher: John Wiley & Sons
+  isbn: '9780470869260'
+  verification:
+    status: verified
+    authority: Wiley / Aberystwyth University
+    verifiedDate: 2026-10-24
+- id: munyikwa-2018-dating-archaeology
+  type: book-chapter
+  authors: Munyikwa, K.
+  year: 2018
+  title: 'Dating in Archaeology'
+  book-title: 'The Encyclopedia of Archaeological Sciences'
+  editors: López Varela, S. L.
+  publisher: Wiley
+  doi: 10.1002/9781119188230.saseas0154
+  verification:
+    status: verified
+    authority: Wiley Online Library
+    verifiedDate: 2026-10-24
+- id: blaauw-2012-out-of-tune
+  type: journal-article
+  authors: Blaauw, M.
+  year: 2012
+  title: 'Out of Tune: The Dangers of Aligning Proxy Archives'
+  journal: Quaternary Science Reviews
+  volume: '36'
+  pages: 38–49
+  doi: 10.1016/j.quascirev.2010.11.012
+  verification:
+    status: verified
+    authority: Elsevier / ScienceDirect
+    verifiedDate: 2026-10-24
