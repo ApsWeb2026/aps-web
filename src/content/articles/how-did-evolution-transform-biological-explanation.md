@@ -44,7 +44,7 @@ In the early nineteenth century, a naturalist looking at a collection of shells,
 
 This was not a simple contest between people who believed in change and people who did not. Naturalists disagreed about what species were, how fossils should be interpreted, and what counted as an acceptable cause. The question was not merely whether the living world had a history. It was how such a history could be reconstructed from present-day evidence.
 
-![Cuvier’s engraved comparative-anatomical plate of hippopotamus skeletal structures, 1812](/images/history/cuvier-1812-fossil-hippopotamus-vol2-memoir6-plate1.webp)
+![Cuvier’s engraved comparative-anatomical plate of hippopotamus skeletal structures, 1812](/images/history/cuvier-1812-fossil-hippopotamus-vol2-memoir6-plate1.jpg)
 
 *Figure 1. Comparative anatomy in early nineteenth-century natural history. Hippopotamus skeletal anatomy and individual bone structures illustrated in Georges Cuvier's Recherches sur les ossemens fossiles de quadrupèdes (1812), vol. II, Memoir VI, Plate I. Engraved by Couet. Cuvier's comparative-anatomical investigations helped establish the importance of fossil evidence in reconstructing the history of life. Source: Smithsonian Libraries and Archives / Biodiversity Heritage Library. Public domain.*
 
