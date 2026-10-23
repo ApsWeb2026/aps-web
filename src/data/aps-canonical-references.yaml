@@ -5285,7 +5285,6 @@ references:
     status: verified
     authority: Library of Congress / Royal Society / Biodiversity Heritage Library
     verifiedDate: 2026-10-23
-
 - id: goss-1937-historical-background-schwanns-cell-theory
   type: journal-article
   authors: Goss, C. M.
@@ -5320,6 +5319,150 @@ references:
   verification:
     status: verified
     authority: Stanford Encyclopedia of Philosophy
-    verifiedDate: 2026-10-23
-
-
+    verifiedDate: '2026-10-23'
+- id: fisher-1930-genetical-theory
+  type: book
+  authors: Fisher, R. A.
+  year: 1930
+  title: The Genetical Theory of Natural Selection
+  publisher: Clarendon Press
+  verification:
+    status: verified
+    authority: 1930 title page / FAO AGRIS National Agricultural Library
+    verifiedDate: '2026-10-23'
+- id: haldane-1932-causes-evolution
+  type: book
+  authors: Haldane, J. B. S.
+  year: 1932
+  title: The Causes of Evolution
+  publisher: Longmans, Green & Co.
+  verification:
+    status: verified
+    authority: Contemporary Nature review / Haldane bibliography
+    verifiedDate: '2026-10-23'
+- id: wright-1931-evolution-mendelian-populations
+  type: journal-article
+  authors: Wright, S.
+  year: 1931
+  title: Evolution in Mendelian Populations
+  journal: Genetics
+  volume: '16'
+  issue: '2'
+  pages: 97–159
+  doi: 10.1093/genetics/16.2.97
+  verification:
+    status: verified
+    authority: Genetics original via PubMed Central
+    verifiedDate: '2026-10-23'
+- id: dobzhansky-1937-genetics-origin-species
+  type: book
+  authors: Dobzhansky, T.
+  year: 1937
+  title: Genetics and the Origin of Species
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: Wellcome Collection original-edition catalogue
+    verifiedDate: '2026-10-23'
+- id: mayr-1942-systematics-origin-species
+  type: book
+  authors: Mayr, E.
+  year: 1942
+  title: Systematics and the Origin of Species from the Viewpoint of a Zoologist
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: Wellcome Collection original-edition catalogue
+    verifiedDate: '2026-10-23'
+- id: huxley-1942-evolution-modern-synthesis
+  type: book
+  authors: Huxley, J.
+  year: 1942
+  title: 'Evolution: The Modern Synthesis'
+  publisher: George Allen & Unwin
+  verification:
+    status: verified
+    authority: Wellcome Collection original-edition catalogue
+    verifiedDate: '2026-10-23'
+- id: simpson-1944-tempo-mode-evolution
+  type: book
+  authors: Simpson, G. G.
+  year: 1944
+  title: Tempo and Mode in Evolution
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: Columbia University Press / National Academies historical bibliography
+    verifiedDate: '2026-10-23'
+- id: stebbins-1950-variation-evolution-plants
+  type: book
+  authors: Stebbins, G. L.
+  year: 1950
+  title: Variation and Evolution in Plants
+  publisher: Columbia University Press
+  verification:
+    status: verified
+    authority: National Agricultural Library AGRIS / De Gruyter original edition
+    verifiedDate: '2026-10-23'
+- id: bowler-2009-evolution-history-idea
+  type: book
+  authors: Bowler, P. J.
+  year: 2009
+  title: 'Evolution: The History of an Idea'
+  publisher: University of California Press
+  edition: 25th Anniversary Edition
+  verification:
+    status: verified
+    authority: University of California Press 2009 edition catalogue
+    verifiedDate: '2026-10-23'
+- id: laland-et-al-2014-evolution-rethink
+  type: journal-article
+  authors: Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., Odling-Smee, J., Wray, G.
+    A., Hoekstra, H. E., Futuyma, D. J., Lenski, R. E., Mackay, T. F. C., Schluter, D., & Strassmann, J. E.
+  year: 2014
+  title: Does Evolutionary Theory Need a Rethink?
+  journal: Nature
+  volume: '514'
+  issue: '7521'
+  pages: 161–164
+  doi: 10.1038/514161a
+  verification:
+    status: verified
+    authority: Nature publisher / PubMed
+    verifiedDate: '2026-10-23'
+- id: lamarck-1809-philosophie-zoologique
+  type: book
+  authors: Lamarck, J.-B.
+  year: 1809
+  title: Philosophie zoologique
+  publisher: Dentu et l’Auteur
+  verification:
+    status: verified
+    authority: Wellcome Collection, first-edition catalogue
+    verifiedDate: '2026-10-23'
+- id: darwin-wallace-1858-tendency-species
+  type: journal-article
+  authors: Darwin, C., & Wallace, A. R.
+  year: 1858
+  title: On the Tendency of Species to Form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection
+  journal: Journal of the Proceedings of the Linnean Society of London. Zoology
+  volume: '3'
+  issue: '9'
+  pages: 45–62
+  doi: 10.1111/j.1096-3642.1858.tb02500.x
+  verification:
+    status: verified
+    authority: Wiley / Biodiversity Heritage Library
+    verifiedDate: '2026-10-23'
+- id: mendel-1866-pflanzen-hybriden
+  type: journal-article
+  authors: Mendel, G.
+  year: 1866
+  title: Versuche über Pflanzen-Hybriden
+  journal: Verhandlungen des naturforschenden Vereines in Brünn
+  volume: '4'
+  pages: 3–47
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library original journal part
+    verifiedDate: '2026-10-23'
