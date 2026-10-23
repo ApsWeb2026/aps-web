@@ -128,40 +128,6 @@ The Agency–Process–Scale (APS) framework enters this discussion from a diffe
 
 The continuing discussion illustrates the central historical lesson of this essay: evolutionary explanation is not a finished inventory of causes. It is a developing practice of bringing evidence, mechanisms and models into accountable relation. The APS article “APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison” examines the contemporary comparison in greater detail.
 
-## Selected historical sources and further reading
-
-- Lamarck, J.-B. (1809). Philosophie zoologique. Dentu. Digitised original: Wellcome Collection, https://wellcomecollection.org/works/kh4hg6br.
-
-- Darwin, C. & Wallace, A. R. (1858). On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural means of selection. Journal of the Proceedings of the Linnean Society of London. Zoology, 3, 45–62. Primary text: https://darwin-online.org.uk/converted/published/1858_species_F350.html.
-
-- Darwin, C. (1859). On the Origin of Species by Means of Natural Selection. John Murray. First-edition digitisation: https://www.biodiversitylibrary.org/page/42663233.
-
-- Mendel, G. (1866). Versuche über Pflanzen-Hybriden. Verhandlungen des naturforschenden Vereines in Brünn, 4 (1865), 3–47.
-
-- Fisher, R. A. (1930). The Genetical Theory of Natural Selection. Clarendon Press.
-
-- Haldane, J. B. S. (1932). The Causes of Evolution. Longmans, Green.
-
-- Wright, S. (1931). Evolution in Mendelian populations. Genetics, 16, 97–159.
-
-- Dobzhansky, T. (1937). Genetics and the Origin of Species. Columbia University Press.
-
-- Mayr, E. (1942). Systematics and the Origin of Species. Columbia University Press.
-
-- Huxley, J. (1942). Evolution: The Modern Synthesis. Allen & Unwin.
-
-- Simpson, G. G. (1944). Tempo and Mode in Evolution. Columbia University Press.
-
-- Stebbins, G. L. (1950). Variation and Evolution in Plants. Columbia University Press.
-
-- Mayr, E. (1982). The Growth of Biological Thought. Harvard University Press. (Secondary historical synthesis; not a substitute for primary sources.)
-
-- Bowler, P. J. (2009). Evolution: The History of an Idea (3rd ed.). University of California Press. (Historical comparator.)
-
-- Laland, K. N., et al. (2014). Does evolutionary theory need a rethink? Nature, 514, 161–164. https://doi.org/10.1038/514161a. [VERIFY APS-REF ID]
-
-- APS Framework (2026). APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison. https://apsframework.org/articles/aps-and-the-extended-evolutionary-synthesis/. [INTERNAL ARTICLE LINK; do not invent APS-REF ID]
-
 ## Illustration provenance and publication gate
 
 The three figures have been assigned local image paths and provisional captions for draft review. Before publication, confirm the exact filenames and render of all three local assets; retain repository/source-page records for the historical plates, and check the full-resolution Darwin scan for cropping and legibility. Figure 3 is an original modern editorial diagram, not a historical artefact. Primary quotations, dates and individual historical claims require source checking where appropriate. This draft has not yet passed the final publication gate.
