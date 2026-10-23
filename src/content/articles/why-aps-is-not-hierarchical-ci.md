@@ -13,8 +13,7 @@ canonical: true
 
 canonicalLockDate: 2026-04-09
 
-revised: 2026-09-09
-
+revised: 2026-10-23
 cluster: conceptual-foundations
 
 role: clarification
@@ -146,6 +145,8 @@ APS therefore distinguishes hierarchical representation from material biological
 
 Scientific investigation necessarily simplifies biological complexity. Researchers partition systems into components, mechanisms, domains, and scales in order to describe, investigate, model, and communicate particular phenomena. Hierarchical representations can be especially useful because they provide manageable ways of organising such distinctions.
 
+Human thought, language and action necessarily involve selection and prioritisation. We distinguish what is relevant from what can be set aside, organising experience according to the purposes of inquiry and action. These priorities are indispensable, but their repeated use can encourage us to mistake familiar ways of ordering experience for properties intrinsic to the world. The necessity of prioritisation in human understanding does not establish a corresponding priority in the organisation of nature. Scientific inquiry must discover such priorities, not presume them.
+
 The epistemic use of levels must nevertheless be distinguished from the empirical question of what those levels track. Some level descriptions function primarily as conveniences of investigation. Others correspond to materially important structures, boundaries, containment relations, or compositional organisation. A description may combine both functions.
 
 APS therefore does not treat levels simply as fictions or arbitrary constructions. The relevant question is what explanatory work a particular level description performs and which features of biological organisation it successfully represents.
@@ -166,7 +167,7 @@ The third is **causation between levels**. Expressions such as *top-down* and *b
 
 The fourth is **universal explanatory ordering**. A biological phenomenon need not possess one predetermined level at which its correct explanation resides. Some explananda can be adequately addressed within relatively bounded domains. Others require relations extending beyond an initially selected boundary. Which is appropriate must be established for the target.
 
-APS therefore rejects the automatic reification of hierarchical representation into causal or explanatory ontology. It does not infer from this that all biological phenomena require wide-ranging explanations or that hierarchy should be replaced by interacting scales. It asks instead what material organisation explains the phenomenon and how far across space and time that explanation must extend.
+APS therefore rejects the automatic conversion of priorities established for investigation into presumed priorities within biological reality. A distinction that is useful for explanation does not thereby establish an intrinsic hierarchy of causes, processes or forms of organisation. Nor does rejecting such a hierarchy imply that every biological phenomenon requires a wide-ranging explanation or that hierarchy should be replaced by interacting scales. APS asks instead what material organisation explains the phenomenon and how far across space and time that explanation must extend.
 
 The ontological significance of treating Agency, Process, and Scale as analytic projections rather than components of reality is developed in [How Does Scientific Explanation Reach Reality?](/articles/how-does-scientific-explanation-reach-reality/).
 

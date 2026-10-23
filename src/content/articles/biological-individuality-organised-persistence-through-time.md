@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-20
+revised: 2026-10-23
 cluster: conceptual-foundations
 role: core
 
@@ -63,6 +63,7 @@ relatedArticles:
   - development-as-organised-persistence
   - ecology-as-organised-persistence-across-scales
   - explanatory-geometry-of-biology
+  - development-and-biological-individuality
 
 references:
   - id: nicholson-dupre-2018

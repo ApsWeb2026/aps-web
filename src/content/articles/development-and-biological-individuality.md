@@ -15,8 +15,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-06-15
-
+revised: 2026-10-23
 cluster: developmental-organisation
 role: core
 
@@ -32,13 +31,13 @@ relatedGlossaryTerms:
 
 relatedArticles:
   - development-as-organised-persistence
-  - development-as-organised-persistence
   - developmental-plasticity
   - developmental-resilience
   - developmental-regulation
   - ecological-organisation
   - evolution
   - meaning-in-biology-an-aps-clarification
+  - biological-individuality-organised-persistence-through-time
 
 references:
   - id: oyama1985
@@ -84,6 +83,10 @@ references:
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 ---
+
+**Where This Article Fits**
+
+*This article develops the developmental implications of the APS account presented in *Biological Individuality — Organised Persistence Through Time*. *The foundational article examines individuality as viability-oriented organisational continuity; the present article asks how that continuity is sustained through developmental, ecological, and symbiotic relationships. Its focus is therefore not a new definition of biological individuality, but the distinction between the organisational coherence of living individuals and the wider relationships on which their development and persistence may depend.*
 
 Biological organisms are often described as self-contained individuals separated clearly from their environments. Within APS, however, developmental organisation complicates this picture substantially.
 
@@ -162,6 +165,8 @@ APS therefore treats symbiotic relations not merely as external associations bet
 This does not imply that organisms lose their individuality. Rather, it demonstrates that individuality is developmentally relational rather than absolutely isolated.
 
 Organisms remain coherent systems of organised persistence, but that persistence may depend upon coordinated biological relations extending across multiple interacting systems.
+
+Developmental dependence does not, by itself, establish that two interacting systems constitute a single biological individual. A host may depend upon microbial partners, ecological conditions, or developmental scaffolding without every contributing system becoming part of the same organisational unity. The relevant question is whether the relationship participates constitutively in maintaining a distinguishable organisation of viability-oriented persistence. APS therefore distinguishes the conditions supporting an individual's development from the organisation constituting that individual. The boundary between these relations must be established by biological evidence rather than assumed from interaction or dependence alone.
 
 ## Developmental Scaffolding and Distributed Viability
 
