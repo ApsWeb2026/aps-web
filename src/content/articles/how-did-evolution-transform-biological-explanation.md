@@ -44,7 +44,9 @@ In the early nineteenth century, a naturalist looking at a collection of shells,
 
 This was not a simple contest between people who believed in change and people who did not. Naturalists disagreed about what species were, how fossils should be interpreted, and what counted as an acceptable cause. The question was not merely whether the living world had a history. It was how such a history could be reconstructed from present-day evidence.
 
-> [FIGURE 1 — Proposed historical illustration: authenticated fossil or comparative-anatomy plate associated with early nineteenth-century natural history. Exact edition, image file, repository, rights and caption to be selected during illustration review.]
+![Cuvier’s engraved comparative-anatomical plate of hippopotamus skeletal structures, 1812](/images/history/cuvier-1812-fossil-hippopotamus-vol2-memoir6-plate1.webp)
+
+*Figure 1. Comparative anatomy in early nineteenth-century natural history. Hippopotamus skeletal anatomy and individual bone structures illustrated in Georges Cuvier's Recherches sur les ossemens fossiles de quadrupèdes (1812), vol. II, Memoir VI, Plate I. Engraved by Couet. Cuvier's comparative-anatomical investigations helped establish the importance of fossil evidence in reconstructing the history of life. Source: Smithsonian Libraries and Archives / Biodiversity Heritage Library. Public domain.*
 
 ## Competing accounts of change
 
@@ -72,7 +74,9 @@ Darwin's On the Origin of Species appeared in 1859. Its force lay not in one dra
 
 The familiar branching image of descent is important here. A tree does not merely arrange organisms by resemblance; it proposes that their similarities and differences have a history. Classification could thus become evidence relevant to common ancestry, while geographical and fossil evidence could test historical relationships. The value of the explanation depended on whether a single historical account illuminated observations that had previously seemed disconnected.
 
-> [FIGURE 2 — Proposed historical illustration: Darwin's branching diagram in the first edition of On the Origin of Species (1859), or a clearly identified notebook sketch. Verify the exact version and distinguish the two images; record repository and digital reproduction rights.]
+![Darwin’s 1859 branching diagram showing divergence of lineages](/images/history/darwin-1859-origin-of-species-branching-diagram.png)
+
+*Figure 2. Darwin's diagram of divergence and common descent (1859). The folding diagram published in the first edition of On the Origin of Species illustrates how ancestral forms may give rise to diverging lineages over successive generations. Diagram by Charles Darwin; lithographed by William West. Source: Darwin (1859), folding plate facing p. 117. Public domain.*
 
 The theory did not settle everything. Darwin lacked an adequate account of the physical basis of heredity. The mechanisms of variation remained uncertain. Fossil sequences were incomplete, and the timing and rate of evolutionary change were contested. Some scientists accepted common descent without accepting natural selection as its main cause. The historical importance of the Origin should not be confused with immediate consensus on every part of its argument.
 
@@ -92,7 +96,9 @@ During the 1920s and 1930s, Ronald Fisher, J. B. S. Haldane and Sewall Wright de
 
 Theodosius Dobzhansky's Genetics and the Origin of Species (1937) helped connect genetic theory with variation in natural populations and the emergence of species. Ernst Mayr's Systematics and the Origin of Species (1942) placed classification, geographical variation and speciation into the conversation. Julian Huxley's Evolution: The Modern Synthesis (1942) gave an influential name to the broader movement. George Gaylord Simpson and G. Ledyard Stebbins brought palaeontological and botanical perspectives into an expanding synthesis.
 
-> [FIGURE 3 — Proposed modern explanatory diagram: a clearly labelled editorial timeline linking population genetics, natural populations, systematics, palaeontology and botany, c. 1920–1950. Original diagram, not a historical artefact; include sources for each dated milestone.]
+![Selected milestones in the Modern Evolutionary Synthesis, 1930–1950](/images/history/modern-evolutionary-synthesis-timeline-1930-1950.png)
+
+*Figure 3. Selected milestones in the development of the Modern Evolutionary Synthesis, 1930–1950. Contributions to population genetics, natural-population research, systematics, palaeontology and botany helped connect previously distinct approaches to evolutionary explanation. The dates identify influential publications rather than the beginnings or completion of research programmes. These developments overlapped and involved continuing scientific disagreements. Original editorial diagram prepared for the APS Framework.*
 
 The new quantitative framework also made its own limitations visible. A model might predict changes in gene frequencies under specified assumptions, but an explanation of an actual species or fossil lineage needed evidence about the organisms, environments and historical conditions involved. Population genetics provided tools for investigating evolutionary processes, not a substitute for observing nature. This distinction remains important whenever a mathematical possibility is mistaken for a demonstrated historical cause.
 
@@ -125,22 +131,37 @@ The continuing discussion illustrates the central historical lesson of this essa
 ## Selected historical sources and further reading
 
 - Lamarck, J.-B. (1809). Philosophie zoologique. Dentu. Digitised original: Wellcome Collection, https://wellcomecollection.org/works/kh4hg6br.
+
 - Darwin, C. & Wallace, A. R. (1858). On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural means of selection. Journal of the Proceedings of the Linnean Society of London. Zoology, 3, 45–62. Primary text: https://darwin-online.org.uk/converted/published/1858_species_F350.html.
+
 - Darwin, C. (1859). On the Origin of Species by Means of Natural Selection. John Murray. First-edition digitisation: https://www.biodiversitylibrary.org/page/42663233.
+
 - Mendel, G. (1866). Versuche über Pflanzen-Hybriden. Verhandlungen des naturforschenden Vereines in Brünn, 4 (1865), 3–47.
+
 - Fisher, R. A. (1930). The Genetical Theory of Natural Selection. Clarendon Press.
+
 - Haldane, J. B. S. (1932). The Causes of Evolution. Longmans, Green.
+
 - Wright, S. (1931). Evolution in Mendelian populations. Genetics, 16, 97–159.
+
 - Dobzhansky, T. (1937). Genetics and the Origin of Species. Columbia University Press.
+
 - Mayr, E. (1942). Systematics and the Origin of Species. Columbia University Press.
+
 - Huxley, J. (1942). Evolution: The Modern Synthesis. Allen & Unwin.
+
 - Simpson, G. G. (1944). Tempo and Mode in Evolution. Columbia University Press.
+
 - Stebbins, G. L. (1950). Variation and Evolution in Plants. Columbia University Press.
+
 - Mayr, E. (1982). The Growth of Biological Thought. Harvard University Press. (Secondary historical synthesis; not a substitute for primary sources.)
+
 - Bowler, P. J. (2009). Evolution: The History of an Idea (3rd ed.). University of California Press. (Historical comparator.)
+
 - Laland, K. N., et al. (2014). Does evolutionary theory need a rethink? Nature, 514, 161–164. https://doi.org/10.1038/514161a. [VERIFY APS-REF ID]
+
 - APS Framework (2026). APS and the Extended Evolutionary Synthesis — Organisation, Evolution, and Explanatory Comparison. https://apsframework.org/articles/aps-and-the-extended-evolutionary-synthesis/. [INTERNAL ARTICLE LINK; do not invent APS-REF ID]
 
 ## Illustration provenance and publication gate
 
-All three figures are placement proposals only. Do not embed a historical image until the exact asset, original creator/date, source record, digital-image rights, credit, crop and local filename are authenticated. Figure 3 must be explicitly labelled a modern editorial diagram. Primary quotations, dates and individual historical claims require page
+The three figures have been assigned local image paths and provisional captions for draft review. Before publication, confirm the exact filenames and render of all three local assets; retain repository/source-page records for the historical plates, and check the full-resolution Darwin scan for cropping and legibility. Figure 3 is an original modern editorial diagram, not a historical artefact. Primary quotations, dates and individual historical claims require source checking where appropriate. This draft has not yet passed the final publication gate.
