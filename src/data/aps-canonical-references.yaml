@@ -5486,4 +5486,15 @@ references:
     status: verified
     authority: Library of Congress / Biodiversity Heritage Library
     verifiedDate: '2026-10-23'
+- id: dalrymple-1991-age-of-the-earth
+  type: book
+  authors: Dalrymple, G. B.
+  year: 1991
+  title: The Age of the Earth
+  publisher: Stanford University Press
+  isbn: '9780804715690'
+  verification:
+    status: verified
+    authority: Google Books / WorldCat / Smithsonian Libraries
+    verifiedDate: 2026-10-23
 
