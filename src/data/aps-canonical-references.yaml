@@ -5599,3 +5599,56 @@ references:
     status: verified
     authority: Elsevier / ScienceDirect
     verifiedDate: 2026-10-24
+- id: cleland-chyba-2002-defining-life
+  type: journal-article
+  authors: Cleland, C. E., & Chyba, C. F.
+  year: 2002
+  title: Defining 'Life'
+  journal: Origins of Life and Evolution of the Biosphere
+  volume: '32'
+  issue: '4'
+  pages: 387–393
+  doi: 10.1023/A:1020503324273
+  verification:
+    status: verified
+    authority: Springer Nature / PubMed
+    verifiedDate: 2026-10-25
+- id: cleland-2019-universal-theory-life
+  type: book
+  authors: Cleland, C. E.
+  year: 2019
+  title: 'The Quest for a Universal Theory of Life: Searching for Life As We Don''t Know It'
+  publisher: Cambridge University Press
+  doi: 10.1017/9781139046893
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-25
+- id: gomez-marquez-2021-what-is-life
+  type: journal-article
+  authors: Gómez-Márquez, J.
+  year: 2021
+  title: What Is Life?
+  journal: Molecular Biology Reports
+  volume: '48'
+  issue: '8'
+  pages: 6223–6230
+  doi: 10.1007/s11033-021-06594-5
+  verification:
+    status: verified
+    authority: Springer Nature / PubMed
+    verifiedDate: 2026-10-25
+- id: valencia-narbona-nunez-nieto-cofre-mardones-2026-what-is-life
+  type: journal-article
+  authors: Valencia-Narbona, M., Núñez Nieto, P., & Cofré Mardones, H.
+  year: 2026
+  title: 'What Is Life? Definitions, Controversies, Ontological Perspectives, and Implications for Biology Education'
+  journal: BioScience
+  volume: '76'
+  issue: '8'
+  pages: 704–713
+  doi: 10.1093/biosci/biag059
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-10-25
