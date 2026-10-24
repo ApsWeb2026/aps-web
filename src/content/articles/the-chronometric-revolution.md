@@ -7,7 +7,7 @@ status: canonical
 canonical: true
 canonicalLockDate: 2026-10-24
 revised: 2026-10-24
-cluster: philosophy-of-biology
+cluster: history-of-ideas
 role: extension
 abstract: |
   The Chronometric Revolution transformed natural history by making the timing and duration of geological and biological events increasingly accessible to scientific measurement. This article traces the development of geological chronology, radiometric dating, radiocarbon methods and molecular clocks, explaining how they changed the reconstruction of life's history. It distinguishes chronological measurement from historical reconstruction and causal explanation, and considers the significance of temporal scale for the Agency–Process–Scale (APS) framework. APS is presented as a qualified interpretive perspective, not as the origin of chronometric methods or a demonstrated improvement upon established biological explanations.

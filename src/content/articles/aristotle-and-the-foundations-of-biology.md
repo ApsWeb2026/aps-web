@@ -5,7 +5,7 @@ slug: "aristotle-and-the-foundations-of-biology"
 type: article
 abstract: "This article examines Aristotle’s foundational role in biological thought and shows how key themes in his work continue to shape questions about biological organisation, function, and the nature of living systems."
 status: "canonical"
-cluster: "philosophy-of-biology"
+cluster: "history-of-ideas"
 role: core
 revised: "2026-04-03"
 ---

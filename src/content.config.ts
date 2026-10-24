@@ -26,6 +26,7 @@ const clusterEnum = z.enum([
   'social-organisation',
   'diagnostics-and-empirical-tractability',
   'philosophy-of-biology',
+  'history-of-ideas',
   'methodology-and-explanation',
   'artificial-systems-and-boundaries',
 ]);

@@ -6,8 +6,8 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-23
-revised: 2026-10-23
-cluster: philosophy-of-biology
+revised: 2026-10-24
+cluster: history-of-ideas
 role: extension
 abstract: |
   How did microscopic observations become the foundation of cell theory? This historical account follows the discoveries, controversies and scientific revisions that established cells as central units of biological investigation, and examines the continuing debate over whether the cell is the fundamental unit of life.

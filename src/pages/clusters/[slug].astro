@@ -472,7 +472,69 @@ boundary:
     'Diagnostic concepts often depend on foundational ideas such as viability, organisation, persistence, and continuity. They are placed here when the main issue is how those forms of organisation are recognised, evidenced, perturbed, or operationally assessed.',
 },
 
-  {
+{
+  slug: 'history-of-ideas',
+  title: 'History of Ideas',
+
+  description:
+    'The historical development of biological concepts, evidence, methods, and forms of explanation.',
+
+  overview:
+    'Biology has developed through successive changes in how living systems are observed, investigated, classified, and explained. New instruments, experimental methods, and conceptual frameworks have repeatedly transformed what scientists can establish about life. These historical studies trace the emergence of biological concepts and the evidence that supported them. They also provide context for the Agency–Process–Scale (APS) framework without suggesting that earlier discoveries necessarily anticipated APS or that their historical significance depends upon it.',
+
+  startHere: [
+    {
+      title: 'Aristotle and the Foundations of Biology',
+      href: '/articles/aristotle-and-the-foundations-of-biology/',
+    },
+    {
+      title: 'Explanatory Grammars and the History of Ideas',
+      href: '/articles/explanatory-grammars-and-the-history-of-ideas/',
+    },
+    {
+      title: 'How Did the Cell Become the Unit of Life?',
+      href: '/articles/how-did-the-cell-become-the-unit-of-life/',
+    },
+    {
+      title: 'The Chronometric Revolution — Time, Scale and Biological Explanation',
+      href: '/articles/the-chronometric-revolution/',
+    },
+  ],
+
+  keyQuestions: [
+    'How have ideas about living systems changed through history?',
+    'How have instruments and evidence transformed biological explanation?',
+    'How have concepts of biological organisation, cells, and time developed?',
+    'How do historical explanations differ from contemporary APS interpretation?',
+  ],
+
+  architecture: `
+    <section class="domain-architecture-panel">
+      <h2>How This Topic Is Organised</h2>
+
+      <p>The History of Ideas topic examines major developments in biological understanding, from early philosophical investigations to the emergence of modern scientific methods and concepts. The articles are historical investigations in their own right. Their connections with APS are interpretive rather than claims of historical priority or demonstrated explanatory superiority.</p>
+
+      <h3>Early Biological Thought</h3>
+      <p>Aristotle and the Foundations of Biology examines early systematic investigations of living organisms, biological organisation, function, and explanation.</p>
+
+      <h3>Changing Explanatory Frameworks</h3>
+      <p>Explanatory Grammars and the History of Ideas examines how assumptions about causation, organisation, and intelligibility have changed across intellectual traditions.</p>
+
+      <h3>The Emergence of Cell Theory</h3>
+      <p>How Did the Cell Become the Unit of Life? traces the discoveries, instruments, debates, and revisions through which cells became central to biological investigation.</p>
+
+      <h3>Measuring Biological History</h3>
+      <p>The Chronometric Revolution examines how geological dating, radiometric methods, and molecular clocks transformed the reconstruction of life's history.</p>
+
+      <h3>Suggested Reading Pathway</h3>
+      <p>Begin with Aristotle and the Foundations of Biology, followed by Explanatory Grammars and the History of Ideas. Then explore the history of cell theory and the development of scientific chronometry. These studies illustrate different ways in which biological understanding has changed through new observations, methods, and explanatory concepts.</p>
+    </section>
+  `,
+
+  boundary:
+    'Articles belong here when their primary purpose is to examine the historical development of biological ideas, methods, evidence, or explanation. Contemporary philosophical analysis and the systematic exposition of APS concepts remain within their respective topics.',
+},
+    {
     slug: 'philosophy-of-biology',
     title: 'Philosophy of Biology',
     description:
@@ -513,7 +575,7 @@ boundary:
         <p><a href="/articles/why-philosophy-of-biology-matters/">Why Philosophy of Biology Matters</a> introduces the role of philosophy in understanding biology and APS.</p>
 
         <h3>Historical Development</h3>
-        <p><a href="/articles/aristotle-and-the-foundations-of-biology/">Aristotle and the Foundations of Biology</a> begins the historical route through changing accounts of life.</p>
+        <p><a href="/clusters/history-of-ideas/">History of Ideas</a> provides the dedicated historical reading pathway, from Aristotle through changing explanatory approaches, cell theory and scientific chronometry.</p>
 
         <h3>Reductionism and Organisation</h3>
         <p><a href="/articles/from-metaphysics-to-mechanism-and-beyond/">From Metaphysics to Mechanism—and Beyond</a> explores the relationship between mechanism and biological organisation.</p>
@@ -679,6 +741,7 @@ export function getStaticPaths() {
     { params: { slug: 'diagnostics-and-empirical-tractability' } },
     { params: { slug: 'methodology-and-explanation' } },
     { params: { slug: 'philosophy-of-biology' } },
+    { params: { slug: 'history-of-ideas' } },
     { params: { slug: 'artificial-systems-and-boundaries' } },
   ];
 }
