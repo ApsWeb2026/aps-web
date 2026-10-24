@@ -69,13 +69,13 @@ references:
   - zimmer-2021-lifes-edge
 ---
 
-> **Where this article fits:** The question *What is life?* occupies a foundational place within APS because it identifies the biological organisation that the framework takes as its principal object of investigation. Several APS articles approach this organisation from different explanatory perspectives.
+**Where this article fits:** *The question *What is life?* *occupies a foundational place within APS because it identifies the biological organisation that the framework takes as its principal object of investigation. Several APS articles approach this organisation from different explanatory perspectives.*
 >
-> **Agency as the Defining Activity of Life** examines the viability-oriented organisational activity through which living organisation is enacted and sustained. **Persistence — Organised Continuity Through Time** examines the problem of maintaining continuity despite continual change. **The Continuity Architecture of Life** explores forms through which biological continuity is organised across different spatial and temporal extents.
+ **Agency as the Defining Activity of Life** *examines the viability-oriented organisational activity through which living organisation is enacted and sustained. **Persistence — Organised Continuity Through Time** examines the problem of maintaining continuity despite continual change. **The Continuity Architecture of Life** explores forms through which biological continuity is organised across different spatial and temporal extents.*
 >
-> This article has a different role. It addresses the APS account of Life itself: what kind of organisation APS proposes as characteristic of living systems and how that proposal relates to other approaches to the biological question. It therefore serves as one of the principal conceptual entry points into the framework.
+*This article has a different role. It addresses the APS account of Life itself: what kind of organisation APS proposes as characteristic of living systems and how that proposal relates to other approaches to the biological question. It therefore serves as one of the principal conceptual entry points into the framework.*
 
-Together, these articles form an explanatory sequence:
+*Together, these articles form an explanatory sequence:*
 
 - **What Is Life? — A Biological Question Revisited** — What organisational account of Life does APS propose?
 
@@ -410,11 +410,11 @@ This article connects directly to questions including:
 
 Within APS, Life identifies the organisation whose activity, continuity, and spatial-temporal organisation the framework investigates.
 
-Agency asks what living systems do: viability-oriented organisational activity.
+- Agency asks what living systems do: viability-oriented organisational activity.
 
-Process asks how continuity is maintained despite change.
+- Process asks how continuity is maintained despite change.
 
-Scale asks where persistence is organised across spatial and temporal extents.
+- Scale asks where persistence is organised across spatial and temporal extents.
 
 Agency, Process, and Scale are therefore complementary analytic projections of one viability-oriented, constraint-closed organisation rather than components of reality, independent causes, or hierarchical levels.
 
