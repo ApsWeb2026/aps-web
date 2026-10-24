@@ -60,7 +60,7 @@ references:
 >
 > This article examines biological organisation as a central explanatory concern within APS. It places the framework's account of viability-oriented, constraint-closed organisation alongside established research on biological autonomy, organisational closure, regulation, and mechanistic explanation. Its particular purpose is to clarify how Agency, Process, and Scale provide complementary analytic perspectives on the continuity of living organisation through change. It does not claim that APS originated organisational approaches to biology, that organised persistence is the universal target of biological explanation, or that the framework has demonstrated explanatory superiority over established alternatives.
 
-## 1. The Problem of Biological Continuity
+## The Problem of Biological Continuity
 
 Living organisms exhibit a remarkable combination of continuity and change. Their molecular constituents are continually synthesised, degraded, exchanged, and replaced. Cells maintain their functions through metabolic activity, membrane transport, regulatory adjustment, and the repair or renewal of structures. Multicellular organisms undergo development, growth, physiological adaptation, and ageing, often experiencing substantial changes in their material composition and organisation while remaining identifiable as continuing living individuals.
 
@@ -78,7 +78,7 @@ The organisational question complements established biological investigation. Mo
 
 APS does not require these different explanations to be reduced to a single organisational account. Its interest is in making explicit the relationships among activities, structures, constraints, and conditions where those relationships are relevant to understanding the persistence of living organisation.
 
-## 2. Biological Organisation in Contemporary Theory
+## Biological Organisation in Contemporary Theory
 
 Biological organisation is more than the spatial arrangement of biological components. The distinction is important because an arrangement of parts does not, by itself, explain how those parts contribute to the continued functioning of a living system.
 
@@ -110,7 +110,7 @@ The contribution being articulated is a particular way of organising explanatory
 
 [[box:organisation-is-not-structure]]
 
-## 3. Viability, Regulation, and the Organisation of Persistence
+## Viability, Regulation, and the Organisation of Persistence
 
 The maintenance of biological organisation depends upon conditions that permit continued functioning. These conditions include material resources, energy availability, suitable physicochemical environments, and the continuing operation of activities and constraints required by the system concerned.
 
@@ -144,7 +144,7 @@ Organised persistence identifies the resulting continuity through change. It is 
 
 The scientific task is therefore to determine which materially realised activities and dependencies account for continuity in the particular case.
 
-## 4. Agency, Process, and Scale as Analytic Projections
+## Agency, Process, and Scale as Analytic Projections
 
 APS examines living organisation through three complementary, target-sensitive analytic projections: Agency, Process, and Scale.
 
@@ -195,7 +195,7 @@ The explanatory adequacy of the resulting account still depends upon the mechani
   </p>
 </div>
 
-## 5. Persistence Through Developmental Transformation
+## Persistence Through Developmental Transformation
 
 Development provides an especially clear illustration of the distinction between material or structural invariance and biological continuity.
 
@@ -225,7 +225,7 @@ The explanatory value of APS in this context would depend upon whether its analy
 
 Development illustrates the organisational question; it does not independently establish the superiority of the APS framework.
 
-## 6. Organisation in an Environment and Across Scale
+## Organisation in an Environment and Across Scale
 
 Living organisation is materially realised and environmentally dependent.
 
@@ -257,7 +257,7 @@ APS does not claim to replace such analyses. Its concern is to preserve the rela
 
 The resulting account remains subject to empirical investigation.
 
-## 7. What Organisational Explanation Contributes
+## What Organisational Explanation Contributes
 
 Biological organisation is a significant explanatory concern, but it is not the universal target of biological explanation.
 
