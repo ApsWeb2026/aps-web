@@ -6,26 +6,23 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-09-25
+revised: 2026-10-25
 cluster: conceptual-foundations
 role: anchor
 abstract: >
   Life remains one of biology's most fundamental yet persistently contested
-  questions. Despite extraordinary advances across the biological sciences,
-  no single account of life has achieved broad conceptual agreement.
-  Competing approaches variously emphasise metabolism, reproduction,
-  evolution, information, autonomy, autopoiesis, or organisational closure,
-  each illuminating important aspects of living systems while leaving
-  significant explanatory questions unresolved. This article examines why
-  the question remains open and argues that the continuing debate reflects
-  uncertainty concerning the organisational target of biological
-  explanation. Rather than asking only which properties distinguish living
-  systems, APS investigates the kind of organisation those properties
-  express. Within APS, Life is defined as viability-oriented,
-  constraint-closed organisation, while organised persistence identifies
-  the problem of how that living organisation maintains continuity through
-  change.
-
+  questions. Despite extraordinary advances across the biological sciences, no
+  single account of life has achieved broad conceptual agreement. Competing
+  approaches variously emphasise metabolism, reproduction, evolution, information,
+  autonomy, autopoiesis, or organisational closure, each illuminating important
+  aspects of living systems while leaving significant explanatory questions
+  unresolved. This article examines why the question remains open and argues that
+  the continuing debate reflects uncertainty concerning the organisational target
+  of biological explanation. Rather than asking only which properties distinguish
+  living systems, APS investigates the kind of organisation those properties
+  express. Within APS, Life is defined as viability-oriented, constraint-closed
+  organisation, while organised persistence identifies the problem of how that
+  living organisation maintains continuity through change.
 keyPoints:
   - The question "What is life?" remains one of biology's central unresolved questions.
   - Different approaches often explain different aspects of living systems rather than the same biological question.
@@ -34,7 +31,6 @@ keyPoints:
   - Life is defined within APS as viability-oriented, constraint-closed organisation.
   - Organised persistence concerns how living organisation maintains continuity through change.
   - APS provides a comparative explanatory methodology for relating complementary biological perspectives without replacing established explanations.
-
 relatedGlossaryTerms:
   - life
   - biological-agency
@@ -45,169 +41,32 @@ relatedGlossaryTerms:
   - constraint-closure
   - evaluation
   - biological-explanation
-
 relatedArticles:
   - agency-as-the-defining-activity-of-life
   - persistence-organised-continuity-through-time
   - continuity-architecture-of-life
   - viability-the-organising-principle-of-biological-persistence
   - what-is-it-about-life
-
 references:
-
-- id: schrodinger-1944-what-is-life
-  authors: Schrödinger, E.
-  year: 1944
-  title: What Is Life? The Physical Aspect of the Living Cell
-  publisher: Cambridge University Press
-
-- id: cleland-chyba-2002-defining-life
-  authors: Cleland, C. E., & Chyba, C. F.
-  year: 2002
-  title: Defining 'Life'
-  journal: Origins of Life and Evolution of the Biosphere
-  volume: '32'
-  issue: '4'
-  pages: 387–393
-  doi: 10.1023/A:1020503324273
-
-- id: cleland-2019-universal-theory-life
-  authors: Cleland, C. E.
-  year: 2019
-  title: 'The Quest for a Universal Theory of Life: Searching for Life As We Don''t Know It'
-  publisher: Cambridge University Press
-  doi: 10.1017/9781139046893
-
-- id: gomez-marquez-2021-what-is-life
-  authors: Gómez-Márquez, J.
-  year: 2021
-  title: What Is Life?
-  journal: Molecular Biology Reports
-  volume: '48'
-  issue: '8'
-  pages: 6223–6230
-  doi: 10.1007/s11033-021-06594-5
-
-- id: valencia-narbona-nunez-nieto-cofre-mardones-2026-what-is-life
-  authors: Valencia-Narbona, M., Núñez Nieto, P., & Cofré Mardones, H.
-  year: 2026
-  title: What Is Life? Definitions, Controversies, Ontological Perspectives, and Implications for Biology Education
-  journal: BioScience
-  doi: 10.1093/biosci/biag059
-
-- id: nicholson-2025-what-is-life
-  authors: Nicholson, D. J.
-  year: 2025
-  title: What Is Life? Revisited
-  publisher: Cambridge University Press
-  doi: 10.1017/9781009127318
-
-- id: rosen-1991-life-itself
-  authors: Rosen, R.
-  year: 1991
-  title: 'Life Itself: A Comprehensive Inquiry into the Nature, Origin, and Fabrication of Life'
-  publisher: Columbia University Press
-
-- id: maturana-varela-1980-autopoiesis-cognition
-  authors: Maturana, H. R., & Varela, F. J.
-  year: 1980
-  title: 'Autopoiesis and Cognition: The Realization of the Living'
-  publisher: D. Reidel Publishing Company
-
-- id: ruiz-mirazo-pereto-moreno-2004-universal-definition-life
-  authors: Ruiz-Mirazo, K., Peretó, J., & Moreno, A.
-  year: 2004
-  title: 'A Universal Definition of Life: Autonomy and Open-Ended Evolution'
-  journal: Origins of Life and Evolution of the Biosphere
-  volume: '34'
-  issue: '3'
-  pages: 323–346
-  doi: 10.1023/B:ORIG.0000016440.53346.DC
-
-- id: ruiz-mirazo-moreno-2004-basic-autonomy
-  authors: Ruiz-Mirazo, K., & Moreno, A.
-  year: 2004
-  title: Basic Autonomy as a Fundamental Step in the Synthesis of Life
-  journal: Artificial Life
-  volume: '10'
-  issue: '3'
-  pages: 235–259
-  doi: 10.1162/1064546041255559
-
-- id: moreno-mossio-2015-biological-autonomy
-  authors: Moreno, A., & Mossio, M.
-  year: 2015
-  title: 'Biological Autonomy: A Philosophical and Theoretical Enquiry'
-  publisher: Springer
-  doi: 10.1007/978-94-017-9837-2
-
-- id: montevil-mossio-2015-closure-constraints
-  authors: Montévil, M., & Mossio, M.
-  year: 2015
-  title: Biological Organisation as Closure of Constraints
-  journal: Journal of Theoretical Biology
-  volume: '372'
-  pages: 179–191
-  doi: 10.1016/j.jtbi.2015.02.029
-
-- id: di-paolo-2005-autopoiesis-adaptivity
-  authors: Di Paolo, E. A.
-  year: 2005
-  title: Autopoiesis, Adaptivity, Teleology, Agency
-  journal: Phenomenology and the Cognitive Sciences
-  volume: '4'
-  issue: '4'
-  pages: 429–452
-  doi: 10.1007/s11097-005-9002-y
-
-- id: bich-bechtel-2022-organization-needs-organization
-  authors: Bich, L., & Bechtel, W.
-  year: 2022
-  title: 'Organization Needs Organization: Understanding Integrated Control in Living Organisms'
-  journal: Studies in History and Philosophy of Science
-  volume: '93'
-  pages: 96–106
-  doi: 10.1016/j.shpsa.2022.03.005
-
-- id: mossio-saborido-moreno-2009-functions
-  authors: Mossio, M., Saborido, C., & Moreno, A.
-  year: 2009
-  title: An Organizational Account of Biological Functions
-  journal: The British Journal for the Philosophy of Science
-  volume: '60'
-  issue: '4'
-  pages: 813–841
-  doi: 10.1093/bjps/axp036
-
-- id: spencer-2026-agency-defining-activity-life
-  authors: Spencer, R. D.
-  year: 2026
-  title: 'Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale'
-  journal: Biological Theory
-  doi: 10.1007/s13752-026-00547-6
-
-- id: mix-2026-nasa-definition-life
-  authors: Mix, L. J.
-  year: 2026
-  title: 'The Origin, Extension, and Future of the "NASA Definition" of Life'
-  journal: Astrobiology
-  volume: '26'
-  issue: '1'
-  pages: 66–74
-  doi: 10.1177/15311074251412317
-
-- id: koons-2025-definition-life
-  authors: Koons, R. C.
-  year: 2025
-  title: 'Introduction: The Definition of Life'
-  journal: BioCosmos
-  volume: '5'
-  issue: '1'
-  pages: I–II
-  doi: 10.2478/biocosmos-2025-0007
-
-- zimmer-2021-lifes-edge
-
+  - schrodinger-1944-what-is-life
+  - cleland-chyba-2002-defining-life
+  - cleland-2019-universal-theory-life
+  - gomez-marquez-2021-what-is-life
+  - valencia-narbona-nunez-nieto-cofre-mardones-2026-what-is-life
+  - nicholson-2025-what-is-life
+  - rosen-1991-life-itself
+  - maturana-varela-1980-autopoiesis-cognition
+  - ruiz-mirazo-pereto-moreno-2004-universal-definition-life
+  - ruiz-mirazo-moreno-2004-basic-autonomy
+  - moreno-mossio-2015-biological-autonomy
+  - montevil-mossio-2015-closure-constraints
+  - di-paolo-2005-autopoiesis-adaptivity
+  - bich-bechtel-2022-organization-needs-organization
+  - mossio-saborido-moreno-2009-functions
+  - spencer-2026-agency-defining-activity-life
+  - mix-2026-nasa-definition-life
+  - koons-2025-definition-life
+  - zimmer-2021-lifes-edge
 ---
 
 > **Where this article fits:** The question *What is life?* occupies a foundational place within APS because it identifies the biological organisation that the framework takes as its principal object of investigation. Several APS articles approach this organisation from different explanatory perspectives.
@@ -219,8 +78,11 @@ references:
 Together, these articles form an explanatory sequence:
 
 - **What Is Life? — A Biological Question Revisited** — What organisational account of Life does APS propose?
+
 - **Agency as the Defining Activity of Life** — What do living systems do as viability-oriented organisations?
+
 - **Persistence — Organised Continuity Through Time** — How is continuity maintained despite continual change?
+
 - **The Continuity Architecture of Life** — Where and through what forms is biological continuity organised?
 
 ## Introduction - Why "What Is Life?" Remains an Open Question
@@ -231,7 +93,7 @@ Yet despite these extraordinary advances, biology still lacks a universally acce
 
 This continuing uncertainty does not imply an absence of empirical knowledge. Contemporary biology possesses an unprecedented understanding of metabolism, development, heredity, physiology, ecology, and evolution. The difficulty lies partly in determining what kind of question a definition of Life is intended to answer. Knowledge of the many processes exhibited by living systems does not by itself settle how those processes should be related within an account of living organisation.
 
-The persistence of this question is reflected in the diversity of proposed definitions. Contemporary discussions include accounts centred on metabolism, replication, evolution, information, autonomy, autopoiesis, thermodynamics, artificial life, viral biology, and organisation (Zimmer, 2021; Koons, 2025; Nicholson, 2025). More recent approaches often emphasise dynamic process and organisation rather than static substance or isolated properties. These perspectives capture important aspects of living systems, but no single account has achieved broad conceptual agreement, and viruses, sterile organisms, artificial systems, and other difficult cases continue to test proposed definitions.
+The persistence of this question is reflected in the diversity of proposed definitions. Contemporary discussions include accounts centred on metabolism, replication, evolution, information, autonomy, autopoiesis, thermodynamics, artificial life, viral biology, and organisation (Zimmer, 2021; Koons, 2025; Nicholson, 2025). Such disagreement should not be confused with a general lack of biological knowledge: different proposals are designed for different purposes, and some make incompatible claims about what is constitutive of life. Viruses, sterile organisms, artificial systems, and unfamiliar possible life forms expose the limits of familiar examples and challenge the adequacy of proposed criteria.
 
 This continuing disagreement suggests that the problem is not simply the absence of a sufficiently comprehensive list of biological characteristics. Different definitions can address different explanatory questions. Some identify properties associated with living systems, others specify criteria for classification, while others investigate distinctive forms of biological organisation. These are related but not identical enterprises.
 
@@ -257,17 +119,19 @@ One influential strategy has been to define Life through characteristic biologic
 
 Property-based definitions nevertheless encounter familiar difficulties. Individual characteristics admit recognised exceptions. Sterile organisms remain alive despite lacking reproductive capacity, dormant organisms may exhibit little observable metabolism, and viruses satisfy some but not all commonly proposed criteria. Extending a list of defining properties can therefore leave open the question of how those properties are related and why they should jointly bear upon living status.
 
-A recent reconsideration of the widely used NASA definition illustrates the distinction between defining and recognising Life. Mix (2026) notes that the familiar formulation of Life as “a self-sustained chemical system capable of Darwinian evolution” is influential but imprecise and difficult to implement. He proposes instead a working formulation under which NASA would recognise Life in a self-sustained chemical system demonstrating evolution by natural selection. The reformulation makes the problem of recognition explicit: operational criteria for identifying Life need not by themselves settle the further question of what organisation constitutes a living system.
+A reconsideration of the widely used NASA formulation illustrates the legitimate role of operational criteria. Mix (2026) examines the familiar description of life as “a self-sustained chemical system capable of Darwinian evolution” and its difficulties in application. A working recognition criterion can guide observation, experimental design, and astrobiological searches without supplying a final account of what makes a system living. Operational definitions are therefore not simply failed ontological definitions: they can succeed at identifying evidence relevant to a particular investigation while leaving deeper questions unsettled.
 
 [[box:why-trait-lists-fail]]
 
 Evolutionary approaches relocate emphasis from individual organisms to populations capable of heritable variation and natural selection. From this perspective, participation in evolutionary processes provides a powerful basis for explaining biological diversity, adaptation, and the historical transformation of Life.
 
-Evolutionary criteria also raise questions when used as definitions of the present living status of individual systems. Individual organisms are alive whether or not they are currently reproducing, and questions about the emergence of Life can concern systems in which fully developed Darwinian evolution is not yet established. Evolutionary theory explains historical transformation with extraordinary success, while the question of present biological organisation can remain analytically distinct.
+Evolutionary criteria become more difficult when transferred without qualification from populations and lineages to the present living status of individual systems. A sterile animal or a non-reproducing individual plant does not cease to be alive because it makes no direct reproductive contribution. Conversely, a population-level capacity for Darwinian evolution does not, by itself, specify the ongoing organisation of each individual. Accounts of the origin of life may also investigate transitional systems before the emergence of fully developed Darwinian evolution. These are distinct explanatory targets, not objections to the established explanatory achievements of evolutionary theory.
 
-A different family of approaches shifts attention from biological properties to biological organisation itself. Autopoietic theory characterises living systems through networks that continually produce and maintain their own organisation. Closely related autonomy theories emphasise forms of self-maintaining organisation through which living systems preserve identity under changing conditions. Work on constraint closure investigates networks of mutually sustaining constraints involved in maintaining biological organisation.
+A different family of approaches investigates biological organisation itself. Maturana and Varela (1980) characterise autopoietic systems through networks of production that regenerate the components and boundaries constituting their unity. Ruiz-Mirazo and Moreno (2004), and Ruiz-Mirazo, Peretó and Moreno (2004), develop basic autonomy and its relationship to the origins and evolution of life. Moreno and Mossio (2015) elaborate biological autonomy, while Montévil and Mossio (2015) analyse closure of constraints: the mutual dependence of constraints that contribute to maintaining the organisation in which they operate. These accounts are not interchangeable. They differ in their explanatory roles for production, regulation, autonomy, normativity and evolution.
 
 These organisational approaches have significantly deepened theoretical biology by moving beyond lists of characteristics toward accounts of self-maintenance, autonomy, individuality, and organisational continuity. Differences nevertheless remain concerning organisational closure, metabolism, autonomy, evolutionary history, normativity, and the explanatory significance assigned to organisational concepts. Organisational biology therefore comprises a sophisticated family of related perspectives rather than a single universally accepted account of Life.
+
+A more fundamental objection concerns whether a general definition should yet be attempted. Cleland and Chyba (2002) and Cleland (2019) argue that, without a sufficiently developed general theory of life, familiar examples and proposed criteria may be inadequate guides to unfamiliar forms. This is a substantive challenge to APS as well as to other definitions: an internally coherent organisational account is not thereby established as universally applicable. It remains possible that new discoveries will require the definition itself to be revised.
 
 Taken together, these approaches show that contemporary biology possesses multiple explanatory traditions addressing different aspects of living systems. Property-based approaches identify characteristic features. Evolutionary theory explains historical transformation. Organisational theories investigate self-maintaining biological organisation. Each can contribute to biological understanding while addressing a different explanatory target.
 
@@ -281,7 +145,7 @@ This is a methodological proposal. The coherence or explanatory gain achieved by
 
 The diversity of definitions of Life reflects more than disagreement over individual biological characteristics. It also reflects differing assumptions about explanatory objectives.
 
-Property-based definitions, evolutionary accounts, and organisational theories illuminate important aspects of living systems while asking different, though related, questions. Recognising these distinctions allows inquiry to move beyond the search for a single defining characteristic toward questions concerning the organisation in which diverse biological phenomena occur.
+Property-based definitions, evolutionary accounts, and organisational theories can illuminate different aspects of living systems, but their differences cannot always be dissolved by assigning each a separate explanatory target. A claim that evolution is constitutive of life, for example, may conflict with a definition centred on individual organisational autonomy; competing organisational accounts may also disagree over what closure requires. Distinguishing explanatory purposes is therefore the beginning of comparison, not a presumption that all proposals are mutually compatible.
 
 Characteristics such as metabolism, growth, regulation, development, responsiveness, reproduction, and evolution provide important evidence about living systems. Yet listing those characteristics does not by itself specify how they are organisationally related.
 
@@ -309,7 +173,7 @@ APS answers the organisational question with its canonical definition:
 
 > **Life is viability-oriented, constraint-closed organisation.**
 
-This is the framework's current conceptual commitment. It identifies a proposed mode of biological organisation rather than adding another isolated trait to metabolism, reproduction, evolution, information, or other familiar characteristics.
+This is the framework's current conceptual commitment. It identifies a proposed mode of biological organisation rather than adding another isolated trait to metabolism, reproduction, evolution, information, or other familiar characteristics. The proposal builds upon established work on autopoiesis, autonomy, adaptivity and constraint closure (Maturana and Varela, 1980; Di Paolo, 2005; Moreno and Mossio, 2015; Montévil and Mossio, 2015). APS does not claim to have discovered self-maintenance, closure or organisational normativity. Its particular formulation foregrounds viability-oriented activity and uses Agency, Process and Scale to organise comparative questions; whether this yields a scientifically distinctive result remains open.
 
 The formulation should be understood as an organisational unity.
 
@@ -335,26 +199,21 @@ Life is therefore not treated as a property added to otherwise neutral matter or
 
 [[box:borderline-cases-viruses-sterile-organisms-artificial-systems]]
 
-This formulation does not establish that APS provides a uniquely superior definition of Life. Organisational and autonomy traditions already supply substantial resources for explaining self-maintenance, closure, biological organisation, and related phenomena. Whether the APS formulation provides additional explanatory or discriminatory gain is a target-relative comparative question.
+Borderline cases must be diagnosed against the proposed criteria rather than decided by verbal stipulation. Sterile organisms can sustain their own viable organisation without individual reproduction. Viruses raise a different issue: their replication and evolutionary history are well established, but the extent to which a virion or virus–host system constitutes an autonomous, viability-oriented, constraint-closed organisation is disputed (Gómez-Márquez, 2021). Artificial systems likewise cannot be classified by complexity, apparent purpose or simulated behaviour alone; their material organisation and dependence on external maintenance must be examined. These cases test APS rather than automatically confirming it. Organisational and autonomy traditions already supply substantial resources for this analysis, and comparative discriminatory gain remains unestablished.
 
 The definition nevertheless provides the conceptual basis from which APS develops its own analytic architecture.
 
 <div class="aps-diagram">
-
-<a href="/assets/diagrams/what-is-life.png" target="_blank" rel="noopener">
-  <img
-    src="/assets/diagrams/what-is-life.png"
-    alt="APS diagram showing Life as viability-oriented, constraint-closed organisation and organised persistence as the maintenance of continuity through change"
-    loading="lazy"
-  />
-</a>
-
-<p class="aps-diagram-caption">
-
-<strong>What Makes Something Alive?</strong> APS defines Life as viability-oriented, constraint-closed organisation. Organised persistence identifies the problem of how that living organisation maintains continuity through change. Agency, Process, and Scale provide complementary analytic perspectives on the same living organisation.
-
-</p>
-
+  <a href="/assets/diagrams/what-is-life.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/what-is-life.png"
+      alt="APS diagram showing Life as viability-oriented, constraint-closed organisation and organised persistence as the maintenance of continuity through change"
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>What Makes Something Alive?</strong> APS defines Life as viability-oriented, constraint-closed organisation. Organised persistence identifies the problem of how that living organisation maintains continuity through change. Agency, Process, and Scale provide complementary analytic perspectives on the same living organisation.
+  </p>
 </div>
 
 The APS definition is an explanatory proposal. Viability orientation and constraint closure are introduced as analytically distinguishable aspects of one organisation, not as independent criteria whose conjunction automatically establishes biological status in every difficult case. Applying the definition requires evidence and diagnosis.
@@ -417,9 +276,7 @@ They do not demonstrate, simply by being available, that established biological 
 
 That stronger conclusion requires comparison.
 
-The APS framework therefore provides a **comparative explanatory methodology**, not a general explanatory grammar and not an alternative empirical programme.
-
-Its value must be assessed relative to particular explanatory targets, evidence, and the strongest relevant comparator.
+The APS framework therefore proposes a **comparative explanatory methodology**, whose value must be assessed against particular targets, evidence and the strongest relevant comparator. Bich and Bechtel (2022), for example, already provide a substantive account of integrated biological control; an APS interpretation must show what it clarifies beyond that account rather than merely restating integration in new terms.
 
 ## Implications for Biological Explanation
 
@@ -457,7 +314,7 @@ APS enters this landscape with a specific organisational proposal:
 
 > **Life is viability-oriented, constraint-closed organisation.**
 
-The definition identifies the organisation that APS takes as its biological target. It does not replace established biological theories, and its scientific value cannot be inferred simply from its conceptual coherence.
+The definition identifies the organisation that APS takes as its biological target. Its coherence makes it a candidate for investigation, not a demonstrated universal criterion. Cleland's challenge is especially relevant: unfamiliar life, borderline cases and competing organisational theories may expose limitations that require further testing or revision. The definition does not replace established biological theories, and its scientific value cannot be inferred from its formulation alone.
 
 Within this framework, organised persistence concerns how living organisation maintains continuity despite change.
 
@@ -494,9 +351,13 @@ Its role is to identify the living organisation that subsequent APS concepts inv
 This article depends upon:
 
 - the distinction between recognising, defining, diagnosing, and explaining Life;
+
 - established biological evidence concerning the characteristic activities of living systems;
+
 - the plurality of property-based, evolutionary, autopoietic, autonomy, and organisational approaches to Life;
+
 - organisation as materially realised activity rather than a static structural description; and
+
 - the distinction between conceptual coherence and demonstrated explanatory gain.
 
 ### Subsequent Explanatory Developments
@@ -504,14 +365,23 @@ This article depends upon:
 The Life account developed here provides the APS conceptual basis for subsequent work on:
 
 - biological agency;
+
 - viability;
+
 - organised persistence;
+
 - Constraint Closure;
+
 - biological function;
+
 - Biological Evaluation;
+
 - Process;
+
 - Scale;
+
 - cognition; and
+
 - biological explanation.
 
 These developments analyse different questions concerning living organisation. Their dependency upon the Life account does not imply causal, temporal, hierarchical, or explanatory priority among them.
@@ -521,12 +391,19 @@ These developments analyse different questions concerning living organisation. T
 This article connects directly to questions including:
 
 - What is biological agency?
+
 - What is viability?
+
 - How does living organisation maintain continuity through change?
+
 - What does Constraint Closure contribute to an account of Life?
+
 - How should borderline systems be diagnosed?
+
 - What distinguishes Life from cognition?
+
 - How should biological explanations with different targets be compared?
+
 - What would demonstrate explanatory gain for the APS Life account relative to its strongest relevant comparator?
 
 ### Position Within APS
