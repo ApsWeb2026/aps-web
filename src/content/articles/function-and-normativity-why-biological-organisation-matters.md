@@ -6,31 +6,26 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-24
-revised: 2026-09-28
+revised: 2026-10-25
 cluster: philosophy-of-biology
 role: core
-
 abstract: >
-  What makes a biological process a function rather than merely something
-  that happens? This article addresses a central question in the philosophy
-  of biology by examining teleological, selected-effects, causal-role, and
-  organisational accounts of biological function. It argues that biological functions are viability-relative organisational contributions within living organisation rather than externally assigned purposes, historically selected effects alone, or isolated mechanistic roles. From this organisational
-  foundation, biological normativity emerges because organised persistence
-  can succeed or fail across changing conditions. The article further shows
-  how agency, evaluation, semiosis, adaptation, malfunction, ecological
-  coupling, and diagnosis become intelligible as interdependent aspects of
-  viability-oriented organised persistence. APS therefore provides a unified
-  organisational framework that naturalises biological function, normativity,
-  and biological significance without reductionism, vitalism, or externally
-  imposed teleology.
-
+  Biological function and normativity are central but contested concepts in
+  philosophy of biology. This article distinguishes causal-role, selected-effects,
+  and organisational accounts of function, and develops the APS interpretation
+  of functions as viability-relative contributions within living organisation.
+  It explains how functional attribution differs from successful performance,
+  how organisational conditions provide standards of success and failure,
+  and how these questions relate to agency, evaluation, semiosis, adaptation,
+  ecological coupling, and diagnosis. APS offers an integrative perspective
+  on these relationships without claiming priority over established organisational
+  theories or demonstrated comparative explanatory superiority.
 keyPoints:
-  - Biological functions are viability-relative organisational contributions within living organisation rather than externally assigned purposes, historically selected effects alone, or isolated mechanistic roles.
-  - Biological normativity emerges because organised persistence can succeed or fail across changing conditions, establishing intrinsic standards of biological success and failure.
-  - Agency, evaluation, semiosis, adaptation, and malfunction become intelligible as organisational expressions of viability-oriented organised persistence.
-  - Functional organisation is realised through temporally organised, reconstructive organism–environment relations whose relevant spatial and temporal extent depends upon the biological case.
-  - APS provides a unified organisational framework that naturalises biological function, normativity, and biological significance without reductionism, vitalism, or externally imposed teleology.
-
+  - Biological functions are viability-relative organisational contributions, not simply any effects produced by living systems.
+  - Selected-effects, causal-role, and organisational accounts address overlapping but distinguishable explanatory questions.
+  - Viability-relative normativity concerns real differences between conditions that support or undermine living organisation.
+  - A function can remain attributable when its performance is impaired; malfunction must not be defined out of existence.
+  - APS relates function and normativity to agency, evaluation, semiosis, adaptation, and diagnosis without claiming that these relations establish a new biological law.
 relatedGlossaryTerms:
   - function
   - normativity
@@ -51,7 +46,6 @@ relatedGlossaryTerms:
   - scale
   - diagnosis
   - organisational-realism
-
 relatedArticles:
   - biological-organisation
   - viability-the-organising-principle-of-biological-persistence
@@ -69,126 +63,31 @@ relatedArticles:
   - organisational-realism-in-biology
   - why-life-is-not-a-machine
   - why-aps-is-not-organicism
-
 references:
-  - id: wright-1973-functions
-    authors: Wright, L.
-    year: 1973
-    title: Functions
-    journal: The Philosophical Review
-    volume: "82"
-    issue: "2"
-    pages: "139â€“168"
-    doi: 10.2307/2183766
-
-  - id: cummins-1975-functional-analysis
-    authors: Cummins, R.
-    year: 1975
-    title: Functional Analysis
-    journal: The Journal of Philosophy
-    volume: "72"
-    issue: "20"
-    pages: "741â€“765"
-    doi: 10.2307/2024640
-
-  - id: millikan-1984-biological-categories
-    authors: Millikan, R. G.
-    year: 1984
-    title: "Language, Thought, and Other Biological Categories: New Foundations for Realism"
-    publisher: MIT Press
-
-  - id: neander-1991-functions-selected-effects
-    authors: Neander, K.
-    year: 1991
-    title: "Functions as Selected Effects: The Conceptual Analyst's Defense"
-    journal: Philosophy of Science
-    volume: "58"
-    issue: "2"
-    pages: "168â€“184"
-    doi: 10.1086/289610
-
-  - id: godfrey-smith-1993-functions
-    authors: Godfrey-Smith, P.
-    year: 1993
-    title: "Functions: Consensus Without Unity"
-    journal: Pacific Philosophical Quarterly
-    volume: "74"
-    issue: "3"
-    pages: "196â€“208"
-    doi: 10.1111/j.1468-0114.1993.tb00358.x
-
-  - id: mossio-saborido-moreno-2009-organizational-functions
-    authors: Mossio, M., Saborido, C. and Moreno, A.
-    year: 2009
-    title: An Organizational Account of Biological Functions
-    journal: The British Journal for the Philosophy of Science
-    volume: "60"
-    issue: "4"
-    pages: "813â€“841"
-    doi: 10.1093/bjps/axp036
-
-  - id: garson-2016-critical-overview
-    authors: Garson, J.
-    year: 2016
-    title: A Critical Overview of Biological Functions
-    publisher: Springer
-    doi: 10.1007/978-3-319-32020-5
-
-  - id: moreno-mossio-2015-biological-autonomy
-    authors: Moreno, A. and Mossio, M.
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    publisher: Springer
-    doi: 10.1007/978-94-017-9837-2
-
-  - id: mossio-bich-2017-organisation-teleological
-    authors: Mossio, M. and Bich, L.
-    year: 2017
-    title: What Makes Biological Organisation Teleological?
-    journal: Synthese
-    volume: "194"
-    issue: "4"
-    pages: "1089â€“1114"
-    doi: 10.1007/s11229-014-0594-z
-
-  - id: craver-2007-explaining-brain
-    authors: Craver, C. F.
-    year: 2007
-    title: "Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience"
-    publisher: Oxford University Press
-    doi: 10.1093/acprof:oso/9780199299317.001.0001
-
-  - id: nicholson-dupre-2018-everything-flows
-    authors: Nicholson, D. J. and DuprÃ©, J., eds.
-    year: 2018
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    publisher: Oxford University Press
-    doi: 10.1093/oso/9780198779636.001.0001
-
-  - id: garson-2019-biological-functions
-    authors: Garson, J.
-    year: 2019
-    title: What Biological Functions Are and Why They Matter
-    publisher: Cambridge University Press
-    doi: 10.1017/9781108560764
-
-  - id: spencer-2026-agency-defining-activity
-    authors: Spencer, R. D.
-    year: 2026
-    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
-    journal: Biological Theory
-    doi: 10.1007/s13752-026-00547-6
+  - wright-1973-functions
+  - cummins-1975-functional-analysis
+  - millikan-1984-language-thought
+  - neander-1991-functions-selected-effects
+  - godfrey-smith-1993-functions
+  - mossio-saborido-moreno-2009-functions
+  - garson-2016-critical-overview-biological-functions
+  - moreno-mossio-2015-biological-autonomy
+  - mossio-bich-2017-biological-organisation-teleological
+  - craver-2007-explaining-the-brain
+  - nicholson-dupre-2018-everything-flows
+  - garson-2019-biological-functions
+  - spencer-2026-agency-defining-activity-life
 ---
 
-> **Where this article fits:** This article addresses the conceptual question of *what biological function is* (definition and justification). Its role is to naturalise function and normativity within contemporary philosophy of biology. It examines the principal philosophical accounts of function, explains why function is inherently normative, and shows how APS grounds both within viability-oriented biological organisation. Readers seeking to understand how functions operate within the wider APS architecture should continue with *Function â€” How Living Systems Make Persistence Operational* (organisation and operation).
+**Where this article fits:**
+*This article addresses the conceptual question of* **what biological function is** *(definition and justification). Its role is to examine the naturalisation of function and normativity within contemporary philosophy of biology, acknowledging that organisational theories have already developed substantial accounts of both. It examines the principal philosophical accounts of function, explains why function is inherently normative, and sets out how APS interprets both within viability-oriented biological organisation without presuming explanatory superiority over established comparators. Readers seeking to understand how functions operate within the wider APS architecture should continue with **Function — How Living Systems Make Persistence Operational** (organisation and operation).*
 
 ## Introduction
-
 What makes a biological process a function rather than merely something that happens?
 
-Few concepts have been more centralâ€”or more contestedâ€”in biology than biological function. Biologists routinely describe hearts as pumping blood, kidneys as filtering waste, leaves as capturing light, immune systems as defending organisms, and nervous systems as coordinating behaviour. Yet what distinguishes these activities as functions, rather than simply causal processes, has remained one of the enduring questions of the philosophy of biology.
+Few concepts have been more central—or more contested—in biology than biological function. Biologists routinely describe hearts as pumping blood, kidneys as filtering waste, leaves as capturing light, immune systems as defending organisms, and nervous systems as coordinating behaviour. Yet what distinguishes these activities as functions, rather than simply causal processes, has remained one of the enduring questions of the philosophy of biology.
 
-Over the past century, several influential answers have been proposed. Some accounts explain function through evolutionary history, arguing that functions are the effects for which traits were selected. Others understand function as the causal contribution that a component makes within a larger system. More recent organisational approaches locate function within the self-maintaining organisation of living systems. Each of these perspectives captures an important aspect of biological explanation, yet none fully explains why biological functions are intrinsically related to the continued existence of the organisms that enact them.
+Over the past century, several influential answers have been proposed. Some accounts explain function through evolutionary history, arguing that functions are the effects for which traits were selected. Others understand function as the causal contribution that a component makes within a larger system. More recent organisational approaches locate function within the self-maintaining organisation of living systems. These perspectives address partly different explanatory questions. In particular, established organisational theories already relate biological function to self-maintenance and conditions of persistence; APS must be compared with those accounts rather than presented as supplying a missing organisational insight.
 
 APS argues that biological function becomes intelligible as viability-relative organisational contribution within living organisation. A process is functional insofar as its activity makes a viability-relative contribution within the organisation through which a living system maintains and re-establishes the conditions of its own persistence across changing conditions. Functions are therefore not externally assigned purposes, merely historical evolutionary effects, or isolated mechanistic roles. They are present-tense organisational contributions whose functional significance is established relative to viability.
 
@@ -200,27 +99,44 @@ This article develops that organisational account of function and examines its i
 
 ## Different Senses of Biological Function
 
-The word *function* is used in several different senses in biology, and these uses should not be assumed to identify the same explanatory relation. A causal contribution made by a component, the evolutionary history of a trait, a role in development, an ecological effect, and a contribution to the continuing viability of a living system can all be described as functions, but they answer different biological questions.
+The word **function** is used in several different senses in biology, and these uses should not be assumed to identify the same explanatory relation. A causal contribution made by a component, the evolutionary history of a trait, a role in development, an ecological effect, and a contribution to the continuing viability of a living system can all be described as functions, but they answer different biological questions.
 
 Distinguishing these senses is important for APS because its account of function is deliberately specific. APS does not treat every effect produced by a biological structure or process as its function, nor does it identify present biological function with the historical reason that a trait arose or was retained. Function concerns the contribution that a structure, process, or activity makes to viable living organisation.
 
+The principal comparators warrant explicit recognition. Cummins (1975) analyses a function as a causal contribution to a system capacity; Wright (1973), Millikan (1984), and Neander (1991) develop historically oriented or selected-effects approaches; and Mossio, Saborido and Moreno (2009) develop an organisational account grounded in self-maintenance. Godfrey-Smith (1993) cautions against assuming a single unified function concept, while Garson (2016, 2019) examines the strengths and limits of competing approaches. The APS account should be assessed as one answer to a specified organisational question, not as a replacement for every other use of function.
+
 <div class="aps-diagram">
+
   <a href="/assets/diagrams/philosophy-function.png" target="_blank" rel="noopener">
+
     <img
+
       src="/assets/diagrams/philosophy-function.png"
+
       alt="Comparison of causal-role, selected-effect, organisational, teleonomic, developmental, and ecological senses of biological function and their relationship to the APS account."
+
       loading="lazy"
+
     />
+
   </a>
 
   <p class="aps-diagram-caption">
+
     <strong>Different Senses of Biological Function.</strong>
+
     Biological uses of function answer different explanatory questions. APS
+
     distinguishes causal contribution, evolutionary history, developmental
+
     role, ecological effect, and goal-directed description from the more
+
     specific viability-relative organisational relation that warrants
+
     functional attribution within living organisation.
+
   </p>
+
 </div>
 
 The distinctions in the table are explanatory rather than hierarchical. They do not arrange biological functions into successive stages or imply that one kind of explanation must replace the others. A selected-effect explanation, for example, can explain why a trait was historically established or retained, while a present-tense organisational explanation can ask what contribution that trait now makes within living organisation. These questions can be compatible without being identical.
@@ -229,7 +145,7 @@ The same caution applies to causal-role explanation. A structure or process can 
 
 Developmental and ecological uses require similar care. Participation in development does not automatically establish that every developmental effect is a function, and an effect produced by an organism within an ecological system is not automatically a function of the organism producing it. In each case, the relevant explanatory relation must be established rather than inferred from the presence of an effect or role.
 
-APS therefore uses *function* in a restricted organisational sense:
+APS therefore uses **function** in a restricted organisational sense:
 
 > **A biological function is a viability-relative contribution made by a structure, process, or activity within living organisation.**
 
@@ -245,56 +161,41 @@ This distinction also prevents present function from being collapsed into evolut
 
 ## Function Beyond Teleology
 
-If biological functions are not externally assigned purposes, what makes them genuine functions?
+If biological functions are not externally assigned purposes, what makes them genuine functions? The retreat from classical teleology did not remove purposive language from biology; it made the grounds of functional attribution a subject of naturalistic explanation. The challenge is to explain why the activity of a biological structure counts as something it is *for*, without assuming an external designer or an irreducible final cause.
 
-Since the decline of classical teleology, biology has sought to explain function without appealing to externally imposed purposes or irreducible final causes. Yet abandoning classical teleology did not eliminate the concept of function. Instead, it raised a more fundamental question: what distinguishes a biological function from an ordinary causal process?
+Several traditions address this challenge from different directions. Selected-effects theories connect functional attribution to the history in which a trait was established or retained, while causal-role approaches examine contributions to a specified system capacity. Organisational theories locate functions within networks of interdependent processes and constraints through which living systems maintain themselves. These traditions need not be mutually exclusive, because they do not always address the same explanandum.
 
-Different traditions have offered different answers. Selected-effects accounts explain functions through the evolutionary history of traits, whereas causal-role accounts understand functions as the contributions components make within larger systems. Organisational approaches locate function within the self-maintaining organisation of living systems. Each perspective captures an important aspect of biological explanation, yet each also leaves open the relationship between function and the present organisation of living systems.
+Organisational naturalisation of function and teleology is an established achievement, not an APS innovation. Mossio, Saborido and Moreno (2009) explicitly relate function to self-maintaining organisation; Moreno and Mossio (2015) develop the framework of biological autonomy; and Mossio and Bich (2017) examine its implications for teleology. These accounts are especially important comparators because they already address the relationship between organisational maintenance, functional contribution, and biological normativity.
 
-APS argues that biological functions become intelligible only in relation to viability-oriented organised persistence. Functions are neither mystical purposes imposed upon living systems nor merely retrospective products of evolutionary history. Nor are they reducible to isolated mechanistic operations considered independently of the organisation to which they contribute.
+Within this tradition, APS interprets a function as a **viability-relative organisational contribution within living organisation**. The contribution is identified through its relationship to the conditions under which a living system maintains or re-establishes its organisation. A process can thereby have a present functional role without its function being identical to the evolutionary explanation of its origin. Historical evidence may nonetheless be important when deciding whether a role remains attributable through impaired performance.
 
-Within APS, a biological function is:
-
-**a viability-relative organisational contribution within living organisation.**
-
- A process is functional insofar as it makes a viability-relative contribution within living organisation. Such contributions can participate in maintaining or re-establishing the organisation through which a living system preserves the conditions of its own persistence across changing conditions. Function is therefore a present-tense organisational relation, while evolutionary history explains how traits and organisations came to exist rather than what presently warrants their functional attribution.
-
-APS therefore naturalises biological function without appealing to external purpose or reducing function to historical origin or mechanistic description alone. Function emerges from the organisation of living systems themselves.
+This interpretation does not exclude mechanistic analysis, historical explanation, or other legitimate uses of function. Its proposed value lies in making the relationship among viability, agency, ongoing process, and explanatory extent explicit. Whether doing so improves a particular explanation over established organisational accounts is a question for controlled comparison, not a conclusion established by the definition itself.
 
 [[box:aps-box-function-is-contribution-to-viability]]
 
 ## Function and Organised Persistence
-How do biological functions preserve living organisation through continual change?
 
-Living systems are never static. Their components undergo continual material turnover, energetic fluctuation, developmental transformation, ecological perturbation, injury, repair, and adaptive reorganisation. Yet despite this continual change, living systems maintain their organisational continuity.
+How do biological functions contribute to continuity when the organisation of a living system is constantly changing? Living systems undergo material turnover, energetic fluctuation, development, ecological perturbation, injury, repair, and reorganisation. The persistence of an organism does not consist in retaining an unchanging inventory of parts. It depends upon the continuing coordination and reconstruction of the processes and constraints that support viability.
 
-This raises an important biological question. If organisms are constantly changing, in what sense do their functions contribute to persistence rather than simply accompanying change?
+This temporal setting makes functional contributions particularly significant. Metabolic pathways can sustain the energetic and material conditions required for activity; repair can restore damaged structures or relations; immune responses can help contain threats to viable organisation; and perception can guide activity in relation to environmental circumstances. These examples are not interchangeable, and each requires evidence that the proposed contribution is relevant to the organism under investigation. A response that appears protective may also impose costs or fail under altered conditions.
 
-APS argues that biological functions can contribute directly to the maintenance and re-establishment of organised persistence. A process identified as functional through its viability-relative contribution can thereby participate in preserving the organisational conditions through which a living system remains viable across changing circumstances.
+APS describes the continuity achieved through such changing activity as *organised persistence*. The phrase draws attention to the fact that persistence is maintained through organisation rather than secured by material constancy. It does not designate a separate mechanism or establish persistence as the universal explanatory target of biology. Questions about evolutionary history, ecological relations, developmental patterning, and molecular causation remain distinct even where they contribute to understanding how an organism continues to live.
 
-This can be seen across many domains of biological organisation. Metabolism functions because it sustains energetic continuity. Repair functions because it reconstructs degraded organisation. Immune activity functions because it preserves viable persistence under perturbation. Perception functions because it modulates activity relative to conditions that affect continued viability.
+Functions can be investigated as contributions to this organised continuity, but attribution must not depend solely on observing a favourable outcome. A process may have an identifiable role while temporarily failing to perform it, and some effects of a process may be incidental or damaging. Organisational evidence, adverse cases, and relevant comparisons are needed to determine which contribution is properly described as functional.
 
-These examples illustrate a common organisational principle. Biological functions are not defined by the particular mechanisms they employ but by their viability-relative contribution within living organisation. Such contributions can participate in maintaining and re-establishing the organised persistence of the living system. Function therefore concerns viability-relative organisational contribution rather than isolated mechanical operation.
-
-Living systems persist because different functional relations make different contributions to continuity-preserving organisation. The asymmetries between continuity-supporting and continuity-undermining contributions provide the organisational basis from which biological normativity subsequently emerges.
+The connection between function and persistence is thus useful when it makes the organisation of a particular biological case more intelligible. Its explanatory merit must be tested against the strongest available mechanistic or organisational account, including the possibility that APS provides an equivalent redescription. Within that constraint, viability-relative differences between sustaining and undermining conditions provide a basis for investigating biological normativity.
 
 <div class="aps-diagram"> <a href="/assets/diagrams/philosophy-endogenous-normativity.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-endogenous-normativity.png" alt="APS endogenous normativity architecture" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Endogenous Normativity in APS.</strong> Normativity emerges because organised persistence establishes real asymmetries between continuity-supporting and continuity-undermining organisational conditions. </p> </div>
 
 ## Function and Mechanism
 
-If mechanisms explain how biological processes occur, what makes some mechanisms biological functions?
+Mechanistic explanation is indispensable to modern biology. Metabolic pathways, gene regulatory networks, immune responses, developmental systems, neural circuits, and behavioural processes are investigated by identifying the entities, activities, and organisation through which particular phenomena occur. Such work does not merely catalogue isolated parts: well-developed mechanistic accounts can also reveal constraints, feedback, and dependencies among components (Craver 2007).
 
-Mechanistic explanation has become one of the defining achievements of modern biology. Metabolic pathways, gene regulatory networks, immune responses, developmental systems, neural circuits, and behavioural processes are all investigated by identifying the mechanisms through which they operate. These explanations reveal how biological activities are materially realised.
+The philosophical question is therefore not whether mechanism can explain biological organisation, but what warrants the attribution of a *function* to an identified mechanism or component. Consider a metabolic pathway that produces several effects. Mechanistic analysis may establish which reactions occur, how they are regulated, and how they contribute to a system-level capacity. A viability-relative account then asks which of those contributions supports the conditions required for the organism's continued functioning. The two questions may be answered within one investigation.
 
-Yet an important philosophical question remains. If every biological process can be described mechanistically, what distinguishes those mechanisms that constitute biological functions from those that are merely causal events?
+Within APS, a mechanism is not rendered functional merely by being present in a living system. Its relevant organisational role is established in relation to viability. This does not mean that every effect of the mechanism is functional or that viability is the only legitimate target of mechanistic investigation. The explanatory target determines which contributions matter and what evidence is needed.
 
-APS argues that mechanistic explanation is indispensable but not explanatorily self-sufficient. Mechanisms explain how biological processes occur. They do not by themselves explain why particular mechanisms contribute to the continued organisation of a living system.
-
-Within APS, mechanisms become biologically functional because they participate in viability-oriented organised persistence. A metabolic pathway, neural circuit, immune response, developmental process, or behavioural pattern is biologically functional insofar as it contributes to maintaining or re-establishing the organisational conditions through which a living system persists across changing circumstances.
-
-Mechanisms therefore acquire biological significance through their organisational roles within living systems. They contribute to viability maintenance, continuity regulation, repair, adaptive reorganisation, evaluation, semiosis, and other activities that preserve organised persistence.
-
-APS therefore does not oppose mechanistic biology. Rather, it situates mechanistic explanation within a broader organisational account of living systems. Mechanisms explain how functional activities are realised, while organisational explanation clarifies why those mechanisms together constitute the viability-oriented persistence of a living organism.
+In some investigations, explicitly connecting a mechanism to the conditions of viable organisation may clarify why a particular capacity matters, how several mechanisms compensate for one another, or why a disturbance constitutes a malfunction. In others, a strong mechanistic or systems-biology explanation may already make those relationships clear. APS therefore proposes an organisational question to be asked where relevant, not a categorical deficiency in mechanistic biology.
 
 [[box:aps-box-mechanism-and-organisational-context]]
 
@@ -302,33 +203,25 @@ APS therefore does not oppose mechanistic biology. Rather, it situates mechanist
 
 ## Function and Temporal Organisation
 
-Can a biological function be understood at a single moment in time?
+Biological functions are realised within living systems that undergo continual material turnover, energetic exchange, developmental transformation, ecological interaction, and adaptive reorganisation. Functional continuity therefore cannot be understood simply as the persistence of unchanged structures or as the effects produced at isolated moments. It depends upon the organisation of processes whose contributions may be maintained, interrupted, restored, or redistributed through time.
 
-Living systems exist in continual flux. Their components undergo ongoing material turnover, energetic exchange, developmental transformation, ecological interaction, and adaptive reorganisation. Yet despite this continual change, the functions through which living systems persist exhibit continuity across time rather than existing as isolated events.
+A functional role or capacity can remain attributable even during unsuccessful performance. Temporary failure of circulation does not, by itself, abolish the heart's pumping function. The attribution may be supported by evidence concerning causal and organisational relationships, developmental or evolutionary history, and the conditions under which performance could be restored. Temporal continuity is relevant to this assessment, but duration alone does not establish that a process has a biological function.
 
-This raises an important biological question. If living organisation is continuously changing, in what sense can biological functions remain the same?
+APS interprets this temporal dimension through viability-oriented organised persistence. A process has functional significance insofar as its organisational role contributes to maintaining or re-establishing the conditions of viability across changing circumstances. Such contributions may involve regulation, repair, developmental reconstruction, physiological compensation, or continuing interaction with environmental conditions. Their significance depends upon the particular biological organisation under investigation rather than upon their duration or apparent contribution to persistence alone.
 
-APS argues that biological functions are inherently temporal. A process is functional not because of what it achieves at a single instant, but because of its contribution to maintaining or re-establishing viability-oriented organised persistence through time. Function therefore depends upon ongoing organisational continuity rather than static structural identity.
-
-This temporal organisation is expressed through multiple, interacting processes, including continuity maintenance, developmental reconstruction, adaptive reorganisation, ecological coordination, and persistence-preserving regulation distributed across different timescales. Functional organisation therefore extends beyond individual events to encompass the dynamic organisation through which living systems preserve themselves across continual transformation.
-
-Understanding function in this way explains why living systems can remain organisationally continuous despite continual material and environmental change. Biological functions are organised across time because the persistence they sustain is itself an ongoing organisational achievement.
-
-Functions contribute to organised persistence by participating in temporally coordinated continuity-preserving organisation across changing conditions.
+This interpretation helps explain how functional organisation can remain identifiable despite substantial changes in its material realisation. It does not require functions to remain continuously effective, nor does it establish that every continuity-preserving process is functional. Rather, it directs attention to the temporally extended relationships through which warranted functional roles are maintained, impaired, or reconstructed.
 
 ## Normativity and Viability
 
-Why do biological functions have standards of success and failure?
+Biological functions are associated with standards of success and failure. Hearts may pump effectively or inadequately, immune responses may protect an organism or fail to contain a threat, and regulatory processes may maintain viable conditions or contribute to their deterioration. Such differences are not merely alternative descriptions of biological activity. They concern the consequences of that activity for the continuing organisation of living systems.
 
-One of the distinctive features of biological functions is that they can succeed or fail. Hearts may pump effectively or inadequately, immune systems may preserve viability or permit disease, developmental processes may stabilise or become disrupted, and regulatory systems may maintain continuity or contribute to organisational collapse. Biological explanation therefore depends upon real distinctions between better and worse organisational outcomes.
+The philosophical challenge is to explain these standards without appealing to externally imposed purposes or conscious judgement. Established organisational theories, particularly those developed by Mossio, Saborido and Moreno (2009) and Moreno and Mossio (2015), locate biological normativity within the conditions of organisational self-maintenance. APS adopts a related viability-oriented interpretation rather than claiming to have discovered this connection independently.
 
-This raises an important philosophical question. If biology does not appeal to externally imposed purposes or conscious evaluation, where do these standards of success and failure originate?
+Within APS, normativity concerns the asymmetry between organisational conditions that support viability and those that undermine it. Living systems depend upon processes and constraints whose disruption may impair regulation, compromise repair, destabilise coordination, or threaten continued existence. These differences provide a naturalistic basis for distinguishing successful from unsuccessful functional performance without requiring conscious evaluation, symbolic representation, or an external designer.
 
-APS argues that biological normativity emerges directly from viability-oriented organised persistence. Living systems exist under conditions in which continuity may be maintained or lost, regulation may stabilise or degrade, organisation may persist or collapse, and viability may be preserved or undermined. These organisational asymmetries are not imposed by observers; they are intrinsic features of living organisation itself.
+Nevertheless, the existence of a viability-relevant difference does not automatically identify the function of a particular component or establish the cause of malfunction. Functional attribution requires evidence of an organisational role, while assessments of performance require appropriate reference conditions and an understanding of the circumstances in which that role is realised. A response may also be beneficial in one respect while imposing costs elsewhere.
 
-Normativity therefore does not depend upon conscious judgement, symbolic representation, external evaluation, or independently imposed standards. It arises because living systems are organised around the continual maintenance and re-establishment of the conditions required for their own persistence. Organisational states matter differently because they contribute differently to continued viability.
-
-Understanding normativity in this way explains why biological functions possess genuine standards of success and failure without invoking external purposes or mental evaluation. Functional organisation is normative because the organisation of life itself establishes real asymmetries between continuity-preserving and continuity-undermining conditions.
+APS therefore treats biological normativity as an objective but context-dependent feature of living organisation. Its explanatory value lies in relating functional standards to the conditions of viability while leaving the identification of particular functions, failures, and trade-offs open to empirical investigation.
 
 [[box:aps-box-normativity-is-endogenous]]
 
@@ -336,47 +229,37 @@ Understanding normativity in this way explains why biological functions possess 
 
 ## Function and Biological Agency
 
-How are biological functions actively maintained rather than merely possessed?
+Biological functions are realised through activity that must often be regulated, coordinated, and restored as conditions change. Metabolic processes require adjustment to available resources; damaged tissues may initiate repair; behavioural responses can alter exposure to environmental threats. These activities raise a question that goes beyond listing functional capacities: how does the living system sustain and modify the organisation in which those capacities have a role?
 
-Biological functions are not static properties of living systems. They must be continually enacted, regulated, modified, and, when necessary, re-established if organised persistence is to continue. This raises an important question. If functions contribute to viability, what organises and sustains those contributions as conditions continually change?
+APS addresses this question through *biological agency*, understood as viability-oriented organisational activity sustaining the conditions of persistence (Spencer 2026). Function identifies a warranted contribution within that organisation, whereas agency describes its active regulation and maintenance. These are complementary ways of examining living organisation, not separate substances or stages in a universal causal sequence.
 
-APS answers this question through biological agency. Agency is the ongoing viability-oriented organisational activity through which living systems regulate and coordinate the processes that maintain their own persistence. Functions therefore do not simply exist within organisms; they are continually enacted through the active organisation of living systems.
+The distinction matters when functions are redistributed or compensated for. A change in behaviour may reduce a physiological demand; a regulatory adjustment may partly compensate for impairment; developmental reorganisation may establish a different route to a similar capacity. Such cases can be examined in terms of both the functions at issue and the activity through which the organism modifies their performance. Neither description alone supplies all the evidence needed to explain the change.
 
-This organisational activity extends across many domains of biological organisation, including metabolism, behaviour, development, ecological interaction, evaluation, semiosis, and organisational reconstruction. In each case, activity is continuously modulated relative to conditions affecting continued viability.
-
-Agency therefore operationalises both function and normativity. Functional organisation is not passively present but continually regulated, reorganised, reinforced, compensated for, and reconstructed as living systems respond to changing internal and external conditions. Through this ongoing activity, agency preserves the organisational continuity upon which biological function depends.
-
-Agency therefore integrates function, normativity, adaptation, evaluation, semiosis, and continuity-preserving organisation within one unified process of viability-oriented activity. It is through agency that functional organisation becomes an active and continuously maintained feature of living systems rather than a static property of biological structures.
+Agency also connects functional organisation with biological normativity. Regulation can be assessed in relation to the conditions it maintains, threatens, or restores, without attributing conscious intentions to the organism. APS therefore uses Agency, Process, and Scale as complementary projections of one viability-oriented organisation: the activity undertaken, its changing causal organisation, and the spatial or temporal extent required to explain it. Their conceptual relationship does not establish that agency precedes function or that every act of regulation constitutes cognition or semiosis.
 
 ## Function and Evaluation
 
-How do biological functions become operationally significant to living systems?
+A living system's functional organisation must often respond differently to conditions with different implications for its viability. Changes in nutrient availability, tissue damage, temperature, or chemical gradients may alter regulation and behaviour. In APS, *evaluation* names viability-relevant modulation of activity through which such differences become operationally significant to the organism.
 
-Biological functions do more than contribute to organised persistence. Living systems must also regulate those functions continuously in response to changing internal and external conditions. This raises an important question. If biological functions establish standards of success and failure, how are those standards translated into the ongoing regulation of living activity?
+This use of evaluation does not presuppose conscious judgement, symbolic representation, or cognition. Nor is every response to a stimulus thereby evaluative in the intended sense. The investigator must establish that the difference has biological significance for the system and that the resulting modulation is integrated into its activity. Otherwise, the terminology risks redescribing an ordinary causal response without explanatory gain.
 
-APS answers this question through biological evaluation. Evaluation is the principal operational expression of biological normativity. Through evaluation, living systems continually differentiate conditions that support continued viability from those that threaten it, thereby modulating activity relative to the requirements of organised persistence.
+The relation between evaluation and function is consequently close but not sequential. A functional contribution may be adjusted in response to changed conditions; evaluative modulation may alter which processes are recruited or how strongly they operate. Conversely, a response may be maladaptive, poorly integrated, or insufficient to preserve viability. Such outcomes are important evidence, because the account must accommodate failure rather than treat every change as successful self-maintenance.
 
-This evaluative organisation extends across all forms of life. Living systems continually distinguish favourable from unfavourable conditions, stabilising from destabilising activities, and continuity-supporting from continuity-threatening organisational relations. Evaluation therefore enables living systems to regulate their activity in ways that preserve or re-establish the conditions required for continued viability.
-
-Evaluation does not require conscious reflection, symbolic representation, or deliberate judgement. Even the simplest organisms modulate their activity relative to conditions affecting persistence. Biological evaluation is therefore a fundamental organisational process through which agency enacts the normativity inherent in living organisation.
-
-Without evaluation, living systems could not regulate persistence effectively across changing conditions. Evaluation operationalises biological normativity by continuously modulating activity in relation to viability-oriented organised persistence.
+For example, a regulatory response to a threat may restore a viable range of activity, but a similar response under different conditions may overshoot or impose substantial costs. Describing both cases in terms of evaluation directs attention to the biological significance of the difference and to the adequacy of the resulting modulation. Whether that description improves on an established regulatory or mechanistic explanation remains open to comparison.
 
 [[box:aps-box-viability-grounds-evaluation]]
 
 ## Function and Semiosis
 
-How do biologically significant differences become meaningful to living systems?
+Living systems encounter differences in their surroundings and internal states, including chemical gradients, mechanical disturbances, signals from other organisms, and changes in available resources. Some of these differences affect viability and modulate activity. It does not follow, however, that every causally effective difference is a sign or that every viability-sensitive response is an instance of semiosis.
 
-Living systems continually encounter differences in their internal and external environments. Environmental signals, chemical gradients, mechanical interactions, and ecological conditions all vary through time. Yet only some of these differences influence the organisation of continued viability. This raises an important question. If evaluation distinguishes conditions that matter biologically, how do those differences become organised as meaningful aspects of a living system's activity?
+APS distinguishes *biological significance*, *evaluation*, *semiosis*, and *cognition* because they answer different questions. A difference is biologically significant when it matters to the conditions of viable organisation; evaluation concerns modulation of activity relative to such differences. Semiosis requires a further account of sign-related organisation and use, while cognition, under APS's guarded formulation, requires integrated significance to modulate activity across a temporal field of viability-relevant possibilities. Neither semiosis nor cognition can be inferred simply from a favourable response.
 
-APS answers this question through semiosis. Semiosis is the organisational process through which biologically significant differences become integrated into the regulation of viability-oriented activity. Differences become meaningful because they contribute differently to the maintenance or disruption of organised persistence.
+Biosemiotic approaches offer substantive accounts of signs and interpretation, and APS must be compared with them rather than treating its own terminology as sufficient evidence. Its contribution here is a proposed connection: when sign-related processes are established, their biological significance can be investigated in relation to the functions and constraints of the living organisation in which they occur. This is compatible with recognising that not all functions are semiotic and that some meaningful relations may require explanatory resources beyond the APS formulation.
 
-Meaning therefore does not originate in detached symbolic representation or abstract interpretation alone. It emerges from the organisation of living systems themselves. Environmental signals, chemical gradients, mechanical relations, and ecological cues acquire biological meaning because they influence the conditions under which organised persistence can be maintained or re-established.
+Consider a chemical cue that influences an organism's behaviour. Demonstrating that the cue changes activity establishes a causal relation; demonstrating that the change affects viability establishes an additional biological relation. Whether the cue is used as a sign requires further evidence concerning the organisation of the response. Distinguishing these questions prevents function, significance, and meaning from becoming interchangeable labels.
 
-Semiosis therefore depends upon function, normativity, agency, and biological evaluation. Function establishes organisational contributions to persistence. Normativity explains why those contributions matter. Agency actively regulates them. Evaluation differentiates conditions according to their significance for viability. Semiosis organises those biologically significant differences into coordinated activity directed towards continued persistence.
-
-APS therefore understands semiosis not as the origin of biological meaning but as the organisational expression of evaluative significance within viability-oriented organised persistence.
+APS thus situates semiosis among the possible forms of viability-relevant organisation without claiming that all biological meaning follows deductively from function or that the proposed connection has demonstrated explanatory superiority.
 
 [[box:aps-box-semiosis-is-operational]]
 
@@ -386,47 +269,45 @@ APS therefore understands semiosis not as the origin of biological meaning but a
 
 ## Function, Malfunction, and Breakdown
 
-How can biological functions fail while remaining biological functions?
+The possibility of malfunction presents a demanding test for any account of biological function. Hearts may pump inadequately, regulatory systems may become unstable, developmental processes may be disrupted, and repair mechanisms may fail to restore organisational integrity. Yet these failures do not necessarily remove the functions attributable to the affected structures or processes. An adequate account must explain how a function can remain identifiable when its performance is impaired.
 
-One of the defining features of biological functions is that they can malfunction. Hearts may pump inadequately, regulatory systems may become unstable, developmental processes may be disrupted, and repair mechanisms may fail to restore organisational integrity. Yet these processes remain recognisably biological functions even when they no longer contribute effectively to continued viability.
+The essential distinction is between having a function and performing that function successfully. A failing heart can retain the function of pumping blood even when it no longer pumps effectively. If function were identified exclusively with successful contribution at a particular moment, malfunction would disappear from the theory by definition. APS therefore understands functional attribution as a warranted judgement about a viability-relative organisational role or capacity, while success, impairment, and failure concern the performance of that role under specified conditions.
 
-This raises an important explanatory question. If biological functions are defined by their contribution to organised persistence, how can they retain their identity when those contributions become impaired?
+Establishing such an attribution requires evidence independent of the immediate outcome. Relevant evidence may include causal organisation, developmental or evolutionary history, compensatory relationships, and comparisons between normal and adverse conditions. Selected-effects accounts (Neander 1991; Garson 2019) and organisational accounts (Mossio, Saborido and Moreno 2009) provide important comparators because they also address the persistence of functional attribution through unsuccessful performance.
 
-APS argues that malfunction is an organisational phenomenon rather than merely an observer's judgement. Biological functions are defined by their viability-oriented organisational role. Malfunction occurs when the organisation responsible for sustaining persistence no longer contributes adequately to that role, whether through degradation, disruption, or failure of coordination. The function remains identifiable because the organisational relation persists even though its effectiveness has been compromised.
+Malfunction, on the APS interpretation, occurs when the performance of an attributable organisational role becomes inadequate relative to the conditions of viability. Its causes may include structural degradation, failed repair, disrupted regulation, developmental disturbance, or loss of coordination among otherwise functioning components. The resulting impairment may remain local, be partly compensated for, or contribute to wider organisational breakdown.
 
-Breakdown may therefore occur through failed repair, destabilised regulation, degraded coordination, disrupted development, or other failures of organisational integration. These failures reveal intrinsic distinctions between continuity-preserving and continuity-undermining organisational states, viable and non-viable trajectories, and effective and ineffective functional organisation.
+These possibilities reveal why malfunction is neither merely an observer's judgement nor simply the absence of a successful outcome. It concerns a demonstrable relationship between an attributable functional role, its actual performance, and the organisational conditions under which that performance matters. APS makes this relationship explicit, while recognising that identifying the relevant mechanism and determining the extent of impairment require case-specific evidence.
 
-Understanding malfunction in this way explains why biological normativity becomes especially apparent when organised persistence is threatened. Malfunction is not simply the absence of successful function or the projection of external evaluative standards. It is the organisational expression of disrupted viability within living systems themselves.
+Malfunction consequently provides an important setting in which biological normativity can be investigated. The distinction between sustaining and undermining conditions becomes especially evident when regulation or repair fails, but the explanatory adequacy of an APS account must still be assessed against established functional, mechanistic, and organisational explanations.
 
 ## Function and Adaptation
 
-How do biological functions remain continuous while living systems continually change?
+Living systems can preserve functional organisation while altering how it is realised. A physiological adjustment may compensate for a changed resource supply; developmental plasticity may produce different structures under different conditions; behavioural flexibility may reduce exposure to a threat. Such cases show how continuity of a functional role can coexist with change in the processes that perform it.
 
-Living systems exist in environments that are constantly changing. Internal organisation is continually modified through development, physiological regulation, ecological interaction, and responses to environmental variation. Yet despite this continual change, living systems preserve the functional organisation required for continued viability. This raises an important biological question. If biological functions are continuously reorganised, in what sense do they remain the same functions?
+These examples must be distinguished from *evolutionary adaptation*. A present response that helps maintain viability has not thereby been shown to result from natural selection. Establishing an evolutionary adaptation requires appropriate historical and population-level evidence, and evolutionary explanations do not have to follow a universal causal sequence from organismal adjustment to selection. Conversely, the historical origin of a trait does not determine whether its current performance remains adequate under changed conditions.
 
-APS argues that biological functions are adaptive because they are organisational rather than structurally fixed. Living systems preserve continuity not by maintaining identical components or behaviours, but by continually reorganising the activity through which viability-oriented organised persistence is sustained.
+APS therefore uses organisational continuity to investigate how functions may be maintained, redistributed, or reconstructed during physiological, behavioural, and developmental change. The same process can involve costs and trade-offs: compensation in one activity may undermine another, and a response beneficial in one environment may become damaging in another. These adverse possibilities are not exceptions to be explained away; they help establish what the functional contribution actually is.
 
-This adaptive organisation is expressed through physiological compensation, behavioural flexibility, developmental plasticity, ecological responsiveness, and continuity-preserving reconstruction. As conditions change, functional relations may shift, compensate for degraded organisation, redistribute activity, or reorganise the conditions under which persistence can be maintained. Adaptation therefore preserves organisational continuity through ongoing reorganisation rather than through static structural constancy.
-
-Understanding function in this way explains why biological organisation remains both stable and flexible. Functional continuity does not require organisational immobility. Instead, living systems preserve themselves by continually reconstructing the organisation through which viability is maintained across changing internal and external conditions.
+The value of the APS perspective is consequently conditional. It may make explicit how changing processes sustain a warranted functional role, but it does not replace evolutionary explanation or demonstrate that every adjustment is adaptive. The relevant biological case determines whether a continuity-based account adds precision beyond existing explanations.
 
 ## Function and Ecological Coupling
 
-Where are biological functions organised?
+Biological functions are often described in relation to an organism's internal structures, yet their performance depends on continuing exchanges with the environment. Metabolism requires resources; development occurs under environmental constraints; behaviour responds to changing surroundings; and some organisms rely on interactions with other species. An account that ignores these dependencies may fail to explain how a functional contribution is maintained.
 
-Biological functions are often described as properties of organisms alone. Yet living systems exist only through continual exchange with their environments. Metabolism depends upon environmental resources, behaviour is shaped by ecological conditions, development unfolds within environmental contexts, and regulation continually responds to external change. This raises an important biological question. Are biological functions entirely internal to organisms, or are they organised across organismâ€“environment relations?
+Dependence, however, must be distinguished from *constitution*. The fact that an organism requires a nutrient, a habitat, or an ecological partner does not by itself establish that the resource or partner belongs to the function-bearing organisation. The explanatory boundary must be justified by the target phenomenon and by evidence concerning the relevant constraints and causal relations.
 
-APS argues that biological functions emerge through organismâ€“environment coupling. Living systems maintain viability not in isolation but through continuous organisational interactions with the conditions that support their persistence. Environmental relations therefore participate directly in the organisation through which living systems preserve themselves across time.
+APS treats the organism as a central locus of biological agency while recognising that functional explanation may extend beyond its physical boundary. In some cases, an environmental condition is best understood as an enabling circumstance; in others, a continuing interaction may be indispensable to explaining how the relevant capacity is realised. Neither classification follows from the mere fact that an interaction occurs.
 
-This coupled organisation is expressed through metabolic organisation, behavioural regulation, developmental continuity, ecological persistence, biological evaluation, semiosis, and adaptive reorganisation. These processes depend upon continual interactions between organisms and their environments rather than upon internally isolated mechanisms alone.
-
-Understanding function in this way explains why organised persistence extends across organismâ€“environment systems without dissolving the organism as the primary locus of biological agency. Environmental conditions contribute directly to the organisation of continued viability because they participate in the constraints through which living systems actively maintain themselves. Biological functions are therefore best understood as organisational achievements realised through ongoing ecological coupling.
+Ecological coupling therefore presents a question about explanatory extent rather than a general licence to dissolve organismal boundaries. The contribution of APS would lie in helping identify which relations matter to viability and how they should be represented in a particular explanation. That contribution must be compared with ecological and systems approaches that already investigate organism–environment dependence.
 
 ## Function Across Spatial and Temporal Extents
 
 Across what spatial and temporal extent must organisation be tracked to establish a functional contribution?
 
 Biological functions are materially realised through particular structures, processes, and activities, but the contribution relevant to functional attribution need not be identifiable from an isolated component considered alone. A molecular interaction may contribute through cellular organisation, cellular activity may contribute through organismal organisation, and organismal activity may depend upon continuing relations with environmental conditions. The spatial and temporal extent relevant to functional explanation must therefore be established for the biological case concerned.
+
+Scale in APS does not impose a fixed hierarchy or a requirement that every function be traced across all levels. The investigator should extend spatial or temporal analysis only as far as the target explanation requires, while preserving the independence of developmental, physiological, ecological, and evolutionary questions where appropriate.
 
 APS treats Scale as an analytic projection of viability-oriented organisation rather than as a hierarchy of biological levels. Functional explanation does not require molecular, cellular, organismal, ecological, developmental, and evolutionary phenomena to be arranged as successive scales. These terms identify different kinds of organisation, relation, process, or historical dependency, and their relevance depends upon the explanatory question being asked.
 
@@ -438,44 +319,55 @@ Function consequently cannot be reduced to an isolated mechanism or localised co
 
 ## Function and Diagnosis
 
-How does an organisational understanding of function inform biological investigation?
+A philosophical account of function has practical relevance when it helps distinguish a component's warranted role from the reasons that its performance is impaired. Biological diagnosis commonly identifies structural defects, altered mechanisms, regulatory disturbances, and failures of coordination. An organisational interpretation can ask how these disturbances affect the conditions required for continued viability and whether compensation or repair has preserved some functions despite local damage.
 
-A theory of biological function should do more than provide conceptual clarity. It should also help explain how living systems can be investigated, interpreted, and diagnosed. This raises an important practical question. If biological functions are organisational contributions to viability-oriented persistence, what follows for empirical biological investigation?
+For example, an impaired component may produce a measurable deficit without immediately compromising the organism's viability because other processes compensate. Conversely, several individually modest disturbances may combine to destabilise a system-level capacity. Such possibilities make the relationship between local mechanism, functional performance, and wider organisation a legitimate target of investigation. They do not establish that APS identifies the disturbance more accurately than existing mechanistic or systems approaches.
 
-APS argues that function has direct diagnostic significance because organised persistence can be maintained, disrupted, compensated for, or restored in identifiable ways. Living systems may therefore be understood through patterns of continuity-preserving regulation, reconstructive organisation, adaptive compensation, biological evaluation, semiotic responsiveness, and coordinated viability-oriented activity. These organisational processes provide evidence of how living systems actively maintain themselves across changing conditions.
+Diagnosis also depends on reference conditions. A change cannot be classified as malfunction merely because it differs from an average, and an adverse outcome does not by itself identify the responsible process. A warranted functional role, evidence of impaired performance, and the conditions under which that impairment matters must be distinguished. This is especially important where development, age, environment, and compensation alter the relevant range of viable functioning.
 
-Diagnosis consequently involves more than identifying structural abnormalities or isolated mechanistic failures. It also requires recognising disruptions in the organisation through which continued viability is sustained. Functional degradation, impaired regulation, disrupted continuity, failures of organisational reconstruction, and degraded evaluative organisation each reveal different ways in which organised persistence may become compromised.
-
-Understanding function in this way establishes an important bridge between APS's explanatory architecture and empirical biological investigation. Rather than treating diagnosis as the identification of defective components alone, APS interprets diagnosis as the investigation of how organisational processes contribute to, or fail to contribute to, the maintenance and re-establishment of viability-oriented organised persistence.
+APS may be useful if its viability-relative vocabulary makes these relationships easier to specify and assess. That possibility requires target-matched tests against strong diagnostic comparators, with explicit criteria and admissible equivalent, null, and adverse outcomes. Until such tests establish a gain, diagnostic usefulness remains a research hypothesis rather than a demonstrated achievement.
 
 ## Why Function and Normativity Matter
 
-Why does resolving the problem of biological function matter?
+The debate over biological function is not merely terminological. It affects how biologists and philosophers distinguish an effect from a role, explain the historical retention of traits, interpret apparent purposiveness, and identify malfunction. It also bears on how regulation, adaptation, organism–environment relations, and biological significance are described. These questions are connected, but a satisfactory explanation need not reduce them to one kind of cause or one theoretical vocabulary.
 
-The debate over biological function is not merely a question of terminology. How biology understands function shapes how it explains purposiveness, normativity, adaptation, malfunction, meaning, and the organisation of living systems more generally. A satisfactory account of function should therefore illuminate many of biology's central conceptual questions rather than addressing function in isolation.
+APS offers a way of making some of those connections explicit. A function is attributed in relation to a warranted viability-relevant organisational contribution; normativity concerns differences between conditions that sustain and undermine living organisation; agency concerns the activity through which that organisation is maintained and modified. Evaluation, semiosis, adaptation, and diagnosis raise further questions, each with its own evidential requirements. Treating these concepts as related does not make them interchangeable or establish a necessary sequence among them.
 
-APS argues that understanding biological function as viability-relative organisational contribution within living organisation provides precisely this broader explanatory framework. Because functional contributions are established relative to viability, they can participate in the ongoing maintenance and re-establishment of living organisation. This helps explain why biological organisation exhibits genuine standards of success and failure, how purposiveness arises without external design or vitalism, and why living systems continuously regulate their own organisation across changing conditions.
+The most demanding test arises when a process fails. An account that identifies function solely with present success cannot explain why the failing process still has a function. The distinction between functional attribution and successful performance therefore provides a point at which competing theories can be compared using actual biological cases. Similarly, mechanistic and ecological examples can test whether an explicit viability-relative formulation adds clarity or simply restates relationships already recognised by established explanations.
 
-This organisational perspective also clarifies how biological significance emerges through evaluation, how semiosis organises biologically meaningful differences, how adaptation preserves continuity through continual reconstruction, how mechanisms contribute to organised persistence, and why malfunction represents a genuine disruption of living organisation rather than merely an observer's judgement.
-
-Understanding function in this way therefore unifies a series of problems that have often been treated independently. Rather than requiring separate explanations for purposiveness, normativity, evaluation, semiosis, adaptation, malfunction, and biological meaning, APS shows how each follows from the organisation of viability-oriented persistence itself.
-
-APS therefore naturalises biological significance through viability-oriented organised persistence, providing an integrated organisational account of function and normativity within living systems.
+APS's proposed contribution is thus integrative and methodological rather than a claim to have discovered organisational function or normativity. It may help make relationships among biological concepts more precise, assessable, and usable across domains. Whether it does so better than its strongest comparators remains an open scientific and philosophical question.
 
 <div class="aps-diagram"> <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-clarification-map.png" alt="APS clarification map" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>APS Clarification Map.</strong> APS naturalises normativity, function, semiosis, and meaning through viability-oriented organised persistence without reductionism, vitalism, or externally imposed teleology. </p> </div>
 
-The question is therefore no longer simply what biological functions are, but what understanding biological function reveals about the organisation of life itself.
-
 ## Conclusion
 
-What makes a biological process a function rather than merely something that happens? This article has argued that biological functions are viability-relative organisational contributions within living organisation. Such contributions participate in the continual maintenance, regulation, and re-establishment of the conditions through which a living system persists.
+Biological function is not exhausted by the effects a structure or process happens to produce. APS interprets function as a viability-relative organisational contribution, while recognising that causal-role, selected-effects, and established organisational theories address important and sometimes different explanatory questions. Its account is therefore best understood as a bounded interpretation within an existing field of philosophical inquiry.
 
-Understanding function in this way also explains why biological normativity is an intrinsic feature of life rather than an externally imposed standard. Living systems exist under conditions in which organised persistence can succeed or fail, continuity can be maintained or disrupted, and viability can be preserved or lost. These organisational asymmetries establish genuine standards of biological success and failure without appealing to external purposes, conscious judgement, or symbolic representation.
+The distinction between functional attribution and performance is central. A function may remain attributable during impairment, provided the role is supported by appropriate organisational, causal, or historical evidence. This permits malfunction to be investigated without defining it away. Normativity is likewise grounded in real differences between conditions that sustain or undermine viable organisation, although identifying those differences does not automatically reveal which component has failed or which explanation is best.
 
-From this organisational foundation follow many of the phenomena that have traditionally required separate explanations. Agency enacts functional organisation, evaluation operationalises biological normativity, semiosis organises biologically significant differences, adaptation reconstructs continuity across changing conditions, and malfunction reveals disruptions in the organisation of viability. Biological function therefore provides a unifying explanatory framework through which these phenomena become intelligible as interdependent aspects of viability-oriented organised persistence.
+These distinctions help organise questions about biological agency, temporal regulation, evaluation, semiosis, adaptation, ecological coupling, and diagnosis. They do not establish that every relation follows from one principle or that APS offers superior explanations in every domain. Where the APS formulation makes a specific biological relationship more precise or useful, that gain should be demonstrated against the strongest relevant comparator. Where it does not, an equivalent redescription is an acceptable result.
 
-APS consequently naturalises function and normativity by showing how biological significance arises through the organisation of life itself. Biological explanation is therefore directed not simply towards identifying mechanisms or describing evolutionary histories, but towards understanding how living systems actively maintain and re-establish the organisational conditions of their own persistence across time, across interacting organisational domains, and through continual engagement with their environments.
+The philosophical value of the APS account therefore lies in a disciplined proposal: to examine functional contributions as part of viability-oriented living organisation, while keeping the evidential and explanatory demands of the different biological questions in view.
 
-# Key Point
-
+## Key Point
 Biological functions are viability-relative organisational contributions within living organisation. They matter because such contributions participate in the activity through which living systems maintain, regulate, and reconstruct the conditions of their own persistence.
+
+## Explanatory Architecture
+
+### Central Question
+What warrants attribution of a biological function, and how can its performance be assessed as successful, impaired, or defective without externally imposed purposes?
+
+### Architectural Role
+This article situates APS’s viability-relative interpretation of function and normativity among causal-role, selected-effects, and organisational theories, with special attention to the distinction between functional attribution and performance.
+
+### Preceding Explanatory Dependencies
+Living organisation, constraint closure, viability, organised persistence, and the explanatory differences among historical, mechanistic, and organisational accounts provide the conceptual setting. These are analytic dependencies, not successive causal stages.
+
+### Subsequent Explanatory Developments
+Questions of agency, evaluation, biological significance, semiosis, malfunction, adaptation, ecological coupling, and diagnosis can be investigated in relation to function. No necessary causal sequence among these categories is presumed.
+
+### Related Explanatory Questions
+What evidence establishes a role despite failed performance? When does ecological dependence amount to constitutive organisation? What spatial or temporal extent is required? Does the APS articulation improve a target-matched explanation over its strongest comparator?
+
+### Position Within APS
+Function and normativity concern viability-relative relationships within living organisation. Agency, Process, and Scale are complementary projections of that organisation, not independent substances or a hierarchy. Any claim of distinctive scientific gain remains conditional on comparative testing.

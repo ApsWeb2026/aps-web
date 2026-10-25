@@ -5652,3 +5652,56 @@ references:
     status: verified
     authority: Oxford University Press / Oxford Academic
     verifiedDate: 2026-10-25
+- id: cummins-1975-functional-analysis
+  type: journal-article
+  authors: Cummins, R.
+  year: 1975
+  title: Functional Analysis
+  journal: The Journal of Philosophy
+  volume: '72'
+  issue: '20'
+  pages: 741–765
+  doi: 10.2307/2024640
+  verification:
+    status: verified
+    authority: The Journal of Philosophy / JSTOR
+    verifiedDate: 2026-10-25
+- id: neander-1991-functions-selected-effects
+  type: journal-article
+  authors: Neander, K.
+  year: 1991
+  title: "Functions as Selected Effects: The Conceptual Analyst's Defense"
+  journal: Philosophy of Science
+  volume: '58'
+  issue: '2'
+  pages: 168–184
+  doi: 10.1086/289610
+  verification:
+    status: verified
+    authority: Cambridge University Press / Philosophy of Science
+    verifiedDate: 2026-10-25
+- id: godfrey-smith-1993-functions
+  type: journal-article
+  authors: Godfrey-Smith, P.
+  year: 1993
+  title: 'Functions: Consensus Without Unity'
+  journal: Pacific Philosophical Quarterly
+  volume: '74'
+  issue: '3'
+  pages: 196–208
+  doi: 10.1111/j.1468-0114.1993.tb00358.x
+  verification:
+    status: verified
+    authority: Wiley
+    verifiedDate: 2026-10-25
+- id: garson-2019-biological-functions
+  type: book
+  authors: Garson, J.
+  year: 2019
+  title: What Biological Functions Are and Why They Matter
+  publisher: Cambridge University Press
+  doi: 10.1017/9781108560764
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-25
