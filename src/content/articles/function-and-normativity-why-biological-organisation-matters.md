@@ -175,7 +175,10 @@ In some investigations, explicitly connecting a mechanism to the conditions of v
 
 [[box:aps-box-mechanism-and-organisational-context]]
 
-<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-mechanism.png" alt="Mechanism within organised persistence" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Mechanism Within Organised Persistence.</strong> Mechanisms become biologically intelligible through their contribution to continuity-preserving viability-oriented organisation. </p> </div>
+<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-mechanism.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-mechanism.png" alt="Mechanism within organised persistence" loading="lazy" /> </a> <<p class="aps-diagram-caption">
+  <strong>Mechanism Within Organised Persistence.</strong>
+  Mechanisms explain how biological processes operate. APS additionally examines how their effects contribute to, maintain, or disrupt viability-oriented living organisation, without presuming that mechanistic explanations are otherwise incomplete.
+</p> </div>
 
 ## Function and Temporal Organisation
 
@@ -241,7 +244,12 @@ APS thus situates semiosis among the possible forms of viability-relevant organi
 
 [[box:aps-box-meaning-develops-from-evaluative-significance]]
 
-<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-semiosis.png" alt="Semiosis and evaluative meaning in APS" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>Semiosis and Evaluative Meaning.</strong> Differences become biologically meaningful because they matter differently relative to viability-oriented organised persistence. </p> </div>
+<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-semiosis.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-semiosis.png" alt="Semiosis and evaluative meaning in APS" loading="lazy" /> </a> 
+<p class="aps-diagram-caption">
+  <strong>Semiosis and Evaluative Meaning.</strong>
+  Biological significance concerns differences relevant to viability, while semiosis requires an identifiable sign-related or interpretative relationship. Viability-relative evaluation does not by itself establish semiosis or meaning.
+</p>
+   </div>
 
 ## Function, Malfunction, and Breakdown
 
@@ -313,7 +321,12 @@ The most demanding test arises when a process fails. An account that identifies 
 
 APS's proposed contribution is thus integrative and methodological rather than a claim to have discovered organisational function or normativity. It may help make relationships among biological concepts more precise, assessable, and usable across domains. Whether it does so better than its strongest comparators remains an open scientific and philosophical question.
 
-<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-clarification-map.png" alt="APS clarification map" loading="lazy" /> </a> <p class="aps-diagram-caption"> <strong>APS Clarification Map.</strong> APS naturalises normativity, function, semiosis, and meaning through viability-oriented organised persistence without reductionism, vitalism, or externally imposed teleology. </p> </div>
+<div class="aps-diagram"> <a href="/assets/diagrams/philosophy-clarification-map.png" target="_blank" rel="noopener"> <img src="/assets/diagrams/philosophy-clarification-map.png" alt="APS clarification map" loading="lazy" /> </a> 
+<p class="aps-diagram-caption">
+  <strong>APS Clarification Map.</strong>
+  APS examines how biological function and viability-relative normativity relate to agency, process, and scale within living organisation. These relationships are analytically distinguishable rather than stages in a universal causal sequence, and claims of distinctive explanatory gain require comparison with established alternatives.
+</p>
+   </div>
 
 ## Conclusion
 
