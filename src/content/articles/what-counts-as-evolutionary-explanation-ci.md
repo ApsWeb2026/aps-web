@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-10-22
+revised: 2026-10-26
 cluster: methodology-and-explanation
 role: clarification
 
@@ -44,63 +44,16 @@ relatedArticles:
   - evolution-taxonomy-and-the-reorganisation-of-biological-explanation
 
 references:
-  - id: darwin1859
-    authors: "Darwin, C."
-    year: 1859
-    title: "On the Origin of Species"
-    source: "John Murray"
-
-  - id: mayr1982
-    authors: "Mayr, E."
-    year: 1982
-    title: "The Growth of Biological Thought: Diversity, evolution, and Inheritance"
-    source: "Harvard University Press"
-
-  - id: lewontin1970
-    authors: "Lewontin, R. C."
-    year: 1970
-    title: "The Units of Selection"
-    journal: "Annual Review of Ecology and Systematics"
-    volume: "1"
-    pages: "1–18"
-    doi: "10.1146/annurev.es.01.110170.000245"
-
-  - id: oyama2000
-    authors: "Oyama, S."
-    year: 2000
-    title: "The Ontogeny of Information"
-    source: "Duke University Press"
-
-  - id: west-eberhard2003
-    authors: "West-Eberhard, M. J."
-    year: 2003
-    title: "Developmental Plasticity and evolution"
-    source: "Oxford University Press"
-
-  - id: godfrey-smith2009
-    authors: "Godfrey-Smith, P."
-    year: 2009
-    title: "Darwinian Populations and Natural Selection"
-    source: "Oxford University Press"
-
-  - id: nicholson2019
-    authors: "Nicholson, D. J., & Dupré, J."
-    year: 2019
-    title: "Everything Flows: Towards a Processual Philosophy of Biology"
-    source: "Oxford University Press"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
-  - id: hull1980
-    authors: "Hull, D. L."
-    year: 1980
-    title: "Individuality and Selection"
-    journal: "Annual Review of Ecology and Systematics"
-    volume: "11"
-    pages: "311–332"
+  - darwin-1859-origin
+  - mayr-1982-growth-biological-thought
+  - lewontin-1970-units-selection
+  - oyama-2000-ontogeny-information
+  - west-eberhard-2003-developmental-plasticity
+  - godfrey-smith-2009-darwinian-populations
+  - nicholson-dupre-2018-everything-flows
+  - moreno-mossio-2015-biological-autonomy
+  - hull-1980-individuality-selection
+  - bourrat-2026-three-kinds-equivalence-levels-selection
 ---
 
 ## Introduction
@@ -205,6 +158,8 @@ Evolutionary explanations routinely involve genes, cells, tissues, organisms, be
 This perspective helps explain why no single scale can exhaust evolutionary explanation. Genes are indispensable participants in evolutionary organisation, yet genes alone do not explain viability, development, adaptation, agency, or persistence. Equally, organismal, ecological, and population-level explanations remain dependent upon processes occurring across other scales of organisation. Evolutionary understanding therefore requires explanatory integration rather than explanatory reduction.
 
 APS accordingly interprets evolution as a multiscale process of historical transformation occurring within interconnected systems of organised persistence. Evolutionary explanation succeeds to the extent that it captures these reciprocal organisational relations rather than privileging any single scale as uniquely explanatory.
+
+The explanatory significance of biological scale also depends upon the information preserved by descriptions formulated at different levels. Bourrat (2026) distinguishes state-space, kinematic, and dynamic equivalence in models of multilevel selection, showing that descriptions may agree in their representation of evolutionary outcomes without being equivalent in their treatment of evolutionary dynamics. TThis distinction reinforces the need to assess the informational and explanatory contribution of particular descriptions rather than assuming that a change in descriptive scale necessarily constitutes an explanatory improvement. APS does not adopt these formal equivalence criteria as universal requirements, but recognises their relevance to the comparative assessment of evolutionary explanations.
 
 [[box:spatiotemporal-organisation-and-scale]]
 

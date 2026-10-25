@@ -5705,3 +5705,229 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: 2026-10-25
+- id: bourrat-2026-three-kinds-equivalence-levels-selection
+  type: journal-article
+  authors: Bourrat, P.
+  year: 2026
+  title: 'Three kinds of equivalence for levels of selection: an information-based approach'
+  journal: Biology & Philosophy
+  volume: '41'
+  article-number: '29'
+  doi: 10.1007/s10539-026-10031-x
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: 2026-10-25
+- id: lewontin-1970-units-selection
+  type: journal-article
+  authors: Lewontin, R. C.
+  year: 1970
+  title: The Units of Selection
+  journal: Annual Review of Ecology and Systematics
+  volume: '1'
+  pages: 1–18
+  doi: 10.1146/annurev.es.01.110170.000245
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-10-25
+- id: hull-1980-individuality-selection
+  type: journal-article
+  authors: Hull, D. L.
+  year: 1980
+  title: Individuality and Selection
+  journal: Annual Review of Ecology and Systematics
+  volume: '11'
+  pages: 311–332
+  doi: 10.1146/annurev.es.11.110180.001523
+  verification:
+    status: verified
+    authority: Annual Reviews
+    verifiedDate: 2026-10-25
+- id: aristotle-1965-history-animals
+  type: book
+  authors: Aristotle
+  year: 1965
+  title: 'History of Animals, Volume I: Books I–III'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Wellcome Collection / Loeb Classical Library
+    verifiedDate: 2026-10-26
+- id: aristotle-1943-generation-animals
+  type: book
+  authors: Aristotle
+  year: 1943
+  title: Generation of Animals
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Nature / Loeb Classical Library publication record
+    verifiedDate: 2026-10-26
+- id: theophrastus-1916-enquiry-plants
+  type: book
+  authors: Theophrastus
+  year: 1916
+  title: 'Enquiry into Plants, Volume I: Books I–V'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Harvard University Press
+    verifiedDate: 2026-10-26
+- id: theophrastus-1976-causes-plants
+  type: book
+  authors: Theophrastus
+  year: 1976
+  title: 'De Causis Plantarum, Volume I: Books I–II'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Wellcome Collection / National Library of Ireland
+    verifiedDate: 2026-10-26
+- id: gotthelf-1987-aristotle-final-causality
+  type: book-chapter
+  authors: Gotthelf, A.
+  year: 1987
+  title: "Aristotle's Conception of Final Causality"
+  book-title: "Philosophical Issues in Aristotle's Biology"
+  editors: Gotthelf, A., & Lennox, J. G.
+  publisher: Cambridge University Press
+  pages: 204–242
+  doi: 10.1017/CBO9780511552564.013
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-26
+- id: gotthelf-lennox-1987-philosophical-issues
+  type: edited-book
+  editors: Gotthelf, A., & Lennox, J. G.
+  year: 1987
+  title: "Philosophical Issues in Aristotle's Biology"
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press / Stanford Encyclopedia of Philosophy
+    verifiedDate: 2026-10-26
+- id: lennox-2001-aristotle-philosophy-biology
+  type: book
+  authors: Lennox, J. G.
+  year: 2001
+  title: "Aristotle's Philosophy of Biology: Studies in the Origins of Life Science"
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press / Author publication record
+    verifiedDate: 2026-10-26
+- id: leunissen-2010-explanation-teleology
+  type: book
+  authors: Leunissen, M.
+  year: 2010
+  title: "Explanation and Teleology in Aristotle's Science of Nature"
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511762499
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-26
+- id: johnson-2005-aristotle-teleology
+  type: book
+  authors: Johnson, M. R.
+  year: 2005
+  title: Aristotle on Teleology
+  publisher: Oxford University Press
+  doi: 10.1093/0199285306.001.0001
+  verification:
+    status: verified
+    authority: Oxford University Press / Oxford Academic
+    verifiedDate: 2026-10-26
+- id: leroi-2014-lagoon
+  type: book
+  authors: Leroi, A. M.
+  year: 2014
+  title: 'The Lagoon: How Aristotle Invented Science'
+  publisher: Bloomsbury Circus
+  verification:
+    status: verified
+    authority: Wellcome Collection / Bloomsbury Publishing
+    verifiedDate: 2026-10-26
+- id: lloyd-1968-aristotle-growth-structure
+  type: book
+  authors: Lloyd, G. E. R.
+  year: 1968
+  title: 'Aristotle: The Growth and Structure of His Thought'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: University of Cambridge / Wellcome Collection
+    verifiedDate: 2026-10-26
+- id: pellegrin-1986-aristotle-classification
+  type: book
+  authors: Pellegrin, P.
+  year: 1986
+  title: "Aristotle's Classification of Animals: Biology and the Conceptual Unity of the Aristotelian Corpus"
+  publisher: University of California Press
+  verification:
+    status: verified
+    authority: University of California Press / JSTOR
+    verifiedDate: 2026-10-26
+- id: barnes-1982-aristotle
+  type: book
+  authors: Barnes, J.
+  year: 1982
+  title: Aristotle
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Open British National Bibliography
+    verifiedDate: 2026-10-26
+- id: falcon-2005-aristotle-science-nature
+  type: book
+  authors: Falcon, A.
+  year: 2005
+  title: 'Aristotle and the Science of Nature: Unity without Uniformity'
+  publisher: Cambridge University Press
+  doi: 10.1017/CBO9780511482519
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-26
+- id: aristotle-1991-history-animals-balme
+  type: book
+  authors: Aristotle
+  year: 1991
+  title: 'History of Animals, Volume III: Books VII–X'
+  publisher: Harvard University Press
+  verification:
+    status: verified
+    authority: Wellcome Collection / Loeb Classical Library
+    verifiedDate: 2026-10-26
+- id: aristotle-2016-de-anima-shields
+  type: book
+  authors: Aristotle
+  year: 2016
+  title: 'De Anima: Translation, Introduction and Commentary'
+  publisher: Oxford University Press
+  verification:
+    status: verified
+    authority: Oxford Academic / Clarendon Aristotle Series
+    verifiedDate: 2026-10-26
+- id: aristotle-1984-complete-works-barnes
+  type: edited-book
+  editors: Barnes, J.
+  year: 1984
+  title: 'The Complete Works of Aristotle: The Revised Oxford Translation'
+  publisher: Princeton University Press
+  verification:
+    status: verified
+    authority: Wellcome Collection / Princeton University Press
+    verifiedDate: 2026-10-26
+- id: henry-2019-aristotle-matter-form-moving-causes
+  type: book
+  authors: Henry, D.
+  year: 2019
+  title: 'Aristotle on Matter, Form, and Moving Causes'
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-26
