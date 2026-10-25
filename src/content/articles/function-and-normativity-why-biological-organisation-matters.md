@@ -106,37 +106,13 @@ Distinguishing these senses is important for APS because its account of function
 The principal comparators warrant explicit recognition. Cummins (1975) analyses a function as a causal contribution to a system capacity; Wright (1973), Millikan (1984), and Neander (1991) develop historically oriented or selected-effects approaches; and Mossio, Saborido and Moreno (2009) develop an organisational account grounded in self-maintenance. Godfrey-Smith (1993) cautions against assuming a single unified function concept, while Garson (2016, 2019) examines the strengths and limits of competing approaches. The APS account should be assessed as one answer to a specified organisational question, not as a replacement for every other use of function.
 
 <div class="aps-diagram">
-
   <a href="/assets/diagrams/philosophy-function.png" target="_blank" rel="noopener">
-
-    <img
-
-      src="/assets/diagrams/philosophy-function.png"
-
-      alt="Comparison of causal-role, selected-effect, organisational, teleonomic, developmental, and ecological senses of biological function and their relationship to the APS account."
-
-      loading="lazy"
-
-    />
-
+    <img src="/assets/diagrams/philosophy-function.png" alt="Comparison of causal-role, selected-effect, organisational, teleonomic, developmental, and ecological senses of biological function and their relationship to the APS account." loading="lazy" />
   </a>
-
   <p class="aps-diagram-caption">
-
     <strong>Different Senses of Biological Function.</strong>
-
-    Biological uses of function answer different explanatory questions. APS
-
-    distinguishes causal contribution, evolutionary history, developmental
-
-    role, ecological effect, and goal-directed description from the more
-
-    specific viability-relative organisational relation that warrants
-
-    functional attribution within living organisation.
-
+    Biological uses of function answer different explanatory questions. APS distinguishes causal contribution, evolutionary history, developmental role, ecological effect, and goal-directed description from the more specific viability-relative organisational relation that warrants functional attribution within living organisation.
   </p>
-
 </div>
 
 The distinctions in the table are explanatory rather than hierarchical. They do not arrange biological functions into successive stages or imply that one kind of explanation must replace the others. A selected-effect explanation, for example, can explain why a trait was historically established or retained, while a present-tense organisational explanation can ask what contribution that trait now makes within living organisation. These questions can be compatible without being identical.
