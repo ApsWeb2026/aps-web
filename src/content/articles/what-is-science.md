@@ -77,7 +77,7 @@ Ancient Greek investigations were only one part of a larger history. Mathematica
 
 In early modern Europe, changes in printing, navigation, instruments, commerce, learned institutions and approaches to natural philosophy helped transform the scale and organisation of investigation. The expression *Scientific Revolution* names important developments of roughly the sixteenth and seventeenth centuries, but historians dispute how revolutionary, unified or geographically self-contained they were. Nicolaus Copernicus reorganised planetary astronomy; Johannes Kepler found mathematical relationships in planetary motions; Galileo Galilei used telescopic observations and mathematical arguments to challenge established cosmological assumptions; William Harvey investigated the circulation of blood; and Isaac Newton brought terrestrial and celestial motions within a powerful mathematical framework. These figures did not share one identical method. Their work nevertheless made new demands upon the relationship between explanation and evidence.
 
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 1.5em;">
   <img
     src="/images/history/galileo-moon-1610.png"
     alt="Galileo's drawings of the lunar surface, showing variations in light and shadow observed through a telescope."
@@ -102,7 +102,7 @@ This does not make observation arbitrary. The resistance of the world is precise
 
 Consider the early history of microscopy. Robert Hooke's *Micrographia* (1665) offered striking illustrations of previously unseen structures, including the compartments in cork to which he applied the term *cells*. He did not thereby discover the modern biological cell as a living unit with the characteristics later established by cell theory. That interpretation required subsequent observations, instruments and conceptual developments. The History of Ideas article *How Did the Cell Become the Unit of Life?* examines this longer transformation. Here the episode illustrates a general point: a new instrument may reveal phenomena before scientists understand what those phenomena signify.
 
-<figure>
+<figure style="margin-bottom: 1.5em;">
   <img
     src="/images/history/hooke-micrographia-cork-1665.jpg"
     alt="Robert Hooke's microscopic illustration of cork from Micrographia, published in 1665."
@@ -153,7 +153,7 @@ It would be misleading to conclude that Kuhn proved scientific theories are mere
 
 Geology and evolutionary biology make especially clear why scientific change cannot be understood only as laboratory falsification. The recognition of deep geological time depended on stratigraphy, fossils, physical processes and eventually radiometric dating. The historical development of these methods is examined in *The Chronometric Revolution — Time, Scale and Biological Explanation*. Evolutionary theory likewise brought together observations of variation, geographical distribution, fossils, heredity and adaptation into new explanations of life's diversity. Darwin and Alfred Russel Wallace jointly presented accounts of natural selection in 1858; Darwin's *On the Origin of Species* appeared in 1859. The History of Ideas essay on the transformation of evolutionary explanation follows this history beyond a single famous publication.
 
-<figure>
+<figure style="margin-bottom: 1.5em;">
   <img
     src="/images/history/william-smith-geological-map-1815.jpg"
     alt="William Smith's 1815 geological map showing the distribution of geological strata across England, Wales and part of Scotland."
