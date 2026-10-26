@@ -69,7 +69,7 @@ The history of science is therefore more than a parade of discoveries. It is als
 
 ## The Historical Emergence of Scientific Inquiry
 
-There was no single moment at which science began. Long before the modern word acquired its present meaning, people observed seasonal cycles, cultivated plants, treated disease, measured land, navigated by the heavens, worked metals and devised mathematical techniques. Practical knowledge was not always organised as a distinct intellectual enterprise, but it supplied problems, skills and observations on which later investigations depended. Different cultures developed sophisticated traditions in astronomy, mathematics, medicine and natural history; their contributions were neither identical nor reducible to a single line of descent.
+There was no single moment at which science began. Long before the modern word 'science' acquired its present meaning, people observed seasonal cycles, cultivated plants, treated disease, measured land, navigated by the heavens, worked metals and devised mathematical techniques. Practical knowledge was not always organised as a distinct intellectual enterprise, but it supplied problems, skills and observations on which later investigations depended. Different cultures developed sophisticated traditions in astronomy, mathematics, medicine and natural history; their contributions were neither identical nor reducible to a single line of descent.
 
 In ancient Greek philosophy, questions about the natural world became linked to systematic arguments about explanation and knowledge. Plato distinguished changing appearances from the intelligible objects of secure knowledge, while Aristotle sought causes within the natural world itself. Aristotle's works on animals, logic and natural philosophy combined observation, comparison, classification and reasoning about causes. The familiar caricature of an Aristotle who simply deduced nature from abstract principles misses the investigative character of much of his biological work. The separate History of Ideas article on Aristotle explores that contribution in greater depth.
 
@@ -77,7 +77,7 @@ Ancient Greek investigations were only one part of a larger history. Mathematica
 
 In early modern Europe, changes in printing, navigation, instruments, commerce, learned institutions and approaches to natural philosophy helped transform the scale and organisation of investigation. The expression *Scientific Revolution* names important developments of roughly the sixteenth and seventeenth centuries, but historians dispute how revolutionary, unified or geographically self-contained they were. Nicolaus Copernicus reorganised planetary astronomy; Johannes Kepler found mathematical relationships in planetary motions; Galileo Galilei used telescopic observations and mathematical arguments to challenge established cosmological assumptions; William Harvey investigated the circulation of blood; and Isaac Newton brought terrestrial and celestial motions within a powerful mathematical framework. These figures did not share one identical method. Their work nevertheless made new demands upon the relationship between explanation and evidence.
 
-<figure>
+<figure style="text-align: center;">
   <img
     src="/images/history/galileo-moon-1610.png"
     alt="Galileo's drawings of the lunar surface, showing variations in light and shadow observed through a telescope."
@@ -88,6 +88,7 @@ In early modern Europe, changes in printing, navigation, instruments, commerce, 
     Drawings published in <em>Sidereus Nuncius</em>, illustrating features of the lunar surface revealed through telescopic observation. They exemplify the changing relationship between instruments, observation and cosmological interpretation. Public domain. Source: Galileo Galilei (1610), reproduction via Wikimedia Commons.
   </figcaption>
 </figure>
+
 
 Francis Bacon argued that inquiry should not rush from a few familiar examples to universal conclusions. His *Novum Organum* (1620) called for disciplined investigation and warned against recurrent sources of error, which he termed *idols*. Bacon's programme was not simply the instruction to gather observations. It involved organising evidence, examining alternatives and deliberately correcting habits of thought. In practice, early modern scientific achievements arose from combinations of mathematical deduction, observation, experiment, craftsmanship and argument, not from universal obedience to Bacon's prescriptions.
 
@@ -113,6 +114,7 @@ Consider the early history of microscopy. Robert Hooke's *Micrographia* (1665) o
   </figcaption>
 </figure>
 
+
 Objectivity is often taken to mean that an investigator has no standpoint, interests or expectations. Such complete detachment is neither attainable nor necessary. More useful is the aspiration to make claims answerable to standards that do not depend merely on the authority or preferences of the claimant. Accurate records, calibration, experimental controls, transparent analysis, criticism by differently situated investigators and independent replication or corroboration can all contribute. What counts as an appropriate check varies with the question. One cannot replicate a particular ancient volcanic eruption, but one can compare independent geological records, dating methods and predictions derived from competing reconstructions.
 
 Scientific objectivity also has a history. Ideas of faithful depiction, mechanical recording, trained judgement and collective criticism have been emphasised differently at different times. Nor are scientific communities immune to exclusion, prestige, financial incentives or political pressures. The appropriate conclusion is neither that science is perfectly impartial nor that it is only another expression of social power. Rather, objectivity is an achievement that must be cultivated and continually examined.
@@ -128,18 +130,6 @@ Much of the philosophy of science has been a search for the reasoning that makes
 **Abduction**, often described as inference to the best explanation, asks which proposed account would best make sense of the available evidence. Charles Sanders Peirce developed a distinctive account of abductive reasoning, while later philosophers analysed its relationship to explanatory virtues and evidence. For example, evidence of common ancestry in biology is not confined to one repeated experiment. It arises from converging patterns in comparative anatomy, fossils, geography, development and molecular sequences. A compelling explanation must account for this convergence while remaining open to competing hypotheses and new evidence.
 
 These forms of reasoning are not rival schools among which science must choose once and for all. They frequently cooperate. An investigator may infer a possible explanation abductively, deduce consequences from it, and use inductive or statistical evidence to assess how well those consequences are supported. The procedures differ across research contexts.
-
-<figure>
-  <img
-    src="/images/history/scientific-reasoning.png"
-    alt="Deduction, induction and abduction represented as distinct forms of inference, all open to critical testing and revision."
-    loading="lazy"
-  />
-  <figcaption>
-    <strong>Figure 3. Different forms of scientific reasoning.</strong>
-    Deduction, induction and abduction perform different inferential roles. Critical testing and revision can contribute to evaluating each. Original explanatory diagram (2026).
-  </figcaption>
-</figure>
 
 William Whewell's nineteenth-century philosophy provides an illuminating bridge between Bacon and later debates. Whewell argued that scientific discovery requires more than collecting facts. Investigators bring ideas to bear upon observations, organising them through what he called the *colligation of facts*. Confidence can grow when independently developed lines of inquiry converge, a pattern he called the *consilience of inductions*. This was an early recognition that scientific progress involves both evidence and conceptual invention.
 
@@ -174,6 +164,7 @@ Geology and evolutionary biology make especially clear why scientific change can
     Smith's pioneering geological map illustrates how systematic field observations, comparison of strata and spatial representation contributed to reconstructing Earth's geological history. It exemplifies scientific investigation that does not depend upon repeating past events experimentally. Historical map, public domain.
   </figcaption>
 </figure>
+
 
 These episodes reveal different forms of progress. Sometimes a theory is replaced. Sometimes its range is restricted while it remains useful within a domain. Sometimes improved measurement sharpens an existing explanation; sometimes a new concept makes previously disconnected observations intelligible together. Scientific progress is therefore neither a simple march towards final truth nor a sequence of unrelated fashions. Its assessment requires attention to what particular investigations have actually established.
 
