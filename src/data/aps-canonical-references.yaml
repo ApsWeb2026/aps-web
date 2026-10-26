@@ -5931,3 +5931,76 @@ references:
     status: verified
     authority: Cambridge University Press
     verifiedDate: 2026-10-26
+- id: bacon-1620-novum-organum
+  type: book
+  authors: Bacon, F.
+  year: 1620
+  title: Novum Organum
+  verification:
+    status: verified
+    authority: Folger Shakespeare Library, Catalogue of English Literary Manuscripts
+    verifiedDate: 2026-10-26
+- id: hume-1748-philosophical-essays
+  type: book
+  authors: Hume, D.
+  year: 1748
+  title: Philosophical Essays Concerning Human Understanding
+  publisher: A. Millar
+  verification:
+    status: verified
+    authority: Wellcome Collection; Hume Texts Online
+    verifiedDate: 2026-10-26
+- id: whewell-1840-philosophy-inductive-sciences
+  type: book
+  authors: Whewell, W.
+  year: 1840
+  title: "The Philosophy of the Inductive Sciences, Founded Upon Their History"
+  publisher: John W. Parker
+  volumes: 2
+  verification:
+    status: verified
+    authority: Cambridge University Press; WorldCat
+    verifiedDate: 2026-10-26
+- id: popper-1959-logic-scientific-discovery
+  type: book
+  authors: Popper, K. R.
+  year: 1959
+  title: The Logic of Scientific Discovery
+  publisher: Hutchinson
+  verification:
+    status: verified
+    authority: WorldCat; Routledge
+    verifiedDate: 2026-10-26
+- id: kuhn-1962-structure-scientific-revolutions
+  type: book
+  authors: Kuhn, T. S.
+  year: 1962
+  title: The Structure of Scientific Revolutions
+  publisher: University of Chicago Press
+  verification:
+    status: verified
+    authority: University of Chicago Press
+    verifiedDate: 2026-10-26
+- id: lakatos-1978-methodology-research-programmes
+  type: book
+  authors: Lakatos, I.
+  editors: Worrall, J., & Currie, G.
+  year: 1978
+  title: The Methodology of Scientific Research Programmes
+  volume: 1
+  publisher: Cambridge University Press
+  verification:
+    status: verified
+    authority: Cambridge University Press
+    verifiedDate: 2026-10-26
+- id: daston-galison-2007-objectivity
+  type: book
+  authors: Daston, L., & Galison, P.
+  year: 2007
+  title: Objectivity
+  publisher: Zone Books
+  verification:
+    status: verified
+    authority: Zone Books; Wellcome Collection
+    verifiedDate: 2026-10-26
+
