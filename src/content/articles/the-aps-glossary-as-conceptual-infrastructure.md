@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-03
-revised: 2026-10-17
+revised: 2026-10-27
 cluster: methodology-and-explanation
 role: clarification
 abstract: >
@@ -32,9 +32,8 @@ relatedArticles:
   - what-is-aps
 ---
 
-> **Where This Article Fits**
->
-> This article explains how the APS glossary functions as conceptual infrastructure within the APS framework. APS uses canonical definitions, controlled terminology, documented conceptual relationships, and explicit revision procedures to maintain consistency across its corpus. The glossary therefore serves a role that extends beyond providing isolated definitions. It supports consistent pathway specification, explanatory practice, and domain-specific development without itself establishing biological dependencies or explanatory claims. For the broader APS account of organised conceptual relationships, see *APS as an Organised Conceptual System — Why Definitions Form a System*.
+**Where This Article Fits**
+*This article explains how the APS glossary functions as conceptual infrastructure within the APS framework. APS uses canonical definitions, controlled terminology, documented conceptual relationships, and explicit revision procedures to maintain consistency across its corpus. The glossary therefore serves a role that extends beyond providing isolated definitions. It supports consistent pathway specification, explanatory practice, and domain-specific development without itself establishing biological dependencies or explanatory claims. For the broader APS account of organised conceptual relationships, see *APS as an Organised Conceptual System — Why Definitions Form a System*.
 
 ## Conceptual Infrastructure
 
@@ -52,6 +51,13 @@ The glossary functions as infrastructure because it helps make those relationshi
 
 [[box:conceptual-closure-and-the-aps-glossary]]
 
+### Why APS Uses Controlled Terminology
+
+APS does not reject established biological terminology or regard conventional scientific concepts as intrinsically misleading. Terms such as information, regulation, function, mechanism, learning, memory, cognition and purpose perform indispensable roles in biological explanation. Difficulties arise when terms are used differently across disciplines, when assumptions appropriate to one context are transferred without justification to another, or when differences in vocabulary are mistaken for differences in biological explanation. APS therefore employs controlled terminology to make its explanatory commitments explicit and to distinguish questions that might otherwise become conflated.
+
+These distinctions are particularly important where biological activity is described using concepts associated with human psychology, intention or representation. APS distinguishes biological agency from cognition, information from organism-relative significance, function from conscious purpose, and organisational continuity from structural permanence. Agency, Process and Scale provide complementary analytical perspectives on one viability-oriented, constraint-closed organisation rather than identifying separate biological components or causes. Such distinctions help clarify what an explanation claims, what biological relationships it identifies, and what additional evidence may be required.
+
+The value of this vocabulary is consequently conceptual and methodological before it is demonstrably explanatory. Greater precision, consistency and integration can improve the formulation and comparison of biological questions without establishing additional mechanisms, dependencies or predictions. APS does not claim priority over established approaches that make similar distinctions. Whether its terminology contributes additional explanatory capacity must be determined for a specified biological target against the strongest relevant alternative. A difference in vocabulary is not, by itself, a difference in explanation.
 
 ## The Positive Contribution of Conceptual Infrastructure
 

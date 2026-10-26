@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-07-07
-revised: 2026-09-13
+revised: 2026-10-27
 cluster: cognition-and-mind
 role: anchor
 
@@ -71,6 +71,10 @@ references:
   - chalmers-1995-facing-consciousness
 ---
 
+**Where This Article Fits** 
+
+*This article is an advanced synthesis within APS. It draws together concepts developed separately across the framework and uses them to organise the matter-to-mind problem. It does not establish the biological dependencies among those concepts merely by placing them in an explanatory order. Those dependencies remain subject to specification, comparison, and empirical test.*
+
 ## Introduction
 
 Among the most remarkable features of the universe is the existence of beings capable of reflecting upon it. Human beings are composed of the same physical materials found throughout nature, yet they can remember the past, imagine possible futures, question their own existence, and seek to understand the world from which they arose.
@@ -88,9 +92,6 @@ This also changes how the title of this article should be understood. *How Did M
 APS uses **awareness** in a deliberately broad biological sense when referring to the availability of significance to organised activity. That technical use must be distinguished from phenomenal consciousness: the existence of subjective experience or of something it is like to be a conscious organism. Distinguishing functional availability from phenomenal experience is well established in consciousness research, even though different theories draw the boundary in different ways (Block 1995; Chalmers 1995).
 
 APS therefore does not begin by claiming to explain consciousness. It begins with a more tractable question: **what forms of biological organisation must be distinguished if the explanatory distance between living matter and minded life is to be understood rather than merely named?**
-
-> **Where This Article Fits**  
-> This article is an advanced synthesis within APS. It draws together concepts developed separately across the framework and uses them to organise the matter-to-mind problem. It does not establish the biological dependencies among those concepts merely by placing them in an explanatory order. Those dependencies remain subject to specification, comparison, and empirical test.
 
 ## What APS Is Trying to Explain
 
@@ -417,3 +418,75 @@ Part of the original mystery can be reformulated as questions about organised pe
 Its contribution is more disciplined and, for biology, more useful. It asks how far the explanatory distance between matter and mind can be traversed through increasingly precise accounts of living organisation—and marks clearly where those accounts cease to be sufficient. Matter did not need to acquire a mysterious additional substance for biology to confront the matter-to-mind problem; it needed to become organised in ways that made viability, significance, cognition, self–world relations, continuity, and self-direction possible explananda.
 
 Understanding those forms of organisation does not complete the explanation of consciousness. It tells us more precisely what has been explained, what remains to be tested, and what still remains unknown.
+
+## Explanatory Architecture
+
+### Central Question
+
+How can the apparent explanatory gap between matter and mind be decomposed into distinct questions about biological organisation, cognition, mind, selfhood, and reflective agency, without assuming a predetermined evolutionary sequence or claiming to explain phenomenal consciousness?
+
+### Architectural Role
+
+This article provides an advanced synthesis of the APS account of the biological foundations of mind. It brings together living organisation, Agency, Biological Evaluation, Significance, Integration, Cognition, Mind, Selfhood, and Reflective Agency within a coherent explanatory architecture.
+
+The article distinguishes conceptual and explanatory dependencies from organisational, causal, developmental, and evolutionary claims requiring independent empirical evidence. It shows how the matter-to-mind problem can be divided into more specific biological explananda without treating their explanatory ordering as an established sequence of historical transitions.
+
+The article also preserves a fundamental boundary: explaining the biological organisation supporting cognition and minded activity does not, by itself, explain why subjective experience exists.
+
+### Builds On
+
+- Life
+- Biological Organisation
+- Viability
+- Constraint Closure
+- Organised Persistence
+- Biological Agency
+- Biological Evaluation
+- Significance
+- Integration
+- Cognition
+- Mind
+- Selfhood
+- Reflective Agency
+
+### Develops Into
+
+- Comparative investigation of biological and cognitive organisation
+- Empirical investigation of organisational dependencies
+- The relationship between biological agency and cognition
+- The organisation of cognitive self–world relations
+- The continuity of selfhood through biological change
+- The biological foundations of reflective agency
+- The distinction between biological awareness and phenomenal consciousness
+- Comparative evaluation of explanations of mind and cognition
+
+### Related Explanatory Questions
+
+- How does viability-oriented, constraint-closed organisation establish the biological setting for agency and significance?
+- What distinguishes biological agency from cognition?
+- How do Biological Evaluation and Significance contribute to explaining organism-relative differences?
+- When does integrated biological significance warrant cognitive attribution?
+- What distinguishes cognition from coherent minded organisation?
+- How should selfhood be distinguished from ordinary biological persistence?
+- What additional organisation permits agency to become directed towards aspects of its own activity?
+- How should biological awareness, cognitive awareness, self-awareness, and phenomenal consciousness be distinguished?
+- Which dependencies within the APS architecture are conceptual, explanatory, organisational, causal, developmental, or evolutionary?
+- What evidence would establish particular organisational dependencies?
+- Where do existing biological and cognitive explanations already adequately account for the specified phenomena?
+- What remains unexplained concerning phenomenal consciousness?
+
+### Position within APS
+
+This is an advanced synthesis article within the Cognition and Mind cluster. It integrates concepts established elsewhere in the APS corpus rather than independently redefining them.
+
+The article places the APS account of cognition within a wider set of questions concerning biological organisation and mind. Cognition requires integrated biological significance to modulate activity across a temporal field of viability-relevant possibilities in ways not exhausted by immediate or fixed regulation. Mind, Selfhood, and Reflective Agency identify further explanatory questions concerning coherent cognitive organisation, continuity across change, and the capacity for agency to become directed towards aspects of itself.
+
+The relationships among these concepts constitute an explanatory architecture, not an established evolutionary chronology, developmental sequence, or hierarchy of biological levels. Agency, Process, and Scale remain complementary analytic projections of one living organisation rather than separate biological components or causes.
+
+The article does not claim that APS resolves phenomenal consciousness. Biological availability of significance, cognition, and minded organisation must not be confused with subjective experience. Claims about their material implementation and causal dependencies require independent investigation.
+
+### Corpus Significance
+
+This article provides the principal APS synthesis of the matter-to-mind problem. Its contribution is to distinguish the biological-organisational questions that can be investigated scientifically from the further problem of phenomenal consciousness.
+
+It connects the foundational APS account of viability-oriented living organisation with the
