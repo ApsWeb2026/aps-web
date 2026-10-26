@@ -8,6 +8,25 @@ status: "canonical"
 cluster: "history-of-ideas"
 role: core
 revised: "2026-10-25"
+keyPoints:
+  - Aristotle established a systematic approach to investigating living beings through observation, comparison and causal explanation.
+  - His biological writings connected anatomical structure with the characteristic activities and development of organisms.
+  - Aristotle's four causes provided complementary forms of explanation, including material, formal, efficient and final causation.
+  - His embryological investigations treated development as an observable sequence of differentiation, despite important theoretical errors.
+  - Theophrastus extended systematic natural inquiry to plants, including their structure, reproduction and environmental relationships.
+  - Aristotle's historical importance lies in the questions and methods he developed, not in anticipating modern evolutionary or molecular biology.
+relatedGlossaryTerms:
+  - teleology
+  - teleonomy
+  - biological-organisation
+  - function
+  - life
+  - biological-agency
+relatedArticles:
+  - teleology-in-biology-an-aps-clarification
+  - teleonomy
+  - how-did-the-cell-become-the-unit-of-life
+  - the-chronometric-revolution
 references:
   - aristotle-1965-history-animals
   - aristotle-1991-history-animals-balme
@@ -31,9 +50,9 @@ references:
 
 **Where This Article Fits**
 
-This article belongs to the History of Ideas series, which traces changes in the concepts, evidence and methods through which living nature has been understood. It examines Aristotle's contribution to biological inquiry through observation, comparison, causal explanation and the study of development. It provides a historical point of departure for later articles on the emergence of cell theory, evolutionary explanation and modern biology.
+*This article belongs to the History of Ideas series, which traces changes in the concepts, evidence and methods through which living nature has been understood. It examines Aristotle's contribution to biological inquiry through observation, comparison, causal explanation and the study of development. It provides a historical point of departure for later articles on the emergence of cell theory, evolutionary explanation and modern biology.*
 
-Aristotle's attention to living organisation has affinities with questions discussed by the Agency–Process–Scale (APS) framework, but his philosophy is considered here on its own terms. Thematic affinities neither make Aristotle a precursor of APS nor establish theoretical equivalence.
+*Aristotle's attention to living organisation has affinities with questions discussed by the Agency–Process–Scale (APS) framework, but his philosophy is considered here on its own terms. Thematic affinities neither make Aristotle a precursor of APS nor establish theoretical equivalence.*
 
 ## Introduction
 
