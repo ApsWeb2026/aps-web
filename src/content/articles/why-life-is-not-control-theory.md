@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-15
-revised: 2026-10-17
+revised: 2026-10-27
 cluster: philosophy-of-biology
 role: clarification
 
@@ -50,308 +50,238 @@ relatedArticles:
   - why-life-is-not-information-processing
   - why-life-is-not-a-machine
 
+
 references:
-  - id: wiener1948
-    authors: "Wiener, N."
-    year: 1948
-    title: "Cybernetics: Or Control and Communication in the Animal and the Machine"
-    source: "MIT Press"
-
-  - id: ashby1956
-    authors: "Ashby, W. R."
-    year: 1956
-    title: "An Introduction to Cybernetics"
-    source: "Chapman & Hall"
-
-  - id: rosen1985
-    authors: "Rosen, R."
-    year: 1985
-    title: "Anticipatory Systems"
-    source: "Pergamon Press"
-
-  - id: beer1972
-    authors: "Beer, S."
-    year: 1972
-    title: "Brain of the Firm"
-    source: "Allen Lane"
-
-  - id: bertalanffy1968
-    authors: "von Bertalanffy, L."
-    year: 1968
-    title: "General System Theory"
-    source: "George Braziller"
-
-  - id: powers1973
-    authors: "Powers, W. T."
-    year: 1973
-    title: "Behavior: The Control of Perception"
-    source: "Aldine"
-
-  - id: friston2013
-    authors: "Friston, K."
-    year: 2013
-    title: "Life as We Know It"
-    journal: "Journal of The Royal Society Interface"
-    volume: "10"
-    pages: "20130475"
-    doi: "10.1098/rsif.2013.0475"
-
-  - id: moreno2015
-    authors: "Moreno, A., & Mossio, M."
-    year: 2015
-    title: "Biological Autonomy: A Philosophical and Theoretical Enquiry"
-    source: "Springer"
+  - wiener-1948-cybernetics
+  - ashby-1956-introduction-cybernetics
+  - bertalanffy-1968-general-system-theory
+  - friston-2013-life-as-we-know-it
+  - moreno-mossio-2015-biological-autonomy
+  - briat-gupta-khammash-2016-antithetic-integral-feedback
+  - aoki-et-al-2019-universal-biomolecular-integral-feedback
+  - bich-bechtel-2022-control-mechanisms
+  - bich-bechtel-2022-organization-needs-organization
 ---
 
-# Why Life Is Not Control Theory
+**Where This Article Fits**
 
-Control theory has profoundly shaped modern understandings of regulation, stability, coordination, and organisation.
+*This article is a clarification within the APS philosophy-of-biology corpus. It compares the APS definition of life with several traditions of control-theoretic explanation, including approaches explicitly concerned with endogenous, distributed, and integrated biological regulation. It does not introduce a new APS definition or claim that the organisation of life is inaccessible to control-theoretic investigation. Its task is to identify the legitimate scope of the distinction and the evidence required before that distinction can be credited with explanatory value.*
 
-Across cybernetics, physiology, systems biology, neuroscience, robotics, artificial intelligence, and related fields, control-theoretic approaches investigate how systems regulate variables, respond to perturbation, coordinate activity, maintain dynamically significant conditions, and alter their behaviour through feedback.
+*The discussion complements APS treatments of biological organisation, constraint closure, Biological Evaluation, and comparative explanatory methodology. In particular, it treats the relation between control and viability as an issue for analysis rather than assuming that one vocabulary is causally or explanatorily prior to the other.*
 
-These approaches do not constitute a single homogeneous theory. Some control systems operate relative to externally specified targets or setpoints. Biological and cybernetic approaches may instead investigate endogenous regulation, distributed control, adaptive coordination, reciprocal feedback, and dynamically maintained relations among interacting processes. Control-theoretic explanation therefore cannot be identified simply with centralised command, fixed targets, engineering design, or externally imposed goals.
+## Introduction
 
-These frameworks provide powerful explanatory and mathematical resources for understanding biological regulation.
+Control theory has become an indispensable resource for understanding biological regulation. From the early development of cybernetics to contemporary systems biology, it has provided mathematical and conceptual methods for explaining feedback, stability, adaptation, coordination, and the response of organisms and their constituent systems to changing conditions. Its applications extend across physiology, molecular biology, neuroscience, behaviour, and the study of artificial and biological regulatory networks.
 
-APS accepts their scientific importance and does not claim that control-theoretic explanation is merely descriptive, intrinsically mechanistic, externally imposed, or incapable of explaining biological organisation.
+The biological importance of control theory is not in dispute. The question considered here is whether the phenomena it explains, however comprehensively, also constitute an adequate definition of life.
 
-The narrower claim of this article is one of non-identity.
+The Agency–Process–Scale (APS) framework approaches this question through a particular conception of living organisation. It defines life as **viability-oriented, constraint-closed organisation** and biological agency as the activity through which living systems sustain the conditions of their continued existence. Agency, Process, and Scale are complementary perspectives on that organisation: what living systems do, how their activity maintains continuity through change, and the spatial and temporal extents over which persistence is organised.
 
-Within APS:
+This formulation differs from identifying life with feedback, regulation, control architecture, or the maintenance of specified variables. The difference, however, must be interpreted carefully. Control theory encompasses diverse approaches, including theories explicitly concerned with autonomous, distributed, adaptive, and self-organising biological systems. APS cannot establish its explanatory value merely by identifying features already recognised within those approaches.
 
-**Life is viability-oriented, constraint-closed organisation.**
-
-This definition does not identify life with control architecture, feedback, regulation, stability, optimisation, or the maintenance of particular variables. Living systems may exhibit these phenomena, and control-theoretic approaches may provide substantive explanations of them, without control thereby constituting the APS definition of life.
-
-The resulting difference is therefore a point of comparison rather than a verdict about explanatory superiority. Where APS and a control-theoretic approach address the same biological explanandum, their relative adequacy must be assessed through target-matched comparison rather than inferred from their conceptual architecture.
+The argument developed here is therefore deliberately bounded. Control is not identical to life as APS defines it. Whether APS provides a more informative explanation of a particular biological phenomenon is a separate question requiring comparison with the strongest relevant control-theoretic account.
 
 [[box:how-aps-relates-to-other-theoretical-frameworks]]
 
-## What Control Theory Explains Well
+## The Biological Reach of Control Theory
 
-Control-theoretic approaches provide substantive explanatory resources for many important biological phenomena, including:
+The intellectual foundations of control theory extend well beyond the engineering of machines. Wiener's *Cybernetics* (1948) examined control and communication in animals and machines, while Ashby's *An Introduction to Cybernetics* (1956) developed general principles of regulation, stability, and adaptation. Both works helped establish a tradition in which biological organisation could be investigated through relations among system states, environmental disturbances, feedback, and regulatory responses.
 
-- feedback regulation
-- homeostasis
-- behavioural stability
-- coordinated adjustment
-- dynamic regulation
-- adaptive responses to perturbation
-- distributed regulation among interacting processes
+This tradition should not be represented as a theory of centralised command or externally imposed setpoints. Although many engineering applications involve specified reference values and controllers designed to maintain them, biological control can be distributed, reciprocal, adaptive, and endogenous. Regulatory processes may alter the conditions under which other processes operate, while their own activity is modified by the changing state of the system.
 
-They also provide powerful formal resources for analysing regulatory dynamics, coupled systems, feedback relations, stability, adaptation, and coordination.
+Von Bertalanffy's general systems perspective (1968) also contributed to the recognition that organisms cannot be understood adequately as collections of independently functioning parts. Open systems maintain characteristic organisation through continuous exchanges of matter and energy. Although general systems theory and control theory are not identical traditions, both contributed to a broader scientific movement away from exclusively linear and component-centred explanation.
 
-These are not merely descriptions of processes awaiting a separate organisational explanation. Depending upon the explanandum, a control-theoretic account may provide a substantive, sufficient, or preferable biological explanation.
+Contemporary control-theoretic approaches are correspondingly diverse. They investigate how biological systems maintain or alter regulatory conditions, compensate for perturbations, coordinate interacting processes, and sustain dynamically changing patterns of activity. Some models explain the behaviour of particular molecular circuits; others address physiological regulation, sensorimotor coordination, or the dynamics of entire organisms.
 
-Control-theoretic approaches also differ in what they seek to explain and how control is characterised. Some applications concern specified variables and target states. Others investigate distributed regulation, endogenous feedback, adaptive coordination, or dynamically maintained relations within biological systems. No single control architecture should therefore stand for control theory as a whole.
+Friston's (2013) account of biological self-organisation provides an especially important reminder that the boundaries of this literature cannot be drawn around conventional engineering control. His treatment connects the persistence of biological systems with statistical and dynamical properties of their interactions with the environment. Whatever questions remain about the interpretation and scope of that approach, it cannot be dismissed as merely a theory of externally imposed regulation.
 
-APS approaches these explanations with a different substantive proposal about life itself. It defines life as viability-oriented, constraint-closed organisation and asks how that organisation maintains and re-establishes continuity through change.
+The relevant comparison is therefore not between APS and an artificially restricted version of control theory. It is between APS and the most scientifically developed explanations of the biological phenomena under consideration.
 
-This is the APS problem of **organised persistence**.
+## Control in Living Systems: Mechanisms and Evidence
 
-Organised persistence is not a second definition of life, nor does identifying it as an APS explanatory problem establish that control theory cannot address biological continuity, regulation, or organisation. It identifies the target APS proposes to investigate.
+The explanatory strength of contemporary biological control theory is particularly evident at the molecular level.
 
-Where control-theoretic and APS explanations address different questions, no direct competition need arise. Where they address the same question, their relationship may be complementary, overlapping, independent, competing, redundant, or differently adequate. Which result obtains must be established by comparison rather than assumed from the frameworks themselves.
+Briat, Gupta, and Khammash (2016) developed a theoretical account of antithetic integral feedback, showing how a class of biomolecular control architectures can achieve robust perfect adaptation under specified conditions despite stochastic fluctuations. Their analysis connects formal control principles with biochemical reaction networks and provides a mathematical explanation of how regulatory performance can be maintained in the presence of disturbance.
 
-## Control, Regulation, and Viability
+Aoki and colleagues (2019) subsequently developed and experimentally investigated a biomolecular integral feedback controller capable of producing robust adaptation in living cells. Their work demonstrates that control-theoretic principles can guide the construction and analysis of functioning biological regulatory systems rather than serving only as abstract analogies.
 
-Control-theoretic explanations often investigate how systems regulate variables, maintain dynamically significant conditions, respond to perturbation, or coordinate activity through feedback. In biological contexts, such regulation may be endogenous, distributed, adaptive, and materially integrated with the organisation of the living system itself.
+These studies are significant for the APS comparison. They show that control theory can explain the organisation and performance of biological mechanisms in experimentally testable terms. It can identify regulatory architectures, specify conditions for robust behaviour, and generate predictions about how systems respond to perturbation.
 
-APS approaches regulation through its own account of life:
+APS should not redescribe such results in its own terminology and regard that redescription as an explanatory improvement. If a control-theoretic account already explains the relevant behaviour, an APS interpretation would need to contribute something independently identifiable: a new distinction, a better-supported explanation, a useful prediction, or an improved way of comparing biological cases.
 
-**Life is viability-oriented, constraint-closed organisation.**
+The point becomes still more important when control is examined within the organisation of living systems rather than in relatively isolated regulatory circuits.
 
-Viability identifies the conditions under which this organisation can continue to function and persist. Regulation may contribute to maintaining those conditions, but APS does not define life as regulation, control, stability, or the maintenance of particular variables.
+Bich and Bechtel (2022), in their analysis of control mechanisms, examine how biological systems coordinate activities and produce integrated, versatile responses. Their approach connects the operation of particular mechanisms with the broader organisation in which those mechanisms function. Control is not treated simply as the action of a separate device upon a passive system, but as part of the organisation through which biological activity is coordinated.
 
-This distinction does not establish that viability is explanatorily more fundamental than control. Nor does it establish that control-theoretic explanations merely presuppose an organisational account that APS supplies.
+These developments establish that contemporary control theory can contribute to explanations of integration and biological organisation themselves. The distinction between control and life must therefore be formulated without denying the explanatory reach of the strongest existing biological-control accounts.
 
-Rather, APS and control-theoretic approaches may formulate the biological problem differently. A control-theoretic explanation may identify regulatory variables, feedback relations, disturbances, compensatory responses, and dynamically maintained states. APS asks how such activity relates to the viability-oriented, constraint-closed organisation of the living system.
+## Control, Autonomy, and Biological Organisation
 
-Whether that difference yields additional explanatory value depends upon the biological question being asked. Where both approaches address the same explanandum, their relative contribution must be assessed rather than fixed in advance.
+The relationship between control and biological autonomy has also received sustained attention within organisational approaches to biology.
 
-## Biological Evaluation and Control
+Moreno and Mossio (2015) develop an account of biological autonomy centred on the organisation of mutually dependent constraints. Their analysis connects self-maintenance, functional organisation, and biological normativity, showing why the continued existence of a living system cannot be understood simply by enumerating its constituent mechanisms.
 
-APS distinguishes biological evaluation from control.
+This work provides a particularly close comparison with APS. Both approaches emphasise organisation, the maintenance of conditions for continued existence, and the significance of relations among processes and constraints. The presence of these concepts in APS does not, by itself, establish a new theoretical contribution.
 
-**Biological Evaluation is the process through which agency generates significance.**
+Bich and Bechtel (2022), in *Organization Needs Organization*, further examine the relationship between control mechanisms and integrated biological organisation. Their account challenges a simple opposition between mechanistic explanation and organisational autonomy. Rather than assigning control to one explanatory domain and autonomy to another, they investigate how control mechanisms contribute to the coordinated functioning of living systems.
 
-Because living activity occurs under conditions that differ in their consequences for viability, those differences can become significant for the organisation of activity. Biological normativity is the corresponding **viability-relative asymmetry**: some states, processes, and outcomes contribute differently from others to the maintenance of viable organisation.
+This is a stronger comparator than a conventional engineering model because it addresses precisely the organisational relationships that APS seeks to clarify.
 
-Control-theoretic regulation and Biological Evaluation should not therefore be treated as interchangeable concepts. A control-theoretic account may explain how regulatory activity changes in relation to variables, disturbances, feedback, or dynamically maintained conditions. APS uses Biological Evaluation to identify how viability-relevant differences acquire significance within biological agency.
+The APS definition of life as viability-oriented, constraint-closed organisation is compatible with recognising the importance of such work. It does not follow, however, that APS has established a more fundamental explanation of control, autonomy, or biological integration.
 
-This conceptual distinction does not establish a universal sequence in which evaluation occurs before control, nor does it establish that control emerges from Biological Evaluation. In particular cases, evaluative and regulatory descriptions may concern overlapping aspects of the same organised activity, different explanatory targets, or relations whose dependence must be independently established.
+The relationship may instead be one of substantial overlap. APS may organise familiar biological relationships through a different conceptual vocabulary, or it may identify distinctions useful for particular questions. Determining which interpretation is warranted requires comparison of the explanatory work performed by each approach.
 
-APS therefore does not require the sequence:
+A claim of conceptual difference is therefore easier to establish than a claim of scientific advance.
 
-**evaluation → control**
+## The APS Account of Life and Agency
 
-as a general architecture of living systems.
+APS begins from the observation that living systems are organised activities whose continued existence depends upon the maintenance and renewal of conditions that make those activities possible.
 
-Where a dependency between Biological Evaluation and a particular form of biological control is proposed, it remains a **Dependency Hypothesis** requiring specification and assessment rather than following automatically from APS terminology.
+Its definition of life brings together two commitments. Viability identifies the conditions under which living organisation can continue, while constraint closure concerns the mutually sustaining relations through which organisational constraints are maintained and regenerated. Living organisation is not merely a configuration of components but an ongoing achievement dependent upon activity.
 
-## Semiosis and Biological Regulation
+Within this framework, biological agency is viability-oriented activity sustaining the conditions of persistence. Agency does not require conscious intention, representation, deliberation, or centralised control. It refers to the activity through which living organisation maintains itself under conditions that can support or undermine its continuation.
 
-Biological regulation frequently depends upon differences that affect subsequent activity: chemical concentrations, environmental conditions, physiological states, signals, or changes produced by other processes.
+APS analyses this organisation through three complementary projections.
 
-Control-theoretic approaches can explain how such differences participate in regulatory relations, including feedback, coordination, error correction, adaptive response, and the maintenance or alteration of dynamically significant conditions.
+**Agency** concerns what living systems do in sustaining viable organisation. **Process** concerns how their activity maintains continuity despite material, functional, and environmental change. **Scale** concerns the spatial and temporal extents over which that organisation is constituted, maintained, and transformed.
 
-APS introduces a distinct question concerning **biological significance**.
+These are not separate components of life, successive causal stages, or independent levels of reality. They are complementary ways of analysing one organised biological phenomenon.
 
-Through Biological Evaluation, viability-relevant differences can acquire significance for the organisation of activity. Semiosis concerns the organisation and use of such differences within biological processes. It should not be identified simply with signal transmission, control, information processing, or feedback.
+The associated explanatory problem is **organised persistence**: how living systems maintain and re-establish continuity through change. Organised persistence is not a second definition of life or an additional biological entity. It identifies a question arising from the APS conception of living organisation.
 
-Nor should biological significance be collapsed into meaning. Significance is a relationally real product of biological evaluation; richer forms of meaning require additional organisation not established merely by regulatory response or signal use.
+Control-theoretic approaches may provide important explanations of organised persistence. Feedback, adaptive regulation, coordinated control, and disturbance compensation can all contribute to the maintenance of viable conditions. APS does not require that these explanations be subordinated to its terminology.
 
-Control-theoretic regulation and semiosis may therefore intersect without one being automatically reducible to, prior to, or explanatorily dependent upon the other. A regulatory relation may also be characterised semiotically where the evidence warrants it, but APS architecture alone does not establish that relation.
+Its distinctive proposal is to consider regulatory activity in relation to the viability-oriented organisation whose persistence is at issue. Whether this framing clarifies a particular biological problem more effectively than an existing organisational or control-theoretic account remains open to assessment.
 
-The explanatory contribution of distinguishing control, Biological Evaluation, significance, and semiosis must therefore be assessed against the particular biological phenomenon under investigation.
+## Biological Evaluation, Significance, and Regulation
 
-## Stability, Regulation, and Biological Viability
+The distinction between control and life also raises questions about biological normativity: why some conditions and outcomes matter differently from others for a living system.
 
-Stability is an important explanatory target in both biological and artificial systems, but control theory is not restricted to explaining static equilibrium. Regulatory systems may maintain variables, alter target conditions, compensate for disturbance, coordinate changing processes, or sustain dynamically changing patterns.
+APS understands biological normativity as **viability-relative asymmetry**. States, processes, and environmental conditions differ in their consequences for the continuation of viable organisation. A change that supports persistence is not equivalent, in this respect, to one that undermines it.
 
-Biological systems likewise persist through both stability and change.
+APS uses the term **Biological Evaluation** for the process through which biological agency generates significance. Viability-relevant differences acquire significance through their relation to the organisation of living activity.
 
-Within APS, the relevant question is how regulatory activity relates to viability-oriented, constraint-closed organisation. Some forms of stability may contribute to viability; others may be irrelevant or detrimental. Conversely, maintaining viability may require substantial change, reorganisation, compensation, repair, or altered activity rather than preservation of an existing state.
+This conception should not be confused with conscious judgement or the explicit comparison of alternatives. Nor does it imply that living systems must possess internal representations of their own viability. Biological significance concerns real differences in how conditions bear upon organised activity and its continuation.
 
-This is where biological normativity becomes relevant within the APS account. **Biological normativity is viability-relative asymmetry**: states and processes differ in their consequences for viable organisation.
+Control-theoretic accounts can explain many of the processes through which such differences are detected, amplified, compensated for, or translated into regulatory responses. A physiological feedback mechanism, for example, may respond to changes in a regulated variable and produce compensatory activity. A sufficiently developed control-theoretic explanation may also specify the consequences of regulatory success or failure for the organism.
 
-That formulation should not be converted into a fixed division in which control theory explains stability while APS explains why stability matters. Control-theoretic approaches may themselves provide biologically substantive explanations of adaptive regulation, changing target conditions, compensatory dynamics, and the consequences of regulatory success or failure.
+APS therefore cannot simply assign the explanation of regulation to control theory and the explanation of biological significance to itself. Organisational and control-theoretic approaches may already address normativity, functional integration, and the consequences of regulatory activity.
 
-APS contributes a particular formulation of the relation between regulation and viability. Whether that formulation adds explanatory value in a particular case requires target-matched comparison with the strongest relevant control-theoretic account.
+The conceptual distinction between Biological Evaluation and control remains useful, but it does not establish a universal causal sequence in which evaluation precedes regulation. The two descriptions may concern different aspects of the same organised activity, or their relationship may vary across biological cases.
 
-## Distributed Regulation, Organisation, and Constraint Closure
+Where APS proposes a specific dependence between Biological Evaluation and a regulatory mechanism, that dependence is a hypothesis requiring independent support rather than a consequence of the terminology.
 
-Control does not require centralised command.
+A related distinction concerns semiosis. Biological systems often use chemical, physiological, and environmental differences to coordinate activity. APS treats semiosis as involving the organisation and use of such differences within biological processes, but does not identify every feedback relation or signal transmission event with semiosis. Nor does it equate biological significance automatically with richer forms of meaning.
 
-Biological control may be distributed across interacting processes, organised through reciprocal feedback, coordinated through networks, or realised through multiple regulatory relations operating over different spatial and temporal extents. Control-theoretic approaches can therefore address forms of regulation that are decentralised, adaptive, dynamically reorganised, and materially embedded within biological systems.
+These distinctions may help formulate questions about regulation, significance, and biological communication. Their explanatory value must nevertheless be demonstrated against accounts that already address the relevant phenomena.
 
-APS should not claim distributed regulation, processual organisation, or sensitivity to spatial and temporal extent as advantages merely because these features are made explicit in its own conceptual architecture.
+## Stability, Change, and Organised Persistence
 
-APS instead introduces **constraint closure** as part of its substantive account of life. Constraints participate in maintaining the conditions under which other constraints and processes continue to operate, producing a viability-oriented organisation whose continuity depends upon its ongoing activity.
+A common temptation is to contrast control theory as an account of stability with APS as an account of biological change and persistence. Such a contrast would be misleading.
 
-Constraint closure and control architecture are not interchangeable concepts. Nor does constraint closure automatically replace, complete, or provide a deeper explanation of feedback regulation.
+Control theory is not restricted to static equilibrium. It can investigate dynamic stability, adaptation, changing regulatory conditions, disturbance rejection, and coordinated responses across interacting processes. Biological systems frequently maintain their organisation precisely by changing their activity in response to altered conditions.
 
-They may identify different organisational relations within the same biological system, overlap in particular explanations, or enter into proposed dependency relations requiring independent assessment.
+APS likewise does not treat persistence as the preservation of an unchanging state. Living systems undergo metabolic turnover, growth, repair, development, physiological adjustment, and other transformations while maintaining forms of organisational continuity.
 
-APS also analyses living organisation through **Agency, Process, and Scale**. These are complementary analytic projections of one viability-oriented, constraint-closed organisation rather than independent components, causal stages, dimensions, levels, or positions within a hierarchy.
+The relevant distinction is therefore not stability versus change. It concerns how the continuation of living organisation is characterised and explained.
 
-Agency concerns what living systems do. Process concerns how continuity is maintained despite change. Scale concerns where persistence is organised across spatial and temporal extents.
+Within APS, the viability of an organised system provides the context in which regulatory outcomes acquire biological significance. A stable condition may support viability, but stability alone is not necessarily beneficial. Conversely, a substantial reorganisation may be necessary for persistence.
 
-This analytic architecture does not imply that biological explanation must always integrate multiple scales or that control-theoretic approaches are deficient when they do not adopt APS terminology. Its explanatory contribution depends upon the question being investigated.
+Control-theoretic approaches can often explain the regulatory mechanisms involved in these changes. Organisational approaches can analyse how those mechanisms participate in the maintenance of the system. The explanatory relationship between these perspectives is not fixed in advance.
 
-Distributed regulation therefore provides an important point of contact between APS and control-theoretic explanation, not a basis for assigning one framework automatic priority over the other.
+For a particular biological case, APS might help identify the appropriate boundary of the organised system, clarify the conditions relevant to persistence, or distinguish different temporal scales of continuity. Alternatively, an existing control-theoretic or organisational explanation may already provide these distinctions adequately.
+
+The question is not whether APS can describe the phenomenon, but whether its description contributes something that the strongest comparator does not.
 
 ## Control Without Life
 
-Control is not unique to living systems.
+Control is not exclusive to living systems. Thermostats, industrial controllers, autopilots, robots, and many other artificial systems regulate variables, respond to disturbances, and coordinate activity through feedback. Some artificial systems exhibit sophisticated adaptation and distributed control.
 
-Artificial and engineered systems can regulate variables, respond to disturbances, coordinate activity, maintain target conditions, and adapt their behaviour through feedback. Thermostats, autopilots, robotic controllers, and other artificial systems therefore demonstrate that sophisticated control capacities do not by themselves establish that a system is living.
+This observation supports a limited distinction between control and life. The presence of a regulatory architecture does not by itself establish that a system possesses viability-oriented, constraint-closed organisation.
 
-Within APS, this is a distinction between control and the definition of life.
+A thermostat, for example, may maintain a temperature within specified limits without sustaining the organisational conditions of its own continued existence in the manner required by the APS definition of life. The fact that a system regulates something is not sufficient to classify it as living.
 
-**Life is viability-oriented, constraint-closed organisation.**
+The distinction should not be overstated. Artificial systems can exhibit complex self-maintaining and adaptive properties, and the boundaries between biological and artificial organisation remain legitimate subjects of scientific and philosophical investigation. APS cannot settle those questions merely by applying its definition.
 
-A system may exhibit control without satisfying that APS definition. Conversely, living systems may employ many forms of regulatory and control organisation as part of their ongoing activity.
+Nor does the existence of control outside life demonstrate that control theory is inadequate for explaining living systems. A mathematical or mechanistic framework may apply successfully across different classes of systems without supplying a definition of every system to which it applies.
 
-The comparison with artificial systems therefore supports a bounded non-identity claim:
-
-**control is not sufficient, by itself, for life as defined within APS.**
-
-It does not establish that control-theoretic explanations are inadequate for living systems, that biological control must be reconstructed through APS, or that artificial and biological control differ in every explanatorily relevant respect.
-
-Artificial systems can instead serve as useful comparators for distinguishing questions about control architecture from questions about the organisation APS identifies with life. Whether that distinction yields explanatory gain in particular biological cases remains a matter for comparative assessment.
+The comparison establishes only that control and life are not conceptually interchangeable within APS. It does not establish that the explanatory resources of control theory are insufficient for biological science.
 
 [[box:aps-box-definition-diagnosis-and-evidence]]
 
-## APS and Control-Theoretic Explanation
+## What Does the Comparison Establish?
 
-APS and control-theoretic approaches can address overlapping biological phenomena without being identical frameworks.
+The comparison between APS and control theory supports three conclusions, each of which must be distinguished from stronger claims that have not been established.
 
-Control-theoretic explanations may investigate feedback, regulation, stability, adaptive response, coordination, disturbance, controlled variables, and the organisation of regulatory relations. Depending upon the explanandum, such explanations may be substantive, sufficient, or preferable.
+First, control theory provides substantive explanations of biological phenomena. Its mathematical models, experimentally investigated mechanisms, and accounts of integrated regulation cannot be dismissed as merely descriptive or incomplete simply because they do not employ APS terminology.
 
-APS makes a different substantive proposal about life:
+Second, APS defines life in terms of viability-oriented, constraint-closed organisation rather than control architecture or regulatory capacity alone. This establishes a conceptual distinction. It also provides a particular orientation for examining biological agency, organised persistence, and the relation between regulation and viable organisation.
 
-**Life is viability-oriented, constraint-closed organisation.**
+Third, the conceptual distinction does not determine comparative explanatory adequacy.
 
-It also treats **organised persistence** as the explanatory problem of how living organisation maintains and re-establishes continuity through change.
+Where APS and a control-theoretic approach address different questions, they may be complementary without competing. Where they address the same question, their relationship must be assessed more carefully. They may offer equivalent redescriptions, partially overlapping explanations, genuinely complementary perspectives, or competing accounts with different strengths.
 
-These commitments create points of comparison with control-theoretic accounts of biological regulation, but they do not establish a fixed division of explanatory labour. APS should not be assigned viability, normativity, significance, agency, or biological intelligibility while control theory is assigned only feedback, stability, or regulatory dynamics.
+An APS explanation may also prove unnecessary for a particular target if the relevant control-theoretic or organisational account already supplies the distinctions and evidence required.
 
-Nor should control be treated automatically as a subordinate process located within a more fundamental APS organisation.
+The strongest-comparator requirement is especially important. It would be methodologically inadequate to compare APS with a simplified feedback controller while ignoring contemporary accounts of robust biological adaptation, integrated control mechanisms, and organisational autonomy.
 
-Depending upon the biological question, APS and control-theoretic explanations may overlap, complement one another, remain independent, compete, enter into tension, prove redundant, or differ in explanatory adequacy. A comparison may favour a control-theoretic explanation, favour APS, support a qualified combination, or reveal no additional explanatory gain from introducing APS terminology.
+A valid comparison must specify the biological target, the explanatory question, the relevant alternatives, and the criteria by which an additional contribution would be recognised. It must also permit null or adverse outcomes, including the possibility that APS provides no demonstrated improvement.
 
-APS therefore does not claim control theory as a component of its own explanatory architecture. It proposes a distinct account of living organisation whose relationship to control-theoretic explanation must be established case by case.
+Conceptual integration, terminological coherence, and broad applicability may be intellectually valuable, but they do not by themselves establish scientific superiority.
 
-Where a specific dependency is proposed—for example, between a regulatory architecture and some feature of viability-oriented organisation—that relation remains a **Dependency Hypothesis** requiring specification and assessment.
-
-Conceptual breadth, biological specificity, integration, or architectural coherence cannot substitute for that assessment.
+The appropriate standard is whether APS helps us discover, distinguish, compare, predict, or explain something about the biological phenomenon that remains less clear under the strongest relevant alternative.
 
 ## Conclusion
 
-Control theory provides powerful resources for explaining regulation, feedback, stability, coordination, adaptive response, and related dynamics in biological systems. Its biological applications cannot be reduced to externally imposed setpoints, centralised command, static equilibrium, or engineering control.
+Control theory has made substantial contributions to the explanation of living systems. Its achievements extend from the analysis of feedback and stability to experimentally investigated molecular regulation, adaptive control, and the integration of biological mechanisms. Contemporary approaches can address endogenous regulation, distributed organisation, and the relationship between control and biological autonomy.
 
-APS nevertheless does not identify life with control.
+APS does not reject these achievements. It proposes a definition of life that is not identical to control: viability-oriented, constraint-closed organisation. Within this conception, biological agency concerns the activity through which living systems sustain the conditions of their persistence, while Agency, Process, and Scale provide complementary perspectives on that organisation.
 
-Within APS:
+This distinction is conceptually substantive but scientifically limited until its explanatory consequences are established. It does not demonstrate that control theory cannot explain biological organisation, nor that APS supplies a deeper or more comprehensive explanation of regulation, viability, or normativity.
 
-**Life is viability-oriented, constraint-closed organisation.**
+The comparison instead identifies a legitimate question for biological explanation: whether the APS formulation clarifies relationships that remain insufficiently distinguished or explained by existing control-theoretic and organisational accounts.
 
-Control and regulation may contribute to the activity through which living systems maintain themselves, but neither control architecture nor regulatory capacity alone constitutes this definition. The existence of sophisticated control in artificial systems reinforces that limited non-identity claim.
+That question cannot be answered by definition. It requires investigation of particular biological targets, engagement with the strongest available explanations, and willingness to accept equivalent redescription or lack of improvement as legitimate outcomes.
 
-The distinction should not be made stronger than the evidence warrants.
-
-It does not show that control theory cannot explain biological regulation, organisation, or other biological phenomena. Nor does it show that viability, Biological Evaluation, constraint closure, organised persistence, or Agency–Process–Scale provide inherently deeper explanations.
-
-APS and control theory instead provide different conceptual resources whose relevance depends upon the explanatory target. Where they address the same target, comparative adequacy must be established through target-matched assessment against the strongest relevant alternatives.
-
-The question is therefore not whether biological control must ultimately be reduced to APS organisation, nor whether APS can be reduced to control theory.
-
-The appropriate question is:
-
-**What does each framework explain about the biological phenomenon under investigation, and what explanatory difference, if any, results from choosing one formulation rather than another?**
+The value of APS, if demonstrated, will lie not in replacing control theory but in making a scientifically consequential difference to how particular biological relationships are understood.
 
 ## Key Point
 
-Control theory can provide substantive explanations of biological regulation without constituting a definition of life. APS defines life as viability-oriented, constraint-closed organisation, but the non-identity of these formulations does not establish APS explanatory superiority. Where the frameworks address the same biological target, their relative contribution requires target-matched comparison.
+Control theory provides powerful explanations of biological regulation, but control alone is not equivalent to life as APS defines it. APS characterises life as viability-oriented, constraint-closed organisation. Whether this distinction contributes additional explanatory value must be established through target-matched comparison with the strongest relevant control-theoretic and organisational accounts.
 
 ## Explanatory Architecture
 
 ### Central Question
 
-If control-theoretic approaches can provide substantive explanations of biological regulation, feedback, stability, coordination, and adaptive response, in what sense does APS nevertheless distinguish life from control?
+If control-theoretic approaches provide substantive explanations of biological regulation, adaptation, and integrated organisation, in what sense does APS nevertheless distinguish life from control, and what would establish the explanatory value of that distinction?
 
 ### Architectural Role
 
-This article clarifies the relationship between control-theoretic explanation and the APS account of living organisation. It establishes a non-identity claim without treating conceptual difference as evidence that control theory is biologically inadequate or that APS is explanatorily superior.
+This article clarifies the relationship between control-theoretic explanation and the APS account of living organisation. It establishes a bounded conceptual distinction without treating that distinction as evidence of explanatory superiority.
 
 ### Preceding Explanatory Dependencies
 
-The comparison presupposes the APS account of **life as viability-oriented, constraint-closed organisation**, the definition of **biological agency as viability-oriented organisational activity**, and the distinction between biological regulation, Biological Evaluation, significance, semiosis, and cognition.
+The comparison draws upon the APS definition of life as viability-oriented, constraint-closed organisation, the conception of biological agency as viability-oriented activity, and the account of organised persistence as continuity maintained through change.
 
-These are explanatory dependencies within the presentation of APS concepts. They do not establish causal, temporal, ontological, hierarchical, or foundational priority among the phenomena themselves, nor do they establish that control-theoretic explanation depends upon APS.
-
-Where a substantive dependency between biological control and an APS organisational relation is proposed, it remains a Dependency Hypothesis requiring specification and assessment.
+It also presupposes the distinctions among regulation, Biological Evaluation, biological significance, and semiosis. These are conceptual dependencies in the exposition of APS, not assertions of universal causal, temporal, or ontological priority.
 
 ### Subsequent Explanatory Developments
 
-The distinction developed here supports further investigation of how regulation, feedback, adaptive control, viability, biological normativity, and organised persistence relate in particular biological cases.
+The distinction prepares investigation of how control mechanisms contribute to viable organisation in particular biological systems and whether APS identifies explanatory relationships not adequately addressed by existing control-theoretic or organisational approaches.
 
-It also prepares comparative assessment of whether APS contributes explanatory gain where control-theoretic and organisational explanations address the same target.
+Any proposed dependency between regulatory mechanisms and APS organisational concepts remains subject to independent specification and assessment.
 
 ### Related Explanatory Questions
 
-Related questions include:
-
-- How should biological regulation be distinguished from control in artificial systems?
-- When does a control-theoretic explanation provide a sufficient biological explanation?
-- How does biological normativity relate to regulatory success and failure?
-- What relations, if any, connect Biological Evaluation with particular forms of control?
-- When do control-theoretic and APS explanations overlap, complement one another, compete, or prove redundant?
-- What evidence would demonstrate explanatory gain from introducing APS concepts into a control-theoretic analysis?
+- How do biological control mechanisms contribute to the maintenance of viable organisation?
+- When does control-theoretic explanation adequately account for biological integration and persistence?
+- How do regulatory success and failure relate to biological normativity?
+- What relationships connect Biological Evaluation, significance, and particular forms of regulation?
+- When do APS and control-theoretic explanations overlap, complement one another, or provide equivalent redescriptions?
+- What evidence would demonstrate additional explanatory value from an APS analysis?
 
 ### Position Within APS
 
-This article forms part of the APS comparative-theory programme. It preserves APS's substantive definition of **life as viability-oriented, constraint-closed organisation** and treats **organised persistence as the explanatory problem of continuity through change**, while rejecting the inference that these commitments automatically provide a deeper or more complete explanation than control theory.
+This article belongs to the comparative and clarificatory work of APS. It preserves the framework's substantive definition of life and its complementary Agency–Process–Scale projections while recognising the scientific achievements of control-theoretic and organisational biology.
 
-Its methodological role is therefore comparative rather than hierarchical: the explanatory contribution of APS must be established against the strongest relevant control-theoretic alternative addressing the same biological question.
+Its contribution is methodological as well as conceptual: the distinction between life and control is a legitimate subject of analysis, but any claim of additional explanatory power must be established against the strongest relevant alternative addressing the same biological target.

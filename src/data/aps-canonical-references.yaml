@@ -6003,4 +6003,46 @@ references:
     status: verified
     authority: Zone Books; Wellcome Collection
     verifiedDate: 2026-10-26
+- id: briat-gupta-khammash-2016-antithetic-integral-feedback
+  type: journal-article
+  authors: Briat, C., Gupta, A., & Khammash, M.
+  year: 2016
+  title: Antithetic Integral Feedback Ensures Robust Perfect Adaptation in Noisy Biomolecular Networks
+  journal: Cell Systems
+  volume: '2'
+  issue: '1'
+  pages: 15–26
+  doi: 10.1016/j.cels.2016.01.004
+  verification:
+    status: verified
+    authority: Elsevier / PubMed
+    verifiedDate: 2026-10-27
+- id: aoki-et-al-2019-universal-biomolecular-integral-feedback
+  type: journal-article
+  authors: Aoki, S. K., Lillacci, G., Gupta, A., Baumschlager, A., Schweingruber, D., & Khammash, M.
+  year: 2019
+  title: A Universal Biomolecular Integral Feedback Controller for Robust Perfect Adaptation
+  journal: Nature
+  volume: '570'
+  issue: '7762'
+  pages: 533–537
+  doi: 10.1038/s41586-019-1321-1
+  verification:
+    status: verified
+    authority: Springer Nature / PubMed
+    verifiedDate: 2026-10-27
+- id: bich-bechtel-2022-control-mechanisms
+  type: journal-article
+  authors: Bich, L., & Bechtel, W.
+  year: 2022
+  title: 'Control Mechanisms: Explaining the Integration and Versatility of Biological Organisms'
+  journal: Adaptive Behavior
+  volume: '30'
+  issue: '5'
+  pages: 389–407
+  doi: 10.1177/10597123221074429
+  verification:
+    status: verified
+    authority: SAGE Journals
+    verifiedDate: 2026-10-27
 
