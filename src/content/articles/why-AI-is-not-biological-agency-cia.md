@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-08-21
+revised: 2026-10-28
 cluster: artificial-systems-and-boundaries
 role: extension
 
@@ -244,6 +244,10 @@ But intelligence alone does not generate biological agency.
     Biological agency grounds evaluation, semiosis, cognition, and intelligence within viability-oriented organised persistence rather than emerging from intelligence alone.
   </p>
 </div>
+
+### Biological and Artificial Intelligence — A Necessary Distinction
+
+APS distinguishes intelligence considered as a functional capacity from intelligence considered within the organisation of living systems. Natural and artificial systems may share genuine capacities for learning, prediction, inference, flexible problem-solving, and adaptive coordination. Such similarities are scientifically significant and should not be dismissed as mere appearances. Within living systems, however, these capacities operate in relation to viability-oriented organisation, biological evaluation, and the integration of biological significance. The organisational sequence outlined above is therefore an account of proposed relationships within biological organisation, not a universal developmental pathway or a set of necessary prerequisites for intelligence in every possible system. Artificial intelligence need not possess biological agency to exhibit genuine intelligent capacities, while functional similarity alone does not establish organisational equivalence. The explanatory significance of these similarities and differences remains a matter for comparative investigation.
 
 # Why Intelligence and Agency Became Confused
 

@@ -5,7 +5,7 @@ slug: "process-the-dynamics-of-living-biological-organisation"
 type: article
 abstract: "This article explains Process in APS as the analytic projection concerned with how living organisation maintains, reorganises, and re-establishes continuity despite change, and situates this account in relation to processual, organisational, and mechanistic approaches to biology."
 status: canonical
-revised: 2026-09-08
+revised: 2026-10-28
 cluster: conceptual-foundations
 role: core
 keyPoints:
@@ -49,14 +49,13 @@ references:
   - kearney-haber-2026-common-ancestry-process-ontology
 ---
 
-## Introduction
-
 **Where This Article Fits**
 
 *This article provides the core APS account of **Process**, the analytic projection concerned with how continuity is maintained, reorganised, or re-established despite change. It develops the dynamic dimension of organised persistence while distinguishing Process from the materially realised biological processes through which living organisation is maintained.*
 
 *APS therefore shares important explanatory concerns with processual approaches to biology without requiring process ontology as its metaphysical foundation. Process is an analytic projection rather than a claim that living systems are fundamentally processes, just as Agency and Scale are analytic projections rather than independent components or levels of biological reality. The article establishes this distinction for subsequent APS treatments of development, repair, regeneration, evolution, temporal organisation, and other cases in which continuity through change becomes an explanatory target.*
 
+## Introduction
 Biological systems are often described in terms of structure: cells, tissues, organs, and networks. Processes may then be described as events or activities occurring within or between these structures.
 
 This distinction can be useful, but living organisation cannot be understood solely as the persistence of unchanged structures. Living systems undergo continual material turnover, physiological change, development, repair, and reorganisation. The importance of such dynamic continuity has become a major theme in contemporary processual philosophy of biology (Dupré & Nicholson 2018; Nicholson & Dupré 2018).
