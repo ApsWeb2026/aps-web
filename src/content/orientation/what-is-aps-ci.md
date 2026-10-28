@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-09-27
+revised: 2026-10-28
 cluster: conceptual-foundations
 abstract: >
   APS is an integrative analytic framework for theoretical biology. It investigates
@@ -143,29 +143,17 @@ This distinction matters because the same biological phenomenon can raise differ
 APS stands for **Agency–Process–Scale**. The name therefore identifies three complementary ways of investigating one viability-oriented, constraint-closed organisation, not three ingredients from which living organisation is constructed.
 
 <div class="aps-diagram">
-
   <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
-
     <img
-
       src="/assets/diagrams/explanatory-structure.png"
-
       alt="APS explanatory structure showing Agency, Process, and Scale as complementary analytic projections of living organisation"
-
       loading="lazy"
-
     />
-
   </a>
-
   <p class="aps-diagram-caption">
-
     <strong>APS Explanatory Structure.</strong>
-
     Agency, Process, and Scale provide complementary analytic projections of one viability-oriented, constraint-closed living organisation. They distinguish explanatory questions without dividing biological reality into separate components or hierarchical levels.
-
   </p>
-
 </div>
 
 These projections do not determine in advance what an adequate biological explanation must contain. They help formulate questions about living organisation and identify relationships that may require investigation. Whether an APS analysis contributes explanatory value must then be established relative to the particular explanandum and the strongest relevant alternatives.

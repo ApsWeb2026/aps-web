@@ -6,7 +6,7 @@ type: orientation
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-26
-revised: 2026-10-03
+revised: 2026-10-28
 cluster: conceptual-foundations
 abstract: >
   This article serves as a guide to navigating the APS framework. Rather
@@ -54,29 +54,12 @@ relatedArticles:
   - naturalising-life
 ---
 
-> **Where this article fits:** **What Is APS?** introduces the framework.
-
-> **Naturalising Life** explains how APS develops and assesses its concepts.
-
-> **How APS Explains Life** introduces its explanatory logic.
-
-> **The Core Structure of APS** explains the conceptual architecture of the
-
-> framework.
-
+**Where this article fits:**
+**What Is APS?** *introduces the framework.* **Naturalising Life** *explains how APS develops and assesses its concepts.* **How APS Explains Life** *introduces its explanatory logic. **The Core Structure of APS** explains the conceptual architecture of the framework.*
 >
+*This article serves a different purpose. It is a guide to navigating APS. It introduces the major pathways, domains, and routes through the framework and helps readers understand where particular concepts, questions, and research programmes fit within the wider organisation of APS.*
 
-> This article serves a different purpose. It is a guide to navigating
-
-> APS. It introduces the major pathways, domains, and routes through the
-
-> framework and helps readers understand where particular concepts,
-
-> questions, and research programmes fit within the wider organisation of
-
-> APS.
-
-APS has two closely related but distinct roles within this structure. It proposes an account of living organisation centred on viability-oriented, constraint-closed organisation, and it provides a methodology for asking what explanatory difference that account makes in particular cases. The first supplies APS with its organisational perspective; the second determines whether that perspective provides clarification, methodological value, or additional biological explanatory gain.
+*APS has two closely related but distinct roles within this structure. It proposes an account of living organisation centred on viability-oriented, constraint-closed organisation, and it provides a methodology for asking what explanatory difference that account makes in particular cases. The first supplies APS with its organisational perspective; the second determines whether that perspective provides clarification, methodological value, or additional biological explanatory gain.*
 
 ## Introduction
 
@@ -139,29 +122,17 @@ These are not independent theories, nor are they separate branches of the framew
 Together, Agency, Process, and Scale function as complementary, target-sensitive analytic projections of one viability-oriented, constraint-closed organisation. They provide a bounded analytic architecture for organising inquiry, not a demonstrated general Explanatory Grammar or a universally required method.
 
 <div class="aps-diagram">
-
   <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
-
     <img
-
       src="/assets/diagrams/explanatory-structure.png"
-
       alt="APS explanatory structure integrating agency, process, and scale within organised persistence"
-
       loading="lazy"
-
     />
-
   </a>
-
   <p class="aps-diagram-caption">
-
     <strong>APS Explanatory Structure.</strong>
-
     Agency, Process, and Scale provide complementary analytic projections through which APS investigates viability-oriented, constraint-closed living organisation and its continuity through change.
-
   </p>
-
 </div>
 
 APS therefore approaches living organisation organisationally. It does not reject analysis of components or mechanisms, which may provide sufficient explanations for particular biological questions. When living organisation or organised persistence is the target, APS additionally asks how components, processes and constraints participate in maintaining viable continuity through change. This question supplements rather than supersedes established explanations and earns explanatory standing only through target-matched comparison.
