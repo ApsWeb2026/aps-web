@@ -14,11 +14,9 @@ abstract: >
   of the major pathways, domains, and explanatory themes that organise the
   framework. Readers are introduced to the principal concepts and
   developmental, ecological, evolutionary, cognitive, diagnostic, and
-  social pathways of APS and shown how these different parts relate where they bear upon living organisation and organised persistence.  The pathways retain different
-  explanatory targets and proposition-specific evidential status.
-  The article is intended to help readers understand where particular
-  concepts, questions, and research programmes belong within the wider
-  framework and how different routes through APS connect to one another.
+  social pathways of APS. It explains how these pathways relate where
+  they bear upon living organisation and organised persistence, while
+  retaining their different explanatory targets and evidential statuses.
 relatedGlossaryTerms:
   - biological-agency
   - process
@@ -54,72 +52,53 @@ relatedArticles:
   - naturalising-life
 ---
 
-**Where this article fits:**
-**What Is APS?** *introduces the framework.* **Naturalising Life** *explains how APS develops and assesses its concepts.* **How APS Explains Life** *introduces its explanatory logic. **The Core Structure of APS** explains the conceptual architecture of the framework.*
+> **Where this article fits:** **What Is APS?** introduces the framework. **Naturalising Life** explains how APS develops and assesses its concepts. **How APS Explains Life** introduces its explanatory logic. **The Core Structure of APS** explains its conceptual architecture.
 >
-*This article serves a different purpose. It is a guide to navigating APS. It introduces the major pathways, domains, and routes through the framework and helps readers understand where particular concepts, questions, and research programmes fit within the wider organisation of APS.*
-
-*APS has two closely related but distinct roles within this structure. It proposes an account of living organisation centred on viability-oriented, constraint-closed organisation, and it provides a methodology for asking what explanatory difference that account makes in particular cases. The first supplies APS with its organisational perspective; the second determines whether that perspective provides clarification, methodological value, or additional biological explanatory gain.*
+> This article serves a different purpose. It guides readers through the major pathways, domains, and routes of inquiry within APS, explaining how they relate and where particular questions and research programmes belong.
 
 ## Introduction
 
-APS contains many articles, concepts, pathways, and explanatory domains.
+APS contains many articles, concepts, pathways, and explanatory domains. These include persistence, viability, development, ecology, evolution, cognition, adaptation, diagnosis, resilience, repair, normativity, and social organisation. Readers may understand individual concepts before fully appreciating how they connect.
 
-At first glance, this variety can appear overwhelming. The framework includes discussions of persistence, viability, development, ecology, evolution, cognition, adaptation, diagnosis, resilience, repair, normativity, social organisation, and many other topics. Readers often understand individual concepts before they fully understand how those concepts connect. This article is designed to address that problem.
+This article provides a guide to those connections. It does not attempt to explain every component of APS in detail or introduce new theoretical commitments. Instead, it shows how the framework is organised and how readers can explore its different areas of inquiry.
 
-Its purpose is not to introduce new concepts, nor does it attempt to explain every component of the framework in detail. Instead, it serves as a guide to the organisation of APS, helping readers understand the major pathways, domains, and routes through which the framework can be explored.
+APS has two closely related but distinct roles. It proposes an account of living organisation centred on viability-oriented, constraint-closed organisation, and it provides a methodology for asking what explanatory difference that account makes in particular cases. The first supplies an organisational perspective; the second determines whether that perspective provides clarification, methodological value, or additional biological explanatory gain.
 
-The organising question is simple:
-
-> Many APS pathways are organised around a recurring explanatory question.
+A recurring question across many APS pathways is:
 
 > How do living systems maintain viable continuity through time despite continual transformation?
 
-APS asks how development bears upon continuity through transformation, how ecology bears upon organism–environment relationships, how evolution bears upon historical transformation across generations, how cognition may involve the organisation of biological significance across time, how diagnosis bears upon disruption and recovery, and how social organisation may distribute continuity-supporting activity across collective forms of coordination. These are APS routes of inquiry, not a claim that all domains share one explanandum or have already been comparatively validated through APS.
+Development, ecology, evolution, cognition, diagnosis, and social organisation can each be investigated in relation to this question where it bears upon their explanatory targets. This does not mean that all biological domains share one explanandum or that their APS formulations have been comparatively validated.
 
-What initially appears to be a collection of separate biological topics can therefore be navigated through a shared organisational question where that question is relevant. APS is not merely a catalogue of concepts. It is an integrative analytic framework for investigating living organisation and organised persistence without requiring every biological domain to be reconstructed within one unified account.
-
-This gives APS potentially broad scope without giving it universal explanatory authority. Living organisation provides APS with a domain-wide subject of investigation because it concerns what is characteristic of living systems across the biological domain. APS nevertheless does not require every biological question to be reformulated as a question about organised persistence. Particular phenomena may be adequately explained through mechanistic, evolutionary, developmental, ecological, mathematical, informational, or other approaches. Any claim that an APS formulation adds explanatory value must be established against the strongest relevant alternatives addressing the same target.
+APS is therefore an integrative analytic framework, not a requirement that every biological question be reconstructed in terms of organised persistence. Mechanistic, developmental, evolutionary, ecological, mathematical, informational, and other approaches may provide sufficient explanations for particular phenomena.
 
 [[box:what-biological-explanation-explains]]
 
 ## The Framework at a Glance
 
-The easiest way to understand APS is to begin with a central organising problem:
+Living systems persist, but they do not persist by remaining unchanged. Organisms grow, develop, adapt, repair damage, interact with environments, reproduce, learn, and age. Their components and activities are continually reorganised, yet biological continuity can be maintained.
 
-> Living systems persist.
+APS treats this achievement as an important explanatory problem. Persistence concerns continuity through time; viability concerns the conditions compatible with continued living organisation; and adaptation, repair, and resilience concern different ways in which organisation may respond to changing or disruptive circumstances.
 
-Yet they do not persist by remaining unchanged. Organisms grow, develop, adapt, repair damage, interact with environments, reproduce, learn, age, and participate in increasingly complex ecological and social systems. Continuity must therefore be preserved despite continual transformation.
+These relationships provide a common point of orientation. They do not establish a hierarchy in which every biological domain must contribute to a single cumulative explanation. Each domain retains its own questions, methods, and explanatory resources.
 
-APS treats this achievement as an important explanatory problem in developing its organisational account of living systems. Many, but not all, pathways within the framework can be related to this starting point where continuity through change is relevant to their explanatory target.
-
-Persistence becomes important because living systems must maintain continuity through time. Viability becomes important because continuity must remain compatible with continued existence. Adaptation becomes important because continuity must remain possible under changing conditions, while repair and resilience become important because continuity must survive disruption and recover from perturbation. Development becomes important because continuity must be maintained through transformation rather than despite it.
-
-The framework therefore provides a connected navigational structure. Its domains can be examined for how they bear upon organised persistence while retaining their own questions, methods and explanatory resources. Their relationship is conditional rather than a cumulative hierarchy of necessary layers.
-
-Readers sometimes ask whether APS is primarily about development, ecology, evolution, cognition, diagnosis, or social organisation. APS investigates all of these areas where their findings bear upon living organisation, but it does not assume that they share a single explanandum or that Agency, Process and Scale are equally required in each case. The framework uses a common organisational lens to formulate possible relationships that must then be assessed target by target.
-
-## How APS Is Organised
-
-At the centre of the framework lies a simple explanatory structure.
+### Agency, Process, and Scale
 
 APS investigates living systems through three complementary analytic projections:
 
-- agency;
+- **Agency:** viability-oriented activity.
+- **Process:** ongoing organisational dynamics.
+- **Scale:** spatial and temporal coordination.
 
-- process;
+These are not independent theories or separate biological components. They are perspectives through which APS investigates viability-oriented organisation.
 
-- and scale.
+**Agency concerns what living systems do.** Organisms regulate conditions affecting their continued viability by acquiring resources, responding to challenges, repairing damage, reorganising activity, and contributing actively to their own persistence. Agency identifies the activity through which viability-oriented organisation is enacted and sustained.
 
-These are not independent theories, nor are they separate branches of the framework. They are three analytic projections through which APS investigates a single viability-oriented organisation: 
+**Process concerns how organisation continues through change.** Living systems persist through ongoing activity rather than static existence. Metabolism, development, adaptation, learning, ecological interaction, repair, and reproduction involve processes through which biological organisation is maintained, reorganised, or transformed. Process identifies these continuing organisational dynamics.
 
-**Agency concerns what living systems do.** Organisms regulate conditions affecting their continued viability by acquiring resources, responding to challenges, repairing damage, reorganising activity, and contributing actively to their own persistence. Agency therefore identifies the activity through which viability-oriented organisation is enacted and sustained.
+**Scale concerns the spatial and temporal extents across which organisation is realised and coordinated.** Molecular, cellular, physiological, organismal, ecological, developmental, and evolutionary processes operate across different extents. Their interactions and constraints are materially implemented. No scale possesses intrinsic causal or explanatory priority.
 
-**Process concerns how continuity is maintained despite change.** Living systems persist through ongoing activity rather than static existence. Development, metabolism, adaptation, learning, ecological interaction, repair, and reproduction involve processes through which biological organisation is maintained, reorganised, or transformed through time. Process therefore identifies the dynamic organisation through which continuity is maintained despite continual change.
-
-**Scale concerns where persistence is organised across spatial and temporal extents.** Molecular, cellular, physiological, organismal, ecological, developmental, and evolutionary processes operate across different extents and can influence one another through materially implemented interactions and constraints. These are not independent hierarchical levels, and no scale possesses intrinsic causal or explanatory priority. Scale therefore identifies the spatial and temporal extents across which organised persistence is realised.
-
-Together, Agency, Process, and Scale function as complementary, target-sensitive analytic projections of one viability-oriented, constraint-closed organisation. They provide a bounded analytic architecture for organising inquiry, not a demonstrated general Explanatory Grammar or a universally required method.
+Together, Agency, Process, and Scale provide complementary, target-sensitive perspectives on living organisation. Their use depends upon the explanatory question, rather than a requirement that all three receive equal emphasis in every investigation.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/explanatory-structure.png" target="_blank" rel="noopener">
@@ -135,380 +114,256 @@ Together, Agency, Process, and Scale function as complementary, target-sensitive
   </p>
 </div>
 
-APS therefore approaches living organisation organisationally. It does not reject analysis of components or mechanisms, which may provide sufficient explanations for particular biological questions. When living organisation or organised persistence is the target, APS additionally asks how components, processes and constraints participate in maintaining viable continuity through change. This question supplements rather than supersedes established explanations and earns explanatory standing only through target-matched comparison.
+APS does not reject analysis of components or mechanisms. Rather, when living organisation is the explanatory target, it asks how components, processes, activities, and constraints participate in maintaining or transforming that organisation. Whether this perspective contributes anything beyond established explanations must be assessed through appropriate comparison.
 
 [[box:analysis-vs-synthesis-two-directions-of-explanation]]
 
 ## Organised Persistence
 
-Organised persistence is an important explanandum-organising concept within APS.
+Organised persistence is an important concept for organising explanatory questions within APS.
 
-Many APS pathways can be investigated in relation to how continuity is maintained or re-established despite continual transformation. Living systems continuously change: components turn over, environments fluctuate, development reorganises structures and capacities, behaviour adapts to changing circumstances, and populations evolve across generations. Yet organisational continuity can remain.
+Living systems continuously change. Components turn over, environments fluctuate, development reorganises structures and capacities, behaviour responds to changing circumstances, and populations evolve across generations. Yet organisational continuity can remain.
 
-APS uses organised persistence to identify this continuity of living organisation through change. Persistence therefore does not mean static endurance. Within APS it concerns the maintenance or re-establishment of organisational continuity under changing conditions.
+APS uses **organised persistence** to identify the maintenance or re-establishment of living organisation through such changes. Persistence therefore does not mean static endurance or mere duration. It concerns continuity maintained through ongoing organisational activity.
 
-This distinction can clarify how biological organisation is investigated. Organisms remain viable not because they avoid change, but because ongoing activities can maintain or re-establish conditions compatible with continued functioning. APS asks whether development, adaptation, repair, resilience, ecological interaction, social coordination and evolutionary transformation bear upon this continuity where the relationship is explanatorily relevant.
+This distinction provides a way of investigating relationships among viability, temporality, adaptation, repair, and resilience. Organisms remain viable not because they avoid change, but because their activities can maintain or re-establish conditions compatible with continued functioning.
 
-Organised persistence currently has demonstrated explanandum-organising and integrative utility, not demonstrated general substantive explanatory gain. In the tested planarian case, it did not establish a new biological dependency beyond mature regeneration explanations.
+Organised persistence is nevertheless an *explanandum-organising* concept rather than a general mechanism of biological explanation. It identifies a phenomenon and possible relationships for investigation. Its conceptual and integrative utility does not itself demonstrate additional explanatory gain.
 
-The remainder of the framework explores the different ways in which organised persistence becomes possible across biological domains.
+In the tested planarian case, the organised-persistence formulation did not establish a new biological dependency beyond mature regeneration explanations. That result limits the claim supported by that comparison without settling the value of every possible APS investigation.
 
-## Orientation Pathway
+The following pathways show how APS approaches different biological questions through this organisational perspective.
 
-Because APS has grown into a substantial framework, readers often benefit from approaching it through a structured orientation pathway before exploring particular domains in detail. The framework was not developed as a collection of independent articles. Its concepts, pathways, and research programmes build upon one another and become easier to understand when encountered in a broadly coherent sequence.
+## The Major Pathways of APS
 
-A useful starting point is What Is APS?. That article introduces the central question that motivates the framework and explains why APS begins with the problem of how living systems maintain viable continuity through time despite continual transformation. Readers seeking an initial overview of the framework should begin there.
+APS pathways are navigational groupings, not obligatory biological modules or successive stages of increasing complexity.
 
-The next step is Understanding APS. Whereas What Is APS? introduces the framework, the present article explains how the framework is organised. Its purpose is to help readers navigate the major pathways, domains, and conceptual routes that make up APS and to identify where particular questions and research programmes belong within the wider organisation of the framework.
+Each pathway retains its own explanatory targets and specialised methods. Relationships among pathways become relevant when they help clarify a particular biological question.
 
-Readers wishing to understand how APS develops and presents its account should then continue to Naturalising Life and How APS Explains Life. Naturalising Life examines how APS develops and stabilises its biological concepts, while How APS Explains Life introduces the organisational account through which APS interprets living systems in terms of viability-oriented organisation and organised persistence. Independently applicable comparative methodology remains separate from substantive evidence for that account.
+### Persistence and Temporality
 
-Readers may then continue to The Core Structure of APS. That article presents the framework's integrated conceptual architecture for navigation and inquiry. It proposes relationships among agency, biological evaluation, significance, integration, cognition, mind, selfhood, reflective agency and meaning while preserving that conceptual coherence is not by itself evidence of substantive biological gain.
+The persistence pathway develops the conceptual language through which APS investigates continuity through change.
 
-From there, readers may continue to APS Architecture Map and How APS Concepts Fit Together, which provide visual and conceptual navigation aids, or proceed directly into specialised domains such as development, ecology, evolution, cognition, diagnosis, resilience, social organisation, and the broader life-to-mind research programme developed in How Did Matter Become Aware of Itself?. APS therefore supports many routes of exploration, but this orientation pathway provides the clearest introduction to the framework as a whole.
-
-## Major Pathways Within APS
-
-Once the central idea of organised persistence is understood, the overall structure of APS becomes much easier to navigate.
-
-The framework is organised into several major pathways. These pathways are navigational groupings rather than biological modules or obligatory components. Each can be examined in relation to a recurring APS question:
-
-> How does viable continuity remain possible through time?
-
-Together they provide a progressively expanding map of how APS relates organised persistence to multiple biological domains. The map does not establish that all domains share the same explanatory target or that their APS formulations have equal evidential status.
-
-Readers can treat these pathways as candidate continuity architectures considered across different spatial and temporal extents and under different conditions. Each retains its own concepts and specialised questions; any contribution to understanding biological persistence must be established rather than inferred from inclusion in the framework.
-
-## Persistence and Temporality
-
-The persistence pathway provides a principal organising route through the framework.
-
-APS begins from the observation that living systems maintain continuity despite continual transformation. Understanding this achievement requires careful attention to persistence, viability, temporality, adaptation, resilience, repair, and continuity itself. This pathway therefore develops the conceptual language through which organised persistence can be understood.
+It asks what biological persistence means, how organisational continuity differs from simple duration, why viability matters, and how temporal organisation contributes to maintaining or restoring living organisation.
 
 Questions explored within this pathway include:
 
-- What does biological persistence mean?
+- What distinguishes biological persistence from mere endurance?
+- How can organisational continuity be maintained while components change?
+- What conditions are relevant to continued viability?
+- How do adaptation, repair, and resilience bear upon continuity?
+- How are these relationships coordinated across different temporal extents?
 
-- How does continuity differ from simple duration?
+Persistence identifies an explanatory problem; temporality concerns how continuity is organised through time; and viability concerns conditions relevant to continued functioning.
 
-- Why is viability central to living systems?
+These concepts provide an important route into APS without being indispensable to every biological explanation.
 
-- How is continuity maintained under changing conditions?
-
-- What role do repair and resilience play in persistence?
-
-Together these concepts organise APS questions about continuity through change. Persistence identifies the explanatory problem, temporality concerns how continuity is organised through time, and viability concerns conditions relevant to continued functioning. Their role within APS does not make them foundationally indispensable to every biological explanation.
-
-Key articles include:
+**Key articles:**
 
 - **Persistence — Organised Continuity Through Time**
-
 - **Viability — The Organising Principle of Biological Persistence**
-
 - **Temporal Organisation and Organised Persistence**
-
 - **Scale, Time, and Persistence**
 
-## Development and Organised Persistence
+### Development and Organised Persistence
 
-The developmental pathway explores how continuity is maintained through transformation.
+The developmental pathway investigates how continuity is maintained through transformation.
 
-This is an important theme within APS because living systems do not simply persist through time. They persist while continually changing. Growth, repair, learning, adaptation, maturation, ageing and ecological responsiveness involve processes unfolding across the lifespan.
+Living systems do not simply persist through time. They grow, differentiate, mature, repair damage, undergo physiological reorganisation, and age. Their capacities and structures can change substantially while aspects of organisational continuity remain.
 
-APS therefore treats development as more than an early phase of life and investigates it as a candidate continuity architecture. This is an APS formulation whose explanatory contribution must be assessed against the strongest developmental explanations addressing the same target.
+APS therefore investigates development as a possible continuity architecture. This formulation directs attention to relationships among morphogenesis, developmental integration, regulation, plasticity, repair, and temporal coordination.
 
 The developmental pathway examines:
 
-- morphogenesis;
-
+- morphogenesis and differentiation;
 - developmental integration;
+- plasticity and regulation;
+- resilience and repair;
+- ageing and life cycles;
+- developmental niches; and
+- continuity through organismal transformation.
 
-- plasticity;
+A central APS proposal is that development can be investigated not merely as change occurring during the life of an organism, but as a process through which living organisation is maintained and transformed.
 
-- regulation;
+> Living systems do not persist despite development. They persist through development.
 
-- resilience;
+This formulation may clarify relationships between developmental change and organisational continuity. Its explanatory contribution must nevertheless be established against the strongest developmental accounts addressing the same target.
 
-- ageing;
+The tested developmental–evolutionary comparison did not demonstrate additional explanatory gain from the organised-persistence formulation on its specified target.
 
-- developmental niches;
-
-- and developmental continuity.
-
-Together these topics allow APS to investigate how organisms remain viable despite continual transformation. The developmental organisation of life expresses an APS proposal:
-
-> Living systems do not persist despite development.
-
-> They persist through development.
-
-Development can therefore connect persistence as an organising concept with questions about ongoing biological transformation. The tested developmental–evolutionary comparison did not demonstrate additional explanatory gain from the organised-persistence formulation on its locked target.
-
-Key articles include:
+**Key articles:**
 
 - **Development as Organised Persistence**
-
 - **Developmental Temporality**
-
 - **The Developmental Organisation of Life**
-
 - **Morphogenesis**
-
 - **Life Cycles**
-
 - **Developmental Integration**
-
 - **Ageing and Organisational Persistence**
 
-## Ecology and Evolution
+### Ecology and Evolution
 
-The ecological and evolutionary pathways extend continuity beyond individual organisms.
+The ecological and evolutionary pathways investigate relationships that extend beyond the immediate organisation of individual organisms, while retaining distinct explanatory questions.
 
-Once continuity is understood developmentally, a broader question emerges: how does persistence remain possible within larger ecological and historical systems?
+**Ecology** concerns organism–environment relationships. Organisms depend upon resources, environmental conditions, ecological niches, symbiotic interactions, and multiple forms of coupling with their surroundings. APS investigates how these relationships bear upon the maintenance and transformation of living organisation.
 
-Ecology addresses organism–environment relations relevant to continuity. Organisms do not persist in isolation. Their viability depends upon resources, environmental relationships, ecological niches, symbiotic interactions and multiple forms of coupling with the wider world. APS asks how established ecological explanations bear upon the continuity of living organisation without requiring ecological targets to be redescribed as organised persistence.
+Ecological explanations need not be redescribed as organised persistence to be adequate. APS asks whether its organisational perspective clarifies relationships that matter to a particular ecological target.
 
-Evolution addresses historical transformation across generations. APS formulates evolution as the historical transformation of viability-oriented, persistence-sustaining organisation, while retaining this as an integrative formulation rather than demonstrated general explanatory gain.
+**Evolution** concerns historical transformation across generations. APS formulates evolution as the historical transformation of viability-oriented organisation, while retaining established evolutionary mechanisms and explanations as indispensable to the phenomena they address.
 
-APS investigates possible relationships between ecology and evolution where their different explanatory targets bear upon living organisation. Ecology may illuminate present organism–environment relations, evolution historical transformation across generations, and adaptation their differing relations to changing conditions. These formulations do not collapse the domains into a single explanation.
+This formulation is an integrative perspective, not a demonstrated general improvement over evolutionary theory.
 
-Together these pathways provide APS with routes for investigating how questions of continuity may extend beyond individual organisms across ecological and evolutionary timescales. The tested developmental–evolutionary target yielded no additional APS explanatory gain, and that local null does not determine the status of the framework as a whole.
+Ecology and evolution can be related where present organism–environment interactions, historical transformation, and adaptation bear upon a shared biological question. Their connection does not collapse ecological and evolutionary explanations into one account.
 
-Key articles include:
+The developmental–evolutionary comparison yielded no additional APS explanatory gain on its tested target. This local result does not establish a framework-wide verdict.
+
+**Key articles:**
 
 - **Ecology as Organised Persistence Across Scales**
-
 - **Evolution as the Historical Transformation of Organised Persistence**
-
 - **Adaptation — How Living Systems Sustain Themselves Through Change**
-
 - **Physiology and Evolution in APS — Two Temporal Perspectives on the Same Biological Organisation**
 
-## Cognition and Semiosis
+### Cognition and Semiosis
 
 The cognition pathway develops one of the open research areas of APS.
 
-Approaches differ over how cognition relates to the rest of biology. APS asks whether and how cognition contributes to the organisation of activity across time within living systems.
+Different approaches disagree about how cognition relates to the wider organisation of life. APS asks whether cognition can be understood in relation to biological evaluation, significance, and the integration of activity across time.
 
-The APS pathway begins with Biological Evaluation: the proposed process through which agency generates significance. Conditions can differ in their consequences for viability, but the APS account of Biological Evaluation and significance remains conditional and untested as a source of additional explanatory gain.
+The pathway begins with **Biological Evaluation**, through which APS proposes that conditions acquire significance in relation to the viability of a living system. This account distinguishes the consequences that conditions may have for an organism from the organisation through which those consequences become relevant to its activity.
 
-From evaluation, the framework develops a connected sequence of concepts:
+APS investigates possible relationships among:
 
-- semiosis;
-
-- meaning;
-
-- information;
-
+- biological evaluation;
+- semiosis and significance;
+- meaning and information;
 - representation;
+- cognition and intelligence; and
+- consciousness.
 
-- cognition;
+These concepts do not constitute an inevitable sequence through which every living system develops. Nor does their conceptual relationship establish that all forms of biological responsiveness are cognitive.
 
-- intelligence;
-
-- and consciousness.
-
-Rather than treating these topics as isolated philosophical or psychological problems, APS proposes to situate them within a broader account of viability-oriented organisation. The resulting pathway is a conceptual research architecture, not a comparator-validated sequence or an inevitable hierarchy of cognitive development.
+The APS account instead investigates what additional organisational conditions may distinguish cognition from more general viability-oriented activity.
 
 [[box:cognition-pathway]]
 
-The cognition pathway therefore investigates how activity may become increasingly sensitive, flexible and responsive to changing conditions. The APS minimal-cognition discriminator remains an open, testable hypothesis; the pathway does not yet establish general explanatory gain over the strongest relevant alternatives.
+The proposed relationships constitute a conceptual research architecture. The minimal-cognition discriminator remains an open, testable hypothesis, and the pathway has not demonstrated general explanatory gain over the strongest relevant alternatives.
 
-## Diagnosis and Resilience
+### Diagnosis and Resilience
 
-The diagnostic pathway examines what happens when continuity becomes threatened, disrupted, destabilised, or lost.
+The diagnostic pathway investigates what happens when biological continuity is threatened, disrupted, destabilised, or lost.
 
-Many aspects of biological organisation become most visible when systems fail. When continuity is preserved successfully, much of the organisation responsible for that preservation remains hidden. Repair systems often go unnoticed until damage occurs. Regulatory systems become most apparent when conditions change. Resilience becomes visible when continuity is challenged.
+Some organisational relationships become particularly visible during failure. Repair systems may become apparent following damage, regulatory relationships during perturbation, and compensatory capacities when ordinary functioning is disrupted.
 
-APS therefore treats perturbation as potentially explanatorily valuable because disruptions can reveal organisational relationships involved in persistence.
+APS therefore treats perturbation as a potentially valuable means of investigating living organisation.
 
-This insight leads to a pathway centred on:
+The pathway examines:
 
-- perturbation;
+- perturbation and malfunction;
+- destabilisation of continuity;
+- compensation and regulation;
+- resilience and recovery;
+- repair and regeneration; and
+- irreversible organisational failure.
 
-- malfunction;
+Within APS, diagnosis can be investigated as more than the identification of defective components. It may also concern the organisational relationships through which functioning is maintained or recovered.
 
-- continuity destabilisation;
-
-- resilience;
-
-- compensation;
-
-- recovery;
-
-- repair;
-
-- regeneration;
-
-- and continuity failure.
-
-Within APS, diagnosis is consequently proposed as more than defect identification: it can be investigated as a form of continuity analysis.
-
-The central question is not simply:
+The diagnostic question is therefore not simply:
 
 > What has gone wrong?
 
-but:
+It may also be:
 
 > How has continuity been disrupted, and what organisational capacities remain available for recovery?
 
-This perspective links diagnosis to broader APS questions. Repair may disclose continuity-preserving organisation, resilience continuity-recovering organisation, and failure dependencies that successful functioning can conceal.
+This perspective can connect diagnosis with repair, resilience, and the investigation of dependencies that successful functioning may conceal.
 
-Diagnosis therefore provides a candidate route into the organisational architecture of living systems. The tested planarian case did not establish an APS-specific new dependency beyond mature regeneration explanations, and no validated APS-specific diagnostic or biosignature programme is currently claimed.
+It remains a candidate explanatory approach rather than a validated APS-specific diagnostic method. The tested planarian case did not establish a new dependency beyond mature regeneration explanations, and no validated APS-specific biosignature programme is currently claimed.
 
-Key articles include:
+**Key articles:**
 
 - **Diagnosis as Continuity Analysis**
-
 - **How to Diagnose a Biological System**
-
 - **Malfunction**
-
 - **Ecological Resilience**
 
 [[box:failure-reveals-organisation]]
 
-## Social Organisation
+### Social Organisation
 
-The social pathway extends continuity beyond the level of individual organisms.
+The social pathway investigates how continuity may be supported through collective forms of coordination.
 
-Many forms of life persist not only through physiological, developmental, ecological, and cognitive organisation, but also through collective forms of coordination. Communication, cooperation, cultural transmission, institutions, shared practices, and distributed systems of knowledge all contribute to maintaining continuity across groups and populations.
+Living systems participate in relationships involving communication, cooperation, social learning, cultural transmission, and shared practices. Such relationships can alter the conditions under which individual organisms and populations maintain their organisation.
 
-APS therefore investigates social organisation as a candidate continuity architecture through which viability may be supported.
+APS examines how social organisation may distribute activities and dependencies across interacting agents.
 
-The social pathway explores how persistence may become distributed across interacting agents and how continuity may be supported through collective organisation rather than solely through individual capacities. This perspective provides an APS route into questions concerning cooperation, social learning, cultural inheritance and collective resilience without indiscriminately attributing biological agency to every collective, institution or ecological whole.
+The pathway considers:
 
-Social organisation does not replace individual agency. APS asks how materially implemented collective relations may alter the conditions under which agents maintain continuity across changing circumstances.
+- cooperation and social coordination;
+- communication and social learning;
+- cultural transmission;
+- distributed persistence;
+- collective resilience; and
+- relationships between individual and collective organisation.
 
-Key articles include:
+This perspective does not imply that every group, institution, or ecological collective possesses biological agency. APS distinguishes the activities of living agents from the collective relationships through which their conditions of viability may be altered.
+
+Social organisation therefore provides a route for investigating materially implemented coordination without replacing individual agency or assuming that all collective systems share the organisational characteristics of living organisms.
+
+**Key articles:**
 
 - **The Social Organisation of Life**
-
 - **Social Coordination**
-
 - **Social Continuity**
-
 - **Distributed Persistence**
-
 - **Cultural Transmission and Organised Persistence**
 
 ## How APS Organises Biological Explanation
 
-At this point, the overall structure of the framework becomes visible.
+The pathways described above address different biological phenomena. APS offers an organisational perspective through which their findings may be related when the explanatory question warrants such integration.
 
-The persistence pathway organises questions about continuity through change. The developmental pathway investigates continuity through transformation. The ecological and evolutionary pathways address different organism–environment and historical questions. The cognitive pathway develops APS proposals concerning Biological Evaluation, significance and temporally organised activity. The diagnostic pathway examines disruption and recovery, while the social pathway considers materially implemented collective coordination. These pathways have different targets and evidential statuses even where APS relates them to organised persistence.
+The persistence pathway concerns continuity through change. Development investigates transformation during an organism's life. Ecology addresses organism–environment relationships, while evolution addresses historical transformation across generations. Cognition concerns proposed relationships among evaluation, significance, and temporally organised activity. Diagnosis investigates disruption and recovery, and social organisation examines collective coordination.
 
-Each pathway provides a different APS perspective on organised persistence. Their relationships form an integrated architecture for navigation and inquiry around a recurring question:
+These pathways can be connected without assuming that their explanatory targets are identical.
 
-> How do living systems maintain viable continuity through time?
+APS also distinguishes its substantive organisational account from the methodology used to assess its explanatory claims. An APS interpretation may provide conceptual clarification or useful integration without establishing new causal relationships or additional explanatory gain.
 
-APS does not reject mechanistic, developmental, ecological, evolutionary, informational or other forms of biological explanation. These approaches can address different questions using their own explanatory resources and may provide sufficient explanations for their respective targets.
+Mechanistic, developmental, ecological, evolutionary, informational, mathematical, and other approaches retain their explanatory standing. They may already provide sufficient accounts of particular phenomena.
 
-Where their questions bear upon living organisation and organised persistence, APS provides an integrative analytic perspective through which their contributions can be related without requiring their reduction to, or reconstruction through, APS. Any comparison should use independently applicable, target-matched controls and the strongest relevant alternatives; that methodology is not substantive evidence for APS biology or a uniquely APS invention.
-
-APS integrates explanatory contributions where such integration is warranted by the question being addressed; it does not assume that explanatory plurality must always be unified.
+Where APS proposes an improvement, the relevant comparison must address the same explanatory target, use independently applicable criteria, and consider the strongest available alternatives.
 
 [[box:the-organisational-grammar-of-aps]]
 
-The framework provides a bounded analytic vocabulary for investigating how diverse biological phenomena may relate to viability-oriented organised persistence where that relationship is relevant to the explanatory question. Its coherence and navigational usefulness do not by themselves demonstrate substantive explanatory gain.
+APS therefore provides a bounded analytic vocabulary for investigating living organisation. Its coherence and usefulness for navigation do not, by themselves, establish a universally applicable explanatory grammar or substantive superiority over existing biological explanations.
 
 ## Navigating the Framework
 
-Because APS is organised as an interconnected navigational architecture, readers often benefit from beginning with the orientation pathway before moving into specialised domains.
+Readers approaching APS for the first time may benefit from a structured sequence before exploring specialised domains.
 
-A useful starting sequence is:
+A useful starting pathway is:
 
-1. What Is APS?
+1. **What Is APS?** — introduces the framework and its central concerns.
+2. **Understanding APS** — the present guide to its organisation and pathways.
+3. **Naturalising Life** — explains how APS develops and assesses its concepts.
+4. **How APS Explains Life** — introduces the organisational account of living systems.
+5. **The Core Structure of APS** — develops the relationships among principal concepts.
+6. **APS Architecture Map** — provides visual guidance through the framework.
+7. **How APS Concepts Fit Together** — examines relationships within the wider conceptual architecture.
 
-2. Understanding APS
+This sequence is a recommendation for navigation, not an obligatory order of conceptual dependence.
 
-3. Naturalising Life
+Readers can then pursue the specialised pathways according to their interests. Some may begin with persistence, viability, and temporality; others with development, ecology, evolution, cognition, diagnosis, or social organisation.
 
-4. How APS Explains Life
+The wider APS website also distinguishes explanatory proposals from the research undertaken to assess them. Readers interested in current findings, limitations, and continuing investigations should consult [APS Research](/research/).
 
-5. The Core Structure of APS
-
-6. APS Architecture Map
-
-7. How APS Concepts Fit Together
-
-Together these articles introduce the central questions and commitments of APS and provide conceptual and visual tools for navigating the wider framework. Independently applicable comparative methodology supplies the controls by which APS proposals, like other proposals, must be assessed.
-
-From there, readers can follow their interests into particular domains. Some begin with persistence, viability, temporal organisation, adaptation, and resilience. Others move into development, morphogenesis, plasticity, integration, and ageing. Readers interested in cognition and mind can follow the pathway through biological evaluation, significance, cognition, mind, selfhood, reflective agency, and meaning. Others may begin with ecology, evolution, diagnosis, or social organisation.
-
-APS therefore supports multiple routes of exploration while using viability-oriented organisation and organised persistence as recurring organising concepts. This integration is a navigational and analytic achievement rather than evidence that all routes form one comparator-validated biological explanation.
-
-## What APS Changes
-
-APS proposes a distinctive way of organising explanation when living organisation and organised persistence are the central targets.
-
-Rather than beginning only with isolated components, it can begin with continuity. Rather than treating biological domains as interchangeable, it asks where their different findings bear upon living organisation. Rather than treating persistence as static endurance, it investigates continuity through organised transformation.
-
-This shift changes the questions APS makes available. Persistence is treated dynamically rather than statically; stability can be investigated as maintained continuity rather than immobility; development can be examined for its relation to continuity through transformation; ecology for organism–environment conditions; diagnosis for disruption and recovery; cognition for the organisation of biological significance across time; and social organisation for materially implemented collective relations. These remain APS formulations of differing evidential status, not collectively comparator-validated biology.
-
-The result is an integrative analytic framework that can formulate possible relationships among phenomena often studied separately. Whether any such relationship provides additional explanatory value remains target-dependent.
-
-APS therefore organises its general account of living systems around:
-
-- organised persistence;
-
-- viability;
-
-- continuity;
-
-- temporality;
-
-- development;
-
-- adaptation;
-
-- ecology;
-
-- cognition;
-
-- repair;
-
-- resilience;
-
-- social organisation;
-
-- and continuity-preserving organisation across scale and time.
+Those interested in the longer-term synthesis connecting life, cognition, mind, selfhood, reflective agency, and meaning may continue with **How Did Matter Become Aware of Itself?**
 
 ## Conclusion
 
-Understanding APS ultimately means understanding the organisational logic that connects its many domains.
+Understanding APS involves recognising both the connections among its concepts and the differences among the biological questions it investigates.
 
-At first glance, the framework may appear to contain diverse and unrelated topics. Persistence, development, ecology, evolution, cognition, diagnosis, resilience, repair and social organisation can seem like separate areas of inquiry. APS proposes that they can be related where each bears upon a recurring organisational challenge:
+Agency, Process, and Scale provide complementary perspectives on viability-oriented living organisation. Organised persistence identifies an important explanatory problem concerning continuity through change. The developmental, ecological, evolutionary, cognitive, diagnostic, and social pathways investigate different aspects of biological organisation where their relationship to that problem is relevant.
 
-> How does viable continuity remain possible through time?
+These connections give APS a coherent structure for navigation and inquiry. They do not establish that every pathway shares one explanatory target or that the framework has demonstrated general explanatory superiority.
 
-The framework therefore possesses a coherent analytic architecture organised around living organisation, organised persistence, viability, Agency, Process and Scale. Within APS, development is investigated in relation to transformation, ecology to organism–environment relations, evolution to historical transformation, cognition to the organisation of biological significance across time, diagnosis to disruption and recovery, and social organisation to collective coordination. Understanding APS therefore means knowing both how these pathways are connected for navigation and where their explanatory targets and evidential statuses remain distinct.
-
-Together these pathways organise APS inquiry into how living systems maintain or re-establish conditions of viability despite continual change. APS is therefore not merely a collection of concepts. It is an integrative analytic framework for theoretical biology whose substantive proposals remain subject to proposition-specific evidence and target-matched comparison.
-
-## Where to Go Next
-
-Readers seeking a deeper understanding of the framework's architecture should continue with:
-
-The Core Structure of APS — the integrated account of how the major concepts of APS are related for navigation and inquiry.
-
-APS Architecture Map — a visual guide to the organisation of the framework.
-
-How APS Concepts Fit Together — an exploration of how key APS concepts relate to one another within the wider architecture.
-
-Readers interested in how APS develops and assesses its concepts may continue with:
-
-Naturalising Life — an examination of how APS develops and stabilises biological concepts and proposes to make life scientifically intelligible within its organisational account.
-
-Readers interested in the organisational account proposed by APS may continue with:
-
-How APS Explains Life — an introduction to the explanatory logic through which APS interprets living systems as viability-oriented organised persistence. 
-
-Readers interested in the current research and evidential status of APS may continue with: [**APS Research**](/research/) — the public record of completed and continuing APS research, including the assessment of framework-level and target-specific explanatory claims.
-
-Readers interested in the framework's long-term synthesis programme may continue with:
-
-How Did Matter Become Aware of Itself? — an exploration of how increasingly sophisticated forms of organisation give rise to cognition, mind, selfhood, reflective agency, and meaning.
-
-## Key Terms
-
-agency · process · scale · persistence · viability · continuity · temporality · development · adaptation · ecology · evolution · cognition · resilience · repair · diagnosis · social organisation
+APS is therefore best understood as an integrative analytic framework whose substantive proposals remain subject to proposition-specific evidence and comparison with established alternatives.
