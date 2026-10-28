@@ -1,11 +1,29 @@
 ---
 date: 2026-04-03
-title: The APS Glossary - Why Definitions Matter
+title: "The APS Glossary — Why Definitions Matter"
 slug: the-aps-glossary-why-definitions-matter
 type: orientation
 status: canonical
-revised: 2026-10-12
+canonical: true
+canonicalLockDate: 2026-10-28
+revised: 2026-10-28
+cluster: conceptual-foundations
+relatedGlossaryTerms:
+  - life
+  - biological-agency
+  - process
+  - scale
+  - constraint-closure
+  - viability
+relatedArticles:
+  - aps-as-an-organised-conceptual-system-why-definitions-form-a-system
+  - aps-glossary-as-conceptual-infrastructure
+  - what-is-aps
 ---
+
+**Where This Article Fits**
+
+*This orientation article introduces readers to the APS glossary and explains why its definitions matter for understanding the framework. It provides an accessible starting point rather than a detailed account of conceptual organisation or glossary governance. Readers seeking the underlying methodological rationale should consult *APS as an Organised Conceptual System — Why Definitions Form a System*. *The practical organisation, maintenance, and revision of canonical terminology are examined in *The APS Glossary as Conceptual Infrastructure*.*
 
 ## Introduction
 
@@ -39,16 +57,17 @@ The APS glossary is not simply a reference tool. It is the starting point for un
 
 ## Canonical Definitions and Conceptual Discipline
 
-APS definitions are not interchangeable descriptions or approximate summaries. Each definition functions as a canonical anchor within a controlled explanatory system. The wording of these definitions is therefore not stylistic but constitutive: small changes in phrasing can alter the conceptual structure of the framework.
+APS uses canonical definitions as stable reference points for interpreting its principal concepts. Their purpose is to make explanatory commitments explicit, preserve important distinctions, and maintain consistency across articles, glossary entries, diagrams, and research programmes.
 
-To preserve coherence across the APS corpus, key terms are defined using a constrained vocabulary in which core expressions-such as *viability-oriented, constraint-closed organisation* - are treated as stable reference points. These expressions specify the organisational conditions that underlie biological explanation and are used consistently across articles, glossary entries, and research papers.
+These definitions are not interchangeable descriptions, but neither are they immune to revision. Changes in wording can alter the meaning of related claims and therefore require careful assessment.
 
-This discipline ensures that concepts do not drift as they are applied in different contexts. 
-Definitions can be extended or elaborated while preserving their established structure and dependencies. Where substantive biological or philosophical considerations justify changing those commitments, revision must be explicit, controlled, and assessed for its consequences across the framework.
+For example, *viability-oriented, constraint-closed organisation* is the canonical APS formulation of life. Its controlled use helps readers understand what APS proposes. The definition does not, by itself, establish that the proposed account is biologically adequate or superior to established alternatives.
 
+APS therefore combines conceptual stability with revision-open development. Definitions may be clarified, refined, or reconsidered where scientific evidence, philosophical argument, or explanatory requirements justify doing so.
 
 **Key Point**
-APS definitions are not flexible descriptions - they are canonical constraints that preserve the coherence of the framework.
+
+Canonical definitions preserve the consistency and interpretability of APS claims while remaining open to justified revision.
 
 ## Why Precision Matters in APS
 
@@ -84,41 +103,25 @@ The resulting system is intended to improve biological intelligibility by making
 
 The APS glossary provides a coherent, revisable conceptual architecture whose precision, explicit dependencies, and cross-domain relationships can contribute to biological understanding.
 
-## Definitions and Dependency Pathways
+### Definitions and Dependency Pathways
 
-APS explanations increasingly make use of dependency pathways. These pathways express relationships of explanatory dependence between concepts and help clarify how different aspects of biological organisation are related within the framework.
+APS uses pathways to represent proposed relationships among concepts and explanatory claims.
 
 For example:
 
-Life  
-↓  
-Agency  
-↓  
-Biological Evaluation  
-↓  
-Significance
+Life → Agency → Biological Evaluation → Significance
 
-and:
+Such a pathway is not automatically a temporal sequence, causal chain, developmental progression, or established biological dependency. The meaning of each relationship depends upon the particular claim being made.
 
-Life  
-↓  
-Agency  
-↓  
-Process  
-↓  
-Scale
+The glossary helps readers interpret these pathways by providing stable definitions for the concepts involved. It makes the proposed relationships easier to specify, examine, and criticise.
 
-Such pathways do not describe temporal sequences, causal chains, or stages through which systems pass. Rather, they identify concepts whose explanatory roles depend upon other concepts within the framework.
+However, definitions do not establish the existence of the relationships represented. Biological dependencies require appropriate evidence, while claims of additional explanatory gain require comparison with established alternatives.
 
-These relationships can only be articulated if the concepts involved possess stable meanings. If definitions shift from one context to another, dependency claims become ambiguous and pathways lose explanatory value.
-
-The glossary therefore provides more than terminology. It supplies the conceptual stability required for pathway-based explanation. Definitions establish the meanings from which dependency relationships can be identified, evaluated, and refined.
-
-Dependency pathways are therefore built upon conceptual foundations established in the glossary rather than functioning independently of them.
+The detailed specification and assessment of these relationships are addressed in *The APS Glossary as Conceptual Infrastructure* and the specialised APS material on architectural dependency.
 
 **Key Point**
 
-Stable definitions make dependency pathways possible.
+Stable definitions make pathway claims intelligible; evidence and argument determine whether those claims are justified.
 
 ## Definitions and Explanatory Grammar
 
