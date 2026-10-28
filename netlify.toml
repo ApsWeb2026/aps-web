@@ -6,6 +6,12 @@
   NODE_VERSION = "20"
   NPM_VERSION = "10"
 
+# Redirect retired APS orientation article
+[[redirects]]
+  from = "/orientation/aps-in-one-page-the-structure-of-explanation/"
+  to = "/orientation/understanding-aps-the-structure-of-the-framework/"
+  status = 301
+
 # Serve admin SPA correctly
 [[redirects]]
   from = "/admin/*"
