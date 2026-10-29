@@ -5,7 +5,7 @@ slug: theophrastus-and-the-foundations-of-plant-science
 type: article
 status: draft
 canonical: false
-revised: 2026-10-29
+revised: 2026-10-30
 cluster: history-of-ideas
 role: extension
 abstract: |
@@ -97,7 +97,7 @@ One difficulty concerns the identification of plant parts. Plants grow and repla
 Theophrastus's well-known distinctions among trees, shrubs, undershrubs, and herbs organised plants by observable habit, stature, branching, and woody growth. These categories were useful for comparison but were not equivalent to the ranked taxonomic system of modern botany. Nor did they imply evolutionary relationships.
 
 <div class="aps-diagram">
-  <img src="/images/history/theophrastus-plant-habits.png" alt="Modern comparative diagram illustrating four plant growth habits: tree, shrub, undershrub, and herb." loading="lazy" />
+  <img src="/images/history/theophrastus-plant-habits.jpg" alt="Modern comparative diagram illustrating four plant growth habits: tree, shrub, undershrub, and herb." loading="lazy" />
   <p class="aps-diagram-caption"><strong>Figure 3.</strong> Four broad plant habits distinguished by Theophrastus: trees, shrubs, undershrubs, and herbs. Modern explanatory reconstruction, not an ancient illustration. The categories describe observable growth forms rather than modern taxonomic or evolutionary groups. Original APS diagram.</p>
 </div>
 
@@ -170,8 +170,8 @@ Direct access to the major botanical treatises in medieval Western Europe was li
 Theodore Gaza, a Greek humanist working in fifteenth-century Italy, translated Theophrastus's principal botanical works into Latin. The translations circulated in manuscript and were printed together at Treviso in 1483, in an edition associated with Giorgio Merula and Bartolomeo Confalonieri (Treviso edition, 20 February 1483). A Greek printing of the botanical works appeared in the Aldine Aristotle collection at Venice on 1 June 1497, in the volume catalogued by the University of Glasgow's Incunabula Project.
 
 <div class="aps-diagram">
-  <img src="/images/history/fuchs-botanical-1542.jpg" alt="Sixteenth-century botanical woodcut from Leonhart Fuchs's De historia stirpium, illustrating the detailed representation of plant form." loading="lazy" />
-  <p class="aps-diagram-caption"><strong>Figure 2.</strong> Renaissance botanical illustration. Woodcut from Leonhart Fuchs, <em>De historia stirpium commentarii insignes</em> (Basel, 1542). Such illustrations supported the description, comparison, and identification of plants. Source: Smithsonian Libraries and Archives. CC0.</p>
+  <img src="/images/history/theophrastus-treviso-1483.jpg" alt="Page from the 1483 Treviso printing of Theophrastus's botanical writings, translated into Latin by Theodore Gaza." loading="lazy" />
+  <p class="aps-diagram-caption"><strong>Figure 1.</strong> Theophrastus in Renaissance print. Page from the Treviso edition of <em>Historia Plantarum</em> and <em>De Causis Plantarum</em> (1483), translated by Theodore Gaza and edited by Giorgio Merula. Source: Wellcome Collection. Public Domain Mark.</p>
 </div>
 
 Printing widened access to the texts and provided scholars with more stable materials for comparison, correction, and commentary. Subsequent editions continued this work; the 1644 Amsterdam Greek–Latin edition, with extensive notes and illustrations associated with Johannes Bodaeus a Stapel, illustrates the depth of early modern engagement with Theophrastus.
