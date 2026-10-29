@@ -131,7 +131,7 @@ Theophrastus also examined plants under adverse conditions. In *Historia Plantar
 
 Such material extends the inquiry beyond ideal or regular patterns of growth. Damage and deterioration raise questions about the conditions required for plants to flourish and about the circumstances under which their characteristic activities are disrupted.
 
- The investigation of disease and injury extended this explanatory approach to the disruption of normal growth. Although Theophrastus lacked the later concepts and methods of plant pathology, he treated deterioration, damage, and abnormal development as phenomena whose circumstances and possible causes deserved investigation.
+The investigation of disease and injury extended this explanatory approach to the disruption of normal growth. Although Theophrastus lacked the later concepts and methods of plant pathology, he treated deterioration, damage, and abnormal development as phenomena whose circumstances and possible causes deserved investigation.
 
 ## De Causis Plantarum — The Search for Causes
 
@@ -139,7 +139,7 @@ Such material extends the inquiry beyond ideal or regular patterns of growth. Da
 
 The work's organisation should not be presented as a modern division into physiology, agronomy, and pathology. Its explanations belong to ancient natural philosophy, in which material conditions, characteristic capacities, natural regularities, and ends could all enter causal discussion.
 
-Theophrastus investigated why plants grow and reproduce differently, why cultivation succeeds under some conditions and fails under others, and how the properties of plants relate to their circumstances. The precise distribution of topics among the surviving books, and individual claims attributed to particular passages, remain subjects for the subsequent primary-text audit.
+Theophrastus investigated why plants grow and reproduce differently, why cultivation succeeds under some conditions and fails under others, and how the properties of plants relate to their circumstances.
 
 The work's historical importance is not that it supplied modern causal mechanisms, but that it sustained the demand for explanations of botanical phenomena. Theophrastus did not treat plant diversity as merely a set of facts to be memorised. Differences in development, growth, and response to conditions called for investigation.
 
@@ -161,7 +161,7 @@ Greek and Roman authors knew aspects of the Peripatetic tradition. Pliny the Eld
 
 Ancient accounts of the movement of Aristotle's and Theophrastus's books, including traditions preserved by Strabo and Plutarch, are historically important but difficult to reconcile into a secure manuscript history. Claims about the precise route by which individual botanical texts reached later readers should therefore be qualified.
 
-TThe survival of the botanical treatises through Greek manuscript traditions made their eventual editing, translation, and printing possible. Yet the surviving record is fragmentary: much ancient biological writing has been lost, and the transmission of Theophrastus's works was neither simple nor uninterrupted. Their Renaissance reception therefore represents a new phase in the history of botanical inquiry, rather than the continuous preservation of an unchanged scientific tradition.
+The survival of the botanical treatises through Greek manuscript traditions made their eventual editing, translation, and printing possible. Yet the surviving record is fragmentary: much ancient biological writing has been lost, and the transmission of Theophrastus's works was neither simple nor uninterrupted. Their Renaissance reception therefore represents a new phase in the history of botanical inquiry, rather than the continuous preservation of an unchanged scientific tradition.
 
 ## Renaissance Recovery — Manuscripts, Translation, and Printing
 
