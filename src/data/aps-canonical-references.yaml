@@ -5492,7 +5492,6 @@ references:
   year: 1991
   title: The Age of the Earth
   publisher: Stanford University Press
-  isbn: '9780804715690'
   verification:
     status: verified
     authority: Google Books / WorldCat / Smithsonian Libraries
@@ -5568,7 +5567,6 @@ references:
   year: 2005
   title: 'Quaternary Dating Methods'
   publisher: John Wiley & Sons
-  isbn: '9780470869260'
   verification:
     status: verified
     authority: Wiley / Aberystwyth University
@@ -5581,6 +5579,7 @@ references:
   book-title: 'The Encyclopedia of Archaeological Sciences'
   editors: López Varela, S. L.
   publisher: Wiley
+  pages: 1–7
   doi: 10.1002/9781119188230.saseas0154
   verification:
     status: verified
@@ -5936,6 +5935,7 @@ references:
   authors: Bacon, F.
   year: 1620
   title: Novum Organum
+  publisher: John Bill, London
   verification:
     status: verified
     authority: Folger Shakespeare Library, Catalogue of English Literary Manuscripts
@@ -5956,7 +5956,6 @@ references:
   year: 1840
   title: "The Philosophy of the Inductive Sciences, Founded Upon Their History"
   publisher: John W. Parker
-  volumes: 2
   verification:
     status: verified
     authority: Cambridge University Press; WorldCat
@@ -5987,7 +5986,7 @@ references:
   editors: Worrall, J., & Currie, G.
   year: 1978
   title: The Methodology of Scientific Research Programmes
-  volume: 1
+  volume: '1'
   publisher: Cambridge University Press
   verification:
     status: verified
@@ -6045,4 +6044,88 @@ references:
     status: verified
     authority: SAGE Journals
     verifiedDate: 2026-10-27
+- id: zamer-scheiner-2014-conceptual-framework-organismal-biology
+  type: journal-article
+  authors: Zamer, W. E., & Scheiner, S. M.
+  year: 2014
+  title: 'A Conceptual Framework for Organismal Biology: Linking Theories, Models, and Data'
+  journal: Integrative and Comparative Biology
+  volume: '54'
+  issue: '5'
+  pages: 736–756
+  doi: 10.1093/icb/icu075
+  verification:
+    status: verified
+    authority: Oxford University Press
+    verifiedDate: 2026-10-28
+- id: diogenes-laertius-hicks-1925-lives
+  type: book
+  authors: Diogenes Laertius
+  year: 1925
+  title: Lives of Eminent Philosophers, Volume I (Books I–V)
+  publisher: William Heinemann / G. P. Putnam's Sons
+  url: https://catalog.perseus.tufts.edu/catalog/urn%3Acts%3AgreekLit%3Atlg0004.tlg001.perseus-eng1
+  verification:
+    status: verified
+    authority: Perseus Digital Library
+    verifiedDate: 2026-10-29
+- id: fortenbaugh-huby-sharples-gutas-1992-theophrastus-sources
+  type: edited-book
+  editors: Fortenbaugh, W. W., Huby, P. M., Sharples, R. W., & Gutas, D.
+  year: 1992
+  title: 'Theophrastus of Eresus: Sources for His Life, Writings, Thought and Influence'
+  publisher: Brill
+  url: https://www.degruyterbrill.com/serial/brlphat-b/html
+  verification:
+    status: verified
+    authority: Brill
+    verifiedDate: 2026-10-29
+- id: hardy-totelin-2016-ancient-botany
+  type: book
+  authors: Hardy, G., & Totelin, L.
+  year: 2016
+  title: Ancient Botany
+  publisher: Routledge
+  url: https://www.routledge.com/Ancient-Botany/Hardy-Totelin/p/book/9780415311205
+  verification:
+    status: verified
+    authority: Routledge
+    verifiedDate: 2026-10-29
+- id: spencer-cross-2017-origins-botanic-gardens
+  type: journal-article
+  authors: Spencer, R. D., & Cross, R.
+  year: 2017
+  title: The origins of botanic gardens and their relation to plant science, with special reference to horticultural botany and cultivated plant taxonomy
+  journal: Muelleria
+  volume: '35'
+  pages: 43–93
+  doi: 10.5962/p.291985
+  url: https://rbg.vic.gov.au/media/aczdjqec/muelleriavol_35_-_p43_spencer_and_cross.pdf
+  verification:
+    status: verified
+    authority: Royal Botanic Gardens Victoria
+    verifiedDate: 2026-10-29
+- id: linnaeus-1753-species-plantarum
+  type: book
+  authors: Linnaeus, C.
+  year: 1753
+  title: Species Plantarum
+  publisher: Laurentius Salvius
+  doi: 10.5962/bhl.title.669
+  url: https://www.biodiversitylibrary.org/bibliography/669
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library
+    verifiedDate: 2026-10-29
+- id: theophrastus-gaza-merula-1483-plants
+  type: book
+  authors: Theophrastus
+  year: 1483
+  title: De historia et causis plantarum
+  publisher: Bartolomeo Confalonieri, Treviso
+  url: https://wellcomecollection.org/works/r6tc5yfy
+  verification:
+    status: verified
+    authority: Wellcome Collection
+    verifiedDate: 2026-10-29
 

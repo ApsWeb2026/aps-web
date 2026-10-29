@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-20
-revised: 2026-10-28
+revised: 2026-10-29
 cluster: methodology-and-explanation
 role: synthesis
 abstract: >
@@ -49,6 +49,7 @@ references:
   - nicholson-dupre-2018-everything-flows
   - spencer-2026-agency-defining-activity-life
   - scheiner-2010-conceptual-framework-biology
+  - zamer-scheiner-2014-conceptual-framework-organismal-biology
   - scheiner-2026-role-theory-biology
   - craver-2007-explaining-the-brain
 ---
@@ -101,7 +102,7 @@ The common lesson is not that all these approaches say the same thing. They addr
 
 Samuel Scheiner's *Toward a Conceptual Framework for Biology* (2010) offers a particularly direct comparison. Scheiner proposes an explicit architecture of general biological principles and associated theories concerned with evolution, ecology, cells, organisms and genetics. The ambition is not to replace detailed biological research but to make the relationships among its theoretical domains more intelligible.
 
-Scheiner's organismal principles are especially relevant to APS. They address the active maintenance of structural and functional integrity, exchanges of matter and energy, organism–environment relationships and consequences across levels of organisation. These are not concerns newly introduced by APS. A comparison that ignored them would give APS an undeserved advantage.
+Scheiner's general framework was developed more specifically for organismal biology by Zamer and Scheiner (2014). Their account sets out general principles of organismal organisation and examines relationships among biological theories, models, and data. These contributions are especially relevant to APS because they already address organismal integrity, environmental interaction, and the organisation of biological activity. APS therefore cannot claim these concerns as novel. The relevant question is whether its viability-oriented perspective identifies scientifically consequential relationships or distinctions beyond those already available in established organismal theories.
 
 In *The Role of Theory in Biology* (2026), Scheiner also emphasises the practical work of theory. His account distinguishes broad theoretical principles, constitutive theories that guide model construction, and models used in relation to evidence. Relationships among models can be recognised or developed through theoretical work. This is a substantive account of scientific integration, not simply a classification of established knowledge.
 
@@ -131,7 +132,7 @@ The **evolutionary question** is different again. It concerns the history, inher
 
 APS can organise these questions around one living system. **Agency** draws attention to the viability-relevant activity and its conditional consequences. **Process** directs attention to cue detection, developmental change and the material production of the phenotype. **Scale** requires the investigator to distinguish changes within an individual from ecological interactions and evolutionary changes across generations. These are different analytical projections of the same case, not three competing causal explanations.
 
-This organisation may help a reader see why an account of defensive development is incomplete if it is mistaken for an account of evolutionary adaptation, or why a survival benefit cannot be assumed from the presence of an apparently protective structure. Yet existing developmental, ecological and evolutionary approaches can already make these distinctions. In the previous APS comparative assessment of this case, the supported outcome was **equivalent redescription**, not demonstrated explanatory gain. The example therefore illustrates how APS can arrange established dependencies while leaving open the separate question of whether that arrangement offers additional scientific usefulness.
+This organisation may help a reader see why an account of defensive development is incomplete if it is mistaken for an account of evolutionary adaptation, or why a survival benefit cannot be assumed from the presence of an apparently protective structure. Yet existing developmental, ecological and evolutionary approaches can already make these distinctions. IIn APS's previous target-matched comparison of this case with established developmental, ecological and evolutionary explanations, no additional explanatory dependency was demonstrated. The recorded outcome was therefore **equivalent redescription**, rather than explanatory gain. The example therefore illustrates how APS can arrange established dependencies while leaving open the separate question of whether that arrangement offers additional scientific usefulness.
 
 ## Two Ways of Organising Biological Understanding
 
@@ -147,7 +148,7 @@ That is a legitimate result. A framework should be allowed to clarify establishe
 
 Several achievements should be distinguished rather than treated as interchangeable.
 
-**Conceptual precision** requires APS terms to mark definite distinctions. In a particular investigation, *viability* must refer to specified conditions and outcomes, not simply to the general fact that living systems persist.
+***Conceptual precision** requires APS terms to mark definite distinctions. In a particular investigation, *viability* must be attributed to a specified biological system, over a relevant interval, and in relation to stated conditions and criteria of failure. Survival, physiological regulation, reproductive success and lineage persistence are not interchangeable measures. The appropriate criteria depend on the explanatory question and must be justified independently of the APS vocabulary.
 
 **Empirical assessability** requires proposed dependencies to be connected with observations, interventions or models capable of discriminating among alternatives. Naming an outcome does not establish which measurements or tests will explain it.
 
@@ -179,7 +180,7 @@ In this sense, the scientific promise of APS is a research question, not a concl
 
 APS belongs within a substantial history of attempts to understand biology through evolution, systems, mechanisms, autonomy, processes and relations among theories. Its orientation towards viability, organised persistence and connected scales offers a particular way of arranging biological questions. It should not be presented as replacing those traditions or as having demonstrated a superior general theory.
 
-The present comparison supports a bounded conclusion. Scheiner has already developed an explicit account of biological theory and model relationships, while organisational and autonomy approaches already investigate much of the biological territory central to APS. APS may still contribute by making certain viability-relevant dependencies more precise, accessible or assessable across domains. Whether it does so beyond the strongest existing alternatives remains an empirical and methodological research question.
+The present comparison supports a bounded conclusion. Scheiner has already developed an explicit account of biological theory and model relationships, while organisational and autonomy approaches already investigate much of the biological territory central to APS. APS may still contribute by making certain viability-relevant dependencies more precise, accessible or assessable across domains. Whether it does so beyond the strongest existing alternatives remains a conceptual, empirical and methodological research question.
 
 The constructive aim is therefore not a unified vocabulary for its own sake. It is clearer biological enquiry: explanations that preserve the strengths of specialised research while making important relationships open to examination, comparison and revision.
 
