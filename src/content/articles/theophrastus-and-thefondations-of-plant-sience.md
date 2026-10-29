@@ -36,9 +36,9 @@ references:
 
 ## Introduction — The Origins of Systematic Plant Science
 
-Theophrastus of Eresos (c. 371–287 BCE, with dates disputed in the ancient and modern literature), traditionally known as the Father of Botany, occupies an exceptional position in the history of biological inquiry. More than two millennia before the development of modern experimental physiology, evolutionary theory, and biological classification, he composed two extensive investigations of plants that remain among the most substantial surviving scientific works of classical antiquity.
+Theophrastus of Eresos (c. 371–287 BCE, although his dates remain disputed) confronted a fundamental problem in the investigation of living nature: how could the extraordinary diversity of plants be described, compared, and explained as a coherent subject of inquiry? Traditionally celebrated as the Father of Botany, he occupies an exceptional place in the history of biological thought because his surviving writings offer one of antiquity's most extensive attempts to answer that question.
 
-His botanical treatises, *Historia Plantarum* (*Enquiry into Plants*) and *De Causis Plantarum* (*Explanations of Plants*), examined plant diversity, structure, reproduction, development, cultivation, geographical occurrence, and environmental relationships. Their importance lies not merely in the botanical information they preserve, but in the organisation of that information into sustained descriptive, comparative, and causal inquiry.
+His two principal botanical treatises, *Historia Plantarum* (*Enquiry into Plants*) and *De Causis Plantarum* (*Explanations of Plants*), investigate plant structure, diversity, reproduction, development, cultivation, geographical occurrence, and environmental relationships. Together, they reveal an ambitious intellectual enterprise in which careful observation and comparison provide the foundations for causal explanation.
 
 Theophrastus did not invent botanical knowledge. Agricultural communities in many regions had long observed plants, selected crops, cultivated gardens, prepared medicines, and distinguished plants according to their properties and uses. His distinctive achievement was to make plants subjects of systematic investigation in their own right, while drawing upon the practical experience of cultivators, travellers, and other observers.
 
@@ -84,9 +84,9 @@ Two major botanical works survive. *Historia Plantarum*, usually translated as *
 
 The Greek word *historia* here means investigation or inquiry, not a chronological history. The conventional Latin *causae* points towards causes and explanations, understood within ancient natural philosophy rather than exclusively in the modern mechanistic sense.
 
-The works have complementary emphases. *Historia Plantarum* identifies and compares botanical phenomena, while *De Causis Plantarum* pursues explanations of generation, growth, cultivation, and other processes. The division is not absolute: descriptive passages may contain explanations, and causal investigations require observations. Their intellectual significance lies in connecting the establishment of phenomena with the investigation of why they occur.
+The two treatises approach botanical investigation from complementary directions. *Historia Plantarum* establishes and compares the phenomena to be explained: plant structures, forms of growth, modes of reproduction, and observable differences among plants. *De Causis Plantarum* investigates why such phenomena occur, examining generation, development, cultivation, and the circumstances that influence plant growth.
 
-This organisation is comparable to an important feature of Aristotle's biological enterprise, but Theophrastus's plant material demanded its own descriptive distinctions and explanatory strategies. His achievement was not the assembly of two unrelated catalogues, but the development of a connected programme of botanical investigation.
+This distinction is one of emphasis rather than an absolute separation between description and explanation. The descriptive work frequently considers causes, while the causal work depends upon observed differences. Together, they develop a connected form of inquiry in which knowledge of botanical phenomena informs the search for explanations. Although comparable in broad purpose to Aristotle's biological investigations, the enterprise required distinctions and methods appropriate to plants themselves.
 
 ## Historia Plantarum — Plant Structure and Diversity
 
@@ -98,7 +98,7 @@ Theophrastus's well-known distinctions among trees, shrubs, undershrubs, and her
 
 <div class="aps-diagram">
   <img src="/images/history/theophrastus-plant-habits.jpg" alt="Modern comparative diagram illustrating four plant growth habits: tree, shrub, undershrub, and herb." loading="lazy" />
-  <p class="aps-diagram-caption"><strong>Figure 3.</strong> Four broad plant habits distinguished by Theophrastus: trees, shrubs, undershrubs, and herbs. Modern explanatory reconstruction, not an ancient illustration. The categories describe observable growth forms rather than modern taxonomic or evolutionary groups. Original APS diagram.</p>
+  <p class="aps-diagram-caption"><strong>Figure 1.</strong> Four broad plant habits distinguished by Theophrastus: trees, shrubs, undershrubs, and herbs. Modern explanatory reconstruction, not an ancient illustration. The categories describe observable growth forms rather than modern taxonomic or evolutionary groups. Original APS diagram.</p>
 </div>
 
 He also compared roots, stems, branches, leaves, flowers, fruits, and seeds, recognising variation within and between plant forms. Cultivated plants might differ from wild ones, and growth conditions could affect appearance. Such observations complicate the image of an ancient naturalist imposing wholly rigid categories upon living diversity.
@@ -113,7 +113,7 @@ The variety of propagation methods mattered because it resisted a single, simple
 
 Theophrastus observed differences in germination, flowering, fruiting, and seasonal growth. These observations encouraged questions about the timing and conditions of development. Plants differ in their patterns of persistence, in the structures they produce, and in the seasons during which they grow and reproduce.
 
-Modern readers may recognise questions subsequently taken up by developmental biology and plant physiology. Nevertheless, Theophrastus did not possess concepts of cells, chromosomes, genes, or modern physiological regulation. His achievement was to make reproductive and developmental diversity a subject of sustained observation and explanation using the conceptual resources available in antiquity.
+These investigations opened questions about the diversity and timing of plant development that would remain important throughout the subsequent history of botany. Working within the conceptual resources of ancient natural philosophy, Theophrastus connected observations of propagation, seasonal growth, and reproductive variation with the conditions under which plants develop. His account was neither a modern theory of heredity nor an experimental physiology, but it established reproductive and developmental differences as phenomena requiring systematic explanation.
 
 ## Plants in Their Environments
 
@@ -123,7 +123,7 @@ Theophrastus attended closely to the relationships between plants and their surr
 
 His attention to the effects of place and season is historically important. It shows that botanical differences were not always regarded as fixed properties independent of circumstance. The same plant could exhibit different characteristics under different conditions, and the success or failure of cultivation could become evidence about the relationships between organisms and their environments.
 
-These investigations are relevant to the longer history of plant ecology and environmental physiology, but they do not amount to modern theories in either field. Their importance is the systematic treatment of environmental relationships as part of botanical explanation.
+The significance of these observations lies in the recognition that botanical explanation must attend not only to the characteristics of plants, but also to the circumstances in which they live. Differences in soil, moisture, season, and cultivation became relevant evidence for understanding variation in growth and development.
 
 ## Plant Disease, Injury, and the Limits of Growth
 
@@ -131,7 +131,7 @@ Theophrastus also examined plants under adverse conditions. In *Historia Plantar
 
 Such material extends the inquiry beyond ideal or regular patterns of growth. Damage and deterioration raise questions about the conditions required for plants to flourish and about the circumstances under which their characteristic activities are disrupted.
 
-It would be anachronistic to credit Theophrastus with modern plant pathology or microbial disease theory. He did, however, make plant injury and abnormal development subjects for systematic observation and causal questioning.
+ The investigation of disease and injury extended this explanatory approach to the disruption of normal growth. Although Theophrastus lacked the later concepts and methods of plant pathology, he treated deterioration, damage, and abnormal development as phenomena whose circumstances and possible causes deserved investigation.
 
 ## De Causis Plantarum — The Search for Causes
 
@@ -161,7 +161,7 @@ Greek and Roman authors knew aspects of the Peripatetic tradition. Pliny the Eld
 
 Ancient accounts of the movement of Aristotle's and Theophrastus's books, including traditions preserved by Strabo and Plutarch, are historically important but difficult to reconcile into a secure manuscript history. Claims about the precise route by which individual botanical texts reached later readers should therefore be qualified.
 
-The eventual survival of the works through Greek manuscript traditions made their later editing and translation possible. Their transmission was neither simple nor uninterrupted, and the loss of much ancient biological writing limits our ability to assess Theophrastus against all his contemporaries.
+TThe survival of the botanical treatises through Greek manuscript traditions made their eventual editing, translation, and printing possible. Yet the surviving record is fragmentary: much ancient biological writing has been lost, and the transmission of Theophrastus's works was neither simple nor uninterrupted. Their Renaissance reception therefore represents a new phase in the history of botanical inquiry, rather than the continuous preservation of an unchanged scientific tradition.
 
 ## Renaissance Recovery — Manuscripts, Translation, and Printing
 
@@ -171,12 +171,12 @@ Theodore Gaza, a Greek humanist working in fifteenth-century Italy, translated T
 
 <div class="aps-diagram">
   <img src="/images/history/theophrastus-treviso-1483.jpg" alt="Page from the 1483 Treviso printing of Theophrastus's botanical writings, translated into Latin by Theodore Gaza." loading="lazy" />
-  <p class="aps-diagram-caption"><strong>Figure 1.</strong> Theophrastus in Renaissance print. Page from the Treviso edition of <em>Historia Plantarum</em> and <em>De Causis Plantarum</em> (1483), translated by Theodore Gaza and edited by Giorgio Merula. Source: Wellcome Collection. Public Domain Mark.</p>
+  <p class="aps-diagram-caption"><strong>Figure 2.</strong> Theophrastus in Renaissance print. Page from the Treviso edition of <em>Historia Plantarum</em> and <em>De Causis Plantarum</em> (1483), translated by Theodore Gaza and edited by Giorgio Merula. Source: Wellcome Collection. Public Domain Mark.</p>
 </div>
 
 Printing widened access to the texts and provided scholars with more stable materials for comparison, correction, and commentary. Subsequent editions continued this work; the 1644 Amsterdam Greek–Latin edition, with extensive notes and illustrations associated with Johannes Bodaeus a Stapel, illustrates the depth of early modern engagement with Theophrastus.
 
-The recovery of his writings did not simply restore an ancient scientific system. It placed those writings within changing scholarly practices in which inherited texts were increasingly compared with living plants, collected specimens, illustrated descriptions, and reports from unfamiliar regions.
+The renewed circulation of Theophrastus's writings brought ancient botanical questions into an increasingly diverse intellectual setting. Scholars could compare inherited descriptions with living plants, preserved specimens, printed illustrations, and reports from regions unfamiliar to classical authors. The ancient texts became resources for investigation and criticism, not simply authorities to be reproduced. Their reception thus formed part of a broader transformation in the evidence and practices of botanical science.
 
 ## Renaissance Botany — Observation and New Institutions
 
@@ -184,7 +184,7 @@ The development of Renaissance botany depended upon many traditions, including m
 
 <div class="aps-diagram">
   <img src="/images/history/fuchs-botanical-1542.jpg" alt="Sixteenth-century botanical woodcut from Leonhart Fuchs's De historia stirpium, illustrating the detailed representation of plant form." loading="lazy" />
-  <p class="aps-diagram-caption"><strong>Figure 2.</strong> Renaissance botanical illustration. Woodcut from Leonhart Fuchs, <em>De historia stirpium commentarii insignes</em> (Basel, 1542). Such illustrations supported the description, comparison, and identification of plants. Source: Smithsonian Libraries and Archives. CC0.</p>
+  <p class="aps-diagram-caption"><strong>Figure 3.</strong> Renaissance botanical illustration. Woodcut from Leonhart Fuchs, <em>De historia stirpium commentarii insignes</em> (Basel, 1542). Such illustrations supported the description, comparison, and identification of plants. Source: Smithsonian Libraries and Archives. CC0.</p>
 </div>
 
 Sixteenth-century illustrated herbals, including Leonhart Fuchs's *De historia stirpium* (Basel, 1542), brought inherited plant names and descriptions into dialogue with detailed printed images. The relationship between text and specimen became a focus of scrutiny: ancient names did not always identify the same plants in different places, and newly encountered species challenged inherited descriptions.
@@ -207,9 +207,9 @@ The comparison nevertheless reveals a recurrent relationship between geographica
 
 Carl Linnaeus (1707–1778) made a decisive contribution to the standardisation of biological nomenclature and the organisation of species descriptions within early modern natural history. His classificatory enterprise operated within an extensive literature and a growing international network of specimens, collectors, and correspondents.
 
-Theophrastus and Linnaeus are sometimes presented as successive founders of botany. The comparison is useful only when their achievements are distinguished. Theophrastus developed a broad programme of investigating plant structure, diversity, growth, and causes. Linnaeus helped establish consistent practices of naming and identifying organisms within an early modern classificatory system (Linnaeus, *Species Plantarum*, 1753).
+The comparison between Theophrastus and Linnaeus illuminates two different achievements in the history of botany. Theophrastus investigated the diversity, structure, development, and characteristic activities of plants, seeking explanations of their observable differences. Linnaeus, working within the expanding natural history of eighteenth-century Europe, made a decisive contribution to the standardisation of nomenclature and the systematic identification and description of species (*Species Plantarum*, 1753).
 
-Theophrastus did not possess a Linnaean hierarchy, and Linnaeus did not merely complete an ancient project. Direct influence must be established through documentary evidence rather than inferred from similarities of subject matter. Both are major figures in a much longer and more diverse history of botanical investigation.
+Their contributions belong to different intellectual and institutional settings. Theophrastus did not construct a Linnaean classificatory hierarchy, while Linnaeus's achievement cannot be understood simply as the completion of an ancient botanical programme. Their historical significance rests on the distinctive contributions each made to the developing practices of botanical investigation.
 
 ## Economic Botany, Joseph Banks, and Australia
 
@@ -227,13 +227,11 @@ This later history extends the article's account of botanical knowledge without 
 
 ## Theophrastus's Scientific Achievement — And Its Limits
 
-Theophrastus is often credited with anticipating modern taxonomy, morphology, physiology, ecology, and plant pathology. Such comparisons can help contemporary readers recognise the range of his questions, but they risk exaggerating what he knew.
+Theophrastus's botanical writings encompass an unusually broad range of questions about living plants. He investigated their structures and growth forms, modes of reproduction and propagation, developmental changes, environmental relationships, cultivation, and susceptibility to injury. The breadth of this inquiry has encouraged comparisons with modern taxonomy, morphology, physiology, ecology, and plant pathology. Such comparisons are illuminating when they identify enduring questions, but misleading when they attribute later scientific concepts to ancient investigators.
 
-He did not possess modern cellular theory, evolutionary classification, genetics, microbiology, or experimental plant physiology. His observations of propagation were not genetic explanations, and his attention to environmental relationships was not modern ecological theory. He was not the first person to observe plant diversity or cultivate plants systematically.
+His contribution is best understood through the organisation of his investigations. Botanical knowledge derived from cultivation, travel, practical experience, and direct observation was brought into sustained comparison. Differences among plants became subjects for description, while variation in growth, reproduction, and response to circumstances invited causal explanation. Theophrastus also recognised that plants presented distinctive problems that could not always be resolved through categories developed for animals.
 
-These qualifications sharpen rather than diminish his achievement. He brought diverse observations into a connected programme of inquiry: identifying structures, comparing forms, examining reproduction and development, investigating environmental variation, and seeking causes. He also recognised that plants could not always be explained adequately through concepts drawn from the study of animals.
-
-Theophrastus's greatest historical contribution was thus methodological and organisational. He showed how plants could be investigated as living beings worthy of sustained scientific attention, rather than considered only as agricultural, medicinal, or commercial resources.
+This achievement was methodological and explanatory rather than the anticipation of particular modern theories. Theophrastus demonstrated how plants could be investigated as living beings whose structures, activities, and circumstances called for connected inquiry. His surviving works consequently occupy an important position in the history of biological science, while remaining products of the intellectual world in which they were composed.
 
 ## Why the History of Botany Matters
 
@@ -255,13 +253,13 @@ The historical lesson is more modest: the difficulty of bringing diverse observa
 
 ## Conclusion — The Foundations of Plant Science
 
-Theophrastus's reputation as the Father of Botany reflects a remarkable achievement in the history of scientific inquiry. He did not invent plant knowledge, establish modern classification, or anticipate the theoretical foundations of contemporary botany. His accomplishment was more historically specific and more substantial than such claims suggest.
+Theophrastus's enduring importance in the history of plant science rests upon the remarkable scope and coherence of his botanical investigations. Working within the intellectual enterprise associated with Aristotle and the Lyceum, he brought questions about plant structure, diversity, reproduction, development, environmental relationships, cultivation, and causation into a sustained programme of inquiry.
 
-Within the biological enterprise associated with Aristotle and the Lyceum, he developed a sustained investigation of plant structure, diversity, reproduction, development, environmental relationships, cultivation, injury, and causes. He drew upon practical experience while asking questions that extended beyond immediate human utility. He also recognised that plants presented distinctive problems of description and explanation.
+His writings drew upon practical botanical knowledge while extending investigation beyond immediate agricultural, medicinal, and commercial concerns. Plants emerged as subjects whose distinctive structures and activities required careful description, comparison, and explanation. Theophrastus's achievement was therefore not simply the accumulation of botanical observations, but the organisation of those observations around questions about the nature and diversity of plant life.
 
-His writings survived through a complicated textual history and entered new intellectual settings during the Renaissance. Later botanical science developed through many cultures, institutions, technologies, and discoveries, not through an uninterrupted unfolding of a single Greek programme.
+The subsequent history of botany followed no single, uninterrupted trajectory from classical antiquity to modern science. The survival, translation, and renewed interpretation of Theophrastus's writings formed part of a much wider history involving different cultures, intellectual traditions, institutions, technologies, and methods of investigation.
 
-Nevertheless, Theophrastus's surviving treatises remain among the earliest extensive demonstrations of how plants could become the subject of coherent scientific inquiry. His enduring legacy lies not in a particular classification or discovery, but in the organisation of plant knowledge into an investigation of living nature in its own right.
+Within that history, his surviving treatises remain an extraordinary early demonstration of systematic biological inquiry. Their lasting significance lies in showing how the diversity of plants could become an object of connected scientific investigation: a subject worthy of explanation in its own right.
 
 ## Explanatory Architecture
 
