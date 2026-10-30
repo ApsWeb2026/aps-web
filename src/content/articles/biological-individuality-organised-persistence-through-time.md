@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-10-23
+revised: 2026-10-30
 cluster: conceptual-foundations
 role: core
 
@@ -185,6 +185,10 @@ This perspective challenges the assumption that development threatens individual
 
 Biological individuality therefore cannot be understood apart from development. Individuals remain continuous not because development leaves them unchanged, but because developmental organisation actively reconstructs continuity through time. The persistence of individuality is thus inseparable from the developmental processes through which living systems sustain themselves.
 
+### Individuality and Experimental Individuation
+
+The organisational constitution of a biological individual should be distinguished from the investigative practices through which scientists identify and study individuals. As Love (2018) emphasises, experimental individuation in developmental biology is guided by particular research problems: embryos, tissues, cells, and developmental processes may be identified, counted, compared, or tracked according to different investigative purposes. APS accommodates this methodological plurality without assuming that every experimentally useful unit must itself constitute an autonomous or persistence-bearing biological individual. Its account of viability-oriented organised persistence addresses the organisational conditions of biological individuality, while the selection of investigative boundaries requires justification relative to the scientific question, evidence, and experimental practice. Whether this organisational account provides additional explanatory value in particular cases remains a matter for comparative assessment.
+
 ## Organism–Environment Coupling and Individuality
 
 Traditional accounts often treat individuals as self-contained entities existing independently of their environments. APS rejects this separation. Living systems persist only through ongoing exchanges with surrounding conditions, and these interactions contribute directly to the maintenance of continuity. Individuality therefore extends beyond the simple possession of internal organisation and depends upon the coupling relations through which viability is sustained.
@@ -288,3 +292,63 @@ APS addresses this problem by treating biological individuals as viability-orien
 This perspective also clarifies why individuality cannot be equated simply with organismhood, agency, specieshood, or taxonomic classification. Each identifies a different form of biological unity. Biological individuality concerns the organised continuity through which persistence-bearing systems remain sufficiently coherent across time. Once individuality is understood in these terms, many traditional boundary disputes become more tractable because the focus shifts from assigning entities to fixed categories toward understanding how continuity is organised and maintained.
 
 APS therefore reconceives biological individuality as a processual, viability-oriented, and organisational phenomenon. Living systems persist not because they remain unchanged, but because their organisation continually reconstructs the conditions required for continued existence. Biological individuals are thus best understood not as static objects occupying predetermined boundaries, but as continuity-producing organisational unities enacted through organised persistence across time.
+
+## Explanatory Architecture
+
+### Central Question
+
+Under what organisational conditions can a living system be recognised as a biological individual that persists through material turnover, developmental transformation, and environmental dependence?
+
+### Architectural Role
+
+This article addresses biological individuality as a problem of organised persistence within the APS framework.
+
+Its function is to clarify how biological individuality can be understood through the continuity of viability-oriented, constraint-closed organisation, without assuming fixed material composition, complete autonomy, or an invariant physical boundary.
+
+It does not propose a universal criterion for every legitimate attribution of biological individuality.
+
+### Relationship to Biological Organisation
+
+The canonical APS account of biological organisation establishes the organisational conditions relevant to living systems, including constraint closure, viability, and the coordinated maintenance of conditions for continued existence.
+
+The present article examines how such organisation bears on the identification and persistence of biological individuals.
+
+Organisational continuity is relevant to individuality, but the two concepts should not be treated as interchangeable.
+
+### Relationship to Development and Process
+
+Development involves transformations through which biological organisation is maintained, reconstructed, and altered over time.
+
+Biological individuality therefore cannot be understood solely through the persistence of material components or structural features.
+
+This article connects individuality to developmental continuity without requiring that all developmental transformations preserve the same organisational identity.
+
+### Relationship to Experimental Individuation
+
+Biological individuality as an organisational phenomenon must be distinguished from the experimental practices through which scientists identify, compare, and investigate biological entities.
+
+As Love (2018) emphasises, experimental individuation is partly determined by the questions, methods, and evidential practices of particular investigations.
+
+APS accommodates this methodological plurality. An experimentally useful unit need not constitute an autonomous biological individual, and organisational criteria do not automatically determine every legitimate investigative boundary.
+
+### Position within APS
+
+Agency, Process, and Scale provide complementary analytic perspectives on viability-oriented, constraint-closed organisation.
+
+In the investigation of biological individuality, Agency concerns viability-oriented organisational activity; Process concerns the ongoing dynamics of maintenance and transformation; and Scale concerns the spatial–temporal coordination relevant to identifying and tracking organisational continuity.
+
+These perspectives are not separate causes or independent constituents of individuality.
+
+Their explanatory relevance depends on the biological question being investigated.
+
+### Corpus Significance
+
+This article connects the APS accounts of biological organisation, development, and organised persistence to the problem of biological individuality.
+
+Its central architectural proposition is:
+
+**Biological individuality can be investigated through the continuity of viability-oriented organisation without treating organisational continuity as a universal criterion of experimental individuation.**
+
+The article provides a conceptual basis for comparing organisational accounts of individuality with developmental, evolutionary, ecological, and practice-based approaches.
+
+It does not establish that APS provides a superior explanation of biological individuality. Any such claim requires comparison with the strongest existing alternatives.
