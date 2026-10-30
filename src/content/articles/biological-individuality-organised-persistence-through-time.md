@@ -209,15 +209,18 @@ This perspective helps explain why biological individuality can exhibit consider
 
 APS distinguishes biological individuality from several related concepts that are often treated as interchangeable. Although these concepts overlap in important ways, they refer to different forms of biological unity and therefore perform different explanatory functions.
 
-| Concept | APS Focus | Primary Criterion |
-|----------|-----------|------------------|
-| Biological Unit | Participation in biological organisation | Biological relevance |
-| Organism | Autonomous viability-oriented organisation | Self-maintaining organised persistence |
-| Biological Agent | Viability-oriented regulation | Active maintenance of viability |
-| Biological Individual | Persistence-bearing organisational unity | Organised continuity through time |
-| Processual Individual | Dynamic continuity through transformation | Persistence despite material change |
-| Species | Historical lineage continuity | Persistence across generations |
-| Taxon | Explanatory classification | Biological grouping for explanation |
+<div class="aps-diagram">
+  <img
+    src="/assets/diagrams/aps-concepts-comparison-table.png"
+    alt="Comparison of seven biological concepts in APS: biological unit, organism, biological agent, biological individual, processual individual, species, and taxon, showing their organisational focus and primary criteria."
+    loading="lazy"
+    decoding="async"
+  />
+  <p class="aps-diagram-caption">
+    <strong>Figure. Biological concepts and their primary criteria in APS.</strong>
+    The table distinguishes seven related biological concepts according to their organisational focus and principal criterion of application. These concepts serve different explanatory purposes and should not be treated as interchangeable.
+  </p>
+</div>
 
 A biological unit is the broadest category. Any entity that participates in biological organisation in an explanatorily significant way may qualify as a biological unit. Cells, organs, symbionts, organisms, and even viruses may function as biological units without necessarily possessing autonomy, agency, or individuality.
 
