@@ -1,23 +1,14 @@
 ---
 date: 2026-04-09
-
 title: Why APS Is Not Hierarchical
-
 slug: why-aps-is-not-hierarchical
-
 type: article
-
 status: canonical
-
 canonical: true
-
 canonicalLockDate: 2026-04-09
-
-revised: 2026-10-23
+revised: 2026-10-30
 cluster: conceptual-foundations
-
 role: clarification
-
 abstract: >
   Biology is often described through hierarchical levels extending from
   molecules to ecosystems. Such representations can be useful for investigation,
@@ -154,6 +145,14 @@ APS therefore does not treat levels simply as fictions or arbitrary construction
 Problems arise when the representational ordering itself is assumed to establish a universal ordering within biological reality. Molecular biology, physiology, developmental biology, ecology, evolutionary biology, and other domains organise inquiry around different questions and phenomena. Their disciplinary boundaries do not by themselves demonstrate corresponding strata in nature.
 
 The distinction is therefore not between unreal levels and real organisation. It is between a representational device and the material organisation that the device may, with varying success, describe. APS asks that the two not be conflated.
+
+### Hierarchy, Modularity, and Near-Decomposability
+
+Hierarchical organisation is not merely a convenience of representation. Simon (1962) showed that complex systems may exhibit *near-decomposability*: interactions within relatively stable subsystems can be stronger or faster than interactions between them. Such organisation can make complex systems more tractable to investigation and can help explain the emergence and persistence of complex assemblies. These are substantive claims about system organisation, not simply about how investigators choose to describe it.
+
+APS accommodates such arrangements without treating them as a universal architecture of life. Its concern is whether the boundaries of a relatively autonomous subsystem adequately capture the processes, constraints, and dependencies relevant to the explanandum. A subsystem may be sufficiently independent for one explanatory purpose while remaining dependent on wider organisation for its viability or persistence. The relevant question is therefore not whether hierarchical decomposition is legitimate, but when it is explanatorily sufficient and when additional organisational relations make a demonstrable difference.
+
+Near-decomposability and APS Scale consequently address related but distinct questions. The former concerns the relative strength and temporal organisation of interactions among subsystems; the latter identifies the spatial and temporal extent across which persistence relevant to a specified explanandum is organised. APS does not claim that this distinction improves upon Simon's account without a direct comparative demonstration.
 
 ## Why Ontological Hierarchy Is Misleading
 
