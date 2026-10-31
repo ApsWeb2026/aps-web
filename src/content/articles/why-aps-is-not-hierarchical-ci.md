@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-09
-revised: 2026-10-30
+revised: 2026-10-31
 cluster: conceptual-foundations
 role: clarification
 abstract: >
@@ -229,18 +229,21 @@ APS consequently rejects both privileged-level agency and causation between reif
 APS does not require biologists to abandon familiar hierarchical terminology. Terms such as *levels of organisation*, *higher-level control*, *top-down causation*, and *bottom-up processes* are deeply embedded in biological practice and can function effectively as shorthand.
 
 The problem arises when the shorthand is allowed to substitute for an account of the material relations involved. APS therefore treats hierarchical terminology as an invitation to explanatory clarification rather than as vocabulary requiring one-to-one replacement.
-
-| Conventional expression | APS asks |
-| --- | --- |
-| **level of organisation** | What materially realised organisation does this level distinguish, and what explanatory purpose does the distinction serve? |
-| **top-down causation** | Which materially implemented constraints, interactions, or conditions alter the local activity? |
-| **bottom-up causation** | Which component processes and interactions contribute to the explanandum? |
-| **higher-level control** | What material regulatory or constraint relations perform the controlling work? |
-| **emergence from lower levels** | Which organisational relations explain the property or activity not captured by the narrower description? |
-| **hierarchical organisation** | Does the hierarchy track materially relevant part–whole relations, serve primarily as a representation, or combine both? |
-| **cross-level influence** | What material relation connects the phenomena being described, and across what spatial or temporal extent must it be explained? |
-
 APS therefore translates hierarchical language by recovering the material and explanatory relations it abbreviates, not by replacing the word *level* with *scale*.
+
+<div class="aps-diagram">
+  <a href="/assets/diagrams/aps-hierarchical-language-table.png" target="_blank" rel="noopener">
+    <img
+      src="/assets/diagrams/aps-hierarchical-language-table.png"
+      alt="Table translating seven conventional hierarchical expressions into APS questions about materially realised biological organisation, causation, and explanatory extent."
+      loading="lazy"
+    />
+  </a>
+  <p class="aps-diagram-caption">
+    <strong>Translating Hierarchical Language into APS Explanation.</strong>
+    Conventional hierarchical expressions are retained where useful, but APS asks which material processes, constraints, and organisational relations they identify, and what spatial and temporal extent is required for an adequate explanation.
+  </p>
+</div>
 
 This approach preserves the practical value of established biological terminology while making its explanatory commitments explicit. A hierarchical description can remain useful when it accurately serves the question being asked. What APS resists is the unexamined inference from that usefulness to a universal architecture of biological reality.
 
