@@ -209,7 +209,7 @@ Magnification therefore extended observational access without automatically prod
 
 <div class="aps-diagram">
   <img
-    src="/assets/diagrams/technology-biological-observation-final.png"
+    src="/assets/images/history/technology-biological-observation-final.png"
     alt="Diagram showing the extension of biological observation from unaided vision through microscopy to molecular and computational techniques."
     loading="lazy"
   />
@@ -348,13 +348,13 @@ This tension between experimental isolation and systemic understanding persisted
 
 <div class="aps-diagram">
   <img
-    src="/assets/diagrams/technology-biological-explanation-final.png"
-    alt="Analytical reconstruction of Harvey's circulation investigations showing intervention, observation, measurement, and causal explanation."
+    src="/assets/images/history/technology-evidence-explanation-final.png"
+    alt="Diagram relating contemporary technological capabilities, biological questions, investigative methods, evidence, and explanatory advance."
     loading="lazy"
   />
   <p class="caption">
-    <strong>From intervention to biological explanation.</strong>
-    Harvey's investigations illustrate how anatomical observations, experimental interventions, and quantitative reasoning can be integrated into a causal explanation of coordinated physiological activity. The diagram is a schematic interpretation rather than a historical reconstruction of a particular experiment.
+    <strong>Technology, evidence, and explanatory advance.</strong>
+    Contemporary technologies extend observation, measurement, intervention, and modelling. Their contribution to biological understanding depends upon the interpretation of evidence, evaluation of competing explanations, and establishment of defensible relationships among biological phenomena.
   </p>
 </div>
 
@@ -673,7 +673,6 @@ The development of these technologies enlarged the range of biological phenomena
 
 The next transformation involved the increasing integration of computation, automated measurement, and advanced imaging. These technologies expanded the scale of biological observation and analysis while raising new questions about the relationships among data, models, prediction, and understanding.
 
-
 ## Computation, Imaging, and Contemporary Biology
 
 Molecular biology, ecological monitoring, and increasingly precise experimental techniques greatly expanded biological investigation, but also generated quantities of information and complexities that could not be addressed through unaided observation and comparison. Biological processes involve interacting components across spatial and temporal scales, requiring methods for organising evidence, analysing relationships, and examining changes that may be difficult to observe directly.
@@ -684,7 +683,7 @@ These developments enabled investigators to reconstruct molecular structures, ob
 
 <div class="aps-diagram">
   <img
-    src="/assets/diagrams/technology-evidence-explanation-final.png"
+    src="/assets/images/history/technology-evidence-explanation-final.png"
     alt="Diagram relating contemporary technological capabilities, biological questions, investigative methods, evidence, and explanatory advance."
     loading="lazy"
   />
