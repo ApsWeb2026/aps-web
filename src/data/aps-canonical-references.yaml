@@ -6128,4 +6128,254 @@ references:
     status: verified
     authority: Wellcome Collection
     verifiedDate: 2026-10-29
+- id: leeuwenhoek-1676-letter-oldenburg
+  type: archival-document
+  authors: Leeuwenhoek, A. van
+  year: 1676
+  title: Letter to Henry Oldenburg, Delft, 9 October 1676
+  repository: Royal Society
+  identifier: EL/L1/22
+  url: https://makingscience.royalsociety.org/items/el_l1_22/letter-from-antoni-van-leeuwenhoek-to-henry-oldenburg-dated-at-delft
+  verification:
+    status: verified
+    authority: Royal Society archive EL/L1/22
+    verifiedDate: '2026-10-31'
+- id: harvey-1628-de-motu-cordis
+  type: book
+  authors: Harvey, W.
+  year: 1628
+  title: Exercitatio anatomica de motu cordis et sanguinis in animalibus
+  publisher: Guilielmus Fitzerus
+  place: Frankfurt am Main
+  url: https://rcp.soutron.net/Portal/HeritageLibrary/en-GB/RecordView/Index/13091
+  verification:
+    status: verified
+    authority: Royal College of Physicians Heritage Library; Smithsonian Libraries
+    verifiedDate: '2026-10-31'
+- id: west-2008-ibn-al-nafis-pulmonary-circulation
+  type: journal-article
+  authors: West, J. B.
+  year: 2008
+  title: Ibn al-Nafis, the Pulmonary Circulation, and the Islamic Golden Age
+  journal: Journal of Applied Physiology
+  volume: '105'
+  issue: '6'
+  pages: 1877–1880
+  doi: 10.1152/japplphysiol.91171.2008
+  verification:
+    status: verified
+    authority: PubMed / Journal of Applied Physiology
+    verifiedDate: '2026-10-31'
+- id: lavoisier-laplace-1783-memoire-chaleur
+  type: book
+  authors: Lavoisier, A.-L., & Laplace, P.-S.
+  year: 1783
+  title: Mémoire sur la chaleur
+  publisher: Imprimerie royale
+  place: Paris
+  pages: 1–56
+  url: https://catalogue.bnf.fr/ark:/12148/cb30739046p
+  verification:
+    status: verified
+    authority: Bibliothèque nationale de France catalogue FRBNF30739046
+    verifiedDate: '2026-10-31'
+- id: ingenhousz-1779-experiments-vegetables
+  type: book
+  authors: Ingenhousz, J.
+  year: 1779
+  title: Experiments upon Vegetables, Discovering Their Great Power of Purifying the Common Air in the Sun-shine, and of Injuring It in the Shade and at Night
+  publisher: P. Elmsly and H. Payne
+  place: London
+  doi: 10.5962/bhl.title.62510
+  verification:
+    status: verified
+    authority: Library of Congress; Biodiversity Heritage Library
+    verifiedDate: '2026-10-31'
+- id: saussure-1804-recherches-chimiques-vegetation
+  type: book
+  authors: de Saussure, T.
+  year: 1804
+  title: Recherches chimiques sur la végétation
+  publisher: Nyon
+  place: Paris
+  doi: 10.5962/bhl.title.16533
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library / NCSU Libraries
+    verifiedDate: '2026-10-31'
+- id: buchner-1897-alkoholische-garung
+  type: journal-article
+  authors: Buchner, E.
+  year: 1897
+  title: Alkoholische Gährung ohne Hefezellen
+  journal: Berichte der deutschen chemischen Gesellschaft
+  volume: '30'
+  issue: '1'
+  pages: 117–124
+  doi: 10.1002/cber.18970300121
+  verification:
+    status: verified
+    authority: Wiley Online Library original article pp. 117–124
+    verifiedDate: '2026-10-31'
+- id: mckie-1944-wohler-vitalism
+  type: journal-article
+  authors: McKie, D.
+  year: 1944
+  title: "Wöhler's 'Synthetic' Urea and the Rejection of Vitalism: A Chemical Legend"
+  journal: Nature
+  volume: '153'
+  pages: 608–610
+  doi: 10.1038/153608a0
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: '2026-10-31'
+- id: morgan-1910-sex-limited-inheritance
+  type: journal-article
+  authors: Morgan, T. H.
+  year: 1910
+  title: Sex Limited Inheritance in Drosophila
+  journal: Science
+  volume: '32'
+  issue: '812'
+  pages: 120–122
+  doi: 10.1126/science.32.812.120
+  verification:
+    status: verified
+    authority: PubMed / Science
+    verifiedDate: '2026-10-31'
+- id: avery-macleod-mccarty-1944-transforming-principle
+  type: journal-article
+  authors: Avery, O. T., MacLeod, C. M., & McCarty, M.
+  year: 1944
+  title: "Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types: Induction of Transformation by a Desoxyribonucleic Acid Fraction Isolated from Pneumococcus Type III"
+  journal: Journal of Experimental Medicine
+  volume: '79'
+  issue: '2'
+  pages: 137–158
+  doi: 10.1084/jem.79.2.137
+  verification:
+    status: verified
+    authority: Rockefeller University Press / Journal of Experimental Medicine
+    verifiedDate: '2026-10-31'
+- id: watson-crick-1953-dna-structure
+  type: journal-article
+  authors: Watson, J. D., & Crick, F. H. C.
+  year: 1953
+  title: "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid"
+  journal: Nature
+  volume: '171'
+  pages: 737–738
+  doi: 10.1038/171737a0
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: '2026-10-31'
+- id: franklin-gosling-1953-molecular-configuration
+  type: journal-article
+  authors: Franklin, R. E., & Gosling, R. G.
+  year: 1953
+  title: Molecular Configuration in Sodium Thymonucleate
+  journal: Nature
+  volume: '171'
+  pages: 740–741
+  doi: 10.1038/171740a0
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: '2026-10-31'
+- id: sanger-nicklen-coulson-1977-dna-sequencing
+  type: journal-article
+  authors: Sanger, F., Nicklen, S., & Coulson, A. R.
+  year: 1977
+  title: DNA Sequencing with Chain-Terminating Inhibitors
+  journal: Proceedings of the National Academy of Sciences
+  volume: '74'
+  issue: '12'
+  pages: 5463–5467
+  doi: 10.1073/pnas.74.12.5463
+  verification:
+    status: verified
+    authority: PubMed / Proceedings of the National Academy of Sciences
+    verifiedDate: '2026-10-31'
+- id: jinek-et-al-2012-programmable-endonuclease
+  type: journal-article
+  authors: Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., & Charpentier, E.
+  year: 2012
+  title: A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity
+  journal: Science
+  volume: '337'
+  issue: '6096'
+  pages: 816–821
+  doi: 10.1126/science.1225829
+  verification:
+    status: verified
+    authority: PubMed / Science
+    verifiedDate: '2026-10-31'
+- id: humboldt-bonpland-1805-geographie-plantes
+  type: book
+  authors: Humboldt, A. von, & Bonpland, A.
+  year: 1805
+  title: Essai sur la géographie des plantes
+  publisher: Levrault, Schoell et compagnie
+  place: Paris
+  doi: 10.5962/bhl.title.9309
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library / Missouri Botanical Garden
+    verifiedDate: '2026-10-31'
+- id: clements-1916-plant-succession
+  type: book
+  authors: Clements, F. E.
+  year: 1916
+  title: "Plant Succession: An Analysis of the Development of Vegetation"
+  publisher: Carnegie Institution of Washington
+  place: Washington, DC
+  series: Carnegie Institution of Washington Publication No. 242
+  doi: 10.5962/bhl.title.56234
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library / Cornell University Library
+    verifiedDate: '2026-10-31'
+- id: gleason-1926-individualistic-plant-association
+  type: journal-article
+  authors: Gleason, H. A.
+  year: 1926
+  title: The Individualistic Concept of the Plant Association
+  journal: Bulletin of the Torrey Botanical Club
+  volume: '53'
+  issue: '1'
+  pages: 7–26
+  doi: 10.2307/2479933
+  verification:
+    status: verified
+    authority: JSTOR / Bulletin of the Torrey Botanical Club
+    verifiedDate: '2026-10-31'
+- id: paine-1966-food-web-complexity
+  type: journal-article
+  authors: Paine, R. T.
+  year: 1966
+  title: Food Web Complexity and Species Diversity
+  journal: The American Naturalist
+  volume: '100'
+  issue: '910'
+  pages: 65–75
+  doi: 10.1086/282400
+  verification:
+    status: verified
+    authority: University of Chicago Press / The American Naturalist
+    verifiedDate: '2026-10-31'
+- id: jumper-et-al-2021-alphafold
+  type: journal-article
+  authors: Jumper, J., Evans, R., Pritzel, A., et al.
+  year: 2021
+  title: Highly Accurate Protein Structure Prediction with AlphaFold
+  journal: Nature
+  volume: '596'
+  pages: 583–589
+  doi: 10.1038/s41586-021-03819-2
+  verification:
+    status: verified
+    authority: Nature
+    verifiedDate: '2026-10-31'
 

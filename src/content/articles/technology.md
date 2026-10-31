@@ -19,8 +19,9 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-10-16
+revised: 2026-10-31
 cluster: social-organisation
+role: core
 
 keyPoints:
   - Technologies are continuity architectures rather than merely tools.
@@ -96,10 +97,9 @@ references:
   - id: spencer2026
     authors: "Spencer, R. D."
     year: 2026
-    title: "Agency as the Defining Activity of Life: An Organisational Account of Biological Agency"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
-role: core
 ---
 
 ## Introduction

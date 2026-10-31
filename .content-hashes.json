@@ -751,7 +751,7 @@
   },
   "articles/social-organisation": {
     "hash": "101fc70b71f594ee",
-    "revised": "2026-10-16",
+    "revised": "2026-10-31",
     "lockedSince": "2026-05-29"
   },
   "articles/space-time-and-organisation-in-biology": {
@@ -771,7 +771,7 @@
   },
   "articles/technology": {
     "hash": "370bfe6957386bcc",
-    "revised": "2026-10-16",
+    "revised": "2026-10-31",
     "lockedSince": "2026-05-29"
   },
   "articles/teleology-in-biology-an-aps-clarification": {
@@ -2093,5 +2093,10 @@
     "hash": "063bda828ebec632",
     "revised": "2026-10-28",
     "lockedSince": "2026-10-28"
+  },
+  "articles/technology-and-the-transformation-of-biological-knowledge": {
+    "hash": "cf69effb1e25298f",
+    "revised": "2026-10-31",
+    "lockedSince": "2026-10-31"
   }
 }

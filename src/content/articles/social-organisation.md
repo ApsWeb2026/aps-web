@@ -18,8 +18,9 @@ abstract: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-29
-revised: 2026-10-16
+revised: 2026-10-31
 cluster: social-organisation
+role: anchor
 
 keyPoints:
   - Social organisation arises from the coordination of viability-oriented organisms.
@@ -57,7 +58,7 @@ references:
   - id: spencer2026agency
     authors: "Spencer, R."
     year: 2026
-    title: "Agency as the Defining Activity of Life: Towards a Theory of Organised Persistence"
+    title: "Agency as the Defining Activity of Life: A Viability-Oriented Framework Integrating Process and Scale"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
 
@@ -78,7 +79,6 @@ references:
     year: 2019
     title: "This View of Life"
     publisher: "Pantheon"
-role: anchor
 ---
 
 ## Introduction

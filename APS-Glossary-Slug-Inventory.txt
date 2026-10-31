@@ -1,0 +1,174 @@
+﻿
+Slug                                Title                               File                                                                                        
+----                                -----                               ----                                                                                        
+accountability                      Accountability                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\accountability.md                     
+adaptation                          Adaptation                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\adaptation-ci.md                      
+adaptive-reorganisation             Adaptive Reorganisation             C:\Users\Roger\Website\aps-web-1\src\content\glossary\adaptive-reorganisation.md            
+affordance                          Affordance                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\affordance.md                         
+ageing                              Ageing                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\ageing.md                             
+architectural-dependency            Architectural Dependency            C:\Users\Roger\Website\aps-web-1\src\content\glossary\architectural-dependency.md           
+autonomy                            Autonomy                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\autonomy.md                           
+autopoiesis                         Autopoiesis                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\autopoiesis.md                        
+awareness                           Awareness                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\awareness-ci.md                       
+behaviour                           Behaviour                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\behaviour.md                          
+biological-agency                   Biological Agency                   C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-agency-ci.md               
+biological-design                   Biological Design                   C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-design.md                  
+biological-evaluation               Biological Evaluation               C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-evaluation.md              
+biological-explanation              Biological Explanation              C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-explanation.md             
+biological-imperative               Biological Imperative               C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-imperative.md              
+biological-individual               Biological Individual               C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-individual.md              
+biological-meaning                  Biological Meaning                  C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-meaning.md                 
+biological-organisation             Biological Organisation             C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-organisation.md            
+biological-system                   Biological System                   C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-system.md                  
+biological-value                    Biological Value                    C:\Users\Roger\Website\aps-web-1\src\content\glossary\biological-value.md                   
+causation                           Causation                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\causation.md                          
+classification                      Classification                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\classification.md                     
+closure                             Closure                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\closure.md                            
+cognition                           Cognition                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\cognition-cid.md                      
+communication                       Communication                       C:\Users\Roger\Website\aps-web-1\src\content\glossary\communication.md                      
+conceptual-governance               Conceptual Governance               C:\Users\Roger\Website\aps-web-1\src\content\glossary\conceptual-governance.md              
+conceptual-stability                Conceptual Stability                C:\Users\Roger\Website\aps-web-1\src\content\glossary\conceptual-stability.md               
+consciousness                       Consciousness                       C:\Users\Roger\Website\aps-web-1\src\content\glossary\consciousness.md                      
+constitutive-dependency             Constitutive Dependency             C:\Users\Roger\Website\aps-web-1\src\content\glossary\constitutive-dependency.md            
+constraint                          Constraint                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\constraint.md                         
+constraint-closure                  Constraint Closure                  C:\Users\Roger\Website\aps-web-1\src\content\glossary\constraint-closure.md                 
+constraint-modulation               Constraint Modulation               C:\Users\Roger\Website\aps-web-1\src\content\glossary\constraint-modulation.md              
+continuity                          Continuity                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\continuity.md                         
+coordination                        Coordination                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\coordination.md                       
+counterfactual-depth                Counterfactual Depth                C:\Users\Roger\Website\aps-web-1\src\content\glossary\counterfactual-depth.md               
+coupling                            Coupling                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\coupling.md                           
+cultural-inheritance                Cultural Inheritance                C:\Users\Roger\Website\aps-web-1\src\content\glossary\cultural-inheritance.md               
+culture                             Culture                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\culture.md                            
+dependency                          Dependency                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\dependency.md                         
+dependency-hypothesis               Dependency Hypothesis               C:\Users\Roger\Website\aps-web-1\src\content\glossary\dependency-hypothesis.md              
+development                         Development                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\development.md                        
+developmental-organisation          Developmental Organisation          C:\Users\Roger\Website\aps-web-1\src\content\glossary\developmental-organisation.md         
+developmental-plasticity            Developmental Plasticity            C:\Users\Roger\Website\aps-web-1\src\content\glossary\developmental-plasticity.md           
+developmental-regulation            Developmental Regulation            C:\Users\Roger\Website\aps-web-1\src\content\glossary\developmental-regulation.md           
+developmental-scaffolding           Developmental Scaffolding           C:\Users\Roger\Website\aps-web-1\src\content\glossary\developmental-scaffolding.md          
+diagnosis                           Diagnosis                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\diagnosis.md                          
+distributed-functional-organisation Distributed Functional Organisation C:\Users\Roger\Website\aps-web-1\src\content\glossary\distributed-functional-organisation.md
+domination                          Domination                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\domination.md                         
+ecological-organisation             Ecological Organisation             C:\Users\Roger\Website\aps-web-1\src\content\glossary\ecological-organisation.md            
+ecological-resilience               Ecological Resilience               C:\Users\Roger\Website\aps-web-1\src\content\glossary\ecological-resilience.md              
+ecology                             Ecology                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\ecology.md                            
+ecosystem                           Ecosystem                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\ecosystem.md                          
+emergence                           Emergence                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\emergence.md                          
+enabling-dependency                 Enabling Dependency                 C:\Users\Roger\Website\aps-web-1\src\content\glossary\enabling-dependency.md                
+environment                         Environment                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\environment.md                        
+environmental-responsibility        Environmental Responsibility        C:\Users\Roger\Website\aps-web-1\src\content\glossary\environmental-responsibility.md       
+environmental-value                 Environmental Value                 C:\Users\Roger\Website\aps-web-1\src\content\glossary\environmental-value.md                
+ethics                              Ethics                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\ethics.md                             
+evaluation                          Evaluation                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\evaluation.md                         
+evolution                           Evolution                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\evolution.md                          
+evolutionary-organisation           Evolutionary Organisation           C:\Users\Roger\Website\aps-web-1\src\content\glossary\evolutionary-organisation.md          
+explanandum                         Explanandum                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanandum.md                        
+explanation                         Explanation                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanation.md                        
+explanatory-architecture            Explanatory Architecture            C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-architecture.md           
+explanatory-direction               Explanatory Direction               C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-direction.md              
+explanatory-gain                    Explanatory Gain                    C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-gain.md                   
+explanatory-grammar                 Explanatory Grammar                 C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-grammar.md                
+explanatory-organisation            Explanatory Organisation            C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-organisation.md           
+explanatory-priority                Explanatory Priority                C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-priority.md               
+explanatory-realism                 Explanatory Realism                 C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-realism.md                
+explanatory-target                  Explanatory Target                  C:\Users\Roger\Website\aps-web-1\src\content\glossary\explanatory-target.md                 
+fitness                             Fitness                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\fitness-ci.md                         
+fragility                           Fragility                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\fragility.md                          
+function                            Function                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\function-ci.md                        
+functional-equivalence              Functional Equivalence              C:\Users\Roger\Website\aps-web-1\src\content\glossary\functional-equivalence.md             
+functional-integration              Functional Integration              C:\Users\Roger\Website\aps-web-1\src\content\glossary\functional-integration.md             
+functional-lineage                  Functional Lineage                  C:\Users\Roger\Website\aps-web-1\src\content\glossary\functional-lineage.md                 
+functional-organisation             Functional Organisation             C:\Users\Roger\Website\aps-web-1\src\content\glossary\functional-organisation.md            
+gene                                Gene                                C:\Users\Roger\Website\aps-web-1\src\content\glossary\gene.md                               
+goal                                Goal                                C:\Users\Roger\Website\aps-web-1\src\content\glossary\goal.md                               
+holism                              Holism                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\holism.md                             
+homeorhesis                         Homeorhesis                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\homeorhesis.md                        
+human-values                        Human Values                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\human-values.md                       
+information                         Information                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\information.md                        
+inheritance                         Inheritance                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\inheritance.md                        
+institutions                        Institutions                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\institutions.md                       
+integration                         Integration                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\integration.md                        
+intelligence                        Intelligence                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\intelligence.md                       
+learning                            Learning                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\learning.md                           
+levels-of-organisation              Levels of Organisation              C:\Users\Roger\Website\aps-web-1\src\content\glossary\levels.md                             
+life                                Life                                C:\Users\Roger\Website\aps-web-1\src\content\glossary\life.md                               
+life-cycle                          Life-Cycle                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\life-cycle.md                         
+lineage                             Lineage                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\lineage.md                            
+malfunction                         Malfunction                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\malfunction.md                        
+mattering                           Mattering                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\mattering-ci.md                       
+meaning                             Meaning                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\meaning.md                            
+mechanism                           Mechanism                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\mechanism.md                          
+memory                              Memory                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\memory.md                             
+mind                                Mind                                C:\Users\Roger\Website\aps-web-1\src\content\glossary\mind.md                               
+moral-evaluation                    Moral Evaluation                    C:\Users\Roger\Website\aps-web-1\src\content\glossary\moral-evaluation.md                   
+morality                            Morality                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\morality.md                           
+moral-legitimacy                    Moral Legitimacy                    C:\Users\Roger\Website\aps-web-1\src\content\glossary\moral-legitimacy.md                   
+moral-standing                      Moral Standing                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\moral-standing.md                     
+morphogenesis                       Morphogenesis                       C:\Users\Roger\Website\aps-web-1\src\content\glossary\morphogenesis.md                      
+morphology                          Morphology                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\morphology.md                         
+multi-scale-causation               Multi-Scale Causation               C:\Users\Roger\Website\aps-web-1\src\content\glossary\multi-scale-causation.md              
+natural-selection                   Natural Selection                   C:\Users\Roger\Website\aps-web-1\src\content\glossary\natural-selection.md                  
+niche                               Niche                               C:\Users\Roger\Website\aps-web-1\src\content\glossary\niche.md                              
+niche-construction                  Niche Construction                  C:\Users\Roger\Website\aps-web-1\src\content\glossary\niche-construction.md                 
+normativity                         Normativity                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\normativity.md                        
+norm-formation                      Norm Formation                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\norm-formation.md                     
+ontogeny                            Ontogeny                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\ontogeny.md                           
+operational-persistence             Operational Persistence             C:\Users\Roger\Website\aps-web-1\src\content\glossary\operational-persistence.md            
+organicism                          Organicism                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\organicism.md                         
+organisational-continuity           Organisational Continuity           C:\Users\Roger\Website\aps-web-1\src\content\glossary\organisational-continuity.md          
+organisational-coupling             Organisational Coupling             C:\Users\Roger\Website\aps-web-1\src\content\glossary\organisational-coupling.md            
+organisational-dependency           Organisational Dependency           C:\Users\Roger\Website\aps-web-1\src\content\glossary\organisational-dependency.md          
+organisational-realism              Organisational Realism              C:\Users\Roger\Website\aps-web-1\src\content\glossary\organisational-realism.md             
+organised-persistence               Organised Persistence               C:\Users\Roger\Website\aps-web-1\src\content\glossary\organised-persistence.md              
+organism                            Organism                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\organism.md                           
+organismality                       Organismality                       C:\Users\Roger\Website\aps-web-1\src\content\glossary\organismality.md                      
+organism-environment-coupling       Organismâ€“Environment Coupling     C:\Users\Roger\Website\aps-web-1\src\content\glossary\organism-environment-coupling.md      
+persistence                         Persistence                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\persistence-ci.md                     
+perturbation                        Perturbation                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\perturbation.md                       
+physiology                          Physiology                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\physiology.md                         
+plasticity                          Plasticity                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\plasticity.md                         
+process                             Process                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\process.md                            
+processual-individual               Processual Individual               C:\Users\Roger\Website\aps-web-1\src\content\glossary\processual-individual.md              
+purpose                             Purpose                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\purpose.md                            
+reason                              Reason                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\reason.md                             
+reductionism                        Reductionism                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\reductionism.md                       
+reflective-agency                   Reflective Agency                   C:\Users\Roger\Website\aps-web-1\src\content\glossary\reflective-agency.md                  
+reflective-evaluation               Reflective Evaluation               C:\Users\Roger\Website\aps-web-1\src\content\glossary\reflective-evaluation.md              
+regeneration                        Regeneration                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\regeneration.md                       
+regulation                          Regulation                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\regulation.md                         
+repair                              Repair                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\repair.md                             
+representation                      Representation                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\representation.md                     
+resilience                          Resilience                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\resilience.md                         
+resolution                          Resolution                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\resolution.md                         
+responsibility                      Responsibility                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\responsibility.md                     
+scale                               Scale                               C:\Users\Roger\Website\aps-web-1\src\content\glossary\scale.md                              
+selfhood                            Selfhood                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\selfhood.md                           
+semiosis                            Semiosis                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\semiosis.md                           
+shared-evaluation                   Shared Evaluation                   C:\Users\Roger\Website\aps-web-1\src\content\glossary\shared-evaluation.md                  
+significance                        Significance                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\significance.md                       
+social-norms                        Social Norms                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\social-norms.md                       
+social-organisation                 Social Organisation                 C:\Users\Roger\Website\aps-web-1\src\content\glossary\social-organisation.md                
+social-power                        Social Power                        C:\Users\Roger\Website\aps-web-1\src\content\glossary\social-power.md                       
+spatiotemporal-organisation         Spatiotemporal Organisation         C:\Users\Roger\Website\aps-web-1\src\content\glossary\spatiotemporal-organisation.md        
+species                             Species                             C:\Users\Roger\Website\aps-web-1\src\content\glossary\species-ci.md                         
+survival                            Survival                            C:\Users\Roger\Website\aps-web-1\src\content\glossary\survival.md                           
+symbolic-coordination               Symbolic Coordination               C:\Users\Roger\Website\aps-web-1\src\content\glossary\symbolic-coordination.md              
+taxon                               Taxon                               C:\Users\Roger\Website\aps-web-1\src\content\glossary\taxon.md                              
+technology                          Technology                          C:\Users\Roger\Website\aps-web-1\src\content\glossary\technology.md                         
+teleology                           Teleology                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\teleology.md                          
+teleonomy                           Teleonomy                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\teleonomy-ci.md                       
+temporal-field                      Temporal Field                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\temporal-field.md                     
+temporality                         Temporality                         C:\Users\Roger\Website\aps-web-1\src\content\glossary\temporality.md                        
+temporal-organisation               Temporal Organisation               C:\Users\Roger\Website\aps-web-1\src\content\glossary\temporal-organisation.md              
+time                                Time                                C:\Users\Roger\Website\aps-web-1\src\content\glossary\time.md                               
+transformation                      Transformation                      C:\Users\Roger\Website\aps-web-1\src\content\glossary\transformation-ci.md                  
+umwelt                              Umwelt                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\umwelt.md                             
+values                              Values                              C:\Users\Roger\Website\aps-web-1\src\content\glossary\values.md                             
+variation                           Variation                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\variation-ci.md                       
+viability                           Viability                           C:\Users\Roger\Website\aps-web-1\src\content\glossary\viability.md                          
+viability-orientation               Viability-Orientation               C:\Users\Roger\Website\aps-web-1\src\content\glossary\viability-orientation.md              
+virus                               Virus                               C:\Users\Roger\Website\aps-web-1\src\content\glossary\virus.md                              
+vulnerability                       Vulnerability                       C:\Users\Roger\Website\aps-web-1\src\content\glossary\vulnerability.md                      
+
+
+
