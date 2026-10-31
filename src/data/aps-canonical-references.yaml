@@ -6146,7 +6146,6 @@ references:
   year: 1628
   title: Exercitatio anatomica de motu cordis et sanguinis in animalibus
   publisher: Guilielmus Fitzerus
-  place: Frankfurt am Main
   url: https://rcp.soutron.net/Portal/HeritageLibrary/en-GB/RecordView/Index/13091
   verification:
     status: verified
@@ -6172,8 +6171,6 @@ references:
   year: 1783
   title: Mémoire sur la chaleur
   publisher: Imprimerie royale
-  place: Paris
-  pages: 1–56
   url: https://catalogue.bnf.fr/ark:/12148/cb30739046p
   verification:
     status: verified
@@ -6185,7 +6182,6 @@ references:
   year: 1779
   title: Experiments upon Vegetables, Discovering Their Great Power of Purifying the Common Air in the Sun-shine, and of Injuring It in the Shade and at Night
   publisher: P. Elmsly and H. Payne
-  place: London
   doi: 10.5962/bhl.title.62510
   verification:
     status: verified
@@ -6197,7 +6193,6 @@ references:
   year: 1804
   title: Recherches chimiques sur la végétation
   publisher: Nyon
-  place: Paris
   doi: 10.5962/bhl.title.16533
   verification:
     status: verified
@@ -6318,7 +6313,6 @@ references:
   year: 1805
   title: Essai sur la géographie des plantes
   publisher: Levrault, Schoell et compagnie
-  place: Paris
   doi: 10.5962/bhl.title.9309
   verification:
     status: verified
@@ -6330,8 +6324,6 @@ references:
   year: 1916
   title: "Plant Succession: An Analysis of the Development of Vegetation"
   publisher: Carnegie Institution of Washington
-  place: Washington, DC
-  series: Carnegie Institution of Washington Publication No. 242
   doi: 10.5962/bhl.title.56234
   verification:
     status: verified
@@ -6378,4 +6370,3 @@ references:
     status: verified
     authority: Nature
     verifiedDate: '2026-10-31'
-

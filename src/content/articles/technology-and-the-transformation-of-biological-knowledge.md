@@ -32,7 +32,7 @@ abstract: >-
   capabilities do not independently establish explanatory
   adequacy.
 
-revised: 2026-10-31
+revised: 2026-11-01
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-31
@@ -209,7 +209,7 @@ Magnification therefore extended observational access without automatically prod
 
 <div class="aps-diagram">
   <img
-    src="/assets/images/history/technology-biological-observation-final.png"
+    src="/public/images/history/technology-biological-observation-final.png"
     alt="Diagram showing the extension of biological observation from unaided vision through microscopy to molecular and computational techniques."
     loading="lazy"
   />
@@ -348,7 +348,7 @@ This tension between experimental isolation and systemic understanding persisted
 
 <div class="aps-diagram">
   <img
-    src="/assets/images/history/technology-evidence-explanation-final.png"
+    src="/public/images/history/technology-evidence-explanation-final.png"
     alt="Diagram relating contemporary technological capabilities, biological questions, investigative methods, evidence, and explanatory advance."
     loading="lazy"
   />
@@ -683,7 +683,7 @@ These developments enabled investigators to reconstruct molecular structures, ob
 
 <div class="aps-diagram">
   <img
-    src="/assets/images/history/technology-evidence-explanation-final.png"
+    src="/public/images/history/technology-evidence-explanation-final.png"
     alt="Diagram relating contemporary technological capabilities, biological questions, investigative methods, evidence, and explanatory advance."
     loading="lazy"
   />

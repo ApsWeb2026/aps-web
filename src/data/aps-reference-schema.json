@@ -20,7 +20,8 @@
         { "$ref": "#/$defs/editedBook" },
         { "$ref": "#/$defs/journalArticle" },
         { "$ref": "#/$defs/bookChapter" },
-        { "$ref": "#/$defs/preprint" }
+        { "$ref": "#/$defs/preprint" },
+        { "$ref": "#/$defs/archivalDocument" }
       ]
     },
     "id": {
@@ -56,67 +57,93 @@
           "minLength": 1,
           "description": "Authority against which the bibliographic record was verified. Mandatory under governance for new and migrated records, but temporarily optional for legacy compatibility."
         },
-        "verifiedDate": { "type": "string", "format": "date" }
+              "verifiedDate": { "type": "string", "format": "date" }
       }
     },
-    "book": {
-      "title": "Book",
+    "archivalDocument": {
+      "title": "Archival document",
       "type": "object",
       "additionalProperties": false,
-      "required": ["id", "type", "year", "title", "publisher", "verification"],
+      "required": [
+        "id",
+        "type",
+        "authors",
+        "year",
+        "title",
+        "repository",
+        "verification"
+      ],
       "properties": {
         "id": { "$ref": "#/$defs/id" },
-        "type": { "const": "book" },
+        "type": { "const": "archival-document" },
         "authors": { "$ref": "#/$defs/authors" },
-        "editors": { "$ref": "#/$defs/editors" },
         "year": { "$ref": "#/$defs/year" },
         "title": { "$ref": "#/$defs/title" },
-        "publisher": { "$ref": "#/$defs/publisher" },
-        "edition": { "$ref": "#/$defs/edition" },
-        "volume": { "$ref": "#/$defs/volume" },
-        "doi": { "$ref": "#/$defs/doi" },
+        "repository": { "$ref": "#/$defs/repository" },
+        "identifier": { "$ref": "#/$defs/identifier" },
         "url": { "$ref": "#/$defs/url" },
         "note": { "$ref": "#/$defs/note" },
         "verification": { "$ref": "#/$defs/verification" }
+      }
       },
-      "anyOf": [
-  {
-    "properties": {
-      "authors": {
-        "$ref": "#/$defs/authors"
-      }
-    },
-    "required": ["authors"]
-  },
-  {
-    "properties": {
-      "editors": {
-        "$ref": "#/$defs/editors"
-      }
-    },
-    "required": ["editors"]
-  }
-]
-    },
-    "editedBook": {
-      "title": "Edited book",
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["id", "type", "editors", "year", "title", "publisher", "verification"],
+      "book": {
+        "title": "Book",
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "type", "year", "title", "publisher", "verification"],
+        "properties": {
+          "id": { "$ref": "#/$defs/id" },
+          "type": { "const": "book" },
+          "authors": { "$ref": "#/$defs/authors" },
+          "editors": { "$ref": "#/$defs/editors" },
+          "year": { "$ref": "#/$defs/year" },
+          "title": { "$ref": "#/$defs/title" },
+          "publisher": { "$ref": "#/$defs/publisher" },
+          "edition": { "$ref": "#/$defs/edition" },
+          "volume": { "$ref": "#/$defs/volume" },
+          "doi": { "$ref": "#/$defs/doi" },
+          "url": { "$ref": "#/$defs/url" },
+          "note": { "$ref": "#/$defs/note" },
+          "verification": { "$ref": "#/$defs/verification" }
+        },
+        "anyOf": [
+    {
       "properties": {
-        "id": { "$ref": "#/$defs/id" },
-        "type": { "const": "edited-book" },
-        "editors": { "$ref": "#/$defs/editors" },
-        "year": { "$ref": "#/$defs/year" },
-        "title": { "$ref": "#/$defs/title" },
-        "publisher": { "$ref": "#/$defs/publisher" },
-        "edition": { "$ref": "#/$defs/edition" },
-        "volume": { "$ref": "#/$defs/volume" },
-        "doi": { "$ref": "#/$defs/doi" },
-        "url": { "$ref": "#/$defs/url" },
-        "note": { "$ref": "#/$defs/note" },
-        "verification": { "$ref": "#/$defs/verification" }
-      }
+        "authors": {
+          "$ref": "#/$defs/authors"
+        }
+      },
+      "required": ["authors"]
+    },
+    {
+      "properties": {
+        "editors": {
+          "$ref": "#/$defs/editors"
+        }
+      },
+      "required": ["editors"]
+    }
+  ]
+      },
+      "editedBook": {
+        "title": "Edited book",
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "type", "editors", "year", "title", "publisher", "verification"],
+        "properties": {
+          "id": { "$ref": "#/$defs/id" },
+          "type": { "const": "edited-book" },
+          "editors": { "$ref": "#/$defs/editors" },
+          "year": { "$ref": "#/$defs/year" },
+          "title": { "$ref": "#/$defs/title" },
+          "publisher": { "$ref": "#/$defs/publisher" },
+          "edition": { "$ref": "#/$defs/edition" },
+          "volume": { "$ref": "#/$defs/volume" },
+          "doi": { "$ref": "#/$defs/doi" },
+          "url": { "$ref": "#/$defs/url" },
+          "note": { "$ref": "#/$defs/note" },
+          "verification": { "$ref": "#/$defs/verification" }
+        }
     },
     "journalArticle": {
       "title": "Journal article",
