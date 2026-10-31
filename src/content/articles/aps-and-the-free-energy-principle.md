@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-08-04
-revised: 2026-09-14
+revised: 2026-11-01
 cluster: philosophy-of-biology
 role: anchor
 
@@ -67,6 +67,7 @@ references:
   - moreno-mossio-2015-biological-autonomy
   - montevil-mossio-2015-closure-constraints
   - mossio-saborido-moreno-2009-functions
+  - guenin-carlut-2026-relational-free-energy-principle
 ---
 
 ## Why Compare APS and the Free Energy Principle?
@@ -120,6 +121,8 @@ FEP employs a highly general formal apparatus involving variational free energy,
 APS begins instead from its substantive account of life as viability-oriented, constraint-closed organisation and asks how organised persistence is enacted, maintained, and transformed. Its explanatory grammar therefore foregrounds biological agency, process, scale, viability, and organisation.
 
 These differences should not be converted prematurely into a fixed distinction between “formal description” and “biological explanation.” A formal framework may support explanatory claims about biological organisation, and an organisational framework may itself employ abstraction and formalisation. The relevant issue is what explanatory work each framework performs for a specified target.
+
+Recent developments within Free Energy Principle research reinforce the need for this comparative caution. Guénin-Carlut (2026) distinguishes between accounts of adaptive dynamics within an established space of states and relational approaches concerned with how the relevant organisational relationships and possibilities of regulation are themselves constituted or transformed. Drawing upon relational biology and theories of biological autonomy, this proposal highlights the difference between explaining the operation of an existing organisation and explaining changes in its constitutive relationships. For APS, the significance is methodological rather than confirmatory: the distinction sharpens the specification of explanatory targets without establishing that either APS or FEP provides a generally superior account of biological organisation.
 
 APS therefore distinguishes its own constitutive claims about living organisation from mathematical or informational descriptions of biological activity, but that distinction alone does not establish that FEP is merely descriptive or non-constitutive. Nor does FEP's mathematical generality establish that its formal quantities exhaust the biological organisation they are used to explain.
 

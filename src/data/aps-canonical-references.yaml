@@ -6408,3 +6408,17 @@ references:
     status: verified
     authority: Springer Nature
     verifiedDate: '2026-11-01'
+- id: guenin-carlut-2026-relational-free-energy-principle
+  type: journal-article
+  authors: Guénin-Carlut, A.
+  year: 2026
+  title: 'A Tale of Two Principles—Towards a Relational Perspective on the Free Energy Principle'
+  journal: Entropy
+  volume: '28'
+  issue: '10'
+  article-number: '1103'
+  doi: 10.3390/e28101103
+  verification:
+    status: verified
+    authority: MDPI / Entropy
+    verifiedDate: '2026-11-01'
