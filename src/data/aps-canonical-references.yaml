@@ -6370,3 +6370,41 @@ references:
     status: verified
     authority: Nature
     verifiedDate: '2026-10-31'
+- id: martins-nomura-2026-beyond-formal-equivalence
+  type: journal-article
+  authors: Martins, P. H., & Nomura, F.
+  year: 2026
+  title: 'Beyond Formal Equivalence: Research Questions and Explanatory Function in Group and Multilevel Selection Theory'
+  journal: Theory in Biosciences
+  volume: '145'
+  issue: '4'
+  article-number: '46'
+  doi: 10.1007/s12064-026-00495-6
+  verification:
+    status: verified
+    authority: Springer Nature and PubMed
+    verifiedDate: '2026-11-01'
+- id: nicholson-2026-organism-system-weiss
+  type: journal-article
+  authors: Nicholson, D. J.
+  year: 2026
+  title: 'The Organism as a System: Insights from Paul Weiss'
+  journal: Acta Biotheoretica
+  volume: '74'
+  article-number: '34'
+  doi: 10.1007/s10441-026-09539-2
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-01'
+- id: stefanovska-2026-temporal-organization-living-systems
+  type: journal-article
+  authors: Stefanovska, A.
+  year: 2026
+  title: 'Temporal Organization in Living Systems: Toward a Physics of Life'
+  journal: The European Physical Journal Special Topics
+  doi: 10.1140/epjs/s11734-026-02588-1
+  verification:
+    status: verified
+    authority: Springer Nature
+    verifiedDate: '2026-11-01'

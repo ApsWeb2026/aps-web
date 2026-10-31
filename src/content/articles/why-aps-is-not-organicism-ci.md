@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-10-17
+revised: 2026-11-01
 cluster: philosophy-of-biology
 role: clarification
 
@@ -132,6 +132,15 @@ references:
     title: "Agency as the Defining Activity of Life: Towards a Viability-Oriented Theory of Biological Organisation"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
+  
+  - id: nicholson-2026-organism-system-weiss
+    authors: "Nicholson, D. J."
+    year: 2026
+    title: "The Organism as a System: Insights from Paul Weiss"
+    journal: "Acta Biotheoretica"
+    volume: "74"
+    article-number: "34"
+    doi: "10.1007/s10441-026-09539-2"
 ---
 
 # Why APS Is Not Organicism
@@ -170,6 +179,8 @@ Although organicism took many forms, several recurring themes characterised the 
 - organisms exhibit continuity-preserving regulation and development.
 
 These themes strongly influenced later developments in systems biology, developmental systems theory, autonomy theory, process philosophy, cybernetics, enactivism, and contemporary organisational approaches to biology.
+
+Recent historical analysis reinforces the importance of this tradition. Nicholson (2026), reconstructing Paul Weiss's organism-centred systems biology, shows how experimental studies of development, regulation, and organismic integration informed critiques of reductionism, genocentrism, determinism, and mechanicism. Weiss's work illustrates that organisational thinking was not simply a philosophical appeal to wholeness, but was also grounded in attempts to explain concrete biological phenomena. This history provides an important antecedent to contemporary organisational approaches, including APS, without establishing that their explanatory architectures or empirical achievements are equivalent.
 
 ## What Organicism Correctly Recognised
 

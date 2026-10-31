@@ -6,8 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-26
-revised: 2026-07-01
-
+revised: 2026-11-01
 cluster: conceptual-foundations
 role: synthesis
 
@@ -245,6 +244,13 @@ references:
     journal: "Cell"
     volume: "96"
     pages: "271–290"
+
+  - id: stefanovska2026
+    authors: "Stefanovska, A."
+    year: 2026
+    title: "Temporal Organization in Living Systems: Toward a Physics of Life"
+    journal: "The European Physical Journal Special Topics"
+    doi: "10.1140/epjs/s11734-026-02588-1"
 ---
 
 ## Introduction
@@ -288,6 +294,8 @@ Regulation maintains continuity across moments. Development maintains continuity
 ## Contemporary Perspectives on Biological Time
 
 Recognition of the temporal character of life has become increasingly prominent across contemporary biology. Developmental biology has shown that organisms cannot be understood adequately as static structures but as continuously transforming organisations whose identities emerge through developmental continuity. Process biology similarly emphasises that living systems are ongoing activities rather than collections of enduring substances. Research on circadian organisation, biological rhythms, stress memory, anticipatory behaviour, ecological dynamics, and predictive regulation has reinforced the same broad conclusion: living systems continually integrate previous organisation, present conditions, and future possibilities into coherent patterns of activity.
+
+Contemporary dynamical approaches also provide increasingly precise methods for investigating temporal organisation. Stefanovska (2026), for example, examines how physiological systems can exhibit coordinated activity under continually changing conditions, including forms of time-dependent stability and coupling described through non-autonomous dynamical systems. Such approaches help make temporal coordination mathematically and empirically tractable. From an APS perspective, however, the identification of dynamical coordination must be distinguished from the demonstration of its biological significance: a temporal relationship contributes to an explanation of organised persistence only when its materially realised role in maintaining or modifying viability-relevant organisation can be established.
 
 These developments represent an important shift in biological thinking. Time is no longer regarded merely as the sequence in which biological events occur but as an active dimension of biological organisation itself. Development depends upon ordered organisational transformation. Physiological regulation coordinates processes operating across multiple temporal scales. Organisms modify present behaviour in ways shaped by previous interactions and by recurring environmental conditions. Even microorganisms exhibit forms of temporal organisation that enable them to anticipate predictable changes in their surroundings, while plants continually coordinate growth, physiology, and reproduction with daily and seasonal cycles. Across biology, temporal organisation increasingly appears not as an incidental feature of life but as one of its defining characteristics.
 
