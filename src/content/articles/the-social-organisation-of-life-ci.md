@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
-revised: 2026-10-16
+revised: 2026-11-01
 cluster: social-organisation
+role: synthesis
 
 abstract: >
   Social organisation is not an exception to life's organising principles but
@@ -80,7 +81,6 @@ references:
     year: 2019
     title: "This View of Life"
     publisher: "Pantheon"
-role: synthesis
 ---
 
 ## Why Social Organisation Matters

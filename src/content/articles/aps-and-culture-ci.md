@@ -4,8 +4,9 @@ title: "APS and Culture: How Social Systems Extend Organised Persistence Across 
 slug: aps-and-culture
 type: article
 status: evolving
-revised: 2026-10-16
+revised: 2026-11-01
 cluster: social-organisation
+role: extension
 abstract: "APS (Agency–Process–Scale) reframes culture as the historically extended organisation of coordinated activity. Rather than treating culture as a symbolic domain separate from biology, APS understands it as a multiscale process through which social systems stabilise, transmit, and transform patterns of interaction across time."
 relatedGlossaryTerms:
   - biological-agency
@@ -21,7 +22,6 @@ relatedGlossaryTerms:
 relatedArticles:
   - aps-and-the-social-sciences
   - aps-and-institutions
-role: extension
 ---
 
 ## Introduction: What Is Culture?

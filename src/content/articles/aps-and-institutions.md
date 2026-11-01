@@ -6,8 +6,9 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-30
-revised: 2026-10-16
+revised: 2026-11-01
 cluster: social-organisation
+role: core
 
 abstract: >
   Institutions are among the most persistent forms of social organisation,
@@ -75,7 +76,6 @@ references:
     title: "Agency as the Defining Activity of Life: An Organisational Approach to Biological Agency"
     journal: "Biological Theory"
     doi: "10.1007/s13752-026-00547-6"
-role: core
 ---
 
 # APS and Institutions: How Social Systems Stabilise Organised Persistence
