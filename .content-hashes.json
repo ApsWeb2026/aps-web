@@ -30,13 +30,13 @@
     "lockedSince": "2026-05-26"
   },
   "glossary/constraint-closure": {
-    "hash": "813053c01082b786",
-    "revised": "2026-09-03",
+    "hash": "5ac0c175a34a60bd",
+    "revised": "2026-11-01",
     "lockedSince": "2026-05-22"
   },
   "glossary/life": {
     "hash": "6c052205b4c1fa06",
-    "revised": "2026-09-03",
+    "revised": "2026-11-01",
     "lockedSince": "2026-06-13"
   },
   "glossary/mattering": {
@@ -145,8 +145,8 @@
     "lockedSince": "2026-05-16"
   },
   "glossary/biological-organisation": {
-    "hash": "507ef61fa3cb2300",
-    "revised": "2026-08-24",
+    "hash": "f6f27a6cdc5deb1e",
+    "revised": "2026-11-01",
     "lockedSince": "2026-04-08"
   },
   "glossary/evolution": {
@@ -1331,7 +1331,7 @@
   },
   "glossary/viability": {
     "hash": "beb0cf1abcb96f2e",
-    "revised": "2026-09-03",
+    "revised": "2026-11-01",
     "lockedSince": "2026-05-22"
   },
   "orientation/aps-architecture-map": {
@@ -1495,8 +1495,8 @@
     "lockedSince": "2026-06-26"
   },
   "articles/what-is-life-a-biological-question-revisited": {
-    "hash": "1b2e6bbfe41bdf49",
-    "revised": "2026-10-25",
+    "hash": "c95964f0b93a7b11",
+    "revised": "2026-11-01",
     "lockedSince": "2026-06-28"
   },
   "articles/what-is-it-about-life": {

@@ -3,19 +3,15 @@ date: 2026-04-26
 title: Viability
 slug: viability
 type: glossary
-
 definition: >
-  In APS, viability refers to the conditions compatible with the continued
-  functioning and organised persistence of living organisation.
-
+  In APS, viability refers to the system-relative conditions under which continued functioning can be maintained or re-established. These conditions distinguish changes that support, undermine, or restore the functioning of living organisation. Viability is therefore not equivalent to survival or persistence, but identifies the conditions relative to which biological activity has consequences for organised continuity.
 inBrief: >
   Viability specifies the conditions compatible with the continued functioning
   and organised persistence of living organisation.
-
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-09-03
+revised: 2026-11-01
 cluster: conceptual-foundations
 
 seeAlso:

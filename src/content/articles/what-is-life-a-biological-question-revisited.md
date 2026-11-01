@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-28
-revised: 2026-10-25
+revised: 2026-11-01
 cluster: conceptual-foundations
 role: anchor
 abstract: >
@@ -196,6 +196,20 @@ This distinction helps organise relationships with familiar biological phenomena
 None of these phenomena defines Life in isolation within APS. Their particular explanatory roles must be established in relation to the biological target being investigated.
 
 Life is therefore not treated as a property added to otherwise neutral matter or as a single mechanism operating within organisms. APS proposes it as viability-oriented, constraint-closed organisation materially enacted through ongoing biological activity.
+
+### Life, Agency, and the Organisation of Persistence
+
+The central APS concepts distinguish different aspects of one materially realised biological organisation:
+
+**Life** identifies viability-oriented, constraint-closed organisation. 
+**Viability** specifies the system-relative conditions compatible with continued functioning, while 
+**Constraint Closure** identifies reciprocal dependencies among materially realised constraints, sustained through ongoing processes. 
+**Biological Agency** identifies the characteristic viability-oriented activity of living organisation, and 
+**Organised Persistence** identifies its continuity through change.
+
+These concepts are therefore neither interchangeable definitions nor separate components assembled to produce Life. The crucial distinction is between **what living organisation is characterised as** and **what its characteristic activity does**. Life identifies the organisation; Agency identifies its viability-oriented activity; Viability and Constraint Closure distinguish relevant conditions and organisational relationships; and Organised Persistence identifies the continuity that this organisation maintains or re-establishes.
+
+This conceptual differentiation does not itself establish an empirical diagnostic of Life or demonstrate explanatory superiority over established biological accounts. Those claims require independent evidence and appropriate comparison.
 
 [[box:borderline-cases-viruses-sterile-organisms-artificial-systems]]
 

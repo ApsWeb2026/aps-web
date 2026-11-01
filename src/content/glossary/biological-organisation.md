@@ -4,15 +4,14 @@ title: Biological Organisation
 slug: biological-organisation
 type: glossary
 
-definition: "Biological organisation is viability-oriented, constraint-closed organisation through which living systems maintain and re-establish the conditions of their own persistence."
+definition: "In APS, biological organisation refers to the materially realised relationships among activities, structures, processes, and constraints through which living systems maintain and re-establish conditions compatible with their continued functioning. APS characterises this organisation as viability-oriented and constraint-closed. Biological organisation is a central target of explanation, not an additional component alongside Life or a substitute for established biological mechanisms and explanations."
 
 inBrief: "Biological organisation is the ongoing organisation through which living systems maintain the conditions of continued viable functioning."
 
 status: canonical
 canonical: true
 canonicalLockDate: 2026-04-08
-revised: 2026-08-24
-
+revised: 2026-11-01
 cluster: conceptual-foundations
 
 seeAlso:

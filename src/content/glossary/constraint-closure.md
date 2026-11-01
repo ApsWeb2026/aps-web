@@ -3,12 +3,12 @@ date: 2026-04-08
 title: Constraint Closure
 slug: constraint-closure
 type: glossary
-definition: "In APS, constraint closure refers to the reciprocal organisation of mutually sustaining constraints that participate in maintaining the conditions of living organisation over time."
-inBrief: "Constraint closure is the reciprocal organisation of mutually sustaining constraints within living organisation."
+definition: "In APS, constraint closure refers to relations of mutual dependence through which materially realised constraints, operating through ongoing processes, contribute to maintaining or re-establishing the conditions required for their continued operation. Within living organisation, these relations contribute to organised persistence but do not, considered alone, establish Life or biological agency."
+inBrief: Constraint closure is the mutual dependence of constraints, sustained through ongoing processes, that helps maintain or re-establish the conditions for their continued operation. Closure alone does not establish Life or biological agency.
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-22
-revised: 2026-09-03
+revised: 2026-11-01
 cluster: conceptual-foundations
 seeAlso:
   - constraint

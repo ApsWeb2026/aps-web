@@ -4,9 +4,7 @@ title: Life
 type: glossary
 slug: life
 definition: >
-  Life is viability-oriented, constraint-closed organisation. This organisation
-  consists in the ongoing modulation of constraints through which a system
-  actively maintains and re-establishes the conditions of its own persistence.
+  Life is viability-oriented, constraint-closed organisation. In APS, this identifies a form of materially realised organisation characterised by mutually sustaining constraints and activity oriented towards maintaining or re-establishing conditions compatible with continued functioning. Biological agency identifies the characteristic activity of this organisation, while organised persistence identifies its continuity through change.
 
 inBrief: >
   Life is viability-oriented, constraint-closed organisation.
@@ -14,7 +12,7 @@ inBrief: >
 status: canonical
 canonical: true
 canonicalLockDate: 2026-06-13
-revised: 2026-09-03
+revised: 2026-11-01
 cluster: conceptual-foundations
 
 relatedGlossaryTerms:
