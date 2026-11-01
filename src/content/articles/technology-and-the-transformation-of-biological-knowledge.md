@@ -209,7 +209,7 @@ Magnification therefore extended observational access without automatically prod
 
 <div class="aps-diagram">
   <img
-    src="/public/images/history/technology-biological-observation-final.png"
+    src="/images/history/technology-biological-observation-final.png"
     alt="Diagram showing the extension of biological observation from unaided vision through microscopy to molecular and computational techniques."
     loading="lazy"
   />
@@ -348,7 +348,7 @@ This tension between experimental isolation and systemic understanding persisted
 
 <div class="aps-diagram">
   <img
-    src="/public/images/history/technology-evidence-explanation-final.png"
+    src="/images/history/technology-evidence-explanation-final.png"
     alt="Diagram relating contemporary technological capabilities, biological questions, investigative methods, evidence, and explanatory advance."
     loading="lazy"
   />
@@ -683,7 +683,7 @@ These developments enabled investigators to reconstruct molecular structures, ob
 
 <div class="aps-diagram">
   <img
-    src="/public/images/history/technology-evidence-explanation-final.png"
+    src="/images/history/technology-evidence-explanation-final.png"
     alt="Diagram relating contemporary technological capabilities, biological questions, investigative methods, evidence, and explanatory advance."
     loading="lazy"
   />
