@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-10-20
-revised: 2026-10-29
+revised: 2026-11-01
 cluster: methodology-and-explanation
 role: synthesis
 abstract: >
@@ -79,6 +79,12 @@ Evolutionary theory remains essential to biological integration, but it does not
 Systems approaches challenged the idea that complex biological phenomena could always be understood by examining components in isolation. Von Bertalanffy's *General System Theory* (1968) foregrounded relationships, open systems and organised wholes. Simon's account of the *architecture of complexity* (1962) examined how complex arrangements can be structured into interacting, often hierarchical, subsystems.
 
 These traditions made organisation, interaction and scale familiar subjects of scientific analysis long before APS. They also raise a continuing question: when does describing a system's organisation improve explanation, and when does it merely rename relationships that specialised research already understands? APS inherits this question rather than resolving it through its terminology.
+
+APS distinguishes **complexity from biological organisation**. Complexity can be investigated through structural differentiation, interaction networks, dynamical behaviour, informational relationships, and the historical diversification of biological forms. These are legitimate subjects of scientific investigation, and their explanation may require mathematical, computational, mechanistic, developmental, ecological, or evolutionary approaches. APS does not propose to replace those approaches with a single measure or theory of complexity.
+
+Its particular concern is how materially realised relationships contribute to the maintenance, transformation, or loss of viable biological organisation. Complex arrangements are not necessarily living, and increasing complexity does not automatically establish greater agency, improved viability, evolutionary progress, or cognition. Conversely, relatively simple organisms can exhibit the viability-oriented organisation central to APS. The explanatory significance of complexity therefore depends upon the biological phenomenon under investigation and the organisational dependencies that account for it.
+
+This distinction is especially important for cognition. Sophisticated regulation, information processing, integration, and behavioural flexibility may provide evidence relevant to cognitive investigation, but their increasing complexity does not itself establish cognition. APS requires independent justification for cognitive attribution, grounded in how biological significance is organised across time and viability-relevant possibilities. The question is not simply how complex a system has become, but what its organisation enables, how those capacities are materially implemented, and whether a cognitive explanation adds anything beyond an adequate account of non-cognitive regulation.
 
 ### Mechanisms and explanatory levels
 

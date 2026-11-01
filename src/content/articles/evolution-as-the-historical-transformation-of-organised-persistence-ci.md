@@ -6,7 +6,7 @@ type: article
 status: canonical
 canonical: true
 canonicalLockDate: 2026-05-28
-revised: 2026-09-26
+revised: 2026-11-01
 cluster: evolutionary-dynamics
 role: anchor
 
@@ -266,13 +266,16 @@ Adaptation therefore contributes a distinct explanatory concept to APS evolution
 
 Inheritance concerns the regeneration of biological continuity across generations and therefore occupies an important place within evolutionary explanation. Where historical transformation depends upon the persistence or recurrence of biological organisation across generations, inheritance identifies processes through which such continuity is reconstituted. The precise forms and necessity of inheritance in particular evolutionary systems require biological specification rather than being established by APS architecture alone.
 
-APS approaches inheritance more broadly than the transmission of genes alone. Living systems inherit the developmental, physiological, behavioural, ecological, and organisational conditions through which viable persistence can be reconstructed across generations. Inheritance therefore concerns the regeneration of continuity-producing organisation rather than the passive transfer of informational units in isolation.
+
+APS examines inheritance in relation to the developmental reconstitution of viable organisation, while recognising the fundamental explanatory role of genetic transmission. Genes and other inherited resources contribute to biological continuity through their participation in developmental processes. Some cellular, physiological, behavioural, and ecological resources may also contribute where relevant cross-generational relationships can be demonstrated. However, not every environmental influence constitutes inheritance. APS therefore distinguishes the transmission of inherited resources from the developmental processes through which those resources contribute to the re-establishment of living organisation.
 
 This broader perspective becomes important because organisms do not inherit finished structures. Each generation must actively reconstruct viable organisation through developmental processes unfolding within ecological and historical contexts. What persists evolutionarily is therefore not a static package of inherited traits, but a continuity-producing organisation capable of being regenerated repeatedly despite ongoing transformation.
 
 Developmental organisation, physiological coordination, behavioural tendencies, ecological relations, and persistence-maintaining activities may all participate in continuity across generations. Variation, adaptation, and other evolutionary processes can bear upon that inherited organisation in different ways. APS therefore uses inheritance to identify cross-generational reconstitution of continuity without treating it as a predetermined bridge within a fixed causal sequence.
 
 APS consequently approaches inheritance as the organised reconstitution of viable continuity. The significance of inheritance lies not merely in transmitting biological material, but in sustaining the historical continuity of living organisation despite continual developmental, ecological, and evolutionary change.
+
+The distinction between inherited resources, developmental reconstitution, and environmental continuity is examined in greater detail in **Inheritance and Continuity in APS**. The present article retains the broader evolutionary question: how inheritance contributes to historical continuity while permitting variation and transformation.
 
 ## Lineages and Historical Continuity
 
@@ -284,15 +287,15 @@ Understanding evolution in terms of lineage continuity helps clarify why evoluti
 
 ## Fitness and Differential Continuity
 
-Fitness identifies an important aspect of evolutionary history, although APS approaches fitness somewhat differently from many traditional formulations. It is often understood as reproductive success or contribution to future gene frequencies. While these measures capture important aspects of evolutionary outcomes, they do not by themselves explain why some forms of organisation persist historically while others disappear.
+Fitness identifies an important aspect of evolutionary explanation because it concerns differences in reproductive contribution and their consequences for evolutionary change. In population genetics and evolutionary theory, fitness is commonly specified through measures of reproductive success, expected reproductive contribution, or the relative performance of heritable variants under particular conditions. These measures are not merely convenient descriptions of evolutionary outcomes. They are central to established explanations of selection and changes in populations through time.
 
-APS therefore approaches fitness as the historically situated continuity of viability-oriented organisation under particular developmental and ecological conditions. Fitness does not refer to abstract superiority, universal optimisation, or intrinsic biological value. It refers to the extent to which a form of organised persistence remains sufficiently viable to contribute to future continuity.
+APS approaches fitness by asking how the organisation of living systems contributes to the differences represented by such measures. Organisms must develop, maintain physiological functioning, interact with their environments, and reproduce under particular conditions. These activities can influence reproductive outcomes, but they do not make organismal viability equivalent to evolutionary fitness. An organism may remain viable for an extended period while contributing little to subsequent generations, while other organisms may achieve greater reproductive success despite shorter individual persistence.
 
-This perspective shifts attention away from idealised notions of competitive success and toward the practical problem of maintaining continuity under changing conditions. A biological organisation is evolutionarily successful not because it approximates some universal optimum, but because it remains capable of sustaining viability within the circumstances it encounters. Fitness therefore emerges from the relationship between living organisation and the conditions under which continuity must be maintained.
+The distinction between viability and fitness is therefore essential. Viability concerns the maintenance of the organisation required for continued living activity. Fitness concerns evolutionary performance as specified for the population, lineage, or other biological system under investigation. Viability may contribute causally to fitness, but the relationship is contingent upon reproductive organisation, ecological circumstances, life history, and the relevant evolutionary processes.
 
-Fitness is consequently relational rather than absolute, historical rather than timeless, and organisational rather than reducible to isolated traits. Organisational arrangements exhibit different patterns of continuity under particular ecological and developmental circumstances. Fitness characterises this differential historical continuity; it does not, by definition alone, identify the causal processes responsible for producing those differences.
+This perspective allows APS to investigate the organisational conditions contributing to fitness without redefining fitness as persistence alone. Physiological regulation, developmental reliability, behavioural capacities, ecological relationships, and reproductive organisation may all influence evolutionary outcomes. Their explanatory importance must be established for the particular biological case rather than inferred from the general importance of organised persistence.
 
-From the APS perspective, this interpretation helps clarify why fitness cannot be reduced to reproductive success alone. Reproductive outcomes remain important because they contribute to historical continuity, but the deeper explanatory issue concerns the capacity of persistence-sustaining organisation to maintain viability across changing conditions and to contribute to future continuity. Fitness therefore reflects the differential continuity of organised persistence through time rather than merely the numerical success of isolated traits or genes.
+Fitness is therefore relational and context-dependent, but it remains a distinct evolutionary concept. APS seeks to clarify how differences in reproductive contribution arise from materially realised biological organisation, while retaining the quantitative and population-level explanations through which fitness is ordinarily investigated. The organisational interpretation supplements these explanations where it identifies relevant causal dependencies; it does not replace their established meanings or demonstrate explanatory superiority by definition.
 
 ## Natural Selection and Differential Stabilisation
 
@@ -304,7 +307,7 @@ APS therefore approaches natural selection as:
 
 Selection concerns differential historical outcomes among biologically relevant alternatives. What becomes differentially stabilised cannot always be adequately characterised as an isolated gene or trait considered independently of its biological context; APS therefore directs attention to the organised systems within which such differences acquire evolutionary consequences.
 
-Natural selection consequently contributes a distinct explanatory relation within evolutionary transformation: differential historical stabilisation. It does not by itself explain the existence of organised persistence, nor does its position within APS establish agency, development, inheritance, adaptation, fitness, or ecological interaction as universal prerequisites. The particular biological dependencies involved require independent specification.
+Natural selection consequently contributes a distinct explanatory relation within evolutionary transformation: differential historical stabilisation. In conventional population-level explanations, selection involves differences in reproductive success associated with heritable variation. APS does not replace these conditions with a general appeal to persistence. Rather, it asks how materially realised biological organisation contributes to the production, maintenance, and evolutionary consequences of the relevant differences. Selection does not by itself explain the origin of living organisation or the generation of every variant upon which it acts. Nor does the APS architecture establish a universal causal sequence linking agency, development, inheritance, adaptation, fitness, and selection. The dependencies relevant to each evolutionary explanation require independent biological specification.
 
 ## Selection and the Origin of Life
 
@@ -326,7 +329,7 @@ Historically, evolutionary theory has often oscillated between attempts to locat
 
 Physiological processes contribute to organismal viability. Developmental systems generate continuity across generations. Behaviour modifies ecological conditions. Ecological organisation shapes opportunities for adaptation and persistence. Historical processes influence the trajectories along which lineages evolve. Evolutionary explanation therefore requires understanding how these scales interact rather than reducing one to another.
 
-Scale is consequently not merely a way of describing biological organisation. It is a constitutive feature of how organised persistence operates. The viability of organisms depends upon relationships extending across multiple temporal and organisational domains, and evolutionary transformation reshapes these relationships historically. Evolution therefore becomes intelligible only when viewed as a multiscale process of organisational continuity and change.
+Scale has both material and explanatory significance in evolutionary biology. Living systems involve relationships extending across spatial, temporal, and organisational extents, but the scales distinguished in an explanation also depend upon the phenomenon being investigated. Some evolutionary questions require explicit analysis of interactions among molecular, developmental, organismal, ecological, and population processes. Others can be adequately addressed at a more restricted explanatory scale. APS therefore does not assume that every evolutionary explanation must be multiscale. It asks which materially realised relationships are relevant, which scale distinctions serve an explanatory purpose, and whether extending the analysis across scales produces a demonstrable explanatory gain.
 
 <div class="aps-diagram">
   <a href="/assets/diagrams/evolution-continuity-visual.png" target="_blank" rel="noopener">

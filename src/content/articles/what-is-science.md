@@ -5,9 +5,9 @@ slug: "what-is-science"
 type: article
 status: draft
 canonical: false
-revised: 2026-10-26
+revised: 2026-11-01
 cluster: history-of-ideas
-role: core
+role: anchor
 abstract: |
   Science is exceptionally successful, yet its success cannot be explained by a single infallible method. This historical introduction follows changing ideas about observation, reason, experiment, evidence, scientific explanation, and the institutions through which knowledge is tested and shared. From ancient investigations and cross-cultural traditions through early modern experimentation to contemporary debates over scientific realism and objectivity, it asks how fallible investigators can nevertheless establish dependable knowledge. Scientific reliability emerges not from certainty or an unchanging recipe but from disciplined, corrigible practices adapted to different questions and forms of evidence.
 keyPoints:
