@@ -6422,3 +6422,169 @@ references:
     status: verified
     authority: MDPI / Entropy
     verifiedDate: '2026-11-01'
+- id: hales-1727-vegetable-staticks
+  type: book
+  authors: Hales, S.
+  year: 1727
+  title: "Vegetable Staticks, or, An Account of Some Statical Experiments on the Sap in Vegetables"
+  publisher: W. and J. Innys and T. Woodward
+  doi: 10.5962/bhl.title.562
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library, 1727 edition
+    verifiedDate: '2026-11-05'
+- id: darwin-1880-power-movement-plants
+  type: book
+  authors: Darwin, C. (assisted by F. Darwin)
+  year: 1880
+  title: The Power of Movement in Plants
+  publisher: John Murray
+  url: https://darwin-online.org.uk/EditorialIntroductions/Freeman_ThePowerofMovementinPlants.html
+  verification:
+    status: verified
+    authority: Darwin Online, first-edition bibliography
+    verifiedDate: '2026-11-05'
+- id: bose-1906-plant-response
+  type: book
+  authors: Bose, J. C.
+  year: 1906
+  title: Plant Response as a Means of Physiological Investigation
+  publisher: Longmans, Green and Co.
+  doi: 10.5962/bhl.title.12980
+  verification:
+    status: verified
+    authority: Biodiversity Heritage Library
+    verifiedDate: '2026-11-05'
+- id: langton-2016-botanists-aborigines-native-plants
+  type: book-chapter
+  authors: Langton, M.
+  year: 2016
+  title: Botanists, Aborigines and Native Plants on the Queensland Frontier
+  book-title: Land and Language in Cape York Peninsula and the Gulf Country
+  editors: Verstraete, J.-C., and Hafner, D.
+  pages: 221-240
+  publisher: John Benjamins
+  doi: 10.1075/clu.18.11lan
+  verification:
+    status: verified
+    authority: John Benjamins Publishing
+    verifiedDate: '2026-11-05'
+- id: janke-2018-smokebush-spinifex
+  type: journal-article
+  authors: Janke, T.
+  year: 2018
+  title: "From Smokebush to Spinifex: Towards Recognition of Indigenous Knowledge in the Commercialisation of Plants"
+  journal: International Journal of Rural Law and Policy
+  volume: '2018'
+  issue: '1'
+  pages: 1-37
+  doi: 10.5130/ijrlp.1.2018.5713
+  verification:
+    status: verified
+    authority: UTS ePRESS, published article PDF
+    verifiedDate: '2026-11-05'
+- id: baldassarri-2026-life-as-we-dont-know-it
+  type: journal-article
+  authors: Baldassarri, F.
+  year: 2026
+  title: "Life as We Don't Know It: Plant Life in the History and Philosophy of Science an Introduction"
+  journal: History and Philosophy of the Life Sciences
+  volume: '48'
+  article-number: '40'
+  doi: 10.1007/s40656-026-00752-3
+  verification:
+    status: verified
+    authority: Springer Nature, version of record
+    verifiedDate: '2026-11-05'
+- id: hiernaux-2026-sentience-early-plant-physiology
+  type: journal-article
+  authors: Hiernaux, Q.
+  year: 2026
+  title: "Sentience in the History of Early Plant Physiology: Augustin-Pyramus de Candolle's Contribution"
+  journal: History and Philosophy of the Life Sciences
+  volume: '48'
+  article-number: '16'
+  doi: 10.1007/s40656-026-00723-8
+  verification:
+    status: verified
+    authority: Springer Nature, version of record
+    verifiedDate: '2026-11-05'
+- id: pecere-2026-plant-cognition-after-darwin
+  type: journal-article
+  authors: Pecere, P.
+  year: 2026
+  title: "Plant Cognition after Darwin: Historical and Epistemological Remarks"
+  journal: History and Philosophy of the Life Sciences
+  volume: '48'
+  article-number: '33'
+  doi: 10.1007/s40656-026-00739-0
+  verification:
+    status: verified
+    authority: Springer Nature, version of record
+    verifiedDate: '2026-11-05'
+- id: bacon-1627-sylva-sylvarum
+  type: book
+  authors: Bacon, F.
+  year: 1627
+  title: Sylva Sylvarum; or, A Naturall Historie in Ten Centuries
+  publisher: Printed by J. H. for William Lee, London
+  editors: Rawley, W.
+  verification:
+    status: verified
+    authority: Library of Congress catalogue / first-edition bibliographic record
+    verifiedDate: '2026-11-06'
+- id: la-brosse-1628-nature-vertu-utilite-plantes
+  type: book
+  authors: La Brosse, G. de
+  year: 1628
+  title: De la nature, vertu, et utilité des plantes
+  publisher: R. Baragnes, Paris
+  verification:
+    status: verified
+    authority: Wellcome Collection / University of Liège catalogue
+    verifiedDate: '2026-11-06'
+- id: cavendish-1666-observations-experimental-philosophy
+  type: book
+  authors: Cavendish, M.
+  year: 1666
+  title: Observations upon Experimental Philosophy
+  publisher: A. Maxwell, London
+  verification:
+    status: verified
+    authority: First-edition bibliographic record
+    verifiedDate: '2026-11-06'
+- id: cavendish-1668-grounds-natural-philosophy
+  type: book
+  authors: Cavendish, M.
+  year: 1668
+  title: Grounds of Natural Philosophy
+  publisher: A. Maxwell, London
+  verification:
+    status: verified
+    authority: First-edition bibliographic record
+    verifiedDate: '2026-11-06'
+- id: bose-1903-mechanical-electrical-response-plants
+  type: archival-document
+  authors: Bose, J. C.
+  year: 1903
+  title: On Mechanical and Electrical Response in Plants
+  repository: Royal Society
+  identifier: AP/76/1
+  url: https://makingscience.royalsociety.org/items/ap_76_1/unpublished-paper-on-mechanical-and-electrical-response-in-plants-by-jagadis-chunder-bose
+  verification:
+    status: verified
+    authority: Royal Society archive AP/76/1 catalogue
+    verifiedDate: '2026-11-06'
+- id: burdon-sanderson-1904-bose-referee-report
+  type: archival-document
+  authors: Burdon Sanderson, J. S.
+  year: 1904
+  title: Referee report on Mechanical and Electrical Response in Plants by Jagadis Chunder Bose
+  repository: Royal Society
+  identifier: RR/16/10
+  url: https://makingscience.royalsociety.org/items/rr_16_10/referees-report-by-john-scott-burdon-sanderson-on-a-paper-mechanical-and-electrical-response-in-plants-by-jagadis-chunder-bose
+  verification:
+    status: verified
+    authority: Royal Society archive RR/16/10 catalogue
+    verifiedDate: '2026-11-06'
+
