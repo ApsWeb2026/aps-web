@@ -5,7 +5,7 @@ slug: how-did-plants-shape-the-scientific-understanding-of-life
 type: article
 status: draft
 canonical: false
-revised: 2026-11-06
+revised: 2026-11-07
 cluster: history-of-ideas
 role: extension
 abstract: >-
@@ -74,8 +74,6 @@ references:
 *It complements *Aristotle and the Foundations of Biology*, *Theophrastus and the Foundations of Plant Science*, *How Did the Cell Become the Unit of Life?*, and *Technology and the Transformation of Biological Knowledge*. *Whereas those articles examine particular thinkers, concepts, or investigative practices, the present article follows a broader historical question: how did plants influence what scientists understood Life to be and how they investigated its activities?*
 
 *The article also provides historical context for contemporary APS discussions of biological organisation, agency, and plant cognition. It does not establish APS definitions, demonstrate APS explanatory superiority, or treat earlier investigations as anticipating APS. Its contribution is historical and methodological: identifying how plant investigations changed explanatory questions, evidential practices, and the interpretation of living activity.*
-
-# How Did Plants Shape the Scientific Understanding of Life?
 
 ## Introduction - Why plants matter to the history of biological explanation
 
@@ -191,7 +189,7 @@ This case also exposes a general philosophical difficulty. If plants and animals
 
 Modern plant biology has made available detailed investigations of signalling, development, environmental responsiveness, physiological integration, and interaction with other organisms. These studies have stimulated renewed philosophical debate about how to describe plant activity. Some authors regard aspects of plant regulation as warranting terms such as agency or cognition; others argue that such terminology obscures important distinctions among responsiveness, control, learning, representation, and conscious experience. The historical record does not settle this debate, but it clarifies why the concepts are contested.
 
-One recurring difficulty is the temptation to move too quickly between levels of description. A plant may alter its growth in response to environmental conditions. That observation may support a physiological explanation involving signal transduction, growth regulation, and material constraints. Whether the same phenomenon should be called -decision-making-, -cognition-, or -intelligence- is a further conceptual question. Whether it involves subjective experience is different again. The categories cannot be treated as interchangeable merely because each suggests activity rather than passivity.
+One recurring difficulty is the temptation to move too quickly between perspectives of description. A plant may alter its growth in response to environmental conditions. That observation may support a physiological explanation involving signal transduction, growth regulation, and material constraints. Whether the same phenomenon should be called 'decision-making', 'cognition', or 'intelligence' is a further conceptual question. Whether it involves subjective experience is different again. The categories cannot be treated as interchangeable merely because each suggests activity rather than passivity.
 
 The history traced here offers reasons to resist both exaggeration and dismissal. It would be mistaken to assume that plants are passive simply because their activity differs from animal movement. It would be equally mistaken to infer mental capacities from every adaptive-looking response. The evidential challenge is to identify what a proposed concept adds to an explanation and how that addition could be tested against alternatives. Historical controversies over plant sensibility and physiological continuity show that disputes about terminology are often also disputes about methods and standards of proof.
 
